@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2025-05-26"
+last_updated: "2025-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -319,7 +319,9 @@ I. No haber sido condenada o condenado por el delito de violencia política cont
 
 II. No estar condenada o condenado mediante sentencia ejecutoriada, por delito de acoso sexual o abuso sexual y/o delitos de violencia en razón de género o violencia familiar;
 
-III. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2025)</small>
+
+III. No ser deudora o deudor alimentario moroso, lo cual deberá acreditar con el respectivo certificado de no inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos, y
 
 IV. Presentar las versiones públicas de las declaraciones patrimoniales y de interés, ante el Instituto Estatal Electoral de Hidalgo, garantizando la observancia de los principios de protección de datos personales y demás disposiciones que resulten aplicables en la materia.
 
@@ -7320,5 +7322,11 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 P.O. 26 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 235 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN FINANCIERA DE LAS MUJERES VÍCTIMAS DE VIOLENCIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 281 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 10 BIS DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, EN MATERIA DE DEUDORES ALIMENTARIOS MOROSOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
