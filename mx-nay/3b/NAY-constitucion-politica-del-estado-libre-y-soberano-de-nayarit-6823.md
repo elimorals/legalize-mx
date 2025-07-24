@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2025-05-05"
+last_updated: "2025-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -189,41 +189,53 @@ El Estado y los Municipios en los términos que la ley de la materia señale, es
 
 XII. El derecho de acceso a la información pública y a la transparencia. La información en posesión de los sujetos obligados se regirá conforme a los principios de máxima publicidad y expedites, sin más limitaciones que las relativas a los datos personales o la información que sea declarada reservada o confidencial, en los términos que disponga la ley.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE JULIO DE 2025)</small>
 
-El Estado contará con un organismo autónomo, especializado, imparcial y colegiado denominado Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, encargado de garantizar la transparencia y el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, dotado de autonomía operativa, de gestión y de decisión, con personalidad jurídica y patrimonio propios.
+> <small>(DEROGADO TERCERO PÁRRAFO, P.O. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 24 DE JULIO DE 2025)</small>
 
-Dicho organismo se integrará por tres comisionados designados por el Congreso del Estado con el voto de las dos terceras partes de los diputados presentes y durarán en su cargo siete años. Para su designación se observará el principio de paridad de género y deberán cumplir con los requisitos que establezca la ley.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-Los miembros del Instituto no podrán tener otro empleo, cargo o comisión, con excepción de actividades en instituciones docentes, científicas o de beneficencia; solo podrán ser removidos de su cargo en los términos del Título Octavo de esta Constitución y serán sujetos de juicio político.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-El Presidente del Instituto será designado por los propios comisionados mediante voto secreto para un periodo de tres años y seis meses con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe ante el Congreso del Estado en la fecha y en los términos que disponga la Ley.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 24 DE JULIO DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 Para proteger el derecho fundamental de acceso a la información, se establecen los siguientes criterios, principios y bases:
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-A. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad en los términos que fijen las leyes. En la interpretación y aplicación de este derecho deberá prevalecer el principio de máxima publicidad.
+A. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, municipios, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad en los términos que fijen las leyes. En la interpretación y aplicación de este derecho deberá prevalecer el principio de máxima publicidad.
 
-B. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+B. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
 
 C. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
 D. Los servicios para el acceso a la información serán gratuitos y de costo razonable en la reproducción de documentos. En toda solicitud de información que así se precise, deberá suplirse la deficiencia que hubiese en su formulación.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-E. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Los procedimientos se sustanciarán ante el organismo garante de la transparencia en el Estado, cuyo funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Las resoluciones que determinen la reserva, confidencialidad, inexistencia o negativa de la información, podrán ser combatidas por los particulares en los términos que establezca la ley.
+E. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos. Los procedimientos se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes en la materia.
 
-F. Los sujetos obligados deberán organizar el uso de la información pública gubernamental y preservar sus documentos en archivos administrativos actualizados, publicando a través de los medios electrónicos disponibles, la información relativa completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2025)</small>
+
+F. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el ámbito estatal y municipal para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2025)</small>
+
+Las leyes en la materia determinarán los sujetos obligados, autoridades garantes, bases y procedimientos para el ejercicio efectivo de estos derechos.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2025)</small>
+
+Para el ejercicio de sus atribuciones los sujetos obligados y las autoridades garantes se regirán por la legislación en materia de transparencia y acceso a la información pública, y de protección de datos personales, así como por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2025)</small>
+
+La inobservancia a las disposiciones en materia de acceso a la información pública y protección de datos personales será sancionada en los términos que dispongan las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2025)</small>
+
+La ley establecerá las medidas de apremio que podrán imponer, en su caso, las autoridades garantes para asegurar el cumplimiento de sus decisiones;
 
 G. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
@@ -403,7 +415,9 @@ XIX. En los juicios o procedimientos seguidos en forma de juicio, se deberá res
 
 La protección y promoción del desarrollo de los valores de pueblos y comunidades indígenas y afromexicanas, que habitan en el Estado de Nayarit, además de observar lo ordenado en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, se realizará conforme a las bases y principios siguientes:
 
-El Estado de Nayarit tiene composición pluricultural y multilingüe, integrada por los pueblos y comunidades Na'ayeri, Meshikan, O'dam y Wixárika, les asiste el derecho a la libre determinación expresada en la autonomía para decidir sobre sus formas internas de convivencia y organización social, económica, cultural, política o parte de ellas; en la creación de sus sistemas normativos, formas de gobierno tradicional, desarrollo, formas de expresión religiosa y artística y en la facultad para proteger su identidad y patrimonio cultural.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+El Estado de Nayarit tiene composición pluricultural y multilingüe, integrada por los pueblos y comunidades Na’ayeri, Meshikan, O’dam y Wixárika, a los cuales les asiste el derecho a la libre determinación expresada en la autonomía para decidir sobre sus formas internas de convivencia y organización social, económica, cultural, política o parte de ellas; en la creación de sus sistemas normativos, formas de gobierno tradicional, desarrollo, formas de expresión religiosa y artística y en la facultad para proteger su identidad y patrimonio cultural.
 
 El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. Para el reconocimiento de los pueblos y comunidades indígenas se deben tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos, de asentamiento físico y de autoadscripción.
 
@@ -1217,9 +1231,11 @@ XXXV. (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
 XXXVI. Conceder licencia al Gobernador, a los Diputados, a las personas servidoras públicas del Poder Judicial del Estado conforme al artículo 88 de esta Constitución y en los términos que establezcan las leyes, y demás servidores públicos en los casos que por mandato de Ley deba intervenir el Congreso, así como para reincorporarse a sus funciones. Asimismo, podrá conocer y resolver en su caso, sobre las licencias solicitadas por los integrantes de los ayuntamientos cuando así corresponda.
 
+(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXXVII, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2025)</small>
 
-XXXVII. Elegir a la persona integrante del Órgano de Administración Judicial que le compete, así como designar a la persona que integrará el Comité Estatal de Evaluación a que hace referencia el artículo 84 de esta Constitución.
+XXXVII. Elegir a la persona integrante del Órgano de Administración Judicial que le compete, ASÍ COMO DESIGNAR A LA PERSONA QUE INTEGRARÁ EL COMITÉ ESTATAL DE EVALUACIÓN A QUE HACE REFERENCIA EL ARTÍCULO 84 DE ESTA CONSTITUCIÓN.
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
@@ -1551,9 +1567,11 @@ XII.- Nombrar y remover libremente a los titulares de las dependencias señalada
 
 Someter a la aprobación del Congreso, la designación del Fiscal General, del titular del Centro de Conciliación Laboral del Estado de Nayarit y la ratificación de la persona titular de la Secretaría de Seguridad y Protección Ciudadana, del titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno, del titular de la Junta Directiva y Consejeros Independientes del Fondo de Ahorro para el Retiro Digno de las Trabajadoras y Trabajadores del Estado Libre y Soberano de Nayarit, así como de quien presida la Junta de (sic) Directiva del Fondo Soberano Nuevo Nayarit.
 
+(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL ÚLTIMO PÁRRAFO DE LA FRACCIÓN XII, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
 
-Elegir a la persona integrante del Órgano de Administración Judicial que le compete, así como designar a la persona que integrará el Comité Estatal de Evaluación a que hace referencia el artículo 84 de esta Constitución.
+Elegir a la persona integrante del Órgano de Administración Judicial que le compete, ASÍ COMO DESIGNAR A LA PERSONA QUE INTEGRARÁ EL COMITÉ ESTATAL DE EVALUACIÓN A QUE HACE REFERENCIA EL ARTÍCULO 84 DE ESTA CONSTITUCIÓN.
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
 
@@ -1751,9 +1769,9 @@ En los términos en que la ley disponga, las sesiones del Pleno y de las Salas s
 
 Es facultad del Pleno del Tribunal Superior de Justicia, emitir los acuerdos generales necesarios para el mejor y pronto despacho de los asuntos.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-Las magistradas y los magistrados, las juezas y los jueces, los miembros del Tribunal de Disciplina Judicial y demás personal del Poder Judicial, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo.
+Las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina; las Juezas y los Jueces, así como el personal del Poder Judicial, percibirán una remuneración adecuada e irrenunciable. Dicha remuneración no podrá exceder a la asignada, en el presupuesto correspondiente, a la persona titular del Poder Ejecutivo del Estado ni a la persona titular de la Presidencia de la República, y no podrá ser disminuida durante el ejercicio de su encargo.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -1843,13 +1861,13 @@ V.- Haber residido en el país durante el año anterior al día de la publicaci�
 
 VI.- No haber ocupado cargo de elección popular, de dirigencia de algún partido político, de Fiscal General o Secretario de alguna dependencia del Poder Ejecutivo, DURANTE 90 DÍAS ANTERIORES A LA DESIGNACIÓN.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-Las magistradas y los magistrados del Tribunal Superior de Justicia durarán en el ejercicio de su encargo nueve años, podrán ser reelectos por una sola vez. Sólo podrán ser privados de sus puestos en los términos que determine esta Constitución, y la Ley de Responsabilidades Administrativas del Estado de Nayarit.
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia durarán en el ejercicio de su encargo nueve años, podrán ser reelectos por una sola vez. Sólo podrán ser privados de sus puestos en los términos que determine esta Constitución, la Ley Orgánica del Poder Judicial del Estado de Nayarit y la Ley de Responsabilidades Administrativas del Estado de Nayarit.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-Las magistradas y los magistrados del Tribunal de Disciplina Judicial, durarán en el ejercicio de su encargo seis años improrrogables; las Juezas y los jueces durarán en su encargo nueve años y podrán ser reelectos por una sola ocasión. Sólo podrán ser privados de sus puestos en los términos que determine esta Constitución, y la Ley de Responsabilidades Administrativas del Estado de Nayarit.
+Las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, durarán en el ejercicio de su encargo seis años improrrogables; las Juezas y los Jueces durarán en su encargo nueve años y podrán ser reelectos por una sola ocasión. Sólo podrán ser privados de sus puestos en los términos que determine esta Constitución, la Ley Orgánica del Poder Judicial del Estado de Nayarit y la Ley de Responsabilidades Administrativas del Estado de Nayarit.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -1867,29 +1885,39 @@ II. Los Poderes del Estado postularán el número de candidaturas que correspond
 
 a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo.
 
-b) Se conformará un Comité Estatal de Evaluación compuesto por cuatro personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia así como antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
+(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO b) DE LA FRACCIÓN II DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Quienes integren el Comité Estatal de Evaluación deberán cumplir con al menos los siguientes requisitos, observando la paridad de género:
+b) SE CONFORMARÁ UN COMITÉ ESTATAL DE EVALUACIÓN COMPUESTO POR CUATRO PERSONAS RECONOCIDAS EN LA ACTIVIDAD JURÍDICA, QUE RECIBIRÁ LOS EXPEDIENTES DE LAS PERSONAS ASPIRANTES, EVALUARÁ EL CUMPLIMIENTO DE LOS REQUISITOS CONSTITUCIONALES Y LEGALES E IDENTIFICARÁ A LAS PERSONAS QUE CUENTEN CON LOS CONOCIMIENTOS TÉCNICOS NECESARIOS PARA EL DESEMPEÑO DEL CARGO Y SE HAYAN DISTINGUIDO POR SU HONESTIDAD, BUENA FAMA PÚBLICA, COMPETENCIA ASÍ COMO ANTECEDENTES ACADÉMICOS Y PROFESIONALES EN EL EJERCICIO DE LA ACTIVIDAD JURÍDICA.
 
-1. Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos;
+QUIENES INTEGREN EL COMITÉ ESTATAL DE EVALUACIÓN DEBERÁN CUMPLIR CON AL MENOS LOS SIGUIENTES REQUISITOS, OBSERVANDO LA PARIDAD DE GÉNERO:
 
-2. No haber sido condenadas por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+1. CONTAR CON CIUDADANÍA MEXICANA, EN PLENO GOCE DE SUS DERECHOS CIVILES Y POLÍTICOS;
 
-3. Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y ejercicio profesional de la actividad jurídica de por lo menos cinco años, y
+2. NO HABER SIDO CONDENADAS POR DELITO ALGUNO, SALVO QUE HUBIESE SIDO DE CARÁCTER NO INTENCIONAL O IMPRUDENCIAL;
 
-4. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación.
+3. CONTAR CON TÍTULO DE LICENCIATURA EN DERECHO EXPEDIDO LEGALMENTE, CON ANTIGÜEDAD MÍNIMA DE CINCO AÑOS, Y EJERCICIO PROFESIONAL DE LA ACTIVIDAD JURÍDICA DE POR LO MENOS CINCO AÑOS, Y
 
-c) El Comité Estatal de Evaluación se integrará por una persona designada por el Congreso del Estado a través de su Comisión de Gobierno; una persona designada por el titular del Poder Ejecutivo y, dos personas designadas por el Pleno del Tribunal Superior de Justicia.
+4. NO DESEMPEÑAR NI HABER DESEMPEÑADO CARGO DE DIRECCIÓN NACIONAL O ESTATAL EN ALGÚN PARTIDO POLÍTICO EN LOS ÚLTIMOS TRES AÑOS ANTERIORES A LA DESIGNACIÓN.
 
-d) El Comité Estatal de Evaluación integrará por cada uno de los Poderes, un listado de las personas aspirantes en los siguientes términos:
+(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO c) DE LA FRACCIÓN II DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-3 (sic). Dos personas tratándose de aspirantes a las Magistraturas del Tribunal Superior de Justicia y de hasta tres personas en el caso de Juezas y Jueces del Poder Judicial del Estado, y
+c) EL COMITÉ ESTATAL DE EVALUACIÓN SE INTEGRARÁ POR UNA PERSONA DESIGNADA POR EL CONGRESO DEL ESTADO A TRAVÉS DE SU COMISIÓN DE GOBIERNO; UNA PERSONA DESIGNADA POR EL TITULAR DEL PODER EJECUTIVO Y, DOS PERSONAS DESIGNADAS POR EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-4. Dos personas en el caso de aspirantes a las Magistraturas del Tribunal de Disciplina Judicial del Poder Judicial del Estado.
+(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO d) DE LA FRACCIÓN II DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e) El Comité Estatal de Evaluación establecerá criterios y metodologías de evaluación y selección adecuadas para identificar a las personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo, así como de postulación común de candidaturas.
+d) EL COMITÉ ESTATAL DE EVALUACIÓN INTEGRARÁ POR CADA UNO DE LOS PODERES, UN LISTADO DE LAS PERSONAS ASPIRANTES EN LOS SIGUIENTES TÉRMINOS:
 
-f) El Comité Estatal de Evaluación enviará los listados definitivos al Congreso del Estado.
+3 (sic). DOS PERSONAS TRATÁNDOSE DE ASPIRANTES A LAS MAGISTRATURAS DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DE HASTA TRES PERSONAS EN EL CASO DE JUEZAS Y JUECES DEL PODER JUDICIAL DEL ESTADO, Y
+
+4. DOS PERSONAS EN EL CASO DE ASPIRANTES A LAS MAGISTRATURAS DEL TRIBUNAL DE DISCIPLINA JUDICIAL DEL PODER JUDICIAL DEL ESTADO.
+
+(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO e) DE LA FRACCIÓN II DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+e) EL COMITÉ ESTATAL DE EVALUACIÓN ESTABLECERÁ CRITERIOS Y METODOLOGÍAS DE EVALUACIÓN Y SELECCIÓN ADECUADAS PARA IDENTIFICAR A LAS PERSONAS QUE CUENTEN CON LOS CONOCIMIENTOS TÉCNICOS NECESARIOS PARA EL DESEMPEÑO DEL CARGO, ASÍ COMO DE POSTULACIÓN COMÚN DE CANDIDATURAS.
+
+(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI.2, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO f) DE LA FRACCIÓN II DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+f) EL COMITÉ ESTATAL DE EVALUACIÓN ENVIARÁ LOS LISTADOS DEFINITIVOS AL CONGRESO DEL ESTADO.
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -1901,7 +1929,11 @@ Las personas candidatas podrán ser postuladas simultáneamente por uno o varios
 
 IV. La autoridad electoral competente efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al órgano jurisdiccional electoral competente, quien resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
 
-Para el caso de Magistradas y Magistrados, e integrantes del Tribunal de Disciplina Judicial, así como de Juezas y Jueces, la elección se realizará a nivel estatal conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. Cada Poder del Estado postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo lo hará mediante votación de dos terceras partes de sus integrantes presentes, y el Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia, postulará hasta dos personas por mayoría de ocho votos.
+(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+Para el caso de Magistradas y Magistrados, Magistradas y Magistrados del Tribunal de Disciplina Judicial, así como Juezas y Jueces, la elección se realizará a nivel estatal conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. Por cada Poder del Estado se postularán hasta dos personas para cada cargo, y tres para el caso de Juezas y Jueces, MEDIANTE EL PROCESO DE EVALUACIÓN DEL COMITÉ ESTATAL DE EVALUACIÓN.
 
 El Congreso incorporará a los listados que remita a la autoridad electoral competente a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
 
@@ -1927,17 +1959,31 @@ En el Poder Judicial, la administración estará a cargo de un órgano de admini
 
 Apartado A. Del Órgano de Administración Judicial.
 
-El órgano de administración judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número, división, competencia territorial y especialización por materias de los Juzgados; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2025)</small>
 
-El Pleno del órgano de administración judicial se integrará por cuatro personas que durarán en su encargo tres años prorrogables por un mismo periodo, de las cuales una será designada por el Poder Ejecutivo, por conducto de su titular; una por el Congreso del Estado mediante votación calificada de dos tercios de sus integrantes presentes; uno por el Pleno del Tribunal Superior de Justicia, con mayoría de siete votos y, quien presida el Tribunal Superior de Justicia será la Presidenta o Presidente del Órgano de Administración.
+El órgano de administración judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número, división, competencia territorial y especialización por materias de los Juzgados; el ingreso, permanencia y separación del personal administrativo y de carrera judicial de conformidad con lo que establezca el Tribunal de Disciplina, así como su formación y promoción y la evaluación del desempeño, únicamente en lo que concierne al personal administrativo la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
 
-Quien presida el órgano de administración, en caso de empate tendrá voto de calidad, de conformidad con lo que establezcan las leyes.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE JULIO DE 2025)</small>
+
+El Pleno del órgano de administración judicial se integrará por tres personas que durarán en su encargo tres años prorrogables por un mismo periodo, quienes deberán de cumplir los requisitos señalados en la presente Constitución. La integración del órgano de administración se realizará conforme a lo siguiente:
+
+I. Una persona será designada por el titular del Poder Ejecutivo;
+
+II. Una persona será designada por el Congreso del Estado, a propuesta de la Comisión de Gobierno, mediante el voto calificado de las dos terceras partes de los integrantes presentes. Si no se alcanzara dicha mayoría, se procederá a una segunda votación. En caso de rechazo, la Comisión de Gobierno podrá presentar una nueva propuesta, la cual será votada por mayoría simple de los integrantes presentes, y
+
+III. Una persona será designada por los Plenos del Poder Judicial del Estado, por mayoría de votos.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+La Presidencia del Órgano será rotatoria, en términos de lo que establezca la Ley Orgánica del Poder Judicial.
 
 Quienes integren el Pleno del órgano de administración judicial deberán de ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del órgano de administración judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempañar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
 
 Durante su encargo, las personas integrantes del Pleno del órgano de administración sólo podrán ser removidos en los términos de esta Constitución y de la Ley de Responsabilidades Administrativas del Estado de Nayarit. En caso de defunción, renuncia o ausencia definitiva de alguno de sus integrantes, la autoridad que lo designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
 
-La Ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carreja judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+La Ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
 
 El órgano de administración judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Escuela Estatal de Formación Judicial responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial, sus órganos auxiliares y, en su caso, del personal de las Fiscalías, Defensoría Pública, Comisión Estatal de Defensa de los Derechos Humanos, Instituciones de Seguridad Pública y del público en general, así como de llevar a cabo concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
 
@@ -1945,15 +1991,25 @@ De conformidad con lo que establezca la ley, el órgano de administración judic
 
 El órgano de administración judicial, a solicitud del Pleno del Tribunal Superior de Justicia, podrá concentrar competencia en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia.
 
-El órgano de administración judicial elaborará el presupuesto del Poder Judicial. El presupuesto será remitido por dicho órgano para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-El Poder Judicial del Estado gozará de autonomía presupuestal. El presupuesto que le sea asignado deberá ser suficiente para el cumplimiento de sus funciones y no podrá ser inferior al del año fiscal anterior, considerando las ampliaciones presupuestales y el índice inflacionario que establezca el Banco de México.
+El órgano de administración judicial deberá elaborar el presupuesto del Poder Judicial, el cual una vez, respectivamente autorizado, en su proyección conjunta, será remitido a la persona titular del Poder Ejecutivo para su inclusión en el proyecto de presupuesto general de egresos del Estado, que será sometido a la aprobación del Congreso.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+El Poder Judicial administrará con autonomía su presupuesto, por conducto de su órgano de administración judicial, y destinará, en renglones separados, los recursos para los Tribunales, juzgados y órganos que lo integran, debiendo quien presida el Órgano rendir un informe anualmente al Congreso acerca de su ejercicio, el presupuesto que le sea asignado no podrá ser inferior al del año fiscal anterior, considerando las ampliaciones presupuestales y el índice inflacionario que establezca el Banco de México.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2025)</small>
+
+El Fondo del Poder Judicial será administrado por el órgano de administración judicial, y se integrará con los productos y rendimientos que se generen por las inversiones de los depósitos en dinero o valores que se efectúen ante los Tribunales, y además con los ingresos por el pago de multas, cauciones o por cualquier otra prestación autorizada por la ley, en ejercicio de las atribuciones del Poder Judicial. Dicho fondo será aplicado exclusivamente al mejoramiento de la impartición de justicia.
 
 En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
 
 Apartado B. Del Tribunal de Disciplina Judicial.
 
-El Tribunal de Disciplina Judicial será un órgano del Poder Judicial con independencia técnica, de gestión y para emitir sus resoluciones.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2025)</small>
+
+El Tribunal de Disciplina Judicial será el órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones, encargado de conducir la vigilancia y disciplina de todos sus miembros, incluyendo Magistradas, Magistrados, Juezas y Jueces de Primera Instancia, y garantizará la independencia judicial en su actuar. Lo anterior, mediante los procedimientos de evaluación del desempeño jurisdiccional y seguimiento de resultados, así como de responsabilidad administrativa, a través de los cuales se podrán investigar y sancionar las conductas denunciadas.
 
 El Tribunal de Disciplina se integrará por tres miembros electos por la ciudadanía a nivel estatal, conforme al procedimiento establecido en el artículo 84 de esta Constitución.
 
@@ -1963,15 +2019,23 @@ El Pleno será la autoridad substanciadora y resolutora en los términos que est
 
 Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos; ordenar medidas cautelares y de apremio; y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la ley determine.
 
-El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas en una única instancia, fungiendo como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones se resolverán por mayoría, en los términos que señale la ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de éstas.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas en única instancia, fungiendo como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones se resolverán por mayoría, en los términos que señale la ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de éstas.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de un órgano responsable de integrar y presentar al Pleno, los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
 
 El Tribunal de Disciplina Judicial deberá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular ante el Congreso del Estado.
 
-Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, y de las Juezas y Jueces del Poder Judicial del Estado, con excepción de Magistradas y Magistrados del Tribunal Superior de Justicia, que sólo podrán ser removidos en los términos de esta Constitución y la Ley de Responsabilidades Administrativas del Estado de Nayarit.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-El Tribunal de Disciplina Judicial evaluará el desempeño de los integrantes del Poder Judicial del Estado. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación en los términos de la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+El Tribunal de Disciplina Judicial evaluará el desempeño de las Magistradas y Magistrados del Tribunal Superior de Justicia, y Juezas y Jueces que resulten electas (sic) en la elección estatal que corresponda durante su primer año de ejercicio, así mismo, evaluará al personal jurisdiccional del Poder Judicial del Estado. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
 
 La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
 
@@ -1989,21 +2053,33 @@ Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Ju
 
 La presidencia del Tribunal Superior de Justicia se renovará cada tres años de manera rotatoria, las magistradas y magistrados integrantes del Pleno del Tribunal Superior de Justicia, elegirán de entre ellos a su Presidente o Presidenta, sin posibilidad de reelección. La elección se llevará a cabo, el último día hábil del mes de septiembre del año que corresponda.
 
-La o el presidente del Tribunal Superior de Justicia y del Órgano de Administración Judicial, rendirá anualmente, ante el Congreso, un informe por escrito respecto del ejercicio de facultades y atribuciones que esta Constitución y las leyes confiere al Poder Judicial, en los términos que disponga la ley.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-Las Magistradas y los Magistrados, las Juezas y los Jueces, así como los miembros del Tribunal de Disciplina Judicial, protestarán ante el Congreso del Estado, en la forma siguiente:
+La o el presidente del Tribunal Superior de Justicia, rendirá anualmente, ante el Congreso, un informe por escrito respecto del ejercicio de facultades y atribuciones que esta Constitución y las leyes confiere al Poder Judicial, en los términos que disponga la ley orgánica.
 
-Presidente del Congreso "¿Protesta desempeñar leal y patrióticamente el cargo de Magistrado o Magistrada, Juez o Jueza del Tribunal Superior de Justicia del Poder Judicial del Estado de Nayarit, que se le ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, así como las Leyes que de ellas emanen mirando en todo por el bien y la prosperidad del Estado?"
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2025)</small>
+
+Las Magistradas y los Magistrados del Tribunal Superior, Magistradas y Magistrados del Tribunal de Disciplina Judicial, así como Juezas y Jueces, protestarán ante el Congreso del Estado, en la forma siguiente:
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+Presidente del Congreso "¿Protesta desempeñar leal y patrióticamente el cargo de Magistrado o Magistrada del Tribunal Superior de Justicia; Magistrada o Magistrado del Tribunal de Disciplina; Juez o Jueza del Poder Judicial del Estado de Nayarit, que se le ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, así como las Leyes que de ellas emanen mirando en todo por el bien y la prosperidad del Estado?"
 
 La Magistrada o Magistrado, la Jueza o el Juez:
 
 "Sí protesto".
 
-El Presidente
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2025)</small>
+
+El Presidente:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE JULIO DE 2025)</small>
 
 "Si no lo hiciereis así, la Nación y Nayarit os lo demande".
 
-La o el Secretario General de Acuerdos y demás servidores que señale la Ley Orgánica del Poder Judicial, protestarán ante el Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+La o el Secretario General de Acuerdos y demás servidores que señale la Ley Orgánica del Poder Judicial, protestarán ante el Pleno correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -2039,23 +2115,23 @@ Las competencias, modo de suplir las faltas y obligaciones de las Magistradas y 
 
 Los nombramientos de las y los servidores públicos del Poder Judicial del Estado, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de acuerdo al procedimiento establecido por esta Constitución y en la Ley Orgánica respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2025)</small>
 
 ###### Art. 90.
 
-Los Magistrados del Tribunal Superior de Justicia, los Jueces y Secretarios, miembros del Tribunal de Disciplina Judicial y los integrantes del Pleno del órgano de administración judicial, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, del Estado, Municipios o de particulares, salvo los cargos no remunerados en instituciones científicas, docentes, literarias o de beneficencia.
+Las Magistradas y Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial, Juezas y Jueces, y los integrantes del Pleno del órgano de administración judicial, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, del Estado, Municipios o de particulares, salvo los cargos no remunerados en instituciones científicas, docentes, literarias o de beneficencia.
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 La infracción a lo previsto en el párrafo anterior será sancionado (sic) con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que esta Constitución y las leyes prevean.
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-Las personas que hayan ocupado el cargo de magistrada o magistrado o jueza o juez, así como los miembros del Tribunal de Disciplina Judicial no podrán, dentro del periodo de un año, plazo en que disfrutarán de un haber por retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, a excepción de la defensa de causas propias, de su cónyuge, concubina o concubinario, ascendientes, descendientes y colaterales hasta el cuarto grado. De no cumplir con esta disposición, se suspenderá el haber de retiro o en su caso serán acreedores a la sanción que corresponda.
+Las personas que hayan ocupado el cargo de Magistrada o Magistrado del Tribunal Superior de Justicia, Magistrado o Magistrada del Tribunal de Disciplina Judicial, así como Juezas y Jueces, no podrán, dentro del periodo de un año, plazo en que disfrutarán de un haber por retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, a excepción de la defensa de causas propias, de su cónyuge, concubina o concubinario, ascendientes, descendientes y colaterales hasta el cuarto grado.
 
-(ADICIONADO, P.O. 27 DE ENERO DE 2025) (F. DE E., P.O. 13 DE MARZO DE 2025)
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-La Ley Orgánica del Poder Judicial establecerá los términos en que habrá de gozarse de un haber por retiro. Durante dicho plazo, la persona que se haya desempeñado como Magistrado o Magistrada, Jueza o Juez y miembro del Tribunal de Disciplina Judicial, no podrán ocupar los cargos señalados en la fracción VI del artículo 83 de esta Constitución.
+La Ley Orgánica del Poder Judicial establecerá los términos en que habrá de gozarse de un haber por retiro. Durante dicho plazo, la persona que se haya desempeñado como Magistrada o Magistrado del Tribunal Superior de Justicia, Magistrada o Magistrado del Tribunal de Disciplina Judicial, Juezas y Jueces, no podrán ocupar los cargos señalados en la fracción VI del artículo 83 de esta Constitución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
@@ -2937,11 +3013,11 @@ La Auditoría Superior del Estado y la Secretaría del Ejecutivo Estatal respons
 
 La responsabilidad del Estado y sus Municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa, en los términos que establezca la ley. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2025)</small>
 
 ###### Art. 124.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa, los miembros del Tribunal de Disciplina Judicial, los integrantes del Pleno del órgano de administración judicial, los Secretarios de Despacho y los Servidores Públicos de la estructura básica centralizada, el Fiscal General, los Jueces de Primera Instancia, los Comisionados del organismo garante de la transparencia en el Estado, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de Fideicomisos Públicos, los Coordinadores Generales, Presidentes, Regidores y Síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamento y oficinas de los mismos.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, las Magistradas y los Magistrados del Tribunal Superior de Justicia, las Magistradas y los Magistrados del Tribunal de Justicia Administrativa, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, los integrantes del Pleno del Órgano de Administración Judicial, los Secretarios de Despacho y los Servidores Públicos de la estructura básica centralizada, el Fiscal General, los Jueces de Primera Instancia, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de Fideicomisos Públicos, los Coordinadores Generales, Presidentes, Regidores y Síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamento y oficinas de los mismos.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -3017,9 +3093,9 @@ Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido 
 
 El Sistema Local Anticorrupción es la instancia de coordinación entre las autoridades estatales y municipales, en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2025)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción del Estado; de la Secretaría del Poder Ejecutivo responsable del control interno; por el presidente del Tribunal de Justicia Administrativa; el presidente del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit; así como por un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana del Estado;
+I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción del Estado; de la Secretaría del Poder Ejecutivo responsable del control interno; por quien presida el Tribunal de Justicia Administrativa; así como por una persona representante del Tribunal de Disciplina Judicial y otra del Comité de Participación Ciudadana del Estado;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la Ley, y
 
@@ -3179,11 +3255,11 @@ Para lo anterior, se atenderán los principios de igualdad, legalidad, conservac
 
 VII.- Los sectores social y privado, sujetarán sus acciones para la explotación y uso del territorio y los recursos naturales, a las normas y procedimientos del Sistema Estatal de Planeación, a fin de garantizar su aprovechamiento sustentable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2025)</small>
 
 ###### Art. 135.
 
-Las elecciones del Gobernador del Estado, de los miembros del Congreso y de los integrantes de los Ayuntamientos se realizarán mediante elecciones libres, auténticas y periódicas, mismas que se celebrarán el primer domingo de junio del año que corresponda, mediante sufragio universal, secreto y directo.
+Las elecciones del Gobernador del Estado, de los miembros del Congreso, de las Magistradas, Magistrados, Juezas y Jueces del Poder Judicial del Estado y de los integrantes de los Ayuntamientos se realizarán mediante elecciones libres, auténticas y periódicas, mismas que se celebrarán el primer domingo de junio del año que corresponda, a través del sufragio universal, secreto y directo.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
@@ -4921,13 +4997,17 @@ También declarará la validez de la elección que corresponda y enviará sus re
 
 Las personas Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, las Juezas y Jueces, que resulten electos tomarán protesta de su encargo ante el Congreso del Estado por única vez el 15 de octubre de 2025.
 
-El Órgano de Administración Judicial deberá estar instalado a más tardar el 1° de octubre de 2025 y adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 15 de octubre de 2025.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+El Órgano de Administración Judicial se instalará el 15 de octubre de 2025 y deberá adscribir a las personas electas al órgano judicial que le corresponda.
 
 TERCERO. Por única ocasión el período de las Magistradas y Magistrados, y de las Juezas y Jueces que resulten electos en la elección extraordinaria que se celebre en el año 2025 conforme al artículo Segundo transitorio del presente Decreto durará ocho años, por lo que vencerá en el año 2033, con el propósito de homologar los procesos electorales locales con las federales.
 
 CUARTO. Las Juezas y Jueces cuyo nombramiento concluye en el año de la elección extraordinaria 2025, podrán seguir en funciones hasta el día en que tomen protesta las personas que resulten electas y les será aplicables las disposiciones previstas en este Decreto.
 
-QUINTO. Por única ocasión el periodo de duración de quien resulte designado como titular de la presidencia del Tribunal Superior de Justicia se hará extensivo hasta el año 2027.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
+QUINTO. Por única ocasión, para efectos de lo dispuesto en el artículo 86 de la Constitución Política del Estado Libre y Soberano de Nayarit, la elección de la persona que presida el Pleno del Tribunal Superior de Justicia se llevará a cabo el 15 de octubre de 2025, una vez que las Magistradas y los Magistrados electos hayan rendido protesta ante el Honorable Congreso del Estado. El periodo de ejercicio de dicha presidencia concluirá el 1 de septiembre de 2028.
 
 SEXTO. El Consejo de la Judicatura del Estado, continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, hasta en tanto sean creados el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial.
 
@@ -4945,7 +5025,7 @@ El Consejo de la Judicatura del Estado, aprobará los acuerdos generales y espec
 
 El Consejo de la Judicatura del Estado, continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al Órgano de Administración Judicial, según corresponda.
 
-Las personas que integren el Pleno del Órgano de Administración Judicial a que se refiere el artículo 85 Apartado A, del presente Decreto y cuya designación corresponda al Pleno del Tribunal de Justicia, deberán ser designadas para iniciar sus funciones por las y los Magistrados del Pleno de dicho Tribunal que hayan sido emanados de la elección extraordinaria.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 24 DE JULIO DE 2025)</small>
 
 OCTAVO. Las personas interesadas en participar en la elección, podrán inscribirse en la Convocatoria de cada uno de los Poderes siempre y cuando sea para un mismo cargo.
 
@@ -5000,3 +5080,31 @@ TERCERO. En un plazo de ciento ochenta días hábiles contados a partir de la ex
 El procedimiento para la designación del titular de la Fiscalía Especializada en Investigación de Delitos relacionados con las Violencias de Género contra las Mujeres, funciones, competencia y su organización serán determinados por la ley reglamentaria en los términos que menciona el artículo 100 de esta Constitución.
 
 CUARTO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, y artículo 96 de la Ley Orgánica del Poder Legislativo, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DEL PODER JUDICIAL LOCAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. El Poder Ejecutivo y el Poder Legislativo deberán designar a sus respectivos representantes ante el Órgano de Administración Judicial, a más tardar un día antes del 15 de octubre del año 2025, fecha en la que se instalará dicho órgano. El Poder Judicial designará a su representante en la primera sesión de instalación de los Plenos.
+
+TERCERO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, atendiendo a las disposiciones y salvedades previstas en los artículos transitorios siguientes.
+
+SEGUNDO. El Congreso del Estado de Nayarit, contará con un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, para armonizar el marco jurídico en materia de acceso a la información pública y protección de datos personales, conforme al presente Decreto.
+
+TERCERO. Una vez que entre en vigor la legislación a la que hace referencia el artículo segundo transitorio del presente Decreto, se entenderá extinto el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
+
+CUARTO. Hasta en tanto no se expida la legislación secundaria para dar cumplimiento al presente Decreto, se seguirán aplicando las disposiciones normativas en materia de acceso a la información y protección de datos personales vigentes.
+
+Los actos jurídicos emitidos por el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, con anterioridad a que entre en vigor la legislación secundaria, surtirán todos sus efectos legales.
+
+QUINTO. Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
+
+SEXTO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
