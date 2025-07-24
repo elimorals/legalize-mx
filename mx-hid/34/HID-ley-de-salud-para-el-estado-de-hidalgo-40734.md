@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2025-07-10"
+last_updated: "2025-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -1919,7 +1919,13 @@ I. La atención integral de la mujer durante el embarazo, el parto y el puerperi
 
 II. La prevención de la transmisión del VIH/Sida y otras infecciones de transmisión sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
 
-III. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2025)</small>
+
+II Bis. La información y orientación educativa sobre planificación familiar y espaciamiento de los hijos, con pleno respeto a su dignidad;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2025)</small>
+
+III. La atención de la niña o niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES PÁRRAFO SEGUNDO DE LA FRACCIÓN II, DEL APARTADO A, DEL ARTÍCULO 3], P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -1964,6 +1970,10 @@ Artículo 142 Undecies 10.- En la organización y operación de los Servicios de
 I. Acciones tendientes a fomentar la práctica de la lactancia materna, así como erradicar la discriminación hacia las mujeres que la realicen en vías y espacios públicos
 
 II. Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2025)</small>
+
+II Bis. El alojamiento conjunto que favorezca el contacto inmediato, así como la convivencia entre la persona recién nacida y la madre;
 
 III. Acciones de ayuda alimentaria directa, tendiente a mejorar el estado nutricional materno infantil;
 
@@ -2840,3 +2850,9 @@ P.O. 10 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 272 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 142 UNDÉCIES 10 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DE LACTARIOS EN LOS CENTROS DE TRABAJO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 284 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE SALUD MATERNO INFANTIL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
