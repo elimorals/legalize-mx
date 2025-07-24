@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-perinatologia-94139
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-05-09"
-last_updated: "2015-02-09"
+last_updated: "2025-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94139&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2013-04-15"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE PERINATOLOGIA ISIDRO ESPINOSA DE LOS REYES
 
+[NOTA 1. INFORMACIÓN OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EN: https://www.dof.gob.mx/2025/SALUD/ESTATUTO-ORGANICO_INPer_2025.pdf]
+
+[NOTA 2. EL ACUERDO DE LA JUNTA DE GOBIERNO PUBLICADO EN EL D.O.F DE 24 DE JULIO DE 2025, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PERINATOLOGÍA ISIDRO ESPINOSA DE LOS REYES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2025.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de mayo de 2013.
 
@@ -31,17 +35,29 @@ ESTATUTO ORGÁNICO
 
 Este Estatuto se fundamenta en la Ley Federal de las Entidades Paraestatales, Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, Ley General de Salud y Ley de los Institutos Nacionales de Salud.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 1.
 
-El Instituto Nacional de Perinatología Isidro Espinosa de los Reyes es un Organismo Descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, agrupado en el Sector Salud, que tiene por objeto principal, en el campo de la salud reproductiva y perinatal, la investigación científica, la formación y capacitación de recursos humanos calificados y la prestación de servicios de atención médica de alta especialidad, y cuyo ámbito de acción comprende todo el territorio nacional.
+El Instituto Nacional de Perinatología Isidro Espinosa de los Reyes es un Organismo Descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, agrupado en el Sector Salud, que tiene por objeto principal, en el campo de la salud reproductiva y perinatal, la investigación científica, la formación y capacitación de recursos humanos calificados, la prestación gratuita de servicios de atención médica integral de alta especialidad (servicios de salud, medicamentos y demás insumos hasta el límite de su capacidad instalada) preferentemente a las personas sin seguridad social de todo el territorio nacional, pero las personas que gocen de seguridad social deben pagar las cuotas de recuperación que establezca el Instituto.
+
+Atención médica integral:
+
+“… La atención médica integral, que comprende la atención médica integrada de carácter preventivo, acciones curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias ... "
+
+Para efectos del párrafo anterior, la atención médica integrada de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo con la edad, sexo y los determinantes físicos, psíquicos y sociales de las personas, realizadas preferentemente en una sola consulta.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 2.
 
 Para los efectos de este Estatuto, se entenderá por:
 
-I. Ley: la Ley de los Institutos Nacionales de Salud.
+I. LINS: Ley de los Institutos Nacionales de Salud.
 
 II. SSa: Secretaría de Salud.
 
@@ -49,9 +65,29 @@ III. INPer: Instituto Nacional de Perinatología Isidro Espinosa de los Reyes.
 
 IV. Junta de Gobierno: Órgano de Gobierno.
 
+V. DGPIS: Dirección General de Políticas de Investigación en Salud.
+
+VI. LFAR: Ley Federal de Austeridad Republicana.
+
+VII. LFEP: Ley Federal de las Entidades Paraestatales.
+
+VIII. LGRA: Ley General de Responsabilidades Administrativas.
+
+IX. LGS: Ley General de Salud.
+
+X. OR: Oficina de Representación en el INPer.
+
+XI. PSS: Programa Sectorial de Salud.
+
+XII. Unidades Administrativas: Direcciones de Área del INPer.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 3.
 
-Para el cumplimiento de su objeto el INPer tendrá las facultades que le confieren el artículo 5, fracción VII y el artículo 6 de la Ley de los Institutos Nacionales de Salud.
+Para el cumplimiento de su objeto el INPer tendrá las facultades que le confieren el artículo 5, fracción VII y el artículo 6 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 4.
 
@@ -59,171 +95,201 @@ Para el cumplimiento de su objeto y el desempeño de las atribuciones que le com
 
 I. ÓRGANOS DE ADMINISTRACIÓN
 
-a) Junta de Gobierno
+a. Junta de Gobierno
 
-b) Dirección General
+b. Dirección General
 
 II. ÓRGANOS DE APOYO Y CONSULTA
 
-a) Patronato
+a. Patronato
 
-b) Consejo Asesor Externo
+b. Consejo Asesor Externo
 
-c) Consejo Técnico de Administración y Programación
+c. Consejo Técnico de Administración y Programación
 
-d) Investigadores Eméritos
+d. Investigadores Eméritos
 
 III. UNIDADES ADMINISTRATIVAS
 
 a) Direcciones de área:
 
-- Investigación
+1. Investigación
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2015)</small>
+2. Educación en Ciencias de la Salud
 
-- Educación en Ciencias de la Salud
+3. Médica
 
-- Médica
+4. Planeación
 
-- Planeación
-
-- Administración y Finanzas
+5. Administración y Finanzas
 
 b) Subdirecciones de área:
 
-- Ginecología y Obstetricia
+1. Ginecología y Obstetricia
 
-- Neonatología
+2. Reproducción Humana
 
-- Enfermería
+3. Neonatología
 
-- Servicios Auxiliares de Diagnóstico
+4. Enfermería
 
-- Investigación Clínica
+5. Servicios Auxiliares de Diagnóstico
 
-- Investigación Biomédica
+6. Investigación Clínica
 
-- Investigación en Intervenciones Comunitarias
+7. Investigación Biomédica
 
-- Investigación en Reproducción Humana
+8. Académica
 
-- Académica
+9. Intercambio y Vinculación
 
-- Intercambio y Vinculación
+10. Desarrollo Organizacional
 
-- Desarrollo Organizacional
+11. Administración y Desarrollo de Personal
 
-- Administración y Desarrollo de Personal
+12. Recursos Financieros
 
-- Recursos Financieros
+13. Recursos Materiales y Conservación.
 
-- Recursos Materiales y Conservación
+c) Departamentos y Coordinaciones de Servicios.- Los necesarios para el cumplimiento de su objeto.
 
-c) Departamentos y coordinaciones de servicios.- Los necesarios para el cumplimiento de su objeto.
+Todas las unidades administrativas definirán su funcionamiento en sus respectivos Manuales de Organización y Procedimientos.
 
-Todas las unidades administrativas definirán su funcionamiento en sus respectivos manuales de organización y procedimientos.
+IV. OFICINA DE REPRESENTACIÓN
 
-IV. ÓRGANO INTERNO DE CONTROL
+El INPer deberá contar con una Oficina de Representación, al frente de la cual habrá una persona titular en los términos del Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno.
 
-El INPer deberá contar con un Órgano Interno de Control que se regirá conforme a lo dispuesto en los artículos 32, 33 y 34 de la Ley de los Institutos Nacionales de Salud.
+V. COMISIONES, COMITÉS, SUBCOMITÉS Y UNIDADES DE APOYO necesarios para el cumplimiento de sus objetivos institucionales:
 
-V. COMISIONES, COMITÉS Y UNIDADES necesarios para el cumplimiento de sus objetivos institucionales:
+1. Comisión Central de Seguridad y Salud en el Trabajo
 
-- Comisión Central de Seguridad y Salud en el Trabajo
+2. Comisión Auxiliar de Seguridad y Salud en el Trabajo
 
-- Comisión Auxiliar de Seguridad y Salud en el Trabajo
+3. Comité de Bioseguridad
 
-- Comisión de Bioseguridad
+4. Comité de Investigación
 
-- Comisión de Investigación
+5. Comisión Evaluadora de Premios, Estímulos y Recompensas Civiles
 
-- Comisión Evaluadora de Premios, Estímulos y Recompensas Civiles
+6. Comisión Mixta de Capacitación
 
-- Comisión Mixta de Capacitación
+7. Comisión Mixta de Escalafón
 
-- Comisión Mixta de Escalafón
+8. Comité de Adquisiciones, Arrendamientos y Servicios
 
-- Comité de Adquisiciones, Arrendamientos y Servicios
+9. Comité de Bienes Muebles
 
-- Comité de Bienes Muebles
+10. Comité de Calidad en la Enseñanza
 
-- Comité de Calidad en la Enseñanza
+11. Comité de Calidad y Seguridad del Paciente
 
-- Comité de Calidad y Seguridad del Paciente
+12. Comité para la Detección y Control de las Infecciones Nosocomiales
 
-- Comité para la Detección y Control de las Infecciones Nosocomiales
+13. Comité de Ética en Investigación
 
-- Comité de Control Interno Institucional
+14. Subcomité del Expediente Clínico
 
-- Comité de Ética en Investigación
+15. Comité de Fármaco terapéutica
 
-- Comité de Evaluación Médica
+16. Comité de Fármaco vigilancia
 
-- Comité del Expediente Clínico
+17. Comité Interno para la Vigilancia de los Recursos Destinados a la Investigación
 
-- Comité de Farmacoterapéutica
+18. Comité Hospitalario de Bioética
 
-- Comité de Farmacovigilancia
+19. Comité Hospitalario para Atención de Desastres
 
-- Comité de Información
+20. Comité Local para el Programa de Estímulos a la Calidad del Desempeño del Personal Médico, de Enfermería y Odontología
 
-- Comité Interno para la Vigilancia de los Recursos Destinados a la Investigación
+21. Comité de Mejora Regulatoria Interna
 
-- Comité Hospitalario de Bioética
+22. Comité de Mortalidad Materna
 
-- Comité Hospitalario para Atención de Desastres
+23. Comité de Mortalidad Perinatal
 
-- Comité Local para el Programa de Estímulos a la Calidad del Desempeño del Personal Médico, de Enfermería y Odontología
+24. Comité de Medicina Transfusional
 
-- Comité de Mejora Regulatoria Interna
+25. Comité de Obras Públicas y Servicios relacionados con las mismas
 
-- Comité de Mortalidad Materna
+26. Comité de Saneamiento Ambiental Hospitalario
 
-- Comité de Mortalidad Perinatal
+27. Comité de Seguimiento al Proyecto Anexo B Terapias Neonatales y de la Mujer
 
-- Comité de Obras Públicas y Servicios relacionados con las mismas
+28. Comité de Transparencia
 
-- Comité de Saneamiento Ambiental Hospitalario
+29. Unidad Interna de Protección Civil
 
-- Unidad de Enlace con el Instituto Federal de Acceso a la Información y Protección de Datos
+30. Comité de Tecnovigilancia
 
-- Unidad Interna de Protección Civil
+31. Comité Interno para el Cuidado y uso de Animales de Laboratorio del INPer (CICUAL)
 
-Los grupos de trabajo colegiados definirán su funcionamiento en sus respectivos manuales de organización y funcionamiento.
+32. Comité de Ética
+
+33. Comisión Mixta de Becas Escolares
+
+34. Comité Interno para el Uso Eficiente de la Energía
+
+35. Subcomité de Optimización del Uso de Antimicrobianos
+
+36. Comité Interno de Referencia y Contra referencia
+
+37. Comité de Morbilidad Obstétrica y Perinatal
+
+38. Comité de Control y Desempeño Institucional
+
+39. Subcomité de Becas
+
+40. Comité de Abasto e Insumos para la Salud
+
+41. Comité Hospitalario para la Nueva Normalidad
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 5.
 
 El INPer para su operación y desarrollo, conducirá sus actividades en forma programada y de conformidad con las leyes aplicables, las políticas, estrategias y prioridades del Plan Nacional de Desarrollo, así como las disposiciones que emita la SSa en su carácter de coordinadora del Sector y de su respectivo programa institucional.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 6.
 
-La Junta de Gobierno es el órgano supremo de administración del INPer, con las atribuciones que le confieren el artículo 58 de la Ley Federal de las Entidades Paraestatales y el artículo 16 de la Ley.
+La Junta de Gobierno es el órgano supremo de administración del INPer, y tendrá las atribuciones que le confieren la LFEP y la LINS.
+
+La persona designada en la Presidencia de la Junta de Gobierno del INPer será suplida en sus ausencias por la persona Titular de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad.
+
+Los demás miembros de la Junta de Gobierno designarán a sus respectivos suplentes, dichas personas deberán estar debidamente acreditadas ante la misma. Los nombres de las personas titulares como de las suplentes serán registrados por la persona designada como titular de la Prosecretaría de la Junta.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 7.
 
-La Junta de Gobierno del INPer se integrará según lo dispuesto en el artículo 15 de la Ley de los Institutos Nacionales de Salud.
+La Junta de Gobierno del INPer contará con una Secretaría y una Prosecretaría.
 
-La Junta de Gobierno del INPer contará con un Secretario y un Prosecretario.
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
-El Presidente de la Junta de Gobierno del INPer será suplido en sus ausencias por el Titular de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad.
+###### ARTICULO 8.
 
-Los demás miembros de la Junta de Gobierno designarán a sus respectivos suplentes, los cuales deberán estar debidamente acreditados ante la misma. Los nombres tanto del titular como del suplente serán registrados por el Prosecretario de la Junta.
+La Junta de Gobierno del INPer celebrará sesiones ordinarias, por lo menos dos veces cada año, de acuerdo con un calendario que será aprobado en la primera sesión del ejercicio, así como las extraordinarias que convoque la persona titular de la Presidencia o cuando menos tres de sus miembros. Las sesiones podrán ser presenciales, virtuales o mixtas, utilizando los medios tecnológicos institucionales.
 
-###### ARTÍCULO 8.
+Cuando no pueda llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes a la fecha original, previo aviso a los miembros de la Junta de Gobierno.
 
-La Junta de Gobierno del INPer celebrará sesiones ordinarias, por lo menos dos veces cada año, de acuerdo con un calendario que será aprobado en la primera sesión del ejercicio, así como las extraordinarias que convoque su Presidente o cuando menos tres de sus miembros.
+La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Federal. Los acuerdos se tomarán por mayoría de los miembros presentes y la persona titular de la Presidencia tendrá voto de calidad, en caso de empate.
 
-Cuando se convoque a una reunión, ésta se realizará conforme a lo establecido en el artículo 17 de la Ley de los Institutos Nacionales de Salud. Cuando no pueda llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes a la fecha original, previo aviso a los miembros de la Junta de Gobierno.
+A las sesiones de la Junta de Gobierno asistirán, con voz, pero sin voto, la persona titular de la Secretaria, Prosecretaría y Comisaria.
 
-La Junta de Gobierno podrá invitar a sus sesiones a representantes de instituciones de investigación, docencia o de atención médica, así como a representantes de grupos interesados de los sectores público, social y privado, quienes asistirán con derecho a voz, pero sin voto. Las invitaciones serán emitidas por el Presidente de la Junta de Gobierno, en las que se indicará el propósito de la invitación.
+La Junta de Gobierno podrá invitar a sus sesiones a representantes de instituciones de investigación, docencia o de atención médica, así como a representantes de grupos interesados de los sectores público, social y privado, quienes asistirán con derecho a voz, pero sin voto. Las invitaciones serán emitidas por la persona titular de la presidencia de la Junta de Gobierno, en las que se indicará el propósito de la invitación.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 9.
 
-Para la celebración de las sesiones de la Junta de Gobierno, la convocatoria se acompañará del orden del día y el apoyo documental de los asuntos a tratar, los cuales se harán llegar a los miembros con una antelación no menor de cinco días hábiles.
+Para la celebración de las sesiones de la Junta de Gobierno, la convocatoria e información necesaria para la celebración de las Sesiones podrá ser remitida de manera electrónica, con la finalidad de hacer más eficiente el proceso de comunicación entre las personas integrantes del Órgano de Gobierno, siempre atendiendo a las disposiciones normativas vigentes para el intercambio de información oficial.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 10.
 
-El Presidente de la Junta de Gobierno tendrá las atribuciones siguientes:
+La persona titular de la presidencia de la Junta de Gobierno tendrá las atribuciones siguientes:
 
 I. Representar a la Junta de Gobierno.
 
@@ -231,15 +297,17 @@ II. Vigilar la ejecución de los acuerdos y resoluciones de la Junta de Gobierno
 
 III. Proponer a la Junta de Gobierno para su análisis y aprobación el programa de trabajo de la propia Junta.
 
-IV. Convocar a la celebración de sesiones ordinarias y extraordinarias, así como presidirlas y dirigir los debates.
+IV. Convocar a la celebración de sesiones ordinarias y extraordinarias, mismas que podrán realizarse de manera presencial, virtual o mixta, así como presidirlas y dirigir los debates.
 
 V. Someter a votación los asuntos tratados en las sesiones y resolver los casos de empate con voto de calidad, y
 
 VI. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 11.
 
-El Secretario de la Junta de Gobierno será un servidor público del Sector Salud, pero ajeno laboralmente al INPer. Será nombrado y removido por la propia Junta, a propuesta de su Presidente; su cargo será honorífico, por lo que no percibirá retribución, emolumento o compensación alguna y tendrá las siguientes funciones:
+La persona titular de la Secretaría de la Junta de Gobierno será una persona servidora pública del Sector Salud, pero ajeno laboralmente al INPer. Dicha persona será nombrada y removida por la propia Junta, a propuesta del Titular de la Presidencia; su cargo será honorífico, por lo que no percibirá retribución, emolumento o compensación alguna y tendrá las siguientes funciones:
 
 I. Proponer el contenido del orden del día de las sesiones.
 
@@ -247,21 +315,25 @@ II. Revisar los proyectos de las actas de las sesiones.
 
 III. Asistir a las sesiones de la Junta con voz, pero sin voto.
 
-IV. Comunicar al Director General del INPer y al Prosecretario los acuerdos y resoluciones de la Junta para su seguimiento y ejecución, e informar sobre el particular al Presidente de la misma.
+III Bis. Firmar las actas de las sesiones de la Junta.
+
+IV. Comunicar a la persona Titular de la Dirección General del INPer y a la persona Titular de la Prosecretaría los acuerdos y resoluciones de la Junta para su seguimiento y ejecución, e informar sobre el particular a la persona Titular de la Presidencia de la misma.
 
 V. Las demás funciones que le encomiende la Junta.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 12.
 
-El Prosecretario será un servidor público del INPer, nombrado y en su caso removido por la propia Junta, a propuesta del Director General. Tendrá las siguientes funciones:
+La persona titular de la Prosecretaría será una persona servidora pública del INPer, nombrado y en su caso removido por la propia Junta, a propuesta de la persona titular de la Dirección General. Tendrá las siguientes funciones:
 
 I. Asistir a las sesiones de la Junta con voz, pero sin voto.
 
 II. Elaborar y controlar la lista de asistencia de las sesiones.
 
-III. Elaborar los proyectos de actas de las sesiones y someterlas a consideración del Secretario.
+III. Elaborar los proyectos de actas de las sesiones y someterlas a consideración de la persona Titular de la Secretaría de la Junta.
 
-IV. Remitir a los miembros de la Junta, con la oportuna anticipación, la convocatoria, orden del día, información y documentación de apoyo necesarios sobre los asuntos que se vayan a tratar en las sesiones, previa aprobación del Director General del INPer.
+IV. Remitir a las personas integrantes de la Junta, con la oportuna anticipación, la convocatoria, el orden del día, la información y documentación de apoyo necesario sobre los asuntos que se vayan a tratar en las sesiones, previa aprobación de la persona Titular de la Dirección General del INPer.
 
 V. Dar seguimiento a los acuerdos que se determinen en las sesiones e informar sobre el particular a la Junta.
 
@@ -269,19 +341,21 @@ VI. Requisitar y custodiar las actas que se generen.
 
 VII. Organizar y operar el archivo documental e histórico de la Junta de Gobierno.
 
-VIII. Vigilar la vigencia de los nombramientos de los integrantes de la Junta de Gobierno.
+VIII. Verificar y mantener actualizados los nombramientos de las personas que integran la Junta de Gobierno.
 
-IX. Verificar que las actas de las sesiones sean firmadas por los integrantes de la Junta.
+IX. Gestionar y verificar que las actas de las sesiones sean firmadas por las personas integrantes e invitados de la Junta.
 
-X. Las demás que le encomiende el Presidente de la Junta de Gobierno.
+X. Las demás que le encomiende la persona Titular de la Presidencia de la Junta de Gobierno.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 13.
 
-El Director General del INPer tendrá, además de las facultades y obligaciones que le confieren el artículo 59 de la Ley Federal de las Entidades Paraestatales y el artículo 19 de la Ley, las siguientes:
+La persona Titular de la Dirección General del INPer tendrá, además de las facultades y obligaciones que le confieren la Ley Federal de las Entidades Paraestatales y la Ley de los Institutos Nacionales de Salud, las siguientes:
 
-I. Vigilar que el INPer cumpla con las funciones que establece el artículo 6 de la Ley de los Institutos Nacionales de Salud.
+I. Vigilar que el INPer cumpla con las funciones que se establecen en la Ley de los Institutos Nacionales de Salud.
 
-II. Determinar las políticas y estrategias del INPer para su función institucional, con el fin de cumplir con las directrices que se señalan en el Plan Nacional de Desarrollo o su equivalente, los objetivos de las Metas del Milenio, Programa Nacional de Salud y Sectorial, así como aquellas de las dependencias globalizadoras que dictan los principios en materia de salud perinatal y reproductiva, en concordancia con la visión, misión, objetivos estratégicos y códigos de conducta y ética institucionales.
+II. Determinar las políticas y estrategias del INPer para su función institucional, con el fin de cumplir con las directrices que se señalan en el Plan Nacional de Desarrollo o su equivalente, los objetivos de la Metas del Milenio, Programa Nacional de Salud y Sectorial, así como aquellas de dependencias globalizadoras que dictan los principios en materia de salud perinatal y reproductiva, en concordancia con la visión, misión, objetivos estratégicos y Códigos de Conducta y Ética institucionales.
 
 III. Coordinar las actividades del INPer como órgano de consulta técnica y normativa ante los requerimientos de opinión y asesoría de la propia Secretaría y de otros organismos e instituciones públicos y privados, en materia de investigación, enseñanza y asistencia en salud reproductiva y perinatal, con el objetivo de coadyuvar al buen funcionamiento del Sistema Nacional de Salud.
 
@@ -297,13 +371,13 @@ VIII. Determinar las políticas institucionales de formación académica y capac
 
 IX. Autorizar los planes y programas de estudio para la capacitación, enseñanza y actualización del personal profesional, técnico y auxiliar para enfrentar con eficiencia los problemas de salud reproductiva y perinatal.
 
-X. Determinar las políticas institucionales en materia de atención médica especializada en salud reproductiva y perinatal.
+X. Determinar las políticas institucionales en materia de atención médica especializada en salud reproductiva y perinatal, proporcionando servicios médicos bajo los principios de gratuidad, así como de medicamentos y demás insumos asociados, en los casos que así proceda, conforme a las disposiciones de la Ley General de Salud y de la Ley de los Institutos Nacionales de Salud.
 
 XI. Expedir los documentos académicos que otorgan el reconocimiento oficial de los diversos programas educativos impartidos por el INPer.
 
 XII. Coordinar el desarrollo de estrategias institucionales para coadyuvar a la salud reproductiva y perinatal de la población a través de la creación de modelos de intervención comunitaria.
 
-XIII. Autorizar por escrito, conforme a las necesidades del servicio, a los servidores públicos subalternos para que lo sustituyan y firmen documentos en su ausencia, o intervengan en determinados asuntos relacionados con la competencia de la Dirección General.
+XIII. Autorizar por escrito, a las personas servidoras públicas con jerarquía inmediata inferior, con la finalidad de que represente a la persona Titular de la Dirección General del Instituto, durante las ausencias temporales para el despacho y resolución de los asuntos administrativos y estén facultados para firmar documentos en su ausencia.
 
 XIV. Otorgar discrecionalmente los perdones legales que procedan y absolver posiciones para la solución de responsabilidades jurídicas del INPer.
 
@@ -313,7 +387,7 @@ XVI. Representar al INPer ante autoridades externas, organismos, instituciones y
 
 XVII. Autorizar la estructura ampliada del INPer y emitir los nombramientos de jefes de departamento, coordinadores, jefes de servicio e integrantes de comités, comisiones y grupos de trabajo, para formalizar su organización y funcionamiento.
 
-XVIII. Proponer al Consejo Técnico de Administración y Programación los candidatos a Investigadores Eméritos que la comunidad del INPer le presente.
+XVIII. Proponer al Consejo Técnico de Administración y Programación y a la Junta de Gobierno a las personas candidatas a Investigadores Eméritos que la comunidad del INPer le presente.
 
 XIX. Presentar al Consejo Técnico de Administración y Programación del INPer las propuestas de premios de carácter institucional para reconocer a personas físicas o morales.
 
@@ -327,23 +401,33 @@ XXIII. Celebrar todos y cada uno de los actos jurídicos que permitan el ejercic
 
 XXIV. Certificar las constancias que obren en los archivos del INPer para ser exhibidas ante las autoridades judiciales, administrativas o del trabajo y, en general, para cualquier trámite, juicio, procedimiento, proceso o averiguación.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 14.
 
-La designación y duración en el cargo del Director General del INPer estarán sujetas a lo establecido en los Artículos 18 y 20 de la Ley de los Institutos Nacionales de Salud.
+La designación y duración de la persona Titular de la Dirección General del INPer estarán sujetas a lo establecido en la LINS.
+
+La persona titular de la Dirección General del Instituto será designada por la Junta de Gobierno, de una terna que deberá presentar la persona Titular de la Presidencia de la Junta. La Coordinadora de Sector establecerá el mecanismo para apoyar a la Presidencia de la Junta, en dicho proceso.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 15.
 
 El Patronato es un órgano de apoyo, asesoría y consulta, que tiene por objeto apoyar las labores de investigación, enseñanza y atención médica del INPer, principalmente con la obtención de recursos de origen externo.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 16.
 
-El Patronato se integrará por un Presidente, un Secretario, un Tesorero y por los Vocales que designe la Junta de Gobierno, entre personas de reconocida honorabilidad, pertenecientes a los sectores social y privado o de la comunidad en general, con vocación de servicio, las cuales podrán ser propuestas por el Director General del INPer.
+El Patronato se integrará por una Presidencia, una Secretaría, un Tesorero y por personas como Vocales que designe la Junta de Gobierno, entre personas de reconocida honorabilidad, pertenecientes al sector social y privado o de la comunidad en general, con vocación de servicio, las cuales podrán ser propuestas por la persona Titular de la Dirección General del INPer.
 
-Los miembros del Patronato podrán tener un suplente que para tal efecto designe cada uno.
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 17.
 
 Los cargos del Patronato serán honoríficos, por lo que sus miembros no percibirán retribución, emolumento o compensación alguna.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 18.
 
@@ -355,941 +439,1821 @@ II. Contribuir a la obtención de recursos que promuevan el cumplimiento de los 
 
 III. Las demás que le señale la Junta de Gobierno.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 19.
 
-El Presidente del Patronato fungirá como representante de éste ante la Junta de Gobierno y será el enlace entre el Patronato y el Director General.
+La persona Titular de la Presidencia del Patronato fungirá como representante de éste ante la Junta de Gobierno y será el enlace entre el Patronato y la Dirección General.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 20.
 
-El funcionamiento del Patronato y la duración de sus miembros en sus cargos se determinarán en las Reglas Internas de Operación que al efecto el INPer expida.
+El funcionamiento del Patronato y la duración de sus miembros en sus cargos se determinarán en las Reglas Internas de Operación del Patronato que al efecto emita el INPer, debiendo considerar para ello lo siguiente:
+
+a) La persona Titular de la Presidencia del Patronato tendrá las siguientes atribuciones:
+
+I. Representar al Patronato.
+
+II. Vigilar la ejecución de los acuerdos del Patronato.
+
+III. Proponer anualmente al Patronato el Programa de Trabajo del mismo.
+
+IV. Vigilar que las aportaciones obtenidas se dediquen a los fines determinados por el Patronato.
+
+V. Emitir, por conducto de la Secretaría del Patronato la convocatoria para la celebración de sesiones, presidir éstas y dirigir los debates, y
+
+VI. Las demás que sean necesarias para el cumplimiento de sus funciones.
+
+b) La persona Titular de la Secretaría del Patronato tendrá las siguientes atribuciones:
+
+I. Revisar, analizar, proponer y votar sobre los asuntos que sean sometidos a la consideración de (sic) Patronato.
+
+II. Elaborar y someter a consideración del Patronato, el calendario de sesiones de éste, previa aprobación de la persona Titular de la Presidencia del Patronato.
+
+III. Formular el orden del día para cada sesión y someterlo a consideración de la persona Titular de la Presidencia del Patronato.
+
+IV. Las demás que le sean asignadas por la persona Titular de la Presidencia del Patronato.
+
+c) La persona Titular de la Tesorería del Patronato tendrá las siguientes atribuciones:
+
+I. Revisar, analizar, proponer y votar sobre los asuntos financieros que sean sometidos a la consideración del Patronato.
+
+II. Recaudar las aportaciones obtenidas por el Patronato para apoyar el mejoramiento de la operación del INPer.
+
+III. Concentrar y custodiar los recursos obtenidos por el Patronato.
+
+IV. Colocar e invertir los recursos obtenidos por el Patronato, de conformidad con los lineamientos que éste le indique.
+
+V. Presentar al Patronato un informe anual del manejo de los recursos obtenidos, y
+
+VI. Las demás que se estimen necesarias para el cumplimiento de sus funciones y le sean conferidas por el Patronato.
+
+d) Las personas Vocales del Patronato tendrán las siguientes atribuciones:
+
+I. Revisar, analizar, proponer y votar sobre los asuntos que sean sometidos a la consideración del Patronato.
+
+II. Proponer por escrito al Presidente del Patronato la inclusión de asuntos en el orden del día, y
+
+III. Las demás que se estimen necesarias para el cumplimiento de sus funciones.
+
+e) Las convocatorias para la celebración de sesiones deberán formularse por escrito, enviarse a los miembros del Patronato y a la persona Titular de la Dirección General con al menos diez días de antelación acompañadas del orden del día y los documentos necesarios para el debido conocimiento de los asuntos a tratar. La persona Titular de la Dirección General o representante que designe asistirá a las reuniones del Patronato con derecho a voz, pero sin voto.
+
+El Patronato se reunirá en sesiones ordinarias cuatro veces al año y en forma extraordinaria en cualquier tiempo, a solicitud de la persona Titular de la Presidencia o cuando menos la mitad de sus miembros.
+
+Se considerará que existe quórum para la validez de las sesiones con la asistencia de la persona Titular de la Presidencia del Patronato o de la persona que haya sido asignada para que la supla y la concurrencia de por lo menos la mitad de sus miembros. Los acuerdos del Patronato se tomarán por mayoría de votos y en caso de empate, el Presidente resolverá con voto de calidad.
+
+De no integrarse el quórum a que se refiere el párrafo anterior, se convocará a una segunda sesión que se celebrará con el número de miembros que asistan.
+
+De cada sesión deberá levantarse acta circunstanciada, la que será enviada oportunamente a los miembros del Patronato.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 21.
 
-El Patronato mantendrá permanentemente informado al Director General acerca de las actividades que se realicen. Asimismo, informará al menos una vez al año, a la Junta de Gobierno acerca del desarrollo de las mismas.
+El Patronato mantendrá permanentemente informado a la persona Titular de la Dirección General acerca de las actividades que se realicen. Asimismo, informará al menos una vez al año, a la Junta de Gobierno acerca del desarrollo de las mismas.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 22.
 
-El Consejo Asesor Externo del INPer se integrará por el Director General, quien lo presidirá, y por personalidades nacionales o internacionales del ámbito de la Salud Reproductiva y Perinatal, quienes serán invitados por la Junta de Gobierno a propuesta del Director General.
+El Consejo Asesor Externo del INPer se integrará por la persona Titular de la Dirección General, quien lo presidirá, y por personalidades nacionales o internacionales del ámbito de la Salud Reproductiva y Perinatal, quienes serán invitados por la Junta de Gobierno a propuesta de la persona Titular de la Dirección General.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 23.
 
-El Consejo Asesor Externo tendrá funciones que marca el artículo 27 de la Ley de los Institutos Nacionales de Salud.
+El Consejo Asesor Externo tendrá funciones que marca la LINS.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 24.
 
 El funcionamiento del Consejo Asesor Externo y la duración de sus miembros en sus cargos se determinarán en las Reglas Internas de Operación que al efecto el INPer expida.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 25.
 
-El INPer contará con un Consejo Técnico de Administración y Programación, como órgano de coordinación para incrementar su eficacia, que estará integrado por el Director General del INPer, quien lo presidirá, por los titulares de las áreas de Investigación, Enseñanza, Médica, Planeación y Administración y Finanzas del INPer. Uno de los titulares fungirá como secretario técnico designado por el Director General.
+El INPer contará con un Consejo Técnico de Administración y Programación, como órgano de coordinación para incrementar su eficacia, que estará integrado por la persona Titular de la Dirección General del INPer, quien lo presidirá, por las personas titulares de las áreas de Investigación, Educación en Ciencias de la Salud, Médica, Planeación y Administración y Finanzas del INPer y contará con una persona designada por la persona Titular de la Dirección General para fungir en la Secretaría Técnica.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 26.
 
-El Consejo Técnico de Administración y Programación del INPer tendrá además de las funciones que le confiere el artículo 29 de la Ley de los Institutos Nacionales de Salud, las siguientes:
+El Consejo Técnico de Administración y Programación del INPer tendrá además de las funciones que le confiere la LINS, las siguientes:
 
-I. Una vez que la Junta de Gobierno del INPer determine la conveniencia de contar con Investigadores Eméritos, de acuerdo con el artículo 30 de la Ley de los Institutos Nacionales de Salud, convocará a investigadores nacionales que laboren en el INPer para conformar un grupo colegiado encargado de la selección y designación de Investigadores Eméritos del INPer, a propuesta del Director General y de acuerdo a las reglas internas que expida el INPer.
+I. Una vez que la Junta de Gobierno del INPer determine la conveniencia de contar con personas Investigadoras Eméritas, convocará a personas investigadoras nacionales que laboren en el INPer, para conformar un grupo colegiado encargado de la selección y designación de personas Investigadoras Eméritas del INPer, a propuesta de la persona Titular de la Dirección General, conforme a lo establecido en la LINS y las reglas internas que expida el INPer.
 
-II. Evaluar y aprobar, en su caso, los premios de carácter institucional que el Director General proponga para reconocer a personas físicas o morales que hayan hecho aportaciones científicas, académicas o de beneficio social para el INPer, o de impacto para la salud perinatal y reproductiva de la población mexicana.
+II. Evaluar y aprobar, en su caso, los premios de carácter institucional que la persona Titular de la Dirección General proponga para reconocer a personas físicas o morales que hayan hecho aportaciones científicas, académicas o de beneficio social para el INPer, o de impacto para la salud perinatal y reproductiva de la población mexicana.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 27.
 
 El funcionamiento del Consejo se determinará en las reglas internas de operación que al efecto elabore dicho Consejo y expide el INPer.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 28.
 
-En apoyo del Director General, el INPer contará con el personal de confianza para las funciones de directores, subdirectores, jefes de departamento y demás personal de confianza a que se refiere el artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 constitucional, así como el de base que se requiera para la eficaz atención de los asuntos de su competencia, de acuerdo al presupuesto que tenga asignado.
+En apoyo de la persona Titular de la Dirección General, y para el adecuado y eficaz funcionamiento del INPer, existirán direcciones de área, subdirecciones, jefaturas de departamento y demás personal de confianza a fin de ejecutar las funciones sustantivas, administrativas y todas aquellas que determine la Junta de Gobierno, conforme lo dispuesto en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional, así como el de base que se requiera, de acuerdo al presupuesto que tenga asignado.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 28 Bis.
+
+Las direcciones de área tendrán a una persona como titular, quien asumirá la dirección técnica y administrativa, además será responsable ante los órganos superiores de su correcto funcionamiento, estarán auxiliados por los servidores públicos que se requieran y fije el presupuesto; y asumirán, según corresponda y salvo que existan disposiciones específicas diversas, las funciones genéricas siguientes:
+
+I. Ejecutar, en el ámbito de su competencia, los acuerdos de la Junta de Gobierno y de la persona Titular de la Dirección General.
+
+II. Formular el diagnóstico situacional y el Programa Anual de Trabajo de la dirección a su cargo y someterlo a la consideración de la persona Titular de la Dirección General.
+
+III. Observar y difundir, en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
+
+IV. Participar, en el ámbito de su competencia, en la elaboración del Anteproyecto de Presupuesto del INPer, en términos de las disposiciones aplicables.
+
+V. Ejercer el presupuesto asignado a la dirección a su cargo, conforme a las normas establecidas, así como llevar el control respectivo.
+
+VI. Planear, programar, organizar, dirigir y evaluar el desarrollo de los programas y actividades encomendadas a las áreas que integran la dirección a su cargo.
+
+VII. Acordar con su superior jerárquico, la resolución de los asuntos relevantes cuya tramitación se encuentre dentro de su ámbito de competencia.
+
+VIII. Contribuir a la detección, análisis y atención de los riesgos institucionales en forma eficiente y efectiva para el óptimo cumplimiento de la misión institucional.
+
+IX. Suscribir los documentos y llevar a cabo las acciones necesarias para el cumplimiento de sus atribuciones, en representación del INPer.
+
+X. Formular dictámenes, opiniones e informes que le sean requeridos, en aquellos asuntos propios de su competencia.
+
+XI. Proponer al superior jerárquico, para autorización, los nombramientos del personal a su cargo.
+
+XII. Plantear previo acuerdo con su superior jerárquico, las necesidades de capacitación para el personal a su cargo.
+
+XIII. Coordinar con los titulares de las otras unidades administrativas, cuando así se requiera, las acciones para el desarrollo de las atribuciones que les correspondan.
+
+XIV. Formular y presentar a su superior jerárquico, los proyectos de manuales de organización, procedimientos y servicios correspondientes a la unidad administrativa a su cargo, acuerdos generales, normas, reglas, bases generales, lineamientos y políticas relacionadas con las atribuciones de dicha unidad.
+
+XV. Supervisar la actualización y autorizar los manuales de procedimientos de los departamentos, coordinaciones y servicios a su cargo, con la finalidad de establecer su operación.
+
+XVI. Desarrollar sus atribuciones a través de las áreas adscritas, conforme a lo dispuesto en los manuales de organización, procedimientos y servicios vigentes.
+
+XVII. Participar en los comités, comisiones, representaciones y suplencias que le sean asignados.
+
+XVIII. Representar al Instituto en la formalización de contratos y convenios de colaboración e intercambio con otras instituciones y organismos nacionales o internacionales, con la finalidad de incrementar la calidad en la formación de recursos humanos, asistencia médica y productividad científica en la investigación clínica.
+
+XIX. Participar, cuando sea requerido, en los eventos que promueva el INPer.
+
+XX. Presentar al superior jerárquico, el Informe Anual de Labores correspondiente a su cargo;
+
+XXI. Registrar y controlar los bienes asignados a la unidad administrativa a su cargo.
+
+XXII. Proporcionar información, datos; asesoría o cooperación técnica que les sean requeridos por las unidades administrativas.
+
+XXIII. Certificar los documentos que se generen y obren en los archivos de la unidad administrativa a su cargo, que sean expedidos en el ejercicio de sus funciones. La atribución de certificar documentos relacionados con la competencia y atribuciones de la unidad a su cargo, la podrán delegar de conformidad con lo previsto en el presente Estatuto.
+
+XXIV. Definir, revisar y ser responsables de los contenidos e información, que sean de su competencia, en los portales de Intranet e Internet del INPer, y gestionar su publicación y actualización; y
+
+XXV. Las demás que establezca la Junta de Gobierno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 29.
 
 La Dirección Médica tendrá las siguientes funciones:
 
-I. Proponer, coordinar y supervisar las estrategias para proporcionar atención médica integral a pacientes con patologías perinatales y reproductivas de alta complejidad o con riesgo de desarrollarlas.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+I. Proponer, coordinar y supervisar las estrategias para proporcionar atención médica integral a pacientes con patologías perinatales, reproductivas de alta complejidad o con riesgo de desarrollarlas, así como neonatales. Además de efectuar la gestión transversal con las unidades administrativas del INPer para asegurar los requerimientos necesarios en la estrategia de atención.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 II. Promover la vinculación de las áreas asistenciales con las de Educación en Ciencias de la Salud e Investigación para fomentar y facilitar el desarrollo del conocimiento y la formación de recursos humanos.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-III. Coordinar y supervisar los servicios de ginecología, obstetricia, neonatología, reproducción humana, enfermería y auxiliares de diagnóstico, con el fin de que otorguen atención de calidad y seguridad.
+III. Coordinar en las acciones de administración, supervisión, control y evaluación de las subdirecciones de Ginecología y Obstetricia, Reproducción Humana, Neonatología, Servicios Auxiliares de Diagnóstico y Enfermería, y de los Departamentos de Medicina Critica, así como la Unidad de Enfermedades Infecciosas y Epidemiología con el fin de asegurar atención de calidad y seguridad.
 
-IV. (DEROGADA, D.O.F. 9 DE FEBRERO DE 2015)
+IV. (DEROGADA, D.O.F. 9 DE FEBRERO DE 2015) (REPUBLICADA SU DEROGACIÓN, D.O.F. 24 DE JULIO DE 2025)
 
-V. Contribuir a la detección, análisis y atención de los riesgos institucionales en forma eficiente y efectiva para el óptimo cumplimiento de la misión institucional.
+V. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VI. Participar y proponer acciones de intercambio y vinculación internas y externas al INPer, enfocadas al análisis de problemas nacionales de salud perinatal y reproductiva, para contribuir a la elaboración de políticas de salud.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 VII. Participar en la elaboración, adaptación y adopción de guías de práctica clínica y protocolos de atención, así como en la evaluación de su impacto en la calidad de la atención.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VIII. Analizar y evaluar el cumplimiento de metas médicas, programáticas e indicadores de productividad y desempeño con el fin de lograr los objetivos planteados.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IX. Apoyar los programas de investigación y enseñanza que realice el instituto, así como participar en los comités técnico médicos de su competencia.
 
-X. Autorizar los manuales de procedimientos de los departamentos, coordinaciones y servicios a su cargo, con la finalidad de establecer su operación.
+X. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XI. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, a petición de autoridad competente.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XII. Participar en la gestión del capital humano, con el perfil profesional de su nivel de competencia y responsabilidad necesario para asegurar, en las diferentes áreas de la Dirección, la oportunidad en la calidad de atención médica, educativa y responsabilidad institucional en la formación de recursos profesionales acorde a la LINS.
 
-XII. Participar en la gestión del capital humano de acorde con el perfil profesional de su nivel de competencia y responsabilidad.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XIII. Autorizar perfiles de puesto acordes con asignación de funciones y responsabilidades profesionales.
 
-XIII. Actualizar y/o elaborar perfiles de puesto acordes con asignación de funciones y responsabilidades profesionales y
+XIV. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XIV. Las demás que se consideren necesarias para el cumplimiento de las anteriores
+XV. Establecer lineamientos y acciones de coordinación con la Unidad de Enfermedades Infecciosas y Epidemiología, para la oportuna identificación y gestión de riesgos que puedan generar un impacto en el número de infecciones asociadas a la atención de la salud (IAAS); así como para atender contingencias derivadas de factores epidemiológicos, mediante estrategias para su atención, promoviendo mayor seguridad a la población usuaria y personal institucional.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVI. Supervisar y consolidar acciones para la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados, preferentemente a personas sin seguridad social, además de proporcionar acompañamiento y asesoría para pacientes y sus familiares, a fin de dar cumplimiento a lo establecido en la LINS.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVII. Dirigir acciones que coadyuven a la prestación de los servicios de salud preferentemente a personas sin seguridad social y que por la complejidad de su patología ameriten atención médica en el INPer, verificando que se realice un análisis del estado socioeconómico para fines estadísticos a fin de que se les proporcione atención de calidad.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XV], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVIII. Las demás que la persona Titular de la Dirección General le instruya o autorice, para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 30.
 
 La Dirección de Investigación tendrá las siguientes funciones:
 
-I. Promover, coordinar y supervisar la realización de investigaciones biomédicas básicas, clínicas, de intervención comunitaria y de desarrollo tecnológico, para generar en el campo de la salud perinatal y reproductiva conocimiento con alto rigor científico, modelos de atención innovadores y recursos humanos de excelencia.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+I. Promover, coordinar y supervisar las acciones para la realización de investigaciones biomédicas básicas, clínicas, de intervención comunitaria y de desarrollo tecnológico, para generar en el campo de la salud perinatal y reproductiva conocimiento con alto rigor científico, modelos de atención innovadores y recursos humanos de excelencia.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 II. Participar en la definición de las líneas de investigación institucionales acordes a la misión y visión del INPer, teniendo como ejes prioritarios la relevancia, pertinencia originalidad y la factibilidad.
 
-III. Coordinar y supervisar el ensamblado, aprobación y desarrollo de los proyectos de investigación, así como la suficiencia de recursos, teniendo en consideración sus alcances y beneficios económicos y sociales, con la finalidad de generar investigación de vanguardia.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-IV. Contribuir a la detección, análisis y atención eficiente y efectiva de los riesgos institucionales para el óptimo cumplimiento de la misión institucional.
+III. Coordinar y supervisar la aprobación y desarrollo de los proyectos de investigación, así como la suficiencia de recursos, teniendo en consideración sus alcances y beneficios económicos y sociales, con la finalidad de generar investigación de vanguardia.
 
-V. Verificar que los resultados de las investigaciones sean entregados a la Dirección de Investigación, apoyar el proceso de publicación, promover y propiciar su difusión con el objetivo de incrementar el conocimiento, mejorar la atención de la salud reproductiva y perinatal.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VI. Vigilar el cumplimiento de las normas éticas nacionales e internacionales, con la finalidad de proteger los derechos de los participantes en la investigación.
+IV. Contribuir a la detección, análisis y atención eficiente y efectiva de los riesgos institucionales que competen al área de investigación para el cumplimiento óptimo de la misión.
 
-VII. Promover que las investigaciones realizadas en el INPer cuenten, en la medida de lo posible, con enfoques de costo-beneficio y riesgo-beneficio a fin de promover modelos de atención integral basados en las realidades económicas y financieras del país.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VIII. Facilitar el intercambio de los resultados de las investigaciones dentro y fuera de las áreas del INPer, apoyar el proceso de publicación de las mismas, así como su difusión, con el objeto de incrementar el conocimiento de investigadores, tomadores de decisiones y población en general.
+V. Verificar que los productos entregables de las investigaciones sean reportados a la Dirección de Investigación para actualizar las bases de datos de productividad institucional y que puedan ser difundidos a la comunidad científica y a la sociedad.
 
-IX. Promover el desarrollo de unidades de soporte integral a los procesos de investigación, enfocadas a brindar apoyo metodológico, estadístico, informático, en las actividades gerenciales propias de los procesos de investigación y en la búsqueda de financiamiento, a fin de generar productos de alta calidad científica y de elevada competitividad.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+VI. Vigilar el cumplimiento de las normas éticas, de bioseguridad y de manejo de animales tanto nacionales como internacionales, con la finalidad de proteger los derechos de los participantes en la investigación.
 
-X. Establecer un programa integral de profesionalización de la investigación, desde los seminarios, hasta los programas de doctorado y de estancias posdoctorales, en coordinación con la Dirección de Educación en Ciencias de la Salud, con la finalidad de incrementar el número de investigadores dentro del Sistema Nacional e Institucional y contribuir a mantener el liderazgo académico y de investigación.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XI. Apoyar y promover la interacción con los centros de investigación universitarios, la industria y el resto de instituciones de salud afines al INPer, mediante convenios de colaboración interinstitucionales, con la finalidad de establecer investigación transdisciplinaria e interinstitucional.
+VII. Promover que las investigaciones realizadas en el INPer cuenten, en la medida de lo posible, con enfoques de costo-beneficio y riesgo-beneficio en apego a las políticas y estrategias que dicta la DGPIS, a fin de promover modelos de atención integral basados en las realidades económicas y financieras del país.
 
-XII. Coordinar la vinculación en el desarrollo de la investigación en las direcciones de área del INPer, con la finalidad de favorecer el fortalecimiento institucional.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XIII. Contribuir a la detección, análisis y atención de los riesgos institucionales en forma eficiente y efectiva para el óptimo cumplimiento de la misión institucional.
+VIII. Facilitar la difusión de los resultados de las investigaciones dentro y fuera de las áreas del INPer y promover la vinculación con otras instituciones, con el objetivo de incrementar el conocimiento de investigadores, tomadores de decisiones y población en general para mejorar la realización de la investigación en salud en coordinación con la DGPIS.
 
-XIV. Supervisar y evaluar la calidad, productividad, eficiencia, eficacia de los proyectos de investigación, así como el desempeño de investigadores.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XV. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, a petición de autoridad competente.
+IX. Promover el desarrollo de unidades de soporte integral a los procesos de investigación con base a los principios de la LFAR, enfocadas a brindar apoyo metodológico, estadístico, informático, en las actividades gerenciales propias de los procesos de investigación y en la búsqueda de financiamiento, a fin de generar productos de alta calidad científica y de elevada competitividad.
 
-XVI. Autorizar los manuales de procedimientos de los departamentos, coordinaciones y servicios a su cargo, con la finalidad de establecer su operación.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+X. Establecer un programa integral de profesionalización de la investigación dirigido a los investigadores y promoviendo su participación en seminarios académicos, cursos de actualización, programas de posgrado y de estancias posdoctorales, en coordinación con la Dirección de Educación en Ciencias de la Salud y de la DGPIS, con la finalidad de incrementar el número de investigadores dentro del Sistema Nacional e Institucional e incrementar el liderazgo académico y de investigación.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XI. Apoyar y promover la interacción con los centros de investigación universitarios, la industria y el resto de instituciones de salud afines al INPer en coordinación con la DGPIS, mediante contratos o convenios de colaboración interinstitucionales, con la finalidad de desarrollar investigación transdisciplinaria e interinstitucional.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XII. Coordinar la vinculación entre las diferentes direcciones de área del INPer para permitir el adecuado desarrollo de los proyectos de investigación.
+
+XIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Coordinar y supervisar la evaluación del desempeño de las personas investigadoras del INPer en el Sistema Institucional de Investigadores y Sistema Nacional de Investigadores para contribuir en la transparencia del proceso.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XV. Expedir y proporcionar copias de los documentos o constancias que existan en los archivos de la Dirección a su cargo.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVI. Autorizar los Manuales de Procedimientos de los Departamentos, Coordinaciones y Servicios a su cargo, con la finalidad de establecer su operación.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XVII. Apoyar los programas de enseñanza y atención médica que realice el Instituto, y
 
-XVIII. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XVIII. Las demás que la persona Titular de la Dirección General le instruya o autorice.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 31.
 
 La Dirección de Educación en Ciencias de la Salud tendrá las siguientes funciones:
 
-I. Innovar y planear las actividades formativas y de educación continua en vinculación con las diferentes especialidades y proyectos de investigación para contribuir en la mejora de la salud perinatal y reproductiva de la población.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+I. Innovar y planear las actividades formativas y de educación continua en vinculación con los diferentes cursos de especialización, cursos de alta especialidad y proyectos de investigación para contribuir en la mejora de la salud perinatal y reproductiva de la población.
 
-II. Coordinar y supervisar la enseñanza de las especializaciones de Ginecología y Obstetricia, Biología de la Reproducción, Medicina Materno-Fetal, Neonatología, Infectología y Urología Ginecológica, cursos de Posgrado de Alta Especialidad (Cirugía Endoscópica Ginecológica, Cuidados Intensivos Neonatales, Genética Perinatal, Medicina Crítica en Obstetricia, Periposmenopausia, Neurofisiología Clínica, Cirugía en el Recién Nacido y Aplicaciones del Doppler 3D en Medicina Fetal) bajo los programas reconocidos y las normas señaladas por la Facultad de Medicina de la U.N.A.M. y en concordancia con la misión y visión del INPer, a fin de propiciar una formación óptima del personal médico especialista en formación.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+II. Coordinar y supervisar la aplicación de los planes de estudio de las especializaciones de Ginecología y Obstetricia, Biología de la Reproducción, Medicina Materno- Fetal, Neonatología, Infectología y Urología Ginecológica, cursos de Posgrado de Alta Especialidad en Medicina (Cirugía Endoscópica Ginecológica, Cuidados Intensivos al Recién Nacido Crítico, Genética Perinatal, Medicina Crítica en Obstetricia, Peri posmenopausia, Cirugía Neonatal y Cardiología Fetal y Psiquiatría Perinatal) bajo los programas reconocidos y las normas señaladas por la Facultad de Medicina de la Universidad Nacional Autónoma de México y en concordancia con la misión y visión del INPer, a fin de propiciar una formación óptima del personal.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 III. Promover y fomentar el intercambio académico con otras instituciones nacionales y extranjeras a fin de ampliar y diversificar la experiencia adquirida en medicina perinatal y reproductiva e implementar modelos funcionales y actualizados para mejorar la calidad de los procesos educativos y de atención médica.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 IV. Apoyar los programas de investigación propuestos y dirigidos por la Dirección de Investigación así como la atención médica que realice el INPer para fortalecer el cumplimiento de la misión institucional.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 V. Planear y coordinar la elaboración de material didáctico y gráfico en el INPer, vigilando su calidad y actualidad así como su pertinencia en materia de medicina perinatal y reproductiva.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 VI. Establecer lineamientos con el fin de unificar la imagen institucional ante la comunidad.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VII. Sistematizar la publicación y difusión del conocimiento generado en el INPer.
 
-VIII. Supervisar y controlar el cumplimiento de los convenios de rotaciones de alumnos de pregrado y postgrado, a fin de cumplir con los objetivos académicos de los programas de enseñanza tanto del INPer como de instituciones externas.
+VIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IX. Supervisar y regular el desarrollo de los programas de maestrías y doctorados a fin de cumplir con los objetivos y expectativas tanto del INPer como de las instituciones educativas de origen.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 X. Planear el desarrollo y objetivo de los congresos a realizar para difundir a nivel nacional e internacional el conocimiento generado en el INPer.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XI. Mantener cursos actualizados y de vanguardia para los profesionales de la salud reproductiva y perinatal.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 XII. Planear nuevas modalidades de educación continua con la finalidad de mejorar la transferencia y el impacto del conocimiento.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XIII. Divulgar el conocimiento en materia de salud perinatal y reproductiva a la comunidad, a fin de promover la prevención y diagnóstico oportuno de enfermedades, generando el cambio de hábitos que impacten en su salud.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 XIV. Promover y generar la modernización de los servicios y acervos del centro de documentación a fin de prestar un servicio eficiente y actualizado.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XV. Planear y supervisar en coordinación con la Dirección de Administración y Finanzas y de Planeación las acciones derivadas del proceso administrativo relacionado con la enseñanza, para controlar el uso, aprovechamiento, adquisición y distribución de los recursos financieros, humanos, tecnológicos y físicos.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 XVI. Contribuir a la detección, análisis y atención de los riesgos institucionales en forma eficiente y efectiva para el óptimo cumplimiento de la misión institucional.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XVII. Supervisar y evaluar el desempeño del personal adscrito a la Dirección de área.
 
-XVIII. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, a petición de autoridad competente.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XIX. Autorizar los manuales de procedimientos de los departamentos, coordinaciones y servicios a su cargo, con la finalidad de establecer su operación, y
+XVIII. Expedir y proporcionar copias de los documentos o constancias que existan en los archivos de la Dirección a su cargo.
 
-XX. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIX. Autorizar los Manuales de Procedimientos de los Departamentos, Coordinaciones y Servicios a su cargo, con la finalidad de establecer su operación, y
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XX. Las demás que la persona Titular de la Dirección General le instruya o autorice.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 32.
 
 La Dirección de Planeación tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-I. Planear alianzas estratégicas con organismos públicos y privados, nacionales e internacionales para conformar una red hospitalaria que coloquen al INPer como centro de referencia en materia de salud reproductiva, neonatal y perinatal, con impacto en la equidad de género asegurando la protección financiera.
+I. Planear alianzas estratégicas con organismos públicos y privados, nacionales e internacionales para conformar una red hospitalaria que coloquen al INPer como centro de referencia en materia de salud reproductiva, neonatal y perinatal, con impacto en la equidad de género.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-II. Incorporar la gestión clínica por procesos, la investigación, la gestión educativa y la gestión directiva-administrativa y financiera con una visión integral que determine la toma de decisiones.
+II. Incorporar los procesos de gestión a la prestación de los servicios médico-asistenciales, de investigación, de formación y educación continua, de administración y finanzas y de dirección con visión integral que coadyuve en la toma de decisiones.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 III. Mejorar el clima y la cultura organizacional con base en un esquema orientado por procesos y comunicación transversal que sea conducente a la eficiencia, la seguridad y la calidad institucional con un enfoque de satisfacción al usuario.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-IV. Establecer planes estratégicos en coordinación con las Direcciones del INPer para el cumplimiento de los objetivos y políticas institucionales.
+IV. Definir, establecer y sistematizar planes estratégicos en coordinación con las Direcciones del INPer para que en forma colegiada, la suma de esfuerzos y la comunicación transversal cumpla integralmente con los objetivos y políticas institucionales.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+V. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-V. Analizar las desviaciones de los objetivos y funciones de las Direcciones Médica, de Educación en Ciencias de la Salud, Investigación y Administración, con la finalidad de proponer soluciones.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+VI. Coordinar la integración de funciones y tareas de las Direcciones y Subdirecciones de área que conforman la estructura orgánica del INPer de manera armónica, con el fin de cumplir con las políticas y directrices institucionales.
 
-VI. Coordinar la integración de funciones y tareas de las direcciones y subdirecciones de área que conforman la estructura orgánica del INPer, con el fin de cumplir con las políticas y directrices institucionales.
-
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VII. Integrar el programa anual de trabajo del INPer en apego a los objetivos y estrategias del Plan Nacional de Desarrollo, Programa Nacional de Salud y la normatividad emitida por la coordinadora sectorial para que las actividades institucionales contribuyan al cumplimiento de los compromisos nacionales en salud reproductiva y perinatal.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VIII. Conducir y verificar el desarrollo de proyectos de tecnologías de la información y comunicaciones con un enfoque transversal que permita cubrir las necesidades de las áreas, considerando las nuevas tecnologías y con apego a la normatividad vigente, para apoyar el cumplimiento de los objetivos y políticas institucionales.
+VIII. Vigilar, controlar y evaluar el manejo e intercambio de información contenida en las bases de datos digitalizadas, mediante la aplicación de procesos tecnológicos y software que garantice la confiabilidad de la información para la toma de decisiones.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IX. Contribuir a la detección, análisis y atención de los riesgos institucionales en forma eficiente y efectiva para el óptimo cumplimiento de la misión institucional.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 X. Asegurar el cumplimiento de programas gubernamentales y demás lineamientos aplicables en materia perinatal.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XI. Establecer y coordinar mecanismos para integrar la información que se genere en las direcciones de área, en materia de asistencia, investigación, formación de recursos humanos, y recursos financieros y materiales, para el análisis, evaluación y control del cumplimiento de los objetivos y metas institucionales.
+XI. Establecer y coordinar mecanismos para integrar la información que se genere en las direcciones de área, en materia de asistencia, investigación, formación de recursos humanos, recursos financieros y materiales, para el análisis, evaluación y control del cumplimiento de los objetivos y metas institucionales.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XII. Dirigir la integración y evaluación de información estadística e indicadores de estructura, procesos y resultados a fin de medir el impacto de las actividades del INPer, en investigación, docencia, atención médica y procesos administrativos, que permita la toma de decisiones para el alcance de los objetivos institucionales.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XIII. Fomentar una cultura de calidad y seguridad para pacientes, personal que labora en el INPer, familiares y visitantes, mediante difusión, capacitación y monitorización con el fin de alinearla a las políticas nacionales e institucionales aplicables.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
-XIV. Coordinar y supervisar las actividades de orientación a las pacientes, medición de la satisfacción y análisis de la práctica médica para proponer acciones de mejora
+XIV. Coordinar y supervisar las actividades de orientación a las pacientes, medición de la satisfacción y análisis de la práctica médica para proponer acciones de mejora.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XV. Dirigir el programa de conservación y desarrollo de tecnología especializada, de equipo médico y de laboratorio, sustentado en las necesidades presentes y futuras, con la finalidad de coadyuvar en la eficiencia y efectividad de las áreas sustantivas del INPer.
+XV. Colaborar con las Direcciones de área en la integración del programa de conservación y desarrollo de tecnología especializada, de equipo médico y de laboratorio, sustentado en las necesidades presentes y futuras, con la finalidad de coadyuvar en la eficiencia y efectividad de las áreas sustantivas del INPer para que se ejerzan los recursos públicos en apego a las disposiciones aplicables.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XVI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XVI. Establecer las políticas y planes necesarios para detectar oportunamente cualquier factor de riesgo que pudiera ocasionar un incremento en las infecciones nosocomiales y promover la prevención de riesgos infecto-contagiosos del personal y pacientes por medio de una estrategia holística con un enfoque en la calidad y seguridad del paciente.
-
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XVII. Supervisar y evaluar el desempeño del personal adscrito a la Dirección de área.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XVIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XVIII. Supervisar y consolidar las acciones para evaluar la clasificación de pacientes de acuerdo a su nivel socioeconómico, instruir sobre su modificación para casos especiales, proporcionar acompañamiento y asesoría para pacientes y sus familiares.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XIX. Coordinar a las diversas áreas del INPer para dar cumplimiento a la Ley Federal de Transparencia y Acceso a la Información Pública, Ley General de Transparencia y Acceso a la Información Pública y normatividad aplicable.
 
-XIX. Coordinar a las diversas áreas del INPer para dar cumplimiento a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, su Reglamento y normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XX. Expedir y proporcionar copias de los documentos o constancias que existan en los archivos de la Dirección a su cargo.
 
-XX. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, a petición de autoridad competente.
-
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XXI. Autorizar los Manuales de Procedimientos de los Departamentos, Coordinaciones y Servicios a su cargo, con la finalidad de establecer su operación.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XXII. Coadyuvar con las actividades de investigación, enseñanza y atención médica que realice el INPer, y
+XXII. Coadyuvar con las actividades de investigación, enseñanza y atención médica que realice el INPer.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XXIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XXIII. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXIV. Participar con las Direcciones de área del Instituto en la elaboración y seguimiento de los procesos técnicos-gerenciales relacionados con todos los servicios integrales, convenidos con los proveedores asignados, acorde a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y evaluar la productividad, calidad y seguridad de las intervenciones en beneficio de los pacientes.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXV. Dirigir, elaborar, analizar y mantener el sistema de farmacia hospitalaria en Coordinación con la Dirección Médica, a fin de orientar a una gestión y operatividad efectiva, garantizando la adquisición y suministro de insumos para la salud en tiempo y forma con el fin de salvaguardar la seguridad y calidad de la atención de los pacientes hospitalizados.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXIII], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXVI. Las demás que la persona Titular de la Dirección General le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 33.
 
 La Dirección de Administración y Finanzas tendrá las siguientes funciones:
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 I. Coordinar y supervisar el desarrollo, actualización y funcionamiento de los sistemas de control financiero, de personal, adquisiciones, inventarios de bienes muebles e inmuebles y demás servicios administrativos, dirigidos al óptimo aprovechamiento de los recursos institucionales.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 II. Emitir y establecer normas, políticas y procedimientos que permitan la eficiente operación de los sistemas que componen la Dirección de Administración y Finanzas, con el objeto de proporcionar los recursos necesarios y suficientes a las áreas del INPer.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+III. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-III. Coordinar con la Dirección de Planeación la elaboración del presupuesto anual para el cumplimiento de la normatividad aplicable y objetivos institucionales.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+IV. Coordinar la ejecución de mesas de trabajo presupuestarias para vigilar que las diversas Direcciones, observen disciplina presupuestal y lleven a cabo el control y seguimiento del gasto, con el propósito de garantizar el ejercicio correcto del presupuesto, realicen el análisis de las variaciones y efectúen las justificaciones y acciones correctivas procedentes.
 
-IV. Administrar y vigilar la adecuada aplicación de los recursos financieros en las diversas áreas que conforman al INPer, los cuales se verán reflejados en la obtención de las metas institucionales que le presente la Dirección de Planeación.
-
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 V. Administrar y controlar los recursos humanos necesarios, mediante un proceso coordinado, eficiente y estandarizado alineado a los estándares de calidad para favorecer la correcta funcionalidad de las áreas del INPer.
 
-VI. Vigilar y autorizar la distribución de los recursos materiales para que sean utilizados de manera adecuada y oportuna.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+VI. Supervisar y controlar que los procedimientos de adquisición, arrendamiento y prestación de servicios, así como de obra pública y servicios relacionados con la misma, se efectúen con estricto apego a la legislación y la normatividad aplicable en la materia.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VII. Supervisar y vigilar los recursos financieros con que cuenta el INPer con la finalidad de que sean utilizados de manera adecuada y oportuna.
 
-VIII. Establecer y supervisar los lineamientos y métodos para la organización de los programas de conservación y mantenimiento tanto preventivo como correctivo de los equipos mecánicos y eléctricos del INPer, con el propósito de que funcionen adecuadamente.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-IX. Dirigir y vigilar la entrega oportuna de los informes a las Globalizadoras para que reflejen las actividades desarrolladas.
+VIII. Establecer y supervisar los lineamientos y métodos para la organización de los programas de conservación y mantenimiento tanto preventivo como correctivo de los equipos mecánicos y eléctricos del INPer.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+IX. Supervisar la elaboración y envío de los informes administrativos a las Globalizadoras, en materia de recursos humanos, materiales y financieros del Instituto.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 X. Coordinar y vigilar la integración de la información institucional en el Sistema Integral de Información con la finalidad de cumplir oportunamente con los requerimientos y tiempos establecidos por las instancias correspondientes.
 
-XI. Dirigir el análisis de las observaciones y sugerencias de entidades externas y de usuarios, para detectar posibles desviaciones en los servicios administrativos e implementar alternativas de solución.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XII. Coordinar la entrega de la información que en el ámbito de su competencia requiera el Órgano Interno de Control y las autoridades externas, para fines de auditoría.
+XI. Coordinar y supervisar la entrega de información y atención de auditorías, observaciones, hallazgos, recomendaciones y determinaciones de los entes fiscalizadores y de entidades externas y de usuarios, para detectar posibles desviaciones en los servicios administrativos e implementar alternativas de solución.
 
-XIII. Resolver los requerimientos que señala la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental para su cabal cumplimiento.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XII. Coordinar la entrega de la información que en el ámbito de su competencia requiera la Oficina de Representación en el INPer.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIII. Resolver los requerimientos que le corresponda y señale la normativa de Transparencia y Acceso a la Información Pública para su cabal cumplimiento.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XIV. Manejar con estricto apego a las disposiciones legales, la representación del INPer para mantener los procesos laborales, financieros, materiales y de conservación en correcto funcionamiento.
 
-XV. Notificar con la debida oportunidad, al Órgano Interno de Control sobre los casos de rescisión, terminación anticipada o suspensión de los contratos en materia de obra pública, conservación, servicios de la infraestructura física y en su caso observar las infracciones a las disposiciones a que se refieren los artículos 78 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y 60 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público para obtener la validación en los procesos.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XV. Notificar con la debida oportunidad, al Órgano Interno de Control sobre los casos de rescisión, terminación anticipada o suspensión de los contratos en materia de obra pública, conservación, servicios de la infraestructura física y en su caso observar las infracciones a las disposiciones a que se refieren los Artículos 78 de la Ley de Obras Públicas y Servicios Relacionados con las mismas y 60 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público para obtener la validación en los procesos.
 
-XVI. Coordinar con la Dirección de Planeación de acuerdo a la normatividad aplicable la adquisición de bienes y servicios que demanda la operación del INPer, para obtener el abasto oportuno y la obtención de precios competitivos.
+XVI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XVII. Evaluar los documentos que se presenten para el pago de los servicios otorgados.
+XVII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XVIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XVIII. Establecer los programas anuales de adquisiciones y obras públicas del INPer con base en los proyectos que presente la Dirección de Planeación y las necesidades de cada una de las áreas, para considerar los rubros en el presupuesto correspondiente.
+XIX. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XIX. Contribuir a la detección, análisis y atención de los riesgos institucionales en forma eficiente y efectiva para el óptimo cumplimiento de la misión institucional.
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XX. Integrar el resultado de la supervisión y evaluación del desempeño del personal del Instituto para la mejora de la calidad.
 
-XXI. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, a petición de autoridad competente.
+XXI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XXII. Autorizar los manuales de procedimientos de los departamentos, coordinaciones y servicios a su cargo, con la finalidad de establecer su operación.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XXIII. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+XXII. Autorizar los manuales de procedimientos de los Departamentos, Coordinaciones y Servicios a su cargo, con la finalidad de establecer su operación.
+
+XXIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXIV. Someter a la autorización de la Dirección General el anteproyecto del presupuesto de egresos, así como la Cuenta Pública del INPer, conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXV. Verificar, supervisar, controlar y evaluar el proceso de programación, presupuestación, ejecución, reordenamiento, registro y evaluación presupuestal y contable del INPer, e informar periódicamente a la Dirección General del Instituto y someterlo a consideración de las instancias correspondientes.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXVI. Proponer a la persona Titular de la Dirección General las medidas de mejora continua de la gestión, organización y funcionamiento de las áreas administrativas de su adscripción.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXVII. Informar a las Direcciones del Instituto el presupuesto autorizado del capítulo de servicios de personal, para establecer en coordinación con ellas las prioridades de cobertura, la corresponsabilidad y la coadministración de los recursos humanos.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXVIII. Verificar el adecuado desarrollo del ciclo del abasto y de los procedimientos institucionales, establecer los mecanismos de control pertinentes para mantener el suministro completo y oportuno de los insumos requeridos por las áreas.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXIX. Verificar que la persona titular de la Subdirección de Recursos Materiales y Conservación, supervise el cumplimiento de los procesos para la recepción, almacenaje, distribución, registro y control de existencias de bienes de consumo; en el almacén del INPer.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXX. Coordinar, analizar y opinar en relación a la información propuesta por las Direcciones de área para la modificación a la Estructura Orgánica o funcional del INPer y someter a la aprobación de la Dirección General y en su caso a la autorización de las instancias correspondientes, con la finalidad de proporcionar un mejor funcionamiento institucional.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXXI. Promover, coordinar y vigilar de manera conjunta con las distintas áreas del INPer, el cumplimiento de las disposiciones en materia de gestión documental y administración de archivos en el Sistema Institucional de Archivos.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXXII. Dirigir y supervisar el desarrollo de proyectos de tecnologías de la información y comunicaciones, con la finalidad de cubrir las necesidades de las áreas, considerando las nuevas tecnologías y con apego a la normatividad vigente, para apoyar el cumplimiento de los objetivos y políticas institucionales.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXXIII. Firmar la rescisión administrativa de los contratos cuando el proveedor incurra en incumplimiento de sus obligaciones conforme a los lineamientos aplicables.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXIII], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXXIV. Las demás que la persona Titular de la Dirección General le instruya o autorice, para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 34.
 
 La Subdirección de Ginecología y Obstetricia tendrá las siguientes funciones:
 
-I. Definir las normas y políticas para la prestación de servicios en las áreas dependientes de esta Subdirección, para unificar criterios de manejo y hacer comparables los resultados.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-II. Supervisar el otorgamiento de atención médica integral a las pacientes, para su adecuado manejo y satisfacción de las usuarias.
+I. Definir criterios para la atención y prestación de servicios preferentemente a personas sin seguridad social con antecedente de complicaciones perinatales en su embarazo previo, que pueden recurrir en el presente embarazo y que ameriten vigilancia y atención médica especializada por las unidades administrativas dependientes de esta Subdirección, para unificar criterios de manejo preventivo, curativo y rehabilitación de la salud materna y fetal, y hacer comparables los resultados con estándares nacionales e internacionales.
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-II Bis. Supervisar la implementación de los Estándares para Certificar Hospitales del Consejo de Salubridad General con la finalidad de brindar atención con calidad y seguridad.
+II. Definir acciones para que se proporcionen servicios de salud de alta calidad y tecnología preferentemente a pacientes que no cuenten con seguridad social y que cursen con embarazos asociados a diversas patologías, con la finalidad de reducir complicaciones al binomio materno-fetal.
 
-III. Asesorar a los médicos jefes de departamento, adscritos y residentes, en la aplicación de las normas institucionales, para proporcionar una atención médica integral y de calidad.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+II Bis. Supervisar la implementación de los Estándares para Certificar al Instituto conforme a la normatividad de calidad aplicable en cumplimiento a los criterios de calidad y seguridad en los procesos de atención médica.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+III. Asesorar y supervisar a las personas Titulares de las Jefaturas de Departamento y Coordinaciones de Área de la Subdirección, en la aplicación de las normas institucionales en materia de Salud Perinatal, así como en el análisis y reporte a la instancia correspondiente en tiempo y forma de los indicadores contemplados en la Matriz de Indicadores de Resultados (MIR) con la finalidad de contar con los elementos necesarios para tener información estadística confiable y evaluar la productividad.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IV. Difundir en diversos foros médicos, las actividades institucionales tanto asistenciales como de investigación, para divulgar el conocimiento médico de la especialidad.
 
-V. Contribuir al desarrollo para la formación de recursos humanos en las diferentes especialidades tanto en la enseñanza formativa como continua, para tener un mayor número de especialistas de excelencia.
+V. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-VI. Apoyar el desarrollo de la investigación básica y clínica dentro de los diferentes servicios que integran a la Subdirección
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
+VI. Apoyar el desarrollo de la investigación básica y clínica dentro de los diferentes servicios que integran a la Subdirección.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VII. Concentrar y evaluar el registro de la actividad asistencial (consulta y cirugía) del personal perteneciente a la Subdirección, para establecer cargas asistenciales equitativas.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VIII. Colaborar en los programas de la Dirección de Educación en Ciencias de la Salud, para la rotación de los médicos en formación.
+VIII. Coordinar con la Dirección de Educación en Ciencias de la Salud, las actividades académicas, clases, rotaciones, sesiones conjuntas, enseñanza tutorial en el servicio, y demás acciones para la formación de especialistas en Obstetricia y subespecialistas en Medicina Materno Fetal de acuerdo con el programa académico de la Universidad Nacional Autónoma de México (UNAM) para generar recurso humano de excelencia.
 
-IX. Proporcionar información a las autoridades del INPer sobre el funcionamiento que guardan los diferentes servicios de esta Subdirección, para optimizar recursos y prever la atención de necesidades.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-X. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+IX. Definir criterios para la atención de pacientes referidas por las diferentes áreas clínicas del INPer con trastornos de salud mental relacionadas con perturbaciones psiquiátricas, duelo por pérdida perinatal, violencia intrafamiliar, adicciones, etc., con la finalidad de proporcionar atención médica integral para reducir riesgos, complicaciones y secuelas.
+
+X. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XI. Establecer e implementar mecanismos para la atención de pacientes embarazadas con diagnóstico de placenta acreta que permitan reducir complicaciones hemorrágicas y muerte materna, con la finalidad de generar líneas de investigación que posicionen al INPer, como centro de referencia nacional para la atención de casos.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XII. Coordinar a las áreas adscritas a la Subdirección, en la evaluación interdisciplinaria de pacientes embarazadas con padecimientos múltiples y en casos muy complejos, proponer instituciones que permitan establecer vínculos de tercer nivel para el manejo interinstitucional, con la finalidad de brindarles la mejor atención y reducir la morbimortalidad materna y perinatal.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIII. Supervisar y contribuir a que se proporcionen servicios de salud de alta calidad y tecnología a pacientes embarazadas, cuyo feto presente alguna enfermedad o defecto congénito para reducir el impacto en la salud de dicho feto y minimizar la morbimortalidad perinatal; además de realizar convenios con otras instituciones y poder referir a los recién nacidos cuando lo ameriten para su manejo integral.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Gestionar, supervisar y verificar la suscripción de contratos y convenios necesarios para el cumplimiento de los procesos a cargo de esta Subdirección y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de garantizar una atención médica de calidad.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN X], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XV. Las demás que la persona Titular de la Dirección Médica le instruya o autorice para el cumplimiento de las anteriores.
+
+> <small>(DEROGADO, D.O.F. 9 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 35.
 
-Derogado.
+Derogado. (REPUBLICADA SU DEROGACIÓN, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(ADICIONADO, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
-ARTÍCULO 35 BIS. La Subdirección de Reproducción Humana tendrá las siguientes funciones:
+ARTICULO 35 BIS. La Subdirección de Reproducción Humana tendrá las siguientes funciones:
 
-I. Evaluar las posibles causas que impiden el embarazo para tratar a las parejas con problemas de fertilidad, brindando servicios de alta tecnología en técnicas de reproducción asistida (Inseminación Intrauterina (IIU), Fertilización In Vitro (FIV) e Inyección Intracitoplasmática de espermatozoides (ICSI) para el logro de sus objetivos reproductivos.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-II. Generar conocimiento en el área de la medicina reproductiva para contribuir a la solución de los problemas de salud reproductiva del país.
+I. Evaluar, diagnosticar y tratar las diversas patologías ginecológicas y reproductivas, que van desde alteraciones benignas hasta condiciones premalignas y malignas, así como trastornos del piso pélvico, de la fertilidad y del equilibrio endocrino-reproductivo. Asimismo, coordinar y brindar servicios especializados en procedimientos mínimamente invasivos y de reproducción asistida, asegurando una atención integral, actualizada y de alta especialidad para las pacientes y sus parejas.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+II. Contribuir al desarrollo para la formación de recursos humanos en las diferentes especialidades tanto en la enseñanza formativa como continua, para tener un mayor número de especialistas de excelencia fundamentalmente en el área Ginecológica, de Reproducción Humana, Uroginecológica y Oncológica.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 III. Integrar y coordinar las actividades de los diversos servicios que conforman la Subdirección de Reproducción Humana, para brindar una atención integral de la mujer en sus diferentes ciclos de vida.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 IV. Establecer un programa integral de salud reproductiva, con la inclusión de un modelo transnacional de desarrollo de conocimiento desde las áreas básicas hasta las comunitarias, y desde la salud reproductiva de la adolescente hasta la postmenopausia.
 
-V. Generar la formación de recursos humanos de alta especialidad a través del Programa de Subespecialidad en Biología de la Reproducción, que a su egreso se integren como líderes en los equipos de salud, para trabajar a favor de la salud reproductiva mexicana.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+V. Colaborar en los programas de la Dirección de Educación en Ciencias de la Salud, para la rotación del personal médico en formación y generar recursos humanos que a su egreso se integren como líderes en los equipos de salud.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VI. Promover el aprendizaje continuo del personal médico y paramédico adscrito, sustentado en la medicina reproductiva, basada en la evidencia, para ofrecer una atención médica de alta especialidad a los pacientes en edad reproductiva que acuden al INPer.
 
-VII. Promover el intercambio con Universidades e Instituciones, tanto nacionales como extranjeras, de médicos especialistas en Biología de la Reproducción para complementar el programa académico y enriquecer el conocimiento en estas áreas en beneficio de la salud reproductiva y perinatal.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VIII. Elaborar y ejecutar el programa de Biología de la Reproducción y proponer líneas de investigación para favorecer la aplicación del conocimiento y tecnología de vanguardia en las áreas de asistencia médica y enseñanza.
+VII. Promover el intercambio con Universidades e Instituciones, tanto nacionales como extranjeras de médicos especialistas en Ginecología, Biología de la Reproducción, Urología ginecológica, Gineco Oncología para complementar el programa académico y enriquecer el conocimiento en estas áreas en beneficio de la salud reproductiva y perinatal.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+VIII. Apoyar el desarrollo de la investigación básica y clínica dentro de los diferentes servicios que integran a la Subdirección con el fin de contribuir al cumplimiento de los objetivos institucionales.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IX. Promover la experiencia institucional del conocimiento generado por las áreas de investigación, formación de recursos humanos y atención médica de alta especialidad, para que sean fuente de consulta y referencia en la conformación de la política nacional en materia de salud reproductiva.
 
-X. Las demás que se consideren necesarias para el cumplimiento de sus atribuciones.
+X. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XI. Proporcionar información a las autoridades del INPer sobre el funcionamiento que guardan los diferentes servicios de esta Subdirección, para optimizar recursos y prever la atención de necesidades.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XII. Proponer y llevar a cabo la difusión de las actividades institucionales tanto asistenciales como de investigación, para divulgar el conocimiento médico de la especialidad y homologar la atención de pacientes con enfermedades ginecológicas benignas y malignas, alteraciones del potencial reproductivo, enfermedades endocrinológicas con repercusión ginecológica y medicina preventiva en el climaterio.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIII. Concentrar y evaluar el registro de la actividad asistencial (consulta y cirugía) del personal perteneciente a la Subdirección, para establecer cargas asistenciales equitativas en Ginecología Quirúrgica y Reproductiva.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Gestionar, supervisar y verificar la suscripción de contratos y convenios necesarios para el cumplimiento de los procesos a cargo de esta Subdirección y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de incrementar la calidad en la formación de recursos humanos, asistencia médica y productividad científica en el área ginecológica, de reproducción humana, uroginecológica y oncológica.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN X], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XV. Las demás que la persona Titular de la Dirección Médica le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 36.
 
 La Subdirección de Neonatología tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 I. Supervisar el cumplimiento de las normas, estándares de calidad y procedimientos en materia de asistencia médica neonatal para asegurar un manejo y tratamiento óptimo.
 
-II. Coordinar con la Dirección de Investigación el desarrollo de protocolos sobre el neonato pretérmino y de término con riesgo de morbilidad para colaborar en el conocimiento científico.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+II. Coordinar con la Dirección de Investigación el desarrollo de protocolos de investigación sobre el neonato pre término y de término con riesgo de morbilidad para colaborar en el conocimiento científico.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 III. Implementar con la Dirección de Educación en Ciencias de la Salud eventos educativos relacionados con la enseñanza continua y de postgrado en Neonatología para difundir y actualizar los conocimientos en beneficio del neonato.
 
-IV. Proponer y establecer normas y procedimientos médicos, para el tratamiento de recién nacidos en estado crítico.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+IV. Proponer y establecer normas y procedimientos médicos para el diagnóstico y tratamiento integral de pacientes recién nacidos, con la finalidad de mantener la calidad de atención neonatal vanguardista y como referente para esta población.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 V. Apoyar en la formación de recursos humanos para la salud (médicos, enfermeras), tanto a nivel nacional como internacional en el manejo de recién nacidos graves.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 VI. Colaborar con las diferentes dependencias del sistema de salud en la corresponsabilidad de la asistencia a través de la referencia y contrarreferencia en neonatos portadores de malformaciones congénitas, con la finalidad de proporcionar un servicio de asistencia integral.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VII. Coordinar y supervisar la asistencia médica integral del neonato de mediano riesgo, en coordinación con la Unidad de Cuidados Intensivos, Cuidados Intermedios, Urgencias, Alojamiento Conjunto y Banco de Leches con la finalidad de brindar una atención óptima al neonato.
 
-VIII. Promover la relación madre-hijo, estimulando la lactancia materna y proporcionando información sobre las acciones para estímulo psicomotor del recién nacido de bajo riesgo.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-IX. Intervenir en la detección de secuelas neurológicas, psicológicas y neurofisiológicas de la comunicación humana, para otorgar la asistencia y el seguimiento médico acorde a estas patologías.
+VIII. Promover la atención centrada en la familia, fomentando y estimulando la relación madre- hijo, impulsando la lactancia materna y proporcionando información sobre las acciones para estímulo psicomotor del recién nacido de bajo, intermedio y alto riesgo con la finalidad de afianzar su vínculo afectivo.
 
-X. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+IX. Establecer procesos para la detección de secuelas neurológicas, psicológicas, neurofisiológicas, de comunicación humana, nutricional y metabólica para otorgar la asistencia oportuna y el seguimiento médico acorde a estas patologías.
+
+X. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XI. Asesorar y supervisar a las personas titulares de las Jefaturas de Departamento y de Coordinaciones de Área de la Subdirección, en la aplicación de las Normas Institucionales, así como en el análisis y reporte en tiempo y forma a la instancia correspondiente de los indicadores contemplados en la Matriz de Indicadores de Resultados (MIR) con la finalidad de contar con los elementos necesarios para la evaluación de su productividad.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XII. Gestionar, supervisar y verificar la suscripción de contratos y convenios necesarios para el cumplimiento de los procesos a cargo de esta Subdirección y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de incrementar la calidad en la formación de recursos humanos, asistencia médica y productividad científica en el área neonatal.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN X], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIII. Las demás que la persona Titular de la Dirección Médica le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 37.
 
 La Subdirección de Servicios Auxiliares de Diagnóstico tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-I. Apoyar a los servicios de asistencia médica del Instituto en la valoración, diagnóstico y consecuente tratamiento de los pacientes, mediante la evaluación de los padecimientos acorde a los criterios para la aceptación de pacientes, las técnicas de laboratorio, gabinete y administración de los derivados sanguíneos para proporcionar las alternativas de tratamiento que ofrece la medicina transfusional.
+I. Apoyar a los servicios de asistencia médica del instituto en la valoración, diagnóstico y consecuente tratamiento de los pacientes, mediante la evaluación de los padecimientos acorde a los criterios para la aceptación de pacientes, las técnicas de laboratorio, gabinete y administración de los derivados sanguíneos para proporcionar las alternativas de tratamiento que ofrece la medicina transfusional.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 II. Supervisar el oportuno funcionamiento de los procedimientos diagnósticos en el campo de la perinatología y reproducción humana, trabajando en conjunto con las áreas de investigación y asistencia médica, con la finalidad de cumplir con las normas de calidad establecidas.
 
-III. Colaborar y participar en el desarrollo de los proyectos de investigación para lograr avances científicos, epidemiológicos e innovaciones técnicas en el área de la salud perinatal y de la reproducción humana.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-IV. (DEROGADA, D.O.F. 9 DE FEBRERO DE 2015)
+III. Promover el desarrollo de los proyectos de investigación para lograr avances científicos, epidemiológicos e innovaciones técnicas en el área de la salud perinatal y de la reproducción humana.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+IV. (DEROGADA, D.O.F. 9 DE FEBRERO DE 2015) (REPUBLICADA SU DEROGACIÓN, D.O.F. 24 DE JULIO DE 2025)
 
-V. Promover la participación de las diferentes adscritas en los programas y proyectos de la Dirección de Educación en Ciencias de la Salud para el desarrollo de educación profesional, educación médica continua, así como la capacitación al personal que presta sus servicios en las diferentes áreas de la Subdirección…
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+V. Promover la participación de las diferentes áreas adscritas a la Subdirección, en los programas y proyectos de la Dirección de Educación en Ciencias de la Salud para el desarrollo de educación profesional, educación médica continua, así como la capacitación al personal que presta sus servicios en las áreas correspondientes.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VI. Coordinar conjuntamente con las áreas de Trabajo Social y Servicios el destino final de cadáveres y tejidos, con la finalidad de cumplir con las normas de salud establecidas.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VII. Supervisar el proceso de farmacovigilancia para realizar farmacoterapéutica con seguridad para las pacientes y neonatos con sustento en la normatividad.
 
-VIII. (DEROGADA, D.O.F. 9 DE FEBRERO DE 2015)
+VIII. (DEROGADA, D.O.F. 9 DE FEBRERO DE 2015) (REPUBLICADA SU DEROGACIÓN, D.O.F. 24 DE JULIO DE 2025)
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IX. Colaborar con los comités de asistencia médica en el análisis de los casos especiales, con la finalidad de retroalimentar a los diferentes servicios con los resultados obtenidos.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 X. Apoyar en la ejecución de los programas sectoriales de salud en el ámbito de las funciones y servicios correspondientes, para el buen funcionamiento institucional.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XI. Efectuar las gestiones ante los servicios correspondientes de los requerimientos que se susciten en las áreas de la Subdirección para prevenir riesgos en pacientes y personal del Instituto, así como para favorecer la oportuna solución de los problemas emergentes.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 XII. Establecer y evaluar el cumplimiento del reglamento interior para el aprovechamiento de los insumos que manejan las áreas adscritas, con la finalidad de lograr un óptimo uso de los recursos institucionales.
 
-XIII. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+XIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Asesorar y supervisar a las personas titulares de las Jefaturas de Departamento y de Coordinaciones de Área de la Subdirección, en la aplicación de las Normas Institucionales, así como en el análisis y reporte a la instancia correspondiente en tiempo y forma de los indicadores contemplados en la Matriz de Indicadores de Resultados (MIR) con la finalidad de contar con los elementos necesarios para la evaluación de su productividad.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XV. Coordinar en conjunto con la Dirección de Planeación el análisis de los equipos médicos del INPer para garantizar la evaluación de éstos, verificando su funcionalidad, seguridad y disponibilidad con la finalidad de conformar el registro en cartera cuando así se requiera y favorecer la gestión de su adquisición.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVI. Participar y favorecer el uso de la tecnología médica mediante programas de mantenimiento preventivo y correctivo para asegurar oportunidad y calidad en la presentación de servicios de atención, así como un costo efectivo para el INPer.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVII. Gestionar, supervisar y verificar la suscripción de contratos y convenios, necesarios para el cumplimiento de los procesos a cargo de esta Subdirección y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de incrementar la calidad en la asistencia médica en materia de salud perinatal.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVIII. Coordinar a las áreas adscritas a la Subdirección para que contribuyan en la supervisión del cumplimiento de los contratos formalizados para la atención de los servicios integrales a cargo y, en su caso, notificar las faltas que se observen para que se establezca la sanción correspondiente.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XIII], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIX. Las demás que la persona Titular de la Dirección Médica le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 38.
 
 La Subdirección de Enfermería tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 I. Establecer con base en el diagnóstico situacional, el programa anual de trabajo, especificando los resultados esperados a través de la estandarización de los procedimientos, para garantizar el cumplimiento oportuno de los objetivos y metas propuestas, así como actualizar o elaborar reglamentos internos de trabajo para cada uno de los niveles de responsabilidad del área de enfermería.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 II. Promover, coordinar y controlar la participación de enfermería en investigaciones disciplinarias e interdisciplinarias, para dirigir esfuerzos hacia el cumplimiento de la misión y visión institucionales; así como difundir conocimiento científico que coadyuve a la resolución de problemas de salud del área reproductiva y perinatal.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 III. Coordinar y promover la colaboración del profesional de enfermería en grupos colegiados y redes de investigación a nivel nacional, para el establecimiento de lineamientos, normas y buenas prácticas de enfermería.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 IV. Coordinar los programas académicos y de educación continua, con relación a la Especialidad de Enfermería Perinatal y Enfermería del Neonato; así como el otorgamiento de becas para cursos post-técnicos y de especialidad, que coadyuven a la capacitación y actualización constante del personal de enfermería con sólida preparación ética y humanística.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 V. Coordinar, supervisar y evaluar las actividades de las áreas de enfermería adscritas a la Subdirección, con la finalidad de apoyar y dar un cuidado integral con calidad y seguridad a la población usuaria del INPer.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 VI. Elaborar, coordinar y supervisar el programa de rotación interno anual del personal de enfermería, con el objeto de homogeneizar el conocimiento y capacitar integralmente al personal.
 
-VII. Programar y organizar la plantilla de personal de enfermería, con base en las demandas de los servicios y el perfil académico, estableciendo mecanismos de control de asistencia y ausencia del personal, para asegurar la eficiencia, eficacia del cuidado que proporciona el profesional de enfermería.
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
-VIII. Participar en acciones de coordinación institucional, interinstitucional e intersectorial; así como en comités de salud y subcomités, para proponer alternativas que favorezcan la modernización de los servicios, además de compartir experiencias exitosas.
+VII. Programar y organizar la plantilla de personal de enfermería, con base en las demandas de los servicios y el perfil académico, estableciendo mecanismos de control de asistencia y ausencia del personal, para asegurar la eficiencia y eficacia del cuidado que proporciona el profesional de enfermería.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+VIII. Participar en acciones de coordinación institucional, interinstitucional e intersectorial; así como en Comités de salud y Subcomités, para proponer alternativas que favorezcan la modernización de los servicios, además de compartir experiencias exitosas.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IX. Participar en el establecimiento de normas para la selección, capacitación, actualización y promoción escalafonaria del personal, para las diferentes categorías laborales que se tienen en el área de enfermería, así como en la gestión de capital humano acorde con el perfil profesional que requiera su nivel de competencia y asignación de funciones y actividades.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 X. Coordinar, elaborar y evaluar los programas de eventos científicos, para difundir y proyectar avances en el ámbito perinatal, reproductivo y neonatal; así como la práctica basada en evidencias.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XI. Participar activamente en los programas de estímulos internos y externos otorgados al personal de enfermería, para motivar su desarrollo humano y profesional.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 XII. Coordinar el registro oportuno de datos de carácter laboral y académico-profesional en el Sistema de Información Administrativa de Recursos Humanos de Enfermería (SIARHE), con la finalidad de conformar una base de datos confiable y actualizada de la profesionalización del personal de enfermería del INPer.
 
-XIII. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+XIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Gestionar, supervisar y verificar la suscripción de contratos y convenios, necesarios para el cumplimiento de los procesos a cargo de esta Subdirección y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de incrementar la calidad en la formación de recursos humanos en materia de salud perinatal.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XIII], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XV. Las demás que la persona titular de la Dirección Médica le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 39.
 
 La Subdirección de Investigación Clínica tendrá las siguientes funciones:
 
-I. Coordinar con el área médica, los procesos administrativos, metodológicos y todos aquellos necesarios para facilitar el desarrollo vinculado de la investigación clínica.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-II. Supervisar que los proyectos de investigación registrados por los investigadores del área cumplan con la normatividad y criterios de factibilidad establecidos, para el buen desarrollo de los mismos con el fin de mejorar permanentemente la atención de problemas prioritarios de salud reproductiva y perinatal.
+I. Promover, coordinar y supervisar los proyectos de investigación clínica del INPer para facilitar el desarrollo vinculado de la investigación con base a las líneas que emita la Dirección de Investigación.
 
-III. Promover la integración de investigadores jóvenes a grupos de trabajo multidisciplinario, intra e interinstitucional con la finalidad de integrar proyectos de investigación sólidos, factibles y con un alto nivel de calidad científica.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-IV. Programar y vigilar el uso adecuado de los recursos humanos, materiales y financieros asignados a las áreas, para lograr su óptima aplicación.
+II. Coordinar con el área médica, los procesos administrativos y metodológicos para facilitar el desarrollo de investigación clínica con el fin de mejorar permanentemente la atención de problemas prioritarios de salud reproductiva y perinatal y así alinear el desarrollo de los mismos con lo normado por la Dirección de Investigación.
 
-V. Promover la búsqueda e integración de fondos externos específicos para el desarrollo de proyectos de investigación en las áreas a cargo de la Subdirección, con la finalidad de incrementar la calidad de los mismos, favorecer el equipamiento institucional, así como fortalecer los estímulos a la productividad científica de los investigadores involucrados en ellos.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VI. Evaluar de acuerdo a la periodicidad programada la productividad científica y académica de los investigadores adscritos a la Subdirección, con la finalidad de promover su desarrollo institucional, así como el de vigilar el cumplimiento de la actividad asignada.
+III. Promover la integración de pasantes de servicio social en investigación e investigadores clínicos a grupos de trabajo multidisciplinario, intra e interinstitucional con la finalidad de integrar proyectos de investigación sólidos, factibles y con un alto nivel de calidad científica.
 
-VII. Promover el desarrollo de actividades académicas y de difusión de los resultados obtenidos de los proyectos de investigación realizados por los investigadores y personal adscrito a las áreas de la Subdirección con la finalidad de cumplir con el compromiso institucional de difusión del conocimiento generado.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VIII. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+IV. Programar y vigilar el uso adecuado de los recursos humanos y materiales asignados a la Subdirección Clínica, para lograr su óptima aplicación.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+V. Promover la búsqueda e integración de fondos externos específicos para el desarrollo de proyectos de investigación en las áreas a cargo de la Subdirección, con la finalidad de incrementar la calidad de los mismos y favorecer el equipamiento institucional.
+
+VI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+VII. Apoyar el Plan de Difusión Científica y el Plan Académico establecidos por la Dirección de Investigación participando así en la divulgación del conocimiento generado por investigadores en el área perinatal.
+
+VIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+IX. Coordinar con las áreas adscritas a la Dirección Médica, la Dirección de Educación en Ciencias de la Salud y las Subdirecciones de Investigación Biomédica e Investigación Clínica, los procesos administrativos, metodológicos y todos aquellos necesarios para facilitar el desarrollo vinculado de la investigación en intervenciones comunitarias.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+X. Contribuir con la Dirección de Investigación y la Dirección General, a identificar los principales problemas en materia de salud perinatal y reproductiva, a través de un análisis multidimensional de impacto epidemiológico, nutricional, económico, ético, social, cultural, de género y de políticas públicas, con la finalidad de identificar las principales líneas de investigación, además de fomentar la traslación del conocimiento y el análisis complejo de datos con técnicas estadísticas complejas e innovadoras.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XI. Promover la integración de los investigadores adscritos a la Subdirección, a grupos de trabajo multidisciplinario, intra e interinstitucional con la finalidad de integrar proyectos de investigación en intervenciones comunitarias, factibles y con un alto nivel de calidad y originalidad científica.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XII. Establecer modelos de evaluación del impacto de las investigaciones desarrolladas a nivel comunitario, con la finalidad de trasladar los modelos a comunidades con desarrollo y comportamiento similar a donde se desarrollaron las investigaciones.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIII. Promover la búsqueda de fondos externos específicos para el desarrollo de proyectos de investigación en las áreas a cargo de la Subdirección, con la finalidad de incrementar la calidad de los mismos y favorecer el equipamiento institucional.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Apoyar el Plan de Difusión Científica en materia de investigación en salud comunitaria y el Plan Académico, establecidos por la Dirección de Investigación con la finalidad de favorecer y soportar el programa integral institucional de profesionalización de la investigación.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XV. Fomentar y facilitar la formación de recursos humanos en las siguientes áreas: nutrición neonatal y perinatal, epidemiología clínica, antropología, sociología, medicina Traslacional, neurobiología y análisis de datos, a fin de incrementar la disponibilidad de recursos humanos especializados en el área.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVI. Coordinar la difusión de los resultados generados de las investigaciones en intervenciones comunitarias para impulsar el conocimiento y participación en ese campo.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVII. Gestionar, supervisar y verificar la suscripción de contratos y convenios, necesarios para el cumplimiento de los procesos a cargo de esta Subdirección y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de incrementar la calidad en la formación de recursos humanos en las áreas de nutrición neonatal y perinatal, epidemiología clínica, antropología, sociología, medicina Traslacional, neurobiología y análisis de datos, así como en la productividad científica en materia de salud perinatal.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VIII], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVIII. Las demás que la persona titular de la Dirección de Investigación le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 40.
 
 La Subdirección de Investigación Biomédica tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-I. Coordinar con el área médica, y las subdirecciones de investigación clínica y de intervenciones comunitarias los procesos administrativos, metodológicos y todos aquellos necesarios para facilitar el desarrollo vinculado de la investigación biomédica.
+I. Coordinar con el área médica, y la Subdirección de Investigación Clínica, los procesos administrativos, metodológicos y todos aquellos necesarios para facilitar el desarrollo vinculado de la investigación biomédica.
 
-II. Supervisar que los proyectos de investigación registrados por los investigadores del área cumplan con la normatividad y criterios de factibilidad establecidos, para el buen desarrollo de los mismos y que aporten conocimiento original que ayude a resolver problemas prioritarios de salud reproductiva y perinatal.
+II. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 III. Promover la integración de investigadores a grupos de trabajo multidisciplinario, intra e interinstitucional con la finalidad de integrar proyectos de investigación factibles y con un alto nivel de calidad y originalidad científica.
 
-IV. Programar y vigilar el uso adecuado de los recursos humanos, materiales y financieros asignados a las áreas y lograr su óptima aplicación.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-V. Promover el concurso y obtención de financiamiento externo para el desarrollo de proyectos de investigación en las áreas a cargo de la subdirección, y así favorecer el equipamiento, infraestructura y desarrollo de determinaciones o cuantificaciones en sistemas experimentales u observacionales, además de fortalecer los estímulos a la productividad científica de los investigadores involucrados en ellos.
+IV. Programar y vigilar el uso adecuado de los recursos humanos y materiales asignados a la Subdirección, para lograr su óptima aplicación.
 
-VI. Evaluar con periodicidad programada, la productividad científica y académica de los investigadores adscritos a la subdirección, con la finalidad de promover su desarrollo institucional, así como, vigilar el cumplimiento de la actividad asignada.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VII. Promover el desarrollo de actividades académicas, así como difundir, a nivel nacional e internacional, los resultados obtenidos de los proyectos de investigación participando así en la generación universal del conocimiento en el área perinatal.
+V. Promover el concurso y obtención de financiamiento externo para el desarrollo de proyectos de investigación de las personas investigadoras adscritas a la Subdirección, con el propósito de actualizar e incorporar nueva tecnología y adquirir infraestructura para aumentar la productividad científica y promoción de la calificación funcional de las personas investigadoras.
 
-VIII. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+VI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+VII. Apoyar el plan de difusión científica y el plan académico establecidos por la Dirección de Investigación participando así en la generación del conocimiento en el área perinatal.
+
+VIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+IX. Gestionar, supervisar y verificar la suscripción de contratos y convenios, necesarios para el cumplimiento de los procesos a cargo de esta Subdirección y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de incrementar la calidad en el desarrollo vinculado de la investigación biomédica.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VIII], D.O.F. 24 DE JULIO DE 2025)</small>
+
+X. Las demás que la persona titular de la Dirección de Investigación le instruya o autorice para el cumplimiento de las anteriores.
 
 ###### ARTÍCULO 41.
 
-La Subdirección de Investigación en Intervenciones Comunitarias tendrá las siguientes funciones:
+(DEROGADO, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+I. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-I. Coordinar con las áreas de atención hospitalaria, las áreas de enseñanza, y las subdirecciones de investigación biomédica básica y clínica los procesos administrativos, metodológicos y todos aquellos necesarios para facilitar el desarrollo vinculado de la investigación en intervenciones comunitarias.
+II. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-II. Supervisar que los proyectos de investigación registrados por los investigadores del área cumplan con la normatividad y criterios de factibilidad establecidos, así como se observen encaminados a ampliar el conocimiento de factores neurobiológicos, toxicológicos, nutricios y ambientales que puedan representar un riesgo para la salud de la embarazada y para el crecimiento y desarrollo fetal, neonatal e infantil.
+III. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-III. Contribuir con la dirección de investigación y la dirección general, a identificar los principales problemas comunitarios en materia de salud perinatal y reproductiva, a través de un análisis multidimensional de impacto epidemiológico, económico, ético, social, cultural, de género y de políticas públicas, con la finalidad de identificar las principales líneas de investigación comunitaria en este rubro.
+IV. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-IV. Promover la integración de los investigadores adscritos a la subdirección, a grupos de trabajo multidisciplinario, intra e interinstitucional con la finalidad de integrar proyectos de investigación en intervenciones comunitarias, factibles y con un alto nivel de calidad y originalidad científica.
+V. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-V. Establecer modelos de evaluación del impacto de las investigaciones desarrolladas a nivel comunitario, con la finalidad de trasladar los modelos a comunidades con desarrollo y comportamiento similar a donde se desarrollaron las investigaciones.
+VI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-VI. Colaborar con la dirección de investigación en la gestión de recursos externos para el financiamiento de la investigación con la finalidad de crear unidades autosustentables de generación de conocimientos.
+VII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+VIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-VII. Establecer en conjunto con la Dirección de Educación en Ciencias de la Salud, programas de capacitación y desarrollo en materia de investigación en salud comunitaria, con la finalidad de favorecer y soportar el programa integral institucional de profesionalización de la investigación.
+IX. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+X. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-VIII. Participar activamente en los comités encargados de regular la aprobación y vigilancia de los procesos de investigación con la finalidad de mejorar la eficiencia terminal y el desarrollo de las investigaciones.
+XI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-IX. Participar en la formación de recursos humanos en las siguientes áreas: nutrición neonatal y perinatal, epidemiología clínica, antropología, sociología y todas las áreas que impliquen actividades de intervención comunitaria, afín de incrementar la disponibilidad de recursos humanos especializados en el área.
-
-X. Coordinar la difusión de los resultados generados de las investigaciones en intervenciones comunitarias para impulsar el conocimiento y participación en ese campo.
-
-XI. Las demás que se consideren necesarias para el cumplimiento de sus atribuciones.
-
-###### ARTÍCULO 41 Bis.
-
-(DEROGADO, D.O.F. 9 DE FEBRERO DE 2015)
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 42.
 
 La Subdirección Académica tendrá las siguientes funciones:
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 I. Coordinar un sistema integral de enseñanza en el INPer para innovar y fortalecer la formación de recursos humanos en liderazgo, gerencia y educación en las diferentes especialidades médicas y cursos de alta especialidad, mejorando los estándares de calidad en el proceso de formación y capacitación de estos recursos.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-II. Supervisar y actualizar de manera continua el proceso de selección de médicos aspirantes a las Especializaciones (Ginecología y Obstetricia, Neonatología, Biología de la Reproducción, Medicina Materno Fetal, Urología Ginecológica e Infectología) y cursos de Posgrado de Alta Especialidad (Cirugía Endoscópica Ginecológica, Cuidados Intensivos Neonatales, Genética Perinatal, Medicina Crítica en Obstetricia, Periposmenopausia, Neurofisología Clínica, Cirugía en el Recién Nacido y Aplicaciones del Doppler 3D en Medicina Fetal) a fin de generar recursos humanos comprometidos con su vocación dentro de las especialidades de salud perinatal y reproductiva.
+II. Supervisar y actualizar de manera continua el proceso de selección de médicos aspirantes a las Especializaciones (Ginecología y Obstetricia, Neonatología, Biología de la Reproducción, Medicina Materno Fetal, Urología Ginecológica e Infectología) y cursos de Posgrado de Alta Especialidad en Medicina (Cirugía Endoscópica Ginecológica, Cuidados Intensivos del Recién Nacido Crítico, Genética Perinatal, Medicina Crítica en Obstetricia, Periposmenopausia, Cirugía Neonatal, Cardiología Fetal y Psiquiatría Perinatal) a fin de generar recursos humanos comprometidos con su vocación dentro de las especialidades de salud perinatal y reproductiva.
 
-III. Evaluar los procesos administrativos y académicos de los cursos de especialización y cursos de posgrado de alta especialidad a fin de propiciar la formación de médicos especialistas de alta calidad y humanismo en materia de salud perinatal y reproductiva.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+III. Coordinar y regular el proceso administrativo de la formación de personal médico especialista, para cumplir con las políticas educativas de las instituciones participantes y propiciar la formación de personal médico especialista de alta calidad en materia de salud perinatal y reproductiva.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IV. Coordinar y evaluar los cursos de actualización continua y diplomados otorgados tanto a personal del INPer como de otras instituciones para mejorar la calidad de las actividades laborales y el desarrollo de competencias profesionales de carácter individual e institucional.
 
-V. Recopilar y procesar la información estadística que se genera en enseñanza a fin de integrar los informes correspondientes a su desempeño y brindar los elementos que permitan la toma de decisiones.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VI. Administrar y supervisar el otorgamiento de becas en coordinación con el Subcomité de Becas del INPer.
+V. Recopilar y procesar la información estadística inherente a las funciones de la Dirección de Educación en Ciencias de la Salud a fin de integrar los informes correspondientes a su desempeño y brindar los elementos que permitan la toma de decisiones.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VII. Promover la orientación de los programas operativos de las diferentes Especializaciones y Cursos de Posgrado de Alta Especialidad impartidas en el INPer a fin de contribuir a solucionar las necesidades de salud reproductiva y perinatal del país.
+VI. Supervisar el manejo del programa para el otorgamiento de becas en coordinación con la Dirección de Educación en Ciencias de la Salud y el Subcomité de Becas con la finalidad de transparentar su proceso.
 
-VIII. (DEROGADA, D.O.F. 9 DE FEBRERO DE 2015)
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+VII. Proponer coordinar la elaboración de nuevos proyectos educativos que permitan al INPer estar a la vanguardia en la formación continua para reflejar su impacto en las áreas de atención de la salud reproductiva y perinatal.
+
+VIII. (DEROGADA, D.O.F. 9 DE FEBRERO DE 2015) (REPUBLICADA SU DEROGACIÓN, D.O.F. 24 DE JULIO DE 2025)
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IX. Coordinar el desarrollo de estrategias en enseñanza, para alcanzar niveles de calidad requeridos en la formación de recursos humanos.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 X. Participar en la organización de los eventos académicos del INPer, con la finalidad de aportar acciones para el cumplimiento del objetivo propuesto.
 
-XI. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+XI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XII. Coordinar la celebración de alianzas con organismos públicos y privados nacionales e internacionales para promover la colaboración académica y el intercambio científico en el INPer.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIII. Gestionar, supervisar y verificar la suscripción de contratos y convenios, necesarios para el cumplimiento de los procesos a cargo de esta Subdirección y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de incrementar la calidad en la formación de recursos humanos en materia de salud perinatal y reproductiva.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XI], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Las demás que la persona titular de la Dirección de Educación en Ciencias de la Salud le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 43.
 
 La Subdirección de Intercambio y Vinculación tendrá las siguientes funciones:
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 I. Establecer vínculos y desarrollar convenios de colaboración académica con instituciones educativas y de salud en México y el extranjero con el propósito de enriquecer la enseñanza, e investigación en el área de salud perinatal y reproductiva.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 II. Desarrollar vínculos con las áreas y servicios especializados de otras instituciones prestigiadas y con experiencia en el área de medicina perinatal y reproductiva a fin de intercambiar experiencias, tecnología y conocimientos.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 III. Coordinar, organizar y supervisar los programas de maestrías y doctorados para asegurar su cumplimento y calidad.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IV. Fomentar el intercambio del conocimiento con profesionales de la salud a través de la generación de evidencias clínicas para la atención de los problemas prioritarios en salud perinatal y reproductiva.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 V. Promover la incorporación de los residentes de las diversas especialidades con maestrías a dúo a fin de lograr una capacidad para el análisis crítico del conocimiento en la toma de decisiones.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VI. Desarrollar y promover la Central de Simulación a fin de que sea un modelo educativo innovador para mejorar la atención clínica y capacitar instructores que intervengan y difundan el conocimiento en otros sitios al interior del país.
 
-VII. Supervisar el proceso de evaluación del Centro de Simulación para medir el desarrollo de las habilidades y capacidades adquiridas por el personal médico y paramédico, así como el impacto en la atención de la salud perinatal y reproductiva del país.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+VII. Supervisar el proceso de evaluación de la Central de Simulación para medir el desarrollo de las competencias adquiridas por el personal médico y paramédico, así como el impacto en la atención de la salud perinatal y reproductiva del país.
 
-VIII. Supervisar el proceso de evaluación de la Central de Simulación para medir el desarrollo de las competencias adquiridas por el personal médico y paramédico, así como el impacto en la atención de la salud perinatal y reproductiva del país.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-IX. Difundir el conocimiento a través de la publicación en diversos medios editoriales que contribuya a elevar la calidad del proceso educativo.
+VIII. Ofrecer servicios de apoyo para las personas profesionistas de las ciencias de la salud en materia educativa a través del conocimiento y uso de las bases de datos ubicadas en la Coordinación de la Biblioteca y con apoyo de otros centros bibliotecarios para la toma de decisiones en su práctica clínica diaria.
 
-X. Actualizar y supervisar el programa de educación a distancia, a fin de complementar la formación integral de los médicos residentes, docentes y personal paramédico, a su vez, desarrollar programas de impacto comunitario para especialistas externos.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XI. Coordinar la estancia y supervisar el desempeño del personal de salud externo que realiza servicio social, prácticas profesionales y rotaciones.
+IX. Coordinar la participación en la integración de un boletín, gaceta o revista de nuestra institución en el que se aprecie la vinculación entre los diferentes servicios, con la finalidad de dar a conocer los programas y avances más significativos y de esta manera compartir avances coordinados institucionales.
 
-XII. Supervisar el desarrollo de programas educativos dirigidos a la comunidad a fin de promover estilos de vida saludables en el ámbito perinatal y reproductivo.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XIII. Supervisar y coordinar la organización de eventos académicos y la gestión de recursos asociados.
+X. Brindar apoyo en materia de profesionalización de la docencia en el área de las ciencias de la salud al personal académico que requieran asesorías para lograr alcanzar sus objetivos propuestos a través de programas preestablecidos como cursos presenciales y a distancia, a través del uso de las tecnologías de la educación (Plataforma educativa), para el desarrollo de competencias de los profesionales del área de la salud en formación.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XIV. Diseñar la imagen gráfica de los Congresos, Cursos, Simposios y Talleres organizados por el INPer, y en los que participa externamente, acorde a la normativa de identidad gráfica del Gobierno de la República, así como brindar apoyo y asesoría en diseño de papelería, credencialización, logotipos y material de difusión interno.
+XII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XV. Organizar y protocolizar las Reuniones Anuales y Congresos Nacionales e Internacionales del INPer.
+XIII. Coordinar la logística para los eventos de simulación y profesionalización docente extramuros con la finalidad de alcanzar los objetivos propuestos y acentuar la participación del INPer a nivel nacional.
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Supervisar que se cumplan los lineamientos de imagen gráfica institucional para la promoción de los diferentes eventos internos y/o externos, con la finalidad de cumplir con la normativa de identidad gráfica determinada por el Gobierno de la República.
+
+XV. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XVI. Coordinar el enlace de los servicios ofertados del INPer con las pacientes y personas interesadas a través de sus redes sociales oficiales.
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XVII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XVII. Las demás que se consideren necesarias para el cumplimiento de las anteriores
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVIII. Gestionar, supervisar y verificar la suscripción de contratos y convenios necesarios para el cumplimiento de los procesos a cargo de esta Subdirección y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de incrementar la calidad en la formación de los profesionales de las ciencias de la salud en materia educativa, así como la evolución de la Central de Simulación en temas de medicina perinatal y reproductiva.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVII], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIX. Las demás que la persona titular de la Dirección de Educación en Ciencias de la Salud le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 44.
 
 La Subdirección de Desarrollo Organizacional tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-I. Supervisar que el cumplimiento de los objetivos y funciones de las áreas de Estrategias Organizacionales, Operación de Programas Gubernamentales, Gestión de la Calidad, Trabajo Social y Orientación a Pacientes y Evaluación Médica fomenten el desarrollo organizacional.
+I. Supervisar que el cumplimiento de los objetivos y funciones de las áreas de Estrategias Organizacionales, Operación de Programas Gubernamentales, Gestión de la Calidad, Organización y Métodos y Orientación a Pacientes y Evaluación Médica fomenten el desarrollo organizacional.
 
-II. Vigilar que la asesoría para elaboración de manuales de organización y procedimientos se lleve a cabo con base en la normatividad y estimule la mejora de procesos para coadyuvar en el cumplimiento de las funciones del INPer.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-III. Proponer las modificaciones a la Estructura y Estatuto Orgánico y al Manual de Organización del INPer, con la finalidad de propiciar un mejor funcionamiento institucional.
+II. Asesorar y coadyuvar en la elaboración de manuales de organización y procedimientos para que se lleve a cabo con base en la normatividad y estimular la mejora de procesos para contribuir en el cumplimiento de las funciones del INPer.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+III. Coordinar, analizar y opinar en relación a la información propuesta por las Direcciones de Área para la modificación a la Estructura con impacto en el Estatuto Orgánico y Manual de Organización Específico del INPer, con la finalidad de propiciar un mejor funcionamiento Institucional.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IV. Supervisar que el Catálogo de Formas se mantenga actualizado y que la elaboración de instrumentos para difusión o recopilación de datos contribuya a la generación de información que facilite el cumplimiento de los procesos.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 V. Coordinar la detección del clima y cultura organizacionales para la elaboración y cumplimiento del Programa de Acciones de Mejora.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VI. Supervisar que el análisis y evaluación de procesos generen acciones de mejora para facilitar el cumplimiento de los objetivos y funciones institucionales con el óptimo aprovechamiento de los recursos.
 
-VII. Vigilar que las modificaciones al Tabulador de Cuotas de Recuperación cumplan criterios de gratuidad, beneficio social y contribuyan a la generación de ingresos propios.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VIII. Coordinar y supervisar el proceso de certificación del INPer en base a los Estándares para la Certificación de Hospitales emitidos por el Consejo de Salubridad General.
+VII. Vigilar y opinar que las modificaciones al Tabulador de Cuotas de Recuperación cumplan criterios de gratuidad, beneficio social y contribuyan a la generación de ingresos propios.
 
-IX. Mantener los estándares de calidad y seguridad de los pacientes basados en buenas prácticas para mejorar la calidad de la atención de los pacientes
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+VIII. Coordinar y dirigir acciones de mejora continua y seguridad del paciente con base en las herramientas establecidas en los Estándares para la Certificación de Hospitales emitidos por el Consejo de Salubridad General.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+IX. Gestionar y realizar las acciones necesarias para mantener los estándares de calidad y seguridad de los pacientes, basados en buenas prácticas para mejorar la calidad de la atención de los pacientes.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 X. Integrar y validar los informes sobre el desempeño institucional para que reflejen de manera congruente el cumplimiento de objetivos, metas, programas gubernamentales, recomendaciones de Junta de Gobierno y otras instancias fiscalizadoras.
 
-XI. Emitir los nombramientos de integrantes de comités, así como proporcionar asesoría para la integración de los mismos, con el propósito de contar con mayores elementos de apoyo para el cumplimiento de objetivos y funciones institucionales.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XI. Emitir los nombramientos de integrantes de Comités, así como proporcionar asesoría para la integración de los mismos, con el propósito de contar con mayores elementos de apoyo para el cumplimiento de objetivos y funciones institucionales.
 
-XII. Asegurar que el primer contacto, acompañamiento y asignación del nivel socioeconómico para las pacientes, cumpla con los estándares de calidad requeridos para la atención integral.
+XII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XIII. Coordinar y supervisar el análisis interdisciplinario de los casos con problemática médica y social para fortalecer una atención médica eficiente y efectiva.
-
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XIV. Evaluar los servicios otorgados y la satisfacción de pacientes y retroalimentar a las áreas asistenciales para mejorar la atención bajo estándares de calidad y seguridad.
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+XV. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
 
-XV. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-###### ARTÍCULO 45.
+XVI. Realizar y supervisar acciones de análisis y control de procesos relacionados con la Coordinación de Farmacia Hospitalaria para fomentar el abasto y uso racional de medicamentos y material de curación, así como la correcta vigilancia de la farmacoterapéutica y ejecución de la farmacia gratuita.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVII. Gestionar, supervisar y verificar la suscripción de contratos y convenios necesarios para el cumplimiento de los procesos a cargo de esta Subdirección y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de consolidar los planes estratégicos, emitidos por la Dirección de Planeación.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XV], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVIII. Las demás que la persona titular de la Dirección de Planeación le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
+
+###### ARTICULO 45.
 
 La Subdirección de Administración y Desarrollo de Personal tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 I. Coordinar y supervisar el reclutamiento y selección de personal con base en competencias, designación y contratación de personal calificado, que permitan cumplir con el desarrollo adecuado y oportuno de las actividades encomendadas para alcanzar los objetivos institucionales.
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
-I Bis Coordinar y supervisar la elaboración de descripciones de puesto del personal con las funciones y responsabilidades específicas de acuerdo al área o servicio asignado con la finalidad de evaluar el desempeño del personal.
+I Bis. Coordinar y supervisar la elaboración de descripciones de puesto del personal con las funciones y responsabilidades específicas de acuerdo al área o servicio asignado con la finalidad de evaluar el desempeño del personal.
 
-II. Supervisar la contratación del personal idóneo para ocupar la vacante de (sic) acorde al Catálogo Sectorial de Puestos, formalizando su ingreso, resguardando el expediente único de personal durante y después de su estancia laboral para el cumplimiento de los lineamientos establecidos.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+II. Supervisar la contratación del personal idóneo para ocupar la vacante de acorde (sic) al perfil de puesto y al Catálogo Sectorial, así como verificar la fuente original de los documentos presentados (Títulos, cédulas, certificaciones y capacitaciones) sean fidedignos, formalizando su ingreso, resguardando el Expediente Único de Personal durante y después de su estancia laboral para el cumplimiento de los lineamientos establecidos.
 
-II Bis Coordinar y supervisar el cumplimiento al apartado de Calificaciones y Educación del Personal de los Estándares para Certificar Hospitales emitidos por el Consejo de Salubridad General, con la finalidad de garantizar que el personal se encuentre calificado para cumplir con la misión del Instituto y las necesidades de atención de los pacientes.
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+II Bis. Coordinar y supervisar el cumplimiento al apartado de Calificaciones y Educación del Personal de los Estándares para Certificar Hospitales emitidos por el Consejo de Salubridad General, con la finalidad de garantizar que el personal se encuentre calificado para cumplir con la misión del Instituto y las necesidades de atención de los pacientes.
 
-III. Supervisar que los expedientes del personal se encuentren actualizados y contengan al menos lo siguiente: historia laboral, descripción de puesto, resultados de la evaluación de competencias al ingreso para cumplimiento de la normatividad.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+III. Supervisar e instruir las acciones para que los expedientes del personal se encuentren actualizados y contengan al menos lo siguiente: historia laboral, descripción de puesto y los resultados de la evaluación de competencias al ingreso para cumplimiento de la normatividad.
 
-III Bis Supervisar que los cursos de inducción del personal de nuevo ingreso incluyan las Metas Internacionales de Seguridad del Paciente y políticas institucionales para introducir al personal en temas de calidad y seguridad de los pacientes.
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+III Bis. Supervisar que los cursos de inducción del personal de nuevo ingreso incluyan las Metas Internacionales de Seguridad del Paciente y políticas institucionales para introducir al personal en temas de calidad y seguridad de los pacientes.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IV. Coordinar la elaboración de los nombramientos del personal de mando para la autorización de la Dirección General, con la finalidad de formalizar la contratación y realizar la difusión correspondiente.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 V. Coordinar y supervisar la aplicación del sistema de nómina del INPer, la aplicación de las obligaciones en materia fiscal, laboral y de seguridad social; efectuar el pago oportuno de las remuneraciones al personal del INPer; así como supervisar y vigilar la aplicación en tiempo y forma de los movimientos variables del personal.
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-V Bis Supervisar la aplicación y control del gasto en materia de servicios personales, así como determinarlas (sic) políticas, directrices y criterios en materia de recursos humanos, en congruencia con los lineamientos específicos para la aplicación y seguimiento de las medidas de austeridad y disciplina del gasto de la Administración Pública Federal, emitidos por la Secretaría de Hacienda y Crédito Público.
+V Bis. Supervisar el ejercicio del presupuesto de gastos de servicios de personal, identificar y analizar desviaciones y proponer a la Dirección de Administración y Finanzas las acciones correctivas procedentes.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VI. Diseñar, determinar y evaluar los cursos de capacitación administrativa basados en el diagnóstico de necesidades y observar que fortalezcan el nivel académico de la base trabajadora, tendientes a elevar los conocimientos del elemento humano, así como proponer programas de capacitación y desarrollo encaminados a la profesionalización y mejora en aptitud y actitud del personal del INPer, con el propósito de que desempeñen óptimamente sus funciones y se contribuya a incrementar la eficiencia y eficacia en la prestación de los servicios.
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
-VI Bis Organizar, coordinar y aplicar el Programa de Protección Civil para establecer y difundir una cultura en la materia.
+VI Bis. Organizar, coordinar y aplicar el Programa de Protección Civil para establecer y difundir una cultura en la materia.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VII. Coordinar el Programa de Premios, Estímulos, Recompensas Civiles y Reconocimiento de Antigüedad, al personal que se ha destacado en forma sobresaliente por la realización de las funciones que se le han encomendado, para motivarlos y estimularlos a seguir resaltando sus habilidades, actitudes y aptitudes e inculcándoles el espíritu de vocación de servicio.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-VIII. Proporcionar a los comités o comisiones mixtas que se constituyan en materia de relaciones laborales, la información y los recursos necesarios para el desempeño de sus funciones, con la finalidad de cumplir con las disposiciones aplicables.
+VIII. Proporcionar a los Comités o Comisiones Mixtas que se constituyan en materia de relaciones laborales, la información y los recursos necesarios para el desempeño de sus funciones, con la finalidad de cumplir con las disposiciones aplicables.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-IX. Coordinar la revisión, implementación y difusión de las Condiciones Generales de Trabajo y Código de Conducta y Ética, entre el personal y vigilar su cabal cumplimiento, con la finalidad de verificar la oportuna aplicación de los derechos y obligaciones de los trabajadores.
+IX. Coordinar la revisión, implementación y difusión de las Condiciones Generales de Trabajo y Código de Conducta y Ética, de la persona servidora pública y vigilar su cabal cumplimiento, con la finalidad de verificar la oportuna aplicación de los derechos y obligaciones de los trabajadores.
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
-IX Bis Coordinar y supervisar el programa de salud y seguridad del personal, con base a una evaluación de riesgos por perfil de puesto, dotación de equipo de protección personal, capacitación en actos seguros, seguimiento médico al personal que se encuentra expuesto a enfermedades de trabajo e investigación y análisis de las causas de accidentes de trabajo con la finalidad de garantizar la seguridad de los trabajadores.
+IX Bis. Coordinar y supervisar el programa de salud y seguridad del personal, con base a una evaluación de riesgos por perfil de puesto, dotación de equipo de protección personal, capacitación en actos seguros, seguimiento médico al personal que se encuentra expuesto a enfermedades de trabajo e investigación y análisis de las causas de accidentes de trabajo con la finalidad de garantizar la seguridad de los trabajadores.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-X. Aplicar las medidas disciplinarias y sanciones que correspondan, sin perjuicio de las atribuciones del Órgano Interno de Control en el INPer, lo anterior para dar cumplimiento a la normatividad jurídica en materia de relaciones laborales.
+X. Coordinar y verificar el cumplimiento de las acciones que corresponda para la aplicación de medidas disciplinarias y sanciones correspondientes, derivadas del dictamen emitido por el Departamento de Asuntos Jurídicos sin perjuicio de las atribuciones de la Oficina de Representación en el INPer, lo anterior para dar cumplimiento a la normatividad jurídica en materia de relaciones laborales.
 
-XI. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+XI. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XII. Elaborar el diagnóstico situacional y programa anual de trabajo de la Subdirección de Administración y Desarrollo de Personal y someterlo a la consideración de la Dirección de Administración y Finanzas para su autorización.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIII. Administrar los procesos de la Subdirección con calidad, calidez, eficiencia, oportunidad, transparencia, trato digno y perspectiva de género, conforme a la misión y a la visión del Instituto y en apego al marco legal y normativo vigente.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Coordinar que las plantillas y programas especiales autorizados por las áreas normativas, conserven las características de tipo de plaza, adscripción, turno, clave de horario, conceptos asociados, área de responsabilidad y vigencia.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XV. Supervisar la actualización permanente de la plantilla de personal del INPer, así como el funcionamiento de los dispositivos biométricos para el registro de asistencia del personal del INPer.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVI. Supervisar la aplicación de bajas del personal en los dispositivos biométricos mediante el Sistema de Administración de Registro de Biométrico y el enrolamiento de personal por medio de los dispositivos de acuerdo a la normatividad institucional vigente.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVII. Gestionar, supervisar y verificar la suscripción de contratos y convenios en materia de capacitación administrativa, así como de los programas que se encuentren a cargo de esta subdirección y los necesarios para el cumplimiento de los procesos, y en su caso notificar las faltas que se observen para que se establezca la sanción correspondiente, con la finalidad de fortalecer el nivel académico de la base trabajadora y la ejecución correcta de dichos programas.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVIII. Fungir como Administrador de los contratos derivados de los programas que se encuentren a cargo de esta Subdirección y los necesarios para el cumplimiento de los procesos, con el propósito de dar seguimiento y verificar que las obligaciones del proveedor establecidas en el contrato se cumplan, así como determinar la aplicación y cálculo de penas convencionales y deductivas y en su caso, solicitar al área competente, la rescisión del contrato, aportando los elementos conducentes.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIX. Realizar auto evaluaciones periódicas de los procesos operativos y resultados de la Subdirección de Administración y Desarrollo de Personal, por medio de la aplicación de indicadores de evaluación del desempeño para contar con un referente del cumplimiento de las metas establecidas.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XX. Supervisar que se realice el seguimiento y atención a las aclaraciones y/o resoluciones de observaciones detectadas por los órganos fiscalizadores internos y externos y que involucren a la Subdirección de Administración y Desarrollo de Personal.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXI. Asistir y colaborar en los Comités, Comisiones y Subcomités en el ámbito de su competencia.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XI], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXII. Las demás que la persona Titular de la Dirección de Administración y Finanzas le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 46.
 
 La Subdirección de Recursos Financieros tendrá las siguientes funciones:
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 I. Difundir y supervisar que la normatividad asignada a los aspectos de Tesorería, Programación, Presupuestación y Contabilidad, se aplique en el desarrollo de las actividades de cada área y proponer a la Dirección de Administración y Finanzas, acciones que simplifiquen y modernicen las actividades, acciones y tareas asignadas a las áreas que conforman a la Subdirección de Recursos Financieros, con la finalidad de eficientar su operación.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 II. Elaborar, integrar y coordinar el presupuesto del programa anual de trabajo del INPer y el programa anual de inversión, con base en la validación que otorgue la Dirección de Planeación para su entrega oportuna a la Coordinadora de Sector.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-III. Adecuar la estructura programática que le precise la Dirección de Planeación de acuerdo a las necesidades de las áreas del INPer.
+III. Adecuar la estructura programática con base al resultado de los programas establecidos, someterla a validación de la Dirección de Administración y Finanzas, con la finalidad de delimitar la aplicación del gasto y conocer el rendimiento esperado del uso de los recursos.
 
-IV. Emitir información permanentemente a las autoridades competentes del INPer y en su caso a las externas, sobre los avances y modificaciones que ocurren en el ejercicio del presupuesto anual, para solicitar la adecuación presupuestal pertinente para entregar una Cuenta Pública regularizada.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+IV. Integrar, analizar y controlar el ejercicio del presupuesto del Instituto, y presentarlo a consideración de la Dirección de Administración y Finanzas.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 V. Aplicar y supervisar el adecuado trámite de los recursos financieros del INPer manteniendo un estricto control de sus ingresos y gastos, con la finalidad de eficientar la operación de las áreas que integran el INPer.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 VI. Supervisar y verificar que se realicen en tiempo y forma los cobros en el módulo de cajas del INPer, por concepto de servicios médicos proporcionados y conforme al tabulador de cuotas de recuperación autorizado para la captación de los ingresos propios.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VII. Supervisar, vigilar y registrar los movimientos diarios que representen ingresos por las diferentes fuentes de financiamiento que aplican al INPer, así como los egresos por compromisos adquiridos, previa revisión y autorización de los mismos para una adecuada toma de decisiones.
 
-VIII. Supervisar envío (sic) oportuno de los formatos del Sistema Integral de Información, a fin de cumplir con la normatividad.
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
+VIII. Supervisar envío oportuno de los formatos del Sistema Integral de Información, a fin de cumplir con la normatividad.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IX. Supervisar y vigilar la elaboración de información programática-financiera realizada en el INPer, para verificar que cumpla con los lineamientos que establecen las Dependencias Globalizadoras.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 X. Proporcionar a las autoridades internas y externas los informes contables, presupuestales y financieros en forma oportuna y veraz, para brindarles los elementos necesarios en el ejercicio de sus funciones y obtener los dictámenes y opinión de acuerdo a la normatividad establecida.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XI. Coordinar que la aplicación de recursos de terceros se realice de acuerdo a la normatividad aplicable, con la finalidad de proporcionar información veraz.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XII. Aplicar las sanciones correspondientes que le notifique el área responsable de la contratación de los servicios en el INPer y que le valide la Dirección de Planeación para el descuento y pago que corresponda.
+XII. Aplicar las sanciones correspondientes que le notifique el área responsable de la contratación o los administradores de los contratos.
 
-XIII. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+XIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Elaborar el diagnóstico situacional y programa anual de trabajo de la Subdirección de Recursos Financieros y someterlo a consideración de la Dirección de Administración y Finanzas del Instituto para su autorización.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XV. Desarrollar los procesos de la Subdirección de Recursos Financieros con calidad, calidez, eficiencia, oportunidad, transparencia, trato digno y perspectiva de género, conforme a la misión y a la visión del Instituto y en apego al marco legal y normativo vigente.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVI. Revisar y validar que el presupuesto autorizado por el normativo sea correcto y en su caso solicitar modificaciones al mismo.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVII. Coordinar a los servicios ejecutores del gasto, para que los reordenamientos o modificaciones se realicen conforme a los lineamientos establecidos en caso de modificaciones al presupuesto.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVIII. Supervisar las conciliaciones contable-presupuestarias para un adecuado ejercicio de los recursos financieros.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIX. Supervisar la debida formalización de los servicios bancarios del Instituto a través de la celebración de contratos, mismos que deberán apegarse a los términos plazos y condiciones correspondientes.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XX. Supervisar que el manejo de saldos, cheques en poder de caja y números de cuentas bancarias autorizadas, se encuentren en estricto apego a la normatividad vigente.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXI. Verificar la realización de arqueos a los fondos fijos autorizados e informar a la Dirección de Administración y Finanzas los resultados obtenidos.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXII. Realizar el análisis y la conciliación del gasto y de las cuentas bancarias.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXIII. Supervisar la elaboración de los oficios de suficiencia presupuestal que soporten las adquisiciones del Instituto, previa revisión y control del recurso presupuestal asignado al Instituto.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXIV. Revisar y validar los documentos que se presenten para el pago de los bienes y servicios recibidos por el Instituto, atendiendo al clausulado de los contratos.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXV. Supervisar y evaluar que el manejo y conciliación de las cuentas, la expedición y entrega de cheques a los proveedores, se realice en estricto apego a la legislación y normatividad vigente en la materia.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXVI. Elaborar y presentar el Informe de resultados veraz y oportuno del ejercicio de los recursos en sesiones de trabajo a las Direcciones del Instituto para facilitar la toma de decisiones.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXVII. Planear el levantamiento del inventario anual de bienes de consumo, y los inventarios rotativos y selectivos en coordinación con la Subdirección de Recursos Materiales y Conservación.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXVIII. Realizar auto evaluaciones periódicas de los procesos operativos y resultados de la Subdirección de Recursos Financieros, por medio de la aplicación de indicadores de evaluación del desempeño.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXIX. Supervisar que se realice el seguimiento y atención a las aclaraciones y/o resoluciones de observaciones detectadas por los órganos fiscalizadores internos y externos y que involucren a la Subdirección de Recursos Financieros.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXX. Asistir y colaborar en los Comités y Subcomités del INPer en el ámbito de su competencia.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XIII], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXXI. Las demás que la persona Titular de la Dirección de Administración y Finanzas le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 47.
 
 La Subdirección de Recursos Materiales y Conservación tendrá las siguientes funciones:
 
-I. Supervisar que la administración de recursos materiales del INPer, se proporcione en estricto apego a los lineamientos emitidos por las Secretarías de Hacienda y Crédito Público y de la Función Pública, con el objeto de verificar que sean aplicados por todas las áreas del INPer, de acuerdo a su programa anual de necesidades.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+I. Supervisar que la administración de recursos materiales del INPer se proporcione en estricto apego a los lineamientos emitidos por la Secretaría de Hacienda y Crédito Público, Subsecretaría de Egresos y la Secretaria Anticorrupción y Buen Gobierno, con el objeto de verificar que sean aplicados por todas las áreas del INPer, de acuerdo a su programa anual de necesidades.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 II. Establecer sistemas y procedimientos que permitan aplicar normas y políticas en la adquisición de bienes, operación de los almacenes, control de activo fijo y baja de bienes, con el objeto de dar cumplimiento a la normatividad.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 III. Elaborar, supervisar y mantener actualizado el catálogo de proveedores del INPer, a fin de contar con un padrón vigente que contenga información general y detallada de todos y cada uno de los prestadores de servicios.
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-IV. Elaborar y coordinar con la Dirección de Planeación el programa anual de adquisiciones de insumos y de inversión en cada ejercicio presupuestal, con el fin de programar todas las actividades relativas a las compras del INPer.
+IV. Coordinar la elaboración del Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto y presentarlo para su aprobación al Comité de Adquisiciones, Arrendamientos y Servicios del Instituto y sus respectivas modificaciones en apego al presupuesto de operación autorizado.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 V. Difundir y supervisar la normatividad vigente que establece la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, su Reglamento y las Políticas, Bases y Lineamientos Internos y demás disposiciones aplicables en la materia entre el personal involucrado y su área de influencia, con el fin de que conozcan y apliquen en tiempo y forma los instrumentos que les permitan afrontar correctamente todos los procesos de compra.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 VI. Elaborar, controlar y supervisar los programas de baja y destino final de los bienes propiedad del INPer, procediendo a su desincorporación inmediata con estricto apego a las disposiciones legales correspondientes, emitidas para tal efecto.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VII. Elaborar, establecer y supervisar con el área de conservación y mantenimiento, los programas de trabajo relativos a mantenimiento preventivo y correctivo de inmuebles; instalaciones y equipos; que establezcan la programación de atención y cobertura de servicio proporcionado a todas y cada una de las áreas solicitantes, estableciendo prioridades, con la finalidad de atender todas las solicitudes y que se desarrollen en tiempo y forma las actividades encomendadas en el INPer.
 
-VIII. Supervisar y vigilar que los servicios de impresión y fotocopiado; correspondencia y archivo; control y lavado de ropa y transporte de personal, se realicen de acuerdo a las necesidades de las diferentes áreas, tomando en cuenta las medidas de fomento al ahorro, emitidas por la Secretaría de la Función Pública, así como la normatividad emitida por dicha dependencia.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+VIII. Supervisar y vigilar que los servicios de impresión y fotocopiado, correspondencia y archivo, control, lavado de ropa y transporte de personal se realicen de acuerdo a las necesidades de las diferentes áreas, tomando en cuenta las medidas de fomento al ahorro, emitidas por la Secretaría Anticorrupción y Buen Gobierno, así como la normatividad emitida por dicha dependencia.
 
-IX. Controlar, supervisar y evaluar los servicios subrogados de limpieza, vigilancia, comedor, vehículos y residuos peligrosos biológico infecciosos, así como los que se generen con base en las necesidades del INPer, que la Dirección de Planeación le exponga, apegándose a lo establecido en los contratos realizados por el área de contratos adscrita, con la información emitida por el área requirente, con el propósito de verificar que las empresas que proporcionan estos servicios, cumplan en tiempo y forma con la calidad establecida en ellos.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2015)</small>
+IX. Establecer los mecanismos necesarios a fin de que se lleve un estricto control del gasto de los contratos que amparan los bienes y servicios que recibe el Instituto, a fin de realizar las estimaciones correspondientes de suficiencia de recursos presupuestales, verificando que exista una relación con los programas médicos, según el caso.
 
-X. Elaborar y coordinar con la Dirección de Planeación las Licitaciones Públicas de Servicios Generales e Integrales; Obra Pública y Servicios Relacionados con las mismas; la Obra Pública y el mantenimiento de bienes Inmuebles, con base en la programación previamente establecida, o bien, cuando los servicios lo requieran, con la finalidad de otorgar la atención oportuna a las áreas y realicen sin contratiempo las funciones encomendadas.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XI. Verificar el cumplimiento de los contratos suscritos para la atención de los servicios del INPer y, en su caso, notificar las faltas que se observen para que se establezca la sanción correspondiente, y
+X. Supervisar que se lleven a cabo los procesos de adquisición de bienes y servicios de conformidad con lo establecido por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, su Reglamento, así como a la Ley de Obras Públicas y Servicios Relacionados con las Mismas y demás normatividad aplicable.
 
-XII. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XI. Gestionar, supervisar y verificar el cumplimiento de los contratos suscritos para la atención de los servicios generales y mantenimiento del INPer y en su caso, notificar el incumplimiento de las cláusulas que se establezcan en los contratos que se observen para que se establezca la sanción correspondiente.
+
+XII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIII. Elaborar el diagnóstico situacional y programa anual de trabajo de la Subdirección de Recursos Materiales y Conservación y someterlo a la consideración de la Dirección de Administración y Finanzas del Instituto para su autorización.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIV. Desarrollar los procesos de la Subdirección de Recursos Materiales y Conservación con calidad, calidez, eficiencia, oportunidad, transparencia, trato digno y perspectiva de género, conforme a la misión y a la visión del Instituto y en estricto apego al marco legal y normativo vigente.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XV. Validar las sanciones que se deriven del incumplimiento de los contratos y que le notifique la persona servidora pública responsable de la administración de éstos, con la finalidad de que se aplique en el pago correspondiente.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVI. Intervenir en la revisión de dotaciones fijas de acuerdo al formato de reaprovisionamiento (vales de salida) establecido por la Dirección de Administración y Finanzas.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVII. Planear el levantamiento del inventario anual de bienes de consumo, y los inventarios rotativos y selectivos en coordinación con la Subdirección (sic) Recursos Financieros.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XVIII. Supervisar el levantamiento y los resultados del inventario de bienes muebles e inmuebles.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIX. Supervisar la realización y actualización de los resguardos e inventarios de bienes muebles de los jefes de servicio.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XX. Aplicar los indicadores autorizados para la evaluación de la productividad, eficiencia y calidad de los procesos a su cargo y presentar los resultados a su jefe inmediato.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXI. Atender en tiempo y forma las observaciones detectadas por los órganos fiscalizadores internos y externos.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXII. Asistir, colaborar y en su caso presidir los Comités del Instituto en el ámbito de su competencia.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XII], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXIII. Las demás que la persona Titular de la Dirección de Administración y Finanzas le instruya o autorice para el cumplimiento de las anteriores.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2025)
 
 ###### ARTÍCULO 48.
 
 El Departamento de Asuntos Jurídicos tendrá las siguientes funciones:
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 I. Comparecer y representar al INPer ante las autoridades de carácter administrativo o judicial, en los juicios o procedimientos en que sea actor, reclamado o demandado, tenga interés jurídico o se le designe como parte, para lo cual ejercitará toda clase de acciones, defensas y excepciones que correspondan a la dependencia; vigilar la continuidad de los juicios, procedimientos y diligencias respectivas, así como formular y suscribir las demandas, contestaciones y, en general, todas las promociones que se requieran para la prosecución de los juicios, recursos o cualquier procedimiento interpuesto ante dichas autoridades, y vigilar el debido cumplimiento de las resoluciones correspondientes; asimismo, mediante oficio, conferir dichas representaciones a servidores públicos del INPer y, en su caso, sustituir o revocar dichas facultades.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 II. Representar legalmente al INPer en juicios o en otros procedimientos judiciales o extrajudiciales, por actos derivados del servicio.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 III. Representar al INPer ante autoridades laborales locales y federales que se susciten con motivo de los conflictos laborales propios del INPer; formular dictámenes, contestación de demandas laborales, ofrecimiento y desahogo de pruebas, articular y absolver posiciones, desistimientos o allanamientos, recursos, incidentes, incluso el juicio de amparo y, en general, todas aquellas promociones que a dichos conflictos se refieran.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 IV. Representar al INPer ante el Tribunal Federal de Justicia Fiscal y Administrativa e interponer los recursos procedentes, inclusive el amparo y/o la revisión en términos de las disposiciones legales aplicables.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 V. Para comprometer en árbitros.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VI. Para transigir.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 VII. Para absolver y articular posiciones.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 VIII. Para recusar.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 IX. Para hacer cesión de bienes.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 X. Para recibir pagos.
 
-XI. Para presentar denuncias y querellas en materia penal y para otorgar el perdón cuando lo permita la ley.
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
-XII. Representar al INPer en todos los trámites dentro de los juicios de amparo en que sean señaladas como autoridad responsable, en términos del artículo 19 de la Ley de Amparo.
+XI. Para presentar denuncias y querellas en materia penal y para otorgar el perdón cuando lo permita la Ley.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XII. Representar al INPer en todos los trámites dentro de los juicios de amparo en que sean señaladas como autoridad responsable, en términos del Artículo 19 de la Ley de Amparo.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
 
 XIII. Formular los desistimientos, así como otorgar discrecionalmente los perdones legales que procedan y absolver posiciones. Para interponer y desistirse de toda clase de procedimientos, inclusive amparo.
 
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
 XIV. Resolver los recursos y procedimientos administrativos que no sean de la competencia de otra unidad administrativa.
 
-XV. Suscribir los contratos y convenios inherentes al ejercicio de sus funciones y del funcionamiento del INPer y determinar su rescisión y terminación.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XVI. Rescindir, dar por terminado anticipadamente o realizar los finiquitos cuando proceda, de los contratos que hayan celebrado, así como iniciar, dar trámite y emitir la resolución correspondiente a los mismos.
+XV. Fungir como asesor jurídico de las diversas áreas del INPer para la celebración de los contratos y convenios inherentes al ejercicio de sus funciones, así como coadyuvar con la elaboración de acuerdo, oficios, resoluciones en materia de recisión o terminación de contratos.
 
-XVII. Celebrar todos y cada uno de los actos jurídicos que permitan el ejercicio de las atribuciones señaladas en este articulado, y
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2025)</small>
 
-XVIII. Las demás que le señalen otras disposiciones legales.
+XVI. En materia de rescisión de contratos que celebren las diversas áreas del INPer, el Departamento de Asuntos Jurídicos puede proponer una recomendación u opinión fundada y motivada al área requirente y administrativa para sugerir opciones de solución y que el procedimiento se realice con apego a la normatividad correspondiente.
+
+(REPUBLICADA, D.O.F. 24 DE JULIO DE 2025)
+
+XVII. Celebrar todos y cada uno de los actos jurídicos que permitan el ejercicio de las atribuciones señaladas en este articulado.
+
+XVIII. (DEROGADA, D.O.F. 24 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XIX. Emitir opinión en la revisión o modificación del Estatuto Orgánico y Manual de Organización Específico del INPer y demás disposiciones normativas internas.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XX. Supervisar el análisis y opinión técnico-jurídicas respecto a la emisión, modificación o, en su caso, derogación de normas de carácter interno que requieran las diversas áreas del INPer.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXI. Realizar las funciones de la Unidad de Transparencia del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes en términos de las legislaciones en la materia vigente.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVIII], D.O.F. 24 DE JULIO DE 2025)</small>
+
+XXII. Las demás que le señalen otras disposiciones legales.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
+### Capítulo II. De la Oficina de Representación
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 49.
 
-El órgano de vigilancia, se integra por un Comisario Público Propietario y un suplente, designados por la Secretaría de la Función Pública.
+La persona Titular de la Secretaría Anticorrupción y Buen Gobierno nombrará a la persona Titular de la Oficina de Representación en el Instituto.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 50.
 
-El Comisario Público tendrá las atribuciones que le otorgan la Ley Federal de las Entidades Paraestatales, el Reglamento de la Ley Federal de las Entidades Paraestatales, el Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables. El Comisario asistirá a la Junta de Gobierno, con voz, pero sin voto.
+La persona titular de la Oficina de Representación ejercerá las atribuciones que le confiere el Reglamento interior de la Secretaría Anticorrupción y Buen Gobierno y los demás ordenamientos legales y administrativos aplicables y participará en los comités, subcomités y demás órganos colegiados de su competencia, en los términos establecidos en las disposiciones de la materia.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 51.
 
-El INPer cuenta con un Órgano Interno de Control, al frente del cual el titular designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Auditoría Interna y de Quejas y Responsabilidades designados en los mismos términos.
+La Oficina de Representación será competente respecto del o los órganos desconcentrados y entidades paraestatales que en dicho acuerdo se definan, y ejercerá las atribuciones que le confieren el Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno y los demás ordenamientos legales y administrativos aplicables.
 
-Los servidores públicos a que se refiere el párrafo anterior en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables.
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 52.
 
-El Órgano Interno de Control forma parte de la estructura del INPer y tiene por objeto apoyar la función directiva, así como promover el mejoramiento de la gestión del mismo.
+La Oficina de Representación, contará con el personal necesario que permita su operación, y tendrá el carácter de unidad administrativa adscrita al INPer.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 52 Bis.
+
+El INPer deberá proporcionar los recursos humanos, tecnológicos, materiales y presupuestales que requiera la Oficina de Representación. El Instituto observará en todo momento lo establecido en la Ley Orgánica de la Administración Pública Federal.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 52 Ter.
+
+Las personas servidoras públicas adscritas a la entidad, dentro del ámbito de su competencia, están obligadas a atender los requerimientos de información y resoluciones de las personas servidoras públicas que integran y auxilian a los Órganos Internos de Control, en su caso, la Oficina de Representación, de conformidad con la normativa aplicable.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 53.
 
-Las ausencias del Director General del INPer serán suplidas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+Durante las ausencias temporales de la persona Titular de la Dirección General del INPer, el despacho y resolución de los asuntos inherentes a esta Dirección quedará a cargo de la persona servidora pública con la jerarquía inmediata inferior, que para tal efecto designe la persona Titular de la Dirección General del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 53 Bis.
+
+En caso de ausencia definitiva o temporal no programada, de la persona Titular de la Dirección General del INPer, el despacho y resolución de los asuntos inherentes a esta Dirección, quedará a cargo de la persona Titular de una de las Direcciones de Área de este Instituto, en el siguiente orden de prelación, hasta en tanto la Junta de Gobierno designe una nueva persona Titular de la Dirección General del INPer.
+
+a. La Persona Titular de la Dirección Médica.
+
+b. La Persona Titular de la Dirección de Planeación.
+
+c. La Persona Titular de la Dirección de Administración y Finanzas.
+
+d. La Persona Titular de la Dirección de Investigación.
+
+e. La Persona Titular de la Dirección de Educación en Ciencias de la Salud.
+
+Independientemente de la prelación que establezca el presente Artículo, la Junta de Gobierno podrá realizar una Sesión Extraordinaria, para ratificar a la persona encargada del Despacho de la Dirección General; o bien, para designar a su consideración y por mayoría de votos, a otro encargado del despacho y resolución de los asuntos, dentro de los demás titulares de las Direcciones mencionadas.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 54.
 
-Las ausencias de los titulares de las unidades administrativas Direcciones y Subdirecciones de áreas, serán cubiertas por los servidores públicos de la jerarquía inmediata inferior, a propuesta, por escrito del titular del área, o por quien designe el Director General, según la naturaleza de los asuntos.
+Las ausencias de las personas titulares de las Direcciones y Subdirecciones de Áreas Sustantivas y Administrativas, así como de las personas Titulares de las Jefaturas de Departamento, serán cubiertas por las personas servidoras públicas de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 55.
 
-Las ausencias del titular del Órgano Interno de Control, así como las de los titulares de las áreas de Auditoría Interna y de Quejas y Responsabilidades serán suplidas conforme a lo previsto por el artículo 88, segundo y tercero párrafos, del Reglamento Interior de la Secretaría de la Función Pública o su equivalente.
-
-###### ARTÍCULO 56.
-
-Se deberán inscribir en el Registro Público de Organismos Descentralizados:
-
-a) Las modificaciones o reformas al INPer dentro de los 30 días siguientes a éstas.
-
-b) El Estatuto Orgánico y sus reformas o modificaciones.
-
-c) Los nombramientos de los integrantes del Órgano de Gobierno, así como sus remociones.
-
-d) Los nombramientos y sustituciones del Director General y, en su caso, de los funcionarios que lleven la firma de la entidad.
-
-e) Los poderes generales y sus revocaciones.
-
-f) El acuerdo de la Secretaría de Hacienda y Crédito Público o de la dependencia coordinadora del sector, en su caso, que señale las bases de la fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas, y
-
-g) Los demás documentos o actos que determine el Reglamento de la Ley Federal de las Entidades Paraestatales.
-
-###### ARTÍCULO 57.
-
-Será facultad exclusiva de la Junta de Gobierno aprobar las modificaciones al presente Estatuto.
-
-###### ARTÍCULO 58.
-
-Podrán presentar propuestas de modificaciones al Estatuto para su aprobación por la Junta de Gobierno el Presidente de ésta, el Director General del INPer y cuando menos dos miembros de la Junta de Gobierno en propuesta conjunta por escrito.
+La ausencia de la persona titular de la Oficina de Representación será suplida conforme a la normatividad vigente.
 
 ## TRANSITORIOS
 
@@ -1318,3 +2282,47 @@ Las modificaciones al Estatuto Orgánico del INPer entrarán en vigor al día si
 ###### ARTÍCULO SEGUNDO.
 
 El documento completo se puede consultar en la siguiente dirección electrónica: www.inper.mx/normateca/
+
+D.O.F. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PERINATOLOGÍA ISIDRO ESPINOSA DE LOS REYES”.]
+
+###### ARTÍCULO PRIMERO.
+
+(DEROGADO, D.O.F. 24 DE JULIO DE 2025)
+
+###### ARTÍCULO SEGUNDO.
+
+La presente modificación al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, abrogando el Estatuto Orgánico del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes aprobado por la Junta de Gobierno el 9 de septiembre de 2014 e inscrito en el Registro Público de Organismos Descentralizados el 4 de noviembre del mismo año.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular de la Dirección General del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes, deberá inscribir este Estatuto en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en su oportunidad en el Diario Oficial de la Federación, las reformas al Estatuto Orgánico del Instituto Nacional de Perinatología, aprobadas en la Primera Sesión Ordinaria de 2025, el día 29 de abril de 2025, por la Junta de Gobierno del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE LA INFORMACIÓN DE LAS LIGAS ELECTONICAS QUE SE RELACIONAN CON LA REFORMA AL PRESENTE ORDENAMIENTO".]</small>
+
+AVISO MEDIANTE EL CUAL SE DA A CONOCER LA LIGA ELECTRÓNICA QUE REDIRIGE AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PERINATOLOGÍA ISIDRO ESPINOSA DE LOS REYES.
+
+Dra. Ana Cristina Arteaga Gómez, Directora General del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes, con fundamento en lo dispuesto en los Artículos 15 y 58 Fracción VIII, de la Ley Federal de las Entidades Paraestatales; Artículo 13 del Estatuto Orgánico del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes; da a conocer la liga electrónica que redirige al Estatuto Orgánico del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes, aprobado en la Primera Sesión Ordinaria de 2025, el día 29 de abril de 2025, por la Junta de Gobierno, mediante acuerdo O-01/2025-8.
+
+ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PERINATOLOGÍA ISIDRO ESPINOSA DE LOS REYES.
+
+Se da a conocer a las autoridades, personas servidoras públicas y público en general, para todos los efectos legales y administrativos a que haya lugar, la liga electrónica que redirige al Estatuto Orgánico del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes, el cual tiene por objeto actualizar las disposiciones conforme a la normatividad vigente, las bases de organización, así como las facultades y funciones que corresponden a las distintas áreas que integran a este organismo, mismo que podrá consultarse en las ligas electrónicas referidas en el presente aviso.
+
+Denominación: Estatuto Orgánico del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes
+
+Emisor: Instituto Nacional de Perinatología Isidro Espinosa de los Reyes
+
+Fecha de emisión: 29 de abril de 2025.
+
+Medio de Consulta: El documento se encuentra publicado para su difusión y consulta en el sitio de internet en la siguiente la liga electrónica:
+
+https://inper.mx/ESTATUTO-ORGANICO_INPer_2025.pdf
+
+https://www.dof.gob.mx/2025/SALUD/ESTATUTO-ORGANICO_INPer_2025.pdf
+
+Ciudad de México, a 2 de julio de 2025.- La Directora General del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes, Ana Cristina Arteaga Gómez.- Rúbrica.
