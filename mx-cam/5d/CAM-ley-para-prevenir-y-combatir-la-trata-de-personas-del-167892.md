@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-y-combatir-la-trata-de-personas-del-167892"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-09"
-last_updated: "2023-08-09"
+last_updated: "2025-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE AGOSTO DE 2025 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 9 de agosto de 2023.
 
@@ -271,7 +273,7 @@ XII. La persona titular de la Dirección General del Instituto de Acceso a la Ju
 
 XIII. La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Campeche.
 
-Además, participará como integrante de la Comisión Interinstitucional la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche, quien actuará con pleno respeto a la autonomía que le confiere a la institución el artículo 101 quinquies de la Constitución Política del Estado de Campeche y el artículo 2 de la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE JULIO DE 2025)</small>
 
 ###### Artículo 23.
 
@@ -387,13 +389,13 @@ XII. Mantener bajo su resguardo las actas de las sesiones de la Comisión Interi
 
 XIII. Realizar los trámites correspondientes para que se publiquen en el Periódico Oficial del Estado los reglamentos, manuales, protocolos y demás instrumentos jurídicos que apruebe la Comisión Interinstitucional;
 
-XIV. Recopilar trimestralmente con el auxilio del Poder Judicial del Estado, la Fiscalía General del Estado y la Fiscalía Especializada en Combate a la Corrupción del Estado, así como de las demás instituciones y organismos públicos y privados pertinentes, los datos estadísticos relativos a la incidencia delictiva en materia de trata de personas, e informarlo al Pleno de la Comisión Interinstitucional con la finalidad de utilizarse en la toma de decisiones y para elaborar los contenidos de los programas en la materia. Dicha información deberá contener:
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2025)</small>
+
+XIV. Recopilar trimestralmente con el auxilio del Poder Judicial del Estado, la Fiscalía General del Estado, así como de las demás instituciones y organismos públicos y privados pertinentes, los datos estadísticos relativos a la incidencia delictiva en materia de trata de personas, e informarlo al Pleno de la Comisión Interinstitucional con la finalidad de utilizarse en la toma de decisiones y para elaborar los contenidos de los programas en la materia. Dicha información deberá contener:
 
 a. El número de detenciones, procesos judiciales, número de sentencias condenatorias relacionados con los delitos en materia de trata de personas en sus diferentes modalidades; y
 
-b. El número de víctimas de trata de personas, su género, estado civil, edad, nacionalidad, etnicidad, ocupación, escolaridad, nivel socioeconómico, lugar y modalidad de victimización y captación y, si fuere el caso, situación migratoria y si tuvieren alguna discapacidad, deberá señalarse cuál, así como los demás indicadores que se estimen pertinentes para identificar las situaciones de vulnerabilidad, señaladas en la fracción XVII del artículo 4 de la Ley General.
-
-La información recabada deberá tratarse con el carácter de confidencial, por lo que deberán tomarse las medidas necesarias para su protección. En ningún caso se identificará personalmente a las víctimas, ya sean directas o indirectas, esto con la finalidad de salvaguardar su dignidad y derecho a la no revictimización.
+b. El número de víctimas de trata de personas, su género, estado civil, edad, nacionalidad, etnicidad, ocupación, escolaridad, nivel socioeconómico, lugar y modalidad de victimización y captación y, si fuere el caso, situación migratoria y si tuvieren alguna discapacidad, deberá señalarse cuál, así como los demás indicadores que se estimen pertinentes para identificar las situaciones de vulnerabilidad, señaladas en la fracción XVII del artículo 4 de la Ley General. La información recabada deberá tratarse con el carácter de confidencial, por lo que deberán tomarse las medidas necesarias para su protección. En ningún caso se identificará personalmente a las víctimas, ya sean directas o indirectas, esto con la finalidad de salvaguardar su dignidad y derecho a la no revictimización.
 
 XV. Remitir a las autoridades federales competentes en la materia, la información estadística que requieran, de conformidad con los artículos 113 fracción XVII y 114, fracción VIII de la Ley General; y
 
@@ -557,15 +559,7 @@ VI. Las demás atribuciones que le confieren esta Ley y otros ordenamientos lega
 
 ###### Artículo 38.
 
-Atendiendo a la competencia específica que le confiere el artículo 2 de su Ley Orgánica, a la Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche, le corresponderá:
-
-I. Incentivar a la población en general a denunciar las conductas señaladas como delitos en materia de trata de personas, a través de la implementación de un programa de denuncia anónima y recompensas por la aportación de información que resulte útil para la identificación y captura de quienes cometan estos delitos. La información deberá verificarse por el Ministerio Público, previo a la entrega de la recompensa; en ese sentido, se establecerán los lineamientos para la operación de este programa;
-
-II. Actualizar periódicamente los datos relativos a la incidencia delictiva con la finalidad de dar seguimiento a los procesos penales de las personas detenidas, procesadas y condenadas por la comisión de delitos de trata de personas cometidos por servidores públicos;
-
-III. Establecer una Fiscalía Especializada para Perseguir los Delitos en Materia de Trata de Personas Cometidos por Servidores Públicos, la cual ejercerá las facultades de investigación y demás relativas a la función del Ministerio Público Estatal en la materia, y además promoverá las medidas de protección procesal a favor de las víctimas de estos delitos, de conformidad con las disposiciones de la Ley General y, en su caso, del Código Nacional de Procedimientos Penales; y
-
-IV. Ejercitar la acción de extinción de dominio en los casos de delitos en materia de trata de personas de competencia estatal relacionados con delitos cometidos por servidores públicos, de conformidad con la Ley Nacional de Extinción de Dominio.
+(DEROGADO, P.O. 25 DE JULIO DE 2025)
 
 ###### Artículo 39.
 
@@ -593,9 +587,11 @@ El Estado y los Municipios, en el ámbito de las competencias dispuestas por la 
 
 El Programa Estatal tiene por objeto establecer las estrategias y acciones que, en forma planeada y coordinada, deberán realizar las dependencias y entidades de la Administración Pública estatal y municipal, los poderes Legislativo y Judicial, organismos autónomos y activistas y sociedad civil organizada, para la prevención y combate de los delitos en materia de trata de personas en la entidad.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2025)</small>
+
 ###### Artículo 44.
 
-La elaboración del anteproyecto del Programa Estatal estará a cargo de la Fiscalía General del Estado y de la Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche, quienes lo presentarán conjuntamente a la Comisión Interinstitucional, por conducto de la Secretaría Técnica, para su revisión, discusión y, en su caso, aprobación en la sesión correspondiente.
+La elaboración del anteproyecto del Programa Estatal estará a cargo de la Fiscalía General del Estado, quien lo entregará a la Comisión Interinstitucional, por conducto de la Secretaría Técnica, para su revisión, discusión y, en su caso, aprobación en la sesión correspondiente.
 
 ###### Artículo 45.
 
@@ -613,7 +609,9 @@ PRIMERO. El presente decreto entrará en vigor el 1° de enero de 2024, previa s
 
 SEGUNDO. Se autoriza a la persona Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, a tomar las previsiones presupuestales correspondientes para el ejercicio fiscal de 2024, para el debido cumplimiento de este Decreto.
 
-TERCERO. Noventa días posteriores a la entrada en vigor del presente decreto, la Fiscalía General del Estado de Campeche y la Fiscalía Especializada en Combate a la Corrupción, deberán realizar las acciones necesarias para la creación dentro de sus respectivas estructuras orgánicas de las Fiscalías Especializadas a que se refiere la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atentos a lo dispuesto en el artículo transitorio anterior.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2025)</small>
+
+TERCERO.- Noventa días posteriores a la entrada en vigor del presente decreto, la Fiscalía General del Estado de Campeche deberá realizar las acciones necesarias para la creación dentro de sus (sic) respectiva estructura orgánica de la Fiscalía Especializada a que se refiere la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atento a lo dispuesto en el artículo transitorio anterior.
 
 CUARTO. La Comisión Interinstitucional para Prevenir y Combatir la Trata de Personas en el Estado de Campeche se instalará en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
 
@@ -632,3 +630,13 @@ Que la LXIV Legislatura del H. Congreso del Estado Libre y Soberano de Campeche 
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los treinta y un días del mes de julio del año dos mil veintitrés.
 
 LA GOBERNADORA DEL ESTADO DE CAMPECHE, LICDA. LAYDA ELENA SANSORES SAN ROMÁN. RÚBRICA.- EL SECRETARIO DE GOBIERNO, PROF. ANIBAL OSTOA ORTEGA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 100 POR EL QUE “SE DEROGAN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 22 Y EL ARTÍCULO 38 Y, SE REFORMAN LA FRACCIÓN XIV DEL ARTÍCULO 32, EL ARTÍCULO 44 Y EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS DEL ESTADO DE CAMPECHE.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
