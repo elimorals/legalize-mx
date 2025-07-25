@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-consejo-nacional-de-archivos-145559"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-12-09"
-last_updated: "2022-03-30"
+last_updated: "2025-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145559&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-10-27"
 ---
 # REGLAMENTO DEL CONSEJO NACIONAL DE ARCHIVOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CONSEJO NACIONAL DE ARCHIVOS, PUBLICADO EN EL D.O.F. DE 25 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL CONSEJO NACIONAL DE ARCHIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JULIO DE 2025 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 9 de diciembre de 2020.
 
@@ -780,3 +782,41 @@ Dado en la Ciudad de México, al veintiséis del mes de noviembre de dos mil vei
 PRIMERO. Publíquese el presente Acuerdo que reforma y deroga diversas disposiciones del Reglamento del Consejo Nacional de Archivos.
 
 SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JULIO DE 2025.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL “AVISO QUE DA A CONOCER LA NORMATIVA APROBADA POR EL CONSEJO NACIONAL DE ARCHIVOS DURANTE SU PRIMERA SESIÓN ORDINARIA DE 2025”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Que el Consejo Nacional de Archivos durante su Primera Sesión Ordinaria de 2025, celebrada el 30 de mayo de 2025, aprobó los siguientes instrumentos:
+
+I. El Reglamento del Consejo Nacional de Archivos cuyo contenido puede consultarse en los siguientes enlaces:
+
+https://www.gob.mx/cms/uploads/attachment/file/1003213/Reglamento_del_Consejo_Nacional_de_Archivos.pdf
+
+www.dof.gob.mx/2025/AGN/Reglamento_CONARCH.pdf
+
+II. El Acuerdo que reforma y deroga diversas disposiciones de los Lineamientos Generales para el Registro y Validación de los Instrumentos de Control Archivístico (Cuadro General de Clasificación Archivística y Catálogo de Disposición Documental) de los Sujetos Obligados por la Ley General de Archivos cuyo contenido puede consultarse en los siguientes enlaces:
+
+https://www.gob.mx/cms/uploads/attachment/file/1003211/Acuerdo_que_reforma_y_deroga_- _Lineamientos_Generales.pdf
+
+www.dof.gob.mx/2025/AGN/Lineamientos_ICA.pdf
+
+III. El Acuerdo que reforma, adiciona y deroga diversas disposiciones de la Metodología para la Elaboración de Instrumentos de Control Archivístico, Cuadro General de Clasificación Archivística y Catálogo de Disposición Documental cuyo contenido puede consultarse en los siguientes enlaces:
+
+https://www.gob.mx/cms/uploads/attachment/file/1003212/Acuerdo_que_reforma__adiciona_y_derog a_-_Metodolog_a_para_la_elaboraci_n_de_ICA.pdf
+
+www.dof.gob.mx/2025/AGN/Metodologia_ICA.pdf
+
+IV. El Acuerdo que reforma, adiciona y deroga diversas disposiciones del Manual de Procedimientos Archivísticos de las Unidades Operativas del Sistema Institucional de Archivos (Unidad de Correspondencia, Archivo de Trámite y Archivo de Concentración) de los Sujetos Obligados de la Ley General de Archivos cuyo contenido puede consultarse en los siguientes enlaces:
+
+https://www.gob.mx/cms/uploads/attachment/file/1003214/Acuerdo_que_reforma__adiciona_y_deroga_-_Manual_de_Procedmientos_Archiv_sticos_compressed.pdf
+
+www.dof.gob.mx/2025/AGN/Manual_SIA.pdf
+
+SEGUNDO. Que con el presente aviso se tienen por publicados los instrumentos normativos referidos para todos los efectos jurídicos a los que haya lugar.
+
+TRANSITORIOS DEL “REGLAMENTO DEL CONSEJO NACIONAL DE ARCHIVOS”
+
+PRIMERO. El presente instrumento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento del Consejo Nacional de Archivos, publicado en el Diario Oficial de la Federación el 09 de diciembre de 2020 y su reforma de 30 de marzo de 2022; así como los Lineamientos para la presentación de proyectos normativos al Consejo Nacional de Archivos, publicados en el Diario Oficial de la Federación el19 de junio de 2023.
