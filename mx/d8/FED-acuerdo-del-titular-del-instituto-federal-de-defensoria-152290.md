@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-152290"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-04"
-last_updated: "2023-07-14"
+last_updated: "2025-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2021-10-26"
 ---
 # ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA [POR EL QUE SE ORDENA LA PUBLICACION DE LAS BASES GENERALES DE ORGANIZACION Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA]
 
+NOTA 1: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL ACUERDO DE LA DIRECTORA GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE COMUNICA LA APROBACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA Y ARTÍCULO TERCERO TRANSITORIO DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, PUBLICADOS EN EL D.O.F. DE 25 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+NOTA 2: [N. DE E. BASES OBTENIDAS DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/CJF/BasesGenerales_IFDP2025.pdf.]
+
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JULIO DE 2025 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 4 de noviembre de 2021.
 
@@ -2248,3 +2252,37 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en la
 PRIMERO. Por única ocasión, el Informe Anual de Labores del Instituto Federal de Defensoría Pública abarcará del primer día hábil del mes de junio de 2022 al 15 de noviembre de 2023, mismo que deberá ser presentado en la sesión ordinaria de la Junta Directiva del mes de noviembre del presente año.
 
 SEGUNDO. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JULIO DE 2025.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE DEFENSORÍA PÚBLICA POR EL QUE SE COMUNICA LA APROBACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
+
+Primero. Se aprueban, en lo particular, las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública que constituyen el anexo único del presente Acuerdo, mismas que fueron aprobadas en lo general en la Segunda Sesión Ordinaria de la Junta Directiva el 19 de mayo de 2025.
+
+Segundo. Se abrogan, las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública publicadas en el Diario Oficial de la Federación el 4 de noviembre de 2021.
+
+Tercero. Publíquense las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública que constituyen el anexo único del presente Acuerdo en la página electrónica del Instituto Federal de Defensoría Pública.
+
+Cuarto. La Directora General del Instituto Federal de Defensoría Pública deberá llevar a cabo lo necesario para que este Acuerdo se publique en el Diario Oficial de la Federación y en la página electrónica del Instituto Federal de Defensoría Pública.
+
+Transitorio:
+
+Único. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública que constituyen el anexo único del presente Acuerdo entrarán en vigor el día siguiente al de la publicación de este Acuerdo en el Diario Oficial de la Federación.
+
+## [N. DE E. TRANSITORIOS DE LAS “BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA”.]
+
+PRIMERO. Publíquense las presentes Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública en la página electrónica del Instituto Federal de Defensoría Pública.
+
+SEGUNDO. Las presentes Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública entrarán en vigor el día siguiente al de la publicación del Acuerdo JD/EXT/I/8/07/2025.02 en el Diario Oficial de la Federación.
+
+TERCERO. Se abrogan las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública publicadas el cuatro de noviembre de dos mil veintiuno en el Diario Oficial de la Federación.
+
+CUARTO. De conformidad con lo previsto en el artículo sexto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, a partir del primero de septiembre de dos mil veinticinco, una vez extinto el Consejo de la Judicatura Federal, cualquier referencia a este último deberá entenderse hecha al Órgano de Administración Judicial.
+
+QUINTO. Las referencias hechas en los textos normativos internos y documentos oficiales a la "Unidad de Supervisión y Evaluación", a la "Secretaría Técnica de Cooperación Interinstitucional y Normatividad" y a la "Secretaría Técnica de Consulta y Asuntos Internacionales", se entenderán hechas a la "Unidad de Supervisión, Evaluación y Servicio Civil de Carrera", a la "Secretaría Técnica de Normatividad y Planeación" y a la "Secretaría Técnica de Asuntos Jurídicos e Internacionales", respectivamente.
+
+SEXTO. En un plazo de tres meses, contados a partir de la entrada en vigor de estas Bases, las Unidades y Secretarías Técnicas del Instituto Federal de Defensoría Pública deberán actualizar sus manuales de procedimientos y demás disposiciones secundarias para adecuarse a lo establecido en estas Bases Generales.
+
+SÉPTIMO. Las disposiciones secundarias que no se opongan a las presentes Bases Generales seguirán en vigor hasta en tanto se emitan nuevas regulaciones que las sustituyan.
+
+OCTAVO. Los procedimientos de representación, administrativos y operativos iniciados con anterioridad a la entrada en vigor de estas Bases Generales continuarán su tramitación conforme a las disposiciones vigentes al momento de su inicio.
