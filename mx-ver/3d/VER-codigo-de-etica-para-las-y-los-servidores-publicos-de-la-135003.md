@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-etica-para-las-y-los-servidores-publicos-de-la-135003
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-27"
-last_updated: "2019-02-27"
+last_updated: "2025-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE ETICA PARA LAS Y LOS SERVIDORES PUBLICOS DE LA FISCALIA GENERAL DEL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 25 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA PARA LAS Y LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2025 (ABROGADO).
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 27 de febrero de 2019.
 
@@ -498,3 +500,19 @@ Lic. María del Pilar Beltrán Cisneros
 Contralora General de la Fiscalía General del Estado de Veracruz
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. El presente Acuerdo entrará en vigor el día hábil siguiente de su publicación.
+
+Tercero. Se abroga el Código de Ética para las y los Servidores Públicos de la Fiscalía General del Estado de Veracruz, publicado el 27 de febrero de 2019 en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave en el número extraordinario 084, Tomo II, así como cualquier otra disposición de igual o menor jerarquía que contravenga lo establecido en el presente Acuerdo.
+
+Cuarto. Se abrogan los Lineamientos Generales que Establecen las Bases para la Integración, Organización y Funcionamiento del Comité de Ética de la Fiscalía General del Estado de Veracruz, publicado el 13 de diciembre de 2019 en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave en el número extraordinario 498, Tomo I, así como cualquier otra disposición de igual o menor jerarquía que contravenga lo establecido en el presente Acuerdo.
+
+Quinto. La Fiscalía General deberá actualizar o emitir su Código de Conducta, en un plazo no mayor a setenta días hábiles a partir de la entrada en vigor del presente Acuerdo.
