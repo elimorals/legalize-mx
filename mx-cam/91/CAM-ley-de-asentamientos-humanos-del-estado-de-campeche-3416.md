@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-asentamientos-humanos-del-estado-de-campeche-3416"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "1993-12-22"
+last_updated: "2025-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 25 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de diciembre de 1993.
 
@@ -1048,3 +1050,33 @@ Palacio Legislativo, Campeche, Cam., a 21 de diciembre de 1993.- Dip. Arturo Vil
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los veintiún días del mes de diciembre de mil novecientos noventa y tres.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 98 POR EL QUE “SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo que dispongan los artículos Transitorios siguientes.
+
+SEGUNDO.- Se abroga la Ley de Asentamientos Humanos del Estado de Campeche, expedida mediante Decreto número 189, publicado en el Periódico Oficial del Estado número 563 de fecha 22 de diciembre de 1993.
+
+TERCERO.- El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, al que se hace referencia en la presente Ley, deberá instalarse en un plazo no mayor a noventa días naturales a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- El H. Congreso del Estado deberá expedir en un plazo no mayor a un año, contado a partir de la publicación del presente Decreto, las modificaciones que correspondan a la Ley del Registro de Centros de Población del Estado de Campeche, a la Ley de Fraccionamientos, Unidades Habitacionales, Condominios y Uso de Inmuebles en Tiempo Compartido del Estado de Campeche, a la Ley del Notariado para el Estado de Campeche, así como a las demás normas del marco jurídico estatal que requieran homologación con la emisión del presente Decreto.
+
+QUINTO.- El Ejecutivo Estatal deberá promover las adecuaciones reglamentarias y presupuestales que se consideren necesarias para la eficaz aplicación de la presente Ley, en un plazo no mayor a un año, a partir de la publicación del presente Decreto.
+
+De igual forma, el Ejecutivo Estatal realizará las adecuaciones que correspondan al Reglamento Interior de la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas de la Administración Pública del Estado de Campeche en un plazo que no exceda de seis meses, contados a partir de la publicación del presente Decreto.
+
+SEXTO.- Los HH. Ayuntamientos deberán realizar todas las adecuaciones reglamentarias y presupuestales necesarias para la eficaz aplicación de la presente Ley, en un plazo no mayor a un año, a partir de la publicación del presente Decreto.
+
+SÉPTIMO.- Los artículos 147 y 148 de la Ley que se expide mediante el presente Decreto, entrarán en vigor hasta en tanto exista la capacidad presupuestal, financiera y humana tanto del Estado como de los Municipios.
+
+Para lo anterior, el Ejecutivo del Estado y los HH. Ayuntamientos promoverán las acciones necesarias para el adecuado cumplimiento de los citados numerales, las cuales podrán realizarlas de forma gradual y de conformidad con las leyes fiscales y financieras aplicables.
+
+OCTAVO.- El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano y la Estrategia Estatal de Ordenamiento Territorial deberán ser emitidos en un plazo que no exceda de un año contado a partir de la publicación del presente Decreto.
+
+De igual forma, se deberán expedir todos los programas y planes a los que se hace referencia en la presente Ley, en un plazo que no exceda de seis meses, contados a partir de la publicación del Programa señalado en el artículo anterior.
+
+NOVENO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal que se opongan a lo contenido en el presente Decreto.
