@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-131057"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-20"
-last_updated: "2023-12-16"
+last_updated: "2025-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2025.
 
 Ley publicada en el Anexo al Periódico Oficial, del Estado de Chihuahua, el sábado 20 de octubre de 2018.
 
@@ -603,9 +603,17 @@ XXII. Diseñar e instrumentar su Programa Institucional;
 
 XXIII. Operar un Sistema de Información en Materia de Juventud;
 
-XXIV. Operar un Sistema de Comunicación que permita vincular al Instituto, personas jóvenes, agrupaciones y organizaciones juveniles; y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2025)</small>
 
-XXV. Las demás que le otorguen la presente Ley y otras disposiciones aplicables.
+XXIV. Operar un Sistema de Comunicación que permita vincular al Instituto, personas jóvenes, agrupaciones y organizaciones juveniles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2025)</small>
+
+XXV. Realizar, a través de convenios o acuerdos con instituciones de educación públicas y privadas, una encuesta estatal anual a la juventud del Estado, para evaluar el impacto de las políticas públicas y programas implementados en materia de juventud; los resultados se deberán remitir al Consejo Estatal de la Juventud para que, derivado de ellos y de ser necesario, se implementen las adecuaciones pertinentes a dichas políticas y programas, en beneficio de la juventud en el Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2025)</small>
+
+XXVI. Las demás que le otorguen la presente Ley y otras disposiciones aplicables.
 
 ###### Artículo 68.
 
@@ -1018,6 +1026,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 16 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0641/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0240/2025 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 67, FRACCIONES XXIV Y XXV, Y SE ADICIONA LA FRACCIÓN XXVI, DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
