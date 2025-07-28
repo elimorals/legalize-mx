@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-prevencion-atencion-y-tratamiento-integral-del-9799
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2020-12-04"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y TRATAMIENTO INTEGRAL DEL SOBREPESO, OBESIDAD Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -115,7 +115,13 @@ VIII. En coordinación con los consejos escolares de participación social en la
 
 IX. Diseñar, ejecutar e implementar las políticas públicas que propicien adecuadas pautas de conducta alimentaria, garanticen un tratamiento eficiente del sobrepeso, obesidad, desnutrición y trastornos de la conducta alimenticia, cuyos avances y resultados sean objeto de evaluación; y,
 
-X. Los demás que le reconozcan esta Ley y otras normas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2025)</small>
+
+X. Promover, con instituciones públicas y privadas, convenios, campañas, programas, planes y acciones orientadas a mejorar la salud ocupacional, la adecuada nutrición y la salud física de las y los trabajadores del sector público en el Estado, a fin de prevenir enfermedades cardiovasculares y cerebrovasculares de estos; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2025)</small>
+
+XI. Los demás que le reconozcan esta Ley y otras normas aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -212,3 +218,11 @@ P.O. 4 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 190 POR EL QUE "SE REFORMA LA FRACCIÓN X Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 5 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y TRATAMIENTO INTEGRAL DEL SOBREPESO, OBESIDAD Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud del Estado contará con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para diseñar, implementar y coordinar las estrategias necesarias que aseguren el cumplimiento de la disposición reformada, en colaboración con las instituciones públicas y privadas involucradas.
