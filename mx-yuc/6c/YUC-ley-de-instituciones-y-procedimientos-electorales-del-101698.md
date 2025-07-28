@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2023-06-28"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -2265,25 +2265,29 @@ XI. Las demás que determine esta ley o las leyes que resulten aplicables.
 
 Para la determinación de las responsabilidades administrativas de las y los servidores públicos del Instituto por la comisión de faltas administrativas graves o no graves, o de las y los particulares vinculados con faltas administrativas graves, el Órgano Interno de Control se sujetará al régimen y procedimientos establecidos en la ley en materia de responsabilidades administrativas del estado de Yucatán y las leyes aplicables.
 
-> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2025)</small>
 
 ###### Artículo 137.
 
-El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la autoridad competente; tendrá además a su cargo la fiscalización de los ingresos y egresos del Instituto.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la autoridad competente; fiscalizar los ingresos y egresos del Instituto y se encargará, en su carácter de autoridad garante estatal, de aplicar las leyes en materia de transparencia, acceso a la información y protección de datos personales.
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
 
 La o el Titular del Órgano Interno de Control tendrá un nivel jerárquico equivalente a Director Ejecutivo.
 
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
 El Órgano Interno de Control contará con el presupuesto para la estructura orgánica, personal y recursos que apruebe el Consejo General a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
 En su desempeño, el Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2025)</small>
 
 ###### Artículo 138.
 
-La o el titular del órgano de control interno del instituto ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán y la legislación aplicable en materia de responsabilidades administrativas.
+La o el titular del órgano de control interno del instituto ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán y la legislación aplicable en materia de responsabilidades administrativas, así como, en su carácter de autoridad garante estatal, la legislación en materia de transparencia, acceso a la información pública y protección de datos personales.
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
 
@@ -2427,9 +2431,9 @@ XVIII. Nombrar y remover a la o al Titular de la Autoridad Sustanciadora, a la o
 
 XIX. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de las y los servidores públicos que corresponda, y
 
-> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, D.O. 28 DE JULIO DE 2025)</small>
 
-XX. Las demás que le otorgue esta ley, la ley en materia de responsabilidades administrativas del estado de Yucatán, o las leyes aplicables.
+XX. Las demás que le otorgue esta ley, la ley en materia de responsabilidades administrativas del estado de Yucatán, o las leyes aplicables, así como, en su carácter de órgano garante, la legislación en materia de transparencia, acceso a la información y protección de datos personales.
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
 
@@ -5915,7 +5919,11 @@ Tendrá bajo su responsabilidad directa las notificaciones o publicaciones que s
 
 Órgano de control interno
 
-El órgano de control interno del tribunal se encargará de promover, evaluar y fortalecer el buen funcionamiento del control interno en el tribunal, así como de aplicar las leyes en materia de responsabilidades administrativas.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2025)</small>
+
+El órgano de control interno del tribunal se encargará de promover, evaluar y fortalecer el buen funcionamiento del control interno en el tribunal, de aplicar las leyes en materia de responsabilidades administrativas, así como, en su carácter de autoridad garante, de ejercer las atribuciones en materia de transparencia, acceso a la información y protección de datos personales que le otorguen las leyes respectivas.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
 El órgano de control interno del tribunal tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 
@@ -5925,9 +5933,15 @@ El órgano de control interno del tribunal tendrá un titular que lo representar
 
 Atribuciones
 
-El titular del órgano de control interno del tribunal ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia de responsabilidades administrativas.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2025)</small>
+
+El titular del órgano de control interno del tribunal ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia de responsabilidades administrativas, así como, en su carácter de autoridad garante, la legislación en materia de transparencia, acceso a la información y protección de datos personales.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
 El titular del órgano de control interno del tribunal durará en su cargo cinco años y será elegido por el voto de las dos terceras partes de los integrantes del pleno del tribunal. El titular del órgano de control interno podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta ley.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
 El titular del órgano de control interno del tribunal mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado de Yucatán.
 
@@ -7254,3 +7268,55 @@ Artículo primero. Este decreto entrará en vigor al día siguiente de su public
 Clausula derogatoria
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 98/2025 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO; ASÍ COMO DIVERSAS LEYES ESTATALES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en (sic) Diario Oficial del Gobierno del Estado de Yucatán, a excepción de las disposiciones relativas al Tribunal de Disciplina Judicial, que lo harán el 1 de septiembre 2025, conforme a lo previsto en el artículo sexto transitorio del Decreto 55/2025 por el que se modifica la Constitución Política del Estado de Yucatán, en materia de reforma al Poder Judicial del Estado de Yucatán.
+
+Armonización legislativa
+
+Artículo segundo. El Congreso del estado deberá realizar las adecuaciones legales necesarias para armonizar el marco jurídico estatal al contenido de este decreto en un plazo que no exceda de ciento ochenta días naturales, contado a partir de su entrada en vigor.
+
+Obligación normativa
+
+Artículo tercero. El Gobernador deberá realizar las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, para armonizarlo en lo conducente a las disposiciones de este decreto, dentro de los ciento ochenta días naturales siguientes, contados a partir de su entrada en vigor.
+
+Movimiento de personal
+
+Artículo cuarto. El personal de Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales que, en términos de la capacidad presupuestaria y las necesidades administrativas, por disposición de las modificaciones contenidas en este decreto pase a formar parte de aquellos que asuman sus atribuciones, cuando corresponda, se estará a lo dispuesto en las disposiciones legales y normativas aplicables, en estricto apego a sus derechos laborales.
+
+El personal de las dependencias que por disposición de la modificación contenida en este decreto pase a formar parte de otra, estará a lo dispuesto en las disposiciones legales y normativas aplicables, en estricto apego a sus derechos laborales.
+
+Destino de recursos
+
+Artículo quinto. El Gobernador, por medio de la Secretaría de Administración y Finanzas, dispondrá lo conducente en relación con el destino de los recursos humanos, financieros, materiales, tecnológicos, bienes muebles e inmuebles, así como archivos, expedientes y documentos asignados a las dependencias a las que se refiere este decreto.
+
+Referencias
+
+Artículo sexto. Cuando en las leyes estatales, sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia a la Secretaría de la Contraloría General o al Secretario de la Contraloría General, se entenderá que se refieren, a la Secretaría Anticorrupción y Buen Gobierno o al Secretario Anticorrupción y Buen Gobierno en la entidad, según corresponda.
+
+Actos en trámite
+
+Artículo séptimo. Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos, que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto realizados por la Secretaría de la Contraloría General, serán asumidos por la Secretaría Anticorrupción y Buen Gobierno, de conformidad con las disposiciones legales y normativas aplicables.
+
+Cumplimiento de disposiciones
+
+Artículo octavo. Las disposiciones de las leyes vigentes que, sin oponerse a lo previsto en este decreto, se refieran a las dependencias de la Administración Pública estatal cuya denominación o atribuciones hayan sido modificadas, continuarán con toda su obligatoriedad y deberán cumplirse por las nuevas dependencias que, en el marco de este decreto, tengan atribuciones iguales o análogas.
+
+Resolución de casos no previstos
+
+Artículo noveno. Se faculta al Gobernador para resolver las cuestiones que puedan suscitarse con motivo de la aplicación del artículo transitorio anterior.
+
+Previsiones presupuestales
+
+Artículo décimo. El Gobernador, en la elaboración del proyecto de Presupuesto de Egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para el debido funcionamiento de las dependencias a las que se refiere este decreto.
+
+El Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, deberá realizar las adecuaciones presupuestales y administrativas en el Presupuesto de Egresos del Gobierno del Estado de Yucatán para el ejercicio fiscal del año 2025 a fin de dar cumplimiento al presente decreto.
+
+Titular de la dependencia
+
+Artículo décimo primero. Con el objeto de no afectar derechos adquiridos con anterioridad a la entrada en vigor de este decreto, la persona titular de la actual Secretaría de la Contraloría General continuará en el cargo de titular de la Secretaría Anticorrupción y Buen Gobierno sin necesidad de nuevo nombramiento por parte del titular del Poder Ejecutivo, ni la ratificación por parte de la legislatura y concluirá su cargo en los términos de su nombramiento.
