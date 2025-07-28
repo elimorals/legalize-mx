@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-las-personas-adultas-mayores-para-el-965
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-08"
-last_updated: "2025-06-25"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de noviembre de 2013.
 
@@ -369,9 +369,9 @@ V. Formular, en coordinación con la Secretaría de Salud, programas de educaci�
 
 VI. Promover, en coordinación con la Secretaria de Desarrollo Social y Humano y las instituciones privadas, el acceso a apoyos económicos para la educación continua y capacitación de las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-VII. Fomentar en las instituciones de tipo medio superior, la incorporación en la currícula de temas especializados en atención a la población adulta mayor;
+VII. Fomentar en las instituciones de tipo medio superior y superior, la incorporación en la currícula de temas especializados en atención a la población adulta mayor;
 
 VIII. Impulsar, en coordinación con la Secretaria de Salud, que las instituciones educativas y de seguridad social establezcan disciplinas y programas para la formación de especialistas en los servicios de salud requeridos por las personas adultas mayores;
 
@@ -389,7 +389,7 @@ XII. Las demás que le otorguen la presente Ley u otras disposiciones legales.
 
 ###### Artículo 12 Bis.
 
-(DEROGADO, P.O. 25 DE JUNIO DE 2025)
+(DEROGADO, P.O. 25 DE JUNIO DE 2025 Y P.O. 28 DE JULIO DE 2025))
 
 > <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
@@ -535,9 +535,15 @@ XIV. Otorgar servicios de calidad y calidez a las personas adultas mayores, brin
 
 XV. Realizar las gestiones para apoyar y proteger a las personas adultas mayores en situación de vulnerabilidad social o familiar;
 
-XVI. Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-XVII. Las demás que le otorgue la presente Ley u otras disposiciones legales.
+XVI. Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XVII. Promover el acceso y utilización adecuada de las tecnologías de información y comunicación, a través de la capacitación de habilidades digitales a las personas adultas mayores; y
+
+XVIII. Las demás que le otorgue la presente Ley u otras disposiciones legales.
 
 > <small>(REFORMADO ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -637,9 +643,15 @@ VI. Proponer políticas de estímulos fiscales en beneficio de las personas adul
 
 VII. Fomentar e impulsar el desarrollo integral de las personas adultas mayores;
 
-VIII. Promover, fomentar, difundir y defender el ejercicio de los derechos de las personas adultas mayores, así como el cumplimiento de las obligaciones de los responsables de éstas; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-IX. Las demás que les otorgue la presente Ley u otras disposiciones legales.
+VIII. Promover, fomentar, difundir y defender el ejercicio de los derechos de las personas adultas mayores, así como el cumplimiento de las obligaciones de los responsables de estas;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+IX. Coordinarse con las demás autoridades para la promoción en el acceso y utilización adecuado de las tecnologías de información y comunicación, a través de la capacitación de habilidades digitales; y
+
+X. Las demás que les otorgue la presente Ley u otras disposiciones legales.
 
 ### Capítulo IV. Consejo Estatal de las Personas Adultas Mayores
 
@@ -1308,3 +1320,9 @@ Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así
 Referencias
 
 Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 71 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
