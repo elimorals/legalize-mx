@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2025-06-25"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -287,6 +287,10 @@ I bis. Banqueta: El área pavimentada a cada lado de una calle, generalmente má
 
 I ter. Carril exclusivo de transporte de pasajeros: Espacio de la vía pública destinado para la circulación exclusiva de los vehículos del servicio público de transporte urbano de pasajeros de competencia municipal;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+II ter. Comerciantes en el ramo de vehículos tipo motocicletas: Las personas físicas o jurídicas colectivas que se reputan en derecho comerciantes en términos del Código de Comercio dedicadas a la enajenación de vehículos de motor tipo motocicletas;
+
 II. Ciclista: Conductor de un vehículo de tracción física a través de pedales. Se considera ciclista a aquellos que conducen bicicletas asistidas por motores eléctricos;
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2022)</small>
@@ -325,6 +329,10 @@ X. Ley: La Ley de Movilidad del Estado de Guanajuato y sus Municipios;
 
 X bis. Ley General: Ley General;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+X ter. Motocicletas nuevas: La que se enajena o sobre la que se otorgue el uso o goce temporal por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos tipo motocicletas.
+
 XI. Movilidad: Es un derecho que consiste en el desplazamiento de personas, bienes y mercancías que se realizan en el Estado de Guanajuato, a través de las diferentes formas y modalidades de transporte que se ajuste a la jerarquía y principios que se establecen en este ordenamiento, para satisfacer sus necesidades y pleno desarrollo. En todo caso la movilidad tendrá como eje central a la persona;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
@@ -362,6 +370,10 @@ XVI quater. Secretaría: La Secretaría de Obra Pública;
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2024)</small>
 
 XVI quinquies. Servicio de transporte privado: Aquel cuyo objeto es trasladar personas y sus cosas en vehículos con una capacidad de cinco personas incluyendo al conductor que previamente se contrata mediante el uso de plataformas tecnológicas, caracterizándose por prestar y ofertar dicho servicio exclusivamente a través de las infraestructuras digitales mencionadas;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XVI sexies. SATEG: Servicio de Administración Tributaria del Estado de Guanajuato;
 
 XVII. Sistema Estatal de Ciclovías: conjunto de redes de ciclovías interconectadas entre sí e integradas con otros medios de transporte;
 
@@ -739,9 +751,9 @@ II. La Secretaría de Gobierno;
 
 II bis. La Secretaría;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
 
-III. La Secretaría de Finanzas;
+III. El Servicio de Administración Tributaria del Estado de Guanajuato;
 
 IV. La Policía Estatal de Caminos;
 
@@ -751,9 +763,7 @@ VI. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 VII. El registrador de concesiones y permisos de transporte, jefes de oficinas regionales de movilidad e inspectores de movilidad; y
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
-
-VIII. Las personas titulares de las Oficinas Recaudadoras del Estado.
+VIII. (DEROGADA, P.O. 28 DE JULIO DE 2025)
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -891,25 +901,35 @@ VII. Ejecutar los acuerdos del Gobernador del Estado en todo lo que se refiere a
 
 VIII. Las demás que en esta materia le confiera la normatividad aplicable.
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE JULIO DE 2025)</small>
 
-Facultades de la Secretaría de Finanzas
+Facultades del SATEG
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2025)</small>
 
 ###### Artículo 18.
 
-Corresponde a la Secretaría de Finanzas:
+Corresponde al SATEG:
 
-I. Expedir y hacer entrega a los propietarios o legítimos poseedores de vehículos de las placas metálicas, tarjetas de circulación, calcomanías y demás signos de identificación que por la naturaleza de los vehículos y condiciones de prestación de los servicios serequieran (sic);
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-II. Llevar a cabo el registro y control de vehículos que estén dados de alta en el Estado y mantener actualizado el padrón vehicular estatal;
+I. Expedir y hacer entrega a los propietarios o legítimos poseedores de vehículos de las placas metálicas, tarjetas de circulación, calcomanías y demás signos de identificación que acrediten su registro en el padrón vehicular estatal o padrón de control estatal de motocicletas según corresponda, y que por la naturaleza de los vehículos y condiciones de prestación de los servicios se requieran;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+II. Integrar, registrar, controlar y actualizar el padrón vehicular estatal;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+II bis. Integrar, registrar, controlar y actualizar el padrón de control estatal de motocicletas;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+II ter. Integrar, registrar, controlar y actualizar el Padrón de Comerciantes en el ramo de vehículos tipo motocicletas;
 
 III. Diseñar y emitir los formatos para el control vehicular, conforme a los lineamientos y normatividad correspondiente; y
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
-
-IV. Recaudar los diversos conceptos tributarios que deberán cubrir las personas en materia de servicios de movilidad a que se refiere la presente Ley, con excepción de aquellos que se deriven de las atribuciones que la misma señale como competencia de los municipios; y
+IV. (DEROGADA, P.O. 28 DE JULIO DE 2025)
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -1587,7 +1607,7 @@ Movilidad con perspectiva de género
 
 Las autoridades estatales y municipales competentes deberán fomentar y garantizar la participación de las mujeres, considerando su interseccionalidad, en la planeación y diseño de la movilidad y la seguridad vial, así como en los diferentes componentes de los sistemas incluida la evaluación de sus impactos, con la aplicación de las siguientes acciones:
 
-I. Implementar mecanismos para fortalecer la información disponible y los diagnósticos, que promuevan la ejecución de acciones afirmativas con perspectiva de género y reconocimiento de los diversos patrones de movilidad por género para mejorar y hacer más segura, incluyente y eficiente la experiencia de la movilidad de las mujeres, incluídas las mujeres con discapacidad, y de la movilidad del cuidado;
+I. Implementar mecanismos para fortalecer la información disponible y los diagnósticos, que promuevan la ejecución de acciones afirmativas con perspectiva de género y reconocimiento de los diversos patrones de movilidad por género para mejorar y hacer más segura, incluyente y eficiente la experiencia de la movilidad de las mujeres, incluidas las mujeres con discapacidad, y de la movilidad del cuidado;
 
 II. Incluir acciones afirmativas y con perspectiva de género para prevenir y erradicar las violencias de género, considerando la capacitación en la materia y sensibilización de género obligatoria de las personas responsables de diseñar, operar y evaluar los sistemas de movilidad.
 
@@ -1691,15 +1711,17 @@ Vehículos de uso o tránsito eventual
 
 Se da el nombre de vehículos de uso o tránsito eventual, a aquellos que utilizan las vías públicas de la entidad de manera temporal en sus desplazamientos, en virtud de provenir de otros puntos de la Federación o del extranjero o que por el servicio específico que llevan a cabo, se encuentran sometidos a otra jurisdicción distinta de la estatal. Asimismo, se consideran dentro de esta categoría aquellas unidades que en virtud de convenios de enlace, fusión de equipos o intercambio de servicios, celebrado entre concesionarios o permisionarios locales con concesionarios o permisionarios del servicio federal o de entidades federativas limítrofes, requieren hacer uso de las vías públicas estatales.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
 
 Registro
 
 ###### Artículo 62.
 
-Todos los vehículos que circulen por las vías públicas del Estado de Guanajuato y que en razón de su actividad y domicilio y que no estén registrados en otra entidad federativa, deberán efectuar su registro ante la Secretaría de Finanzas. Las condiciones y requisitos para cada tipo y clase de vehículo son las que al respecto se señalen en esta Ley y sus reglamentos.
+Todos los vehículos que circulen por las vías públicas del Estado de Guanajuato que debido a su domicilio y que no estén registrados en otra entidad federativa, deberán efectuar su registro ante el SATEG. Las condiciones y requisitos para cada tipo y clase de vehículo son las que se señalen en esta Ley y su reglamento, así como en las disposiciones fiscales aplicables.
 
-La Secretaría de Finanzas, la Secretaría de Gobierno y la unidad administrativa correspondiente en el municipio, establecerán los mecanismos de coordinación para eficientar el registro vehicular en la entidad.
+El SATEG, la Secretaría de Gobierno y la unidad administrativa correspondiente en el municipio, establecerán los mecanismos de coordinación para eficientar el registro vehicular en la entidad.
+
+Los diversos conceptos tributarios que deban cubrir las personas en materia de servicios de movilidad a que se refiere la presente Ley, con excepción de aquellos que se deriven de las atribuciones que la misma señale como competencia de los municipios, se recaudarán a través de los puntos y medios de pago que para tal efecto autorice la Secretaría de Finanzas.
 
 ### Capítulo IV. Conductores y operadores de vehículos motorizados
 
@@ -1929,37 +1951,63 @@ Suspensión de circulación de vehículos
 
 No se podrá suspender la circulación a ningún vehículo por elementos de la Policía Estatal de Caminos o por las autoridades municipales, salvo los casos de delitos o infracciones flagrantes, requerimientos administrativos o mandatos judiciales en los casos que resulte necesario para la preservación del orden y la paz pública.
 
-Padrón vehicular
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+Administración de padrones
 
 ###### Artículo 69.
 
-La Secretaría de Finanzas, la Policía Estatal de Caminos y las autoridades municipales, en los términos del artículo 62 de esta Ley, llevarán un control veraz y actualizado de los vehículos automotores sometidos a la jurisdicción estatal, debiendo integrar y operar un padrón que contenga los datos relativos a los mismos.
+El SATEG, en los términos del artículo 62 de esta Ley, integrará, controlará, actualizará, los vehículos motorizados clasificados como automóviles, camiones, autobuses y remolques sometidos a la jurisdicción estatal, a través del padrón vehicular estatal; así como el padrón de control estatal de motocicletas, los cuales, contendrán los datos relativos a los mismos. Para cumplir con este objetivo podrán hacer uso de los medios técnicos que estimen más adecuados.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JUNIO DE 2025)</small>
-
-Para cumplir con este objetivo podrán hacer uso de los medios técnicos que estimen más adecuados.
+La información que contengan los padrones antes señalados se encuentra amparada bajo la figura del secreto fiscal, en términos de las disposiciones fiscales aplicables. No obstante, el SATEG podrá publicar los datos de identificación y el estatus de los vehículos contenidos en los padrones referidos.
 
 Requisitos para el registro vehicular
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2025)</small>
+
 ###### Artículo 70.
 
-Para que el propietario de un vehículo pueda efectuar el registro del mismo, de conformidad con lo establecido en el presente capítulo, deberá satisfacer los requisitos siguientes:
+Para que el propietario o legítimo poseedor de un vehículo de motor pueda efectuar el registro de este tanto en el padrón vehicular estatal como en el padrón de control estatal de motocicletas, de conformidad con lo establecido en el presente capítulo, el reglamento de esta Ley y en las disposiciones de carácter general que para tal efecto emita el SATEG, deberá satisfacer los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-I. Presentar la forma de aviso correspondiente.
+I. Solicitar el registro ante el SATEG, en los medios y formas que, para tal efecto, éste establezca a través de las disposiciones de carácter general.
 
-Asimismo, quien acuda al trámite deberá proporcionar la firma autógrafa, y permitir la toma de fotografía de rasgos faciales y huellas dactilares. Quienes reciban y tengan bajo su resguardo esta información deberán protegerla conforme a lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Guanajuato y las demás leyes aplicables;
+Asimismo, quien acuda al trámite deberá proporcionar la firma autógrafa, y permitir la toma de fotografía de rasgos faciales y huellas dactilares. Quienes reciban y tengan bajo su resguardo esta información deberán protegerla conforme a lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Guanajuato y las demás leyes aplicables:
 
-II. Exhibir original de la factura, carta factura o documento que acredite la propiedad o legítima posesión del vehículo;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+II. Acreditar la propiedad o legitima posesión del vehículo a registrar, con el original de la factura o con alguno de los documentos que para tal efecto establezca el SATEG en disposiciones de carácter general;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
 III. Acreditar el pago de los impuestos y derechos que establecen los ordenamientos legales de la materia;
 
-IV. En caso de existir un registro anterior, acreditar que este ha sido cancelado, habiéndose efectuado en consecuencia el cambio de propietario; y
+IV. (DEROGADA, P.O. 28 DE JULIO DE 2025)
 
-V. Tratándose de vehículos de procedencia extranjera, además de los requisitos antes señalados, deberán de acreditar su legal estancia en el país, con el documento que haya expedido la autoridad competente.
+V. (DEROGADA, P.O. 28 DE JULIO DE 2025)
+
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. EL 28 DE JULIO DE 2025, SE ADVIERTE QUE ESTE ARTÍCULO DESDE TEXTO ORIGINAL CONSTA SÓLO DE CINCO FRACCIONES.]</small>
+
+VI (sic). (DEROGADA, P.O. 28 DE JULIO DE 2025)
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+En caso de existir un registro anterior ya sea en el estado de Guanajuato o en alguna otra entidad federativa, se deberá acreditar la baja en el padrón de que se trate con el documento oficial que para tal efecto emita la autoridad competente de la entidad en el que se encuentre el registro previo.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Tratándose de vehículos de procedencia extranjera, además de los requisitos antes señalados, deberán acreditar su legal procedencia o estancia en el país.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Además, el vehículo de motor por el que se solicite el registro no deberá contar con reporte de robo vigente tanto en el estado de Guanajuato como en alguna otra entidad federativa.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Presunción legal
+
+Artículo 70 bis. La inscripción de un vehículo de motor en el padrón vehicular estatal presume la existencia de éste, su pertenencia a la persona que aparece en aquél como propietario legítimo poseedor, la validez de los actos jurídicos que se relacionan con el mismo y que obran en el padrón salvo prueba contario, de conformidad con las disposiciones jurídicas aplicables.
 
 Registro de vehículos del servicio público y especial de transporte
 
@@ -2141,15 +2189,77 @@ Especificaciones de los señalamientos viales
 
 Los señalamientos viales en la entidad, deberán ajustarse a las especificaciones contenidas en el manual de dispositivos para el control del tránsito en calles y carreteras emitido por la Secretaría de Comunicaciones y Transportes.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2025)</small>
+
+## TÍTULO TERCERO BIS. PADRONES DE MOTOCICLETAS Y DE COMERCIANTES DEL RAMO DE MOTOCICLETAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2025)</small>
+
+### Capítulo I. Padrón de Control Estatal de Motocicletas
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Objeto
+
+Artículo 87 bis. El padrón de control estatal de motocicletas tiene por objeto la identificación y control de las motocicletas registradas en términos del artículo 62 de esta Ley, así como de aquellas informadas por los comerciantes en el ramo de vehículos tipo motocicletas de conformidad con lo dispuesto en el artículo 87 octies de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Contenido
+
+Artículo 87 ter. El padrón contendrá la información relacionada con su registro, comprendiendo como mínimo, los movimientos de alta, baja o modificación, infracciones, pérdidas, robos, recuperación y destrucción de las motocicletas que circulan en el territorio estatal, según corresponda; así como medidas de aseguramiento dictadas por las autoridades en materia de procuración de justicia, hechos o actos jurídicos, y en general cualquier dato u operación que recaiga sobre dichos vehículos.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Transversalidad
+
+Artículo 87 quater. Las autoridades estatales y municipales, en materia de seguridad pública o tránsito, así como la Fiscalía General del Estado, en el ámbito de sus competencias, registrarán, suministrarán, compartirán y proporcionarán al SATEG la información que por el ejercicio de sus atribuciones dispongan sobre actos y hechos jurídicos, y en general, cualquier operación relacionada con las motocicletas.
+
+Las autoridades señaladas en el párrafo anterior podrán solicitar al SATEG la información contenida en el padrón, de conformidad con los procedimientos y mecanismos de información que éste establezca. Lo anterior, siempre y cuando se relacione para el ejercicio de sus competencias.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Publicidad
+
+Artículo 87 quinquies. Cualquier persona podrá consultar la información contenida en el padrón, únicamente respecto a los datos de identificación y el estatus de las motocicletas que lo integran.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Presunción legal
+
+Artículo 87 sexies. La inscripción de un vehículo tipo motocicleta en el padrón de control estatal de motocicletas presume la existencia de este, su pertenencia a la persona que aparece en aquél como propietario o legítimo poseedor, la validez de los actos jurídicos que se relacionan con el mismo y que obran en el padrón salvo prueba en contrario, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2025)</small>
+
+### Capítulo II. Padrón de comerciantes en el ramo de vehículos tipo motocicletas
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Padrón de comerciantes en el ramo de vehículos tipo motocicletas
+
+Artículo 87 septies. Los comerciantes en el ramo de vehículos tipo motocicletas, sin perjuicio del cumplimiento de las demás disposiciones fiscales, deberán registrarse ante el SATEG en el padrón de comerciantes en el ramo de vehículos tipo motocicletas para el efecto de presentar el aviso de las enajenaciones de motocicletas nuevas que realicen.
+
+El registro señalado en el párrafo que antecede, lo deberán realizar en los plazos, medios y términos que para el efecto establezca el SATEG a través de disposiciones de carácter general.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Presentación de avisos ante el SATEG
+
+Artículo 87 octies. Los comerciantes a que se refiere el artículo anterior deberán presentar el aviso de cada enajenación de motocicletas nuevas que realicen.
+
+El aviso señalado en el párrafo que antecede deberá cumplir con los requisitos, medios y plazos que el SATEG determine en disposiciones de carácter general que para el efecto se establezca.
+
+La omisión a lo señalado en este capítulo se sancionará en términos del artículo 116 fracción I del Código Fiscal para el Estado de Guanajuato.
+
 ## TÍTULO CUARTO. SEGURIDAD VIAL Y PEATONAL
 
 ### Capítulo I. Seguridad Vial
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 87 BIS, P.O. 28 DE JULIO DE 2025)
 
 Seguridad Vial
 
-Artículo 87 bis. La seguridad vial es el conjunto de medidas, normas, políticas y acciones adoptadas para prevenir los siniestros de tránsito y reducir el riesgo de lesiones y muertes a causa de éstos.
+Artículo 87 nonies. La seguridad vial es el conjunto de medidas, normas, políticas y acciones adoptadas para prevenir los siniestros de tránsito y reducir el riesgo de lesiones y muertes a causa de éstos.
 
 Las autoridades, en el marco de sus respectivas competencias y ejercicio de atribuciones deberán realizar las acciones necesarias para proteger al máximo posible la vida, salud e integridad física de las personas en sus desplazamientos por las vías públicas, aplicando las siguientes directrices:
 
@@ -2166,18 +2276,6 @@ V. Atención Médica Prehospitalaria: Los procesos de reconocimiento inicial que
 VI. Seguimiento, gestión y coordinación: Las estrategias coordinadas que son establecidas y evaluadas por las autoridades competentes para la gestión eficaz de acciones de prevención y atención durante y posterior a los siniestros viales.
 
 Clasificación de la vía pública
-
-### Capítulo II. Seguridad Vial y Peatonal
-
-Seguridad y educación vial
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
-
-## TÍTULO QUINTO. LICENCIAS Y PERMISOS PARA CONDUCIR Y REGISTRO ESTATAL
-
-### Capítulo III. Estacionamientos Públicos
-
-Finalidad del estacionamiento
 
 ###### Artículo 88.
 
@@ -2235,11 +2333,11 @@ VII. 110 kilómetros por hora para automóviles, 95 kilómetros por hora para au
 
 VIII. Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener velocidad de operación mayor a 50 kilómetros por hora en cualquiera de sus accesos.
 
-### Capítulo IV. Sistema Estatal de Ciclovías
+### Capítulo II. Seguridad Vial y Peatonal
 
-Integración del Sistema Estatal de Ciclovías
+Seguridad y educación vial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 90.
 
@@ -2281,7 +2379,7 @@ V. Reparación integral del daño; en su caso, en términos de la Ley General de
 
 VI. Todos los demás derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y en los Tratados Internacionales de los que el Estado Mexicano sea parte.
 
-La actuación de las personas servidoras públicas a quienes corresponda otorgar atención deberá sujetarse a los protocolos de observancia obligatoria que sean emitidos para tal efecto.
+La actuación de las personas servidoras públicas a quienes corresponda otorgar atención, deberá sujetarse a los protocolos de observancia obligatoria que sean emitidos para tal efecto.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -2289,9 +2387,9 @@ Registro e información de la atención médica prehospitalaria
 
 Artículo 92 ter. Las autoridades responsables de la atención médica prehospitalaria deberán registrar y resguardar información relativa a la fecha y hora de recepción de cada llamada de emergencia en la materia, la fecha y hora de arribo al sitio del hecho de tránsito; la cinemática del trauma; el número de las personas involucradas en los hechos de tránsito que fueron lesionadas y las características de éstas, de acuerdo con los lineamientos que al respecto emitan las autoridades competentes.
 
-### Capítulo I. Licencias y Permisos para Conducir
+### Capítulo III. Estacionamientos Públicos
 
-Obligación de portar la licencia o permiso
+Finalidad del estacionamiento
 
 ###### Artículo 93.
 
@@ -2305,7 +2403,11 @@ Regulación de estacionamientos
 
 La unidad administrativa de transporte y los ayuntamientos en el ámbito de sus competencias y de conformidad con los resultados de los estudios en materia de movilidad y de accesibilidad universal que al respecto se realicen, y las disposiciones que para el efecto señale el reglamento respectivo, podrán establecer condiciones, limitantes y en su caso tarifas para el establecimiento y funcionamiento de estacionamientos públicos.
 
-### Capítulo II. Registro estatal de licencias y de infracciones
+### Capítulo IV. Sistema Estatal de Ciclovías
+
+Integración del Sistema Estatal de Ciclovías
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 95.
 
@@ -2339,11 +2441,11 @@ Mantenimiento del Sistema Estatal de Ciclovías
 
 Las autoridades estatales y municipales, en el ámbito de su competencia, deberán dar el mantenimiento periódico del sistema estatal de ciclovías a efecto de incentivar el uso permanente de las mismas y evitar riesgos de accidentes.
 
-## TITULO SEXTO. PRESERVACIÓN DEL MEDIO AMBIENTE
+## TÍTULO QUINTO. LICENCIAS Y PERMISOS PARA CONDUCIR Y REGISTRO ESTATAL
 
-### Capítulo I. Preservación del Medio Ambiente
+### Capítulo I. Licencias y Permisos para Conducir
 
-Cuidado del medio ambiente
+Obligación de portar la licencia o permiso
 
 ###### Artículo 100.
 
@@ -2431,21 +2533,17 @@ Escuelas de manejo
 
 La Secretaría de Seguridad y Paz podrá celebrar convenios con personas físicas o jurídicas colectivas, así como entidades públicas y privadas que cumplan con las características legales, técnicas y administrativas, para reconocerlas en la impartición de cursos de manejo a conductores de vehículos particulares con el objeto, en su caso, de establecer acciones coordinadas respecto de las pruebas o exámenes que deben realizarse para la obtención de la licencia o permiso de conducir conforme a lo establecido en esta ley y su reglamento.
 
-### Capítulo I. Disposiciones comunes a los servicios Público y Especial de Transporte
-
-> <small>(REFORMADO SU ACÁPITE, P.O. 3 DE JUNIO DE 2022)</small>
-
-Servicios de transporte
+### Capítulo II. Registro estatal de licencias y de infracciones
 
 ###### Artículo 113.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-## TÍTULO SÉPTIMO. SERVICIOS PÚBLICO Y ESPECIAL DE TRANSPORTE Y SERVICIO DE TRANSPORTE PRIVADO MEDIANTE PLATAFORMA TECNOLÓGICA
+## TITULO SEXTO. PRESERVACIÓN DEL MEDIO AMBIENTE
 
-### Capítulo II. Servicio Público de Transporte
+### Capítulo I. Preservación del Medio Ambiente
 
-Competencia en la prestación del servicio público
+Cuidado del medio ambiente
 
 ###### Artículo 114.
 
@@ -2489,11 +2587,13 @@ La autoridad estatal y municipal con base a la Ley de Cambio Climático para el 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2022)</small>
 
-## TÍTULO OCTAVO. REGISTRO ESTATAL DE CONCESIONES Y PERMISOS DEL TRANSPORTE
+## TÍTULO SÉPTIMO. SERVICIOS PÚBLICO Y ESPECIAL DE TRANSPORTE Y SERVICIO DE TRANSPORTE PRIVADO MEDIANTE PLATAFORMA TECNOLÓGICA
 
-### Capítulo III. Servicio Especial de Transporte
+### Capítulo I. Disposiciones comunes a los servicios Público y Especial de Transporte
 
-Servicio especial de transporte escolar
+> <small>(REFORMADO SU ACÁPITE, P.O. 3 DE JUNIO DE 2022)</small>
+
+Servicios de transporte
 
 ###### Artículo 121.
 
@@ -2731,9 +2831,9 @@ Representación de concesionarios y permisionarios
 
 Los concesionarios y permisionarios del servicio público y especial del transporte y sus servicios conexos podrán ser representados mediante poder otorgado en escritura pública en el que conste la facultad para actos de administración, mismo que deberá estar inscrito en el Registro Estatal de Concesiones y Permisos del Transporte o ante la autoridad municipal según corresponda.
 
-### Capítulo IV. Concesiones
+### Capítulo II. Servicio Público de Transporte
 
-Explotación de la concesión
+Competencia en la prestación del servicio público
 
 ###### Artículo 139.
 
@@ -3033,9 +3133,9 @@ Para la mejor operación del servicio en las zonas conurbadas, los municipios in
 
 En caso de controversia entre municipios, la unidad administrativa de transporte podrá actuar como instancia conciliadora en términos de la fracción VI bis del artículo 17 de esta Ley. En caso de no lograr un acuerdo o mecanismos de regulación entre las autoridades municipales involucradas, o bien en caso de incumplimiento a los acuerdos que al respecto se hayan celebrado, el Estado a través de la unidad administrativa de transporte, se hará cargo de la regulación del servicio conforme a lo establecido en este artículo.
 
-### Capítulo V. Permisos
+### Capítulo III. Servicio Especial de Transporte
 
-Clasificación de los permisos
+Servicio especial de transporte escolar
 
 ###### Artículo 166.
 
@@ -3121,79 +3221,9 @@ Optimización de vehículos
 
 Los vehículos destinados a la prestación del servicio especial de transporte podrán utilizarse para realizar otros servicios especiales de transporte, mediante la emisión de los permisos correspondientes, de conformidad con lo que establezca el reglamento de la Ley.
 
-### Capítulo V-A. Servicio de Transporte Privado mediante Plataforma Tecnológica
+### Capítulo IV. Concesiones
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
-
-Registro de vehículos del servicio de transporte privado
-
-Artículo 212 bis. Para el registro de vehículos destinados a la prestación del servicio de transporte privado, además de cumplir los requisitos señalados en el artículo 70 de la presente ley, los propietarios de los vehículos a registrar o cualquier persona a quien le otorguen carta poder deberán acompañar los documentos siguientes:
-
-I. Solicitud firmada por el propietario;
-
-II. Identificación oficial vigente del propietario del vehículo, así como en su caso, de los conductores;
-
-III. Acreditar la adhesión a la plataforma tecnológica mediante la cual se ofrecerá el servicio de transporte privado;
-
-IV. Licencia de conducir tipo A o B vigente del conductor;
-
-V. Constancia de conducción segura, emitida por los centros autorizados por la unidad administrativa de transporte para el conductor;
-
-VI. Tarjeta de circulación;
-
-VII. Revista físico mecánica aprobada y vigente, emitida por los centros autorizados por la unidad administrativa de transporte;
-
-VIII. Póliza de seguro expedida por aseguradoras autorizadas, la cual deberá atender las coberturas que para ello prevé esta Ley y su respectivo Reglamento;
-
-IX. Registro Federal de Contribuyentes y Registro Estatal de Contribuyentes expedidos a favor del propietario;
-
-X. Comprobante de pago anual del derecho por la emisión del código de respuesta rápida; y,
-
-XI. Convenio entre el propietario y los conductores del vehículo.
-
-Una vez cumplidos con los requisitos anteriores, la Unidad Administrativa de Transporte otorgará el código de respuesta rápida, el cual tendrá una vigencia anual conforme al ejercicio fiscal correspondiente.
-
-El procedimiento de registro se realizará de conformidad con el reglamento de la presente Ley.
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
-
-Artículo 212 ter. El registro se cancelará por la Unidad Administrativa de Transporte, por las siguientes causales:
-
-I. Acumular tres infracciones por la prestación del servicio en el término de un año por medios diversos a la plataforma; y,
-
-II. El propietario o conductor utilice el vehículo registrado en hechos que violenten el orden público o estén tipificados como delitos de carácter intencional.
-
-La cancelación de registro sólo podrá ser declarada por la Unidad Administrativa de Transporte, debiendo respetar la garantía de audiencia y debido proceso a la persona afectada, de acuerdo con el siguiente procedimiento:
-
-a) Levantará acta que dé constancia de la existencia de alguna de las causales de cancelación de registro;
-
-b) Notificación de acta a titular de registro;
-
-c) Otorgamiento de un plazo no menor a quince días hábiles al titular de registro para que aporte lo que a su derecho convenga.
-
-d) Abrir audiencia para desahogar pruebas y recibir alegatos.
-
-e) Emitir resolución en un término no mayor de 10 días hábiles a partir del cierre de período de instrucción.
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
-
-Obligaciones
-
-Artículo 212 quater. Los propietarios del vehículo del servicio de transporte privado y sus operadores, según corresponda, tendrán las obligaciones siguientes:
-
-I. Mantener vigentes los requisitos establecidos en el artículo 212 bis;
-
-II. Portar de manera visible en el vehículo el Código de Respuesta Rápida;
-
-III. Acreditar el uso de la plataforma registrada al momento de la inspección, verificación y vigilancia del servicio prestado;
-
-IV. Ofrecer el servicio con la utilización de la plataforma tecnológica;
-
-V. No utilizar elementos que obstruyan la visibilidad al interior del vehículo; y
-
-VI. Las demás que les establezca las disposiciones normativas aplicables correspondientes.
-
-En caso de que los prestadores del servicio de transporte privado no cumplan con las obligaciones a su cargo, se harán acreedores a las sanciones señaladas en la presente Ley, los reglamentos respectivos y demás disposiciones aplicables, sin perjuicio de la responsabilidad en que pudieran incurrir.
+Explotación de la concesión
 
 ###### Artículo 179.
 
@@ -3477,9 +3507,9 @@ VI. Por el rescate de la concesión; y
 
 VII. Por renuncia expresa y por escrito del titular de la concesión.
 
-### Capítulo VI. Servicios Conexos del Transporte
+### Capítulo V. Permisos
 
-Definición
+Clasificación de los permisos
 
 ###### Artículo 201.
 
@@ -3589,15 +3619,83 @@ Los permisionarios están obligados a cumplir todas y cada una de las condicione
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN , P.O. 3 DE JUNIO DE 2022)</small>
 
-### Capítulo VII. Tarifas
+### Capítulo V-A. Servicio de Transporte Privado mediante Plataforma Tecnológica
 
-Facultad de fijar la tarifa
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+Registro de vehículos del servicio de transporte privado
 
-### Capítulo VIII. Obligaciones de los Concesionarios y Permisionarios y Prohibiciones de los Operadores
+Artículo 212 bis. Para el registro de vehículos destinados a la prestación del servicio de transporte privado, además de cumplir los requisitos señalados en el artículo 70 de la presente ley, los propietarios de los vehículos a registrar o cualquier persona a quien le otorguen carta poder deberán acompañar los documentos siguientes:
+
+I. Solicitud firmada por el propietario;
+
+II. Identificación oficial vigente del propietario del vehículo, así como en su caso, de los conductores;
+
+III. Acreditar la adhesión a la plataforma tecnológica mediante la cual se ofrecerá el servicio de transporte privado;
+
+IV. Licencia de conducir tipo A o B vigente del conductor;
+
+V. Constancia de conducción segura, emitida por los centros autorizados por la unidad administrativa de transporte para el conductor;
+
+VI. Tarjeta de circulación;
+
+VII. Revista físico mecánica aprobada y vigente, emitida por los centros autorizados por la unidad administrativa de transporte;
+
+VIII. Póliza de seguro expedida por aseguradoras autorizadas, la cual deberá atender las coberturas que para ello prevé esta Ley y su respectivo Reglamento;
+
+IX. Registro Federal de Contribuyentes y Registro Estatal de Contribuyentes expedidos a favor del propietario;
+
+X. Comprobante de pago anual del derecho por la emisión del código de respuesta rápida; y,
+
+XI. Convenio entre el propietario y los conductores del vehículo.
+
+Una vez cumplidos con los requisitos anteriores, la Unidad Administrativa de Transporte otorgará el código de respuesta rápida, el cual tendrá una vigencia anual conforme al ejercicio fiscal correspondiente.
+
+El procedimiento de registro se realizará de conformidad con el reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Artículo 212 ter. El registro se cancelará por la Unidad Administrativa de Transporte, por las siguientes causales:
+
+I. Acumular tres infracciones por la prestación del servicio en el término de un año por medios diversos a la plataforma; y,
+
+II. El propietario o conductor utilice el vehículo registrado en hechos que violenten el orden público o estén tipificados como delitos de carácter intencional.
+
+La cancelación de registro sólo podrá ser declarada por la Unidad Administrativa de Transporte, debiendo respetar la garantía de audiencia y debido proceso a la persona afectada, de acuerdo con el siguiente procedimiento:
+
+a) Levantará acta que dé constancia de la existencia de alguna de las causales de cancelación de registro;
+
+b) Notificación de acta a titular de registro;
+
+c) Otorgamiento de un plazo no menor a quince días hábiles al titular de registro para que aporte lo que a su derecho convenga.
+
+d) Abrir audiencia para desahogar pruebas y recibir alegatos.
+
+e) Emitir resolución en un término no mayor de 10 días hábiles a partir del cierre de período de instrucción.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
 
 Obligaciones
+
+Artículo 212 quater. Los propietarios del vehículo del servicio de transporte privado y sus operadores, según corresponda, tendrán las obligaciones siguientes:
+
+I. Mantener vigentes los requisitos establecidos en el artículo 212 bis;
+
+II. Portar de manera visible en el vehículo el Código de Respuesta Rápida;
+
+III. Acreditar el uso de la plataforma registrada al momento de la inspección, verificación y vigilancia del servicio prestado;
+
+IV. Ofrecer el servicio con la utilización de la plataforma tecnológica;
+
+V. No utilizar elementos que obstruyan la visibilidad al interior del vehículo; y
+
+VI. Las demás que les establezca las disposiciones normativas aplicables correspondientes.
+
+En caso de que los prestadores del servicio de transporte privado no cumplan con las obligaciones a su cargo, se harán acreedores a las sanciones señaladas en la presente Ley, los reglamentos respectivos y demás disposiciones aplicables, sin perjuicio de la responsabilidad en que pudieran incurrir.
+
+### Capítulo VI. Servicios Conexos del Transporte
+
+Definición
 
 ###### Artículo 213.
 
@@ -3767,11 +3865,11 @@ Infraestructura del Transporte
 
 Además de los servicios conexos regulados en el presente capítulo, la Secretaría o la autoridad municipal en el ámbito de sus competencias o de forma coordinada, podrán establecer regulación específica para los servicios, actividades e instalaciones vinculadas con la infraestructura necesaria o vinculada a la prestación de las diferentes modalidades de los servicios público y especial de transporte, ya sea que se ejecuten de manera directa por los concesionarios y permisionarios o por un tercero.
 
-### Capítulo IX. Medicina del Transporte
+### Capítulo VII. Tarifas
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+Facultad de fijar la tarifa
 
-Medicina del Transporte
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 228.
 
@@ -3849,9 +3947,9 @@ Tarifa provisional
 
 A efecto de mantener la operatividad de los servicios públicos de transporte la unidad administrativa de transporte podrá, en su caso, establecer tarifas provisionales a dichos servicios brindando certeza a los usuarios y prestadores, de conformidad con los análisis técnicos de que disponga.
 
-### Capítulo X. Inspección
+### Capítulo VIII. Obligaciones de los Concesionarios y Permisionarios y Prohibiciones de los Operadores
 
-Inspección y consecuencias
+Obligaciones
 
 ###### Artículo 236.
 
@@ -3949,11 +4047,11 @@ II. Control y registro vehicular y revisión físico-mecánica y de emisiones; y
 
 III. Capacitación, control y registro de operadores.
 
-### Capítulo XI. Infraestructura del Servicio Público de Transporte
+### Capítulo IX. Medicina del Transporte
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Infraestructura
+Medicina del Transporte
 
 ###### Artículo 238.
 
@@ -3967,11 +4065,9 @@ Aplicación de exámenes para los operadores
 
 Los operadores de los vehículos de los servicios público y especial de transporte estarán obligados a someterse, cuando así lo determinen la unidad administrativa de transporte y los ayuntamientos, en la esfera de su competencia, a los exámenes psicofísicos, teóricos, prácticos, o médicos, así como a la aplicación de pruebas para la detección de la ingesta de bebidas alcohólicas, sustancias psicotrópicas, estupefacientes, incluyendo medicamentos con este efecto, y de todos aquellos fármacos que, con evidencia médica, alteren o puedan alterar la capacidad para el desarrollo de sus actividades, a efecto de corroborar que se encuentran en aptitud para la adecuada prestación del servicio.
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo X. Inspección
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-Objeto del registro
+Inspección y consecuencias
 
 ###### Artículo 240.
 
@@ -3979,9 +4075,11 @@ Los servicios público y especial de transporte serán sometidos a la inspecció
 
 En su caso, la suspensión será definitiva cuando el permisionario o concesionario se niegue a acatar la sanción, cuando a pesar de esta circule de nuevo, y cuando de forma reiterada no supere las inspecciones vehiculares.
 
-### Capítulo Único. Sanciones
+### Capítulo XI. Infraestructura del Servicio Público de Transporte
 
-Facultad para sancionar
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Infraestructura
 
 ###### Artículo 241.
 
@@ -3995,11 +4093,13 @@ Infraestructura
 
 El Estado y los municipios, en sus respectivos ámbitos de competencia, podrán otorgar inmuebles en arrendamiento o comodato para destinarlos a la instalación de patios de encierro, estaciones y terminales de pasajeros, paraderos, estaciones intermodales, carriles confinados y demás infraestructura que requiera para la prestación del servicio público de transporte, los cuales serán considerados de utilidad pública, a fin de promover el uso de los sistemas de transporte, desincentivar el uso de los vehículos particulares y fomentar una política de movilidad urbana.
 
-## TÍTULO NOVENO. SANCIONES
+## TÍTULO OCTAVO. REGISTRO ESTATAL DE CONCESIONES Y PERMISOS DEL TRANSPORTE
 
-### Capítulo Único. Quejas y Denuncias, Medios de Defensa y Responsabilidades
+### Capítulo Único. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Objeto del registro
 
 ###### Artículo 243.
 
@@ -4065,9 +4165,11 @@ Mecanismos de registro
 
 El Registro Estatal de Concesiones y Permisos del Transporte establecerá los mecanismos documentales, técnicos, tecnológicos y de control para el registro de los datos y la emisión de las constancias y certificaciones, así como para el resguardo de los documentos e información a que se refiere el presente Título.
 
-## TÍTULO DÉCIMO. DISPOSICIONES COMPLEMENTARIAS
+## TÍTULO NOVENO. SANCIONES
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2024)</small>
+### Capítulo Único. Sanciones
+
+Facultad para sancionar
 
 ###### Artículo 248.
 
@@ -4323,6 +4425,14 @@ Limitación de circulación
 
 Las autoridades competentes deberán impedir en todo momento el tránsito de los vehículos que no reúnan los requisitos legales o que representen un grave peligro para la seguridad de sus ocupantes y de los demás vehículos y peatones, así como aquellos que por sus condiciones particulares puedan ocasionar daños a las vías públicas del Estado o de los municipios.
 
+## TÍTULO DÉCIMO. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2024)</small>
+
+### Capítulo Único. Quejas y Denuncias, Medios de Defensa y Responsabilidades
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 272.
 
 Las autoridades en materia de transporte establecerán y facilitarán los medios, mecanismos y procedimientos para la presentación de quejas, denuncias, reclamaciones o sugerencias cuando los concesionarios, permisionarios, prestadores de los servicios conexos y prestadores del servicio de transporte privado incumplan con las disposiciones que señala la presente Ley y los reglamentos que deriven de ella, sin perjuicio de la responsabilidad en que se incurra.
@@ -4334,6 +4444,10 @@ Recurso de inconformidad
 ###### Artículo 273.
 
 Los actos y resoluciones dictados por las autoridades estatales y municipales con motivo de la aplicación de esta Ley y su reglamento, podrán impugnarse mediante lo previsto en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+El medio de impugnación referido en el párrafo anterior no será aplicable para los actos y resoluciones que emita el SATEG en el ejercicio de las atribuciones conferidas en la presente Ley y su reglamento, los cuales, se podrán impugnar en términos de las disposiciones fiscales.
 
 Responsabilidad de los servidores públicos
 
@@ -4724,3 +4838,39 @@ Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así
 Referencias
 
 Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 76 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS; Y SE REFORMA EL ARTÍCULO 102, FRACCIÓN I DEL CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Creación del Padrón de Control de Motocicletas
+
+Artículo Segundo. El SATEG dentro de los 90 días hábiles posteriores a la entrada en vigor del presente Decreto a través de la unidad competente en materia de tecnologías de la información y telecomunicaciones de la Secretaría de Finanzas, establecerá el portal informático que contenga el Padrón de Control Estatal de Motocicletas, el cual será diseñado atendiendo a lo establecido en los artículos del presente Decreto.
+
+Procedimientos, mecanismos y disposiciones generales
+
+Artículo Tercero. El SATEG dentro de los 90 días hábiles posteriores a la entrada en vigor del presente Decreto, emitirá las disposiciones de carácter general que establezcan los plazos y procedimientos para su cumplimiento.
+
+Adecuación normativa
+
+Artículo Cuarto. Las autoridades estatales y municipales contarán con el término de 90 días hábiles posteriores a la entrada en vigor del presente Decreto para hacer las adecuaciones normativas o reglamentarias correspondientes.
+
+Además, dentro del mismo plazo, las autoridades aludidas en el presente artículo proporcionarán al SATEG la información que en el ámbito de sus respectivas atribuciones den cumplimiento a lo dispuesto en el presente Decreto.
+
+Plazo para la integración del Padrón de Motocicletas
+
+Artículo Quinto. El SATEG dentro de los 120 días hábiles posteriores a la entrada en vigor del presente Decreto, integrará el Padrón de Control Estatal de Motocicletas con los registros de los vehículos tipo motocicleta que se encuentran contenidos en el Padrón Vehicular Estatal.
+
+Inscripción en el padrón de comerciantes en el ramo de vehículos tipo motocicleta
+
+Artículo Sexto. Los comerciantes en el ramo de vehículos tipo motocicletas que hayan iniciado sus operaciones de manera previa a la entrada en vigor del presente Decreto contarán con 45 días hábiles posteriores al término del plazo señalado en el artículo segundo transitorio, para llevar a cabo su registro ante el SATEG en el Padrón de Comerciantes en el ramo de vehículos tipo motocicleta, en los términos de las disposiciones de carácter general que para tal efecto emita el SATEG.
+
+Los comerciantes en el ramo de vehículos tipo motocicletas que hayan iniciado sus operaciones de manera previa a la entrada en vigor del presente Decreto, deberán presentar el aviso de las enajenaciones de motocicletas nuevas que realicen A partir de que lleven a cabo la inscripción señalada en el párrafo que antecede.
+
+Referencias
+
+Artículo Séptimo. Las referencias que se encuentren hechas a la Secretaría de Finanzas en la presente Ley, diversas a las contenidas en este Decreto, se entenderán hechas al SATEG cuando se trate de atribuciones vinculadas a las establecidas en el artículo 18 de la misma.
