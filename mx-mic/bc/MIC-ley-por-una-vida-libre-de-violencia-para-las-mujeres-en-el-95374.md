@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2025-03-08"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -211,7 +211,9 @@ VII. Las normativas o procesales que permitan el acceso a la justicia, mediante 
 
 VIII. Los mecanismos públicos que eviten la violencia contra las mujeres por razones de género en las instituciones, incluyendo la evaluación anual de la política pública y de los servicios institucionales que se presten a las mujeres, independientemente del sector de que se trate;
 
-IX. La capacitación de su personal en las materias de no discriminación y violencia contra las mujeres por razones de género con la finalidad de evitarlas;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+IX. La capacitación de su personal en las materias de no discriminación y violencia contra las mujeres por razones de género con la finalidad de evitarlas, así como en nuevas masculinidades;
 
 X. La promoción de mecanismos para garantizar la participación de las mujeres tales como las elecciones, los plebiscitos, los referendos públicos y ser elegibles para todos los organismos cuyos miembros sean objeto de elecciones públicas;
 
@@ -925,6 +927,10 @@ XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadan
 
 XIV. Realizar campañas de prevención, sensibilización y capacitación sobre la violencia contra las mujeres en el transporte público.
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XV. Implementar programas de formación y capacitación en materia de nuevas masculinidades para las personas servidoras públicas.
+
 ###### ARTÍCULO 41.
 
 El Programa Estatal se diseñará con base en la perspectiva de género, en el Programa Nacional, en los términos que establece la Ley de Planeación del Estado de Michoacán, debiendo incluir:
@@ -1538,3 +1544,15 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a (sic) establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 187 POR EL QUE “SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 7, SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 40 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, a través de las dependencias competentes, deberá diseñar, implementar, evaluar y dar seguimiento a los programas de capacitación y a las políticas públicas en materia de nuevas masculinidades previstas en el presente Decreto, en un plazo no mayor a ciento ochenta días naturales, contados a partir de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Para tal efecto, podrá coordinarse y auxiliarse de instituciones académicas, organismos autónomos, organizaciones de la sociedad civil y personas expertas en la materia, a fin de garantizar la imparcialidad, neutralidad y apego al rígor técnico y científico en el diseño de los contenidos.
+
+TERCERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
