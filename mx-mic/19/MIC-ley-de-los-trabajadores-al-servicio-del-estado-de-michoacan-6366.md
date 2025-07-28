@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2025-03-08"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -403,9 +403,9 @@ d) Asistencia médica y medicinas para los familiares del trabajador en los tér
 
 Incurrirán en faltas administrativas graves los servidores públicos que no enteren las aportaciones de seguridad social independientemente de las sanciones civiles y penales que le correspondan de conformidad con las leyes de la materia, las cuales serán sancionadas en términos de la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo y de la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-VI. Impartir cursos de capacitación y adiestramiento para el trabajo, así como de sensibilización para el respeto a los derechos humanos de los ciudadanos, especialmente en los temas de discapacidad, asuntos indígenas, cultura de la igualdad y la no discriminación, así como el respeto a la equidad de género y la preferencia sexual conforme la orientación sexual e identidad de género;
+VI. Impartir cursos de capacitación y adiestramiento para el trabajo, así como de sensibilización para el respeto a los derechos humanos de los ciudadanos, especialmente en los temas de discapacidad, asuntos indígenas, cultura de la igualdad y la no discriminación, nuevas masculinidades, así como el respeto a la igualdad de género y la preferencia sexual conforme la orientación sexual e identidad de género;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2024)</small>
 
@@ -1422,3 +1422,15 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a (sic) establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 187 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 35 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, a través de las dependencias competentes, deberá diseñar, implementar, evaluar y dar seguimiento a los programas de capacitación y a las políticas públicas en materia de nuevas masculinidades previstas en el presente Decreto, en un plazo no mayor a ciento ochenta días naturales, contados a partir de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Para tal efecto, podrá coordinarse y auxiliarse de instituciones académicas, organismos autónomos, organizaciones de la sociedad civil y personas expertas en la materia, a fin de garantizar la imparcialidad, neutralidad y apego al rigor técnico y científico en el diseño de los contenidos.
+
+TERCERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
