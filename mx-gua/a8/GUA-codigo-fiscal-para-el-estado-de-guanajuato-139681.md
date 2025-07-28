@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-139681"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-30"
-last_updated: "2023-12-30"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Código publicado en la Novena Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -2247,7 +2247,9 @@ Los servidores públicos que tengan conocimiento o intervengan en las investigac
 
 La reserva a que se refiere el párrafo anterior no será aplicable tratándose de los siguientes supuestos:
 
-I. Tratándose de investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+I. Tratándose de investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal y, en el artículo 213-a del Código Penal del Estado de Guanajuato;
 
 II. En los casos que señalen las leyes fiscales o cuando en las leyes de manera expresa, se señale la ineficacia de la oposición del secreto fiscal;
 
@@ -4316,3 +4318,39 @@ P.O. 30 DE DICIEMBRE DE 2023.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 76 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS; Y SE REFORMA EL ARTÍCULO 102, FRACCIÓN I DEL CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Creación del Padrón de Control de Motocicletas
+
+Artículo Segundo. El SATEG dentro de los 90 días hábiles posteriores a la entrada en vigor del presente Decreto a través de la unidad competente en materia de tecnologías de la información y telecomunicaciones de la Secretaría de Finanzas, establecerá el portal informático que contenga el Padrón de Control Estatal de Motocicletas, el cual será diseñado atendiendo a lo establecido en los artículos del presente Decreto.
+
+Procedimientos, mecanismos y disposiciones generales
+
+Artículo Tercero. El SATEG dentro de los 90 días hábiles posteriores a la entrada en vigor del presente Decreto, emitirá las disposiciones de carácter general que establezcan los plazos y procedimientos para su cumplimiento.
+
+Adecuación normativa
+
+Artículo Cuarto. Las autoridades estatales y municipales contarán con el término de 90 días hábiles posteriores a la entrada en vigor del presente Decreto para hacer las adecuaciones normativas o reglamentarias correspondientes.
+
+Además, dentro del mismo plazo, las autoridades aludidas en el presente artículo proporcionarán al SATEG la información que en el ámbito de sus respectivas atribuciones den cumplimiento a lo dispuesto en el presente Decreto.
+
+Plazo para la integración del Padrón de Motocicletas
+
+Artículo Quinto. El SATEG dentro de los 120 días hábiles posteriores a la entrada en vigor del presente Decreto, integrará el Padrón de Control Estatal de Motocicletas con los registros de los vehículos tipo motocicleta que se encuentran contenidos en el Padrón Vehicular Estatal.
+
+Inscripción en el padrón de comerciantes en el ramo de vehículos tipo motocicleta
+
+Artículo Sexto. Los comerciantes en el ramo de vehículos tipo motocicletas que hayan iniciado sus operaciones de manera previa a la entrada en vigor del presente Decreto contarán con 45 días hábiles posteriores al término del plazo señalado en el artículo segundo transitorio, para llevar a cabo su registro ante el SATEG en el Padrón de Comerciantes en el ramo de vehículos tipo motocicleta, en los términos de las disposiciones de carácter general que para tal efecto emita el SATEG.
+
+Los comerciantes en el ramo de vehículos tipo motocicletas que hayan iniciado sus operaciones de manera previa a la entrada en vigor del presente Decreto, deberán presentar el aviso de las enajenaciones de motocicletas nuevas que realicen A partir de que lleven a cabo la inscripción señalada en el párrafo que antecede.
+
+Referencias
+
+Artículo Séptimo. Las referencias que se encuentren hechas a la Secretaría de Finanzas en la presente Ley, diversas a las contenidas en este Decreto, se entenderán hechas al SATEG cuando se trate de atribuciones vinculadas a las establecidas en el artículo 18 de la misma.
