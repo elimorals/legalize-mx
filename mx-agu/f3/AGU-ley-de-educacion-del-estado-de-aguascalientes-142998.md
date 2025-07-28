@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2025-06-02"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -1417,11 +1417,19 @@ La Autoridad Educativa Estatal, de acuerdo con la suficiencia presupuestal, impu
 
 En la impartición de educación para menores de dieciocho años se tomará medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2025)</small>
+
+La Autoridad Educativa Estatal fomentará y regulará el uso responsable de los dispositivos digitales en los planteles educativos que impartan educación básica y media superior, a fin de garantizar entornos educativos seguros, saludables y propicios para el bienestar y el desarrollo integral de niñas, niños y adolescentes, en instituciones educativas, públicas y particulares, privilegiando el acceso seguro y el manejo para fines educativos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE JULIO DE 2025)</small>
+
 Los docentes y el personal que labora en los planteles de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE JULIO DE 2025)</small>
 
 En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente, para lo cual la Autoridad Educativa Estatal promoverá capacitaciones y talleres a efecto que los trabajadores al servicio de la educación en el Estado, cuenten con los conocimientos necesarios para llevar a cabo los protocolos de actuación para realizar las denuncias correspondientes.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 28 DE JULIO DE 2025)</small>
 
 Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres, padres de familia, tutores o de quien ejerza la patria potestad, las autoridades escolares de las escuelas públicas y privadas del tipo básico informarán a la Autoridad Educativa Estatal, la cual emitirá una alerta temprana y será remitida a las Autoridades Correspondientes.
 
@@ -2584,3 +2592,15 @@ P.O. 2 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 238.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Autoridad Educativa del Estado, en uso de las facultades que le confiere el Reglamento Interior del Instituto de Educación de Aguascalientes y, considerando lo dispuesto por los artículos 1°., 2°., 3°., 5°., 6°., 10, 13 y demás relativos y aplicables de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes en un término de 90 días naturales elaborará, publicará y ordenará la entrada en vigor de un PROTOCOLO que regule el uso responsable de celulares y aparatos tecnológicos dentro de las instituciones de educación básica en el Estado.
