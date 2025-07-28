@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2024-06-07"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -292,6 +292,18 @@ XII.- Apoyar la coordinación entre las instituciones de salud y educativas del 
 XIII.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
 XIV.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XIV Bis.- Promover e impulsar programas y campañas de información sobre hábitos alimentarios saludables, una adecuada nutrición y la actividad física para prevenir todos los tipos de mala nutrición;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XIV Ter.- Promover y fomentar iniciativas integrales que promuevan la concientización y la adopción de hábitos alimentarios saludables y de calidad;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XIV Quáter.- Proporcionar información sobre lactancia materna y evitar el consumo de productos ultraprocesados;
 
 XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
 
@@ -1425,7 +1437,9 @@ La promoción de la salud comprende:
 
 I.- Educación para la salud;
 
-II.- Nutrición;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+II.- Alimentación correcta o saludable, sostenible y culturalmente pertinente, así como actividad física y nutrición;
 
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
@@ -1459,9 +1473,13 @@ I.- Fomentar en la población el desarrollo de estilo de vida saludables (sic) y
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-III.- Orientar y capacitar a la población en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, lactancia materna, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades; y
+III.- Orientar y capacitar a la población en materia de alimentación correcta o saludable, sostenible y culturalmente pertinente, así como actividad física y nutrición para la salud; salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, lactancia materna, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+III Bis. Impulsar campañas de información sobre alimentación correcta o saludable, sostenible y culturalmente pertinente, así como actividad física y nutrición para la salud;
 
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
@@ -1475,15 +1493,23 @@ V.- Brindar información a los profesionales, técnicos, auxiliares para la salu
 
 VI.- Aprovechar todos los instrumentos y herramientas digitales para generar una cultura de salud, basada en información certera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2007)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 28 DE JULIO DE 2025, PAGINAS DE LA 12 A LA 13.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 101.
 
-La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, entre otros, aquellos orientados a la alimentación correcta o saludable, sostenible y culturalmente pertinente, así como a la actividad física y nutrición.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-La Secretaría de Salud formulará un programa para la salud destinado a la población escolar en todos los niveles educativos, a efecto de combatir la obesidad y el sobrepeso, el cual incluirá entre otras acciones, la medición de la masa corporal, el fomento de una dieta correcta, regular la venta de alimentos no saludables y el fortalecimiento de una adecuada activación física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Los casos detectados de mala nutrición serán atendidos conforme a la normativa, guías de práctica clínica y lineamientos correspondientes.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
+
+La Secretaría de Salud formulará un programa para la salud destinado a la población escolar en todos los niveles educativos, a efecto de evaluar las condiciones individuales de alimentación correcta o saludable, sostenible y culturalmente pertinente, así como combatir la obesidad y el sobrepeso, el cual incluirá entre otras acciones, la medición de la masa corporal, el fomento de una dieta correcta, regular la venta de alimentos no saludables y el fortalecimiento de una adecuada actividad física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
 
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
 
@@ -1492,6 +1518,10 @@ La Secretaría de Salud formulará un programa para la prevención permanente de
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE OCTUBRE DE 2017)</small>
 
 La Secretaría de Salud en coordinación con la Secretaría de Gobierno, el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la Procuraduría de los Derechos Humanos del Estado de Guanajuato y el Instituto para las Mujeres Guanajuatenses, formulará e implementará un Programa Estatal de Lactancia Materna, el cual tendrá como objeto proteger, promover y apoyar la práctica de la lactancia materna como alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de vida, a través de políticas públicas.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+La Secretaría de Salud impulsará acciones de promoción para acercar de manera proactiva intervenciones de educación para la salud y fomentar estilos de vida saludables a la población.
 
 ### CAPITULO III. Nutrición
 
@@ -1521,11 +1551,23 @@ IV.- Promover investigaciones químicas, biológicas, sociales y económicas, en
 
 V.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos para la población en general y proveer en la esfera de su competencia a dicho consumo.
 
-> <small>N. DE E. EN RELACIÓN CON EL ARTÍCULO CUARTO TRANSITORIO, LA SECRETARÍA DE SALUD DEL ESTADO DE GUANAJUATO EN EL ÁMBITO DE SU COMPETENCIA, DEBERÁ PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+VI.- En coordinación con la Secretaría de Educación del Estado de Guanajuato impartirá, por profesionales de la nutrición, en los meses de enero y septiembre de cada año, pláticas o cursos de capacitación dirigidos a los padres de familia sobre alimentación correcta o saludable, sostenible y culturalmente pertinente, así como de actividad física y nutrición; y
 
-VI.- En coordinación con la Secretaria de Educación del Estado de Guanajuato impartirá, en los meses de enero y septiembre de cada año, pláticas o cursos de capacitación dirigidos a los padres de familia sobre la preparación adecuada de alimentos balanceados y con mayores contenidos nutrimentales, por personal capacitado de la Secretaria de Salud y con la especialidad correspondiente, con la finalidad de implementar hábitos, prácticas y una cultura de alimentación sana, en beneficio de los educandos.
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+VII.- Difundir e impulsar en los entornos familiar, escolar, laboral y comunitario la alimentación correcta o saludable, sostenible y culturalmente pertinente, así como actividad física y nutrición.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+ARTICULO 103 TER.- A los padres, tutores y a quienes corresponda la guarda y custodia de niñas, niños y adolescentes, les corresponde:
+
+I. Promover hábitos saludables en las niñas, niños y adolescentes que estén bajo su cuidado a través del ejemplo y la disponibilidad de alimentos saludables en los diversos entornos en donde se desarrollen;
+
+II. Brindar y propiciar una dieta correcta a niñas, niños y adolescentes, así como incorporar la práctica regular de actividad física en su rutina; y
+
+III. Solicitar a las instituciones de salud atención integral para la prevención, el diagnóstico, tratamiento y seguimiento de las diversas formas de la mala nutrición de las personas menores que estén sujetas bajo su cuidado, y acudir con oportunidad a las citas de control correspondientes.
 
 ### CAPITULO IV. Efectos del Ambiente en la Salud
 
@@ -3760,3 +3802,11 @@ P.O. 7 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 308 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 129 TER A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 74 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las autoridades destinarán los recursos que exija la presente reforma, de manera progresiva y de conformidad con la disponibilidad presupuestaria, a fin de dar cumplimiento a las disposiciones del presente decreto.
