@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2025-06-16"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2947,6 +2947,12 @@ La imposición de la pena prevista en este artículo no excluirá la aplicación
 
 El presente delito se perseguirá por noticia criminal, sin necesidad de querella o denuncia previa.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+ARTÍCULO 178 F.- Difusión de mensajes de grupos criminales. Comete el delito de difusión de mensajes de grupos criminales quien, por sí o por interpósita persona, elabore, coloque, difunda o exhiba en espacios públicos o privados visibles al público, mensajes, mantas, cartulinas, pancartas o cualquier otro medio de comunicación en el que se promueva, amenace o se atribuyan hechos delictivos en nombre de grupos delictivos organizados, con la finalidad de generar intimidación, alterar la paz pública o influir en decisiones de autoridades o particulares.
+
+A quien cometa el delito de difusión de mensajes de grupos criminales se le impondrá una pena de 1 a 4 años de prisión y de 500 a 1,500 días multa.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ### CAPÍTULO XII. Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona
@@ -3243,15 +3249,13 @@ V. Generar o causar por cualquier medio o forma, alteraciones, destrucción, da�
 
 VI. Causar la muerte o lesiones que afecten la salud de animales domésticos, sin justificación o autorización legal. Para los efectos de la presente Fracción, los animales domésticos serán aquellos que habiten con un ser humano con la finalidad de convivir y dependan de éste para subsistir, así como los que deambulen libremente por la vía pública sin que habiten con un ser humano.
 
-(NOTA: EL 21 DE ABRIL DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 132/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE MAYO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 670, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 24 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 94/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 29 DE JULIO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 239, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
 
-Al responsable de Atentados al Equilibrio Ecológico Dolosos previstos en las fracciones I a la V se le aplicarán de 1 a 10 años de prisión y de 20 a 200 días multa, reparación total de los danos (sic) y perjuicios causados Y SUSPENSIÓN E INHABILITACIÓN DE DERECHOS, FUNCIONES, CARGOS, COMISIONES, EMPLEOS O PROFESIONES DE 6 MESES A 2 AÑOS.
+Al responsable de Atentados al Equilibrio Ecológico se le aplicarán de 1 a 10 años de prisión y de 500 a 2000 días multa, reparación total de los daños y perjuicios causados Y SUSPENSIÓN E INHABILITACIÓN DE DERECHOS, FUNCIONES, CARGOS, COMISIONES, EMPLEOS O PROFESIONES DE 6 MESES A 3 AÑOS.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
-
-Al responsable de Atentados al Equilibrio Ecológico Doloso previsto en la Fracción VI, se le impondrá de 1 a 3 meses de prisión, de 10 a 50 días multa, el pago de la reparación de daños y perjuicios ocasionados así como de 1 a 6 meses de inhabilitación para poder realizar cualquier actividad relacionada con la salud, cuidado, resguardo o comercio de animales. Si esta conducta la perpetra una persona que realice cualquier actividad relacionada con la salud, cuidado, resguardo o comercio de animales, también se le aplicará de 1 a 6 meses de suspensión de su cargo, función, empleo, comisión o profesión.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE JULIO DE 2025)</small>
 
 > <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
 
@@ -4506,3 +4510,19 @@ P.O. 16 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 234.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 239.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
