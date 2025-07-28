@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2025-03-10"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -669,21 +669,65 @@ VIII. El diagnóstico oportuno y atención temprana de la displasia en el desarr
 
 La prestación de servicios de atención a la salud materno-infantil tendrán carácter prioritario, comprendiendo la atención integral, prevención y detección de enfermedades hereditarias y congénitas a través de las pruebas neonatales, y la vigilancia de los derechos humanos de la mujer y su hijo o hija durante el embarazo, parto, puerperio, crecimiento, desarrollo e integración del bienestar familiar.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
 
 ARTÍCULO 17 C. Las mujeres embarazadas y madres en periodos de embarazo, parto, posparto, puerperio y lactancia, tienen derecho a lo siguiente:
 
-a) Acceso de forma gratuita a servicios de salud materna;
+I. Recibir un trato digno y respetuoso, así como acceso gratuito, adecuado y oportuno a servicios de salud médica materna;
 
-b) En el caso de mujeres embarazadas a las que haya sido diagnosticado síndrome de inmunodeficiencia adquirida, contarán con atención especializada a efecto de garantizar su salud y la del niño o niña en gestación;
+II. Recibir atención médica de urgencia;
 
-c) Tratándose de partos prematuros, enfermedades prenatales, perinatales o postnatales de madres que no cuenten con ningún tipo de seguridad social, la Secretaría llevará a cabo acciones que garanticen atención médica y quirúrgica especializada bajo los más altos estándares de calidad en el servicio de la salud;
+III. Expresar en todo momento sus dudas, emociones, necesidades y expectativas durante el embarazo y posterior a este;
 
-d) Decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día de una hora, para amamantar a sus hijos o para realizar la extracción manual de leche;
+IV. Recibir tanto ella, como su pareja, acompañante y/o familiar, la información suficiente, clara, oportuna y veraz, en un lenguaje sencillo y comprensible, sobre la atención y procedimientos que se vayan a realizar;
 
-e) Ejercer la lactancia plenamente en cualquier lugar, incluido su centro de trabajo ya sea público o privado, en las mejores condiciones; y,
+V. Recibir gratuitamente ácido fólico, fumarato ferroso y otros suplementos alimenticios que coadyuven a su embarazo saludable;
 
-f) Recibir educación e información oportuna, veraz y comprensible sobre los beneficios de la lactancia materna, las técnicas adecuadas para el amamantamiento y las posibles dificultades con sus respectivos medios de solución.
+VI. En el caso de mujeres embarazadas a las que haya sido diagnosticado síndrome de inmunodeficiencia adquirida, contarán con atención especializada a efecto de garantizar su salud y la del niño o niña en gestación;
+
+VII. Las mujeres sin acceso a seguridad social que enfrenten partos prematuros o enfermedades prenatales, perinatales o postnatales, tienen derecho a recibir atención médica y quirúrgica especializada, garantizada por la Secretaría, bajo los más altos estándares de calidad, seguridad y dignidad en el servicio de salud;
+
+VIII. En su jornada laboral, decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día de una hora, para amamantar a sus hijos o para realizar la extracción manual de leche, conforme a lo dispuesto a la Ley Federal del Trabajo y la demás normativa estatal vigente aplicable;
+
+IX. Ejercer la lactancia plenamente en cualquier lugar, incluido su centro de trabajo ya sea público o privado, en las mejores condiciones para lo cual se deberá fomentar la instalación de lactarios o salas de lactancia, conforme lo dispuesto a la legislación aplicable;
+
+X. Recibir información oportuna, veraz y comprensible sobre los beneficios de la lactancia materna, las técnicas adecuadas para el amamantamiento y las posibles dificultades con sus respectivos medios de solución;
+
+XI. Ser respetada en su privacidad y en la confidencialidad de su información personal y médica durante todo su embarazo;
+
+XII. Participar libre y plenamente en las decisiones sobre su atención médica, incluyendo el otorgamiento del consentimiento informado, y acceder, si así lo decide, a una segunda opinión institucional en condiciones de oportunidad, accesibilidad y sin represalias;
+
+XIII. Tener contacto físico inmediato piel a piel con su recién nacido, como parte del proceso de atención postnatal, salvo que existan razones médicas justificadas que lo impidan, conforme a lo determinado por el personal de salud;
+
+XIV. Decidir libremente el espaciamiento entre sus embarazos y el método de planificación familiar a utilizar, con base en información suficiente, accesible y comprensible. Esta decisión podrá ejercerse de manera individual o en corresponsabilidad con su pareja, cuando medie acuerdo entre ambas partes;
+
+XV. Ejercer los derechos laborales vinculados con la maternidad y la paternidad, incluidos la incapacidad por maternidad y el permiso de paternidad, conforme a lo establecido en la Ley Federal del Trabajo y demás disposiciones aplicables.
+
+Las autoridades de salud, en el ámbito de sus competencias, deberán coordinarse con las autoridades laborales correspondientes para promover el ejercicio efectivo de estos derechos, y garantizar que las personas usuarias reciban orientación e información adecuada sobre los mismos en los servicios de salud;
+
+XVI. Ejercer su derecho humano a la información, de forma completa, accesible y comprensible, sobre el proceso de adopción y las instituciones de apoyo correspondientes, conforme a la legislación vigente. Esta información podrá ser solicitada de manera individual o conjunta con la pareja, según lo decida la mujer, y deberá ser proporcionada sin coerción, compensación ni presión alguna, permitiendo una decisión informada, libre y voluntaria.
+
+Las mujeres tendrán derecho a decidir sobre el futuro de su hijo o hija en situaciones en las que no puedan o no deseen asumir su crianza, y podrán optar por el procedimiento de adopción conforme a la normatividad aplicable, con pleno acceso a la información sobre las opciones disponibles, los derechos de las niñas y niños, y las instituciones competentes;
+
+XVII. Recibir, de manera gratuita y a petición personal, atención psicológica especializada en caso de manifestar depresión postparto o cualquier otra condición que afecte su salud mental, incluyendo aquellas derivadas de la interrupción del embarazo, sin importar su causa.
+
+Esta atención deberá brindarse sin discriminación, estigmatización ni barreras institucionales, garantizando la confidencialidad, el respeto a la autonomía personal y el acceso oportuno a los servicios de salud mental;
+
+XVIII. Contar con espacios adecuados para el cuidado y acompañamiento infantil, como ludotecas o salas de estancia temporal, en centros educativos, dependencias públicas y empresas privadas, ya sea directamente o mediante convenios interinstitucionales.
+
+Las autoridades de salud deberán promover, en coordinación con las autoridades educativas y laborales competentes, la instalación y funcionamiento de estos espacios, con el fin de favorecer el bienestar físico, emocional y social de las hijas e hijos de personas y madres trabajadoras;
+
+XIX. Recibir, en condiciones de vulnerabilidad, un apoyo económico mensual durante el embarazo, así como a la gratuidad del pago de inscripción, mensualidades materiales en la totalidad de los cursos proporcionados por el Instituto de Capacitación para el Trabajo del Estado de Michoacán, en coordinación con las autoridades competentes y conforme a lo establecido en la Ley del Sistema para el Desarrollo Integral de la Familia del Estado u otras disposiciones aplicables;
+
+XX. Recibir atención preferente en espacios públicos y privados durante el embarazo, especialmente en contextos que impliquen espera prolongada o movilidad.
+
+Las autoridades sanitarias deberán coordinarse con las autoridades competentes a fin de garantizar este trato prioritario conforme a la normativa aplicable; asimismo, podrán emitir recomendaciones que promuevan el trato digno y preferente a las personas embarazadas; y,
+
+XXI. Recibir, a petición expresa, información clara, veraz, completa y científicamente sustentada sobre las opciones disponibles ante un embarazo, incluyendo la interrupción legal del mismo, en apego a los derechos sexuales y reproductivos, la normativa vigente en el Estado, y el principio de laicidad.
+
+Esta información deberá ser proporcionada por personal médico y de enfermería en un lenguaje accesible, comprensible y libre de presiones, juicios morales, criminalización o revictimización.
+
+En caso de que la persona usuaria manifieste sentirse presionada o coaccionada para tomar una decisión al respecto, el personal médico deberá brindarle acompañamiento confidencial, asegurar el respeto a su voluntad y canalizarla, si así lo desea, a las instancias correspondientes para recibir orientación y protección, conforme a la normativa vigente.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
 
@@ -3440,3 +3484,11 @@ TERCERO. Dentro de los ciento ochenta días naturales siguientes a la fecha de p
 CUARTO. Dentro de los ciento ochenta días naturales siguientes a la fecha de publicación del presente Decreto, la Secretaría de Salud del Estado de Michoacán deberá emitir el Flujograma para la atención de mujeres en situación de la interrupción del embarazo; con apego al Lineamiento Técnico para la atención del Aborto Seguro en México emitido por la Secretaría de Salud.
 
 QUINTO. Dentro de los ciento ochenta días naturales siguientes a la fecha de publicación del presente Decreto, la Secretaría de Salud del Estado de Michoacán deberá identificar, registrar y mantener actualizada la relación de los profesionales de la salud que se declaren objetores y no objetores de conciencia dentro del Sistema Estatal de Salud, garantizando la protección de sus datos personales en los términos de las leyes aplicables. Este registro deberá ser accesible para las instituciones públicas de salud con el propósito de garantizar la disponibilidad permanente de personal no objetor para la atención de las solicitudes relacionadas con la interrupción del embarazo.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 189 POR EL QUE “SE REFORMA EL ARTÍCULO 17 C DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Las dependencias públicas y entidades privadas a las que hace referencia este Decreto contarán con un plazo de ciento ochenta días naturales para realizar los ajustes administrativos, presupuestales y operativos correspondientes para la implementación progresiva de las disposiciones contenidas en el artículo 17 C de la Ley de Salud del Estado de Michoacán de Ocampo.
