@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2025-04-29"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -468,6 +468,20 @@ VI. Establecer medidas educativas destinadas al reconocimiento y enseñanza hist
 > <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 Artículo 21 Septdecies.- Las autoridades municipales que incurran en responsabilidad, serán sancionadas de acuerdo a lo establecido en la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Artículo 21 Octodecies.- El Honorable Ayuntamiento del Municipio de Puebla, deberá garantizar una política de cero tolerancia a la violencia contra la mujer, por lo que para ser personas servidoras públicas del Municipio de Puebla, se deberá:
+
+l. Declarar bajo protesta de decir verdad, no contar con resolución firme vigente por violencia familiar y/o doméstica, o cualquier agresión de género en el ámbito privado o público;
+
+II. Declarar bajo protesta de decir verdad, no contar con sentencia firme vigente por delitos sexuales, contra la libertad sexual o la intimidad corporal, y
+
+III. Acreditar mediante Certificado de No inscripción, al Registro Nacional de Obligaciones Alimentarias expedido por la autoridad competente, no tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda ante las instancias correspondientes.
+
+El personal que labore en el H. Ayuntamiento de Puebla, que se encuentre en cualquiera de estos supuestos, deberá obligatoriamente tomar los cursos necesarios a cargo de la Secretaria para la Igualdad Sustantiva de Género del Municipio de Puebla.
+
+Cualquier acto de falsedad o acción que faltare a la verdad, será sancionado conforme a la ley aplicable en la materia.
 
 > <small>(DEROGADO CON EL APARTADO Y ARTÍCULOS QUE LO INTEGRAN POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)</small>
 
@@ -41564,3 +41578,9 @@ PRIMERO. La presente reforma entrará en vigor, a partir de su publicación en e
 SEGUNDO. La Sindicatura Municipal en un lapso de 90 días naturales, contados a partir de la entrada en vigor del presente Dictamen actualizarán la normatividad administrativa que instrumenta las acciones, estrategias y lineamientos bajo los cuales se regirá la Justicia Cívica de conformidad con la presente reforma.
 
 TERCERO. Se dejan sin efecto todas aquellas disposiciones administrativas que se opongan a lo dispuesto en el presente Dictamen.
+
+P.O. 28 DE JULIO DE 2025.
+
+[N. DE E TRANSITORIO DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 10 DE JULIO DE 2025, QUE APRUEBA EL DICTAMEN PRESENTADO POR LAS REGIDORAS INTEGRANTES DE LA COMISIÓN DE IGUALDAD SUSTANTIVA DE GÉNERO Y DIVERSIDAD SEXUAL, POR EL QUE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
