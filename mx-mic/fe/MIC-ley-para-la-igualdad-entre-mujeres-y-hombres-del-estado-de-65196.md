@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6519
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2019-11-12"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el jueves 1 de enero de 2009.
 
@@ -80,6 +80,10 @@ XI. Secretaría: La Secretaría de la Mujer del Estado;
 XII. Sistema Estatal: El Sistema Estatal para la Igualdad entre Mujeres y Hombres; y,
 
 XIII. Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose en materia de legislación, políticas públicas, actividades administrativas, económicas y culturales dentro de las instituciones públicas y privadas.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XIV. Nuevas Masculinidades: Es ejercer la masculinidad de manera consciente, respetuosa y equitativa, con la finalidad de erradicar roles y estereotipos de género que promueven la desigualdad entre mujeres y hombres.
 
 ###### Artículo 3º.
 
@@ -248,6 +252,10 @@ III. Fomenta la participación y representación política equilibrada entre muj
 IV. Promueve las condiciones para la igualdad de acceso y pleno disfrute de los derechos sociales para las mujeres y los hombres; y,
 
 V. Erradica los estereotipos establecidos en función del sexo.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+VI. Fomenta y promueve el ejercicio de nuevas masculinidades.
 
 ###### Artículo 18.
 
@@ -572,3 +580,15 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 168.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 21 Y LA FRACCIÓN III DEL ARTÍCULO 94, AMBOS DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 35; Y LOS ARTÍCULOS 36 Y 37 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 187 POR EL QUE “SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 2° Y LA FRACCIÓN VI AL ARTÍCULO 17 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, a través de las dependencias competentes, deberá diseñar, implementar, evaluar y dar seguimiento a los programas de capacitación y a las políticas públicas en materia de nuevas masculinidades previstas en el presente Decreto, en un plazo no mayor a ciento ochenta días naturales, contados a partir de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Para tal efecto, podrá coordinarse y auxiliarse de instituciones académicas, organismos autónomos, organizaciones de la sociedad civil y personas expertas en la materia, a fin de garantizar la imparcialidad, neutralidad y apego al rígor técnico y científico en el diseño de los contenidos.
+
+TERCERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
