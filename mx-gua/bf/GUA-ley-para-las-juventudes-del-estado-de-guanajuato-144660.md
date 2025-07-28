@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-las-juventudes-del-estado-de-guanajuato-144660"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-21"
-last_updated: "2024-04-23"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA LAS JUVENTUDES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 21 de octubre de 2020.
 
@@ -399,9 +397,11 @@ Los jóvenes tendrán derecho al trabajo digno, socialmente útil y bien remuner
 
 Capacitación para el auto empleo y el trabajo
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
+
 ###### Artículo 37.
 
-El instituto podrá celebrar convenios con dependencias y entidades de la administración pública federal, estatal y municipal, así como con cualquier otra organización del sector público y privado, extranjeras o internacionales, para capacitar para el auto empleo y el trabajo a los jóvenes.
+El Instituto podrá celebrar convenios con dependencias y entidades de la administración pública federal, estatal y municipal, así como con cualquier otra organización del sector público y privado, extranjeras o internacionales, para capacitar para el auto empleo, para la prestación del servicio social profesional, y el trabajo a las y los jóvenes.
 
 Emprendimiento
 
@@ -411,9 +411,11 @@ Las autoridades estatales y municipales proporcionarán las herramientas necesar
 
 Sistema de empleo
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
+
 ###### Artículo 39.
 
-Las autoridades estatales, a través de sus diversos programas y apoyos, deben contemplar un sistema de empleo, bolsa de trabajo, capacitación laboral y recursos económicos para proyectos productivos. Mediante convenios con las empresas del sector público y privado buscarán favorecer laboralmente a los jóvenes.
+Las autoridades estatales, a través de sus diversos programas y apoyos, deben contemplar un sistema de empleo, prestación del servicio social profesional, bolsa de trabajo, capacitación laboral y recursos económicos para proyectos productivos. Mediante convenios con las empresas del sector público y privado buscarán favorecer laboralmente a las y los jóvenes.
 
 Programas de estímulo
 
@@ -785,7 +787,11 @@ VII. Establecer el Padrón Único Estatal de Apoyos; para lo cual las autoridade
 
 VIII. Orientar a las autoridades municipales que deseen abrir un programa de becas, estímulos, crédito educativo o apoyos en especie para mejorar su diseño, focalización y evitar la duplicidad; y
 
-IX. Los demás fines y objetivos que se prevean en las leyes y en la normatividad que se expida para tal efecto.
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+IX. Promover en las y los jóvenes guanajuatenses, la prestación del servicio social profesional y servicio comunitario con tareas que generen beneficios en la población en desventaja de su propia comunidad; y
+
+X. Los demás fines y objetivos que se prevean en las leyes y en la normatividad que se expida para tal efecto.
 
 ### Capítulo IV. Autoridades en materia de juventudes
 
@@ -1378,3 +1384,15 @@ P.O. 24 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 339 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE ADICIONA EL ARTÍCULO 17 BIS A LA LEY PARA LAS JUVENTUDES DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 75 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 37 Y 39 Y SE ADICIONA UNA FRACCIÓN IX RECORRIENDO EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 66 DE LA LEY PARA LAS JUVENTUDES DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Progresividad
+
+Artículo Segundo. Las acciones derivadas de la presente reforma serán ejecutadas por el Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato de conformidad con sus atribuciones en los convenios y acuerdos de colaboración que para tal efecto celebre, en forma progresiva, conforme la disponibilidad presupuestaria lo permita; en su oportunidad el Instituto, presupuestará los recursos necesarios para la atención gradual y conforme a su capacidad operativa respecto de las acciones derivadas del presente Decreto.
