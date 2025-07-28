@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-del-fideicomiso-puublico-fondo-para-el-14056
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-30"
-last_updated: "2020-01-30"
+last_updated: "2025-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140567&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2020-01-09"
 ---
 # CODIGO DE CONDUCTA DEL FIDEICOMISO PUUBLICO FONDO PARA EL DESARROLLO ECONOMICO Y SOCIAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL QUE SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL FONDO PARA EL DESARROLLO ECONÓMICO Y SOCIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 28 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL FIDEICOMISO PÚBLICO FONDO PARA EL DESARROLLO ECONÓMICO Y SOCIAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JULIO DE 2025 (ABROGADO).
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el jueves 30 de enero de 2020.
 
@@ -399,3 +401,15 @@ Ciudad de México a 08 de enero de 2020
 JOSÉ FERNANDO MERCADO GUAIDA
 
 DIRECTOR GENERAL DEL FONDO PARA EL DESARROLLO ECONÓMICO Y SOCIAL DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL FONDO PARA EL DESARROLLO ECONÓMICO Y SOCIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- La persona titular de la Dirección General del Fondo para el Desarrollo Económico y Social de la Ciudad de México hará del conocimiento de todas las personas servidoras públicas, mediante oficio, el contenido del presente Código.
+
+TERCERO.- Se abroga el Código de Conducta del Fondo para el Desarrollo Económico y Social publicado en la Gaceta Oficial de la Ciudad de México, número 273, de fecha 30 de enero de 2020, y se dejan sin efectos las demás disposiciones administrativas que contravengan el contenido del presente Código.
