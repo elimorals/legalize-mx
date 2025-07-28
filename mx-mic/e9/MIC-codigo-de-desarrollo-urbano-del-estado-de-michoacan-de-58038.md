@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2025-05-19"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -82,6 +82,10 @@ XV. Definir las bases para la observancia del presente Código y demás ordenami
 Para los efectos de este Código, se entenderá por:
 
 I. Asentamiento Humano Irregular: Núcleo de población ubicado en áreas o predios subdivididos, sin contar con la autorización del Ayuntamiento, o con ella, pero sin haber acatado los lineamientos y disposiciones de la autorización;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+I Bis. Arbolado Urbano: especímenes de especies arbóreas ubicados en los centros de población;
 
 II. Centro de Población: Las áreas constituidas por las zonas urbanizadas, las que se reserven para su expansión y las que se consideren no urbanizables por causas de preservación y reserva ecológica, prevención de riesgos y mantenimiento de actividades productivas, dentro de los límites de dicho centro;
 
@@ -548,6 +552,14 @@ XXII. Realizar en coordinación con los ayuntamientos, el Instituto y la federac
 XXIII. Establecer las medidas necesarias tendientes a desalentar la especulación de predios y fincas contrarias al interés público o social;
 
 XXIV. Gestionar en coordinación con los ayuntamientos la canalización de recursos financieros para la formulación o actualización de los programas de desarrollo urbano de ámbito estatal y municipal;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XXIV Bis. Asesorar y apoyar técnicamente a las autoridades municipales en la planeación, elaboración, capacitación, operación y ejecución de los programas municipales de arbolado urbano;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XXIV Ter. Evaluar los programas municipales de arbolado urbano;
 
 XXV. Aplicar las limitaciones a la propiedad que imponga este Código y demás ordenamientos jurídicos aplicables;
 
@@ -3175,11 +3187,21 @@ XXVIII. Establecer el registro de los profesionales que actuarán como directore
 
 XXIX. Llevar el registro de los programas municipales de desarrollo urbano, para su difusión, consulta pública, control y evaluación;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XXIX Bis. Promoverán acciones y estrategias encaminadas al cuidado y conservación del arbolado urbano;
+
 XXX. Imponer las medidas de seguridad, infracciones y sanciones que establece este Código y demás disposiciones jurídicas aplicables;
 
 XXXI. Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados; y,
 
 XXXII. Las demás atribuciones técnicas y administrativas que este Código o el Ayuntamiento le confiera.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 277 Bis.
+
+Corresponde a los municipios la planeación, elaboración, capacitación, operación y ejecución de los programas municipales de arbolado urbano, así como planificar, coordinar y fomentar el manejo sustentable del arbolado urbano, mediante la conservación, mantenimiento, protección, restitución, saneamiento y reproducción.
 
 ###### ARTÍCULO 278.
 
@@ -5756,3 +5778,11 @@ P.O. 19 DE MAYO DE 2025.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 188 POR EL QUE “SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 2, LAS FRACCIONES XXIV BIS Y XXIV TER AL ARTÍCULO 13, LA FRACCIÓN XXIX BIS AL ARTÍCULO 277 Y EL ARTÍCULO 277 BIS, TODOS AL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
