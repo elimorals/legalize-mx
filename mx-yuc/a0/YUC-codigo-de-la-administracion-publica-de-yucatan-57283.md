@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2025-05-22"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 22 DE MAYO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2025.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -113,7 +111,7 @@ Dicho personal podrá ser seleccionado entre aquellos que se encuentren laborand
 
 Se podrán suscribir convenios con organismos o institutos públicos o privados, con la intención de capacitar al personal que se designe para los fines contenidos en el párrafo anterior.
 
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2025)</small>
 
 ###### Artículo 8.
 
@@ -121,9 +119,9 @@ Las dependencias y entidades que integran la Administración Pública del Estado
 
 Los órganos de control interno asignados a las dependencias y entidades tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
 
-Las áreas de recursos humanos o sus equivalentes en las dependencias y entidades, deberán comunicar a la Secretaría de la Contraloría General, por escrito o en el sistema electrónico que implemente para tal efecto, las fechas en que inician o concluyen en el ejercicio de su empleo, cargo o comisión los servidores públicos obligados a presentar la declaración de situación patrimonial y de intereses, así como la modificación del cargo o función que realicen, la comisión que se les encomiende, cuando derivado de dichas funciones o comisiones deban cumplir con esta obligación, especificando las razones que dan lugar a ello.
+Las áreas de recursos humanos o sus equivalentes en las dependencias y entidades, deberán comunicar a la Secretaría Anticorrupción y Buen Gobierno, por escrito o en el sistema electrónico que implemente para tal efecto, las fechas en que inician o concluyen en el ejercicio de su empleo, cargo o comisión los servidores públicos obligados a presentar la declaración de situación patrimonial y de intereses, así como la modificación del cargo o función que realicen, la comisión que se les encomiende, cuando derivado de dichas funciones o comisiones deban cumplir con esta obligación, especificando las razones que dan lugar a ello.
 
-Los órganos de control interno, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan los comités coordinadores de los sistemas nacional y estatal anticorrupción y las secretarías de la Contraloría General y de Administración y Finanzas, respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública estatal y presentación de informes por parte de dichos órganos.
+Los órganos de control interno, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia, acceso a la información, protección de datos personales, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan los comités coordinadores de los sistemas nacional y estatal anticorrupción y las secretarías Anticorrupción y Buen Gobierno y de Administración y Finanzas, respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública estatal y presentación de informes por parte de dichos órganos.
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -349,9 +347,9 @@ XV.- Secretaría de Desarrollo Rural;
 
 XVI.- Secretaría de Desarrollo Sustentable;
 
-> <small>(REFORMADA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O. 28 DE JULIO DE 2025)</small>
 
-XVII.- Secretaría de la Contraloría General;
+XVII.- Secretaría Anticorrupción y Buen Gobierno;
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -455,9 +453,9 @@ IV.- Intervenir y suscribir los actos, contratos y convenios que se refieran a l
 
 V.- Nombrar y remover a los Subsecretarios, Directores y demás personal de la Secretaría que les corresponda, salvo en aquellos casos en que este Código o alguna ley aplicable establezca lo contrario;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE JULIO DE 2025)</small>
 
-VI.- Levantar, al tomar posesión de su encargo, un inventario de los bienes que se encuentren en poder de sus respectivas dependencias, con la intervención de la Secretaría de Administración y Finanzas, y de la Secretaría de la Contraloría General del Estado para verificar y certificar su exactitud;
+VI.- Levantar, al tomar posesión de su encargo, un inventario de los bienes que se encuentren en poder de sus respectivas dependencias, con la intervención de la Secretaría de Administración y Finanzas, y de la Secretaría Anticorrupción y Buen Gobierno del Estado para verificar y certificar su exactitud;
 
 VII.- Responsabilizarse de la posesión, vigilancia y conservación de los bienes de propiedad estatal que administren, así como de la correcta aplicación de los recursos que les sean asignados, y por tanto no podrán hacer pago alguno que no esté previsto en el presupuesto autorizado o determinado en las leyes de la materia;
 
@@ -883,9 +881,7 @@ XXXI.- Realizar investigaciones y análisis jurídicos, estudios de derecho comp
 
 XXXII.- Llevar el registro de firmas autógrafas de los funcionarios estatales y legalizar las firmas de estos, y
 
-> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
-
-XXXIII.- Brindar apoyo a las dependencias y entidades de la Administración Pública estatal en la aplicación de las leyes en materia de transparencia, acceso a la información pública y protección de datos personales, así como en la implementación de las políticas públicas relacionadas con estas materias.
+XXXIII.- (DEROGADA, D.O. 28 DE JULIO DE 2025)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1757,81 +1753,129 @@ XVII.- Promover y vigilar el cumplimiento, con la participación que corresponda
 
 XVIII.- Verificar las emisiones de los vehículos en el estado, a excepción de los destinados al transporte público de pasajeros.
 
-### CAPÍTULO XVII. De la Secretaría de la Contraloría General
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+### CAPÍTULO XVII. De la Secretaría Anticorrupción y Buen Gobierno
+
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2025)</small>
 
 ###### Artículo 46.
 
-A la Secretaría de la Contraloría General le corresponde el despacho de los siguientes asuntos:
+A la Secretaría Anticorrupción y Buen Gobierno le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+I.- Elaborar y conducir la política pública en materia de profesionalización e integridad pública, evaluación de la gestión gubernamental, mejora continua, modernización, contrataciones públicas, transparencia en la gestión pública, rendición de cuentas, fiscalización y anticorrupción de la Administración Pública Estatal, con base en la política estatal en materia de prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción; fiscalización y control de los recursos públicos, así como los principios, bases generales, políticas públicas y procedimientos que apruebe el Comité Coordinador del Sistema Estatal Anticorrupción.
 
-I.- Conocer e investigar, por sí o por conducto de los órganos de control interno, las conductas de las personas servidoras públicas de la Administración Pública estatal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos e imponer o solicitar la imposición de las medidas cautelares correspondientes conforme a lo establecido en la legislación aplicable en materia de responsabilidades administrativas, para lo cual podrá aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Yucatán y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+II.- Establecer mecanismos internos para la administración pública estatal que impulsen la participación ciudadana, la contraloría social y la cultura cívica y ética que contribuya a la mejora continua.
 
-II.- Imponer la sanción económica y administrativa correspondiente, en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Yucatán, al licitante, inversionista, proveedor, prestador o proveedor de bienes y servicios o contratista de obra, que infrinja las disposiciones legales aplicables que regulen la materia que corresponda y, en su caso, ordenar la exclusión del padrón o registro correspondiente;
+III.- Conocer e investigar, por sí o por conducto de los órganos de control interno, las conductas de las personas servidoras públicas de la Administración Pública estatal y de particulares, que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos e imponer o solicitar la imposición de las medidas cautelares correspondientes conforme a lo establecido en la legislación aplicable en materia de responsabilidades administrativas, para lo cual podrá aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Yucatán y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán y ante otras autoridades competentes, en términos de las disposiciones aplicables y, en general, ejercer las atribuciones que en materia de responsabilidades corresponden a la autoridad investigadora, a la autoridad substanciadora y a la autoridad resolutora, en términos de la legislación y la normativa aplicables.
 
-III.- Supervisar y evaluar la implementación del sistema de control interno; auditar y revisar el ejercicio del gasto público estatal y su congruencia con los presupuestos de egresos;
+En las investigaciones a las que se hace referencia en el párrafo anterior, la secretaría podrá solicitar, por conducto de su titular, información ante las instancias competentes en materia fiscal, bursátil, fiduciaria o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios, cuando se relacionen con probables hechos de corrupción y, tratándose de particulares, podrá realizar visitas de verificación con apego a la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
-IV.- Formular y establecer las normas de control y fiscalización y vigilar su cumplimiento; así como asesorar y apoyar a los órganos de control interno en las dependencias y entidades de la Administración Pública estatal, y en su caso, requerirles la aplicación de normas complementarias para el ejercicio de sus facultades, sin menoscabo de las bases y principios de coordinación y recomendaciones que emitan los comités coordinadores de los sistemas nacional y estatal anticorrupción;
+IV.- Imponer la sanción correspondiente, en términos de las legislaciones en materia de obra pública y proyectos para la prestación de servicios, al licitante, inversionista, proveedor, prestador o proveedor de bienes y servicios o contratista de obra, que infrinja las disposiciones legales aplicables que regulen la materia que corresponda y, en su caso, ordenar la exclusión del registro correspondiente.
 
-V.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública estatal; y expedir las normas que regulen los instrumentos y procedimientos en dichas materias;
+V.- Supervisar y evaluar la implementación del sistema de control interno.
 
-VI.- Practicar las auditorías y revisiones a las dependencias y entidades de la Administración Pública estatal, conforme al programa de trabajo o cuando la situación lo requiera, así como a los fondos y programas que operen;
+VI.- Auditar y revisar el ejercicio del gasto público estatal y su congruencia con los presupuestos de egresos.
 
-VII.- Llevar el registro de servidores públicos del estado obligados a presentar declaración de situación patrimonial; recibir y registrar sus declaraciones patrimoniales y de intereses; verificar su contenido, según sea el caso; y registrar la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+VII.- Emitir las normas que regulen los instrumentos y procedimientos de control interno de la administración pública estatal que impulsen la modernización administrativa conforme a las mejores prácticas en la materia.
 
-VIII.- Designar a los comisarios o sus equivalentes en los órganos de vigilancia que integran la Administración Pública paraestatal; quienes dependerán administrativa y presupuestalmente de esta secretaría; recabando directamente la información que generen con motivo de su actividad;
+VIII.- Formular, en el ámbito de su competencia, disposiciones generales en materia de contrataciones públicas aplicables a las dependencias y entidades.
 
-IX.- Coordinarse con la Auditoría Superior del Estado de Yucatán para el establecimiento de normas, sistemas y procedimientos para el cumplimiento eficaz de sus respectivas responsabilidades;
+IX.- Realizar el seguimiento a los resultados de la gestión gubernamental de la Administración Pública Estatal, con base en los indicadores establecidos por la Secretaría Técnica de Planeación y Evaluación, para emitir opiniones informadas y constructivas que contribuyan a la consecución de los objetivos, las metas y estrategias que rigen su acción.
 
-X.- Presentar los informes que solicite el Comité Coordinador del Sistema Estatal Anticorrupción, en el ámbito de su competencia, así como informar trimestralmente al titular del Ejecutivo, del resultado de las revisiones que realice al ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover las medidas correctivas que procedan;
+X.- Formular y establecer las normas de fiscalización y vigilar su cumplimiento; así como asesorar y apoyar a los órganos de control interno en las dependencias y entidades de la Administración Pública estatal y, en su caso, requerirles la aplicación de normas complementarias para el ejercicio de sus facultades, sin menoscabo de las bases y principios de coordinación y recomendaciones que emitan los comités coordinadores de los sistemas nacional y estatal anticorrupción.
 
-XI.- Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, en el ámbito de su competencia;
+XI.- Elaborar un programa anual de fiscalización orientado a promover la eficacia, eficiencia, economía y legalidad en la gestión pública.
 
-XII.- Intervenir en todo cambio de titulares de las dependencias del Ejecutivo, así como de las entidades de la Administración Pública paraestatal, para efectos de verificar la correcta ejecución del proceso de entrega y recepción y de transferencias, en los términos de las disposiciones legales, aplicando, en su caso, las responsabilidades en que incurran los funcionarios e imponer la sanción correspondiente;
+XII.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública estatal; y expedir las normas que regulen los instrumentos y procedimientos en dichas materias.
 
-XIII.- Evaluar, supervisar y verificar, física y financieramente, el avance e información de los programas de inversión y obra pública, así como la aplicación de los recursos a ellos destinados que deberán haber sido autorizados previamente conforme a las disposiciones legales en la materia;
+XIII.- Practicar las auditorías y revisiones a las dependencias y entidades de la Administración Pública estatal, conforme al programa anual de fiscalización o cuando la situación lo requiera, así como a los fondos y programas que operen.
 
-XIV.- Evaluar, dar seguimiento e intervenir en los procesos de conciliación en materia de obra pública, así como emitir observaciones vinculatorias;
+XIV.- Llevar el registro de servidores públicos del estado, de las actas de entrega recepción de sus cargos y de las sanciones administrativas que les hayan sido impuestas a ellos o a los particulares; recibir y registrar sus declaraciones patrimoniales y de intereses; verificar su contenido, según sea el caso, mediante las investigaciones que resulten pertinentes, conforme a las disposiciones legales y normativas aplicables.
 
-XV.- Organizar y conducir el servicio de recepción para la atención de quejas y denuncias que presenten los ciudadanos en general en contra de los servidores públicos del estado;
+XV.- Designar a los comisarios o sus equivalentes en los órganos de vigilancia que integran la Administración Pública paraestatal; quienes dependerán administrativa y presupuestalmente de esta secretaría; recabando directamente la información que generen con motivo de su actividad.
 
-XVI.- Nombrar y remover a los titulares de los órganos de control interno de las dependencias y entidades de la Administración Pública, quienes dependerán administrativa y presupuestalmente de esta secretaría y, en su caso, a los titulares de las áreas de auditoría, quejas y responsabilidades de dichos órganos;
+XVI.- Coordinarse con la Auditoría Superior del Estado de Yucatán para el establecimiento de normas, sistemas y procedimientos para el cumplimiento eficaz de sus respectivas responsabilidades.
 
-XVII.- Participar en los comités de adquisiciones, arrendamientos y servicios y de obras públicas de las dependencias y entidades de la Administración Pública del estado, emitiendo opiniones, debidamente sustentadas, tendientes al cumplimiento de las disposiciones jurídicas que regulan dichas materias, según corresponda, así como el ejercicio del presupuesto;
+XVII.- Presentar los informes que solicite el Comité Coordinador del Sistema Estatal Anticorrupción, en el ámbito de su competencia, así como informar trimestralmente al titular del Ejecutivo, del resultado de las revisiones que realice al ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover las medidas correctivas que procedan.
 
-XVIII.- Conocer, substanciar y resolver las quejas que presenten quienes tengan interés jurídico, contra los actos de los procedimientos de contratación de licitación pública o de invitación a cuando menos tres personas, que realicen las dependencias y entidades en las materias de proyectos de prestación de servicios, adquisiciones, arrendamientos y prestación de servicios y de obra pública y servicios conexos, en los casos en que las leyes le otorguen competencia para ello;
+XVIII.- Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, en el ámbito de su competencia.
 
-XIX.- Celebrar convenios con la Secretaría de la Función Pública para llevar a cabo acciones de fiscalización, auditoría, inspección, control y vigilancia, así como para realizar actos administrativos que coadyuven en el cumplimiento de las disposiciones legales aplicables del ejercicio de recursos públicos federales;
+XIX.- Intervenir en todos los actos de entrega-recepción de los servidores públicos obligados, previa solicitud, para efectos de verificar la correcta ejecución del proceso, en los términos de las disposiciones legales aplicables.
 
-XX.- Actuar como enlace y realizar las auditorías que se acuerden con la Secretaría de la Función Pública y la Auditoría Superior de la Federación, respecto a la fiscalización de recursos federales que se ejerzan en el estado;
+XX.- Brindar a las dependencias y entidades de la Administración Pública estatal, previa solicitud, el apoyo o acompañamiento en materia de control interno, fiscalización, imparcialidad, rendición de cuentas, eficacia, eficiencia, racionalidad e integridad en el uso de los recursos públicos y demás que se requieran relacionados con el ámbito de atribuciones de la secretaría, en especial, tratándose de programas prioritarios y proyectos estratégicos.
 
-XXI.- Celebrar convenios de coordinación y colaboración con la federación, entidades federativas y municipios, para impulsar la instrumentación y fortalecimiento del sistema de control y evaluación de la gestión pública y registro de servidores públicos así como la participación de los ciudadanos en acciones de contraloría social de los programas de desarrollo social;
+XXI.- Evaluar, supervisar y verificar, física y financieramente, el avance e información de los programas de inversión y obra pública, así como la aplicación de los recursos a ellos destinados que deberán haber sido autorizados previamente conforme a las disposiciones legales en la materia.
 
-XXII.- Interpretar y difundir, en el ámbito de su competencia, la aplicación de las leyes de la materia y otras disposiciones legales que le competan a la Secretaría de la Contraloría General;
+XXII.- Evaluar, dar seguimiento e intervenir en los procesos de conciliación en materia de obra pública, así como emitir observaciones.
 
-> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+XXIII.- Verificar en cualquier tiempo, que la obra pública o servicios conexos, se realicen conforme a lo establecido en la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán y su reglamento, en su caso, emitir las observaciones y aplicar las sanciones que correspondan.
 
-XXIII.- Fiscalizar que las dependencias y entidades de la Administración Pública estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública o de tecnologías de la información y la comunicación, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública estatal;
+XXIV.- Organizar y conducir el servicio de recepción para la atención de quejas y denuncias que presenten los ciudadanos en general en contra de los servidores públicos del estado.
 
-XXIV.- Colaborar en el marco de los sistemas nacional y estatal anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+XXV.- Nombrar y remover a los titulares de los órganos de control interno de las dependencias y entidades de la Administración Pública, quienes dependerán administrativa y presupuestalmente de esta secretaría y, en su caso, a los titulares de las áreas de auditoría, quejas y responsabilidades de dichos órganos.
 
-XXV.- Implementar las acciones que acuerden los sistemas nacional y estatal anticorrupción, en términos de las disposiciones aplicables;
+XXVI.- Participar en los comités de adquisiciones, arrendamientos y servicios y de obras públicas de las dependencias y entidades de la Administración Pública del estado, emitiendo opiniones, debidamente sustentadas, tendientes al cumplimiento de las disposiciones jurídicas que regulan dichas materias, según corresponda, así como el ejercicio del presupuesto.
 
-XXVI.- Establecer mecanismos internos para la Administración Pública estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+XXVII.- Conocer, substanciar y resolver las inconformidades que presenten quienes tengan interés jurídico, contra los actos de los procedimientos de contratación de licitación pública o de invitación a cuando menos tres personas, que realice la Administración Pública Estatal en las materias de proyectos de prestación de servicios, adquisiciones, arrendamientos y prestación de servicios y de obra pública y servicios conexos, así como ejercer acciones de conciliación del cumplimiento de los contratos y pedidos, en los casos en que las leyes le otorguen competencia para ello.
 
-XXVII.- Proporcionar asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán que realicen las dependencias y entidades de la Administración Pública estatal;
+XXVIII.- Celebrar convenios con la Secretaría Anticorrupción y Buen Gobierno federal para llevar a cabo acciones de fiscalización, auditoría, inspección, control y vigilancia, así como para realizar actos administrativos que coadyuven en el cumplimiento de las disposiciones legales aplicables al ejercicio de recursos públicos federales.
 
-XXVIII.- Promover, con la intervención que corresponda a otras dependencias de la Administración Pública estatal, la coordinación y cooperación con los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, la federación y los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel estatal;
+XXIX.- Actuar como enlace y realizar las auditorías que se acuerden con la Secretaría Anticorrupción y Buen Gobierno federal y la Auditoría Superior de la Federación, respecto a la fiscalización de recursos federales que se ejerzan en el estado.
 
-XXIX.- Conducir, conforme a las bases de coordinación que establezcan los comités coordinadores de los sistemas Nacional y Estatal Anticorrupción, acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que se genere en la Administración Pública estatal; así como promover dichas acciones hacia la sociedad;
+XXX.- Celebrar convenios de coordinación y colaboración con la federación, entidades federativas y municipios, para impulsar la instrumentación y el fortalecimiento del sistema de control, la evaluación de la gestión pública y el registro de servidores públicos, así como la participación de los ciudadanos en acciones de contraloría social de los programas de desarrollo social.
 
-XXX.- Implementar las políticas de coordinación que promuevan los comités coordinadores de los sistemas Nacional y Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública estatal, y
+XXXI.- Interpretar y difundir, en el ámbito de su competencia, la aplicación de las leyes de la materia y otras disposiciones legales que le competan a la Secretaría Anticorrupción y Buen Gobierno.
 
-> <small>(REFORMADA, D.O. 9 DE OCTUBRE DE 2023)</small>
+XXXII.- Fiscalizar que las dependencias y entidades de la Administración Pública estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública o de tecnologías de la información y la comunicación, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública estatal.
 
-XXXI.- Emitir el código de ética de las y los servidores públicos del estado y las reglas de Integridad para el ejercicio de la función pública, el cual deberá contener las acciones necesarias que propicien en todo momento el respeto en la comunicación pública que las personas servidoras públicas entablen con la ciudadanía, así como el uso adecuado del lenguaje incluyente y del lenguaje no sexista a través de los medios de comunicación tradicionales y digitales como las diversas plataformas y redes sociales, de conformidad a los reglamentos, manuales, guías y protocolos que emitan las autoridades competentes al respecto.
+XXXIII.- Colaborar en el marco de los sistemas nacional y estatal anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes.
+
+XXXIV.- Implementar las acciones que acuerden los sistemas nacional y estatal anticorrupción, en términos de las disposiciones aplicables.
+
+XXXV.- Establecer mecanismos internos para la Administración Pública estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas.
+
+XXXVI.- Proporcionar asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán que realicen las dependencias y entidades de la Administración Pública estatal.
+
+XXXVII.- Promover, con la intervención que corresponda a otras dependencias de la Administración Pública estatal, la coordinación y cooperación con los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, la federación y los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel estatal.
+
+XXXVIII.- Conducir, conforme a las bases de coordinación que establezcan los comités coordinadores de los sistemas Nacional y Estatal Anticorrupción, acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que se genere en la Administración Pública estatal; así como promover dichas acciones hacia la sociedad.
+
+XXXIX.- Implementar las políticas de coordinación que promuevan los comités coordinadores de los sistemas Nacional y Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública estatal.
+
+XL.- Emitir el código de ética de las y los servidores públicos del estado y las reglas de Integridad para el ejercicio de la función pública, el cual deberá contener las acciones necesarias que propicien en todo momento el respeto en la comunicación pública que las personas servidoras públicas entablen con la ciudadanía, así como el uso adecuado del lenguaje incluyente y del lenguaje no sexista a través de los medios de comunicación tradicionales y digitales como las diversas plataformas y redes sociales, de conformidad a los reglamentos, manuales, guías y protocolos que emitan las autoridades competentes al respecto.
+
+XLI.- Proponer al sector privado, previa solicitud, modelos, directrices o contenidos mínimos para sus códigos de ética.
+
+XLII.- Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables.
+
+XLIII.- Establecer, con base en los lineamientos emitidos por el Sistema Nacional de Acceso a la Información Pública, el listado de información de interés público de la Secretaría que, en materia de anticorrupción y buen gobierno, se deba difundir proactivamente.
+
+XLIV.- Promover y consolidar los principios de transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública.
+
+XLV.- Impulsar la transparencia proactiva y la publicación de datos en formatos accesibles para la ciudadanía.
+
+XLVI.- Impulsar la profesionalización e integridad de las personas servidoras públicas, así como diseñar y aplicar los programas de capacitación que promuevan la mejora de la gestión pública.
+
+XLVII.- Promover la formación cívica y la participación ciudadana en materia de anticorrupción y buen gobierno.
+
+XLVIII.- Impulsar la participación de los sectores social y privado en la prevención y combate a la corrupción, mejora de la gestión pública y, en su caso, celebrar convenios en la materia.
+
+XLIX.- Promover, en coordinación con la Secretaría de Educación del estado e instituciones de educación superior, la inclusión de contenidos educativos sobre integridad pública y combate a la corrupción.
+
+L.- Ejercer las atribuciones del poder ejecutivo en el Sistema Estatal Anticorrupción en términos de la ley en la materia.
+
+LI.- Acceder a la información, documentación, datos, imágenes, registros y demás relacionadas de la Administración Pública estatal que contribuyan con las investigaciones, actos de fiscalización, incluida su programación y, en general, con cualquier acción anticorrupción, para lo cual puede celebrar convenios, acuerdos y demás instrumentos jurídicos con instituciones públicas o privadas.
+
+LII.- Participar, en coordinación con la Secretaría de Administración y Finanzas, en los procedimientos de contratación consolidada. Incluidos aquellos excepcionales de adquisición o arrendamiento de bienes muebles y prestación de servicios que se lleven a cabo a través de dicha estrategia de contratación, conforme a los lineamientos o criterios que para tal fin se emitan con base en la legislación en la materia.
+
+LIII.- Participar en foros nacionales o internacionales en los que se traten temas relativo a su competencia.
+
+LIV.- Llevar a cabo el proceso de evaluación de la confiabilidad de los servidores públicos que ocupen cargos estratégicos, de riesgo o de alto nivel que determine la propia secretaría a través de lineamientos o acuerdos para efecto del ingreso, reingreso, permanencia o cualquiera otro movimiento en el servicio público, mediante la aplicación de exámenes médico, toxicológicos, socioeconómicos, psicológicos y psicotécnicos y, en su caso, cualquier otro que determine la Secretaría mediante disposiciones de carácter general.
+
+LV.- Coadyuvar en el establecimiento de políticas de combate a la corrupción orientadas a su prevención, identificación y erradicación en la Administración Pública Estatal.
+
+El nombramiento de la persona titular de la Secretaría, hecho por la Gobernadora o Gobernador, deberá ser ratificado por el Pleno del Congreso del Estado y, además de cumplir con los requisitos previstos en este código y su reglamento, deberá presentar su declaración patrimonial y de interés conforme a la Ley de Responsabilidades Administrativas del Estado de Yucatán.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -2181,9 +2225,9 @@ En la creación y regulación de entidades paraestatales deberán observarse las
 
 Tratándose de las empresas de participación mayoritaria y fideicomisos públicos deberá observarse lo dispuesto en el presente Código, así como las normas que regulen su conformación, organización y funcionamiento.
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2025)</small>
 
-Se exceptúan del régimen de este Código, los organismos siguientes: la Universidad Autónoma de Yucatán, el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, la Comisión de los Derechos Humanos del Estado de Yucatán y el Instituto Estatal de Acceso a la Información Pública.
+Se exceptúa del régimen de este Código a la Universidad Autónoma de Yucatán.
 
 > <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2325,17 +2369,17 @@ Los organismos públicos descentralizados se regirán por su Órgano de Gobierno
 
 Los decretos, estatutos orgánicos y demás ordenamientos que regulen a las entidades paraestatales deberán observar lo previsto en el párrafo anterior, para el nombramiento directo y remoción del director general o su equivalente.
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2025)</small>
 
 ###### Artículo 72.
 
-El Órgano de Gobierno de los organismos públicos descentralizados podrá estar integrado con no menos de cinco ni más de quince miembros propietarios, quienes deberán designar a sus respectivos suplentes. Será presidido por el Gobernador del Estado o por la persona que éste designe. En ningún caso existirá la función de Vicepresidente.
+El Órgano de Gobierno de los organismos públicos descentralizados podrá estar integrado con no menos de cinco ni más de quince miembros propietarios, quienes designarán a sus suplentes mediante oficio dirigido al Secretario de Actas y Acuerdos.
 
-En la integración del Órgano de Gobierno se procurará que los miembros del mismo pertenezcan a la Administración Pública Estatal.
+El Órgano de Gobierno de los organismos públicos descentralizados será presidido por la Gobernadora o Gobernador del Estado o por la persona que esta o este designe. En ningún caso existirá vicepresidencia.
 
-El Secretario General de Gobierno formará parte del Órgano de Gobierno, designará al Secretario de Actas y Acuerdos y suplirá las ausencias del Presidente.
+En la integración del Órgano de Gobierno se procurará que sus miembros pertenezcan a la Administración Pública Estatal.
 
-El Secretario General de Gobierno será suplido en los términos previstos en el reglamento de este Código.
+El Secretario General de Gobierno formará parte del Órgano de Gobierno y designará al Secretario de Actas y Acuerdos.
 
 ###### Artículo 73.
 
@@ -2727,11 +2771,11 @@ XII.- Las demás que señalen otras leyes, reglamentos, decretos, acuerdos y dem
 
 ### CAPÍTULO IX. Del Control y Evaluación
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2025)</small>
 
 ###### Artículo 117.
 
-El Órgano de Vigilancia de los organismos públicos descentralizados, estará integrado por un comisario propietario y un suplente, designado por la Secretaría de la Contraloría General del Estado y contará con todas las facultades necesarias para el desempeño de sus funciones de vigilancia.
+El Órgano de Vigilancia de los organismos públicos descentralizados estará integrado por un comisario propietario y un suplente, designados por la Secretaría Anticorrupción y Buen Gobierno, y contará con todas las facultades necesarias para el desempeño de sus funciones de vigilancia.
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2739,23 +2783,27 @@ El Órgano de Vigilancia de los organismos públicos descentralizados, estará i
 
 La responsabilidad del control al interior de los organismos públicos descentralizados, se ejercerá por los órganos de gobierno, el director general y los servidores públicos del organismo, en el ámbito de sus respectivas competencias.
 
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2025)</small>
 
 ###### Artículo 119.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en los estatutos y en los términos de la legislación civil y mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los comisarios públicos que serán designados por la Secretaría de la Contraloría General del Estado.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en los estatutos y en los términos de la legislación civil y mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los comisarios públicos que serán designados por la Secretaría Anticorrupción y Buen Gobierno.
 
 ###### Artículo 120.
 
 Los fideicomisos públicos se ajustarán, en lo que sea compatible, a las disposiciones de este Capítulo.
 
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2025)</small>
+
 ###### Artículo 121.
 
-La Secretaría de la Contraloría General del Estado podrá realizar visitas y auditorias a las entidades paraestatales, a fin de supervisar el adecuado cumplimiento de las normas de control.
+La Secretaría Anticorrupción y Buen Gobierno podrá realizar visitas y auditorías a las entidades paraestatales, a fin de supervisar el adecuado cumplimiento de las normas de su competencia.
+
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2025)</small>
 
 ###### Artículo 122.
 
-Las inversiones del Estado en aquellas empresas en las que participe la Administración Pública Estatal con la suscripción del 25% al 50% del capital, serán vigiladas a través del comisario que designe la Secretaría de la Contraloría General del Estado.
+Las inversiones del Estado en aquellas empresas en las que participe la Administración Pública Estatal con la suscripción del 25% al 50% del capital, serán vigiladas a través del comisario que designe la Secretaría Anticorrupción y Buen Gobierno.
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -4102,3 +4150,55 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Diario
 Segundo. Derogación Expresa
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 98/2025 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO; ASÍ COMO DIVERSAS LEYES ESTATALES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en Diario Oficial del Gobierno del Estado de Yucatán, a excepción de las disposiciones relativas al Tribunal de Disciplina Judicial, que lo harán el 1 de septiembre 2025, conforme a lo previsto en el artículo sexto transitorio del Decreto 55/2025 por el que se modifica la Constitución Política del Estado de Yucatán, en materia de reforma al Poder Judicial del Estado de Yucatán.
+
+Armonización legislativa
+
+Artículo segundo. El Congreso del estado deberá realizar las adecuaciones legales necesarias para armonizar el marco jurídico estatal al contenido de este decreto en un plazo que no exceda de ciento ochenta días naturales, contado a partir de su entrada en vigor.
+
+Obligación normativa
+
+Artículo tercero. El Gobernador deberá realizar las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, para armonizarlo en lo conducente a las disposiciones de este decreto, dentro de los ciento ochenta días naturales siguientes, contados a partir de su entrada en vigor.
+
+Movimiento de personal
+
+Artículo cuarto. El personal de Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales que, en términos de la capacidad presupuestaria y las necesidades administrativas, por disposición de las modificaciones contenidas en este decreto pase a formar parte de aquellos que asuman sus atribuciones, cuando corresponda, se estará a lo dispuesto en las disposiciones legales y normativas aplicables, en estricto apego a sus derechos laborales.
+
+El personal de las dependencias que por disposición de la modificación contenida en este decreto pase a formar parte de otra, estará a lo dispuesto en las disposiciones legales y normativas aplicables, en estricto apego a sus derechos laborales.
+
+Destino de recursos
+
+Artículo quinto. El Gobernador, por medio de la Secretaría de Administración y Finanzas, dispondrá lo conducente en relación con el destino de los recursos humanos, financieros, materiales, tecnológicos, bienes muebles e inmuebles, así como archivos, expedientes y documentos asignados a las dependencias a las que se refiere este decreto.
+
+Referencias
+
+Artículo sexto. Cuando en las leyes estatales, sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia a la Secretaría de la Contraloría General o al Secretario de la Contraloría General, se entenderá que se refieren, a la Secretaría Anticorrupción y Buen Gobierno o al Secretario Anticorrupción y Buen Gobierno en la entidad, según corresponda.
+
+Actos en trámite
+
+Artículo séptimo. Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos, que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto realizados por la Secretaría de la Contraloría General, serán asumidos por la Secretaría Anticorrupción y Buen Gobierno, de conformidad con las disposiciones legales y normativas aplicables.
+
+Cumplimiento de disposiciones
+
+Artículo octavo. Las disposiciones de las leyes vigentes que, sin oponerse a lo previsto en este decreto, se refieran a las dependencias de la Administración Pública estatal cuya denominación o atribuciones hayan sido modificadas, continuarán con toda su obligatoriedad y deberán cumplirse por las nuevas dependencias que, en el marco de este decreto, tengan atribuciones iguales o análogas.
+
+Resolución de casos no previstos
+
+Artículo noveno. Se faculta al Gobernador para resolver las cuestiones que puedan suscitarse con motivo de la aplicación del artículo transitorio anterior.
+
+Previsiones presupuestales
+
+Artículo décimo. El Gobernador, en la elaboración del proyecto de Presupuesto de Egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para el debido funcionamiento de las dependencias a las que se refiere este decreto.
+
+El Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, deberá realizar las adecuaciones presupuestales y administrativas en el Presupuesto de Egresos del Gobierno del Estado de Yucatán para el ejercicio fiscal del año 2025 a fin de dar cumplimiento al presente decreto.
+
+Titular de la dependencia
+
+Artículo décimo primero. Con el objeto de no afectar derechos adquiridos con anterioridad a la entrada en vigor de este decreto, la persona titular de la actual Secretaría de la Contraloría General continuará en el cargo de titular de la Secretaría Anticorrupción y Buen Gobierno sin necesidad de nuevo nombramiento por parte del titular del Poder Ejecutivo, ni la ratificación por parte de la legislatura y concluirá su cargo en los términos de su nombramiento.
