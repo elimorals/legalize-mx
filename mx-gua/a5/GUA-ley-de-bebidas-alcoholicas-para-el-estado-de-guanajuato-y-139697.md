@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-bebidas-alcoholicas-para-el-estado-de-guanajuato-y-13969
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2022-12-30"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en la Décima Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -117,9 +117,17 @@ XX. Revocación: Acto administrativo que extingue la licencia o permiso correspo
 
 XXI. SATEG: Servicio de Administración Tributaria del Estado de Guanajuato;
 
-XXII. Servicio de alimentos: Establecimiento que cuenta y desarrolla este servicio y declara dicha actividad ante las autoridades fiscales competentes; y
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
 
-XXIII. Solicitante o peticionario: Persona física o moral que promueve ante el SATEG cualquier trámite señalado en esta Ley.
+XXII. Signos de ebriedad: Cambios físicos, cognitivos o conductuales, manifestados por una persona, posterior al consumo de bebidas alcohólicas dentro o fuera de los establecimientos a quienes aplique la presente Ley;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XXIII. Servicio de alimentos: Establecimiento que cuenta y desarrolla este servicio y declara dicha actividad ante las autoridades fiscales competentes, así como aquellos establecimientos que encuadren con la definición de este servicio en los reglamentos municipales de la materia; y
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XXIV. Solicitante o peticionario: Persona física o moral que promueve ante el SATEG cualquier trámite señalado en esta Ley.
 
 Ejercicio de actividades en materia de alcoholes
 
@@ -475,11 +483,25 @@ II. Cuando cometa infracciones señaladas en la presente Ley en más de dos ocas
 
 III. Cuando se acredite por segunda ocasión que en el establecimiento se hayan enajenado bebidas alcohólicas a menores de edad dentro de los últimos cinco años;
 
-IV. Que se acredite que el titular presentó documentos falsos para cubrir los requisitos establecidos;
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
 
-V. Por violar los sellos de clausura colocados por autoridad estatal o municipal; y
+IV. Cuando se acredite, por la autoridad competente, que el establecimiento que ampara el permiso o licencia sea utilizado para la venta de droga, sustancias prohibidas por las disposiciones legales, psicotrópicas, enervantes, estupefacientes o cualquier otra denominación, especie, sustancias o productos controlados, o bien, se utilice como lugar de narcomenudeo;
 
-VI. A solicitud de los propietarios o poseedores legítimos de inmuebles que acrediten la terminación de la relación jurídica o contractual entre el titular de la licencia y aquellos.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+V. Que se acredite que el titular presentó documentos falsos para cubrir los requisitos establecidos;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+VI. Por violar los sellos de clausura colocados por autoridad estatal o municipal;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+VII. A solicitud de los propietarios o poseedores legítimos de inmuebles que acrediten la terminación de la relación jurídica o contractual entre el titular de la licencia y aquellos; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+VIII. Cuando enajenen bebidas alcohólicas adulteradas, contaminadas o alteradas, en los términos que establece la Ley General de Salud.
 
 Para lo señalado en la fracción I, las solicitudes deberán estar debidamente fundadas y motivadas, anexando la documentación que acredite los supuestos que sustenten dicha solicitud.
 
@@ -537,9 +559,13 @@ Los medidores para realizar pruebas de detección de intoxicación o nivel de al
 
 Los establecimientos deberán informar a los clientes acerca de la implementación de los programas emitidos por la Secretaría de Salud y por la Secretaría de Gobierno, tendientes a evitar o disuadir tanto el consumo excesivo de bebidas alcohólicas, como la conducción de vehículos automotores bajo el influjo del alcohol.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
 
-En los establecimientos se deberá sugerir al conductor que sea notorio su estado de ebriedad que no conduzca, informándole las alternativas de servicio público de transporte;
+En los establecimientos se deberá sugerir a la persona conductora que muestre signos de ebriedad que no conduzca, informándole las alternativas de servicio público de transporte.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Para cumplir con las obligaciones contenidas en los dos párrafos anteriores, todo establecimiento con licencia que corresponda a la fracción I o III del artículo 13 de esta Ley, en su carta de bebidas alcohólicas deberá exhibir el contenido alcohólico por cada producto que oferte, y en forma clara mostrar al menos tres ejemplos de la cantidad de unidades máxima que se considera como límite previo a Io que corresponde a un consumo excesivo de alcohol, de acuerdo a la información publicada de la Secretaría de Salud federal, en la equivalencia de mililitros o gramos que se ha establecido para hombres y mujeres;
 
 > <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
@@ -573,9 +599,21 @@ VII. Enajenar bebidas alcohólicas bajo la modalidad de barra libre;
 
 VIII. Violar sellos de clausura colocados por una autoridad estatal o municipal, en materia de alcoholes;
 
-IX. Enajenar bebidas alcohólicas durante el tiempo que permanezcan clausurados los bienes muebles o los establecimientos; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-X. Enajenar bebidas alcohólicas a granel, salvo las bebidas de bajo contenido alcohólico y bebidas alcohólicas de producción artesanal. Se considerará que dichas bebidas se venden a granel cuando estén contenidas en envases con capacidad mayor de 5 litros.
+IX. Enajenar bebidas alcohólicas durante el tiempo que permanezcan clausurados los bienes muebles o los establecimientos;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+X. Enajenar bebidas alcohólicas a granel, salvo las bebidas de bajo contenido alcohólico y bebidas alcohólicas de producción artesanal. Se considerará que dichas bebidas se venden a granel cuando estén contenidas en envases con capacidad mayor de 5 litros; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XI. Establecer a los clientes la condición de realizar un consumo mínimo para permitirles acceder o permanecer en el establecimiento.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+En ninguna forma que implique consumo mínimo podrá condicionarse la asignación o instalación de mesa en una determinada área del establecimiento, o el acceso a alguna zona reservada.
 
 Horarios de funcionamiento
 
@@ -667,7 +705,7 @@ Son infracciones a las disposiciones de esta Ley las que a continuación se señ
 
 > <small>[N. DE E. VÉASE TABLA EN LA DÉCIMA PARTE DEL P.O. DE 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 33 A LA 36.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA TERCERA PARTE DEL P.O. DE 24 DE SEPTIEMBRE DE 2021, PÁGINA 61.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA , P.O. 24 DE SEPTIEMBRE DE 2021, PÁGINA 61; P.O. 28 DE JULIO DE 2025, PÁGINA 9.]</small>
 
 Requisitos para la imposición de multas
 
@@ -930,3 +968,15 @@ P.O. 30 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 179, MEDIANTE EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 24 DE LA LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
 
 Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 73 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazo para adecuaciones
+
+Artículo Segundo. Los establecimientos contarán con ciento ochenta días a partir de la entrada en vigor del presente Decreto, para incorporar la información de contenido alcohólico en sus cartas de bebidas.
