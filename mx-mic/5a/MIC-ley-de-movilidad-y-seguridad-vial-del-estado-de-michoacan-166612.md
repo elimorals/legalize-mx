@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-movilidad-y-seguridad-vial-del-estado-de-michoacan-16661
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-02"
-last_updated: "2025-03-08"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley publicada en la Novena Sección del Número 7 del Periódico Oficial del Estado de Michoacán, el viernes 2 de junio de 2023.
 
@@ -205,7 +205,7 @@ IX. Bicicleta: Al vehículo de propulsión humana, pudiendo este contar o no con
 
 X. Bici-estacionamiento: Al espacio físico y/o mobiliario urbano utilizado para sujetar, resguardar y/o custodiar bicicletas por tiempo determinado;
 
-XI. Bici-taxi: Al Servicio Público de Transporte Individual de Pasajeros en Bicicleta Adaptada consistente en vehículo de propulsión humana a pedales que puede contar con motor eléctrico para asistir su tracción con el propósito de brindar el servicio público de transporte individual de pasajeros, constituido por una estructura que cuenta con asientos para quien conduce y los pasajeros, que podrá contar con remolque. De uso destinado específicamente en zonas de baja velocidad vehicular no mayor a 30 kilómetros;
+XI. (DEROGADA, P.O. 28 DE JULIO DE 2025)
 
 XII. Boleta de infracción: Formato elaborado por la autoridad mandatada, en el ámbito de sus competencias, y llenado por el Agente o Inspector estatal o municipal, según corresponda, en donde se hace constar una infracción a la presente Ley y su Reglamento, así como su consecuente sanción;
 
@@ -325,7 +325,9 @@ LXIX. SSM: A la Secretaría de Salud de Michoacán;
 
 LXX. SSP: A la Secretaría de Seguridad Pública;
 
-LXXI. Tarifa: A la contraprestación previamente autorizada por el servicio de transporte público y especializado que se preste en territorio estatal, la cual podrá ser mediante pago en efectivo, tarjeta de prepago o cualquier otra forma establecida en la presente Ley, su Reglamento y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+LXXI. Tarifa: La contraprestación previamente autorizada por el servicio de transporte público y especializado que se preste en territorio estatal, la cual podrá ser mediante pago en efectivo, tarjeta de prepago o cualquier otra modalidad autorizada en esta Ley, su Reglamento y demás normatividad aplicable;
 
 LXXII. Titular del Poder Ejecutivo: Al Titular del Poder Ejecutivo del Estado;
 
@@ -519,7 +521,9 @@ III. Al ascenso y descenso en las paradas autorizadas;
 
 IV. Estar amparados por una póliza de seguros o su equivalente que deberá otorgar el prestador del servicio público, para el caso de cualquier accidente o imprevisto al momento de hacer uso del transporte público;
 
-V. Conocer el nombre, placa y número económico del operador, dichos documentos deberán encontrarse en un lugar visible del vehículo y serán de un tamaño que permita su lectura a distancia;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+V. Conocer el primer nombre del operador, placa y número económico de la unidad, dichos documentos deberán encontrarse en un lugar visible del vehículo y serán de un tamaño que permita su lectura a distancia;
 
 VI. Abstenerse de ejecutar o hacer ejecutar a bordo de los vehículos, actos que atenten contra la tranquilidad, seguridad e integridad de los demás usuarios y del conductor;
 
@@ -1039,7 +1043,15 @@ XXVI. Proponer las partidas necesarias en el Presupuesto de Egresos del Estado, 
 
 XXVII. Regular, supervisar, sancionar y otorgar concesiones a quienes pretendan brindar el servicio de Grúa, Arrastre, Arrastre Salvamento y Depósito de Vehículos dentro del territorio del Estado y sus municipios. Así como emitir las tarifas correspondientes al servicio;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XXVII BIS. Vigilar que las personas pensionarias de los servicios auxiliares de Grúa, de arrastre, de arrastre (sic) y salvamento y de depósito de vehículos dentro del territorio del Estado y sus municipios, respeten y se sujeten en todo momento a las tarifas autorizadas establecidas en el tabulador de servicios que deberá formar parte del Reglamento correspondiente;
+
 XXVIII. Emitir el visto bueno con base a los lineamientos previamente establecidos sobre las condiciones de operación de los depósitos para el resguardo y aseguramiento de vehículos que sirven como auxiliares para dicho fin; y,
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XXVIII BIS. Emitir reglas precisas para el control de entradas y salidas del depósito de vehículos, así como la responsabilidad del permisionario sobre la conservación, cuidado y manejo de los vehículos, obligando al permisionario ingresar la información sobre las unidades en un Sistema Informático de Registro de Servicios, el cual también estará integrado por una base tarifaria de cobro; y,
 
 XXIX. Las demás que le confieran la presente ley, su reglamento y las demás disposiciones legales aplicables.
 
@@ -2677,7 +2689,7 @@ I. Público de Movilidad Activa el cual se sub-clasifica y contempla las modalid
 
 A) Bicicletas públicas;
 
-B) Bici-taxis;
+B) (DEROGADO, P.O. 28 DE JULIO DE 2025)
 
 C) Bicicletas colectivas; y,
 
@@ -2771,13 +2783,21 @@ C). Transporte Especializado:
 
 Los vehículos destinados a prestar el servicio en el Sistema Estatal de Transporte, se sujetarán a lo dispuesto por esta Ley y su Reglamento y de conformidad con lo siguiente:
 
-I. Los vehículos destinados para la prestación del servicio de transporte público de pasajeros masivo, semimasivo y cable, deben ser nuevos para ser incorporados al servicio y sustituirse antes de los diez años de la fecha de fabricación, sin perjuicio de que, en el reglamento de esta Ley, se fije un periodo de sustitución diverso en virtud de las características específicas de los vehículos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JULIO DE 2025)</small>
+
+I. Los vehículos destinados para la prestación del servicio de transporte público de pasajeros masivo, semimasivo y cable, deberán no ser mayores a los 12 años para ser incorporados al servicio y sustituirse antes de los doce años de la fecha de fabricación.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+Los vehículos destinados para la prestación del servicio de transporte especializado Escolar, deberán no ser mayores a 12 años para ser incorporados al servicio y sustituirse antes de los trece años de la fecha de fabricación, de conformidad con la Norma Oficial Mexicana NOM-068-SCT-2-2014;
 
 II. Deberán cumplir con lo dispuesto en la Ley de Infraestructura de la Calidad, Normas Oficiales Mexicanas, manuales y normas técnicas en materia de diseño, seguridad, eficiencia y comodidad que se expidan para tal efecto;
 
 III. Los vehículos de carga deberán cumplir las normas de seguridad y protección civil emitidas por las autoridades competentes;
 
-IV. Todos los vehículos a que se refiere el presente título deberán cumplir oportunamente con el pago de los derechos fiscales correspondientes, el seguro de cobertura amplia y la revisión física mecánica respectiva en los términos que establece la presente Ley y su Reglamento; y,
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+IV. Todos los vehículos a que se refiere el presente título deberán cumplir oportunamente con el pago de los derechos fiscales correspondientes, el seguro que contemple al menos responsabilidad civil por daños a terceros, pudiendo adicionalmente contratar modalidades más amplias de cobertura, así como cumplir con la revisión física mecánica respectiva en los términos que establece la presente Ley y su Reglamento; y,
 
 V. Deberán estar inscritos en el Registro del Sistema Estatal de Transporte, portar los elementos de identificación conforme a su tipo y características, tales como placas, tarjeta de circulación; así como cualquier otro mecanismo electrónico de identificación vehicular que para esos efectos implemente el Instituto.
 
@@ -2831,7 +2851,7 @@ Las modalidades para el Servicio de Transporte Público de Movilidad Activa, ser
 
 1. Bicicletas públicas. Es el servicio de bicicletas a disposición del público en general, para que sean utilizadas como modo de transporte individual de manera temporal;
 
-2. Bici-taxi. Es el servicio prestado para el traslado de personas en las zonas previamente autorizadas por el Instituto en conjunto con la autoridad municipal;
+2. (DEROGADO, P.O. 28 DE JULIO DE 2025)
 
 3. Bicicletas Colectivas. Es el servicio prestado con fines turísticos y de recreación; y,
 
@@ -2893,9 +2913,11 @@ III. Mixto de personas pasajeras y bienes. Que será aquel, que preste el servic
 
 IV. Turístico. Que será aquel que preste el servicio para el traslado de personas a puntos de interés histórico, arquitectónico, panorámico, ecológico, artístico o de placer; entre otros fines turísticos, mediante el cobro de una contraprestación convenida con la persona usuaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2025)</small>
+
 ###### Artículo 203.
 
-Para el Transporte público de personas en la modalidad de colectivo de baja y media capacidad este será prestado conforme a los siguientes tipos de servicio:
+Para el Transporte público de personas en la modalidad de colectivo de baja y/o media capacidad este será prestado conforme a los siguientes tipos de servicio:
 
 I. Urbano. Será el que se preste dentro de las zonas urbanas del territorio municipal, en rutas no integradas;
 
@@ -3361,13 +3383,17 @@ Podrán ser sujetos de concesión del servicio del transporte público las sigui
 
 I. Morales y cuyo objeto social sea la prestación del servicio de transporte público en el Estado; y,
 
-II. Personas físicas, que se encuentren debidamente registradas ante el Servicio de Administración Tributaria, podrán obtener una concesión; aquellas que estén inscritas bajo un régimen fiscal con actividad comercial, podrán obtener hasta 5 concesiones de servicio de transporte público, atendiendo las disposiciones de esta Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+II. Personas físicas, que se encuentren debidamente registradas ante el Servicio de Administración Tributaria, podrán obtener una concesión; atendiendo las disposiciones de esta Ley y su Reglamento.
 
 ###### Artículo 250.
 
 Los tipos de concesión del transporte público serán:
 
-I. Concesión de ruta, corredor o zona;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+I. Concesión de ruta, corredor o zona solo para personas morales;
 
 II. Concesión individual; y,
 
@@ -3405,9 +3431,19 @@ VI. Las personas morales cuyo objeto social no sea la prestación del servicio d
 
 VII. A los extranjeros y personas menores de edad.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
+
 ###### Artículo 254.
 
-Cualquier vehículo que opere con concesión del servicio de transporte público deberá contar con póliza de seguro de cobertura amplia, expedido por compañía de seguros debidamente registrada ante la Comisión Nacional de Seguros y Fianzas o en su caso contar con la constancia de cobertura que le expida una Sociedad o Unión Mutualista, fondo de garantía o similar que cubra cualquier responsabilidad derivada de siniestro de tránsito y que se encuentre debidamente registrada ante el Instituto de conformidad a las disposiciones de la presente Ley, su Reglamento y demás normativa aplicable.
+Cualquier vehículo que opere con concesión del servicio de transporte público deberá contar con al menos alguno de los siguientes requisitos:
+
+I. Póliza de seguro de responsabilidad civil por daños a terceros, expedido por compañía de seguros debidamente registrada ante la Comisión Nacional de Seguros y Fianzas;
+
+II. Esquema de fondo de garantía; u,
+
+III. Otra similar que cubra cualquier responsabilidad derivada de siniestro de tránsito.
+
+En el caso de las fracciones II y III, deberá estarse conforme a la normativa aplicable, estar previamente registradas ante el Instituto y ser suficiente para cubrir cualquier responsabilidad derivada de siniestro de tránsito, conforme a las disposiciones de la presente Ley y su Reglamento.
 
 ###### Artículo 255.
 
@@ -3461,7 +3497,7 @@ Las modalidades del Sistema Estatal de Transporte que requieren permisos son:
 
 5. Transporte Funerario;
 
-6. Bicitaxi; y,
+6. (DEROGADO, P.O. 28 DE JULIO DE 2025)
 
 7. Bicicletas Colectivas.
 
@@ -3522,6 +3558,10 @@ Los actos de cesión entre particulares en los cuales se documente y acredite la
 ###### Artículo 269.
 
 El Instituto publicará lineamientos específicos que detallen los estímulos que existirán por la incorporación de vehículos eléctricos, híbridos, gas natural y demás tecnologías de combustión sustentables para la prestación del servicio de transporte público y especializado en el Estado. Además, establecerá las acciones necesarias para la transición gradual de unidades con tecnologías no contaminantes o de bajas emisiones en los servicios de transporte en sus distintas modalidades, con el fin de que además de ser eficientes y eficaces, garanticen la seguridad de las personas usuarias, los derechos de las personas permisionarias y concesionarias y el cumplimiento de sus obligaciones.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+El Instituto publicará los lineamientos específicos en los cuales se establezca el estímulo del 100% de los derechos relativos al otorgamiento de la concesión del Servicio Público del Transporte, a vehículos eléctricos que sean de producción nacional.
 
 ### CAPÍTULO VII. DEL SISTEMA INTEGRADO DEL TRANSPORTE
 
@@ -3627,9 +3667,11 @@ Todas las personas señaladas en esta Ley que tengan como obligación cumplir, c
 
 ### CAPÍTULO IX. DE LAS TARIFAS DEL SISTEMA ESTATAL DE TRANSPORTE
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
+
 ###### Artículo 288.
 
-Las tarifas del Sistema Estatal de Transporte, a que se refiere esta Ley, podrán ser establecidas, actualizadas o modificadas, a través del Instituto previa autorización del Ejecutivo del Estado, debiendo publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Las tarifas del Sistema Estatal de Transporte podrán ser establecidas, actualizadas o modificadas por el Instituto, previa autorización del Ejecutivo del Estado, considerando criterios técnicos, tales como un índice compuesto que incluya la variación del salario mínimo, el precio del combustible, el Índice Nacional de Precios al Consumidor y otros factores relacionados con los costos de operación del servicio. Dichas tarifas deberán revisarse de manera anual con la participación de representates del sector transportista, autoridades estatales y organismos de la sociedad civil. Los ajustes deberán publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### Artículo 289.
 
@@ -3679,17 +3721,21 @@ II. Tarifa Complementaria: Es la que se paga por el servicio suburbano, en los c
 
 En el servicio de Transporte Urbano, Suburbano, Foráneo, Regional y Metropolitano se establecerán tarifas para cada destino y sus principales puntos intermedios, dentro del espacio territorial del municipio, región o zona metropolitana, tomándose como referencia la cabecera municipal con mayor concentración poblacional; las tarifas por cobertura, horario y modalidad serán determinadas conforme a las disposiciones del Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
+
 ###### Artículo 298.
 
-Para el caso de las modalidades del taxi y la bici taxi, el Ejecutivo del Estado a través del Instituto definirá las tarifas conforme lo que se dispone en la presente Ley, su Reglamento, así como en las diversas disposiciones aplicables.
+Para el caso de la modalidad de taxi, el Ejecutivo del Estado a través del Instituto definirá las tarifas conforme lo que se dispone en la presente Ley, su Reglamento, así como en las diversas disposiciones aplicables.
 
 ###### Artículo 299.
 
 Para el servicio de grúas, arrastre, salvamento y remolque, las tarifas serán establecidas anualmente y publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por la SSP, atendiendo los estudios, costos de operación y demás instrumentos que determinen el monto de dicha tarifa.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
+
 ###### Artículo 300.
 
-El Instituto podrá establecer un sistema automatizado de control de la tarifa para el servicio público de taxi. Las personas concesionarias o permisionarias del servicio público de taxi y bici taxi, podrán instalar un sistema digital de determinación de la tarifa previa autorización del Instituto.
+El Instituto podrá establecer un sistema automatizado de control de la tarifa para el servicio público de taxi. Las personas concesionarias o permisionarias del servicio público de taxi, podrán instalar un sistema digital de determinación de la tarifa previa autorización del Instituto.
 
 ###### Artículo 301.
 
@@ -3975,11 +4021,17 @@ Sólo los particulares que cuenten con concesión podrán prestar los servicios 
 
 Para los efectos y aplicación de la multa, se sujetará al procedimiento establecido por el reglamento respectivo que corresponda al caso específico, el cual la fijará en el valor diario de la Unidad de Medida y Actualización, atendiendo al tipo de falta y su gravedad y las circunstancias de su comisión.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+
+La SSP, a través de su portal de internet y las personas permisionarias deberán dar a conocer a la persona usuaria o interesada, las tarifas autorizadas y las condiciones de operación, previo a la prestación del servicio, así como tener en sus oficinas y vehículos destinados al servicio, ejemplares impresos de las tarifas autorizadas y de las reglas de aplicación, que estarán a la vista y a disposición del público usuario.
+
 Únicamente se cobrará por arrastre y guarda del vehículo y no por concepto del tiempo de espera, tipo de maniobra u otros conceptos.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2025)</small>
 
 ###### Artículo 333.
 
-Los elementos legalmente facultados de la autoridad estatal o municipal deberán retirar de la circulación, aquellos vehículos que por su conducción o condición física evidentemente peligrosa, representen un grave riesgo para las personas peatonas, la seguridad de sus ocupantes y de los demás vehículos.
+Los elementos legalmente facultados de la autoridad Estatal o Municipal, retirarán de la circulación aquellos vehículos que no reúnan los requisitos legales, o que representen un grave peligro para la seguridad de sus ocupantes o de los demás vehículos y peatones, así como, el de aquellos que por sus condiciones particulares, puedan ocasionar algún daño a las vías públicas del Estado y sus municipios.
 
 ###### Artículo 334.
 
@@ -4256,3 +4308,21 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para (sic) cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo(sic), así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 191 POR EL QUE "SE REFORMAN LAS FRACCIONES LXXI DEL ARTÍCULO 6, V DEL ARTÍCULO 19, I Y IV DEL ARTÍCULO 188, EL ARTÍCULO 203, LA FRACCIÓN II DEL ARTÍCULO 249, LA FRACCIÓN I DEL ARTÍCULO 250 Y LOS ARTÍCULOS 254, 288, 298 Y 300; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 269 Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 188; Y, SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 6, EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 187, EL NUMERAL 2 DEL ARTÍCULO 197 Y EL NUMERAL 6 DEL ARTÍCULO 262; TODOS DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese al Titular del Poder Ejecutivo para efectos conducentes.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 192 POR EL QUE “SE ADICIONAN LAS FRACCIONES XXVII BIS Y XXVIII BIS AL ARTÍCULO 42 Y UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 332; Y, SE REFORMA EL ARTÍCULO 333 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Notifíquese el presente Decreto al Titular del Ejecutivo del Estado para los efectos legales correspondientes.
