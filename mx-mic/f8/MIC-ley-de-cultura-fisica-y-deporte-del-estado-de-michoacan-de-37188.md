@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cultura-fisica-y-deporte-del-estado-de-michoacan-de-3718
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-16"
-last_updated: "2022-02-18"
+last_updated: "2025-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
 
 Ley Publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
 
@@ -91,13 +91,17 @@ IX. La distinción entre las diversas manifestaciones o modalidades del deporte 
 
 X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-XI. Proteger la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte; y,
+XI. Proteger la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-XII. La existencia de una adecuada cooperación a nivel Estatal y municipal es necesaria para el desarrollo equilibrado y universal de la cultura física y el deporte.
+XII. La existencia de una adecuada cooperación a nivel Estatal y municipal es necesaria para el desarrollo equilibrado y universal de la cultura física y el deporte; y,
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XIII. Garantizar la prevención, atención, sanción y erradicación del hostigamiento y acoso en el deporte, promoviendo un entorno seguro e inclusivo para todas las personas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2022)</small>
 
@@ -129,9 +133,17 @@ VIII. Promover en la práctica de actividades físicas, recreativas y deportivas
 
 IX. Garantizar a todas las personas, la igualdad de oportunidades dentro de los programas que se implementen en materia de cultura física y deporte;
 
-X. Vigilar que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna, siempre que las actividades a realizar no pongan en peligro su integridad; y,
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
-XI. Establecer las bases de coordinación con la Secretaría de Educación en el Estado a fin de comisionar a la CECUFID los recursos humanos calificados que garanticen la aplicación, fomento y desarrollo del Programa Estatal de Cultura Física y Deporte.
+X. Vigilar que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna, siempre que las actividades a realizar no pongan en peligro su integridad;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XI. Establecer las bases de coordinación con la Secretaría de Educación en el Estado a fin de comisionar a la CECUFID los recursos humanos calificados que garanticen la aplicación, fomento y desarrollo del Programa Estatal de Cultura Física y Deporte; y,
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+
+XII. Garantizar la protección contra el hostigamiento, acoso y cualquier forma de violencia en las actividades deportivas, estableciendo mecanismos de denuncia y atención inmediata.
 
 ###### Artículo 3º.
 
@@ -672,6 +684,16 @@ XXXIII Bis. Elaborar el padrón estatal de deportistas de alto rendimiento y de 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
 XXXIV. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 28 DE JULIO DE 2025)</small>
+
+XXXV. Implementar programas y políticas públicas enfocadas en la prevención del hostigamiento y acoso en el deporte, en coordinación con los ayuntamientos y las Asociaciones Deportivas Estatales, las cuales incluirán:
+
+a) Capacitación en coordinación con la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, para entrenadores, personal administrativo y atletas, sobre prevención y detección de conductas de hostigamiento y acoso sexual;
+
+b) Campañas de sensibilización dirigidas a toda la comunidad deportiva; y,
+
+c) Elaborar protocolos específicos de actuación ante casos de hostigamiento deportivo.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
 
@@ -1754,3 +1776,13 @@ P.O. 18 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 23 POR EL QUE “SE REFORMAN: EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 1° BIS, EL PRIMER PÁRRAFO DEL ARTÍCULO 2°, LAS FRACCIONES X Y XI Y SE ADICIONAN LAS FRACCIONES VII BIS, VII TER, XII Y XIII AL ARTÍCULO 4º; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 13, LA FRACCIÓN XXXII DEL ARTÍCULO 19, LAS FRACCIONES IX, X, XX, XXXII Y XXXIII BIS DEL ARTÍCULO 22, EL CUARTO PÁRRAFO DEL ARTÍCULO 81; Y, LA FRACCIÓN IX DEL ARTÍCULO 82, TODOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
+
+P.O. 28 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 186 POR EL QUE “SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 1° BIS; LAS FRACCIONES X Y XI DEL ARTÍCULO 2°; SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 1° BIS; SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 2°; SE ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 22; TODOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Notifíquese al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y trámites correspondientes.
+
+Tercero. La CECUFID en Coordinación con la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, tendrá un plazo no mayor a 90 días naturales, para la elaboración de protocolos que prevengan el hostigamiento y acoso sexual en el deporte. Así como la capacitación para entrenadores, personal administrativo y atletas, sobre prevención y detección de conductas de hostigamiento y acoso sexual.
