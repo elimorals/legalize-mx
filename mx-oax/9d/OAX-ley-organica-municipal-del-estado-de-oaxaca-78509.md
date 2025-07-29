@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2025-05-24"
+last_updated: "2025-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -1531,7 +1531,9 @@ VIII.- Proponer al Ayuntamiento la formulación, modificaciones o reformas a los
 
 IX.- Intervenir en la formulación del inventario general de los bienes muebles e inmuebles propiedad del Municipio, promoviendo la inclusión de los que se hayan omitido, y haciendo que se inscriban en el libro especial con la expresión real de sus valores y las características de identificación, así como el destino de los mismos;
 
-X.- Regularizar ante la autoridad competente, la propiedad de los bienes inmuebles municipales, e inscribirlos en el Registro Público de la Propiedad;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
+
+X.- Regularizar ante la autoridad competente la propiedad de los bienes inmuebles municipales, e inscribirlos en el Instituto Catastral del Estado de Oaxaca y en el Instituto de la Función Registral del Estado de Oaxaca.
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
@@ -2261,7 +2263,9 @@ I.- La expresión de las características y los demás datos necesarios para su 
 
 II.- La expresión de su valor y destino; y
 
-III.- Los datos de inscripción en el registro público de la propiedad.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
+
+III.- Los datos de inscripción en el Instituto Catastral del Estado de Oaxaca y en el Instituto de la Función Registral del Estado de Oaxaca.
 
 ###### ARTÍCULO 113.
 
@@ -2866,6 +2870,10 @@ b) De los conflictos que surjan entre los particulares, que sean susceptibles de
 IV.- Conocer como instancia mediadora de los asuntos encomendados para la conciliación y; además, los asuntos penales que se persigan a petición de parte ofendida, bajo los principios establecidos en la Ley de la materia;
 
 V.- Conocer como defensor del ciudadano de las quejas que se presenten contra el Ayuntamiento, funcionarios representativos o administrativos de éste, así como la prestación de servicios públicos, formulando las recomendaciones correspondientes.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2025)</small>
+
+VI.- Expedir constancias de circunscripción territorial, en el que se expresen medidas y colindancias, superficie total del terreno y de la construcción, así como a ubicación del inmueble, en relación en la tabla de valores de uso de suelo del municipio, para los efectos catastrales;
 
 ###### ARTÍCULO 146.
 
@@ -4728,3 +4736,25 @@ P.O. 24 DE MAYO DE 2025
 PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 708.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES, DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA; SE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. El titular del Poder Ejecutivo del Estado deberá ajustar las disposiciones del Reglamento de la Ley de Catastro para el Estada de Oaxaca, dentro de un plazo no mayor a 180 días naturales.
+
+QUINTO. El Consejo Estatal Catastral, deberá instalarse dentro de un plazo no mayor a 30 días hábiles, una vez publicado este Decreto.
+
+El Director General del Instituto Catastral del Estado de Oaxaca deberá convocar la sesión de instalación para dar cumplimiento al presente Decreto.
+
+SEXTO. Los peritos valuadores que hayan sido registrados o renovados en el Padrón de Peritos Valuadores del Instituto Catastral del Estado de Oaxaca, conforme a la convocatoria para “CURSO PARA EL REGISTRO O RENOVACIÓN EN E PADRÓN DE PERITOS VALUADORES DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA PARA EL EJERCICIO 2024”, publicada el 3 de junio de 2024, en el Periódico Oficial del Gobierno del Estado, continuarán ejerciendo conforme al periodo que les fue otorgado por el Instituto Catastral del Estado de Oaxaca.
+
+SÉPTIMO. El titular del Poder Ejecutivo del Estado y el Honorable Congreso del Estado de Oaxaca realizarán las adecuaciones presupuestas que permitan el cumplimiento del presente Decreto.
+
+OCTAVO. Las Secretaría de Finanzas y la Secretaría de Administración del Poder Ejecutivo del Estado, realizarán las adecuaciones presupuestarias que permitan el cumplimiento del presente Decreto.
