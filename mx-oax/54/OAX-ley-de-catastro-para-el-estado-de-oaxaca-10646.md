@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2020-10-03"
+last_updated: "2025-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -59,9 +59,9 @@ I. Normar las funciones relativas al Catastro de los bienes inmuebles, entendié
 
 II. Determinar las atribuciones de los órganos de autoridad en materia catastral y establecer las facultades de sus titulares, así como las obligaciones correlativas de otros servidores públicos del Poder Ejecutivo o de los Municipios del Estado.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
 
-III. Establecer las obligaciones que en materia catastral tienen los propietarios y los poseedores de bienes inmuebles ubicados en el territorio del Estado, así como las que corresponden a los notarios y demás fedatarios públicos; los Urbanizadores, los Peritos Valuadores con registro ante el Instituto Catastral del Estado de Oaxaca; los sujetos obligados que tengan dicho carácter por encontrarse en los supuestos previstos por la presente Ley y demás ordenamientos aplicables.
+III. Establecer las obligaciones que en materia catastral tienen los propietarios y los poseedores de bienes inmuebles ubicados en el territorio del Estado, así como, las que corresponden a los notarios y demás fedatarios públicos, los urbanizadores y los sujetos obligados que tengan dicho carácter por encontrarse en los supuestos previstos por la presente Ley y demás ordenamientos aplicables.
 
 IV. Establecer las bases para las relaciones de coordinación en materia catastral entre las autoridades estatales, municipales y federales, a fin de garantizar la eficacia de las normas que integran esta Ley, así como para promover, cuando se requiera, la participación de los particulares y de los grupos sociales o agentes económicos interesados, a efecto de mejorar el funcionamiento del sistema catastral del Estado.
 
@@ -74,6 +74,10 @@ VI. Promover la integración y el desarrollo del Sistema de Información Geográ
 ###### ARTÍCULO 3.
 
 El catastro es un sistema de información territorial para usos múltiples, estructurado por los registros documentales, gráficos y alfanuméricos que contienen la información cuantitativa y cualitativa de los bienes inmuebles ubicados en el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+El Sistema de Información Territorial es de uso exclusivo del Instituto Catastral del Estado de Oaxaca, al cual solo tendrán acceso servidoras y servidores públicos, así como Notarios Públicos en términos de lo dispuesto en el Reglamento de la presente Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -135,8 +139,6 @@ Los actos y resoluciones en materia de catastro serán tramitados en la forma, t
 
 A falta de disposición expresa, se consideran como normas supletorias las disposiciones contenidas en el Código Fiscal del Estado, las del Código Civil y las de sus procedimientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 6.
@@ -149,17 +151,13 @@ II. Los actos traslativos de dominio celebrados ante notarios y registradores;
 
 III. Las características del inmueble.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-Las manifestaciones o avisos deberán hacerse en un plazo de treinta días naturales contados a partir de la expedición de los documentos en los que se haga constar la posesión, propiedad o la fecha de celebración de los actos traslativos de dominio, por medio de los tramites de integración al Padrón Catastral, traslado de dominio, cesión de derechos, corrección o actualización de datos, medidas, construcción y fraccionamiento, subdivisión y fusión de bienes inmuebles en los formatos oficiales que para el caso expida el Instituto Catastral del Estado de Oaxaca, acompañando los documentos o planos que señala esta ley y su Reglamento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las manifestaciones o avisos deberán hacerse en un plazo de treinta días naturales contados a partir de la expedición de los documentos en los que se haga constar la posesión, propiedad o la fecha de celebración de los actos traslativos de dominio, en los formatos oficiales que para el caso expida el Instituto Catastral del Estado de Oaxaca, acompañando los documentos o planos que señala esta Ley y su Reglamento.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
 Dichas manifestaciones o avisos generarán el pago de derechos por servicios catastrales en términos de la Ley Estatal de Derechos para el ejercicio fiscal que corresponda, a cargo del propietario o poseedor.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -175,19 +173,27 @@ Para los mismos fines los gobiernos federal, estatal y municipal a través de su
 
 Todos los bienes inmuebles ubicados en el territorio del Estado, sin excepción, deberán estar inscritos en el sistema de información territorial a cargo del Instituto Catastral del Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 8.
 
-Para efectos de esta Ley y su Reglamento, la propiedad inmueble se clasifica en:
+Para efectos de esta Ley y su Reglamento, según su ubicación, los bienes inmuebles se clasifican en:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 I. Predios Urbanos: los que se encuentran dentro del área de Influencia de un centro de población y cuenta con equipamiento, servicios públicos y su destino predominante es habitacional, industrial, comercial o de servicios.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 II. Predios Rústicos: los que se ubican fuera de los centros de población y su uso habitual es agrícola, ganadero, forestal, pesquero o de preservación ecológica, entre otros que señale el Reglamento.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 III. Predios Susceptibles de Transformación: los que se encuentran fuera del área a que se refiere la fracción I de este artículo y su destino o uso es para el desarrollo urbano o que se encuentran contemplados dentro de los planes de desarrollo de un centro de población, para crecimiento futuro, que no cuentan con servicios públicos.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+Para acreditar el antecedente de propiedad o posesión de los bienes inmuebles ubicados en el territorio del Estado ante el Instituto Catastral del Estado de Oaxaca, los interesados deberán presentar según corresponda los documentos que establece el Reglamento de esta Ley, o los que disponga el Catálogo de Tramites y Movimientos Catastrales del Instituto Catastral del Estado de Oaxaca.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -201,11 +207,9 @@ II. El Secretario de Finanzas del Estado de Oaxaca.
 
 III. El Director General del Instituto Catastral del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-IV. Los Coordinadores de Area, notificadores y verificadores adscritos al Instituto Catastral del Estado de Oaxaca.
+IV. Los Coordinadores de Área, Jefes de Unidad, Jefes de Departamento, verificadores y analistas valuadores adscritos al Instituto Catastral del Estado de Oaxaca.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -255,27 +259,37 @@ Compete al Instituto Catastral del Estado de Oaxaca el ejercicio de las atribuci
 
 ARTÍCULO 12 BIS.- Compete a los Delegados Catastrales:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
 I. Realizar las Operaciones Catastrales referentes a la identificación, descripción, delimitación, mensura, inscripción, valuación y revaluación de los bienes inmuebles ubicados dentro de la circunscripción territorial de la delegación a su cargo en estricto apego a las Tablas de Valores Unitarios de Suelo y Construcciones e Instructivo Técnico de Valuación, aprobados por el Congreso del Estado;
 
-II. Solicitar a los propietarios o poseedores de bienes inmuebles datos y documentos que les permitan ratificar o rectificar la información proporcionada, registrar información veraz, confiable y actualizada en el padrón catastral.
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Determinar la procedencia o improcedencia de las solicitudes de trámites catastrales que le sean presentadas, conforme a las normas y procedimientos legales aplicables;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
 
-III. Ordenar o ejecutar las verificaciones físicas necesarias a fin de determinar la valuación o revaluación catastral de los inmuebles, en estricto apego a las Tablas de Valores Unitarios de Suelo y Construcciones e Instructivo Técnico de Valuación así como la zonificación catastral aprobadas por el Congreso del Estado;
+III. Solicitar a los propietarios o poseedores de bienes inmuebles datos y documentos que les permitan ratificar o rectificar la información proporcionada, registrar información veraz, confiable y actualizada en el padrón catastral;
 
-IV. Integrar, conservar y actualizar los registros del padrón inmobiliario y la cartografía catastral.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
 
-V. Remitir al Instituto Catastral del Estado de Oaxaca los reportes de operaciones realizadas con los documentos correspondientes y los archivos digitales para actualizar el padrón estatal inmobiliario.
+IV. Ordenar o ejecutar las verificaciones físicas necesarias a fin de determinar la valuación o revaluación catastral de los inmuebles, en estricto apego a las Tablas de Valores Unitarios de Suelo y Construcciones e Instructivo Técnico de Valuación, así como, la zonificación catastral aprobadas por el Congreso del Estado;
 
-VI. Integrar y mantener bancos de datos regionales, relativos a la infraestructura y equipamiento urbano en los municipios, así como el registro de valores de mercado y valores declarados, para proporcionar información sistematizada y la asesoría y asistencia técnica que le soliciten los municipios en la formulación de sus propuestas de zonificación catastral y determinación de las tablas de valores unitarios de suelo y construcciones para la aprobación del Congreso del Estado, y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
 
-VII. Rendir los informes de gestión establecidos por el Instituto que acrediten el cumplimiento de metas en la gestión catastral y ponderen la eficacia y calidad en el servicio.
+V. Integrar, conservar y actualizar los registros del padrón inmobiliario y la cartografía catastral;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
+
+VI. Remitir al Instituto Catastral del Estado de Oaxaca, los reportes de operaciones realizadas con los documentos correspondientes y los archivos digitales para actualizar el padrón estatal inmobiliario;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
+
+VII. Integrar y mantener bancos de datos regionales, relativos a la infraestructura y equipamiento urbano en los municipios, así como, el registro de valores de mercado y valores declarados, para proporcionar información sistematizada y la asesoría y asistencia técnica que le soliciten los municipios en la formulación de sus propuestas de zonificación catastral y determinación de las tablas de valores unitarios de suelo y construcciones para la aprobación del Congreso del Estado; y
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
+
+VIII. Rendir los informes de gestión establecidos por el Instituto Catastral del Estado de Oaxaca, que acrediten el cumplimiento de metas en la gestión catastral y ponderen la eficacia y calidad en el servicio.
 
 Las atribuciones antes señaladas serán realizadas por los Delegados Catastrales respecto de los Municipios que integren el Distrito Rentístico para el cual hayan sido designados.
 
@@ -329,8 +343,6 @@ VI. Determinar el valor de mercado de los bienes inmuebles, mismo que servirá d
 
 VII. Determinar en forma precisa la localización de cada bien inmueble.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
 VIII. Asignar cuando así proceda, cuenta catastral y clave catastral a cada bien inmueble.
@@ -338,8 +350,6 @@ VIII. Asignar cuando así proceda, cuenta catastral y clave catastral a cada bie
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 IX. Determinar los valores catastrales de cada bien inmueble en estricto apego a las Tablas de Valores Unitarios de Suelo y Construcciones, los Planos de Zonificación Catastral y el Instructivo Técnico de Valuación aprobados por el Congreso del Estado, y asimismo conforme a lo dispuesto por la presente Ley y su Reglamento;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
@@ -379,13 +389,9 @@ XX. Atender y resolver las consultas técnicas y procedimientos que, sobre situa
 
 XXI. Resolver los recursos previstos en esta Ley y su reglamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XXII. Llevar a cabo, previa autorización de la Secretaría de Finanzas la realización de valuaciones y revaluaciones de bienes inmuebles.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -395,9 +401,7 @@ XXIII. Solicitar a las dependencias y organismos auxiliares estatales y municipa
 
 XXIV. Integrar la información estadística, geográfica y jurídica, de interés público, relativa a la propiedad inmobiliaria en el Estado.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-XXV. Expedir la Constancia de Registro de Perito Valuador autorizado.
+XXV. (DEROGADA, P.O. 29 DE JULIO DE 2025)
 
 XXVI. Sancionar las infracciones a la presente Ley.
 
@@ -417,9 +421,7 @@ XXIX. Realizar los estudios técnicos en coordinación con las instancias compet
 
 XXX. Expedir certificaciones de los documentos o datos que obran en el expediente que sirvieron de antecedentes para la apertura de registros catastrales y notificar a los interesados las operaciones catastrales efectuadas;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-XXXI. Fijar los lineamientos respectivos para la autorización de los avalúos que emitan los Peritos Valuadores con registro autorizado por el Instituto Catastral del Estado de Oaxaca.
+XXXI. (DEROGADA, P.O. 29 DE JULIO DE 2025)
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -429,33 +431,25 @@ XXXII. Sistematizar la información estadística y generar los indicadores de ge
 
 XXXIII. Elaborar las propuestas de Planos de Zonificación Catastral;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
 
-XXXIV. Cancelación de Trámite Catastral
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXXIV. Cancelación de Trámite Catastral cuando así proceda, en términos del Reglamento de la presente Ley;
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XXXV. Ejercer las operaciones catastrales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-XXXVI.- Certificar los avalúos catastrales emitidos por Perito Valuador con registro;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXXVI. (DEROGADA, P.O. 29 DE JULIO DE 2025)
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XXXVII. Realizar los estudios técnicos para la identificación y georreferenciación de los límites del territorio del Estado, de sus municipios y del perímetro de las áreas urbanas de sus localidades.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+XXXVIII. Vincular la información catastral con la registral de los predios, con la finalidad de brindar auténtica certeza y seguridad jurídica sobre los derechos de propiedad de las personas, bajo el principio de tracto sucesivo.
 
-XXXVIII. Verificar los avalúos realizados por los Peritos Valuadores, a fin de corroborar que los mismos se hayan realizado en apego a lo dispuesto en la presente Ley; y
+Para tales efectos, podrán implementarse alertas catastrales, a fin de generar avisos de actividades relacionadas con bienes inmuebles propiedad de las personas, sin perjuicio de otros instrumentos que disponga el Reglamento de esta Ley;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -489,23 +483,25 @@ IV. Formular los programas institucionales y elaborar los proyectos de presupues
 
 V. Nombrar y remover, con la aprobación del Secretario de Finanzas, a los funcionarios y, en su caso, a los delegados del Instituto.
 
-VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+VI. Celebrar convenios para el cumplimiento del objeto de la presente Ley, con las instancias de los órdenes de gobierno u organismos especializados en la materia;
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 VII. Dictar, implementar y supervisar las medidas para la vinculación de la información catastral con la registral de los predios, con la finalidad de brindar auténtica certeza y seguridad jurídica sobre los derechos de propiedad de las personas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 (REFORMADA, P.O. 26 DE DICIEMBRE DE 2005) (REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 12 DE NOVIEMBRE DE 2016)
 
 VIII. Las demás que expresamente determine esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 20.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+Para agilizar los trámites y servicios que presta el Instituto Catastral del Estado de Oaxaca, conforme a la normatividad en la materia y los convenios que se suscriban con el Servicio de Administración Tributaria, se implementará el uso de la firma electrónica.
+
+La implementación del uso de la firma electrónica, que refiere el párrafo anterior, estará sujeta a la disponibilidad presupuestaria.
 
 ###### ARTÍCULO 21.
 
@@ -521,57 +517,79 @@ El Instituto contará con las áreas, departamentos y oficinas administrativas q
 
 Las operaciones catastrales tienen por finalidad efectuar la identificación, descripción, delimitación, localización, mensura de los bienes inmuebles, así como su inscripción en los registros catastrales, su valuación y la integración de la información relativa a sus características y elementos físicos.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-ARTÍCULO 23 BIS.- Para los efectos de esta Ley, se considerarán operaciones catastrales las siguientes:
+ARTÍCULO 23 BIS.- Para efectos de esta Ley, las operaciones Catastrales se clasifican en:
 
-I. Levantamiento Catastral.
+I. Trámites catastrales, mediante manifestaciones o avisos en formatos oficiales:
 
-II. Verificación física.
+a) Integración al Padrón Catastral;
 
-III. Elaboración y actualización de la cartografía catastral.
+b) Traslado de Dominio;
 
-IV. Valuación.
+c) Cesión de Derechos;
 
-V. Reevaluación.
+d) Asignación de registro de cuenta catastral por subdivisión o fusión de Predio;
 
-VI. Control, conservación, actualización y archivo de los registros catastrales.
+e) Reasignación de Cuenta Catastral a la fracción restante de una subdivisión;
 
-VII. Inscripción en el Catastro de los bienes inmuebles y sus modificaciones.
+f) Actualización de valor catastral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+g) Rectificación de medidas de predios en los registros catastrales, y
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+h) Corrección o actualización de datos, de medidas de construcción y de fraccionamientos.
 
-VIII. Elaboración de propuestas de Tablas de Valores Unitarios de Suelo y Construcciones y el Instructivo Técnico de Valuación;
+II. Servicios catastrales:
 
-IX. Realizar estudios técnicos para la elaboración de las tablas de valores unitarios de suelo y construcciones.
+a) Reimpresión de registro de cuenta catastral;
 
-X. Zonificación catastral.
+b) Cancelación de Cuenta Catastral en el Sistema de Información Territorial por resolución judicial, o cuando se trate de duplicidad de cuentas, y éstas amparen el mismo bien inmueble a nombre del mismo poseedor o propietario.
 
-XI. Elaboración y determinación de las tipologías constructivas; y
+También procederá la cancelación de registro de cuenta catastral en el Sistema de Información Territorial, cuando exista duplicidad de cuentas derivadas de programas de regularización de la tenencia de la tierra por las autoridades competentes y dichas cuentas amparen el mismo bien inmueble.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Asimismo, procederá la cancelación de la cuenta catastral del enajenante, cuando con motivo de un contrato traslativo de dominio, se traslade la totalidad del inmueble al adquiriente y a este último se le haya otorgado una cuenta catastral y no se haya cancelado la anterior correspondiente al enajenante, conforme al procedimiento que para tal efecto establece el Reglamento de esta Ley.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+c) Reasignación de Cuenta Catastral, por resolución judicial o administrativa;
 
-XII. Certificación de los avalúos.
+d) Valuación de un Predio;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+e) Deslinde catastral;
 
-XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial, o cuando se trate de duplicidad de cuentas, y éstas amparen el mismo bien inmueble a nombre del mismo poseedor o propietario; y
+f) Reapertura de registro de cuenta catastral por resolución judicial o administrativa;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+g) Expedición de información en copias certificadas de los archivos catastrales;
 
-También procederá la cancelación de registro de cuenta catastral en el Sistema de Información Territorial, cuando exista duplicidad de cuentas derivadas de programas de regularización de la tenencia de la tierra por las autoridades competente (sic) y dichas cuentas amparen el mismo bien inmueble.
+h) Expedición de certificado de no registro catastral, por persona;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+i) Expedición de certificado por ubicación y superficie por cada bien inmueble;
 
-XIV. Deslinde Catastral.
+j) Búsqueda de cuentas catastrales a nombre de personas por año;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+k) Informes solicitados por las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, Órganos Autónomos y Autoridades Judiciales, que implique la búsqueda de datos en el Sistema de Información Territorial a cargo del Instituto Catastral del Estado de Oaxaca;
 
-Las operaciones antes señaladas se causarán y pagarán de conformidad con las cuotas que se establezcan en la Ley Estatal de Derechos.
+l) Estudio de gabinete y de campo necesarios para llevar a cabo la zonificación o rezonificación catastral por kilómetro cuadrado;
+
+m) Elaboración de Tabla de Valores Unitarios de suelo urbano, susceptible de transformación, rústico y construcción;
+
+n) Expedición de información cartográfica, planimetría, consistente en límites de manzanas y nombres de calles en papel bond membretado;
+
+o) Expedición de información cartográfica planimetría en medios digitales;
+
+p) Expedición de información cartográfica altimetría tales como escurrimientos, cota y curvas de nivel ordinarias y maestras;
+
+q) Expedición de impresión, o edición de fotografía área, o impresión de ortofotos;
+
+r) Emisión de información de vértices geodésicos;
+
+s) Censo catastral en áreas contiguas;
+
+t) Impresión y/o reimpresión de boletas para el pago del Impuesto Predial solicitado por la Autoridad Municipal;
+
+u) Expedición de archivo digital del padrón municipal catastral; y
+
+v) Las demás que contemple la Ley Estatal de Derechos de Oaxaca y el Reglamento de esta Ley.
+
+Las operaciones antes señaladas causarán y pagarán derechos de conformidad con los montos que se establezcan en la Ley Estatal de Derechos de Oaxaca.
 
 ARTÍCULO 23 BIS 1.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
@@ -649,13 +667,11 @@ Se aplicarán las tablas vigentes en la fecha de elaboración del avalúo, así 
 
 La vigencia de los avalúos a que se refiere este artículo será de doce meses contados a partir de la fecha de su expedición.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 31.
 
-En aquellos casos en que no sea posible el acceso al inmueble por causas no imputables al Instituto o al propietario o poseedor, la autoridad catastral podrá valuar el inmueble con los elementos aportados por el contribuyente, apoyándose en la cartografía, en las Tablas de Valores Unitarios de Suelo y Construcciones, así como en el Instructivo Técnico de Valuación.
+En aquellos casos en que no sea posible el acceso al inmueble por causas no imputables al Instituto Catastral del Estado de Oaxaca, sea porque el propietario o poseedor del bien inmueble no haya esperado al verificador del Instituto Catastral para el Estado de Oaxaca, en el día y hora señalado en la Orden de Verificación Física, previamente notificada; o porque el Inmueble sea objeto de posesión violenta y los ocupantes del mismo, no quieran atender la visita de verificación; el bien inmueble se podrá valuar con los elementos aportados por el contribuyente, apoyándose en la cartografía, en las Tablas de Valores Unitarios de Suelo y Construcciones, así como, en el Instructivo Técnico de Valuación, en términos del reglamento de la Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -749,13 +765,11 @@ Los propietarios de fraccionamientos o condominios antes de celebrar contratos d
 
 De no cumplirse lo establecido en este artículo, los fedatarios públicos no autorizarán las escrituras de los actos señalados anteriormente y las autoridades competentes no las inscribirán. De celebrarse dichos contratos y trasmitirse la posesión de un predio o condominio, las autoridades catastrales harán del conocimiento de las autoridades competentes la existencia de esa irregularidad, para que apliquen a los infractores las sanciones a que haya lugar, o en su caso, las aplicarán directamente conforme a lo previsto en esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 45.
 
-Para efectos de la valuación de los bienes inmuebles en particular, el personal del Instituto Catastral del Estado de Oaxaca o Perito Valuador autorizado, se sujetarán a las disposiciones aplicables que para las visitas domiciliarias prevé el Código Fiscal del Estado. Si los propietarios o poseedores se opusieran en cualquier forma a la visita, el avalúo se hará administrativamente con base en los elementos de que se disponga, apoyándose en la cartografía, en Tablas de Valores Unitarios de Suelo y Construcciones y el Instructivo Técnico de Valuación, sin perjuicio de las sanciones correspondientes.
+Para efectos de la valuación de los bienes inmuebles en particular, con excepción de lo dispuesto en el artículo anterior, el personal del Instituto Catastral del Estado de Oaxaca, se sujetará a las disposiciones aplicables que para las visitas domiciliarias prevé el Código Fiscal para el Estado de Oaxaca. Si los propietarios o poseedores se opusieran en cualquier forma a la visita, el avalúo se hará administrativamente con base en los elementos de que se disponga, apoyándose en la cartografía, en Tablas de Valores Unitarios de Suelo y Construcciones y el Instructivo Técnico de Valuación, sin perjuicio de las sanciones correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -779,9 +793,11 @@ IV. Realizar verificaciones físicas.
 
 El Instituto podrá utilizar las herramientas geográficas de uso libre, para la correcta identificación de los bienes inmuebles.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 47.
 
-Contra los actos en los que se fije el valor catastral de los bienes inmuebles, podrá interponerse recurso de revocación, conforme a lo dispuesto en el Capítulo Décimo Cuarto de esta Ley.
+Contra los actos en los que se fije el valor catastral de los bienes inmuebles, podrá interponerse recurso de revocación, conforme a lo dispuesto en esta Ley y su Reglamento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -871,13 +887,9 @@ Para efectos de esta Ley se entenderá por valor catastral, el que resulte de la
 
 El Instructivo Técnico de Valuación que menciona la presente Ley, contendrá los factores de Mérito, Demérito y el procedimiento para su aplicación, así como los procedimientos de valuación. Se entiende por factores de Mérito y de Demérito, el resultado de aplicar los factores que influyen en el valor del bien inmueble relativos al suelo y construcciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-Para la determinación del valor catastral, el Instituto Catastral del Estado de Oaxaca y en su caso el Perito Valuador, se sujetarán a lo contemplado en el Reglamento de la presente Ley, considerando lo siguiente:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Para la determinación del valor catastral, el Instituto Catastral del Estado de Oaxaca, se sujetarán (sic) a lo contemplado en el Reglamento de la presente Ley, considerando lo siguiente:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -886,8 +898,6 @@ I. La información que sobre las características del bien inmueble manifieste e
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 II. La información sobre las características del bien inmueble con que cuente el Instituto Catastral del Estado de Oaxaca, incluyendo la obtenida en la verificación física;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -909,11 +919,9 @@ Tratándose de predios que estén fuera de la zonificación del municipio respec
 
 ARTÍCULO 50 A.- En el caso de manifestaciones de condominios, por cada aviso de asignación y reasignación de cuenta, se deben manifestar las superficies de suelo y construcción privativa, la superficie de suelo y construcción de áreas comunes, en porcentaje y en metros cuadrados que le corresponde a cada bien inmueble que constituye el condominio, para efectos de determinar su valor catastral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-ARTÍCULO 50 B.- Las inscripción al Catastro de los Bienes Inmuebles se deberá acompañar obligatoriamente del avalúo catastral, practicados por el Instituto Catastral del Estado de Oaxaca o por perito valuador autorizado por la Secretaría de Finanzas y debidamente registrado por el Instituto Catastral del Estado de Oaxaca, con excepción de los trámites de corrección de datos, asignación de cuenta catastral y reasignación de cuenta catastral a favor del mismo dueño o poseedor.
+ARTÍCULO 50 B.- Para la inscripción al Catastro de los Bienes Inmuebles, se deberá acompañar obligatoriamente del avalúo catastral practicado por el Instituto Catastral del Estado de Oaxaca, con excepción de los trámites de corrección de datos, asignación de cuenta catastral y reasignación de cuenta catastral a favor del propietario o poseedor.
 
 ### CAPÍTULO NOVENO. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PARTICULARES Y LOS FEDATARIOS
 
@@ -973,15 +981,15 @@ Cuando en las manifestaciones o avisos a que se refiere esta Ley no se expresen 
 
 Sin perjuicio de lo establecido en este artículo, el Instituto Catastral del Estado de Oaxaca analizará y determinará la procedencia o improcedencia de las manifestaciones, avisos o escritos que presenten los fedatarios públicos y los particulares, cuidando en todo momento que los documentos presentados cumplan con las normas y procedimientos aplicables en las leyes vigentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 53.
 
-Los propietarios, poseedores o sus representantes, están obligados a proporcionar a las autoridades catastrales debidamente autorizadas o Peritos Valuadores registrados ante el Instituto Catastral del Estado de Oaxaca, los datos o informes que les soliciten, en un plazo no mayor de 15 días naturales contados a partir del requerimiento, así como permitirles el acceso al interior de los mismos, siempre y cuando se cumplan con los principios de fundamentación y motivación y las formalidades que para las visitas domiciliarias aplicables establece el Código Fiscal para el Estado de Oaxaca, y dar toda clase de facilidades para la localización de los predios, levantamiento de los planos y demás operaciones catastrales.
+Los propietarios, poseedores, responsables, encargados u ocupantes de predios objeto de verificación, están obligados a permitir el acceso y proporcionar a las autoridades catastrales debidamente autorizadas, toda clase de facilidades para la localización de los predios, levantamiento de los planos y demás operaciones catastrales, previo cumplimiento de las formalidades que establece la presente Ley y su Reglamento.
 
-Cuando por causas imputables a los propietarios, poseedores o representantes de éstos, el Instituto Catastral del Estado de Oaxaca se encuentre imposibilitado para realizar la identificación y valuación, el Instituto no procederá a dar trámite a las manifestaciones o avisos correspondientes.
+Asimismo, los propietarios, poseedores o sus representantes deberán proporcionar los datos o informes que les solicite la autoridad catastral en un plazo no mayor de 15 días naturales contados a partir del requerimiento.
+
+Cuando por causas imputables a los propietarios, poseedores o representantes de éstos, el Instituto Catastral del Estado de Oaxaca, se encuentre imposibilitado para realizar la identificación y valuación, los mismos, se harán de manera administrativa, con base en los elementos de que se disponga.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -1005,25 +1013,27 @@ ARTÍCULO 55 BIS.- Cuando los propietarios o poseedores o cualquiera otra person
 
 Todas las autoridades, dependencias o instituciones que intervengan o den autorización para la celebración de actos jurídicos que por cualquier motivo modifiquen las características de la propiedad inmueble en general o de un bien en particular, están obligadas a manifestarlas al Instituto, dentro de un plazo de 30 días naturales, contados a partir de la fecha en que intervinieron o autorizaron la modificación de elementos que caractericen al predio o construcción.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 57.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+Los Notarios Públicos del Estado, para efecto de presentar sus avisos notariales, deberán de solicitar por escrito ante el Instituto Catastral del Estado de Oaxaca, el registro y asignación de Usuario en el Sistema de Integración Territorial del Estado de Oaxaca (SITEO), en términos del Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 58.
 
-El Instituto Catastral del Estado de Oaxaca, expedirá la información existente en los archivos catastrales a los propietarios o poseedores de los inmuebles registrados que lo soliciten, previo el pago de derechos correspondientes, en los términos de esta Ley y su Reglamento.
+El Instituto Catastral del Estado de Oaxaca, solo expedirá la información existente en los archivos catastrales, previo el pago de derechos correspondientes, a los propietarios, poseedores o sus representantes legales, debiendo estos acreditar el carácter con el que promueven.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+No se proporcionará información a terceros, salvo que acrediten el interés jurídico.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+Los servicios relacionados con productos cartográficos, se expedirá (sic) a los propietarios, poseedores o sus representantes legales, debiendo estos acreditar el carácter con el que promueven, y el pago de los derechos en los términos de la Ley Estatal de Derechos de Oaxaca.
 
-Los servicios relacionados con productos cartográficos se prestarán a cualquier interesado en los términos de la Ley Estatal de Derechos para el ejercicio fiscal que corresponda.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 59.
 
-La inscripción de un inmueble en el padrón catastral no genera ningún derecho de propiedad o posesión del mismo en favor de la persona a cuyo nombre aparezca inscrito.
+La inscripción de un inmueble en el padrón catastral no genera ningún derecho de propiedad o posesión del mismo, en favor de la persona a cuyo nombre aparezca inscrito, no obstante, en los trámites traslativos de dominio, las autoridades catastrales deberán cerciorarse de la existencia del antecedente de propiedad del enajenante, con las documentales que señale el Reglamento de la presente Ley.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -1041,7 +1051,9 @@ Los particulares están obligados a manifestar ante las autoridades catastrales,
 
 Las autoridades judiciales deberán proporcionar al Instituto la información sobre sentencias ejecutorias, que impliquen traslado de dominio.
 
-### CAPÍTULO DÉCIMO. DE LOS DERECHOS Y OBLIGACIONES DE LOS MUNICIPIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2025)</small>
+
+### CAPÍTULO DÉCIMO. DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 62.
 
@@ -1055,605 +1067,529 @@ Los Ayuntamientos del Estado proporcionarán al Instituto, todos los datos, docu
 
 Los Ayuntamientos proveerán lo necesario, dentro de la esfera de su competencia, para la consolidación y desarrollo del Catastro del Estado de Oaxaca.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
 
-### CAPÍTULO DÉCIMO BIS. DE LOS PERITOS VALUADORES
+El Alcalde Municipal, de conformidad con la Ley Orgánica Municipal del Estado de Oaxaca, podrán (sic) expedir constancia de que establezca, que un bien inmueble se encuentre dentro de la circunscripción territorial del Municipio de que se trate, describiendo las medidas y colindancias, así como, la zona de valor en que se ubica el inmueble.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO DÉCIMO BIS], P.O. 29 DE JULIO DE 2025)</small>
 
-ARTÍCULO 64 A.- Para obtener la constancia de registro en el Padrón de Peritos Valuadores, expedida por el Instituto Catastral del Estado de Oaxaca y autorizada por la Secretaría de Finanzas, se deberán reunir los siguientes requisitos:
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS VERIFICADORES Y ANALISTAS VALUADORES DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA
 
-I. Ubicarse en alguno de los siguientes supuestos:
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+ARTÍCULO 64 A.- Para comprobar el cumplimiento de las disposiciones establecidas en esta Ley, el Instituto Catastral de Estado de Oaxaca, llevará a cabo visitas de verificación física, mismas que podrán ser ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles, y las segundas en cualquier tiempo.
 
-a) Tener cédula profesional de arquitectura, de ingeniería civil o de alguna carrera afín a la materia inmobiliaria, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-b) Los profesionistas que no cumplan con lo señalado en el inciso anterior, deberán contar con cédula relativa a una especialidad o maestría en materia de valuación de inmuebles, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
+ARTÍCULO 64 B.- Preferentemente, la práctica de visitas de verificación física a los predios comprendidos en las zonas urbanas del Distrito Judicial del Centro, se llevarán a cabo por verificadores designados por el Director General del Instituto Catastral del Estado de Oaxaca o por la o el servidor público del Instituto Catastral que éste designe.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-II. Contar con experiencia mínima de un año en materia de valuación inmobiliaria;
+ARTÍCULO 64 C.- Las personas Verificadoras serán los servidores públicos del Instituto Catastral del Estado de Oaxaca, que cuenten con cédula profesional de Ingeniero Topógrafo, Ingeniero Civil o Licenciado en Arquitectura, con una especialidad o maestría en materia de valuación de inmuebles, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública.
 
-III. Contar con la Clave Única de Registro de Población y Registro Federal de Contribuyentes;
+El personal designado como verificador, deberá identificarse con gafete o credencial oficial que deberá contener fotografía, nombre, cargo, firma del designado, vigencia y número de credencial; así como el nombre, firma y cargo de la Autoridad Catastral que la expide.
 
-IV. Exhibir currículum vitae actualizado; y
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-V. Acreditar los conocimientos en materia catastral, mediante evaluación realizada a la conclusión del curso sobre valuación inmobiliaria, organizado por el Instituto Catastral del Estado de Oaxaca.
+ARTÍCULO 64 D.- Los verificadores, para practicar una visita de verificación física, deberán estar provistos de orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que deba tener y las disposiciones legales que la fundamenten.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-VI. Exhibir el comprobante de pago de derechos previstos en la Ley Estatal de Derechos por concepto de registro.
+ARTÍCULO 64 E.- De toda visita de verificación física se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se entienda la diligencia o por quien la practique si aquélla se hubiere negado a proponerlos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+ARTÍCULO 64 F.- De toda acta circunstanciada se dejará copia a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el verificador haga constar tal circunstancia en la propia acta.
 
-ARTÍCULO 64 B.- Las solicitudes para obtener la constancia del registro de Perito Valuador deberán presentarse en la forma y horarios que al efecto determine el Instituto Catastral del Estado de Oaxaca, a través de la convocatoria publicada en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación en la Entidad, la cual será publicada en los períodos que se requieran, en función de las propias necesidades del Instituto, la que se deberá realizar cuando menos una vez al año.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+ARTÍCULO 64 G.- La verificación física se realizará con el objeto de obtener información actualizada de la zona donde se ubica el predio y las características físicas particulares del bien inmueble y las construcciones que en él exista, de conformidad con lo establecido en el Reglamento de esta Ley.
 
-Los solicitantes deberán presentar ante el Instituto Catastral del Estado de Oaxaca, el formato que corresponda debidamente requisitado y firmado, mismo que podrán obtener en las oficinas de dicho Instituto, así como la documentación requerida de acuerdo a lo establecido en el artículo anterior.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTÍCULO 64 H.- En las actas circunstanciadas se hará constar:
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+I. Nombre, denominación o razón social del visitado;
 
-Al momento de presentar la solicitud de inscripción al curso, los aspirantes deberán cubrir los derechos que por este concepto establezca la Ley Estatal de Derechos para el ejercicio fiscal que corresponda. En ningún caso procederá la devolución de este pago.
+II. Hora, día, mes y año en que se inicie y concluya la diligencia;
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+III. Avenida, calle, privada o cerrada, número, colonia o población y Municipio en que se encuentre ubicado el lugar en que se practique la visita;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV. Número y fecha de la orden de visita;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+V. Nombre y cargo de la persona con quien se entendió la diligencia;
 
-ARTÍCULO 64 C.- El Instituto Catastral del Estado de Oaxaca turnará los expedientes de los aspirantes a la Secretaría de Finanzas, la que, en su caso, emitirá su autorización en el término de quince días naturales contados a partir de la recepción de los mismos.
+VI. Nombre y domicilio de las personas que fungieron como testigos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VII. Datos relativos a la actuación;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+VIII. Declaración del visitado, si quiere hacerla; y
 
-Recibida la autorización de la Secretaría de Finanzas, el Instituto Catastral del Estado de Oaxaca publicará la relación de Peritos Valuadores que se incorporarán al Padrón de Peritos Valuadores, en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación en la Entidad, a más tardar dentro de los quince días naturales siguientes, contados a partir de recibida dicha autorización.
+IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien o quienes la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
 
-El Instituto Catastral del Estado de Oaxaca expedirá posteriormente la constancia de registro respectivo con vigencia para un ejercicio fiscal, la que deberá contener por lo menos:
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-I. Firma del Titular que autoriza y expide;
+ARTÍCULO 64 I.- Los propietarios, poseedores, responsables, encargados u ocupantes de (sic) predio objeto del acta de verificación física, podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien, por escrito, así como hacer uso de tal derecho dentro del término de cinco días hábiles siguientes a la fecha en que se hubiere levantado el acta respectiva.
 
-II. Vigencia; y
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-III. Fotografía del Perito Valuador.
+ARTÍCULO 64 J.- Con la información recabada por los verificadores y los analistas valuadores del Instituto Catastral del Estado de Oaxaca, se procederá a realizar la Valuación Catastral, que es el procedimiento de valoración de los datos del predio, aplicando el Instructivo Técnico de Valuación, las tablas de valores de usos de suelo y de construcción, elaborando el documento oficial denominado Avalúo Catastral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+ARTÍCULO 64 K.- El Avaluó Catastral es el documento oficial por el cual se fija el valor de la base catastral de un bien Inmueble, que es el resultado de la suma del valor total del terreno, más y el valor total de la construcción, derivado del proceso de valoración que refiere el artículo anterior.
 
-ARTÍCULO 64 D.- El Instituto Catastral del Estado de Oaxaca no dará trámite a la solicitud de los aspirantes cuando del análisis y revisión de sus expedientes, detecte que los aspirantes se encuentren en uno de los supuestos que señalan los artículos 64 N y 64 Ñ de esta Ley, que se refieren a la suspensión, o cancelación definitiva del registro, respectivamente.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-Para el caso de no aprobarse el registro, el Instituto Catastral del Estado de Oaxaca deberá notificarlo por escrito al solicitante, dentro de los quince días hábiles siguientes a la solicitud respectiva.
+ARTÍCULO 64 L.- El Valuador Catastral y el analista valuador, serán designados por el Director General del Instituto Catastral del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+ARTÍCULO 64 M.- El Valuador Catastral y el analista valuador, son los servidores públicos del Instituto Catastral que cuenten con cédula profesional de Ingeniero Civil o Licenciado en Arquitectura, con una especialidad o maestría en materia de valuación de inmuebles, o de alguna carrera afín a la materia inmobiliaria; expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública.
 
-ARTÍCULO 64 E.- Podrá solicitarse la renovación de registro al Padrón de Peritos Valuadores en un plazo no mayor a treinta días hábiles previos a su vencimiento. La solicitud que se ingrese fuera de este plazo se tendrá por no presentada.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-Los Peritos Valuadores que continúen cumpliendo con los requisitos para obtener la renovación serán publicados en el mes de enero de cada año en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación.
+ARTÍCULO 64 N.- El Valuador Catastral y el analista valuador, son el personal de apoyo del titular del área encargada de emitir los avalúos catastrales, que refiere el Reglamento de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+ARTÍCULO 64 Ñ.- El Valuador Catastral y el analista valuador, deberán aplicar lo establecido en el Instructivo Técnico de Valuación, las tablas de valores de usos de suelo y de construcción que establezcan las Leyes de Ingresos de los Municipios del Estado, por lo que se encuentran impedidos para interpretar la zonificación que ya se encuentra determinada, en los instrumentos antes citados.
 
-ARTÍCULO 64 F.- Para renovar el registro en el Padrón se deberá cumplir con los siguientes requisitos:
+ARTÍCULO 64 O.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-I. Presentar la solicitud que para el caso publique el Instituto Catastral del Estado de Oaxaca;
+ARTÍCULO 64 P.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-II. Comprobante de pago por concepto de renovación;
+ARTÍCULO 64 Q.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2012)
+ARTÍCULO 64 R.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+ARTÍCULO 64 S.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-IV. Acreditar un mínimo de cuarenta horas de capacitación sobre valuación catastral, impartida por el Instituto Catastral del Estado de Oaxaca o institución reconocida por la Secretaría de Educación Pública o la Secretaría del Trabajo y Previsión Social, durante el año inmediato anterior, y
+ARTÍCULO 64 T.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-V. No encontrarse en los supuestos previstos en los artículos 64 N y Ñ de esta Ley.
+ARTÍCULO 64 U.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+ARTÍCULO 64 V.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+ARTÍCULO 64 W.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-ARTÍCULO 64 G.- Los Peritos Valuadores, tendrán las siguientes obligaciones:
+ARTÍCULO 64 X.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-I. Acreditar su carácter como perito valuador, durante el desempeño de sus funciones;
+ARTÍCULO 64 Y.- (DEROGADO, P.O. 29 DE JULIO DE 2025)
 
-II. Acatar las disposiciones establecidas en la presente Ley y su Reglamento, y las que en materia de valuación se emitan al respecto;
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO DÉCIMO PRIMERO], P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPÍTULO DÉCIMO SEGUNDO. DE LOS TRÁMITES CATASTRALES
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-III. Determinar el valor catastral de los inmuebles ubicados en el Estado de Oaxaca;
-
-IV. Realizar la verificación física del inmueble;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-V. Realizar los avalúos observando las Tablas de Valores Unitarios de Suelo y Construcciones, los Planos de Zonificación Catastral y el Instructivo Técnico de Valuación;
-
-VI. Realizar conjuntamente con el personal autorizado por la Secretaría de Finanzas o el Instituto Catastral del Estado de Oaxaca, la verificación física del inmueble objeto de avalúo, en caso de ser requerido; y
-
-VII. Las demás que determinen las disposiciones legales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 H.- El Perito Valuador deberá presentar en el Instituto Catastral del Estado de Oaxaca u oficina autorizada por éste, los avalúos elaborados para su certificación en términos de esta Ley y su Reglamento, mediante los formatos que para el caso expida dicho Instituto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 I.- La función de Perito Valuador es incompatible con el servicio en la función y fe públicas, empleos, cargos de elección popular federal, estatal o municipal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 J.- Los Peritos Valuadores no podrán:
-
-I. Transmitir total o parcialmente, bajo cualquier título, los efectos que deriven del registro;
-
-II. Intervenir en asuntos que tengan interés directo o indirecto;
-
-III. Imponer condiciones, prestaciones u obligaciones a los particulares que no estén previstos en esta Ley y su Reglamento;
-
-IV. Alterar los datos de los avalúos que se practiquen y de los autorizados por el Instituto Catastral del Estado de Oaxaca; y
-
-V. Presentar un avalúo con uso de suelo distinto al que está destinado el inmueble.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 K.- Los Peritos Valuadores que incumplan con las obligaciones establecidas en la presente Ley, se harán acreedores a la imposición de las siguientes sanciones:
-
-I. Amonestación por escrito;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-II. Multa por el equivalente de quinientas a mil veces el valor de la Unidad de Medida y Actualización vigente;
-
-III. Suspensión temporal del registro de uno a seis meses; y
-
-IV. Cancelación definitiva del registro de Perito Valuador.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 L.- Procede la amonestación por escrito, cuando se presente un avalúo con errores de datos que no trasciendan al resultado del mismo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 64 M.- El Instituto Catastral del Estado de Oaxaca, procederá a imponer multa equivalente de quinientas a mil veces el valor de la Unidad de Medida y Actualización vigente, cuando los Peritos Valuadores incurran en lo siguiente:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-I. Presentar el avalúo con datos no reales, que afecten esencialmente el mismo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-II. Omitir la información relativa a la construcción existente en el predio objeto del avalúo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-III. Presentar el avalúo con elementos constructivos que no correspondan a la tipología de construcción del inmueble;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-IV. Presentar avalúo con un uso de suelo distinto al que está destinado el inmueble;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-V. No presentar la documentación que le requiera el Instituto Catastral del Estado de Oaxaca para proceder a la certificación de los avalúos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-VI. Negarse a llevar a cabo la verificación física conjuntamente con personal autorizado por el Instituto Catastral del Estado de Oaxaca, para la identificación del inmueble objeto del avalúo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-VII. No desempeñar personalmente sus funciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-Lo anterior sin perjuicio de las demás sanciones a que se refiere el artículo 64 K de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 N.- Son causas de suspensión realizar cualquiera de los supuestos previstos en el artículo 64 J de esta ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 Ñ.- Procederá la cancelación definitiva del registro, por:
-
-I. Haber obtenido el registro con información y/o documentación falsa;
-
-II. Reincidencia en la realización de los supuestos previstos en el artículo 64 J de esta Ley o cualquier otra disposición legal aplicable; y
-
-III. Ser condenado por delito intencional con motivo del ejercicio de sus funciones, mediante sentencia ejecutoriada que amerite pena corporal o que por la misma sea suspendido del ejercicio profesional.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 O.- La imposición de las sanciones se realizará previa audiencia del Perito Valuador, conforme al siguiente procedimiento:
-
-I. El oficio de observaciones dará inicio al procedimiento, en el cual se hará constar en forma circunstanciada los hechos y omisiones que se hubiesen conocido y entrañen probable incumplimiento a las disposiciones legales, que deberá ser notificado de manera personal, para que el Perito Valuador dentro de los 15 días siguientes y por escrito, exponga lo que a su derecho convenga y, en su caso aporte las pruebas con que cuente;
-
-II. Una vez recibido el escrito y desahogadas las pruebas ofrecidas y admitidas, el Instituto Catastral del Estado de Oaxaca procederá dentro de los 15 días hábiles siguientes, a dictar por escrito la resolución que proceda, la cual deberá ser notificada en forma personal o por correo certificado con acuse de recibo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 P.- La resolución que dicte el Instituto Catastral del Estado de Oaxaca a los Peritos Valuadores, por la que imponga alguna de las sanciones establecidas en la presente Ley, podrá ser impugnada mediante recurso de revisión, dentro de los quince días hábiles siguientes a aquel en que haya surtido efectos la notificación de la resolución recurrida.
-
-El escrito de interposición del recurso deberá presentarse ante la Secretaría de Finanzas o ante la Oficina Recaudadora de Rentas correspondiente o por correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar en que resida el recurrente; en estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina recaudadora o de correos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
-
-ARTÍCULO 64 Q.- El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 24 de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y señalar además:
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-I. La resolución recurrida;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-II. Los agravios que le cause la resolución; y
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-III. Las pruebas que se ofrezcan y los hechos controvertidos de que se trate.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-Cuando no se expresen los agravios, no se señale la resolución que se recurre, los hechos controvertidos o no se ofrezcan las pruebas a que se refieren las fracciones I, II y III, la Secretaría de Finanzas requerirá al promovente para que dentro del plazo de cinco días cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le cause la resolución, la Secretaría de Finanzas desechará el recurso; si no se señala la resolución que se impugna se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
-
-Cuando no se gestione en nombre propio, la representación deberá acreditarse en términos del artículo 24 de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 R.- El promovente deberá acompañar al escrito en que se interponga el recurso:
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
-
-I. Los documentos que acrediten su personalidad en términos del artículo 24 de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca;
-
-II. El documento en que conste la resolución recurrida;
-
-III. Constancia de notificación de la resolución recurrida, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo; y
-
-IV. Las pruebas documentales que ofrezca.
-
-Los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopia simple, siempre que obren en poder del recurrente los originales. En caso de que presentándolos en esta forma la Secretaría de Finanzas tenga indicios de que no existen o son falsos, podrá exigir al recurrente la presentación del original o copia certificada para su cotejo.
-
-Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la Secretaría de Finanzas, requerirá al promovente para que los presente dentro del término de cinco días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III de este artículo, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV de este mismo artículo, las mismas se tendrán por no ofrecidas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 S.- Es improcedente el recurso cuando se haga valer contra resoluciones:
-
-I. Que no afecten el interés jurídico del recurrente;
-
-II. Que sean resoluciones dictadas en recurso administrativo, o en cumplimiento de éstas o de sentencias;
-
-III. Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
-
-IV. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
-
-V. Que hayan sido recurridas en recurso de revisión, siempre que se trate de la misma resolución recurrida, aunque las violaciones sean distintas;
-
-VI. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 64 U de esta Ley; y
-
-VII. Si la resolución es revocada por la autoridad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 T.- Procede el sobreseimiento del recurso de revisión en los casos siguientes:
-
-I. Cuando el promovente se desista expresamente de su recurso;
-
-II. Cuando durante el procedimiento en que se substancíe el recurso de revisión sobrevenga alguna de las causas de improcedencia a que se refiere el artículo 64 S de esta Ley;
-
-III. Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe la resolución impugnada; y
-
-IV. Cuando hayan cesado los efectos de la resolución impugnada.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 U.- Cuando se alegue que la resolución recurrida no fue notificada o que lo fue ilegalmente, se estará a las reglas siguientes:
-
-I. Si el recurrente afirma conocer la resolución administrativa, la impugnación contra la notificación se hará valer mediante la interposición del recurso de revisión contra dicha resolución, en el que manifestará la fecha en que la conoció.
-
-En caso de que también impugne la resolución administrativa, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación;
-
-II. Si el recurrente niega conocer la resolución, manifestará tal desconocimiento interponiendo el recurso de revisión ante la Secretaría de Finanzas, para notificar dicha resolución. La citada autoridad le dará a conocer la resolución junto con la notificación que de la misma se hubiere practicado, para lo cual el recurrente señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer la resolución y la notificación por estrados.
-
-El recurrente tendrá un plazo de quince días hábiles a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso de revisión, impugnando la resolución y su notificación o sólo la notificación;
-
-III. La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho de la resolución administrativa; y
-
-IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor de la resolución administrativa desde la fecha en que manifestó conocerla o en que se le dio a conocer en los términos de la fracción II de este artículo, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicha resolución.
-
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra la resolución se interpuso extemporáneamente, desechará dicho recurso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 V.- En el recurso de revisión se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
-
-Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, incluyendo los digitales; pero si en los documentos públicos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
-
-Las demás pruebas quedarán a la prudente apreciación de la Secretaría de Finanzas.
-
-Si por la adminiculación de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 W.- La autoridad deberá dictar resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición del recurso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 X.- La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez de la resolución impugnada, bastará con el examen de dicho punto.
-
-La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar la resolución administrativa cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que la consideró ilegal y precisar el alcance de su resolución.
-
-No se podrán revocar o modificar la resolución en la parte no impugnada por el recurrente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 64 Y.- La resolución que ponga fin al recurso podrá:
-
-I. Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo, en su caso;
-
-II. Confirmar la resolución recurrida;
-
-III. Mandar reponer el procedimiento administrativo o que se emita una nueva resolución;
-
-IV. Dejar sin efectos la resolución impugnada; y
-
-V. Modificar la resolución o dictar una nueva que la sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
-
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de tres meses, contados a partir de la fecha en que dicha resolución se encuentre firme.
-
-### CAPÍTULO DÉCIMO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 65.
 
-Las infracciones a la presente Ley serán sancionadas con multa, calculada en base al valor de la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción.
+Los trámites que el Instituto Catastral del Estado de Oaxaca realiza, son los establecidos en el presente capítulo, y deberán de cumplir con los requisitos que señale en (sic) el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-Dichas sanciones se determinarán tomando en cuenta la trascendencia de la infracción y la reincidencia, salvo cuando la impuesta sea la mínima.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 66.
 
-Se impondrá multa de cinco a diez veces el valor de la Unidad de Medida y Actualización vigente, a todos aquellos propietarios o poseedores de un bien inmueble:
+El Reglamento de esta Ley establecerá los supuestos en los que procederá la cancelación de las solicitudes de los trámites catastrales señalados en el presente capítulo.
 
-I. Que no proporcione al Instituto, los datos o informes que éste le solicite.
-
-II. Que, habiéndose cumplido las formalidades previstas en el Código Fiscal del Estado para las visitas domiciliarias, no permita el acceso al interior del inmueble al personal del Instituto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-III. Que de manera dolosa obstruya los trabajos del personal del Instituto Catastral del Estado de Oaxaca o Perito Valuador autorizado para la valuación, revaluación, localización, identificación, mensura y levantamiento de los planos, así como las demás operaciones catastrales relativas a los bienes inmuebles en los términos establecidos en esta Ley.
-
-IV. Que no realice las manifestaciones o avisos que esta Ley le impone.
-
-V. Que no manifieste al Instituto cualquier modificación que se haga a los elementos y características físicas del inmueble.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-Para la imposición de las multas en los supuestos señalados en las fracciones II y III de este artículo, la autoridad competente deberá levantar acta circunstanciada con las formalidades aplicables que señala el Código Fiscal para el Estado de Oaxaca para las visitas domiciliarias, en la que se hará constar la imposibilidad de realizar las operaciones catastrales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-Las multas previstas en este artículo las hará efectivas la Secretaría de Finanzas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 67.
 
-Se impondrá una multa de 100 a 500 veces el valor de la Unidad de Medida y Actualización vigente, cuando los fraccionadores, lotificadores o propietarios de condominios cometan alguna de las infracciones a que se refiere el artículo anterior, o cuando éstos antes de la terminación de las obras celebren un contrato traslativo de dominio, preparatorio o definitivo, sin tener la autorización correspondiente.
+El trámite de integración al padrón catastral, es el que se realiza cuando un inmueble se encuentra oculto a la acción del fisco y no se encuentra registrado en el Sistema de Información Territorial a cargo de este Instituto Catastral del Estado de Oaxaca.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+El trámite será improcedente cuando el inmueble de que se trate, ya se encuentre inscrito en el Sistema de Información Territorial del Instituto Catastral del Estado de Oaxaca.
 
-###### ARTÍCULO 68.
+La salvedad, a lo establecido en el presente artículo, serán los programas de regularización de la tenía (sic) de la tierra, promovidos por la instancia reguladora, así como la ejecución de los decretos expropiatorios por causa de utilidad pública que realicen los gobiernos Federal o Estatal.
 
-Se impondrá multa de entre cien a quinientas veces el valor de la Unidad de Medida y Actualización vigente, a todos aquellos Notarios Públicos que intervengan en la celebración de contratos que transmitan o modifiquen el dominio de inmuebles, en los siguientes casos:
-
-I. Cuando no cumplan el término de 30 días naturales para dar aviso al Instituto sobre la celebración de un acto jurídico en el que intervengan y que modifique las características de la propiedad o posesión de un inmueble.
-
-II. Cuando presenten al Instituto Catastral del Estado de Oaxaca información no fidedigna respecto a los bienes inmuebles a los que se refiere la fracción anterior.
-
-###### ARTÍCULO 66.
-
-(SIC) (DEROGADO, P.O. 3 DE OCTUBRE DE 2020)
-
-###### ARTÍCULO 67.
-
-(SIC) (DEROGADO, P.O. 3 DE OCTUBRE DE 2020)
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 68.
 
-(SIC) (DEROGADO, P.O. 3 DE OCTUBRE DE 2020)
+El trámite de traslado de dominio es el que se realiza sobre un inmueble con cuenta catastral con motivo de la celebración de contratos traslativos de dominio, a través de los avisos notariales.
+
+El Reglamento de esta Ley establecerá los requisitos y las particularidades cuando el traslado de dominio, tenga como base una compraventa con crédito hipotecario, así como los supuestos de improcedencia.
+
+El Reglamento de esta Ley, también establecerá la improcedencia de este trámite cuando exista empalmes de cuentas, proporcionando al interesado, los datos catastrales con los que se identifique al tercero que se ostente como propietario o poseedor del mismo bien inmueble.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 69.
 
-Las multas a que se refiere este capítulo se impondrán sin perjuicio de que los infractores se puedan hacer acreedores a otras sanciones, en los términos de esta Ley, su Reglamento y demás disposiciones aplicables; para lo cual, en su caso, el Instituto girará comunicación a las autoridades competentes.
+El trámite de cesión de derechos es aquel que se realiza sobre un inmueble con cuenta catastral del régimen de propiedad social, ya sea comunal o ejidal, con motivo de un contrato de cesión de derechos posesorios ante la autoridad agraria correspondiente.
+
+También procede este trámite sobre un inmueble con cuenta catastral, que no cuenta con título de propiedad y que, al carecer del mismo, aun cuando fuere registrado ante el Instituto de la Función Registral del Estado de Oaxaca, con carácter definitivo el antecedente de posesión; únicamente podrá ser objeto de sesión de derechos posesorios.
+
+De la misma manera procederá la cesión de derechos de una copropiedad indivisa.
+
+En los casos a que refiere los párrafos segundo y tercero de este artículo, los contratos se harán en escritura pública, debiendo dar aviso el Notario Público que conozca de los mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 70.
 
-Las resoluciones y cualquier otro acto u operación catastral que deba hacerse del conocimiento de los propietarios, poseedores o sus representantes legales, se notificarán de conformidad con las disposiciones que para estos actos prevé el Código Fiscal del Estado.
+Los trámites por los que se asignan cuentas catastrales son:
+
+I. Cuando derivado de una subdivisión o fraccionamiento, de un inmueble con cuenta catastral se le deba asignar a cada fracción una cuenta catastral y reasignarle a la fracción restante la cuenta catastral original o cuenta madre;
+
+Los propietarios de los inmuebles fraccionados, pagarán por cada fracción el derecho correspondiente a la asignación de registro de cuenta catastral, así como la multa correspondiente por incumplimiento a lo dispuesto en esta Ley, y
+
+II. Cuando derivado de la fusión de predios con cuenta catastral, deba de asignarse a la totalidad de la superficie fusionada una nueva cuenta catastral, salvo que el propietario o poseedor, manifieste el número de cuenta que deba prevalecer.
+
+Tratándose de fusión de predios se pagarán los derechos por cada registro catastral fusionado y por cada cuenta catastral cancelada con motivo de la fusión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 71.
 
-Los propietarios o poseedores de bienes inmuebles ubicados en el Estado, podrán acudir en vía de aclaración ante el Instituto para los efectos previstos en el presente capítulo.
+La reasignación de una Cuenta Catastral, se realizará cuando derivado de una subdivisión o fraccionamiento, se reasigna a la fracción restante la cuenta original o cuenta madre.
+
+Así mismo, se reasignará cuenta catastral cuando exista registro en el Sistema de Información Territorial del Instituto Catastral y obre expediente físico en los archivos de la Autoridad Catastral del bien inmueble del propietario o poseedor.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 72.
 
-Procede la aclaración ante el instituto en los siguientes casos:
+En todos los casos de subdivisión o fraccionamientos se deberán presentar simultáneamente los trámites de asignación y reasignación de cuenta catastral.
 
-I. Cuando el nombre del propietario o poseedor del inmueble sea distinto de aquel que aparece en los padrones catastrales.
-
-II. Cuando la clave catastral sea distinta de la que le corresponde al bien inmueble.
-
-III. En los demás casos en que haya diferencias entre los datos asentados en el padrón catastral y las características del bien inmueble.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 73.
 
-Los propietarios, poseedores o sus representantes legales podrán solicitar al Instituto en todo tiempo la aclaración de los datos asentados en el padrón catastral, en los casos a los que se refiere el artículo anterior.
+El trámite de actualización de valor catastral, procede en los supuestos enunciados en el artículo 29 de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 74.
 
-La aclaración deberá ser solicitada ante el Instituto mediante escrito que contendrá los siguientes datos:
+El trámite de rectificación de medidas de predios en los registros catastrales, procede cuando las medidas a rectificar no excedan del 20% de la superficie inscrita o descrita en el documento con el que se acredite la propiedad o posesión del inmueble.
 
-I. Nombre y domicilio del solicitante.
+Tratándose de excedencias menores al 20% de la superficie inscrita o descrita en el documento con el que se acredite la propiedad o posesión del inmueble, solo procederá por única ocasión, en razón de que dicho inmueble no puede seguir acrecentando su superficie indefinidamente.
 
-II. Clave catastral del inmueble de que se trate.
+No obstante, lo anterior, si derivado de la diligencia del deslinde de un predio la superficie decrece, procederán las rectificaciones de medidas.
 
-III. Ubicación, colindancias, superficie y linderos del bien inmueble.
+Si con motivo de la rectificación de medidas de predios en los registros catastrales, de excedencias menores al 20%, existe un empalme parcial de cuentas, no procederá dicho trámite, salvo errores en la ubicación cartográfica, para ello deberá de cerciorar que los trazos en la cartografía respecto de los colindantes, sea conforme a la verificación física que se realice a los dos inmuebles con supuesto empalme.
 
-IV. Razones que motivan la solicitud de aclaración.
+Será improcedente el trámite de rectificación de medidas cuando las excedencias sean mayores al 20%, considerándose dicha excedencia superficie oculta a la acción del fisco estatal, por lo que deberá de inscribirse en los términos señalados por el artículo 67 de esta Ley.
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+La salvedad al párrafo anterior será el error evidente en la declaración o aviso, atribuible al Notario Público o de anotación o registro atribuible al Instituto Catastral, conforme a las constancias que obren en el expediente catastral.
 
-V. Documentos de antecedentes de prueba que sustenten la procedencia de la solicitud de aclaración.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 75.
 
-El Instituto deberá resolver la aclaración dentro del tiempo de 15 días naturales, contados a partir de la fecha de recepción de la solicitud.
+El Trámite de Corrección y/o actualización de datos, es el que se realiza, cuando se adviertan errores en los datos asentados en la cédula catastral y no coincidan con los datos que establece el documento por el que se acredita la propiedad o la posesión.
+
+Tratándose de la actualización de datos, para que este proceda, no deberá alterar la superficie del predio y la base catastral registrada.
+
+La corrección de los datos no causará derechos, si el error es atribuible a los servidores públicos del Instituto Catastral del Estado de Oaxaca, siempre que se presente el recurso de revisión oportunamente, dentro del término señalado por esta Ley.
+
+Si los errores son atribuibles al propietario, poseedor o Notario Público que dio el aviso deberán realizar el pago de los derechos por la corrección solicitada.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 76.
 
-Los propietarios o poseedores de bienes inmuebles ubicados en el territorio del Estado, podrán interponer ante el Instituto por sí o por conducto de sus representantes legales el recurso de revocación en contra de los actos de las autoridades catastrales, en los términos y conforme a los procedimientos previstos en el presente capítulo.
+Será requisito indispensable la presentación de la cédula original que contiene los datos erróneos para su cancelación; si no lo hicieren o manifestaren imposibilidad para hacerlo, adicionalmente deberán cubrir el valor de la Forma Oficial Valorada en que deban imprimirse las correcciones efectuadas, la cual será de una Unidad de Medida y Actualización vigente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO DÉCIMO SEGUNDO], P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+### CAPÍTULO DÉCIMO TERCERO. DE LAS NOTIFICACIONES
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LAS NOTIFICACIONES
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 77.
 
-Procede el recurso de revocación cuando la base catastral asignadas por las autoridades catastrales, no se hayan determinado conforme a los procedimientos y términos establecidos por la presente Ley y su Reglamento.
+Las resoluciones y cualquier otro acto u operación catastral que deba hacerse del conocimiento de los propietarios, poseedores o sus representantes legales, se notificarán por comparecencias de estos o en el domicilio señalado para tal efecto, de conformidad con las disposiciones que para estos actos prevé el Código Fiscal para el Estado de Oaxaca o el Código de Procedimientos Civiles para el Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO DÉCIMO TERCERO], P.O. 29 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+### CAPÍTULO DÉCIMO CUARTO. DE LOS RECURSOS
 
-El Instituto Catastral del Estado resolverá acerca de los recursos de revocación que presenten los propietarios o poseedores de bienes inmuebles, en relación con la fijación de la base catastral siempre y cuando se argumente, con relación a los avalúos, alguna de las razones siguientes:
-
-I. Error o diferencia entre los datos asentados y las características reales del inmueble.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-II. Inexacta aplicación de las tablas de valores o de la zonificación.
-
-III. Asignación de una extensión mayor o tipo diverso del que efectivamente tenga el bien inmueble.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-IV. En las demás que impliquen error en la determinación de la base catastral y/o inmobiliaria.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-### CAPÍTULO DÉCIMO TERCERO. DE LA ACLARACIÓN
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 78.
 
-El recurso de revocación se interpondrá ante el Instituto Catastral del Estado de Oaxaca, dentro del plazo de quince días hábiles siguientes a aquél en que haya surtido efectos la notificación del acto de la autoridad catastral.
+Las determinaciones que realicen las autoridades catastrales, en relación a los trámites y servicios otorgados, podrán ser recurribles a través de los recursos que establece el presente capítulo o podrán interponer Juicio de Nulidad ante el Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2025)</small>
+
+#### SECCIÓN PRIMERA. DEL RECURSO DE REVISIÓN
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 79.
 
-El recurso de revocación deberá ser interpuesto ante el Instituto mediante escrito que contendrá los siguientes datos:
+Procede el Recurso de Revisión en contra de las determinaciones que realicen las autoridades catastrales, en relación a los trámites y servicios otorgados, con excepción al avalúo por el que se establece la base catastral.
 
-I. Nombre y domicilio para oír y recibir notificaciones.
-
-II. Clave catastral del inmueble de que se trate.
-
-III. Ubicación, colindancias, superficies y linderos del bien inmueble.
-
-IV. Los agravios que cause el acto impugnado, y;
-
-V.- Las pruebas que se ofrezcan.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 80.
 
-El Instituto Catastral del Estado de Oaxaca abrirá un periodo de pruebas por cinco días hábiles para el desahogo de las mismas, término que podrá ampliar a juicio del citado Instituto, hasta por cuarenta y cinco días hábiles, cuando se requiera de la realización de trabajos técnicos.
+El plazo para interponer el Recurso de Revisión será de quince días hábiles contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación al propietario, poseedor, autorizado o Notario Público, de la determinación de los trámites y servicios otorgados.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 81.
 
-El Instituto dictará las resoluciones que procedan dentro de los cuarenta y cinco días hábiles siguientes a la terminación del período de pruebas.
+Tendrán interés jurídico para interponer el Recurso de Revisión:
+
+I. El Notario Público, cuando intervenga en contratos traslativos de dominio, motivo del aviso notarial;
+
+II. El enajenante, el adquiriente o sus representantes legales o apoderados debidamente acreditados; y
+
+III. Tercera persona que acredite interés jurídico, con motivo del trámite o servicio catastral.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 82.
 
-La interposición del recurso de revocación suspende los efectos del cobro del Impuesto Predial, siempre y cuando se garantice el interés fiscal en los términos de las leyes aplicables.
+Del Recurso de Revisión conocerá y resolverá el Área Jurídica del Instituto Catastral del Estado de Oaxaca.
 
-### CAPÍTULO DÉCIMO CUARTO. DEL RECURSO DE REVOCACIÓN
+El escrito de interposición del Recurso de Revisión deberá de contener por lo menos lo siguiente:
+
+I. Ser dirigido al Director General del Instituto Catastral del Estado de Oaxaca, con atención al Área Jurídica del Instituto Catastral del Estado de Oaxaca;
+
+II. El nombre del recurrente y en su caso, de quien promueve en su nombre, así como el domicilio y las personas autorizadas para efectos de oír y recibir notificaciones y documentos, domicilio que deberá de estar ubicado en la Ciudad de Oaxaca de Juárez;
+
+III. Señalar la autoridad catastral emisora del acto que se recurre y la fecha en que se le notificó o tuvo conocimiento del mismo;
+
+IV. La descripción de los antecedentes del acto que se recurre;
+
+V. Los agravios que le causan y los argumentos de derecho en contra del acto;
+
+VI. Las pruebas que se ofrezcan, relacionándolas con los hechos que se pretendan acreditar; y
+
+VII. Las demás formalidades que debe contener el escrito por el que se interpone algún recurso de revisión.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 83.
+
+El Recurso de Revisión se tramitará, conforme a lo establecido en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2025)</small>
+
+#### SECCIÓN SEGUNDA. DEL RECURSO DE REVOCACIÓN
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 84.
+
+Contra los actos en los que se fije el valor catastral, los propietarios o poseedores de bienes inmuebles ubicados en el territorio del Estado podrá interponerse Recurso de Revocación a la base catastral asignada.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 85.
+
+Procede Recurso de Revocación a la base catastral cuando las autoridades catastrales, no las hayan determinado conforme a la normatividad señalada en la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 86.
+
+El Recurso de Revocación a la Base Catastral conocerá y resolverá el Área Jurídica del Instituto Catastral del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 87.
+
+El escrito de interposición de Recurso de Revocación a la Base Catastral deberá presentarse ante el Instituto Catastral del Estado de Oaxaca, en los términos que señale el Reglamento de esta Ley.
+
+No procederá el Recurso de Revocación en los supuestos siguientes:
+
+I. En contra de la Cédula Catastral que establece la Base Catastral de un inmueble, en razón de que el acto de autoridad que fija la base catastral es el Avalúo Catastral, salvo que demuestre que no le fue notificado dicho avalúo.
+
+Cuando se presente el Recurso de Revocación invocando la salvedad señalada en la fracción anterior, el recurrente deberá de presentar la Cédula Catastral original, y si no lo hiciere, para el caso de ser procedente el recurso y con ello fuere necesario la expedición de una nueva Cédula Catastral, previo a su otorgamiento, el recurrente deberá de pagar el costo de la Hoja Valorada.
+
+II. Contra del Avalúo Catastral derivado de trámites de traslado de dominio, que tenga como base una compraventa con crédito hipotecario, por existir el consentimiento expreso del comprador en relación al valor manifestado por Notario Público.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 88.
+
+El escrito de interposición del Recurso de Revocación a la base catastral deberá de contener lo siguiente:
+
+I. Ser dirigido al Director General del Instituto Catastral del Estado de Oaxaca, con atención al Área Jurídica del Instituto Catastral del Estado de Oaxaca;
+
+II. El nombre del recurrente y en su caso, de quien promueve en su nombre, así como el domicilio y las personas autorizadas para efectos de oír y recibir notificaciones y documentos, domicilio que deberá de estar ubicado en la Ciudad de Oaxaca de Juárez;
+
+III. Clave catastral del inmueble de que se trate;
+
+IV. Ubicación, colindancias, superficies y linderos del bien inmueble;
+
+V. Señalar la autoridad catastral emisora del acto que se recurre y la fecha en que se le notificó o tuvo conocimiento del mismo;
+
+VI. La descripción de los antecedentes del acto o resolución que se recurre;
+
+VII. Los agravios que le causan y los argumentos de derecho en contra del acto, expresando alguna de las siguientes razones:
+
+a) Error o diferencia entre los datos asentados y las características reales del inmueble, que afecta la valuación y el Avaluó catastral que se pretende revocar;
+
+b) Exprese en qué consiste la inexacta aplicación de las tablas de valores o de la zonificación en la valuación y el Avaluó catastral;
+
+c) Que se le haya asignado una extensión mayor a la superficie del terreno o a la superficie del área de construcción a la que efectivamente tenga el bien inmueble, y
+
+d) En las demás que impliquen error en la determinación de la base catastral.
+
+VIII. Las pruebas que se ofrezcan, relacionándolas con los hechos que pretendan acreditar.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 89.
+
+El Área Jurídica del Instituto Catastral del Estado de Oaxaca abrirá un periodo de pruebas por cinco días hábiles para el desahogo de las mismas, término que podrá ampliar a juicio del citado Instituto, hasta por cuarenta y cinco días hábiles, cuando se requiera de la realización de trabajos técnicos.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 90.
+
+El Área Jurídica del Instituto dictará las resoluciones que procedan dentro de los cuarenta y cinco días hábiles siguientes a la terminación del período de pruebas.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 91.
+
+La interposición del Recurso de Revocación suspende los efectos del cobro del Impuesto Predial, siempre y cuando se garantice el interés fiscal en los términos de las leyes aplicables.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO, ANTES CAPÍTULO DÉCIMO CUARTO], P.O. 29 DE JULIO DE 2025)</small>
+
+### CAPÍTULO DÉCIMO QUINTO. DEL CONSEJO ESTATAL CATASTRAL
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 92.
+
+El Consejo Estatal Catastral es un órgano colegiado honorifico de carácter consultivo, el cual tendrá las atribuciones siguientes:
+
+I. Estudiar, analizar y formular propuestas en relación con la normatividad administrativa, en materia de catastro y valuación catastral;
+
+II. Proponer la implementación de modelos para la gestión de la seguridad de la información catastral;
+
+III. Proponer proyectos de zonificación o rezonificación de las Zona conurbadas o metropolitana en el Estado, conforme a la normatividad en la materia, y
+
+IV. Las demás que le señale el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 93.
+
+El Consejo Estatal Catastral se integrará con los Titulares de las Dependencias y Entidades de la Administración Pública Estatal o las personas que este designe, que se enlistan a continuación:
+
+I. El o la Titular de la Secretaría de Finanzas, quien lo presidirá;
+
+II. El o la Titular de la Secretaría de Gobierno;
+
+III. El o la Titular de la Secretaría de Interculturalidad, Pueblos Indígenas y Comunidades Indígenas y Afromexicanas;
+
+IV. El o la Titular de la Secretaría de las Infraestructuras y Comunicaciones;
+
+V. El o la Titular de la Secretaría de Turismo;
+
+VI. El o la Titular de la Dirección General del Instituto Catastral del Estado de Oaxaca, quien fungirá como Secretario Técnico del Consejo;
+
+VII. El o la Titular de la Dirección General del Instituto de la Función Registral del Estado de Oaxaca;
+
+VIII. El o la Titular de la Dirección General Instituto de Planeación para el Bienestar;
+
+IX. El o la Titular de la Dirección General de Tecnologías e Innovación Digital;
+
+X. El o la Titular de la Presidencia de la Mesa Directiva del Colegio de Notarios para el Estado de Oaxaca, y
+
+XI. Un representante común de los Ayuntamientos de cada región del Estado o aquellos que funjan como cabecera distrital.
+
+Cada propietario deberá designar mediante oficio respectivo, dirigido al Presidente, a un suplente, quien tendrá las mismas funciones y derechos que el propietario.
+
+Los integrantes del Consejo, contarán con derecho a voz y voto en las sesiones, a excepción del Secretario Técnico, quien tendrá voz pero no voto.
+
+Los organismos empresariales como son: Cámara Nacional de Comercio, Cámara Nacional de la Industria de la Transformación y la Confederación Patronal de la República Mexicana, entre otros, a través de sus representantes debidamente acreditados, podrán participar en las sesiones como invitados del Consejo Estatal Catastral, con derecho a voz, pero sin voto.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 94.
+
+El Consejo Estatal Catastral sesionará cuando menos dos veces al año y sus sesiones serán ordinarias y extraordinaria.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 95.
+
+En la primera sesión ordinaria del Consejo Estatal Catastral de cada año se deberá aprobar el calendario de las reuniones ordinarias de ese ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 96.
+
+No obstante lo señalado en el artículo anterior, se harán las convocatorias respectivas que deberán contener el orden del día a que se sujetará la sesión del Consejo, así como, la fecha, la hora y el lugar donde se desarrollará la misma.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 97.
+
+El Consejo Estatal Catastral sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus miembros.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 98.
+
+Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+
+El Secretario Técnico del Consejo Estatal Catastral, someterá a la consideración de los asistentes de la sesión, los acuerdos tomados durante la reunión, para que forme parte del Acta de la misma, recabando la firma de los asistentes en caso de aprobación por la mayoría de los integrantes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2025)</small>
+
+### CAPÍTULO DÉCIMO SEXTO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 99.
+
+Las infracciones a la presente Ley serán sancionadas con multa, calculada en base al valor de la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción.
+
+Dichas sanciones se determinarán tomando en cuenta la trascendencia de la infracción y la reincidencia, salvo cuando la impuesta sea la mínima.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 100.
+
+Se impondrá multa de cinco a diez veces el valor de la Unidad de Medida y Actualización vigente, a todos aquellos propietarios o poseedores de un bien inmueble:
+
+I. Que no proporcionen al Instituto Catastral del Estado de Oaxaca, los datos o informes que éste le solicite;
+
+II. Que no permitan el acceso al interior del inmueble al personal del Instituto en las verificaciones física (sic) practicadas con arreglo en lo dispuesto por la presente Ley;
+
+III. Que de manera dolosa obstruyan los trabajos del personal del Instituto Catastral del Estado de Oaxaca, autorizado para la valuación, revaluación, localización, identificación, mensura y levantamiento de los planos, así como las demás operaciones catastrales relativas a los bienes inmuebles en los términos establecidos en esta Ley;
+
+IV. Que no realicen las manifestaciones o avisos que esta Ley le impone, y
+
+V. Que no manifiesten al Instituto Catastral del Estado de Oaxaca cualquier modificación que se haga a los elementos y características físicas del inmueble.
+
+Para la imposición de las multas en los supuestos señalados en las fracciones II y III de este artículo, la autoridad competente deberá levantar acta circunstanciada con las formalidades aplicables que señala esta Ley y su Reglamento, para las visitas domiciliarias, en la que se hará constar la imposibilidad de realizar las operaciones catastrales.
+
+Las multas previstas en este artículo las hará efectivas la Secretaría de Finanzas.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 101.
+
+Se impondrá una multa de cien a quinientas veces el valor de la Unidad de Medida y Actualización vigente, cuando los fraccionadores, lotificadores o propietarios de condominios cometan alguna de las infracciones a que se refiere el artículo anterior, o cuando éstos antes de la terminación de las obras celebren un contrato traslativo de dominio, preparatorio o definitivo, sin tener la autorización correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 102.
+
+Se impondrá multa de entre cien a quinientas veces el valor de la Unidad de Medida y Actualización vigente, a todos aquellos Notarios Públicos que intervengan en la celebración de contratos que transmitan o modifiquen el dominio de inmuebles, en los siguientes casos:
+
+I. Cuando no cumplan el término de treinta días naturales para dar aviso al Instituto Catastral del Estado de Oaxaca, sobre la celebración de un acto jurídico en el que intervengan y que modifique las características de la propiedad o posesión de un inmueble, y
+
+II. Cuando presenten al Instituto Catastral del Estado de Oaxaca información no fidedigna respecto a los bienes inmuebles a los que se refiere la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 103.
+
+Las multas a que se refiere este capítulo se impondrán sin perjuicio de que los infractores se puedan hacer acreedores a otras sanciones, en los términos de esta Ley, su Reglamento y demás disposiciones normativas aplicables; para lo cual, en su caso, el Instituto girará comunicación a las autoridades competentes.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1798,3 +1734,25 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 708.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES, DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA; SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. El titular del Poder Ejecutivo del Estado deberá ajustar las disposiciones del Reglamento de la Ley de Catastro para el Estado de Oaxaca, dentro de un plazo no mayor a 180 días naturales.
+
+QUINTO. El Consejo Estatal Catastral, deberá instalarse dentro de un plazo no mayor a 30 días hábiles, una vez publicado este Decreto.
+
+El Director General del Instituto Catastral del Estado de Oaxaca deberá convocar la sesión de instalación para dar cumplimiento al presente Decreto.
+
+SEXTO. Los peritos valuadores que hayan sido registrados o renovados en el Padrón de Peritos Valuadores del Instituto Catastral del Estado de Oaxaca, conforme a la convocatoria para “CURSO PARA EL REGISTRO O RENOVACIÓN EN EL PADRÓN DE PERITOS VALUADORES DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA PARA EL EJERCICIO 2024”, publicada el 3 de junio del año 2024, en el Periódico Oficial del Gobierno del Estado, continuarán ejerciendo conforme al periodo que les fue otorgado por el Instituto Catastral del Estado de Oaxaca.
+
+SÉPTIMO. El titular del Poder Ejecutivo del Estado y el Honorable Congreso del Estado de Oaxaca realizarán las adecuaciones presupuestales que permitan el cumplimiento del presente Decreto.
+
+OCTAVO. Las (sic) Secretaría de Finanzas y la Secretaría de Administración del Poder Ejecutivo del Estado, realizarán las adecuaciones presupuestarias que permitan el cumplimiento del presente Decreto.
