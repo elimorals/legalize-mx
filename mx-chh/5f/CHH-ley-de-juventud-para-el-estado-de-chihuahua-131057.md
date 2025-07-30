@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-131057"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-20"
-last_updated: "2025-07-26"
+last_updated: "2025-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2025.
 
 Ley publicada en el Anexo al Periódico Oficial, del Estado de Chihuahua, el sábado 20 de octubre de 2018.
 
@@ -811,7 +811,9 @@ I. La persona que ocupe la titularidad de la Secretaría de Desarrollo Humano y 
 
 II. Una Secretaría Técnica, que recaerá en quien ocupe la titularidad de la Dirección General del Instituto Chihuahuense de la Juventud;
 
-III. Una persona del Consejo de Desarrollo Social y Participación Ciudadana;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2025)</small>
+
+III. La persona titular de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes;
 
 IV. Quince personas jóvenes que hayan destacado en cualquiera de los ámbitos artístico, cultural, deportivo, social, profesional o de oficios;
 
@@ -830,6 +832,10 @@ En la conformación del Consejo se garantizará y privilegiará la paridad de g�
 ###### Artículo 86.
 
 Las personas a que se refieren las fracciones IV y V del artículo anterior, serán designadas por el Consejo con sus respectivos suplentes, previa convocatoria pública que para tal efecto se emita. Durarán en su cargo dos años y podrán ser removidas por la falta injustificada a dos sesiones en un periodo de un año.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2025)</small>
+
+Las personas a que se refieren las fracciones I y III del artículo 85 de esta Ley, deberán designar una suplencia permanente, quien deberá tener el cargo inmediato inferior jerárquico y, dentro de sus atribuciones legales, tenga la facultad de toma de decisiones para no afectar el desarrollo pleno e íntegro de las reuniones del Consejo.
 
 ###### Artículo 87.
 
@@ -1034,6 +1040,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 26 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0240/2025 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 67, FRACCIONES XXIV Y XXV, Y SE ADICIONA LA FRACCIÓN XXVI, DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0244/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
