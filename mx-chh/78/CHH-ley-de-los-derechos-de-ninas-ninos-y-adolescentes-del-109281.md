@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-07-09"
+last_updated: "2025-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2025.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -80,6 +80,10 @@ I. Garantizar un enfoque integral, transversal y con perspectiva de derechos hum
 II. Promover su participación, tomar en cuenta su opinión, considerando los aspectos culturales, éticos, afectivos, educativos y de salud, en todos aquellos aspectos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
 III. Establecer mecanismos transparentes de diagnóstico para la toma de decisiones, seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2025)</small>
+
+IV. Fomentar la capacitación especializada en derechos humanos, dirigida a las personas servidoras públicas que desarrollen funciones con niñas, niños y adolescentes o, en su caso, que las decisiones afecten directamente a este grupo, ya sea de manera individual o colectiva.
 
 ###### Artículo 4.
 
@@ -152,6 +156,10 @@ XIV. Informe de Adoptabilidad. El documento expedido por el Sistema Nacional DIF
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 XV. Niña, niño o adolescente migrante. El definido en la fracción VI del artículo 6 de la Ley de Protección y Apoyo a Migrantes y sus Familias para el Estado de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2025)</small>
+
+XV Bis. Prevención Social de la Violencia. Conjunto de políticas públicas, programas y acciones orientadas a reducir factores de riesgo que favorezcan la generación de violencia y delincuencia, así como a combatir las distintas causas y factores que las generan.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2024)</small>
 
@@ -262,6 +270,10 @@ XV. Mínima intervención en juicios cuando intervienen en procedimientos judici
 > <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2024)</small>
 
 XVI. No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas, ofendidos o testigos.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2025)</small>
+
+XVII. La prevención de la violencia.
 
 ###### Artículo 11.
 
@@ -3030,6 +3042,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0231/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA Y DE LA LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0241/2025 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 3, LA FRACCIÓN IV, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVIII/RFLEY/0245/2025 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y A LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
