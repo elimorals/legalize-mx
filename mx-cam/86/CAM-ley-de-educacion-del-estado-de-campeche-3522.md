@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2025-05-13"
+last_updated: "2025-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -413,13 +413,25 @@ XX.- Promover la creación y establecer las dependencias y los organismos de edu
 
 XXI.- Coordinarse con la Secretaría de Salud para elaborar una tabla nutrimental orientada a procurar hábitos de alimentación sana y balanceada, así como para implementar programas en todo el sistema educativo estatal, que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional en los educandos y prohibir la publicidad enfocada al consumismo en el interior de los planteles educativos y, que a su vez, promuevan al interior de dichos centros educativos la proliferación de alimentos con un alto valor nutricional; además de integrar a los planes de estudio de educación básica y media superior, contenidos de prevención contra el consumo de drogas y otras adicciones;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2025)</small>
 
-XXII.- Difundir los derechos de la niñez y la adolescencia, así como los mecanismos y canales de prevención y denuncia de abusos a su integridad física y mental, entre el alumnado de las escuelas de educación básica en el Estado, en colaboración con los demás organismos competentes;
+XXII.- Difundir de manera sistemática, continua y con enfoque de derechos humanos, los derechos de niñas, niños y adolescentes, así como los mecanismos accesibles, seguros y confidenciales para la prevención, detección temprana, atención y denuncia de cualquier forma de abuso, acoso escolar, maltrato o violencia que atente contra su integridad física, emocional o psicológica. Esta difusión deberá realizarse entre el alumnado de los niveles de educación básica en el Estado, en coordinación con madres, padres, personas tutoras, personal docente y directivo.
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+Asimismo, establecerán mecanismos periódicos y accesibles de participación directa de niñas, niños y adolescentes, como consultas, asambleas o instrumentos participativos, para identificar factores de riesgo en los entornos escolares, proponer soluciones y evaluar las políticas implementadas. Estas acciones deberán acompañarse de la promoción e implementación de sistemas de ética y conducta escolar que definan principios, valores, comportamientos esperados y sanciones aplicables a toda la comunidad educativa, con el fin de prevenir el acoso escolar.
 
-XXII-Bis.- Promover en todo el sistema educativo estatal mecanismos de prevención, detección y atención de casos de violencia y abuso escolar en cualquiera de sus manifestaciones. Siempre que los educadores o las autoridades escolares tengan conocimiento de estos hechos o de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad competente;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2025)</small>
+
+XXII-Bis.- Promover en todo el sistema educativo estatal la implementación de mecanismos integrales de prevención, detección temprana, atención, protección y seguimiento de casos de violencia escolar, acoso, abuso físico, psicológico, sexual, negligencia o cualquier otra forma de maltrato, en cualquiera de sus manifestaciones, ya sea en entornos presenciales o digitales. Las autoridades escolares, personal docente y administrativo que tengan conocimiento, indicios o sospechas fundadas de estos hechos, deberán informarlo de forma inmediata y sin dilación a las autoridades competentes en materia de procuración de justicia, protección integral y derechos humanos.
+
+Para tal efecto, se garantizarán canales de denuncia mismos que podrán ser anónimos, digitales y accesibles.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2025)</small>
+
+XXII-Ter.- Las autoridades educativas, en el ámbito de sus respectivas competencias, emitirán y actualizarán los lineamientos para la elaboración, adopción y aplicación de protocolos integrales de actuación, orientados a la prevención, detección temprana, atención, canalización y seguimiento de casos de violencia, abuso, acoso, negligencia o maltrato, que afecten a cualquier integrante de la comunidad educativa. Tales protocolos deberán incorporar principios de interés superior de la niñez, perspectiva de género, interculturalidad, inclusión, no revictimización y confidencialidad, así como contemplar medidas específicas de protección para niñas, niños y adolescentes.
+
+Asimismo, las autoridades educativas determinarán mecanismos eficaces para la mediación, gestión colaborativa de conflictos y resolución pacífica de controversias entre los integrantes de la comunidad educativa, con la participación de personal capacitado y con pleno respeto a los derechos humanos.
+
+Los protocolos deberán incorporar salvaguardas que garanticen la objetividad e imparcialidad en la investigación de los hechos, evitando denuncias infundadas o utilizadas de forma dolosa por cualquier integrante de la comunidad escolar.
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -601,9 +613,9 @@ La educación especial incluye la orientación a los padres o tutores, así como
 
 En la impartición de educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2025)</small>
 
-Se brindarán cursos a los docentes y al personal que labora en los planteles de educación, en materia de primeros auxilios, así como sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
+Las autoridades educativas deberán garantizar la capacitación permanente, especializada y con enfoque de derechos humanos al personal docente, administrativo y de apoyo que labora en los planteles educativos, en materia de primeros auxilios, derechos de niñas, niños y adolescentes, así como en el cumplimiento de su deber de custodia, cuidado y protección. Dichas capacitaciones deberán incluir contenidos relacionados con la prevención, identificación, atención y canalización de situaciones de maltrato, negligencia, perjuicio, daño, agresión, abuso sexual o psicológico, acoso escolar, trata, explotación laboral o cualquier otra forma de violencia, tanto en entornos escolares como en contextos familiares, comunitarios o digitales.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1708,3 +1720,21 @@ SEGUNDO.- A partir de la entrada en vigor del presente decreto deberán hacerse 
 TERCERO.- La Secretaría de Educación en coordinación con la Secretaría de Protección Civil y demás instancias competentes en el Estado, deberán llevar a cabo la capacitación al personal directivo, docente y administrativo de las Instituciones Educativas dentro de los horarios laborales.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 30 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 101 POR EL QUE “SE REFORMAN LAS FRACCIONES XXII, XXII-BIS Y SE ADICIONA LA FRACCIÓN XXII-TER DEL ARTÍCULO 13 Y, SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 19 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Educación de la Administración Pública del Estado de Campeche deberá emitir, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente decreto, los lineamientos generales para la elaboración, adopción y aplicación de los protocolos integrales de actuación, conforme a lo dispuesto en la fracción XXII-Ter del artículo 13 del presente decreto, incluyendo medidas específicas para su implementación en todos los niveles de educación básica.
+
+TERCERO.- En un plazo no mayor a 180 días naturales, la Secretaría de Educación de la Administración Pública Estatal, en coordinación con las autoridades competentes en materia de protección de derechos de niñas, niños y adolescentes, deberá diseñar e implementar una estrategia de difusión sistemática, continua y con enfoque de derechos humanos, sobre los mecanismos de prevención, denuncia y atención de situaciones de violencia escolar, dirigida a estudiantes, personal educativo y familias, conforme a lo establecido en la fracción XXII del artículo 13 de este decreto.
+
+CUARTO.- La Secretaría de Educación del Estado deberá desarrollar y poner en marcha, un programa permanente de capacitación especializada dirigido al personal docente, administrativo y de apoyo que labora en los planteles educativos. Este programa deberá actualizarse periódicamente y podrá implementarse de forma presencial, en línea o híbrida.
+
+QUINTO.- Las instituciones educativas públicas y privadas de educación básica deberán adecuar o elaborar sus protocolos internos de actuación en un plazo no mayor a 120 días naturales a partir de la emisión de los lineamientos a que se refiere el artículo transitorio segundo del presente decreto.
+
+SEXTO.- El Ejecutivo del Estado, por conducto de la Secretaría de Educación, podrá celebrar convenios de colaboración con instituciones públicas, organismos autónomos y organizaciones de la sociedad civil especializadas, para coadyuvar en la capacitación del personal educativo y en la difusión de los derechos de niñas, niños y adolescentes.
+
+SÉPTIMO.- Las obligaciones establecidas en el presente decreto deberán cumplirse de manera progresiva, atendiendo a los principios de interés superior de la niñez, máximo uso de los recursos disponibles, no regresividad, equidad territorial y no discriminación.
