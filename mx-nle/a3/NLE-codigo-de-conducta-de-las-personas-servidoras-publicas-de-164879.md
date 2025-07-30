@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-las-personas-servidoras-publicas-de-16487
 country: "mx"
 rank: "codigo"
 publication_date: "2023-03-03"
-last_updated: "2023-03-03"
+last_updated: "2025-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DEL TRABAJO DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2025 (ABROGADO).
 
 Código publicado en el Número 30 del Periódico Oficial del Estado de Nuevo León, el viernes 3 de marzo de 2023.
 
@@ -316,3 +318,15 @@ Así lo acuerda y firma a los 28 días del mes de febrero de 2023-dos mil veinti
 EL C. SECRETARIO DEL TRABAJO DEL ESTADO DE NUEVO LEÓN
 
 MTRO. FEDERICO ROJAS VELOQUIO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Secretaría del Trabajo, publicado en el Periódico Oficial del Estado del 3 de marzo de 2023.
+
+TERCERO.- El presente documento, una vez publicado en el Periódico Oficial del Estado, deberá ser difundido en la página oficial de internet de la Secretaría, con la finalidad de hacerlo del conocimiento de las personas servidoras públicas adscritas a ésta, así como del público en general.
