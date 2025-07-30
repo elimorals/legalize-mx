@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-etica-de-la-administracion-publica-del-estado-de-1608
 country: "mx"
 rank: "codigo"
 publication_date: "2022-11-02"
-last_updated: "2024-10-28"
+last_updated: "2025-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE ETICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS -- ANTES: CODIGO DE ETICA DE LA ADMINISTRACION PUBLICA ESTATAL DE MORELOS --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2025 (ABROGADO).
 
 Código publicado en el Número 6133 del Periódico Oficial del Estado de Morelos, el miércoles 2 de Noviembre de 2022.
 
@@ -586,3 +588,21 @@ P.O. 28 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE REFORMA LA DENOMINACIÓN (SIC), SE MODIFICAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
 
 ÚNICO.- El presente acuerdo entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER EJECUTIVO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Ética de la Administración Pública Estatal publicado el dos de noviembre del año dos mil veintidós en el Periódico Oficial “Tierra y Libertad” número 6133.
+
+TERCERA. Las dependencias y entidades de la Administración Pública del Poder Ejecutivo Estatal contarán con un plazo de ciento veinte días hábiles a partir de la entrada en vigor del presente Código para las adecuaciones correspondientes del Código de Conducta a que se refiere el presente instrumento, previa revisión por parte del Órgano Interno de Control.
+
+CUARTA. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTA. La Secretaría, conforme a lo establecido en este Código, contará con un plazo de ciento veinte días hábiles a partir de la entrada en vigor del presente Código, para las adecuaciones a la normativa correspondiente que rigen a los Comités de Ética de las dependencias y entidades, así como los protocolos de actuación correspondientes.
+
+SEXTA. Las personas servidoras públicas de las dependencias y entidades de la Administración Pública del Poder Ejecutivo del Estado de Morelos, a través de su Unidad de Enlace Financiero Administrativo o direcciones administrativas correspondientes, deberán suscribir la carta compromiso a que se refiere el presente instrumento.
