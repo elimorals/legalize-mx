@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-social-de-la-violencia-y-la-87337"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-18"
-last_updated: "2012-04-18"
+last_updated: "2025-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 18 de abril de 2012.
 
@@ -195,11 +195,41 @@ II. La inclusión de la prevención de la violencia, la delincuencia y de las ad
 
 III. El fortalecimiento de las capacidades institucionales que asegure la sostenibilidad de los programas preventivos.
 
-### CAPÍTULO PRIMERO. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2025)</small>
+
+### CAPÍTULO TERCERO. DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA CONTRA NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2025)</small>
+
+###### Artículo 9 Bis.
+
+Las autoridades estatales y municipales, en coordinación con la Federación, implementarán acciones integrales de prevención social de la violencia con enfoque de niñez y juventud, orientadas a eliminar factores de riesgo como pobreza, abandono escolar, exclusión social, discriminación y violencia familiar o comunitaria.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2025)</small>
+
+###### Artículo 9 Ter.
+
+Las acciones deberán incluir, al menos:
+
+I. Programas de formación y sensibilización para familias, personal docente y personas servidoras públicas.
+
+II. Campañas permanentes de difusión sobre cultura de paz, igualdad y buen trato.
+
+III. Fortalecimiento de las redes de apoyo comunitarias e interinstitucionales.
+
+IV. Espacios de participación para niñas, niños y adolescentes en los procesos de toma de decisiones que les conciernan.
+
+V. Mecanismos de monitoreo, evaluación y rendición de cuentas sobre las políticas públicas implementadas.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2025)</small>
+
+###### Artículo 9 Quater.
+
+El Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes, deberá coordinar, en el ámbito de su competencia, la integración y armonización de los programas de prevención social de la violencia, asegurando la asignación presupuestaria suficiente para su implementación y sostenibilidad.
 
 ## TÍTULO SEGUNDO. DE LAS INSTANCIAS DE COORDINACIÓN
 
-### CAPÍTULO SEGUNDO. DEL SECRETARIO EJECUTIVO
+### CAPÍTULO PRIMERO. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
 ###### Artículo 10.
 
@@ -221,7 +251,7 @@ IV. Promover la generación de indicadores y métricas estandarizados para los i
 
 V. Las demás que establezcan otras disposiciones legales y las que sean necesarias para el funcionamiento del Sistema Estatal de Seguridad Pública en las materias propias de esta Ley.
 
-### CAPÍTULO TERCERO. DEL CENTRO ESTATAL DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA
+### CAPÍTULO SEGUNDO. DEL SECRETARIO EJECUTIVO
 
 ###### Artículo 12.
 
@@ -235,7 +265,7 @@ III. Difundir la información estadística en materia de incidencia delictiva y 
 
 IV. Todas aquellas atribuciones conferidas al Secretario Ejecutivo en la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones legales.
 
-### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE PROGRAMAS
+### CAPÍTULO TERCERO. DEL CENTRO ESTATAL DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 13.
 
@@ -307,7 +337,7 @@ XXIV. Ser el órgano rector del medio o sistema electrónico que se instrumente 
 
 XXV. Las demás que establezcan otras disposiciones legales.
 
-### CAPÍTULO PRIMERO. DEL PROGRAMA ESTATAL
+### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE PROGRAMAS
 
 ###### Artículo 15.
 
@@ -333,7 +363,7 @@ Las autoridades de los gobiernos Estatal y municipales, en el ámbito de sus res
 
 ## TÍTULO TERCERO. DEL PROGRAMA ESTATAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO SEGUNDO. DE SU EVALUACIÓN
+### CAPÍTULO PRIMERO. DEL PROGRAMA ESTATAL
 
 ###### Artículo 18.
 
@@ -359,7 +389,13 @@ Las autoridades del Estado y los Municipios, en el ámbito de sus respectivas at
 
 Para la ejecución del Programa Estatal, el Centro Estatal preparará un programa de trabajo anual que contenga objetivos específicos, prioridades temáticas y una lista de acciones y de medidas complementarias.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2025)</small>
+
+###### Artículo 19 Bis.
+
+En la elaboración del Programa Estatal, deberá considerarse la perspectiva de niñez y juventud, así como de género.
+
+### CAPÍTULO SEGUNDO. DE SU EVALUACIÓN
 
 ###### Artículo 20.
 
@@ -375,7 +411,7 @@ El Centro Estatal deberá coadyuvar con el Consejo Estatal u otras instancias gu
 
 ## TÍTULO CUARTO. DE LA PARTICIPACIÓN CIUDADANA Y COMUNITARIA
 
-### CAPÍTULO SEGUNDO. DE LOS COMITÉS DE PARTICIPACIÓN, SU INTEGRACIÓN, VALIDEZ Y FUNCIONAMIENTO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 22.
 
@@ -387,7 +423,7 @@ Los Comités de Participación son los órganos establecidos con el objeto de co
 
 Por ningún motivo los Comités podrán realizar proselitismo de carácter religioso o partidista.
 
-### CAPÍTULO TERCERO. DEL PLAN DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+### CAPÍTULO SEGUNDO. DE LOS COMITÉS DE PARTICIPACIÓN, SU INTEGRACIÓN, VALIDEZ Y FUNCIONAMIENTO
 
 #### SECCIÓN PRIMERA. INTEGRACIÓN Y VALIDEZ
 
@@ -553,7 +589,7 @@ IV. Verificar que las personas que acudan a las asambleas, integren el padrón.
 
 V. Las demás que le instruya el Presidente de acuerdo a la Ley.
 
-### CAPÍTULO CUARTO. DE LAS AUTORIDADES RESPONSABLES Y DEL CUMPLIMIENTO
+### CAPÍTULO TERCERO. DEL PLAN DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
 
 #### SECCIÓN PRIMERA. DEL DIAGNÓSTICO
 
@@ -647,7 +683,7 @@ Para los efectos de este artículo, la comunicación entre autoridad y Comité s
 
 El Plan de Prevención Social de la Violencia y la Delincuencia tendrá que ser signado por la Mesa Directiva, los integrantes del Comité que deseen hacerlo y la autoridad que emitió el Programa Operativo Básico, comprometiéndose esta última a cumplir con cada uno de los puntos que en él se señalan. Para su ejecución habrán de seguirse los plazos y acciones acordados.
 
-### CAPÍTULO QUINTO. DEL REPORTE CIUDADANO
+### CAPÍTULO CUARTO. DE LAS AUTORIDADES RESPONSABLES Y DEL CUMPLIMIENTO
 
 ###### Artículo 52.
 
@@ -663,7 +699,7 @@ Por el medio en que fue presentado el diagnóstico, la Mesa Directiva reportará
 
 La autoridad verificará el incumplimiento, identificará al funcionario directamente responsable e informará a la Mesa Directiva del inicio y conclusión de la investigación.
 
-### CAPITULO ÚNICO. DE LOS OBJETIVOS GENERALES
+### CAPÍTULO QUINTO. DEL REPORTE CIUDADANO
 
 ###### Artículo 55.
 
@@ -696,6 +732,8 @@ El Estado y los Municipios preverán, en sus respectivos presupuestos, recursos 
 El Centro Estatal propondrá, previa aprobación del Secretario Ejecutivo, el desarrollo de mecanismos de financiamiento para proyectos de la sociedad civil, de los municipios que tengan incidencia directa en temas prioritarios de prevención social de la violencia y la delincuencia, con base en los lineamientos que emita para tales efectos el Consejo Estatal, asegurando la coordinación de acciones para evitar la duplicidad en la aplicación de los recursos.
 
 ## TÍTULO SEXTO. DE LA CREACIÓN, CONSERVACIÓN Y MEJORAMIENTO DE ESPACIOS PÚBLICOS
+
+### CAPITULO ÚNICO. DE LOS OBJETIVOS GENERALES
 
 ###### Artículo 60.
 
@@ -776,3 +814,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diez días del mes de abril del año dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0245/2025 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y A LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
