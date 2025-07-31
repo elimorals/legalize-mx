@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2025-05-07"
+last_updated: "2025-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2009-03-25"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA, PUBLICADO EN EL D.O.F. DE 31 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2025 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -4308,3 +4308,17 @@ TERCERO.- La Dirección General de Administración del Instituto realizará las 
 CUARTO.- Con la entrada en vigor del presente Acuerdo, las referencias hechas en otras disposiciones normativas, acuerdos u ordenamientos a las Direcciones Generales de Estadísticas Sociodemográficas, Estadísticas Económicas, Estadísticas de Gobierno, Seguridad Pública y Justicia y Geografía y Medio Ambiente se entenderán hechas a las Unidades de Estadísticas Sociodemográficas, Estadísticas Económicas, Estadísticas de Gobierno, Seguridad Pública y Justicia y Geografía y Medio Ambiente, para las Direcciones Generales Adjuntas de Programación, Organización y Presupuesto y de Apoyo Normativo y Administración de Riesgos se entenderán hechas a la Dirección General Adjunta de Presupuesto y Recursos Financieros y a la Dirección General Adjunta de Control Interno y Transparencia respectivamente de acuerdo con su ámbito de competencia, así mismo, las referencias a las Coordinaciones Generales de Asuntos Jurídicos, Informática y Operación Regional se entenderán hechas a las Direcciones Generales de Asuntos Jurídicos, Informática y Operación Regional.
 
 QUINTO.- Para las Unidades y Áreas Administrativas referidas en los artículos 14, 18, 19, 24, 43, 45, 46, 46 Bis y 46 Ter del Reglamento, que cambian de denominación, nivel y puesto, las personas servidoras públicas que venían ocupando la titularidad del cargo, continuarán ocupándolo con la nueva denominación, nivel y puesto. La Dirección General de Administración emitirá los respectivos nombramientos una vez que entre en vigor el presente Acuerdo de reforma.
+
+D.O.F. 31 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA".]
+
+PRIMERO.- El presente Reglamento entrará en vigor el 1 de agosto de 2025, así mismo se ordena su publicación en el Diario Oficial de la Federación para los efectos correspondientes.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Instituto Nacional de Estadística y Geografía, aprobado por Acuerdo 3ª/III/2009 de la Junta de Gobierno del 25 de marzo de 2009, publicado en el Diario Oficial de la Federación el 31 de marzo de 2009.
+
+TERCERO.- Las unidades administrativas deberán realizar el análisis y, en su caso, actualización de las disposiciones normativas internas que así lo requieran, conforme a la emisión de este Reglamento.
+
+CUARTO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para asignar los recursos humanos, financieros y materiales a la Coordinación General de Medición de Pobreza y Evaluación de la Política de Desarrollo Social que por virtud de la presente reforma se crea, de conformidad con la normatividad administrativa aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
+
+QUINTO.- Las referencias que se haga en los nombramientos de personal, perfiles de puesto y sus funciones a las disposiciones y artículos del Reglamento Interior que se abroga, se entenderán hechas a las que correspondan en el presente Reglamento.
