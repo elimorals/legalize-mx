@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-de-datos-personales-en-posesion-de-122893"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-26"
-last_updated: "2017-08-30"
+last_updated: "2025-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA -- ANTES LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE PUEBLA --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 31 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 26 de julio de 2017.
 
@@ -2024,3 +2026,55 @@ P.O. 30 DE AGOSTO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA; LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA, ASÍ MISMO SE REFORMAN LAS FRACCIONES XLIV Y XLV, Y SE ADICIONA LA FRACCIÓN XLVI, DEL ARTÍCULO 34 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, publicada en el Periódico Oficial del Estado de Puebla, el cuatro de mayo de dos mil dieciséis y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Puebla, publicada en el Periódico Oficial del Estado el veintiséis de julio de dos mil diecisiete.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que, a la entrada en vigor del presente ordenamiento, se refiera al Instituto de Transparencia, Acceso a la Información pública y Protección de Datos Personales del Estado de Puebla, se entenderá atribuido a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+QUINTO. Los bienes muebles e inmuebles que a la entrada en vigor del presente Decreto se encuentren en posesión o resguardo y aquellos que formen parte del patrimonio del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, deberán ser transmitidos o revertidos según sea el caso, en propiedad al Gobierno del Estado de Puebla para su administración, a través de la Secretaría de Planeación, Finanzas y Administración, con destino a los que resulten necesarios a la Secretaría Anticorrupción y Buen Gobierno.
+
+SEXTO. El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, deberá realizar las gestiones y acciones pertinentes para llevar a cabo los procesos de liquidación de las personas servidoras públicas sujetas a una relación laboral con el referido Instituto al momento de su extinción, de conformidad con la legislación aplicable, siempre y cuando se cuente con suficiencia presupuestaria.
+
+SÉPTIMO. El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla transferirá los recursos financieros a la Secretaría de Planeación, Finanzas y Administración, de conformidad con las disposiciones jurídicas aplicables, con destino a la Secretaría Anticorrupción y Buen Gobierno del Estado de Puebla.
+
+OCTAVO. Los registros, padrones y sistemas internos y externos, con los que cuente el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, incluso los que ya no se utilicen, pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno dentro de los quince días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, en materia de transparencia, acceso a la información pública y protección de datos personales, se sustanciarán ante el Órgano Administrativo Desconcentrado de la Secretaría Anticorrupción y Buen Gobierno del Estado de Puebla y demás autoridades garantes, según corresponda, y conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+DÉCIMO. Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos, la Ley de Archivos del Estado de Puebla y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La defensa legal de los actos y resoluciones emitidos por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla ante autoridades administrativas o judiciales que se encuentren en trámite con anterioridad a la entrada en vigor del presente Decreto, así como de aquellos que se encuentren en trámite, se llevará a cabo por el Órgano Administrativo Desconcentrado de la Secretaría Anticorrupción y Buen Gobierno del Estado de Puebla y demás autoridades garantes, según corresponda al ámbito de su competencia.
+
+DÉCIMO PRIMERO. Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento Interior del Órgano Administrativo Desconcentrado de la Secretaría Anticorrupción y Buen Gobierno del Estado de Puebla, de conformidad en lo establecido en la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Puebla y demás disposiciones jurídicas aplicables.
+
+DÉCIMO SEGUNDO. Las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, que con motivo de la entrada en vigor del presente Decreto, y como consecuencia de la extinción del referido Instituto, deberán presentar su declaración patrimonial y en su caso hacer su respectiva entrega-recepción, de conformidad con los términos, plazos y supuestos establecidos en la Ley General de Responsabilidades Administrativas y la Ley que Establece los Procedimientos de Entrega-Recepción en los Poderes Públicos, Ayuntamientos, Órganos Constitucionalmente Autónomos y Públicos Paraestatales de la Administración Pública del Estado de Puebla.
+
+DÉCIMO TERCERO. La Secretaría Anticorrupción y Buen Gobierno deberá remitir a las autoridades garantes competentes, aquellos expedientes, archivos, procedimientos y asuntos que correspondan conforme al ámbito de sus atribuciones para su atención.
+
+DÉCIMO CUARTO. Los asuntos, procedimientos, así como los expedientes y archivos, que, a la entrada en vigor del presente Decreto, se encuentren a cargo del Órgano Interno de Control del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, serán transferidos a las Unidades Administrativas correspondientes de la Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes a su entrada en vigor y serán tramitados y resueltos por dichos (sic) unidades administrativas conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Para ello, se suspenden los plazos y términos de los asuntos y procedimientos iniciados ante el Órgano Interno de Control en el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla hasta en tanto concluya la transferencia de expedientes y archivos de dicho Órgano a las Unidades Administrativas de la Secretaría Anticorrupción y Buen Gobierno.
+
+Para efectos del párrafo que antecede, la persona titular de la Secretaría Anticorrupción y Buen Gobierno deberá publicar en el Periódico Oficial del Estado, el aviso de inicio y término de la transferencia de expedientes y archivos y, consecuencia, de la suspensión.
+
+DÉCIMO QUINTO. Dentro de los treinta días hábiles posteriores a la entrada en vigor del presente Decreto, las autoridades garantes descritas en el artículo 8 fracción V de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, deberán realizar las modificaciones o adecuaciones correspondientes a su marco normativo, a efecto de dar cumplimiento a lo dispuesto en el presente Decreto.
+
+DÉCIMO SEXTO. Las personas servidoras públicas que laboraron para el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, podrán ser consideradas para formar parte del Órgano Administrativo Desconcentrado de la Secretaría Anticorrupción y Buen Gobierno.
+
+DÉCIMO SÉPTIMO. Quien haya fungido como persona titular de la Coordinación General Administrativa del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, a la entrada en vigor del presente Decreto, será la persona encargada para los efectos legales y administrativos de la liquidación hasta la total extinción del Órgano Constitucionalmente Autónomo, así como del cumplimiento de lo previsto en los artículos Transitorios Quinto, Sexto, Séptimo, Octavo y Décimo del presente Decreto; por lo que deberá llevar a cabo las gestiones o trámites legales y administrativos del Órgano Constitucionalmente Autónomo que resulten necesarios ante las instancias correspondientes, hasta su total conclusión.
+
+La persona encargada de la liquidación tendrá la obligación de informar a la Secretaría Anticorrupción y Buen Gobierno, cada diez días hábiles, de las acciones realizadas ante las instancias competentes, derivadas del procedimiento de liquidación y extinción. Para cubrir las necesidades, podrá solicitar a la Secretaría de Planeación, Finanzas y Administración los recursos necesarios para cubrir los gastos que se requieran para concluir los trabajos de extinción del Órgano Constitucionalmente Autónomo. Concluido el plazo señalado y extinto el citado Órgano Constitucionalmente Autónomo se entenderá que dicha función ha cesado.
+
+DÉCIMO OCTAVO. El Comité del Subsistema de Transparencia deberá instalarse a más tardar en noventa días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita el Órgano Administrativo Desconcentrado de la Secretaría Anticorrupción y Buen Gobierno.
+
+DÉCIMO NOVENO. El Subsistema de Transparencia propondrá las reglas de operación y funcionamiento del Comité, para que sean aprobadas en la instalación de dicho Comité.
+
+VIGÉSIMO. Se suspenden por un plazo de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto, todos y cada uno de los trámites, procedimientos y los medios de impugnación establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Puebla, y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de acceso a la información y solicitudes de acceso, rectificación, cancelación y oposición de datos personales, que se tramitan a través de la Plataforma Nacional de Transparencia o por el medio en que fue recepcionado.
