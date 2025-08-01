@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2025-07-28"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -931,6 +931,10 @@ XIV. Realizar campañas de prevención, sensibilización y capacitación sobre l
 
 XV. Implementar programas de formación y capacitación en materia de nuevas masculinidades para las personas servidoras públicas.
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+XV Bis. Promover, incentivar, y facilitar la participación de las mujeres como concesionarias y operadoras de los vehículos de transporte público, observando los principios de igualdad sustantiva y perspectiva de género.
+
 ###### ARTÍCULO 41.
 
 El Programa Estatal se diseñará con base en la perspectiva de género, en el Programa Nacional, en los términos que establece la Ley de Planeación del Estado de Michoacán, debiendo incluir:
@@ -1556,3 +1560,11 @@ SEGUNDO. El Titular del Poder Ejecutivo del Estado, a través de las dependencia
 Para tal efecto, podrá coordinarse y auxiliarse de instituciones académicas, organismos autónomos, organizaciones de la sociedad civil y personas expertas en la materia, a fin de garantizar la imparcialidad, neutralidad y apego al rígor técnico y científico en el diseño de los contenidos.
 
 TERCERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 1 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 193 POR EL QUE “SE REFORMA LA FRACCIÓN X Y SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 47 Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 214 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO; Y, SE ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 40 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese al Titular del Poder Ejecutivo para los efectos que considere procedentes.
