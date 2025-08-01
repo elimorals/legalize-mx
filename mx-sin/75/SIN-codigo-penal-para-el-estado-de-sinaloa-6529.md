@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2025-07-11"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1335,9 +1335,11 @@ La prescripción de la potestad para ejecutar las demás penas se interrumpirá 
 
 Comete el delito de homicidio el que priva de la vida a otro.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2025)</small>
+
 ###### ARTICULO 134.
 
-Al que prive de la vida a otro se le impondrá de ocho a veintidós años de prisión, excepto cuando este Código establezca una pena distinta.
+Al que prive de la vida a otro se le impondrá de doce a veinticuatro años de prisión, excepto cuando este Código establezca una pena distinta.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE ABRIL DE 2012)</small>
 
@@ -1501,9 +1503,11 @@ Al que dolosamente lesione a su ascendiente o descendiente consanguíneo en lín
 
 ### CAPITULO III. DISPOSICIONES COMUNES AL HOMICIDIO Y LESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2025)</small>
+
 ###### ARTICULO 139.
 
-El homicidio se sancionará con prisión de veintidós a cincuenta años, cuando:
+El homicidio se sancionará con prisión de veinticinco a cincuenta años, cuando:
 
 I.- Se cometa con premeditación, ventaja o traición.
 
@@ -1527,13 +1531,17 @@ V.- Se inflija tormento al ofendido o se obre con ensañamiento o crueldad o por
 
 VI.- Se cometa dolosamente a propósito de una violación o un robo por el sujeto activo de éstos contra su víctima o víctimas; o se cometiera en casa habitación a la cual se ha penetrado furtivamente, con engaño o violencia;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
 
-VII.- Se cometa dolosamente en contra de una persona por su actividad dentro del periodismo; y
+VII.- Se cometa dolosamente en contra de una persona por su actividad dentro del periodismo;
 
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
 
-VIII.- Se cometa dolosamente en contra de una persona que revista la calidad de servidor público de alguna institución o corporación policial.
+VIII.- Se cometa dolosamente en contra de una persona que revista la calidad de servidor público de alguna institución o corporación policial; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+IX.- Se cometa dolosamente en contra de una persona menor de dieciocho años de edad.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
@@ -5536,3 +5544,11 @@ P.O. 11 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 209 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA Y ADICIONA LOS ARTÍCULOS 134 Y 139 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
