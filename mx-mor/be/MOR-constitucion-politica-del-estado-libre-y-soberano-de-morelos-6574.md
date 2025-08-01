@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2025-07-17"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,7 +26,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -804,29 +804,9 @@ Los órganos internos de control estarán adscritos administrativamente a los en
 
 En la integración de los Organismos Públicos Autónomos creados por disposición de esta Constitución, se observará el principio de paridad de género.
 
-(ADICIONADO, P.O. 16 DE AGOSTO DE 2018) (F. DE E., P.O. 20 DE AGOSTO DE 2018)
-
 ###### Artículo 23-D.
 
-Se crea el organismo público autónomo denominado Instituto de la Mujer para el Estado de Morelos con personalidad jurídica y patrimonio propio, capacidad para decidir sobre el ejercicio de su presupuesto responsable de garantizar y establecer las políticas y acciones que propicien y faciliten la plena incorporación de la mujer en la vida, económica, política, cultural y social del Estado de Morelos.
-
-La titular de dicho instituto será nombrada por el Congreso del Estado de Morelos, mediante el voto aprobatorio de las dos terceras partes de sus integrantes y durará en el cargo un periodo de tres años contados a partir de su designación, pudiendo ser ratificada por el propio Congreso solamente por un periodo igual.
-
-> <small>(F. DE E., P.O. 20 DE AGOSTO DE 2018)</small>
-
-Para ser titular del Instituto de la Mujer para el Estado de Morelos, se requiere:
-
-I.- Ser ciudadano morelense por nacimiento o por residencia.
-
-II.- Ser mayor de 25 años;
-
-III.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión;
-
-IV.- Contar con estudios que avalen conocimientos profesionales sobre la Teoría de Género y los Derechos de las Mujeres;
-
-V.- Capacidad comprobada de articulación con la sociedad civil organizada, y
-
-VI.- Capacidad de alianzas institucionales a nivel federal y local en materia de protección de derechos de las mujeres.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2025)
 
 ## TITULO TERCERO.
 
@@ -5867,3 +5847,27 @@ TERCERA. Una vez efectuada lo señalado por la Disposición Transitoria anterior
 CUARTA. El aumento en el número de personas Diputadas electas bajo el principio de mayoría relativa y la asignación de cuatro Diputaciones conforme al principio de primera minoría estatal, no implicará por sí mismo un incremento en el presupuesto del Congreso del Estado de Morelos.
 
 QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS TREINTA Y CUATRO POR EL QUE SE DEROGA EL ARTÍCULO 23-D DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Aprobado que fue por el Constituyente Permanente Local y hecha la Declaratoria emitida por la Quincuagésima Sexta Legislatura del Congreso del Estado; con fecha quince de julio de dos mil veinticinco, remítase el presente Decreto a la Gobernadora Constitucional del Estado, para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Conforme a la Declaratoria realizada en Sesión Ordinaria de Pleno del quince de julio de dos mil veinticinco, la derogación contenida en el presente Decreto formará parte de la Constitución Política del Estado Libre y Soberano de Morelos, en términos de lo dispuesto por el artículo 147 fracción I de la propia Constitución, iniciando su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. A partir de la entrada en vigor del presente Decreto, todas las atribuciones, funciones, recursos materiales, bienes muebles e inmuebles, así como el personal del Instituto de la Mujer para el Estado de Morelos, se incorporarán a la Secretaría de las Mujeres, conforme a los lineamientos y disposiciones legales y administrativas aplicables y, en su caso, emita el Poder Ejecutivo del Gobierno del Estado de Morelos.
+
+Los registros, padrones, plataformas y sistemas electrónicos del ente público que se extingue conforme al presente artículo transitorio pasarán a formar parte de la Secretaría de las Mujeres del Ejecutivo Estatal, en los términos del presente Decreto; conforme a los lineamientos y disposiciones legales y administrativas aplicables y, en su caso, las que emita el Poder Ejecutivo del Gobierno del Estado de Morelos.
+
+CUARTA. El Poder Ejecutivo del Estado deberá presentar al Congreso del Estado, dentro de un plazo no mayor a sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la iniciativa de reforma correspondiente a la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos, con el objeto de armonizar las disposiciones legales en congruencia con esta reforma constitucional.
+
+QUINTA. Hasta en tanto se concrete la reforma legal y administrativa referida en el transitorio anterior, las funciones del Instituto de la Mujer serán ejercidas provisionalmente por la Secretaría de las Mujeres, la cual deberá garantizar la continuidad de los programas, políticas y servicios en favor de los derechos de las mujeres.
+
+SEXTA. Los actos jurídicos emitidos o suscritos por el Instituto de la Mujer del Estado de Morelos, con anterioridad a la entrada en vigor el presente Decreto, que no se opongan al contenido de la presente reforma, surtirán todos sus efectos legales. Sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+SÉPTIMA. La Presidenta del Instituto de la Mujer del Estado de Morelos, concluirá en sus funciones, al momento de la entrada en vigor del presente decreto.
+
+OCTAVA. Los derechos laborales de las personas trabajadoras del Instituto de la Mujer, serán respetados en su totalidad, en términos de esta Constitución.
+
+NOVENA. Se abroga la Ley del Instituto de la Mujer para el Estado de Morelos; así como, todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
