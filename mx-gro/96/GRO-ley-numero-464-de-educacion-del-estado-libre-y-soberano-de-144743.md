@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-464-de-educacion-del-estado-libre-y-soberano-de-1447
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-23"
-last_updated: "2025-07-08"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2020.
 
@@ -673,9 +673,17 @@ b) Formación nutricional
 
 Que tenga como finalidad contribuir a la salud, la cultura, la recreación, y la convivencia en comunidad, dentro de las escuelas y sus entornos, con pleno respeto al interés superior de la niñez y sus derechos a la recreación, a la integridad física y a la participación colectiva en dichas actividades.
 
-XI. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas, y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
 
-XII. Los valores para la responsabilidad ciudadana y social, como el respeto a los derechos de las demás personas, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud, la no violencia y la participación democrática con base a una educación cívica.
+XI. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+XII. Los valores para la responsabilidad ciudadana y social, como el respeto a los derechos de las demás personas, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud, la no violencia y la participación democrática con base a una educación cívica, y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+XIII. El derecho de acceso a una gestión menstrual digna de las niñas, adolescentes, mujeres y personas con capacidad de menstruar, como parte de sus derechos sexuales y reproductivos, para alcanzar la igualdad de género y eliminar la discriminación y la violencia basadas en estigmas y tabúes.
 
 ###### Artículo 54.
 
@@ -743,7 +751,9 @@ VIII. La promoción de estilos de vida saludables, la educación para la salud, 
 
 IX. El fomento de la igualdad y perspectiva de género, así como, el lenguaje incluyente para la construcción de una sociedad justa e igualitaria y libre de violencia;
 
-X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes, de las infecciones de transmisión sexual, así como el fomento del conocimiento del propio cuerpo, los cambios biológicos, mental y emocional por el ciclo menstrual.
 
 XI. La educación socioemocional;
 
@@ -827,9 +837,11 @@ La autoridad educativa estatal publicará en el Periódico Oficial del Gobierno 
 
 Las madres y padres de familia, tutoras o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 69.
 
-Las autoridades educativas estatal y municipal en el ámbito de su competencia, desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, igualdad de género, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia, tutoras y tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+Las autoridades educativas estatal y municipal en el ámbito de su competencia, desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, educación sexual integral, gestión menstrual, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, igualdad de género, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia, tutoras y tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 ### Capítulo VII. Otros complementos del proceso educativo
 
@@ -873,7 +885,9 @@ I. Recibir una educación de excelencia;
 
 II. Ser respetados en su integridad, identidad y dignidad, además de la protección contra cualquier tipo de agresión física o moral;
 
-III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad, incluyendo el conocimiento adecuado a la edad sobre el cuerpo humano, anatomía sexual y reproductiva, pubertad, menstruación, orientación sexual, identidad y expresión de género.
 
 IV. Ser respetados en su libertad de convicciones éticas, de conciencia y de religión;
 
@@ -1934,3 +1948,15 @@ P.O. 8 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y publicación correspondiente.
+
+P.O. 1 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 251 POR EL QUE SE REFORMAN LOS ARTÍCULOS 53, FRACCIONES XI Y XII, Y SE ADICIONA UNA FRACCIÓN XIII; 60, FRACCIÓN X; 69; 73, FRACCIÓN III, DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. La generación y ejecución de las políticas públicas que se deriven de las reformas del presente Decreto, estarán sujetas a la disponibilidad presupuestal del Ejercicio Fiscal correspondiente.
+
+TERCERO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, para los efectos legales conducentes y conocimiento general.
