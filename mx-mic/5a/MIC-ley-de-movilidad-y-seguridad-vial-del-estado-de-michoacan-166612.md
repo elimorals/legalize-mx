@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-movilidad-y-seguridad-vial-del-estado-de-michoacan-16661
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-02"
-last_updated: "2025-07-28"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2025.
 
 Ley publicada en la Novena Sección del Número 7 del Periódico Oficial del Estado de Michoacán, el viernes 2 de junio de 2023.
 
@@ -1211,7 +1211,13 @@ VIII. Dar acompañamiento a las solicitudes, inquietudes y demandas de las mujer
 
 IX. Coordinar acciones de difusión con los sectores sociales, académicos y laborales, sobre el conocimiento y aplicación de los Protocolos para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual en espacios públicos y transporte público; y,
 
-X. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADIOCIONADA], P.O. 1 DE AGOSTO DE 2025)</small>
+
+X. Promover, incentivar y facilitar la participación de las mujeres como concesionarias y operadoras de los vehículos de transporte público; y,
+
+> <small>(ADICIONADA [N DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2025)</small>
+
+XI. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables en la materia.
 
 ###### Artículo 48.
 
@@ -3007,7 +3013,13 @@ Las personas operadoras de los vehículos de transporte público, especializado 
 
 I. Gozar del derecho al trabajo y seguridad social conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, Ley Federal del Trabajo y demás disposiciones aplicables;
 
-II. Recibir un trato digno y respetuoso de las personas empleadoras, autoridades competentes y de los usuarios del transporte público y especializado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+II. Recibir un trato digno y respetuoso de las personas empleadoras, autoridades competentes y de los usuarios del transporte público y especializado.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2025)</small>
+
+Las mujeres operadoras de los vehículos de transporte público, percibirán el mismo trato, salario y condiciones laborales, conforme a los principios de igualdad sustantiva y perspectiva de género.
 
 III. A la no discriminación por motivo de origen, etnia, sexo, orientación sexual, género, idioma, religión, opinión, condición económica o de cualquier índole;
 
@@ -4326,3 +4338,11 @@ P.O. 28 DE JULIO DE 2025.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Notifíquese el presente Decreto al Titular del Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 1 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 193 POR EL QUE “SE REFORMA LA FRACCIÓN X Y SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 47 Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 214 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese al Titular del Poder Ejecutivo para los efectos que considere procedentes.
