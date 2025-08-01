@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2025-03-14"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -133,13 +133,17 @@ I. Es publica toda la información en posesión de cualquier autoridad, entidad 
 
 II. La información que se refiere a la vida privada y los datos personales, será protegida en los términos y con las excepciones que fijen las leyes;
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2025)</small>
+
+Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
+
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
 III. Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
 
-IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el órgano garante autónomo especializado e imparcial, a que se refiere el artículo 114, apartado C, de esta Constitución;
+IV. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fije la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la legislación aplicable de la materia;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -1589,9 +1593,9 @@ Las Magistradas y Magistrados del Tribunal Superior de Justicia, la Secretaria o
 
 Para los efectos de esta última disposición se consideran también como militares en servicio activo, los jefes y oficiales de las fuerzas de seguridad pública del Estado, cualesquiera que sea su denominación.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2025)</small>
 
-La Secretaria o Secretario General del Tribunal Estatal Electoral; la Auditora o Auditor y las subauditoras y subauditores del Órgano de Fiscalización del Estado; los titulares del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca; la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, así como las Magistradas y Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
+La Secretaria o Secretario General del Tribunal Estatal Electoral, la Auditora o Auditor y las subauditoras y subauditores de la Auditoría Superior de Fiscalización del Estado de Oaxaca; la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, así como las Magistradas y Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
 
 ###### ARTICULO 36.
 
@@ -2189,9 +2193,9 @@ LXVIII. Aprobar, mediante el voto de la mayoría de los diputados presentes, el 
 
 LXIX. Expedir la Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca.
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
 
-LXX. Elegir al titular del Centro de Conciliación Laboral del Estado de Oaxaca, conforme al artículo 21 Bis de esta Constitución, así como a los integrantes del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, conforme al artículo 114 apartado C, de esta Constitución y a su Contralor.
+LXX. Elegir al titular del Centro de Conciliación Laboral del Estado de Oaxaca, conforme al artículo 21 Bis de esta Constitución.
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3755,75 +3759,7 @@ Durante el ejercicio de su encargo no podrá ocupar cargo en partidos políticos
 
 B.- (DEROGADO, P.O. 13 DE FEBRERO DE 2021)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2021)</small>
-
-C. EL ÓRGANO GARANTE DE ACCESO A LA INFORMACIÓN PÚBLICA, TRANSPARENCIA, PROTECCIÓN DE DATOS PERSONALES Y BUEN GOBIERNO DEL ESTADO DE OAXACA.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
-
-El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, es un órgano autónomo del Estado, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de los derechos de acceso a la información pública, a la protección de datos personales y garantizar la observancia de las normas y principios de buen gobierno, en los términos que establezca la ley.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
-
-Sesionará colegiadamente y públicamente, se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia, máxima publicidad, buena fe, no discriminación, oportunidad y buen gobierno.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
-
-Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso de (sic) Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de relección (sic) y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
-
-El nombramiento podrá ser objetado por el Gobernador del Estado, en un plazo de diez días hábiles. Si el Gobernador no objetare el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado, la persona nombrada por el Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
-
-Sus integrantes, no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo cargo o comisión en el servicio público, excepto en instituciones docentes, científicas o de beneficencia, siempre que no medie remuneración alguna. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes de la materia. Percibirán una remuneración conforme la legislación que establezca el Estado, observando en todo momento el principio de austeridad.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JUNIO DE 2021)</small>
-
-El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca contará con las siguientes atribuciones:
-
-I. Conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, Órganos Autónomos del Estado, partidos políticos, fideicomisos y fondos públicos, así como, de cualquier persona física, moral o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal;
-
-II. Emitir criterios generales y lineamientos para la salvaguarda de los derechos consagrados en el artículo 3 de esta Constitución, de conformidad con la ley en la materia;
-
-III. Conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se presenten contra las autoridades que nieguen o restrinjan el acceso a la información pública;
-
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
-
-IV. Remitir, para conocimiento a petición fundada al organismo garante federal los recursos de revisión que por su interés y trascendencia así lo ameriten. La ley establecerá aquella información que se considere reservada o confidencial.
-
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
-
-V. Las resoluciones del Órgano Garante son vinculatorias, definitivas e inatacables para los sujetos obligados. El Consejero Jurídico del Gobierno del Estado podrá interponer recurso de revisión ante el Poder Judicial del Estado en los términos que establezca la ley, sólo en el caso que dichas resoluciones puedan poner en peligro la seguridad estatal y nacional conforme a la ley.
-
-VI. Promover entre los servidores públicos y la población en general la cultura de la transparencia y el acceso a la información, y
-
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
-
-VII. Preservar e incentivar las prácticas de transparencia comunitaria.
-
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
-
-VIII. Ser integrante del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
-
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
-
-IX. Las demás que señale; la Constitución Política de los Estados Unidos Mexicanos, La Ley General de Transparencia y Acceso a la Información Pública, esta Constitución Política y las leyes aplicables en la materia.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
-
-El Órgano Garante tendrá un Consejo Consultivo integrado por cinco consejeros, de carácter honorífico y sin goce de sueldo, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados por el periodo de cinco años. La Ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente será substituido el consejero de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo. La Ley establecerá las facultades del Consejo Consultivo.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
-
-El Órgano Garante coordinará sus acciones con el Órgano Garante federal, con la entidad especializada en materia de archivos y con el organismo encargado de regular la captación, procesamiento y publicación de la información estadística y geográfica, con el objeto de fortalecer la rendición de cuentas del Estado mexicano.
-
-La Ley establecerá las medidas de apremio que podrá imponer el órgano garante para asegurar el cumplimiento de sus decisiones.
-
-Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2023)</small>
-
-Para ser integrante del Órgano deberá cumplir el requisito de no haber sido condenada o condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
+C. (DEROGADO, P.O. 1 DE AGOSTO DE 2025)
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
 
@@ -6996,3 +6932,45 @@ Los recursos a que se refiere el párrafo anterior deberán ser concentrados por
 OCTAVO. Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
 
 NOVENO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto
+
+P.O. 1 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 731.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 3, EL CUARTO PÁRRAFO DEL ARTÍCULO 35, LA FRACCIÓN LXX DEL ARTÍCULO 59; SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN II DEL ARTÍCULO 3; Y SE DEROGA EL APARTADO C DEL ARTÍCULO 114 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido establecido en el presente Decreto y sus Transitorios.
+
+TERCERO. El Honorable Congreso del Estado de Oaxaca contará con ciento veinte días naturales contados a partir de la promulgación del presente Decreto para armonizar expedir el marco jurídico en materia de transparencia, acceso a la información pública y protección de datos personales, conforme a lo previsto en esta Constitución y la legislación general de la materia.
+
+Dicha armonización deberá incluir de manera enunciativa más no limitativa los procedimientos relativos a la protección de los derechos de acceso a la información pública y la protección de datos personales, la publicación y/o actualización de las obligaciones de transparencia, solicitudes, procedimientos de revisión, quejas y denuncias y el cumplimiento de políticas públicas de buen gobierno para el Estado de Oaxaca en el caso de los sujetos obligados del Poder Ejecutivo y Municipios.
+
+De conformidad con el párrafo tercero del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 137 de esta Constitución, el Honorable Congreso del Estado de Oaxaca, deberá considerar la eliminación de los organismos, unidades administrativas o estructuras que presenten duplicidad de funciones, así como la integración de unidades administrativas en las dependencias de la administración pública centralizada que asuman la competencia en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+CUARTO. Una vez que entre en vigor la legislación a la que hace referencia el Artículo Tercero Transitorio del presente Decreto, quedará extinto el Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, creado mediante Decreto Número 2473 aprobado por la LXIV Legislatura el 14 de abril de 2021 y publicado en el Periódico Oficial Extra del 1 de Junio de 2021.
+
+Los actos jurídicos emitidos por el Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, con anterioridad a la entrada en vigor de la legislación secundaria a la que alude el Artículo Transitorio Tercero del presente Decreto, surtirán todos sus efectos legales.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las instituciones que asuman las funciones del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+QUINTO. Los recursos financieros que correspondan al Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, conforme a lo establecido en el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio 2025, una vez determinada su extinción, serán transferidos a la Secretaría de Finanzas en los términos de la legislación aplicable.
+
+Así mismo, la Secretaría de Finanzas transferirá los recursos financieros que correspondan a la Entidad o Dependencia que asuma las funciones en materia de transparencia, acceso (sic) la información pública y protección de datos personales para los sujetos obligados del Poder Ejecutivo y Municipios del Estado de Oaxaca.
+
+SEXTO. Los recursos materiales, así como los registros, padrones, plataformas y sistemas electrónicos del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, pasarán a formar parte de las Dependencias o Entidades que conformen la autoridad garante local, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita.
+
+SÉPTIMO. Las y los Comisionados del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones a la entrada en vigor de la legislación a que alude el Artículo Tercero Transitorio, salvo aquellos cuya vigencia de su nombramiento hubiese concluido previamente.
+
+La o el Comisionado que funja como Presidente del Consejo General y del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca a la entrada en vigor del presente Decreto, continuará ejerciendo las facultades o atribuciones que correspondan como Presidente hasta la extinción formal del organismo autónomo en materia de transparencia estatal.
+
+Por consiguiente, los nombramientos por condición laboral de mandos medios y superiores otorgados por la o el Comisionado que funja como Presidente del Consejo General y del Órgano Garante, concluirán el ejercicio de su cargo a la entrada en vigor de la legislación a que alude el Artículo Cuarto Transitorio, salvo aquellos cuya vigencia de su nombramiento hubiese concluido previamente.
+
+Las y los servidores públicos del Órgano Garante deberán realizar los procesos de entrega-recepción correspondientes en los términos y plazos que establecen las leyes para tal efecto.
+
+OCTAVO. Los derechos laborales de las y los servidores públicos serán respetados en su totalidad en los términos de la legislación aplicable, así como también conforme a las modalidades laborales a las que estén sujetos con el Órgano Garante.
+
+En este orden de ideas, no se considerará patrón sustituto ni responsable solidario a la Dependencia o Entidad que asuma las funciones y/o facultades de garantizar el derecho de acceso a la información y la protección de datos personales para sujetos obligados del Poder Ejecutivo y Municipios. Así mismo, los asuntos que, por su naturaleza corresponda, quedarán extintos en sus efectos con la entrada en vigor a la que aluda la normatividad establecida en el Artículo Tercero Transitorio del presente Decreto.
+
+NOVENO. El patrimonio del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, mismo que define el artículo 76 de la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca, se considera bienes pertenecientes al Estado de Oaxaca, por tanto, son inembargables. En consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Órgano Garante, el Gobierno del Estado o de su hacienda, conforme a lo establecido en el artículo sexto de la Ley de Bienes pertenecientes al Estado de Oaxaca.
+
+DÉCIMO. Una vez extinto el Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, se suspenderán los plazos para la tramitación de recursos de revisión, quejas y denuncias, así como, la publicación y/o actualización de las obligaciones de transparencia y la solventación de las mismas para todos los sujetos obligados del Estado de Oaxaca que se encuentren en trámite por un periodo de treinta días naturales, con excepción de la recepción y atención de las solicitudes de acceso a la información y solicitudes de acceso, rectificación, cancelación y oposición de datos personales, que se tramitan a través de la Plataforma Nacional de Transparencia.
