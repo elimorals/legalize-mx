@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2025-03-28"
+last_updated: "2025-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -417,9 +417,13 @@ IX. La promoción del mejoramiento de la nutrición;
 
 X. La asistencia social a los grupos más vulnerables y, de estos, de manera especial, a los pertenecientes a las comunidades indígenas;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
 
-XI. La prevención, tratamiento y control de la drogadicción, además de la rehabilitación de las personas adictas; y
+XI. La prevención, tratamiento y control de la drogadicción, además de la rehabilitación de las personas adictas;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+XI Bis. La prevención, tratamiento multidisciplinario y control de los trastornos de la conducta alimentaria; y
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -440,6 +444,10 @@ La Secretaría Estatal coadyuvará con las demás dependencias competentes para 
 ###### Artículo 30.
 
 La Secretaría Estatal, en coordinación con las dependencias competentes del Ejecutivo Federal, coadyuvará a asegurar en el Estado la adecuada distribución, comercialización y fijación de los precios máximos de venta al público de los medicamentos y demás insumos de salud.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2025)</small>
+
+Asimismo, de conformidad con la normatividad aplicable podrá colaborar con las instancias competentes a nivel federal, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Campeche, en la identificación de suplementos, sustancias o productos que se expendan como soluciones a problemas de salud y cuya composición y uso no cuente con aval de la autoridad sanitaria competente, con el fin de coadyuvar en los procedimientos sancionatorios que correspondan.
 
 ### Capítulo II. Atención Médica
 
@@ -807,9 +815,17 @@ IV. Las acciones y campañas de promoción de los derechos de la población, sob
 
 V. La detección de los grupos poblacionales en riesgo de presentar trastornos mentales y por consumo de sustancias psicotrópicas, estupefacientes, inhalantes y otras que puedan causar alteraciones mentales o dependencia, preferentemente a niñas, niños y adolescentes y miembros de grupos vulnerables;
 
-VI. El desarrollo de acciones y programas para detectar, atender y prevenir el suicidio; y,
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+VI. El desarrollo de acciones y programas para detectar, atender y prevenir el suicidio;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+VI Bis. El desarrollo de acciones y programas para prevenir, detectar y atender los trastornos de la conducta alimentaria;
 
 VII. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 102 PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2025, SE ADVIERTE LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 70, A SABER: “ARTÍCULO 70.- […] I. La atención de personas con padecimientos mentales, así como la rehabilitación psiquiátrica de personas con enfermedades mentales crónicas, discapacidad intelectual, trastornos por uso de alcohol, estupefacientes o sustancias psicotrópicas, y aquellas diagnosticadas con trastornos de la conducta alimentaria; y II. […]” PARA CONSULTAR EL CONTENIDO DEL ARTÍCULO COMPLETO, VÉASE EL TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 13 DE MAYO DE 2008.]</small>
 
 ###### Artículo 70.
 
@@ -1273,9 +1289,13 @@ Tratándose de las comunidades indígenas, los programas a los que se refiere el
 
 La Secretaría Estatal, formulará y desarrollará programas de nutrición, promoviendo la participación en los mismos de los organismos estatales, nacionales e internacionales, así como los sectores social y privado, cuya actividad se relaciona con la nutrición, alimentos y su disponibilidad.
 
-Los programas de nutrición promoverán la alimentación nutritiva y deberán considerar las necesidades nutricionales de la población. Por lo que, propondrán acciones para reducir la malnutrición y promover el consumo de alimentos adecuados a las necesidades nutricionales de la población; y evitar otros elementos que representen un riesgo potencial para la salud.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2025)</small>
 
-De igual forma impulsará acciones encaminadas al combate de los trastornos alimenticios que se presenten entre los jóvenes y niños del Estado de Campeche, apoyando el diseño de programas y proyectos educativos en la materia.
+Los programas de nutrición promoverán la alimentación nutritiva y deberán considerar las necesidades nutricionales de la población. Por lo que, propondrán acciones para reducir la malnutrición y promover el consumo de alimentos adecuados a las necesidades nutricionales de la población; y evitar otros elementos que representen un riesgo potencial para la salud como suplementos, sustancias o productos que se expendan como soluciones a problemas de salud y cuya composición y uso no cuente con aval de la autoridad sanitaria.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2025)</small>
+
+De igual forma impulsará acciones encaminadas a la prevención y combate de los trastornos de la conducta alimentaria que se presenten entre niñas, niños, adolescentes y jóvenes del Estado de Campeche, apoyando el diseño de programas y proyectos educativos en la materia.
 
 ###### Artículo 119.
 
@@ -1310,6 +1330,18 @@ VII. Establecer las necesidades nutritivas que deban satisfacer los cuadros bás
 VIII. Proveer de mecanismos necesarios para dar acceso a suplementos alimenticios a grupos vulnerables.
 
 IX. Coordinarse con la Secretaría de Educación para implementar programas tendientes a evitar la venta de productos de bajo contenido nutricional, dentro de los establecimientos educativos, particularmente en instituciones de educación básica.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+X. Diseñar e implementar acciones y programas que prevengan trastornos de la conducta alimentaria;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+XI. Instrumentar y promover planes y/o programas que prevengan problemas de salud a partir de estereotipos y la autopercepción de la imagen corporal desde la infancia; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2025)</small>
+
+XII. Promover acciones encaminadas a desincentivar la venta de suplementos, sustancias o productos que se expendan como soluciones a problemas de salud y cuya composición y uso no cuente con aval de la autoridad sanitaria y, en su caso, se inicien los procedimientos sancionatorios que correspondan.
 
 ### Capítulo V. Salud Ocupacional
 
@@ -2966,3 +2998,11 @@ PRIMERO.- El presente decreto entrará en vigor e l (sic) día siguiente al d e 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
 
 TERCERO.- Las Secretarías de Educación y de Salud, adoptarán las medidas necesarias en sus programas y acciones de trabajo, procurando que se realicen con sus previsiones presupuestales asignadas.
+
+P.O. 1 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 102 POR EL QUE "SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 26; LA FRACCIÓN VI DEL ARTÍCULO 69; LA FRACCIÓN I DEL ARTÍCULO 70; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 118 Y; SE ADICIONAN UNA FRACCIÓN XI BIS AL ARTÍCULO 26; UN PÁRRAFO SEGUNDO AL ARTÍCULO 30; UNA FRACCIÓN VI BIS AL ARTÍCULO 69 Y, LAS FRACCIONES X, XI Y XII AL ARTÍCULO 119 TER, TODAS DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
