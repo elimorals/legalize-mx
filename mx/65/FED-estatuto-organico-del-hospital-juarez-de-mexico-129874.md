@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-hospital-juarez-de-mexico-129874"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-14"
-last_updated: "2024-11-05"
+last_updated: "2025-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129874&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2018-06-21"
 ---
 # ESTATUTO ORGANICO DEL HOSPITAL JUAREZ DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/ciimeit/Estatuto_Orgxnico_del_Hospital_Juxrez_de_Mxxico_PRIMERA_SE SIxN_EXTRAORDINARIA_JUGO.pdf Y www.dof.gob.mx/2024/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRONICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2025/SALUD/Estatuto_Organico_HJM.pdf]</small>
 
 ESTATUTO ORGÁNICO DEL HOSPITAL JUÁREZ DE MÉXICO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE AGOSTO DE 2025.
 
 Estatuto publicado en la Primera Sección al Número 11 del Diario Oficial de la Federación, el martes 14 de agosto de 2018.
 
@@ -372,6 +372,18 @@ V. COMITÉS, SUBCOMITÉS, COMISIONES Y GRUPOS DE TRABAJO:
 > <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
 45. Grupo de trabajo para dar cumplimiento a los Lineamientos para la celebración de actos jurídicos mediante los cuales se podrá otorgar el uso de espacios físicos no hospitalarios en el Hospital Juárez de México.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2025/SALUD/Estatuto_Organico_HJM.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE AGOSTO DE 2025)</small>
+
+46. Comité Técnico Administrativo de los Recursos para la Investigación (COTARI).
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2025/SALUD/Estatuto_Organico_HJM.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE AGOSTO DE 2025)</small>
+
+47. Grupo de Trabajo para la Capacitación y Formación Académica.
 
 Además de aquellos que resulten necesarios para el óptimo desarrollo institucional.
 
@@ -1241,9 +1253,11 @@ XVI. Representar al Hospital y a sus médicos e investigadores ante el Sistema N
 
 XVII. Participar en las evaluaciones de ingreso, promoción y permanencia al Sistema Institucional de Investigadores y estímulos al desempeño de los Investigadores en Ciencias Médicas del Hospital;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2025/SALUD/Estatuto_Organico_HJM.pdf]</small>
 
-XVIII. Coordinar y dirigir las actividades administrativas y operativas relacionadas con proyectos de investigación financiados por la industria farmacéutica y agencias no lucrativas, de conformidad con los lineamientos para la administración de recursos de terceros;
+> <small>(REFORMADO, D.O.F. 4 DE AGOSTO DE 2025)</small>
+
+XVIII. Coordinar y dirigir las acciones administrativas y operativas relacionadas con actividades académicas con cobro por participación y protocolos de investigación financiados por la industria farmacéutica y agencias no lucrativas, de conformidad con los Lineamientos para la administración de recursos de terceros del Hospital Juárez de México;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -1487,9 +1501,11 @@ XXIX. Colaborar en la planeación de las actividades de las direcciones de área
 
 XXX. Dirigir el proceso de planeación en materia de recursos humanos, materiales, financieros y de conservación y mantenimiento, que permita el óptimo funcionamiento del Hospital; y
 
-> <small>(ADICIONADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2025/SALUD/Estatuto_Organico_HJM.pdf]</small>
 
-XXXI. Instruir que las actividades contables y presupuestales de los recursos derivados de proyectos de investigación, que son financiados por la industria farmacéutica y agencias no lucrativas, se realicen conforme a los lineamientos para la administración de recursos de terceros y demás normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2025)</small>
+
+XXXI. Instruir que las actividades contables y presupuestales de los recursos derivados con actividades académicas con cobro por participación y protocolos de investigación, que son financiados por la industria farmacéutica y agencias no lucrativas, se realicen conforme a los lineamientos para la administración de recursos de terceros del Hospital Juárez de México y demás normatividad aplicable.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
@@ -1645,9 +1661,11 @@ XVI. Participar en la integración de los planes y programas a cargo del Hospita
 
 XVII. Participar en los comités, subcomités y demás órganos colegiados en los que se evalúen y analicen asuntos de su competencia y promover el cumplimiento de los acuerdos que se determinen; y
 
-> <small>(ADICIONADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2025/SALUD/Estatuto_Organico_HJM.pdf]</small>
 
-XVIII. Supervisar que se realice el proceso contable-presupuestal de los recursos derivados de los proyectos de investigación financiados por la industria farmacéutica y agencias no lucrativas, para su adecuada comprobación y rendición de cuentas.
+> <small>(REFORMADO, D.O.F. 4 DE AGOSTO DE 2025)</small>
+
+XVIII. Supervisar que se realice el proceso contable-presupuestal de los recursos derivados de actividades académicas con cobro por participación y protocolos de investigación financiados por la industria farmacéutica y agencias no lucrativas, conforme a los Lineamientos para la administración de recursos de terceros del Hospital Juárez de México y demás normatividad aplicable, para su adecuada comprobación y rendición de cuentas.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
@@ -2164,3 +2182,41 @@ La persona titular de la Dirección General del Hospital Juárez de México debe
 ###### ARTÍCULO TERCERO.
 
 Se modifica el numeral 1 de la fracción III y numeral 2 de la fracción IV del Artículo 4; se adicionan los numerales 44 y 45 de la fracción V del Artículo 4; se modifica la fracción XI del Artículo 35 y se adicionan las fracciones XXIX y XXX; se adiciona la fracción XXXI del Artículo 36 y la fracción XVIII del Artículo 36 Ter; se modifica la fracción IV del Artículo 37; se modifica el nombre del capítulo VII así como el Artículo 41; se adicionan los Artículos 41 Bis; 41 Ter; 41 Quáter; 41 Quinquies y 41 Sexies.
+
+D.O.F. 4 DE AGOSTO DE 2025.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL ORDENAMIENTO.]</small>
+
+AVISO
+
+Para efectos de lo dispuesto en el último párrafo del artículo único del ACUERDO que modifica al diverso por el que se instruye a las dependencias y entidades de la Administración Pública Federal, así como a la Procuraduría General de la República a abstenerse de emitir regulación en las materias que se indican, publicado el 21 de agosto de 2012, se dan a conocer los datos de identificación del AVISO por el que se da a conocer la actualización del Estatuto Orgánico del Hospital Juárez de México, siguientes:
+
+Denominación: AVISO por el que se da a conocer la actualización del Estatuto Orgánico del Hospital Juárez de México.
+
+Fecha de emisión: 16 de junio de 2025.
+
+Materia: Reglamento interno.
+
+Fecha de aprobación del Comité de Mejora Regulatoria Interna: 16 de junio de 2025.
+
+Fecha de aprobación de la H. Junta de Gobierno: Segunda Sesión Ordinaria, celebrada el 9 de julio de 2025.
+
+Página de internet:
+
+http://hjm.salud.gob.mx/interna/ciimeit/Estatuto_Organico_del_Hospital_Juarez_Mexico_Julio_2025.pdf
+
+www.dof.gob.mx/2025/SALUD/Estatuto_Organico_del_HJM.pdf
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER LA ACTUALIZACIÓN DEL ESTATUTO ORGÁNICO DEL HOSPITAL JUÁREZ DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular de la Dirección General del Hospital Juárez de México deberá inscribir el presente Estatuto en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales, modificado en México, Ciudad de México, a los 9 días de julio del año dos mil veinticinco, en la Segunda Sesión Ordinaria 2025 de la H. junta de Gobierno del Hospital Juárez de México. El Director General del Hospital Juárez de México, Doctor Gustavo Esteban Lugo Zamudio. - Rúbrica.
+
+###### ARTÍCULO TERCERO.
+
+Se agregan los numerales 46 y 47 del Artículo 4; se modifica la fracción XVIII del Articulo 34; fracción XXXI del Articulo 36; y fracción XVIII del Articulo 36 Ter.
