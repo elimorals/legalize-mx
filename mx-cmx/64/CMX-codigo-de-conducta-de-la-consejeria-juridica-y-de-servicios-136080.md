@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-de-la-consejeria-juridica-y-de-servicios-136
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-09"
-last_updated: "2019-05-09"
+last_updated: "2025-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136080&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-05-08"
 ---
 # CODIGO DE CONDUCTA DE LA CONSEJERIA JURIDICA Y DE SERVICIOS LEGALES DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 5 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2025 (ABROGADO).
 
 Código publicado en el Número 87 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 9 de mayo de 2019.
 
@@ -391,3 +393,15 @@ EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES
 (Firma)
 
 DR. HÉCTOR VILLEGAS SANDOVAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 5 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL CUAL SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES DE LA CIUDAD DE MÉXICO".]
+
+Primero.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Aviso, entrará en vigor el día de su publicación.
+
+Tercero.- Se abroga el Aviso por el cual se da a conocer el Código de Conducta de la Consejería Jurídica y de Servicios Legales de la Ciudad de México, publicado el 09 de mayo de 2019 en la Gaceta Oficial de la Ciudad de México, no 87 Bis.
