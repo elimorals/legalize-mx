@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-cultura-180927"
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-07-22"
-last_updated: "2025-07-22"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180927&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2025-07-17"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE CULTURA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2025 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 6 DE AGOSTO DE 2025.]</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 22 de julio de 2025.
 
@@ -405,7 +405,9 @@ XIV. Coordinar y elaborar las bases de cooperación, los protocolos de intercamb
 
 XV. Coordinar los trabajos, instalación e integración del Consejo Consultivo del Sistema Nacional de Bibliotecas conforme a lo establecido en la legislación vigente;
 
-XVI. Recibir, catalogar y reasignar las unidades de información que corresponden a la Biblioteca Nacional de México con motivo del depósito legal, expedir la constancia que acredite su cumplimiento y publicar anualmente las estadísticas del material recibido;
+> <small>(F. DE E., D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+XVI. Recibir, catalogar y reasignar las unidades de información que corresponden a la Biblioteca de México con motivo del depósito legal, expedir la constancia que acredite su cumplimiento y publicar anualmente las estadísticas del material recibido;
 
 XVII. Generar vínculos de cooperación con instituciones y organizaciones afines con el objetivo de implementar proyectos de beneficio mutuo;
 
