@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-intersecretarial-para-el-2503
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-19"
-last_updated: "2002-06-19"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25034&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-18"
 
 REGLAMENTO INTERNO DE LA COMISION INTERSECRETARIAL PARA EL DESARROLLO RURAL SUSTENTABLE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE AGOSTO DE 2025.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 19 de junio de 2002.
 
@@ -51,11 +51,15 @@ Para el cumplimiento de sus funciones, la Comisión podrá constituir grupos de 
 
 ### CAPÍTULO II. De la integración de la Comisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 5o.
 
-La Comisión estará integrada por los titulares de las siguientes dependencias del Ejecutivo Federal:
+La Comisión está integrada por las personas titulares de las dependencias del Ejecutivo Federal siguientes:
 
-I. Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, quien la presidirá;
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+I. Secretaría de Agricultura y Desarrollo Rural, quien la preside;
 
 II. Secretaría de Economía;
 
@@ -63,17 +67,31 @@ III. Secretaría de Medio Ambiente y Recursos Naturales;
 
 IV. Secretaría de Hacienda y Crédito Público;
 
-V. Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+V. Secretaría de Infraestructura, Comunicaciones y Transportes;
 
 VI. Secretaría de Salud;
 
-VII. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
 
-VIII. Secretaría de la Reforma Agraria, y
+VII. Secretaría de Bienestar;
 
-IX. Secretaría de Educación Pública.
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
 
-Asimismo, formarán parte de la Comisión los titulares de las dependencias y entidades de la Administración Pública Federal que se consideren necesarias, de acuerdo con los temas de que se trate. Los cargos que se desempeñen en la Comisión serán honoríficos.
+VIII. Secretaría de Desarrollo Agrario, Territorial y Urbano;
+
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+IX. Secretaría de Educación Pública, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+X. Secretaría de Energía.
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+Forman parte de la Comisión, además de las dependencias previstas en el párrafo anterior, las personas titulares de las dependencias y entidades de la Administración Pública Federal que se consideren necesarias, de acuerdo con los temas de que se traten. Los cargos que se desempeñen en la Comisión son honoríficos.
 
 ###### Artículo 6o.
 
@@ -107,51 +125,85 @@ IX. Presentar al Titular del Poder Ejecutivo Federal las propuestas aprobadas po
 
 X. Las demás que sean necesarias para el cumplimiento de las funciones de la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 9o.
 
-El Secretario Técnico de la Comisión, será designado por ésta a propuesta de su Presidente, y tendrá las siguientes funciones:
+La persona titular de la Secretaría Técnica es designada por la Comisión, a propuesta de la persona que la presida, y tiene las funciones siguientes:
 
-I. Emitir las convocatorias a las sesiones de la Comisión, previo acuerdo de su Presidente;
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
 
-II. Hacer llegar a los integrantes de la Comisión, las convocatorias a las sesiones de la misma, junto con el orden del día respectivo, de conformidad con lo dispuesto en el artículo 13 del presente reglamento;
+I. Emitir las convocatorias a las sesiones de la Comisión, previo acuerdo con la persona que presida la Comisión;
 
-III. Invitar a las sesiones de la Comisión, previo acuerdo de su Presidente, a los servidores públicos y demás personas a que se refiere la fracción IV del artículo inmediato anterior;
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+II. Enviar a las personas integrantes de la Comisión, las convocatorias a las sesiones junto con el orden del día respectivo, de conformidad con el artículo 13 del presente reglamento;
+
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+III. Invitar a las sesiones de la Comisión, previo acuerdo con la persona que presida la Comisión, a las personas servidoras públicas y demás personas a que se refiere el artículo 8, fracción IV, de este reglamento;
 
 IV. Verificar el quórum para la celebración de las sesiones de la Comisión;
 
 V. Coordinar las sesiones de la Comisión, proporcionando el apoyo administrativo que se requiera. En dichas sesiones tendrá derecho a voz, pero no a voto;
 
-VI. Levantar las actas de las sesiones de la Comisión y firmarlas conjuntamente con el Presidente;
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
 
-VII. Ser responsable de la formulación de estudios que le encomiende la Comisión y de realizar los trabajos necesarios para apoyar el desempeño de sus funciones;
+VI. Levantar y firmar las actas de las sesiones de la Comisión;
 
-VIII. Informar al Presidente sobre el seguimiento y cumplimiento de los acuerdos tomados en la Comisión;
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
 
-IX. Proponer al Presidente la creación de los grupos de trabajo, turnar a éstos los asuntos que les hayan sido asignados y darles el seguimiento correspondiente;
+VII. Elaborar los estudios que le encomiende la Comisión, y realizar los trabajos necesarios para apoyar el desempeño de las funciones de la Comisión, en coordinación con sus integrantes;
+
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+VIII. Informar a la persona que preside la Comisión sobre el seguimiento y cumplimiento de los acuerdos aprobados;
+
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+IX. Proponer, a la persona que preside la Comisión, la creación de grupos de trabajo, así como turnarles los asuntos que les hayan sido asignados y darles el seguimiento correspondiente;
 
 X. Integrar los estudios que realicen los grupos de trabajo;
 
-XI. Presentar a la consideración del Presidente, el anteproyecto del programa anual de trabajo y las acciones específicas relacionadas con éste, así como el anteproyecto de los procedimientos de evaluación de las acciones aprobadas;
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+XI. Proponer, a la persona que presida la Comisión, el anteproyecto del programa anual de trabajo, y las acciones específicas relacionadas con dicho programa, así como el anteproyecto de los procedimientos de evaluación de las acciones aprobadas;
 
 XII. Registrar los acuerdos de la Comisión y llevar los archivos de la misma;
 
-XIII. Dar cuenta al Presidente de la Comisión de la correspondencia recibida y, de conformidad con sus instrucciones, proceder a su trámite, y
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
 
-XIV. Las demás que expresamente le asignen la Comisión o el Presidente.
+XIII. Informar a la persona que presida la Comisión de la correspondencia recibida y, de conformidad con sus instrucciones, realizar el trámite correspondiente, y
 
-### CAPÍTULO III. De los integrantes de la Comisión
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+XIV. Las demás que le asigne la Comisión o la persona que la presida.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO III. De las personas integrantes de la Comisión
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 10o.
 
-Corresponderá a los integrantes de la Comisión:
+Corresponde a las personas integrantes de la Comisión las funciones siguientes:
 
 I. Asistir y participar con voz y voto en las sesiones de la Comisión;
 
-II. Conocer y opinar, sobre los asuntos que se presenten ante la Comisión y proponer vías de solución a los problemas que se traten en el seno de la misma;
+> <small>(ADICIONADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+I Bis. Proponer a la Comisión temas de desarrollo rural sustentable;
+
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+II. Opinar sobre los asuntos que se presenten ante la Comisión y proponer estrategias de solución;
 
 III. Proponer a la Comisión las medidas que estimen pertinentes, para el mejor aprovechamiento, manejo y utilización de los recursos disponibles en los programas relacionados con el desarrollo rural sustentable;
 
-IV. Informar al Secretario Técnico sobre el cumplimiento de las resoluciones de la Comisión, en lo relativo al ámbito de atribuciones de la dependencia o entidad que representen, y
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+IV. Informar a la persona titular de la Secretaría Técnica sobre el cumplimiento de las resoluciones de la Comisión, en lo relativo al ámbito de las atribuciones de la dependencia o entidad que representan, y
 
 V. Las demás funciones que sean necesarias y convenientes para el cumplimiento del objeto de la Comisión.
 
@@ -165,9 +217,11 @@ La Comisión, mediante la colaboración de las dependencias y entidades del sect
 
 Las sesiones de la Comisión serán ordinarias y extraordinarias, previa convocatoria. Las sesiones ordinarias se realizarán por lo menos cada dos meses y las extraordinarias cuando los asuntos a tratar así lo requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 13.
 
-Las convocatorias para las sesiones ordinarias se notificarán por lo menos con cinco días hábiles de anticipación, mediante escrito en el cual se señale la sede, fecha y hora de las mismas, entregándose a los integrantes de la Comisión la orden del día respectivo y, en su caso, la documentación relativa a los asuntos a tratar y el proyecto del acta de la sesión anterior.
+Las convocatorias para las sesiones ordinarias se notificarán por lo menos con cinco días hábiles de anticipación, mediante escrito en el cual se señale sede, fecha y hora de dichas sesiones, y se les entregará a las personas integrantes de la Comisión el orden del día respectivo y, en su caso, la documentación relativa a los asuntos a tratar y el proyecto del acta de la sesión anterior.
 
 Las convocatorias para las sesiones extraordinarias se notificarán con dos días hábiles de anticipación, mediante escrito en el cual se señale la sede, fecha y hora de las mismas, acompañándose la orden del día y la documentación necesaria para su desarrollo.
 
@@ -177,7 +231,9 @@ Para que la Comisión sesione válidamente, deberá estar presente la mitad más
 
 Si la sesión no pudiera celebrarse el día señalado por falta de quórum, se emitirá una nueva convocatoria, para que dentro de los siguientes ocho días hábiles se celebre.
 
-En este caso, la sesión se considerará válida, cualquiera que sea el número de los integrantes de la Comisión presentes.
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+En este caso, la sesión se considerará válida cualquiera que sea el número de las personas integrantes de la Comisión que estén presentes.
 
 ###### Artículo 15.
 
@@ -189,19 +245,25 @@ II. Informe sobre el avance o cumplimiento de los acuerdos aprobados, y
 
 III. Asuntos generales, cuya importancia no amerite un punto específico en la orden del día.
 
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 16.
 
-Las decisiones de la Comisión serán tomadas preferentemente por consenso. Cuando sea necesario someter a votación algún asunto, los acuerdos se tomarán por mayoría y en caso de empate, el Presidente de la Comisión tendrá voto de calidad.
+Las decisiones de la Comisión serán tomadas preferentemente por consenso. Cuando sea necesario someter a votación algún asunto, los acuerdos se tomarán por mayoría y, en caso de empate, la persona que presida la Comisión tendrá voto de calidad.
 
-Efectuada la votación, el Secretario Técnico asentará el resultado en el acta correspondiente.
+Efectuada la votación, la persona titular de la Secretaría Técnica asentará el resultado en el acta correspondiente.
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 17.
 
-El Presidente de la Comisión instruirá al Secretario Técnico para que se proceda al debido cumplimiento de los acuerdos adoptados.
+La persona titular de la Presidencia de la Comisión instruirá a la persona titular de la Secretaría Técnica para que se proceda al debido cumplimiento de los acuerdos adoptados.
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 18.
 
-El Secretario Técnico elaborará informes que muestren el grado de avance en la ejecución de las acciones derivadas de la operación propia de la Comisión, con el fin de realizar las evaluaciones correspondientes y, en su caso, proponer las acciones que procedan.
+La persona titular de la Secretaría Técnica elaborará informes que muestren el grado de avance en la ejecución de las acciones derivadas de la operación de la Comisión, con el fin de realizar las evaluaciones correspondientes y, en su caso, proponer las acciones que procedan.
 
 ###### Artículo 19.
 
@@ -221,10 +283,20 @@ VI. Acuerdos o resoluciones adoptados;
 
 VII. Asuntos pendientes de resolución, y
 
-VIII. Aquellos que sean indicados por el Presidente de la Comisión.
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2025)</small>
+
+VIII. Aquellos que sean indicados por la persona que presida la Comisión.
 
 ## TRANSITORIO
 
 ÚNICO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Dado en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Javier Bernardo Usabiaga Arroyo.- Rúbrica.- La Secretaria de Desarrollo Social, Josefina Eugenia Vázquez Mota.- Rúbrica.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Víctor Lichtinger Waisman.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Pedro Cerisola y Weber.- Rúbrica.- El Secretario de Educación Pública, Reyes Silvestre Tamez Guerra.- Rúbrica.- La Secretaria de la Reforma Agraria, María Teresa Herrera Tello.- Rúbrica.- El Secretario de Salud, Julio José Frenk Mora.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN INTERSECRETARIAL PARA EL DESARROLLO RURAL SUSTENTABLE”.]
+
+ÚNICO.- El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
