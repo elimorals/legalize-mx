@@ -4,7 +4,7 @@ identifier: "HID-ley-de-humanidades-ciencias-tecnologias-e-innovacion-del-174415
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-17"
-last_updated: "2025-05-26"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance Uno del Número 38 del Periódico Oficial del Estado de Hidalgo, el martes 17 de septiembre de 2024.
 
@@ -497,7 +497,9 @@ En todo caso, las Universidades y las Instituciones de Educación Superior que r
 
 La Secretaría de Educación Pública del Estado de Hidalgo y el Consejo Estatal apoyarán conjuntamente la investigación humanística y científica, el desarrollo tecnológico y la innovación que contribuyan tanto a garantizar el derecho humano a la educación a lo largo de la vida de las personas, como a consolidar la nueva escuela mexicana y desarrollar una campaña estatal permanente de educación en materia de Humanidades, Ciencias, Tecnologías e Innovación.
 
-Las Universidades e Instituciones de Educación Superior en el Estado promoverán que sus docentes participen en actividades de investigación y aplicación innovadora del conocimiento, así como que su personal de investigación participe en actividades de enseñanza y tutoría.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+Las Universidades e Instituciones de Educación Superior en el Estado promoverán que su alumnado participe en actividades de investigación y aplicación innovadora del conocimiento, mediante su postulación en exposiciones o concursos científicos. Asimismo promoverán que sus docentes participen en actividades de investigación y aplicación innovadora del conocimiento, así como que su personal de investigación participe en actividades de enseñanza y tutoría.
 
 Artículo 37 (sic).- Las autoridades educativas del Estado de Hidalgo, deben promover el mejoramiento continuo de las prácticas de enseñanza y de aprendizaje en todos los tipos educativos sobre la base del progreso científico y tecnológico, incluyendo la capacitación permanente de educadores, la actualización de los planes y programas de estudio y el acceso a tecnologías adecuadas para la educación, incluidas aquellas tecnologías que se basan en el aprendizaje a partir de datos capaces de crear contenido nuevo desde un conjunto de reglas y patrones previamente establecidos. De igual manera, promoverán el diseño y aplicación de métodos y programas para la enseñanza de las humanidades, las ciencias, las tecnologías y la innovación en todos los tipos, niveles, modalidades y opciones educativas, en particular para la educación básica.
 
@@ -603,7 +605,9 @@ I. Impulsar, promover, fomentar, coadyuvar y coordinar la investigación cientí
 
 II. Conducir y orientar las políticas, programas y acciones relativas a la investigación científica, el desarrollo tecnológico, la innovación, las humanidades y el posgrado en el Estado de Hidalgo, dirigido principalmente al desarrollo y bienestar de la sociedad;
 
-III. Procurar la canalización e incremento de recursos públicos y privados, tanto Nacionales como Extranjeros en forma suficientes para su aplicación en la coordinación y difusión de los trabajos referentes a la investigación científica, el desarrollo tecnológico, la innovación, las humanidades y el posgrado, para un desarrollo sostenible del Estado de Hidalgo; y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+III. Procurar la canalización e incremento de recursos públicos y privados, tanto Nacionales como Extranjeros en forma suficientes para el fomento de actividades, competencias y exposiciones de innovación científica y tecnológica, así como para su aplicación en la coordinación y difusión de los trabajos referentes a la investigación científica, el desarrollo tecnológico, la innovación, las humanidades y el posgrado, para un desarrollo sostenible del Estado de Hidalgo; y
 
 IV. Promover que dentro de las inversiones que se apliquen para la investigación científica, el desarrollo tecnológico, las humanidades y la innovación, la actividad de investigadoras e investigadores, y de todas aquellas personas que se dediquen a su fomento y difusión, sea cada vez mejor remunerada y reconocida; analizando y promoviendo el diseño, aprobación y operación de esquemas donde investigadoras e investigadores, reciban un porcentaje de los ingresos que se generen por la venta de sus trabajos y proyectos a los usuarios, de tal forma que se incentive la participación de un mayor número de personas académicas y científicas, así como la vinculación entre desarrolladores y usuarios.
 
@@ -998,3 +1002,9 @@ P.O. 26 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 234 - LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO Y A LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DE NIÑAS, ADOLESCENTES Y JÓVENES MUJERES EN LAS CIENCIAS, LA TECNOLOGÍA, LAS INGENIERÍAS Y LAS MATEMÁTICAS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 304 - LXVI POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 35 Y LA FRACCIÓN III DEL ARTÍCULO 49 DE LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE COMPETENCIAS Y EXPOSICIONES DE INNOVACIÓN CIENTÍFICA Y TECNOLÓGICA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
