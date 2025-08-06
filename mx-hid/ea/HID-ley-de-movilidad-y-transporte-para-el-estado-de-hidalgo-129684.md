@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2025-06-10"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -1857,7 +1857,9 @@ XII. Las demás que les confiera la presente Ley y su Reglamento.
 
 Son obligaciones de los concesionarios y permisionarios prestar el servicio de transporte público en los términos y condiciones señaladas en la concesión o permiso otorgados, así como las disposiciones que establece la presente Ley y las normas reglamentarias que de ésta se deriven:
 
-I. Cobrar la tarifa autorizada;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+I. Cobrar la tarifa autorizada y respetar las tarifas preferenciales establecidas en favor de personas adultas mayores o personas con discapacidad;
 
 II. Portar en lugar visible las tarifas;
 
@@ -2000,6 +2002,10 @@ V. Operar la unidad sin usar el cinturón de seguridad;
 V BIS. Circular a exceso de velocidad;
 
 VI. Cobrar por el servicio una tarifa distinta a la autorizada por el Organismo del Transporte Convencional o, en su caso, percibir o recibir un pago distinto al autorizado por el Organismo del Transporte Masivo por la prestación del servicio que efectúa;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+VI Bis. No respetar las tarifas preferenciales establecidas en favor de personas adultas mayores o personas con discapacidad;
 
 VII. Condicionar la prestación del Servicio de Transporte;
 
@@ -3321,9 +3327,9 @@ IX. A quien transgreda de cualquier manera las condiciones de prestación del se
 
 X. Se les impondrá multa por el importe de setenta y cinco hasta cien veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 154 fracciones IX y XXXI, 233, 270 fracciones XV, XXII, XXIII, XXIV y XXVIII;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
 
-XI. Se impondrá multa de cuarenta y cinco hasta sesenta y cinco veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 79, 80, 94 fracción V, 95, 134, 138, 147, 151 fracciones I, III, VI, VII, VIII, XI, XIII, XIV, XVII y XX, 154 fracciones II, VI, VII, XIII, XIV, XVIII, XX, XXI, XXXV y XXXVI, 215 fracción II, 239, 240, 251 y 270 fracciones XVI, XVII y XXV;
+XI. Se impondrá multa de cuarenta y cinco hasta sesenta y cinco veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos 79, 80, 94 fracción V, 95, 134, 138, 147, 151 fracciones I, III VI, VII, VIII, XI, XIII, XIV, XVII y XX, 154 fracciones II, VI, VI bis, VII, XIII, XIV, XVIII, XX, XXI y XXXV, 215 fracción II, 239, 240, 251 y 270 fracciones XVI, XVII y XXV;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3590,5 +3596,11 @@ P.O. 15 DE OCTUBRE DE 2024.
 P.O. 10 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 249.- LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 306 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO, EN MATERIA DE TARIFAS PREFERENCIALES PARA PERSONAS ADULTAS MAYORES Y PERSONAS CON DISCAPACIDAD”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
