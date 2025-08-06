@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2025-07-10"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 06 DE AGOSTO DE 2025.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -591,6 +591,10 @@ Con el fin de reducir la brecha de género, la Secretaría y la Autoridad Educat
 
 El desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyarán en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+El uso de dichas tecnologías en el ámbito escolar deberá estar planificado y supervisado por el personal docente y las autoridades educativas, promoviendo su integración responsable y adecuada en los procesos de enseñanza aprendizaje, sin comprometer la atención, el bienestar, ni el desarrollo integral de las y los estudiantes.
+
 ###### Artículo 45.
 
 El fomento de la investigación, la ciencia, las humanidades, la tecnología y la innovación que realicen la Secretaría y la Autoridad Educativa Municipal se hará de conformidad con lo establecido en el Capítulo V del Título Tercero de la Ley General de Educación y en la Ley de Ciencia, Tecnología e Innovación del Estado de Hidalgo, promoviendo la vinculación de la academia con los sectores productivo y social para impulsar su desarrollo tecnológico y el emprendimiento en las regiones, como estrategia para la competitividad y la generación de empleo.
@@ -953,11 +957,19 @@ XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la e
 
 ### CAPÍTULO III. DE LAS TECNOLOGÍAS DE LA INFORMACIÓN, COMUNICACIÓN, CONOCIMIENTO Y APRENDIZAJE DIGITAL EN EL PROCESO EDUCATIVO
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 69.
 
-En la educación que se imparta en el Estado de Hidalgo, se utilizará el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje, la innovación educativa, el desarrollo de habilidades y saberes digitales de los educandos, además del establecimiento de programas de educación a distancia y semipresencial para cerrar la brecha digital y las desigualdades en la población.
+En la educación que se imparta en el Estado de Hidalgo, se empleará el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje, fomentar la innovación educativa, y desarrollar habilidades y saberes digitales de las y los educandos.
 
-Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
+El uso de estas tecnologías deberá realizarse de manera planificada, con fines estrictamente educativos, bajo supervisión docente y en armonía con los objetivos curriculares, garantizando que su implementación contribuya efectivamente al proceso formativo.
+
+Asimismo, se impulsará el establecimiento de programas de educación a distancia y semipresencial para cerrar la brecha digital y reducir las desigualdades en la población.
+
+Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos, priorizando su uso con propósito pedagógico y evitando su empleo con fines ajenos al ámbito escolar durante el horario de clases.
+
+El uso de dispositivos tecnológicos por parte del alumnado que curse la educación básica y media superior deberá limitarse durante el horario de clases dentro de las instituciones educativas. Su utilización será permitida cuando tenga fines estrictamente educativos previamente planificados por el personal docente, o bien, en situaciones de emergencia personal debidamente justificadas.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
 
@@ -2630,5 +2642,11 @@ P.O. 10 DE JULIO DE 2025.
 P.O. 10 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 268 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DE PROGRAMAS PARA PROMOVER LA CULTURA DEL AUTOCUIDADO Y PREVENCIÓN DE ENFERMEDADES, Y LA CULTURA DE RESPETO HACIA LAS PERSONAS ADULTAS MAYORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 310 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 69 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 44 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PLANEACIÓN DEL USO DE TECNOLOGÍAS DE LA INFORMACIÓN CON FINES EDUCATIVOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
