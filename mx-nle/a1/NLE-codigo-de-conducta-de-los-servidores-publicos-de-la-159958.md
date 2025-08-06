@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-de-la-159958"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-09-02"
-last_updated: "2022-09-02"
+last_updated: "2025-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE MOVILIDAD Y PLANEACION URBANA DEL GOBIERNO DEL ESTADO DE NUEVO LEON
 
-CÓDIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA SECRETARÍA DE MOVILIDAD Y PLANEACIÓN URBANA DEL GOBIERNO DEL ESTADO DE NUEVO LEÓN
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE MOVILIDAD Y PLANEACIÓN URBANA DEL GOBIERNO DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 6 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE MOVILIDAD Y PLANEACIÓN URBANA DEL GOBIERNO DEL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025 (ABROGADO).
 
 Código publicado en el Número 123 del Periódico Oficial del Estado de Nuevo León, el viernes 2 de septiembre de 2022.
 
@@ -280,3 +282,15 @@ Así lo acuerda y firma a los 29 días del mes de agosto de 2022.
 Dr. Hernán Manuel Villareal Rodríguez
 
 Secretario d Movilidad y Planeación Urbana
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE MOVILIDAD Y PLANEACIÓN URBANA”.]
+
+PRIMERO: El presente código entra en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se Abroga el Acuerdo por el que se emite el Código de Conducta de los Servidores Públicos de la Secretaría de Movilidad y Planeación Urbana, publicado en el Periódico Oficial del Estado el día 2 de Septiembre de 2022.
+
+TERCERO: La Carta Compromiso derivada del Código de Conducta debe ser firmada por los servidores públicos al momento de la entrada en vigor del Código de Conducta o cuando el nuevo personal se integra a la dependencia.
