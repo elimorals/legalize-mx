@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2025-01-28"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -551,7 +551,9 @@ V. Promover la creación de talleres o grupos en atención a las distintas manif
 
 VI. Promover el acceso de la población a las diferentes manifestaciones culturales;
 
-VII. Promover ferias, concursos y eventos, en donde se expresen las distintas manifestaciones culturales;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+VII. Promover ferias, concursos y eventos, en donde se expresen las distintas manifestaciones culturales; procurando el establecimiento de espacios preferentes regionales y pabellones para la exhibición, promoción y comercialización de artesanías locales.
 
 VIII. Promover el otorgamiento de reconocimientos y estímulos en favor de las personas que se hayan distinguido en el campo de la cultura;
 
@@ -939,7 +941,9 @@ IV. Impulsar el desarrollo de las actividades artesanales en el Estado, coadyuva
 
 V. Promover la realización de investigaciones en relación con la artesanía y sus procesos;
 
-VI. Realizar recomendaciones técnicas a los artesanos para evitar que los procedimientos artesanales dañen al medio ambiente;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+VI. Realizar recomendaciones técnicas a los artesanos para evitar que los procedimientos artesanales dañen al medio ambiente, a través del posible uso de materiales reciclables y biodegradables en dichos procedimientos.
 
 VII. Velar por el desarrollo y preservación de las actividades artesanales en el Estado;
 
@@ -1288,5 +1292,11 @@ P.O. 28 DE ENERO DE 2025.
 P.O. 28 DE ENERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 188 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DE PERSONAS AGENTES CULTURALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 261 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE ARTESANÍAS LOCALES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
