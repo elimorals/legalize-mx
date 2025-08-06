@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2024-07-17"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -895,6 +895,18 @@ II. Cuando su esposa, concubina o pareja tenga perdida natural del embrión o fe
 
 III. Cuando algún familiar de hasta el segundo grado requiera de cuidados médicos.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+###### Artículo 54 Ter.
+
+Las mujeres y personas menstruantes diagnosticadas por un especialista en ginecología con endometriosis grado dos o dismenorrea incapacitante tendrán derecho a dos días de licencia con goce de sueldo al mes.
+
+Para tal efecto, deberán presentar en el área correspondiente de su centro laboral, el certificado médico emitido por personal especialista en ginecología, preferentemente, perteneciente a alguna institución del Sistema Nacional de Salud, como el IMSS o el ISSSTE.
+
+El certificado médico podrá ser renovado periódicamente cuando así lo solicite la entidad pública.
+
+El goce de este tipo de licencia no afectará los derechos laborales.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2024)</small>
 
 ###### Artículo 55.
@@ -1108,6 +1120,10 @@ XV.- Acatar en sus términos las sentencias que emita el Tribunal; y
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
 
 XVI.- Emitir el protocolo para prevenir, atender y sancionar el acoso y hostigamiento sexual.
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+XVII.- Otorgar a las trabajadoras y los trabajadores, permiso con goce de sueldo íntegro, un día al año, para la realización de exámenes médicos de prevención y detección oportuna de cáncer o cualquier otra enfermedad, según sea el caso, de manera programada, para lo cual deberán presentar certificado médico expedido por una institución del Sistema Nacional de Salud, como el IMSS o el ISSSTE.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -4124,3 +4140,11 @@ Se derogan todas aquellas disposiciones que se opongan al cumplimiento de la pre
 ###### ARTÍCULO TERCERO.
 
 En un término que no exceda de 60 días hábiles contados a partir de la entrada en vigor del presente decreto, el Tribunal deberá efectuar las modificaciones necesarias a su normatividad interna para adecuarlas al contenido de este instrumento legal.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 20.- SE REFORMA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
