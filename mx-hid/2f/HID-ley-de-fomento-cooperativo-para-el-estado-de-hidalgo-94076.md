@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-cooperativo-para-el-estado-de-hidalgo-94076"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-29"
-last_updated: "2024-05-09"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 29 de abril de 2013.
 
@@ -205,9 +205,17 @@ Corresponde a los Presidentes Municipales:
 
 I.- Participar en la elaboración y ejecución de los programas de fomento cooperativo de su demarcación;
 
-II.- Impulsar las actividades de fomento cooperativo, por si y en coordinación con las dependencias del ramo; y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
 
-III.- Promover la concertación con otras instancias de Gobierno y con los sectores social y privado, para impulsar el desarrollo cooperativo en sus Municipios.
+II.- Impulsar las actividades de fomento cooperativo, por si y en coordinación con las dependencias del ramo;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+III.- Promover la concertación con otras instancias de Gobierno y con los sectores social y privado, para impulsar el desarrollo cooperativo en sus Municipios, y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+IV.- Por sí mismos, o a través de las secretarías generales, hacer constar la identidad de los socios y ratificar la voluntad de ser de estos las firmas autógrafas o huellas dactilares que obren en el acta de asamblea de renovación de autoridades de sociedades cooperativas constituidas.
 
 De acuerdo a la disposición presupuestaria, cada Presidencia Municipal, preferentemente contará con un área de Fomento Cooperativo.
 
@@ -394,5 +402,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 873 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 12 DE LA LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 309 - LXVI POR EL QUE SE REFORMAN LAS FRACCIONES ll Y III; Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 10 DE LA LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, EN MATERIA DE RENOVACIÓN DE AUTORIDADES DE SOCIEDADES COOPERATIVAS CONSTITUIDAS ".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
