@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-territorial-y-urbano-para-el-estado-de-zacatecas-y-13834
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-31"
-last_updated: "2024-05-29"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138341&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de agosto de 2019.
 
@@ -4769,11 +4769,15 @@ Artículo sexto. El Consejo Estatal, las Comisiones Metropolitanas o Conurbadas 
 
 Artículo séptimo. Los Municipios gestionarán lo pertinente para que dentro de un plazo de un año se revisen y, en su caso, se expidan o actualicen los Programas Municipales de Desarrollo Urbano, Programas de Desarrollo Urbano de Centros de Población y sus Programas Parciales de Desarrollo Urbano, en los términos de este ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+Artículo octavo. Se autoriza una prórroga de noventa días, contados a partir de la entrada en vigor del presente Decreto, para que los Ayuntamientos, en el ejercicio de las facultades de inspección y vigilancia a que se refiere el presente ordenamiento, elaboren el inventario de asentamientos humanos, fraccionamientos, colonias o condominios irregulares en sus municipios, y los mismos se incorporen a los programas de desarrollo urbano, en su caso, de regularización, como una acción de mejoramiento de los centros de población. Transcurrido el plazo señalado para la elaboración del inventario en referencia, las autoridades competentes estarán obligadas a denunciar la existencia de nuevos asentamientos humanos que incumplan las disposiciones de este Código, procediendo a la suspensión de cualquier obra o ventas de predios que se realicen ilícitamente, fijando en lugares públicos y visibles, copias del ordenamiento que disponga tal situación, el cual deberá estar fundado en las disposiciones de la Ley General, este Código y será publicada en los periódicos de mayor circulación de la localidad, como advertencia pública, sin perjuicio de dictar las medidas de seguridad que procedan.
+
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2024)</small>
 
-Artículo octavo. Se autoriza una prórroga de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto, para que los Ayuntamientos, en el ejercicio de las facultades de inspección y vigilancia a que se refiere el presente ordenamiento, elaboren el inventario de asentamientos humanos, fraccionamientos, colonias o condominios irregulares en sus municipios, y los mismos se incorporen a los programas de desarrollo urbano, en su caso, de regularización, como una acción de mejoramiento de los centros de población. Transcurrido el plazo señalado para la elaboración del inventario en referencia, las autoridades competentes estarán obligadas a denunciar la existencia de nuevos asentamientos humanos que incumplan las disposiciones de este Código, procediendo a la suspensión de cualquier obra o ventas de predios que se realicen ilícitamente, fijando en lugares públicos y visibles, copias del ordenamiento que disponga tal situación, el cual deberá estar fundado en las disposiciones de la Ley General, este Código y será publicada en los periódicos de mayor circulación de la localidad, como advertencia pública, sin perjuicio de dictar las medidas de seguridad que procedan.
-
 El inventario en referencia deberá ser remitido a esta Legislatura y a la Auditoría Superior del Estado dentro de los quince días hábiles siguientes a partir del vencimiento del plazo de ciento veinte días señalado en el párrafo anterior, para verificar su cumplimiento y para los efectos de revisión y fiscalización de la cuenta pública que corresponda.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2024)</small>
 
 Los programas de desarrollo urbano para mejoramiento de los centros de población a que se refiere el artículo anterior, establecerán, entre otros, las normas previstas en la legislación urbana, particularmente, las señaladas en el artículo 89 del presente Código.
 
@@ -4826,6 +4830,14 @@ Artículo Tercero. Se derogan las disposiciones que contravengan el presente Dec
 P.O. 29 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 520.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES TRANSITORIAS DEL CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 73.- SE REFORMA EL CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, EN MATERIA DE ASENTAMIENTOS HUMANOS IRREGULARES".]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
