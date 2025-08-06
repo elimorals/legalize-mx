@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-del-congreso-del-estado-de-174
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-18"
-last_updated: "2025-04-09"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL DEL CONGRESO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Número 367 del Periódico Oficial del Estado de Chiapas, el miércoles 18 de septiembre de 2024.
 
@@ -177,9 +177,11 @@ Los Diputados y las Diputadas son responsables por los delitos que cometan duran
 
 La sede del Congreso está en la Ciudad de Tuxtla Gutiérrez, Capital del Estado de Chiapas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 13.
 
-El edificio que alberga al Congreso se denomina Palacio del Poder Legislativo, cuenta con un Salón de Pleno o Recinto, donde se celebran las sesiones.
+El edificio que alberga al Congreso se denomina Sede del Poder Legislativo, cuenta con un Salón de Pleno o Recinto, donde se celebran las sesiones.
 
 Se podrán celebrar sesiones del Pleno del Congreso del Estado o de la Comisión Permanente en su caso, fuera del Recinto Oficial, cuando exista caso fortuito o fuerza mayor, que mediante reunión previa de la Mesa Directiva así lo determinen.
 
@@ -193,9 +195,11 @@ III. Por situaciones de emergencia en desastres naturales o de protección civil
 
 Esta modalidad de sesionar en línea, solo podrá llevarse a cabo para la atención de aquellos asuntos con carácter de urgentes, calificados previamente por la Mesa Directiva del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 14.
 
-Ninguna autoridad podrá dictar mandamiento alguno que afecte los bienes del Poder Legislativo, ni ejecutar resoluciones judiciales o administrativas sobre las personas o bienes de los Diputados y Diputadas en el interior del Palacio del Poder Legislativo.
+Ninguna autoridad podrá dictar mandamiento alguno que afecte los bienes del Poder Legislativo, ni ejecutar resoluciones judiciales o administrativas sobre las personas o bienes de los Diputados y Diputadas en el interior de la Sede del Poder Legislativo.
 
 ###### Artículo 15.
 
@@ -815,37 +819,45 @@ d) SER CHIAPANECO POR NACIMIENTO.
 
 ### Capítulo Tercero. De la Secretaría de Servicios Administrativos
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 62.
 
-La Secretaría de Servicios Administrativos se integra con funcionarios de carrera y confiere unidad de acción a los servicios siguientes:
+La Secretaría de Servicios Administrativos se integra con funcionarios del pueblo y contará con las unidades de acción a los servicios siguientes:
 
-a) Unidad de Tesorería, es el área de realizar el procedimiento administrativo de los pagos derivados de las obligaciones que el Honorable Congreso del Estado, en apego a las políticas y lineamientos internos en materia financiera;
+a) Unidad de Tesorería, es el área encargada de realizar el procedimiento administrativo de los pagos derivados de las obligaciones que el Honorable Congreso del Estado, en apego a las políticas y lineamientos internos en materia financiera.
 
-b) Servicios de Recursos Humanos, área encargada de realizar las actividades administrativas del personal del Honorable Congreso del Estado, consiste en pagos de nóminas, reclutamiento, promoción entre otros;
+b) Unidad de Servicios de Recursos Humanos, área encargada de realizar las actividades administrativas del personal del Honorable Congreso del Estado, consistente en pagos de nóminas, reclutamiento, promoción, entre otros, en materia de gestión y manejo de recursos humanos.
 
-c) Unidad de Recursos Materiales y Servicios Generales, área encargada de administrar los bienes y servicios asignados a la Secretaría de Servicios Administrativos, y que comprenden los de inventario, provisión, mantenimiento y control de bienes muebles, materiales de oficina y papelería y adquisiciones de recursos materiales con el fin de cubrir los requerimientos y necesidades de los diferentes órganos administrativos del Honorable Congreso del Estado;
+c) Unidad de Recursos Materiales y Servicios Generales, área encargada de administrar los bienes y servicios asignados a la Secretaría de Servicios Administrativos, y que comprenden los de inventario, provisión, mantenimiento y control de bienes muebles, materiales de oficina, papelería y adquisiciones de recursos materiales con el fin de cubrir los requerimientos y necesidades de los diferentes órganos administrativos del Honorable Congreso del Estado; asimismo será el encargado de la vigilancia y cuidado de bienes muebles e inmuebles; coordinará al personal de seguridad; control de acceso externo e interno, así como el personal de Servicios Médicos para la atención de las personas servidoras del Congreso del Estado y de los visitantes que en su caso tengan alguna emergencia médica, de conformidad con la suficiencia presupuestal del Congreso del Estado.
 
-d) Servicios Generales, que comprende los de: mantenimiento de bienes muebles e inmuebles y alimentación;
+d) Unidad de Planeación y Presupuesto, encargada de la elaboración e integración del Anteproyecto del Presupuesto de Egresos anual del Congreso del Estado y la realización de las adecuaciones al Presupuesto Aprobado, así como la integración de la Cuenta Pública Presupuestal y Funcional, observando las disposiciones que para tal efecto establece la dependencia normativa.
 
-e) Servicios de Seguridad, que comprende los de: vigilancia y cuidado de bienes muebles e inmuebles; seguridad a personas; y control de acceso externo e interno; y
+e) La Unidad de Contabilidad y Control Presupuestal, encargada de registrar sistemáticamente las operaciones de los eventos económicos identificables y cuantificables que realiza el Congreso del Estado, a fin de generar información contable y presupuestal que facilite la toma de decisiones institucionales. Para ello, se encarga de llevar el control presupuestal, registrar las obligaciones financieras derivadas de las políticas internas y normativas aplicables, así como asegurar el cumplimiento de los lineamientos contables establecidos. Además, coordina y supervisa los procesos relacionados con la gestión presupuestaria, garantizando transparencia, eficiencia y apego a las disposiciones legales vigentes.
 
-f) Servicios Médicos y de Atención a Diputados y Diputadas.
+La Secretaría de Servicios Administrativos, dependerá de la Junta de Coordinación Política. Cada uno de los servicios establecidos en el párrafo anterior se constituye en una unidad, la cual se estructura con las oficinas que se requieran, conforme a la disponibilidad presupuestaria.
 
-La Secretaría de Servicios Administrativos, dependerá de la Junta de Coordinación Política.
+Asimismo, promoverá la profesionalización y capacitación del personal del Congreso del Estado de conformidad con la suficiencia presupuestaria con la que cuente.
 
-Cada uno de los servicios establecidos en el párrafo anterior se constituye en una unidad, la cual se estructura con las oficinas que se requieran, conforme a la disponibilidad presupuestaría.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 63.
 
-La Secretaría de Servicios Administrativos estará a cargo de un Secretario quien dependerá de la Junta de Coordinación Política.
+La Secretaría de Servicios Administrativos estará a cargo de una Secretaria o Secretario quien dependerá de la Junta de Coordinación Política.
 
-Su nombramiento se hará por el Pleno del Congreso con la aprobación de las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Política.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
 
-Para ser Secretario de Servicios Administrativos, se requerirán los mismos requisitos que para ser Secretario de Servicios Parlamentarios, con excepción del requisito de formación profesional, que será en alguna de las áreas económico-administrativas.
+Su nombramiento se hará por el Pleno del Congreso con la aprobación de las dos terceras partes de los diputados y diputadas presentes, a propuesta de la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+Para ocupar la Titularidad de la Secretaría de Servicios Administrativos, se requerirán los mismos requisitos que para ser Secretario de Servicios Parlamentarios, con excepción del requisito de formación profesional, que será en alguna de las áreas económico-administrativas.
 
 La Secretaría de Servicios Administrativos se encargará de planear, coordinar y programar la administración de los recursos financieros, humanos y materiales, teniendo dentro de sus funciones las siguientes:
 
-I.- Dirigir y coordinar los trabajos de las Unidades adscritas a la Secretaria y acordar con los titulares de cada una de ellas los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+I.- Dirigir y coordinar los trabajos de las Unidades adscritas a la Secretaría y acordar con las personas titulares de cada una de ellas los asuntos de su competencia;
 
 II.- Vigilar el ejercicio del presupuesto y cuidar el cumplimiento del mismo;
 
@@ -871,7 +883,9 @@ II.- Del área de Apoyo Técnico.
 
 a) Servicios del Archivo Histórico, que comprende los de: formación, clasificación y custodia de expedientes del pleno y las comisiones; y desahogo de las consultas y apoyo documental a los órganos de la cámara y a los legisladores y al público en general en respeto al derecho a la información;
 
-b) Servicios de información, informática y de bibliotecas, que comprende los de: acervo de libros; hemeroteca; videoteca; multimedia; museografía; e informática parlamentaria;
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+b) Servicios de información y de bibliotecas, que comprende los de: acervo de libros; hemeroteca; videoteca; multimedia y museografía parlamentaria;
 
 III.- De Estudios Legislativos para la Igualdad de Género.
 
@@ -957,7 +971,9 @@ I. Proponer y aplicar el programa anual de control y evaluación, y someterlo a 
 
 II. Diseñar, implantar y supervisar el sistema de control y evaluación de las unidades administrativas del Congreso del Estado, orientadas a mejorar los procedimientos administrativos;
 
-III. Sustanciar los procedimientos de responsabilidades en contra de los servidores públicos del Poder Legislativo en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+III. Fungir como autoridad substanciadora en los procedimientos administrativos de responsabilidades derivados de faltas administrativas graves y no graves cometidas por servidores públicos del Congreso del Estado, así como ejercer las funciones de autoridad resolutora en los procedimientos derivados de faltas administrativas no graves, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas;
 
 IV. Recibir y dar seguimiento a las sugerencias, quejas y denuncias ciudadanas, con respecto a la actuación de los servidores públicos adscritos al Poder Legislativo;
 
@@ -967,7 +983,13 @@ VI. Coordinar y supervisar la entrega-recepción de la Mesa Directiva, de la Jun
 
 VII. Presentar a la Junta de Coordinación Política un informe trimestral sobre los resultados del cumplimiento de sus funciones;
 
-VIII. Las demás que expresamente le confieren los ordenamientos legales o que determine el Pleno del Congreso del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2025)</small>
+
+VIII. Ejercer las funciones, competencias y atribuciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados que se establecen en las leyes de la materia, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE AGOSTO DE 2025)</small>
+
+IX. Las demás que le confiera (sic) los ordenamientos legales aplicables o aquellos que determine el Pleno del Congreso del Estado.
 
 ###### Artículo 73.
 
@@ -986,6 +1008,44 @@ II. Poseer título de nivel licenciatura en las áreas de finanzas, contaduría,
 III. NO HABER SIDO SENTENCIADO EJECUTORIAMENTE POR DELITO INTENCIONAL QUE AMERITE PENA PRIVATIVA DE LIBERTAD; Y
 
 IV. Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+###### Artículo 73 Bis.
+
+La Contraloría Interna, para el cumplimiento de sus atribuciones establecidas en esta Ley, contará en función de la suficiencia presupuestal del Congreso del Estado con las áreas operativas, cuyas descripciones y funciones se detallan a continuación:
+
+a).- Área de Investigación de Quejas y Denuncias: Encargada de recibir, analizar y dar seguimiento a las quejas y denuncias relacionadas con presuntas faltas administrativas cometidas por servidores públicos del Congreso del Estado o particulares vinculados jurídicamente con el Poder Legislativo, así como de la recepción y sustanciación de los procedimientos en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados que determine la Ley de correspondiente.
+
+Para garantizar los hechos denunciados, esta área contará de manera enunciativa y no limitativa con las siguientes atribuciones:
+
+1.- Recepcionar y registrar quejas y denuncias presentadas contra personas servidoras públicas del Congreso del Estado de Chiapas, así como contra particulares que mantengan relación jurídica con el Poder Legislativo.
+
+2.- Analizar las quejas y denuncias recibidas para determinar su procedencia y viabilidad.
+
+3.- Investigar los hechos objeto de las quejas o denuncias, recabando pruebas y documentación necesaria para establecer si existen indicios de faltas administrativas.
+
+4.- Integrar expedientes de investigación con los datos probatorios recabados durante el procedimiento y elaborar el Informe de presunta responsabilidad administrativa correspondiente.
+
+5.- Remitir los expedientes concluidos a las instancias competentes para su resolución, asegurando el cumplimiento de las disposiciones aplicables.
+
+6.- Fungir como autoridad investigadora en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas, realizando las actuaciones necesarias para la investigación de presuntas faltas administrativas, incluyendo la recopilación de pruebas, la integración de expedientes y la elaboración de informes técnicos que sirvan de base para la determinación de responsabilidades por parte de las autoridades competentes.
+
+7.- Las demás funciones que le sean asignadas por la Contraloría Interna para garantizar el cumplimiento de lo dispuesto en la presente Ley, la Ley de Responsabilidades Administrativas del Estado de Chiapas y otras disposiciones aplicables.
+
+b).- Área de Control y Evaluación: Encargada de coordinar la ejecución del Programa Anual de Evaluación del Congreso del Estado. Esta área busca fortalecer la eficiencia administrativa y la transparencia en la gestión interna del Congreso mediante evaluaciones periódicas y la implementación de estrategias de mejora, teniendo las atribuciones siguientes de manera enunciativa, más no limitativa:
+
+1.- Diseñar e implementar el Programa Anual de Evaluación del Congreso del Estado, asegurando que se alinee con los objetivos institucionales y las mejores prácticas de gestión pública.
+
+2.- Realizar evaluaciones periódicas de los procesos internos y administrativos del Congreso, identificando áreas de oportunidad y proponiendo mejoras específicas.
+
+3.- Generar informes trimestrales que reflejen el estado que guarda la gestión interna del Congreso, incluyendo observaciones, recomendaciones y acciones correctivas.
+
+4.- Proponer estrategias de mejora basadas en los resultados de las evaluaciones realizadas, promoviendo la eficiencia, transparencia y rendición de cuentas en el ejercicio de las funciones legislativas.
+
+5.- Supervisar y coordinar los procesos de entrega-recepción de las personas servidoras públicas del Congreso, garantizando el cumplimiento de las disposiciones normativas aplicables y la integridad de la documentación entregada.
+
+6.- Las demás funciones que le sean asignadas por la Contraloría Interna para garantizar el cumplimiento de lo dispuesto en la presente Ley y otras disposiciones aplicables.
 
 ### Capítulo Noveno. De la Unidad de Transparencia
 
@@ -1007,35 +1067,63 @@ Con la finalidad de consolidar y promover la cultura de la transparencia y rendi
 
 Para ser jefe de la Unidad de Transparencia, se requerirá haber desempeñado destacadamente actividades profesionales de servicio público o académicas, relacionadas preferentemente con la materia, contar con título y cédula profesional así como experiencia en actividades de su profesión.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE AGOSTO DE 2025)</small>
+
+### Capítulo Décimo. De la Unidad de Informática
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+###### Artículo 77 Bis.
+
+El Congreso del Estado contará con una Unidad de Informática que será la encargada de planear, coordinar y operar los servicios informáticos y tecnológicos que apoyen las actividades legislativas y administrativas del Poder Legislativo, esto incluye la gestión de la infraestructura tecnológica, el desarrollo y mantenimiento de sistemas informáticos, la seguridad de la información y la eficiencia en los procesos digitales, facilitando el acceso a herramientas tecnológicas para Diputadas, Diputados, personal técnico y administrativo.
+
+La Unidad de Informática del Honorable Congreso del Estado de Chiapas dependerá jerárquicamente de la Junta de Coordinación Política, y su titular será nombrado por la Presidencia de la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+###### Artículo 77 Ter.
+
+Para ser titular de la Unidad de Informática del Poder Legislativo se requiere:
+
+(NOTA: EL 14 DE JULIO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 171/2024, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE AGOSTO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. Tener ciudadanía CHIAPANECA, en pleno goce de sus derechos civiles y políticos;
+
+II. Poseer título de nivel licenciatura en las áreas de informática, con la experiencia comprobada de al menos cinco años en el ámbito profesional.
+
 L I B R O S E G U N D O
 
 DE LOS PROCEDIMIENTOS PARLAMENTARIOS
 
-### Capítulo Único. De su Instalación y Periodos de Sesiones
-
 ## Título Primero. De la Cámara de Diputados
 
-### Capítulo Primero. De las Sesiones del Congreso del Estado
+### Capítulo Único. De su Instalación y Periodos de Sesiones
 
 ###### Artículo 78.
 
 Para efectos de dar cumplimiento a la sesión de instalación del Congreso del Estado, las Diputadas y los Diputados electos se reunirán en la sede que ocupa el recinto legislativo, el día 01 de Octubre del año de la elección, el Congreso del Estado se instalará de acuerdo con lo previsto por el artículo 41 de la Constitución y 10 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 79.
 
-La instalación del Congreso del Estado, será presidido por la Mesa Directiva de la Comisión Permanente de la Legislatura saliente y se desarrollará conforme al procedimiento siguiente:
+Para la conducción de la sesión de instalación del Congreso del Estado, habrá una Mesa de Decanos, constituida por un Presidente o Presidenta y un Secretario o una Secretaria y se desarrollará conforme al procedimiento siguiente:
 
-a) El Secretario de la Comisión Permanente, dará lectura a la lista de los Diputados y las Diputadas que resultaron electos, en términos de las constancias de mayoría y de validez de la elección, enviadas por los Consejos Distritales Electorales tratándose de los Diputados o Diputadas de mayoría; remitidas por el Consejo General del Instituto de Elecciones y Participación Ciudadana tratándose de Diputados o Diputadas de representación proporcional o por el Tribunal Electoral del Estado, según el caso, y comprobado el quórum legal, se dará la palabra al Presidente de la propia Comisión;
+a) La Mesa de Decanos se integra por las Diputadas y los Diputados electos presentes que hayan desempeñado con mayor antigüedad la responsabilidad de legislador o legisladora en el Estado. En caso de presentarse antigüedades iguales, la precedencia se establecerá en favor de quienes hayan pertenecido al mayor número de Legislaturas y, en caso de que no haya o exista este supuesto, se considerará al de mayor edad.
 
-b) A continuación el Presidente invitará a los Diputados y a las Diputadas a que elijan la Mesa Directiva del Congreso del Estado en los términos señalados por ésta Ley;
+La Diputada o Diputado electo que cuente con mayor antigüedad o en su caso mayor edad será el Presidente o Presidenta de la Mesa de Decanos. En calidad de Secretario o Secretaria le asistirá el siguiente diputado electo que cuenten (sic) con las sucesivas mayores antigüedades o edad.
 
-c) Dado a conocer el resultado del escrutinio por el Secretario, los integrantes de la Mesa Directiva de la Legislatura entrante pasaran a ocupar su sitio en el presídium y una vez hecho lo anterior su Presidente manifestará: "La (número de) Legislatura del Estado Libre y Soberano de Chiapas se declara hoy legalmente constituida";
+b) El Secretario o Secretaria de la Mesa de Decanos dará lectura a la lista de los Diputados y las Diputadas que resultaron electos, en términos de las constancias de mayoría y de validez de la elección, enviadas por los Consejos Distritales Electorales tratándose de los Diputados o Diputadas de mayoría; remitidas por el Consejo General del Instituto de Elecciones y Participación Ciudadana tratándose de Diputados o Diputadas de representación proporcional o por el Tribunal Electoral del Estado, según el caso, y comprobado el quórum legal, el Presidente o la Presidenta de la Mesa de Decanos abrirá la sesión;
 
-d) El Presidente pedirá a los Diputados y a las Diputadas que se pongan de pie y otorgara su protesta en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado y, si así no lo hiciera que el pueblo me lo demande"; y seguidamente les tomara la protesta a los demás integrantes de la Legislatura, en los mismos términos;
+c) A continuación el Presidente o la Presidenta de la Mesa de Decanos invitará a los Diputados y a las Diputadas a que elijan la Mesa Directiva del Congreso del Estado en los términos señalados por esta Ley;
 
-e) Se realizará la inauguración del periodo ordinario de sesiones;
+d) Dado a conocer el resultado del escrutinio por el Secretario de la Mesa de Decanos, los integrantes de la Mesa Directiva de la Legislatura entrante pasarán a ocupar su sitio en el presídium y una vez hecho lo anterior su Presidente manifestará: "La (número de) Legislatura del Estado Libre y Soberano de Chiapas se declara hoy legalmente constituida";
 
-f) Acto seguido se le concederá el uso de la palabra a un representante de cada uno de los Grupos Parlamentarios, en orden creciente, para fijar posiciones, sin excederse de diez minutos en sus intervenciones. Cuando dos o más Grupos Parlamentarios, cuenten con el mismo número de Diputados o Diputadas, el criterio de desempate será por el partido político que tenga mayor número de Diputados o Diputadas uninominales, en caso de persistir el empate, se resolverá por el grupo parlamentario cuyo partido haya obtenido más votos válidos en el proceso electoral inmediato anterior en que se eligieron a los Diputados y a las Diputadas que conforman la Legislatura local. Dicho criterio se aplicará para todas las disposiciones similares establecidas en el presente ordenamiento.
+e) El Presidente pedirá a los Diputados y a las Diputadas que se pongan de pie y otorgará su protesta en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado y, si así no lo hiciera que el pueblo me lo demande"; y seguidamente les tomara la protesta a los demás integrantes de la Legislatura, en los mismos términos;
+
+f) Se realizará la inauguración del periodo ordinario de sesiones;
+
+g) Acto seguido se le concederá el uso de la palabra a un representante de cada uno de los Grupos Parlamentarios, en orden creciente, para fijar posiciones, sin excederse de diez minutos en sus intervenciones. Cuando dos o más Grupos Parlamentarios, cuenten con el mismo número de Diputados o Diputadas, el criterio de desempate será por el partido político que tenga mayor número de Diputados o Diputadas uninominales, en caso de persistir el empate, se resolverá por el grupo parlamentario cuyo partido haya obtenido más votos válidos en el proceso electoral inmediato anterior en que se eligieron a los Diputados y a las Diputadas que conforman la Legislatura local. Dicho criterio se aplicará para todas las disposiciones similares establecidas en el presente ordenamiento.
 
 Esta sesión no tendrá más objeto que los indicados y, durante la misma, no procederá intervención de los legisladores para hechos, interpelaciones o alusiones personales.
 
@@ -1051,7 +1139,7 @@ En la apertura de cada período ordinario de sesiones, podrán hacer uso de la p
 
 ## Título Segundo. De los Trabajos Parlamentarios
 
-### Capítulo Segundo. De las Sesiones en línea
+### Capítulo Primero. De las Sesiones del Congreso del Estado
 
 ###### Artículo 82.
 
@@ -1147,7 +1235,7 @@ La convocatoria para periodo extraordinario de sesiones, deberá emitirse con 24
 
 Los Diputados y las Diputadas tienen la obligación de asistir puntualmente a todas las sesiones del Congreso, de manera personal y sin representación alguna, desde que da inicio hasta el fin de éstas, tomarán asiento preferentemente en el lugar que se les asigne, y se presentarán con la decencia que exigen las altas funciones de que están encargados.
 
-### Capítulo Tercero. Del Orden del Día
+### Capítulo Segundo. De las Sesiones en línea
 
 ###### Artículo 95.
 
@@ -1195,7 +1283,7 @@ En las sesiones en línea no habrá Asuntos Generales.
 
 La sesión en línea, no podrá durar más de 3 horas.
 
-### Capítulo Cuarto. De las Licencias
+### Capítulo Tercero. Del Orden del Día
 
 ###### Artículo 97.
 
@@ -1259,7 +1347,7 @@ La Mesa Directiva a propuesta de la Junta de Coordinación Política puede inclu
 
 Durante el desarrollo de la sesión se puede agregar en el Orden del Día otros asuntos a solicitud de la Junta de Coordinación Política, si el Pleno lo aprueba por mayoría absoluta de votos de los presentes. En su caso previamente al desahogo del asunto de que se trata, los documentos relativos se distribuyen entre los Diputados y las Diputadas en la misma sesión.
 
-### Capítulo Quinto. De las Licencias Temporales para Separarse del Ejercicio del Cargo
+### Capítulo Cuarto. De las Licencias
 
 ###### Artículo 101.
 
@@ -1309,7 +1397,7 @@ Si la Diputada o el Diputado enfermo estuviere o falleciere fuera de la capital 
 
 Si la Diputada o el Diputado que falleciere dejare cónyuge, hijos o padres, estos tendrán derecho a una ayuda económica equivalente a tres meses de dieta incluyendo todas las percepciones que el mismo Congreso le estuviere otorgando.
 
-### Capítulo Sexto. Del Ceremonial en las Sesiones
+### Capítulo Quinto. De las Licencias Temporales para Separarse del Ejercicio del Cargo
 
 ###### Artículo 110.
 
@@ -1345,7 +1433,7 @@ Aprobada la licencia, el Presidente de la Mesa Directiva llamará al suplente re
 
 Para reincorporarse al ejercicio de las actividades legislativas, el Diputado o Diputada con licencia lo informa por escrito al Presidente de la Mesa Directiva, quien toma la nota correspondiente, notifica al suplente para que cese en el ejercicio del cargo en la fecha que se indique y lo hace del conocimiento del Pleno, para los efectos legales conducentes.
 
-### Capítulo Séptimo. De la Asistencia de los Secretarios del Gabinete Gubernamental
+### Capítulo Sexto. Del Ceremonial en las Sesiones
 
 ###### Artículo 115.
 
@@ -1357,9 +1445,13 @@ Dicha comisión acompañará al Gobernador hasta el asiento que ocupará en el r
 
 Cuando el Gobernador del Estado entre y salga del salón de sesiones, se pondrán de pie todos los asistentes y los miembros del Congreso, a excepción de su Presidente, que solamente lo hará cuando éste haya llegado a la mitad del salón.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 116.
 
-El ciudadano Gobernador del Estado asistirá a las sesiones en los casos previstos por la Constitución y cuando sea invitado por el Congreso del Estado.
+Las personas Titulares de los Poderes Ejecutivo y Judicial, así como los titulares de las dependencias y organismos públicos del Estado, podrán asistir a las sesiones en los casos previstos por la Constitución y cuando sean invitados por el Congreso del Estado, cuando se traten asuntos relacionados a su respectivo ramo y de trascendencia estatal.
+
+El Presidente o la Presidenta del Congreso podrá concederles el uso de la palabra a las o los invitados a que se refiere el párrafo anterior sobre el tema de su competencia, una vez concluida la votación del asunto que motivó su presencia.
 
 ###### Artículo 117.
 
@@ -1379,7 +1471,7 @@ Cuando algún funcionario, representante diplomático o personaje de relevancia 
 
 En las sesiones del Congreso del Estado en las cuales se lleve a cabo el ceremonial descrito en el presente capítulo, los primeros asientos ubicados en el área del público, serán destinados a los Secretarios del Gabinete Estatal e invitados especiales que concurran a esta sesión.
 
-### Capítulo Primero. De su Integración y Funcionamiento
+### Capítulo Séptimo. De la Asistencia de los Secretarios del Gabinete Gubernamental
 
 ###### Artículo 121.
 
@@ -1419,7 +1511,7 @@ Una vez cumplido el programa para el análisis del informe de Gobierno, el Presi
 
 ## Título Tercero. Del Trabajo de las Comisiones Legislativas
 
-### Capítulo Segundo. Del Turno a las Comisiones
+### Capítulo Primero. De su Integración y Funcionamiento
 
 ###### Artículo 127.
 
@@ -1455,7 +1547,7 @@ Luego que ocurran vacantes en las Comisiones Legislativas, se reunirá la Junta 
 
 Las Comisiones no reglamentadas especialmente, se integrarán conforme a lo que señala esta Ley.
 
-### Capítulo Tercero. De los Dictámenes
+### Capítulo Segundo. Del Turno a las Comisiones
 
 ###### Artículo 134.
 
@@ -1605,7 +1697,7 @@ Los acuerdos serán tomados por mayoría de votos de los presentes, en caso de e
 
 Sólo con autorización del Presidente de la Mesa Directiva, las comisiones podrán reunirse en horas en que el Pleno sesione; sin embargo, se podrá ordenar la suspensión de la reunión si el Pleno requiriese la comparecencia de los diputados respectivos.
 
-### Capítulo Cuarto. De los Trámites de las Iniciativas y Propuestas
+### Capítulo Tercero. De los Dictámenes
 
 ###### Artículo 163.
 
@@ -1649,7 +1741,7 @@ Los dictámenes aprobados por el Pleno que se refieran a iniciativas de ley o de
 
 Las Iniciativas y proposiciones no dictaminadas al término de una Legislatura, se tendrán por desechadas, procediendo a su archivo como asuntos total y definitivamente concluidos.
 
-### Capítulo Quinto. De las Discusiones en General
+### Capítulo Cuarto. De los Trámites de las Iniciativas y Propuestas
 
 ###### Artículo 170.
 
@@ -1733,7 +1825,7 @@ Todo proyecto de ley o decreto, no devuelto por el Ejecutivo en los términos de
 
 La Secretaría de la Mesa Directiva, llevará un libro destinado al registro de los proyectos de ley en el que se asentará un extracto del proyecto presentado, por orden de fechas, anotándose quien los presenta y el nombre de la Comisión al que fue turnado.
 
-### Capítulo Sexto. De las Mociones
+### Capítulo Quinto. De las Discusiones en General
 
 ###### Artículo 182.
 
@@ -1949,7 +2041,7 @@ No podrá llamarse al orden al orador que critique o censure a funcionarios púb
 
 No podrá presentarse más de una proposición suspensiva en la discusión de un asunto.
 
-### Capítulo Séptimo. De los Asuntos Generales
+### Capítulo Sexto. De las Mociones
 
 ###### Artículo 202.
 
@@ -1989,7 +2081,7 @@ VI. Toda moción interpuesta estará debidamente fundada y motivada.
 
 Si durante el curso de una sesión alguno de los miembros de la Cámara reclamare el quórum y la falta de éste fuere verdaderamente notoria, bastará una simple declaración del Presidente del Congreso sobre el particular para levantar la sesión; en todo caso, y cuando dicha falta de quórum sea dudosa, deberá procederse a pasar lista, y comprobada aquélla, se levantará la sesión.
 
-### Capítulo Octavo. De la Revisión de los Proyectos de Ley
+### Capítulo Séptimo. De los Asuntos Generales
 
 ###### Artículo 205.
 
@@ -2001,7 +2093,7 @@ El Presidente de la Mesa Directiva, concederá el uso de la palabra a cada uno d
 
 Cada Diputado o Diputada podrá hacer uso de la palabra en asuntos generales por una sola vez, en la cual deberá abordar el o los temas que desee tratar, sin excederse del tiempo antes señalado.
 
-### Capítulo Noveno. De la Fórmula para la Expedición de las Leyes
+### Capítulo Octavo. De la Revisión de los Proyectos de Ley
 
 ###### Artículo 207.
 
@@ -2019,7 +2111,7 @@ En el caso del artículo anterior, solamente se discutirán y votarán en lo par
 
 Antes de remitirse una ley al Ejecutivo para que sea promulgada, deberá asentarse en el libro de leyes del Congreso.
 
-### Capítulo Décimo. De las Reformas y Adiciones a la Constitución Política del Estado Libre y Soberano de Chiapas
+### Capítulo Noveno. De la Fórmula para la Expedición de las Leyes
 
 ###### Artículo 211.
 
@@ -2047,13 +2139,13 @@ Lo dispuesto en el artículo anterior, tendrá aplicación en cada caso, según 
 
 Las leyes se expedirán sin fórmula alguna, llevarán al calce la fecha de su expedición y serán autorizadas con la firma del Presidente y uno de los Secretarios de la Legislatura, expedidas así las leyes, serán remitidas al Ejecutivo del Estado para los efectos del artículo 49 de la Constitución.
 
-### Capítulo Décimo Primero. De las Votaciones
+### Capítulo Décimo. De las Reformas y Adiciones a la Constitución Política del Estado Libre y Soberano de Chiapas
 
 ###### Artículo 214.
 
 El proceso de discusión y dictamen en comisiones, debate y votación en el Pleno de iniciativas y proyectos de reformas o adiciones a la Constitución, se realizará conforme a los procedimientos y plazos establecidos en el artículo 124, de la Constitución y en términos de la presente Ley.
 
-### Capítulo Décimo Segundo. De las Actas y el Diario de los Debates
+### Capítulo Décimo Primero. De las Votaciones
 
 ###### Artículo 215.
 
@@ -2157,7 +2249,7 @@ Mientras se verifica la votación, ningún miembro de la Cámara deberá salir d
 
 Cuando el Congreso del Estado, reciba para su aprobación, propuesta de nombramiento de algún servidor público realizado por el Gobernador del Estado, en ejercicio de la facultad constitucional, se dará lectura a la propuesta en la sesión que corresponda, así como al curriculum vitae de la persona nombrada, seguidamente el Presidente de la Mesa Directiva pondrá a discusión la propuesta, pudiendo hablar dos legisladores a favor y dos en contra, una vez agotada la discusión si la hubiere, someterá a votación nominal la propuesta.
 
-### Capítulo Décimo Tercero. De la Gaceta Parlamentaria
+### Capítulo Décimo Segundo. De las Actas y el Diario de los Debates
 
 ###### Artículo 232.
 
@@ -2181,7 +2273,7 @@ Para la debida conservación, archivo e historia del proceso legislativo estatal
 
 El Diario de los Debates contendrá la fecha y lugar en que se verifiquen las sesiones, el sumario, nombre de quien presida, acta circunstanciada de las sesiones y transcripciones de la grabación magnetofónicas de las discusiones, en el orden en que se desarrollen e inserción de los documentos a los que se les dé lectura; pero en ningún caso, se publicarán las discusiones, ni los documentos que se relacionen en las sesiones privadas que se verifiquen.
 
-### Capítulo Único. Generalidades
+### Capítulo Décimo Tercero. De la Gaceta Parlamentaria
 
 ###### Artículo 237.
 
@@ -2217,7 +2309,7 @@ Lo mismo se verificará cuando los medios de prudencia no sean suficientes para 
 
 ## Título Quinto. De la Etapa Prelegislativa
 
-### Capítulo Único. Del Parlamento Abierto
+### Capítulo Único. Generalidades
 
 ###### Artículo 243.
 
@@ -2253,7 +2345,7 @@ En la primera sesión de la mesa de trabajo, se expondrán y aprobarán por mayo
 
 ## Título Sexto
 
-### Capítulo Único. De la Consulta Popular
+### Capítulo Único. Del Parlamento Abierto
 
 ###### Artículo 248.
 
@@ -2266,6 +2358,8 @@ La modalidad de Audiencia Pública de Debate y Análisis Legislativo, es el meca
 La Mesa Directiva, con acuerdo de la Junta de Coordinación Política establecerán las iniciativas que sean objeto de Audiencia Pública de Debate y Análisis Legislativo, así mismo los mecanismos para su realización.
 
 ## Título Séptimo
+
+### Capítulo Único. De la Consulta Popular
 
 ###### Artículo 250.
 
@@ -2308,3 +2402,13 @@ P.O. 9 DE ABRIL DE 2025.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 298 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL DEL CONGRESO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+El Ejecutivo del Estado dispondrá que se publique, circule y el Honorable Congreso del Estado, le dé el debido cumplimiento al presente Decreto.
