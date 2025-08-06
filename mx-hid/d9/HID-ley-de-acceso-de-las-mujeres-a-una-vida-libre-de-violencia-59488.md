@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2025-07-10"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -310,6 +310,12 @@ XI Bis. Violencia Simbólica.- Es la violencia amortiguada, insensible e invisib
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XI. Ter. Violencia Vicaria: Es toda acción u omisión cometida por quien mantenga o haya mantenido una relación de pareja, parentesco por consanguineidad o afinidad, derivado de una relación de concubinato, noviazgo, matrimonio, por si o por interpósita persona, que provoque la separación de la madre con sus hijas e hijos o persona vinculada significativamente a la mujer, ocasionando un daño psicoemocional, físico, patrimonial o de cualquier otro tipo e incluso el suicidio a las madres y sus hijas e hijos así como desencadenar un feminicidio u homicidio de las hijas e hijos perpetrados por su progenitor, a través de la retención, sustracción, ocultamiento, maltrato, amenazas, puesta en peligro o promoviendo mecanismos jurídicos y no jurídicos que retrasen, obstaculicen, limiten e impidan la convivencia para manipular, controlar a la mujer o dañar el vínculo afectivo entre sus hijas e hijos.
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+XI Quater. Violencia estructural: Se refiere a la que, sin manifestarse de manera directa, se produce a través de estructuras de autoridad y sistemas de estratificación social que limitan el acceso equitativo a recursos y derechos.
+
+Esta violencia afecta a mujeres en situaciones de desventaja en función de factores como etnia, edad, jerarquía social, u otros aspectos en los cuales los recursos y oportunidades se distribuyen de forma desigual, perpetuando actitudes y comportamientos que justifican y reproducen estas desigualdades.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -981,7 +987,7 @@ XIII.- La Comisión de Derechos Humanos del Estado de Hidalgo;
 
 XIV.- La Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
 
 XV.- El Centro de Justicia para Mujeres del Estado de Hidalgo, y
 
@@ -1391,7 +1397,9 @@ Corresponde a la Secretaría de Educación Pública:
 
 I.- Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
 
-II.- Desarrollar actividades educativas, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+II.- Desarrollar actividades educativas que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad, integrando la comprensión adecuada al ejercicio del derecho a una paternidad y maternidad libre, responsable e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y organización familiar;
 
 III.- Procurar acciones y mecanismos que favorezcan a las mujeres en las etapas del proceso educativo;
 
@@ -1558,6 +1566,12 @@ VII Ter.- Celebrar convenios de cooperación, coordinación y concertación en l
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VII Quater.- Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección, de conformidad con los ordenamientos jurídicos aplicables;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+VII Quinquies.- Elaborar dictámenes psicológicos victimales, los cuales deberán ser aplicados por una persona que cuente con los conocimientos técnicos actualizados y experiencia comprobable en evaluaciones periciales psicológicas.
+
+Los instrumentos psicométricos utilizados deberán estar actualizados conforme a los estándares y normas oficiales aplicables para garantizar su validez y confiabilidad.
 
 VIII.- Procurar la seguridad de la víctima; y
 
@@ -2490,5 +2504,17 @@ P.O. 26 DE MAYO DE 2025.
 P.O. 10 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 271 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 12 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE RECONOCIMIENTO DEL HOSTIGAMIENTO COMO FORMA DE VIOLENCIA LABORAL Y DOCENTE”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 245 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE RESPONSABILIDAD FAMILIAR COMPARTIDA Y DE RECONOCIMIENTO DE LA VIOLENCIA ESTRUCTURAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 302 – LXVI POR EL QUE SE ADICIONA LA FRACCIÓN VII QUINQUIES AL ARTÍCULO 46 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
