@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2025-03-28"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -697,7 +697,9 @@ Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuic
 
 Todos los establecimientos que se dediquen a la venta de animales deberán contar con los permisos, y apegarse a lo siguiente:
 
-I.- Proveer de jaulas amplias y seguras a los animales, sin que las mismas pongan en riesgo la integridad del animal;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+I.- Proveer a los animales, al momento de su venta, de jaulas amplias y seguras que cuenten con un espacio mínimo adecuado a la especie, peso, talla y altura de cada ejemplar, con el fin de garantizar su protección, bienestar y evitar cualquier riesgo a su integridad.
 
 II.- Mantener la limpieza y ventilación adecuadas dentro del establecimiento;
 
@@ -753,15 +755,21 @@ La autoridad municipal podrá realizar el seguimiento de la adopción para verif
 
 V. Quienes lleven a cabo la reproducción, selección, crianza o la comercialización de animales de compañía, deberán acreditar que cuentan con la capacidad técnica y operativa suficiente.
 
-Además de las medidas anteriormente señaladas, se deberán prever las condiciones suficientes de espacio, seguridad, ventilación, iluminación, alimentación, así como las necesarias para la estancia de los animales en instalaciones de resguardo durante los períodos en los que no se encontrarán en exhibición para su comercialización.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
 
-Las personas o lugares dedicados a la reproducción, selección, crianza o venta de animales que no cuenten con las autorizaciones correspondientes, serán sujetos a las sanciones establecidas en esta ley y los animales serán resguardados hasta su adopción por la autoridad correspondiente con el apoyo de asociaciones protectoras de animales legalmente constituidas.
+Además de las medidas anteriormente señaladas, los establecimientos mercantiles deberán prever las condiciones suficientes de espacio, seguridad, ventilación, iluminación, alimentación, así como las demás necesarias para que la estancia de los animales en instalaciones de resguardo durante los períodos en los que no se encuentren en exhibición, se realice en situaciones óptimas de bienestar, atendiendo a las características propias de cada especie.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+Las personas o lugares dedicados a la reproducción, selección, crianza o venta de animales que no cuenten con las autorizaciones correspondientes, serán sujetos a las sanciones establecidas en esta ley y los animales serán resguardados hasta su adopción por la autoridad correspondiente con el apoyo de asociaciones protectoras de animales legalmente constituidas. Lo previsto en este artículo será aplicable aun en los casos en que la exhibición de animales se realice por medios remotos o a través de herramientas tecnológicas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 25 Quater.
 
-En la venta de animales se deberá privilegiar aquella que se pueda realizar a través de medios remotos o mediante la utilización de herramientas tecnológicas que eviten el contacto físico directo entre el animal para venta y el público interesado en su adquisición, siempre y cuando se cumpla con la normatividad Federal y local en materia de protección, cuidado y trato digno y respetuoso a los animales.
+En la venta y exhibición de animales se deberá privilegiar aquella que se pueda realizar a través de medios remotos o mediante la utilización de herramientas tecnológicas que eviten el contacto físico directo entre el animal para venta y el público interesado en su adquisición, siempre y cuando se cumpla con la normatividad federal y local en materia de protección, cuidado y trato digno y respetuoso a los animales.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 Para poder utilizar estos medios, deberán de contar con las autorizaciones a que se refiere el artículo anterior.
 
@@ -1636,5 +1644,11 @@ P.O. 14 DE JUNIO DE 2024.
 P.O. 28 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 203 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN A LOS ANIMALES CAPTURADOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 307 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO, EN MATERIA DE CONDICIONES PARA LA EXHIBICIÓN, RESGUARDO Y VENTA DE ANIMALES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
