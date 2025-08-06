@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2025-07-01"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -3401,6 +3401,12 @@ II.- Nombre Completo y Clave Única de Registro de Población de la persona deud
 
 III.- Especificación de contar con inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos o en su caso de No inscripción.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+###### Artículo 481.
+
+Las autoridades estatales y municipales, en el ámbito de sus competencias, podrán disponer lo necesario a fin de establecer como requisito la presentación del certificado de no inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos y en el Registro Nacional de Obligaciones Alimentarias.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -3642,5 +3648,11 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 1 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 260 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, EN MATERIA DE FORTALECIMIENTO A LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES RELACIONADOS CON PROCEDIMIENTOS JUDICIALES DE ADOPCIÓN Y PÉRDIDA DE LA PATRIA POTESTAD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 305 - LXVI POR EL QUE SE ADICIONA EL ARTÍCULO 481 A LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, EN MATERIA DEL CERTIFICADO DE NO INSCRIPCIÓN EN EL REGISTRO DE DEUDORAS Y DEUDORES ALIMENTARIOS MOROSOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
