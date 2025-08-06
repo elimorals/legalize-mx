@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2025-07-24"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -1461,11 +1461,19 @@ V.- Suspender el programa de tratamiento y, en su caso, abandonar el establecimi
 
 VI.- Los demás que les sean reconocidos en las leyes y disposiciones reglamentarias en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 141.
 
-Los establecimientos a que se refiere este capítulo requieren de licencia sanitaria y cumplirán los requisitos señalados en el Artículo 16 de esta Ley. Asimismo, deberán contar con un responsable quien deberá ser un profesional de las disciplinas para la salud; y en el caso de los grupos de ayuda mutua, éste podrá ser un adicto en recuperación, que tenga dos años como mínimo de abstinencia en el consumo de sustancias psicoactivas y en su proceso de rehabilitación; las instalaciones serán las adecuadas para una atención oportuna y éticamente responsable, evitando que constituyan un riesgo para los usuarios, conforme a lo que establezca el Reglamento correspondiente.
+Los establecimientos a que se refiere este capítulo requieren de licencia sanitaria y cumplirán los requisitos señalados en el Artículo 16 de esta Ley. Asimismo, deberán contar con un responsable quien deberá ser un profesional de las disciplinas para la salud; y en el caso de los grupos de ayuda mutua, éste podrá ser una persona en proceso de rehabilitación; las instalaciones serán las adecuadas para una atención oportuna y éticamente responsable, evitando que constituyan un riesgo para los usuarios, conforme a lo que establezca el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+Dichos establecimientos deberán contar con personal capacitado en materia de salud mental y serán responsables de acreditar que el mismo reciba formación continua en enfoques terapéuticos actualizados. La capacitación será proporcionada por la Secretaría, para lo cual podrá coordinarse con instituciones académicas y organismos especializados en el tema.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+La Autoridad Municipal, previa opinión de la Autoridad Sanitaria, determinará los sitios donde se instalen estos establecimientos.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1515,7 +1523,9 @@ PREVENCIÓN Y REHABILITACIÓN DEL ALCOHOLISMO, TABAQUISMO Y LA FÁRMACODEPENDENC
 
 Se crea el Consejo Estatal Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención, tratamiento, rehabilitación y combate de los problemas de salud pública causados por las adicciones que regula el presente Capítulo, así como proponer y evaluar los programas a que se refieren los artículos 142 bis 2 y 142 bis 3 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal y Estatal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud, deporte, educación, trabajo y capacitación para el trabajo.
 
-Las campañas de información, prevención y sensibilización que reciba la población deberán estar basadas en estudios científicos y sociales y alertar de manera adecuada sobre los efectos y daños físicos, psicológicos y sociales del consumo de bebidas alcohólicas, tabaco, estupefacientes y psicotrópicos.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+Las campañas de información, prevención y sensibilización que reciba la población deberán estar basadas en estudios científicos y sociales y alertar de manera adecuada sobre los efectos y daños físicos, psicológicos y sociales del consumo de bebidas alcohólicas, tabaco, productos derivados del mismo, cigarrillos electrónicos, estupefacientes, psicotrópicos y demás drogas sintéticas.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1683,6 +1693,16 @@ IV. Reconocer a las comunidades terapéuticas, para la rehabilitación y reinser
 
 V. Reconocer la importancia de los diversos grupos de ayuda mutua, que ofrecen servicios gratuitos en apoyo a los farmacodependientes en recuperación, en apego irrestricto a la normatividad y derechos humanos.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+###### Artículo 142 Bis 12.
+
+Se considera uso nocivo del tabaco, los productos derivados del mismo y de los cigarrillos electrónicos, al consumo de estos en los términos que para tal efecto defina la normatividad aplicable.
+
+La Secretaría de Salud y los municipios, en el ámbito de sus competencias, implementarán acciones sobre prevención, diagnóstico y tratamiento de los efectos nocivos del tabaco, productos derivados del mismo y cigarrillos electrónicos, con enfoque en grupos en situación de riesgo.
+
+Estas acciones deberán sustentarse en evidencia científica, así como garantizar el respeto a los derechos humanos, además de impulsar la coordinación interinstitucional, la vigilancia sanitaria y la investigación para la salud.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2017)</small>
 
 ### CAPITULO XXVI. PREVENCIÓN DE LA SALUD MENTAL Y LA ATENCIÓN A LAS PERSONAS CON ENFERMEDADES MENTALES
@@ -1719,7 +1739,11 @@ IV (SIC).- Desarrollo de actividades educativas y socioculturales estatales y mu
 
 V.- Elaboración de campañas estatales y municipales para dar a conocer los sistemas de atención para la salud mental, así como el conocimiento y prevención de las enfermedades que la afectan;
 
-V (SIC).- Las demás que directa o indirectamente contribuyan al fomento de la salud mental.
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+VII (SIC).- En coordinación con la Secretaría de Educación, implementar acciones de educación, concientización, prevención de riesgos y atención oportuna en materia de salud mental, dentro de los centros educativos;
+
+VIII.- Las demás que directa o indirectamente contribuyan al fomento de la salud mental.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -2856,3 +2880,21 @@ P.O. 24 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 284 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE SALUD MATERNO INFANTIL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "NÚM. 301 - LXVI POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 142 QUINQUIES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE IMPLEMENTACIÓN DE ACCIONES DE SALUD MENTAL EN LOS CENTROS EDUCATIVOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 303 – LXVI POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 141 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE ESTABLECIMIENTOS PARA REHABILITACIÓN DE PERSONAS CON ADICCIONES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 308 – LXVI POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 142 BIS 2 Y SE ADICIONA UN ARTÍCULO 142 BIS 12 A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACCIONES SOBRE PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LOS EFECTOS NOCIVOS DEL TABACO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
