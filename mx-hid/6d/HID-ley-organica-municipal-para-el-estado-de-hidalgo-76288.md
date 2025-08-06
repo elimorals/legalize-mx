@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2025-07-24"
+last_updated: "2025-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -3549,23 +3549,29 @@ II. Promover acciones en coordinación con otras instancias, relativas a la prev
 
 III. Favorecer el ejercicio pleno de todos los derechos de las mujeres y su participación en la vida política, cultural, económica y social del municipio.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2025)</small>
 
-La Instancia Municipal para el Desarrollo de la (sic) Mujeres estará a cargo de una mujer, quien deberá tener grado de estudios de nivel superior y contar con al menos un año de experiencia en temas de género, igualdad sustantiva, prevención de la violencia de género y defensa y promoción de los derechos humanos de las mujeres, y tener conocimientos inherentes al buen desempeño de su cargo.
+La Instancia Municipal para el Desarrollo de las Mujeres estará a cargo de una mujer, quien será nombrada por la persona titular de la Presidencia Municipal como resultado de una convocatoria pública y abierta, para lo cual deberá tener grado de estudios de nivel superior y contar con al menos un año de experiencia en temas de género, igualdad sustantiva, prevención de la violencia de género y defensa y promoción de los derechos humanos de las mujeres, y tener conocimientos inherentes al buen desempeño de su cargo.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2025)</small>
+
+La persona titular de la Presidencia Municipal será la responsable de emitir dicha convocatoria, para lo cual se podrá auxiliar de la Comisión de Igualdad y Género del Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ARTÍCULO 145 OCTAVUS.- La Instancia Municipal para el Desarrollo de las Mujeres tendrá las siguientes atribuciones:
 
-I. Fungir como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidente Municipal, dependencias de la administración pública municipal, organizaciones sociales y asociaciones civiles y de empresas, en materia de igualdad de género, implementación de la perspectiva de género y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+I. Fungir como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidencia Municipal, dependencias de la administración pública municipal, organizaciones sociales y asociaciones civiles y de empresas, en materia de igualdad de género, igualdad sustantiva entre mujeres y hombres, implementación de la perspectiva de género y erradicación de la violencia contra las mujeres;
 
-I BIS. Generar un sistema único de indicadores que permita evaluar el avance en la institucionalización de acciones, programas y políticas municipales, así como su impacto y resultado en materia de igualdad de género;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+I BIS. Generar un sistema único de indicadores que permita evaluar el avance en la institucionalización de acciones, programas y políticas municipales, así como su impacto y resultado en materia de igualdad sustantiva entre mujeres y hombres y perspectiva de género;
 
-I TER. Elaborar protocolos e implementar acciones acciones (sic) afirmativas para promover ambientes libres de violencia, acoso laboral y hostigamiento sexual en el Ayuntamiento;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+I TER. Elaborar protocolos para prevenir, atender y sancionar el acoso sexual, el acoso laboral, el hostigamiento sexual y el hostigamiento laboral en la administración pública municipal; así como implementar acciones afirmativas para promover ambientes libres de violencia.
 
 II. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, en la coordinación de esfuerzos participativos en favor de una política de igualdad entre mujeres y hombres;
 
@@ -3573,19 +3579,21 @@ II. Promover y concertar acciones, apoyos y colaboraciones con los sectores soci
 
 II BIS. Fungir como Unidades Locales de Atención a mujeres, niñas, niños y adolescentes en situación de violencia, aplicando los protocolos municipales que en la materia expida el Ayuntamiento y dirigiendo el proceso de atención integral derivada de hechos de violencia basada en el género, a través de los mecanismos de detección de casos, debiendo dar acompañamiento a las víctimas en cualquier procedimiento para garantizar su acceso a la justicia;
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 6 DE AGOSTO DE 2025)</small>
 
-II BIS (SIC). Realizar acciones de difusión que promuevan los derechos de las mujeres para que sean plenamente conocidos y ejercidos, incluidas publicaciones y contenidos editoriales que permitan consolidar el proceso de institucionalización e implementación de la perspectiva de género;
+II TER. Realizar acciones de difusión que promuevan los derechos de las mujeres para que sean plenamente conocidos y ejercidos, incluidas publicaciones y contenidos editoriales que permitan consolidar el proceso de institucionalización e implementación de la perspectiva de género;
 
 III. Promover la celebración de convenios o cualquier acto jurídico con instituciones públicas o privadas, para llevar a cabo programas o proyectos que propicien el desarrollo integral de las mujeres, así como para lograr el cumplimiento de su objeto;
 
-IV. Promover la incorporación de la perspectiva de género en la planeación, organización, ejecución y control de programas y proyectos, con el fin de eliminar las brechas de desigualdad subsistentes;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+IV. Promover la incorporación de la perspectiva de género en la planeación, programación, presupuestación, ejecución, control, seguimiento, evaluación y rendición de cuentas de programas y proyectos, con el fin de eliminar las brechas de desigualdad subsistentes;
 
-IV BIS. Implementar mecanismos de detección de violencia de género dentro de la administración pública municipal;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
 
-V. Promover e impulsar condiciones que hagan posible la defensa y el ejercicio de los derechos de las mujeres; la igualdad de oportunidades; y su participación activa en todos los órdenes de la vida;
+V. Implementar mecanismos de prevención, detección y atención de violencia de género dentro de la administración pública municipal;
+
+V (SIC). Promover e impulsar condiciones que hagan posible la defensa y el ejercicio de los derechos de las mujeres; la igualdad de oportunidades; y su participación activa en todos los órdenes de la vida;
 
 > <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
 
@@ -3603,11 +3611,23 @@ V QUATER. Coadyuvar con las áreas correspondientes del Ayuntamiento para la imp
 
 VI. Instrumentar, en concordancia con la política nacional y estatal, la política pública relativa a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
 
-VI BIS. Coordinarse con la Comisión de Igualdad y de Género del Ayuntamiento, a efecto de diseñar e implementar un programa municipal de erradicación de la violencia hacia la mujer; y
+VI BIS. Coordinarse con la Comisión de Igualdad y de Género del Ayuntamiento, a efecto de diseñar e implementar un programa municipal de erradicación de la violencia hacia la mujer;
 
-VII. Las demás que le otorguen las Leyes, su Reglamento y demás ordenamientos legales.
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+VII. Informar anualmente a la persona titular de la Presidencia Municipal y al Ayuntamiento sobre las acciones y medidas ejecutadas durante el año; así como los proyectos implementados, sus avances y su impacto en la administración municipal;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+VIII. Promover ante el Ayuntamiento las actualizaciones y adecuaciones a la reglamentación municipal, en materia de igualdad sustantiva entre hombres y mujeres, perspectiva de género y el acceso de las mujeres a una vida libre de violencia;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+IX. Diseñar e implementar campañas de sensibilización en materia de igualdad sustantiva entre mujeres y hombres, prevención y atención de la violencia contra las mujeres y cultura para la paz, y
+
+X. Las demás que le otorguen las Leyes, su Reglamento y demás ordenamientos legales.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -3625,13 +3645,17 @@ ARTÍCULO 145 DÉCIMUS.- En cada municipio, deberá existir un Sistema Municipal
 
 I. La Protección Integral de los Derechos de las Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
 
-II. Contar con un programa de atención y con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias estatales y federales competentes, a quienes corresponderá coordinar a los servidores públicos municipales, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos, a efecto de que se dé vista a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo, de forma inmediata y contará con las atribuciones previstas en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo, y
+II. Contar con un programa de atención y con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias estatales y federales competentes, a quienes corresponderá coordinar a los servidores públicos municipales, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos, a efecto de que se dé vista a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo, de forma inmediata y contará con las atribuciones previstas en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo;
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2025)</small>
 
-III. Promover programas de capacitación y certificación dirigidos a personas servidoras públicas municipales en materia de violación de derechos humanos de Niñas, Niños y Adolescentes.
+III. Promover programas de capacitación y certificación dirigidos a personas servidoras públicas municipales en materia de violación de derechos humanos de Niñas, Niños y Adolescentes, y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+
+IV. Generar sistemas de indicadores que permitan evaluar el avance en la institucionalización de acciones, programas y políticas municipales, así como su impacto y resultado del cumplimiento de los derechos de niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
 
@@ -5234,3 +5258,19 @@ P.O. 24 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 289 – LXVI POR EL QUE SE REFORMA EL INCISO m) DE LA FRACCIÓN I DEL ARTÍCULO 71 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE ADAPTACIÓN Y MITIGACIÓN DE LOS EFECTOS DEL CAMBIO CLIMÁTICO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 298 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE SELECCIÓN DE LAS PERSONAS TITULARES DE LAS INSTANCIAS MUNICIPALES PARA EL DESARROLLO DE LAS MUJERES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El proceso de selección por convocatoria pública y abierta será aplicable para los nombramientos de las personas titulares de las Instancias Municipales para el Desarrollo de las Mujeres que se realicen a partir de la vigencia de este Decreto, por lo que continuarán subsistentes las designaciones de dichos encargos que se hayan efectuado previo a su entrada en vigor.
+
+TERCERO. Los municipios contarán con 180 días naturales contados a partir de la entrada en vigor de este Decreto para adecuar su reglamentación interna con el propósito de regular el proceso de selección por convocatoria pública de las personas titulares de las Instancias Municipales para el Desarrollo de las Mujeres.
+
+P.O. 6 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 299 - LXVI POR EL QUE SE REFORMA Y SE ADICIONA EL ARTÍCULO 145 DÉCIMUS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE SISTEMA ÚNICO DE INDICADORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
