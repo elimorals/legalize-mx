@@ -4,7 +4,7 @@ identifier: "HID-ley-del-instituto-para-el-desarrollo-y-fortalecimiento-84142"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2021-12-27"
+last_updated: "2025-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -173,9 +173,15 @@ XVI.- Con respeto a la autonomía Municipal, fomentar la participación de los r
 
 XVII.- Impartir cursos de capacitación, actualización, talleres y asesorías a los integrantes de Ayuntamientos y demás servidores públicos de la Administración Pública Municipal en las materias de Gobierno Municipal;
 
-XVIII.- Proporcionar servicios de consultoría, asesoría, capacitación, adiestramiento, gestión y similares de acuerdo al Convenio que se celebre para tal efecto; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2025)</small>
 
-XIX.- Las demás facultades que señalen otras disposiciones legales aplicables.
+XVIII.- Proporcionar servicios de consultoría, asesoría, capacitación, adiestramiento, gestión y similares de acuerdo al Convenio que se celebre para tal efecto;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2025)</small>
+
+XIX.- Promover e impulsar, en coordinación con instituciones especializadas, la implementación de tecnologías de la información y comunicación en los gobiernos municipales, como herramientas que contribuyan a modernizar sus procesos administrativos, fortalecer la transparencia y facilitar la interacción con la ciudadanía, y
+
+XX.- Las demás facultades que señalen otras disposiciones legales aplicables.
 
 ## TÍTULO TERCERO
 
@@ -612,5 +618,11 @@ LIC. JOSÉ FRANCISCO OLVERA RUIZ
 P.O. 27 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 8 QUE REFORMA EL ARTÍCULO 5 DE LA LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 319 - LXVI POR EL QUE SE REFORMA LA FRACCIÓN XVIII Y SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 6 DE LA LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO, EN MATERIA DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN EN LOS GOBIERNOS MUNICIPALES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
