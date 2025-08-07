@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2025-04-11"
+last_updated: "2025-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -51,11 +51,11 @@ QUE CONTIENE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y regulan en el Estado de Hidalgo, la participación de las autoridades Estatales y Municipales en el ámbito de su competencia, en la realización de acciones inherentes a la explotación, uso, y prestación de los servicios públicos de agua con respeto al medioambiente y al desarrollo sustentable, así como la gestión de manera sostenible de los recursos hídricos.
+Las disposiciones de esta Ley son de orden público e interés social y regulan en el Estado de Hidalgo, la participación de las autoridades Estatales y Municipales en el ámbito de su competencia, en la realización de acciones inherentes al derecho humano de toda persona al acceso, disposición y saneamiento de agua, así como a la explotación, uso, y prestación de los servicios públicos de agua con respeto al medioambiente y al desarrollo sustentable, y a la gestión de manera sostenible de los recursos hídricos.
 
 ###### Artículo 2.
 
@@ -192,6 +192,10 @@ Las autoridades Estatales, Municipales y Organismos Operadores de Agua Potable p
 ###### Artículo 5.
 
 Los servicios públicos serán prestados en condiciones que aseguren su desarrollo sustentable, continuidad, regularidad, calidad y cobertura, de manera que se logre la satisfacción de las necesidades de los usuarios y la protección del medio ambiente.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2025)</small>
+
+Se declara de utilidad pública el mantenimiento, rehabilitación, construcción, operación y ampliación de las obras de abastecimiento de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales.
 
 ###### Artículo 6.
 
@@ -2690,3 +2694,9 @@ P.O. 11 DE ABRIL DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Para efecto de la emisión de las convocatorias, los organismos operadores municipales de la entidad contarán con un término de noventa días naturales contados a partir de la publicación del presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 315 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 1 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 5 DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO, EN MATERIA DE REFORZAR EL DERECHO HUMANO AL AGUA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
