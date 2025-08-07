@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2025-08-06"
+last_updated: "2025-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -968,6 +968,10 @@ s QUATER) Organizar el Cabildo Infantil y Juvenil, para lo cual el Ayuntamiento 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
 
 s QUINQUIES) Conforme a la suficiencia presupuestal, establecer un presupuesto con perspectiva ambiental que tenga por objeto garantizar la prestación oportuna, permanente, eficiente, accesible, asequible y sin discriminación alguna a los servicios de agua potable y su saneamiento, manejo y traslado de residuos sólidos, conservación de áreas verdes y áreas naturales protegidas;
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2025)</small>
+
+s SEXIES) Implementar campañas y material de difusión que tengan por objeto la prevención, cuidado y difusión de la de la (sic) cultura del agua.
 
 t).- Autorizar al Presidente Municipal, la celebración de contratos con particulares e instituciones oficiales, sobre asuntos de interés público, en los términos de Ley. Al efecto, los Ayuntamientos están facultados para obligarse crediticiamente a través del Presidente Municipal; en este caso, se deberán observar los criterios de aprobación establecidos en esta Ley, así como en las disposiciones de la materia.
 
@@ -2699,7 +2703,9 @@ VI.- Contar con conocimientos y experiencia relacionados con la materia que le p
 
 Los Municipios organizarán y reglamentarán la administración, funcionamiento, conservación o explotación de los servicios públicos. Se consideran, enunciativa y no limitativamente como tales, los siguientes:
 
-I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2025)</small>
+
+I.- Agua potable y su saneamiento, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
 
 II.- Alumbrado Público;
 
@@ -5272,5 +5278,11 @@ TERCERO. Los municipios contarán con 180 días naturales contados a partir de l
 P.O. 6 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 299 - LXVI POR EL QUE SE REFORMA Y SE ADICIONA EL ARTÍCULO 145 DÉCIMUS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE SISTEMA ÚNICO DE INDICADORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 317 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PREVENCIÓN, CUIDADO Y DIFUSIÓN DE LA CULTURA DEL AGUA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
