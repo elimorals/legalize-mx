@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2025-05-26"
+last_updated: "2025-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -605,13 +605,21 @@ VI.- Garantizar que en los proyectos de vivienda multifamiliar de dos o más pla
 
 Corresponde a la Administración Pública en su conjunto, desarrollar una política de promoción e implementación de los derechos, que en materia de accesibilidad y eliminación de barreras arquitectónicas y físicas, le asisten a las personas con discapacidad. Para ello, se promoverá el acceso a las nuevas tecnologías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 55.
 
-La Administración Pública garantizará que las nuevas construcciones, ampliaciones y remodelaciones de edificios en los que exista concurrencia de público, así como, las vías públicas y de acceso a medios de transporte público, parques, plazas y áreas de uso común, cuenten con los criterios necesarios de accesibilidad para las personas con discapacidad.
+Las Administraciones Públicas Estatal y Municipal garantizarán que los edificios de concurrencia pública, así como, las vías públicas y los accesos a medios de transporte público, parques, plazas y áreas de uso común, cuenten con condiciones de accesibilidad universal, conforme a las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2025)</small>
+
+Las autoridades competentes vigilarán que los proyectos de infraestructura cuenten con los dictámenes técnicos de accesibilidad suficientes.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 56.
 
-A fin de garantizar el pleno ejercicio de los derechos de las personas con discapacidad, las Administraciones Estatal y Municipal, velarán porque las áreas comunes de zonas residenciales, los diseños de centros e instituciones educativas, deportivas, culturales, de atención a la salud, sitios de recreación, zonas turísticas, entre otras, tengan áreas que permitan el desplazamiento con accesibilidad a los diferentes ambientes y servicios.
+A fin de garantizar el pleno ejercicio de los derechos de las personas con discapacidad, las Administraciones Estatal y Municipal, velarán porque las áreas comunes de zonas residenciales, los diseños de centros e instituciones educativas, deportivas, culturales, de atención a la salud, sitios de recreación, zonas turísticas, entre otras, implementen áreas con accesibilidad garantizada, conforme a los principios del diseño universal.
 
 ###### Artículo 57.
 
@@ -631,7 +639,9 @@ Asimismo, deberán diseñar mecanismos efectivos, apoyados en el uso de tecnolog
 
 Para efecto de garantizar el derecho de accesibilidad de las personas con discapacidad, los Municipios y el Estado deberán:
 
-I.- Adecuar los espacios públicos y edificios abiertos al público en lo relacionado con la eliminación de barreras físicas;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2025)</small>
+
+I.- Adecuar gradualmente los espacios públicos y edificios abiertos al público eliminando barreras físicas y sensoriales;
 
 II.- Las vías de circulación peatonal deberán ser continuas y a nivel, o bien, contar con los elementos necesarios que superen los cambios de nivel en los cruces de calles, etcétera;
 
@@ -1318,5 +1328,11 @@ P.O. 18 DE JUNIO DE 2024.
 P.O. 26 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 244 – LXVI POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 58 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO, EN MATERIA DE USO DE TECNOLÓGICAS DE LA INFORMACIÓN EN BENEFICIO DE LA POBLACIÓN CON DISCAPACIDAD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 314 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO, EN MATERIA (SIC) ESPACIOS ACCESIBLES PARA PERSONAS CON DISCAPACIDAD”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
