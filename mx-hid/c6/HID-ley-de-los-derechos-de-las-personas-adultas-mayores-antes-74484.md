@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2025-07-10"
+last_updated: "2025-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -359,9 +359,9 @@ II.- Fomentar la convivencia familiar cotidiana, donde las personas adultas mayo
 
 III.- Evitar que sus integrantes cometan cualquier acto de discriminación, abuso, explotación, abandono, maltrato y despojo; así como actos jurídicos que pongan en riesgo la salud, desamparo y pérdida de sus derechos;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2025)</small>
 
-IV.- Vigilar que los trabajos y las actividades que realicen las personas adultas mayores no impliquen un esfuerzo superior a las condiciones de salud física y mental;
+IV.- Evitar que las personas adultas mayores realicen trabajos forzados o cualquier actividad que atente contra su dignidad o que vaya en perjuicio de su salud física y mental;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -1250,5 +1250,11 @@ P.O. 26 DE MAYO DE 2025.
 P.O. 10 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 270 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN Y ALFABETIZACIÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 320 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 11 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE ERRADICACIÓN DE TRABAJOS FORZADOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
