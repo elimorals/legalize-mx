@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2025-08-06"
+last_updated: "2025-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -203,9 +203,17 @@ III.- Reconocimiento de la diversidad cultural;
 
 IV.- Reconocimiento de la identidad y dignidad de las personas;
 
-V.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2025)</small>
 
-VI.- Igualdad de género.
+V.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2025)</small>
+
+VI.- Igualdad de género, y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2025)</small>
+
+VII. - El interés superior de niñas, niños y adolescentes, garantizando su acceso a la vida cultural.
 
 ### CAPÍTULO II. DE LOS DERECHOS CULTURALES
 
@@ -1298,5 +1306,11 @@ P.O. 28 DE ENERO DE 2025.
 P.O. 6 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 261 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE ARTESANÍAS LOCALES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 311 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI; Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 5 DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DE ACCESO EFECTIVO A LOS DERECHOS CULTURALES DE LA NIÑEZ Y LA ADOLESCENCIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
