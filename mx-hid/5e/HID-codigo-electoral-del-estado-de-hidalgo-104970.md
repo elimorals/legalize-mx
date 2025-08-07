@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2025-07-24"
+last_updated: "2025-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -235,7 +235,9 @@ b. Constituir partidos políticos o agrupaciones políticas y afiliarse libre e 
 
 c. Votar en la casilla que corresponda a su domicilio, salvo las excepciones que establece la ley;
 
-d. Ser votado para cargos de elección popular;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2025)</small>
+
+d. Ser votado para cargos de elección popular, conforme al principio de paridad de género;
 
 e. Constituirse en observadores electorales;
 
@@ -7330,3 +7332,9 @@ P.O. 24 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 281 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 10 BIS DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, EN MATERIA DE DEUDORES ALIMENTARIOS MOROSOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 313 - LXVI POR EL QUE SE REFORMA EL INCISO D DE LA FRACCIÓN I DEL ARTÍCULO 6 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, EN MATERIA DEL PRINCIPIO DE PARIDAD DE GÉNERO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
