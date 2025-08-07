@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2025-07-24"
+last_updated: "2025-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -2445,6 +2445,10 @@ XI. Emitir un informe anual sobre los avances del Programa Estatal y remitirlo a
 
 XII. Participar en la formulación, ejecución e instrumentación de programas, estrategias y acciones en materia de protección y ejercicio de los derechos de niñas, niños y adolescentes con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes;
 
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2025)</small>
+
+XII Bis. Proponer, promover y participar en la formulación de acciones y estrategias especializadas dirigidas a niñas, niños y adolescentes que viven en algún contexto de vulnerabilidad;
+
 XIII. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran;
 
 XIV. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes;
@@ -3064,3 +3068,9 @@ P.O. 24 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 285 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN, CUIDADO Y DESARROLLO INTEGRAL DE LAS INFANCIAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312 - LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN XII BIS AL ARTÍCULO 124 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACCIONES ESPECIALIZADAS PARA INFANCIAS Y ADOLESCENCIAS EN CONTEXTO DE VULNERABILIDAD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
