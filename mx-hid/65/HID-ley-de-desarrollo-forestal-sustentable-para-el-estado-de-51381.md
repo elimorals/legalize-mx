@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2024-08-20"
+last_updated: "2025-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -83,7 +83,13 @@ II.- Impulsar la silvicultura y el aprovechamiento sustentable de los recursos f
 
 II Bis.- Promover, en la política forestal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades para las mujeres, jóvenes y grupos vulnerables; y
 
-III.- Promover el desarrollo de los bienes y servicios ambientales de los ecosistemas forestales así como proteger, mantener y aumentar su biodiversidad;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2025)</small>
+
+III.- Promover el desarrollo de los bienes y servicios ambientales que proveen los ecosistemas forestales, así como proteger y mantener el equilibrio ecológico de la biodiversidad;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2025)</small>
+
+III Bis.- Fomentar el conocimiento y la difusión sobre las funciones ecológicas y la importancia de los ecosistemas forestales;
 
 IV.- Organizar, capacitar, operar, integrar y profesionalizar las instituciones públicas del Estado y Municipios, para el desarrollo forestal sustentable; y
 
@@ -2270,3 +2276,9 @@ P.O. 20 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1019 POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 100 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 316 - LXVI POR EL QUE SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN III BIS DEL ARTÍCULO 2 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE ECOSISTEMAS FORESTALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
