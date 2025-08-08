@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2025-04-15"
+last_updated: "2025-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -851,7 +851,9 @@ XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que 
 
 XIX. Inculcar en las niñas, niños y adolescentes el respeto al medio ambiente, fomentando en ellos la adopción de estilos de vida sustentables y concientizándolos sobre las causas - efectos del cambio climático; así como el respeto, cuidado y procuración del bienestar de los animales;
 
-XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+XX. Establecer mecanismos normativos, institucionales y pedagógicos que aseguren entornos digitales seguros, libres de violencia, discriminación y riesgos cibernéticos, mediante la coordinación interinstitucional, la participación de madres, padres, personas tutoras y docentes, y la incorporación de contenidos en los planes y programas educativos, con perspectiva de género, niñez y derechos humanos;
 
 XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de las niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal.
 
@@ -2314,3 +2316,13 @@ P.O. 15 DE ABRIL DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 8 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 104 POR EL QUE “SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Educación de la Administración Pública del Estado de Campeche, deberá coordinarse con la Secretaría Ejecutiva del Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes (SIPINNA), así como con instituciones especializadas en derechos digitales, para la elaboración o actualización de lineamientos y contenidos educativos orientados a la creación de entornos digitales seguros, con enfoque de género, derechos humanos y participación infantil, en un plazo no mayor a ciento ochenta días naturales.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al presente decreto.
