@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-80279"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-04"
-last_updated: "2023-05-19"
+last_updated: "2025-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 4 de marzo de 2011.
 
@@ -64,6 +64,10 @@ Esta Ley tiene por objeto:
 I. Regular y establecer las bases generales de competencia y coordinación de las facultades concurrentes establecidas en la Ley General de Turismo, dictadas por el Ejecutivo Federal, el Estado y los Municipios del Estado, así como la participación de los sectores social y privado, para el ordenamiento del sector turístico de Campeche.
 
 II. Establecer las bases para los mecanismos e instrumentos de la planeación, promoción, fomento, desarrollo y profesionalización de la actividad turística.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+III. Minimizar las externalidades negativas que se originan a partir de la actividad turística.
 
 ###### Artículo 4.
 
@@ -517,13 +521,17 @@ III. Diseñar y aplicar cursos de capacitación turística a servidores público
 
 IV. Participar coordinadamente con dependencias y entidades públicas, así como con los sectores social y privado en actividades de capacitación turística.
 
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+IV Bis. Promover, en coordinación con las instancias competentes, programas de capacitación turística que incluyan acciones para fomentar una cultura de protección de las niñas, niños y adolescentes frente a la explotación sexual y/o laboral en la actividad turística.
+
 V. Diseñar y aplicar programas de Educación Ambiental para el prestador de servicios turísticos y los Turistas, con el fin de desarrollar el Turismo de naturaleza con profesionalismo.
 
 VI. Opinar sobre las solicitudes de reconocimiento de validez de estudios respecto de escuelas e institutos que promuevan los particulares.
 
 VII. Participar en la elaboración de programas de estudio para la capacitación de profesionales y técnicos en el sector turístico.
 
-VII. Gestionar becas.
+VIII. Gestionar becas.
 
 IX. Participar en la elaboración de programas de profesionalización turística junto con organismos públicos, privados y sociales, nacionales e internacionales, en los cuales se deberá considerar la profesionalización respecto a la atención de las personas con discapacidad.
 
@@ -823,6 +831,18 @@ VIII Proporcionar a la Secretaría los datos estadísticos e informes que les re
 
 IX. Acatar las disposiciones legales existentes en materia de Turismo, salud, prevención de delitos, protección al consumidor y protección al medio ambiente.
 
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+IX Bis. Implementar los protocolos y acciones preventivas definidos por las autoridades competentes que, priorizando el interés superior de la niñez, permitan detectar la posible comisión de delitos contra la integridad de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+IX Ter. Llevar a cabo medidas de seguridad para salvaguardar la integridad y la vida de niñas, niños y adolescentes, previo a la prestación del servicio ya sea de manera presencial o a través de medios electrónicos. Para ello deberán requerir a los turistas que sean acompañados por niñas, niños y adolescentes, acreditar el parentesco, la patria potestad, tutela o guarda y custodia que tengan con los menores de edad, o en su caso, acreditar su mayoría de edad a través de documentos oficiales, de lo contrario, se les deberá negar el servicio y se dará aviso a las autoridades investigadoras correspondientes sobre la posible comisión de algún delito;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+IX Quater. Participar en programas que fomenten la cultura de protección de niñas, niños y adolescentes frente a la explotación sexual y/o laboral en la actividad turística, que promueva o lleve a cabo la Secretaría.
+
 X. Capacitar y profesionalizar a sus trabajadores y empleados con base en los programas autorizados.
 
 XI. Emplear en todo caso y de manera destacada el idioma español en los anuncios, propaganda y leyendas en los que ofrezcan los servicios, sin perjuicio del uso de otros idiomas.
@@ -984,3 +1004,11 @@ P.O. 19 DE MAYO DE 2023.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 108 POR EL QUE "SE ADICIONAN LA FRACCIÓN III AL ARTÍCULO 3; LA FRACCIÓN IV BIS AL ARTÍCULO 34 Y LAS FRACCIONES IX BIS, IX TER Y IX QUATER AL ARTÍCULO 69 DE LA LEY DE TURISMO DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al contenido del presente decreto.
