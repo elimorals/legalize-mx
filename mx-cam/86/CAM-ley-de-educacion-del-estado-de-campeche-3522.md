@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2025-07-30"
+last_updated: "2025-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -233,9 +233,9 @@ XXXI.- Impulsar programas y campañas de difusión tendientes a inhibir en los a
 
 XXXII.- Impulsar a través de campañas de difusión la cultura de la paz en las instituciones educativas del Estado.
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2025)</small>
 
-XXXIII.- Promover el emprendimiento, el fomento de la cultura del ahorro y la educación financiera.
+XXXIII.- Promover la educación financiera con un enfoque de derechos humanos y en atención al principio del interés superior de la niñez, orientada a desarrollar desde edades tempranas conocimientos, habilidades, valores y actitudes que propicien una toma de decisiones económicas informada, el emprendimiento, el fomento de la cultura del ahorro, la planificación financiera responsable, así como el uso ético y sostenible de los recursos personales, familiares y de la comunidad, contribuyendo al bienestar individual y colectivo.
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2023)</small>
 
@@ -1738,3 +1738,13 @@ QUINTO.- Las instituciones educativas públicas y privadas de educación básica
 SEXTO.- El Ejecutivo del Estado, por conducto de la Secretaría de Educación, podrá celebrar convenios de colaboración con instituciones públicas, organismos autónomos y organizaciones de la sociedad civil especializadas, para coadyuvar en la capacitación del personal educativo y en la difusión de los derechos de niñas, niños y adolescentes.
 
 SÉPTIMO.- Las obligaciones establecidas en el presente decreto deberán cumplirse de manera progresiva, atendiendo a los principios de interés superior de la niñez, máximo uso de los recursos disponibles, no regresividad, equidad territorial y no discriminación.
+
+P.O. 8 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 105 POR EL QUE “SE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Educación de la Administración Pública del Estado deberá considerar todas las medidas programáticas, para la continuidad en la aplicación de la educación financiera.
+
+TERCERO.- La Secretaría de Educación de la Administración Pública del Estado de Campeche, podrá suscribir convenios de colaboración con entidades públicas o privadas, con la finalidad de que se le proporcione a la población escolar del Estado, cursos, talleres o programas de educación financiera.
