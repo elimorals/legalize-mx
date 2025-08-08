@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-social-del-estado-de-campeche-56443"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2023-11-28"
+last_updated: "2025-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 10 de julio de 2007.
 
@@ -97,7 +97,9 @@ VII. Sistema Estatal: Sistema Estatal de Desarrollo Social;
 
 VIII. Programa Estatal: Programa Estatal de Desarrollo Social;
 
-IX. Secretaría: Secretaría de Desarrollo Social del Gobierno del Estado de Campeche;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+IX. Secretaría: a la Secretaría de Bienestar del Poder Ejecutivo del Estado;
 
 X. COPLADECAM: Comité de Planeación (sic) Comité de Planeación para el Desarrollo del Estado de Campeche;
 
@@ -139,7 +141,9 @@ Son sujetos de esta norma la sociedad en general, así como las dependencias del
 
 Corresponden al Ejecutivo del Estado, en el ámbito de su competencia, las atribuciones siguientes:
 
-I. Aprobar el Programa Estatal de Desarrollo Social, a propuesta de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+I. Aprobar el Programa Estatal de Desarrollo Social, a propuesta de la Secretaría;
 
 II. Establecer la Política Estatal de Desarrollo Social que deberá aplicarse en el Estado, en concordancia con la política nacional en la materia;
 
@@ -197,11 +201,19 @@ XVIII. Coordinar y supervisar la integración de la sociedad organizada benefici
 
 XIX. Promover la capacitación de la sociedad organizada beneficiaria de las obras, acciones y apoyos de los programas sociales en su ejecución, supervisión, control y vigilancia y mantenimiento;
 
-XX. Integrar y mantener actualizado el Padrón Único de Beneficiarios de programas sociales estatales; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+XX. Integrar y mantener actualizado el Padrón Único de Beneficiarios de programas sociales estatales;
 
 XXI. Revisar el marco normativo del desarrollo social y, en su caso, proponer y promover modificaciones ante las instancias competentes;
 
-XXII. Las demás que le señala la presente ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2025)</small>
+
+XXII. Coordinar y supervisar la donación de alimentos en condiciones aptas para el consumo humano, provenientes del sector hotelero y restaurantero, con el propósito de destinarlos a personas en situación de pobreza alimentaria; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE AGOSTO DE 2025)</small>
+
+XXIII. Las demás que le señala la presente ley y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -403,7 +415,9 @@ II. Proponer criterios para la planeación de las políticas y programas de desa
 
 III. Recomendar medidas orientadas a hacer compatibles las decisiones vinculadas con la Política de Desarrollo Social y la Política Económica del Estado;
 
-IV. Determinar las zonas de atención prioritaria y las zonas de atención inmediata con base a la propuesta que formule la Secretaría de Desarrollo Social, y someterlas a consideración del Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+IV. Determinar las zonas de atención prioritaria y las zonas de atención inmediata con base en la propuesta que formule la Secretaría, y someterlas a consideración del Ejecutivo Estatal;
 
 V. Promover mecanismos que garanticen la integralidad y correspondencia entre las políticas estatal y nacional de desarrollo social;
 
@@ -825,9 +839,31 @@ IV. La inscripción de la sociedad organizada en el registro social a cargo de l
 
 V. El otorgamiento de constancias, apoyos y estímulos públicos, asesoría y capacitación para implementar programas y proyectos para el desarrollo social.
 
-### CAPÍTULO II. DEL REGISTRO SOCIAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2025)</small>
 
-### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
+### CAPITULO I BIS. DE LA DONACIÓN Y APROVECHAMIENTO DE ALIMENTOS
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2025)</small>
+
+###### ARTÍCULO 69 Bis.
+
+La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán coordinarse para diseñar e implementar programas y campañas orientadas a fomentar la donación de alimentos en condiciones aptas para el consumo humano a bancos de alimentos u organizaciones análogas de la sociedad civil, con el fin de atender las necesidades de las personas en situación de pobreza alimentaria.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2025)</small>
+
+###### ARTÍCULO 69 Ter.
+
+La Secretaría será responsable de supervisar el adecuado aprovechamiento de los alimentos donados con destino a la población en situación de vulnerabilidad. Las asociaciones civiles que cuenten con registro vigente como donatarias autorizadas podrán establecer centros de acopio, así como llevar a cabo actividades de almacenamiento y distribución de alimentos, procurando en todo momento el control sanitario, el manejo adecuado de productos perecederos y la conservación óptima de los mismos conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2025)</small>
+
+###### ARTÍCULO 69 Quater.
+
+La Secretaría deberá incorporar en el Registro Social Estatal a la Sociedad Civil, con el fin de coordinar los esfuerzos para obtener la donación de alimentos en buen estado, que no hayan sido utilizados, para que se destinen a las personas en situación de pobreza alimentaria.
+
+Para efectos del presente artículo, la Secretaría requerirá a los donantes la acreditación de la inocuidad de los alimentos al momento de su inscripción en el Registro correspondiente, así como en cada proceso de donación, en términos de las disposiciones aplicables en la materia.
+
+### CAPÍTULO II. DEL REGISTRO SOCIAL
 
 ###### ARTÍCULO 70.
 
@@ -891,7 +927,7 @@ VII. Llevar a cabo las operaciones correspondientes conforme a las disposiciones
 
 VIII. Las demás inherentes al cumplimiento de su objeto social en los términos de las disposiciones jurídicas relativas y aplicables.
 
-### CAPÍTULO IV. DEL PADRÓN DE BENEFICIARIOS
+### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
 
 ###### ARTÍCULO 76.
 
@@ -921,7 +957,7 @@ IV. Informar a la instancia correspondiente si se es beneficiario de dos o más 
 
 V. Estar inscrito en el padrón de beneficiarios.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. DEL PADRÓN DE BENEFICIARIOS
 
 ###### ARTÍCULO 78.
 
@@ -931,9 +967,11 @@ El padrón será conjuntado y administrado por la Secretaría de Desarrollo Soci
 
 La secretaría hará las gestiones necesarias a efecto de convenir con la dependencia competente del Gobierno Federal, la unificación de los padrones de beneficiarios de programas, obras o acciones sociales aplicados en el Estado.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO 79.
 
-La Secretaría de Desarrollo Social y los Municipios serán responsables en el ámbito de su competencia del resguardo y buen uso de los padrones de beneficiarios, los cuales en ningún caso podrán ser empleados para propósitos de proselitismo político, religioso o comercial, ni para ningún fin distinto a lo establecido en los lineamientos y mecanismos de operación del programa respectivo.
+La Secretaría y los Municipios serán responsables en el ámbito de su competencia del resguardo y buen uso de los padrones de beneficiarios, los cuales en ningún caso podrán ser empleados para propósitos de proselitismo político, religioso o comercial, ni para ningún fin distinto a lo establecido en los lineamientos y mecanismos de operación del programa respectivo.
 
 ###### ARTÍCULO 80.
 
@@ -945,7 +983,7 @@ Los Ayuntamientos determinarán en sesión de cabildo, los lineamientos y requis
 
 ## TÍTULO OCTAVO (SIC). DE LA EVALUACIÓN
 
-### CAPÍTULO I. DE LA CONTRALORÍA SOCIAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 82.
 
@@ -997,7 +1035,7 @@ Los resultados de dichas evaluaciones permitirán actualizar las políticas púb
 
 ## TÍTULO NOVENO. DE LAS INSTANCIAS DE INCONFORMIDAD
 
-### CAPÍTULO II. DE LA DENUNCIA POPULAR
+### CAPÍTULO I. DE LA CONTRALORÍA SOCIAL
 
 ###### ARTÍCULO 90.
 
@@ -1015,7 +1053,7 @@ Toda persona u organización de la sociedad civil podrá presentar ante la contr
 
 Las contralorías internas de las dependencias y entidades del Poder Ejecutivo y las de los municipios, integrarán al inicio de cada ejercicio fiscal, en su programa anual de auditoría, las acciones que consideren, para verificar el ejercicio de los recursos públicos destinados al desarrollo social, con el cumplimiento de los objetivos y metas señaladas en el plan y los programas, así como de la debida observancia de esta Ley.
 
-### CAPÍTULO III. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO II. DE LA DENUNCIA POPULAR
 
 ###### ARTÍCULO 94.
 
@@ -1041,7 +1079,7 @@ III. Los datos que permitan identificar a la presunta autoridad, funcionario inf
 
 IV. Las pruebas que ofrezca el denunciante.
 
-### CAPÍTULO IV. DE LOS MEDIOS DE DEFENSA
+### CAPÍTULO III. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 98.
 
@@ -1052,6 +1090,8 @@ Al beneficiario, organización o unidad familiar que contravenga las disposicion
 Los recursos destinados al desarrollo social y combate a la pobreza no podrán ser utilizados para fines distintos a los establecidos.
 
 El servidor público estatal o municipal, que valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político y, en general contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche y demás ordenamientos relativos.
+
+### CAPÍTULO IV. DE LOS MEDIOS DE DEFENSA
 
 ###### ARTÍCULO 100.
 
@@ -1116,3 +1156,11 @@ P.O. 28 DE NOVIEMBRE DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 8 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 106 POR EL QUE “SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 4; LA FRACCIÓN I DEL ARTÍCULO 10; LAS FRACCIONES XX Y XXII DEL ARTÍCULO 11; LA FRACCIÓN IV DEL ARTÍCULO 25; EL ARTÍCULO 79 Y, SE ADICIONAN LA FRACCIÓN XXIII AL ARTÍCULO 11; EL CAPÍTULO I BIS DENOMINADO “DE LA DONACIÓN Y APROVECHAMIENTO DE ALIMENTOS” CON LOS ARTÍCULOS 69 BIS, 69 TER Y 69 QUATER AL TÍTULO SEXTO, TODOS DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
