@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2025-08-01"
+last_updated: "2025-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -174,6 +174,12 @@ V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente que p
 VI. Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
 VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionadas con la salud y con el uso de los servicios que se presten para su protección;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2025)</small>
+
+VII Bis. La evaluación, diseño, impulso, implementación y coordinación de políticas públicas integrales en materia de Movilidad Activa, entendida como un componente estratégico de la salud pública, orientado a la prevención, control y reducción de enfermedades crónicas no transmisibles, así como al fortalecimiento del bienestar físico y mental de la población.
+
+Estas acciones deberán promover actividades y programas generales, entornos urbanos accesibles, seguros, sostenibles e incluyentes, que garanticen el ejercicio efectivo del derecho a la salud, al espacio público y a una ciudad habitable para todas las personas;
 
 VIII. Promover un sistema de prevención de riesgos que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
 
@@ -3006,3 +3012,15 @@ P.O. 1 DE AGOSTO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 8 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 109 POR EL QUE "SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 5 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, por conducto de la Secretaría de Salud de la Administración Pública Estatal, en coordinación con las entidades centralizadas y paraestatales que conforman el Sistema Estatal de Salud, deberán elaborar un Proyecto Estatal de Movilidad Activa con enfoque de salud pública, que incluya acciones de prevención de enfermedades crónicas no transmisibles y promoción de entornos saludables.
+
+TERCERO.- La Secretaría de Salud de la Administración Pública del Estado de Campeche, promoverá campañas de información, sensibilización y formación ciudadana sobre los beneficios de la movilidad activa para la salud física y mental, priorizando la participación de niñas, niños, adolescentes, adultos mayores y personas con discapacidad.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
