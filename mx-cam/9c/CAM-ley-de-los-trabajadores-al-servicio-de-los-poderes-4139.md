@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-trabajadores-al-servicio-de-los-poderes-4139"
 country: "mx"
 rank: "ley"
 publication_date: "1979-09-11"
-last_updated: "2022-06-09"
+last_updated: "2025-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "CAM"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 11 de septiembre de 1979.
 
@@ -262,6 +262,12 @@ ARTICULO TRIGESIMO TER.- PREVENCIÓN Y ATENCIÓN A ENFERMEDADES CANCERÍGENAS. L
 Todos los trabajadores tendrán derecho de un permiso con goce de sueldo para acudir a citas médicas cuya finalidad sea la práctica de quimioterapias, radioterapias o procedimiento oncológico diverso en contra de cualquier tipo de cáncer cuando algún hijo menor de edad, cónyuge o pareja de hecho padezca tal enfermedad. Para justificar dicho permiso bastará con presentar constancia médica expedida por institución pública o privada, dentro de los tres días hábiles siguientes.
 
 Los permisos señalados en este artículo no podrán ser sujetos de compensación económica en caso de no ser ejercidos.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2025)</small>
+
+ARTICULO TRIGESIMO QUATER.- PERMISOS PARA DONACIÓN DE SANGRE. Las personas trabajadoras tendrán derecho a un permiso con goce de sueldo, una vez cada seis meses, para ausentarse de sus labores por un día hábil, con el fin de acudir a una institución de salud pública o privada a realizar una donación altruista de sangre.
+
+La validación de dicho permiso estará condicionado a la presentación de la constancia expedida por la institución de salud receptora, que acredite que la donación se realizó de manera voluntaria y altruista.
 
 ARTICULO TRIGESIMO PRIMERO.- DESCANSO OBLIGATORIO.- Son días de descanso obligatorio, con goce de sueldo íntegro, los que señala el calendario oficial y la Ley Federal del Trabajo.
 
@@ -906,3 +912,11 @@ P.O. 9 DE JUNIO DE 2022.
 PRIMERO. El presente decreto entrará en vigor a los quince días siguiente (sic) de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido de este decreto.
+
+P.O. 8 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 107 POR EL QUE “SE ADICIONA UN ARTÍCULO TRIGÉSIMO QUATER A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo local en lo que se opongan al contenido del presente decreto.
