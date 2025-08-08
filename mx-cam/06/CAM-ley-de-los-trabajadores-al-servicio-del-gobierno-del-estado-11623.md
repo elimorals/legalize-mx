@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-trabajadores-al-servicio-del-gobierno-del-estado-116
 country: "mx"
 rank: "ley"
 publication_date: "1996-04-24"
-last_updated: "2024-02-19"
+last_updated: "2025-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 24 de abril de 1996.
 
@@ -314,6 +314,12 @@ PARA TAL EFECTO, DEBERAN PRESENTAR EN SU CENTRO DE TRABAJO EL CERTIFICADO MEDICO
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2024)</small>
 
 LOS DIAS UTILIZADOS EN ESTOS CASOS NO AFECTARAN LAS PRESTACIONES LABORALES ESTABLECIDAS EN LA PRESENTE LEY.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2025)</small>
+
+ARTICULO 31 QUATER.- LAS PERSONAS TRABAJADORAS TENDRAN DERECHO A UN PERMISO CON GOCE DE SUELDO, UNA VEZ CADA SEIS MESES, PARA AUSENTARSE DE SUS LABORES POR UN DIA HABIL, CON EL FIN DE ACUDIR A UNA INSTITUCION DE SALUD PUBLICA O PRIVADA A REALIZAR UNA DONACION ALTRUISTA DE SANGRE.
+
+LA VALIDACION DE DICHO PERMISO ESTARA CONDICIONADO A LA PRESENTACION DE LA CONSTANCIA EXPEDIDA POR LA INSTITUCION DE SALUD RECEPTORA, QUE ACREDITE QUE LA DONACION SE REALIZO DE MANERA VOLUNTARIA Y ALTRUISTA.
 
 ## TITULO IV. SUELDO
 
@@ -1142,3 +1148,11 @@ P.O. 19 DE FEBRERO DE 2024.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 8 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 107 POR EL QUE “SE ADICIONA UN ARTÍCULO 31 QUATER A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo local en lo que se opongan al contenido del presente decreto.
