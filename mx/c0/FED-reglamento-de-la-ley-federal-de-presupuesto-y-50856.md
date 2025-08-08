@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-presupuesto-y-50856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-28"
-last_updated: "2024-09-27"
+last_updated: "2025-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE AGOSTO DE 2025.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
 
@@ -45,7 +45,7 @@ El presente ordenamiento tiene por objeto reglamentar la Ley Federal de Presupue
 
 Las definiciones previstas en el artículo 2 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria serán aplicables en el presente Reglamento. Adicionalmente, de conformidad con el último párrafo de dicho artículo, se entenderá por:
 
-I. Análisis costo y beneficio: la evaluación de los programas y proyectos de inversión a que se refiere el artículo 34, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y que considera los costos y beneficios directos e indirectos que los programas y proyectos generan para la sociedad;
+I. (DEROGADA, D.O.F. 8 DE AGOSTO DE 2025)
 
 II. Aportaciones federales: los recursos transferidos a las entidades federativas y municipios a través de los fondos a que se refiere el artículo 25 de la Ley de Coordinación Fiscal;
 
@@ -76,6 +76,10 @@ XII. Entidades no apoyadas: las entidades a que se refiere el artículo 2, fracc
 XIII. Estructura ocupacional: el conjunto de puestos con funciones definidas, delimitadas y concretas que permiten el cumplimiento de los objetivos de las unidades administrativas con base en los registros y autorizaciones, en los términos de las disposiciones aplicables, la cual se vincula a la estructura orgánica cuando identifica al superior jerárquico de cada uno de esos puestos, y a la estructura salarial cuando identifica el nivel tabular de los mismos;
 
 XIV. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
+
+> <small>(ADICIONADA, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
+XIV Bis. Evaluación costo y beneficio: la evaluación a que se refiere el artículo 34, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en donde se muestre que dichos programas y proyectos de inversión son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables;
 
 XV. Instituciones financieras internacionales: las instituciones internacionales públicas o privadas, cuya función es otorgar o garantizar crédito externo a corto o largo plazo, que no constituyen un organismo financiero internacional;
 
@@ -1197,7 +1201,9 @@ II. Promover una mayor capacitación de los servidores públicos que intervengan
 
 III. Otorgar prioridad a la realización de los programas y proyectos de inversión que generen mayores beneficios netos para la sociedad;
 
-IV. Estimular y promover la participación de los sectores social y privado y de los distintos órdenes de gobierno en los programas y proyectos de inversión que impulsa el sector público, procurando incrementar con ello los beneficios netos para la sociedad de dichos programas y proyectos, y
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
+IV. Estimular y promover la participación de los sectores social y privado y de los distintos órdenes de gobierno en los programas y proyectos de inversión que impulsa el sector público, procurando incrementar con ello los beneficios netos para la sociedad, y
 
 V. Reportar a la Secretaría la información sobre el seguimiento y desarrollo de los programas y proyectos de inversión en los términos de las disposiciones generales que ésta emita.
 
@@ -1205,13 +1211,21 @@ V. Reportar a la Secretaría la información sobre el seguimiento y desarrollo d
 
 Los titulares de las dependencias y entidades serán responsables de designar al servidor público que fungirá como administrador de cada uno de los programas y proyectos de inversión en los términos que la Secretaría determine, pudiendo un administrador ser designado para hacerse cargo de uno o más programas y proyectos de inversión. El administrador deberá tener como mínimo el nivel de Director de Área o su equivalente en la dependencia o entidad correspondiente y será responsable de:
 
-I. Que se realicen los análisis costo y beneficio de los programas y proyectos de inversión para los que haya sido designado, en los términos de este Reglamento y los lineamientos que emita la Secretaría, identificando con base en supuestos y parámetros razonables la mejor alternativa de inversión;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
-II. Autorizar los análisis costo y beneficio, cuando de dicho análisis se desprenda razonablemente que los programas y proyectos de inversión generarán beneficios netos para la sociedad;
+I. Que se realice la Evaluación costo y beneficio de los programas y proyectos de inversión para los que haya sido designado, en los términos de este Reglamento y los lineamientos que emita la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
+II. Autorizar las evaluaciones costo y beneficio, cuando se desprenda que los programas y proyectos de inversión generarán beneficios netos para la sociedad;
 
 III. Que la ejecución de los programas y proyectos de inversión se sujete a los montos, términos y condiciones autorizados, y
 
 IV. Dar seguimiento a los programas y proyectos de inversión en ejecución y en operación, en los términos que determine la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
+Artículo 43 A. La Secretaría no gestionará solicitudes de registro en la Cartera que sean promovidas por entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México que no cuenten previamente con un instrumento debidamente formalizado con alguna Dependencia o Entidad, con el que se acredite la transferencia de recursos asignados en el Presupuesto de Egresos, para la ejecución de los proyectos. Por lo anterior, las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México deberán abstenerse de realizar erogaciones relacionadas con estudios u otros tipos de trabajo, con los que se pretendan tramitar los registros en la Cartera.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1235,15 +1249,17 @@ En el mecanismo de planeación de las inversiones a que se refiere este artícul
 
 La Secretaría presentará informes periódicos a la Comisión, respecto al avance en el cumplimiento de los programas de ejecución a que se refiere la fracción I del presente artículo.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 45.
 
-Los programas y proyectos de inversión deberán contar con un análisis costo y beneficio, elaborado conforme a los lineamientos que emita la Secretaría, que considere las alternativas que se hayan identificado para atender una necesidad específica o solucionar la problemática de que se trate, y deberá mostrar que dichos programas y proyectos son susceptibles de generar por sí mismos beneficios netos para la sociedad bajo supuestos y parámetros razonables, independientemente de cuál sea la fuente de los recursos con los que se financien.
+Los programas y proyectos de inversión deberán contar con una Evaluación costo y beneficio, elaborada conforme a los lineamientos que emita la Secretaría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 46.
 
-La Cartera se integrará con los conceptos señalados en las fracciones de este artículo que cuenten con el análisis costo y beneficio correspondiente, presentado por las dependencias y entidades a través del sistema de programas y proyectos de inversión, conforme a los distintos niveles de evaluación que se prevean en los lineamientos que al efecto emita la Secretaría.
+La Cartera se integrará con los conceptos señalados en las fracciones de este artículo que cuenten con la Evaluación costo y beneficio correspondiente, presentada por las dependencias y entidades a través del sistema de programas y proyectos de inversión.
 
 Se deberá solicitar el registro en la Cartera de:
 
@@ -1263,9 +1279,11 @@ V. El gasto de inversión que determine la Secretaría mediante disposiciones ge
 
 VI. Los proyectos de infraestructura que impliquen inversión a largo plazo y amortización programada, en los cuales el contratista se obliga a la ejecución de la obra, su puesta en marcha, así como al mantenimiento y operación de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 47.
 
-Las dependencias y entidades deberán mantener actualizada la información contenida en la Cartera; para ello solicitarán a la Secretaría en cualquier momento y a través del sistema de programas y proyectos de inversión, la actualización de la Cartera, para incluir nuevos programas y proyectos de inversión, así como para modificar o cancelar los ya registrados. Las dependencias y entidades deberán enviar la solicitud de actualización con base en los lineamientos que emita la Secretaría y demás disposiciones aplicables. En el caso de los nuevos programas y proyectos de inversión, así como de aquéllos cuyo alcance se modifique, la solicitud a que se refiere este párrafo deberá acompañarse del análisis costo y beneficio correspondiente.
+Las dependencias y entidades deberán mantener actualizada la información de los programas y proyectos de inversión contenida en la Cartera, con base en los lineamientos que emita la Secretaría y demás disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2014)</small>
 
@@ -1279,39 +1297,17 @@ No se podrán emitir los oficios de inversión a que se refiere el artículo 156
 
 En los casos de programas y proyectos de inversión para cuya realización no se requiera la emisión de un oficio de inversión, deberá contarse con el registro en la Cartera previamente al inicio del procedimiento de contratación correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 Artículo 48 A. Una vez registrados en la Cartera los programas y proyectos de inversión a que se refiere el artículo 46 de este Reglamento, serán analizados por la Comisión para determinar la prelación para su inclusión en el proyecto de Presupuesto de Egresos, así como el orden de ejecución.
 
-> <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
-Para la determinación de la prelación anterior, las dependencias y entidades deberán presentar a la Comisión la información que requiera para su análisis en los términos que la misma determine, de forma tal que permita acreditar fehacientemente, entre otros aspectos, la congruencia y conformidad de los programas y proyectos de inversión con los objetivos y prioridades del sistema nacional de planeación democrática y los programas aplicables; su temporalidad y orden; los criterios a que se refiere el artículo 34, fracción IV, de la Ley; con el propósito de uniformar la presentación de documentos e información de los programas y proyectos de inversión de que se trate.
+Para efectos del párrafo anterior, se deben observar los criterios previstos en la fracción IV del artículo 34 de la Ley, así como la congruencia y conformidad de los programas y proyectos de inversión con los objetivos y prioridades del sistema nacional de planeación democrática y los programas concernientes, y cuando proceda, los demás instrumentos que sean aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE ABRIL DE 2014)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
-Previo a que los programas y proyectos de inversión se sometan a la consideración de la Comisión, las dependencias y entidades:
-
-> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-I. De conformidad a las características específicas de cada sector, las condiciones técnicas, económicas y sociales; así como la importancia para alcanzar los objetivos establecidos en el Plan Nacional de Desarrollo y los programas sectoriales, regionales y especiales vigentes, propondrán la prelación y orden de ejecución entre los programas y proyectos de inversión;
-
-> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-II. Podrán proponer a la Comisión, para su análisis, criterios adicionales a los previstos en el artículo 34, fracción IV, de la Ley, de conformidad con las particularidades, importancia y demás elementos del sector económico al que pertenezcan;
-
-> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-III. En términos del artículo 44 de este Reglamento, utilizarán los elementos del mecanismo de planeación para sugerir el establecimiento de prioridades y orden de prelación de los programas y proyectos de inversión, y
-
-> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-IV. Podrán utilizar, cuando proceda, los lineamientos y criterios que sobre reducción de la pobreza extrema y desarrollo regional emita la Secretaría de Desarrollo Social en términos de la Ley General de Desarrollo Social, para apoyar el análisis que realice la Comisión.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La información anterior se hará llegar a la Comisión por conducto de la dependencia que ejerza las funciones de coordinadora de sector, o bien directamente por las entidades no coordinadas, a través de la unidad administrativa responsable de la inversión pública de la Secretaría.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 49.
 
@@ -1329,9 +1325,11 @@ Los nuevos proyectos de inversión que como resultado de su aprobación en el Pr
 
 La Secretaría podrá requerir mayor información respecto de las especificaciones económicas, técnicas y sociales, a fin de garantizar la adecuada ejecución de los programas y proyectos de inversión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 50.
 
-Una vez presentada la solicitud de registro de los programas y proyectos de inversión, o de modificación al alcance de los ya registrados, la Secretaría, a través del sistema de programas y proyectos de inversión, en un plazo máximo de 20 días hábiles, resolverá:
+Una vez presentada la solicitud de registro de los programas y proyectos de inversión, o de modificación al alcance de los ya registrados, la Secretaría, a través del sistema de programas y proyectos de inversión, en un plazo máximo de 10 días hábiles, resolverá:
 
 I. Registrar los programas y proyectos de inversión mediante la asignación de la clave respectiva o, en el caso de modificación al alcance, la actualización de la información;
 
@@ -1339,17 +1337,17 @@ II. Solicitar a las dependencias y entidades información adicional y, en su cas
 
 III. Rechazar la solicitud de registro del programa o proyecto de inversión en la Cartera o de modificación al programa o proyecto correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
+En caso de que la Secretaría no emita respuesta en el plazo señalado en el primer párrafo de este artículo resultará aplicable lo dispuesto en los lineamientos emitidos por la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 51.
 
-Las dependencias y entidades deberán informar a la Secretaría, con base en los lineamientos que ésta emita, sobre el desarrollo de los programas y proyectos de inversión, incluyendo la comparación de los beneficios netos considerados en el último análisis costo y beneficio presentado para registrar el programa o proyecto, o actualizar su registro en la Cartera con aquéllos efectivamente generados, así como sus avances físicos y financieros.
+Las dependencias y entidades deberán informar a la Secretaría, con base en los lineamientos que ésta emita, sobre el desarrollo de los programas y proyectos de inversión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La información a que hace referencia este artículo deberá presentarse cada mes a partir de la entrada en operación del proyecto, ya sea de forma total o parcial, y se deberá comparar con las proyecciones presentadas en el último análisis costo y beneficio registrado en la Cartera.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 52.
 
@@ -1357,29 +1355,21 @@ La Secretaría podrá requerir en cualquier momento información sobre programas
 
 En caso de suspensión temporal del registro las dependencias y entidades no podrán comprometer recursos relacionados con el programa o proyecto de inversión correspondiente. En su caso, la Secretaría podrá establecer condiciones para el ejercicio de recursos del programa o proyecto de que se trate evaluando los costos y beneficios de dicha medida.
 
-De conformidad con los lineamientos que emita la Secretaría, el registro en la Cartera tendrá una vigencia de 3 años contados a partir del otorgamiento de la clave correspondiente o, en su caso, a partir de la actualización del registro con la presentación de un nuevo análisis costo y beneficio.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+De conformidad con los lineamientos que emita la Secretaría, el registro en la Cartera tendrá una vigencia indefinida y solo deberá actualizarse en los casos de los programas y proyectos de inversión que la Secretaría determine.
 
-La clave se renovará automáticamente siempre y cuando los programas y proyectos de inversión se encuentren en etapa de ejecución y, en su caso, de operación.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 53.
 
-Los programas y proyectos de inversión señalados en este artículo deberán contar con el dictamen favorable a que se refiere el artículo 34, fracción II de la Ley, sobre el análisis de factibilidad técnica, económica y ambiental y, en su caso, sobre el proyecto ejecutivo de obra pública. Este dictamen se deberá obtener antes de la emisión de los oficios de inversión correspondientes, o en los casos en que éstos no se requieran, antes de iniciar el procedimiento de contratación de que se trate, en los términos que establezca la Secretaría.
+Los programas y proyectos de inversión podrán contar con el dictamen favorable a que se refiere el artículo 34, fracción II de la Ley, sobre el análisis de factibilidad técnica, económica y ambiental y, en su caso, sobre el proyecto ejecutivo de obra pública, cuando así lo determinen los lineamientos que al efecto emita la Secretaría. Dicho dictamen se deberá obtener antes de la emisión de los oficios de inversión correspondientes, o en los casos en que éstos no se requieran, antes de iniciar el procedimiento de contratación de que se trate, en los términos que establezcan los citados lineamientos.
 
-Los programas y proyectos de inversión sujetos a esta obligación son:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
-I. Los nuevos proyectos de infraestructura productiva de largo plazo;
-
-> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2014)</small>
-
-II. Los nuevos programas y proyectos de inversión presupuestaria en infraestructura económica y social, cuyo monto total de inversión sea igual o superior al que determine la Secretaría, y
-
-> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2014)</small>
-
-III. Las modificaciones al alcance tanto de proyectos de infraestructura productiva de largo plazo como de inversión presupuestaria en infraestructura económica y social cuyo monto total corresponda a lo señalado en la fracción anterior.
-
-En la designación y contratación de los expertos que elaboren cada uno de los dictámenes de los programas y proyectos de inversión sujetos a este requerimiento, se deberán observar las disposiciones que establezca la Secretaría, atendiendo la normativa aplicable, incluyendo aquéllas sobre los requisitos que dichos expertos deberán cumplir. Los gastos que se deriven de la realización de los contratos en los términos que establezca la Secretaría, se harán con cargo a los presupuestos de las dependencias y entidades.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1433,9 +1423,11 @@ V. Una vez que se cuente con la opinión favorable de la Comisión, la Secretar�
 
 Las dependencias y entidades deberán agotar el procedimiento anterior a más tardar el 20 de agosto, observando lo establecido por el artículo 22 de este Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
 
-Artículo 53 D. Las dependencias o entidades, sin necesidad de presentar un nuevo análisis costo y beneficio, podrán modificar el calendario de inversión de los proyectos de inversión en infraestructura autorizados para un determinado ejercicio fiscal, así como cualquier otra modificación que no implique un cambio de alcance al proyecto autorizado, una adecuación presupuestaria externa o un subejercicio de gasto, de conformidad con las disposiciones aplicables.
+Artículo 53 D. Las dependencias o entidades, sin necesidad de presentar una nueva Evaluación costo y beneficio, podrán modificar el calendario de inversión de los proyectos de inversión en infraestructura autorizados para un determinado ejercicio fiscal, así como cualquier otra modificación que no implique un cambio de alcance al proyecto autorizado, una adecuación presupuestaria externa o un subejercicio de gasto, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
 Lo anterior, a través del sistema del proceso integral de programación y presupuesto.
 
@@ -3629,9 +3621,11 @@ Los montos máximos anuales de inversión financiada a que se refiere el párraf
 
 A más tardar el 12 de agosto, la Secretaría informará a la Comisión y a la dependencia coordinadora de sector la estimación definitiva de los montos máximos anuales a que se refiere este artículo y a más tardar el 15 de agosto, la dependencia coordinadora de sector presentará conforme al artículo 194, fracción VI de este Reglamento la propuesta de distribución de dichos montos entre los proyectos presentados por sus entidades coordinadas. Los montos totales anuales de inversión financiada para proyectos de infraestructura productiva de largo plazo de inversión directa propuestos por la dependencia coordinadora de sector no deberán rebasar la estimación definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 191.
 
-Las entidades deberán presentar a la Secretaría el análisis costo y beneficio de los nuevos proyectos de infraestructura productiva de largo plazo, así como de los cambios de alcance de proyectos ya autorizados, en términos de las disposiciones en materia de programas y proyectos de inversión que les sean aplicables de conformidad con este Reglamento.
+Las entidades deberán presentar a la Secretaría la Evaluación costo y beneficio de los nuevos proyectos de infraestructura productiva de largo plazo, así como de los cambios de alcance de proyectos ya autorizados, en términos de las disposiciones en materia de programas y proyectos de inversión que les sean aplicables de conformidad con este Reglamento.
 
 Todos los proyectos de infraestructura productiva de largo plazo, incluyendo sus cambios de alcance, deberán registrarse en la Cartera y requerirán contar con un administrador, en términos del artículo 43 de este Reglamento.
 
@@ -3649,7 +3643,9 @@ III. El monto total de inversión financiada y el calendario de ejecución para 
 
 IV. En el caso de los proyectos que presenten cambio de alcance, la justificación correspondiente;
 
-V. Los principales parámetros y supuestos empleados para la elaboración de los análisis costo y beneficio de los proyectos nuevos y cambios de alcance, así como para otras actualizaciones de los proyectos ya autorizados;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
+V. Los principales parámetros y supuestos empleados para la elaboración de la Evaluación costo y beneficio de los proyectos nuevos y cambios de alcance, así como para otras actualizaciones de los proyectos ya autorizados;
 
 VI. Una manifestación del impacto esperado de los proyectos en el desarrollo del sector correspondiente y, en su caso, una evaluación del impacto observado de los proyectos en operación aprobados en ejercicios anteriores, y
 
@@ -3665,7 +3661,9 @@ La dependencia coordinadora de sector deberá enviar a la Secretaría, por los m
 
 Adicionalmente a lo señalado en el artículo anterior, para cada nuevo proyecto de infraestructura productiva de largo plazo o cambio de alcance de proyectos ya autorizados en ejercicios fiscales anteriores, las entidades deberán entregar a la coordinadora de sector, a más tardar el último día hábil de mayo, lo siguiente:
 
-I. Un resumen ejecutivo del proyecto que contenga la descripción de sus principales componentes; los fines y metas que se pretendan alcanzar con su desarrollo; los indicadores de rentabilidad del análisis costo y beneficio correspondiente; el monto total de inversión y los demás gastos asociados; el calendario de ejecución; las fuentes de financiamiento que se prevea utilizar, y los principales riesgos asociados;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
+I. Un resumen ejecutivo del proyecto que contenga la descripción de sus principales componentes; los fines y metas que se pretendan alcanzar con su desarrollo; los indicadores de rentabilidad de la Evaluación costo y beneficio correspondiente; el monto total de inversión y los demás gastos asociados; el calendario de ejecución; las fuentes de financiamiento que se prevea utilizar, y los principales riesgos asociados;
 
 II. La descripción general del esquema e instrumentos financieros que especifique las fuentes de financiamiento, términos y condiciones financieras, así como los costos directos e indirectos que se hayan considerado para el diseño, ejecución y pago del proyecto;
 
@@ -3675,7 +3673,9 @@ IV. El análisis de las fuentes alternativas de financiamiento que el proyecto p
 
 V. El detalle de los flujos netos de ingresos que el proyecto podrá generar, su monto y periodicidad, así como la forma en que se dará cumplimiento a las obligaciones que el proyecto implique y el calendario de pagos que al efecto se prevea establecer;
 
-VI. La solicitud de registro en la Cartera, acompañada del análisis costo y beneficio correspondiente;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
+VI. La solicitud de registro en la Cartera, acompañada de la Evaluación costo y beneficio correspondiente;
 
 VII. (DEROGADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)
 
@@ -3961,7 +3961,9 @@ Quedan exceptuados del informe y autorización a que se refiere el párrafo ante
 
 III. A través de las partidas específicas del Clasificador por objeto del gasto.
 
-Las dependencias y entidades que coordinen fideicomisos, mandatos o análogos, o que con cargo a su presupuesto les aporten recursos presupuestarios, y tengan por objeto realizar o financiar programas y proyectos de inversión, serán responsables de elaborar el análisis costo y beneficio para dichos programas y proyectos, obtener su registro en la Cartera y, en su caso, recabar el dictamen del experto independiente correspondiente, de conformidad con los lineamientos que al efecto emita la Secretaría.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2025)</small>
+
+Las dependencias y entidades que coordinen fideicomisos, mandatos o análogos, o que con cargo a su presupuesto les aporten recursos presupuestarios, y tengan por objeto realizar o financiar programas y proyectos de inversión, serán responsables de elaborar la Evaluación costo y beneficio para dichos programas y proyectos, obtener su registro en la Cartera y, en su caso, recabar el dictamen del experto independiente correspondiente, de conformidad con los lineamientos que al efecto emita la Secretaría.
 
 Las dependencias o entidades deberán informar a través del sistema de control y transparencia de fideicomisos que los recursos presupuestarios no rebasan el 50 por ciento del saldo del patrimonio neto de fideicomisos constituidos por los particulares y, en el caso de fideicomisos constituidos por entidades federativas, deberán anexar en dicho sistema la autorización de su titular para la aportación de recursos que sean mayores al 50 por ciento del saldo del patrimonio neto.
 
@@ -5072,3 +5074,21 @@ D.O.F. 27 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
 
 ÚNICO. El presente decreto entra en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+Primero. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los programas y proyectos de inversión registrados en la Cartera, que se encuentren sujetos a la práctica de un dictamen o una Evaluación ex post a la entrada en vigor de esta modificación, deben concluir el análisis respectivo hasta su terminación, de conformidad con las disposiciones jurídicas vigentes al momento de su contratación.
+
+Tercero. La Secretaría debe emitir los lineamientos en materia de programas y proyectos de inversión que correspondan, en un plazo no mayor a 15 días hábiles contados a partir de la entrada en vigor de este decreto.
+
+Cuarto. La Secretaría realizará la depuración de la Cartera, dentro de los siguientes 30 días hábiles contados a partir de la entrada en vigor del presente decreto, conforme a las disposiciones jurídicas aplicables.
+
+Quinto. Con la entrada en vigor del presente decreto, se dejan sin efecto todas las disposiciones administrativas que se opongan al mismo.
+
+En aquellas disposiciones administrativas vigentes en que se haga mención al análisis costo y beneficio, debe entenderse que se refiere a la Evaluación costo y beneficio, en los términos de este decreto.
+
+Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se deben cubrir con cargo al presupuesto autorizado de las dependencias y entidades de la Administración Pública Federal que intervengan en la implementación del mismo, por lo que no se autorizarán ampliaciones líquidas a su presupuesto para el presente ejercicio fiscal ni años subsecuentes, y no se podrá incrementar su presupuesto regularizable.
