@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-construccion-del-municipio-de-villa-de-171563"
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-01-13"
-last_updated: "2024-01-13"
+last_updated: "2025-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,13 @@ state: "COL"
 
 REGLAMENTO DE CONSTRUCCIÓN DEL MUNICIPIO DE VILLA DE ÁLVAREZ, COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
 
 Reglamento publicado en el Suplemento Número 10 del Periódico Oficial del Estado de Colima, el sábado 13 de enero de 2024.
 
 > <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 2.
 
@@ -67,7 +69,7 @@ XIV. Dirección de Área de Desarrollo Urbano: a la Dirección de Área de Desar
 
 XV. Dirección General: a la Dirección General de Desarrollo Municipal del Ayuntamiento de Villa de Álvarez, Colima;
 
-XVI. Formato de solicitud de Licencia de Construcción: a la forma única emitida por la Dirección de Área de Desarrollo Urbano que contiene el requerimiento de la totalidad de los datos y documentos que los interesados deben presentar a dicha autoridad a través de las (sic) Ventanilla de construcción de atención al público para iniciar el procedimiento de obtención de la Licencia de Construcción y de los trámites relacionados con ella;
+XVI. Formato de solicitud de Licencia de Construcción: a la forma única emitida por la Dirección de Área de Desarrollo Urbano que contiene el requerimiento de la totalidad de los datos y documentos que los interesados deben presentar a dicha autoridad a través de las Ventanilla de construcción de atención al público para iniciar el procedimiento de obtención de la Licencia de Construcción y de los trámites relacionados con ella;
 
 XVII. Formato de solicitud de Dictamen de Vocación de Suelo: a la forma única emitida por la Dirección de Área de Desarrollo Urbano que contiene el requerimiento de la totalidad de los datos y documentos que los interesados deben presentar a dicha autoridad con la finalidad de obtener el Dictamen de Vocación de Suelo en sus distintas modalidades;
 
@@ -121,7 +123,7 @@ XXIII. NOM: Norma Oficial Mexicana;
 
 XXIV. Padrón Municipal: al Padrón de Directoras y Directores Responsables de Proyecto, de Obra, de Supervisión Municipal y Corresponsables del Municipio de Villa de Álvarez, Colima;
 
-XXV. Profesionista: a la persona que cuentan (sic) con cédula profesional expedida a su favor por la Dirección General de Profesiones de la Secretaría de Educación Pública (SEP) y, en su caso, auxiliar de la autoridad municipal en materia de desarrollo urbano;
+XXV. Profesionista: a la persona que cuentan con cédula profesional expedida a su favor por la Dirección General de Profesiones de la Secretaría de Educación Pública (SEP) y, en su caso, auxiliar de la autoridad municipal en materia de desarrollo urbano;
 
 XXVI. Protección Civil: a la Dirección de Área de Protección Civil del Ayuntamiento de Villa de Álvarez, Colima;
 
@@ -145,13 +147,15 @@ XXXV. Restricción posterior: a la superficie en la que, acorde a la zonificaci�
 
 XXXVI. Superficie edificable: al área de un lote o predio que puede ser ocupada por la edificación y corresponde a la proyección horizontal de la misma, excluyendo los salientes de los techos, cuando son permitidos;
 
-XXXVII. UMA: a la referencia económica vigente denominada Unidad de Medida y Actualización, la cual determina la cuantía del pago en pesos de las obligaciones o supuestos previstos en el presente Reglamento;
+XXXVII. Telecomunicaciones: toda emisión, transmisión o recepción de signos, señales, datos, escritos, imágenes, voz, sonido o información de cualquier naturaleza que se efectúa a través de hilos radioelectricidad, medios ópticos, físicos, u otros sistemas electromagnéticos sin incluir la radiodifusión;
 
-XXXVIII. Unidades de Medida: en el texto del presente Reglamento se utiliza el Sistema Internacional de Unidades (SI), empleando las unidades básicas: metro (m), kilogramo (kg), segundo (s), kelvin (K), amperio (A), mol (mol) y en niveles de iluminación luxes y candela (cd); y sus unidades derivadas; especialmente utilizado (m) para metro y (m²) para metro cuadrado;
+XXXVIII. UMA: a la referencia económica vigente denominada Unidad de Medida y Actualización, la cual determina la cuantía del pago en pesos de las obligaciones o supuestos previstos en el presente Reglamento;
 
-XXXIX. Persona solicitante: quien hace uso de los servicios municipales que ofrece el Ayuntamiento vinculados al presente Reglamento; y
+XXXIX. Unidades de Medida: en el texto del presente Reglamento se utiliza el Sistema Internacional de Unidades (SI), empleando las unidades básicas: metro (m), kilogramo (kg), segundo (s), kelvin (K), amperio (A), mol (mol) y en niveles de iluminación luxes y candela (cd); y sus unidades derivadas; especialmente utilizado (m) para metro y (m²) para metro cuadrado;
 
-XL. Ventanillas de construcción: a los módulos de atención ciudadana mediante las cuales se hace la recepción y entrega de trámites en materia de edificación que se gestionan en la Dirección de Área de Desarrollo Urbano.
+XL. Persona solicitante: quien hace uso de los servicios municipales que ofrece el Ayuntamiento vinculados al presente Reglamento; y
+
+XLI. Ventanillas de construcción: a los módulos de atención ciudadana mediante las cuales se hace la recepción y entrega de trámites en materia de edificación que se gestionan en la Dirección de Área de Desarrollo Urbano.
 
 ###### Artículo 103.
 
@@ -160,3 +164,17 @@ Programas derivados, Dictamen de Vocación de Suelo y Licencia de Construcción
 Todas las licencias de construcción deberán respetar los lineamientos indicados en los Programas de Ordenamiento Territorial y Desarrollo Urbano derivados, como lo son los Programas de Desarrollo Urbano del Centro de Población correspondiente, los Programas Parciales de Desarrollo Urbano o Urbanización, los Programas Sectoriales de Desarrollo Urbano y los Proyectos de Integración Urbana.
 
 Las personas propietarias que decidan realizar cualquier obra de Edificación y/o construcción deberán solicitar ante la Dirección de Área de Desarrollo Urbano el Dictamen de Vocación de Suelo Modalidad II. De alineamiento, número oficial, usos y destinos.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
+Tratándose de las licencias de construcción y autorizaciones para la instalación, construcción, regularización, registro, uso, mantenimiento y/o reparación de infraestructura de telecomunicaciones, se deberá de observar el acuerdo aprobado por el Cabildo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DICTAMEN POR EL QUE SE REFORMA EL ARTÍCULO 2 Y SE ADICIONA UN TERCER PÁRRAFO DEL ARTÍCULO 103 DEL REGLAMENTO DE CONSTRUCCIÓN DEL MUNICIPIO DE VILLA DE ÁLVAREZ".]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial el Estado de Colima.
+
+SEGUNDO.- La Dirección de Desarrollo Municipal del Ayuntamiento de Villa de Álvarez, deberá en un lapso no mayor de 30 días naturales para que elabore y presente un diseño para la regular la a instalación, construcción, regularización, registro, uso, mantenimiento y/o reparación de infraestructura de telecomunicaciones.
