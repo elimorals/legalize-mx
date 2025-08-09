@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2025-05-24"
+last_updated: "2025-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE AGOSTO DE 2025 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -1241,15 +1239,21 @@ El servicio público de arrastre vehicular corresponde originariamente al Estado
 
 En los municipios que cuenten con dos o más concesionarios autorizados para prestar el servicio de arrastre vehicular, se dará prioridad al establecimiento que esté más cerca de la ubicación del vehículo sobre el que se realiza el servicio.
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 88 Quáter.
 
-Para las operaciones de arrastre de vehículos en el Estado de Oaxaca, se estará a lo que disponga la presente Ley y su Reglamento, las leyes federales y estatales correspondientes, así como las normas oficiales mexicanas y las normas técnicas complementarias emitidas por las autoridades estatales para tal efecto.
+Para las operaciones de arrastre de vehículos en el Estado de Oaxaca, se estará a lo que disponga la presente Ley y su Reglamento, las leyes federales y estatales correspondientes, así como las normas oficiales mexicanas y las normas técnicas complementarias emitidas por las autoridades estatales para tal efecto
 
-Para prestar el servicio público de arrastre, las autoridades correspondientes o los concesionarios, deberán contar con una Póliza de Seguro por Responsabilidad Civil amplio que ampare el robo, o daños que pudiera sufrir el vehículo durante su traslado.
+Para prestar el servicio público de arraste (sic), las autoridades correspondientes o los concesionarios, deberán contar con título de concesión vigente, así como la Poliza de Seguro por Responsabilidad Civil amplio que ampare el robo o daños que pudiera sufrir el vehículo durante su traslado.
 
-Los vehículos destinados para prestar el servicio de arrastre deberán contar con una antigüedad no mayor a diez años, a partir de su fabricación, o estar autorizado (sic) en los términos de la Ley de Movilidad para el Estado de Oaxaca y su Reglamento.
+Las tarifas del servicio público de arrastre de vehículos deberán ser establecidas por la autoridad competente, garantizando que sean justas y proporcionales. Dichas tarifas deberán publicarse mediante un tabulador oficial de acceso público.
+
+La autoridad competente establecerá procedimientos claros y accesibles para que los ciudadanos puedan presentar quejas en caso de cobros indebidos. En caso de que se detecten cobros excesibos o indebido, los concesionarios serán sancionados conforme a la normativa vigente
+
+Los vehículos destinados para prestar el servicio de arrastre deberán contar con una antigüedad no mayor a diez años, a partir de su fabricación, o estar autorizado en los términos de la Ley de Movilidad para el Estado de Oaxaca y su Reglamento.
+
+Cuando una grúa traslade simultáneamente más de un vehículo de motor, incluyendo motocicletas, el cobro del servicio deberá ajustarse de manera proporcional al número de unidades transportadas. En ningún caso podrá cobrarse a cada vehículo como si hubieera (sic) sido remolcado de manera individual.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE AGOSTO DE 2021)</small>
 
@@ -1714,5 +1718,13 @@ P.O. 24 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 634.- MEDIANTE EL CUAL REFORMA EL TERCER PÁRRAFO Y SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 85 DE LA LEY DE TRÁNSITO Y MOVILIDAD DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 706.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 88 QUATER DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
