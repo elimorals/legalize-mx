@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2025-07-29"
+last_updated: "2025-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -374,6 +374,10 @@ El Ayuntamiento deberá aprobar su bando de policía y gobierno, los reglamentos
 ###### ARTÍCULO 30.
 
 El Ayuntamiento estará integrado por el Presidente Municipal y el número de Síndicos y Regidores que señale la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
+Los municipios regidos por el sistema de partidos políticos deberán instaurar entre sus regidurías una Regiduría de Pueblos y Comunidades Indígenas y Afromexicanas, de la cual su titular deberá ser persona indígena o afromexicana.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
@@ -729,9 +733,21 @@ VI. Crear la Instancia Municipal de la Mujer, que será la encargada de instituc
 
 Para el adecuado funcionamiento de las Instancias Municipales de la Mujer, el Ayuntamiento deberá presupuestar en cada ejercicio fiscal en forma progresiva los montos para su funcionamiento;
 
-VII. Garantizar la implementación de planes y programas tendientes a erradicar la violencia y discriminación hacia las mujeres en el transporte y espacios públicos; debiendo acompañar y vincular con el Ministerio Público a las mujeres que sufran hostigamiento o acoso sexual;
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-VIII. Instituir cárceles o separos municipales, dignas y seguras, garantizando que dichas instalaciones cuenten con las condiciones de salubridad y acorde a sus capacidades presupuestales con pleno respeto a los derechos humanos cuenten con sistemas de videovigilancia activa para la protección de la integridad del detenido.
+VII. Considerar en todas sus acciones y programas, los principios de Autonomía y Autorrealización, Participación, Equidad, Corresponsabilidad, Atención Preferente e Igualdad Sustantiva, en favor de las personas adultas mayores y del respeto íntegro de sus derechos humanos.
+
+VIII. Garantizar la implementación de planes y programas tendientes a erradicar la violencia y discriminación hacia las mujeres en el transporte y espacios públicos; debiendo acompañar y vincular con el Ministerio Público a las mujeres que sufran hostigamiento o acoso sexual;
+
+IX. Instituir cárceles o separos municipales, dignas y seguras, garantizando que dichas instalaciones cuenten con las condiciones de salubridad y acorde a sus capacidades presupuestales con pleno respeto a los derechos humanos cuenten con sistemas de videovigilancia activa para la protección de la integridad del detenido.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+X. Constituir los Consejos Municipales para la Atención de las Personas con Discapacidad, que tienen por objeto la protección de los derechos de las personas con discapacidad, así como de proponer al Ayuntamiento la creación o modificación de políticas, planes, programas o proyectos para el desarrollo pleno de las personas con discapacidad.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 9 DE AGOSTO DE 2025]</small>
+
+Los Consejos Municipales para la Atención de las Personas con Discapacidad, serán presididos por el presidente Municipal y estará integrado por la persona titular del Sistema para el Desarrollo Integral de la Familia Municipal, así como por las Regidurías relacionadas con el desarrollo social, salud, movilidad, educación y seguridad pública.
 
 Además de las atribuciones establecidas en este artículo, los Ayuntamiento tendrá todas aquellas que les confieran los demás ordenamientos jurídicos aplicables y reglamentos municipales.
 
@@ -1648,6 +1664,10 @@ La denominación de cada regiduría corresponderá a la materia que tenga a su c
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
 El Ayuntamiento establecerá en sus respectivos bandos de policía y gobierno así como en los reglamentos municipales las denominaciones o materias de las regidurías, mismas que se harán atendiendo a las necesidades reales del municipio, señalando además las funciones y/o atribuciones de la Regiduría.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
+Lo que confiere al párrafo anterior en relación con los municipios regidos por el sistema de partidos políticos deberán instaurar entre sus regidurías una Regiduría de Pueblos y Comunidades Indígenas y Afromexicanas, de la cual su titular deberá ser persona indígena o afromexicana.
 
 ### CAPÍTULO IV. DE LAS AUTORIDADES AUXILIARES DEL AYUNTAMIENTO
 
@@ -4739,7 +4759,7 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 P.O. 29 DE JULIO DE 2025.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 708.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES, DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA; SE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 708.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES, DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA; SE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
@@ -4753,8 +4773,36 @@ QUINTO. El Consejo Estatal Catastral, deberá instalarse dentro de un plazo no m
 
 El Director General del Instituto Catastral del Estado de Oaxaca deberá convocar la sesión de instalación para dar cumplimiento al presente Decreto.
 
-SEXTO. Los peritos valuadores que hayan sido registrados o renovados en el Padrón de Peritos Valuadores del Instituto Catastral del Estado de Oaxaca, conforme a la convocatoria para “CURSO PARA EL REGISTRO O RENOVACIÓN EN E PADRÓN DE PERITOS VALUADORES DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA PARA EL EJERCICIO 2024”, publicada el 3 de junio de 2024, en el Periódico Oficial del Gobierno del Estado, continuarán ejerciendo conforme al periodo que les fue otorgado por el Instituto Catastral del Estado de Oaxaca.
+SEXTO. Los peritos valuadores que hayan sido registrados o renovados en el Padrón de Peritos Valuadores del Instituto Catastral del Estado de Oaxaca, conforme a la convocatoria para "CURSO PARA EL REGISTRO O RENOVACIÓN EN E PADRÓN DE PERITOS VALUADORES DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA PARA EL EJERCICIO 2024", publicada el 3 de junio de 2024, en el Periódico Oficial del Gobierno del Estado, continuarán ejerciendo conforme al periodo que les fue otorgado por el Instituto Catastral del Estado de Oaxaca.
 
 SÉPTIMO. El titular del Poder Ejecutivo del Estado y el Honorable Congreso del Estado de Oaxaca realizarán las adecuaciones presupuestas que permitan el cumplimiento del presente Decreto.
 
 OCTAVO. Las Secretaría de Finanzas y la Secretaría de Administración del Poder Ejecutivo del Estado, realizarán las adecuaciones presupuestarias que permitan el cumplimiento del presente Decreto.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 697.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN IX DEL APARTADO J DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Comuníquese el presente Decreto a las instancias correspondientes para los efectos legales a que haya lugar.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO. NÚM. 698.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN VII DEL APARTADO J DEL ARTÍCULO 43, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 699.- MEDIANTE EL CUAL ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 30 Y UN PÁRRAFO CUARTO AL ARTÍCULO 75 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Comuníquese el presente Decreto a las instancias correspondientes para los efectos legales a que haya lugar.
