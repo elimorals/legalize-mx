@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-colegio-de-bachilleres-del-estado-de-oaxaca-106
 country: "mx"
 rank: "ley"
 publication_date: "1981-06-27"
-last_updated: "2000-09-23"
+last_updated: "2025-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de junio de 1981.
 
@@ -39,7 +39,7 @@ D E C R E T A
 
 "LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA".
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO PRIMERO.. DISPOSICIONES PRELIMINARES
 
@@ -47,23 +47,23 @@ D E C R E T A
 
 Se crea el "Colegio de Bachilleres del Estado de Oaxaca", COMO ORGANISMO DESCENTRALIZADO DE ENSEÑANZA DE CARACTER ESTATAL, con personalidad jurídica y patrimonio propios, cuyo domicilio será la Ciudad de Oaxaca de Juárez para todos los efectos legales.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 Cuando la presente Ley utilice la palabra "COBAO", se entenderá que indistintamente se refiere al Colegio de Bachilleres del Estado de Oaxaca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 2.
 
 Los objetivos del "COBAO", serán impartir, impulsar y promover la educación media superior en su modalidad bachillerato, apegándose a lo dispuesto por el artículo 3° de la Constitución General de la República, la Ley Federal de Educación y demás ordenamientos vigentes que regulan la materia y sus reglamentos. Para alcanzar estos objetivos tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 I.- Promover, establecer, organizar técnica y administrativamente y sostener planteles educativos de enseñanza media superior en su modalidad bachillerato, en los lugares de la entidad que se considere conveniente;
 
 II.- Establecer convenios de cooperación y coordinación académica, administrativa y de superación profesional con otras instituciones oficiales, descentralizadas o particulares, de tipo educativo, afines con su objetivo.
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 III.- Implementar programas de orientación educativa permanente;
 
@@ -75,39 +75,39 @@ VI.- Promover y difundir las actividades culturales en todas sus manifestaciones
 
 VII.- Establecer las opciones académicas con las modalidades escolar y extra escolar.
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 VIII.- Estimular al personal directivo, docente y administrativo para su superación permanente, procurando la formación profesional y/o técnica en cada nivel; y
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 IX.- Las demás que sean necesarias para el logro de sus objetivos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO SEGUNDO. DEL PATRIMONIO DEL COBAO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 3.
 
 El patrimonio del "COBAO", estará constituido por:
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 I.- Los bienes de todo tipo o naturaleza que expresamente le asignen los Gobiernos Federal, Estatal y Municipal;
 
 II.- Los ingresos que se obtengan por concepto de las cuotas que deban cobrarse por los servicios educativos prestados, o por derechos en la forma y términos legales.
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 III.- Los bienes y demás ingresos que adquiera por cualquier título legal y los rendimientos, recuperaciones y demás ingresos que le generen sus operaciones, actividades o eventos que realice.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO TERCERO.. DE LOS ORGANOS DE GOBIERNO Y DE APOYO TECNICO
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 4.
 
@@ -119,11 +119,11 @@ II.- El Director General; y
 
 III.- Los Directores de cada plantel que establezca el "COBAO".
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO CUARTO. DE LA JUNTA DIRECTIVA
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 5.
 
@@ -153,7 +153,7 @@ IV.- Un Comisario que será el Delegado Contralor adscrito al "COBAO" o el repre
 
 Los suplentes de los integrantes de la Junta Directiva serán los servidores públicos que designe el Titular del Poder Ejecutivo del Estado, con excepción de los representantes de la Secretaría de Educación Pública y de los sectores empresarial y social.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 6.
 
@@ -163,7 +163,7 @@ La Junta Directiva celebrará sesiones ordinarias cuando menos trimestralmente. 
 
 Las convocatorias y el orden del día, se comunicarán por escrito con cinco días hábiles de anticipación tratándose de sesiones ordinarias y de un día natural, si se trata de sesiones extraordinarias; indicando la convocatoria en cada caso, lugar, fecha y hora en que se celebrará la sesión, remitiéndose la documentación correspondiente tratándose de sesiones extraordinarias, se indicará el asunto específico que las motiva.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 7.
 
@@ -199,11 +199,11 @@ XIV.- Observar las normas y bases para la adquisición, arrendamiento y enajenac
 
 XV.- Las demás que determinen las leyes, reglamentos, decretos, acuerdos y disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO QUINTO. DEL DIRECTOR GENERAL
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 8.
 
@@ -219,11 +219,31 @@ I.- Ser Ciudadano mexicano;
 
 II.- Poseer título profesional a nivel licenciatura;
 
-III.- Tener experiencia académica; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE AGOSTO DE 2025)</small>
 
-IV.- Ser de reconocida solvencia moral.
+III. Tener experiencia académica;
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+IV. No haber sido condenada o condenado mediante resolución firme por:
+
+a) Delitos cometidos por razones de género;
+
+b) Violencia familiar; y/o
+
+c) Delitos sexuales.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+V. No estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial; a menos que:
+
+a) Acredite estar al corriente del pago;
+
+b) Cancele en su totalidad la deuda o,
+
+c) Tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 10.
 
@@ -271,33 +291,33 @@ XIV.- Las demás que le señale la Junta Directiva, las leyes, reglamentos, decr
 
 El Director General del "COBAO", para el ejercicio de sus funciones, se auxiliará del personal que se requiera y sea autorizado conforme al presupuesto de egresos y demás normatividad aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO SEXTO. DE LOS DIRECTORES DEL PLANTEL
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 11.
 
 Los Directores de los planteles del "COBAO", son los responsables de la dirección, organización, funcionamiento del plantel, al cual se encuentran adscritos; así mismo son responsables de que en el plantel de su adscripción, se apliquen los planes y programas aprobados en los términos de esta ley.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 12.
 
 Los Directores de los planteles a que se refiere el artículo que antecede, deberán reunir los requisitos que se establecen en el artículo 9 de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO SEPTIMO. DEL CONSEJO TECNICO CONSULTIVO DEL COBAO
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 13.
 
 El Consejo Técnico Consultivo, es el órgano de asesoría y apoyo del "COBAO", en el aspecto académico.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 14.
 
@@ -307,7 +327,7 @@ I.- Los Directores de los planteles del "COBAO"; y
 
 II.- Los Coordinadores Regionales del "COBAO".
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 15.
 
@@ -321,11 +341,11 @@ III.- Acordar los programas sobre actualización y mejoramiento profesional del 
 
 IV.- Las demás facultades que le señale este ordenamiento y su reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO OCTAVO. DEL PERSONAL DOCENTE, ADMINISTRATIVO Y DE CONFIANZA DEL "COBAO"
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 16.
 
@@ -333,19 +353,19 @@ La contratación, remuneración y prestaciones del personal del "COBAO", se har�
 
 Los nombramientos definitivos, se obtendrán mediante concurso de oposición o procedimientos igualmente idóneos, para comprobar la capacidad y eficiencia de los candidatos.
 
-(REUBICADO, P.O. 23 DE SEPTIEMBRE DEL 2000)
+(REUBICADO, P.O. 23 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 17.
 
 El personal de confianza queda sujeto a las cláusulas del contrato respectivo y a las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 18.
 
 Serán considerados trabajadores de confianza, el Director General, Directores y Subdirectores de Area, Coordinadores Regionales, Directores de Plantel, los Jefes y Subjefes de Departamento, Jefes de Materia, Supervisores, Almacenistas, Secretarias Particulares, Asesores, Pagadores, así como las Secretarias del Director General y de los Directores de Area y todos aquellos servidores que desempeñen las actividades que señale el artículo 9° de la Ley Federal del Trabajo.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 19.
 
@@ -355,23 +375,23 @@ Las relaciones laborales del personal del "COBAO", se sujetarán a lo dispuesto 
 
 ###### ARTICULO 20.
 
-(DEROGADO, P.O. 23 SEPTIEMBRE DEL 2000)
+(DEROGADO, P.O. 23 SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 21.
 
-(DEROGADO, P.O. 23 SEPTIEMBRE DEL 2000)
+(DEROGADO, P.O. 23 SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 22.
 
-(DEROGADO, P.O. 23 SEPTIEMBRE DEL 2000)
+(DEROGADO, P.O. 23 SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 23.
 
-(DEROGADO, P.O. 23 SEPTIEMBRE DEL 2000)
+(DEROGADO, P.O. 23 SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 24.
 
-(DEROGADO, P.O. 23 SEPTIEMBRE DEL 2000)
+(DEROGADO, P.O. 23 SEPTIEMBRE DE 2000)
 
 T R A N S I T O R I O.
 
@@ -407,8 +427,16 @@ Al C.....
 
 > <small>N. DE E. A CONTINUACION SE TRANCRIBEN LOS ARTICULOS TRANSISTORIOS DE LOS DECRETOS DE REFORMAS A LA PRRESENTE LEY.</small>
 
-P.O. 23 DE SEPTIEMBRE DEL 2000.
+P.O. 23 DE SEPTIEMBRE DE 2000.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 696.- MEDIANTE EL CUAL ADICIONAN LAS FRACCIONES III Y V, Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9 DE LA LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, para los efectos legales correspondientes.
