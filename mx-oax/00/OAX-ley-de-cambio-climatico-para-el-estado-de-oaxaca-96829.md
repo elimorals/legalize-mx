@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cambio-climatico-para-el-estado-de-oaxaca-96829"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2025-03-31"
+last_updated: "2025-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
 
 Ley publicada en el Extra del Periódico oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -153,37 +153,41 @@ XXIV.- Ordenamiento Ecológico Territorial: Instrumento normativo que regula el 
 
 XXV.- PACMUN: El Plan de Acción Climática Municipal, que es el documento que establece estrategias, lineamientos a seguir en tiempo y espacio, así como los instrumentos, mecanismos y acciones relacionadas al cambio climático en el ámbito municipal;
 
-XXVI.- PEACC: El Programa Estatal de Acción ante el Cambio Climático, que es el documento que establece estrategias, lineamientos a seguir en tiempo y espacio, así como los instrumentos, mecanismos y acciones relacionadas al cambio climático en el ámbito estatal;
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-XXVII.- Protocolo de Kioto: Tratado Internacional derivado de la CMNUCC, que establece compromisos, mecanismos y acciones que tiendan a limitar o reducir las emisiones de gases de efecto invernadero;
+XXVI.- Procuraduría: Procuraduría de Protección al Ambiente del Estado de Oaxaca.
 
-XXVIII.- REDD+: La Reducción de Emisiones por Deforestación y Degradación;
+XXVII.- PEACC: El Programa Estatal de Acción ante el Cambio Climático, que es el documento que establece estrategias, lineamientos a seguir en tiempo y espacio, así como los instrumentos, mecanismos y acciones relacionadas al cambio climático en el ámbito estatal;
 
-XXIX.- Reducciones certificadas de emisiones: Reducciones de emisiones expresadas en toneladas de bióxido de carbono equivalentes y logradas por actividades o proyectos, que fueron certificadas por alguna entidad autorizada para dichos efectos;
+XXVIII.- Protocolo de Kioto: Tratado Internacional derivado de la CMNUCC, que establece compromisos, mecanismos y acciones que tiendan a limitar o reducir las emisiones de gases de efecto invernadero;
 
-XXX.- Registro Estatal de Emisiones: Instrumento de registro a cargo de la Secretaría, de las fuentes de emisiones estatales, los proyectos de reducción de emisiones, así como las transacciones de reducciones certificadas y de permisos de emisión;
+XXIX.- REDD+: La Reducción de Emisiones por Deforestación y Degradación;
 
-XXXI.- Reglamento: El Reglamento de la Ley de Cambio Climático para el Estado de Oaxaca;
+XXX.- Reducciones certificadas de emisiones: Reducciones de emisiones expresadas en toneladas de bióxido de carbono equivalentes y logradas por actividades o proyectos, que fueron certificadas por alguna entidad autorizada para dichos efectos;
 
-XXXII.- Resiliencia: Capacidad de los sistemas naturales o sociales para recuperarse de los efectos derivados de la variabilidad y el cambio climático;
+XXXI.- Registro Estatal de Emisiones: Instrumento de registro a cargo de la Secretaría, de las fuentes de emisiones estatales, los proyectos de reducción de emisiones, así como las transacciones de reducciones certificadas y de permisos de emisión;
 
-XXXIII.- Resistencia: Capacidad de los sistemas naturales o sociales para persistir ante los efectos derivados de la variabilidad y el cambio climático;
+XXXII.- Reglamento: El Reglamento de la Ley de Cambio Climático para el Estado de Oaxaca;
 
-XXXIV.- Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción en su vulnerabilidad y la presencia de un agente perturbador;
+XXXIII.- Resiliencia: Capacidad de los sistemas naturales o sociales para recuperarse de los efectos derivados de la variabilidad y el cambio climático;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+XXXIV.- Resistencia: Capacidad de los sistemas naturales o sociales para persistir ante los efectos derivados de la variabilidad y el cambio climático;
 
-XXXV.- Secretaría: Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca.
+XXXV.- Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción en su vulnerabilidad y la presencia de un agente perturbador;
 
-XXXVI.- Sistema Estatal de Bonos de Emisiones de Carbono: Sistema, que hace posible las transacciones de compra venta de reducciones o captura de emisiones de compuestos de efecto invernadero o de permisos de emisión;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-XXXVII.- SIC: El Sistema de Información Climática;
+XXXVI.- Secretaría: Secretaría del Medio Ambiente, Biodiversidad, Energías y Sostenibilidad.
 
-XXXVIII.- Sumidero: Cualquier proceso o mecanismo que absorbe y/o retiene gases de efecto invernadero;
+XXXVII.- Sistema Estatal de Bonos de Emisiones de Carbono: Sistema, que hace posible las transacciones de compra venta de reducciones o captura de emisiones de compuestos de efecto invernadero o de permisos de emisión;
 
-XXXIX.- Toneladas de bióxido de carbono equivalentes: Unidad de medida de concentración de bióxido de carbono que causaría el mismo forzamiento radiativo medio mundial que mezcla de bióxido de carbono, diversos gases de efecto invernadero y aerosoles; y
+XXXVIII.- SIC: El Sistema de Información Climática;
 
-XL.- Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por actores físicos, sociales, económicos y ambientales.
+XXXIX.- Sumidero: Cualquier proceso o mecanismo que absorbe y/o retiene gases de efecto invernadero;
+
+XL.- Toneladas de bióxido de carbono equivalentes: Unidad de medida de concentración de bióxido de carbono que causaría el mismo forzamiento radiativo medio mundial que mezcla de (sic) bióxido de carbono, diversos gases de efecto invernadero y aerosoles; y
+
+XLI.- Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por actores físicos, sociales, económicos y ambientales.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN Y ESTRUCTURA INSTITUCIONAL EN LAS POLÍTICAS ESTATALES DE CAMBIO CLIMÁTICO
 
@@ -197,9 +201,15 @@ I.- El Gobernador del Estado;
 
 II.- La Secretaría;
 
-III.- La CICC; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-IV.- Los Gobiernos Municipales.
+III.- La CICC;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+IV.- La procuraduría; y,
+
+V.- Los Gobiernos Municipales.
 
 ###### Artículo 5.
 
@@ -255,13 +265,17 @@ X.- La Secretaría de Finanzas;
 
 XI.- Coordinación Estatal de Protección Civil y Gestión de Riesgos;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-XII.- La Secretaría de las Mujeres; y
+XII.- La Secretaría de las Mujeres;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-XIII.- La Coordinación General de Asuntos Internacionales.
+XIII.- La Coordinación General de Asuntos Internacionales; y,
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+XIV.- La Procuraduría
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2024)</small>
 
@@ -1003,17 +1017,21 @@ V.- Incentivar el trabajo realizado por los núcleos de población comunal y eji
 
 ### CAPÍTULO XII. DE LA INSPECCIÓN Y VIGILANCIA, RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 72.
 
-La Secretaría será el órgano competente para realizar actos de inspección y vigilancia en las fuentes emisoras sujetas a reporte, para verificar la información proporcionada, así como su entrega en tiempo y forma, de acuerdo con las disposiciones reglamentarias que de esta Ley se deriven.
+La Procuraduría será el órgano competente para realizar actos de inspección y vigilancia en las fuentes emisoras sujetas a reporte, para verificar la información proporcionada, así como su entrega en tiempo y forma, de acuerdo con las disposiciones reglamentarias que de esta Ley se deriven.
 
 ###### Artículo 73.
 
 Las fuentes emisoras de competencia Estatal están obligadas a reportar sus emisiones a la Secretaría, de acuerdo a las disposiciones de esta Ley y la Ley del Equilibrio Ecológico del Estado de Oaxaca, (sic) demás ordenamientos que de ella deriven.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 74.
 
-Cuando del procedimiento de inspección y vigilancia se desprendan infracciones a esta Ley en materia de los reportes de emisiones, la Secretaría procederá conforme a lo establecido en esta Ley, la Ley del Equilibrio Ecológico del Estado de Oaxaca y la Ley de Justicia Administrativa para el Estado de Oaxaca. Los recursos recaudados se depositarán en el Fondo Estatal para el Cambio Climático, y serán utilizados de acuerdo a lo que estipula esta Ley en su artículo 57.
+Cuando del procedimiento de inspección y vigilancia se desprendan infracciones a esta Ley en materia de los reportes de emisiones, la Procuraduría procederá conforme a lo establecido en esta Ley, la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca y la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca. Los recursos recaudados se depositarán en el Fondo Estatal para el Cambio Climático, y serán utilizados de acuerdo a lo que estipula esta Ley en su artículo 57.
 
 ###### Artículo 75.
 
@@ -1021,9 +1039,11 @@ Las fuentes emisoras que sean sujetas de procedimientos de inspección y vigilan
 
 En caso de no atender lo requerido por la autoridad en el plazo señalado, se harán acreedoras a las sanciones administrativas establecidas en esta Ley y en la Ley del Equilibrio Ecológico del Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 76.
 
-En caso de encontrarse falsedad en la información proporcionada, así como incumplir con los plazos y términos para su entrega, la Secretaría aplicará las sanciones administrativas establecidas en esta Ley y en la Ley del Equilibrio Ecológico del Estado de Oaxaca. La Secretaría tendrá la obligación de hacer del conocimiento de las autoridades competentes dichos actos. En caso de reincidencia, el monto de la multa podrá ser hasta por tres veces del monto originalmente impuesto.
+En caso de encontrarse falsedad en la información proporcionada, así como incumplir con los plazos y términos para su entrega, la Procuraduría aplicará las sanciones administrativas establecidas en esta Ley, Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca y en cualquier otro ordenamiento aplicable. La Procuraduría tendrá la obligación de hacer del conocimiento de las autoridades competentes dichos actos. En caso de reincidencia, el monto de la multa podrá ser hasta por tres veces del monto originalmente impuesto.
 
 ###### Artículo 77.
 
@@ -1041,15 +1061,19 @@ II.- Por negligencia, dolo o mala fe, cuando se altere total o parcialmente la i
 
 Los servidores públicos a que se refiere el presente capítulo serán responsables del manejo de la información a que tengan acceso con motivo de la operación de los registros y, en su caso, serán sancionados conforme (sic) de acuerdo con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y demás leyes aplicables, sin perjuicio de la responsabilidad civil y penal a que haya lugar.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 80.
 
-La inspección y vigilancia se llevará a cabo por personal autorizado, aplicando los procedimientos que para el caso establece la Ley del Equilibrio Ecológico del Estado de Oaxaca.
+La inspección y vigilancia se llevará a cabo por personal autorizado, aplicando los procedimientos que para el caso establece la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca y cualquier otro ordenamiento aplicable.
 
 ### CAPÍTULO XIII. MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 81.
 
-Cuando de las visitas de inspección realizadas a las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte, se determine que existe riesgo inminente derivado de contravenir las disposiciones de la presente Ley y la Ley del Equilibrio Ecológico del Estado de Oaxaca, o cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones, la Secretaría podrá ordenar las medidas de seguridad previstas en la Ley del Equilibrio Ecológico del Estado de Oaxaca.
+Cuando de las visitas de inspección realizadas a las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte, se determine que existe riesgo inminente derivado de contravenir las disposiciones de la presente Ley y la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, o cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones, la Procuraduría podrá ordenar las medidas de seguridad previstas en la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca.
 
 ### CAPÍTULO XIV. TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -1176,3 +1200,11 @@ P.O. 31 DE MARZO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 705.- MEDIANTE EL CUAL REFORMA MEDIANTE EL CUAL REFORMA LA AHORA FRACCIÓN XXXVI DEL ARTÍCULO 3, LA FRACCIÓN III DEL ARTÍCULO 4, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 7, Y LOS ARTÍCULOS 72, 74, 76, 80 Y 81; Y SE ADICIONA LA FRACCIÓN XXVI RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 3, LA FRACCIÓN IV RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 4 Y LA FRACCIÓN XIV AL ARTÍCULO 7 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
