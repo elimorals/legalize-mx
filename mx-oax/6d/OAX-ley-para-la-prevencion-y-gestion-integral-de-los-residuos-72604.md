@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2025-05-24"
+last_updated: "2025-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -47,17 +47,19 @@ La presente Ley es reglamentaria del artículo 12 y demás disposiciones de la C
 
 Sus disposiciones son de orden público y de interés social y tienen por objeto garantizar el derecho de toda persona a un medio ambiente adecuado para su desarrollo, salud y bienestar a través de la gestión integral de los residuos sólidos urbanos y de los residuos de manejo especial, así como la remediación de la contaminación de sitios dentro del territorio del Estado por dichos residuos.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 2º.
 
 Son de aplicación supletoria a la presente Ley, los siguientes ordenamientos legales:
 
-I. La Ley de Justicia Administrativa para el Estado Libre y Soberano de Oaxaca;
+I. La Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca;
 
-II. El Código de Procedimientos Civiles del Estado Libre y Soberano de Oaxaca;
+II. El Código de Procedimientos Civiles para el Estado de Oaxaca;
 
-III. La Ley del Equilibrio Ecológico del Estado de Oaxaca;
+III. La Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca;
 
-IV. La Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca; y
+IV. La Ley de Derechos de los Pueblos y Comunidades Indígenas y Afromexicano (sic) del Estado de Oaxaca; y
 
 V. Las demás Leyes relacionadas con la materia.
 
@@ -97,7 +99,9 @@ III. Almacenamiento separado: La acción de depositar residuos sólidos urbanos 
 
 IV. Aprovechamiento de los residuos: El conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos sólidos urbanos y de los residuos de manejo especial mediante su reutilización, remanufactura, rediseño, reciclado y recuperación de materiales y/o de energía;
 
-V. Autoridades comunitarias: Aquellas que los pueblos y comunidades indígenas reconocen como tales en base a sus sistemas normativos internos, las cuales pueden o no coincidir con las autoridades municipales, en los términos de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+V. Autoridades comunitarias: Aquellas que los pueblos y comunidades indígenas reconocen como tales en base a sus sistemas normativos internos, las cuales pueden o no coincidir con las autoridades municipales, en los términos de la Ley de Derechos de los Pueblos y Comunidades Indígenas y Afromexicano (sic) del Estado de Oaxaca;
 
 VI. Biogás: El conjunto de gases generados por la descomposición microbiológica de la materia orgánica;
 
@@ -723,9 +727,9 @@ c) La armonización de sus actividades de prevención, protección, restauració
 
 d) La conformación de Comités de Vigilancia de programas y acciones de manejo y gestión integral de residuos sólidos urbanos y de manejo especial, así como de remediación de sitios contaminados, en los que intervengan personal de la SECRETARÍA, autoridades municipales y representantes de pueblos y comunidades indígenas designados por las autoridades comunitarias correspondientes.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
-En los mecanismos, instrumentos y acciones que se implementen para la participación de los pueblos y comunidades indígenas, la SECRETARÍA y las autoridades municipales considerarán sus usos y costumbres, y respetarán su autonomía conforme lo establecido en la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
+En los mecanismos, instrumentos y acciones que se implementen para la participación de los pueblos y comunidades indígenas, la SEMAEDESO y las autoridades municipales considerarán sus usos y costumbres, y respetarán su autonomía conforme lo establecido en la Ley de Derechos de los Pueblos y Comunidades Indígenas y Afromexicano (sic) del Estado de Oaxaca.
 
 ### CAPÍTULO V. DE LA CULTURA, EDUCACIÓN Y CAPACITACIÓN
 
@@ -865,7 +869,9 @@ En la prestación del servicio público de limpia se deberán establecer medidas
 
 ###### Artículo 48.
 
-El servicio público de limpia, incluyendo la construcción, operación y mantenimiento de rellenos sanitarios, podrán ser objeto de concesión a particulares, en los términos y condiciones establecidos en la Ley Municipal del Estado de Oaxaca y demás disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2025)</small>
+
+El servicio público de limpia, incluyendo la construcción, operación y mantenimiento de rellenos sanitarios, podrán ser objeto de concesión a particulares, en los términos y condiciones establecidos en la Ley Orgánica Municipal del Estado de Oaxaca y demás disposiciones aplicables.
 
 Los particulares que realicen la prestación del servicio público de limpia mediante concesión se deberán apegar a lo dispuesto en esta Ley, su Reglamento, las Normas Oficiales Mexicanas, Normas Ambientales Estatales y las disposiciones legales y municipales que resulten aplicables.
 
@@ -1123,7 +1129,9 @@ La SECRETARÍA otorgará las autorizaciones por tiempo determinado y, en su caso
 
 El plazo para la resolución de solicitudes de autorización será de 45 días hábiles contados a partir del día siguiente a aquel en que la SECRETARÍA reciba la solicitud.
 
-Las solicitudes no resueltas en este plazo se entenderán en sentido negativo a los intereses de los solicitantes. Esta situación podrá ser impugnada a través del recurso de revisión previsto en la Ley de Justicia Administrativa del Estado o a través de las vías jurisdiccionales correspondientes.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
+Las solicitudes no resueltas en este plazo se entenderán en sentido negativo a los intereses de los solicitantes. Esta situación podrá ser impugnada a través del recurso de revisión previsto en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca o a través de las vías jurisdiccionales correspondientes.
 
 ###### Artículo 78.
 
@@ -1347,11 +1355,11 @@ La SECRETARÍA está facultada para instaurar procedimientos de inspección y vi
 
 En materia de residuos de manejo especial, para verificar y comprobar el cumplimiento de esta Ley, la SECRETARÍA, en coordinación con las autoridades municipales, realizará a través de personal autorizado los actos de inspección y vigilancia que consideren necesarios.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 101.
 
-Por lo que hace a los requisitos y formalidades a observar en la realización de visitas de inspección y vigilancia por parte de la SECRETARÍA, son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo III del Título Sexto de la Ley del Equilibrio Ecológico del Estado, y las relativas y aplicables de la Ley de Justicia Administrativa del Estado.
+Por lo que hace a los requisitos y formalidades a observar en la realización de visitas de inspección y vigilancia por parte de la SEMAEDESO, son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo I del Título Séptimo de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, y las relativas y aplicables de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 ### CAPÍTULO II. MEDIDAS CORRECTIVAS, DE SEGURIDAD O DE URGENTE APLICACIÓN
 
@@ -1527,11 +1535,11 @@ I. Un 50% a la integración de un fondo para la remediación de sitios contamina
 
 II. El 50% restante a la integración de un fondo para el fortalecimiento de la función de inspección y vigilancia que realiza la SECRETARÍA o en su caso la autoridad municipal correspondiente, en las materias de su competencia a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 114.
 
-La SECRETARÍA podrá aplicar lo dispuesto en el último párrafo del artículo 158 de la Ley del Equilibrio Ecológico del Estado para los efectos de conmutación de penas.
+La SEMAEDESO podrá aplicar lo dispuesto en el último párrafo del artículo 241 de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca para los efectos de conmutación de penas.
 
 ## TÍTULO DÉCIMO. DENUNCIA POPULAR Y RECURSO DE REVISIÓN
 
@@ -1551,9 +1559,11 @@ II. Contravenga las disposiciones de la presente Ley, su Reglamento, las demás 
 
 Para estos efectos las personas interesadas deberán presentar denuncia popular de manera verbal o por escrito. Si en la localidad no existiera representación de la SECRETARÍA, la denuncia se podrá formular ante la autoridad municipal correspondiente. Si la denuncia fuera presentada ante la autoridad municipal y resulta del orden estatal, deberá ser remitida a la SECRETARÍA para su atención y trámite respectivos.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 116.
 
-Para el trámite, substanciación y resolución de las denuncias populares presentadas por los interesados, serán aplicables las disposiciones del Capítulo II del Título Sexto de la Ley del Equilibrio Ecológico del Estado.
+Para el trámite, substanciación y resolución de las denuncias populares presentadas por los interesados, serán aplicables las disposiciones del Capítulo V del Título Séptimo de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca.
 
 ### CAPÍTULO II. DEL RECURSO DE REVISIÓN
 
@@ -1565,9 +1575,11 @@ Las resoluciones definitivas dictadas por la SECRETARÍA o la autoridad municipa
 
 El recurso de revisión se interpondrá directamente ante la Unidad administrativa de la SECRETARÍA o autoridad municipal que haya emitido el acto recurrido la que, en su caso, lo admitirá y determinará el otorgamiento o la denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico para su resolución definitiva. En los casos de que la resolución impugnada haya sido impuesta por la máxima autoridad de la SECRETERÍA (SIC) o de la autoridad municipal, el recurso será resuelto por dicha autoridad.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 118.
 
-Por lo que se refiere a los demás trámites relativos a la substanciación del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley de Justicia Administrativa para el Estado de Oaxaca, y en las disposiciones relativas y aplicables del Código de Procedimientos Civiles para el Estado Libre y Soberano de Oaxaca.
+Por lo que se refiere a los demás trámites relativos a la substanciación del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y en las disposiciones relativas y aplicables del Código de Procedimientos Civiles para el Estado de Oaxaca.
 
 T R A N S I T O R I O S:
 
@@ -1738,5 +1750,13 @@ P.O. 24 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 633.- MEDIANTE EL CUAL REFORMA DIVERSAS DISPOSICIONES Y SE ADICIONA EL ARTÍCULO 36 BIS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 704.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 2°, LA FRACCIÓN V DEL ARTÍCULO 5º, EL SEGUNDO PÁRRAFO DEL INCISO D) DE LA FRACCIÓN IX DEL ARTÍCULO 34, EL PRIMER PÁRRAFO DEL ARTÍCULO 48, EL CUARTO PÁRRAFO DE LA FRACCIÓN VI DEL ARTÍCULO 77, Y LOS ARTÍCULOS 101, 114, 116 Y 118 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
