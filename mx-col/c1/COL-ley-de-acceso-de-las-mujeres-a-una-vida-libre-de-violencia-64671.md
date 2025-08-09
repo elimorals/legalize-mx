@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2024-09-09"
+last_updated: "2025-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -613,9 +613,9 @@ ARTÍCULO 30 QUINQUIES.- Las autoridades estatales, municipales, los organismos 
 
 #### SECCIÓN OCTAVA. VIOLENCIA DIGITAL
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
-ARTÍCULO 30 SEXIES.- Violencia Digital, es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico (sic), o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
+ARTÍCULO 30 SEXIES.- Violencia Digital, es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, inteligencia artificial o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie, comparta o genere imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2022)</small>
 
@@ -706,6 +706,14 @@ VII.- Simbólica.- Todo acto que a través de patrones estereotipados, mensajes,
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
 VIII.- Violencia por ataques con ácido, sustancias químicas o corrosivas.- Es cualquier acción u omisión que cause o busque causar daño no accidental arrojando, derramando o poniendo en contacto con algún tipo de gas, compuestos químicos, ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en determinadas condiciones pueda provocar lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+IX.- Violencia Digital por Inteligencia Artificial.- A quien haciendo uso de la inteligencia artificial manipule imágenes, audios y/o videos de una persona, con el fin de crear hechos falsos con apariencia real de índole sexual o con fines lascivos, con el objeto de exponer, distribuir, difundir, transmitir, reproducir, comercializar, intercambiar, almacenar y/o compartir a través de cualquier medio, ya sea digital o físico, sin consentimiento expreso y voluntario de la persona.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+X.- Inteligencia Artificial.- Las aplicaciones, programas o tecnología que analicen y/o procesen fotografías, audios o videos y que realicen ajustes automáticos para hacer alteraciones o modificaciones con el fin de crear nuevas imágenes, audios y/o videos.
 
 ## TÍTULO TERCERO. DE LOS MECANISMOS GARANTES
 
@@ -2340,3 +2348,11 @@ P.O. 9 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. La Secretaría de Salud contará con un lapso no mayor a 180 días a la entrada en vigor del presente Decreto para coordinarse con las autoridades correspondientes a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 150.- POR EL QUE SE REFORMA EL ARTÍCULO 30 SEXIES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
