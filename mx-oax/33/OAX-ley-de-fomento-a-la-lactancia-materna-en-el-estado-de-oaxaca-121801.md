@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-la-lactancia-materna-en-el-estado-de-oaxaca-12
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-12"
-last_updated: "2024-08-28"
+last_updated: "2025-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LA LACTANCIA MATERNA EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 12 de mayo de 2017.
 
@@ -269,13 +269,27 @@ Los espacios de lactancia deberán garantizar condiciones para alimentar al beb�
 
 La Secretaría será la encargada de vigilar y controlar la implementación y funcionamiento de los espacios de lactancia en las instituciones públicas y privadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO 23.
 
-Para la implementación de los espacios de lactancia deberán observar lo siguiente:
+Para la implementación de los espacios de lactancia, tanto las instituciones públicas como privadas, así como las empresas privadas y cualquier otro centro de trabajo, deberán observar lo siguiente:
 
-I. Brindar suficiente espacio para varias mujeres, en forma simultánea.
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-II. Garantizar un ambiente de privacidad y comodidad para las mujeres
+I. Procurar que cuente con los recursos materiales suficientes para su funcionamiento, así como de material informativo, con la finalidad de minimizar los riesgos de contaminación.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+II. Garantizar que el uso del espacio de lactancia sea exclusivamente para el amamantamiento, la extracción y conservación de la leche materna durante la jornada laboral.
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+III. Brindar espacio suficiente para varias mujeres, en forma simultánea.
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+IV. Garantizar un ambiente de privacidad y comodidad para las mujeres.
 
 ###### ARTÍCULO 24.
 
@@ -316,3 +330,11 @@ P.O. 28 DE AGOSTO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETÓ NÚM. 709.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN LAS FRACCIONES I Y II RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 23 DE LA LEY DE FOMENTO A LA LACTANCIA MATERNA EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
