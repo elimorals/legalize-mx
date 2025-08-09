@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2024-12-31"
+last_updated: "2025-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -2149,13 +2149,13 @@ XXVIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 XXIX. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-XXX. Otorgar la certificación de origen a los productos de origen oaxaqueño, que cumplan con los requisitos que para tal efecto se establezcan; y
+XXX. Otorgar la certificación de origen a los productos de origen oaxaqueño, que cumplan con los requisitos que para tal efecto se establezcan;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-XXXI. Integrar y promover el catálogo de la oferta de productos del Estado, que cuenten con las certificaciones necesarias y/o cumplan con la normatividad respectiva para su comercialización;
+XXXI. Integrar y promover el catálogo de la oferta de productos del Estado que cuenten con las certificaciones necesarias y/o cumplan con la normatividad respectiva para su comercialización;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
 
@@ -2165,33 +2165,41 @@ XXXII. Promover e impulsar el desarrollo de la economía social en el Estado;
 
 XXXIII. Fomentar la cultura de responsabilidad social y la sustentabilidad en el sector económico del Estado;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-XXXIV. Instrumentar una red empresarial de apoyo que coadyuve al impulso y consolidación del desarrollo económico en el Estado;
+XXXIV. Impulsar el modelo de prosperidad compartida para lograr un crecimiento económico equitativo, sustentable y sostenible;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-XXXV. Diseñar, formular, desarrollar y ejecutar políticas, estrategias, programas y acciones de fomento y apoyo a la cultura emprendedora;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXXVI. Fomentar la cultura emprendedora a través de la organización de cursos, conferencias, exposiciones, ferias, foros y en general eventos que impulsen la generación de nuevas iniciativas emprendedoras y la exposición de productos de origen oaxaqueño;
+XXXV. Proponer e impulsar el desarrollo empresarial sostenible a través de estrategias, prácticas y políticas públicas, con enfoque de sustentabilidad y respeto de los derechos laborales y humanos;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
 
-XXXVII. Promover, estimular e impulsar el desarrollo del Corredor Interoceánico del Istmo de Tehuantepec, así como en los polos de desarrollo para el bienestar, corredores, puertos y zonas estratégicas dentro del Estado;
+XXXVI. Instrumentar una red empresarial de apoyo que coadyuve al impulso y consolidación del desarrollo económico en el Estado;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
 
-XXXVIII. Promover, fomentar y, en su caso, participar en la creación de parques, corredores y ciudades industriales, puertos y polos de desarrollo, de competencia estatal;
+XXXVII. Diseñar, formular, desarrollar y ejecutar políticas, estrategias, programas y acciones de fomento y apoyo a la cultura emprendedora;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
 
-XXXIX. Otorgar o administrar becas, apoyos, subsidios e incentivos que contribuyan al desarrollo económico del Estado;
+XXXVIII. Fomentar la cultura emprendedora a través de la organización de cursos, conferencias, exposiciones, ferias, foros y en general eventos que impulsen la generación de nuevas iniciativas emprendedoras y la exposición de productos de origen oaxaqueño;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXXIX. Promover, estimular e impulsar el desarrollo del Corredor Interoceánico del Istmo de Tehuantepec, así como en los polos de desarrollo para el bienestar, corredores, puertos y zonas estratégicas dentro del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XL. Promover, fomentar y, en su caso, participar en la creación de parques, corredores y ciudades industriales, puertos y polos de desarrollo, de competencia estatal;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XLI. Otorgar o administrar becas, apoyos, subsidios e incentivos que contribuyan al desarrollo económico del Estado;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE ENERO DE 2024)</small>
 
-XL. Las demás que en el ámbito de su competencia le confiere directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
+XLII. Las demás que en el ámbito de su competencia le confiere directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -4274,3 +4282,11 @@ SÉPTIMO. En un plazo de treinta días naturales posteriores a la entrada en vig
 OCTAVO. En un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública deberán adecuar y armonizar su normatividad respectiva para el cumplimiento del presente Decreto.
 
 NOVENO. Los Ayuntamientos, deberán emitir la normatividad aplicable a sus Padrones de Contratistas Municipales, en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 695.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XXX Y XXXI Y SE ADICIONAN LAS FRACCIONES XXXIV Y XXXV RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 46-A, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
