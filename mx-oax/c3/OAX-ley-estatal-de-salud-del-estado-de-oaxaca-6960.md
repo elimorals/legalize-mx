@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2025-04-12"
+last_updated: "2025-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -235,7 +235,9 @@ El Sistema Estatal de Salud está constituido por las dependencias y entidades d
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+I.- Proporcionar servicios de salud a toda la población del Estado con perspectiva de género e interseccionalidad y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
 
 II.- Contribuir al desarrollo demográfico armónico del Estado;
 
@@ -1051,13 +1053,17 @@ IV.- Los programas de prevención del maltrato infantil y de la violencia intraf
 
 V.- La atención de los menores de 6 años, para que reciban la adecuada estimulación temprana de acuerdo con las normas técnicas que para tal efecto expida la Secretaría de Salud con el objetivo de potenciar sus capacidades de cognición, actividad motriz y el lenguaje;
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-VI.- La lactancia materna, para lo cual impulsarán la creación de espacios dignos, higiénicos y cálidos dentro de sus instalaciones, para que las madres puedan amamantar a sus hijas e hijos o en su caso extraer su leche y conservarla para suministrarla posteriormente; y
+VI.- La lactancia materna, para lo cual impulsarán la creación de espacios dignos, higiénicos y cálidos dentro de sus instalaciones, para que las madres puedan amamantar a sus hijas e hijos o en su caso extraer su leche y conservarla para suministrarla posteriormente;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+VII.- Los programas específicos de detección y prevención de la depresión y la ansiedad.
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
-VII. Las demás que coadyuven a la salud infantil.
+VIII.- Las demás que coadyuven a la salud infantil.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1309,11 +1315,15 @@ XIII.- Establecer alianzas estratégicas con los diversos medios de comunicació
 
 XIV.- Realizar acciones de capacitación, a través de la implementación de talleres psicoeducativos y de sensibilización para el manejo de los temas de salud mental con responsabilidad social y para que éstos sean abordados de manera profesional e informada, evitando contenidos que puedan generar confusión en la sociedad respecto a este tema;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
-XV.- Desarrollar y establecer acciones de difusión en los medios de comunicación sobre la salud mental, encaminadas a reducir el estigma de los trastornos mentales y expresar información veraz y objetiva para fomentar los valores que contribuyan en la prevención y atención del suicidio; y
+XV.- Desarrollar y establecer acciones de difusión en los medios de comunicación sobre la salud mental, en lenguas indígenas y desde una visión sensible a la diversidad cultural, encaminadas a reducir el estigma de los trastornos mentales y expresar información veraz y objetiva para fomentar los valores que contribuyan en la prevención y atención de la depresión, la ansiedad y el suicidio;
 
-XVI.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
+
+XVI.- La implementación de acciones específicas de detección de la depresión y la ansiedad; y
+
+XVII.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
 
@@ -1357,15 +1367,33 @@ c) Implementar programas de atención, contención y rehabilitación para person
 
 VII. Promover líneas de investigación relacionados con la identificación detallada de riesgos psicosociales y factores de riesgo suicida;
 
-VIII. Establecer estrategias de corresponsabilidad con la Secretaría de Educación Pública en materia de prevención del suicidio, con la finalidad de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE AGOSTO DE 2025)</small>
 
-a) Involucrar en todos los niveles académicos una cultura de prevención del suicidio;
+VIII. Establecer estrategias de corresponsabilidad con la Secretaría de Educación Pública en materia de atención integral de la salud mental, prevención del suicidio, con la finalidad de:
 
-b) Establecer redes de captación de referencia y contra referencia de casos de alto riesgo como lo son alcohol, drogas, violencia, trastornos mentales y enfermedades médicas;
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
-c) Capacitar en el desarrollo de empatía a las personas educadoras para la intervención en estudiantes en riesgo; y
+a) Involucrar en todos los niveles académicos la importancia del bienestar, la educación socioemocional, la resiliencia, el cuidado de la salud mental, el fortalecimiento de la autoestima y la prevención del suicidio;
 
-d) Desarrollar un modelo escolar implementando la integración de padres, estudiantes y autoridades sobre la atención de salud mental y prevención del suicidio; así como el aviso a familiares después de una crisis emocional o conductual y de riesgo suicida.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
+b) Establecer redes de captación de referencia y contra referencia de casos de alto riesgo como lo son el alcohol, drogas, violencia, trastornos de salud mental y enfermedades médicas;
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
+c) Capacitar al personal docente y administrativo de educación básica y hasta educación superior, respecto de la detección de factores de riesgo que alteren la salud emocional de la comunidad escolar y sociedad en general.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
+d) Desarrollar un modelo escolar implementado (sic) la integración de padres, tutores, estudiantes, maestros y autoridades sobre la atención de la salud mental y prevención del suicidio; así como el aviso a familiares o tutores después de una crisis emocional o conductual y de riesgo suicida.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
+e) Contribuir a la promoción de mensajes que fomenten la eliminación de estigmas relacionados con los trastornos de salud mental y el comportamiento suicida.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2025)</small>
+
+f) Desarrollar estrategias para integrar información sobre posibles casos de depresión detectadas en las escuelas y ejecutar acciones inmediatas para su atención.
 
 IX. Generar estrategias con los medios de comunicación, para que, como parte de su política de responsabilidad social, contribuyan a sensibilizar, concientizar e informar a la población, desde un enfoque de prevención, sobre factores de riesgo psicosocial que de forma directa o indirecta están asociados con el pensamiento suicida, sobre la sintomatología asociada a las ideas o conducta suicida, y sobre otras manifestaciones que evidencien un trastorno emocional y/o conductual que pueda convertirse en un factor predisponente, precipitante o que incremente la probabilidad de que se presente en la persona una conducta suicida. De igual forma, contribuir a promover mensajes que induzcan a eliminar estigmas relacionados con los trastornos mentales y la conducta suicida.
 
@@ -4576,3 +4604,19 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 12 DE ABRIL DE 2025.
 
 > <small>[N. DE E. EL "DECRETO NÚM. 602.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 31; LA FRACCIÓN II DEL ARTÍCULO 56; LAFRACCIÓN VI AL ARTÍCULO 60; LA FRACCIÓN III AL ARTÍCULO 94 Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 31; LA FRACCION VII, RECORRIENDO LA SUBSECUENTE AL ARTICULO 60; Y EL ARTICULO 312 BIS, TODOS DE LA LEY ESTATAL DE SALUD", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTA EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]</small>
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 710.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 6 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 711.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VII DEL ARTÍCULO 60, LA FRACCIÓN XV DEL ARTÍCULO 67, Y LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN VIII DEL ARTÍCULO 67 BIS; SE ADICIONA LA FRACCIÓN VIII RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 60, LA FRACCIÓN XVI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 67; SE REFORMAN Y SE ADICIONAN LOS INCISOS E) Y F) A LA FRACCIÓN VIII DEL ARTÍCULO 67 BIS TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
