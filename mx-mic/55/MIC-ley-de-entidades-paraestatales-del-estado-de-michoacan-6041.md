@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-entidades-paraestatales-del-estado-de-michoacan-6041"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-30"
-last_updated: "2017-07-18"
+last_updated: "2025-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2017.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 30 de marzo de 1992.
 
@@ -47,11 +47,11 @@ La presente Ley tiene por objeto regular la organización, funcionamiento y cont
 
 Las relaciones del Ejecutivo del Estado o de sus dependencias con las entidades paraestatales, en cuanto unidades auxiliares de la administración pública estatal, se sujetarán en primer término, a lo establecido en esta Ley y sus disposiciones reglamentarias y sólo en lo no previsto a otras disposiciones según la materia que corresponda.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 2o.
 
-Son entidades paraestatales las que se mencionan en el artículo 46 de la Ley Orgánica de la Administración Pública del Estado.
+Son entidades paraestatales las que se mencionan en el artículo 37 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo.
 
 ###### ARTICULO 3o.
 
@@ -654,3 +654,9 @@ Los integrantes del Comité de Participación Ciudadana a que se refieren los in
 La sesión de instalación del Comité, se llevará a cabo dentro del plazo de sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
 
 La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los sesenta días siguientes a la sesión de instalación del Comité. Para tal efecto, el Ejecutivo del Estado, proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+
+P.O. 11 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 201 POR EL QUE “SE REFORMA EL ARTÍCULO 2° DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE MICHOACÁN”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
