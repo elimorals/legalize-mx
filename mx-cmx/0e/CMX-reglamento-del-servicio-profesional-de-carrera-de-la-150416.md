@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-profesional-de-carrera-de-la-150416"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-07-22"
-last_updated: "2025-03-28"
+last_updated: "2025-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150416&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-30"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE AGOSTO DE 2025.
 
 Reglamento publicado en el Número 645 de la Gaceta Oficial de la Ciudad de México, el jueves 22 de julio de 2021.
 
@@ -58,9 +58,13 @@ II. Permanencia;
 
 III. Promoción;
 
-IV. Estímulos; y
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
 
-V. Separación.
+IV. Estímulos y Reconocimientos; y
+
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+V. Terminación del Servicio Profesional de Carrera.
 
 ###### Artículo 4.
 
@@ -94,13 +98,19 @@ XIII. Reglamento de la Ley: El Reglamento de la Ley Orgánica de la Fiscalía Ge
 
 XIV. Personal Sustantivo: Las personas Agentes del Ministerio Público, Peritos y Policías de Investigación de la Fiscalía General, sujetos al Servicio Profesional de Carrera;
 
-XV. Servicio Profesional de Carrera: El Servicio Profesional de Carrera del personal sustantivo de la Fiscalía General, definido como el sistema integral de regulación del empleo público del personal sustantivo que presta sus servicios en la Fiscalía General, que comprende el ingreso, permanencia, promoción, estímulos y separación; y
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
 
-XVI. Unidades Administrativas: Aquellas dotadas de atribuciones de decisión y ejecución, tales como las Coordinaciones Generales, Unidades, Direcciones Generales, Direcciones Ejecutivas y cualquier otra, que sin importar su denominación, lleven a cabo las facultades establecidas en la Ley Orgánica, el Reglamento de la Ley Orgánica, el Manual Administrativo y cualquier otro ordenamiento, tales como la Unidad de Implementación, la Unidad de Asuntos Internos, el Órgano de Política Criminal, la Jefatura General de la Policía de Investigación, la Supervisión General de Liquidación de Casos, el Instituto de Formación Profesional y Estudios Superiores, el Órgano Interno de Control, y la Subprocuraduría de Procesos.
+XV. Servicio Profesional de Carrera: El Servicio Profesional de Carrera del personal sustantivo de la Fiscalía General, definido como el sistema integral de regulación del empleo público del personal sustantivo que presta sus servicios en la Fiscalía General, que comprende el ingreso, permanencia, promoción, estímulos, reconocimiento y terminación del Servicio Profesional de Carrera; y
+
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+XVI. Unidades Administrativas: Aquellas dotadas de atribuciones de decisión y ejecución, tales como las Coordinaciones Generales, Unidades, Fiscalías, Direcciones Generales, Direcciones Ejecutivas y cualquier otra, que sin importar su denominación, lleven a cabo las facultades establecidas en la Ley Orgánica, el Reglamento de la Ley Orgánica, el Manual Administrativo y cualquier otro ordenamiento, tales como la Unidad de Implementación, la Unidad de Asuntos Internos, el Órgano de Política Criminal, la Jefatura General de la Policía de Investigación, el Instituto de Formación Profesional y Estudios Superiores, y el Órgano Interno de Control.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 5.
 
-Corresponde a la persona Titular de la Fiscalía General emitir las Convocatorias previstas en el presente Reglamento, así como designar al personal a que se refiere el artículo 98 del presente Reglamento.
+Corresponde al Consejo de Profesionalización aprobar las Convocatorias para el ingreso y promoción previstas en el presente Reglamento, a propuesta del Instituto.
 
 Corresponde al Instituto diseñar e implementar el Servicio Profesional de Carrera, atendiendo las directrices que establezca la persona Titular de la Fiscalía General y el Consejo de Profesionalización.
 
@@ -136,7 +146,9 @@ IV. Tiene como objetivos principales, la formación, la profesionalización, la 
 
 V. Garantiza el respeto a los derechos del personal sustantivo, considera la igualdad de oportunidades entre mujeres y hombres, establece reglas para una remuneración adecuada, seguridad social, compensaciones e incentivos adecuados;
 
-VI. Establece reglas para ejecutar los procesos de ingreso, permanencia, promoción, otorgamiento de estímulos y separación, así como los mecanismos de reclutamiento, selección, evaluación del desempeño, evaluación de conocimientos, evaluación de competencias, certificación, formación inicial, formación continua, profesionalización, entre otros, del personal sustantivo, en términos de lo dispuesto por la Constitución Federal, la Constitución Local, la Ley General del Sistema, la Ley del Sistema, el presente Reglamento y las demás disposiciones aplicables;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+VI. Establece reglas para ejecutar los procesos de ingreso, permanencia, promoción, otorgamiento de estímulos, reconocimientos y Terminación del servicio Profesional de Carrera, así como los mecanismos de reclutamiento, selección, evaluación del desempeño, evaluación de conocimientos, evaluación de competencias, certificación, formación inicial, formación continua, profesionalización, entre otros, del personal sustantivo, en términos de lo dispuesto por la Constitución Federal, la Constitución Local, la Ley General del Sistema, la Ley del Sistema, el presente Reglamento y las demás disposiciones aplicables;
 
 VII. El contenido teórico y práctico de los planes, programas, cursos, evaluaciones y exámenes tiene como objetivo, que el personal sustantivo logre la profesionalización y ejerza sus atribuciones, con base en los principios previstos en la Constitución Federal, en la Constitución Local y en la Ley;
 
@@ -146,11 +158,17 @@ IX. Promueve el aprendizaje y el desarrollo de los conocimientos, habilidades, d
 
 X. Garantiza la transparencia en la ejecución específica de los procesos y mecanismos que componen el Servicio Profesional de Carrera;
 
-XI. Determina criterios conforme a los cuales se elabora el catálogo y perfiles del personal sustantivo en sus diferentes niveles y rangos;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
 
-XII. Garantiza la igualdad de oportunidades de desarrollo y fomenta la paridad de género, así como la permanencia y la promoción del personal sustantivo, con base en el perfil, mérito profesional, trayectoria y experiencia; y
+XI. Determina criterios conforme a los cuales se elabora el catálogo y perfiles del personal sustantivo en sus diferentes niveles y categorías;
 
-XIII. Contribuye a generar identidad y sentido de pertenencia institucional en el personal sustantivo.
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+XII. Garantiza la igualdad de oportunidades de desarrollo y fomenta la paridad de género, así como la permanencia y la promoción del personal sustantivo, con base en el perfil, mérito profesional, trayectoria y experiencia;
+
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+XIII. Contribuye a generar identidad y sentido de pertenencia institucional en el personal sustantivo;
 
 > <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2021)</small>
 
@@ -250,9 +268,11 @@ El Servicio Profesional de Carrera del personal policial de la Fiscalía General
 
 El ingreso es el proceso institucional por el que se incorpora a la Fiscalía General al personal sustantivo en las ramas ministerial, pericial o policial; se ejecuta mediante convocatoria pública, y se integra por los mecanismos de Reclutamiento, Selección y Formación Inicial, así como los procedimientos y actividades previstas en el presente Reglamento y en la Convocatoria respectiva.
 
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 12.
 
-En el ingreso se verificará el cumplimiento de los requisitos y el perfil requerido con apego a criterios de imparcialidad, objetividad e igualdad de oportunidades.
+En el ingreso se verificará el cumplimiento de los requisitos que establece el artículo 18 de este Reglamento y la convocatoria respectiva, con apego a criterios de imparcialidad, objetividad e igualdad de oportunidades.
 
 ###### Artículo 13.
 
@@ -262,15 +282,19 @@ Las personas servidoras públicas de la Fiscalía General que intervengan en cua
 
 El ingreso del personal sustantivo será al primer nivel de la categoría básica de la rama que corresponda, de conformidad con lo dispuesto en el artículo 8 del presente Reglamento.
 
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 15.
 
-Las convocatorias públicas para el ingreso serán aprobadas por el Consejo de Profesionalización, a propuesta del Instituto, de conformidad con la disponibilidad presupuestal y vacantes que determine la Coordinación General; se publicarán en las páginas electrónicas de la Fiscalía General y del Instituto, y en los medios de difusión que determine el Consejo de Profesionalización.
+Las convocatorias públicas para el ingreso serán aprobadas por el Consejo de Profesionalización, a propuesta del Instituto, de conformidad con la disponibilidad presupuestal que determine la Coordinación General; se publicarán en las páginas electrónicas de la Fiscalía General y del Instituto, y en los medios de difusión que determine el Consejo de Profesionalización.
 
 ###### Artículo 16.
 
 Las convocatorias públicas deberán contener al menos lo siguiente:
 
-I. Rama y número de plazas a concursar;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+I. Rama y plazas a concursar;
 
 II. Requisitos previstos en el artículo 18 del presente Reglamento;
 
@@ -308,7 +332,9 @@ I. Personal Ministerial:
 
 6. Aprobar el proceso de ingreso previsto en la convocatoria;
 
-7. Aprobar el curso de formación básica o inicial impartido por el Instituto;
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+7. Aprobar el curso de formación inicial impartido por el Instituto;
 
 8. Cumplir el perfil competencial e institucional señalado en la convocatoria correspondiente;
 
@@ -332,7 +358,9 @@ II. Personal Pericial:
 
 6. Aprobar el proceso de ingreso previsto en la convocatoria;
 
-7. Aprobar el curso de formación inicial o básica impartido por el Instituto;
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+7. Aprobar el curso de formación inicial impartido por el Instituto;
 
 8. Cumplir el perfil competencial e institucional que establezca la convocatoria correspondiente;
 
@@ -356,7 +384,9 @@ III. Personal Policial:
 
 6. Aprobar el proceso de ingreso previsto en la Convocatoria;
 
-7. Aprobar el curso de formación inicial o básica impartido por el Instituto;
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+7. Aprobar el curso de formación inicial impartido por el Instituto;
 
 8. Cumplir el perfil etario, profesional, competencial e institucional que establezca la convocatoria correspondiente y/o fijen las disposiciones legales aplicables;
 
@@ -374,7 +404,9 @@ III. Personal Policial:
 
 Los aspirantes y candidatos a ingresar a la Fiscalía General, podrán renunciar al proceso voluntariamente, en cualquier etapa de la convocatoria en que se encuentren.
 
-Los resultados de los aspirantes o candidatos aprobados en cada etapa del proceso, o evaluación, serán publicados en la página del Instituto.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+Los resultados de los aspirantes o candidatos aprobados se darán a conocer conforme a lo establecido en la Convocatoria correspondiente.
 
 ###### Artículo 20.
 
@@ -388,7 +420,9 @@ I. Reclutamiento;
 
 II. Selección;
 
-II (SIC). Formación Inicial; y
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 11 DE AGOSTO DE 2025)</small>
+
+III. Formación Inicial; y
 
 IV. Procedimientos y actividades previstas en la convocatoria respectiva.
 
@@ -398,9 +432,11 @@ El Reclutamiento es la actividad institucional, consistente en la recepción de 
 
 A partir de la recepción de documentos presentados por los aspirantes, el Instituto verificará y comprobará la autenticidad de los mismos.
 
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 23.
 
-La presentación de documentos apócrifos dará lugar a la baja o descarte inmediato del aspirante o interesado, independientemente de la etapa en que se encuentre la convocatoria, sin perjuicio de las responsabilidades administrativas o penales que se deriven, para lo cual el Instituto instrumentará la consulta de registros y bases de datos en las áreas competentes de la Fiscalía General.
+La presentación de documentos apócrifos dará lugar a la baja o descarte inmediato del aspirante o interesado, independientemente de la etapa en que se encuentre la convocatoria, sin perjuicio de las responsabilidades administrativas o penales que se deriven, para lo cual el Instituto instrumentará la consulta de registros y bases de datos en las áreas competentes del Sistema Nacional de Seguridad Pública.
 
 ###### Artículo 24.
 
@@ -408,7 +444,9 @@ La Selección es la actividad institucional consistente en la aplicación de los
 
 Los mecanismos de evaluación podrán consistir en exámenes físicos, evaluaciones psicométricas, exámenes de conocimientos, entrevistas personales, valoración curricular y las demás que el Instituto considere pertinentes según los cargos y perfiles requeridos.
 
-Serán seleccionados aquellos aspirantes que aprueben o acrediten la totalidad de los mecanismos de evaluación practicadas (sic), con determinación de apto o apto con reservas.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+Serán seleccionados aquellos aspirantes que aprueben o acrediten la totalidad de los mecanismos de evaluación practicados, con determinación de aprobatorio.
 
 ###### Artículo 25.
 
@@ -418,7 +456,7 @@ La aplicación de los mecanismos de evaluación será efectuada por el Instituto
 
 Los aspirantes seleccionados deberán presentar y aprobar las evaluaciones de control de confianza, de conformidad con las disposiciones aplicables en la materia.
 
-La evaluación de control de confianza es aquella mediante la cual se comprueba que los candidatos a ingresar a la Fiscalía General cumplen con los perfiles de personalidad, éticos, socioeconómicos y médicos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 11 DE AGOSTO DE 2025)</small>
 
 La evaluación de control de confianza será aplicada por el Centro de Evaluación y Control de Confianza del Instituto o por los Centros certificados de conformidad con lo dispuesto en la Ley General del Sistema y la Ley del Sistema.
 
@@ -426,9 +464,11 @@ La evaluación de control de confianza será aplicada por el Centro de Evaluaci�
 
 Los aspirantes que no aprueben las evaluaciones de control de confianza causarán baja del proceso de ingreso, sin responsabilidad alguna para la Fiscalía General, y podrán volver a participar en otra convocatoria pública que expida la Fiscalía General, una vez concluida la vigencia del resultado de la Evaluación de Control de Confianza emitido por el Centro de Evaluación y Control de Confianza del Instituto o por los Centros certificados para tal efecto.
 
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 28.
 
-La vigencia de la evaluación de control de confianza del personal seleccionado para ingresar a la Fiscalía General es de tres años, contados a partir de la aplicación de la evaluación de conformidad con la Ley General del Sistema.
+La vigencia de la evaluación de control de confianza del personal seleccionado para ingresar a la Fiscalía General es de tres años, cuando el resultado es aprobatorio, contados a partir de la emisión de dicho resultado, de conformidad con la Ley General del Sistema.
 
 ###### Artículo 29.
 
@@ -438,11 +478,15 @@ La formación inicial es la actividad institucional mediante la cual, el Institu
 
 Mediante la formación inicial los aspirantes seleccionados adquieren conocimientos teóricos y prácticos inherentes al puesto o cargo señalado en la convocatoria, a través del desarrollo del programa académico correspondiente, que les proporcione las habilidades y aptitudes necesarias para cumplir su función competencial.
 
-El programa académico del curso de formación inicial será elaborado por el Instituto de conformidad con las disposiciones establecidas en la Ley General del Sistema y la normativa que de ella derive.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+El programa académico del curso de formación inicial será impartido por el Instituto de conformidad con las disposiciones establecidas en la Ley General del Sistema y la normativa que de ella derive.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 31.
 
-El curso de formación inicial iniciará y concluirá en los plazos que la convocatoria establezca.
+El curso de formación inicial se llevará a cabo en los plazos que la convocatoria establezca y de conformidad con las disposiciones del Sistema Nacional de Seguridad Pública.
 
 Los aspirantes seleccionados deberán aprobar el programa académico correspondiente en el tiempo y plazos establecidos para estar en posibilidades de ser incorporados a la Fiscalía General.
 
@@ -454,11 +498,15 @@ Durante el curso de formación inicial, los aspirantes adquieren la calidad de a
 
 La no aprobación de las materias o módulos que integran el programa académico, dará lugar a la baja inmediata del proceso de ingreso y por ende su descarte para ingresar a la Fiscalía General.
 
-Los aspirantes seleccionados que aprueben la formación inicial serán considerados como candidatos para ingresar a la Fiscalía General.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+Los aspirantes seleccionados que aprueben la formación inicial y cumplan con la totalidad de los requisitos establecidos en la convocatoria respectiva y la normatividad aplicable, serán considerados como candidatos para ingresar a la Fiscalía General.
+
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 34.
 
-En caso de que el número de candidatos aprobados resulte mayor a las vacantes concursadas en la convocatoria, ingresarán a la Fiscalía General aquellos candidatos que hubieran obtenido las mejores calificaciones en el programa académico en orden descendente hasta ocupar la totalidad de las vacantes. Los candidatos aprobados restantes formarán una lista de espera de vacantes, la cual estará vigente por un año, a partir de la conclusión de la convocatoria respectiva.
+En caso de que el número de candidatos aprobados resulte mayor a las vacantes concursadas y de conformidad con la disponibilidad presupuestal con la que cuente la institución al momento de la conclusión de la etapa de formación, ingresarán a la Fiscalía General aquellos candidatos que hubieran obtenido las mejores calificaciones en el programa académico en orden descendente hasta ocupar la totalidad de las vacantes disponibles. Los candidatos aprobados restantes formarán una lista de espera de vacantes, la cual estará vigente por un año, a partir de la conclusión de la convocatoria respectiva.
 
 ###### Artículo 35.
 
@@ -486,21 +534,39 @@ I. Personal Ministerial y Personal Pericial:
 
 1. Presentar y aprobar las evaluaciones de control de confianza;
 
-2. Aprobar las evaluaciones de desempeño;
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+2. Aprobar la evaluación de desempeño;
 
 3. Aprobar las evaluaciones de conocimientos generales;
 
 4. Aprobar las evaluaciones de competencias profesionales, que en su caso establezca la normativa aplicable;
 
-5. Cumplir con las actividades de profesionalización; y
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
 
-6. Los demás requisitos que establezca la Ley General del Sistema y demás disposiciones aplicables.
+5. Cumplir con la carga horaria de profesionalización que establece la Ley General del Sistema;
+
+> <small>(ADICIONADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+6. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+> <small>(ADICIONADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+7. No padecer alcoholismo;
+
+> <small>(ADICIONADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+8. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+9. Los demás requisitos que establezca la Ley General del Sistema y demás disposiciones aplicables.
 
 II. Personal Policial:
 
 1. Presentar y aprobar las evaluaciones de control de confianza;
 
-2. Aprobar las evaluaciones de desempeño;
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+2. Aprobar la evaluación de desempeño;
 
 3. Aprobar las evaluaciones de conocimientos generales;
 
@@ -524,7 +590,9 @@ II. Personal Policial:
 
 Las evaluaciones previstas en el presente artículo podrán ser aplicadas mediante el uso de tecnologías de la información para la transmisión de datos, voz e imagen.
 
-Las evaluaciones serán aplicadas al término de su vigencia o con la periodicidad establecida en el presente Reglamento y en la Ley General del Sistema.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+Las evaluaciones serán aplicadas con la periodicidad establecida en el presente Reglamento y en la Ley General del Sistema.
 
 ###### Artículo 39.
 
@@ -534,13 +602,17 @@ La aprobación de las evaluaciones de control de confianza, del desempeño, así
 
 La evaluación de control de confianza tiene por objeto verificar que el personal sustantivo cumpla con los principios de legalidad, eficiencia, profesionalismo, honradez, lealtad, imparcialidad y de respeto a los derechos humanos, en términos de la Constitución Federal, Constitución Local, Ley General del Sistema, Ley del Sistema y la Ley.
 
-La evaluación de control de confianza tiene una vigencia de tres años y será aplicada de conformidad con la Ley General del Sistema, la Ley del Sistema y la Ley.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+Los resultados de la evaluación de control de confianza tienen una vigencia de tres años a partir de su emisión y será aplicada de conformidad con la Ley General del Sistema, la Ley del Sistema y la Ley.
+
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 41.
 
-La evaluación del desempeño tiene por objeto valorar al personal sustantivo en el ejercicio y cumplimiento de sus funciones, metas, comportamientos asociados a competencias profesionales; el apego a los principios constitucionales que rigen su actuación, así como la actitud y comportamiento que tienen en su área de adscripción, principalmente en su interacción con las demás personas servidoras públicas y con las personas usuarias.
+La evaluación del desempeño tiene por objeto valorar al personal sustantivo en el ejercicio y cumplimiento de sus funciones, metas, actuación asociada a competencias profesionales y objetivos institucionales; el apego a los principios constitucionales que rigen su actuación, así como la actitud y comportamiento que tienen en su área de adscripción, principalmente en su interacción con las demás personas servidoras públicas.
 
-La evaluación del desempeño se aplicará anualmente, de conformidad con los lineamientos que para tal efecto se emitan.
+La evaluación del desempeño se aplicará anualmente, de conformidad con los lineamientos que para tal efecto emita el Consejo de Profesionalización.
 
 ###### Artículo 42.
 
@@ -548,11 +620,15 @@ La evaluación de conocimientos generales tiene por objeto constatar que el pers
 
 La evaluación de conocimientos generales se aplicará anualmente, de conformidad con los lineamientos que para tal efecto emita la persona Titular de la Fiscalía General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 43.
 
-La evaluación de competencias profesionales tiene por objeto determinar que el personal sustantivo, cuenta con los conocimientos, habilidades, destrezas y aptitudes necesarias para desempeñar la función de forma eficiente y de conformidad con los estándares establecidos.
+La evaluación de competencias profesionales tiene por objeto determinar que el personal sustantivo, cuenta con los conocimientos, habilidades, destrezas y aptitudes necesarias para desempeñar la función de forma eficiente.
 
-La evaluación de competencias profesionales para el personal ministerial y pericial se aplicará en aquellos supuestos previstos por los ordenamientos legales, de conformidad con los lineamientos que para tal efecto emita la persona Titular de la Fiscalía General.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+La evaluación de competencias profesionales para el personal ministerial y pericial se aplicará en aquellos supuestos previstos por los ordenamientos legales, de conformidad con los lineamientos que para tal efecto emita el Consejo de Profesionalización.
 
 La evaluación de competencias profesionales del personal de la rama policial se aplicará de conformidad con los lineamientos que deriven de la Ley General del Sistema.
 
@@ -564,13 +640,17 @@ La evaluación del desempeño, la evaluación de conocimientos generales y la ev
 
 Para tal efecto, el Instituto podrá auxiliarse de las personas servidoras públicas de las Unidades Administrativas o de las instituciones públicas, sociales o privadas, con las que la Fiscalía General o el Instituto celebren convenios para tal efecto.
 
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 45.
 
-El personal sustantivo que no apruebe las evaluaciones previstas en el artículo 39 del presente Reglamento, será separado del Servicio Profesional de Carrera, de conformidad con el procedimiento establecido en el presente Reglamento y demás disposiciones aplicables.
+El personal sustantivo que no apruebe las evaluaciones previstas en el artículo 39 del presente Reglamento, será separado del Servicio Profesional de Carrera, de conformidad con el procedimiento establecido en el presente Reglamento y demás disposiciones aplicables, en términos del artículo 123, apartado B, fracción XIII de la Constitución Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 46.
 
-Los resultados de la evaluación del desempeño, de la evaluación de conocimientos generales y de la evaluación de competencias profesionales y los expedientes que se conformen como consecuencia de los mismos, serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales, será información restringida en términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y demás disposiciones aplicables.
+Los resultados de la evaluación del desempeño, de la evaluación de conocimiento generales y de la evaluación de competencias profesionales y los expedientes que se conformen como consecuencia de los mismos, serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos, judiciales o en los procesos relativos al Servicio Profesional de Carrera, será información restringida en términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y demás disposiciones aplicables.
 
 Los resultados de la Evaluación de Control de Confianza y los expedientes que se conformen como consecuencia de los mismos, serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales y se mantendrán en reserva en términos de la Ley General del Sistema.
 
@@ -588,9 +668,11 @@ El personal policial que haya alcanzado la edad límite para la permanencia, pre
 
 #### Sección III. De la Promoción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 50.
 
-La promoción es el cambio favorable en las condiciones del empleo público del personal sustantivo, mediante el ascenso al nivel inmediato superior que corresponda, que se ejecuta a través de un concurso de oposición y la Convocatoria correspondiente.
+La promoción es el cambio favorable en las condiciones del empleo público del personal sustantivo, mediante el ascenso al nivel inmediato superior que corresponda dentro del Servicio Profesional de Carrera, que se ejecuta a través de un concurso de oposición y la Convocatoria correspondiente.
 
 Los procesos de promoción estarán sujetos a la suficiencia presupuestal y a la disponibilidad de plazas autorizadas, que determine la Coordinación General.
 
@@ -610,13 +692,15 @@ La Convocatoria al concurso de oposición deberá ser difundida, por lo menos co
 
 La Convocatoria al concurso de oposición establecerá, entre otros aspectos, los siguientes:
 
-I. Plazas y rama concursadas;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+I. Plazas del Servicio profesional de Carrera y rama concursadas;
 
 II. Requisitos de participación;
 
 III. Instrumentos de evaluación; y
 
-IV. Plazas del Servicio Profesional de Carrera disponibles y los requerimientos para cubrirlas.
+IV. (DEROGADA, G.O. 11 DE AGOSTO DE 2025)
 
 ###### Artículo 55.
 
@@ -636,7 +720,9 @@ IV. No haber sido sancionado administrativamente por conducta grave en un perío
 
 V. Contar con la antigüedad en la institución o en el cargo, establecida en el presente Reglamento y señalada en la convocatoria respectiva;
 
-VI. Contar con resultados aprobatorios y vigentes de Evaluación de Control de Confianza y, en su caso, las certificaciones correspondientes al cargo;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+VI. Aprobar las Evaluaciones de Control de Confianza para promoción, y, en su caso, las certificaciones correspondientes al cargo;
 
 VII. Tener aprobadas la evaluación de desempeño, la evaluación de conocimientos generales y la evaluación de competencias profesionales, correspondientes al cargo que ocupa y al periodo en el que se emita la convocatoria correspondiente; y
 
@@ -668,7 +754,9 @@ I. Para participar en los procesos de promoción dentro de la misma categoría, 
 
 II. Para participar en los procesos de promoción de la Categoría Básica C a la Categoría Intermedia A, el personal ministerial deberá acreditar dos años ininterrumpidos en el cargo del inferior nivel inmediato al del nivel objeto de la promoción y al menos cinco años en la Fiscalía General; y
 
-II (SIC). Para participar en los procesos de promoción de la Categoría Intermedia C a la Categoría Superior, el personal ministerial deberá acreditar tres años ininterrumpidos en el cargo del nivel inferior inmediato al del nivel objeto de la promoción y al menos diez años en la Fiscalía General.
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 11 DE AGOSTO DE 2025)</small>
+
+III. Para participar en los procesos de promoción de la Categoría Intermedia C a la Categoría Superior, el personal ministerial deberá acreditar tres años ininterrumpidos en el cargo del nivel inferior inmediato al del nivel objeto de la promoción y al menos diez años en la Fiscalía General.
 
 ###### Artículo 59.
 
@@ -732,15 +820,19 @@ Los candidatos seleccionados ocuparán las plazas concursadas de conformidad con
 
 El Instituto informará a la Coordinación General los resultados del proceso correspondiente, para que realice los movimientos administrativos correspondientes a partir de lo cual, el personal promovido recibirá las prestaciones correspondientes al cargo concursado.
 
-#### Sección IV. De los Estímulos
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE AGOSTO DE 2025)</small>
+
+#### Sección IV. De los Estímulos y Reconocimientos
 
 ###### Artículo 70.
 
 Los Estímulos son los mecanismos mediante los cuales la Fiscalía General otorga reconocimiento público o económico extraordinario al personal sustantivo, por actos y servicios meritorios; trayectoria ejemplar; desempeño profesional; destacada labor; capacidad y conducta dentro de la Fiscalía General, con el objeto de fomentar la calidad y efectividad en el desempeño del servicio, incrementar las posibilidades de promoción y el desarrollo de los integrantes, así como fortalecer su identidad institucional.
 
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 71.
 
-Se consideran sujetos de mérito, el personal sustantivo que hayan (sic) realizado contribuciones o mejoras a los procedimientos, funcionamiento, servicio, imagen institucional o que se destaquen por la realización de acciones sobresalientes en la Fiscalía General.
+Se consideran sujetos de mérito, el personal sustantivo que haya realizado contribuciones o mejoras a los procedimientos, funcionamiento, servicio, imagen institucional o que se destaquen por la realización de acciones sobresalientes en la Fiscalía General.
 
 ###### Artículo 72.
 
@@ -760,13 +852,15 @@ El otorgamiento de estímulos será determinado por el Consejo de Profesionaliza
 
 El Consejo de Honor podrá determinar y proponer políticas de estímulos para el personal de la rama policial.
 
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 75.
 
-Sólo podrán ser acreedores a estímulos, el personal sustantivo que cumpla con los requisitos de permanencia establecidos en las disposiciones aplicables.
+Sólo podrá ser acreedor a estímulos y reconocimientos el personal sustantivo que cumpla con los requisitos de permanencia establecidos en las disposiciones aplicables.
 
-Las personas titulares de las Unidades Administrativas, a través de los integrantes del Consejo de Profesionalización, presentarán las propuestas de las personas merecedoras de reconocimiento por alguno de los actos descritos en el siguiente artículo.
+Las personas titulares de las Unidades Administrativas, podrán presentar las propuestas de las personas merecedoras de reconocimiento por alguno de los actos descritos en el siguiente artículo.
 
-Cualquier persona podrá informar al Consejo de Profesionalización sobre la realización de un acto que pueda ser susceptible de premio, reconocimiento o estímulo, aportando los medios que permitan corroborar su autenticidad.
+Cualquier persona podrá informar al Consejo de Profesionalización sobre la realización de un acto que pueda ser susceptible de reconocimiento o estímulo, aportando los medios que permitan corroborar su autenticidad.
 
 ###### Artículo 76.
 
@@ -782,19 +876,37 @@ IV. Mérito: que se otorgará por actos de relevancia académica excepcional o a
 
 V. Post-mortem: que consistirá en la realización de un acto solemne en honor de aquellos integrantes del servicio que pierdan la vida en el cumplimiento de su deber.
 
-En ningún caso, un mismo acto podrá ser objeto de dos o más reconocimientos o premios en la misma persona.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
 
-#### Sección V. De la Separación
+Un mismo acto podrá ser objeto de estímulo y reconocimiento simultáneamente, de conformidad con los lineamientos que se emitan.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE AGOSTO DE 2025)</small>
+
+#### Sección V. De la Terminación del Servicio Profesional de Carrera
 
 ###### Artículo 77.
 
 El empleo público del personal sustantivo que pertenece al Servicio Profesional de Carrera, el nombramiento o los efectos legales de éste, podrán terminar de manera ordinaria o extraordinaria en los siguientes casos:
 
-I. Conclusión o terminación extraordinaria por incumplimiento de los requisitos de ingreso o permanencia, previstos en el presente Reglamento, a través de la separación correspondiente;
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], G.O. 11 DE AGOSTO DE 2025)</small>
 
-II. Conclusión o terminación extraordinaria por incurrir en responsabilidad disciplinaria, por incumplimiento de sus obligaciones inherentes a su cargo, a través de la remoción o destitución correspondiente; y
+A. Extraordinaria:
 
-III. Conclusión o terminación ordinaria por renuncia, muerte o incapacidad permanente, y jubilación o retiro, a través de la baja administrativa correspondiente.
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+I. Por incumplimiento de los requisitos de ingreso o permanencia, previstos en el presente Reglamento, a través de la separación correspondiente;
+
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+II. Por incurrir en responsabilidad disciplinaria, por incumplimiento de sus obligaciones inherentes a su cargo, a través de la remoción o destitución correspondiente; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], G.O. 11 DE AGOSTO DE 2025)</small>
+
+B. Ordinaria:
+
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+I. Por renuncia, muerte o incapacidad permanente, y jubilación o retiro, a través de la baja administrativa correspondiente.
 
 ###### Artículo 78.
 
@@ -834,9 +946,11 @@ El procedimiento de separación del personal ministerial y pericial se realizar�
 
 I. Una vez que el Instituto tenga conocimiento del resultado no aprobatorio de la evaluación correspondiente, formará el expediente respectivo;
 
-II. Los resultados de las evaluaciones serán notificados al personal sustantivo de que se trate, a través del personal habilitado que para tal efecto designe la persona Titular de la Coordinación General Jurídica y de Derechos Humanos.
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
 
-En caso de que el personal sustantivo de que se trate se negará a recibir la notificación, se asentará dicha situación en el acta de notificación que corresponda, para que las (sic) todas las notificaciones le surtan efectos desde ese momento por estrados, los que estarán ubicados en el Instituto.
+II. Los resultados de las evaluaciones serán notificados al personal sustantivo de que se trate, a través del personal habilitado que para tal efecto designe la persona Titular del Instituto.
+
+En caso de que el personal sustantivo de que se trate se negara a recibir la notificación, se asentará dicha situación en el acta de notificación que corresponda, para que todas las notificaciones le surtan efectos desde ese momento por estrados, los que estarán ubicados en el Instituto.
 
 III. Hecha la notificación, el personal sustantivo de que se trate contará con un plazo de cinco días hábiles para que manifieste ante el Instituto, lo que a su derecho convenga y aporte las pruebas que estime convenientes.
 
@@ -856,7 +970,9 @@ I. Una vez que el Consejo de Honor tenga conocimiento del resultado no aprobator
 
 II. Los resultados de las evaluaciones serán notificados al personal policial, a través del personal habilitado del Consejo de Honor;
 
-En caso de que el personal sustantivo de que se trate se negará a recibir la notificación, se asentará dicha situación en el acta de notificación que corresponda, para que las (sic) todas las notificaciones le surtan efectos desde ese momento por estrados, los que estarán ubicados en el Consejo de Honor.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+En caso de que el personal sustantivo de que se trate se negara a recibir la notificación, se asentará dicha situación en el acta de notificación que corresponda, para que todas las notificaciones le surtan efectos desde ese momento por estrados, los que estarán ubicados en el Consejo de Honor.
 
 III. Hecha la notificación, el personal policial de que se trate contará con un plazo de cinco días hábiles para que manifieste ante el Consejo de Honor, lo que a su derecho convenga y aporte las pruebas que estime convenientes.
 
@@ -868,7 +984,9 @@ V. El proyecto de Resolución será sometido a la aprobación del Consejo de Hon
 
 VI La resolución del Consejo de Honor que determine la separación de personal policial, será remitida a la Coordinación General para que ejecute la formalización de la baja y otorgue el finiquito correspondiente.
 
-El Consejo de Honor informará al Instituto, las determinaciones que emita para incluirlas en el expediente del personal policial de que se trate.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+El Consejo de Honor informará al Instituto y a la Coordinación General, las determinaciones que emita para incluirlas en el expediente del personal policial de que se trate.
 
 ###### Artículo 83.
 
@@ -876,13 +994,17 @@ En contra de las resoluciones del Consejo de Profesionalización o del Consejo d
 
 En el escrito correspondiente, el recurrente expresará los agravios que estime pertinentes y aportará las pruebas que considere. Serán admisibles toda clase de pruebas, excepto la confesional de la autoridad y las que fueren contrarias a derecho.
 
-Interpuesto y admitido el recurso de revisión dentro del plazo señalado, la persona Titular de la Fiscalía General resolverá dentro de los diez días hábiles siguientes y se notificará personalmente al personal sustantivo de que se trate, a través de la Coordinación General. La resolución del recurso de revisión es definitiva en sede administrativa.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+Interpuesto y admitido el recurso de revisión dentro del plazo señalado, la persona Titular de la Fiscalía General resolverá dentro de los diez días hábiles siguientes y se notificará personalmente al personal sustantivo de que se trate, a través de la Coordinación General Jurídica y de Derechos Humanos. La resolución del recurso de revisión es definitiva en sede administrativa.
 
 ###### Artículo 84.
 
 Cuando los órganos jurisdiccionales determinen que la resolución por la que se impone la separación es injustificada, la Fiscalía General sólo se obligará a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona separada, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, en términos de lo establecido en el artículo 123, Apartado B, fracción XIII de la Constitución Federal.
 
-La separación a que se refiere el presente artículo, será inscrita por el Instituto en el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+La separación a que se refiere el presente artículo, será inscrita por la Coordinación General en el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
 
 ### CAPITULO III. DE LA PROFESIONALIZACIÓN
 
@@ -894,17 +1016,23 @@ La participación del personal sustantivo en las actividades de profesionalizaci
 
 El personal sustantivo deberá acreditar al menos 60 horas anuales, en actividades de profesionalización, acordes con su perfil.
 
-Las actividades de profesionalización serán tomadas en consideración en los procesos de promoción y de estímulos del Servicio Profesional de Carrera.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+Las actividades de profesionalización serán tomadas en consideración en los procesos de promoción, estímulos y reconocimientos del Servicio Profesional de Carrera.
 
 ###### Artículo 86.
 
 Para que el personal sustantivo acredite satisfactoriamente las actividades de profesionalización, el Instituto establecerá una oferta académica, acorde con el perfil e interés profesional, la cual se prestará en la modalidad presencial o a distancia.
 
-El Instituto podrá acreditar la formación académica que el personal sustantivo realice en otra institución educativa, la cual será incorporada al expediente del personal, siempre y cuando cumplan con los requisitos que el Instituto establezca, de conformidad con los criterios que para tal efecto éste emita.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+El Instituto podrá acreditar la formación académica que el personal sustantivo realice en otra institución educativa, la cual será incorporada al expediente del personal, siempre y cuando cumplan con los requisitos que el Sistema Nacional de Seguridad Pública establezca, de conformidad con los criterios que para tal efecto éste emita.
+
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 87.
 
-La profesionalización deberá atender a las necesidades de las distintas áreas de investigación de la Fiscalía General, haciendo énfasis en contenidos teóricos y prácticos que redunden en la adquisición y perfeccionamiento de conocimientos y habilidades relacionados con la función y perfil del personal sustantivo.
+La profesionalización deberá atender a las necesidades de las distintas áreas de la Fiscalía General, haciendo énfasis en contenidos teóricos y prácticos que redunden en la adquisición y perfeccionamiento de conocimientos y habilidades relacionados con la función y perfil del personal sustantivo.
 
 ### CAPITULO IV. DE LA CERTIFICACIÓN
 
@@ -924,9 +1052,11 @@ El Consejo de Profesionalización aprobará el modelo y la metodología de la ce
 
 El Instituto instrumentará los procesos de certificación e integrará los grupos de trabajo especializados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 91.
 
-Los grupos de trabajo especializados serán presididos por la persona Titular del Instituto y se integrarán por las personas servidoras públicas de la Fiscalía General y especialistas que apruebe el Consejo de Profesionalización.
+Los grupos de trabajo especializados serán presididos por la persona que designe el Titular del Instituto y se integrarán por las personas servidoras públicas de la Fiscalía General y especialistas que apruebe el Consejo de Profesionalización.
 
 Los grupos de trabajo especializados desarrollarán los instrumentos y la metodología para certificar las competencias en materia de procuración de justicia.
 
@@ -952,9 +1082,13 @@ II. Establecer criterios y mecanismos de evaluación para la incorporación al S
 
 III. Proponer estrategias y criterios para la evaluación del desempeño, la evaluación de competencias profesionales y la evaluación de conocimientos generales;
 
-IV. Resolver sobre el procedimiento de separación del personal sustantivo, por incumplimiento de requisitos de permanencia;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
 
-V. Aprobar las reincorporaciones al Servicio Profesional de Carrera, conforme a la normatividad correspondiente;
+IV. Resolver sobre el procedimiento de separación del personal sustantivo de la rama ministerial y pericial, por incumplimiento de requisitos de permanencia;
+
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+V. Aprobar las reincorporaciones y reingresos al Servicio Profesional de Carrera, conforme a la normatividad correspondiente;
 
 VI. Proponer estrategias y criterios para el establecimiento de los perfiles profesionales y competenciales del personal sustantivo de la Fiscalía General;
 
@@ -966,13 +1100,17 @@ IX. Aprobar los lineamientos para el otorgamiento de estímulos y reconocimiento
 
 X. Presentar a la persona Titular de la Fiscalía General, las propuestas de normatividad para el cumplimento del presente Reglamento;
 
-XI. Autorizar los criterios y montos para el otorgamiento de becas académicas relacionadas con las actividades a cargo del Instituto;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
 
-XII. Proponer modificaciones al Reglamento del Servicio Profesional de Carrera y a la normativa relacionada;
+XI. Autorizar los criterios y montos para el otorgamiento de becas académicas relacionadas con las actividades de formación inicial a cargo del Instituto;
+
+XII. (DEROGADA, G.O. 11 DE AGOSTO DE 2025)
 
 XIII. Aprobar su manual de organización y en su caso las modificaciones que correspondan;
 
-XIV. Aprobar el calendario anual de sesiones ordinarias en la primera sesión ordinaria del año que corresponda;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2025)</small>
+
+XIV. Aprobar el calendario anual de sesiones ordinarias en la última sesión ordinaria del año anterior;
 
 XV. Establecer grupos de trabajo especializados; y
 
@@ -996,13 +1134,15 @@ III. Las personas Titulares de las Unidades Administrativas que se señalan, en 
 
 4. Coordinación General de Investigación de Delitos de Alto Impacto;
 
-5. Subprocuraduría de Procesos;
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+5. Coordinación General de Acusación, Procedimiento y Enjuiciamiento;
 
 6. Coordinación General de Investigación Forense y Servicios Periciales;
 
 7. Jefatura General de la Policía de Investigación;
 
-8. Coordinación General Jurídica y de Derechos Humanos;
+8. (DEROGADO, G.O. 11 DE AGOSTO DE 2025)
 
 9. Coordinación General de Administración;
 
@@ -1010,15 +1150,29 @@ III. Las personas Titulares de las Unidades Administrativas que se señalan, en 
 
 11. Unidad de Implementación;
 
-12. Unidad de Asuntos Internos; y
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
 
-13. Fiscalía Especializada en Combate a la Corrupción.
+12. Unidad de Asuntos Internos;
+
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+13. Fiscalía Especializada en Combate a la Corrupción;
+
+> <small>(ADICIONADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+14. Fiscalía Especializada para la Atención de Delitos Electorales;
+
+> <small>(ADICIONADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+15. Coordinación General de Atención a Víctimas.
 
 IV. Las personas Titulares de las Unidades Administrativas que se señalan, en su calidad de asesores permanentes:
 
 1. Dirección General de Recursos Humanos; y
 
-2. Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+2. Coordinación General Jurídica y de Derechos Humanos.
 
 V. Invitados. Las personas Titulares de las Unidades Administrativas objeto de la sesión de que se trate.
 
@@ -1026,7 +1180,9 @@ Cuando así lo determine la persona Titular de la Presidencia del Consejo de Pro
 
 Las personas servidoras públicas referidas en las fracciones I y III tienen derecho a voz y voto; y someter asuntos o temas a la consideración del Consejo de Profesionalización, a través de la Secretaría Técnica.
 
-La persona Secretaria Técnica, las personas que participen en calidad (sic) asesoras permanentes y de invitadas, únicamente cuentan con derecho a voz.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
+La persona Secretaria Técnica, las personas que participen en calidad de asesoras permanentes y de invitadas, únicamente cuentan con derecho a voz.
 
 ###### Artículo 96.
 
@@ -1052,29 +1208,41 @@ La operación y funcionamiento del Consejo de Profesionalización se establecer�
 
 ### CAPÍTULO VI. Disposiciones complementarias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 98.
 
-En casos excepcionales, la persona Titular de la Fiscalía General podrá designar a personas con trayectoria y experiencia profesional en el servicio público, procuración de justicia o ámbito penal, sin que medie convocatoria de ingreso, y previo cumplimiento de los requisitos conducentes establecidos en el artículo 18 del presente Reglamento, como personal ministerial, pericial o policial, por un periodo máximo de seis meses prorrogables, quienes no forman parte del Servicio Profesional de Carrera. El personal designado en esta modalidad podrá ser removido en cualquier momento por la persona Titular de la Fiscalía General.
+En casos excepcionales, la persona Titular de la Fiscalía General por sí o a través de la Coordinación General, a petición de las personas Titulares de las Unidades Administrativas que los propongan, podrá designar a personas con trayectoria y experiencia profesional en el servicio público, procuración de justicia o ámbito penal, sin que medie convocatoria de ingreso, y previo cumplimiento de los requisitos conducentes establecidos en el artículo 18 del presente Reglamento, para ocupar plazas como personal ministerial, pericial o policial, por un periodo máximo de seis meses prorrogables, quienes no formarán parte del Servicio Profesional de Carrera. Dicha designación podrá darse por terminada en cualquier momento por la persona Titular de la Coordinación General.
 
 El personal designado conforme al párrafo anterior, podrá, excepcionalmente, incorporarse al Servicio Profesional de Carrera, previa acreditación de los mecanismos de evaluación que apruebe el Consejo de Profesionalización.
 
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 99.
 
-El personal designado en términos del artículo 98 que cuente con el certificado vigente a que se refiere el artículo 69 de la Ley General del Sistema, podrá incorporarse al Servicio Profesional de Carrera, previo acuerdo del Comité de Profesionalización.
+El personal designado en términos del artículo 98 que cuente con el certificado vigente a que se refiere el artículo 69 de la Ley General del Sistema, podrá incorporarse al Servicio Profesional de Carrera, previo acuerdo del Consejo de Profesionalización.
 
-La terminación del empleo público del personal nombrado por designación directa, concluirá una vez terminado el nombramiento o periodo para el que fue designado o cuando lo determine la persona Titular de la Fiscalía General, sin necesidad de realizar procedimiento alguno.
+La terminación del empleo público del personal nombrado por designación directa, concluirá una vez terminado el nombramiento o periodo para el que fue designado o cuando lo determine la persona Titular de la Fiscalía General por sí o a través de la Coordinación General, sin necesidad de realizar procedimiento alguno.
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 100.
 
-El personal sustantivo que tenga al menos tres años de antigüedad en el servicio profesional, podrá solicitar la reserva de plaza cuando sea nombrado en un puesto de estructura o cargo ya sea dentro de la Fiscalía General o en la Administración Pública Federal, de la Ciudad de México, Estatal, Municipal o en algún Órgano Autónomo.
+El personal sustantivo que tenga al menos tres años de antigüedad en el Servicio Profesional de Carrera, podrá solicitar la reserva de plaza cuando sea nombrado en un puesto de estructura o cargo ya sea dentro de la Fiscalía General o en la Administración Pública Federal, de la Ciudad de México, Estatal, Municipal o en algún Órgano Autónomo.
+
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2021)</small>
 
 Para tal efecto, la persona Titular de la Unidad Administrativa a la que se encuentre adscrito dicho personal sustantivo dará su visto bueno mediante oficio dirigido a la Coordinación General, para efectos de expedir la constancia de reserva correspondiente.
 
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2021)</small>
+
 La reserva de plaza será vigente en tanto el personal sustantivo continúe en el puesto de estructura o cargo para el cual fue designado, debiendo informarlo cada año a la Coordinación General o antes, en caso de que asuma otro cargo.
 
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2021)</small>
+
 Cuando la reserva sea para puesto de estructura o cargo fuera de la Fiscalía General, la vigencia de ésta no podrá exceder de tres años, renovable hasta por una ocasión más.
+
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2021)</small>
 
 Concluido su cargo, el personal sustantivo de que se trate, solicitará a la Coordinación General, la reincorporación a su cargo, a más tardar dentro de los quince días hábiles siguientes; en caso contrario perderá los derechos inherentes a su plaza.
 
@@ -1131,3 +1299,15 @@ CUARTO. Se contará con un periodo de 20 días, contados a partir de la fecha de
 QUINTO Quedan sin efectos todos los Acuerdos y disposiciones emitidas con anterioridad, que contravengan lo previsto en el presente Acuerdo.
 
 SEXTO. Se derogan los Artículos Transitorios Sexto del Reglamento del Servicio Profesional de Carrera de la Fiscalía General de Justicia de la Ciudad de México, y Octavo del Acuerdo FGJCDMX/25/2021 por el que se establecen los Lineamientos para el Ingreso del Personal Sustantivo al Servicio Profesional de Carrera de la Fiscalía General de Justicia de la Ciudad de México, publicados en la Gaceta Oficial de la Ciudad de México el 22 de julio de 2021.
+
+G.O. 11 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO FGJCDMX/17/2025 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA FISCALÍA”.]
+
+PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan las disposiciones del Acuerdo A/006/2013 que se opongan al presente Acuerdo.
+
+CUARTO. La Coordinación General de Administración realizará las gestiones administrativas que se requieran para la observancia del presente Acuerdo.
