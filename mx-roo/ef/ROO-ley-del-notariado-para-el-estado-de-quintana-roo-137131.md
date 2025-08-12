@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-notariado-para-el-estado-de-quintana-roo-137131"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-02"
-last_updated: "2025-03-25"
+last_updated: "2025-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 2 de julio de 2019.
 
@@ -425,7 +425,9 @@ I. Ser de nacionalidad mexicana y tener veintiocho años de edad, a la fecha de 
 
 II. Tener residencia en el Estado de cuando menos cinco años ininterrumpidos, anteriores a la fecha de su solicitud de examen;
 
-III. Contar con título de Licenciado en Derecho o Abogado y cédula profesional, ambos expedidos legalmente, con antigüedad mínima de cuatro años contados a la fecha de la convocatoria, y acreditar cuando menos veinticuatro meses de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún Notario Titular del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
+
+III. Contar con título de Licenciatura en Derecho o Abogacía y cédula profesional, ambos expedidos legalmente, y acreditar cuando menos veinticuatro meses de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún Notario Titular del Estado de Quintana Roo;
 
 IV. No tener vicios de embriaguez, drogadicción o de juegos de azar, y gozar de buena reputación personal y profesional;
 
@@ -467,37 +469,49 @@ Ninguno de los requisitos que se fijan en los artículos anteriores es dispensab
 
 ### CAPÍTULO SEXTO BIS. DE LA CONVOCATORIA AL EXAMEN DE OPOSICIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 41.
 
-Cuando estuviere vacante una Notaría o cuando fuere creada una nueva por el Titular del Poder Ejecutivo del Estado en términos de esta ley, la Secretaría de Gobierno publicará un anuncio, por una vez en el Periódico Oficial del Estado de Quintana Roo y por dos veces, con intervalos de tres días hábiles, en uno de Jos periódicos de circulación estatal, convocando a los interesados al ejercicio del notariado que pretendan obtener la patente de la Notaría vacante o de nueva creación, para que dentro del término de quince días hábiles, contados a partir de la última de las publicaciones referidas, presenten ante la Secretaría de Gobierno su expediente personal que incluya la respectiva solicitud por escrito al Titular del Poder Ejecutivo del Estado, así como los documentos o medios idóneos con Jos que acrediten los demás requisitos aplicables a que se refiere el Artículo 38 de esta ley debidamente actualizados.
+Cuando estuviere vacante una Notaría por revocación, renuncia o defunción de la persona titular y esta no cuente con suplente o auxiliar en funciones, la Secretaría de Gobierno iniciará procedimiento sumario y publicará un anuncio, por una vez en el Periódico Oficial del Estado de Quintana Roo y en la página electrónica de la Secretaría de Gobierno y por dos veces en uno de los periódicos de circulación en la adscripción de la notaría vacante, convocando a las personas interesadas al ejercicio del notariado que pretendan obtener la patente de la Notaría vacante para que dentro del término de cinco días naturales, contados a partir de la última de las publicaciones referidas, presenten ante la Secretaría de Gobierno su expediente personal que incluya la respectiva solicitud por escrito dirigida a la persona Titular del Poder Ejecutivo del Estado, así como los documentos o medios idóneos con los que acrediten los requisitos aplicables a que se refiere el Artículo 38 de la presente Ley debidamente actualizados.
 
-Fenecido este término, dentro de los siguientes cinco días hábiles, la Secretaría de Gobierno solicitará, si así lo estimara conveniente, a las autoridades o a las instituciones que correspondan, los informes o constancias necesarios para verificar si los interesados satisfacen los requisitos establecidos en esta ley. La Secretaría de Gobierno deberá concluir la revisión y calificación de los citados expedientes dentro del término de veinte días hábiles contados a partir de haber fenecido el período de recepción de los mismos.
+Fenecido este término, al día natural siguiente, la Secretaría de Gobierno solicitará, si así lo estimara conveniente, a las autoridades o a las instituciones que correspondan, los informes o constancias necesarios para verificar si las personas interesadas satisfacen los requisitos establecidos en la presente Ley. La Secretaría de Gobierno deberá concluir la revisión y calificación de los citados expedientes dentro del término de dos días naturales contados a partir de haber fenecido el período de recepción de los mismos.
 
-Al término de este último período, y dentro de los siguientes diez días hábiles, la Secretaría de Gobierno notificará a quienes hayan reunido satisfactoriamente los requisitos exigidos por esta ley para presentar el examen de oposición, haciéndoles saber el lugar, el día y la hora para su celebración.
+Al término de este último período, al día natural inmediato siguiente, la Secretaría de Gobierno notificará a quienes hayan reunido satisfactoriamente los requisitos exigidos por esta Ley para presentar el examen de oposición, haciéndoles saber el lugar, el día y la hora para su celebración.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+Para el caso de que la notaría vacante contare con suplente o auxiliar en funciones, dicha persona continuará en funciones hasta en tanto se designe a la nueva persona titular en términos de la presente Ley;
+
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 41 Bis.
 
-El jurado para el examen de oposición estará integrado por:
+Cuando una Notaría fuere creada por la persona Titular del Poder Ejecutivo del Estado en términos de esta Ley, la Secretaría de Gobierno publicará un anuncio, por una vez en el Periódico Oficial del Estado de Quintana Roo y por dos veces, con intervalos de tres días hábiles, en uno de los periódicos de circulación estatal, así como en la página electrónica de la Secretaría de Gobierno, convocando a las personas interesadas al ejercicio del notariado que pretendan obtener la patente de la Notaría de nueva creación, para que dentro del término de diez días hábiles, contados a partir de la última de las publicaciones referidas, presenten ante la Secretaría de Gobierno su expediente personal que incluya la respectiva solicitud por escrito dirigida a la persona Titular del Poder Ejecutivo del Estado, así como los documentos o medios idóneos con los que acrediten los demás requisitos aplicables a que se refiere el Artículo 38 de esta Ley debidamente actualizados.
 
-I. Un Notario designado por el Ejecutivo del Estado, a través de la Secretaría de Gobierno, quien lo presidirá;
+Fenecido este término, dentro de los siguientes cinco días hábiles, la Secretaría de Gobierno solicitará, si así lo estimara conveniente, a las autoridades o a las instituciones que correspondan, los informes o constancias necesarios para verificar si los interesados satisfacen los requisitos establecidos en esta Ley. La Secretaría de Gobierno deberá concluir la revisión y calificación de los citados expedientes dentro del término de veinte días hábiles contados a partir de haber fenecido el período de recepción de los mismos.
 
-II. Un Notario designado por el Magistrado Presidente del Tribunal Superior de Justicia, como Secretario, y
+Al término de este último período, y dentro de los siguientes diez días hábiles, la Secretaría de Gobierno notificará a quienes hayan reunido satisfactoriamente los requisitos exigidos por esta Ley para presentar el examen de oposición, haciéndoles saber el lugar, el día y la hora para su celebración.
 
-III. Un Notario designado por el Presidente de la Mesa Directiva del Consejo de Notarios, quien desempeñará las funciones de Vocal.
-
-Si por cualquier razón estos dos últimos no designaren a nadie dentro del plazo de quince días naturales contados a partir del día siguiente al de la petición formal que se les hiciera, la designación de los Notarios para los cargos de Secretario y Vocal los efectuará la Secretaría de Gobierno.
-
-No podrán formar parte del jurado, el Notario en cuya Notaría haya hecho práctica el sustentante, los parientes consanguíneos o afines de éste, dentro del tercer grado en línea recta o colateral o los que por cualquiera otra causa no pudieren actuar con imparcialidad.
-
-Si entre los designados para integrar el sínodo concurriere alguno de los impedidos por esta ley, deberá excusarse de intervenir en el examen.
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ### CAPÍTULO SEXTO TER. DE LA INTEGRACIÓN DEL JURADO Y DEL PROCEDIMIENTO DE EXAMEN
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2025)</small>
+
+###### Artículo 41 Ter.
+
+El jurado para el examen de oposición estará integrado por:
+
+I. Un Notario designado por la persona titular del Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, quien lo presidirá;
+
+II. Un Notario designado por la persona que presida el Tribunal Superior de Justicia, como persona secretaria, y
+
+III. Un Notario designado por la persona que presida la Mesa Directiva del Consejo de Notarios, quien desempeñará las funciones de Vocal.
+
+Si por cualquier razón estos dos últimos no designaren a nadie hasta un día antes de la fecha de celebración del examen, la designación de las personas Notarias para los cargos de Secretaría y Vocalía los efectuará la Secretaría de Gobierno.
+
+No podrán formar parte del jurado, el Notario en cuya Notaría haya hecho práctica la persona sustentante, los parientes consanguíneos o afines de éste, dentro del tercer grado en línea recta o colateral o las personas que por cualquiera otra causa no pudieren actuar con imparcialidad.
+
+Si entre las personas designadas para integrar el sínodo concurriere alguna de las personas impedidas por esta Ley, deberá excusarse de intervenir en el examen.
 
 ###### Artículo 42.
 
@@ -507,49 +521,65 @@ El examen para obtener la patente de Notario Público Titular se realizará conf
 
 I. Será un sólo examen por cada Notaría vacante o de nueva creación; en él participarán solo los sustentantes que hayan cubierto todos los requisitos señalados en los artículos anteriores y fuesen notificados por la Secretaría de Gobierno; un mismo solicitante sólo podrá inscribirse a un sólo examen de oposición independientemente de que haya más de una Notaría vacante o de nueva creación y no podrá volver a presentar examen hasta transcurridos seis meses contados a partir de la fecha de su último examen;
 
-II.- El examen constará de dos pruebas, una teórica y una práctica. Al sustentante que no se presente oportunamente en alguna de las pruebas o desista antes de transcurrir el tiempo máximo de su entrega, se le tendrá por desistido también del examen;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
+
+II.- El examen constará de dos pruebas, una teórica y una práctica. A la persona sustentante que no se presente oportunamente en alguna de las pruebas o desista antes de transcurrir el tiempo máximo de su entrega, o habiéndose presentado se niegue a entregar, se le tendrá por desistida también del examen;
 
 III.- La prueba práctica consistirá en la redacción de uno o más instrumentos notariales, atendiendo a lo siguiente:
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2025)</small>
 
-a) El jurado en sesión inmediatamente anterior a la celebración del examen y el mismo día, determinará como materia de la prueba práctica, cinco casos relacionados con diversos actos y negocios jurídicos de los que se formalizan en instrumentos notariales; dichos casos se colocarán por separado en sobres cerrados, firmados por los miembros del propio jurado y en su presencia, alguno de los sustentantes escogido al azar, elegirá uno de los sobres que contienen los temas, debiendo todos los participantes desarrollar el que se haya seleccionado. El Consejo de Notarios podrá, durante el mes de enero de cada año, proporcionarle a la Secretaría de Gobierno un temario de todos los casos que estime apropiados para la prueba práctica, el cual será publicado en el Periódico Oficial del Estado de Quintana Roo;
+a) El jurado en sesión inmediatamente anterior a la celebración del examen y el mismo día, determinará como materia de la prueba práctica, cinco casos relacionados con diversos actos y negocios jurídicos de los que se formalizan en instrumentos notariales; dichos casos se colocarán por separado en sobres cerrados, firmados por los miembros del propio jurado y en su presencia, alguna de las personas sustentantes escogida al azar, elegirá uno de los sobres que contienen los temas, debiendo todas las personas participantes desarrollar el que se haya seleccionado. El Consejo de Notarios podrá, durante el mes de enero de cada año, proporcionarle a la Secretaría de Gobierno un temario de todos los casos que estime apropiados para la prueba práctica, el cual será publicado en el Periódico Oficial del Estado de Quintana Roo;
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2025)</small>
 
-b) La prueba práctica se desahogará bajo la vigilancia de al menos un representante de la Secretaría de Gobierno, pudiendo auxiliarse los sustentantes, si así lo desean, de un mecanógrafo que no sea Licenciado en Derecho, Abogado o cualquier otro que tenga estudios en esta materia; el sustentante únicamente podrá estar provisto de leyes y libros de consulta necesarios. El o los vigilantes deberán comunicar por separado o conjuntamente al jurado, con copia a la autoridad competente, las irregularidades que hubiere percibido durante el desarrollo de esta prueba. Si a juicio del jurado, dichas irregularidades no impiden la continuación del examen, para esos efectos se tendrán por no hechas y no cuestionarán ni afectarán el resultado del mismo, y
+b) La prueba práctica se desahogará bajo la vigilancia de al menos una persona representante de la Secretaría de Gobierno, pudiendo auxiliarse las personas sustentantes, si así lo desean, de una persona que realice actividades de mecanografía, que no sea Licenciada en Derecho, Abogada o cualquier otra que tenga estudios en esta materia; la persona sustentante únicamente podrá estar provista de leyes y libros de consulta necesarios. Las personas vigilantes deberán comunicar por separado o conjuntamente al jurado, con copia a la autoridad competente, las irregularidades que hubiere percibido durante el desarrollo de esta prueba. Si a juicio del jurado, dichas irregularidades no impiden la continuación del examen, para esos efectos se tendrán por no hechas y no cuestionarán ni afectarán el resultado de éste, y
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2025)</small>
 
-c) Todos los sustentantes dispondrán de cinco horas continuas para la redacción del o de los instrumentos notariales, al término de las cuales el jurado recogerá los exámenes, mismos que serán firmados al margen o calce de cada hoja que los integren por el respectivo sustentante y por todos los miembros del jurado, colocándose cada uno de ellos en sobre que será cerrado y que quedará en resguardo del presidente del jurado.
+c) Todas las personas sustentantes dispondrán de cinco horas continuas para la redacción del o de los instrumentos notariales, al término de las cuales el jurado recogerá los exámenes, mismos que serán firmados al margen o calce de cada hoja que los integren por la respectiva persona sustentante y por todas las personas integrantes del jurado, colocándose cada uno de ellos en sobre que será cerrado y que quedará en resguardo de la presidencia del jurado.
 
-d) Todos los sustentantes dispondrán de cinco horas continuas para la redacción del o de los instrumentos notariales, al término de las cuales el jurado recogerá los exámenes, mismos que serán firmados al margen o calce de cada hoja que los integren por el respectivo sustentante y por todos los miembros del jurado, colocándose cada uno de ellos en sobre que será cerrado y que quedará en resguardo del presidente del jurado.
+d) (DEROGADO, P.O. 12 DE AGOSTO DE 2025)
 
-IV.- La prueba teórica será pública y abierta, se desarrollará de forma escrita, se iniciará en el lugar, día y hora señalados en la notificación y consistirá en la aplicación de un cuestionario escrito que el día del examen y en sesión previa, elaborará el jurado.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
 
-En la elaboración del cuestionario, el jurado deberá incluir preguntas relativas a esta ley y otros ordenamientos vinculados a la función notarial, así como a los casos desarrollados para la prueba práctica, que no podrán ser menos de treinta de las cuales cada uno de los miembros del jurado elaborará cuando menos diez preguntas.
+IV.- La prueba teórica será pública y abierta, se desarrollará de forma escrita, se iniciará al término de la prueba práctica, debiendo dejar pasar dos horas entre el término de ésta última y la prueba teórica y consistirá en la aplicación de un cuestionario escrito que el día del examen y en sesión previa, elaborará el jurado.
 
-Todos los sustentantes dispondrán de tres horas continuas para desahogar el cuestionario, al término de las cuales el jurado recogerá los exámenes mismos que serán firmados al margen o calce de cada hoja que los integren por el respectivo sustentante y por todos los miembros del jurado, colocándose cada uno de ellos en sobre que será cerrado y que quedará en resguardo del presidente del jurado;
+En la elaboración del cuestionario, el jurado deberá incluir preguntas relativas a esta Ley y otros ordenamientos vinculados a la función notarial, así como a los casos desarrollados para la prueba práctica, que no podrán ser menos de treinta de las cuales cada una de las personas integrantes del jurado elaborará cuando menos diez preguntas.
 
-V.- A más tardar al día hábil siguiente de haber sido concluida la prueba teórica de todos los sustentantes y previa confirmación de la no violación de los sobres que contengan los exámenes práctico y teórico, el jurado sesionará a fin de calificarlos y promediar resultados.
+Todas las personas sustentantes dispondrán de tres horas continuas para desahogar el cuestionario, al término de las cuales el jurado recogerá los exámenes mismos que serán firmados al margen o calce de cada hoja que los integren por la respectiva persona sustentante y por todas las personas integrantes del jurado, colocándose cada uno de ellos en sobre que será cerrado y que quedará en resguardo de la presidencia del jurado;
 
-El jurado calificará cada prueba en una escala de 0 a 100 puntos y la calificación mínima aprobatoria será de 75 promediando los resultados de las pruebas práctica y teórica de cada sustentante para obtener su calificación definitiva. Conforme a lo anterior los miembros del jurado emitirán por escrito e individualmente la calificación de cada examen y precisarán las calificaciones definitivas de todos los sustentantes para señalar quien de ellos resultó con mayor puntuación.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
 
-Hecho lo anterior, el secretario levantará por cuadriplicado el acta de calificación correspondiente, misma que será firmada por todos los integrantes del jurado quienes conservarán un ejemplar;
+V.- A más tardar al día hábil siguiente de haber sido concluidas las pruebas y previa confirmación de la no violación de los sobres que contengan los exámenes práctico y teórico, el jurado sesionará a fin de calificarlos y promediar resultados.
 
-VI.- Si ninguno de los sustentantes obtuviera la calificación mínima aprobatoria, el examen será declarado desierto y se convocará a uno nuevo para que se celebre en un plazo no menor de un año, contado a partir de la determinación que realice la Secretaría de Gobierno;
+El jurado calificará cada prueba en una escala de 0 a 100 puntos y la calificación mínima aprobatoria será de 75 promediando los resultados de las pruebas práctica y teórica de cada persona sustentante para obtener su calificación definitiva. Conforme a lo anterior las personas integrantes del jurado emitirán por escrito e individualmente la calificación de cada examen y precisarán las calificaciones definitivas de todas las personas sustentantes para señalar quien de ellas resultó con mayor puntuación.
 
-VII.- En caso de que algunos de los sustentantes empaten con la mayor puntuación, el jurado ordenará la práctica, entre ellos, de una prueba complementaria práctica y teórica, conforme a las reglas establecidas en los párrafos que preceden, para que se obtenga nueva calificación conforme a lo preceptuado en esta ley.
+Hecho lo anterior, la persona secretaria levantará por cuadriplicado el acta de calificación correspondiente, misma que será firmada por todas las personas integrantes del jurado quienes conservarán un ejemplar;
 
-Si por cuestiones de tiempo fuere imposible verificar la prueba complementaria en la misma fecha en que se emitió la calificación definitiva, el jurado fijará en ese momento el día y hora en que ésta deberá practicarse. Los sustentantes que hubieren empatado quedarán debidamente citados sí estuvieron presentes en el momento en que se emitió la anterior determinación o se manifestaren sabedores de la misma, en caso contrario se les notificará con las formalidades de ley en un plazo de veinticuatro horas. La prueba complementaria habrá de desarrollarse dentro de los ocho días hábiles siguientes al día de la citación de los sustentantes;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
 
-VIII.- Los sustentantes que obtengan calificación reprobatoria inferior a 75 pero no inferior a 60 puntos, podrán presentar nuevo examen tan pronto exista una nueva oposición, siempre y cuando tuviere satisfechos los requisitos previstos para solicitar inscripción al examen y hayan transcurrido por lo menos seis meses desde su reprobación, y
+VI.- Si ninguna de las personas sustentantes obtuviera la calificación mínima aprobatoria, el examen será declarado desierto y se convocará a uno nuevo para que se celebre en un plazo no menor de un año, contado a partir de la determinación que realice la Secretaría de Gobierno. Para el caso de que este supuesto sé de sobre notarías existentes, la persona titular del Poder Ejecutivo podrá nombrar de manera directa a una persona como notario suplente para que actúe en el protocolo hasta en tanto se realice el nuevo examen;
 
-IX.- Los sustentantes que obtengan una calificación inferior a 60 puntos, no podrán solicitar nuevo examen de oposición, si no pasado un año a partir de su reprobación.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
+
+VII.- En caso de que alguna de las personas sustentantes empate con la mayor puntuación, el jurado ordenará la práctica, entre ellas, de una prueba complementaria práctica y teórica, conforme a las reglas establecidas en los párrafos que preceden, para que se obtenga nueva calificación conforme a lo preceptuado en esta Ley.
+
+Si por cuestiones de tiempo fuere imposible verificar la prueba complementaria en la misma fecha en que se emitió la calificación definitiva, el jurado fijará en ese momento el día y hora en que ésta deberá practicarse. Las personas sustentantes que hubieren empatado quedarán debidamente citadas sí estuvieron presentes en el momento en que se emitió la anterior determinación o se manifestaren sabedoras de la misma, en caso contrario se les notificará con las formalidades de ley en un plazo de veinticuatro horas. La prueba complementaria habrá de desarrollarse dentro de los tres días siguientes al día de la citación de las personas sustentantes;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
+
+VIII.- Las personas sustentantes que obtengan calificación reprobatoria inferior a 75 pero no inferior a 60 puntos, podrán presentar nuevo examen tan pronto exista una nueva oposición, siempre y cuando tuviere satisfechos los requisitos previstos para solicitar inscripción al examen y hayan transcurrido por lo menos seis meses desde su reprobación, y
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
+
+IX.- Las personas sustentantes que obtengan una calificación inferior a 60 puntos, no podrán solicitar nuevo examen de oposición, sino pasado un año a partir de su reprobación.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 43.
 
-El presidente del jurado entregará al que haya obtenido la más alta calificación, una copia del acta del examen de oposición y comunicará al Titular del Poder Ejecutivo su resultado, remitiéndole un ejemplar del acta de calificación para los efectos del otorgamiento y publicación de la Patente de Notario Público Titular; lo cual deberá cumplimentarse dentro de los treinta días hábiles siguientes a la recepción del acta del examen.
+La persona que presida el jurado entregará a la persona que haya obtenido la más alta calificación, una copia del acta del examen de oposición y comunicará a la persona Titular del Poder Ejecutivo su resultado, remitiéndole un ejemplar del acta de calificación para los efectos del otorgamiento y publicación de la Patente de Notario Público Titular; lo cual deberá cumplimentarse a más tardar dentro de los cinco días siguientes a la recepción del acta del examen.
 
 ###### Artículo 44.
 
@@ -2356,3 +2386,13 @@ P.O. 25 DE MARZO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 135 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En caso de que estuviere vacante una Notaría por alguno de los supuestos señalados en el artículo 41 de la presente Ley, la persona Titular del Poder Ejecutivo deberá emitir la convocatoria respectiva, al día siguiente de la entrada en vigor del presente Decreto, para las personas interesadas en obtener la patente de la Notaría vacante.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
