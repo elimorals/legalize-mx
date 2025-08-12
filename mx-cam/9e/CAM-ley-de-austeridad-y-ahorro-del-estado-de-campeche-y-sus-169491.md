@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-austeridad-y-ahorro-del-estado-de-campeche-y-sus-169491"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-29"
-last_updated: "2024-10-09"
+last_updated: "2025-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2025.
 
 Ley publicada en la Segunda Sección del Número 2079 del Periódico Oficial del Estado de Campeche, el viernes 29 de diciembre de 2023.
 
@@ -285,6 +285,14 @@ Los Entes Públicos no podrán contratar servicios de asesoría, consulta, despa
 
 Para considerar que la contratación se encuentra debidamente justificada, el Ente Público que ejerza los recursos deberá acreditar que los servicios contratados que presten las personas físicas o morales no se pueden realizar con la fuerza de trabajo y capacidad profesional de los servidores públicos adscritos a dicho Ente Público; que los productos y servicios derivados de la contratación son proporcionales al pago y señalar el programa, meta y objetivo del Plan Estatal de Desarrollo en el que impacta positivamente dicha contratación. La debida justificación deberá constar por escrito y será responsabilidad del titular del Ente Público.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2025)</small>
+
+###### Artículo 18 Bis.
+
+Los Entes Públicos no podrán celebrar contrataciones por concepto de servicios personales o asimilados, cuya vigencia exceda el periodo constitucional o legal de duración de la administración correspondiente.
+
+El incumplimiento de esta disposición será considerado una falta en términos de lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas de los servidores públicos.
+
 ###### Artículo 19.
 
 Queda prohibida toda duplicidad de funciones en las unidades que conforman la administración pública estatal de acuerdo con lo establecido en la ley de la materia. No serán consideradas duplicadas las funciones complementarias y transversales realizadas por las unidades de igualdad de género.
@@ -532,3 +540,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En un plazo de noventa días naturales contados a partir de la entrada en vigor del presente decreto, el Ejecutivo Estatal, a través de la Secretaría de Administración y Finanzas, deberá realizar las modificaciones respectivas a los Lineamientos para la Integración, Operación y Funcionamiento del Comité de Evaluación en materia de Austeridad y Ahorro, publicados en el Periódico Oficial del Estado con fecha 03 de abril de 2024.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo lo que se opongan al contenido del presente decreto.
+
+P.O. 12 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 110 POR EL QUE “SE ADICIONA EL ARTÍCULO 18 BIS A LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
