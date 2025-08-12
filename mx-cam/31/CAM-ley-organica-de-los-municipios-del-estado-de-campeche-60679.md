@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2025-04-15"
+last_updated: "2025-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2025.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -646,6 +646,10 @@ VII. Solicitar, aceptar o recibir, por sí o por interpósita persona, derechos,
 VIII. Encomendar a servidores públicos municipales asuntos de carácter personal;
 
 IX. Intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción dentro de la administración pública municipal, de sus parientes consanguíneos o por afinidad hasta el cuarto grado o civiles, así como de terceros con los que tenga vínculos de negocios o de carácter privado;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2025)</small>
+
+IX Bis. Contratar servicios personales con vigencia posterior al término de su mandato;
 
 X. Residir durante su gestión fuera del territorio municipal; y
 
@@ -1635,11 +1639,13 @@ V. Establecer las bases generales para la realización de auditorías e inspecci
 
 VI. Vigilar que los recursos federales y estatales asignados a los ayuntamientos se apliquen en los términos estipulados en las leyes, los reglamentos y los convenios respectivos;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
 
 VII. Vigilar que los proveedores y contratistas de la administración pública municipal entreguen los materiales, suministros, servicios, bienes muebles e inmuebles y obras públicas en las condiciones pactadas en las órdenes de compra, órdenes de servicio o contratos.
 
-El Órgano Interno de Control deberá verificar que se justifique la contratación de servicios de arrendamiento, profesionales, científicos, técnicos y otros servicios profesionales, e informará el resultado de su análisis al Presidente Municipal y al Síndico de Hacienda. Las unidades administrativas del Ayuntamiento deberán enviar previamente al Órgano Interno de Control la información que justifique la necesidad de contratar los servicios;
+El Órgano Interno de Control deberá verificar que se justifique la contratación de servicios de arrendamiento, profesionales, científicos, técnicos, personales y otros servicios profesionales, e informará el resultado de su análisis a la o el titular de la Presidencia Municipal y a la o el Síndico de Hacienda. Las unidades administrativas del Ayuntamiento deberán enviar previamente al Órgano Interno de Control la información que justifique la necesidad de contratar los servicios.
+
+En el caso de la contratación de servicios personales, éstos no deberán tener una vigencia mayor a lo que dure el periodo constitucional o legal de la administración municipal correspondiente. El incumplimiento de esta disposición será considerado (sic) una falta en términos de lo dispuesto en la Ley General de Responsabilidades Administrativas;
 
 VIII. Coordinarse con la Auditoría Superior del Estado y con la Secretaría de la Contraloría del Estado para el cumplimiento de sus funciones;
 
@@ -2227,6 +2233,14 @@ V. Cuando se encuentren monumentos históricos en la zona urbana, en un lapso no
 
 VI. Los lotes baldíos o inmuebles que carezcan de construcción, en construcción sin terminar y con construcción desocupada que cuenten en su interior con maleza, basura o escombros en la zona urbana, en un lapso no mayor al año fiscal correspondiente.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2025)</small>
+
+ARTÍCULO 162 TER.- Los Ayuntamientos, por conducto de sus autoridades y dependencias competentes, deberán realizar la revisión, reparación y mantenimiento periódico de los parques infantiles y espacios recreativos que se encuentren bajo su responsabilidad, garantizando condiciones de seguridad para sus usuarios.
+
+Asimismo, el Ayuntamiento elaborará informes trimestrales sobre el estado que guardan los parques infantiles municipales, en un plazo no mayor a 15 días hábiles, al término del trimestre que corresponda, los cuales deberán ser publicados para conocimiento de la ciudadanía en los medios oficiales de mayor difusión con los que cuente el Municipio. En casos de riesgo inminente para las niñas y niños se deberá realizar el cierre temporal inmediato del espacio hasta que se resuelva la situación de deterioro o mal estado del parque infantil de que se trate.
+
+Las actividades administrativas irregulares en esta materia, darán lugar a las responsabilidades que correspondan en términos de la legislación aplicable, así como a las sanciones administrativas y legales que deban imponerse tratándose de personas físicas o morales prestadoras de servicios públicos.
+
 ###### ARTÍCULO 163.
 
 La supervisión de los servicios públicos a cargo del Municipio que no sean objeto de concesión la realizará el Presidente Municipal con la participación que corresponda a los Regidores, a las autoridades auxiliares y a las dependencias municipales. El Órgano Interno de Control tendrá al respecto las atribuciones que conforme a las leyes y los reglamentos municipales le correspondan.
@@ -2738,3 +2752,21 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En los casos que sean necesarios, los Ayuntamientos tendrán un plazo de ciento veinte días hábiles contados a partir de la entrada en vigor del presente decreto, para adecuar sus reglamentos conforme a lo establecido en el mismo.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 12 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 110 POR EL QUE “SE ADICIONA UNA FRACCIÓN IX BIS AL ARTÍCULO 72 Y, SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 128 DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 12 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 111 POR EL QUE “SE ADICIONA EL ARTÍCULO 162 TER A LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los HH. Ayuntamientos del Estado de Campeche, deberán emitir en un plazo no mayor a 60 días naturales, las disposiciones administrativas necesarias para la expedición de la normatividad o lineamientos que establezcan los mecanismos, acciones y demás metodología de inspección y reporte relacionados con la seguridad infantil en espacios públicos.
+
+TERCERO.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
