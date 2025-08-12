@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-disciplina-financiera-y-responsabilidad-hacendaria-11771
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-18"
-last_updated: "2023-12-29"
+last_updated: "2025-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 18 de noviembre de 2016.
 
@@ -917,7 +917,9 @@ Las percepciones extraordinarias son aquéllas que no constituyen un ingreso fij
 
 VI. Las Secretarías y Dependencias deberán cubrir los pagos en los términos autorizados por la Secretaría y, en el caso de las Entidades, adicionalmente por acuerdo del órgano de gobierno;
 
-VII. Abstenerse de contraer obligaciones en materia de servicios personales que impliquen compromisos en subsecuentes ejercicios fiscales, salvo en los casos permitidos en esta Ley. En todo caso, la creación, sustitución de plazas y las nuevas contrataciones sólo procederán cuando se cuente con los recursos previamente autorizados para cubrir todos los gastos inherentes a las contrataciones, incluyendo las obligaciones por concepto de impuestos, aportaciones a seguridad social y demás pagos y prestaciones que por Ley deban cubrirse. Respecto de los recursos para cubrir obligaciones inherentes a las contrataciones que tengan un impacto futuro en el gasto, la Secretaría deberá constituir las reservas que garanticen que dichas obligaciones estén en todo momento plenamente financiadas;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
+
+VII. Abstenerse de contraer obligaciones en materia de servicios personales que impliquen compromisos con posterioridad al término de su administración o en subsecuentes ejercicios fiscales, salvo en los casos permitidos en esta Ley. En todo caso, la creación, sustitución de plazas y las nuevas contrataciones sólo procederán cuando se cuente con los recursos previamente autorizados para cubrir todos los gastos inherentes a las contrataciones, incluyendo las obligaciones por concepto de impuestos, aportaciones a seguridad social y demás pagos y prestaciones que por Ley deban cubrirse. Respecto de los recursos para cubrir obligaciones inherentes a las contrataciones que tengan un impacto futuro en el gasto, la Secretaría deberá constituir las reservas que garanticen que dichas obligaciones estén en todo momento plenamente financiadas;
 
 VIII. Abstenerse de contratar trabajadores eventuales, salvo que tales contrataciones se encuentren previstas en el respectivo presupuesto destinado a servicios personales;
 
@@ -965,7 +967,9 @@ Los ejecutores de gasto podrán celebrar contratos de prestación de servicios p
 
 I. Los recursos destinados a celebrar tales contratos deberán estar expresamente previstos para tal efecto en sus respectivos presupuestos autorizados de servicios personales;
 
-II. Los contratos no podrán exceder la vigencia anual de cada Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2025)</small>
+
+II. Los contratos no podrán exceder la vigencia anual de cada Presupuesto de Egresos, así como tampoco podrán exceder la vigencia del término de su administración. El incumplimiento de esta disposición será considerado una falta en términos de lo dispuesto en la Ley General de Responsabilidades Administrativas;
 
 III. La persona que se contrate no deberá realizar actividades o funciones equivalentes a las que desempeñe el personal que ocupe una plaza presupuestaria, salvo los casos autorizados por la Secretaría; y
 
@@ -1266,3 +1270,11 @@ En un plazo de noventa días naturales, contados a partir de la entrada en vigor
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en todo lo que se opongan al contenido de este Decreto
+
+P.O. 12 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 110 POR EL QUE “SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 72 Y, LA FRACCIÓN II DEL ARTÍCULO 75 DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
