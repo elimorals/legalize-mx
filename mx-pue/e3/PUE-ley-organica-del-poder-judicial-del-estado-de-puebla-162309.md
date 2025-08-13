@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-de-puebla-162309"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-01-06"
-last_updated: "2024-02-23"
+last_updated: "2025-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2025.
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Puebla, el viernes 6 de enero de 2023.
 
@@ -251,55 +251,59 @@ El Presidente o Presidenta del Consejo podrá ordenar, cuando considere convenie
 
 Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre la persona o los bienes de las personas servidoras judiciales, en los inmuebles que ocupe el Poder Judicial.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO 12.
 
-Para los efectos de la presente ley, el territorio del Estado se divide en los siguientes distritos judiciales:
+Para los efectos de la presente Ley, el territorio del Estado se divide en los distritos judiciales siguientes:
 
-ACATLÁN. Con cabecera en el municipio de Acatlán y comprende los municipios de: Acatlán, Ahuehuetitla, Axutla, Chila, Chinantla, Guadalupe, Petlalcingo, Piaxtla, San Jerónimo Xayacatlán, San Miguel Ixitlán, San Pablo Anicano, San Pedro Yeloixtlahuaca, Tecomatlán, Tehuitzingo, Totoltepec de Guerrero y Xayacatlán de Bravo.
+ACATLÁN: Con cabecera en el municipio de Acatlán y comprende los municipios de Acatlán, Ahuehuetitla, Axutla, Chila, Chinantla, Guadalupe, Petlalcingo, Piaxtla, San Jerónimo Xayacatlán, San Miguel Ixitlán, San Pablo Anicano, San Pedro Yeloixtlahuaca, Tecomatlán, Tehuitzingo, Totoltepec de Guerrero y Xayacatlán de Bravo.
 
-AJALPAN. Con cabecera en el municipio de Ajalpan y comprende los municipios de: Ajalpan, Altepexi, Coyomeapan, Eloxochitlán, San Sebastián Tlacotepec, Vicente Guerrero, Zinacatepec y Zoquitlán.
+ACATZINGO: Con cabecera en el municipio de Acatzingo y comprende los municipios de Acatzingo, Aljojuca, General Felipe Ángeles, Mazapiltepec de Juárez, Nopalucan, Rafael Lara Grajales, San José Chiapa, San Juan Atenco, San Nicolás Buenos Aires, San Salvador El Seco y Soltepec.
 
-ALATRISTE. Con cabecera en el municipio de Chignahuapan y comprende los municipios de: Aquixtla, Chignahuapan e Ixtacamaxtitlán.
+AJALPAN: Con cabecera en el municipio de Ajalpan y comprende los municipios de Ajalpan, Altepexi, Coyomeapan, Eloxochitlán, San Sebastián Tlacotepec, Vicente Guerrero, Zinacatepec y Zoquitlán.
 
-ATLIXCO. Con cabecera en el municipio de Atlixco y comprende los municipios de: Atlixco, Atzitzihuacan, Huaquechula, Nealtican, Tianguismanalco y Tochimilco.
+ALATRISTE: Con cabecera en el municipio de Chignahuapan y comprende los municipios de Aquixtla, Chignahuapan e Ixtacamaxtitlán.
 
-CHALCHICOMULA. Con cabecera en el municipio de Chalchicomula de Sesma y comprende los municipios de: Aljojuca, Atzitzintla, Cañada Morelos, Chalchicomula de Sesma, Chichiquila, Chilchotla, Esperanza, Guadalupe Victoria, Lafragua, Mazapiltepec de Juárez, Quimixtlán, San Juan Ateneo, San Nicolás Buenos Aires, San Salvador El Seco, Soltepec y Tlachichuca.
+ATLIXCO: Con cabecera en el municipio de Atlixco y comprende los municipios de Atlixco, Atzitzihuacan, Huaquechula, Nealtican, Tianguismanalco y Tochimilco.
 
-CHIAUTLA. Con cabecera en el municipio de Chiautla y comprende los municipios de: Albino Zertuche, Atzala, Chiautla, Chila de la Sal, Cohetzala, Huehuetlán El Chico, Ixcamilpa de Guerrero, Jolalpan, Teotlalco, Tulcingo y Xicotlán.
+CHALCHICOMULA: Con cabecera en el municipio de Chalchicomula de Sesma y comprende los municipios de Atzitzintla, Cañada Morelos, Chalchicomula de Sesma, Chichiquila, Chilchotla, Esperanza, Guadalupe Victoria, Lafragua, Quimixtlán y Tlachichuca.
 
-CHOLULA. Con cabecera en el municipio de San Pedro Cholula y comprende los municipios de: Calpan, Coronango, Cuautlancingo, Juan C. Bonilla, Ocoyucan, San Andrés Cholula, San Gregario Atzompa, Santa Isabel Cholula, San Jerónimo Tecuanipan, San Miguel Xoxtla, San Nicolás de los Ranchos, San Pedro Cholula, y Tlaltenango.
+CHIAUTLA: Con cabecera en el municipio de Chiautla y comprende los municipios de Albino Zertuche, Atzala, Chiautla, Chila de la Sal, Cohetzala, Huehuetlán El Chico, Ixcamilpa de Guerrero, Jolalpan, Teotlalco, Tulcingo y Xicotlán.
 
-HUAUCHINANGO. Con cabecera en el municipio de Huauchinango y comprende los municipios de: Ahuazotepec, Chiconcuautla, Honey, Huauchinango, Juan Galindo, Naupan, Pahuatlán y Tlaola.
+CHOLULA: Con cabecera en el municipio de San Pedro Cholula y comprende los municipios de Calpan, Coronango, Cuautlancingo, Juan C. Bonilla, Ocoyucan, San Andrés Cholula, San Gregorio Atzompa, Santa Isabel Cholula, San Jerónimo Tecuanipan, San Miguel Xoxtla, San Nicolás de los Ranchos, San Pedro Cholula y Tlaltenango.
 
-HUEJOTZINGO. Con cabecera en el municipio de Huejotzingo y comprende los municipios de: Chiautzingo, Domingo Arenas, Huejotzingo, San Felipe Teotlalcingo, San Martín Texmelucan, San Matías Tlalancaleca, San Salvador El Verde y Tlahuapan.
+HUAUCHINANGO: Con cabecera en el municipio de Huauchinango y comprende los municipios de Ahuazotepec, Chiconcuautla, Honey, Huauchinango, Juan Galindo, Naupan, Pahuatlán y Tlaola.
 
-MATAMOROS. Con cabecera en el municipio de Izúcar de Matamoros y comprende los municipios de: Acteopan, Ahuatlán, Chietla, Coatzingo, Cohuecan, Epatlán, Izúcar de Matamoros, San Diego La Mesa Tochimiltzingo, San Martín Totoltepec, Teopantlán, Tepemaxalco, Tepeojuma, Tepexco, Tilapa, Tlapanalá y Xochiltepec.
+HUEJOTZINGO: Con cabecera en el municipio de Huejotzingo y comprende los municipios de Chiautzingo, Domingo Arenas, Huejotzingo, San Felipe Teotlalcingo, San Martín Texmelucan, San Matías Tlalancaleca, San Salvador El Verde y Tlahuapan.
 
-PUEBLA. Comprende el municipio de Puebla.
+MATAMOROS: Con cabecera en el municipio de Izúcar de Matamoros y comprende los municipios de Acteopan, Ahuatlán, Chietla, Coatzingo, Cohuecan, Epatlán, Izúcar de Matamoros, San Diego La Mesa Tochimiltzingo, San Martín Totoltepec, Teopantlán, Tepemaxalco, Tepeojuma, Tepexco, Tilapa, Tlapanalá y Xochiltepec.
 
-SAN JUAN DE LOS LLANOS. Con cabecera en el municipio de Libres y comprende los municipios de: Cuyoaco, Libres, Ocotepec, Oriental, Tepeyahualco y Zautla.
+PUEBLA: Comprende el municipio de Puebla.
 
-TECALI. Con cabecera en el municipio de Tecali de Herrera y comprende los municipios de: Atoyatempan, Cuautinchán, Huitziltepec, Mixtla, Santo Tomás Hueyotlipan, Tecali de Herrera, Tepeyahualco de Cuauhtémoc y Tzicatlacoyan.
+SAN JUAN DE LOS LLANOS: Con cabecera en el municipio de Libres y comprende los municipios de Cuyoaco, Libres, Ocotepec, Oriental, Tepeyahualco y Zautla.
 
-TECAMACHALCO. Con cabecera en el municipio de Tecamachalco y comprende los municipios de: General Felipe Ángeles, Palmar de Bravo, Quecholac, Tecamachalco, Tlacotepec de Benito Juárez, Tlanepantla, Tochtepec, Xochitlán Todos Santos y Yehualtepec.
+TECALI: Con cabecera en el municipio de Tecali de Herrera y comprende los municipios de Atoyatempan, Cuautinchán, Huitziltepec, Mixtla, Santo Tomás Hueyotlipan, Tecali de Herrera, Tepeyahualco de Cuauhtémoc y Tzicatlacoyan.
 
-TEHUACÁN. Con cabecera en el municipio de Tehuacán y comprende los municipios de: Caltepec, Chapulco, Coxcatlán, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, Santiago Miahuatlán, Tehuacán, Tepanco de López y Zapotitlán.
+TECAMACHALCO: Con cabecera en el municipio de Tecamachalco y comprende los municipios de Palmar de Bravo, Quecholac, Tecamachalco, Tlacotepec de Benito Juárez, Tlanepantla, Tochtepec, Xochitlán Todos Santos y Yehualtepec.
 
-TEPEACA. Con cabecera en el municipio de Tepeaca y comprende los municipios de: Acajete, Acatzingo, Amozoc, Cuapiaxtla de Madero, Los Reyes de Juárez, Nopalucan, Rafael Lara Grajales, San José Chiapa, San Salvador Huixcolotla, Tepatlaxco de Hidalgo y Tepeaca.
+TEHUACÁN: Con cabecera en el municipio de Tehuacán y comprende los municipios de Caltepec, Chapulco, Coxcatlán, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, Santiago Miahuatlán, Tehuacán, Tepanco de López y Zapotitlán.
 
-TEPEXI. Con cabecera en el municipio de Tepexi de Rodríguez y comprende los municipios de: Atexcal, Chigmecatitlán, Coyotepec, Coayuca de Andrade, Huatlatlauca, Huehuetlán El Grande, Ixcaquixtla, Juan N. Méndez, La Magdalena Tlatlauquitepec, Molcaxac, San Juan Atzompa, Santa Catarina Tlaltempan, Santa Inés Ahuatempan, Tepexi de Rodríguez y Zacapala.
+TEPEACA: Con cabecera en el municipio de Tepeaca y comprende los municipios de Acajete, Amozoc, Cuapiaxtla de Madero, Los Reyes de Juárez, San Salvador Huixcolotla, Tepatlaxco de Hidalgo y Tepeaca.
 
-TETELA. Con cabecera en el municipio de Tetela de Ocampo y comprende los municipios de: Cuautempan, Huitzilan de Serdán, Jonotla, Tetela de Ocampo, Tuzamapan de Galeana, Zapotitlán de Méndez, Zongozotla y Zoquiapan.
+TEPEXI: Con cabecera en el municipio de Tepexi de Rodríguez y comprende los municipios de Atexcal Chigmecatitlán, Coyotepec, Coayuca de Andrade, Huatlatlauca, Huehuetlán El Grande, Ixcaquixtla, Juan N. Méndez, La Magdalena Tlatlauquitepec, Molcaxac, San Juan Atzompa, Santa Catarina Tlaltempan, Santa Inés Ahuatempan, Tepexi de Rodríguez y Zacapala.
 
-TEZIUTLÁN. Con cabecera en el municipio de Teziutlán y comprende los municipios de: Acateno, Ayotoxco de Guerrero, Chignautla, Hueytamalco, Tenampulco, Teziutlán y Xiutetelco.
+TETELA: Con cabecera en el municipio de Tetela de Ocampo y comprende los municipios de Cuautempan, Huitzilan de Serdán, Jonotla, Tetela de Ocampo, Tuzamapan de Galeana, Zapotitlán de Méndez, Zongozotla y Zoquiapan.
 
-TLATLAUQUITEPEC. Con cabecera en el municipio de Tlatlauquitepec y comprende los municipios de: Atempan, Hueyapan, Teteles de Ávila Castillo, Tlatlauquitepec, Yaonahuac y Zaragoza.
+TEZIUTLÁN: Con cabecera en el municipio de Teziutlán y comprende los municipios de Acateno, Ayotoxco de Guerrero, Chignautla, Hueytamalco, Tenampulco, Teziutlán y Xiutetelco.
 
-XICOTEPEC DE JUÁREZ. Con cabecera en el municipio de Xicotepec y comprende los municipios de: Francisco Z. Mena, Jalpan, Pantepec, Tlacuilotepec, Tlaxco, Venustiano Carranza, Xicotepec y Zihuateutla.
+TLATLAUQUITEPEC: Con cabecera en el municipio de Tlatlauquitepec y comprende los municipios de Atempan, Hueyapan, Teteles de Ávila Castillo, Tlatlauquitepec, Yaonahuac y Zaragoza.
 
-ZACAPOAXTLA. Con cabecera en el municipio de Zacapoaxtla y comprende los municipios de: Cuetzalan del Progreso, Nauzontla, Xochiapulco, Xochitlán de Vicente Suárez y Zacapoaxtla.
+XICOTEPEC DE JUÁREZ: Con cabecera en el municipio de Xicotepec y comprende los municipios de Francisco Z. Mena, Jalpan, Pantepec, Tlacuilotepec, Tlaxco, Venustiano Carranza, Xicotepec y Zihuateutla.
 
-ZACATLÁN. Con cabecera en el municipio de Zacatlán y comprende los municipios de: Ahuacatlán, Amixtlán, Atlequizayán, Camocuautla, Caxhuacán, Coatepec, Hermenegildo Galeana, Huehuetla, Hueytlalpan, Ixtepec, Jopala, Olintla, San Felipe Tepatlán, Tepango de Rodríguez, Tepetzintla, Tlapacoya y Zacatlán.
+ZACAPOAXTLA: Con cabecera en el municipio de Zacapoaxtla y comprende los municipios de Cuetzalan del Progreso, Nauzontla, Xochiapulco, Xochitlán de Vicente Suárez y Zacapoaxtla.
+
+ZACATLÁN: Con cabecera en el municipio de Zacatlán y comprende los municipios de Ahuacatlán, Amixtlán, Atlequizayán, Camocuautla, Caxhuacán, Coatepec, Hermenegildo Galeana, Huehuetla, Hueytlalpan, Ixtepec, Jopala, Olintla, San Felipe Tepatlán, Tepango de Rodríguez, Tepetzintla, Tlapacoya y Zacatlán.
 
 ###### ARTÍCULO 13.
 
@@ -309,7 +313,9 @@ I. Sur: Comprende los distritos judiciales de Acatlán, Chiautla y Matamoros, co
 
 II. Norte: Comprende los distritos judiciales de Xicotepec de Juárez, Zacatlán, Alatriste, Tetela y Huauchinango, con sede en este último;
 
-III. Oriente: Comprende los distritos judiciales de Tlatlauquitepec, Zacapoaxtla, San Juan de los Llanos, Chalchicomula y Teziutlán, con sede en este último;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2025)</small>
+
+III. Oriente: Comprende los distritos judiciales de Acatzingo, Tlatlauquitepec, Zacapoaxtla, San Juan de los Llanos, Chalchicomula y Teziutlán, con sede en este último;
 
 IV. Sur-Oriente: Comprende los distritos judiciales de Ajalpan, Tecamachalco, Tepexi y Tehuacán, con sede en este último;
 
@@ -2664,3 +2670,15 @@ QUINTO. El Consejo en un término no mayor a sesenta días hábiles deberá real
 SEXTO. El Consejo emitirá los acuerdos necesarios para el cumplimiento del presente Decreto.
 
 SÉPTIMO. El titular del Centro de Justicia Alternativa durará en su cargo el tiempo para el cual fue nombrado.
+
+P.O. 13 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 12 Y LA FRACCIÓN III DEL ARTÍCULO 13 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Distrito Judicial de Acatzingo iniciará sus funciones mediante declaratoria que expida el Consejo de la Judicatura del Poder Judicial del Estado, una vez que cuente con los recursos necesarios para su operación, conforme a la suficiencia presupuestal.
+
+CUARTO. El Consejo de la Judicatura del Poder Judicial del Estado, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará de recursos humanos y financieros necesarios para el inicio de funciones del Distrito Judicial de Acatzingo.
