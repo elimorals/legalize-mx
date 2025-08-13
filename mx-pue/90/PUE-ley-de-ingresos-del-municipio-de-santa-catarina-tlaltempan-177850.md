@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-municipio-de-santa-catarina-tlaltempan-1778
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-26"
-last_updated: "2024-12-26"
+last_updated: "2025-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE INGRESOS DEL MUNICIPIO DE SANTA CATARINA TLALTEMPAN, PUEBLA, PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2025.
 
 Ley publicada en la Décima Sexta Sección al Número 18 del Periódico Oficial del Estado de Puebla, el jueves 26 de diciembre de 2024.
 
