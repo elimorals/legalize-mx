@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-secretaria-para-el-desarrollo-142028"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-08"
-last_updated: "2020-01-08"
+last_updated: "2025-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA PARA EL DESARROLLO ENERGETICO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE, PUBLICADO EN EL P.O. DE 13 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA PARA EL DESARROLLO ENERGÉTICO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2025 (ABROGADO).
 
 Código publicado en el Suplemento D del Periódico Oficial del Estado de Tabasco, miércoles 8 de enero de 2020.
 
@@ -496,3 +498,13 @@ Requiere del compromiso de todas las personas servidoras públicas de la SEDENER
 Todas y todos los servidores públicos de la SEDENER deberemos formalizar cada año con la carta compromiso, la declaración responsable de la aplicación del Código de conducta de la Secretaría. La carta compromiso favorecerá la creación de un entorno de lealtad, honradez, respeto y profesionalismo, para propiciar la prevención, detección y sanción de eventuales actos de corrupción, abusos, fraudes u otras irregularidades contrarias a los principios, valores, normas y directrices establecidas en el Código.
 
 Es por lo anterior, que en este mismo acto suscribo esta carta compromiso, en la que (sic) asentará mi nombre, puesto, unidad administrativa de adscripción, firma autógrafa y fecha.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE”.]
+
+PRIMERO. El presente Condigo (sic) de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Código de Conducta de la Secretaría para el Desarrollo Energético, publicado en el Suplemento D, del Periódico Oficial del Estado, numero 8070, de fecha 08 de enero de 2020.
