@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-04-11"
+last_updated: "2025-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -166,6 +166,10 @@ V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado a
 VI. Certificado de Idoneidad: El documento expedido por la Procuraduría de Protección, previa autorización del Consejo Técnico de Adopciones, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
 VII. Consejo Técnico de Adopciones: Es un cuerpo colegiado coadyuvante de la asistencia social, que tendrá como objetivo vigilar el desempeño de la tutela que se le concede por ministerio de ley y sobre la delegación de aquella y la posibilidad de adopción de los menores e incapaces, así como autorizar los certificados de idoneidad correspondientes, protegiendo y cuidando el interés superior del menor o incapaz, conforme a las leyes de la materia, acuerdos y Tratados Internacionales;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2025)</small>
+
+VII Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos corporales ni tratos humillantes y crueles, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos;
 
 VIII. Diseño Universal de Accesibilidad: El diseño de productos, programas y servicios que puedan utilizar niñas, niños y adolescentes, así como las ayudas técnicas que permitan su optimización, para los casos de discapacidad;
 
@@ -389,9 +393,9 @@ La falta de recursos económicos no podrá considerarse motivo suficiente para s
 
 Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2025)</small>
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de su entorno familiar y para que, en su caso, sean atendidos a través de las medidas especiales de protección que dispone el artículo 24 de esta Ley.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar y crianza positiva, para evitar la separación de niñas, niños y adolescentes de su entorno familiar y para que, en su caso, sean atendidos a través de las medidas especiales de protección que dispone el artículo 24 de esta Ley.
 
 ###### ARTÍCULO 21.
 
@@ -767,9 +771,9 @@ Para efectos de los derechos y obligaciones derivados de la filiación y parente
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
-###### ARTÍCULO 42.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2025)</small>
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, vigilarán el cumplimiento del mismo.
+ARTÍCULO 42 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de adoptar prácticas de crianza positiva y de proporcionar dentro de sus posibilidades y medios económicos las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, vigilarán el cumplimiento del mismo.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2024)</small>
 
@@ -787,7 +791,9 @@ Niñas, niños y adolescentes tienen derecho a recibir la prestación de servici
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes se coordinarán a fin de:
 
-I. Asegurar la asistencia médica y sanitaria para la prevención, tratamiento y rehabilitación de su salud; haciendo hincapié en la atención primaria;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2025)</small>
+
+I. Asegurar la asistencia médica y sanitaria para la prevención, tratamiento y rehabilitación de su salud; haciendo hincapié en la atención primaria; así como a garantizar el acceso de los servicios integrales para el cuidado digno de niñas, niños y adolescentes, en especial de la primera infancia.
 
 II. Reducir la morbilidad y mortalidad infantil;
 
@@ -827,13 +833,17 @@ XVI. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabili
 
 XVII. Proteger a las niñas, niños y adolescentes de experimentos o manipulaciones genéticas contrarias a su integridad y a su desarrollo físico o mental;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2025)</small>
 
-XVIII. Proporcionar asesoría y orientación sobre salud sexual y reproductiva, y
+XVIII. Proporcionar asesoría y orientación sobre salud sexual y reproductiva;
 
-> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2025)</small>
 
-XIX. Establecer medidas para la detección de la condición del espectro autista, con el fin de tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios de acuerdo a los objetivos del Sistema Nacional de Salud.
+XIX. Establecer medidas para la detección de la condición del espectro autista, con el fin de tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios de acuerdo a los objetivos del Sistema Nacional de Salud; y
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2025)</small>
+
+XX. Impulsar acciones para fomentar la crianza positiva, dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes.
 
 Asimismo, se garantizará que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
@@ -1101,7 +1111,9 @@ VIII. Las autoridades estatales y municipales, están obligadas a implementar me
 
 IX. El castigo corporal y humillante.
 
-Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de las personas encargadas y el personal de instituciones educativas, deportivas, religiosas, culturales, artísticas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estas personas el uso del castigo corporal ni el castigo humillante.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2025)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza positiva de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de las personas encargadas y el personal de instituciones educativas, deportivas, religiosas, culturales, artísticas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estas personas el uso del castigo corporal ni el castigo humillante.
 
 Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
 
@@ -1481,9 +1493,9 @@ IV. Asegurar que cursen la educación obligatoria, participar en su proceso educ
 
 V. Impartir en consonancia con la evolución de su desarrollo, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2025)</small>
 
-VI. Asegurar un entorno afectivo, comprensivo y sin violencia, que incluya atención, orientación, reconocimiento y potenciación, con el fin de lograr el pleno, armonioso y libre desarrollo de su personalidad;
+VI. Asegurar un entorno afectivo, comprensivo y sin violencia, que incluya atención, orientación, reconocimiento y potenciación, con el fin de lograr el pleno, armonioso y libre desarrollo de su personalidad a través de la crianza positiva.
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2021)</small>
 
@@ -1613,7 +1625,9 @@ V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarr
 
 VI. Áreas de descanso, recreación, juego y esparcimiento que favorezcan su desarrollo integral;
 
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2025)</small>
+
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez; y en la crianza positiva;
 
 VIII. Espacios de participación para expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta, y
 
@@ -1747,9 +1761,17 @@ VIII. Recibir de las organizaciones privadas, las propuestas y recomendaciones s
 
 IX. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el sistema nacional de información, la información necesaria para la elaboración de éstas;
 
-X. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley, y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2025)</small>
 
-XI. Cualquiera otra que se derive del cumplimiento de esta Ley y demás disposiciones aplicables.
+X. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE AGOSTO DE 2025)</small>
+
+XI. Impulsar acciones para fomentar la crianza positiva dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE AGOSTO DE 2025)</small>
+
+XII. Cualquiera otra que se derive del cumplimiento de esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 114.
 
@@ -2534,6 +2556,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 43, EL PÁRRAFO PRIMERO Y LA FRACCIÓN VI DEL 62, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 20, EL 42, LAS FRACCIONES I, XVIII Y XIX DEL ARTÍCULO 45, EL SEGUNDO PÁRRAFO DEL 62, LA FRACCIÓN VI DEL 98, LA FRACCIÓN VII DEL 104, LAS FRACCIONES X Y XI DEL 113; Y ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 5, LA FRACCIÓN XX AL ARTÍCULO 45 Y LA FRACCIÓN XII AL 113, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
