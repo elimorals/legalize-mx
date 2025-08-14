@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2025-05-01"
+last_updated: "2025-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 14 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE AGOSTO DE 2025 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2025 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -3738,3 +3740,75 @@ P.O. 1 DE MAYO DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. DE 14 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado de Durango aprobada mediante decreto 296, publicada en el Periódico Oficial del Gobierno del Estado Número 47 de fecha 10 de diciembre de 2009, con las salvedades previstas en los transitorios siguientes.
+
+TERCERO. Al Tribunal de Disciplina Judicial le corresponderá recibir los recursos materiales, humanos, financieros y presupuestales de las áreas del Consejo de la Judicatura, que actualmente ejercen funciones de disciplina y control interno de los integrantes del Poder Judicial.
+
+CUARTO. Al Órgano de Administración Judicial se transferirán los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de administración y de Carrera Judicial.
+
+QUINTO. Para la transferencia de los recursos humanos, materiales, financieros y presupuestales señalados en los transitorios anteriores, el Consejo de la Judicatura o en su caso el Órgano de Administración, podrá adoptar las medidas que considere pertinentes relativas a la readscripción del personal atendiendo a las necesidades del servicio a cualquiera de las áreas, instancias u órganos jurisdiccionales que así se justifique.
+
+SEXTO. El Tribunal Superior de Justicia y el Consejo de la Judicatura deberán garantizar la continuidad de los instrumentos jurídicos de adquisición de bienes, así como la contratación de servicios profesionales, arrendamientos, obras y servicios relacionados con las mismas, que sean estrictamente indispensables para el funcionamiento de los distintos órganos integrantes del Poder Judicial, previendo que las vigencias de los instrumentos contractuales no superen el ejercicio dos mil veinticinco, de conformidad con el presupuesto aprobado por el Congreso del Estado para el año fiscal correspondiente.
+
+De igual forma, las condiciones generales de trabajo que tenga actualmente celebradas el Poder Judicial con el personal sindicalizado se mantendrán vigentes, para tal efecto, las obligaciones a cargo del Consejo de la Judicatura las asumirá el Órgano de Administración Judicial.
+
+SÉPTIMO. Los procedimientos disciplinarios iniciados con anterioridad a la entrada en vigor de la presente Ley se substanciarán por el Tribunal de Disciplina Judicial o el órgano de Administración Judicial, según corresponda, conforme a las disposiciones vigentes en aquel momento.
+
+OCTAVO. En todo lo no previsto en la presente Ley, el Pleno del Tribunal de Disciplina Judicial regulará la transición de los procesos disciplinarios de los que conoce el Consejo de la Judicatura mediante acuerdo general.
+
+NOVENO. Los precedentes obligatorios de los órganos jurisdiccionales del Poder Judicial que se hubieran emitido con anterioridad a la entrada en vigor de la presente Ley mantendrán su vigencia y, por tanto, su carácter orientativo o vinculante según corresponda.
+
+Para su modificación, las nuevas personas servidoras públicas electas para cargos de decisión jurisdiccional deberán observar y respetar los requisitos previstos para ello en los términos y procedimientos que para tal efecto establezcan las leyes.
+
+La nueva integración del Pleno del Tribunal Superior de Justicia estará facultada para dilucidar la posible contradicción de criterios sostenidos entre las anteriores Salas.
+
+DÉCIMO. Los acuerdos generales emitidos por el Consejo de la Judicatura y el Tribunal Superior de Justicia, continuarán vigentes en todo lo que no se oponga al marco constitucional y a la presente Ley, hasta en tanto el Órgano de Administración Judicial, el Tribunal Superior de Justicia o el Tribunal de Disciplina Judicial emitan sus propios acuerdos.
+
+DÉCIMO PRIMERO. Los juzgados civiles serán competentes para conocer de los juicios sucesorios y de petición de herencia en relación a aquellos procesos que sean iniciados por los interesados a partir del día primero de septiembre de dos mil veinticinco, por lo que los juzgados familiares seguirán conociendo hasta su total conclusión respecto de aquellos procedimientos ya turnados ante los mismos hasta el día treinta y uno de agosto de dos mil veinticinco, de acuerdo a lo dispuesto por la presente Ley.
+
+DÉCIMO SEGUNDO. En términos de la reforma constitucional en materia judicial, emitida mediante decreto 071 publicada en el Periódico Oficial del Gobierno del Estado Número 93 Bis de fecha 21 de noviembre de dos mil veinticuatro, los periodos de las Magistrados (sic) y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, por única ocasión serán según corresponda por nueve, ocho o seis años a efecto de permitir su sustitución escalonada.
+
+DÉCIMO TERCERO. Los artículos 208 y 209 de la presente ley, entrarán en vigor al momento de la entrada en vigor de la nueva Ley de Transparencia y Acceso a la información del Estado de Durango.
+
+DÉCIMO CUARTO.- En tanto el órgano de Administración Judicial no emita los acuerdos correspondientes establecidos por el artículo 234 de la presente ley, seguirán en vigor los acuerdos existentes, con relación a la división territorial en distritos judiciales los que son los siguientes:
+
+Primer distrito: Durango como residencia; comprende el Municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras del Municipio de San Dimas;
+
+Segundo distrito: Ciudad Lerdo como residencia, comprende los municipios de Lerdo y Mapimí, excepto en materia penal que corresponde al tercer distrito;
+
+Tercer distrito: Gómez Palacio como residencia; comprende el Municipio del mismo nombre y el de Tlahualilo;
+
+Cuarto distrito: Santiago Papasquiaro como residencia; comprende los municipios de Santiago Papasquiaro, Tepehuanes, Guanaceví y Otáez;
+
+Quinto distrito: Canatlán como residencia; comprende los municipios de Canatlán y Nuevo Ideal;
+
+Sexto distrito: El Salto como residencia; comprende los municipios de Pueblo Nuevo y San Dimas con excepción de las Poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras de este último Municipio;
+
+Séptimo distrito: Topia como residencia; comprende los municipios de Topia, Tamazula y Canelas;
+
+Octavo distrito: Guadalupe Victoria como residencia; comprende los municipios de Guadalupe Victoria y Pánuco de Coronado;
+
+Noveno distrito: Cuencamé como residencia; comprende los municipios de Cuencamé, Peñón Blanco, Santa Clara, San Juan de Guadalupe y Simón Bolívar;
+
+Décimo distrito: Nazas como residencia; comprende los municipios de Nazas, San Luis del Cordero y San Pedro del Gallo;
+
+Décimo primer distrito: San Juan del Río como residencia; comprende los municipios de San Juan del Río, Rodeo y Coneto de Comonfort;
+
+Décimo segundo distrito: Santa María del Oro como residencia; comprende los municipios de El Oro, Indé, Ocampo, San Bernardo e Hidalgo, y
+
+Décimo tercer distrito: Nombre de Dios como residencia; comprende los municipios de Nombre de Dios, Súchil, Poanas y Vicente Guerrero.
+
+DÉCIMO QUINTO. Las Magistradas y Magistrados del Tribunal Superior de Justicia, la Magistrada del Tribunal de Justicia Penal para Adolescentes, así como las Juezas y Jueces electas en el Proceso Electoral ordinario 2024-2025, comenzarán sus funciones constitucionales el día primero de septiembre de 2025, previa toma de protesta y durarán en su encargo conforme a lo comunicado al Poder Legislativo por parte del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
+
+En el caso del Tribunal de Disciplina Judicial se regirá conforme lo señala el artículo Cuarto Transitorio del Decreto 071 publicado en el Periódico Oficial del Gobierno del Estado Número 93 Bis de fecha 21 de noviembre de 2024.
+
+Las personas juzgadoras del Tribunal Superior de Justicia, del Tribunal de Justicia Penal para Adolescentes y las Juezas y Jueces que hayan sido electos se ocuparán exclusivamente de los asuntos administrativos relativos a la entrega recepción, a partir de su toma de protesta.
+
+Una vez que entre en vigor et presente decreto, la Presidencia de la Mesa Directiva citará a las personas juzgadoras electas en el proceso electoral ordinario 2024-2025 para los efectos de su toma de protesta en Sesión Solemne; de igual manera la Presidencia de la Mesa Directiva convocará a los titulares de los Poderes Ejecutivo y Judicial para que asistan a la señalada Sesión Solemne.
