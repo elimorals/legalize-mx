@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-233-de-obras-publicas-y-servicios-relacionados-17727
 country: "mx"
 rank: "ley"
 publication_date: "2025-02-04"
-last_updated: "2025-02-04"
+last_updated: "2025-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 233 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2025.
 
 Ley publicada en el Número Extraordinario 50 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 4 de febrero de 2025.
 
@@ -195,11 +195,11 @@ El gasto y el registro de las obras públicas y los servicios relacionados con e
 
 Los contratos y convenios que celebren los Entes Públicos, y los actos administrativos que los mismos emitan en la materia objeto de este ordenamiento serán de derecho público, y toda controversia que se suscite en relación a ellos podrá ser impugnada en los términos del Código de Procedimientos Administrativos para el Estado.
 
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 8.
 
-Tratándose del Poder Ejecutivo, la SIOP será la encargada de interpretar para efectos administrativos la presente Ley, Las disposiciones de carácter general se publicarán en la Gaceta Oficial del Estado.
-
-Los demás Entes Públicos, podrán interpretar administrativamente la presente Ley, en el ámbito de sus respectivas competencias.
+Corresponde a la Secretaría de Infraestructura y Obras Públicas interpretar, para efectos administrativos, la presente Ley y demás disposiciones emanadas de la misma, con la opinión que, en su caso, le corresponda a la Secretaría de Finanzas y Planeación en el ámbito de su competencia. Las disposiciones de carácter general se publicarán en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 9.
 
@@ -287,11 +287,13 @@ En lo no previsto por esta Ley serán aplicables, supletoriamente el Código de 
 
 Cuando por las condiciones especiales de las obras públicas se requiera la intervención de dos o más Entes Públicos o de un Ente Público con una dependencia o entidad federal, quedará a cargo de cada uno la responsabilidad sobre la ejecución de la parte de la obra que les corresponda. Para ello, se deberá celebrar el convenio de coordinación respectivo.
 
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 19.
 
-Los Entes Públicos que realicen obras públicas y servicios relacionados con ellas, sea por contrato o por administración directa, así como los contratistas con quienes aquellos contraten, observarán las disposiciones que, en materia de asentamientos humanos, desarrollo urbano, accesibilidad para personas con discapacidad, medio ambiente y construcción rijan en el ámbito federal, estatal y municipal, según corresponda.
+Los Entes Públicos que realicen obras públicas y servicios relacionados con ellas, sea por contrato o por administración directa, así como los contratistas con quienes aquellos contraten, observarán las disposiciones que, en materia de asentamientos humanos, desarrollo urbano, accesibilidad para personas con discapacidad, medio ambiente, construcción y demás que resulten aplicables, que rijan en el ámbito federal, estatal y municipal.
 
-Los Entes Públicos, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes, cuando sea el caso, los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas, o en su caso, los derechos otorgados por quien pueda disponer legalmente de los mismos. En la convocatoria a la licitación, en la invitación a cuando menos tres personas o en la solicitud de cotización tratándose de la adjudicación directa, se precisarán en su caso, aquellos trámites que corresponderá realizar al contratista.
+Los Entes Públicos, de conformidad con las disposiciones señaladas, deberán tramitar y obtener de las autoridades competentes, cuando sea el caso, los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas, o en su caso, los derechos otorgados por quien pueda disponer legalmente de los mismos.
 
 ###### Artículo 20.
 
@@ -863,6 +865,14 @@ Tratándose de pagos en exceso que haya recibido el contratista, éste deberá r
 
 No se considerará pago en exceso cuando las diferencias que resulten a cargo del contratista sean compensadas en la siguiente estimación a la determinación del pago en exceso.
 
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+Los contratistas cubrirán el cinco al millar sobre el importe de cada una de las estimaciones de trabajo, como derechos por el servicio de vigilancia, inspección y control que esta Ley determina.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+La Secretaría de Finanzas y Planeación o la Tesorería Municipal, al hacer el pago de las estimaciones de obra, retendrán el importe correspondiente a que se refiere el Párrafo anterior.
+
 ###### Artículo 64.
 
 Los Entes Públicos podrán suspender temporalmente, en todo o en parte, los trabajos contratados por cualquier causa justificada. Los titulares de los Entes Públicos, designarán a los servidores públicos que podrán ordenar la suspensión y determinar, en su caso, la temporalidad de ésta, la que no podrá ser indefinida.
@@ -1026,3 +1036,13 @@ FELIPE PINEDA BARRADAS
 DIPUTADO SECRETARIO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 255 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
