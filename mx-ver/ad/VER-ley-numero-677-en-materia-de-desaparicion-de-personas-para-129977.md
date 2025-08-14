@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-677-en-materia-de-desaparicion-de-personas-para-1299
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-20"
-last_updated: "2019-10-15"
+last_updated: "2025-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 677 EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2025.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 20 de agosto de 2018.
 
@@ -79,6 +79,26 @@ Para efectos de esta Ley, se entiende por:
 
 I. Banco Nacional de Datos Forenses: A la herramienta del Sistema Nacional que concentra las bases de datos de las entidades federativas y de la federación; así como, otras bases de datos que tengan información forense relevante para la búsqueda e identificación de Personas Desaparecidas y No Localizadas señalado en la Ley General;
 
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+I Bis. Autoridades: A las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Estatal; los poderes legislativo y judicial; los municipios de la entidad y los Organismos Autónomos del Estado;
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+I Ter. Plataforma Única de Identidad: A la herramienta para la consulta, validación y gestión de las Claves Únicas de Registro de Población a que se refiere la Ley General de Población;
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+I Quater. Registros Administrativos: A las bases de datos de cualquier Autoridad que integren datos biométricos o identificativos de las personas, con motivo de los trámites o servicios que brindan;
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+I Quinquies. Clave Única de Registro de Población: A la fuente única de identidad de las personas, que permite asociar a una persona con cualquier registro en poder de Autoridades y particulares de cualquier naturaleza, que servirá como mecanismo para el cruce, alerta y consulta de la información de sus bases de datos, para el cumplimiento del objeto de la presente Ley;
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+I Sexies. Base Nacional de Carpetas de Investigación: Al registro que contiene los datos de las carpetas de investigación o averiguaciones previas iniciadas por los delitos de desaparición forzada de personas y de desaparición cometida por particulares, la cual será operada por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y actualizada en tiempo real por las Fiscalías Especializadas;
+
 II. Comisión Ejecutiva Estatal: A la Comisión Ejecutiva Estatal de Atención Integral a Víctimas;
 
 III. Comisión Estatal de Búsqueda: A la Comisión Estatal de Búsqueda de Personas;
@@ -92,6 +112,14 @@ VI. Estado: El Estado de Veracruz de Ignacio de la Llave;
 VII. Familiares: A las personas que, en términos de la legislación aplicable, tengan parentesco con la Persona Desaparecida o No Localizada por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen de sociedad en convivencia u otras figuras jurídicas análogas.
 
 Asimismo, las personas que dependan económicamente de la Persona Desaparecida o No Localizada, que así lo acrediten ante las autoridades competentes;
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+VII Bis. Familia Social: Persona o conjunto de personas cercanas a la Persona Desaparecida o No Localizada que mantienen o mantuvieron vínculos significativos de afecto, cuidado, convivencia o acompañamiento solidario, independientemente de la existencia de lazos consanguíneos, legales o de parentesco formal, de conformidad con los protocolos vigentes;
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+VII Ter. Nombre Social: Es el vocativo por el cual se reconoce, identifica y alude a la persona en sus relaciones personales dentro de los contextos específicos y consiste en el nombre que una persona se autoasigna;
 
 VIII. Grupo de Búsqueda: Al grupo de personas especializadas en materia de búsqueda de personas de la Comisión Estatal de Búsqueda, que realizarán la búsqueda de campo, entre otras;
 
@@ -129,6 +157,10 @@ XXIV. Reglamento: Al Reglamento de esta Ley;
 
 XXV. Reporte: A la comunicación mediante la cual la autoridad competente conoce de la desaparición o no localización de una persona;
 
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+XXV Bis. Ficha de Búsqueda: Documento oficial generado por la autoridad competente al momento de recibirse una Noticia, Reporte o denuncia de desaparición o no localización de una persona, que contiene los datos esenciales para su identificación, búsqueda, localización e investigación;
+
 XXVI. Ley General: A la Ley General en Materia de Desaparición Forzada de personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
 
 XXVII. Ley de Victimas: A la Ley de Victimas para el Estado de Veracruz de Ignacio de la Llave;
@@ -163,9 +195,21 @@ X. Participación conjunta: Las autoridades de los distintos órdenes de Gobiern
 
 XI. Perspectiva de género: En todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida o No Localizada, así como para investigar y juzgar los delitos previstos en la Ley General, se deberá garantizar su realización libre de prejuicios, estereotipos y de cualquier otro elemento que, por cuestiones de sexo, género, identidad u orientación sexual de las personas, propicien situaciones de desventaja, discriminación, violencia o se impida la igualdad;
 
-XII. Presunción de vida: En las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deben presumir que la Persona Desaparecida o No Localizada está con vida, y
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2025)</small>
 
-XIII. Verdad: El derecho de conocer con certeza lo sucedido y recibir información sobre las circunstancias en que se cometieron los hechos constitutivos de los delitos previstos en la Ley General, en tanto que el objeto de la misma es el esclarecimiento de los hechos, la protección de las Víctimas, el castigo de las personas responsables y la reparación de los daños causados, en términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
+XII. Presunción de vida: En las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deben presumir que la Persona Desaparecida o No Localizada está con vida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE AGOSTO DE 2025)</small>
+
+XIII. Proporcionalidad: Consiste en que los Sujetos Obligados sólo deberán tratar los datos personales que resulten adecuados, relevantes y estrictamente necesarios para la finalidad que justifica su tratamiento, en términos de la presente Ley y conforme a la normatividad aplicable en materia de protección de datos personales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 14 DE AGOSTO DE 2025)</small>
+
+XIV. Verdad: El derecho de conocer con certeza lo sucedido y recibir información sobre las circunstancias en que se cometieron los hechos constitutivos de los delitos previstos en la Ley General, en tanto que el objeto de la misma es el esclarecimiento de los hechos, la protección de las Víctimas, el castigo de las personas responsables y la reparación de los daños causados, en términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+El funcionamiento y operación de la Plataforma Única de Identidad se sujetará, además de los establecidos en las leyes de la materia, a los principios de licitud, proporcionalidad, necesidad, finalidad y responsabilidad en el acceso y uso de la información a que se refiere la presente Ley.
 
 ###### Artículo 6.
 
@@ -199,15 +243,135 @@ En los casos de niñas, niños o adolescentes, las medidas de reparación integr
 
 En el diseño de las acciones y herramientas para la búsqueda e investigación de niñas, niños y adolescentes la Comisión Estatal de Búsqueda y las autoridades que integran el Mecanismo Estatal tomarán en cuenta la opinión de las autoridades del Sistema de Protección de Niñas, Niños y Adolescentes del Estado.
 
-### CAPÍTULO PRIMERO. Disposiciones Generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE AGOSTO DE 2025)</small>
 
-### CAPÍTULO SEGUNDO. De las Responsabilidades Administrativas
+### CAPÍTULO TERCERO. De la Plataforma Única de Identidad
 
-### CAPÍTULO PRIMERO. Creación y Objeto del Mecanismo Estatal
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 12 Bis.
+
+Para efectos de esta Ley, la Plataforma Única de Identidad será la fuente primaria de consulta permanente y en tiempo real, se interconectará con bases de datos o sistemas de información que permitan realizar búsquedas continuas entre los siguientes registros:
+
+I. El Registro Nacional de Personas Desaparecidas y No Localizadas;
+
+II. La Base Nacional de Carpetas de Investigación;
+
+III. El Banco Nacional de Datos Forenses;
+
+IV. Registros Administrativos; y
+
+V. Cualquier registro, base o sistema de información de particulares que presten servicios financieros, de transporte, salud física y mental, telecomunicaciones, educación, asistencia privada, paquetería y servicios de entrega, registros patronales y de seguridad social, religiosos, los establecimientos residenciales de atención a las adicciones, así como toda institución privada que administre registros o bases de datos de personas, cuya consulta sea necesaria para la investigación, búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas.
+
+El uso de la Plataforma Única está condicionado a la existencia previa del Folio Único de Búsqueda o del número de carpeta de investigación y se limitará exclusivamente a la consulta de los datos relacionados con la persona desaparecida.
+
+La Plataforma, en términos de lo dispuesto por la Ley General, el reglamento y los lineamientos correspondientes, estará apegada a los principios Y obligaciones en materia de tratamiento de datos personales conforme a lo previsto en las leyes y disposiciones jurídicas aplicables en materia de protección de datos personales, así como contará con los mecanismos mínimos de seguridad y procedimientos, gestión y control de accesos y trazabilidad de su operación.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 12 Ter.
+
+La Plataforma Única de Identidad permitirá:
+
+I. Realizar el monitoreo continuo para el seguimiento de la Clave Única de Registro de Población de una Persona Desaparecida o No Localizada, con el fin de identificar cualquier movimiento, registro o actualización que pudiera aportar información para la investigación, búsqueda, localización o identificación;
+
+II. Generar avisos en tiempo real a las autoridades competentes, cuando exista un uso de la Clave Única de Registro de Población de una Persona Desaparecida o No Localizada en los registros de los Sujetos Obligados; y
+
+III. Realizar búsquedas continuas entre registros y generar avisos cuando existan posibles coincidencias e indicios que lleven a la investigación, búsqueda, localización o identificación de una Persona Desaparecida o No Localizada.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 12 Quater.
+
+En términos de lo dispuesto por la Ley General, el acceso de la Fiscalía Especializada y la Comisión Estatal de Búsqueda a la Plataforma estará sujeto a las medidas de seguridad y niveles de acceso establecidos y protocolos de actuación, y se limita exclusivamente a fines de búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO CUARTO. De las Obligaciones Comunes de los Sujetos Obligados
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 12 Quinquies.
+
+Toda autoridad y particular de cualquier naturaleza que tenga a su cargo datos biométricos o cualquier otro dato identificativo de personas deberá permitir a las Fiscalías, a las autoridades a las que se refiere el artículo 21 Constitucional en el ámbito de su competencia y actuando bajo la conducción y mando del Ministerio Público, así como a la Comisión Estatal de Búsqueda la consulta inmediata de la información sobre Personas Desaparecidas o No Localizadas contenida en sus registros, bases de datos o sistemas de información, exclusivamente para su búsqueda, localización o identificación, en coordinación con la investigación.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 12 Sexies.
+
+Todos aquellos establecimientos previstos y regulados en la Ley General de Salud, así como los establecimientos residenciales de atención a las adicciones públicos o privados, centros de reinserción social, centros de asistencia social y estaciones migratorias que por sus actividades y objetivos autorizados recaben, utilicen, administren o conserven datos biométricos, tienen la obligación de contar con registros completos y actualizados y permitir su consulta a las Fiscalías, a las autoridades a las que se refiere el artículo 21 Constitucional en el ámbito de su competencia y actuando bajo la conducción Y mando del Ministerio Público, así como a la Comisión Estatal de Búsqueda, exclusivamente para buscar, localizar e identificar Personas Desparecidas o No Localizadas en coordinación con la investigación.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 12 Septies.
+
+Todas las instituciones públicas o privadas que tengan bajo su resguardo cuerpos o restos humanos tendrán la obligación de asegurar el trato y resguardo digno, además de llevar y mantener actualizados registros sistematizados con la información forense que se obtenga de estos, permitir su interconexión, remitirlos al Banco Nacional de Datos Forenses y permitir su consulta a las Fiscalías, a las autoridades a las que se refiere el artículo 21 Constitucional en el ámbito de su competencia y actuando bajo la conducción y mando del Ministerio Público, así como a la Comisión Estatal de Búsqueda a las que corresponde la investigación de los delitos, búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas en términos de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 12 Octies.
+
+Las instituciones públicas o privadas que generen o tengan acceso a imágenes y mediciones generadas por satélites, aeronaves no tripuladas o mediante otras tecnologías, estarán obligadas a permitir su consulta a las Fiscalías y a la Comisión Estatal de Búsqueda exclusivamente para las acciones de búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas en términos de la Ley.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 12 Nonies.
+
+Los servicios periciales y forenses de la Fiscalía General estarán obligados a atender las solicitudes de análisis forense, permitir el acceso y la consulta de registros y bases de datos forenses que les requieran las Fiscalías y autoridades que investigan delitos para la investigación, búsqueda, localización e identificación de Personas Desaparecidas o no Localizadas en los términos de la presente Ley.
+
+Las instituciones públicas de cualquier naturaleza que cuenten con infraestructura para la toma, procesamiento y análisis de muestras genéticas con fines de identificación de personas estarán obligadas a atender las solicitudes de análisis forense que les formulen las Fiscalías, la Comisión Estatal de Búsqueda e instituciones facultadas en la investigación, búsqueda, localización e identificación, incluyendo aquellas derivadas de peticiones formuladas por familiares de personas desaparecidas, en el marco de investigaciones relacionadas con la búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas, conforme a lo dispuesto en esta Ley. Dichas solicitudes deberán ser atendidas bajo los más altos estándares científicos en materia de identificación humana.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 12 Decies.
+
+Los servicios periciales y forenses de la Fiscalía General que tengan en resguardo un cuerpo o resto humano no identificado deberán, previo a remitirlos a las fosas comunes, practicar de oficio pruebas dactiloscópicas y genéticas para su identificación, y deberán registrar el resultado de las pruebas en el Banco Nacional de Datos Forenses, en un plazo no mayor a tres días contados a partir de que se obtuvo el resultado. Para tal efecto, podrán auxiliarse de instituciones públicas que cuenten con infraestructura para practicar las pruebas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO QUINTO. De la Ficha de Búsqueda, Localización e Identificación
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+Artículo 12 Undecies. La autoridad competente que reciba una Noticia, Reporte o denuncia por la desaparición o no localización de una persona la registrará sin dilación alguna en el Registro Nacional y en la Base Nacional de Carpetas de Investigación, y remitirá por los medios disponibles a la Fiscalía Especializada y a la Comisión Estatal de Búsqueda una Ficha de Búsqueda, conforme al protocolo de Alerta Nacional de Búsqueda y Localización, debiendo asegurarse de la recepción. En este último supuesto la Fiscalía Especializada, de oficio y sin demora, deberá completar el registro en la Base Nacional de Carpetas de Investigación.
+
+La Ficha de Búsqueda deberá difundirse de manera masiva por todos los medios disponibles entre las Autoridades, y de manera directa a:
+
+I. Administradoras de canales televisivos y radiodifusores públicas;
+
+II. Personas prestadoras de servicios de transporte terrestre, aéreo y marítimo, así como a las personas administradoras de las respectivas terminales;
+
+III. Personas responsables, administradoras, incluidos las concesionarias de carreteras, caminos y puentes;
+
+IV. Instituciones de seguridad pública, ciudadana u homólogas; y
+
+V. Cualquier ente público o privado que tenga la capacidad de transmitir masivamente un mensaje.
+
+La Ficha de Búsqueda se notificará al Registro Nacional de Población con la finalidad de que se active en la Plataforma Única de Identidad los alertamientos de usos de la Clave Única de Registro de Población de la Persona Desaparecida o No Localizada, o la búsqueda de coincidencias con sus datos identificativos.
+
+En los casos en que se identifique un uso de la Clave Única de Registro de Población, el Registro Nacional de Población informará de inmediato a las Autoridades competentes en todo el país para que, en el ámbito de sus atribuciones, realicen las acciones necesarias para la localización.
+
+La Ficha de Búsqueda deberá integrar, como mínimo, los siguientes elementos:
+
+a) Nombre completo, edad, sexo y género de la persona reportada;
+
+b) Fotografía reciente;
+
+c) Fecha y lugar de la desaparición o última vez vista;
+
+d) Señas particulares, rasgos físicos distintivos;
+
+e) Sí presenta una condición de vulnerabilidad;
+
+f) Datos de contacto para aportar información o colaborar con la búsqueda; y
+
+g) Folio único de identificación asignado por el Registro Nacional de Personas Desaparecidas y No Localizadas.
+
+La Ficha de Búsqueda deberá generarse en formato físico y digital, y deberá difundirse de manera inmediata y amplia a través de medios institucionales, redes sociales, portales oficiales y, en su caso, medios masivos de comunicación, conforme a los protocolos establecidos por la Comisión Nacional de Búsqueda.
 
 ## TÍTULO SEGUNDO. De los Delitos y de las Responsabilidades Administrativas
 
-### CAPÍTULO SEGUNDO. De la Comisión Estatal de Búsqueda
+### CAPÍTULO PRIMERO. Disposiciones Generales
 
 ###### Artículo 13.
 
@@ -253,7 +417,7 @@ El ejercicio de la acción penal y la ejecución de sanciones penales que se imp
 
 Se prohíbe la aplicación de amnistías, indultos y medidas similares de impunidad que impidan la investigación, procesamiento o sanción y cualquier otra medida para determinar la verdad y obtener reparación plena de los delitos previstos en la Ley General.
 
-### CAPÍTULO TERCERO. Del Consejo Estatal Ciudadano
+### CAPÍTULO SEGUNDO. De las Responsabilidades Administrativas
 
 ###### Artículo 21.
 
@@ -263,9 +427,13 @@ Los servidores públicos que incumplan injustificadamente con alguna de las obli
 
 Para efectos de lo previsto en esta Ley, se considerará grave el incumplimiento injustificado o la actuación negligente ante cualquier obligación relacionada con la búsqueda inmediata de personas, en la investigación ministerial, pericial y policial, así como en los procedimientos establecidos en los protocolos correspondientes.
 
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+De igual forma se considerará grave el uso de la Plataforma Única de Identidad, así como el uso de la información generada por ella con fines distintos a los señalados en la Ley.
+
 ## TÍTULO TERCERO. Del Mecanismo Estatal
 
-### CAPÍTULO CUARTO. De los Grupos de Búsqueda
+### CAPÍTULO PRIMERO. Creación y Objeto del Mecanismo Estatal
 
 ###### Artículo 23.
 
@@ -355,7 +523,7 @@ XIV. Las autoridades municipales deberán colaborar con las autoridades integran
 
 XV. Los demás que se requieran para el cumplimiento de los objetivos de esta Ley y la Ley General.
 
-### CAPÍTULO QUINTO. Del Fondo Estatal de Desaparición
+### CAPÍTULO SEGUNDO. De la Comisión Estatal de Búsqueda
 
 ###### Artículo 30.
 
@@ -575,7 +743,7 @@ III. Área de Gestión y Procesamiento de Información, la cual desempeñará, a
 
 IV. La estructura administrativa necesaria para el cumplimiento de sus funciones.
 
-### CAPÍTULO SEXTO. De la Fiscalía Especializada
+### CAPÍTULO TERCERO. Del Consejo Estatal Ciudadano
 
 ###### Artículo 39.
 
@@ -651,7 +819,7 @@ IV. Contribuir, de acuerdo a lo establecido en la presente Ley, la Ley General y
 
 V. Las demás que determine el Consejo Estatal Ciudadano, en el marco de sus atribuciones.
 
-### CAPÍTULO SÉPTIMO. De la Búsqueda de Personas
+### CAPÍTULO CUARTO. De los Grupos de Búsqueda
 
 ###### Artículo 45.
 
@@ -677,7 +845,7 @@ Las Instituciones de Seguridad Pública estatales y municipales de Gobierno en e
 
 El personal al que se refiere el párrafo anterior, además de cumplir con la certificación respectiva, debe acreditar los criterios de idoneidad que emita la Comisión Nacional de Búsqueda.
 
-### CAPÍTULO OCTAVO. De los Registros
+### CAPÍTULO QUINTO. Del Fondo Estatal de Desaparición
 
 ###### Artículo 48.
 
@@ -717,13 +885,29 @@ La asignación de los recursos se realizará conforme a los criterios de transpa
 
 El Órgano de Fiscalización Superior del Estado fiscalizará, en los términos de la legislación local aplicable, los recursos del Fondo Estatal.
 
-### CAPÍTULO NOVENO. De la Disposición de Cadáveres de Personas
+### CAPÍTULO SEXTO. De la Fiscalía Especializada
 
 ###### Artículo 52.
 
 La Fiscalía General contará con una Fiscalía Especializada para la investigación y persecución de los delitos de desaparición forzada de personas, desaparición cometida por particulares y delitos vinculados con la desaparición de personas, la cual deberá coordinarse con la Fiscalía Especializada de la Procuraduría General de la República y Fiscalías Especializadas de otras Entidades Federativas y dar impulso permanente a la búsqueda de Personas Desaparecidas.
 
-La Fiscalía Especializada a que se refiere el primer párrafo de este artículo deben (sic) contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios y una unidad de análisis de contexto que se requieran (sic) para su efectiva operación, entre los que deberá contemplar personal sustantivo ministerial, policial, pericial y de apoyo psicosocial.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], G.O. 14 DE AGOSTO DE 2025)</small>
+
+La Fiscalía Especializada a que se refiere el primer párrafo de este artículo debe contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios, así como con:
+
+I. Unidades especializadas de investigación;
+
+II. Unidades de análisis de contexto;
+
+III. Unidades de atención y seguimiento a víctimas;
+
+IV. Unidades de búsqueda inmediata y de larga data; y
+
+V. Áreas especializadas en delitos cibernéticos.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+La Fiscalía Especializada a que se refiere el presente artículo deberá contar con personal sustantivo ministerial, policial, pericial, así como de apoyo psicosocial, quienes deberán cumplir con los perfiles establecidos por la Conferencia Nacional de Procuración de Justicia.
 
 La Fiscalía especializada diseñará una técnica de gestión estratégica de la carga de trabajo y flujo de casos que son de su conocimiento con base en criterios claros para la aplicación de una política de priorización, los cuales deberán ser públicos.
 
@@ -735,7 +919,9 @@ Los servidores públicos que integren la Fiscalía Especializada deberán cumpli
 
 I. Tener acreditados los requisitos de ingreso y permanencia de la institución respectiva, de conformidad con la Ley Orgánica de la Fiscalía General del Estado, la Ley del Sistema Estatal de Seguridad Pública del Estado y la Ley General del Sistema Nacional de Seguridad Pública;
 
-II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia, y
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia, la Ley General del Sistema Nacional de Seguridad Pública y deberá ser acorde a los objetivos señalados en el artículo anterior; y
 
 III. Acreditar los cursos de especialización, capacitación y de actualización que establezca la Conferencia Nacional de Procuración de Justicia, según corresponda.
 
@@ -745,11 +931,19 @@ La Fiscalía General debe capacitar, conforme a los más altos estándares inter
 
 La Fiscalía Especializada tiene, en el ámbito de su competencia, las atribuciones siguientes:
 
-I. Recibir las Denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos materia de la Ley General e iniciar la carpeta de investigación correspondiente;
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+I. Recibir las Denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos materia de la Ley General, iniciar la carpeta de investigación correspondiente y ordenar las diligencias o actos de investigación que correspondan en el ámbito de su competencia;
 
 II. Mantener coordinación con la Comisión Estatal de Búsqueda para realizar todas las acciones relativas a la investigación y persecución de los delitos materia de la Ley General, conforme al Protocolo Homologado de Investigación, Protocolo Homologado de Búsqueda y demás disposiciones aplicables;
 
 III. Dar aviso de manera inmediata, a través del Registro correspondiente, a la Comisión Estatal de Búsqueda sobre el inicio de una investigación de los delitos materia de la Ley General, a fin de que se inicien las acciones necesarias de búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+III Bis. Proporcionar a la Comisión Nacional de Búsqueda la información ministerial y pericial que ésta le solicite, tendiente a la búsqueda de personas con fines de identificación humana y entregar al Centro Nacional la información correspondiente bajo los criterios de homologación definidos por la Comisión.
+
+Asimismo, la información que proporcione la Comisión Estatal de Búsqueda a la Fiscalía Especializada con fines de la búsqueda, localización e identificación humana, deberá cumplir con la formalidad que establece la normativa relativa a la cadena de custodia, previa habilitación que realice la Fiscalía correspondiente;
 
 IV. Mantener comunicación continua y permanente con la Comisión Estatal de Búsqueda, a fin de compartir información que pudiera contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
 
@@ -779,7 +973,9 @@ XV. Solicitar la participación de la Comisión Ejecutiva Estatal; así como a l
 
 XVI. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de los servidores públicos especializados en la materia;
 
-XVII. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para poder hacer la entrega de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás normas aplicables;
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+XVII. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para poder hacer la entrega digna de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás normas aplicables;
 
 XVIII. Solicitar a las autoridades jurisdiccionales competentes la autorización para la realización de las exhumaciones en cementerios, fosas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cadáveres o restos humanos de Personas Desaparecidas;
 
@@ -793,9 +989,21 @@ XXII. Brindar la información que la Comisión Ejecutiva Estatal le solicite par
 
 XXIII. Brindar la información que el Consejo Estatal Ciudadano y a la Comisión Estatal de Víctimas le solicite para el ejercicio de sus funciones, en términos de lo que establezcan las disposiciones aplicables,
 
-XXIV. Brindar asistencia técnica a las Fiscalía Especializada (sic) de las demás Entidades Federativas o de la Federación, que así lo soliciten; y
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2025)</small>
 
-XXV. Las demás que establezcan otras disposiciones jurídicas aplicables.
+XXIV. Brindar asistencia técnica a las Fiscalías Especializadas de las demás Entidades Federativas o de la Federación, que así lo soliciten;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE AGOSTO DE 2025)</small>
+
+XXV. Registrar y actualizar de manera inmediata la información de los registros, bases de datos y sistemas de información, desde el momento en que se inicie la investigación;
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+XXVI. Proporcionar a las personas que hagan de conocimiento la desaparición de un familiar el número de carpeta de investigación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 14 DE AGOSTO DE 2025)</small>
+
+XXVII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 ###### Artículo 55.
 
@@ -815,6 +1023,50 @@ I. Los procedimientos de búsqueda permanente que se lleven a cabo para buscar p
 
 II. Cuando se sospeche que la víctima ha sido privada de la vida, realizar las diligencias pertinentes para la exhumación de los restos en los lugares que se presume pudieran estar, de acuerdo a los estándares internacionales, siendo derecho de los Familiares solicitar la participación de peritos especializados independientes, en términos de las disposiciones legales aplicables. En la generación de los criterios y metodología específicos, se tomarán en cuenta las sentencias y resoluciones nacionales e internacionales en materia de búsqueda e investigación de los casos de desaparición forzada.
 
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 57 Bis.
+
+La Fiscalía Especializada deberá enviar de forma mensual al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública un informe que contenga:
+
+I. El número de Personas Desaparecidas y No Localizadas durante el periodo;
+
+II. El número de carpetas de investigación o averiguaciones previas por los delitos previstos en la Ley General;
+
+III. El estado procesal de las carpetas de investigación o averiguaciones previas a que se refiere la fracción anterior;
+
+IV. Acciones emprendidas para su búsqueda e identificación; y
+
+V. Cualquier otra información que sea relevante para el seguimiento y cumplimiento de los objetivos previstos en la Ley.
+
+El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública generará un informe desglosado por Entidad Federativa que será publicado y entregado al Sistema Nacional de Búsqueda.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 57 Ter.
+
+La Fiscalía Especializada deberá incorporar y actualizar permanentemente a la Base Nacional de Carpetas de Investigación, de forma obligatoria, las carpetas de investigación, averiguaciones previas y los expedientes materia de esta Ley, de conformidad con las disposiciones que para tal efecto emita el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
+
+Los datos que deberán incorporarse en la Base Nacional de Carpetas de Investigación serán, al menos, los siguientes:
+
+I. Número de carpeta de investigación o de averiguación previa;
+
+II. Nombre completo legal y social de la Persona Desaparecida o No Localizada;
+
+III. Clave Única de Registro de Población;
+
+IV. Lugar y fecha de desaparición, en caso de contar con ella;
+
+V. Autoridad que conoce de la investigación;
+
+VI. Nombre del probable responsable o posible partícipe cuando éste se conozca;
+
+VII. Acciones emprendidas para su búsqueda e identificación;
+
+VIII. El estado procesal que guarda el expediente; y
+
+IX. Cualquier otra información que sea relevante para el seguimiento y cumplimiento de los objetivos previstos en la presente Ley.
+
 ###### Artículo 58.
 
 En el supuesto previsto en el artículo 46, la Fiscalía Especializada debe continuar sin interrupción la investigación de los delitos previstos en la Ley General, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional de Procedimientos Penales.
@@ -833,7 +1085,7 @@ Las personas físicas o jurídicas que cuenten con información que pueda contri
 
 La Fiscalía Especializada no puede condicionar la recepción de la información a que se refiere el párrafo anterior al cumplimiento de formalidad alguna.
 
-### CAPÍTULO DÉCIMO. Del Programa de Búsqueda y del Programa Nacional de Exhumaciones e Identificación Forense
+### CAPÍTULO SÉPTIMO. De la Búsqueda de Personas
 
 ###### Artículo 62.
 
@@ -849,7 +1101,27 @@ Las acciones de búsqueda, localización e identificación de Personas Desaparec
 
 La investigación y persecución de los delitos previstos por la Ley General se hará conforme a ésta y a los Protocolos a los que hace referencia el artículo 99 de la misma.
 
-### CAPÍTULO PRIMERO. Disposiciones Generales
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 63 Bis.
+
+Sin perjuicio de lo dispuesto por el artículo anterior, cualquier persona puede solicitar la búsqueda de una Persona Desaparecida o No Localizada mediante:
+
+I. Noticia;
+
+II. Reporte; o
+
+III. Denuncia.
+
+La noticia, el reporte o la denuncia pueden realizarse de forma anónima.
+
+Tratándose de Denuncia, no será necesaria su ratificación. Tanto la búsqueda como la investigación se llevarán a cabo sin dilación.
+
+La autoridad que reciba una noticia, reporte o denuncia deberá informar inmediatamente a la Fiscalía Especializada, la cual iniciará sin dilación alguna la investigación y asignará el número de carpeta correspondiente. La omisión de iniciar la investigación correspondiente o de iniciar el reporte de desaparición pertinente, se sancionará de acuerdo con las disposiciones previstas en la Ley General y la presente.
+
+Ningún protocolo establecerá plazos de espera para iniciar la investigación.
+
+### CAPÍTULO OCTAVO. De los Registros
 
 ###### Artículo 64.
 
@@ -859,9 +1131,11 @@ El Mecanismo Estatal de Coordinación, en el marco de las atribuciones de cada u
 
 Las autoridades que intervengan en los procesos de búsqueda e investigación tienen el deber de conocer las herramientas del Sistema Nacional de Búsqueda y utilizarlos conforme a lo señalado por la Ley General, protocolos homologados y lineamientos emitidos al respecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 65.
 
-Las autoridades correspondientes, conforme a las atribuciones señaladas por la Ley General, deben recabar, ingresar y actualizar la información necesaria en los Registros y el Banco en tiempo real y en los términos señalados (sic) la misma.
+Las autoridades correspondientes, conforme a las atribuciones señaladas por la Le y (sic) General, deben recabar, ingresar, asentar y actualizar la información necesaria en los registros y el banco de manera inmediata y en tiempo real, en los términos señalados en la misma.
 
 La Fiscalía General deberá coordinar la operación del Registro Estatal de Personas Fallecidas, el cual funcionará conforme a lo señalado por el capítulo VII de la Ley General y los protocolos y lineamientos emitidos al respecto.
 
@@ -869,19 +1143,27 @@ La Fiscalía General deberá coordinar la operación del Registro Estatal de Per
 
 El personal de la Comisión Estatal, la Fiscalía Especializada y de la Dirección General de Servicios Periciales deberán recibir capacitación en las diferentes materias que se requieran para el adecuado funcionamiento de las herramientas del Sistema Nacional de Búsqueda en el Estado.
 
-### CAPÍTULO SEGUNDO. De las Medidas de Ayuda, Asistencia y Atención
+### CAPÍTULO NOVENO. De la Disposición de Cadáveres de Personas
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 254, PUBLICADO EN LA G.O. DE 14 DE AGOSTO DE 2025, EL ANTERIOR CUARTO PÁRRAFO QUEDO INMERSO EN EL TERCER PÁRRAFO.]</small>
 
 ###### Artículo 67.
 
 Los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, no pueden ser incinerados, destruidos o desintegrados, ni disponerse de sus pertenencias.
 
-La Fiscalía General debe tener el registro del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados.
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2025)</small>
 
-Cuando las investigaciones revelen la identidad del cadáver o los restos de la persona, la Fiscalía competente podrá autorizar que los Familiares dispongan de él y de sus pertenencias, salvo que sean necesarios para continuar con las investigaciones o para el correcto desarrollo del proceso penal, en cuyo caso dictará las medidas correspondientes.
+La Fiscalía General, la Especializada y otras autoridades que tengan a su cargo servicios forenses deben tener el registro del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, de acuerdo con el Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas.
 
-En caso de emergencia sanitaria o desastres naturales, se adoptarán las medidas que establezca la Secretaría de Salud del Estado.
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+Cuando las investigaciones revelen la identidad del cadáver o los restos de la persona, la Fiscalía competente podrá autorizar que los Familiares dispongan de él y de sus pertenencias, salvo que sean necesarios para continuar con las investigaciones o para el correcto desarrollo del proceso penal, en cuyo caso dictará las medidas correspondientes de conformidad con el Código Nacional de Procedimientos Penales. En caso de emergencia sanitaria o desastres naturales, se adoptarán las medidas que establezca la Secretaría de Salud del Estado.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 14 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 68.
+
+Las autoridades correspondientes deben recabar, ingresar y actualizar las muestras necesarias para ingresar los datos al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas con el propósito de la identificación de un cadáver o resto humano antes de inhumarlo, a partir de los procedimientos establecidos por el protocolo homologado aplicable que deberá integrar las diversas ciencias y disciplinas que se utilizan para la identificación forense.
 
 Una vez recabadas las muestras necesarias para el ingreso en los Registros correspondientes de acuerdo a lo señalado por la Ley General, la Fiscalía podrá autorizar la inhumación de un cadáver o resto humano no identificado. En el caso de inhumación, se tomarán las medidas necesarias para asegurar que ésta sea digna, en una fosa individualizada, con las medidas que garanticen toda la información requerida para el adecuado registro y en un lugar claramente identificado que permita su posterior localización.
 
@@ -891,7 +1173,7 @@ La Fiscalía y los municipios deberán mantener comunicación permanente para ga
 
 El Mecanismo Estatal deberá supervisar el proceso de armonización e implementación de los municipios en esta materia. Los municipios deberán asignar los recursos suficientes para este fin.
 
-### CAPÍTULO TERCERO. De la Declaración Especial de Ausencia
+### CAPÍTULO DÉCIMO. Del Programa de Búsqueda y del Programa Nacional de Exhumaciones e Identificación Forense
 
 ###### Artículo 69.
 
@@ -905,7 +1187,7 @@ Dichas autoridades estarán obligadas a procesar y proporcionar la información 
 
 ## TÍTULO CUARTO. De los Derechos de las Víctimas
 
-### CAPÍTULO CUARTO. De las Medidas de Reparación Integral a las Víctimas
+### CAPÍTULO PRIMERO. Disposiciones Generales
 
 ###### Artículo 71.
 
@@ -917,7 +1199,9 @@ Las Víctimas directas de los delitos de desaparición forzada de personas y des
 
 I. A la protección de sus derechos, personalidad e intereses jurídicos;
 
-II. A que las autoridades inicien las acciones de búsqueda y localización, bajo los principios de esta Ley, desde el momento en que se tenga Noticia de su desaparición;
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+II. A que las autoridades inicien las acciones de búsqueda y localización de manera inmediata, bajo los principios de esta Ley;
 
 III. A ser restablecido en sus bienes y derechos en caso de ser encontrado con vida;
 
@@ -969,7 +1253,7 @@ XII. Participar en los diversos espacios y mecanismos de participación de Famil
 
 XIII. Acceder a los programas y servicios especializados que las autoridades competentes diseñen e implementen para la atención y reparación del daño producto de los delitos contemplados en la Ley General.
 
-### CAPÍTULO QUINTO. De la Protección de Personas
+### CAPÍTULO SEGUNDO. De las Medidas de Ayuda, Asistencia y Atención
 
 ###### Artículo 74.
 
@@ -985,7 +1269,7 @@ La Comisión Ejecutiva Estatal debe proporcionar las medidas de ayuda, asistenci
 
 Cuando durante la búsqueda o investigación, resulte ser competencia de las autoridades Federales, las Víctimas deben seguir recibiendo las medidas de ayuda, asistencia y atención por la Comisión Ejecutiva Estatal, en tanto se establece el mecanismo de atención a Víctimas del fuero que corresponda.
 
-### CAPÍTULO PRIMERO. Disposiciones Generales
+### CAPÍTULO TERCERO. De la Declaración Especial de Ausencia
 
 ###### Artículo 77.
 
@@ -1043,7 +1327,7 @@ Si la Persona Desaparecida declarada ausente es localizada con vida, ésta puede
 
 Si la persona declarada ausente es encontrada sin vida, sus Familiares pueden solicitar al juez civil competente iniciar los procedimientos que conforme a la legislación civil aplicable correspondan.
 
-### CAPÍTULO SEGUNDO. De la Programación
+### CAPÍTULO CUARTO. De las Medidas de Reparación Integral a las Víctimas
 
 ###### Artículo 85.
 
@@ -1075,13 +1359,25 @@ El Estado, es responsable de asegurar la reparación integral a las Víctimas po
 
 El Estado compensará de forma subsidiaria el daño causado a las Víctimas de desaparición cometida por particulares en los términos establecidos en la Ley de Víctimas del Estado.
 
-### CAPÍTULO TERCERO. De la Capacitación
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 87 Bis.
+
+El Estado establecerá, en el ámbito de su competencia, acciones de bienestar integral, con énfasis para hijos e hijas de personas desaparecidas.
+
+### CAPÍTULO QUINTO. De la Protección de Personas
 
 ###### Artículo 88.
 
 Las Fiscalía Especializada, en el ámbito de su competencia, debe establecer programas para la protección de las Víctimas, los Familiares y toda persona involucrada en el proceso de búsqueda de Personas Desaparecidas o No Localizadas, investigación o proceso penal de los delitos previstos en esta Ley, cuando su vida o integridad corporal pueda estar en peligro, o puedan ser sometidas a actos de maltrato o intimidación por su intervención en dichos procesos.
 
 También deberán otorgar el apoyo ministerial, pericial, policial especializado y de otras fuerzas de seguridad a las organizaciones de Familiares y a Familiares en las tareas de búsqueda de personas desaparecidas en campo, garantizando todas las medidas de protección y resguardo a su integridad física y a los sitios en que realicen búsqueda de campo.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
+###### Artículo 88 Bis.
+
+Los Protocolos contendrán planes de seguridad y protección para las familias.
 
 ###### Artículo 89.
 
@@ -1102,6 +1398,8 @@ La incorporación a los programas de protección de personas a que se refiere el
 La información y documentación relacionada con las personas protegidas debe ser tratada con estricta reserva o confidencialidad, según corresponda.
 
 ## TÍTULO QUINTO. De la Prevención de los Delitos
+
+### CAPÍTULO PRIMERO. Disposiciones Generales
 
 ###### Artículo 93.
 
@@ -1124,6 +1422,10 @@ Las bases de datos a que se refiere el párrafo que antecede deben permitir la i
 El Mecanismo Estatal, a través de la Comisión Estatal de Búsqueda, la Secretaría de Gobierno, la Fiscalía General, y las Instituciones de Seguridad Pública, deben respecto de los delitos previstos en la Ley General:
 
 I. Llevar a cabo campañas informativas dirigidas a fomentar la Denuncia de los delitos y sobre instituciones de atención y servicios que brindan;
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2025)</small>
+
+I Bis. Generar políticas públicas y otras acciones para sensibilizar a la población en general, con enfoque diferenciado, en relación con la información, prevención y mitigación de los factores de riesgo de la desaparición de personas;
 
 II. Proponer acciones de capacitación a las Instituciones de Seguridad Pública, a las áreas ministeriales, policiales y periciales y otras que tengan como objeto la búsqueda de personas desaparecidas, la investigación y sanción de los delitos previstos en la Ley General, así como la atención y protección a Víctimas con una perspectiva psicosocial;
 
@@ -1159,21 +1461,29 @@ La Fiscalía General debe diseñar los mecanismos de colaboración que correspon
 
 El Mecanismo Estatal, a través de la Secretaria de Gobierno y con la participación de la Comisión Estatal de Búsqueda, debe coordinar el diseño y aplicación de programas que permitan combatir las causas que generan condiciones de mayor riesgo y vulnerabilidad frente a los delitos previstos en esta Ley, con especial referencia a la marginación las condiciones de pobreza, la violencia comunitaria, la presencia de grupos delictivos, la operación de redes de trata, los antecedentes de otros delitos conexos y la desigualdad social.
 
+### CAPÍTULO SEGUNDO. De la Programación
+
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 100.
 
-Los programas de prevención a que se refiere el presente Título deben incluir metas e indicadores a efecto de evaluar las capacitaciones y procesos de sensibilización impartidos a servidores públicos.
+Los programas de prevención a que se refiere el presente Título deben incluir metas e indicadores a efecto de evaluar las capacitaciones y procesos de sensibilización impartidos a servidores públicos, sector privado y población en general.
 
 ###### Artículo 101.
 
 El Estado y los municipios están obligados a remitir anualmente al Centro Nacional de Prevención del Delito y Participación Ciudadana, conforme a los acuerdos generados en el marco del Sistema Nacional de Seguridad Pública, estudios sobre las causas, distribución geográfica de la frecuencia delictiva, estadísticas, tendencias históricas y patrones de comportamiento que permitan perfeccionar la investigación para la prevención de los delitos previstos en la Ley General, así como su programa de prevención sobre los mismos. Estos estudios deberán ser públicos y podrán consultarse en la página de Internet del Sistema Estatal de Seguridad Pública, de conformidad con la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
 
+### CAPÍTULO TERCERO. De la Capacitación
+
 ###### Artículo 102.
 
 La Comisión Estatal de Búsqueda, las Fiscalía Especializada y la autoridad municipal que el titular del Ayuntamiento determine deben establecer programas obligatorios de capacitación en materia de derechos humanos, enfocados a los principios referidos en el artículo 5 de esta Ley, para servidores públicos de las Instituciones de Seguridad Pública involucrados en la búsqueda y acciones previstas en este ordenamiento, con la finalidad de prevenir la comisión de los delitos.
 
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 103.
 
-La Fiscalía General y las Instituciones de Seguridad Pública, con el apoyo de la Comisión Estatal de Búsqueda, deben capacitar, en el ámbito de sus competencias, al personal ministerial, policial y pericial conforme a los más altos estándares internacionales, respecto de las técnicas de búsqueda, investigación y análisis de pruebas para los delitos a que se refiere la Ley General, con pleno respeto a los derechos humanos y con enfoque psicosocial.
+La Fiscalía General y las Instituciones de Seguridad Pública, con el apoyo de la Comisión Estatal de Búsqueda, deben capacitar, en el ámbito de sus competencias, al personal ministerial, policial, pericial y demás personal para el desarrollo de las funciones, los cuales serán acordes a los objetivos señalados en el artículo 52 de esta Ley conforme a los más altos estándares internacionales, técnicos y científicos para la búsqueda, investigación y análisis de las pruebas de los delitos a que se refiere la Ley General, con pleno respeto a los derechos humanos y con enfoque psicosocial.
 
 ###### Artículo 104.
 
@@ -1183,9 +1493,11 @@ Las Instituciones de Seguridad Pública seleccionarán, de conformidad con los p
 
 El número de integrantes que conformarán los Grupos de Búsqueda, será determinado conforme a los lineamientos que emita la Comisión Nacional de Búsqueda, en términos de la Ley General, tomando en cuenta las cifras de los índices del delito de desaparición forzada de personas y la cometida por particulares, así como de Personas No Localizadas que existan dentro del Estado.
 
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 106.
 
-La Fiscalía y las Instituciones de Seguridad Pública, deben capacitar y certificar, a su personal conforme a los criterios de capacitación y certificación que al efecto establezca la Conferencia Nacional de Procuración de Justicia.
+La Fiscalía y las Instituciones de Seguridad Pública deben brindar formación continua, así como certificar a su personal en las competencias y habilidades necesarias para dar cumplimiento a lo previsto en la Ley General y la presente.
 
 ###### Artículo 107.
 
@@ -1296,3 +1608,27 @@ G.O. 15 DE OCTUBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 254 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, la Fiscalía General del Estado deberá realizar la adecuación normativa e implementar el contenido del presente Decreto, particularmente el artículo 52.
+
+TERCERO. Los municipios de la entidad, en un plazo no mayor a 150 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán armonizar la normatividad que regule panteones, cementerios, servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado a la disposición final de cuerpos humanos, ya sean instituciones públicas o privadas, para establecer al menos:
+
+I. La obligación de llevar registros precisos, digitalizados y actualizados de los cuerpos inhumados, cremados o trasladados, indicando características físicas, ubicación exacta, fecha y medio de disposición;
+
+II. Vincular dichos registros al Sistema Nacional de Búsqueda, conforme a los lineamientos técnicos emitidos por la Comisión Nacional de Búsqueda; y
+
+III. Las obligaciones que permitan el cumplimiento de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley en Materia de Desaparición de Personas para el Estado de Veracruz de Ignacio de la Llave.
+
+CUARTO. La Fiscalía General del Estado y, en su caso, la Fiscalía Especializada para la Atención de Denuncias por Personas Desaparecidas, en un plazo de 60 días contados a partir de la entrada en vigor del presente Decreto, deberán actualizar todos aquellos registros y bases de datos vinculados con el Banco Nacional de Datos Forenses.
+
+QUINTO. La Fiscalía General del Estado, en virtud de tener a su cargo los servicios periciales y de identificación y resguardo forense en la entidad, deberá contar con la sistematización de sus bases de datos, registros o sistemas, en un plazo no mayor al año siguiente de la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, publicado el dieciséis de julio de dos mil veinticinco en el Diario Oficial de la Federación.
+
+SEXTO. Todas las instituciones que tengan a su cargo el resguardo de cuerpos y restos humanos de personas, identificados o no identificados, en un plazo máximo de tres meses, contados a partir de la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, publicado el dieciséis de julio de dos mil veinticinco en el Diario Oficial de la Federación, deberán diseñar, en el ámbito de sus respectivas competencias, programas específicos para la atención del rezago de larga data y de reciente ingreso.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
