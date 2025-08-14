@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2025-05-30"
+last_updated: "2025-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2025.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -4141,29 +4141,31 @@ c) (DEROGADO, G.O. 17 DE SEPTIEMBRE DE 2020)
 
 En los casos señalados en las fracciones anteriores, quien realice la recaudación deberá informar a la Secretaría mensualmente el monto de lo recaudado, para que ésta, a su vez, lo reporte en la cuenta pública. Asimismo, quien recaude observará las normas relativas a tesorería, contabilidad y control que en este Código, en la Ley de Contabilidad y demás disposiciones se establezcan y le sean aplicables.
 
-> <small>(REFORMADO, G.O. 2 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 230 Bis.
 
-Los ingresos obtenidos por concepto de concesiones de tiendas para la venta de alimentos, dentro de los espacios físicos de los planteles educativos del sistema público en el Estado, se destinarán al mantenimiento y conservación de la infraestructura física de los mismos y servicios correlacionados, así como para las consecuentes tareas de supervisión educativa, apoyo a la gestión docente y programas que se determinen en los lineamientos que dicte la autoridad educativa local.
+Los ingresos obtenidos por concepto de concesiones de tiendas para la venta de alimentos dentro de los espacios físicos de los planteles educativos del sistema público en el Estado se destinarán al mantenimiento y conservación de la infraestructura física de los mismos y servicios correlacionados, así como para las consecuentes tareas de supervisión educativa y apoyo a la gestión docente.
 
-La Secretaría de Educación de Veracruz será la que reciba, administre y realice la comprobación de los recursos a los que se refiere el presente numeral, para estos efectos el setenta por ciento de los recursos obtenidos se aplicará al mantenimiento y conservación de la infraestructura física de los planteles educativos públicos y servicios correlacionados, el veinte por ciento de los recursos se aplicará a las tareas de supervisión educativa y apoyo a la gestión docente en los sectores y zonas de las modalidades educativas públicas mencionadas y el diez por ciento de los recursos restantes será aplicado en programas que se determinen en los lineamientos que dicte la autoridad educativa local.
+Para estos efectos, el ochenta por ciento de los recursos obtenidos se aplicará al mantenimiento y conservación de la infraestructura física de los planteles educativos públicos y servicios correlacionados, que serán recibidos y administrados por las autoridades administrativas de cada plantel educativo. El veinte por ciento de los recursos restantes se aplicará a las tareas de supervisión educativa y apoyo a la gestión docente en los sectores y zonas de las modalidades educativas públicas mencionadas, que serán recibidos y administrados por las respectivas jefaturas de sector, inspecciones y jefaturas de enseñanza correspondientes.
 
-La recepción, administración, distribución y comprobación de los recursos se sujetará, invariablemente, a las disposiciones aplicables en materia de ejercicio del gasto público y transparencia financiera, así como a la contabilidad gubernamental y a la revisión y fiscalización de la cuenta pública.
+La recepción, administración, distribución y comprobación de los recursos se sujetará, invariablemente, a las disposiciones aplicables en materia de ejercicio del gasto público, transparencia financiera, contabilidad gubernamental y revisión y fiscalización de la cuenta pública.
 
-Los procedimientos de licitación pública que se desahoguen para el otorgamiento de las concesiones y los contratos respectivos, se ajustarán a lo dispuesto por la Ley de la materia, así como por los lineamientos que dicte la autoridad educativa estatal; la emisión de la convocatoria y la resolución del procedimiento estarán a cargo de la Secretaría de Educación de Veracruz, quien se apoyará para estos efectos de un Comité de Licitaciones, el cual se conformará con los siguientes miembros:
+Los procedimientos de licitación pública que se desahoguen para el otorgamiento de las concesiones y los contratos respectivos se ajustarán a lo dispuesto por la Ley de la materia, así como por los lineamientos que dicte la autoridad educativa estatal, pero la emisión de la convocatoria y la resolución del procedimiento estarán a cargo de un Comité de Licitaciones en cada plantel educativo, conformado de la forma siguiente:
 
-I. El Secretario de Educación;
+I. La persona que presida la dirección de la escuela;
 
-II. El Subsecretario de Educación Básica;
+II. Una persona representante de las y los docentes;
 
-III. El Subsecretario de Educación Media Superior y Superior;
+III. Quien presida la sociedad de padres de familia;
 
-IV. El Director Jurídico de la Secretaría de Educación;
+IV. Una persona representante del Consejo Escolar de Participación Social en la Educación que corresponda;
 
-V. Un representante de la Sociedad de Padres de Familia; y
+V. La persona que funja como Inspectora o Inspector Escolar o un representante de la misma; y
 
-VI. Un representante del Consejo Estatal de Participación Social
+VI. La persona que se desempeñe como Jefa o Jefe del sector escolar correspondiente o un representante.
+
+Las personas concesionarias de las tiendas escolares a las que se refiere el presente artículo deberán observar lo dispuesto en la Ley General de la Alimentación Adecuada y Sostenible, así como en los lineamientos que emitan las autoridades competentes en materia de preparación, distribución y expendio de alimentos y bebidas preparados, procesados y a granel, así como el fomento de los estilos de vida saludables en la alimentación en las escuelas del Sistema Educativo Nacional.
 
 ###### Artículo 231.
 
@@ -5994,3 +5996,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones legales y administrativas de igual o menor jerarquía del marco jurídico estatal que se opongan al presente Decreto.
 
 Tercero. Se concede un plazo de 90 días, contados a partir de la vigencia del presente Decreto, a efecto de que la Secretaría de Finanzas y Planeación realice las adecuaciones pertinentes a las disposiciones normativas y reglamentarias aplicables para dar cumplimiento efectivo a este Decreto.
+
+G.O. 14 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 256 QUE REFORMA EL ARTÍCULO 230 BIS DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+Tercero. En un plazo máximo de treinta días naturales, contados a partir del inicio de la vigencia del presente Decreto, la autoridad educativa estatal deberá expedir los lineamientos a los que hace referencia el Artículo 230 Bis, párrafo cuarto, del Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
