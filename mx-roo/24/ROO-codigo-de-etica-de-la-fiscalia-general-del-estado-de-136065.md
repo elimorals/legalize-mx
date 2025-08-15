@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-etica-de-la-fiscalia-general-del-estado-de-136065"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-29"
-last_updated: "2022-04-29"
+last_updated: "2025-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE ETICA DE LA FISCALIA GENERAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FÍSCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 15 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2025 (ABROGADO).
 
 Código publicado al Número 6 del Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 2019.
 
@@ -284,3 +286,17 @@ SEGUNDO. Quedan derogadas las disposiciones que se contrapongan al contenido del
 TERCERO. La Fiscalía General del Estado de Quintana Roo deberá publicar los Lineamientos Generales para la Integración y Funcionamiento del Comité de Ética y de Prevención de Conflictos de Interés, para Propiciar la Integridad de las Personas Servidoras Públicas de la Fiscalía General del Estado de Quitana Roo, a través del Comité de Ética y de Prevención de Conflictos de Interés, en un plazo de 15 días naturales contados a partir de la entrada en vigor del presente acuerdo.
 
 CUARTO. El Comité de Ética y de Prevención de Conflictos de Interés de la Fiscalía General del Estado de Quintana Roo deberá estar constituido en los términos de los Lineamientos Generales para la Integración y Funcionamiento del Comité de Ética y de Prevención de Conflictos de Interés, para Propiciar la Integridad de las Personas Servidoras Públicas de la Fiscalía General del Estado de Quintana Roo y para implementar acciones permanentes que Favorezcan su Comportamiento Ético, en un plazo de 40 días hábiles contados a partir de la entrada en vigor del presente Acuerdo.
+
+P.O. 15 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FÍSCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Acuerdo tendrá una vigencia indefinida y entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abrogan los Acuerdos 01/2019 y 02/2022, emitidos por la persona Titular del Órgano Interno de Control en la Fiscalía General del Estado de Quintana Roo, mediante los cuales emitió el Código de Ética de la Fiscalía General del Estado de Quintana Roo y el Acuerdo por el que se modifica el Código de Ética de la Fiscalía General del Estado de Quintana Roo, respectivamente, dejando sin efecto todas las disposiciones jurídicas y administrativas que contravengan el presente Acuerdo.
+
+TERCERO. La Fiscalía General del Estado de Quintana Roo con la entrada en vigor del presente Código de Ética, deberá implementar acciones efectivas para que las personas servidoras públicas suscriban en un plazo no mayor a quince días hábiles, el Manifiesto de integridad que constituye el Anexo 1 de este instrumento.
+
+CUARTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTO. Se establece un plazo de noventa días para la realización de los ajustes normativos que rige a los Comités de Ética, así como los mecanismos de coordinación y evaluación.
