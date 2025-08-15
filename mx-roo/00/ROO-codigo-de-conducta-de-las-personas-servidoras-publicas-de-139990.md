@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-conducta-de-las-personas-servidoras-publicas-de-13999
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-19"
-last_updated: "2019-09-19"
+last_updated: "2025-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA FISCALIA GENERAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 15 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2025 (ABROGADO).
 
 Código publicado en el Número 106 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 19 de septiembre de 2019.
 
@@ -476,3 +478,19 @@ SEGUNDO. El presente acuerdo entrará en vigor a partir del día de su publicaci
 TERCERO. Se dejan sin efecto todas las disposiciones jurídicas y administrativas que contravengan el presente Acuerdo.
 
 CHETUMAL, QUINTANA ROO, A LOS 11 DÍAS DEL MES DE SEPTIEMBRE DE DOS MIL DIECINUEVE. EL FISCAL GENERAL DEL ESTADO DE QUINTANA ROO, MAESTRO OSCAR MONTES DE OCA ROSALES. FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga el Acuerdo 15/2019, por el cual emitió el Código de Conducta de la Fiscal General del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo el 19 de septiembre de 2019.
+
+TERCERO. El presente acuerdo entrara en vigor a partir del día siguiente de su suscripción.
+
+CUARTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Conducta, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTO. Se Instruye a la persona titular de la Dirección Jurídica de la Fiscalía General del Estado, para que proceda a realizar los trámites que correspondan ante las autoridades respectivas, para la publicación y difusión del presente Acuerdo.
