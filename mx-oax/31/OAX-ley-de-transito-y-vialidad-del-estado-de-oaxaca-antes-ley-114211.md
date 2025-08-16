@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2025-08-09"
+last_updated: "2025-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "OAX"
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 16 DE AGOSTO DE 2025 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 634 PUBLICADO EN EL P.O. DE 24 DE MAYO DE 2025.]</small>
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
