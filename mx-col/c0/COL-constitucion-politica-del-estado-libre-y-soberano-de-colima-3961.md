@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2025-07-12"
+last_updated: "2025-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2025.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -219,7 +219,9 @@ En la interpretación del derecho de acceso a la información deberá prevalecer
 
 I. Toda la información en posesión de cualquier autoridad, entidad, órgano u organismo de los poderes Ejecutivo, Legislativo y Judicial del Estado, de los municipios, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato, que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito del Estado y los municipios, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad, en los términos que fijen las leyes;
 
-II. La información que se refiere a la vida privada y a los datos personales será protegida en los términos y con las excepciones que fijen las leyes;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2025)</small>
+
+II. La información que se refiere a la vida privada y a los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
 
 III. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias y funciones; la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
@@ -227,7 +229,25 @@ Asimismo, deberán preservar sus documentos en archivos administrativos actualiz
 
 Las leyes determinarán la manera en que deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-La ley establecerá mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE AGOSTO DE 2025)</small>
+
+La ley establecerá mecanismos de acceso a la información pública y a los datos personales, así como procedimientos de revisión expeditos que se sustanciarán ante las autoridades garantes siguientes:
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2025)</small>
+
+a) Del Poder Ejecutivo, por conducto de la Contraloría General del Estado, por sí o a través del ente que se determine en la ley respectiva, quien también conocerá de los asuntos en materia de transparencia de los municipios de la entidad y las dependencias y entidades de la administración pública paramunicipal;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2025)</small>
+
+b) Del Poder Judicial, a través del órgano de control y disciplina, por conducto del ente que determinen mediante la ley, reglamento o acuerdo correspondiente, quien conocerá de los asuntos en materia de transparencia de su competencia;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2025)</small>
+
+c) Del Poder Legislativo, a través de la contraloría interna, por sí o a través del ente que se determine en la ley o reglamento correspondiente, quien conocerá de los asuntos en materia de transparencia de su competencia; y
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2025)</small>
+
+d) De cada uno de los órganos autónomos previstos en esta Constitución, a través de su órgano interno de control, por conducto del ente que determinen mediante la ley, reglamento o acuerdo correspondiente, quien conocerá de los asuntos en materia de transparencia de su competencia.
 
 La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
@@ -391,33 +411,7 @@ La presidenta o presidente durará en su encargo cuatro años, se podrá reelegi
 
 La ley orgánica determinará la forma de integración, que observará el principio de paridad de género, la estructura y el funcionamiento de la Comisión, así como las responsabilidades en que incurrirán las autoridades, los servidores públicos y los particulares que no atiendan los requerimientos de dicho organismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-B. Corresponderá al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y las bases establecidos por el artículo 6º de la Constitución Federal, esta Constitución, la ley general que emita el Congreso de la Unión y la ley estatal de la materia.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-El Instituto se constituirá como un organismo autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propio, y tendrá las atribuciones que le señalen las leyes de la materia.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-El Instituto se integrará por tres comisionadas o comisionados, quienes durarán en su cargo seis años y no procederá reelección. Serán nombrados a propuesta de la o el titular del Poder Ejecutivo, con el voto de las dos terceras partes de las y los miembros presentes del Congreso del Estado, siguiendo el procedimiento establecido en la Ley de la materia.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ÚLTIMA PARTE DEL PÁRRAFO TERCERO DEL APARTADO B DEL PRESENTE ARTÍCULO], P.O. 3 DE AGOSTO DE 2019)</small>
-
-En la conformación del organismo se deberá observar la paridad de género.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-La comisionada o el comisionado presidente será designado por un periodo de tres años mediante el voto secreto de las y los propios comisionados y podrá ser reelegida por un periodo igual; obligándose a rendir un informe anual ante el Congreso del Estado en la fecha y los términos que disponga la ley.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-El Instituto tendrá un Consejo Consultivo, integrado por tres consejeras o consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes en (sic) Congreso del Estado. La ley determinará los procedimientos para la presentación de las propuestas por el propio Congreso. El cargo de integrante del Consejo Consultivo será honorífico.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-El Instituto tendrá facultad para ejercitar acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, contra leyes expedidas por el Congreso del Estado que vulneren el derecho de acceso a la información pública y a la protección de datos personales, en términos de la fracción II, inciso h) del artículo 105 de la Constitución Federal.
+B. (DEROGADO, P.O. 16 DE AGOSTO DE 2025)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -637,7 +631,7 @@ II. Fiscalía General;
 
 III. Instituto Electoral;
 
-IV. Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos;
+IV. (DEROGADA, P.O. 16 DE AGOSTO DE 2025)
 
 V. Órgano Superior de Auditoría y Fiscalización Gubernamental;
 
@@ -929,11 +923,9 @@ XIX. Crear municipios conforme a las bases que fija esta Constitución, cuando l
 
 XX. Dirimir las cuestiones que sobre límites se susciten entre municipios, de conformidad con la ley respectiva;
 
-XXI. Elegir en los términos que determinen esta Constitución y las leyes de la materia:
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2025)</small>
 
-a) Al presidente y a los consejeros de la Comisión de Derechos Humanos del Estado; y
-
-b) A los comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima y a los consejeros de su Consejo Consultivo;
+XXI. Elegir en los términos que determinen esta Constitución y las leyes de la materia, a la presidencia y a las consejerías de la Comisión de Derechos Humanos del Estado;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
@@ -3119,9 +3111,9 @@ El Órgano Superior de Auditoría y Fiscalización Gubernamental y la Contralor�
 
 Artículo 121
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2025)</small>
 
-Podrán ser sujetos de juicio político el Gobernador o Gobernadora, las diputadas y los diputados integrantes del Poder Legislativo del Estado, las y los miembros de los ayuntamientos, las magistradas y los magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal Electoral, del Tribunal de Arbitraje y Escalafón, del Tribunal de Justicia Administrativa, las personas integrantes del Pleno del órgano de administración judicial, las Juezas y Jueces del Poder Judicial, las consejeras y los consejeros del Instituto Electoral, las comisionadas y los comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos, el Presidente o la Presidenta de la Comisión de Derechos Humanos, la persona titular del Órgano Superior de Auditoría y Fiscalización Gubernamental y la persona titular de la Fiscalía General del Estado, las Secretarias y los Secretarios de la Administración Pública del Estado, la persona titular de la Consejería Jurídica, y las personas titulares de los órganos internos de control del Estado y los municipios.
+Podrán ser sujetos de juicio político el Gobernador o Gobernadora, las diputadas y los diputados integrantes del Poder Legislativo del Estado, las y los miembros de los ayuntamientos, las magistradas y los magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal Electoral, del Tribunal de Arbitraje y Escalafón, del Tribunal de Justicia Administrativa, las personas integrantes del Pleno del órgano de administración judicial, las Juezas y Jueces del Poder Judicial, las consejeras y los consejeros del Instituto Electoral, el Presidente o la Presidenta de la Comisión de Derechos Humanos, la persona titular del Órgano Superior de Auditoría y Fiscalización Gubernamental y la persona titular de la Fiscalía General del Estado, las Secretarias y los Secretarios de la Administración Pública del Estado, la persona titular de la Consejería Jurídica, y las personas titulares de los órganos internos de control del Estado y los municipios.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -3149,9 +3141,9 @@ Artículo 126
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2025)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por una representación del Comité de Participación Ciudadana, quien lo presidirá; las personas titulares del Órgano Superior de Auditoría y Fiscalización Gubernamental; de la Fiscalía Especializada en Combate a la Corrupción; de la Contraloría General del Estado en su carácter de órgano interno de control del Poder Ejecutivo; por el magistrado o la magistrada que presida el Tribunal Superior de Justicia y el Tribunal de Justicia Administrativa del Estado, y por el comisionado o comisionada presidenta del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos;
+I. El Sistema contará con un Comité Coordinador que estará integrado por una representación del Comité de Participación Ciudadana, quien lo presidirá; las personas titulares del Órgano Superior de Auditoría y Fiscalización Gubernamental; de la Fiscalía Especializada en Combate a la Corrupción; de la Contraloría General del Estado en su carácter de órgano interno de control del Poder Ejecutivo; por el magistrado o la magistrada que presida el Tribunal de Disciplina Judicial y el Tribunal de Justicia Administrativa del Estado;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -4634,3 +4626,25 @@ P.O. 12 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 144.- POR EL QUE SE REFORMA EL ARTÍCULO 97, PÁRRAFO TERCERO, Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 12, APARTADO A, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, PARA RECONOCER LA LENGUA DE SEÑAS MEXICANAS COMO LENGUA NACIONAL Y PARTE DEL PATRIMONIO LINGÜÍSTICO DEL ESTADO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 16 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 153.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las atribuciones del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, serán asumidas por las autoridades garantes previstas en este Decreto, en los términos que establezcan las leyes en materia de acceso a la información y protección de datos personales en posesión de instituciones públicas.
+
+Para ello, el H. Congreso del Estado de Colima contará con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las leyes secundarias que correspondan.
+
+TERCERO.- El procedimiento de extinción del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima se deberá iniciar al día siguiente de la publicación de las normas secundarias que refiere el transitorio inmediato anterior, y deberá concluir en un plazo no mayor de 90 días naturales.
+
+CUARTO.- Hasta en tanto no se expida la legislación secundaria para dar cumplimiento al presente Decreto, seguirán aplicando las disposiciones normativas en materia de acceso a la información y protección de datos personales.
+
+Los actos jurídicos emitidos por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, surtirán todos sus efectos legales, hasta en tanto entre en vigor la legislación secundaria a la que se refiere el transitorio segundo del presente Decreto.
+
+QUINTO.- La Comisionada del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, que a la entrada en vigor del presente Decreto continúa en su encargo, concluirá sus funciones cuando concluya el procedimiento de extinción que señala el artículo tercero transitorio del presente Decreto.
+
+SEXTO.- Los derechos laborales de las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, serán respetados y garantizados en su totalidad, en términos de la legislación secundaria a la que se refiere el transitorio segundo del presente Decreto.
+
+SÉPTIMO.- Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
