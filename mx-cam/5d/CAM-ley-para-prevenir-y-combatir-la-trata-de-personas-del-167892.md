@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-y-combatir-la-trata-de-personas-del-167892"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-09"
-last_updated: "2025-07-25"
+last_updated: "2025-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE AGOSTO DE 2025 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE AGOSTO DE 2025.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 9 de agosto de 2023.
 
@@ -609,9 +609,9 @@ PRIMERO. El presente decreto entrará en vigor el 1° de enero de 2024, previa s
 
 SEGUNDO. Se autoriza a la persona Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, a tomar las previsiones presupuestales correspondientes para el ejercicio fiscal de 2024, para el debido cumplimiento de este Decreto.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2025)</small>
+(REFORMADO, P.O. 25 DE JULIO DE 2025) (F. DE E., P.O. 18 DE AGOSTO DE 2025)
 
-TERCERO.- Noventa días posteriores a la entrada en vigor del presente decreto, la Fiscalía General del Estado de Campeche deberá realizar las acciones necesarias para la creación dentro de sus (sic) respectiva estructura orgánica de la Fiscalía Especializada a que se refiere la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atento a lo dispuesto en el artículo transitorio anterior.
+TERCERO.- Noventa días posteriores a la entrada en vigor del presente decreto, la Fiscalía General del Estado de Campeche deberá realizar las acciones necesarias para la creación dentro de su respectiva estructura orgánica de la Fiscalía Especializada a que se refiere la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atento a lo dispuesto en el artículo transitorio anterior.
 
 CUARTO. La Comisión Interinstitucional para Prevenir y Combatir la Trata de Personas en el Estado de Campeche se instalará en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
 
