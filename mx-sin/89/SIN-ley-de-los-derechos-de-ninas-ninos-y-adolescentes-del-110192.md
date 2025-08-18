@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2023-07-21"
+last_updated: "2025-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -84,6 +84,10 @@ IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas
 V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
 VI. Certificado de Idoneidad: El documento expedido por la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado del Sistema Estatal para el Desarrollo Integral de la Familia, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2025)</small>
+
+VI Bis. Crianza Positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos corporales ni tratos humillantes y crueles, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos;
 
 VII. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
@@ -719,9 +723,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 39.
 
-Corresponde a quienes ejerzan su patria potestad, tutela o guarda y custodia, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales en el ámbito de sus respectivas competencias coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar prácticas de crianza positiva, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales en el ámbito de sus respectivas competencias coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
 ###### Artículo 40.
 
@@ -732,6 +738,10 @@ La edad mínima para contraer matrimonio será los 18 años.
 ###### Artículo 41.
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2025)</small>
+
+De conformidad con este derecho, la educación, la crianza y la corrección de niñas, niños y adolescentes, no pueden ser consideradas como justificante para tratarlos con violencia, asimismo deberán ser cuidados, protegidos, guiados y formados mediante una crianza positiva y respetuosa de todos sus derechos.
 
 ###### Artículo 42.
 
@@ -822,6 +832,18 @@ V. Desarrollar la atención sanitaria preventiva, la orientación y asesoría a 
 VI. Establecer las medidas tendentes a prevenir embarazos de las niñas y las adolescentes, entre otras, aquellas enfocadas al acceso a oportunidades, permanencia escolar y la creación de un programa de vida;
 
 VII. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar la información y el acceso a métodos anticonceptivos conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, que los proteja de posibles riesgos, y en caso de requerirse, con la participación de quienes detenten la patria potestad, tutela o guarda y custodia, para el desarrollo de una maternidad y paternidad responsable, de acuerdo al interés superior de la niñez;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 18 DE AGOSTO DE 2025)</small>
+
+VII Bis. Formular y ejecutar políticas públicas y campañas relativas a la paternidad responsable, que promuevan la corresponsabilidad de hombres y mujeres en la crianza y educación de los hijos y las hijas, por lo cual deberán incluir estas acciones en los planes y programas, conforme a la política de protección integral de los derechos de las niñas, los niños y los adolescentes, bajo los siguientes criterios:
+
+a) La paternidad responsable implica que los padres se involucran en la crianza y la vida cotidiana de sus hijos.
+
+b) Implica cumplir con las responsabilidades de la crianza y educación de los hijos.
+
+c) Implica crear un entorno de felicidad, amor y comprensión.
+
+d) Implica aplicar métodos de crianza positiva sin violencia.
 
 VIII. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas;
 
@@ -1309,15 +1331,17 @@ III. Asegurar que cursen la educación obligatoria, participar en su proceso edu
 
 IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada, y en su caso, guiar sus conductas y hábitos siempre y cuando atiendan al interés superior de la niñez, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
 
-V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2025)</small>
+
+V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad, a través de la crianza positiva;
 
 VI. Fomentarles el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
 VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2025)</small>
 
-VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral; así como de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal. El ejercicio de su patria potestad, tutela o guarda y custodia no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral y así como de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante como método de disciplina. El ejercicio de la patria potestad, tutela o guarda y custodia no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
 IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre ellos, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
@@ -1389,9 +1413,11 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 La Procuraduría de Protección en coordinación con la Procuraduría de Protección Federal, en términos de lo dispuesto por la Ley General, Ley General de Salud, Ley de Salud del Estado, Ley sobre el Sistema Estatal de Asistencia Social y esta Ley, serán las autoridades competentes para autorizar, registrar, certificar y supervisar los Centros de Asistencia Social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos Centros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 88.
 
-Todo Centro de Asistencia Social es responsable de garantizar la integridad física y psicológica de las niñas, niños y adolescentes que tengan bajo su custodia.
+Todo Centro de Asistencia Social es responsable de garantizar la integridad física y psicológica de las niñas, niños y adolescentes que tengan bajo su custodia, con personal capacitado y con formación enfocada en los derechos de la niñez y en la crianza positiva.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2018)</small>
 
@@ -1478,6 +1504,10 @@ II. Elaborar el Programa Estatal y participar en el diseño del Programa Naciona
 III. Fortalecer las existentes e impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes;
 
 IV. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2025)</small>
+
+IV Bis. Impulsar acciones para fomentar la crianza positiva dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes;
 
 V. Impulsar programas estatales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad;
 
@@ -2204,3 +2234,15 @@ SEGUNDO. Las Reglas de Operación del Programa "Apoyo Económico para Hijas e Hi
 La Secretaría de las Mujeres expedirá las normas a las que deberá sujetarse el apoyo económico a niñas, niños y adolescentes hijas e hijos de mujeres víctimas de feminicidio, que deberán entrar en vigor el día 1° de enero de 2024.
 
 TERCERO. El Poder Ejecutivo y el Congreso del Estado de Sinaloa realizarán las acciones necesarias para asignar una partida presupuestaria en la Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, a fin de garantizar la entrega del apoyo económico a que se refiere el presente Decreto.
+
+P.O. 18 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 198 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan al presente Decreto.
