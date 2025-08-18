@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2025-05-08"
+last_updated: "2025-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -174,6 +174,14 @@ El Estado garantizará que al trabajo igual corresponda un salario igual, sin te
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
 
 El Estado implementará medidas permanentes tendentes a combatir y eliminar la desigualdad social y económica en razón de género, garantizando la entrega de apoyos económicos y en especie, que contribuyan a mejorar el acceso a la salud, la alimentación, el empleo o la vivienda de las Mujeres y sus familias que habitan en el Estado de Quintana Roo, priorizando a las mujeres que se encuentren en situación de vulnerabilidad, bajo la suficiencia de los recursos autorizados para tal efecto.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2025)</small>
+
+Todas las personas tienen derecho a la alimentación nutritiva, diaria, suficiente y de calidad, a través de alimentos saludables, accesibles, asequibles y culturalmente adecuados, que proporcionen un óptimo nivel de desarrollo humano.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2025)</small>
+
+El Estado deberá realizar políticas públicas, programas, estrategias y acciones de gobierno para impulsar el derecho a la alimentación nutritiva, así como proteger a todas las personas en contra del hambre, la malnutrición y la desnutrición.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
@@ -749,9 +757,9 @@ La organización y desenvolvimiento de la familia revisten un objeto particular 
 
 El derecho correlativo a la calidad de los padres y las madres, la determinación libre, informada y responsable, acerca del número y esparcimiento de las hijas e hijos. Constituirá su especial incumbencia el deber de procurarles los cuidados y educación adecuados. El poder público dispondrá, según el caso, los auxilios pertinentes para suplir las deficiencias en la asistencia de sus progenitores, tanto como para ofrecer orientación conveniente a las personas menores desprotegidas.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2025)</small>
 
-En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Las personas ascendientes, tutoras y custodias tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. La lactancia materna forma parte del derecho a la alimentación de la niñez, al ser un medio adecuado e idóneo para promover su derecho a la nutrición, aunado a que beneficia su desarrollo físico, cognitivo y emocional. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Las personas ascendientes, tutoras y custodias tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo su participación y la de los Municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
@@ -6782,3 +6790,11 @@ P.O. 8 DE MAYO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE AGOSTO DE 2025.
+
+> <small>[N. DE E. TRANSITORIOS “DEL DECRETO DE DECLARATORIA NÚMERO: 004 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 31 Y SE ADICIONAN LOS PÁRRAFOS SÉPTIMO Y OCTAVO RECORRIÉNDOSE EN SU ORDEN LOS PÁRRAFOS SUBSECUENTES AL ARTÍCULO 13, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
