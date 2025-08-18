@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-proteccion-a-los-animales-para-el-estado-de-sinaloa-9647
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-04"
-last_updated: "2022-01-28"
+last_updated: "2025-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 4 de noviembre de 2013.
 
@@ -347,9 +347,13 @@ X. Promover el libre acceso de los perros guía o animales de servicio a los esp
 
 XI. Coadyuvar con la Secretaría de Desarrollo Sustentable en la operación del Padrón de las Asociaciones Protectoras de Animales e individuos dedicados al mismo objeto, que permita conocer su número y actividades que realicen, así como para que participen en la realización de las tareas definidas en la presente Ley;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2025)</small>
 
-XI Bis. Incluir en el Presupuesto de Egresos, los recursos económicos necesarios para el cumplimiento de las obligaciones previstas en esta Ley; y
+XI Bis. Incluir en el Presupuesto de Egresos, los recursos económicos necesarios para el cumplimiento de las obligaciones previstas en esta Ley;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2025)</small>
+
+XI Bis A. Nombrar a una regidora o regidor como Defensora o Defensor de los Animales del Municipio; y
 
 XII. Las demás que por disposición legal le correspondan.
 
@@ -1168,3 +1172,15 @@ CUARTO. Los Municipios del Estado, por conducto de sus Ayuntamientos, en el ámb
 QUINTO. La Secretaría de Desarrollo Sustentable deberá integrar en un plazo de 180 días posteriores al inicio de vigencia del presente Decreto los Padrones a que se refieren la fracción VI del artículo 8 de la Ley de Protección a los Animales para el Estado de Sinaloa.
 
 SEXTO. Una vez integrado el Consejo Técnico del Fondo para la Protección de los Animales contará con un plazo de 90 días naturales para expedir el Reglamento a que se refiere el presente Decreto.
+
+P.O. 18 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 203 POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 10 DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
