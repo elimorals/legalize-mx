@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-centro-de-conciliacion-laboral-del-estado-de-tabasco-14
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-19"
-last_updated: "2025-05-14"
+last_updated: "2025-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025.
 
 Ley publicada en el Suplemento N del Periódico Oficial del Estado de Tabasco, el miércoles 19 de febrero de 2020.
 
@@ -429,11 +429,17 @@ Para ser Director General del Centro de Conciliación se deberá cumplir con los
 
 I. Ser ciudadana o ciudadano mexicano, y estar en pleno goce de sus derechos civiles y políticos;
 
-II. Tener por lo menos veinticinco años de edad cumplidos al día de la designación;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-III. Tener título y cédula profesional de licenciatura en Derecho o su análogo, registrado ante la Dirección General de Profesiones de la Secretaría de Educación Pública, con una antigüedad de por lo menos cinco años al día de su designación;
+II. Tener 21 años como mínimo en la fecha de su designación;
 
-IV. Tener capacidad y experiencia comprobable en actividades profesionales de servicio público o administrativo, que se encuentren relacionadas con la materia laboral, no menor a tres años al día de su designación;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+III. Tener título y cédula profesional de licenciatura en Derecho o su análogo, registrado ante la Dirección General de Profesiones de la Secretaría de Educación Pública;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+IV. Tener capacidad y experiencia comprobable en actividades profesionales de servicio público o administrativo, que se encuentren relacionadas con la materia laboral;
 
 V. No haber sido dirigente de asociaciones patronales o sindicatos en los tres años anteriores a la designación;
 
@@ -554,3 +560,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
 
 TERCERO. La Junta de Gobierno en su nueva conformación deberá instalarse dentro de un plazo no mayor a los treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 125 POR EL QUE "SE REFORMA EL ARTÍCULO 45, FRACCIONES II, III Y IV, DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que sean contrarias a lo establecido en el presente Decreto.
