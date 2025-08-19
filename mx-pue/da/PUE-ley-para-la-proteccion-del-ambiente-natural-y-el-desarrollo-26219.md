@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2024-01-23"
+last_updated: "2025-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -2287,7 +2285,9 @@ Toda persona tendrá derecho a que la Secretaría ponga a su disposición la inf
 
 Para los efectos de lo dispuesto en el presente ordenamiento, se considera información ambiental, cualquier información escrita, visual o en forma de base de datos de que dispongan las Autoridades ambientales en materia de agua, aire, suelos, flora, fauna y recursos naturales en general, así como sobre las actividades o medidas que les afecten o puedan afectarlos.
 
-Toda petición de información ambiental deberá presentarse por escrito, especificando claramente la información que se solicita y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre o razón social y domicilio.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+Toda petición de información ambiental deberá presentarse por escrito, especificando claramente la información que se solicita, sin que resulte necesario motivar la petición. Las personas solicitantes deberán identificarse indicando su nombre o razón social y domicilio.
 
 ###### ARTÍCULO 163.
 
@@ -2884,3 +2884,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente ordenamiento.
 
 TERCERO. El Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias para la aplicación del presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 162 DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
