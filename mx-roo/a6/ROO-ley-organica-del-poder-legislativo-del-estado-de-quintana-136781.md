@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2025-07-07"
+last_updated: "2025-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -351,75 +351,143 @@ El formato y realización de las sesiones solemnes se ajustará a lo que dispone
 
 Son facultades de la Legislatura:
 
-I. Legislar en su orden interno en todo cuanto no esté reservado por la Constitución Política de los Estados Unidos Mexicanos a los funcionarios federales;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-II. Expedir leyes reglamentarias y ejercer las facultades explícitas otorgadas por la Constitución Política de los Estados Unidos Mexicanos, principalmente en materia educativa de conformidad a la Ley Federal de Educación;
+I. Legislar en su orden interno en todo cuanto no esté reservado por la Constitución General de la República a las personas funcionarias federales;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+II. Expedir leyes reglamentarias y ejercer las facultades explícitas otorgadas en la Constitución Política de los Estados Unidos Mexicanos principalmente en materia educativa de conformidad con la Ley General de Educación;
 
 III. Iniciar leyes y decretos ante el Congreso de la Unión;
 
-IV. Expedir su Ley orgánica y su reglamento interior así como la Ley de Fiscalización y Rendición de Cuentas y su reglamento;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-V. Expedir el bando solemne para dar a conocer en toda la entidad la declaración de Gobernador electo que hubiere hecho la autoridad electoral correspondiente;
+IV. Expedir su Ley Orgánica y su Reglamento Interior, así como para expedir las leyes que regulen la organización y facultades de la Auditoría Superior del Estado y su Reglamento Interno y las demás que normen la gestión, control y evaluación de los Poderes del Estado y de los entes públicos estatales; así como para expedir la ley que establezca la integración, atribuciones y funcionamiento del Sistema Estatal Anticorrupción a que se refiere el artículo 161 de la Constitución.
+
+La Legislatura del Estado coordinará y evaluará, a través de la Comisión de Hacienda, Presupuesto y Cuenta, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+V. Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaratoria de la Gobernadora o el Gobernador Electo, una vez que ésta se dé por parte de la autoridad correspondiente;
 
 VI. Legislar sobre la protección, conservación y restauración del patrimonio histórico, cultural y artístico del Estado;
 
-VII. Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme al artículo 83 de la Constitución;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-VIII. Convocar a elecciones extraordinarias para cubrir las vacantes de diputados en el poder legislativo;
+VII. Convocar a elecciones extraordinarias para la Gobernatura, en caso de falta absoluta de la persona Titular de esta, ocurrida dentro de los primeros dos años del período constitucional, conforme al Artículo 83 de la Constitución;
 
-IX. Erigirse en colegio electoral para elegir Gobernador sustituto para que concluya el período constitucional, en caso de falta absoluta de éste ocurrida dentro de los cuatro últimos años de dicho período, de conformidad a lo previsto por la Constitución;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-X. Conceder a los diputados y magistrados del Tribunal Superior de Justicia, licencia temporal para separarse de sus cargos;
+VIII. Convocar a elecciones extraordinarias para cubrir las vacantes de diputadas y diputados en el poder legislativo;
 
-XI. Decidir sobre las solicitudes de renuncia que formulen los diputados y el Gobernador para separarse definitivamente de sus cargos;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+IX. Erigirse en Colegio Electoral para elegir a la persona Titular del Poder Ejecutivo sustituta para que concluya el período constitucional, en caso de falta absoluta de ésta ocurrida dentro de los cuatro últimos años de dicho período, de conformidad a lo previsto por la Constitución;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+X. Conceder a las diputadas y los diputados y a las personas titulares de las magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Justicia Administrativa y Anticorrupción, licencia temporal para separarse de sus cargos, en los términos que establezca la Constitución y las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XI. Decidir sobre las solicitudes de renuncia que formulen las Diputadas y Diputados y la persona Titular del Poder Ejecutivo del Estado para separarse definitivamente de sus cargos;
 
 XII. Cambiar la sede de los poderes del Estado;
 
-XIII. Determinar las características y el uso del escudo estatal;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XIV. Recibir por conducto de las comisiones ordinarias respectivas, la comparecencia de servidores públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia;
+XIII. Legislar en materia de símbolos estatales, como son: himno, escudo, y bandera, a fin de fomentar el patrimonio cultural, historia e identidad local, respetando en todo momento la supremacía de los símbolos patrios;
 
-XV. Erigirse en gran jurado para calificar las causas de responsabilidad de sus miembros por delitos cometidos en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XIV. Recibir en pleno o a través de la comisión respectiva, la comparecencia de las personas servidoras públicas para que informen, cuando se discuta o estudie un negocio relativo a su dependencia;
+
+XV. (DEROGADA, P.O. 19 DE AGOSTO DE 2025)
 
 XVI. Elegir a la comisión permanente;
 
-XVII. Designar a los magistrados y a los consejeros ciudadanos del Tribunal Superior de Justicia del Estado; y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de la Constitución;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XVIII. Legislar en todo lo relativo a la administración pública, planeación y desarrollo económico y social, así como para la programación y ejecución de acciones de orden económico, en la esfera de la competencia estatal y otras cuya finalidad sea la producción suficiente y oportuna de bienes y servicios necesarios en el Estado;
+XVII. Convocar a elecciones de las personas titulares de las Magistraturas y de los Juzgados del Poder Judicial e integrantes del Tribunal de Disciplina Judicial en términos de lo previsto en la Constitución. La convocatoria deberá expedirse dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda.
 
-XIX. Autorizar la participación del ejecutivo en comisiones interestatales de desarrollo regional;
+Asimismo, resolver sobre las renuncias de las Magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como de Juezas y Jueces del Poder Judicial, cuando las ausencias excedan del término que establece la Constitución;
 
-XX. Ratificar o rechazar los convenios que celebren el ejecutivo con el Gobierno Federal;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XXI. Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad;
+XVIII. Legislar con perspectiva de género en todo lo relativo a la administración pública, planeación y desarrollo económico y social, así como para la programación y ejecución de acciones de orden económico, en la esfera de la competencia estatal y otras cuya finalidad sea la producción suficiente y oportuna de bienes y servicios, social y estatalmente necesarios;
 
-XXII. Autorizar al Ejecutivo y a los ayuntamientos para contratar empréstitos a nombre del Estado y de los municipios, organismos descentralizados y empresas de participación estatal y municipal, siempre que se destinen a inversiones públicas productivas, conforme a las bases que establezca la Ley de Deuda Pública del Estado y por los conceptos y montos que la Legislatura señale anualmente en los respectivos presupuestos. El Ejecutivo y los ayuntamientos en su caso, informarán de su ejercicio al rendir la cuenta pública;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XIX. Autorizar la participación del Poder Ejecutivo en comisiones inter estatales de desarrollo regional;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XX. Ratificar o rechazar los convenios que celebren el Poder Ejecutivo con el Gobierno Federal;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXI. Otorgar reconocimiento a las personas ciudadanas que hayan prestado eminentes servicios a la entidad o a la humanidad;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXII. Autorizar al Poder Ejecutivo y a los Ayuntamientos para contratar Empréstitos a nombre del Estado y de los Municipios, Órganos autónomos, Organismos Descentralizados y Empresas Públicas y Fideicomisos, siempre que se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura de deuda, las que deberán realizarse bajo las mejores condiciones de mercado; así como aprobar los montos de endeudamiento, los cuales deberán incluirse en la Ley de Ingresos, conforme a las bases de la Ley correspondiente. El Poder Ejecutivo y los Ayuntamientos en su caso, informarán anualmente sobre el ejercicio de dicha deuda, al momento de rendir la cuenta pública;
 
 XXIII. Legislar acerca de la administración, conservación y enajenación de los bienes del Estado;
 
-XXIV. Aprobar o rechazar las concesiones otorgadas por el Ejecutivo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XXV. Examinar, aprobar y sancionar, en su caso, la cuenta pública de las entidades fiscalizables señaladas en la Ley de Fiscalización y Rendición de Cuentas del Estado de Quintana Roo;
+XXIV. Aprobar o rechazar las concesiones otorgadas por la persona Titular del Poder Ejecutivo;
 
-XXVI. Aprobar las leyes de ingresos municipales y estatal, y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXV. Aprobar o rechazar los Informes de Resultados que presente la Auditoría Superior del Estado de conformidad con lo establecido en el artículo 77 de la Constitución.
+
+Así como revisar y fiscalizar la Cuenta Pública del año anterior que deberán presentar las entidades fiscalizables ante la Auditoría Superior del Estado, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
+
+Para la revisión de la cuenta pública, la legislatura se apoyará en la Auditoría Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y a las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, la Auditoría Superior del Estado podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
+
+La Legislatura del Estado evaluará el desempeño de la Auditoría Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXVI. Aprobar las leyes de ingresos municipal y estatal y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado.
+
+La Legislatura del Estado, al aprobar el Presupuesto de Egresos del Estado, no podrá dejar de señalar los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas estatales; en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
+
+En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 165 de la Constitución y las disposiciones de las leyes que en la materia expida la Legislatura.
+
+Sólo se podrán ampliar los plazos previstos en los artículos 91 y 118 de la Constitución, para la presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Poder Ejecutivo suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso de la persona Titular de la Secretaría del Despacho correspondiente a informar de las razones que lo motiven;
 
 XXVII. Crear y suprimir empleos públicos y fijar sus emolumentos;
 
-XXVIII. Facultar al Ejecutivo a tomar medidas de emergencia en caso de calamidad y desastre;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XXIX. Decretar las leyes de hacienda y de ingresos municipales;
+XXVIII. Facultar a la persona Titular del Poder Ejecutivo a tomar medidas de emergencia en caso de calamidad y desastre;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXIX. Decretar las leyes de hacienda de los Municipios, así como revisar y fiscalizar sus cuentas públicas;
 
 XXX. Decretar la Ley de los Municipios del Estado;
 
-XXXI. Crear o suprimir municipios, y reformar la división política del Estado mediante el voto de las dos terceras partes de la totalidad de los diputados y la mayoría de los ayuntamientos en los términos del artículo 129 de la Constitución;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XXXII. Resolver los conflictos que surjan entre los ayuntamientos entre sí, y entre éstos y el Ejecutivo Estatal, salvo cuando tengan carácter contencioso;
+XXXI. Crear o suprimir municipios, y reformar la división política del Estado mediante el voto de las dos terceras partes de la totalidad de las Diputadas y los Diputados y la mayoría de los ayuntamientos en los términos del artículo 129 de la Constitución;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXXII. Resolver los conflictos que surjan entre los ayuntamientos entre sí, y entre éstos y el Poder Ejecutivo Estatal, salvo cuando tengan carácter contencioso;
 
 XXXIII. Definir los límites de los municipios en caso de duda surgida entre ellos, salvo cuando tengan carácter contencioso;
 
-XXXIV. Decidir sobre la desaparición de poderes municipales, sólo en casos de causa grave, calificada por la Legislatura mediante el voto de las dos terceras partes de la totalidad de los diputados, siempre y cuando los miembros del Ayuntamiento hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XXXV. Designar a los integrantes de los concejos municipales en los casos previstos por la Constitución;
+XXXIV. Decidir sobre la desaparición de poderes municipales, sólo en casos de causa grave, calificada por la Legislatura mediante el voto de las dos terceras partes de la totalidad de las diputadas y diputados, siempre y cuando las y los integrantes del Ayuntamiento hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXXV. Designar por el voto de las dos terceras partes de las Diputadas y los Diputados integrantes de la Legislatura, a las personas integrantes de los Concejos Municipales, en los casos previstos por la Constitución y por la Ley de los Municipios;
 
 XXXVI. Expedir y reformar, en su caso, la Ley de Expropiación por Causa de Utilidad Pública;
 
@@ -429,33 +497,65 @@ XXXVIII. Determinar el patrimonio familiar señalando los bienes que lo integran
 
 XXXIX. Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente;
 
-XL. Integrar la lista de candidatos a Fiscal General del Estado; designar y remover a dicho servidor público de conformidad con esta Constitución y la ley en la materia, así como tomarle protesta. Así como designar al titular de la fiscalía especializada en combate a la corrupción en los términos que establezca esta constitución y la ley;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XLI. Designar, mediante el procedimiento que la Ley determine, al presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
+XL. Integrar la lista de personas candidatas a ocupar la titularidad de la Fiscalía General del Estado; designar, tomar la protesta y removerla de conformidad con la Constitución y la ley en la materia. Así como designar a la persona titular de la Fiscalía Especializada en Combate a la Corrupción, tomarle su protesta y removerla en los términos que establezca la constitución y la ley;
 
-XLII. Solicitar, a petición de la Comisión de los Derechos Humanos del Estado de Quintana Roo, la comparecencia de las autoridades o servidores públicos responsables cuando éstos se hayan negado a aceptar o cumplir una recomendación del mencionado ombudsman estatal, a efecto de que expresen las razones de su conducta o bien justifiquen los hechos u omisiones en que hubieren incurrido.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-La solicitud de comparecencia a que se refiere el párrafo anterior, deberá ingresar a la Legislatura por conducto de la Comisión Ordinaria de Derechos Humanos del Poder Legislativo;
+XLI. Designar, mediante el procedimiento que la Ley determine, a la persona Titular de la Presidencia y a las personas integrantes del Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XLII. Solicitar, a petición de la Comisión de los Derechos Humanos del Estado de Quintana Roo, la comparecencia de las autoridades o personas servidoras públicas responsables cuando éstas se hayan negado a aceptar o cumplir una recomendación del mencionado Órgano de protección de los derechos humanos.
+
+La solicitud de comparecencia a que se refiere el párrafo anterior, deberá ingresar a la Legislatura por conducto de su Comisión Ordinaria de Derechos Humanos;
 
 XLIII. Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de derechos humanos;
 
 XLIV. Expedir Leyes encaminadas a combatir el alcoholismo;
 
-XLV. Designar y remover a los titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en la Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, con excepción del titular del órgano interno de control del Tribunal Electoral de Quintana Roo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XLVI. Nombrar y remover, conforme al procedimiento previsto en esta Constitución y en la ley de la materia, al titular de la Auditoría Superior del Estado; así como ratificar con el voto de las dos terceras partes de los miembros presentes el nombramiento de los auditores especiales;
+XLV. Designar y remover a las personas titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en la Constitución y de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción que ejerzan recursos del Presupuesto de Egresos del Estado, con excepción de la persona titular del órgano interno de control del Tribunal Electoral de Quintana Roo. Las Leyes determinarán el procedimiento para su designación y remoción;
 
-XLVII. Nombrar a los comisionados, a los consejeros del consejo consultivo y al órgano interno de control del órgano garante, previsto en el artículo 21 de la Constitución Política del Estado, en los términos establecidos en la ley de la materia;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XLVIII. Nombrar a los magistrados del Tribunal de Justicia Administrativa del Estado y expedir su ley orgánica, para establecer su organización, funcionamiento y procedimientos;
+XLVI. Designar y remover a la persona Titular del Órgano Interno de Control del Poder Legislativo del Estado conforme al procedimiento previsto en esta ley;
 
-XLIX. Ratificar al titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XLVII. Nombrar y remover, conforme al procedimiento previsto en la Constitución y en la ley de la materia, a la persona Titular de la Auditoría Superior del Estado; así como ratificar con el voto de las dos terceras partes de las diputadas y los diputados presentes el nombramiento de las personas auditoras especiales;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XLVIII. Designar a las personas titulares de las magistraturas del Tribunal de Justicia Administrativa y Anticorrupción del Estado y su ley orgánica para establecer su integración, organización, atribuciones y funcionamiento, así como aprobar o rechazar, en su caso, las renuncias o destituciones de éstas, en los términos de la Constitución.
+
+Asimismo, expedir la legislación que regule los actos y procedimientos administrativos, los recursos administrativos y el juicio contencioso administrativo, de competencia estatal y municipal;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XLIX. Ratificar a la persona Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal;
 
 L. Autorizar la celebración de los convenios del estado o sus municipios, en caso de adherirse al mecanismo de contratación de deuda estatal garantizada de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 LI. Expedir las leyes que señale el título octavo de la Constitución Política del Estado, así como todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores, y
 
-LII. Las demás que la Constitución y otras leyes le confieran.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2025)</small>
+
+LII. Conocer y resolver de las solicitudes de destitución por faltas graves de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y de los integrantes del Órgano de Administración Judicial, en términos de la presente Constitución;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+LIII. Postular, mediante votación de dos terceras partes de sus integrantes presentes un aspirante para ocupar el cargo de Magistradas y Magistrados, Juezas y Jueces del Poder Judicial, respetando el principio de paridad de género y un aspirante para integrar el Tribunal de Disciplina Judicial, conforme al procedimiento establecido en esta Constitución;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+LIV. Designar mediante votación de dos terceras partes de sus integrantes presentes a una persona integrante del Órgano de Administración Judicial, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA ANTES FRACCIÓN LII], P.O. 19 DE AGOSTO DE 2025)</small>
+
+LV. Las demás que la Constitución y otras leyes le confieran.
 
 ### CAPÍTULO CUARTO. De las facultades Jurisdiccionales de la Legislatura
 
@@ -1923,29 +2023,43 @@ En él se consignarán la fecha, el sumario, el nombre de la diputada o el diput
 
 ### CAPÍTULO ÚNICO. De la elección y funcionamiento del Órgano Interno de Control
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 134.
 
-El Órgano Interno de Control del Poder Legislativo del Estado es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Estará adscrito administrativamente al pleno, sin que ello se traduzca en subordinación alguna.
+El Órgano Interno de Control del Poder Legislativo del Estado es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Estará adscrito administrativamente al pleno, sin que ello se traduzca en subordinación alguna, siendo responsable de la investigación, substanciación y resolución en su caso, de los procedimientos de responsabilidad administrativa de las personas servidoras públicas del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 135.
 
-El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y en el ejercicio de las atribuciones que esta ley y las demás disposiciones aplicables confieren a las personas servidoras públicas del Poder Legislativo.
+El Órgano Interno de Control, su persona Titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y en el ejercicio de las atribuciones que esta ley y las demás disposiciones aplicables confieren a las personas servidoras públicas del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 El Órgano Interno de Control estará a cargo de una persona Titular, que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 
-Quien desempeñe el cargo de Titular del Órgano Interno de Control, se sujetará y observará los principios previstos en la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+Quien desempeñe el cargo de persona Titular del Órgano Interno de Control, se sujetará y observará los principios previstos en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas para el Estado de Quintana Roo y sus Municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 136.
 
-El Órgano Interno de Control del Poder Legislativo, a través de su titular, tendrá las siguientes atribuciones:
+El Órgano Interno de Control del Poder Legislativo, a través de su persona Titular, tendrá las siguientes atribuciones:
 
-I. Las que contempla la Ley General de Responsabilidades Administrativas;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-II. Prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Poder Legislativo y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado;
+I. Las que contempla la Ley General de Responsabilidades Administrativas, la Ley General del Sistema Nacional Anticorrupción, la Ley de Responsabilidades Administrativas para el Estado de Quintana Roo y sus Municipios y la Ley del Sistema Anticorrupción del Estado de Quintana Roo.
 
-III. Resolver sobre la responsabilidad de los servidores públicos del Poder Legislativo e imponer en su caso las sanciones administrativas que correspondan;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+II. Prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de las personas servidoras públicas del Poder Legislativo y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+III. Resolver sobre la responsabilidad de las personas servidoras públicas del Poder Legislativo e imponer, en su caso, las sanciones administrativas que correspondan;
 
 IV. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción o ante la Fiscalía General del Estado, según corresponda;
 
@@ -1963,15 +2077,17 @@ X. Evaluar los informes de avance de la gestión financiera respecto de los prog
 
 XI. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Poder Legislativo, empleando la metodología que determine;
 
-XII. Recibir, tramitar, investigar y resolver, en su caso, las quejas, sugerencias y denuncias en contra de los servidores públicos del Poder Legislativo, conforme a las leyes aplicables;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XII. Recibir, tramitar, investigar y resolver, en su caso, las quejas, sugerencias y denuncias en contra de las personas servidoras públicas del Poder Legislativo, conforme a las leyes aplicables;
 
 XIII. Solicitar la información y efectuar visitas a los órganos y demás áreas administrativas del Poder Legislativo para el cumplimento de sus funciones;
 
 XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XV. Intervenir en los actos de entrega y recepción de los servidores públicos del Poder Legislativo;
+XV. Intervenir en los actos de entrega y recepción de las personas servidoras públicas del Poder Legislativo y, en su caso, delegar esta función al personal de las áreas del Órgano, de conformidad con la normatividad aplicable;
 
 XVI. Atender las solicitudes de los diferentes órganos y demás áreas administrativas del Poder Legislativo en los asuntos de su competencia;
 
@@ -1983,47 +2099,85 @@ XVIII. Formular su anteproyecto de presupuesto ante la Junta;
 
 XIX. Presentar a la Junta en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera la Presidencia de la Junta;
 
-XX. Inscribir y mantener actualizada la información correspondiente del Sistema de Evolución Patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Poder Legislativo, excepto de los servidores públicos adscritos a la Auditoría Superior del Estado, de conformidad con las leyes aplicables, y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XXI. Las demás que le confieran otros ordenamientos de la materia.
+XX. Inscribir y mantener actualizada la información correspondiente del Sistema de Evolución Patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todas las personas servidoras públicas del Poder Legislativo, excepto de las personas servidoras públicas adscritas a la Auditoría Superior del Estado, de conformidad con las leyes aplicables;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXI. Implementar los mecanismos, políticas y estrategias internas encaminadas a la prevención, disuasión y detección de actos u omisiones que pudieran constituir responsabilidades administrativas y hechos de corrupción en los términos establecidos por la Ley General de Responsabilidades Administrativas, el Sistema Nacional Anticorrupción, la Ley de Responsabilidades Administrativas para el Estado de Quintana Roo y sus Municipios, el Sistema Estatal Anticorrupción y las demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXII. Emitir recomendaciones generales que promuevan la mejora de su control interno, evaluación y el adecuado desarrollo administrativo institucional de las funciones inherentes a todas las áreas del Poder Legislativo;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXIII. Emitir las disposiciones, acuerdos, reglas, bases de carácter general, normas y lineamientos necesarios para la organización del Órgano interno de Control;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXIV. Expedir copias certificadas de los documentos que se encuentren en sus archivos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXI], P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXV. Las demás que le confieran otros ordenamientos de la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+En ningún caso pueden reunirse en las mismas personas servidoras públicas, las facultades de investigación con las de substanciación y resolución en materia de responsabilidad administrativa de las personas servidoras públicas.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 137.
 
-Quien ocupe la titularidad del Órgano Interno de Control, será nombrado por el pleno de la Legislatura, durará cuatro años en su cargo sin posibilidad de reelección y deberá reunir los siguientes requisitos:
+La persona Titular del Órgano Interno de Control, será designada y removida por el pleno de la Legislatura, conforme al procedimiento siguiente:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+Para su nombramiento, la Junta mediante el sistema de voto ponderado de las personas coordinadoras de los Grupos Legislativos que representen las dos terceras partes del total de las personas integrantes de la Legislatura, emitirá un Acuerdo que contenga una terna de personas aspirantes, el cual será remitido al Pleno quien designará a la persona Titular del Órgano Interno de Control por mayoría de votos de las y los Diputados presentes.
+
+Para su remoción, la Junta mediante el sistema de voto ponderado de las personas coordinadoras de los Grupos Legislativos, que representen las dos terceras partes del total de las personas integrantes de la Legislatura, emitirá un Acuerdo, el cual será remitido al Pleno, para su aprobación.
+
+La persona Titular del Órgano Interno de Control durará siete años en su encargo con posibilidad de reelección por un periodo adicional y deberá reunir los siguientes requisitos:
+
+I. Tener ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
 
 II. Tener treinta años de edad cumplidos el día de la designación;
 
-III. Gozar de buena reputación y no haber sido condenado por delito doloso;
+III. Gozar de buena reputación y no haber sido condenada por delito doloso;
 
-IV. Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
+IV, Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
 
-V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
+V. Contar al día de su designación con título y cédula profesional de licenciatura en derecho, contaduría, administración, economía o finanzas, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
 
-VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Poder Legislativo, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
+VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Poder Legislativo, o haber fungido como persona consultora o auditora externa del mismo, en lo individual durante ese periodo;
 
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+VII. No estar inhabilitada para desempeñar un empleo, cargo o comisión en el servicio público;
 
-VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidata a cargo de elección popular alguno;
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijurídicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
 
-Quien desempeñe el cargo de titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+X. No ser declarada persona deudora alimentaria morosa, y
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+XI. No tener al momento de su designación conflicto de interés, parentesco de consanguinidad en línea recta o colateral hasta el cuarto grado, ni de afinidad, con ningún integrante del Pleno.
+
+Quien desempeñe el cargo de persona Titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 138.
 
-Quien sea titular del Órgano Interno de Control del Poder Legislativo, será responsable de las faltas que cometa en términos de la Ley General de Responsabilidades Administrativas.
+Quien funja como la persona Titular del Órgano Interno de Control del Poder Legislativo, será responsable de las faltas que cometa en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas para el Estado de Quintana Roo y sus Municipios.
 
-Toda persona que preste servicios en el Órgano Interno de Control del Poder Legislativo, y cometa faltas administrativas se sancionará por la persona Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas.
+Toda persona que preste servicios en el Órgano Interno de Control del Poder Legislativo, y cometa faltas administrativas se sancionará por la persona Titular del Órgano Interno de Control, o la persona servidora pública en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas para el Estado de Quintana Roo y sus Municipios.
+
+La persona Titular y las personas servidoras públicas que integren el Órgano Interno de Control deberán observar los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 139.
 
-Las responsabilidades administrativas no graves en que incurran los Titulares y personal de confianza de los órganos del Poder Legislativo, serán calificadas y sancionadas por el órgano interno de control del Poder Legislativo, en los términos de la Ley General de Responsabilidades Administrativas, y del reglamento o de la normatividad que al efecto se expida.
+Las responsabilidades administrativas no graves en que incurran las personas Titulares y personal de confianza de los órganos del Poder Legislativo, serán calificadas y sancionadas por el órgano interno de control del Poder Legislativo, en los términos de la Ley General de Responsabilidades Administrativas, de la Ley de Responsabilidades Administrativas para el Estado de Quintana Roo y sus Municipios y del reglamento o de la normatividad que al efecto se expida.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -2103,25 +2257,33 @@ V. Elaborar, en su caso, los proyectos de opiniones técnicas y recomendaciones 
 
 VI. Las demás que establezcan las disposiciones jurídicas y normativas aplicables.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 139 Sexies.
 
-La persona titular del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo será nombrada por el pleno de la Legislatura, a propuesta de la Comisión para la Igualdad de Género, que presentará una terna de candidatas, durará cuatro años en su cargo y deberá reunir los siguientes requisitos:
+La designación de la persona titular del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo se llevará a cabo conforme el siguiente procedimiento:
 
-I. Estar en pleno goce de sus derechos políticos y civiles;
+l. La Junta mediante el sistema de voto ponderado de las personas coordinadoras de los Grupos Legislativos que representen las dos terceras partes del total de las personas integrantes de la Legislatura, emitirá un acuerdo mediante el cual enviará una propuesta de terna al Pleno del Poder Legislativo del Estado de Quintana Roo.
+
+II. El Pleno del Poder Legislativo deberá votar por una de las personas integrantes de la terna enviada por la Junta para ocupar la titularidad del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo.
+
+La persona Titular del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo durará en su cargo cuatro años con posibilidad de reelección hasta por un periodo más.
+
+La persona Titular del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo deberá reunir los siguientes requisitos:
+
+l. Estar en pleno goce de sus derechos políticos y civiles;
 
 II. Ser mujer y tener treinta años de edad cumplidos al día de la designación;
 
 III. Contar al día de su designación con título y cédula profesional de Licenciatura en Derecho, expedido con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
 
-IV. No tener sentencia firme por la comisión intencional de delitos contra la vida-y (sic) la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+IV. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
 
 V. No encontrarse sancionada administrativamente por violencia política contra las mujeres en razón de género;
 
 VI. No ser declarada persona deudora alimentaria morosa;
 
-VII. Contar al momento de su designación con experiencia en materia de derechos humanos de las mujeres, perspectiva de género e igualdad sustantiva;
+VII. Contar al momento de su designación con experiencia en materia de derechos humanos de las mujeres, perspectiva de género e igualdad sustantiva, y
 
 VIII. No estar inhabilitada para desempeñar un empleo, cargo o comisión en el servicio público.
 
@@ -2165,17 +2327,27 @@ I. Incurrir en violaciones graves a los derechos humanos, previstos por la Const
 
 II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas;
 
-III. Dejar de cumplir los requisitos señalados en las fracciones IV, V y VI del artículo 139 sexies, y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+III. Dejar de cumplir los requisitos señalados en las fracciones IV, V y VI del párrafo tercero del artículo 139 sexies, y
 
 IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE AGOSTO DE 2025)</small>
+
+La persona titular del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo podrá ser removida conforme al siguiente procedimiento:
+
+l. La Junta mediante el sistema de voto ponderado de las personas coordinadoras de los Grupos Legislativos, que representen las dos terceras partes del total de las personas integrantes de la Legislatura, emitirá un Acuerdo, en el cual justifique las causas de remoción establecidas en el presente artículo, el cual enviará al Pleno del Poder Legislativo para su aprobación.
+
+II. El Pleno del Poder Legislativo deberá votar el acuerdo de la Junta relativo a la propuesta de remoción de la persona titular del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres, siendo que dicha votación fuera favorable, la remoción de la persona titular surtirá sus efectos de manera inmediata.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 139 Nonies.
 
-En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, la Comisión para la Igualdad de Género, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, notificará inmediatamente a la persona titular de la Mesa Directiva de la Legislatura acompañando el expediente del asunto.
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, la Junta de Gobierno y Coordinación Política, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, notificará inmediatamente a la persona titular de la Mesa Directiva de la Legislatura acompañando el expediente del asunto.
 
-La persona titular de la Mesa Directiva turnará el expediente a la Junta de Gobierno y Coordinación Política para los efectos conducentes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE AGOSTO DE 2025)</small>
 
 ## TÍTULO DÉCIMO PRIMERO. Del Proceso Legislativo
 
@@ -2828,5 +3000,23 @@ P.O. 7 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 123 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO Y DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 132 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A la entrada en vigor del presente decreto, la persona Titular del Órgano Interno de Control del Poder Legislativo del Estado de Quintana Roo, designada mediante Acuerdo 017, emitido por la H. XVII Legislatura del Estado y publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 22 de noviembre de 2022, queda designada para permanecer en el cargo por un periodo de siete años contados a partir de la entrada en vigor del presente decreto, quien deberá tomar la protesta correspondiente ante la Legislatura del Estado.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan el presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 133 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
