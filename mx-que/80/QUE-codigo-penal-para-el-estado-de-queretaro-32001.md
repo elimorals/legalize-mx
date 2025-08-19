@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2023-09-08"
+last_updated: "2025-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1615,25 +1615,23 @@ ARTICULO 150 BIS UNO.- (DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2018)
 
 ### CAPITULO I. AMENAZAS
 
-(NOTA: EL 10 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE MAYO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 155.
 
-AL QUE CAUSE UNA ALTERACIÓN PSICOLÓGICA O EMOCIONAL QUE AFECTE LAS ACTIVIDADES COTIDIANAS DE UNA PERSONA POR MANIFESTACIONES QUE PUEDAN PRODUCIR CUALQUIER DAÑO A SU PERSONA, BIENES, FAMILIA O CON QUIEN TENGA VÍNCULO DE AMISTAD, AMOR U OTRA RELACIÓN DE AFECTO, SE LE IMPONDRÁ PRISIÓN DE 1 A 3 AÑOS, TRABAJOS A FAVOR DE LA COMUNIDAD HASTA POR 6 MESES, 100 A 300 DÍAS MULTA.
+Se le impondrá prisión de 1 a 3 años, trabajos a favor de la comunidad hasta por 6 meses, y de 100 a 300 días multa al que por cualquier modo intimide a otro con causarle un mal en su persona, derechos, bienes, o en los derechos de alguien con quien esté ligado por alguno de los siguientes vínculos:
 
-(NOTA: EL 10 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE MAYO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+I. A los ascendientes y descendientes consanguíneos o afines hasta el segundo grado; o
 
-AL QUE PERSISTA EN SUS AMENAZAS CUANDO LA AUTORIDAD INVESTIGADORA O JUDICIAL YA TENGA CONOCIMIENTO DE LOS HECHOS, O SE VIOLEN DE CUALQUIER MODO MEDIDAS DE PROTECCIÓN O CAUTELARES DISPUESTAS EN FAVOR DE LAS PERSONAS SEÑALADAS EN EL PÁRRAFO PRIMERO, LA SANCIÓN SE INCREMENTARÁ HASTA EN UNA MITAD.
+II. El cónyuge, la concubina o el concubinario.
 
-(NOTA: EL 10 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE MAYO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Al que continúe con la conducta señalada en el párrafo primero, cuando la autoridad investigadora o judicial ya tenga conocimiento de los hechos, o se violen de cualquier modo medidas de protección o cautelares que se hayan dispuesto, la sanción se incrementará hasta en una mitad.
 
-SI SE CUMPLE CON LA MANIFESTACIÓN SEÑALADA EN EL PÁRRAFO PRIMERO, LA SANCIÓN SERÁ DE 3 A 5 AÑOS, ADEMÁS DE LAS QUE CORRESPONDAN POR EL O LOS DELITOS COMETIDOS.
+Si se cumple con la amenaza señalada en el párrafo primero, la sanción será de 3 a 5 años, además de las que correspondan por el o los delitos cometidos.
 
-(NOTA: EL 10 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE MAYO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Si la amenaza se dirige a un testigo, parte o autoridad en un procedimiento penal, con el propósito de no cumplir con sus obligaciones o ejercer sus derechos dentro del mismo, se le impondrá prisión de 4 a 8 años, trabajos a favor de la comunidad hasta por 12 meses, y de 400 a 600 días multa.
 
-ESTE DELITO SE PERSEGUIRÁ A PETICIÓN DEL OFENDIDO, EXCEPTO CUANDO LA PERSONA OFENDIDA FUERE UN MENOR DE EDAD O MAYOR DE SESENTA AÑOS O PERSONA CON DISCAPACIDAD MENTAL, INTELECTUAL, FÍSICA O SENSORIAL.
+Este delito se perseguirá a petición del ofendido. Cuando la persona ofendida fuere niña, niño o adolescente o mayor de sesenta años o persona con discapacidad, se perseguirá de oficio, en tales supuestos la sanción se incrementará hasta en una mitad.
 
 ### CAPITULO II. ASALTO
 
@@ -5104,3 +5102,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Enviese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, “La Sombra de Arteaga”.
+
+P.O. 19 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 155 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
