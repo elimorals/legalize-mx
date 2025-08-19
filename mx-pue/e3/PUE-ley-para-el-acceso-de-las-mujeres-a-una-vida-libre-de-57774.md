@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2025-05-29"
+last_updated: "2025-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "PUE"
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025).
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -1391,7 +1393,7 @@ IV.- Promover políticas de prevención y atención de la violencia contra las m
 
 V.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y Programas Estatales.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADO, P.O. 29 DE MAYO DE 2025) (REPUBLICADO, P.O. 19 DE AGOSTO DE 2025)
 
 ARTÍCULO 43 TER.- Corresponde a la Secretaría de Desarrollo Económico y Trabajo las funciones siguientes:
 
@@ -2318,6 +2320,8 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
 
 P.O. 29 DE MAYO DE 2025.
+
+REPUBLICADO, P.O. 19 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA Y DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
 
