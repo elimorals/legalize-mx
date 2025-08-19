@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-planeacion-para-el-desarrollo-del-estado-de-quintana-159
 country: "mx"
 rank: "ley"
 publication_date: "2022-08-15"
-last_updated: "2025-01-10"
+last_updated: "2025-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025.
 
 Ley publicada en el Número 15 Ordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 15 de agosto de 2022.
 
@@ -81,11 +81,19 @@ IV. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadore
 
 V. Diagnóstico estratégico: Es la descripción, evaluación y análisis de la situación actual y la trayectoria histórica de la realidad económica, política, social, cultural, educativa y deportiva del Estado, que coadyuve a definir las grandes líneas de acción contenidas en las políticas públicas estatales.
 
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+V BIS. Dimensiones: Componente del Plan Estratégico que organiza y enfoca las acciones en torno a aspectos clave del desarrollo, como las personas, el ambiente, la paz, la prosperidad y la pertenencia.
+
 VI. Dirección Operativa: Órgano técnico de la Secretaría, responsable de llevar a cabo todos los compromisos y obligaciones derivados de la coordinación de las actividades de la planeación estatal de desarrollo y de la coordinación del COPLADEST y COPLADE.
 
 VII. Indicadores para la planeación: Es el parámetro utilizado para medir o comparar los resultados efectivamente obtenidos en la ejecución de un programa, proyecto o actividad, para monitorear y evaluar la ejecución de las tareas gubernamentales.
 
 VIII. Ley: La Ley de Planeación para el Desarrollo del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+VIII BIS. Objetivos Globales: Constituyen un plan global orientado a lograr un futuro sostenible para todas las personas. Estos objetivos están interconectados y abordan de manera integral los grandes desafíos globales.
 
 IX. Plan Estatal: El Plan Estatal de Desarrollo de Quintana Roo.
 
@@ -105,7 +113,9 @@ XVI. Perspectiva de Género: Se refiere a la metodología y los mecanismos que p
 
 XVII. Política pública: Conjunto de estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el bienestar y calidad de vida para la sociedad.
 
-XVIII. Zona Centro: Se refiere a los Municipios de Solidaridad, Tulum y Cozumel.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XVIII. Zona Centro: Se refiere a los Municipios de Playa del Carmen, Tulum y Cozumel.
 
 XIX. Zona Norte: Se refiere a los Municipios de Benito Juárez, Isla Mujeres, Lázaro Cárdenas y Puerto Morelos.
 
@@ -271,7 +281,9 @@ V. La persona titular de cada una de las Presidencias municipales de los Ayuntam
 
 VI. El titular de la Secretaría, quien coordinará los trabajos del COPLADEST a través de una Dirección Operativa;
 
-VII. Un representante de cada una de las coordinaciones de los ejes que establezca el Plan Estratégico;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+VII. Una persona representante de cada una de las coordinaciones de las dimensiones que establezca el Plan Estratégico;
 
 VIII. Una persona representante de los pueblos y comunidades indígenas y afromexicanas;
 
@@ -283,7 +295,9 @@ XI. Tres personas representantes de los colegios de profesionistas en el Estado 
 
 XII. El Consejo Ciudadano de Planeación del Estado de Quintana Roo, y
 
-XIII. Ciudadanos, organismos, instituciones o representantes del sector social y privado, que consideren los integrantes, cuyo carácter serán de invitados.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XIII. Tres personas representantes de las Organizaciones de la Sociedad Civil del Estado de Quintana Roo, debiendo ser una de la zona sur, una de la zona centro y otra de la zona norte.
 
 Las personas integrantes del COPLADEST contarán con voz y voto, a excepción de los señalados en las fracciones VIII, IX, X, XI, XII y XIII de este artículo quienes únicamente contarán con voz.
 
@@ -293,11 +307,15 @@ El COPLADEST para efectos de esta Ley, tiene las siguientes atribuciones:
 
 I. Aprobar y actualizar el Plan Estratégico, dentro de los términos y plazos que fija la presente Ley;
 
-II. Acordar el establecimiento de coordinaciones de ejes, los cuales actuarán como auxiliares del COPLADEST y se integrarán conforme a lo que éste determine;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+II. Acordar el establecimiento de coordinaciones de las dimensiones, los cuales actuarán como auxiliares del COPLADEST y se integrarán conforme a lo que éste determine;
 
 III. Atender las opiniones y propuestas que realicen en materia de planeación el Consejo Ciudadano;
 
-IV. Promover que el seguimiento y evaluación del Plan Estratégico se realice de conformidad a los principios que rigen esta ley;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+IV. Promover que el control y seguimiento, así como la evaluación del Plan Estratégico se realice de conformidad a los principios que rigen esta ley;
 
 V. Promover, con la ciudadanía, organismos, instituciones y representantes del sector social y privado, a través de los mecanismos de cocreación y participación ciudadana, la elaboración y actualización del Plan Estratégico procurando que se realicen atendiendo los principios que rigen el Sistema Estatal;
 
@@ -313,31 +331,37 @@ El COPLADE es el órgano público, colegiado e interinstitucional en materia de 
 
 I. La persona titular del Poder Ejecutivo, quien lo presidirá;
 
-II. La persona que presida la Junta de Gobierno y Coordinación Política del Poder Legislativo del Estado de Quintana Roo;
+II. (DEROGADA, P.O. 19 DE AGOSTO DE 2025)
 
-III. La persona que presida el Tribunal Superior de Justicia del Poder Judicial del Estado de Quintana Roo;
+III. (DEROGADA, P.O. 19 DE AGOSTO DE 2025)
 
-IV. Los representantes de los Órganos Públicos Autónomos en la entidad;
+IV. (DEROGADA, P.O. 19 DE AGOSTO DE 2025)
 
-V. La persona titular de cada una de las Presidencias municipales de los Ayuntamientos del Estado de Quintana Roo;
+V. (DEROGADA, P.O. 19 DE AGOSTO DE 2025)
 
 VI. El titular de la Secretaría, quien coordinará los trabajos del COPLADE a través de una Dirección Operativa;
 
-VII. Un representante de cada una de las coordinaciones de los ejes que establezca el Plan Estatal;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+VII. Una persona representante de cada una de las secretarías encargadas de la ejecución de los temas establecidos en el Plan Estatal;
 
 VIII. Una persona representante de los pueblos y comunidades indígenas y afromexicanas;
 
-IX. Tres personas representantes de instituciones de educación superior en el Estado de Quintana Roo, preferentemente públicas; debiendo pertenecer una de la zona sur, una de la zona centro y otra de la zona norte;
+IX. (DEROGADA, P.O. 19 DE AGOSTO DE 2025)
 
-X. Tres personas representantes de las cámaras empresariales en el Estado de Quintana Roo, debiendo ser una de la zona sur, una de la zona centro y otra de la zona norte;
+X. (DEROGADA, P.O. 19 DE AGOSTO DE 2025)
 
-XI. Tres personas representantes de los colegios de profesionistas en el Estado de Quintana Roo, debiendo ser una de la zona sur, una de la zona centro y otra de la zona norte;
+XI. (DEROGADA, P.O. 19 DE AGOSTO DE 2025)
 
 XII. El Consejo Ciudadano de Planeación del Estado de Quintana Roo, y
 
-XIII. Ciudadanos, organismos, instituciones o representantes del sector social y privado, que consideren los integrantes, cuyo carácter serán de invitados.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-Las personas integrantes del COPLADE contarán con voz y voto, a excepción de los señalados en las fracciones II, III, IV, V, VIII, IX, X, XI, XII y XIII de este artículo quienes únicamente contará con voz.
+XIII. Tres personas representantes de las Organizaciones de la Sociedad Civil del Estado de Quintana Roo, debiendo ser una de la zona sur, una de la zona centro y otra de la zona norte;
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+Las personas integrantes del COPLADE contarán con voz y voto, a excepción de las señaladas en las fracciones VI, VIII, XII y XIII de este artículo quienes únicamente contarán con voz.
 
 ###### Artículo 23.
 
@@ -359,13 +383,15 @@ La Secretaría, para ejercer la coordinación del COPLADEST y COPLADE, contará 
 
 Para los efectos referidos en el párrafo que antecede, la persona titular tendrá las facultades que se determine en las Reglas de Operación y Funcionamiento del COPLADEST y del COPLADE, como instrumento normativo de las actividades de dicho órgano.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 25.
 
-Para el desempeño de las atribuciones del COPLADEST, la Dirección Operativa se apoyará en las coordinaciones de los ejes que establezca el Plan Estratégico, las cuales serán presididas por las Dependencias de la Administración Pública Estatal e integradas por personas representantes de los Poderes Legislativo y Judicial, los Órganos Públicos Autónomos, así como los Ayuntamientos.
+Para el desempeño de las atribuciones del COPLADEST, la Dirección Operativa se apoyará en las coordinaciones de las dimensiones que establezca el Plan Estratégico, las cuales serán presididas por las Dependencias de la Administración Pública Estatal e integradas por personas representantes de los Poderes Legislativo y Judicial, los Órganos Públicos Autónomos, así como los Ayuntamientos.
 
-Para el desempeño de las atribuciones del COPLADE, la Dirección Operativa se apoyará en las coordinaciones de los ejes que establezca el Plan Estatal en Subcomités Regionales, Sectoriales, Institucionales y Especiales, que serán presididos por las Dependencias y en su caso por las Entidades de la Administración Pública Estatal, e integradas por personas representantes de los Poderes Legislativo y Judicial, los Órganos Públicos Autónomos, así como los Ayuntamientos.
+Para el desempeño de las atribuciones del COPLADE, la Dirección Operativa se apoyará en las coordinaciones de las dimensiones que establezca el Plan Estatal en Subcomités Regionales, Sectoriales, Institucionales y Especiales, que serán presididos por las Dependencias y en su caso por las Entidades de la Administración Pública Estatal, e integradas por personas representantes de los Poderes Legislativo y Judicial, los Órganos Públicos Autónomos, así como los Ayuntamientos.
 
-Las Reglas de Operación y Funcionamiento del COPLADEST y COPLADE, regularán la integración, facultades, organización y funcionamiento de las coordinaciones de los ejes que establezca el Plan Estratégico, de las coordinaciones de los ejes que establezca el Plan Estatal, así como de los Subcomités Regionales, Sectoriales, Institucionales y Especiales.
+Las Reglas de Operación y Funcionamiento del COPLADEST y COPLADE, regularán la integración, facultades, organización y funcionamiento de las coordinaciones de las dimensiones que establezca el Plan Estratégico, de las coordinaciones de los ejes que establezca el Plan Estatal, así como de los Subcomités Regionales, Sectoriales, Institucionales y Especiales.
 
 ###### Artículo 26.
 
@@ -373,25 +399,31 @@ Por cada miembro titular del COPLADEST y del COPLADE se nombrará un suplente, q
 
 Los integrantes, o en su caso sus respectivos suplentes, tienen obligación de comparecer a las sesiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 27.
 
-La convocatoria para las reuniones del COPLADEST y del COPLADE deberá ser emitida por la Presidencia, misma que deberá reunir los requisitos mínimos siguientes:
+La convocatoria para las reuniones del COPLADEST y del COPLADE deberá ser emitida por instrucción de la Presidencia, a través de la Dirección Operativa, misma que deberá reunir los requisitos mínimos siguientes:
 
 I. Ser presentada por escrito para recabar el acuse de recibo correspondiente y podrá remitirse simultáneamente por correo electrónico previamente registrado;
 
 II. Su tiempo de emisión deberá ser con cuando menos 72 horas antes del día de la celebración de la reunión de que se trate, y
 
-III. Contener el orden del día con los asuntos a tratar.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+III. Contener el orden del día y documentos con los asuntos a tratar.
 
 El quórum para las reuniones se conformará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los integrantes presentes con derecho a voto, en caso de empate la Presidencia o su suplencia tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 28.
 
-El COPLADEST deberá instalarse formalmente para la expedición del Plan Estratégico cada veinticinco años, con la potestad de reunirse para el control, seguimiento, la evaluación y actualización, de conformidad a lo establecido en la presente ley y el reglamento respectivo.
+El COPLADEST deberá instalarse formalmente para la expedición del Plan Estratégico cada veinticinco años, con la potestad de reunirse una vez al año de forma ordinaria y las veces que se requiera de manera extraordinaria, para el control, seguimiento, evaluación y actualización, de conformidad a lo establecido en la presente ley y el reglamento respectivo.
 
-Asimismo, el COPLADEST deberá de reinstalarse con cada cambio de los periodos constitucionales de la Administración Pública Estatal y de la Administración Pública Municipal, dentro de un plazo de tres meses, contados a partir de la protesta de ley de los titulares respectivos.
+Asimismo, el COPLADEST deberá de reinstalarse con el cambio del periodo constitucional de la Administración Pública Estatal, dentro de un plazo de tres meses, contados a partir de la protesta de ley del titular.
 
-Cada vez que ocurra algún cambio de las personas representantes de los Poderes Legislativo y Judicial, así como de los Órganos Públicos Autónomos, deberán acreditar dicha titularidad en la primera sesión del COPLADEST a la que asistan, para que formen parte de este.
+Cada vez que ocurra algún cambio de las personas representantes de los Poderes Legislativo y Judicial, los Órganos Públicos Autónomos, de la Administración Pública Municipal, como representantes de instituciones de educación superior, cámaras empresariales o colegio de profesionistas deberán acreditar dicha titularidad en la primera sesión del COPLADEST a la que asistan, para que formen parte de este.
 
 ###### Artículo 29.
 
@@ -415,13 +447,17 @@ V. Aprobar los Programas Regionales, Sectoriales, Institucionales y Especiales, 
 
 VI. Supervisar la elaboración de los instrumentos de la planeación para la orientación de la Administración Pública Estatal;
 
-VII. Establecer y proveer criterios para la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Estratégico, el Plan Estatal, el Plan Municipal y Programas de Desarrollo, en congruencia con el Plan Nacional, identificando y registrando la población objetivo y la atendida por dichos planes y programas, desagregada por sexo y grupo de edad cuando así corresponda;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+VII. Establecer y proveer criterios para la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Estratégico, el Plan Estatal, el Plan Municipal y Programas de Desarrollo, en congruencia con el Plan Nacional, y los Objetivos Globales, identificando y registrando la población objetivo y la atendida por dichos planes y programas, desagregada por sexo y grupo de edad cuando así corresponda;
 
 VIII. Definir las políticas y directrices de la planeación para el desarrollo de la entidad;
 
 IX. Coadyuvar en el funcionamiento del Sistema de Información;
 
-X. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+X. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de Secretaría Anticorrupción y Buen Gobierno de Quintana Roo;
 
 XI. Garantizar la transparencia en la asignación de recursos destinados a la ejecución de los instrumentos de la planeación;
 
@@ -471,7 +507,9 @@ II. Elaborar el proyecto, a través de la Dirección Operativa, del Plan Estrat�
 
 III. Someter a la aprobación de la persona titular del Poder Ejecutivo del Estado, los proyectos de los Programas Regionales, Sectoriales, Institucionales y Especiales, que deriven del Plan Estatal;
 
-IV. Validar la compatibilidad del Plan Municipal con respecto al Plan Estatal y al Plan Estratégico, para la aprobación del Ayuntamiento respectivo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+IV. Validar la compatibilidad del Plan Municipal con respecto al Plan Estatal, al Plan Estratégico y Objetivos Globales, para la aprobación del Ayuntamiento respectivo;
 
 V. Validar los programas presupuestarios que deriven de los programas Regionales, Sectoriales, Institucionales y Especiales;
 
@@ -601,9 +639,13 @@ IX. Promover la colaboración con instituciones en la materia, con el propósito
 
 X. Elaborar y aprobar su normatividad interna;
 
-XI. Elaborar y aprobar su programa de trabajo anual;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-XII. Aprobar el informe anual de las actividades que realice en cumplimiento a su programa anual de trabajo, mismo que deberá ser público, y
+XI. Elaborar y aprobar su programa de trabajo anual dentro del primer trimestre del año;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XII. Aprobar el informe anual de las actividades que realice en cumplimiento a su programa anual de trabajo, y remitirlo a la Dirección Operativa para su conocimiento, dentro del primer trimestre del año mismo que deberá ser público, y
 
 XIII. Las demás que señale su normatividad interna.
 
@@ -625,7 +667,7 @@ IV. La persona titular de la Secretaría o Dependencia en materia de planeación
 
 V. Un representante de la Dirección Operativa del COPLADE;
 
-VI. Los representantes de los Órganos Públicos Autónomos en la entidad;
+VI. (DEROGADA, P.O. 19 DE AGOSTO DE 2025)
 
 VII. Una persona representante de los pueblos y comunidades indígenas y afromexicanas, en caso de que el Municipio cuente con dicha población;
 
@@ -639,7 +681,9 @@ XI. El Consejo Ciudadano de Planeación del Municipio de que se trate, y
 
 XII. Otros ciudadanos, organismos, instituciones o representantes del sector social y privado, que consideren los integrantes, cuyo carácter serán de invitados.
 
-Los integrantes del COPLADEMUN contarán con voz y voto, a excepción de los señalados en las fracciones V, VI, VII, VIII, IX, X y XI quienes únicamente contará con voz.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+Las personas integrantes del COPLADEMUN contarán con voz y voto, a excepción de las señaladas en las fracciones V, VI, VII, VIII, IX, X y XI quienes únicamente contarán con voz.
 
 ###### Artículo 40.
 
@@ -659,11 +703,17 @@ VI. Promover y coordinar las actividades en materia de investigación, así como
 
 VII. Establecer los mecanismos y procedimientos de coordinación interinstitucional y de concertación para realizar el proceso de planeación;
 
-VIII. Evaluar anualmente la relación que guarden los programas y presupuestos de las diversas Dependencias y Entidades de la Administración Pública Municipal, así como de los resultados de la ejecución con los objetivos y prioridades del Plan Municipal y los programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y actualizar, en su caso, el Plan Estatal y los Programas respectivos;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-IX. Garantizar que el Plan Municipal y los Programas que se generen en el Municipio, mantengan congruencia en su formulación y contenido con el Plan Nacional, el Plan Estratégico, el Plan Estatal, cuyo alcance sea el ámbito del Municipio respectivo;
+VIII. Evaluar anualmente la relación que guarden los programas y presupuestos de las diversas Dependencias y Entidades de la Administración Pública Municipal, así como de los resultados de la ejecución con los objetivos y prioridades del Plan Municipal y los programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y actualizar, en su caso, el Plan Municipal y los programas que de éste se deriven;
 
-X. Formular propuestas a los Gobiernos Estatal y Federal, a través del Ayuntamiento y del COPLADE, programas e inversión, gasto y financiamiento para el Municipio, como medio para complementar los criterios conforme a los cuales definen sus respectivos presupuestos de egresos;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+IX. Garantizar que el Plan Municipal y los Programas que se generen en el Municipio, mantengan congruencia en su formulación y contenido con los Objetivos Globales, el Plan Nacional, el Plan Estratégico, el Plan Estatal, cuyo alcance sea el ámbito del Municipio respectivo;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+X. Formular propuestas a los Gobiernos Estatal y Federal, a través del Ayuntamiento con el apoyo técnico del COPLADE, de programas e inversión, gasto y financiamiento para el Municipio, como medio para complementar los criterios conforme a los cuales definen sus respectivos presupuestos de egresos;
 
 XI. Recibir y analizar las propuestas de inversión que le formulen las distintas localidades del Municipio, la ciudadanía, organismos, instituciones y representantes del sector social y privado, dándole curso a las que se consideren procedentes;
 
@@ -679,13 +729,17 @@ Los Ayuntamientos, para efectos de esta Ley, tienen las siguientes atribuciones:
 
 I. Conducir el proceso de planeación municipal;
 
-II. Aprobar el Plan Municipal de Desarrollo y los programas que de éste deriven y remitirlos a la instancia correspondiente para su publicación en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+II. Aprobar el Plan Municipal de Desarrollo y los programas que de éste deriven y remitirlos al Poder Legislativo del Estado de Quintana Roo para su publicación en el Periódico Oficial del Estado;
 
 III. Contribuir al fortalecimiento del Sistema de Información en el ámbito de su competencia;
 
 IV. Coadyuvar en la alimentación y operación del Sistema de Evaluación del Desempeño en los Municipios;
 
-V. Asegurar la congruencia del Plan Municipal con el Plan Estatal, el Plan Estratégico y el Plan Nacional, así como con los Programas Regionales, Sectoriales, Institucionales y Especiales que se deriven de éstos últimos, manteniendo una continuidad programática de mediano y largo plazo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+V. Asegurar la congruencia del Plan Municipal con el Plan Estatal, el Plan Estratégico, el Plan Nacional y los Objetivos Globales, así como con los Programas Regionales, Sectoriales, Institucionales y Especiales que se deriven de éstos últimos, manteniendo una continuidad programática de mediano y largo plazo;
 
 VI. Coadyuvar en la realización de acciones que deriven del Plan Municipal de Desarrollo;
 
@@ -695,7 +749,7 @@ VIII. Evaluar anualmente la relación que guarden los programas y presupuestos d
 
 IX. Ratificar las propuestas de inversión en obras y servicios públicos municipales presentadas por el COPLADEMUN, las distintas localidades del municipio, la ciudadanía, organismos, instituciones y representantes del sector social y privado, que resulten procedentes en términos del plan y programas municipales;
 
-X. Proponer al gobierno estatal y al federal, programas de inversión, gasto y financiamiento para ejecutarse dentro del Municipio;
+X. (DEROGADA, P.O. 19 DE AGOSTO DE 2025)
 
 XI. Coordinar las actividades de investigación en materia de planeación, así como promover el establecimiento de programas permanentes de capacitación para las Dependencias y Entidades de la Administración Pública Municipal;
 
@@ -709,7 +763,9 @@ XV. Propiciar la participación del Gobierno Federal y Estatal, así como de la 
 
 XVI. Coadyuvar con los Órganos de Control Estatal y Federal en la vigilancia de la ejecución de los Programas;
 
-XVII. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de la Contraloría Municipal;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XVII. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma a través de la Contraloría Municipal, respetando la garantía de audiencia y el debido proceso conforme a los lineamientos correspondientes;
 
 XVIII. Expedir sus bases reglamentarias en materia de planeación, y
 
@@ -733,15 +789,31 @@ VI. Rendir su informe en términos del artículo 11 de esta Ley, y
 
 VII. Las demás previstas en esta Ley y demás disposiciones legales aplicables en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS INCISOS], P.O. 19 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 43.
 
-El Consejo Ciudadano de Planeación Municipal será un órgano de consulta obligatoria y diálogo público, con carácter consultivo y propositivo en materia de planeación.
+El Consejo Ciudadano de Planeación Municipal será un órgano de consulta obligatoria y diálogo público, con carácter consultivo y propositivo en materia de planeación; el cual estará conformado por cinco personas ciudadanas, bajo la estructura siguiente:
 
-Estará integrado por cinco personas con reconocido mérito y trayectoria en las materias relacionadas con la planeación, cuyo cargo tendrá el carácter honorífico.
+I. Una Presidencia;
 
-El Consejo Ciudadano de Planeación Municipal será designado, privilegiando el principio de paridad de género, mediante convocatoria pública que para tal efecto expida el Ayuntamiento, misma que deberá ser publicada y difundida en dos periódicos de mayor circulación en el Municipio, en el portal oficial y las redes sociales que disponga el Ayuntamiento, en un plazo no mayor a treinta días naturales a la instalación del Ayuntamiento y culminará sus funciones al finalizar la administración pública municipal.
+II. Una Secretaría de Actas, y
 
-La presidencia de este Consejo deberá ser rotativa cada año.
+III. Tres Vocalías.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+Las personas integrantes del Consejo Ciudadano de Planeación Municipal deberán contar con reconocido mérito y trayectoria en las materias relacionadas con la planeación, cuyo cargo tendrá el carácter honorífico.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+El Consejo Ciudadano de Planeación Municipal, será designado, privilegiando el principio de paridad de género, mediante convocatoria pública que para tal efecto expida el Ayuntamiento, misma que deberá ser publicada y difundida en los periódicos de mayor circulación en el Municipio, en el portal oficial y las redes sociales que disponga el Ayuntamiento, en un plazo no mayor a cuarenta y cinco días naturales posteriores a la instalación del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+El Consejo Ciudadano de Planeación Municipal instalado de conformidad con lo previsto en el presente artículo continuará en funciones hasta la reinstalación que efectúe la administración del ayuntamiento entrante de acuerdo con lo establecido en el párrafo anterior.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 19 DE AGOSTO DE 2025)</small>
 
 En caso de ausencia definitiva o mayor a 6 meses de un integrante del Consejo, el Ayuntamiento deberá expedir una convocatoria para cubrir dicha vacante.
 
@@ -773,9 +845,11 @@ VIII. Los Programas: regionales, sectoriales, institucionales, y especiales.
 
 Los instrumentos de la planeación, una vez aprobados y publicados adquieren el carácter de obligatorio para los Poderes Ejecutivo, Legislativo y Judicial, los Órganos Públicos Autónomos y los Municipios, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 46.
 
-La vigencia de los instrumentos de la planeación, no excederá de los periodos previstos en esta ley. Sin perjuicio de lo anterior, deberán contener consideraciones y proyecciones de largo plazo, en congruencia con el Plan Estratégico, los Objetivos de Desarrollo Sostenible a nivel mundial, los acuerdos y tratados internacionales, así como las leyes aplicables.
+La vigencia de los instrumentos de la planeación no excederá de los periodos previstos en esta ley. Sin perjuicio de lo anterior, deberán contener consideraciones y proyecciones de largo plazo, en congruencia con el Plan Estratégico, los Objetivos Globales, los acuerdos y tratados internacionales, así como las leyes aplicables.
 
 ###### Artículo 47.
 
@@ -791,7 +865,29 @@ El Plan Estratégico para el Desarrollo Sostenible es un instrumento orientador 
 
 Tendrá como objetivo el de establecer las bases, alcances, metas y acciones para integrar, operar, dar seguimiento y evaluar los instrumentos de política pública del Estado de Quintana Roo y sus municipios, el cual deberá ser observado por los poderes Ejecutivo, Legislativo y Judicial, los Órganos Públicos Autónomos, Dependencias y Entidades de la Administración Pública Estatal y Municipal, además de organismos, unidades administrativas y organizaciones públicas y privadas que ejerzan recursos públicos.
 
-El Plan Estratégico se integrará al menos con la estructura que establece el artículo 51 en las fracciones, I, II, III, IV, V, VI, VII, IX, X y XIII.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE AGOSTO DE 2025)</small>
+
+El Plan Estratégico se integrará al menos con la siguiente estructura:
+
+I. Presentación, para ofrecer una breve descripción del Plan Estratégico y un mensaje de quienes lo emiten;
+
+II. Visión que describe la perspectiva de crecimiento y de desarrollo futuro, que se quiere alcanzar en un plazo de veinticinco años;
+
+III. Principios y enfoques transversales que constituyen los fundamentos que rigen y guían el proceso de la planeación estratégica;
+
+IV. Metodología para la formulación del Plan Estratégico;
+
+V. Marco de referencia estratégico, que establecerá la relación con los Instrumentos normativos, acuerdos, y lineamientos de política;
+
+VI. Análisis sobre la situación actual de los temas prioritarios que permiten impulsar el desarrollo sostenible Estatal;
+
+VII. Apartado estratégico, que establece las dimensiones, objetivos, estrategias, líneas de acción, indicadores de desempeño y metas;
+
+VIII. Ruta de implementación de plazos, actores responsables, cambios en normas, procesos institucionales y organizacionales;
+
+IX. Seguimiento y evaluación, que establece los mecanismos para monitorear el progreso del Plan y evaluar su impacto, y
+
+X. Los demás aspectos que se establezcan en las disposiciones jurídicas aplicables o que sean necesarios para el logro de objetivos del Plan Estratégico.
 
 #### SECCIÓN SEGUNDA. DE LOS PLANES ESTATAL Y MUNICIPAL DE DESARROLLO
 
@@ -1001,9 +1097,11 @@ Los sistemas se ajustarán a los lineamientos y criterios de eficiencia, eficaci
 
 ## TÍTULO SEXTO. DEL REGISTRO DE LOS INSTRUMENTOS DE LA PLANEACIÓN Y DE LOS CONVENIOS DE COORDINACIÓN Y CONCERTACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 71.
 
-La Secretaría desarrollará y administrará una Plataforma para el registro y conocimiento público de los instrumentos de la planeación y de los convenios de coordinación y concertación que realice el Estado y los Ayuntamientos de Quintana Roo, excepto los planes institucionales de planeación de los Poderes Legislativo y Judicial, así como de los Órganos Públicos Autónomos.
+La Secretaría desarrollará y administrará una Plataforma para el registro y conocimiento público de los instrumentos de la planeación y los demás instrumentos que se establezcan en las disposiciones jurídicas aplicables que realice el Estado y los Ayuntamientos de Quintana Roo.
 
 Para tal efecto, la Secretaría emitirá y publicará en el Periódico Oficial del Estado de Quintana Roo los lineamientos para el funcionamiento de la Plataforma, atendiendo a las necesidades de accesibilidad de los usuarios.
 
@@ -1305,7 +1403,9 @@ Para el desarrollo de la etapa de Instrumentación se deberá hacer uso del mode
 
 Se entenderá por control a las acciones dirigidas a detectar y corregir oportunamente desviaciones e insuficiencias en la instrumentación del Plan Estratégico, el Plan Estatal, el Plan Municipal y sus respectivos programas, a fin de prever un ejercicio eficiente de los recursos.
 
-La etapa de control en la Administración Pública Estatal estará a cargo de la Secretaría de la Contraloría, a través de los órganos internos de control y en el caso de la Administración Pública Municipal, de la instancia que ejerzan las facultades de un órgano interno de control, las cuales actuarán de conformidad a la Ley General de Responsabilidades Administrativas y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+La etapa de control en la Administración Pública Estatal estará a cargo de la Secretaría, y en el caso de la Administración Pública Municipal, de la instancia que ejerzan las facultades de Planeación, quienes, en uso de sus atribuciones, deberán de conducirse con estricto apego a la normatividad aplicable.
 
 Dichas autoridades, en el ámbito de su competencia, llevarán a cabo el análisis de resultados de las acciones realizadas a fin de proponer, en su caso, las medidas pertinentes para el logro de sus objetivos.
 
@@ -1498,3 +1598,17 @@ P.O. 10 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 131 POR EL QUE SE REFORMAN, SE DEROGAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Consejos Ciudadanos de Planeación Municipal en funciones, culminarán su encargo una vez que emitan la convocatoria e instalen el Consejo Ciudadano de Planeación Municipal de la administración pública municipal entrante, en un plazo no mayor a cuarenta y cinco días naturales a la instalación del Ayuntamiento.
+
+TERCERO. El Consejo Ciudadano de Planeación del Estado de Quintana Roo y Los Consejos Ciudadanos de Planeación Municipal, deben elaborar y aprobar su normatividad interna dentro de los primeros noventa días naturales posteriores a la publicación del presente decreto.
+
+CUARTO. Dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, la persona titular del Poder Ejecutivo del Estado de Quintana Roo, así como los Ayuntamientos, en el ámbito de su competencia deberán llevar a cabo la reinstalación del Comité de Planeación para el Desarrollo del Estado de Quintana Roo, los Comités de Planeación para el Desarrollo Municipal del Estado de Quintana Roo, y del Comité de Planeación Estratégica para el Desarrollo Sostenible del Estado de Quintana Roo, de conformidad con lo establecido en el presente Decreto.
+
+QUINTO. Dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, la persona titular del Poder Ejecutivo del Estado de Quintana Roo, deberá realizar las adecuaciones necesarias al Reglamento de la Ley de Planeación para el Desarrollo de Quintana Roo, de conformidad con lo previsto en el mismo.
