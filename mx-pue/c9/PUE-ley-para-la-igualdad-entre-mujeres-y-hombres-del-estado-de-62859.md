@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2025-05-29"
+last_updated: "2025-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "PUE"
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -119,7 +121,7 @@ Para los efectos de esta Ley se entenderá por:
 
 I.- Acciones afirmativas: Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2025)</small>
+(ADICIONADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 I BIS.- Brecha salarial de género: Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor;
 
@@ -127,7 +129,7 @@ II.- Comisión: La Comisión de Derechos Humanos del Estado de Puebla;
 
 III.- Discriminación contra la Mujer: Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 IV.- Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos o libertades de las personas, grupos y comunidades en situaciones de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, profesión o actividad laboral, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas.
 
@@ -135,7 +137,7 @@ También es discriminación la homofobia, misoginia, cualquier manifestación de
 
 V.- Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2025)</small>
+(ADICIONADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 V Bis.- Igualdad salarial: Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, entre otras;
 
@@ -289,13 +291,13 @@ VI.- Celebrar acuerdos de coordinación, cooperación y concertación en materia
 
 VII.- Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 29 DE MAYO DE 2025) (REPUBLICADO, P.O. 19 DE AGOSTO DE 2025)
 
 ## TÍTULO III. DE LA POLÍTICA ESTATAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
 ### CAPÍTULO PRIMERO. DE LA POLÍTICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2025) (REPUBLICADO, P.O. 19 DE AGOSTO DE 2025)
 
 ###### Artículo 10.
 
@@ -303,7 +305,7 @@ La política estatal en materia de igualdad entre mujeres y hombres deberá esta
 
 La Política Estatal que establezca el Gobierno del Estado deberá considerar los siguientes lineamientos:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 I.- Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida: familiar, de cuidados, económico, político, de salud, social, laboral y cultural;
 
@@ -353,7 +355,7 @@ XIII.- Promover que en las prácticas de comunicación social de las dependencia
 
 XIV.- Fomentar e impulsar la participación, el desarrollo, la capacitación y el reconocimiento de las mujeres y los hombres en materia deportiva, garantizando su acceso a los espacios deportivos; y
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 XV.- Establecer medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género entre mujeres y hombres, para cumplir con la norma constitucional de igualdad salarial por trabajo igual, así como todas aquellas condiciones laborales que acentúen desigualdades.
 
@@ -459,7 +461,7 @@ VII.- Las demás que se requieran para el cumplimiento de los objetivos del Sist
 
 El Sistema Estatal deberá:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 I.- Promover la igualdad entre hombres y mujeres y contribuir a la erradicación de todo tipo de discriminación, sin distinción de ningún tipo, a través de la aprobación de bases y lineamientos en materia de acciones afirmativas;
 
@@ -623,35 +625,35 @@ II.- Desarrollo de acciones para fomentar la integración de políticas pública
 
 III.- Impulsar liderazgos igualitarios;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 IV.- Salvaguardar, velar y promover la participación de la mujer en el sector productivo;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 V.- Garantizar el acceso a la capacitación, adiestramiento y asesoramiento técnico de comercialización y distribución;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 VI.- Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, para eliminar la brecha de género, en especial la salarial en los sectores público, privado y social; y
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 VII.- Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2025) (REPUBLICADO, P.O. 19 DE AGOSTO DE 2025)
 
 ###### Artículo 32.
 
 Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes en coordinación con la Secretaría de las Mujeres del Gobierno del Estado de Puebla, garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyas personas integrantes ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 I.- Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su género y brecha salarial de género;
 
 II.- Fomentar la incorporación a la educación y formación de las personas que en razón de su sexo están relegadas;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 III.- Garantizar el acceso al trabajo de las personas que debido a su género están relegadas de puestos directivos, para contribuir, disminuir y erradicar la brecha salarial de género especialmente;
 
@@ -663,7 +665,7 @@ VI.- Financiar las acciones de información y concientización destinadas a fome
 
 VII.- Vincular todas las acciones financiadas para el adelanto de las mujeres;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 2025) (REPUBLICADA, P.O. 19 DE AGOSTO DE 2025)
 
 VIII.- Reducir y erradicar la brecha salarial y la segregación de las personas por razón de su sexo o género en el mercado de trabajo;
 
@@ -991,7 +993,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 29 DE MAYO DE 2025.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA Y DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+REPUBLICADO, P.O. 19 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA, Y DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
