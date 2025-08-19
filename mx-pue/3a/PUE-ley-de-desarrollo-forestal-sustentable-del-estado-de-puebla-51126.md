@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-forestal-sustentable-del-estado-de-puebla-511
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-26"
-last_updated: "2021-03-10"
+last_updated: "2025-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el lunes 26 de junio de 2006.
 
@@ -181,27 +181,75 @@ III.- Consejo Estatal: El Consejo Estatal Forestal;
 
 IV.- Consejo Regional: Los Consejos Regionales Forestales del Estado;
 
-V.- Gobierno del Estado.- El Poder Ejecutivo del Estado Libre y Soberano de Puebla;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE AGOSTO DE 2025)</small>
 
-VI.- Fondo: El Fondo Poblano de Desarrollo Forestal;
+V.- Fondo: El Fondo Poblano de Desarrollo Forestal;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+VI.- Gobierno del Estado: El Poder Ejecutivo del Estado Libre y Soberano de Puebla;
 
 VII.- Ley General: La Ley General de Desarrollo Forestal Sustentable;
 
 VIII.- Ley.- La Ley de Desarrollo Forestal Sustentable del Estado de Puebla;
 
-IX.- Órdenes de Gobierno.- Los Gobiernos Federal, Estatal y de los Municipios;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2025)</small>
 
-X.- Registro: El Registro Estatal Forestal;
+IX.- Manejo del Fuego: Es el proceso integral y participativo que comprende el conjunto de acciones y procedimientos que tiene por objeto evaluar y manejar el fuego y sus potenciales riesgos, su rol ecológico, los beneficios económicos, socioculturales y ambientales en los ecosistemas forestales y agropecuarios en los que ocurre;
 
-XI.- Reglamento: El Reglamento de la presente Ley;
+> <small>(REFORMADA [N. DE E. REFORMADA], P.O. 19 DE AGOSTO DE 2025)</small>
 
-XII.- Unidad de Manejo Forestal.- Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
+X.- Órdenes de Gobierno: El Gobierno Federal, Estatal y de los Municipios;
 
-XIII.- Uso doméstico.- El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos de sus necesidades básicas en el medio rural; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+XI.- Registro: El Registro Estatal Forestal;
 
-XIV.- Secretaría: La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE AGOSTO DE 2025)</small>
+
+XII.- Reglamento: El Reglamento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XIII.- Secretaría: A la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2025)</small>
+
+XIV.- Terreno colindante: Aquellos terrenos adyacentes a áreas forestales, que tienen un uso distinto al forestal o al agropecuario, y debido a las actividades que en ellos se desarrollan pueden representar posibles puntos de ignición o inicio de incendios forestales;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XV.- Terreno de uso agropecuario: Aquellos que, sin distinción de su pendiente o estructura, se destinan a la siembra de cultivos agrícolas, a la cría y engorda de ganado, mediante la utilización de la vegetación, sea ésta natural, inducida o cultivada;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XVI.- Terreno forestal: El que está cubierto por vegetación forestal o vegetación secundaria nativa, y produce bienes y servicios ambientales;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XVII.- Terreno preferente forestal: Aquel que habiendo estado cubierto por vegetación forestal y que en la actualidad no está cubierto por dicha vegetación, pero por sus condiciones de clima, suelo y topografía, cuya pendiente es mayor al 5 por ciento en una extensión superior a 38 metros de longitud y puede incorporarse al uso forestal, siempre y cuando no se encuentre bajo un uso aparente.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XVIII.- Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales, así como aquellos en los que se hayan realizado actividades de reforestación, pudiendo volver a su condición de terreno agropecuario al desaparecer esta actividad, así como aquéllas en las que encontrándose en periodos de descanso de la actividad agropecuaria haya surgido vegetación secundaria nativa;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE AGOSTO DE 2025)</small>
+
+XIX.- Unidad de Manejo Forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE AGOSTO DE 2025)</small>
+
+XX.- Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos de sus necesidades básicas en el medio rural; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXI.- Uso del fuego: Aplicación planificada del fuego, en una unidad de quema en terrenos agropecuarios, forestales, preferentemente forestales, temporalmente forestales y colindantes para el cumplimiento de objetivos de:
+
+a) Conservación, que incluye el control de malezas, plagas y enfermedades;
+
+b) Aprovechamiento, a través de la limpieza de terrenos o quema de desechos; y
+
+c) Restauración, en ecosistemas degradados, siempre considerando su rol ecológico, los efectos económicos, sociales y ambientales en los ecosistemas en los que se aplica.
 
 ###### ARTÍCULO 8.
 
@@ -345,7 +393,9 @@ IV.- Intervenir en los asuntos forestales, cuando se trate de conflictos agrario
 
 V.- Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
-#### Sección 3. De la competencia de la Secretaría del Medio Ambiente y Recursos Naturales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2025)</small>
+
+#### Sección 3. De la competencia de la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial
 
 ###### ARTÍCULO 16.
 
@@ -369,17 +419,23 @@ VIII.- Emitir la normatividad y demás circulares administrativas relacionadas c
 
 IX.- Impulsar el establecimiento de sistemas y esquemas de Ventanilla Única para la atención de los usuarios del sector, con la participación de la Federación y de los Municipios;
 
-X.- Coordinar el Inventario Estatal Forestal y de Suelos e integrar el Sistema Estatal de Información Forestal;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+X.- Coordinar, integrar, monitorear y mantener actualizados el Inventario Estatal Forestal y de Suelos, así como el Sistema Estatal de Información Forestal;
 
 XI.- Realizar las acciones de promoción de los bienes y servicios ambientales de los ecosistemas forestales;
 
 XII.- Impulsar la participación de los propietarios y poseedores de los recursos forestales en la protección, conservación, restauración, vigilancia, ordenación, aprovechamiento, cultivo, transformación y comercialización de los mismos;
 
-XIII.- Promover y coordinar programas, proyectos y acciones de educación, capacitación, investigación y cultura forestal, acordes con el programa nacional y estatal respectivo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XIII.- Promover y coordinar programas, proyectos y acciones de educación, capacitación, investigación y cultura forestal, así como del manejo y uso del fuego acordes con el programa nacional y estatal respectivo;
 
 XIV.- Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
 
-XV.- Vigilar la correcta aplicación de las Normas Oficiales Mexicanas que regulan el uso (sic) relacionadas con las actividades agropecuarias o de otra índole, que pudieran afectar los ecosistemas forestales;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XV.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas emitidas por la Autoridad competente que regulan las actividades agropecuarias, los métodos de uso del fuego en terrenos forestales, temporalmente forestales, preferentemente forestales y en los terrenos de uso agropecuario y colindantes o de otra índole que pudieran afectar los ecosistemas forestales;
 
 XVI.- Llevar a cabo acciones de prevención, capacitación y combate de incendios forestales, en congruencia con el programa nacional respectivo, así como promover y participar en la restauración de los ecosistemas forestales afectados por incendios;
 
@@ -411,7 +467,9 @@ XXVII.- Estimular o inducir a los agentes económicos para reorientar sus proces
 
 XXVIII.- Fomentar actividades de producción primaria, transformación y comercialización forestal en un marco de competencia, eficiencia y sustentabilidad;
 
-XXIX.- Regular los sistemas, métodos, servicios y mecanismos relativos a la prevención, combate y control de incendios forestales, y al uso del fuego en terrenos forestales o preferentemente forestales;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+XXIX.- Regular los sistemas, métodos, servicios y mecanismos relativos a la prevención, combate y control de incendios forestales, y al uso del fuego en terrenos forestales o preferentemente forestales, y en terrenos de uso agropecuarios;
 
 XXX.- Vigilar en el ámbito de su competencia, el estricto cumplimiento de la presente Ley y su Reglamento, de las Normas Oficiales Mexicanas, así como de la normatividad que, en la materia, emita el Titular del Gobierno del Estado;
 
@@ -739,7 +797,9 @@ II.- Tome en consideración la vocación de los ecosistemas forestales de la Ent
 
 III.- Analice la importancia que tienen las demarcaciones naturales y políticas de la Entidad; y
 
-IV.- Se escuche la opinión de los poseedores y propietarios forestales y agropecuarios.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+IV.- Se escuche la opinión de los poseedores y propietarios de terrenos forestales y de uso agropecuarios.
 
 Toda demarcación realizada conforme a los criterios de zonificación que establece la presente Ley y su reglamento, se publicarán en el Periódico Oficial del Estado.
 
@@ -1213,15 +1273,43 @@ III.- Desarrollo de acciones de difusión y cultura contra incendios forestales 
 
 IV.- Diseño de políticas productivas agropecuarias para orientar sobre el uso adecuado del fuego;
 
-V.- Desarrollo de sistemas de teledetección de riesgos de incendios y de su ubicación; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
-VI.- Capacitación a técnicos, propietarios y poseedores de predios agropecuarios y forestales.
+V.- Desarrollo de sistemas de teledetección de riesgos de incendios y de su ubicación;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+VI.- Capacitación a técnicos, propietarios y poseedores de terrenos de uso agropecuarios y forestales;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+VII.- Establecer un calendario de quemas relacionadas con las actividades agropecuarias o de otra índole prescritas para reducir los riesgos de incendios; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+
+VIII.- Establecer las zonas vulnerables que requieran un cuidado prioritario.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE AGOSTO DE 2025)</small>
+
+#### Sección 1 Bis. De la Prevención, Combate y Control de Incendios en Terrenos de Uso Agropecuarios
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+ARTÍCULO 88 BIS.- El manejo del fuego en terrenos de uso agropecuarios se debe realizar conforme a la Norma Oficial Mexicana vigente en la materia.
+
+Las personas poseedoras o propietarias de terrenos de uso agropecuarios, que pretendan realizar una quema prescrita o controlada, deberán dar aviso a la Secretaría y a la Secretaría de Agricultura y Desarrollo Rural.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+ARTÍCULO 88 TER.- Se encuentra prohibido cualquier quema en temporadas altas de estiaje.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2025)</small>
+
+ARTÍCULO 88 QUATER.- Las personas poseedoras o propietarias que no cumplan con los requisitos establecidos en esta Ley, su Reglamento y Normas Oficiales Mexicanas aplicables en la materia vigentes, se harán acreedores a las sanciones administrativas correspondientes independientemente de la responsabilidad civil y penal que pueda resultar.
 
 #### Sección 2. De los Cuerpos Especiales Permanentes y de los Grupos Voluntarios de Prevención y Combate de Incendios Forestales
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
-
-#### Sección 3. De las Obligaciones de los Poseedores, Propietarios y Titulares de Aprovechamientos Forestales
 
 ###### ARTÍCULO 89.
 
@@ -1245,7 +1333,7 @@ III.- La inscripción ante el Registro deberá renovarse anualmente; y
 
 IV.- Reportaran al Sistema Estatal las acciones de prevención, combate, control y extinción, así como la superficie afectada y los daños causados.
 
-#### Sección I (sic). De la Denuncia Popular
+#### Sección 3. De las Obligaciones de los Poseedores, Propietarios y Titulares de Aprovechamientos Forestales
 
 ###### ARTÍCULO 92.
 
@@ -1482,6 +1570,8 @@ II.- Los Consejos Regionales Forestales.
 ###### ARTÍCULO 117.
 
 La Secretaría promoverá la creación de las instancias mencionadas en el artículo anterior, de conformidad con las disposiciones legales aplicables.
+
+#### Sección I (sic). De la Denuncia Popular
 
 ###### ARTÍCULO 118.
 
@@ -1902,3 +1992,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo Estatal deberá realizar las modificaciones al Reglamento de la presente Ley, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES V, VI, IX, X, XI, XII, XIII Y XIV DEL ARTÍCULO 7; LA DENOMINACIÓN DE LA SECCIÓN 3 DEL CAPÍTULO III DEL TÍTULO SEGUNDO DENOMINADO "DE LA ORGANIZACIÓN Y ADMINISTRACIÓN DEL SECTOR PÚBLICO ESTATAL FORESTAL", LAS FRACCIONES X, XIII, XV Y XXIX DEL ARTÍCULO 16, LA FRACCIÓN IV DEL ARTÍCULO 41 Y LAS FRACCIONES V Y VI DEL ARTÍCULO 88; Y SE ADICIONAN LAS FRACCIONES XV, XVI, XVII, XVIII, XIX, XX Y XXI AL ARTÍCULO 7, LA SECCIÓN 1 BIS AL CAPÍTULO II DEL TÍTULO QUINTO DENOMINADO "DE LA PREVENCIÓN, PROTECCIÓN Y CONSERVACIÓN FORESTAL" Y LOS ARTÍCULOS 88 BIS, 88 TER Y 88 QUATER; TODOS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
