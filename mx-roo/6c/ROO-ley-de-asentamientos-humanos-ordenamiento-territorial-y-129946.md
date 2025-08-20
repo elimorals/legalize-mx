@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-ordenamiento-territorial-y-129946"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-16"
-last_updated: "2023-12-21"
+last_updated: "2025-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quinta Roo, el jueves 16 de agosto de 2018.
 
@@ -183,15 +183,17 @@ XI. Conjunto Urbano: Es la modalidad que se adopta en la ejecución del desarrol
 
 XII. Consejo Estatal: El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano;
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+XIII. Dictamen de Viabilidad en Materia de Acciones Urbanísticas: Es el documento oficial emitido por la Secretaría en el cual, de manera integral, se evalúan y determinan, los elementos y características de homogeneidad y compatibilidad de una acción urbanística, así como el debido cumplimiento de las leyes y ordenamientos estatales que regulan el desarrollo urbano, garantizando la debida concordancia con los instrumentos señalados en el artículo 31 de la presente Ley.
 
-XIII. CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL: ES EL DOCUMENTO OFICIAL EXPEDIDO POR LA SECRETARÍA, EN EL CUAL SE HACE CONSTAR QUE UNA ACCIÓN URBANÍSTICA ES CONGRUENTE Y COMPATIBLE CON LA PLANEACIÓN URBANA Y METROPOLITANA, Y QUE CONTRIBUYE AL ORDENAMIENTO URBANO DEL ESTADO. TAMBIÉN HACE CONSTAR SU ADECUADA INSERCIÓN EN LAS REDES DEL ESPACIO PÚBLICO, EL EQUIPAMIENTO Y LA INFRAESTRUCTURA, ASÍ COMO LA FACTIBILIDAD DE DOTAR DE SERVICIOS PÚBLICOS Y, EN SU CASO, ESTABLECE LOS REQUISITOS Y CONDICIONES PARA EVITAR, DISMINUIR O COMPENSAR LOS IMPACTOS NEGATIVOS EN EL ENTORNO URBANO;
+Lo anterior, a efecto de brindar certeza y legalidad para que la acción urbanística de que se trate contribuya al ordenamiento y aprovechamiento sostenible y sustentable del territorio, previendo en todo momento una adecuada inserción en las redes del espacio público, el equipamiento, la infraestructura y movilidad, así como la factibilidad para dotar de servicios públicos. Pudiendo para tal efecto, determinar los requisitos, condiciones y garantías para evitar, disminuir o compensar los impactos negativos en el entorno urbano.
 
 XIV. Constancia de Uso del Suelo: El documento oficial expedido por la autoridad municipal, a solicitud de una persona física o moral, mediante el cual se autoriza un uso o destino del suelo específico, o aprovechamiento de reservas, conforme a los programas municipales a que se refiere el artículo 31 de esta ley así como a las acciones urbanísticas autorizadas e inscritas (ejemplo licencia de fraccionamiento o relotificación), identificando en su caso, los usos permitidos y sus normas técnicas complementarias y las demás condicionantes urbanísticas o ambientales aplicables;
 
-XV. Conservación: La acción tendiente a preservar el buen estado de la infraestructura, espacio público, equipamiento, vivienda, áreas verdes y servicios urbanos de los centros de población, incluyendo sus valores ambientales, históricos y culturales;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+XV. Conservación: La acción tendiente a preservar el buen estado de la infraestructura, espacio público, equipamiento, vivienda, áreas verdes y servicios urbanos de los centros de población, incluyendo sus valores ambientales, históricos y culturales, incluyendo aquellos que hayan sido declarados patrimonio natural y cultural;
 
 XVI. Conurbación: La continuidad física y demográfica que formen dos o más centros de población;
 
@@ -205,11 +207,9 @@ XX. Desarrollo Metropolitano: Proceso de planeación, regulación, gestión, fin
 
 XXI. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas o predios de un centro de población;
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-XXII. DICTAMEN DE IMPACTO URBANÍSTICO: ES UNA MODALIDAD DE LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL, NECESARIO PARA AQUELLAS ACCIONES URBANÍSTICAS QUE POR SU DIMENSIÓN, CARACTERÍSTICAS O EFECTO EN UN CENTRO DE POBLACIÓN O EN LAS REDES DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS, REQUIEREN DE UN ESTUDIO ESPECÍFICO DE IMPACTO SOBRE LA CONGRUENCIA DEL POLÍGONO Y SUS COLINDANTES, CON LA INFRAESTRUCTURA URBANA;
+XXII. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos: Es una modalidad de Dictamen de Viabilidad en Materia de Acciones Urbanísticas para aquellas acciones urbanísticas que por su dimensión, características o efecto en un centro de población o en las redes de infraestructura y servicios públicos, como la densificación, requieren de la presentación, a cargo y costa de la persona promovente, de un estudio específico e individual del impacto urbano a generar.
 
 XXIII. Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos para desarrollar actividades económicas, sociales, culturales, deportivas, educativas, de traslado y de abasto;
 
@@ -221,11 +221,11 @@ XXVI. Estado: El Estado de Quintana Roo;
 
 XXVII. Estrategia Estatal de Ordenamiento Territorial: Instrumento público de planeación del territorio, que a partir del reconocimiento de los ecosistemas y la aptitud del suelo, delimita las regiones y establece la jerarquización y caracterización de las zonas metropolitanas, conurbaciones y centros de población, así como sus interrelaciones funcionales;
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+XXVIII. Estudio de Viabilidad Urbanística y Mitigación de Impactos: Documento que a cargo y costa de la persona promovente, deberá presentarse ante la Secretaría, para la obtención del Dictamen de viabilidad en la materia, mediante el cual se expondrá de manera clara y precisa, la magnitud de impactos o alteraciones que cause o pueda causar una acción urbanística, la cual, por su ubicación, funcionamiento, complejidad o magnitud pudiere afectar o comprometer la infraestructura, los servicios públicos del área; el espacio, la imagen y paisaje urbanos o la estructura socioeconómica, y que en consecuencia ello significara un probable riesgo para la vida, la salud o los bienes de la comunidad, considerando su desplazamiento o expulsión paulatina; o que, por otra parte, determine una afectación para el patrimonio cultural del centro de población.
 
-XXVIII. ESTUDIO DE IMPACTO URBANO: DOCUMENTO NECESARIO PARA LA OBTENCIÓN DEL DICTAMEN EN LA MATERIA, EN QUE SE EXPONEN Y EVALÚAN LA MAGNITUD DE IMPACTOS O ALTERACIONES QUE CAUSE O PUEDA CAUSAR UNA ACCIÓN URBANÍSTICA, PÚBLICA O PRIVADA, CONTEMPLADAS EN ESTA LEY, QUE POR SU UBICACIÓN, FUNCIONAMIENTO, COMPLEJIDAD O MAGNITUD AFECTE A LA INFRAESTRUCTURA, A LOS SERVICIOS PÚBLICOS DEL ÁREA; EL ESPACIO, LA IMAGEN Y PAISAJE URBANOS O LA ESTRUCTURA SOCIOECONÓMICA; SIGNIFIQUE UN RIESGO PARA LA VIDA, LA SALUD O LOS BIENES DE LA COMUNIDAD, IMPLIQUE SU DESPLAZAMIENTO O EXPULSIÓN PAULATINA; O, DETERMINE UNA AFECTACIÓN PARA EL PATRIMONIO CULTURAL DEL CENTRO DE POBLACIÓN, INCLUYENDO LAS CONDICIONES Y MEDIDAS PARA EVITAR, REDUCIR O COMPENSAR LOS EFECTOS NEGATIVOS SOBRE EL DESARROLLO URBANO;
+El estudio deberá, en todo momento, contener la propuesta de condiciones y medidas de mitigación necesarias para evitar, reducir o compensar los impactos sobre el espacio público y el desarrollo urbano, las cuales, en su caso, serán consideradas como procedentes o no procedentes en el Dictamen correspondiente.
 
 XXIX. Fraccionamiento: Modalidad en la ejecución de una acción urbanística que tiene por objeto el uso o aprovechamiento de un área o predio, y que consiste en una división de predios en lotes o fracciones, que implique la apertura de una o más vías públicas con servicios de agua potable, drenaje sanitario, electrificación y vialidades, así como la previsión de equipamientos y espacio público;
 
@@ -379,11 +379,9 @@ IV. Promover, en coordinación, participación y consenso con los representantes
 
 V. En coordinación con los actores del territorio, verificar la congruencia y vinculación que deberán observar entre sí los distintos instrumentos de planeación del territorio, emitiendo los dictámenes o resoluciones, fundados y motivados, que correspondan;
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-VI. OTORGAR O NEGAR LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL Y, EN SU CASO, RESOLVER SOBRE LOS DICTÁMENES DE IMPACTO URBANÍSTICO DE LOS ESTUDIOS QUE SE SOMETAN A SU CONSIDERACIÓN, CONFORME ESTA LEY Y DEMÁS DISPOSICIONES APLICABLES;
+VI. Evaluar, elaborar y emitir el Dictamen de Viabilidad en Materia de Acciones Urbanísticas o, en su caso, el Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos, conforme a la presente Ley y demás disposiciones concurrentes aplicables;
 
 VII. Prever las necesidades de suelo y reservas territoriales para el ordenamiento territorial y desarrollo urbano del Estado y regular, en coordinación con los gobiernos, federal y municipales, así como con los sectores social y privado, los mecanismos para satisfacer dichas necesidades;
 
@@ -419,7 +417,9 @@ XXII. Prevenir y evitar la ocupación por asentamientos humanos en zonas de alto
 
 XXIII. Informar y difundir permanentemente sobre el contenido, la aplicación y la evaluación de los instrumentos de planeación a que se refiere el artículo 31 de esta ley;
 
-XXIV. Emitir, en su caso, el Dictamen de Verificación de Congruencia, sobre los reglamentos en materia de construcción e imagen urbana, así como de los instrumentos de planeación municipales a que se refiere el artículo 31 de esta ley, como requisito previo para solicitar su inscripción en el Registro Público;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+XXIV. Emitir el Dictamen de Verificación de Congruencia, sobre los instrumentos de planeación municipales a que se refiere el artículo 31 de esta Ley, como requisito previo para solicitar su inscripción en el Registro Público de la Propiedad y del Comercio;
 
 XXV. En coordinación con las autoridades, las instancias federales, estatales y municipales correspondientes homologar en todos los municipios los perfiles profesionales para los peritos responsables de obra y corresponsables;
 
@@ -653,7 +653,9 @@ III. Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano.
 
 El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, es un órgano de consulta y participación de los sectores y grupos de la comunidad, su conformación será incluyente y representativa de los diversos sectores de la sociedad civil y tendrá por objeto el análisis, diagnóstico, aportación, difusión y evaluación de los programas, proyectos, obras, acciones e inversiones que se lleven a cabo conforme a las disposiciones de esta ley. Su sede será la ciudad de Chetumal, Quintana Roo, pudiendo sesionar fuera de ella, y funcionará permanentemente con jurisdicción en toda la entidad.
 
-El Consejo Estatal sesionará de manera ordinaria una vez cada seis meses y de manera extraordinaria cuando resulte necesario a convocatoria hecha por su Presidente.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+
+El Consejo Estatal sesionará de manera ordinaria dos veces al año y de manera extraordinaria cuando resulte necesario a convocatoria hecha por su Presidencia.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -1459,13 +1461,9 @@ La Constitución, ampliación y delimitación de la zona de urbanización ejidal
 
 Los actos, contratos o convenios relativos a la transmisión de la propiedad deberán contener las cláusulas relativas a la utilización del suelo que determinen los programas municipales a que se refiere el artículo 31 de esta ley. Aquellos que violen esta disposición o aquellos que contravengan a las constancias de uso del suelo municipales O DE COMPATIBILIDAD TERRITORIAL APLICABLES, no serán inscritos en el Registro Público.
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
-
-Los fedatarios públicos en el Estado deberán solicitar a toda persona que celebre contratos o convenios relativos a la transmisión o aportación de la propiedad de inmuebles, la Constancia de Uso del Suelo O CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL, donde conste la zonificación aplicable al predio de que se trate, e incluir en el apéndice de la escritura dicha constancia o documento, mismo que será requisito para la inscripción respectiva ante las oficinas registrales del Estado.
+Las personas fedatarias públicas en el Estado deberán solicitar a toda persona que celebre contratos o convenios relativos a la transmisión o aportación de la propiedad de inmuebles, la Constancia o Licencia de Uso del Suelo municipal donde conste la zonificación aplicable al predio de que se trate, e incluir en el apéndice de la escritura dicha constancia o documento, mismo que será requisito para la inscripción respectiva ante las oficinas registrales del Estado.
 
 ### Capítulo Segundo. De la Zonificación Urbana en los Centros de Población
 
@@ -1505,13 +1503,9 @@ II. En las zonas de mejoramiento y crecimiento urbano:
 
 a) Se considerarán compatibles y se permitirá la mezcla de usos de suelo residenciales, comerciales y centros de trabajo, siempre y cuando éstos no amenacen la seguridad, salud y la integridad de las personas, o se rebasen la capacidad de los servicios de agua, drenaje y electricidad o la movilidad;
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ, POR EXTENSIÓN, DE LA PORCIÓN NORMATIVA DEL INCISO b, DE LA FRACCIÓN II, DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
-
-b) Conforme a lo que determinen los programas de los centros de población y previa autorización y pago del potencial de edificación o desarrollo a favor del Municipio, en los predios aplicables, se podrá permitir la densificación en las edificaciones, siempre y cuando no se rebase y se asegure la capacidad de los servicios de agua, drenaje y electricidad o el equipamiento urbano y la movilidad. Los recursos que se generen se destinarán a sufragar tales conceptos. EN TAL CASO, SERÁ NECESARIO CONTAR ADEMÁS CON LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL;
+b) Conforme a lo que determinen los instrumentos de planeación urbana vigentes y previa autorización y pago del potencial de edificación o desarrollo a favor del Municipio, en los predios aplicables, se podrá permitir la densificación en las edificaciones, siempre y cuando no se rebase y se asegure la capacidad de los servicios de agua, drenaje y electricidad o el equipamiento urbano y la movilidad. Los recursos que se generen se destinarán a sufragar tales conceptos.
 
 c) Los promotores o desarrolladores, en su caso, deberán asumir el costo incremental de recibir estos servicios y equipamientos urbanos, así como mantenerlos operativos hasta su municipalización. El gobierno municipal, en coordinación con otras autoridades o entidades responsables, establecerá mecanismos para aplicar dicho costo y ajustar la capacidad de infraestructuras y equipamientos que permita a promotores o desarrolladores mejorar la densidad de sus edificaciones y la mezcla de usos del suelo;
 
@@ -1535,23 +1529,23 @@ Los programas municipales a que se refiere el artículo 31 de esta ley, podrán 
 
 Los Municipios, con base a estudios realizados por profesionales en la materia, establecerán los mecanismos para fijar el costo por metro cuadrado de coeficiente adicional. Igualmente definirá los mecanismos y procedimientos para asegurar una administración transparente, eficiente y pública de los recursos que se generen.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2025)</small>
 
-### Capítulo Cuarto. De la Constancia de Congruencia Urbanística Estatal
+### Capítulo Cuarto. Del Dictamen de Viabilidad en Materia de Acciones Urbanísticas o, en Modalidad de Viabilidad Urbanística y Mitigación de Impactos
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 80.
 
-Toda persona física o moral, pública o privada, que pretenda realizar acciones urbanísticas, obras o introducir servicios en materia de asentamientos humanos en el Estado a que se refiere el artículo siguiente, deberá obtener previa ejecución de dichas acciones u obras, la Constancia de Congruencia Urbanística Estatal que le expida la Secretaría, la cual verificará que las mismas sean congruentes con:
+Toda persona física o moral, pública o privada, que pretenda realizar acciones urbanísticas, obras o introducir servicios en materia de asentamientos humanos en el Estado a que se refiere el artículo siguiente, deberá contar con el Dictamen de Viabilidad en Materia de Acciones Urbanísticas o, en su caso, el Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos que emita la Secretaría.
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(ADICIONADO [N. DE E. ESE PÁRRAFO], P.O. 20 DE AGOSTO DE 2025)</small>
 
-I. El ordenamiento, la planeación urbana y metropolitana;
+En el proceso de evaluación a cargo de la Secretaría, se deberá considerar el debido cumplimiento a las leyes y ordenamientos estatales que regulan el desarrollo urbano, garantizando la debida concordancia con los instrumentos señalados en el artículo 31 de la presente Ley, en el ámbito de su competencia, lo que permitirá establecer la viabilidad relativa a:
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+I. El ordenamiento territorial y la planeación urbana;
 
 II. La dotación adecuada de espacios públicos y soluciones de movilidad;
 
@@ -1561,23 +1555,15 @@ IV. La factibilidad de dotar de equipamiento y servicios públicos que los nuevo
 
 V. Para los casos a que se refieren los artículos 78, 79 y 84, establecer los requisitos y condiciones para evitar, minimizar o compensar los impactos territoriales negativos en su entorno.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-Para tramitar y obtener la Constancia de Congruencia Urbanística Estatal, los solicitantes deberán acreditar que cuentan con las autorizaciones municipales correspondientes.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
-
-En caso de omisión a las disposiciones establecidas en este artículo, la Secretaría o la autoridad municipal, en su caso, estará facultada para exigir, en cualquier momento y a costa del promovente, la Constancia de Congruencia Urbanística Estatal que corresponda, según sea el caso y que de manera dolosa y premeditada no fuera debida y oportunamente solicitada ante la Secretaría; lo anterior sin perjuicio de las medidas de seguridad y sanciones que considere necesarias imponer por tales omisiones, cuando se haya instaurado por tales motivos algún procedimiento administrativo en su contra.
-
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 81.
 
-El Ejecutivo del Estado, por conducto de la Secretaría, podrá autorizar y en su caso expedir, negar, cancelar, condicionar y exigir la Constancia de Congruencia Urbanística Estatal en los siguientes casos:
+El Poder Ejecutivo del Estado, por conducto de la Secretaría, evaluará, elaborará y emitirá el Dictamen de Viabilidad en Materia de Acciones Urbanísticas, en los siguientes casos:
 
 I. Construcción o ampliación de vialidades regionales, metropolitanas u otros componentes de la infraestructura para la movilidad que comuniquen a más de un Municipio;
 
@@ -1599,7 +1585,9 @@ IX. Industrias de cualquier tipo;
 
 X. La relotificación, parcelación o subdivisión de terrenos con superficie igual o mayor a los cinco mil quinientos metros cuadrados;
 
-XI. La fusión de terrenos con superficie resultante igual o mayor a los cinco mil metros cuadrados;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+XI. Por cada fracción que forme parte de la fusión de terrenos con superficie resultante igual o mayor a los cinco mil metros cuadrados;
 
 XII. Fraccionamientos o conjuntos urbanos en cualquiera de sus modalidades;
 
@@ -1609,71 +1597,83 @@ XIV. La modificación, demolición o ampliación de inmuebles de patrimonio cult
 
 XV. Bancos de extracción de materiales pétreos.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-La Constancia de Congruencia Urbanística Estatal contendrá y proporcionará los datos, elementos, medidas de mitigación, condicionantes, criterios o lineamientos de congruencia territorial y desarrollo urbano aplicables conforme a esta ley.
+El Dictamen de Viabilidad en Materia de Acciones Urbanísticas o, en su caso, el Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos, evaluará el debido cumplimiento a las leyes y ordenamientos estatales que regulan el desarrollo urbano, garantizando la debida concordancia con los instrumentos señalados en el artículo 31 de la presente Ley, y de igual forma, contendrá y proporcionará los datos, elementos, medidas de mitigación, condicionantes, criterios o lineamientos de congruencia territorial y desarrollo urbano aplicables conforme a la presente Ley.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-Las dependencias y entidades públicas no podrán llevar a cabo la incorporación de suelo rural a urbano sin contar con la Constancia de Congruencia Urbanística Estatal.
+Las dependencias y entidades, de los tres órdenes de gobierno, no podrán llevar a cabo la incorporación de suelo rural a urbano sin contar con las evaluaciones previstas en la presente Ley.
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 82.
 
-Las solicitudes de Constancia de Congruencia Urbanística Estatal deberán acompañarse de las autorizaciones municipales donde se apruebe la acción urbanística de que se trate, y en su caso, complementar la información relativa a:
+Las solicitudes de Dictamen de Viabilidad en Materia de Acciones Urbanísticas o, en su caso, el Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos, deberán contener la información relativa a:
 
 I. La ubicación, medidas y colindancias del área o predio;
 
-II. Los antecedentes jurídicos de propiedad o posesión del área o predio;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-III. La identificación catastral;
+II. Los antecedentes jurídicos que amparen el tracto sucesivo de la propiedad del predio o inmueble motivo de la acción urbanística;
 
-IV. El número oficial, en su caso;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2025)</small>
 
-V. El uso o destino actual, y el que se pretenda utilizar en el área o predio;
+III. Documentación en la cual se acredite fehacientemente la superficie incluyendo alguna demasía en su caso, cuando se trate de certificación de medidas y colindancias y de apeos y deslindes, lo que permita identificar que el predio o inmueble no es, en todo o en parte, un terreno nacional, en régimen ejidal o de propiedad estatal o municipal o afecte propiedad privada de diversa persona;
 
-VI. El proyecto que se pretenda realizar, con memoria descriptiva y planos generales, incluyendo áreas, niveles y superficies;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2025)</small>
 
-VII. La asignación de usos o destinos permitidos, compatibles, prohibidos o condicionados, de acuerdo con lo previsto en los programas municipales a que se refiere el artículo 31 de esta ley;
+IV. La identificación catastral;
 
-VIII. Las restricciones de urbanización y construcción que correspondan de conformidad con el tipo del fraccionamiento, conjunto urbano, barrio, colonia o zona, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2025)</small>
 
-IX. Las factibilidades de conexión y abasto de agua potable, servicio de alcantarillado sanitario y dotación de energía eléctrica.
+V. El número oficial, en su caso;
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+VI. El uso o destino actual, y el que se pretenda utilizar en el área o predio;
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+VII. El proyecto que se pretenda realizar, con memoria descriptiva y planos generales, incluyendo áreas, niveles y superficies; en caso de ser un conjunto urbano de tipo condominio deberá integrar la tabla de indivisos, valor nominal y zonificación de las unidades de propiedad exclusiva;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+VIII. La asignación de usos o destinos permitidos, compatibles, prohibidos o condicionados, de acuerdo con lo previsto en los programas municipales a que se refiere el artículo 31 de esta Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2025)</small>
+
+IX. Las restricciones de urbanización y construcción que correspondan de conformidad con el tipo del fraccionamiento, conjunto urbano, barrio, colonia o zona, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2025)</small>
+
+X. Las factibilidades de conexión y abasto de agua potable, servicio de alcantarillado sanitario y dotación de energía eléctrica.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 83.
 
-Las solicitudes de Constancia de Congruencia Urbanística Estatal, una vez integrado (sic) los expedientes de que se trate, deberán ser emitidos por la Secretaría en un plazo máximo de veinte días hábiles, previo el pago de derechos correspondientes.
+Los Dictámenes de Viabilidad en Materia de Acciones Urbanísticas o, en su caso, en Modalidad de Viabilidad Urbanística y Mitigación de Impactos, una vez integrados los expedientes de que se trate, deberán ser emitidos por la Secretaría en un plazo máximo de veinte días hábiles, previa acreditación del pago de derechos correspondiente.
 
-En caso de que una acción urbanística presente una dimensión o complejidad que amerite un análisis más exhaustivo, la Secretaría podrá ampliar ese plazo por única vez, por otro plazo hasta de veinte días hábiles más para emitir, negar o condicionar la Constancia de Congruencia Urbanística Estatal correspondiente.
+En caso de que una acción urbanística sujeta a evaluación presente una dimensión o complejidad que amerite un análisis más exhaustivo, la Secretaría podrá ampliar ese plazo por única vez, por otro plazo hasta de veinte días hábiles más para emitir el Dictamen de Viabilidad en Materia de Acciones Urbanísticas que corresponda.
 
-En caso de que transcurran los plazos indicados en este artículo, sin que la Secretaría emita su resolución, aplicará la negativa ficta y se tendrá como negada la Constancia de Congruencia Urbanística Estatal de que se trate. En caso de que aplique la negativa ficta, los servidores públicos omisos o negligentes se sujetarán a las sanciones contempladas en la Ley General de Responsabilidades Administrativas.
+Y de considerarse necesario para la elaboración y emisión del Dictamen de Viabilidad en Materia de Acciones Urbanísticas, podrá solicitar una junta de conciliación con la persona solicitante, con la finalidad de unificar criterios con la Secretaría respecto de su solicitud.
 
-Las notificaciones de la Secretaría a los interesados, relacionados con el trámite y resolución de las solicitudes a que se refiere este artículo, podrán realizarse mediante estrados, correo electrónico y a través de su página electrónica.
+En caso de que transcurran los plazos indicados en este artículo, sin que la Secretaría emita su resolución, aplicará la negativa ficta y se tendrá como negada la solicitud del trámite de que se trate. En caso de que aplique la negativa ficta, las personas servidoras públicas omisas o negligentes se sujetarán a los procedimientos y sanciones contempladas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios.
 
-Las (sic) Constancia de Congruencia Urbanística Estatal y demás actos administrativos que de estas deriven y que hubieran sido otorgados por error, dolo o mala fe, serán declarados nulos de pleno derecho. En esos casos, se promoverá el juicio de lesividad ante el Tribunal de Justicia Administrativa en los términos de la Ley de Justicia Administrativa del Estado de Quintana Roo y el Código de Justicia Administrativa del Estado de Quintana Roo, independientemente de las responsabilidades penales que resulten de los actos u omisiones respectivas.
+Las notificaciones de la Secretaría a las personas promoventes, relacionadas con el trámite y resolución de las solicitudes a que se refiere este artículo, se realizarán mediante el sistema de trámites y servicios alojado en su página electrónica oficial, correo electrónico oficial y en caso necesario, a través de notificaciones personales por escrito.
 
-Las personas físicas o morales, titulares de una Constancia de Congruencia Urbanística Estatal, deberán presentar un aviso de terminación de obras a la Secretaría, dentro de un plazo no mayor de diez días hábiles de la conclusión de tales obras, para que dicha dependencia pueda verificar el adecuado uso de las autorizaciones concedidas y lleve el registro estadístico correspondiente.
+Los Dictámenes de Viabilidad en Materia de Acciones Urbanísticas o, en su caso, los Dictámenes en Modalidad de Viabilidad Urbanística y Mitigación de Impactos, que hubieran sido otorgados con error, dolo o mala fe, serán declarados nulos de pleno derecho, independientemente de las responsabilidades civiles, administrativas o penales que resulten de los actos u omisiones respectivas.
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+En dichos casos, deberá promover juicio de lesividad ante el Tribunal de Justicia Administrativa y Anticorrupción, conforme al Código de Procedimientos y Justicia Administrativa del Estado de Quintana Roo.
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+Las personas físicas o morales, titulares de Dictámenes de Viabilidad en Materia de Acciones Urbanísticas o, en su caso, los Dictámenes en Modalidad de Viabilidad Urbanística y Mitigación de Impactos, informarán a la Secretaría, la conclusión de las obras, para que esta dependencia pueda verificar el adecuado cumplimiento de las obligaciones o condiciones impuestas en dichos instrumentos por ser de orden público e interés social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 84.
 
-Se requerirá de una Constancia de Congruencia Urbanística Estatal en su modalidad de Dictamen de Impacto Urbanístico en los siguientes casos:
+Se deberá contar con el Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos en los siguientes casos:
 
 I. Las acciones a que se refieren las fracciones I, II, III, IV y XV del artículo 81, cualquiera que sea su tipo y dimensión;
 
@@ -1689,23 +1689,19 @@ VI. Equipamientos educativos, de salud, abasto, comercio o recreación que brind
 
 VII. Las acciones de densificación urbana descritas en la fracción II inciso b) del artículo 77, y las descritas en el artículo 78 cualquiera que sea su tipo y dimensión.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-Los interesados que pretendan llevar a cabo alguna de las obras a las que se refiere este artículo, deberán presentar ante la Secretaría un Estudio de Impacto Urbano, mismo que se resolverá en un plazo máximo de treinta días hábiles, contados a partir del día siguiente de su recepción, sin perjuicio de otras autorizaciones que procedan. Este plazo podrá prorrogarse por única ocasión, hasta por un plazo igual, a juicio de la Secretaría, cuando por la dimensión o complejidad de la acción de que se trate así lo amerite.
+Las personas interesadas que pretendan llevar a cabo alguna de las acciones urbanísticas a las que se refiere este artículo, deberán presentar, de manera adicional, ante la Secretaría el Estudio de Viabilidad Urbanística y Mitigación de Impactos, que al efecto corresponda, en razón de la dimensión o complejidad del proyecto de que se trate.
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 85.
 
-La Constancia de Congruencia Urbanística Estatal, en su modalidad de Dictamen de Impacto Urbanístico, establecerá las condiciones o requisitos que tendrán que cumplirse para autorizar el proyecto u obra de que se trate, en particular aquellos tendientes a garantizar que los impactos negativos se impidan, mitiguen o compensen, así como a que se evalúen los costos que la obra pueda generar sobre las redes de infraestructura, equipamiento urbano o servicios públicos, mismos que serán sufragados por el promovente.
+El Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos, se otorgará previo análisis y valoración del Estudio de Viabilidad Urbanística y Mitigación de Impactos, que presente la persona promovente, el cual deberá establecer las condiciones o requisitos que tendrán que cumplirse para autorizar el proyecto u obra de que se trate, en particular aquellos tendentes a garantizar que los impactos negativos se impidan, mitiguen o compensen, así como a que se evalúen los costos que la obra pueda generar sobre las redes de infraestructura, equipamiento urbano o servicios públicos, mismos que serán sufragados por la persona promovente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2025)</small>
 
-Los dictámenes de impacto urbanísticos se otorgarán atendiendo a:
+Los Dictámenes en Modalidad de Viabilidad Urbanística y Mitigación de Impactos se otorgarán atendiendo a:
 
 I. Evitar costos lesivos en la prestación de servicios públicos, ponderando la magnitud, intensidad y ubicación de la obra de que se trate;
 
@@ -1717,27 +1713,31 @@ IV. Atender los criterios de preservación de los recursos naturales y la calida
 
 V. Impedir riesgos y contingencias urbanas.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-Las condiciones o requisitos de las Constancias de Congruencia Urbanística Estatal, en esta modalidad, podrán ser económicos, ambientales o funcionales y referirse a la movilidad, al espacio público, equipamiento, infraestructura y servicios. El promovente deberá garantizar las obligaciones que resulten a su cargo, como resultado del Dictamen de Impacto Urbanístico.
+Las garantías y/o acciones que obliguen al cumplimiento de las condicionantes que resulten a su cargo, como resultado del Dictamen referido.
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 86.
 
-Los Estudios de Impacto Urbanístico deberán incluir:
+Los Estudios de Viabilidad Urbanística y Mitigación de Impactos que presente la persona promovente, además de lo señalado en el artículo 85 de esta Ley, deberán incluir:
 
 I. Los datos del promotor y propietario, así como la ubicación, descripción detallada y calendario de la obra o actividad proyectada;
 
 II. La descripción puntual de los usos del suelo y su compatibilidad con otras actividades de la zona en que se ubique;
 
-III. La descripción detallada de los impactos territoriales de la obra proyectada, bajo el supuesto de utilización plena de inmueble en un momento de demanda máxima, y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-IV. En el caso de que cualquiera de los impactos a que se refiere la fracción anterior, muestre resultados que incidan negativamente las alternativas o medidas para evitar, reducir o compensar dichos impactos.
+III. La descripción detallada de los impactos territoriales, incluyendo el relacionado con la movilidad y las infraestructuras primarias de la obra proyectada, bajo el supuesto de utilización plena de inmueble en un momento de demanda máxima;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+IV. En el caso de que cualquiera de los impactos a que se refiere la fracción anterior, muestre resultados que incidan negativamente las alternativas o medidas para evitar, reducir o compensar dichos impactos, y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+V. Describir y señalar de manera específica, la procedencia y factibilidad respecto a la propuesta que se haga de las medidas de mitigación, de adaptación y de compensación derivadas del impacto a generar cuando se materialice la acción urbanística de que se trate.
 
 (NOTA: EL 18 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1749,29 +1749,25 @@ En los casos a que se refiere la fracción IV del artículo 84 de esta ley, el d
 
 En los establecimientos a que alude el párrafo anterior, en los pisos de sus estacionamientos no cubiertos, el uso de pavimentos, concretos o recubrimientos deberá acompañarse de estrategias contra las islas de calor; el diseño de los mismos deberá considerar infraestructura verde y arbolado que atempere tal efecto.
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 88.
 
-LA SECRETARÍA DETERMINARÁ EN LA EMISIÓN DEL DICTAMEN DE IMPACTO URBANÍSTICO:
+La Secretaría, durante el proceso de análisis y valoración del Estudio de Viabilidad Urbanística y Mitigación de Impactos, previo al otorgamiento del Dictamen correspondiente, en términos del artículo 83 de la presente Ley, podrá requerir a la persona promovente, información adicional que le permita determinar:
 
-I. La procedencia del proyecto u obra de que se trate, para lo cual podrá imponer las medidas de mitigación necesarias para evitar o minimizar los efectos negativos que pudiera generar, pudiéndose, en su caso, determinar el pago de compensaciones, y
+I. La viabilidad y procedencia del proyecto u obra de que se trate, priorizando las medidas de mitigación necesarias para evitar o minimizar los efectos negativos que pudiera generar, pudiéndose, en su caso, determinar el pago de compensaciones;
 
-II. La improcedencia de una obra o proyecto, considerando que:
+II. La certeza en cuanto al uso pretendido, compatible o asignado por el programa aplicable;
 
-a) El uso pretendido no es compatible o esté prohibido, con el uso asignado por el programa aplicable;
+III. El riesgo a la población en su salud o sus bienes cuando no pueda ser evitado por las medidas propuestas o por la tecnología constructiva y de sus instalaciones;
 
-b) Los efectos no puedan ser minimizados a través de las medidas de mitigación o compensación propuestos y, por consecuencia, se genere afectación a la población o a la estructura urbana;
+IV. Cuando se presuma falsedad en la información presentada por las personas promoventes, y
 
-c) El riesgo a la población en su salud o sus bienes no pueda ser evitado por las medidas propuestas o por la tecnología constructiva y de sus instalaciones;
+V. Cuando el proyecto u obra de que se trate, pudiere alterar de forma significativa la estructura territorial o la prestación de servicios públicos.
 
-d) Exista falsedad en la información presentada por los solicitantes o desarrolladores, o
+Para lo dispuesto en el presente artículo, la Secretaría deberá tomar en cuenta los programas a que se refiere el artículo 31 de la presente Ley, así como las demás normas y ordenamientos federales y estatales en la materia que sean aplicables.
 
-e) El proyecto altera de forma significativa la estructura territorial o la prestación de servicios públicos. Para la emisión del Dictamen de Impacto Territorial, la Secretaría deberá tomar en cuenta los programas a que se refiere el artículo 31 de esta ley, así como las demás normas y ordenamientos en la materia.
+Además, podrá auxiliarse de las autoridades municipales, estatales y federales, para el debido análisis de la solicitud correspondiente.
 
 ### Capítulo Quinto. De la Fundación de Centros de Población
 
@@ -1781,13 +1777,13 @@ Para la fundación de nuevos Centros de Población se requerirá de un decreto e
 
 El decreto a que se refiere el párrafo anterior, contendrá las determinaciones sobre provisión de tierras; ordenará la formulación del programa de desarrollo urbano respectivo y asignará la categoría político administrativa del centro de población de que se trate.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 90.
 
-La fundación de Centros de Población deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto ambiental, económico y social para la región, para los asentamientos humanos existentes en la zona y para los nuevos pobladores. Deberá respetar primordialmente las áreas naturales protegidas o con valor ambiental, forestal, agropecuario, cultural o paisajístico.
+La fundación de nuevos Centros de Población deberá realizarse en tierras susceptibles para el aprovechamiento urbano, siempre y cuando las áreas y superficies que lo conforman no se encuentren, de manera previa, alteradas o impactadas por la presencia de asentamientos humanos.
 
-En las áreas decretadas para la fundación de Centros de Población, hasta tanto no se apruebe el programa de desarrollo urbano correspondiente, no se podrán otorgar autorizaciones de uso del suelo o construcción para acciones urbanísticas; y tendrán un carácter de reserva territorial.
-
-La fundación de Centros de Población ya sea en tierras sujetas al régimen agrario o no, al interior de áreas naturales protegidas, estará sujeto a lo dispuesto en la Estrategia Estatal de Ordenamiento Territorial, así como en las leyes ambientales federales y estatales, los decretos correspondientes y sus respectivos Programas de Manejo.
+Para el proceso de fundación, las autoridades competentes, en su caso, deberán evaluar el impacto ambiental, económico y social para la región, para los asentamientos humanos futuros y nuevos pobladores en la zona. Respetando las áreas naturales protegidas o con valor ambiental, forestal, agropecuario, cultural o paisajístico.
 
 ### Capítulo Sexto. De las Acciones de Crecimiento, Mejoramiento y Conservación de los Centros de Población
 
@@ -1809,7 +1805,9 @@ IV. La adquisición, asignación o destino de inmuebles por parte del sector pú
 
 V. La construcción de vivienda adecuada, infraestructura y equipamiento de los centros de población;
 
-VI. La prevención, vigilancia y control de los procesos de ocupación irregular de las tierras y, por excepción, la regularización territorial en los términos de esta ley;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+VI. La prevención, vigilancia y análisis utilizando una metodología orientada, principalmente, al análisis, y resolución de problemas identificando y analizando las Fortalezas y Debilidades de las actividades del ente que ejecuta las misma (sic), así como las Oportunidades y Amenazas reveladas por la información obtenida del contexto externo y control del fenómeno de ocupación irregular de las tierras con el objetivo de disminuir la proliferación de los asentamientos humanos irregulares y resolver la problemática que su presencia genera en la sociedad y, por excepción, la regularización territorial en los términos de esta ley.
 
 VII. La compatibilidad de los servicios públicos y la infraestructura de telecomunicaciones y de radiodifusión, en cualquier uso de suelo, para zonas urbanizables y no urbanizables, y
 
@@ -1863,13 +1861,9 @@ No podrán realizarse conjuntos urbanos o fraccionamientos habitacionales dentro
 
 En todo caso, las obras de cabecera o redes de infraestructura, incluyendo el equipamiento urbano, imagen urbana, corredores biológicos, y la movilidad no motorizada del proyecto y su área de influencia correrán a cargo del propietario o promovente. Para el caso de fraccionamientos o conjuntos urbanos, además deberán asumir el costo de las obras viales y sistemas de movilidad necesarias para garantizar la conectividad entre la acción urbanística de que se trate y el centro de población más cercano, en dimensión y calidad tales, que permita el tránsito de transporte público que se genere.
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
-
-LOS CONJUNTOS URBANOS, CONDOMINIOS Y/O FRACCIONAMIENTOS DEBERÁN CONTAR CON UN DICTAMEN DE IMPACTO URBANÍSTICO EMITIDO POR LA SECRETARÍA, EN EL QUE SE ESTABLECERÁ QUE LAS OBRAS DE INFRAESTRUCTURA, URBANIZACIÓN, CORREDORES BIOLÓGICOS, EQUIPAMIENTO URBANO, ESPACIO PÚBLICO Y MOVILIDAD RESULTANTE, ASÍ COMO LAS EXTERNALIDADES NEGATIVAS QUE GENERE Y SUS MITIGACIONES Y CONDICIONANTES, SERÁN A CUENTA DEL INTERESADO.
+Los conjuntos urbanos, condominios y/o fraccionamientos deberán presentar un Estudio de Viabilidad Urbanística y Mitigación de Impactos para la obtención del Dictamen que corresponda, en el cual se establecerá que las obras de infraestructura, urbanización, corredores biológicos, equipamiento urbano, espacio público y movilidad resultante, así como los impactos negativos que genere y sus mitigaciones, serán a cuenta de la persona interesada.
 
 ###### Artículo 96.
 
@@ -2185,7 +2179,9 @@ El Estado y los Municipios llevarán a cabo acciones coordinadas en materia de r
 
 I. Establecer una política integral, mediante la adquisición y habilitación de suelo y reservas territoriales, tendientes a incrementar la oferta de ese recurso para el desarrollo urbano y la vivienda, que propicie a la vez ciudades compactas y ordenadas;
 
-II. Reducir y abatir los procesos de ocupación irregular, en especial en zonas de riesgo, mediante la oferta de tierra que atienda preferentemente, las necesidades de los grupos de bajos ingresos;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+II. Reducir y abatir los procesos de ocupación irregular, en especial en zonas de riesgo, mediante la oferta de tierra que atienda preferentemente, las necesidades de los grupos de bajos ingresos, proveyéndoles, de información oportuna para prevenir sean víctimas de quien se aproveche de su estado de necesidad y les induzca a realizar las conductas prohibidas por la ley;
 
 III. Asegurar la disponibilidad de suelo para los diferentes usos y destinos que determinen los programas de desarrollo urbano;
 
@@ -2225,23 +2221,23 @@ II. La asociación o cualquier otra forma de participación que determinen los n
 
 ### Capitulo Segundo. De las Regulaciones para la Incorporación y Aprovechamiento del Suelo al Desarrollo Urbano
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 123.
 
-La urbanización, parcelación, apertura de calles, avenidas primarias, fraccionamientos, conjunto urbano, subdivisión, lotificación, construcción o incorporación al desarrollo urbano de predios rurales deberá contar con las autorizaciones correspondientes, emitidas por parte de las autoridades estatales y municipales competentes, en los términos de esta ley.
+La urbanización, parcelación, apertura de calles, avenidas primarias, fraccionamientos, conjuntos urbanos, subdivisión, lotificación, construcción o incorporación al desarrollo urbano de predios rurales deberá contar con las autorizaciones y permisos federales, estatales y municipales que le sean aplicables.
 
-El Registro Público no podrá inscribir título de propiedad alguno, fraccionamiento, conjunto urbano, subdivisión, lotificación, parcelación, construcción o incorporación al desarrollo urbano de predios ejidales o comunales, si no cuenta con las autorizaciones expresas a que alude el párrafo anterior. Los notarios públicos no podrán dar fe ni intervenir en este tipo operaciones, a menos de que cuenten con las mencionadas autorizaciones, para lo cual estarán obligados a efectuar la verificación correspondiente.
+El Registro Público de la Propiedad y del Comercio y sus delegaciones en el Estado de Quintana Roo, no podrán inscribir título de propiedad alguno, fraccionamiento, conjunto urbano, subdivisión, lotificación, parcelación, construcción o incorporación al desarrollo urbano de predios ejidales o comunales, si no cuenta con las autorizaciones expresas a que alude el párrafo anterior. Las personas notarios no podrán dar fe ni intervenir en este tipo de operaciones, a menos de que cuenten con las mencionadas autorizaciones, para lo cual estarán obligadas a efectuar la verificación correspondiente.
+
+Para poder solicitar ante el Registro Público de la Propiedad y del Comercio y sus delegaciones en el Estado de Quintana Roo, la inscripción de actos, contratos o cualquier otro instrumento jurídico que tenga como objeto formalizar operaciones o traslaciones de dominio que provengan de una subdivisión, lotificación o parcelación, mayor a doce fracciones resultantes, deberá contar con el Dictamen de Viabilidad en Materia de Acciones Urbanísticas en Modalidad de Conjunto Urbano, de Fraccionamiento o de Viabilidad Urbanística y Mitigación de Impactos, según corresponda, en términos de lo dispuesto en el artículo 46 de la Ley de Acciones Urbanísticas del Estado de Quintana Roo.
 
 ###### Artículo 124.
 
 La incorporación de áreas o predios al desarrollo urbano, cualquiera que sea su régimen de propiedad, deberá cumplir con los siguientes requisitos:
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
-
-I. Estar contemplada y permitida en un Programa de Desarrollo Urbano Y, PARA EL CASO DE PROYECTOS DE ALTO IMPACTO, OBTENER PREVIAMENTE CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL EXPEDIDA POR LA SECRETARÍA EN LOS TÉRMINOS DE ESTA LEY;
+I. Estar contemplada y permitida en cualquiera de los instrumentos señalados en el artículo 31 de la presente Ley, y, para el caso de proyectos de alto impacto, obtener el Dictamen de Viabilidad en Materia de Acciones Urbanísticas que corresponda, expedido por la Secretaría en los términos de esta Ley;
 
 II. Comprender terrenos que no estén ubicados en zonas de alto riesgo, áreas naturales protegidas o dedicados a actividades productivas o con valores ambientales y culturales;
 
@@ -2259,15 +2255,19 @@ En los casos de suelo y reservas territoriales que tengan por objeto el desarrol
 
 ### Capítulo Tercero. De la Regularización Territorial
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 126.
 
-Las políticas, programas, instrumentos y apoyos públicos en materia de regularización territorial, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como a combatir y desincentivar el fraccionamiento, conjunto urbano, subdivisiones, parcelaciones, lotificaciones u ocupaciones ilegales, el despojo de bienes inmuebles y el crecimiento irregular, fragmentado y extensivo de los centros de población.
+Las políticas, programas, instrumentos y apoyos públicos en materia de regularización territorial se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como a prevenir, combatir y desincentivar el fraccionamiento, conjunto urbano, subdivisiones, parcelaciones, lotificaciones u ocupaciones ilegales, el despojo de bienes inmuebles y el crecimiento irregular, fragmentado y extensivo de los centros de población.
 
 ###### Artículo 127.
 
 Quedan prohibidos en el Estado, los asentamientos humanos irregulares; la regularización por excepción de los existentes quedará sujeta a las disposiciones que establece este Capítulo.
 
-Las autoridades estatales y municipales adoptarán las medidas necesarias para prevenir y evitar que tengan lugar, así como para corregir los que ilegalmente ocurran y sancionar a los responsables de ello.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+
+Las autoridades estatales y municipales adoptarán las medidas necesarias para prevenir y evitar que tengan lugar, así como para corregir los que ilegalmente, ocurran y sancionar a los responsables de ello; y de acuerdo con sus facultades, publicarán en medios digitales oficiales de la Secretaría y de los Municipios, las acciones urbanísticas no autorizadas. Los datos contenidos en las publicaciones se ajustarán a lo establecido en la legislación en materia de protección de datos personales.
 
 La existencia de ocupaciones o asentamientos humanos irregulares podrán ser denunciados por cualquier persona a la Secretaría, a efecto de que se realicen las acciones administrativas correspondientes y se promuevan las denuncias penales o las acciones civiles ante las autoridades competentes.
 
@@ -2331,11 +2331,19 @@ Los poseedores de predios con las condiciones para usucapirlos, que no tenga tí
 
 ### Capítulo Cuarto. Del Derecho de Preferencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 132.
 
-En los términos de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley Agraria y esta ley, la Federación, el Gobierno del Estado y los Municipios tienen el derecho de preferencia en igualdad de condiciones, para adquirir los predios comprendidos en las zonas de reserva o urbanizables señaladas en los programas municipales a que se refiere el artículo 31 de esta ley, para destinarlos preferentemente a la constitución de espacio público cuando éstos vayan a ser objeto de enajenación a título oneroso.
+En los términos de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley Agraria y esta Ley, la Federación, el Gobierno del Estado y los Municipios tienen el derecho de preferencia en igualdad de condiciones, para adquirir los predios comprendidos en las zonas de reserva o urbanizables señaladas en los programas municipales a que se refiere el artículo 31 de esta Ley, para destinarlos preferentemente a reservas para la edificación de vivienda social y lotes con servicios para familias de bajos ingresos, o para la constitución de espacio público cuando éstos vayan a ser objeto de enajenación a título oneroso.
 
-Para tal efecto, los propietarios de los predios, los notarios públicos, los jueces y las autoridades administrativas respectivas deberán notificarlo a la Secretaría y al municipio correspondiente, dando a conocer el monto de la operación, a fin de que en un plazo no mayor de treinta días naturales, ejerzan el derecho de preferencia si lo consideran conveniente, garantizando el pago respectivo.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+
+Para tal efecto, las personas propietarias de los predios, las personas notarios públicos, las personas juzgadoras y las autoridades administrativas respectivas deberán notificarlo a la Secretaría y al Municipio correspondiente, dando a conocer el monto de la operación y el plano de ubicación con coordenadas, a fin de que, en un plazo no mayor de treinta días naturales, ejerzan el derecho de preferencia si lo consideran conveniente, garantizando el pago respectivo.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2025)</small>
+
+El ejercicio o no del derecho de preferencia deberá ser manifestado por la Secretaría a través de escrito a la persona solicitante dentro del periodo de 30 días naturales que menciona este párrafo. Este documento deberá ser solicitado por el Registro Público de la Propiedad y del Comercio y sus delegaciones en el Estado de Quintana Roo, previo a la inscripción correspondiente.
 
 Cuando la Federación o el Gobierno del Estado o el municipio pretendan ejercer dicho derecho de preferencia, tendrá preferencia este último.
 
@@ -2563,13 +2571,9 @@ Una vez expropiados los predios, el Gobierno del Estado los entregará para el r
 
 El reagrupamiento parcelario se sujetará a las siguientes normas:
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
-
-I. Cumplir con las determinaciones del programa municipal Y CONTAR CON CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL.
+I. Cumplir con las determinaciones del programa municipal y contar con el Dictamen de Viabilidad en Materia de Acciones Urbanísticas que corresponda, expedido por la Secretaría en los términos de la presente Ley;
 
 II. Previo al reagrupamiento parcelario se formulará un proyecto ejecutivo, mismo que una vez aprobado por el Ayuntamiento, publicado e inscrito, obligará a particulares y autoridades, y regirá la urbanización y aprovechamiento de los predios que afecte;
 
@@ -2807,13 +2811,9 @@ Para realizar una acción urbanística, en complemento a las autorizaciones muni
 
 I. En su caso, la autorización de impacto ambiental que expida la autoridad federal o estatal competente, conforme a la legislación ambiental y demás disposiciones aplicables;
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
-
-II. LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL QUE EXPIDA LA SECRETARÍA, EN LOS SUPUESTOS Y TÉRMINOS QUE ESTABLECE ESTA LEY, PARA LA OBTENCIÓN DE LA TERMINACIÓN DE OBRA;
+II. El Dictamen de Viabilidad en Materia de Acciones Urbanísticas que corresponda, expedido por la Secretaría en los términos de esta Ley, para la obtención de la terminación de obra;
 
 III. El Estudio de Riesgo autorizado por la autoridad competente, en los casos a que se refieren los artículos 102 y 103 de esta ley, y
 
@@ -3083,13 +3083,9 @@ En ningún caso se autorizarán acciones urbanísticas que contravengan las prov
 
 La vigencia de las autorizaciones urbanísticas a que se refiere este ordenamiento se ajustará a lo siguiente:
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
-
-I. Las Constancias de Zonificación Y DE CONGRUENCIA URBANÍSTICA ESTATAL tendrán una vigencia indefinida, a menos que cambien los programas municipales a que se refiere el artículo 31 de esta ley, en cuyo caso quedarán sin efecto y deberán ajustarse a las nuevas disposiciones;
+I. Las Constancias de Zonificación y los Dictámenes de Viabilidad en Materia de Acciones Urbanísticas en cualquiera de sus modalidades, tendrán una vigencia permanente, a menos que cambien los programas municipales a que se refiere el artículo 31 de esta Ley, en cuyo caso quedarán sin efecto y deberán ajustarse a las nuevas disposiciones;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -3115,15 +3111,11 @@ Las autoridades que expidan instrumentos de planeación a que se refiere el art�
 
 No podrá inscribirse en el Registro Público ningún acto, convenio, contrato o afectación que no se ajuste a lo dispuesto en la presente ley, así como a los programas y autorizaciones expedidas por las autoridades competentes, aplicables en la materia.
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 198.
 
-Los notarios, registradores y demás fedatarios públicos sólo podrán autorizar escrituras de actos, convenios y contratos relacionados con el uso, aprovechamiento, trasmisión o gravamen de bienes inmuebles, previa comprobación DE LA EXISTENCIA DE LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL, ASÍ COMO de las autorizaciones municipales correspondientes, de conformidad con lo previsto en esta ley; mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
+Las personas notarios públicos, registradores y demás fedatarios públicos sólo podrán autorizar escrituras de actos, convenios y contratos relacionados con el uso, aprovechamiento, trasmisión o gravamen de bienes inmuebles, previa comprobación de la existencia de las autorizaciones municipales necesarias, así como del Dictamen de Viabilidad en Materia de Acciones Urbanísticas que al efecto corresponda, de conformidad con lo previsto en la presente Ley; mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
 
 Asimismo, tendrán la obligación de insertar en las escrituras de transmisión de propiedad en que intervengan, cláusula especial en la que se hagan constar, las obligaciones de respetar los programas municipales a que se refiere el artículo 31 de esta ley, en especial el uso o destino del predio objeto de tales actos, y el respeto a la definición de área urbanizable.
 
@@ -3492,3 +3484,27 @@ P.O. 21 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 124 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente decreto.
+
+P.O. 20 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 136 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO; LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO; Y LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La persona Titular del Poder Ejecutivo del Estado expedirá en un plazo no mayor a ciento ochenta días hábiles, el reglamento de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, mismo que será aplicable en los temas de competencia estatal, y aplicable en el ámbito municipal, hasta en tanto los ayuntamientos no expidan sus respectivos ordenamientos municipales en la materia.
+
+TERCERO. Los programas de desarrollo urbano, así como las autorizaciones de acciones urbanísticas, constancias y/o licencias de uso de suelo otorgadas con anterioridad a la entrada en vigor del presente Decreto seguirán vigentes en los términos que fueron aprobadas o concedidas.
+
+Las solicitudes que fueron presentadas previo a la entrada en vigor del presente Decreto culminarán su trámite con el marco jurídico con las que fueron ingresadas.
+
+CUARTO. Las obligaciones previstas en el artículo 46, párrafo primero de la Ley de Acciones Urbanísticas del Estado de Quintana Roo, en su porción normativa "con excepción a conjuntos urbanos tipo condominio" derivado de la sentencia de la controversia constitucional 471/2023, entrarán en vigor una vez que los Municipios emitan las disposiciones generales para su aplicación.
+
+QUINTO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
