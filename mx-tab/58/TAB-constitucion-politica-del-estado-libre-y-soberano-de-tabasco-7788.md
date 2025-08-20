@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2025-03-19"
+last_updated: "2025-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2025.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -101,6 +101,10 @@ III. Toda persona tiene derecho a que se respete su integridad física, psíquic
 
 IV. Toda persona tiene derecho a la libertad y a la seguridad;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+IV BIS. Toda persona tiene derecho a una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, niñas, niños y adolescentes. La ley establecerá las bases y modalidades para garantizar el ejercicio de este derecho;
+
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 V. Nadie puede ser sometido a esclavitud o servidumbre, y tanto éstas, como la trata de personas, están prohibidas en todas sus formas;
@@ -113,9 +117,9 @@ VI. Toda persona tiene derecho a usar y disfrutar de sus bienes. La ley puede su
 
 VII. Toda persona que se halle en el territorio del Estado de Tabasco tiene derecho a circular por el mismo y a residir en él con sujeción a las disposiciones legales;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-VIII. Todas las personas son iguales ante la ley. En consecuencia, tienen derecho sin discriminación a igual protección o beneficio de la ley. Queda prohibida en el Estado toda forma de discriminación motivada por origen étnico o nacional, el género, la edad, la lengua o idioma, religión, costumbre, opiniones, preferencias, condición social, salud, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas;
+VIII. Todas las personas son iguales ante la ley. En consecuencia, tienen derecho sin discriminación a igual protección o beneficio de la ley. Queda prohibida en el Estado toda forma de discriminación motivada por origen étnico o nacional, el género, la edad, la lengua o idioma, religión, costumbre, opiniones, preferencias, condición social, salud, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -241,13 +245,17 @@ XXXVIII. Cualquier persona en situación de necesidad que no tenga la capacidad 
 
 XXXIX. Toda persona tiene derecho a un ambiente saludable y equilibrado en el Estado de Tabasco. Las autoridades instrumentarán y aplicarán, en el ámbito de su competencia, planes, programas y acciones destinadas a: la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales, de la flora y la fauna existente en su territorio; prevenir, evitar y castigar toda forma de contaminación ambiental; y promover el uso de energías alternativas. El estado y los municipios realizarán asimismo acciones de prevención y control de cambio climático. La ciudadanía tiene la obligación y el derecho de contribuir, participar y exigir la preservación, restauración y el equilibrio ecológico, disponiendo libremente de la acción popular para denunciar cualquier daño o deterioro ambiental ante el Estado o los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-XL. El Estado promoverá, mediante leyes y políticas públicas que la práctica social y el desempeño de las personas dedicadas al servicio público se apeguen a códigos de conducta y valores éticos que combatan la corrupción; además de la expedición de leyes que la castiguen severamente, con el fin de que toda persona pueda aspirar a una vida libre de corrupción; y
+XL. El Estado promoverá, mediante leyes y políticas públicas que la práctica social y el desempeño de las personas dedicadas al servicio público se apeguen a códigos de conducta y valores éticos que combatan la corrupción; además de la expedición de leyes que la castiguen severamente, con el fin de que toda persona pueda aspirar a una vida libre de corrupción;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-XLI. Toda persona tiene derecho a la seguridad social.
+XLI. Toda persona tiene derecho a la seguridad social; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
+XLII. La ley protegerá la organización y el desarrollo de las familias.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1765,9 +1773,9 @@ III.- Tener bajo su mando la corporación de seguridad pública estatal, de acue
 
 La seguridad pública es una función a cargo del Estado y los Municipios, que comprende la prevención de los delitos, la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos y conforme a las reglas que en esta materia establece la Constitución Política de los Estados Unidos Mexicanos.
+La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, perspectiva de género, honradez y respeto a los derechos humanos y conforme a las reglas que en esta materia establece la Constitución Política de los Estados Unidos Mexicanos, reforzando su actuación cuando se trate de mujeres, niñas, niños y adolescentes.
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1823,13 +1831,11 @@ XV.- Coordinar la inversión pública estatal y municipal para los efectos de la
 
 XVI.- Promover la inversión de todos los sectores de acuerdo con el Programa de Gobierno, con sentido social que genere empleos y propicie el desarrollo económico;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-XVII.- Asistir a entregar un informe escrito al Congreso del Estado, el segundo domingo del mes de noviembre de cada año de su ejercicio constitucional, en el que manifieste el estado general que guarde la Administración Pública del Estado, salvo el último año de ejercicio, cuando dicho informe se presentará el tercer domingo del mes de agosto, en sesión extraordinaria del Congreso.
+XVII.- Enviar o presentar personalmente un informe escrito al Congreso del Estado, el segundo domingo del mes de noviembre de cada año de su ejercicio constitucional, en el que manifieste el estado general que guarde la Administración Pública del Estado, salvo el último año de ejercicio, cuando dicho informe se presentará el tercer domingo del mes de agosto, en sesión extraordinaria del Congreso;
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-Al presentar su informe, la persona titular del Poder Ejecutivo del Estado dirigirá al Pleno un mensaje consistente en una síntesis del informe que se presenta. Enseguida, la presidencia del Congreso, en términos generales y concisos, acusará recibo del informe presentado. Posterior a la intervención de la presidencia del Congreso, cada fracción parlamentaria hará un posicionamiento sobre el mensaje pronunciado por la persona Titular del Poder Ejecutivo. Al término de las intervenciones de las fracciones parlamentarias, el Gobernador o Gobernadora del Estado podrá hacer uso de su derecho de contrarréplica.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1846,6 +1852,18 @@ XX.- Solicitar a la Comisión Nacional de los Derechos Humanos, que investigue h
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 XXI.- Las demás que le confiera esta Constitución y la Federal.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2025)</small>
+
+###### Artículo 51 Bis.
+
+De manera periódica y adicional al informe anual previsto en esta Constitución, el Gobernador o Gobernadora podrá rendir informes públicos dirigidos a la población, con el propósito de dar a conocer avances, acciones prioritarias, logros y retos de la administración pública estatal.
+
+Dichos informes deberán sujetarse a los principios de legalidad, objetividad, eficiencia, transparencia y rendición de cuentas, y ajustarse estrictamente a los criterios y parámetros establecidos en la Ley General de Comunicación Social y demás disposiciones legales aplicables.
+
+En ningún caso, dichos informes, podrán emplearse con fines de promoción personalizada ni de posicionamiento político electoral, y deberán respetar los periodos de restricción previstos en la normativa electoral vigente.
+
+Las campañas de difusión deberán estar debidamente presupuestadas conforme al ejercicio autorizado por el Congreso del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -1927,9 +1945,9 @@ V. Las ausencias de la persona titular de la Fiscalía General serán suplidas e
 
 Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden local; y, por lo mismo, solicitará las medidas cautelares contra las personas imputadas; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que la leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales y de combate a la corrupción, cuyas personas titulares serán nombradas y removidas por el o la Fiscal General del Estado. El Congreso del Estado podrá objetar los nombramientos y remociones por el voto de las dos terceras partes de sus integrantes presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
+La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales, de combate a la corrupción y de violencias de género contra las mujeres, cuyas personas titulares serán nombradas y removidas por el o la Fiscal General del Estado. El Congreso del Estado podrá objetar los nombramientos y remociones por el voto de las dos terceras partes de sus integrantes presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1939,7 +1957,9 @@ La ley establecerá las bases para la formación y actualización de las persona
 
 La persona titular de la Fiscalía General presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades. Comparecerá ante el Congreso cuando se le cite a rendir cuentas o a informar sobre su gestión.
 
-La función de procuración de justicia a cargo de la Fiscalía General del Estado se realizará invariablemente en apego a los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+
+La función de procuración de justicia a cargo de la Fiscalía General del Estado se realizará invariablemente en apego a los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, perspectiva de género, profesionalismo, responsabilidad y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2339,7 +2359,19 @@ Las sentencias definitivas que emita el Tribunal de Justicia Administrativa podr
 
 El Tribunal de Justicia Administrativa se compone de una Sala Superior, que estará integrada por tres personas, y cinco salas unitarias. Funcionará en Pleno o en Salas. De las salas unitarias, una fungirá como sala Especializada en la resolución de los procedimientos a que se refiere el párrafo segundo del artículo anterior.
 
-Son requisitos para ser magistrado o magistrada de la Sala Superior del Tribunal de Justicia Administrativa, los señalados en el artículo 57 de esta Constitución para ser magistrada o magistrado del Tribunal Superior de Justicia del Poder Judicial del Estado. Para ser magistrada o magistrado de las salas unitarias, se requiere tener 30 años de edad al día de la designación; contar con título profesional de licenciatura en derecho con cinco años de antigüedad; además de los requisitos indicados en el párrafo primero, fracciones I, IV, V y VI, y segundo párrafo del mencionado artículo 57.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+
+Para ser magistrado o magistrada de la Sala Superior, deberá tener 35 años de edad y contar con título profesional de licenciatura en derecho con al menos diez años de antigüedad al día de la designación, y para ser magistrada o magistrado de las salas unitarias, deberá tener 30 años de edad y contar con título profesional de licenciatura en derecho por lo menos con cinco años de antigüedad. En ambos casos, además, deberán cumplir con los siguientes requisitos:
+
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
+
+III. Haber residido en el país durante el año anterior al día de la designación;
+
+IV. No haber sido en la entidad, titular de una Secretaría o equivalente en la Administración Pública, de la Fiscalía General del Estado de Tabasco, ni senador, senadora, diputado o diputada federal o local, durante el año previo al día de la designación; y
+
+V. No haber sido sancionado, por sentencia firme, por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o haber sido declarada persona deudora alimentaria morosa.
 
 Las magistradas y los magistrados de la Sala Superior serán designados por la persona titular del Poder Ejecutivo, observando en todo momento el principio de paridad de género, y ratificados por el voto de las dos terceras partes de las y los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Durarán en su encargo siete años, pudiendo ser designados para un solo periodo más.
 
@@ -4274,3 +4306,13 @@ Cuando requiera realizarse un nuevo nombramiento para efectos de integrar el qu�
 SEXTO.- Los derechos laborales de las personas servidoras públicas serán respetados en su totalidad, en términos de la legislación aplicable.
 
 SÉPTIMO.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 126 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES VIII, XL Y XLI; 51, FRACCIONES III, PÁRRAFO TERCERO, Y XVII; 54 TER, PÁRRAFOS QUINTO Y OCTAVO; 63 QUÁTER, PÁRRAFO SEGUNDO. SE ADICIONAN LAS FRACCIONES IV BIS Y XLII AL ARTÍCULO 2 Y EL ARTÍCULO 51 BIS. SE DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XVII DEL ARTÍCULO 51, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones necesarias para armonizar el marco jurídico estatal, debiéndose incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
