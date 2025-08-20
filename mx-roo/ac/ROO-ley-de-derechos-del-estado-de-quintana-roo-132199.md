@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2025-01-16"
+last_updated: "2025-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "ROO"
 
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 16 DE ENERO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -2143,65 +2141,47 @@ III. Por la reposición de la Acreditación de Asesor
 
 Inmobiliario 20.00
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2025)</small>
 
-#### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL
+#### SECCIÓN SEGUNDA. DEL DICTAMEN DE VIABILIDAD EN MATERIA DE ACCIONES URBANÍSTICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 54.
 
-Por el análisis y calificación de proyectos para la expedición de la Constancia de Congruencia Urbanística Estatal a que se refieren los artículos 80 y 81 de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, se causarán derechos de conformidad con la tarifa siguiente:
+Por el análisis y calificación de proyectos para la expedición del Dictamen de Viabilidad en Materia de Acciones Urbanísticas a que se refieren los artículos 80 y 81 de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, se causarán derechos de conformidad con la tarifa siguiente:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2025)</small>
 
-CONCEPTO UMA
+CONCEPTO DE DICTAMEN UMA
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-l. Constancia de Congruencia Urbanística Estatal en modalidad de Dictamen de Impacto Territorial para construcción o ampliación de vialidades regionales, metropolitanas u otros componentes de la infraestructura para la movilidad que comuniquen a más de un municipio: 0.2% del presupuesto de obras.
+l. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos para construcción o ampliación de vialidades regionales, metropolitanas u otros componentes de la infraestructura para la movilidad que comuniquen a más de un municipio: 0.2% del presupuesto de obras;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-II. Constancia de Congruencia Urbanística Estatal en modalidad de Dictamen de Impacto Territorial para Vialidades Primarias, tales como periféricos y libramientos: 0.2 % del presupuesto de la obra
+II. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos para vialidades primarias, tales como periféricos y libramientos: 0.2 % del presupuesto de la obra;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-III. Constancia de Congruencia Urbanística Estatal en modalidad de Dictamen de Impacto Territorial para centrales de carga, terminales multimodales, centrales de autobuses, ferrocarriles, aeropuertos:
+III. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos para centrales de carga, terminales multimodales, centrales de autobuses, ferrocarriles, aeropuertos:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 a) Por metro cuadrado de superficie de construcción: 0.40
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-IV. Constancia de Congruencia Urbanística Estatal
+IV. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos para plantas de almacenamiento y venta de combustibles para servicio público o privado: Por m2 de superficie de terreno: 0.50
 
-en modalidad de Dictamen de Impacto Territorial
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-para plantas de almacenamiento y venta de
+V. Dictamen de Viabilidad en Materia de Acciones Urbanísticas para equipamiento institucional educativo, de salud, abasto o mercado, religioso o recreación, mayores de 1,500 m2 de construcción o mayores de 2,500 m2 de superficie; por m2 de superficie de construcción: 0.30
 
-combustibles para servicio público o privado:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-Por m2 de superficie de terreno: 0.50
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-V. Constancia de Congruencia Urbanística
-
-Estatal para equipamiento institucional educativo, de salud,
-
-abasto o mercado, religioso o recreación,
-
-mayores de 1,500 m2 de construcción o
-
-mayores de 2,500 m2 de superficie; por m2
-
-de superficie de construcción: 0.30
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-VI. Constancia de Congruencia Urbanística Estatal para todas las acciones urbanísticas mayores de 2,500 m2 de superficie o de 1,500 m2 de construcción, a excepción de lo dispuesto en las fracciones V y VIII del presente artículo:
+VI. Dictamen de Viabilidad en Materia de Acciones Urbanísticas para todas las acciones urbanísticas mayores de 2,500 m2 de superficie o de 1,500 m2 de construcción, a excepción de lo dispuesto en las fracciones V y VIII del presente artículo:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2219,9 +2199,9 @@ c) Por m2 de superficie de construcción para categoría residencial y comercial
 
 d) Por m2 de superficie de construcción para categoría residencial plus: 0.90
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-VII. Constancia de Congruencia Urbanística Estatal para zonificación incluyente:
+VII. Dictamen de Viabilidad en Materia de Acciones Urbanísticas para zonificación incluyente:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2235,9 +2215,9 @@ b) Predios de 50 a 99 hectáreas: 0.02
 
 c) Predios a partir de 100 hectáreas por m2: 0.01
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-VIII. Constancia de Congruencia Urbanística Estatal para Acciones Urbanísticas en modalidad de Hoteles mayores de 1,200 m2 de superficie de construcción:
+VIII. Dictamen de Viabilidad en Materia de Acciones Urbanísticas para Acciones Urbanísticas en modalidad de Hoteles mayores de 1,200 m2 de superficie de construcción:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2255,35 +2235,21 @@ c) Por m2 de superficie de construcción para hotel de 4 estrellas, categoría a
 
 d) Por m2 de superficie de construcción para hotel de 5 estrellas o más, categoría: 1.05
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-IX. Constancia de Congruencia Urbanística Estatal
+IX. Dictamen de Viabilidad en Materia de Acciones Urbanísticas para industrias de cualquier tipo, por m2 de superficie de construcción: 0.40
 
-para industrias de cualquier tipo, por m2
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-de superficie de construcción: 0.40
+X. Dictamen de Viabilidad en Materia de Acciones Urbanísticas para relotificación, parcelación o subdivisión de terrenos con superficies igual o mayor a los 5,500 m2, por fracción resultante: 12.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-X. Constancia de Congruencia Urbanística
+XI. Dictamen de Viabilidad en Materia de Acciones Urbanísticas para fusión de terrenos con superficie resultante igual o mayor a los 5,000 m2: 12.00
 
-Estatal para relotificación, parcelación o
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-subdivisión de terrenos con superficies igual o
-
-mayor a los 5,500 m2, por fracción resultante: 12.00
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-XI. Constancia de Congruencia Urbanística Estatal
-
-para fusión de terrenos con superficie resultante
-
-igual o mayor a los 5,000 m2: 12.00
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-XII. Constancia de Congruencia Urbanística Estatal para Fraccionamientos o Conjuntos Urbanos
+XII. Dictamen de Viabilidad en Materia de Acciones Urbanísticas para Fraccionamientos o Conjuntos Urbanos:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2293,9 +2259,9 @@ a) Fraccionamientos o Conjuntos Urbanos en cualquiera de sus modalidades (m2 de 
 
 b) En el caso de modificación del Fraccionamiento o Conjunto Urbano, este derecho será adicional al presupuesto de obras de urbanización que se incrementen: 40.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-XIII. Constancia de Congruencia Urbanística Estatal para constitución o modificación de Régimen de Propiedad en Condominio:
+XIII. Dictamen de Viabilidad en Materia de Acciones Urbanísticas para constitución o modificación de Régimen de Propiedad en Condominio:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2317,29 +2283,17 @@ d) Por cada Unidad comercial: 52.00
 
 e) En el caso de modificación de Régimen de Propiedad en Condominio, este derecho será adicional al de las unidades de propiedad exclusiva que se incrementen: 40.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-XIV. Constancia de Congruencia Urbanística
+XIV. Dictamen de Viabilidad en Materia de Acciones Urbanísticas para modificación, demolición o ampliación de inmuebles de patrimonio cultural. Por m2 de la superficie de construcción: 0.40
 
-Estatal para modificación, demolición o ampliación
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-de inmuebles de patrimonio cultural:
+XV. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos para Bancos de Extracción de Materiales Pétreos; por m2 de superficie de terreno: 0.05
 
-Por m2 de la superficie de construcción: 0.40
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-XV. Constancia de Congruencia Urbanística
-
-Estatal en modalidad de Dictamen de Impacto
-
-Territorial para Bancos de Extracción de
-
-Materiales Pétreos; por m2 de superficie de terreno: 0.05
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-XVI. Constancia de Congruencia Urbanística Estatal en modalidad de Dictamen de Impacto Territorial para proyectos de vivienda que tengan más de 15,000 m2 de construcción.
+XVI. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos para proyectos de vivienda que tengan más de 15,000 m2 de construcción:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2359,67 +2313,29 @@ b) Para constitución de Régimen de Propiedad en Condominio:
 
 4. Por Unidad privativa para categoría comercial: 52.00
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-XVII. Constancia de Congruencia Urbanística Estatal en
+XVII. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos para proyectos que incluyan oficinas, comercios o servicios, por más de 4,500 m2 de construcción. Por m2 de superficie de construcción: 0.90
 
-modalidad de Dictamen de Impacto Territorial
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-para proyectos que incluyan oficinas, comercios o
+XVIII. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos para establecimientos mercantiles en los que se pretenda preponderantemente la venta de artículos que conforman la canasta de productos básicos, bajo el sistema de autoservicio, de más de 900 m2 de construcción, por m2 de superficie de construcción: 0.50
 
-servicios, por más de 4,500 m2 de construcción:
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-Por m2 de superficie de construcción: 0.90
+XIX. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos para industrias de más de 3,000m2 de superficie de construcción, por m2 de superficie de construcción: 0.50
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-XVIII. Constancia de Congruencia Urbanística Estatal
-
-en modalidad de Dictamen de Impacto Territorial para
-
-establecimientos mercantiles en los que se
-
-pretenda preponderantemente la venta de artículos que
-
-conforman la canasta de productos básicos, bajo el
-
-sistema de autoservicio, de más de 900 m2 de
-
-construcción, por m2 de superficie de construcción: 0.50
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-XIX. Constancia de Congruencia Urbanística Estatal
-
-en modalidad de Dictamen de Impacto Territorial para
-
-industrias de más de 3,000 m2 de superficie de
-
-construcción, por m2 de superficie de construcción: 0.50
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-XX. Constancia de Congruencia Urbanística Estatal
-
-en modalidad de Dictamen de Impacto Territorial para
-
-equipamiento institucional educativo, de salud,
-
-abasto o mercado, recreación que brinden servicios
-
-regionales o que supongan edificaciones
-
-mayores a 4,500 m2 de superficie deconstrucción (sic); 0.45
+XX. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos para equipamiento institucional educativo, de salud, abasto o mercado, recreación que brinden servicios regionales o que supongan edificaciones mayores a 4,500m2 de superficie de construcción: 0.45
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 Todos los demás causarán derechos conforme a lo establecido en la fracción XVII del presente artículo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
 
-XXI. Constancia de Congruencia Urbanística Estatal en modalidad de Dictamen
-
-de Impacto Territorial por densificación urbana.
+XXI. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos por densificación urbana:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2447,11 +2363,9 @@ b) Habitacional:
 
 4. Por vivienda densificado para residencial plus: 400.00
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
-XXII. Por reposición de la Constancia de Congruencia
-
-Urbanística Estatal (Constancia de Compatibilidad Urbana): 45.00
+XXII. Por reposición del Dictamen de Viabilidad en Materia de Acciones Urbanísticas o en Modalidad de Viabilidad Urbanística y Mitigación de Impactos: 45.00
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -4636,3 +4550,19 @@ P.O. 10 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado o de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 136 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO; LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO; Y LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La persona Titular del Poder Ejecutivo del Estado expedirá en un plazo no mayor a ciento ochenta días hábiles, el reglamento de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, mismo que será aplicable en los temas de competencia estatal, y aplicable en el ámbito municipal, hasta en tanto los ayuntamientos no expidan sus respectivos ordenamientos municipales en la materia.
+
+TERCERO. Los programas de desarrollo urbano, así como las autorizaciones de acciones urbanísticas, constancias y/o licencias de uso de suelo otorgadas con anterioridad a la entrada en vigor del presente Decreto seguirán vigentes en los términos que fueron aprobadas o concedidas.
+
+Las solicitudes que fueron presentadas previo a la entrada en vigor del presente Decreto culminarán su trámite con el marco jurídico con las que fueron ingresadas.
+
+CUARTO. Las obligaciones previstas en el artículo 46, párrafo primero de la Ley de Acciones Urbanísticas del Estado de Quintana Roo, en su porción normativa "con excepción a conjuntos urbanos tipo condominio" derivado de la sentencia de la controversia constitucional 471/2023, entrarán en vigor una vez que los Municipios emitan las disposiciones generales para su aplicación.
+
+QUINTO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
