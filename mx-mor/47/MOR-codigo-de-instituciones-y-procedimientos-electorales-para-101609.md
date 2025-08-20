@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2025-07-17"
+last_updated: "2025-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,7 @@ state: "MOR"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
@@ -3457,7 +3457,23 @@ El pleno del Tribunal Electoral designará al Magistrado Presidente. La presiden
 
 El Tribunal Electoral se integra con tres magistraturas observando el principio de paridad, que actuarán en forma colegiada y permanecerán en su encargo durante siete años.
 
-Para ser Magistrado o Magistrada del Tribunal Electoral deberá reunir los requisitos establecidos en la normativa correspondiente.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 20 DE AGOSTO DE 2025)</small>
+
+Para ser Magistrado del Tribunal Electoral, se deberá cumplir con lo siguiente:
+
+I. Tener la ciudadanía mexicana por nacimiento, preferentemente morelense, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Haber residido en el estado de Morelos durante el año anterior al día de su designación;
+
+III. Tener treinta años cumplidos al momento de su designación;
+
+IV. Contar con título de licenciatura en derecho, con al menos 5 años de antigüedad, al momento de su designación;
+
+V. Contar con al menos cinco años de experiencia en materia electoral;
+
+VI. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
+
+VII. Demás requisitos establecidos por la normativa correspondiente, que no se opongan a la presente disposición.
 
 El pleno del Tribunal Electoral designará al Magistrado o Magistrada Presidente. La presidencia será rotativa en términos de lo que se disponga en su reglamentación interna.
 
@@ -8298,3 +8314,13 @@ TERCERA. Una vez efectuada (sic) lo señalado por la Disposición Transitoria an
 CUARTA. El aumento en el número de personas Diputadas electas bajo el principio de mayoría relativa y la asignación de cuatro Diputaciones conforme al principio de primera minoría estatal, no implicará por sí mismo un incremento en el presupuesto del Congreso del Estado de Morelos.
 
 QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA Y UNO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 138 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, EN MATERIA DE INTEGRACIÓN DEL TRIBUNAL ELECTORAL”.]
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
