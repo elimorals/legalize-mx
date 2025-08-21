@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-organo-interno-de-control-del-145872"
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-01-08"
-last_updated: "2025-03-05"
+last_updated: "2025-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145872&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-12-24"
 ---
 # ESTATUTO ORGANICO DEL ORGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. EL 21 DE AGOSTO DE 2025; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMER DÍA HÁBIL DEL MES SIGUIENTE AL DE SU PUBLICACIÓN EN LA GACETA ELECTORAL.]</small>
+
 ESTATUTO ORGÁNICO DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE AGOSTO DE 2025 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 8 de enero de 2021.
 
@@ -988,3 +990,13 @@ UNDÉCIMO. Con fundamento en el artículo 3, numeral 1, inciso g), del Reglament
 DUODÉCIMO. Con fundamento en los artículos 2 y 3, fracción VII, de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales, por reputarse de interés general, solicítese al Diario Oficial de la Federación la publicación de este Acuerdo General.
 
 DECIMOTERCERO. Conforme a lo dispuesto por el artículo 82, párrafo 1, inciso xx), del Reglamento Interior del Instituto Nacional Electoral; infórmese la expedición del presente Acuerdo General al Consejo General del propio Instituto, por conducto de su Consejera Presidenta; y comuníquese a la Secretaria Ejecutiva la emisión del mismo, para los efectos legales y administrativos a que haya lugar.
+
+D.O.F. 21 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EXPIDEN EL ESTATUTO ORGÁNICO DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL Y LOS LINEAMIENTOS QUE REGULAN EL EJERCICIO Y DESEMPEÑO DE LAS ATRIBUCIONES DE LA AUTORIDAD GARANTE DEL INSTITUTO NACIONAL ELECTORAL".]
+
+PRIMERO. El presente Estatuto Orgánico del Órgano Interno de Control del Instituto Nacional Electoral, se reputa de interés general y entrará en vigor el primer día hábil del mes siguiente al de su publicación en la Gaceta Electoral, rigiendo en todo el país para los asuntos competencia del Órgano Interno de Control y de la Autoridad Garante del Instituto Nacional Electoral y para efectos contra terceros, a partir del día siguiente a aquél de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Con la entrada en vigor del presente Estatuto, se abroga el Estatuto Orgánico del Órgano Interno de Control del Instituto Nacional Electoral emitido mediante Acuerdo General OIC-INE/11/2020, publicado el 8 de enero de 2021 en el Diario Oficial de la Federación.
+
+TERCERO. Las referencias que se hacen y las atribuciones que se otorgan a las unidades, direcciones y coordinaciones que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades, direcciones y coordinaciones que correspondan, conforme a lo establecido en el mismo.
