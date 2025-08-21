@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-181249"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-08-14"
-last_updated: "2025-08-14"
+last_updated: "2025-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE AGOSTO DE 2025 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 21 DE AGOSTO DE 2025.]</small>
 
 Ley publicada en el Número 65 Bis del Periódico Oficial del Estado de Durango, el jueves 14 de agosto de 2025.
 
@@ -3067,7 +3067,9 @@ T R A N S I T O R I O S
 
 PRIMERO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado de Durango aprobada mediante decreto 296, publicada en el Periódico Oficial del Gobierno del Estado Número 47 de fecha 10 de diciembre de 2009, con las salvedades previstas en los transitorios siguientes.
+> <small>(F. DE E., P.O. 21 DE AGOSTO DE 2025)</small>
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado de Durango aprobada mediante decreto 296, publicada en el Periódico Oficial del Gobierno del Estado Número 1 de fecha 02 de julio de 2009, con las salvedades previstas en los transitorios siguientes.
 
 TERCERO. Al Tribunal de Disciplina Judicial le corresponderá recibir los recursos materiales, humanos, financieros y presupuestales de las áreas del Consejo de la Judicatura, que actualmente ejercen funciones de disciplina y control interno de los integrantes del Poder Judicial.
 
