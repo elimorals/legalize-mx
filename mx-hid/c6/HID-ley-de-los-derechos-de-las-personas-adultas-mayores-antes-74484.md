@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2025-08-07"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -57,11 +57,11 @@ QUE CONTIENE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO D
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público de interés social y de observancia general en el Estado de Hidalgo, tiene por objeto proteger y garantizar los derechos de las personas adultas mayores, en condiciones de igualdad y no discriminación, con enfoque interseccional, para proporcionarles una mejor calidad de vida y contribuir a su plena inclusión, y participación en el desarrollo social, económico y cultural, así como generar las condiciones para lograr un envejecimiento saludable.
+La presente Ley es de orden público, de interés social y de observancia general en el Estado de Hidalgo. Tiene por objeto proteger y garantizar los derechos de las personas adultas mayores, en condiciones de igualdad y no discriminación, con enfoque interseccional, para proporcionarles una mejor calidad de vida y contribuir a su plena inclusión y participación en el desarrollo social, económico, cultural y ambiental, así como generar las condiciones para lograr un envejecimiento saludable.
 
 ###### Artículo 2.
 
@@ -97,7 +97,9 @@ V.- Gerontología: Disciplina que estudia los procesos de envejecimiento desde u
 
 VI.- Tanatología.- Estudio integral y multidisciplinario que reúne en su quehacer, elementos sociales que influyen en cada individuo y busca resolver las situaciones conflictivas que existen en torno a la muerte, cuyo servicio final consiste en procurar una muerte digna con cuidados paliativos, psicológicos y sociales;
 
-VII.- Integración Social.- Resultado de las acciones que realizan las Dependencias y Entidades de la Administración Pública Estatal y Municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a los adultos mayores su desarrollo integral;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+VII.- Integración Económica y Social.- Conjunto de acciones que realizan las Dependencias y Entidades de la Administración Pública Estatal y; Municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral y el aumento de su capacidad económica y productiva;
 
 VIII.- Atención Integral.- Satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas y productivas de los adultos mayores para facilitarles una vejez plena y sana, se consideran sus hábitos, capacidades funcionales, usos, costumbres y preferencias;
 
@@ -479,13 +481,17 @@ XXI.- Concertar con los municipios la planeación y ejecución de los programas 
 
 XXI Bis.- Fomentar e impulsar la creación de centros de atención geriátrica y gerontológica;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXIII], P.O. 22 DE AGOSTO DE 2025)</small>
 
-XXII.- Las demás que coadyuven al desarrollo integral de las personas adultas mayores y que le confieren otros ordenamientos jurídicos; y
+XXI Ter.- Promover la difusión de los derechos y valores en beneficio de las personas adultas mayores, con el propósito de sensibilizar a las familias y a la sociedad en general respecto a la problemática de este sector;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-XXIII.- Promover la difusión de los derechos y valores en beneficio de las personas adultas mayores, con el propósito de sensibilizar a las familias y a la sociedad en general respecto a la problemática de este sector.
+XXI Quater.- Implementar acciones de capacitación y divulgación en temas de educación ambiental dirigidos a las personas adultas mayores, orientadas a fortalecer su conocimiento sobre emergencias y desastres, el cambio climático y las estrategias de adaptación, y
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+XXII.- Las demás que coadyuven al desarrollo integral de las personas adultas mayores y que le confieren otros ordenamientos jurídicos.
 
 ###### Artículo 16.
 
@@ -927,13 +933,17 @@ III.- Promover que en las nuevas construcciones que se realicen por el sector p�
 
 III Bis.- Formular y desarrollar programas municipales de enseñanza y capacitación digital para las personas adultas mayores, orientados al aprendizaje del uso de las nuevas herramientas tecnológicas;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-IV.- Promover la creación de Consejos Municipales para la atención de las personas adultas mayores; y
+IV.- Promover la creación de Consejos Municipales para la atención de las personas adultas mayores;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-V.- Promover la creación de casas de día, como lugares en los que se brinda atención a las personas adultas mayores.
+V.- Promover la creación de casas de día, como lugares en los que se brinda atención a las personas adultas mayores, e
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+VI.- Implementar acciones concretas de educación ambiental, según las características específicas de cada territorio, dirigidas a las personas adultas mayores y enfocadas en la prevención, mitigación y adaptación de los efectos del cambio climático, emergencias y desastres.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -1256,5 +1266,17 @@ P.O. 10 DE JULIO DE 2025.
 P.O. 7 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 320 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 11 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE ERRADICACIÓN DE TRABAJOS FORZADOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 330 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE ADAPTACIÓN AL CAMBIO CLIMÁTICO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 342 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE INTEGRACIÓN ECONÓMICA Y SOCIAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
