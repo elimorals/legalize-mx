@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2025-06-10"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -236,6 +236,10 @@ Para los efectos de esta Ley se entenderá por:
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
 I.- Agricultura Familiar: Forma de organizar la agricultura, ganadería, silvicultura, pesca, acuicultura y pastoreo que es administrada y operada por una familia y que depende preponderantemente del trabajo familiar.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+I Bis.- Agricultura Regenerativa: Conjunto de prácticas agrícolas que buscan mantener y restaurar la salud del suelo, aumentar la biodiversidad, mejorar el ciclo del agua, reducir el uso de insumos químicos y mantener el suelo como sumidero de carbono, promoviendo la resiliencia del campo.
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -661,9 +665,13 @@ VII.- Poner a disposición de los productores y público en general, mediante el
 
 VII BIS.- Fomentar el desarrollo de la producción orgánica, para la recuperación de cuencas hidrológicas, aguas, suelos, ecosistemas, así como sistemas agropecuarios deteriorados por las prácticas convencionales de producción y reorientarlas a prácticas sustentables;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-VII TER.- Fomentar la Certificación orgánica así como la promoción de los productos orgánicos en los mercados regional, nacional e internacional; y,
+VII TER.- Fomentar la certificación orgánica así como la promoción de los productos orgánicos en los mercados regional, nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+VII QUATER.- Fomentar la promoción de la agricultura regenerativa en las diferentes regiones del estado, y
 
 VIII.- Todas las demás actividades que contribuyan a garantizar la sustentabilidad de las actividades agrícolas.
 
@@ -1536,5 +1544,11 @@ P.O. 27 DE FEBRERO DE 2025.
 P.O. 10 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 248 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 44 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, EN MATERIA DE MECANISMOS PARA FORTALECER LAS ZONAS DE RIEGO EN CULTIVOS ESTRATÉGICOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 332 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, EN MATERIA DE AGRICULTURA REGENERATIVA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
