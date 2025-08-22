@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2025-08-06"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 06 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -951,9 +951,15 @@ XXII. El conocimiento, cuidado, preservación, valoración y desarrollo del patr
 
 XXIII. La enseñanza de la música para potencializar el desarrollo cognitivo y humano, así como la personalidad y habilidades de las niñas, los niños, adolescentes y jóvenes;
 
-XXIV. El fomento de los principios básicos de seguridad escolar y social, con base en el principio de la convivencia sana y pacífica; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, así como los artículos 14 y 15 de la presente Ley.
+XXIV. El fomento de los principios básicos de seguridad escolar y social, con base en el principio de la convivencia sana y pacífica;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+XXV. La enseñanza de la educación vial y la movilidad segura, basadas en criterios de corresponsabilidad y prevención, y
+
+XXVI. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, así como los artículos 14 y 15 de la presente Ley.
 
 ### CAPÍTULO III. DE LAS TECNOLOGÍAS DE LA INFORMACIÓN, COMUNICACIÓN, CONOCIMIENTO Y APRENDIZAJE DIGITAL EN EL PROCESO EDUCATIVO
 
@@ -2648,5 +2654,11 @@ P.O. 10 DE JULIO DE 2025.
 P.O. 6 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 310 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 69 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 44 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PLANEACIÓN DEL USO DE TECNOLOGÍAS DE LA INFORMACIÓN CON FINES EDUCATIVOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 341 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 68 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN VIAL".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
