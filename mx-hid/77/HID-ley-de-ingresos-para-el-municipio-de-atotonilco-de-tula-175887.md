@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-para-el-municipio-de-atotonilco-de-tula-175887"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE INGRESOS PARA EL MUNICIPIO DE ATOTONILCO DE TULA HIDALGO, CORRESPONDIENTE AL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERÍODICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance ocho del Número 53 del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2024.
 
