@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transito-y-seguridad-vial-para-el-estado-de-hidalgo-1436
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-20"
-last_updated: "2025-04-11"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2020.
 
@@ -933,19 +933,27 @@ VII.- Las demás que establezca la presente Ley y su Reglamento.
 
 ### CAPÍTULO VIII. DEL ALCOHOLÍMETRO
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 71.
 
-Las autoridades estatales y/o municipales podrán realizar revisiones aleatorias en puntos de control a través del uso del alcoholímetro, para detectar la presencia de alcohol en aire espirado en los conductores de los vehículos motorizados, tanto del servicio particular como del transporte público. El personal a cargo de las mismas deberá estar debidamente certificado, identificado y garantizar el respeto a los derechos humanos de las personas sometidas a los mismos (sic).
+Las autoridades estatales y/o municipales podrán realizar revisiones aleatorias en puntos de control a través del uso del alcoholímetro, para detectar la presencia de alcohol en aire espirado en las personas conductoras de cualquier tipo de vehículo, tanto del servicio particular como del transporte público. El personal a cargo de las mismas deberá estar debidamente certificado, identificado y garantizar el respeto a los derechos humanos de las personas sometidas a los mismos (sic).
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 72.
 
-Los conductores de vehículos motorizados están obligados a someterse al alcoholímetro, cuando lo solicite la autoridad, sobre todo cuando muestren síntomas de que conducen bajo los efectos de alcohol o narcóticos.
+Las personas conductoras de cualquier tipo de vehículo están obligados (sic) a someterse al alcoholímetro, cuando lo solicite la autoridad, sobre todo cuando muestren síntomas de que conducen bajo los efectos de alcohol o narcóticos.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 73.
 
-Queda prohibido conducir vehículos motorizados bajo el influjo de narcóticos, estupefacientes o psicotrópicos, o cuando se tenga una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire espirado superior a 0.4 miligramos por litro.
+Queda prohibido conducir cualquier tipo de vehículo bajo el influjo de narcóticos, estupefacientes o psicotrópicos, o cuando se tenga una cantidad de alcoholemia superior a 0.25 mg/L en aire espirado o 0.05 g/dL en sangre, salvo las siguientes consideraciones:
 
-Los conductores menores de edad, así como vehículos destinados al servicio de transporte público de pasajeros, transporte escolar o de personal, vehículos de emergencia, de transporte de carga o de transporte de sustancias tóxicas o peligrosas, no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado, síntomas simples de aliento alcohólico o estar bajo los efectos de narcóticos, estupefacientes o psicotrópicos al conducir.
+a) Para las personas que conduzcan motocicletas queda prohibido hacerlo con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/dL en sangre.
+
+b) Para las personas conductoras menores de edad, así como vehículos destinados al servicio de transporte público de pasajeros, transporte escolar o de personal, vehículos de emergencia, de transporte de carga o de transporte de sustancias tóxicas o peligrosas, queda prohibido conducir con cualquier concentración de alcohol en la sangre o en aire espirado, síntomas simples de aliento alcohólico o estar bajo los efectos de narcóticos, estupefacientes o psicotrópicos al conducir.
 
 ###### Artículo 74.
 
@@ -1802,5 +1810,11 @@ P.O. 2 DE JULIO DE 2024.
 P.O. 11 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 226 - LXVI QUE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 67 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 347 - LXVI QUE REFORMA LOS ARTÍCULOS 71, 72 Y 73 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
