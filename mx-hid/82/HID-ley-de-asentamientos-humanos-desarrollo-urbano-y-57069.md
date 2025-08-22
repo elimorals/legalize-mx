@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2025-07-10"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -591,9 +591,15 @@ Los programas que integran el Sistema deberán guardar congruencia entre sí, su
 
 La Secretaría, analizará y verificará que los proyectos de programas de desarrollo urbano propuestos, como requisito previo a su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad y del Comercio, guarden congruencia entre los distintos niveles de planeación, así como de la normatividad aplicable en la materia. En caso de detectar incongruencias, formulará las recomendaciones que considere procedentes para que el proyecto de programa de que se trate sea revisado y modificado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2025)</small>
+
 ###### ARTICULO 12.
 
-Los programas a que se refiere el Sistema, se formularán y aprobarán en los términos previstos en esta Ley, serán Publicados en el Periódico Oficial del Estado e inscritos en el Registro Público de la Propiedad y del Comercio y se mantendrán para consulta del público en las Oficinas de la Secretaría y de las Autoridades Municipales.
+Los programas a que se refiere el Sistema, se formularán y aprobarán en los términos previstos en esta Ley, serán Publicados en el Periódico Oficial del Estado e inscritos en el Registro Público de la Propiedad y del Comercio y se mantendrán para consulta del público en las Oficinas de la Secretaría y de las Autoridades Municipales, o a través de medios digitales abiertos y accesibles.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2025)</small>
+
+Las autoridades estatales y municipales tienen la obligación de garantizar el acceso a la información gratuita, oportuna y veraz, referente a las disposiciones de planeación urbana y zonificación; para lo cual deberán poner a disposición para su consulta, en medios digitales o físicos, la información relativa a los planes y programas de ordenamiento territorial, desarrollo urbano y metropolitano.
 
 Los programas previstos en este capítulo, tendrán una visión a largo plazo, vigencia indefinida y estarán sometidos a un proceso constante de revisión, seguimiento y evaluación.
 
@@ -2916,5 +2922,11 @@ P.O. 1 DE JULIO DE 2025.
 P.O. 10 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 267 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 1 DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, EN MATERIA DE AMPLIACIÓN A LOS ALCANCES DEL OBJETO DE DICHA LEY".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 333 – LXVI POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, EN MATERIA DE ACCESO A LA INFORMACIÓN Y TRANSPARENCIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
