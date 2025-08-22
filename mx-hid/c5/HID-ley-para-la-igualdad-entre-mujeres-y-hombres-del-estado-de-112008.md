@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2025-05-26"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -341,13 +341,17 @@ XV. Establecer medidas para fortalecer el acceso de las mujeres al empleo y la a
 
 XVI. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas y campañas informativas;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-XVII. Establecer medidas para fortalecer el acceso de las mujeres a sus derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, y su participación en el desarrollo rural y en sus beneficios; y
+XVII. Establecer medidas para fortalecer el acceso de las mujeres a sus derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, y su participación en el desarrollo rural y en sus beneficios;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-XVIII. Promover la participación de las mujeres rurales.
+XVIII. Promover la participación de las mujeres rurales, y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+XIX. Fomentar el desarrollo y la participación de las mujeres en la ciencia y la tecnología, así como el desarrollo de investigadoras profesionales.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
 
@@ -1026,3 +1030,9 @@ P.O. 26 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 239 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN FINANCIERA EN FAVOR DE LAS MUJERES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 338 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 15 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO A LA CIENCIA Y LA TECNOLOGÍA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
