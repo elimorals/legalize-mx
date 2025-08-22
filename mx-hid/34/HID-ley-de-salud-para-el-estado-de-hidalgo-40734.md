@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2025-08-06"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -378,6 +378,10 @@ I Bis.- Garantizar la atención primaria de la salud con personal médico de cal
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
 
 I Ter.- Promover, difundir e impulsar programas que integren el uso y aprovechamiento de las tecnologías de la información y las comunicaciones para ampliar la cobertura y acceso a los servicios de salud;
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2025)</small>
+
+Dichas acciones podrán considerar la implementación de mecanismos que procuren que los familiares o personas responsables, puedan recibir información relativa al diagnóstico, tratamiento y estado de salud de los pacientes, respetando el derecho a la confidencialidad y privacidad.
 
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
 
@@ -1975,6 +1979,10 @@ Artículo 142 Undecies 7.- Toda mujer embarazada tiene derecho a obtener servici
 
 Para garantizar el derecho a la protección de la salud en condiciones de igualdad, equidad, no discriminación y respeto a la dignidad humana en la atención integral de la mujer durante el embarazo, parto y puerperio, las autoridades sanitarias garantizarán un enfoque humanizado, intercultural y seguro y la participación incluyente y corresponsable, así como la elección sobre el tipo de atención que desea recibir, incluyendo la partería tradicional, siempre y cuando las condiciones clínicas lo permitan.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2025)</small>
+
+En los casos de embarazo adolescente, deberá asegurarse la prestación de servicios de atención médica de manera respetuosa, efectiva e integral durante el periodo de embarazo, parto y puerperio, así como la promoción y acceso a métodos anticonceptivos.
+
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
 
 Artículo 142 Undecies 8.- En los Servicios de Salud se promoverá la organización institucional de Comités de Prevención de la Mortalidad Materna e Infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
@@ -2896,5 +2904,17 @@ P.O. 6 DE AGOSTO DE 2025.
 P.O. 6 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 308 – LXVI POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 142 BIS 2 Y SE ADICIONA UN ARTÍCULO 142 BIS 12 A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACCIONES SOBRE PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LOS EFECTOS NOCIVOS DEL TABACO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 328 - LXVI POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I TER DEL APARTADO A DEL ARTÍCULO 5 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE TECNOLOGÍAS DE LA INFORMACIÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 334 - LXVI POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 142 UNDECIES 7 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE EMBARAZO ADOLESCENTE".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
