@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2023-05-30"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -84,6 +84,10 @@ En los proyectos de Leyes de Ingresos para cada Municipio se propondrán además
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2022)</small>
 
 Dichos proyectos deberán aprobarse por el Ayuntamiento durante el mes de septiembre de cada año y a más tardar el primer día hábil del mes de octubre, el Presidente Municipal deberá enviar la Iniciativa de Ley correspondiente al Congreso del Estado, para efectos de su análisis, modificación, aprobación y consecuente aplicación en el siguiente Ejercicio Fiscal.
+
+> <small>(ADICIONADO, P.O.22 DE AGOSTO DE 2025)</small>
+
+Para el caso del primer año de la administración municipal, por única ocasión la persona titular de la Presidencia Municipal enviará la Iniciativa de Ley de Ingresos al Congreso del Estado, a más tardar el segundo lunes del mes de octubre.
 
 ###### ARTÍCULO 6o.
 
@@ -1880,3 +1884,9 @@ P.O. 30 DE MAYO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O.22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PRESENTACIÓN DE INICIATIVAS DE LEYES DE INGRESOS.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
