@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2024-08-20"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -247,9 +247,15 @@ XI Bis.- Establecer mecanismos para la detección de talentos deportivos y promo
 
 XII.- Expedir el Reglamento de la presente Ley, y en su caso, las modificaciones que sean necesarias;
 
-XIII.- Cumplir y vigilar que se cumpla la Ley de Cultura Física, Deporte y Recreación para el Estado de Hidalgo y su Reglamento; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-XIV.- Las demás que le otorguen otras disposiciones legales y las que se requieran para el mejor desarrollo del Deporte Estatal.
+XIII.- Cumplir y vigilar que se cumpla la Ley de Cultura Física, Deporte y Recreación para el Estado de Hidalgo y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+XIV.- Implementar, según la disponibilidad presupuestal, la utilización de herramientas tecnológicas con la finalidad de promover la activación y cultura física en la población, y
+
+XV.- Las demás que le otorguen otras disposiciones legales y las que se requieran para el mejor desarrollo del Deporte Estatal.
 
 ## TÍTULO TERCERO
 
@@ -1916,5 +1922,11 @@ P.O. 17 DE MAYO DE 2024.
 P.O. 20 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1030 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 340 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 9 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACTIVACIÓN FÍSICA MEDIANTE EL USO DE HERRAMIENTAS TECNOLÓGICAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
