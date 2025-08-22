@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2025-08-07"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -376,6 +376,10 @@ IV. Conducir la política estatal en materia de cultura y biocultura, para lo cu
 V. Coordinar la agenda digital cultural y el desarrollo de plataformas digitales con la participación de todos los actores de la sociedad;
 
 VI. Desarrollar plataformas digitales de acceso al patrimonio y las expresiones culturales de Hidalgo para su difusión;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+VI Bis. Desarrollar una plataforma digital pública y accesible, que concentre, sistematice y difunda información histórica, documental y visual sobre el patrimonio cultural del Estado, con el fin de promover el conocimiento, preservación y apropiación cultural del mismo;
 
 VII. Desarrollar estrategias de innovación abierta que favorezcan la creación de laboratorios especializados de políticas públicas culturales;
 
@@ -1312,5 +1316,11 @@ P.O. 6 DE AGOSTO DE 2025.
 P.O. 7 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 311 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI; Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 5 DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DE ACCESO EFECTIVO A LOS DERECHOS CULTURALES DE LA NIÑEZ Y LA ADOLESCENCIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 336 - LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 14 DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DE DIFUSIÓN DIGITAL DEL PATRIMONIO CULTURAL".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
