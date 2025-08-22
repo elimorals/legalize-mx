@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2025-07-03"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1603,7 +1603,9 @@ Además, en su caso, se impondrá al agente la suspensión del empleo, cargo o c
 
 Al que, con motivo del manejo de vehículos, prive de la vida a otro, conduciendo en estado de ebriedad o bajo el influjo de estupefacientes o cualquier otra sustancia que cause similares efectos y tal violación de deber de cuidado de la gente haya sido la causa determinante de la producción del resultado típico, se le impondrá de cuatro a diez años de prisión y multa de hasta 200 veces el valor diario de la unidad de medida y actualización, sin perjuicio de lo establecido por los artículos siguientes del presente capítulo.
 
-Aunado a las penas que correspondan por el delito de lesiones y homicidio causados conduciendo en estado de ebriedad o bajo el influjo de estupefacientes o cualquier otra sustancia que cause similares efectos, se impondrá al responsable la suspensión de su licencia vigente para conducir vehículos automotores expedida por cualquier instancia o la inhabilitación para obtenerla, suspensión o inhabilitación que podrá ser por una temporalidad de dos a diez años.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2025)</small>
+
+Aunado a las penas que correspondan por el delito de lesiones y homicidio causados conduciendo en estado de ebriedad o bajo el influjo de estupefacientes o cualquier otra sustancia que cause similares efectos, se impondrá al responsable la suspensión de su licencia vigente para conducir vehículos automotores expedida por cualquier instancia o la inhabilitación para obtenerla, hasta por un tiempo igual al de la pena de prisión impuesta.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -5086,3 +5088,9 @@ P.O. 3 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 278 - LXVI QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, EL PRIMER PÁRRAFO DEL ARTÍCULO 322 Y SU FRACCIÓN XXXIII; Y SE ADICIONA LA FRACCIÓN XXXIV DEL ARTÍCULO 322, DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 348 – LXVI QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 149 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
