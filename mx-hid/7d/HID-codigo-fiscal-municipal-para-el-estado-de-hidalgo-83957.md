@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2023-05-30"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -262,6 +262,10 @@ Las autoridades fiscales mediante disposiciones administrativas podrán autoriza
 ###### ARTÍCULO 29.
 
 El proyecto de Ley de Ingresos de cada Ayuntamiento, se formulará y aprobará por éste, en el mes de septiembre de cada año y se remitirá mediante la iniciativa correspondiente al Congreso del Estado, a más tardar el primer día hábil del mes de octubre, para su análisis, modificación y aprobación, en su caso.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2025)</small>
+
+Para el caso del primer año de la administración municipal, por única ocasión la persona titular de la Presidencia Municipal enviará la Iniciativa de Ley de Ingresos al Congreso del Estado, a más tardar el segundo lunes del mes de octubre.
 
 ###### ARTÍCULO 30.
 
@@ -3414,3 +3418,9 @@ P.O. 30 DE MAYO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PRESENTACIÓN DE INICIATIVAS DE LEYES DE INGRESOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
