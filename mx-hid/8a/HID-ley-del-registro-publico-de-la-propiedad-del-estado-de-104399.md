@@ -4,7 +4,7 @@ identifier: "HID-ley-del-registro-publico-de-la-propiedad-del-estado-de-104399"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-22"
-last_updated: "2025-03-12"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance Dos del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -66,6 +66,10 @@ La presente Ley tiene por objeto establecer las disposiciones legales que regule
 ###### ARTÍCULO 3.
 
 El Registro Público de la Propiedad, por conducto de las Oficinas Registrales, es la institución encargada de permitir a las personas que lo soliciten que se enteren, en los términos que señale el Reglamento de la presente Ley, de los asientos que obren en los libros del Registro Público y de los documentos relacionados con las inscripciones que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro Público, así como certificaciones de existir o no, asiento de ninguna especie o especie determinada sobre bienes señalados o a nombre de cierta persona, así mismo de cumplir con la función de publicitar la situación jurídica de los bienes y derechos en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2025)</small>
+
+El Registro privilegiará proporcionar orientación y asesoría a toda persona interesada sobre los trámites y servicios que éste presta, la cual deberá ser oportuna, gratuita y accesible. La orientación podrá ser brindada por cualquier medio disponible, y procurará otorgarse en un lenguaje claro y comprensible para las personas usuarias.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
@@ -1452,5 +1456,11 @@ SEGUNDO. El Titular del Ejecutivo del Estado expedirá el Reglamento de la prese
 P.O. 12 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 196 - LXVI POR EL QUE SE REFORMA EL ARTÍCULO 112 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, EN MATERIA DE AVISOS PREVENTIVOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 344 - LXVI POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, EN MATERIA DE ORIENTACIÓN A LAS PERSONAS USUARIAS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
