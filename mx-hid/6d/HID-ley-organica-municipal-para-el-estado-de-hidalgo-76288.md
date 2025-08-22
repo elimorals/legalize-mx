@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2025-08-07"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1125,6 +1125,10 @@ b. Los establecimientos mercantiles en los que se ejecute, represente, explote o
 
 k BIS).- Regular el funcionamiento y alentar el establecimiento, atendiendo su función de fomento al pleno ejercicio de los derechos culturales, de centros culturales, casas de cultura y foros escénicos. Para esos efectos, el Ayuntamiento podrá establecer los estímulos y apoyos que lo propicien;
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2025)</small>
+
+k TER) Reglamentar, conforme a su competencia, las actividades en materia de estacionamientos en el municipio.
+
 l).- Normar el establecimiento de mercados, tianguis y ferias, en su ámbito de competencia;
 
 m).- Reglamentar, conforme a su competencia, las actividades mercantiles en la vía pública;
@@ -1174,6 +1178,10 @@ t).- A más tardar, noventa días hábiles posteriores a la toma (sic) posesión
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
 u).- Elegir y designar por mayoría de votos a la persona titular del Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2025)</small>
+
+v).- Implementar acciones para la inclusión de personas jóvenes a su plantilla laboral.
 
 III.- Las demás que le concedan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las leyes que de ellas emanen. A tal efecto y en el ámbito de su competencia, la Legislatura del Estado, tomará en cuenta las condiciones territoriales y socioeconómicas del Municipio y su capacidad técnica, administrativa y financiera.
 
@@ -1358,6 +1366,10 @@ p).- Solicitar la expropiación de bienes por causa de utilidad pública, como l
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2022)</small>
 
 q) Formular anualmente, con apoyo de la Tesorería Municipal, la iniciativa de la Ley de Ingresos y remitirla al Congreso del Estado para su aprobación, a más tardar el primer día hábil del mes de octubre;
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2025)</small>
+
+Para el caso del primer año de la administración municipal, por única ocasión la persona titular de la Presidencia Municipal enviará la Iniciativa de Ley de Ingresos al Congreso del Estado, a más tardar el segundo lunes del mes de octubre.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
 
@@ -2243,9 +2255,17 @@ En la proyección del ingreso a que se refiere el párrafo anterior, la Tesorer�
 
 Cuando en la iniciativa de Ley de Ingresos, el Ayuntamiento proponga la creación de nuevos conceptos y cuotas o el incremento de aquellos ya establecidos, que puedan ocasionar un perjuicio económico a los contribuyentes, señalará dentro de la exposición de motivos la necesidad de los mismos, a fin de auxiliar al Congreso del Estado, en su análisis y discusión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2025)</small>
 
-En el último año del periodo de administración municipal, la persona titular de la Presidencia Municipal y la persona titular de la Tesorería de cada Municipio, elaborarán el proyecto de la Iniciativa de Ley de Ingresos para el ejercicio fiscal siguiente; el Ayuntamiento entrante podrá considerar el proyecto o en su caso construir uno nuevo, siempre y cuando se cumpla con los términos establecidos en las disposiciones aplicables.
+En el último año del periodo de administración municipal, la persona titular de la Presidencia Municipal y la persona titular de la Tesorería de cada Municipio, elaborarán el proyecto de la Iniciativa de Ley de Ingresos para el ejercicio fiscal siguiente; el Ayuntamiento entrante podrá considerar el proyecto o en su caso elaborar uno nuevo. Para lo cual en este único periodo el ayuntamiento entrante contara con los términos siguientes:
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+I. Para la presentación de la Iniciativa de Ley de Ingresos por parte de la persona titular de la Presidencia Municipal al ayuntamiento, se realizará a más tardar el tercer lunes del mes de septiembre del año anterior al de su ejercicio.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+II. En el caso de la aprobación de dicha iniciativa por parte del ayuntamiento, se hará a más tardar el último día del mes de septiembre de ese mismo año.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE JUNIO DE 2022)</small>
 
@@ -3037,13 +3057,17 @@ IV.- Llevar a cabo el procedimiento administrativo para imponer sanciones por in
 
 V.- Autorizar las licencias y permisos de funcionamiento y cuidar que se paguen las contribuciones respectivas al Municipio;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-VI.- Regular el comercio establecido y los establecimientos mercantiles, así como la autorización de espectáculos públicos en el Municipio, para tal efecto el solicitante deberá presentar consentimiento expreso de las Sociedades de Gestión Colectiva respectivas, tratándose de espectáculos públicos o establecimientos mercantiles en los que se ejecute, represente, explote o de cualquier otra forma se comuniquen públicamente obras musicales protegidas por la Ley Federal del Derecho de Autor; y
+VI.- Regular el comercio establecido y los establecimientos mercantiles, así como la autorización de espectáculos públicos en el Municipio, para tal efecto el solicitante deberá presentar consentimiento expreso de las Sociedades de Gestión Colectiva respectivas, tratándose de espectáculos públicos o establecimientos mercantiles en los que se ejecute, represente, explote o de cualquier otra forma se comuniquen públicamente obras musicales protegidas por la Ley Federal del Derecho de Autor;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+VII.- Vigilar el cumplimiento del reglamento en materia de estacionamientos en el municipio; y
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VII.- Vigilar que (sic) los espectáculos públicos y los establecimientos mercantiles, no se lleven a cabo conductas discriminatorias, o que violen los derechos humanos de las personas, atribuibles a las personas titulares de las licencias o permisos de funcionamiento o espectáculos, o de sus trabajadoras o trabajadores, así como que cuenten con la autorización a que hace referencia el inciso k de la fracción II del artículo 56 de la presente Ley
+VIII.- Vigilar que (sic) los espectáculos públicos y los establecimientos mercantiles, no se lleven a cabo conductas discriminatorias, o que violen los derechos humanos de las personas, atribuibles a las personas titulares de las licencias o permisos de funcionamiento o espectáculos, o de sus trabajadoras o trabajadores, así como que cuenten con la autorización a que hace referencia el inciso k de la fracción II del artículo 56 de la presente Ley
 
 Los Titulares de Reglamentos y Espectáculos deberán orientar a los solicitantes respecto del lugar en donde podrán solicitarlo.
 
@@ -5284,5 +5308,23 @@ P.O. 6 DE AGOSTO DE 2025.
 P.O. 7 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 317 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PREVENCIÓN, CUIDADO Y DIFUSIÓN DE LA CULTURA DEL AGUA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PRESENTACIÓN DE INICIATIVAS DE LEYES DE INGRESOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 329 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE ESTACIONAMIENTOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 331 - LXVI POR EL QUE SE ADICIONA EL INCISO V) A LA FRACCIÓN II DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN DE PERSONAS JÓVENES A LA PLANTILLA LABORAL DE LOS AYUNTAMIENTOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
