@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2024-05-17"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de septiembre de 2015.
 
@@ -511,11 +511,9 @@ En el caso de licitaciones públicas que utilicen la evaluación de puntos y por
 
 Asimismo, se otorgarán puntos a personas con discapacidad o a la empresa que cuente con trabajadores con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses, misma que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2025)</small>
 
-También se otorgarán puntos a las micros, pequeñas o medianas empresas (sic)
-
-(sic) que produzcan bienes con innovación tecnológica y el uso de tecnologías limpias conforme a las constancias correspondientes emitidas por el Instituto Mexicano de la Propiedad Industrial y por la Secretaría de Medio Ambiente y Recursos Naturales, las cuales no podrán tener una vigencia mayor a cinco años. De igual manera, se otorgarán puntos a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto. De la misma forma, se otorgarán puntos a las empresas que cuenten con una política de integridad.
+También se otorgarán puntos a las micros, pequeñas o medianas empresas que produzcan bienes con innovación tecnológica y el uso de tecnologías limpias conforme a las constancias correspondientes emitidas por el Instituto Mexicano de la Propiedad Industrial y por la Secretaría de Medio Ambiente y Recursos Naturales, las cuales no podrán tener una vigencia mayor a cinco años. De igual manera, se otorgarán puntos a las empresas que se encuentren constituidas por mujeres con registro emitido conforme a las disposiciones jurídicas aplicables, o hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto. De la misma forma, se otorgarán puntos a las empresas que cuenten con una política de integridad.
 
 Los criterios para el otorgamiento de puntos y porcentajes se establecerán en el Reglamento de esta Ley.
 
@@ -1530,5 +1528,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 P.O. 17 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 891 POR EL QUE SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 31 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 324 – LXVI POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 33 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO, EN MATERIA DE ELEVACIÓN DE PUNTOS DENTRO DE LAS LICITACIONES PÚBLICAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
