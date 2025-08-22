@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2024-04-04"
+last_updated: "2025-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -435,13 +435,17 @@ XVIII.- Competitividad: Conjunto de condiciones necesarias para generar un mayor
 
 XIX.- Bienestar: Satisfacción de las necesidades básicas de las personas que se expresan en los niveles de educación, salud, alimentación, seguridad social, vivienda, desarrollo urbano y medio ambiente;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-XX.- Desarrollo humano: El proceso mediante el cual se generan, fomentan y fortalecen las oportunidades y posibilidades de las personas para desplegar sus potencialidades y capacidades humanas, para el logro de un mejoramiento y realización personal y de la sociedad en su conjunto; y
+XX.- Desarrollo humano: El proceso mediante el cual se generan, fomentan y fortalecen las oportunidades y posibilidades de las personas para desplegar sus potencialidades y capacidades humanas, para el logro de un mejoramiento y realización personal y de la sociedad en su conjunto;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
 
-XXI.- Igualdad sustantiva: Mejora progresiva de la distribución de la riqueza, el ingreso y la propiedad, en el acceso al conjunto de los bienes públicos, en la capacidad de incidencia en las decisiones públicas y el abatimiento de las grandes desigualdades entre personas, familias, grupos sociales y ámbitos territoriales.
+XXI.- Igualdad sustantiva: Mejora progresiva de la distribución de la riqueza, el ingreso y la propiedad, en el acceso al conjunto de los bienes públicos, en la capacidad de incidencia en las decisiones públicas y el abatimiento de las grandes desigualdades entre personas, familias, grupos sociales y ámbitos territoriales, y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+
+XXII.- Progresividad y no regresividad: Buscará ampliar la esfera de pleno goce de los derechos humanos, sin que se puedan tomar medidas regresivas salvo que se justifiquen éstas, según lo que más favorezca a la persona.
 
 ###### Artículo 15.
 
@@ -1370,5 +1374,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 P.O. 4 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 822 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 13 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 335 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 14 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, EN MATERIA DE PROGRESIVIDAD DE POLÍTICA SOCIAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
