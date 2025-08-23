@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1743
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-09-07"
-last_updated: "2024-12-04"
+last_updated: "2025-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2025.
 
 Ley publicada en el Suplemento 6 al Número 72 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de septiembre de 2024.
 
@@ -371,7 +371,7 @@ Atribuciones Poder Judicial
 
 Las atribuciones de la Legislatura con relación al Poder Judicial son:
 
-I. Designar a las magistradas y magistrados del Tribunal Superior de Justicia del Estado, de entre la terna que someta a su consideración el Ejecutivo del Estado.
+I. (DEROGADA, P.O. 23 DE AGOSTO DE 2025)
 
 La Legislatura rechazará la terna cuando alguno o la totalidad de quienes la integren no cumplan con los requisitos de elegibilidad o cuando vulnere el principio de paridad de género en la integración del pleno del Tribunal;
 
@@ -399,7 +399,7 @@ III. Designar a la persona titular de la Fiscalía General de Justicia del Estad
 
 IV. Designar a la persona titular de la Comisión de Derechos Humanos del Estado, así como a sus consejeras y consejeros;
 
-V. Nombrar a las comisionadas y comisionados del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, así como designar integrantes para su Consejo Consultivo, y
+V. (DEROGADA, P.O. 23 DE AGOSTO DE 2025)
 
 VI. Designar a las personas titulares de los órganos internos de control de los organismos públicos autónomos.
 
@@ -1769,7 +1769,9 @@ Presidencia
 
 La Junta de Coordinación Política se integrará por una Presidencia y las Secretarías que correspondan.
 
-La Presidencia a que se refiere el párrafo inmediato anterior será electa de entre las diputadas y diputados que conforman la Junta de Coordinación Política, será rotativa y se integrará de acuerdo con el principio de paridad de género; se respetará la proporcionalidad en la representación de los grupos parlamentarios. Se renovará cada año legislativo conforme al calendario y en el orden que por acuerdo determine el Pleno.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2025)</small>
+
+La Presidencia a que se refiere el párrafo inmediato anterior será electa de entre las diputadas y diputados que conforman la Junta de Coordinación Política, podrá ser rotativa y se integrará de acuerdo con el principio de paridad de género; se respetará la proporcionalidad en la representación de los grupos parlamentarios. Se renovará cada año legislativo conforme al calendario y en el orden que por acuerdo determine el Pleno.
 
 Atribuciones
 
@@ -2687,7 +2689,7 @@ V. Para que se concedan amnistías en circunstancias extraordinarias; en este ca
 
 VI. A efecto de que se diriman en la vía conciliatoria los conflictos políticos entre los Poderes Ejecutivo y Judicial, de los municipios entre sí y de éstos con los poderes estatales;
 
-VII. Del nombramiento de las magistradas y magistrados del Tribunal Superior de Justicia;
+VII. (DEROGADA, P.O. 23 DE AGOSTO DE 2025)
 
 VIII. De la designación de las magistradas y magistrados del Tribunal de Justicia Laboral Burocrática;
 
@@ -3420,3 +3422,19 @@ Supletoriedad
 ###### ARTÍCULO QUINTO.
 
 En tanto no se modifique el marco jurídico del estado de Zacatecas, para homologar los tipos de votación específica a que se refiere el artículo 91 de la Ley Orgánica del Poder Legislativo del Estado de Zacatecas, se entenderá por Mayoría Relativa, a la mitad más uno de las diputadas y diputados presentes; mientras que para este mismo efecto, se entenderá por Mayoría Absoluta, a la emitida por las dos terceras partes de las diputadas y diputados que integran la legislatura.
+
+P.O. 23 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 135.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS Y AL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el pleno de la Honorable Sexagésima Quinta Legislatura del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
