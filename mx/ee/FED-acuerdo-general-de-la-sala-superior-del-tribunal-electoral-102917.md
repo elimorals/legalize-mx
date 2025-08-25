@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-sala-superior-del-tribunal-electoral-1029
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-10-22"
-last_updated: "2017-10-30"
+last_updated: "2025-08-25"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102917&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-10-13"
 ---
 # ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION 4/2014, DE VEINTINUEVE DE SEPTIEMBRE DE DOS MIL CATORCE, POR EL QUE SE APRUEBAN LAS REGLAS APLICABLES A LOS PROCEDIMIENTOS ESPECIALES SANCIONADORES COMPETENCIA DE LA SALA REGIONAL ESPECIALIZADA Y SUS IMPUGNACIONES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL 2/2025 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 25 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN 4/2014, DE VEINTINUEVE DE SEPTIEMBRE DE DOS MIL CATORCE, POR EL QUE SE APRUEBAN LAS REGLAS APLICABLES A LOS PROCEDIMIENTOS ESPECIALES SANCIONADORES COMPETENCIA DE LA SALA REGIONAL ESPECIALIZADA Y SUS IMPUGNACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2025 (SIN EFECTOS).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de octubre de 2014.
 
@@ -136,3 +138,23 @@ D.O.F. 30 DE OCTUBRE DE 2017.
 PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis Relevantes en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, en los estrados de la Sala Superior y de las Salas Regionales, y en las páginas de Internet e Intranet de este órgano jurisdiccional.
+
+D.O.F. 25 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 2/2025 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, POR EL QUE SE APRUEBAN LAS REGLAS APLICABLES A LOS PROCEDIMIENTOS ESPECIALES SANCIONADORES COMPETENCIA DE LA SALA SUPERIOR".]
+
+PRIMERO. El presente acuerdo entrará en vigor el uno de septiembre de dos mil veinticinco.
+
+SEGUNDO. Los acuerdos generales 4/2014 y 11/2017 quedarán sin efectos el uno de septiembre de dos mil veinticinco, derivado de la extinción de la Sala Regional Especializada.
+
+TERCERO. La Secretaría Administrativa; la Dirección General de Mantenimiento y Servicios Generales; la Dirección General de Recursos Financieros; y la Dirección General de Recursos Humanos llevarán a cabo las acciones necesarias para la ubicación del personal que integre la UEPES. Todas las adecuaciones necesarias deberán realizarse con la debida oportunidad a fin de que previo al uno de septiembre de esta anualidad este instalada la UEPES.
+
+CUARTO. La Dirección General de Sistemas verificará el estado actual del SIPES y del SISGA, y realizará las modificaciones necesarias a la configuración del sistema a fin de que resulte operativo para la UEPES y las ponencias de la Sala Superior, pueda generar los reportes estadísticos que sean necesarios, así como para que se establezca la óptima comunicación con el Instituto Nacional Electoral.
+
+QUINTO. El Tribunal Electoral del Poder Judicial de la Federación y el Instituto Nacional Electoral, deberán modificar el convenio de apoyo y colaboración celebrado en 2014, vinculado con la creación del SIPES y SIQyD, para el intercambio de información relacionada con los procedimientos especiales sancionadores, el acceso de ambas instituciones al expediente electrónico que se forme, así como la emisión de avisos recíprocos sobre todas las actuaciones que respecto de su instrucción y resolución emitan.
+
+SEXTO. Los expedientes sin resolver que al momento de la extinción de la Sala Regional Especializada se encuentren en alguna de sus ponencias, la Secretaría de Acuerdos Regional o la Unidad Especializada, serán turnados a las ponencias de la Sala Superior.
+
+Asimismo, las asignaciones preliminares que se hayan realizado a las ponencias de la Sala Regional Especializada, respecto de los asuntos que se encuentren en instrucción en el Instituto Nacional Electoral, serán reasignados a las ponencias de la Sala Superior.
+
+SÉPTIMO. Para su debido conocimiento, publíquese en el Diario Oficial de la Federación, en los estrados de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación, así como en las páginas institucionales de Internet e Intranet de este Tribunal Electoral.
