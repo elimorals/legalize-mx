@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2025-05-19"
+last_updated: "2025-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -18815,9 +18815,13 @@ XXXIV. Permiso.- Acto Administrativo por el cual el Municipio, autoriza la activ
 
 XXXV. Reincidencia.- Comisión de una conducta de manera reiterada violando las disposiciones del presente Código dos o más veces, dentro de un periodo de seis meses, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
 
-XXXVI. (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2024)
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXXVII], P.O. 25 DE AGOSTO DE 2025)</small>
 
-XXXVII. Titular de Licencia y/o Permiso.- Persona física o moral a quien se le haya expedido a su nombre una licencia o permiso para ejercer cualquier actividad de las establecidas en el Libro Séptimo del presente Código; y
+XXXVI. Titular de Licencia y/o Permiso.- Persona física o moral a quien se le haya expedido a su nombre una licencia o permiso para ejercer cualquier actividad de las establecidas en el Libro Séptimo del presente Código;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2025)</small>
+
+XXXVII. Vino generoso.- El referido en el artículo 3 fracción XII de la Ley de Fomento a la Industria Vitivinícola; y
 
 XXXVIII. Zona de Tolerancia.- Área urbana delimitada, donde se ejerce la prostitución.
 
@@ -18842,6 +18846,10 @@ ARTÍCULO 1294 BIS.- Sólo podrá realizarse, la venta y/o consumo y/o promoció
 Las personas titulares, de las licencias o permisos que se expiden conforme a las disposiciones del presente Título, serán responsables directos de sus: establecimientos, personal contratado, terceras personas con una relación de subordinación con su titular; por las contravenciones que realicen a las disposiciones del presente Código, por lo cual se sujetarán a las sanciones y procedimientos que se establezcan en el presente Código y demás ordenamientos jurídicos aplicables a la materia.
 
 A ninguna persona se le podrá obligar para que pertenezca a alguna organización, asociación o empresa, pague cuotas o aportaciones, pague sumas por cualquier concepto a persona o empresa alguna o se obligue a vender o no vender en favor de algún interés, como condición o requisito para que pueda disfrutar o explotar una licencia o permiso que regula el presente Libro.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2025)</small>
+
+El Municipio podrá otorgar descuentos o exenciones en el pago de derechos para la obtención de licencias o permisos, sujeto al cumplimiento de condiciones o requisitos que se establezcan en la ley de ingresos del Municipio de Aguascalientes o en las bases generales para su otorgamiento, aplicables en el ejercicio fiscal que corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
@@ -19261,7 +19269,9 @@ c) Billares: Todo establecimiento que cuenta con mesas de billar y de juegos de 
 
 d) Cafetería: Es todo establecimiento en el que se realizan actividades de carácter artístico y cultural, con venta de café preparado en diferente modalidades y en forma accesoria cerveza, licores o vinos generosos al copeo únicamente con alimentos, para consumir dentro del establecimiento;
 
-e) Birrieria, Cenaduría, Fonda, Lonchería, Marisquería, Ostionería, Rosticerías, Pizzerías, Taquería o similares: Aquellos establecimientos, en los que de forma accesoria a la venta de sus alimentos preparados se vende y consume cerveza o vinos de mesa dentro del mismo local;
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2025)</small>
+
+e) Birrieria, Cenaduría, Fonda, Lonchería, Marisquería, Ostionería, Rosticerías, Pizzerías, Taquería o similares: Aquellos establecimientos, en los que de forma accesoria a la venta de sus alimentos preparados se vende y consume cerveza o vinos generosos dentro del mismo local;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
@@ -19627,11 +19637,11 @@ Toda licencia es personal, podrá solicitarse cambio de titular en los casos de 
 
 ARTÍCULO 1304 BIS.- Los permisos y licencias que se otorguen conforme a las disposiciones del presente Título, serán de duración temporal. Las licencias especiales o reglamentadas tendrán una vigencia anual y los permisos durante el tiempo especificado por la autoridad para tal efecto.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 1305.
 
-Todas las licencias reglamentadas deberán ser renovadas anualmente a más tardar el treinta y uno de marzo de cada año calendario siguiente, en caso de no renovarse en el plazo señalado, se procederá a la suspensión provisional por lo que se refiere a la venta y/o consumo de bebidas alcohólicas, hasta en tanto no regularice sus adeudos. Se exceptúa de lo anterior las personas titulares de las licencias, que hubiesen realizado convenio con la Secretaría de Finanzas Públicas en tiempo y forma una vez autorizado por la dependencia.
+Todas las licencias reglamentadas deberán ser renovadas anualmente a más tardar el treinta y uno de marzo de cada año calendario siguiente, en caso de no renovarse en el plazo señalado, se procederá a la suspensión provisional por lo que se refiere a la venta y/o consumo de bebidas alcohólicas, hasta en tanto no regularice sus adeudos. Se exceptúa de lo anterior los casos previstos en la ley de ingresos del municipio de Aguascalientes del ejercicio fiscal que corresponda, así como las personas titulares de las licencias, que hubiesen realizado convenio con la Secretaría de Finanzas Públicas en tiempo y forma una vez autorizado por la dependencia.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -20130,6 +20140,10 @@ XIX. Respetar cualquiera de las limitaciones que le impone este Título, al giro
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 XX. Deberán colocar en el exterior del establecimiento un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañado del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2025)</small>
+
+XXI. No simular el cumplimiento de condiciones para acceder a descuentos o exenciones en el pago de derechos en licencias y, en su caso, comercializar o brindar bienes y servicios cumpliendo ininterrumpidamente esas condiciones.
 
 Todo Centro Comercial, tiene la obligación de contar con el servicio de seguridad; por lo cual deberá contratar el servicio de seguridad privada y/o pagar los derechos por los servicios que presta la Secretaría de Seguridad Pública del Municipio de Aguascalientes; por lo cual deberá tener el número suficiente de integrantes operativos y en su caso de los vehículos necesarios para otorgar el servicio de vigilancia, garantizando la seguridad de las personas y de sus bienes al interior del inmueble.
 
@@ -23355,13 +23369,21 @@ En caso de que alguna notificación no haya sido realizada de conformidad con el
 
 Corresponde a la administración municipal a través de sus dependencias:
 
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR A LA FRACCIÓN II.]</small>
+
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 I. Ejercer actos de inspección y verificación en el ámbito de su competencia, y por conducto de sus inspectores vigilar el estricto cumplimiento de las disposiciones del presente código, así como de los demás reglamentos y leyes municipales;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR A LA FRACCIÓN I.]</small>
 
-II. La vigilancia sobre el cumplimiento de las disposiciones señaladas, la cual estará a cargo de cada unidad administrativa en el ámbito de su competencia, contando con un cuerpo de inspectores y verificadores y demás servidores públicos que sean habilitados para tales efectos, por lo que contarán con las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE AGOSTO DE 2025)</small>
+
+II. Ejercer actos de inspección y verificación en el ámbito de su competencia, y por conducto de sus inspectores vigilar el estricto cumplimiento de las disposiciones del presente código, así como de los demás reglamentos y leyes municipales.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2025)</small>
+
+En caso de que, durante el ejercicio de sus funciones, los verificadores adviertan la posible comisión de un delito o detecten alguna actividad presumiblemente ilegal, deberán dar vista de inmediato a la autoridad competente, a efecto de que se inicien las investigaciones correspondientes y se determine lo conducente conforme a derecho;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
@@ -23434,6 +23456,10 @@ VIII. Nombre y firma de la autoridad de la cual emana la determinación de inici
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
 IX. Autorización del uso de la fuerza pública en caso de que se requiera o que se nieguen u obstaculicen la ejecución de la verificación.
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2025)</small>
+
+X. En su caso, la descripción de hechos que pudieran constituir la posible comisión de un delito o actividad presumiblemente ilegal, así como la constancia de que se dio aviso inmediato a la autoridad correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
 
@@ -23719,9 +23745,11 @@ VI. Por incurrir en alguna de las prohibiciones establecidas, en el Título Prim
 
 VII. Enajenar la licencia o permiso que le fue otorgada al titular en términos del presente Código, sin la autorización previa de la autoridad municipal correspondiente;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2025)</small>
 
-VIII. No realizar los pagos correspondientes de los adeudos existentes con el Municipio de Aguascalientes;
+VIII. No realizar los pagos correspondientes de los adeudos existentes con el Municipio de Aguascalientes.
+
+Tratándose de licencias reglamentadas también procede la cancelación cuando su titular simule el cumplimiento de condiciones para acceder a descuentos o exenciones en el pago de derechos para obtener esas licencias o, en su caso, el establecimiento comercialice o brinde bienes y servicios incumpliendo esas condiciones;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -26426,3 +26454,15 @@ P.O. 19 DE MAYO DE 2025.
 PRIMERO.- Las presentes reformas, adiciones y derogaciones, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Municipio, por conducto de la Secretaría de Medio Ambiente y Desarrollo Sustentable, de la Secretaría de Servicios Públicos y de la Secretaría de Desarrollo Urbano, se coordinará con vecinos de todo tipo de fraccionamientos y condominios donde sus áreas verdes no se ajusten a las características establecidas en el Reglamento de Protección al Medio Ambiente y Manejo de Áreas Verdes del Municipio de Aguascalientes, con el propósito de ejecutar acciones a fin de colocar el arbolado y jardinería necesarios para cumplir con las exigencias de dicho Reglamento.
+
+P.O. 25 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO POR EL QUE SE REALIZA LA “ADICIÓN DE UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 1542, ASÍ COMO LA ADICIÓN DE UNA FRACCIÓN X AL ARTÍCULO 1546 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, EN MATERIA DE REGULAR LAS FACULTADES DE LOS VERIFICADORES DEL MUNICIPIO”.]
+
+PRIMERO.- Entrará en vigor al día siguiente de su publicación en el Periódico Oficial en el Estado de Aguascalientes.
+
+P.O. 25 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA A DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, PARA REGULAR EL OTORGAMIENTO DE EXENCIONES O DESCUENTOS EN LICENCIAS REGLAMENTADAS".]
+
+ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
