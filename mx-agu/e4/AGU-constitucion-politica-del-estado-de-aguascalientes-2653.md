@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2025-07-21"
+last_updated: "2025-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -126,6 +126,10 @@ Los ascendientes, tutores y custodios, tienen la obligación de preservar y exig
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
 El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2025)</small>
+
+Toda persona tiene derecho a cuidar, ser cuidada y al autocuidado. Para aquellas personas en situación de dependencia, que requieran de cuidados intensos o extensos y/o especializados, el Estado protegerá y garantizará que los cuidados sean proporcionados en condiciones dignas y de calidad.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
@@ -4696,3 +4700,15 @@ P.O. 21 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Político (sic) del Estado de Aguascalientes.
+
+P.O. 25 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 237.- SE ADICIONA UN PÁRRAFO SEXTO, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 4º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos legales del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento a las disposiciones del presente Decreto, las autoridades en el Estado, deberán llevar a cabo las adecuaciones normativas necesarias, en un término que no exceda de 180 días hábiles posteriores a su entrada en vigor.
