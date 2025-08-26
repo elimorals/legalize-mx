@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-colegio-de-bachilleres-del-estado-de-9493
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-06-19"
-last_updated: "2013-06-19"
+last_updated: "2025-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025 (DEROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de junio de 2013.
 
@@ -996,3 +998,25 @@ SEGUNDO. A partir de la aprobación por la Junta Directiva del presente Estatuto
 TERCERO. Se abrogan todas aquellas disposiciones administrativas relativas al Colegio que se opongan a lo previsto en este instrumento.
 
 Aprobado por la Junta Directiva en su LII Reunión Ordinaria de fecha de 06 de marzo del dos mil trece, en ciudad Victoria, Capital del Estado de Tamaulipas, Estados Unidos Mexicanos.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Estatuto Orgánico del Colegio de Bachilleres del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado, Número 74, de fecha 19 de junio de 2013, así como todas aquellas disposiciones normativas relativas al Colegio que se opongan a lo previsto en este instrumento.
+
+###### ARTÍCULO TERCERO.
+
+El presento Estatuto Orgánico deberá inscribirse en el Registro Estatal de Organismos Descentralizados.
+
+###### ARTÍCULO CUARTO.
+
+Las funciones de las o los servidores públicos titulares de las unidades administrativas que conforman el Colegio de Bachilleres del Estado de Tamaulipas, estarán previstas en el Manual de Organización, que será publicado a los 60 días posteriores a la publicación del presente Estatuto.
