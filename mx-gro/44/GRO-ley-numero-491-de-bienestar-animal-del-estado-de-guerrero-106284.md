@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-491-de-bienestar-animal-del-estado-de-guerrero-10628
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2024-07-05"
+last_updated: "2025-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2014.
 
@@ -867,13 +867,21 @@ La persona que realice cualquier acto de crueldad o infrinja las prohibiciones d
 
 ### Capítulo XI. De la cría, venta y exhibición de animales
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 47.
 
-El Ejecutivo Estatal, en términos de la legislación que para el efecto emita, regulará los establecimientos mercantiles que se dediquen a la cría, albergue y compra- venta de animales domésticos.
+El Ejecutivo Estatal, en términos de la legislación que para el efecto emita, regulará los establecimientos mercantiles que se dediquen a la reproducción, crianza, albergue, exhibición, compraventa o adiestramiento de animales domésticos de compañía.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 48.
 
-Toda persona física o moral que se dedique a la cría, venta o adiestramiento de animales, está obligada a contar con la autorización correspondiente y a valerse de los procedimientos más adecuados y disponer de todos los medios necesarios, a fin de que los animales reciban un trato digno y respetuoso y mantengan un estado de bienestar de acuerdo con los adelantos científicos en uso, cumpliendo con las normas oficiales mexicanas correspondientes.
+Toda persona física o moral que se dedique a la reproducción, crianza, albergue, exhibición, compraventa o adiestramiento de animales domésticos o de compañía, está obligada a contar con la autorización correspondiente y a valerse de los procedimientos más adecuados y disponer de todos los medios necesarios, a fin de que los animales reciban un trato digno y respetuoso y mantengan un estado de bienestar de acuerdo con los adelantos científicos en uso, cumpliendo con las normas oficiales mexicanas correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+En la exhibición y/o venta deberá privilegiarse el uso de medios remotos o herramientas tecnológicas que eviten el contacto físico directo entre el animal para venta y el público interesado en su adquisición.
 
 La propiedad o posesión de cualquier animal obliga al poseedor a inmunizarlo contra enfermedades de riesgo zoonótico o epizoótico propias de la especie. Asimismo, a tomar las medidas necesarias con el fin de no causar molestias a sus vecinos por ruido y malos olores.
 
@@ -885,9 +893,11 @@ Toda persona física o moral que se dedique al adiestramiento de perros de segur
 
 La propiedad o posesión de cualquier animal destinado a la cría, venta o exhibición, obliga a tomar las medidas necesarias para asegurar y mantener las condiciones preventivas y terapéuticas de salud adecuadas de cada especie, por lo que deberá contar con la asesoría de un Médico Veterinario Zootecnista.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 51.
 
-Los lugares o locales donde se establezcan criaderos o enajenación de animales domésticos o de compañía deberán dar cumplimento a contar con lo siguiente:
+Los establecimientos autorizados dedicados a la reproducción, crianza, albergue, exhibición, compraventa y adiestramiento de animales domésticos o de compañía deberán dar cumplimento a contar con lo siguiente:
 
 I. Instalaciones adecuadas específicas;
 
@@ -895,7 +905,17 @@ II. Jaulas o compartimentos para el albergue de animales, las cuales deberán te
 
 III. Asesoría de un médico veterinario y un responsable que avale el bienestar de los animales, con el objeto de que las actividades mencionadas se realicen bajo condiciones de bienestar y se proporcionen a los animales los cuidados adecuados;
 
-IV. Medidas necesarias a fin de no causar molestias a sus vecinos por ruido y malos olores;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+IV. Medidas necesarias a fin de no causar molestias a sus vecinos por ruido y malos olores, y;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+V. Contar con al menos dos espacios físicos dentro de su establecimiento, para la exhibición de animales en adopción que sean propiedad de alguna asociación protectora de animales legalmente constituida, así como incluir en sus publicaciones en medios remotos o a través del uso de herramientas tecnológicas, la exhibición de los animales en adopción.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, P.O. 26 DE AGOSTO DE 2025]</small>
+
+Las medidas anteriormente señaladas deberán prever las condiciones adecuadas de espacio, seguridad, ventilación, iluminación y alimentación, así como aquellas necesarias para el resguardo de los animales en instalaciones durante los periodos en los que no se encuentren en exhibición para su comercialización.
 
 ###### Artículo 52.
 
@@ -1684,3 +1704,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales conducentes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 26 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 260 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación.
+
+SEGUNDO. Remítase el presente Decreto al Poder Ejecutivo del Estado para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, Portal Web de la Sexagésima Cuarta Legislatura del Honorable Congreso del Estado Libre y Soberano de Guerrero, redes sociales de los referidos y a través de los medios de comunicación para su difusión.
