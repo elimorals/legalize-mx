@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2025-05-24"
+last_updated: "2025-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -4497,13 +4497,17 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 
 A partir de la entrada en vigor del presente Decreto, se abroga la Ley Orgánica del Poder Judicial del Estado, expedida mediante Decreto No. 361 de fecha 13 de diciembre del 2000 y publicada en el Anexo al Periódico Oficial No. 135 del 19 de diciembre del 2000.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO TERCERO.
 
-Hasta en tanto las Magistradas y los Magistrados del Supremo Tribunal de Justicia de Tamaulipas, tomen protesta constitucional de sus cargos ante el Congreso del Estado Libre y Soberano de Tamaulipas, el 1º de octubre de 2025, el Poder Judicial del Estado continuará rigiéndose para todos los efectos por las atribuciones, competencias, obligaciones, reglas de votación, faltas, licencias y demás disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado, expedida mediante Decreto No. 361 del 13 de diciembre del 2000 y publicada en el Anexo al Periódico Oficial No. 135 del 19 de diciembre del 2000.
+Hasta en tanto las Magistradas y los Magistrados del Supremo Tribunal de Justicia de Tamaulipas, tomen protesta constitucional de sus cargos ante el Congreso del Estado Libre y Soberano de Tamaulipas, el 30 de septiembre de 2025 y entren en funciones el día 1° de octubre de 2025, el Poder Judicial del Estado continuará rigiéndose para todos los efectos por las atribuciones, competencias, obligaciones, reglas de votación, faltas, licencias y demás disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado, expedida mediante Decreto No. 361 del 13 de diciembre del 2000 y publicada en el Anexo al Periódico Oficial No.135 del 19 de diciembre del 2000.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Hasta en tanto los miembros del Tribunal de Disciplina Judicial tomen protesta de su encargo ante el Congreso del Estado Libre y Soberano de Tamaulipas, el 1º de octubre de 2025, y hasta en tanto sea creado el Órgano de Administración Judicial y sus integrantes inicien funciones con esa misma fecha, el Consejo de la Judicatura del Estado continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial.
+Hasta en tanto los miembros del Tribunal de Disciplina Judicial tomen protesta de su encargo ante el Congreso del Estado Libre y Soberano de Tamaulipas, el 30 de septiembre de 2025, para entrar en funciones el día 1° de octubre de 2025 y hasta en tanto sea creado el Órgano de Administración Judicial y sus integrantes inicien funciones con esa misma fecha, el Consejo de la Judicatura del Estado continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial.
 
 ###### ARTÍCULO QUINTO.
 
@@ -4539,4 +4543,14 @@ Hasta en tanto se crean los juzgados especializados en materia mercantil, seguir
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 382.- ÚNICO.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 83 OCTIES DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 26 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-381 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CATORCE DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 66-67, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EN FECHA 18 DE NOVIEMBRE DE 2024, QUE REFORMÓ, ADICIONÓ Y DEROGÓ DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO No. 66-330, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 24 DE MAYO DE 2025, POR EL QUE SE EXPIDIÓ LA NUEVA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que reforma el Artículo Segundo Transitorio del Decreto No. 66-67, publicado en el Periódico Oficial del Estado en fecha 18 de noviembre de 2024, que reformó, adicionó y derogó diversas disposiciones de la Constitución Política del Estado de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto que reforman los Artículos Tercero y Cuarto Transitorios del Decreto No. 66-330, publicado en el Periódico Oficial del Estado en fecha 24 de mayo de 2025, por el que se expidió la nueva Ley Orgánica del Poder Judicial del Estado de Tamaulipas, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor en los términos del Artículo Primero Transitorio del Decreto No. 66-330.
