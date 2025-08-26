@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2024-03-25"
+last_updated: "2025-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -59,9 +59,13 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 I. El Tribunal Superior de Justicia funcionando en Pleno y Salas;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-II. El Consejo de la Judicatura;
+II. El Tribunal de Disciplina Judicial del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+II. Bis. El Órgano de Administración Judicial del Estado.
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -103,9 +107,9 @@ XI. Los Juzgados de Administración de Justicia para adolescentes;
 
 XII. Los Juzgados de Ejecución de Medidas aplicables a adolescentes;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XIII. El Centro Estatal de Justicia Alternativa;
+XIII. Centro Estatal de Mecanismos Alternativos de Solución de Controversias
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE MARZO DE 2021)</small>
 
@@ -123,9 +127,9 @@ XVI. Juzgados Laborales;
 
 XVII. La Unidad de Igualdad de Género, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XVIII. El Tribunal de Justicia Administrativa.
+XVIII. Juzgado de Exhortos.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -145,7 +149,9 @@ V. Los albaceas e interventores de sucesiones, los tutores, curadores y notarios
 
 VI. Los depositarios e interventores;
 
-VII. Los jefes y agentes de la policía estatal, ministerial y municipal;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+VII. Los jefes y agentes de la policía estatal, de investigación y municipal;
 
 VIII. Los servidores públicos adscritos a la Dirección de Prevención y Readaptación Social;
 
@@ -181,15 +187,13 @@ Los auxiliares están obligados a cumplir las órdenes de las autoridades y func
 
 Todos los servidores públicos del Poder Judicial en el desempeño de sus actividades, se ajustarán a los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia, honestidad y eficiencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 3 Bis.
 
-Los servidores públicos del Poder Judicial deberán someterse y aprobar los exámenes de conocimientos o aptitudes, y en general de control y confianza según sea el caso, para el ingreso y permanencia en sus cargos. Asimismo, se sujetarán a un programa de evaluación permanente, establecido por el Consejo de la Judicatura.
+Los servidores públicos del Poder Judicial deberán someterse y aprobar los exámenes de conocimientos o aptitudes, y en general de control y confianza según sea el caso, para el ingreso y permanencia en sus cargos. Asimismo, se sujetarán a un programa de evaluación permanente, establecido por el Instituto de Especialización Judicial.
 
-Será causa de remoción o separación del cargo, no acreditar los exámenes de control de confianza a que sean sometidos por determinación del Consejo de la Judicatura.
+El ingreso, formación, permanencia y demás aspectos inherentes a las servidoras y los servidores públicos que pertenezcan al servicio de carrera judicial se sujetarán a la regulación establecida en las disposiciones jurídicas aplicables.
 
 ###### Artículo 4.
 
@@ -211,13 +215,11 @@ Queda prohibido a los funcionarios y empleados judiciales recibir cualquier mini
 
 Las actuaciones practicadas por los funcionarios del Poder Judicial tendrán validez desde el momento en que tomen posesión de su cargo y surtirán plenos efectos aún cuando, posteriormente, su nombramiento se revoque o no sea aprobado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+###### Artículo 4 Quater.
 
-###### Artículo 4 Quáter.
-
-Los titulares de los distintos órganos del Poder Judicial y los encargados de las Dependencias Administrativas, tendrán bajo su cuidado el local donde se halle instalada la oficina a su cargo, así como la conservación de los bienes que conformen el mobiliario del mismo, debiendo poner en inmediato conocimiento de la Secretaría Ejecutiva del Consejo de la Judicatura cualquier deterioro que sufran.
+Los titulares de los distintos órganos del Poder Judicial y los encargados de las Dependencias Administrativas, tendrán bajo su cuidado el local donde se halle instalada la oficina a su cargo, así como la conservación de los bienes que conformen el mobiliario del mismo, debiendo poner en inmediato conocimiento de la Secretaría Ejecutiva del Órgano de Administración Judicial cualquier deterioro que sufran.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
@@ -225,15 +227,9 @@ Los titulares de los distintos órganos del Poder Judicial y los encargados de l
 
 El Tribunal, las Salas, el Tribunal de Justicia Administrativa y los Juzgados funcionarán todos los días del año, a excepción de los sábados, domingos y días de descanso obligatorio. El horario normal de trabajo en las oficinas, será de las ocho a las quince horas. En casos necesarios, las y los Juzgadores podrán habilitar horas de oficina, conforme lo prevenga la Ley. En materia penal se estará a lo dispuesto en el Código Nacional de Procedimientos Penales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
-
 ###### Artículo 6.
 
-Los servidores públicos del Poder Judicial gozarán de dos períodos vacacionales anuales, en las fechas que señale el Consejo de la Judicatura, suspendiéndose los términos judiciales en dichos períodos. En materia de control constitucional y penal se establecerán guardias de servicio para conocer de asuntos urgentes y términos constitucionales.
-
-En ningún caso se podrán acumular las vacaciones correspondientes a más de dos años.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -243,13 +239,15 @@ En ningún caso se podrán acumular las vacaciones correspondientes a más de do
 
 Las autoridades judiciales rechazarán la intervención de las personas que carezcan de título o cédula de Licenciado en Derecho debidamente registrado, cuando comparezcan en calidad de apoderados generales o especiales de otro, cualquiera que sea el nombre con el que se les designe.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 6 Ter.
 
-Las autoridades judiciales podrán imponer por vía de corrección disciplinaria, multa hasta de veinte veces el salario mínimo, a los litigantes o a cualquier persona cuando en sus promociones o peticiones sean irrespetuosos para con ellas o sus colitigantes. Tratándose de jornaleros u obreros, la multa no podrá exceder de su jornal o salario de un día de trabajo.
+Todos los asuntos deberán resolverse en un plazo máximo de seis meses contados a partir del momento de su radicación, en los términos que señalen las disposiciones jurídicas aplicables.
+
+En materia penal, el imputado deberá ser juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo.
+
+En caso de cumplirse con el plazo señalado en los párrafos que anteceden y que no se haya dictado sentencia, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial y justificar las razones de dicha demora.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -261,11 +259,11 @@ Siempre que en el ejercicio de sus facultades las autoridades judiciales imponga
 
 ### Capítulo Segundo. De la Competencia Territorial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 7.
 
-En materia civil, familiar y mercantil, el territorio del Estado se dividirá en los Distritos Judiciales siguientes:
+Sin perjuicio de la atribución del Órgano de Administración Judicial, en materia civil, familiar y mercantil, el territorio del Estado se dividirá en los Distritos Judiciales siguientes:
 
 I. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2016)
 
@@ -285,17 +283,19 @@ VII. XICOHTENCATL, con sede en la Villa Vicente Guerrero, que comprenderá los M
 
 VIII. ZARAGOZA, con sede en la Ciudad de Zacatelco, que comprenderá los Municipios de: Zacatelco, Acuamanala de Miguel Hidalgo, Nativitas, Teolocholco, Tepeyanco, Tetlatlahuca, Xicohtzinco, Santa Apolonia Teacalco, Santa Cruz Quilehtla, San Juan Huactzinco, Santa Catarina Ayometla, Santa Isabel Xiloxoxtla, San Damián Texóloc, San Jerónimo Zacualpan y San Lorenzo Axocomanitla.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 7 Bis.
 
-El Pleno del Tribunal Superior de Justicia, mediante acuerdos generales determinará, conforme al presupuesto, la creación de Juzgados Mercantiles, de Oralidad Mercantil y Laborales, que funcionarán en el Estado y les fijará su residencia.
+El Pleno del Órgano de Administración Judicial, mediante acuerdos generales determinará, conforme al presupuesto, la creación de Juzgados Mercantiles, de Oralidad Mercantil y Laborales, que funcionarán en el Estado y les fijará su residencia.
 
-La competencia territorial de los Juzgados Mercantiles, de Oralidad Mercantil y Laborales podrá abarcar el territorio de uno o más distritos judiciales, según lo determine el Pleno del Tribunal Superior de Justicia.
+La competencia territorial de los Juzgados Mercantiles, de Oralidad Mercantil y Laborales podrá abarcar el territorio de uno o más distritos judiciales, según lo determine el Órgano de Administración Judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 8.
 
-En materia penal el territorio del Estado se dividirá en los Distritos Judiciales siguientes:
+Sin perjuicio de la atribución del Órgano de Administración Judicial, en materia penal el territorio del Estado se dividirá en los Distritos Judiciales siguientes:
 
 I. GURIDI y ALCOCER, con sede en la Ciudad de Tlaxcala de Xicohténcatl, que comprenderá los Municipios de: Acuamanala de Miguel Hidalgo, Amaxac de Guerrero, ApetatitIán de Antonio Carvajal, Chiautempan, Contla de Juan Cuamatzi, Ixtacuixtla de Mariano Matamoros, La Magdalena Tlaltelulco, Mazatecochco de José María Morelos, Natívitas, Panotla, Papalotla de Xicohténcatl, San Damián Texóloc, San Francisco Tetlanohcan, San Jerónimo Zacualpan, San Juan Huactzinco, San Lorenzo Axocomanitla, San Pablo del Monte, Santa Apolonia Teacalco, Santa Ana Nopalucan, Santa Catarina Ayometla, Santa Cruz Quilehtla, Santa Cruz Tlaxcala, Santa Isabel Xiloxoxtla, Tenancingo, Tepetitla de Lardizábal, Tepeyanco, Tetlatlahuca, Teolocholco, Tlaxcala, Totolac, Xicohtzinco y Zacatelco; y
 
@@ -307,11 +307,11 @@ II. SANCHEZ PIEDRAS, con sede en la Ciudad de Apizaco, que comprenderá los Muni
 
 En materia de administración de justicia para adolescentes los juzgados ejercerán su competencia en todo el territorio del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 8 Ter.
 
-Los procedimientos relacionados con mecanismos alternativos de solución de controversias estarán a cargo del Centro Estatal de Justicia Alternativa, a través de los especialistas, mediadores y conciliadores adscritos a dicho centro, conforme a lo dispuesto en la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Tlaxcala, y en la Ley de Mecanismos Alternativos de Solución de Controversias en materia penal aplicable.
+Los procedimientos relacionados con mecanismos alternativos de solución de controversias estarán a cargo del Centro Estatal de Mecanismos Alternativos de Solución de Controversias, a través de los especialistas, mediadores y conciliadores adscritos a dicho centro, conforme a lo dispuesto en la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Tlaxcala, y en la Ley de Mecanismos Alternativos de Solución de Controversias en materia penal aplicable.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -327,19 +327,23 @@ En materia de Ejecución de Sanciones Penales, el Juez ejercerá su competencia 
 
 En la materia constitucional, de Justicia Administrativa, de ejecución de sanciones y de administración de justicia para adolescentes, el Tribunal y sus Salas, ejercerán su competencia en todo el territorio del Estado.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 9 Bis.
 
-El Tribunal en Pleno mediante acuerdos generales determinará la creación o especialización de órganos jurisdiccionales para conocer de extinción de dominio, cuya residencia será en la Ciudad Judicial de la comunidad de Santa Anita Huiloac, Municipio de Apizaco. Tales órganos jurisdiccionales contarán con competencia en todo el territorio del Estado.
+El Órgano de Administración Judicial, mediante acuerdos generales determinará la creación o especialización de órganos jurisdiccionales para conocer de extinción de dominio, cuya residencia será en la Ciudad Judicial de la comunidad de Santa Anita Huiloac, Municipio de Apizaco. Tales órganos jurisdiccionales contaran con competencia en todo el territorio del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 10.
 
-El Tribunal en Pleno determinará mediante acuerdos generales, el número de Juzgados de Primera Instancia, su residencia, especialidad por materia, competencia territorial, por turno y así como todo aquello necesario para su funcionamiento.
+El Órgano de Administración Judicial, determinará mediante acuerdos generales, el número de Juzgados de Primera Instancia, su residencia, especialidad por materia, competencia territorial, por turno y así como todo aquello necesario para su funcionamiento.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 En los Distritos a que se refiere el artículo 7 de esta ley, funcionarán separadamente los juzgados civiles, juzgados mercantiles y juzgados familiares, salvo que la carga de trabajo no lo justifique así, pues en tal caso se podrán establecer juzgados de jurisdicción mixta.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 Los Acuerdos relativos se publicarán en el Periódico Oficial del Gobierno del Estado, en los diarios de mayor circulación en la Entidad y, en su caso, en el Boletín Judicial.
 
@@ -353,99 +357,41 @@ Los Acuerdos relativos se publicarán en el Periódico Oficial del Gobierno del 
 
 El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y se integrará por siete Magistrados. Sin perjuicio que, para el mejor desempeño de sus funciones y eficiencia en la prestación de servicios a la ciudadanía, por acuerdo del Pleno, se autorice también el desarrollo de sus funciones en el recinto denominado “Ciudad Judicial” ubicado en la comunidad de Santa Anita Huiloac del Municipio de Apizaco.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-El Congreso del Estado nombrará a los Magistrados Propietarios con la votación de las dos terceras partes del total de los diputados que integren la Legislatura correspondiente, y deberá prever para cada uno a su respectivo suplente, para el caso de falta absoluta, en la forma y términos previstos en la Constitución Local.
+Las Magistradas y Magistrados del Tribunal Superior de Justicia serán electos de manera libre, directa y secreta por la ciudadanía el día de las elecciones locales ordinarias del año correspondiente, conforme al procedimiento previsto en el artículo 84 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-Para ocupar o desempeñar el cargo de Magistrado, se deberán reunir los requisitos que establece el artículo 83 de la Constitución Política del Estado.
+Para ser electo como Magistrada o Magistrado del Poder Judicial del Estado se necesita reunir los requisitos que establece el artículo 83 de la Constitución Política del Estado.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 No podrán fungir como magistrados quienes sean entre sí cónyuges, parientes consanguíneos dentro del cuarto grado y por afinidad en el segundo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 12.
 
-Los Magistrados durarán en el cargo seis años, y cumplido este periodo podrán ser reelectos por el Congreso; solo podrán ser privados de su cargo en los términos que determina la Constitución del Estado.
+Las Magistradas y Magistrados durarán en el cargo nueve años, cumplido este periodo podrán ser reelectos hasta por un periodo más. Las Magistradas y Magistrados del Tribunal de Disciplina Judicial durarán en el cargo seis años y no podrán ser electos para un nuevo periodo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las magistradas, magistrados, juezas y jueces, tendrán independencia en el ejercicio de sus funciones, en términos de la Constitución Local y por lo establecido en esta Ley.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+Las magistradas, magistrados, juezas y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo y no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente.
 
-La reelección se realizará conforme al procedimiento previsto en la fracción XXVII del artículo 54 de la Constitución del Estado.
+Cuando la falta de Magistradas, Magistrados, juezas y jueces del Poder Judicial del Estado excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+Las licencias de las personas servidoras públicas señaladas en el párrafo anterior, cuando no excedan de un mes, podrán ser concedidas por el Pleno de Tribunal Superior de Justicia para el caso de sus Magistradas y Magistrados, por el Pleno del Tribunal de Disciplina Judicial del Estado para el caso de sus integrantes, y por el Órgano de Administración Judicial para el caso (sic) Juezas y Jueces del Poder Judicial del Estado. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
 
-La independencia de los magistrados y jueces en el ejercicio de sus funciones, estará garantizada por lo que establece la Constitución Local y por esta ley.
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
-
-Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-Cuando surja una falta absoluta, el Pleno del Tribunal Superior de Justicia llamará al suplente respectivo, el Magistrado así nombrado, concluirá el término del sustituido conforme a lo establecido por la Constitución del Estado y la presente ley. El Congreso del Estado procederá a la designación del nuevo Magistrado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-Cuando surja una ausencia temporal que exceda de veinte días naturales y esté fuera del supuesto establecido en la Constitución del Estado, será cubierta por el Magistrado electo por el Congreso, de entre una terna designada por el Pleno del Tribunal Superior de Justicia, integrada por miembros del Poder Judicial de reconocido prestigio y antigüedad, sin convocar a concurso de méritos. El Pleno del Tribunal Superior de Justicia deberá definir la terna y comunicarla al Congreso del Estado, dentro de los quince días hábiles siguientes a que ocurra la falta absoluta o temporal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-Los efectos del nombramiento, en el caso de ausencia absoluta, durarán hasta que se corra el procedimiento establecido por la ley para la designación del nuevo titular y tome posesión del cargo. Tratándose de ausencia temporal, hasta que cese la causa que la motivó. En ambos casos, y hasta que se realice dicho nombramiento, el Secretario de Acuerdos adscrito a la Sala respectiva tendrá las facultades a que se refiere el artículo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 13.
 
-El Presidente del Tribunal presidirá la sesión de instalación de los magistrados propietarios entrantes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+La persona titular de la Presidencia del Tribunal presidirá la sesión de instalación de los magistrados propietarios entrantes de las Salas del Tribunal Superior de Justicia.
 
 ###### Artículo 14.
 
-El día uno del mes de febrero del año que corresponda, los magistrados propietarios del Tribunal elegirán de entre ellos a un Presidente, que durará en su encargo dos años y podrá ser reelecto por una sola vez, de conformidad con las reglas siguientes:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-I. (DEROGADA, P.O. 21 DE AGOSTO DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-II. Los votos se emitirán en forma nominal, expresando el nombre del Magistrado por el cual emite su voto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
-
-III. La votación mínima para la designación será de cinco votos a favor de alguno de los magistrados propuestos. De no obtenerse esa mayoría, se procederá a repetir la votación hasta lograr una mayoría de cuando menos cuatro votos;
-
-IV. Realizada la elección, inmediatamente el Presidente electo rendirá protesta ante el pleno del Tribunal Superior de Justicia y entrará en funciones, y
-
-V. En caso de falta definitiva del Presidente, será electo un nuevo Presidente en los términos de este artículo, para el efecto de concluir el periodo restante y podrá ser reelecto por una sola vez.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-En la designación de Presidente, ningún Magistrado podrá abstenerse de emitir su voto y ningún Magistrado tendrá voto de calidad.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -467,67 +413,57 @@ II. El segundo año, recibirá el sesenta por ciento de las percepciones anterio
 
 III. El tercer año, recibirá el cincuenta por ciento de las percepciones anteriormente mencionadas, en razón de su carácter de Magistrada o Magistrado.
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2024)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-La mecánica y el procedimiento para su entrega, se realizará de conformidad con los lineamientos y acuerdos administrativos aplicables en materia de remuneraciones del Tribunal.
+La mecánica y el procedimiento para su entrega, se realizará de conformidad con los lineamientos y acuerdos administrativos aprobados y emitidos por el Órgano de Administración Judicial.
 
 ### Capítulo Segundo. Del Funcionamiento del Tribunal Superior de Justicia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 16.
 
-El Tribunal funcionará en Pleno y en las salas Civil-Familiar y Penal yEspecializada (sic) en Administración de Justicia para Adolescentes. El Presidente del Tribunal no integrará Sala.
+El Tribunal funcionará en Pleno y en las salas Civil, Familiar y Mercantil y Penal y Especializada en Administración de Justicia para Adolescentes. La persona titular de la Presidencia del Tribunal no integrará Sala.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 17.
 
-Para el desarrollo de sus funciones jurisdiccionales, el Tribunal Superior de Justicia, contará con un Secretario General de Acuerdos, Secretarios de Acuerdos de las Salas, Diligenciarios, Oficiales de Partes, Proyectistas y demás personal que requiera, de acuerdo con sus necesidades y las posibilidades presupuestarias.
+Para el desarrollo de sus funciones jurisdiccionales:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. El Pleno contará con un Secretario General de Acuerdos;
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+II. La Sala Civil, Familiar y Mercantil contará con un Secretario de Acuerdos, Proyectistas, Diligenciarios, y Oficialía de Partes, y
 
-El Pleno del Tribunal Superior considerando las propuestas del Presidente, designará al Secretario General de Acuerdos y decidirá el número de empleados que sean necesarios y permita el presupuesto.
+III. La Sala Penal y Especializada en Administración de Justicia para Adolescentes contará con Secretario de Acuerdos, Asistente de Audiencia, Asistente de Causa, Asistente de Notificación y Asistente de atención al público.
 
-Los Diligenciarios, Oficiales de Partes y Proyectistas del Tribunal tendrán, en lo conducente, las mismas facultades previstas para las categorías respectivas de los Juzgados, respecto del procedimiento o trámite que realicen.
+El Secretario General de Acuerdos del Tribunal, en sus faltas temporales será suplido por el Secretario de Acuerdos de la Sala Civil, Familiar y Mercantil. Las ausencias temporales de los funcionarios de las Salas, se cubrirán mediante el procedimiento establecido para sus similares de los Juzgados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-El Secretario General de Acuerdos del Tribunal, en sus faltas temporales será suplido por el Secretario de Acuerdos de la Sala Civil-Familiar. Las ausencias temporales de los Secretarios de Acuerdos, Diligenciarios y Oficiales de Partes de las Salas, se cubrirán mediante el procedimiento establecido para sus similares de los Juzgados.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 18.
 
-La Oficialía de Partes del Tribunal funcionará permanentemente, para poder recibir promociones urgentes relativas a los procesos de control constitucional, así como las demás que sean de término fatal.
+La Oficialía de Partes del Pleno funcionará permanentemente, para poder recibir promociones urgentes relativas a los procesos de control constitucional, así como las demás que sean de término fatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 19.
 
-El Poder Judicial del Estado tendrá y administrará su patrimonio por conducto del Consejo de la Judicatura. Para el desempeño de sus funciones contará con las unidades, departamentos y secciones conforme a su presupuesto de egresos.
+El Poder Judicial del Estado tendrá y administrará su patrimonio por conducto del Órgano de Administración Judicial. Para el desempeño de sus funciones contará con las unidades, departamentos y secciones conforme a su presupuesto de egresos.
 
 ### Capítulo Tercero. Del Pleno
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 20.
 
-El Pleno del Tribunal Superior de Justicia se integrará con los magistrados propietarios y de quienes los suplan legalmente.
+El Pleno del Tribunal Superior de Justicia se integrará por siete integrantes, Magistradas y Magistrados, incluyendo a su Presidente y serán suplidos en los términos que dispongan la Constitución del Estado y la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 21.
 
-Para que el Pleno sesione válidamente bastará la concurrencia de cuatro Magistrados, con excepción de los casos previstos en los artículos 81 y 109 fracción VIII de la Constitución Política del Estado y cuando se trate de la elección del Presidente del Tribunal, en los que se requerirá la presencia de al menos cinco Magistrados.
+Para que el Pleno sesione válidamente bastará la concurrencia de cuatro Magistrados, con excepción de los casos previstos en los artículos 81 y 109 fracción VIII de la Constitución Política del Estado, en los que se requerirá la presencia de al menos cinco Magistrados.
 
 ###### Artículo 22.
 
@@ -585,53 +521,43 @@ II. Los procesos previstos en el artículo 81 de la Constitución del Estado, er
 
 III. El juicio político, en los términos previstos en la fracción VIII del artículo 109 de la Constitución del Estado;
 
-IV. Los recursos de revocación que se interpongan contra las resoluciones del Presidente del Tribunal y de las salas que no constituyan sentencias definitivas o resoluciones que pongan fin al procedimiento, así como los recursos de revocación que se interpongan contra las resoluciones del Consejo de la Judicatura. Éstos deberán presentarse, dentro del término de tres días a partir de que se notifiquen; mismos que se sustanciarán, en lo conducente, conforme lo previsto en el Código de Procedimientos Civiles del Estado;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+IV. Los recursos de revocación que se interpongan contra las resoluciones de la persona titular de la Presidencia del Tribunal y de las salas que no constituyan sentencias definitivas o resoluciones que pongan fin al procedimiento. Éste deberá presentarse, dentro del término de tres días a partir de que se notifiquen; mismos que se sustanciarán, en lo conducente, conforme lo previsto en el Código de Procedimientos Civiles vigente;
 
 V. La calificación de los impedimentos, excusas y recusaciones con causa de los magistrados y del Secretario General de Acuerdos del Tribunal;
 
 VI. Las denuncias de contradicción de los precedentes obligatorios, dictados por el propio Pleno o las salas del Tribunal;
 
-VII. La destitución del Secretario General de Acuerdos y de los Jueces, a petición del Consejo de la Judicatura, cuando así procediere;
+VII. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-VIII. Constituirse como órgano rector, revisor y sancionador de las actividades del Consejo de la Judicatura;
+VIII. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-IX. Designar, por el voto secreto de las dos terceras partes de sus integrantes, a los magistrados y jueces que deban integrar el Consejo de la Judicatura conforme lo establecido en la Constitución del Estado;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-X. Revisar y aprobar el proyecto del presupuesto de egresos del Poder Judicial que le remita el Consejo de la Judicatura;
+IX. Designar a las tres personas que integrarán el Órgano de Administración Judicial, en términos de lo establecido en el artículo 85 de la Constitución Política del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+X. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+XI. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-XI. Confirmar o revocar, por el voto de cuatro de sus integrantes, los acuerdos generales que expida el Consejo de la Judicatura para el ejercicio de sus funciones administrativas. Dicha resolución deberá emitirse dentro de los diez días hábiles siguientes a la impugnación que algún órgano del Poder Judicial realice ante el Pleno;
+XII. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-XII. Instruir al Consejo de la Judicatura, sin perjuicio de las atribuciones administrativas del mismo, visitas especiales a los juzgados y a los establecimientos carcelarios, cuando en el cumplimiento de sus atribuciones y las jurisdiccionales de las salas, se detecte alguna irregularidad; dando seguimiento a las observaciones que se deriven de las mismas;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XIII. Ordenar al Consejo de la Judicatura investigue la conducta de los Jueces cuando se tenga conocimiento de una posible irregularidad administrativa, y
+XIII. Formular denuncias ante el Tribunal de Disciplina Judicial o al Órgano de Administración Judicial, según corresponda, para que investigue la conducta de los servidores públicos del Poder Judicial del Estado cuando se tenga conocimiento de una posible irregularidad administrativa o penal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIV. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XIV. Elegir, de entre sus integrantes, conforme lo establecido en el artículo 14 de esta Ley, al Presidente del Tribunal Superior de Justicia y adscribir al resto a las Salas correspondientes;
+XV. Exigir a la persona titular de la Presidencia del Tribunal el fiel cumplimiento de sus obligaciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XVI. Dar vista al Tribunal de Disciplina Judicial sobre la presunta comisión de delitos por servidores públicos del Tribunal Superior de Justicia y de las áreas a su cargo;
 
-XV. Exigir al Presidente del Tribunal el fiel cumplimiento de sus obligaciones y señalar la responsabilidad en que incurra en el ejercicio de sus funciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XVI. Ordenar en los casos que le corresponda, que se haga del conocimiento del Ministerio Público, la presunta comisión de delitos por servidores públicos del Tribunal Superior de Justicia y de las áreas a su cargo, informando tal hecho al Consejo de la Judicatura;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XVII. Exhortar a los Magistrados y Jueces al puntual cumplimiento de sus deberes, cuando tuvieren conocimiento de demoras o irregularidades en el despacho de sus asuntos;
+XVII. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -645,27 +571,49 @@ XVIII. Encomendar el trámite y dictamen de algún asunto, cuya resolución corr
 
 XIX. De oficio o a petición de algún Magistrado, atraer cualquier asunto que por su trascendencia se considere conveniente resolver;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XX. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XX. Solicitar la intervención del Consejo de la Judicatura siempre que sea necesario para la adecuada coordinación y funcionamiento entre los órganos del Poder Judicial;
+XXI. Solicitar al Órgano de Administración Judicial autorización para el cambio de radicación de los procesos penales, cuando lo solicite el imputado o el titular de la Fiscalía General de Justicia del Estado, si mediare alguna razón concreta y grave que lo justifique;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XXII. Postular hasta dos personas aspirantes a ocupar el cargo de magistradas o magistrados del Poder Judicial del Estado, en las elecciones ordinarias correspondientes, por mayoría simple de sus integrantes.
 
-XXI. Autorizar el cambio de radicación de los procesos penales, cuando lo solicite el imputado o el titular de la Procuraduría General de Justicia del Estado, si mediare alguna razón concreta y grave que lo justifique, y
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXIII. Postular hasta dos personas aspirantes a ocupar el cargo de Juezas o Jueces del Poder Judicial del Estado, en las elecciones ordinarias correspondientes, por mayoría simple de sus integrantes.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XXII. Las demás que le confieran las leyes, y todas las de carácter administrativo que correspondan al Tribunal Superior de Justicia.
+XXIV. Definir la integración del Comité de Evaluación del Poder Judicial del Estado conformado por tres personas reconocidas en la actividad jurídica, conforme a las bases previstas en la fracción III, inciso b) del artículo 84 de la Constitución Política del Estado, de la Ley de Instituciones y Procedimientos Electorales para el Estado de Tlaxcala y de la demás legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XXV. Aprobar por mayoría simple de votos a las personas mejor evaluadas por el Comité de Evaluación del Poder Judicial del Estado, para que puedan ser postuladas para los cargos y plazas en la elección judicial del año que corresponda, en términos del artículo 84 de la Constitución Política del Estado, de la Ley de Instituciones y Procedimientos Electorales para el Estado de Tlaxcala y de la demás legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XXVI. Expedir acuerdos, a fin de lograr una adecuada distribución de los asuntos que competa conocer al Pleno y las Salas del Tribunal Superior de Justicia para mayor prontitud en su despacho.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XXVII. Fijar, mediante acuerdos, los días y horas en que de manera ordinaria deba sesionar;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XXVIII. Solicitar al Tribunal de Disciplina Judicial la imposición de amonestaciones o multas hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al día de cometerse la infracción, a las y los abogados, las o los agentes de negocios, personas procuradoras o las o los litigantes, cuando en las promociones que hagan ante el Tribunal Superior de Justicia funcionando en Pleno falten a las normas de convivencia en perjuicio de algún órgano o persona miembro del Poder Judicial del Estado. Tratándose de jornaleros u obreros, la multa no podrá exceder de su jornal o salario de un día de trabajo, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE AGOSTO DE 2025)</small>
+
+XXIX. Las demás que determinen las leyes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 26.
 
-En el ámbito legislativo material, el Pleno ejercerá las facultades siguientes:
+En el ámbito legislativo material, el Pleno del Tribunal ejercerá las facultades siguientes:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -675,51 +623,45 @@ I. Presentar iniciativas de ley, de conformidad con lo estatuido en los artícul
 
 II. Establecer precedentes de observancia obligatoria en el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+III. Proponer y solicitar al Órgano de Administración Judicial la expedición de acuerdos generales, reglamentos o la ejecución de resoluciones necesarias para asegurar el adecuado funcionamiento del Poder Judicial, y
 
-III. Expedir los Reglamentos necesarios para el adecuado funcionamiento del Poder Judicial, que no estén reservados al Consejo de la Judicatura, y
-
-IV. Emitir disposiciones administrativas de carácter general, en los términos de esta Ley.
+IV. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 27.
 
 En el orden administrativo el Pleno del Tribunal tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-I. Las que establece la Constitución del Estado en su artículo 80 fracciones I, V, X, y XI;
+I. Las que establece la Constitución del Estado en su artículo 80 fracciones I, IV, V, IX, X y XI;
 
-II. Dictar los lineamientos administrativos que deban de acatar los órganos jurisdiccionales para el debido control y manejo de los expedientes, así como de los bienes bajo su custodia;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+II. Proponer al Órgano de Administración Judicial los lineamientos administrativos que deban de acatar para el Pleno y las Salas del Tribunal Superior de Justicia para el debido control y manejo de los expedientes, así como de los bienes bajo su custodia;
 
-III. Resolver los conflictos que surjan con motivo del nombramiento y remoción de los Presidentes de las Salas, y del cumplimiento de las funciones de los integrantes del Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+III. Resolver los conflictos que surjan con motivo del nombramiento y remoción de la persona titular de la Presidencia de las Salas.
 
-IV. Solucionar cualquier problemática administrativa que se presente y que no sea competencia del Consejo de la Judicatura, y
+IV. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-V. Proponer al Consejo de la Judicatura las medidas necesarias para mejorar la administración de justicia;
+V. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VI. Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aun cuando no fueren del mismo ramo, con excepción de las especializadas para adolescentes;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-VII. Conceder licencias a Magistrados para separarse de su cargo, salvo que esta atribución corresponda a otras instancias del Poder Judicial o de la Administración Pública;
+VII. Conceder licencias a sus integrantes cuando éstas no excedan de un mes;
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VIII. Dirimir las cuestiones de competencia entre las salas y entre éstas y los juzgados;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-IX. Conocer de las quejas contra el Presidente del Tribunal y Magistrados. En su caso, imponer las correcciones disciplinarias que correspondan;
+IX. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -749,193 +691,107 @@ II. Resolver la recusación a que se refiere el artículo 709-A de la Ley Federa
 
 III. Las demás que establezcan las leyes.
 
-### Capítulo Cuarto. Del Presidente del Tribunal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Cuarto. De la Presidencia del Tribunal Superior de Justicia
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 27 Ter.
+
+La Presidencia del Tribunal Superior de Justicia se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la Presidencia a quien alcance mayor votación.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 27 Quater.
+
+En caso de ausencia de la persona titular de la Presidencia del Tribunal Superior de Justicia que no requiera licencia, será suplido por la Magistrada o el Magistrado que haya obtenido el segundo lugar en la votación. Si la ausencia es menor a seis meses y requiere licencia, la Magistrada o el Magistrado en segundo lugar asumirá la Presidencia de manera interina. No obstante, si la ausencia de la Presidenta o el Presidente supera dicho plazo, la Magistrada o Magistrado que ocupó el segundo lugar en la votación ejercerá el cargo de Presidenta o Presidente del Tribunal Superior de Justicia, por un plazo de dos años.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 28.
 
-El Presidente del Tribunal representará legalmente al Tribunal, al Consejo de la Judicatura y asumirá para los efectos legales procedentes la representación del Poder Judicial del Estado. Esta representación podrá delegarse en Magistrados o Jueces para la celebración de actos cívicos oficiales y para la atención de actos administrativos o asuntos litigiosos mediante la concesión de mandatos limitados, previa aprobación del Consejo de la Judicatura.
-
-Cuando se promueva alguna acción conforme al artículo 105 de la Constitución Federal, el mandato será aprobado por el Pleno del Tribunal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La persona titular de la Presidencia del Tribunal representará legalmente al Pleno y asumirá para los efectos legales procedentes la representación del Poder Judicial del Estado. Esta representación podrá delegarse a Magistradas o Magistrados, Juezas o Jueces para la celebración de actos administrativos de su competencia.
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
+Cuando se promueva alguna acción conforme al artículo 105 de la Constitución Federal, el mandato será aprobado por el Pleno del Tribunal.
+
 ###### Artículo 29.
 
-El Presidente del Tribunal nombrará al personal de apoyo que sea necesario para el despacho de los asuntos de su competencia y que fije el presupuesto anual, cuyos nombramientos, readscripciones y remociones serán informados al Pleno para que éste ratifique o revoque la designación, readscripción o remoción de que se trate.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 30.
 
-Son facultades y obligaciones del Presidente del Tribunal Superior de Justicia:
+Son facultades y obligaciones de la persona titular de la Presidencia del Tribunal Superior de Justicia:
 
-A. Genéricas:
+I. Presidir las sesiones que celebre el Pleno del Tribunal Superior de Justicia, dirigir los debates y conservar el orden en las mismas, así como girar las convocatorias para las sesiones plenarias que contendrá la lista de los asuntos a tratar durante las sesiones del Pleno;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-I. Presidir las sesiones que celebre el Pleno del Tribunal Superior de Justicia, dirigir los debates y conservar el orden en las mismas, así como girar las convocatorias para las sesiones plenarias que contendrá la lista de los asuntos a tratar durante las sesiones del Pleno.
-
-II. Firmar las resoluciones del Pleno en unión del Secretario General de Acuerdos, y en su caso también lo hará el Magistrado Ponente;
+II. Firmar las resoluciones del Pleno en unión de la o el Secretario General de Acuerdos, y en su caso también lo hará la Magistrada o el Magistrado Ponente;
 
 III. Informar al Pleno sobre el seguimiento que se dé a los asuntos resueltos por éste;
 
-IV. Presentar al Congreso del Estado las iniciativas de Ley que apruebe el Pleno;
+IV. Elaborar los proyectos de reglamentos que deba decretar el pleno;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Emitir, en caso de empate, voto de calidad en los asuntos que deba de resolver el Pleno;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+VI. Vigilar el estricto cumplimiento de las determinaciones del Pleno;
 
-V. Otorgar mandatos para pleitos y cobranzas y autorizaciones procesales, a fin de atender los asuntos que así lo ameriten, previa aprobación del Pleno del Tribunal y del Consejo de la Judicatura, según sea el caso;
+VII. Tramitar auxiliado por la o el Secretario General de Acuerdos, los asuntos de la competencia del Pleno del Tribunal Superior de Justicia y ordenar se turnen los expedientes entre sus integrantes para que, siendo ponentes de los asuntos que instruyan, formulen los correspondientes proyectos de resolución;
 
-VI. Elaborar los proyectos de Reglamentos que deba decretar el Pleno.
+VIII. Proponer, en aquellos casos que estime de trascendencia, al Pleno del Tribunal Superior de Justicia, la designación de una Magistrada o un Magistrado para que presente un proyecto de resolución, con el propósito de que se determine el trámite a seguir;
 
-> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2002)</small>
+IX. Autorizar con su firma, en unión de la o del Secretario General de Acuerdos, los proveídos que emita, así como en unión de los demás magistrados las actas de las sesiones plenarias;
 
-VII. Emitir, en caso de empate, voto de calidad en los asuntos que deba de resolver el Pleno.
+X. Proporcionar a los Poderes Legislativo y Ejecutivo del Estado, los informes y estadísticas que le soliciten;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XI. Acordar el desahogo de consultas y opiniones a las autoridades que lo requieran, conforme a las leyes respectivas, en el ámbito de sus respectivas competencias;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XII. Dictar en unión de la o el Secretario General de Acuerdos sobre la admisión y trámite de los asuntos siguientes:
 
-VIII. Vigilar el estricto cumplimiento de las determinaciones del Pleno;
+a) Excusas y recusaciones de las Magistradas o los Magistrados y de la Secretaria o el Secretario General de Acuerdos, e
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Conflictos competenciales que surjan entre las Salas, entre éstas y los Juzgados; y entre los Juzgados mismos;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XIII. Despachar los exhortos y requisitorias que reciba el Tribunal;
 
-IX. Vigilar que la impartición de justicia se realice de manera pronta, gratuita, completa e imparcial; dictar las providencias que los ordenamientos le autoricen, así como proponer al Pleno los acuerdos y circulares que se requieran para tal efecto;
+XIV. Remitir los exhortos y requisitorias que decreten las autoridades judiciales del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XV. Dar entrada a los expedientes relativos a juicios políticos, que remita el Congreso del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XVI. Elaborar y someter a la consideración del Pleno, los proyectos de resolución de los asuntos a que se refieren las Fracciones XII y XV;
 
-X. Tramitar auxiliado por el Secretario General de Acuerdos, los asuntos de la competencia del Pleno del Tribunal Superior de Justicia y ordenar se turnen los expedientes entre sus integrantes para que, siendo ponentes de los asuntos que instruyan, formulen los correspondientes proyectos de resolución;
+XVII. En materia de control constitucional, ejercerá las atribuciones que le otorga la Ley reglamentaria correspondiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVIII. Rendir los informes previos y justificados, respecto de los juicios de amparo que se promuevan contra actos o resoluciones del Pleno;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XIX. Convocar al Pleno a sesiones extraordinarias cuando lo considere urgente, lo estime necesario o cuando le sea solicitado por una tercera parte de las Magistradas y los Magistrados integrantes del Pleno.
 
-XI. Proponer, en aquellos casos que estime dudoso o de trascendencia, al Pleno del Tribunal Superior de Justicia, la designación de un Magistrado para que presente un proyecto de resolución, con el propósito de que se determine el trámite a seguir;
+XX. Otorgar mandatos para pleitos y cobranzas y autorizaciones procesales, en el ámbito de su competencia, a fin de atender los asuntos que así lo ameriten, previa aprobación del Pleno del Tribunal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXI. Aprobar el texto de las ejecutorias del Pleno que formen los precedentes a que se refiere la fracción VII del artículo 80 de la Constitución del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XXII. Procurar el buen servicio y disciplina en las oficinas del Pleno y las Salas, debiendo dar vista al Tribunal de Disciplina Judicial y al Órgano de Administración Judicial, según corresponda, para los efectos pertinentes;
 
-XII. Autorizar con su firma, en unión a la del Secretario General de Acuerdos, los proveídos que emita, así como en unión de los demás magistrados las actas de las sesiones plenarias;
+XXIII. Informar al Congreso del Estado en caso de falta de un magistrado o magistrada que exceda de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXIV. Rendir ante el Pleno del Tribunal, el Pleno del Órgano de Administración Judicial y el Pleno del Tribunal de Disciplina Judicial al finalizar el año, el informe de labores del Poder Judicial.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+A más tardar el día quince del mes de diciembre de cada año, entregará por escrito al Congreso, un informe anual sobre las actividades del Poder Judicial; para lo cual podrá comparecer ante el Congreso del Estado;
 
-XIII. Proporcionar a los Poderes Legislativo y Ejecutivo del Estado, los informes y estadísticas que le soliciten, y
+XXV. Designar a las y los Magistrados para los casos previstos en el artículo 135 de esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVI. Ordenar la publicación de los precedentes relevantes que dicten el Pleno y las salas del Tribunal Superior de Justicia, en los términos que dispone esta ley;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XXVII. Autorizar en la Secretaría General, el registro de los títulos de los profesionales del derecho, cuando éstos ejerzan la profesión en el territorio del Estado;
 
-XIV. Acordar el desahogo de consultas y opiniones a las autoridades que lo requieran, conforme a las leyes respectivas.
+XXVIII. Proponer al Órgano de Administración Judicial el nombramiento y remoción del Secretario General de Acuerdos del propio Tribunal, y
 
-B. Jurisdiccionales:
-
-I. Dictar acuerdos sobre la admisión y trámite de los asuntos siguientes:
-
-a) Excusas y recusaciones de los Magistrados y del Secretario General de Acuerdos.
-
-b) Conflictos competenciales que surjan entre las Salas, entre éstas y los Juzgados, y entre éstos últimos.
-
-c) (REFORMADO [N. DE E. DEROGADO], P.O. 17 DE ENERO DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-d) Recursos que se interpongan en contra de los actos y resoluciones del Consejo de la Judicatura;
-
-II. Dar entrada a los expedientes relativos a juicios políticos, que remita el Congreso del Estado;
-
-III. Elaborar y someter a la consideración del Pleno, los proyectos de resolución de los asuntos a que se refieren las Fracciones anteriores;
-
-IV. En materia de control constitucional, ejercerá las atribuciones que le otorga la Ley reglamentaria correspondiente;
-
-V. Despachar los exhortos y requisitorias que reciba el Tribunal;
-
-VI. Remitir los exhortos y requisitorias que decreten las autoridades judiciales del Estado;
-
-VII. Aprobar el texto de las ejecutorias del Pleno que formen los precedentes a que se refiere la Fracción IX del Artículo 80 de la Constitución del Estado, y
-
-VIII. Rendir los informes previos y justificados, respecto de los juicios de amparo que se promuevan contra actos o resoluciones del Pleno.
-
-C. Administrativas:
-
-I. Dictar las medidas necesarias para el buen servicio y disciplina en las oficinas del Tribunal;
-
-II. Comunicar al Congreso del Estado las ausencias definitivas de los Magistrados, para que se declare Propietario al Suplente respectivo, así como para que se proceda al nombramiento de nuevo Suplente, en términos de la Constitución Política del Estado;
-
-III. Rendir ante los Magistrados del Tribunal al finalizar el año, el informe de labores del Poder Judicial;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-A más tardar el día quince del mes de enero de cada año, entregará por escrito al Congreso, un informe anual sobre las actividades del Poder Judicial; para lo cual podrá comparecer ante el Congreso del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-IV. Informar al Pleno del Tribunal así como al Pleno del Consejo de la Judicatura el diez de enero de cada dos años, de las actividades realizadas y la ejecución del gasto durante el ejercicio para el que fue electo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-V. Presentar y someter a la aprobación del Pleno el Proyecto de Presupuesto de Egresos del Poder Judicial del Estado, que le haya remitido al Consejo de la Judicatura, a efecto de enviarlo al Ejecutivo del Estado para su inclusión en el Presupuesto de Egresos del Estado, en términos de la legislación aplicable;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-VI. Presidir el Consejo de la Judicatura, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-VII. Proponer al Pleno del Tribunal Superior de Justicia el nombramiento y remoción del Secretario General del propio Tribunal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-VIII. Convocar al Pleno a sesiones extraordinarias cuando lo considere urgente, lo estime necesario o cuando le sea solicitado por una tercera parte de los magistrados integrantes del Pleno;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-IX. Ordenar la publicación de los precedentes relevantes que dicten el Pleno y las salas del Tribunal Superior de Justicia, en los términos que dispone esta ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-X. Autorizar en la Secretaría General, el registro de los títulos de los profesionales del derecho, cuando éstos ejerzan la profesión en el territorio del Estado, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XI. Las demás que le confieran las leyes, reglamentos interiores y acuerdos generales.
+XXIX. Las demás que le confieran las leyes, reglamentos interiores y acuerdos generales.
 
 ### Capítulo Quinto. De las Salas
 
@@ -947,7 +803,9 @@ El Tribunal Superior de Justicia, se integrará por las siguientes Salas:
 
 I. Penal y Especializada en Administración de Justicia para Adolescentes; y
 
-II. Civil-Familiar.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+II. Civil, Familiar y Mercantil.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -963,13 +821,11 @@ Las Salas se integrarán cada una por tres magistrados, quienes por cada ponenci
 
 Durante los primeros quince días del mes de enero de cada año, las Salas Colegiadas elegirán a su Presidente, salvo al inicio de su encargo, en que este procedimiento tendrá lugar al día siguiente al en que tenga verificativo la designación de magistrados para su integración. De lo anterior, se levantará acta circunstanciada enviándose de inmediato copia al Pleno del Tribunal Superior de Justicia para su conocimiento y efectos conducentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 32 Bis.
 
-Recibidos los expedientes por la Secretaría de Acuerdos respectiva, éstos se registrarán en los libros de gobierno interno, anotándose su procedencia de origen, el número que le correspondió en el Juzgado a-quo, el nombre de las partes del litigio o proceso, llenándose con esos datos y la nueva numeración que deba llevar el toca de queja o apelación, la carátula, bajo cuya presentación se inicia el trámite de ley de la segunda instancia con la anotación del Magistrado ponente en el asunto y Sala que conoce del mismo.
+Recibidos los expedientes por la Secretaría de Acuerdos respectiva, éstos se registrarán en los libros de gobierno interno, anotándose su procedencia de origen, el número que le correspondió en el Juzgado de origen, el nombre de las partes del litigio o proceso, llenándose con esos datos y la nueva numeración que deba llevar el toca de queja o apelación, la carátula, bajo cuya presentación se inicia el trámite de ley de la segunda instancia con la anotación del Magistrado ponente en el asunto y Sala que conoce del mismo.
 
 ###### Artículo 33.
 
@@ -997,11 +853,13 @@ VI. Las resoluciones deberán ser firmadas por todos los Magistrados y por el Se
 
 ###### Artículo 34.
 
-Las Salas contarán con un Secretario de Acuerdos, Diligenciario y Oficial de Partes, así como con los Proyectistas y demás personal de apoyo que las necesidades del servicio justifiquen y permitan las posibilidades presupuestales.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 35.
 
-Los Presidentes de Sala tendrán las atribuciones siguientes:
+Las Presidencias de Sala tendrán las atribuciones siguientes:
 
 I. Representar legalmente a la Sala;
 
@@ -1013,25 +871,17 @@ II. Presidir y conducir las sesiones, dirigir la discusión de los negocios some
 
 III. Mantener el orden en las sesiones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-IV. Proponer al Consejo de la Judicatura el nombramiento y en su caso, remoción del personal adscrito a la Sala;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-V. Informar al Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, de las irregularidades en que incurra el personal adscrito a la Sala;
+V. Informar al Pleno del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, de las irregularidades en que incurra el personal adscrito a la Sala;
 
 VI. Rendir los informes previos y justificados que se soliciten a la Sala por las autoridades judiciales del fuero federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-VII. Presentar al Pleno del Tribunal Superior de Justicia y al Consejo de la Judicatura, dentro de los primeros tres días hábiles del mes de diciembre de cada año, un informe anual de las actividades de la Sala, y
+VII. Presentar al Pleno del Tribunal Superior de Justicia, al Órgano de Administración Judicial y al Tribunal de Disciplina Judicial dentro de los primeros tres días hábiles del mes de diciembre de cada año, un informe anual de las actividades de la Sala;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1051,15 +901,15 @@ IX. Enviar al Presidente del Tribunal Superior de Justicia los precedentes que s
 
 X. Las demás que resulten necesarias para el adecuado desahogo de los asuntos de la competencia de la Sala.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 36.
 
-La Sala Civil-Familiar conocerá de los asuntos siguientes:
+La Sala Civil, Familiar y Mercantil, conocerá de los asuntos siguientes:
 
-I. Los recursos que se interpongan contra las resoluciones de los jueces civiles;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+I. Los recursos que se interpongan contra las resoluciones de los jueces civiles, familiares y mercantiles;
 
 II. Las excusas y recusaciones con causa, de los jueces del ramo;
 
@@ -1073,23 +923,17 @@ IV. Encomendar a los jueces de su competencia el desahogo de las diligencias que
 
 V. Del recurso de queja y del juicio de responsabilidad civil, de acuerdo con lo que disponga la ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+VI. De los conflictos de competencia que se susciten, en la materia civil, familiar o mercantil entre los diversos Juzgados del Estado;
 
-VI. De los conflictos de competencia que se susciten, en la materia civil o familiar, entre los diversos Juzgados del Estado;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VII. Los recursos que se interpongan contra las resoluciones de los jueces civiles, familiares o mercantiles;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-VII. Los recursos que se interpongan contra las resoluciones de los jueces civiles o familiares;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-VIII. Las excusas y recusaciones con causa, de los jueces del ramo civil o familiar, y
+VIII. Las excusas y recusaciones con causa, de los jueces del ramo civil, familiar y mercantil, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1137,11 +981,9 @@ I. En última instancia, los recursos que se interpongan contra las resoluciones
 
 II. Las excusas y recusaciones de los jueces del ramo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-III. Los recursos de revocación, apelación, revisión, casación y demás previstos en el Código de Procedimientos Penales del Estado, interpuestos en contra de las resoluciones del Magistrado Ponente;
+III. Los recursos previstos en el Código Nacional de Procedimientos Penales, interpuestos en contra de las resoluciones del Magistrado Ponente;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1201,17 +1043,17 @@ El conocimiento de algún recurso de manera unitaria por parte de un magistrado 
 
 ### Capítulo Sexto. De los Magistrados
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 41.
 
-Los magistrados serán nombrados y removidos por el Congreso del Estado, en la forma y términos que previene la Constitución del Estado.
+Las Magistradas y los Magistrados serán electos de manera libre, directa y secreta por la ciudadanía el día de las elecciones locales ordinarias del año correspondiente, de conformidad con el procedimiento previsto en el artículo 84 de la Constitución del Estado y en los términos que establezca la Ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 42.
 
-Los Magistrados tendrán las siguientes obligaciones:
+Las Magistradas y Magistrados tendrán las obligaciones siguientes:
 
 I. Conocer de los asuntos que le sean turnados, por el Pleno o la Sala correspondiente y emitir los acuerdos de trámite hasta presentar el proyecto de resolución;
 
@@ -1235,17 +1077,11 @@ IV. Exponer en sesión pública, personalmente sus proyectos de sentencia, seña
 
 V. Remitir al Pleno del Tribunal, dentro de los cinco primeros días de cada mes, una noticia sobre el movimiento de negocios habidos en la Sala durante el mes anterior, especificando el estado que guarden los negocios existentes en ellas y la naturaleza de las resoluciones pronunciadas y una anual dentro de los primeros cinco días del mes de enero de cada año;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-VI. Imponer correcciones disciplinarias en la forma que lo autoricen las leyes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-VII. Vigilar que los Secretarios y demás empleados de la Sala cumplan con sus deberes respectivos y, en su caso, dar cuenta al Consejo de la Judicatura para los efectos pertinentes;
+VII. Vigilar que las y los Secretarios y demás personal de la Sala cumplan con sus deberes respectivos y, en su caso, dar cuenta al Órgano de Administración Judicial o al Tribunal de Disciplina, según corresponda, para los efectos pertinentes;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1261,13 +1097,57 @@ IX. Las demás que señalen las Leyes.
 
 ### Capítulo Séptimo. De la Secretaría General de Acuerdos y de los Secretarios de Acuerdos de las Salas
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 43.
 
-Para ser Secretario General de Acuerdos o Secretario de Acuerdos de las Salas, se requerirá cumplir los mismos requisitos que para los jueces exige la Constitución del Estado y durará en su encargo seis años. En caso de falta absoluta, el Pleno nombrará un sustituto para que concluya el período correspondiente.
+Para ser Secretaria o Secretario General de Acuerdos, se requerirá cumplir los requisitos siguientes:
+
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar con título de licenciatura en derecho expedido legalmente;
+
+III. Contar con cédula profesional legalmente expedida;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
+
+V. Haber residido en el Estado de Tlaxcala durante el año anterior al día de la designación, y
+
+VI. Los demás que al efecto determine el Órgano de Administración Judicial.
+
+Las ausencias de la o el secretario que no excedan de un mes serán suplidas por otro de las y los secretarios, si hubiere dos o más o por una secretaria o secretario interino y en su defecto, por la o el diligenciario o asistente de notificación que designe la o el magistrado respectivo.
+
+La o el secretario durará en su encargo tres años con posibilidad de ser reelecto por un periodo adicional.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 43 Bis.
+
+Para ser Secretaria o Secretario de Acuerdos de las Salas, se requerirá cumplir los requisitos siguientes:
+
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar con título de licenciatura en derecho expedido legalmente.
+
+III. Contar con cédula profesional legalmente expedida;
+
+IV. Contar con experiencia profesional de al menos tres años;
+
+V. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
+
+V (SIC). Haber residido en el Estado de Tlaxcala durante el año anterior al día de la designación;
+
+VI. Los demás que al efecto determine el Órgano de Administración Judicial.
+
+Las ausencias de la o el secretario que no excedan de un mes serán suplidas por otro de las y los secretarios, si hubiere dos o más o por una secretaria o secretario interino y en su defecto, por la o el diligenciario o asistente de notificación que designe la o el magistrado respectivo.
+
+La o el secretario durará en su encargo tres años con posibilidad de ser reelecto por un periodo adicional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 44.
 
-El Secretario General de Acuerdos tendrá las atribuciones siguientes:
+La Secretaria o Secretario General de Acuerdos tendrá las atribuciones siguientes:
 
 I. Dar cuenta al Presidente del Tribunal y en su caso al Pleno, con las promociones y oficios dentro de las veinticuatro horas siguientes a que le hayan sido entregadas por el Oficial de Partes, salvo los casos de notoria urgencia, en que deberá dar cuenta de inmediato:
 
@@ -1293,7 +1173,9 @@ IX. Extender constancias de la comparecencia de las partes a las audiencias rela
 
 X. Autorizar se facilite para su consulta a las partes y a sus abogados, los expedientes en los que tuvieran interés legítimo;
 
-XI. Coordinar las labores de los Secretarios Auxiliares de Acuerdos, los Departamentos de Servicios Periciales, del Archivo Judicial, la Diligenciaría del Tribunal y la Oficialía de Partes;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XI. Coordinar las labores de los Diligenciarios del Tribunal y la Oficialía de Partes;
 
 XII. Remitir al Archivo Judicial los expedientes del Tribunal que deban ser depositados en aquel, conforme a la Ley;
 
@@ -1305,43 +1187,39 @@ XIV. Las demás que determinen las Leyes.
 
 Los Secretarios de Acuerdos de la Salas tendrán, en lo conducente, las facultades previstas en el Artículo anterior respecto del procedimiento o trámite que se realice en sus Salas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+### Capítulo Séptimo Bis. De la Dirección Jurídica
 
-### Capítulo Primero. De los Jueces
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 45 Bis.
 
-La Dirección Jurídica, es el órgano encargado de la defensa jurídica del Tribunal Superior de Justicia y atenderá todos aquellos asuntos legales en los que el Tribunal de Justicia del Estado tenga interés o bien sea llamado a actuar como parte ante los órganos jurisdiccionales estatal y federal.
+La Dirección Jurídica, es el órgano encargado de la defensa jurídica del Poder Judicial y atenderá todos aquellos asuntos legales en los que tengan interés o bien sea llamado a actuar como parte ante los órganos jurisdiccionales estatal y federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 45 Ter.
 
-Para ser Director Jurídico del Tribunal Superior de Justicia, se requerirá cumplir con los mismos requisitos que exige la Constitución del Estado para los jueces y será nombrado por el pleno a propuesta del Presidente del Tribunal.
+Para ser Director Jurídico del Poder Judicial, se requerirá cumplir con los mismos requisitos que exige la Constitución del Estado para los jueces y será nombrado por el Órgano de Administración Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-###### Artículo 45 Quáter.
+###### Artículo 45 Quater.
 
 El titular de la Dirección Jurídica tendrá las funciones siguientes:
 
-I. Atender los asuntos legales del Tribunal Superior de Justicia del Estado en sus aspectos consultivo y contencioso;
+I. Atender los asuntos legales del Poder Judicial del Estado en sus aspectos consultivo y contencioso;
 
-II. Ejercer, por mandato legal del Presidente del Tribunal Superior de Justicia del Estado, la representación jurídica del mismo en los juicios y procedimientos contenciosos en los que éste sea parte;
+II. Ejercer, por mandato legal de la persona titular de la Presidencia del Tribunal Superior de Justicia del Estado, la representación jurídica del mismo en los juicios y procedimientos contenciosos en los que éste sea parte;
 
-III. Emitir opiniones fundadas respecto de los expedientes y/o asuntos que le sean turnados para tal efecto, y
+III. Ejercer, por mandato legal de la persona titular de la Presidencia del Tribunal de Disciplina Judicial, la representación jurídica del mismo en los juicios, procedimientos contenciosos y demás asuntos en los que éste sea parte o tenga interés, y
 
-IV. Las demás que le sean encomendadas por el Presidente del Tribunal Superior de Justicia del Estado.
+IV. Ejercer, por mandato legal de la persona titular de la Presidencia del Órgano de Administración Judicial, la representación jurídica del mismo en los juicios, procedimientos contenciosos y demás asuntos en los que éste sea parte o tenga interés.
 
 ## TITULO TERCERO. JUZGADOS
 
-### Capítulo Segundo. De los Secretarios de Acuerdos
+### Capítulo Primero. De los Jueces
 
 ###### Artículo 46.
 
@@ -1349,15 +1227,15 @@ En los Distritos Judiciales en que existan varios Juzgados de igual competencia 
 
 En los casos de excusas o recusaciones, el Juez que se inhiba del conocimiento del asunto lo remitirá al Juzgado del mismo Distrito que corresponda, conforme al turno. Si se tratare de Juzgado único o cuando los demás Jueces estuviesen impedidos, el asunto se remitirá al Distrito Judicial más próximo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 47.
 
-Los Jueces, independientemente de su competencia por razón de la materia, deberán:
+Las Juezas y los Jueces, independientemente de su competencia por razón de la materia, deberán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-I. Cumplir y hacer cumplir sin demora y con estricto apego a la Ley, las determinaciones que dicten, así como las que le encomiende el Tribunal Superior de Justicia y el Consejo de la Judicatura;
+I. Cumplir y hacer cumplir sin demora y con estricto apego a la Ley, las determinaciones que dicten, así como las que le encomiende el Tribunal Superior de Justicia, el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial;
 
 II. Tramitar, sin costo para los litigantes, los exhortos, requisitorias y despachos que les remitan otros órganos jurisdiccionales;
 
@@ -1365,11 +1243,9 @@ III. Practicar las diligencias que decreten, dentro del territorio de su Distrit
 
 IV. Ordenar el envío oportuno al Archivo Judicial de los expedientes concluidos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-V. Remitir, dentro de los primeros cinco días de cada mes, al Presidente del Tribunal Superior de Justicia y al Consejo de la Judicatura, una relación de la radicación y conclusión de los asuntos de su competencia, así como rendir oportunamente los datos estadísticos que le sean requeridos;
+V. Remitir, dentro de los primeros cinco días de cada mes, a la persona titular de la Presidencia del Tribunal Superior de Justicia, al Órgano de Administración Judicial y al Tribunal de Disciplina Judicial, una relación de la radicación y conclusión de los asuntos de su competencia, así como rendir oportunamente los datos estadísticos que le sean requeridos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1377,11 +1253,9 @@ V. Remitir, dentro de los primeros cinco días de cada mes, al Presidente del Tr
 
 VI. Dirigir el desarrollo de los procesos, presidir las audiencias de prueba, y tomar la protesta a los testigos, absolventes y en caso necesario, a los peritos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-VII. Sugerir al Pleno del Tribunal y al Consejo de la Judicatura, las adecuaciones que estime necesarias para mejorar la Administración de la Justicia, y
+VII. Sugerir al Pleno del Tribunal y al Órgano de Administración Judicial, las adecuaciones que estime necesarias para mejorar la Administración de la Justicia;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1401,29 +1275,39 @@ IX. Proponer al Pleno del Tribunal Superior de Justicia, proyectos de reforma a 
 
 X. Integrar, en los casos de ausencia o insuficiencia de los preceptos, la norma aplicable al caso, debiendo ser congruente con la vigencia del orden jurídico;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XI. Cuidar el orden y disciplina del juzgado, en los casos que se amerite hacerlo del conocimiento del Tribunal de Disciplina Judicial para los efectos conducentes;
 
-XI. Cuidar el orden y disciplina del juzgado, en los casos que se amerite hacerlo del conocimiento del Consejo de la Judicatura para los efectos conducentes;
+XII. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XII. Otorgar licencias hasta por cinco días al personal del juzgado y comunicar su concesión a la Secretaría General del Tribunal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XIII. Presentar para su ingreso y periódicamente para su permanencia en el cargo, los exámenes de control de confianza que el Consejo de la Judicatura determine, y
+XIII. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XIV. Ejercer las demás atribuciones que les señalen otras Leyes.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 47 Bis.
+
+Cuando una Jueza o un Juez falten por un término menor a quince días al despacho del juzgado, la secretaria o el secretario de acuerdos respectiva practicará las diligencias y dictará las providencias de mero trámite y resoluciones de carácter urgente, dando aviso de ello al Órgano de Administración Judicial y remitiendo copia de la resolución dictada.
+
+Cuando las ausencias temporales de una Jueza o un Juez fueren superiores a quince días, pero menores a un mes, el Órgano de Administración Judicial podrá autorizarlas y designará a quien deba suplirlo de entre la lista de personas servidoras públicas habilitadas para desempeñar funciones jurisdiccionales a que se refiere la fracción XLI del artículo 68, de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 47 Ter.
+
+Las ausencias accidentales de la secretaria o el secretario y las temporales que no excedan de un mes, serán cubiertas por otra secretaria o secretario, si hubiere dos o más en el mismo juzgado o, en su defecto, por la o el diligenciario o asistente de notificación que designe la o el Juez respectivo.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 47 Quater.
+
+Las ausencias accidentales de las Diligenciarias y los Diligenciarios o asistentes de notificación, y las temporales que no excedan de un mes, serán cubiertas por otra Diligenciaria o Diligenciario o asistente de notificación del mismo juzgado o en su defecto, por una o un oficial de partes o asistente de atención al público que designe la o el Juez respectivo.
 
 ###### Artículo 48.
 
@@ -1541,11 +1425,15 @@ IV. De los demás asuntos que les encomienden las leyes y demás disposiciones a
 
 Los juzgados laborales se integrarán por:
 
-I. Un Juez o Jueza;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+I. Una Jueza o Juez;
 
 II. Secretaria o Secretario Instructor, y
 
-III. Las y los servidores públicos que determine el Consejo de la Judicatura.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+III. Las y los servidores públicos que determine el Órgano de Administración Judicial.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
 
@@ -1565,9 +1453,11 @@ Los jueces y juezas laborales tendrán las facultades y obligaciones que estable
 
 Los jueces y juezas laborales tienen fe pública en el ejercicio de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 50.
 
-Los Jueces Penales conocerán y resolverán:
+Las Juezas y los Jueces Penales conocerán y resolverán:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1581,11 +1471,7 @@ I. Los asuntos de carácter penal que le sean puestos a disposición;
 
 II. Practicar las diligencias que les encomiende el Tribunal Superior de Justicia y cumplimentar los exhortos que les dirijan los Jueces del Estado y los demás jueces y tribunales del País;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-III. Visitar en la cabecera de su Distrito Judicial, cuando menos una vez al mes, los establecimientos donde se encuentren recluidos los procesados y los sentenciados que estén purgando su condena, dando informe circunstanciado al Pleno del Consejo de la Judicatura, y
+III. (DEROGADA, P.O. 26 DE AGOSTO DE 2025)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1627,7 +1513,9 @@ XII. Modificar el tipo o la duración de obligaciones del imputado en la suspens
 
 XIII. Resolver sobre el desahogo de la prueba anticipada;
 
-XIV. Resolver las impugnaciones que haga la víctima u ofendido sobre las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensiones del procedimiento, cuando no esté satisfecha la reparación del dalo;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XIV. Resolver las impugnaciones que haga la víctima u ofendido sobre las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensiones del procedimiento, cuando no esté satisfecha la reparación del daño;
 
 XV. Resolver sobre la impugnación de los criterios de oportunidad;
 
@@ -1643,11 +1531,9 @@ XVII. Ejercer las atribuciones previstas en esta Ley, en el Código Nacional de 
 
 Corresponde a los Jueces del Juicio Oral Penal conocer del juicio oral penal en los casos que establezca el Código Nacional de Procedimientos Penales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-El Consejo de la Judicatura del Estado, mediante acuerdos generales determinará los Jueces de Juicio Oral, que funcionarán en el sistema acusatorio y que conocerán del Juicio Oral Penal, asimismo determinará la forma en que dichos jueces fungirán como Presidente, Secretario y Vocal en las audiencias de Juicio Oral.
+El Órgano de Administración Judicial, mediante acuerdos determinará la forma en que dichos jueces fungirán como titular de la Presidencia, Secretario y Vocal en las audiencias de Juicio Oral.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1703,13 +1589,11 @@ V. Visitar los centros de cumplimiento de las medidas impuestas del adolescente,
 
 VI. Las demás atribuciones que esta y otras leyes le asignen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 50 Septies.
 
-El Centro Estatal de Justicia Alternativa conocerá de los asuntos que la ley de la materia le confiere y contará con el personal necesario para su funcionamiento.
+El Centro Estatal de Mecanismos Alternativos de Solución de Controversias conocerá de los asuntos que la Ley de la materia le confiere y contará con el personal necesario para su funcionamiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1733,13 +1617,15 @@ VI. Visitar los centros de reinserción social, con el fin de cumplir eficazment
 
 VII. Los demás asuntos que les encomienden las leyes.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 51.
 
-El personal de los juzgados se integrará por los Secretarios de Acuerdos, Diligenciarios, Oficiales de Partes, así como los Proyectistas, Administradores de Oficina y demás personal de apoyo necesario para su funcionamiento, en los términos que fije el presupuesto.
+El personal de los juzgados se integrará por los Secretarios de Acuerdos, Asistentes de Audiencia, Asistentes de Causa, Proyectistas, Diligenciarios, Asistentes de Notificación, Oficiales de Partes, Asistentes de atención al público, así como los Administradores de Oficina y demás personal de apoyo necesario para su funcionamiento, en los términos que fije el presupuesto.
 
-Además de los servidores públicos indicados, el Consejo de la Judicatura nombrará al demás personal necesario para el buen funcionamiento del juzgado.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Además de los servidores públicos indicados, el Órgano de Administración Judicial nombrará al demás personal necesario para el buen funcionamiento del juzgado.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -1755,9 +1641,7 @@ En los juzgados laborales, habrá un mediador-conciliador que intervendrá, en a
 
 Los jueces y magistrados en materia penal, y especializados en justicia para adolescentes tienen fe pública en el ejercicio de sus funciones.
 
-### Capítulo Segundo Bis. De los Secretarios Instructores
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+### Capítulo Segundo. De los Secretarios de Acuerdos
 
 ###### Artículo 52.
 
@@ -1811,7 +1695,9 @@ III. Hacer las notificaciones, practicar los aseguramientos o cualquier otra dil
 
 IV. Las demás que la ley y otros ordenamientos jurídicos les otorguen.
 
-Los asistentes jurídicos de los Juzgados de Control, Juicio Oral del sistema acusatorio y Ejecución de Sanciones Penales tendrán las facultades que determine el Consejo de la Judicatura mediante acuerdos generales.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+El personal de los Juzgados de Control, Juicio Oral del sistema acusatorio y Ejecución de Sanciones Penales tendrán las facultades que determine el Órgano de Administración Judicial.
 
 ###### Artículo 53.
 
@@ -1825,7 +1711,9 @@ III. Tener cuando menos veintiocho años de edad el día del nombramiento;
 
 IV. Ser licenciado en derecho, con título y cédula profesionales legalmente expedidos;
 
-V. Haber ejercido como abogado postulante, académico o en la administración o procuración de justicia, cinco años anteriores a la fecha del nombramiento.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+V. Haber ejercido como abogado postulante, académico o en la administración o procuración de justicia;
 
 VI. Gozar de buena reputación; no haber sido condenado por la comisión de algún delito doloso, ni estar inhabilitado para desempeñar empleo, cargo o comisión públicos;
 
@@ -1837,11 +1725,13 @@ IX. Aprobar los exámenes públicos de oposición, que se efectúen conforme a l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2021)</small>
 
-### Capítulo Tercero. De los Diligenciarios
+### Capítulo Segundo Bis. De los Secretarios Instructores
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 53 Bis.
 
-En cada uno de los juzgados laborales habrá las y los secretarios instructores autorizados y nombrados que el Consejo de la Judicatura determine convenientes.
+En cada uno de los juzgados laborales habrá las y los secretarios instructores autorizados y nombrados que el Órgano de Administración Judicial determine convenientes.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
 
@@ -1849,11 +1739,11 @@ En cada uno de los juzgados laborales habrá las y los secretarios instructores 
 
 Las secretarias y secretarios instructores tendrán fe pública, en todo lo relativo al ejercicio de su cargo.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-###### Artículo 53.
+###### Artículo 53 Quater.
 
-(sic) Quáter. Para ser secretaria o secretario instructor se deberá de reunir los requisitos previstos en el artículo 53 de esta Ley, así como demostrar capacitaciones o experiencia en materia laboral.
+Para ser Secretaria o Secretario instructor se requerirá cumplir los requisitos previstos en el artículo 53 de esta Ley, así como demostrar capacitaciones o experiencia en materia laboral.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
 
@@ -1879,7 +1769,9 @@ VIII. Hacer constar oralmente el registro, fecha, hora y lugar de las audiencias
 
 IX. Rendir en tiempo y forma, dentro del ámbito de su competencia, el informe relacionado con la observancia a los ordenamientos jurídicos en materia de transparencia y acceso a la información pública;
 
-X. Dar vista al Consejo de la Judicatura de las faltas administrativas cometidas por el personal a su cargo;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+X. Dar vista al Tribunal de Disciplina Judicial o al Órgano de Administración Judicial, según corresponda de las faltas administrativas cometidas por el personal a su cargo;
 
 XI. Despachar los exhortos, requisitorias y colaboraciones que reciba el Tribunal, observando las formalidades procesales correspondientes;
 
@@ -1891,7 +1783,9 @@ XIV. Certificar los medios en donde se encuentren registradas las audiencias, id
 
 XV. Expedir copias certificadas de registros y actuaciones procesales a los interesados;
 
-XVI. Dar vista al Procurador o Agente del Ministerio Público en los casos que establece la Ley Federal del Trabajo;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XVI. Dar vista al Fiscal o Agente del Ministerio Público en los casos que establece la Ley Federal del Trabajo;
 
 XVII. Auxiliar al Juez en los casos que determine la Ley Federal del Trabajo;
 
@@ -1899,9 +1793,11 @@ XVIII. Proponer la capacitación y adiestramiento del personal a su cargo;
 
 XIX. Disponer la tramitación inmediata del escrito de emplazamiento a huelga que de manera lícita y justificada formule una coalición de trabajadores, observando los plazos establecidos en la Ley Federal del Trabajo; así como atender en el ámbito de su competencia, la substanciación del procedimiento correspondiente, y
 
-XX. Las que le confiera esta Ley, la Ley Federal del Trabajo, los acuerdos emitidos por el Pleno del Consejo de la Judicatura, las que le asigne el Juez y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-### Capítulo Cuarto. De los Oficiales de Partes
+XX. Las que le confiera esta Ley, la Ley Federal del Trabajo, los acuerdos emitidos por el Pleno del Órgano de Administración Judicial, las que le asigne el Juez y demás disposiciones jurídicas aplicables.
+
+### Capítulo Tercero. De los Diligenciarios
 
 ###### Artículo 54.
 
@@ -1953,13 +1849,13 @@ X. No retener bajo ningún motivo los expedientes pasado el término señalado p
 
 XI. Las demás que les fijen las leyes.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 55.
 
-Para ser designado Diligenciario se requerirá cumplir con los mismos requisitos que se enumeran en el Artículo 53, con excepción de la edad que será de veintiséis años y la experiencia profesional que deberá ser de cuatro años como mínimo.
+Para ser designado Diligenciario o Diligenciaria se requerirá cumplir con los mismos requisitos que se enumeran en el artículo 53, con excepción de la edad que será de veintiséis años, así como los que al efecto determine el Órgano de Administración Judicial.
 
-### Capítulo Quinto. De los Proyectistas
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+### Capítulo Cuarto. De los Oficiales de Partes
 
 ###### Artículo 56.
 
@@ -1983,21 +1879,21 @@ VIII. Suplir a los diligenciarios en sus ausencias, y
 
 IX. Las demás que determinen las Leyes.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 57.
 
-Para ser designado Oficial de Partes se requerirá cumplir con los mismos requisitos que exige esta Ley, para los Secretarios de Acuerdos, con excepción de la edad que será de veinticinco años y la experiencia profesional que deberá ser de tres años como mínimo.
+Para ser designado Oficial de Partes se requerirá cumplir los requisitos que al efecto determine el Órgano de Administración Judicial.
 
-Las ausencias temporales de los Oficiales de Partes serán cubiertas por quien designe el Juez.
+Las ausencias accidentales de la o el Oficial de Partes y las temporales que no excedan de un mes, serán cubiertas por otro Oficial, si hubiere dos o más en el mismo juzgado o, en su defecto, por la persona que designe el Juez.
 
-### Capítulo Sexto. De los Administradores de Oficina
+### Capítulo Quinto. De los Proyectistas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 58.
 
-En cada Juzgado, excepto en los del Sistema de Justicia Penal Acusatorio Oral, habrá un Proyectista, quien deberá reunir para su ingreso, los mismos requisitos que el Secretario de Acuerdos.
+En cada Juzgado, excepto en los del Sistema de Justicia Penal Acusatorio Oral, habrá un Proyectista, quien deberá reunir para su ingreso, los mismos requisitos que el Secretario de Acuerdos, así como los que al efecto determine el Órgano de Administración Judicial.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2005,15 +1901,21 @@ En cada Juzgado, excepto en los del Sistema de Justicia Penal Acusatorio Oral, h
 
 Los proyectistas formularán los proyectos de resoluciones que les encomiende el Juez, excepto en aquéllos asuntos de la competencia de los Jueces del Sistema de Justicia Penal Acusatorio Oral.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 60.
 
-Los Proyectistas cubrirán las ausencias temporales de los Secretarios de Acuerdos de los Juzgados.
+Las y los Proyectistas cubrirán las ausencias temporales de las y los Secretarios de Acuerdos de los Juzgados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE AGOSTO DE 2013)</small>
 
-### Capítulo Primero. Del Consejo de la Judicatura
+### Capítulo Sexto. De los Administradores de Oficina
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 60 Bis.
 
@@ -2025,9 +1927,13 @@ II. Vigilar y controlar la conducta de los funcionarios y empleados a su cargo, 
 
 III. Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las Salas de audiencia a su cargo y, en general, todas las medidas necesarias para la buena marcha de los juzgados;
 
-IV. Remitir a la Presidencia del Consejo de la Judicatura, una noticia estadística anual y otra mensual sobre el movimiento de negocios habidos en los juzgados en donde ejerce funciones administrativas, la primera dentro de los primeros cinco días de enero y la segunda en los primeros cinco días de cada mes, siendo sujetos de responsabilidad administrativa por omisión;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-V. Tener bajo su custodia los locales de los juzgados de su adscripción, los de las salas de audiencias que les correspondan así como la conservación de los bienes asignados a los mismos, debiendo poner en inmediato conocimiento del Consejo de la Judicatura cualquier deterioro que sufran;
+IV. Remitir a la Presidencia del Órgano de Administración Judicial, una noticia estadística anual y otra mensual sobre el movimiento de negocios habidos en los juzgados en donde ejerce funciones administrativas, la primera dentro de los primeros cinco días de enero y la segunda en los primeros cinco días de cada mes, siendo sujetos de responsabilidad administrativa por omisión;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+V. Tener bajo su custodia los locales de los juzgados de su adscripción, los de las salas de audiencias que les correspondan, así como la conservación de los bienes asignados a los mismos, debiendo poner en inmediato conocimiento del Órgano de Administración Judicial cualquier deterioro que sufran;
 
 VI. Custodiar los bienes y valores que se encuentren a disposición del Tribunal con motivo de la tramitación de los asuntos sometidos a su conocimiento;
 
@@ -2041,17 +1947,17 @@ VIII. Distribuir los asuntos entre los jueces por turno riguroso;
 
 IX. Velar porque se cumplan las normas de ingreso, registro, seguimiento y archivo de las causas del órgano jurisdiccional en el sistema informático;
 
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-X. Proponer mejoras al modelo de gestión y al sistema informático al Consejo de la Judicatura para el cabal cumplimiento de los objetivos planteados y la mejora continua del desempeño del órgano jurisdiccional;
+X. Proponer mejoras al modelo de gestión y al sistema informático al Órgano de Administración Judicial para el cabal cumplimiento de los objetivos planteados y la mejora continua del desempeño del órgano jurisdiccional;
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XI. Dar seguimiento a los plazos judiciales que restrinjan la libertad personal y notificar oportunamente su término al juez o tribunal que corresponda, y
 
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XII. Las demás que determine la ley o el Pleno del Tribunal.
+XII. Las demás que determine la Ley, el Pleno del Tribunal o el Órgano de Administración Judicial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2067,259 +1973,345 @@ II. Ser licenciado en administración o en derecho con especialidad en administr
 
 III. No haber sido condenado por delito doloso en los últimos seis años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
-
 ###### Artículo 60 Quater.
 
-El Titular del Centro Estatal de Justicia Alternativa además de los requisitos que exige la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Tlaxcala, deberá acreditar experiencia mínima de dos años en materia de Mecanismos Alternativos de Solución de Controversias.
-
-Para ser mediador o conciliador se deben reunir los mismos requisitos que se establecen para el Titular del Centro Estatal de Justicia Alternativa, con excepción de la edad, que será cuando menos de veinticinco años de edad, así como el perfil profesional que deberá ser de licenciado en derecho, en psicología o en trabajo social. En materia penal deberá cumplirse con los requisitos exigidos por la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en materia penal.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ## TITULO CUARTO. ADMINISTRACION DEL PODER JUDICIAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-### Capítulo Segundo. De las Unidades Administrativas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2008)</small>
+### Capítulo Primero. Del Órgano de Administración Judicial
 
 #### Sección Primera. Generalidades
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 61.
 
-El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, con autonomía técnica y de gestión, así como para emitir sus acuerdos y resoluciones; tendrá a su cargo la administración, vigilancia, disciplina y la implementación de la carrera judicial del Poder Judicial, con excepción del Pleno y los Magistrados.
+El Órgano de Administración Judicial contará con independencia técnica y de gestión, tendrá a su cargo la administración de todos los órganos del Poder Judicial del Estado, y velará por su buen funcionamiento, autonomía, independencia, imparcialidad y legitimidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+###### Artículo 61 Bis.
+
+La Presidencia del Órgano de Administración Judicial será designada mediante sesión del Pleno del mismo. La persona titular de la Presidencia durará dos años en el encargo y ejercerá las atribuciones que le confiere el artículo 72 de esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 62.
 
-Para el debido cumplimiento de sus funciones, el Consejo de la Judicatura expedirá su reglamento interior, tomando en consideración lo dispuesto al respecto por la Constitución Política local y esta ley; mismo que se publicará en el Periódico Oficial del Gobierno del Estado, para los fines de su divulgación y observancia legal.
+Para el debido cumplimiento de sus funciones, el Órgano de Administración Judicial expedirá acuerdos generales, tomando en consideración lo dispuesto al respecto por la Constitución del Estado y esta Ley; mismo que se publicará en el Periódico Oficial del Gobierno del Estado, para los fines de su divulgación y observancia legal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 63.
 
-El Consejo de la Judicatura se integrará por cinco consejeros en los términos que prevé el artículo 85 de la Constitución del Estado.
+El Órgano de Administración Judicial estará integrado por cinco personas en los términos del artículo 85 de la Constitución del Estado, y funcionará en Pleno o a través de Comisiones.
 
-Los Consejeros de la Judicatura percibirán la remuneración que corresponda a los Magistrados del Tribunal Superior de Justicia.
+El Pleno estará conformado por la totalidad de sus integrantes, y sólo podrá funcionar con la presencia de al menos cuatro de sus miembros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 64.
 
-Para ser Consejero de la Judicatura, se requiere del cumplimiento de los mismos requisitos que se exigen para ser Magistrado del Tribunal Superior de Justicia.
+Las personas integrantes del Órgano de Administración Judicial (sic) cumplir con los requisitos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Ser mexicanas o mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+II. Contar con experiencia profesional mínima de cinco años;
 
-El consejero representante de los magistrados y el consejero representante de los jueces del Poder Judicial del Estado, serán designados por el Pleno del Tribunal Superior de Justicia, en los términos que establece el artículo 85 fracciones II y III de la Constitución Política del Estado Libre y Soberano de Tlaxcala; recayendo tal designación, para el caso del consejero representante de los magistrados, en un profesional del derecho de reconocido prestigio académico que haya destacado en el ejercicio de la profesión o que haya contribuido notablemente como servidor público del Poder Judicial respecto de la producción del derecho.
+III. Contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial, con antigüedad mínima de cinco años, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. No estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 64 Bis.
 
-Las licencias de los Consejeros serán otorgadas conforme lo dispone esta Ley.
+En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
 
-Cuando la licencia se otorgue por un plazo hasta de quince días naturales, no será necesario designar a un Consejero interino, pero cuando recaiga en el Presidente del Consejo de la Judicatura, el Pleno deberá designar de entre los otros cuatro Consejeros a quien fungirá como Presidente interino.
+Las licencias de las personas integrantes del Órgano de Administración Judicial serán otorgadas conforme lo dispone esta Ley.
 
-Cuando la licencia fuere por un periodo superior a quince días naturales el Consejero será suplido interinamente por la persona que determine la autoridad que lo designó. En caso de que el Consejero a quien se le otorgue la licencia fuera el Presidente del Pleno del Consejo de la Judicatura, quien sea designado desempeñará ese cargo.
+Cuando la licencia se otorgue por un plazo de hasta quince días naturales, no será necesario designar a un integrante interino, pero cuando recaiga en la persona titular de la Presidencia, el Pleno del Órgano de Administración Judicial deberá designar de entre sus integrantes a quien fungirá como Presidente interino.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA</small>
-
-ESTE ORDENAMIENTO.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+Cuando la licencia fuere por un periodo superior a quince días naturales, será suplido interinamente por la persona que determine la autoridad que lo designó. En caso de que el integrante del Pleno a quien se le otorgue la licencia fuera la persona titular de la Presidencia, quien sea designado desempeñará ese cargo.
 
 ###### Artículo 65.
 
-El Consejo de la Judicatura funcionará en Pleno o en comisiones. En el primer caso, resolverá sobre la designación, adscripción, ratificación, renuncias, licencias y remoción de jueces y demás integrantes de los juzgados, así como de los servidores públicos auxiliares de la función jurisdiccional, excepto del personal adscrito al Pleno, a las salas y a la Presidencia del Tribunal. En el segundo supuesto, sin perjuicio del número de sus integrantes y de las funciones que se determinen, decidirá lo relativo al personal que desempeñe tareas administrativas o de apoyo.
-
-Las decisiones del Consejo de la Judicatura, en la esfera exclusiva de su competencia, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de Jueces, las cuales podrán ser revisadas por el Pleno del Tribunal, únicamente para verificar si fueron o no emitidas conforme a las normas que se establecen en esta ley.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 65 Bis.
 
-El Pleno del Consejo de la Judicatura podrá integrar comisiones para atender los asuntos que expresamente les encomienden, quienes funcionarán en los términos que señale el reglamento respectivo, debiendo existir en todo caso las que atiendan los asuntos relacionados con la disciplina, la carrera judicial, la administración del Poder Judicial, vigilancia, visitaduría y del Tribunal de Justicia Administrativa.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-A las sesiones de las comisiones podrá invitarse, con voz pero sin voto, a personas que por sus conocimientos enriquezcan las labores de las mismas. La invitación la realizará el Consejero que presida la Comisión.
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-Las sesiones del Pleno y de las Comisiones del Consejo de la Judicatura serán públicas y privadas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 65 Ter.
 
-Las resoluciones del Pleno y los dictámenes de las Comisiones se tomarán por mayoría de votos. El consejero que disintiere podrá presentar su voto particular, el que se insertará en el acta respectiva.
+Las resoluciones del Pleno del Órgano de Administración Judicial se tomarán por el voto de la mayoría de las y los integrantes presentes, y por mayoría calificada de cuatro votos en los casos que así se requiera por el artículo 68 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las y los integrantes no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando no hayan asistido a la sesión en que se ha discutido el asunto de que se trate. En caso de empate, la o el Presidente tendrá voto de calidad.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+El Pleno del Órgano de Administración Judicial calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si la persona impedida fuera la o el Presidente, será sustituido por la Magistrada o Magistrado Presidente del Tribunal de Disciplina Judicial.
+
+La o el integrante que disintiere de la mayoría podrá formular voto particular, el cual se insertará en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
 
 ###### Artículo 66.
 
-El Consejo de la Judicatura recibirá y tramitará las quejas e informes sobre demoras, excesos y omisiones en que incurran los servidores públicos del Poder Judicial, en el despacho de los asuntos que les competan, a efecto de dictar las providencias oportunas para su corrección o la denuncia penal correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 66 Bis.
 
-Los asuntos tratados en el Pleno o en las Comisiones constarán en actas, las que deberán firmarse por los Consejeros presentes en la sesión, y notificarse personalmente a los interesados. Cuando el Pleno estime que sus determinaciones, acuerdos y resoluciones pudieren resultar de interés general, deberá ordenar su publicación en el órgano oficial de difusión del Poder Judicial y en los medios que estime convenientes.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2008)</small>
+#### Sección Segunda. Del Funcionamiento del Órgano de Administración Judicial
 
-#### Sección Segunda. Del Funcionamiento del Consejo de la Judicatura
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 67.
 
-El Consejo de la Judicatura sesionará ordinariamente una vez al mes por convocatoria de su Presidente, para analizar y resolver los asuntos de su competencia y de manera extraordinaria cuando lo solicite alguno de sus miembros.
+El Órgano de Administración Judicial tendrá cada año dos períodos de sesiones. El primero comenzará el primer día hábil del mes de enero y terminará el último día hábil de la primera quincena del mes de julio, y el segundo comenzará el primer día hábil del mes de agosto y terminará el último día hábil de la primera quincena del mes de diciembre.
 
-Para sesionar se requiere, cuando menos, la presencia de tres de sus integrantes, entre los que deberá estar el Presidente del Consejo de la Judicatura. Sus decisiones se tomarán por mayoría o por unanimidad de votos; en caso de empate el Presidente tendrá voto de calidad.
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+###### Artículo 67 Bis.
+
+Al clausurar sus períodos ordinarios de sesiones, el Pleno del Órgano de Administración Judicial designará a las y los integrantes que deban proveer los trámites y resolver los asuntos de notoria urgencia que se presenten durante los recesos, así como a las y los secretarios y personas empleadas que sean necesarias para apoyar sus funciones.
+
+Al reanudarse el correspondiente período ordinario de sesiones, las y los integrantes darán cuenta al Pleno del Órgano de Administración Judicial de las medidas que hayan tomado, a fin de que éste acuerde lo que proceda.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 67 Ter.
+
+Las sesiones ordinarias del Pleno del Órgano de Administración Judicial serán privadas y se celebrarán en los días y horas que el mismo determine mediante acuerdos.
+
+El Pleno del Órgano de Administración Judicial podrá sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes. Dicha solicitud deberá presentarse a la persona titular de la Presidencia del propio Órgano de Administración Judicial a fin de que emita la convocatoria correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 68.
 
-Son atribuciones del Pleno del Consejo de la Judicatura:
+Son atribuciones del Órgano de Administración Judicial las siguientes:
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+I. Nombrar, adscribir, ratificar, remover, otorgar licencia, recibir renuncias y sancionar, en su caso, al personal jurisdiccional y administrativo del Poder Judicial, y resolver sobre la adscripción y readscripción de las y los Jueces de primera instancia, al órgano jurisdiccional correspondiente del distrito judicial en el que hayan sido electos;
 
-I. Nombrar, adscribir, ratificar, remover, otorgar licencia, aceptar renuncias y sancionar, en su caso, jueces, personal jurisdiccional y administrativo del Poder Judicial, a excepción de los magistrados propietarios.
+II. Dividir al Estado en Distritos Judiciales, residiendo en ellos los juzgados de primera Instancia que determine;
 
-II. Dividir al Estado en Distritos Judiciales, residiendo en ellos los juzgados de primera Instancia que el Consejo determine;
+III. Establecer mediante acuerdo general las Comisiones y áreas administrativas que estime convenientes para su adecuado funcionamiento, y designar a las y los miembros que deban integrarlas, incluyendo los relativos a la carrera judicial;
 
-III. Expedir acuerdos generales para el ejercicio de sus funciones administrativas, incluyendo los relativos a la carrera judicial;
+IV. Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su mantenimiento, conservación y acondicionamiento;
 
-IV. Informar al Pleno del Tribunal respecto de la designación, adscripción, ratificación y remoción de jueces de primera instancia; así como del personal auxiliar de la función jurisdiccional;
+V. Intervenir y coordinar el funcionamiento entre los órganos del Poder Judicial del Estado;
 
-V. Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su mantenimiento, conservación y acondicionamiento;
+VI. Expedir los reglamentos interiores en materia administrativa, de carrera judicial y de escalafón del Poder Judicial del Estado, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 85 de la Constitución Política del Estado Libre y Soberano de Tlaxcala y de la función jurisdiccional estatal;
 
-VI. A solicitud del Pleno del Tribunal, emitir acuerdos generales para asegurar un adecuado ejercicio de la función jurisdiccional;
+VII. Nombrar, a propuesta de la persona titular de la Presidencia, al Secretario Ejecutivo y a las y los titulares de los órganos auxiliares del propio Órgano de Administración Judicial;
 
-VII. Determinar en el reglamento o disposición administrativa en la materia, los procedimientos, requisitos y criterios de selección, en los que se tomarán en cuenta la carrera judicial, el concurso de oposición y demás exigencias de orden constitucional; asimismo, expedir y mantener actualizados, los reglamentos interiores en materia administrativa, que rijan las funciones de los órganos de justicia y sus servidores públicos; los de examen de oposición para ocupar el cargo de Juez y demás servidores públicos; de la carrera judicial; de escalafón y de regímenes disciplinarios que sean necesarios para el buen funcionamiento del Poder Judicial;
+VIII. Investigar, substanciar y resolver los procedimientos de responsabilidad administrativa de las personas servidoras públicas que desempeñen funciones administrativas en el Poder Judicial del Estado;
 
-VIII. Nombrar, a propuesta del Consejero Presidente, al Secretario Ejecutivo; y a propuesta de los consejeros al Tesorero y al personal operativo, que reúnan los requisitos para el cargo de que se trate;
+IX. Establecer las disposiciones generales necesarias para el ingreso, remoción, estímulos, capacitación, ascensos y promociones por escalafón del personal del Poder Judicial del Estado, los cuales no podrán ser mayores a los establecidos para la persona titular de la Presidencia de la República en el presupuesto correspondiente;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+X. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos y de servicios al público; así como para la organización, administración y resguardo de los archivos del Tribunal Superior de Justicia, Tribunal de Disciplina Judicial, y los juzgados;
 
-IX. Recibir, tramitar y resolver las quejas administrativas o denuncias que se formulen en contra de los servidores públicos del Poder Judicial del Estado, así como las quejas que se formulen en contra de los Jueces de los Juzgados del Sistema de Justicia Penal Acusatorio Oral por no realizar un acto procesal dentro del plazo señalado por el Código Nacional de Procedimientos Penales. Sus resoluciones serán definitivas e inatacables;
+XI. Solicitar al Pleno, a las salas y a la o el Magistrado Presidente, así como a las unidades de apoyo del Tribunal Superior, la información procedente y opiniones que requiera para el mejor desempeño de sus funciones;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+XII. Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares; así como coordinar y supervisar el buen funcionamiento de los mismos, con excepción de las atribuciones que correspondan al Tribunal de Disciplina Judicial;
 
-X. Otorgar estímulos y recompensas a las y los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo, conforme a lo establecido en la legislación que resulte aplicable.
+XIII. Ordenar las visitas periódicas a los juzgados, para observar la conducta y desempeño del personal; recibiendo las quejas y denuncias que hubiese en contra de ellos. Ejercer las atribuciones que señala esta ley;
 
-XI. Vigilar el funcionamiento del órgano que realice labores de compilación y sistematización de leyes, tesis, ejecutorias, precedentes y jurisprudencia, así como de la estadística e informática, de la biblioteca y del archivo general del Poder Judicial;
+XIV. Elaborar estudios de las leyes y disposiciones reglamentarias relacionadas con la organización y funcionamiento de la administración de justicia;
 
-XII. Solicitar al Pleno, a las salas y al Magistrado Presidente, así como a las unidades de apoyo del Tribunal Superior, la información procedente y opiniones que requiera para el mejor desempeño de sus funciones;
+XV. Autorizar en términos de esta Ley, a las y los Jueces para que, en casos de ausencias de alguna de sus personas servidoras públicas o empleadas, nombren a una interina o un interino;
 
-XIII. Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares;
+XVI. Recibir las renuncias que presenten Magistradas, Magistrados, Juezas y Jueces e informarlas al Congreso del Estado para los efectos del artículo 54, fracción XXXI Bis de la Constitución Política del Estado de Tlaxcala;
 
-XIV. Ordenar las visitas periódicas a los juzgados, para observar la conducta y desempeño del personal; recibiendo las quejas y denuncias que hubiese en contra de ellos. Ejercer las atribuciones que señala esta ley, así como practicar las visitas especiales o extraordinarias que le solicite el Pleno del Tribunal, dándole cuenta oportuna, en ambos casos, de sus resultados;
+XVII. Conocer y autorizar las licencias, con o sin goce de sueldo, para todas las personas servidoras públicas del Poder Judicial del Estado, con excepción de los cargos de Magistrada o Magistrado del Tribunal Superior de Justicia y Magistrada o Magistrado del Tribunal de Disciplina Judicial; así como autorizar las licencias, cuando éstas no excedan de un mes, para el caso de Juezas y Jueces;
 
-XV. Elaborar estudios de las leyes y disposiciones reglamentarias relacionadas con la organización y funcionamiento de la administración de justicia;
+XVIII. Emitir las bases generales para las adquisiciones, arrendamientos y enajenación de bienes, la prestación de servicios y la contratación de obra que realice el Poder Judicial, en términos de lo dispuesto por el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XIX. Comunicar al Ministerio Público la presunta comisión de delitos por servidores públicos del Poder Judicial, cuando con motivo de su actuación tenga conocimiento de éstos;
 
-XVI. Autorizar a los secretarios de los juzgados para desempeñar las funciones de los jueces en las ausencias temporales de éstos; asimismo, designar a los secretarios interinos, conforme a los lineamientos que al respecto emita el Consejo de la Judicatura;
+XX. Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial del Estado, así como regular, recopilar, documentar, seleccionar y difundir para conocimiento público, con apego a las normas en materia de transparencia y acceso a la información pública, las sesiones de los tribunales y juzgados;
 
-XVII. Conocer y resolver respecto de las renuncias de los servidores públicos de confianza, de base y demás personal administrativo del Poder Judicial del Estado, con excepción de lo previsto en esta materia para los magistrados;
+XXI. Aprobar el plan de trabajo anual del Centro Estatal de Mecanismos Alternativos de Solución de Controversias;
 
-XVIII. Conceder licencia sin goce de sueldo hasta por seis meses, a los servidores públicos y al personal de confianza del Poder Judicial, con excepción de lo reservado al respecto para los magistrados.
+XXII. Aprobar los convenios de colaboración interinstitucional propuestos por el Centro Estatal de Mecanismos Alternativos de Solución de Controversias, así como impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias como un derecho fundamental que garantiza el acceso efectivo a la justicia, la solución de conflictos y genera una cultura de paz;
 
-Por lo que se refiere al personal de base, conforme se establece en las condiciones generales de trabajo;
+XXIII. Aprobar el Reglamento del Centro Estatal de Mecanismos Alternativos de Solución de Controversias, así como su reforma, adición o derogación;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XXIV. Recibir, tramitar, investigar y resolver las quejas administrativas o denuncias que se formulen en contra del personal administrativo del Poder Judicial del Estado, tomando en consideración lo previsto por este ordenamiento y la Ley General de Responsabilidades Administrativas. Sus resoluciones serán definitivas e inatacables;
 
-XIX. Emitir las bases generales para las adquisiciones, arrendamientos y enajenación de bienes, la prestación de servicios y la contratación de obra que realice el Poder Judicial, atendiendo lo dispuesto en las leyes de la materia;
+XXV. Otorgar autorización para que en una sede de juzgado puedan actuar uno o más jueces;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XXVI. Acordar las remociones del personal del Poder Judicial del Estado, conforme a lo que determine el Tribunal de Disciplina Judicial;
 
-XX. Calificar legalmente los impedimentos de los integrantes del Consejo de la Judicatura;
+XXVII. Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los órganos jurisdiccionales;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XXVIII. Establecer mediante acuerdo general las Comisiones que estime necesarias para la substanciación y resolución del procedimiento de responsabilidad administrativa en primera instancia;
 
-XXI. Comunicar al Ministerio Público la presunta comisión de delitos por servidores públicos del Poder Judicial, cuando con motivo de su actuación tenga conocimiento de éstos;
+XXIX. Emitir acuerdos generales para concentrar en uno o más órganos jurisdiccionales asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos, en los casos en que el Pleno del Tribunal Superior de Justicia lo solicite o bien cuando lo estime necesario por su trascendencia para el orden constitucional; la decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XXX. Aprobar el proyecto del presupuesto anual de egresos del Poder Judicial del Estado y enviarlo a la Gobernadora o Gobernador del Estado para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
-XXII. Fijar las bases de la política informática y estadística en el Poder Judicial;
+XXXI. Ejercer el presupuesto de egresos del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XXXII. Determinar el número de Juzgados, su competencia territorial y en su caso la especialización por materia, en cada distrito judicial del Estado;
 
-XXIII. Aprobar el plan de trabajo anual del Centro Estatal de Justicia Alternativa;
+XXXIII. Cambiar la residencia de los juzgados del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XXXIV. Fijar los períodos vacacionales del personal del Poder Judicial;
 
-XXIV. Aprobar los convenios de colaboración interinstitucional propuestos por el Centro Estatal de Justicia Alternativa;
+XXXV. Dictar las medidas que sean necesarias para preservar la seguridad de las personas juzgadoras;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XXXVI. Substanciar y resolver en Pleno los recursos de revisión en los casos que involucren faltas no graves del personal administrativo del Poder Judicial del Estado;
 
-XXV. Aprobar el Reglamento del Centro Estatal de Justicia Alternativa, así como su reforma, adición o derogación;
+XXXVII. Dictar medidas como las relativas al cambio de adscripción, cambio de órgano jurisdiccional, o reubicación del personal del Poder Judicial del Estado para facilitar las investigaciones y procedimientos disciplinarios respectivos, en coordinación con el Tribunal de Disciplina Judicial;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+XXXVIII. Aplicar y ejecutar las medidas provisionales necesarias que permitan la efectiva substanciación de cualquier proceso de investigación, por sí, o a solicitud del Tribunal de Disciplina Judicial;
 
-XXVI. Recibir, tramitar, investigar y resolver las quejas administrativas o denuncias que se formulen en contra de las y los servidores públicos del Poder Judicial del Estado, tomando en consideración lo previsto por este ordenamiento y la Ley General de Responsabilidades Administrativas. Sus resoluciones serán definitivas e inatacables;
+XXXIX. Informar del (sic) Congreso del Estado los cargos sujetos a elección, la cantidad de plazas disponibles para cada cargo, la especialización por materia, el distrito judicial respectivo y demás información que requiera;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XL. Determinar las disposiciones generales necesarias para el ingreso, permanencia y separación del personal de carrera judicial y administrativo de conformidad con la normatividad aplicable;
 
-XXVII. Otorgar autorización para que en una sede de juzgado puedan actuar uno o más jueces, y
+XLI. Aprobar en cada distrito judicial listas de servidoras y servidores públicos autorizados para desempeñar funciones jurisdiccionales en caso de ausencia de la persona titular del órgano jurisdiccional hasta por 30 días;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XLII. Nombrar, a propuesta de su presidenta o presidente, a las y los titulares de los órganos auxiliares del Poder Judicial del Estado y resolver sobre sus renuncias y licencias cuando no sean mayores a 30 días;
 
-XXVIII. Las demás que las leyes o reglamentos le otorguen.
+XLIII. Nombrar a las y los servidores públicos de los órganos auxiliares del Órgano de Administración Jndicial (sic), y acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XLIV. Nombrar, a propuesta de su presidenta o presidente, a las y los secretarios ejecutivos del Órgano de Administración Judicial, así como conocer de sus licencias, y renuncias;
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+XLV. Realizar las funciones que le confiere el Código Nacional de Procedimientos Civiles y Familiares y expedir las disposiciones necesarias para su debido cumplimiento;
+
+XLVI. Convocar periódicamente a congresos estatales de Magistradas, Magistrados, Juezas, Jueces, asociaciones profesionales representativas e instituciones de educación superior, a fin de revisar el buen funcionamiento de los órganos del Poder Judicial del Estado y proponer las medidas pertinentes para mejorarlos;
+
+XLVII. Diseñar y aplicar evaluaciones de desempeño al personal del Poder Judicial del Estado para garantizar el buen servicio;
+
+XLVIII. Formar anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
+
+XLIX. Generar y coordinar una Política de Difusión de la Cultura Jurídica y el respeto al Estado de Derecho, y
+
+L. Desempeñar cualquier otra función que las normas constitucionales o legales encomienden al Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 68 Bis.
+
+El Órgano de Administración Judicial observará la perspectiva de género, de forma transversal, progresiva, y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 68 Ter.
+
+El Pleno del Órgano de Administración Judicial deberá establecer mediante acuerdo general las áreas especializadas en la prevención y erradicación de la violencia sexual y de género en el Poder Judicial del Estado, y velará porque las mismas cuenten con las atribuciones y recursos suficientes para implementar estrategias de prevención, brindar atención y proponer los mecanismos de sanción en casos de acoso sexual y cualquier otra forma de violencia sexual y de género a las personas trabajadoras del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 68 Quater.
+
+El Órgano de Administración Judicial será responsable de la administración de la Carrera Judicial del Poder Judicial, en los términos que establecen la Constitución del Estado y esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 68 Quinquies.
+
+El Órgano de Administración Judicial podrá crear, mediante acuerdo, órganos jurisdiccionales especializados en el Sistema Integral de Justicia Penal para Adolescentes, o bien, habilitar órganos jurisdiccionales especializados en el sistema penal acusatorio para que ejerzan dicha función, siempre que cuenten con la formación, capacitación y especialización necesarias para tal efecto.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 68 Sexies.
+
+El Órgano de Administración Judicial contará con una Junta de Coordinación que dependerá administrativamente de éste, pero fungirá como agencia permanente de coordinación y comunicación institucional entre el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial.
+
+La Junta de Coordinación estará encabezada por la o el Secretario Ejecutivo del Pleno del Órgano de Administración Judicial y por la persona titular de la Secretaría de Acuerdos del Tribunal de Disciplina Judicial.
+
+La Junta de Coordinación tendrá las atribuciones contenidas en esta Ley y las que determine el Órgano de Administración Judicial mediante acuerdo general.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 68 Septies.
+
+El Pleno del Órgano de Administración Judicial podrá ordenar la creación mediante acuerdo general, las direcciones, unidades y áreas administrativas que conformen la estructura orgánica administrativa del propio Órgano necesarias para su buen funcionamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 68 Octies.
+
+Con excepción de los casos a que se refiere el artículo 68 de esta Ley, el Pleno del Órgano de Administración Judicial podrá establecer mediante acuerdos, cuáles de las atribuciones previstas en el propio artículo podrán ejercitarse por las Comisiones creadas por el Pleno.
+
+Las Comisiones tendrán facultades decisorias o consultivas según determine el reglamento expedido por el Pleno del propio Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 68 Nonies.
+
+El Pleno del Órgano de Administración Judicial contará con las personas servidoras públicas que establece esta Ley, las personas secretarias técnicas y el personal subalterno que determine el presupuesto, las cuales podrán ser nombradas y removidas de conformidad con lo previsto en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 69.
 
-El Consejo de la Judicatura, para el cumplimiento de sus atribuciones será apoyado por las unidades administrativas, las cuales se sujetarán a las normas establecidas en el reglamento que para tal efecto se expida.
+Las resoluciones del Pleno del Órgano de Administración Judicial constarán en acta y deberán firmarse por la persona titular de la Presidencia y la o el Secretario Ejecutivo, y notificarse personalmente a las partes interesadas a más tardar al día siguiente de su aprobación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La notificación y, en su caso, la ejecución de las mismas deberá realizarse por conducto del personal y unidades del Órgano de Administración Judicial o del juzgado que actúe en auxilio de éste.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+El Pleno del Órgano de Administración Judicial deberá ordenar la publicación de sus reglamentos, acuerdos o resoluciones en el Periódico Oficial del Gobierno del Estado de Tlaxcala, cuando pudieran resultar de interés general.
 
-Las resoluciones del Pleno y de las comisiones del Consejo de la Judicatura constarán en acta y deberán firmarse por los presidentes y secretarios respectivos, notificándose personalmente a la brevedad a las partes interesadas.
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 69 Bis.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+El Órgano de Administración Judicial establecerá las Comisiones permanentes o transitorias que estime pertinentes para el adecuado desempeño de sus funciones, cuyo número y atribuciones se determinará mediante acuerdos generales del Pleno.
 
-Cuando el Pleno del Consejo de la Judicatura estime que sus acuerdos o resoluciones o de las comisiones sean de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
+Las Comisiones deberán estar conformadas cuando menos por tres integrantes.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 69 Ter.
+
+El Pleno del Órgano de Administración Judicial determinará las atribuciones y que asuntos serán dictaminados por las Comisiones, pero votados en Pleno.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 69 Quater.
+
+Las Comisiones serán competentes para substanciar y resolver en primera instancia los procedimientos de responsabilidad administrativa por faltas no graves, seguidos contra las personas que desempeñan funciones administrativas en el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 69 Quinquies.
+
+Las Comisiones creadas elegirán a la persona titular de la Presidencia, y determinarán el tiempo que deba permanecer en el cargo y las funciones que deba ejercer, previa autorización del Pleno del Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 69 Sexies.
+
+Las resoluciones de las Comisiones se tomarán por mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar, salvo que exista algún impedimento. Las Comisiones calificarán las excusas e impedimentos de sus miembros.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 69 Septies.
+
+En todos aquellos casos en los que no fuere posible la resolución de un asunto en Comisiones, su conocimiento y resolución pasará al Pleno del Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 69 Octies.
+
+Las Comisiones contarán con las secretarías ejecutivas de Comisiones necesarias para su adecuado funcionamiento, cuyas atribuciones determinará el Pleno del Órgano de Administración Judicial mediante acuerdos.
+
+Las y los secretarios ejecutivos deberán cumplir con los requisitos siguientes:
+
+I. Tener título profesional de licenciatura en Derecho legalmente expedido, con experiencia mínima de cinco años;
+
+II. Gozar de buena reputación, y
+
+III. No haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2327,109 +2319,65 @@ Cuando el Pleno del Consejo de la Judicatura estime que sus acuerdos o resolucio
 
 (DEROGADO, P.O. 8 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
 ###### Artículo 71.
 
-Los Consejeros tendrán las atribuciones siguientes:
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+#### Sección Tercera. De la Presidencia del Órgano de Administración Judicial
 
-I. Participar con voz y voto en las sesiones del Consejo de la Judicatura;
-
-II. Realizar las propuestas necesarias para el mejor funcionamiento del Poder Judicial;
-
-III. Cumplir con las comisiones que se les encomienden, y
-
-IV. Las demás que señalen las disposiciones reglamentarias.
-
-#### Sección Tercera. Del Presidente del Consejo de la Judicatura
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 72.
 
-Son atribuciones del Presidente del Consejo de la Judicatura, las siguientes:
+Son atribuciones de la persona titular de la Presidencia del Órgano de Administración Judicial, las siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Presidir el Pleno del Órgano de Administración Judicial, dirigir los debates, conservar el orden en las Sesiones, conocer y dar cuenta a los integrantes del Órgano con la correspondencia recibida;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+II. Convocar a los integrantes del Órgano de Administración Judicial a sesiones ordinarias o extraordinarias cada vez que lo estime necesario, señalando si serán públicas o privadas;
 
-I. Presidir el Pleno del Consejo de la Judicatura, dirigir los debates, conservar el orden en las Sesiones, conocer y dar cuenta al Consejo de la Judicatura con la correspondencia recibida;
+III. Resolver los asuntos cuya atención no admita demora, dada su importancia y trascendencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Vigilar el funcionamiento de los órganos auxiliares y de las unidades administrativas del Órgano de Administración Judicial;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+V. Informar al Congreso del Estado de las vacantes que se produzcan y que deban ser cubiertas mediante elección en términos del artículo 84 de la Constitución Política del Estado;
 
-II. Convocar a los integrantes del Consejo de la Judicatura a sesiones ordinarias o extraordinarias cada vez que lo estime necesario, señalando si serán públicas o privadas;
+VI. Ejercer las atribuciones que esta Ley le encomienda en lo relativo al archivo judicial, en materia editorial y la biblioteca;
 
-III. Presentar y ejercer el presupuesto de egresos del Poder Judicial, en lo que atañe al Consejo de la Judicatura, a sus órganos y unidades de apoyo, excepto, el correspondiente al Pleno y a las salas del Tribunal;
+VII. Representar al Órgano de Administración Judicial;
 
-IV. Resolver los asuntos cuya atención no admita demora, dada su importancia y trascendencia;
+VIII. Tramitar los asuntos de la competencia del Pleno del Órgano de Administración Judicial y turnar los asuntos entre sus integrantes o entre las comisiones en su caso, para que formulen los proyectos de resolución.
 
-V. Vigilar el funcionamiento de los órganos auxiliares y de las unidades administrativas del Consejo de la Judicatura;
+En caso de que la persona titular de la presidencia estime dudoso o trascendental algún trámite, designará a un integrante del Pleno para que someta el asunto a la consideración del Pleno del Órgano de Administración Judicial, a fin de que determine lo que corresponde;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IX. Despachar la correspondencia oficial del Órgano de Administración Judicial, salvo la reservada a las y los presidentes de las comisiones;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+X. Proponer al Pleno del Órgano de Administración Judicial los nombramientos de las y los secretarios ejecutivos, así como de las y los titulares de los órganos auxiliares del propio Órgano de Administración Judicial;
 
-VI. Hacer del conocimiento del Consejo de la Judicatura en Pleno, las faltas absolutas de los jueces y demás servidores públicos del Poder Judicial, con excepción de los magistrados;
+XI. Proponer al Pleno el orden del día de las sesiones, en el cual deberán considerarse los asuntos que sean turnados para conocimiento del Órgano de Administración Judicial;
 
-VII. Recibir quejas o denuncias administrativas por faltas cometidas por los servidores públicos del Poder Judicial, con excepción de los magistrados y dar cuenta al Consejo de la Judicatura;
+XII. Otorgar licencias en los términos previstos en esta Ley;
 
-VIII. Vigilar que los jueces rindan oportunamente el informe de sus actividades;
+XIII. Firmar las resoluciones y acuerdos del Pleno del Órgano de Administración Judicial, y legalizar, por sí o por conducto de la o el Secretario Ejecutivo que al efecto designe, la firma de las personas servidoras públicas del Poder Judicial del Estado en los casos en que la ley exija este requisito;
 
-IX. Ejercer las atribuciones que esta ley le encomienda en lo relativo al archivo judicial, en materia editorial y la biblioteca, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-X. Representar al Consejo de la Judicatura del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XI. Tramitar los asuntos de la competencia del Pleno del Consejo de la Judicatura y turnar los asuntos entre sus integrantes o entre las comisiones en su caso, para que formulen los proyectos de resolución;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XII. Despachar la correspondencia oficial del Consejo de la Judicatura, salvo la reservada a las comisiones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XIII. Proponer al Pleno del Consejo de la Judicatura los nombramientos de los titulares de los órganos auxiliares y demás personal del Consejo de la Judicatura;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XIV. Proponer al Pleno el orden del día de las sesiones, en el cual deberán considerarse los asuntos que sean turnados para conocimiento del Consejo de la Judicatura, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XIV. Integrar un informe que hará del conocimiento de la opinión pública, al finalizar el segundo período de sesiones de cada año, los resultados de labores del Órgano de Administración Judicial, y
 
 XV. Las demás que determinen las leyes, el Pleno, los reglamentos y acuerdos generales.
 
-### Capítulo Primero. Del Instituto de Especialización Judicial
+### Capítulo Segundo. De las Unidades Administrativas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Primera. Secretaría Ejecutiva
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 72 Bis.
+
+El Órgano de Administración Judicial contará con una Secretaria o Secretario Ejecutivo del Pleno, cuya estructura y atribuciones serán determinadas por el Pleno del Órgano de Administración Judicial mediante acuerdos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2443,45 +2391,33 @@ I. Ser Mexicano por nacimiento;
 
 II. Tener cuando menos treinta años de edad;
 
-III. Ser Abogado o Licenciado en Administración Pública, con práctica profesional de cuando menos cinco años;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-IV. No estar inhabilitado para desempeñar algún empleo, cargo o comisión en los Gobiernos Federal, Estatal o Municipal, ni haber sido sancionado por responsabilidad administrativa, y
+III. Ser Abogado o Licenciado en Administración Pública;
 
-V. No haber sido condenado por delito intencional o por cualquier otra conducta que afecte gravemente su honorabilidad.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. No estar inhabilitado para desempeñar algún empleo, cargo o comisión en los Gobiernos Federal, Estatal o Municipal, ni haber sido sancionado por responsabilidad administrativa;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+V. No haber sido condenado por delito intencional o por cualquier otra conducta que afecte gravemente su honorabilidad, y
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+VI. Las demás que al efecto determine el Órgano de Administración Judicial
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 73 Bis.
+
+La Secretaria o Secretario Ejecutivo del Pleno, a través de la Junta de Coordinación, auxiliará al Tribunal de Disciplina Judicial en la sustanciación de procedimientos disciplinarios y de responsabilidad que se lleven a cabo contra servidores públicos adscritos a los órganos auxiliares a cargo del Órgano de Administración Judicial, conforme a lo que dispongan la presente Ley y los respectivos acuerdos que para tal efecto se expidan.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 74.
 
-Corresponde al Secretario Ejecutivo del Consejo de la Judicatura:
-
-I. Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones laborales entre el Poder Judicial y sus servidores públicos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-II. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos del Poder Judicial;
-
-III. Proveer oportunamente a las dependencias del Poder Judicial de los recursos humanos, materiales y tecnológicos que requieran;
-
-IV. Controlar el inventario de los bienes muebles e inmuebles del Poder Judicial y procurar su conservación;
-
-V. Administrar los almacenes del Poder Judicial;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-VI. Comunicar a nombre del Consejo de la Judicatura al Tribunal de Conciliación y Arbitraje del Estado, los casos de terminación de la relación laboral y de los demás asuntos que así lo ameriten conforme a la ley;
-
-VII. Organizar periódicamente cursos de capacitación para el personal administrativo del Poder Judicial;
-
-VIII. Controlar e incrementar el acervo de la biblioteca jurídica, y
-
-IX. Las demás que le fijen otras disposiciones legales.
+La Secretaria o Secretario Ejecutivo del Pleno del Órgano de Administración Judicial deberá presentar quejas o denuncias ante el Tribunal de Disciplina Judicial, así como proporcionar al Tribunal de Disciplina Judicial, la información y documentación que pueda constituir indicio o medios de prueba en la investigación y determinación de responsabilidades administrativas de las personas trabajadoras del Poder Judicial del Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2495,115 +2431,181 @@ a) De Recursos Humanos.
 
 b) De Recursos Materiales.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+#### Sección Primera Bis. De los Órganos Auxiliares
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 75 Bis.
+
+Para su adecuado funcionamiento, el Órgano de Administración Judicial contará con los órganos auxiliares siguientes:
+
+I. La Tesorería;
+
+II. la Contraloría;
+
+III. El Departamento de Servicios Periciales;
+
+IV. La Unidad de Peritos Judiciales en Materia Laboral;
+
+V. El Archivo Judicial;
+
+VI. La Unidad de Igualdad de género;
+
+VII. El Instituto Estatal de Defensoría Pública;
+
+VIII. La Unidad de Administración Judicial;
+
+IX. La Unidad de Administración del Tribunal de Disciplina Judicial;
+
+X. El Instituto de Especialización Judicial, y
+
+XI. El Centro Estatal de Mecanismos Alternativos de Solución de Controversias del Poder Judicial del Estado de Tlaxcala en los términos que establece la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Tlaxcala.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 75 Ter.
+
+La estructura orgánica y el personal adscrito a los órganos auxiliares se determinarán conforme a lo dispuesto en la presente Ley, disposiciones jurídicas aplicables y en los acuerdos que para tal efecto emita el Órgano de Administración Judicial, considerando la disponibilidad presupuestaria.
+
 #### Sección Segunda. Tesorería
-
-#### Sección Tercera. Contraloría
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 76.
 
 Para ser Tesorero se requerirá cumplir con los requisitos previstos en el Artículo 73 de esta Ley, con excepción de la profesión, que deberá ser de licenciado en cualquier rama de las ciencias económico administrativas.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 77.
 
-El Tesorero tendrá las siguientes funciones:
+El Tesorero tendrá las funciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Ejecutar las acciones relativas al ejercicio del Presupuesto de Egresos del Poder Judicial, que le encomiende el Órgano de Administración Judicial, de acuerdo a los principios de legalidad, racionalidad, transparencia, honradez y eficiencia;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+II. Preparar oportunamente la cuenta pública del Poder Judicial, a efecto de que el Órgano de Administración Judicial la remita ante el Congreso del Estado en los términos previstos por las leyes;
 
-I. Ejecutar las acciones relativas al ejercicio del Presupuesto de Egresos del Poder Judicial, que le encomiende el Consejo de la Judicatura, de acuerdo a los principios de legalidad, racionalidad, transparencia, honradez y eficiencia;
+III. Elaborar el Presupuesto Anual de Egresos del Poder Judicial, el cual remitirá al Pleno del Órgano del (sic) Administración Judicial, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Las demás que le encomienden el Pleno del Órgano de Administración Judicial y demás disposiciones legales.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-II. Preparar oportunamente la cuenta pública del Poder Judicial, a efecto de que el Consejo de la Judicatura la rinda ante el Congreso del Estado en los términos previstos por las leyes;
-
-III. Elaborar la propuesta de Presupuesto Anual de Egresos del Poder Judicial, y someterlo a consideración del Presidente del Tribunal, y
-
-IV. Las demás que le encomienden otras disposiciones legales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 78.
 
-La Tesorería contará con el Departamento de Contabilidad y el personal de apoyo que le asigne el Consejo de la Judicatura.
+La Tesorería contará con el Departamento de Contabilidad y el personal de apoyo que le asigne el Órgano de Administración Judicial.
 
-#### Sección Cuarta. Servicios Periciales
+#### Sección Tercera. Contraloría
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 78 Bis.
+
+La Contraloría es un órgano auxiliar del Órgano de Administración Judicial con independencia técnica y de gestión, competente para realizar las auditorías, revisiones e inspecciones con el propósito de verificar el cumplimiento a la normativa aplicable; promover, evaluar y fortalecer el buen funcionamiento del control interno, así como para investigar hechos relacionados con los procedimientos de responsabilidad administrativa cometidos por los servidores públicos que desempeñen funciones administrativas, en los términos establecidos en las disposiciones jurídicas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 79.
 
 Para ser Contralor se requiere cumplir con los requisitos previstos en el artículo 73 de esta Ley, con excepción de la edad que será de treinta y cinco años como mínimo.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 80.
 
-La Contraloría tendrá las siguientes obligaciones:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+La Contraloría tendrá las atribuciones siguientes:
 
 I. Coordinar, controlar, investigar, inspeccionar y organizar el sistema de control y evaluación gubernamental de la actividad administrativa e inspeccionar el ejercicio del gasto público del Poder Judicial;
 
-II. Verificar la congruencia del ejercicio del gasto público del Poder Judicial con el Presupuesto de Egresos;
+II. Verificar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
 
-III. Practicar auditorías administrativas a todas las áreas del Poder Judicial, a efecto de comprobar la eficiencia de los funcionarios judiciales;
+III. Verificar que los recursos económicos de que dispone el Poder Judicial del Estado se administren con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados, en términos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Realizar estudios comparativos de los tiempos y movimientos, de las actividades desarrolladas en las diferentes áreas del Poder Judicial;
+IV. Implementar acciones para orientar el criterio que en situaciones específicas deberán observar las personas servidoras públicas en el desempeño de sus empleos, cargos o comisiones, salvo que se trate de cuestiones jurisdiccionales;
 
-V. Recibir y registrar las declaraciones de situación patrimonial que deban presentar los servidores públicos del Poder Judicial, en forma y términos que determinen las Leyes, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+V. Llevar el registro y seguimiento de la evolución de la situación patrimonial de las personas servidoras públicas del Poder Judicial del Estado y de su declaración de intereses, e integrarlas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como realizar la verificación aleatoria a que se refiere el artículo 30 de la Ley General de Responsabilidades Administrativas;
 
 VI. Formular y actualizar los manuales de organización del Poder Judicial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VII. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Poder Judicial del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+VIII. Coadyuvar con el Órgano de Evaluación de Desempeño adscrito al Tribunal de Disciplina Judicial en la elaboración de informes periódicos que contengan indicadores, datos, mediciones, análisis de productividad, y cualquier otra información que resulte del ejercicio de sus atribuciones y que sea de utilidad para el ejercicio de las evaluaciones de desempeño y seguimiento;
 
-VII. Intervenir en las juntas del Comité de Adquisiciones, Arrendamientos, Servicios y Obra Pública, en calidad de asesor, con derecho a voz y voto, y
+IX. Investigar hechos que puedan constituir faltas administrativas cometidas por el personal administrativo del Poder Judicial del Estado, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+X. Las demás que determinen los reglamentos y acuerdos generales correspondientes.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-VIII. Las demás que le faculte la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 80 Bis.
 
-La Contraloría, con autorización expresa del Presidente del Consejo de la Judicatura podrá contratar los servicios profesionales de despachos privados de contabilidad, auditoria y fiscalización para coadyuvar en el cumplimiento de sus tareas o para encomendarles en forma integral alguna o algunas acciones de la competencia de la propia Contraloría. En este caso, se establecerá que el contenido de las diligencias tiene carácter confidencial y que sus autores tienen la obligación de guardar el secreto profesional y sus resultados deberán informarse al Pleno del Tribunal Superior de Justicia por conducto del Presidente.
+La Contraloría, para el ejercicio de sus funciones, contará con las unidades administrativas siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Dirección de Auditoría;
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+II. Dirección de Investigación, y
+
+III. Las demás que determine el Pleno del Órgano de Administración Judicial.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 80 Ter.
 
-La Contraloría, a fin de garantizar y mantener su criterio independiente en la evaluación de las operaciones sujetas a su revisión no participará en la mecánica operativa de las otras áreas.
+La Dirección de Auditoría de la Contraloría tendrá como propósito inspeccionar y verificar el cumplimiento de las normas de funcionamiento administrativo y operativo de los órganos del Poder Judicial del Estado que confiere la ley al Órgano de Administración Jndicial (sic).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La realización de auditorías tendrá como finalidad facilitar al Órgano de Administración Judicial la evaluación del desempeño de sus órganos auxiliares y jurisdiccionales.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+Las funciones, atribuciones y lineamientos de actuación de la Dirección de Auditoría se determinarán por el Pleno del Órgano mediante reglamentos y acuerdos, sin perjuicio de las facultades conferidas al Tribunal de Disciplina Judicial en materia de vigilancia y disciplina.
 
-###### Artículo 80 Quáter.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-Para la consecución de sus objetivos, la Contraloría contará con el personal que sea necesario para llevar a cabo su función y para organizar el personal que preste auxilio a los magistrados que deban realizar las visitas conforme a la Ley.
+###### Artículo 80 Quater.
 
-#### Sección Cuarta Bis. Unidad de Peritos Judiciales en Materia Laboral
+La Dirección de Investigación será competente para investigar la presunta comisión de faltas administrativas no graves por parte del personal que desempeña labores administrativas en el Poder Judicial del Estado y será considerada autoridad investigadora en términos de la Ley General de Responsabilidades Administrativas.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 80 Quinquies.
+
+Las funciones que en esta Ley y mediante reglamentos y acuerdos se confieran a la Dirección de Auditoría serán ejercitadas por las y los auditores, quienes tendrán el carácter de personas representantes del Órgano de Administración Judicial para esos efectos.
+
+Las personas auditoras serán designadas por el propio Órgano de Administración Judicial y deberán satisfacer los requisitos establecidos en el artículo 73 de la presente Ley, con excepción de la profesión, que necesariamente deberá ser de licenciado en derecho y, la experiencia profesional, que deberá ser de al menos diez años.
+
+El Órgano de Administración Judicial establecerá, mediante acuerdos, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de las y los auditores y, en caso de identificar irregularidades, notificará al Tribunal de Disciplina Judicial para los efectos correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 80 Sexies.
+
+Las personas auditoras, de acuerdo con los sorteos periódicos que realice la Contraloría, deberán inspeccionar de manera ordinaria los órganos auxiliares y jurisdiccionales estatales a cargo del Órgano de Administración Judicial cnando (sic) menos una vez por año, de conformidad con las disposiciones generales qne (sic) emita el propio Órgano de Administración Judicial en esta materia.
+
+Ningún auditor o auditora podrá visitar los mismos órganos por más de un año.
+
+Las personas auditoras deberán informar con la debida oportunidad a las y los titulares de los órganos a que se refiere el primer párrafo de la visita ordinaria de inspección que vayan a practicar, a fin de que procedan a fijar el correspondiente aviso en los estrados del órgano con una anticipación mínima de quince días.
+
+La Contraloría podrá ordenar de oficio o a petición del Órgano de Administración Judicial la celebración de auditorías extraordinarias para verificar el cumplimiento de cualquier cuestión que resulte de trascendencia para el cumplimiento de las atribuciones y competencia del Órgano, siempre que a su juicio existan elementos que hagan necesaria la inspección.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 80 Septies.
+
+Cuando del resultado de las auditorías ordinarias o extraordinarias de inspección que realicen las personas auditoras se adviertan posibles faltas administrativas o irregularidades, se deberá dar vista de manera inmediata a la Dirección General de Investigación para que proceda conforme a sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 80 Octies.
+
+El procedimiento de responsabilidad administrativa se regirá en todo lo que resulte aplicable por lo previsto en la presente Ley, y por los acuerdos generales que dicte para tal efecto el Pleno del Órgano de Administración Judicial.
+
+#### Sección Cuarta. Servicios Periciales
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 80 Nonies.
+
+El Departamento de Servicios Periciales es un área técnica del Órgano de Administración Judicial de naturaleza y finalidad exclusivamente periciales. Su objeto es el auxilio específico a los tribunales en los casos que determine la Ley.
 
 ###### Artículo 81.
 
@@ -2641,17 +2643,17 @@ III. Suscribir convenios de colaboración con las diversas Dependencias de la Ad
 
 IV. Las demás que fijen las Leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 84 Bis.
 
-Los peritos de las diferentes especialidades que prestan sus servicios como auxiliares de la administración de justicia, cobrarán conforme al arancel que determine el Pleno del Consejo de la Judicatura en forma anual.
+Los peritos de las diferentes especialidades que prestan sus servicios como auxiliares de la administración de justicia, cobrarán conforme al arancel que determine el Pleno del Órgano de Administración Judicial en forma anual.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE MARZO DE 2021)</small>
 
-#### Sección Quinta. Archivo Judicial
+#### Sección Cuarta Bis. Unidad de Peritos Judiciales en Materia Laboral
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
 
 ###### Artículo 84 Ter.
 
@@ -2663,19 +2665,15 @@ La Unidad de Peritos Judiciales es un área técnica cuyo objeto es el auxilio e
 
 El peritaje en los asuntos judiciales que se sustancien ante los Juzgados Laborales, es una función pública. Los profesionales, técnicos o prácticos en cualquier ciencia, materia, arte u oficio que funjan como peritos y que presten sus servicios a la administración pública, están obligados a cooperar con dichas autoridades en los asuntos que les sean encomendados.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 84 Quinquies.
 
-Además de los requisitos establecidos en el artículo 83 de esta Ley, quien funja como perito en auxilio de los Juzgados Laborales deberá acreditar su pericia mediante examen que presentará ante un jurado que designe el Consejo de la Judicatura.
+Además de los requisitos establecidos en el artículo 83 de esta Ley, quien funja como perito en auxilio de los Juzgados Laborales deberá acreditar su pericia mediante examen que presentará ante un jurado que designe el Órgano de Administración Judicial; la decisión del jurado será irrecurrible.
 
-Para tales efectos, el Consejo de la Judicatura podrá solicitar la cooperación de instituciones públicas o privadas que a su juicio cuenten con la capacidad para ello.
+Para tales efectos, el Órgano de Administración Judicial podrá solicitar la cooperación de instituciones públicas o privadas que a su juicio cuenten con la capacidad para ello.
 
-La decisión del jurado será irrecurrible.
-
-#### Sección Sexta. Unidad de Igualdad de Género
-
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+#### Sección Quinta. Archivo Judicial
 
 ###### Artículo 85.
 
@@ -2691,13 +2689,11 @@ IV. Facilitar a los interesados dentro del local que ocupe el archivo, los exped
 
 V. Las demás que fijen otras disposiciones legales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 86.
 
-El Consejo de la Judicatura del Poder Judicial reglamentará la organización del archivo, la conservación de los expedientes y la debida prestación del servicio de consulta de los mismos, y determinará la forma de los asientos, índices y libros que en la misma oficina deben llevarse, y en su defecto, el Presidente del Consejo de la Judicatura podrá acordar, en todo caso, las disposiciones que crea convenientes.
+El Órgano de Administración Judicial del Poder Judicial reglamentará la organización del archivo, la conservación de los expedientes y la debida prestación del servicio de consulta de los mismos, y determinará la forma de los asientos, índices y libros que en la misma oficina deben llevarse, y en su defecto, la persona titular de la Presidencia del Órgano de Administración Judicial podrá acordar, en todo caso, las medidas que considere convenientes.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -2713,9 +2709,13 @@ II. Los expedientes que, aún cuando no estén concluidos, hayan dejado de trami
 
 III. Cualquier otro expediente concluido que conforme a la ley deba conservarse por no poder ser remitido a oficina determinada o a un particular interesado, respectivamente, y
 
-IV. Los demás documentos que las leyes establezcan o el Consejo de la Judicatura acuerde.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-El Consejo de la Judicatura emitirá un acuerdo en el que se establezcan las bases y el procedimiento para la depuración del archivo general del Poder Judicial.
+IV. Los demás documentos que las leyes establezcan o el Órgano de Administración Judicial acuerde.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+El Órgano de Administración Judicial emitirá un acuerdo en el que se establezcan las bases y el procedimiento para la depuración del archivo general del Poder Judicial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2741,13 +2741,11 @@ La extracción de expedientes o documentos del Archivo Judicial, sólo podrá re
 
 El examen de libros, documentos o expedientes del Archivo Judicial solo podrá hacerse dentro de la oficina y en presencia de personal de la misma, por los interesados o sus procuradores, o por cualquier abogado debidamente acreditado, previo oficio del titular del órgano jurisdiccional que los remitió, el que deberá entregarse para su debido registro en el Archivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 86 Sexies.
 
-Cualquier defecto, irregularidad o infracción que advierta el Titular del Archivo en relación con los expedientes o documentos que se le remitan para su depósito lo comunicará al Presidente del Consejo de la Judicatura, quien procederá conforme a la Ley.
+Cualquier defecto, irregularidad o infracción que advierta el titular del Archivo en relación con los expedientes o documentos que se le remitan para su depósito lo comunicará a la persona titular de la Presidencia del Órgano de Administración Judicial, quien procederá conforme a la Ley.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2757,11 +2755,9 @@ Los archivos de las Salas y Juzgados estarán a cargo de sus respectivos Secreta
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-#### Sección Primera. Ingreso
+#### Sección Sexta. Unidad de Igualdad de Género
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 86 Octies.
 
@@ -2783,11 +2779,11 @@ IV. Diseñar e implementar una política laboral libre de violencia, sin acoso l
 
 V. Atender, asesorar, orientar y canalizar a la instancia correspondiente, las quejas que se presenten por violaciones al derecho de igualdad de las y los que laboran en esta Institución.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 86 Decies.
 
-La Unidad de Igualdad de Género se integra por un Titular y por el personal administrativo que se requiera y permita el presupuesto del Poder Judicial del Estado.
+La Unidad de Igualdad de Género se integrará por un titular y por el personal administrativo requerido que determine el Órgano de Administración Judicial y permita el presupuesto del Poder Judicial del Estado.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
@@ -2795,7 +2791,9 @@ Artículo 86 Undecies. El Titular de la Unidad de Igualdad de Género, tendrá l
 
 l. Coordinarse con el Titular del Instituto de Especialización Judicial, para incorporar la perspectiva de género en los programas de formación y capacitación continua dirigidos a las y los servidores públicos del Poder Judicial;
 
-II. Proponer al Presidente del Tribunal, los proyectos y programas que deban gestionarse ante las dependencias federales, estatales y municipales, así como ante las organizaciones no gubernamentales;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+II. Proponer a la persona titular de la Presidencia del Órgano de Administración Judicial, los proyectos y programas que deban gestionarse ante las dependencias federales, estatales y municipales, así como ante las organizaciones no gubernamentales;
 
 III. Vigilar la aplicación de políticas laborales para eliminar la discriminación basada en el género, con la finalidad de:
 
@@ -2803,29 +2801,123 @@ a) Crear mecanismos eficientes para la prevención, atención, sanción y erradi
 
 b) Desarrollar políticas específicamente orientadas a erradicar los estereotipos de género; y
 
-c) Las demás que determinen el Reglamento de la Ley Orgánica y otros ordenamientos aplicables;
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-IV. Rendir semestralmente un informe al Presidente del Tribunal, relativo a las actividades realizadas;
+c) Las demás que determinen el Órgano de Administración Judicial, el Reglamento de la Ley Orgánica, y otros ordenamientos aplicables;
 
-V. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que, en ejercicio de sus funciones, le requiera; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-VI. Las demás que establezca el Reglamento de la Ley Orgánica, así como el Pleno y el Presidente del Tribunal.
+IV. Rendir semestralmente un informe a la Presidenta o Presidente del Órgano de Administración Judicial, relativo a las actividades realizadas;
 
-#### Sección Segunda. Examen de Oposición
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-#### Sección Primera. Boletín
+V. Hacer entrega en cualquier momento al órgano de control interno y al Órgano de Administración Judicial, de la información, registros o documentos que, en ejercicio de sus funciones, le requiera, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+VI. Las demás que establezca el Reglamento de la Ley Orgánica, así como el Pleno y el Órgano de Administración Judicial.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+#### Sección Séptima. De la Unidad de Administración Judicial
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 86 Duodecies. La Unidad de Administración Judicial tendrá las atribuciones siguientes:
+
+I. Proponer al Órgano de Administración Judicial las bases y lineamientos, medidas o procedimientos que, en su caso, correspondan en materia de recursos humanos, materiales y de tecnologías de información y comunicación, así como los relativos a la planeación, contratación de adquisiciones, patrimonio inmobiliario, servicios, desincorporaciones, obra pública y servicios relacionados con la misma;
+
+II. Preservar las relaciones laborales, en el marco de las disposiciones aplicables;
+
+III. Proponer el Catálogo de Puestos, el calendario, políticas y normas de pago de nóminas, incrementos salariales, tabulador de sueldos y prestaciones, estímulos y pagos especiales al Órgano de Administración Judicial para su autorización;
+
+IV. Dirigir y operar los mecanismos de administración aprobados por el Órgano de Administración judicial en materia de remuneraciones, sistemas de pago de sueldos y prestaciones, reclutamiento y selección de personal, así como dar seguimiento y control a los movimientos ocupacionales a incidencias del personal;
+
+V. Operar e implementar los mecanismos de nombramientos, contratación y ocupación de plazas, movimientos, remuneraciones, sistema de escalafón, así como los programas de servicio social y prácticas judiciales;
+
+VI. Resolver sobre la aplicación de los descuentos y retenciones autorizadas conforme a la ley y, en su caso, la recuperación de las cantidades correspondientes a salarios no devengados; comunicar a los órganos y áreas sobre el personal que cause baja, y verificar que éstos cuenten con las constancias correspondientes;
+
+VII. Aplicar los criterios técnicos en materia de relaciones laborales, control y resguardo de los expedientes personales y de plaza, y de seguridad e higiene en el trabajo, los seguros de personas, así como las prestaciones al personal;
+
+VIII. Llevar el control y costeo de las plazas presupuestarias y de las remuneraciones del personal, así como de los contratos de prestación de servicios profesionales asimilables a salarios;
+
+IX. Conocer y gestionar los asuntos inherentes a la seguridad social ante los organismos competentes;
+
+X. Asesorar a los órganos y áreas del Tribunal Superior de Justicia en los asuntos laborales relativos a su personal;
+
+XI. Proponer y, en su caso, ejecutar y evaluar los programas en materia de desarrollo humano y servicios al personal;
+
+XII. Coordinar la elaboración del manual de organización del Tribunal Superior de Justicia, así como los manuales específicos respectivos;
+
+XIII. Proponer al Órgano de Administración Judicial la adquisición, desincorporación y la enajenación de inmuebles conforme a las necesidades del Tribunal Superior de Justicia;
+
+XIV. Proponer al Órgano de Administración Judicial los programas de capacitación y profesionalización para el personal administrativo del Tribunal Superior de Justicia, así como los programas de servicio social;
+
+XV. Elaborar los programas de necesidades en materia de adquisición de bienes y contratación de servicios generales; de obras públicas y servicios relacionados con la misma y patrimonio inmobiliario; de tecnologías de la información y comunicaciones, así como de servicios personales;
+
+XVI. Proponer al Órgano de Administración Judicial, para su aprobación, las medidas para la mejora administrativa en materia de recursos humanos materiales, infraestructura física, de tecnología de la información y comunicación, así como para el cuidado del medioambiente y el desarrollo sustentable;
+
+XVII. Suscribir, en términos de la normativa aplicable, los contratos y convenios que se celebren, incluyendo los de uso, enajenación y adquisición de inmuebles, y
+
+XVIII. Aportar al Tribunal Superior de Justicia todos los elementos necesarios para elaborar el anteproyecto de Presupuesto Anual de Egresos del Tribunal Superior de Justicia a efecto de que sea incluido en el proyecto de Presupuesto del Poder Judicial del Estado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+#### Sección Octava. De la Unidad de Administración del Tribunal de Disciplina Judicial
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 86 Terdecies. La Unidad de Administración del Tribunal de Disciplina Judicial es un órgano auxiliar del Órgano de Administración Judicial encargado de administrar los recursos humanos, materiales y tecnológicos del Tribunal de Disciplina Judicial, conforme a los reglamentos, presupuesto y acuerdos que expida el Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 86 Quaterdecies. La Unidad de Administración del Tribunal de Disciplina Judicial tendrá las atribuciones siguientes:
+
+I. Proponer al Órgano de Administración Judicial las bases y lineamientos, medidas o procedimientos que, en su caso, correspondan en materia de recursos humanos, materiales y de tecnologías de información y comunicación, así como los relativos a la planeación, contratación de adquisiciones, patrimonio inmobiliario, servicios, desincorporaciones, obra pública y servicios relacionados con la misma;
+
+II. Preservar las relaciones laborales, en el marco de las disposiciones aplicables;
+
+III. Proponer, previa opinión favorable del Pleno del Tribunal de Disciplina Judicial, el Catálogo de Puestos, el calendario, políticas y normas de pago de nóminas, incrementos salariales, tabulador de sueldos y prestaciones, estímulos y pagos al Órgano de Administración Judicial para su autorización;
+
+IV. Dirigir y operar los mecanismos de administración aprobados por el Órgano de Administración Judicial en materia de remuneraciones, sistemas de pago de sueldos y prestaciones, reclutamiento y selección de personal, así como dar seguimiento y control a los movimientos ocupacionales e incidencias del personal;
+
+V. Operar e implementar los mecanismos de nombramientos, contratación y ocupación de plazas, movimientos, remuneraciones, sistema de escalafón, así como los programas de servicio social y prácticas judiciales;
+
+VI. Resolver sobre la aplicación de los descuentos y retenciones autorizadas conforme a la ley y, en su caso, la recuperación de las cantidades correspondientes a salarios no devengados; comunicar a los órganos y áreas sobre el personal que cause baja, y verificar que éstos cuenten con las constancias correspondientes;
+
+VII. Aplicar los criterios técnicos en materia de relaciones laborales, control y resguardo de los expedientes personales y de plaza, y de seguridad e higiene en el trabajo, los seguros de personas, así como las prestaciones al personal;
+
+VIII. Llevar el control y costeo de las plazas presupuestarias y de las remuneraciones del personal, así como de los contratos de prestación de servicios profesionales asimilables a salarios, previa opinión favorable del Pleno del Tribunal de Disciplina Judicial;
+
+IX. Conocer y gestionar los asuntos inherentes a la seguridad social ante los organismos competentes;
+
+X. Asesorar a los órganos y áreas del Tribunal de Disciplina Judicial en los asuntos laborales relativos a su personal;
+
+XI. Proponer y, en su caso, ejecutar y evaluar los programas en materia de desarrollo humano y servicios al personal;
+
+XII. Coordinar la elaboración del manual de organización del Tribunal de Disciplina Judicial, así como los manuales específicos respectivos;
+
+XIII. Proponer al Órgano de Administración Judicial la adquisición, desincorporación y la enajenación de inmuebles conforme a las necesidades del Tribunal de Disciplina Judicial, previa opinión favorable del Pleno del Tribunal de Disciplina Judicial;
+
+XIV. Proponer al Órgano de Administración Judicial los programas de capacitación y profesionalización para el personal administrativo del Tribunal de Disciplina Judicial, así como los programas de servicio social;
+
+XV. Elaborar de los programas de necesidades en materia de adquisición de bienes y contratación de servicios generales; de obras públicas y servicios relacionados con la misma y patrimonio inmobiliario; de tecnologías de la información y comunicaciones, así como de servicios personales;
+
+XVI. Proponer al Órgano de Administración Judicial, para su aprobación, las medidas para la mejora administrativa en materia de recursos humanos, materiales, infraestructura física, de tecnología de la información y comunicación, así como para el cuidado del medioambiente y el desarrollo sustentable;
+
+XVII. Suscribir, en términos de la normativa aplicable, los contratos y convenios que se celebren, incluyendo los de nso (sic), enajenación y adquisición de inmuebles, y
+
+XVIII. Aportar al Tribunal de Disciplina Judicial todos los elementos necesarios para elaborar el anteproyecto de Presupuesto Anual de Egresos del Tribunal de Disciplina Judicial a efecto de que sea incluido en el proyecto de Presupuesto del Poder Judicial del Estado.
 
 ## TITULO QUINTO. CARRERA JUDICIAL
 
-### Capítulo Segundo. De la Carrera Judicial
+### Capítulo Primero. Del Instituto de Especialización Judicial
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 87.
 
-El Instituto de Especialización Judicial es el órgano auxiliar del Consejo de la Judicatura encargado de la investigación, formación, capacitación y actualización de los servidores públicos del Poder Judicial, así como de quienes aspiren a pertenecer al mismo. Estará a cargo de un Director que será nombrado por el Pleno del Consejo de la Judicatura, su organización, funcionamiento y atribuciones se regirán por el reglamento que al efecto expida el Consejo de la Judicatura de conformidad al presupuesto que le sea aprobado.
+El Instituto de Especialización Judicial es el órgano auxiliar del Órgano de Administración Judicial con autonomía técnica y de gestión, responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial y de sus órganos auxiliares. Estará a cargo de una Directora o Director que será nombrado por el Pleno del Órgano de Administración Judicial, su organización, funcionamiento y atribuciones se regirán por el reglamento que al efecto expida el Órgano de Administración Judicial de conformidad al presupuesto que le sea aprobado.
 
 ###### Artículo 88.
 
@@ -2839,13 +2931,11 @@ Para ser Director del Instituto de Especialización Judicial se requerirá cumpl
 
 El Instituto de Especialización Judicial, podrá celebrar convenios con las diferentes instituciones de educación superior del país y del extranjero, así como con cualquier persona física o moral, para el cumplimiento de sus objetivos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 90.
 
-El Instituto contará con un Comité Académico designado por el Consejo de la Judicatura y tendrá como función participar de manera conjunta con el Director, en la formulación de los programas de investigación, preparación y capacitación de los alumnos del Instituto, los mecanismos de evaluación y en todo lo relacionado con los concursos de oposición y exámenes de aptitud, los que deberán ser autorizados por el Consejo de la Judicatura.
+El Instituto contará con un Comité Académico designado por el Órgano de Administración Judicial y tendrá como función participar de manera conjunta con la Directora o el Director, en la formulación de los programas de investigación, preparación y capacitación de los alumnos del Instituto, los mecanismos de evaluación y en todo lo relacionado con los concursos de oposición y exámenes de aptitud, los que deberán ser autorizados por el Órgano de Administración Judicial.
 
 ###### Artículo 91.
 
@@ -2879,13 +2969,11 @@ VI. Reforzar, actualizar y profundizar los conocimientos respecto del ordenamien
 
 Los servidores públicos del Poder Judicial estarán obligados a asistir a los cursos de capacitación y actualización que el Instituto brinde para cada nivel de la carrera judicial. La inasistencia injustificada será motivo de rescisión de la relación laboral, sin responsabilidad para el Poder Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 92 Bis.
 
-El Consejo de la Judicatura determinará los casos en los que el Instituto de Especialización Judicial llevará a cabo cursos de preparación, previos a la aplicación de los exámenes correspondientes a las distintas categorías que conforman la carrera judicial.
+El Órgano de Administración Judicial determinará los casos en los que el Instituto de Especialización Judicial llevará a cabo cursos de preparación, previos a la aplicación de los exámenes correspondientes a las distintas categorías que conforman la carrera judicial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2895,21 +2983,19 @@ El Consejo de la Judicatura determinará los casos en los que el Instituto de Es
 
 El Instituto promoverá la realización de los estudios necesarios para el mejoramiento de las actividades del Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+###### Artículo 92 Quater.
 
-###### Artículo 92 Quáter.
+El Órgano de Administración Judicial regulará lo no previsto mediante acuerdos y disposiciones generales.
 
-El Consejo de la Judicatura regulará lo no previsto mediante acuerdos y disposiciones generales.
+### Capítulo Segundo. De la Carrera Judicial
 
-### Capítulo Primero. De la Constitución del Fondo
-
-#### Sección Segunda. Dirección de Información y Comunicación Social
+#### Sección Primera. Ingreso
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 93.
 
@@ -2931,7 +3017,7 @@ d) Oficial de Partes.
 
 II. En los Juzgados:
 
-a) Juez.
+a) (DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 b) Secretario de Acuerdos.
 
@@ -2941,17 +3027,15 @@ d) Diligenciario.
 
 e) Oficial de Partes.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-f) Los asistentes jurídicos de los Juzgados del Sistema de Justicia Penal Acusatorio y Oral que determine el Consejo de la Judicatura mediante acuerdos generales.
+f) Los asistentes jurídicos de los Juzgados del Sistema de Justicia Penal Acusatorio y Oral que determine el Órgano de Administración Judicial mediante acuerdos generales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 95.
 
-El Consejo de la Judicatura, designará a los servidores públicos del Poder Judicial, a que se refieren el artículo anterior, a través de exámenes públicos de oposición, que se llevarán a cabo bajo las bases siguientes:
+El Órgano de Administración Judicial, designará a los servidores públicos del Poder Judicial, a que se refieren el artículo anterior, a través de exámenes públicos de oposición, que se llevarán a cabo bajo las bases siguientes:
 
 I. Previa a la práctica del examen de oposición deberá expedirse con un mes de anticipación una convocatoria que contendrá:
 
@@ -2973,27 +3057,27 @@ e) La forma en que se llevará a cabo el examen psicométrico, de conocimientos 
 
 f) Los nombres de los sinodales del jurado, que preferentemente serán académicos o investigadores ajenos al Estado y la forma de evaluación, el jurado se integrará con número non.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-II. La convocatoria de referencia deberá ser publicitada en el Boletín Judicial, en los periódicos de mayor circulación y a través de cartelones que deberán fijarse en todas las oficinas del Poder Judicial y además en los lugares que el Consejo de la Judicatura considere convenientes;
+II. La convocatoria de referencia deberá ser publicitada en el Boletín Judicial, en los periódicos de mayor circulación y a través de cartelones que deberán fijarse en todas las oficinas del Poder Judicial y además en los lugares que el Órgano de Administración Judicial considere convenientes;
 
 III. Deberá dirigirse a todos los abogados del Estado y preferentemente a los servidores públicos que integren la carrera judicial; y
 
 IV. La decisión del Jurado será inapelable y se tomará por mayoría simple de votos, se dará a conocer en el mismo día de la evaluación y se preferirá en igualdad de circunstancias a las personas que formen parte de la carrera judicial.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 96.
 
-Los miembros del jurado podrán ser recusados con causa debidamente probada, con quince días de anticipación a la celebración del examen. El Pleno del Tribunal calificará el impedimento y en su caso, ordenará la sustitución del sinodal. A los miembros del jurado les serán aplicables las causas de impedimentos que al respecto señala el Código Procesal Civil del Estado.
+Los miembros del jurado podrán ser recusados con causa debidamente probada, con quince días de anticipación a la celebración del examen. El Pleno del Órgano de Administración Judicial calificará el impedimento y en su caso, ordenará la sustitución del sinodal. A los miembros del jurado les serán aplicables las causas de impedimentos que al respecto señala el Código Nacional de Procedimientos Civiles y Familiares.
 
-#### Sección Tercera. Revista Judicial
+#### Sección Segunda. Examen de Oposición
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 97.
 
-El examen de oposición es el procedimiento cuyo objetivo será comprobar la idoneidad de los servidores públicos del Poder Judicial o quienes aspiren a ingresar a la Carrera Judicial. Será abierto a todos los abogados de la entidad sin discriminación alguna. Previamente al examen deberá evaluarse la inteligencia emocional de los aspirantes.
+El examen de oposición es el procedimiento cuyo objetivo será comprobar la idoneidad de los servidores públicos del Poder Judicial o quienes aspiren a ingresar a la Carrera Judicial. Será abierto a todos los abogados de la entidad sin discriminación alguna.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3005,7 +3089,9 @@ La organización y celebración de los exámenes de aptitud para las categorías
 
 Los exámenes de aptitud se realizarán a petición del titular del órgano que requiera al servidor público judicial. Podrá solicitar que se le practique un examen de aptitud, cualquier persona interesada en ingresar a las categorías a que se refieren los incisos b) a e) de la fracción II del artículo 94 de esta Ley.
 
-Los que resulten aprobados, serán enlistados por el Consejo de la Judicatura para los efectos correspondientes.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Los que resulten aprobados, serán enlistados por el Órgano de Administración Judicial para los efectos correspondientes.
 
 ###### Artículo 98.
 
@@ -3013,287 +3099,491 @@ Los exámenes de oposición constarán de las fases siguientes:
 
 I. Escrita;
 
-II. Práctica, y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-III. Oral.
+II. Práctica;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+III. Oral, y
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+IV. Psicológica.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 99.
 
-Dentro de los ocho días siguientes al examen, el Pleno designará como servidor público, a quien haya obtenido las calificaciones más altas e instruirá al Consejo de la Judicatura para que le expida el nombramiento correspondiente, le tome la protesta y le fije el inicio de las funciones.
+Dentro de los ocho días siguientes al examen, el Pleno del Órgano de Administración Judicial designará como servidor público, a quien haya obtenido las calificaciones más altas y expedirá el nombramiento correspondiente para el inicio de las funciones.
 
-## TITULO SEXTO. FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-### Capítulo Segundo. De la Administración, Operación y Destino
+## TITULO SEXTO. DEL TRIBUNAL DE DISCIPLINA JUDICIAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+### Capítulo Primero. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 100.
 
-El Fondo Auxiliar para la Impartición de Justicia se constituye con:
+El Tribunal de Disciplina Judicial es un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir resoluciones, que tiene por objeto la investigación, substanciación y resolución de los procedimientos de responsabilidades administrativas de las y los servidores públicos que desempeñan funciones jurisdiccionales en el Poder Judicial del Estado, así como la resolución de los recursos de revisión en los procedimientos administrativos del personal administrativo tratándose de faltas graves.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Tribunal de Disciplina Judicial se encargará de la evaluación y seguimiento del desempeño de las Juezas y Jueces y las Magistradas y los Magistrados y el encargado de resolver los conflictos entre el Poder Judicial del Estado y sus servidores públicos.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+Funcionará en Pleno y en Comisiones y contará con los órganos auxiliares que resulten necesarios para el desempeño de sus atribuciones.
 
-I. Fondo propio, constituido por:
-
-a) El monto de las cantidades otorgadas para obtener los beneficios de la conmutación de las sanciones y de la suspensión condicional de la condena, que se haga efectiva en los casos previstos por el Código Penal;
-
-b) Los rendimientos que se generen por las inversiones de los depósitos en dinero o valores que se efectúen ante los tribunales judiciales;
-
-c) Las multas que por cualquier causa impongan las salas del Tribunal Superior de Justicia o los jueces, a excepción de aquellas multas que sean impuestas como pena por la autoridad judicial en los supuestos previstos en el Código Penal;
-
-d) (DEROGADO, P.O. 28 DE NOVIEMBRE DE 2014)
-
-e) (DEROGADO, P.O. 28 DE NOVIEMBRE DE 2014)
-
-f) El pago de los derechos por la publicación de inserciones en el Boletín Judicial, así como de los productos por la venta de sus ejemplares y de los de la revista del Poder Judicial;
-
-g) Las donaciones o aportaciones hechas a su favor, e
-
-h) Por el pago de derechos de expedición de copias certificadas, certificaciones en general y registro de título y cédula profesional.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-II. Fondo ajeno, constituido por depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante los tribunales judiciales.
-
-Para los efectos de esta fracción, el tribunal, juzgado o cualquiera de sus órganos, que por algún motivo reciba un depósito de dinero o en valores, deberá remitirlo o integrarlo al fondo, por conducto del Consejo de la Judicatura.
-
-Las sumas o valores que se reciban en el renglón de fondo ajeno, serán reintegradas a los depositantes o beneficiarios, según proceda, mediante orden por escrito de la sala o juzgado ante el que se haya otorgado el depósito, en el término máximo de cinco días hábiles.
-
-III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
-
-IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
-
-V. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
-
-VI. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
-
-VII. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
-
-VIII. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
-
-IX. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
-
-X. El monto de los depósitos hechos a favor de terceros, cuando transcurran tres años de constituidos y previa notificación personal, no se hayan retirado por el interesado en el plazo de treinta días hábiles;
-
-XI. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
-
-XII. Los demás que señalen las Leyes y reglamentos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 101.
 
-El Consejo de la Judicatura del Poder Judicial se encargará de la administración del Fondo Auxiliar para la Impartición de Justicia, el que se ejercerá bajo criterios de estricta racionalidad, disciplina fiscal, contabilidad, evaluación, información periódica, auditoría y control de gestión que dispongan las leyes de la materia.
+El Tribunal de Disciplina Judicial se integrará por tres personas electas por la ciudadanía a nivel estatal conforme al procedimiento establecido en el artículo 84 de la Constitución del Estado y en las leyes de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 101 Bis.
 
-Corresponde al Consejo de la Judicatura:
+El Pleno del Tribunal de Disciplina Judicial determinará mediante acuerdos el número y los periodos de sesiones tanto del propio Pleno, como de sus Comisiones, así como la periodicidad con la que se celebrarán y las condiciones en las que se desarrollarán.
 
-I. Administrar el Fondo;
+El Pleno y las Comisiones del Tribunal de Disciplina Judicial podrán sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes. Dicha solicitud deberá presentarse a la Presidencia del propio Tribunal de Disciplina Judicial a fin de que emita la convocatoria correspondiente.
 
-II. Discutir y en su caso aprobar cada año, en el mes de enero, el Presupuesto Anual que le sea presentado por el Presidente del Consejo de la Judicatura, respecto a los egresos del Fondo;
-
-III. Supervisar y vigilar que las erogaciones efectuadas se ajusten a lo dispuesto por el Presupuesto de Egresos, para lo cual el Presidente del Consejo de la Judicatura incluirá sus resultados en el informe anual, que debe rendir conforme a la Constitución del Estado;
-
-IV. Dictar las medidas necesarias para el buen funcionamiento de la administración del Fondo;
-
-V. Designar, a proposición del Presidente del Consejo de la Judicatura, al Tesorero del Poder Judicial que entre otras funciones, tendrá a su cargo la administración y control del Fondo, así como al personal subalterno;
-
-VI. Ordenar una auditoría contable anual y cuando lo estime pertinente, para conocer el estado de las finanzas del Fondo, y
-
-VII. Ejercitar las facultades que le confiera la ley en todo lo relativo al manejo del Fondo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 101 Ter.
 
-Corresponde al Presidente del Consejo de la Judicatura:
+Para ser electo Magistrado o Magistrada del Tribunal de Disciplina Judicial, se deberán cumplir los requisitos establecidos en el artículo 83 de la Constitución del Estado.
 
-I. Representar por sí o por persona que designe, al Fondo en todas las inversiones que se realicen, así como en los negocios jurídicos en que intervenga;
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-II. Elaborar el proyecto de Presupuesto Anual de Egresos del Fondo y someterlo al Pleno del Consejo de la Judicatura durante el mes de enero de cada año, para su discusión y aprobación en su caso;
+###### Artículo 101 Quater.
 
-III. Invertir los fondos ajenos en adquisición de títulos, bonos o valores de renta fija, a la vista o a plazo fijo, que deberán ser nominativos y a favor del Tribunal Superior de Justicia, cuidando que las inversiones resulten las más productivas del mercado y que se conserve la liquidez necesaria para hacer las devoluciones que en su caso sean procedentes conforme a la Ley;
+El Pleno del Tribunal de Disciplina Judicial determinará mediante acuerdos el número y especialidad de las Comisiones. En el ejercicio de esa facultad, el Pleno establecerá cuando menos una comisión para substanciar y resolver el procedimiento administrativo.
 
-IV. Vigilar y supervisar que los diversos órganos del Poder Judicial de la Entidad cumplan con todas las obligaciones que en relación con el Fondo se les impongan por esta Ley o el Reglamento;
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-V. Ordenar, con la frecuencia que estime pertinente, la realización de auditorías contables;
+###### Artículo 101 Quinquies.
 
-VI. Proponer al Pleno del Consejo de la Judicatura los nombramientos del Tesorero del Poder Judicial que entre otras funciones tendrá a su cargo la administración y control del Fondo, así como al personal subalterno, y
+El Tribunal de Disciplina Judicial contará con el Órgano de Investigación de Responsabilidades Administrativas y el Órgano de Evaluación del Desempeño Judicial, como auxiliares, con autonomía de gestión, a efecto de dar cumplimiento a las obligaciones derivadas del ejercicio de su competencia.
 
-VII. Las demás facultades que sean necesarias para la adecuada organización y funcionamiento del Fondo y las que le conceda la ley.
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2002)</small>
+###### Artículo 101 Sexies.
+
+El Órgano de Investigación tendrá a su cargo la investigación de los hechos u omisiones que puedan constituir responsabilidades administrativas de las personas que ejercen funciones jurisdiccionales en el Poder Judicial del Estado, en los términos establecidos en esta Ley, en los acuerdos que emita el Tribunal de Disciplina Judicial, así como en la Ley General de Responsabilidad (sic) Administrativas.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 101 Septies.
+
+El Órgano de Evaluación de Desempeño Judicial será el competente de la evaluación y seguimiento del desempeño de los órganos jurisdiccionales del Poder Judicial del Estado, en los términos previstos en esta Ley y en los acuerdos generales que emita el Tribunal de Disciplina Judicial.
+
+La evaluación deberá considerar los elementos cualitativos y cuantitativos relacionados con el desempeño de los órganos jurisdiccionales.
+
+La función judicial comprenderá tanto la actividad jurisdiccional como la administrativa relacionada directamente con la impartición de justicia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Segundo. De sus resoluciones
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 102.
+
+Las resoluciones deberán estar debidamente fundadas y motivadas, exponiendo la valoración de las pruebas, la calificación de la conducta probada, la individualización de la sanción y, de ser el caso, la posible reparación del daño.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 102 Bis.
+
+Las razones que justifiquen las resoluciones que emita el Pleno del Tribunal de Disciplina Judicial por mayoría de votos constituirán precedentes vinculantes para las Comisiones del propio Tribunal, en los casos en los que se actualicen hechos relevantes similares.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 102 Ter.
+
+Al emitir sus resoluciones, el Pleno y las Comisiones del Tribunal de Disciplina Judicial, siempre deberán atender los precedentes que les resulten vinculantes. A partir de éstos, deberán construir una doctrina de precedentes coherente que dote de certeza jurídica al sistema disciplinario.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 102 Quater.
+
+El Pleno podrá cambiar o separarse de sus propios precedentes vinculantes siempre que, a partir de la resolución de casos concretos, expongan expresamente, junto al nuevo criterio, una motivación reforzada que justifique el cambio o separación.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 102 Quinquies.
+
+En los casos a los que alude el artículo anterior, las resoluciones que emita el Pleno al respecto deberán ser aprobadas por mayoría de votos. Las razones que justifiquen las resoluciones donde se establezca un cambio de criterio constituirán los nuevos precedentes vinculantes.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 102 Sexies.
+
+El Pleno del Tribunal resolverá las contradicciones que se susciten entre los precedentes vinculantes que emitan las Comisiones. Para tal efecto, serán aplicables, en la parte conducente, las disposiciones del Título Séptimo de la presente Ley que regulan las contradicciones de criterios.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 102 Septies.
+
+La vinculatoriedad de los precedentes del Tribunal se actualizará desde el momento en el que se engrose la resolución que lo contenga, existiendo la obligación de difundir los criterios vinculantes dentro de un plazo razonable en el sistema de difusión respectivo. El Pleno determinará mediante acuerdo general el sistema electrónico de difusión de los precedentes vinculantes y el formato de su publicación, el cual deberá, como mínimo, exponer de forma clara los hechos relevantes, el criterio jurídico y las razones que lo justifican.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 102 Octies.
+
+El sistema electrónico de precedentes de difusión será gratuito, público, accesible y deberá garantizar la publicación actualizada y ordenada de los precedentes, de tal manera que sea clara la doctrina de precedentes que se construye a partir de estos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Tercero. Del Pleno del Tribunal de Disciplina Judicial
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 103.
+
+El Pleno se conformará por tres personas Magistradas pero podrá sesionar con la presencia de dos.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 103 Bis.
+
+El Pleno nombrará, a propuesta de la persona titular de la Presidencia, a una Secretaria o Secretario general de acuerdos.
+
+La Secretaria o Secretario general de acuerdos del Pleno formará parte de la Junta de Coordinación adscrita al Órgano de Administración Judicial en los términos y para los efectos previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 103 Ter.
+
+El Pleno será competente para lo siguiente:
+
+I. Substanciar y resolver el recurso de revisión y los demás recursos que procedan respecto de los procedimientos de responsabilidad administrativa que son competencia de las Comisiones, la evaluación del desempeño de la función judicial y los conflictos laborales;
+
+II. Instruir al Órgano de Investigación el inicio de las investigaciones necesarias para determinar si se ha incurrido en responsabilidades administrativas;
+
+III. Dar vista al Ministerio Público de la posible comisión de delitos;
+
+IV. Solicitar al Congreso del Estado el inicio del juicio político en contra de las personas juzgadoras electas por voto popular;
+
+V. Elaborar los proyectos de reglamentos y acuerdos generales que requiera para su administración y organización interna y presentarlos por conducto de la persona titular de la Presidencia, al Órgano de Administración Judicial para su aprobación y emisión;
+
+VI. Solicitar al Órgano de Administración Judicial la expedición de acuerdos o la ejecución de resoluciones necesarias para asegurar el adecuado ejercicio de la función jurisdiccional estatal;
+
+VII. Reglamentar, mediante la emisión de acuerdos generales, los parámetros y las especificaciones relativas a los métodos, criterios e indicadores para la realización de las evaluaciones de desempeño y seguimiento;
+
+VIII. Reglamentar, mediante la emisión de acuerdos generales, el procedimiento para la imposición e impugnación de las medidas correctivas y sancionadoras en materia de desempeño;
+
+IX. Implementar mecanismos de prevención de faltas administrativas y hechos de corrupción, así como de coordinación que determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a ese órgano de sus avances y resultados, en términos de la Ley General del Sistema Nacional Anticorrupción;
+
+X. Establecer, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de las y los visitadores para efectos de lo que dispone en esta Ley en materia de responsabilidad;
+
+XI. Llevar un Registro de Servidores Públicos y de Particulares Sancionados, conforme a lo que se establezca mediante acuerdos generales;
+
+XII. Integrar un informe de resultados del Tribunal de Disciplina Judicial dirigido al público en general, al finalizar el segundo periodo de sesiones de cada año del Tribunal Superior de Justicia;
+
+XIII. Dictar, a través de sus Comisiones, las medidas de suspensión temporal de las personas juzgadoras que resulten pertinentes para facilitar las investigaciones y los procedimientos disciplinarios.
+
+La suspensión de las y los Magistrados y las y los Jueces que aparecieren involucrados en la posible comisión de un delito procederá siempre que lo estime necesario el Pleno del Tribunal de Disciplina Judicial en el ejercicio de sus facultades de disciplina y vigilancia, o cuando alguna autoridad ministerial o fiscalía den noticia de ello, así como a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra, debiendo informar al Congreso del Estado de Tlaxcala;
+
+Cuando la suspensión haya sido decretada por el Tribunal de Disciplina Judicial sin mediar una solicitud de otra autoridad, deberá instruirse la formulación de denuncia o querella en los casos en que proceda;
+
+XIV. Resolver los recursos de revisión en los procedimientos de responsabilidad administrativa del personal jurisdiccional; de los integrantes del Órgano de Administración Judicial, así como del personal administrativo del Poder Judicial del Estado tratándose de faltas graves.
+
+La omisión en la presentación de la información requerida por las leyes de la materia o por el Pleno del Tribunal de Disciplina Judicial, así como la entrega de información errónea, serán consideradas faltas graves y serán sancionadas por el Pleno de conformidad con las disposiciones jurídicas aplicables;
+
+XV. Resolver de forma definitiva e inatacable respecto de la competencia sobre los procedimientos de responsabilidad administrativa que le remita el Órgano de Administración Judicial, y
+
+XVI. Las demás que determinen las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 103 Quater.
+
+En ningún caso los recursos de revisión serán turnados para su substanciación y elaboración del proyecto de resolución respectivo a los Magistrados o Magistradas que integran la Comisión recurrida.
+
+En todos los casos, las resoluciones del Pleno del Tribunal de Disciplina Judicial se tomarán por mayoría de votos, por lo que si no se alcanza tal votación deberán desestimarse las sanciones impuestas en primera instancia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 103 Quinquies.
+
+Son atribuciones de la persona titular de la Presidencia del Pleno (sic) Tribunal de Disciplina Judicial:
+
+I. Presidir las sesiones que celebre el Pleno del Tribunal, dirigir los debates y conservar el orden en las mismas, así como girar las convocatorias para las sesiones pleuarias (sic) que contendrá la lista de los asuntos a tratar durante las sesiones del Pleno;
+
+II. Firmar las resoluciones del Pleno en unión de la o el Secretario General de Acuerdos, y en su caso también lo hará la Magistrada o el Magistrado Ponente;
+
+III. Informar al Pleno sobre el seguimiento que se dé a los asuntos resueltos por éste;
+
+IV. Elaborar los proyectos de reglamentos que deba decretar el Pleno;
+
+V. Emitir, en caso de empate, voto de calidad en los asuntos que deba de resolver el Pleno;
+
+VI. Vigilar el estricto cumplimiento de las determinaciones del Pleno;
+
+VII. Tramitar auxiliado por la o el Secretario General de Acuerdos, los asuntos de la competencia del Pleno del Tribunal y ordenar se turnen los expedientes entre sus integrantes para que, siendo ponentes de los asuntos que instruyan, formulen los correspondientes proyectos de resolución;
+
+VIII. Proponer, en aquellos casos que estime de trascendencia, al Pleno del Tribunal, la designación de una Magistrada o un Magistrado para que presente un proyecto de resolución, con el propósito de que se determine el trámite a seguir;
+
+IX. Autorizar con su firma, en unión de la o del Secretario General de Acuerdos, los proveídos que emita, así como en unión de los demás magistrados las actas de las sesiones plenarias;
+
+X. Proporcionar a los Poderes Legislativo y Ejecutivo del Estado, los informes y estadísticas que le soliciten;
+
+XI. Acordar el desahogo de consultas y opiniones a las autoridades que lo requieran, conforme a las leyes respectivas, en el ámbito de sus respectivas competencias;
+
+XII. Dictar en unión de la o el Secretario General de Acuerdos sobre la admisión y trámite de excusas y recusaciones de las Magistradas o los Magistrados y de la Secretaria o el Secretario General de Acuerdos;
+
+XIII. Rendir los informes previos y justificados, respecto de los juicios de amparo que se promuevan contra actos o resoluciones del Pleno;
+
+XIV. Convocar al Pleno a sesiones extraordinarias cuando lo considere urgente, lo estime necesario o cuando le sea solicitado por una Magistrada o Magistrado integrante del Pleno;
+
+XV. Otorgar mandatos para pleitos y cobranzas y autorizaciones procesales, en el ámbito de su competencia, a fin de atender los asuntos que así lo ameriten, previa aprobación del Pleno del Tribunal;
+
+XVI. Procurar el buen servicio y disciplina en las oficinas del Pleno y las áreas;
+
+XVII. Informar al Congreso del Estado en caso de falta de un magistrado o magistrada que exceda de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva;
+
+XVIII. Rendir ante el Pleno del Tribunal de Disciplina, al finalizar el año, el informe de labores;
+
+XIX. Designar a las y los Magistrados para los casos previstos en el artículo 135 de esta Ley;
+
+XX. Ordenar la publicación de los precedentes relevantes que dicte el Pleno del Tribunal, en los términos que dispone esta ley;
+
+XXI. Proponer al Órgano de Administración Judicial el nombramiento del personal necesario para el despacho de los asuntos del Tribunal, conforme a lo establecido por las disposiciones jurídicas aplicables, y
+
+XXII. Las demás que le confieran las Leyes, reglamentos interiores y acuerdos generales.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 103 Sexies.
+
+Las ponencias de las y los Magistrados se podrán integrar por:
+
+I. Secretarias o secretarios proyectistas;
+
+II. Secretarias o secretarios instructores;
+
+III. Secretarias o secretarios auxiliares;
+
+IV. Oficiales de partes, y
+
+V. Personal operativo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Cuarto. De las Comisiones del Tribunal de Disciplina Judicial
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 104.
+
+Las Comisiones se integrarán por tres servidores públicos del Tribunal de Disciplina Judicial, pero podrán sesionar con la presencia de dos. En caso de empate, y cuando la resolución de los asuntos no pueda aplazarse, la Comisión respectiva se integrará con un integrante de una Comisión diversa.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 104 Bis.
+
+Las Comisiones serán competentes para substanciar y resolver en primera instancia los procedimientos de responsabilidad administrativa seguidos contra las personas que desempeñan funciones jurisdiccionales en el Poder Judicial del Estado, de los integrantes del Órgano de Administración Judicial, los recursos de inconformidad, las impugnaciones de la evaluación del desempeño de la función judicial, de acuerdo con su especialización, y los demás asuntos que decida el Pleno del Tribunal de Disciplina Judicial mediante acuerdo general.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 104 Ter.
+
+El Pleno del Tribunal de Disciplina Judicial nombrará a las presidencias de las Comisiones, y a los servidores públicos que las integren, asimismo, determinará el tiempo que deban permanecer en el cargo y las funciones a ejercer mediante acuerdo general.
+
+Los asuntos de su competencia serán turnados de acuerdo con el sistema respectivo al integrante correspondiente para su substanciación y emisión del proyecto de resolución, de conformidad con las etapas y formalidades establecidas en esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Quinto. Del Órgano de Evaluación de Desempeño Judicial
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 105.
+
+El Órgano de Evaluación de Desempeño Judicial es un órgano auxiliar del Tribunal de Disciplina Judicial, competente para evaluar y dar seguimiento al desempeño de los órganos jurisdiccionales a fin de consolidar un ejercicio responsable, profesional, independiente, honesto y eficaz de la función jurisdiccional, así como evitar actos que la demeriten.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 105 Bis.
+
+La persona titular del Órgano de Evaluación de Desempeño Judicial será designada por el Pleno del Tribunal de Disciplina Judicial a propuesta de su presidencia, y deberá tener título profesional en derecho legalmente expedido.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 105 Ter.
+
+Las funciones de evaluación y seguimiento del desempeño que se confieren al Órgano de Evaluación serán ejercitadas por las y los visitadores judiciales bajo el mando y coordinación del titular referido en el artículo anterior, quienes tendrán el carácter de personas representantes del Tribunal de Disciplina Judicial.
+
+Las y los visitadores deberán satisfacer los siguientes requisitos:
+
+I. Ser mayor de treinta años;
+
+II. Gozar de buena reputación;
+
+III. No haber sido condenado por delito con pena privativa de libertad mayor de un año;
+
+IV. Contar con título profesional en derecho legalmente expedido, y
+
+V. Experiencia profesional de cuando menos tres años.
+
+Su designación se hará por el Pleno del Tribunal de Disciplina Judicial a propuesta de la o el titular del Órgano de Evaluación.
+
+Las y los visitadores judiciales deberán conducirse con imparcialidad y objetividad en el ejercicio de sus funciones. El Pleno del Tribunal de Disciplina Judicial establecerá, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de las y los visitadores a fin de garantizar su imparcialidad y objetividad.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 105 Quater.
+
+El Órgano de Evaluación contará con el personal operativo que requiera para el adecuado ejercicio de sus funciones. La persona titular del Órgano de Evaluación propondrá al Pleno del Tribunal de Disciplina Judicial la aprobación de la plantilla operativa que se requiera para el desahogo de las funciones de evaluación y seguimiento a su cargo.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 105 Quinquies.
+
+Los procesos de evaluación del desempeño serán una garantía del derecho al acceso a la justicia, así como de los derechos a la información y la participación pública. Sus resultados serán públicos, accesibles y transparentes. El Órgano de Evaluación garantizará el ejercicio de los derechos a la información y participación pública en relación con los resultados de los procesos de evaluación, particularmente en el contexto de la elección judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 105 Sexies.
+
+Los procesos de evaluación del desempeño deberán evaluar, al menos los criterios e indicadores siguientes:
+
+I. Los conocimientos y competencias de las personas titulares del órgano jurisdiccional, incluyendo aquellas de carácter técnico, ético y profesional;
+
+II. El dictado y cumplimiento oportuno de sus resoluciones;
+
+III. La adecuada gestión de los recursos humanos y materiales a su cargo;
+
+IV. La productividad del Órgano jurisdiccional;
+
+V. La capacitación y desarrollo de la persona servidora pública, y
+
+VI. La satisfacción de las personas usuarias del sistema de justicia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 105 Septies.
+
+El Órgano de Evaluación podrá aplicar los métodos de evaluacióu (sic) que estime pertinentes para la examinación integral, exhaustiva, imparcial y objetiva del desempeño judicial, incluyendo visitas presenciales o digitales, auditorías, evaluación por objetivos, análisis de indicadores clave de rendimiento, evaluación por pares, encuestas de satisfacción a las personas usuarias del sistema de justicia, requerimientos de información, análisis de datos, entre otros, siempre que estén previstos en los acuerdos que dicte el Pleno del Tribunal de Disciplina Judicial para tal efecto.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 105 Octies.
+
+Los procesos de evaluación del desempeño serán la evaluación ordinaria, la evaluación extraordinaria y la evaluación de seguimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 105 Nonies.
+
+El Órgano de Evaluación podrá realizar el procedimiento de evaluación ordinaria al desempeño de las Magistradas y Magistrados y las Juezas y Jueces en cualquier tiempo.
+
+Por lo que refiere al primer año de ejercicio, podrá realizarlo con posterioridad a los primeros noventa días naturales desde su toma de protesta, y con anterioridad a que concluya el primer año del ejercicio del cargo.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 105 Decies.
+
+Cuando la evaluación ordinaria resulte insatisfactoria y el Órgano de Evaluación lo estime pertinente, podrá dictar las medidas que considere necesarias para el fortalecimiento de la función judicial.
+
+Las medidas correctivas podrán consistir en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias técnicas, profesionales o éticas de la persona evaluada. El Pleno del Tribunal de Disciplina Judicial reglamentará los tipos de medidas correctivas mediante la emisión de acuerdos generales.
+
+El Órgano de Evaluación establecerá el plazo para el cumplimiento de tales medidas, dentro de los parámetros que defina el Pleno del Tribunal de Disciplina Judicial mediante acuerdo general.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 105 Undecies. Al vencimiento del plazo referido en el precepto anterior, el Órgano de Evaluación fijará un plazo para la acreditación de la evaluación extraordinaria, dentro de los parámetros que defina el Pleno del Tribunal de Disciplina Judicial mediante acuerdo general.
+
+En el caso de que la persona servidora pública no acredite favorablemente la evaluación extraordinaria dentro del plazo establecido por el Órgano de Evaluación o se niegue a realizarla, el Órgano dará vista al Pleno del Tribunal de Disciplina Judicial para los efectos legales a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 105 Duodecies. En caso de que se actualice el supuesto previsto en el último párrafo del precepto anterior, el Tribunal de Disciplina Judicial podrá ordenar la suspensión de la magistrada, magistrado, jueza o juez de hasta un año, y determinará las acciones y condiciones para su restitución.
+
+Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal de Disciplina Judicial resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 105 Terdecies. Con la finalidad de dar seguimiento al desempeño judicial y garantizar el derecho a la información y participación pública, el Órgano de Evaluación podrá realizar evaluaciones de seguimiento al desempeño judicial.
+
+El Pleno, las Comisiones y la Secretaría General de Acuerdos podrán ordenar al Órgano de Evaluación la realización de evaluaciones de seguimiento al desempeño judicial, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por un Magistrado, Magistrada, Jueza o Juez del Estado.
+
+Sin prejuicio de lo previsto en el párrafo anterior, el Órgano de Evaluación deberá realizar una evaluación intermedia y una evaluación final a las personas titulares de los órganos jurisdiccionales del Poder Judicial del Estado en el curso del ejercicio de su mandato.
+
+El Pleno del Tribunal de Disciplina Judicial reglamentará, mediante la emisión de acuerdos generales, el procedimiento para la realización de las evaluaciones de seguimiento debiendo garantizar la transparencia y el acceso a la información y la participación pública.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 105 Quaterdecies. Las y los titulares de los órganos jurisdiccionales durante el periodo evaluado serán responsables de los resultados que arrojen los procedimientos de evaluación y seguimiento de desempeño a los que se refiere el párrafo anterior. En consecuencia, solamente las y los titulares referidos serán objeto de las medidas correctivas o sancionadoras previstas en esta Ley, aun cuando dichas medidas supongan la implementación de acciones que involucren a las y los servidores públicos a su cargo.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 105 Quindecies. El Órgano de Evaluación judicial deberá publicar oportunamente la realización de las evaluaciones de desempeño judicial para garantizar el derecho a la información y la participación pública. El Pleno del Tribunal de Disciplina Judicial reglamentará los procedimientos, medios y mecanismos para la difusión oportuna y adecuada de los procesos de evaluación a la sociedad.
+
+Las y los visitadores deberán informar con la debida oportunidad a las y los titulares de los órganos jurisdiccionales de la evaluación de desempeño que vayan a practicar, a fin de que procedan a fijar el correspondiente aviso en los estrados del órgano con una anticipación mínima de quince días, para el efecto de que las personas interesadas puedan manifestar sus quejas o denuncias.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 105 Sexdecies. Cuando la evaluación de desempeño resulte insatisfactoria, o bien se impongan medidas correctivas o sancionadoras, la determinación del Órgano de Evaluación o de la Comisión del Tribunal de Disciplina Judicial podrá ser impugnada mediante el procedimiento que determine el Pleno del Tribunal de Disciplina Judicial para tal efecto mediante acuerdos generales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Sexto. Del Órgano de Investigación de Responsabilidades Administrativas
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 106.
+
+El Órgano de Investigación de Responsabilidades Administrativas fungirá como autoridad investigadora en términos de la Ley General de Responsabilidades Administrativas y tendrá la carga de la prueba para demostrar la veracidad sobre los hechos que demuestren la existencia de faltas administrativas cometidas por el personal jurisdiccional del Poder Judicial del Estado, así como la responsabilidad de aquellos a quienes se imputen las mismas.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 106 Bis.
+
+La persona titular del Órgano será designada por el Pleno del Tribunal de Disciplina Judicial, a propuesta de su presidencia, y deberá contar con título profesional afín a sus funciones y experiencia mínima de tres años preferentemente en la materia de responsabilidades administrativas.
+
+El Pleno del Tribunal de Disciplina Judicial, mediante acuerdos generales, designará la estructura orgánica a través de la cual la persona titular del Órgano de Investigación se apoyará para ejercer sus funciones. En dichos acuerdos se debe prever la existencia de agentes investigadores, quienes serán funcionarios que cuenten con las facultades para realizar las investigaciones y demás actuaciones que resulten necesarias.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 107.
+
+El Órgano de Investigación de Responsabilidades Administrativas tendrá las funciones siguientes:
+
+I. Llevar a cabo las investigaciones por faltas administrativas del personal jurisdiccional del Poder Judicial del Estado;
+
+II. Ordenar la recopilación de indicios y medios de prueba que estime conducentes para llegar a la verdad material de los hechos, así como desahogarlos en su momento procesal oportuno;
+
+III. Llamar a comparecer y apercibir a personas que aporten elementos de prueba;
+
+IV. Requerir información y documentación a las autoridades que resulten necesarias para el esclarecimiento de los hechos y conductas investigadas;
+
+V. Requerir informes y documentación a la Unidad de Inteligencia Patrimonial y Económica de la Secretaría de Finanzas, o a la Comisión Nacional Bancaria y de Valores, para que provean la información contable y financiera necesaria para el trámite de una investigación;
+
+VI. Solicitar la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga conocimiento de la existencia de los mismos;
+
+VII. Inspeccionar, en el ámbito de su competencia, el funcionamiento administrativo de los órganos jurisdiccionales a partir de las quejas interpuestas en contra de funcionarias o funcionarios adscritos a ellas o de los indicios señalados por el Órgano de Evaluación de Desempeño Judicial en el ejercicio de sus funciones;
+
+VIII. Imponer las medidas de apremio para hacer cumplir sus determinaciones, a que se refiere el artículo 97 de la Ley General de Responsabilidades Administrativas;
+
+IX. Integrar y presentar a las comisiones del Tribunal de Disciplina Judicial, los Informes de Presunta Responsabilidad Administrativa cuando así resulte conducente o emitir el acuerdo de conclusión y archivo del expediente, de conformidad con los acuerdos generales que dicte el Tribunal de Disciplina Judicial.
+
+Si no se obtuvieran elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. Dicha determinación, en su caso, se notificará a los Servidores Públicos y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión;
+
+X. Solicitar a la autoridad substanciadora o resolutora, en los procedimientos de responsabilidad administrativa, las medidas cautelares a que se refiere el artículo 124 de la Ley General de Responsabilidades Administrativas, y
+
+XI. Las demás que determinen las leyes, los reglamentos y acuerdos generales correspondientes.
+
+## TITULO SEPTIMO. PRECEDENTES OBLIGATORIOS Y MEDIOS DE COMUNICACION JUDICIAL
 
 ### Capítulo Primero. De los Precedentes Obligatorios
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-###### Artículo 102.
-
-Los depósitos se harán en la cuenta bancaria del Fondo Auxiliar para la Impartición de Justicia. Para tal efecto en todas las oficinas del Poder Judicial se colocarán los avisos respectivos.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2002)</small>
-
-En materia de suspensiones, alimentos, así como en los demás casos urgentes, el depósito podrá hacerse ante la propia autoridad judicial del conocimiento, quien bajo su estricta responsabilidad lo enterará en la Institución Bancaria correspondiente, a más tardar el día hábil siguiente, dando cuenta a la superioridad de este hecho.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-Tratándose de fianzas no personales, sólo se admitirán cauciones o garantías a través de pólizas expedidas por las casas afianzadoras expresamente autorizadas por el Consejo de la Judicatura; en ningún caso admitirán consignaciones hechas a través de otra Institución distinta del Fondo.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2002)</small>
-
-Los depósitos en consignación, cuando fueren en numerario, se harán directamente por el interesado en la cuenta bancaria del Fondo Auxiliar para la impartición de Justicia y el comprobante del mismo, se deberá exhibir en el expediente que corresponda.
-
-Para que surta sus efectos la suspensión que se otorgue bajo condición de exhibir cantidad determinada, se estará al párrafo anterior.
-
-### Capítulo Segundo. De los Medios de Comunicación Judicial
-
-###### Artículo 103.
-
-Los recursos con los que se integre y opere el fondo, serán diferentes de aquellos que comprenda el presupuesto que el Congreso del Estado apruebe anualmente a favor del Poder Judicial, y no afectarán las partidas que sean autorizadas mediante dicho presupuesto.
-
-### Capítulo Primero. Del Régimen Laboral
-
-###### Artículo 104.
-
-El fondo auxiliar será operado a través de la Tesorería del Poder Judicial, bajo la supervisión del Consejo de la Judicatura, a quien se deberá rendir mensualmente un informe de sus actividades.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-La Controlaría del Poder Judicial ejercerá las funciones de control y vigilancia del manejo del fondo y, contará con el personal subalterno, contadores o escribientes, que designe el Consejo de la Judicatura.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-### Capítulo Segundo. Del Régimen Disciplinario
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
-
-###### Artículo 105.
-
-El Consejo de la Judicatura determinará la forma y términos de administración y disposición de los recursos obtenidos a través del Fondo.
-
-### Capítulo Primero. De su Integración y Atribuciones
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
-
-###### Artículo 106.
-
-El Tesorero del Poder Judicial, como responsable directo del Fondo, tendrá las siguientes obligaciones:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-I. Elaborar el proyecto de presupuesto anual de egresos del Fondo y someterlo al Consejo de la Judicatura durante el mes de enero de cada año, para su discusión y aprobación en su caso;
-
-II. Supervisar y vigilar que los gastos efectuados se realicen de acuerdo a lo dispuesto en el presupuesto anual de egresos del Fondo, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-III. Coordinar todo lo relativo al Fondo en los términos de esta Ley, su Reglamento o las directrices que reciba del Consejo de la Judicatura o del Presidente del Tribunal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-IV. Rendir informe al Presidente del Consejo de la Judicatura mensualmente o cada vez que se le solicite sobre el estado que guarde la administración del Fondo y uno anual dentro de los primeros cinco días del mes de enero;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-V. Llevar la contabilidad del Fondo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-VI. Vigilar con la precisión debida, que el Fondo disponga de los recursos necesarios para conservar la liquidez;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-VII. Asesorar en todo lo necesario a los funcionarios judiciales que, por disposición de la ley, tengan relación con el Fondo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-VIII. Informar al Presidente de las irregularidades que advierta en todo lo relacionado al Fondo, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-IX. Ejercitar las facultades que le confiera el Consejo de la Judicatura en todo lo relativo al manejo del Fondo.
-
-###### Artículo 107.
-
-Los recursos del Fondo se destinarán a:
-
-I. La capacitación, mejoramiento y especialización del personal del Poder Judicial;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-II. La adquisición o mantenimiento de mobiliario, equipo y tecnología necesarios para el buen funcionamiento del Tribunal Superior de Justicia, sus Dependencias Administrativas o los Juzgados;
-
-III. Cubrir los gastos que origine su administración, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-IV. Sufragar los gastos que el Consejo de la Judicatura del Poder Judicial considere convenientes para mejorar la administración de justicia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-V. La adquisición de bienes inmuebles e inversión en obra pública necesarios para el mejor desempeño de las funciones del Poder Judicial, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-VI. Sufragar los gastos de los servicios y estudios técnicos que se vinculen con los conceptos a que se refieren las fracciones anteriores y, en general, las erogaciones que el Pleno estime necesarias y convenientes para la buena marcha de la administración de justicia.
-
-## TITULO SEPTIMO. PRECEDENTES OBLIGATORIOS Y MEDIOS DE COMUNICACION JUDICIAL
-
-### Capítulo Segundo. Del Presidente
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 108.
 
@@ -3315,9 +3605,13 @@ IV. El Pleno del Tribunal Superior de Justicia resolverá las contradicciones ex
 
 El Tribunal Superior de Justicia realizará la compilación, sistematización y publicación de las resoluciones y precedentes obligatorios que dicten el Pleno y las Salas que lo integran, a fin de garantizar su adecuada difusión.
 
-### Capítulo Tercero. De los Funcionarios del Tribunal
+### Capítulo Segundo. De los Medios de Comunicación Judicial
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+#### Sección Primera. Boletín
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 110.
 
@@ -3335,15 +3629,19 @@ Los titulares de los órganos jurisdiccionales remitirán los documentos respect
 
 El titular de la oficina del Boletín Judicial será el responsable de su edición, publicación y distribución oportuna. Asimismo vigilará que se fije en las puertas del Tribunal, de las Salas y los Juzgados un ejemplar de cada Boletín que se publique, para la consulta del público en general.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-Los servidores públicos adscritos a dicho órgano serán nombrados y removidos por el Consejo de la Judicatura.
+Los servidores públicos adscritos a dicho órgano serán nombrados y removidos por el Órgano de Administración Judicial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE AGOSTO DE 2013)</small>
+
+#### Sección Segunda. Dirección de Información y Comunicación Social
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 112 Bis.
 
@@ -3363,15 +3661,19 @@ II. Captar, analizar y enviar oportunamente por medio electrónico a los magistr
 
 III. Proporcionar a los medios de comunicación acreditados ante el Poder Judicial, la información generada por el mismo, y
 
-IV. Las demás que le sean encomendadas por el Presidente del Tribunal Superior de Justicia y el Consejo de la Judicatura.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Las demás que le sean encomendadas por la persona titular de la Presidencia del Tribunal Superior de Justicia y el Órgano de Administración Judicial.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-###### Artículo 112 Quáter.
+###### Artículo 112 Quater.
 
-El titular de la Dirección de información y comunicación social deberá contar (sic) título y cedula profesional en la licenciatura de Ciencias de la comunicación y será nombrado y removido por el Consejo de la Judicatura.
+La persona titular de la Dirección de información y comunicación social deberá contar con título y cedula profesional en la licenciatura de Ciencias de la comunicación y será nombrado y removido por el Órgano de Administración Judicial.
+
+#### Sección Tercera. Revista Judicial
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
 
 ###### Artículo 113.
 
@@ -3389,19 +3691,15 @@ El Instituto de Especialización se encargará de todos los trabajos concernient
 
 La revista estará a disposición de los interesados previo el pago correspondiente y para su consulta habrá suficientes ejemplares en la Biblioteca del Poder Judicial, además de las que se fijen en las puertas del Tribunal, de las Salas y los Juzgados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 114 Ter.
 
-El Consejo de la Judicatura mediante reglamento o acuerdos generales proveerá lo no establecido en la presente ley en todo lo concerniente a la Revista Judicial y establecerá todas aquellas disposiciones para la adecuada distribución y difusión de la misma.
+El Órgano de Administración Judicial mediante reglamento o acuerdos generales proveerá lo no establecido en la presente Ley en todo lo concerniente a la Revista Judicial y establecerá todas aquellas disposiciones para la adecuada distribución y difusión de la misma.
 
 ## TITULO OCTAVO. SERVIDORES PUBLICOS DEL PODER JUDICIAL
 
-### Capítulo Cuarto. De la Competencia
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+### Capítulo Primero. Del Régimen Laboral
 
 ###### Artículo 115.
 
@@ -3411,329 +3709,907 @@ Con excepción de los Magistrados, las relaciones de trabajo de los servidores p
 
 Los servidores públicos a que se refiere el Artículo 94 de esta Ley, así como el Secretario General de Acuerdos del Tribunal, los titulares de las unidades administrativas mencionadas en este ordenamiento y los que se encuentren adscritos a la Presidencia del Tribunal, serán considerados de confianza para efectos de la relación laboral.
 
-### Capítulo Quinto. Del Funcionamiento
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+### Capítulo Segundo. De las Responsabilidades Administrativas
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
 
 ###### Artículo 117.
 
 Los servidores públicos del Poder Judicial son responsables de las faltas que cometan en el ejercicio de sus respectivos cargos y quedan sujetos a las sanciones que determinen la Constitución local, la presente Ley, la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, la Ley General de Responsabilidades Administrativas y demás Leyes aplicables, independientemente de la responsabilidad penal o patrimonial que les pudiera resultar.
 
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 117 Bis.
+
+El Tribunal de Disciplina Judicial tendrá a su cargo la investigación, substanciación y resolución de los procedimientos de responsabilidad administrativa del personal jurisdiccional del Poder Judicial del Estado, así como la resolución del recurso de revisión en tales procedimientos y en los que involucren presuntas faltas graves cometidas por el personal administrativo del Poder Judicial del Estado, de conformidad con lo previsto en la Constitución del Estado, en la Ley General de Responsabilidades Administrativas, en este título y en las demás disposiciones que resulten aplicables.
+
+Por su parte, el Órgano de Administración Judicial tendrá a su cargo la investigación, substanciación y resolución de los procedimientos de responsabilidad administrativa del personal administrativo del Poder Judicial del Estado, así como la resolución del recurso de revisión en los casos que involucren presuntas faltas no graves, de conformidad con lo previsto en la Constitución del Estado, en la Ley General de Responsabilidades Administrativas, en este título y en las demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 117 Ter.
+
+Las y los Magistrados del Pleno del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y las y los integrantes del Órgano de Administración Judicial, sólo podrán ser separados de sus puestos en la forma y términos que determina el Título XI de la Constitución del Estado.
+
+También se procederá en los términos del párrafo anterior cuando los propios servidores y servidoras públicas transgredan las prohibiciones previstas en el artículo 79 de la Constitución del Estado, imponiéndose además como sanción la pérdida de las prestaciones y beneficios que les correspondan y las señaladas por la comisión de delitos contra la administración de la justicia.
+
+Las y los particulares podrán incurrir en responsabilidad si cometen las conductas previstas en los Capítulos III y IV del Título Tercero, del Libro Primero de la Ley General de Responsabilidades Administrativas, siempre que se encuentren vinculadas con las funciones del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 117 Quater.
+
+Las personas juzgadoras serán objeto de disciplina cuando cometan algunas de las siguientes conductas que atentan contra la administración de justicia:
+
+I. Emitan en cualquier procedimiento de manera dolosa resolución claramente contraria a las disposiciones constitucionales, la Ley aplicable al caso, o la interpretación de las fuentes establecidas en criterios jurisprudenciales que resulten obligatorios para el órgano jurisdiccional al que pertenezcan;
+
+II. Emitan en cualquier procedimiento por negligencia o ignorancia inexcusables resolución claramente contraria a las disposiciones constitucionales, la Ley aplicable al caso o la interpretación de esas fuentes establecida en criterios jurisprudenciales que resulten obligatorios para el órgano jurisdiccional al que pertenezcan;
+
+III. Emitan en cualquier procedimiento resolución contraria a las constancias de autos;
+
+IV. Emitan en cualquier procedimiento de manera dolosa resolución que contenga inferencias probatorias claramente irracionales o en la que se aplique el estándar de prueba de manera claramente incorrecta;
+
+V. Emitan en cualquier procedimiento por negligencia o ignorancia inexcusables resolución que contenga inferencias probatorias claramente irracionales o en la que se aplique el estándar de prueba de manera claramente incorrecta;
+
+VI. Contravengan las leyes que rigen la substanciación de los juicios o los procedimientos de manera dolosa con la finalidad de entorpecer o dilatar el normal desarrollo de éstos o producir la nulidad en todo lo actuado o alguna parte sustancial, y
+
+VII. Cuando de manera intencional o por omisión en su deber de debida diligencia retarden o demoren la emisión de la sentencia o resolución a los asuntos sometidos a su estudio.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 117 Quinquies.
+
+A efecto de preservar los principios de independencia, objetividad e imparcialidad, en ningún caso se podrán inicar (sic) las investigaciones o procesos administrativos de responsabilidad por los supuestos anteriores cuando los procesos jurisdiccionales no hayan concluido en forma definitiva.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 117 Sexies.
+
+En los casos anteriores, se podrá presentar la dennncia (sic) en cualquier momento, lo que dará lugar al análisis de su admisión y, en su caso, se suspenderá el inicio del procedimiento hasta que el proceso jurisdiccional esté concluido en forma definitiva.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 118.
 
-Se consideran faltas de los Magistrados, Jueces y demás servidores públicos del Poder Judicial:
+Son causas de responsabilidad de las personas servidoras públicas y personas juzgadoras del Poder Judicial del Estado, las siguientes:
 
-I. Dejar de asistir, sin causa justificada, a su respectiva oficina; no llegar puntualmente a ella o no permanecer en la misma por todo el tiempo que prevengan los reglamentos y disposiciones vigentes;
+I. Realizar conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, incurrir en corrupción, o cualquier acción que genere o implique subordinación indebida respecto de alguna persona del mismo u otro poder, o de particulares;
 
-II. Demorar el despacho de los asuntos sin causa justificada;
+II. Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial del Estado;
 
-III. No dar cumplimiento a las ejecutorias, circulares o resoluciones que, expedidas con arreglo a la Ley, reciban de sus superiores;
+III. Tener una notoria ineptitud técnica o jurídica, o descuido en el desempeño de las funciones o labores que deban realizar;
 
-IV. Ejecutar hechos o incurrir en omisiones que tengan como consecuencia traspapelar los expedientes, extraviar los escritos o dificultar o demorar el ejercicio de los derechos de las partes;
+IV. Alterar o manipular la información en constancias de autos para afectar la resolución de los asuntos de su competencia;
 
-V. Ofender, denostar o tratar con descortesía a los abogados, litigantes o público que acuda a los tribunales en demanda de justicia o a informarse del estado que guardan sus asuntos;
+V. Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legalmente les correspondan en los procedimientos;
 
-VI. Extraer los expedientes de sus oficinas en los casos en que las Leyes no lo permitan expresamente, o tratar fuera de las mismas oficinas los asuntos que se tramiten en ellas;
+VI. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
 
-VII. Litigar directa o indirectamente, salvo que se trate de asuntos propios o de sus padres, hijos, cónyuge o concubino;
+VII. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. No poner en conocimiento del Tribunal de Disciplina Judicial o del Órgano de Administración Judicial, según corresponda, cualquier acto tendiente a vulnerar la independencia de la función judicial;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+IX. Ejercer sus atribuciones de manera claramente arbitraria en detrimento de la función judicial;
 
-VIII. Ejecutar actos en detrimento de la administración de justicia o de la dignidad del cargo que desempeñan, incurriendo en faltas de probidad y honradez en el desempeño del cargo o empleo;
+X. No preservar la dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XI. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XII. Abandonar la residencia del tribunal o juzgado al que esté adscrito o adscrita, o dejar de desempeñar las funciones o las labores que tenga a su cargo;
 
-IX. No guardar la debida reserva en los asuntos que se tramiten en el lugar donde presten sus servicios, causando con ello perjuicio económico o moral a alguna persona;
+XIII. Incumplir las disposiciones constitucionales y legales en materia de propaganda y de informes de labores y de gestión;
 
-X. Solicitar o recibir dádivas, agasajos, préstamos, obsequios u obtener cualquier clase de percepciones provenientes, directa o indirecta, de alguna de las partes o de sus representantes, en negocios sometidos a su conocimiento o en el que hayan de intervenir conforme a la Ley;
+XIV. La omisión a que se refiere el artículo 135 del Código Nacional de Procedimientos Penales;
 
-XI. Acordar, resolver o fallar fuera de los términos legales, los asuntos de su conocimiento;
+XV. Acosar u hostigar sexualmente, o bien, llevar a cabo una o más conductas de naturaleza sexual, valiéndose de su posición jerárquica o, aunque no exista dicha posición, sobre otra persona de su entorno laboral, sin el consentimiento de ésta, con independencia de la responsabilidad penal;
 
-XII. Hacer uso de los medios de apremio, sin motivo fundado;
+XVI. Valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente designar, nombrar o intervenir para que se contrate en cualquier órgano jurisdiccional o área administrativa del Poder Judicial del Estado en que ejerza funciones, a personas con las que tenga lazos de parentesco por consanguinidad o afinidad hasta el cuarto grado o vínculo de matrimonio, concubinato o afectivo;
 
-XIII. No presidir las audiencias o juntas, o no intervenir en las diligencias en que deban hacerlo, con arreglo a la Ley;
+XVII. Que las personas que hubieran recibido un nombramiento de base, interino o de confianza directa o indirectamente designen, nombren o intervengan para que se contrate a los cónyuges, concubinos, convivientes o parejas en relaciones análogas, o a parientes consanguíneos o por afinidad hasta el cuarto grado de la persona que los nombró;
 
-XIV. Señalar para la celebración de vistas, juntas o audiencias, fechas lejanas, cuando puedan designar otras más próximas, y
+XVIII. Las previstas en la Ley General de Responsabilidades Administrativas, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIX. Las demás que señalen las leyes.
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+Además de la imposición de la responsabilidad administrativa que corresponda, los nombramientos dados en contravención a las fracciones XVI y XVII de este artículo quedarán sin efectos.
 
-XV. Realizar actos de violencia, amagos, malos tratamientos o expresar por escrito o verbalmente críticas ofensivas o injuriosas contra los superiores o compañeros.
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 118 Bis.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+Incurrirá en falta administrativa no grave la persona servidora pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
-XVI. Ocasionar daños o destruir intencionalmente o por descuido o negligencia edificios, obras, documentos, maquinaria y demás propiedad del Estado o comprometer la seguridad de éstos;
+I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás personas servidoras públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir faltas administrativas, en términos del artículo 93 de la Ley General de Responsabilidades Administrativas;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+III. Atender las instrucciones de sus superiores, siempre que éstas sean acordes con las disposiciones relacionadas con el servicio público.
 
-XVII. Presentarse al desempeño de sus labores bajo los influjos de alcohol, tóxicos, narcóticos o enervantes;
+En caso de recibir instrucción o encomienda contraria a dichas disposiciones, deberá denunciar estas circunstancias en términos del artículo 93 de la Ley General de Responsabilidades Administrativas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en los términos establecidos en la Ley General de Responsabilidades Administrativas;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+V. Registrar, integrar, custodiar y cuidar la documentación e información que, por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;
 
-XVIII. Faltar por más de tres días, sin causa justificada, dentro de un período de treinta días naturales;
+VI. Supervisar que las personas servidoras públicas sujetas a su dirección, cumplan con las disposicioues (sic) de este artículo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte, y
 
-XIX. Desempeñar algún otro empleo, cargo o comisión oficial o particular, que la ley prohíba o que se contraponga con el horario normal de labores;
+IX. Las demás que establezca la Ley General de Responsabilidades Administrativas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+###### Artículo 118 Ter.
 
-XX. Obtener copias o testimonios de constancias o documentos que obren en los expedientes, si no es por orden superior o lo autoriza expresamente la ley;
+Cuando en un mismo acto u omisión concurran personas que desempeñan funciones jurisdiccionales y personas que realizan labores administrativas, la investigación, substanciación y resolución del procedimiento de responsabilidad administrativa será competencia del Tribunal de Disciplina Judicial. El Órgano de Administración Judicial hará del conocimiento del Tribunal de Disciplina Judicial la existencia de alguna investigación en la que se advierta la posible participación de una persona con funciones jurisdiccionales, para que el Órgano de Investigación de dicho Tribunal ejerza sus atribuciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Cuando en un mismo acto u omisión concurran presuntas faltas cometidas por el personal administrativo de tipo grave y no grave, la substanciación y resolución del recurso (sic) revisión será competencia del Tribunal de Disciplina Judicial.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+En todo caso, el Pleno del Tribunal de Disciplina Judicial resolverá los conflictos competenciales que surjan frente a las atribuciones del Órgano de Administración Judicial con base en lo dispuesto por la Constitución Política del Estado, la Ley General de Responsabilidades Administrativas, esta Ley y demás disposiciones jurídicas aplicables.
 
-XXI. Ocuparse de negocios extraños al desempeño de sus cargos o empleos durante las horas de despacho;
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 118 Quater.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+Las personas servidoras públicas del Poder Judicial del Estado están obligadas a presentar su declaración de situación patrimonial y de intereses en los casos y conforme a lo previsto en la Ley General de Responsabilidades Administrativas y los acuerdos generales respectivos.
 
-XXII. Demorar indebidamente el despacho de los negocios, ya sea por falta de cumplimiento de las obligaciones que imponen las leyes o de las que se deriven de las órdenes que con arreglo a las mismas reciban de sus superiores;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### Capítulo Tercero. Del Procedimiento de Responsabilidad Administrativa
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XXIII. Autorizar a un subordinado a no asistir a sus labores sin causa justificada u otorgarle indebidamente permisos, licencias, comisiones con goce parcial o total de sueldo, sin que lo requiera la prestación del servicio;
+###### Artículo 118 Quinquies.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El procedimiento de responsabilidad administrativa, desde la investigación hasta el cumplimiento y ejecución de la sanción, se instaurará conforme a los principios y reglas previstas en la Ley General de Responsabilidades Administrativas y en esta Ley. En lo no previsto en esa Ley ni en el presente ordenamiento, se aplicarán los acuerdos generales que correspondan.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+El procedimiento disciplinario se regirá por las bases siguientes:
 
-XXIV. Extraer o permitir que se extraigan, en los casos en que la ley no lo autorice expresamente, los expedientes de la respectiva oficina;
+I. Todas las investigaciones y procedimientos observarán en todo momento, el contenido de los derechos humanos aplicables a los procedimientos administrativos sancionadores, con especial énfasis en la presunción de inocencia, el derecho a la no autoincriminación, el derecho a la defensa y el debido proceso, garantizando el derecho de audiencia a las personas involucradas. La perspectiva de género será transversal desde la investigación y hasta la resolución final de los asuntos, buscando que los procesos estén dotados de una dimensión restaurativa en aquellos casos y conforme a los criterios que al respecto definan los acuerdos generales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Las investigaciones podrán iniciar como consecuencia de:
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+a) Quejas o denuncias presentadas, ya sea por particulares o por autoridades, pertenecientes o no al Poder Judicial del Estado, por hechos que pudieran ser objeto de responsabilidad administrativa, cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo Magistradas, Magistrados, Juezas y Jueces.
 
-XXV. No atender con la debida corrección y diligencia a los litigantes y al público en general;
+En estos casos, compete a la presidencia del Tribunal de Disciplina Judicial o a la persona Contralora del Órgano de Administración Judicial, según corresponda, pronunciarse sobre la admisibilidad de la queja o denuncia, a partir de la propuesta que formule la autoridad investigadora respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) los procedimientos de auditoría, vigilancia o supervisión interna.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+c) Por orden oficiosa o denuncia del Tribunal de Disciplina Judicial o del Órgano de Administración Judicial.
 
-XXVI. No informar a su superior jerárquico o al titular de su oficina, de todo acto u omisión de los funcionarios y empleados sujetos a su dirección y que puedan implicar inobservancias de las obligaciones propias del cargo o empleo;
+d) Las demás causales que prevean las leyes y acuerdos generales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III. Corresponderá al Órgano de Investigación de Responsabilidades Administrativas, o en su caso a la Dirección General de Investigación de la Contraloría del Órgano de Administración Judicial, fungir como autoridad investigadora en términos de la Ley General de Responsabilidades Administrativas. Se exceptúan de la regla anterior los seguimientos de evolución en la situación patrimonial, en los cuales directamente se puede presentar el Informe de Presunta Responsabilidad Administrativa;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+IV. Las medidas cautelares podrán dictarse en cualquier momento de la investigación o del procedimiento, conforme a las reglas siguientes:
 
-XXVII. Expedir con conocimiento de causa, nombramiento en favor de quien se encuentre inhabilitado o impedido para el desempeño del cargo o empleo;
+a) Deberán solicitarse a la autoridad resolutora, según lo dispuesto en el artículo siguiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Serán medidas cautelares las previstas en la fracción XV del artículo 103 Ter;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+c) Las medidas cautelares podrán tener como finalidad alguna de las previstas en el artículo 123 de la ley General de Responsabilidades Administrativas, así como la de salvaguardar la integridad de las personas potencialmente afectadas por conductas graves particularmente en casos de violencia sexual;
 
-XXVIII. Negarse sin causa justificada a que se le apliquen los exámenes de Control de Confianza o a cualquiera de las evaluaciones establecidas en el artículo 3 Bis, de esta Ley;
+d) Las medidas cautelares serán proporcionales a la conducta investigada o procesada, e instrumentales para la persecución de la finalidad buscada, e
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+e) Las medidas cautelares se tramitarán incidentalmente. En caso de que la autoridad resolutora admita a trámite el incidente respectivo, podrá adoptar las medidas solicitadas de manera provisional y, en el mismo acto, dará vista a la o a las personas directamente afectadas para que, dentro de un plazo de cinco días hábiles, manifiesten lo que a su derecho convenga. Transcurrido el plazo anterior, la autoridad resolutora contará con un plazo de hasta cinco días hábiles para emitir la resolución interlocutoria respectiva, en contra de la cual no procederá recurso alguno;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+V. La prescripción de la acción disciplinaria y la caducidad dentro del procedimiento respectivo se regularán de conformidad con lo dispuesto en el artículo 120 Ter de esta Ley, y
 
-XXIX. Dar tratos preferenciales a algunas personas con perjuicio de otras, sea cual fuere el motivo para ello, y
+VI. Los medios de impugnación se regirán por lo previsto en el artículo 118 Duodecies de la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Podrán intervenir en el procedimiento de responsabilidad administrativa las autoridades que se faculten en los acuerdos generales respectivos, siempre conforme a lo previsto en las bases antes desarrolladas.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XXX. Las demás que señalen las Leyes.
+###### Artículo 118 Sexies.
+
+El Tribunal de Disciplina Judicial es el órgano competente para investigar, substanciar y resolver los procedimientos de responsabilidades administrativas por presuntas faltas cometidas por el personal jurisdiccional del Poder Judicial del Estado, así como aplicar las sanciones que correspondan, de acuerdo con las atribuciones siguientes:
+
+I. Las Comisiones del Tribunal de Disciplina Judicial serán competentes para substanciar y resolver en primera instancia respecto de las responsabilidades administrativas del personal jurisdiccional;
+
+II. El Pleno del Tribunal de Disciplina Judicial fungirá como segunda instancia en los procedimientos a los que se refiere la fracción anterior. En consecuencia, substanciará y resolverá el recurso de revisión en los procedimientos a los que se refiere la fracción anterior y los demás que resulten procedentes, así como el recurso de revisión en los casos que involucren presuntas faltas graves cometidas por el personal administrativo del Poder Judicial del Estado.
+
+En ningún caso los recursos de revisión podrán ser turnados para su substanciación y elaboración de proyecto de resolución respectivo a las personas servidoras públicas que integren la Comisión que emitió la resolución recurrida.
+
+Las resoluciones que emita en segunda instancia el Pleno de (sic) Tribunal de Disciplina Judicial serán definitivas e inatacables. Dichas resoluciones se tomarán por mayoría de votos; en caso de no alcanzarse la mayoría deberán desestimarse las sanciones impuestas en primera instancia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 118 Septies.
+
+El Órgano de Administración Judicial es el órgano competente para investigar, substanciar y resolver los procedimientos de responsabilidades administrativas por faltas cometidas por el personal administrativo del Poder Judicial del Estado, así como aplicar las sanciones que correspondan, de acuerdo con las atribuciones siguientes:
+
+I. La Contraloría, será competente para investigar las responsabilidades administrativas del personal administrativo del Poder Judicial del Estado;
+
+II. El Órgano de Administración Judicial, a través de las Comisiones que determine mediante acuerdos generales, substanciará y resolverá en primera instancia respecto de los procedimientos de responsabilidad administrativa, y
+
+III. El Pleno del Órgano de Administración Judicial fungirá como segunda instancia en los procedimientos a los que se refiere la fracción anterior. En consecuencia, substanciará y resolverá el recurso de revisión en contra de las resoluciones emitidas por las Comisiones en los procedimientos de responsabilidad administrativa por la presunta comisión de faltas no graves, y los demás recursos que resulten procedentes.
+
+En ningún caso los recursos de revisión podrán ser turnados para su substanciación y elaboración de proyecto de resolución respectivo a las personas que integren la Comisión que emitió la resolución recurrida.
+
+Las resoluciones que emita en segunda instancia el Pleno del Órgano de Administración Judicial serán definitivas e inatacables. Dichas resoluciones se tomarán por mayoría de cuatro votos; en caso de no alcanzarse tal votación deberán desestimarse las sanciones impuestas en primera instancia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 118 Octies.
+
+Las personas servidoras públicas del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial son responsables de la investigación, substanciación y resolución de las faltas administrativas incurrirán en obstrucción de la justicia cuando:
+
+I. Realicen cualquier acto que simule conductas no graves durante la investigación de actos u omisiones calificados como graves en la presente Ley y demás disposiciones aplicables;
+
+II. No inicien el procedimiento correspondiente ante la autoridad competente, dentro del plazo de treinta días naturales, a partir de que tengan conocimiento de cualquier conducta que pudiera constituir una falta administrativa grave, faltas de particulares o un acto de corrupción, y
+
+III. Revelen la identidad de un denunciante anónimo protegido bajo los preceptos establecidos en la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 118 Nonies.
+
+El Tribunal de Disciplina Judicial podrá atraer procedimientos relacionados con hechos que las leyes señalen como delitos. Para estos efectos, se considerarán faltas administrativas graves las conductas previstas en los tipos penales de los delitos contra la administración de justicia cuando dichas conductas sean realizadas por las personas juzgadoras.
+
+Las sanciones correspondientes serán las que establezca esta Ley para las faltas graves.
+
+Dichas conductas podrán juzgarse simultánea o sucesivamente, mediante los procedimientos penales y en los procedimientos administrativos instruidos por el Tribunal de Disciplina Judicial. En este segundo caso, para establecer la existencia de la falta administrativa grave y la responsabilidad de la persona juzgadora bastará con que, en atención a las pruebas admitidas y desahogadas, tanto de cargo como de descargo, sea más probable la hipótesis de culpabilidad que la hipótesis de inocencia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 118 Decies.
+
+El principio de independencia judicial garantiza a las personas juzgadoras la posibilidad de ejercer sin interferencias de ningún tipo su criterio jurisdiccional para resolver las controversias de las que conozcan con respeto al marco normativo aplicable y, en su caso, valorando racionalmente las pruebas que obren en la causa.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 118 Undecies. Los procedimientos administrativos de responsabilidad se clasificarán por su materia de la manera siguiente:
+
+I. Faltas en contra de la administración de justicia, los cuales comprenden los actos u omisiones contrarios a los principios y normas que disciplinan la función judicial al momento de dictar resoluciones, y
+
+II. Faltas por infracción a deberes establecidos en la Ley que no están relacionadas directamente con el ejercicio de la función judicial el (sic) momento de dictar resoluciones.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Artículo 118 Duodecies. Los medios de impugnación en los procedimientos de responsabilidad administrativa estarán previstos en los acuerdos generales que al efecto emita el Pleno del Tribunal de Disciplina Judicial o el Pleno del Órgano de Administración Judicial, según corresponda, de conformidad con lo que dispone la Constitución del Estado, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
+
+En el caso del Tribunal de Disciplina Judicial, dichos acuerdos deberán sujetarse a los siguientes lineamientos:
+
+I. Las decisiones disciplinarias emitidas por las Comisiones del Tribunal de Disciplina Judicial podrán ser impugnadas mediante recurso de revisión dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva. Su resolución corresponde al Pleno del Tribunal de Disciplina Judicial, y
+
+II. La admisión y el desechamiento de quejas por parte de la Presidencia del Tribunal de Disciplina Judicial, así como los dictámenes conclusivos y la inactividad procesal superior a seis meses por parte del Órgano de Investigación serán impugnables mediante recurso de inconformidad. Su resolución corresponderá a una Comisión del Tribunal de Disciplina Judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 119.
 
-Son faltas de los Magistrados, además de las expresadas en el Artículo anterior:
+Son faltas de las Magistradas y los Magistrados, además de las expresadas:
 
 I. No asistir o ausentarse de las sesiones del Pleno o de la Sala a que pertenezcan, sin motivo legal, y
 
 II. Abstenerse de votar en los acuerdos del Pleno o de la Sala a que pertenezcan, sin motivo fundado.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Cuarto. De las Sanciones
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 120.
 
-Las faltas a que se refiere el presente Capítulo y que se cometan por los servidores públicos del Poder Judicial, incluyendo al personal adscrito a la Presidencia, al Pleno y a las Salas del Tribunal Superior de Justicia, serán investigadas y sancionadas en términos de la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, por el Consejo de la Judicatura. Tratándose de los Magistrados, sus faltas serán sancionadas por el Congreso del Estado.
+Las sanciones por las faltas administrativas contempladas en el presente Título y en la Ley General de Responsabilidades Administrativas serán las siguientes:
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+A. Tratándose de faltas administrativas no graves, las sanciones consistirán en:
+
+I. Amonestación privada o pública;
+
+II. Suspensión del empleo, cargo o comisión;
+
+III. Destitución de su empleo, cargo o comisión, o
+
+IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+Se podrán imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo con la trascendencia de la falta administrativa no grave. La suspensión del empleo cargo o comisión que se imponga podrá ser de uno a treinta días naturales. En caso de que se imponga como sanción la inhabilitación temporal, ésta no será menor de tres meses ni podrá exceder de un año.
+
+B. Tratándose de faltas administrativas graves, las sanciones consistirán en:
+
+I. Suspensión del empleo, cargo o comisión;
+
+II. Destitución del empleo, cargo o comisión;
+
+III. Sanción económica, o
+
+IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas.
+
+A juicio de la autoridad resolutora podrán ser impuestas a la persona infractora una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo con la gravedad de la falta administrativa.
+
+La suspensión del empleo, cargo o comisión que se imponga podrá ser de treinta a noventa días naturales.
+
+En caso de que se determine la inhabilitación, ésta será de uno hasta diez años si el monto de la afectación de la falta administrativa grave no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente, y de diez a veinte años si dicho monto excede de dicho límite. Cuando no se causen daños o perjuicios, ni exista beneficio o lucro alguno, se podrán imponer de tres meses a un año de inhabilitación.
+
+En el caso de que la falta administrativa grave cometida por la persona servidora pública le genere beneficios económicos, a sí misma o a cualquiera de las personas a que se refiere el artículo 52 de la Ley General de Responsabilidades Administrativas, se le impondrá sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos. En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios económicos obtenidos. Lo anterior, sin perjuicio de la imposición de las sanciones antes referidas.
+
+Asimismo, se determinará el pago de una indemnización cuando, la falta administrativa grave a que se refiere el párrafo anterior provocó daños y perjuicios a la hacienda pública del Estado o municipal, o al patrimonio de los entes públicos. En dichos casos, la persona servidora pública estará obligada a reparar la totalidad de los daños y perjuicios causados y las personas que, en su caso, también hayan obtenido un beneficio indebido, serán solidariamente responsables.
+
+C. Las sanciones administrativas aplicables a particulares por la comisión de alguna falta administrativa consistirán en:
+
+I. Para personas físicas:
+
+a) Sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos o, en caso de no haberlos obtenido, por el equivalente a la cantidad de cien hasta ciento cincuenta mil veces el valor diario de la Unidad de Medida y Actualización vigente;
+
+b) Inhabilitación temporal para participar en adquisiciones, arrendamientos, servicios u obras públicas, según corresponda, por un periodo que no será menor de tres meses ni mayor de ocho años, o
+
+c) Indemnizacióu (sic) por los daños o perjuicios ocasionados al patrimonio del Poder Judicial del Estado o a la hacienda pública estatal.
+
+II. Para personas morales:
+
+a) Sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos o, en caso de no haberlos obtenido, por el equivalente a la cantidad de mil hasta un millón quinientas mil veces el valor diario de la Unidad de Medida y Actualización vigente;
+
+b) Inhabilitación temporal para participar en adquisiciones, arrendamientos, servicios u obras públicas, por un periodo que no será menor de tres meses ni mayor de diez años;
+
+c) La suspensión de actividades, por un periodo que no será menor de tres meses ni mayor de tres años, la cual consistirá en detener, diferir o privarlos temporalmente de sus actividades comerciales, económicas, contractuales o de negocios por estar vinculados a faltas administrativas graves;
+
+d) Disolución de la sociedad respectiva, la cual consistirá en la pérdida de la capacidad legal de una persona moral, para el cumplimiento del fin por el que fue creada por orden jurisdiccional y como consecuencia de la comisión, vinculación, participación y relación con una falta administrativa grave, o
+
+e) Indemnización por los daños o perjuicios ocasionados al patrimonio del Poder Judicial del Estado o a la hacienda pública estatal.
+
+Para la imposición de sanciones a las personas morales deberá observarse, además, lo previsto en los artículos 24 y 25 de la Ley General de Responsabilidades Administrativas.
+
+Las sanciones previstas en los incisos c) y d) de la fracción II, sólo serán procedentes cuando la persona moral obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia, de sus socios o socias, o equivalentes, o en aquellos casos que se advierta que la persona moral es utilizada de manera sistemática para vincularse con faltas administrativas graves.
+
+Podrán imponerse a la o al particular una o más de las sanciones señaladas siempre que sean compatibles entre ellas y conforme a la gravedad de las faltas.
+
+Se considerará como atenuante para la imposición de sanciones a personas morales el que los órganos de administración, representación, vigilancia sus socios o sus socias denuncien o colaboren en las investigaciones proporcionando la información y los elementos que posean, o resarzan los daños que se hubieren causado.
+
+Para la imposición de sanciones a las personas morales se considerará como agravante, el hecho de que los órganos de administración, representación, vigilancia, sus socios o sus socias conozcan presuntos actos de corrupción de personas físicas que pertenecen a aquellas y no los denuncien.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 120 Bis.
+
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y los integrantes del Órgano de Administración Judicial solo podrán ser removidos en los términos del Título XI de la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 120 Ter.
+
+El plazo de prescripción de faltas graves de las y los servidores públicos o de faltas de particulares, será de siete años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado. La prescripción se interrumpirá con la notificación del inicio del procedimiento de responsabilidad administrativa.
+
+Si se dejare de actuar en los procedimientos de responsabilidad administrativa y, como consecuencia de ello, se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se admitió el Informe de Presunta Responsabilidad Administrativa.
+
+En ningún caso, en los procedimientos de responsabilidad administrativa podrá dejar de actuarse por más de seis meses sin causa justificada; en caso de actualizarse dicha inactividad, se decretará, a solicitud del presunto responsable, la caducidad de la instancia.
+
+Para efectos de lo previsto en el párrafo anterior, se considera causa justificada el hecho de que la o el servidor público se encuentre de vacaciones o gozando de una licencia para efectos del emplazamiento, por lo que no procederá la caducidad de la instancia.
+
+Los plazos a los que se refiere este artículo se computarán en días naturales.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 120 Quater.
+
+Las faltas no graves prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las faltas, o a partir del momento en que hubieren cesado.
+
+Si se dejare de actuar en los procedimientos de responsabilidad administrativa y, como consecuencia de ello, se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se ordenó su inicio.
+
+En ningún caso, en los procedimientos de responsabilidad administrativa podrá dejar de actuarse por más de seis meses sin causa justificada; en caso de actualizarse dicha inactividad, se decretará, a solicitud del presunto responsable, la caducidad de la instancia.
+
+Para efectos de lo previsto en el párrafo anterior, se considera causa justificada el hecho de que la o el servidor público se encuentre de vacaciones o gozando de una licencia para efectos del emplazamiento, por lo que no procederá la caducidad de la instancia.
+
+Los plazos a los que se refiere este artículo se computarán en días naturales.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 120 Quinquies.
+
+Las faltas serán valoradas y, en su caso sancionadas, de conformidad con los criterios establecidos en los artículos 75 a 80 de la Ley General de Responsabilidades Administrativas.
+
+En todo caso, se considerarán como faltas graves, además de las así calificadas por la Ley General de Responsabilidades Administrativas, las contempladas en las fracciones I a VIII, XV, XVI y XVII del artículo 118 de esta Ley, y las señaladas en el artículo 79 de la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 120 Sexies.
+
+Tratándose de Juezas y Jueces, la destitución sólo procederá en los casos siguientes:
+
+I. Cuando incurran en una causa de responsabilidad grave en el desempeño de sus cargos, o
+
+II. Cuando reincidan en una causa de responsabilidad sin haber atendido a las observaciones o amonestaciones que se les hagan guardar conforme a la Ley y a los reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 120 Septies.
+
+Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Tribunal de Disciplina Judicial, a través del órgano que resulte competente, dictará las providencias oportunas para su corrección o remedio inmediato, y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda para que proceda en los términos previstos en este título.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 120 Octies.
+
+Las quejas notoriamente improcedentes o temerarias serán desechadas de plano, y el Tribunal de Disciplina Judicial impondrá al promovente una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización vigente al momento de interponerse la queja.
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ## TITULO NOVENO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Primero. De su Integración y Atribuciones
 
 ###### Artículo 121.
 
-De conformidad con el artículo 84 Bis de la Constitución Política del Estado de Tlaxcala, el Tribunal de Justicia Administrativa es un organismo público del Poder Judicial del Estado, que forma parte del Sistema Anticorrupción del Estado de Tlaxcala, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones, para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y los recursos para impugnar sus resoluciones.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 122.
 
-El Tribunal estará integrado por tres personas propuestas por la o el Gobernador del Estado y ratificadas por el voto de las dos terceras partes de las y los miembros presentes del Congreso del Estado, dentro del improrrogable plazo de treinta días. Si el Congreso del Estado no resolviere dentro de dicho plazo, se entenderán por ratificados los propuestos por la o el Gobernador.
-
-En caso de que el Congreso del Estado rechace alguna de la totalidad de las propuestas, la o el Gobernador del Estado someterá otras en los términos del párrafo anterior. Si estas segundas fueran rechazadas, ocuparán el cargo las personas que designe la o el Gobernador del Estado.
-
-En ningún caso el Tribunal se integrará con tres personas del mismo género.
-
-Durarán en su encargo seis años, podrán ser ratificadas para un periodo igual, y sólo podrán ser removidas de su cargo por las causas graves que señale la ley.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 123.
 
-La ausencia temporal de un magistrado será cubierta, preferentemente, por la o el secretario general o, en su caso, por un proyectista, según acuerden los otros magistrados.
-
-Si la ausencia de un magistrado es definitiva, la o el Presidente lo notificará de inmediato a la o el Gobernador del Estado para que inicie el procedimiento para elegir al faltante, quien será designado para concluir el periodo. En este caso, mientras se hace la elección respectiva, la ausencia será suplida en los términos del primer párrafo.
-
-La persona designada para ocupar el cargo de manera temporal deberá ser del mismo género que el sustituido, en todos los casos
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 124.
 
-En los términos de lo dispuesto por el artículo 84 Bis de la Constitución Política del Estado Libre y Soberano de Tlaxcala y las leyes respectivas, el Tribunal estará facultado para:
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
-I. Resolver las controversias que se susciten entre la administración pública estatal, municipal y los particulares;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-II. Substanciar los procedimientos de responsabilidad por causas graves, en los términos previstos en la Ley General de Responsabilidades Administrativas;
-
-III. Imponer en los términos que disponga la ley, las sanciones a las y los servidores públicos locales y municipales por responsabilidad administrativa grave, así como a las y los particulares que incurran en actos vinculados con faltas administrativas graves;
-
-IV. Fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal, municipal o al patrimonio de los entes públicos locales o municipales;
-
-V. Resolver el recurso de inconformidad, los recursos de reclamación y apelación, así como la revisión en los términos previstos en las leyes;
-
-VI. Velar por el cumplimiento efectivo de sus resoluciones;
-
-VII. Expedir su Reglamento Interno y los acuerdos generales necesarios para su adecuado funcionamiento, y
-
-VIII. Las demás que le señalen las leyes de manera expresa y las implícitas que sean necesarias para el debido cumplimiento de sus fines.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+### Capítulo Segundo. Del Presidente
 
 ###### Artículo 125.
 
-Las y los Magistrados elegirán de entre ellos a su Presidente, quien durará en su cargo dos años, y en su sustitución se procurará que asuma la presidencia un magistrado de género distinto.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 126.
 
-Las ausencias de la o el Presidente serán suplidas, si no exceden de un mes, por la o el magistrado de mayor edad. Si la ausencia excediere dicho plazo, pero fuere menor a seis meses, se designará a un Presidente interino, y si fuere mayor a ese término, se nombrará a un Presidente sustituto para que ocupe el cargo hasta el final del periodo.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 127.
 
-La o el Presidente tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
-I. Representar legalmente al Tribunal;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-II. Presidir y conducir las sesiones, dirigir la discusión de los asuntos sometidos al conocimiento del Tribunal, someterlos a votación cuando se declare cerrado el debate;
-
-III. Proponer al Consejo de la Judicatura el nombramiento y en su caso, remoción del personal adscrito al Tribunal;
-
-IV. Informar al Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, de las irregularidades en que incurra el personal adscrito al Tribunal;
-
-V. Presentar al Pleno del Tribunal Superior de Justicia y al Consejo de la Judicatura, dentro de los primeros tres días hábiles del mes de diciembre de cada año, un informe anual de las actividades del Tribunal;
-
-VI. Autorizar, con su firma en unión de la o el Secretario General, los acuerdos de trámite;
-
-VII. Enviar a la o el Presidente del Tribunal Superior de Justicia los precedentes que se sustenten por el Tribunal, y
-
-VIII. Las demás que señalen las leyes y aquellas que resulten necesarias para el adecuado desahogo de los asuntos de la competencia del Tribunal.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+### Capítulo Tercero. De los Funcionarios del Tribunal
 
 ###### Artículo 128.
 
-Para el ejercicio de sus funciones el Tribunal contará con un Secretario General de Acuerdos, quien tendrá las atribuciones siguientes:
-
-I. Apoyar a las y los magistrados en todo lo necesario para el buen funcionamiento del tribunal;
-
-II. Revisar los engroses de las resoluciones;
-
-III. Llevar el control del turno de los asuntos;
-
-IV. Autorizar con su firma las actuaciones del Tribunal;
-
-V. Expedir los certificados de constancias que se requieran, y
-
-VI. Las demás que les señalen las leyes.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 129.
 
-El Tribunal contará con Diligenciarios y un Oficial de Partes, así como con los proyectistas y demás personal de apoyo que las necesidades del servicio justifiquen y permitan las posibilidades presupuestales.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Cuarto. De la Competencia
 
 ###### Artículo 130.
 
-Es competencia de cada uno de las y los magistrados conocer y resolver de manera unitaria de los asuntos siguientes:
-
-I. En materia contenciosa administrativa, distinta a la vinculada con responsabilidad de las y los servidores públicos, conocerán en única instancia de los asuntos que establece la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios;
-
-II. En materia de responsabilidad de las y los servidores públicos, de los siguientes medios de impugnación:
-
-a. Del Recurso de Inconformidad, en los términos establecidos en el Libro Segundo, Título Primero, Capítulo IV, de la Ley General de Responsabilidades Administrativas.
-
-b. Del Recurso de Reclamación, previsto en el Libro Segundo, Título Segundo, Capítulo III, Sección Segunda, de la Ley General de Responsabilidades Administrativas.
-
-c. De la Revisión prevista en el Libro Séptimo, Capítulo Primero, de la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios, en contra de las resoluciones definitivas recaídas a los recursos de revocación que dicten la Contraloría General o los Órganos Internos de Control con motivo de los procedimientos vinculados con faltas administrativas no graves.
-
-III. En materia de responsabilidad de las y los servidores públicos, del procedimiento de responsabilidad administrativa establecido en el artículo 209 de la Ley General de Responsabilidades Administrativas.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 131.
 
-Es competencia del Tribunal resolver, de manera colegiada, del Recurso de Apelación, previsto en el Libro Segundo, Título Segundo, Capítulo III, Sección Tercera, de la Ley General de Responsabilidades Administrativas.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 132.
 
-El recurso de apelación procederá, exclusivamente, en contra (sic) las resoluciones dictadas por las y los magistrados de manera unitaria, siguientes:
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
-I. La que determine imponer sanciones por la comisión de Faltas administrativas graves o Faltas de particulares, y
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-II. La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean Servidores Públicos o particulares.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+### Capítulo Quinto. Del Funcionamiento
 
 ###### Artículo 133.
 
-El trámite de los asuntos de la competencia del Pleno del Tribunal se regirá por las disposiciones siguientes:
-
-I. Los acuerdos de admisión, desechamiento y resolución de los juicios, incidentes y recursos se dictarán por el Pleno;
-
-II. Las resoluciones se tomarán por unanimidad o mayoría de votos de las y los magistrados, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación que previamente calificará el Tribunal. La o el Magistrado que disienta emitirá su voto particular razonado, el que se incluirá en la parte considerativa de la sentencia;
-
-III. Las resoluciones deberán ser firmadas por todos los Magistrados y por la o el Secretario General, y
-
-IV. Las demás que determinen las leyes.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### Artículo 134.
 
-Para todo aquello que no esté expresamente previsto en este Título, serán aplicables las normas establecidas para las Salas del Tribunal Superior de Justicia.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+## TÍTULO DÉCIMO. DE LAS DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Primero. De los Impedimentos
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 135.
+
+Las Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, las Juezas y Jueces y las y los integrantes del Órgano de Administración Judicial están impedidos para conocer de los asuntos, por alguna de las causas siguientes:
+
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguna o alguno de las y los interesados, sus representantes, patronas, patronos o personas defensoras;
+
+II. Tener amistad o enemistad manifiesta con alguna de las personas a que se refiere la fracción anterior;
+
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus parientes en los grados que expresa la fracción I de este artículo;
+
+IV. Haber presentado querella o denuncia la persona servidora pública, su cónyuge o sus parientes, en los grados que expresa la fracción I, en contra de alguna de las personas interesadas;
+
+V. Tener pendiente la persona servidora pública, su cónyuge o sus parientes, en los grados que expresa la fracción I, un juicio contra alguna o alguno de las o los interesados o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido hasta la fecha en que tome conocimiento del asunto;
+
+VI. Haber sido procesada la persona servidora pública, su cónyuge o parientes, en los grados expresados en la misma fracción I, en virtud de querella o denuncia presentada ante las autoridades, por alguna de las personas interesadas, sus representantes, patronos o personas defensoras;
+
+VII. Estar pendiente de resolución un asunto que hubiese promovido como particular, semejante a aquél que le es sometido para su conocimiento o tenerlo su cónyuge o sus parientes en los grados expresados en la fracción I;
+
+VIII. Tener interés personal en un asunto donde alguno de los interesados sea persona juzgadora, árbitro o arbitrador;
+
+IX. Asistir, durante la tramitación del asunto a alguna de las personas interesadas, por una retribución económica, por tener familiaridad o vivir en familia con alguna de ellas;
+
+X. Aceptar dádivas, presentes o servicios de alguna de las personas interesadas;
+
+XI. Hacer promesas que impliquen parcialidad a favor o en contra de alguna de las personas interesadas, sus representantes, patronos o personas defensoras, o amenazar de cualquier modo a alguno de ellos o ellas;
+
+XII. Ser persona acreedora, deudora, socia, arrendadora o arrendataria dependiente o principal de alguna de las personas interesadas;
+
+XIII. Ser o haber sido tutora, tutor, curador o curadora de alguna de las personas interesadas o administradora de sus bienes por cualquier título;
+
+XIV. Ser persona heredera, legataria, donataria o fiadora de alguna de las personas interesadas, si la persona servidora pública ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
+
+XV. Ser cónyuge, hija o hijo de la persona servidora pública, acreedora deudora o fiadora de alguna de las personas interesadas;
+
+XVI. Haber sido Juez, Jueza, Magistrada o Magistrado en el mismo asunto, en otra instancia.
+
+XVII. Haber sido persona agente del Ministerio Público, perita, perito, testigo, apoderada, apoderado, patrona, patrono, defensora o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguna de las personas interesadas, y
+
+XVIII. Cualquier otra análoga a las anteriores.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 136.
+
+Para los efectos del artículo anterior, en los asuntos del orden penal se considerarán como interesadas a la persona imputada, la víctima, ofendida u ofendido.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 137.
+
+Las y los auditores y las y los peritos estarán impedidos para actuar cuando se encuentren en una de las causales de impedimento previstas por las fracciones I, II, IX, XIII, XIV y XV del artículo 135 de esta Ley o en las leyes de la materia, siempre que pudieran comprometer la prestación imparcial de sus servicios. La calificación del impedimento corresponderá, en todo caso, al órgano administrativo o jurisdiccional ante el cual deberían ejercer sus atribuciones y cumplir sus obligaciones.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 138.
+
+Además de las y los servidores públicos previstos en el artículo 79 de la Constitución del Estado, las y los oficiales de partes, las y los diligenciarios, las y los secretarios proyectistas, las y los auditores, no podrán aceptar o desempeñar empleo o encargo de los Estados, de la Ciudad de México o de particulares, salvo los cargos en asociaciones científicas, docentes, literarias o de beneficencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Segundo. De la Protesta Constitucional
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 139.
+
+Las y los integrantes del Pleno del Órgano de Administración Judicial que fueren designados por el Poder Legislativo o por la persona titular del Poder Ejecutivo, rendirán ante ellos la protesta constitucional, y las y los integrantes que fueren designados por el Pleno del Tribunal Superior de Justicia lo harán ante la persona titular de la Presidencia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 140.
+
+Las Magistradas y los Magistrados, las Juezas y Jueces, rendirán la protesta constitucional ante el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 141.
+
+Las secretarias, los secretarios y las personas empleadas de los Plenos del Tribunal Superior de Justicia, del Órgano de Administración Judicial y del Tribunal de Disciplina Judicial rendirán la protesta de Ley ante la persona titular de la Presidencia del Pleno del Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 142.
+
+Las secretarias, los secretarios, asistentes y personas empleadas del Tribunal Superior de Justicia y de los juzgados protestarán ante la o el Magistrado o la o el Juez al que se le deban estar adscritos.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 143.
+
+La protesta a que se refiere este capítulo se prestará en los términos siguientes:
+
+¿Protestan desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se les haya conferido; guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado Libre y Soberano de Tlaxcala; y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión? El o la interesada responderá: Sí protesto. La autoridad que tome la protesta añadirá: Si no lo hicieren así, el Estado y la Nación se los demande.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Tercero. De las Vacaciones y Días Inhábiles
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 144.
+
+Las y los servidores públicos y personas empleadas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial, disfrutarán de dos periodos vacacionales al año entre los periodos de sesiones a que se refiere esta Ley.
+
+Las y los funcionarios designados para cubrir los recesos disfrutarán de las correspondientes vacaciones dentro de los dos primeros meses siguientes al del periodo inmediato de sesiones.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 145.
+
+Las y los Magistrados y las y los Jueces disfrutarán anualmente de dos periodos vacacionales de quince días cada uno, en los periodos que fije el Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 146.
+
+Durante los periodos vacacionales a que se refiere el artículo anterior, el Órgano de Administración Judicial nombrará a las personas que deban sustituir a las y los Magistrados o las y los Jueces, se estará a lo previsto en la presente Ley con relación al régimen de sustituciones.
+
+Los actos de las y los servidores públicos sustitutos en el Tribunal Superior de Justicia y de los juzgados, serán autorizados por otro secretario o secretaria si lo hubiere, y en su defecto, por la o el diligenciario respectivo o por testigos de asistencia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 147.
+
+Las y los Magistrados y las y los Jueces otorgarán a las y los secretarios, secretarias, diligenciarias, diligenciarios y demás personas empleadas, dos periodos de vacaciones durante el año, que no excederán de quince días cada uno, procurándose que no sean concedidas simultáneamente a todos los empleados de la misma oficina.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 148.
+
+En los órganos del Poder Judicial del Estado, se considerarán como días inhábiles los sábados y domingos, el 1° de enero, 5 de febrero, 21 de marzo, 1° de mayo, 14 y 16 de septiembre y 20 de noviembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Cuarto. De las Licencias, Ausencias y Renuncias
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 149.
+
+Toda persona servidora pública o empleada del Poder Judicial del Estado que se ausente del ejercicio de sus funciones, deberá contar con la licencia otorgada en los términos de este capítulo.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 150.
+
+Cuando la falta de una Magistrada o Magistrado del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y Jueza o Juez excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo, en términos del artículo 79 de la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 151.
+
+Las renuncias de las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, solamente procederán por causas graves; serán aprobadas por la mayoría de los miembros del Congreso del Estado o, en sus recesos, por la Comisión Permanente.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 152.
+
+Las licencias de las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, cuando no excedan de un mes, podrán ser concedidas por sus respectivos Plenos, y por el Órgano de Administración Judicial para el caso de Juezas y Jueces. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros del Congreso del Estado o, en sus recesos, por la Comisión Permanente.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 153.
+
+Para el resto de las personas trabajadoras del Poder Judicial del Estado, las licencias serán otorgadas con o sin goce de sueldo hasta por seis meses, y sin goce de sueldo cuando excedan de ese término, y comprenderán siempre el cargo y la adscripción.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 154.
+
+Cuando se hubiere otorgado una licencia mayor de seis meses, no podrá concederse otra en el transcurso de un año, y si hubiere gozado de una menor a seis meses, no podrá solicitarse otra en el transcurso de cuatro meses.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 155.
+
+Las licencias mayores a seis meses se otorgarán de manera extraordinaria y por causa del servicio público.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 156.
+
+Toda licencia deberá concederse a través de un escrito en el que se hará constar la calificación de las razones aducidas en la solicitud de la licencia respectiva.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 157.
+
+Las licencias que no excedan de treinta días de la o del secretario general de acuerdos, las y los secretarios de estudio y cuenta, las y los diligenciarios y demás personal subalterno del Pleno del Tribunal Superior de Justicia, serán concedidas por la persona titular de la Presidencia; las que excedan de ese plazo, serán concedidas por el Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 158.
+
+Las licencias a las y los secretarios, las y los secretarios proyectistas, a las y los diligenciarios y a las y los oficiales de partes de los juzgados que no excedan de seis meses, serán concedidas por la o el Juez respectivo. Las licencias que excedan de dicho plazo serán concedidas por el Órgano de Administración Judicial.
+
+Las licencias de las demás personas empleadas de los juzgados serán concedidas por la persona titular del juzgado o Tribunal al cual estén adscritos.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 159.
+
+Las licencias de las y los servidores públicos y personas empleadas no contemplados en los artículos anteriores, serán concedidas por el órgano facultado para ello en los términos de los reglamentos y acuerdos generales correspondientes y a falta de disposición expresa por quien haya conocido de su nombramiento.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 160.
+
+Cuando las ausencias temporales de la misma servidora o servidor público fueren superiores a quince días, el Órgano de Administración Judicial nombrará a la persona que deba suplirlo interinamente, de entre la lista de servidores y servidoras públicos habilitados para desempeñar funciones jurisdiccionales en los términos del artículo 68 de esta Ley y de los acuerdos generales correspondientes. Entretanto se efectúa la designación o autorización, el Secretario o Secretaria actuará en términos del precepto anterior.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+## TÍTULO DÉCIMO PRIMERO. DEL FONDO AUXILIAR PARA LA IMPARTICIÓN DE JUSTICIA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Primero. De la Constitución del Fondo
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 161.
+
+El Poder Judicial del Estado se auxiliará para el mejor desempeño de sus funciones de un fondo económico para el mejoramiento de la administración e impartición de justicia y administrar los recursos financieros que integren el mismo.
+
+En el ámbito del Poder Judicial del Estado, no podrán ser creados ni mantenerse en operación otros fondos o fideicomisos adicionales a lo dispuesto en este título.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 162.
+
+El Fondo Auxiliar para la Impartición de Justicia se constituye con:
+
+I. Fondo propio, constituido por:
+
+a) El monto de las cantidades otorgadas para obtener los beneficios de la conmutación de las sanciones y de la suspensión condicional de la condena, que se haga efectiva en los casos previstos por el Código Penal del Estado Libre y Soberano de Tlaxcala;
+
+b) Los rendimientos que se generen por las inversiones de los depósitos en dinero o valores que se efectúen ante las autoridades judiciales;
+
+c) Las multas que por cualquier causa impongan las salas del Tribunal Superior de Justicia o los jueces, a excepción de aquellas multas que sean impuestas como pena por la autoridad judicial en los supuestos previstos en el Código Penal;
+
+d) El pago de los derechos por la publicación de inserciones en el Boletín Judicial, así como de los productos por la venta de sus ejemplares y de los de la revista del Poder Judicial;
+
+e) Las donaciones o aportaciones hechas a su favor, e
+
+f) Por el pago de derechos de expedición de copias certificadas, certificaciones en general y registro de título y cédula profesional;
+
+II. Fondo ajeno, constituido por depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante las autoridades judiciales.
+
+Para los efectos de esta fracción, el Tribunal, Juzgado o cualquiera de sus órganos, que por algún motivo reciba un depósito de dinero o en valores, deberá remitirlo o integrarlo al fondo, por conducto del Órgano de Administración Judicial.
+
+Las sumas o valores que se reciban en el renglón de fondo ajeno serán reintegradas a los depositantes o beneficiarios, según proceda, mediante orden por escrito de la sala o juzgado ante el que se haya otorgado el depósito, en el término máximo de cinco días hábiles;
+
+III. El monto de los depósitos hechos a favor de terceros, cuando transcurran tres años de constituidos y previa notificación personal, no se hayan retirado por el interesado en el plazo de treinta días hábiles, y
+
+IV. Los demás que señalen las Leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 163.
+
+Los recursos con los que se integre y opere el Fondo serán diferentes de aquellos que comprenda el presupuesto anual aprobado a favor del Poder Judicial, y no afectarán las partidas que sean autorizadas mediante dicho presupuesto.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 164.
+
+El Órgano de Administración Judicial se encargará de la administración del Fondo Auxiliar para la Impartición de Justicia, el que se ejercerá bajo criterios de estricta racionalidad, disciplina fiscal, contabilidad, evaluación, información periódica, auditoría y control de gestión que dispongan las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 165.
+
+Corresponde al Órgano de Administración Judicial:
+
+I. Administrar el Fondo;
+
+II. Discutir y en su caso aprobar cada año, en el mes de enero, el Presupuesto Anual que le sea presentado por la persona titular de la Presidencia del Órgano de Administración Judicial, respecto a los egresos del Fondo;
+
+III. Supervisar y vigilar que las erogaciones efectuadas se ajusten a lo dispuesto por el Presupuesto de Egresos, para lo cual la persona titular de la Presidencia del Órgano de Administración Judicial incluirá sus resultados en el informe anual, que debe rendir conforme a la Constitución del Estado;
+
+IV. Dictar las medidas necesarias para el buen funcionamiento de la administración del Fondo;
+
+V. Designar, a propuesta de la persona titular de la Presidencia del Órgano de Administración Judicial, al Tesorero que, entre otras funciones, tendrá a su cargo la administración y control del Fondo, así como al personal subalterno;
+
+VI. Ordenar una auditoría contable anual y cuando lo estime pertinente, para conocer el estado de las finanzas del Fondo, y
+
+VII. Ejercer las facultades que le confiera la Ley en todo lo relativo al manejo del Fondo.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 166.
+
+Corresponde a la persona titular de la Presidencia del Órgano de Administración Judicial:
+
+I. Representar por sí o por persona que designe, al Fondo en todas las inversiones que se realicen, así como en los negocios jurídicos en que intervenga;
+
+II. Elaborar el proyecto de Presupuesto Anual de Egresos del Fondo y someterlo al Pleno del Órgano de Administración Judicial durante el mes de enero de cada año, para su discusión y, en su caso, aprobación;
+
+III. Invertir los fondos ajenos en adquisición de títulos, bonos o valores de renta fija, a la vista o a plazo fijo, que deberán ser nominativos y a favor del Poder Judicial, cuidando que las inversiones resulten las más productivas del mercado y que se conserve la liquidez necesaria para hacer las devoluciones que en su caso sean procedentes conforme a la Ley;
+
+IV. Vigilar y supervisar que los diversos órganos del Poder Judicial de la Entidad cumplan con todas las obligaciones que en relación con el Fondo se les impongan por esta Ley o el Reglamento;
+
+V. Ordenar, con la frecuencia que estime pertinente, la realización de auditorías contables;
+
+VI. Proponer al Pleno del Órgano de Administración Judicial los nombramientos del Tesorero que, entre otras funciones, tendrá a su cargo la administración y control del Fondo, así como al personal subalterno, y
+
+VII. Las demás facultades que sean necesarias para la adecuada organización y funcionamiento del Fondo y las que le conceda la ley.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 167.
+
+Los depósitos se harán en la cuenta bancaria del Fondo Auxiliar para la Impartición de Justicia. Para tal efecto en todas las oficinas del Poder Judicial se colocarán los avisos respectivos.
+
+En materia de suspensiones, alimentos, así como en los demás casos urgentes, el depósito podrá hacerse ante la propia autoridad judicial del conocimiento, quien bajo su estricta responsabilidad lo enterará en la Institución Bancaria correspondiente, a más tardar el día hábil siguiente, dando cuenta a la superioridad de este hecho.
+
+Tratándose de fianzas no personales, sólo se admitirán cauciones o garantías a través de pólizas expedidas por las casas afianzadoras expresamente autorizadas por el Órgano de Administración Judicial; en ningún caso admitirán consignaciones hechas a través de otra Institución distinta del Fondo.
+
+Los depósitos en consignación, cuando fueren en numerario, se harán directamente por el interesado en la cuenta bancaria del Fondo Auxiliar para la impartición de Justicia y el comprobante del mismo, se deberá exhibir en el expediente que corresponda.
+
+Para que surta sus efectos la suspensión que se otorgue bajo condición de exhibir cantidad determinada, se estará al párrafo anterior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2025)</small>
+
+### Capítulo Segundo. De la Administración, Operación y Destino
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 168.
+
+El fondo auxiliar será operado a través de la Tesorería, bajo la supervisión del Órgano de Administración Judicial, a quien se deberá rendir mensualmente un informe de sus actividades.
+
+La Controlaría ejercerá las funciones de control y vigilancia del manejo del fondo y, contará con el personal subalterno, contadores o escribientes, que designe el Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 169.
+
+El Órgano de Administración Judicial determinará la forma y términos de administración y disposición de los recursos obtenidos a través del Fondo.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 170.
+
+El Tesorero, como responsable directo del Fondo, tendrá las siguientes obligaciones:
+
+I. Elaborar el proyecto de presupuesto anual de egresos del Fondo y someterlo al Órgano de Administración Judicial durante el mes de enero de cada año, para su discusión y aprobación en su caso;
+
+II. Supervisar y vigilar que los gastos efectuados se realicen de acuerdo a lo dispuesto en el presupuesto anual de egresos del Fondo;
+
+III. Coordinar todo lo relativo al Fondo en los términos de esta Ley, su Reglamento o las directrices que reciba del Órgano de Administración Judicial;
+
+IV. Rendir informe a la persona titular de la Presidencia del Órgano de Administración Judicial mensualmente o cada vez que se le solicite sobre el estado que guarde la administración del Fondo y uno anual dentro de los primeros cinco días del mes de enero;
+
+V. Llevar la contabilidad del Fondo;
+
+VI. Vigilar con la precisión debida, que el Fondo disponga de los recursos necesarios para conservar la liquidez;
+
+VII. Asesorar en todo lo necesario a los funcionarios judiciales que, por disposición de la ley, tengan relación con el Fondo;
+
+VIII. Informar a la persona titular del Órgano de Administración Judicial de las irregularidades que advierta en todo lo relacionado al Fondo, y
+
+IX. Ejercitar las facultades que le confiera el Órgano de Administración Judicial en todo lo relativo al manejo del Fondo.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 171.
+
+Los recursos del Fondo se destinarán a:
+
+I. La capacitación, mejoramiento y especialización del personal del Poder Judicial;
+
+II. La adquisición o mantenimiento de mobiliario, equipo y tecnología necesarios para el buen funcionamiento del Poder Judicial;
+
+III. Cubrir los gastos que origine su administración;
+
+IV. Sufragar los gastos que el Órgano de Administración Judicial considere convenientes para mejorar la administración de justicia;
+
+V. La adquisición de bienes inmuebles e inversión en obra pública necesarios para el mejor desempeño de las funciones del Poder Judicial, y
+
+VI. Sufragar los gastos de los servicios y estudios técnicos que se vinculen con los conceptos a que se refieren las fracciones anteriores y, en general, las erogaciones que el Pleno del Órgano de Administración judicial estime necesarias y convenientes para la correcta administración de justicia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 172.
+
+Los recursos disponibles serán exclusivamente los provenientes del rendimiento que genere el Fondo.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+###### Artículo 173.
+
+La administración del Fondo se regirá por todas las disposiciones aplicables en esta Ley.
 
 ## TRANSITORIOS
 
@@ -4190,3 +5066,79 @@ Para efectos del cumplimiento de la dictada en el juicio de amparo indirecto rad
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 159.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala y su aplicación a partir del 1º de septiembre de 2025.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Magistradas, Magistrados, Juezas y Jueces del Tribunal Superior de Justicia, las Magistradas y Magistrados del Tribunal de Disciplina Judicial electos rendirán protesta de su encargo ante el Pleno del Congreso del Estado de Tlaxcala, el 1° de septiembre de 2025.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la toma de protesta de las Magistradas y los Magistrados del Tribunal Superior de Justicia, la Presidencia del Tribunal Superior de Justicia corresponderá a la Magistrada o Magistrado que haya obtenido la mayor cantidad de votos en el proceso electoral en el cual fueron electos.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto los miembros del Tribunal de Disciplina Judicial rindan protesta de su encargo ante el Congreso del Estado el 1° de septiembre de 2025, y hasta en tanto sea creado el Órgano de Administración Judicial y sus integrantes inicien funciones con esa misma fecha, el Consejo de la Judicatura continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor del presente decreto, la Comisión de Transición será el ente encargado de auxiliar en sus funciones al Consejo de la Judicatura para implementar un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuéstales a los distintos órganos y áreas del Poder Judicial del Estado, de acuerdo con las atribuciones señaladas en el presente Decreto.
+
+Dicha comisión estará integrada por cuatro miembros: la Magistrada presidenta del Pleno del Tribunal Superior de Justicia; el Consejero designado por la persona titular del Ejecutivo del Estado; la Consejera elegida por el Congreso del Estado; y, el Consejero decano electo por el Poder Judicial del Estado. Los acuerdos de la Comisión se aprobarán por mayoría de votos.
+
+###### ARTÍCULO SEXTO.
+
+Al Órgano de Administración Judicial se le transferirán los recursos materiales, humanos, financieros y presupuéstales del Poder Judicial, tanto del Tribunal Superior de Justicia como del Consejo de la Judicatura.
+
+En lo relativo al personal administrativo que pertenezca a la fecha al Consejo de la Judicatura y sea adscrito al Órgano de Administración Judicial sus derechos laborales serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
+
+El personal administrativo que se encuentre adscrito a la fecha al Consejo de la Judicatura que por necesidades del servicio deba incorporarse al Tribunal de Disciplina Judicial, sus derechos laborales serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Comisión de Transición deberá instruir a las áreas de tecnologías de información y comunicación del Tribunal Superior de Justicia y del Consejo de la Judicatura para que conjuntamente determinen la estrategia para (sic)
+
+(sic) unificar los sistemas del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial, procurando la homologación de los sistemas jurisdiccionales y administrativos.
+
+###### ARTÍCULO OCTAVO.
+
+Para dar cumplimiento al párrafo cuarto del artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado, de la reforma en materia de democratización de la función jurisdiccional, previo a que las áreas administrativas u órganos auxiliares del Tribunal Superior de Justicia y del Consejo de la Judicatura sometan a consideración de los Comités, Comisiones o del Pleno, cualquier acuerdo de trámite o resolución, se someterá a consideración de la Comisión de Transición a efecto de que esta última determine si es indispensable que la propuesta de acuerdo se resuelva en el periodo de transición o si el acuerdo se reserva para su posterior análisis y, en su caso, resolución por el Tribunal de Disciplina Judicial o el Órgano de Administración Judicial, según corresponda.
+
+###### ARTÍCULO NOVENO.
+
+El Tribunal Superior de Justicia y el Consejo de la Judicatura deberán garantizar la continuidad de los instrumentos jurídicos de adquisición de bienes, así como la contratación de servicios, arrendamientos, obras y servicios relacionados con las mismas, que sean estrictamente indispensables para el funcionamiento de los distintos órganos integrantes del Poder Judicial del Estado, previendo que las vigencias de los instrumentos contractuales no superen el último trimestre del año 2025, de conformidad con el presupuesto aprobado por el Congreso del Estado para el ejercicio fiscal correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+La Presidencia del Órgano de Administración Judicial que entre en funciones el 1° de septiembre de 2025, será designada mediante sesión del Pleno, de conformidad con el artículo 61 Bis del presente Decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los procedimientos disciplinarios iniciados con anterioridad a la entrada en vigor del presente Decreto, en los que se haya emitido el informe o dictamen conclusivo de la etapa de investigación, se substanciarán por el Tribunal de Disciplina Judicial, o el Órgano de Administración Judicial, según corresponda, conforme a las disposiciones vigentes en aquel momento de su emisión.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los procesos disciplinarios cuya etapa de investigación no haya concluido a la entrada en vigor del presente Decreto, se tramitarán por el Tribunal de Disciplina Judicial y sus órganos auxiliares, o en su caso por el Órgano de Administración Judicial, conforme a las disposiciones contenidas en el presente Decreto y los acuerdos generales que emita el propio Tribunal.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+En todo lo no previsto en el presente Decreto, el Pleno del Tribunal de Disciplina Judicial regulará la transición de los procesos disciplinarios de los que conoce el Consejo de la Judicatura mediante Acuerdo General.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Los Acuerdos Generales emitidos por el Consejo de la Judicatura continuarán vigentes en todo lo que no se oponga a la Constitución Pólitica del Estado Libre y Soberno (sic) de Tlaxcala y al presente Decreto hasta en tanto el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial emitan sus propios Acuerdos.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Hasta en tanto el Congreso del Estado realice la declaratoria de aplicación del Código Nacional de Procedimientos Civiles y Familiares en el Estado, se atenderá a lo dispuesto por el Código de Procedimientos Civiles para el Estado Libre y Soberano de Tlaxcala.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
