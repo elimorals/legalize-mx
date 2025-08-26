@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-entidades-paraestatales-del-estado-de-tamaulipas-89270"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2025-07-10"
+last_updated: "2025-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 30 de agosto de 2012.
 
@@ -747,8 +747,16 @@ Se instruye a la Secretaría de Finanzas, Secretaría de Administración, así c
 
 ###### ARTÍCULO SÉPTIMO.
 
-A partir de la entrada en vigor del presente Decreto, los nombramientos de Directoras o Directores Generales emitidos corresponde al de Directora o Director, lo anterior hasta en tanto se expiden los nuevos nombramientos.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2025)
 
 ###### ARTÍCULO OCTAVO.
 
 Todos los actos jurídicos celebrados antes de la entrada en vigor del presente Decreto, por los titulares de las entidades paraestatales en el ámbito de sus atribuciones, se entenderán vigentes hasta en tanto las partes acuerden lo contrario.
+
+P.O. 26 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-382 MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO NO. 66-370, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 10 DE JULIO DE 2025".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
