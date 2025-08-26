@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-06-24"
+last_updated: "2025-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -5657,7 +5657,9 @@ El Instituto Electoral de Tamaulipas efectuará los cómputos de la elección, p
 
 También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral del Estado de Tamaulipas que deberá resolver las impugnaciones a más tardar el 1 de agosto de 2025.
 
-Las personas electas como Magistradas y Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, las Juezas y los Jueces de Primera Instancia, así como las Jueces y Jueces menores tomarán protesta de su encargo ante el Congreso del Estado Libre y Soberano de Tamaulipas el 1o. de octubre de 2025.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+Las personas electas como Magistradas y Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, las Juezas y los Jueces de Primera Instancia, así como las Juezas y Jueces menores tomarán protesta de su encargo ante el Congreso del Estado Libre y Soberano de Tamaulipas el 30 de septiembre de 2025 y entrarán en funciones el día 1° de octubre de 2025.
 
 El Órgano de Administración Judicial deberá estar instalado a más tardar el 1° de octubre de 2025 y adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 15 de octubre de 2025.
 
@@ -5910,3 +5912,15 @@ P.O. 24 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-381 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CATORCE DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 66-67, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EN FECHA 18 DE NOVIEMBRE DE 2024, QUE REFORMÓ, ADICIONÓ Y DEROGÓ DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO No. 66-330, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 24 DE MAYO DE 2025, POR EL QUE SE EXPIDIÓ LA NUEVA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que reforma el Artículo Segundo Transitorio del Decreto No. 66-67, publicado en el Periódico Oficial del Estado en fecha 18 de noviembre de 2024, que reformó, adicionó y derogó diversas disposiciones de la Constitución Política del Estado de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto que reforman los Artículos Tercero y Cuarto Transitorios del Decreto No. 66-330, publicado en el Periódico Oficial del Estado en fecha 24 de mayo de 2025, por el que se expidió la nueva Ley Orgánica del Poder Judicial del Estado de Tamaulipas, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor en los términos del Artículo Primero Transitorio del Decreto No. 66-330.
