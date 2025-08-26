@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2025-07-15"
+last_updated: "2025-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -125,11 +125,19 @@ La información difundida en medios de comunicación que se dirijan al público 
 
 XV. De libre acceso a registros, archivos o bancos de datos que contengan referencias a sus datos personales en información creada, administrada o en posesión de entidades públicas o privadas, asistiéndole el derecho de requerir la actualización, rectificación, confidencialidad o supresión, si lesionan o restringen alguno de sus derechos;
 
-XVI. Decidir libremente, bajo las prescripciones y excepciones que marque la ley de la materia, sobre sus órganos, tejidos y células para destinarlos a la donación o para recibirlos en trasplante, sin fines de lucro y con el propósito de reducir la morbi-mortalidad por padecimientos susceptibles de ser corregidos mediante este procedimiento. Para tal efecto, el Estado promoverá la cultura de la donación de órganos, tejidos y células y proveerá los procedimientos necesarios para su acceso y aplicación; y,
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XVI. Decidir libremente, bajo las prescripciones y excepciones que marque la ley de la materia, sobre sus órganos, tejidos y células para destinarlos a la donación o para recibirlos en trasplante, sin fines de lucro y con el propósito de reducir la morbi-mortalidad por padecimientos susceptibles de ser corregidos mediante este procedimiento. Para tal efecto, el Estado promoverá la cultura de la donación de órganos, tejidos y células y proveerá los procedimientos necesarios para su acceso y aplicación;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
 XVII. Son derechos de los ciudadanos guerrerenses: acceder, en condiciones de igualdad, a los empleos, cargos o comisiones públicos, en los términos que disponga la ley del servicio civil de carrera; a los cargos de elección popular representativa y los de participación ciudadana.
 
-Tratándose de cargos de elección popular, el derecho de solicitar el registro de candidatos ante la autoridad electoral, corresponde a los partidos políticos o a los ciudadanos como candidatos independientes, siempre que cumplan los requisitos, condiciones y términos que determine la legislación de la materia.
+Tratándose de cargos de elección popular, el derecho de solicitar el registro de candidatos ante la autoridad electoral, corresponde a los partidos políticos o a los ciudadanos como candidatos independientes, siempre que cumplan los requisitos, condiciones y términos que determine la legislación de la materia, y
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XVIII. Derecho a la búsqueda, en casos de desaparición de niñas, niños, adolescentes y mujeres, el estado implementará un operativo de búsqueda inmediata, sin que para ello medie denuncia ante el Ministerio Público.
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -871,9 +879,17 @@ IV. Emplear en su propaganda electoral, materiales que impacten negativamente al
 
 V. Realizar afiliaciones corporativas;
 
-VI. Realizar actos de proselitismo o promoción personal de cualquier índole, sin sujetarse a las disposiciones o a los tiempos que señalen las leyes de la materia; y,
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-VII. Las demás que establezcan las leyes.
+VI. Realizar actos de proselitismo o promoción personal de cualquier índole, sin sujetarse a las disposiciones o a los tiempos que señalen las leyes de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2025)</small>
+
+VII. Participar o intervenir en la elección correspondiente de las personas aspirantes a magistradas, magistrados, juezas y jueces del Poder Judicial del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE AGOSTO DE 2025)</small>
+
+VIII. Las demás que establezcan las leyes.
 
 La ley regulará las sanciones a que se harán acreedores los partidos políticos y los candidatos independientes que incumplan con las obligaciones y prohibiciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia.
 
@@ -1015,11 +1031,11 @@ Las Diputadas y los Diputados al Congreso del Estado podrán ser electos de mane
 
 #### SECCIÓN II. ESTATUTO DE LOS LEGISLADORES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 46.
 
-Para ser Diputada o Diputado al Congreso del Estado se requiere:
+Para ser diputada o diputado al Congreso del Estado se requiere:
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1037,9 +1053,9 @@ III. Ser originario del Distrito o Municipio si éste es cabecera de dos o más 
 
 IV. En caso de ser migrante, acreditar la residencia binacional, en los términos estipulados en la ley.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-No podrán ser electas Diputadas o Diputados las y los titulares de las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, los representantes populares federales, estatales o municipales; las y los Magistrados de los Tribunales Superior de Justicia, Electoral y de Justicia Administrativa del Estado de Guerrero; las y los Jueces, las y los titulares de los órganos autónomos y con autonomía técnica; así como las y los demás servidores públicos que señala la Ley Orgánica de la Administración Pública del Estado de Guerrero número 08 y las y los servidores públicos que manejen recursos públicos o ejecuten programas gubernamentales, a no ser que se separen definitivamente de sus empleos o cargos noventa días antes de la jornada electoral.
+No podrán ser electas diputadas o diputados las personas titulares de secretarías, dependencias, entidades u organismos de la administración pública federal, estatal o municipal; las personas representantes populares; magistradas, magistrados, juezas o jueces; titulares o integrantes de órganos autónomos o con autonomía técnica; así como cualquier otra persona servidora pública que maneje recursos públicos o ejecute programas gubernamentales, salvo que se separen definitivamente de su cargo al menos noventa días antes de la jornada electoral.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
@@ -1231,9 +1247,9 @@ VII. Determinar la traducción a las diversas lenguas indígenas, de esta Consti
 
 VIII. Invitar a la Gobernadora o al Gobernador a que haga uso de su derecho de voz, por sí o a través de las y los titulares de las dependencias y entidades de la administración pública, cuando se discuta una ley o se estudie un asunto concerniente a su respectivo ámbito de atribuciones;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-IX. Ratificar el nombramiento, en el ámbito de sus atribuciones, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Guerrero y de los integrantes de los órganos autónomos, de conformidad con los procedimientos estipulados en la presente Constitución;
+IX. Ratificar el nombramiento, en el ámbito de sus atribuciones, de las magistradas y magistrados del Tribunal de Justicia Administrativa del Estado de Guerrero y de las personas integrantes de los órganos autónomos, de conformidad con los procedimientos estipulados en la presente Constitución;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1275,13 +1291,17 @@ XVIII. Recibir la protesta constitucional del cargo de los titulares de los Pode
 
 XIX. Convocar a los órganos autónomos para que emitan su opinión sobre las leyes que en el ámbito de su competencia se discutan en el Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XX. Resolver a la Gobernadora o al Gobernador, a las Diputadas y Diputados, a las y los integrantes de los ayuntamientos, a las y los magistrados o magistradas y a las y los titulares de los órganos autónomos, licencia temporal para separarse de su cargo por un periodo máximo de seis meses;
+XX. Resolver sobre las licencias que soliciten la Gobernadora o Gobernador, las diputadas y diputados, las personas integrantes de los cabildos municipales, así como las personas titulares de los órganos autónomos del estado. Las licencias podrán ser temporales, con una duración máxima de seis meses, o definitivas cuando procedan, en cuyo caso se deberá observar lo dispuesto en la ley correspondiente para la designación o sustitución de la persona titular del cargo;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XXI. Resolver sobre las licencias que presenten la Gobernadora o el Gobernador, las y los Diputados, las y los integrantes de los Ayuntamientos, las y los Magistrados o magistradas y las y los titulares de los Órganos Autónomos del Estado;
+XX Bis. Otorgar o negar las licencias solicitadas por las magistradas, magistrados, juezas y jueces del Poder Judicial del Estado y del Tribunal de Justicia Administrativa del Estado de Guerrero, cuya duración sea mayor de un mes, sin exceder de un año, las cuales deberán justificarse debidamente. Podrán concederse sin goce de sueldo por la mayoría de las dos terceras partes de los miembros presentes del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XXI. Calificar las renuncias de las magistradas y magistrados del Poder Judicial del Estado y del Tribunal de Justicia Administrativa. Solamente procederán por causas graves y serán aprobadas por las dos terceras partes de los miembros presentes del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
@@ -1391,17 +1411,33 @@ XLI. Cambiar la residencia de los Poderes del Estado;
 
 XLII. Autorizar al Gobernador o a la Gobernadora con el voto de las dos terceras partes del total de sus integrantes, para enajenar, donar o permutar bienes inmuebles de propiedad estatal, en los términos que fije la Ley;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XLIII. Conceder la ciudadanía honoraria a los vecinos de otros Estados que por sus méritos se hagan acreedores a ella; otorgar premios o recompensas a los que hayan prestado servicios de importancia a la humanidad, al país o al Estado, y establecer distinciones a quienes hayan brindado servicios eminentes al Estado de Guerrero; y,
+XLIII. Conceder la ciudadanía honoraria a las personas vecinas de otros estados que por sus méritos se hagan acreedoras a ella; otorgar premios o recompensas a los que hayan prestado servicios de importancia a la humanidad, al país o al estado, y establecer distinciones a quienes hayan brindado servicios eminentes al estado de Guerrero;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XLIV. Designar, por el voto de las dos terceras partes de sus integrantes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del presupuesto de egresos del Estado; y
+XLIV. Designar, por el voto de las dos terceras partes de sus integrantes, a las personas titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del presupuesto de egresos del estado;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2025)</small>
 
-XLV. Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, ésta Constitución y las que sean necesarias para hacer efectivas sus atribuciones;
+XLV. Nombrar por el voto de las dos terceras partes de los miembros presentes, a una persona integrante del Órgano de Administración Judicial;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XLVI. Emitir la convocatoria para la integración del listado de aspirantes a los cargos de magistradas, magistrados, juezas y jueces del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XLVII. Integrar su Comité de Evaluación para el Proceso de Selección de Personas Candidatas a los Cargos de Magistradas, Magistrados, Juezas y Jueces del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XLVIII. Recibir las postulaciones de personas aspirantes a los cargos de magistradas, magistrados, juezas y jueces, integrados por el Poder Ejecutivo y el Poder Judicial del Estado e incorporar las del Poder Legislativo, así como a las personas que se encuentren en funciones en los cargos sujetos a elección, que no hayan declinado o sean postuladas para otro cargo, y remitirlas al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE AGOSTO DE 2025)</small>
+
+XLXIX. (Sic) Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las que sean necesarias para hacer efectivas sus atribuciones.
 
 > <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
@@ -1661,15 +1697,15 @@ II. Haber nacido en el Estado o tener residencia efectiva en él, no menor a cin
 
 III. Tener treinta años de edad cumplidos al día de la elección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 76.
 
-Están impedidos para ser Gobernadora o Gobernador del Estado, a menos que se separen definitivamente de su empleo, cargo o comisión, noventa días antes del día de la elección; en caso de elección extraordinaria, cinco días antes de publicada la convocatoria:
+Están impedidos para ser Gobernadora o Gobernador del estado, a menos que se separen definitivamente de su empleo, cargo o comisión, noventa días antes del día de la elección; en caso de elección extraordinaria, cinco días antes de publicada la convocatoria:
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-I. Los Magistrados de los Tribunales Superior de Justicia y de Justicia Administrativa del Estado de Guerrero;
+I. Las magistradas y magistrados del Poder Judicial del Estado, del Tribunal de Justicia Administrativa del Estado de Guerrero, del Órgano de Administración Judicial y del Tribunal Electoral;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1997,9 +2033,9 @@ XXXVII. Proporcionar al Poder Judicial y, en general, a los órganos que adminis
 
 XXXVIII. Procurar que el presupuesto asignado anualmente a la administración de justicia, procuración de justicia, seguridad pública, tránsito, justicia administrativa y reinserción social, sea el suficiente para la debida prestación del servicio;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XXXIX. Nombrar a los Magistrados del Tribunal Superior de Justicia del Estado, al Consejero para integrar el Consejo de la Judicatura del Estado, así como a los Magistrados del Tribunal de Justicia Administrativa del Estado de Guerrero, en los términos que establece esta Constitución;
+XXXIX. Nombrar a las magistradas y magistrados del Tribunal de Justicia Administrativa del Estado de Guerrero, en los términos que establece esta Constitución;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2021,13 +2057,25 @@ XLIII. Conceder o negar licencias con goce de sueldo a los servidores públicos 
 
 XLIV. Celebrar convenios con la Federación, con los Ayuntamientos y con otros Estados de la República, para la realización de obras, la prestación de servicios públicos o cualquier otro propósito de beneficio colectivo;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XLV. Conceder el indulto a los reos sentenciados por los Tribunales del Estado, conforme a la ley; y,
+XLV. Conceder el indulto a los reos sentenciados por los Tribunales del Estado, conforme a la ley;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2025)</small>
 
-XLVI. Las demás que se deriven de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen.
+XLVI. Nombrar una persona integrante del Órgano de Administración Judicial;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XLVII. Integrar su Comité de Evaluación para el Proceso de Selección de Personas Candidatas a los Cargos de Magistradas, Magistrados, Juezas y Jueces del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+XLVIII. Postular en términos de la Constitución y la ley, a las personas que participen en la elección de quienes integrarán el Poder Judicial del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE AGOSTO DE 2025)</small>
+
+XLIX. Las demás que se deriven de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2037,99 +2085,19 @@ XLVI. Las demás que se deriven de la Constitución Política de los Estados Uni
 
 #### SECCIÓN I. FINES Y ORGANIZACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 92.
 
-El Poder Judicial del Estado garantizará el derecho a una efectiva impartición de justicia en materia civil, familiar, laboral, penal y penal para adolescentes por medio de magistrados y jueces independientes, imparciales, especializados y profesionales, sometidos a lo dispuesto en esta Constitución y en las leyes.
+El Poder Judicial del Estado garantizará el derecho a una efectiva impartición de justicia en materia civil, familiar, laboral, penal y penal para adolescentes por medio de magistradas, magistrados, juezas y jueces elegidos de manera libre, directa y secreta por la ciudadanía; independientes, imparciales, especializados, profesionales, quienes deberán actuar bajo los principios de interculturalidad, transparencia, equidad, igualdad y justicia social en el ejercicio de sus funciones, conforme a lo dispuesto en esta Constitución y en las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+Para el ejercicio de sus atribuciones, el Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en los juzgados, en el Tribunal de Disciplina Judicial, en el Órgano de Administración Judicial y los demás que señale su Ley Orgánica.
 
-1. Para el ejercicio de sus atribuciones, el Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia y de Paz, así como en los demás que señale su Ley Orgánica.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-2. El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación; y se atenderá a lo siguiente:
-
-I. Tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
-
-II. Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
-
-III. Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo;
-
-IV. El juicio se celebrará ante un juez que no haya conocido del caso previamente. La presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral;
-
-V. La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;
-
-VI. Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establece esta Constitución;
-
-VII. Una vez iniciado el proceso penal, siempre y cuando no exista oposición del inculpado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al inculpado cuando acepte su responsabilidad;
-
-VIII. El Juez sólo condenará cuando exista convicción de la culpabilidad del procesado;
-
-IX. Cualquier prueba obtenida con violación de derechos fundamentales será nula; y,
-
-X. Los principios previstos en este artículo, se observarán también en las audiencias preliminares al juicio.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-3. Toda persona imputada gozará de los siguientes derechos:
-
-I. A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el Juez de la causa;
-
-II. A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida sin la asistencia del defensor carecerá de todo valor probatorio;
-
-III. A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, los hechos que se le imputan y los derechos que le asisten;
-
-IV. La ley establecerá beneficios a favor del inculpado, procesado o sentenciado que preste ayuda eficaz para la investigación y persecución de delitos;
-
-V. Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
-
-VI. Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad nacional, seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos o cuando el tribunal estime que existen razones fundadas para justificarlo;
-
-VII. Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso;
-
-VIII. El imputado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante Juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
-
-IX. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
-
-X. Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el Juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera;
-
-XI. En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo;
-
-XII. La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del imputado. Si cumplido este término no se ha pronunciado sentencia, el imputado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares; y,
-
-XIII. En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-4. La víctima, o en su caso, el ofendido, gozarán de los siguientes derechos:
-
-I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
-
-II. Coadyuvar con el Ministerio Público a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso; a que se desahoguen las diligencias correspondientes; y, a intervenir en el juicio e interponer los recursos en los términos que prevea la ley;
-
-III. Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
-
-IV. Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
-
-V. Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo que la víctima u ofendido lo pueda solicitar directamente. El juez no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria;
-
-VI. La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
-
-VII. Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad, cuando se trate de delitos de violación, trata de personas; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa;
-
-VIII. El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas (sic) los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
-
-IX. Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos; y,
-
-X. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 93.
 
-La administración, vigilancia, disciplina y profesionalización de los servidores públicos del Poder Judicial estará a cargo del Consejo de la Judicatura.
+La administración del Poder Judicial del Estado estará a cargo del Órgano de Administración Judicial, y la disciplina de sus servidoras y servidores públicos corresponderá al Tribunal de Disciplina Judicial.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2137,151 +2105,139 @@ La administración, vigilancia, disciplina y profesionalización de los servidor
 
 El Poder Judicial contará con un presupuesto suficiente que en ningún caso será menor al ejercido el año anterior.
 
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
+
 La Ley Orgánica del Poder Judicial regulará lo relativo a la integración, organización, funcionamiento, adscripción y ámbito competencial de sus órganos.
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 #### SECCIÓN II. ESTATUTO JURÍDICO DE MAGISTRADOS Y JUECES
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 95.
 
-Esta Constitución, la Ley Orgánica del Poder Judicial del Estado, las normas reglamentarias y acuerdos expedidos por el Tribunal Superior de Justicia y el Consejo de la Judicatura garantizarán la independencia, imparcialidad, especialización y profesionalismo de los Magistrados y Jueces que ejercen la función judicial del Estado.
+Esta Constitución, la Ley Orgánica del Poder Judicial del Estado, las normas reglamentarias y acuerdos expedidos por el Tribunal Superior de Justicia, el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial garantizarán la independencia, imparcialidad, especialización y profesionalismo de las magistradas, magistrados, juezas y jueces, así como su compromiso con los principios de interculturalidad, transparencia, equidad, igualdad y justicia social en el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 96.
 
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+Para ser magistrada o magistrado del Poder Judicial del Estado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadana o ciudadano mexicano por nacimiento, en ejercicio de sus derechos civiles y políticos;
 
-II. Tener cuando menos 35 años cumplidos al día de la designación;
+II. Poseer el día de la publicación de la convocatoria a que se refiere la fracción I del artículo 97 de esta Constitución, título profesional de licenciatura en derecho expedido legalmente, con un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado, y práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica afín a su candidatura;
 
-III. Poseer al día de la designación título y cédula profesionales de licenciado en derecho, con antigüedad mínima de diez años, expedidos por autoridad o institución legalmente facultada para ello;
+III. Gozar de buena reputación, no haber sido condenada o condenado por delito doloso con sanción privativa de libertad, ni estar inhabilitado para el desempeño de cargos públicos;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+IV. Haber residido en el estado durante los dos años anteriores al día de la publicación de la convocatoria;
 
-IV. Gozar de buena reputación, no haber sido condenado por delito doloso ni estar inhabilitado para el desempeño de cargos públicos;
+V. No ser ministra o ministro de algún culto religioso;
 
-V. Haber residido en el Estado durante los dos años anteriores al día de la designación;
+VI. No haber sido secretaria o secretario de despacho, fiscal general del estado, senadora o senador, diputada o diputado federal o local, ni titular del Poder Ejecutivo de alguna entidad federativa, durante el año previo a la emisión de la convocatoria;
 
-VI. No ser ministro de algún culto religioso; y,
+VII. Presentar un ensayo de tres cuartillas que justifique los motivos de su postulación, y
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+VIII. Presentar cinco cartas de referencia expedidas por vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo.
 
-VII. No haber sido secretario de despacho del Ejecutivo, Fiscal General o diputado local, un año previo al día de su nombramiento.
+Las juezas y los jueces deberán satisfacer los mismos requisitos.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+Los requisitos que deban reunir las demás personas que aspiren a ser servidoras y servidores públicos judiciales y la forma de ingreso para el desempeño de sus funciones, se establecerán en la Ley Orgánica del Poder Judicial del Estado.
 
-1. Los Jueces de Primera Instancia deberán satisfacer los mismos requisitos que se exigen para ser Magistrado, exceptuando el de la edad, que será de treinta años, y el de la antigüedad en el título y cédula profesionales, que será de, al menos, cinco años; y
-
-2. La Ley Orgánica del Poder Judicial del Estado determinará los requisitos que deban reunir los demás servidores públicos judiciales y la forma de ingreso para el desempeño de sus funciones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 97.
 
-Los nombramientos de las y los Magistrados o Magistradas, Juezas y Jueces integrantes del Poder Judicial, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en el esquema de la carrera judicial o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+Las magistradas y magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como las juezas y jueces que integran el Poder Judicial del Estado, serán elegidos de manera libre, directa y secreta por la ciudadanía el día de las elecciones ordinarias locales del año respectivo. La elección de magistradas y magistrados se llevará a cabo a nivel estatal, mientras que la de juezas y jueces se realizará a nivel estatal o por distrito judicial conforme a las leyes de la materia, en términos de lo siguiente:
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+I. El Órgano de Administración Judicial deberá informar al Congreso del Estado, de manera previa a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, los cargos sujetos a elección, la especialización por materia y demás información que considere necesaria;
 
-1.- Las Magistradas y los Magistrados serán nombrados por la Gobernadora o Gobernador del Estado;
+II. El Congreso del Estado deberá publicar la convocatoria para la integración del listado de aspirantes a los cargos de magistradas, magistrados, juezas y jueces del Poder Judicial del Estado, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del proceso, sus fechas y plazos improrrogables y los cargos a elegir;
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+III. En términos de la convocatoria, los Poderes del Estado postularán su propio listado de personas candidatas, conforme a lo dispuesto en el presente apartado. Para la evaluación y selección de dichas postulaciones se deberán observar los criterios siguientes:
 
-2. El Congreso del Estado ratificará los nombramientos de los Magistrados por el voto de las dos terceras partes del total de sus integrantes, previa comparecencia de las personas propuestas;
+a) Establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles, observando la paridad de género, que permitan la participación de las personas interesadas que acrediten los requisitos establecidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en las leyes respectivas;
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+b) Integrarán su propio Comité de Evaluación conformado por cinco personas destacadas en la actividad jurídica. Cada comité tendrá las responsabilidades siguientes:
 
-3. En los recesos del Congreso, la Comisión Permanente deberá convocar a sesión extraordinaria del Pleno, para efectos de la designación que corresponda;
+1. Recibir los expedientes de las personas aspirantes;
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+2. Verificar el cumplimiento de los requisitos constitucionales y legales, y
 
-4. En aquellos casos en que la propuesta sea rechazada o no alcance la votación requerida, se notificará a la Gobernadora o Gobernador del Estado para que envíe una nueva propuesta dentro de los diez días siguientes;
+3. Analizar la documentación recibida y seleccionar a las personas mejor evaluadas, que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo, y se hayan distinguido por su honestidad y buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la labor jurídica.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+4. Realizar la evaluación y selección de las personas aspirantes mediante un sistema homologado de calificación basado en un tabulador de puntos y porcentajes, conforme a lo establecido en la ley.
 
-5. La resolución del Congreso que ratifique o rechace un nombramiento deberá fundarse, motivarse y emitirse en un término improrrogable de cuarenta y cinco días contados a partir de la recepción de la propuesta; y,
+c) Cada Comité de Evaluación integrará un listado con las dos personas mejor evaluadas que hayan obtenido las calificaciones más altas para cada cargo de magistrada, magistrado, jueza y juez, garantizando el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+En caso de empate entre las personas aspirantes que hayan obtenido las calificaciones más altas, el listado correspondiente a cada poder se conformará mediante insaculación pública.
 
-6. La ley garantizará que en el nombramiento de Magistrados y Jueces se respete el principio de equidad de género.
+d) Los Comités de Evaluación remitirán los listados a la autoridad correspondiente de cada poder del estado para su aprobación. El Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo mediante votación calificada de las dos terceras partes de las y los integrantes del Pleno presentes, y el Poder Judicial del Estado a través del Pleno del Tribunal Superior de Justicia, con la votación calificada de las dos terceras partes de sus integrantes presentes. Posteriormente serán presentados ante el Congreso del Estado a más tardar en la primera semana del mes de febrero del año de la elección, y
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+e) Las personas aspirantes podrán ser postuladas simultáneamente por uno o más poderes del estado, siempre que aspiren al mismo cargo. Los poderes del estado que no remitan su listado de candidaturas en el término establecido en el plazo previsto en esta Constitución, no podrán hacerlo posteriormente.
+
+IV. El Congreso del Estado recibirá las postulaciones y remitirá al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, los listados que distinguirán a la autoridad postulante e incorporará a los mismos a las personas que se encuentren en funciones en los cargos a renovar que deseen participar en la elección, a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo;
+
+V. El Congreso del Estado incorporará a los listados que remita al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero a las personas que se encuentren en funciones en los cargos de magistradas, magistrados, juezas y jueces sujetos a elección al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso;
+
+VI. El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos por cargo, acatando las disposiciones de esta Constitución, la ley y los lineamientos que al efecto se emitan;
+
+VII. La asignación de los cargos electos se realizará por materia de especialización;
+
+VIII. El órgano jurisdiccional electoral competente resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas electas rendirán protesta de su encargo ante el órgano legislativo;
+
+IX. El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero estará facultado para emitir los acuerdos generales o lineamientos que resulten necesarios para dar cumplimiento a lo dispuesto en el presente artículo;
+
+X. La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero celebre en los primeros siete días del mes de septiembre del año anterior a la elección;
+
+XI. La ley determinará la forma en que las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria. Podrán, además, participar en foros de debate organizados por el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad;
+
+XII. Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna. Las personas postuladas no podrán participar en actos de campañas políticas partidistas;
+
+XIII. La duración de las campañas para la elección de magistradas, magistrados, juezas y jueces será de cuarenta y cinco días, debiendo concluir tres días antes de la jornada electoral; en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas postuladas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales, y
+
+XIV. Las boletas electorales contendrán, entre otros datos, el cargo, la especialización por materia, tipo de elección, nombres completos numerados de las personas postuladas distribuidas por orden alfabético y progresivo, iniciando por el apellido paterno.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 98.
 
-Los Magistrados deberán rendir la protesta constitucional de su encargo ante el Pleno del Congreso del Estado; los Jueces, ante el Pleno del Tribunal Superior de justicia.
+Las magistradas, magistrados, juezas y jueces rendirán la protesta de ley ante el Congreso del Estado, el primero de septiembre del año correspondiente a la elección. Durarán en su encargo nueve años, contados a partir de esa fecha.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+Las magistradas y magistrados podrán ser reelectos por única ocasión para un segundo período igual e improrrogable.
+
+Las juezas y jueces podrán ser reelectos de manera consecutiva al concluir cada período, en los términos que establezca la Constitución y la ley.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 99.
 
-Los Magistrados durarán en su encargo 7 años contados a partir de la fecha de que rindan protesta de ley, y podrán ser ratificados para un segundo periodo de 8 años improrrogables.
+Las magistradas y magistrados no podrán ser removidos de su encargo durante el periodo de su designación, salvo por causas graves estipuladas en la presente Constitución y en su Ley Orgánica, previa audiencia de la persona servidora pública, conforme a los procedimientos previstos en el Título Décimo Tercero de esta Constitución.
 
-1. Los Magistrados para ser ratificados deberán ser evaluados conforme a los procedimientos establecidos en la ley orgánica, observando, en todo momento, los principios de legalidad y objetividad.
+Para el adecuado ejercicio de su función, deberán observar las disposiciones siguientes:
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+I. Percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida en los presupuestos correspondientes para las personas titulares de los poderes ejecutivos federal y estatal, y no será disminuida durante su encargo;
 
-2. Los Jueces serán nombrados por seis años por el Pleno del Tribunal Superior de Justicia y podrán ser ratificados por éste, previa evaluación de su desempeño por el Consejo de la Judicatura; una vez ratificados, sólo serán removidos por las causas establecidas en esta Constitución y en la Ley Orgánica del Poder Judicial del Estado;
+II. No podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, en las entidades federativas o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. Así mismo no podrán actuar como patronas, patronos, abogadas, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, dentro de los dos años siguientes a la fecha de conclusión de su encargo, salvo en causa propia, ni ocupar los cargos señalados en la fracción VI del artículo 96 de esta Constitución durante dicho plazo. Para el caso de las Juezas y Jueces este impedimento será aplicable únicamente dentro de los distritos judiciales en los que hayan estado adscritas o adscritos durante los dos años previos a la conclusión de su encargo, en los términos que establezca la ley;
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+III. La Ley Orgánica del Poder Judicial del Estado regulará las causas y las modalidades por las que procederá la excusa o recusación de las magistradas, magistrados, juezas y jueces en el conocimiento de los asuntos de su competencia, y
 
-3. Procederá el retiro forzoso e improrrogable de magistrados y jueces al momento de cumplir setenta años, o cuando tengan un padecimiento que los incapacite para el desempeño de su función. La Ley Orgánica del Poder Judicial del Estado establecerá los supuestos en que procede el retiro voluntario; y
+IV. Las magistradas, magistrados, juezas y jueces no podrán ser perseguidos o reconvenidos por las opiniones emitidas en el ejercicio de su función, ni por el sentido de sus votos o resoluciones.
 
-4. En caso de retiro forzoso o voluntario, enfermedad o vejez, los Magistrados y Jueces tendrán derecho a un haber de retiro por los servicios prestados al Estado, en los términos que disponga la ley orgánica.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 100.
 
-Las Magistradas y los Magistrados no podrán ser removidos de su encargo durante el periodo de su designación, salvo por causas graves estipuladas en la presente Constitución, en la Ley Orgánica del Poder Judicial del Estado y con la misma votación requerida para su nombramiento, previa audiencia del servidor público, conforme a los procedimientos previstos en el título Décimo Tercero de esta Constitución.
+Cuando la falta de una magistrada, magistrado, jueza o juez del Poder Judicial del Estado exceda de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+Las licencias para las magistradas y magistrados del Tribunal Superior de Justicia y las juezas y jueces, que no excedan de un mes, serán concedidas por el Pleno del Órgano de Administración Judicial, y por el Pleno del Tribunal de Disciplina Judicial para sus integrantes. Serán suplidas en términos de la Ley Orgánica del Poder Judicial del Estado.
 
-1. Los Magistrados y Jueces recibirán una remuneración digna y adecuada, acorde a la naturaleza de su encargo. La remuneración podrá ser aumentada justificadamente, pero no procederá su disminución durante el periodo para el que fueron designados;
+Las licencias que excedan de ese tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de las dos terceras partes de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-2. Los Magistrados y Jueces están impedidos para desempeñar empleo, cargo o comisión que sean ajenos a la función jurisdiccional. Quedan exceptuadas las actividades docentes y los cargos honoríficos en asociaciones científicas, culturales o de beneficencia, las cuales se prestarán siempre a título gratuito e implican la no recepción de estímulos o cualesquier otra denominación que se les dé, y siempre que no comprometan la independencia o su desempeño profesional;
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-3. La Ley Orgánica del Poder Judicial del Estado regulará las causas y las modalidades por las que procederá la excusa o recusación de los Magistrados y Jueces en el conocimiento de los asuntos de su competencia;
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-4. Las ausencias temporales de los Magistrados y Jueces serán suplidas por los funcionarios judiciales que determine la Ley Orgánica del Poder Judicial del Estado;
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
-
-5. En caso de ausencia definitiva de una Magistrada o un Magistrado, la o el Presidente del Tribunal Superior de Justicia del Estado, notificará a la Gobernadora o Gobernador del Estado para que se instaure el proceso de nombramiento de una nueva o un nuevo Magistrado.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-6. Ante la ausencia definitiva de un Juez, el Pleno del Consejo de la Judicatura hará una nueva propuesta en los términos de esta Constitución y de la Ley Orgánica del Poder Judicial del Estado;
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-7. Los Magistrados y Jueces no podrán ser perseguidos o reconvenidos por las opiniones emitidas en el ejercicio de su función, ni por el sentido de sus votos o resoluciones;
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-8. Los Magistrados y Jueces gozan de inmunidad constitucional, que podrá ser confirmada o suspendida mediante declaración de procedencia del Congreso del Estado y conforme a las previsiones de la presente Constitución;
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-9. Los Magistrados y Jueces son sujetos a responsabilidad política, penal, administrativa y civil, en los términos del título Décimo Tercero de la presente Constitución y de las demás leyes aplicables; y,
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-10. Los Jueces, en caso de infracciones y faltas, quedarán sujetos a los procedimientos sustanciados ante el Consejo de la Judicatura del Estado y conforme lo determine la Ley Orgánica del Poder Judicial del Estado.
-
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2025)</small>
-
-11. Las personas que hayan ocupado el cargo de Magistrado, Consejero de la Judicatura o Jueces del Poder Judicial del Estado, no podrán ejercer la abogacía ante los órganos jurisdiccionales de dicho Poder Judicial, dentro de los dos años siguientes de la conclusión de su cargo.
+Las magistradas y magistrados solo podrán renunciar a su encargo por causas graves; y serán aprobadas en términos de la fracción XXI del artículo 61 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2293,49 +2249,31 @@ APARTADO I
 
 INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 101.
 
-El Tribunal Superior de Justicia se integrará con el número de magistrados que establezca la Ley Orgánica del Poder Judicial del Estado, el cual estará en función de las Salas necesarias para una pronta y efectiva impartición de justicia.
+El Tribunal Superior de Justicia se integrará con el número de magistradas y magistrados que establezca la Ley Orgánica del Poder Judicial del Estado, el cual estará en función de las Salas necesarias para una pronta y efectiva impartición de justicia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 102.
 
 El Tribunal Superior de Justicia funcionará en Pleno y en Salas, de conformidad con las atribuciones estipuladas en esta Constitución y en la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+El Pleno se integrará con las magistradas y magistrados del Tribunal Superior de Justicia.
 
-1. El Pleno se integrará con todos los Magistrados del Tribunal Superior de Justicia;
+Las salas serán colegiadas y unitarias. Las colegiadas se integrarán con tres magistradas o magistrados cada una, de las cuales una ocupará la presidencia en términos de la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
-
-2. El Consejo de la Judicatura determinará el número, división en distritos, competencia territorial y especialización por materias, de Salas y Juzgados; y
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-3. Las salas serán colegiadas y unitarias. Las colegiadas se integrarán con tres Magistrados cada una, uno de los cuales será su Presidente.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 103.
 
-El Tribunal Superior de Justicia será Presidido por un Magistrado, que no integrará Sala.
+El Tribunal Superior de Justicia será presidido por una magistrada o magistrado, que no integrará Sala.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2025)</small>
+La presidencia se renovará cada dos años en el mes de septiembre del año correspondiente, de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación, garantizando la paridad de género y no podrá ser reelecta para el periodo inmediato siguiente.
 
-1. El Magistrado Presidente será electo por el Pleno, en la primera sesión de noviembre, cada tres años y podrá ser reelecto por una sola ocasión; debiendo recaer dicho cargo, entre los magistrados que tengan cuando menos un año de ejercicio en la función jurisdiccional.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
-
-2. En sus faltas temporales no mayores a sesenta días, el Magistrado Presidente será sustituido por el Magistrado de mayor antigüedad en el Pleno. Si la falta excede ese término, el Pleno designará un Presidente interino; y
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
-
-3. En diciembre de cada año el Magistrado Presidente deberá presentar un informe ante el Pleno del Tribunal Superior de Justicia del Estado y ante el Pleno del Consejo de la Judicatura, remitiendo copia al titular del Poder Ejecutivo y al representante del Poder Legislativo, sobre la situación que guarda la impartición de justicia en la Entidad. En el último año del periodo correspondiente, el informe se presentará en el mes de noviembre.
-
-La ley orgánica regulará los demás aspectos estipulados en el presente artículo.
+La Ley Orgánica del Poder Judicial del Estado regulará los demás aspectos relacionados con lo dispuesto en este artículo.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2343,71 +2281,39 @@ APARTADO II
 
 ATRIBUCIONES
 
-> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 104.
 
-Son atribuciones del Tribunal Superior de Justicia del Estado:
+Son atribuciones del Tribunal Superior de Justicia:
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+I. Velar por la observancia de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen, dentro del ámbito de su competencia;
 
-I. Velar por la observancia de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen, dentro del ámbito de su competencia;
+II. Garantizar la independencia y autonomía del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+III. Interpretar y aplicar las normas que conforman el ordenamiento jurídico del estado de Guerrero y aquellas del sistema jurídico mexicano sujetas a jurisdicción concurrente, así como los Tratados y Convenios Internacionales en los que México sea parte;
 
-II. Cuidar la independencia y autonomía del Poder Judicial del Estado;
+IV. Resolver los conflictos de competencia que surjan entre las Salas del Tribunal, los juzgados de primera instancia y tribunales laborales;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+V. Emitir tesis y establecer jurisprudencia obligatoria para su cumplimiento por los poderes públicos y habitantes del estado de Guerrero;
 
-III. Interpretar y aplicar las normas que conforman el ordenamiento jurídico del Estado y aquellas del ordenamiento jurídico mexicano sujetas a jurisdicción concurrente y, en su caso, coincidente, así como los Tratados y Convenios internacionales ratificados por el Senado de la República;
+VI. Dictar acuerdos generales necesarios para la adecuada organización y funcionamiento del Tribunal Superior de Justicia en el ámbito de su competencia, en los términos de esta Constitución y la Ley Orgánica del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+VII. Mantener coordinación con el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial para el cumplimiento de sus respectivas atribuciones, para evitar duplicidades y fortalecer la eficiencia institucional;
 
-IV. Resolver los conflictos de competencia que surjan entre las Salas del Tribunal, o entre los Juzgados de Primera Instancia;
+VIII. Remitir las necesidades específicas para la operación del Tribunal Superior de Justicia al Órgano de Administración Judicial, para la elaboración del proyecto de presupuesto del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+IX. Solicitar al Órgano de Administración Judicial la concentración de facultades en uno o más órganos jurisdiccionales para conocer de asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos, cuando así lo amerite el interés social y el orden público;
 
-V. Nombrar cada tres años a su Presidente, en los términos establecidos en la Ley Orgánica del Poder Judicial del Estado;
+X. Recibir los informes de gestión del Órgano de Administración Judicial y del Tribunal de Disciplina Judicial, a fin de que sean considerados en el informe que rendirá la persona titular de la presidencia sobre el estado que guarda la impartición de justicia en la entidad;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+XI. Resolver las solicitudes de excusa o recusación presentadas contra magistradas y magistrados de las Salas del Tribunal Superior de Justicia, en los términos establecidos por la Ley Orgánica del Poder Judicial del Estado;
 
-VI. Designar, a propuesta de su Presidente, un Consejero de la Judicatura de entre los integrantes del Pleno del Tribunal Superior de Justicia, por un periodo de tres años, conforme a la facultad reconocida en esta Constitución, el cual podrá ser ratificado por única ocasión e igual periodo;
+XII. Integrar su Comité de Evaluación para el Proceso de Selección de Personas Candidatas a los Cargos de Magistradas, Magistrados, Juezas y Jueces del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+XIII. Postular en términos de la Constitución y la ley, a las personas que participarán en la elección de quienes integrarán el Poder Judicial del Estado; y,
 
-VII. Nombrar a los jueces, previa propuesta y dictamen favorable del Consejo de la Judicatura, de conformidad con lo dispuesto en la Ley Orgánica del Poder Judicial del Estado;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-VIII. Revisar, y en su caso, modificar la competencia de los órganos jurisdiccionales del Poder Judicial del Estado, de acuerdo con las necesidades de la impartición de justicia, y con la votación calificada de por lo menos las dos terceras partes de sus integrantes;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-IX. Nombrar al personal jurisdiccional y administrativo de confianza del Tribunal Superior de Justicia;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-X. Emitir tesis y establecer jurisprudencia obligatoria para su cumplimiento por los poderes públicos y habitantes del Estado;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-XI. Establecer políticas anuales para que la impartición de justicia se realice de conformidad con los principios de eficiencia, eficacia, prontitud, expedites, completitud, gratuidad y máxima publicidad;
-
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
-
-XII. Formular su proyecto de presupuesto de egresos anual, integrarlo al que le presente el Consejo de la Judicatura para el resto del Poder Judicial y remitirlo a la Gobernadora o Gobernador para que lo incorpore al Presupuesto de Egresos correspondiente;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-XIII. Determinar mecanismos para garantizar la transparencia, el acceso a la información y la protección de los datos personales en el ejercicio de la función judicial;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-XIV. Aprobar o solicitar al Consejo de la Judicatura expida los reglamentos y acuerdos generales para la debida regulación de su organización, funcionamiento, administración y competencias; y
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-XV. Las demás que le confieran esta Constitución y las leyes.
+XIV. Las demás que le confieran esta Constitución y las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2893,7 +2799,9 @@ IV. Impresión de documentos y la producción de materiales electorales;
 
 V. Escrutinio y cómputos en los términos que señale la ley;
 
-VI. Declaración de validez y otorgamiento de constancias en la (sic) elecciones de ayuntamientos, de diputados locales;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+VI. Declaración de validez y otorgamiento de constancias en las elecciones de ayuntamientos, de diputaciones locales, magistraturas, juezas y jueces del Poder Judicial del Estado;
 
 VII. Cómputo de la elección del titular del Poder Ejecutivo;
 
@@ -3013,13 +2921,17 @@ X. Conocer y resolver los conflictos y diferencias laborales entre el Tribunal E
 
 XI. Emitir jurisprudencia obligatoria en la materia, en los términos de su ley orgánica;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XII. Comunicar al Congreso del Estado y al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, las resoluciones en las que declare la nulidad de una elección; y,
+XII. Comunicar al Congreso del Estado y al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, las resoluciones en las que declare la nulidad de una elección;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2025)</small>
 
-XIII. Las demás que determine la ley y su reglamento.
+XIII. Resolver las impugnaciones que se presenten en los procesos de elección de las magistradas, magistrados, juezas y jueces del Poder Judicial del Estado, en los términos de la ley de la materia, salvo aquellas organizadas por el Instituto Nacional Electoral, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE AGOSTO DE 2025)</small>
+
+XIV. Las demás que determine la ley y su reglamento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -3321,7 +3233,9 @@ I. El ejercicio de la función de fiscalización superior, competencia del Poder
 
 II. La planificación de políticas públicas para el desarrollo del Estado, competencia del Poder Ejecutivo; y,
 
-III. La administración, vigilancia y disciplina de los funcionarios judiciales y los servicios de defensoría pública, competencia del Poder Judicial.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+III. La administración, vigilancia, disciplina y profesionalización de las servidoras y servidores públicos judiciales y los servicios de defensoría pública, competencia del Poder Judicial del Estado.
 
 2. Es aplicable a los Órganos con Autonomía técnica lo dispuesto, en lo conducente, en los artículos 105, primer párrafo y numeral 2; 106, fracciones I, III y IV, 107, numerales 2 y 4; 108 y 109 de esta Constitución.
 
@@ -3331,7 +3245,9 @@ III. La administración, vigilancia y disciplina de los funcionarios judiciales 
 
 Cada Órgano con Autonomía Técnica elaborará su proyecto de presupuesto con los recursos necesarios para cumplir, adecuadamente, con su función, objetivos y metas.
 
-El proyecto de presupuesto será remitido por su titular al Poder al que estén adscritos, para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+El proyecto de presupuesto será remitido por su titular al Poder al que estén adscritos, para su inclusión en el proyecto de Presupuesto de Egresos del Estado, se excluye de esta disposición al Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
 
@@ -3339,15 +3255,15 @@ El proyecto de presupuesto será remitido por su titular al Poder al que estén 
 
 Los Órganos con Autonomía Técnica tendrán autonomía de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan esta Constitución y en las leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 146.
 
-Cada Órgano con Autonomía Técnica tendrá un titular, designado por el plazo establecido en esta Constitución, a quien corresponderá la representación legal e institucional del mismo órgano, su administración y gobierno interior.
+Cada Órgano con Autonomía Técnica tendrá una persona titular, designada por el plazo establecido en esta Constitución, a quien corresponderá la representación legal e institucional del mismo órgano, su administración y gobierno interior.
 
-1. Las leyes definirán la forma y las modalidades de la designación de los titulares, así como, las responsabilidades, los derechos y las obligaciones; y,
+La designación de las personas titulares, así como las modalidades, responsabilidades, derechos y obligaciones que les correspondan, se regularán conforme a lo establecido en esta Constitución y las leyes aplicables.
 
-2. Los titulares de los Órganos con Autonomía Técnica deberán rendir un informe anual de actividades ante el Poder al que estén adscritos orgánicamente y comparecer, cuando sea el caso, ante estos o ante el Congreso del Estado previa solicitud fundada y motivada, en los términos dispuestos en la ley.
+Las personas titulares de los Órganos con Autonomía Técnica deberán rendir un informe anual de actividades ante el Poder al que estén adscritos orgánicamente y comparecer, cuando sea el caso, ante estos o ante el Congreso del Estado previa solicitud fundada y motivada, en los términos dispuestos en la ley.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3359,11 +3275,11 @@ Cada Órgano con Autonomía Técnica tendrá un titular, designado por el plazo 
 
 Esta Constitución garantiza la objetividad, imparcialidad, especialización y el profesionalismo de los integrantes de los Órganos con Autonomía Técnica, en el marco de las leyes orgánicas y secundarias respectivas y de los reglamentos expedidos por cada uno de ellos.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 148.
 
-Para ser Auditor Superior, consejero del Consejo de Políticas Públicas, consejero del Consejo de la Judicatura o defensor general del Instituto de la Defensoría, se requiere cumplir los requisitos generales establecidos en el artículo 111 de esta Constitución, y los especiales que para cada uno se señalen.
+Para ser Auditora o Auditor Superior, Consejera o Consejero del Consejo de Políticas Públicas, Magistrada o Magistrado del Tribunal de Disciplina Judicial, Persona Integrante del Pleno del Órgano de Administración Judicial o Defensora o Defensor General del Instituto de la Defensoría, se requiere cumplir los requisitos generales establecidos en el artículo 111 de esta Constitución, y los especiales que para cada uno se señalen.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3619,143 +3535,167 @@ VIII. Promover políticas públicas encaminadas al desarrollo sustentable y equi
 
 IX. Las demás que determine la ley y su reglamento.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-### CAPÍTULO III. CONSEJO DE LA JUDICATURA
+### CAPÍTULO III. TRIBUNAL DE DISCIPLINA JUDICIAL Y ÓRGANO DE ADMINISTRACIÓN JUDICIAL
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-#### SECCIÓN I. FINES
+#### SECCIÓN I. TRIBUNAL DE DISCIPLINA JUDICIAL
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 160.
 
-La función de administrar, vigilar, disciplinar y profesionalizar al Poder Judicial del Estado de Guerrero se realizará a través de un órgano adscrito y dependiente de él, denominado Consejo de la Judicatura.
+El Tribunal de Disciplina Judicial será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones, y tiene por objeto garantizar la integridad, objetividad e imparcialidad en el desempeño de las personas servidoras públicas de dicho poder, a través de la investigación, substanciación y sanción de su actuación.
 
-1. El Consejo de la Judicatura ejercerá su función mediante:
+El Tribunal de Disciplina Judicial funcionará en pleno y comisiones, y tendrá las atribuciones siguientes:
 
-I. La selección, nombramiento, capacitación, promoción, permanencia e imposición de responsabilidades a los servidores públicos del Poder Judicial; garantizará el derecho de los ciudadanos a contar con una justicia de calidad, confiable, transparente y de excelencia; y,
+I. Actuar como instancia substanciadora en los términos que establezca la ley;
 
-II. La administración y vigilancia de los bienes muebles e inmuebles del Poder Judicial del Estado de Guerrero, procurando su adecuada utilización.
+II. Resolver en segunda instancia los asuntos de su competencia;
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+III. Ordenar investigaciones de manera oficiosa, a partir de vista o denuncia;
 
-2. Las decisiones del Consejo de la Judicatura deberán ser adoptadas por la mayoría de sus integrantes, teniendo voto de calidad el Presidente en caso de empate, y podrán ser recurridas de conformidad con los recursos establecidos en la Ley Orgánica del Poder Judicial del Estado;
+IV. Atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos;
 
-3. Los actos y decisiones del Consejo de la Judicatura respetarán el principio de independencia jurisdiccional de los Jueces; y,
+V. Dictar medidas cautelares y de apremio;
 
-4. El Consejo de la Judicatura deberá elaborar y presentar su presupuesto conjuntamente con el Tribunal Superior de Justicia del Estado de Guerrero.
+VI. Aplicar sanciones a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia;
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
+VII. Resolver los conflictos laborales entre el Poder Judicial del Estado y sus servidoras y servidores públicos;
+
+VIII. Solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal en los asuntos de su competencia, y
+
+VIII. (Sic) Las demás que le sean asignadas por disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+ARTICULO 160 BIS.- El Tribunal de Disciplina Judicial se integrará por cinco personas electas por la ciudadanía a nivel estatal conforme al procedimiento establecido en el artículo 97 de esta Constitución.
+
+Para ser elegibles, las magistradas y magistrados del Tribunal de Disciplina Judicial deberán reunir los requisitos señalados en el artículo 96 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades.
+
+Las magistradas y magistrados durarán seis años en su encargo, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo.
+
+Las magistradas y magistrados del Tribunal de Disciplina Judicial ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidas y removidos en los términos del Título Décimo Tercero de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+ARTICULO 160 TER.- La presidencia del Tribunal de Disciplina Judicial se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación, garantizando la paridad de género y no podrá ser reelecta para el periodo inmediato siguiente.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+ARTICULO 160 QUATER.- La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria, conforme a lo siguiente:
+
+I. Las medidas de fortalecimiento, comprenderán actividades de capacitación y otras acciones destinadas a reforzar los conocimientos o competencias de la persona evaluada. Al término de dichas actividades, se aplicará una nueva evaluación para determinar su idoneidad en el cargo, y
+
+II. Las sanciones por incumplimiento, cuando la persona servidora pública no acredite favorablemente la evaluación derivada de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal de Disciplina Judicial podrá imponer una suspensión de hasta un año y establecer las acciones y condiciones para su eventual restitución. Si al término de dicho periodo no acredita satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada su destitución, sin responsabilidad para el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+ARTICULO 160 QUINQUIES.- El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por tres de sus integrantes, que fungirán como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá por mayoría de al menos cuatro votos, en los términos que señale la ley; estas decisiones serán definitivas e inatacables, por lo tanto, no procederá juicio ni recurso alguno en contra de ellas.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+ARTICULO 160 SEXIES.- El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+ARTICULO 160 SEPTIES.- El Tribunal de Disciplina Judicial podrá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular ante el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+ARTICULO 160 OCTIES.- Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de magistradas y magistrados que sólo podrán ser removidos en los términos del Título Décimo Tercero de esta Constitución.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 161.
 
-El Consejo de la Judicatura se integrará con cinco consejeras o consejeros:
+El Tribunal de Disciplina Judicial evaluará el desempeño de las magistradas, magistrados, juezas y jueces durante su primer año de ejercicio.
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
 
-I. El presidente del Tribunal Superior de Justicia del Estado de Guerrero, quien también lo será del Consejo;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+#### SECCIÓN II. ÓRGANO DE ADMINISTRACIÓN JUDICIAL
 
-II. Un consejero elegido entre los Jueces de primera instancia por votación libre y directa de todos sus integrantes;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-III. Un consejero designado por el Pleno del Tribunal Superior de Justicia del Estado de entre sus magistrados, a propuesta de su Presidente;
-
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
-
-IV. Una consejera o consejero designado por la Gobernadora o Gobernador del Estado; y,
-
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
-
-V. Un consejero designado por las dos terceras partes del total de los miembros del Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-1. Durante el ejercicio de su encargo, los consejeros provenientes del Poder Judicial del Estado de Guerrero no realizarán funciones jurisdiccionales. Al término del encargo se reincorporarán a sus respectivas adscripciones;
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
-
-2. El Consejo de la Judicatura contará con los órganos, unidades administrativas y el personal necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en la Ley Orgánica del Poder Judicial del Estado y en su reglamento interior.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
-
-3. El Consejo de la Judicatura funcionará en Pleno o en comisiones, en los términos dispuestos en la Ley Orgánica del Poder Judicial del Estado; y
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
-
-4. La Ley Orgánica del Poder Judicial del Estado y el Reglamento Interior del Consejo de la Judicatura establecerán disposiciones adicionales con relación a la integración, organización, funcionamiento, procedimientos y ámbito competencial del mismo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
-
-#### SECCIÓN II. INTEGRACIÓN, NOMBRAMIENTO Y COMPETENCIAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 162.
 
-En el nombramiento de las y los consejeros que competen a la Gobernadora o Gobernador y al Congreso del Estado deberá observarse lo dispuesto en los numerales 1, 2, 3 y 4 del artículo 112 de esta Constitución.
+El Órgano de Administración Judicial contará con independencia técnica, de gestión, y para tomar sus decisiones y emitir resoluciones, conforme a las bases establecidas en esta Constitución y las leyes aplicables. Será responsable de la administración y carrera judicial del Poder Judicial del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+Al Órgano de Administración Judicial le corresponderá:
 
-1. Los consejeros, con excepción del presidente del Consejo, durarán en su cargo tres años con posibilidad de ser ratificados por única ocasión; y,
+I. Determinar el número y especialización por materia de las Salas, Juzgados y Tribunales;
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+II. Notificar la adscripción de las magistradas, magistrados, juezas y jueces el día en que rindan la protesta de ley;
 
-2. Los consejeros no representan a quien los designa. Ejercerán su función con independencia e imparcialidad.
+III. Inspeccionar el cumplimiento de las normas de funcionamiento administrativo del Poder Judicial del Estado;
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+IV. Determinar el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño;
+
+V. Adoptar las medidas necesarias para garantizar la protección y el resguardo de las personas juzgadoras cuando su integridad o seguridad se vea comprometida con motivo del ejercicio de sus funciones, conforme al procedimiento que establezca la ley.
+
+VI. Expedir acuerdos generales para el adecuado ejercicio de sus funciones, y los acuerdos generales o la ejecución de las resoluciones que en el ámbito de su competencia le solicite el Tribunal de Disciplina Judicial;
+
+VII. Elaborar el proyecto de presupuesto del Poder Judicial del Estado y remitirlo al Poder Ejecutivo para su inclusión en el proyecto de presupuesto de egresos del estado;
+
+VIII. Solicitar, cuando lo considere necesario, opinión al Pleno del Tribunal Superior de Justicia sobre la adscripción de juezas y jueces,
+
+IX. Informar al Congreso del Estado, de manera previa a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, los cargos sujetos a elección, la especialización por materia y demás información que considere necesaria, y
+
+IX. (Sic) Las demás que establezca esta Constitución y las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+ARTICULO 162 BIS.- El Pleno del Órgano de Administración Judicial se integrará por cinco personas, designadas de la manera siguiente:
+
+I. Una por el Poder Ejecutivo;
+
+II. Una por el Congreso del Estado, mediante votación calificada de dos terceras partes de sus integrantes, y
+
+III. Tres por el Pleno del Tribunal Superior de Justicia, mediante votación calificada de dos terceras partes de sus integrantes.
+
+Las personas integrantes del Pleno durarán en su encargo seis años improrrogables y serán sustituidas de manera escalonada.
+
+(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 98/2025 Y SU ACUMULADA 106/2025, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+LA PRESIDENCIA DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL SE RENOVARÁ CADA DOS AÑOS DE MANERA ROTATORIA, GARANTIZANDO LA PARIDAD DE GÉNERO. LA PERSONA TITULAR SERÁ ELECTA POR EL PLENO EN LA PRIMERA SESIÓN DE SEPTIEMBRE DEL AÑO QUE CORRESPONDA Y NO PODRÁ SER REELECTA PARA EL PERIODO INMEDIATO SIGUIENTE.
+
+La Presidencia del Órgano de Administración Judicial se renovará cada dos años de manera rotatoria, garantizando la paridad de género. La persona titular será electa mediante un procedimiento de insaculación entre sus integrantes, que se celebrará en la primera sesión de septiembre del año que corresponda. La persona electa no podrá ser reelecta para el periodo inmediato siguiente.
+
+La Ley reglamentaria establecerá las disposiciones aplicables para la implementación de esta rotación progresiva, garantizando equidad y continuidad institucional.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+ARTICULO 162 TER.- Para ser integrante del Pleno del Órgano de Administración Judicial se requiere cumplir con los requisitos siguientes:
+
+I. Ser persona mexicana por nacimiento y estar en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar con una experiencia profesional mínima de cinco años en áreas relacionadas con las actividades del Órgano de Administración Judicial;
+
+III. Poseer título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier área afín, con una antigüedad mínima de cinco años;
+
+IV. No estar inhabilitada o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+V. No haber sido condenada o condenado por delito doloso con sanción privativa de la libertad.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 163.
 
-El Consejo de la Judicatura es competente para:
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
 
-I. Proponer, previo dictamen, el nombramiento de jueces al Pleno del Tribunal Superior de Justicia;
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+ARTICULO 163 BIS.- El Órgano de Administración Judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Escuela de Formación Judicial, responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación, actualización y especialización del personal de carrera judicial y administrativo del Poder Judicial del Estado, sus órganos auxiliares y llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables
 
-II. Suspender, destituir e inhabilitar a los jueces y demás personal jurisdiccional, conforme al procedimiento establecido en la Ley Orgánica del Poder Judicial del Estado;
+La Escuela de Formación Judicial podrá prestar sus servicios a fiscalías, organismos de protección de los derechos humanos, instituciones de seguridad pública y al público en general.
 
-III. Los procedimientos de nombramiento de los Jueces deberán considerar preferentemente a los miembros provenientes del servicio judicial de carrera, atendiendo en su sustanciación a los principios de apertura, transparencia, pluralismo, acceso en condiciones de igualdad e idoneidad de los aspirantes;
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-IV. Nombrar y adscribir al personal jurisdiccional, administrativo y de confianza del Poder Judicial del Estado, con excepción del personal jurisdiccional y administrativo de confianza del Tribunal Superior de Justicia;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-V. Expedir por sí, o a solicitud del Pleno del Tribunal Superior de Justicia del Estado, acuerdos, reglamentos y demás disposiciones de carácter general para el adecuado ejercicio de sus funciones o de la función jurisdiccional;
-
-VI. Aprobar el Reglamento del Sistema de Carrera Judicial;
-
-VII. Establecer las bases de evaluación para el ingreso, formación, profesionalización, capacitación, actualización y especialización del personal jurisdiccional del Poder Judicial y de quienes aspiren a pertenecer a él;
-
-VIII. Dictar disposiciones generales para el ingreso, estímulos, capacitación, ascenso, promoción y remoción del personal administrativo del Poder Judicial del Estado de Guerrero;
-
-IX. Dictar las bases generales, políticas y lineamientos para la correcta administración y vigilancia de los bienes muebles e inmuebles del Poder Judicial del Estado de Guerrero;
-
-X. Implementar programas para la capacitación, actualización, especialización, certificación, desarrollo y profesionalización permanentes de los servidores públicos del Poder Judicial del Estado de Guerrero;
-
-XI. Establecer mecanismos de vigilancia y disciplina del personal jurisdiccional y administrativo del Poder Judicial del Estado de Guerrero, y cuidar que su actuación se apegue a los principios de excelencia, profesionalismo, objetividad, especialización e imparcialidad;
-
-XII. Imponer a los servidores públicos judiciales, previa garantía de audiencia y defensa, las sanciones que procedan conforme a la ley;
-
-XIII. Ordenar visitas e inspecciones para evaluar el desempeño del personal administrativo y jurisdiccional del Poder Judicial del Estado de Guerrero;
-
-XIV. Investigar la conducta de los servidores públicos del Poder Judicial del Estado de Guerrero, de conformidad con lo dispuesto en la ley orgánica;
-
-XV. Implementar políticas, lineamientos, instrucciones y recomendaciones en favor de la transparencia, el acceso a la información y la protección de los datos personales en el ejercicio de la función judicial;
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-XVI. Administrar, transparentar e informar lo relativo al Fondo Auxiliar para la Administración de Justicia. La Auditoría Superior del Estado de Guerrero fiscalizará lo conducente; y,
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
-
-XVII. Las demás que determine la Ley Orgánica del Poder Judicial del Estado y el Reglamento Interior del Consejo de la Judicatura.
+ARTICULO 163 TER.- El Órgano de Administración Judicial, a solicitud del Tribunal Superior de Justicia, podrá concentrar facultades en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3765,29 +3705,33 @@ XVII. Las demás que determine la Ley Orgánica del Poder Judicial del Estado y 
 
 #### SECCIÓN I. FINES E INTEGRACIÓN
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 164.
 
-La función de procurar el derecho a una defensa y asesoría integral, ininterrumpida, oportuna y especializada ante los órganos jurisdiccionales del Estado, competencia del Poder Judicial del Estado de Guerrero, se realizará a través de un órgano adscrito y dependiente del Consejo de la Judicatura, denominado Instituto de la Defensoría Pública del Estado de Guerrero.
+El Instituto de la Defensoría Pública del Estado de Guerrero es un órgano con autonomía técnica y de gestión del Poder Judicial del Estado, dependiente del Órgano de Administración Judicial. Tiene por objeto procurar el derecho a una defensa y asesoría integral, ininterrumpida, oportuna y especializada ante los órganos jurisdiccionales de dicho poder. En el ejercicio de su función, deberá observar los principios de gratuidad, probidad, independencia técnica, calidad, confidencialidad, profesionalismo y obligatoriedad.
 
-En el ejercicio de su función, el Instituto de la Defensoría Pública del Estado de Guerrero deberá observar los principios de gratuidad, probidad, independencia técnica, calidad, confidencialidad, profesionalismo y obligatoriedad.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 165.
 
-El Instituto de la Defensoría Pública del Estado de Guerrero tendrá como titular a una persona denominada Defensor General nombrado por el Consejo de la Judicatura.
-
-1. El Instituto de la Defensoría Pública del Estado de Guerrero contará con un Consejo Consultivo de carácter honorífico, nombrados en el número y competencias, conforme lo prescriba la Ley Orgánica del Poder Judicial;
-
-2. El Instituto de la Defensoría Pública del Estado de Guerrero tendrá los defensores públicos y asesores jurídicos, así como el personal jurídico y administrativo necesarios para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en la Ley Orgánica del Poder Judicial, en el Estatuto y en su Reglamento Interior del Instituto.
+El Instituto de la Defensoría Pública del Estado de Guerrero estará a cargo de una persona denominada Defensora o Defensor General, nombrado por el Órgano de Administración Judicial.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
+1. El Instituto de la Defensoría Pública del Estado de Guerrero contará con un Consejo Consultivo de carácter honorífico, nombrados en el número y competencias, conforme lo prescriba la Ley Orgánica del Poder Judicial;
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
+2. El Instituto de la Defensoría Pública del Estado de Guerrero tendrá las defensoras y defensores públicos, asesoras y asesores jurídicos, así como el personal jurídico y administrativo necesarios para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en la Ley Orgánica del Poder Judicial del Estado, en el Estatuto y en el Reglamento Interior del Instituto.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+
 ###### ARTICULO 166.
 
-La selección, nombramiento, adscripción, capacitación, promoción, permanencia, prestaciones, estímulos y responsabilidades de los defensores públicos y asesores jurídicos estarán a cargo del Consejo de la Judicatura; asimismo lo relativo a la creación, gestión y supervisión del servicio civil de carrera.
+La selección, nombramiento, adscripción, capacitación, promoción, permanencia, prestaciones y estímulos de las personas defensoras públicas, asesoras jurídicas y demás personal adscrito al Instituto de la Defensoría Pública del Estado de Guerrero estarán a cargo del Órgano de Administración Judicial, quien también será responsable de la creación, gestión y supervisión del servicio civil de carrera correspondiente.
+
+La responsabilidad administrativa de las personas defensoras públicas, asesoras jurídicas y demás personal adscrito al Instituto de la Defensoría Pública del Estado de Guerrero, será competencia del Tribunal de Disciplina Judicial, en los términos que establezcan esta Constitución y las leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3801,21 +3745,21 @@ La ley y su reglamento interior establecerán disposiciones adicionales con rela
 
 #### SECCIÓN II. NOMBRAMIENTO
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 168.
 
-Para el nombramiento del Defensor General, el presidente del Consejo de la Judicatura presentará al Pleno una terna de licenciados en derecho, de reconocida capacidad, ética y profesionalismo.
+Para el nombramiento de la Defensora o Defensor General, la presidencia del Órgano de Administración Judicial presentará al Pleno de dicho cuerpo colegiado una terna de personas con licenciatura en derecho, de reconocida capacidad, ética y profesionalismo, observando lo siguiente:
 
-1. Una vez verificados los requisitos de elegibilidad de los candidatos a Defensor General, el Pleno citará a comparecer a las personas propuestas y procederá a aprobar o rechazar el nombramiento dentro del término improrrogable de diez días hábiles;
+I. Una vez verificados los requisitos de elegibilidad de las personas candidatas a Defensora o Defensor General, el Pleno del Órgano de Administración Judicial citará a comparecer a las personas propuestas y procederá a aprobar o rechazar el nombramiento dentro del término improrrogable de diez días hábiles;
 
-2. Será designado Defensor General quien obtenga el voto aprobatorio de 3 Consejeros del Consejo de la Judicatura;
+II. Será designada Defensora o Defensor General la persona que obtenga el voto aprobatorio de al menos tres personas integrantes del Pleno del Órgano de Administración Judicial, y
 
-3. Si ninguno de los candidatos obtiene la votación señalada en el párrafo anterior, la terna será rechazada; al efecto, el Presidente del Consejo presentará una nueva terna y en caso de ser rechazada, hará el nombramiento de manera directa en favor de persona distinta a las rechazadas en ambas ternas;
+III. Si ninguna de las personas propuestas obtiene la votación señalada en la fracción anterior, la terna será rechazada. En este caso, la presidencia del Órgano de Administración Judicial presentará una nueva terna y, de ser rechazada nuevamente, la presidencia hará el nombramiento de manera directa en favor de una persona distinta a las incluidas en las ternas rechazadas.
 
-4. El Defensor General durará en su encargo cuatro años, y podrá ser ratificado por un periodo igual; y,
+La Defensora o Defensor General durará en su encargo cuatro años y podrá ser ratificada por un periodo igual improrrogable.
 
-5. Los visitadores, defensores públicos, asesores jurídicos y demás personal jurídico y administrativo serán nombrados en los términos establecidos en la Ley Orgánica del Poder Judicial del Estado de Guerrero, en el estatuto y en los reglamentos correspondientes.
+Las personas visitadoras, defensoras públicas, asesoras jurídicas y demás personal jurídico y administrativo serán nombradas conforme a lo establecido en la Ley Orgánica del Poder Judicial del Estado, el estatuto correspondiente y los reglamentos aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3835,11 +3779,17 @@ II. Velar por la observancia del principio de igualdad ante la ley, por los dere
 
 III. Establecer los lineamientos y estándares básicos que en el ejercicio de su función deben cumplir los defensores y asesores;
 
-IV. Vigilar y evaluar periódicamente el desempeño de los servidores públicos del Instituto, cualquiera que sea su asignación o adscripción;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-V. Implementar programas para la capacitación, actualización, desarrollo y profesionalización permanentes de los servidores públicos del Instituto;
+IV. Supervisar periódicamente el desempeño de las servidoras y servidores públicos del Instituto, cualquiera que sea su asignación o adscripción;
 
-VI. Ordenar visitas e inspecciones para evaluar el desempeño de los defensores públicos y asesores jurídicos;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+V. Promover programas para la capacitación, actualización, desarrollo y profesionalización permanentes de las personas servidoras públicas del Instituto;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+VI. Ordenar visitas e inspecciones para supervisar el desempeño de las defensoras o defensores públicos y asesoras o asesores jurídicos;
 
 VII. Implementar políticas, lineamientos, instrucciones y recomendaciones a favor de la transparencia, el acceso a la información y la protección de los datos personales; y,
 
@@ -4293,9 +4243,9 @@ III. Deben aplicar con imparcialidad los recursos públicos que estén bajo su r
 
 IV. Tienen prohibida la difusión de propaganda o la realización de actos de promoción personalizada que incluya su nombre, imagen, voz o símbolos. La propaganda gubernamental deberá tener carácter institucional y fines informativos, educativos o de orientación social;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-V. Deberán recibir una remuneración adecuada y proporcional a sus responsabilidades por el desempeño de su función. Ninguna Servidora o Servidor público podrá recibir una remuneración igual o mayor a la de su superior jerárquico, ni superior a la establecida para la Gobernadora o Gobernador del Estado;
+V. Deberán recibir una remuneración adecuada y proporcional a las responsabilidades inherentes al desempeño de sus funciones. En ningún caso, podrán recibir una remuneración igual o mayor a la de su superior jerárquico, ni exceder la establecida para la persona titular del Poder Ejecutivo estatal o de la Presidencia de la República en el presupuesto correspondiente;
 
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -4389,11 +4339,11 @@ La responsabilidad del Estado y de los municipios por los daños que, con motivo
 
 #### SECCIÓN IV. RESPONSABILIDAD POLÍTICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 195.
 
-Incurren en responsabilidad política las y los Servidores públicos que en ejercicio de sus funciones realicen actos u omisiones que vulneren los principios fundamentales de la presente Constitución o infrinjan las leyes que regulan el manejo del patrimonio del Estado o de los municipios.
+Incurren en responsabilidad política las personas servidoras públicas que en ejercicio de sus funciones realicen actos u omisiones que vulneren los principios fundamentales de la presente Constitución o infrinjan las leyes que regulan el manejo del patrimonio del Estado o de los municipios.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -4435,59 +4385,59 @@ VIII. Violaciones sistemáticas o graves a los planes, programas y presupuestos 
 
 1. Son sujetos de responsabilidad política:
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-I. Los (sic) las Diputadas y los Diputados del Congreso del Estado;
+I. Las diputadas y diputados del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE AGOSTO DE 2025)</small>
 
 II. La Gobernadora o Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-III. Las y los Secretarios de Despacho y la o el Contralor General del Estado;
+III. Las personas titulares de las secretarías de despacho;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-IV. Las y los Magistrados, Juezas y Jueces del Poder Judicial del Estado de Guerrero;
+IV. Las magistradas, magistrados, juezas y jueces del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-V. Las Presidentas o Presidentes, Sindicas o Síndicos y Regidoras o Regidores de los Ayuntamientos;
+V. Las personas titulares de las Presidencias, Síndicaturas y Regidurías de los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-VI. Las y los titulares de las dependencias, entidades u organismos de la administración pública estatal o municipal;
+VI. Las personas titulares de las dependencias, entidades u organismos de la administración pública estatal o municipal;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-VII. La presidenta o Presidente y las y los consejeros de la Comisión de los Derechos Humanos del Estado de Guerrero;
+VII. La persona titular de la Presidencia y las personas consejeras de Comisión de los Derechos Humanos del Estado de Guerrero;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
 VIII. Las y los consejeros del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-IX. Las y los Magistrados del Tribunal de lo Contencioso Administrativo;
+IX. Las magistradas y magistrados del Tribunal de Justicia Administrativa;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-X. La Fiscal o Fiscal General;
+X. La persona titular de la Fiscalía General;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XI. La Auditora o Auditor Superior del Estado;
+XI. La persona titular de la Auditoría Superior del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XII. Las consejeras y Los consejeros del Consejo de Políticas Públicas;
+XII. Las personas consejeras del Consejo de Políticas Públicas;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
-XIII. Las consejeras y Los consejeros del Consejo de la Judicatura; y,
+XIII. Las personas integrantes del pleno del Órgano de Administración Judicial, y
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE AGOSTO DE 2025)</small>
 
 XIV. La Defensora o Defensor General del Instituto de la Defensoría Pública.
 
@@ -4591,9 +4541,9 @@ Incurren en responsabilidad administrativa, los servidores públicos que en el e
 
 5. Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado de Guerrero y serán resueltas por el Tribunal de Justicia Administrativa del Estado de Guerrero. Las demás faltas y sanciones administrativas serán conocidas y resueltas por los órganos internos de control;
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-6. Para la investigación, substanciación y sanción de responsabilidades administrativas de los servidores públicos del Poder Judicial del Estado de Guerrero, se observará lo previsto en el artículo 93 de esta Constitución, sin perjuicio de las atribuciones de la Auditoría Superior del Estado de Guerrero en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
+6. Para la investigación, substanciación y sanción de responsabilidades administrativas de las servidoras y servidores públicos del Poder Judicial del Estado, se observará lo previsto en el artículo 93 y el Capítulo III del Título Noveno de esta Constitución y las leyes aplicables, sin perjuicio de las atribuciones de la Auditoría Superior del Estado de Guerrero en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -4643,7 +4593,9 @@ No se requerirá declaración de procedencia para su interposición.
 
 ARTICULO 198 BIS.- El Sistema Estatal Anticorrupción de Guerrero, es la instancia de coordinación de las autoridades estatales y municipales, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador, que estará integrado por los titulares de la Auditoría Superior del Estado de Guerrero; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de Contraloría y Transparencia Gubernamental; por el Presidente del Tribunal de Justicia Administrativa del Estado de Guerrero; el Comisionado Presidente del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado de Guerrero y otro del Comité de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+
+I. El Sistema contará con un Comité Coordinador, que estará integrado por las personas titulares de la Auditoría Superior del Estado de Guerrero; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de Contraloría y Transparencia Gubernamental; por la presidenta o presidente del Tribunal de Justicia Administrativa del Estado de Guerrero; así como por una persona representante del Tribunal de Disciplina Judicial y otra del Comité de Participación Ciudadana;
 
 II. El Comité de Participación Ciudadana del Sistema, deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
 
@@ -6328,3 +6280,115 @@ Remítase a la Titular del Poder Ejecutivo, para su conocimiento y efectos legal
 ###### ARTÍCULO SEXTO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 26 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 211 POR EL QUE SE REFORMAN LAS FRACCIONES XVI Y XVII, Y SE ADICIONA LA FRACCIÓN XVIII DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. El presente Decreto seguirá su trámite legislativo contemplado en el artículo 199 de la Constitución Política del Estado de Guerrero.
+
+TERCERO. Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales correspondientes.
+
+CUARTO. Remítase a la Titular del Poder Ejecutivo del Estado de Guerrero para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general.
+
+QUINTO. Remítase a los Ayuntamientos Municipales para su conocimiento y efectos legales.
+
+SEXTO. El Poder Ejecutivo establecerá los protocolos de actuación y los mecanismos de coordinación interinstitucional para garantizar la eficacia y eficiencia del operativo de búsqueda inmediata.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 217 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN MATERIA DE REFORMA AL PODER JUDICIAL DEL ESTADO DE GUERRERO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, con excepción de las disposiciones cuya aplicación se sujete a plazos específicos en los subsecuentes artículos transitorios.
+
+Segundo. En el Proceso Electoral Ordinario 2026-2027, se elegirá, por única ocasión, la totalidad de los cargos de magistradas, magistrados, juezas y jueces del Poder Judicial del Estado, conforme a la forma y procedimientos señalados en la Constitución Política del Estado Libre y Soberano de Guerrero, en el presente Decreto y demás normatividad aplicable.
+
+Tercero. Los cargos de magistradas, magistrados, juezas y jueces electos en la elección de 2027 serán renovados de manera escalonada. El 50% de los cargos que resulten electos durarán un periodo de seis años, concluyendo en la fecha de la toma de protesta de las personas electas en la elección de 2033, mientras que el otro 50% restante permanecerá en funciones por nueve años, concluyendo en la fecha de la toma de protesta de las personas electas en la elección de 2036. La asignación del periodo de los cargos se determinará con base en el número de votos obtenidos por cada candidatura, correspondiendo el más largo al 50% de las personas electas con la mayor votación.
+
+Por única ocasión, el Consejo de la Judicatura del Poder Judicial del Estado deberá informar de manera previa a la instalación del primer periodo ordinario de sesiones del año anterior a la elección ordinaria de 2027, la relación integral de los cargos de magistradas, magistrados, juezas y jueces del Poder Judicial del Estado, desglosada por género y especialización por materia, así como cualquier otra información que estime pertinente, a fin de que el Congreso del Estado cuente con los elementos necesarios para la emisión de la convocatoria relativa a la integración del listado de aspirantes correspondiente.
+
+Cuarto. El Instituto Electoral y de Participación Ciudadana podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral ordinario del año 2033, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género.
+
+Quinto. Los poderes del estado deberán designar a las personas que integrarán el Pleno del Órgano de Administración Judicial a más tardar el día treinta y uno de julio de 2027. Dicho Órgano deberá instalarse al día hábil siguiente y comenzar a operar con el propósito de garantizar la adscripción de las magistradas, magistrados, juezas y jueces electos y la continuidad de la función jurisdiccional.
+
+Para asegurar una transición ordenada que no afecte la actividad jurisdiccional ni administrativa, la duración de los cargos se sujetará, por única ocasión, a lo siguiente: dos de las personas nombradas por el Tribunal Superior de Justicia concluirán su encargo en 2030, seleccionados desde su designación y las tres restantes en 2033.
+
+Sexto. El Tribunal de Disciplina Judicial deberá instalarse y comenzará a operar el mismo día en que sus integrantes protesten el cargo ante el Congreso del Estado. Hasta en tanto entre en funciones, las instituciones actuales continuarán realizando sus actividades para garantizar la continuidad operativa.
+
+El periodo de las magistradas y magistrados del Tribunal de Disciplina Judicial que sean electos en la elección de 2027, concluirá en el año 2033 para dos de ellos, y en el año 2036 para los tres restantes. La asignación de los periodos se determinará en función del número de votos obtenidos por cada candidatura, correspondiendo el periodo más largo a quienes alcancen la mayor votación.
+
+(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 98/2025 Y SU ACUMULADA 106/2025, DECLARÓ LA INVALIDEZ DEL SÉPTIMO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+SÉPTIMO. POR ÚNICA OCASIÓN, LAS PERSONAS TITULARES DE LA PRESIDENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA, DEL TRIBUNAL DE DISCIPLINA JUDICIAL Y DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL SERÁN ELECTAS EN LA PRIMERA SESIÓN DE PLENO QUE CELEBREN EN EL AÑO 2027, CONFORME A LOS PROCEDIMIENTOS ESTABLECIDOS EN LA NORMATIVIDAD APLICABLE.
+
+Octavo. Para garantizar la continuidad de la actividad jurisdiccional durante el proceso de transición hacia el nuevo modelo establecido en este Decreto, los órganos jurisdiccionales actuales del Poder Judicial del Estado seguirán operando con pleno reconocimiento de sus facultades y atribuciones hasta que las nuevas autoridades judiciales rindan protesta de su encargo en los términos señalados.
+
+Las resoluciones, acuerdos y actuaciones emitidas por las y los actuales titulares de los órganos jurisdiccionales conservarán plena validez y eficacia jurídica. Cualquier asunto en trámite continuará desahogándose conforme a las disposiciones legales aplicables al momento de su inicio.
+
+Asimismo, el Órgano de Administración Judicial, una vez en funciones, deberá adoptar las medidas necesarias para evitar interrupciones en los servicios judiciales, garantizando la asignación de recursos humanos, materiales y financieros para el cumplimiento efectivo de las labores jurisdiccionales.
+
+Noveno. El Consejo de la Judicatura del Estado implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de las personas integrantes del Poder Judicial del Estado, y al Órgano de Administración Judicial en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+El Consejo de la Judicatura del Estado aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables.
+
+El Consejo de la Judicatura del Estado continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes en trámite, así como su acervo documental, al Tribunal de Disciplina Judicial o al Órgano de Administración Judicial, según corresponda.
+
+El periodo del nombramiento de las personas consejeras del Consejo de la Judicatura del Estado que se encuentren en funciones a la entrada en vigor del presente Decreto y que concluyan antes de la fecha de la elección ordinaria del año 2027, se prorrogará hasta el día en que rindan protesta las personas magistradas del Tribunal de Disciplina Judicial electas en dicho proceso, salvo lo que corresponda a la competencia del Órgano de Administración Judicial que deberán entregar en la fecha de su instalación.
+
+Las consejeras y consejeros del Consejo de la Judicatura del Estado que se encuentren en funciones al inicio de vigencia de este Decreto podrán postularse y participar en la elección ordinaria del año 2027 para integrar el Tribunal de Disciplina Judicial u otro cargo de elección popular del Poder Judicial del Estado si cumplen con los requisitos constitucionales y legales aplicables.
+
+Décimo. El Congreso del estado, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, deberá emitir la Ley Orgánica del Poder Judicial del Estado y demás leyes relacionadas para armonizarlas con las disposiciones de esta reforma constitucional.
+
+Décimo Primero. Las personas que actualmente ocupan los cargos de magistradas, magistrados, juezas y jueces del Poder Judicial del Estado deberán optar por separarse de sus cargos o participar en los procesos de elección, conforme a los términos establecidos en este Decreto.
+
+Las Magistradas, Magistrados, Juezas y Jueces de primera instancia del Poder Judicial del Estado que concluyan su encargo por no postularse, no serán beneficiarios de un haber por retiro, salvo cuando presenten su renuncia al cargo antes de la fecha de cierre de la convocatoria señalada en el artículo 97 de este Decreto, misma que tendrá efectos al 31 de agosto de 2027; en estos casos, el haber de retiro será proporcional al tiempo de su desempeño.
+
+El haber de retiro, será de acuerdo a lo establecido en la Ley Orgánica del Poder Judicial del Estado y demás leyes aplicables al momento de que surta efectos la renuncia, de acuerdo a los parámetros establecidos en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos. En ningún caso el haber de retiro tendrá carácter vitalicio.
+
+Las personas juzgadoras que decidan postularse y no resulten electas, tendrán derecho a recibir un pago único equivalente a tres meses de salario y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho.
+
+Este beneficio no aplicará para quienes hayan resultado electas para un cargo judicial diverso al que ocupaban.
+
+Lo relativo a las Magistradas, Magistrados, Juezas y Jueces que sean electos en el año 2027 y subsecuentes, al terminar su encargo por conclusión de periodo o por no haber sido reelectos, se sujetará a lo establecido en la Ley Orgánica del Poder Judicial del Estado.
+
+Décimo Segundo. En el año 2027, la presidenta o presidente del Tribunal Superior de Justicia deberá presentar el informe sobre la situación que guarda la impartición de justicia en la Entidad dentro de la primera quincena del mes de agosto.
+
+Décimo Tercero. La Escuela de Formación Judicial deberá integrarse y comenzar a operar en un plazo no mayor a treinta días, contados a partir de la instalación del órgano de administración judicial. Durante este periodo, las instituciones actuales continuarán desempeñando sus funciones para garantizar la continuidad operativa, hasta en tanto se formalice la transición.
+
+Para garantizar la continuidad y calidad de los programas y políticas en curso a cargo del Instituto para el Mejoramiento Judicial y la Escuela Judicial del Poder Judicial del Estado, la Escuela de Formación Judicial deberá revisarlos, adoptarlos y, en su caso, actualizarlos dentro de los noventa días naturales siguientes al inicio de sus operaciones, en cumplimiento de las disposiciones emitidas por las autoridades educativas estatales y federales, y en coordinación con estas, a fin de asegurar la armonización de los programas de formación y el fortalecimiento de la capacitación judicial. Para tal efecto, las autoridades estatales en materia educativa deberán acompañar y coadyuvar en el cumplimiento de este objetivo.
+
+Las personas que cursan programas de formación, capacitación o especialización en las instituciones actuales no se verán afectadas por la transición, se respetarán sus derechos, avances y evaluaciones conforme a los criterios establecidos al inicio de su formación. La Escuela de Formación Judicial garantizará la continuidad de sus procesos, reconociendo los estudios y certificaciones previamente acreditados.
+
+El Instituto para el Mejoramiento Judicial y la Escuela Judicial deberán preparar un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales, y de los programas y políticas en curso relacionados con las funciones que realizan a la Escuela de Formación Judicial. Así mismo, incluirá la entrega de los archivos correspondientes.
+
+Décimo Cuarto. Los derechos laborales de las servidoras y servidores públicos del Poder Judicial del Estado serán respetados en su totalidad. Los presupuestos de egresos de los ejercicios fiscales que correspondan considerarán los recursos necesarios para el pago de haberes y otras obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables.
+
+Décimo Quinto. El Poder Judicial del Estado llevará a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en esta Constitución o en una ley, por lo que tendrá un plazo máximo de treinta días naturales posteriores a la entrada en vigor del presente Decreto para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Secretaría de Finanzas y Administración del Gobierno del Estado.
+
+Los recursos a que se refiere el párrafo anterior deberán ser concentrados por concepto de aprovechamientos en la Secretaría de Finanzas y Administración del Gobierno del Estado y se destinarán por esta a la implementación del presente Decreto y a los demás fines que determine.
+
+Décimo Sexto. Por única ocasión, durante el periodo comprendido entre la entrada en vigor del presente Decreto y la toma de protesta de las personas electas en el Proceso Electoral Ordinario 2026-2027, las vacantes en el Pleno del Tribunal Superior de Justicia serán cubiertas mediante la designación de magistraturas provisionales, nombradas por la persona titular del Poder Ejecutivo y ratificadas por el Congreso del Estado conforme a la normatividad aplicable.
+
+Asimismo, las vacantes de juezas y jueces serán cubiertas mediante designaciones provisionales realizadas por el Pleno del Tribunal Superior de Justicia.
+
+Las magistraturas y los nombramientos de juezas y jueces provisionales concluirán en la fecha en que rindan protesta las personas electas en el Proceso Electoral Ordinario 2026-2027.
+
+Las personas que hayan ocupado cargos provisionales podrán participar en dicho proceso, en términos de lo dispuesto por la fracción V del artículo 97, reformado mediante este Decreto.
+
+Al término de su encargo, las personas designadas provisionalmente que declinen su candidatura previa al cierre de la convocatoria o sean postuladas a otro cargo y no resulten electas, tendrán derecho a recibir un pago único equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho. Este beneficio no aplicará para las personas juzgadoras en funciones que hayan resultado electas para un cargo judicial diverso al que ocupaban.
+
+Décimo Séptimo. Los Juzgados de Paz se extinguirán a más tardar el 31 de agosto de 2027. El Poder Judicial del Estado deberá adoptar las disposiciones administrativas y normativas necesarias para su supresión, garantizando la redistribución de sus funciones a las instancias jurisdiccionales competentes. La Ley Orgánica del Poder Judicial establecerá las bases para el proceso de extinción y regulará, en su caso, las funciones de las instancias que los sustituyan. Las personas servidoras públicas adscritas a dichos juzgados serán reubicadas conforme a la normatividad aplicable y a las necesidades del servicio, asegurando la protección de sus derechos laborales y la continuidad de su trayectoria dentro del Poder Judicial.
+
+Décimo Octavo. Las referencias realizadas en disposiciones legales al Consejo de la Judicatura del Poder Judicial del Estado se entenderán, según corresponda, al Tribunal de Disciplina Judicial o al Órgano de Administración Judicial, conforme a sus respectivas competencias.
+
+Décimo Noveno. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Vigésimo. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+Vigésimo Primero. Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos legales correspondientes.
+
+Vigésimo Segundo. Publíquese en el Periódico Oficial del Gobierno del Estado para conocimiento general.
