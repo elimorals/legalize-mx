@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-180147
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-05-24"
-last_updated: "2025-05-24"
+last_updated: "2025-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,3061 +21,3449 @@ state: "TAM"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2009.
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
 
-FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
+Ley publicada en el Extraordinario Número 26 del Periódico Oficial del Estado de Tamaulipas, el sábado 24 de mayo de 2025.
 
-Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
+AMÉRICO VILLARREAL ANAYA, Gobernador Constitucional del Estado de Tamaulipas, a sus habitantes hace saber:
 
-El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-"NUMERO 27
+Al margen un sello que dice:- “Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27 fracción I, 32 y 35 de la Constitución Política Local, en nombre del Pueblo, decreta:
+LA LEGISLATURA SESENTA Y SEIS CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
+D E C R E T O No. 66-330
 
-###### ARTICULO UNICO.
+MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO ÚNICO.
 
-P.O. 8 DE AGOSTO DE 2005.
+Se expide la Ley Orgánica del Poder Judicial del Estado de Tamaulipas, para quedar como sigue:
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-### CAPITULO UNICO
+## TÍTULO PRIMERO. DEL PODER JUDICIAL DEL ESTADO
 
-###### ARTICULO 1º.
+### CAPÍTULO I. DE LOS ÓRGANOS JUDICIALES
 
-La presente Ley es de orden público e interés social, tiene aplicación en el Estado de Aguascalientes y su objeto es la protección de la salud y establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado y la concurrencia de éste y sus Municipios en materia de salubridad local, en términos del Artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General de Salud. A falta de disposición expresa será supletoria de esta Ley las disposiciones contenidas en la Ley General de Salud.
+###### ARTÍCULO 1º.
 
-###### ARTICULO 2º.
+La presente Ley es reglamentaria del Título Sexto de la Constitución Política del Estado de Tamaulipas, y sus disposiciones, que son de orden público, tienen por objeto regular la estructura y funcionamiento del Poder Judicial del Estado.
 
-El derecho a la protección de la salud, tiene las siguientes finalidades:
+###### ARTÍCULO 2°.
 
-I.- El bienestar físico, mental y social de la mujer y el hombre, para contribuir al ejercicio pleno de sus capacidades;
+Corresponde al Poder Judicial del Estado de Tamaulipas el ejercicio de la función jurisdiccional en los asuntos del fuero común, en los términos que prevé la Constitución Política de los Estados Unidos Mexicanos y la propia del Estado, así como por las leyes que de ellas emanen. En los asuntos del orden federal se sujetará a lo dispuesto en las leyes de ese fuero establezcan.
 
-II.- La prolongación y el mejoramiento de la calidad de la vida humana;
+La administración del Poder Judicial le corresponde al Órgano de Administración Judicial, mientras que la disciplina de los Jueces y las Juezas, del personal de carrera judicial y del personal administrativo estará a cargo del Tribunal de Disciplina Judicial, los cuales gozarán de autonomía técnica para emitir sus resoluciones en los términos previstos en la Constitución Política del Estado y de esta ley.
 
-III.- La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
+###### ARTÍCULO 3°.
 
-IV.- La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+Los órganos del Poder Judicial del Estado son:
 
-V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+I.- El Supremo Tribunal del Estado, el cual funcionará en Pleno, Salas Colegiadas, Salas Unitarias y Salas Regionales;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+II.- Los Juzgados de Primera Instancia:
 
-VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+III.- Los Juzgados Menores;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+IV.- El Tribunal de Disciplina Judicial, el cual funcionará en Pleno y Comisiones; y
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud; y
+V.- El Órgano de Administración Judicial.
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+###### ARTÍCULO 4º.
 
-VIII.- La conservación de la vida mediante el tratamiento integral del dolor.
+Son obligaciones de las autoridades judiciales:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+I.- Ejercer la función jurisdiccional gratuitamente;
 
-###### ARTICULO 3º.
+II.- Ajustar sus procedimientos y resoluciones a las disposiciones legales;
 
-En los términos de la Ley General de Salud y la presente Ley, corresponde al Gobierno del Estado de Aguascalientes planear, ejecutar, coordinar, organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad local en los términos de los Artículos 1º, 3º, 9º y 13 de la Ley General de Salud.
+III.- Auxiliar a las demás autoridades en los términos de las disposiciones legales relativas;
 
-###### ARTICULO 4º.
+IV.- Cumplir con las comisiones que su superior jerárquico les confiera;
 
-Son Autoridades Sanitarias Estatales:
+V.- Diligenciar o mandar diligenciar exhortos, despachos y requisitorias procedentes de las demás autoridades del Estado o de fuera de él, si estuvieran ajustados a derecho, en la forma y términos que prevea la ley procesal respectiva;
 
-I.- El Gobernador del Estado;
+VI.- Proporcionar a las autoridades competentes los informes que éstas pidan cuando así proceda conforme a la ley;
 
-II.- El Instituto de Salud del Estado de Aguascalientes; y
+VII.- Juzgar con perspectiva de género e incorporarla de forma transversal, progresiva y equitativa en el desempeño de sus atribuciones, programas y acciones;
 
-III.- Los Ayuntamientos en el ámbito de su respectiva competencia.
+VIII.- Juzgar con perspectiva de discapacidad;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+IX.- Juzgar con perspectiva de persona adulta mayor; y
 
-### CAPITULO UNICO
+X.- Las demás que las leyes les confieran.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+### CAPÍTULO II. DE LOS ÓRGANOS AUXILIARES
 
-###### ARTICULO 5º.
+###### ARTÍCULO 5º.
 
-Para efectos de esta Ley, se entiende por:
+Las y los árbitros privados designados voluntariamente serán auxiliares de la administración de justicia y no ejercerán autoridad pública, pero de acuerdo con las reglas y restricciones que establezca la ley conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles que les encomienden.
 
-I.- Ley General: La Ley General de Salud;
+###### ARTÍCULO 6º.
 
-II.- Ley Estatal: La Ley de Salud del Estado de Aguascalientes;
+El cargo de auxiliar de la administración de justicia es un oficio de interés público que debe ser desempeñado por persona proba, imparcial y de idoneidad profesional y técnica absolutas. Para cada oficio se exigirán conocimientos y experiencia en la materia que corresponda y, cuando el caso lo requiera, título y cédula profesional legalmente expedido. Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes que, en ejercicio de sus atribuciones legales, les dirijan las y los Magistrados y las y los Jueces, los siguientes:
 
-III.- Organismo: Al Organismo Público Descentralizado rector del Sistema Estatal de Salud; y
+I.- Las personas servidoras públicas del Estado, sin importar su rango y jerarquía, cuando así lo requieran los tribunales para impartir justicia de manera pronta e imparcial;
 
-IV.- Sistema de Salud: Al Sistema Estatal de Salud.
+II.- Los peritas y los peritos en sus respectivos ramos;
 
-###### ARTICULO 6º.
+III.- Las y los depositarios;
 
-El Sistema Estatal de Salud está constituido por las dependencias y entidades públicas y sociales y las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado así como por los mecanismos de coordinación de acciones a fin de dar cumplimiento al derecho a la protección de la salud en el territorio del Estado de Aguascalientes. Su misión es mejorar las condiciones de salud de la población del Estado con equidad, calidad y eficiencia.
+IV.- Los albaceas e interventores de sucesiones, tutoras, tutores, curadores, directorios, notarias y notarios públicos, en las funciones que les encomienden las leyes relativas;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+V.- La Procuradora o Procurador de la Defensa de las niñas, niños, adolescentes, la Familia, y los interventores;
 
-El Sistema Estatal de Salud, con la intervención que corresponda a la Secretaría de Planeación y Desarrollo Regional, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, y del Estado con los Municipios.
+VI.- La Directora o Director de los Centros de Reintegración Social y Familiar para Adolescentes;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+VII.- Las y los titulares de organismos paraestatales de la Entidad;
 
-###### ARTICULO 7º.
+VIII.- Las personas intérpretes o traductoras;
 
-El Sistema Estatal de Salud tiene los siguientes objetivos:
+IX.- Las personas especialistas mediadoras y conciliadoras;
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+X.- Las personas síndicas e interventoras de concursos;
 
-II.- Contribuir al desarrollo demográfico armónico del Estado;
+XI.- Las autoridades laborales y de seguridad social, estatales y federales; y
 
-III.- Colaborar al bienestar social de la población del Estado de Aguascalientes, mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+XII.- Los demás que la ley les confiera dicho carácter.
 
-IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al sano y buen funcionamiento físico y mental de la niñez;
+Las personas auxiliares de impartición de Justicia se regirán por las leyes respectivas en cuanto a los requisitos y condiciones para el ejercicio de sus funciones, así como al Reglamento de los Auxiliares de la Administración de Justicia correspondiente. En tanto que, los honorarios constituirán una equitativa retribución del servicio, pero en ningún caso podrán significar una carga excesiva para los que soliciten la prestación del servicio; por lo tanto, su importe deberá ser fijado por la autoridad judicial, de acuerdo a las reglas y consideraciones que el Código de Procedimientos Civiles vigente del Estado disponga.
 
-V.- Apoyar al mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
+Será el Pleno del Órgano de Administración Judicial, el encargado de integrar y actualizar anualmente, en el mes de enero, el cuerpo de auxiliares de la administración de Justicia, que hayan de fungir ante los órganos del Poder Judicial en las materias que estime necesarias, haciendo una cuidadosa selección de los solicitantes, teniendo en cuenta su especialidad y antecedentes. El sistema para la elaboración de la lista oficial será el que prevea el Reglamento que se expida para tal efecto.
 
-VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
+Las listas se harán llegar oportunamente a las Salas del Supremo Tribunal de Justicia del Estado y a los Jueces y las Juezas, debiendo ser publicadas en los estrados de cada oficina, donde permanecerán a la vista del público durante todo el año. De igual forma deberán ser publicadas en los distintos órganos de difusión del Poder Judicial del Estado.
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+La autoridad judicial que no tome en cuenta las listas de auxiliares o no respete el orden de las mismas, al hacer la designación correspondiente, incurrirá en falta administrativa que será sancionada en términos de la presente Ley Orgánica del Poder Judicial y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
-VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
+###### ARTÍCULO 7º.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+Los tribunales del Estado estarán expeditos para administrar justicia, que impartirán en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando prohibido a sus servidores públicos recibir cualquier remuneración, gratificación, donación u obsequio de objetos o valores, aún cuando la actividad correspondiente se realice fuera de los tribunales o de las horas de despacho o en días y horas habilitados legalmente.
 
-IX.- Fomentar la integración, organización y funcionamiento de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado, apoyándolos para la realización de programas de capacitación y actualización, a efecto de que coadyuven más eficazmente con el sistema estatal de salud;
+###### ARTÍCULO 8°.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+Los tribunales del Estado y sus dependencias despacharán durante los días hábiles del año. Son inhábiles los sábados, domingos y aquellos en que se suspendan las labores por acuerdo del Pleno del Supremo Tribunal de Justicia; en relación con las jurisdicciones penal y de justicia para adolescentes, deberá estarse a lo que dispongan la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
 
-X.- Implementar el régimen estatal de protección social en Salud; y
+Serán inhábiles además los siguientes días:
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+I.- El primero de enero;
 
-XI.- Proporcionar cuidados paliativos.
+II.- El primer lunes de febrero en conmemoración de la Constitución Política de los Estados Unidos Mexicanos del 5 de febrero de 1917;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+III.- El tercer lunes de marzo en conmemoración del natalicio de don Benito Juárez García, el 21 de marzo de 1806;
 
-###### ARTICULO 8º.
+IV.- El 1° de mayo en conmemoración del Día del Trabajo;
 
-La coordinación del Sistema Estatal de Salud estará a cargo del Instituto de Salud del Estado de Aguascalientes, a quien le corresponderá lo siguiente:
+V.- El 5 de mayo en conmemoración de la Batalla de Puebla de 1862;
 
-I.- Asumir y mantener la rectoría, organizando y operando en el Estado de Aguascalientes, los servicios de salud a la población abierta en materia de salubridad estatal y de regulación, control y fomento sanitarios, conforme a lo establecido por la Ley Estatal, la Ley General, los Acuerdos de Coordinación suscritos con la Federación y los municipios y otros ordenamientos aplicables;
+VI.- El 16 de septiembre en conmemoración de la Independencia Nacional en 1810;
 
-II.- Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes del Estado;
+VII.- El 1° de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
 
-III.- Proponer y fortalecer la participación de la comunidad en los servicios de salud;
+VIII.- El tercer lunes de noviembre en conmemoración del inicio de la Revolución Mexicana el 20 de noviembre de 1910; y
 
-IV.- Supervisar que en la prestación de los servicios de salud se aplique la normatividad vigente en la materia tanto nacional como internacional;
+IX.- El 25 de diciembre.
 
-V.- Realizar todas aquellas acciones necesarias para mejorar la calidad en la prestación de los servicios de salud;
+Son horas hábiles las comprendidas entre las 8:00 y las 19:00 horas.
 
-VI.- Promover la ampliación de la cobertura en la prestación de los servicios, apoyando los programas que para tal efecto elabore la Secretaría de Salud del Gobierno Federal;
+Durante los días inhábiles deberán dejarse guardias que atiendan los términos constitucionales en materia penal y de justicia para adolescentes y la concesión de la libertad provisional bajo caución, cuando proceda, sin perjuicio de las actividades propias de la función.
 
-VII.- Promover, apoyar y llevar a cabo la capacitación en la materia de los profesionales, especialistas y técnicos;
+## TÍTULO SEGUNDO. DE LA RESIDENCIA Y ORGANIZACIÓN TERRITORIAL
 
-VIII.- Integrar un acervo de información y documentación que facilite a las autoridades e instituciones competentes, la investigación, estudio y análisis de ramas y aspectos específicos en materia de salud;
+### CAPÍTULO ÚNICO
 
-IX.- Difundir a las autoridades correspondientes y a la población en general, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, estudio, análisis y recopilación de información, documentación e intercambio que realiza;
+###### ARTÍCULO 9°.
 
-X.- Administrar los recursos que le sean asignados, las cuotas de recuperación, así como las aportaciones que reciba de otras personas o instituciones;
+El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción en los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Primer, Décimo Tercer y Décimo Cuarto; la de Victoria en los Distritos Primero, Noveno, Décimo y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, Séptimo, Octavo y Décimo Quinto. Los Jueces de Primera Instancia y menores tendrán su residencia oficial en las cabeceras de sus respectivos distritos judiciales.
 
-XI.- Ejecutar todas las acciones contempladas en el presente ordenamiento y sus reglamentos según corresponda;
+La residencia de los Juzgados Especializados en Justicia para Adolescentes, de Ejecución de Sanciones y de Ejecución de Medidas para Adolescentes se fijará en los términos que establece la Ley.
 
-XII.- Impulsar en el ámbito estatal las actividades científicas y tecnológicas en el campo de la salud;
+Existirá, cuando menos, un Juzgado de Primera Instancia en cada Distrito Judicial.
 
-XIII.- Apoyar la coordinación entre las instituciones de salud y educativas estatales, municipales y federales, así como los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado, para formar y capacitar recursos humanos para la salud;
+###### ARTÍCULO 10.
 
-XIV.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
+El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes, la justicia laboral y el Sistema de Justicia Penal Acusatorio y Oral, se divide en quince Distritos, los cuales son:
 
-XV.- Llevar el registro de los profesionales, técnicos y auxiliares de la salud, que ejerzan sus actividades en el Estado y supervisar su ejercicio profesional;
+PRIMER DISTRITO JUDICIAL: Cabecera en Victoria, y comprende los Municipios de Victoria, Güémez y Casas.
 
-XVI.- Promover la constitución de colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, fomentando e incentivando la afiliación;
+SEGUNDO DISTRITO JUDICIAL: Cabecera en Altamira, y comprende los Municipios de Altamira, Tampico y Ciudad Madero.
 
-XVII.- Llevar el registro de los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado;
+TERCER DISTRITO JUDICIAL: Cabecera en Nuevo Laredo, y comprende el Municipio del mismo nombre.
 
-XVIII.- Regular, desarrollar, coordinar, evaluar y supervisar las acciones de protección social en salud en la Entidad; y
+CUARTO DISTRITO JUDICIAL: Cabecera en Matamoros, y comprende el Municipio del mismo nombre.
 
-XIX.- Las demás que esta Ley y otras disposiciones aplicables le confieran para el cumplimiento de su objeto.
+QUINTO DISTRITO JUDICIAL: Cabecera en Reynosa, y comprende el Municipio del mismo nombre.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+SEXTO DISTRITO JUDICIAL: Cabecera en Miguel Alemán, y comprende los Municipios de Miguel Alemán, Mier, Guerrero, Camargo y Gustavo Díaz Ordaz.
 
-###### ARTICULO 9º.
+SÉPTIMO DISTRITO JUDICIAL: Cabecera en El Mante, y comprende los Municipios de El Mante, Antiguo Morelos y Nuevo Morelos.
 
-El Organismo promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, federales, estatales y municipales, de los trabajadores y de los usuarios de los mismos, así como de los colegios, asociaciones y organismos de profesionales técnicos y auxiliares de salud del Estado en términos de las disposiciones que al efecto se expidan.
+OCTAVO DISTRITO JUDICIAL: Cabecera en Xicoténcatl, y comprende los Municipios de Xicoténcatl, Gómez Farías, Ocampo y Llera.
 
-Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
+NOVENO DISTRITO JUDICIAL: Cabecera en Tula, y comprende los Municipios de Tula, Bustamante, Miquihuana, Jaumave y Palmillas.
 
-## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
+DÉCIMO DISTRITO JUDICIAL: Cabecera en Padilla, y comprende los Municipios de Padilla, San Carlos, San Nicolás, Jiménez, Mainero, Villagrán e Hidalgo.
 
-### CAPITULO UNICO
+DÉCIMO PRIMER DISTRITO JUDICIAL: Cabecera en San Fernando, y comprende los Municipios de San Fernando, Méndez, Burgos y Cruillas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+DÉCIMO SEGUNDO DISTRITO JUDICIAL: Cabecera en Soto la Marina, y comprende los Municipios de Soto la Marina y Abasolo.
 
-###### ARTICULO 10.
+DÉCIMO TERCER DISTRITO JUDICIAL: Cabecera en Río Bravo, y comprende el Municipio del mismo nombre.
 
-La concertación de acciones entre el Instituto de Salud del Estado de Aguascalientes y los integrantes de los sectores públicos, sociales y privados, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+DÉCIMO CUARTO DISTRITO JUDICIAL: Cabecera en Valle Hermoso, y comprende el Municipio del mismo nombre.
 
-I.- Definición de las responsabilidades que asuman los integrantes de los sectores públicos, sociales y privados;
+DÉCIMO QUINTO DISTRITO JUDICIAL: Cabecera en González, y comprende los Municipios de González y Aldama.
 
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo el Organismo;
+###### ARTÍCULO 11.
 
-III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad del Organismo; y
+El territorio del Estado de Tamaulipas, en tratándose de Justicia para Adolescentes, se divide en seis Distritos Judiciales, que tendrán su residencia en las siguientes cabeceras municipales:
 
-IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes:
+PRIMER DISTRITO JUDICIAL: Cabecera en Victoria, y comprende los Distritos Judiciales I, IX, X y XII.
 
-###### ARTICULO 11.
+SEGUNDO DISTRITO JUDICIAL: Cabecera en Altamira, y comprende los Distritos Judiciales II y XV.
 
-La competencia de las autoridades sanitarias en la planeación, regulación, presupuestación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por lo establecido en esta Ley y demás disposiciones normativas aplicables.
+TERCER DISTRITO JUDICIAL: Cabecera en Nuevo Laredo, y comprende el Distrito Judicial III.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+CUARTO DISTRITO JUDICIAL: Cabecera en Matamoros, y comprende los Distritos Judiciales IV, XI y XIV.
 
-###### ARTICULO 12.
+QUINTO DISTRITO JUDICIAL: Cabecera en Reynosa, y comprende los Distritos Judiciales V, VI y XIII.
 
-El titular del Ejecutivo del Estado con la participación que corresponda al Instituto de Salud del Estado de Aguascalientes, a la Secretaría de Planeación y Desarrollo Regional y a los Ayuntamientos, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
+SEXTO DISTRITO JUDICIAL: Cabecera en El Mante, y comprende los Distritos Judiciales VII y VIII.
 
-###### ARTICULO 13.
+###### ARTÍCULO 12.
 
-La estructura administrativa a que se refieren los Artículos 19 y 20 de la Ley General de Salud, se denominará "Instituto de Salud del Estado de Aguascalientes". Este Instituto es un organismo público descentralizado, con personalidad jurídica, patrimonio propio y funciones de autoridad, que tiene como objetivo la prestación de servicios de salud a la población abierta en el Estado de Aguascalientes, en cumplimiento a lo dispuesto por la Ley General de Salud, por esta Ley, sus Reglamento (sic), y de conformidad con lo establecido en los Acuerdos de Coordinación y Descentralización que suscriba el Gobierno del Estado sobre la materia.
+La distribución en los Distritos Judiciales de los Juzgados en materia de Ejecución de Sanciones y de Ejecución de Medidas para Adolescentes, se determinará por el Órgano de Administración Judicial.
 
-Su domicilio oficial será el Municipio de Aguascalientes.
+###### ARTÍCULO 13.
 
-###### ARTICULO 14.
+El territorio del Estado de Tamaulipas, únicamente para el Sistema de Justicia Penal Acusatorio y Oral, se organizará en seis Regiones Judiciales, que se integran de la siguiente manera:
 
-El patrimonio del Instituto de Salud del Estado de Aguascalientes estará constituido por:
+PRIMERA REGIÓN JUDICIAL: Cabecera en Ciudad Victoria, comprende los Distritos Judiciales I, IX, X y XII.
 
-I.- Los derechos que tenga sobre los bienes muebles e inmuebles y recursos que le transfieran los Gobiernos Federal, Estatal y Municipales;
+SEGUNDA REGIÓN JUDICIAL: Cabecera en El Mante, comprende los Distritos Judiciales VII, VIII y XV.
 
-II.- Las aportaciones que los Gobiernos Federal, Estatal y Municipales le otorguen;
+TERCERA REGIÓN JUDICIAL: Cabecera en Matamoros, comprende los Distritos Judiciales IV, XI y XIV.
 
-III.- Las aportaciones, donaciones, legados y demás análogas que reciba de los sectores social y privado;
+CUARTA REGIÓN JUDICIAL: Cabecera en Nuevo Laredo, comprende el Distrito Judicial III.
 
-IV.- Las cuotas de recuperación que reciba por los servicios que preste;
+QUINTA REGIÓN JUDICIAL: Cabecera en Reynosa, comprende los Distritos Judiciales V, VI y XIII.
 
-V.- Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores;
+SEXTA REGIÓN JUDICIAL: Cabecera en Altamira, comprende el Distrito Judicial II.
 
-VI.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley; y
+Cada Región Judicial contará con las Jueces y Jueces de Control y Tribunales de Enjuiciamiento que considere pertinente el Órgano de Administración Judicial, quienes ejercerán jurisdicción dentro de la misma.
 
-VII.- En general, todos los bienes, derechos y obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título legal.
+Tratándose de los casos de competencia extraordinaria a que se refiere el artículo 22 del Código Nacional de Procedimientos Penales, previa petición fundada y motivada, serán competentes para conocer las y los jueces del sistema penal acusatorio de la Primera Región Judicial del Estado, con sede en la Capital del Estado.
 
-###### ARTICULO 15.
+###### ARTÍCULO 14.
 
-El Organismo administrará su patrimonio con sujeción y controles que establecen las disposiciones legales federales y estatales aplicables y lo destinará al cumplimiento de su objeto, de conformidad con lo establecido en el presente ordenamiento y en los Acuerdos de Coordinación y Descentralización suscritos por el Gobierno del Estado sobre la materia.
+El número, residencia, distribución y competencia territorial en los Distritos o Regiones Judiciales de los Tribunales Laborales, se determinará mediante acuerdos generales que emita el Órgano de Administración Judicial.
 
-###### ARTICULO 16.
+###### ARTÍCULO 15.
 
-La dirección y administración del Organismo corresponderá:
+El Pleno del Supremo Tribunal de Justicia podrá expedir Acuerdos Generales a fin de establecer lo necesario para el buen desempeño de la función jurisdiccional. Serán publicados en el Periódico Oficial del Estado y surtirán sus efectos en la fecha en ellos indicados o, en su defecto, al día siguiente de su publicación.
 
-I.- Al Consejo Interno; y
+###### ARTÍCULO 16.
 
-II.- Al Director General del Organismo.
+La Jueza o Juez competente para juzgar de los hechos delictuosos y aplicar la sanción procedente, el del lugar donde se hubiere cometido el delito.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Es Jueza o Juez competente en Ejecución de Sanciones el del lugar donde se ubique el Centro de Ejecución de Sanciones donde esté cumpliendo la pena, debiendo dicha Jueza o Juez dar cumplimiento de las sanciones impuestas en una o más causas penales, según sea el caso.
 
-## TITULO TERCERO. DEL ORGANISMO ENCARGADO DE OPERAR LOS SERVICIOS DE SALUD
+Corresponde a la Jueza o Juez de Ejecución de Sanciones, en los casos de existir dos o más penas privativas de libertad contra el mismo reo, establecer a partir de cuándo empezará a computarse cada una de ellas en forma sucesiva y no simultánea, tomando como fundamento la fecha en que causen ejecutoria las sentencias de la más antigua a la más reciente.
 
-### CAPITULO UNICO
+En relación a la Ejecución de Medidas para Adolescentes se estará a lo dispuesto en la ley de la materia.
 
-###### ARTICULO 17.
+## TÍTULO TERCERO. DE LA INTEGRACIÓN DE LOS TRIBUNALES
 
-El Consejo Interno quedará integrado de la siguiente forma:
+### CAPÍTULO I. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-I.- Por un Presidente que será el Gobernador del Estado;
+###### ARTÍCULO 17.
 
-II.- Por un Vicepresidente, que será designado por el Ejecutivo del Estado de entre las personas que administren centros prestadores de servicios de salud y representantes de organizaciones profesionales que agrupen a profesionistas y personas dedicadas a la prestación de este servicio;
+El Supremo Tribunal de Justicia contará con diez Magistrados y Magistradas de carácter Numerario, quienes integrarán Pleno, así como por las y los Magistrados Supernumerarios y las y los Magistrados Regionales que sus funciones requieran conforme a la ley y sustente el presupuesto de egresos. Uno de los Magistrados o Magistradas de carácter Numerario será Presidenta o Presidente y no integrará Sala, salvo los casos establecidos por la ley.
 
-III.- Por un representante de la Secretaría de Desarrollo Social del Gobierno del Estado;
+Las y los Magistrados de Número y las y los Supernumerarios residirán en la Capital del Estado y desahogarán sus funciones en Pleno, en Salas Colegiadas o en Salas Unitarias. Los Magistrados Regionales actuarán en Salas Unitarias y resolverán los asuntos que señala esta ley.
 
-IV.- Por un representante de la Secretaría de Salud del Gobierno Federal;
+###### ARTÍCULO 18.
 
-V.- Por un representante del Sindicato, que será nombrado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud;
+Las Magistradas y los Magistrados del Supremo Tribunal de Justicia serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda por un periodo de nueve años y podrán ser reelectos. Sólo podrán ser removidos de su encargo en los términos del Título XI de la Constitución Política del Estado.
 
-VI.- Por un representante del Instituto Mexicano del Seguro Social;
+Para ser electos como Magistrada o Magistrado del Supremo Tribunal de Justicia, se requiere cumplir con los requisitos que establece el artículo 111 de la Constitución Política del Estado.
 
-VII.- Por un representante del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+Las personas que hayan ocupado el cargo de Magistrada o Magistrado del Supremo Tribunal de Justicia no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
 
-VIII.- Por un representante del Sistema para el Desarrollo Integral de la Familia;
+###### ARTÍCULO 19.
 
-IX.- Por un representante del Colegio de Médicos Cirujanos;
+En caso de que la falta de una Magistrada o Magistrado excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de suspensión definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en el número votos en la elección para ese cargo, siguiendo el orden de prelación en forma descendente. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste del encargo.
 
-X.- Por un representante del Colegio de Cirujanos Dentistas;
+###### ARTÍCULO 20.
 
-XI.- Por un representante del Colegio de Optometría;
+El Supremo Tribunal de Justicia complementará su integración con:
 
-XII.- Por un representante del Colegio de Enfermería;
+I.- Una Secretaria o Secretario General de Acuerdos;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+II.- Dos Subsecretarias o Subsecretarios Generales de Acuerdos;
 
-XIII.- Por un representante del Congreso del Estado;
+III.- Una Secretaria o Secretario de Acuerdos por cada Sala Colegiada;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+IV.- Una Secretaria o Secretario de Acuerdos por Sala Unitaria;
 
-XIV.- Por un representante de los Municipios del Estado; y
+V.- Las y los Secretarios Proyectistas;
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2006)</small>
+VI.- Las y los Actuarios;
 
-XV.- Por un representante de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes.
+VII.- Las y los Archivistas; y
 
-El Presidente del Consejo Interno podrá invitar a las sesiones de dicho órgano al Director del Organismo, a los representantes de instituciones públicas federales, estatales o municipales, representantes sindicales que guarden relación con el objeto del Organismo, y representantes de los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, cuando se traten asuntos que correspondan a la materia de éstos, los cuales tendrán voz pero no voto en la sesión.
+VIII.- Las personas Titulares de las Dependencias que esta Ley establezca; así como también el demás personal que realice funciones de dirección y apoyo.
 
-Por cada miembro propietario habrá un suplente, con excepción del Presidente. El Presidente tendrá voto de calidad.
+### CAPÍTULO II. DEL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-El Consejo Interno contará con un Secretario Técnico, designado por el propio Consejo a propuesta del Director General del Instituto de Salud del Estado de Aguascalientes, sin que pueda ser este mismo funcionario.
+###### ARTÍCULO 21.
 
-Los cargos en el Consejo Interno serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
+Para sesionar ordinariamente, el Pleno del Supremo Tribunal de Justicia requerirá la asistencia de cuando menos seis de sus integrantes de Número, incluida la Magistrada o el Magistrado Presidente o quien se encuentre en funciones.
 
-###### ARTICULO 18.
+Sus resoluciones las tomará por mayoría de las y los Magistrados presentes, quienes no podrán abstenerse de votar, a menos que tengan impedimento legal o no hayan estado presentes en las discusiones previas al asunto de que se vote. Si se emite igual número de votos a favor o en contra del proyecto de resolución, la Magistrada o el Magistrado Presidente tendrá el voto de calidad.
 
-El Consejo Interno tendrá las siguientes facultades:
+###### ARTÍCULO 22.
 
-I.- Otorgar poderes al Director General del Organismo o a quien en términos del Reglamento Interior del Organismo se prevea, para efecto de que realicen actos de administración para la mejor organización y funcionamiento del organismo;
+El Supremo Tribunal de Justicia sesionará de manera ordinaria por lo menos una vez a la semana.
 
-II.- Emitir los acuerdos de delegación de facultades necesarios para la mejor organización y funcionamiento del organismo;
+El Pleno, a propuesta de su Presidenta o Presidente, determinará los días y horas en que se realizarán las sesiones ordinarias, debiendo publicarse, el aviso o la convocatoria en los estrados del Tribunal para el conocimiento público.
 
-III.- Examinar, discutir y aprobar, en su caso, los planes de trabajo que se propongan, así como los informes de actividades presupuestales y estados financieros que se presenten a su consideración y autorizar su publicación;
+Los Magistrados deberán informar al Pleno, respecto de las dependencias y comisiones a su encargo.
 
-IV.- Aprobar el Reglamento Interior y los Manuales de Procedimientos y de Servicios al Público, los cuales deben ser publicados en el Periódico Oficial del Estado;
+###### ARTÍCULO 23.
 
-V.- Designar y promover, a propuesta del Director General del Organismo a los servidores públicos que ocupen cargos en los dos niveles jerárquicos inferiores a éste;
+Las sesiones del Pleno del Supremo Tribunal de Justicia serán públicas, con excepción de los casos en que, a juicio del Pleno, deban tener el carácter de privadas.
 
-VI.- Conocer los informes, dictámenes y recomendaciones del Comisario;
+###### ARTÍCULO 24.
 
-VII.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
+El Pleno del Supremo Tribunal de Justicia celebrará sesiones extraordinarias cuando su Presidenta o Presidente lo considere necesario, o así lo soliciten por lo menos seis de las y los Magistrados de Número.
 
-VIII.- Estudiar y aprobar los proyectos de inversión;
+###### ARTÍCULO 25.
 
-IX.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas, así como los que se celebren con las entidades sociales y privadas;
+Las atribuciones del Supremo Tribunal de Justicia y de su Pleno son las siguientes:
 
-X.- Determinar la integración de comités técnicos y grupos de trabajo temporales;
+I.- Resolver las controversias constitucionales y las acciones de inconstitucionalidad, conforme lo establezcan la Constitución Política del Estado y la ley;
 
-XI.- Analizar y en su caso aprobar los programas de corto, mediano y largo plazo a que quedarán sujetos los servicios de salud;
+II.- Turnar a las Salas que correspondan los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces, para sustanciar la segunda instancia;
 
-XII.- Integrar comités técnicos para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la prestación de los servicios de salud;
+III.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado;
 
-XIII.- Definir, en congruencia con los planes y programas nacionales y estatales, las políticas en materia de salud a seguir por el Organismo;
+IV.- Erigirse en Jurado de Sentencia para conocer y resolver, sin recurso ulterior, las causas que se instruyan contra personas servidoras públicas, conforme a lo dispuesto por el Título XI de la Constitución Política del Estado;
 
-XIV.- Aprobar los proyectos de programas del Organismo y presentarlos a consideración del Comité de Planeación para el Desarrollo del Estado, para su opinión y sugerencias;
+V.- Atender las dudas sobre la interpretación de la ley que sean planteadas por los jueces o surjan del seno del propio Tribunal;
 
-XV.- Evaluar el debido cumplimiento de los programas técnicos aprobados;
+VI.- Dirimir las cuestiones de competencia que surjan entre las autoridades judiciales del Estado, en los términos que fije la ley;
 
-XVI.- Vigilar la correcta aplicación de los recursos asignados al Organismo;
+VII.- Formular, ante el Congreso del Estado, iniciativas de ley tendentes a mejorar la impartición de justicia, así como expedir y modificar, en su caso, los reglamentos que se requieran para este fin;
 
-XVII.- Aprobar la estructura orgánica básica del Organismo, así como las modificaciones que procedan;
+VIII.- Formular, expedir y modificar, en su caso, los reglamentos, acuerdos y circulares que sean necesarias para la impartición de justicia;
 
-XVIII.- Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General;
+IX.- Determinar a propuesta de la Presidenta o del Presidente la competencia de las Salas, las adscripciones de las y los Magistrados a las mismas; y adscribir, en su caso, a las y los Magistrados Supernumerarios a las Salas en los supuestos que determine la ley;
 
-XIX.- Aprobar la creación de nuevas unidades de investigación, capacitación y servicio;
+X.- Delegar a la Presidenta o el Presidente las atribuciones que estime pertinentes;
 
-XX.- Autorizar la creación de comisiones de apoyo y determinar las bases de su funcionamiento;
+XI.- Recibir, en sesión plenaria, extraordinaria, pública y solemne, el informe anual de labores que deberá rendir su Presidenta o Presidente sobre el estado que guarda la administración de justicia, que se verificará antes de la segunda quincena del mes de marzo de cada año. Asimismo, deberá entregar por escrito dicho informe al Congreso del Estado, en la modalidad que éste acuerde;
 
-XXI.- Analizar y en su caso aprobar los presupuestos del Organismo, así como sus modificaciones, en los términos de la legislación aplicable;
+XII.- Acordar, en los casos que considere necesario, la propuesta para la creación de Magistraturas Supernumerarias y de Magistraturas Regionales; en dichos casos, designarán por mayoría de votos a las personas que, de forma provisional, realizarán las funciones de magistrada o magistrado, hasta en tanto se realice la elección que corresponda en términos de los artículos 106 y 109 de la Constitución Política del Estado;
 
-XXII.- Fijar y ajustar las cuotas de recuperación por los servicios que preste el Organismo;
+XIII.- Calificar los impedimentos de las y los Magistrados para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
 
-XXIII.- Aprobar la concertación de préstamos para el financiamiento de los programas aprobados por el Organismo, observando las disposiciones legales de la materia;
+XIV.- Conceder licencias hasta por un mes a las y los Magistrados del Poder Judicial, sancionar sus faltas y fijar los períodos de vacaciones del propio Poder Judicial, en los términos que determine la ley;
 
-XXIV.- Expedir la normatividad aplicable para que el Director General pueda disponer de los activos fijos del Organismo que no corresponden a las operaciones propias del mismo;
+XV.- Conocer y resolver, en única instancia, las causas que se instruyan en contra de alguno de sus miembros o de las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, en contra de las Juezas y los Jueces de Primera Instancia y las Juezas y los Jueces Menores, por delitos cometidos en el ejercicio de sus funciones, y de las que deban sustanciarse contra las y los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos;
 
-XXV.- Analizar y en su caso aprobar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el Organismo con terceros, en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
+XVI.- Conocer y tramitar la ejecución de sentencias ejecutorias contra el Estado y las entidades autónomas, en los términos del Código de Procedimientos Civiles del Estado;
 
-XXVI.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Organismo cuando fuere notoria la imposibilidad de su cobro, debiendo informar a la Contraloría General del Estado;
+XVII.- Promover y sugerir la aplicación de los mecanismos alternativos para la solución de conflictos entre las partes, en las diversas materias de su competencia;
 
-XXVII.- Determinar las sanciones que correspondan a aquellas acciones u omisiones que infrinjan el contenido de esta Ley; y
+XVIII.- Calificar los impedimentos de las Juezas y los Jueces de primera instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
 
-XXVIII.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+XIX.- Dar trámite a los impedimentos de las Juezas y los Jueces, que éstos le remitan, resolviendo lo que corresponda;
 
-###### ARTICULO 19.
+XX.- Conocer sobre la interpretación y resolución de los conflictos que se deriven de contratos o cumplimiento de obligaciones contraídas por particulares o dependencias y entidades públicas con el órgano de Administración Judicial, el Supremo Tribunal de Justicia o el Tribunal de Disciplina Judicial;
 
-El Consejo Interno celebrará sesiones ordinarias cada tres meses, y las extraordinarias que se requieran.
+XXI.- Proponer y solicitar al Órgano de Administración Judicial la expedición de acuerdos generales, reglamentos o la ejecución de resoluciones necesarias para asegurar el adecuado ejercicio de sus funciones;
 
-###### ARTICULO 20.
+XXII.- Revisar las decisiones del Órgano de Administración Judicial, que se refieran a la adscripción de Juezas y Jueces, para el solo efecto de verificar si sus términos se apegaron a lo que dispone la ley;
 
-El Director General del Organismo será nombrado por el Consejo Interno del mismo a propuesta del Gobernador del Estado, quien deberá reunir los siguientes requisitos:
+XXIII.- Definir la integración del Comité de Evaluación del Poder Judicial conforme a las bases previstas en el artículo 109, fracción II, inciso b), de la Constitución Política del Estado de Tamaulipas, y en la Ley Electoral del Estado de Tamaulipas;
 
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+XXIV.- Aprobar por mayoría de seis votos a las personas mejor evaluadas por el Comité de Evaluación del Poder Judicial, para que puedan ser postuladas para los cargos y plazas en la elección judicial del año que corresponda;
 
-II.- Ser mayor de 35 años de edad, profesionista en el área de la salud y haber desempeñado cargos directivos; con conocimientos y experiencia en materia administrativa y de salud pública;
+XXV.- Postular, con posterioridad a la insaculación correspondiente, hasta tres personas por mayoría de seis votos para cada cargo en los casos de Magistradas y Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial;
 
-III.- No tener ninguno de los impedimentos a que se refiere el Artículo 12 de la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes; y
+XXVI.- Postular, con posterioridad a la insaculación correspondiente, hasta dos personas por mayoría de seis votos para cada cargo en los casos de Juezas y Jueces de Primera Instancia y de Juezas y Jueces menores;
 
-IV.- Tener una residencia mínima de cinco años en el Estado de Aguascalientes.
+XXVII.- Imponer amonestaciones o multas hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al día de cometerse la falta, a las y los abogados, las o los agentes de negocios, personas procuradoras o las o los litigantes, cuando en las promociones que hagan ante el Supremo Tribunal de Justicia funcionando en Pleno falten a las normas de convivencia en perjuicio de algún órgano o persona miembro del Poder Judicial del Estado; y
 
-### CAPITULO I. Disposiciones Comunes
+XXVIII.- Las demás facultades y obligaciones que las leyes les otorguen.
 
-###### ARTICULO 21.
+###### ARTÍCULO 26.
 
-El Director General tendrá las siguientes facultades y obligaciones:
+Las renuncias de las y los Magistrados del Supremo Tribunal de Justicia solamente procederán por causas graves y serán aprobadas por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, de la Diputación Permanente.
 
-I.- Ejecutar los acuerdos y disposiciones del Consejo Interno;
+###### ARTÍCULO 27.
 
-II.- Autorizar los actos de autoridad que esta Ley ordene, pudiendo delegar esta facultad en otros servidores públicos, por Acuerdo del Consejo Interno;
+Son causas de retiro forzoso para las Magistradas y los Magistrados del Poder Judicial del Estado:
 
-III.- Presentar al Consejo Interno, los informes y estados financieros trimestrales, acompañados de los comentarios que estime pertinentes respecto a los reportes, informes y recomendaciones que al efecto formule el Comisario;
+I.- Haber cumplido 75 años de edad;
 
-IV.- Presentar al conocimiento y aprobación del Consejo Interno, los planes de trabajo, presupuestos, informes de actividades y estados financieros anuales del Organismo;
+II.- Jubilarse en los términos legales; y
 
-V.- Proponer al Consejo Interno la designación y remoción de los servidores públicos que ocupen cargos en los dos niveles inferiores al Director General, así como nombrar y remover a los demás servidores públicos conforme a los ordenamientos legales aplicables;
+III.- Padecer incapacidad física o mental que los imposibilite para el desempeño de su función.
 
-VI.- Expedir los nombramientos del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales;
+### CAPÍTULO III. DE LA PRESIDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-VII.- Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones del Consejo Interno;
+###### ARTÍCULO 28.
 
-VIII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
+La Presidencia del Supremo Tribunal de Justicia se renovará cada cinco años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la Titularidad a quien alcance mayor votación, observando el principio de paridad.
 
-IX.- Actuar en representación del Organismo, con facultades generales para actos de administración, pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes y, otorgar, sustituir y revocar poderes generales o especiales;
+###### ARTÍCULO 29.
 
-X.- Ejercer los actos que se le ordenen, pudiendo delegar esa facultad en otros servidores públicos, previo acuerdo del Consejo Interno;
+La Presidenta o el Presidente del Supremo Tribunal de Justicia, tiene las atribuciones y obligaciones siguientes:
 
-XI.- Proponer al Consejo Interno las políticas generales del Organismo;
+I.- Representar al Poder Judicial del Estado, en el ámbito de su competencia;
 
-XII.- Vigilar el cumplimiento del objeto del Organismo;
+II.- Servir de conducto en las relaciones del Poder Judicial y los Poderes Legislativo y Ejecutivo, así como con los de la Federación y los del resto de las Entidades Federativas;
 
-XIII.- Formular el anteproyecto de presupuesto anual del Organismo y someterlo a consideración del Consejo Interno;
+III.- Rendir los informes que señalan los artículos 45, párrafo quinto, y 114, Apartado A fracción XII, así como lo que corresponda en términos del artículo 107, párrafo cuarto, de la Constitución Política del Estado de Tamaulipas;
 
-XIV.- Instrumentar los sistemas y procedimientos que permitan la mejor aplicación de los recursos;
+IV.- Someter a consideración del Pleno el anteproyecto anual de presupuesto de egresos del Supremo Tribunal de Justicia, a efecto de que una vez aprobado, sea turnado a la Presidenta o Presidente del Órgano de Administración Judicial, para su inclusión íntegra en el proyecto de presupuesto del Poder Judicial del Estado;
 
-XV.- Proponer al Consejo Interno el Reglamento Interior de Trabajo y los Manuales de Procedimientos y de Servicios al Público;
+V.- Atender la correspondencia del Supremo Tribunal de Justicia con las autoridades locales, de los Estados y de la Federación;
 
-XVI.- Imponer sanciones conforme a la legislación aplicable;
+VI.- Informar al Congreso del Estado en caso de que la falta de una Magistrada o Magistrado exceda de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva;
 
-XVII.- Notificar los acuerdos y resoluciones que emita el Organismo, pudiendo delegar dicha facultad en otros servidores públicos; y
+VII.- Designar a la magistrada o magistrado de número o regionales, que integrará alguna de las Salas Colegiadas en los casos en que, por ausencia de quienes las conforman, así se requiera para alcanzar el quórum necesario para sesionar; y
 
-XVIII.- Las demás que sean necesarias para el ejercicio de las anteriores.
+VIII.- Las demás que las leyes le confieran.
 
-###### ARTICULO 22.
+###### ARTÍCULO 30.
 
-El Organismo contará con un órgano de vigilancia que recaerá en un Comisario Público propietario y un suplente, que deberán ser designados por la Contraloría General del Estado.
+La Presidencia del Supremo Tribunal ejercerá las siguientes funciones:
 
-###### ARTICULO 23.
+I.- Proponer al Pleno el día y hora de las sesiones ordinarias, así como prever la sesión en que deberán oírse los informes de las Magistraturas, respecto de las dependencias y comisiones a su cargo;
 
-El Comisario Público tendrá las siguientes facultades;
+II.- Convocar y presidir las sesiones plenarias del Supremo Tribunal de Justicia; dirigir y moderar los debates, y conservar el orden durante las audiencias;
 
-I.- Evaluar el desempeño general y las funciones realizadas por el Organismo;
+III.- Convocar a sesiones extraordinarias cada vez que lo considere conveniente o sea solicitado por seis o más Magistraturas de Número;
 
-II.- Realizar estudios sobre la eficiencia con la que se ejercieron los desembolsos en los rubros de gasto corriente, de inversión y de ingresos;
+IV.- Constituir apoderados para casos específicos tendentes a la consecución y cumplimiento de las obligaciones a su cargo en la esfera administrativa, cuya motivación quede sustentada en el acuerdo correspondiente;
 
-III.- Solicitar información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones; y
+V.- Proveer lo necesario para hacer cumplir los acuerdos del Supremo Tribunal de Justicia en Pleno;
 
-IV.- Llevar a cabo las funciones y cumplir con las obligaciones que establece la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes y demás disposiciones aplicables.
+VI.- Proponer al Pleno las adscripciones de las y los Magistrados a las Salas;
 
-###### ARTICULO 24.
+VII.- Designar libremente a las y los Magistrados que deben desempeñar las comisiones que se consideren necesarias, delegándoles funciones;
 
-El Organismo aplicará y respetará las Condiciones Generales de Trabajo de la Secretaría de Salud y sus reformas futuras, así como los Reglamentos que de dichas condiciones emanen; entre otros, los de Escalafón y Capacitación; para Controlar y Estimular al Personal de Base de la Secretaría de Salud por su Asistencia, Puntualidad y Permanencia en el Trabajo; para Evaluar y Estimular al Personal de la Secretaría de Salud por su Productividad en el Trabajo y el de Becas, así como el Reglamento y Manual de Seguridad e Higiene, elaborados conforme a la normatividad federal aplicable en sus relaciones laborales con los trabajadores pertenecientes a la Secretaría de Salud, para que esta dependencia proceda a su registro ante los organismos jurisdiccionales correspondientes.
+VIII.- Turnar entre las Magistraturas los asuntos de la competencia del Pleno cuando estime necesario oír su parecer, para acordar un trámite o para que formulen el proyecto de resolución que deba ser discutido por el Pleno;
 
-###### ARTICULO 25.
+IX.- Conceder licencias económicas hasta por quince días, con goce de sueldo o sin él, a las y los Magistrados del Supremo Tribunal de Justicia;
 
-Las relaciones de trabajo entre el Organismo y los trabajadores no contemplados en el artículo anterior se regirán conforme al "Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados".
+X.- Registrar los títulos profesionales de abogadas y abogados, expedidos con arreglo a la Ley de Profesiones del Estado;
 
-###### ARTICULO 26.
+XI.- Remitir al Juez correspondiente los exhortos, rogatorias, suplicatorios, requisitorias y despachos, de acuerdo con el turno que al efecto se lleve;
 
-Los ingresos que obtenga el Instituto de Salud del Estado de Aguascalientes por la prestación de los servicios en materia de salubridad general, quedarán sujetos a lo que se disponga en los Acuerdos de Coordinación celebrados con la Secretaría de Salud del Gobierno Federal y lo que determine la legislación fiscal aplicable.
+XII.- Certificar las firmas de las personas servidoras públicas del Poder Judicial, cuando la ley así lo exija;
 
-Asimismo, los ingresos que se obtengan por los servicios de salubridad local que se presten de acuerdo con los convenios suscritos en términos de esta ley, se afectarán a los mismos conceptos y en la forma que establezca la legislación fiscal aplicable.
+XIII.- Presidir el Instituto de Investigación de la Legislación Procesal;
 
-###### ARTICULO 27.
+XIV.- Llevar la correspondencia del Pleno;
 
-Los pagos que deban efectuarse por concepto de multas por violaciones a esta Ley en materia de salubridad local y general, tienen el carácter de fiscales y se realizarán en las oficinas que se determinen en los Convenios de Coordinación respectivos.
+XV.- Llevar el registro de las asociaciones de abogadas y abogados constituidas o que se constituyan en el Estado;
 
-### CAPITULO II. Atención Médica
+XVI.- Representar al Poder Judicial ante las autoridades de impartición de justicia laboral, cuando se instauren procedimientos de esa materia;
 
-###### ARTICULO 28.
+XVII.- Delegar funciones de representación ante los tribunales del trabajo o administrativos, así como en procedimientos administrativos previstos en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas; y
 
-Corresponde al Ejecutivo del Estado de Aguascalientes por conducto del Instituto de Salud del Estado de Aguascalientes:
+XVIII.- Las demás atribuciones y obligaciones que ésta o cualquiera otra ley le confieran.
 
-A).- EN MATERIA DE SALUBRIDAD GENERAL:
+###### ARTÍCULO 31.
 
-I.- Coordinar el Sistema Estatal de Salud y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
+Para el adecuado cumplimiento de sus atribuciones, obligaciones y funciones, la persona titular de la Presidencia del Supremo Tribunal de Justicia contará con los siguientes órganos auxiliares:
 
-II.- Formular y desarrollar programas locales de salud en el marco de los Sistemas Estatal y Nacional de Salud y de acuerdo con los principios y objetivos de la planeación nacional;
+I.- La Secretaría Técnica de la Presidencia del Supremo Tribunal de Justicia;
 
-III.- Celebrar con la Federación los Acuerdos de Coordinación en materia de Salubridad General, en los términos de la Ley General de Salud y demás disposiciones legales aplicables, para la participación en la prestación de los siguientes servicios:
+II.- La Dirección General Jurídica y Consultiva;
 
-a).- La coordinación, evaluación y seguimiento de los servicios de salud a que se refiere el Artículo 34 fracción II de la Ley General de Salud;
+III.- La Dirección de Implementación de Reformas Procesales; y
 
-b).- El programa contra la farmacodependencia;
+IV.- La Coordinación General de Difusión institucional y Comunicación Social del Supremo Tribunal de Justicia.
 
-c).- El control sanitario de productos y servicios y de su importación y exportación;
+###### ARTÍCULO 32.
 
-d).- El control sanitario del proceso, uso, mantenimiento, importación, exportación y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos;
+La Secretaría Técnica de la Presidencia del Supremo Tribunal de Justicia es un órgano que realiza labores de apoyo y asistencia a la o el Magistrado Presidente del Supremo Tribunal de Justicia, en las actividades oficiales, de control y seguimiento de la correspondencia, agenda y gestión de asuntos competencia del área, manteniendo confidencialidad en el manejo de la información a que tenga acceso.
 
-e).- El control sanitario de los establecimientos dedicados al proceso de los productos incluidos en las fracciones c) y d) anteriores;
+La Secretaría Técnica de la Presidencia del Supremo Tribunal de Justicia estará a cargo de una persona titular, que tendrá como funciones las siguientes:
 
-f).- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere la Ley General de Salud;
+I.- Auxiliar en todo tipo de trabajos de carácter oficial y confidencial, así como participar en la organización de diversos eventos que le sean encomendados por la o el Magistrado Presidente;
 
-g).- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos; y
+II.- Organizar la correspondencia y documentación de carácter general, confidencial, administrativa y técnica, turnarla a las áreas competentes para su atención, y llevar el control de gestión de los asuntos turnados;
 
-h).- La sanidad internacional.
+III.- Manejar y resguardar el archivo ordinario, confidencial y particular de la o el Magistrado Presidente;
 
-IV.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general siguientes:
+IV.- Llevar el control de la agenda de la o el Magistrado Presidente, informándole de manera oportuna los compromisos contraídos;
 
-a).- La atención médica, preferentemente en beneficio de grupos vulnerables;
+V.- Dar seguimiento a los asuntos que le encomiende la o el Magistrado Presidente;
 
-b).- La atención materno-infantil;
+VI.- Preparar la información requerida por la o el Magistrado Presidente para acuerdo;
 
-c).- La planificación familiar;
+VII.- Mantener informado a la o el Magistrado Presidente del grado de avance de los asuntos encomendados, generales y confidenciales;
 
-d).- La salud mental;
+VIII.- Acordar con la o el Magistrado Presidente, los criterios y directrices para el eficaz cumplimiento de los objetivos y tareas que se le encomienden; y
 
-e).- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
+IX.- Las demás que le encomiende la o el Magistrado Presidente, inherentes al cargo.
 
-f).- La promoción de la formación de recursos humanos para la salud;
+La Secretaría Técnica de la Presidencia del Supremo Tribunal de Justicia contará con un cuerpo de servidores públicos que le asistirán en el cumplimiento de sus labores.
 
-g).- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
+###### ARTÍCULO 33.
 
-h).- La información relativa a las condiciones, recursos y servicios de salud;
+La Dirección General Jurídica y Consultiva proporcionará a la o el Magistrado Presidente los servicios de carácter jurídico que requiera en los ámbitos contencioso y consultivo.
 
-i).- La educación para la salud;
+La Dirección General Jurídica y Consultiva tendrá las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- Representar legalmente al Poder Judicial en los actos jurídicos y en los procedimientos en los que intervenga, previo otorgamiento de poder;
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
+II.- Participar en la elaboración de contratos, convenios, proyectos de lineamientos, proyectos normativos y dictámenes del área de su competencia, cuando le sean encomendados por la o el Magistrado Presidente;
 
-j).- La orientación y vigilancia en materia de nutrición, dando mayor importancia a los programas de nutrición destinados a los niños y niñas;
+III.- Proporcionar asesoría a los diversos órganos y áreas del Poder Judicial, desahogando las consultas que los mismos le formulen y, en su caso, emitir los dictámenes, recomendaciones u opiniones jurídicas que resulten pertinentes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV.- Tramitar y dar seguimiento a los juicios o procedimientos en los que intervenga o por razón de su encargo sea parte el Poder Judicial o alguno de los órganos que lo constituyen;
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
+V.- Contribuir con los órganos competentes del Poder Judicial en la revisión y elaboración de las propuestas o proyectos de iniciativas de Leyes, Reglamentos, Acuerdos y demás ordenamientos necesarios para el debido funcionamiento del Poder Judicial;
 
-k).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre, poniendo especial atención a los riesgos que produce la exposición a la radiación ultravioleta y otras similares;
+VI.- Dar a conocer oportunamente a los diversos órganos del Poder Judicial las Leyes de nueva creación y las reformas a los ordenamientos legales en lo concerniente a las funciones de los órganos jurisdiccionales;
 
-l).- La salud ocupacional y el saneamiento básico;
+VII.- Coadyuvar en el cumplimiento de los requerimientos y recomendaciones que en relación al Poder Judicial emitan las Comisiones Nacional y Estatal de Derechos Humanos; y
 
-m).- La prevención y control de enfermedades transmisibles;
+VIII.- Las demás que le encomiende la o el Magistrado Presidente, inherentes al cargo.
 
-n).- La prevención y el control de las enfermedades no transmisibles y accidentes;
+###### ARTÍCULO 34.
 
-o).- La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
+La Dirección de Implementación de Reformas Procesales es el área auxiliar de la Presidencia del Supremo Tribunal de Justicia, de carácter técnico, encargada de integrar y ejecutar las acciones necesarias para poner en marcha las reformas procesales que se encuentren vinculadas con las materias competencia del Poder Judicial.
 
-p).- La asistencia social;
+###### ARTÍCULO 35.
 
-q).- El programa contra el alcoholismo;
+La Dirección de Implementación de Reformas Procesales tendrá las siguientes atribuciones:
 
-r).- El programa contra el tabaquismo;
+I.- Proponer a la Presidencia del Supremo Tribunal de Justicia las políticas, programas y mecanismos necesarios para la instrumentación de una estrategia que tenga por objeto la debida implementación de las reformas procesales que sean de la competencia del Supremo Tribunal de Justicia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II.- Auxiliar a la o el Magistrado Presidente en la ejecución, evaluación y seguimiento de las acciones que se deriven de las políticas, programas y mecanismos señaladas en la fracción anterior;
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
+III.- Coordinar las acciones necesarias con diversas instituciones públicas y privadas para la debida implementación de las reformas procesales; y
 
-s).- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en los reglamentos y normas oficiales mexicanas que al efecto se emitan.
+IV.- Las demás que le encomiende la o el Magistrado Presidente, inherentes al cargo.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+###### ARTÍCULO 36.
 
-En el caso de establecimientos que expidan alimentos y bebidas en las escuelas de educación básica, además verificará que sean de los autorizados en los programas de nutrición;
+La Coordinación General de Difusión institucional y Comunicación Social del Supremo Tribunal de Justicia será la dependencia encargada de cumplir y supervisar las políticas en materia de difusión y protocolo de las actividades del Supremo Tribunal de Justicia y dependerá directamente de la Presidencia.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+###### ARTÍCULO 37.
 
-t).- La creación de una unidad administrativa encargada de recibir, recabar, resguardar y supervisar el cumplimiento de los cuidados paliativos que soliciten los pacientes en etapa terminal en los términos de la ley aplicable a la materia; y
+La persona titular de la Coordinación General de Difusión y Comunicación Social tendrá las facultades que a continuación se establecen:
 
-V.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+I.- Elaborar un programa anual de comunicación social y someterlo a la aprobación de la o el Magistrado Presidente;
 
-B).- EN MATERIA DE SALUBRIDAD LOCAL:
+II.- Diseñar e implementar, previa aprobación de la o el Presidente, las estrategias y políticas de comunicación y difusión;
 
-I.- Dictar las normas oficiales en materia de Salubridad Local;
+III.- Diseñar y coordinar, previa aprobación de la o el Magistrado Presidente, la imagen institucional del Poder Judicial;
 
-II.- Establecer las acciones sanitarias en los límites territoriales con otras Entidades Federativas;
+IV.- Instrumentar acciones dentro del ámbito de su competencia, para generar presencia institucional y posicionamiento estratégico de las actividades que realice el Poder Judicial;
 
-III.- Llevar a cabo los programas y acciones que en materia de Salubridad Local se implanten;
+V.- Realizar y supervisar la promoción y difusión de los eventos organizados por el Poder Judicial;
 
-IV.- Promover, orientar, fomentar y apoyar las acciones en materia de Salubridad Local a cargo de los Municipios, buscando la aportación de recursos humanos y financieros de éstos, con sujeción a las políticas nacional y estatal de salud;
+VI.- Cubrir periodísticamente, los eventos y actividades de la o el Magistrado Presidente y aquellos que éste le determine;
 
-V.- Vigilar, en la esfera de su competencia el cumplimiento de esta Ley y demás disposiciones legales aplicables;
+VII.- Mantener informados a la o el Magistrado Presidente y a las demás magistraturas que lo soliciten, de los sucesos más relevantes a nivel nacional, estatal o municipal, relacionados con la impartición de justicia;
 
-VI.- Ejercer el control sanitario de los siguientes establecimientos y servicios:
+VIII.- Establecer una relación honesta y efectiva con los periodistas y sus medios de comunicación;
 
-a).- Mercados y Centros de Abasto;
+IX.- Realizar encuestas, sondeos de opinión y grupos de enfoque, entre los usuarios del servicio de administración de justicia, para la medición y análisis de la penetración y aceptación de las políticas públicas del Poder Judicial, así como de estar presentes en el conocimiento de la ciudadanía; y
 
-b).- Construcciones, excepto la de los establecimientos de salud;
+X.- Las demás que de la o el Magistrado Presidente, y la normatividad aplicable le confieran.
 
-c).- Servicios funerarios;
+### CAPÍTULO IV. DE LAS SALAS
 
-d).- Limpieza pública;
+###### ARTÍCULO 38.
 
-e).- Agua potable y alcantarillado;
+Para el ejercicio de su función el Supremo Tribunal de Justicia actuará en Pleno, en Salas Colegiadas, Unitarias, Auxiliares y Regionales, mismas que también serán unitarias.
 
-f).- Prostitución;
+Las Salas Colegiadas estarán integradas, por tres personas Magistradas de número, de las cuales una de ellas, por elección de las demás, ocupará su Presidencia, durando en su encargo un año, pudiendo ser reelecta para el período inmediato por una sola vez. Para que la colegiación pueda considerarse válida, bastará la presencia de dos de sus integrantes.
 
-g).- Reclusorios o Centros de Readaptación Social;
+Las Salas Auxiliares y las Salas Regionales serán Unitarias; sin embargo, cuando la necesidad del servicio así lo exija y previa aprobación por mayoría, del Pleno del Supremo Tribunal de Justicia, los Regionales integrarán Sala Colegiada para resolver los asuntos cuya competencia originaria sea de la Sala Colegiada Penal.
 
-h).- Baños públicos;
+La Presidenta o el Presidente de la Sala Colegiada tendrá las siguientes atribuciones:
 
-i).- Centros de reunión y espectáculos
+I.- Dirigir y moderar los debates durante las sesiones de la Sala;
 
-j).- Establecimientos dedicados a la prestación de servicios como peluquerías, salones de belleza y estética;
+II.- Dictar los acuerdos que procedan en el trámite de los asuntos competencia de la Sala;
 
-k).- Tintorerías, lavanderías y planchadurías;
+III.- Preparar, con auxilio de la Secretaria o Secretario de Acuerdos de la Sala, el sorteo de expedientes entre sus integrantes;
 
-l).- Establecimientos para el hospedaje;
+IV.- Calificar las causas de excusa que formulen las magistraturas de la Sala y, en su caso, turnar el asunto a otra ponencia de la misma para que formule el proyecto de resolución; e igualmente conocerá de los procedimientos de recusación que se promuevan contra los propios integrantes, y de proceder la misma turnará a otra ponencia. En ambos supuestos su propia presidencia hará la respectiva compensación con un diverso expediente a la magistrada o magistrado de la excusa o que resulte recusado.
 
-m).- Establecimientos para el almacenamiento y distribución de combustibles;
+Si la excusa la formula la presidencia de la Sala, o contra ésta es la recusación, se designará a otra de las magistraturas que la integra para el solo efecto de que califique la primera o dé tramite a la segunda y, en cualquiera de ambos supuestos, de proceder alguna, aplicar el expediente a otra ponencia y hacer la respectiva compensación. De no existir mayoría el asunto pasará a otra Sala, lo que se informará al Pleno del Tribunal para la reposición con otro expediente.
 
-n).- Transporte estatal y municipal;
+Cuando la excusa o recusación sea de la o el Secretario de Acuerdos y resulte procedente una u otra, será sustituido por la o el Secretario Proyectista que designe la Presidencia de la Sala;
 
-ñ).- Prevención y control de la rabia en animales; y
+V.- Proponer al Pleno la designación y, en su caso, remoción de la Secretaria o Secretario de Acuerdos de Sala;
 
-o).- Las demás materias que determine esta Ley y las disposiciones legales aplicables.
+VI.- Dictar las medidas o acuerdos de trámite urgentes que sean necesarios en el desahogo de los asuntos competencia de la Sala;
 
-###### ARTICULO 29.
+VII.- Despachar la correspondencia oficial de la Sala, rendir los informes previo y justificado, y en general proveer lo que a la misma corresponda, en lo relativo a los juicios de amparo que se promuevan contra las resoluciones de la Sala;
 
-El Ejecutivo Estatal podrá convenir con los Ayuntamientos, con la asesoría de la Secretaría de Salud del Gobierno Federal, la desconcentración o descentralización, en su caso, por parte de éstos, de la prestación de los servicios de salubridad general y los de salubridad local, cuando su desarrollo económico y social lo haga necesario.
+VIII.- Firmar las sentencias, acuerdos de la Sala y actas de sesiones de la misma de manera conjunta con sus demás integrantes ante la fe de la Secretaria o Secretario de Acuerdos;
 
-###### ARTICULO 30.
+IX.- Imponer las correcciones de apercibimiento y multa hasta por el importe de 30 Unidades de Medida y Actualización, a los litigantes, abogados, autorizados, y demás personas que acuden a la Sala y alteren el orden o falten al respeto y consideración a los integrantes de la Sala, ya sea verbalmente o a través de escritos, promociones, conductas o comportamientos inapropiados, que deban ser corregidos; y
 
-Corresponde a los Ayuntamientos:
+X.- Imponer al personal de la Sala, a las Juezas y Jueces, Secretarias y Secretarios, Coordinadoras y Coordinadores de las Centrales de Actuarios, a éstos, así como a otras personas servidoras públicas que intervengan en primera instancia, en asuntos de que conozca con motivo del recurso de apelación, las correcciones disciplinarias de amonestación y multa hasta por el importe de treinta Unidades de Medida y Actualización; sin perjuicio de las que por diversos motivos establezcan las leyes procesales. Si a juicio del magistrado o magistrada la falta fuere grave no impondrá corrección, pero deberá dar vista al Tribunal de Disciplina Judicial.
 
-I.- Asumir sus atribuciones y contribuir con el Organismo en los términos de esta Ley, de las demás que sean aplicables y de los convenios que suscriban con el Ejecutivo del Estado en la materia;
+###### ARTÍCULO 39.
 
-II.- Aportar los recursos humanos, financieros y materiales necesarios para la operación de los servicios que descentralice en su favor el Gobierno del Estado;
+Las y los Magistrados de número actuarán en segunda instancia en forma colegiada para conocer de las apelaciones contra sentencias o de resoluciones que pongan fin al juicio, y de manera unitaria, cuando se trate de apelaciones contra autos o sentencias interlocutorias. En ambos casos se estará además a los acuerdos que al efecto emita el Pleno del Supremo Tribunal. Habrá Salas Unitarias y Colegiadas en materia penal y en materia civil y familiar.
 
-III.- Asumir la administración y/o el financiamiento de los establecimientos de salud que descentralice en su favor el Gobierno del Estado, en términos de las Leyes aplicables y de los convenios respectivos;
+En materia penal, las salas colegiadas deberán conocer del recurso de apelación, en los casos siguientes:
 
-IV.- Cumplir con la normatividad correspondiente a fin de obtener la certificación por parte de la autoridad sanitaria competente de la calidad del agua para uso y consumo humano que distribuya a la población, en los términos de los convenios que celebre con el Ejecutivo del Estado y de conformidad con la normatividad que emita la Secretaría de Salud del Gobierno Federal;
+a) Contra sentencias definitivas dictadas en procesos instruidos por delito grave, cuando la pena privativa de libertad impuesta sea superior a cinco años de prisión;
 
-V.- Expedir reglamentos, circulares y disposiciones administrativas relacionados con los servicios de salud que estén a su cargo;
+b) Cuando el Ministerio Público formule las conclusiones reclasificando el delito como grave en los términos del Código Nacional de Procedimientos Penales y, el juez de primera instancia no lo haya considerado como tal al dictar la sentencia respectiva;
 
-VI.- Formular y desarrollar programas municipales de salud en el marco del Sistema Nacional y Estatal de Salud, siendo exigible la participación de los Consejos Municipales de Salud en ello; y
+c) En los casos en que algún asunto se esté conociendo por algún Magistrado en forma unitaria y a petición de éste se considere que deba conocerse en forma colegiada, en este caso, deberá someterse a la aprobación del Pleno del Supremo Tribunal de Justicia;
 
-VII.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes.
+d) Contra sentencias definitivas en procedimiento abreviado, así como contra las emitidas por el Tribunal de Enjuiciamiento, cuando se trate de delitos cuya pena privativa de libertad impuesta sea superior a cinco años de prisión.
 
-###### ARTICULO 31.
+Contra sentencias definitivas absolutorias sólo conocerán de aquellas previstas como delito de prisión preventiva oficiosa; y
 
-El Gobierno del Estado y los Municipios en el ámbito de sus respectivas competencias y en los términos de los convenios que celebren, darán prioridad a los siguientes servicios sanitarios:
+e) Asimismo, resolverán sobre las solicitudes de reconocimiento de inocencia y anulación de sentencia, a que se refiere el Código Nacional de Procedimientos Penales.
 
-I.- Proporcionar el servicio de agua potable para uso y consumo humano y vigilar su calidad, de conformidad con la normatividad que emita la Secretaría de Salud del Ejecutivo Federal;
+En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
 
-II.- Establecer sistemas de alcantarillado;
+La Sala Especializada en Justicia para Adolescentes atenderá las cuestiones relativas a dicha materia y resolverá los recursos a que se refiere la ley que regula el procedimiento para adolescentes a quienes se atribuya la realización de una conducta tipificada como delito conforme a las leyes del Estado.
 
-III.- Instalación de retretes o sanitarios públicos; y
+Las Salas Colegiadas y las Salas Unitarias, conservarán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados las y los Magistrados que las integren.
 
-IV.- Prestar servicios de limpieza pública y la eliminación de desechos sólidos y líquidos.
+Las Salas Regionales conocerán en segunda instancia del recurso de apelación en materia penal contra autos y resoluciones que el Pleno del Supremo Tribunal de Justicia determine mediante acuerdos generales.
 
-###### ARTICULO 32.
+Las Salas Colegiadas funcionarán de la manera siguiente:
 
-Los Ayuntamientos del Estado en el ámbito de su competencia podrán celebrar entre ellos convenios de coordinación y cooperación sobre materia sanitaria.
+I.- Sesionarán los días y horas que determinen sus integrantes en pleno y sus resoluciones se tomarán por unanimidad o por mayoría de votos. Ninguno de las y los Magistrados integrantes de la Sala podrá abstenerse de votar en las sesiones, a no ser que medie excusa o recusación; bastando la presencia de dos de sus integrantes para que puedan actuar válidamente;
 
-###### ARTICULO 33.
+II.- Realizarán la distribución interna de los asuntos por sorteo, debiendo fungir como ponente la Magistrada o Magistrado al que le hubiera correspondido el asunto;
 
-El Gobierno del Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los Gobiernos de los Estados circunvecinos, en cuestiones que sean de su interés común.
+III.- Emitirán su resolución, previa exposición y discusión del caso con los demás integrantes de la Sala, con base en el proyecto que presente la o el Magistrado ponente;
 
-###### ARTICULO 34.
+IV.- Cuando una Magistrada o Magistrado disienta de la mayoría, podrá formular voto particular, lo que deberá hacerse dentro del término de tres días posteriores a la aprobación del proyecto, insertándose al final de la sentencia dictada.
 
-Los Municipios, conforme a las leyes y disposiciones aplicables, contribuirán con el Organismo en materia de sanidad y, en su caso, podrán promover la desconcentración de los servicios sanitarios básicos de su competencia, a sus correspondientes Comisarías y Delegaciones Municipales.
+Cuando el proyecto de la o del Magistrado ponente fuera rechazado, le será devuelto para que lo modifique de acuerdo al criterio de la mayoría; en caso de no estar de acuerdo con ello, otra Magistrada o Magistrado redactará la resolución que corresponda, quedando el proyecto de la o el Magistrado ponente como voto particular.
 
-###### ARTICULO 35.
+Al presentarse el nuevo proyecto y de no existir mayoría respecto al sentido de la resolución, la Presidenta o Presidente de la misma dará cuenta al Pleno del Supremo Tribunal, al que remitirá los autos, para que disponga su remisión a otra Sala.
 
-La Federación y el Gobierno del Estado, de conformidad con las disposiciones legales aplicables, aportarán los recursos materiales, humanos y financieros que sean necesarios para la operación de los servicios de salubridad general, que queden comprendidos en los acuerdos de coordinación que al efecto se celebren.
+###### ARTÍCULO 40.
 
-Los recursos que aporten las partes quedarán expresamente afectos a los fines del acuerdo respectivo y sujetos al régimen legal que les corresponda. La gestión de los mismos quedará a cargo de la estructura administrativa que establezcan, coordinadamente, la Federación y el Gobierno del Estado.
+Corresponde a las Magistradas y los Magistrados:
 
-###### ARTICULO 36.
+I.- Presentar los proyectos de resolución de los asuntos que les sean asignados, para su discusión y aprobación, en su caso, en la Sala Colegiada correspondiente;
 
-Se entenderá por servicio de salud, todas aquellas acciones que se realicen con el fin de promover, proteger y restaurar la salud de la persona y de la colectividad.
+II.- Proponer al Pleno del Supremo Tribunal de Justicia, el nombramiento de las personas servidoras públicas de la Sala de la que sean titulares;
 
-###### ARTICULO 37.
+III.- Imponer a su personal, así como a Juezas, Jueces, Secretarias, Secretarios y demás personas servidoras públicas que intervengan en primera instancia en el asunto que se conozca con motivo del recurso de apelación, las correcciones disciplinarias que correspondan en términos de la ley adjetiva aplicable a la materia del asunto; en caso de falta grave, dará vista al Órgano de Administración Judicial; y
 
-Los servicios de salud se clasifican en tres tipos, a saber:
+IV.- Las demás que se deriven de la ley.
 
-I.- De atención médica;
+###### ARTÍCULO 41.
 
-II.- De salud pública; y
+La adscripción de las y los Magistrados será determinada por el Pleno del Supremo Tribunal de Justicia. Las Salas contarán con Secretaria o Secretario de Acuerdos, Secretarias o Secretarios Proyectistas, Actuaria o Actuario y el personal subalterno de apoyo que sea necesario, conforme al Presupuesto de Egresos.
 
-III.- De asistencia social.
+###### ARTÍCULO 42.
 
-### CAPITULO III. Prestadores de Servicios de Salud
+Las y los Magistrados no podrán ausentarse del lugar de su adscripción, ni faltar a sus labores en días hábiles, sino por causa de fuerza mayor o justificada, o previo aviso a la Presidenta o Presidente del Supremo Tribunal de Justicia o al Pleno, en su caso. Asistirán al despacho todos los días y horas hábiles que fija esta ley y exigirán a los demás empleados que asistan con la misma puntualidad.
 
-###### ARTICULO 38.
+### CAPÍTULO V. DE LAS MAGISTRATURAS SUPERNUMERARIAS
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+###### ARTÍCULO 43.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+Las y los Magistrados Supernumerarios integrarán Sala cuando así lo requieran las necesidades de la administración e impartición de justicia, previo acuerdo del Pleno del Tribunal.
 
-###### ARTICULO 39.
+###### ARTÍCULO 44.
 
-Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como universalización de cobertura y de colaboración institucional, considerando lo que sugiera la Secretaría de Planeación y Desarrollo Regional.
+Para el despacho de los asuntos que se les encomiende, las y los Magistrados Supernumerarios tendrán cada uno, una Secretaria o Secretario y el personal subalterno de apoyo que señale el presupuesto de egresos.
 
-###### ARTICULO 40.
+En sesión ordinaria deberán rendir al Pleno, informe de sus actividades, y previo acuerdo del Presidente o de la Presidenta, podrán asistir a las sesiones ordinarias o extraordinarias, con voz informativa, sin derecho a voto.
 
-Para los efectos del derecho a la protección de salud, se consideran servicios básicos de salud los referentes a:
+###### ARTÍCULO 45.
 
-I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
+Son atribuciones y obligaciones de las y los Magistrados Supernumerarios:
 
-II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+I.- Integrar Salas Auxiliares en los casos que determine el Pleno, a fin de conocer los asuntos que éste le remita;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+II.- Asistir a las sesiones públicas del Supremo Tribunal de Justicia con voz informativa, sin derecho a voto; y previo acuerdo del Presidente o de la Presidenta, solicitar autorización para asistir a las sesiones privadas, con la obligación de guardar sigilo de los asuntos en ellas tratados;
 
-III.- La atención médica integral, que comprende actividades preventivas, curativas, de rehabilitación y paliativas, incluyendo la atención de urgencias;
+III.- Llevar un registro de las actividades de supervisión y vigilancia de las dependencias administrativas que le sean asignadas;
 
-IV.- La atención materno-infantil;
+IV.- Supervisar y vigilar el desempeño de las dependencias administrativas que le hayan sido asignadas, informando al Pleno de la situación de las mismas; y
 
-V.- La planificación familiar;
+V.- Desempeñar las comisiones y funciones especiales que el Pleno o su Presidencia les encomienden.
 
-VI.- La salud mental;
+### CAPÍTULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-VII.- La prevención y control de las enfermedades bucodentales;
+###### ARTÍCULO 46.
 
-VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
+Son considerados como Juzgados de Primera Instancia:
 
-IX.- La promoción del mejoramiento de la nutrición;
+I.- Los Juzgados de lo Civil;
 
-X.- La asistencia social a los grupos más vulnerables; y
+II.- Los Juzgados de lo Familiar;
 
-XI.- Las demás que establezca esta Ley o disposiciones legales aplicables.
+III.- Los Juzgados de lo Mercantil;
 
-###### ARTICULO 41.
+IV.- Los Juzgados de los Tribunales Laborales;
 
-El Gobierno del Estado de conformidad con las disposiciones legales aplicables, vigilará que las instituciones que presten servicios de salud en la Entidad apliquen el Cuadro Básico de insumos del Sector Salud. Asimismo, dicho Gobierno convendrá con el Gobierno Federal los términos en que las Dependencias y Entidades del Estado que presten servicios de salud, podrán participar en la elaboración del mencionado Cuadro Básico.
+V.- Los Juzgados de lo Penal;
 
-###### ARTICULO 42.
+VI.- Los Juzgados Especializados en Justicia Penal para Adolescentes;
 
-El Gobierno del Estado coadyuvará con las autoridades federales competentes para:
+VII.- Los Juzgados de Ejecución de Sanciones;
 
-I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos; y
+VIII.- Los Juzgados de Ejecución de Medidas para Adolescentes;
 
-II.- Que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
+IX.- Los Juzgados Mixtos;
 
-### CAPITULO IV. Usuarios de los Servicios de Salud y Participación de la Comunidad
+X.- Los Juzgados de Control; y
 
-###### ARTICULO 43.
+XI.- Los Juzgados de Tribunal de Enjuiciamiento.
 
-Se entiende por atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de promover, proteger y restaurar su salud.
+###### ARTÍCULO 47.
 
-###### ARTICULO 44.
+Las Juezas y los Jueces de Primera Instancia serán electos a través del voto libre, directo y secreto de la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda por un periodo de nueve años y podrán ser reelectos: Podrán ser removidos de su cargo en los términos previstos en el Título IV del Capítulo IV de la presente Ley.
 
-Las actividades de atención médica son:
+Para ser electos como Jueza o Juez de Primera Instancia, se requiere cumplir con los requisitos que establece el artículo 117 de la Constitución Política del Estado.
 
-I.- Preventivas, que incluyen las de promoción general y las de protección específica;
+###### ARTÍCULO 48.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+Las y los jueces de Primera Instancia actuarán asistidos por el Secretario correspondiente o quien legalmente sustituya a éste.
 
-II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+###### ARTÍCULO 49.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+Corresponde a las Juezas y los Jueces de lo Civil conocer:
 
-III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas y mentales; y
+I.- De los negocios de jurisdicción voluntaria cuyo conocimiento no corresponda a los jueces de lo Familiar;
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+II.- De los negocios contenciosos que versen sobre propiedad y demás derechos reales sobres inmuebles; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia, en que la competencia corresponde a los Jueces de lo Familiar;
 
-IV.- Paliativas, que incluyen el cuidado integral para conservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
+III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta Unidades de Medida y Actualización, excepto en lo concerniente al derecho familiar y a la materia mercantil, que serán exclusivos de los jueces especializados;
 
-###### ARTICULO 45.
+IV.- De las controversias del orden civil que se susciten entre particulares y los Ayuntamientos;
 
-Para los efectos de esta Ley, los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican en:
+V.- De los interdictos, siempre que no se relacionen con cuestiones familiares;
 
-I.- Servicios públicos a la población en general;
+VI.- De las cuestiones de competencia, excusas y recusaciones de las y los Jueces Menores de su distrito, cuando las leyes así lo dispongan;
 
-II.- Servicios a derechohabientes de la Institución encargada de ofrecer Servicios de Seguridad Social a los Servidores Públicos del Estado y de los Municipios;
+VII.- De los exhortos que les dirijan las y los Jueces de Primera Instancia del Estado y las demás Juezas y Jueces y tribunales de la República;
 
-III.- Servicios sociales y privados sea cual fuere la forma en que se contraten; y
+VIII.- De las diligencias que les encomiende el Supremo Tribunal de Justicia; y
 
-IV.- Otros que se presten de conformidad con lo que establezca el Gobierno del Estado.
+IX.- Desempeñar las demás funciones que les encomienden las leyes federales y las del Estado.
 
-### CAPITULO V. Atención Materno-Infantil
+###### ARTÍCULO 50.
 
-###### ARTICULO 46.
+Las Juezas y los Jueces de lo Familiar conocerán:
 
-Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
+I.- De los negocios de jurisdicción voluntaria relacionados con el Derecho Familiar;
 
-###### ARTICULO 47.
+II.- De los juicios contenciosos relativos al matrimonio, a la ilicitud o nulidad del mismo, al divorcio, incluyendo los que se refieren al régimen de bienes en el matrimonio, de los que tengan por objeto modificaciones o rectificaciones a las actas del estado civil, de los divorcios por mutuo consentimiento, excepto del administrativo, de los que afecten el parentesco, a los alimentos, a la paternidad y a la filiación legítima, natural o adoptiva, de los que tengan por objeto cuestiones derivadas de la patria potestad, procedimientos para designar apoyos extraordinarios a personas con discapacidad y tutela y de las que se refieran a cualquier cuestión relacionada con el patrimonio de la familia, su constitución, disminución, extinción o afectación en cualquier forma;
 
-Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal del Estado y al convenio de coordinación que se celebre en la materia con el Ejecutivo Federal.
+III.- De los juicios sucesorios;
 
-Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
+IV.- De los asuntos judiciales concernientes a otras acciones relativas al estado civil, a la capacidad de las personas y a las derivadas del parentesco;
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social conforme a las disposiciones del Gobierno del Estado.
+V.- De las diligencias de consignación en todo lo relativo al Derecho Familiar;
 
-###### ARTICULO 48.
+VI.- De la diligenciación de los exhortos, suplicatorias, requisitorias y despachos, relacionados con el Derecho Familiar;
 
-Son servicios de derechohabientes, los prestados por la institución a que se refiere la fracción II del Artículo 45 de esta Ley a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus leyes y a sus beneficiarios, los que con sus propios recursos o por encargo del Ejecutivo Estatal preste dicha institución a otros grupos de usuarios.
+VII.- De las cuestiones relativas a adopción, a las que afecten a las niñas, niños, adolescentes e incapacitados en sus derechos de personas y, en general, de todas las cuestiones familiares que reclamen la intervención judicial;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+VIII.- De los registros en que consten los discernimientos de los cargos de tutor, tutora, curadora y curador, los que estarán a disposición de los Consejos Locales de Tutela; y
 
-###### ARTICULO 49.
+IX.- De las diligencias que les encomiende el Tribunal por conducto del Pleno o la Presidencia, y de las demás funciones a que los obliguen las leyes Federales y del Estado.
 
-Son servicios de salud privados los que presten personas físicas o morales en las condiciones que convengan con los usuarios, y sujetadas a los ordenamientos legales, civiles y mercantiles.
+###### ARTÍCULO 51.
 
-Los servicios de salud de carácter social y privado, con excepción del servicio personal independiente, estarán sujetos a las tarifas que establezca la Secretaría de Economía, oyendo la opinión del Instituto de Salud y de los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado.
+Las Juezas y los Jueces de lo Mercantil conocerán de los asuntos de esta materia, previstos por el Código de Comercio y bajo las reglas de competencia que, por razón de cuantía, prevén la citada legislación mercantil, esta Ley y el Código de Procedimientos Civiles vigente en la entidad.
 
-Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos en un mínimo del cinco por ciento de su capacidad.
+El Órgano de Administración Judicial establecerá los Distritos Judiciales donde ejercerán jurisdicción los juzgados de lo mercantil y en los Distritos Judiciales en que el volumen de los negocios lo amerite, dicho Órgano determinará la creación de juzgados especializados en materia de oralidad mercantil.
 
-###### ARTICULO 50.
+###### ARTÍCULO 52.
 
-Son servicios de salud de carácter social los que presten directamente o mediante la contratación de seguros individuales o colectivos los grupos y organizaciones sociales a sus miembros y a los beneficiarios de los mismos.
+Corresponde a las Juezas y los Jueces de lo Penal:
 
-###### ARTICULO 51.
+I.- Conocer las causas criminales conforme a la competencia y a las atribuciones que establecen las leyes;
 
-Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+II.- Cumplimentar los exhortos que les dirijan los Jueces de Primera Instancia en los términos previstos por la ley procesal respectiva;
 
-###### ARTICULO 52.
+III.- Practicar las diligencias que les encomiende el Supremo Tribunal de Justicia;
 
-Los trabajadores de los establecimientos estatales de salud podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables, y podrán opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
+IV.- Visitar mensualmente los establecimientos donde se encuentren recluidos los procesados a su disposición para los efectos del Título Sexto de esta ley;
 
-###### ARTICULO 53.
+V.- Conocer de los delitos contra la salud en la modalidad de narcomenudeo previstos por el artículo 474 de la Ley General de Salud, aplicando en todo lo conducente, las disposiciones del Código Nacional de Procedimientos Penales y en los casos que proceda el Código de Procedimientos Penales para el Estado, y de manera supletoria el Código Federal de Procedimientos Penales;
 
-El Gobierno del Estado y los Municipios podrán convenir con las Instituciones Federales de Seguridad Social, la prestación de servicios de salud para sus trabajadores.
+VI.- Conocer de los delitos electorales conforme a lo establecido en la Ley General en Materia de Delitos Electorales, y del delito de secuestro conforme a lo establecido en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, aplicando en lo conducente, las disposiciones del Código Nacional de Procedimientos Penales y en los casos que proceda el Código de Procedimientos Penales para el Estado, y de manera supletoria el Código Federal de Procedimientos Penales; y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+VII.- Desempeñar las demás funciones que les encomienden las leyes federales y las del Estado.
 
-###### ARTICULO 54.
+###### ARTÍCULO 53.
 
-El Gobierno del Estado y la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la Salud, en la prestación de los servicios respectivos.
+Corresponde a las Juezas y los Jueces Especializados en Justicia para Adolescentes, en los términos de la ley de la materia:
 
-Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, orientarán con las autoridades de salud en la supervisión del ejercicio profesional de sus agremiados.
+I.- Conocer de las conductas tipificadas como delito en las leyes penales del Estado atribuidas a adolescentes conforme a la competencia en los términos de la ley de la materia;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+II.- Recabar la declaración preparatoria del adolescente a quien se le atribuya la comisión de una conducta tipificada como delito en las leyes penales del Estado;
 
-###### ARTICULO 55.
+III.- Realizar las acciones conducentes para que le sea designado un defensor de oficio al adolescente desde el momento en el que sea puesto a su disposición;
 
-El organismo coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud; asimismo estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+IV.- Garantizar los derechos fundamentales y específicos del adolescente detenido, asegurándose de que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, así como las demás que apliquen a su situación;
 
-Es obligatorio que los profesionales, técnicos y auxiliares de la salud que ejerzan en el Estado de Aguascalientes, estén debidamente registrados ante el Instituto de Salud del Estado.
+V.- Informar de inmediato al adolescente, a sus padres, tutores o quien ejerza la patria potestad y al defensor de aquél sobre la situación jurídica del caso, así como los derechos que les asisten;
 
-El registro y su refrendo, se llevará a cabo en las oficinas del Instituto de Salud del Estado y se solicitará junto con los siguientes documentos:
+VI.- Otorgar a la o el adolescente, a sus padres, tutoras o tutores o quien ejerza la patria potestad y a su parte defensora, toda la información que conste en el registro del procedimiento y que soliciten para garantizar una efectiva defensa;
 
-a).- Solicitud de Registro;
+VII.- Conceder la libertad bajo caución al adolescente, en los casos y con los requisitos determinados en la ley;
 
-b).- Original y copia del Título que acredite el nivel académico de conocimientos;
+VIII.- Cuando resulte procedente, fomentar la conciliación de las partes a través de las formas alternativas de justicia, pudiendo hacer uso de la mediación para la solución de la conducta tipificada como delito por las leyes penales;
 
-c).- Original y copia de la Cédula Profesional;
+IX.- Realizar, cuando resulte procedente, todas aquellas diligencias solicitadas por la o el adolescente, sus padres, tutoras, tutores o quien ejerza la patria potestad o su parte defensora para el esclarecimiento de los hechos;
 
-d).- Constancia del domicilio en donde se presentarán los servicios médicos;
+X.- Vigilar que el cumplimiento de las medidas se apliquen con base en los principios rectores determinados en la sentencia definitiva, ejecutándose en sus términos, salvaguardando el debido proceso legal y demás derechos y garantías que asisten al adolescente infractor;
 
-e).- Original y copia de la constancia de grado de especialidad, en su caso; y
+XI.- Conocer del delito de secuestro atribuido al adolescente conforme a lo establecido en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria del artículo 73, fracción XXI, de la Constitución Política de los Estados Unidos Mexicanos, aplicando en lo conducente las disposiciones de la Ley de Justicia para Adolescentes del Estado y, de manera supletoria, el Código Federal de Procedimientos Penales; y
 
-f).- Original y copia de la cédula de especialidad, en su caso.
+XII.- Desempeñar las demás funciones que les encomienden las leyes federales y del Estado.
 
-El refrendo del registro será cada tres años, y para su trámite se deberán presentar los siguientes documentos:
+###### ARTÍCULO 54.
 
-a).- Solicitud de Refrendo;
+Corresponde a las Juezas y los Jueces de Ejecución de Sanciones las atribuciones siguientes:
 
-b).- Copia de la constancia de haber tomado como mínimo un curso por año de actualización y/o capacitación en el área médica de su competencia.
+I.- Dar por compurgadas las penas y medidas de seguridad impuestas por sentencia definitiva, en los términos que la impuso la o el Juez de la causa, ordenar la libertad de los sentenciados que las hubieran cumplido, restituyéndolo en el goce de sus derechos suspendidos;
 
-Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, informarán al Instituto de Salud acerca de las altas y bajas de sus integrantes, así como de los datos generales de cada asociado, de la misma forma podrán gestionar los registros y refrendos de sus integrantes ante el Instituto sin cobro alguno.
+II.- Modificar las penas y medidas de seguridad impuestas por sentencia firme, en los términos que establezcan las leyes;
 
-###### ARTICULO 56.
+III.- Conceder el otorgamiento o denegación de la terminación anticipada de las penas o medidas de seguridad impuestas en la sentencia definitiva;
 
-Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables
+IV.- Solicitar a las autoridades carcelarias copias de la carpeta de ejecución de cada sentenciado, así como los informes que necesite para concederle o negarle la modificación o terminación anticipada de la pena o medida de seguridad impuesta;
 
-###### ARTICULO 57.
+V.- Visitar periódicamente los Centros de Ejecución de Sanciones con los fines siguientes:
 
-Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+a) Entrevistarse con los internos para escuchar las solicitudes que presenten; y
 
-###### ARTICULO 58.
+b) Realizar las diligencias para desahogar las pruebas o testimonios, ofrecidos por la parte interesada y así estar en aptitud de conceder o negar la modificación o terminación anticipada de la pena o medida de seguridad impuesta al sentenciado;
 
-Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
+VI.- Resolver lo siguiente:
 
-###### ARTICULO 59.
+a) La modificación o terminación anticipada de las penas o medidas de seguridad impuestas en sentencia firme, o el otorgamiento de cualquier beneficio de libertad anticipada, libertad preparatoria, remisión parcial de la pena, libertad definitiva o alguna otra pena en externamiento; y
 
-El Organismo establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y los servicios sociales y privados en el Estado.
+b) La revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, cuando proceda conforme a la ley;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+VII.- Hacer comparecer ante su presencia a los sentenciados y las autoridades de ejecución para cumplir con sus funciones;
 
-###### ARTICULO 60.
+VIII.- Librar las órdenes de detención que procedan en ejecución de la sentencia, cuando le haya sido revocado algún beneficio; y
 
-Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los profesionales de la salud.
+IX.- Las demás atribuciones que esta ley y otros ordenamientos le asignen.
 
-Los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, podrán coadyuvar con las autoridades sanitarias, mediante la recepción de quejas y denuncias, la investigación de las mismas y la presentación de propuestas de solución. Asimismo, tratándose de miembros, tomarán las medidas internas, conforme a sus propios estatutos.
+###### ARTÍCULO 55.
 
-###### ARTICULO 61.
+Corresponde a las Juezas y los Jueces de Ejecución de Medidas para Adolescentes las atribuciones siguientes:
 
-Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o que alguna persona requiera de la prestación urgente de servicios de salud, cuidarán, por los medios a su alcance, que los mismos sean trasladados a los establecimientos de salud más cercanos, en los que puedan recibir atención inmediata sin perjuicio de su posterior remisión a otras instituciones.
+I.- Dar por cumplida la medida impuesta al adolescente por sentencia definitiva, en los términos que la impuso la o el Juez de la causa, ordenando el externamiento de quienes las hubieran cumplido, restituyéndolo en el goce de sus derechos suspendidos;
 
-###### ARTICULO 62.
+II.- Modificar las medidas impuestas por sentencia firme a las y los adolescentes, en los términos que establezcan las leyes y tratados internacionales;
 
-De conformidad con lo que señalen las disposiciones generales aplicables, los agentes del Ministerio Público que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
+III.- Conceder el otorgamiento o denegación de la terminación anticipada de las medidas impuestas en la sentencia definitiva;
 
-###### ARTICULO 63.
+IV.- Solicitar a las autoridades administrativas copias de la carpeta de cada adolescente que se encuentre cumpliendo alguna medida por sentencia firme, así como los informes que necesite para concederle o negarle la modificación o terminación anticipada de la medida impuesta;
 
-La participación de la comunidad en los programas de prevención y protección de la salud y en la prestación de los servicios respectivos, tendrá por objeto fortalecer la estructura y funcionamiento de los sistemas de salud e incrementar el mejoramiento de nivel de salud de la población del Estado.
+V.- Visitar periódicamente los Centros de Reintegración Social y Familiar para los Adolescentes, con los fines siguientes:
 
-###### ARTICULO 64.
+a) Entrevistarse con los adolescentes para escuchar las solicitudes que le presenten; y
 
-La comunidad podrá participar en los servicios de salud de los sectores público, social y privado a través de las siguientes acciones:
+b) Realizar diligencias para desahogar las pruebas o testimonios ofrecidos por la parte interesada, y así estar en aptitud de conceder o negar la modificación o terminación anticipada de la medida impuesta al adolescente;
 
-I.- Llevar a cabo la promoción de hábitos y estilos de vida saludables que contribuyan a proteger la salud o a solucionar problemas de salud, e intervención en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes;
+VI.- Resolver lo siguiente:
 
-II.- La colaboración en la prevención o tratamiento de problemas ambientales vinculados a la salud;
+a) El otorgamiento de cualquier beneficio de medida en externamiento; y
 
-III.- En la incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
+b) La revocación de cualquier beneficio concedido a los adolescentes por cualquier autoridad jurisdiccional, cuando proceda conforme a la ley;
 
-IV.- En la notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
+VII.- Hacer comparecer ante su presencia a las y los sentenciados y las autoridades encargadas de la ejecución de las medidas para cumplir con sus funciones;
 
-V.- En la formulación de sugerencias para mejorar los servicios de salud;
+VIII.- Librar las órdenes de detención que procedan en ejecución de la sentencia, cuando le haya sido revocado al adolescente algún beneficio; y
 
-VI.- En la información a las autoridades sanitarias acerca de los efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos;
+IX.- Las demás atribuciones que esta ley y otros ordenamientos le asignen.
 
-VII.- En la información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud; y
+###### ARTÍCULO 56.
 
-VIII.- En otras actividades que coadyuven a la protección de la salud.
+En los Distritos Judiciales en que el volumen de los negocios no amerite que los Juzgados se especialicen por materia, funcionarán Juzgados Mixtos, incluida la materia Familiar.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+###### ARTÍCULO 57.
 
-### CAPITULO VI. Servicios de Planificación Familiar
+Las Juezas y los Jueces Mixtos tendrán las atribuciones y funciones que las leyes señalen para los Juzgados de lo Civil, Mercantil, Penal y/o Familiar.
 
-###### ARTICULO 65.
+El Órgano de Administración Judicial especificará, en función a las necesidades del servicio, las materias cuya competencia se asigne a los Juzgados Mixtos.
 
-El Instituto de Salud del Estado de Aguascalientes y demás Instituciones de Salud Estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de discapacidad y de rehabilitación de personas con discapacidad, así como en los cuidados paliativos.
+###### ARTÍCULO 58.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+En los distritos o regiones judiciales donde hubiere recargo de negocios o expedientes, el Órgano de Administración Judicial podrá crear nuevos Juzgados, los cuales conocerán de los asuntos que éste les asigne. El acuerdo de creación correspondiente deberá publicarse en el Periódico Oficial del Estado y en los estrados judiciales.
 
-###### ARTICULO 66.
+###### ARTÍCULO 59.
 
-Para los efectos del artículo anterior, en las cabeceras municipales, se constituirán Comités de Salud con carácter de honoríficos que podrán ser integrados por núcleos de población urbana o rural, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica y social y mantenimiento de unidades.
+Todas las Juezas y los Jueces de Primera Instancia tendrán jurisdicción mixta para conocer de aquellos asuntos que les corresponda por recusación de otro juzgador.
 
-Asimismo, se podrán constituir subcomités para la atención de programas específicos en el ámbito municipal, de carácter temporal o permanente.
+###### ARTÍCULO 60.
 
-###### ARTICULO 67.
+En los distritos judiciales en que exista más de un Juzgado del mismo ramo, los negocios judiciales de su competencia serán turnados de acuerdo con el mecanismo que establezca el Órgano de Administración Judicial a la Oficialía de Partes respectiva, y serán radicados en el Juzgado que corresponda.
 
-Los Ayuntamientos con sujeción en las disposiciones legales aplicables, en coordinación con las instituciones de salud y las autoridades educativas competentes, tendrán la responsabilidad de organizar los Comités a que se refiere el artículo anterior y de que cumplan los fines para los que sean creados.
+###### ARTÍCULO 61.
 
-###### ARTICULO 68.
+Las Juezas y los Jueces de Primera Instancia no podrán ausentarse de la cabecera de su distrito ni faltar a sus labores, sino por causa de fuerza mayor o justificada o previo permiso de la Presidenta o del Presidente del Supremo Tribunal de Justicia o del Pleno en su caso.
 
-Se concede acción popular para denunciar ante las autoridades sanitarias del Estado todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población.
+###### ARTÍCULO 62.
 
-La acción popular podrá ejercitarse por cualquier persona, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
+Las Juezas y los Jueces de Primera Instancia asistirán al despacho todos los días y horas hábiles que fija esta ley y exigirán a los demás empleados que asistan con la misma puntualidad.
 
-###### ARTICULO 69.
+###### ARTÍCULO 63.
 
-La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
+Son obligaciones de las Juezas y los Jueces:
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+I.- Acordar y dictar sentencia de manera oportuna, fundada y motivada, con sujeción a las normas aplicables en cada caso;
 
-II.- La atención del niño y la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
+II.- Remitir diariamente al Supremo Tribunal de Justicia copia de la lista de acuerdos, así como el archivo digital correspondiente, a la Dirección de Informática a través de la Red Estatal de Telecomunicaciones del Poder Judicial, antes de las ocho horas con treinta minutos del día siguiente, a efecto de que se publique la citada información en la página web del Supremo Tribunal de Justicia;
 
-III.- La promoción de la integración y del bienestar familiar.
+III.- Cuidar del orden y la disciplina, imponiendo las correcciones que procedan, conforme a la ley procesal respectiva;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+IV.- Excusarse en los casos previstos por la ley;
 
-###### ARTICULO 70.
+V.- Acatar sin demora las ejecutorias y requerimientos de sus superiores;
 
-En los servicios de salud se promoverá la organización institucional de comités de carácter estatal o municipal de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes, en todo el estado, en alguna región, municipio o sector específico.
+VI.- Residir en el lugar de su adscripción;
 
-###### ARTICULO 71.
+VII.- Cumplimentar los exhortos, despachos y requisitorias que reciban de otras autoridades, de acuerdo con lo que al efecto disponga la ley procesal respectiva;
 
-La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+VIII.- Cursar la correspondencia del Juzgado;
 
-### CAPITULO VII. Salud Mental
+IX.- Reunirse con las y los Jueces Menores de su adscripción trimestralmente y cuando así se le requiera, a efecto de conocer de la problemática propia de su función y proporcionarles la orientación adecuada; vigilar que los mismos concurran al despacho con la puntualidad debida y realizar visitas para tal efecto cuantas veces lo estime necesario; en los distritos judiciales en que existan varios jueces de primera instancia la Presidenta o el Presidente del Supremo Tribunal de Justicia determinará quien cumplirá con esta obligación;
 
-###### ARTICULO 72.
+X.- Ordenar la remisión oportuna al Archivo Judicial del Estado, de los expedientes a que se refiere esta ley;
 
-En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado de Aguascalientes establecerán:
+XI.- Practicar las diligencias que les encomienden el Pleno del Supremo Tribunal de Justicia, las y los Magistrados de las Salas Colegiadas, Unitarias o Regionales y las autoridades judiciales de la Federación y rendir los informes que al efecto les soliciten;
 
-I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
+XII.- Verificar que la o el Secretario de Acuerdos del juzgado cumpla con las obligaciones que la presente Ley le impone, así como las derivadas de los diversos ordenamientos legales; y
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil; y
+XIII.- Las demás que les señalen las leyes, les encomiende el Pleno del Supremo Tribunal de Justicia o la Presidenta o el Presidente de éste.
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
+###### ARTÍCULO 64.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Los Juzgados de Primera Instancia, para el despacho de los negocios, contarán con al menos el siguiente personal:
 
-###### ARTICULO 73.
+I.- El número de Secretarias o Secretarios de Acuerdos que determine el Órgano de Administración Judicial, tomando en consideración el presupuesto de egresos a ejercer y el volumen de asuntos judiciales que se tramiten en cada distrito, y actuarán en la rama o ramas que se señale al hacer su adscripción;
 
-Las autoridades sanitarias estatales, municipales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+II.- Las y los Secretarios para proyectos de sentencia, y demás tareas que el Juez les encomiende, cuando el Pleno lo estime necesario y lo apruebe el Órgano de Administración Judicial;
 
-I.- Los programas para padres destinados a promover la atención materno-infantil;
+III.- Las y los Actuarios, cuando el volumen de negocios lo amerite a juicio del Órgano de Administración Judicial. En caso contrario, la o el Secretario llevará a cabo las diligencias que deban practicarse fuera del Juzgado o de ser necesario la el (sic) Juez podrá autorizar a uno de los escribientes del Juzgado para que actúe como tal;
 
-II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+IV.- Un o una archivista; y
 
-III.- La vigilancia de actividades ocupaciones (sic) que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+V.- Las y los Oficiales Judiciales que determine la Presidencia del Supremo Tribunal de Justicia, de acuerdo al volumen de negocios del juzgado y lo apruebe el Órgano de Administración Judicial.
 
-IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de escretas; y
+Las y los trabajadores de las fracciones I, II, III y IV tendrán, por su naturaleza, el carácter de trabajadoras y trabajadores de confianza.
 
-V.- Las demás que coadyuven a la salud materno-infantil.
+### CAPÍTULO VII. DE LOS JUZGADOS MENORES
 
-### CAPITULO I. Disposiciones Generales
+###### ARTÍCULO 65.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+El Órgano de Administración Judicial determinará el número de Juezas y Jueces Menores, la naturaleza y la materia en que han de impartir justicia.
 
-###### ARTICULO 83 Bis 1.
+###### ARTÍCULO 66.
 
-El Régimen Estatal de Protección Social en Salud es un mecanismo por el cual el Estado garantizará el acceso efectivo, oportuno, de calidad, sin desembolso al momento de utilización y sin discriminación a los servicios médico-quirúrgicos, farmacéuticos y hospitalarios que satisfagan de manera integral las necesidades de salud, mediante la combinación de intervenciones de promoción de la salud, prevención, diagnóstico, tratamiento y de rehabilitación, seleccionadas en forma prioritaria según criterios de seguridad, eficacia, costo, efectividad, adherencia a normas éticas profesionales y aceptabilidad social.
+Las Juezas y los Jueces Menores serán electos a través del voto libre, directo y secreto de la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda por un periodo de nueve años y podrán ser reelectos: Solo podrán ser removidos de su cargo en los términos previstos en el Título XI de la Constitución Política del Estado de Tamaulipas.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Para ser electos como Jueza o Juez Menores, se requiere cumplir con los requisitos que establece el artículo 117 de la Constitución Política del Estado.
 
-###### ARTICULO 83 Bis 2.
+###### ARTÍCULO 67.
 
-El Régimen Estatal de Protección Social en Salud se establecerá mediante la implementación de un seguro popular, que beneficie a las familias y personas que no sean derechohabientes de las instituciones de seguridad social o no cuenten con algún otro mecanismo de previsión social en salud.
+Corresponde a las Juezas y los Jueces Menores, lo siguiente:
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+I.- Conocer de los negocios civiles y mercantiles por el importe hasta ciento cincuenta Unidades de Medida y Actualización; exceptuando los asuntos que son de la competencia de los jueces de primera instancia;
 
-###### ARTICULO 83 Bis 3.
+II.- De conflictos entre vecinos de casa habitación o entre condóminos, cuando de acuerdo con la ley no corresponda conocer a diversa autoridad y la naturaleza de la diferencia tenga carácter patrimonial no mayor a cien Unidades de Medida y Actualización;
 
-Como mínimo se deberán contemplar los servicios de consulta externa en el primer nivel de atención, así como de consulta externa y hospitalización para las especialidades básicas de: medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, en el segundo nivel de atención.
+III.- De conflictos entre miembros de una familia que no sean competencia de la Jueza o Juez Familiar o no constituyan conductas delictuosas;
 
-Asimismo el Régimen Estatal de Protección Social en Salud deberá considerar, al menos, los aspectos siguientes:
+IV.- De conflictos de carácter personal, siempre y cuando, de acuerdo con otra ley, no corresponda conocer a diversa autoridad;
 
-I.- Prestaciones orientadas a la prevención y el fomento del autocuidado de la salud;
+V.- De los asuntos civiles de su competencia que les sean propuestos por las partes, con carácter conciliatorio, absteniéndose de externar opinión sobre el fondo del caso;
 
-II.- Aplicación de exámenes preventivos;
+VI.- Ordenar y cuidar que se lleve correctamente el registro en los libros para el servicio de la oficina;
 
-III.- Programación de citas para consultas;
+VII.- Remitir al Pleno del Órgano de Administración de Justicia, dentro de los primeros ocho días de cada mes, un informe de labores del mes anterior respecto al estado procesal de los asuntos de su competencia;
 
-IV.- Atención personalizada;
+VIII.- Cumplimentar los exhortos, despachos y comisiones que reciban de sus superiores o de otros Juzgados en los términos previstos por la ley procesal respectiva o de las instrucciones recibidas; y
 
-V.- Integración de expedientes clínicos;
+IX.- Conocer de aquellos asuntos que determine el Pleno del Órgano de Administración Judicial.
 
-VI.- Continuidad de cuidados mediante mecanismos de referencia y contrarreferencia;
+###### ARTÍCULO 68.
 
-VII.- Prescripción y surtimiento de medicamentos; y
+Las Juezas y los Jueces Menores actuarán con una Secretaria o Secretario que designará el Supremo Tribunal de Justicia y el personal de apoyo que fuere necesario, conforme al Presupuesto de Egresos.
 
-VIII.- Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.
+###### ARTÍCULO 69.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Para ser Secretaria o Secretario se requiere:
 
-###### ARTICULO 83 Bis 4.
+I.- Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos;
 
-Atendiendo a la disponibilidad presupuestal corresponde al Instituto de Salud del Estado, a través del Régimen Estatal de Protección Social en Salud:
+II.- No haber sido condenado por delito intencional; y
 
-I.- Proveer los servicios de salud en los términos de este Título, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
+III.- Aprobar los exámenes y evaluaciones que previamente determine y disponga el Órgano de Administración Judicial, con apoyo de la Escuela Judicial de Tamaulipas. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-II.- Identificar e incorporar a beneficiarios al Régimen Estatal de Protección Social en Salud, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en su entidad, conforme a los lineamientos establecidos para tal efecto por la Secretaría de Salud;
+###### ARTÍCULO 70.
 
-III.- Aplicar de manera transparente y oportuna los recursos que sean transferidos por la Federación y las aportaciones propias, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para el efecto se celebren;
+Los Juzgados Menores tendrán la plantilla de las y los empleados que señale el presupuesto respectivo.
 
-IV.- Programar los recursos que sean necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento conforme a las prioridades que se determinen en la Entidad, en congruencia con el plan maestro que se elabore en el ámbito nacional por la Secretaría de Salud;
+###### ARTÍCULO 71.
 
-V.- Recibir, administrar y ejercer las cuotas familiares de los beneficiarios del Régimen Estatal de Protección Social en Salud, así como los demás ingresos que en razón de frecuencia en uso de los servicios o especialidad o para el surtimiento de medicamentos asociados, se impongan de manera adicional en los términos de la Ley General;
+Son aplicables a las y los Secretarios de los Juzgados Menores en lo conducente, las disposiciones contenidas en el artículo 81 de esta ley.
 
-VI.- Realizar el seguimiento operativo de las acciones del Régimen Estatal de Protección Social en Salud y la evaluación de su impacto, proveyendo a la Federación la información que para el efecto le solicite;
+### CAPÍTULO VIII. DE LA SECRETARÍA GENERAL DE ACUERDOS
 
-VII.- Adoptar esquemas de operación que mejoren la atención, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la certificación de establecimientos de atención médica;
+###### ARTÍCULO 72.
 
-VIII.- Proporcionar a la Secretaría de Salud la información relativa al ejercicio de recursos transferidos, así como la correspondiente a los montos y rubros de gasto; y
+La Secretaria o el Secretario General de Acuerdos del Supremo Tribunal de Justicia tendrá las atribuciones y obligaciones siguientes:
 
-IX.- Promover la participación de los municipios mediante la suscripción de convenios, de conformidad con la legislación aplicable.
+I.- Dar cuenta de los asuntos pendientes de estudio y resolución;
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+II.- Asentar las actas correspondientes a cada sesión plenaria, consignando en ellas todo aquello que oficialmente se relacione con la misma, incluso las proposiciones particulares que hagan las y los Magistrados y el acuerdo que se tome; debiendo recoger en dichas actas, previa lectura y aprobación, las firmas de las y los Magistrados;
 
-###### ARTICULO 74.
+III.- Ser conducto entre el Supremo Tribunal de Justicia o la Presidenta o el Presidente del mismo y las Juezas o los Jueces y los particulares;
 
-En materia de higiene escolar, corresponde al Gobierno del Estado, aplicar las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado. Las autoridades educativas y sanitarias estatales se coordinarán para vigilancia en la aplicación de las mismas.
+IV.- Dar fe de los actos del Pleno del Supremo Tribunal de Justicia;
 
-La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales, municipales y educativas competentes.
+V.- Abrir la correspondencia y dar cuenta inmediata a la Presidenta o el Presidente, con preferencia de aquellos asuntos que por su naturaleza requieran un acuerdo extraordinario;
 
-###### ARTICULO 75.
+VI.- Firmar la correspondencia que se dirija a los tribunales inferiores y a los particulares;
 
-La planificación familiar tiene carácter prioritario. En sus actividades se debe incluir la información y orientación educativa para los adolescentes y jóvenes. Asimismo, para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años o bien después de los 35, así como la conveniencia de espaciar los embarazos y reducir su número; todo ello, mediante una correcta información sobre la paternidad responsable, a través de métodos de control natal artificiales y naturales, la cual debe ser oportuna, eficaz y completa a la pareja.
+VII.- Certificar con su firma las copias cuya expedición acuerde el Supremo Tribunal de Justicia, la Presidenta o el Presidente, en los asuntos de su respectiva competencia;
 
-Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
+VIII.- Ejercer las funciones de Secretaria o Secretario de Sala, respecto de los asuntos en los que le toque actuar como Secretaria o Secretario de la Magistrada o el Magistrado Presidente;
 
-Quienes practiquen esterilización, implanten métodos anticonceptivos, o propicien el aborto sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
+IX.- Revisar que los expedientes y testimonios que recibe para substanciar el recurso de apelación sean legibles y que se hayan cumplido todas las formalidades antes de ser enviados por los Juzgados de origen; y
 
-### CAPITULO II. De los Beneficiarios
+X.- Las demás funciones que le encomiende esta ley y las procesales respectivas.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+###### ARTÍCULO 73.
 
-###### ARTICULO 83 Bis 5.
+La Secretaria o el Secretario General de Acuerdos será auxiliado en sus funciones por dos Subsecretarías que deberán reunir los mismos requisitos, y contará además con el personal de apoyo necesario que determine el Órgano de Administración Judicial.
 
-Gozarán de los beneficios del Régimen Estatal de Protección Social en Salud las familias cuyos miembros en lo individual satisfagan los siguientes requisitos:
+### CAPÍTULO IX. DE LAS SECRETARIAS O SECRETARIOS DE ACUERDOS DE SALA
 
-I.- Ser residentes en el Estado;
+###### ARTÍCULO 74.
 
-II.- No ser derechohabientes de la seguridad social;
+Para ser Secretaria o Secretario General de Acuerdos, Subsecretaria o Subsecretario General de Acuerdos, Secretaria o Secretario de Acuerdos de Sala Colegiada de Sala Unitaria o Secretaria o Secretario Proyectista de Sala o de Juzgado, se requiere:
 
-III.- Contar con Clave Unica de Registro de Población;
+I.- Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos;
 
-IV.- Cubrir las cuotas familiares correspondientes, en los términos establecidos por esta Ley; y
+II.- Tener veinticinco años, cuando menos, el día de su designación;
 
-V.- Cumplir con las obligaciones establecidas en este Título.
+III.- Ser Licenciada o Licenciado en Derecho o su equivalente, con título registrado en el Supremo Tribunal de Justicia;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+IV.- Tener práctica profesional de tres años cuando menos, contados a partir de la obtención de la licenciatura para ejercer la profesión;
 
-###### ARTICULO 83 Bis 6.
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y
 
-Los beneficiarios del Régimen Estatal de Protección Social en Salud participarán en su financiamiento con cuotas familiares que se determinarán con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en la forma y fechas que determine el organismo, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema de Protección Social en Salud.
+VI.- Aprobar los exámenes y evaluaciones que previamente determine y disponga el Órgano de Administración Judicial con el apoyo de la Escuela Judicial de Tamaulipas. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-Las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse a períodos subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
+###### ARTÍCULO 75.
 
-La carencia de ingresos no podrá ser limitantes (sic) para el acceso al Régimen Estatal de Protección Social en Salud.
+Las Secretarias o los Secretarios de Acuerdos de Sala tendrán las siguientes obligaciones y atribuciones:
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+I.- Dar cuenta, dentro de las veinticuatro horas siguientes a su recepción, de los negocios asignados a su Sala y de los escritos que los interesados presenten;
 
-###### ARTICULO 83 Bis 7.
+II.- Vigilar, bajo su responsabilidad, que se despachen los asuntos dentro de los términos de ley, asentando las constancias respectivas en autos;
 
-El Régimen Estatal de Protección Social en Salud proveerá de manera integral los servicios de salud y los medicamentos asociados, sin exigir cuotas distintas a las establecidas, siempre que los beneficiarios cumplan con sus obligaciones y se cuente con suficiencia presupuestal.
+III.- Llevar en forma electrónica, a través del Sistema de Gestión Judicial, el libro en el que se registran los negocios de la sala, el cual se denominará “Libro de Gobierno”; así como los demás libros electrónicos que determine el Órgano de Administración Judicial, en los que se asienten los diversos movimientos de la Sala tales como comunicaciones procesales, exhortos, despachos, requisitorias, amparos, entre otros;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+IV.- Vigilar la conducta de los empleados subalternos, dando cuenta inmediata a la Magistrada o Magistrado respecto de las faltas que observe;
 
-###### ARTICULO 83 Bis 8.
+V.- Certificar con su firma las copias cuya expedición se acuerde por la Magistrada o el Magistrado;
 
-Los beneficiarios del Sistema de Protección Social en Salud tienen derecho a recibir bajo ningún tipo de discriminación los servicios de salud, los medicamentos y los insumos esenciales requeridos para el diagnóstico y tratamiento de los padecimientos, en las unidades médicas acreditadas de su elección del Régimen Estatal de Protección Social en Salud.
+VI.- Dar fe y refrendar con su firma las resoluciones que se dicten por la Magistrada o el Magistrado;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+VII.- Dar cuenta inmediata de las resoluciones que por su urgencia así lo ameriten;
 
-###### ARTICULO 83 Bis 9.
+VIII.- Utilizar el Sistema Electrónico de Gestión Judicial y supervisar el uso de éste por el personal adscrito a la Sala para la realización del trabajo diario; y
 
-Los beneficiarios del Régimen Estatal de Protección Social en Salud tendrán además de los derechos establecidos en el artículo anterior, condicionada a la disponibilidad presupuestal, los siguientes:
+IX.- Las demás que les confiera la Ley, el Pleno del Supremo Tribunal de Justicia, su Presidenta o Presidente, o la Magistrada o el Magistrado a cuya Sala esté adscrito.
 
-I.- Recibir servicios integrales de salud;
+### CAPÍTULO X. DE LAS SECRETARIAS Y SECRETARIOS PROYECTISTAS
 
-II.- Acceso igualitario a la atención;
+###### ARTÍCULO 76.
 
-III.- Trato digno, respetuoso y atención de calidad;
+El Supremo Tribunal de Justicia tendrá Secretarias o Secretarios Proyectistas adscritos a la Presidencia, a las Salas y a los Juzgados, que serán designados por el Órgano de Administración Judicial. La función de las Secretarias y los Secretarios Proyectistas será elaborar los proyectos de resolución o realizar cualquier otra función pertinente que su superior inmediato ordene.
 
-IV.- Recibir los medicamentos que sean necesarios y que correspondan a los servicios de salud;
+###### ARTÍCULO 77.
 
-V.- Recibir información suficiente, clara, oportuna y veraz, así como la orientación que sea necesaria respecto de la atención de su salud y sobre los riesgos y alternativas de los procedimientos diagnósticos, terapéuticos y quirúrgicos que se le indiquen o apliquen;
+El Órgano de Administración Judicial podrá adscribir libremente a las y los Secretarios Proyectistas a la Presidencia o a las Salas, según lo estime conveniente y podrá comisionarlos a cualquiera de los Juzgados de Primera Instancia del Estado, cuando la carga de trabajo así lo amerite o cuando la ausencia prolongada de una Jueza o de un Juez pueda originar demora en las resoluciones judiciales.
 
-VI.- Contar con su expediente clínico;
+### CAPÍTULO XI. DE LAS ACTUARIAS O ACTUARIOS
 
-VII.- Decidir libremente sobre su atención;
+###### ARTÍCULO 78.
 
-VIII.- Otorgar o no su consentimiento válidamente informado y a rechazar tratamientos o procedimientos;
+El Supremo Tribunal de Justicia contará con Actuarias y Actuarios adscritos al Pleno, a la Presidencia y a las Salas; y los Juzgados podrán tener, para el cumplimiento de sus funciones, la o las personas actuarias que determine el Órgano de Administración Judicial.
 
-IX.- Ser tratado con confidencialidad;
+Para ser actuario se requiere cumplir los requisitos establecidos en el artículo 73 de esta ley.
 
-X.- Contar con facilidades para obtener una segunda opinión;
+###### ARTÍCULO 79.
 
-XI.- Recibir atención médica en urgencias;
+Las Actuarias o Actuarios de las diversas dependencias del Poder Judicial tendrán las siguientes atribuciones y obligaciones:
 
-XII.- Recibir información sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y obtención de servicios de atención médica;
+I.- Recibir de las y los Secretarios de Acuerdos los expedientes con notificaciones personales u otras diligencias que deben llevarse a cabo fuera de la oficina, firmando las constancias respectivas;
 
-XIII.- No cubrir cuotas de recuperación específicas por cada servicio que reciban;
+II.- Hacer las notificaciones personales y practicar las diligencias que se ordenen, dentro de las horas hábiles del día, y devolver los expedientes con el acta circunstanciada de la diligencia, haciendo previamente las anotaciones en el libro respectivo;
 
-XIV.- Presentar quejas ante los Regímenes Estatales de Protección Social en Salud o ante los servicios estatales de salud, por la falta o inadecuada prestación de servicios establecidos en este Título, así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas, y
+III.- Ejecutar las determinaciones cuando para ello sea necesaria su intervención, limitándose estrictamente a los términos del mandamiento respectivo;
 
-XV.- Ser atendido cuando se inconforme por la atención médica recibida.
+IV.- Levantar, al momento de la diligencia, las actas correspondientes, y agregarlas al expediente, haciendo constar en ellas todos los incidentes de la diligencia y las razones que en contra de ésta le expongan las o los interesados, sin suspenderla por ningún motivo, salvo los casos expresamente previstos por la ley, debiendo en todo caso dar cuenta sin demora a la Jueza o Juez; y
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+V.- Las demás que les confieran la ley, el Pleno del Supremo Tribunal de Justicia, su Presidenta o Presidente, la Magistrada o el Magistrado de la Sala a que esté adscrito o, en su caso, la Jueza o el Juez.
 
-###### ARTICULO 83 Bis 10.
+###### ARTÍCULO 80.
 
-Los beneficiarios del Régimen Estatal de Protección Social en Salud tendrán las siguientes obligaciones:
+En los distritos en que existan dos o más Juzgados de la misma materia se establecerá una Central de Actuarias y Actuarios, que deberá organizar el turno de las diligencias de manera aleatoria y llevará un control de las notificaciones realizadas por las personas Actuarias, así como de los gastos de conducción. Su organización deberá preverse en el reglamento correspondiente.
 
-I.- Adoptar conductas de promoción de la salud y prevención de enfermedades;
+### CAPÍTULO XII. DE LAS SECRETARIAS Y SECRETARIOS DE ACUERDOS
 
-II.- Hacer uso de la credencial que los acredite como beneficiarios como documento de naturaleza personal e intransferible y presentarla siempre que se requieran servicios de salud;
+###### ARTÍCULO 81.
 
-III.- Informarse sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y servicios de atención médica;
+Son atribuciones y obligaciones de las y los Secretarios de Acuerdos de los Juzgados:
 
-IV.- Colaborar con el equipo de salud, informando verazmente y con exactitud sobre sus antecedentes, necesidades y problemas de salud;
+I.- Recibir los escritos que se les presenten, asentando al calce la razón del día y hora de la recepción, de las fojas que contengan y de los documentos que se acompañen; asimismo deberán poner razón idéntica en la copia, cuando se exhiba, la que sellada y firmada se devolverá al interesado;
 
-V.- Cumplir las recomendaciones, prescripciones, tratamiento o procedimiento general al que haya aceptado someterse;
+II.- Dar cuenta diariamente a la Jueza o el Juez bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la de la presentación, de todos los escritos y promociones de los interesados, así como de los oficios y demás documentos que se reciban en el Juzgado;
 
-VI.- Informarse acerca de los riesgos y alternativas de los procedimientos terapéuticos y quirúrgicos que se le indiquen o apliquen, así como de los procedimientos de consultas y quejas;
+III.- Llevar en forma electrónica, a través del Sistema de Gestión Judicial, el libro en el que se registran los negocios del Juzgado, el cual se denominará “Libro de Gobierno”;
 
-VII.- Cubrir oportunamente las cuotas familiares y reguladoras que, en su caso, se le fijen;
+IV.- Llevar en forma electrónica, a través del Sistema de Gestión Judicial, los demás libros que determine el Órgano de Administración Judicial, en los que se asienten los movimientos del Juzgado tales como comunicaciones procesales, exhortos, requisitorias, amparos, entre otros;
 
-VIII.- Dar un trato respetuoso al personal médico, auxiliar y administrativo de los servicios de salud, así como a los otros usuarios y sus acompañantes;
+V.- Autorizar las resoluciones, exhortos, despachos y diligencias que se practiquen, dicten y firmen por la Jueza o el Juez;
 
-IX.- Cuidar las instalaciones de los establecimientos de salud y colaborar en su mantenimiento;
+VI.- Expedir las copias certificadas que la ley determine o deban darse a las partes en virtud de mandamiento judicial;
 
-X.- Hacer uso responsable de los servicios de salud; y
+VII.- Cuidar que los expedientes sean debidamente foliados al agregarse cada una de las hojas, sellando y rubricando al margen, por sí mismo, las actuaciones, oficios y demás documentos que lo requieran;
 
-XI.- Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
+VIII.- Cuidar que en el archivo del Juzgado se conserven escrupulosamente los expedientes, inventariándolos y autorizar su consulta a las y los interesados;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+IX.- Igualmente, autorizar el envío de expedientes al Archivo Judicial o al superior, en su caso, y entregarlos con las formalidades legales cuando deba tener lugar la remisión;
 
-###### ARTICULO 83 Bis 11.
+X.- Practicar notificaciones personales en el local del Juzgado;
 
-La cobertura del Régimen Estatal de Protección Social en Salud será suspendida de manera temporal a cualquier familia beneficiaria en los siguientes casos:
+XI.- Realizar las notificaciones personales y diligencias, en auxilio de las y los actuarios, en los casos que la Jueza o el Juez así lo determine;
 
-I.- Cuando no cubra las cuotas familiar o reguladora en la forma y fechas que determine la instancia competente, en su caso; y
+XII.- Asentar en los expedientes las certificaciones, constancias y demás razones que prevenga la ley o la Jueza o el Juez ordene;
 
-II.- Cuando el principal sostén de la familia beneficiaria se incorpore a alguna institución de seguridad social federal o estatal.
+XIII.- Asistir a las diligencias de prueba que deba recibir la Jueza o el Juez;
 
-La cuota familiar amparará a los beneficiarios en el caso de que suceda la suspensión y la reincorporación a los beneficios del Régimen Estatal de Protección Social en Salud en un mismo ejercicio presupuestal.
+XIV.- Guardar en el secreto del Juzgado los valores, pliegos, escritos y documentos, cuando así lo disponga la ley o lo ordene la Jueza o el Juez;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+XV.- Despachar sin demora los asuntos y correspondencia del Juzgado;
 
-###### ARTICULO 83 Bis 12.
+XVI.- Conservar en su poder el sello del Juzgado;
 
-Se cancelarán los beneficios del Régimen Estatal de Protección Social en Salud y la posibilidad de reincorporación, cuando cualquier miembro de la familia beneficiaria:
+XVII.- Suplir a la Jueza o el Juez en sus ausencias temporales y en las definitivas, hasta en tanto el Supremo Tribunal de Justicia haga una nueva designación;
 
-I.- Realice acciones en perjuicio de los propósitos que persiguen el Régimen Estatal de Protección Social en Salud o afecte los intereses de terceros;
+XVIII.- Vigilar la conducta de las y los empleados subalternos, dando cuenta inmediata a la Jueza o el Juez respecto de las faltas que observe;
 
-II.- Haga mal uso de la identificación que se le haya expedido como beneficiario; y
+XIX.- Ejercer, bajo su responsabilidad, la vigilancia que sea necesaria en la oficina para evitar la pérdida de los expedientes o documentos que obren en los mismos;
 
-III.- Proporcione información falsa sobre su nivel de ingreso en el estudio socioeconómico para determinar su cuota familiar y sobre su condición laboral o derechohabiencia de la seguridad social.
+XX.- Asumir el carácter de jefa o jefe inmediato administrativo del Juzgado, y dirigir las labores internas de la oficina de acuerdo con las instrucciones de la Jueza o el Juez;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+XXI.- Utilizar el Sistema Electrónico de Gestión Judicial y supervisar el uso de éste por el personal adscrito al Juzgado para la realización del trabajo diario; y
 
-###### ARTICULO 83 Bis 13.
+XXII.- Las demás que les confiera esta ley o los demás ordenamientos legales, el Pleno del Supremo Tribunal de Justicia, su Presidenta o Presidente o la Jueza o el Juez.
 
-En los casos en que se materialicen los supuestos a que se refieren los artículos anteriores, los interesados conservarán los beneficios del Régimen Estatal de Protección Social en Salud hasta por un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiendo transcurrido este plazo, podrán acceder a los servicios de salud disponibles en los términos y condiciones que establece esta Ley.
+### CAPÍTULO I. DE LA DESIGNACIÓN
 
-###### ARTICULO 76.
+## TÍTULO CUARTO. DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER JUDICIAL DEL ESTADO
 
-Los servicios de planificación familiar comprenden:
+### CAPÍTULO II. DE LA RESIDENCIA, VACACIONES Y LICENCIAS
 
-I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
+###### ARTÍCULO 82.
 
-II.- La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
+Sin perjuicio de lo dispuesto en la Constitución Política del Estado y, en esta propia ley, en cuanto a la elección popular de las Magistradas y los Magistrados, de las Juezas y de los Jueces, se establece en el estado la Carrera Judicial, la que se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. El Órgano de Administración Judicial con el apoyo de la Escuela Judicial se encargará de su desarrollo y fortalecimiento.
 
-III.- La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores público, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con la política establecida por el Consejo Nacional de Población;
+###### ARTÍCULO 83.
 
-IV.- El apoyo y fomento de la investigación en materia de métodos de control natal, subfertilidad humana, planificación familiar y biología de la reproducción humana;
+En todo lo referente a las y los servidores públicos judiciales, las vacantes definitivas, las provisionales con duración mayor de treinta días y los puestos de nueva creación, serán ocupadas por quienes se encuentren en la categoría escalafonaria que corresponda, tomando en cuenta su aptitud, antigüedad, servicios prestados y cumplimiento en su función.
 
-V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar; y
+Los nombramientos de las y los servidores públicos judiciales se extenderán a favor de personas letradas, con capacidad y honestidad relevantes que justifiquen la continuidad en el cargo y que acrediten haber cursado y aprobado los programas implementados por el área correspondiente del Órgano de Administración Judicial, así como obtener calificación aprobatoria y haber sido seleccionados en el examen de méritos para el cargo.
 
-VI.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
+Se procurará que en la designación se siga el escalafón conforme al siguiente orden de categorías, sin menoscabo de la mejor capacidad, cualidades personales y morales de quienes no estén ubicados en el mismo:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+I.- Secretaria o Secretario General de Acuerdos del Supremo Tribunal de Justicia, Secretarias o Secretarios de Acuerdos de las Salas Colegiadas y Unitarias, Secretarias o Secretarios Proyectistas y Actuarias o Actuarios del mismo tribunal;
 
-###### ARTICULO 77.
+II.- Subsecretaria o Subsecretario de Acuerdos del Supremo Tribunal de Justicia;
 
-Los Comités y subcomités de Salud a que se refiere el Artículo 66 de esta Ley, promoverán que en sus poblaciones y localidades se impartan pláticas de orientación en materia de planificación familiar y educación sexual, que estén de acuerdo a la dignidad humana y a los valores familiares de nuestra sociedad, sin menoscabo del ejercicio de la paternidad responsable. Las instituciones de Salud y educativas brindarán, al efecto, el apoyo necesario.
+III.- Secretarias o Secretarios de Acuerdos, Secretarias o Secretarios Proyectistas y Actuarias o Actuarios de los Juzgados de Primera Instancia;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+IV.- Secretarias o Secretarios y Actuarias o Actuarios de los Juzgados Menores; y, V.- Oficiales Judiciales.
 
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
+###### ARTÍCULO 84.
 
-###### ARTICULO 78.
+En el supuesto de que no se cuente con la persona idónea se designará a quien, aún cuando no preste sus servicios en la judicatura, lo haya hecho con anterioridad con eficiencia y probidad que consten en su expediente laboral, o por personas que sean merecedoras de la designación por su honorabilidad, competencia y antecedentes, y que en todo caso haya aprobado satisfactoriamente el examen de méritos para el cargo.
 
-El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales y municipales de salud.
+###### ARTÍCULO 85.
 
-###### ARTICULO 79.
+Los nombramientos de las personas servidoras públicas podrán ser impugnados por escrito ante el Órgano de Administración Judicial dentro de los diez días siguientes en que hayan sido hechos, por quien se considere con mayor derecho al cargo. Del escrito de inconformidad se dará vista a la persona servidora designada para que exprese lo que a su interés convenga en un término que no exceda de tres días; la resolución que corresponda se dictará en los siete días siguientes al en que concluya la vista precisada a la persona que fue nombrada.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores de riesgo que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+###### ARTÍCULO 86.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+La Secretaria o el Secretario y las Subsecretarias o los Subsecretarios de Acuerdos del Supremo Tribunal, las y los Secretarios de Acuerdos de Sala, las y los Secretarios Proyectistas, las y los Actuarios y las y los Secretarios de los Juzgados de Primera Instancia y Menores, serán designados por el Órgano de Administración Judicial.
 
-###### ARTICULO 80.
+###### ARTÍCULO 87.
 
-Para la promoción de la salud mental, el Organismo y las Instituciones de Salud en coordinación con las autoridades federales, estatales y municipales competentes en cada materia, fomentarán y apoyarán:
+Toda persona nombrada para desempeñar algún cargo o empleo judicial, deberá protestar cumplir y hacer cumplir, sin limitaciones, la Constitución Federal, la del Estado y las leyes secundarias. Comenzará a ejercer las funciones que le correspondan dentro de los cinco días siguientes a la fecha del nombramiento, en el concepto de que quedará sin efecto si no se presenta dentro de este término, salvo que el titular de la Sala o Juzgado, previa solicitud, amplíe el plazo.
 
-I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+### CAPÍTULO III. DE LAS INCOMPATIBILIDADES E INCAPACIDADES
 
-II.- La difusión de las orientaciones para la promoción de la salud mental;
+###### ARTÍCULO 88.
 
-III.- La realización de programas para prevención del abuso del alcohol y del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o adiciones (sic); y
+Las y los servidores públicos judiciales deben residir en el lugar donde tenga su asiento el órgano jurisdiccional a que estén adscritos, excepto en el caso de Municipios conurbados en el que podrán residir en cualquiera de ellos. Sólo podrán ausentarse en días y horas hábiles del distrito judicial que les corresponda, previa licencia que les sea otorgada por quien competa.
 
-IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+###### ARTÍCULO 89.
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+Las y los servidores públicos judiciales disfrutarán de dos períodos anuales de vacaciones de quince días naturales cada uno, con goce de sueldo. El Órgano de Administración Judicial fijará las fechas en cada caso. En los Juzgados del Ramo Penal, Mixtos y Menores en relación con dicha materia, La Jueza o el Juez designará al personal de guardia, el cual disfrutará del beneficio en las fechas que al efecto determinará el Órgano de Administración Judicial.
 
-###### ARTICULO 81.
+###### ARTÍCULO 90.
 
-La atención de las enfermedades mentales comprende:
+Las y los empleados del Poder Judicial tienen derecho a una licencia sin goce de sueldo hasta por seis meses, prorrogables si el Órgano de Administración Judicial considera justificada la petición, siempre que no afecte a la administración de la justicia.
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas; y
+###### ARTÍCULO 91.
 
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+Las licencias solamente podrán concederse al personal de base conforme a las reglas siguientes:
 
-### CAPITULO III. Formación, Capacitación y Actualización del Personal
+I.- Hasta por seis meses sin goce de sueldo. En este caso normará la decisión, el tiempo de servicios del solicitante;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+II.- Hasta por tres meses con goce de sueldo, por causa de enfermedad; y,
 
-## TITULO CUARTO. DISTRIBUCION DE COMPETENCIAS
+III.- Hasta por treinta días con goce de sueldo, cuando a juicio del Órgano de Administración Judicial, el desempeño de la persona servidora pública, su capacidad y antigüedad, le haga merecedora de ese beneficio.
 
-### CAPITULO UNICO
+### CAPÍTULO IV. DE LA REMOCIÓN Y DE LA SUSPENSIÓN DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN DE JUSTICIA
 
-###### ARTICULO 82.
+###### ARTÍCULO 92.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+Ningún nombramiento de la administración de justicia o auxiliar de ésta podrá recaer en ascendientes, descendientes, cónyuge o colaterales dentro del cuarto grado por consanguinidad, o segundo por afinidad de la funcionaria o funcionario que haga la designación. La inobservancia de este precepto impedirá que surta efectos el nombramiento e implicará responsabilidad para la persona servidora pública que lo incumplió.
 
-A tal efecto, podrán obtener orientación y asesoramiento en las Instituciones Públicas dedicadas a la atención de enfermos mentales.
+###### ARTÍCULO 93.
 
-###### ARTICULO 83.
+No podrá recaer nombramiento de administración de justicia en ministros o representantes de cultos o personas con enfermedades o discapacidades tales que dificulten seriamente el desempeño de las funciones inherentes, ni en aquellas personas de quienes se conozcan adicciones que les impidan cumplir con su encargo a criterio del Órgano de Administración Judicial.
 
-El Organismo conforme a la normatividad vigente, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+### CAPÍTULO V. DE LA INHABILITACIÓN Y SUSTITUCIÓN
 
-A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+###### ARTÍCULO 94.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Las Magistradas y los Magistrados del Poder Judicial, y las los (sic) integrantes del Órgano de Administración Judicial serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de la Constitución Política del Estado.
 
-###### ARTICULO 84.
+Las y los demás servidores públicos judiciales podrán ser removidos de su cargo por el Tribunal de Disciplina Judicial, mediante el procedimiento correspondiente, cuando:
 
-En el Estado, el ejercicio de las profesiones, de las actividades técnicas auxiliares y de las especialidades para la salud, estará sujeto a:
+I.- Cometan falta grave, o cuando reincidan en actos u omisiones sin haber atendido a las observaciones o amonestaciones que se les hagan por faltas disciplinarias que deban guardar conforme a esta ley, o cuando así se determine por incurrir en alguna de las faltas contempladas en la Ley de Responsabilidades Administrativas; o,
 
-I.- La Ley Federal de Profesiones;
+II.- Padezcan incapacidad física o mental que les impida el desempeño de su función.
 
-II.- La Ley de Profesiones del Estado de Aguascalientes;
+###### ARTÍCULO 95.
 
-III.- Las bases de coordinación que, conforme a la Ley, se definan entre las autoridades educativas y sanitarias del Estado;
+La suspensión de las Juezas y los Jueces y demás personas servidoras públicas del Poder Judicial procederá, en su caso:
 
-IV.- Los convenios que al efecto se suscriban entre el Gobierno del Estado y la Federación; y
+I.- Por declararse que ha lugar a formación de causa;
 
-V.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
+II.- Por corrección disciplinaria cuando hubiere motivo legal para ello; o
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+III.- Por estar sujeto a proceso administrativo de queja por causa grave a juicio del Tribunal de Disciplina Judicial.
 
-###### ARTICULO 85.
+###### ARTÍCULO 96.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina alópata y homeópata, salud pública, optometría, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Las Juezas o los Jueces procesados percibirán durante la suspensión la parte de sueldo que determine el Órgano de Administración Judicial, no debiendo exceder de la mitad ni bajar de la cuarta parte.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio, clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, podología, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+Si fueren absueltos o se sobresea la causa, deberá reintegrarse la totalidad de sus sueldos que habrían percibido.
 
-Los profesionales, técnicos y auxiliares de la salud deben registrarse en el Instituto de Salud del Estado e informar a éste del domicilio en donde ejerzan sus actividades y de los cambios del mismo.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-Los colegios y asociaciones de profesionales, técnicos y auxiliares de la salud deberán registrarse ante el Instituto de Salud del Estado, informando a éste del padrón de integrantes de los agremiados, manteniendo actualizada la información acerca de las altas y bajas.
+###### ARTÍCULO 97.
 
-###### ARTICULO 86.
+En caso de impedimento o excusa de Magistradas o Magistrados en asuntos que deba resolver el Supremo Tribunal de Justicia en Pleno, cuando se desintegre la mayoría, la sustitución para el solo efecto de conocer el asunto que motive la causa legal del impedimento, la hará la Presidenta o el Presidente mediante la designación de un Magistrada o Magistrado Regional.
 
-Las autoridades educativas del Estado proporcionarán a las autoridades sanitarias estatales la relación de títulos, diplomas y certificados del área de la salud que hayan registrado y la de cédulas profesionales expedidas, así como la información complementaria sobre la materia que sea necesaria.
+###### ARTÍCULO 98.
 
-En el caso que exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere el párrafo anterior.
+En caso de ausencia de la o el Presidente del Supremo Tribunal de Justicia que no requiera licencia, será suplido por la Magistrada o Magistrado que haya obtenido el segundo lugar en la votación. Si la ausencia es menor a seis meses y requiere licencia, la Magistrada o Magistrado en segundo lugar asumirá la Presidencia de manera interina. No obstante, si la ausencia de la Presidenta o el Presidente supera dicho plazo, el Magistrada o Magistrado que ocupó el segundo lugar en la votación ejercerá el cargo por un plazo de cinco años.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Las ausencias temporales de las y los Magistrados Presidentes de Sala, serán suplidas por la Magistrada o el Magistrado que los demás integrantes designen de entre ellos. En caso de ausencia definitiva, se comunicará al Congreso o, en sus recesos, a la Diputación Permanente para los efectos previstos en el artículo 109 de la Constitución Política del Estado. En tanto se hace la elección correspondiente, se cubrirá por la Magistrada o Magistrado de la Sala Regional que designe la Presidenta o el Presidente del Supremo Tribunal de Justicia.
 
-###### ARTICULO 87.
+En sus faltas temporales, las y los Magistrados de Número de las Salas Unitarias y de las y los Magistrados Auxiliares serán suplidos por la Presidenta o el Presidente del Supremo Tribunal de Justicia; las faltas temporales de las y los Magistrados de las Salas Regionales serán suplidas por las Secretarias y los Secretarios de Acuerdos respectivos.
 
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán poner a la vista del público su título, certificado o diploma y el número de la cédula profesional y de especialidad, en su caso. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que de sus servicios realicen, pudiendo incorporar además, el colegio o asociación a la que pertenecen.
+###### ARTÍCULO 99.
 
-Asimismo se deberá atender a lo establecido en la Ley General de Salud, al Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica y demás disposiciones legales aplicables.
+Las faltas temporales de la Secretaria o el Secretario General de Acuerdos serán suplidas por la Subsecretaria o el Subsecretario más antiguo en el cargo y, a falta de éste, por la persona que al efecto designe la Presidencia.
 
-### CAPITULO UNICO
+###### ARTÍCULO 100.
 
-###### ARTICULO 88.
+Las faltas temporales de Secretarias o Secretarios de Acuerdos de Sala Unitaria serán suplidas por la o el Secretario que designe el titular de la misma; tratándose de Secretarias o Secretarios de Acuerdos de Sala Colegiada serán suplidas por la o el Secretario que designe su Presidenta o Presidente. Lo anterior regirá también para los casos de excusa o recusación.
 
-Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social en los términos de las disposiciones legales aplicables en materia educativa y de las de esta ley.
+###### ARTÍCULO 101.
 
-###### ARTICULO 89.
+Las faltas temporales de las Juezas y los Jueces de Primera Instancia serán suplidas por la Secretaria o el Secretario más antiguo. Lo mismo se observará en caso de falta definitiva en tanto se hace la elección conforme al artículo 109 de la Constitución Política del Estado.
 
-Los aspectos docentes de la prestación del servicio social se regularán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorgan las disposiciones que rigen su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
+###### ARTÍCULO 102.
 
-La operación de los programas en los establecimientos de salud del Estado se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias estatales.
+Cuando se trate de excusas o impedimento: de Juezas o Jueces de Primera Instancia, conocerá del negocio de que se trate la Jueza o el Juez del mismo ramo más cercano territorialmente y, cuando por cualquier causa ello no fuere posible o existiere duda, el que designe el Supremo Tribunal de Justicia en Pleno.
 
-###### ARTICULO 90.
+###### ARTÍCULO 103.
 
-Para los efectos de la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias del Estado y las educativas, con la participación que corresponda a otras dependencias competentes.
+Las faltas temporales de las y los Secretarios de Acuerdos de los Juzgados de Primera Instancia y Juzgados Menores serán suplidas por otro si lo hubiere, en orden de antigüedad. A falta de Secretaria o Secretario suplente la sustitución se hará por el Oficial Judicial que la Jueza o el Juez designe.
 
-###### ARTICULO 91.
+Lo dispuesto en el párrafo anterior será aplicable en caso de excusa o recusación de una Secretaria o Secretario.
 
-La prestación del servicio social de los pasantes de las profesiones para la salud, se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención, prioritariamente en áreas urbanas y rurales de menor desarrollo económico y social del Estado.
+Cuando no pueda suplirse a la Secretaria o el Secretario en la forma prevista en los párrafos anteriores, la Jueza o el Juez actuará con dos testigos de asistencia.
 
-Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación con las instituciones educativas y de salud, definirán los mecanismos para que los pasantes de las profesiones para la salud participen en la organización y operación de los Comités de Salud a que alude el Artículo 66 de esta Ley.
+###### ARTÍCULO 104.
 
-### CAPITULO I. Disposiciones Comunes
+Las faltas temporales de las Juezas o los Jueces Menores, hasta por treinta días, serán suplidas por la Secretaria o el Secretario, quien actuará con testigos de asistencia. Si la falta fuere definitiva se comunicará al Congreso, o en su receso, a la Diputación Permanente para los efectos del artículo 109 de la Constitución Política del Estado.
 
-###### ARTICULO 92.
+###### ARTÍCULO 105.
 
-El Gobierno del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Aguascalientes, de conformidad con las disposiciones legales del Estado aplicables al ejercicio profesional.
+En los casos de excusa o impedimento de Juezas o Jueces Menores, la Jueza o el Juez de Primera Instancia del distrito judicial a que corresponda el impedido, designará, si hubiere otro u otros Jueces Menores en la misma municipalidad, a cualquiera de ellos; si no lo hubiere, a la Secretaria o al Secretario del propio Juzgado y, en caso de no ser posible, la sustitución se hará con la Jueza o el Juez del lugar más próximo.
 
-###### ARTICULO 93.
+###### ARTÍCULO 106.
 
-Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, recomendarán normas y criterios para la formación de recursos humanos para la salud.
+Las faltas temporales de los servidores públicos no comprendidos en los artículos anteriores, serán cubiertas por las personas que designe la Presidenta o el Presidente del Supremo Tribunal de Justicia.
 
-Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
+## TÍTULO QUINTO. DEL TRIBUNAL DE DISCIPLINA JUDICIAL
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPÍTULO II. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-### CAPITULO II. Educación para la Salud
+###### ARTÍCULO 107.
 
-###### ARTICULO 94.
+El Tribunal de Disciplina Judicial es un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir resoluciones, que tiene por objeto la investigación, substanciación y resolución de los procedimientos de responsabilidades administrativas de las y los servidores públicos del poder judicial.
 
-Corresponde al Gobierno del Estado, sin perjuicio de las atribuciones de las autoridades educativas en la materia y en coordinación con éstas:
+De igual forma, el Tribunal de Disciplina Judicial es el órgano del Poder Judicial del Estado, encargado de la evaluación y seguimiento del desempeño de las Juezas y los Jueces de Primera Instancia y Menores y, el encargado de resolver los conflictos entre el Poder Judicial del Estado y sus servidoras y servidores públicos, así como los que se susciten entre el Supremo Tribunal del Estado y sus empleados y empleadas.
 
-I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de Salud;
+El Tribunal de Disciplina Judicial funciona en Pleno y en Comisiones y contará con los órganos auxiliares que resulten necesarios para el desempeño de sus atribuciones.
 
-II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
+###### ARTÍCULO 108.
 
-III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
+El Tribunal de Disciplina Judicial se integra por cinco personas electas por la ciudadanía conforme al procedimiento establecido en el artículo 109 de la Constitución Política del Estado.
 
-IV.- Promover la participación voluntaria, a través de los colegios o asociaciones, o de manera individual, de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas; y
+Las Magistradas y los Magistrados del Tribunal de Disciplina Judicial serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda por un periodo de seis años y no podrán ser reelectos. Sólo podrán ser removidos de su encargo en los términos del Título XI de la Constitución Política del Estado.
 
-V.- Apoyar a los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, en sus programas de capacitación, formación y actualización.
+Para ser electos como Magistrada o Magistrado del Tribunal de Disciplina Judicial, se requiere cumplir con los requisitos que establece el artículo 111 de la Constitución Política del Estado, y deberán distinguirse por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades.
 
-###### ARTICULO 95.
+Las personas que hayan ocupado el cargo de Magistrada o Magistrado del Tribunal de Disciplina Judicial no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
 
-El Organismo sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
+### CAPÍTULO III. DE SUS RESOLUCIONES
 
-I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
+###### ARTÍCULO 109.
 
-II.- El perfil de los profesionales para la salud en sus etapas de formación.
+El Pleno del Tribunal de Disciplina Judicial determinará mediante acuerdos generales sus Comisiones, así como la periodicidad con la que se sesionarán y las condiciones en las que se desarrollarán.
 
-###### ARTICULO 96.
+El Pleno y las Comisiones del Tribunal de Disciplina Judicial podrán sesionar de manera extraordinaria a solicitud de la o el Magistrado Presidente, o de la mayoría de sus integrantes. Dicha solicitud deberá presentarse a la Presidencia del propio Tribunal de Disciplina Judicial a fin de que emita la convocatoria correspondiente.
 
-El Organismo en coordinación con las autoridades federales competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+###### ARTÍCULO 110.
 
-### CAPITULO III. Nutrición
+El Pleno del Tribunal determinará mediante acuerdos generales el número y especialidad de las Comisiones. En el ejercicio de esa facultad, el Pleno establecerá cuando menos una comisión para substanciar y resolver el procedimiento administrativo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+###### ARTÍCULO 111.
 
-###### ARTICULO 97.
+El Tribunal contará con dos órganos auxiliares con autonomía de gestión, a efecto de dar cumplimiento a las obligaciones derivadas del ejercicio de su competencia, a saber: el Órgano de Investigación de Responsabilidades Administrativas y el Órgano de Evaluación del Desempeño Judicial; y la Dirección de Visitaduría Judicial.
 
-Los aspectos docentes del internado de pregrado y de las residencias de especialización, se regirán por lo que establezcan las instituciones de educación superior; deberán contribuir al logro de los objetivos de los Sistemas Nacional y Estatal de Salud, de conformidad con las atribuciones que les otorguen las disposiciones que rigen su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
+###### ARTÍCULO 112.
 
-La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
+El Órgano de Investigación tendrá a su cargo la investigación de los hechos u omisiones que puedan constituir responsabilidades administrativas de las y los servidores públicos del Poder Judicial del Estado, en los términos establecidos en esta Ley, en los acuerdos generales que emita el propio Tribunal, así como en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
 
-###### ARTICULO 98.
+###### ARTÍCULO 113.
 
-La investigación para la salud comprende el desarrollo de acciones que contribuyan:
+El Órgano de Evaluación de Desempeño Judicial será el competente para realizar la evaluación y seguimiento del desempeño de los órganos jurisdiccionales del Poder Judicial del Estado, con excepción del Supremo Tribunal de Justicia, en los términos previstos en esta Ley y en los acuerdos generales que emita el propio Tribunal. En todo caso, la evaluación deberá tener en cuenta elementos cualitativos y cuantitativos relacionados con el desempeño de los órganos jurisdiccionales. La función judicial comprende tanto la actividad propiamente jurisdiccional como la administrativa relacionada directamente con la impartición de justicia.
 
-I.- Al conocimiento de los procesos biológicos y psicológicos en los seres humanos;
+### CAPÍTULO IV. DEL PLENO
 
-II.- Al conocimiento de los vínculos entre las causas de enfermedad, la práctica médica y la estructura social;
+###### ARTÍCULO 114.
 
-III.- A la prevención y control de los problemas de salud que se consideren prioritarios para la población;
+Las resoluciones deberán estar debidamente fundadas y motivadas, exponiendo la valoración de las pruebas, la calificación de la conducta probada, la individualización de la sanción y, de ser el caso, la posible reparación del daño.
 
-IV.- Al conocimiento y control de los efectos nocivos del ambiente en la salud;
+###### ARTÍCULO 115.
 
-V.- Al estudio de las técnicas y métodos que se recomienden para la prestación de los servicios de salud, y los aspectos relacionados con su óptima utilización.
+Las razones que justifiquen las resoluciones que emita el Pleno del Tribunal por mayoría de cuatro votos constituirán precedentes vinculantes para las Comisiones del propio Tribunal, en los casos en los que se actualicen hechos relevantes similares.
 
-VI.- A la producción nacional de insumos para la salud.
+###### ARTÍCULO 116.
 
-VII.- Al conocimiento y optimización de los procesos educativos en el área de la salud.
+Al emitir sus resoluciones, el Pleno y las Comisiones del Tribunal siempre deberán atender los precedentes que les resulten vinculantes. A partir de éstos, deberán construir una doctrina jurisprudencial coherente que dote de certeza jurídica al sistema disciplinario.
 
-###### ARTICULO 99.
+###### ARTÍCULO 117.
 
-El Organismo apoyará y estimulará la promoción, constitución y el funcionamiento de establecimientos destinados a la investigación para la salud.
+El Pleno podrá cambiar o separarse de sus propios precedentes vinculantes siempre que, a partir de la resolución de casos concretos, expongan expresamente junto al nuevo criterio una motivación reforzada que justifique el cambio o separación.
 
-###### ARTICULO 100.
+###### ARTÍCULO 118.
 
-La investigación en seres humanos se desarrollará conforme a las siguientes bases:
+En los casos a los que alude el artículo anterior, las resoluciones que emita el Pleno al respecto deberán ser aprobadas por mayoría de cuatro votos. Las razones que justifiquen las resoluciones donde se establezca un cambio de criterio constituirán los nuevos precedentes vinculantes.
 
-I.- Deberá adaptarse a los principios científicos y éticos que justifican la investigación médica, especialmente en lo referente a su posible contribución a la solución de problemas de salud y al desarrollo de nuevos campos de la ciencia médica;
+###### ARTÍCULO 119.
 
-II.- Podrá realizarse sólo cuando el conocimiento que pretenda producir no pueda obtenerse por otro método idóneo;
+El Pleno del Tribunal resolverá las contradicciones que se susciten entre los precedentes vinculantes que emitan las Comisiones.
 
-III.- Podrá efectuarse sólo cuando exista una razonable seguridad de que no expone a riesgos ni daños innecesarios al sujeto en experimentación;
+###### ARTÍCULO 120.
 
-IV.- Se deberá contar con el consentimiento por escrito del sujeto en quien se realizará la investigación, o de su representante legal en caso de incapacidad legal de aquél, una vez que haya sido enterado por escrito de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
+La vinculatoriedad de los precedentes del Tribunal se actualizará desde el momento en el que se engrose la resolución que lo contenga, existiendo la obligación de difundir los criterios vinculantes dentro de un plazo razonable en el sistema de difusión respectivo. El Pleno determinará mediante acuerdo general el sistema electrónico de difusión de los precedentes vinculantes y el formato de su publicación, el cual deberá como mínimo exponer de forma clara los hechos relevantes, el criterio jurídico y las razones que lo justifican.
 
-V.- Sólo podrá realizarse por profesionales de la salud en instituciones médicas que actúen bajo la vigilancia de las autoridades sanitarias competentes;
+El sistema electrónico de precedentes de difusión será gratuito, público, accesible y deberá garantizar la publicación actualizada y ordenada de los precedentes, de tal manera que sea clara la doctrina jurisprudencial que se construye a partir de estos.
 
-VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, discapacidad o muerte del sujeto en quien se realice la investigación; y
+### CAPÍTULO V. DE LAS COMISIONES
 
-VII.- Las demás que establezca esta Ley y la correspondiente reglamentación.
+###### ARTÍCULO 121.
 
-###### ARTICULO 101.
+El Pleno se conformará por cinco personas Magistradas, pero podrá sesionar con la presencia de cuatro. La Presidencia del Pleno del Tribunal Judicial durará cinco años y la ocupará quien haya obtenido el mayor número de votos en la elección, y se renovará de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, observando la paridad de género.
 
-El Organismo tendrá a su cargo la coordinación de la investigación para la salud y el control de ésta en seres humanos.
+###### ARTÍCULO 122.
 
-###### ARTICULO 102.
+El Pleno nombrará, a propuesta de su Presidente o Presidenta, a una Secretaria o Secretario General de Acuerdos y a una Subsecretaria o Subsecretario General de Acuerdos.
 
-El Organismo vigilará que se establezcan en las instituciones de salud, comisiones de ética e investigación cuando ésta se realice en seres humanos y la de bioseguridad, encargada de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética.
+La Secretaria o Secretario General de Acuerdos del Pleno formará parte de la Junta de Coordinación adscrita al Órgano de Administración Judicial en los términos y para los efectos previstos en esta Ley.
 
-###### ARTICULO 103.
+La o el Presidente tendrá las atribuciones que se establezcan en la ley y en los acuerdos generales que para tal efecto emita el Pleno del Tribunal de Disciplina Judicial.
 
-Quien realice investigación en seres humanos en contravención a lo dispuesto en esta Ley y demás disposiciones aplicables se hará acreedor de las sanciones correspondientes.
+La o el Presidente del Tribunal de Disciplina Judicial propondrá al Órgano de Administración Judicial el nombramiento de las y los Secretarios auxiliares de acuerdos, así como a las y los actuarios y al personal subalterno necesario para el despacho de los asuntos del tribunal, conforme a lo establecido por las disposiciones jurídicas aplicables.
 
-###### ARTICULO 104.
+###### ARTÍCULO 123.
 
-En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
+El Pleno será competente para lo siguiente:
 
-###### ARTICULO 105.
+I.- Substanciar y resolver el recurso de revisión y los demás recursos que procedan respecto de los procedimientos de responsabilidad administrativa que son competencia de las Comisiones, la evaluación del desempeño de la función judicial y los conflictos laborales;
 
-El Organismo, de conformidad con la Ley de Información, Estadística y Geográfica, y con los criterios de carácter general que emita el Ejecutivo Federal, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad.
+II.- Solicitar de oficio o por denuncia al Órgano de Investigación el inicio de las investigaciones necesarias para determinar si se ha incurrido en responsabilidades administrativas;
 
-La información se referirá fundamentalmente, a los siguientes aspectos:
+III.- Dar vista al Ministerio Público con la posible comisión de delitos;
 
-I.- Estadísticas de natalidad, mortalidad, morbilidad e invalidez;
+IV.- Solicitar al Congreso del Estado el inicio del juicio político en contra de las personas juzgadoras electas por voto popular;
 
-II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
+V.- Elaborar los proyectos de reglamentos y acuerdos generales que requiera para su administración y organización interna y presentarlos por conducto de su Presidente o Presidenta, al Órgano de Administración Judicial para su aprobación y emisión;
 
-III.- Recursos materiales, humanos y financieros disponibles para la protección de la salud de la población y su utilización.
+VI.- Solicitar al Órgano de Administración Judicial la expedición de acuerdos o la ejecución de resoluciones necesarias para asegurar el adecuado ejercicio de la función jurisdiccional;
 
-###### ARTICULO 106.
+VII.- Reglamentar, mediante la emisión de acuerdos generales, los parámetros y las especificaciones relativas a los métodos, criterios e indicadores para la realización de las evaluaciones de desempeño y seguimiento;
 
-Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud del Estado, llevarán a cabo estadísticas que en materia de salud les señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
+VIII.- Reglamentar, mediante la emisión de acuerdos generales, el procedimiento para la imposición e impugnación de las medidas correctivas y sancionadoras en materia de desempeño;
 
-## TITULO QUINTO. PRESTACION DE LOS SERVICIOS DE SALUD
+IX.- Determinar la implementación de mecanismos de prevención de faltas administrativas y hechos de corrupción, así como de coordinación que, en términos de la Ley General del Sistema Anticorrupción, determine el Comité Coordinador de dicho Sistema e informar a ese Órgano de los avances y resultados que se tengan;
 
-### CAPITULO IV. Efectos del Ambiente en la Salud
+X.- Establecer, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de las y los visitadores y demás personas servidoras públicas para efectos de lo que se dispone en esta Ley en materia de responsabilidad;
 
-###### ARTICULO 107.
+XI.- Llevar un Registro de Personas Servidoras Públicas y de Particulares Sancionados, conforme a lo que establezca mediante acuerdos generales;
 
-La promoción de la salud tiene por objeto crear, conservar y mejorar las condiciones deseables de salud para toda la población y propiciar en el individuo las actitudes, valores y conductas adecuadas para motivar su participación en beneficio de la salud individual y colectiva.
+XII.- Integrar un informe que hará del conocimiento de la opinión pública, en la primera quincena del mes de febrero de cada año, el cual remitirá posteriormente por escrito al Pleno del Supremo Tribunal de Justicia;
 
-###### ARTICULO 108.
+XIII.- Resolver sobre los cambios de adscripción de las Juezas y los Jueces fuera del distrito judicial para el que fueron electas, por alguna de las causas excepcionales que el mismo Pleno determine;
 
-La promoción de la salud comprende:
+XIV.- Dictar a través de sus Comisiones, las medidas de suspensión temporal de las Juezas y de los Jueces, así como del personal administrativo, que resulten pertinentes para facilitar las investigaciones y los procedimientos disciplinarios.
 
-I.- Educación para la salud;
+La suspensión de las Juezas y de los Jueces o personal administrativo involucrados en la comisión de un delito, procederá siempre que lo estime necesario el Pleno del Tribunal de Disciplina Judicial en el ejercicio de sus facultades de disciplina y vigilancia, o cuando alguna autoridad ministerial o fiscalía den noticia de ello, así como a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra.
 
-II.- Nutrición;
+Cuando la suspensión haya sido decretada por el Tribunal de Disciplina Judicial sin mediar una solicitud de otra autoridad, deberá instruirse la formulación de denuncia o querella en los casos en que proceda;
 
-III.- Control de los efectos nocivos del ambiente en la salud;
+XV.- Resolver los recursos de revisión en los procedimientos de responsabilidad administrativa del personal jurisdiccional, así como del personal administrativo del Poder Judicial del Estado; y
 
-IV.- Salud ocupacional; y
+XVI.- Las demás que determinen las disposiciones jurídicas aplicables.
 
-V.- Fomento sanitario.
+###### ARTÍCULO 124.
 
-### CAPITULO V. Salud Ocupacional
+En ningún caso los recursos de revisión serán turnados para su substanciación y elaboración del proyecto de resolución respectivo a los Magistrados o Magistradas que integran la Comisión recurrida.
 
-###### ARTICULO 109.
+###### ARTÍCULO 125.
 
-La educación para la salud tiene por objeto:
+En todos los casos, las resoluciones del Pleno del Tribunal de Disciplina Judicial se tomarán por mayoría de cuatro votos, por lo que si no se alcanza tal votación deberán desestimarse las sanciones impuestas en primera instancia.
 
-I.- Fomentar en la población el desarrollo de estilos de vida saludables y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerla de los factores de riesgos que pongan en peligro su salud;
+###### ARTÍCULO 126.
 
-II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
+Las ponencias de los y las Magistradas se podrán integrar por:
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+I. Secretarios o secretarias proyectistas;
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de invalidez y rehabilitación de la discapacidad y detección oportuna de enfermedades.
+II. Secretarios o secretarias instructoras;
 
-###### ARTICULO 110.
+III. Secretarios o secretarias auxiliares;
 
-Las autoridades sanitarias estatales y municipales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+IV. Oficiales judiciales; y
 
-###### ARTICULO 111.
+V. Personal operativo.
 
-El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos, de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los comités y subcomités municipales y los sectores social y privado.
+Los y las Magistradas deberán conformar la estructura de sus equipos de trabajo con funciones jurisdiccionales, incluyendo el tipo y número de plazas que lo conformen, de la siguiente manera: el cincuenta por ciento deberá provenir de los procesos de selección de la Carrera Judicial, y el cincuenta por ciento restantes mediante designación, en ambos casos observando el límite presupuestal que establezca el Órgano de Administración Judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPÍTULO VI. DEL ÓRGANO DE EVALUACIÓN DE DESEMPEÑO JUDICIAL
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2008)</small>
+###### ARTÍCULO 127.
 
-Se deberá dar prioridad a la elaboración de programas nutricionales destinados a los niños y niñas, en los que se indique el tipo de alimentos y bebidas que pueden ser distribuidos en las tiendas ubicadas en las escuelas de educación básica.
+Las Comisiones se integrarán por tres integrantes del Tribunal de Disciplina Judicial, pero podrán sesionar con la presencia de dos. En caso de empate, y cuando la resolución de los asuntos no pueda aplazarse, la Comisión respectiva se integrará con un Magistrado o Magistrada integrante de una Comisión diversa.
 
-###### ARTICULO 112.
+###### ARTÍCULO 128.
 
-En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
+Las Comisiones serán competentes para substanciar y resolver en primera instancia los procedimientos de responsabilidad administrativa seguidos contra las personas que desempeñan funciones jurisdiccionales o personas que desempeñen funciones administrativas en el Poder Judicial del Estado, los recursos de inconformidad, las impugnaciones de la evaluación del desempeño de la función judicial, los conflictos laborales, de acuerdo con su especialización, y los demás asuntos que decida el Pleno del Tribunal de Disciplina Judicial mediante acuerdo general.
 
-###### ARTICULO 113.
+###### ARTÍCULO 129.
 
-Las autoridades sanitarias del Estado establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
+Las Comisiones nombrarán a su respectivo Presidente o Presidenta, y determinarán el tiempo que deba permanecer en el cargo y las funciones que deba ejercer mediante acuerdo general.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los asuntos de su competencia serán turnados de acuerdo con el sistema respectivo al Magistrado o Magistrada correspondiente para su substanciación y emisión del proyecto de resolución, de conformidad con las etapas y formalidades establecidas en esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
+### CAPÍTULO VII. DE LA DIRECCIÓN DE VISTADURÍA JUDICIAL
 
-### CAPITULO I. Disposiciones Comunes
+###### ARTÍCULO 130.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+El Órgano de Evaluación de Desempeño Judicial es un órgano auxiliar del Tribunal de Disciplina Judicial, competente para evaluar y dar seguimiento al desempeño de los órganos jurisdiccionales a fin de consolidar un ejercicio responsable, profesional, independiente, honesto y eficaz de la función jurisdiccional, así como evitar actos que la demeriten.
 
-###### ARTICULO 114.
+###### ARTÍCULO 131.
 
-Corresponde a la Secretaría de Salud y al Gobierno del Estado, en sus respectivos ámbitos de competencia:
+La persona Titular del Órgano de Evaluación de Desempeño Judicial será designada por el Pleno del Tribunal de Disciplina Judicial a propuesta de su presidencia, y deberá satisfacer los siguientes requisitos: ser mayor de treinta y cinco años, gozar de buena reputación, no tener condena por delito con pena privativa de libertad mayor de un año, título profesional en derecho legalmente expedido y experiencia profesional de cuando menos cinco años en materia de impartición de justicia, políticas públicas y/o evaluación del desempeño institucional.
 
-I. Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
+###### ARTÍCULO 132.
 
-II. Vigilar la calidad del agua para uso y consumo humano;
+Las funciones de evaluación y seguimiento del desempeño que se confieren al Órgano de Evaluación serán ejercidas por las y los visitadores judiciales bajo el mando y coordinación del Titular referido en el artículo anterior, quienes tendrán el carácter de personas representantes del Tribunal de Disciplina Judicial.
 
-III. Promover y apoyar el saneamiento básico;
+Las y los visitadores judiciales deberán satisfacer los mismos requisitos señalados para ser Titular del Órgano de Evaluación de Desempeño Judicial; su designación se hará por el Pleno del Tribunal de Disciplina Judicial a propuesta de la o el Titular del Órgano de Evaluación.
 
-IV Asesorar en criterios de ingeniería sanitaria de obras públicas y privadas excepto lo relativo a los establecimientos de salud;
+Las y los visitadores judiciales deberán conducirse con imparcialidad y objetividad en el ejercicio de sus funciones. El Pleno del Tribunal de Disciplina Judicial establecerá, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de las y los visitadores a fin de garantizar su imparcialidad y objetividad.
 
-V Disponer y verificar que se cuente con información toxicológica adecuada, en las que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas;
+###### ARTÍCULO 133.
 
-VI. Vigilar la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes;
+El Órgano de Evaluación contará con el personal operativo que requiera para el adecuado ejercicio de sus funciones. La persona Titular del Órgano de Evaluación propondrá al Pleno del Tribunal de Disciplina Judicial la aprobación de la plantilla operativa que se requiera para el desahogo de las funciones de evaluación y seguimiento a su cargo.
 
-VII. Desarrollar y difundir investigación permanente y sistemática de los riesgos y daños que para la salud de la población represente la exposición a los rayos ultravioleta;
+###### ARTÍCULO 134.
 
-VIII. Establecer un índice de exposición a la radiación ultravioleta emitida por el sol, el cual deberá establecer un grado de riesgo por exposición, a efecto de prevenir afectaciones a la salud de la población del Estado;
+Los procesos de evaluación del desempeño serán una garantía del derecho al acceso a la justicia, así como de los derechos a la información y la participación pública. Sus resultados serán públicos, accesibles y transparentes. El Órgano de Evaluación garantizará el ejercicio de los derechos a la información y participación pública en relación con los resultados de los procesos de evaluación, particularmente en el contexto de la elección judicial.
 
-IX. Publicar diariamente por medios electrónicos necesarios el índice mencionado en la Fracción anterior, correspondiente a las diferentes horas del día; y
+###### ARTÍCULO 135.
 
-X. En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas.
+Los procesos de evaluación del desempeño deberán evaluar, al menos los siguientes criterios e indicadores: los conocimientos y competencias de las personas titulares del órgano jurisdiccional, incluyendo aquellas de carácter técnico, ético y profesional; el dictado y cumplimiento oportuno de sus resoluciones, la adecuada gestión de los recursos humanos y materiales a su cargo, la productividad del órgano jurisdiccional, la capacitación y desarrollo de la persona servidora pública, y la satisfacción de las personas usuarias del sistema de justicia.
 
-###### ARTICULO 115.
+###### ARTÍCULO 136.
 
-El Organismo se coordinará con las dependencias federales, estatales y municipales para la prestación de los servicios a que se refiere este Capítulo.
+El Órgano de Evaluación podrá aplicar los métodos de evaluación que estime pertinentes para la examinación integral, exhaustiva, imparcial y objetiva del desempeño judicial, incluyendo visitas presenciales o digitales, auditorías, evaluación por objetivos, análisis de indicadores clave de rendimiento, evaluación por pares, encuestas de satisfacción a las personas usuarias del sistema de justicia, requerimientos de información, análisis de datos; entre otros, siempre que estén previstos en los acuerdos generales que dicte el Pleno del Tribunal de Disciplina Judicial para tal efecto.
 
-###### ARTICULO 116.
+###### ARTÍCULO 137.
 
-Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfacer los criterios sanitarios que establezcan las normas oficiales mexicanas que emitan las autoridades federales competentes, con el propósito de fijar las condiciones particulares de descarga, el tratamiento y uso de aguas residuales; así como de residuos peligrosos que conlleven riesgos para la salud pública, a cuerpos de agua que se destinen para uso o consumo humano.
+Los procesos de evaluación del desempeño serán la evaluación ordinaria, la evaluación extraordinaria y la evaluación de seguimiento.
 
-###### ARTICULO 117.
+###### ARTÍCULO 138.
 
-El Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
+El Órgano de Evaluación podrá realizar el procedimiento de evaluación ordinaria al desempeño de las Juezas y los Jueces de Primera Instancia y Menores con posterioridad a los primeros noventa días naturales desde su toma de protesta, y con anterioridad a que concluya el primer año de su mandato.
 
-###### ARTICULO 118.
+###### ARTÍCULO 139.
 
-El Organismo tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con las disposiciones legales aplicables.
+Cuando la evaluación ordinaria resulte insatisfactoria y el Órgano de Evaluación lo estime pertinente, podrá dictar las medidas que considere necesarias para el fortalecimiento de la función judicial.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Las medidas correctivas podrán consistir en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias técnicas, profesionales o éticas de la persona evaluada. El Pleno del Tribunal de Disciplina Judicial reglamentará los tipos de medidas correctivas mediante la emisión de acuerdos generales.
 
-###### ARTICULO 119.
+El Órgano de Evaluación establecerá el plazo para el cumplimiento de tales medidas, dentro de los parámetros que defina el Pleno del Tribunal de Disciplina Judicial mediante acuerdo general.
 
-El Gobierno del Estado, en coordinación con las dependencias y entidades municipales y federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre y la mujer.
+###### ARTÍCULO 140.
 
-###### ARTICULO 120.
+Al vencimiento del plazo referido en el precepto anterior, el Órgano de Evaluación fijará un plazo para la acreditación de la evaluación extraordinaria, dentro de los parámetros que defina el Pleno del Tribunal de Disciplina Judicial mediante acuerdo general.
 
-Corresponde al Organismo en coordinación con las autoridades federales y municipales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
+En el caso de que la persona servidora pública no acredite favorablemente la evaluación extraordinaria dentro del plazo establecido por el Órgano de Evaluación o se niegue a realizarla, el Órgano dará vista al Pleno del Tribunal de Disciplina Judicial para los efectos legales a que haya lugar.
 
-### CAPITULO II. Enfermedades Transmisibles
+###### ARTÍCULO 141.
 
-###### ARTICULO 121.
+En caso de que se actualice el supuesto previsto en el último párrafo del precepto anterior, el Tribunal de Disciplina Judicial podrá ordenar la suspensión de la persona servidora pública de hasta un año, y determinará las acciones y condiciones para su restitución.
 
-El Gobierno del Estado, en coordinación con las autoridades sanitarias federales, estatales y municipales, elaborarán programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud en general a la población.
+Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal de Disciplina Judicial resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial del Estado.
 
-Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
+###### ARTÍCULO 142.
 
-I.- Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis virales y otras enfermedades del aparato digestivo;
+Con la finalidad de dar seguimiento al desempeño judicial y garantizar el derecho a la información y participación pública, el Órgano de Evaluación podrá realizar evaluaciones de seguimiento al desempeño judicial.
 
-II.- Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningecóccicas y enfermedades causadas por estreptococos;
+El Pleno, las Comisiones y la Secretaría General de Acuerdos podrán ordenar al Órgano de Evaluación la realización de evaluaciones de seguimiento al desempeño judicial, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por una Jueza o Juez.
 
-III.- Tuberculosis;
+Sin prejuicio de lo previsto en el párrafo anterior, el Órgano de Evaluación deberá realizar una evaluación intermedia y una evaluación final a las personas titulares de los Juzgados del Poder Judicial del Estado en el curso de su mandato.
 
-IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubeola, y parotiditis infecciosa;
+El Pleno del Tribunal de Disciplina Judicial reglamentará, mediante la emisión de acuerdos generales, el procedimiento para la realización de las evaluaciones de seguimiento debiendo garantizar la transparencia y el acceso a la información y la participación pública.
 
-V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos se coordinará con la Secretaría de Salud y con otras dependencias competentes en esta materia;
+###### ARTÍCULO 143.
 
-VI.- Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artrópodos;
+Las y los titulares de los Juzgados durante el periodo evaluado serán responsables de los resultados que arrojen los procedimientos de evaluación y seguimiento de desempeño a los que se refiere el párrafo anterior. En consecuencia, solamente las y los titulares referidos serán objeto de las medidas correctivas o sancionadoras previstas en esta Ley, aun cuando dichas medidas supongan la implementación de acciones que involucren a las y los servidores públicos a su cargo.
 
-VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishmaniasis, tripanosomiasis, oncocercosis;
+###### ARTÍCULO 144.
 
-VIII.- Sífilis, infecciones gonocóccicas y otras enfermedades de transmisión sexual;
+El Órgano de Evaluación judicial deberá publicar oportunamente la realización de las evaluaciones de desempeño judicial para garantizar el derecho a la información y la participación pública. El Pleno del Tribunal de Disciplina Judicial reglamentará los procedimientos, medios y mecanismos para la difusión oportuna y adecuada de los procesos de evaluación a la sociedad.
 
-IX.- Lepra y mal del pinto;
+Las y los visitadores deberán informar con la debida oportunidad a las y los titulares de los Juzgados, de la evaluación de desempeño que vayan a practicar, a fin de que procedan a fijar el correspondiente aviso en los estrados del Órgano con una anticipación mínima de quince días, para el efecto de que las personas interesadas puedan manifestar sus quejas o denuncias.
 
-X.- Micosis profundas;
+###### ARTÍCULO 145.
 
-XI.- Helmintiasis intestinales y extraintestinales;
+Cuando la evaluación de desempeño resulte insatisfactoria, o bien se impongan medidas correctivas o sancionadoras, la determinación del Órgano de Evaluación o de la Comisión del Tribunal de Disciplina Judicial podrá ser impugnada mediante el procedimiento que determine el Pleno del Tribunal de Disciplina Judicial para tal efecto mediante acuerdos generales.
 
-XII.- Toxoplasmosis;
+### CAPÍTULO VIII. DEL ÓRGANO DE INVESTIGACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
 
-XIII.- Síndrome de Inmunodeficiencia Adquirida (SIDA); y
+###### ARTÍCULO 146.
 
-XIV.- Las demás que determinen el Consejo de Salubridad General y otros tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
+Para ocupar el cargo de Directora o Director se requiere cumplir con los requisitos señalados en el artículo 130 de esta Ley.
 
-###### ARTICULO 122.
+###### ARTÍCULO 147.
 
-Es obligatoria la notificación a la autoridad sanitaria más cercana, de las siguientes enfermedades, en los términos que a continuación se especifican:
+La designación de la persona titular de la Dirección de Visitaduría se hará por el Pleno del Tribunal de Disciplina Judicial y se preferirá a aquellas personas que hayan servido con eficiencia, honradez y probidad en la impartición de justicia.
 
-I.- Inmediatamente, en los casos individuales de enfermedades objeto del Reglamento Sanitario Internacional: Fiebre amarilla, peste y cólera;
+La Dirección contará con el personal administrativo que determine el Tribunal de Disciplina Judicial y permita el presupuesto.
 
-II.- Inmediatamente, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia;
+###### ARTÍCULO 148.
 
-III.- En un plazo no mayor de veinticuatro horas en los casos individuales de enfermedades objeto de vigilancia internacional: Poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana;
+La Directora o el Director tendrá las siguientes obligaciones y facultades:
 
-IV.- En un plazo no mayor de veinticuatro horas de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada; y
+I.- Presentar al Tribunal de Disciplina Judicial, por conducto de su Presidenta o Presidente, antes del quince de enero de cada año su proyecto anual de visitas, para su aprobación;
 
-V.- Notificación obligatoria inmediata a la autoridad sanitaria más cercana de los casos en que se detecte la presencia del virus de la inmunodeficiencia humana (VIH) o de anticuerpos de dicho virus, en alguna persona.
+II.- Practicar las visitas generales, especiales y de verificación que determine el Pleno del Tribunal de Disciplina Judicial, la o el Presidente o las que deriven de las quejas o denuncias que reciba en el ámbito de su competencia;
 
-###### ARTICULO 123.
+III.- Enviar al Titular del Órgano a supervisar, el aviso de visita programada, por lo menos con tres días hábiles de anticipación a la fecha de realización de la misma, para que sea fijado en la puerta de acceso del órgano jurisdiccional o administrativo y en el interior del mismo, a fin de que los interesados estén en posibilidad de realizar las manifestaciones que a su derecho convengan;
 
-Las personas que ejerzan la medicina o que realicen actividades afines, están obligadas a dar aviso a las autoridades sanitarias de los casos de enfermedades transmisibles, posteriormente a su diagnóstico o sospecha diagnóstica.
+IV.- Supervisar el cumplimiento de las observaciones y recomendaciones derivadas de las visitas de inspección y, en caso de que el incumplimiento constituya una falta administrativa, dar vista con el respectivo informe a la autoridad correspondiente para el inicio del procedimiento de responsabilidad administrativa;
 
-###### ARTICULO 124.
+V.- Recibir y dar seguimiento a las quejas o denuncias que en forma verbal, por comparecencia o escrito hagan los justiciables en la visita realizada;
 
-Están obligados a dar aviso, en los términos del Artículo 123 de esta Ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole, y en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta Ley.
+VI.- Dar cuenta a la autoridad competente de las irregularidades u omisiones que se adviertan con motivo de las visitas, que contravengan el ejercicio de la función jurisdiccional e incumplimiento de las atribuciones y obligaciones de los servidores judiciales o bien, cuando las observaciones efectuadas sean reincidentes;
 
-###### ARTICULO 125.
+VII.- Levantar acta circunstanciada de los hechos motivo de la queja o denuncia, resultado de la visita; y
 
-Las medidas que se requieran para la prevención y el control de las enfermedades que enumera el Artículo 121 de esta Ley, deberán ser observadas por los particulares, el ejercicio de esta acción comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+VIII.- Las demás que le confiera la ley, o le instruyan la o el Presidente o el Tribunal d Disciplina Judicial.
 
-I.- La confirmación de la enfermedad por los medios clínicos disponibles;
+###### ARTÍCULO 149.
 
-II.- El aislamiento, por el tiempo estrictamente necesario de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades, cuando así se amerite por razones epidemiológicas;
+La o el visitador judicial tendrá las siguientes obligaciones y facultades:
 
-III.- La observación, en el grado que se requiera, de los contactos humanos y animales;
+I.- Efectuar las visitas generales, especiales y de verificación que les instruya la o el Director de la Dirección de la Visitaduría Judicial, y darle cuenta de las actas levantadas con motivo de las mismas;
 
-IV.- La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos;
+II.- Recibir las quejas o denuncias que en forma verbal, por comparecencia o escritas formule cualquier persona en relación con el órgano visitado;
 
-V.- La descontaminación microbiana o parasitaria, desinfección y desinsectación de zonas, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación
+III.- Dar cuenta a la persona Directora del Órgano de Evaluación de Desempeño de las quejas o denuncias que en forma verbal, por comparecencia o escrita, haya realizado cualquier persona al momento de practicar la visita al órgano jurisdiccional o administrativo; y
 
-VI.- La destrucción o control de vectores y reservorios y de fuentes de infección naturales o artificiales, cuando presenten peligro para la salud;
+IV.- Las demás que le confiera la ley, el Órgano de Investigación de Responsabilidades Administrativas, o la persona Directora del Órgano de Evaluación de Desempeño.
 
-VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos; y
+###### ARTÍCULO 150.
 
-VIII.- Las demás que determine esta Ley, sus Reglamentos y la Secretaría de Salud del Gobierno Federal.
+En el desarrollo de las visitas, además de las instrucciones giradas por la o el Presidente del Tribunal de Disciplina Judicial, o de la persona Directora del Órgano de Evaluación de Desempeño y de las particularidades de cada órgano y las disposiciones establecidas en esta ley, la de Responsabilidades Administrativas aplicable y aquellas otras que impongan deberes a su cargo, se atenderá lo siguiente:
 
-###### ARTICULO 126.
+I.- Pedir la lista del personal para verificar la permanencia y el cumplimiento del horario de labores durante el periodo que dure la visita;
 
-Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de la Ley General de Salud, esta Ley, las que expida el Consejo de Salubridad General y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud del Gobierno Federal.
+II.- Imponerse de las condiciones físicas y materiales del inmueble, archivo y demás instalaciones del Juzgado, incluyendo el método que se lleve para el resguardo de los expedientes concluidos y de trámite, así como de los valores, objetos y documentos importantes;
 
-### CAPITULO III. Enfermedades no Transmisibles
+III.- Revisar que los libros electrónicos se encuentren en orden y contengan los datos requeridos;
 
-###### ARTICULO 127.
+IV.- Recibir y anexar las actas administrativas circunstanciadas que el Juzgado visitado haya elaborado con motivo de alguna incidencia;
 
-Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, están obligados a tomar las medidas necesarias, de acuerdo con la naturaleza y características del padecimiento, aplicando los recursos a su alcance para proteger la salud individual y colectiva.
+V.- Solicitar las promociones que se encuentren pendientes de acuerdo, con el objeto de verificar si no se ha vencido el plazo legal para dictar los proveídos respectivos;
 
-###### ARTICULO 128.
+VI.- Elegir aleatoriamente los expedientes que serán sujetos a revisión, a fin de constatar que el procedimiento se lleve con arreglo a la ley;
 
-Los trabajadores de la salud del Gobierno de esta Entidad Federativa y de los Municipios, así como los de otras instituciones autorizadas por las autoridades sanitarias del Estado, por necesidades técnicas de los programas específi (sic) prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditados por alguna de las autoridades sanitarias competentes, en los términos de los Artículos 252 y 256 de esta Ley.
+VII.- Verificar que los acuerdos, resoluciones interlocutorias y sentencias sean dictados en los plazos legales y se cumplan oportunamente;
 
-###### ARTICULO 129.
+VIII.- Corroborar que los exhortos, despachos, requisitorias, cartas rogatorias y cualesquiera otro requerimiento procesal, hayan sido diligenciados en los términos solicitados y devueltos oportunamente a su lugar de origen;
 
-Quedan facultadas las autoridades sanitarias competentes, para utilizar como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de esta Ley y los Reglamentos aplicables.
+IX.- Verificar la remisión oportuna de los expedientes en grado de apelación o Juicio de Amparo Directo;
 
-### CAPITULO IV. Accidentes
+X.- Constatar que los términos constitucionales y demás garantías procesales se hayan observado en los procesos;
 
-###### ARTICULO 130.
+XI.- En los Distritos que existan Centrales de Actuarios, constatará la remisión oportuna de las cédulas de notificación de las diligencias que deban realizarse de oficio;
 
-Las autoridades sanitarias del Estado señalarán el tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión, tales como hoteles, restaurantes, fábricas, talleres, cárceles, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos y deportivos.
+XII.- Explorar los sistemas electrónicos de los órganos, a efecto de verificar que contengan los datos requeridos y estén debidamente actualizados;
 
-###### ARTICULO 131.
+XIII.- Verificar que las visitas carcelarias a los Centros de Ejecución de Sanciones y Centros de Reintegración Social y Familiar para Adolescentes, respectivamente, se hayan realizado en los plazos y condiciones que la ley señale;
 
-El aislamiento de las personas que padezcan enfermedades transmisibles se llevará a cabo en sitios adecuados, a juicio de las autoridades sanitarias.
+XIV.- Verificar que los procesados que gozan del beneficio de libertad caucional se encuentran cumpliendo con las obligaciones adquiridas;
 
-###### ARTICULO 132.
+XV.- En tratándose de la revisión a la central de actuarios, se supervisará, además, en forma aleatoria, las actas circunstanciadas asentadas por los actuarios, así como el sistema de monitoreo de ubicación;
 
-Las autoridades sanitarias del Estado podrán ordenar, por causas de epidemia, la clausura temporal de los locales o centros de reunión de cualquier índole.
+XVI.- En tratándose de revisión a oficialías de partes, se cotejará además, que las asignaciones directas presenten un antecedente en el juzgado al que fueron remitidas; y
 
-###### ARTICULO 133.
+XVII.- Asentar cualquier otra circunstancia que advierta el investigador judicial en el acto de la visita, que pueda afectar el buen funcionamiento y administración de justicia, y en su caso, las demás que deriven de otras disposiciones aplicables.
 
-El transporte de enfermos de afecciones transmisibles deberá efectuarse en vehículos acondicionados al efecto; a falta de éstos, podrán utilizarse los que autorice la autoridad sanitaria. Los mismos podrán usarse posteriormente para otros fines, previa la aplicación de las medidas que procedan.
+###### ARTÍCULO 151.
 
-###### ARTICULO 134.
+Al concluir la visita se levantará por triplicado acta circunstanciada, en la cual se hará constar el desarrollo de la misma, las quejas y denuncias presentadas en contra de alguna persona servidora pública del órgano visitado, las manifestaciones que realicen la persona titular, Secretaria o Secretario de Acuerdos o las y los funcionarios que se encuentren al cargo, así como la firma de éstos y la o el investigador judicial.
 
-Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos u objetos.
+Una copia se entregará al Titular del Órgano visitado, otra será remitida con el informe a la Autoridad Substanciadora y, la tercera, se conservará en el Archivo de la Unidad de Investigación Judicial.
 
-###### ARTICULO 135.
+### CAPÍTULO I. DE LA COMPETENCIA EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS
 
-Las autoridades sanitarias del Estado, realizarán actividades de prevención, detección y control de las enfermedades no transmisibles que las propias autoridades sanitarias determinen.
+###### ARTÍCULO 152.
 
-###### ARTICULO 136.
+El Órgano de Investigación de Responsabilidades Administrativas fungirá como autoridad investigadora y tendrá la carga de la prueba para demostrar la veracidad sobre los hechos que demuestren la existencia de faltas administrativas cometidas por el personal del Poder Judicial del Estado, así como la responsabilidad de aquellos a quienes se imputen las mismas.
 
-El ejercicio de la acción de prevención y control de las enfermedades no transmisibles, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+###### ARTÍCULO 153.
 
-I.- La detección oportuna de las enfermedades no transmisibles y la evaluación del riesgo de contraerlas;
+La persona titular del Órgano será designada por el Pleno del Tribunal de Disciplina Judicial, a propuesta de su presidencia, y deberá tener título profesional afín a sus funciones y experiencia mínima de cinco años preferentemente en la materia de responsabilidades administrativas.
 
-II.- La divulgación de medidas higiénicas para el control de los padecimientos;
+El Pleno del Tribunal de Disciplina Judicial, mediante acuerdos generales, designará la estructura orgánica a través de la cual la persona titular del Órgano de Investigación se apoyará para ejercer sus funciones. En dichos acuerdos se debe prever la existencia de agentes investigadores, quienes serán funcionarios que cuenten con las competencias necesarias para realizar las investigaciones y demás actuaciones que resulten necesarias.
 
-III.- La prevención específica en cada caso y la vigilancia de su cumplimiento;
+###### ARTÍCULO 154.
 
-IV.- La realización de estudios epidemiológicos; y
+El Órgano de Investigación de Responsabilidades Administrativas tendrá las siguientes funciones:
 
-V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+I.- Llevar a cabo las investigaciones por faltas administrativas del personal del Poder Judicial del Estado;
 
-###### ARTICULO 137.
+II.- Ordenar la recolección de indicios y medios de prueba que estime conducentes para llegar a la verdad material de los hechos, así como desahogarlos en su momento procesal oportuno;
 
-Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
+III.- Llamar a comparecer y apercibir a personas que aporten elementos de prueba;
 
-###### ARTICULO 138.
+IV.- Requerir información y documentación a las autoridades que resulten necesarias para el esclarecimiento de los hechos y conductas investigadas;
 
-Para los efectos de esta Ley, se entiende por accidente el hecho súbito que ocasione daños a la salud, y que se produzca por la concurrencia de condiciones potencialmente prevenibles.
+V.- Requerir informes y documentación a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público, o a la Comisión Nacional Bancaria y de Valores, para que provean la información contable y financiera necesaria para el trámite de una investigación;
 
-###### ARTICULO 139.
+VI.- Solicitar la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia de los mismos;
 
-La acción en materia de prevención y control de accidentes comprende:
+VII.- Inspeccionar, en el ámbito de su competencia, el funcionamiento administrativo de los órganos jurisdiccionales a partir de las quejas interpuestas en contra de funcionarias o funcionarios adscritos a ellas o de los indicios señalados por el Órgano de Evaluación de Desempeño Judicial en el ejercicio de sus funciones;
 
-I.- El conocimiento de las causas más usuales que generen accidentes;
+VIII.- Imponer las medidas de apremio para hacer cumplir sus determinaciones, a que se refiere el artículo la presente Ley;
 
-II.- La adopción de medidas para prevenir accidentes;
+IX.- Integrar y presentar al Tribunal de Disciplina Judicial, los Informes de Presunta Responsabilidad Administrativa cuando así resulte conducente o emitir el acuerdo de conclusión y archivo del expediente, de conformidad con los acuerdos generales que dicte el Tribunal de Disciplina Judicial;
 
-III.- El desarrollo de la investigación para la prevención de los mismos;
+X.- Solicitar a la autoridad substanciadora o resolutora, en los procedimientos de responsabilidad administrativa, las medidas cautelares a que se refiere la presente Ley; y
 
-IV.- El fomento, dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes;
+XI.- Las demás que determinen las leyes, los reglamentos y acuerdos generales correspondientes.
 
-V.- La atención de los padecimientos que se produzcan como consecuencia de ellos; y
+Como resultado de dicha facultad investigadora, el Órgano de Investigación será la unidad responsable de integrar y presentar al Tribunal de Disciplina Judicial, los Informes de Presunta Responsabilidad Administrativa cuando así resulte conducente o emitir el acuerdo de conclusión y archivo del expediente.
 
-VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
+Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. Dicha determinación, en su caso, se notificará a las personas servidoras públicas y particulares sujetos a la investigación, así como a las personas denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión.
 
-Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
+## TÍTULO SEXTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
+### CAPÍTULO II. DE LAS FALTAS ADMINISTRATIVAS
 
-###### ARTICULO 140.
+###### ARTÍCULO 155.
 
-Para los efectos de esta Ley, se entiende por Asistencia Social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+El Tribunal de Disciplina Judicial tendrá a su cargo la investigación, substanciación y resolución de los procedimientos de responsabilidad administrativa de las personas servidoras públicas del Poder Judicial del Estado, con excepción de las y los Magistrados del Supremo Tribunal de Justicia, así como la resolución del recurso de revisión en tales procedimientos, de conformidad con lo previsto en la Constitución Política del Estado, en este título, en la Ley General de Responsabilidades Administrativas, en su correlativa Ley de Responsabilidades Administrativas del Estado, y en las demás disposiciones que resulten aplicables.
 
-En esta materia se estará a lo dispuesto por la Ley General de Salud y la Ley de Asistencia Social del Estado de Aguascalientes.
+###### ARTÍCULO 156.
 
-Serán objeto de esta Ley los servicios asistenciales que presten tanto las instituciones públicas como las privadas.
+Las y los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, los integrantes del Órgano de Administración Judicial, las Juezas y los Jueces y todos los miembros del Poder Judicial, son responsables de las faltas administrativas que cometan en el ejercicio de sus cargos y quedan sujetos por ello, a las sanciones que, en todo caso, determine esta ley y a las demás que señalen las leyes de responsabilidades administrativas aplicables, sin demérito de aquellas en materia de fiscalización sobre el manejo, la custodia y aplicación de los recursos públicos, que corresponden en su competencia a las atribuciones de la Auditoría Superior del Estado.
 
-###### ARTICULO 141.
+###### ARTÍCULO 157.
 
-Son actividades básicas de Asistencia Social:
+Corresponde al Pleno del Supremo Tribunal de Justicia, conocer de las faltas cometidas por las y los Magistrados, al Pleno del Tribunal de Disciplina Judicial las de sus Magistradas y Magistrados y las de los integrantes del Órgano de Administración Judicial.
 
-I.- La atención a personas que, por sus carencias socioeconómicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+El Pleno del Supremo Tribunal de Justicia y el del Tribunal de Disciplina Judicial determinarán, mediante acuerdo general, las autoridades a cuyo cargo estará la investigación y substanciación de las presuntas faltas administrativas cometidas por sus integrantes, respectivamente.
 
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo y personas con discapacidad sin recursos;
+### CAPÍTULO III. DE LA INVESTIGACIÓN
 
-III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
+###### ARTÍCULO 158.
 
-IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+Las y los Magistrados del Supremo Tribunal de Justicia, las y los Magistrados del Tribunal de Disciplina Judicial y las y los integrantes del Órgano de Administración Judicial, solo podrán ser separados de sus puestos en la forma y términos que determina el Título XI de la Constitución Política del Estado.
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos y personas con discapacidad sin recursos;
+Las y los particulares podrán incurrir en responsabilidad si cometen las conductas previstas en los Capítulos III y IV del Título Tercero, del Libro Primero de la Ley General de Responsabilidades Administrativas, y su correlativo de la Ley de Responsabilidades Administrativas del Estado, siempre que se encuentren vinculadas con las funciones del Poder Judicial del Estado.
 
-VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+###### ARTÍCULO 159.
 
-VII.- La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
+Son faltas administrativas de las personas servidoras públicas del Poder Judicial:
 
-VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas; y
+I.- Dejar de asistir o separarse del ejercicio de sus funciones, sin causa justificada, en términos de ley;
 
-IX.- La prestación de servicios funerarios.
+II.- Demorar o no cumplir, sin causa justificada, el despacho de los asuntos que tengan encomendados;
 
-###### ARTICULO 142.
+III.- Incumplir las ejecutorias, resoluciones y demás disposiciones obligatorias que, expedidas conforme a la ley, reciban de sus superiores;
 
-Para fomentar el desarrollo de programas públicos de asistencia social, el Gobierno del Estado promoverá la canalización de recursos y de apoyo técnico necesario.
+IV.- Faltar a la dignidad, imparcialidad y profesionalismo en el desempeño de sus labores;
 
-Asimismo, procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados para fomentar su aplicación.
+V.- Extraviar los registros, expedientes, procesos, tocas, libros, documentos, escritos o promociones que tengan bajo su cargo;
 
-###### ARTICULO 143.
+VI.- Realizar actos u omisiones que demoren o dificulten el ejercicio de los derechos de las partes;
 
-Los menores en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes
+VII.- Dejar de presidir las diligencias o audiencias, o abstenerse de intervenir en los casos que deban hacerlo de acuerdo con la ley;
 
-###### ARTICULO 144.
+VIII.- Acordar o resolver los asuntos de su conocimiento, fuera de los términos legales;
 
-Los integrantes del Sistema Estatal de Salud deberán dar su atención preferente e inmediata a menores y ancianos sometidos cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático de los individuos.
+IX.- Dar cuenta, fuera del término legal, con los oficios y documentos oficiales, así como con los escritos y promociones formuladas;
 
-###### ARTICULO 145.
+X.- Asentar en autos las certificaciones que procedan de oficio o por mandato judicial, sin sujetarse a los plazos legales, o abstenerse de hacerlas;
 
-El Gobierno del Estado contará con un organismo que tendrá entre sus objetivos, en coordinación con el organismo federal encargado de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que en la materia lleven a cabo las instituciones públicas en el Estado.
+XI.- Redactar actas o desahogar diligencias sin sujetarse a las formalidades que establece la ley;
 
-Las atribuciones y funciones se regirán por las disposiciones legales que para el efecto se expidan.
+XII.- Negar, sin causa justificada, los datos e informes que les soliciten sus superiores, las y los abogados y las y los litigantes, cuando legalmente procedan;
 
-### CAPITULO UNICO
+XIII.- Descuidar el trámite o la conservación de los registros, expedientes, procesos, tocas, escritos, documentos, objetos y valores que tengan a su cargo;
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+XIV.- Retardar la entrega de los registros, expedientes, procesos, tocas, escritos y documentos para su trámite legal, así como los objetos y valores que tengan a su cargo;
 
-###### ARTICULO 139 Bis.
+XV.- Omitir dar cuenta a su superior de las faltas que hubiere observado en el personal de su oficina;
 
-Cuidados paliativos es la atención integral que se proporciona a los enfermos que no responden a los tratamientos curativos y que tienen una esperanza de vida menor a seis meses.
+XVI.- Omitir o negarse a realizar las notificaciones que procedan, dentro de los términos legales;
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+XVII.- Negar los registros, expedientes, procesos o tocas a las partes, sin causa justificada, cuando su exhibición sea obligatoria;
 
-###### ARTICULO 139 Ter.
+XVIII.- Extraer los registros, expedientes, procesos, tocas o demás documentos, en los casos en que las leyes no lo permitan;
 
-Los cuidados paliativos tienen como objeto establecer las condiciones para mitigar el sufrimiento innecesario de los enfermos, en etapa terminal, así como propiciar en el individuo las actitudes, valores y conductas adecuadas para enfrentar su padecimiento, procurar la calidad de vida y garantizar una muerte natural en condiciones dignas.
+XIX.- Tratar fuera de los recintos oficiales los asuntos que se tramiten ante ellos;
 
-Este Capítulo se regirá por lo dispuesto en la Ley General de Salud en materia de cuidados paliativos a los enfermos en situación terminal.
+XX.- Divulgar los asuntos que ameriten, en el ámbito de sus funciones, reserva o discreción;
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+XXI.- Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
 
-###### ARTICULO 139 Quater.
+XXII.- Asistir en estado de ebriedad o bajo el influjo de algún estupefaciente, o incurrir en actos que alteren el orden, en el recinto oficial;
 
-El Sistema Estatal de Salud deberá garantizar lo previsto en el presente Capítulo procurando en todo momento preservar la calidad de vida de los pacientes.
+XXIII.- Inferir malos tratos, vejaciones o actos discriminatorios que atenten contra la dignidad humana;
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+XXIV.- Dejar de asistir, sin causa justificada, a los cursos de capacitación, seminarios y reuniones de trabajo a los que tengan obligación;
 
-###### ARTICULO 139 Quinquies.
+XXV.- Realizar o fomentar el comercio en el interior de las oficinas y recintos judiciales;
 
-Los cuidados paliativos comprenden:
+XXVI.- Omitir presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en los términos establecidos por esta ley y demás disposiciones aplicables; y
 
-I. El alivio del sufrimiento mediante medicamento que mitigue el dolor del enfermo en etapa terminal;
+XXVII.- Dejar de cumplir las demás obligaciones que les imponga la presente ley y demás disposiciones aplicables.
 
-II. La atención psicológica, procurando dominar los trastornos de ansiedad, depresión, temor e insomnio, facilitándole periodos de vigilia y lucidez mental para la comunicación y desempeño de las actividades del enfermo en etapa terminal;
+###### ARTÍCULO 160.
 
-III. La atención médica integral;
+Se consideran faltas graves:
 
-IV El trato digno, respetuoso y profesional por parte del personal médico y sanitario, el cual procurará en todo momento la preservación de la calidad de vida del paciente;
+I.- Realizar conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, o cualquier acción que genere o implique subordinación respecto de alguna persona, del mismo u otro poder;
 
-V La información clara, oportuna y suficiente sobre las condiciones y efectos de la enfermedad y los tipos de tratamientos que puede optar el paciente;
+II.- Solicitar o recibir, por sí o por interpósita persona, dinero, valores, servicios o cualquier otra dadiva, ya sea por concepto de gastos, gratificaciones, obsequios, remuneración por diligencias o actuaciones judiciales que se practiquen dentro o fuera de los recintos oficiales, sin importar que éstas se efectúen después de las horas de despacho;
 
-VI. La atención tanatológica;
+III.- Interferir indebidamente, por si o por interpósita persona, en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial del Estado;
 
-VII. Los servicios espirituales, cuando lo solicite el enfermo en etapa terminal, su familia, representante legal o persona de su confianza; y
+IV.- Tener una notoria ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
 
-VIII. Las demás que establezca la Ley General de Salud.
+V.- Impedir que las partes ejerzan los derechos que legalmente les correspondan en los procedimientos;
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+VI.- Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
 
-###### ARTICULO 139 Sexies.
+VII.- Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones correspondientes;
 
-El paciente en etapa terminal, tiene derecho a solicitar la suspensión del tratamiento curativo y solicitar el tratamiento paliativo en términos de la ley de la materia; así mismo el paciente tiene derecho a que se le aplique la atención médica del control del dolor en un domicilio particular.
+VIII.- Dictar sentencias o resoluciones contrarias o en exceso de lo que se emitió en sala de audiencias;
 
-El paciente en etapa terminal que reciba los cuidados paliativos, en cualquier momento podrá solicitar recibir nuevamente el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
+IX.- Dictar, a sabiendas, una resolución de fondo o una sentencia definitiva ilícita por violar algún precepto terminante de la ley que no admita interpretación;
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+X.- Las previstas en la Ley de Responsabilidades Administrativas aplicable, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional;
 
-###### ARTICULO 139 Septies.
+XI.- Litigar, directa o indirectamente, salvo que se trate de asuntos propios, de sus ascendientes, descendientes o cónyuges; y
 
-Las Instituciones del Sistema Estatal de Salud de segundo y tercer nivel:
+XII.- Las demás que determinen las leyes aplicables.
 
-I. Ofrecerán la atención especializada a los enfermos en etapa terminal;
+###### ARTÍCULO 161.
 
-II. Prestarán la orientación, asesoría y seguimiento al enfermo en etapa terminal, familiares o persona de confianza cuando los cuidados paliativos se realicen en el domicilio particular.
+Cuando la persona titular del órgano jurisdiccional o administrativo advierta que sus subalternos incurran en alguna falta administrativa, elaborará el acta respectiva, la que remitirá, dentro de los tres días siguientes, al Órgano de Investigación de Responsabilidades Administrativas, para que intervenga conforme a sus facultades investigadoras.
 
-En el caso de que los cuidados paliativos se realicen en el domicilio particular, el Instituto de Salud del Estado cantará con una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al enfermo en etapa terminal, a sus familiares o persona de su confianza;
+Cuando la o el titular no proceda en los términos indicados, será sancionado por el Tribunal de Disciplina Judicial.
 
-III. Proporcionarán los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el diagnóstico de la enfermedad terminal y a solicitud del interesado y hasta el último momento de acuerdo a la ley aplicable sobre la materia;
+### CAPÍTULO IV. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
-IV. Impulsarán la creación de áreas especializadas en cuidados paliativos; y
+###### ARTÍCULO 162.
 
-V. Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos y atención a enfermos en etapa terminal de acuerdo a lo establecido.
+El procedimiento para la investigación por la presunta responsabilidad administrativa de las personas servidoras públicas del Poder Judicial, iniciará:
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+I.- Por denuncia o queja de quien tenga interés directo o indirecto en el procedimiento, que podrá formularse por escrito, comparecencia o medios electrónicos autorizados por el Tribunal de Disciplina Judicial;
 
-###### ARTICULO 139 Octies.
+II.- De oficio, cuando de las diligencias llevadas a cabo por las autoridades competentes en su facultad de investigación, de las actas levantadas a los subalternos o con motivo de las visitas practicadas a los órganos y oficinas del Poder Judicial, por Órgano de Investigación de Responsabilidades Administrativas, de las auditorías realizadas por el Órgano de Control de este Poder Judicial, o de las propias actuaciones de la persona servidora pública involucrada, se adviertan irregularidades; y
 
-El personal médico y sanitario que preste los cuidados paliativos, para el mejor desempeño de sus servicios, deberá estar debidamente capacitado, humana y técnicamente, de conformidad con lo establecido en el Título Sexto de la presente Ley.
+III.- Por el Órgano de Fiscalización Superior del Estado, en ejercicio de sus funciones.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+Cuando se considere necesario, se mantendrá con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones.
 
-###### ARTICULO 139 Nonies.
+###### ARTÍCULO 163.
 
-Los médicos especialistas en las instituciones de segundo y tercer nivel, tendrán las siguientes obligaciones:
+Las quejas o denuncias ante la autoridad investigadora, deberán contener datos o indicios que permitan advertir la presunta responsabilidad de la persona servidora pública, debiendo establecer los lineamientos para que las mismas sean atendidas y resueltas con eficiencia.
 
-I. Proporcionar toda la información que el paciente requiera, así como la que el médico considere necesaria para que el enfermo en etapa terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+El plazo para la presentación de denuncia o queja, se sujetará a las siguientes reglas:
 
-II. Solicitar al enfermo en etapa terminal, por escrito, el consentimiento en lo referente al tratamiento paliativo al que quiere someterse, de conformidad con la ley aplicable en la materia.
+I.- Deberá presentarse dentro del término de quince días hábiles, contados a partir del siguiente en que el quejoso o denunciante haya tenido conocimiento de la conducta presumiblemente infractora. En el supuesto de que el procedimiento de donde emane la queja o denuncia se desarrolle fuera de la capital del Estado de Tamaulipas, quien la interponga tendrá un día más de plazo para su presentación por cada ochenta kilómetros o fracción que exceda de la décima parte por razón de la distancia que medie entre la capital y la localidad donde se ubique el juzgado o la unidad administrativa de que se trate; y
 
-En caso de que el enfermo en etapa Terminal se encuentre imposibilitado de acudir ante el notario, el personal médico especialista, podrá suscribir ante dos testigos, el documento donde conste el consentimiento referente al tratamiento de cuidados paliativos en los términos que establezca el Instituto de Salud del Estado de Aguascalientes;
+II.- Independientemente de esa circunstancia, el plazo para iniciar el procedimiento de oficio, prescribirá en los plazos establecidos en esta propia ley.
 
-III. Informar oportunamente al enfermo en etapa terminal, cuando el tratamiento curativo no dé resultados;
+###### ARTÍCULO 164.
 
-IV. Informar al enfermo en etapa terminal, sobre las opciones que existan de cuidados paliativos;
+La autoridad competente tendrá acceso a la información necesaria para el esclarecimiento de los hechos; tratándose de faltas graves podrá incluirse aquélla información que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de infracciones a que se refiere esta ley, con la obligación de mantener la misma reserva o secrecía, conforme a lo que determinen las leyes aplicables.
 
-V. Respetar la decisión del enfermo en etapa terminal en lo referente al tratamiento al que opte someterse, una vez que se le haya explicado en términos sencillos las consecuencias de su decisión;
+Las autoridades competentes encargadas de la investigación podrán allegarse de cualquier prueba documental, archivo digital o electrónico que consideren necesaria para el esclarecimiento de los hechos, así como ordenar la práctica de visitas de verificación, siempre que no sean contrarias a la ley.
 
-VI. Garantizar en todo momento que se brinden los cuidados básicos al enfermo en etapa terminal;
+###### ARTÍCULO 165.
 
-VII. Procurar las medidas mínimas necesaria para preservar la calidad de vida de los enfermos en etapa terminal;
+Para el cumplimiento de las atribuciones de las autoridades que conozcan del procedimiento de responsabilidades administrativas, se podrán emplear los siguientes medios de apremio:
 
-VIII. Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala esta Ley y la ley aplicable en la materia;
+I.- Multa hasta por la cantidad equivalente a cien veces el valor diario de la Unidad de Medida y Actualización, la cual podrá duplicarse en caso de renuencia al cumplimiento del mandato respectivo;
 
-IX. Hacer saber al enfermo, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad tienen posibles efectos secundarios tendientes a disminuir el tiempo de vida;
+II.- Auxilio de la fuerza pública; o
 
-X. Solicitar una segunda opinión a otro médico especialista, cuando su diagnóstico sea una enfermedad terminal; y
+III.- Arresto hasta por treinta y seis horas.
 
-XI. Las demás que le señalen ésta y otras leyes aplicables a la materia.
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+###### ARTÍCULO 166.
 
-###### ARTICULO 139 Decies.
+La investigación deberá realizarse en un plazo no mayor a seis meses.
 
-Los médicos tratantes tendrán las siguientes atribuciones:
+Concluidas las diligencias de investigación, las autoridades investigadoras procederán al análisis de los hechos, así como de la información recabada, a efecto de determinar la existencia o inexistencia de actos u omisiones que la presente ley señala como falta administrativa y, en su caso, calificarla como grave o no grave.
 
-I. Podrán suministrar fármacos paliativos a un enfermo en etapa terminal, aún cuando con ello se pierda el estado de alerta, siempre y cuando se suministren dichos fármacos paliativos con el objetivo de aliviar el dolor del paciente;
+Una vez calificada la conducta en los términos del párrafo anterior, se incluirá la misma en el respectivo informe y éste se presentará ante la autoridad substanciadora, dentro de los diez días hábiles siguientes de finalizada la investigación, a efecto de iniciar el procedimiento de responsabilidad administrativa.
 
-II. Podrán hacer uso, de ser necesario, de analgésicos del grupo de los opioides de acuerdo con lo estipulado en la presente Ley.
+Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar.
 
-En el caso de las Fracciones anteriores, se requerirá el consentimiento del enfermo, o en su defecto, de las personas que deban otorgarlo, según lo previsto por la ley aplicable a la materia;
+Dicha determinación, en su caso, se notificará a las personas servidoras públicas y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión.
 
-III. No podrán suministrar tales fármacos con la finalidad de acortar o terminar la vida del paciente, en tal caso se estará sujeto a las disposiciones penales aplicables;
+### CAPÍTULO V. DE LAS SANCIONES
 
-IV. En ningún caso y por ningún motivo implementarán medios extraordinarios al enfermo en etapa terminal, sin su consentimiento.
+###### ARTÍCULO 167.
 
-Entendiéndose por medios extraordinarios aquellos que constituyen una carga demasiado grave para el enfermo y cuyo perjuicio es mayor que los beneficios;
+El procedimiento de responsabilidad administrativa, desde la investigación hasta el cumplimiento y ejecución de la sanción, deberán observarse los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material, el respeto a los derechos humanos, con especial énfasis en la presunción de inocencia; el derecho a la no autoincriminación, el derecho a la defensa y el debido proceso, garantizando el derecho de audiencia a las personas involucradas. La perspectiva de género será transversal desde la investigación y hasta la resolución final de los asuntos, buscando que los procesos estén dotados de una dimensión restaurativa en aquellos casos y conforme a los criterios que al respecto definan los acuerdos generales que al efecto se emitan.
 
-V. No deberán aplicar tratamientos o medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía; y
+###### ARTÍCULO 168.
 
-VI. Deberán anexar en el historial clínico, la información que haga constatar la voluntad del enfermo en etapa terminal, así como las circunstancias hasta su culminación.
+El procedimiento de responsabilidad administrativa dará inicio cuando la autoridad substanciadora, admita el informe derivado de la investigación.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+La autoridad investigadora deberá presentar ante la autoridad substanciadora el informe respectivo, la cual, dentro de los tres días siguientes se pronunciará sobre su admisión, pudiendo prevenir a la autoridad investigadora para que subsane las omisiones que advierta, o que aclare los hechos narrados en el informe.
 
-ARTICULO 139 Undecies.- El personal médico que tenga a su cargo el cumplimiento de las disposiciones establecidas para los cuidados paliativos, cuyas creencias religiosas y convicciones personales sean contrarias a tales disposiciones, podrán ser objetores de conciencia y por tal razón podrán excusarse de intervenir en su realización desde el momento en que el paciente solicite el tratamiento de cuidados paliativos.
+En el caso de que la autoridad substanciadora admita el informe, ordenará el emplazamiento del presunto responsable, para que (sic) un plazo de diez días hábiles formule la contestación sobre los hechos que se le atribuyen y ofrezca las pruebas que estime necesarias para su defensa.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+###### ARTÍCULO 169.
 
-ARTICULO 139 Duodecies.- El personal médico que, por decisión propia, deje de proporcionar los cuidados básicos o cualquier tratamiento o cuidado sin el consentimiento del enfermo en etapa terminal, o en caso que esté impedido para expresar su voluntad, el de su familia o persona de confianza, será sancionado conforme lo establecido por las leyes aplicables.
+Transcurrido el plazo para que el probable responsable rinda su contestación, la autoridad substanciadora, emitirá el acuerdo de admisión de pruebas que corresponda, y abrirá en su caso, el procedimiento para desahogo y preparación de pruebas por un plazo de diez días hábiles.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la autoridad substanciadora declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes.
 
-ARTICULO 139 Terdecies.- Queda prohibida, la práctica de la eutanasia, entendida como la ayuda al suicidio conforme lo señala la legislación Penal, bajo el amparo de esta ley.
+Una vez trascurrido el periodo de alegatos, la autoridad substanciadora, declarará cerrada la instrucción y dentro de los treinta días hábiles siguientes, se procederá a emitir la resolución que corresponda.
 
-En tal caso se estará a lo que señalan las disposiciones penales aplicables.
+La resolución deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes o quejosos, únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
-## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
+###### ARTÍCULO 170.
 
-###### ARTICULO 146.
+Las autoridades investigadoras podrán solicitar a la autoridad substanciadora, que decrete aquellas medidas cautelares que:
 
-El Gobierno del Estado y los Municipios promoverán la creación de establecimientos en los que se brinde atención a personas con padecimientos mentales, a niños desprotegidos y a ancianos desamparados.
+I.- Eviten el ocultamiento o destrucción de pruebas;
 
-###### ARTICULO 147.
+II.- Impidan la continuación de los efectos perjudiciales de la presunta falta administrativa;
 
-Serán consideradas instituciones de beneficencia privada las que se constituyan conforme a esta ley, a la Ley del Sistema Estatal de Asistencia Social y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales, sin propósito de lucro y sin designar individualmente a los beneficiarios.
+III.- Eviten la obstaculización del adecuado desarrollo del procedimiento de responsabilidad administrativa;
 
-###### ARTICULO 148.
+IV.- Eviten un daño irreparable al patrimonio del Estado; y
 
-El organismo encargado de la asistencia social, será el que ejercerá la vigilancia y promoción de las instituciones de beneficencia privada.
+V.- Salvaguarden la integridad de las personas potencialmente afectadas por conductas graves, particularmente en casos de violencia sexual.
 
-###### ARTICULO 149.
+No se podrán decretar medidas cautelares en los casos en que se cause un perjuicio al interés social o se contravengan disposiciones de orden público.
 
-Serán consideradas instituciones de asistencia privada los asilos, hospicios, las casas de cuna y las demás que determinen otras disposiciones legales.
+Para la imposición de las medidas cautelares se estará a lo establecido en el Reglamento que al efecto se emita y, en su defecto, a la Ley General de Responsabilidades Administrativas y su correlativa Ley de Responsabilidades Administrativas del Estado.
 
-###### ARTICULO 150.
+###### ARTÍCULO 171.
 
-Los servicios y acciones que presten y realicen las instituciones de asistencia privada se someterán a las disposiciones de esta Ley, a los Programas Nacional y Estatal de Salud y a las demás disposiciones legales aplicables.
+El Tribunal de Disciplina Judicial es el órgano competente para investigar, substanciar y resolver los procedimientos de responsabilidades administrativas por presuntas faltas cometidas por las personas servidoras públicas del Poder Judicial del Estado, así como aplicar las sanciones que correspondan, de acuerdo con las siguientes atribuciones:
 
-###### ARTICULO 151.
+I.- Las Comisiones del Tribunal de Disciplina Judicial serán competentes para substanciar y resolver en primera instancia respecto de las responsabilidades administrativas no graves de las personas servidoras públicas del Poder Judicial; y
 
-Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así se requiera.
+II.- El Pleno del Tribunal de Disciplina Judicial fungirá como segunda instancia en los procedimientos a los que se refiere la fracción anterior. En consecuencia, substanciará y resolverá el recurso de revisión en los procedimientos a los que se refiere la fracción anterior y los demás que resulten procedentes.
 
-### CAPITULO I. De la Asistencia Social
+En ningún caso los recursos de revisión podrán ser turnados para su substanciación y elaboración de proyecto de resolución respectivo a las Magistradas y los Magistrados que integren la Comisión que emitió la resolución recurrida.
 
-###### ARTICULO 152.
+Las resoluciones que emita en segunda instancia el Pleno del Tribunal de Disciplina Judicial serán definitivas e inatacables. Dichas resoluciones se tomarán por mayoría de cuatro votos; en caso de no alcanzarse tal votación deberán desestimarse las sanciones impuestas en primera instancia.
 
-El patrimonio de la beneficencia pública será administrado por el organismo creado para ello, correspondiéndole entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
+###### ARTÍCULO 172.
 
-###### ARTICULO 153.
+Las personas servidoras públicas del Tribunal de Disciplina Judicial responsables de la investigación, substanciación y resolución de las faltas administrativas incurrirán en obstrucción de la justicia cuando:
 
-Para los efectos de esta Ley, se entiende por discapacidad la limitación en la capacidad de una persona para realizar por sí misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica o social.
+I.- Realicen cualquier acto que simule conductas no graves durante la investigación de actos u omisiones calificados como graves en la presente Ley y demás disposiciones aplicables;
 
-###### ARTICULO 154.
+II.- No inicien el procedimiento correspondiente ante la autoridad competente, dentro del plazo de treinta días naturales, a partir de que tengan conocimiento de cualquier conducta que pudiera constituir una falta administrativa grave, faltas de particulares o un acto de corrupción; y
 
-La atención en materia de prevención de discapacidad y rehabilitación de personas con discapacidad comprende:
+III.- Revelen la identidad de un denunciante anónimo protegido bajo los preceptos establecidos en la Ley General de Responsabilidades Administrativas y su correlativa Ley de Responsabilidades Administrativas del Estado.
 
-I.- La investigación de las causas de la discapacidad y de los factores que la condicionan;
+###### ARTÍCULO 173.
 
-II.- La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la discapacidad;
+El Tribunal de Disciplina Judicial podrá atraer procedimientos relacionados con hechos que las leyes señalen como delitos. Para estos efectos, se considerarán faltas administrativas graves las conductas previstas en los tipos penales de los delitos contra la administración de justicia cuando dichas conductas sean realizadas por las personas servidoras públicas de Poder Judicial. Las sanciones correspondientes serán las que establezca esta Ley para las faltas graves.
 
-III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar discapacidad;
+Dichas conductas podrán juzgarse simultánea o sucesivamente, mediante los procedimientos penales y en los procedimientos administrativos instruidos por el Tribunal de Disciplina Judicial. En este segundo caso, para establecer la existencia de la falta administrativa grave y la responsabilidad de la persona juzgadora bastará con que, en atención a las pruebas admitidas y desahogadas, tanto de cargo como de descargo, sea más probable la hipótesis de culpabilidad que la hipótesis de inocencia.
 
-IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con alguna persona con discapacidad, promoviendo al efecto la solidaridad social;
+###### ARTÍCULO 174.
 
-V.- La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+El principio de independencia judicial garantiza a las personas juzgadoras la posibilidad de ejercer sin interferencias de ningún tipo su criterio jurisdiccional para resolver las controversias de las que conozcan con respeto al marco normativo aplicable y, en su caso, valorando racionalmente las pruebas que obren en la causa.
 
-VI.- Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad; y
+###### ARTÍCULO 175.
 
-VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en el proceso de rehabilitación.
+Los procedimientos administrativos de responsabilidad se clasificarán por su materia de la manera siguiente:
 
-## TITULO QUINTO BIS. REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD
+I.- Faltas en contra de la administración de justicia, los cuales comprenden los actos u omisiones contrarios a los principios y normas que disciplinan la función judicial al momento de dictar resoluciones; y
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+II.- Faltas por infracción a deberes establecidos en la ley que no están relacionadas directamente con el ejercicio de la función judicial al momento de dictar resoluciones.
 
-### CAPITULO II. De la Discapacidad
+###### ARTÍCULO 176.
 
-###### ARTICULO 155.
+Los medios de impugnación en los procedimientos de responsabilidad administrativa estarán previstos en los acuerdos generales que al efecto emita el Pleno del Tribunal de Disciplina Judicial, de conformidad con lo que dispone la Constitución Política del Estado, esta Ley, la Ley General de Responsabilidades Administrativas, la correlativa Ley de Responsabilidades Administrativas del Estado, y demás disposiciones aplicables.
 
-Los servicios de rehabilitación que proporcionen los establecimientos del Sector Salud en el Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el Organismo a que se refiere la Ley de Asistencia Social del Estado de Aguascalientes.
+En el caso del Tribunal de Disciplina Judicial, dichos acuerdos deberán sujetarse a los siguientes lineamientos:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+a) Las decisiones disciplinarias emitidas por las Comisiones del Tribunal de Disciplina Judicial podrán ser impugnadas mediante recurso de revisión dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva. Su resolución corresponde al Pleno del Tribunal de Disciplina Judicial; y
 
-###### ARTICULO 156.
+b) La admisión y el desechamiento de quejas por parte de la presidencia del Tribunal de Disciplina Judicial, así como los dictámenes conclusivos y la inactividad procesal superior a seis meses por parte del Órgano de Investigación serán impugnables mediante recurso de inconformidad. Su resolución corresponderá a una Comisión del Tribunal de Disciplina Judicial.
 
-El Gobierno del Estado, a través del Organismo a que se refiere la Ley de Asistencia Social del Estado de Aguascalientes, y en coordinación con las dependencias y Entidades Federales y municipales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+###### ARTÍCULO 177.
 
-###### ARTICULO 157.
+Para toda cuestión que emane del procedimiento de responsabilidades administrativas a que se refiere este Capítulo, y que no sea contemplada dentro de la presente ley, se estará a lo dispuesto por los acuerdos generales que al efecto se emitan y, en su defecto, a la Ley General de Responsabilidades Administrativas, y en la Ley de Responsabilidades Administrativas del Estado.
 
-El Organismo en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con discapacidad.
+### CAPÍTULO ÚNICO
 
-## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
+###### ARTÍCULO 178.
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+Las sanciones por las faltas administrativas contempladas en la presente Ley serán las siguientes:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+A. Tratándose de faltas administrativas no graves, las sanciones consistirán en:
 
-###### ARTICULO 158.
+I.- Amonestación privada o pública;
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales y municipales para la ejecución en el Estado del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+II.- Suspensión del empleo, cargo o comisión;
 
-I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
+III.- Destitución de su empleo, cargo o comisión; y
 
-II.- La educación sobre los efectos del alcohol en el organismo, el daño a la salud por el abuso del mismo en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
+IV.-Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+Se podrán imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo con la trascendencia de la falta administrativa no grave. La suspensión del empleo, cargo o comisión que se imponga podrá ser de uno a treinta días naturales. En caso de que se imponga como sanción la inhabilitación temporal, ésta no será menor de tres meses ni podrá exceder de un año.
 
-###### ARTICULO 159.
+B. Tratándose de faltas administrativas graves, las sanciones consistirán en:
 
-Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las autoridades sanitarias del Estado, en coordinación con otras dependencias y entidades públicas, realizarán actividades de investigación en los siguientes aspectos:
+I. Suspensión del empleo, cargo o comisión;
 
-I.- Causas del alcoholismo y acciones para controlarlas;
+II. Destitución del empleo, cargo o comisión;
 
-II.- Efectos de la publicidad en la incidencia del alcoholismo y en los problemas relacionados con el consumo de bebidas alcohólicas;
+III. Sanción económica; e
 
-III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
+IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas.
 
-IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
+A juicio de la autoridad resolutora podrán ser impuestas a la persona infractora una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo con la gravedad de la falta administrativa grave.
 
-###### ARTICULO 160.
+La suspensión del empleo, cargo o comisión que se imponga podrá ser de treinta a noventa días naturales.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del programa contra el tabaquismo, que comprenderá, entre otras, las siguientes acciones:
+En caso de que se determine la inhabilitación, ésta será de uno hasta diez años si el monto de la afectación de la falta administrativa grave no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización, y de diez a veinte años si dicho monto excede de dicho límite. Cuando no se causen daños o perjuicios, ni exista beneficio o lucro alguno, se podrán imponer de tres meses a un año de inhabilitación.
 
-I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo; y
+En el caso de que la falta administrativa grave cometida por la persona servidora pública le genere beneficios económicos, a sí misma o a cualquiera de las personas a que se refiere el artículo 52 de la Ley General de Responsabilidades Administrativas, se le impondrá sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos. En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios económicos obtenidos. Lo anterior, sin perjuicio de la imposición de las sanciones antes referidas.
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
+Asimismo, se determinará el pago de una indemnización cuando, la falta administrativa grave a que se refiere el párrafo anterior provocó daños y perjuicios a la hacienda pública estatal o municipal, o al patrimonio de los entes públicos. En dichos casos, la persona servidora pública estará obligada a reparar la totalidad de los daños y perjuicios causados y las personas que, en su caso, también hayan obtenido un beneficio indebido, serán solidariamente responsables.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+C. Las sanciones administrativas aplicables a particulares por la comisión de alguna falta administrativa consistirán en:
 
-###### ARTICULO 161.
+I. Para personas físicas:
 
-Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
+a) Sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos o, en caso de no haberlos obtenido, por el equivalente a la cantidad de cien hasta ciento cincuenta mil veces el valor diario de la Unidad de Medida y Actualización;
 
-I. La investigación de las causas del tabaquismo y de las acciones para controlarlas;
+b) Inhabilitación temporal para participar en adquisiciones, arrendamientos, servicios u obras públicas, según corresponda, por un periodo que no será menor de tres meses ni mayor de ocho años; e
 
-II. La educación a la familia para prevenir el consumo del tabaco por parte de niños y adolescentes;
+c) Indemnización por los daños o perjuicios ocasionados al patrimonio del Poder Judicial o a la Hacienda Pública.
 
-III. La prevención del tabaquismo, haciendo énfasis en la infancia y la adolescencia, con enfoque de género; y
+II. Para personas morales:
 
-IV. El tratamiento del tabaquismo.
+a) Sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos o, en caso de no haberlos obtenido, por el equivalente a la cantidad de mil hasta un millón quinientas mil veces el valor diario de la Unidad de Medida y Actualización;
 
-## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
+b) Inhabilitación temporal para participar en adquisiciones, arrendamientos, servicios u obras públicas, por un periodo que no será menor de tres meses ni mayor de diez años;
 
-### CAPITULO II. Programa Contra el Tabaquismo
+c) La suspensión de actividades, por un periodo que no será menor de tres meses ni mayor de tres años, la cual consistirá en detener, diferir o privarlos temporalmente de sus actividades comerciales, económicas, contractuales o de negocios por estar vinculados a faltas administrativas graves;
 
-###### ARTICULO 162.
+d) Disolución de la sociedad respectiva, la cual consistirá en la pérdida de la capacidad legal de una persona moral, para el cumplimiento del fin por el que fue creada por orden jurisdiccional y como consecuencia de la comisión, vinculación, participación y relación con una falta administrativa grave; e
 
-Compete al Organismo en los términos de esta Ley y de las demás disposiciones legales aplicables, el control sanitario de las materias a que se refiere el Artículo 28, Apartado "B" de esta Ley.
+e) Indemnización por los daños o perjuicios ocasionados al patrimonio del Poder Judicial o a la hacienda pública.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Para la imposición de sanciones a las personas morales deberá observarse, además, lo previsto en los artículos 24 y 25 de la Ley General de Responsabilidades Administrativas y sus correlativos de la Ley de Responsabilidades Administrativas del Estado.
 
-###### ARTICULO 163.
+Las sanciones previstas en los incisos c) y d) de la fracción II, sólo serán procedentes cuando la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios o socias, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves.
 
-Para los efectos de este Título, se entiende por control sanitario, el conjunto de actos que lleva a cabo la autoridad a fin de prevenir riesgos y daños a la salud de la población, y comprende acciones de orientación, educación, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejerce en materia de salubridad local el Organismo con fundamento en lo dispuesto por la Ley General, la presente ley y los reglamentos y normas legales vigentes en la materia.
+Podrán imponerse a la o al particular una o más de las sanciones señaladas, siempre que sean compatibles entre ellas y conforme a la gravedad de las faltas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Se considerará como atenuante para la imposición de sanciones a personas morales el que los órganos de administración, representación, vigilancia, sus socios o sus socias denuncien o colaboren en las investigaciones proporcionando la información y los elementos que posean, o resarzan los daños que se hubieren causado.
 
-###### ARTICULO 164.
+Para la imposición de sanciones a las personas morales se considerará como agravante, el hecho de que los órganos de administración, representación, vigilancia, sus socios o sus socias conozcan presuntos actos de corrupción de personas físicas que pertenecen a aquellas y no los denuncien.
 
-El Gobernador del Estado expedirá los reglamentos correspondientes, en los que se establezcan las reglas científicas o tecnológicas, que señalen los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, mediante las cuales se uniformen los principios, criterios, políticas y estrategias, a efecto de que éstas sean obligatorias.
+###### ARTÍCULO 179.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+El plazo de prescripción de faltas graves de las y los servidores públicos o de faltas de particulares, será de siete años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado. La prescripción se interrumpirá con la notificación del inicio del procedimiento de responsabilidad administrativa.
 
-###### ARTICULO 165.
+Si se dejare de actuar en los procedimientos de responsabilidad administrativa y, como consecuencia de ello, se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se admitió el Informe de Presunta Responsabilidad Administrativa.
 
-El control sanitario en las materias de salubridad local, quedará sujeto a lo dispuesto por la Ley General, la Ley Estatal y sus reglamentos.
+En ningún caso, en los procedimientos de responsabilidad administrativa podrá dejar de actuarse por más de seis meses sin causa justificada; en caso de actualizarse dicha inactividad, se decretará, a solicitud del presunto responsable, la caducidad de la instancia.
 
-###### ARTICULO 166.
+Para efectos de lo previsto en el párrafo anterior, se considera causa justificada el hecho de que la o el servidor público se encuentre de vacaciones o gozando de una licencia para efectos del emplazamiento, por lo que no procederá la caducidad de la instancia.
 
-Los establecimientos que señala el Artículo 28, Apartado "B" de esta Ley, no requerirán de autorización sanitaria; debiéndose ajustar al control y verificación sanitarias, así como a los requisitos sanitarios establecidos en las disposiciones reglamentarias y normas técnicas que en materia de salubridad local se expidan.
+Los plazos a los que se refiere este artículo se computarán en días naturales.
 
-### CAPITULO I. Disposiciones Comunes
+###### ARTÍCULO 180.
 
-###### ARTICULO 167.
+Las faltas no graves prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las faltas, o a partir del momento en que hubieren cesado.
 
-Deberán dar aviso de funcionamiento los establecimientos que no requieran autorización sanitaria y que, mediante acuerdo, determine el Organismo.
+Si se dejare de actuar en los procedimientos de responsabilidad administrativa y, como consecuencia de ello, se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se ordenó su inicio.
 
-El Acuerdo a que se refiere el párrafo anterior clasificará a los establecimientos en función de la actividad que realicen y se publicará en el Periódico Oficial del Estado.
+En ningún caso, en los procedimientos de responsabilidad administrativa podrá dejar de actuarse por más de seis meses sin causa justificada; en caso de actualizarse dicha inactividad, se decretará, a solicitud del presunto responsable, la caducidad de la instancia.
 
-El aviso a que se refiere este artículo deberá presentarse por escrito al Organismo o a los Ayuntamientos, según se determine en los Acuerdos de Coordinación correspondientes, dentro de los diez días posteriores al inicio de operaciones y contendrá los siguientes datos:
+Para efectos de lo previsto en el párrafo anterior, se considera causa justificada el hecho de que la o el servidor público se encuentre de vacaciones o gozando de una licencia para efectos del emplazamiento, por lo que no procederá la caducidad de la instancia.
 
-I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
+Los plazos a los que se refiere este artículo se computarán en días naturales.
 
-II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio de operaciones;
+###### ARTÍCULO 181.
 
-III.- Procesos utilizados y línea o líneas de productos;
+Las faltas serán valoradas y, en su caso sancionadas, de conformidad con los criterios establecidos en los artículos 75 a 80 de la Ley General de Responsabilidades Administrativas y su correlativos de la Ley de Responsabilidades Administrativas del Estado.
 
-IV.- Declaración, bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
+En todo caso, se considerarán como faltas graves, además de las establecidas en el artículo 160 de esta Ley, las así calificadas por la Ley General de Responsabilidades Administrativas, en la Ley de Responsabilidades Administrativas del Estado, y las señaladas en el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos.
 
-V.- Clave de actividad del establecimiento; y
+###### ARTÍCULO 182.
 
-VI.- Número de cédula profesional, en su caso, del responsable sanitario.
+Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Tribunal de Disciplina Judicial, a través del órgano que resulte correspondiente, dictará las providencias oportunas para su corrección o remedio inmediato, y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno para que proceda en los términos previstos en este Título.
 
-###### ARTICULO 168.
+###### ARTÍCULO 183.
 
-Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
+Si el Tribunal de Disciplina Judicial estima que la queja fue interpuesta sin motivo, se impondrá a la o el quejoso, a su representante, a su abogado o abogada, o a todos, una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, al momento de interponerse la queja.
 
-###### ARTICULO 169.
+## TÍTULO SÉPTIMO. DE LAS VISITAS A LOS RECLUSORIOS
 
-Para los efectos de esta Ley se entiende por:
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-Mercado: El sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados; y
+###### ARTÍCULO 184.
 
-Centro de Abasto: El sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compra y venta al mayoreo y medio mayoreo de productos en general.
+El Supremo Tribunal de Justicia comisionará a una Magistrada o Magistrado o a una Jueza o un Juez, cuando lo estime conveniente, para efectuar visita de supervisión a los reclusorios del Estado, en los casos que legalmente proceda y se estime necesario.
 
-###### ARTICULO 170.
+###### ARTÍCULO 185.
 
-Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetará a lo que disponga esta Ley, los Reglamentos respectivos, otras disposiciones legales aplicables, y las normas técnicas locales correspondientes.
+Las visitas no se practicarán en día fijo ni con previo aviso a las y los jefes o directoras o directores de los establecimientos respectivos. Las Juezas y los Jueces Penales y Mixtos, así como las Juezas y los Jueces Especializados en Justicia para Adolescentes estarán obligados a realizar cuando menos una visita bimestral a los reclusorios de su distrito y a los Centros de Reintegración Social y Familiar para Adolescentes Infractores por lo menos dos veces por mes.
 
-###### ARTICULO 171.
+Las Juezas y los Jueces de Ejecución de Sanciones y los Jueces de Ejecución de Medidas para Adolescentes realizarán las visitas periódicamente.
 
-Los establecimientos ubicados dentro de los mercados o centros de abasto, catalogados como de salubridad general, serán verificados por la autoridad sanitaria competente.
+###### ARTÍCULO 186.
 
-###### ARTICULO 172.
+Las visitas tendrán por objeto:
 
-Para los efectos de esta Ley, se entiende por construcción toda edificación o local que se destine a la habitación, comercio, enseñanza, recreatividad, trabajo o cualquier otro uso, exceptuando la de los establecimientos de salud.
+I.- Dar oportunidad para que los reos sujetos a proceso se enteren del estado que guarda el mismo y presenten promociones que sean de su interés;
 
-###### ARTICULO 173.
+II.- Que la o el Juez se entere del estado higiénico y seguridad de los establecimientos;
 
-En los aspectos sanitarios, las construcciones, reconstrucciones, modificaciones y adaptaciones deberán cumplir con las disposiciones de esta Ley, las demás disposiciones legales aplicables y las normas técnicas locales correspondientes.
+III.- Supervisar el tratamiento que reciban los procesados; y
 
-###### ARTICULO 174.
+IV.- Constatar la estricta observancia de las prescripciones relativas al régimen penitenciario.
 
-Para iniciar y realizar la construcción, reconstrucción, modificación o acondicionamiento total o parcial de un edificio o local, se deberá dar el aviso a que se refiere el Artículo 167 de esta Ley, anexando el proyecto en cuanto a iluminación, ventilación, instalaciones sanitarias y contra accidentes, de conformidad con las disposiciones reglamentarias aplicables.
+###### ARTÍCULO 187.
 
-###### ARTICULO 175.
+La o el Magistrado o la Jueza o el Juez que practique la visita al Centro de Ejecución de Sanciones lo hará acompañado de la o el Secretario, quien levantará en cada visita un acta detallada en la que hará constar la información que reciban, así como las quejas y reclamaciones que presenten los presos a su disposición o los adolescentes infractores a quienes se hubiere impuesto tratamiento privativo de la libertad, y las observaciones que hagan las y los jefes o las o los directores de los reclusorios o de los Centros de Reintegración Social y Familiar para Adolescentes.
 
-Cuando el uso que se pretenda dar a un edificio o local sea público, además de los requisitos previstos en otras disposiciones aplicables, se deberá contar con agua potable corriente y retretes públicos, los cuales deberán reunir los requisitos técnicos sanitarios correspondientes.
+###### ARTÍCULO 188.
 
-###### ARTICULO 176.
+Se turnará a la Presidencia del Supremo Tribunal de Justicia un informe de lo observado durante la visita, así como las actas mencionadas en el artículo anterior, a fin de que se tomen las previsiones que se estimen convenientes.
 
-El encargado de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este Capítulo, deberá dar aviso de inicio y terminación de obra a la Autoridad Municipal competente quien vigilará el cumplimiento de los requisitos sanitarios aprobados en el proyecto.
+## TÍTULO OCTAVO. DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL DEL ESTADO
 
-Los edificios y locales podrán dedicarse sólo al uso que se destinen.
+### CAPÍTULO II. DE SUS ATRIBUCIONES
 
-###### ARTICULO 177.
+###### ARTÍCULO 189.
 
-Los edificios, locales, construcciones o terrenos urbanos, podrán ser verificados por la autoridad sanitaria competente, la que ordenará las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
+El Órgano de Administración Judicial contará con independencia técnica y de gestión y será responsable de la administración y carrera judicial del Poder Judicial del Estado, velando por su buen funcionamiento, autonomía, independencia, imparcialidad y legitimidad.
 
-### CAPITULO II. Mercados y Centros de Abasto
+###### ARTÍCULO 190.
 
-###### ARTICULO 178.
+El Órgano de Administración Judicial se integrará por cinco personas en los términos del artículo 106, fracción III de la Constitución Política del Estado, y funcionará en Pleno o a través de Comisiones.
 
-Los propietarios o poseedores de los edificios y locales, o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales aplicables y las normas técnicas locales correspondientes.
+###### ARTÍCULO 191.
 
-###### ARTICULO 179.
+La Presidencia del Órgano de Administración Judicial será designada mediante acuerdo de la mayoría de sus integrantes. La Presidenta o Presidente durará tres años en el encargo.
 
-Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
+###### ARTÍCULO 192.
 
-###### ARTICULO 180.
+El Pleno se conforma por las cinco personas integrantes del Órgano de Administración Judicial, pero bastará la presencia de la mayoría de ellas para funcionar. Las y los integrantes del Pleno deberán reunir los requisitos previstos en el artículo 106, fracción III de la Constitución Política del Estado.
 
-Para los efectos de esta Ley se considera:
+###### ARTÍCULO 193.
 
-I.- Cementerio: El lugar destinado a la inhumación de los cadáveres y restos humanos;
+Las personas integrantes del Pleno del Órgano de Administración Judicial sólo podrán ser removidas en los términos del Título XI de la Constitución Política del Estado. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
 
-II.- Crematorio: Las instalaciones destinadas a la incineración de cadáveres y restos humanos; y
+###### ARTÍCULO 194.
 
-III.- Funeraria: El establecimiento dedicado a la prestación del servicio, venta de féretros, velación y traslado de cadáveres de seres humanos a los cementerios o crematorios.
+Las sesiones ordinarias del Pleno del Órgano de Administración Judicial serán privadas y se celebrarán en los días y horas que el mismo determine mediante acuerdos generales.
 
-###### ARTICULO 181.
+El Pleno del Órgano de Administración Judicial podrá sesionar de manera extraordinaria a solicitud de su presidencia o de la mayoría de sus integrantes. En el último supuesto, dicha solicitud deberá presentarse a la o el Presidente del propio Órgano de Administración Judicial a fin de que emita la convocatoria correspondiente.
 
-La autoridad sanitaria competente verificará el establecimiento, funcionamiento, conservación y operación de cementerios en el Estado de Aguascalientes, de conformidad con lo que establezcan las disposiciones legales y reglamentarias respectivas.
+###### ARTÍCULO 195.
 
-###### ARTICULO 182.
+Las resoluciones del Pleno del Órgano de Administración Judicial se tomarán por el voto de la mayoría de las y los integrantes presentes, y por mayoría calificada de cuatro votos tratándose de los casos previstos en las fracciones I, II, X, XI, XII, XIII, XXXVII, XXXIX, LX y XLIV, del artículo 196 de esta Ley. Las y los integrantes no podrán abstenerse de votar sino cuando tengan impedimento legal. En caso de empate, la o el Presidente tendrá voto de calidad.
 
-Los cementerios deberán contar con áreas verdes y zonas destinadas a reforestación.
+El Pleno del Órgano de Administración Judicial calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si la persona impedida fuera la o el Presidente, será sustituido por la Magistrada o Magistrado del Tribunal de Disciplina Judicial más antiguo en el orden de su designación.
 
-###### ARTICULO 183.
+La o el integrante que disintiere de la mayoría podrá formular voto particular, el cual se insertará en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
 
-La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
+### CAPÍTULO III. DE LAS COMISIONES
 
-## TITULO SEXTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
+###### ARTÍCULO 196.
 
-### CAPITULO III. De las Construcciones
+Son atribuciones del Órgano de Administración Judicial:
 
-###### ARTICULO 184.
+I.- Establecer mediante acuerdo general las Comisiones y áreas administrativas, diversas a las previstas en esta Ley, que estime convenientes para su adecuado funcionamiento, y designar a las y los miembros que deban integrarlas;
 
-Para los efectos de esta Ley, se entiende por Servicio de Limpieza Pública la recolección, manejo, disposición y tratamiento de residuos sólidos, a cargo de los Ayuntamientos, los que estarán obligados a prestar este servicio de una manera regular y eficiente.
+II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial y de escalafón del Poder Judicial del Estado, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones;
 
-###### ARTICULO 185.
+III.- Intervenir y coordinar el funcionamiento entre los órganos del Poder Judicial del Estado;
 
-Para los efectos de la presente Ley, se entenderá por residuos sólidos, el material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control y tratamiento de cualquier producto cuya calidad no permita usarlo nuevamente en el proceso que lo generó, que provengan de actividades que se desarrollen en domicilios, establecimientos mercantiles, industriales o de servicios y de las vías públicas.
+IV.- Determinar el número y los límites territoriales de los distritos en que se divida el territorio del Estado;
 
-###### ARTICULO 186.
+V.- Determinar el número, límites territoriales y, en su caso, especialización por materia, de los Juzgados en cada uno de los distritos;
 
-El Servicio de Limpieza Pública se sujetará a lo siguiente:
+VI.- Cambiar la residencia de los Juzgados de Primera Instancia y Menores;
 
-I.- Los desechos sólidos se manipularán lo estrictamente indispensable durante el transporte a su destino final, vigilando que no se ocasionen riesgos a la salud;
+VII.- Regular las autorizaciones para abandonar el lugar de residencia de las y los funcionarios judiciales;
 
-II.- Queda prohibida la quema o incineración de residuos sólidos cuya combustión sea nociva para la salud fuera de los lugares que determine la autoridad sanitaria competente;
+VIII.- Resolver sobre la adscripción y readscripción de las y los Jueces de Primera Instancia y Menores;
 
-III.- Los residuos sólidos patológicos de los hospitales deberán manejarse separadamente de los otros, procediéndose a su incineración o eliminación a través de cualquier otro método previsto en las disposiciones legales aplicables;
+IX.- Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los Juzgados de Primera Instancia y Menores, cuando en un mismo lugar haya varios de ellos;
 
-IV.- Los restos de animales encontrados en la vía pública deberán incinerarse o enterrarse por la autoridad municipal, procurando que dichas acciones sean llevadas a cabo antes de que los restos entren en estado de descomposición;
+X.- Dictar las medidas que sean necesarias para preservar la seguridad de las personas juzgadoras;
 
-V.- El depósito final de los residuos sólidos deberá estar situado a una distancia no menor de dos kilómetros de asentamientos humanos, en contra de los vientos dominantes y sin que sea visible desde las carreteras, correspondiendo a la autoridad sanitaria fijar criterios de ubicación de los mismos, sin perjuicio de lo que establezcan las disposiciones legales en la materia;
+XI.- Dictar medidas como las relativas al cambio de adscripción, cambio de órgano jurisdiccional, o reubicación del personal del Poder Judicial del Estado para facilitar las investigaciones y procedimientos disciplinarios respectivos, en coordinación con el Tribunal de Disciplina Judicial;
 
-VI.- La basura deberá incinerarse periódicamente en los lugares dispuestos para tal efecto o destruirse por otros procedimientos, excepto cuando sea industrializable o tenga empleo útil, siempre y cuando no signifique un peligro para la salud; y
+XII.- Aplicar y ejecutar las medidas provisionales necesarias que permitan la efectiva substanciación de cualquier proceso de investigación, por sí, o a solicitud del Tribunal de Disciplina Judicial;
 
-VII.- El cumplimiento de las demás medidas y requisitos que establezcan las leyes y reglamentos vigentes en el Estado y las normas técnicas locales que expida la autoridad sanitaria.
+XIII.- Hacer del conocimiento del Congreso del Estado los cargos sujetos a elección, la cantidad de plazas disponibles para cada cargo, la especialización por materia, el distrito judicial respectivo y demás información que se requiera;
 
-###### ARTICULO 187.
+XIV.- Recibir las renuncias que presenten las y los Jueces e informarlas al Congreso del Estado a para los efectos del artículo 109, de la Constitución Política del Estado;
 
-Las autoridades municipales fijarán lugares especiales para depositar la basura, tomando en cuenta, al efecto, la legislación aplicable en materia de contaminación ambiental.
+XV.- Acordar el retiro por término de mandato de las personas juzgadoras;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+XVI.- Acordar las remociones del personal del Poder Judicial del Estado, conforme a lo que determine el Tribunal de Disciplina Judicial;
 
-###### ARTICULO 188.
+XVII.- Establecer las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo del Poder Judicial del Estado;
 
-El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
+XVIII.- Determinar las disposiciones generales necesarias para el ingreso, permanencia y separación del personal de carrera judicial y administrativo de conformidad con las disposiciones aplicables;
 
-## TITULO SEPTIMO. INVESTIGACION PARA LA SALUD
+XIX.- Conocer y autorizar las licencias, con o sin goce de sueldo, para todas las personas servidoras públicas del Poder Judicial del Estado, con excepción de los cargos de Magistrada o Magistrado;
 
-### CAPITULO IV. Servicios Funerarios
+XX.- Autorizar las licencias, cuando éstas no excedan de un mes, para el caso de Juezas y Jueces de Primera Instancia y Menores;
 
-###### ARTICULO 189.
+XXI.- Aprobar en cada distrito listas de servidoras y servidores públicos autorizados para desempeñar funciones jurisdiccionales, en caso de ausencia de la persona titular del órgano jurisdiccional;
 
-Los Gobiernos Estatal y Municipales, en sus respectivos ámbitos de competencia, se coordinarán con las dependencias del Sector Público Estatal para procurar que las poblaciones tengan servicio regular de aprovisionamiento y distribución de agua potable.
+XXII.- Autorizar en términos de esta Ley, a las y los Jueces de Primera Instancia y Menores para que, en casos de ausencias de alguna de sus personas servidoras públicas o empleadas, nombren a una interina o un interino;
 
-###### ARTICULO 190.
+XXIII.- Designar a quien deba cubrir las vacantes de secretario o secretaria, actuaria o actuario u oficial judicial, cuando venciere el plazo para que el titular del órgano jurisdiccional lo hiciere;
 
-Los proyectos de abastecimiento de agua potable deberán ser sometidos a la consideración de las autoridades competentes, para la aprobación del sistema adoptado y para el análisis minucioso de las aguas.
+XXIV.- Aprobar el proyecto del presupuesto anual de egresos del Poder Judicial del Estado y enviarlo a la Gobernadora o Gobernador para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+XXV.- Ejercer el presupuesto de egresos del Poder Judicial del Estado, con excepción del asignado al Supremo Tribunal de Justicia;
 
-###### ARTICULO 191.
+XXVI.- Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial del Estado, en ejercicio de su presupuesto de egresos, se ajuste a los criterios contemplados en el artículo 161 de la Constitución Política del Estado;
 
-El organismo realizará periódicamente el análisis de la calidad microbiológica y físico-química del agua, para determinar su potabilidad, conforme a esta Ley y demás disposiciones legales aplicables.
+XXVII.- Administrar los bienes muebles e inmuebles del Poder Judicial del Estado, incluyendo los documentos integrados; garantizando su mantenimiento, conservación y acondicionamiento;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+XXVIII.- Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
 
-###### ARTICULO 192.
+XXIX.- Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares;
 
-En los Municipios que carezcan del sistema de agua potable y alcantarillado, se deberán proteger las fuentes de abastecimiento para prevenir su contaminación, conforme a la normatividad sanitaria aplicable en la materia.
+XXX.- Coordinar y supervisar el buen funcionamiento de los órganos auxiliares del Órgano de Administración Judicial;
 
-###### ARTICULO 193.
+XXXI.- Nombrar, a propuesta que haga su Presidenta o Presidente, a las y los titulares de los órganos auxiliares del Poder Judicial del Estado y resolver sobre sus renuncias y licencias cuando no sean mayores a treinta días;
 
-Queda prohibido utilizar para el consumo humano, el agua de pozo o aljibe que no se encuentre situado a una distancia conveniente de retretes, alcantarillados, estercoleros o depósitos de desperdicios que puedan contaminarlos.
+XXXII.- Nombrar a las y los servidores públicos de los órganos auxiliares del Órgano de Administración Judicial, y acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
 
-###### ARTICULO 194.
+XXXIII.- Nombrar, a propuesta que haga su Presidenta o Presidente, a las y los secretarios ejecutivos del Órgano de Administración Judicial, así como conocer de sus licencias y renuncias;
 
-Todas las poblaciones del Estado deberán contar con sistema para el desagüe rápido e higiénico de sus desechos, preferentemente por medio de alcantarillado o fosas sépticas.
+XXXIV.- Realizar las funciones que se le confieren en términos de lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares y expedir las disposiciones necesarias para el adecuado ejercicio de aquéllas;
 
-###### ARTICULO 195.
+XXXV.- Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos y de servicios al público; así como para la organización, administración y resguardo de los archivos de los Juzgados de Primer Instancia y Menores, así como del Supremo Tribunal de Justicia. Emitir la regulación suficiente, para la presentación de escritos y la integración de expedientes en forma electrónica mediante el empleo de tecnologías de la información que utilicen la Firma Electrónica;
 
-En las poblaciones donde no haya sistema de alcantarillado se estará a lo dispuesto por esta Ley y demás disposiciones aplicables.
+XXXVI.- Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial del Estado, así como regular, recopilar, documentar, seleccionar y difundir para conocimiento público, con apego a las normas en materia de transparencia y acceso a la información pública, las sesiones del Supremo Tribunal de Justicia;
 
-### CAPITULO V. Limpieza Pública
+XXXVII.- Designar a las personas responsables de la Plataforma Nacional de Personas Facilitadoras y del Sistema Nacional de Información de Convenios, de conformidad con lo dispuesto en la Ley General de Mecanismos Alternativos de Solución de Controversias;
 
-###### ARTICULO 196.
+XXXVIII.- Disponer la creación y actualización de la Plataforma Nacional de Personas Facilitadoras y del Sistema Nacional de Información de Convenios, de conformidad con lo dispuesto en la Ley General de Mecanismos Alternativos de Solución de Controversias;
 
-Los proyectos para la implantación de sistemas de alcantarillado deberán ser estudiados y aprobados por las autoridades competentes, con la intervención que corresponda al Gobierno del Estado y la obra se llevará a cabo bajo la verificación del mismo.
+XXXIX.- Impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias como un derecho humano que garantiza el acceso efectivo a la justicia, la solución de conflictos y genera una cultura de paz;
 
-###### ARTICULO 197.
+XL.- Crear el Centro Público, de conformidad con lo dispuesto en la Ley General de Mecanismos Alternativos de Solución de Controversias;
 
-Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
+XLI.- Convocar periódicamente a congresos estatales o regionales de Magistradas, Magistrados, Juezas, Jueces, asociaciones profesionales representativas e instituciones de educación superior, a fin de revisar el buen funcionamiento de los órganos del Poder Judicial del Estado y proponer las medidas pertinentes para mejorarlos;
 
-###### ARTICULO 198.
+XLII.- Diseñar y aplicar evaluaciones de desempeño al personal del Poder Judicial del Estado para garantizar el buen servicio;
 
-Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
+XLIII.- Formar anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
 
-###### ARTICULO 199.
+XLIV.- Generar y coordinar una Política de Difusión de la Cultura Jurídica y el respeto al Estado de Derecho; y
 
-Para los efectos de esta Ley, se entiende por prostitución la actividad de las personas que tienen relaciones sexuales a cambio de dinero o cualquier otra prestación.
+XLV.- Desempeñar cualquier otra función que la ley encomiende al Órgano de Administración Judicial.
 
-###### ARTICULO 200.
+###### ARTÍCULO 197.
 
-Toda persona que se dedique a la prostitución, deberá conocer y utilizar medidas preventivas para evitar el contagio o transmitir enfermedades que se contraigan a través del contacto sexual. Asimismo, se sujetará a evaluaciones psicológicas y exámenes médicos periódicos y a los demás requisitos que se establezcan en las disposiciones reglamentarias aplicables. Deberá de obtener del Organismo la tarjeta de control sanitario, la cual se otorgará una vez cumplidos estos requisitos.
+El Órgano de Administración Judicial incorporará la perspectiva de género, de forma transversal, progresiva, y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.
 
-###### ARTICULO 201.
+###### ARTÍCULO 198.
 
-Queda prohibido el ejercicio de la prostitución a personas menores de edad.
+El Pleno del Órgano de Administración Judicial deberá establecer mediante acuerdo general las áreas especializadas en la prevención y erradicación de la violencia sexual y de género en el Poder Judicial del Estado, y velará porque las mismas cuenten con las atribuciones y recursos suficientes para implementar estrategias de prevención, brindar atención y proponer los mecanismos de sanción en casos de acoso sexual y cualquier otra forma de violencia sexual y de género a las personas trabajadoras del Poder Judicial del Estado.
 
-###### ARTICULO 202.
+###### ARTÍCULO 199.
 
-Queda prohibido el ejercicio de la prostitución a las personas que padezcan de alguna enfermedad sexualmente transmisible u otra grave en período infectante que ponga en riesgo de contagio la salud de otra por relaciones sexuales. Las personas que hubieren contraído alguna enfermedad de este tipo, deberán comprobar ante la autoridad sanitaria que ya no la padecen, mediante los análisis y el certificado médico que así lo acredite, o en su caso se harán acreedores a las sanciones que establezcan otras disposiciones legales.
+El Órgano de Administración Judicial será responsable de la administración de la Carrera Judicial del Poder Judicial, en los términos que establecen la Constitución Política del Estado y esta Ley.
 
-###### ARTICULO 203.
+###### ARTÍCULO 200.
 
-Queda prohibido el acceso de menores de edad al interior de los establecimientos o zonas en donde se autorice el ejercicio de la prostitución.
+El Órgano de Administración Judicial podrá crear, mediante acuerdo, órganos jurisdiccionales especializados en el Sistema Integral de Justicia Penal para Adolescentes, o bien, habilitar órganos jurisdiccionales especializados en el sistema penal acusatorio para que ejerzan dicha función, siempre que cuenten con la formación, capacitación y especialización necesarias para tal efecto.
 
-###### ARTICULO 204.
+###### ARTÍCULO 201.
 
-La Autoridad Municipal en coordinación con el Organismo, determinarán los lugares en donde se permitirá el ejercicio de la prostitución, de conformidad con las disposiciones legales y reglamentarias aplicables.
+El Órgano de Administración Judicial contará con una Junta de Coordinación que dependerá administrativamente de éste, pero fungirá como agencia permanente de coordinación y comunicación institucional entre el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial.
 
-###### ARTICULO 205.
+La Junta de Coordinación estará encabezada por la persona titular del Secretariado Ejecutivo del Pleno del Órgano de Administración Judicial y por la persona titular de la Secretaría de Acuerdos del Tribunal de Disciplina Judicial.
 
-Para los efectos de esta Ley, se entiende por reclusorio o centro de readaptación social, el local destinado a la internación de quienes se encuentren restringidos de su libertad por una resolución judicial o administrativa.
+La Junta de Coordinación tendrá las atribuciones contenidas en esta Ley y las que determine el Órgano de Administración Judicial mediante acuerdo general.
 
-### CAPITULO VI. Agua Potable y Alcantarillado
+###### ARTÍCULO 202.
 
-###### ARTICULO 206.
+El Pleno del Órgano de Administración Judicial podrá ordenar la creación mediante acuerdos generales de las direcciones, unidades y, en general, cualquier área administrativa que conformen el diseño de la estructura orgánica administrativa del propio Órgano necesarias para su buen funcionamiento.
 
-Los reclusorios o centros de readaptación social estarán sujetos al control sanitario por el Organismo, de conformidad con las disposiciones que se señalan en esta Ley y demás disposiciones generales aplicables.
+###### ARTÍCULO 203.
 
-###### ARTICULO 207.
+El Pleno del Órgano de Administración Judicial podrá establecer mediante acuerdos generales, cuáles de las atribuciones previstas en el propio artículo podrán ejercitarse por las Comisiones creadas por el Pleno.
 
-Los reclusorios o centros de readaptación social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas locales correspondientes, con departamento de baños de regadera y con un consultorio médico que cuente con el equipo necesario para la atención de aquellos casos de enfermedad de los internos en que no sea requerido el traslado de éstos a un hospital.
+Las Comisiones tendrán facultades decisorias o consultivas según determine el reglamento expedido por el Pleno del propio Órgano de Administración Judicial.
 
-###### ARTICULO 208.
+###### ARTÍCULO 204.
 
-Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el tratamiento a juicio del personal médico de la institución, previa autorización del director de la misma, podrá ser trasladado a la unidad hospitalaria que él mismo determine; en cuyo caso se deberá hacer del conocimiento de las autoridades competentes.
+El Pleno del Órgano de Administración Judicial contará con las personas servidoras públicas que establece esta Ley; las personas secretarias técnicas y el personal subalterno que determine el presupuesto, las cuales podrán ser nombradas y removidas de conformidad con lo previsto en las leyes.
 
-Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 122 de esta Ley.
+###### ARTÍCULO 205.
 
-###### ARTICULO 209.
+Las resoluciones del Pleno del Órgano de Administración Judicial constarán en acta y deberán firmarse por la o el Presidente y la o el Secretario Ejecutivo, y notificarse personalmente a la brevedad posible a las partes interesadas.
 
-Para los efectos de esta Ley, se entiende por baño público el establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medicinal bajo la forma de baño, y al que pueda concurrir el público. Quedan incluidos en la denominación de baños, los llamados de vapor y de aire caliente.
+La notificación y, en su caso, la ejecución de las mismas deberá realizarse por conducto de los órganos del propio Órgano de Administración Judicial o del Juzgado que actúe en auxilio de éste.
 
-###### ARTICULO 210.
+Cuando el Pleno del Órgano de Administración Judicial estime que sus reglamentos, acuerdos o resoluciones pudieran resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
 
-El agua que se utilice en los baños públicos deberá ser potable y cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
+Las Comisiones tendrán facultades decisorias o consultivas según determine el reglamento expedido por el Pleno del propio Órgano de Administración Judicial.
 
-###### ARTICULO 211.
+### CAPÍTULO IV. DE LA PRESIDENCIA
 
-Para efectos de esta Ley, se entiende por centros de reunión y espectáculos, los establecimientos destinados a la concentración de personas con fines recreativos, sociales, deportivos, culturales o de enseñanza.
+###### ARTÍCULO 206.
 
-### CAPITULO VII. Prostitución
+El Órgano de Administración Judicial establecerá las Comisiones permanentes o transitorias que estime pertinentes para el adecuado desempeño de sus funciones, cuyo número y atribuciones se determinará mediante acuerdos generales del Pleno.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Las Comisiones deberán estar conformadas cuando menos por tres integrantes.
 
-###### ARTICULO 212.
+###### ARTÍCULO 207.
 
-El funcionamiento de los establecimientos a que se refiere el artículo anterior, deberá acatar a lo dispuesto por las disposiciones legales aplicables y contar con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
+El Pleno del Órgano de Administración Judicial podrá determinar qué tipo de asuntos y atribuciones deberán ser dictaminados por las Comisiones, pero votados en Pleno.
 
-### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
+###### ARTÍCULO 208.
 
-###### ARTICULO 213.
+Las Comisiones creadas nombrarán a su respectivo presidente o presidenta, y determinarán el tiempo que deba permanecer en el cargo y las funciones que deba ejercer.
 
-Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, el arreglo estético de uñas de manos y pies; y por estéticas, establecimientos que presten servicios y procedimientos de embellecimiento, para modificar las características del cuerpo humano.
+###### ARTÍCULO 209.
 
-###### ARTICULO 214.
+Las resoluciones de las Comisiones se tomarán por mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal. Las Comisiones calificarán las excusas e impedimentos de sus miembros.
 
-El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
+###### ARTÍCULO 210.
 
-### CAPITULO IX. Baños Públicos
+En todos aquellos casos en los que no fuere posible la resolución de un asunto en Comisiones, su conocimiento y resolución pasará al Pleno del Órgano de Administración Judicial.
 
-###### ARTICULO 215.
+###### ARTÍCULO 211.
 
-Para los efectos de esta Ley, se entiende por:
+Las Comisiones contarán con las secretarías ejecutivas de Comisiones necesarias para su adecuado funcionamiento, cuyas atribuciones determinará el Pleno del Órgano de Administración Judicial mediante acuerdos generales.
 
-I.- Tintorería: El establecimiento dedicado al lavado de ropa, independientemente del procedimiento utilizado;
+Las y los secretarios ejecutivos deberán tener título profesional legalmente expedido, con experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
-II.- Lavandería: El establecimiento dedicado al lavado de ropa; y
+### CAPÍTULO V. DEL SECRETARIADO EJECUTIVO
 
-III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independientemente del procedimiento utilizado.
+###### ARTÍCULO 212.
 
-###### ARTICULO 216.
+Son atribuciones de la Presidenta o del Presidente del Órgano de Administración Judicial, las siguientes:
 
-Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
+I.- Representar al Órgano de Administración Judicial;
 
-###### ARTICULO 217.
+II.- Tramitar los asuntos de la competencia del Pleno del Órgano de Administración Judicial, y turnar los expedientes entre sus integrantes para que formulen los correspondientes proyectos de resolución.
 
-Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje, cualquier edificación que se destine a albergar a toda aquella persona que paga por ello.
+En caso de que la o el Presidente estime dudoso o trascendental algún trámite, designará a un integrante del Pleno para que someta el asunto a la consideración del Pleno del Órgano de Administración Judicial, a fin de que determine lo que corresponde;
 
-###### ARTICULO 218.
+III.- Presidir el Pleno del Órgano de Administración Judicial, dirigir los debates y conservar el orden en las sesiones;
 
-Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
+IV.- Despachar la correspondencia oficial del Órgano de Administración Judicial, salvo la reservada a las y los presidentes de las Comisiones;
 
-###### ARTICULO 220.
+V.- Proponer al Pleno del Órgano de Administración Judicial los nombramientos de las y los secretarios ejecutivos, así como de las y los titulares de los órganos auxiliares del propio Órgano de Administración Judicial;
 
-Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
+VI.- Informar al Congreso del Estado de las vacantes que se produzcan y que deban ser cubiertas mediante elección;
 
-###### ARTICULO 221.
+VII.- Otorgar licencias en los términos previstos en esta Ley;
 
-Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
+VIII.- Firmar las resoluciones y acuerdos del Pleno del Órgano de Administración Judicial, y legalizar, por sí o por conducto de la o del Secretario Ejecutivo que al efecto designe, la firma de las personas servidoras públicas del Poder Judicial del Estado en los casos en que la ley exija este requisito;
 
-###### ARTICULO 222.
+IX.- Integrar un informe que hará del conocimiento de la opinión pública, al finalizar el segundo período de sesiones de cada año, los resultados de labores del Órgano de Administración Judicial; y
 
-Para los efectos de esta Ley, se entiende por centro antirrábico el establecimiento operado o concesionado por el Ayuntamiento con el propósito de contribuir a la prevención y control de la rabia animal y coadyuvar con las autoridades sanitarias competentes en los casos en que seres humanos hubieren contraído dicha enfermedad.
+X.- Las demás que determinen las leyes y los correspondientes reglamentos interiores y acuerdos generales.
 
-###### ARTICULO 223.
+### CAPÍTULO VI. ÓRGANOS AUXILIARES
 
-Los centros antirrábicos que establezcan los Ayuntamientos, tendrán las siguientes funciones:
+SECCIÓN 1ª
 
-I.- Atender quejas sobre animales agresores;
+DISPOSICIONES GENERALES
 
-II.- Capturar animales agresores y callejeros;
+###### ARTÍCULO 213.
 
-III.- Observar clínicamente a los animales capturados dentro de un lapso de 48 horas para que su propietario lo reclame;
+El Órgano de Administración Judicial contará con un Secretario o una Secretaria Ejecutiva del Pleno, cuya estructura y atribuciones determinará el Pleno del Órgano de Administración Judicial mediante acuerdos generales.
 
-IV.- Vacunar a los animales capturados y reclamados por su propietario, a costa del mismo, dentro del lapso señalado en la fracción anterior, así como también, de aquellos que para tal fin sean llevados voluntariamente por sus propietarios;
+La o el Secretario Ejecutivo del Pleno del Órgano deberá tener título profesional en derecho, expedido legalmente, con experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
-V.- Practicar la necropsia de animales sospechosos de padecer rabia;
+###### ARTÍCULO 214.
 
-VI.- Obtener los diagnósticos de rabia por medio de análisis de laboratorio.
+Corresponderá al Secretariado Ejecutivo del Pleno del Órgano de Administración Judicial presentar quejas o denuncias ante el Tribunal de Disciplina Judicial, así como proporcionarle, de oficio o cuando el Tribunal de Disciplina Judicial formalmente lo requiera, la información y documentación que pueda constituir indicio o medios de prueba en la investigación y determinación de responsabilidades administrativas de las personas trabajadoras del Poder Judicial del Estado.
 
-VII.- Canalizar a las personas agredidas para su tratamiento oportuno; y
+### CAPÍTULO I. DE LA OFICIALÍA DE PARTES
 
-VIII.- El sacrificio humanitario de los animales que habiendo cumplido el lapso de observación, no hayan sido reclamados por sus propietarios o cuando éstos así lo soliciten.
+###### ARTÍCULO 215.
 
-###### ARTICULO 224.
+Para su adecuado funcionamiento, el Órgano de Administración Judicial contará con los siguientes órganos auxiliares:
 
-Los propietarios de los animales a que se refiere el artículo anterior estarán obligados a vacunarlos ante las autoridades sanitarias, así como mantenerlos dentro de sus domicilios y bajo su control.
+I.- Dirección de Administración;
 
-###### ARTICULO 225.
+II.- Dirección de Finanzas;
 
-Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
+III.- Dirección de Contraloría;
 
-###### ARTICULO 226.
+IV.- Fondo Auxiliar para la Administración de Justicia;
 
-Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, medicina naturista, quiropráctica, herbolaria, acupuntura, terapias de sanción, terapia con electroimanes, intercambio iónico, aromaterapia, energía universal, flores de Bach y otros, estando sujetos al control y vigilancia sanitaria, y cumplir con las disposiciones de esta Ley.
+V.- Escuela Judicial de Tamaulipas;
 
-## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
+VI.- Dirección de Informática;
 
-###### ARTICULO 227.
+VII.- Coordinación de los Centros de Convivencia Familiar;
 
-La autorización sanitaria es el acto administrativo mediante el cual la Autoridad Sanitaria competente, permite a una persona pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones aplicables. Las autorizaciones sanitarias tendrán el carácter de licencias, permisos y registros.
+VIII.- Dirección de Mecanismos Alternativos para la Solución de Controversias;
 
-###### ARTICULO 228.
+IX.- Coordinación de Planeación, Desarrollo Administrativo y Estadística;
 
-Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las excepciones que establezca esta Ley. En caso de incumplimiento de las disposiciones reglamentarias y las normas técnicas locales correspondientes, las autorizaciones serán canceladas.
+X.- Unidad de Transparencia;
 
-###### ARTICULO 229.
+XI.- Dirección de Seguridad Institucional; y
 
-La autoridad sanitaria competente expedirá las autorizaciones respectivas cuando el solicitante hubiere satisfecho los requisitos que señalen las normas aplicables y cubierto en su caso, los derechos que establezca la legislación fiscal aplicable.
+XII.- Unidad de Igualdad de Género y Derechos Humanos.
 
-###### ARTICULO 230.
+###### ARTÍCULO 216.
 
-Las autorizaciones sanitarias expedidas por la autoridad sanitaria competente, por tiempo determinado, podrán prorrogarse de conformidad con las disposiciones generales aplicables.
+La estructura orgánica y el personal adscrito a los órganos auxiliares deberán determinarse con acuerdo a lo que disponga esta Ley, otras leyes aplicables y los acuerdos generales que al respecto emita el Órgano de Administración Judicial, conforme a lo que admita el presupuesto.
 
-La solicitud correspondiente deberá presentarse a las autoridades sanitarias con antelación al vencimiento de la autorización.
+###### ARTÍCULO 217.
 
-Sólo procederá la prórroga cuando se sigan cumpliendo los requisitos que señalen esta Ley y demás disposiciones aplicables y previo pago de los derechos correspondientes.
+Estarán bajo la supervisión y vigilancia del Órgano de Administración Judicial, en la forma y términos que determine éste, las siguientes dependencias administrativas:
 
-En el caso de las licencias sanitarias, la solicitud de revalidación deberá presentarse dentro del término establecido en las disposiciones legales aplicables y en caso de no contemplarse término legal alguno, se deberá de presentar dicha solicitud treinta días antes de su vencimiento.
+I.- Archivo y Biblioteca;
 
-Cuando cambien de ubicación los establecimientos requerirán de nueva licencia sanitaria.
+II.- Centro de Estadística, Informática y Computación;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+III.- Oficialía de Partes;
 
-###### ARTICULO 231.
+IV.- Dirección de Administración;
 
-Los establecimientos que no requieran de autorización sanitaria, deberán presentar aviso de funcionamiento de conformidad con lo dispuesto por el artículo 167 de la presente ley.
+V.- Fondo Auxiliar para la Administración de Justicia;
 
-###### ARTICULO 232.
+VI.- Contraloría del Poder Judicial;
 
-Los establecimientos que presten servicios de asistencia social, no requerirán para su funcionamiento de autorización sanitaria, y serán sujetos del control y vigilancia sanitaria, así como de los requisitos que establezcan las disposiciones de esta Ley, otras disposiciones legales aplicables y las normas correspondientes que se expidan.
+VII.- Dirección de Mediación;
 
-###### ARTICULO 233.
+VIII.- Unidad de Transparencia; y
 
-Los obligados a tener autorización sanitaria deberán exhibirla en lugar visible del establecimiento respectivo.
+IX.- Unidad de Igualdad de Género y Derechos Humanos.
 
-###### ARTICULO 234.
+SECCIÓN 2ª
 
-Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables.
+DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
-###### ARTICULO 235.
+###### ARTÍCULO 218.
 
-Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
+La Dirección de Administración, recaerá en una persona profesional del ramo o bien una abogada o abogado, contará con el personal subalterno que determine el Órgano de Administración Judicial y lo permita el presupuesto.
 
-###### ARTICULO 236.
+###### ARTÍCULO 219.
 
-La autoridad sanitaria local competente podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
+Son atribuciones y obligaciones de la Dirección de Administración:
 
-I.- Cuando por causas supervenientes, se comprueba que los productos o el ejercicio de las actividades que hubieren autorizado, constituyan riesgo o daño para la salud humana;
+I.- Vigilar que las oficinas dependientes de esta Dirección, uniformen criterios con el resto de las del Poder Judicial;
 
-II.- Cuando el ejercicio de la actividad que se hubiere autorizado, exceda los límites fijados en la autorización respectiva;
+II.- Opinar sobre las reformas de leyes y reglamentos, relacionados con la estructura administrativa;
 
-III.- Porque se dé un uso distinto a la autorización;
+III.- Asesorar técnicamente en la planeación y ejecución de las mejoras administrativas que se operen en el Poder Judicial;
 
-IV.- Por incumplimiento grave de las disposiciones de esta Ley, sus reglamentos y demás disposiciones generales aplicables;
+IV.- Ejecutar lo programado conforme al presupuesto;
 
-V.- Por reiterada renuncia a acatar las órdenes que dicte la autoridad sanitaria, en los términos de esta Ley y demás disposiciones generales aplicables;
+V.- Verificar que los requerimientos por las oficinas dependientes del Poder Judicial sea entregado oportunamente;
 
-VI.- Cuando resulten falsos los datos o documentos proporcionados por el interesado, que hubieren servido de base a la autoridad sanitaria para otorgar la autorización;
+VI.- Auxiliar a la Presidenta o Presidente del Órgano de Administración Judicial en la coordinación de las personas servidoras públicas encargadas de las dependencias administrativas, para la elaboración del proyecto de presupuesto de egresos para el ejercicio siguiente;
 
-VII.- Cuando resulten falsos los dictámenes proporcionados por terceros autorizados;
+VII.- Informar a las oficinas dependientes del Poder Judicial sobre la implementación de las normas administrativas que se deben aplicar;
 
-VIII.- Cuando el interesado no se ajuste a los términos, condiciones y requisitos en que se le haya otorgado la autorización o haga uso indebido de ésta;
+VIII.- Informar a la Presidenta o el Presidente del Órgano de Administración Judicial, de las anomalías administrativas que se adviertan en el Poder Judicial; y
 
-IX.- Cuando lo solicite el interesado;
+IX.- Las demás que le sean asignadas por esta ley u otro ordenamiento legal.
 
-X.- Cuando los establecimientos o personas dejen de reunir las condiciones o requisitos bajo las cuales se hayan otorgado las autorizaciones; y
+###### ARTÍCULO 220.
 
-XI.- En los demás casos que conforme a esta Ley y demás disposiciones legales aplicables, lo determine la autoridad sanitaria competente.
+La Dirección de Administración tendrá los siguientes departamentos:
 
-###### ARTICULO 237.
+I.- Personal; y
 
-Cuando la revocación de una autorización se funde en los riesgos o daños que puedan causar o cause un servicio, la autoridad sanitaria dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
+II.- Servicios Generales.
 
-###### ARTICULO 238.
+###### ARTÍCULO 221.
 
-En los casos a que se refiere el Artículo 236 de esta Ley, con excepción del previsto en la fracción IX, la autoridad sanitaria citará al interesado a una audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
+El Departamento de Personal tendrá un titular con el carácter de Jefa o Jefe, que deberá reunir los requisitos que para ser Secretaria o Secretario General de Acuerdos señala esta ley. Esta dependencia tendrá el personal técnico administrativo y de apoyo que determine el Órgano de Administración Judicial y lo permita el presupuesto.
 
-En el citatorio que se entregará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que si no comparece sin justa causa, la resolución se dictará tomando en cuenta sólo las constancias del expediente.
+###### ARTÍCULO 222.
 
-La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, contados a partir del día siguiente de la notificación.
+El Departamento de Personal tendrá las siguientes atribuciones y obligaciones:
 
-En los casos en que las autoridades sanitarias del Estado, fundadamente no puedan realizar la notificación en forma personal, ésta se practicará a través del Periódico Oficial del Estado.
+I.- Someter a acuerdo del Órgano de Administración Judicial lo concerniente a la selección, evaluación, contratación y asignación del personal de apoyo propuesto para desempeñar un cargo determinado dentro de la estructura del Poder Judicial, asegurándose de ser apto para el puesto, elaborando los exámenes selectivos a las personas aspirantes;
 
-###### ARTICULO 239.
+II.- Vigilar y controlar las faltas en que incurre el personal del Poder Judicial e informar sobre sus inasistencias;
 
-En la substanciación del procedimiento de la revocación de autorización se observará lo dispuesto por los Artículos 298, 299 y 308 de esta Ley.
+III.- Elaborar y agilizar los trámites de los nombramientos expedidos por el Órgano de Administración Judicial;
 
-###### ARTICULO 240.
+IV.- Integrar, controlar y resguardar los expedientes personales de las personas servidoras públicas del Poder Judicial;
 
-La audiencia se celebrará el día y hora señalados, con o sin la asistencia del interesado. En este último caso, se deberá dar cuenta con la copia del citatorio que se hubiere girado al interesado y con la constancia que acredite de que fue efectivamente entregado, o con el ejemplar, en su caso, del Periódico Oficial del Estado en que hubiere aparecido publicado el citatorio.
+V.- Asegurarse de que el personal que aparezca en nómina, sea el que efectivamente labora en el Poder Judicial;
 
-###### ARTICULO 241.
+VI.- Verificar que las actas que se elaboren a los servidores públicos del Poder Judicial por incumplimiento de la relación de trabajo, reúnan los requisitos establecidos por la ley;
 
-La celebración de la audiencia podrá diferirse por una sola vez cuando lo solicite el interesado por una causa debidamente justificada.
+VII.- Establecer relaciones de coordinación con la organización sindical que faciliten el buen desempeño del personal; y
 
-###### ARTICULO 242.
+VIII.- Las demás que le asigne el Órgano de Administración General o esta ley le confieran.
 
-La autoridad sanitaria competente emitirá la resolución que corresponda al concluir la audiencia o dentro de los cinco días hábiles siguientes, la cual se notificará de manera personal al interesado.
+###### ARTÍCULO 223.
 
-###### ARTICULO 243.
+El Departamento de Servicios Generales tendrá una Jefa o un Jefe y el personal de apoyo que le asigne el Órgano de Administración Judicial y permita el presupuesto. A este departamento le corresponden las siguientes facultades y obligaciones:
 
-La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
+I.- Vigilar el correcto funcionamiento de los equipos de transporte, comunicación, acondicionamiento, servicios de agua, energía eléctrica y drenaje y, en general, cualquier otro servicio o bienes del Poder Judicial;
 
-###### ARTICULO 244.
+II.- Mantener en buen estado los edificios, instalaciones y equipos de oficina al servicio del Poder Judicial;
 
-Para los efectos de esta Ley, se entiende por certificado la constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación o información de determinados hechos.
+III.- Programar revisiones periódicas de mantenimiento preventivo en las diferentes áreas;
 
-###### ARTICULO 245.
+IV.- Vigilar que las requisiciones presentadas por las distintas dependencias del Poder Judicial sean necesarias y se entreguen oportunamente para el mejor desempeño de las funciones;
 
-Para fines sanitarios se extenderán los siguientes certificados:
+V.- Llevar a cabo un control efectivo de los artículos necesarios con que cuenta el almacén, mediante inventarios y balances periódicos; y
 
-I.- Prenupciales;
+VI.- Las demás que ésta o cualquier otra ley les asignen.
 
-II.- De defunción;
+SECCIÓN 3ª
 
-III.- De muerte fetal;
+DE LA DIRECCIÓN DE FINANZAS
 
-IV.- De nacimiento; y
+###### ARTÍCULO 224.
 
-V.- Los demás que determine la Ley General de Salud.
+La Dirección de Finanzas estará a cargo de una persona profesional de la Contaduría o de la Administración Pública, que ejercerá las instrucciones del Órgano de Administración Judicial y tendrá las siguientes atribuciones:
 
-###### ARTICULO 246.
+I.- Administrar y manejar adecuadamente los recursos financieros que sean propiedad o estén al cuidado del Poder Judicial;
 
-El certificado médico prenupcial será requerido por las autoridades del Registro Civil a quienes pretendan contraer matrimonio, con las excepciones que establezcan las disposiciones generales aplicables.
+II.- Instrumentar y operar los mecanismos de ejecución, control presupuestal y contabilidad;
 
-###### ARTICULO 247.
+III.- Autorizar y vigilar el ejercicio del gasto corriente de acuerdo con las partidas del presupuesto de egresos y alcanzar las metas propuestas;
 
-Los certificados de defunción y de muerte fetal serán expedidos una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por el Organismo.
+IV.- Vigilar que la documentación comprobatoria que presenten las diferentes áreas del Poder Judicial por adquisición de bienes y servicios se apeguen estrictamente al texto de la partida correspondiente al cargo, en función del presupuesto de egresos aprobado;
 
-## TITULO OCTAVO. INFORMACIÓN PARA LA SALUD
+V.- Instrumentar y operar conjuntamente con la Directora o el Director del Fondo Auxiliar para la Administración de Justicia, los mecanismos de capacitación, inversión, aplicación, comprobación y control de los recursos de dicho fondo; y
 
-### CAPITULO X. Centros de Reunión y Espectáculos
+VI.- Las demás que le asigne el Órgano de Administración Judicial.
 
-###### ARTICULO 248.
+SECCIÓN 4ª
 
-El certificado de nacimiento será expedido por profesional de la medicina o quien haya atendido el parto, y será requerido por las autoridades del Registro Civil para la expedición del acta de nacimiento.
+DE LA DIRECCIÓN DE CONTRALORÍA
 
-###### ARTICULO 249.
+###### ARTÍCULO 225.
 
-El Organismo podrá expedir certificados, autorizaciones o cualquier otro documento, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados, de conformidad con lo siguiente:
+La Dirección de Contraloría interna es el órgano de control, vigilancia e investigación para el cumplimiento de las normas administrativas, financieras y presupuestales que funcionará bajo los principios de legalidad, eficacia, eficiencia y transparencia. Estará a cargo de una persona profesional de la Contaduría o de la Administración, que tendrá las siguientes atribuciones:
 
-I.- El procedimiento para la autorización de terceros tendrá por objeto el aseguramiento de la capacidad técnica y la probidad de estos agentes;
+I.- Presentar al Órgano de Administración Judicial, por conducto de la Presidenta o del Presidente, antes del quince de enero de cada año su programa anual de auditorías, para su aprobación;
 
-II.- Las autorizaciones de los terceros se publicarán en el Periódico Oficial del Estado y señalarán expresamente las materias para las que se otorgan;
+II.- Practicar a los Juzgados, a las Unidades y Direcciones administrativas y de finanzas del Poder Judicial del Estado, las auditorías financieras, operacionales, de resultados de programas, contables, administrativas y de supervisión física. En su caso, en cumplimiento de la Ley de Responsabilidades Administrativa aplicable, elaborará y remitirá un informe de estas actividades a la Autoridad Substanciadora del Órgano de Administración Judicial, para el inicio del procedimiento de responsabilidad administrativa correspondiente;
 
-III.- Los dictámenes de los terceros tendrán el carácter de documentos auxiliares del control sanitario, pero además tendrán validez general en los casos y con los requisitos establecidos en la Ley Federal de Metrología y Normalización y demás disposiciones aplicables;
+III.- Intervenir en la entrega y recepción de los asuntos, recursos humanos, materiales y financieros, cuando ocurran cambios de titulares de las diversas áreas del Poder Judicial, elaborando el acta correspondiente, respecto a los niveles mandos medios y superiores;
 
-IV.- Los terceros autorizados serán responsables solidarios con los titulares de las autorizaciones o certificados que se expidan con base en sus dictámenes y recomendaciones, del cumplimiento de las disposiciones sanitarias, durante el tiempo y con las modalidades que establezcan las disposiciones reglamentarias de esta Ley; y
+IV.- Intervenir en las bajas de inventarios en coordinación con la Dirección de Administración;
 
-V.- El Organismo podrá reconocer centros de investigación y organizaciones estatales del área de la salud, que podrán fungir como terceros autorizados para los efectos de este Artículo.
+V.- Vigilar el cumplimiento a los manuales de organización y procedimientos de las diversas unidades y direcciones administrativas, sugiriendo, en su caso, adecuaciones para la aprobación del Órgano de Administración Judicial;
 
-###### ARTICULO 250.
+VI.- Recibir las declaraciones de situación patrimonial de las personas servidoras públicas del Poder Judicial, en los términos de la Ley de Responsabilidades Administrativas aplicable;
 
-Los certificados a que se refiere este Título se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las Normas Oficiales Mexicanas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación.
+VII.- Supervisar puntualmente el cumplimiento de las observaciones y recomendaciones derivadas de auditorías a los juzgados, Unidades y Direcciones Administrativas y Financieras del Poder Judicial del Estado;
 
-Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+VIII.- Mantener una continua verificación a los Sistemas Electrónicos de Gestión y Administrativos, en materia de registro de certificados de depósito, de procesados y del Almacén, de los Juzgados, Unidades y Direcciones Administrativas y Financieras del Poder Judicial del Estado;
 
-## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
+IX.- Denunciar ante la autoridad competente los actos o hechos que constituyan faltas graves o delitos, cometidos por las Personas Servidoras Públicas del Poder Judicial del Estado, derivados de las auditorias, quejas o denuncias;
 
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
+X.- Actuar como órgano investigador, en los términos que establece la Ley de Responsabilidades Administrativas y, en su caso, remitir a la autoridad substanciadora el informe de presunta responsabilidad administrativa; y
 
-###### ARTICULO 251.
+XI.- Las demás que le señale el reglamento y el Órgano de Administración Judicial.
 
-Corresponde al Organismo y los Ayuntamientos, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que se dicten con base en ella.
+###### ARTÍCULO 226.
 
-###### ARTICULO 252.
+Para la consecución de sus objetivos, la Contraloría contará con una Directora o un Director y el apoyo de auditoría indispensable, así como con el personal permanente o temporal, que conforme a las circunstancias se requiera y autorice el Órgano de Administración Judicial.
 
-Las demás dependencias y entidades públicas en el Estado coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y, cuando encontraren irregularidades que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento de las autoridades sanitarias competentes.
+SECCIÓN 5ª
 
-###### ARTICULO 253.
+DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
 
-El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
+###### ARTÍCULO 227.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Las disposiciones de la presente Sección son reglamentarias de los párrafos segundo y tercero del artículo 107 de la Constitución Política del Estado y, tendrán por contenido definir el objeto y composición del Fondo, su administración, conservación y destino, dejando a criterio del Órgano de Administración Judicial sus formas de captación mediante los acuerdos que estime pertinentes con base en las sugerencias que al respecto realice el responsable del Fondo.
 
-###### ARTICULO 254.
+###### ARTÍCULO 228.
 
-La vigilancia sanitaria se realizará mediante visitas de verificación a cargo del personal expresamente autorizado por la autoridad sanitaria estatal o municipal competente, el cual deberá realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás disposiciones legales aplicables.
+El Fondo Auxiliar para la Administración de Justicia acatará las instrucciones del órgano de Administración Judicial y se ocupará de servir de apoyo a éste para mejorar las condiciones de trabajo de las personas servidoras públicas del Poder Judicial, mediante la aplicación de estímulos, recompensas y su capacitación; adquisición de mobiliario y equipo, libros y demás material de contenido jurídico que considere útil para el más eficaz cumplimiento de las funciones. De igual forma, podrá aplicar, parte de dichos recursos para realizar acciones de infraestructura para la habilitación, construcción o establecimiento de salas, juzgados u oficinas del Poder Judicial del Estado y demás bienes necesarios para su funcionamiento, conforme a lo que al efecto acuerde el Pleno del propio Órgano de Administración Judicial.
 
-###### ARTICULO 255.
+###### ARTÍCULO 229.
 
-Las autoridades sanitarias competentes en el Estado podrán encomendar a sus verificadores, además, actividades de orientación, educativas y aplicación en su caso, de las medidas de seguridad a que se refiere el Artículo 264 de esta Ley.
+El Fondo Auxiliar para la Administración de Justicia se integra de la siguiente manera:
 
-###### ARTICULO 256.
+I.- Con fondos propios constituidos por:
 
-Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
+a) Las multas que por cualquier causa se impongan por los tribunales judiciales del fuero común;
 
-Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se consideran horas hábiles las de su funcionamiento habitual o autorizados.
+b) El monto de las cauciones otorgadas para garantizar la libertad provisional que se hagan efectivas en los casos previstos por el Código de Procedimientos Penales;
 
-###### ARTICULO 257.
+c) El monto de las cauciones otorgadas para obtener los beneficios de la libertad preparatoria y la condena condicional, que se hagan efectivas en los casos previstos por el Código Penal;
 
-Los verificadores en el ejercicio de sus funciones tendrán libre acceso a los edificios, establecimientos comerciales de servicio y en general a todos los lugares a que hace referencia esta Ley.
+d) El importe producto del remate de los objetos o instrumentos del delito que sean de uso lícito, en la forma y términos previstos por el Código Penal;
 
-Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes objeto de verificación, estarán obligados a permitir el acceso y a dar facilidades e informes a los verificadores para el desarrollo de su labor.
+e) Los muebles, dinero y valores depositados por cualquier motivo ante los tribunales y que no fueren retirados por el depositante o por quien tenga derecho a ellos dentro del término de seis meses computados a partir de la fecha en que el interesado estuvo en aptitud legal para solicitar su devolución o entrega, o cuando la parte ofendida renuncie a ello;
 
-###### ARTICULO 258.
+f) El monto de la reparación del daño, cuando la parte ofendida renuncie al mismo, así como cuando transcurra el término de seis meses sin que sea retirado por quien tenga derecho a ello, contados a partir de la fecha en que estuvo en aptitud legal para solicitar su devolución o entrega;
 
-Los verificadores, para practicar visitas, deberán estar provistos de órdenes escritas, con firma autógrafa, expedidas por la autoridad sanitaria competente en las que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+g) Los bienes confiscados o decomisados por orden de la autoridad judicial común, en los términos previstos en el Código Penal para el Estado de Tamaulipas;
 
-Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades o señalar al verificador la zona en que vigilará el cumplimiento por todos los obligados, de las disposiciones sanitarias.
+h) El importe de los derechos por la expedición de copias certificadas;
 
-Tratándose de actividades que se realicen en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona que se delimitará en la (sic) misma orden.
+i) El importe de los derechos por legalización o ratificación de firmas;
 
-###### ARTICULO 259.
+j) El importe de los derechos por la búsqueda en el Archivo Judicial de expedientes concluidos;
 
-En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
+k) El importe de los derechos por el registro de títulos profesionales;
 
-I.- Al iniciar la visita el verificador deberá exhibir la credencial vigente, expedida por la Autoridad Sanitaria competente, que lo acredite legalmente para desempeñar dicha función así como la orden expresa a que se refiere el artículo anterior, de la que deberá dejar el original al propietario, responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá anotar en el acta correspondiente;
+l) El importe de los derechos por los servicios electrónicos y tecnológicos que proporcione el Poder Judicial del Estado;
 
-II.- Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte, que proponga a dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta.
+m) Los intereses provenientes de los depósitos de dinero o en valores que se efectúen ante los tribunales judiciales del orden común;
 
-III.- En el acta que se levante con motivo de la verificación se hará constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas, el número y tipo de muestras tomadas y, en su caso, las medidas de seguridad que se ejecuten, y
+n) Las donaciones y aportaciones hechas con arreglo a la ley a favor del Fondo Auxiliar para la Administración de Justicia;
 
-IV.- Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que le entregará una copia. La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez, ni la de la diligencia practicada.
+o) El cobro de derechos por impresión de copias de traslado en los emplazamientos por exhorto en los que se utilice la Comunicación Procesal Electrónica; y
 
-###### ARTICULO 260.
+p) El cobro de derechos por otros servicios que preste el Poder Judicial del Estado, susceptibles de gravamen.
 
-La recolección de muestras se efectuará con sujeción a las siguientes reglas:
+II.- Fondos ajenos constituidos por depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante los tribunales judiciales del fuero común del Estado.
 
-I.- Se observarán las formalidades y requisitos exigidos para las visitas de verificación;
+###### ARTÍCULO 230.
 
-II.- La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados;
+Para los efectos de la fracción II del artículo anterior, el tribunal o alguno de sus órganos que por cualquier motivo hayan recibido o reciba un depósito en dinero o en valores, deberá remitirlo para que se integren al Fondo.
 
-III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular; otra muestra quedará en poder de la misma persona a disposición de la autoridad sanitaria y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+###### ARTÍCULO 231.
 
-IV.- El resultado del análisis oficial se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos, dentro de los treinta días hábiles siguientes a la fecha de toma de muestras;
+Las cantidades que reciba el Fondo en los términos del artículo anterior, serán entregadas a quienes demuestren tener derecho a ellas, previa orden escrita del titular del órgano correspondiente.
 
-V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación del análisis oficial. Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme y la autoridad sanitaria procederá conforme a la fracción VII de este artículo, según corresponda;
+###### ARTÍCULO 232.
 
-VI.- Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
+El Fondo Auxiliar para la Administración de Justicia será administrado por una Directora o Director, nombrado por el Órgano de Administración Judicial y recaerá en un profesional de la Contaduría Pública o del Derecho, con un mínimo de 3 años de práctica, contados a partir de haber obtenido el título, quien tendrá la responsabilidad directa del mismo y su desempeño estará bajo la supervisión y vigilancia del Órgano de Administración Judicial.
 
-VII.- La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite la autoridad sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
+A efecto de captar las cantidades o depósitos de bienes y valores que deben ingresar al Fondo, la Dirección del mismo contará con oficinas receptoras a cargo de quienes sean designados para tal efecto por el Órgano de Administración Judicial.
 
-VIII.- El resultado de los análisis de la muestra testigo, se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos y, en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado, según corresponda.
+###### ARTÍCULO 233.
 
-Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad sanitaria procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar las que se hubieren ejecutado, a imponer las sanciones que correspondan y a negar o revocar, en su caso, la autorización de que se trate.
+La persona titular de la Dirección Administradora del Fondo informará al Órgano de Administración Judicial, cuando éste lo requiera o por lo menos cada treinta días, de los movimientos y pormenores del Fondo y deberá reunir y proporcionar la información necesaria relativa a esa dependencia para rendir los informes de cuenta pública.
 
-Si la diligencia se practica en un establecimiento que no sea donde se fabrica o produce el producto o no sea el establecimiento del titular del registro, el verificado está obligado a enviar, en condiciones adecuadas de conservación, dentro del término de tres días hábiles siguientes a la toma de muestras, copia del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en poder de la persona con quien se entendió la diligencia, a efecto de que tenga la oportunidad de realizar los análisis particulares y, en su caso, impugnar el resultado del análisis oficial, dentro de los quince días hábiles siguientes a la notificación de resultados.
+###### ARTÍCULO 234.
 
-En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
+El personal designado por el Órgano de Administración Judicial para ejercer facultades de supervisión y vigilancia, deberán efectuar visitas oportunas a las diversas oficinas recaudadoras y demás instancias encargadas de captar los recursos del Fondo, a fin de constatar los trámites que realicen, y, en su caso, consolidar su eficiencia.
 
-El depositario de la muestra testigo será responsable solidario con el titular, si no se conserva la muestra citada.
+###### ARTÍCULO 235.
 
-El procedimiento de muestreo no impide que la autoridad sanitaria dicte y ejecute las medidas de seguridad que procedan, en cuyo caso se asentará en el acta de verificación las que se hubieren ejecutado y los productos que comprenda.
+La persona titular de la Dirección del Fondo presentará, con la debida oportunidad ante el Órgano de Administración Judicial, los estudios en que se propongan las formas de captación de los recursos que lo integren, así como su conservación, a fin de que se tomen los acuerdos pertinentes.
 
-###### ARTICULO 261.
+###### ARTÍCULO 236.
 
-En el caso de toma de muestras de productos perecederos deberá conservarse en condiciones óptimas para evitar su descomposición, su análisis deberá iniciarse dentro de las cuarenta y ocho horas siguientes a la hora en que se recogieron. El resultado del análisis se notificará en forma personal al interesado dentro de los quince días hábiles siguientes contados a partir de la fecha en que se hizo la verificación. El particular podrá impugnar el resultado del análisis en un plazo de tres días contados a partir de la notificación, en cuyo caso se procederá en los términos de las fracciones VI y VII del artículo anterior.
+La Dirección del Fondo, previo acuerdo sustentado ante el Órgano de Administración Judicial, podrá invertir las cantidades que lo integren a favor del Poder Judicial del Estado, siempre y cuando quede garantizada la disponibilidad oportuna y suficiente de dinero para devoluciones de depósitos que deban hacerse.
 
-Transcurrido este plazo, sin que se haya impugnado el resultado del análisis oficial, éste quedará firme,
+###### ARTÍCULO 237.
 
-###### ARTICULO 262.
+El patrimonio del Fondo se destinará:
 
-En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad sanitaria para tal efecto podrán determinar, por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
+I.- Al otorgamiento de estímulos económicos a las y los servidores del Poder Judicial;
 
-## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+II.- A la construcción, habilitación o remodelación de inmuebles, adquisición de mobiliario, equipo, libros de consulta y demás material de contenido jurídico que se considere útil para el más eficaz cumplimiento de las funciones; y
 
-### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
+III.- La impartición de toda clase de cursos de capacitación para el mejoramiento profesional de los servidores del Poder Judicial.
 
-###### ARTICULO 263.
+SECCIÓN 6ª
 
-Se consideran medidas de seguridad, las disposiciones que dicte el Instituto de Salud del Estado de Aguascalientes y los Ayuntamientos en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren. Las autoridades sanitarias del Estado en el ámbito de su competencia ejecutarán las medidas de seguridad.
+DE LA ESCUELA JUDICIAL DE TAMAULIPAS
 
-###### ARTICULO 264.
+###### ARTÍCULO 238.
 
-Son medidas de seguridad sanitaria las siguientes:
+La Escuela Judicial es un órgano auxiliar del órgano de Administración Judicial, con autonomía técnica y de gestión, responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial, sus órganos auxiliares, personal de las defensorías públicas, organismos de protección de los derechos humanos, instituciones de seguridad pública y del público en general.
 
-I.- El aislamiento;
+Los programas académicos de capacitación, educación continua y posgrado que desarrolle la Escuela judicial podrán ser cursados además de las y los servidores judiciales, por todas aquellas personas que cumplan con los requisitos de ingreso que señale el Reglamento Interno y el programa académico respectivo.
 
-II.- La cuarentena;
+Para el cumplimiento de sus objetivos, la Escuela Judicial contará con un departamento de evaluación de desempeño, entorno social y psicológico de los aspirantes a ingresar o ser promovidos en cualquiera de las categorías de la carrera judicial señaladas en esta Ley, cuyas atribuciones estarán definidas en el Reglamento Interno de la Escuela Judicial.
 
-III.- La observación personal;
+###### ARTÍCULO 239.
 
-IV.- La vacunación de personas;
+La Escuela Judicial se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia académica, y tendrá como atribuciones, establecer:
 
-V.- La vacunación de animales;
+I.- Programas de estudio para la profesionalización, capacitación, y actualización de los servidores públicos judiciales;
 
-VI.- La destrucción o control de insectos u otra fauna transmisora y nociva;
+II.- Cursos y talleres que fortalezcan la vocación de servicio, y el ejercicio de los valores y principios éticos inherentes a la función judicial;
 
-VII.- La suspensión de trabajos o servicios;
+III.- Programas académicos de Educación Superior Especializada orientados a la profesionalización de la función jurisdiccional; así como para habilitar especialistas que desarrollen tareas de asesoría y consultoría en materia de impartición de justicia;
 
-VIII.- El aseguramiento y destrucción de objetos, productos o sustancias;
+IV.- Planes y programas de estudio que de manera integral, adopten a la función jurisdiccional como centro de desarrollo profesional de la actividad institucional;
 
-IX.- La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio;
+V.- Programas de capacitación y formación profesional orientados a la constitución de claustros docentes especializados en materia de impartición de justicia;
 
-X.- La prohibición de actos de uso; y
+VI.- Programas para la selección, formación, evaluación integral y promoción del personal judicial con base en el fortalecimiento de la carrera judicial;
 
-XI.- Las demás de índole sanitaria que determinen las autoridades sanitarias del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+VII.- Proyectos de investigación, procurando su interacción con la docencia, la difusión y la extensión;
 
-Son de inmediata ejecución las medidas de seguridad señaladas en el presente artículo.
+VIII.- Medios de difusión de la cultura jurídica y de extensión de los servicios, propiciando corresponsabilidad y colaboración;
 
-###### ARTICULO 265.
+IX.- Cursos continuos de formación, actualización y especialización para las distintas categorías de la Carrera Judicial;
 
-Se entiende por aislamiento, la separación de personas infectadas, durante el período de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio. El aislamiento se ordenará por escrito, por la autoridad sanitaria competente, previo dictamen médico y durará el tiempo estrictamente necesario para que desaparezca el peligro.
+X.- Instrumentos para la publicación, divulgación y distribución de revistas, trabajos y obras jurídicas de investigación, legislación, doctrina y jurisprudencia; y
 
-###### ARTICULO 266.
+XI.- Todos aquellos procedimientos que se consideren pertinentes para el mejoramiento de sus funciones.
 
-Se entiende por cuarentena, la limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio. La cuarentena se ordenará por escrito, por la autoridad sanitaria competente, previo dictamen médico y consistirá en que las personas expuestas no abandonen determinado sito o se restrinja su asistencia a determinados lugares.
+###### ARTÍCULO 240.
 
-### CAPITULO XIII. Establecimientos para el Hospedaje
+Para ser Directora o Director de la Escuela Judicial se requiere:
 
-###### ARTICULO 267.
+I.- Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos;
 
-La observación personal consiste en la estrecha supervisión sanitaria de los presuntos portadores, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible.
+II.- Tener más de 35 años cumplidos el día de su designación;
 
-###### ARTICULO 268.
+III.- Contar con grado de Maestría en Derecho, cuando menos;
 
-. La autoridad sanitaria competente ordenará la vacunación de personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
+IV.- Tener amplia experiencia en tareas docentes o de investigación; y
 
-I.- Cuando no hayan sido vacunados contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades transmisibles cuya vacunación se estime obligatoria;
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión.
 
-II.- En caso de epidemia grave, y
+Todos las personas servidoras públicas de la Escuela Judicial serán designados por el Órgano de Administración Judicial.
 
-III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
+SECCIÓN 7ª
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+DE LA DIRECCIÓN DE INFORMÁTICA
 
-###### ARTICULO 269.
+###### ARTÍCULO 241.
 
-Los gobiernos del Estado o de los municipios podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+El Poder Judicial contará con una Dirección de Informática a cargo de un Ingeniero en Sistemas, que dependerá del Órgano de Administración Judicial.
 
-###### ARTICULO 270.
+###### ARTÍCULO 242.
 
-El Organismo y los Ayuntamientos en el ámbito de su respectiva competencia ejecutarán las medidas para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas.
+La Dirección de Informática funcionará a través de tres vertientes fundamentales que se encargarán del desarrollo y tecnologías de información, de la operación y el mantenimiento, y la de Internet. Contará con el personal subalterno que le asigne el Órgano de Administración Judicial, tomando en cuenta las posibilidades presupuestales.
 
-En todo caso, se dará a las dependencias encargadas de la sanidad animal la intervención que corresponda.
+###### ARTÍCULO 243.
 
-###### ARTICULO 271.
+Las áreas de desarrollo y tecnologías de información, así como la de operación y mantenimiento se integrarán con un analista programador y un programador, la primera, y la segunda con un responsable de operación de sistemas, otro de mantenimiento y equipo, y tres capturistas.
 
-El Organismo y los Ayuntamientos en el ámbito de su respectiva competencia podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando, de continuar aquéllos, se ponga en peligro la salud de las personas.
+Todo el personal de la Dirección deberá contar con el título profesional o documento que acredite sus conocimientos en el área; la Directora o el Director y las y los jefes deberán además tener un mínimo de tres años de experiencia; todos ellos habrán de ser de reconocida buena conducta.
 
-###### ARTICULO 272.
+###### ARTÍCULO 244.
 
-La suspensión de trabajos o servicios será temporal. Podrá ser total o parcial y se aplicará por el tiempo estrictamente necesario para corregir las irregularidades que pongan en peligro la salud de las personas. Se ejecutarán las acciones necesarias que permitan asegurar la referida suspensión. Esta será levantada a instancias del interesado o por la propia autoridad que la ordenó, cuando cese la causa por la cual fue decretada.
+Corresponde a la Dirección de Informática, como función esencial, proporcionar el soporte técnico necesario en materia de informática en apoyo a las funciones administrativas y de impartición de justicia, susceptibles de ser sistematizadas y automatizadas mediante equipos electrónicos, a cuyo efecto tendrá las siguientes funciones:
 
-Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
+I.- Diseñar los programas y sistemas informáticos de apoyo a todas las áreas del Poder Judicial, que permitan su constante desarrollo;
 
-###### ARTICULO 273.
+II.- Establecer políticas de seguridad sobre información, sistemas y programas informáticos;
 
-El aseguramiento de objetos, productos o substancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. El Organismo y los Municipios podrán retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen, su destino.
+III.- Elaboración, captura y actualización del programa de estadística judicial;
 
-Si el dictamen indicara que el bien asegurado no es nocivo pero carece de los requisitos esenciales establecidos en esta Ley y demás disposiciones generales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que tramite el cumplimiento de los requisitos omitidos. Si dentro de este plazo el interesado no realizara el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
+IV.- Capacitación específica en sistemas avanzados en informática a los servidores públicos del Poder Judicial;
 
-Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el anterior párrafo y previa la observancia de la garantía de audiencia, podrá determinar que el interesado y bajo la vigilancia de aquélla someta el bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria, el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines que la propia autoridad le señale.
+V.- Proporcionar mantenimiento preventivo y correctivo a los recursos informáticos;
 
-Los productos perecederos asegurados que se descompongan en poder de la autoridad sanitaria, así como los objetos, productos o sustancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para su consumo, serán destruidos de inmediato por la autoridad sanitaria, la que levantará un acta circunstanciada de la destrucción.
+VI.- Proponer al Órgano de Administración Judicial la normatividad en informática adecuada al Poder Judicial;
 
-Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria la que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social públicas o privadas.
+VII.- Informar acerca de las características técnicas de los productos o servicios informáticos que se deseen adquirir y, en su caso, aprobar la recepción de los mismos;
 
-###### ARTICULO 274.
+VIII.- Actualización constante sobre los avances tecnológicos y científicos que convengan y puedan aplicarse en los programas de modernización del Poder Judicial;
 
-La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
+IX.- Instalar y mantener en adecuado funcionamiento las redes de computadoras en las diferentes áreas del Poder Judicial;
 
-### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
+X.- Diseñar, elaborar y mantener actualizada una página de Internet y los sistemas que se requieran para el caso, que permita consultar las actividades sobre impartición de justicia del Poder Judicial; y
 
-ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
+XI.- Las demás que le asigne el Órgano de Administración Judicial.
 
-###### ARTICULO 275.
+SECCIÓN 8ª
 
-Quienes cometan violaciones a lo establecido en esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionadas administrativamente por las autoridades sanitarias en el Estado, sin perjuicio de las penas que correspondan cuando sea (sic) constitutivas de delitos.
+DE LA DIRECCIÓN DE SEGURIDAD INSTITUCIONAL
 
-### CAPITULO XV. Transporte Estatal y Municipal
+###### ARTÍCULO 245.
 
-###### ARTICULO 276.
+La Dirección de seguridad institucional, además de su titular contará con el personal que el presupuesto permita y el Órgano de Administración apruebe, y tendrá como objetivo principal la de salvaguardar la seguridad de los bienes muebles e inmuebles e integridad de las y los servidores públicos.
 
-Las sanciones administrativas podrán ser:
+###### ARTÍCULO 246.
 
-I.- Amonestaciones con apercibimiento;
+La principal atribución de la Dirección de Seguridad, será la de planificar, organizar, implementar, controlar y dirigir el sistema de seguridad integral del Poder Judicial y controlar y dar seguimiento a los contratos de servicios externos de vigilancia.
 
-II.- Multa;
+###### ARTÍCULO 247.
 
-III.- Clausura temporal o definitiva, que podrá ser parcial o total; y
+La persona titular de la Dirección de Seguridad Institucional deberá diseñar y proponer al Órgano de Administración e implementar un proyecto integral de planeación y organización del sistema de seguridad, determinando las necesidades de recursos materiales y humanos, así como proponer la adquisición de equipos y la contratación de personal especializado para tales efectos.
 
-IV.- Arresto hasta por treinta y seis horas.
+## TÍTULO NOVENO. OTRAS DEPENDENCIAS DEL PODER JUDICIAL
 
-### CAPITULO XVI. Prevención y Control de la Rabia en Animales
+### CAPÍTULO II. DEL ARCHIVO JUDICIAL
 
-###### ARTICULO 277.
+###### ARTÍCULO 248.
 
-Al imponerse una sanción, se fundará y motivará la resolución, tomando en cuenta:
+La Oficialía de Partes del Supremo Tribunal de Justicia dependerá de la Secretaría General de Acuerdos, y tendrá como función recibir, en horas de oficina, los escritos, promociones, oficios y todo tipo de correspondencia dirigida al mismo, a las Salas y a la Presidencia, señalando en ellos, la fecha y hora de presentación, tanto en el original como en la copia, haciendo constar los documentos que se anexan, sellando y firmando quien realice la recepción.
 
-I.- Los daños que se hayan producido o puedan producirse en la salud de las personas;
+###### ARTÍCULO 249.
 
-II.- La gravedad de la infracción;
+El Órgano de Administración Judicial podrá establecer Oficialías de Partes en los distritos judiciales en que exista más de un Juzgado, asignándole personal y sus funciones.
 
-III.- Las condiciones socioeconómicas del infractor;
+###### ARTÍCULO 250.
 
-IV.- La calidad de reincidente del infractor; y
+Las Oficialías de Partes estarán a cargo de una persona titular que será nombrada por el Órgano de Administración Judicial. Deberá tener título de Licenciatura en Derecho, con 2 años cuando menos de ejercicio profesional, y ser de reconocida solvencia moral.
 
-V.- El beneficio obtenido por el infractor como resultado de la infracción.
+### CAPÍTULO III. DE LA BIBLIOTECA
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+###### ARTÍCULO 251.
 
-###### ARTICULO 278.
+El Archivo Judicial dependerá de la Secretaría General de Acuerdos, y se integrará con el siguiente personal: Una jefa o jefe con título de Licenciatura en Derecho, una Secretaria o Secretario y demás empleadas y empleados que señale el presupuesto de egresos.
 
-Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículo (sic) 49, 61, 62, 85, 87, 92, 104, 106, 127, 129, 137, 167, 168, 174, 176, 186, 192, 194, 210, 218, 221, 224, 233, 247, 248 y 250 de esta Ley.
+###### ARTÍCULO 252.
 
-###### ARTICULO 279.
+El Archivo Judicial tendrá sus oficinas centrales en Victoria; si las necesidades del servicio lo requieren, podrá establecerse, previo acuerdo del Órgano de Administración Judicial, dependencias en cualquier otro distrito judicial del Estado.
 
-Se sancionará con multa equivalente de cien hasta cuatro mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación a las disposiciones contenidas en los Artículos 122, 123, 124, 125, 133, 166, 170, 173, 175, 177, 178, 179, 182, 183, 190, 198, 200, 201, 202, 207, 212, 213, 214, 220, 257 y 271 de esta Ley.
+###### ARTÍCULO 253.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+Se depositarán en el Archivo Judicial:
 
-### CAPITULO XVII. De la Medicina Alternativa
+I.- Todos los expedientes del orden civil, mercantil y penal totalmente concluidos, tanto en el Supremo Tribunal como en los Juzgados de Primera Instancia y Menores;
 
-###### ARTICULO 280.
+II.- Los expedientes que, aun cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo durante cinco años, previa notificación personal a las partes;
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículos 75,100, 103 y 139 duodecies de esta Ley.
+III.- Cualesquiera otros expedientes concluidos que conforme a la ley deban formarse por el Supremo Tribunal y cuya remisión o entrega no haya de hacerse a oficina determinada o a los particulares interesados, respectivamente; y
 
-## TITULO NOVENO. PROMOCION DE LA SALUD
+IV.- Los demás documentos y objetos que las leyes y el Supremo Tribunal determinen.
 
-### CAPITULO I. Autorizaciones
+###### ARTÍCULO 254.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+Habrá en el archivo tres secciones: civil, penal y administrativa, con las respectivas sub secciones para expedientes no concluidos.
 
-###### ARTICULO 281.
+###### ARTÍCULO 255.
 
-Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, atendiendo a las reglas de calificación que se establecen en el Artículo 277 de esta Ley.
+Los tribunales a que se refiere este Capítulo remitirán al Archivo Judicial los expedientes respectivos para su resguardo; llevarán un libro en el cual harán constar, en forma de inventario, los expedientes que contenga cada remisión y al pie de este inventario firmará la Jefa o Jefe del Archivo como recibo.
 
-###### ARTICULO 282.
+###### ARTÍCULO 256.
 
-En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de este Capítulo se entiende por reincidencia, que el infractor cometa la misma violación a las disposiciones de esta ley o su reglamento más de dos veces.
+Los expedientes y documentos entregados al archivo, serán anotados en un libro general de entrada y en otro que se llevará por orden alfabético, marcándoseles con un sello especial de la oficina y arreglándolos convenientemente para que no sufran deterioro. Se clasificarán y depositarán según la sección o subsección a que correspondan, controlándose además con sistemas de tarjetas índices.
 
-## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
+###### ARTÍCULO 257.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+Por ningún motivo se extraerá expediente o documento alguno del Archivo Judicial, a no ser por orden escrita de la o el Presidente del Supremo Tribunal, o cuando medie solicitud de la autoridad que lo haya remitido a la oficina, o de la que legalmente la sustituya, pero siempre con la previa aprobación de aquél.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+La orden se clasificará en el lugar que ocupe el expediente extraído y el conocimiento respectivo de salida de éste será suscrito por persona legalmente autorizada para recibirlo.
 
-###### ARTICULO 283.
+###### ARTÍCULO 258.
 
-La aplicación de las multas será sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan, hasta en tanto se subsanen las irregularidades.
+La Secretaria o el Secretario General de Acuerdos del Supremo Tribunal podrá expedir, previa autorización de la Presidenta o el Presidente o de la autoridad remisora, copia autorizada de los documentos o expedientes que estén depositados en dicha oficina.
 
-###### ARTICULO 284.
+###### ARTÍCULO 259.
 
-Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento en los siguientes casos:
+El examen de libros, documentos o expedientes del Archivo Judicial sólo podrá hacerse dentro de la oficina y en presencia de la Jefa o Jefe de la misma, por los interesados o sus asesores acreditados.
 
-I.- Cuando los establecimientos a que se refiere el Artículo 162 no reúnan los requisitos sanitarios que establece esta Ley, las demás disposiciones reglamentarias aplicables y las normas técnicas locales correspondientes.
+Será motivo de responsabilidad para el Jefe del Archivo Judicial impedir el examen a que se refiere este artículo, y la sanción respectiva será impuesta por el Órgano de Administración Judicial.
 
-II.- Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
+###### ARTÍCULO 260.
 
-III.- Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud;
+La falta de remisión de expedientes al Archivo Judicial, por parte de las y los Secretarios, será sancionada disciplinariamente por el Órgano de Administración Judicial al recibir el informe del visitador.
 
-IV.- Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
+###### ARTÍCULO 261.
 
-V.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud; y
+Cualquier defecto, irregularidad o infracción que advierta el Jefe del Archivo Judicial, en los expedientes o documentos que se le remitan para su depósito, será comunicado al Órgano de Administración Judicial.
 
-VI.- Por reincidencia en tercera ocasión.
+###### ARTÍCULO 262.
 
-###### ARTICULO 285.
+El reglamento respectivo fijará las atribuciones de las y los empleados del Archivo Judicial y determinará la forma de los asientos, índices y libros que en la misma oficina deban llevarse. La Presidenta o el Presidente del Supremo Tribunal podrá acordar en todo caso las disposiciones que crea convenientes para el buen funcionamiento del Archivo Judicial.
 
-En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubieren otorgado al establecimiento, local, fábrica o edificio de que se trate.
+### CAPÍTULO IV. DEL CENTRO DE MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS
 
-###### ARTICULO 286.
+###### ARTÍCULO 263.
 
-Se sancionará con arresto hasta por treinta y seis horas:
+La Biblioteca del Poder Judicial deberá ocupar un departamento especial del edificio en que resida, y llevará el nombre de "Biblioteca Aniceto Villanueva".
 
-I.- A la persona que interfiera o que se oponga al ejercicio de las funciones de la autoridad sanitaria; y
+###### ARTÍCULO 264.
 
-II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
+La Biblioteca estará al servicio del Poder Judicial y del público en general, pero sólo las y los Magistrados, Juezas y Jueces y Secretarias o Secretarios de la administración de justicia podrán solicitar, en préstamo, los libros, bajo recibo firmado y por un término que no exceda de diez días. Se podrá autorizar a los litigantes o a cualquier otra persona para consultar libros o documentos en el recinto de la Biblioteca.
 
-La resolución que contenga la determinación de la sanción a que se refiere este artículo se comunicará a la autoridad correspondiente para que la lleve a cabo.
+###### ARTÍCULO 265.
 
-### CAPITULO III. Certificados
+La Biblioteca estará a cargo de una Jefa o un Jefe de área o bibliotecario, que dependerá de la Dirección de Actualización y tendrá el personal que le asigne el Órgano de Administración Judicial y lo permita el presupuesto, los que serán nombrados por dicho Órgano, y éste determinará las horas y días en que estará en servicio.
 
-###### ARTICULO 287.
+###### ARTÍCULO 266.
 
-Para los efectos de esta Ley, el ejercicio de las facultades discrecionales para imponer medidas de seguridad deberán estar debidamente fundadas y motivadas.
+Corresponde al Bibliotecario:
 
-La resolución que se adopte se hará saber por escrito al interesado dentro del plazo que marca la Ley. Para el caso de que no exista éste, dentro de un plazo que no deberá de exceder de cuatro meses contados a partir de la recepción de la solicitud del particular.
+I.- Formar un inventario alfabético por nombres de autores, de todos los libros y documentos de la biblioteca, y un inventario general de muebles y útiles al servicio de la misma;
 
-###### ARTICULO 288.
+II.- Ordenar las obras de la biblioteca conforme al sistema de clasificación adoptado por el Supremo Tribunal;
 
-El Organismo y los Ayuntamientos, en el ámbito de su respectiva competencia, con base en los resultados de la visita o del informe de verificación a que se refiere el Artículo 259 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización que no debe de exceder, según sea el caso, de 30 días.
+III.- Formar, cada semestre, listas de obras nuevas, para compra, y de obras por encuadernar, entregándoselas a la Presidenta o el Presidente del Órgano de Administración Judicial, con presupuestos de su costo y del de encuadernación;
 
-###### ARTICULO 289.
+IV.- Conservar en buen estado los libros y papeles, así como los muebles y útiles, dando cuenta de los desperfectos que sufran;
 
-Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+V.- Distribuir las labores de su área para el mejor funcionamiento;
 
-###### ARTICULO 290.
+VI.- Llevar una estadística de los lectores asistentes a la biblioteca; y
 
-Derivado de las irregularidades sanitarias que reporte el acta o informe de verificación, la autoridad sanitaria competente citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un término de diez días hábiles comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes en relación con los hechos asentados en el acta o informe de verificación según el caso. Tratándose del informe de verificación la autoridad sanitaria competente deberá acompañar al citatorio invariablemente copia de aquél.
+VII.- Las demás que le prescriban las leyes y reglamento respectivos y el Órgano de Administración Judicial.
 
-### CAPITULO UNICO
+### CAPÍTULO V. DE LA UNIDAD DE TRANSPARENCIA
 
-###### ARTICULO 291.
+###### ARTÍCULO 267.
 
-Una vez oído al presunto infractor o a su representante legal y desahogadas las pruebas que ofreciere y fueren admitidas, se procederá dentro de los cinco días hábiles siguientes, a dictar, por escrito, la resolución que proceda, la cual será notificada en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
+El Poder Judicial tendrá un Centro de Mecanismos Alternativos para la Solución de Conflictos, cuyo titular será una Directora o Director y contará con el personal subalterno que le asigne el Órgano de Administración Judicial y determine el presupuesto.
 
-###### ARTICULO 292.
+###### ARTÍCULO 268.
 
-En caso de que el presunto infractor no compareciera dentro del plazo fijado por el Artículo 290 se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
+El Centro de Mecanismos Alternativos para la Solución de Conflictos se ubicará en la Capital del Estado y en caso de ser necesario contará con Unidades Regionales o Móviles Itinerantes, de conformidad con la disponibilidad presupuestal. El Centro tendrá capacidad técnica para organizar, promover y ofrecer servicios de mecanismos alternativos para la solución de conflictos, tales como la mediación, conciliación, transacción y justicia restaurativa conforme a lo dispuesto en esta ley, la de la materia y el propio reglamento.
 
-### CAPITULO I
+###### ARTÍCULO 269.
 
-Medidas de Seguridad Sanitaria.
+La Directora o Director del Centro de Mecanismos Alternativos para la Solución de Conflictos tendrá las siguientes atribuciones y obligaciones:
 
-###### ARTICULO 293.
+I.- Dirigir el Centro de Mecanismos Alternativos para la Solución de Conflictos y vigilar el cumplimiento de sus objetivos;
 
-El cómputo de los plazos que señale la autoridad sanitaria competente para el cumplimiento de sus disposiciones sanitarias, se hará entendiendo los días como naturales, con las excepciones que esta Ley establezca.
+II.- Presentar al Órgano de Administración judicial las propuestas para Jefas y Jefes de Unidad y Especialistas en mecanismos alternativos para la solución de conflictos para su designación;
 
-###### ARTICULO 294.
+III.- Prestar el servicio de mecanismos alternativos para la solución, parcial o total de conflictos que planteen los particulares, por sí o a través de las autoridades judiciales, en materia civil, mercantil y familiar, siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros; en materia penal y de justicia para adolescentes podrá recurrirse a los mecanismos alternativos para la solución de conflictos en los casos en que las leyes respectivas lo permitan;
 
-En los casos de suspensión de trabajos o de servicios o de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las verificaciones.
+IV.- Establecer métodos, políticas y estrategias para que el Centro y las Unidades Regionales conozcan y apliquen eficientemente el proceso de mediación;
 
-### CAPITULO II. Sanciones Administrativas
+V.- Realizar investigaciones, análisis y diagnósticos relacionados con los mecanismos alternativos para la solución de conflictos;
 
-###### ARTICULO 295.
+VI.- Apoyar a las diversas entidades públicas y privadas en la promoción de la cultura de la paz a través de los mecanismos alternativos para la solución de conflictos;
 
-Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+VII.- Solicitar a la Escuela Judicial de Tamaulipas la impartición de cursos de capacitación en mecanismos alternativos para la solución de conflictos;
 
-###### ARTICULO 296.
+VIII.- Rendir con la oportunidad debida, los informes que les sean requeridos por el órgano de Administración Judicial;
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+IX.- Comunicar a la autoridad judicial el inicio y conclusión de los mecanismos alternativos para la solución de conflictos cuando se deriven de un procedimiento judicial, señalando las causas de ello y, en su caso, remitir original del convenio o acuerdo que las partes hayan celebrado para los efectos legales correspondientes;
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+X.- Certificar los convenios que le sean presentados por los especialistas adscritos al propio Centro; y
 
-###### ARTICULO 297.
+XI.- Las demás que establezcan las disposiciones legales.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+###### ARTÍCULO 270.
 
-###### ARTICULO 298.
+Para ser Directora o Director del Centro o para ser Jefa o Jefe de Unidad se requiere:
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+I.- Ser persona mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-###### ARTICULO 299.
+II.- Tener cuando menos treinta y cinco años de edad, cumplidos el día de la designación;
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+III.- Ser Licenciada o Licenciado en Derecho, con título legalmente registrado;
 
-## TITULO DECIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN ETAPA TERMINAL
+IV.- Acreditar tener conocimientos en materia de métodos de autocomposición asistida; y
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime la buena fama, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
+
+Para ser Jefa o Jefe de la Unidad Regional se exceptúa el requisito de la fracción II, debiéndose contar cuando menos con treinta años de edad al día de su designación.
+
+###### ARTÍCULO 271.
+
+Las Jefas o Jefes de Unidad tendrán las facultades y obligaciones siguientes:
+
+I.- Dirigir la Unidad Regional del Centro de Mecanismos Alternativos para la Solución de Conflictos a su cargo, y vigilar el cumplimiento de sus objetivos;
+
+II.- Fomentar y difundir los mecanismos alternativos para la solución de conflictos en su ámbito territorial;
+
+III.- Promover en los especialistas la capacitación y actualización constante en la materia;
+
+IV.- Proponer a los especialistas de la Unidad;
+
+V.- Prestar el servicio de mecanismos alternativos para la solución de conflictos en la Unidad que se encuentre adscrito, para la solución, parcial o total de conflictos que planteen los particulares, por sí o a través de las autoridades judiciales, en materia civil, mercantil y familiar, siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros; en materia penal podrá recurrirse a los mecanismos alternativos para la solución de conflictos en los casos de delitos que de acuerdo con la ley procede el perdón del ofendido y, en todos, por cuanto hace a la reparación del daño; en la materia de justicia para adolescentes, cuando proceda el acuerdo reparatorio o la suspensión del proceso a prueba, y en cualquier otro conflicto, respecto de derechos disponibles de las partes;
+
+VI.- Certificar los convenios que le sean presentados por los especialistas adscritos a su unidad;
+
+VII.- Comunicar a la autoridad judicial el inicio y conclusión de los mecanismos alternativos para la solución de conflictos cuando éstos se deriven de un procedimiento judicial, señalando las causas de ello y, en su caso, remitir original del convenio o acuerdo que las partes celebren para los efectos legales correspondientes;
+
+VIII.- Rendir a la Directora o Director del Centro de Mecanismos Alternativos para la Solución de Conflictos informes de las labores realizadas, dentro de los primeros tres días del mes de julio y otro dentro de los primeros tres días del mes de diciembre;
+
+IX.- Rendir los informes que le sean solicitados por el Órgano de Administración Judicial; y
+
+X.- Las demás que se deriven de la Ley y otras disposiciones jurídicas que resulten aplicables.
+
+###### ARTÍCULO 272.
+
+Para ser especialista del Centro o Unidad Regional, se requiere, además de los requisitos establecidos por la ley de la materia, aprobar examen de evaluación integral y de conocimientos teórico prácticos relativos a los procedimientos de mecanismos alternativos para la solución de conflictos, aplicados por la Escuela Judicial.
+
+###### ARTÍCULO 273.
+
+Son facultades y obligaciones del especialista en mecanismos alternativos para la solución de conflictos:
+
+I.- Desarrollar el proceso atendiendo a los principios y etapas de los mecanismos alternativos y al acuerdo que exista entre los usuarios del servicio de mecanismos alternativos, de conformidad con lo establecido en la ley de la materia y demás disposiciones aplicables;
+
+II.- Facilitar la comunicación entre las partes y promover la comprensión entre ellas con el fin de que éstas encuentren solución al conflicto planteado;
+
+III.- Vigilar que las partes tomen sus decisiones disponiendo de la información y el asesoramiento suficientes, a fin de obtener los acuerdos de una manera libre, dando para dicho efecto oportunidad suficiente a las partes de consultar a sus asesores, antes de aceptar el acuerdo de autocomposición;
+
+IV.- Mantenerse actualizado en la teoría y práctica del proceso de los mecanismos alternativos para la solución de conflictos;
+
+V.- Abstenerse de conocer de aquellos asuntos que no admitan el proceso de mecanismos alternativos para la solución de conflictos;
+
+VI.- Excusarse de intervenir en los procesos de mecanismos alternativos para la solución de conflictos, cuando exista una causa que ponga en riesgo la imparcialidad o el buen desarrollo del proceso, o cuando esto sea cuestionado por alguna de las partes; y
+
+VII.- Suspender o dar por concluido el proceso en los casos en que exista falta de disposición de alguna de las partes, o se ponga en peligro la integridad física o psíquica de cualquiera de los participantes.
+
+###### ARTÍCULO 274.
+
+Los servicios que presta el Centro de Mecanismos Alternativos para la Solución de Conflictos también se podrán ofrecer a distancia, a través de unidades móviles o itinerantes, mediante el uso de las tecnologías de la comunicación e información, las cuales contarán con los especialistas y personal administrativo necesario.
+
+### CAPÍTULO VI. DE LA COORDINACIÓN DE PLANEACIÓN, DESARROLLO ADMINISTRATIVO Y ESTADÍSTICA
+
+###### ARTÍCULO 275.
+
+El Poder Judicial contará con una Unidad de Transparencia que estará a cargo de una persona titular y el personal de apoyo que determine el Órgano de Administración Judicial y permita el presupuesto.
+
+Las funciones de la Unidad de Transparencia, serán:
+
+I.- Recabar y difundir la información pública de oficio y propiciar que las áreas administrativas y jurisdiccionales correspondientes la actualicen periódicamente, conforme a la normatividad aplicable;
+
+II.- Recibir y dar trámite a las solicitudes de acceso a la información;
+
+III.- Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
+
+IV.- Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
+
+V.- Efectuar las notificaciones a los solicitantes;
+
+VI.- Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+
+VII.- Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VIII.- Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+
+IX.- Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+X.- Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
+
+XI.- Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables; y
+
+XII.- Las demás que se desprendan de la normatividad aplicable o que le asigne el Órgano de Administración Judicial.
+
+Las y los titulares de las áreas administrativas y jurisdiccionales del Poder Judicial del Estado, tienen la obligación de proporcionar oportunamente la información que deban generar en virtud de sus funciones o que se encuentre en sus archivos, cuando así le sea requerida por la Unidad de Transparencia.
+
+Cuando las áreas administrativas y jurisdiccionales correspondientes se negaren a colaborar con la Unidad de Transparencia, ésta dará aviso al superior jerárquico para que le ordene realizar sin demora las acciones conducentes.
+
+### CAPÍTULO VII. DE LOS CENTROS DE CONVIVENCIA FAMILIAR
+
+###### ARTÍCULO 276.
+
+El Poder Judicial contará con una Coordinación de Planeación, Desarrollo Administrativo y Estadística, que estará a cargo de una Coordinadora o Coordinador y el personal de apoyo que determine el Órgano de Administración Judicial y permita el presupuesto.
+
+Las funciones de la Coordinación de Planeación, Desarrollo Administrativo y Estadística serán:
+
+I.- Proponer el desarrollo e integración del proceso de planeación judicial y, conforme a lo instruido coordinar y dar seguimiento al programa estratégico de desarrollo;
+
+II.- Coordinar la formulación del programa estratégico y proyectos de conformidad con los lineamientos establecidos por el Pleno del Órgano de Administración Judicial;
+
+III.- Dar seguimiento a los programas y proyectos, emitiendo opiniones a la o a el Presidente para la toma de decisiones que permitan mejorar el desempeño institucional;
+
+IV.- Desarrollar un sistema de indicadores del desempeño que proporcione información cuantitativa y cualitativa que le permita al Pleno del Órgano de Administración Judicial evaluar las funciones, actividades y logros de los servidores judiciales, como sustento de los estímulos y recompensas que se otorguen a los mismos;
+
+V.- Solicitar, concentrar, procesar, analizar, sistematizar e interpretar técnicamente la información estadística que, con motivo de sus facultades generan los órganos judiciales;
+
+VI.- Coordinar sus acciones con la Dirección de Responsabilidades Administrativas y la Contraloría, para el oportuno y eficaz cumplimiento de las atribuciones que tienen conferidas;
+
+VII.- Coordinar el Sistema de Gestión de la Calidad, promoviendo la mejora continua tanto de los procesos de apoyo a la impartición de justicia, como de los procesos administrativos, que redunden en beneficio de los justiciables, litigantes y del propio personal del Poder Judicial; y
+
+VIII.- Las demás que le establezcan las disposiciones legales o el Órgano de Administración Judicial.
+
+### CAPÍTULO VIII. DE LA UNIDAD DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS
+
+###### ARTÍCULO 277.
+
+El Poder Judicial contará con un Centro de Convivencia Familiar en los Distritos Judiciales que determine el Órgano de Administración Judicial, estará a cargo de una Coordinadora o Coordinador General, una Coordinadora o Coordinador Regional y el personal que el propio Órgano designe.
+
+Los Centros de Convivencia Familiar como instancias auxiliares y de apoyo de los jueces competentes en materia familiar, tendrá las siguientes funciones:
+
+I.- Proporcionar en las instalaciones del Centro, los servicios necesarios para la Convivencia de padres e hijos decretada de manera provisional o definitiva en las controversias respectivas, cuando las particularidades del caso así lo requieran;
+
+II.- Proporcionar en las instalaciones del Centro, los servicios necesarios para la Convivencia supervisada bajo los parámetros ordenados por la autoridad judicial;
+
+III.- Otorgar los servicios de entrega, recepción y reintegro de las niñas, niños y adolescentes a las y los progenitores custodios y no custodios, según sea el caso, cuando la autoridad judicial haya permitido la convivencia fuera de las instalaciones del Centro;
+
+IV.- Otorgar servicios de atención psicológica individual, terapias grupales a las niñas, niños, adolescentes y a sus progenitoras o progenitores y terapias de integración, tendentes a superar sus conflictos, manejar adecuadamente sus emociones y mejorar su capacidad para relacionarse;
+
+V.- Otorgar servicios de Evaluaciones de personalidad; socioeconómicas y de entorno que aporten mejores elementos a los titulares de los órganos jurisdiccionales para el dictado de sus resoluciones en las controversias respectivas; y
+
+VI.- Otorgar servicio de asesoría psicológica y talleres psicoeducativos dirigidos a niños, adolescentes y adultos con el propósito de coadyuvar al desarrollo de habilidades sociales y de afrontamiento ante los conflictos.
+
+###### ARTÍCULO 278.
+
+Adicionalmente a las funciones establecidas en el artículo anterior, otorgarán los siguientes servicios extraordinarios a los distintos órganos jurisdiccionales y administrativos del Poder Judicial del Estado de Tamaulipas:
+
+I.- Asistencia de las niñas, niños o adolescentes para poder participar de manera efectiva en un proceso de justicia;
+
+II.- Designación de peritos en el desahogo de pruebas psicológicas;
+
+III.- Evaluaciones Psicológicas o Socioeconómicas y de entorno social que se requieran en asuntos de carácter penal y de justicia para adolescentes; y
+
+IV.- Servicios de convivencia y de entrega-recepción de las niñas, niños y adolescentes en los asuntos que se ventilen en los Centros de mecanismos alternativos de solución de conflictos del Poder Judicial del Estado, cuando esa sea la solución para que las partes lleguen a un acuerdo voluntario respecto a las reglas de convivencia.
+
+###### ARTÍCULO 279.
+
+Para ser Coordinadora o Coordinador General o Coordinadora o Coordinador Regional del Centro de Convivencia Familiar del que se trate, se deberán reunir los siguientes requisitos:
+
+I.- Contar con nivel licenciatura, con una antigüedad no menor de cinco años en el ejercicio de su profesión y, preferentemente, contar con experiencia en materia psicológica;
+
+II.- Tener experiencia en materia familiar, capacitado en administración y relaciones humanas, preferentemente con conocimientos en psicología, trabajo social y mediación; y
+
+III.- Los demás que determine el Órgano de Administración Judicial.
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 280.
+
+El Poder Judicial contará con una Unidad de Igualdad de Género y Derechos Humanos, que dependerá del Órgano de Administración Judicial y tendrá el personal de apoyo que determine éste y permita el presupuesto. Las funciones de la Unidad de Igualdad de Género y Derechos Humanos serán:
+
+I.- Promover y fortalecer la política de Igualdad de Género y los Derechos Humanos entre las y los servidores públicos del Poder Judicial del Estado;
+
+II.- Impulsar la perspectiva de género y los derechos humanos en los programas y en la planeación de acciones y políticas laborales del Poder Judicial;
+
+III.- Promover la formación, capacitación y actualización sobre la materia, de los integrantes del Poder Judicial del Estado;
+
+IV.- Ser enlace y representar al Poder Judicial ante los poderes Ejecutivo y Legislativo del Estado, en el ámbito de su competencia;
+
+V.- Proponer al Órgano de Administración Judicial instrumentos para fortalecer la política de Igualdad de Género y Derechos Humanos;
+
+VI.- Rendir los informes de actividades que solicite el Órgano de Administración Judicial; y
+
+VII.- Las demás que el Órgano de Administración Judicial y su Presidenta o Presidente le asignen.
+
+## TÍTULO DÉCIMO. DEL TRIBUNAL ELECTRÓNICO
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 281.
+
+El Tribunal Electrónico es el sistema integral de procesamiento de información, de forma electrónica o digital, que permite la substanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado; conforme a lo establecido en las leyes aplicables, así como en el Reglamento para el Acceso a los Servicios del Tribunal Electrónico del Poder Judicial del Estado, que apruebe el Pleno del Órgano de Administración Judicial.
+
+El objeto principal del Tribunal Electrónico es constituirse en una herramienta tecnológica que contribuya a que los servicios de impartición de justicia se presten con mayor agilidad, calidad, eficacia, eficiencia, seguridad y transparencia, en beneficio de los justiciables.
+
+###### ARTÍCULO 282.
+
+El sistema del Tribunal Electrónico tendrá como principales funciones:
+
+I.- La formación del expediente electrónico a través de la incorporación de las resoluciones judiciales en el sistema y la digitalización de documentos;
+
+II.- La consulta de expedientes electrónicos;
+
+III.- La recepción electrónica de promociones o peticiones diversas;
+
+IV.- La notificación personal en forma electrónica de las resoluciones judiciales; y
+
+V.- El fungir como medio de comunicación procesal entre autoridades jurisdiccionales.
+
+## TÍTULO DÉCIMO PRIMERO. DE LOS ÓRGANOS JUDICIALES Y ADMINISTRATIVOS DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL
+
+### CAPÍTULO II. DE LOS TRIBUNALES DE ENJUICIAMIENTO
+
+###### ARTÍCULO 283.
+
+Son órganos judiciales del Sistema de Justicia Penal Acusatorio y Oral:
+
+I.- El Pleno del Supremo Tribunal de Justicia;
+
+II.- Las Salas Colegiadas, Unitarias y Regionales que conocen materia penal;
+
+III.- Tribunales de Enjuiciamiento;
+
+IV.- Las Juezas y Jueces de Control; y
+
+V.- Las Juezas y Jueces de Ejecución de Sanciones.
+
+ARTÍCULOS (SIC) 284.- Para ser Jueza o Juez de Control o del Tribunal de Enjuiciamiento, se requiere cumplir con lo previsto en el artículo 117 de la Constitución Política del Estado.
+
+###### ARTÍCULO 285.
+
+La competencia territorial de las Juezas y Jueces de Control y los Tribunales de Enjuiciamiento, quedará determinada por el Órgano de Administración Judicial, esta ley, y las previsiones contenidas en el Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO 286.
+
+En cada región judicial, el Órgano de Administración Judicial, designará, de entre los jueces de la misma, una Jueza o Juez Coordinador a propuesta de las y los Jueces de Control y Tribunal de Enjuiciamiento adscritos a la propia región judicial. La Jueza o Juez Coordinador durará en su encomienda un año a partir de su designación y actuará como enlace ante la Coordinación General de Sistemas de Gestión Judicial para impulsar la mejora continua del servicio.
+
+### CAPÍTULO III. DE LAS JUEZAS Y JUECES DE CONTROL
+
+###### ARTÍCULO 287.
+
+Los Tribunales de Enjuiciamiento actuarán de forma unitaria, ejerciendo funciones bajo los lineamientos contenidos en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la presente Ley y los establecidos por el Órgano de Administración Judicial.
+
+Las y los Jueces de (sic) Tribunal de Enjuiciamiento podrán actuar como Juezas o Jueces de Control, cuando así se requiera por las necesidades del servicio y conforme al sistema de asignación que al efecto se implemente, atendiendo la previsión contenida en el artículo 20, apartado A, fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO 288.
+
+Los Tribunales de Enjuiciamiento, tendrán una Jueza o Juez, quien dirigirá las audiencias y mantendrá el orden de las mismas, conforme a lo previsto en el Código Nacional de Procedimientos Penales. Las sentencias constarán por escrito.
+
+###### ARTÍCULO 289.
+
+La Jueza o el Juez del Tribunal de enjuiciamiento será asignado, en cada asunto, mediante el sistema administrativo que al efecto se implemente.
+
+###### ARTÍCULO 290.
+
+Son funciones de los Tribunales de Enjuiciamiento, las siguientes:
+
+I.- Conocer y juzgar las causas penales de su competencia;
+
+II.- Resolver los incidentes y planteamientos que se presenten durante la etapa de juicio;
+
+III.- Resolver los recursos de revocación que les corresponda conocer;
+
+IV.- Pronunciar sentencia en los términos de ley; y
+
+V.- Las demás que les otorgue la ley.
+
+### CAPÍTULO IV. DE LA COORDINACIÓN GENERAL DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL
+
+###### ARTÍCULO 291.
+
+Las Juezas y los Jueces de Control tienen a su cargo el ejercicio de las atribuciones de control judicial establecidas en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; sin embargo, podrán actuar como integrantes del Tribunal de Enjuiciamiento, siempre que no se contravenga lo dispuesto por el artículo 20, apartado A, fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO 292.
+
+Son funciones de las Juezas y los Jueces de Control, las siguientes:
+
+I.- Conocer y resolver las impugnaciones contra las resoluciones que otorguen el ejercicio de criterios de oportunidad;
+
+II.- Resolver las solicitudes del Ministerio Público sobre autorización de medios de investigación, revisión corporal, medidas cautelares y providencias precautorias;
+
+III.- Resolver las solicitudes sobre obtención de pruebas que formule la defensa del imputado;
+
+IV.- Calificar la detención del imputado;
+
+V.- Resolver sobre la sustitución, modificación o cancelación de medidas cautelares;
+
+VI.- Resolver sobre la solicitud de suspensión del proceso a prueba;
+
+VII.- Resolver en la audiencia respectiva, sobre la revocación de la suspensión del proceso a prueba;
+
+VIII.- Resolver en definitiva sobre las objeciones que se hicieren a medidas adoptadas por la policía o el Ministerio Público en fase de investigación;
+
+IX.- Recibir las pruebas anticipadas en términos de la ley;
+
+X.- Promover la adopción de mecanismos alternativos de solución de controversias y, en su caso, aprobar el acuerdo reparatorio respectivo;
+
+XI.- Resolver las reclamaciones por irregularidades en la conservación de elementos recogidos durante la investigación, así como por la negativa del Ministerio Público a dar acceso a los mismos;
+
+XII.- Dirigir la audiencia sobre formulación de la imputación, resolviendo los planteamientos que en la misma hagan las partes;
+
+XIII.- Dirigir la audiencia de vinculación a proceso del imputado, resolviendo las situaciones procesales inherentes, así como los incidentes que se presenten en la misma;
+
+XIV.- Dictar auto de sobreseimiento de la causa o de suspensión del proceso, cuando proceda;
+
+XV.- Dirigir la audiencia de preparación de juicio oral resolviendo las situaciones procesales inherentes, y dictar auto de apertura de juicio oral;
+
+XVI.- Conocer y resolver las impugnaciones sobre las determinaciones del Ministerio Público relativas a la abstención de investigar, archivo temporal o de no ejercicio de la acción penal; y
+
+XVII.- Las demás que le otorgue la ley.
+
+### CAPÍTULO V. DE LA UNIDAD DE ADMINISTRACIÓN DE SALAS DE AUDIENCIAS
+
+###### ARTÍCULO 293.
+
+El Sistema de gestión judicial en el ámbito del Procedimiento Penal Acusatorio y Oral, tendrá una Coordinadora o Coordinador General designado por el Órgano de Administración Judicial y contará con la estructura administrativa que éste autorice y permita el presupuesto.
+
+###### ARTÍCULO 294.
+
+Las funciones de la Coordinación General de Sistemas de Gestión Judicial, serán:
+
+I.- Planificar, organizar y controlar la gestión administrativa del procedimiento penal acusatorio y oral, en el ámbito judicial;
+
+II.- Dirigir y supervisar la logística para el correcto funcionamiento de las salas de audiencias;
+
+III.- Conducir y supervisar el sistema de asignación de Juezas y Jueces, tanto de control como de enjuiciamiento, para la atención de asuntos;
+
+IV.- Evaluar el desempeño del personal de apoyo;
+
+V.- Organizar la estadística general del Sistema, rindiendo al Órgano de Administración Judicial los informes respectivos;
+
+VI.- Proponer al Órgano de Administración Judicial la adopción de medidas para la mejora continua del servicio y buenas prácticas;
+
+VII.- Supervisar el uso y conservación de la infraestructura y equipamiento de las salas de audiencias;
+
+VIII.- Proponer al Órgano de Administración Judicial los manuales de organización requeridos; y
+
+IX.- Las demás que señale la ley, el Órgano de Administración Judicial y su Presidenta o Presidente.
+
+### CAPÍTULO VI. DE LA UNIDAD DE SEGUIMIENTO DE CAUSAS
+
+###### ARTÍCULO 295.
+
+El Sistema de Justicia Penal Acusatorio y Oral tendrá las Unidades de Administración de Salas de Audiencias que resulten necesarias, contando con el personal de apoyo que determine el Órgano de Administración Judicial y permita el presupuesto.
+
+###### ARTÍCULO 296.
+
+Las funciones de la Unidad de Administración de Salas de Audiencias, serán las siguientes:
+
+I.- Preparar y controlar la agenda de Audiencias, propiciando el correcto funcionamiento de las Salas a su cargo;
+
+II.- Participar en la evaluación del desempeño del personal de apoyo;
+
+III.- Operar el sistema de asignación de jueces actuantes en las Salas de Audiencias a su cargo;
+
+IV.- Asegurar el óptimo funcionamiento del equipo de videograbación antes de cada audiencia en las Salas a su cargo;
+
+V.- Elaborar la estadística de asuntos y Audiencias, rindiendo a la Coordinación General del Sistema los informes conducentes;
+
+VI.- Obtener los registros digitales de Audiencias, entregando los archivos respectivos a la Unidad de Seguimiento de Causas;
+
+VII.- Preservar el uso y funcionalidad de la infraestructura y equipamiento de las Salas de Audiencias a su cargo;
+
+VIII.- Atender planteamientos del público asistente a las Audiencias, excepto aquéllos de naturaleza estrictamente jurisdiccional; y
+
+IX.- Las demás que le señale el Órgano de Administración Judicial y la normatividad aplicable.
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 297.
+
+El Sistema de Justicia Penal Acusatorio y Oral tendrá las Unidades de Seguimiento de Causas que resulten necesarias, y contarán con el personal de apoyo que determine el Órgano de Administración Judicial y permita el presupuesto.
+
+###### ARTÍCULO 298.
+
+Las funciones de la Unidad de Seguimiento de Causas, serán las siguientes:
+
+I.- Expedir a las partes las copias de registros procesales que autorice el órgano jurisdiccional;
+
+II.- Resguardar los documentos, registros o actuaciones que se generen durante el proceso hasta que la resolución cause ejecutoria;
+
+III.- Una vez concluido el proceso, enviar la carpeta administrativa y registros de audiencias al Archivo Judicial para su resguardo;
+
+IV.- Verificar que se reúnan las condiciones legales para iniciar la audiencia e informar el resultado al órgano jurisdiccional;
+
+V.- Recibir y despachar la correspondencia de los órganos jurisdiccionales a quienes asiste, así como operar el sistema de comunicación procesal;
+
+VI.- Dar seguimiento a los mandatos judiciales originados dentro y fuera de audiencia;
+
+VII.- Asistir al órgano jurisdiccional en las audiencias y en los actos que se derivan de las mismas;
+
+VIII.- Elaborar el acta que contenga los datos mínimos de las Audiencias; y
+
+IX.- Las demás que le señale el Órgano de Administración Judicial y la normatividad aplicable.
+
+###### ARTÍCULO 299.
+
+El Órgano de Administración Judicial establecerá el perfil y requisitos que deban satisfacer las personas titulares de los Órganos Administrativos del Sistema de Justicia Penal Acusatorio y Oral.
+
+## TÍTULO DÉCIMO SEGUNDO. DE LOS TRIBUNALES LABORALES
 
 ### CAPITULO IV. Recurso de Inconformidad
 
-###### ARTICULO 300.
+###### ARTÍCULO 300.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+Los Tribunales Laborales serán unitarios. A las y los jueces de (sic) Tribunal Laboral les corresponderá conocer:
 
-###### ARTICULO 301.
+I.- De los asuntos relativos a las diferencias o los conflictos entre personas trabajadoras y patrones suscitados dentro de la jurisdicción estatal, derivado de las relaciones de trabajo o de hechos relacionados con ellas, que no sea competencia de los Tribunales Laborales del Poder Judicial de la Federación, en términos de lo que dispone el artículo 123 Apartado "A", fracción XX, de la Constitución Política de los Estados Unidos Mexicanos;
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+II.- De la diligenciación de exhortos, requisitorias y despachos de naturaleza laboral; y,
 
-###### ARTICULO 302.
+III.- De las demás funciones que les impongan las leyes y otros ordenamientos jurídicos.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+Los Jueces de (sic) Tribunal Laboral serán la máxima autoridad jurisdiccional en la materia laboral. Actuarán de conformidad con los procedimientos previstos en la Ley Federal del Trabajo.
 
-###### ARTICULO 303.
+###### ARTÍCULO 301.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+El tribunal laboral se integrará con:
 
-###### ARTICULO 304.
+I.- Una Jueza o un Juez;
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+II.- Secretarias o Secretarios; y
 
-###### ARTICULO 305.
+III.- El personal que determine el Órgano de Administración Judicial.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+###### ARTÍCULO 302.
 
-###### ARTICULO 306.
+Las y los secretarios instructores de los tribunales laborales, en el ámbito de sus atribuciones, además de las que señala la Ley Federal del Trabajo, tendrán las siguientes:
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+I.- A petición de la Jueza o Juez laboral, dictar los acuerdos relativos a la etapa escrita de procedimiento;
 
-###### ARTICULO 307.
+II.- Al inicio de las audiencias, hacer constar oralmente en el registro la fecha, hora y lugar de realización, el nombre de los servidores públicos del Tribunal, y demás personas que intervendrán;
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+III.- Tomar protesta previa de que se conducirán con verdad las partes y los terceros que intervengan en el desarrollo de las audiencias, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad;
 
-###### ARTICULO 308.
+IV.- Certificar el medio en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse;
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
+V.- Firmar las resoluciones que así lo ameriten, el día en que se emitan;
 
-### CAPITULO V. Prescripción
+VI.- Decretar las providencias cautelares previstas en la Ley Federal del Trabajo; y
 
-###### ARTICULO 309.
+VII.- Las demás que determine la ley o el Órgano de Administración Judicial.
 
-El ejercicio de la facultad para imponer las sanciones administrativas previstas en la presente Ley, prescribirá en el término de cinco años.
+T R A N S I T O R I O S
 
-###### ARTICULO 310.
+###### ARTÍCULO PRIMERO.
 
-Los términos para prescripción serán continuos y se contarán desde el día en que se cometió la falta o infracción administrativa si fuere consumada, o desde que cesó, si fuere continua.
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el 1° de octubre de 2025.
 
-###### ARTICULO 311.
+###### ARTÍCULO SEGUNDO.
 
-Cuando el presunto infractor impugnare los actos de la autoridad sanitaria competente, se interrumpirá la prescripción hasta en tanto la resolución definitiva que se dicte no admita ulterior recurso.
+A partir de la entrada en vigor del presente Decreto, se abroga la Ley Orgánica del Poder Judicial del Estado, expedida mediante Decreto No. 361 de fecha 13 de diciembre del 2000 y publicada en el Anexo al Periódico Oficial No. 135 del 19 de diciembre del 2000.
 
-###### ARTICULO 312.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
-Los interesados podrán hace valer la prescripción, por vía de acción o excepción. La autoridad deberá declararla de oficio.
+###### ARTÍCULO TERCERO.
 
-## TRANSITORIOS
+Hasta en tanto las Magistradas y los Magistrados del Supremo Tribunal de Justicia de Tamaulipas, tomen protesta constitucional de sus cargos ante el Congreso del Estado Libre y Soberano de Tamaulipas, el 30 de septiembre de 2025 y entren en funciones el día 1° de octubre de 2025, el Poder Judicial del Estado continuará rigiéndose para todos los efectos por las atribuciones, competencias, obligaciones, reglas de votación, faltas, licencias y demás disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado, expedida mediante Decreto No. 361 del 13 de diciembre del 2000 y publicada en el Anexo al Periódico Oficial No.135 del 19 de diciembre del 2000.
 
-###### ARTICULO PRIMERO.
-
-La presente ley entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTICULO SEGUNDO.
-
-Se abroga la Ley de Salud del Estado de Aguascalientes, publicada en el Periódico Oficial el 12 de abril de 1987, suplemento al número 15, y sus reformas publicadas en el Periódico Oficial del Estado el 18 de mayo de 1997.
-
-###### ARTICULO TERCERO.
-
-Continuarán en vigor los Acuerdos de Coordinación celebrados con el Ejecutivo Federal para la Integración Orgánica y Descentralización Operativa de los Servicios de Salud, publicado en el Diario Oficial de la Federación el día 17 de enero de 1989 y en el Periódico Oficial del Estado el 15 de abril de 1990; así como el Acuerdo de Coordinación con el Propósito de Descentralizar el Ejercicio de las Funciones de Regulación, Control y Fomento Sanitarios en la Entidad, publicado en el Diario Oficial de la Federación el día 7 de noviembre de 1989 y en Periódico Oficial del Estado el 31 de diciembre de 1989, en lo que no se oponga en lo dispuesto por la Ley General de Salud y la presente Ley.
-
-Al Ejecutivo para su sanción.
-
-Dado en el salón de sesiones del H. Congreso del Estado, a los veintisiete días del mes de mayo de mil novecientos noventa y nueve.- D.P., Jorge Rodríguez León.- D.S., Cecilia Cristina Franco Ruiz Esparza.- D.S., Gonzalo Nieves Mota.- Rúbricas".
-
-Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-DIPUTADO PRESIDENTE,
-
-Jorge Rodríguez León.
-
-DIPUTADA SECRETARIA,
-
-Cecilia Cristina Franco Ruiz Esparza.
-
-DIPUTADO SECRETARIO,
-
-Gonzalo Nieves Mota.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Aguascalientes, Ags., 3 de junio de 1999.
-
-Felipe González González.
-
-EL SECRETARIO GENERAL DE GOBIERNO,
-
-Lic. Abelardo Reyes Sahagún.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 26 DE NOVIEMBRE DE 2001.
-
-UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
-
-P.O. 27 DE DICIEMBRE DE 2004.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO CUARTO.
 
-El Instituto de Educación del Estado de Aguascalientes, en un plazo no mayor a quince días posteriores a la entrada en vigencia del presente Decreto, deberá emitir los lineamientos necesarios para la prevención de los riesgos asociados con la exposición excesiva a los rayos ultravioleta de conformidad con lo que se estipula en el presente Decreto.
+Hasta en tanto los miembros del Tribunal de Disciplina Judicial tomen protesta de su encargo ante el Congreso del Estado Libre y Soberano de Tamaulipas, el 30 de septiembre de 2025, para entrar en funciones el día 1° de octubre de 2025 y hasta en tanto sea creado el Órgano de Administración Judicial y sus integrantes inicien funciones con esa misma fecha, el Consejo de la Judicatura del Estado continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial.
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO QUINTO.
 
-El presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+I.- Al Tribunal de Disciplina Judicial le corresponderá recibir los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de disciplina y control interno.
 
-###### ARTICULO SEGUNDO.
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura del Estado al Tribunal de Disciplina Judicial, estos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
 
-Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuaran su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+II. Al Órgano de Administración Judicial se transferirán los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de administración y de carrera judicial, tanto del Supremo Tribunal de Justicia, como del Consejo de la Judicatura del Estado.
 
-P.O. 17 DE JULIO DE 2006.
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura del Estado al Órgano de Administración Judicial, estos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos disciplinarios iniciados con anterioridad a la entrada en vigor del presente Decreto, en los que se haya emitido el informe o dictamen conclusivo de la etapa de investigación, se substanciarán por el Tribunal de Disciplina Judicial, o el Órgano de Administración Judicial, según corresponda, conforme a las disposiciones vigentes en aquel momento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos disciplinarios cuya etapa de investigación no haya concluido a la entrada en vigor del presente Decreto, se tramitarán por el Tribunal de Disciplina Judicial y sus órganos auxiliares, o en su caso por el Órgano de Administración Judicial, conforme a las disposiciones contenidas en el presente Decreto y los acuerdos generales que emita el propio Tribunal.
+
+###### ARTÍCULO OCTAVO.
+
+En todo lo no previsto en el presente Decreto, el Pleno del Tribunal de Disciplina Judicial regulará la transición de los procesos disciplinarios de los que conoce el Consejo de la Judicatura del Estado mediante acuerdo general.
+
+###### ARTÍCULO NOVENO.
+
+Los Acuerdos Generales emitidos por el Consejo de la Judicatura del Estado continuarán vigentes en todo lo que no se oponga a la presente Ley hasta en tanto el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial emitan sus propios Acuerdos.
+
+###### ARTÍCULO DÉCIMO.
+
+Hasta en tanto se crean los juzgados especializados en materia mercantil, seguirán conociendo de los juicios de esta materia las y los jueces civiles y menores, atendiendo a la cuantía del negocio, con excepción de los asuntos de oralidad mercantil, cuya competencia corresponde en exclusiva a los Jueces de Primera Instancia en materia Civil.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- Cd. Victoria, Tam., a 23 de mayo del año 2025.- DIPUTADA PRESIDENTA.- CYNTHIA LIZABETH JAIME CASTILLO.- Rúbrica.- DIPUTADA SECRETARIA.- MA DEL ROSARIO GONZÁLEZ FLORES.- Rúbrica.- DIPUTADO SECRETARIO.- VÍCTOR MANUEL GARCÍA FUENTES.- Rúbrica.”
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintitrés días del mes de mayo del año dos mil veinticinco.
+
+ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-381 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CATORCE DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 66-67, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EN FECHA 18 DE NOVIEMBRE DE 2024, QUE REFORMÓ, ADICIONÓ Y DEROGÓ DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO No. 66-330, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 24 DE MAYO DE 2025, POR EL QUE SE EXPIDIÓ LA NUEVA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que reforma el Artículo Segundo Transitorio del Decreto No. 66-67, publicado en el Periódico Oficial del Estado en fecha 18 de noviembre de 2024, que reformó, adicionó y derogó diversas disposiciones de la Constitución Política del Estado de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto que reforman los Artículos Tercero y Cuarto Transitorios del Decreto No. 66-330, publicado en el Periódico Oficial del Estado en fecha 24 de mayo de 2025, por el que se expidió la nueva Ley Orgánica del Poder Judicial del Estado de Tamaulipas, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor en los términos del Artículo Primero Transitorio del Decreto No. 66-330.
 
 ###### ARTICULO UNICO.
 
@@ -3093,34 +3481,8 @@ El Instituto de Salud del Estado de Aguascalientes deberá emitir los programas 
 
 P.O. 30 DE MARZO DE 2009.
 
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 13 DE JULIO DE 2009.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-El Poder Ejecutivo deberá emitir los reglamentos que sean necesarios para garantizar el ejercicio de los derechos que concede este Decreto, para lo que tendrá un plazo de 180 días naturales contados a partir de la entrada en vigencia del presente Decreto.
-
 ###### ARTÍCULO TERCERO.
 
 En el Presupuesto de Egresos del Gobierno del Estado de Aguascalientes para el Ejercicio Fiscal del Año 2010, se deberán contemplar los recursos suficientes para dar pleno cumplimiento a la aplicación de los cuidados paliativos a los enfermos en etapa terminal, previstos en la presente Ley.
 
 P.O. 31 DE AGOSTO DE 2009.
-
-###### ARTÍCULO PRIMERO.
-
-Las presentes reformas entrarán en vigencia a los quince días naturales siguientes a su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-La autoridad estatal en materia de salud deberá emitir los estándares seguros del índice de exposición a los rayos ultravioleta referidos en la presente reforma a más tardar a los siguientes quince días naturales de la entrada en vigencia de la presente reforma.
-
-###### ARTÍCULO TERCERO.
-
-A más tardar a los siguientes treinta días naturales de la entrada en vigencia de la presente reforma, la autoridad estatal en materia de salud, deberá publicar diariamente por medios electrónicos el índice de exposición a los rayos ultravioleta, difundiendo alertas y recomendaciones a la población de acuerdo a los riesgos existentes conforme a las características técnicas del índice señalado.
