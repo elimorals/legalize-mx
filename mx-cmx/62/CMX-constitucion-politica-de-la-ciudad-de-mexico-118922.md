@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2024-12-23"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -514,6 +514,10 @@ f) La prestación de los servicios locales de salud pública es competencia del 
 
 7. A toda persona se le permitirá el uso médico y terapéutico de la cannabis sativa, índica, americana o marihuana y sus derivados, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable.
 
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+8. Para garantizar el derecho de protección a la salud de las personas, la Ley de la materia y demás aplicables, sancionarán toda actividad relacionada con cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos que señale la ley; así como la producción, distribución y enajenación de sustancias tóxicas, precursores químicos, el uso ilícito del fentanilo y demás drogas sintéticas no autorizadas.
+
 E. Derecho a la vivienda
 
 1. Toda persona tiene derecho a una vivienda adecuada para sí y su familia, adaptada a sus necesidades.
@@ -582,11 +586,21 @@ B. Derecho al trabajo
 
 3. Toda persona que desempeñe una ocupación en la ciudad, temporal o permanente, asalariada o no, tendrá derecho a ejercer un trabajo digno.
 
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+Queda prohibida la profesión, industria, comercio interior o exterior, trabajo o cualquiera otra de las actividades que refiere el numeral 8 del apartado D, del artículo 9 anterior.
+
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+Las personas trabajadoras en modalidad de teletrabajo tienen derecho a la desconexión en términos de la Ley Federal del Trabajo y la normatividad aplicable.
+
 4. Las autoridades de la Ciudad, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con las leyes aplicables y en el ámbito de sus competencias, promoverán:
 
 a) El cumplimiento de los programas que tengan por objeto identificar y erradicar el trabajo infantil esclavo y forzado, así como la discriminación laboral;
 
-b) La igualdad sustantiva en el trabajo y el salario;
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+b) La igualdad sustantiva en el trabajo y el salario, así como para erradicar la brecha salarial en razón de género;
 
 c) La generación de condiciones para el pleno empleo, el salario remunerador, el aumento de los ingresos reales de las personas trabajadoras y el incremento de los empleos formales;
 
@@ -972,7 +986,9 @@ D. Instituto de Planeación Democrática y Prospectiva de la Ciudad de México
 
 3. El Instituto de Planeación Democrática y Prospectiva de la Ciudad de México tendrá una Junta de Gobierno, una o un Director General, un Directorio Técnico y un Consejo Ciudadano. Su estructura será determinada por la ley conforme a las siguientes disposiciones:
 
-a) La Junta de Gobierno será el órgano rector del Instituto, de carácter plural e interdisciplinario, que se integrará por la o el Jefe de Gobierno, en carácter de presidente, cinco representantes del gabinete, tres representantes del Cabildo de la Ciudad de México y siete consejeras y consejeros ciudadanos;
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+a) La Junta de Gobierno será el Órgano rector del Instituto, de carácter plural e interdisciplinario, que se integrará por la o el Jefe de Gobierno, en carácter de presidente, siete representantes del gabinete, tres representantes del Cabildo de la Ciudad de México, siete consejeras y consejeros ciudadanos;
 
 b) La o el Director General deberá ser un experto reconocido en planeación del desarrollo. Será designado por mayoría calificada del Congreso a partir de una terna propuesta por un comité de selección, conforme a los requisitos y métodos previstos por la ley. Durará en su encargo cinco años y podrá ser reelecto por otro periodo de tres años bajo el mismo procedimiento previsto para su nombramiento;
 
@@ -4869,3 +4885,27 @@ La persona que encabece el listado iniciará el mandato en 2027 una vez que sean
 La presidencia del Tribunal Superior de Justicia de la Ciudad de México para el periodo 2025-2027 será electa por las dos terceras partes del Pleno que se integre a partir del 1° de septiembre de 2025, pudiendo ser electa cualquiera de las personas integrantes del Pleno.
 
 DÉCIMO PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL NUMERAL 3 Y SE REFORMA EL INCISO B) NUMERAL 4, AMBOS DEL APARTADO B DEL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO: Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA Y LA LEY DE SALUD AMBAS DE LA CIUDAD DE MÉXICO, EN MATERIA DE PROHIBICIÓN DE CIGARRILLOS ELECTRÓNICOS, VAPEADORES Y DEMÁS SISTEMAS O DISPOSITIVOS ANÁLOGOS".]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 15, APARTADO D, NUMERAL 3, INCISO A, DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO Y SE REFORMA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER DEL ARTÍCULO 6 Y SE MODIFICA EL ARTÍCULO 7 DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
