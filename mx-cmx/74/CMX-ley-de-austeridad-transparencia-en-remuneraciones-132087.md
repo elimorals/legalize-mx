@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2024-12-27"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -2618,9 +2618,9 @@ SÉPTIMO. El Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad 
 
 OCTAVO. Se derogan las normas jurídicas que se opongan al presente Decreto.
 
-> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
 
-NOVENO. Por única ocasión y concretamente por lo que hace al Presupuesto Participativo a que hacen referencia los artículos 26, Apartado B de la Constitución Política de la Ciudad de México, 117 de la Ley de Participación Ciudadana de la Ciudad de México, así como 18 y 21 del Decreto de Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2021, las Alcaldías podrán comprometer recursos a más tardar el 30 de noviembre de 2021, respecto de los conceptos de gasto dispuestos en el artículo 63, párrafo segundo de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México. Los compromisos que se establezcan en el periodo señalado deberán estar efectivamente devengados al 31 de diciembre de 2021.
+NOVENO. Por única ocasión y concretamente por lo que hace al Presupuesto Participativo a que hacen referencia los artículos 26, Apartado B de la Constitución Política de la Ciudad de México, 117 de la Ley de Participación Ciudadana de la Ciudad de México, así como 16 y 17 del Decreto de Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2025, las Alcaldías podrán comprometer recursos a más tardar el 15 de diciembre de 2025, respecto de los conceptos de gasto dispuestos en el artículo 63, párrafo segundo de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
 
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil dieciocho.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
@@ -3673,3 +3673,11 @@ Pequeña 11-50 11-30 11-50
 ARTÍCULO TRIGÉSIMO OCTAVO.- Los recursos que deriven de los derechos a que se refiere el artículo 229, fracción II, inciso b), de este Código, formarán parte del patrimonio del fideicomiso público sin estructura constituido o que se constituya por el Gobierno de la Ciudad de México por conducto de la Secretaría de Administración y Finanzas, con el objeto de destinarlos al pago de los proyectos de infraestructura pública de transporte y movilidad, infraestructura en movilidad no motorizada y seguridad vial en la Ciudad de México, así como, a cualquier otro proyecto que fortalezca dichas infraestructuras, en términos de las disposiciones jurídicas aplicables.
 
 ARTÍCULO TRIGÉSIMO NOVENO.- Para el ejercicio fiscal 2025, la Secretaría podrá emitir reglas de carácter general para administrar los aprovechamientos que deriven por infracciones al Reglamento de Tránsito de la Ciudad de México detectadas a través de equipos y sistemas tecnológicos.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO NOVENO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, SE ADICIONA UN ARTÍCULO 63-BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN CAPÍTULO XIV AL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, UN ARTÍCULO 276-BIS Y UN ARTÍCULO 276-TER AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 482 TOMO II, DE FECHA 31 DE DICIEMBRE DE 2018, CUYO ARTÍCULO NOVENO TRANSITORIO FUE ADICIONADO MEDIANTE DECRETO PUBLICADO EL 11 DE NOVIEMBRE DE 2021".]
+
+PRIMERO. Remítase el presente Decreto a la Jefa de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México, y
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
