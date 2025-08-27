@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-tribunal-de-justicia-electoral-del-estado-1038
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-26"
-last_updated: "2020-12-12"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 26 de noviembre de 2014.
 
@@ -73,11 +73,11 @@ Glosario de uso frecuente
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Comisión de Capacitación: Comisión de Capacitación y Enlace Institucional;
+I. (DEROGADA, P.O. 27 DE AGOSTO DE 2025)
 
-II. Comisión del Servicio de Carrera: La Comisión del Servicio Profesional de Carrera Jurisdiccional Electoral;
+II. (DEROGADA, P.O. 27 DE AGOSTO DE 2025)
 
-III. Comisiones: Comisiones del Pleno;
+III. (DEROGADA, P.O. 27 DE AGOSTO DE 2025)
 
 IV. Constitución: La Constitución Política del Estado Libre y Soberano de Zacatecas;
 
@@ -91,7 +91,9 @@ VIII. Ley de Transparencia y Acceso a la Información Pública: Ley de Transpare
 
 IX. Ley Electoral: Ley Electoral del Estado de Zacatecas;
 
-X. Magistrado: Los Magistrados o las Magistradas del Tribunal de Justicia Electoral del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+X. Magistrada, Magistrado o Magistraturas: Las o los Magistrados del Tribunal de Justicia Electoral del Estado de Zacatecas;
 
 XI. Personal administrativo: Las personas que prestan sus servicios en el Tribunal y que pertenecen a la rama administrativa;
 
@@ -99,7 +101,9 @@ XII. Personal del Servicio de Carrera: Las personas que prestan sus servicios al
 
 XIII. Pleno: El Pleno del Tribunal de Justicia Electoral del Estado de Zacatecas;
 
-XIV. Presidente: Presidente o Presidenta del Tribunal de Justicia Electoral;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XIV. Titular de la Presidencia: Presidenta o Presidente del Tribunal de Justicia Electoral del Estado de Zacatecas;
 
 XV. Reglamento del Servicio de Carrera: El Reglamento del Servicio Profesional de Carrera Jurisdiccional Electoral;
 
@@ -133,11 +137,17 @@ Competencia del Tribunal
 
 El Tribunal en el ámbito de su competencia le corresponderá en los términos de la Constitución y esta Ley, resolver sobre:
 
-I. Las impugnaciones en las elecciones para Diputados locales y de Ayuntamientos;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-II. Las impugnaciones que se presenten sobre la elección de Gobernador del Estado;
+I. Las impugnaciones en las elecciones para Diputadas y Diputados locales y de Ayuntamientos;
 
-III. La realización del cómputo final de la elección de Gobernador del Estado; una vez resueltas las impugnaciones que se hubiesen interpuesto, en su caso, procederá a formular la declaración de validez de la elección y la de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+II. Las impugnaciones que se presenten sobre la elección de Gobernador o Gobernadora del Estado y sobre los procesos de revocación de mandato;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE AGOSTO DE 2025)</small>
+
+III. La realización del cómputo final de la elección de Gobernador o Gobernadora del Estado; una vez resueltas las impugnaciones que se hubiesen interpuesto, en su caso, procederá a formular la declaración de validez de la elección y la de Gobernador electo, respecto de la candidata o candidato que hubiese obtenido el mayor número de votos;
 
 Las impugnaciones de actos y resoluciones de la autoridad electoral, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales;
 
@@ -147,9 +157,19 @@ V. Los conflictos o diferencias laborales entre el Tribunal y sus respectivos se
 
 VI. Las controversias que se susciten, con motivo de las determinaciones del Instituto, respecto de las solicitudes de ciudadanos para constituirse en un partido político local, en los términos que señale la Ley General de Partidos Políticos, la Ley Electoral y las demás disposiciones legales aplicables;
 
-VII. Las impugnaciones de actos y resoluciones que violen los derechos de los ciudadanos de votar, ser votado y de afiliación libre y pacífica, en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución y sus leyes secundarias. Para que un ciudadano pueda acudir a la jurisdicción del Tribunal por violación a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-VIII. Las demás que señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución y sus leyes reglamentarias.
+VII. Las impugnaciones de actos y resoluciones que violen los derechos de las y los ciudadanos de votar, ser votado y de afiliación libre y pacífica, en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus leyes secundarias. Para que un ciudadano pueda acudir a la jurisdicción del Tribunal por violación a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VIII. Del Procedimiento Especial Sancionador en términos de lo establecido en la Ley Electoral del Estado de Zacatecas
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+IX. Las Impugnaciones que se presenten con motivo de la elección de Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, de las Juezas y los Jueces, así como de los demás titulares de órganos jurisdiccionales que sean electos popularmente, y
+
+X. Las demás que señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución y sus leyes reglamentarias.
 
 ### CAPÍTULO TERCERO. Del Patrimonio
 
@@ -247,13 +267,15 @@ La Legislatura del Estado revisará, fiscalizará y emitirá resolución definit
 
 Si del examen que se realice se observa que el Tribunal no se apegó al presupuesto que le fuera autorizado por la Legislatura del Estado, o si en las erogaciones correspondientes existiere desapego a las disposiciones legales aplicables, o dejare de comprobar o justificar las erogaciones correspondientes, la Auditoría Superior del Estado fincará las responsabilidades resarcitorias procedentes en términos de la Ley de Fiscalización Superior para el Estado y demás legislación aplicable.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
 De la entrega recepción
 
 ###### Artículo 13.
 
-El Pleno del Tribunal, antes de concluir la gestión del Presidente, previo al proceso de entrega-recepción, ordenará la publicación en el Periódico Oficial, Órgano del Gobierno del Estado, del catálogo e inventario de los bienes muebles e inmuebles del Tribunal.
+El Pleno del Tribunal, antes de concluir la gestión de la Presidencia, previo al proceso de entrega-recepción, ordenará la publicación en el Periódico Oficial, Órgano del Gobierno del Estado, del catálogo e inventario de los bienes muebles e inmuebles del Tribunal.
 
-En el proceso de entrega-recepción, con motivo de la conclusión del mandato del Presidente del Tribunal, participará la Legislatura del Estado, por conducto de la Comisión de Vigilancia o a través del personal que comisione la Auditoría Superior del Estado, en términos de la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas y demás legislación aplicable.
+En el proceso de entrega-recepción, con motivo de la conclusión del mandato de la persona titular de la Presidencia del Tribunal, participará la Legislatura del Estado, por conducto de la Comisión de Vigilancia o a través del personal que comisione la Auditoría Superior del Estado, en términos de la Ley de Entrega-Recepción del Estado de Zacatecas y demás legislación aplicable.
 
 ## TÍTULO SEGUNDO. De la integración y funcionamiento del Tribunal
 
@@ -261,9 +283,11 @@ En el proceso de entrega-recepción, con motivo de la conclusión del mandato de
 
 Integración del Tribunal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 14.
 
-El Tribunal se integrará por cinco Magistrados, que actuarán en forma colegiada y permanecerán en su encargo durante siete años; serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, mediante convocatoria pública y conforme a lo dispuesto en el reglamento respectivo.
+El Tribunal se integrará por tres Magistraturas que actuarán en forma colegiada, quienes ejercerán el cargo durante siete años, prorrogables por una sola ocasión. Serán electas en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, mediante convocatoria pública y conforme a lo dispuesto en el reglamento respectivo.
 
 Será presidido por un Magistrado, que será designado por votación mayoritaria de los Magistrados integrantes del Pleno y la Presidencia deberá ser rotatoria, en los términos previstos en la presente Ley y en el Reglamento.
 
@@ -277,39 +301,61 @@ Estructura del Tribunal
 
 El Tribunal estará integrado con la estructura siguiente:
 
-I. El Pleno, que estará integrado por los cinco Magistrados;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-II. Las Comisiones;
+I. El Pleno, que estará integrado por tres magistraturas;
+
+II. (DEROGADA, P.O. 27 DE AGOSTO DE 2025)
 
 III. La Secretaría General de Acuerdos;
 
-IV. Las Ponencias, que se integrarán por los Coordinadores, Secretarios de Estudio y Cuenta e Instructores o Auxiliares que se requieran para el adecuado funcionamiento del Tribunal, conforme al Reglamento;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-V. La Coordinación Administrativa;
+IV. Las Ponencias, que se integrarán, por lo menos, por una Coordinación de Ponencia, dos Secretarios o secretarias de Estudio y Cuenta; y dos secretarias o secretarios Instructores, conforme al Reglamento;
 
-VI. La Coordinación de Capacitación y Enlace Institucional;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-VII. La Coordinación del Servicio Profesional de Carrera Jurisdiccional Electoral;
+V. La Dirección Administrativa;
 
-VIII. La Unidad de Comunicación Social;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-IX. La Unidad de Sistemas Informáticos;
+VI. La Dirección del Servicio Profesional y capacitación;
 
-X. La Unidad de Transparencia, y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VII. La Dirección Jurídica;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VIII. El Órgano Interno de Control;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+IX. La Unidad de Comunicación Social y enlace Interinstitucional;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+X. La Unidad de Sistemas Informáticos, y
 
 XI. Los órganos y personal de apoyo necesario para el adecuado funcionamiento de todas las áreas del Tribunal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2025)</small>
 
 ### CAPÍTULO SEGUNDO. Del Pleno del Tribunal
 
 Integración y funcionamiento
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Integración y funcionamiento
+
 ###### Artículo 16.
 
-El Tribunal funcionará en pleno, con los cinco Magistrados que lo integran.
+El Tribunal funcionará en pleno, con las tres Magistraturas que lo integran.
 
-El Pleno sesionará válidamente con la presencia de por lo menos cuatro de sus miembros, sus resoluciones se tomarán por unanimidad o mayoría. En caso de empate, el Presidente tendrá voto de calidad.
+Para la validez de las sesiones públicas o privadas se requerirá la integración del Pleno por tres magistraturas, sus resoluciones se tomarán por unanimidad o mayoría de votos, en caso de empate, la Presidencia tendrá voto de calidad.
 
-Los Magistrados sólo podrán abstenerse de conocer en los casos en que tengan impedimento legal. Cuando no exista el quórum legal, se llamará al Secretario General de Acuerdos a integrar Pleno, designándose para que funja en el cargo de éste último, al Secretario de Estudio y Cuenta que reúna el perfil profesional, según acuerde el Presidente.
+Las Magistraturas sólo podrán abstenerse de conocer en los casos en que tengan impedimento legal. Cuando no exista el quórum legal, se llamará a la persona titular de la Secretaría General de Acuerdos a integrar Pleno en calidad de magistrada o magistrado en funciones, designándose para que funja en el cargo de éste último, al funcionario que reúna el perfil profesional, según acuerde la Presidencia.
 
 Atribuciones
 
@@ -323,17 +369,25 @@ Conocer en forma definitiva e inatacable de:
 
 I. Los juicios de nulidad que se presenten en contra de:
 
-a) Los cómputos distritales y estatal de la elección de Gobernador del Estado, en los términos de la ley de la materia.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
 
-Una vez resueltos los que se hubieren interpuesto, siempre que dichos juicios no tengan como efecto la nulidad de la elección, se realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo, respecto al candidato que hubiere obtenido el mayor número de votos. La decisión que adopte el Pleno, será comunicada de inmediato a la Legislatura del Estado para los efectos constitucionales correspondientes;
+a) Los cómputos distritales y estatal de la elección de Gubernatura del Estado, en los términos de la ley de la materia.
 
-b) Las elecciones de Diputados por el principio de mayoría relativa, los resultados consignados en las actas de cómputo distrital, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría;
+Una vez resueltos los que se hubieren interpuesto, siempre que dichos juicios no tengan como efecto la nulidad de la elección, se realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Gobernador o Gobernadora Electa, respecto a la candidatura que hubiere obtenido el mayor número de votos. La decisión que adopte el Pleno, será comunicada de inmediato a la Legislatura del Estado para los efectos constitucionales correspondientes;
 
-c) La elección de Diputados por el principio de Representación Proporcional, los resultados consignados en las actas de cómputo estatal o distrital respectivas y las constancias de asignación, por nulidad de la votación recibida en una o varias casillas o por error aritmético;
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+b) Las elecciones de Diputaciones por el principio de mayoría relativa, los resultados consignados en las actas de cómputo distrital, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría;
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+c) La elección de Diputaciones por el principio de Representación Proporcional, los resultados consignados en las actas de cómputo estatal o distrital respectivas y las constancias de asignación, por nulidad de la votación recibida en una o varias casillas o por error aritmético;
 
 d) Las elecciones de Ayuntamientos, los resultados consignados en las actas de cómputo municipal, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría; y
 
-e) La elección de Regidores por el principio de representación Proporcional, los resultados consignados en el acta de cómputo municipal y las constancias de asignación, por nulidad de la votación recibida en una o varias casillas o por error aritmético.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+e) La elección de Regidurías por el principio de representación Proporcional, los resultados consignados en el acta de cómputo municipal y las constancias de asignación, por nulidad de la votación recibida en una o varias casillas o por error aritmético.
 
 II. Los recursos de revisión, que se presenten en contra de:
 
@@ -359,23 +413,33 @@ b) Los conflictos o diferencias laborales entre el Tribunal y sus respectivos se
 
 V. De los incidentes de nuevo escrutinio y cómputo; aclaración de sentencia; inejecución de sentencia, y los demás que sean aplicables a los medios de impugnación que se establecen en la Ley de medios;
 
-VI. El procedimiento electoral sancionador, que el Instituto someta a su conocimiento y resolución;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VI. El procedimiento especial sancionador, que el Instituto someta a su resolución;
 
 VII. Dictar los acuerdos generales necesarios para la debida sustanciación y resolución de los medios de impugnación de su competencia;
 
 VIII. Celebrar las sesiones públicas de resolución de los medios de impugnación sometidos a su consideración, conforme al procedimiento establecido en esta ley y el Reglamento Interior. Las sesiones de resolución podrán ser privadas o cambiar la sede, por razones de caso fortuito o fuerza mayor o cuando por circunstancias especiales, el Pleno lo considere pertinente;
 
-IX. Designar a propuesta del Presidente, al Magistrado que realice el engrose del fallo cuando el proyecto de sentencia no hubiese sido aprobado por el propio Pleno;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+IX. Designar a propuesta de la presidencia, a la Magistratura que realice el engrose del fallo cuando el proyecto de sentencia no hubiese sido aprobado por el propio Pleno;
 
 X. Ordenar, en casos extraordinarios el diferimiento de la decisión y resolución pública de un asunto listado;
 
 XI. Conocer y resolver sobre las excusas, recusaciones e impedimentos de los Magistrados Electorales que lo integran; y
 
-XII. Las demás que les señale esta ley, el Reglamento Interior y demás disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XII. Conocer y resolver de los Juicios en Materia de Elecciones Judiciales los cuales proceden para impugnar los actos y resoluciones que restrinjan el derecho a ser votadas de las personas aspirantes y candidatas a Magistradas, Magistrados, juezas y jueces del Poder Judicial del Estado de Zacatecas, y
+
+XIII. Las demás que les señale esta ley, el Reglamento Interior y demás disposiciones legales aplicables.
 
 B. Administrativas
 
-I. Elegir a su Presidente, así como conocer y aceptar, en su caso, su renuncia a dicho cargo;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+I. Elegir a la persona titular de la su (sic) Presidencia, así como conocer y aceptar, en su caso, su renuncia a dicho cargo;
 
 II. Fijar los días y horas en que deba sesionar el Pleno, tomando en cuenta los plazos electorales;
 
@@ -383,9 +447,13 @@ III. Celebrar reuniones privadas cuando se trate de la elección de Presidente, 
 
 IV. Celebrar reuniones internas de carácter ordinario y extraordinario, con la periodicidad y duración que se estime pertinentes;
 
-V. Conceder licencia a los Magistrados Electorales que lo integran, siempre que no exceda de tres meses;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-VI. Llamar en caso de ausencia o excusa de algún Magistrado, al Secretario General de Acuerdos a integrar Pleno, en los términos previstos en esta ley y el Reglamento Interior;
+V. Conceder licencia a las Magistraturas Electorales que lo integran, siempre que no exceda de tres meses;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VI. Llamar en caso de ausencia o excusa de algún Magistrado, al titular de la Secretaría General de Acuerdos a integrar Pleno, en los términos previstos en esta ley;
 
 VII. Apercibir, amonestar e imponer multas, a aquellas personas que falten al respeto en las promociones o en las sesiones a algún órgano o miembro del Tribunal;
 
@@ -395,9 +463,13 @@ IX. Aprobar el Reglamento del Servicio de Carrera y demás disposiciones para su
 
 X. Dictar los reglamentos, manuales, lineamientos, acuerdos y criterios necesarios para el adecuado funcionamiento del Tribunal;
 
-XI. Crear las comisiones necesarias para la buena marcha y funcionamiento del Tribunal;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-XII. Crear, modificar o suprimir coordinaciones, unidades y órganos del Tribunal, con base en las cargas de trabajo y la disponibilidad presupuestal; y, en año electoral, contratar el personal necesario, promoviendo la adopción de una cultura de equidad de género y de igualdad de oportunidades entre el personal del Tribunal;
+XI. Crear las comisiones y comités necesarios para la buena marcha y funcionamiento del Tribunal;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XII. Crear, modificar o suprimir direcciones, unidades y órganos del Tribunal, con base en las cargas de trabajo y la disponibilidad presupuestal; y, en año electoral, contratar el personal necesario, promoviendo la adopción de una cultura de equidad de género y de igualdad de oportunidades entre el personal del Tribunal;
 
 XIII. Realizar el nombramiento, promoción y ascenso de los servidores públicos electorales, de conformidad con el Reglamento del Servicio de Carrera;
 
@@ -423,23 +495,29 @@ XXIII. Rendir a la Legislatura del Estado el informe anual de actividades y los 
 
 XXIV. Las demás que les señale esta Ley, el Reglamento Interior y demás disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. Del Presidente
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO TERCERO. De la Presidencia
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 Designación
 
 ###### Artículo 18.
 
-El último viernes del mes de septiembre del año que corresponda, los miembros del Pleno elegirán de entre ellos a su Presidente, quien lo será también del Tribunal y asumirá el cargo el primero de octubre siguiente, por un periodo de dos años, pudiendo ser reelecto para un periodo más. La presidencia deberá ser rotatoria.
+El último viernes del mes de septiembre del año que corresponda, los miembros del Pleno elegirán de entre ellos a la persona titular de la presidencia, quien lo será también del Tribunal y asumirá el cargo el primero de octubre siguiente, por un periodo de dos años, pudiendo ser reelecto para un periodo más. La presidencia deberá ser rotatoria.
 
-En caso de renuncia, el Pleno procederá a elegir a un nuevo Presidente, quien lo será hasta la conclusión del periodo para el que fue electo el sustituido.
+En caso de renuncia, el Pleno procederá a elegir a una nueva Presidencia, quien lo será hasta la conclusión del periodo para el que fue electo el sustituido.
 
-Las ausencias del Presidente serán suplidas, si no exceden de un mes, por el Magistrado de mayor edad, llamándose a integrar Pleno al Secretario General de Acuerdos. Si la ausencia excediere de dicho plazo pero fuere menor a tres meses, se designará a un Presidente Interino.
+Las ausencias de la Presidencia que no excedan de tres meses serán cubiertas por la Magistratura de mayor edad, llamándose a integrar Pleno a la persona titular de la Secretaría General de Acuerdos. Al efecto, el Pleno designará al funcionario judicial que cumpla los requisitos que prevé esta Ley.
 
 Atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 19.
 
-El Presidente del Tribunal de Justicia Electoral tendrá las atribuciones siguientes:
+La persona titular de la Presidencia del Tribunal de Justicia Electoral tendrá las atribuciones siguientes:
 
 I. Representar legalmente al Tribunal y otorgar poderes de representación, previa aprobación del Pleno;
 
@@ -477,7 +555,9 @@ XVII. Ejercer las partidas presupuestales aprobadas por el Pleno, una vez que se
 
 XVIII. Con base en la disponibilidad presupuestal, someter a la consideración del Pleno, la creación, modificación o supresión de unidades técnicas y administrativas;
 
-XIX. Firmar, junto con el Secretario General de Acuerdos, todos los acuerdos y actas que se emitan;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XIX. Firmar, junto con el Secretario o Secretaria General de Acuerdos, todos los acuerdos y actas que se emitan;
 
 XX. Proponer modificaciones al Manual de Organización y al Catálogo de Cargos y Puestos del Tribunal;
 
@@ -487,17 +567,29 @@ XXII. Publicar en el Periódico Oficial, Órgano de Gobierno del Estado, los Reg
 
 XXIII. Elaborar y presentar ante el Pleno el informe anual de actividades y los informes financieros contables mensuales, semestral y anual, mismos que serán rendidos a la Legislatura del Estado, previa aprobación del Pleno; y
 
-XXIV. Las demás que les señale esta Ley, el Reglamento Interior y demás disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-### CAPÍTULO CUARTO. De los Magistrados
+XXIV. Proponer al Pleno a la persona que deberá ocupar las vacancias de la Secretaría General de Acuerdos; y
 
-Requisitos para ser Magistrado Electoral
+XXV. Las demás que les señale esta Ley, el Reglamento Interior y demás disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO CUARTO. De las Magistraturas
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Requisitos para ser Magistrado o Magistrada Electoral
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 20.
 
-Los Magistrados deberán reunir los requisitos siguientes:
+Las Magistradas o Magistrados deberán reunir los requisitos siguientes:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
@@ -519,43 +611,63 @@ X. No haber sido registrado como candidato, con excepción de los candidatos ind
 
 XI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
 
-Bases para la elección de Magistrados
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Bases para la elección de Magistradas y Magistrados
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 21.
 
-Para la elección de los Magistrados electorales que integren el Tribunal, se observará lo estipulado en la Ley General de Instituciones y Procedimientos Electorales.
+Para la elección de las Magistraturas electorales que integren el Tribunal, se observará lo estipulado en la Ley General de Instituciones y Procedimientos Electorales.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 Procedimiento de vacantes temporales
 
 ###### Artículo 22.
 
-En caso de presentarse alguna vacante temporal que no exceda de tres meses por parte de alguno de los Magistrados, ésta se cubrirá para el solo efecto de integrar quórum legal en Pleno, llamándose al Secretario General de Acuerdos; si el Magistrado ausente tenía a su cargo determinados asuntos, éstos serán reasignados a otro Magistrado en términos del Reglamento Interior.
+En caso de presentarse alguna vacante temporal que no exceda de tres meses por parte de alguna de las Magistraturas, ésta se cubrirá llamándose a la persona titular de la Secretaría General de Acuerdos; si la magistratura ausente tenía a su cargo determinados asuntos, serán reasignados a la magistratura en funciones en términos del Reglamento Interior.
 
-Los Magistrados sólo podrán abstenerse de conocer en los casos en que tengan impedimento legal. Cuando no exista el quórum legal, se llamará al Secretario General de Acuerdos a integrar Pleno. Designándose para que funja en el cargo de este último, al Secretario de Estudio y Cuenta que reúna el perfil profesional, según acuerde el Presidente.
+Las y los Magistrados sólo podrán abstenerse de conocer en los casos en que tengan impedimento legal. Cuando no exista el quórum legal, por este supuesto, o por cualquier otra causa no prevista, se llamará al titular de la Secretaría General de Acuerdos a integrar Pleno en funciones de Magistrada o Magistrado. Designándose para que funja en el cargo de este último, al funcionario que reúna el perfil profesional, según acuerde la persona titular de la Presidencia.
 
 Procedimiento de vacantes definitivas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 23.
 
-Tratándose de una vacante definitiva de alguno de los Magistrados, ésta será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución que prevé la Ley General de Instituciones y Procedimientos Electorales. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
+Tratándose de una vacante definitiva de alguna de las Magistraturas, ésta será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución que prevé la Ley General de Instituciones y Procedimientos Electorales. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Cuando se presente una vacante definitiva asumirá la Magistratura en funciones la persona titular de la Secretaría General de Acuerdos, la cual será temporal y cesará cuando sea nombrada por la Cámara de Senadores.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 Desempeño del cargo
 
 ###### Artículo 24.
 
-Los Magistrados desempeñarán su cargo en igualdad de condiciones a los integrantes de los demás órganos de justicia del Estado. Gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
+Las Magistraturas desempeñarán su cargo en igualdad de condiciones a las personas integrantes de los demás órganos de justicia del Estado. Gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 De las Remuneraciones
 
 ###### Artículo 25.
 
-Las remuneraciones de Magistrados electorales, serán en términos de los artículos 127 de la Constitución Política de los Estados Unidos Mexicanos y 160 de la Constitución, las cuales no podrán disminuirse durante el tiempo de su encargo.
+Las remuneraciones de las Magistraturas electorales, serán en términos de los artículos 127 de la Constitución Política de los Estados Unidos Mexicanos y 160 de la Constitución, las cuales no podrán disminuirse durante el tiempo de su encargo.
 
-Atribuciones de los Magistrados
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Atribuciones de las Magistradas y Magistrados
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 26.
 
-Son atribuciones de los Magistrados las siguientes:
+Son atribuciones de las magistraturas electorales las siguientes:
 
 I. Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el Presidente;
 
@@ -591,11 +703,15 @@ XVI. Proponer al Pleno el personal adscrito a su ponencia que no forme parte del
 
 XVII. Las demás que les señale esta Ley, el Reglamento Interior y demás disposiciones legales aplicables.
 
-De las impedimentos y excusas de los Magistrados
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 27 DE AGOSTO DE 2025)</small>
+
+De los impedimentos y excusas de las Magistraturas
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 27.
 
-En ningún caso los Magistrados podrán abstenerse de votar, salvo cuando tengan impedimento legal.
+En ningún caso las Magistraturas podrán abstenerse de votar, salvo cuando tengan impedimento legal.
 
 ###### Artículo 28.
 
@@ -655,211 +771,111 @@ II. Concluido su encargo los Magistrados, no podrán asumir un cargo público en
 
 De la conformación de las Comisiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 31.
 
-El Pleno conformará las comisiones que considere necesarias para el desempeño de sus atribuciones y cumplimiento de los fines del Tribunal. Estarán integradas por tres Magistrados y serán presididas por uno de ellos, dos fungirán como Vocales y contarán con el personal de apoyo que determine el Pleno.
+El Pleno conformará las comisiones y comités que considere necesarios para el desempeño de sus atribuciones y cumplimiento de los fines del Tribunal.
 
-Las comisiones podrán tener el carácter de permanentes o transitorias. Estas últimas, se podrán constituir cuando exista causa justificada, por acuerdo del Pleno en el que se establecerá el motivo que las origina, su duración, integración y atribuciones.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Las comisiones y comités podrán tener el carácter de permanentes o transitorios. Estas últimas, se podrán constituir cuando exista causa justificada, por acuerdo del Pleno en el que se establecerá el motivo que las origina, su duración, integración y atribuciones.
 
 Las comisiones sesionarán cada dos meses de manera ordinaria y de manera extraordinaria cuando se requiera.
 
-De la competencia, atribuciones y designación de integrantes
-
 ###### Artículo 32.
 
-Las Comisiones del Pleno tendrán la competencia y atribuciones, que en términos generales, se deriven de su naturaleza; así como, aquellas que les otorgan esta Ley y el Reglamento Interior que para tal efecto, apruebe el Pleno.
-
-Los integrantes de las comisiones serán designados por el Pleno a más tardar el último día hábil de octubre del año que corresponda al nombramiento de Presidente y su duración será por dos años, pudiendo ser ratificados. Serán asistidas por un Secretario Técnico.
-
-Comisiones permanentes
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ###### Artículo 33.
 
-Las comisiones que el Pleno conformará con el carácter de permanente son las siguientes:
-
-I. Comisión de Capacitación y Enlace Institucional;
-
-II. Comisión del Servicio Profesional de Carrera Jurisdiccional Electoral;
-
-III. Comisión de Reglamentación;
-
-IV. Comisión de Transparencia, y
-
-V. Comisión Sustanciadora.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 #### Sección Primera. De la Comisión de Capacitación y Enlace Institucional
 
-Objeto de la Comisión
-
 ###### Artículo 34.
 
-La Comisión de Capacitación será la encargada de formular los planes y programas, que en materia de capacitación, investigación y cultura democrática dirigidos a los servidores públicos electorales, los partidos políticos y la ciudadanía en general. Así como promover las relaciones con instituciones y asociaciones afines estatales, nacionales e internacionales, para fomentar las tareas de investigación, actualización y especialización de la materia electoral.
-
-Integración
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ###### Artículo 35.
 
-La Comisión estará integrada por tres Magistrados. El titular de la Coordinación de Capacitación y Enlace Institucional, fungirá como Secretario Técnico y tendrá solo derecho a voz.
-
-Atribuciones
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ###### Artículo 36.
 
-La Comisión tendrá las atribuciones siguientes:
-
-I. Supervisar las actividades encomendadas a la Coordinación de Capacitación y Enlace Institucional;
-
-II. Verificar el cumplimiento del programa anual de capacitación, investigación y cultura democrática que apruebe el Pleno;
-
-III. Proponer al Pleno las bases y criterios para las actividades de Capacitación y Enlace Institucional;
-
-IV. Proponer al Pleno las publicaciones que estime convenientes para la mejor divulgación de la materia jurídica y político-electoral;
-
-V. Rendir un informe trimestral al Pleno, respecto de las actividades realizadas, y
-
-VI. Las demás que les señale esta ley, el Reglamento Interior y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 #### Sección Segunda. De la Comisión del Servicio Profesional de Carrera Jurisdiccional Electoral
 
-Objeto de la Comisión
-
 ###### Artículo 37.
 
-La Comisión del Servicio Profesional de Carrera Jurisdiccional Electoral será la encargada de supervisar el sistema institucional diseñado para el ingreso, formación y permanencia de los servidores públicos electorales, atendiendo a la capacidad, idoneidad, rectitud, probidad, constancia, profesionalismo y experiencia.
-
-Integración
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ###### Artículo 38.
 
-La Comisión será integrada por tres Magistrados. El titular de la Coordinación del Servicio Profesional de Carrera Jurisdiccional Electoral, fungirá como Secretario Técnico y tendrá solo derecho a voz.
-
-Atribuciones
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ###### Artículo 39.
 
-La Comisión del Servicio Profesional de Carrera Jurisdiccional Electoral tendrá las atribuciones siguientes:
-
-I. Supervisar las actividades de la Coordinación del Servicio de Carrera Jurisdiccional Electoral;
-
-II. Proponer al Pleno la designación de los servidores públicos del Servicio de Carrera, en los términos del Reglamento aplicable;
-
-III. Proponer al Pleno los planes y programas del Servicio de Carrera;
-
-IV. Verificar la ejecución de los planes y programas del Servicio de Carrera que le presente la Coordinación del Servicio de Carrera Jurisdiccional Electoral;
-
-V. Proponer al Pleno el proyecto de Manual de Organización, así como del Catálogo de Cargos y Puestos del Tribunal;
-
-VI. Presentar al Pleno las propuestas de reforma al Reglamento del Servicio de Carrera; así como las adecuaciones a la estructura y funcionamiento del Servicio;
-
-VII. Rendir un informe trimestral al Pleno, respecto de las actividades realizadas; y
-
-VIII. Las demás que les señale esta Ley, el Reglamento Interior y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 #### Sección Tercera. De la Comisión de Reglamentación
 
-Objeto e integración de la Comisión
-
 ###### Artículo 40.
 
-La Comisión de Reglamentación será la encargada de revisar y proponer al Pleno las reformas a la normativa interna del Tribunal. Será integrada por tres Magistrados. El Secretario General de Acuerdos fungirá como Secretario Técnico y tendrá solo derecho a voz.
-
-Atribuciones
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ###### Artículo 41.
 
-La Comisión de Reglamentación tendrá las atribuciones siguientes:
-
-I. Elaborar y someter a la consideración del Pleno, los reglamentos, criterios, lineamientos, manuales y acuerdos necesarios para el adecuado funcionamiento del Tribunal;
-
-II. Elaborar los manuales de organización, instructivos, formatos y procedimientos que se requieran para el eficiente despacho de los asuntos del Tribunal;
-
-III. Forma los equipos de trabajo con el personal jurídico y administrativo según corresponda, para la elaboración de la normatividad interna;
-
-IV. Rendir un informe trimestral al Pleno, respecto de las actividades realizadas; y
-
-V. Las demás que les señale esta ley, el Reglamento Interior y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 #### Sección Cuarta. De la Comisión de Transparencia
 
-Objeto de la Comisión
-
 ###### Artículo 42.
 
-La Comisión de Transparencia será presidida por el Magistrado Presidente del Tribunal, le corresponderá garantizar el derecho de acceso a la información pública en posesión de este Tribunal y la protección de los datos personales; así como, vigilar el cumplimiento de la Ley de Transparencia y Acceso a la Información Pública del Estado, y promover las acciones tendientes al fortalecimiento de la cultura de transparencia.
-
-Integración y sesiones
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ###### Artículo 43.
 
-La Comisión se integrará por tres Magistrados. El Jefe de la Unidad de Transparencia fungirá como Secretario Técnico y tendrá solo derecho a voz.
-
-De las Atribuciones
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ###### Artículo 44.
 
-La Comisión tendrá las atribuciones siguientes:
-
-I. Supervisar y verificar el cumplimiento de las actividades encomendadas a la Unidad de Transparencia;
-
-II. Proponer al Pleno las bases y criterios para garantizar el derecho de acceso a la información pública, en posesión del Tribunal, a quien lo solicite;
-
-III. Establecer los criterios de clasificación y custodia de la información reservada y confidencial, así como la protección de datos personales;
-
-IV. Proponer al Pleno, las acciones institucionales para garantizar la máxima publicidad en las actuaciones del Tribunal;
-
-V. Proponer al Pleno en coordinación con la Comisión de Reglamentación, el Reglamento de Acceso a la Información Pública;
-
-VI. Revisar los informes de actividades que elabore la Unidad de Transparencia y remitirlos a la autoridad correspondiente;
-
-VII. Rendir un informe trimestral al Pleno, respecto de las actividades realizadas; y
-
-VIII. Las demás que les señale esta Ley, el Reglamento Interior y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 #### Sección Quinta. De la Comisión Sustanciadora
 
-Objeto de la Comisión
-
 ###### Artículo 45.
 
-La Comisión Sustanciadora será la encargada de dar trámite a los asuntos no contenciosos en materia laboral derivados de la terminación de la relación laboral entre el Instituto Electoral del Estado de Zacatecas y sus servidores públicos electorales, que no estén adscritos al Servicio Profesional Electoral Nacional; así como los que se susciten entre el Tribunal y su personal, siendo responsable de elaborar la resolución de aprobación de convenio, para someterlo a la autorización del Pleno.
-
-Asimismo, sustanciará los procedimientos de imposición de sanciones a los servidores del Tribunal, cuando incurran en irregularidades o faltas administrativas, y los someterá a la consideración del pleno.
-
-Integración
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ###### Artículo 46.
 
-La Comisión Sustanciadora, se integrará por tres Magistrados. El Secretario General de Acuerdos fungirá como Secretario Técnico y tendrá solo derecho a voz.
-
-Obligaciones y atribuciones
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ###### Artículo 47.
 
-La Comisión tendrá las obligaciones y atribuciones siguientes:
-
-I. Elaborar el proyecto de resolución de aprobación de convenio de terminación de la relación laboral entre las partes, para someterlo a la autorización del Pleno;
-
-II. Presentar ante el Pleno, el proyecto de resolución sobre la imposición de sanciones en razón de irregularidades o faltas administrativas en que incurran los servidores del Tribunal, para su aprobación;
-
-III. Dictar las providencias necesarias para lograr la eficacia y celeridad de los asuntos de su competencia en apego a esta ley, al Reglamento Interior, el Reglamento del Servicio de Carrera y demás disposiciones aplicables;
-
-IV. Rendir un informe trimestral al Pleno, respecto de las actividades realizadas; y
-
-V. Las demás que les señale esta Ley, el Reglamento Interior y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ### CAPÍTULO SEXTO. De la Secretaría General de Acuerdos
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 Función
 
 ###### Artículo 48.
 
-La Secretaría General de Acuerdos del Tribunal es un órgano interno permanente encargado del despacho de los asuntos jurisdiccionales, administrativos y operativos, dependerá del Pleno y administrativamente del Presidente, se integrará por un titular y el personal necesario conforme a las necesidades del servicio.
+La persona titular de la Secretaría General de Acuerdos del Tribunal es un órgano interno permanente encargado del despacho de los asuntos jurisdiccionales, administrativos y operativos, dependerá del Pleno y administrativamente del Presidente, se integrará por un titular y el personal necesario conforme a las necesidades del servicio.
 
-Requisitos para ser Secretario General de Acuerdos
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Requisitos para ser titular de la Secretaría General de Acuerdos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 49.
 
-Para ser designado Secretario General de Acuerdos del Tribunal, se deberán reunir los requisitos siguientes:
+La persona designada como titular de la Secretaría General de Acuerdos del Tribunal, deberán reunir los requisitos siguientes:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -883,11 +899,15 @@ X. No haber sido registrado como candidato, con excepción de los candidatos ind
 
 XI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los cuatro años inmediatos anteriores a la designación.
 
-Atribuciones del Secretario General de Acuerdos
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Atribuciones de la Secretaria o Secretario General de Acuerdos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 50.
 
-El Secretario General de Acuerdos tendrá las atribuciones y obligaciones siguientes:
+La persona titular de la Secretaría General de Acuerdos tendrá las atribuciones y obligaciones siguientes:
 
 I. Concurrir a las sesiones y reuniones del Pleno con voz informativa y dar fe de los acuerdos;
 
@@ -899,21 +919,31 @@ IV. Efectuar las certificaciones necesarias para el debido engrose de las senten
 
 V. Autorizar con su firma las actas, documentos y correspondencia, así como expedir constancias y certificaciones que el Pleno o la ley le encomienden;
 
-VI. Dar cuenta al Presidente de los asuntos que sean competencia del Tribunal y previo acuerdo del mismo, turnar a los Magistrados, los medios de impugnación correspondientes para su sustanciación;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-VII. Dar cuenta al Presidente de los asuntos que no sean competencia del Tribunal;
+VI. Dar cuenta al Presidente o Presidenta de los asuntos que sean competencia del Tribunal y previo acuerdo del mismo, turnar a las Magistraturas los medios de impugnación correspondientes para su sustanciación;
 
-VIII. Apoyar al Presidente en las funciones de conducir la administración del Tribunal y demás tareas que le encomiende, e informar permanentemente del cumplimiento de sus acuerdos;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VII. Dar cuenta al Presidente o Presidenta de los asuntos que no sean competencia del Tribunal;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VIII. Apoyar al Presidente o Presidenta en las funciones de conducir la administración del Tribunal y demás tareas que le encomiende, e informar permanentemente del cumplimiento de sus acuerdos;
 
 IX. Supervisar el adecuado funcionamiento de la Oficialía de Partes, la Oficina de Actuarios y el Archivo Jurisdiccional del Tribunal;
 
-X. Proponer a la Comisión de Reglamentación los proyectos de manuales, lineamientos e instructivos de sus áreas de apoyo, para que a su vez ésta, los someta a la consideración del Pleno;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+X. Proponer los proyectos de manuales, lineamientos e instructivos de sus áreas de apoyo, para que a su vez ésta, los someta a la consideración del Pleno;
 
 XI. Realizar los trámites conducentes para que se publiquen en el Periódico Oficial, los actos que encomiende el Pleno;
 
 XII. Legalizar con autorización del Presidente, la firma de cualquier servidor del Tribunal, en los casos que la ley lo exija;
 
-XIII. Proponer al Presidente, en caso de ausencia temporal de los titulares de las áreas de apoyo de la Secretaría General de Acuerdos, al funcionario que habrá de suplirlos;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XIII. Proponer al Presidente o Presidenta, en caso de ausencia temporal de los titulares de las áreas de apoyo de la Secretaría General de Acuerdos, al funcionario que habrá de suplirlos;
 
 XIV. Elaborar los informes y reportes estadísticos en materia jurisdiccional que le sean requeridos por el Pleno y por el Presidente;
 
@@ -947,19 +977,33 @@ De la fe pública
 
 Los Actuarios tendrán fe pública con respecto de las diligencias y notificaciones que practiquen en los expedientes que se les hayan turnado, debiendo conducirse siempre con estricto apego a la legalidad, bajo la pena de incurrir en las responsabilidades que prevengan las leyes.
 
-### CAPÍTULO SÉPTIMO. De las Ponencias de los Magistrados
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO SÉPTIMO. De las Ponencias de las Magistraturas
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 Integración
 
 ###### Artículo 53.
 
-Las ponencias del Tribunal se compondrán por un Magistrado quien tendrá a su cargo, a un Coordinador, Secretarios de Estudio y Cuenta, Secretarios Instructores y auxiliares que se requieran, de acuerdo con las necesidades, cargas de trabajo y presupuesto del Tribunal.
+Cada Magistratura integrante del Pleno tendrá a su cargo una Ponencia que se integrará de forma mínima por las plazas que se describen a continuación:
+
+I. Una Coordinación de Ponencia;
+
+II. Dos Secretarias o Secretarios de Estudio y Cuenta;
+
+III. Dos Secretarias o Secretarios Instructores o, en su caso, dos Secretarias o Secretarios Auxiliares.
+
+La conformación de las Ponencias podrá ser modificada por acuerdo del Pleno derivado de las necesidades, cargas de trabajo y presupuesto del Tribunal, con el objeto de que la función del órgano jurisdiccional se desarrolle de forma oportuna.
 
 Obligaciones y atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 54.
 
-Los Coordinadores de Ponencia tendrán funciones de fedatario judicial para las actuaciones y diligencias que sean requeridos; además, tendrán las obligaciones y atribuciones de dirigir los trabajos administrativos y jurisdiccionales de la ponencia, siguientes:
+Las Coordinaciones de Ponencia tendrán funciones de fedatario judicial para las actuaciones y diligencias que sean requeridos; además, tendrán las obligaciones y atribuciones de dirigir los trabajos administrativos y jurisdiccionales de la ponencia, siguientes:
 
 I. Recibir de la Secretaría General de Acuerdos, los medios de impugnación, las promociones y cualquier otra correspondencia, verificando que las mismas tengan impreso el sello oficial, con la razón del día y la hora en que hayan sido presentadas y los anexos que se acompañan; así mismo, llevar el registro y control e informar al Magistrado de los mismos;
 
@@ -971,17 +1015,31 @@ IV. Coordinar, asignar y supervisar las labores de los secretarios de estudio y 
 
 V. Participar en las reuniones a las que sean convocados por el Presidente, o en su caso, por los Coordinadores de áreas; y
 
-VI. Las demás que le encomiende el Magistrado al que esté adscrito y las que confieran el Reglamento Interior y las demás disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-## TÍTULO TERCERO. De las Coordinaciones, Unidades y del Personal adscrito a la Presidencia
+VI. Capacitar al personal jurisdiccional de su respectiva ponencia, así como colaborar en las actividades de capacitación institucional que se requiera;
 
-### CAPÍTULO PRIMERO. De la Coordinación de Administración
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VII. Elaborar los proyectos de resolución, engroses, discursos, opiniones jurídicas y cualquier otro documento que le solicite la magistratura titular de dicha ponencia, y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VIII. Las demás que le encomiende el Magistrado y Magistrada al que esté adscrito y las que confieran el Reglamento Interior y las demás disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2025)</small>
+
+## TÍTULO TERCERO. De las Direcciones, Unidades y del Personal adscrito a la Presidencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO PRIMERO. De la Dirección de Administración
 
 Obligaciones y atribuciones
 
-###### Artículo 55.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
 
-La Coordinación de Administración tendrá las atribuciones siguientes:
+Artículo 55 La Dirección de Administración para el cumplimiento de sus funciones, contará con el personal suficiente y necesario. Tendrá las atribuciones siguientes:
 
 I. Cumplir con las determinaciones en materia de administración de los recursos humanos, materiales y financieros, conforme a las políticas y procedimientos establecidos por el Pleno o el Presidente, en su caso;
 
@@ -995,7 +1053,9 @@ V. Hacer las previsiones presupuestales para llevar a cabo las actividades previ
 
 VI. Elaborar y actualizar el inventario de los bienes muebles e inmuebles que integran el patrimonio del Tribunal y vigilar su conservación;
 
-VII. Formular un programa anual de adquisiciones, con base en las políticas que se establezcan en materia administrativa;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VII. Proponer un programa anual de adquisiciones, con base en las políticas que se establezcan en materia administrativa;
 
 VIII. Presentar para su autorización los documentos que amparen la adquisición o contratación de bienes y servicios que le instruya el Presidente;
 
@@ -1009,63 +1069,121 @@ XII. Recibir y registrar los recursos que se perciban por concepto de multas, de
 
 XIII. Elaborar el estado financiero mensual del Tribunal, así como los informes contable financieros que deban presentarse a la Legislatura y remitirlos al Presidente;
 
-XIV. Rendir informe al Presidente de manera mensual;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-XV. Proponer a la Comisión de Reglamentación, previo acuerdo del Presidente, los proyectos de manuales, lineamientos e instructivos de su área de apoyo o de cualquier otra de carácter administrativo;
+XIV. Rendir informe periódicamente a la Presidencia;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XV. Proponer los proyectos de manuales, lineamientos e instructivos de su área de apoyo o de cualquier otra de carácter administrativo;
 
 XVI. Cumplir con las obligaciones establecidas en la Ley de Transparencia y Acceso a la Información Pública; y
 
 XVII. Las demás que le confiera esta Ley, la reglamentación interna y el Presidente.
 
-### CAPÍTULO SEGUNDO. De la Coordinación de Capacitación y Enlace Institucional
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO SEGUNDO. De la Dirección del Servicio Profesional y Capacitación
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 Obligaciones y atribuciones
 
 ###### Artículo 56.
 
-La Coordinación de Capacitación y Enlace Institucional, tendrá las obligaciones y atribuciones siguientes:
+La Dirección del Servicio Profesional y capacitación, tendrá las obligaciones y atribuciones siguientes:
 
-I. Elaborar el programa anual de capacitación, investigación y cultura democrática y someterlos a la consideración de la Comisión de Capacitación;
+I. Elaborar el programa anual de capacitación y actualización profesional y someterlo a la consideración del Pleno;
 
-II. Dar seguimiento a las relaciones con instituciones y asociaciones afines estatales, nacionales e internacionales, para fomentar las tareas de investigación, actualización y especialización de la materia electoral;
+II. Coordinar y coadyuvar en la celebración de convenios de colaboración que celebre el Tribunal con las diferentes Instituciones y darle seguimiento a los acuerdos pactados.
 
-III. Proponer a la Comisión, las publicaciones que estime convenientes para la mejor divulgación de la materia jurídica y político-electoral;
+III. Supervisar el diseño, preparación, impresión y edición de las publicaciones para la mejor divulgación de la materia jurídica y político-electoral;
 
-IV. Supervisar el diseño, preparación, impresión y edición de las publicaciones que para la mejor divulgación de la materia jurídica y político-electoral;
+IV. Tramitar lo relativo a derechos de autor y registro de las publicaciones del Tribunal, así como distribuir y llevar el registro y control de las publicaciones del Tribunal;
 
-V. Tramitar lo relativo a derechos de autor y registro de las publicaciones del Tribunal;
+V. Capacitar al personal jurisdiccional y dar capacitación externa a universidades, partidos políticos o cualquier ente público que la solicite.
 
-VI. Distribuir y llevar el registro y control de las publicaciones del Tribunal;
+VI. Organizar y realizar enlaces con instituciones educativas y de investigación para impartir conferencias, cursos, diplomados, o talleres al personal del Tribunal;
 
-VII. Organizar y realizar enlaces con instituciones educativas y de investigación para impartir conferencias, cursos, diplomados, o talleres al personal del Tribunal;
+VII. Administrar y tener bajo su resguardo la Biblioteca Institucional del Tribunal.
 
-VIII. Difundir el conocimiento en materia jurídica y político-electoral, así como la educación cívica y la cultura democrática, a través de publicaciones y la realización de eventos académicos;
+VIII. Colaborar en la realización de los Informes de labores de la Presidencia.
 
-IX. Fomentar la participación del personal jurídico en actos académicos, ya sea internos o con otras instituciones docentes o de investigación, públicas o privadas;
+IX. Materializar el cumplimiento al Reglamento del Servicio Profesional de Carrera Jurisdiccional del Tribunal de Justicia Electoral del Estado de Zacatecas, y
 
-X. Ejecutar los programas de capacitación que consignen los convenios de colaboración administrativa y académica;
+X. Las demás que le confiera esta Ley, la reglamentación interna.
 
-XI. Rendir un informe trimestral a la Comisión de Capacitación y anual al Presidente, respecto de las actividades realizadas; y
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2025)</small>
 
-XII. Las demás que le confiera esta Ley, la reglamentación interna y el Presidente.
+### CAPÍTULO TERCERO. De la Dirección Jurídica
 
-### CAPÍTULO TERCERO. De la Unidad de Comunicación Social
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Objeto
+
+###### Artículo 56 Bis.
+
+La Dirección Jurídica prestará asesoría jurídica eficiente, eficaz y oportuna a las diferentes áreas del Tribunal, dentro de un marco de defensa de los intereses propios de la institución.
+
+Tiene por objeto asesorar a la persona titular de la presidencia, al Pleno y a las demás áreas tanto administrativas, como jurisdiccionales en materia jurídica, así como coadyuvar en la mejora regulatoria a efecto que el Tribunal cuente con un marco jurídico interno claro y eficiente.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Obligaciones y Atribuciones
+
+###### Artículo 56 Ter.
+
+La Dirección Jurídica tendrá las obligaciones y atribuciones siguientes:
+
+I. Asesorar a la persona titular de la presidencia en la defensa de conflictos jurídicos del Tribunal en cualquier tema relacionado con los intereses propios del Tribunal;
+
+II. Representar legalmente al Tribunal, o a las áreas administrativas ante los Tribunales locales y federales en los procesos o procedimientos que se requiera. Para tal efecto deberá mediar Poder otorgado por la Presidencia del Tribunal;
+
+III. Brindar asesoría técnica-jurídica al Pleno, a las magistraturas, o a las áreas administrativas cuando así lo soliciten, siempre que se trate de temas propios del Tribunal;
+
+IV. Coadyuvar en la elaboración de convenios o contratos que celebre el Tribunal;
+
+V. Proponer los reglamentos, lineamientos, manuales y demás normatividad interna que sea necesaria para el adecuado funcionamiento del Tribunal;
+
+VI. Elaborar los acuerdos y proyectos de los asuntos de ratificación de convenios laborales y ponerlos a consideración del Pleno;
+
+VII. Sustanciar y tramitar los asuntos no contenciosos en materia laboral por terminación de relaciones laborales de los trabajadores del Instituto Electoral del Estado de Zacatecas o del propio Tribunal;
+
+VIII. Sustanciar los procedimientos de imposición de sanciones de los Servidores Públicos del Tribunal cuando incurran en irregularidades o faltas administrativas, y someterlo a consideración del Pleno;
+
+IX. Tendrá a su cargo la Coordinación de Archivos del Tribunal en términos de la Ley de Archivos para el Estado de Zacatecas y sus Municipios; y
+
+X. Las demás que confiera la ley y el Reglamento Interior.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO CUARTO. De la Subdirección de Comunicación Social y Enlace Interinstitucional
 
 Obligaciones y atribuciones
 
-### CAPÍTULO CUARTO. De la Unidad de Sistemas Informáticos
-
-Obligaciones y atribuciones
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 57.
 
-La Unidad de Comunicación Social dependerá de la Presidencia, es la encargada de conducir la relación con los medios de comunicación e informarles sobre las actividades institucionales y facilitarles la cobertura periodística de las mismas; además, contará con las obligaciones y atribuciones siguientes:
+La Subdirección de Comunicación Social y Enlace interinstitucional dependerá de la Presidencia, es la encargada de conducir la relación con los medios de comunicación e informarles sobre las actividades institucionales y facilitarles la cobertura periodística de las mismas.
 
-I. Organizar las entrevistas y conferencias de prensa del Presidente;
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Además, manejará las relaciones interinstitucionales del Tribunal con otros Tribunales, así como con autoridades nacionales e internacionales para lograr los fines comunes.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE AGOSTO DE 2025)</small>
+
+La Unidad de Comunicación Social y Enlace Interinstitucional contará con las obligaciones y atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+I. Organizar las entrevistas y conferencias de prensa de la Presidencia;
 
 II. Monitorear, sintetizar, dar seguimiento y llevar el archivo de las notas de información que sobre el Tribunal se difundan en la prensa escrita, radiodifusión, televisión e internet; así como de la información relacionada con la materia político-electoral;
 
-III. Acordar con el Presidente las políticas de información institucional que deba ser difundida;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+III. Acordar con la Presidencia las políticas de información institucional que deba ser difundida;
 
 IV. Proponer y coordinar la realización de campañas de difusión institucional y la elaboración de materiales audiovisuales, fotográficos o impresos;
 
@@ -1077,11 +1195,41 @@ VII. Difundir los eventos académicos realizados por el Tribunal;
 
 VIII. Emitir los boletines de prensa e información institucional para los medios de comunicación;
 
-IX. Rendir informe al Presidente de manera mensual; y
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-X. Las demás que le confiera esta Ley, la reglamentación interna y el Presidente.
+IX. Controlar las redes sociales del Tribunal con miras a acercar la justicia electoral a la ciudadanía;
 
-### CAPÍTULO QUINTO. De la Unidad de Transparencia
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+X. Diseñar mecanismos que contribuyan a la implementación de la justicia abierta;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XI. Implementar acciones tendentes a lograr la accesibilidad de las sentencias del Tribunal para garantizar que la justicia electoral sea inclusiva;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XII. Dar seguimiento a las relaciones con instituciones y asociaciones afines estatales, nacionales e internacionales, para fomentar las tareas de investigación, actualización y especialización de la materia electoral;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XIII. Manejar las relaciones Interinstitucionales del Tribunal con autoridades estatales, nacionales e internacionales.
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XIV. Coadyuvar en el manejo de las relaciones públicas del Tribunal en los términos que se lo indique la presidencia;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IX], P.O. 27 DE AGOSTO DE 2025)</small>
+
+XV. Rendir periódicamente informe a la Presidencia del trabajo en la Unidad, y
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN X], P.O. 27 DE AGOSTO DE 2025)</small>
+
+XVI. Las demás que le confiera esta Ley, la reglamentación interna y el Presidente o Presidenta.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO QUINTO. De la Unidad de Sistemas Informáticos
 
 Obligaciones y atribuciones
 
@@ -1109,43 +1257,17 @@ IX. Mantener, en coordinación con la Unidad de Transparencia y las demás área
 
 X. Dar apoyo técnico en eventos especiales de capacitación y comunicación social;
 
-XI. Rendir informe al Presidente de manera mensual; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-XII. Las demás que le confiera esta Ley, la reglamentación interna y el Presidente.
+XI. Rendir informe a la Presidencia de manera mensual, y
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XII. Las demás que le confiera esta Ley, la reglamentación interna y el Presidente o Presidenta.
 
 ###### Artículo 59.
 
-La Unidad de Transparencia del Tribunal estará adscrita a la Presidencia; y será la oficina de información y enlace establecida por disposición legal, la que está facultada para recibir solicitudes, gestionar y proporcionar la información pública a los particulares; así como, vigilar el cumplimiento a la Ley de Transparencia y Acceso a la Información Pública, y tendrá las obligaciones y atribuciones siguientes:
-
-I. Difundir en coordinación con las áreas del Tribunal, la información pública de oficio a que se refieren la Ley de Transparencia y Acceso a la Información Pública;
-
-II. Coordinar, verificar y vigilar que los titulares de las áreas del Tribunal, proporcionen y actualicen periódicamente la información generada en el ámbito de su competencia;
-
-III. Vigilar en coordinación con las áreas del Tribunal, el resguardo y la correcta administración de la información clasificada como reservada o confidencial;
-
-IV. Recibir, tramitar y responder las solicitudes de acceso a la información pública, y las relativas al ejercicio de la acción de protección de datos personales;
-
-V. Administrar y actualizar mensualmente el registro de las solicitudes, respuestas, trámites y los costos que impliquen;
-
-VI. Realizar los trámites internos ante las instancias del Tribunal para atender las solicitudes de acceso a la información;
-
-VII. Administrar y actualizar mensualmente el registro de las solicitudes, respuestas, trámites y los costos que impliquen;
-
-VIII. Orientar y auxiliar a las personas en la elaboración y entrega de las solicitudes de acceso a la información pública; así como, en la consulta de la información pública de oficio;
-
-IX. Promover la capacitación y actualización en materia de transparencia de los servidores públicos adscritos a este Tribunal;
-
-X. Proponer a la Comisión de Transparencia el Reglamento de Acceso a la Información Pública;
-
-XI. Promover la celebración de convenios generales, en materia de transparencia, que permitan realizar una adecuada difusión inter-institucional con instancias afines;
-
-XII. Establecer las estrategias y mecanismos para el buen funcionamiento del área, y
-
-XIII. Las necesarias para facilitar el ejercicio del derecho a la información pública y la protección de datos personales de acuerdo con los principios y preceptos establecidos en la Ley de Transparencia y Acceso a la Información Pública;
-
-XIV. Rendir informe al Pleno de manera mensual; y
-
-XV. Las demás que le confiera esta Ley, el Reglamento Interior y el Presidente.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2025)
 
 ### CAPÍTULO SEXTO. Del Personal Adscrito a la Presidencia
 
@@ -1277,11 +1399,15 @@ Los Magistrados, Secretario General de Acuerdos, Coordinadores y demás servidor
 
 Los Magistrados y el Secretario General de Acuerdos, estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Séptimo de la Constitución.
 
-De las responsabilidades de los Magistrados
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 27 DE AGOSTO DE 2025)</small>
+
+De las responsabilidades de las Magistradas y Magistrados
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 71.
 
-Serán causas de responsabilidad administrativa para los Magistrados:
+Serán causas de responsabilidad administrativa para las Magistradas y Magistrados:
 
 I. Realizar conductas que atenten contra la independencia de la función jurídico-electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
 
@@ -1475,11 +1601,11 @@ El personal que integre los cuerpos del Servicio Profesional de Carrera y la ram
 
 Contenido del Reglamento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 81.
 
-La Comisión del Servicio de Carrera presentará al Pleno del Tribunal, el proyecto de Reglamento del Servicio de Carrera, mismo que además contendrá las normas que regule al personal adscrito a la rama administrativa.
-
-El Reglamento del Servicio de Carrera deberá establecer, por lo menos, las normas siguientes:
+El Reglamento del Servicio de Carrera contendrá las normas que regulen al personal adscrito a la rama administrativa y deberá establecer, por lo menos, las normas siguientes:
 
 I. Definir los cargos o puestos a los que puedan acceder los servidores públicos electorales;
 
@@ -1500,6 +1626,70 @@ VIII. Las normas relativas a las condiciones para la prestación del servicio y 
 IX. Definir las condiciones de trabajo; y
 
 X. Las demás necesarias para la organización y buen funcionamiento del Servicio Profesional de Carrera.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2025)</small>
+
+## TITULO SÉPTIMO. Del Órgano Interno de Control
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2025)</small>
+
+### CAPITULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Objeto
+
+###### Artículo 82.
+
+El Órgano Interno de Control es el área encargada de prevenir, detectar y sancionar posibles actos de corrupción, llevando a cabo la investigación de las denuncias, la substanciación y la resolución de los procedimientos administrativos de responsabilidades. En el ejercicio de sus funciones tendrá autonomía técnica y de gestión.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Integración
+
+###### Artículo 83.
+
+El Pleno del Tribunal de designará a la persona titular del órgano interno de control, quien durará en su encargo un periodo de tres años y podrá ser ratificado por un periodo igual. El procedimiento de selección se establecerá en la Convocatoria que el Pleno emita para tal efecto.
+
+Para su adecuado funcionamiento, el Órgano Interno de Control contará con dos auxiliares que tendrán a su cargo la investigación y substanciación del procedimiento administrativo, quienes serán designadas bajo el mecanismo que para el caso determine el Pleno.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Obligaciones y Atribuciones
+
+###### Artículo 84.
+
+El Órgano Interno de Control tendrá las atribuciones siguientes:
+
+I. Llevar a cabo la investigación, substanciación y, en su caso, resolución del procedimiento administrativo en términos de la Ley General de Responsabilidades Administrativas;
+
+II. Resolver sobre las responsabilidades por faltas no graves de los servidores públicos del Tribunal e imponer, en su caso, las sanciones administrativas correspondientes en términos de la Ley General de Responsabilidades Administrativas;
+
+III. Elaborar y presentar a la autoridad substanciadora los informes de presunta responsabilidad administrativa que correspondan;
+
+IV. Resolver el recurso de revocación previsto en el artículo 210 de la Ley General de Responsabilidades Administrativas;
+
+V. Promover los recursos establecidos en la Ley General de Responsabilidades Administrativas cuando sea procedente;
+
+VI. Presentar las denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción;
+
+VII. Implementar los mecanismos internos encaminados a prevenir actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+VIII. Comprobar el cumplimiento por parte de la Dirección Administrativa del Tribunal de las obligaciones derivadas de las disposiciones en materia de planeación, presupuesto, ingreso, egreso, financiamiento, patrimonio y fondos;
+
+IX. Verificar en cumplimiento de las declaraciones patrimoniales de los servidores públicos del Tribunal, en los términos de la Ley General de Responsabilidades Administrativas;
+
+X. Vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro; contabilidad, contratación y pago de personal; contratación de servicios y recursos materiales del Tribunal;
+
+XI. Supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleven a cabo en los términos establecidos por las disposiciones de la materia;
+
+XII. Intervenir, en el ámbito de su competencia, en el proceso de entrega-recepción de acuerdo con la ley de la materia;
+
+XIII. Dictar las resoluciones de responsabilidad administrativa por faltas administrativas no graves, de conformidad con la Ley General de Responsabilidades de Administrativas;
+
+XIV. Cumplir con las obligaciones de Transparencia y Acceso a la Información Pública del Tribunal en los términos del Reglamento Interior y de la normatividad aplicable.
+
+XV. Las demás que le confieran la Ley General de Responsabilidades Administrativas y otros ordenamientos aplicables.
 
 T R A N S I T O R I O S
 
@@ -1550,3 +1740,19 @@ Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal 
 Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
 
 Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 141.- SE REFORMA, ADICIONA Y DEROGA LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El procedimiento previsto en el artículo 18 del presente Decreto, en términos de lo previsto por el segundo párrafo del artículo cuarto transitorio del Decreto No. 94 publicado en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas el catorce de enero de dos mil veinticinco, se llevará a cabo hasta septiembre 2027.
+
+TERCERO. El aumento en el número de secretariado de ponencias ocurrirá hasta que el Tribunal quede integrado por tres magistraturas el 20 de noviembre de 2025.
+
+CUARTO. La persona que sea designada como titular del Órgano Interno del Tribunal de Justicia Electoral del Estado de Zacatecas en los términos del presente Decreto iniciará sus funciones el primero de abril de 2026.
+
+QUINTO. Las solicitudes de Transparencia y Acceso a la información Pública que se encuentren en proceso de atención serán tramitadas en términos de la legislación vigente al momento de su presentación.
+
+SEXTO. Dentro de los 120 días siguientes a la publicación de este Decreto, el Tribunal de Justicia Electoral del Estado de Zacatecas deberá realizar las adecuaciones a su Reglamento Interior.
