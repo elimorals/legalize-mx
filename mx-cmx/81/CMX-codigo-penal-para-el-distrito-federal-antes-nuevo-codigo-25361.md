@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2025-05-30"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1336,9 +1336,11 @@ Al que prive de la vida a otro, se le impondrá de ocho a veinte años de prisi�
 
 Se tendrá como mortal una lesión, cuando la muerte se deba a las alteraciones causadas por la lesión en el órgano u órganos interesados, alguna de sus consecuencias inmediatas o alguna complicación determinada inevitablemente por la misma lesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO 125.
 
-Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubina o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrán prisión de diez a treinta años y pérdida de los derechos que tenga con respecto a la víctima, incluidos los de carácter sucesorio. Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple.
+Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, hermanastro, adoptante o adoptado, hijastro, cónyuge, concubina o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrán prisión de diez a treinta años y pérdida de los derechos que tenga con respecto a la víctima incluidos los de carácter sucesorio. Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple.
 
 Si en la comisión de este delito concurre alguna circunstancia agravante de las previstas en el artículo 138 de este Código, se impondrán las penas del homicidio calificado. Si concurre alguna atenuante se impondrán las penas que correspondan según la modalidad.
 
@@ -6688,9 +6690,9 @@ SÉPTIMO. El Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad 
 
 OCTAVO. Se derogan las normas jurídicas que se opongan al presente Decreto.
 
-> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
 
-NOVENO. Por única ocasión y concretamente por lo que hace al Presupuesto Participativo a que hacen referencia los artículos 26, Apartado B de la Constitución Política de la Ciudad de México, 117 de la Ley de Participación Ciudadana de la Ciudad de México, así como 18 y 21 del Decreto de Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2021, las Alcaldías podrán comprometer recursos a más tardar el 30 de noviembre de 2021, respecto de los conceptos de gasto dispuestos en el artículo 63, párrafo segundo de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México. Los compromisos que se establezcan en el periodo señalado deberán estar efectivamente devengados al 31 de diciembre de 2021.
+NOVENO. Por única ocasión y concretamente por lo que hace al Presupuesto Participativo a que hacen referencia los artículos 26, Apartado B de la Constitución Política de la Ciudad de México, 117 de la Ley de Participación Ciudadana de la Ciudad de México, así como 16 y 17 del Decreto de Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2025, las Alcaldías podrán comprometer recursos a más tardar el 15 de diciembre de 2025, respecto de los conceptos de gasto dispuestos en el artículo 63, párrafo segundo de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
 
 G.O. 1 DE AGOSTO DE 2019.
 
@@ -7033,6 +7035,22 @@ CUARTO.- Se derogan todas las disposiciones que contravengan el presente Decreto
 G.O. 30 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UN CAPÍTULO III TER ADMINISTRACIÓN SUBREPTICIA DE SUSTANCIAS AL TÍTULO PRIMERO DELITOS CONTRA LA VIDA, LA INTEGRIDAD CORPORAL, LA DIGNIDAD Y EL ACCESO A UNA VIDA LIBRE DE VIOLENCIA DEL LIBRO SEGUNDO PARTE ESPECIAL, Y UN ARTÍCULO 141 QUÁTER, TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO NOVENO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, SE ADICIONA UN ARTÍCULO 63-BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN CAPÍTULO XIV AL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, UN ARTÍCULO 276-BIS Y UN ARTÍCULO 276-TER AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 482 TOMO II, DE FECHA 31 DE DICIEMBRE DE 2018, CUYO ARTÍCULO NOVENO TRANSITORIO FUE ADICIONADO MEDIANTE DECRETO PUBLICADO EL 11 DE NOVIEMBRE DE 2021”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefa de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México, y
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 125 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
