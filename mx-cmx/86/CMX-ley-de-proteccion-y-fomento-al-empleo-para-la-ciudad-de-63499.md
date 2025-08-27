@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-fomento-al-empleo-para-la-ciudad-de-63499"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-08"
-last_updated: "2023-06-15"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63499&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-30"
 
 LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 8 de octubre de 2008.
 
@@ -178,7 +178,9 @@ XIII. Realizar investigaciones tecnológicas y proyectar la creación de empleos
 
 XIV. Instituir un servicio de orientación profesional y vocacional entre los trabajadores;
 
-XV. Promover la inclusión a las actividades productivas formales a las personas de la tercera edad, personas con capacidades diferentes y demás grupos que presenten esta problemática;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+XV. Promover la inclusión a las actividades productivas formales a las personas adultas mayores, personas con discapacidad y demás grupos de atención prioritaria;
 
 XVI. Coordinarse con el Sistema Nacional de Empleo, para realizar las medidas que más convengan al buscador de empleo, a través de los programas que se implementen con relación al mismo;
 
@@ -398,7 +400,9 @@ I. Perceptores de cualquier prestación menor al salario mínimo general vigente
 
 II. Personas que no puedan acceder a las prestaciones referidas en la presente Ley;
 
-III. Personas con capacidades diferentes;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+III. Personas con discapacidad;
 
 IV. Personas con problemas de drogadicción o alcoholismo que se encuentren en procesos de rehabilitación o reinserción social; y
 
@@ -587,3 +591,9 @@ G.O. 15 DE JUNIO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 5, FRACCIÓN XV, Y EL ARTÍCULO 24, FRACCIÓN III DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA LA CIUDAD DE MÉXICO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
