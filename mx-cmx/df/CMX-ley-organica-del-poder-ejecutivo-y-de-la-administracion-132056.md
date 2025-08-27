@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-ejecutivo-y-de-la-administracion-132056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-13"
-last_updated: "2024-12-27"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132056&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-13"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el Número 471 Bis en la Gaceta Oficial de la Ciudad de México, el jueves 13 de diciembre de 2018.
 
@@ -418,7 +418,9 @@ XVI. Presentar un informe anual de gestión durante el mes de octubre, y acudir 
 
 XVII. Responder la pregunta parlamentaria efectuada por el Congreso dentro de un plazo de treinta días naturales y, en su caso, comparecer ante dicho órgano en términos del artículo 34 de la Constitución Local;
 
-XVIII. Responder en un plazo máximo de treinta días naturales los exhortos o cualesquiera otras solicitudes o declaraciones aprobadas por el pleno o por la Comisión Permanente del Congreso;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+XVIII. Responder en un plazo máximo de sesenta días naturales los exhortos o cualesquiera otras solicitudes o declaraciones aprobadas por el pleno o por la Comisión Permanente del Congreso;
 
 XIX. Informar y coordinar las acciones o actividades que en materia internacional lleven a cabo con el órgano o la unidad administrativa encargada de las relaciones internacionales de la Ciudad de México; así como impulsar la cooperación descentralizada y los intercambios con otras ciudades, gobiernos locales, regionales, organismos internacionales y demás actores del desarrollo global en los temas de interés para la Ciudad;
 
@@ -2678,9 +2680,11 @@ DÉCIMO TERCERO.- El Sistema de Aguas de la Ciudad de México quedará sectoriza
 
 DÉCIMO CUARTO.- La Comisión de Reconstrucción quedará adscrita a la Secretaría de Vivienda de la Ciudad de México.
 
-DÉCIMO QUINTO.- Las referencias hechas a la Secretaría de Salud se entenderán referidas a la Secretaría de Salud Pública de la Ciudad de México.
+DÉCIMO QUINTO.- (DEROGADO, G.O. 27 DE AGOSTO DE 2025)
 
-DÉCIMO SEXTO.- Los recursos materiales, tecnológicos, financieros y humanos de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México se transferirán o reasignarán a la Secretaría (sic) Planeación, Desarrollo Territorial y Metropolitano de la Ciudad de México, junto con los expedientes, archivos, acervos y demás documentación, que se encuentre bajo su resguardo en cualquier tipo de formato.
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+DÉCIMO SEXTO.- Los recursos materiales, tecnológicos, financieros y humanos de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México se transferirán o reasignarán a la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana de la Ciudad de México, junto con los expedientes, archivos, acervos y demás documentación, que se encuentre bajo su resguardo en cualquier tipo de formato.
 
 DÉCIMO SÉPTIMO.- Los asuntos y trámites administrativos que con motivo de este decreto deban pasar de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México a la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, permanecerán en el último trámite que hubieren alcanzado y serán substanciados por la nueva dependencia de adscripción según corresponda en los términos que establezca la ley.
 
@@ -2704,7 +2708,9 @@ VIGÉSIMO QUINTO.- Las erogaciones que se generen con motivo de la entrada en vi
 
 Los programas aprobados en el Presupuesto de Egresos de la Ciudad de México para el ejercicio fiscal 2024 continuarán siendo ejecutados hasta el final del ejercicio por las dependencias que hayan mantenido o a las que les hayan sido transferidas las atribuciones.
 
-VIGÉSIMO SEXTO.- El Congreso de la Ciudad de México, deberá asignar las partidas presupuestales correspondientes para el ejercicio fiscal del año 2025 a las Secretarías de Atención y Participación Ciudadana, de Gestión Integral del Agua, de Vivienda y de Planeación, Desarrollo Territorial y Metropolitano, para el cumplimiento de las atribuciones conferidas en el presente Decreto.
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+VIGÉSIMO SEXTO.- El Congreso de la Ciudad de México, deberá asignar las partidas presupuestales correspondientes para el ejercicio fiscal del año 2025 a las Secretarías de Atención y Participación Ciudadana, de Gestión Integral del Agua, de Vivienda y de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, para el cumplimiento de las atribuciones conferidas en el presente Decreto.
 
 VIGÉSIMO SÉPTIMO.- Las referencias hechas en la Ley de Propiedad en Condominios de Inmuebles para el Distrito Federal a la Procuraduría Social de la Ciudad de México serán atribución de la Secretaría de Vivienda, a la entrada en vigor del presente Decreto.
 
@@ -3637,3 +3643,19 @@ Pequeña 11-50 11-30 11-50
 ARTÍCULO TRIGÉSIMO OCTAVO.- Los recursos que deriven de los derechos a que se refiere el artículo 229, fracción II, inciso b), de este Código, formarán parte del patrimonio del fideicomiso público sin estructura constituido o que se constituya por el Gobierno de la Ciudad de México por conducto de la Secretaría de Administración y Finanzas, con el objeto de destinarlos al pago de los proyectos de infraestructura pública de transporte y movilidad, infraestructura en movilidad no motorizada y seguridad vial en la Ciudad de México, así como, a cualquier otro proyecto que fortalezca dichas infraestructuras, en términos de las disposiciones jurídicas aplicables.
 
 ARTÍCULO TRIGÉSIMO NOVENO.- Para el ejercicio fiscal 2025, la Secretaría podrá emitir reglas de carácter general para administrar los aprovechamientos que deriven por infracciones al Reglamento de Tránsito de la Ciudad de México detectadas a través de equipos y sistemas tecnológicos.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS DÉCIMO SEXTO Y VIGÉSIMO SEXTO, Y SE DEROGA EL ARTÍCULO TRANSITORIO DÉCIMO QUINTO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 20 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
