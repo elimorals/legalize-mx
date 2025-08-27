@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-planeacion-del-desarrollo-de-la-ciudad-13957
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-20"
-last_updated: "2024-11-14"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139579&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-18"
 
 LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE AGOSTO DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 20 de diciembre de 2019.
 
@@ -364,7 +364,9 @@ La Junta de Gobierno será el órgano rector del Instituto, de carácter plural 
 
 I. La persona titular de la Jefatura de Gobierno, quien lo presidirá;
 
-II. Las personas titulares de las secretarías de Administración y Finanzas, de Desarrollo Urbano y Vivienda, de Gobierno, del Medio Ambiente y de Gestión Integral de Riesgos y Protección Civil;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+II. Las personas titulares de las Secretarías de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, de Gestión Integral del Agua, de Vivienda, de Administración y Finanzas, de Gobierno, de Medio Ambiente y de Gestión Integral de Riesgos y Protección Civil;
 
 III. Tres representantes del Cabildo que serán designados en una sesión especial, y
 
@@ -413,6 +415,10 @@ VIII. Presentar con carácter público las declaraciones de intereses, patrimoni
 IX. No haber sido registrada a una candidatura, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores al nombramiento, y
 
 X. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores al nombramiento.
+
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+Artículo 21 BIS.- En caso de renuncia o falta definitiva de la persona titular de la Dirección General, el Comité de Selección deberá remitir en un periodo no mayor a treinta días hábiles, una nueva terna al Congreso.
 
 #### SECCIÓN TERCERA. DEL DIRECTORIO TÉCNICO
 
@@ -490,7 +496,9 @@ En caso de que se produzca la falta definitiva de todas las personas integrantes
 
 Para las postulaciones señaladas en el presente artículo, la persona titular de la Jefatura de Gobierno observará el criterio de paridad de género.
 
-El Comité de Selección funcionará de manera colegiada y establecerá por mayoría simple el mecanismo para la selección de las personas que integrarán la terna para ocupar el cargo de la Dirección General. Dicha terna será remitida al Congreso dentro de los quince días naturales posteriores a la instalación del Comité. Sólo sesionará cuando se requiera llevar a cabo un proceso de nombramiento.
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+El Comité de Selección funcionará de manera colegiada y establecerá por mayoría simple el mecanismo para la selección de las personas que integrarán la terna para ocupar el cargo de la Dirección General. Dicha terna será remitida al Congreso dentro de los treinta días hábiles posteriores a la instalación del Comité. Sólo sesionará cuando se requiera llevar a cabo un proceso de nombramiento.
 
 ### CAPÍTULO TERCERO. DEL COMITÉ TÉCNICO DE SELECCIÓN
 
@@ -1155,3 +1163,19 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La nueva convocatoria para la elección del Comité de Selección deberá emitirse en un plazo no mayor a 60 días naturales, a partir de la entrada en vigor del presente Decreto.
 
 CUARTO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA AL ARTÍCULO 16, FRACCIÓN II DE LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 28, ÚLTIMO PÁRRAFO Y SE ADICIONA UN ARTÍCULO 21 BIS A LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN ARTÍCULO 9 BIS A LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
