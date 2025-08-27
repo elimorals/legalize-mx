@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2014-del-pleno-del-consejo-de-la-100009"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-03-31"
-last_updated: "2022-08-29"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100009&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-03-21"
 
 ACUERDO GENERAL 5/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA DE MANERA TEMPORAL LA DILIGENCIACIÓN DE COMUNICACIONES OFICIALES DE PROCESOS PENALES FEDERALES QUE IMPLIQUEN AFECTACIÓN DE LA SITUACIÓN JURÍDICA DE LA PERSONA BAJO PROCESO, EN DIVERSOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE AGOSTO DE 2025.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación¸ el lunes 31 de marzo de 2014.
 
@@ -85,17 +85,7 @@ Una vez cumplimentada la diligencia solicitada, el juez exhortado devolverá de 
 
 SEGUNDO. El uso de la videoconferencia como un método alternativo para el desahogo de las diligencias judiciales, se realizará de conformidad con lo establecido en el Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite del expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales de los órganos jurisdiccionales a cargo del propio Consejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 14/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2022)</small>
-
-TERCERO. Durante la vigencia de la presente medida se adicionará de forma temporal la plantilla laboral a los juzgados de Distrito ubicados en Villa Aldama, Veracruz; Matamoros, Tamaulipas; así como en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, incorporándose una persona con plaza de Secretaria o Secretario de Juzgado y una persona con plaza de Oficial Judicial “C” más por cada órgano jurisdiccional, a fin de que puedan atender de forma suficiente las diligencias derivadas de comunicaciones oficiales y preferentemente las que se celebren por videoconferencia.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
-
-El oficial administrativo que se incorpore de forma temporal a la plantilla laboral de cada uno de los órganos jurisdiccionales indicados, deberá cubrir el perfil requerido por la Dirección General de Tecnologías de la Información, a fin de garantizar la adecuada operación del equipo de videoconferencia para la celebración de diligencias judiciales.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
-
-Asimismo, la propia Dirección General de Tecnologías de la Información capacitará al personal adicional señalado en el primer párrafo de este punto TERCERO.
+TERCERO. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2025 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE AGOSTO DE 2025)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -154,3 +144,13 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Decimocuarto de Distrito en el Estado de Sonora, con residencia en Hermosillo, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Decimocuarto de Distrito en el Estado de Sonora, con residencia en Hermosillo.
+
+D.O.F. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 10/2025 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DEROGA EL ARTÍCULO TERCERO DEL DIVERSO ACUERDO GENERAL 5/2014, QUE REGULA DE MANERA TEMPORAL LA DILIGENCIACIÓN DE COMUNICACIONES OFICIALES DE PROCESOS PENALES FEDERALES QUE IMPLIQUEN AFECTACIÓN DE LA SITUACIÓN JURÍDICA DE LA PERSONA BAJO PROCESO, EN DIVERSOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal, en Intranet e Internet.
+
+TERCERO. La Dirección General de Recursos Humanos proveerá lo relativo a la conclusión de las plazas temporales concedidas a los órganos jurisdiccionales por virtud del presente ordenamiento.
