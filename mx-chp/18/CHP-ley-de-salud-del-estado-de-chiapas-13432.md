@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-salud-del-estado-de-chiapas-13432"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-12"
-last_updated: "2025-05-28"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE SALUD DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 12 de agosto de 1998.
 
@@ -1110,6 +1110,16 @@ I.- LA FAMILIA ATENDERA LA PREVENCION Y VIGILANCIA DE LOS RIESGOS Y DAÑOS A LA 
 II.- LAS INSTITUCIONES EDUCATIVAS PROCURARAN HACER DE SU AMBIENTE UN ESPACIO QUE PROPICIE LA EDUCACION Y LA SALUD EN BENEFICIO DE SUS INTEGRANTES, CON LA PARTICIPACION DE LOS PADRES DE FAMILIA, DOCENTES Y SOCIEDAD; Y
 
 III.- LOS AYUNTAMIENTOS ORGANIZARAN Y APOYARAN LAS ACCIONES DE LA SOCIEDAD ORGANIZADA EN MATERIA DE PROMOCION A LA SALUD, CON EL PROPOSITO DE FORTALECER LOS SISTEMAS LOCALES DE SALUD.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+ARTICULO 85 BIS.- A EFECTO DE GARANTIZAR UNA NUTRICION ADECUADA, ASI COMO LA PREVENCION, ATENCION AL SOBREPESO Y OBESIDAD, A TRAVES DE LA PROMOCION DE UNA ALIMENTACION BALANCEADA; QUEDA PROHIBIDA, DENTRO DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA ESTATAL, ASI COMO LAS INSTITUCIONES DE SALUD PUBLICAS, LA VENTA DE BEBIDAS CON ALTO CONTENIDO DE AZUCAR, PREENVASADAS Y CARBONATADAS, BEBIDAS ENERGIZANTES Y ALIMENTOS O PRODUCTOS CON ALTO CONTENIDO CALORICO.
+
+DE IGUAL FORMA, SE PROHIBE LA COLOCACION DE EXPENDIOS, MAQUINAS EXPENDEDORAS, CASETAS O SIMILARES QUE TENGAN COMO FINALIDAD LA VENTA DE LOS PRODUCTOS SEÑALADOS EN EL PARRAFO ANTERIOR.
+
+LA SECRETARIA DE SALUD, EN EL AMBITO DE SU COMPETENCIA, DEBERA ESTABLECER LOS MECANISMOS Y/O LINEAMIENTOS PARA REGULAR EL FUNCIONAMIENTO DE ESTABLECIMIENTOS O VENTAS DE BEBIDAS Y ALIMENTOS, QUE GARANTICEN EL CUIDADO DE LA SALUD DE LAS PERSONAS SERVIDORAS PUBLICAS, ASI COMO EL DISEÑO Y EJECUCION DE PROGRAMAS INTERNOS, QUE FOMENTEN LA ACTIVIDAD FISICA.
+
+QUEDA PROHIBIDA A LAS INSTITUCIONES DE SALUD PUBLICAS, ELABORAR, PROCESAR Y OTORGAR ALIMENTOS Y BEBIDAS CON ALTO CONTENIDO DE AZUCARES, EN EL AMBITO DE LA ADMINISTRACION DE LOS SERVICIOS DE SALUD A LA POBLACION; A EXCEPCION DE AQUELLOS CASOS EN QUE SE CONSIDERE NECESARIO, DEBIDO A LA CONDICION DEL PACIENTE, CONFORME A PRESCRIPCION MEDICA, PROTOCOLOS O LAS NORMAS OFICIALES EMITIDAS EN LA MATERIA.
 
 ### CAPITULO II. DE LA EDUCACION PARA LA SALUD
 
@@ -3944,3 +3954,13 @@ Artículo Tercero.- En un plazo máximo de 180 días naturales a partir de la en
 Artículo Cuarto.- Dentro de los 180 días naturales posteriores a la entrada en vigor del presente decreto, la Secretaría de Salud del Estado de Chiapas coordinará las actividades de las dependencias y entidades del sector salud para instrumentar y operar acciones en materia de atención a la muerte gestacional, perinatal y neonatal.
 
 Artículo Quinto.- Las erogaciones derivadas de la entrada en vigor del presente decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables, dentro del ejercicio fiscal vigente y los subsecuentes.
+
+P.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 307 DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 85 BIS A LA LEY DE SALUD DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las Dependencias y Entidades de la Administración Pública Estatal, en el ámbito de su competencia, en un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberán realizar las adecuaciones normativas pertinentes a efecto de darle cumplimiento.
