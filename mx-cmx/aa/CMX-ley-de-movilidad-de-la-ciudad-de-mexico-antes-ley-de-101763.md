@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2021-12-27"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-07-08"
 
 LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE AGOSTO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -354,9 +354,9 @@ LI. Manifestación: Concentración humana generalmente al aire libre, incluyénd
 
 LII. Marcha: Cualquier desplazamiento organizado, de un conjunto de individuos por la vialidad hacia un lugar determinado;
 
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
 
-LIII. Motocicleta: Vehículo motorizado que utiliza manubrio para su conducción, con dos o más ruedas, que está equipado con motor eléctrico o de combustión interna de cuatro tiempos con un cilindraje a partir de cuarenta y nueve centímetros cúbicos de desplazamiento, que es inclinado por su conductor hacia el interior de una curva para contrarrestar la fuerza centrífuga y que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular;
+LIII. Motocicleta: Vehículo motorizado que utiliza manubrio para su conducción, con dos o más ruedas, que está equipado con motor eléctrico que proporciona una potencia continua nominal mayor a 1 KW (1.34HP) o de combustión interna de dos o cuatro tiempos, con un cilindraje a partir de cuarenta y nueve centímetros cúbicos de desplazamiento, o que alcance velocidades superiores a los 25 kilómetros por hora;
 
 > <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -556,13 +556,23 @@ CI. Usuario: Todas las personas que realizan desplazamientos haciendo uso del si
 
 CII. Vehículo: Todo medio autopropulsado que se usa para transportar personas o bienes;
 
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
 
-CIII. Vehículo motorizado: Aquellos vehículos de transporte terrestre de pasajeros o carga, que para su tracción dependen de un motor de combustión interna, eléctrica, o de cualquier otra tecnología que le proporciona velocidad;
+CIII. Vehículo motorizado: Aquellos vehículos de transporte terrestre de pasajeros o carga, que para su tracción dependen de un motor de combustión interna, eléctrica, o de cualquier otra tecnología que le proporciona una velocidad superior a 25 kilómetros por hora;
 
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
 
-CIV. Vehículo no motorizado: Aquellos vehículos que utilizan tracción humana, pedaleo asistido y/o propulsión eléctrica para su desplazamiento con una velocidad máxima de 25 kilómetros por hora.
+CIII Bis. Vehículo Motorizado Eléctrico Personal (VEMEPE): Vehículo que para su conducción, cuenta con acelerador independiente, tiene dos o más ruedas y está equipado con un motor eléctrico cuya velocidad máxima excede los 25 kilómetros por hora. Su motor tiene una potencia continua nominal a partir de 250 watts y hasta 1 KW (1.34 HP).
+
+Se clasifica en:
+
+Tipo A: Con peso menor a 35 kilogramos
+
+Tipo B: Con peso mayor a 35 kilogramos y hasta 350 kilogramos.
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+CIV. Vehículo no motorizado: Vehículo de tracción humana como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad.
 
 > <small>(REFORMADA [N. DE E. REUBICADA Y REPUBLICADA], G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -672,9 +682,9 @@ VII. Realizar por sí misma o a través de organismos, dependencias o institucio
 
 VIII. Elaborar y someter a la aprobación de la persona titular de la Jefatura de Gobierno el Programa Integral de Movilidad y el Programa Integral de Seguridad Vial, los cuales deberán guardar congruencia con los objetivos, políticas, metas y previsiones establecidas en los Planes Generales de Desarrollo, Programa General de Ordenamiento Ecológico, todos de la Ciudad de México; y del Programa de Ordenación de la Zona Metropolitana del Valle de México, así como los acuerdos regionales en los que participe la Ciudad.
 
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
 
-IX. Realizar los estudios necesarios para la creación, redistribución, modificación y adecuación de las vialidades de acuerdo con las necesidades y condiciones impuestas por la planeación de la Ciudad, promoviendo una mejor utilización de las vialidades al brindar prioridad a las personas con discapacidad al peatón, al ciclista y al usuario de transporte público;
+IX. Realizar los estudios necesarios para la creación, redistribución, modificación y adecuación de las vialidades de acuerdo con las necesidades y condiciones impuestas por la planeación de la Ciudad, promoviendo una mejor utilización de las vialidades al brindar prioridad a las personas peatonas, con discapacidad y movilidad limitada; personas ciclistas y personas usuarias de vehículos no motorizados; personas usuarias y prestadoras del servicio de transporte público de pasajeros; personas prestadoras de servicios de transporte y distribución de bienes y mercancías, y personas usuarias de vehículos motorizados particulares.
 
 X. En coordinación con las entidades federativas colindantes, establecer e implementar un programa metropolitano de movilidad, mismo que deberá ser complementario y bajo las directrices que señale el Programa Integral de Movilidad y el Programa Integral de Seguridad Vial;
 
@@ -1576,9 +1586,11 @@ Los servicios de transporte público, mercantil, privado y particular, tanto de 
 
 ### CAPÍTULO II. DE LAS LICENCIAS Y PERMISOS PARA CONDUCIR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 64.
 
-Todo conductor de vehículo motorizado en cualquiera de sus modalidades, incluyendo a los motociclistas, deberá contar y portar licencia para conducir junto con la documentación establecida por esta Ley y otras disposiciones aplicables de acuerdo con las categorías, modalidades y tipo de servicio.
+Todo conductor de vehículo motorizado en cualquiera de sus modalidades, incluyendo a los motociclistas y personas conductoras de vehículos motorizados eléctricos personales, deberá contar y portar licencia correspondiente al tipo de vehículo para conducir junto con la documentación establecida por esta Ley y otras disposiciones aplicables de acuerdo con las categorías, modalidades y tipo de servicio.
 
 La Secretaría otorgará permisos para conducir vehículos motorizados de uso particular a personas físicas menores de dieciocho y mayores de quince años de edad.
 
@@ -3773,3 +3785,13 @@ PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno para su pro
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. - Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES LIII, CIII, CIV Y SE ADICIONA UNA FRACCIÓN CIII BIS AL ARTÍCULO 9, ASÍ COMO SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 12 Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 64 TODOS DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Persona Titular de la Jefatura de Gobierno de la Ciudad de México, en un plazo de 360 días contados a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones correspondientes tanto al reglamento de la Ley de Movilidad de la Ciudad de México, como al Reglamento de Tránsito de la Ciudad de México.
