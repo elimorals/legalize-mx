@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2024-07-18"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2003-04-05"
 ---
 # LEY DE RESIDUOS SOLIDOS DE LA CIUDAD DE MEXICO -- ANTES LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 18 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -264,6 +266,10 @@ XXXVI. Residuos Inorgánicos: Todo residuo que no tenga características de resi
 
 XXXVII. Residuos sólidos: El material, producto o subproducto que sin ser considerado como peligroso, se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final;
 
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+XXXVII Bis. Residuos Textiles: material textil o producto fabricado con textiles que ya no se utiliza o se considera no apto para su función original, como ropa, calzado, bolsas, entre otros;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 XXXVIII. Responsabilidad Compartida: El principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órganos de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
@@ -368,6 +374,10 @@ VIII Bis. Implementar Sistemas de información, que permita (sic) conocer el ori
 
 IX. Suscribir convenios o acuerdos con cámaras industriales, comerciales y de otras actividades productivas, con grupos sociales, organizaciones no gubernamentales, así como con dependencias públicas u organismos privados, para llevar a cabo acciones tendientes a cumplir con los objetivos de la presente ley y su reglamento;
 
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+IX Bis. Suscribir convenios, sujetos a disponibilidad presupuestal, con las cámaras industriales, comerciales y de otras actividades productivas que se dediquen a la fabricación y venta de textiles, para llevar a cabo, de manera conjunta y previamente analizada, acciones que promuevan la recolección, el tratamiento, el reciclaje, la reutilización, el coprocesamiento y la disposición final de los residuos textiles.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 18 DE ABRIL DE 2022)</small>
 
 X. Implementar permanentemente, entre la población, programas de difusión y promoción de la cultura de la separación de los residuos, así como su reducción, reutilización y reciclaje, en los que participen los sectores industriales y comerciales.
@@ -375,6 +385,10 @@ X. Implementar permanentemente, entre la población, programas de difusión y pr
 > <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2022)</small>
 
 Dichos programas de difusión y promoción deberán incluir, de forma provisional, el manejo de los residuos sólidos o de manejo especial que deriven de un evento, contingencia o emergencia sanitaria.
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+X Bis. Promover programas de recolección de residuos textiles, en consonancia con los (sic) establecido en la Ley de Economía Circular de la Ciudad de México, para su tratamiento, reciclaje, reutilización, coprocesamiento y disposición final.
 
 > <small>(REFORMADA, G.O. 25 DE JUNIO DE 2019)</small>
 
@@ -385,6 +399,10 @@ Dichos criterios, lineamientos y normas ambientales para la Ciudad de México de
 > <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
 
 XI Bis. Establecer precios de garantía a cargo de los fabricantes, distribuidores y comercializadores de productos elaborados con plásticos, para promover su reciclaje una vez que se convierten en residuos;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+XI Bis 1. Impulsar campañas de concientización a la ciudadanía, para el correcto desechamiento y la correcta disposición final de residuos textiles, promoviendo acciones que permitan su intercambio y reutilización.
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -468,9 +486,11 @@ Corresponde a la Secretaría de Salud del Distrito Federal, en el ámbito de su 
 
 Corresponde a la Procuraduría la atención de las denuncias ciudadanas que cualquier persona le presente por violaciones o incumplimiento a las disposiciones de la presente Ley, dándole curso legal en los términos de su Ley Orgánica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 10°.
 
-Corresponde a las Delegaciones el ejercicio de las siguientes facultades:
+Corresponde a las Alcaldías el ejercicio de las siguientes facultades:
 
 I. Formular, ejecutar, vigilar y evaluar el programa delegacional de prestación del servicio público de limpia de su competencia, con base en los lineamientos establecidos en el Programa de Gestión Integral de los Residuos Sólidos;
 
@@ -507,6 +527,14 @@ XIII. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento d
 XIV. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia;
 
 XV. Integrar a la política delegacional de información y difusión en materia ambiental los asuntos relacionados con la realización del servicio público de limpia de su competencia; y
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+XV Bis. Ejecutar programas de recolección de residuos textiles, para su tratamiento, reciclaje, reutilización, coprocesamiento y disposición final en consonancia con lo establecido en la Ley de Economía Circular de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+XV Bis 1. Realizar campañas de concientización a la ciudadanía, para el correcto desechamiento y la correcta disposición final de residuos textiles, promoviendo acciones que permitan su intercambio y reutilización.
 
 XVI. Atender los demás asuntos que en materia de los residuos sólidos le conceda esta ley y otros ordenamientos jurídicos aplicables.
 
@@ -1647,3 +1675,15 @@ CUARTO. El Consejo de la Judicatura del Poder Judicial de la Ciudad de México d
 QUINTO. El Consejo de la Judicatura del Poder Judicial de la Ciudad de México definirá el número de Juzgados Penales y Salas de lo Penal especializados en materia ambiental, que conozcan de los procedimientos derivados de la comisión de delitos contra el ambiente, la gestión ambiental y los que atenten en contra de los elementos artificiales del ambiente en la Ciudad de México, de acuerdo con las necesidades y el presupuesto con el que cuente.
 
 SEXTO. En tanto entra en vigor en la Ciudad de México el Código Nacional de Procedimientos Civiles y Familiares, se seguirán aplicando supletoriamente las disposiciones de la legislación en materia de procedimientos civiles vigente en la Ciudad de México, de conformidad con el artículo 9 del presente Decreto.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UNA FRACCIÓN XXXVII BIS AL ARTÍCULO 3; LAS FRACCIONES IX BIS; X BIS Y XI BIS 1 AL ARTÍCULO 6 Y LAS FRACCIONES XV BIS Y XV BIS 1 AL ARTÍCULO 10, ASIMISMO, SE REFORMA EL PRIMER PÁRRAFO AL ARTÍCULO 10, TODOS DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a los 365 días siguientes de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+CUARTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
