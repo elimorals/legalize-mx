@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2024-11-29"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -27,7 +27,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -1303,7 +1303,13 @@ I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
 
 II. Por enmienda, cuando se solicite variar algún nombre u otro dato esencial que afecte el estado civil, la filiación, la nacionalidad, el sexo y la identidad de la persona.
 
-III. Por existencia de errores mecanográficos y ortográficos.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+III. Para corregir algún dato esencial o por la existencia de errores mecanográficos y ortográficos.
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+IV. En caso de homonimia del sustantivo propio y apellidos o si se causa perjuicio en la individualización de la identidad personal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
@@ -1395,11 +1401,15 @@ El trámite de rectificación de acta seguirá en la forma que establezca el Reg
 
 La sentencia que cause ejecutoria por divorcio y adopción se comunicará al Juez del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+ARTICULO 138 BIS.- La rectificación de las actas del estado civil, procede cuando en el levantamiento del acta correspondiente, se deban subsanar datos esenciales o existen errores de cualquier índole, y deberán tramitarse ante la Dirección General del Registro Civil.
+
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
-ARTICULO 138 BIS.- La rectificación de las actas del estado civil, procede cuando en el levantamiento del acta correspondiente, existen errores de cualquier índole, y deberán tramitarse ante la Dirección General del Registro Civil.
-
 El Reglamento del Registro Civil establecerá los supuestos, requisitos y procedimientos para realizar la rectificación de las actas del Estado Civil.
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 Las copias certificadas de constancias de los procedimientos de jurisdicción voluntaria, así como los testimonios de instrumentos notariales en los que se hagan constar declaraciones respecto del nombre o nombres propios, apellido o apellidos omitidos o adicionados o referencias al estado civil, no impactarán (sic) rectificación del acta correspondiente.
 
@@ -2315,6 +2325,10 @@ I.- La designación de la persona que tendrá la guarda y custodia de las hijas 
 
 II.- Las modalidades bajo las cuales el progenitor, que no detente la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de las hijas y los hijos;
 
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+En caso de existir hijos con minoría de edad y de los cuales su custodia o cuidado no sea ejercida por un solo progenitor o en el mismo domicilio, se deberá incluir en el convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, el régimen de visitas y convivencias entre ellos, con las modalidades que fijen el lugar y la forma en que deberá desarrollarse, garantizando que cada uno de los menores hijos puedan continuar bajo la custodia o cuidado de sus respectivos progenitores y con ello fortalecer sus lazos afectivos, respetando los aspectos antes mencionados;
+
 > <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
 III.- El modo de atender las necesidades de las hijas e hijos y en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
@@ -2326,6 +2340,10 @@ IV.- Designación del cónyuge al que corresponderá el uso y disfrute del domic
 > <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto las capitulaciones matrimoniales; el inventario que considere, bienes muebles e inmuebles, así como animales de compañía, en su caso; avalúo y el proyecto de partición; y
+
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+En el caso que las personas divorciantes sean poseedoras de uno o varios seres sintientes, el convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial podrá contener el plan de cuidados que garantice la protección y el bienestar de los mismos, precisando quién será responsable de la custodia, teniendo en cuenta factores como: la capacidad de cada parte para proporcionar un ambiente adecuado y seguro para los seres, así como la disponibilidad de tiempo y recursos para cuidar de ellos, y
 
 > <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
@@ -2681,33 +2699,21 @@ Ejecutoriada una sentencia de divorcio, la o el Juez de lo Familiar, bajo su má
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
-### CAPITULO XI. Del concubinato
+### CAPITULO XI. Del Concubinato
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
 
-###### ARTICULO 291 Bis.
+ARTICULO 291 BIS. Las concubinas y los concubinarios tienen derechos y obligaciones recíprocos, siempre que, sin impedimentos legales para contraer matrimonio, hayan vivido en común en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este capítulo. No es necesario el transcurso del período mencionado cuando, reunidos los demás requisitos, tengan un hijo o una hija en común.
 
-Las concubinas y los concubinarios tienen derechos y obligaciones recíprocos, siempre que, sin impedimentos legales para contraer matrimonio, han vivido en común en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este capítulo.
-
-> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
-
-No es necesario el transcurso del período mencionado cuando, reunidos los demás requisitos, tengan un hijo o una hija en común.
-
-> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+El concubinato deberá tenerse por demostrado, habiendo acreditado las circunstancias descritas en los párrafos anteriores, aún si alguna de las personas concubinas se declara como soltera en un acto jurídico celebrado ante fedatario público.
 
 Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se reputará concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios y en su caso, pensión alimenticia.
 
-> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+Las juezas y jueces del Registro Civil podrán recibir declaraciones con relación a existencia o cesación de concubinato, existencia o cesación de cohabitación y otros hechos relativos a relaciones de pareja que no constituyan modificaciones al estado civil, y que las personas deseen hacer constar ante el referido juez del Registro Civil.
 
-Las Juezas y Jueces del Registro Civil podrán recibir declaraciones con relación a existencia o cesación de concubinato, existencia o cesación de cohabitación y otros hechos relativos a relaciones de pareja que no constituyan modificaciones al estado civil, y que las personas deseen hacer constar, ante el referido Juez del Registro Civil.
+Las juezas y jueces del Registro Civil harán constar por escrito y en los formatos que al efecto se aprueben, las declaraciones emitidas por las personas que acudan a formular las mismas. Estos formatos serán conservados por la Dirección General del Registro Civil, y se podrán expedir constancias de las mismas, las cuales sólo acreditan el hecho de la comparecencia y de haber emitido las declaraciones en ella contenidas. Las constancias emitidas no constituyen modificación del estado civil de las personas, circunstancia que se asentará en los formatos respectivos.
 
-> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
-
-Las Juezas y Jueces del Registro Civil harán constar por escrito y en los formatos que al efecto se aprueben, las declaraciones emitidas por las personas que acudan a formular las mismas. Estos formatos serán conservados por la Dirección General del Registro Civil, y se podrán expedir constancias de las mismas, las cuales sólo acreditan el hecho de la comparecencia y de haber emitido las declaraciones en ella contenidas. Las constancias emitidas por la Dirección General del Registro Civil en los términos del presente artículo no constituyen modificación del estado civil de las personas, circunstancia que se asentará en los formatos respectivos.
-
-> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2014)</small>
-
-En caso de que, mediante las declaraciones se pretenda hacer constar actos que pudieran constituir un ilícito o una modificación al estado civil de las personas, el Juez del Registro Civil podrá negar el servicio, fundando y motivando su negativa.
+En caso de que, mediante las declaraciones, se pretenda hacer constar actos que pudieran constituir un ilícito o una modificación al estado civil de las personas, el juez del Registro Civil podrá negar el servicio, fundando y motivando su negativa.
 
 > <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
@@ -3983,13 +3989,13 @@ IV.- Al fomento de la responsabilidad personal y social, así como a la toma de 
 
 V.- Los demás derechos que a favor de las niñas y los niños reconozcan otras leyes y tratados aplicables.
 
-> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### ARTICULO 417.
 
-En caso de desacuerdo sobre las convivencias o cambio de guarda y custodia, en la controversia o en el incidente respectivo deberá oírse a las y los menores de edad, tomando en cuenta su edad, así como su facilidad de comunicación y expresión.
+En caso de desacuerdo sobre las convivencias o cambio de guarda y custodia, en la controversia o en el incidente respectivo deberá oírse a las y los menores de edad, tomando en cuenta su edad, así como su facilidad de comunicación y expresión, ponderando en todo momento su derecho de convivencia entre hermanos en caso de que estos no habiten en el mismo domicilio, debiendo incluir en el convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, el régimen de visitas y convivencias, conforme a lo establecido en el segundo párrafo de la fracción II del artículo 267 de este Código.
 
-A efecto de que la o el menor de edad sea adecuadamente escuchado independientemente de su edad, deberá ser asistido en la audiencia respectiva por el asistente de menores de edad que para tal efecto designe el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México.
+A efecto de que las o los menores de edad sean adecuadamente escuchados independientemente de su edad, deberán ser asistidos en la audiencia respectiva por el asistente de menores de edad que para tal efecto designe el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
@@ -9131,13 +9137,11 @@ ARTICULO 1,610.- Si sólo quedaren descendientes de ulterior grado, la herencia 
 
 ARTICULO 1,611.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
 
-ARTICULO 1,612.- El adoptado hereda como hijo, pero en la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+ARTICULO 1,612.- El adoptado hereda plenamente como hijo.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
-ARTICULO 1,613.- Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
+ARTICULO 1,613.- (DEROGADO, G.O. 27 DE AGOSTO DE 2025)
 
 ARTICULO 1,614.- Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
@@ -15592,3 +15596,45 @@ G.O. 29 DE NOVIEMBRE DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 267 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1612 Y SE DEROGA EL ARTÍCULO 1613, AMBOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 267 Y SE MODIFICA EL ARTÍCULO 417, AMBOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 291 BIS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL, EN MATERIA DE CONCUBINATO"]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 135 Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 138 BIS, TODOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
