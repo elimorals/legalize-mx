@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-instituto-de-planeacion-democratica-y-142204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-03-13"
-last_updated: "2023-08-04"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142204&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-03-12"
 
 LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el Número 303 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 13 de marzo de 2020.
 
@@ -160,15 +160,29 @@ II.- La persona titular de la Secretaría de Gobierno;
 
 III.- La persona titular de la Secretaría de Administración y Finanzas de la Ciudad de México;
 
-IV.- La persona titular de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
 
-V.- La persona titular de la Secretaría del Medio Ambiente de la Ciudad de México;
+IV.- La persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+IV.- BIS La persona titular de la Secretaría de Gestión Integral del Agua;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+IV.- TER La persona titular de la Secretaría de Vivienda;
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+V.- La persona titular de la Secretaría del Medio Ambiente;
 
 VI.- La persona titular de la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México;
 
 VII.- Tres personas representantes del Cabildo, que serán designadas en una sesión especial; y
 
 VIII.- Siete personas consejeras ciudadanas integrantes del Directorio Técnico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 7.
 
@@ -178,7 +192,9 @@ La Junta de Gobierno sesionará válidamente con la asistencia de la mitad más 
 
 En ausencia debidamente justificada de la persona titular de la Jefatura de Gobierno, ocupará la Presidencia de la Junta de Gobierno la persona titular de la Secretaría de Gobierno.
 
-Participarán en la Junta de Gobierno, como invitadas permanentes, con voz pero sin voto, las personas titulares de la Comisión de Derechos Humanos, de la Procuraduría Ambiental y del Ordenamiento Territorial, y del Sistema de Aguas, de la Ciudad de México.
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+Participarán en la Junta de Gobierno, como invitadas permanentes, con voz, pero sin voto, las personas titulares de la Comisión de Derechos Humanos y de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México.
 
 La persona titular de la Dirección General del Instituto, será el Secretario Técnico de la misma.
 
@@ -245,6 +261,12 @@ IX.- No haber sido registrada a una candidatura, ni haber desempeñado cargo alg
 X.- No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores al nombramiento.
 
 A efecto de garantizar el principio de paridad de género y el derecho a ser reelecta o reelecto por otro periodo de tres años, la persona que desee reelegirse sólo podrá ser electa de una terna integrada por personas que no sean del mismo género; para el caso de una nueva designación, la terna que remita el Comité de Selección deberá estar integrada por personas que no sean del mismo género de la actual persona titular.
+
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+ARTÍCULO 9 BIS.- En caso de renuncia o falta definitiva de la persona titular de la Dirección General, el Comité de Selección deberá remitir, en un periodo no mayor a treinta días hábiles, una nueva terna al Congreso.
+
+El Reglamento determinará a la persona que asumirá temporalmente las funciones de la persona titular, la cual deberá cumplir con los mismos requisitos de idoneidad previstos para la persona titular, a efecto de no interrumpir los trabajos del Instituto.
 
 ###### ARTÍCULO 10.
 
@@ -531,3 +553,19 @@ G.O. 4 DE AGOSTO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 15, APARTADO D, NUMERAL 3, INCISO A, DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO Y SE REFORMA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER DEL ARTÍCULO 6 Y SE MODIFICA EL ARTÍCULO 7 DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 28, ÚLTIMO PÁRRAFO Y SE ADICIONA UN ARTÍCULO 21 BIS A LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN ARTÍCULO 9 BIS A LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
