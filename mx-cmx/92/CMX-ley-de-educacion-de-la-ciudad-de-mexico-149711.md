@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2025-04-11"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -418,11 +418,11 @@ El tipo de educación básica se integra por los niveles de la educación inicia
 
 De manera adicional, se considerarán los centros dedicados a impartir educación especial, incluidos los Centros de Atención Múltiple.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 15.
 
-La educación básica tiene como propósito proporcionar a los educandos conocimientos fundamentales de matemáticas, lecto-escritura, literacidad, historia, geografía, civismo, filosofía y lengua extranjera, así como iniciarlos en el estudio de las ciencias a través de su participación directa en el proceso de enseñanza - aprendizaje; asimismo la comprensión de la pluralidad lingüística y cultural de la nación y de la entidad, el conocimiento y la práctica de las artes, la comprensión integral del funcionamiento y cuidado de su cuerpo, su sexualidad, prevención de enfermedades y adicciones, el valor de la familia y el respeto a las personas mayores; que se inculque la protección, respeto y cuidado al medio ambiente, a los recursos naturales y a las especies animales como seres sintientes; se fomente un estilo de vida saludable, la educación física y el deporte, la educación para la salud, la cultura de la salud bucodental y la importancia de la donación de órganos, tejidos y sangre.
+La educación básica tiene como propósito proporcionar a los educandos conocimientos fundamentales de matemáticas, lecto-escritura, literacidad, historia, geografía, civismo, filosofía, lengua extranjera y educación financiera, así como iniciarlos en el estudio de las ciencias a través de su participación directa en el proceso de enseñanza - aprendizaje; asimismo la comprensión de la pluralidad lingüística y cultural de la nación y de la entidad, el conocimiento y la práctica de las artes, la comprensión integral del funcionamiento y cuidado de su cuerpo, su sexualidad, prevención de enfermedades y adicciones, el valor de la familia y el respeto a las personas mayores; que se inculque la protección, respeto y cuidado al medio ambiente, a los recursos naturales y a las especies animales como seres sintientes; se fomente un estilo de vida saludable, la educación física y el deporte, la educación para la salud, la cultura de la salud bucodental y la importancia de la donación de órganos, tejidos y sangre.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2023)</small>
 
@@ -1446,6 +1446,10 @@ XII. Ser escuchados y atendidos por las maestras, los maestros y las autoridades
 
 XIII. Contar con facilidades para la continuidad y conclusión de estudios en caso de embarazo y durante el periodo de lactancia;
 
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+XIII Bis. Derecho a solicitar la justificación de inasistencias por salud menstrual, derivadas del diagnóstico de dismenorrea incapacitante o síntomas asociados con la menstruación, sin que se afecte el desempeño académico o se generen sanciones disciplinarias. Cuando las inasistencias coincidan con eventos de evaluación y/o desempeño, se tendrá derecho a solicitar su reprogramación conforme a los lineamientos establecidos por la institución;
+
 XIV. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas;
 
 XV. Formar sociedades de estudiantes en sus escuelas;
@@ -1809,5 +1813,23 @@ G.O. 11 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 63 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con la disponibilidad presupuestal existente y el presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XIII BIS AL ARTÍCULO 111 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
