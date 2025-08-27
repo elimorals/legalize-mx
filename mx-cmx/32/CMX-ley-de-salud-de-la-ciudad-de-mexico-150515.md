@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2025-05-02"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2021-08-06"
 
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -83,6 +83,10 @@ Las personas habitantes en la Ciudad de México, independientemente de su edad, 
 La prestación gratuita de servicios públicos de salud, medicamentos y demás insumos asociados será financiada de manera solidaria por la federación, el Instituto de Salud para el Bienestar y el Gobierno de la Ciudad de México en términos de la Ley General de Salud, la presente Ley y sus disposiciones reglamentarias.
 
 Para cumplir con este mandato, el Gobierno de la Ciudad de México deberá realizar las acciones conducentes para que se modifiquen gradualmente las condicionantes sociales de la salud-enfermedad, con el objetivo de crear las condiciones para mejorar la calidad de la vida humana, reducir los riesgos a la salud, propiciar el disfrute de todas las capacidades humanas para contribuir al bienestar y proteger el derecho a la salud.
+
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+Para garantizar el derecho de protección a la salud de las personas, la Ley de la materia y demás aplicables, sancionarán toda actividad relacionada con cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos que señale la ley; así como la producción, distribución y enajenación de sustancias tóxicas, precursores químicos, el uso ilícito del fentanilo y demás drogas sintéticas no autorizadas.
 
 ###### Artículo 3.
 
@@ -662,7 +666,9 @@ y) El desarrollo de programas de salud contra las adicciones y la farmacodepende
 
 z) La prevención, detección y atención del cáncer de mama, cervicouterino, próstata, testicular, infantil y otros;
 
-aa) La prevención, tratamiento y control de la diabetes;
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+aa) La prevención y detección temprana de la diabetes en sus diferentes tipos, enfermedades cardiovasculares y obesidad, para aquellas personas derechohabiente y no derechohabientes.
 
 bb) El desarrollo de programas y medidas necesarias para la prevención, control y tratamiento de enfermedades zoonóticas;
 
@@ -1174,7 +1180,9 @@ VIII. Limitar el uso de la sirena y las luces de emergencia estrictamente a la n
 
 IX. No realizar base fija en la vía pública que obstaculice la circulación vehicular, y
 
-X. Contar con las soluciones, medicamentos, insumos y demás equipo médico previstos en las normas oficiales aplicables como parte de los recursos médicos de apoyo e indispensables para afrontar y mitigar situaciones de riesgo en las que esté en peligro la vida de las personas y que garantice la oportuna e integral atención prehospitalaria.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+X. Contar con las soluciones, medicamentos, insumos y demás equipo médico previstos en las normas oficiales aplicables como parte de los recursos médicos de apoyo e indispensables para afrontar y mitigar situaciones de riesgo en las que esté en peligro la vida de las personas y que garantice la oportuna e integral atención prehospitalaria. Toda unidad móvil de las instituciones públicas, sociales y privadas deberán contar cuando menos con un Desfibrilador Automático Externo en óptimas condiciones.
 
 ###### Artículo 52.
 
@@ -1808,9 +1816,19 @@ VIII. Elaborar y difundir información y recomendaciones de hábitos alimenticio
 
 IX. Las demás que se establezcan en las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 116.
 
-Con el fin de garantizar la salud pública, así como prevenir, controlar y tratar los síntomas y complicaciones crónicas y agudas relacionadas con la diabetes, se fomentarán hábitos y medidas que permiten tener un estilo de vida saludable; de igual forma, se elaborarán programas y proyectos especializados con la participación del Gobierno, a través de las instituciones integrantes del Sistema de Salud, la Secretaría de Educación, los medios de comunicación y los sectores público y privado.
+Con el fin de garantizar la salud pública, así como prevenir, controlar y tratar los síntomas y complicaciones crónicas y agudas relacionadas con la diabetes y sus diferentes tipos, se fomentaran hábitos y medidas que permiten tener un estilo de vida saludable; de igual forma, se elaboraran programas y proyectos especializados para el diagnóstico oportuno, la educación y la prevención de los diferentes tipos de diabetes, con la participación del Gobierno, a través de las instituciones integrantes del Sistema de Salud, la Secretaría de Educación, los medios de comunicación y los sectores público, social y privado y de conformidad con lo que establecen las Guías de Práctica Clínica.
+
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+La Secretaría implementará herramientas digitales que coadyuven a la prevención de la diabetes que fomenten a las personas pacientes la adopción de hábitos de vida saludables a través de diferentes áreas: ejercicio físico, alimentación saludable, educación terapéutica y gestión emocional, entre otros. Para lo cual, la Secretaría en coordinación con la Agencia Digital de Innovación Pública, realizarán el diseño y desarrollo de las herramientas digitales.
+
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+La información que se derive de las herramientas digitales será resguardada y administrada por la Secretaría.
 
 ### CAPÍTULO XXI. EFECTOS DEL MEDIO AMBIENTE EN LA SALUD
 
@@ -2929,3 +2947,29 @@ PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de G
 SEGUNDO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA Y LA LEY DE SALUD AMBAS DE LA CIUDAD DE MÉXICO, EN MATERIA DE PROHIBICIÓN DE CIGARRILLOS ELECTRÓNICOS, VAPEADORES Y DEMÁS SISTEMAS O DISPOSITIVOS ANÁLOGOS”.]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL INCISO AA) DE LA FRACCIÓN I DEL ARTÍCULO 19, ASÍ COMO EL ARTÍCULO 116 Y SE LE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO, AMBOS DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 51 DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
