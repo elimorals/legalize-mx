@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-la-ciudad-de-mexico-173820"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-18"
-last_updated: "2024-07-18"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173820&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2024-07-16"
 
 LEY AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el No. 1404 de la Gaceta Oficial de la Ciudad de México, el jueves 18 de julio de 2024.
 
@@ -201,6 +201,10 @@ XLI. Jardín Polinizador: Espacio público o privado en el que se colocan planta
 XLII. Laboratorio Ambiental: Los que acrediten contar con los elementos necesarios para analizar contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos, de conformidad con la normativa vigente;
 
 XLIII. Ley: La Ley Ambiental de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+XLIII Bis. Luz Intrusa. Tipo de contaminación lumínica que ocurre cuando la luz artificial se introduce en lugares donde no es deseada o necesaria, como en interiores de viviendas, áreas naturales o espacios privados, y se filtra o proyecta fuera del área que se pretende iluminar, afectando negativamente a personas, animales o al medio ambiente.
 
 XLIV. Medidas de ampliación: Acciones que deberá implementar el interesado para incrementar el alcance de los impactos positivos derivados de la ejecución de la obra proyectada;
 
@@ -3713,3 +3717,13 @@ DÉCIMO CUARTO. En tanto se expidan los Lineamientos de la consulta vecinal, seg
 Palacio Legislativo del Congreso de la Ciudad de México, a los trece días del mes de junio del año dos mil veinticuatro. POR LA MESA DIRECTIVA.- DIPUTADA MARÍA GABRIELA SALIDO MAGOS, PRESIDENTA.- DIPUTADA MARCELA FUENTE CASTILLO, SECRETARIA.- DIPUTADA FRIDA FERNANDA ALCÁNTARA CABRERA, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, base III, de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a), de la Constitución Política de la Ciudad de México; 2, párrafo segundo, 3, fracciones XVII y XVIII, 7, párrafo primero, 10, fracción II, 12 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los dieciséis días del mes de julio del año dos mil veinticuatro.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, DR. MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUIZ SUÁREZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, BERTHA MARÍA ELENA GÓMEZ CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, INTI MUÑOZ SANTINI.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, JESÚS OFELIA ANGULO GUERRERO.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- EL SECRETARIO DE INCLUSIÓN Y BIENESTAR SOCIAL, JUAN GERARDO LÓPEZ HERNÁNDEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, PABLO VÁZQUEZ CAMACHO.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, JOSÉ LUIS RODRÍGUEZ DÍAZ DE LEÓN.- FIRMA. LA SECRETARÍA DE TURISMO, NATHALIE VERONIQUE DESPLAS PUEL.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XLIII BIS AL ARTÍCULO 4 A LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
