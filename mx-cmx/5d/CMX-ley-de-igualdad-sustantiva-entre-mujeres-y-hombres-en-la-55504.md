@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2022-10-27"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-02"
 
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE AGOSTO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -90,6 +90,10 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones afirmativas: Son las medidas especiales de carácter temporal, correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
 
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+I Bis. Brecha Salarial de Género: Diferencia de la retribución salarial entre mujeres y hombres derivada de razones de género, respecto de la realización de un trabajo remunerado de igual valor;
+
 > <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
 II. Ente Público: Las autoridades Locales de Gobierno de la Ciudad de México; los órganos que conforman la Administración Pública; los órganos autónomos por ley, y aquellos que la legislación local reconozca como de interés público y ejerzan gasto público; y los entes equivalentes a personas jurídicas de derecho público, que en ejercicio de sus actividades actúen en auxilio de los órganos antes citados o ejerzan gasto público;
@@ -97,6 +101,10 @@ II. Ente Público: Las autoridades Locales de Gobierno de la Ciudad de México; 
 III. Equidad de género: Concepto que se refiere al principio conforme al cual mujeres y hombres acceden con justicia e igualdad al uso, control y beneficio de los bienes, servicios, recursos y oportunidades de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política cultural y familiar;
 
 IV. Igualdad sustantiva: es el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+IV Bis. Igualdad Salarial: Remuneración igual por un trabajo de igual valor, sin distinción de sexo, género, identidad de género, origen étnico, discapacidades, condición social, económica, de salud o jurídica, entre otras;
 
 V. Perspectiva de Género: concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
 
@@ -140,7 +148,9 @@ II. Impulsar la vinculación interinstitucional en el marco del Sistema;
 
 III. Fortalecer la implementación de acciones afirmativas que favorezcan la aplicación de una estrategia integral en la Ciudad de México;
 
-IV. Coadyuvar en la elaboración e integración de iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos público y privado.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+IV. Coadyuvar en la elaboración e integración de iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres en la toma de decisiones, así como en la vida familiar, de cuidados, social, laboral, política, deportiva, cultural y civil, tanto en los ámbitos público como privado.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
 
@@ -288,9 +298,9 @@ IX. Fomentar la observancia del principio de Igualdad Sustantiva entre mujeres y
 
 X. Promover la eliminación de estereotipos y prejuicios que menoscaben, limiten o impidan el ejercicio de algún derecho.
 
-> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
 
-XI. Fomentar la observancia del principio de corresponsabilidad social mediante la promoción y difusión de planes de conciliación laboral y familiar, tanto en instituciones públicas como privadas.
+XI. Fomentar la observancia del principio de corresponsabilidad social mediante la promoción y difusión de planes de conciliación laboral, familiar y de cuidados, tanto en instituciones públicas como privadas.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE LA POLÍTICA EN MATERIA DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES
 
@@ -530,6 +540,10 @@ Para los efectos de lo previsto en el artículo anterior, los entes públicos de
 
 I. Detectar y analizar los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo, e implementar las acciones para erradicarlos;
 
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+I Bis. Promover políticas públicas y medidas orientadas a eliminar la brecha de género, en particular la brecha salarial, tanto en los sectores público como privado;
+
 II. Generar los mecanismos necesarios para capacitar a las personas que en razón de su sexo están relegadas;
 
 III. Implementar acciones que tiendan a erradicar la discriminación en la designación de puestos directivos y toma de decisiones por razón de sexo;
@@ -546,7 +560,9 @@ VII. Establecer los mecanismos necesarios para identificar todas las partidas pr
 
 VIII. Implementar campañas que fomenten la contratación de mujeres y promuevan la igualdad sustantiva en el mercado laboral, en los ámbitos público y privado;
 
-IX. Fomentar la adopción voluntaria de programas de igualdad por parte del sector privado, para ello se generarán diagnósticos de los que se desprendan las carencias y posibles mejoras en tomo a la igualdad sustantiva entre mujeres y hombres;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+IX. Promover la implementación de programas de igualdad por parte del sector privado, para ello se generarán diagnósticos de los que se desprendan las carencias y posibles mejoras en torno a la igualdad sustantiva entre mujeres y hombres;
 
 X. Implementar en coordinación con las autoridades competentes medidas destinadas a erradicar cualquier tipo de discriminación, violencia o acoso por razón de sexo;
 
@@ -877,3 +893,13 @@ G.O. 27 DE OCTUBRE DE 2022.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES I BIS Y IV BIS DEL ARTÍCULO 5, Y LA I BIS DEL ARTÍCULO 23; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 7, LA FRACCIÓN XI DEL ARTÍCULO 10 Y LA FRACCIÓN IX DEL ARTÍCULO 23 DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DE LA CIUDAD DE MÉXICO; Y SE ADICIONA LA FRACCIÓN IV BIS DEL ARTÍCULO 4 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.– Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.– El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
