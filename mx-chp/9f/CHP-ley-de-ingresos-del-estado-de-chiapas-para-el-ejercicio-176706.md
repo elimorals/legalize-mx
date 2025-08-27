@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ingresos-del-estado-de-chiapas-para-el-ejercicio-176706"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el Número 005 del Periódico Oficial del Estado de Chiapas, el martes 31 de diciembre de 2024.
 
@@ -641,8 +641,22 @@ Artículo Tercero.- La presente ley fue aprobada por el voto de las dos terceras
 
 Artículo Cuarto.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+Artículo Quinto.- Se autoriza la aplicación de la tasa cero a la Secretaría de la Defensa Nacional, en el Impuesto Sobre Nómina y el Adicional para el Desarrollo Económico y Social en la Entidad, que se derive de la mano de obra en la construcción de obras públicas de infraestructura para el servicio de Carga del Tren Maya y para la Terminal de Carga Palenque en el Estado.
+
 El Ejecutivo del Estado dispondrá se publique, circule y se le dé debido cumplimiento.
 
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 26 días del mes de diciembre del año dos mil Veinticuatro.- D. P. C. LUIS IGNACIO AVENDAÑO BERMÚDEZ.- D. S. C. MARCELA CASTILLO ATRISTAIN.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los treinta y un días del mes de Diciembre del año dos mil veinticuatro.- Óscar Eduardo Ramírez Aguilar, Gobernador del Estado de Chiapas.- Patricia del Carmen Conde Ruiz, Secretaria General de Gobierno y Mediación.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 306 DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO QUINTO TRANSITORIO A LA LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2025".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
