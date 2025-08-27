@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2025-06-26"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -112,6 +112,14 @@ V. Aguas Pluviales: Aquellas que provienen de lluvia, incluyendo las generadas p
 V Bis. Aguas Pluviales cosechadas: Volúmenes de agua de lluvia, nieve o granizo captados mediante las obras, infraestructura, equipos e instrumentos adecuados en el suelo urbano y en el suelo de conservación por los sectores público, privado, social, ejidos, comunidades, barrios, pueblos y en los hogares de las y los habitantes del Estado de Tamaulipas;
 
 VI. Aguas Residuales: Las aguas de composición variada provenientes de las descargas sanitarias después de haber sido utilizadas por los usuarios públicos, domésticos, comerciales y de servicios e industriales.
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VI Bis. Aguas residuales grises. Aquellas aguas residuales domésticas que tienen un bajo nivel de contaminación, generalmente provenientes de duchas, lavabos, lavadoras y fregaderos y que no contienen materia fecal.
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+VI Ter. Aguas residuales negras. Aquellas aguas residuales contaminadas con desechos humanos, principalmente provenientes de inodoros, y que contienen una alta concentración de materia orgánica, microorganismos patógenos y nutrientes.
 
 VII. Aguas residuales tratadas: Las aguas residuales después de haber recibido el tratamiento de saneamiento.
 
@@ -347,17 +355,17 @@ LXVII. Tarifa: El tabulador autorizado para la determinación del pago por los s
 
 LXVIII. Toma Domiciliaria: La infraestructura conectada al sistema de distribución de agua potable utilizada para suministrarla a los predios. Esta infraestructura incluye el aparato medidor de volúmenes de agua, llaves y válvulas necesarias para que el prestador de los servicios públicos pueda realizar las funciones de toma de lectura, mantenimiento a los aparatos medidores de volúmenes de agua y de reducción o suspensión del servicio;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-LXIX. Unidad de Riego: La aplicación de agua para el riego destinado a la producción agrícola y la preparación de ésta para la primera enajenación, siempre que los productores no hayan sido objeto de transformación;
+LXIX. Unidad de Riego: Área agrícola a cargo de una persona física o moral que cuenta con derechos para la explotación, uso o aprovechamiento de aguas para riego, mediante infraestructura hidroagrícola para su captación, derivación, conducción, distribución, aplicación y desalojo, con responsabilidad de construir, operar, conservar y/o rehabilitar dicha infraestructura con el objeto de prestar servicios de riego;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 LXX. Uso: Aplicación del agua a una actividad que implique el consumo, parcial o total de ese recurso;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-LXXI. Uso Agrícola: El área agrícola que cuenta con infraestructura y sistema de riego, distinta de un distrito de riego y comúnmente de menor superficie de aquél que puede integrarse por asociaciones de usuarios u otras figuras de productores organizados que se asocian entre sí libremente para prestar el servicio de riego con sistemas de gestión autónoma y operar las obras de infraestructura hidráulica para la captación, derivación, conducción, regulación, distribución y desalojo de las aguas nacionales destinadas al riego agrícola, y cuya administración compete a la Comisión Nacional del Agua;
+LXXI. Uso Agrícola: La aplicación de agua para el riego destinado a la producción agrícola y la preparación de ésta para la primera enajenación, siempre que los productos no hayan sido objeto de transformación industrial;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -379,9 +387,9 @@ LXXV. Uso industrial: La utilización de agua en el proceso productivo de las em
 
 LXXVI. Indicadores de Gestión: Cifras que permiten de manera objetiva medir y evaluar el desempeño de una organización;
 
-> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-LXXVII. Uso Público: La utilización de agua de uso público urbano para el uso de edificios públicos; y
+LXXVII. Uso Público: La utilización de agua para el uso en espacios públicos, edificios gubernamentales, parques y jardines; y
 
 > <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -623,9 +631,9 @@ XLVI. Orientar a los usuarios, sobre la aplicación de los recursos estatales en
 
 XLVII. Apoyar con asesorías técnicas y legales la integración, organización y funcionamiento de las asociaciones de usuarios de los distritos de riego, emitiendo opiniones respecto de la elaboración de sus estatutos, reglamentos internos, así como la composición y actualización de los padrones de usuarios, para que estos reúnan los requisitos legales requeridos y se ajusten a la Ley de Aguas Nacionales y su Reglamento, siempre respetando la potestad que la Comisión Nacional del Agua tiene sobre dichas actividades;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-XLVIII. Dar aviso a la Comisión Nacional del Agua, por escrito en el término de quince días naturales contados a partir de que tenga conocimiento de los hechos, cuando detecte alguna necesidad o irregularidad de los usuarios y que a su consideración deba intervenir la Federación;
+XLVIII. Dar aviso a la Comisión Nacional del Agua, por escrito en el término de quince días naturales contados a partir de que tenga conocimiento de los hechos, cuando detecte alguna necesidad o irregularidad de los usuarios y que a su consideración deba intervenir la Federación y solicitar información a la Comisión Nacional del Agua, sobre el trámite otorgado a los avisos que le haya hecho de su conocimiento;
 
 (ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
@@ -643,9 +651,9 @@ LI. Promover, respetar, proteger y garantizar en el ámbito de su competencia, e
 
 LII. Efectuar, en colaboración con la Comisión Nacional del Agua, acciones de rehabilitación, modernización y seguridad de presas y plantas de bombeo;
 
-(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-LIII. Intervenir con carácter de vocal en las Asociaciones Civiles de Usuarios que integran los Distritos y Unidades de Riego;
+LIII. Intervenir con carácter de vocal en los consejos de vigilancia de las Asociaciones Civiles de Usuarios y Sociedades de Responsabilidad Limitada que integran los distritos y unidades de riego, y temporal tecnificado;
 
 (ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
@@ -695,9 +703,17 @@ LXIV. Otorgar capacitación y asistencia técnica a los usuarios de los Distrito
 
 LXV. Crear, implementar, operar y actualizar Programas de apoyo en favor de los distintos usuarios del agua, implementando las reglas de operación, lineamientos y otras de naturaleza análoga; y
 
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+LXVI. Celebrar convenios de colaboración con las Asociaciones Civiles de Usuarios y Sociedades de Responsabilidad Limitada de los distritos, unidades de riego y distrito de temporal tecnificado, así como con comunidades y usuarios del agua marginados, para trabajos de rehabilitación, conservación y mantenimiento de la infraestructura hidroagrícola;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+LXVII. Impulsar la gestión integral del agua en el ámbito de los Consejos de Cuenca integrados en el estado, mediante la organización de usuarios para la atención de la problemática del agua en cuencas y acuíferos; y
+
 (ADICIONADA, P.O. 16 DE JUNIO DE 2011) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LXVI. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
+LXVIII. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
@@ -921,6 +937,10 @@ X. Establecer las cuotas y tarifas en términos de esta ley;
 
 XI. Determinar y cobrar los adeudos que resulten de aplicar los precios y tarifas por los servicios que preste;
 
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XI Bis. Cumplir con las obligaciones fiscales y obrero patronales del organismo;
+
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
 XII. Celebrar convenios de colaboración administrativa con la Secretaría para que esta asuma la notificación, y la Secretaría de Finanzas el cobro cuando se cuente con resolución firme y exigible pago, a través del procedimiento administrativo de ejecución, de los créditos fiscales que determine a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
@@ -1037,7 +1057,9 @@ I. El Titular de la Secretaría de Recursos Hidráulicos para el Desarrollo Soci
 
 II. Dos representantes municipales, los cuales uno será el Presidente Municipal y otro el titular de dependencia responsable del desarrollo social, desarrollo urbano, obras públicas, desarrollo económico o medio ambiente;
 
-III. Tres representantes del Gobierno del Estado, uno de la Secretaría (sic) Salud, otro de la Secretaría de Desarrollo Urbano y Medio Ambiente y otro de la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+III. Cuatro representantes del Gobierno del Estado, uno de la Secretaría (sic) Salud, otro de la Secretaría de Desarrollo Urbano y Medio Ambiente, otro de la Secretaría de Administración y otro de la Secretaría de Finanzas;
 
 IV. Las Diputadas o Diputados del Congreso del Estado electos en los distritos electorales uninominales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, y;
 
@@ -1089,7 +1111,9 @@ IV. Tres representantes de los sectores social y privado que tengan representati
 
 ###### Artículo 30.
 
-1. El Gerente General del organismo operador, ya sea municipal, intermunicipal o regional, participará en las reuniones del Consejo de Administración con derecho a voz pero sin voto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+1. La o el Gerente General del organismo operador, participará en las reuniones del Consejo de Administración con derecho a voz pero sin voto y será el encargado de presentar la exposición de los temas que se sometan a consideración del Consejo de Administración.
 
 2. El Gerente General tendrá las siguientes atribuciones en torno al funcionamiento del Consejo de Administración:
 
@@ -1103,7 +1127,17 @@ IV. Las demás que le señale la presente ley y sus reglamentos, así como el Co
 
 ###### Artículo 31.
 
-El Consejo de Administración del organismo operador deberá sesionar en asambleas ordinarias, cuando menos, una vez al mes y en asambleas extraordinarias en cualquier tiempo, a petición escrita de, por lo menos, tres de sus integrantes o a petición escrita del Presidente.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+El Consejo de Administración del organismo operador deberá sesionar en asambleas ordinarias, de manera trimestral en el año calendario y en asambleas extraordinarias en cualquier tiempo, a petición escrita de, la mayoría de los integrantes del Consejo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE AGOSTO DE 2025)</small>
+
+Para que las sesiones sean válidas, la convocatoria y la información y/o documentación que forme parte de los asuntos a tratar en el orden del día, deberá entregarse a los integrantes del Consejo, para sesiones ordinarias con cinco días hábiles previos a su celebración y para sesiones extraordinarias con tres días hábiles previos a su celebración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE AGOSTO DE 2025)</small>
+
+En caso de incumplimiento de los plazos referidos para la entrega de la convocatoria y la información y/o documentación a tratar en el orden del día, esta no surtirá efectos y deberá emitirse una nueva convocatoria en la que se dé cumplimiento al párrafo anterior.
 
 ###### Artículo 32.
 
@@ -1163,11 +1197,17 @@ XXI. Las demás que le asignen la presente ley, su decreto de creación, la legi
 
 Para ser Gerente General de un organismo operador se requiere:
 
-I. Contar con cédula profesional relacionada con la función y contar con experiencia técnica y administrativa comprobadas de por lo menos cinco años en materia de agua;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-II. Tener residencia mínima de tres años en el Estado;
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-III. No haber sido condenado por delito intencional, y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+II. Contar con experiencia, conocimientos, capacitación, perfil o formación profesional afín a las actividades del organismo;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+III. No estar sujeto a condena por la comisión de algún delito doloso; y
 
 IV. Una vez nombrado, no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes, a excepción de las actividades de carácter docente, ni desempeñar actividades privadas en donde exista conflicto de intereses.
 
@@ -1184,6 +1224,10 @@ III. Proponer a la aprobación del Consejo de Administración las cuotas y tarif
 IV. Determinar y cobrar, en términos de lo previsto en la presente ley, los adeudos que resulten de aplicar las cuotas y tarifas por los servicios públicos que preste el organismo;
 
 V. Celebrar, con la autorización del Consejo de Administración, los actos jurídicos necesarios para la constitución de fideicomisos públicos;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+V Bis. Realizar los pagos derivados de las obligaciones fiscales y obrero patronales del organismo;
 
 VI. Determinar infracciones a esta ley e imponer las sanciones correspondientes, recaudando las pecuniarias a través del procedimiento administrativo de ejecución;
 
@@ -1215,7 +1259,9 @@ XVI. Establecer relaciones de coordinación con las autoridades federales, estat
 
 XVII. Ordenar que se practiquen las visitas de inspección y verificación, de conformidad con lo señalado en el presente ordenamiento; incluyendo las derivadas de las recomendaciones de las medidas establecidas en el semáforo del cuidado del agua;
 
-XVIII. Ordenar que se practiquen en forma regular y periódica, muestras y análisis del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+XVIII. Ordenar que se practiquen en forma regular y periódica, toma de muestras y análisis de calidad del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable;
 
 XIX. Realizar las actividades que se requieran para lograr que el organismo preste a la comunidad servicios adecuados y eficientes;
 
@@ -1235,19 +1281,29 @@ XXIII. Las demás que le señalen el Consejo de Administración, esta ley, sus r
 
 I. La vigilancia de los organismos operadores municipales estará a cargo de los ayuntamientos, conforme a lo que establezcan las disposiciones legales y reglamentarias aplicables.
 
-2. Tratándose de los organismos operadores intermunicipales y regionales, la vigilancia estará a cargo de los ayuntamientos signantes del convenio que le da origen, acorde con las disposiciones legales aplicables y en los términos que para el caso se prevean en el propio convenio y en su decreto de creación.
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+2. La vigilancia de los organismos operadores estatales estará a cargo de una o un Comisario nombrado por la Secretaría Anticorrupción y Buen Gobierno, conforme a lo que establezcan las disposiciones legales y reglamentarias aplicables.
+
+3. Tratándose de los organismos operadores intermunicipales y regionales, la vigilancia estará a cargo de los ayuntamientos signantes del convenio que le da origen, acorde con las disposiciones legales aplicables y en los términos que para el caso se prevean en el propio convenio y en su decreto de creación.
 
 ### CAPITULO VI. DE LOS ESTATUTOS ORGANICOS
 
 ###### Artículo 36.
 
-El Estatuto Orgánico de cada organismo operador municipal, intermunicipal o regional, deberá contener, de manera enunciativa y no limitativa, los siguientes aspectos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+El Estatuto Orgánico de cada organismo operador deberá contener, de manera enunciativa y no limitativa, los siguientes aspectos:
 
 I. La denominación del organismo al cual se aplicará el ordenamiento;
 
-II. La forma de integración e invitación a los representantes sociales del Consejo de Administración;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-III. Las facultades y la forma de sesionar del Consejo de Administración;
+II. La forma de invitación a los representantes del sector social y privado del Consejo de Administración;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+
+III. Las facultades y la forma de sesionar del Consejo de Administración que deberá ser conforme a los preceptos de esta ley;
 
 IV. Las unidades administrativas del organismo y sus facultades;
 
@@ -2199,27 +2255,41 @@ Los organismos operadores informarán a las dependencias y entidades federales, 
 
 ###### Artículo 113.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2025)</small>
 
-1. Para autorizar la incorporación de nuevos asentamientos humanos e industriales a los servicios públicos, las personas físicas o morales interesadas deberán presentar al organismo operador correspondiente, una solicitud de factibilidad que será acompañada por un plano con la ubicación geográfica, número de lotes o infraestructura industrial y vocación del suelo del predio que se pretende urbanizar o industrializar.
+1. Para autorizar la incorporación de nuevos asentamientos humanos e industriales a los servicios públicos, las personas físicas o morales interesadas deberán presentar al organismo operador correspondiente, una solicitud de factibilidad que será acompañada por un plano con la ubicación geográfica, número de lotes o infraestructura industrial y vocación del suelo del predio que se pretende urbanizar o industrializar. En la incorporación de nuevos asentamientos industriales a los servicios públicos y cuando existan las condiciones adecuadas de disponibilidad y calidad de aguas residuales tratadas para los procesos respectivos requeridos por el solicitante y se cuente con infraestructura o condiciones para ampliarla, es obligatorio se utilicen aguas residuales tratadas.
 
 2. Para que el organismo operador pueda autorizar la solicitud de factibilidad de los servicios públicos deberá:
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-I. Determinar la demanda requerida y verificar que exista oferta de agua disponible en base al dictamen de disponibilidad para consumo humano que expida la Secretaría;
+I. Determinar la demanda requerida y verificar que exista oferta de agua disponible.
 
-II. Determinar el punto de conexión con la infraestructura existente de acuerdo a lo que establezca el Plan Estratégico de Desarrollo del Sector Agua del Municipio; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+II. Determinar el punto de conexión con la infraestructura existente por cada servicio solicitado para que el interesado lleve a cabo los proyectos ejecutivos correspondientes y en el caso de asentamientos industriales, los proyectos de ampliación para el uso de aguas residuales tratadas; y
 
-III. Aprobar los proyectos relativos a las instalaciones hidráulicas y sanitarias intradomiciliarias o industriales, verificándose que cumplan con las especificaciones técnicas requeridas y con las leyes y los reglamentos aplicables.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
 
-3. El organismo operador está obligado a informar por escrito al solicitante la resolución correspondiente, en un plazo no mayor de treinta días hábiles a partir de la solicitud de factibilidad de servicios respectiva.
+III. Aprobar los proyectos relativos a las instalaciones hidráulicas y sanitarias intradomiciliarias, para el reúso de aguas grises, o industriales, verificándose que cumplan con las especificaciones técnicas requeridas y con las leyes y los reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+3. El organismo operador, previa opinión técnica de la Secretaría, emitirá por escrito la resolución correspondiente, en un plazo no mayor de treinta días hábiles a partir de la solicitud de factibilidad de servicios respectiva.
 
 4. Cuando la resolución mencionada en el párrafo anterior no sea aprobatoria, el organismo operador deberá especificar por escrito los argumentos técnicos y jurídicos que sustentan la negación de la factibilidad de los servicios públicos.
 
-5. Cuando la resolución mencionada en el párrafo 3 de este precepto sea aprobatoria, el organismo operador informará por escrito al solicitante, el importe correspondiente de las cuotas por uso de infraestructura, de acuerdo a las fórmulas establecidas en la normatividad operativa para el Sector Agua del Estado.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+5. Cuando la resolución mencionada en el párrafo 3 de este precepto sea aprobatoria, el organismo operador informará por escrito al solicitante, el importe correspondiente de las cuotas por uso de infraestructura y en el caso de asentamientos industriales, los proyectos de ampliación para el uso de aguas residuales tratadas a cargo del usuario, de conformidad a lo señalado en esta ley.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+6. En el caso de desarrollos habitacionales con fines de lucro o de asentamientos industriales, las obras necesarias para hacer llegar los servicios serán con cargo al solicitante y podrán realizarse por el propio usuario o por el prestador de los servicios.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+7. Cuando se otorgue la factibilidad, el beneficiado deberá informar por escrito, por lo menos con tres días hábiles de anticipación la fecha de inicio de los trabajos, a efecto de que el organismo operador lleve a cabo la supervisión de los mismos y se corrobore que se cumpla con las especificaciones técnicas autorizadas.
 
 ###### Artículo 114.
 
@@ -2739,7 +2809,9 @@ IV. Flujo esperado de aguas residuales que se viertan al sistema de alcantarilla
 
 2. Cuando no exista la infraestructura adecuada para suministrar el agua residual a un predio, el prestador de los servicios públicos suscribirá un convenio con el usuario solicitante a fin de instalar la infraestructura necesaria para la prestación del servicio.
 
-3. El costo de las obras mencionadas en el párrafo anterior será cubierto, por partes iguales, por el prestador de los servicios y el usuario, en el entendido que dicha infraestructura pasará a formar parte del patrimonio del prestador de servicios una vez concluida su construcción.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+3. El costo de las obras mencionadas en el párrafo anterior será cubierto, por el usuario, y dicha infraestructura pasará a formar parte del patrimonio del prestador de servicios una vez concluida su construcción.
 
 ###### Artículo 159.
 
@@ -3701,4 +3773,24 @@ P.O. 26 DE JUNIO DE 2025.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 27 DE AGOSTO DE 2025.
+
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-356 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 2 BIS A LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los organismos operadores estatales, deberán realizar las adecuaciones de integración de los Consejos de Administración a efecto de dar cumplimiento a lo establecido en el artículo 28 Bis, párrafo 1, fracción III del presente Decreto, en un plazo que no exceda los 30 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Consejos de Administración en los organismos operadores municipales y el Titular del Ejecutivo del Estado en el caso de los organismos operadores estatales, ratificarán o en su caso expedirán los nombramientos a las y los Gerentes Generales que cumplan con los requisitos establecidos en el artículo 33 de esta Ley, en un plazo que no exceda de 1 año a partir de la entrada en vigor del presente Decreto. La falta de ratificación de nombramientos no representa la invalidez de los mismos.
+
+###### ARTÍCULO CUARTO.
+
+Cuando a la entrada en vigor del presente Decreto, no estén nombrados las o los Comisarios en los organismos operadores estatales, conforme al artículo 35, párrafo 2 de esta Ley, la Secretaría Anticorrupción y Buen Gobierno contará con un plazo de 30 días hábiles contados a partir de la entrada en vigor de este Decreto para designarlos.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-384 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES LXIX, LXXI Y LXXVII; 6, PÁRRAFO 1, FRACCIONES XLVIII Y LIII; 28 BIS, PÁRRAFO 1, FRACCIÓN III; 30, PÁRRAFO 1; 31; 33, FRACCIONES I, II Y III; 34, FRACCIÓN XVIII; 36, PÁRRAFO ÚNICO Y FRACCIONES II Y III; 113, PÁRRAFOS 1, 2, FRACCIONES I, II Y III, 3 Y 5; Y 158, PÁRRAFO 3; Y SE ADICIONAN LAS FRACCIONES VI BIS Y VI TER AL ARTÍCULO 2; LAS FRACCIONES LXVI Y LXVII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 6; UNA FRACCIÓN XI BIS, AL ARTÍCULO 25; UNA FRACCIÓN V BIS, AL ARTÍCULO 34; UN PÁRRAFO 2, RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE, AL ARTÍCULO 35; Y LOS PÁRRAFOS 6 Y 7, AL ARTÍCULO 113 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS.”]
