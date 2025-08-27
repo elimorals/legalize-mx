@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-auditoria-y-control-interno-de-la-administracion-123184"
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2021-03-26"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-08-31"
 
 LEY DE AUDITORÍA Y CONTROL INTERNO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -166,27 +166,45 @@ VI. Recurrir las determinaciones de la Fiscalía General de Justicia y del Tribu
 
 VII. Las demás que le otorguen otras disposiciones legales y administrativas.
 
-> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 13 Bis.
 
-La persona titular de la Secretaría de la Contraloría General durará en su encargo seis años, sin posibilidad de ser ratificado y será designado por las dos terceras partes de las y los integrantes presentes del Congreso de la Ciudad de México, a propuesta de terna enviada por la persona titular de la Jefatura de Gobierno de la Ciudad de México y podrá ser removida o removido por ésta, de conformidad con las causas establecidas en la ley; el Congreso de la Ciudad de México podrá objetar dicha determinación por las dos terceras partes de las y los integrantes presentes.
+La persona titular de la Secretaría de la Contraloría General durará en su encargo seis años, sin posibilidad de ser ratificada y será designada por las dos terceras partes de las y los integrantes presentes del Congreso de la Ciudad de México, a propuesta de terna enviada por la persona titular de la Jefatura de Gobierno de la Ciudad de México y podrá ser removida o removido por ésta, de conformidad con las causas establecidas en la ley; el Congreso de la Ciudad de México podrá objetar dicha determinación por las dos terceras partes de las y los integrantes presentes.
 
-Para ser secretario de la Contraloría General se deben cumplir los requisitos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE AGOSTO DE 2025)</small>
+
+Para ser titular de la Secretaría de la Contraloría General se deben cumplir los requisitos siguientes:
+
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 I. Tener ciudadanía mexicana y estar en pleno goce y ejercicio de sus derechos civiles;
 
-II. Acreditar experiencia mínima de tres años, en materias de transparencia, evaluación, fiscalización, rendición de cuentas, contabilidad gubernamental, control interno, responsabilidades administrativas o combate a la corrupción en la Administración Pública.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+II. Acreditar experiencia mínima de tres años en materias y/o ejercicio de transparencia, evaluación, fiscalización, rendición de cuentas, contabilidad gubernamental, control interno, responsabilidades administrativas o combate a la corrupción en la Administración Pública.
+
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 III. Haber cumplido treinta y cinco años de edad, al día del nombramiento;
 
-IV. Poseer al día del nombramiento, título profesional de nivel licenciatura, con antigüedad mínima de diez años;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+IV. Poseer, al día del nombramiento, título profesional de nivel licenciatura;
+
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 V. Gozar de buena reputación y no haber sido condenada o condenado por delito doloso que amerite pena corporal de más de un año de prisión, ni estar sujeta o sujeto a proceso penal. Si se tratare de robo, fraude, falsificación o abuso de confianza o cualquier otro cometido en contra del patrimonio, quedará inhabilitado para el cargo cualquiera que haya sido la pena;
 
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 VI. Presentar sus declaraciones de intereses, patrimonial y fiscal, de conformidad con la normatividad de la materia;
 
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 VII. No haber sido registrada o registrado como candidata o candidato, no haber desempeñado cargo alguno de elección popular y que no pertenezcan o militen en algún partido político en los últimos cuatro años anteriores al nombramiento;
+
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 VIII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores al nombramiento.
 
@@ -579,3 +597,11 @@ G.O. 26 DE MARZO DE 2021.
 PRIMERO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL PRIMER Y SEGUNDO PÁRRAFO, ASÍ COMO LAS FRACCIONES II Y IV, DEL ARTÍCULO 13 BIS, DE LA LEY DE AUDITORÍA Y CONTROL INTERNO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO: Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
