@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-136644"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2024-10-03"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136644&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-06-07"
 ---
 # LEY DE CULTURA CIVICA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el Número 108 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 7 de junio de 2019.
 
@@ -221,6 +223,10 @@ XXXVI. Trabajo en favor de la Comunidad: El número de horas que deberá servir 
 XXXVII. Unidad de Medida: A la Unidad de Medida y Actualización de la Ciudad de México vigente.
 
 XXXVIII. Espacio Público: El espacio público es el conjunto de bienes de uso común destinados a la generación y fomento de la interacción social, o bien, que permitan el desarrollo de las personas.
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+XXXIX. Vía Pública: Todo espacio de dominio público y uso común destinado al tránsito de personas peatonas y vehículos, así como a la prestación de servicios públicos y la instalación de infraestructura y mobiliario.
 
 ###### Artículo 4.
 
@@ -658,6 +664,22 @@ XVIII. Cometer las personas conductoras de vehículos motorizados, ya sea por ac
 
 XIX. Llevar los conductores del servicio de transporte público al interior del vehículo, a personas que los acompañen y que no sean usuarios, que los auxilien en el cobro del pasaje o a invitar a subirse a los usuarios o a distribuirse en la unidad, que obstaculicen el paso a los usuarios.
 
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+###### Artículo 28 Bis.
+
+Son infracciones especiales contra la seguridad ciudadana relacionadas con la ocupación de la vía y el espacio público:
+
+I. Apartar con cualquier objeto lugares de estacionamiento en la vía y espacio público;
+
+II. Obstaculizar o impedir de cualquier manera el uso y goce de la vía y espacio público para estacionarse;
+
+III. Exigir de cualquier manera a una persona la obtención de un pago por vigilar, estacionar o cuidar, lavar o asear vehículos, y
+
+IV. Aprovecharse indebidamente de la vía y el espacio público para obtener un beneficio.
+
+Para efectos de este artículo se aplicará la sanción correspondiente a las infracciones tipo F.
+
 ###### Artículo 29.
 
 Son infracciones contra el entorno urbano de la Ciudad:
@@ -738,15 +760,47 @@ La Persona Juzgadora, dependiendo de la gravedad de la infracción podrá impone
 
 Infracciones tipo E, se sancionarán de 20 y hasta 36 horas, inconmutables de trabajo en favor de la comunidad;
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 7 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
+Infracciones tipo F, se sancionarán de 24 hasta 36 horas de arresto inconmutable. La Persona Juzgadora impondrá la sanción máxima de 36 horas cuando la persona infractora sea presentada por la conducta señalada en la fracción III del artículo 28 BIS.
+
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 32.
 
 Para efectos del artículo anterior las infracciones se clasificarán de acuerdo al siguiente cuadro:
 
-> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 25.]</small>
+Artículo Fracción Clase
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 49; 1 DE AGOSTO DE 2019, PÁGINA 50; 1 DE MARZO DE 2023, PÁGINA 7; 3 DE OCTUBRE DE 2024, PÁGINA 20.]</small>
+26 I. A
+
+II, V, IX y X B
+
+III, IV, VI, VII y VIII D
+
+XI E
+
+27 II A
+
+III, V, y VI B
+
+I, IV y VII D
+
+28 I, III y IV B
+
+V, V BIS, VI, VII, VIII, X, C
+
+XII, XIII, XIV y XIX
+
+II, XI, XV, XVI, XVII y IX D
+
+28 BIS I, II, III y IV F
+
+29 I, II, III, IV, V, y VII B
+
+VI, VIII y XV D
+
+IX, X, XI, XII, XIII y XIV C
 
 ###### Artículo 33.
 
@@ -1202,9 +1256,11 @@ El procedimiento de mediación comunitaria se desahogará en un máximo de tres 
 
 ### CAPÍTULO IV. PROCEDIMIENTO POR QUEJA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 82.
 
-Las personas podrán presentar quejas orales o por escrito ante la Persona Juzgadora, por hechos constitutivos de probables infracciones; que considerará los elementos contenidos en la queja y si lo estima procedente, girará citatorio a la persona quejosa ya (sic) laPersonaPresunta (sic) Infractora.
+Las personas podrán presentar quejas orales, por escrito o de forma virtual en la plataforma habilitada por el Gobierno de la Ciudad de México ante la Persona Juzgadora por hechos constitutivos de probables infracciones; que considerará los elementos contenidos en la queja y si lo estima procedente, girará citatorio a la persona quejosa y a la persona presunta infractora.
 
 La queja deberá contener nombre y domicilio de las partes, relación de los hechos motivo de la queja y firma de la persona quejosa; asimismo cuando la persona quejosa lo considere relevante podrá presentar fotografías o videograbaciones relacionadas a la probable infracción, las cuales calificará la Persona Juzgadora y tendrán valor probatorio.
 
@@ -1845,3 +1901,25 @@ G.O. 3 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 28 Y SE MODIFICA EL ARTÍCULO 32 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 286 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LA FRACCIÓN XXXIX AL ARTÍCULO 3; EL ARTÍCULO 28 BIS PARA ESTABLECER INFRACCIONES ESPECIALES CONTRA LA SEGURIDAD CIUDADANA RELACIONADAS CON LA OCUPACIÓN DE LA VÍA Y ESPACIO PÚBLICO, ÚLTIMO PÁRRAFO AL ARTÍCULO 31; Y REFORMA EL ARTÍCULO 32 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a los treinta días naturales contados a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Gobierno de la Ciudad de México, a través de las Secretarías del Trabajo y Fomento al Empleo y de Desarrollo Económico, pondrán a disposición de las personas infractoras programas de empleo y apoyo a proyectos productivos.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 82, PÁRRAFO PRIMERO DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La Consejería Jurídica y de Servicios Legales de la Ciudad de México establecerá los supuestos y procedimientos mediante los cuales las personas podrán presentar quejas por infracciones cívicas a través de medios digitales, en coordinación con las instancias administrativas correspondientes.
+
+CUARTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
