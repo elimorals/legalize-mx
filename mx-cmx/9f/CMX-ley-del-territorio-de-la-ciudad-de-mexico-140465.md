@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-territorio-de-la-ciudad-de-mexico-140465"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2020-10-12"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-27"
 
 LEY DEL TERRITORIO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE AGOSTO DE 2025.
 
 Ley publicada en el número 251 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 30 de diciembre de 2019.
 
@@ -248,7 +248,9 @@ I. La Secretaría de Gobierno, quien ostentará la presidencia;
 
 II. La Secretaría de Administración y Finanzas;
 
-III. La Secretaria de Desarrollo Urbano y Vivienda;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+
+III. La Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
 IV. La Consejería Jurídica y de Servicios Legales; y
 
@@ -386,11 +388,13 @@ a) La Dirección General de Regularización Territorial,
 
 b) La Dirección General del Registro Público de la Propiedad y Comercio.
 
-II. De la Secretaría de Desarrollo Urbano y Vivienda:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 27 DE AGOSTO DE 2025)</small>
 
-a) La Dirección General de Control y Administración Urbana;
+II. De la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
-b) La Coordinación General de Desarrollo Urbano.
+a) La Dirección General de Control y Administración Urbana, o su equivalente;
+
+b) La Coordinación General de Desarrollo Urbano, o su equivalente.
 
 III. De la Secretaría de Administración y Finanzas:
 
@@ -918,9 +922,11 @@ Las alcaldías con el objeto de preservar los límites territoriales tendrán un
 
 ### Capítulo Único. De la cartografía
 
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 81.
 
-El Instituto de Planeación, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda y la Agencia elaborarán y actualizarán la cartografía digital oficial, así como el mapa físico y político, para la representación de los límites territoriales de la Ciudad de México.
+El Instituto de Planeación, en coordinación con la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana y la Agencia elaborará y actualizarán la cartografía digital oficial, así como el mapa físico y político, para la representación de los límites territoriales de la Ciudad de México.
 
 ###### Artículo 82.
 
@@ -961,3 +967,11 @@ G.O. 12 DE OCTUBRE DE 2020.
 PRIMERO. Remítase a la Jefatura de Gobierno de la Ciudad de México, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 11, LA FRACCIÓN II DEL ARTÍCULO 20 Y EL ARTÍCULO 81 DE LA LEY DEL TERRITORIO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.– Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
