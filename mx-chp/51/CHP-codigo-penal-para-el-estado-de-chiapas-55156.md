@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2025-07-02"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -5005,6 +5005,20 @@ A quién cometa los delitos previstos en las fracciones VII, VIII, IX, XI, XII, 
 
 A quien cometa el delito previsto en la fracción XX, se le impondrá la pena de seis a diez años de prisión y de quinientos a mil quinientos días multa.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2025)</small>
+
+###### Artículo 424 Bis.
+
+Se impondrán de dos a seis años de prisión, y una multa de quinientas a mil Unidades de Medida y Actualización a la persona servidora pública que, de forma indebida difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audiograbe, fotografíe, filme, reproduzca, comercialice, oferte, intercambie o comparta imágenes, audios, videos, información reservada, documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos relacionados con el procedimiento penal o productos con uno o varios hechos, señalados por la Ley como delitos.
+
+Las sanciones previstas en el primer párrafo del presente artículo aumentarán en una tercera parte, sí la información que se difunda:
+
+I. Sea con el fin de menoscabar la dignidad de las víctimas o de sus familiares;
+
+II. Tratare de cadáveres de mujeres, niñas, niños o adolescentes, o
+
+III. Sea de las circunstancias de su muerte, de las lesiones o del estado de salud de la víctima.
+
 ### Capítulo XI. Tortura e Incomunicación
 
 ###### Artículo 425.
@@ -6548,3 +6562,11 @@ P.O. 2 DE JULIO DE 2025.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 309 DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 424 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS, EN MATERIA DE DELITOS COMETIDOS EN LA PROCURACIÓN E IMPARTICIÓN DE JUSTICIA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
