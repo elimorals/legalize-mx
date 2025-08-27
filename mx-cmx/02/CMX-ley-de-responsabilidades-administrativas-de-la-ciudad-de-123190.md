@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidades-administrativas-de-la-ciudad-de-123190
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2022-06-15"
+last_updated: "2025-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123190&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-08-31"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -1922,9 +1922,9 @@ SÉPTIMO. El Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad 
 
 OCTAVO. Se derogan las normas jurídicas que se opongan al presente Decreto.
 
-> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
 
-NOVENO. Por única ocasión y concretamente por lo que hace al Presupuesto Participativo a que hacen referencia los artículos 26, Apartado B de la Constitución Política de la Ciudad de México, 117 de la Ley de Participación Ciudadana de la Ciudad de México, así como 18 y 21 del Decreto de Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2021, las Alcaldías podrán comprometer recursos a más tardar el 30 de noviembre de 2021, respecto de los conceptos de gasto dispuestos en el artículo 63, párrafo segundo de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México. Los compromisos que se establezcan en el periodo señalado deberán estar efectivamente devengados al 31 de diciembre de 2021.
+NOVENO. Por única ocasión y concretamente por lo que hace al Presupuesto Participativo a que hacen referencia los artículos 26, Apartado B de la Constitución Política de la Ciudad de México, 117 de la Ley de Participación Ciudadana de la Ciudad de México, así como 16 y 17 del Decreto de Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2025, las Alcaldías podrán comprometer recursos a más tardar el 15 de diciembre de 2025, respecto de los conceptos de gasto dispuestos en el artículo 63, párrafo segundo de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
 
 G.O. 4 DE MARZO DE 2019.
 
@@ -1977,3 +1977,11 @@ G.O. 15 DE JUNIO DE 2022.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO NOVENO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, SE ADICIONA UN ARTÍCULO 63-BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN CAPÍTULO XIV AL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, UN ARTÍCULO 276-BIS Y UN ARTÍCULO 276-TER AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 482 TOMO II, DE FECHA 31 DE DICIEMBRE DE 2018, CUYO ARTÍCULO NOVENO TRANSITORIO FUE ADICIONADO MEDIANTE DECRETO PUBLICADO EL 11 DE NOVIEMBRE DE 2021”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefa de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México, y
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
