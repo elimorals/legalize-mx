@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-el-desarrollo-de-la-competitividad-de-la-micro-100198"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-27"
-last_updated: "2019-08-01"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
-
-(REPUBLICADO EL DECRETO NÚMERO 99, P.O. 21 DE ENERO DE 2016)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de marzo de 2014.
 
@@ -47,11 +45,11 @@ LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPR
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-(REFORMADO, P.O. 1 DE ENERO DE 2016) (REPUBLICADO, P.O. 21 DE ENERO DE 2016)
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto, fomentar la creación de las micro, pequeñas y medianas empresas, así como impulsar la creación de incubadoras de negocios en los centros de educación media superior y superior, que faciliten el establecimiento de empresas formales y competitivas, y brindar el apoyo para su viabilidad, productividad, competitividad y sustentabilidad, a través de una política que establezca, programas, acciones y objetivos.
+La presente Ley es de orden público e interés social y tiene por objeto, fomentar la creación de las micro, pequeñas y medianas empresas, así como impulsar la creación de incubadoras de negocios en los centros de educación media superior y superior, que faciliten el establecimiento de empresas formales y competitivas, y brindar el apoyo para su viabilidad, productividad, competitividad y sustentabilidad, a través de una política que establezca, programas, acciones y objetivos, atendiendo la perspectiva de género, impulsando, promoviendo y fomentando la igualdad sustantiva entre mujeres y hombres.
 
 ###### ARTÍCULO 2.
 
@@ -147,7 +145,9 @@ II. Promover:
 
 a) Un entorno favorable para que las MIPYMES sean competitivas en los mercados estatales, nacionales e internacionales;
 
-b) La creación de una cultura empresarial globalizada y de procedimientos, prácticas y normas que contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente de las MIPYMES;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+b) La creación de una cultura empresarial globalizada con perspectiva de género y de procedimientos, prácticas y normas que contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente de las MIPYMES;
 
 c) El acceso al financiamiento para las MIPYMES, la capitalización de las empresas, incremento de la producción, constitución de nuevas empresas y consolidación de las existentes;
 
@@ -165,9 +165,11 @@ i) La cooperación y asociación de las MIPYMES, a través de sus organizaciones
 
 ### CAPÍTULO II. POLÍTICA PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO 6.
 
-La Política para el Desarrollo de la Competitividad de las MIPYMES es el instrumento que contiene el conjunto de objetivos, acciones y programas que encausaran, darán rumbo y seguimiento a las MIPYMES estatales, con el objeto de fomentar su competitividad y desarrollo económico a través de mecanismos, programas y acciones que fortalezcan y promocionen la Vocación Regional, con base en la asignación de prioridades, que permitan detectar y aprovechar las inversiones municipales, regionales, estatales, nacionales y extranjeras.
+La Política para el Desarrollo de la Competitividad de las MIPYMES es el instrumento que contiene el conjunto de objetivos, acciones y programas que encausarán, darán rumbo y seguimiento a las MIPYMES estatales, con el objeto de fomentar su competitividad y desarrollo económico a través de mecanismos, programas, acciones con perspectiva de género, igualdad sustantiva entre mujeres y hombres, para fortalecer y promocionar la Vocación Regional, con base en la asignación de prioridades, que permitan detectar y aprovechar las inversiones municipales, regionales, estatales, nacionales y extranjeras.
 
 ###### ARTÍCULO 7.
 
@@ -337,7 +339,9 @@ Con el objeto de lograr la coordinación efectiva de los programas de fomento a 
 
 Para la ejecución de la política para el desarrollo de la competitividad de las MIPYMES, se deberán considerar los siguientes programas:
 
-I. Capacitación y formación empresarial, así como de asesoría y consultoría para las MIPYMES;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+I. Capacitación y formación empresarial con perspectiva de género, así como de asesoría y consultoría para las MIPYMES;
 
 II. Procesos de certificación de calidad y competitividad para las MIPYMES, de acuerdo a su actividad económica;
 
@@ -708,3 +712,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos correspondientes.
 
 TERCERO. La Secretaría de Desarrollo Económico del Gobierno del Estado contará con un término de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto para su cumplimiento. En caso de que, derivado de su asignación presupuestal no contara con el recurso económico necesario para dicho (sic) efectos, podrá auxiliarse de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 204 POR EL QUE “SE REFORMA EL ARTÍCULO 1, EL INCISO B) DE LA FRACCIÓN II DEL ARTÍCULO 5, Y LOS ARTÍCULOS 6 Y 12 FRACCIÓN I DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
