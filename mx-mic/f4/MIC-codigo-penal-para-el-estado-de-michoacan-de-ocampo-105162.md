@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2025-05-30"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2873,9 +2873,17 @@ I. Siendo propietario o poseedor de una cosa mueble, que sin tener la libre disp
 
 II. Siendo gerente, directivo, administrador, mandatario o intermediario de personas jurídicas, constructores o vendedores que, habiendo recibido dinero, títulos o valores por el importe total o parcial del precio de alguna compraventa de inmuebles o para constituir un gravamen real sobre éstos, no los destine al objeto de operación concertada y disponga de ellos en provecho propio o de un tercero;
 
-III. Siendo dueño disponga o substraiga una cosa, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial o con motivo de un contrato; y,
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-IV. Disponga de la cosa depositada, o la substraiga el depositario judicial o el designado por o ante las autoridades, administrativas o del trabajo.
+III. Siendo dueño disponga o substraiga una cosa, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial o con motivo de un contrato;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+IV. Disponga de la cosa depositada, o la substraiga el depositario judicial o el designado por o ante las autoridades, administrativas o del trabajo; y,
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+V. Siendo depositario o encargado de tarjetas bancarias o de tarjetas en las que se tengan los ingresos de beneficios sociales, disponga para sí o para tercero del efectivo. Cuando el titular de la tarjeta sea persona menor de edad, adulta mayor o con discapacidad, la pena se aumentará hasta en una tercera parte.
 
 ###### Artículo 216.
 
@@ -4928,5 +4936,11 @@ CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar l
 P.O. 30 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 185 POR EL QUE “SE ADICIONAN LA FRACCIÓN IX AL ARTÍCULO 24, LOS ARTÍCULOS 163 QUINQUIES Y 163 SEXIES; Y, EL CAPÍTULO VII AL TÍTULO CUARTO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 202.- PRIMERO.- SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- SEGUNDO SE SE (SIC) ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 88 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
