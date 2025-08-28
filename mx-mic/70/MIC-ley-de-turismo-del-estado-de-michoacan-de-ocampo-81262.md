@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2023-07-25"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -127,6 +127,10 @@ XVIII. TURISTA: Quien hace turismo o disfruta de la actividad turística; y,
 
 XIX. ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE: Son aquellas regiones, municipios o lugares que, por sus características sociales, geográficas, históricas, culturales o ambientales, constituyen un atractivo turístico y son susceptibles de promocionarlas y proporcionarles el apoyo para su desarrollo turístico preferente.
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+XX. INDUSTRIA TURÍSTICA: Establecimientos cuya actividad principal es una actividad característica del turismo, así como las actividades que desarrollan típicamente productos característicos del turismo.
+
 ###### ARTÍCULO 5.
 
 El Ejecutivo debe reconocer y promover todos los tipos lícitos de turismo que puedan desarrollarse y aprovecharse en el Estado. El Ejecutivo diseñará políticas públicas que fomenten a este sector, estando alineados a la clasificación de la Organización Mundial de Turismo así como a la de la Secretaría de Turismo del Gobierno Federal.
@@ -165,7 +169,9 @@ IV. Formular, ejecutar y evaluar el Programa Estatal de Turismo, bajo las direct
 
 V. Establecer el Consejo Consultivo Estatal de Turismo;
 
-VI. Concertar con los sectores privado y social, las acciones tendientes a detonar programas a favor de la actividad turística;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+VI. Concertar con los sectores privado y social, las acciones tendientes a detonar programas a favor de la actividad e industria turística;
 
 VII. Formular, evaluar, ejecutar y regular los planes regionales y programas especiales, con la participación de los municipios en los que se desarrollen;
 
@@ -245,7 +251,9 @@ IX. Formular y conducir la política municipal de información y difusión en ma
 
 X. Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta;
 
-XI. Promover el impulso de las micro, pequeñas y medianas empresas turísticas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+XI. Promover el impulso de las micro, pequeñas y medianas empresas turísticas, así como de la industria turística de los municipios;
 
 XII. Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
@@ -413,7 +421,9 @@ VI. La capacitación permanente y equitativa a los prestadores de servicios tur�
 
 VII. La promoción, atención e incentivos para generar alternativas de turismo social, local y para los grupos vulnerables;
 
-VIII. La declaratoria de Zonas de Desarrollo Turístico Sustentable, junto con la instrumentación de programas orientados al mejoramiento de la calidad de vida de los habitantes de las comunidades; y,
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+VIII. La declaratoria de Zonas de Desarrollo Turístico Sustentable, junto con la instrumentación de programas orientados al mejoramiento de la calidad de vida de los habitantes de las comunidades; así como, la de Polos de Desarrollo Ambiental, con un enfoque en la planificación y gestión de áreas geográficas para la promoción del desarrollo económico y social de manera sostenible, sin comprometer la salud del ecosistema ni la calidad de vida de las personas; y,
 
 IX. El establecimiento de políticas para impulsar la concientización de la población acerca de las bondades económicas y sociales de la actividad turística, la importancia del cuidado y la preservación de los valores y el patrimonio turísticos a través de la introducción de la cultura turística desde la educación básica.
 
@@ -633,7 +643,9 @@ II. La realización de proyectos en materia de turismo;
 
 III. Elaboración y difusión de campañas de publicidad turística nacional e internacional;
 
-IV. Participar con los sectores público, social y privado, en la constitución, fomento, desarrollo y operación de empresas, cualquiera que sea su naturaleza jurídica, dedicadas a la actividad turística;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+IV. Participar con los sectores público, social y privado, en la constitución, fomento, desarrollo, fortalecimiento y estímulo de la industria turística, así como el otorgamiento de incentivos para incrementar su calidad, competitividad y operación de empresas cualquiera que sea su naturaleza jurídica, dedicadas a la actividad turística;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2014)</small>
 
@@ -1418,3 +1430,25 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su public
 TERCERO. El Ejecutivo del Estado cuenta con 60 días, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones reglamentarias correspondientes.
 
 CUARTO. Los nuevos integrantes del Consejo Consultivo Turístico del Estado, deberán quedar integrados en la sesión próxima inmediata que se lleve a cabo, después de la entrada en vigor del presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 211.- ÚNICO.- SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 4; Y, SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 8, LA FRACCIÓN XI DEL ARTÍCULO 10 Y LA FRACCIÓN IV DEL ARTÍCULO 65 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto de Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 219.- ÚNICO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 30 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
