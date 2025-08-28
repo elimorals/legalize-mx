@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6519
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2025-07-28"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el jueves 1 de enero de 2009.
 
@@ -84,6 +84,10 @@ XIII. Transversalidad: Es el proceso que permite garantizar la incorporación de
 > <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
 
 XIV. Nuevas Masculinidades: Es ejercer la masculinidad de manera consciente, respetuosa y equitativa, con la finalidad de erradicar roles y estereotipos de género que promueven la desigualdad entre mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+XV. Brecha salarial de género: Es la diferencia de retribución salarial por razones de género, respecto a la realización de un trabajo remunerado de igual valor.
 
 ###### Artículo 3º.
 
@@ -257,6 +261,10 @@ V. Erradica los estereotipos establecidos en función del sexo.
 
 VI. Fomenta y promueve el ejercicio de nuevas masculinidades.
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+VII. El establecimiento de medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género.
+
 ###### Artículo 18.
 
 La política estatal que mandata la presente Ley, definida en el programa estatal y encausada a través del Sistema Estatal; deberá impulsar acciones interrelacionadas para alcanzar los objetivos que consoliden la igualdad entre mujeres y hombres, conforme a los propósitos y acciones específicas a que se refiere este título.
@@ -365,11 +373,15 @@ III. Fortalecer los liderazgos sobre la base de la igualdad de género.
 
 Para los efectos de lo previsto en el artículo anterior, las autoridades y organismos públicos desarrollarán las siguientes acciones:
 
-I. Revisar los sistemas fiscales para superar los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+I. Revisar los sistemas fiscales para superar los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo o género y la brecha salarial de género;
 
 ll. Incorporar a la educación, formación técnica y profesional a mujeres y hombres sin distinción;
 
-III. Fomentar el acceso al trabajo de las personas que, en razón de su sexo, estén relegadas de puestos directivos, especialmente;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+III. Fomentar el acceso al trabajo de las personas que, debido a su sexo o género, están relegadas de puestos directivos, para contribuir a disminuir y erradicar la brecha salarial de género;
 
 IV. Establecer la coordinación de los sistemas estadísticos, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia nacional laboral;
 
@@ -592,3 +604,11 @@ SEGUNDO. El Titular del Poder Ejecutivo del Estado, a través de las dependencia
 Para tal efecto, podrá coordinarse y auxiliarse de instituciones académicas, organismos autónomos, organizaciones de la sociedad civil y personas expertas en la materia, a fin de garantizar la imparcialidad, neutralidad y apego al rígor técnico y científico en el diseño de los contenidos.
 
 TERCERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 197 POR EL QUE “SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 2°, LA FRACCIÓN VII AL ARTÍCULO 17; Y, SE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 35 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
