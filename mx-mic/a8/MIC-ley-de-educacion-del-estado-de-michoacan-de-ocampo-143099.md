@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2024-09-05"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -319,13 +319,17 @@ XIII. Garantizar la distribución a los educandos de los libros de texto gratuit
 
 XIV. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del territorio estatal;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-XV. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia; y,
+XV. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia;
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-XVI. Desde una perspectiva de género, se fomentará la educación menstrual y se facilitará el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes que lo requieran, en las escuelas públicas pertenecientes al Sistema Educativo Estatal.
+XVI. Desde una perspectiva de género, se fomentará la educación menstrual y se facilitará el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes que lo requieran, en las escuelas públicas pertenecientes al Sistema Educativo Estatal; y,
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+XVII. Propiciar acciones de información y difusión de medidas orientadas a prevenir y concientizar sobre el riesgo de la adicción a los videojuegos.
 
 ###### Artículo 30.
 
@@ -583,7 +587,9 @@ XIV. La promoción del emprendimiento social, el fomento de la cultura del ahorr
 
 XV. El aprendizaje y fomento de la cultura jurídica y de la transparencia, la rendición de cuentas, la integridad, la protección de datos personales, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
-XVI. La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+XVI. La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental y de animales no humanos;
 
 XVII. El aprendizaje y fomento de la cultura de protección civil, integrando los elementos básicos de prevención, autoprotección y resiliencia, así como, la mitigación y adaptación ante los efectos que representa el cambio climático y los riesgos inherentes a otros fenómenos naturales;
 
@@ -967,6 +973,26 @@ La Secretaría, en coordinación con los organismos y autoridades correspondient
 
 El desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyarán en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+###### Artículo 83 Bis.
+
+La Secretaría deberá elaborar el protocolo para el uso adecuado de la Inteligencia Artificial en instituciones educativas de nivel medio superior y superior en el Estado de Michoacán, cuyo objetivo es regular su utilización adecuada en el ámbito educativo para garantizar su aprovechamiento como herramienta de apoyo al aprendizaje, conteniendo elementos éticos y pedagógicos orientados al fomento del pensamiento crítico y la autonomía de los educandos.
+
+El protocolo deberá contener los siguientes elementos, como criterios mínimos:
+
+I. Uso complementario de la Inteligencia Artificial, en los procesos de aprendizaje-enseñanza;
+
+II. Restricciones al uso no supervisado;
+
+III. Regulación institucional;
+
+IV. Capacitación y sensibilización a la comunidad educativa;
+
+V. Participación de madres, padres y tutores; y,
+
+VI. Medidas por incumplimiento.
+
 ### CAPÍTULO VI. DE LA EDUCACIÓN INDÍGENA
 
 (NOTA: EL 31 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS III Y IV, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 168/2020 Y SU ACUMULADA 177/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
@@ -1308,6 +1334,10 @@ Las autoridades educativas promoverán ante las autoridades correspondientes, la
 La Secretaría observará las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, hábitos de higiene personal y hábitos para una correcta higiene bucal, entre otros.
 
 En materia de la promoción de la salud escolar, la Secretaría implementara medidas y acciones observando las disposiciones emitidas por la autoridad federal.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+La Secretaría, conforme a las disposiciones emitidas por la autoridad federal, podrá aplicar y difundir programas orientados a la concientización sobre la importancia de la prevención y detección temprana del cáncer de mama.
 
 Las cooperativas escolares tendrán el compromiso de fomentar estilos de vida saludables en la alimentación de los educandos y su operación será con apego a los lineamientos que establezcan la autoridad educativa federal y las demás disposiciones aplicables.
 
@@ -2634,3 +2664,29 @@ Se concede al Consejo 180 días hábiles a fin de que realice los ajustes necesa
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 209 POR EL QUE "SE REFORMAN LAS FRACCIONES XV Y XVI; Y, SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 29 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 216.- ÚNICO.- SE ADICIONA UN TERCER PÁRRAFO, RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 119 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 217.- ÚNICO.- SE ADICIONA EL ARTÍCULO 83 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Educación en el Estado, elaborará el protocolo a que se refiere el presente Decreto, dentro de un término de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 218.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 53 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
