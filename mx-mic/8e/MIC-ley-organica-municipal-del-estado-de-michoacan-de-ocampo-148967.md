@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2025-03-08"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -718,6 +718,14 @@ Todos los documentos que se generen en las sesiones virtuales podrán ser firmad
 ###### Artículo 36.
 
 Las sesiones ordinarias, extraordinarias y solemnes serán públicas, deberán celebrarse en el recinto oficial del Ayuntamiento, y las solemnes en el recinto que para tal efecto acuerde el propio Ayuntamiento mediante declaratoria oficial, a excepción de las autorizadas virtuales; debiendo establecerse criterios generales de periodicidad para las sesiones de Cabildo, en la reglamentación correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2025)</small>
+
+Los Ayuntamientos deberán expedir un reglamento que establezca los criterios generales de periodicidad, convocatoria y desarrollo de las sesiones del Cabildo y funcionamiento de comisiones, el cual deberá cumplir con los requisitos mínimos establecidos en la presente ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2025)</small>
+
+Los integrantes del Cabildo que no asistan a las sesiones sin causa justificada serán sujetos a una multa, conforme a lo que determine el reglamento correspondiente.
 
 En casos especiales y previo acuerdo podrán también celebrarse las sesiones en otro lugar abierto o cerrado, dentro de la jurisdicción municipal, además deberán hacer lo conducente para que a través de plataformas digitales puedan transmitir las sesiones en vivo y queden registros en video de las sesiones, conforme a las capacidades técnicas y presupuestarias de los Municipios.
 
@@ -1673,15 +1681,21 @@ XIV. Las que determinen esta Ley, el Bando de Gobierno Municipal, los Reglamento
 
 La Secretaria o el Secretario del Ayuntamiento será nombrado por los integrantes del Cabildo, por mayoría absoluta de votos a propuesta de la Presidenta o Presidente Municipal, en la primera sesión ordinaria posterior a la toma de posesión del Ayuntamiento entrante, solo podrá ser removida o removido por causa grave calificada como tal por la mayoría de los miembros del Cabildo.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 71.
 
 La Secretaria o Secretario del Ayuntamiento deberá cumplir con los siguientes Requisitos:
 
 I. Ser ciudadana o ciudadano michoacano en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Ser profesionista o cumplir con experiencia de cuando menos dos años en responsabilidades afines; y,
+II. Ser profesionista o cumplir con experiencia de cuando menos dos años en responsabilidades afines;
 
-III. No haber sido condenada o condenado por delito doloso.
+III. No haber sido condenada o condenado por delito doloso;
+
+IV. No ser cónyuge o concubinario, pariente consanguíneo en línea recta sin limitación de grado o colateral hasta el segundo grado, o por afinidad dentro del segundo grado, o por afinidad dentro del segundo grado, de la Presidenta o Presidente Municipal, Regidoras o Regidores, Síndica o Síndico correspondientes; y,
+
+V. No encontrarse inscrita o inscrito en el Registro Nacional de Obligaciones Alimentarias.
 
 ###### Artículo 72.
 
@@ -1987,7 +2001,13 @@ VII. Apoyar y fomentar la nutrición y las acciones de medicina preventiva, diri
 
 VIII. Promover el desarrollo de la comunidad en territorio municipal;
 
-IX. Prestar servicios de asistencia jurídica y de orientación social a las niñas, niños y adolescentes, a las y los adultos mayores y las personas con discapacidad, sin recursos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2025)</small>
+
+IX. Prestar servicios de asistencia jurídica y de orientación social a las niñas, niños y adolescentes, a las y los adultos mayores y las personas con discapacidad, sin recursos.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+Prestar servicios de asistencia jurídica en la presentación de denuncias penales a las y los adultos mayores y las personas con discapacidad, que sean beneficiarios de cualquier tipo de prestación o beneficio social, que informen ser víctimas del delito de abuso de confianza específico;
 
 X. Intervenir en el ejercicio de la tutela de niñas, niños y adolescentes, que corresponda al Estado; en los términos de la ley y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que los afecten de acuerdo a la ley;
 
@@ -3053,7 +3073,13 @@ VIII. Los demás que sean procedentes de conformidad con las atribuciones munici
 
 Los Ayuntamientos deberán difundir permanentemente el Bando de Gobierno Municipal y los Reglamentos Municipales para orientar, vigilar y garantizar su cumplimiento.
 
-El Bando de Gobierno Municipal y los Reglamentos Municipales deberán revisarse y actualizarse el primer bimestre de cada año, de conformidad con los procedimientos que establezca el Ayuntamiento, cumpliendo con las disposiciones contenidas en la presente Ley y con las formalidades que se establezcan en los mismos.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+El Bando de Gobierno Municipal y los Reglamentos Municipales deberán revisarse y actualizarse del primero de enero al treinta y uno de diciembre del año siguiente al de la toma de protesta del Ayuntamiento, de conformidad con los procedimientos que establezca el Ayuntamiento, cumpliendo con las disposiciones contenidas en la presente Ley y con las formalidades que se establezcan en los mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2025)</small>
+
+En aquellos casos en que, derivado del proceso de revisión, se determine que no existe necesidad de modificar o actualizar el Bando de Gobierno Municipal y los Reglamentos Municipales, el Ayuntamiento deberá dejar constancia de dicha determinación mediante el acta administrativa correspondiente, debidamente fundada y motivada, señalando las razones jurídicas, técnicas y administrativas que justifiquen su vigencia en los términos actuales.
 
 ###### Artículo 181.
 
@@ -3389,9 +3415,11 @@ Cuando no sea posible que el suplente entre en funciones, el Ayuntamiento dará 
 
 Cuando los actos de la Secretaria o Secretario, Tesorera o Tesorero y Contralora o Contralor contravengan el interés municipal, serán revisados por la Presidenta o Presidente Municipal y turnados en su caso al Ayuntamiento para que resuelva en definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 211.
 
-Los integrantes de los Ayuntamientos que falten a una Sesión de Cabildo o reunión de comisión sin causa justificada, serán sancionados con multa por el equivalente a cinco UMAS. En caso de tener más de cinco ausencias injustificadas a sesiones consecutivas, se les aplicará una sanción de cincuenta UMAS por cada inasistencia, mismas que serán descontadas directamente de su dieta o salario correspondiente. Se deberá incluir un apartado en el informe sobre las inasistencias de los integrantes del Cabildo a las sesiones del mismo.
+Los integrantes de los Ayuntamientos que falten a una Sesión de Cabildo o reunión de comisión sin causa justificada, serán sancionados con multa por el equivalente a cinco UMAS. En caso de tener más de cinco ausencias injustificadas, se les aplicará una sanción de cincuenta UMAS por cada inasistencia, mismas que serán descontadas directamente de su dieta o salario correspondiente. Se deberá incluir un apartado en el informe sobre las inasistencias de los integrantes del Cabildo a las sesiones del mismo.
 
 Las faltas reglamentarias u omisiones de las Jefas o Jefes de Tenencia, serán sancionadas con multa de una UMA y con el doble en caso de reincidencia, o decretar la destitución si fuera el caso.
 
@@ -3614,3 +3642,23 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 202.- PRIMERO.- SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- SEGUNDO.- SE SE (SIC) ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 88 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 207.- ÚNICO. SE REFORMA EL ARTÍCULO 71 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 208 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 36, 180 Y 211 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los Ayuntamientos deberán expedir el reglamento de desarrollo de sesiones del Cabildo y funcionamiento de comisiones, dentro de los 90 días posteriores a la entrada en vigor del presente Decreto.
