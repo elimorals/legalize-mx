@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2022-06-07"
+last_updated: "2025-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 28 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE AGOSTO DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento II del Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -1454,3 +1456,103 @@ Artículo primero. Este decreto entrará en vigor al día siguiente al de su pub
 Cláusula Derogatoria
 
 Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de las disposiciones relativas al Tribunal de Disciplina Judicial, que lo harán el 1 de septiembre 2025, conforme a lo previsto en el artículo sexto transitorio del Decreto 55/2025 por el que se modifica la Constitución Política del Estado de Yucatán, en materia de reforma al Poder Judicial del Estado de Yucatán, hasta entonces, el órgano de control interno del Tribunal Superior de Justicia y del Consejo de la Judicatura ejercerán las facultades que esta ley otorga al órgano de control y disciplina del Poder Judicial como autoridad garante estatal.
+
+Las disposiciones relativas al Órgano de Administración Judicial entrarán en vigor en el año 2027, conforme a lo previsto en el artículo décimo primero transitorio del referido decreto, hasta entonces el Consejo de la Judicatura ejercerá las facultades que esta ley otorga al Órgano de Administración Judicial como sujeto obligado.
+
+Abrogación
+
+Artículo segundo. A partir de la entrada en vigor de este decreto, quedarán abrogadas la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 2 de mayo de 2016, y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 17 de julio de 2017.
+
+Obligación normativa
+
+Artículo tercero. La persona titular del Ejecutivo del estado deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, incluida la emisión del reglamento por el que se regule al órgano desconcentrado Transparencia para el Pueblo de Yucatán, dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto, a fin de armonizarlos a lo previsto en este.
+
+Obligación normativa
+
+Artículo cuarto. El órgano de control y disciplina del Poder Judicial; los órganos internos de control de los órganos constitucionales autónomos y la contraloría interna del Congreso del estado; en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este decreto.
+
+Obligaciones normativas
+
+Artículo quinto. Los sujetos obligados a que se refiere este decreto deberán expedir, dentro de los ciento ochenta días naturales contados a partir de su entrada en vigor, la normativa necesaria para regular sus unidades y comités de transparencia y dar cumplimiento a las disposiciones contenidas en este decreto.
+
+Procedimientos y asuntos en trámite
+
+Artículo sexto. Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Aplicación de la normativa vigente de los sujetos obligados
+
+Artículo séptimo. En tanto entra en vigor la normativa a que se refiere el artículo transitorio anterior, los sujetos obligados continuarán aplicando, en lo que no se oponga a esta ley, su normativa vigente.
+
+Cese de funciones y atribuciones de los comisionados del instituto estatal
+
+Artículo octavo. Los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales concluirán sus funciones y atribuciones a la entrada en vigor de este decreto, conforme a lo establecido en el transitorio sexto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024.
+
+Referencia al instituto
+
+Artículo noveno. En lo sucesivo, cuando en alguna norma se haga referencia al Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se entenderá que se refiere a los entes públicos que adquieren sus atribuciones o funciones, según corresponda.
+
+Derechos laborales
+
+Artículo décimo. Los derechos laborales de las personas servidoras públicas del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales serán respetados en los términos de la legislación aplicable.
+
+Las personas servidoras públicas del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales que dejen de prestar sus servicios en el mencionado instituto y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas de la Secretaría Anticorrupción y Buen Gobierno habilitados para tales efectos o en los medios que esta determine y conforme a la normativa aplicable a la Administración Pública del estado de Yucatán. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+Las personas que dentro de los diez días previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, incluyendo a las personas Comisionadas, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda, a la persona servidora pública que la Secretaría Anticorrupción y Buen Gobierno designe y conforme a la normativa aplicable a la Administración Pública del estado de Yucatán, en los sistemas de la referida dependencia habilitados para tales efectos o en los medios que ésta determine, en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+Transferencia de recursos
+
+Artículo décimo primero. Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales serán transferidos en un plazo no mayor a veinte días hábiles a partir de la entrada en vigor de este decreto, a la Secretaría Anticorrupción y Buen Gobierno.
+
+Las bases de datos, registros y sistemas informáticos con que cuenta Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, incluidos aquellos que contengan registros históricos, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno.
+
+Asuntos en trámite en materia de acceso a la información
+
+Artículo décimo segundo. Los procedimientos iniciados con anterioridad a la entrada en vigor de este decreto ante el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en materia de acceso a la información pública, se sustanciarán ante Transparencia para el Pueblo de Yucatán conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en materia de acceso a la información pública, se llevará a cabo por Transparencia para el Pueblo de Yucatán.
+
+Transparencia para el Pueblo de Yucatán podrá remitir a la autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+Asuntos en trámite en materia de protección de datos
+
+Artículo décimo tercero. Los procedimientos iniciados con anterioridad a la entrada en vigor de este decreto ante el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio ante la Secretaría Anticorrupción y Buen Gobierno a que se refiere este decreto.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevará a cabo por la Secretaría Anticorrupción y Buen Gobierno.
+
+La Secretaría Anticorrupción y Buen Gobierno podrá remitir a la autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+Transferencia de expedientes y archivos
+
+Artículo décimo cuarto. Los expedientes y archivos que a la entrada en vigor de este decreto estén a cargo del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales serán transferidos a la Secretaría Anticorrupción y Buen Gobierno en un plazo no mayor a veinte días hábiles contado a partir de la referida entrada en vigor de este decreto.
+
+La Secretaría Anticorrupción y Buen Gobierno en un plazo no mayor a treinta días naturales contado a partir de que reciba los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
+
+El órgano interno de control del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, transferirá todos los expedientes y archivos al Órgano Interno de Control de la Secretaría Anticorrupción y Buen Gobierno, dentro de los veinte días hábiles siguientes a la entrada en vigor de este decreto, serán tramitados y resueltos por dicho órgano receptor conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Integración del comité de transferencia
+
+Artículo décimo quinto. Para efectos de lo dispuesto en los transitorios décimo, décimo primero y décimo segundo de este decreto, el Pleno del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales deberá integrar, a partir de la entrada en vigor de este decreto, un comité de transferencia conformado por los comisionados del mencionado instituto, seis personas servidoras públicas de este con al menos el nivel de dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios transitorios, una persona representante de la Consejería Jurídica, una persona representante de la Secretaría de Administración y Finanzas y una persona representante de la Secretaría Anticorrupción y Buen Gobierno.
+
+El comité de transferencia estará vigente por un periodo de 30 días naturales, en el que sus integrantes participarán con las diversas autoridades competentes para la correspondiente entrega de los asuntos que se señalan en los transitorios antes citados, así como para realizar las demás acciones que se consideren necesarias para tales efectos.
+
+Instalación del comité
+
+Artículo décimo sexto. El Comité del Subsistema Estatal de Acceso a la Información Pública deberá instalarse a más tardar en sesenta días naturales, contado a partir de la entrada en vigor del presente decreto, previa convocatoria que al efecto emita la Secretaría Anticorrupción y Buen Gobierno.
+
+Suspensión
+
+Artículo décimo séptimo. Para efectos de lo previsto en este decreto, se suspenden por un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades a que se refiere este decreto.
+
+Cláusula derogatoria
+
+Artículo décimo octavo. Se derogan todas las disposiciones de igual o menor rango que se opongan a este Decreto.
