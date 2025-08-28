@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2025-04-04"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -1333,11 +1333,11 @@ VI. No haber desempeñado cargo alguno de elección popular en los últimos cuat
 
 VII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 48.
 
-Son causas de responsabilidad del titular del Órgano Interno de Control, además de las que señala este Código para los servidores públicos del Instituto, las siguientes:
+Son causas de responsabilidad del titular del Órgano Interno de Control, además de las que señala este Código para los servidores públicos del Instituto y sin perjuicio de las responsabilidades administrativas establecidas en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo, las siguientes:
 
 a) Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la legislación en la materia;
 
@@ -1349,15 +1349,15 @@ d) Conducirse con parcialidad en el desempeño de sus funciones; y,
 
 e) Incurrir en alguna de las causas mencionadas en la legislación de Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 49.
 
-El titular del Órgano Interno de Control del Instituto deberá presentar al Consejo General, para su aprobación, un Programa Anual de Trabajo, que incluya lo relativo a la revisión y fiscalización, en el mes de enero de cada año, los resultados que se tengan de la aplicación de éste, deberán integrarse al informe anual de resultados de su gestión para entregarse al Consejo General, dentro de los tres meses siguientes a su conclusión.
+El titular del Órgano Interno de Control del Instituto contará con autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
 
-El titular del Órgano Interno de Control deberá acudir ante el Consejo General cuando así lo requiera el Consejero Presidente o a solicitud de la mayoría de los integrantes de aquel.
+Presentará al Consejo General, para su conocimiento y sin necesidad de aprobación, un Programa Anual de Trabajo que incluya lo relativo a la revisión y fiscalización, en el mes de enero de cada año, deberá hacer público dicho programa en los términos de la legislación aplicable. Los resultados de la aplicación del programa deberán integrarse a los informes semestral y anual de resultados de su gestión. Ambos informes serán entregados al Congreso del Estado y al Consejo General del Instituto, dentro de los tres meses siguientes a la conclusión del periodo correspondiente.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+El titular del Órgano Interno de Control deberá acudir ante el Consejo General cuando así lo requiera el Consejero Presidente o a solicitud de la mayoría de sus integrantes, exclusivamente para informar sobre el cumplimiento de sus atribuciones.
 
 En la designación del titular del Órgano Interno de Control del Instituto, se deberá garantizar la participación de la mujer mediante la aplicación del principio de paridad de género de manera alternada, por lo anterior, la convocatoria deberá de ser pública de manera exclusiva para mujeres u hombres según corresponda el periodo para ocupar la titularidad del órgano interno de control.
 
@@ -1403,17 +1403,29 @@ m) Efectuar visitas a las áreas y órganos del Instituto para solicitar la exhi
 
 n) Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
 
-o) Determinar los daños y perjuicios que afecten al Instituto en su patrimonio y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
 
-p) Fincar las responsabilidades e imponer las sanciones en términos de los lineamientos respectivos;
+o) Determinar los daños y perjuicios que afecten al Instituto en su patrimonio, fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes y emitir las resoluciones correspondientes en términos de la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo;
 
-q) Presentar a la aprobación del Consejo General su programa anual de trabajo;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+p) Sustanciar los procedimientos administrativos e imponer las sanciones de las faltas calificadas como no graves, conforme a lo dispuesto en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+q) Presentar su Programa Anual de Trabajo al Consejo General para su conocimiento y difusión, sin que se requiera su aprobación;
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 r) Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, conforme a los formatos y procedimientos que establezca el Órgano Interno de Control;
 
-s) Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+s) Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2025)</small>
+
+t) Rendir informes semestrales y anuales al Congreso del Estado y al Consejo General sobre los resultados de su gestión, dentro de los tres meses siguientes a la conclusión del periodo correspondiente.
 
 ### CAPÍTULO TERCERO. DE LOS ÓRGANOS DESCONCENTRADOS
 
@@ -1685,9 +1697,9 @@ XIII. Resolver de manera definitiva los medios de impugnación de su competencia
 
 XIV. Llevar a cabo el procedimiento para la designación del titular del Órgano Interno de Control;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-XV. Evaluar periódicamente al Órgano Interno de Control;
+XV. Conocer los informes semestrales y anuales del Órgano Interno de Control, exclusivamente para su conocimiento y sin que ello implique subordinación o evaluación de su desempeño;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2023)</small>
 
@@ -1815,37 +1827,45 @@ IX. Llevar el registro de los criterios jurisprudenciales;
 
 X. Las demás que señale la ley o le indique el Pleno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2025)</small>
 
-ARTÍCULO 69 a). El Tribunal contará con un Órgano Interno de Control, quien tendrá a su cargo la fiscalización de los ingresos y egresos, así como la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo por responsabilidades de los servidores públicos del Tribunal; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; así mismo contará con fe pública en sus actuaciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
+ARTÍCULO 69 a). El Tribunal contará con un Órgano Interno de Control, quien tendrá a su cargo la fiscalización de los ingresos y egresos, así como la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo por responsabilidades de los servidores públicos del Tribunal; en el ejercicio de sus atribuciones estará dotado de autonomía técnica, de gestión y presupuestaria para decidir sobre su funcionamiento y resoluciones; sin que el Pleno del Tribunal pueda interferir en sus decisiones o evaluar su desempeño. Así mismo, contará con fe pública en sus actuaciones.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
 
-El titular del Órgano Interno de Control será nombrado y removido por el Congreso con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente al Pleno del Tribunal, y para el desarrollo de sus funciones contará con las siguientes atribuciones:
+En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+El titular del Órgano Interno de Control será nombrado y removido por el Congreso con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cinco años y no podrá ser reelecto; rindiendo informes semestrales y anuales al Congreso y al Pleno del Tribunal, exclusivamente para su conocimiento y sin que esto implique subordinación o evaluación de su gestión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2025)</small>
+
+Para el desarrollo de sus funciones contará con las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 I. Elaborar y remitir a los magistrados el Programa Interno de Auditoría, a más tardar en la primera quincena de septiembre del año anterior al que se vaya a aplicar;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-II. Dar seguimiento a la atención, trámite y solventación de las observaciones, recomendaciones y demás promociones de acciones que deriven de las auditorías internas y de las que formule la Auditoría Superior de Michoacán, debiendo informar al Pleno;
+II. Dar seguimiento a la atención, trámite y solventación de las observaciones, recomendaciones y demás promociones de acciones que deriven de las auditorías internas y de las que formule la Auditoría Superior de Michoacán, debiendo informar al Congreso y al Pleno;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-III. Prevenir, corregir, e investigar actos u omisiones que pudieran constituir responsabilidades administrativas de los servidores públicos del Tribunal, de lo cual deberá informar a los magistrados;
+III. Prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas de los servidores públicos del Tribunal, y del titular del órgano interno de control, de lo cual, deberá remitir la substanciación al Congreso para los efectos conducentes;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-IV. Proponer al Pleno, promueva ante las instancias competentes, las acciones administrativas y legales que deriven de las irregularidades detectadas en las auditorias;
+IV. Promover directamente ante las instancias competentes las acciones administrativas y legales que deriven de las irregularidades detectadas en las auditorias;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 V. Proponer al Pleno los anteproyectos de procedimientos, manuales e instructivos que sean necesarios para el desempeño de sus funciones, así como la estructura administrativa de su área;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-VI. Informar de sus actividades institucionales al Pleno de manera bimestral y presentar el resultado de las auditorías practicadas conforme al Programa Interno de Auditoría, en los términos aprobados por el Pleno;
+VI. Presentar informes semestrales y anuales al Congreso y al Pleno, dentro de los tres meses siguientes a la conclusión del periodo correspondiente y conforme al Programa Interno de Auditoría;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -1879,9 +1899,9 @@ XIII. Participar en las sesiones del Comité de adquisiciones, arrendamientos, p
 
 XIV. Recibir, sustanciar y resolver las inconformidades que presenten los proveedores respecto a actos o fallos en los procedimientos de adquisiciones y contratación de arrendamientos, servicios y obra pública;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-XV. Analizar y evaluar los sistemas de procedimientos y control interno del Tribunal, cuadyuvando (sic) en todo momento con el área Administrativa, para la construcción de mecanismos que permitan la aplicación de los recursos de forma eficaz, honesta y transparente, realizando sugerencias de carácter preventivo, informando al Pleno de este órgano jurisdiccional, de todas aquellas actividades que a manera de recomendaciones, promuevan el buen desempeño de los servidores públicos del Tribunal Electoral del Estado de Michoacán;
+XV. Analizar y evaluar los sistemas de procedimientos y control interno del Tribunal, informando al Congreso y al Pleno sobre las irregularidades detectadas y coadyuvando en todo momento con el área Administrativa, para la construcción de mecanismos que permitan la aplicación de los recursos de forma eficaz, honesta y transparente;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -1895,9 +1915,9 @@ XVII. Revisar y auditar el ingreso, egreso, manejo, custodia y aplicación de re
 
 XVIII. Vigilar el cumplimiento de las normas y procedimientos establecidos por el Pleno y proponer a éste las medidas de prevención que considere;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-XIX. Revisar el cumplimiento de objetivos y metas fijados en los Programas Institucionales del Tribunal, y proponer al Pleno las medidas de prevención que considere pertinentes;
+XIX. Revisar el cumplimiento de objetivos y metas fijados en los Programas Institucionales del Tribunal y emitir recomendaciones vinculantes a las áreas administrativas correspondientes;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -1919,9 +1939,9 @@ XXIII. Requerir fundada y motivadamente a los órganos y servidores públicos de
 
 XXIV. Coordinar con los servidores públicos encargados del control y evaluación, auditoría y de sustanciación de responsabilidades, la evaluación de control, fiscalización de recursos y la sustanciación de procedimientos administrativos, para fortalecer la gestión administrativa del uso y destino de los recursos públicos y la rendición de cuentas del Tribunal Electoral; y,
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-XXV. Las demás que le confiera este Código, las leyes aplicables y el Reglamento Interior del Tribunal.
+XXV. Las demás que le confiera este Código, las leyes aplicables y la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -1947,33 +1967,57 @@ IV. El Pleno garantizará que quienes califiquen el examen, no conozcan la ident
 
 V. El Pleno remitirá al Congreso la lista de las personas propuestas, acompañada del expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso designe de entre los cinco mejor evaluados.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2025)</small>
 
-ARTÍCULO 69 c). Para ser Contralor deben reunirse los siguientes requisitos:
+ARTÍCULO 69 c). Para ser titular del Órgano Interno de Control del Tribunal deben reunirse los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
 I. Ser mexicano, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 II. Tener más de treinta años de edad, el día de la designación;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 III. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia que les permitan el desempeño de sus funciones;
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 V. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado;
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 VI. No haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación; y,
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 VII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación.
 
-El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Pleno a propuesta del Presidente.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
 
-El titular del Órgano Interno de Control podrá ser sancionado conforme a los términos de la normatividad en materia de responsabilidad de servidores públicos.
+El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Congreso en el Presupuesto de Egresos para el Instituto Electoral de Michoacán, garantizando su autonomía presupuestaria, técnica y de gestión.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
 
-En la designación del titular del Órgano Interno de Control del Tribunal, se deberá garantizar la participación de la mujer mediante la aplicación del principio de paridad de género de manera alternada, por lo anterior, la convocatoria deberá de ser pública de manera exclusiva para mujeres u hombres según corresponda el periodo para ocupar la titularidad del órgano interno de control.
+El titular del Órgano Interno de Control podrá ser sancionado mediante el consejo o el pleno quienes a través de comisión sustancien e investiguen la conducta denunciada, respetando en todo momento los derechos humanos, posteriormente, deberán remitir al Tribunal en materia Anticorrupción y Administrativa, para que resuelva conforme a los términos de la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2025)</small>
+
+Tratándose de denuncias en contra de magistradas o magistrados, la responsabilidad se determinará conforme a lo dispuesto en el Título Cuarto de la Constitución Política de los Estado Unidos Mexicanos, el Título Cuarto de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, los artículos 114 y 117 de la Ley General de Instituciones y Procedimientos Electorales, así como en las disposiciones normativas a las que dichos preceptos remitan.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+En la designación del titular del Órgano Interno de Control del Tribunal, se deberá garantizar la participación de la mujer mediante la aplicación del principio de paridad de género de manera alternada, por lo anterior, la convocatoria deberá de ser pública de manera exclusiva para mujeres u hombres según corresponda el periodo para ocupar la titularidad del Órgano Interno de Control.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2025)</small>
+
+Las responsabilidades administrativas a que se refiere este artículo se sustanciarán y resolverán conforme a la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo y prescribirán en los términos que establece dicha normatividad.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
@@ -5399,33 +5443,53 @@ A falta de disposición expresa en el presente Título, serán de aplicación su
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO 269.
 
-El procedimiento para determinar las responsabilidades de los servidores públicos del Instituto, a que se refiere este Título, se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o, en su caso, por el Ministerio Público Estatal.
+El procedimiento para determinar las responsabilidades de los servidores públicos del Instituto, a que se refiere este Título, se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o, en su caso, por el Órgano Interno de Control o el Ministerio Público Estatal.
 
-No se admitirán denuncias anónimas. Las responsabilidades administrativas a que se refiere este artículo, prescribirán en tres años.
+Se admitirán denuncias anónimas cuando contengan elementos suficientes que permitan identificar hechos presuntamente constitutivos de falta administrativa no grave, y grave, en caso que la denuncia sea presentada por servidores públicos del Instituto o el Tribunal, el Órgano Interno de Control deberá asumirse como denunciante y salvaguardará la identidad del servidor público conforme a lo dispuesto en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
+
+Las responsabilidades administrativas a que se refiere este artículo se sustanciarán y resolverán conforme a la Ley de Responsabiidades Administrativas para el Estado de Michoacán de Ocampo y prescribirán en los términos que establece dicha normatividad.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 270.
 
-Para la determinación de las responsabilidades a que se refiere este Capítulo, deberá seguirse el siguiente procedimiento:
+Para la determinación de las responsabilidades a que se refiere este Capítulo, deberá seguirse el procedimiento establecido en el artículo 208 de la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo, garantizando sus derechos humanos y el cumplimiento de los principios de legalidad, imparcialidad, objetividad y debido proceso.
 
-Recibida la queja o denuncia, y de no encontrarse ninguna causa de improcedencia o de desechamiento, se enviará copia de la misma con sus anexos al servidor público presunto responsable, para que, en un término de cinco días hábiles, formule un informe sobre los hechos, ofrezca las pruebas correspondientes y exponga lo que a su derecho convenga;
+Las autoridades competentes del Instituto deberán observar las disposiciones aplicables en materia de responsabilidades administrativas y conducir sus actuaciones conforme a lo establecido en dicha Ley.
 
-I. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la denuncia, afirmándolos, negándolos, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán ciertos los hechos de la denuncia sobre los cuales el denunciado no se pronuncie, salvo prueba en contrario. La aceptación de los hechos no entraña la aceptación de la responsabilidad administrativa que se le imputa;
+El procedimiento para la determinación de responsabilidades y aplicación de sanciones se regirá en apego a lo señalado en el artículo 208 de la Ley de Responsabilidades Administrativas para el Estado de Michoacán y demás normatividad aplicable, conforme lo siguiente:
 
-II. Recibido el informe y desahogadas las pruebas, se resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes. Se notificará la resolución al servidor público y, en su caso, al denunciante, dentro de las setenta y dos horas siguientes;
+I. La Autoridad Investigadora deberá presentar ante la Autoridad Substanciadora el Informe de Presunta Responsabilidad Administrativa, la cual, dentro de los tres días siguientes se pronunciará sobre su admisión, pudiendo prevenir a la Autoridad Investigadora para que en un término de tres días hábiles subsane las omisiones que advierta, o que aclare los hechos narrados en el informe;
 
-III. Si del informe no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar, en su caso, la celebración de otra u otras audiencias;
+II. En el caso de que la Autoridad Substanciadora admita el Informe de Presunta Responsabilidad Administrativa, ordenará el emplazamiento del presunto responsable, debiendo citarlo para que comparezca personalmente a la celebración de la Audiencia Inicial, señalando con precisión el día, lugar y hora en que tendrá lugar dicha audiencia, así como la autoridad ante la que se llevará a cabo. Del mismo modo, le hará saber el derecho que tiene de no declarar contra de sí mismo ni a declararse culpable; de defenderse personalmente o ser asistido por un defensor perito en la materia y que, de no contar con un defensor, le será nombrado un defensor de oficio;
 
-IV. Con excepción del Consejero Presidente, los consejeros electorales y el Secretario del Consejo General, la Contraloría podrá determinar la suspensión temporal del presunto responsable de su cargo, empleo o comisión, siempre que así convenga para la conducción o continuación de las investigaciones; la suspensión cesará cuando así lo resuelva la propia Contraloría. La suspensión temporal no prejuzga sobre la responsabilidad que se impute al servidor público, lo cual se hará constar expresamente en la resolución respectiva;
+III. Entre la fecha del emplazamiento y la de la audiencia inicial deberá mediar un plazo no menor de diez ni mayor de quince días hábiles. El diferimiento de la audiencia sólo podrá otorgarse por causas de caso fortuito o de fuerza mayor debidamente justificadas, o en aquellos casos en que se nombre;
 
-V. Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que hubiere estado suspendido; y,
+IV. Previo a la celebración de la Audiencia inicial, la Autoridad Substanciadora deberá citar a las demás partes que deban concurrir al procedimiento, cuando menos con setenta y dos horas de anticipación;
 
-VI. Cuando se compruebe la existencia de la infracción motivo de la denuncia, el titular de la Contraloría impondrá la sanción que corresponda y dictará las medidas para su corrección o remedio inmediato.
+V. El día y hora señalado para la Audiencia Inicial el presunto responsable rendirá su declaración por escrito o verbalmente, y deberá ofrecer las pruebas que estime necesarias para su defensa. En caso de tratarse de pruebas documentales, deberá exhibir todas las que tenga en su poder, o las que no estándolo, conste que las solicitó mediante el acuse de recibo correspondiente. Tratándose de documentos que obren en poder de terceros y que no pudo conseguirlos por obrar en archivos privados, deberá señalar el archivo donde se encuentren o la persona que los tenga a su cuidado para que, en su caso, le sean requeridos en los términos previstos en esta Ley;
+
+VI. Una vez que las partes hayan manifestado durante la Audiencia Inicial lo que a su derecho convenga y ofrecido sus respectivas pruebas, la Autoridad Substanciadora declarará cerrada la audiencia inicial, después de ello las partes no podrán ofrecer más pruebas, salvo aquellas que sean supervenientes;
+
+VII. Dentro de los quince días hábiles siguientes al cierre de la Audiencia Inicial, la Autoridad Substanciadora deberá emitir el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo;
+
+VIII. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más priebas que desahogar, la Autoridad Substanciadora declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes;
+
+IX. Una vez trascurrido el periodo de alegatos, la Autoridad Resolutora del asunto, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello; y,
+
+X. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
+
+Tratándose de faltas o responsabilidades administrativas de las consejeras o los consejeros del Instituto, estas se determinarán conforme a lo dispuesto en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos; el Título Cuarto de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo; el artícuo 102 de la Ley General de Instituciones y Procedimientos Electorales; así como en las disposiciones normativas a las que dichos preceptos remitan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 271.
 
-Serán causas de responsabilidad para los servidores públicos del Instituto:
+Serán causas de responsabilidad para los servidores públicos del Instituto y Tribunal Electoral, además de las establecidas en el Título Tercero de la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo, las siguientes:
 
 I. Realizar conductas que atenten contra la independencia de la función electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
 
@@ -5455,31 +5519,31 @@ X. Las previstas, en lo conducente, en la normatividad de Responsabilidades de l
 
 XI. Cometer actos que constituyan violencia política en razón de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO 272.
 
-Las sanciones aplicables a las faltas contempladas en el presente título y a las cometidas en contravención a la normatividad de Responsabilidades de los Servidores Públicos consistirán en:
+Las sanciones aplicables a las faltas contempladas en el presente Título serán las establecidas en el Título Cuarto de la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
 
-I. Apercibimiento privado o público;
+I. (DEROGADA, P.O. 28 DE AGOSTO DE 2025)
 
-II. Amonestación privada o pública;
+II. (DEROGADA, P.O. 28 DE AGOSTO DE 2025)
 
-III. Sanción económica;
+III. (DEROGADA, P.O. 28 DE AGOSTO DE 2025)
 
-IV. Suspensión;
+IV. (DEROGADA, P.O. 28 DE AGOSTO DE 2025)
 
-V. Destitución del puesto; y,
+V. (DEROGADA, P.O. 28 DE AGOSTO DE 2025)
 
-VI. Inhabilitación temporal, hasta por cinco años, para desempeñar empleos, cargos o comisiones en el servicio público.
+VI. (DEROGADA, P.O. 28 DE AGOSTO DE 2025)
 
-Tratándose del Consejero Presidente y los consejeros electorales del Consejo General, solo por infracciones administrativas que constituyan conductas graves y sistemáticas, el Contralor notificará al Instituto Nacional, acompañando el expediente del asunto debidamente fundado y motivado, a fin de que resuelva sobre la responsabilidad, en términos de la Ley General.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE AGOSTO DE 2025)</small>
 
-Tratándose del Secretario Ejecutivo y de los vocales del Instituto, para la aplicación de las sanciones por las infracciones a que se refiere el párrafo anterior, el Contralor del Instituto presentará ante el Consejo General el expediente respectivo a fin de que resuelva sobre la procedencia de la sanción.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 273.
 
-El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
-
-La Contraloría, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado; en caso de incumplimiento se aplicará la sanción correspondiente.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2025)
 
 # LIBRO SEXTO. DE PROCEDIMIENTOS ESPECIALES
 
@@ -7492,3 +7556,17 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El Instituto Electoral de Michoacán deberá de generar los lineamientos, base de datos y demás supuestos técnicos administrativos para la debida aplicación de los mecanismos para que las personas privadas de su libertad puedan ejercer su derecho político electoral de votar.
 
 TERCERO. El Congreso del Estado de Michoacán de Ocampo, para el proceso electoral próximo inmediato deberá destinar los recursos necesarios para la implementación del derecho al voto de las personas en prisión preventiva.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 205 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 48, PRIMER PÁRRAFO, 49, 50, 64, FRACCIÓN XV, 69 A), 69 C), 269, 270, 271 Y 272, Y SE DEROGA EL ARTÍCULO 273, TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los procedimientos de responsabilidades administrativas iniciados con anterioridad a la entrada en vigor de la presente reforma deberán concluirse conforme a la normativa vigente al momento de su inicio.
+
+TERCERO. Las reformas presupuestales previstas en el presente Decreto entrarán en vigor el día 1° de enero de 2026. En consecuencia, el Instituto Electoral de Michoacán y el Tribunal Electoral del Estado de Michoacán, deberán prever su incorporación en el proyecto del Presupuesto de Egresos del Estado correspondiente al ejercicio fiscal 2026.
+
+CUARTO. El Instituto Electoral de Michoacán y el Tribunal Electoral del Estado de Michoacán deberán realizar las adecuaciones necesarias a sus reglamentos internos y normatividad aplicable en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor de esta reforma.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente reforma.
