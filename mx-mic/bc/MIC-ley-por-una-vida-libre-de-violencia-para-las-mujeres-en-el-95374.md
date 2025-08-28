@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2025-08-01"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -229,6 +229,10 @@ XV. El otorgamiento y consecuente registro de las órdenes de protección que se
 
 XVI. El establecer procedimientos arbitrales y administrativos para los casos donde no exista denuncia penal.
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+XVII. La promoción de mecanismos y acciones tendientes a garantizar la igualdad salarial, entre hombres y mujeres.
+
 ### CAPÍTULO II. TIPOS Y MODALIDADES DE LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 8.
@@ -375,9 +379,9 @@ Será considerada violencia contra la salud, la ejercida por un familiar, ya sea
 
 La violencia laboral y docente, se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión, amenazas, abuso de poder, que provocan y vulneran la libertad y seguridad de la víctima, impidiendo el libre desarrollo de la personalidad de las mujeres, del proceso de enseñanza aprendizaje, y en especial su autoestima, y se constituye:
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-I. Como violencia laboral, la negativa a contratar, respetar su permanencia o condiciones generales de trabajo por la exigencia de pruebas de gravidez, imposición de requisitos sexistas en la forma de vestir exclusión de género en ciertos cargos por edad de conformidad con la Ley Federal del Trabajo, igualmente lo constituye la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la exhibición de su vida personal, el acoso, hostigamiento sexual, la exigencia de favores sexuales, la explotación, el impedimento a ejercer el periodo de lactancia materna, previsto en la normativa laboral, y todo tipo de discriminación por condiciones de género; y,
+I. Como violencia laboral, la negativa a contratar, respetar su permanencia o condiciones generales de trabajo por la exigencia de pruebas de gravidez; imposición de requisitos sexistas en la forma de vestir, la exclusión de género en ciertos cargos, la brecha salarial de género, la exclusión por edad de conformidad con la Ley Federal del Trabajo, igualmente lo constituye la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la exhibición de su vida personal, el acoso, hostigamiento sexual, la exigencia de favores sexuales, la explotación, el impedimento a ejercer el periodo de lactancia materna, previsto en la normativa laboral, y todo tipo de discriminación por condiciones de género; y,
 
 II. Constituyen violencia docente aquellas conductas que causan daño en las alumnas derivados por la discriminación de género, edad, condición social, condición étnica, por algunas limitaciones o características físicas determinadas, que les infligen maestras o maestros.
 
@@ -934,6 +938,10 @@ XV. Implementar programas de formación y capacitación en materia de nuevas mas
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2025)</small>
 
 XV Bis. Promover, incentivar, y facilitar la participación de las mujeres como concesionarias y operadoras de los vehículos de transporte público, observando los principios de igualdad sustantiva y perspectiva de género.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+XVI. Impulsar y fomentar la igualdad salarial entre hombres y mujeres.
 
 ###### ARTÍCULO 41.
 
@@ -1568,3 +1576,11 @@ P.O. 1 DE AGOSTO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese al Titular del Poder Ejecutivo para los efectos que considere procedentes.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 197.- ARTÍCULO PRIMERO.- SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 2°, LA FRACCIÓN VII AL ARTÍCULO 17; Y, SE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 35 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 7; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 11; Y, SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 40 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
