@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2025-07-28"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -257,9 +257,9 @@ VIII. La difusión, información y orientación de los servicios de salud para s
 
 IX. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2025)</small>
 
-El Sistema Estatal de Salud debe garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
+El Sistema Estatal de Salud debe garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes. Entre dichas acciones, deberá coadyuvar en la aplicación oportuna y universal de los esquemas nacionales de vacunación dirigidos a niñas, niños y adolescentes, en el ámbito de sus competencias y conforme a la normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
@@ -649,7 +649,9 @@ Las omisiones a lo anterior, serán sancionadas en los términos que establezcan
 
 ARTÍCULO 17 B. La atención materno-infantil abarca el período que va del embarazo, parto, posparto y puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer y el producto; tiene carácter prioritario y comprende, entre otras, las acciones siguientes:
 
-I. La atención del niño y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+I. La atención de niñas y niños, la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción y provisión del acceso oportuno a las vacunas contempladas en los esquemas nacionales de vacunación, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
 
 II. La aplicación de la prueba del tamiz metabólico neonatal, preferentemente entre el segundo y séptimo día de vida. Además, la aplicación del tamiz metabólico neonatal ampliado a todo prematuro, así como a cualquier neonato en caso de ser necesario conforme examen clínico previo;
 
@@ -897,13 +899,17 @@ VII. Celebrar los convenios y acuerdos de coordinación con los ayuntamientos pa
 
 VIII. Analizar las disposiciones legales en materia de salud y formular propuestas de reformas y adiciones a las normas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
-IX. La prevención, atención y control de las enfermedades bucodentales; y,
+IX. La prevención, atención y control de las enfermedades bucodentales;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2025)</small>
+
+X. Coadyuvar en la aplicación oportuna y efectiva de los esquemas nacionales de vacunación dirigidos a niñas, niños y adolescentes, en el ámbito de sus competencias y conforme a la normatividad aplicable, considerando en todo momento el principio del interés superior de la niñez;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2023)</small>
 
-X. Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores, las que derivan de esta Ley y demás normatividad general aplicable.
+XI. Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores, las que derivan de esta Ley y demás normatividad general aplicable.
 
 B) EN MATERIA DE SALUBRIDAD LOCAL:
 
@@ -3492,3 +3498,9 @@ P.O. 28 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. Las dependencias públicas y entidades privadas a las que hace referencia este Decreto contarán con un plazo de ciento ochenta días naturales para realizar los ajustes administrativos, presupuestales y operativos correspondientes para la implementación progresiva de las disposiciones contenidas en el artículo 17 C de la Ley de Salud del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 198 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3°, LA FRACCIÓN I DEL ARTÍCULO 17 B; Y, SE REFORMA LA FRACCIÓN IX Y SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN X PARA PASAR A SER FRACCIÓN XI AL INCISO A) DEL ARTÍCULO 21 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
