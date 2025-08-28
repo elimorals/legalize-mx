@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-175590"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-17"
-last_updated: "2024-12-17"
+last_updated: "2025-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Ley publicada en la Sección VIII del Número 19 del Periódico Oficial del Estado de Jalisco, el martes 17 de diciembre de 2024.
 
@@ -1301,7 +1301,11 @@ h) Por el dictamen de autorización para instalación de anuncios publicitarios 
 
 VII. Por contestación de información sobre la existencia o inexistencia de disposición testamentaria que expida la Procuraduría Social: $300.00
 
-VIII. Por la recepción de avisos notariales de testamentos ante la Procuraduría Social: $609.00
+VIII. Por la recepción de avisos notariales de testamentos ante la Procuraduría Social: $609.00.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2025)</small>
+
+Del 01 de septiembre al 10 de octubre del presente ejercicio fiscal, se exentará del pago de derechos a las personas o los notarios que presenten el aviso correspondiente ante la Procuraduría Social, siempre y cuando los testamentos cumplan con los requisitos establecidos en la Ley y el procedimiento previsto en la campaña de "Septiembre mes de testamento".
 
 IX. Pago por prestación del servicio de vigilancia o de escolta, quienes lo soliciten, por elemento y por turno de 8 (ocho) horas diario (sic), el equivalente de (seis) veces el valor de la unidad de medida de actualización.
 
@@ -2448,3 +2452,11 @@ SALVADOR ZAMORA ZAMORA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29852/LXIV /25 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE MODIFICA LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2025”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
