@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2025-06-11"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -137,6 +137,10 @@ XXIX. Mayoría absoluta: Es el resultado de votos que representen cuando menos l
 XXX. Mayoría calificada: Es el resultado de la suma de votos emitidos por las y los Diputados que representen, las dos terceras partes de las y los integrantes del Congreso de conformidad con la presente Ley y demás normas aplicables;
 
 XXXI. Mayoría simple: Es el resultado de la suma de votos de las y los Diputados presentes, que constituye la cantidad superior frente a otra votación;
+
+> <small>(ADICIONADA, G.O. 28 DE AGOSTO DE 2025)</small>
+
+XXXI Bis. Medios oficiales: Vías físicas o electrónicas de comunicación interna del Congreso, con el objeto de recibir, clasificar, ordenar, registrar, gestionar, y controlar la información oficial que se genere en las áreas legislativas y administrativas;
 
 XXXII. Mesa Directiva: La Mesa Directiva del Congreso como Órgano de representación y dirección del Pleno;
 
@@ -854,13 +858,17 @@ IV. De las Personas Jóvenes;
 
 V. De Pueblos y Barrios Originarios y Comunidades Indígenas Residentes;
 
-> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2025)</small>
 
-VI. De Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades y expresiones de género y características sexuales no normativas, y
+VI. De Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades y expresiones de género y características sexuales no normativas;
 
-> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2025)</small>
 
-VII. Del Medio Ambiente.
+VII. Del Medio Ambiente, y
+
+> <small>(ADICIONADA, G.O. 28 DE AGOSTO DE 2025)</small>
+
+VIII. De Participación de la Vida Cultural de la Ciudad.
 
 ###### Artículo 59.
 
@@ -886,13 +894,17 @@ IV. De Juventud, el Parlamento de las Personas Jóvenes;
 
 V. De Pueblos, Barrios Originarios y Comunidades Indígenas Residentes, para el Parlamento de Pueblos y Barrios Originarios y Comunidades Indígenas;
 
-> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2025)</small>
 
-VI. De Igualdad de Género y de Derechos Humanos, el Parlamento de Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades expresiones de género y características sexuales no normativas, y
+VI. De Igualdad de Género y de Derechos Humanos, el Parlamento de Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades expresiones de género y características sexuales no normativas;
 
-> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2025)</small>
 
-VII. De Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica, para el Parlamento del Medio Ambiente.
+VII. De Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica, para el Parlamento del Medio Ambiente, y
+
+> <small>(ADICIONADA, G.O. 28 DE AGOSTO DE 2025)</small>
+
+VIII. De los Derechos Culturales, el Parlamento de Participación de la Vida Cultural de la Ciudad.
 
 ###### Artículo 60.
 
@@ -1034,9 +1046,11 @@ El registro de control de la asistencia, las votaciones y las justificaciones es
 
 La Mesa Directiva y la Junta integrarán el proyecto del orden del día de las sesiones que dará a conocer al Pleno con las propuestas que reciba oportunamente.
 
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 77.
 
-La o el Presidente mandará publicar el orden del día en la Gaceta vía electrónica, a más tardar a las 20:00 horas del día anterior de cada sesión, previo al inicio de cada sesión, será distribuida de forma electrónica y a solicitud, en forma impresa a las y los Diputados.
+La o el Presidente mandará publicar el orden del día en la Gaceta vía electrónica, a más tardar a las 20:00 horas del día anterior de cada sesión, misma que será distribuida a las y los Diputados a través de medios oficiales previo inicio de cada sesión, y a solicitud expresa, en forma impresa.
 
 ###### Artículo 78.
 
@@ -1362,7 +1376,9 @@ Las Comisiones podrán retirar el dictamen enviado a la Coordinación de Servici
 
 Las Comisiones deberán remitir el dictamen de manera impresa y por medio electrónico, magnético, óptico u otros, a la Coordinación de Servicios Parlamentarios mismos que su vez enviaran de manera inmediata una copia a la Presidencia de la Mesa Directiva, a la Presidencia de la Junta y al Presidente de la Comisión Permanente para su discusión dentro de las (sic) siguiente sesión de Pleno.
 
-La Coordinación de Servicios Parlamentarios, deberá distribuir por lo menos de manera electrónica el dictamen aprobado por la o las comisiones a todas y todos los Diputados integrantes del Congreso, e (sic) efecto de que se encuentren en posibilidades de conocer el contenido del asunto a deliberar, sin que pueda dispensarse su distribución ante el Pleno.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2025)</small>
+
+La Coordinación de Servicios Parlamentarios, deberá distribuir a través de los medios oficiales, el dictamen aprobado por la o las comisiones a todas y todos los Diputados integrantes del Congreso, a efecto de que se encuentren en posibilidades de conocer el contenido del asunto a deliberar, sin que pueda dispensarse su distribución ante el Pleno.
 
 ###### Artículo 104.
 
@@ -3286,9 +3302,11 @@ Tratándose de dictámenes, la o el Diputado que lo presente, podrá hacer una i
 
 Las iniciativas o proposiciones con punto de acuerdo, y demás asuntos que sean turnados a la Comisión, se discutirán primero en lo general y después en lo particular en cada uno de sus artículos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 276.
 
-Las iniciativas, proposiciones con punto de acuerdo y demás asuntos turnados deberán distribuirse a las y los Diputados integrantes, por lo menos, con cuarenta y ocho horas de anticipación a la reunión de trabajo en la que se someterá a su discusión, salvo dispensa de dicho trámite por la mayoría de las y los Diputados, en caso de urgencia o reunión extraordinaria.
+Las iniciativas, proposiciones con punto de acuerdo y demás asuntos turnados deberán distribuirse a través de los medios oficiales a las y los Diputados integrantes, por lo menos, con cuarenta y ocho horas de anticipación a la reunión de trabajo en la que se someterá a su discusión, salvo dispensa de dicho trámite por la mayoría de las y los Diputados, en caso de urgencia o reunión extraordinaria.
 
 Cuando hayan tomado la palabra todas las y los oradores, la o el Presidente de la Comisión preguntará si el asunto está suficientemente discutido. Si la respuesta fuera negativa, se continuará la discusión. Si la respuesta es positiva, se cerrará el debate y se procederá a la votación.
 
@@ -6579,3 +6597,23 @@ SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publ
 TERCERO. La Junta de Coordinación Política del Congreso de la Ciudad de México estará facultada para determinar, mediante acuerdo, las plataformas digitales institucionales que habrán de utilizarse para la implementación, administración y operación de la firma digital electrónica en los actos legislativos y administrativos internos, garantizando en todo momento la integridad, autenticidad y seguridad de los documentos generados electrónicamente.
 
 CUARTO. Todas aquellas referencias hechas en materia de firma electrónica se entenderán hechas a la firma digital electrónica.
+
+G.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMAN LAS FRACCIONES VI Y VII; Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 58; SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 59, AMBOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Parlamento de Participación de la Vida Cultural de la Ciudad se realizará de conformidad con el Artículo 58 del Reglamento del Congreso de la Ciudad de México, a partir del Primer Receso, del II Año de ejercicio del Congreso de la Ciudad de México, III Legislatura.
+
+G.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXXI BIS AL ARTÍCULO 2; SE REFORMA EL ARTÍCULO 77; SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 103; Y SE REFORMA EL ARTÍCULO 276, DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Junta de Coordinación Política del Congreso de la Ciudad de México determinará, cuáles son los medios oficiales de comunicación interna del Congreso.
