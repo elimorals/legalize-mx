@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-archivos-para-el-estado-de-yucatan-143367"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-24"
-last_updated: "2020-07-03"
+last_updated: "2025-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 3 DE JULIO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Yucatán, el miércoles 24 de junio de 2020.
 
@@ -325,9 +323,7 @@ L. Preservación digital: Proceso específico para mantener los materiales duran
 
 LI. Programa anual: Programa anual de desarrollo archivístico.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN LII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-LII. REGISTRO ESTATAL: AL REGISTRO DE ARCHIVOS DEL ESTADO DE YUCATÁN EL CUAL CONSISTE EN UNA APLICACIÓN INFORMÁTICA QUE PERMITE REGISTRAR Y MANTENER ACTUALIZADA LA INFORMACIÓN DE LOS ARCHIVOS DE LOS SUJETOS OBLIGADOS, Y DEBERÁ PREVER LA INTEROPERABILIDAD CON EL REGISTRO NACIONAL Y CONSIDERAR LAS DISPOSICIONES QUE PARA TAL EFECTO EMITA EL CONSEJO NACIONAL DE ARCHIVOS.
+LII. (DEROGADA, D.O. 28 DE AGOSTO DE 2025)
 
 LIII. Reglamento: Reglamento de la Ley.
 
@@ -405,9 +401,9 @@ I. Administrar, organizar, y conservar de manera homogénea los documentos de ar
 
 II. Establecer un sistema institucional para la administración de sus archivos y llevar a cabo los procesos de gestión documental.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, D.O. 28 DE AGOSTO DE 2025)</small>
 
-III. Inscribir EN EL REGISTRO ESTATAL Y en el Registro Nacional, de acuerdo con las disposiciones que se emitan en la materia, la existencia y ubicación de archivos bajo su resguardo.
+III. Inscribir en el Registro Nacional, de acuerdo con las disposiciones que se emitan en la materia, la existencia y ubicación de archivos bajo su resguardo.
 
 IV. Conformar un grupo interdisciplinario que coadyuve en la valoración documental y en la baja documental.
 
@@ -429,9 +425,9 @@ XII. El servidor público que concluya su empleo, cargo o comisión deberá gara
 
 XIII. Procurar que no se sustraigan, dañen o eliminen documentos de archivo y la información a su cargo.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, D.O. 28 DE AGOSTO DE 2025)</small>
 
-XIV. LAS DEMÁS DISPOSICIONES ESTABLECIDAS EN LA PRESENTE LEY Y OTRAS DISPOSICIONES APLICABLES. LOS FIDEICOMISOS Y FONDOS PÚBLICOS QUE NO CUENTEN CON ESTRUCTURA ORGÁNICA, ASÍ COMO CUALQUIER PERSONA FÍSICA QUE RECIBA Y EJERZA RECURSOS PÚBLICOS, O REALICE ACTOS DE AUTORIDAD EN EL ESTADO DE YUCATÁN Y SUS MUNICIPIOS, ESTARÁN OBLIGADOS A CUMPLIR CON LAS DISPOSICIONES DE LAS FRACCIONES I, VI, VII, IX Y X DEL PRESENTE ARTÍCULO.
+XIV. Las demás disposiciones establecidas en la presente Ley y otras disposiciones aplicables. Los fideicomisos y fondos públicos que no cuenten con estructura orgánica, así como cualquier persona física que reciba y ejerza recursos públicos, o realice actos de autoridad en el Estado de Yucatán y sus municipios, estarán obligados a cumplir con las disposiciones de las fracciones I, V, VI, VIII y X del presente artículo.
 
 Los Sujetos Obligados deberán conservar y preservar los archivos relativos a violaciones graves de derechos humanos, así como respetar y garantizar el derecho de acceso a los mismos, de conformidad con las disposiciones legales en materia de acceso a la información pública y protección de datos personales, siempre que no hayan sido declarados como históricos, en cuyo caso, su consulta será irrestricta.
 
@@ -611,9 +607,7 @@ XI. Fomentar políticas de difusión sobre cultura archivísticas (sic) así com
 
 XII. Promover la integración del Grupo Interdisciplinario.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XIII. INSCRIBIR Y ADMINISTRAR LA INFORMACIÓN DEL SUJETO OBLIGADO EN EL REGISTRO ESTATAL DE ARCHIVOS.
+XIII.- (DEROGADA, D.O. 28 DE AGOSTO DE 2025)
 
 XIV. Las demás que establezcan las disposiciones aplicables.
 
@@ -841,75 +835,37 @@ Los Sujetos Obligados deberán proteger la validez jurídica de los documentos d
 
 ### Capítulo X. De los Documentos Reservados y Confidenciales
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 56.
 
-Tendrán carácter de reservado los documentos y expedientes expresamente que se encuentren en los siguientes casos:
-
-I. Los sometidos a reserva por la legislación aplicable, incluyendo los casos previstos en la protección de datos personales.
-
-II. Los relacionados con la seguridad y paz interior del estado.
-
-III. Los que determine el Consejo.
-
-IV. Los relativos a las condiciones financieras de las operaciones de crédito público y tesorería que realice el Estado, así como a los estudios técnicos de valoración de los activos del Estado.
-
-V. Los que constituyan expedientes en trámite, en los términos de esta Ley.
-
-VI. Los demás que esta Ley y la normatividad aplicable señale expresamente.
-
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 57.
 
-Estos documentos y expedientes estarán sometidos a reserva por el término dispuesto por el Consejo, el cual será contado a partir del acuerdo establecido y no de la fecha de generación del documento o expediente.
-
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 58.
 
-Los documentos y expedientes en archivos de trámite, se consideran reservados y no pueden ser consultados, por personas diferentes a la autoridad y los actores implicados.
-
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 59.
 
-La sola transferencia de un documento o expediente al Archivo de Concentración significa que termina su periodo de reserva, a menos de que se encuentre en los casos señalados en esta Ley, en cuyo caso permanecerá con dicho carácter en el Archivo de Concentración hasta que se cumpla el periodo de reservas establecido.
-
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 60.
 
-Se consideran documentos y expedientes confidenciales:
-
-I. Los que así determine el Consejo.
-
-II. Los que así se califiquen por mandato de autoridad judicial.
-
-III. Los que contengan en su información datos que conlleven un secreto comercial o industrial.
-
-IV. Los demás que esta Ley y la normatividad aplicable señale expresamente.
-
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 61.
 
-Los documentos y expedientes en archivos de trámite, que se clasifiquen como confidenciales solo pueden ser consultados, por acuerdo del Consejo.
-
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 62.
 
-La desclasificación de archivos confidenciales compete al Consejo; pero estos también pueden desclasificarse por mandato judicial.
-
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 63.
 
-El Consejo dispondrá de un lugar adecuado en Archivo General del Estado para depositar los expedientes reservados y confidenciales, garantizando la inviolabilidad y restricción máxima de acceso al recinto o cámara donde sean depositados.
-
-Dichos expedientes reservados y confidenciales contarán con un índice, el cual podrá ser consultado en todo momento, cuidando la protección de los datos personales que contenga.
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ### Capítulo XI. De las Bajas Documentales
 
@@ -1159,9 +1115,7 @@ XII. Elaborar los criterios para la preservación digital de los acervos de los 
 
 XIII. Celebrar convenios de colaboración entre los archivos estatales.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XIV. ESTABLECER UN REGISTRO ESTATAL DE ARCHIVOS DEL ESTADO DE YUCATÁN ASÍ COMO DEL PATRIMONIO DOCUMENTAL DE LA ENTIDAD.
+XIV. (DEROGADA, D.O. 28 DE AGOSTO DE 2025)
 
 XV. Fomentar y difundir la investigación histórica así como el valor patrimonial y cultural de los acervos documentales de los archivos históricos.
 
@@ -1183,31 +1137,37 @@ XXII. Las demás establecidas en esta Ley.
 
 El Consejo Estatal se integrará por:
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, D.O. 28 DE AGOSTO DE 2025)</small>
 
-I. El Director del Archivo General del Estado de Yucatán; QUIEN FUNGIRÁ COMO SECRETARIO TÉCNICO;
+I. El Director del Archivo General del Estado de Yucatán; quien fungirá como presidente;
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, D.O. 28 DE AGOSTO DE 2025)</small>
 
-II. El titular de la Secretaría General de Gobierno, QUIEN FUNGIRÁ COMO PRESIDENTE;
+II. El titular de la Secretaría General de Gobierno;
 
-III. El titular de la Secretaría de la Contraloría General del Gobierno del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 28 DE AGOSTO DE 2025)</small>
+
+III. El titular de la Secretaría Anticorrupción y Buen Gobierno;
 
 IV. Un representante del Poder Legislativo, el cual será, preferentemente, integrante de la Comisión Permanente de Vigilancia de la Cuenta Pública, Transparencia y Anticorrupción.
 
 V. El titular de la Secretaría de Administración y Finanzas del Estado de Yucatán;
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, D.O. 28 DE AGOSTO DE 2025)</small>
 
-VI. Un representante de los Ayuntamientos QUE CUENTEN CON UN ARCHIVO MUNICIPAL;
+VI. Un representante de los Ayuntamientos;
 
 VII. Un representante del Poder Judicial del Estado;
 
-VIII. Un comisionado o comisionada del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
+> <small>(REFORMADA, D.O. 28 DE AGOSTO DE 2025)</small>
+
+VIII. El director general del órgano desconcentrado denominado Transparencia para el Pueblo de Yucatán;
 
 IX. Un representante de los archivos de las Universidades a propuesta del presidente del consejo;
 
-X. Un representante de cada uno de los organismos públicos autónomos;
+> <small>(REFORMADA, D.O. 28 DE AGOSTO DE 2025)</small>
+
+X. Un representante de la Delegación Estatal del Instituto Nacional de Estadística y Geografía en Yucatán, preferentemente de la Subdelegación de Estadística;
 
 XI. El titular de la Auditoría Superior del Estado de Yucatán;
 
@@ -1215,21 +1175,23 @@ XII. Un representante de los archivos privados, a propuesta del Consejo.
 
 XIII. Una persona representante del Consejo Técnico Especializado del Archivo General del Estado, y
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XIV. (DEROGADA, D.O. 28 DE AGOSTO DE 2025)
 
-XIV. LOS DEMÁS QUE A PROPUESTA DEL PRESIDENTE O DE LOS INTEGRANTES DEL CONSEJO ESTATAL QUE (SIC) SE APRUEBEN EN SESIÓN.
+> <small>(REFORMADO, D.O. 28 DE AGOSTO DE 2025)</small>
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ANTEPENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Los integrantes del Consejo podrán nombrar un suplente ante el Consejo Estatal, el cual deberá tener, en su caso la jerarquía inmediata inferior a la del consejero titular. En el caso de los representantes referidos en las fracciones IV y VII las suplencias deberán ser cubiertas por el representante nombrado para ese efecto, de acuerdo con su normativa interna.
 
-LOS INTEGRANTES A QUE SE REFIEREN LAS FRACCIONES II, III, V Y XI PODRÁN SER REPRESENTADOS POR ALGÚN SERVIDOR PÚBLICO QUE TENGA NIVEL JERÁRQUICO DE POR LO MENOS, DIRECTOR DE ÁREA O SU EQUIVALENTE EN CADA ENTE PÚBLICO.
+> <small>(REFORMADO, D.O. 28 DE AGOSTO DE 2025)</small>
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+El Consejo Estatal contará con un Secretario Técnico que será nombrado y removido por el Presidente del Consejo.
 
-EL CONSEJO ESTATAL CONTARÁ CON UN SECRETARIO TÉCNICO, OSTENTANDO TAL CARGO EL DIRECTOR DEL ARCHIVO GENERAL DEL ESTADO, CUYAS FUNCIONES QUEDARÁN ESTABLECIDAS EN EL REGLAMENTO INTERIOR QUE EXPIDA DICHO CONSEJO.
+> <small>(REFORMADO, D.O. 28 DE AGOSTO DE 2025)</small>
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Los miembros del Consejo Estatal no recibirán remuneración alguna por su participación.
 
-LOS MIEMBROS DEL CONSEJO ESTATAL NO RECIBIRÁN REMUNERACIÓN ALGUNA POR SU PARTICIPACIÓN, A EXCEPCIÓN DEL DIRECTOR DEL ARCHIVO GENERAL DEL ESTADO.
+> <small>(ADICIONADO, D.O. 28 DE AGOSTO DE 2025)</small>
+
+Serán invitados permanentes del Consejo Estatal con voz pero sin voto, los órganos públicos autónomos, distintos a los referidos en las fracciones VIII y XI del presente artículo, quienes designarán un representante.
 
 ###### Artículo 89.
 
@@ -1245,9 +1207,9 @@ Podrán asistir, a petición del Presidente o de otro miembro, los titulares de 
 
 El Consejo Estatal tomará acuerdos por mayoría simple de votos de sus miembros presentes en la sesión. En caso de empate, el Presidente tendrá el voto de calidad.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 28 DE AGOSTO DE 2025)</small>
 
-Las sesiones extraordinarias del Consejo podrán convocarse en un plazo mínimo de veinticuatro horas POR EL PRESIDENTE cuando estime que existe un asunto de relevancia para ello.
+Las sesiones extraordinarias del Consejo podrán convocarse en un plazo mínimo de veinticuatro horas por el Presidente a través del Secretario Técnico o mediante solicitud que a éste formule por lo menos el treinta por ciento de los miembros, cuando estimen que existe un asunto de relevancia para ello.
 
 Las sesiones del Consejo Estatal deberán constar en actas suscritas por los miembros que participaron en ellas.
 
@@ -1281,31 +1243,21 @@ Lo anterior sin perjuicio de lo previsto en la Ley General de Archivos.
 
 ### Capítulo V. Del Registro Estatal de Archivos
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 95.
 
-El Sistema Estatal contará con el Registro Estatal, cuyo objeto es obtener y concentrar información sobre los sistemas institucionales y de los archivos privados de interés público, así como difundir el patrimonio documental resguardado en sus archivos, el cual será administrado por el Archivo General del Estado.
-
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 96.
 
-La inscripción al Registro Estatal es obligatoria para los sujetos obligados quienes deberán actualizar anualmente la información requerida en dicho Registro, de conformidad con las disposiciones que para tal efecto emita el Consejo Nacional de Archivos y el Consejo Estatal, en términos de lo dispuesto por la normativa aplicable.
-
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 97.
 
-El Registro Estatal será administrado por el Archivo General del Estado, su organización y funcionamiento será conforme las disposiciones que emita el propio Consejo Estatal.
-
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 98.
 
-Para la operación del Registro Estatal, el Archivo General del Estado pondrá a disposición de los sujetos obligados y de los particulares, propietarios o poseedores de archivos privados de interés público, una aplicación informática que les permita registrar y mantener actualizada la información.
-
-La información del Registro Estatal será de acceso público y de consulta gratuita, disponible a través del portal electrónico del Archivo General del Estado.
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ### Capítulo VI. Del Fondo de Apoyo Económico para Archivos
 
@@ -1377,13 +1329,9 @@ En los casos en que el Archivo General del Estado considere que los archivos pri
 
 El Archivo General del Estado, promoverá las medidas técnicas, administrativas, ambientales o tecnológicas para la conservación y divulgación de los documentos que constituyan patrimonio documental del Estado en posesión de los particulares.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 111.
 
-Las personas físicas o morales que posean documentos o acervos históricos de interés público podrán presentarse ante el Archivo General del Estado para integrarse al Registro Estatal de Archivos. Una vez registrados recibirán asesoría para la catalogación, restauración y conservación de los documentos o acervos documentales, y proporcionarán una copia en versión facsimilar o digital.
-
-De considerarse pertinente se promoverá su Declaratoria de Patrimonio Documental Histórico o Cultural.
+(DEROGADO, D.O. 28 DE AGOSTO DE 2025)
 
 ###### Artículo 112.
 
@@ -1425,9 +1373,9 @@ Para el cumplimiento de su objeto, el Archivo General tiene las siguientes atrib
 
 I. Ser el órgano coordinador y promotor del Sistema Estatal de Archivos.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, D.O. 28 DE AGOSTO DE 2025)</small>
 
-II. FUNGIR COMO SECRETARIO TÉCNICO DEL CONSEJO ESTATAL Y proponer, tomando en cuenta las recomendaciones del Consejo Técnico Especializado, las directrices estatales en materia de desarrollo archivístico.
+II. Fungir como Presidente del Consejo Estatal y proponer, tomando en cuenta las recomendaciones del Consejo Técnico Especializado, las directrices estatales en materia de desarrollo archivístico.
 
 III. Resguardar el patrimonio documental que custodia, así como las transferencias de documentos con valor histórico generados por el Poder Ejecutivo Estatal. Cuando, de forma voluntaria y previa valoración, otros Sujetos Obligados o particulares deseen donar sus acervos al Archivo General del Estado, éste tendrá la obligación de resguardarlos.
 
@@ -1451,9 +1399,7 @@ XII. Fomentar la investigación y la publicación para apoyar el conocimiento de
 
 XIII. Dictar disposiciones administrativas relacionadas con la conservación y custodia de los documentos del Archivo General del Poder Ejecutivo del Estado de Yucatán.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XIV. ADMINISTRAR EL REGISTRO ESTATAL DE CONFORMIDAD CON DISPOSICIONES QUE EMITA EL CONSEJO NACIONAL Y ESTATAL DE ARCHIVOS.
+XIV. (DEROGADA, D.O. 28 DE AGOSTO DE 2025)
 
 XV. Emitir los dictámenes de baja documental que sean solicitados por los Sujetos Obligados del Poder Ejecutivo del Estado de Yucatán.
 
@@ -1485,15 +1431,95 @@ XXVIII. Suscribir convenios de colaboración en materia archivística.
 
 XXIX. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.
 
-### Capítulo Único. Infracciones Administrativas
+> <small>(ADICIONADO, D.O. 28 DE AGOSTO DE 2025)</small>
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+###### Artículo 116 Bis.
+
+Para el cumplimiento de su objeto, el Archivo General del Estado de Yucatán contará con los siguientes órganos:
+
+I. Órgano de Gobierno;
+
+II. Dirección General;
+
+III. Órgano de Vigilancia;
+
+IV. Consejo Técnico Especializado, y
+
+V. Las estructuras administrativas y órganos técnicos establecidos en su Estatuto Orgánico.
+
+El Consejo Técnico Especializado operará conforme a los lineamientos emitidos por el Órgano de Gobierno para tal efecto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
+
+> <small>(ADICIONADO, D.O. 28 DE AGOSTO DE 2025)</small>
+
+###### Artículo 116 Ter.
+
+El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General del Estado de Yucatán que, tendrá las siguientes atribuciones:
+
+I. Evaluar la operación administrativa así como el cumplimiento de los objetivos y metas del Archivo General del Estado de Yucatán;
+
+II. Emitir los lineamientos para el funcionamiento del Consejo Técnico Especializado, y
+
+III. Las demás previstas en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O. 28 DE AGOSTO DE 2025)</small>
+
+###### Artículo 116 Quater.
+
+El Órgano de Gobierno estará integrado por un miembro de las siguientes instancias:
+
+I. La Secretaría General de Gobierno, quien lo presidirá;
+
+II. La Secretaría de Administración y Finanzas;
+
+III. La Secretaría de Educación;
+
+IV. La Secretaría de Fomento Turístico;
+
+V. La Secretaría de Cultura y las Artes;
+
+VI. La Secretaría Anticorrupción y Buen Gobierno, y
+
+VII. La Secretaría de Ciencia, Humanidades, Tecnología e Innovación.
+
+Por cada miembro propietario habrá un suplente que deberá tener nivel, por lo menos, de director general o su equivalente. El presidente o a propuesta de alguno de los integrantes del Órgano de Gobierno, podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz pero sin voto.
+
+Los integrantes del Órgano de Gobierno, no obtendrán remuneración, compensación o emolumento por su participación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO III. DEL ÓRGANO DE VIGILANCIA
+
+> <small>(ADICIONADO, D.O. 28 DE AGOSTO DE 2025)</small>
+
+###### Artículo 116 Quinquies.
+
+El Archivo General del Estado de Yucatán contará con un Comisario Público y con una unidad encargada del control y vigilancia, de conformidad con lo dispuesto por el Código de la Administración Pública de Yucatán y su Reglamento; y ejercerá las facultades previstas en estos ordenamientos y los demás que le resulten aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO V (SIC). DEL CONSEJO TÉCNICO ESPECIALIZADO ARCHIVÍSTICO
+
+> <small>(ADICIONADO, D.O. 28 DE AGOSTO DE 2025)</small>
+
+###### Artículo 116 Sexies.
+
+El Archivo General del Estado de Yucatán contará con un Consejo Técnico Especializado que lo asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico. El Consejo Técnico Especializado estará formado por nueve integrantes designados por el Consejo Estatal a convocatoria pública del Archivo General del Estado de Yucatán entre representantes de instituciones de docencia, investigación o preservación de archivos, académicos y expertos destacados. Operará conforme a los lineamientos aprobados por el Consejo Estatal.
+
+Los integrantes del Consejo Técnico Especializado no obtendrán remuneración, compensación o emolumento por su participación.
 
 ## TÍTULO SÉPTIMO. DE LAS INFRACCIONES ADMINISTRATIVAS EN MATERIA DE ARCHIVOS
 
+### Capítulo Único. Infracciones Administrativas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 117.
 
-SIN PERJUICIO DE LAS SANCIONES PENALES O CIVILES QUE CORRESPONDAN, ASÍ COMO DE AQUELLAS QUE ESTABLEZCA LA LEGISLACIÓN FEDERAL, SON CAUSA DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SUJETOS OBLIGADOS POR INCUMPLIMIENTO DE LAS OBLIGACIONES ESTABLECIDAS EN ESTA LEY LAS SIGUIENTES:
+Se consideran infracciones a la presente Ley, las siguientes:
 
 I. Poner en riesgo la integridad de los documentos y dañar de manera intencional, por omisión o negligencia cualquier documento que se resguarde en el archivo de trámite, concentración o histórico.
 
@@ -1507,15 +1533,17 @@ V. Actuar con negligencia en el manejo de la documentación y poner en riesgo la
 
 VI. Usar, sustraer, divulgar, ocultar, alterar, mutilar, destruir o inutilizar, total o parcialmente, sin causa legítima conforme a las facultades correspondientes, y de manera indebida, documentos de archivo de los sujetos obligados.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, D.O. 28 DE AGOSTO DE 2025)</small>
 
-VII. OMITIR POR PARTE DEL FUNCIONARIO PÚBLICO AL SEPARARSE DE SU EMPLEO, CARGO O COMISIÓN, EN LOS TÉRMINOS DE LAS DISPOSICIONES JURÍDICAS APLICABLES, LOS ARCHIVOS O DOCUMENTOS QUE SE ENCUENTREN BAJO SU CUSTODIA INDEPENDIENTEMENTE DEL SOPORTE EN EL QUE SE ENCUENTREN.
+VII. Omitir la entrega de algún documento de archivo bajo la custodia de una persona al separarse de un empleo, cargo o comisión;
 
 VIII. Cualquier otra acción u omisión que contravenga lo dispuesto en esta Ley y demás disposiciones aplicables que de ellos deriven.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 118.
 
-A los servidores públicos que incurran en las infracciones a que se refiere el artículo anterior, se les impondrán las siguientes sanciones:
+Las infracciones administrativas a que se refiere este título o cualquier otra derivada del incumplimiento de las obligaciones establecidas en la presente Ley, cometidas por servidores públicos, serán sancionadas, de acuerdo a lo siguiente:
 
 Amonestación, para el caso de la fracción IV; en el caso de reincidencia se aplicará la multa señalada en este artículo.
 
@@ -1541,9 +1569,9 @@ En caso de reincidencia, las multas podrán duplicarse, dependiendo de la graved
 
 Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza.
 
-(NOTA: EL 25 DE MAYO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2020 Y SU ACUMULADA 221/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 28 DE AGOSTO DE 2025)</small>
 
-SE CONSIDERA GRAVE EL INCUMPLIMIENTO A LAS FRACCIONES III Y VI, DEL ARTÍCULO 117 DE LA LEY; asimismo las infracciones serán graves si los documentos contienen información relacionada con graves violaciones a derechos humanos.
+Se considera grave el incumplimiento a las fracciones III, IV, V, VI y VII del artículo 117 de la Ley; asimismo las infracciones serán graves si los documentos contienen información relacionada con graves violaciones a derechos humanos.
 
 ###### Artículo 120.
 
@@ -1598,3 +1626,13 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 104/2025 POR EL QUE SE MODIFICA LA LEY DE ARCHIVOS PARA EL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN CON EL MARCO GENERAL”.]
+
+PRIMERO. Publíquese el presente Decreto en el Diario Oficial del Estado de Yucatán.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Yucatán.
