@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2025-08-19"
+last_updated: "2025-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -293,9 +293,9 @@ En todo caso, las y los diputados a que se refiere el párrafo anterior, estará
 
 La Legislatura se reunirá a partir del 5 de septiembre de cada año, para celebrar un primer período de sesiones ordinarias, el cual no podrá prolongarse sino hasta el 15 de diciembre del mismo año, y a partir del 15 de febrero de cada año para celebrar un segundo período de sesiones ordinarias, el cual no podrá prolongarse más allá del 31 de mayo del mismo año.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-Durante los periodos ordinarios de la Legislatura, el pleno sesionará cuando menos dos veces a la semana. A consideración de la Presidencia de la Mesa Directiva podrán celebrarse más sesiones, cuando la carga de trabajo lo requiera. La Presidencia de la Mesa Directiva en funciones, por sí o a iniciativa de una diputada o un diputado con aprobación de la mayoría presentes, podrá modificar el día y hora señalados para la celebración de las sesiones.
+Durante los periodos ordinarios de la Legislatura, el pleno sesionará cuando menos dos veces a la semana; debiendo rendir honores a la Bandera Nacional y Estatal, entonándose el Himno Nacional Mexicano, así como el Himno Oficial del Estado de Quintana Roo en la primera y la quinta sesión, en su caso, del mes que corresponda dentro de los periodos ordinarios. En caso de celebrarse sesión solemne, esta podrá contabilizarse como una de ellas. Para estos efectos podrá invitar a diversas instituciones educativas y entidades de la administración pública del Estado de Quintana Roo para ser partícipes del acto cívico. A consideración de la Presidencia de la Mesa Directiva podrán celebrarse más sesiones, cuando la carga de trabajo lo requiera. La Presidencia de la Mesa Directiva en funciones, por sí o a iniciativa de una diputada o un diputado con aprobación de la mayoría presentes, podrá modificar el día y hora señalados para la celebración de las sesiones.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -3018,5 +3018,13 @@ P.O. 19 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 133 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 140 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
