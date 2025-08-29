@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2025-04-30"
+last_updated: "2025-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2025.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -8966,9 +8966,9 @@ XXIII. Establecer los mecanismos necesarios para la creación y regulación del 
 
 XXIV. Generar los Servicios de Información del Patrimonio Ambiental y Urbano de la Ciudad, en coordinación con las Dependencias competentes;
 
-> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2025)</small>
 
-XXV. Coordinar la elaboración, ejecución y evaluación del Programa de Gestión Integral de los Residuos Sólidos de la Ciudad de México, en coordinación con otras autoridades competentes;
+XXV. Colaborar en la elaboración y evaluación del Programa de Gestión Integral de los Residuos Sólidos de la Ciudad de México, en coordinación con otras autoridades competentes;
 
 > <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -8998,9 +8998,9 @@ V. Formular, dar seguimiento permanente y evaluar los resultados de los proyecto
 
 VI. Participar con las autoridades competentes, en la creación de estrategias y mecanismos para el manejo adecuado y ambiental de residuos de la competencia de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2025)</small>
 
-VII. Participar en la elaboración, ejecución y evaluación del Programa de Gestión Integral de los Residuos Sólidos y promover la reducción, el reúso, el aprovechamiento y el reciclaje de los diferentes tipos de residuos en coordinación con otras autoridades competentes;
+VII. Colaborar en la elaboración del Programa de Gestión Integral de los Residuos Sólidos y promover la reducción, el reúso, el aprovechamiento y el reciclaje de los diferentes tipos de residuos en coordinación con otras autoridades competentes;
 
 VIII. Formular y coordinar la ejecución de programas para la protección, restauración y mejoramiento del ambiente; para la conservación, preservación, protección y aprovechamiento sustentable de la biodiversidad; para afrontar y mitigar el cambio climático y los fenómenos meteorológicos extremos; así como para la prevención y control de riesgos ambientales en la Ciudad de México, en coordinación con otras autoridades competentes;
 
@@ -10798,9 +10798,9 @@ XV. Administrar y coordinar los centros interactivos a su cargo, para la impleme
 
 XVI. Establecer en coordinación con las autoridades locales o federales competentes y las instituciones académicas pertinentes, los criterios y normas técnicas que regirán las actividades de minimización, recolección, transferencia, tratamiento, aplicación de nuevas tecnologías y disposición final de residuos sólidos urbanos, así como el saneamiento de sitios clausurados y el desarrollo de sistemas de reciclaje y tratamiento de los residuos sólidos urbanos;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2025)</small>
 
-XVII. Realizar estudios, proyectos, construcción, conservación y mantenimiento de obras de infraestructura para el manejo integral de residuos sólidos urbanos, incluyendo las estaciones de transferencia, plantas de selección de reciclaje y composta, rellenos sanitarios, sitios clausurados, así como cualquier tecnología de tratamiento de los residuos sólidos urbanos;
+XVII. Realizar en coordinación con las autoridades competentes los estudios, proyectos, construcción, conservación y mantenimiento de obras de infraestructura para el manejo integral de los residuos sólidos urbanos en estaciones de transferencia, plantas de selección para el reciclaje y de composta, rellenos sanitarios, sitios de disposición final clausurados y de cualquier tecnología para el manejo y/o tratamiento de los residuos sólidos urbanos;
 
 XVIII. Organizar y llevar a cabo el manejo, tratamiento y disposición final de los residuos sólidos urbanos, así como la operación de las estaciones de transferencia, plantas de selección para el reciclaje y de composta, y de cualquier tecnología para el manejo y/o tratamiento de los residuos sólidos urbanos;
 
@@ -16225,3 +16225,11 @@ CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enuncia
 QUINTO.- A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este Decreto.
 
 SEXTO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
+
+G.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES XXV DEL ARTÍCULO 184, VII DEL ARTÍCULO 185, Y XVII DEL ARTÍCULO 210 DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
