@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2024-01-30"
+last_updated: "2025-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -583,21 +583,21 @@ Los hospitales, las clínicas y los centros de salud, públicos o privados, esta
 
 A falta del obligado preferente, de conformidad con la Ley para la Familia de Coahuila de Zaragoza, las personas adultas mayores maltratadas o en condiciones de pobreza tendrán derecho a una atención integral por parte del Estado en la medida de lo posible, a través de los programas de las instituciones afines. Para gozar de este beneficio, deberán participar en los programas de capacitación que, para tal efecto desarrollen las instituciones competentes.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 14.
 
 Los centros de salud, públicos y privados, llevarán a cabo las siguientes acciones:
 
 I. Tener registros actualizados del ingreso y el egreso de personas adultas mayores, donde conste el tratamiento y la atención médica que se les brindó.
 
-II. Gestionar, en forma inmediata una cartilla médica para el control de salud y autocuidado para la persona adulta mayor, por medio del centro de salud de su adscripción. La cartilla médica de control de salud y autocuidado contendrá un resumen del historial de salud de las personas adultas mayores y servirá para identificarla en instituciones de salud, tanto públicas como privadas.
+II. Gestionar, en forma inmediata, una cartilla médica para el control de salud y autocuidado para la persona adulta mayor, por medio del centro de salud de su adscripción. La cartilla médica de control de salud y autocuidado contendrá un resumen del historial de salud de las personas adultas mayores y servirá para identificarla en instituciones de salud, tanto públicas como privadas.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+III. En los centros de salud públicos, realizar de manera obligatoria, gratuita y anual, evaluaciones geriátricas integrales a todas las personas adultas mayores residentes en el Estado de Coahuila de Zaragoza que lo soliciten, independientemente de su condición de derechohabiencia o afiliación a instituciones de seguridad social.
 
-Realizarán periódicamente evaluaciones geriátricas a aquellas personas adultas mayores que lo requieran y que sean o no derechohabiente de alguna institución de seguridad social.
+Estas evaluaciones deberán ser priorizadas en los calendarios de atención, y tendrán como objetivo la prevención, diagnóstico oportuno, control de enfermedades y la promoción de un envejecimiento saludable.
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2014)</small>
-
-III. Los directores y el personal encargado de los hospitales y clínicas públicas o privadas, donde se lleven personas a las que se refiere esta ley para su atención, están obligados a denunciar ante el Ministerio Público cualquier sospecha razonable de maltrato físico o psicológico cometido en contra de ellas.
+IV. Los directores y el personal encargado de los hospitales y clínicas públicas o privadas, donde se lleven personas a las que se refiere esta ley para su atención, están obligados a denunciar ante el Ministerio Público cualquier sospecha razonable de maltrato físico o psicológico cometido en contra de ellas.
 
 ###### Artículo 15.
 
@@ -995,7 +995,9 @@ I. Los objetivos, estrategias, líneas de acción y acciones particulares para l
 
 II. La participación que corresponderá a las dependencias y/o entidades del Estado, los Municipios y la sociedad en general.
 
-El Programa deberá ser congruente con las directrices fundamentales del Plan Estatal de Desarrollo. El avance en sus metas, líneas estratégicas, acciones, su incidencia y resultados de ejecución se evaluarán de manera permanente y periódica por el Consejo Directivo del Instituto.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+El Programa deberá ser congruente con las directrices fundamentales del Plan Estatal de Desarrollo. El avance en sus metas, líneas estratégicas, acciones, su incidencia y resultados de ejecución se evaluarán de manera permanente y periódica por la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
 ###### Artículo 46.
 
@@ -1884,3 +1886,47 @@ P.O. 24 DE OCTUBRE DE 2023.
 P.O. 30 DE ENERO DE 2024.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 283.- SE REFORMA EL ARTÍCULO 14 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO. El Poder Ejecutivo del Estado, a través de la Secretaría de Salud de Coahuila y en coordinación con el Instituto Coahuilense de las Personas Adultas Mayores, deberá expedir en un plazo no mayor a 90 días naturales a partir de la entrada en vigor del presente Decreto, los lineamientos técnicos, clínicos y operativos para la implementación de las Evaluaciones Geriátricas Integrales previstas en esta Ley.
+
+TERCERO. La Secretaría de Finanzas del Estado deberá considerar en el proyecto de Presupuesto de Egresos del ejercicio fiscal siguiente a la entrada en vigor de este Decreto, una partida específica para garantizar la cobertura progresiva y gratuita de las Evaluaciones Geriátricas Integrales a todas las personas adultas mayores del estado que no cuenten con seguridad social.
+
+CUARTO. Los Servicios de Salud del Estado deberán realizar una campaña de difusión masiva, en coordinación con los municipios, para informar a la población adulta mayor sobre su derecho a la Evaluación Geriátrica Integral anual y los mecanismos para solicitarla, en un plazo no mayor a 60 días naturales contados a partir de la publicación de los lineamientos técnicos.
+
+QUINTO. Los hospitales, centros de salud y clínicas públicas del estado deberán capacitar a su personal médico y de enfermería en la aplicación de la Evaluación Geriátrica Integral en un plazo máximo de seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 284.- SE REFORMA: EL ARTÍCULO 1°, LA FRACCIÓN XLVI DEL ARTÍCULO 3°, EL ARTÍCULO 6°, EL ARTÍCULO 7°, EL ARTÍCULO 9°, LA DENOMINACIÓN DE LA SECCIÓN SEGUNDA DEL CAPÍTULO TERCERO, EL ARTÍCULO 10, EL ARTÍCULO 11, LA DENOMINACIÓN DE LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO, EL ARTÍCULO 15, EL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17, EL ARTÍCULO 18, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 19, EL ARTÍCULO 20, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 23, LAS FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 24, EL ARTÍCULO 27; SE ADICIONA; UN ARTÍCULO 3° BIS; SE DEROGAN: EL CAPÍTULO SEGUNDO, LOS ARTÍCULOS 4°, 5°, 8°, 13, 14, LA SECCIÓN QUINTA DEL CAPÍTULO TERCERO, EL ARTÍCULO 21, TODOS DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se extingue el Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores, el cual conservará exclusivamente su personalidad jurídica para efectos del correspondiente proceso de liquidación, con independencia de las demás funciones y facultades necesarias que se le confieran para tal efecto y en términos de las disposiciones administrativas y presupuestales aplicables.
+
+TERCERO. La Secretaría de Finanzas establecerá las bases para llevar a cabo la liquidación del Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores, las cuales deberán procurar la eficiencia, eficacia, transparencia y adecuada protección del interés público.
+
+CUARTO. Los servidores públicos que por parte de la Secretaría de Finanzas deban intervenir en el proceso de liquidación del Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores, serán designados por el titular de dicha dependencia.
+
+QUINTO. La Secretaría de Fiscalización y Rendición de Cuentas, conforme a sus atribuciones, vigilará y hará el seguimiento del proceso de liquidación del Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores.
+
+SEXTO. Una vez que opere la extinción del Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores, la Secretaría de Finanzas, cancelará su inscripción en el Registro de Entidades Paraestatales como organismo público descentralizado.
+
+SÉPTIMO. Los recursos materiales, financieros y remanentes que se encuentren disponibles hasta la fecha de la liquidación y una vez liquidado el Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores, serán transferidos a la Secretaría de Finanzas, quien destinará dichos recursos al patrimonio del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, de acuerdo a los lineamientos que para su entrega-recepción determine la Secretaría de Fiscalización y Rendición de Cuentas en coordinación con la Secretaría de Finanzas.
+
+OCTAVO. La Secretaría de Finanzas, en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+NOVENO. Los asuntos ya iniciados conforme a las disposiciones vigentes antes de la entrada en vigor del presente decreto, continuarán tramitándose bajo dichas disposiciones, esto hasta el momento en que se realice la entrega-recepción y se emita la regulación correspondiente.
+
+DÉCIMO. Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales, contemplados en el Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila y/o la normatividad aplicable.
+
+DÉCIMO PRIMERO. La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza deberá llevar a cabo las acciones que correspondan para la instalación del Consejo Consultivo.
+
+DÉCIMO SEGUNDO. En un plazo de ciento ochenta días deberán realizarse las adecuaciones legales, reglamentarias y a las demás disposiciones administrativas que resulten procedentes.
+
+DÉCIMO TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
