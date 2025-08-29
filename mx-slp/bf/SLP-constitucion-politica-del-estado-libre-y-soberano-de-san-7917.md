@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2025-05-27"
+last_updated: "2025-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1283,19 +1283,27 @@ XII.- Cumplir con las obligaciones que le impongan la Legislatura y las disposic
 
 ### CAPÍTULO VI. De la Iniciativa y Formación de Leyes
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 61.
 
-El derecho de iniciar leyes corresponde a los diputados, al Gobernador, al Supremo Tribunal de Justicia, y a los ayuntamientos, así como a los ciudadanos del Estado.
+El derecho de iniciar leyes les corresponde a:
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+I. A las personas que sean diputadas locales;
 
-Dentro de los primeros quince días de cada periodo ordinario de sesiones, el Gobernador del Estado podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Las iniciativas deberán ser dictaminadas, discutidas y votadas por el Pleno del Congreso del Estado, en un plazo máximo de cuarenta y cinco días naturales. Si no fuere así, en sus términos y sin mayor trámite, las iniciativas serán los primeros asuntos que deberán ser discutidos y votados en la siguiente sesión del Pleno.
+II. A la persona titular del Poder Ejecutivo del Estado;
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2014)</small>
+III. Al Pleno del Supremo Tribunal de Justicia del Estado;
 
-No podrán tener carácter preferente las iniciativas que propongan modificar esta Constitución.
+IV. A los Cabildos de los ayuntamientos del Estado;
+
+V. A los Organismos Constitucionales Autónomos del Estado, únicamente respecto de aquellas materias que se relacionen con sus atribuciones, y ámbito de su competencia, y
+
+VI. A las personas ciudadanas del Estado, de acuerdo con los requisitos que señala la Ley Orgánica del Poder Legislativo del Estado, y su Reglamento.
+
+Dentro de los primeros quince días de cada periodo ordinario de sesiones, la persona titular del Poder Ejecutivo del Estado podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Las iniciativas deberán ser dictaminadas, discutidas y votadas por el Pleno del Congreso del Estado, en un plazo máximo de cuarenta y cinco días naturales. Si no fuere así, en sus términos y sin mayor trámite, las iniciativas serán los primeros asuntos que deberán ser discutidos y votados en la siguiente sesión del Pleno.
+
+En ningún caso podrán tener el carácter de preferentes las iniciativas que propongan modificar esta Constitución.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -4062,3 +4070,11 @@ TERCERO. Las autoridades de salud deberán garantizar el acceso universal y grat
 CUARTO. A partir de la entrada en vigor del presente Decreto, las instituciones de salud pública, contarán con un plazo de sesenta días naturales para expedir o adecuar sus reglamentos, lineamientos y protocolos en materia de interrupción legal del embarazo.
 
 QUINTO. Se derogan las disposiciones que se contravengan al presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0247.- QUE REFORMA EL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DEL DERECHO A PRESENTAR INICIATIVAS DE LEY".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
