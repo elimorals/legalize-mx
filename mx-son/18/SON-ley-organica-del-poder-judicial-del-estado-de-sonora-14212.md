@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2022-09-29"
+last_updated: "2025-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 29 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE AGOSTO DE 2025. (ABROGADA)
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -3066,3 +3066,137 @@ B.O. 29 DE SEPTIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el mismo día de la entrada en vigor de la Ley número 88, que reforma y adiciona diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Sonora, en materia de Justicia Laboral, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 80, ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado de Sonora, publicada en el Boletín Oficial No. 48, sección I, de fecha 12 de diciembre de 1996.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto las Magistradas y Magistrados electos tomen protesta de su cargo ante el Congreso del Estado el 01 de septiembre de 2025, el Supremo Tribunal de Justicia del Estado de Sonora, se regirá para todos los efectos por las disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora el 12 de diciembre de 1996.
+
+El Pleno del Supremo Tribunal de Justicia ejercerá las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, hasta en tanto sean creados e inicien sus funciones el Tribunal de Disciplina Judicial y el Órgano de Administración del Poder Judicial del Estado de Sonora.
+
+En caso de que la Presidencia del Supremo Tribunal de Justicia quede vacante entre el período que comprende la entrada en vigor de esta nueva Ley y la toma de protesta por la persona que resulte electa para ese cargo en el proceso de elecciones ordinarias previsto para el año dos mil veintisiete, asumirá dicho cargo la Magistrada o el Magistrado que por mayoría de votos elija el Pleno del Supremo Tribunal de Justicia del Estado de Sonora.
+
+Para los efectos de lo dispuesto en el párrafo primero del artículo décimo primero transitorio de la Ley 76, que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Sonora, en materia de reforma al Poder Judicial, en caso de renuncia, fallecimiento, ausencia temporal o definitiva y licencias, que se produzcan antes del resultado del proceso de elección programado para dos mil veintisiete, respecto de Magistradas y Magistrados del Supremo Tribunal de Justicia, que hayan sido designadas conforme a las disposiciones constitucionales vigentes antes de la entrada en vigor de la referida Ley 76 y a la Ley Orgánica del Poder Judicial publicada en el Boletín Oficial del Gobierno del Estado de Sonora el doce de diciembre de mil novecientos noventa y seis, que no hayan participado en el proceso de elección extraordinaria 2024 - 2025, serán suplidas o sustituidas por las personas que designe de manera provisional el Ejecutivo Estatal, de acuerdo con la normatividad vigente antes de la entrada en vigor de la Ley 76 citada y la Nueva Ley Orgánica del Poder Judicial que mediante esta Ley se aprueba.
+
+Por lo que hace a lo dispuesto en el último párrafo del artículo 36 de esta Ley Orgánica, en el caso de verificarse impedimento legal de todas las personas magistradas del Supremo Tribunal de Justicia para conocer de un asunto, al integrarse una sala mixta con personas magistradas suplentes y únicamente en lo referente a las personas magistradas que fueron designas (sic) con anterioridad a la entrada en vigor de la ya referida Ley 76 publicada en el Boletín Oficial del Gobierno del Estado de Sonora, sus suplentes serán nombrados por el Pleno del Supremo Tribunal de Justicia, sin sujetarse a la regla establecida en el referido artículo 36.
+
+Cuando Magistradas y Magistrados Regionales de Circuito, así como Juezas y Jueces, que hayan sido designados antes de la entrada en vigor de la Ley Número 76 referida y que no hayan participado en el proceso de elecciones extraordinario 2024 - 2025 y se ausenten de manera definitiva por renuncia o fallecimiento, o se ausenten de manera temporal por licencias o diversos supuestos previstos en las leyes, el Pleno del Supremo Tribunal nombrará provisionalmente, por mayoría de votos, a la persona que deba suplirlos en dicha función, hasta en tanto tomen protesta e inicien sus funciones las personas que resulten electas para esos cargos, como resultado del proceso de elecciones ordinarias de dos mil veintisiete.
+
+###### ARTÍCULO CUARTO.
+
+Durante el tiempo que resulte necesario, los Juzgados a que se refieren las fracciones I, II, V y VIII del artículo 59 de esta ley, podrán continuar conociendo de la materia de justicia especializada para adolescentes, conforme a la Ley que establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora y demás cuerpos normativos aplicables a esa materia, atendiendo a las necesidades del servicio.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones al "Código Procesal Civil Vigente" en lo referente a impedimentos, deberán entenderse referidas al Código de Procedimientos Civiles para el Estado de Sonora, para los asuntos iniciados con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares.
+
+###### ARTÍCULO SEXTO.
+
+El Pleno del Supremo Tribunal de Justicia implementará un Plan de Trabajo para la transferencia de los recursos materiales, humanos tecnológicos, financieros y presupuestales al Tribunal de Disciplina Judicial respecto a las funciones de disciplina y control interno de los integrantes del Poder Judicial del Estado de Sonora y al Órgano de Administración del Poder Judicial en lo que corresponde a sus funciones administrativas y de carrera judicial, el cual se ejecutará a través de la Oficialía Mayor del Poder Judicial del Estado y los órganos que estime conducentes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Pleno del Supremo Tribunal de Justicia deberá garantizar la continuidad de la vigencia de los instrumentos jurídicos en los que se sustenten los procedimientos de adquisición de bienes, contratación de servicios, arrendamientos, obras y todo lo relacionado con las mismas, que sean estrictamente indispensables para el funcionamiento de los distintos órganos jurisdiccionales y administrativos del Poder Judicial del Estado de Sonora, de conformidad con el presupuesto de egresos aprobado por el Congreso del Estado para el año fiscal en curso.
+
+###### ARTÍCULO OCTAVO.
+
+Los Procedimientos de Responsabilidades Administrativas que se encontraren en trámite al momento de entrada en vigor de lo dispuesto en esta Ley, ante el Pleno del Consejo del Poder Judicial, el Pleno del Supremo Tribunal de Justicia, la Comisión de Disciplina del Supremo Tribunal de Justicia y la Visitaduría Judicial y Contraloría, serán atendidos hasta su resolución por la autoridad competente al momento de su inicio y en apego a las disposiciones legales vigentes en aquel momento.
+
+Lo dispuesto en el párrafo anterior aplicará también a las Investigaciones que se encuentren iniciadas por la Unidad de Investigación de Responsabilidades Administrativas, que continuarán su curso ante dicha instancia hasta que concluyan con la emisión del Informe de Presunción de Responsabilidad Administrativa o el acuerdo de concusión y archivo, según corresponda, investigaciones que se realizarán conforme al procedimiento previsto en las normas aplicables al momento de su inicio.
+
+Concluidos los expedientes de Investigaciones y Substanciaciones de Procedimientos de Responsabilidades Administrativas, el Pleno del Consejo del Poder Judicial, el Pleno del Supremo Tribunal de Justicia, la Comisión de Disciplina del Supremo Tribunal de Justicia y la Visitaduría Judicial y la Contraloría que hubieren conocido de éstos, lo informarán al Tribunal de Disciplina Judicial y mantendrán su custodia y archivo definitivo.
+
+Todo lo que no se encuentre previsto en este artículo, respecto de las Investigaciones y Procedimientos de Responsabilidades Administrativas que se encontraren en trámite al momento de entrada en vigor de lo dispuesto en esta Ley, será resuelto por el Pleno del Supremo Tribunal de Justicia del Estado de Sonora, mediante Acuerdos Generales, que deberán ser publicados en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO NOVENO.
+
+Los Acuerdos Generales emitidos por el Supremo Tribunal de Justicia continuarán vigentes todo lo que no se opongan a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado Libre y Soberano de Sonora y a la presente Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+Las Magistradas y Magistrados, Juezas y Jueces del Poder Judicial del Estado de Sonora, que concluyan su cargo por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo conforme la presente Ley, serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con los recursos que se destinen en el Presupuesto de Egresos por la Secretaría de Hacienda del Gobierno del Estado de Sonora. Este derecho no estará disponible para las personas juzgadoras que continuarán su relación laboral con el Poder Judicial al haber resultado electas para un cargo diverso al que ocupaban antes de participar en el proceso de elecciones extraordinario 2024 - 2025.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Para la impartición de justicia en las materias que por disposición legal competen al Poder Judicial del Estado de Sonora, hasta en tanto el Órgano de Administración del Poder Judicial, lleve a cabo la actualización de los distritos judiciales, se utilizará la siguiente distritación:
+
+I. Distrito Judicial de Álamos, que comprende la Municipalidad de ÁLAMOS, con las Comisarías de Tapizuelas, Basiroa, Gerocoa, Minas Nuevas, Los Tanques, Macoyahui, San Bernardo, Los Camotes, Maquipo, Potrero de Reuter, Potrero de Alcántar, El Limón, El Cupis, La Laborcita, Conicárit, Los Muertos, Cochibampo, El Chinal, Palos Chinos, Guirocoba y El Tábelo. Su cabecera será: ÁLAMOS;
+
+II. Distrito Judicial de Agua Prieta, que comprende las siguientes Municipalidades: AGUA PRIETA, con las Comisarías de Colonia Morelos y el Pozo Morelos; FRONTERAS, con las Comisarías de Cuquiárachi y Esqueda; BAVISPE, con la Comisaría de San Miguel de Bavispe; BACERAC y HUACHINERA. Su cabecera será: AGUA PRIETA;
+
+III. Distrito Judicial de Altar, que comprende las siguientes Municipalidades: ALTAR, con la Comisaría de El Plomo; CABORCA; ÁTIL; OQUITOA; SÁRIC, con la Comisaría de Sásabe; TRINCHERAS, con la Comisaría de El Puerto de Camou; PITIQUITO, con la Comisaría de La Ciénega; y TUBUTAMA, con las Comisarías de La Reforma y La Sangre. Su cabecera será: CABORCA;
+
+IV. Distrito Judicial de Cajeme, que comprende las siguientes Municipalidades: CAJEME, con las Comisarías de Cócorit, Esperanza, Providencia y Pueblo Yaqui; BÁCUM, SAN IGNACIO RÍO MUERTO y ROSARIO, con las Comisarías de Cedros, Nuri, La Dura y Movas, las Comisarías de Vícam, Pótam y Torím de la Municipalidad de GUAYMAS. Su cabecera será: CIUDAD OBREGÓN;
+
+V. Distrito Judicial de Cananea, que comprende las siguientes Municipalidades: CANANEA; ARIZPE, con las Comisarías de Chinapa, Bacanuchi y Sinoquipe; BACOACHI y NACO. Su cabecera será: CANANEA;
+
+VI. Distrito Judicial de Guaymas, que comprende las siguientes Municipalidades: GUAYMAS, con las Comisarías de La Misa, Ortiz, San Carlos Nuevo Guaymas y Francisco Márquez; y EMPALME, con la Comisaría de Maytorena. Su cabecera será: GUAYMAS;
+
+VII. Distrito Judicial de Hermosillo, que comprende las siguientes Municipalidades: HERMOSILLO, con las Comisarías de El Poblado Miguel Alemán y San José de Gracia; LA COLORADA, con las Comisarías de San José de Pimas, Moradillas, Tecoripa y Estación Serdán; SAN JAVIER; SUAQUI GRANDE; MAZATÁN; SAN MIGUEL DE HORCASITAS, con las Comisarías de Los Ángeles y Pesqueira; CARBÓ; ONAVAS y SOYOPA, con las Comisarías de Tónichi, San Antonio de la Huerta, Llano Colorado y Rebeico; las Comisarías de Félix Gómez y Puerto Libertad del Municipio de PITIQUITO; la Comisaría de Querobabi del Municipio de OPODEPE. Su cabecera será: HERMOSILLO;
+
+VIII. Distrito Judicial de Huatabampo, que comprende las siguientes Municipalidades: HUATABAMPO, con las Comisarías de Citavaro, La Galera, Jupare, Etchoropo, Yavaros, Moroncarit y Agiabampo; ETCHOJOA, con las Comisarías La Villa, Basconcobe, Bacobampo, Chucarit y San Pedro; y BENITO JUÁREZ. Su cabecera será: HUATABAMPO;
+
+IX. Distrito Judicial de Magdalena, que comprende las siguientes Municipalidades: MAGDALENA, con las Comisarías de San Ignacio y San Lorenzo; CUCURPE; ÍMURIS, con la Comisaría de Terrenate; SANTA ANA, con las Comisarías de Estación Llano, Coyotillo y Santa Martha; BENJAMÍN HILL. Su cabecera será: MAGDALENA;
+
+X. Distrito Judicial de Moctezuma, que comprende las siguientes Municipalidades: MOCTEZUMA, con la Comisaría de Térapa; NACOZARI DE GARCÍA, con las Comisarías de Pilares de Nacozari, El Tigre y Casa de Teras; BACADEHUACHI; CUMPAS, con la Comisaría de Jécori, Teonadepa, Ojo de Agua, Los Hoyos y Colonia Alvaro Obregón; DIVISADEROS; GRANADOS; HUASABAS; NACORI CHICO; VILLA HIDALGO y TEPACHE. Su Cabecera será: CUMPAS;
+
+XI. Distrito Judicial de Navojoa, que comprende las siguientes Municipalidades: Navojoa, con las Comisarías de Rosales, Tesia, Camoa, San Ignacio, Bacabachi, Fundición y Masiaca; y QUIRIEGO, con la Comisaría de Batacosa. Su cabecera será: NAVOJOA;
+
+XII. Distrito Judicial de Nogales, que comprende las siguientes Municipalidades: NOGALES y SANTA CRUZ. Su cabecera será: NOGALES;
+
+XIII. Distrito Judicial de Puerto Peñasco, que comprende las siguientes Municipalidades: PUERTO PEÑASCO y GENERAL PLUTARCO ELÍAS CALLES. Su cabecera será: PUERTO PEÑASCO;
+
+XIV. Distrito Judicial de San Luis Río Colorado, que comprende la Municipalidad de SAN LUIS RÍO COLORADO, con la Comisaría de Luis B. Sánchez. Su cabecera será: SAN LUIS RÍO COLORADO;
+
+XV. Distrito Judicial de Sahuaripa, que comprende las siguientes Municipalidades: SAHUARIPA, con las Comisarías de Güisamopa, La Mesita de Cuajari, Santo Tomás, Sehuadéhuachi, Mulatos, Trigo de Corodepe, La Iglesia y Valle de Tacupeto; ARIVECHI, con las Comisarías de Bámori y Tarachi; BACANORA, con las Comisarías de Mina México, Santa Teresa, Milpillas y Encinal; y YÉCORA, con las Comisarías de Guadalupe, Santa Ana, Santa Rosa, Tepoca, La Trinidad y Maycoba. Su cabecera será: SAHUARIPA; y
+
+XVI. Distrito Judicial de Ures, que comprende las siguientes Municipalidades: URES, con las Comisarías de Guadalupe, La Palma, Pueblo de Álamos, Santa Rosalía y Rancho de San Pedro; ACONCHI, con la Comisaría de La Estancia; BANÁMICHI; BAVIACORA, con las Comisarías de Suaqui, La Capilla, San José de Baviácora; HUÉPAC, con la Comisaría de Ranchito de Huépac; OPODEPE, con las Comisarías de Meresichi y Tuape; RAYÓN; SAN PELIPE (SIC); SAN PEDRO DE LA CUEVA y VILLA PESQUEIRA, con la Comisaría de Nácori Grande. Su cabecera será: URES.
+
+En el Sistema de Justicia Penal Acusatorio
+
+I. Distrito Judicial 1, que comprende las siguientes municipalidades: Hermosillo, con las Comisarías de El Poblado Miguel Alemán y San José de Gracia; La Colorada, con las Comisarías de San José de Pimas, Moradillas, Tecoripa y Estación Serdán; San Javier; Suaqui Grande; Mazatán; San Miguel de Horcasitas, con las Comisarías de Los Ángeles y Pesqueira; Carbó; Ónavas y Soyopa, con las Comisarías de Tónichi, San Antonio de la Huerta, Llano Colorado y Rebeico; las Comisarías de Félix Gómez y Puerto Libertad del Municipio de Pitiquito; la Comisaría de Querobabi del Municipio de Opodepe; Municipio de Sahuaripa, con las Comisarías de Güisamopa, La Mesita del Cuajari, Santo Tomás, Sehuadéhuachi, Mulatos, Trigo de Corodepe, La Iglesia y Valle de Tacupeto; Arivechi, con las Comisarías de Bámori y Tarachi; Bacanora, con las Comisarías de Mina México, Santa Teresa, Milpillas y Encinal; y Yécora, con las Comisarías de Guadalupe, Santa Ana, Santa Rosa, Tepoca, La Trinidad y Maycoba; Municipio de Ures, con las Comisarías de Guadalupe, La Palma, Pueblo de Álamos, Santa Rosalía y Rancho de San Pedro; Aconchi, con la Comisaría de La Estancia; Banámichi; Baviácora, con las Comisarías de Suaqui, La Capilla, San José de Baviácora; Huépac, con la Comisaría de Ranchito de Huépac; Opodepe, con las Comisarías de Meresichic y Tuape; Rayón; San Felipe; San Pedro de La Cueva y Villa Pesqueira, con la Comisaría de Nácori Grande. La cabecera del Distrito Judicial 1 estará en: Hermosillo;
+
+II. Distrito Judicial 2, que comprende las siguientes municipalidades: Cajeme, con las Comisarías de Cócorit, Esperanza, Providencia y Pueblo Yaqui; Bácum, San Ignacio Río Muerto y Rosario, con las Comisarías de Cedros, Nuri, La Dura y Movas, las Comisarías de Vícam, Pótam y Tórim de la Municipalidad de Guaymas. La cabecera del Distrito Judicial 1 estará en: Ciudad Obregón;
+
+III. Distrito Judicial 3, que comprende las siguientes municipalidades: Municipio de Nogales; Santa Cruz; Magdalena, con las Comisarías de San Ignacio y San Lorenzo; Cucurpe; Ímuris, con la Comisaría de Terrenate; Santa Ana, con las Comisarías de Estación Llano, Coyotillo y Santa Martha y Benjamín Hill. La cabecera del Distrito Judicial 3 estará en: Nogales;
+
+IV. Distrito Judicial 4, que comprende la municipalidad de San Luis Rio Colorado, con la Comisaría de Luis B. Sánchez. La cabecera del Distrito Judicial 4 estará en: San Luis Rio Colorado;
+
+V. Distrito Judicial 5, que comprende las siguientes municipalidades Navojoa, con las Comisarías de Rosales, Tesia, Camoa, San Ignacio, Bacabachi, Fundición y Masiaca; Quiriego, con la Comisaría de Batacosa; Municipio de Álamos, con las Comisarías de Tapizuelas, Basiroa, Gerocoa, Minas Nuevas, Los Tanques, Macoyahui, San Bernardo, Los Camotes, Maquipo, Potrero de Reuter, Potrero de Alcántar, El Limón, El Cupis, La Laborcita, Conicárit, Los Muertos, Cochibampo, El Chinal, Palos Chinos, Guirocoba y El Tabelo; Municipio de Huatabampo, con las Comisarías de Citavaro, La Galera, Júpare, Etchoropo, Yavaros, Moroncárit y Agiabampo; Etchojoa, con las Comisarías La Villa, Basconcobe, Bacobampo, Chucárit y San Pedro; y Benito Juárez. La cabecera del Distrito Judicial 5 estará en: Navojoa;
+
+VI. Distrito Judicial 6, que comprende las siguientes municipalidades: Guaymas, con las Comisarías de La Misa, Ortiz, San Carlos Nuevo Guaymas y Francisco Márquez; y Empalme, con la Comisaría de Maytorena. La cabecera del Distrito Judicial 6 estará en: Guaymas;
+
+VII. Distrito Judicial 7, que comprende las siguientes municipalidades: Agua Prieta, con las Comisarías de Colonia Morelos y el Pozo Morelos; Fronteras, con las Comisarías de Cuquiárachi y Esqueda; Bavispe, con la Comisaría de San Miguel de Bavispe; Bacerac y Huachinera; Municipio de Cananea; Arizpe, con las Comisarías de Chinapa, Bacanuchi y Sinoquipe; Bacoachi y Naco; Municipio de Moctezuma, con la Comisaría de Terapa; Nacozari de García, con las Comisarías de Pilares de Nacozari, El Tigre y Casa de Teras; Bacadéhuachi; Cumpas, con la Comisaría de Jécori, Teonadepa, Ojo de Agua, Los Hoyos y Colonia Álvaro Obregón; Divisaderos; Granados; Huásabas; Nácori Chico; Villa Hidalgo y Tepache. La cabecera del Distrito Judicial 7 estará en: Agua Prieta; y
+
+VIII. Distrito Judicial 8, que comprende las siguientes municipalidades: Altar, con la Comisaría de El Plomo; Caborca; Átil; Oquitoa; Sáric, con la Comisaría de Sásabe; Trincheras, con la Comisaría de El Puerto de Camou; Pitiquito, con la Comisaría de La Ciénega; y Tubutama, con las Comisarías de La Reforma y La Sangre; Municipio de Puerto Peñasco y General Plutarco Elías Calles. La cabecera del Distrito Judicial 8 estará en: Caborca.
+
+En materia de Justicia Laboral.
+
+I. Distrito Judicial 1, que comprende las siguientes municipalidades: Benjamín Hill, Opodepe, Banámichi, Huépac, San Felipe de Jesús, Cumpas, Ures, Villa Hidalgo, San Pedro de la Cueva, Hermosillo, Bacadehuachi, Bacerac, Sahuaripa, Yécora, Bacanora, Suaqui Grande, Soyopa, Huásabas, Aconchi, Baviácora, Carbó, Rayón, San Miguel de Horcasitas, Moctezuma, Mazatán, Villa Pesqueira, Divisaderos, Granados, Huachinera, Nácori Chico, Arivechi, Onavas, San Javier, La Colorada y Tepache. La cabecera del Distrito Judicial 1 estará en: Hermosillo.
+
+II. Distrito Judicial 2, que comprende las siguientes municipalidades: Cajeme, Bácum, San Ignacio Río Muerto, Rosario, Benito Juárez y Quiriego. La cabecera del Distrito Judicial 2 estará en: Ciudad Obregón.
+
+III. Distrito Judicial 3, que comprende las siguientes municipalidades: Nogales, Santa Cruz Cananea, Naco, Agua Prieta, lmuris, Santa Ana, Fronteras, Bavispe, Nacozari, Bacoachi, Arizpe, Cucurpe, Magdalena, Trincheras, Atil, Tubutama, Sáric y Oquitoa. La cabecera del Distrito Judicial 3 estará en: Nogales.
+
+IV. Distrito Judicial 4, que comprende las siguientes municipalidades: San Luis Río Colorado y Plutarco Elías Calles. La cabecera del Distrito Judicial 4 estará en: San Luis Río Colorado.
+
+V. Distrito Judicial 5, que comprende las siguientes municipalidades: Puerto Peñasco, Caborca, Pitiquito y Altar. La cabecera del Distrito Judicial 5 estará en: Puerto Peñasco.
+
+VI. Distrito Judicial 6, que comprende las siguientes municipalidades: Navojoa, Álamos, Etchojoa y Huatabampo. La cabecera del Distrito Judicial 6 estará en: Navojoa.
+
+VII. Distrito Judicial 7, que comprende las siguientes municipalidades: Guaymas y Empalme. La cabecera del Distrito Judicial 7 estará en: Guaymas.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se abrogan las leyes y se derogan las disposiciones normativas que se opongan a lo dispuesto en la presente Ley.
