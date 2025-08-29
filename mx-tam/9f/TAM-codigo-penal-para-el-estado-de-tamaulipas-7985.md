@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-07-09"
+last_updated: "2025-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -5051,9 +5051,9 @@ e) El incapaz sobre el que se es tutor o curador.
 
 Para los efectos de este artículo, se entenderán por tipos de violencia y/o maltrato los previstos por los artículos 3, de la Ley de Prevención de la Violencia Familiar del Estado de Tamaulipas y 3, de la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
-A quien cometa el delito de violencia familiar se le impondrá de dos a siete años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado y estará obligado al pago de la reparación del daño de las víctimas
+A quien cometa el delito de violencia familiar se le impondrá de dos a siete años de prisión y perderá los derechos de pensión alimenticia, así como los de carácter sucesorio con relación a la víctima. Asimismo, se le sujetará a tratamiento psicológico especializado y estará obligado al pago de la reparación del daño de las víctimas.
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
 
@@ -7856,6 +7856,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 9 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-363 MEDIANTE EL CUAL SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-372 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 368 BIS, PÁRRAFO CUARTO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE PÉRDIDA DE DERECHOS SUCESORIOS EN EL DELITO DE VIOLENCIA FAMILIAR”.]
 
 ###### ARTÍCULO ÚNICO.
 
