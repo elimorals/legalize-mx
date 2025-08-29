@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2025-08-19"
+last_updated: "2025-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1886,6 +1886,14 @@ Cuando el sujeto activo sea padre o tutor de la víctima, se aumentará hasta un
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ARTICULO 167 QUINQUIES.- A quien sin la autorización correspondiente divulgue o amenace con difundir video o imágenes eróticas sexuales de una persona, obtenidas con o sin el consentimiento de esta, se le impondrá una pena de 3 a 6 años de prisión, de 1000 a 2000 veces el valor diario de la UMA, y desde 1000 hasta 2000 veces el valor diario de la UMA por concepto de reparación del daño.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+ARTICULO 167 SEXTUS.- Al que por medio de internet, o de cualquier otra tecnología de la información y la comunicación contacte a un menor de 18 años con el objetivo de concertar un encuentro con fines sexuales o solicitar favores de naturaleza sexual, será castigado con la pena de 3 a 6 años de prisión y multa de 1,000 a 2,000 veces el valor diario de la UMA, sin perjuicio de las penas correspondientes a los delitos en su caso cometidos. Las penas se aumentarán hasta una tercera parte, cuando el acercamiento se obtenga mediante coacción, intimidación o engaño.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+ARTICULO 167 SEPTIMUS.- Al que, a través de internet, o de cualquier otra tecnología de la información y la comunicación contacte a un menor de 18 años con el fin de obtener material pornográfico o mostrarle imágenes pornográficas, será castigado con una pena de prisión de 3 a 6 años de prisión y multa de 1,000 a 2,000 veces el valor diario de la UMA.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2003)</small>
 
@@ -5112,3 +5120,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO Y AL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO PARA GARANTIZAR EL INTERÉS SUPERIOR DE NIÑAS, NIÑOS Y ADOLESCENTES EN MATERIA DE REDES SOCIALES DIGITALES".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
