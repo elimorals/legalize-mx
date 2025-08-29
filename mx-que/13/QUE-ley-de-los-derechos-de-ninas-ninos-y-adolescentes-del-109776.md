@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109776"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2025-03-07"
+last_updated: "2025-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -111,6 +111,12 @@ XIII. Informe de adoptabilidad: El documento expedido por el Sistema Estatal DIF
 
 XIV. Medida de protección: Aquella que obliga a las autoridades competentes a que de manera concurrente restituyan los derechos que le han sido vulnerados a niñas, niños y adolescentes;
 
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2025)</small>
+
+XIV. Bis. Plataformas de redes sociales digitales: Sitio web o aplicación cuya función principal es difundir información generada por sus propios usuarios como textos, datos, voz, imágenes, videos, música, sonidos o una combinación de éstos con fines de interacción, comunicación, información o esparcimiento.
+
+No serán considerados plataformas de redes sociales digitales, los servicios de mensajería instantánea.
+
 XV. Procuraduría de Protección Estatal: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro;
 
 XVI. Procuradurías de Protección Municipales: La Procuraduría de Protección de Niñas, Niños y Adolescentes de cada Municipio;
@@ -126,6 +132,10 @@ XX. Representación coadyuvante: El acompañamiento de niñas, niños y adolesce
 XXI. Representación originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto el Código Civil del Estado de Querétaro, esta Ley y demás disposiciones aplicables;
 
 XXII. Representación en suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección Estatal y Procuradurías de Protección Municipales, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2025)</small>
+
+XXII. Bis. Servicio de mensajería instantánea: Software o aplicación que propicia conversaciones en línea entre dos o más personas;
 
 XXIII. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro;
 
@@ -1164,6 +1174,26 @@ El Estado garantizará a niñas, niños y adolescentes su integración a la soci
 ###### Artículo 94 Quáter.
 
 Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+###### Artículo 94 Quinquies.
+
+Las plataformas de redes sociales digitales, deberán en todo momento priorizar, todas aquellas acciones orientadas a salvaguardar el interés superior de niñas, niños y adolescentes, atendiendo a los tratados internacionales suscritos por el Estado Mexicano y demás disposiciones legales aplicables.
+
+Lo anterior implica establecer mecanismos de denuncia y de reparación de derechos afectados por aquellos procesos de recolección de datos y moderación de contenidos, que impliquen una omisión en el deber de velar por el interés superior de niñas, niños y adolescentes, en todos sus ámbitos.
+
+Las plataformas de redes sociales digitales no deberán permitir el acceso a niñas, niños y adolescentes menores de catorce años de edad.
+
+Para el caso de adolescentes de entre catorce años cumplidos y menores de dieciocho años de edad, las plataformas de redes sociales digitales, deberán obtener el consentimiento del padre, madre o tutor, para el registro del adolescente como usuario.
+
+Los datos relativos a este grupo poblacional, serán considerados Datos Personales Sensibles en términos de las disposiciones legales aplicables.
+
+Las plataformas de redes sociales digitales, implementarán los mecanismos, filtros y medidas de seguridad o protección necesarios para dar cumplimiento a lo establecido en el presente artículo.
+
+Asimismo, deberán prever mecanismos para impedir activamente el uso de servicios que no estén desarrollados o no sean adecuados para satisfacer las necesidades de niñas, niños y adolescentes y que atenten contra el interés superior de éstos.
+
+Las plataformas de redes sociales digitales serán responsables por el incumplimiento de las disposiciones establecidas anteriormente, así como por los daños y perjuicios ocasionados a niñas, niños y adolescentes en términos de las disposiciones legales aplicables.
 
 ## Título Tercero. De los derechos y obligaciones
 
@@ -2206,3 +2236,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO Y AL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO PARA GARANTIZAR EL INTERÉS SUPERIOR DE NIÑAS, NIÑOS Y ADOLESCENTES EN MATERIA DE REDES SOCIALES DIGITALES".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
