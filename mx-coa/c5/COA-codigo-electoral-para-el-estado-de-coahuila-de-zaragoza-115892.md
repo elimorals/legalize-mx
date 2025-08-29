@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2025-07-08"
+last_updated: "2025-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -371,6 +371,10 @@ g) No estar condenada o condenado por el delito de violencia política contra la
 
 h) No haber sido condenada o condenado por resolución o condena judicial firme por delito, INFRACCIÓN O DECLARACIÓN de cualquier tipo o modalidad de violencia en contra de las mujeres en razón de género de las contempladas en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia o la Ley de Acceso a las Mujeres a una Vida Libre de Violencia del Estado, así como por delitos, INFRACCIONES O DECLARACIONES COMETIDAS en contra de niñas, niños y adolescentes, establecidos en el Código Penal del Estado, o en la normatividad aplicable correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+i) No ser declarada, por juez o jueza competente, como persona deudora alimentaria morosa en los términos que establece el Código Nacional de Procedimientos Civiles y Familiares, lo cual se corroborará presentando el certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
+
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 11.
@@ -379,9 +383,9 @@ h) No haber sido condenada o condenado por resolución o condena judicial firme 
 
 2. Los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, a las candidaturas a diputaciones por mayoría relativa en la lista de representación proporcional.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE AGOSTO DE 2025)</small>
 
-### CAPÍTULO TERCERO. AFECTACIÓN A LOS DERECHOS POLÍTICO-ELECTORALES POR VIOLENCIA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
+### CAPÍTULO TERCERO. AFECTACIÓN A LOS DERECHOS POLÍTICO-ELECTORALES POR VIOLENCIA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO O POR INCUMPLIMIENTO DE OBLIGACIONES ALIMENTARIAS
 
 (NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -405,21 +409,9 @@ La solicitud para declarar la inelegibilidad podrá ser presentada por cualquier
 
 Para tal efecto, el Tribunal deberá realizar las notificaciones personales correspondientes y podrá allegarse de todos los documentos necesarios para sustanciar y resolver el medio de impugnación.
 
-(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
-
-Artículo 11 TER. El derecho a ser votado podrá suspenderse temporalmente cuando existan actos cuya naturaleza contenga violencia en razón de género, estableciéndose como supuestos enunciativos, pero no limitativos, los siguientes:
-
-I. Las personas deudoras alimentarias que no proporcionen los recursos necesarios a cualquier persona ascendiente o descendiente, menores incapaces o adultos mayores, respecto de la que tenga obligación legal de proveer a su alimentación, habitación, salud y/o educación.
-
-II. Las personas agresoras físicas que infrinjan daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas en su pareja, cónyuge, ascendientes o descendientes.
-
-III. Las personas agresoras sexuales que cometan actos que degraden o dañen el cuerpo y/o la sexualidad de la víctima y que por tanto atenten contra su libertad, dignidad e integridad física.
-
-IV. Las personas agresoras psicológicas que cometan cualquier acto u omisión que dañe la estabilidad mental de una mujer, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
-
-Este procedimiento especial de suspensión temporal de derechos político-electorales seguirá el trámite de un procedimiento especial sancionador, mismo que deberá abreviarse, atendiendo la urgencia de la sustanciación del asunto, aplicando los mismos criterios de temporalidad previstos en el artículo anterior.
+Artículo 11 TER. El derecho a ser votado podrá suspenderse temporalmente por ser declarada, por juez o jueza competente, como persona deudora alimentaria morosa.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -556,6 +548,22 @@ d) Quienes hayan ocupado los cargos de sindicatura o regiduría podrán ser post
 Si aún fuera necesario realizar ajustes para garantizar la paridad, éstos deberán efectuarse en la fase de cociente natural, debiendo recaer en el o los candidatos hombres asignados cuyo partido político hubiere obtenido el menor número de votos no utilizados en la asignación.
 
 Por último, si las mujeres continúan subrepresentadas, los siguientes ajustes se harán en la fase de porcentaje específico, comenzando con el partido que hubiere obtenido el menor porcentaje de la votación válida emitida.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+###### Artículo 16 Bis.
+
+Por lo que respecta a las personas en condición de vulnerabilidad previstas en el artículo 81 de la Carta de Derechos Políticos del Estado de Coahuila de Zaragoza, los partidos políticos deberán garantizar su participación con la postulación de una fórmula en al menos un distrito de mayoría relativa y una fórmula dentro de los tres primeros lugares en cualquiera de las listas de representación proporcional.
+
+En el caso de las coaliciones electorales, esta se considerará como un solo partido político para la postulación de las candidaturas referidas en el párrafo anterior.
+
+Los partidos políticos deberán postular preferentemente candidaturas que pertenezcan a los grupos de personas de pueblos y comunidades indígenas y afromexicanas; personas con discapacidad, personas que se autoadscriban como LGBTTTIQ+ , personas adultas mayores y personas jóvenes. Las personas que integren la fórmula deberán de pertenecer al mismo grupo.
+
+Para el caso de las candidaturas de personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, así como a las personas que se autoadscriban como LGBTTTIQ+, basta con su autoadscripción como requisito para tener por acreditada la pertenencia a dicho grupo en situación de vulnerabilidad.
+
+Cuando se tenga la presunción de fraude a la autoadscripción, al Instituto le corresponderá investigar y resolver lo conducente a partir de los elementos con que cuente, sin imponer cargas a las y los sujetos interesados, ni generar actos de molestia que impliquen la discriminación de la persona candidata. Por su parte, los fraudes a esta disposición provocarán la inelegibilidad de la candidatura correspondiente.
+
+Los lineamientos, acuerdos o criterios que en su caso emita el Instituto, deberán apegarse a lo previsto en la presente disposición. No podrán solicitar requisitos adicionales que distorsionen las postulaciones referidas en los párrafos anteriores.
 
 ###### Artículo 17.
 
@@ -853,9 +861,11 @@ c) Ayuntamientos, cada tres años.
 
 2. Queda prohibida la intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente en la creación de partidos, así como cualquier forma de afiliación corporativa a ellos.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 3. Los partidos políticos promoverán los valores cívicos y la cultura democrática, la igualdad sustantiva entre niñas, niños y adolescentes, y garantizarán la participación paritaria en la integración de sus órganos, así como en la postulación de candidaturas.
+
+Los partidos políticos deberán realizar capacitaciones y la sensibilización correspondiente para promover los derechos político-electorales de las personas que pertenezcan a los grupos en situación de vulnerabilidad.
 
 4. Los partidos políticos se regirán internamente por sus documentos básicos, tendrán la libertad de organizarse y determinarse de conformidad con las normas establecidas en la Ley de Partidos en lo aplicable, por las del presente Código y las que, conforme a los mismos, establezcan sus estatutos.
 
@@ -5705,7 +5715,9 @@ h) Atraer a su conocimiento cualquier asunto relacionado con su objeto o misión
 
 i) Opinar en cualquier asunto relacionado con sus atribuciones;
 
-j) Generar la información y estudios necesarios para proponer al Consejo General políticas y lineamientos en materia de paridad, igualdad e inclusión, así como las acciones afirmativas necesarias para lograrlo;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+j) Generar la información y estudios necesarios para proponer al Consejo General políticas y lineamientos en materia de paridad, igualdad e inclusión, así como las acciones afirmativas necesarias para el buen funcionamiento del Instituto;
 
 k) Dar seguimiento a las acciones implementadas por el Instituto y los actores políticos para garantizar el acceso a la información sin discriminación alguna;
 
@@ -5713,7 +5725,9 @@ l) Proponer la revisión y actualización de los documentos que regulan la actua
 
 m) Opinar respecto del contenido e imagen de las publicaciones institucionales, los programas y campañas informativas y de difusión implementadas por el Instituto en materia de género, igualdad, paridad, inclusión y no discriminación;
 
-n) Proponer al Consejo General, los manuales, protocolos, lineamientos y reglamentos necesarios para la promoción de la paridad, igualdad e inclusión, así como sus actualizaciones;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+n) Proponer al Consejo General, los manuales, protocolos, lineamientos y reglamentos necesarios para la promoción de la paridad, igualdad e inclusión, dirigidos a la ciudadanía, así como sus actualizaciones;
 
 o) Revisar los documentos de planeación institucional estratégica y operativa y proponer la transversalidad de la perspectiva de género y el enfoque de igualdad e inclusión en su contenido;
 
@@ -5725,7 +5739,9 @@ r) Supervisar los procesos institucionales que favorecen la participación y rep
 
 s) Supervisar la implementación de los mecanismos que favorecen una cultura institucional incluyente, no discriminatoria y no sexista en el Instituto;
 
-t) Supervisar los procesos institucionales que favorecen la participación y representación política de las mujeres;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+t) Realizar diagnósticos periódicos y estudios exahustivos sobre la participación política de los grupos en situación de vulnerabilidad;
 
 u) Supervisar la implementación de los mecanismos que favorecen una cultura institucional incluyente, no discriminatoria y no sexista en el Instituto; y
 
@@ -8736,3 +8752,21 @@ P.O. 8 DE JULIO DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones contrarias al presente decreto.
+
+P.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 285 .- SE REFORMA EL NUMERAL 3 DEL ARTÍCULO 24; Y LOS INCISOS J), N), Y T) DEL NUMERAL 2, DEL ARTÍCULO 364 BIS; Y SE ADICIONA EL ARTÍCULO 16 BIS DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO 286.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO TERCERO DEL TÍTULO SEGUNDO; SE ADICIONA EL INCISO I) AL NUMERAL 1 DEL ARTÍCULO 10, Y EL ARTÍCULO 11 TER DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+TERCERO. Con el propósito de garantizar seguridad y certeza jurídica, las disposiciones contenidas en el presente decreto en materia electoral serán aplicables en el Estado a partir del proceso electoral que se celebre en el año 2026, en términos de lo dispuesto en el artículo 105, fracción II, penúltimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
