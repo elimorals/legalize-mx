@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-90-de-transparencia-y-acceso-a-la-informacion-114507
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-28"
-last_updated: "2022-10-24"
+last_updated: "2025-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 90 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PÚBLICA DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 29 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE AGOSTO DE 2025 (ABROGADO).
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 28 de abril de 2016.
 
@@ -2362,3 +2364,91 @@ Los nuevos contratos que se celebren entre los miembros del Comité de Participa
 ###### ARTÍCULO CUARTO.
 
 Las causas de remoción a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, que se reforman mediante el presente decreto, serán aplicables para quienes actualmente desempeñen tal servicio.
+
+B.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora, publicada en el Boletín Oficial del Estado, número 34, Sección II, de fecha 28 de abril de 2016 con sus respectivas modificaciones y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos, lineamientos y, en general, en cualquier disposición normativa, respecto al Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+###### ARTÍCULO CUARTO.
+
+Los derechos laborales de las personas servidoras públicas del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, serán respetados, en términos de la legislación aplicable.
+
+Las personas servidoras públicas del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas de la Secretaría Anticorrupción y Buen Gobierno del Estado habilitados para tales efectos o en los medios que esta determine y conforme a la normativa aplicable a la Administración Pública Estatal.
+
+Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Instituto y que a la fecha de entrada en vigor de la presente Ley aún tengan pendiente cumplir con dicha obligación.
+
+Las personas que se hayan desempeñado como personas servidoras públicas del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, incluyendo a las personas comisionadas, deben presentar acta administrativa de entrega-recepción, según corresponda, a la persona servidora pública que la Secretaría Anticorrupción y Buen Gobierno del Estado designe de conformidad con la normativa aplicable a la Administración Pública Estatal, en los sistemas de la referida dependencia habilitados para tales efectos o en los medios que esta determine, en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos materiales con que cuente el Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales serán transferidos a la Secretaría Anticorrupción y Buen Gobierno del Estado, dentro de los veinte días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales transferirá los recursos financieros a la Secretaría de Hacienda del Estado, de conformidad con las disposiciones jurídicas aplicables.
+
+Asimismo, el Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales deberá entregar a la citada dependencia la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes, de conformidad con las disposiciones jurídicas aplicables, dentro de los diez días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los registros, padrones y sistemas, internos y externos, que integran la Plataforma Nacional con los que cuenta el Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno del Estado dentro de los quince días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley ante el Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio ante la Secretaría Anticorrupción y Buen Gobierno del Estado a que se refiere esta Ley.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevará a cabo por la Secretaría Anticorrupción y Buen Gobierno del Estado.
+
+La Secretaría Anticorrupción y Buen Gobierno del Estado podrá remitir a la autoridad garante competente aquellos asuntos referidos en los párrafos anteriores cuando corresponda a su ámbito de atribuciones, para su atención.
+
+###### ARTÍCULO NOVENO.
+
+La persona titular del Ejecutivo Estatal deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, incluida la emisión del Reglamento Interior de Transparencia para el Pueblo del Estado de Sonora, dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley, a fin de armonizarlos con lo previsto en la misma.
+
+###### ARTÍCULO DÉCIMO.
+
+Los expedientes y archivos que a la entrada en vigor de la presente Ley estén a cargo del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley de Archivos y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno del Estado dentro de los veinte días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+La Secretaría Anticorrupción y Buen Gobierno del Estado, dentro de los treinta días hábiles siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Órgano Interno de Control del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales queda extinto a la entrada en vigor de la presente Ley.
+
+Los asuntos y procedimientos que se encuentren en trámite a cargo de dicho órgano, así como sus expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría Anticorrupción y Buen Gobierno del Estado, dentro de los veinte días hábiles siguientes a dicha fecha.
+
+Dichos asuntos serán tramitados y resueltos por el órgano receptor conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Para efectos de lo dispuesto en los artículos transitorios Cuarto, Quinto, Sexto, Séptimo y Décimo primero de la presente Ley, el Pleno del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia.
+
+Dicho Comité estará conformado por las personas comisionadas del Instituto y seis personas servidoras públicas del mismo, con al menos el nivel de Dirección de Área o equivalente, que tengan a su cargo o conocimiento directo de los asuntos referidos en los transitorios antes señalados.
+
+El Comité de Transferencia estará vigente por un periodo de treinta días naturales, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El Comité del Subsistema Estatal de Acceso a la Información Pública deberá instalarse a más tardar en sesenta días naturales, a partir de la entrada en vigor de la presente Ley, previa convocatoria que al efecto emita la Secretaría Anticorrupción y Buen Gobierno del Estado.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Órgano de Control y Disciplina del Poder Judicial del Estado; los órganos internos de control de los órganos constitucionales autónomos, así como el Órgano Interno de Control del Congreso del Estado, deberán realizar, en un plazo máximo de treinta días naturales contados a partir de la entrada en vigor de la presente Ley, las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Para efectos de lo previsto en el párrafo anterior, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de esta Ley, todos los trámites, procedimientos y medios de impugnación establecidos en el mismo y en la normativa aplicable, con excepción de la recepción y atención de las solicitudes de información presentadas a través de la Plataforma Nacional, las cuales continuarán siendo atendidas por las autoridades que se mencionan en el primer párrafo del presente artículo.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los asuntos relativos al acceso a la información pública de los sindicatos deberán ser atendidos y resueltos por la autoridad garante competente, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables.
