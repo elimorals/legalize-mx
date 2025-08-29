@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-192-de-proteccion-de-datos-personales-en-122771"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-03"
-last_updated: "2017-10-13"
+last_updated: "2025-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 192 DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 29 DE AGOSTO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE AGOSTO DE 2025 (ABROGADA).
 
 Ley publicada en el Número 10 de la Sección I del Boletín Oficial del Estado de Sonora, el jueves 3 de agosto de 2017.
 
@@ -2490,3 +2492,15 @@ B.O. 13 DE OCTUBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “LEY NÚMERO 82, DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Sonora, publicada en el Boletín Oficial del Estado, número 10, Sección I, de fecha 3 de agosto de 2017 con sus modificaciones posteriores, y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a la presente Ley.
