@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-las-personas-adultas-23183"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-11"
-last_updated: "2021-01-29"
+last_updated: "2025-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 2001.
 
@@ -39,15 +39,11 @@ LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 1°.
 
-Se crea el Instituto Coahuilense de las Personas Adultas Mayores como organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio.
-
-Este organismo tendrá su domicilio en la ciudad de Saltillo, Coahuila, con representación, en su caso, en cada una de las regiones de la entidad y sin perjuicio de que establezca en otras ciudades las oficinas que se estimen necesarias para el cumplimiento de su objeto.
-
-Para los efectos de esta ley, se denominará al Instituto Coahuilense de las Personas Adultas Mayores como el Instituto.
+Se crea el Instituto Coahuilense de las Personas Adultas Mayores, como órgano desconcentrado del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, con autonomía técnica y de gestión.
 
 ###### ARTÍCULO 2°.
 
@@ -159,7 +155,9 @@ En todo caso, el Congreso del Estado determinará, atendiendo a los principios d
 
 XLV. Promover y celebrar acuerdos de coordinación y convenios de concertación y colaboración con los representantes de los sectores público, privado y social, así como con instituciones educativas y de investigación públicas o privadas que se requieran para el cumplimiento de su objeto, de conformidad con las disposiciones aplicables.
 
-XLVI. Celebrar convenios y/o contratos con los prestadores del servicio público de transporte, con centros comerciales, instituciones médicas, instituciones bancarias y demás negociaciones prestadoras de bienes y servicios, para el efecto de que otorguen a las personas adultas mayores concesiones, prerrogativas y/o servicios especiales.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2025)</small>
+
+XLVI. Proponer a la persona que ocupe la Dirección General del Sistema, la celebración de convenios y/o contratos con las personas prestadoras del servicio público de transporte, con centros comerciales, instituciones médicas, instituciones bancarias y demás negociaciones prestadoras de bienes y servicios, para el efecto de que otorguen a las personas adultas mayores concesiones, prerrogativas y/o servicios especiales.
 
 XLVII. Canalizar a las personas adultas mayores ante las instancias que correspondan, para el efecto de que éstas reciban asesoría y orientación jurídica, psicológica, de salud, ocupacional y demás de naturaleza similar.
 
@@ -171,175 +169,85 @@ XLIX. Integrar un acervo de documentación en las materias que resulten necesari
 
 L. Apoyar en la esfera de su competencia, a los asilos y casas de asistencia para personas adultas mayores.
 
-LI. Las demás que le confiera esta ley u otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2025)</small>
+
+LI. El Instituto deberá realizar visitas de inspección y vigilancia a instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier centro de atención a las personas adultas mayores para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y condiciones de calidad de vida, debiendo a la vez hacer del conocimiento de las autoridades competentes las anomalías que en su caso se detecten durante las visitas realizadas; podrá también hacer del conocimiento público dichas anomalías, así como presentar las denuncias correspondientes.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2025)</small>
+
+LII. Las demás que le confiera esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+ARTÍCULO 3° BIS. Para los efectos de esta Ley, se entiende por:
+
+I. Consejo Consultivo: Consejo Consultivo del Instituto Coahuilense de las Personas Adultas Mayores;
+
+II. Dirección General del Sistema: Dirección General del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza;
+
+III. Instituto: El Instituto Coahuilense de las Personas Adultas Mayores;
+
+IV. Junta de Gobierno del Sistema: La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza;
+
+V. Sistema: Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2025)</small>
 
 ### CAPÍTULO SEGUNDO. EL PATRIMONIO DEL INSTITUTO
 
 ###### ARTÍCULO 4°.
 
-El patrimonio del Instituto se constituirá por:
-
-I. Los bienes muebles e inmuebles y demás ingresos que los gobiernos federal, estatales y municipales le aporten para la realización de su objeto.
-
-II. Los ingresos que perciba conforme a la partida que establezca el presupuesto anual de egresos del estado, así como los que perciba por los servicios que preste en cumplimiento de su objeto o que le correspondan por cualquier otro título legal.
-
-III. Los subsidios y aportaciones permanentes, periódicas o eventuales, que reciba de los gobiernos federal, estatal y municipales y, en general, los que obtenga de instituciones públicas, privadas o particulares.
-
-IV. Las donaciones, herencias y legados que se hicieren a su favor.
-
-V. Todos los demás bienes o ingresos que adquiera por cualquier otro medio legal.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2025)
 
 ###### ARTÍCULO 5°.
 
-El Instituto gozará respecto de su patrimonio de las franquicias, exenciones y demás prerrogativas concedidas a los fondos y bienes del estado.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2025)
 
 ### CAPÍTULO TERCERO. ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO
 
 #### SECCIÓN PRIMERA. BASES GENERALES
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO 6°.
 
-La dirección y la administración del Instituto estarán a cargo de:
+El Instituto estará a cargo de una Directora o Director, contará con las unidades administrativas que le sea autorizadas de conformidad con la disponibilidad presupuestaria y con un órgano de apoyo que se denominará Consejo Consultivo.
 
-I. Un Consejo Directivo.
-
-II. Una Dirección General.
-
-El Instituto contará con un órgano de apoyo que se denominará Consejo Consultivo y, como órgano de vigilancia, con una Comisaría.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 7°.
 
-El Consejo Directivo será el órgano superior de gobierno del Instituto y se integrará por:
-
-I. Una presidencia, a cargo del titular de la Secretaría de Desarrollo Social;
-
-II. Una Secretaría Técnica, que estará a cargo del o la titular de la Dirección General del Instituto;
-
-II. Vocales, que serán:
-
-A) Por el sector público, los o las titulares de:
-
-1) La Secretaría de Salud;
-
-2) La Secretaría de Gobierno;
-
-3) La Dirección General del Sistema para el Desarrollo Integral de la Familia;
-
-B) Por el sector ciudadano: cinco personas adultas mayores que representaran a cada una de las regiones Norte, Carbonífera, Centro, Sureste y Región Laguna del Estado y que pertenezcan a organizaciones de la sociedad civil cuyas actividades guarden relación con el objeto del Instituto.
-
-Además habrá un comisario que será designado por la Secretaría de Fiscalización y Rendición de Cuentas con voz, pero sin voto.
-
-Como invitados permanentes participarán dos integrantes del Poder Judicial y dos del Poder Legislativo.
-
-Cuando la convocatoria y el orden del día previstos para el desarrollo de una sesión contengan temas específicos de cualquier ramo de la administración pública que no se encuentre representado como vocal o invitado, podrá ser convocado quien el o la titular de la dependencia del sector correspondiente con voz y voto.
-
-En el reglamento interior del Instituto que para el efecto se expida se fijarán los mecanismos para la selección de la representación ciudadana.
-
-Quienes integren el Consejo Directivo podrán designar a una persona suplente que le sustituirá en sus ausencias, con excepción de la o el presidente quien será sustituido por quien éste designe.
-
-Los cargos del Consejo Directivo serán honoríficos si los desempeñan servidores públicos o personas de los sectores ciudadano o social, por lo que sus integrantes no percibirán remuneración alguna por su desempeño.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
+La persona Titular de la Dirección del Instituto será designada y removida por la persona que ocupe la Dirección General del Sistema, informando de ello a la Junta de Gobierno del Sistema.
 
 ###### ARTÍCULO 8°.
 
-El Consejo Directivo celebrará sesiones ordinarias cada tres meses y las extraordinarias que sean necesarias en cualquier tiempo para la eficaz marcha del Instituto, previa convocatoria de la presidencia o, en su caso, de la secretaría técnica.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2025)
 
-Las sesiones del Consejo Directivo se sujetarán a las bases siguientes:
-
-I. Serán válidas cuando se integren con la mitad más uno de las y los integrantes del Consejo Directivo, siempre que esté presente su Presidenta o Presidente o quien deba suplirla o suplirlo legalmente.
-
-II. Se dará curso a los asuntos listados en el orden del día o de aquellos que requieran la intervención del Consejo Directivo.
-
-III. La Presidenta o el Presidente o quien deba suplirle presidirá la sesión, dirigirá los debates, declarará cerrada la discusión cuando así lo estime procedente y, finalmente, someterá a votación los asuntos correspondientes.
-
-IV. De toda sesión del Consejo Directivo se levantará el acta respectiva a través de la Secretaria Técnica del mismo. Las actas deberán contener una síntesis del asunto a tratar y el punto o puntos acordados. Se resguardarán por la Secretaría del Consejo.
-
-V. La Secretaría Técnica del Consejo al inicio de cada sesión dará lectura al acta de la sesión anterior para su aprobación. La misma deberá ser autorizada con las firmas del o la titular de la Presidencia o quien deba suplirle y de la Secretaria Técnica del Consejo.
-
-VI. Las votaciones del Consejo se tomarán por mayoría de votos de sus integrantes presentes. En caso de empate, la Presidencia o quien deba suplirle tendrá voto de calidad.
-
-VII. Podrán asistir a las sesiones que celebre el Consejo, el Comisario o la Comisaria y, previa invitación, otras personas con amplia experiencia y conocimientos reconocidos en cualquier tema relacionado con el objeto del Instituto, los cuales participarán en ellas con voz, pero sin voto.
-
-VIII. La Directora General o el Director General, en su calidad de titular de la Secretaría Técnica del Consejo Directivo, deberá ejecutar y, en su caso, dar seguimiento a los acuerdos sin demora y sin esperar a que se apruebe el acta de donde provenga el acuerdo. El Consejo Directivo podrá corregir, subsanar o modificar el acuerdo ejecutado cuando advierta un error esencial en el acta que se someta a su aprobación.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 9°.
 
-Las atribuciones concedidas al Instituto en esta u otras leyes residen originalmente en el Consejo Directivo. Los demás órganos creados por esta ley o previstos en el reglamento correspondiente, podrán ejercer esas facultades en los casos siguientes:
+Las atribuciones concedidas en esta u otras leyes, reglamentos o cualquier disposición administrativa al Instituto o a quien ocupe la Dirección de este, podrán ser ejercidas directamente por la persona que ocupe la Dirección General del Sistema.
 
-I. Cuando esta ley u otras leyes les otorguen las atribuciones.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE AGOSTO DE 2025)</small>
 
-II. Cuando por acuerdo del Consejo Directivo se deleguen las atribuciones para el mejor funcionamiento del Instituto.
+#### SECCIÓN SEGUNDA. DE LA ORIENTACIÓN Y ASESORÍA QUE PRESTA EL INSTITUTO
 
-#### SECCIÓN SEGUNDA. EL CONSEJO DIRECTIVO
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 10.
 
-Son facultades del Consejo Directivo:
+El Instituto proporcionará orientación y asesoría gratuita a las y los usuarios, sobre los derechos para las personas adultas mayores, así como los procedimientos y órganos competentes ante los cuales acudir para hacerlos valer.
 
-I. Elaborar, conocer y, en su caso, aprobar el Programa Estatal de las Personas Adultas Mayores.
+I. Orientación: Es el servicio que se proporciona a la persona usuaria para determinar, según la materia, la autoridad correspondiente para conocer del asunto, así como la localización geográfica de esta. Para la prestación del servicio, el Instituto se apoyará de los medios físicos, digitales y personalizados a su alcance, que favorezcan el contacto de la persona usuaria con la autoridad respectiva;
 
-Para la elaboración del Programa Estatal de las Personas Adultas Mayores se deberá escuchar, en los términos de esta ley, las opiniones del Consejo Consultivo del Instituto, así como de las dependencias y/o entidades públicas que correspondan conforme al ámbito de su competencia.
+II. Asesoría: Es el servicio personal directo que se otorga a la persona usuaria de forma escrita o verbal, cuando este expone un conflicto, a fin de determinar la acción que se pueda ejercitar.
 
-II. Establecer los programas de trabajo operativo del Instituto.
-
-III. Dictar los lineamientos, directrices generales y acciones para el funcionamiento del Instituto.
-
-IV. Definir las estrategias, prioridades y acciones relativas a las finanzas y la administración del Instituto.
-
-V. Autorizar los programas y acciones particulares que se elaboren y determinen en beneficio de las personas adultas mayores coahuilenses.
-
-VI. Aprobar la celebración de convenios con organizaciones o fundaciones que realicen actividades a favor de las personas adultas mayores, así como aquellos que sean necesarios para el cumplimiento del objeto del Instituto.
-
-VII. Conocer y aprobar, en su caso, los proyectos de presupuesto anual de ingresos y egresos para el año siguiente, así como el proyecto de inversión correspondiente al período en estudio, a fin de proponerlo al Ejecutivo del Estado para que, en los términos de las disposiciones aplicables, lo presente al Congreso del Estado.
-
-VIII. Constituir los fideicomisos, patronatos, fondos o cualquier otro instrumento financiero para el debido y eficaz manejo del patrimonio del Instituto.
-
-IX. Vigilar y supervisar el estado financiero del Instituto, así como las erogaciones que se realicen.
-
-X. Examinar y aprobar, en su caso, los estados financieros, los balances ordinarios y extraordinarios y los demás informes generales y especiales que someta a su consideración la Dirección General.
-
-La cuenta pública del Instituto deberá remitirse, en los términos de las disposiciones aplicables, al Congreso del Estado para su aprobación.
-
-XI. Aprobar el reglamento interior del Instituto, así como el manual de organización y de procedimientos para el funcionamiento del mismo.
-
-Los proyectos correspondientes le serán presentados por la Dirección General en los términos previstos en esta ley.
-
-XII. Crear, suprimir y/o fusionar las áreas y unidades administrativas necesarias para el funcionamiento del Instituto.
-
-XIII. Solicitar las opiniones que requiera al Consejo Consultivo del Instituto.
-
-XIV. Aprobar la aceptación de las donaciones, legados y demás bienes que se otorguen en favor del Instituto.
-
-XV. Determinar las reglas generales a las que deberá sujetarse el Instituto en la celebración de acuerdos, convenios y contratos para la ejecución de acciones relacionadas con su objeto.
-
-XVI. Ejercer todos los poderes especiales o generales, asimismo podrá otorgar a la Directora General o al Director General, poder general para pleitos y cobranzas y actos de administración, con todas las facultades generales y las que requieran cláusula especial conforme a la ley, así como delegar y revocar las mismas. Asimismo podrá otorgarle poder cambiario, única y exclusivamente para la apertura de cuentas de cheques y para la expedición de los mismos, así como poder de representación patronal.
-
-XVII. Otorgar poderes especiales o generales a las personas que juzgue conveniente, con todas las facultades, aún las que conforme a la ley requieran cláusula especial.
-
-Esta facultad se entiende sin perjuicio de la representación legal que se le confiera a la Directora General o al Director General.
-
-XVIII. Las demás que le confiera esta ley u otras disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 11.
 
-Son facultades de la Presidencia del Consejo Directivo:
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
-
-I. Convocar, por conducto de la secretaria técnica del Consejo Directivo, a sus integrantes, al o la titular de la comisaría y demás personas invitadas a las sesiones que se desarrollarán conforme al orden del día que para tal efecto se elabore;
-
-II. Dirigir las sesiones del Consejo Directivo y declarar resueltos los asuntos en el sentido de las votaciones.
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
-
-III. Resolver bajo su más estricta responsabilidad aquellos asuntos de los que deba conocer el Consejo Directivo, que no admitan demora. En estos casos, el Consejo Directivo deberá reunirse cuanto antes, para conocer las medidas tomadas y adoptar las necesarias.
-
-IV. Autorizar y suscribir, en unión de la Secretaria Técnica, las actas que se levanten de las sesiones del Consejo Directivo.
-
-V. Las demás que le confiera la presente ley u otras disposiciones aplicables, así como aquellas que fueren necesarias para el mejor funcionamiento del Instituto.
+Las funciones que realiza el Instituto son de interés público, por lo que en el desempeño de sus actividades podrá solicitar, con autorización de la persona que ocupe la Dirección General del Sistema, la asistencia y auxilio de las autoridades federales, estatales y municipales.
 
 ###### ARTÍCULO 12.
 
@@ -347,101 +255,53 @@ V. Las demás que le confiera la presente ley u otras disposiciones aplicables, 
 
 ###### ARTÍCULO 13.
 
-Son facultades de los o las vocales que integran el Consejo Directivo:
-
-I. Asistir a las sesiones a las que sean convocados y participar en ellas con voz y voto.
-
-II. Proponer a la consideración del Consejo Directivo, los asuntos que estimen necesarios para la eficaz marcha del Instituto.
-
-III. Integrar las comisiones que se determinen convenientes al seno del Consejo Directivo.
-
-IV. Emitir las opiniones que les sean solicitadas.
-
-V. Las demás que les confiera la presente ley u otras disposiciones aplicables.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2025)
 
 ###### ARTÍCULO 14.
 
-Son facultades de la Secretaría Técnica del Consejo Directivo:
+(DEROGADO, P.O. 29 DE AGOSTO DE 2025)
 
-I. Proponer el calendario de sesiones a la consideración de los o las integrantes del Consejo Directivo.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE AGOSTO DE 2025)</small>
 
-II. Elaborar el orden del día correspondiente a cada sesión y comunicar oportunamente a los o las integrantes del Consejo Directivo, a la Comisaria o al Comisario y demás personas invitadas, las convocatorias para las sesiones que llevará a cabo el Consejo Directivo.
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES
 
-III. Dar cuenta al Consejo Directivo de los asuntos de su competencia.
-
-IV. Dar seguimiento y cumplimiento a los acuerdos tomados por el Consejo Directivo e informar al mismo el avance de su cumplimiento.
-
-V. Tomar las votaciones de los miembros del Consejo Directivo presentes en cada sesión.
-
-VI. Levantar y autorizar con su firma y la del o la titular de la Presidencia, las actas correspondientes a las sesiones que celebre el Consejo Directivo. Las actas contendrán una síntesis de los puntos acordados.
-
-VII. Preparar los informes que, con relación al avance del Programa Estatal de las Personas Adultas Mayores, permitan su evaluación permanente. Dichos informes se presentarán de manera sistematizada.
-
-VIII. Participar con voz y voto en las sesiones a las que asista. El reglamento establecerá en que casos la Directora General o el Director General del Instituto deberá de abstenerse de votar.
-
-IX. Las demás que le confiera la presente ley u otras disposiciones aplicables.
-
-#### SECCIÓN TERCERA. LA DIRECCIÓN GENERAL
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 15.
 
-La Directora General o el Director General del Instituto será designada (o) y removida (o) libremente por la o el titular del Ejecutivo del Estado.
+Las atribuciones del Instituto previstas en esta Ley, podrán ser ejercidas directamente por la persona titular de la Dirección.
 
-La Directora General o el Director General del Instituto, así como el personal adscrito a la Dirección General, percibirán los emolumentos que determine el presupuesto de egresos correspondiente.
+La persona Titular de la Dirección del Instituto, así como su personal adscrito, percibirán los emolumentos que determine el presupuesto de egresos correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 16.
 
-Son facultades de la Dirección General del Instituto:
+Son facultades de la Dirección del Instituto:
 
-I. Elaborar anualmente el Proyecto del Programa Estatal de las Personas Adultas Mayores, a fin de someterlo a la consideración del Consejo Directivo para su aprobación.
+I. Elaborar anualmente el Proyecto del Programa Estatal de las Personas Adultas Mayores, a fin de someterlo a la consideración de la Junta de Gobierno del Sistema para su aprobación;
 
-II. Ejercer el mandato general para pleitos y cobranzas y actos de administración, con todas las facultades aún las que requieran cláusula especial, de conformidad con la ley, así como el poder cambiario que, para la apertura de cuentas de cheques y la expedición de los mismos se le confiera.
+II. Representar legalmente al Instituto ante cualquier autoridad;
 
-III. Representar legalmente al Instituto ante cualquier autoridad. En materia laboral podrá ejercer el poder de representación patronal y, en caso de conflicto, se estará a lo dispuesto en el Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila.
+III. Proponer ante la persona que ocupe la Dirección General del Sistema, las acciones o medidas que se tengan que adoptar en casos urgentes o en otros casos, para el buen funcionamiento del Instituto;
 
-IV. Otorgar poderes generales para pleitos y cobranzas, con todas las facultades aún las que requieran cláusula o poder especial conforme a la ley.
+IV. Dirigir, administrar y coordinar el desarrollo de las actividades técnicas y administrativas del Instituto y dictar los acuerdos tendientes a dicho fin;
 
-V. Realizar por sí o a través de sus áreas correspondientes, los actos de administración del Instituto.
+V. Establecer los sistemas de control necesarios para alcanzar los objetivos y metas propuestas por el Instituto;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
+VI. Para tal efecto, presentará a la persona que ocupe la Dirección General del Sistema, los criterios de evaluación para medir la eficiencia y la eficacia del funcionamiento del Instituto, debiendo presentar, por lo menos semestralmente, la evaluación de gestión que requiera la Junta de Gobierno del Sistema;
 
-VI. Proponer ante el ejecutivo del estado o, en su caso, ante la Secretaría de Desarrollo Social, las acciones o medidas que se tengan que adoptar en casos urgentes o en otros casos, para el buen funcionamiento del Instituto.
+VII. Informar anualmente a la Junta de Gobierno del Sistema sobre el estado que guarda el Instituto a su cargo y rendir, en cualquier tiempo, los informes que la persona que ocupe la Dirección General del Sistema y la propia Junta de Gobierno del Sistema le requiera;
 
-VII. Celebrar toda clase de contratos y convenios con los sectores público, social y privado e instituciones educativas y de investigación, para la ejecución de acciones relacionadas con el objeto del propio Instituto.
+VIII. Presentar a la Junta de Gobierno del Sistema, en el mes de noviembre de cada año, el programa anual de trabajo del Instituto para el siguiente ejercicio y, en general, proponer para su aprobación, cualquier otro u otros programas del Instituto;
 
-VIII. Dirigir, administrar y coordinar el desarrollo de las actividades técnicas y administrativas del Instituto y dictar los acuerdos tendientes a dicho fin.
+IX. Analizar, ponderar y, en su caso, aceptar las recomendaciones y sugerencias que emita el Consejo Consultivo, dependencias federales, estatales o municipales, así como organismos internacionales;
 
-IX. Establecer los sistemas de control necesarios para alcanzar los objetivos y metas propuestas por el Instituto.
+X. Gestionar el otorgamiento de donaciones a favor del Instituto a través del Sistema;
 
-Para tal efecto, presentará al Consejo Directivo los criterios de evaluación para medir la eficiencia y la eficacia del funcionamiento del Instituto, debiendo presentar, por lo menos, semestralmente, la evaluación de gestión que requiera el Consejo Directivo.
+XI. Proponer a la Junta de Gobierno del Sistema, para su aprobación, mecanismos de financiamiento;
 
-X. Informar anualmente al Consejo Directivo sobre el estado que guarda la administración a su cargo y rendir, en cualquier tiempo, los informes que el propio Consejo le requiera.
-
-XI. Presentar al Consejo Directivo, en el mes de noviembre de cada año, el programa anual de trabajo del Instituto para el siguiente ejercicio y, en general, proponer a la consideración del Consejo Directivo, para su aprobación, cualquier otro u otros programas del Instituto.
-
-XII. Analizar, ponderar y, en su caso, aceptar las recomendaciones y sugerencias que emita el Consejo Consultivo del Instituto, dependencias federales, estatales o municipales, así como organismos internacionales.
-
-XIII. Proponer a la aprobación del Consejo Directivo los proyectos de presupuestos de ingresos y egresos del Instituto.
-
-Una vez aprobados, deberá remitirlos al Ejecutivo del Estado para que, por su conducto, se presenten a la consideración del Congreso del Estado.
-
-XIV. Gestionar el otorgamiento de créditos y donaciones a favor del Instituto.
-
-XV. Proponer al Consejo Directivo para su aprobación, mecanismos de financiamiento.
-
-XVI. Llevar la contabilidad del Instituto y responder del estado y manejo financiero del mismo.
-
-XVII. Asistir en carácter de Secretaría Técnica o Secretario Técnico a las sesiones que celebre el Consejo Directivo con voz y voto, en los términos que establece esta ley y el reglamento correspondiente.
-
-XVIII. Ejecutar y dar seguimiento a los acuerdos tomados por el Consejo Directivo.
-
-XIX. Nombrar, remover y, en su caso, reubicar, previa autorización del Consejo Directivo, al personal del Instituto.
-
-XX. Verificar la integración y actualización del inventario de los bienes que integran el patrimonio del Instituto.
-
-XXI. Elaborar los proyectos de reglamento interior del Instituto y de los manuales de organización y de procedimientos, a fin de proponerlos a la aprobación del Consejo Directivo.
-
-XXII. Las demás que le confiera esta ley u otras disposiciones aplicables o que, por acuerdo del Consejo Directivo, se le atribuyan.
+XII. Las demás que le confiera esta Ley u otras disposiciones aplicables o que, por acuerdo de la Junta de Gobierno del Sistema, se le atribuyan o le instruya la persona que ocupe la Dirección General del Sistema.
 
 #### SECCIÓN CUARTA. EL CONSEJO CONSULTIVO DEL INSTITUTO
 
@@ -449,33 +309,25 @@ XXII. Las demás que le confiera esta ley u otras disposiciones aplicables o que
 
 El Consejo Consultivo será un órgano plural, de apoyo técnico, de asesoría y de análisis del Instituto, que tendrá por objeto emitir las opiniones y recomendaciones sobre todas las acciones del mismo.
 
-El Consejo Directivo del Instituto, la Dirección General y demás órganos del Instituto deberán ponderar y, en su caso, aceptar las opiniones y recomendaciones emitidos por el Consejo Consultivo.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+La Junta de Gobierno del Sistema, la Dirección General del Sistema, así como la Dirección del Instituto, deberán ponderar y, en su caso, aceptar las opiniones y recomendaciones emitidas por el Consejo Consultivo.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
 ###### ARTÍCULO 18.
 
-El Consejo Consultivo se definirá bajo las siguientes bases:
+El Consejo Consultivo se integrará por:
 
-I. Se integrará por:
+I. Una presidencia, a cargo de la persona que sea designada por la Junta de Gobierno del Sistema, o por la o el Titular del Ejecutivo del Estado;
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+II. Una Secretaría de Acuerdos y Actas a cargo de la persona que sea designada de entre y por las y los integrantes del Consejo Consultivo;
 
-1) Una presidencia, a cargo de la persona que sea designada por el titular del ejecutivo estatal.
+III. Cinco personas adultas mayores, hombres o mujeres, de reconocido prestigio social o académico en la promoción y defensa de los derechos de las personas adultas mayores, que representarán a cada una de las regiones Norte, Carbonífera, Centro, Sureste y Región Laguna del Estado, mismas que serán designadas, a propuesta de la Junta de Gobierno del Sistema, o por quien sea titular del ejecutivo estatal.
 
-2) Una Secretaría de Acuerdos y Actas a cargo de la persona que sea designada de entre y por los integrantes del Consejo Consultivo.
+Las personas integrantes del Consejo Consultivo tendrán las atribuciones que establezcan su reglamento, esta Ley y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
-
-3) Cinco personas adultas mayores, hombres o mujeres, de reconocido prestigio social o académico en la promoción y defensa de los derechos de las personas adultas mayores, que representaran a cada una de las regiones Norte, Carbonífera, Centro, Sureste y Región Laguna del Estado, mismas que serán designadas, a propuesta del Consejo Directivo, o por quien sea titular del ejecutivo estatal.
-
-II. Los integrantes del Consejo Consultivo durarán en su cargo un periodo de tres años, que podrá renovarse por periodos iguales, previa ratificación de la o el titular del Ejecutivo.
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
-
-III. La presidencia tendrá las atribuciones necesarias para cumplir con el objeto del Consejo Consultivo.
-
-IV. Los cargos que desempeñen los o las integrantes del Consejo Consultivo serán honoríficos. Sus integrantes por ese motivo no percibirán remuneración alguna.
-
-V. Los nombramientos para integrar el Consejo Consultivo son incompatibles con los del Consejo Directivo.
+Los cargos que desempeñen los o las integrantes del Consejo Consultivo serán honoríficos. Sus integrantes por ese motivo no percibirán remuneración alguna.
 
 ###### ARTÍCULO 19.
 
@@ -495,53 +347,31 @@ IV. Sugerir acciones y mecanismos que propicien el fortalecimiento y la actualiz
 
 V. Analizar en su conjunto los objetivos del Programa Estatal de las Personas Adultas Mayores y las metas alcanzadas para fortalecer proyectos y acciones derivadas de esta ley.
 
-El Consejo Consultivo ejercerá las atribuciones necesarias para el cumplimiento de su objeto, siempre que no se opongan a las que corresponda ejercer al Consejo Directivo del Instituto. En todo caso, deberá propiciarse una colaboración y coordinación estrecha entre ambos órganos.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+El Consejo Consultivo aprobará sus acuerdos por el voto de la mayoría de sus integrantes presentes, y ejercerá las atribuciones necesarias para el cumplimiento de su objeto, siempre que no se opongan a las que corresponda ejercer al Instituto. En todo caso, deberá propiciarse una colaboración y coordinación estrecha entre ambos órganos.
 
-Todo conflicto de competencia será resuelto por el titular del ejecutivo del estado, a través de la Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+Todo conflicto de competencia será resuelto por la persona Titular del Ejecutivo del Estado, a través de la dependencia o entidad que este designe.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
 
 La organización y el funcionamiento del Consejo Consultivo se definirán en el reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO 20.
 
-Para el efecto de establecer mecanismos de coordinación y sin perjuicio de las atribuciones que corresponden al Consejo Consultivo del Instituto, el Consejo Directivo y/o la Dirección General del mismo, podrán solicitar al Consejo Estatal de Atención al Envejecimiento o, en su caso, a los órganos a los que se encomienden funciones específicas de atención a las personas adultas mayores que, de acuerdo al ámbito de sus correspondientes competencias, les proporcionen las opiniones y recomendaciones que estimen necesarias.
+Para el efecto de establecer mecanismos de coordinación y sin perjuicio de las atribuciones que corresponden al Consejo Consultivo, a la Junta de Gobierno del Sistema, a la persona que ocupe la Dirección General del Sistema y a la Dirección del Instituto, podrán solicitar al Consejo Estatal de Atención al Envejecimiento o, en su caso, a los órganos a los que se encomienden funciones específicas de atención a las personas adultas mayores que, de acuerdo al ámbito de sus correspondientes competencias, les proporcionen las opiniones y recomendaciones que estimen necesarias.
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 2025)</small>
 
 #### SECCIÓN QUINTA. LA COMISARÍA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
-
 ###### ARTÍCULO 21.
 
-El Instituto contará con una comisaría cuyo titular será designado por el o la titular de la Secretaría de Fiscalización y Rendición de Cuentas.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
-
-El o la titular de la comisaría tendrá las atribuciones siguientes:
-
-I. Vigilar que la administración de los recursos que integran el patrimonio del Instituto, se realice de acuerdo con lo que dispongan la ley, los programas y directrices aprobados.
-
-II. Practicar auditorías a los estados financieros y las de carácter administrativo al término del ejercicio, o antes si así lo considera conveniente el Consejo Directivo o la Dirección General.
-
-III. Rendir anualmente en sesión del Consejo Directivo un dictamen respecto de la información presentada por la Dirección General.
-
-IV. Hacer que se inserten en el orden del día de las sesiones del Consejo Directivo, los asuntos que crea conveniente.
-
-V. Solicitar que se convoque a sesiones del Consejo Directivo en los casos en que lo juzgue pertinente.
-
-VI. Asistir con voz pero sin voto a todas las sesiones del Consejo Directivo.
-
-VII. Supervisar permanentemente las operaciones del Instituto.
-
-VIII. Vigilar ilimitadamente y en cualquier tiempo las operaciones del Instituto.
-
-IX. Las demás que le confiera esta ley u otras disposiciones aplicables.
-
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
+(DEROGADO, P.O. 29 DE AGOSTO DE 2025)
 
 ### CAPÍTULO CUARTO. EL PROGRAMA ESTATAL DE LAS PERSONAS ADULTAS MAYORES
 
@@ -561,21 +391,33 @@ I. Los objetivos, estrategias, líneas de acción y acciones particulares para l
 
 II. La participación que corresponderá a las dependencias y/o entidades del estado, los municipios y la sociedad en general.
 
-El Programa deberá ser congruente con las directrices fundamentales del Plan Estatal de Desarrollo. El avance en sus metas, líneas estratégicas, acciones, su incidencia y resultados de ejecución se evaluarán de manera permanente y periódica por el Consejo Directivo del Instituto.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
+El Programa deberá ser congruente con las directrices fundamentales del Plan Estatal de Desarrollo. El avance en sus metas, líneas estratégicas, acciones, su incidencia y resultados de ejecución se evaluarán de manera permanente y periódica por el Instituto.
 
 ###### ARTÍCULO 24.
 
 Para la elaboración del Programa Estatal de las Personas Adultas Mayores se observará lo siguiente:
 
-I. La Dirección General del Instituto convocará con toda oportunidad a todas las dependencias y entidades del estado, para que hagan llegar al Instituto los informes sobre los objetivos, estrategias, líneas de acción y acciones particulares que cada institución ejecutará de acuerdo a su programación y presupuestación anual.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2025)</small>
 
-II. El Consejo Directivo pedirá, dentro del plazo razonable que considere, la opinión del Consejo Consultivo del Instituto sobre los objetivos, estrategias, líneas de acción y acciones particulares que se requieran para promover y alcanzar la atención integral de las personas adultas mayores.
+I. La Dirección del Instituto, convocará con toda oportunidad a todas las dependencias y entidades del estado, para que hagan llegar al Instituto los informes sobre los objetivos, estrategias, líneas de acción y acciones particulares que cada institución ejecutará de acuerdo a su programación y presupuestación anual;
 
-III. El Consejo Directivo con la información recabada, aprobará el Programa Estatal de las Personas Adultas Mayores, para el efecto de someterlo a la aprobación definitiva del o la titular del Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2025)</small>
 
-IV. El Consejo Directivo podrá realizar foros, consultas o cualquier otro instrumento para garantizar la participación ciudadana en la elaboración del Programa.
+II. La persona Titular del Instituto, pedirá, dentro del plazo razonable que considere, la opinión del Consejo Consultivo sobre los objetivos, estrategias, líneas de acción y acciones particulares que se requieran para promover y alcanzar la atención integral de las personas adultas mayores;
 
-V. El Programa una vez aprobado tendrá una vigencia anual, sin perjuicio de ser modificado, actualizado, corregido y/o reformado por el Consejo Directivo, en los términos que disponga el reglamento correspondiente.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2025)</small>
+
+III. La Junta de Gobierno del Sistema, con la información recabada, aprobará el Programa Estatal de las Personas Adultas Mayores, para el efecto de someterlo a la aprobación definitiva del o la Titular del Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2025)</small>
+
+IV. El Instituto, podrá realizar foros, consultas o cualquier otro instrumento para garantizar la participación ciudadana en la elaboración del Programa;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2025)</small>
+
+V. El Programa una vez aprobado tendrá una vigencia anual, sin perjuicio de ser modificado, actualizado, corregido y/o reformado por la Junta de Gobierno del Sistema, en los términos que disponga el reglamento correspondiente.
 
 ###### ARTÍCULO 25.
 
@@ -587,11 +429,13 @@ El Programa Estatal de las Personas Adultas Mayores deberá publicarse en el Per
 
 ### CAPÍTULO QUINTO. RELACIONES DE TRABAJO
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+
 ###### ARTÍCULO 27.
 
-Las relaciones laborales entre el Instituto y sus trabajadoras y trabajadores se regirán por el Estatuto Jurídico para los Trabajadores al Servicio del Estado, así como, en lo conducente, por la de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Estado.
+Las relaciones laborales entre el Instituto y sus trabajadoras y trabajadores se regirán, por las normas en la materia, aplicables al Sistema.
 
-Serán considerados personal de confianza dentro del Instituto: la Directora General o el Director General y en general quienes realicen funciones de dirección, fiscalización y administración.
+Serán considerados personal de confianza, la Directora o Director del Instituto y en general, quienes realicen funciones de dirección, fiscalización y administración.
 
 ## TRANSITORIOS
 
@@ -720,3 +564,41 @@ P.O. 29 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 888.- SE ADICIONA EL ARTÍCULO 31 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 22 DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 282.- SE REFORMA LA FRACCIÓN LI, RECORRIENDO LA SUBSECUENTE DEL ARTÍCULO 3 DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 284.- SE REFORMA: EL ARTÍCULO 1°, LA FRACCIÓN XLVI DEL ARTÍCULO 3°, EL ARTÍCULO 6°, EL ARTÍCULO 7°, EL ARTÍCULO 9°, LA DENOMINACIÓN DE LA SECCIÓN SEGUNDA DEL CAPÍTULO TERCERO, EL ARTÍCULO 10, EL ARTÍCULO 11, LA DENOMINACIÓN DE LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO, EL ARTÍCULO 15, EL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17, EL ARTÍCULO 18, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 19, EL ARTÍCULO 20, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 23, LAS FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 24, EL ARTÍCULO 27; SE ADICIONA; UN ARTÍCULO 3° BIS; SE DEROGAN: EL CAPÍTULO SEGUNDO, LOS ARTÍCULOS 4°, 5°, 8°, 13, 14, LA SECCIÓN QUINTA DEL CAPÍTULO TERCERO, EL ARTÍCULO 21, TODOS DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se extingue el Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores, el cual conservará exclusivamente su personalidad jurídica para efectos del correspondiente proceso de liquidación, con independencia de las demás funciones y facultades necesarias que se le confieran para tal efecto y en términos de las disposiciones administrativas y presupuestales aplicables.
+
+TERCERO. La Secretaría de Finanzas establecerá las bases para llevar a cabo la liquidación del Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores, las cuales deberán procurar la eficiencia, eficacia, transparencia y adecuada protección del interés público.
+
+CUARTO. Los servidores públicos que por parte de la Secretaría de Finanzas deban intervenir en el proceso de liquidación del Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores, serán designados por el titular de dicha dependencia.
+
+QUINTO. La Secretaría de Fiscalización y Rendición de Cuentas, conforme a sus atribuciones, vigilará y hará el seguimiento del proceso de liquidación del Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores.
+
+SEXTO. Una vez que opere la extinción del Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores, la Secretaría de Finanzas, cancelará su inscripción en el Registro de Entidades Paraestatales como organismo público descentralizado.
+
+SÉPTIMO. Los recursos materiales, financieros y remanentes que se encuentren disponibles hasta la fecha de la liquidación y una vez liquidado el Organismo Público Descentralizado denominado Instituto Coahuilense de las Personas Adultas Mayores, serán transferidos a la Secretaría de Finanzas, quien destinará dichos recursos al patrimonio del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, de acuerdo a los lineamientos que para su entrega-recepción determine la Secretaría de Fiscalización y Rendición de Cuentas en coordinación con la Secretaría de Finanzas.
+
+OCTAVO. La Secretaría de Finanzas, en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+NOVENO. Los asuntos ya iniciados conforme a las disposiciones vigentes antes de la entrada en vigor del presente decreto, continuarán tramitándose bajo dichas disposiciones, esto hasta el momento en que se realice la entrega-recepción y se emita la regulación correspondiente.
+
+DÉCIMO. Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales, contemplados en el Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila y/o la normatividad aplicable.
+
+DÉCIMO PRIMERO. La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza deberá llevar a cabo las acciones que correspondan para la instalación del Consejo Consultivo.
+
+DÉCIMO SEGUNDO. En un plazo de ciento ochenta días deberán realizarse las adecuaciones legales, reglamentarias y a las demás disposiciones administrativas que resulten procedentes.
+
+DÉCIMO TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
