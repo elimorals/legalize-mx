@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-173123
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-05-18"
-last_updated: "2024-05-18"
+last_updated: "2025-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 18 de mayo de 2024.
 
@@ -609,9 +609,17 @@ XV. Autorizar los convenios de cooperación con otras instituciones y organismos
 
 XVI. Expedir las convocatorias necesarias para la designación de las personas titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto General de Egresos, en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Tabasco, las leyes que regulan dichos organismos, la presente ley y el Reglamento Interior del Congreso del Estado de Tabasco; así como realizar los procedimientos que de ellas se deriven;
 
-XVII. Conforme a la disponibilidad presupuestal acordar la transmisión de las sesiones mediante el lenguaje de señas, así como la traducción de la Constitución local, la normatividad interna del Congreso y de las demás leyes que se consideren necesarias, al sistema Braille y/o idioma o lengua indígena que se requiera; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2025)</small>
 
-XVIII. Las demás que le atribuyan la Constitución, esta Ley y demás ordenamientos aplicables.
+XVII. Proponer al Pleno la designación o remoción de la persona que integrará el Pleno del Órgano de Administración Judicial, a que se refiere el artículo 55 Ter, segundo párrafo, de la Constitución;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2025)</small>
+
+XVIII. Conforme a la disponibilidad presupuestal acordar la transmisión de las sesiones mediante el lenguaje de señas, así como la traducción de la Constitución local, la normatividad interna del Congreso y de las demás leyes que se consideren necesarias, al sistema Braille y/o idioma o lengua indígena que se requiera; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2025)</small>
+
+XIX. Las demás que le atribuyan la Constitución, esta Ley y demás ordenamientos aplicables.
 
 ###### Artículo 57.
 
@@ -771,17 +779,21 @@ VIII. Las demás que le señale la JUCOPO.
 
 Corresponde a la Unidad de Transparencia:
 
-I. Cumplir con las facultades y obligaciones descritas en el artículo 50 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
-II. Cumplir con las facultades y obligaciones descritas en el artículo 90 de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Tabasco;
+I. Cumplir con las facultades y obligaciones descritas en el artículo 37 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+
+II. Cumplir con las facultades y obligaciones descritas en el artículo 85 de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Tabasco;
 
 III. Representar al Congreso en los distintos medios de impugnación que prevé la Ley de Transparencia y Acceso a la Información Pública del Estado y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Tabasco;
 
 IV. Elaborar el proyecto de informe anual respecto de las actividades realizadas con motivo del ejercicio del derecho de acceso a la información pública y el derecho a la protección de datos personales, mismo que se deberá presentar a la consideración del Comité de Transparencia;
 
-V. Brindar capacitación a las personas servidoras públicas del Congreso respecto de las materias de acceso a la información pública y de protección de datos personales que le instruyan el Comité de Transparencia y la JUCOPO;
+V. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
 
-VI. Fungir como Secretaría Técnica del Comité de Transparencia; y
+VI. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
 
 VII. Las demás que sean necesarias para facilitar el ejercicio de los derechos de acceso a la información pública y el de protección de datos personales y las que le señale la JUCOPO.
 
@@ -975,6 +987,10 @@ Las y los Diputados, además de formar parte de las Comisiones para las que fuer
 
 Los Comités son órganos creados para coadyuvar en actividades de orden administrativo de la Cámara, que se constituyen por Acuerdo del Pleno, a propuesta de la JUCOPO, para realizar tareas diferentes a las de las Comisiones, cuya duración será la que señale el Acuerdo de su creación, el cual deberá también establecer su objeto, integración y atribuciones, así como la Junta Directiva de los mismos.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+Tratándose de la integración del Comité de Transparencia, se estará a lo que establezca la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco y la presidencia será designada por la persona que presida la Junta de Coordinación Política.
+
 ### CAPÍTULO VI. De las Fracciones Parlamentarias
 
 ###### Artículo 81.
@@ -1131,15 +1147,33 @@ VII. Sustanciar los procedimientos disciplinarios por actos u omisiones de las p
 
 VIII. Emitir las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que le competen, previa autorización de la JUCOPO;
 
-IX. Aplicar las sanciones disciplinarias impuestas por la JUCOPO; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
-X. Las demás que expresamente le confieran los ordenamientos legales o que determine el Pleno.
+IX. Aplicar las sanciones disciplinarias impuestas por la JUCOPO;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2025)</small>
+
+X. Fungir como Autoridad Garante del Congreso, en materia de Transparencia y Acceso a la información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados y ejercer las demás funciones, competencias y atribuciones que se establecen en las leyes en esas materias;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+
+XI. Coordinar, supervisar, expedir disposiciones complementarias, capacitar, intervenir y verificar los procesos de entrega y recepción de las unidades administrativas y comisiones del Congreso, y demás que expresamente le confiere la Ley que Establece los Procedimientos de Entrega y Recepción en los Poderes Públicos, los Ayuntamientos y los Órganos Constitucionales Autónomos del Estado de Tabasco; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2025)</small>
+
+XII. Las demás que expresamente le confieran los ordenamientos legales o que determine el Pleno.
 
 ### CAPÍTULO X. Del Órgano Superior de Fiscalización del Estado y la Dirección de Control y Evaluación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 96.
 
-Para el mejor ejercicio de la función de control del gasto, el Congreso se auxiliará de un órgano desconcentrado, denominado Órgano Superior de Fiscalización del Estado, dotado de autonomía técnica y de gestión para el ejercicio de sus facultades, encargado de revisar y fiscalizar las cuentas del erario estatal y municipal, cuya competencia, organización y atribuciones se sujetarán a la Constitución, a la Ley de Fiscalización Superior del Estado de Tabasco y demás disposiciones jurídicas aplicables.
+Para el mejor ejercicio de la función de control del gasto, el Congreso se auxiliará de un órgano desconcentrado, denominado Órgano Superior de Fiscalización del Estado, dotado de autonomía técnica y de gestión para el ejercicio de sus facultades, encargado de revisar y fiscalizar las cuentas del erario estatal y municipal, de las fuentes de financiamiento contenidas en el presupuesto de egresos correspondiente, recursos federales, estatales, municipales, contrataciones, subsidios, donativos, fideicomisos, fondos, mandatos, asociaciones públicas o privadas o cualquier otra figura jurídica u otorgamiento de garantía sobre empréstito, cuya competencia, organización y atribuciones se sujetarán a la Constitución, a la Ley de Fiscalización Superior del Estado de Tabasco y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+La Autoridad Garante, en materia de Transparencia y Acceso a la Información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados, lo será la Contraloría Interna que forme parte de la estructura de organización interna del mismo.
 
 La JUCOPO contará con la Dirección de Control y Evaluación, encargada de vigilar el estricto cumplimiento de las funciones a cargo de las personas servidoras públicas del Órgano Superior de Fiscalización, a fin de aplicar, en su caso, las medidas disciplinarias y sanciones administrativas previstas en la Ley General de Responsabilidades Administrativas y demás disposiciones legales aplicables.
 
@@ -1806,3 +1840,21 @@ PRESIDENTA
 DIP. ROSANA ARCIA FÉLIX
 
 PRIMERA SECRETARIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 128 POR EL QUE "SE REFORMAN, LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 56, LAS FRACCIONES I Y II DEL ARTÍCULO 64, LAS FRACCIONES IX Y X DEL ARTÍCULO 95, ASÍ COMO EL PRIMER PÁRRAFO DEL ARTÍCULO 96; SE DEROGAN LAS FRACCIONES V Y VI DEL ARTÍCULO 64 Y SE ADICIONAN LA FRACCIÓN XIX AL ARTÍCULO 56, UN SEGUNDO PÁRRAFO AL ARTÍCULO 80, LAS FRACCIONES XI Y XII AL ARTÍCULO 95 Y UN PÁRRAFO QUE SE UBICA COMO SEGUNDO AL ARTÍCULO 96, RECORRIÉNDOSE LOS ACTUALES QUE QUEDAN COMO TERCERO Y CUARTO, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Expídanse las disposiciones reglamentarias, que en su caso sean necesarias, para armonizarlas al presente Decreto.
