@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2024-12-17"
+last_updated: "2025-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -531,9 +531,9 @@ Esta prerrogativa será vigente hasta que la o el recién nacido cumpla los seis
 
 De igual forma tratándose de mujeres o personas menstruantes trabajadoras que se rijan bajo la presente ley, y hayan sido diagnosticadas con dismenorrea, acreditando dicho padecimiento mediante certificado médico expedido por Médico especialista en Ginecología adscrito a Institución Pública de Salud, podrán acceder a un permiso con goce de sueldo, durante los días que determine el certificado que les sea imposible acudir, por los síntomas propios de esa patología.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
 
-ARTICULO 54 BIS.- Los trabajadores varones, por el nacimiento de sus hijos o en su caso de adopción de un infante, tendrán derecho a que les sea otorgado un permiso de paternidad de quince días laborables continuos con goce de sueldo, posteriores al alumbramiento o al día en que lo reciban.
+ARTICULO 54 BIS.- Los trabajadores varones, por el nacimiento de sus hijos o en su caso de adopción de un infante, tendrán derecho a que les sea otorgado un permiso de paternidad de veinte días laborales continuos con goce de sueldo, posteriores al alumbramiento o al día en que lo reciban.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
 
@@ -2104,3 +2104,11 @@ P.O. 17 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 50.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 67 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 155.- POR EL QUE SE REFORMA EL ARTÍCULO 54 BIS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
