@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2025-05-24"
+last_updated: "2025-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -297,7 +297,9 @@ XXVI. La regulación del aprovechamiento sustentable y control de la contaminaci
 
 XXVII. Promover la participación de la sociedad en materia ambiental de conformidad con lo establecido en esta Ley;
 
-XXVIII. Integrar el Sistema Estatal de Información Ambiental y de Recursos Naturales y conducir la política estatal de información y difusión en materia ambiental, en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+
+XXVIII. Integrar el Sistema Estatal de Información Ambiental y de Recursos Naturales y conducir la política estatal de información y difusión en materia ambiental, en los términos de la presente Ley; debiendo garantizar en todo momento el derecho de acceso a la información ambiental que se encuentre en su poder, control o custodia, de acuerdo con los principios y términos consagrados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, y la Ley General de Transparencia y Acceso a la Información Pública.
 
 XXIX. El ejercicio de las funciones que en materia de preservación del equilibrio ecológico y protección al ambiente les transfiera la Federación, conforme a lo dispuesto el artículo 11 de la Ley General;
 
@@ -627,11 +629,11 @@ Las Normas Técnicas Ambientales en materia ambiental son de cumplimiento obliga
 
 #### SECCIÓN V. DE LA INVESTIGACIÓN Y EDUCACIÓN ECOLÓGICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 24.
 
-La Secretaría y autoridades municipales, en el ámbito de su competencia, promoverán la incorporación de contenidos ecológicos, desarrollo sustentable, fomento y uso de energías renovables, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias en los diversos ciclos educativos especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
+La Secretaría, autoridades municipales, pueblos y comunidades indígenas y afromexicanas, en el ámbito de su competencia, promoverán la incorporación de contenidos ecológicos, desarrollo sustentable, fomento y uso de energías renovables, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias, en los diversos ciclos educativos especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
 
 Establecerán lineamientos, recomendaciones y directrices tendientes a que las autoridades e instancias educativas y culturales, públicas y privadas, introduzcan en sus procesos educativos, contenidos y metodologías para el desarrollo de conocimientos, cambio de hábitos y aptitudes en la población, orientadas a favorecer las transformaciones necesarias para alcanzar un desarrollo sustentable y un ambiente sano.
 
@@ -2671,9 +2673,11 @@ Corresponderá a la Secretaría proponer al Titular del Ejecutivo Estatal la ado
 
 ### CAPÍTULO I. DE LOS CONSEJOS CONSULTIVOS ESTATAL PARA EL DESARROLLO SUSTENTABLE Y MUNICIPALES DE ECOLOGÍA
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 212.
 
-El Gobierno Estatal y los Municipios deberán promover la participación corresponsable de la sociedad y comunidad estudiantil en la planeación, ejecución, evaluación y vigilancia de la política ambiental, en los programas que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación del equilibrio ecológico y la protección al ambiente, así como en las acciones y medidas tendientes al desarrollo sustentable de la entidad.
+El Gobierno Estatal, los Municipios, los pueblos y comunidades indígenas y afromexicanas, deberán promover la participación corresponsable de la sociedad y comunidad estudiantil en la planeación, ejecución, evaluación y vigilancia de política ambiental, en los programas que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación del equilibrio ecológico y la protección al ambiente, asi como en las acciones y medidas tendientes al desarrollo sustentable de la entidad.
 
 ###### Artículo 213.
 
@@ -2721,9 +2725,11 @@ En cada Municipio se constituirá un Consejo Municipal de Ecología, que se inte
 
 ### CAPÍTULO II. DERECHO A LA INFORMACIÓN AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+
 ###### Artículo 217.
 
-La Secretaría, con la participación de los ayuntamientos, constituirá un Sistema Estatal de Información Ambiental y de Recursos Naturales que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental del Estado.
+La Secretaría, con la participación de los ayuntamientos, así como los pueblos y comunidades indígenas y afromexicanas, constituirá un Sistema Estatal de Información Ambiental y de Recursos Naturales que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental del Estado.
 
 El Sistema se integrará con la información siguiente:
 
@@ -2745,11 +2751,19 @@ La Secretaría en coordinación con la Secretaría de Salud en el Estado, tendr�
 
 El Registro Estatal de Áreas Naturales Protegidas a que se refiere el artículo 79 de esta Ley formará parte del Sistema Estatal de Información Ambiental y de Recursos Naturales.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+La Secretaría deberá poner a disposición del público y actualizar la información a que hace referencia el presente artículo, de manera sistemática, proactiva, oportuna, regular, accesible y compresnsible (sic), de conformidad con la legislación nacional y los tratados internacionales
+
 ###### Artículo 218.
 
 La Secretaría en coordinación con la Procuraduría, elaborará y publicará, cada tres años, un informe detallado de la situación general existente en el Estado en materia de equilibrio ecológico y protección al ambiente.
 
 Asimismo, la Secretaría editará una Gaceta en la que se publicarán las disposiciones jurídicas, normas oficiales mexicanas, criterios ecológicos, declaratorias, decretos, acuerdos y programas, así como información relacionada con las áreas naturales protegidas, la preservación y el aprovechamiento sustentable de los recursos naturales, y la que sea de interés general en materia ambiental.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+La Secretaría deberá poner a disposición del público y actualizar la información a que hace referencia el presente artículo, misma que deberá estar en formatos abiertos y accesibles, de conformidad con la legislación nacional y los tratados internacionales.
 
 ###### Artículo 219.
 
@@ -3346,6 +3360,14 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 24 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 631.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XVII DEL ARTÍCULO 6 DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 722.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXVIII DEL ARTÍCULO 6, EL PRIMER PÁRRAFO DEL ARTÍCULO 24, EL ARTÍCULO 212, EL PRIMER PÁRRAFO DEL ARTÍCULO 217; Y SE ADICIONA EL SEXTO PÁRRAFO AL ARTÍCULO 217 Y EL TERCER PÁRRAFO AL ARTÍCULO 218 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
