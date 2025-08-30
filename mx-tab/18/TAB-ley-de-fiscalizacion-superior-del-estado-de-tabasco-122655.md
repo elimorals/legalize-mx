@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-fiscalizacion-superior-del-estado-de-tabasco-122655"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2021-07-21"
+last_updated: "2025-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
 
 Ley Publicada en el Periódico Oficial del Estado de Tabasco, el sábado 15 de julio de 2017.
 
@@ -923,6 +923,10 @@ De las atribuciones previstas a favor del Titular del Órgano Superior de Fiscal
 
 El Titular del Órgano Superior de Fiscalización del Estado será auxiliado en sus funciones por el Fiscal Especial, así como por los titulares de unidades, directores generales, auditores y demás servidores públicos que al efecto señale el Reglamento Interior del Órgano Superior de Fiscalización del Estado, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+Dentro de la estructura de organización interna que se establezca en el citado Reglamento, se contemplará una Contraloría Interna, la cual, además de las atribuciones que se le confieren en ese ordenamiento, fungirá como Autoridad Garante, en materia de Transparencia y Acceso a la Información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados y ejercerá las funciones, competencias y atribuciones que se establecen en las leyes en esas materias.
+
 ###### Artículo 83.
 
 Para ejercer el cargo de Fiscal Especial se deberán cumplir los siguientes requisitos:
@@ -1146,3 +1150,19 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO. Los asuntos relacionados con las cuentas públicas de los diversos entes fiscalizables que a la entrada en vigor del presente Decreto se encuentren en trámite, deberán ser turnados a la Comisión Ordinaria de Auditoría Gubernamental y Cuenta Pública, para los efectos legales a que haya lugar.
 
 CUARTO. Las referencias o remisiones que se hacen en diversas leyes o reglamentos a las comisiones ordinarias inspectoras de hacienda, primera, segunda y tercera, así como a las de Comunicaciones y Transportes, Tránsito y Vialidad u Ordenamiento Territorial y Obras Públicas, se entenderán en lo sucesivo realizadas a favor de las comisiones a que se refiere el presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 128 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 82 DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Expídanse las disposiciones reglamentarias, que en su caso sean necesarias, para armonizarlas al presente Decreto.
