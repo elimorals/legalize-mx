@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2025-03-08"
+last_updated: "2025-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -3243,23 +3243,133 @@ indefinido 2.000
 
 IV.- Expedición de credencial de identificación con vigencia por Tres años 1.000
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+Artículo 56 BIS.- Por los servicios prestados por la Secretaría de Desarrollo Económico a través de la Subsecretaría de Turismo, se pagarán los derechos señalados en el presente artículo:
+
+(RFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2025)
+
+1.- Por los servicios prestados en el Parque Regional Metropolitano "Griselda Álvarez":
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2025)</small>
+
+I. Por el acceso y uso de las instalaciones:
+
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2024)</small>
-
-Artículo 56 BIS.- Por los servicios prestados en materia turística, se pagarán los derechos que se establecen en el presente artículo.
-
-1.- Por los servicios prestados por la Subsecretaría de Turismo, dependiente de la Secretaría de Desarrollo Económico, se pagarán los derechos siguientes:
-
-I.- Por el acceso y uso de las instalaciones del Parque Regional Metropolitano “GRISELDA ÁLVAREZ”:
 
 a) Alberca, por adulto con derecho a tobogán 0.507
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2024)</small>
+
 b) Alberca, por niño con derecho a tobogán 0.277
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2024)</small>
 
 c) Alberca, adultos mayores con derecho a tobogán 0.277
 
-d) Alberca, personas con discapacidad con
+d) (DEROGADO, P.O. 30 DE AGOSTO DE 2025)
 
-derecho a tobogán 0.277
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+e) Zona de bosque, por adulto 0.176
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+f) Zona de bosque, por niño 0.088
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+g) Zona de bosque, por adulto mayor 0.088
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE AGOSTO DE 2025)</small>
+
+II. Por el uso de:
+
+a) Una bicicleta, por media hora 0.442
+
+b) Una lancha, por media hora 0.442
+
+c) Tirolesa, por adulto 0.442
+
+d) Tirolesa, por niño 0.265
+
+e) Muro de escalar, por persona 0.442
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+
+III. Por el uso diario de espacio comercial para venta de alimentos y bebidas sin alcohol, por metro cuadrado 1.000
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE AGOSTO DE 2025)</small>
+
+IV. Por el uso de espacios para la instalación de lonas publicitarias:
+
+a) De uno a tres metros cuadrados, por mes 22.097
+
+b) De tres a seis metros cuadrados, por mes 35.354
+
+c) De siete metros cuadrados en adelante, por mes 44.193
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE AGOSTO DE 2025)</small>
+
+V. Por el uso de cabañas para el desarrollo de actividades educativas, de fomento a la ciencia, la cultura y las artes:
+
+a) Por día 2.652
+
+b) Por evento con duración de dos días hasta una semana 13.258
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+
+VI. Por el uso por día, del foro al aire libre para eventos privados 10.392
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE AGOSTO DE 2025)</small>
+
+VII. Por el uso de:
+
+a) Restaurante y área de asado, por mes 97.225
+
+b) Fuente de sodas, por mes 48.612
+
+c) Tienda de souvenirs, por mes 48.612
+
+d) Tienda de abarrotes, por mes 48.612
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+
+Quedan exentas del pago de la contribución establecida en el numeral 1, fracción I, incisos a), b), c), e), f) y g) y la fracción II, del presente artículo, las personas consideradas con discapacidad por los ordenamientos jurídicos aplicables, presentando el documento idóneo que así lo acredite.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES E INCISOS], P.O. 30 DE AGOSTO DE 2025)</small>
+
+2.- Por los servicios prestados en el Parque Metropolitano "Tecomán":
+
+I. Por el acceso y uso de las instalaciones:
+
+a) Alberca, por adulto 0.133
+
+b) Alberca, por niño 0.088
+
+c) Alberca, por adulto mayor 0.088
+
+II. Por el uso por día de la concha acústica al aire libre 79.547
+
+III. Por el uso diario de espacio comercial para venta de alimentos y bebidas sin alcohol, por metro cuadrado. 1.000
+
+IV. Por el uso de espacios para la instalación de lonas publicitarias:
+
+a) De uno a tres metros cuadrados, por mes 22.097
+
+b) De tres a seis metros cuadrados, por mes 35.354
+
+c) De siete metros cuadrados en adelante, por mes 44.193
+
+Quedan exentas del pago de la contribución establecida en el numeral 2, fracción I, incisos a), b) y c) del presente artículo, las personas consideradas con discapacidad por los ordenamientos jurídicos aplicables, presentando el documento idóneo que así lo acredite.
+
+> <small>(ADICIONADO [N. DE E. SUS FRACCIONES], P.O. 30 DE AGOSTO DE 2025)</small>
+
+3.- Por los servicios prestados en la Zona Arqueológica "La Campana":
+
+I. Por el uso diario de espacio comercial de estanquillos para venta de alimentos y bebidas sin alcohol 1.000
+
+II. Por el uso por día del foro al aire libre para eventos privados 10.392
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -7816,3 +7926,11 @@ P.O. 8 DE MARZO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 30 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 165.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 01 de septiembre de 2025, previa publicación en el Periódico Oficial “El Estado de Colima”.
