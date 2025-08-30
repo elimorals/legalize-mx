@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cambio-climatico-para-el-estado-de-oaxaca-96829"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2025-08-09"
+last_updated: "2025-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
 
 Ley publicada en el Extra del Periódico oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -1005,7 +1005,9 @@ Los tres órdenes de gobierno comunicarán de manera clara y sencilla la informa
 
 Para dar cumplimiento al artículo anterior el CTCC deberá:
 
-I.- Convocar a los sectores social y privado a que manifiesten sus opiniones y propuestas en materia de mitigación, prevención de desastres y adaptación al cambio climático; garantizando la participación equitativa de mujeres y hombres;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+
+I.- Convocar a los sectores social y privado a que manifiesten sus opiniones y propuestas en materia de mitigación, prevención de desastres y adaptación al cambio climático; garantizando la plena participación de las mujeres rurales, campesinas e indígenas en los procesos de toma de decisiones de las actividades a realizar sobre el cambio climático, asegurando en todo momento su acceso a la información en los términos de la presente Ley, y reconociendo sus capacidades y conocimiento para contribuir al desarrollo sostenible y resiliente;
 
 II.- Celebrar convenios de concertación con organizaciones sociales y privadas relacionadas con el medio ambiente para fomentar acciones de adaptación, gestión de riesgos y mitigación del cambio climático; el establecimiento, administración y manejo de áreas naturales protegidas; así como para brindar asesoría en actividades de aprovechamiento sustentable de los recursos naturales y en la realización de estudios e investigaciones en la materia y emprender acciones conjuntas;
 
@@ -1204,6 +1206,14 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 9 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 705.- MEDIANTE EL CUAL REFORMA MEDIANTE EL CUAL REFORMA LA AHORA FRACCIÓN XXXVI DEL ARTÍCULO 3, LA FRACCIÓN III DEL ARTÍCULO 4, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 7, Y LOS ARTÍCULOS 72, 74, 76, 80 Y 81; Y SE ADICIONA LA FRACCIÓN XXVI RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 3, LA FRACCIÓN IV RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 4 Y LA FRACCIÓN XIV AL ARTÍCULO 7 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 721.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 71 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
