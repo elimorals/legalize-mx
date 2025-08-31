@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-64484
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-10"
-last_updated: "2021-12-14"
+last_updated: "2025-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de noviembre de 2008.
 
@@ -337,6 +337,10 @@ II. Desarrollo de acciones para fomentar la integración de políticas públicas
 
 III. El impulso de liderazgos igualitarios.
 
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2025)</small>
+
+IV. Diseño, implementación, ejecución y evaluación de políticas públicas y medidas para promover el acceso de las mujeres a la educación y formación técnica o científica para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo, para eliminar la brecha de género, en especial la salarial en los sectores público, privado y social.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 29.
@@ -582,3 +586,11 @@ B.O. 14 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3184 SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 28, DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
