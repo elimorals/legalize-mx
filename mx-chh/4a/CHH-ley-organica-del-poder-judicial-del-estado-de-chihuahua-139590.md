@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-139590"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2025-05-24"
+last_updated: "2025-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 1 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2019.
 
@@ -3664,3 +3666,89 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las Magistradas, Magistrados, Juezas y Jueces de primera instancia, que cumplan con los requisitos que establece la Ley de Pensiones Civiles del Estado de Chihuahua para acceder a una pensión o jubilación, ya sea que se encuentren en proceso de retiro o que presenten su solicitud de pensión o jubilación antes del primero de septiembre de 2025, serán acreedores a los beneficios del presente Decreto, con independencia de la fecha en que hayan presentado su solicitud.
 
 TERCERO.- Las pensiones y jubilaciones que reciban las personas integrantes del Poder Judicial del Estado o sus beneficiarios familiares, ya en retiro o que se otorguen en los términos del Decreto No. LXVIII/RFLEY/0189/2025 III P.E. y del presente, constituyen derechos adquiridos y, en consecuencia, no podrán ser afectadas por ninguna resolución o disposición normativa que se expida con posterioridad a su otorgamiento.
+
+P.O. 1 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/EXLEY/0260/2025 VII P.E. LEY ORGÁNICA DEL PODER JUDICIAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado, aprobada mediante Decreto No. LXVI/EXLEY/0621/2019 I P.O., publicada en el Periódico Oficial del Estado número 104 del 28 de diciembre de 2019.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado deberá armonizar las leyes secundarias relacionadas con la presente Ley Orgánica, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+En el ámbito de su competencia, el Órgano de Administración deberá expedir a más tardar el 31 de diciembre de 2025, la reglamentación, estatutos, lineamientos, normatividad y demás disposiciones necesarias para el cumplimiento del presente Decreto.
+
+Asimismo, deberá armonizar y actualizar los Acuerdos Generales, lineamientos y demás normatividad expedida por el Consejo de la Judicatura del Poder Judicial.
+
+El Órgano de Administración implementará progresivamente las disposiciones relativas al Sistema de Carrera Judicial y Administrativa, así como los mecanismos de evaluación, selección y capacitación previstos en esta Ley Orgánica, en un plazo no mayor a un año contado a partir de su entrada en vigor.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expidan las disposiciones reglamentarias a que hace referencia este Decreto, seguirán vigentes las expedidas por el Consejo de la Judicatura del Estado y el Tribunal Superior de Justicia, hasta el 31 de diciembre de 2025, debiéndose expedir en todo aquello que no contravenga las nuevas disposiciones.
+
+Cuando en la Constitución Local, leyes, reglamentos, decretos, acuerdos, lineamientos, convenios, disposiciones administrativas o cualquier otro ordenamiento jurídico local se haga referencia al Consejo de la Judicatura del Estado de Chihuahua, dicha referencia se entenderá hecha, según corresponda a sus atribuciones, al Órgano de Administración o al Tribunal de Disciplina.
+
+###### ARTÍCULO SEXTO.
+
+Las menciones que en la legislación estatal y demás disposiciones normativas se hagan al Instituto de Formación y Actualización Judicial del Estado de Chihuahua, se entenderán referidas al Instituto de Formación Judicial del Estado de Chihuahua, en lo que resulte aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de ejecución a la entrada en vigor del presente Decreto, se regirán bajo las reglas procedimentales vigentes al inicio de su trámite y serán concluidos por el Órgano de Administración.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos por el Tribunal de Disciplina conforme a las disposiciones aplicables vigentes a su inicio.
+
+Los recursos de revisión administrativa pendientes de resolución en materia de responsabilidades administrativas, competencia del Pleno del Tribunal Superior, serán resueltos por el mismo Pleno.
+
+###### ARTÍCULO NOVENO.
+
+Para efectos de operatividad, en tanto se expide la legislación correspondiente y se desarrolla la consulta respectiva, el Centro de Personas Traductoras e Intérpretes seguirá prestando sus servicios conforme a los acuerdos que expida el Órgano de Administración.
+
+###### ARTÍCULO DÉCIMO.
+
+Las personas servidoras públicas que hayan tenido cargos en el Consejo de la Judicatura con funciones materialmente jurisdiccionales podrán ocupar, previo cumplimiento de los requisitos de carrera judicial, en cualquiera de las categorías de la Carrera Judicial, siempre que el presupuesto y las vacantes lo permitan, además cumplan con los requisitos previstos en la normatividad aplicable para ocupar el cargo correspondiente.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Las personas juzgadoras electas, así como quienes transiten de ser juzgadoras a titulares del Órgano de Administración, mantendrán sus derechos laborales adquiridos, es decir, podrán, si reúnen los requisitos establecidos en la legislación, pensionarse o jubilarse, según corresponda en su momento.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Los derechos laborales de las personas trabajadoras del Poder Judicial serán respetados en su totalidad.
+
+Los presupuestos de egresos del ejercicio fiscal que corresponda, considerarán los recursos necesarios para el pago de pensiones complementarias, apoyos médicos y todas las obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables.
+
+ARTÍCULO DECIMOTERCERO.- Las Magistradas y Magistrados que fueron designados antes del Decreto No. 579/2014 I P.O. y actualmente gocen de su jubilación, continuarán recibiendo su pensión de manera vitalicia y en los términos en que fue otorgada.
+
+ARTÍCULO DECIMOCUARTO.- Las personas juzgadoras que concluyan su cargo conservarán de manera vitalicia todos los derechos contenidos en los Decretos No. LXVIII/RFLEY/0189/2025 y LXVIII/RFDEC/0234/2025, en sus términos, referentes a las pensiones complementarias.
+
+ARTÍCULO DECIMOQUINTO.- El presupuesto del Poder Judicial para el ejercicio fiscal siguiente a la entrada en vigor de esta Ley Orgánica deberá ajustarse a lo dispuesto en el artículo 5 de esta Ley Orgánica, además deberá considerar todos los recursos necesarios para el correcto funcionamiento de los órganos y áreas auxiliares del Poder Judicial de nueva creación establecidos en el presente Decreto.
+
+Para el ejercicio del presente año fiscal se deberán realizar las previsiones, reasignaciones o transferencias que fueran necesarias siguiendo los principios de equilibrio presupuestal, transparencia y rendición de cuentas aplicables.
+
+Las reformas a la estructura orgánica del Poder Judicial previstas en esta Ley Orgánica se implementarán conforme a la disponibilidad presupuestal, sin afectar los derechos laborales adquiridos del personal en funciones.
+
+ARTÍCULO DECIMOSEXTO.- Con motivo de la implementación del nuevo régimen judicial previsto en esta Ley Orgánica y de la entrada en funciones de las nuevas personas juzgadoras el día 01 de septiembre de dos mil veinticinco, se suspenderán plazos, audiencias y términos procesales en los órganos jurisdiccionales del Poder Judicial reanudando labores el 02 de septiembre de dos mil veinticinco, salvo los supuestos de urgencia.
+
+El día señalado será utilizado exclusivamente para la transición y relevo de los titulares de órganos jurisdiccionales, aprobación de las adscripciones correspondientes, instalación administrativa y la organización institucional correspondiente a la toma de posesión de las personas juzgadoras electas. El Consejo de la Judicatura, en caso de ser necesario, emitirá los Acuerdos Generales y determinaciones para el adecuado desarrollo de dichas actividades.
+
+ARTÍCULO DECIMOSÉPTIMO.- A fin de garantizar el normal desarrollo de las actividades del Tribunal de Disciplina, previa justificación, su Pleno tomará los acuerdos correspondientes en coordinación con el Órgano de Administración para operar todas aquellas reclasificaciones, reasignaciones, recategorizaciones humanas, financieras y materiales que estime pertinentes, lo cual deberá ser de manera progresiva, atendiendo a la necesidad laboral y sujetándose a la disponibilidad presupuestal.
+
+ARTÍCULO DECIMOCTAVO.- A la entrada en vigor de la presente Ley Orgánica, las personas Magistradas, Magistrados, Juezas y Jueces, además del personal titular de Direcciones, Órganos y Áreas Auxiliares que cesen en sus funciones, deberán realizar el procedimiento de entrega-recepción conforme a lo dispuesto por la Ley de Entrega Recepción para el Estado de Chihuahua o Acuerdos Generales respectivos.
+
+ARTÍCULO DECIMONOVENO.- El periodo de las magistradas y magistrados del Tribunal de Disciplina Judicial que sean electos, conforme al presente artículo transitorio, vencerá el año 2030 para tres de ellos, y el año 2033 para los dos restantes. Los periodos que correspondan a cada cargo se determinarán en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a quienes alcancen mayor votación, de manera alternada entre mujeres y hombres, de acuerdo con el principio de paridad de género.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se deja sin efecto la aplicación de todas aquellas disposiciones legales contenidas en diversos ordenamientos que se opongan a las contenidas en el presente Decreto, en la aplicación de la presente Ley, así como su interpretación, se deberá de estar a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y las leyes secundarias que de ella deriven.
