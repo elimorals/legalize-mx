@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2025-08-28"
+last_updated: "2025-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -221,9 +221,9 @@ En aquellos casos en que para la debida atención de un asunto, por razón de la
 
 En coordinación con el Instituto del Artesano Michoacano, se promoverá el desarrollo de rutas o corredores artesanales en los principales destinos turísticos del Estado, que permitan dar a conocer y propiciar la visita de los turistas a los espacios dedicados a la producción y/o comercialización de las artesanías de la región o de la localidad de que se trate.
 
-> <small>(ADICIONADO, 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, 2 DE SEPTIEMBRE DE 2025)</small>
 
-Así mismo, impulsarán apoyos a los artesanos para la implementación de talleres turísticos artesanales, con el fin de configurar los espacios que permitan la convivencia entre el artesano y el visitante.
+El Instituto del Artesano Michoacano, en conjunto con la Secretaría, diseñarán y promoverán la Ruta de Turismo Artesanal, asegurando que las comunidades participantes reciban capacitación, acceso a recursos y apoyo técnico. Estas acciones estarán orientadas a fortalecer la experiencia turística de manera sustentable y a garantizar un impacto positivo en las comunidades artesanales.
 
 ### CAPÍTULO IV. DE LOS MUNICIPIOS
 
@@ -320,6 +320,10 @@ V. Respetar el entorno natural y cultural de los sitios en los que realice turis
 Corresponde a la Secretaría, establecer, organizar y promover el Sistema Estatal de Protección al Turista, a través de los servicios de información, orientación, protección y auxilio de los turistas que visiten el Estado.
 
 Para su eficaz implementación la Secretaría se coordinará con las dependencias y entidades de la Administración Pública, Federal, Estatal y Municipal, así como con organismos e instituciones de los sectores social y privado.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+La Secretaría deberá emitir y publicar para observancia de los Prestadores de Servicios Turísticos, un Protocolo para la Prevención, Combate y Erradicación de la Trata de Personas y la Explotación Sexual y Comercial en Niñas, Niños y Adolescentes.
 
 ###### ARTÍCULO 16.
 
@@ -1197,6 +1201,46 @@ XV. Garantizar el cumplimiento de las condiciones en que ofrezcan los servicios 
 
 XVI. Las demás que se establezcan en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+ARTÍCULO 115 BIS. En materia de Prevención, Combate y Erradicación de la Trata de Personas y la Explotación Sexual y Comercial en Niñas, Niños y Adolescentes, las prestadoras de servicios turísticos de hospedaje en todas sus modalidades, incluyendo alojadores y personas anfitrionas que brinden servicios de hospedaje en inmuebles de su propiedad, posesión o administración, en forma total o parcial, de manera permanente o eventual, a través de plataforma tecnológica o digital, deberán:
+
+I. Previa reservación o contrato del servicio, se deberá informar al usuario el requisito de verificación de menores y la documentación necesaria para tal fin. Así como exhibirla de manera visible a los usuarios en sus instalaciones;
+
+II. Requerir a los turistas o visitantes usuarios de estos servicios, al momento de su registro, Identificación Oficial y la Clave Única de Registro de Población (CURP) como elemento central de identidad. La CURP deberá integrarse al registro interno de visitantes o turistas, con el fin de identificar de manera oportuna a las personas, incluidas las niñas, niños y adolescentes.
+
+Tratándose de turistas o visitantes extranjeros, tanto mayores como menores de edad, bastará la presentación de su pasaporte vigente como documento de identificación oficial, el cual se integrará al registro interno correspondiente.
+
+En caso de que los usuarios de nacionalidad mexicana no cuenten con CURP, los prestadores de servicios turísticos deberán brindarles apoyo para su obtención, sin que esto implique costo alguno y sin que pueda negarse el servicio de manera inmediata por esta causa. Solo podrá negarse el servicio cuando no se proporcione la documentación de identidad correspondiente, una vez agotados los mecanismos de apoyo previstos;
+
+III. Verificar la filiación, parentesco o autorización por parte de quienes legalmente ostenten la guarda y custodia de las personas menores de edad acompañadas de los turistas o visitantes usuarios de estos servicios. En caso de no poder cumplir con esta verificación, los Prestadores de Servicios Turísticos de Hospedaje no deberán permitir el ingreso y registro, debiendo hacerlo del conocimiento inmediato de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Michoacán;
+
+IV. Dar cumplimiento al Protocolo para la Prevención, Combate y Erradicación de la Trata de Personas y la Explotación Sexual y Comercial en Niñas, Niños y Adolescentes que haya emitido la Secretaría;
+
+V. Informar, capacitar y sensibilizar a su personal y trabajadores en materia de derechos humanos, explotación sexual, comercial infantil asociada al turismo o cualquier otro tipo de violencia sexual contra niñas, niños y adolescentes, y el seguimiento de protocolos para detectar la posible comisión de delitos relacionados con dichas conductas;
+
+VI. Dar aviso inmediato a las autoridades correspondientes sobre la probable comisión de hechos delictivos en sus instalaciones y cooperar con las autoridades federales, estatales y municipales, en las investigaciones y operativos necesarios para detectar conductas relacionadas con el delito de trata de personas y explotación sexual de menores;
+
+VII. Establecer mecanismos de denuncia inmediata y un número de teléfono visible para el mismo fin;
+
+VIII. Contar con sistema de video vigilancia principalmente en el área de recepción y estacionamiento, en caso de contar con el mismo, observando en todo momento el respeto de la vida privada, la intimidad, el honor, la imagen y la dignidad de la persona, para fines de investigación y difusión, siempre serán protegidos y confidenciales, cuidando la identidad del menor;
+
+IX. En caso de incumplimiento con lo establecido en este artículo se aplicarán las sanciones correspondientes; y,
+
+X. Las demás que prevengan las leyes aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+ARTÍCULO 115 TER. Se crea la Ruta de Turismo Artesanal de Michoacán como una iniciativa de turismo alternativo que integrará localidades emblemáticas como Pátzcuaro, Santa Clara del Cobre, Quiroga y Tzintzuntzan, así como las tenencias de Capula y San Nicolás Obispo, para ofrecer las siguientes actividades y servicios:
+
+I. Experiencias inmersivas en talleres artesanales tradicionales;
+
+II. Demostraciones prácticas de técnicas como el martillado de cobre, la cerámica y el tejido;
+
+III. Venta directa de productos artesanales, promoviendo un modelo de comercio justo; y,
+
+IV. Talleres interactivos y actividades educativas dirigidas a los visitantes.
+
 ### CAPÍTULO I. DE LA VERIFICACIÓN Y VIGILANCIA DE LA OPERACIÓN DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ## TÍTULO X. DE LA VERIFICACIÓN Y SANCIONES
@@ -1291,9 +1335,9 @@ I. Por infracciones a lo establecido en las fracciones III, XIII, XIV, XVI y XVI
 
 II. Por infracciones a lo previsto en la fracción VIII del artículo 53, el artículo 113 y las fracciones V, VII, VIII, IX y XI del artículo 115, se sancionará con multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización; y,
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
-III. Por infracciones a lo estipulado en las fracciones VI y XV del artículo 115 y a la contravención de lo contenido en el artículo 107, se sancionará con multa de mil hasta tres mil veces el valor diario de la Unidad de Medida y Actualización.
+III. Por infracciones a lo estipulado en las fracciones VI y XV del artículo 115, así como, el 115 Bis y a la contravención de lo contenido en el artículo 107, se sancionará con multa de mil hasta tres mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 130.
 
@@ -1452,3 +1496,23 @@ P.O. 28 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 219.- ÚNICO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 30 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 220.- ÚNICO. SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 15, EL ARTÍCULO 115 BIS; Y, SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 129 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría, en un plazo no mayor a 90 días naturales, deberá elaborar y establecer protocolos para la prevención de la trata de niñas, niños y adolescentes, crear mecanismos de capacitación para el personal y prestadores de servicios; además del establecimiento de mecanismos para la detección de posibles delitos.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial Gobierno Constitucional del Estado Michoacán de Ocampo.
+
+P.O. 2 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 212 POR EL QUE "SE REFORMA EL ARTÍCULO 9 Y SE ADICIONA EL ARTÍCULO 115 TER DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Poder Ejecutivo del Estado de Michoacán de Ocampo tendrá un plazo de 180 días naturales para diseñar y promover la Ruta de Turismo Artesanal, contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Los municipios involucrados en la Ruta de Turismo Artesanal de Michoacán deberán implementar las acciones necesarias para su desarrollo y operación en un plazo no mayor a 180 días naturales, contados a partir de la entrada en vigor del presente Decreto. Dichas acciones contarán con el apoyo técnico del Poder Ejecutivo del Estado de Michoacán de Ocampo.
