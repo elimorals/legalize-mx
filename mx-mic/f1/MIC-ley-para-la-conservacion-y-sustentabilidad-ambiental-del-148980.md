@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2025-05-06"
+last_updated: "2025-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -495,7 +495,15 @@ XLII. Regular, prevenir, controlar y reducir paulatinamente la contaminación ge
 
 XLIII. Emprender alternativas de movilidad urbana, con sistemas de transporte que utilicen otras fuentes de energía distintas al uso de hidrocarburos, con el fin de reducir las emisiones de gases contaminantes a la atmósfera; y,
 
-XLIV. Las demás que conforme a esta Ley y otras disposiciones legales aplicables le correspondan.
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XLIV. Adoptar las medidas suficientes y necesarias para la reducción de la generación de los residuos sólidos; la reutilización y reciclaje; la separación en la fuente de origen; la recolección y transporte separados; así como la concientización de su adecuado aprovechamiento, tratamiento y disposición final;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XLV. Promover la cultura, educación, capacitación y participación ambientales necesarias del sector social, en el ámbito público y privado, para el manejo integral, la reutilización y el reciclaje de los residuos sólidos;
+
+XLVI. Las demás que conforme a esta Ley y otras disposiciones legales aplicables le correspondan.
 
 ###### Artículo 9°.
 
@@ -1148,6 +1156,12 @@ En el Estado se promoverá, mediante el uso de artículos biodegradables, la sus
 ###### Artículo 62.
 
 Queda estrictamente prohibido el uso de plásticos y productos derivados del poliestireno de un solo uso, botellas de plástico desechables y globos en el desarrollo de cualquier actividad que realicen los Poderes del Estado, Órganos Constitucionalmente Autónomos y Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 62 Bis.
+
+La eliminación de los residuos plásticos y productos derivados del poliestireno de un solo uso no se podrá hacer mediante el proceso de incineración, salvo que, se utilice un proceso totalmente controlado, que garantice que no se emitirá ningún tipo de sustancias contaminantes que pongan en riesgo el medio ambiente y la salud de la población.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE ENERO DE 2025)</small>
 
@@ -3098,3 +3112,11 @@ P.O. 6 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 156 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 22; Y, UNA FRACCIÓN VII AL ARTÍCULO 65 DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 214 POR EL QUE "SE ADICIONAN LAS FRACCIONES XLIV Y XLV RECORRIENDO EN SU ORDEN LA SUBSECUENTE FRACCIÓN DEL ARTÍCULO 8; Y, SE ADICIONA EL ARTÍCULO 62 BIS A LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
