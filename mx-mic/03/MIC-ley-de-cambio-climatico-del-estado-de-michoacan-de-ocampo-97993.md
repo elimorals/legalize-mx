@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cambio-climatico-del-estado-de-michoacan-de-ocampo-97993
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2022-02-18"
+last_updated: "2025-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -119,19 +119,41 @@ XVI. Programa Estatal: Programa Estatal de Cambio Climático del Estado de Micho
 
 XVII. Programa Municipal: Programa Municipal de Cambio Climático;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
-XVIII. Secretaría: Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial;
+XVIII. Secretaría: Secretaría del Medio Ambiente;
 
 XIX. Secretarías: Las dependencias de la Administración Pública Centralizada del Estado de Michoacán de Ocampo; y,
 
 XX. Sub-Fondo: Sub-Fondo de Cambio Climático del Estado de Michoacán de Ocampo.
 
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XXI. Acuerdo de Paris: Convenio adoptado mediante la decisión 1/CP.21 durante el 21er período de sesiones de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XXII. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respuesta a estímulos climáticos, proyectados o reales, o sus efectos, que pueden moderar el daño, o aprovechar sus aspectos Beneficiosos;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XXIII. Atlas Nacional de Vulnerabilidad al Cambio Climático: Conjunto estructurado y sistemático de mapas que muestran la vulnerabilidad ante el cambio climático y orientan la realización de estrategias dentro del proceso de planeación y adaptación;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XXIV. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables; y,
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XXV. Compuestos de efecto invernadero: Gases de efecto invernadero, sus precursores y partículas que absorben y emiten radiación infrarroja en la atmósfera.
+
 ### CAPÍTULO SEGUNDO. DISTRIBUCIÓN DE COMPETENCIAS
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 4°.
 
-El Estado y los municipios ejercerán sus atribuciones en materia de Cambio Climático, de conformidad con la distribución de competencias previstas en la Ley General de Cambio Climático.
+El Estado y los municipios ejercerán sus atribuciones en materia de Cambio Climático, de conformidad con la distribución de competencias previstas en la Ley General de Cambio Climático y los demás ordenamientos legales aplicables.
 
 ###### ARTÍCULO 5°.
 
@@ -159,11 +181,21 @@ III. Gestionar los recursos para el Sub-Fondo para apoyar e implementar acciones
 
 IV. Elaborar y proponer las previsiones presupuestales para la ejecución de las acciones adaptación y mitigación con el fin de reducir la vulnerabilidad del Estado ante los efectos adversos del cambio climático;
 
-V. Promover la participación corresponsable de la sociedad en la planificación, instrumentación y evaluación de medidas para mitigar la emisión de gases de efecto invernadero y de adaptación al cambio climático;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
-VI. Promover la educación y difusión de la cultura en materia de cambio climático en todos los niveles educativos, así como realizar campañas de educación e información para sensibilizar a la población sobre los efectos de la variación del clima; y,
+V. Promover la participación corresponsable de la sociedad en la planificación, instrumentación y evaluación de medidas para mitigar la emisión de gases de efecto invernadero y de adaptación al cambio climático, escuchando y atendiendo al sector público, privado y sociedad en general;
 
-VII. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Promover la educación y difusión de la cultura en materia de cambio climático en todos los niveles educativos, así como realizar campañas de educación e información para sensibilizar a la población sobre los efectos adversos del cambio climático;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+VII. Establecer nuevas áreas naturales protegidas, corredores biológicos, y otras modalidades de conservación y zonas prioritarias de conservación ecológica para que se facilite el intercambio genético y se favorezca la adaptación natural de la biodiversidad al cambio climático, a través del mantenimiento e incremento de la cobertura vegetal nativa, de los humedales y otras medidas de manejo; y,
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Las demás que les señale esta Ley y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 7°.
 
@@ -419,6 +451,10 @@ XIII. La infraestructura estratégica en materia de abasto de agua, servicios de
 
 XIV. La Infraestructura estratégica en materia de cosecha de agua de lluvia y su limpieza para fines de uso doméstico en todos los municipios del Estado.
 
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XV. El establecimiento de centros de población o asentamientos humanos, así como en las acciones de desarrollo, mejoramiento y conservación de los mismos.
+
 ###### ARTÍCULO 14.
 
 La política estatal de mitigación debe incluir, a través de los instrumentos de planeación, política, control y los instrumentos económicos previstos en la presente Ley, un diagnóstico, planificación, medición, monitoreo, reporte, verificación y evaluación de las emisiones estatales.
@@ -577,11 +613,13 @@ VII. Difundir programas de educación ambiental, de consumo responsable e inform
 
 La Secretaría con apoyo de la Comisión Intersecretarial realizará el balance energético del Estado, y su actualización cada tres años, con el objeto de identificar la demanda de energía, sus fuentes y el origen de las emisiones de gases de efecto invernadero en la Entidad.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 18.
 
 La Secretaría promoverá de manera coordinada con la Secretaría de Finanzas y Administración, el establecimiento de programas para incentivar fiscalmente a los interesados en participar de manera voluntaria en la realización de proyectos de reducción de emisiones.
 
-Para los efectos del presente Capítulo, serán reconocidos los programas, políticas y demás instrumentos, de mitigación que se han desarrollado a partir del Protocolo de Kioto, y cualquier otro que se encuentre debidamente certificado por alguna organización de reconocimiento internacional y aprobada por las autoridades mexicanas.
+Para los efectos del presente Capítulo, serán reconocidos los programas, políticas y demás instrumentos, de mitigación que se han desarrollado a partir del Protocolo de Kioto, la Convención Marco de las Naciones Unidas sobre el Cambio Climático, el Acuerdo de París y cualquier otro que se encuentre debidamente certificado por alguna organización de reconocimiento internacional y aprobada por las autoridades mexicanas.
 
 ### CAPÍTULO CUARTO. SISTEMA ESTATAL DE CAMBIO CLIMÁTICO
 
@@ -625,9 +663,9 @@ La Comisión Intersecretarial será integrada por los titulares de:
 
 I. El Titular del Poder Ejecutivo del Estado o la persona que éste designe, quien tendrá el carácter de Presidente;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
-Il. La Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, cuyo titular fungirá como Vicepresidente;
+II. La Secretaría del Medio Ambiente, cuyo titular fungirá como Vicepresidente;
 
 III. La Secretaria de Gobierno;
 
@@ -641,9 +679,9 @@ VII. La Secretaria de Finanzas y Administración;
 
 VIII. La Secretaría de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
-IX. La Secretaría de Desarrollo Rural y Agroalimentario;
+IX. La Secretaría de Agricultura y Desarrollo Rural;
 
 X. La Secretaría de Educación;
 
@@ -653,9 +691,9 @@ XII. La Procuraduría de Protección al Ambiente;
 
 XIII. (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
-XIV. La Secretaría de Desarrollo Social y Humano;
+XIV. La Secretaría del Bienestar;
 
 XV. La Comisión Estatal de Agua y Gestión de Cuencas;
 
@@ -727,9 +765,11 @@ Los grupos de trabajo estarán organizados de conformidad con lo dispuesto en el
 
 ### CAPÍTULO SEXTO. CONSEJO CONSULTIVO DE CAMBIO CLIMÁTICO
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 30.
 
-El Consejo Consultivo, es el órgano permanente de consulta de la Comisión Intersecretarial, y se integrará con al menos nueve miembros, pertenecientes a instituciones de educación superior y de centros e institutos de investigación con presencia en la Entidad, con reconocidos méritos y experiencia en materia de cambio climático, así como por el Presidente del Consejo Estatal de Ecología.
+El Consejo Consultivo, es el órgano permanente de consulta de la Comisión Intersecretarial, y se integrará con al menos nueve miembros, provenientes de los sectores social, privado y académico, con presencia en la Entidad, con reconocidos méritos y experiencia en materia de cambio climático, así como por el Presidente del Consejo Estatal de Ecología.
 
 Los integrantes del Consejo Consultivo serán designados por el Presidente de la Comisión Intersecretarial, a propuesta de sus integrantes.
 
@@ -737,9 +777,11 @@ Los integrantes del Consejo Consultivo serán designados por el Presidente de la
 
 El Consejo Consultivo tendrá un Presidente y un Secretario, electos por la mayoría de sus miembros; durarán en su cargo tres años, y pueden ser reelectos por un periodo adicional, cuidando que las renovaciones de sus miembros se realicen de manera escalonada.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 32.
 
-Los integrantes del Consejo Consultivo ejercerán su encargo de manera honorífica y a título personal, con independencia de la institución, escuela, instituto o centro de investigación al que pertenezcan.
+Los integrantes del Consejo Consultivo ejercerán su encargo de manera honorífica y a título personal, con independencia de la institución, empresa y organización de la que formen parte o en la cual presten sus servicios.
 
 ###### ARTÍCULO 33.
 
@@ -1326,3 +1368,11 @@ P.O. 18 DE FEBRERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 213.- ÚNICO. SE REFORMA LA FRACCIÓN XVIII Y SE ADICIONAN LAS FRACCIONES XXI, XXII, XXIII, XXIV Y XXV DEL ARTÍCULO 3, SE REFORMA EL ARTÍCULO 4, LAS FRACCIONES V, VI Y SE ADICIONA LA FRACCIÓN VII, RECORRIENDO EN SU ORDEN LA SUBSECUENTE FRACCIÓN DEL ARTÍCULO 6; SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 13; SE REFORMA EL ARTÍCULO 18, LAS FRACCIONES II, IX, Y XIV DEL ARTÍCULO 25 Y LOS ARTÍCULOS 30 Y 32 TODOS DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
