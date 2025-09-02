@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2025-07-18"
+last_updated: "2025-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -130,6 +130,28 @@ Acción y Omisión. Y Omisión Impropia.- El delito sólo puede realizarse por a
 A nadie se le podrá atribuir un resultado típico si éste no es consecuencia de su acción u omisión.
 
 En los delitos de resultado material, también responderá del resultado típico producido quien, teniendo el deber jurídico de actuar para evitarlo, no lo impide.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+Artículo 12 BIS.- Omisión impropia o comisión por omisión.- En los delitos de resultado material será atribuible el resultado típico producido a quien:
+
+I. Omita impedirlo, si éste tenía el deber jurídico de evitarlo;
+
+II. Es garante del bien jurídico;
+
+III. De acuerdo con las circunstancias podía evitarlo; y,
+
+IV. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+
+Es garante del bien jurídico el que:
+
+a) Aceptó efectivamente su custodia;
+
+b) Voluntariamente formaba parte de una comunidad que afronta peligros de la naturaleza;
+
+c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico;
+
+d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
 
 ###### Artículo 13.
 
@@ -1465,6 +1487,20 @@ Homicidio en riña.- Al que prive de la vida a otro en riña, se le impondrá de
 
 Para la fijación de la pena, dentro de los mínimos y máximos anteriormente señalados, se tomará en cuenta quien fue el provocado y quien el provocador, así como la mayor o menor importancia de la provocación.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+Artículo 125 BIS.- Del ataque de un animal que culmine con la muerte de una persona, se impondrá una pena de 4 a 8 años de prisión, y será responsable la persona propietaria, poseedora o quien ostente la posición de garante del animal.
+
+La pena prevista para el párrafo anterior, se incrementarán (sic) hasta en una tercera parte cuando:
+
+I. La víctima sea una niña, niño o adolescente, persona con discapacidad, persona adulta mayor o mujer embarazada;
+
+II. La persona responsable haya sido previamente advertida, apercibida o sancionada por la autoridad competente, respecto a la peligrosidad del animal;
+
+III. Si los animales ya habían causado lesiones a otra persona anteriormente, y a pesar de los registros, la persona propietaria, poseedora o que ostente la calidad de garante del animal, no tomaron acciones para evitar nuevos ataques, y/o
+
+IV. Se trate de un ataque colectivo de dos a más perros. Se entiende por ataque colectivo cuando el homicidio fue causado pro (sic) ataque compuesto por varios animales que pertenecían a uno o más personas propietarias, poseedoras o garantes.
+
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 126.
@@ -1771,9 +1807,13 @@ I.- Las lesiones previstas en los artículos 138, 141, así como 145 tratándose
 
 II.- Cuando se causen lesiones culposas, cualquiera que sea su naturaleza con motivo de tránsito de vehículos, siempre que el conductor no se hubiese encontrado en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra substancia que produzca efectos similares, o utilizando algún aparato de comunicación, y no se haya dejado abandonado (sic) a la víctima; o en los casos en que ésta sea consecuencia de la conducta culposa del personal de empresas de transporte de pasajeros, de carga de servicio público o concedido por autorización, permiso o licencia de las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 145.
 
-Lesiones causadas por animal.- De las lesiones que a una persona cause algún animal será responsable el que con esa intención lo azuce, lo suelte o haga esto último por descuido.
+Lesiones causadas por ataque animal. - De las lesiones causadas por ataque animal será responsable quien con esa intención lo azuce, lo suelte o haga esto último por descuido o el que ostente la posición garante del animal. Según sea la clasificación de la lesión que se ha inferido, se sancionará con las penas establecidas en los artículos 138 y 139 de este Código.
+
+Conforme a lo establecido en el artículo 125 BIS y 145, se entenderá por animal, a los animales domésticos, que son especies criadas, reproducidas y que conviven con las personas, pero que no pertenecen a la fauna silvestre, animales de compañía; al animal feroz que no es ordinariamente domesticable o es peligroso para los seres humanos por su agresividad, costumbres, tamaño o fuerza, entre los que se encuentran los animales exóticos, de granja y cualquier otro que encuadre en la descripción anterior.
 
 ### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
@@ -6812,3 +6852,9 @@ P.O. 18 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 115 DE LA XXV LEGISLATURA MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE ADICIÓN DE UN ARTÍCULO 129 QUATER AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 127 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 12 BIS, 125 BIS, Y LA REFORMA AL ARTÍCULO 145 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA (LEY AMPARITO)”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
