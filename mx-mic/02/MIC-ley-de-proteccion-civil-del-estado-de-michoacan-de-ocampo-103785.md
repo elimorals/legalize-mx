@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-civil-del-estado-de-michoacan-de-ocampo-10378
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2025-05-19"
+last_updated: "2025-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 25 de noviembre de 2014.
 
@@ -1133,7 +1133,13 @@ Las autoridades de Protección Civil del Estado y sus Municipios, deberán solic
 
 La Coordinación Estatal prestará el apoyo técnicooperativo en materia de inspección, verificación y vigilancia, a las autoridades municipales que así lo soliciten, por carecer de capacidad instalada o suficiente para atender de manera adecuada e independiente la situación.
 
-### CAPÍTULO XIX. MEDIDAS DE SEGURIDAD Y SANCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+### CAPÍTULO XIX. MEDIDAS DE SEGURIDAD, DENUNCIA CIUDADANA Y SANCIONES
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+#### SECCIÓN PRIMERA. MEDIDAS DE SEGURIDAD
 
 ###### Artículo 109.
 
@@ -1160,6 +1166,40 @@ VI. La suspensión temporal de trabajos, actividades y/o servicios; y,
 VII. Las demás que en materia de Protección Civil determine la legislación estatal y municipal reglamentaria correspondiente, tendientes a prevenir un daño o impedir que se generen otros mayores.
 
 Cuando se apliquen medidas de seguridad, se precisará su temporalidad y, en su caso, las acciones para su suspensión. Asimismo, las autoridades a que se refiere este artículo y la Secretaría de Gobierno, podrán promover ante otras instancias competentes, la ejecución de medidas de seguridad complementarias establecidas en otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 110 Bis.
+
+Previo a la realización de eventos públicos y en espacios de concentración masiva, deberán elaborarse Programas Especiales de Protección Civil, los cuales serán entregados oportunamente a las autoridades de Protección Civil para su aprobación y coordinación con otras instancias de seguridad. Las principales medidas del programa y las conductas apropiadas en caso de una contingencia deberán ser difundidas al público participante por parte del organizador, antes del evento o al inicio del mismo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 110 Ter.
+
+En el interior de establecimientos, inmuebles o espacios de tipo cerrado, destinados a la prestación de servicios o a la realización de actividades de entretenimiento, esparcimiento o de cualquier índole similar, quedará estrictamente prohibida la ejecución de actos que pongan en peligro a los asistentes, especialmente los que impliquen uso de pirotecnia o fuego.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+#### SECCIÓN SEGUNDA. DENUNCIA CIUDADANA
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 110 Quáter.
+
+Toda persona física o moral tendrá el deber de denunciar ante la Coordinación Estatal o Municipal cualquier situación de riesgo, emergencia o desastre del que tenga conocimiento, así como todo acto u omisión que cause o pueda producir situaciones de peligro o desastre a la población o en el entorno, tanto en lugares públicos como privados, en la materia de la presente Ley.
+
+La denuncia deberá presentarse por escrito y en caso de emergencia podrá ser por medios de comunicación autorizados, atendiendo los requisitos que establezca el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 110 Quinquies.
+
+Una vez recibida la denuncia ciudadana y cumplidos los requisitos correspondientes, la Coordinación Estatal o Municipal efectuara las diligencias necesarias para la evaluación de los hechos reportados, tomando las medidas de seguridad que el caso amerite, conforme a lo establecido en la presente ley y los reglamentos que expidan las autoridades competentes.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+#### SECCIÓN TERCERA. SANCIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MAYO DE 2025)</small>
 
@@ -1209,7 +1249,7 @@ Asimismo, estarán obligados a cumplir con las demás disposiciones legales que 
 
 ###### Artículo 113.
 
-Previo a la realización de eventos públicos y en espacios de concentración masiva, deberán elaborarse Programas Especiales de Protección Civil; los cuales serán entregados oportunamente a las autoridades de Protección Civil para su aprobación y coordinación con otras instancias de seguridad. Las principales medidas del programa y las conductas apropiadas en caso de una contingencia, deberán ser difundidas al público participante por parte del organizador, antes del evento o al inicio del mismo.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2025)
 
 ###### Artículo 114.
 
@@ -1239,9 +1279,7 @@ Asimismo, estarán obligados a cumplir con las demás disposiciones legales que 
 
 ###### Artículo 119.
 
-Toda persona física o moral, tendrá el deber de informar a las autoridades competentes, sobre cualquier situación de riesgo, emergencia o desastre del que tenga conocimiento, así como todo acto u omisión que cause o pueda causar daños en las personas, en la población o en el entorno.
-
-Una vez recibido el informe, la autoridad de Protección Civil efectuará las diligencias necesarias para la evaluación de los hechos reportados, tomando las medidas que el caso amerite.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2025)
 
 ###### Artículo 120.
 
@@ -1386,3 +1424,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El Titular del Poder Ejecutivo del Estado, en un término no mayor a 180 ciento ochenta días hábiles, a partir de la entrada en vigor del presente Decreto, deberá armonizar las disposiciones Reglamentarias correspondientes para el cumplimiento del presente Decreto.
 
 TERCERO. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 230 POR EL QUE SE “SE ADICIONAN LOS ARTÍCULOS 110 BIS, 110 TER, 110 QUÁTER Y 110 QUINQUIES, SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO XIX Y SE ADICIONA LA SECCIÓN PRIMERA, LA SECCIÓN SEGUNDA Y LA SECCIÓN TERCERA AL MISMO; Y SE DEROGAN LOS ARTÍCULOS 113 Y 119, DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El Titular del Poder Ejecutivo del Estado y los Ayuntamientos, en un término no mayor a 180 ciento ochenta días hábiles, a partir de la entrada en vigor del presente Decreto, deberán armonizar las disposiciones reglamentarias correspondientes para el cumplimiento del presente Decreto.
