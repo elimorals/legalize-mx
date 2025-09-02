@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-de-la-violencia-escolar-en-el-estado-89252
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2024-09-05"
+last_updated: "2025-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Novena Sección del Periódico Oficial del Estado de Michoacán, el viernes 17 de agosto del 2012.
 
@@ -93,7 +93,9 @@ XII. Instituciones educativas en el Estado: Son las instituciones de carácter p
 
 XIII. Ley: Ley para la Atención de la Violencia Escolar en el Estado de Michoacán;
 
-XIV. Protocolo: Es el instrumento elaborado por el Consejo que contiene las estrategias, procedimientos y acciones encaminadas a atender los casos de violencia escolar;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XIV. Protocolos: Son los instrumentos elaborados por el Consejo de manera consciente que contienen las estrategias, procedimientos y acciones encaminadas a atender los casos de violencia escolar; existiendo uno para nivel básico, otro para media superior y otro para superior;
 
 XV. Receptor: Es la persona que recibe la violencia escolar;
 
@@ -106,6 +108,10 @@ XVIII. Víctima: Es la persona o la institución que resulta afectada por la vio
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
 XIX. Violencia escolar: A toda acción u omisión intencionalmente dañina, sea metódica, sistemática o reiterada ejercida por alguno de los miembros de la comunidad educativa y que se produce dentro de los espacios físicos educativos u otros relacionados con lo escolar, así como las amenazas de tales actos, coacción o la privación arbitraria de algún derecho.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XX. Órgano interno de control: Dependiente de la Secretaría de Contraloría del Estado quien es el encargado de la Investigación, tramitación, substanciación y resoluciones de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado.
 
 ### CAPÍTULO SEGUNDO. VIOLENCIA ESCOLAR
 
@@ -219,6 +225,10 @@ IV. Supervisará que las autoridades integren políticas públicas y acciones qu
 
 V. Informará en el mes de agosto por escrito a las Comisiones de Dictamen de Derechos Humanos, Protección a la Niñez y Adolescencia y de Educación del Congreso del Estado sobre el estado que guarda las acciones ordenadas por esta Ley.
 
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Podrá destinar recursos al Consejo, de acuerdo a la disposición presupuestal, para la implementación de estrategias de prevención, difusión, consultas, foros, conferencias, entre otras acciones sobre la prevención de los tipos de violencia escolar.
+
 ###### ARTÍCULO 10.
 
 La coordinación con las autoridades consistirá en difundir y promover la convivencia escolar libre de violencia mediante la realización de:
@@ -297,21 +307,31 @@ XIV. Un representante de la Comisión Estatal de los Derechos Humanos;
 
 XV. Un Representante de la Secretaría de Seguridad Pública del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
-XVI. Un representante de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes; y,
+XVI. Un representante de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
-XVII. Un Representante de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán.
+XVII. Un Representante de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XVIII. Un representante de las y los estudiantes por cada nivel educativo; y,
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+XIX. Dos representantes de la sociedad civil con conocimientos en la materia.
 
 El Gobernador del Estado y el Secretario de Educación podrán nombrar suplentes. Los cargos y nombramientos del Consejo serán honoríficos.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 16.
 
-El Consejo se reunirá al menos una vez cada tres meses.
+El Consejo se reunirá al menos una vez cada dos meses.
 
-Los miembros del Consejo serán propuestos, removidos y nombrados libremente por el Gobernador del Estado. Éste podrá tomar opinión de los colegios de profesionistas o de organizaciones de la sociedad civil.
+Los miembros del Consejo, serán propuestos, removidos y nombrados libremente por el Gobernador del Estado de Michoacán de Ocampo. Éste podrá tomar opinión de Colegios de Profesionistas o de Organizaciones de la Sociedad Civil.
 
 Los miembros, a excepción de los señalados por las fracciones I y II, durarán en su encargo tres años, pudiendo ser reelectos por una sola ocasión.
 
@@ -323,11 +343,15 @@ El Consejo trabajará en Pleno y en comisiones. Podrán formarse las comisiones 
 
 Al Consejo le corresponde:
 
-I. Elaborar el Protocolo, recibiendo propuestas de modificaciones de cualquiera de sus miembros;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+I. Elaborar los Protocolos, recibiendo propuestas de modificaciones de cualquiera de sus miembros;
 
 II. Recibir las denuncias o relaciones de hechos sobre violencia escolar;
 
-III. Solicitar a las instituciones educativas informes sobre el estado que guardan las denuncias o relaciones de hechos en que se han visto involucradas;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+III. Solicitar a las instituciones educativas informes sobre el estado que guardan las denuncias o relaciones de hechos en que se han visto involucradas; para integrar un registro que dé cuenta del estado que guardan los casos suscitados en el Estado;
 
 IV. Ordenar las investigaciones necesarias o los dictámenes pertinentes a fin de instruirse suficientemente sobre los hechos;
 
@@ -339,7 +363,9 @@ VI. Celebrar convenios de cooperación, coordinación y concentración con los s
 
 VII. Coordinar acciones con los gobiernos municipales, las organizaciones de la sociedad civil, asociaciones de padres de familia y vecinales, con el objeto de fomentar su participación en el Protocolo;
 
-VIII. Realizar actividades de difusión, talleres, conferencias, foros, consultas populares, entre otras, sobre la problemática de violencia escolar, derechos humanos, y todo lo que de ésta se deriva;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Realizar actividades de difusión, talleres, conferencias, foros, consultas populares, entre otras, sobre los protocolos, la problemática de violencia escolar, derechos humanos, y todo lo que de ésta se deriva;
 
 IX. Elegir de entre sus miembros personas para integrar comisiones para el seguimiento concreto de los asuntos;
 
@@ -365,7 +391,9 @@ Al Presidente del Consejo le corresponde:
 
 I. Representar legal y jurídicamente al Consejo;
 
-II. Convocar a sesión ordinaria cada tres meses; y a extraordinaria cuando se presente una problemática de urgente resolución;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+II. Convocar a sesión ordinaria cada dos meses y, a extraordinaria, cuando se presente una problemática de urgente resolución;
 
 III. Abrir, prorrogar, suspender y clausurar las sesiones del Consejo;
 
@@ -405,11 +433,15 @@ III. Asistir puntualmente a las sesiones que se les convoque; y,
 
 IV. Las demás que señale el Consejo.
 
-### CAPÍTULO QUINTO. PROTOCOLO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+### CAPÍTULO QUINTO. PROTOCOLOS
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 23.
 
-El Protocolo se encuentra dirigido a:
+Existirá un protocolo por nivel educativo, siendo dirigido a:
 
 I. Estudiantes de todos los ámbitos educativos;
 
@@ -417,9 +449,11 @@ II. Los trabajadores de la educación en el Estado; y,
 
 III. Padres de familia y tutores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 24.
 
-El Protocolo deberá al menos:
+Los Protocolos deberán al menos:
 
 I. Publicarse y difundirse de manera periódica en todas las instituciones educativas, señalando que se prohíbe la violencia escolar dirigida hacia cualquier estudiante dentro de los espacios a que se refiere esta Ley, donde se incluya la definición de violencia escolar y promoviendo el pleno respeto a los derechos humanos;
 
@@ -431,7 +465,9 @@ IV. Contener estrategias que fomenten o promuevan los entornos libres de violenc
 
 V. Señalar las posibles consecuencias y acciones por parte de los directivos y autoridades educativas responsables, en contra de aquel o aquellos estudiantes que incurran en un acto de violencia escolar;
 
-VI. Mencionar las acciones específicas para proteger al estudiante de cualquier represalia que pueda sufrir a consecuencia de denunciar actos de violencia escolar;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Mencionar las acciones específicas para evitar en todo momento revictimizar a la persona receptora, para proteger al estudiante de cualquier represalia que pueda sufrir a consecuencia de denunciar actos de violencia escolar, acciones que se deben realizar con perspectiva de género y procurando la amplia, protección. a los derechos humanos;
 
 VII. Precisar las líneas de apoyo y asesoría psicológica para los generadores y receptores;
 
@@ -491,23 +527,33 @@ En caso de menores de edad que presenten denuncia o querella, éstos contarán d
 
 Podrá contar con la asistencia de los padres o tutores.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+ARTÍCULO 27 BIS. El Consejo procurará la coordinación con la Fiscalía General del Estado u otras instituciones, para brindar capacitación a las instituciones educativas respecto a los procedimientos de la presentación de denuncias derivadas de delitos que se pueden suscitar en el ámbito escolar.
+
 ###### ARTÍCULO 28.
 
 Para la presentación de denuncias o relaciones de hechos:
 
-I. La institución educativa deberá nombrar un responsable de la recepción de denuncias o relaciones de hechos; a falta del mismo, se presupondrá al Director de la institución o a la autoridad que lo recibe;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
-II. El responsable procurará establecer el procedimiento de conciliación;
+I. La institución educativa deberá nombrar un responsable ajeno a los hechos de la recepción de denuncias o relaciones de hechos; a falta del mismo, se presupondrá al Director de la Institución o a la autoridad que lo recibe;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+II. Se procurará establecer el procedimiento de conciliación, salvo que alguna de las partes manifieste su derecho a no llevarla a cabo;
 
 III. Éste deberá integrar documentalmente el expediente correspondiente, anexando todos aquellos elementos de prueba;
 
-IV. Deberá anexarse el historial académico de los estudiantes involucrados en los hechos;
+IV. (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2025)
 
 V. El expediente además de la relación de hechos y su documentación anexará la información referente a la institución, su ubicación, sus horarios, sus condiciones generales y, toda información que permita al Consejo atender de mejor modo la denuncia o relación de hechos;
 
 VI. De estar en condiciones podrá anexar también dictámenes pedagógicos, psicológicos y socioeconómicos, sobre el estado de todas las personas involucradas; y,
 
-VII. Enviará a la brevedad posible el expediente correspondiente al Consejo.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+VII. La institución educativa enviará al Consejo, en un plazo máximo de 15 días hábiles, el expediente correspondiente.
 
 ###### ARTÍCULO 29.
 
@@ -531,7 +577,9 @@ II. Coordinar las tareas de psicólogos, pedagogos, docentes, administrativos, p
 
 III. Evaluar las medidas adoptadas para resolver los incidentes, así como expresar observaciones u opiniones a la institución educativa para mejorar su sistema de resolución de los mismos; y,
 
-IV. Proponer, en el caso que estime necesario, modificaciones a los procedimientos del Protocolo, con base en criterios objetivos.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Proponer, en el caso que estime necesario, modificaciones a los procedimientos de los protocolos, con base en criterios objetivos.
 
 ### CAPÍTULO SÉPTIMO. ACREDITACIÓN COMO INSTITUCIÓN EDUCATIVA LIBRE DE VIOLENCIA ESCOLAR
 
@@ -571,15 +619,19 @@ V. Imponer las medidas correspondientes atendiendo a la legislación y siendo re
 
 Las autoridades responsables, los padres de familia, tutores y todos los trabajadores de la educación, procurarán implementar las medidas necesarias para establecer condiciones libres de violencia escolar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 38.
 
-Cuando se presenten casos de violencia escolar las autoridades procurarán conciliar a los involucrados con el fin de restablecer las condiciones libres de violencia escolar. Esta conciliación será privada, y podrá hacerse en presencia de los padres, tutores y trabajadores de la educación involucrados.
+Cuando se presenten casos de violencia escolar las autoridades procurarán conciliar a los involucrados, a excepción de tratarse de la comisión de un delito que según las normativas en la materia no contemple la conciliación, con el fin de restablecer las condiciones libres de violencia escolar. Esta conciliación será privada, y podrá hacerse en presencia de los padres, tutores y trabajadores de la educación involucrados.
 
 Los compromisos podrán abarcar tratamientos psicológicos, o bien, el realizar actividades pedagógicas o de otra índole que disminuyan o modifiquen las condiciones que fomentan la violencia escolar.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 39.
 
-De los casos conciliados se levantará el acta respectiva, misma que incluirá las medidas y compromisos que permitan las condiciones de no violencia en las instituciones educativas. En caso de que los compromisos adquiridos o las medidas determinadas no se cumplan se dará cuenta al Consejo; si de las acciones detectadas se presentan otra clase de irregularidades o consecuencias jurídicas, la autoridad estará obligada a enterar a quien corresponda.
+De los casos conciliados se levantará el acta respectiva, dándose vista al Consejo, misma que incluirá las medidas y compromisos que permitan las condiciones de no violencia en las instituciones educativas. En caso de que los compromisos adquiridos o las medidas determinadas no se cumplan se dará cuenta al Consejo; si de las acciones detectadas se presentan otra clase de irregularidades o consecuencias jurídicas, la autoridad estará obligada a enterar a quien corresponda.
 
 ###### ARTÍCULO 40.
 
@@ -597,9 +649,15 @@ Las autoridades educativas tendrán obligación de sugerir la implementación de
 
 Cuando se presenten casos de reincidencia, o bien, que las condiciones que generaron las circunstancias de violencia escolar no sean modificadas, las autoridades escolares podrán pedir a la Secretaría su intervención para su transformación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 42.
 
-Cuando se trate de trabajadores de educación al servicio del Estado que realicen conductas irregulares; podrá integrarse expediente particular y darse vista a la Contraloría del Estado.
+Cuando se trate de trabajadores al servicio de la educación del Estado que produzcan violencia o realicen conductas irregulares hacia niñas, niños o adolescentes, las autoridades escolares se encargarán de turnar el expediente de hechos al órgano interno de control y dar vista al Consejo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
+
+En el caso de instituciones privadas fas autoridades educativas actuaran de acuerdo al contrato individual de trabajo y emitirá las recomendaciones pertinentes para que madre, padre o tutor acudan ante las instancias legales competentes.
 
 ###### ARTÍCULO 43.
 
@@ -660,3 +718,15 @@ Se concede al Consejo 180 días hábiles a fin de que realice los ajustes necesa
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 215 POR EL QUE “SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 3, LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 15, EL ARTÍCULO 16, LAS FRACCIONES I, III Y VIII DEL ARTÍCULO 18, LA FRACCIÓN II DEL ARTÍCULO 20, LA DENOMINACIÓN DEL CAPÍTULO QUINTO, EL ARTÍCULO 23, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 24, LAS FRACCIONES I, II Y VII DEL ARTÍCULO 28, LA FRACCIÓN IV DEL ARTÍCULO 32, EL PÁRRAFO PRIMERO DEL ARTÍCULO 38, EL ARTÍCULO 39, EL PRIMER PÁRRAFO DEL ARTÍCULO 42; SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 3, LA FRACCIÓN VI AL ARTÍCULO 9, LAS FRACCIONES XVIII Y XIX AL ARTÍCULO 15, EL ARTÍCULO 27 BIS, UN SEGUNDO PÁRRAFO AL ARTÍCULO 42; Y, SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 28, TODOS DE LA LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. El Protocolo del Consejo Preventivo de la Violencia Escolar en el Estado de Michoacán será abrogado, al fomento que la Secretaría de Educación emita los protocolos correspondientes, en términos del presente Decreto.
+
+Artículo Tercero. El Consejo Preventivo de la Violencia Escolar en el Estado de Michoacán, cuenta con 60 días hábiles contados a partir de la publicación del presente Decreto, para la integración de tres comités técnicos especializados, quienes serán los encargados de la creación de los protocolos.
+
+Artículo Cuarto. Cada comité técnico estará integrado por 10 personas, que deberán ser expertos en la materia o en actividades sociales de reconocida trayectoria.
