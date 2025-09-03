@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-agencia-de-transformacion-digital-176
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-01-24"
-last_updated: "2025-01-24"
+last_updated: "2025-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-01-22"
 
 REGLAMENTO INTERIOR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE SEPTIEMBRE DE 2025.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 24 de enero de 2025.
 
@@ -85,7 +85,9 @@ IV. Dirección General de Administración y Finanzas, y
 
 B. El órgano administrativo desconcentrado:
 
-I. Comisión Nacional de Mejora Regulatoria;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+I. Comisión Reguladora de Telecomunicaciones;
 
 La Agencia contará con las direcciones, subdirecciones, jefaturas de departamento, enlaces conforme a la estructura autorizada, cuya adscripción y funciones serán establecidas en el Manual de Organización General de la Agencia y, en su caso, en los manuales de organización específicos de sus unidades administrativas y órgano administrativo desconcentrado.
 
@@ -145,43 +147,33 @@ VI. Expedir el manual de organización general de la Agencia y ordenar su public
 
 VII. Dar cuenta al Honorable Congreso de la Unión, en términos del artículo 93 de la Constitución Política de los Estados Unidos Mexicanos, del estado que guardan los asuntos competencia de la Agencia, así como acudir, a convocatoria de cualquiera de sus Cámaras, cuando se discuta una ley o se estudie un asunto concerniente al ramo de sus actividades y comparecer en términos de las disposiciones legales ante las comisiones del Congreso de la Unión;
 
-VIII. Expedir las políticas y emitir las normas, lineamientos, políticas, criterios, manuales, procedimientos y demás instrumentos para su implementación en las siguientes materias:
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-a) Inclusión digital;
+VIII. Expedir las políticas y emitir las normas, lineamientos, políticas, criterios, manuales, procedimientos y demás instrumentos para su implementación en las materias competencia de la Agencia;
 
-b) Gobierno digital;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-c) Informática;
+IX. Emitir y conducir las políticas de telecomunicaciones, satelital y radiodifusión del gobierno federal, incluidas aquellas relativas a la instalación o ampliación de la infraestructura necesaria para la prestación de servicios públicos de telecomunicaciones por parte del Estado;
 
-d) Tecnologías de la información, comunicación y telecomunicaciones;
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-e) Adopción y uso de la identidad y ciudadanía digital;
+IX Bis. Establecer las políticas que promuevan la disponibilidad de capacidad y servicios satelitales suficientes para las redes de seguridad nacional, servicios de carácter social y demás necesidades, objetivos y fines del Gobierno Federal;
 
-f) Mecanismo único de autenticación, identidad e identificación digital basado en la Clave Única de Registro de Población;
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-g) Integración del sistema de servicio nacional de identificación personal;
+IX Ter. Conducir políticas para procurar la continuidad de los servicios satelitales que proporciona el Estado;
 
-h) Gestión de bases de datos que permitan interoperar los sistemas nacionales y de la Administración Pública Federal con el Registro Nacional de Población;
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-i) Interoperabilidad de los sistemas de información basado en una arquitectura de datos consumibles, con excepción de la información en materia de seguridad nacional y el conjunto de bases de datos del Sistema Nacional de Información;
+IX Quater. Emitir el plan nacional de conectividad y acceso a Internet;
 
-j) Análisis de datos e información de las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+X. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-k) Datos abiertos y gobierno abierto;
-
-l) Cobertura universal y social de servicios de telecomunicaciones a cargo de la Administración Pública Federal, así como de conectividad en sitios públicos, y
-
-m) Desarrollo e implementación de software y soluciones tecnológicas en la Administración Pública Federal, así como la fábrica de software público.
-
-IX. Conducir las políticas de telecomunicaciones y radiodifusión del gobierno federal, incluidas aquellas relativas a la instalación o ampliación de la infraestructura necesaria para la prestación de servicios públicos de telecomunicaciones por parte del Estado;
-
-X. Definir la capacidad satelital que, en su caso, se requiera de las personas concesionarias de recursos orbitales y de las autorizadas para explotar los derechos de emisión y recepción de señales de satélites extranjeros para prestar servicios en el territorio nacional, como reserva del Estado para redes de seguridad nacional, servicios de carácter social y demás necesidades del gobierno;
-
-XI. Dirigir el uso eficiente de la capacidad satelital propia, ya sea concesionada o adquirida, o aquella establecida como reserva del Estado;
+XI. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 XII. Regular la prestación de servicios públicos de correos, telégrafos, giros telegráficos y radiotelegrafía por parte de la Administración Pública Federal, de conformidad con las disposiciones aplicables;
 
-XIII. Definir los protocolos de seguridad de la información y de las telecomunicaciones de la Administración Pública Federal;
+XIII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 XIV. Conducir la política nacional en materia de soberanía tecnológica para la digitalización de trámites y servicios, así como promover las soluciones tecnológicas en la materia;
 
@@ -189,11 +181,11 @@ XV. Emitir disposiciones para la adquisición, arrendamiento y prestación de se
 
 XVI. Definir los instrumentos, herramientas y mecanismos para la implementación del modelo integral de atención ciudadana para las dependencias, sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal;
 
-XVII. Presidir el Consejo Nacional de Mejora Regulatoria y proponer a la persona titular del órgano encargado de la mejora regulatoria;
+XVII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 XVIII. Celebrar convenios de colaboración y coordinación, en el ámbito de su competencia, con dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, órganos constitucionales autónomos, gobiernos de las entidades federativas y municipios, poderes Legislativo y Judicial de la Federación, instituciones públicas o privadas nacionales e internacionales, conforme a las disposiciones jurídicas aplicables, para la consecución de los objetivos de la Agencia;
 
-XIX. Otorgar su conformidad, previo a su nombramiento, de las personas titulares de las unidades administrativas responsables de las tecnologías de la información y comunicación u homólogo, de las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal a solicitud de su titular;
+XIX. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 XX. Establecer los mecanismos de coordinación, colaboración y cooperación con las entidades federativas y municipios para el intercambio de información que generan en el ejercicio de sus atribuciones, y que resulte necesaria para la ejecución de proyectos conjuntos;
 
@@ -211,9 +203,11 @@ No se considerará delegación de facultades, cuando opere el régimen de suplen
 
 ### CAPÍTULO III. De las facultades genéricas de las personas titulares de las unidades administrativas y del personal a su cargo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 7.
 
-La Jefatura de Unidad, las coordinaciones nacionales y direcciones generales están a cargo de una persona titular, que para el ejercicio de sus atribuciones se auxilia de las personas titulares de las direcciones, subdirecciones de área, jefaturas de departamento y demás personas servidoras públicas que se establezcan en el Manual de Organización General de la Agencia, sus manuales de organización específicos, así como por el personal autorizado en su presupuesto y que se requiera para satisfacer las necesidades del servicio.
+La Unidad, las coordinaciones nacionales y direcciones generales están a cargo de una persona titular, que para el ejercicio de sus atribuciones se auxilia de las personas titulares de las direcciones, subdirecciones de área, jefaturas de departamento y demás personas servidoras públicas que se establezcan en el Manual de Organización General de la Agencia, sus manuales de organización específicos, así como por el personal autorizado en su presupuesto y que se requiera para satisfacer las necesidades del servicio.
 
 Las unidades administrativas y sus titulares tienen las competencias y facultades establecidas en las leyes, en este reglamento, en el instrumento jurídico que las cree o regule, así como en los acuerdos de delegación de facultades emitidos por la persona titular de la Agencia.
 
@@ -231,11 +225,19 @@ IV. Ejercer las facultades que les sean delegadas, realizar los actos instruidos
 
 V. Formular el anteproyecto de presupuesto relativo a la unidad administrativa a su cargo y aprobar el de las que les estén adscritas;
 
-VI. Ejercer el presupuesto autorizado a la unidad administrativa a su cargo, de conformidad con las disposiciones jurídicas aplicables e informar periódicamente a su superior jerárquico del desarrollo de los programas bajo su responsabilidad;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Autorizar y vigilar el ejercicio del presupuesto asignado a la unidad administrativa a su cargo en colaboración con la Dirección General de Administración y Finanzas, de conformidad con las disposiciones jurídicas aplicables;
 
 VII. Suscribir los contratos, convenios y demás instrumentos jurídicos que permitan dar cumplimiento a sus atribuciones, previo dictamen de la Dirección General Jurídica, Cumplimiento Normativo y Gobernanza Tecnológica, y en su caso informarle sobre el cumplimiento o incumplimientos de las partes contratantes;
 
-VIII. Orientar técnicamente, en asuntos de su competencia, a las personas servidoras públicas de la Agencia;
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+VII Bis. Suscribir en el ámbito de su competencia y previo dictamen de la Dirección General Jurídica, Cumplimiento Normativo y Gobernanza Tecnológica y en su caso informar sobre el cumplimiento o incumplimiento de las partes contratantes, convenios de colaboración y coordinación con la Oficina de la Presidencia de la República, las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, órganos constitucionales autónomos, gobiernos de las entidades federativas y municipios, poderes Legislativo y Judicial de la Federación, instituciones públicas o privadas nacionales e internacionales, conforme a las disposiciones jurídicas aplicables; sin perjuicio de las atribuciones del ejercicio directo que le confieren al titular de la Agencia;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Brindar asesoría técnica, acompañamiento y capacitación en las materias y asuntos de su competencia, a las personas servidoras públicas de la Agencia, la Oficina de la Presidencia de la República, las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, órganos constitucionales autónomos, gobiernos de las entidades federativas y municipios, poderes Legislativo y Judicial de la Federación, instituciones públicas o privadas nacionales e internacionales, conforme a las disposiciones jurídicas aplicables;
 
 IX. Coordinar sus actividades con otras unidades administrativas y el órgano administrativo desconcentrado de la Agencia y las entidades paraestatales sectorizadas a esta, con dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, así como con empresas públicas del Estado, cuando así lo requieran para el mejor funcionamiento de la Agencia;
 
@@ -269,9 +271,39 @@ XXIII. Desempeñar las comisiones que le encomiende el superior jerárquico o la
 
 XXIV. Participar en el diseño, implementación, ejecución y promoción de políticas públicas en materia de su competencia;
 
-XXV. Implementar las medidas administrativas necesarias para la observancia de las leyes que expida el Congreso de la Unión y la normativa administrativa que expida el Ejecutivo Federal, en las materias de su competencia, y
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXVI. Las demás que les atribuyen las disposiciones legales o reglamentarias, las que les sean delegadas mediante decreto publicado en el Diario Oficial de la Federación, así como las funciones que les encomiende la persona titular de la Agencia o sus superiores jerárquicos.
+XXV. Implementar las medidas administrativas necesarias para la observancia de las leyes que expida el Congreso de la Unión y la normativa administrativa que expida el Ejecutivo Federal, en las materias de su competencia;
+
+XXVI. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVII. Planear, programar, organizar, dirigir y evaluar el desempeño de las labores encomendadas a los servidores públicos a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVIII. Dirigir la formulación de los proyectos e informes de programas presupuestarios relativos a su unidad administrativa, así como informar a la persona titular de la Agencia, el desarrollo de los programas bajo su responsabilidad y del ejercicio de sus facultades;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIX. Someter ante el Comité de Transparencia la clasificación de la información y las versiones públicas que se generen de los documentos competencia de su unidad administrativa;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXX. Solicitar a las dependencias, sus órganos administrativos desconcentrados y entidades, la información que sea necesaria para dar cumplimiento a los objetivos y atribuciones de la Agencia;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXXI. Gestionar, en términos de las disposiciones jurídicas aplicables, a las bases de datos e información que las dependencias, sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal generen, recaben y almacenen en el ejercicio de sus atribuciones, y que resulte necesaria para la ejecución de las facultades y atribuciones de la Agencia;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXXII. Participar, en términos de las disposiciones jurídicas aplicables, en los consejos de administración, técnicos y asambleas a la Agencia, en los que sean designados, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXXIII. Las demás que les atribuyen las disposiciones legales o reglamentarias, las que les sean delegadas mediante decreto publicado en el Diario Oficial de la Federación, así como las funciones que les encomiende la persona titular de la Agencia o sus superiores jerárquicos.
 
 ### CAPÍTULO IV. De las unidades administrativas
 
@@ -459,15 +491,21 @@ II. Dirigir la correcta y oportuna representación legal de la Agencia ante las 
 
 III. Coordinar la sustanciación, conforme a las disposiciones jurídicas aplicables, de los recursos que interpongan los particulares contra actos y resoluciones de la Agencia que den fin a una instancia o resuelvan un expediente y, en su caso, proponer o emitir la resolución que proceda, cuando no corresponda de forma exclusiva a otra unidad administrativa de la Agencia;
 
-IV. Representar legalmente a la Agencia, su Titular y a las Unidades Administrativas adscritas, en los juicios de amparo, de conformidad con la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como intervenir en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en los que se le otorgue a la persona titular de la Agencia en términos de la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-V. Representar, de conformidad con la normativa aplicable, a la Agencia o a su titular ante los Tribunales Federales y del fuero común y toda autoridad en los trámites jurisdiccionales u otros asuntos de carácter legal en que tenga interés e injerencia la Agencia, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repreguntar y tachar de falsos a testigos o ratificantes, articular y absolver posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer, rendir y desahogar toda clase de pruebas;
+IV. Representar legalmente a la Agencia, su Titular, a las Unidades Administrativas adscritas y al órgano administrativo desconcentrado, en los juicios de amparo, de conformidad con la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como intervenir en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en los que se le otorgue a la persona titular de la Agencia en términos de la normativa aplicable;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+V. Representar, de conformidad con la normativa aplicable, a la Agencia, su Titular, a las Unidades Administrativas adscritas y al órgano administrativo desconcentrado, ante los Tribunales Federales y del fuero común y toda autoridad en los trámites jurisdiccionales u otros asuntos de carácter legal en que tenga interés e injerencia la Agencia, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repreguntar y tachar de falsos a testigos o ratificantes, articular y absolver posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer, rendir y desahogar toda clase de pruebas;
 
 VI. Interponer en representación de la Agencia o a su titular, acciones jurídicas tales como recusar jueces inferiores y superiores, interponer apelaciones, juicios de garantías, así como los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos de la Agencia, así como para sustituir poder en términos de ley a los representantes que para el efecto señale;
 
 VII. Dirigir y, en su caso, supervisar el registro y resguardo de los instrumentos jurídicos que generen derechos y obligaciones a la Agencia, sus unidades administrativas o su órgano administrativo desconcentrado;
 
-VIII. Asesorar jurídicamente a la persona titular, a las unidades administrativas y al órgano administrativo desconcentrado de la Agencia y a y a (sic) las entidades paraestatales sectorizada (sic) a esta, así como fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas vigentes, que normen su actuación;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Apoyar y asesorar jurídicamente a la persona titular, a las unidades administrativas y al órgano administrativo desconcentrado de la Agencia, así como de las entidades paraestatales sectorizadas a esta y actuar como órgano de consulta de las mismas en sus actividades jurídicas, fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas vigentes, que normen su actuación;
 
 IX. Dirigir la emisión de opiniones de las consultas que en materia jurídica formulen las personas servidoras públicas de la propia Agencia o de las entidades paraestatales sectorizada (sic) a esta;
 
@@ -493,15 +531,21 @@ XIX. Determinar, al interior de la Agencia, las líneas generales de acción en 
 
 XX. Intervenir en los asuntos de carácter legal en que tenga injerencia la Agencia;
 
-XXI. Coordinar la emisión de opiniones, que emitan las áreas bajo su adscripción, respecto de las consultas que en materia jurídica formulen las personas servidoras públicas de la Agencia o de las entidades paraestatales sectorizadas a esta dependencia;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXII. Proponer a la persona titular de la Agencia las disposiciones para la adquisición, arrendamiento y prestación de servicios en materia de tecnologías de la información y telecomunicaciones y desarrollo de software;
+XXI. Coordinar las áreas bajo su adscripción, respecto de las consultas que en materia jurídica formulen las personas servidoras públicas de la Agencia o de las entidades paraestatales sectorizadas a esta dependencia, y
 
-XXIII. Brindar atención y seguimiento a los procesos de gestión de los bienes de tecnologías de la información y comunicaciones, desde su planeación hasta su desincorporación realizados por las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+XXII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XXIV. Coordinar la atención de las solicitudes de dictaminación técnica del aprovisionamiento de tecnologías de la información y comunicaciones, con independencia del medio o instrumento jurídico o administrativo a través del que se realice por parte de las dependencias, sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal, y
+XXIII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XXV. Solicitar la opinión técnica a cualquier unidad administrativa de la Agencia, cuando sean requeridas derivado de un procedimiento de dictaminación técnica;
+XXIV. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
+
+XXV. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVI. Formular y emitir opiniones jurídicas en representación de la Agencia respecto de iniciativas, anteproyectos o proyectos de leyes y decretos, así como cualquier tipo de normatividad relacionada con las materias que sean competencia de la Agencia.
 
 ###### ARTÍCULO 13.
 
@@ -559,9 +603,21 @@ XXV. Supervisar y evaluar los servicios de información y orientación que se pr
 
 XXVI. Evaluar la información captada del número único de contacto ciudadano para el diseño de estrategias, implementación de mejoras, elaboración de estadísticas y demás acciones que sean necesarias para el cumplimiento de sus atribuciones;
 
-XXVII. Vigilar y verificar el cumplimiento del modelo integral de atención ciudadana, por parte de las dependencias y entidades de la Administración Pública Federal, y
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXVIII. Dirigir y conducir las acciones de colaboración y coordinación con las entidades federativas y municipios para transferencia de tecnología y conocimiento.
+XXVII. Vigilar y verificar el cumplimiento del modelo integral de atención ciudadana, por parte de las dependencias y entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVIII. Dirigir y conducir las acciones de colaboración y coordinación con las entidades federativas y municipios para transferencia de tecnología y conocimiento;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIX. Definir y promover los instrumentos, herramientas, mecanismos para la operación del modelo integral de atención ciudadana para las dependencias, sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXX. Ejercer las facultades conferidas a la Agencia en la Ley Nacional para Eliminar Trámites Burocráticos, que no estén conferidas expresamente a otra persona servidora pública en este reglamento.
 
 ###### ARTÍCULO 14.
 
@@ -625,9 +681,85 @@ VII. Requerir a las dependencias, sus órganos administrativos desconcentrados, 
 
 VIII. Evaluar los flujos y procedimientos relacionados a la simplificación de trámites y servicios de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal;
 
-IX. Dirigir la capacitación y actualización en materia de simplificación de trámites y servicios de las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, y
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-X. Integrar un repositorio nacional de código que promueva el desarrollo de capacidades tecnológicas de las entidades federativas y municipios.
+IX. Dirigir la capacitación y actualización en materia de simplificación de trámites y servicios de las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+X. Integrar un repositorio nacional de código que promueva el desarrollo de capacidades tecnológicas de las entidades federativas y municipios;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XI. Coordinar, implementar y vigilar la aplicación de la Ley Nacional para Eliminar Trámites Burocráticos, de los Modelos Nacionales, herramientas y acciones por parte de las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, y del resto de los Sujetos Obligados de competencia Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XII. Revisar el marco regulatorio federal y, en su caso, emitir recomendaciones vinculantes a las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal para la simplificación de Regulaciones, Trámites y Servicios específicos;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XIII. Requerir a los Sujetos Obligados a realizar acciones de simplificación administrativa, digitalización de Trámites y Servicios, y buenas prácticas regulatorias;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XIV. Promover y substanciar la evaluación de Regulaciones vigentes a través del Análisis de Impacto Regulatorio ex post;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XV. Solicitar a las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal la revisión de su acervo regulatorio para la simplificación y digitalización de Trámites y Servicios;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XVI. Dictaminar el Análisis de Impacto Regulatorio y su Propuesta Regulatoria de las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XVII. Aprobar y supervisar el cumplimiento de la Agenda Regulatoria y la Agenda de Simplificación y Digitalización de las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XVIII. En coordinación con la Dirección General de Gobierno Digital, diseñar e implementar las Soluciones Tecnológicas que se requieran para la operación y funcionamiento de los Modelos y plataformas digitales previstos en Ley Nacional para Eliminar Trámites Burocráticos;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XIX. En coordinación con la Dirección General de Gobierno Digital, habilitar Ventanillas Digitales Únicas interinstitucionales, para agilizar la atención de Trámites y Servicios, y coordinar su implementación con las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal competentes;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XX. Supervisar que las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal mantengan actualizada la información del Portal Ciudadano Único de Trámites y Servicios, y en su caso, requerir su inmediata actualización;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXI. Calcular el costo burocrático de las obligaciones regulatorias, Trámites y Servicios con la información proporcionada por las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXII. Diseñar e implementar los procesos para el cálculo del costo burocrático de las obligaciones regulatorias, Trámites y Servicios con la información proporcionada por los Sujetos Obligados;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIII. Supervisar y evaluar los avances en la implementación de los Modelos Nacionales previstos en la Ley Nacional para Eliminar Trámites Burocráticos;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIV. Asesorar, acompañar y capacitar en el diseño de herramientas tecnológicas que ayuden a la simplificación administrativa y digitalización de los procesos, trámites y servicios a cargo de las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXV. Desarrollar acciones para la cooperación en materia de buenas prácticas regulatorias, simplificación y digitalización de Trámites y Servicios, y desarrollo de capacidades tecnológicas públicas, en el ámbito nacional e internacional;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVI. Emitir el dictamen de análisis de impacto regulatorio o la constancia de exención correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVII. Otorgar Certificaciones en materia de Simplificación y Digitalización a los Sujetos Obligados y Autoridades Locales, para reconocer el cumplimiento de los objetivos de la Ley Nacional para Eliminar Trámites Burocráticos, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVIII. Determinar el cumplimiento de la Agenda Regulatoria y la Agenda de Simplificación y Digitalización de los Sujetos Obligados.
 
 ###### ARTÍCULO 16.
 
@@ -709,37 +841,43 @@ XV. Realizar las acciones tendientes a garantizar la instalación y despliegue d
 
 XVI. Promover el desarrollo de programas en materia de tecnología e innovación en colaboración con el Sistema Nacional de Humanidades, Ciencias, Tecnologías e Innovación;
 
-XVII. Realizar todos los actos administrativos para proveer y operar infraestructura, redes de telecomunicaciones y sistemas satelitales para la prestación de servicios de telecomunicaciones y radiodifusión y para el desarrollo e implementación de los programas de cobertura social y conectividad, de acuerdo con las disposiciones jurídicas aplicables;
+XVII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XVIII. Coordinar sus acciones con las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal para establecer los mecanismos administrativos y técnicos que requieren las instituciones públicas de educación superior y de investigación para la interconexión entre sus redes, y entre estas y las redes internacionales especializadas en el ámbito académico, así como en temas de desarrollo tecnológico, de conformidad con el artículo 213 de la Ley Federal de Telecomunicaciones y Radiodifusión;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XVIII. Coordinar sus acciones con las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal para establecer los mecanismos administrativos y técnicos que requieren las instituciones públicas de educación superior y de investigación para la interconexión entre sus redes, y entre éstas y las redes internacionales especializadas en el ámbito académico, así como en temas de desarrollo tecnológico, de conformidad con el artículo 205 de la Ley en Materia de Telecomunicaciones y Radiodifusión;
 
 XIX. Analizar las mejores prácticas internacionales, promover y coordinar estudios e investigaciones, en materia de telecomunicaciones, radiodifusión, incluyendo la banda ancha e Internet y tecnologías de la información para contribuir a la política de inclusión digital universal y a la cobertura universal, en el ámbito de su competencia, así como diseñar y difundir recomendaciones que promuevan el uso seguro y responsable de las tecnologías de información y comunicaciones, entre las personas usuarias;
 
-XX. Proponer a la persona titular de la Agencia la capacidad satelital de reserva del Estado, en términos de lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión y las demás normas reglamentarias y disposiciones aplicables;
+XX. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XXI. Administrar y vigilar el uso eficiente de la capacidad satelital propia, ya sea concesionada, adquirida o aquella establecida como reserva del Estado en su asignación para redes de seguridad nacional, servicios de carácter social y otras necesidades del Gobierno;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXII. Dar seguimiento al cumplimiento de las obligaciones de cobertura social o cobertura universal, que les hubiera establecido la autoridad competente a las personas concesionarias o autorizadas, en términos de lo dispuesto en la normatividad aplicable;
+XXI. Administrar y vigilar el uso eficiente de la capacidad satelital propia, ya sea concesionada o adquirida o aquella establecida como reserva del Estado;
 
-XXIII. Procurar la continuidad de los servicios satelitales que proporciona el Estado, bajo políticas de largo plazo;
+XXII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XXIV. Llevar a cabo de oficio o a petición de la parte interesada, las gestiones necesarias ante los organismos internacionales competentes, para la obtención de recursos orbitales a favor del Estado Mexicano, a fin de que sean asignados para sí o concesionados para terceros;
+XXIII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
+
+XXIV. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 XXV. Solicitar la colaboración y apoyo de cualquier dependencia o entidad de la Administración Pública Federal, estatal, municipal o demarcación territorial de la Ciudad de México, así como de los órganos autónomos, a fin de obtener información, documentación o cooperación necesaria en materia de telecomunicaciones y radiodifusión;
 
-XXVI. Llevar a cabo los procedimientos de coordinación de los recursos orbitales ante los organismos internacionales competentes, las entidades de otros países y con los concesionarios nacionales u operadores extranjeros;
+XXVI. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 XXVII. Proponer la declaratoria y, en su caso, ejecutar la requisa, de las vías generales de comunicación de los servicios de telecomunicaciones y radiodifusión, con el apoyo técnico que requiera de otras autoridades, dependencias y entidades;
 
-XXVIII. Analizar y elaborar las propuestas que le sean encomendadas, para solicitar la sustanciación y resolución de asuntos de manera prioritaria, en términos del artículo 44 de la Ley Federal de Telecomunicaciones y Radiodifusión;
+XXVIII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XXIX. Proponer a su superior jerárquico y adoptar las acciones y medidas necesarias que garanticen la continuidad en la prestación de los servicios de telecomunicaciones y radiodifusión, cuando se dé aviso a la Agencia de la existencia de causas de terminación por revocación o rescate de concesiones, disolución o quiebra de las sociedades concesionarias;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIX. Proponer a su superior jerárquico y adoptar, en su caso, las acciones y medidas necesarias que garanticen la continuidad en la prestación de los servicios de telecomunicaciones y radiodifusión cuando la Comisión Reguladora de Telecomunicaciones dé aviso de la existencia de causas de terminación por revocación o rescate de concesiones, disolución o quiebra de las sociedades concesionarias;
 
 XXX. Establecer mecanismos de colaboración con las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, industria y sociedad civil organizada, para fomentar la alfabetización e inclusión digital que requiera la población, especialmente los grupos en situación de vulnerabilidad;
 
 XXXI. Desarrollar las acciones para la inclusión digital y la apropiación de las tecnologías de información y comunicaciones, así como de los servicios de telecomunicaciones, para las micro, pequeñas y medianas empresas;
 
-XXXII. Recabar y analizar información, en coordinación con la Dirección General de Políticas de Telecomunicaciones para, en su caso, dar vista a la autoridad competente, de aquellos asuntos, actos o circunstancias que ameriten su intervención en el ámbito de su competencia;
+XXXII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 XXXIII. Elaborar los programas en materia de telecomunicaciones, radiodifusión e inclusión digital, y aquellos que promuevan la capacidad y servicios satelitales para las redes de seguridad nacional y realizar las acciones necesarias para contribuir a la política de inclusión digital universal del Ejecutivo Federal;
 
@@ -749,11 +887,11 @@ XXXV. Desarrollar, en coordinación con la autoridad competente, el Programa Nac
 
 XXXVI. Establecer mecanismos de colaboración con las dependencias y entidades de la Administración Pública Federal, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México y los sectores social y privado, con la finalidad de apoyar la creación, desarrollo y divulgación de políticas, programas, proyectos y estrategias en materia de telecomunicaciones y radiodifusión, así como las tecnologías relacionadas;
 
-XXXVII. Solicitar, concentrar y dar a conocer a la autoridad competente los requerimientos espectrales para el servicio público de telecomunicaciones y radiodifusión de la Administración Pública Federal, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como dar seguimiento al cumplimiento de los requerimientos espectrales para la Administración Pública Federal;
+XXXVII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 XXXVIII. Establecer mecanismos de coordinación con diversas autoridades para que, en el ámbito de sus respectivas competencias, promueva el acceso a las tecnologías de información y comunicaciones, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet;
 
-XXXIX. Proponer a la persona titular de la Agencia los programas de cobertura social y de conectividad en sitios públicos, en coordinación con los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
+XXXIX. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 XL. Determinar los mecanismos e incentivos con los que contarán los programas de cobertura social y de conectividad en sitios públicos, de conformidad (sic) la normativa aplicable;
 
@@ -767,15 +905,15 @@ XLIV. Ejercer, conforme a las disposiciones jurídicas aplicables, las funciones
 
 XLV. Inspeccionar y vigilar los servicios públicos de correos, telégrafos y sus servicios diversos;
 
-XLVI. Proponer a su superior jerárquico la posición del país en la negociación de convenios y tratados internacionales en materia de telecomunicaciones y radiodifusión;
+XLVI. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XLVII. Coordinar la representación del Gobierno Mexicano ante organismos, entidades internacionales y foros en materia de telecomunicaciones y radiodifusión, así como fijar la posición del Estado Mexicano ante dichos entes internacionales, con la intervención que corresponda a la Secretaría de Relaciones Exteriores;
+XLVII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XLVIII. Integrar, formular y emitir las opiniones técnicas no vinculantes dirigidas a la autoridad competente sobre el otorgamiento, prórroga, revocación, autorización de cesiones o cambio de control accionario, titularidad y operación de sociedades relacionadas con concesiones en materia de telecomunicaciones y radiodifusión;
+XLVIII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XLIX. Formular y proponer a su superior jerárquico, con base en los elementos técnicos, la opinión no vinculante de la Agencia sobre el programa anual de trabajo y el informe trimestral de actividades enviado por la autoridad competente;
+XLIX. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-L. Proponer la celebración de convenios con gobiernos extranjeros, en coordinación con la autoridad competente y a solicitud de las personas concesionarias de telecomunicaciones y radiodifusión, para que las redes nacionales intercambien tráfico con redes extranjeras;
+L. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 LI. Realizar por sí misma o con la colaboración de terceros, nacionales e internacionales, estudios en materia de conectividad e infraestructura de telecomunicaciones que permitan el cumplimiento de las atribuciones de la Agencia en la materia;
 
@@ -787,9 +925,63 @@ LIV. Representar a la persona titular de la Agencia en foros, instituciones naci
 
 LV. Emitir las opiniones técnicas que, en su caso, requeridas en los procedimientos de dictaminación técnica, en el supuesto de que las solicitudes correspondientes contengan elementos que involucren aspectos relacionados con servicios de conectividad y telecomunicaciones;
 
-LVI. Autorizar los desarrollos de software que realicen las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, y
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-LVII. Autorizar la donación y el licenciamiento a título gratuito u oneroso de software, equipos y certificación en el que intervengan las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal.
+LVI. Autorizar los desarrollos de software que realicen las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+LVII. Autorizar la donación y el licenciamiento a título gratuito u oneroso de software, equipos y certificación en el que intervengan las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+LVIII. Proponer en el ámbito de su competencia, a la persona titular de la Agencia:
+
+a. Las políticas, normas, lineamientos, criterios, manuales, procedimientos, programas y demás instrumentos aplicables para el logro de los objetivos de la Agencia;
+
+b. Los programas de cobertura social y de conectividad en sitios públicos, en coordinación con los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
+
+c. Adoptar las acciones y medidas necesarias que garanticen la continuidad en la prestación de los servicios de telecomunicaciones y radiodifusión, cuando se dé aviso a la Agencia de la existencia de causas de terminación por revocación o rescate de concesiones, disolución o quiebra de las sociedades concesionarias;
+
+d. Con base en los elementos técnicos, la opinión no vinculante de la Agencia sobre el programa anual de trabajo y el informe trimestral de actividades enviado por la autoridad competente, misma que deberá formularse;
+
+e. Las políticas en materia de telecomunicaciones, satelital y de radiodifusión del Gobierno Federal, de cobertura universal y cobertura social y las correspondientes para procurar la continuidad de los servicios satelitales que proporciona el Estado;
+
+f. El plan nacional de conectividad y acceso a Internet, y
+
+g. Las disposiciones para la adquisición, arrendamiento y prestación de servicios en materia de tecnologías de la información y comunicaciones, telecomunicaciones y desarrollo de software, con la finalidad de dictaminar técnicamente su aprovisionamiento.
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+LIX. Ejercer las facultades conferidas a la Agencia en la Ley en Materia de Telecomunicaciones y Radiodifusión, que no estén conferidas expresamente a otra persona servidora pública en este reglamento;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+LX. Elaborar en coordinación con la Comisión Reguladora de Telecomunicaciones y proponer a la persona titular de la Agencia el programa nacional de espectro radioeléctrico;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+LXI. En coadyuvancia con la Coordinación Nacional de Transformación Digital, elaborar y proponer a la persona titular de la Agencia, los lineamientos para la homologación y simplificación de trámites y servicios relacionados con la instalación, despliegue, mantenimiento, desmantelamiento y retiro de infraestructura de telecomunicaciones;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+LXII. Otorgar la conformidad, previo a su nombramiento, de las personas titulares de las unidades administrativas responsables de las tecnologías de la información y comunicación u homólogo, de las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal a solicitud de su titular;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+LXIII. Brindar atención y seguimiento a los procesos de gestión de los bienes de tecnologías de la información y comunicaciones, desde su planeación hasta su desincorporación realizados por las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+LXIV. Coordinar la atención de las solicitudes de dictaminación técnica del aprovisionamiento de tecnologías de la información y comunicaciones, con independencia del medio o instrumento jurídico o administrativo a través del que se realice por parte de las dependencias, sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+LXV. Solicitar la opinión técnica a cualquier unidad administrativa de la Agencia, cuando sean requeridas derivado de un procedimiento de dictaminación técnica, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+LXVI. Definir los protocolos de seguridad de la información y de las telecomunicaciones de la Administración Pública Federal.
 
 ###### ARTÍCULO 19.
 
@@ -813,13 +1005,23 @@ VIII. Diseñar, ejecutar y promover programas de capacitación y concientizació
 
 IX. Diseñar, desarrollar y ejecutar el monitoreo, análisis, detección de amenazas y vulnerabilidades, así como dirigir la respuesta a incidentes de ciberseguridad de la Agencia;
 
-X. Requerir a las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal la información necesaria para el desarrollo de sus funciones;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+X. Requerir a las dependencias, sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal la información necesaria para el ejercicio de sus atribuciones, incluyendo aquella relacionada con incidentes, riesgos, vulnerabilidades y cualquier otro elemento relevante para la supervisión, coordinación y fortalecimiento de la ciberseguridad de la Administración Pública Federal;
 
 XI. Coordinar por sí o en colaboración con el sector público y privado, la elaboración de estudios en materia de ciberseguridad;
 
-XII. Asistir a la persona titular de la Agencia en la celebración de acuerdos, convenios y mecanismos de colaboración y coordinación en materia de ciberseguridad, y
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XIII. Promover y mantener mecanismos de cooperación con otras entidades gubernamentales, sector privado y organizaciones internacionales, entre otras, en las materias de su competencia.
+XII. Asistir a la persona titular de la Agencia en la celebración de acuerdos, convenios y mecanismos de colaboración y coordinación en materia de ciberseguridad;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XIII. Promover y mantener mecanismos de cooperación con otras entidades gubernamentales, sector privado y organizaciones internacionales, entre otras, en las materias de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XIV. Proponer los protocolos de seguridad de la información y de las comunicaciones de la Administración Pública Federal.
 
 ###### ARTÍCULO 20.
 
@@ -837,91 +1039,175 @@ V. Dirigir la entrega y soporte de servicios tecnológicos de información y com
 
 VI. Coordinar y administrar los servicios de internet institucionales: sitio web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, entre otros, de las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
 
-VII. Asesorar a las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal en la entrega y soporte de servicios informáticos y de comunicaciones, y
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-VIII. Coordinar y administrar la operación de los sistemas de información de la Agencia.
+VII. Asesorar a las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal en la entrega y soporte de servicios informáticos y de comunicaciones;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Coordinar y administrar la operación de los sistemas de información de la Agencia, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+IX. Definir, coordinar, desarrollar e implementar los sistemas de información y mecanismos de seguridad de las tecnologías de la información y comunicaciones, que sean requeridos por todas las unidades administrativas de la Agencia, y sus entidades sectorizadas.
 
 ###### ARTÍCULO 21.
 
 La Dirección General de Políticas de Telecomunicaciones tiene las atribuciones siguientes:
 
-I. Diseñar, dirigir, desarrollar, implementar, supervisar y evaluar el Plan Nacional de Conectividad del Gobierno federal, para impulsar el acceso efectivo a los servicios de telecomunicaciones, incluido el acceso a Internet y sitios públicos en todo el territorio nacional;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-II. Diseñar, desarrollar, supervisar y evaluar la política y programas de inclusión digital universal del Gobierno federal, que impulse el acceso efectivo a los servicios de telecomunicaciones, incluido el acceso a Internet en edificios y sitios públicos;
+I. Coordinarse con la Comisión Reguladora de Telecomunicaciones para promover, en el ámbito de sus respectivas atribuciones, el acceso a las tecnologías de la información y comunicación y a los servicios de telecomunicaciones y radiodifusión, incluido el de banda ancha e Internet;
 
-III. Diseñar, desarrollar, supervisar y evaluar la política y programas en materia de inclusión digital, en materia de infraestructura activa y pasiva, accesibilidad y conectividad de observancia para las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, empresas públicas y con participación pública del sector de telecomunicaciones, de conformidad con lo establecido en las leyes de la materia, que promuevan el acceso universal en las zonas desfavorecidas, así como en escuelas, bibliotecas, zonas de transporte público y sitios públicos;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-IV. Diseñar, desarrollar, supervisar y evaluar la política y programas de conectividad del Gobierno federal, mediante el uso, aprovechamiento y explotación eficiente y efectiva de la infraestructura activa y pasiva de la Administración Pública Federal y de las empresas públicas y con participación pública del sector de telecomunicaciones;
+II. Establecer programas de acceso a banda ancha en sitios públicos que identifiquen el número de sitios a conectar cada año de manera progresiva, hasta alcanzar la cobertura universal;
 
-V. Diseñar, desarrollar, supervisar y evaluar la política y programas para la instalación y despliegue de infraestructura para las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, empresas públicas y con participación pública;
+III. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-VI. Solicitar a los (sic) dependencias de los tres órdenes de gobierno o sector privado, información relacionada con servicios de telecomunicaciones, redes de telecomunicaciones, infraestructura activa y pasiva del país que apliquen en la funcionalidad de esta y con la prestación de los servicios de telecomunicaciones para su sistematización y análisis;
+IV. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-VII. Desarrollar y gestionar proyectos que permitan el mejor aprovechamiento de los activos y recursos públicos de la Federación requeridos para la instalación, operación y crecimiento de las redes de telecomunicaciones del país;
+V. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-VIII. Establecer la vinculación con las autoridades competentes en materia de telecomunicaciones y radiodifusión para el cumplimiento de sus atribuciones en la materia, de conformidad con la normativa aplicable;
+VI. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-IX. Proponer a la persona titular de la Agencia lineamientos para el uso y aprovechamiento de las redes de telecomunicaciones, sus capacidades e infraestructura activa y pasiva, incluyendo sitios públicos, ductos, postería y derechos de vía de la Administración Pública Federal y de sus dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, así como de las empresas públicas o con participación pública en el sector de telecomunicaciones;
+VII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-X. Asistir a la persona titular de la Agencia en la celebración de contratos, acuerdos, convenios, programas, mecanismos de colaboración y coordinación o cualquier instrumento jurídico o administrativo con los Poderes Legislativo, Judicial, con los organismos u órganos autónomos, con las entidades de la Administración Pública Federal o los gobiernos de las entidades federativas para el uso y aprovechamiento de infraestructura de telecomunicaciones;
+VIII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XI. Coordinar por sí mismo o en colaboración con terceros del sector público o privado, la elaboración de estudios en materia de conectividad e infraestructura de telecomunicaciones;
+IX. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XII. Dirigir la revisión técnica de los proyectos de conectividad ejecutados por las empresas públicas o con participación pública en el sector de telecomunicaciones, por sí mismo o a través de terceros;
+X. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XIII. Promover acciones encaminadas al cumplimiento de las condiciones y lineamientos de administración y uso de los bienes y productos existentes de la infraestructura activa y pasiva y redes de telecomunicaciones a nivel nacional, derivadas de los instrumentos normativos que sustentan la actuación de la Agencia;
+XI. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XIV. Evaluar la información que sustente las propuestas de lineamientos, normativas y políticas en materia de conectividad e infraestructura de telecomunicaciones aplicables en todo el territorio nacional;
+XII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XV. Dirigir acciones encaminadas a la implementación de proyectos para el aprovechamiento de los recursos destinados a la instalación, operación y crecimiento de las redes de telecomunicaciones de las empresas públicas o con participación pública;
+XIII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XVI. Autorizar los programas relacionados con el uso eficiente de los activos a utilizar en el despliegue de las redes de telecomunicaciones de las empresas públicas o con participación pública;
+XIV. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XVII. Planear acciones encaminadas al desarrollo óptimo de las redes de telecomunicaciones de las empresas públicas o con participación pública y que promuevan el crecimiento de las mismas, y
+XV. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XVIII. Diseñar y coordinar las acciones, programas y apoyos a la población del país encaminados al logro de los fines de cobertura social y universal, y a la reducción de la brecha digital mediante el acceso a tecnologías de la información y comunicaciones.
+XVI. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
+
+XVII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
+
+XVIII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XIX. Supervisar las políticas de telecomunicaciones, y de radiodifusión del Gobierno Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XX. Coordinar las acciones y medidas necesarias para garantizar la continuidad en la prestación de los servicios de telecomunicaciones y radiodifusión cuando la Comisión le dé aviso de la existencia de causas de terminación por revocación o rescate de concesiones, disolución o quiebra de las sociedades concesionarias;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXI. Promover, en coordinación con la Comisión Reguladora de Telecomunicaciones, en el ámbito de sus respectivas atribuciones, el acceso a las tecnologías de la información y comunicación y a los servicios de telecomunicaciones y radiodifusión, incluido el de banda ancha e Internet;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXII. Realizar las acciones tendientes a garantizar el acceso a Internet de banda ancha en edificios e instalaciones de las dependencias y entidades de la Administración Pública Federal y coadyuvar con las entidades federativas, los municipios, la Ciudad de México y sus demarcaciones territoriales para el cumplimiento de este objetivo;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIII. Coordinar las políticas para procurar la continuidad de los servicios satelitales que proporciona el Estado;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIV. Emitir, en coordinación con la Comisión Reguladora de Telecomunicaciones, el programa nacional de espectro radioeléctrico que tendrá por objeto promover el aprovechamiento del espectro radioeléctrico, con el fin de brindar mayor cobertura y acceso a servicios de telecomunicaciones y radiodifusión para contribuir al bienestar de la población;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXV. Planear, fijar, instrumentar y conducir las políticas y programas de cobertura universal y cobertura social de conformidad con lo establecido en la Ley en materia de Telecomunicaciones y Radiodifusión;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVI. Coordinar la ejecución del plan nacional de conectividad y acceso a Internet, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVII. Las demás que le confiera la Ley en materia de Telecomunicaciones y Radiodifusión y otras disposiciones legales o administrativas.
 
 ###### ARTÍCULO 22.
 
 La Dirección General Satelital tiene las atribuciones siguientes:
 
-I. Autorizar, dirigir y coordinar los procedimientos técnicos de control, instalación, operación, mantenimiento, monitoreo, modernización, aprovechamiento y explotación del Sistema Satelital Mexsat y de los sistemas satelitales existentes y futuros propiedad del Gobierno federal, de las comunicaciones móviles satélites, de los centros de control satelital y de comunicaciones, así como de las redes de telecomunicación asociadas a servicios de comunicación vía satélite, de los telepuertos, de las terminales, de las bandas de frecuencia del espectro radioeléctrico, de radiotelegrafía, de las estaciones terrenas y de los servicios de telecomunicaciones a cargo de la Agencia, con el objetivo de garantizar su operación y funcionamiento;
+I. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-II. Operar por sí misma o con participación de terceros, sistemas satelitales para la prestación de servicios de telecomunicaciones;
+II. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-III. Conducir los programas de instalación, mantenimiento y operación de la infraestructura de telepuertos y de las redes de telecomunicación, así como de los servicios de ingeniería satelital, para asegurar la prestación de estos;
+III. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-IV. Administrar y operar los recursos satelitales a cargo de la Agencia, para proporcionar los servicios de telecomunicaciones a los diferentes usuarios;
+IV. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-V. Autorizar los parámetros técnicos de operación y de mantenimiento de telepuertos, con el propósito de garantizar la prestación de los servicios de telecomunicaciones;
+V. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-VI. Dirigir la interconexión de los telepuertos, centros de comunicaciones y centros de control satelital con las redes terrestres de telecomunicaciones, para la prestación de los servicios;
+VI. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-VII. Operar directamente o, en su caso, con participación de terceros, infraestructura, redes de telecomunicaciones asociadas a servicios de comunicación vía satélite y sistemas satelitales para la prestación de servicios de telecomunicaciones y radiodifusión;
+VII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 VIII. Proponer y dar seguimiento a los acuerdos internacionales en materia de recursos espaciales que suscriba la persona titular de la Agencia;
 
-IX. Dirigir la prestación de los servicios satelitales a nivel nacional y en su caso a nivel internacional;
+IX. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-X. Elaborar y someter a autorización de la persona titular de la Agencia los planes de tráfico y los parámetros para la transmisión de las señales satelitales en las bandas de frecuencia utilizadas en las redes de telecomunicaciones, para prestar los servicios correspondientes;
+X. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XI. Colaborar en el proceso para establecer los precios y tarifas de los servicios satelitales y de telecomunicación, así como proponer las correspondientes actualizaciones a la persona titular de la Agencia, con el objeto de someterlo a autorización de la Secretaría de Hacienda y Crédito Público;
+XI. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XII. Proponer a la persona titular de la Agencia las disposiciones para la comercialización de los servicios satelitales prestados por el Gobierno federal;
+XII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
 XIII. Estudiar nuevos modelos de negocio de los servicios satelitales provistos por el Gobierno federal, así como proponer estos a la persona titular de la Agencia, para potencializar la captación de clientes y usuarios;
 
-XIV. Coordinar la formalización de los convenios y contratos de los servicios satelitales y asociados a estos prestados por la Agencia, previo dictamen técnico de la unidad administrativa competente de la Agencia, para operar y comercializar lo que se establezca en estos, de conformidad con la legislación aplicable, así como dar seguimiento a su cumplimiento;
+XIV. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XV. Proponer a su superior jerárquico las condiciones y lineamientos para la administración, uso, disposición, contratación y comercialización de los bienes y productos existentes de los sistemas satelitales a nivel federal, así como de los productos que sean generados de la explotación, tratamiento y manejo de los mismos, en cumplimiento de las leyes establecidas en la materia y en consecución de los fines de la Agencia;
+XV. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XVI. Administrar, usar, disponer, contratar y, en su caso, explotar, los bienes de la infraestructura activa y pasiva de los sistemas satelitales propiedad del Gobierno federal, así como de los productos y servicios que sean generados por la explotación, tratamiento y manejo de los mismos, en coordinación con las instancias competentes, de conformidad con las disposiciones jurídicas aplicables;
+XVI. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XVII. Promover acciones encaminadas al cumplimiento de las condiciones y lineamientos de administración y uso de los bienes y productos existentes de la infraestructura activa y pasiva de los sistemas satelitales propiedad del Gobierno federal, derivadas de los instrumentos normativos que sustentan la actuación de la Agencia;
+XVII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XVIII. Integrar acciones para la adquisición, establecimiento y operación de sistemas satelitales con el fin de proveer de manera eficiente los servicios de telecomunicaciones, y
+XVIII. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
 
-XIX. Realizar el análisis correspondiente para determinar las condiciones y lineamientos para la administración, uso, disposición, contratación y comercialización de los bienes y productos existentes de la infraestructura activa y pasiva de los sistemas satelitales del país.
+XIX. (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XX. Diseñar, supervisar y evaluar la Política Satelital de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXI. Dirigir las acciones, estratégicas y programas que deriven de la política satelital;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXII. Promover el efectivo desarrollo de actividades satelitales para ampliar las capacidades del país en las ramas educativa, industrial, científica y tecnológica en materia satelital;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIII. Promover el desarrollo de los sistemas satelitales y los medios, tecnología e infraestructura necesarios para la consolidación y autonomía de este sector en México;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIV. Facilitar la incorporación de los sectores relacionados a esta política y particularmente la participación del sector productivo, a fin de que éste adquiera competitividad en los mercados de bienes y servicios satelitales;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXV. Promover acuerdos que beneficien a las actividades satelitales;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVI. Recibir de las entidades públicas, privadas y sociales las propuestas y observaciones que se realicen en materia satelital, para su estudio y consideración;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVII. Diseñar las políticas que promuevan la disponibilidad de capacidad y servicios satelitales suficientes para las redes de seguridad nacional, servicios de carácter social y demás necesidades, objetivos y fines del Gobierno Federal, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVIII. Auxiliar en la administración y vigilancia del uso eficiente de la capacidad satelital propia, ya sea concesionada o adquirida o aquella establecida como reserva del Estado.
 
 ###### ARTÍCULO 23.
 
@@ -929,9 +1215,13 @@ La Dirección General de Administración y Finanzas tiene las atribuciones sigui
 
 I. Acordar con la persona titular de la Agencia el despacho de los asuntos de su competencia, de las unidades administrativas que le estén adscritas, así como de aquellas otras que desarrollen funciones vinculadas a las de su ámbito de competencia;
 
-II. Establecer y ejecutar las normas, criterios, sistemas y procedimientos de carácter administrativo que deban regir en las unidades administrativas y el órgano administrativo desconcentrado de la Agencia, para la gestión de los recursos humanos, financieros, materiales, informáticos y de comunicaciones, así como darles seguimiento y verificar su observancia, de conformidad con la política que determinen las Secretarías de Hacienda y Crédito Público, y Anticorrupción y Buen Gobierno;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-III. Auxiliar a la persona titular de la Agencia e intervenir administrativamente en el nombramiento y remoción de las personas servidoras públicas de las unidades administrativas, en términos de la normativa vigente, así como emitir opinión, respecto de los casos en del (sic) órgano administrativo desconcentrado de la Agencia y de las entidades paraestatales sectorizados a esta;
+II. Establecer y ejecutar las normas, criterios, sistemas y procedimientos de carácter administrativo que deban regir en las unidades administrativas y el órgano administrativo desconcentrado para la administración de los recursos humanos, financieros y materiales, así como darles seguimiento y verificar su observancia, de conformidad con la política que determinen las Secretarías de Hacienda y Crédito Público, y Anticorrupción y Buen Gobierno;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+III. Auxiliar a la persona titular de la Agencia e intervenir administrativamente en el nombramiento, adscripción, movimiento y remoción de las personas servidoras públicas de las unidades administrativas, en términos de la normativa vigente, así como emitir opinión, respecto de los casos en el órgano administrativo desconcentrado de la Agencia y de las entidades paraestatales sectorizadas a ésta;
 
 IV. Coordinar el proceso interno de planeación, programación, presupuestación, control y evaluación del gasto de las unidades administrativas y del órgano administrativo desconcentrado de la Agencia y de las entidades paraestatales sectorizadas a esta, vigilando el cumplimiento de las disposiciones normativas aplicables;
 
@@ -955,31 +1245,75 @@ XIII. Autorizar de conformidad con la persona titular de la Agencia los programa
 
 XIV. Coordinar y apoyar la ejecución de los programas técnico-administrativos de capacitación y actualización para el personal de la Agencia, en coadyuvancia con las unidades administrativas competentes de la Agencia;
 
-XV. Expedir los nombramientos y la autorización de movimientos del personal, de acuerdo con los titulares de las unidades administrativas de la Agencia;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XV. Expedir los nombramientos y autorizar los movimientos del personal, de acuerdo con los titulares de las unidades administrativas de la Agencia;
 
 XVI. Verificar el establecimiento y aplicación del Programa Interno de Protección Civil para el personal, instalaciones y bienes de la Agencia;
 
-XVII. Coordinar la implementación y contratación del programa de seguridad y vigilancia de la Agencia;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XVIII. Coordinar los trabajos, programas y estrategias para la innovación, el desarrollo y la calidad de los procesos y de la organización interna de la Agencia;
+XVII. Coordinar la implementación y contratación del programa de vigilancia de la Agencia;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XVIII. Coordinar los trabajos, programas y estrategias para la mejora de la organización interna de la Agencia;
 
 XIX. Coordinar la formulación y ejecución de programas vinculados a la modernización y desarrollo organizacional de las unidades administrativas de la Agencia, y en su caso, brindar el apoyo que requieran el órgano administrativo desconcentrado de la Agencia y de las entidades paraestatales sectorizadas a esta en materia administrativa;
 
-XX. Someter a consideración de la persona titular de la Agencia, las propuestas de cambios y las medidas técnicas y administrativas que mejoren el funcionamiento de la Agencia, así como apoyar en la actualización del Reglamento Interior de esta dependencia;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXI. Someter a la aprobación de la persona titular de la Agencia, el proyecto de Manual de Organización General de la Agencia y coordinar los demás manuales de organización específicos, de procedimientos y de servicios al público de las unidades administrativas y el órgano administrativo desconcentrado de la Agencia;
+XX. Someter a consideración de la persona titular de la Agencia, las propuestas de cambios y las medidas técnicas y administrativas que mejoren el funcionamiento de la Agencia;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXI. Someter a la aprobación de la persona titular de la Agencia, el proyecto de Manual de Organización General de la Agencia y coadyuvar en la elaboración que lleven a cabo las unidades administrativas y el órgano administrativo desconcentrado de los demás manuales de organización específicos, de procedimientos y de servicios al público;
 
 XXII. Expedir certificaciones de los documentos existentes en el archivo a su cargo;
 
-XXIII. Coordinar, supervisar y vigilar las gestiones administrativas ante la Secretaría de Hacienda y Crédito Público en materia presupuestal y contable, de conformidad con la normativa aplicable, y
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXIV. Dictaminar al interior de la Agencia los proyectos de reestructuraciones, creaciones, modificaciones o eliminaciones orgánico-funcionales de las unidades administrativas y el órgano administrativo desconcentrado de la Agencia, así como opinar dichos proyectos de las entidades paraestatales sectorizados a la Agencia y gestionar su aprobación ante las instancias correspondientes, en términos de las disposiciones normativas aplicables.
+XXIII. Coordinar, supervisar y vigilar las gestiones administrativas ante la Secretaría de Hacienda y Crédito Público en materia presupuestal y contable, de conformidad con la normativa aplicable;
+
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIV. Dictaminar al interior de la Agencia los proyectos de reestructuraciones, creaciones, modificaciones o eliminaciones orgánico-funcionales de las unidades administrativas y el órgano administrativo desconcentrado de la Agencia, así como opinar dichos proyectos de las entidades paraestatales sectorizadas a la Agencia y gestionar su aprobación ante las instancias correspondientes, en términos de las disposiciones normativas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXV. Coordinar el proceso anual de programación, presupuestación, contabilidad y operación financiera, así como el control y seguimiento del ejercicio del gasto y el registro contable y rendición de cuentas de las unidades administrativas de la Agencia, conforme a las disposiciones normativas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVI. Establecer el Programa Anual de Trabajo que contenga los proyectos, metas e indicadores de la Agencia, alineados con los objetivos estratégicos de esta dependencia y el Plan Nacional de Desarrollo correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVII. Presentar las declaraciones de carácter fiscal, vigilar el cumplimiento de las obligaciones fiscales y efectuar el entero de las retenciones que la Agencia deba realizar por concepto de impuestos, derechos, cuotas de seguridad social y demás contribuciones conforme a la normatividad vigente;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXVIII. Emitir las evaluaciones de impacto presupuestario respecto de los proyectos normativos que se pretendan someter a consideración del titular del Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXIX. Representar a la Agencia en las gestiones en materia de prestaciones laborales y de seguridad social ante el Gobierno Federal, así como ante autoridades locales para el cumplimiento de las obligaciones que establezca la normatividad aplicable, y realizar trámites, consultas e integrar la información que sea requerida; asimismo, efectuar el pago de salarios caídos y otras prestaciones de carácter económico determinadas en sentencias definitivas, resoluciones administrativas y en aquellos otros casos que corresponda conforme a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXX. Resguardar los expedientes del personal, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
+
+XXXI. Fungir como área coordinadora de Archivos en términos de las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO V. Del órgano administrativo desconcentrado de la Agencia
 
-###### ARTÍCULO 24.
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 2025)</small>
 
-La Comisión Nacional de Mejora Regulatoria es un órgano administrativo desconcentrado adscrito a la Agencia, con autonomía técnica y operativa para el ejercicio de las atribuciones que le confiere la Ley General de Mejora Regulatoria.
+###### Artículo 24.
+
+La Comisión Reguladora de Telecomunicaciones es un órgano administrativo desconcentrado adscrito a la Agencia, con autonomía técnica y operativa para el ejercicio de las atribuciones que le confiere la Ley en materia de Telecomunicaciones y Radiodifusión, su Reglamento Interior y demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VI. De la suplencia de las personas servidoras públicas de la Agencia
 
@@ -998,3 +1332,27 @@ PRIMERO.- El presente decreto entra en vigor al día siguiente al de su publicac
 SEGUNDO.- A la entrada en vigor del presente decreto se tendrán por derogados los artículos 2, fracción II; 3, fracción IX, y 36, del Reglamento de la Oficina de la Presidencia de la República, publicado en el Diario Oficial de la Federación el 9 de septiembre de 2019.
 
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México, a 22 de enero de 2025.- La Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- El Titular de la Agencia de Transformación Digital y Telecomunicaciones, José Antonio Peña Merino.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES”.]
+
+PRIMERO. El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las menciones y atribuciones de la Comisión Reguladora de Telecomunicaciones, así como las atribuciones previstas en el presente reglamento relacionadas con la Ley en Materia de Telecomunicaciones y Radiodifusión, entrarán en vigor al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones en términos del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+TERCERO. Todas las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto de la Comisión Nacional de Mejora Regulatoria, se entenderán referidas a las unidades administrativas que asuman tales funciones o atribuciones en la Agencia de Transformación Digital y Telecomunicaciones.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+QUINTO. A partir de la entrada en vigor del presente decreto, la Agencia de Transformación Digital y Telecomunicaciones, en coordinación con las autoridades de cuya participación se requiera, deberá de llevar a cabo las acciones necesarias para la transferencia de los recursos humanos, materiales y financieros con los que actualmente la Dirección General Satelital del Sistema Satelital Mexsat, al Organismo Promotor de Inversiones en Telecomunicaciones.
+
+La transferencia señalada en el párrafo que antecede, deberá prever todo lo relacionado con la designación de autoridad contable ante el servicio denominado INMARSAT, el cual contempla: servicios de facturación, catálogo de usuarios y proveedores, cartera de cuentas incobrables, histórico de facturas líquidas a proveedores y cartera pendiente por pagar a proveedores.
+
+Las personas titulares de la Dirección General de Administración y Finanzas u homólogas de la Agencia de Transformación Digital y Telecomunicaciones, del Organismo Promotor de Inversiones en Telecomunicaciones y del resto de autoridades cuya participación se requiera, serán coordinadoras del proceso de transferencia de los recursos a que se refiere este artículo, por lo que proveerán y acordarán lo necesario para darle cumplimiento, así como de proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de sus competencias.
+
+SEXTO. La Agencia de Transformación Digital y Telecomunicaciones, en coordinación con las autoridades de cuya participación se requiera, en un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá acudir ante la autoridad competente, a efecto de establecer el procedimiento a seguir, con relación a las concesiones, asignaciones y permisos en materia de telecomunicaciones y radiodifusión con que cuente el Sistema Satelital Mexsat.
+
+SÉPTIMO. En un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente decreto se deberán realizar las adecuaciones normativas correspondientes a los ordenamientos jurídicos respectivos para armonizarlos con las disposiciones previstas en esta disposición.
