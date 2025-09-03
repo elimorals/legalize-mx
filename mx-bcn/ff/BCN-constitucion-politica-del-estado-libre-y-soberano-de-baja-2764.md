@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2025-06-13"
+last_updated: "2025-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -65,13 +65,13 @@ El Estado es Libre y Soberano en todo lo concerniente a su régimen interior, si
 
 Todo poder público dimana del pueblo y se instituye para beneficio de éste.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-La renovación de los poderes Legislativo, Ejecutivo y Judicial; así como los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas.
+La renovación de los poderes Legislativo, Ejecutivo y Judicial, así como los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas. Así como por el procedimiento de Revocación de Mandato en los términos establecidos en esta Constitución y en las Leyes Secundarias.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-Cuando las campañas tengan como finalidad elegir gubernatura, diputaciones y ayuntamientos en forma simultánea, la duración será de sesenta días para el caso de la gubernatura y cuarenta y cinco días para diputaciones y ayuntamientos; cuando solo se elija diputaciones y ayuntamientos, las campañas tendrán una duración (sic) cuarenta y cinco días; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+Cuando las campañas tengan como finalidad elegir Gubernatura, Diputaciones y Personas integrantes de Ayuntamientos en forma simultánea, la duración será de sesenta días para el caso de Gubernatura y cuarenta y cinco días para Diputaciones y Ayuntamientos; cuando solo se elija Diputaciones y Ayuntamientos, las campañas tendrán una duración de cuarenta y cinco días; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -105,31 +105,33 @@ Los partidos políticos son entidades de interés público. La Ley determinará 
 
 Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones estatales y municipales en los términos que establezca la Ley.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de la ciudadanía, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible. Sólo la ciudadanía podrá formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-En los términos de las leyes electorales, los partidos políticos tienen el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de las candidaturas relativas al Poder Judicial y podrán hacerlo de manera unipartidista o mediante las figuras de coaliciones totales, parciales o flexibles.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+En los términos de las leyes electorales, los partidos políticos tienen el derecho para solicitar el registro de candidaturas a cargos de elección popular, con excepción de las candidaturas relativas al Poder Judicial y podrán hacerlo de manera unipartidista o mediante las figuras de coaliciones totales, parciales o flexibles.
 
-Los partidos políticos deberán garantizar las reglas para cumplir con la paridad entre los géneros en candidaturas a diputados y en planillas de candidatos a munícipes en cada Ayuntamiento, tanto propietarios como suplentes.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+Los partidos políticos deberán garantizar las reglas para cumplir con la paridad entre los géneros en candidaturas a Diputaciones y en planillas de candidaturas a munícipes en cada Ayuntamiento, tanto personas propietarias como suplentes.
 
-Los candidatos a ocupar un cargo de elección popular, deberán registrar por lo menos con quince días de anticipación a la celebración de la jornada electoral, sus compromisos de campaña ante el Instituto Estatal Electoral, el cual tendrá la obligación de registrarlos para efectos de su posterior consulta por cualquier interesado. El Instituto, en año no electoral, dará seguimiento de los compromisos de campaña mediante la emisión de informes anuales, debiendo remitirlos al Congreso del Estado.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+Las y los candidatos a ocupar un cargo de elección popular, deberán registrar por lo menos con quince días de anticipación a la celebración de la jornada electoral, sus compromisos de campaña ante el Instituto Estatal Electoral, el cual tendrá la obligación de registrarlos para efectos de su posterior consulta por cualquier persona interesada. El Instituto, en año no electoral, dará seguimiento de los compromisos de campaña mediante la emisión de informes anuales, debiendo remitirlos al Congreso del Estado.
 
-Los candidatos a ocupar un cargo de elección popular, deberán presentar ante el Instituto Estatal Electoral, por lo menos con quince días de anticipación a la celebración de la jornada electoral, los resultados del examen para la detección de drogas de abuso, que deberán practicarse dentro de los treinta días anteriores a su presentación; para efectos de su posterior consulta por cualquier interesado.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+
+Las y los candidatos a ocupar un cargo de elección popular, deberán presentar ante el Instituto Estatal Electoral, por lo menos con quince días de anticipación a la celebración de la jornada electoral, los resultados del examen para la detección de drogas de abuso, que deberán practicarse dentro de los treinta días anteriores a su presentación; para efectos de su posterior consulta por cualquier persona interesada.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-El acceso de los partidos políticos y de los candidatos independientes a los tiempos en radio y televisión se estará a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y leyes aplicables.
+El acceso de los partidos políticos y de las candidaturas independientes a los tiempos en radio y televisión se estará a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y leyes aplicables.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -159,13 +161,13 @@ El procedimiento para la liquidación de los partidos políticos estatales que p
 
 El incumplimiento de las normas que regulen la comprobación de ingresos, egresos, topes de gastos y aportaciones, así como la liquidación de los partidos políticos, serán sancionados en los términos de las leyes correspondientes.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 APARTADO B.- Del Instituto Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-La organización de las elecciones para renovar la integración de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y austeridad.
+La organización de las elecciones para renovar la integración de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren las y los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y austeridad.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -179,9 +181,9 @@ El Instituto Estatal Electoral ejercerá sus atribuciones en los términos previ
 
 I.- Desarrollar y Ejecutar los programas de educación cívica;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-II.- Garantizar los derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
+II.- Garantizar los derechos y el acceso a las prerrogativas de las candidaturas y partidos políticos;
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -195,7 +197,7 @@ IV.- Preparar de (sic) la Jornada Electoral;
 
 V.- Efectuar el escrutinio y cómputo total de las elecciones;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 VI.- Declarar la validez de las elecciones de la Gubernatura, Diputaciones, Magistraturas, Juezas y Jueces del Poder Judicial y Ayuntamientos;
 
@@ -223,21 +225,33 @@ XI.- Las demás que determinen las leyes aplicables.
 
 El Instituto Estatal Electoral será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; contará en su estructura con un órgano de dirección, ejecutivos, técnicos, de vigilancia y fedatarios para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán regulados por la Ley. La Ley determinará las reglas para la organización y funcionamiento de los órganos del Instituto, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para el ejercicio de sus atribuciones.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-El órgano de dirección superior denominado Consejo General Electoral, se integrará por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, contará además con un Secretario Ejecutivo. Los representantes de los partidos políticos, así como el Secretario Ejecutivo concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano. Durante el proceso de elecciones judiciales, cada uno de los Poderes del Estado podrá designar a una persona o integrante del comité de evaluación respectivo para que en su representación participe solo con derecho a voz, en las sesiones del Consejo General; asimismo cada uno de los Poderes del Estado podrá designar, directamente o a través de la persona designada ante el Consejo General, a un representante en cada uno de los Consejos Distritales de la autoridad administrativa electoral. En tal elección no tendrán participación los representantes de los partidos políticos.
+El órgano de dirección superior denominado Consejo General Electoral, se integrará por una Consejera o Consejero Presidente y seis Consejerías Electorales, con derecho a voz y voto, contará además con una Secretaría Ejecutiva. Las y los representantes de los partidos políticos, así como la Secretaría Ejecutiva concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano. Durante el proceso de elecciones judiciales, cada uno de los Poderes del Estado podrá designar a una persona o integrante del comité de evaluación respectivo para que en su representación participe solo con derecho a voz, en las sesiones del Consejo General; asimismo cada uno de los Poderes del Estado podrá designar, directamente o a través de la persona designada ante el Consejo General, a un representante en cada uno de los Consejos Distritales de la autoridad administrativa electoral. En tal elección no tendrán participación los representantes de los partidos políticos.
 
-El Consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Ley General correspondiente. Los consejeros electorales estatales deberán ser originarios del Estado o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-Los consejeros electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley respectiva.
+La persona Consejera Presidenta y las Consejerías Electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Ley General correspondiente. Las y los Consejeros Electorales estatales deberán ser originarios del Estado o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley.
 
-Los consejeros electorales estatales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-El Secretario Ejecutivo investido de fe pública para actos de naturaleza electoral, será nombrado en los términos de ley, por el órgano de dirección superior a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de sus integrantes, durará en su encargo cuatro años y podrá ser reelecto una sola vez; en el supuesto de que transcurridas dos rondas de votación, el aspirante propuesto no alcanzare la votación requerida, la designación se hará por mayoría simple del Consejo General Electoral.
+Las Consejerías Electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley respectiva.
 
-Los Consejos Distritales son órganos operativos del Instituto Estatal Electoral, que se integrarán por cinco Consejeros Electorales Distritales nombrados por las dos terceras partes de los integrantes del órgano de dirección superior del cual dependen; así como por representantes acreditados por los partidos políticos, con voz pero sin voto, en la forma que establezca la Ley y, un Secretario Fedatario nombrado mediante votación de las dos terceras partes de los Consejos Distritales a propuesta de cada uno de los Consejeros Presidentes, la Ley establecerá los requisitos que deberán reunir para su designación.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-Los trabajadores incorporados al Servicio Profesional Electoral Nacional, regirán sus relaciones laborales por las disposiciones aplicables.
+Las Consejerías Electorales estatales y demás personas servidoras públicas que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postuladas o postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+
+La Secretaría Ejecutiva estará investida de fe pública para actos de naturaleza electoral, será nombrada o nombrado en los términos de ley, por el órgano de dirección superior a propuesta de la Consejera o Consejero Presidente, con la aprobación de las dos terceras partes de sus integrantes, durará en su encargo cuatro años y podrá ser reelecto una sola vez; en el supuesto de que transcurridas dos rondas de votación, la persona propuesta que no alcanzare la votación requerida, la designación se hará por mayoría simple del Consejo General Electoral.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+
+Los Consejos Distritales son órganos operativos del Instituto Estatal Electoral, que se integrarán por cinco Consejerías Electorales Distritales nombrados por las dos terceras partes de los integrantes del órgano de dirección superior del cual dependen; así como por representantes acreditados por los partidos políticos, con voz pero sin voto, en la forma que establezca la Ley y, un Secretario Fedatario nombrado mediante votación de las dos terceras partes de los Consejos Distritales a propuesta de cada uno de las Consejeras y los Consejeros Presidentes, la Ley establecerá los requisitos que deberán reunir para su designación.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+
+Las y los trabajadores incorporados al Servicio Profesional Electoral Nacional, regirán sus relaciones laborales por las disposiciones aplicables.
 
 La selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina de los servidores públicos en el Servicio Profesional Electoral Nacional, será en los términos en que se regule por el Instituto Nacional Electoral.
 
@@ -247,17 +261,17 @@ Las sesiones de todos los órganos colegiados electorales serán públicas, en l
 
 El Instituto Estatal Electoral contará con un Órgano Interno de Control con autonomía técnica y de gestión que tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto, el cual mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado, mismo que será designado de conformidad con la Ley de la materia.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-La Ley fijará el régimen de responsabilidades a que estarán sujetos los servidores públicos del Instituto Estatal Electoral.
+La Ley fijará el régimen de responsabilidades a que estarán sujetos (sic) las personas servidoras públicas del Instituto Estatal Electoral.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 APARTADO C. Participación Ciudadana.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-Los instrumentos y mecanismos de participación ciudadana serán la Consulta Popular, el Plebiscito, el Referéndum, la Iniciativa Ciudadana y el Presupuesto Participativo.
+Los instrumentos y mecanismos de participación ciudadana serán la Revocación de Mandato, Consulta Popular, el Plebiscito, el Referéndum, la Iniciativa Ciudadana y el Presupuesto Participativo.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -271,13 +285,13 @@ Los principios rectores de la participación ciudadana serán la libertad, la de
 
 Tratándose de Plebiscito, Referéndum, Consulta Popular y Presupuesto Participativo, la participación ciudadana podrá realizarse a través de medios electrónicos, en los términos que determine la Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-La Consulta Popular se realizará sobre temas de amplio interés estatal, siempre que así lo acuerde el Congreso, la solicitud de cuando menos las dos terceras partes de sus integrantes, de la Gobernadora o Gobernador, o de por lo menos el dos por ciento de los ciudadanos inscritos en la lista nominal de electores.
+La Consulta Popular se realizará sobre temas de amplio interés estatal, siempre que así lo acuerde el Congreso, la solicitud de cuando menos las dos terceras partes de sus integrantes, de la Gobernadora o Gobernador, o de por lo menos el dos por ciento de las y los ciudadanos inscritos en la lista nominal de electores.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-Cuando la participación en la Consulta Popular corresponda, al menos, al veinte por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los Poderes del Estado y demás autoridades competentes.
+Cuando la participación en la Consulta Popular corresponda, al menos, al veinte por ciento de las y los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los Poderes del Estado y demás autoridades competentes.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -291,33 +305,33 @@ El Instituto Estatal Electoral tendrá a su cargo la organización, desarrollo, 
 
 La Consulta Popular, Plebiscito y Referéndum, que se celebren en años electorales, deberán realizarse el mismo día de la jornada electoral para la celebración de elecciones ordinarias en el Estado.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-La Iniciativa Ciudadana es el mecanismo mediante el cual los ciudadanos del Estado podrán presentar propuestas para crear, modificar, reformar, adicionar, derogar o abrogar leyes o decretos, con las excepciones y demás requisitos que contemple la Ley. La Iniciativa Ciudadana podrá presentarse por escrito ante el Congreso del Estado, siempre que se acompañe de los nombres y firmas de por los (sic) menos quinientos ciudadanos incluidos en la lista nominal de electores del Estado.
+La Iniciativa Ciudadana es el mecanismo mediante el cual la ciudadanía del Estado podrá presentar propuestas para crear, modificar, reformar, adicionar, derogar o abrogar leyes o decretos, con las excepciones y demás requisitos que contemple la Ley. La Iniciativa Ciudadana podrá presentarse por escrito ante el Congreso del Estado, siempre que se acompañe de los nombres y firmas de por los menos quinientas personas inscritas en la lista nominal de electores del Estado.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 APARTADO D. De las Candidaturas independientes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 Con excepción de los cargos relativos al Poder Judicial, es derecho de las y los ciudadanos residentes en el Estado, poder ser votado para los cargos de elección popular por el principio de mayoría relativa, pudiendo solicitar su registro de manera independiente siempre y cuando cumplan con los requisitos, condiciones y términos que determinen las disposiciones constitucionales, legales y reglamentarias establecidas al efecto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-De conformidad con el procedimiento que se establezca en la Ley, los ciudadanos tendrán derecho a ser registrados como candidatos independientes dentro de un proceso electoral local para ocupar los cargos de Gubernatura, Munícipes, así como el de Diputaciones por el principio de mayoría relativa.
+De conformidad con el procedimiento que se establezca en la Ley, las y los ciudadanos tendrán derecho a ser registrados como candidatas y candidatos independientes dentro de un proceso electoral local para ocupar los cargos de Gobernadora o Gobernador, Munícipes, así como Diputaciones por el principio de mayoría relativa.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-Los candidatos independientes registrados al cargo de Diputados por el principio de mayoría relativa, en ningún caso, serán asignados por el principio de representación proporcional.
+Las y los candidatos independientes registrados al cargo de Diputación por el principio de mayoría relativa, en ningún caso, serán asignados por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-Los candidatos independientes tendrán derecho al financiamiento público de campaña en los términos de Ley.
+Las candidaturas independientes tendrán derecho al financiamiento público de campaña en los términos de Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-APARTADO E.- De las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, y de las Juezas y Jueces del Poder Judicial del Estado.
+APARTADO E. De las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, y de las Juezas y Jueces del Poder Judicial del Estado.
 
 Es derecho de las ciudadanas y los ciudadanos que reúnan los requisitos establecidos en la Constitución, poder ser votados al cargo de Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y de Juezas y Jueces del Poder Judicial del Estado.
 
@@ -329,9 +343,9 @@ Los partidos políticos y las personas servidoras públicas no podrán realizar 
 
 La ley establecerá la forma de las campañas, de celebración de la jornada electoral, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales. Durante el proceso electoral local, todos los días y horas son hábiles.
 
-> <small>(REFORMADO [N. DE E. ANTES APARTADO E], P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-APARTADO F.- Justicia Electoral y sistema de nulidades.
+APARTADO F. Justicia Electoral y sistema de nulidades.
 
 Para garantizar el principio de legalidad de los actos y resoluciones electorales se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación; este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía, prontitud y concentración procesal.
 
@@ -893,17 +907,21 @@ A fin de contribuir al cumplimiento de los objetivos señalados en los párrafos
 
 ### CAPITULO II.. DE LA REVOCACION DE MANDATO
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 12.
 
-Es revocable el mandato de los servidores públicos de elección popular, en los términos que dispone esta Constitución y las leyes de la materia, a través de los mecanismos siguientes:
+Es revocable el mandato de las y los servidores públicos de elección popular, en los términos que dispone esta Constitución y las leyes de la materia, a través de los mecanismos siguientes:
 
-I.- Por los ciudadanos, por responsabilidad política, mediante el juicio político, que podrá interponer cualquier ciudadano;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+
+I.- Por la ciudadanía, por responsabilidad política, mediante el juicio político, que podrá interponer cualquier ciudadana o ciudadano;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
 II.- Por responsabilidad penal, cuando la autoridad competente así lo determine;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 III.- Por la incapacidad total y permanente para ejercer el cargo; que será declarada por autoridad judicial y ratificada por el Congreso del Estado.
 
@@ -911,11 +929,45 @@ III.- Por la incapacidad total y permanente para ejercer el cargo; que será dec
 
 IV.- De conformidad con lo dispuesto en la fracción I, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, suspender o revocar el mandato de alguno de los miembros de los ayuntamientos por causa grave que determine la Ley, siempre y cuando el afectado haya tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
 V.- En los casos en que lo acuerde o solicite la Suprema Corte de Justicia de la Nación, conforme a las disposiciones aplicables.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-VI.- Tratándose de Diputados, la revocación de mandato procederá mediante sufragio universal que emitan los ciudadanos, en términos de las disposiciones que resulten aplicables.
+VI.- Tratándose de Diputaciones, la revocación de mandato procederá mediante sufragio universal que emitan la ciudadanía, en términos de las disposiciones que resulten aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+
+VII.- Tratándose de la persona titular del Poder Ejecutivo del Estado, la revocación de mandato procederá mediante sufragio universal que emitan las y los ciudadanos, conforme a lo siguiente:
+
+a) Será convocado por el Instituto Estatal Electoral a petición de la ciudadanía, en un número equivalente, al menos, al diez por ciento de la lista nominal de electores, en la mitad más uno de los municipios del Estado.
+
+El Instituto dentro de los siguientes treinta días hábiles a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso de la Revocación de Mandato.
+
+b) Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año de periodo constitucional.
+
+Las y los ciudadanos podrán recabar firmas para la solicitud de Revocación de Mandato durante el mes previo a la fecha prevista en el párrafo anterior, el Instituto emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+
+c) Se realizará mediante votación libre, directa y secreta de ciudadanas y ciudadanos inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con los procesos electorales, federales o locales.
+
+d) Para que el proceso de Revocación de Mandato sea válido deberá haber una participación de por lo menos, el cuarenta por ciento de las personas inscritas en el listado nominal de electores. La Revocación de Mandato solo procederá por mayoría absoluta.
+
+e) El Instituto Estatal Electoral tendrá a su cargo, en forma directa, la organización, desarrollo y computo de la votación. Emitirá los resultados de los procesos de Revocación de Mandato de la Persona Titular del Poder Ejecutivo, y en su caso emitirá la declaratoria de Revocación y se estará a lo dispuesto en el artículo 46 de esta Constitución.
+
+f) Los actos o resoluciones referidos en el párrafo anterior podrán ser impugnados ante el Tribunal de Justicia Electoral del Estado, en los términos que disponga la ley.
+
+g) Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
+
+El Instituto Estatal Electoral promoverá la participación ciudadana y será la única instancia a cargo de su difusión. La promoción será objetiva, imparcial y con fines informativos.
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de la ciudadanía.
+
+Durante el tiempo que comprenda el proceso de Revocación de Mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental estatal y municipal.
+
+Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, solo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
+
+h) El Congreso del Estado emitirá la Ley Reglamentaria.
 
 ## TITULO TERCERO
 
@@ -1105,43 +1157,43 @@ La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un 
 
 Estos mismos requisitos serán necesarios tratándose de la elección consecutiva a que refiere el artículo 16 de esta Constitución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-###### ARTICULO 18.
+###### ARTÍCULO 18.
 
-No pueden ser electas para ocupar alguna diputación, las siguientes personas:
+No pueden ser electas para ocupar alguna Diputación, las siguientes personas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-I.- La Gobernadora o Gobernador del Estado, sea provisional, interino o encargado del despacho durante todo el período de su ejercicio, aun cuando se separe de su cargo;
+I.- La Gobernadora o Gobernador del Estado, sea provisional, interina o encargada del despacho durante todo el período de su ejercicio, aun cuando se separe de su cargo;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-II.- Las Magistradas o Magistrados, así como las Juezas y Jueces del Estado, integrantes del Consejo de Administración del Poder Judicial del Estado, así como del Tribunal de Disciplina Judicial, las personas titulares de la Secretaría General de Gobierno, de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía Especializada para la Atención de Delitos Electorales, así como las personas titulares de las Secretarías del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección;
+II.- Las Magistradas o Magistrados, así como las Juezas y Jueces del Estado, integrantes del Consejo de Administración del Poder Judicial del Estado, así como del Tribunal de Disciplina Judicial, la persona titular de la Secretaría General de Gobierno, la o el Fiscal General del Estado, las personas titulares de la Fiscalía Especializada en Combate a la Corrupción y de la Fiscalía Especializada para la Atención de Delitos Electorales, las titularidades de las Secretarías del Poder Ejecutivo, salvo que se separen de sus cargos de forma definitiva, noventa días antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-III.- Los Diputados y Senadores del Congreso de la Unión, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
+III.- Diputadas y Diputados, Senadoras y Senadores del Congreso de la Unión, salvo que se separen de sus cargos, de forma provisional, noventa días antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-IV.- Los militares en servicio activo o las personas que tengan mando de policía, a menos que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
+IV.- Las personas militares en servicio activo o las personas que tengan mando de policía, a menos que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-V.- Los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, salvo que se separen de sus cargos en forma provisional, noventa días antes del día de la elección;
+V.- Las personas que ocupen la titularidad de las Presidencias Municipales, Sindicaturas Procuradora o Procurador y Regidurías de los Ayuntamientos, salvo que se separen de sus cargos de forma provisional, noventa días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
 VI.- Quienes tengan cualquier empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional noventa días antes del día de la elección.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-VII.- Los ministros de cualquier culto religioso, a menos que se separen en los términos que establece la Ley de la materia.
+VII.- Las personas ministras de cualquier culto religioso, a menos que se separen en los términos que establece la Ley de la materia.
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-VIII.- Las que tengan sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como personas deudoras alimentarias morosas.
+VIII.- Las personas que tengan sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como personas deudoras alimentarias morosas.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -1237,7 +1289,7 @@ Las sesiones del Congreso serán públicas, a excepción de aquellas que, por la
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 27.
 
@@ -1249,7 +1301,7 @@ I.- Legislar sobre todos los ramos que sean de la competencia del Estado y refor
 
 II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como proponer la reforma o derogación de unas y de otras;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 III.- Facultar a la Gobernadora o Gobernador del Estado, con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda.
 
@@ -1273,13 +1325,13 @@ VII.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaraci
 
 VIII.- Expedir el Bando Solemne para dar a conocer en el Municipio respectivo la declaración de munícipes electos que hubiere hecho el Instituto Estatal Electoral;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
+X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución, incluyendo la expedición o modificación de las leyes que regulen el procedimiento de Revocación de Mandato, así como el resto de los instrumentos de participación ciudadana democrática y deliberativa.
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -1293,33 +1345,33 @@ XII.- Revisar, analizar y auditar por medio de la Auditoria Superior del Estado,
 
 XIII.- Vigilar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión; el funcionamiento y desempeño de la Auditoría Superior del Estado. Al efecto, le podrá requerir informe sobre la evolución de sus trabajos en materia de fiscalización, por medio de la Comisión que determine la Ley;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XIV.- Nombrar y remover al Auditor Superior del Estado, por el voto de las dos terceras partes de sus miembros; en la forma y términos establecidos en esta Constitución y por la Ley de la materia.
+XIV.- Nombrar y remover a la persona titular de la Auditoría Superior del Estado, por el voto de las dos terceras partes de sus miembros; en la forma y términos establecidos en esta Constitución y por la Ley de la materia.
 
-Para efecto del procedimiento relativo a la designación del Auditor Superior del Estado, funcionará la Comisión Especial en los términos que determine el Congreso del Estado.
+Para efecto del procedimiento relativo a la designación de la persona titular de la Auditoría Superior del Estado, funcionará la Comisión Especial en los términos que determine el Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 XV.- Designar a un integrante del Consejo de Administración del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XVI.- Designar, en los términos que previene esta Constitución, a la ciudadana o ciudadano que deba substituir a la Gobernadora o Gobernador en sus faltas temporales o absolutas;
+XVI.- Designar, en los términos que previene esta Constitución, a la persona que deba substituir a la Gobernadora o Gobernador en sus faltas temporales o absolutas;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 XVII.- Convocar a elecciones, cuando fuere necesario conforme a lo establecido en la Ley;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XVIII.- Resolver acerca de las licencias definitivas de las Diputadas y Diputados y de la Gobernadora o Gobernador; así como respecto a las renuncias y remociones, de los Magistrados del Tribunal Superior de Justicia, y de la persona Consejera de Administración designada por el Congreso;
+XVIII.- Resolver acerca de las licencias definitivas de las Diputadas y Diputados y de la Gobernadora o Gobernador; así como respecto a las renuncias y remociones, de las Magistraturas del Tribunal Superior de Justicia, y de la persona Consejera de Administración designada por el Congreso;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XIX.- Otorgar licencias a las Diputadas y Diputados y a la Gobernadora o Gobernador para separarse de sus cargos; y a los Magistrados del Poder Judicial cuando esto sea por más de dos meses;
+XIX.- Otorgar licencias a las Diputadas y Diputados y a la Gobernadora o Gobernador para separarse de sus cargos; y a las Magistraturas del Poder Judicial cuando esto sea por más de dos meses;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 XX.- Aprobar o reprobar los convenios que la Gobernadora o Gobernador celebre con las vecinas Entidades de la Federación respecto a la cuestión de límites, y someter tales convenios a la ratificación del Congreso de la Unión;
 
@@ -1327,21 +1379,21 @@ XXI.- Cambiar provisionalmente, y por causa justificada, la residencia de los Po
 
 XXII.- Resolver las competencias y dirimir las controversias que se susciten entre el Ejecutivo y el Tribunal Superior salvo lo prevenido en los Artículos 76 Fracción VI y 105 de la Constitución General de la República;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXIII.- Elegir a los Magistrados del Tribunal Estatal de Justicia Administrativa; determinar su adscripción a Pleno o a Salas y resolver respecto a su ratificación o no ratificación, ausencias definitivas, renuncias y remociones; en la forma y términos que esta Constitución y la Ley determinen;
+XXIII.- Elegir a las Magistraturas del Tribunal Estatal de Justicia Administrativa, determinar su adscripción a Pleno o a Salas y resolver respecto a su ratificación o no ratificación, ausencias definitivas, renuncias y remociones; en la forma y términos que esta Constitución y la Ley determinen;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXIV.- Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra estos se instauren;
+XXIV.- Conocer de las imputaciones que se hagan a las personas servidoras públicas a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra estos se instauren;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución;
+XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan las personas servidoras públicas y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXVI.- Crear o suprimir municipios, fijar, delimitar y modificar la extensión de sus territorios, autorizar mediante Decreto los convenios amistosos que sobre sus respectivos límites celebren los municipios; así como dirimir de manera definitiva las controversias o diferencias que se susciten sobre límites territoriales intermunicipales, modificando en su caso el Estatuto Territorial. Lo previsto en esta fracción se sujetará, a la emisión del voto aprobatorio de las dos terceras partes de los Diputados integrantes del Congreso;
+XXVI.- Crear o suprimir municipios, fijar, delimitar y modificar la extensión de sus territorios, autorizar mediante Decreto los convenios amistosos que sobre sus respectivos límites celebren los municipios; así como dirimir de manera definitiva las controversias o diferencias que se susciten sobre límites territoriales intermunicipales, modificando en su caso el Estatuto Territorial. Lo previsto en esta fracción se sujetará, a la emisión del voto aprobatorio de las dos terceras partes de las Diputaciones integrantes del Congreso;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
@@ -1351,29 +1403,27 @@ XXVIII.- Otorgar premios o recompensas a las personas que hayan prestado servici
 
 XXIX.- Conceder pensiones a los familiares de quienes hayan prestado servicios eminentes al Estado, siempre que su situación económica lo justifique;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 XXX.- Designar entre los vecinos, a propuesta de la Gobernadora o Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+Asimismo, legislar respecto a los conflictos entre personas trabajadoras y patronales, a efecto de lograr su conciliación o resolución por la vía jurisdiccional, con base en lo dispuesto en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-Asimismo, legislar respecto a los conflictos entre trabajadores y patrones, a efecto de lograr su conciliación o resolución por la vía jurisdiccional, con base en lo dispuesto en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que la Gobernadora o Gobernador haga (sic) las Titularidades de la Secretaría de Integración y Bienestar Social y de la Secretaría de la Honestidad y la Función Pública. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificadas las personas propuestas.
 
-XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que la Gobernadora o Gobernador haga del Secretario de Integración y Bienestar Social y del Secretario de la Honestidad y la Función Pública. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+El Congreso podrá acordar la no ratificación de las personas propuestas, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso la Gobernadora o Gobernador procederá libremente a hacer la designación correspondiente.
 
-El Congreso podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso la Gobernadora o Gobernador procederá libremente a hacer la designación correspondiente.
+Cuando la Persona Titular del Poder Ejecutivo del Estado opte por el Gobierno de Coalición, ratificará a las personas Titulares de las Dependencias del Poder Ejecutivo, en los términos que dispongan esta Constitución y las leyes que de ella emanen.
 
-Cuando la Gobernadora o Gobernador opte por el Gobierno de Coalición, ratificará a los Titulares de las Dependencias del Poder Ejecutivo, en los términos que dispongan esta Constitución y las leyes que de ella emanen.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2001)</small>
-
-XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y
+XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que le correspondan;
 
 > <small>(REFORMADA, P.O. 28 DE ENERO DE 2011)</small>
 
@@ -1387,25 +1437,23 @@ XXXV.- Elaborar y aprobar el Plan de Desarrollo Legislativo en los términos de 
 
 XXXVI.- Expedir la Ley que regulará la estructura y funcionamiento interno del Congreso, su Reglamento Interior, y demás acuerdos que resulten necesarios para la adecuada organización administrativa del Congreso;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXXVII.- Citar a los Secretarios del ramo, Fiscal General del Estado, al Fiscal Especializado en Combate a la Corrupción, al Fiscal Especializado para la Atención de Delitos Electorales, a los Titulares o Administradores de los Organismos Descentralizados Estatales o de las empresas de participación estatal mayoritaria, así como a la Presidencia del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Consejo de Administración del Poder Judicial del Estado, y a los Titulares de los Órganos Constitucionales Autónomos, para que informen cuando se discute una ley, se realice la Glosa del Informe que rindan la Gobernadora o Gobernador del Estado o la persona titular del Poder Judicial o cuando se estudie un asunto concerniente a sus respectivos ramos o actividades. Para los efectos de la citación del Fiscal General del Estado se estará a lo dispuesto en el Artículo 70 de esta Constitución.
+XXXVII.- Citar a las y los Secretarios del ramo, a las titularidades de la Fiscalía General del Estado, Fiscalía Especializada en Combate a la Corrupción y Fiscalía Especializada para la Atención de Delitos Electorales, a las personas titulares o administradoras de los Organismos Descentralizados Estatales o de las empresas de participación estatal mayoritaria; así como a la Presidencia del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Consejo de Administración del Poder Judicial del Estado; a las y los Titulares de los Órganos Constitucionales Autónomos, para que informen cuando se discute una ley, se realice la Glosa del Informe que rindan la Persona Titular del Poder Ejecutivo del Estado o del Poder Judicial o cuando se estudie un asunto concerniente a sus respectivos ramos o actividades. Para los efectos de la citación de la persona titular de la Fiscalía General del Estado se estará a lo dispuesto en el Artículo 70 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
-
-Los funcionarios a que se refiere el párrafo anterior, estarán obligados a acudir a las sesiones correspondientes; así como a dar respuesta formal, atendiendo a los puntos de acuerdo o exhortos remitidos por el Congreso, en un plazo prudente que no exceda de 30 días naturales.
+Las personas funcionarias a que se refiere el párrafo anterior, estarán obligadas u obligados a acudir a las sesiones correspondientes; así como a dar respuesta formal, atendiendo a los puntos de acuerdo o exhortos remitidos por el Congreso, en un plazo prudente que no exceda de 30 días naturales.
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
 XXXVIII.- Examinar y en su caso aprobar el Plan Estatal de Desarrollo que le remita el Ejecutivo;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XXXIX.- Elegir por mayoría calificada, al titular de la Comisión Estatal de los Derechos Humanos, o realizar su remoción por la misma votación, solo por las causas previstas en esta Constitución y la Ley, relativas a responsabilidad de servidores públicos. Así como aprobar las propuestas de nombramientos de los integrantes del Consejo Consultivo.
+XXXIX.- Elegir por mayoría calificada, a la persona titular de la Comisión Estatal de los Derechos Humanos, o realizar su remoción por la misma votación, solo por las causas previstas en esta Constitución y la Ley, relativas a responsabilidad de servidores públicos. Así como aprobar las propuestas de nombramientos de los integrantes del Consejo Consultivo.
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XL.- A solicitud del Presidente de la Comisión Estatal de Derechos Humanos, citar a las autoridades o servidores públicos responsables, que no acepten o incumplan las recomendaciones de la Comisión Estatal de Derechos Humanos, para que comparezcan ante el Congreso del Estado, a efecto de que expliquen el motivo de su negativa; y,
+XL.- A solicitud de la Presidencia de la Comisión Estatal de Derechos Humanos, citar a las autoridades o personas servidoras publicas responsables, que no acepten o incumplan las recomendaciones de la Comisión Estatal de Derechos Humanos, para que comparezcan ante el Congreso del Estado, a efecto de que expliquen el motivo de su negativa; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2017)</small>
 
@@ -1419,17 +1467,17 @@ XLI.- Expedir conforme a las bases normativas aplicables los siguientes ordenami
 
 4. La Ley que desarrolle las competencias, a cargo de las autoridades locales y municipales que determine la legislación general en materia de responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XLII.- Designar al Titular de la Fiscalía Especializada en Combate a la Corrupción, con base a la terna que remita la persona titular del Poder Ejecutivo del Estado por mayoría calificada conforme a las reglas contenidas en esta Constitución.
+XLII.- Designar a la persona Titular de la Fiscalía Especializada en Combate a la Corrupción, con base a la terna que remita la persona titular del Poder Ejecutivo del Estado por mayoría calificada conforme a las reglas contenidas en esta Constitución.
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XLIII.- Designar por mayoría calificada, a los titulares de los órganos internos de control de los organismos con autonomía reconocidos por esta Constitución, con excepción de los relacionados con órganos electorales, mediante convocatoria pública y conforme al procedimiento que establezca la Ley, los cuales durarán en su cargo cuatro años y podrán ser reelectos por una sola ocasión. Solo podrán ser removidos por faltas graves, en la forma y términos establecidos en la Ley de la materia;
+XLIII.- Designar por mayoría calificada, a las y los titulares de los órganos internos de control de los organismos con autonomía reconocidos por esta Constitución, con excepción de los relacionados con órganos electorales, mediante convocatoria pública y conforme al procedimiento que establezca la Ley, los cuales durarán en su cargo cuatro años y podrán ser reelectos por una sola ocasión. Solo podrán ser removidos por faltas graves, en la forma y términos establecidos en la Ley de la materia;
 
 La convocatoria pública a que hace referencia el párrafo anterior, deberá darse amplia publicidad en los periódicos de mayor circulación del Estado y en la página oficial del Congreso del Estado;
 
-Para efecto del procedimiento relativo a la designación de los titulares de los órganos internos de control a que hace referencia esta fracción, funcionara la Comisión Especial en los términos a que alude el artículo 70 párrafo VIII de esta Constitución.
+Para efecto del procedimiento relativo a la designación de las titularidades de los órganos internos de control a que hace referencia esta fracción, funcionara la Comisión Especial en los términos a que alude el artículo 70 párrafo VIII de esta Constitución.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2017)</small>
 
@@ -1439,9 +1487,9 @@ XLIV.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las
 
 XLV.- Legislar en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano sustentable de los centros de población, atendiendo a las facultades concurrentes previstas en la Constitución Política de los Estados Unidos Mexicanos, en la presente Constitución y en las leyes aplicables.
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-XLVI.- Designar al Fiscal General del Estado y al Fiscal Especializado para la Atención de Delitos Electorales, por mayoría calificada de conformidad con las reglas contenidas en esta Constitución.
+XLVI.- Designar a las personas titulares de la Fiscalía General del Estado y Fiscalía Especializada para la Atención de Delitos Electorales, por mayoría calificada de conformidad con las reglas contenidas en esta Constitución.
 
 ### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
 
@@ -1777,11 +1825,13 @@ Las personas que tengan sentencia firme por la comisión intencional de delitos 
 
 Los impedimentos para volver a ocupar el cargo de Gobernador son los que consigna el Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 44.
 
-El Gobernador será electo cada seis años, mediante el sufragio universal, libre, secreto, directo, personal e intransferible y entrará a ejercer sus funciones el día primero del mes de septiembre posterior a la elección.
+La Persona Titular del Poder Ejecutivo del Estado, será electa cada seis años, mediante el sufragio universal, libre, secreto, directo, personal e intransferible y entrará a ejercer sus funciones el día primero del mes de septiembre posterior a la elección.
+
+Es revocable el cargo de Gobernadora o Gobernador del Estado en los términos establecidos en la fracción VII del artículo 12 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
@@ -1789,15 +1839,11 @@ El Gobernador será electo cada seis años, mediante el sufragio universal, libr
 
 El Gobernador podrá ausentarse del territorio del Estado o separarse de sus funciones hasta 30 días, dando aviso al Congreso y en esos casos el Secretario General de Gobierno se hará cargo del despacho con las atribuciones que establezca la Ley Orgánica de la Administración Pública del Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 46.
 
-En las faltas temporales que excedan de treinta días el Congreso nombrará un Gobernador Interino.
-
-El nombramiento de Gobernador Interino lo hará el Congreso en escrutinio secreto y por mayoría absoluta de votos.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
-
-Son causas de falta absoluta del Gobernador del Estado, las siguientes:
+En las faltas temporales que excedan de treinta días el Congreso nombrará una Gobernadora o Gobernador Interino, ya sea por:
 
 I.- La muerte;
 
@@ -1807,25 +1853,27 @@ III.- La renuncia expresa por causa grave que será calificada por el Congreso d
 
 IV.- La separación del cargo por declaratoria de autoridad competente;
 
-V.- Si transcurridos seis meses y convocado por el Congreso, el Gobernador ausente o separado de sus funciones no se presenta, sin causa justificada, a asumir el ejercicio de su cargo;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+
+V.- Si transcurridos seis meses y convocado por el Congreso, la Gobernadora o Gobernador ausente o separado de sus funciones no se presenta, sin causa justificada, a asumir el ejercicio de su cargo;
 
 VI.- Las demás que establezca expresamente esta Constitución.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificar éstas en un término no mayor de cuatro meses posteriores a la convocatoria.
+En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos una Gubernatura Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificar éstas en un término no mayor de cuatro meses posteriores a la convocatoria.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-La persona que sea designada Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
+La persona que sea designada Gobernadora o Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-Si la falta absoluta ocurriere después de los dos primeros años, el Congreso designará por mayoría absoluta y en un término no mayor de ocho días, un Gobernador Sustituto que termine el ejercicio constitucional del Ejecutivo; caso en el cual el Secretario General de Gobierno se hará cargo del despacho, de conformidad con lo dispuesto por el Artículo 45 de esta Constitución.
+Si la falta absoluta ocurriere después de los dos primeros años, el Congreso designará por mayoría absoluta y en un término no mayor de ocho días, a la Gobernadora o Gobernador Sustituto que termine el ejercicio constitucional del Ejecutivo; caso en el cual la persona titular de la Secretaría General de Gobierno se hará cargo del despacho, de conformidad con lo dispuesto por el Artículo 45 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
-El ciudadano que sea designado para suplir al Titular del Poder Ejecutivo como Gobernador Interino, Provisional o Sustituto, deberá reunir los requisitos establecidos en el Artículo 41 de esta Constitución con excepción de lo dispuesto por la fracción VI.
+La ciudadana o Ciudadano que sea designada para suplir a la persona Titular del Poder Ejecutivo como Gobernadora o Gobernador Interino, Provisional o Sustituto, deberá reunir los requisitos establecidos en el Artículo 41 de esta Constitución con excepción de lo dispuesto por la fracción VI.
 
 ###### ARTICULO 47.
 
@@ -2645,7 +2693,7 @@ La Ley fijará las atribuciones y deberes inherentes a la Defensoría Pública, 
 
 ###### ARTICULO 76.
 
-El Municipio es la base de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre administración de su hacienda. Su objeto consiste en organizar a la comunidad asentada en su territorio, para la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia Local, así como ejercer las funciones y prestar los servicios públicos de su competencia.
+El municipio es la base de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre administración de su hacienda. Su objeto consiste en organizar a la comunidad asentada en su territorio, para la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia Local, así como ejercer las funciones y prestar los servicios públicos de su competencia.
 
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para reglamentar directa y libremente las materias de su competencia.
 
@@ -5974,3 +6022,13 @@ Cuarto. En observancia al principio de paridad de género a que se refiere el ar
 Quinto. La Fiscalía General del Estado tendrá el plazo de noventa días naturales contados a partir de la entrada en vigor de las presentes reformas para realizar las modificaciones reglamentarias que resulten necesarias.
 
 Hasta en tanto no se realicen las modificaciones reglamentarias, toda referencia a la Fiscalía Especializada en Delitos Contra Mujeres por Razón de Género se entenderá hecha a la Fiscalía Especializada en Delitos Relacionados con las Violencias de Género Contra las Mujeres.
+
+P.O. 3 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 137 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5, 12, 18, 27, 44 Y 46 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Aprobadas que sean las presentes reformas, túrnese a los ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
