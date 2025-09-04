@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2025-09-03"
+last_updated: "2025-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -539,6 +539,8 @@ La Comisión Estatal de los Derechos Humanos, contará con un Consejo Consultivo
 
 La Comisión Estatal de los Derechos Humanos, por conducto de su presidencia, quien lo será también del Consejo Consultivo, presentará anualmente, por escrito, a los Poderes del Estado, un informe de sus actividades. Al efecto, comparecerá ante el Pleno del Poder Legislativo en los términos que disponga la ley.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 139 PUBLICADO EN EL P.O. 4 DE SEPTIEMBRE DE 2025, PÁGINAS DE LA 6 A LA 7.]</small>
+
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
 
 APARTADO C. De la Transparencia y Acceso a la Información Pública.
@@ -551,69 +553,39 @@ I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y
 
 II.- Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. La Ley determinará los supuestos específicos en que procederá la declaración de inexistencia de la información.
 
-III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la Ley.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las Leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
 
 IV.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación, cancelación y oposición al tratamiento de éstos en los términos que establezca la Ley.
 
-Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes.
 
 V.- Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
-VI.- La Ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-VII.- La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la Ley.
+VI.- Las Leyes determinará (sic) la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, es el organismo constitucional autónomo especializado, imparcial y colegiado al que corresponderá garantizar el acceso a la información pública y la protección de datos personales en poder de los sujetos obligados; fomentar la cultura de transparencia y estimular la participación ciudadana; emitir políticas de transparencia proactiva; coadyuvar en la implementación de políticas y mecanismos de gobierno abierto y resolver los recursos de revisión en los términos que establezca la Ley. El Instituto estará dotado de personalidad jurídica y patrimonio propio, contará con plena autonomía técnica, de gestión y de decisión sobre el ejercicio de su presupuesto, así como de determinación de su organización interna.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-El Instituto contará con un presupuesto que cada año deberá ser incrementado en un porcentaje mayor al índice inflacionario. Para estos efectos no se considerarán las ampliaciones presupuestales que se hubiesen realizado en el ejercicio fiscal anterior.
+VII.- La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las Leyes.
 
-En su funcionamiento el Instituto se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+Los sujetos obligados, deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el ámbito estatal y municipal para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+Los sujetos obligados se regirán por las leyes en materia de transparencia y acceso a la información pública y protección de datos personales, en los términos que éstas sean emitidas para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
 La Ley establecerá aquella información que se considere reservada o confidencial.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-El Instituto se integrará por tres personas Comisionadas Propietarios que formarán parte del Pleno y una Comisionada o Comisionado Suplente que cubrirán las ausencias de aquellos, en los términos previstos en la Ley. Las y los Comisionados durarán en su encargo cinco años, sin posibilidad de ser ratificados y serán designados de conformidad con las bases siguientes:
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-a.- Inmediatamente que exista una o varias vacantes o ciento veinte días naturales antes si la misma fuere previsible; el Comité Ciudadano el cual estará integrado por siete ciudadanas y ciudadanos nombrados en términos de la ley y dos representantes del Poder Ejecutivo, deberá expedir la convocatoria que debe ser publicada en el Periódico Oficial del Estado y dos diarios de mayor circulación en el Estado.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-b.- El Comité Ciudadano deberá elaborar una lista de personas que contenga una opinión de los méritos, trayectoria, experiencia y resultados de las entrevistas de cada una de las personas que se inscribieron en términos de la convocatoria señalada en el inciso anterior. La opinión deberá ser enviada al Congreso del Estado, dentro de los sesenta días naturales siguientes contados a partir de la publicación de la convocatoria.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-c.- El Pleno del Congreso del Estado en un término no mayor a treinta días naturales contados a partir de que recibió la opinión del Comité Ciudadano, por mayoría calificada de sus integrantes, deberá realizar el nombramiento respectivo. La Presidencia del Congreso dentro de los tres días naturales siguientes al nombramiento respectivo, deberá remitirlo al Gobernador del Estado.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-d.- El Gobernador, por una sola vez, podrá objetar de manera fundada y motivada el nombramiento en un término no mayor a cinco días naturales contados a partir del momento en que lo reciba del Congreso. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionada o Comisionado la persona nombrada por el Congreso.
-
-e.- En caso de que el Gobernador objetara el nombramiento, el Congreso Local realizará un nuevo nombramiento por una votación de mayoría calificada, tomando en consideración las personas que forman parte de la lista a la que alude el inciso b.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-f.- En todas las etapas del proceso de nombramiento de Comisionadas y Comisionados a cargo del Comité Ciudadano y del Congreso del Estado, deberán observarse los principios de transparencia y participación ciudadana.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-Las y los Comisionados deberán reunir los requisitos que señalan las fracciones I, V, VI, VII y VIII del artículo 60 de la Constitución Local. Además poseer en ese momento título profesional con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y haber realizado por lo menos durante tres años anteriores a su nombramiento, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación relacionadas con la transparencia y acceso a la información pública. En la conformación del Pleno del Instituto se deberá garantizar el principio de paridad de género.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-Las y los Comisionados no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-El Instituto contará con un Consejo Consultivo, integrado de manera paritaria por seis Consejeras y Consejeros honoríficos, designados por mayoría calificada del Congreso del Estado. Las y los Consejeros deberán reunir los mismos requisitos que las y los Comisionados, pero tendrán que poseer título profesional con antigüedad mínima de tres años y provenir de organizaciones de la sociedad civil y de la academia. Las y los Consejeros durarán tres años en el encargo con posibilidad de ser ratificados y serán designados conforme a lo que establezca la Ley.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-El Instituto contará con un Órgano Interno de Control, cuyo titular será designado por mayoría calificada del Congreso del Estado. El procedimiento de designación y requisitos serán establecidos en la Ley.
-
-La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2021)</small>
 
@@ -1413,11 +1385,15 @@ XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Munici
 
 Asimismo, legislar respecto a los conflictos entre personas trabajadoras y patronales, a efecto de lograr su conciliación o resolución por la vía jurisdiccional, con base en lo dispuesto en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que la Gobernadora o Gobernador haga (sic) las Titularidades de la Secretaría de Integración y Bienestar Social y de la Secretaría de la Honestidad y la Función Pública. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificadas las personas propuestas.
+XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que la Gobernadora o Gobernador haga de las personas titulares de la Secretaría de Bienestar y de la Secretaría Anticorrupción y Buen Gobierno. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 El Congreso podrá acordar la no ratificación de las personas propuestas, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso la Gobernadora o Gobernador procederá libremente a hacer la designación correspondiente.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 Cuando la Persona Titular del Poder Ejecutivo del Estado opte por el Gobierno de Coalición, ratificará a las personas Titulares de las Dependencias del Poder Ejecutivo, en los términos que dispongan esta Constitución y las leyes que de ella emanen.
 
@@ -1925,9 +1901,11 @@ VIII.- Visitar los Municipios del Estado cuando lo estime conveniente, proveyend
 
 IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-X.- Nombrar y remover libremente a los secretarios y demás funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad. Los nombramientos de las personas titulares de la Secretaría de Bienestar y de la Secretaría de la Honestidad y la Función Pública, estarán sujetos a la ratificación del Congreso conforme lo señala esta Constitución;
+X.- Nombrar y remover libremente a los secretarios y demás funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad. Los nombramientos de las personas titulares de la Secretaría de Bienestar y de la Secretaría Anticorrupción y Buen Gobierno, estarán sujetos a la ratificación del Congreso conforme lo señala esta Constitución;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Cuando opte por el Gobierno de Coalición, someterá a cada una de las personas Titulares de las Dependencias del Ejecutivo Estatal, por separado a ratificación del Congreso del Estado por mayoría simple de las o los miembros presentes. Si en el primer nombramiento no se alcanzara la mayoría de votos, la Gobernadora o Gobernador del Estado hará un segundo nombramiento distinto, que deberá ser votado en los mismos términos y condiciones que el primero; si el segundo nombramiento no alcanzara la mayoría de votos, la Gobernadora o Gobernador del Estado hará el nombramiento definitivo;
 
@@ -2693,7 +2671,7 @@ La Ley fijará las atribuciones y deberes inherentes a la Defensoría Pública, 
 
 ###### ARTICULO 76.
 
-El municipio es la base de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre administración de su hacienda. Su objeto consiste en organizar a la comunidad asentada en su territorio, para la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia Local, así como ejercer las funciones y prestar los servicios públicos de su competencia.
+El Municipio es la base de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre administración de su hacienda. Su objeto consiste en organizar a la comunidad asentada en su territorio, para la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia Local, así como ejercer las funciones y prestar los servicios públicos de su competencia.
 
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para reglamentar directa y libremente las materias de su competencia.
 
@@ -3227,9 +3205,9 @@ II.- El Tribunal Estatal de Justicia Administrativa impondrá a los particulares
 
 III.- En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La Ley de la materia establecerá los procedimientos para que les sea entregada dicha información.
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-IV.- La Auditoría Superior del Estado, la Secretaría de la Honestidad y la Función Pública, así como los órganos internos de control de los entes públicos estatales y municipales, podrán recurrir las determinaciones de la Fiscalía Especializada en combate a la corrupción del Estado y del Tribunal Estatal de Justicia Administrativa, de conformidad con lo previsto en las disposiciones legales aplicables.
+IV.- La Auditoría Superior del Estado, la Secretaría Anticorrupción y Buen Gobierno, así como los órganos internos de control de los entes públicos estatales y municipales, podrán recurrir las determinaciones de la Fiscalía Especializada en combate a la corrupción del Estado y del Tribunal Estatal de Justicia Administrativa, de conformidad con lo previsto en las disposiciones legales aplicables.
 
 APARTADO C.- De la Responsabilidad objetiva y directa del Estado.
 
@@ -3297,19 +3275,19 @@ La votación no podrá llevarse a cabo en la misma sesión, sino con posteriorid
 
 Las decisiones que determine en esta materia el Congreso del Estado son definitivas e inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 94.
 
-Para proceder penalmente contra la Gobernadora o Gobernador, las Diputadas o Diputados del Congreso del Estado; Las Magistradas o Magistrados del Poder Judicial del Estado; los Integrantes del Consejo de Administración y las Magistraturas del Tribunal de Disciplina Judicial del Poder Judicial del Estado, las Magistradas y Magistrados del Tribunal Estatal de Justicia Administrativa; las personas titulares de la Secretaría General de Gobierno, de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía Especializada para la Atención de Delitos Electorales, Presidentas y Presidentes Municipales, Regidoras y Regidores, así como las personas titulares de las Sindicaturas de los Ayuntamientos del Estado o Comisionadas y Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, bastará que la Jueza o Juez de control dicte auto de vinculación penal, en los términos del Código Nacional de Procedimientos Penales.
+Para proceder penalmente contra la Gobernadora o Gobernador, las Diputadas o Diputados del Congreso del Estado; las Magistradas o Magistrados del Poder Judicial del Estado; los Integrantes del Consejo de Administración y las Magistraturas del Tribunal de Disciplina Judicial del Poder Judicial del Estado, las Magistradas y Magistrados del Tribunal Estatal de Justicia Administrativa; las personas titulares de la Secretaría General de Gobierno, de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía Especializada para la Atención de Delitos Electorales, Presidentas y Presidentes Municipales, Regidoras y Regidores, así como las personas titulares de las Sindicaturas de los Ayuntamientos del Estado, bastará que la Jueza o Juez de control dicte auto de vinculación penal, en los términos del Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Si el Juez decreta la vinculación a proceso del servidor público, así como la imposición de medidas cautelares que impidan a este llevar el juicio en libertad en los términos de las disposiciones legales conducentes, bastará con la notificación personal respectiva para que surta efectos la separación del cargo del procesado. De igual manera, el Juez notificará de inmediato a los órganos internos de control, que el servidor público quedará a disposición de las autoridades judiciales, para que realicen los respectivos trámites legales con arreglo a la Ley. Si la sentencia fuese absolutoria, o en caso de sobrevenir alguna causa que extinga el proceso penal, los servidores públicos podrán reasumir su función si aún no ha fenecido el periodo por el cual fueron electos o designados.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-En tratándose de servidores públicos de elección popular, el Juez notificará al Congreso del Estado a fin de que sea éste quien haga cumplir la resolución, y le notifique la separación del cargo en los términos de ley.
+Tratándose de servidores públicos de elección popular, el Juez notificará al Congreso del Estado a fin de que sea éste quien haga cumplir la resolución, y le notifique la separación del cargo en los términos de ley.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -3343,27 +3321,35 @@ Para el cumplimiento de su objeto, el Sistema Estatal Anticorrupción se sujetar
 
 I. El Sistema contará con un Comité Coordinador que estará integrado por:
 
-a).- El Auditor Superior del Estado;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-b).- El Fiscal Especializado en Combate a la Corrupción del Estado;
+a).- La persona titular de la Auditoría Superior del Estado;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-c).- El Secretario de la Honestidad y la Función Pública;
+b).- La persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado;
 
-d).- El Presidente del Tribunal Estatal de Justicia Administrativa;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-e).- Los Síndicos Procuradores,
+c).- La persona titular de la Secretaría Anticorrupción y Buen Gobierno;
 
-f).- El Consejero Presidente del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+d).- La o el Presidente del Tribunal Estatal de Justicia Administrativa;
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+e).- Las y los Síndicos Procuradores,
+
+f).- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2025)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 g).- Una persona representante del Tribunal de Disciplina Judicial; y,
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-h).- Un representante del Comité de Participación Ciudadana.
+h).- Una persona representante del Comité de Participación Ciudadana.
 
 La Presidencia del Comité Coordinador del Sistema Estatal Anticorrupción, estará a cargo del ciudadano en quien recaiga la Presidencia del Comité de Participación Ciudadana, el cual contará con voto de calidad en la toma de decisiones del Comité Coordinador.
 
@@ -3485,6 +3471,8 @@ II.- A los Trabajadores del Magisterio, sus docentes, el personal con funciones 
 
 C. Las autoridades del orden Estatal y Municipal, a fin de propiciar el fortalecimiento del sistema de seguridad social, de aquellos funcionarios públicos que la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Pública del Estado señalan que guardan relación administrativa para con el Estado, instrumentarán sistemas complementarios de seguridad social.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 139 PUBLICADO EN EL P.O. 4 DE SEPTIEMBRE DE 2025, PÁGINAS DE LA 10 A LA 11.]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 100.
@@ -3511,10 +3499,6 @@ Los Poderes del Estado y los Ayuntamientos, sus dependencias y entidades, implem
 
 Se reconoce al turismo como una actividad para el desarrollo económico de la Entidad, por lo que se deberá realizar en un marco de sustentabilidad, considerando la promoción del patrimonio histórico, cultural y diversidad natural con que cuenta Baja California.
 
-> <small>[N. DE E. RESPECTO A LA NUMERACIÓN DEL PRESENTE PÁRRAFO, VÉASE LA SIGUIENTE N. DE E. DE ESTE ARTÍCULO]</small>
-
-Respecto a los bienes muebles del Estado deben implementarse y ejercerse estrictos sistemas de control para garantizar su uso racional y esmerada conservación, así como para operar las bajas, venta, permuta o donación de los mismos, cuando por su estado físico o cualidades técnicas ya no sean útiles o funcionales. Así también, cuando se hubieren extraviado, robado, accidentado o destruido, deberá darse debido cumplimiento a las disposiciones legales que resulten aplicables.
-
 > <small>[N. DE E. EL DECRETO No. 132 APROBADO EL 16 DE OCTUBRE DE 2014 Y PUBLICADO EL 28 DE NOVIEMBRE DE 2014, SEÑALA QUE REFORMA EL PÁRRAFO QUINTO, SIN EMBARGO, SE ADVIERTE UNA DIFERENCIA EN LA NUMERACIÓN DE LOS PÁRRAFOS, EN VIRTUD DE QUE EL CUARTO PÁRRAFO FUE ADICIONADO MEDIANTE DECRETO No. 113 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2014.]</small>
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
@@ -3526,6 +3510,10 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 El gasto en la propaganda de comunicación social se regirá por los criterios de eficiencia, eficacia, economía, transparencia y honradez. Asimismo, se buscará que la propaganda que se utilice no dañe el medio ambiente.
 
 El manejo de los recursos económicos del Estado se sujetará a las bases de este Artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad republicana, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública.
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Octavo de la Constitución Política del Estado.
 
@@ -3585,13 +3573,17 @@ El Estado vigilará y cooperará con el Gobierno Federal en la observancia de la
 
 La atención a la salud será considerada como un área prioritaria para el desarrollo del Estado y de la sociedad en su conjunto, conforme a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales en los que México sea parte, en los términos que establezcan las leyes respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 107.
+
+En los procesos de nombramiento, designación o elección de las personas titulares de la Comisión Estatal de los Derechos Humanos, el Tribunal Estatal de Justicia Administrativa, la Auditoría Superior del Estado y el Centro de Conciliación Laboral de Baja California, la Comisión del Congreso encargada de elaborar los dictámenes respectivos deberá llevar a cabo la audiencia pública de las personas aspirantes.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-###### ARTICULO 107.
-
-En los procesos de nombramiento, designación o elección de las personas titulares de la Comisión Estatal de los Derechos Humanos, el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, el Tribunal Estatal de Justicia Administrativa, la Auditoría Superior del Estado y el Centro de Conciliación Laboral de Baja California, la Comisión del Congreso encargada de elaborar los dictámenes respectivos deberá llevar a cabo la audiencia pública de las personas aspirantes.
-
 Durante las audiencias públicas señaladas en el párrafo anterior las personas aspirantes realizarán una breve exposición sobre el cargo a ocupar, sus méritos profesionales y las acciones a desarrollar en el caso de ser nombradas, designadas o electas. Dentro de la audiencia, los integrantes de los órganos competentes podrán formular las preguntas que consideren pertinentes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Todos los ciudadanos y medios de comunicación podrán asistir a las audiencias señaladas en este artículo, pero no a participar en la deliberación que realicen los órganos competentes. Las audiencias deberán realizarse en espacios que permitan la asistencia de una cantidad importante de ciudadanos y además deberán ser transmitidas por las páginas de internet del Congreso local.
 
@@ -6032,3 +6024,31 @@ PRIMERO. Aprobadas que sean las presentes reformas, túrnese a los ayuntamientos
 SEGUNDO. Agotado el proceso legislativo y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 139 MEDIANTE EL CUAL SE APRUEBA LA REFORMA ARTÍCULOS 7, APARTADO C, 27, 49, 92, APARTADO B, 94, 95, 100 Y 107 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Aprobada la presente reforma por el Pleno del Congreso del Estado, remítase a los Ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Cumplido el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, procédase a realizar la declaración de incorporación constitucional correspondiente, y remítase el presente Decreto para su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- Armonizados los ordenamientos secundarios respecto de la reforma, se entenderá extinto el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California.
+
+QUINTO.- Los actos jurídicos emitidos por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California con anterioridad a la entrada en vigor de la legislación secundaria, surtirán todos sus efectos legales.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las instituciones que asuman las funciones del ente público que se extingue, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+SEXTO.- Los recursos materiales y financieros; así como los registros, padrones, plataformas y sistemas electrónicos del ente público que se extingue conforme al presente artículo transitorio, pasarán a formar parte de las dependencias del Poder Ejecutivo del Estado, según correspondan, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita, en el entendido, que para el manejo de los bienes y recursos financieros, programas y partidas presupuestarias del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, se deberá de observar lo establecido en la armonización de ordenamientos secundarios locales en materia de acceso a la información pública, y protección de datos personales.
+
+SÉPTIMO.- Las personas Comisionadas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, así como la persona Titular del Órgano Interno de Control, que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones a la entrada en vigor de la legislación a que alude el artículo Cuarto transitorio, salvo aquellos cuya vigencia de su nombramiento concluya previamente, los cuales cesarán sus funciones en ese momento.
+
+Cuando para efectos de integrar el quórum se requiera realizar un nuevo nombramiento, la temporalidad de este no podrá exceder en ningún caso a la entrada en vigor de las leyes secundarias.
+
+OCTAVO.- Los derechos laborales de las personas servidoras públicas serán respetados en su totalidad, en términos de la legislación aplicable.
+
+NOVENO.- Toda referencia a la Secretaría de la Honestidad y la Función Pública, se entenderá realizada a la Secretaría Anticorrupción y Buen Gobierno.
+
+DÉCIMO.- La Persona Titular del Poder Ejecutivo deberá realizar las modificaciones reglamentarias que resulten necesarias.
