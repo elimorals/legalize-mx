@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-160493"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-10-06"
-last_updated: "2023-07-20"
+last_updated: "2025-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 4 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE JULIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Sección Primera del Número 64 de la Gaceta del Gobierno del Estado de México, el jueves 6 de octubre de 2022.
 
@@ -3132,3 +3132,47 @@ G.G. 21 DE JUNIO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 141.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado de México, publicada mediante Decreto Número 92 en el Periódico Oficial “Gaceta del Gobierno” el 06 de octubre de 2022.
+
+TERCERO. Para la observancia de lo establecido en el presente Decreto, el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes dentro de los noventa días naturales, contados a partir del día siguiente de su publicación.
+
+CUARTO. A partir de la entrada en vigor del presente decreto el Tribunal de Disciplina Judicial, y la Contraloría Interna, en sus respectivos ámbitos, conocerán de los procedimientos administrativos de responsabilidades administrativas de las y los servidores públicos y particulares, en términos de lo que establece la Constitución, esta ley, en lo que resulte aplicable la Ley de Responsabilidades Administrativas del Estado de México y Municipios. Los procedimientos que se encuentren pendientes de resolución en la Dirección General de Contraloría del Poder Judicial, serán remitidos a dichas áreas, para su sustanciación y resolución bajo el procedimiento que se iniciaron.
+
+QUINTO. A partir de la entrada en vigor de la presente Ley, el Tribunal de Disciplina Judicial, conocerá y resolverá los conflictos laborales que surjan entre el Poder Judicial y sus servidoras y servidores públicos.
+
+Los juicios laborales, que se encuentren en trámite ante el Tribunal Estatal de Conciliación y Arbitraje, serán substanciados hasta su total conclusión ante ese Tribunal.
+
+SEXTO. Las personas juzgadoras, magistradas y magistrados del Tribunal Superior de Justicia que concluyan su encargo en el año dos mil veintisiete, por haber declinado su postulación o por no resultar electos en el proceso correspondiente, tendrán derecho a recibir una compensación económica que se determinará proporcionalmente por el Órgano de Administración Judicial, con cargo a los recursos públicos que correspondan.
+
+SÉPTIMO. Para la designación de los tres integrantes que corresponden al Poder Judicial de la conformación del Órgano de Administración Judicial, una vez que tome protesta el Presidente del Tribunal Superior de Justicia, se convocará a sesión al Pleno del Tribunal Superior de Justicia para la determinación de los integrantes que deben ser designados por el Poder Judicial dentro de los tres días hábiles siguientes. Y a efecto de que entre en funciones el Órgano de Administración Judicial se comunicará a la persona titular del Poder Ejecutivo y a la Legislatura dicho plazo para los efectos procedentes.
+
+OCTAVO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a las unidades administrativas que cambian de denominación, se transforman o desaparecen se entenderán hechas a las unidades administrativas que asuman dichas atribuciones.
+
+Los recursos financieros, humanos, materiales y presupuestales pertenecientes a las unidades administrativas que cambian de denominación, se transforman o desaparecen, conforme a lo anterior, se transferirán a las unidades administrativas que asumen dichas atribuciones.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por las unidades administrativas que cambian de denominación, se transforman o desaparecen, conforme a lo anterior, seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de las unidades administrativas que asumen dichas atribuciones.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso ante las unidades administrativas que cambian de denominación, se transforman o desaparecen, conforme a lo anterior, serán atendidos por las unidades administrativas que asuman dichas atribuciones hasta su debida conclusión.
+
+En todo caso se respetarán los derechos laborales de las personas servidoras públicas conforme a la ley.
+
+NOVENO. Los diagnósticos a que se refiere el artículo 124, fracción VII, por única ocasión deberán realizarse previo a las determinaciones de nuevas adscripciones y readscripciones del personal con el que cuentan los órganos jurisdiccionales a la entrada en función del Órgano de Administración Judicial; los subsecuentes, deberán entenderse conforme a la periodicidad que el propio precepto establece.
+
+DÉCIMO. Los procedimientos disciplinarios iniciados con anterioridad a la entrada en vigor del presente Decreto, en los que se haya concluido la etapa de investigación, se substanciarán por el Tribunal de Disciplina Judicial, o la Contraloría Interna, según corresponda, conforme a las disposiciones vigentes en aquel momento.
+
+DÉCIMO PRIMERO. Los procesos disciplinarios cuya etapa de investigación no haya concluido a la entrada en vigor del presente Decreto, se tramitarán por el Tribunal de Disciplina Judicial y sus órganos auxiliares, o en su caso por el Órgano de Administración Judicial, conforme a las disposiciones contenidas en el presente Decreto y los acuerdos generales que emita el Órgano de Administración Judicial.
+
+DÉCIMO SEGUNDO. En todo lo no previsto en el presente Decreto, el Pleno del Órgano de Administración Judicial a petición de la Presidenta o el Presidente del Tribunal de Disciplina Judicial regulará la transición de los procesos disciplinarios de los que conoce el Consejo de la Judicatura mediante acuerdo general.
+
+DÉCIMO TERCERO. Los Acuerdos Generales emitidos por el Consejo de la Judicatura continuarán vigentes en todo lo que no se oponga a la Constitución Política de los Estados Unidos Mexicanos y a la presente Ley hasta en tanto el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial emitan sus propios Acuerdos.
+
+DÉCIMO CUARTO. La Presidencia del Tribunal Superior de Justicia que corresponde a una Magistrada pendiente de asignación por el Instituto Electoral del Estado de México de conformidad con su Acuerdo N°. IEEM/CG/94/2025 correspondiente al periodo del 5 de septiembre de 2031 al 4 de septiembre de 2033, se someterá a elección estatal durante el proceso electoral 2026-2027.
+
+DÉCIMO QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
