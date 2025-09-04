@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-92-para-la-atencion-y-proteccion-a-personas-con-1150
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-28"
-last_updated: "2023-03-06"
+last_updated: "2025-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 28 de abril de 2016.
 
@@ -225,11 +225,17 @@ III.- Los padres o tutores para otorgar los alimentos y representar los interese
 
 IV.- Los profesionales de la medicina, educación y demás profesionistas que resulten necesarios para alcanzar la habilitación debida de las personas con la condición del espectro autista;
 
-> <small>(ADICIONADA, B.O. 6 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, B.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-V.- La Secretaría de Educación y Cultura del Estado de Sonora, promoverá la participación de maestros y maestras de intervención o sombras para los educandos con la condición del espectro autista de acuerdo a lo establecido en la Ley de Educación del Estado de Sonora; y
+V.- La Secretaría de Educación y Cultura del Estado de Sonora, promoverá la participación de maestros y maestras de intervención o sombras para los educandos con la condición del espectro autista de acuerdo a lo establecido en la Ley de Educación del Estado de Sonora;
 
-VI.- Todos aquellos que determine la presente Ley o cualquier otro ordenamiento jurídico que resulte aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+VI.- Las autoridades y auxiliares de la seguridad pública, así como el personal que labore en los Centros de Control, Comando, Comunicación y Cómputo quienes deberán actuar en estricto apego con el Protocolo especializado para la búsqueda de personas con condición del espectro autista que se encuentren desaparecidas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+VII.- Todos aquéllos que determine la presente Ley o cualquier otro ordenamiento jurídico que resulte aplicable.
 
 ### CAPÍTULO III. DE LA COMISIÓN INTERSECRETARIAL
 
@@ -281,9 +287,17 @@ III.- Apoyar y proponer mecanismos de concertación con los sectores social y pr
 
 IV.- Apoyar la promoción de las políticas, estrategias y acciones en la materia de la presente Ley, así como promover, en su caso, las adecuaciones y modificaciones necesarias a las mismas;
 
-V.- Proponer al Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades de la Administración Pública Estatal en materia de atención de las personas con la condición del espectro autista, y
+> <small>(REFORMADA, B.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
-VI.- Las demás que determine el Titular del Poder Ejecutivo Estatal.
+V.- Proponer al Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades de la Administración Públicas (sic) Estatal en materia de atención de las personas con la condición del espectro autista;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+VI.- Elaborar y difundir en las dependencias y entidades de la Administración Pública Estatal y en los Municipios el Protocolo Especializado para la búsqueda de personas con condición del espectro autista desaparecidas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+VII.- Las demás que determine el Titular del Poder Ejecutivo Estatal.
 
 ###### Artículo 14.
 
@@ -408,3 +422,15 @@ La Secretaría de Salud, la Secretaría de Educación y el Sistema Estatal para 
 ###### ARTÍCULO CUARTO.
 
 En un plazo de noventa días naturales posteriores a la entrada en vigor del Reglamento a que se refiere el artículo segundo transitorio de la presente Ley, la Secretaría de Educación expedirá el "Manual de Apoyo a Docentes en Trastorno del Espectro Autista" y el "Protocolo de Actuación para la Atención de las Personas con Trastorno del Espectro Autista".
+
+B.O. 4 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 173, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Intersecretarial, en un plazo no mayor a 60 días emitirá y comenzará con la difusión del Protocolo Especializado para la búsqueda de personas con condición del espectro autista desaparecidas.
