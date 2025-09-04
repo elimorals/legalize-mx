@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-180-para-la-atencion-integral-del-cancer-de-mama-105
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-24"
-last_updated: "2014-11-24"
+last_updated: "2025-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA DEL ESTADO DE SONORA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1° DE ENERO DEL 2015, SALVO LAS DISPOSICIONES CONTENIDAS EN LOS CAPÍTULOS DÉCIMO PRIMERO, DÉCIMO SEGUNDO Y DÉCIMO TERCERO QUE ENTRARÁN EN VIGOR A PARTIR DE LA PUBLICACIÓN DE LA PRESENTE LEY, A EFECTO DE QUE SE REALICEN LAS PREVISIONES Y ASIGNACIONES DE GASTO A LAS QUE SE REFIERE LA PRESENTE LEY PARA EL EJERCICIO FISCAL DE 2015.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 24 de noviembre de 2014.
 
@@ -87,21 +87,27 @@ V.- El Comité Técnico de Evaluación y Seguimiento del Programa de Atención I
 
 VI.- El Congreso del Estado de Sonora, en ejercicio de sus facultades en materia de aprobación del Presupuesto de Egresos del Gobierno del Estado.
 
+> <small>(REFORMADO, B.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 5°.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I.- Comité Técnico: el Comité Técnico de Evaluación y Seguimiento del Programa de Atención Integral del Cáncer de Mama del Estado de Sonora;
+I.- Apoyo psicológico individual: Sesiones con un psicólogo profesional especializado en situaciones de duelo y acompañamiento emocional, enfocadas en ayudar al familiar a manejar el estrés, la ansiedad y otros impactos emocionales derivados de la enfermedad del paciente.
 
-II.- Instituto: el Instituto Sonorense de la Mujer;
+II.- Comité Técnico: el Comité Técnico de Evaluación y Seguimiento del Programa de Atención Integral del Cáncer de Mama del Estado de Sonora;
 
-III.- Norma Oficial: la Norma Oficial Mexicana NOM-041-SSA2-2011, para la prevención, diagnóstico, tratamiento, control y vigilancia epidemiológica del cáncer de mama o la norma oficial que, de conformidad con la ley de la materia, se emita en su sustitución, durante la vigencia de la presente Ley;
+III.- Instituto: el Instituto Sonorense de la Mujer;
 
-IV.- Programa: el Programa para la Prevención, Detección y Atención al Cáncer de Mama del Estado de Sonora;
+IV.- Norma Oficial: la Norma Oficial Mexicana NOM-041-SSA2-2011, para la prevención, diagnóstico, tratamiento, control y vigilancia epidemiológica del cáncer de mama o la norma oficial que, de conformidad con la ley de la materia, se emita en su sustitución, durante la vigencia de la presente Ley;
 
-V.- Secretaría: la Secretaría de Salud del Estado de Sonora; y
+V.- Programa: el Programa para la Prevención, Detección y Atención al Cáncer de Mama del Estado de Sonora;
 
-VI.- Sistema Estatal de Salud: las dependencias y entidades públicas del estado y las personas físicas y morales de los sectores social y privado que presten servicios de salud en la Entidad.
+VI.- Secretaría: la Secretaría de Salud del Estado de Sonora;
+
+VII.- Sistema Estatal de Salud: las dependencias y entidades públicas del estado y las personas físicas y morales de los sectores social y privado que presten servicios de salud en la Entidad; y
+
+VIII.- Terapia familiar: Intervenciones psicológicas para la familia del paciente, que permitan el fortalecimiento del apoyo mutuo, la comprensión del proceso de la enfermedad y la mejora en la comunicación familiar.
 
 ###### Artículo 6°.
 
@@ -159,13 +165,33 @@ El Instituto, como instancia rectora en la institucionalización de la perspecti
 
 Las mujeres y hombres que residan en el Estado tienen derecho a la atención integral del cáncer de mama. El Ejecutivo del Estado de Sonora tiene la obligación de garantizar el ejercicio de este derecho y su acceso de manera eficiente, oportuna y de calidad, conforme a los lineamientos establecidos en la presente Ley.
 
+> <small>(REFORMADO, B.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-El Programa comprende acciones de promoción de la salud, prevención, consejería, detección, diagnóstico, tratamiento y rehabilitación integral.
+El Programa comprende acciones de promoción de la salud, prevención, consejería, detección, diagnóstico, tratamiento, rehabilitación integral y tratamiento psicológico del paciente con cáncer de mama y a sus familiares directos.
+
+El tratamiento psicológico que se refiere en el párrafo anterior, tiene como objetivo proporcionar apoyo psicológico integral a los familiares directos de pacientes con cáncer de mama en las fases de diagnóstico, tratamiento, y en caso de fallecimiento del paciente, garantizando su bienestar emocional y su adecuado manejo del proceso de enfermedad y duelo.
+
+Se entenderá como familiares directos de pacientes con cáncer de mama y beneficiarios del tratamiento psicológico, los siguientes:
+
+I.- Cónyuges o parejas de hecho del paciente.
+
+II.- Hijos del paciente, sin importar su edad.
+
+III.- Padres del paciente.
+
+IV.- Hermanos del paciente.
+
+V.- Otros familiares que, debido a la cercanía emocional con el paciente, puedan requerir apoyo psicológico, previa evaluación de los profesionales de la salud.
+
+Para acceder al programa, los familiares deberán presentar documento que acredite la relación familiar directa con el paciente; certificación médica que indique el diagnóstico de cáncer de mama del paciente; y solicitud de apoyo emitida por el paciente o los familiares, conforme a los lineamientos establecidos por la Secretaría de Salud.
+
+> <small>(REFORMADO, B.O. 4 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 13.
 
-Para el desarrollo de acciones en materia de promoción de la salud, prevención, consejería y detección, además de las que se establezcan en la presente Ley, en los lineamientos de operación del Programa y en la Norma Oficial, las autoridades desarrollarán las siguientes actividades:
+Para el desarrollo de acciones en materia de promoción de la salud, prevención, consejería, atención psicológica y detección, además de las que se· establezcan en la presente Ley, en los lineamientos de operación del Programa y en la Norma Oficial, las autoridades desarrollarán las siguientes actividades:
 
 I.- Estudios de mastografía en unidades móviles y clínicas, previa autorización y certificación de las mismas;
 
@@ -173,7 +199,7 @@ II.- Jornadas de salud en las diversas regiones del Estado, Centros Femeniles de
 
 III.- Pláticas sobre detección oportuna de cáncer de mama;
 
-IV.- Entregas de estudios de mastografía;
+IV.· Entregas de estudios de mastografía;
 
 V.- Seguimiento a las mujeres y, en su caso, hombres con resultados no concluyentes, sospechosos y altamente sospechosos de cáncer de mama;
 
@@ -181,11 +207,27 @@ VI.- Llamadas telefónicas a mujeres y, en su caso, hombres con resultados no co
 
 VII.- Visitas domiciliarias a mujeres y, en su caso, hombres con sospecha de cáncer de mama que no se localicen vía telefónica;
 
-VIII.- Acompañamiento psicológico individual a las mujeres y, en su caso, hombres con sospecha de cáncer de mama;
+VIII.- Acompañamiento psicológico individual a las mujeres y, en su caso, hombres con sospecha de cáncer de mama; así como el apoyo psicológico individual y terapia familiar;
 
 IX.- Conformación de grupos de apoyo psicológico para las mujeres y, en su caso, hombres con casos confirmados de cáncer de mama, y
 
 X.- Campañas de información sobre prevención y detección oportuna de cáncer de mama.
+
+El apoyo psicológico se brindará en coordinación con las instituciones de salud, públicas y privadas, que cuenten con el personal capacitado en atención psicológica y emocional para pacientes y sus familias.
+
+> <small>(ADICIONADO, B.O. 4 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 13 Bis.
+
+La atención psicológica podrá brindarse de manera presencial en las unidades de salud designadas o mediante modalidades virtuales cuando las circunstancias así lo permitan, garantizando el acceso a todas las familias, independientemente de su ubicación geográfica.
+
+La duración del apoyo psicológico estará determinada por las necesidades emocionales y psicológicas de cada familiar, y podrá extenderse de la siguiente manera:
+
+I.- En el proceso de diagnóstico y tratamiento: El apoyo psicológico será continuo y se adaptará al progreso del paciente con cáncer de mama.
+
+II.- En el proceso de duelo: Los familiares podrán recibir apoyo psicológico durante un período inicial de 12 meses tras el fallecimiento del paciente, con la posibilidad de prorrogar dicho periodo según las recomendaciones de los profesionales de salud.
+
+Las sesiones terapéuticas tendrán una frecuencia que dependerá de la evaluación inicial realizada por el profesional de salud mental, pero deberán realizarse al menos una vez al mes para asegurar el acompañamiento continuo.
 
 ###### Artículo 14.
 
@@ -472,3 +514,13 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los diecinueve días del mes de noviembre del año dos mil catorce.- SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO.- GUILLERMO PADRÉS ELÍAS.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO ROMERO LÓPEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 4 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 48, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
