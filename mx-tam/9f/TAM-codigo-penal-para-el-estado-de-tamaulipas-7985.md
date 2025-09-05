@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-08-29"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -978,6 +978,14 @@ ARTICULO 71 BIS.- Cuando la orden de aprehensión o el auto de formal prisión s
 No gozarán de esta prerrogativa quienes, a criterio del juez, puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumir fundadamente que causarán daño al denunciante o querellante, a la víctima u ofendido o a quienes indirectamente participen o deban participar en el proceso.
 
 En todo caso, la valoración por parte del juez se apoyará en dictámenes de peritos.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+ARTICULO 71 TER.- Quien haga uso de la inteligencia artificial como herramienta o medio para la realización de hechos constitutivos de delitos contemplados así en este Código, se le aumentarán las penas previstas en el delito que fuese realizado hasta en una mitad más en su mínimo y máximo.
+
+Para efectos del párrafo anterior, se entenderá por inteligencia artificial a la capacidad de los sistemas tecnológicos, informáticos, softwares o aplicaciones de una máquina para simular las capacidades humanas como el razonamiento, el aprendizaje, la creatividad, la capacidad de planear y procesar datos para la realización de tareas específicas y autónomas.
+
+El aumento de penas previsto en el presente Artículo será aplicable únicamente en aquellos casos en los que no exista disposición expresa que sancione el uso de la inteligencia artificial en la comisión del delito que corresponda.
 
 ### CAPITULO II. DELITOS CULPOSOS
 
@@ -3905,6 +3913,10 @@ Se equiparará al delito de violación a la intimidad y se sancionará con la mi
 
 Al responsable del delito de violación a la intimidad, se le impondrá una pena de cuatro a ocho años de prisión y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+En aquellos casos donde se haga uso de la inteligencia artificial como herramienta o medio para la comisión del delito de violación a la intimidad, se agravará la sanción conforme a lo dispuesto en el artículo 71 Ter de este Código.
+
 Cuando el sujeto pasivo sea menor de edad o incapaz, se estará a lo dispuesto en el artículo 194 Bis de este mismo ordenamiento.
 
 Este delito, sólo será perseguido por querella de la parte ofendida, salvo que se trate de las personas descritas en el párrafo anterior, en cuyo caso se procederá de oficio.
@@ -5569,9 +5581,7 @@ XVII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
 XVIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
-
-XIX.- Cuando el robo se cometa en perjuicio de alguna Institución Educativa;
+XIX.- (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2025)
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
@@ -5584,6 +5594,10 @@ XXI.- Cuando el robo se efectúe respecto de cualquier bien, equipo, componente 
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2024)</small>
 
 XXII.- Cuando el robo se cometa mediante la utilización de uno o más vehículos motorizados.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+ARTICULO 407 BIS.- La sanción que corresponda al responsable de robo simple se aumentará con cinco a quince años de prisión y una multa de ciento cuarenta a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, cuando el robo se cometa en perjuicio de alguna institución educativa pública o privada o inmueble destinado a esta actividad, según su gravedad.
 
 ###### ARTICULO 408.
 
@@ -5836,6 +5850,18 @@ VII.- Se realice en contra de personas dedicadas al comercio o al transporte de 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2025)</small>
 
 VIII.- La o el autor del delito de manera continuada obtenga dinero o bienes por concepto de cobro de cuotas de cualquier índole.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+###### ARTICULO 426 Bis.
+
+Se equipara al delito de extorsión y se sancionará con las mismas penas al que comparta archivos, imágenes, videos e información privada, inclusive material digital alterado por programas de inteligencia artificial, por cualquier medio digital, red social, aplicaciones o grupos de comunicación, con la finalidad de obtener un lucro o perjudicar a la víctima o a terceras personas en su honor, dignidad, reputación, buen nombre, privacidad e intimidad.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+###### ARTICULO 426 Ter.
+
+Se equipara al delito de extorsión y se sancionará con las mismas penas al que utilice programas informáticos maliciosos, en este caso malware, que impiden a que un usuario acceda a su sistema operativo o algún (os) archivo (os) personal (es), para después solicitar un rescate para acceder de nuevo a ellos y que ocasione la retención de datos personales, financieros o de propiedad intelectual y para devolvérselos a la víctima, esta tenga que realizar un pago, o realizar alguna acción en contra de su voluntad, siendo esto un lucro o beneficio a favor de su victimario.
 
 ### CAPITULO I. ENCUBRIMIENTO
 
@@ -7864,6 +7890,30 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 29 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-372 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 368 BIS, PÁRRAFO CUARTO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE PÉRDIDA DE DERECHOS SUCESORIOS EN EL DELITO DE VIOLENCIA FAMILIAR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-351 MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 426 BIS Y 426 TER AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-445 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 407 BIS; Y SE DEROGA LA FRACCIÓN XIX, AL ARTÍCULO 407, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-447 MEDIANTE EL CUAL SE ADICIONAN EL ARTÍCULO 71 TER Y EL PÁRRAFO CUARTO, RECORRIENDO EN SU ORDEN NATURAL LOS SUBSECUENTES, AL ARTÍCULO 276 SEPTIES, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
