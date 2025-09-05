@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-personas-con-autismo-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-21"
-last_updated: "2025-06-27"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Baja California, el viernes 21 de octubre de 2016.
 
@@ -95,11 +95,15 @@ Las autoridades del Estado y Municipios alinearán sus programas con la polític
 
 En todo lo no previsto en el presente ordenamiento se aplicarán de manera supletoria, en el siguiente orden:
 
-I. Ley Orgánica de la Administración Pública del Estado de Baja California;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+I. Ley Orgánica del Poder Ejecutivo del Estado de Baja California;
 
 II. Ley de las Entidades Paraestatales del Estado de Baja California;
 
-III. Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+III. Ley de Responsabilidades Administrativas del Estado de Baja California;
 
 IV. Ley de Planeación para el Estado de Baja California;
 
@@ -245,13 +249,17 @@ III. Apoyar y proponer mecanismos de concertación con los sectores social y pri
 
 IV. Apoyar la promoción de las políticas, estrategias y acciones en la materia de la presente Ley, así como promover, en su caso, las adecuaciones y modificaciones necesarias a las mismas;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-V. Proponer al Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades de la Administración Pública Estatal en materia de atención de las personas con la condición del espectro autista y sus familias, preferentemente en situación de vulnerabilidad; y,
+V. Proponer a la persona Titular del Poder Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades de la Administración Pública Estatal en materia de atención de las personas con la condición del espectro autista y sus familias, preferentemente en situación de vulnerabilidad;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-VI. Las demás que determine la persona Titular del Poder Ejecutivo Estatal.
+VI. Impulsar ante las diversas instituciones de seguridad pública, la capacitación de las personas que cuenten con nombramiento policial otorgado por autoridad competente, a efecto de que puedan identificar y brindar un trato digno a personas con Trastorno de Espectro Autista, cuando estos se involucren en incidentes que conlleven una sanción; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+VII. Las demás que determine la persona Titular del Poder Ejecutivo Estatal.
 
 ### CAPÍTULO CUARTO. PROHIBICIONES Y SANCIONES
 
@@ -360,3 +368,9 @@ P.O. 27 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 112 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 13 TODOS DE LA LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 120 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 7 Y 12 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ MISMO SE APRUEBA LA REFORMA AL ARTÍCULO 29 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE B.C.".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
