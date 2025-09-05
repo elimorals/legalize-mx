@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-expropiacion-y-demas-limitaciones-al-derecho-de-3548"
 country: "mx"
 rank: "ley"
 publication_date: "1981-01-15"
-last_updated: "1981-01-15"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE EXPROPIACION Y DEMAS LIMITACIONES AL DERECHO DE PROPIEDAD DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 15 de enero de 1981.
 
@@ -43,9 +43,41 @@ C A P I T U L O I
 
 Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-Son objeto de esta Ley, las expropiaciones, ocupaciones temporales, servidumbres administrativas y limitaciones de dominio de bienes particulares existentes dentro del territorio del Estado.
+La presente ley es de interés público y tiene por objeto establecer las causas de utilidad pública, así como los procedimientos, modalidades y ejecución, de las expropiaciones, ocupaciones temporales, servidumbres administrativas y limitaciones de dominio de bienes particulares existentes dentro del territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 1 Bis.
+
+Para los casos de expropiación a los que se refiere el artículo 3 de la presente ley, la persona titular del Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, emitirá la declaratoria de utilidad pública conforme a lo siguiente:
+
+I. La causa de utilidad pública se acreditará con base en los dictámenes técnicos correspondientes.
+
+II. La declaratoria de utilidad pública se publicará en el Periódico Oficial del Estado y se notificará personalmente a los titulares de los bienes y derechos que resultarían afectados. En caso de ignorarse quiénes son los titulares, o bien su domicilio o localización, surtirá efectos de notificación personal una segunda publicación de la declaratoria en el Periódico Oficial del Estado, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
+
+III. Los interesados tendrán un plazo de cinco días hábiles a partir de la notificación o de la segunda publicación en el Periódico Oficial del Estado para manifestar ante la Secretaría de Gobierno lo que a su derecho convenga, y presentar las pruebas que estimen pertinentes.
+
+IV. En su caso, la autoridad citará a una audiencia para el desahogo de pruebas, misma que deberá verificarse dentro de los ocho días hábiles siguientes a la recepción de las manifestaciones a que se refiere la fracción anterior. Concluida dicha audiencia, se otorgará un plazo de tres días hábiles para presentar alegatos de manera escrita.
+
+V. Presentados los alegatos o transcurrido el plazo para ello sin que se presentaren, la autoridad contará con un plazo de diez días hábiles para confirmar, modificar o revocar la declaratoria de utilidad pública.
+
+VI. La resolución a que se refiere la fracción anterior no admitirá recurso administrativo alguno y solamente podrá ser impugnada a través del juicio de amparo.
+
+VII. La persona titular del Poder Ejecutivo del Estado deberá decretar la expropiación a que se refiere el artículo 8 de esta Ley, dentro de los treinta días hábiles siguientes a que se haya dictado la resolución señalada en la fracción V de este artículo. En caso de no emitirse el decreto respectivo en el plazo antes mencionado, la declaratoria de utilidad pública quedará sin efectos.
+
+En los casos a que se refieren las fracciones V y VIII del artículo 3 de esta ley, la persona titular del Poder Ejecutivo del Estado hará la declaratoria de utilidad pública, decretará la expropiación y ordenará la ejecución inmediata de la misma, por lo que no serán aplicables lo dispuesto en las fracciones III a VII del presente artículo. Esta resolución no admitirá recurso administrativo alguno.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 1 Ter.
+
+Procederá la ocupación temporal, servidumbre administrativa, o la limitación de derechos de dominio, en los supuestos señalados en los artículos 4, 5 y 6 de esta ley, respectivamente.
+
+La persona titular del Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, publicará la declaratoria de utilidad pública respectiva y decretará la ocupación temporal, servidumbre administrativa, o la limitación de los derechos de dominio, según corresponda, dentro de los 30 días hábiles siguientes a la publicación de la mencionada declaratoria, y ordenará su ejecución inmediata.
 
 ###### Artículo 2.
 
@@ -133,21 +165,27 @@ I.- El mantenimiento de la titularidad de la propiedad y la posesión de los bie
 
 II.- El señalamiento de características y especificaciones a las construcciones; el impedimento de ocupar ciertas superficies frontales de los predios, y la fijación de medidas y superficies determinadas a los lotes, a fin de establecer uniformidad arquitectónica en las colonias y poblaciones y amplitud a las calles y avenidas.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 7.
 
-En los casos comprendidos en los artículos 3, 4, 5, y 6 previa declaración del Ejecutivo del Estado, procederán, la expropiación, la ocupación temporal, la imposición de servidumbres y las limitaciones de los derechos de dominio para los fines del Estado o en interés de la colectividad.
+La Secretaría de Gobierno integrará y tramitará los expedientes respectivos a la declaratoria de utilidad pública y al decreto del acto de que se trate.
 
 C A P I T U L O II
 
 De la Expropiación
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-El Ejecutivo del Estado podrá decretar la expropiación de bienes muebles e inmuebles de propiedad particular, por las causas de utilidad pública a que se refiere el Art. 3o. de esta Ley, y mediante el pago de la indemnización que corresponda.
+Previa declaratoria de utilidad pública, la persona titular del Poder Ejecutivo del Estado podrá decretar la expropiación de bienes muebles e inmuebles de propiedad particular, por las causas de utilidad pública a que se refiere el artículo 3 de esta Ley, y mediante el pago de la indemnización que corresponda.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 9.
 
-El expediente de expropiación, cuando se trate de bienes inmuebles, se integrará con los estudios técnicos y planos elaborados por la Secretaría de Desarrollo Urbano y Obras Públicas, a los que podrán adicionarse, las observaciones y demás elementos que aporten los posibles afectados, así como otras dependencias locales.
+El expediente de expropiación, cuando se trate de bienes inmuebles, se integrará con los estudios técnicos y planos elaborados por la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, a los que podrán adicionarse, las observaciones y demás elementos que aporten los posibles afectados, así como otras dependencias locales.
 
 ###### Artículo 10.
 
@@ -167,9 +205,11 @@ Si hubiere desacuerdo entre los acreedores por preferencia en el pago, o con el 
 
 La expropiación de inmuebles podrá serlo por la totalidad del bien o sólo de parte del mismo; la determinación de esta circunstancia dependerá de que existan y sean suficientes las causas de utilidad pública que justifiquen la medida expropiatoria, las que deberán corresponder a la totalidad o a la parte del bien expropiado.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 13.
 
-Cuando el afectado por una expropiación no pueda aprovechar la parte no expropiada de su bien, el Gobierno del Estado, a petición del mismo y por conducto de la Secretaría de Gobierno en coordinación con la Secretaría de Desarrollo Urbano y Obras Públicas, adquirirá dicha porción en cuyo caso el precio unitario deberá ser igual al que sirvió para fijar la indemnización de la parte expropiada.
+Cuando el afectado por una expropiación no pueda aprovechar la parte no expropiada de su bien, el Gobierno del Estado, a petición del mismo y por conducto de la Secretaría de Gobierno en coordinación con la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, adquirirá dicha porción en cuyo caso el precio unitario deberá ser igual al que sirvió para fijar la indemnización de la parte expropiada.
 
 ###### Artículo 14.
 
@@ -187,17 +227,21 @@ Si la medida expropiatoria afectare además de bienes muebles o inmuebles, derec
 
 Serán aplicables a los casos de derechos derivados de situaciones posesorias, las disposiciones de esta Ley en lo relativo a la limitación al derecho de dominio que les afecten.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 18.
 
-Decretada la expropiación y notificada al interesado, la Secretaría de Gobierno, tratándose de bienes muebles o la de Desarrollo Urbano y Obras Públicas, tratándose de inmuebles, procederá dentro del término que al efecto se fije en el propio decreto, a la ocupación del bien expropiado, pudiendo proceder a la ejecución de las obras proyectadas.
+Decretada la expropiación y notificado el interesado, la Secretaría de Gobierno, tratándose de bienes muebles, o la de Desarrollo Urbano, Movilidad y Obras Públicas, tratándose de inmuebles, procederá a la ocupación inmediata del bien expropiado y a la ejecución de las obras proyectadas.
 
 ###### Artículo 19.
 
 La autoridad expropiante al ejecutar su resolución, ordenará el pago de la indemnización correspondiente, que deberá ser cubierto de conformidad a lo que establece el artículo 45 de esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-Cuando la persona afectada se rehuse a recibir el importe de la indemnización, se dejará ésta a su disposición en la Secretaría de Finanzas del Estado, y si no la reclamare en un plazo de tres años computado a partir de la fecha en que se le notificare tal situación, dicha indemnización quedará a beneficio del Estado y éste podrá libremente disponer de la misma.
+Cuando la persona afectada se rehúse a recibir el importe de la indemnización, se dejará ésta a su disposición en la Secretaría de Administración y Finanzas del Estado, y si no la reclamare en un plazo de tres años computado a partir de la fecha en que se le notificare tal situación, dicha indemnización quedará a beneficio del Estado y éste podrá libremente disponer de la misma.
 
 ###### Artículo 21.
 
@@ -207,9 +251,11 @@ C A P I T U L O III
 
 De las Ocupaciones Temporales
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-El Ejecutivo podrá decretar la ocupación temporal, total o parcial, de bienes inmuebles de propiedad particular, por las causas de utilidad pública a que se refiere el artículo 4o. de esta Ley, y mediante el pago de la indemnización correspondiente.
+Previa declaratoria de utilidad pública, la persona titular del Poder Ejecutivo del Estado podrá decretar la ocupación temporal, total o parcial, de bienes inmuebles de propiedad particular, por las causas de utilidad pública a que se refiere el artículo 4 de esta Ley, y mediante el pago de la indemnización correspondiente.
 
 ###### Artículo 23.
 
@@ -257,9 +303,11 @@ C A P I T U L O IV
 
 De las Servidumbres Administrativas
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 29.
 
-El Ejecutivo podrá establecer servidumbres administrativas sobre inmuebles de propiedad particular, por las causas de utilidad pública a que se refiere el artículo 5o. de esta Ley, y mediante el pago de la indemnización correspondiente.
+Previa declaratoria de utilidad pública, la persona titular del Poder Ejecutivo del Estado podrá establecer servidumbres administrativas sobre inmuebles de propiedad particular, por las causas de utilidad pública a que se refiere el artículo 5 de esta Ley, y mediante el pago de la indemnización correspondiente.
 
 ###### Artículo 30.
 
@@ -325,9 +373,11 @@ C A P I T U L O V
 
 De las Limitaciones de Dominio
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-Las limitaciones de dominio a que se refiere el artículo 2o. inciso d) de esta Ley, serán impuestas por el Ejecutivo mediante decreto que se publicará por una sola vez en el Periódico Oficial del Estado.
+Previa declaratoria de utilidad pública, la persona titular del Poder Ejecutivo del Estado podrá imponer, mediante decreto, las limitaciones de dominio a que se refiere el artículo 2, inciso d), el cual se publicará por una sola vez en el Periódico Oficial del Estado.
 
 ###### Artículo 39.
 
@@ -349,13 +399,23 @@ C A P I T U L O VI
 
 De las Indemnizaciones
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 43.
 
-Toda limitación al derecho de propiedad establecida por declaratoria del Ejecutivo del Estado, será procedente mediante el pago de la indemnización correspondiente.
+Toda expropiación, ocupación temporal, servidumbre administrativa, o limitación de los derechos de dominio decretada por la persona titular del Poder Ejecutivo del Estado, será procedente mediante el pago de la indemnización correspondiente.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 44.
 
-En los casos de expropiación, el precio se fijará de indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que dicho valor hubiese sido manifestado por el propietario o lo hubiere aceptado de modo tácito al haber pagado sus contribuciones con tal base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que quedará sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
+El avalúo que se realice para fijar el monto de la indemnización correspondiente deberá considerar el valor comercial del bien en cuestión, tomando como base el valor previsto en la última transacción, debiéndose considerar en su caso, la inflación correspondiente. En el caso de bienes inmuebles, el monto de la indemnización no podrá ser inferior al valor fiscal que figure en las oficinas catastrales o recaudadoras.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 44 Bis.
+
+El avalúo para la determinación del monto de la indemnización por la expropiación, ocupación temporal, servidumbre administrativa, o limitación de los derechos de dominio, será realizado por la Secretaría de Administración y Finanzas de la Administración Pública del Estado de Campeche o, a solicitud de esta, por instituciones de crédito, o corredores públicos, o profesionistas con posgrado en valuación que se encuentren autorizados en los términos que indique la Secretaría de Administración y Finanzas.
 
 ###### Artículo 45.
 
@@ -383,9 +443,11 @@ Contra la resolución judicial que fije el monto de la indemnización, no cabrá
 
 Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa persona cubrirá el importe de la indemnización.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 50.
 
-En los casos de ocupación temporal, servidumbres administrativas y limitaciones de dominio para fijar el monto de la indemnización y proceder a su pago, se estará en lo relativo a lo dispuesto en los cuatro artículos anteriores.
+En los casos de ocupación temporal, servidumbres administrativas y limitaciones de dominio para fijar el monto de la indemnización y proceder a su pago, se estará en lo relativo a lo dispuesto en los artículos 44 y 44 Bis.
 
 ###### Artículo 51.
 
@@ -480,3 +542,13 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los catorce 
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los catorce días del mes de enero del año de mil novecientos ochenta y uno.- El Gobernador Constitucional del Estado, ING. EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 128 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1, 7, 8, 9, 13, 18, 20, 22, 29, 38, 43, 44 Y 50 Y SE ADICIONAN LOS ARTÍCULOS 1 BIS, 1 TER Y 44 BIS DE LA LEY DE EXPROPIACIÓN Y DEMÁS LIMITACIONES AL DERECHO DE PROPIEDAD DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto
