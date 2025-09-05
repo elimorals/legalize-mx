@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2024-09-18"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -47,17 +47,23 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS
 
 ### Capítulo I. Objeto, Ámbito de Aplicación y Sujetos de la Ley
 
-###### ARTÍCULO 1°.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-La presente Ley es de orden público y de observancia general en el Estado; tiene por objeto reglamentar el Título Décimo Segundo de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves y no graves, así como las autoridades competentes para su aplicación.
+###### ARTÍCULO 1º.
+
+La presente Ley es de orden público y de observancia general en el Estado; tiene por objeto reglamentar el Título Décimo Segundo de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, para establecer las responsabilidades administrativas de las Personas Servidoras Públicas, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves y no graves, así como las autoridades competentes para su aplicación.
 
 ###### ARTÍCULO 2°.
 
 Son objeto de la presente Ley:
 
-I. Establecer los principios y obligaciones que rigen la actuación de los servidores públicos;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-II. Establecer las faltas administrativas graves y no graves de los servidores públicos, las sanciones aplicables a los mismos, así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto;
+I. Establecer los principios y obligaciones que rigen la actuación de las Personas Servidoras Públicas;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+II. Establecer las faltas administrativas graves y no graves de las Personas Servidoras Públicas, las sanciones aplicables a los mismos, así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto;
 
 III. Establecer las sanciones por la comisión de faltas de particulares, así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto;
 
@@ -135,13 +141,19 @@ XXI. Organismos constitucionales autónomos: los organismos a los que la Constit
 
 XXII. Órganos Internos de Control: las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, en el ámbito estatal y municipal, así como aquellas otras instancias del Supremo Tribunal de Justicia del Estado; de los órganos jurisdiccionales no adscritos al Supremo Tribunal de Justicia, o los organismos constitucionales autónomos que, conforme a sus respectivos ordenamientos, sean competentes para aplicar las leyes en materia de responsabilidades de servidores públicos;
 
-XXIII. Plataforma Digital Estatal: la plataforma a que se refiere la Ley del Sistema Estatal Anticorrupción, que contará con los sistemas que la misma establece; así como los contenidos previstos en la presente Ley;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+XXIII. Personas Servidoras Públicas: las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+XXIII BIS. Plataforma Digital Estatal: la plataforma a que se refiere la Ley del Sistema Estatal Anticorrupción, que contará con los sistemas que la misma establece; así como los contenidos previstos en la presente Ley;
 
 XXIV. Sala: la Sala Unitaria del Tribunal Estatal de Justicia Administrativa competente para conocer la materia de responsabilidades administrativas;
 
 XXV. Sala Superior: la Sala Superior del Tribunal Estatal de Justicia Administrativa que será competente para conocer de los recursos que establece la presente Ley en materia de responsabilidades administrativas graves;
 
-XXVI. Servidores Públicos: las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+XXVI. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2025)
 
 XXVII. Sistema Estatal Anticorrupción: El Sistema Estatal Anticorrupción del Estado, que es la instancia de coordinación de las autoridades estatales y municipales que tiene por objeto establecer principios, bases generales, políticas públicas y procedimientos en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
 
@@ -163,13 +175,17 @@ IV. Los particulares que formen parte o integren los consejos, patronatos, comit
 
 ### Capítulo II. Principios y Directrices que Rigen la Actuación de los Servidores Públicos
 
-###### ARTÍCULO 5°.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
+###### ARTÍCULO 5º.
 
-###### ARTÍCULO 6°.
+Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Persona Servidora Pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género.
 
-Los servidores públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los servidores públicos observarán las siguientes directrices:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 6º.
+
+Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de, austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices:
 
 I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
 
@@ -225,15 +241,17 @@ I. El Tribunal Estatal de Justicia Administrativa;
 
 II. El Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-III. El Instituto de Fiscalización Superior del Estado;
+III. Instituto de Fiscalización Superior del Estado de San Luis Potosí;
 
-IV. El Pleno del Supremo Tribunal de Justicia del Estado; y el Consejo de la Judicatura del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+IV. Tribunal de Disciplina Judicial;
 
-Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial del Estado, serán competentes para investigar e imponer las sanciones que correspondan, el Pleno del Supremo Tribunal de Justicia, y el Consejo de la Judicatura, conforme al régimen establecido en el artículo 90 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, y su reglamentación. Lo anterior, sin perjuicio de las atribuciones del Instituto de Fiscalización Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+Tratándose de las responsabilidades administrativas de faltas graves y no graves, de los Servidores Públicos del Poder Judicial del Estado, será competente para investigar e imponer las sanciones que correspondan, el Tribunal de Disciplina Judicial, conforme al régimen establecido en el artículo 90, 101 y 125 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, y su reglamentación. Lo anterior, sin perjuicio de las atribuciones del Instituto de Fiscalización Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
 
 V. Las contralorías;
 
@@ -299,19 +317,23 @@ No podrán imponerse dos veces por una sola conducta sanciones de la misma natur
 
 Para prevenir la comisión de faltas administrativas y hechos de corrupción, las contralorías y los órganos internos de control, considerando las funciones que a cada una de ellas les corresponden y previo diagnóstico que al efecto realicen, podrán implementar acciones para orientar el criterio que en situaciones específicas deberán observar los servidores públicos en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Estatal Anticorrupción.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 16.
 
-Los servidores públicos deberán observar el código de ética que al efecto sea emitido por las contralorías o los órganos internos de control, conforme a los lineamientos que emita el Sistema Estatal Anticorrupción, para que en la actuación de los servidores públicos impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
+Los servidores públicos deberán observar el código de ética y el de conducta que al efecto sea emitido por las contralorías o los órganos internos de control, conforme a los lineamientos que emita el Sistema Estatal Anticorrupción, para que en la actuación de los servidores públicos impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
 
-El código de ética a que se refiere el párrafo anterior, deberá hacerse del conocimiento de los servidores públicos de la dependencia o entidad de que se trate, así como darle la máxima publicidad.
+Los códigos a los que se hace referencia en el párrafo anterior, deberán hacerse del conocimiento de las Personas Servidoras Públicas de la dependencia o entidad de que se trate, así como darles la máxima publicidad.
 
 ###### ARTÍCULO 17.
 
 Las contralorías y los órganos internos de control deberán evaluar anualmente el resultado de las acciones específicas que hayan implementado conforme a este capítulo y proponer, en su caso, las modificaciones que resulten procedentes. Asimismo, deberán valorar las recomendaciones que haga el Comité Coordinador del Sistema Estatal Anticorrupción, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de faltas administrativas y hechos de corrupción. Deberán informar a dicho órgano de la atención que se dé a éstas y, en su caso, sus avances y resultados.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 18.
 
-Los entes públicos deberán implementar los mecanismos de coordinación que en términos de la Ley del Sistema Estatal Anticorrupción, determine el Comité Coordinador, e informar a dicho órgano de los avances y resultados que estos tengan, a través de las contralorías y los órganos internos de control.
+Los entes públicos deberán implementar los mecanismos de coordinación que en términos de la Ley del Sistema Estatal Anticorrupción, determine el Comité Coordinador, e informar a dicho órgano de los avances y resultados que estos tengan, a través de las contralorías y los órganos internos de control o su instancia equivalente.
 
 ###### ARTÍCULO 19.
 
@@ -319,13 +341,17 @@ Para la selección de los integrantes de los órganos internos de control se deb
 
 Los titulares de los órganos internos de control de los órganos constitucionales autónomos, así como de las unidades especializadas que los conformen, serán nombrados en términos de sus respectivas leyes.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 20.
 
-Las contralorías y los órganos internos de control podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura ética en su organización.
+Las contralorías y los órganos internos de control podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura de la ética, honestidad y buenas prácticas en su organización.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 21.
 
-En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes.
+En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes.
 
 ###### ARTÍCULO 22.
 
@@ -465,13 +491,17 @@ En las declaraciones de modificación patrimonial se manifestarán sólo las mod
 
 Las contralorías y los órganos internos de control, estarán facultados para llevar a cabo investigaciones o auditorías para verificar la evolución del patrimonio de los declarantes.
 
-En los casos en que la declaración de situación patrimonial del declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como servidor público, las contralorías y los órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de éste, tales entes procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+En los casos en que la declaración de situación patrimonial del declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como Persona Servidora Pública, las contralorías y los órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de éste, tales entes procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.
 
 ###### ARTÍCULO 39.
 
 Los declarantes estarán obligados a proporcionar a las contralorías y a los órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos.
 
-Sólo los titulares de las contralorías o los servidores públicos en quien deleguen esta facultad, podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+Sólo las personas titulares de las contralorías o las Personas Servidoras Públicas en quien deleguen esta facultad, podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
 
 ###### ARTÍCULO 40.
 
@@ -535,11 +565,15 @@ La declaración de intereses deberá presentarse en los plazos a que se refiere 
 
 ### Capítulo I. Faltas Administrativas no Graves de los Servidores Públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 48.
 
-Incurrirá en falta administrativa no grave el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
+Incurrirá en falta administrativa no grave la Persona Servidora Pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
-I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a los demás Servidores Públicos como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás Personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley, y los de conducta, según corresponda;
 
 II. Denunciar, en términos del artículo 95 de esta Ley, los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir faltas administrativas;
 
@@ -551,7 +585,9 @@ IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de
 
 V. Registrar, integrar, custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;
 
-VI. Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Supervisar que las Personas Servidoras Públicas sujetos a su dirección, cumplan con las disposiciones de este artículo;
 
 VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;
 
@@ -583,9 +619,11 @@ La autoridad resolutora podrá abstenerse de imponer la sanción que corresponda
 
 ### Capítulo II. De las Faltas Administrativas Graves de los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 50.
 
-Las conductas previstas en el presente capítulo constituyen faltas administrativas graves de los servidores públicos, por lo que deberán abstenerse de realizarlas, mediante cualquier acto u omisión.
+Las conductas previstas en el presente capítulo constituyen faltas administrativas graves de las Personas Servidoras Públicas, por lo que deberán abstenerse de realizarlas, mediante cualquier acto u omisión.
 
 ###### ARTÍCULO 51.
 
@@ -1341,9 +1379,11 @@ La presentación de los testigos será responsabilidad de la parte que los ofrez
 
 Quienes por motivos de edad o salud no pudieran presentarse a rendir su testimonio ante la autoridad resolutora, se les tomará su testificación en su domicilio o en el lugar donde se encuentren, pudiendo asistir las partes a dicha diligencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 150.
 
-Los representantes de elección popular, magistrados y jueces del Poder Judicial del Estado, los consejeros del Consejo de la Judicatura del Estado, los servidores públicos que sean ratificados o nombrados con la intervención del Congreso del Estado, los titulares de las dependencias y entidades de la administración pública estatal, los titulares de los organismos a los que la Constitución Política del Estado otorgue autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
+Las personas representantes de elección popular, magistradas, magistrados, juezas y jueces del Poder Judicial del Estado, magistradas y magistrados del Tribunal de Disciplina Judicial, las y los miembros del Órgano de Administración Judicial del Poder Judicial del Estado, las Personas Servidoras Públicas que sean ratificados o nombrados con la intervención del Congreso del Estado, las y los titulares de las dependencias y entidades de la administración pública estatal, las y los titulares de los organismos a los que la Constitución Política del Estado otorgue autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
 
 El oferente de la prueba deberá exhibir el interrogatorio correspondiente, debidamente firmado, y copia del mismo para cada una de las demás partes, a fin de que estén en aptitud de formular repreguntas, sin que puedan exceder de dos por cada directa.
 
@@ -2066,3 +2106,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Los procedimientos previstos en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, que se encuentren pendientes de resolución ante el Tribunal Estatal de Justicia Administrativa de San Luis Potosí, a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0249.- QUE REFORMA LOS ARTÍCULOS 1º, 2º, 3º, 5º, 6º, 8º, 16, 18, 20, 21, 38, 39, 48, 50 Y 150; REALIZA ADICIÓN Y DEROGACIÓN EN EL ARTÍCULO 3°, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día quince de septiembre de dos mil veinticinco, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
