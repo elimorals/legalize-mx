@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2025-04-11"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -2539,6 +2539,34 @@ Además, el Congreso del Estado promoverá la adopción de mejores prácticas de
 
 Como parte de los mecanismos de participación ciudadana, se creará un espacio permanente en el portal de Internet del H. Congreso del Estado. A través de este espacio, se recibirán las opiniones de la ciudadanía sobre las iniciativas de ley presentadas.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+### CAPITULO CUARTO. DE LAS INICIATIVAS CIUDADANAS
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+ARTICULO 170 BIS.- El Congreso del Estado deberá habilitar y mantener actualizado, dentro del portal oficial de internet, un apartado específico en el que la ciudadanía pueda consultar de manera accesible y ordenada, las iniciativas ciudadanas que hayan sido presentadas conforme a lo establecido por esta Ley y la Ley de Participación Ciudadana del Estado de Baja California.
+
+Este apartado deberá contener, al menos, la siguiente información de cada iniciativa ciudadana:
+
+I. La fecha de presentación de la iniciativa;
+
+II. La pretensión legislativa;
+
+III. Indicar si la iniciativa fue presentada por:
+
+a) 500 o más personas ciudadanas;
+
+b) Una Organización de la Sociedad Civil; o,
+
+c) Una Institución de Educación Superior.
+
+IV. El documento presentado sin datos personales;
+
+V. Etapa del proceso en el que se encuentre la iniciativa; y,
+
+VI. El documento parlamentario con el que concluya su trámite independientemente de su resultado.
+
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ## TÍTULO NOVENO. DE LA GACETA Y EL DIARIO DE LOS DEBATES DEL CONGRESO DEL ESTADO
@@ -3280,3 +3308,13 @@ P.O. 11 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 81 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.– La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 129 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE CREA UN CAPÍTULO CUARTO Y SE ADICIONA EL ARTÍCULO 170 BIS, EN EL TÍTULO OCTAVO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
+
+SEGUNDO. Publíquese en la Gaceta del Congreso del Estado de Baja California.
+
+TERCERO. Publíquese en el Periódico Oficial del Estado, para los efectos conducentes.
