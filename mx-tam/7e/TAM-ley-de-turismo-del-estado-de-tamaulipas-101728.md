@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2025-04-10"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -156,6 +156,10 @@ XXIV Bis. Turismo Gastronómico: Es aquel que tiene como objetivo que el turista
 > <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
 XXIV Ter. El Turismo Espacial es el conjunto de actividades que posibilita la exploración más allá de la atmósfera terrestre, es una oportunidad para el desarrollo e innovación en la tecnología espacial nacional y para potenciar la inversión;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+XXIV Quater. El Turismo Deportivo: es la actividad turística en la cual las personas se desplazan a un determinado destino para practicar algún tipo de deporte u observar eventos deportivos en diferentes modalidades;
 
 XXV. Turismo Social: Actividad encaminada a que los habitantes de cualquier nivel socioeconómico puedan participar de los beneficios de la actividad turística, en condiciones adecuadas de economía, seguridad y comodidad;
 
@@ -699,13 +703,41 @@ IV. Propiciar la celebración de reuniones, congresos y seminarios regionales, e
 
 V. Las demás que la Secretaría considere.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+## TÍTULO QUINTO QUINQUIES. DEL TURISMO DEPORTIVO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+### CAPÍTULO ÚNICO. DEL TURISMO DEPORTIVO
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+ARTÍCULO 44 UNDECIES.
+
+El turismo deportivo es la actividad turística en la cual las personas se desplazan a un determinado destino para practicar algún tipo de deporte u observar eventos deportivos en diferentes modalidades.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+ARTÍCULO 44 DUODECIES.
+
+El Estado, los municipios y demás dependencias, en conjunto con la Secretaría de Turismo del Estado, deberán realizar acciones con los sectores social y privado para realizar acciones tendientes a organizar y promocionar las atracciones, eventos, competencias y justas deportivas e integrarlas a la oferta turística estatal.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+ARTÍCULO 44 TERDECIES.
+
+La Secretaría fomentará el turismo deportivo, segmento que abre nuevas oportunidades para las economías nacionales y locales, y son una fuente adicional de empleos y de ingresos, que incentivan el aprovechamiento de la infraestructura deportiva y aquella destinada a la realización de actividades turísticas, de recreación y esparcimiento.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+ARTÍCULO 44 QUATERDECIES.
+
+Para la consecución de lo establecido en el artículo anterior, la Secretaría se coordinará con las autoridades deportivas y dependencias de los tres órdenes de gobierno, que participan en los esfuerzos para crear programas y acciones dirigidas al desarrollo de productos turísticos de carácter deportivo, con el fin de que los destinos generen empleos y derrama económica.
+
 ## TÍTULO SEXTO. DE LA PROMOCIÓN Y FOMENTO DEL TURISMO
 
 ### CAPÍTULO I. DE LA PROMOCIÓN TURÍSTICA
-
-## TÍTULO SÉPTIMO. DE LOS SISTEMAS DE INFORMACIÓN DE LA ACTIVIDAD TURÍSTICA
-
-### CAPÍTULO II. DEL FOMENTO AL TURISMO
 
 ###### ARTÍCULO 45.
 
@@ -745,7 +777,7 @@ VII. Cualquier otra actividad cuya finalidad sea la comunicación persuasiva par
 
 En la Promoción Turística y material promocional que edite la Secretaría, se dará preferencia a aquellos prestadores de servicios turísticos que en sus productos, servicios e instalaciones, así como en sus materiales gráficos y audiovisuales utilicen la marca turística de Tamaulipas.
 
-### CAPÍTULO ÚNICO. DEL REGISTRO ESTATAL Y EL SISTEMA DE INFORMACIÓN TURÍSTICA
+### CAPÍTULO II. DEL FOMENTO AL TURISMO
 
 ###### ARTÍCULO 50.
 
@@ -805,9 +837,9 @@ II. Simplificar y, en su caso, adecuar los trámites de procedimientos que incid
 
 III. Cuando dichos trámites deban cumplirse en varias unidades administrativas de una misma dependencia, ésta adoptará las medidas para establecer una sola ventanilla para su atención y despacho.
 
-## TÍTULO OCTAVO. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS Y DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+## TÍTULO SÉPTIMO. DE LOS SISTEMAS DE INFORMACIÓN DE LA ACTIVIDAD TURÍSTICA
 
-### CAPÍTULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS TURISTAS
+### CAPÍTULO ÚNICO. DEL REGISTRO ESTATAL Y EL SISTEMA DE INFORMACIÓN TURÍSTICA
 
 ###### ARTÍCULO 55.
 
@@ -905,11 +937,11 @@ III. Se negará su renovación de inscripción al mismo.
 
 8. Los Módulos cumplirán con aquellos requisitos establecidos para los Centros de Información, que sean acordes a su dimensión física.
 
+### CAPÍTULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS TURISTAS
+
+## TÍTULO OCTAVO. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS Y DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
 ### CAPÍTULO II. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
-
-## TÍTULO NOVENO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
-
-### CAPÍTULO ÚNICO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 69.
 
@@ -957,7 +989,7 @@ VII. Proporcionar al prestador de servicios turísticos los datos de entrada, pe
 
 VIII. Cualquier otra que contemple la Ley General, la Ley, su Reglamento u otras disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO ÚNICO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 71.
 
@@ -1033,9 +1065,9 @@ ARTÍCULO 72 TER.
 
 En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista.
 
-## TÍTULO DÉCIMO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+## TÍTULO NOVENO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
 
-### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
+### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 73.
 
@@ -1107,7 +1139,9 @@ VII. Observar las disposiciones legales existentes en materia de turismo, salud,
 
 El prestador de servicios turísticos que brinde un servicio en un área natural protegida, sujeta a la jurisdicción del Estado, por el que se causen derechos, será solidariamente responsable de su pago y del pago del derecho causado por el acceso de su cliente al área natural protegida. En su caso, se hará acreedor a las sanciones que procedan, independientemente de que realice el pago correspondiente, si presta el servicio sin cerciorarse de que hayan sido pagados dichos derechos en términos de la Ley de Hacienda para el Estado.
 
-## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
+## TÍTULO DÉCIMO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 80.
 
@@ -1124,6 +1158,8 @@ La Secretaría llevará un registro de las instituciones educativas establecidas
 ###### ARTÍCULO 83.
 
 La Secretaría celebrará los acuerdos de coordinación y cooperación necesarios con las autoridades educativas y con otros organismos privados o sociales que impartan educación o capacitación en materia turística para promover la formación de profesionales y técnicos en las ramas de la actividad turística y la capacitación adecuada de los recursos humanos existentes.
+
+## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 84.
 
@@ -1280,6 +1316,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-279 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN XV; Y 73, FRACCIÓN V; Y SE ADICIONAN LAS FRACCIONES XV BIS AL ARTÍCULO 3; Y VI, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 73 DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-446 MEDIANTE EL CUAL SE ADICIONAN UNA FRACCIÓN XXIV QUATER AL ARTÍCULO 3 Y EL TÍTULO QUINTO QUINQUIES, DENOMINADO “DEL TURISMO DEPORTIVO”, Y LOS ARTÍCULOS 44 UNDECIES; 44 DUODECIES; 44 TERDECIES Y 44 QUATERDECIES, A LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
