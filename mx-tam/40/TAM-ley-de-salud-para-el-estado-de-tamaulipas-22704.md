@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2025-06-11"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -57,27 +57,29 @@ Las disposiciones de la presente Ley son de orden público, de interés social, 
 
 El derecho a la protección de la salud comprende:
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-I.- El bienestar físico y mental de las personas, desde el momento mismo de la concepción;
+I.- El mayor nivel posible de bienestar físico, mental y social de las personas, y no solo la ausencia de enfermedades o afecciones desde el momento mismo de la concepción;
 
-II.- La prolongación y el mejoramiento de la calidad de la vida humana;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+II.- La prolongación y el mejoramiento de la calidad de la vida humana, a través de la consolidación de un sistema equitativo de salud universal y sostenible, con mecanismos de financiamiento adecuados que garanticen la atención integral de la población, priorizando a los grupos más vulnerables;
 
-III.- La creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social, a la eliminación de los obstáculos para gozar de la salud, y al trabajo interinstitucional para coadyuvar a la mejora progresiva de los factores determinantes básicos de la salud;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+III.- La creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social, a la eliminación de los obstáculos para gozar de la salud y al trabajo interinstitucional para mejorar progresivamente los factores determinantes de la salud, como vivienda, educación, empleo, alimentación, acceso a servicios y transporte público, fomentando la cooperación institucional;
 
-IV.- La participación solidaria y responsable de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+IV.- La participación solidaria y responsable de la población en la preservación, conservación, mejoramiento y restauración de la salud, con un enfoque de salud comunitaria y corresponsable con el sector salud;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
 V.- El disfrute de servicios de salud y telesalud de calidad en todas sus formas y niveles, entendiendo calidad como la exigencia de que sean apropiados médica y científicamente, esto es, que exista personal médico capacitado, medicamentos y equipo hospitalario científicamente aprobados y en buen estado, y condiciones sanitarias adecuadas. Los servicios de salud y telesalud deben estar disponibles, ser accesibles y aceptables para que permitan a las personas disfrutar del más alto nivel posible de salud;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud y telesalud;
+VI.- La promoción del acceso y uso eficiente de los servicios de salud y telesalud, asegurando que el Estado impulse su disponibilidad a través de campañas de sensibilización y educación para la salud, atendiendo las necesidades de la población;
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2023)</small>
 
@@ -87,9 +89,9 @@ VII.- El desarrollo de la enseñanza y la investigación científica y tecnológ
 
 VIII.- El respeto al derecho a la salud materna, a la salud sexual y reproductiva, a la higiene en el trabajo y medio ambiente, a la prevención y tratamiento de enfermedades y a la lucha contra ellas; y
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-IX.- El enfoque de salud pública basado en el género.
+IX.- El enfoque de salud pública basado en un marco de justicia social, considerando factores que influyan en el bienestar y desarrollo de la población.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
 
@@ -173,9 +175,9 @@ J).- La información relativa a las condiciones, recursos y servicios de salud y
 
 K).- La educación para la salud;
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-L).- La orientación, vigilancia y promoción del mejoramiento de la nutrición y de las condiciones de alimentación, con especial atención a la prevención y combate de la obesidad, el sobrepeso y los trastornos alimentarios;
+L).- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad y otros trastornos de la conducta alimentaria;
 
 M).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
@@ -543,13 +545,15 @@ E).- Elaborar información estadística y proporcionarla a las autoridades compe
 
 F).- Consolidar la cobertura universal en la prestación de los servicios;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-G).- La prevención del consumo de narcóticos y tratamiento de fármacodependencia; y
+G).- La prevención del consumo de narcóticos y tratamiento de fármacodependencia;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-H).- Las demás que se deriven de las disposiciones legales aplicables.
+H).- La promoción de la salud y prevención de enfermedades, incluyendo la detección temprana y el manejo oportuno de la obesidad en todos los niveles de atención médica; y
+
+I).- Las demás que se deriven de las disposiciones legales aplicables.
 
 II.- En materia de Salubridad Local:
 
@@ -787,9 +791,9 @@ IX.- La atención del adulto mayor;
 
 X.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-XI.- La promoción del mejoramiento de la nutrición;
+XI.- La promoción del mejoramiento de la nutrición, mediante estrategias de prevención, detección temprana y atención integral de la obesidad;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -4138,6 +4142,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-336 MEDIANTE EL CUAL SE REFORMA EL INCISO L), DE LA FRACCIÓN I, DEL ARTÍCULO 3°, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-443 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
