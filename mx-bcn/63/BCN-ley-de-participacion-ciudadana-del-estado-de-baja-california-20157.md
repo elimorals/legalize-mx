@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-participacion-ciudadana-del-estado-de-baja-california-20
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-16"
-last_updated: "2025-04-11"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 16 de febrero de 2001.
 
@@ -875,6 +875,10 @@ IV.- Se nombre a un representante común, al cual el Congreso del Estado informa
 
 En caso de error u omisión se notificará a los promoventes para que dentro del término de cinco días hábiles, contados a partir del día siguiente de la notificación se subsane.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+La persona representante común de la iniciativa ciudadana participará en la discusión de los proyectos legislativos.
+
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
 
 Artículo 72 BIS.- Las Organizaciones de la Sociedad Civil de cualquier naturaleza, asentadas en el Estado y constituidas conforme a la legislación mexicana, podrán presentar por conducto de su Presidente, Director General o máximo representante, iniciativas de leyes o de reformas a leyes ante el Congreso del Estado, siempre y cuando hubiesen sido aprobadas por dos terceras partes del total de los integrantes de su asamblea general, consejo directivo u órgano colegiado facultado para ello y sean relativas al objeto para el cual fueron constituidas.
@@ -1129,6 +1133,12 @@ P.O. 2 DE SEPTIEMBRE DE 2023.
 
 P.O. 11 DE ABRIL DE 2025.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 78 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 78 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 128 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 72 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
