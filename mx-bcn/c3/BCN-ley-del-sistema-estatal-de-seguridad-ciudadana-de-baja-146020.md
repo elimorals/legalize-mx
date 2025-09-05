@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2025-07-21"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -727,7 +727,11 @@ X.- Revalidar y otorgar equivalencias de estudios de Profesionalización;
 
 XI.- Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
 
-XII.- Realizar los estudios para detectar las necesidades de capacitación para los miembros de las Instituciones Policiales del Estado y servidores públicos de la Secretaría, proponiendo los cursos correspondientes para su formación, capacitación y profesionalización;
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. EL 5 DE SEPTIEMBRE DE 2025, SE ADVIERTE QUE EL CONTENIDO DE LA PARTE FINAL DE ESTE PÁRRAFO ES IDÉNTICO AL DEL SEGUNDO PÁRRAFO.]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+XII.- Realizar los estudios para detectar las necesidades de capacitación para los miembros de las Instituciones Policiales del Estado y servidores públicos de la Secretaría, proponiendo los cursos correspondientes para su formación, capacitación y profesionalización, con énfasis al respeto a los derechos humanos y su protección con enfoque diferencial y perspectiva de género. Dentro de los cursos se comprenderá la prestación de los primeros auxilios, para lo cual se deberá contar con el equipo necesario para tal efecto.
 
 Dentro de los cursos se comprenderá la prestación de los primeros auxilios, para lo cual se deberá contar con el equipo necesario para tal efecto.
 
@@ -3552,3 +3556,9 @@ P.O. 21 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 119 DE LA XXV LEGISLATURA, MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA, A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, A LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, Y SE ABROGA LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 120 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 7 Y 12 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ MISMO SE APRUEBA LA REFORMA AL ARTÍCULO 29 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE B.C.”.]
+
+Único. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
