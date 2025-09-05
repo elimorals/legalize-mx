@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2024-09-24"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -353,7 +353,9 @@ X. Participar en todos los espacios públicos y privados en los cuales se debata
 
 XI. Organizar, participar y colaborar en visitas para realizar diagnósticos o enfrentar situaciones de emergencia en materia de Derechos Humanos;
 
-XII. Mantener comunicación permanente con el Congreso del Estado, así como entregar opiniones y propuestas sobre armonización legislativa;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+XII. Establecer una comunicación permanente con el Congreso del Estado, así como formular y presentar opiniones técnicas y propuestas en materias de su competencia o en procesos de armonización legislativa;
 
 XIII. Incluir los principios de Equidad y No Discriminación, Perspectiva de Equidad de Género, y Acción Afirmativa, en el diseño de su organización institucional, así como programas, proyectos y políticas públicas con la finalidad de lograr la participación equitativa de hombres y mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
@@ -413,11 +415,27 @@ VIII. Admitir o rechazar las peticiones, quejas, denuncias e inconformidades pre
 
 IX. Iniciar a petición de parte interesada, la investigación de las quejas y denuncias que les sean presentadas;
 
-X. Iniciar de oficio, de manera discrecional, la investigación correspondiente a las denuncias de violación de Derechos Humanos, que se difundan a través de los medios de comunicación;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+X. Iniciar de oficio, de manera discrecional, la investigación correspondiente a las denuncias de violación de derechos humanos que se difundan a través de medios de comunicación masivos, digitales o redes sociales;
 
 XI. Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo que se someterán a la consideración del Presidente de la Comisión;
 
-XII. Supervisar el respeto a los Derechos Humanos en la etapa de averiguación previa penal, así como en el Sistema Penitenciario y de Readaptación Social del Estado;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+XII. Supervisar el respeto a los Derechos Humanos durante la etapa de investigación penal, así como en el Sistema Penitenciario y de Reinserción Social del Estado; con el propósito de verificar que las condiciones de internamiento de las personas privadas de su libertad cumplan con la normatividad vigente.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+Para ello, la Comisión elaborará un Programa de Visitas Periódicas y Regulares a las instalaciones que conforman el Sistema Penitenciario y de Reinserción Social del Estado, así como a las barandillas de los municipios.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+El Programa deberá contemplar un diagnóstico anual sobre la situación de dichos centros, incluyendo el análisis de las causas de fallecimientos, motines, abusos, quejas documentadas y otras incidencias relevantes.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+La Comisión comunicará los resultados y recomendaciones del programa a las autoridades estatales y municipales competentes, para que, considerando sus observaciones, diseñen e implementen políticas públicas que garanticen el pleno respeto a los Derechos Humanos de las personas privadas de la libertad.
 
 XIII. Formular programas y proponer acciones en coordinación con las dependencias competentes, que impulsen el cumplimiento de los Principios, Declaraciones, Tratados, Convenciones, Protocolos y Acuerdos signados y ratificados por México en materia de Derechos Humanos;
 
@@ -835,7 +853,9 @@ III. Secretaría Ejecutiva;
 
 IV. Secretaría Técnica;
 
-V. Visitadurías Generales;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+V. Visitadurías Generales especializadas que se requieran para el ejercicio de las atribuciones de la Comisión, de conformidad con lo que se establezca en el Reglamento Interno;
 
 VI. Direcciones Operativas, y
 
@@ -985,7 +1005,11 @@ V. Gozar de buena reputación, honradez, ser de probidad reconocida y no haber s
 
 VI. Tener título de licenciado en derecho y cinco años de ejercicio profesional cuando menos.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 63.
+
+La Comisión contará con Visitadurías Generales especializadas en el número y materia que se determine en el Reglamento Interno.
 
 Las Visitadurías Generales tendrán las siguientes facultades y obligaciones:
 
@@ -2068,3 +2092,15 @@ P.O. 24 DE SEPTIEMBRE DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0250.- QUE REFORMA LOS ARTÍCULOS 26, 27, 54 Y REALIZA ADICIÓN A LOS ARTÍCULOS 27 Y 63, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+Segundo. La Comisión Estatal de Derechos Humanos tendrá un plazo de 90 días naturales contados a partir de la entrada en vigor del presente decreto para realizar las adecuaciones a su reglamento interno en materia del Programa de Visitas Periódicas y Regulares del Sistema Penitenciario y de Reinserción Social del Estado y de las barandillas de los Municipios.
+
+Tercero. Una vez entrado en vigor el presente Decreto, la Comisión Estatal de Derechos Humanos tendrá un plazo de 45 días naturales para realizar las adecuaciones a su Reglamento Interno sobre las Visitadurías Generales en materia de pueblos y comunidades indígenas; personas privadas de su libertad en los centros penitenciarios del Estado y de las personas en situación de migración.
+
+Cuarto. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
