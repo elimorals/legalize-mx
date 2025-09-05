@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2024-05-07"
+last_updated: "2025-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -507,17 +507,31 @@ Las controversias que se susciten respecto de los límites territoriales, entre 
 
 De la Creación o Supresión de Municipios.- Para la creación o supresión de un Municipio, el Congreso del Estado procederá de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-I.- El procedimiento se iniciará mediante solicitud expresa de la ciudadanía vecina de la demarcación territorial que se proponga para conformar o suprimir un Municipio, o bien por las Diputadas y Diputados del Congreso del Estado, la persona titular del Poder Ejecutivo o los Ayuntamientos.
+I.- El procedimiento se iniciará mediante solicitud expresa, por escrito de las y los ciudadanos vecinos de la demarcación territorial que se proponga para conformar o suprimir un Municipio, o bien por las y los Diputados, la persona Titular del Ejecutivo o los Ayuntamientos.
 
 En caso de que la solicitud provenga de la ciudadanía, ésta deberá cubrir el porcentaje requerido por la Ley de la materia para la procedencia del plebiscito.
 
 Cuando la solicitud para conformar o suprimir un Municipio sea realizada por las Diputadas y Diputados del Congreso del Estado, la persona titular del Poder Ejecutivo o los Ayuntamientos, se procederá conforme lo previsto en la fracción II del presente artículo;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-II.- En todos los casos, el Congreso del Estado conformará una comisión de Diputadas y Diputados encargada de revisar la autenticidad y los contenidos de la documentación presentada, solicitará los dictámenes de viabilidad correspondientes y con base en los mismos, aprobará o desechará la solicitud planteada, debiendo en todo caso fundar y motivar su resolución;
+II.- En todos los casos, el Congreso del Estado conformará una Comisión Especial encargada de revisar la autenticidad y los contenidos de la documentación presentada, solicitará los dictámenes de viabilidad correspondientes y con base en los mismos, aprobará o desechará la solicitud planteada, debiendo en todo caso fundar y motivar su resolución;
+
+En cuanto a la creación de Municipios, la Comisión Especial observará lo establecido en el artículo 76 de la Constitución Local, y además, que la documentación presentada y los dictámenes de viabilidad correspondientes contengan:
+
+a) La descripción, análisis exhaustivo y estudio técnico-científico de factibilidad, tomando en cuenta los factores geográficos, demográficos, históricos, socioculturales, políticos y socioeconómicos del territorio respectivo;
+
+b) La justificación de la creación del Municipio en función del desarrollo integral sustentable, así como la necesidad de la prestación de los servicios públicos de su competencia;
+
+c) La disposición de los recursos económicos suficientes para cubrir las erogaciones que requiera para operar la administración pública municipal;
+
+d) La disposición de bienes inmuebles e instalaciones necesarios para el funcionamiento de los servicios públicos municipales, señalados en la Ley de la materia; y,
+
+e) Lo demás que determinen las leyes correspondientes.
+
+En el proceso de creación de un Municipio, se observará que no se quebrante la unidad social, cultural o geográfica de la población de los Municipios afectados o se disminuyan los ingresos de éstos en forma tal que sean insuficientes para cubrir las erogaciones de su administración pública.
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
@@ -530,6 +544,16 @@ V.- Agotado el procedimiento anterior, la petición será sometida a la aprobaci
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
 VI.- De resultar procedente la creación de un Municipio, el Congreso del Estado designará, a propuesta de la persona titular del Poder Ejecutivo, el Concejo Municipal Fundacional, que fungirá hasta en tanto se realicen las elecciones ordinarias correspondientes, decretando las provisiones necesarias para la transferencia del patrimonio correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+El Concejo Municipal Fundacional deberá integrarse con paridad de género y además deberán cumplir los requisitos de elegibilidad establecidos para las y los regidores y munícipes respectivamente, según la Constitución Local.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+Al rendir protesta de Ley, el Concejo Municipal Fundacional, deberá elegir de entre sus integrantes, a quien presida el Concejo, al Concejal encargado de Sindicatura y Concejales en función de Regidoras o Regidores, además de realizar la asignación de Comisiones.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
 En los Municipios de nueva creación se continuarán aplicando las disposiciones reglamentarias vigentes en el Municipio del cual formaron parte, hasta en tanto emitan sus propios reglamentos.
 
@@ -1288,3 +1312,9 @@ P.O. 7 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 428 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 4, 5, 7, 8, 9, 9 BIS, 9 TER, 12, 13, 15, 18, 19, 21, 25, 27, 29, 30, 31, 33, 35, 36, 37, 38, 39, 41, 42, 43 Y 44 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. – La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 121 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 27 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE B.C.".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
