@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-29"
-last_updated: "2018-11-30"
+last_updated: "2025-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el jueves 21 de abril de 2016.
 
@@ -1267,7 +1267,9 @@ e).- Los ingresos y aplicación del Fondo Auxiliar para la Administración de la
 
 f).- Los datos estadísticos relativos al desempeño de los órganos jurisdiccionales y el Consejo de la Judicatura. Los principales indicadores sobre la actividad jurisdiccional deberán incluir, al menos, asuntos radicados, concluidos y en trámite, de primera y segunda instancia, indicando el sentido de la resolución.
 
-g).- Las versiones públicas de las sentencias que sean de interés público.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+g).- Las versiones públicas de todas las sentencias emitidas.
 
 h).- Las versiones estenográficas de las sesiones públicas.
 
@@ -1745,9 +1747,11 @@ La clasificación es el proceso mediante el cual el sujeto obligado determina qu
 
 Los titulares de las Áreas de los sujetos obligados serán los responsables de clasificar la información, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables.
 
-###### Artículo 108.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
-Solo podrá clasificarse información como reservada en los supuestos que establece el siguiente artículo y, podrá permanecer con tal carácter hasta por un periodo de cinco años mientras subsistan las causas que dieron origen a su clasificación. Excepcionalmente, los sujetos obligados, con la aprobación de su Comité de Transparencia, podrán ampliar el periodo de reserva hasta por un plazo de dos años.
+###### ARTÍCULO 108.
+
+Solo podrá clasificarse información como reservada en los supuestos que establece el Artículo 110 y, podrá permanecer con tal carácter hasta por un periodo de cinco años mientras subsistan las causas que dieron origen a su clasificación. Excepcionalmente, los sujetos obligados, con la aprobación de su Comité de Transparencia, podrán ampliar el periodo de reserva hasta por un plazo de dos años.
 
 Cada Área del sujeto obligado elaborará un índice de los Expedientes clasificados como reservados, por Área responsable de la información y tema.
 
@@ -1764,6 +1768,20 @@ I.- La divulgación de la información representa un riesgo real, demostrable e 
 II.- El riesgo de perjuicio que supondría la divulgación supera el interés público general de que se difunda, y
 
 III.- La limitación se adecua al principio de proporcionalidad y representa el medio menos restrictivo disponible para evitar el perjuicio.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 109 Bis.
+
+Los Documentos clasificados como reservados serán públicos cuando:
+
+I. Se extingan las causas que dieron origen a su clasificación;
+
+II. Expire el plazo de clasificación;
+
+III. Exista resolución de una autoridad competente que determine que existe una causa de interés público que prevalece sobre la reserva de la información; o,
+
+IV. El Comité de Transparencia considere pertinente la desclasificación, de conformidad con lo señalado en el presente Título.
 
 ### Capítulo II. De la Información Reservada
 
@@ -2444,3 +2462,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 5 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 132 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 88, 108 Y LA ADICIÓN DE LOS ARTÍCULOS 109 Y 111 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
