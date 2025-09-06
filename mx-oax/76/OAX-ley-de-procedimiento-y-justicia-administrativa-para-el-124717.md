@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-procedimiento-y-justicia-administrativa-para-el-124717"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-20"
-last_updated: "2024-11-12"
+last_updated: "2025-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 20 de octubre de 2017.
 
@@ -1883,9 +1883,23 @@ IV. El interrogatorio o cuestionario respectivo firmados por el oferente, en cas
 
 V. Las demás pruebas documentales que se ofrezcan.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+Los particulares demandantes deberán señalar, sin acompañar, los documentos que fueron considerados en el procedimiento administrativo como información confidencial o comercial reservada. La sala solicitará los documentos antes de cerrar la instrucción.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar en que se encuentra para que a su costa se mande a expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda presición (sic) los documentos y tratándose de los que pueda tener a su disposición, bastará con que acompañe copia de la solicitud debidamente presentada por lo menos cinco días antes de la interposición de la demanda. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+Si no se adjuntan a la demanda los documentos a que se refiere este precepto, el magistrado requerirá al promovente para que los presente dentro del plazo de tres días. Cuando el promovente no los presente dentro de dicho plazo y se trate de los documentos a que se refieren las fracciones I, II y III, se tendrá por no presentada la demanda. Si se trata de las pruebas a que se refieren las fracciones IV y V, las mismas se tendrán por no ofrecidas.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 179.
 
-Cuando no se satisfaga alguno de los requisitos de la demanda, cuando fuere obscura o imprecisa, o cuando no se anexen los documentos a que se refieren los artículos anteriores la Sala debe requerir al actor para que en el plazo de tres días hábiles subsane las omisiones y formule las aclaraciones correspondientes; apercibiéndole que de no hacerlo se desechará la demanda.
+Cuando no se satisfaga alguno de los requisitos de la demanda, cuando fuere obscura o imprecisa, la Sala debe requerir al actor para que en el plazo de tres días hábiles subsane las omisiones y formule las aclaraciones correspondientes; apercibiéndole que de no hacerlo se desechará la demanda.
 
 ###### ARTÍCULO 180.
 
@@ -2464,3 +2478,13 @@ PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto serán tramitados y concluidos conforme a las disposiciones legales vigentes a su inicio.
+
+P.O. 6 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 732.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 179; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO A LA FRACCIÓN V DEL ARTÍCULO 178, DE LA LEY DE PROCEDIMIENTOS (SIC) Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
