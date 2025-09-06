@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-forestal-sustentable-del-estado-de-oaxaca-952
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-11"
-last_updated: "2022-10-15"
+last_updated: "2025-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de junio de 2013.
 
@@ -79,9 +79,19 @@ XII. Promover el desarrollo y mejoramiento de infraestructura de los territorios
 
 XIII. Promover la conservación del patrimonio natural de la sociedad oaxaqueña, dando prioridad al manejo sustentable;
 
-XIV. Fomentar la planeación comunitaria con enfoque territorial; y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+XIV. Fomentar la planeación comunitaria con enfoque territorial;
 
 XV. Fomentar las actividades económicas secundarias y terciarias en los territorios forestales, de manera tal que produzcan competitividad y empleo en las localidades, además de la integración económica regional.
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+XVI. Garantizar, observar y promover el derecho al acceso a la información pública en materia forestal; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+XVII. Promover, en la política forestal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades para las mujeres, las personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, la juventud, y las personas con discapacidad
 
 ###### ARTÍCULO 3.
 
@@ -135,9 +145,9 @@ XIV (SIC). Identificar nuevos enfoques de atención sectorial, para apoyar a gru
 
 XVII. Generar sinergias institucionales de desarrollo sectorial;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XVI], P.O. 13 DE NOVIEMBRE DE 2021)
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
 
-XVIII. Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas, en la aplicación, evaluación y seguimiento de la política forestal;
+XVIII. Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas y afromexicanas, en la aplicación, evaluación y seguimiento de la política forestal;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN XVII], P.O. 13 DE NOVIEMBRE DE 2021)
 
@@ -159,9 +169,9 @@ XXII. Promover y consolidar las áreas forestales permanentes, impulsando su del
 
 XXIII. Instrumentar mecanismos de coordinación, concertación y cooperación con las instituciones federales del sector forestal para regular la prevención, combate y control de incendios forestales y agentes disruptivos que afecten a los ecosistemas forestales y la cobertura forestal;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXII], P.O. 13 DE NOVIEMBRE DE 2021)
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
 
-XXIV. Impulsar el desarrollo de la empresa social forestal y comunal en los pueblos y comunidades indígenas;
+XXIV. Impulsar el manejo forestal comunitario y el desarrollo de la empresa social forestal y comunal en los pueblos y comunidades indígenas y afromexicanas.
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN XXIII], P.O. 13 DE NOVIEMBRE DE 2021)
 
@@ -367,9 +377,9 @@ LXXII. Saneamiento forestal: Las acciones técnicas encaminadas a combatir y con
 
 LXXIII. Sanidad forestal: Lineamientos, medidas y restricciones para la detección, control y combate de plagas y enfermedades forestales;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
 
-LXXIV. Secretaría: La Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura;
+LXXIV. Secretaría: La Secretaría de Fomento Agroalimentario y Desarrollo Rural;
 
 LXXV. Servicios Ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
 
@@ -613,21 +623,27 @@ La Comisión Estatal Forestal tiene como objeto desarrollar, favorecer e impulsa
 
 #### SECCIÓN SEGUNDA. LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 16.
 
-La Junta de Gobierno es el órgano de gobierno de la Comisión y se integrará de la siguiente forma:
+La Junta de Gobierno es el órgano supremo de la Comisión y se integrará de la siguiente forma:
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
 
 a). Un presidente, que será el Titular de la Secretaría Coordinadora del Sector que corresponda;
 
-b). Un Secretario Técnico que es el Director General de la Comisión;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+b). Un Secretario Técnico que es la persona titular de la Dirección General de la Comisión;
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
 
 c). Cinco Vocales, que serán los titulares de las dependencias o entidades del Poder Ejecutivo, cuyos ámbitos de competencia tengan relación con el funcionamiento y operación de la Comisión;
 
-d). Un Comisario que es el Secretario de la Contraloría y Transparencia Gubernamental del Poder Ejecutivo del Estado, o la persona que éste designe; y
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+d). Un Comisario que es la persona titular de la Secretaría de Honestidad, Transparencia y Función Pública del Poder Ejecutivo del Estado, o la persona que ésta designe; y
 
 e). Dos representantes designados por el Consejo.
 
@@ -733,7 +749,9 @@ XII. Organizar el sistema estatal de información forestal, como instrumento de 
 
 XIII. Instrumentar y mantener actualizado el inventario estatal forestal y de suelos por lo menos, cada cinco años;
 
-XIV. Promover la asesoría y asistencia técnica a ejidatarios, comuneros, pequeños productores, comunidades, pueblos indígenas y otros productores forestales en el desarrollo y organización de actividades productivas, propiciando la integración de cadenas productivas y el desarrollo forestal sustentable de los recursos forestales maderables y no maderables;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+XIV. Promover la asesoría y asistencia técnica a ejidatarios, comuneros, pequeños productores, pueblos y comunidades indígenas y afromexicanas y otros productores forestales en el desarrollo y organización de actividades productivas, propiciando la integración de cadenas productivas y el desarrollo forestal sustentable de los recursos forestales maderables y no maderables;
 
 XV. Promover y fortalecer la participación del sector forestal en el crecimiento económico de la entidad;
 
@@ -963,6 +981,8 @@ Es obligatorio proporcionar a todo solicitante la información que se encuentre 
 
 Las personas físicas y morales que pretendan o presten servicios técnicos forestales deberán estar inscritas en el Registro Estatal Forestal, sujetándose a las disposiciones establecidas en la Ley General de Desarrollo Forestal Sustentable y su reglamento, así como de las Normas Oficiales Mexicanas que se emitan al respecto.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 734, PUBLICADO EN EL P.O. DE 6 DE SEPTIEMBRE DE 2025, SE ADVIERTE QUE LA REFORMA INDICADA AL ARTÍCULO 44 CORRESPONDE POR SU CONTENIDO AL ARTÍCULO 41.]</small>
+
 ###### ARTÍCULO 41.
 
 Los servicios técnicos forestales comprenden las siguientes actividades:
@@ -989,9 +1009,15 @@ X. Capacitarse continuamente en su ámbito de actividad;
 
 XI. Planear y organizar las tareas de zonificación forestal, reforestación, restauración, prevención y combate de incendios, plagas y enfermedades forestales, así como de compatibilidad de usos agropecuarios con los forestales;
 
-XII. Elaborar las verificaciones de las plantaciones forestales comerciales; y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
 
-XIII. Las demás que fije el Reglamento.
+XII. Elaborar las verificaciones de las plantaciones forestales comerciales,
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+XIII. Proporcionar asesoría técnica, capacitación e implementación de prácticas de agricultura regenerativa y de conservación, a las y los titulares del aprovechamiento forestal o forestación, preferentemente a las mujeres rurales; y
+
+XIV. Las demás que fije el Reglamento.
 
 ###### ARTÍCULO 42.
 
@@ -1002,6 +1028,8 @@ Los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forest
 Los ejidos y comunidades, comunidades indígenas, sociedades de pequeños propietarios relacionadas con el manejo forestal, podrán crear libremente, respetando sus Sistemas Normativos Internos, un comité u órgano técnico auxiliar en la gestión y manejo de aprovechamientos forestales y de plantaciones forestales comerciales, así como en la ejecución y evaluación de los programas de manejo forestal respectivos.
 
 Tratándose de ejidos y comunidades agrarias, el comité u órgano se constituirá en los términos de la Ley Agraria, y definirá junto con el prestador de servicios técnicos forestales, los mecanismos de coordinación necesarios.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 734, PUBLICADO EN EL P.O. DE 6 DE SEPTIEMBRE DE 2025, SE ADVIERTE QUE LA REFORMA INDICADA AL ARTÍCULO 44 CORRESPONDE POR SU CONTENIDO AL ARTÍCULO 41, TODA VEZ QUE EL REFERIDO ARTÍCULO 44 DESDE TEXTO ORIGINAL COMPRENDE UN SOLO PÁRRAFO, VÉASE P.O. 11 DE JUNIO DE 2023, PÁGINA 11.]</small>
 
 ###### ARTÍCULO 44.
 
@@ -1681,9 +1709,9 @@ I. Amonestación con apercibimiento;
 
 II. Revocación de la autorización o inscripción registral;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
 
-III. Multa, por el equivalente de 20 a 2000 Unidades de Medida y Actualización;
+III. Imposición de multa, cuyos recursos serán destinados para realizar acciones de inspección y vigilancia forestal;
 
 IV. Arresto que no excederá de treinta y seis horas;
 
@@ -1700,6 +1728,18 @@ El importe de las multas será depositado en la oficina de Recaudación de Renta
 En el caso de negativa de pago de multa impuesta se empleará el procedimiento económico coactivo que establece el Código Fiscal para el Estado de Oaxaca.
 
 En caso de movilización de productos sujetos a las disposiciones de ésta Ley, éstos serán retenidos hasta que el interesado cumpla con los requisitos necesarios.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+###### ARTICULO 117 Bis.
+
+La imposición de las multas a que se refiere el artículo anterior, se determinará en la forma siguiente:
+
+I. Con el equivalente de 40 a 3000 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones VI, VIII, XII, XIV, XV, XVIII, y XXIV, del artículo 116 de esta Ley;
+
+II. Con el equivalente de 100 a 30,000 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones I, II, IV, X, XIII, XVII, XI y XIV del artículo 116 de esta Ley, y
+
+III. Con el equivalente de 150 a 30,000 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones III, V, VII, IX, XVII, XIX, XX, XXI, y XXIII, del artículo 116 de esta Ley.
 
 ###### ARTÍCULO 118.
 
@@ -1846,3 +1886,13 @@ P.O. 15 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 6 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 734.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XVIII Y XXIV DEL ARTÍCULO 3, LA FRACCIÓN LXXIV DEL ARTÍCULO 7, LA FRACCIÓN XIV DEL ARTÍCULO 24, LOS INCISOS B) Y D) DEL ARTÍCULO 16, Y LA FRACCIÓN III DEL ARTÍCULO 117; Y SE ADICIONAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 2, LA FRACCIÓN XIII AL ARTÍCULO 44, RECORRIÉNDOSE LAS SUBSECUENTES, Y SE ADICIONA EL ARTÍCULO 117 BIS, TODOS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto
