@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-personas-desaparecidas-del-estado-de-jalisco-148228"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-05"
-last_updated: "2024-10-31"
+last_updated: "2025-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE PERSONAS DESAPARECIDAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Edición Especial al Número 26 Ter del Periódico Oficial del Estado de Jalisco, el viernes 5 de marzo de 2021.
 
@@ -599,7 +599,9 @@ X. Mantener comunicación con autoridades estatales y municipales, además estab
 
 XI. Coordinar, manteniendo una comunicación continua y permanente con las Comisiones, tanto Nacional como de otras entidades federativas, a fin de intercambiar experiencias, realizar análisis de contextos que permitan identificar la problemática, causas y soluciones a la desaparición de personas y buscar las mejores prácticas para la localización de personas;
 
-XII. Integrar grupos de trabajo interinstitucional con participación de familiares y organizaciones de la sociedad civil en el estado, para proponer acciones específicas de búsqueda de personas, así como colaborar con la Comisión Nacional en el análisis del fenómeno de desaparición a nivel estatal, regional y municipal, así como de la problemática a nivel nacional, brindando la información que se requiera por parte del estado;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
+
+XII. Integrar grupos de trabajo interinstitucional con participación de familiares y organizaciones de la sociedad civil en el estado, para proponer acciones específicas de búsqueda de personas, las cuales contemplarán, de acuerdo a su presupuesto, los subsidios y la concertación de cualquier tipo de contratos y convenios, el otorgamiento de herramientas, materiales y demás insumos en especie para el proceso de búsqueda, conforme a los protocolos y principios rectores establecidos en esta ley, además de los lineamientos que se establezcan para la obtención de los recursos; así como colaborar con la Comisión Nacional en el análisis, tanto del fenómeno de desaparición a nivel estatal, regional y municipal, como de la problemática a nivel nacional, brindando la información que se requiera por parte de (sic) del estado;
 
 XIII. Mantener reuniones periódicas y comunicación continua con las personas titulares de las Comisiones de Búsqueda de otras entidades federativas, a fin de intercambiar experiencias, realizar análisis sobre la problemática y buscar las mejores prácticas para la localización de personas;
 
@@ -2554,3 +2556,9 @@ DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tan
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
 
 En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+P.O. 6 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29851/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 30 DE LA LEY DE PERSONAS DESAPARECIDAS DEL ESTADO DE JALISCO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
