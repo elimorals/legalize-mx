@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2025-08-30"
+last_updated: "2025-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -339,9 +339,9 @@ XLII. Promover y ejecutar campañas para arborizar las áreas urbanas que, bajo 
 
 XLIII. La atención de los demás asuntos que, en materia de preservación del equilibrio ecológico y protección al ambiente, de energías y de cambio climático les concedan otros ordenamientos en la materia y que no estén otorgados expresamente a la Federación; y
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2025)</small>
 
-XLIV. Promover y proponer a las dependencias y entidades de la administración pública estatal y municipal en el ámbito de sus competencias, para que, en sus procesos de adquisiciones, contratación y arrendamiento, adquieran preferentemente productos compuestos total o parcialmente de residuos valorizables o materias primas secundarias de conformidad con la Ley Estatal de Economía Circular.
+XLIV. Promover y proponer a las dependencias y entidades de la administración pública estatal y municipal en el ámbito de sus competencias, para que, en sus procesos de adquisiciones, contratación y arrendamiento, adquieran preferentemente productos compuestos total o parcialmente de residuos valorizables o materias primas secundarias, así como aquellos que utilicen energías limpias, de conformidad con la Ley Estatal de Economía Circular.
 
 ###### Artículo 7.
 
@@ -3368,6 +3368,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 30 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 722.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXVIII DEL ARTÍCULO 6, EL PRIMER PÁRRAFO DEL ARTÍCULO 24, EL ARTÍCULO 212, EL PRIMER PÁRRAFO DEL ARTÍCULO 217; Y SE ADICIONA EL SEXTO PÁRRAFO AL ARTÍCULO 217 Y EL TERCER PÁRRAFO AL ARTÍCULO 218 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 730.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XLIV DEL ARTÍCULO 6 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
