@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2025-03-08"
+last_updated: "2025-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -325,9 +325,11 @@ Las instituciones públicas, privadas, organismos no gubernamentales y sociedad 
 
 ### CAPÍTULO PRIMERO. CONSEJO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 18.
 
-El Consejo es la instancia superior de coordinación interinstitucional integrado por:
+El Consejo es la instancia superior de coordinación interinstitucional, integrado por:
 
 I. El Titular del Poder Ejecutivo, quien lo preside;
 
@@ -339,7 +341,9 @@ III. El Fiscal General del Estado;
 
 IV. El Secretario de Gobierno;
 
-V. Un Diputado electo por el Congreso;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+V. El Diputado que presida la Comisión de Seguridad Pública y Protección Civil del Congreso;
 
 VI. Un Magistrado electo por el Pleno del Supremo Tribunal de Justicia del Estado de Michoacán;
 
@@ -2482,3 +2486,11 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 8 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 229 POR EL QUE "SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 18 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
