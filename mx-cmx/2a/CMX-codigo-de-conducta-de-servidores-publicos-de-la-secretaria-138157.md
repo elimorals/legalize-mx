@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-de-servidores-publicos-de-la-secretaria-1381
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-13"
-last_updated: "2019-09-13"
+last_updated: "2025-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138157&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-09-03"
 ---
 # CODIGO DE CONDUCTA DE SERVIDORES PUBLICOS DE LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDIGENAS RESIDENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL CUAL SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, PUBLICADO EN LA G.O. DE 8 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE SERVIDORES PÚBLICOS DE LA SECRETARÍA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2025. (ABROGADO)
 
 Código publicado en el No. 178 de la Gaceta Oficial de la Ciudad de México, el viernes 13 de septiembre de 2019.
 
@@ -177,3 +179,15 @@ Ciudad de México a 03 de septiembre de 2019.
 MTRA. LARISA ORTIZ QUINTERO.
 
 SECRETARIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 8 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES”.]
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Aviso entrará en vigor el día de su publicación en la Ciudad de México.
+
+TERCERO. Se abroga el Código de Conducta de servidores públicos de la Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes publicado el 13 de septiembre de 2019 en la Gaceta Oficial de la Ciudad de México.
