@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2025-08-28"
+last_updated: "2025-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -551,9 +551,11 @@ Los programas de estudio deberán contener los propósitos específicos de apren
 
 Los planes y programas de estudio que determine la autoridad educativa federal, en términos de la Ley General, al diseñarse con perspectiva de género y desde ello contribuir a la construcción de una sociedad en donde a las mujeres y a los hombres se les reconozcan sus derechos y los ejerzan en igualdad de oportunidades, debe ser impulsado en las instituciones educativas del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 53.
 
-En los contenidos de los planes y programas de estudio que determine la autoridad federal, al impartirse en el Estado, de acuerdo con el tipo y nivel educativo, cada una de las autoridades en la materia, deberá resaltar, de entre todos, los siguientes:
+En los contenidos de los planes y programas de estudio que determine la autoridad federal, al impartirse en el Estado, de acuerdo con el tipo y nivel educativo, cada una de las autoridades en la materia deberá resaltar, de entre todos, los siguientes:
 
 I. El aprendizaje de las matemáticas;
 
@@ -605,9 +607,15 @@ XXII. El conocimiento, valoración, apreciación, preservación y respeto hacia 
 
 XXIII. La educación artística, estética, sensible y creativa para potencializar el desarrollo cognitivo y humano, así como, la personalidad de los educandos;
 
-XXIV. El fomento de los principios básicos de seguridad y educación vial; y,
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
 
-XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en la Ley General y la presente Ley.
+XXIV. El fomento de los principios básicos de seguridad y educación vial;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+XXV. El fomento a la enseñanza y práctica de actividades que coadyuven como herramientas para el aprendizaje, desarrollo de habilidades cognitivas y valores que fortalezcan el pensamiento lógico, la concentración mental y la toma de decisiones; y,
+
+XXVI. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en la Ley General y la presente Ley.
 
 ## TÍTULO TERCERO. DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -1325,7 +1333,33 @@ Las autoridades educativas, en el ámbito de sus respectivas competencias, emiti
 
 La Secretaría, atendiendo las disposiciones que resulten aplicables, observará los lineamientos a que deberán sujetarse la distribución de los alimentos y bebidas preparados y procesados, dentro de toda escuela, en cuya elaboración se cumplirán los criterios nutrimentales que para tal efecto determine la Secretaría de Salud federal.
 
-Las autoridades educativas promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+Las autoridades educativas promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico dentro de las instalaciones de los planteles escolares y sus inmediaciones.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+La Secretaría fomentará estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+En materia de la promoción de la salud escolar, se implementarán y atenderán las medidas y acciones emitidas por la autoridad en la materia.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+Las personas responsables de la aplicación y vigilancia de las disposiciones señaladas en el presente artículo al interior de las escuelas, serán las que ejerzan los cargos directivos y las autoridades escolares.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+Las autoridades educativas y sanitarias vigilarán y sancionarán en el ámbito de sus competencias el incumplimiento de estas disposiciones.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+Si las acciones u omisiones que deriven por el incumplimiento de estos artículos, fueran atribuibles a un servidor público, es acreedor a las sanciones previstas por la normatividad en la materia, y las autoridades educativas y sanitarias están obligadas a denunciarlas de manera inmediata y darle seguimiento hasta que se apliquen las sanciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+Las cooperativas escolares tendrán el compromiso de fomentar estilos de vida saludables en los educandos y su operación será con apego a los lineamientos que establezca la autoridad educativa federal y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2023)</small>
 
@@ -1509,7 +1543,9 @@ II. Promover la movilidad de los docentes en los diferentes sistemas y subsistem
 
 III. Fomentar la creación de redes académicas para el intercambio de saberes y experiencias entre las maestras y los maestros de los diferentes sistemas y subsistemas educativos;
 
-IV. Proporcionar las herramientas para realizar una gestión pedagógica y curricular que priorice el máximo logro del aprendizaje y desarrollo integral de los educandos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Proporcionar las herramientas para realizar una gestión pedagógica y curricular que priorice el máximo logro del aprendizaje y desarrollo integral de los educandos, incluyendo el fomento y práctica de actividades para el desarrollo de habilidades cognitivas y valores que fortalezcan el pensamiento lógico, la concentración mental y la toma de decisiones;
 
 V. Promover la integración de un acervo físico y digital en las instituciones formadoras de docentes, de bibliografía actualizada que permita a las maestras y los maestros acceder a las propuestas pedagógicas y didácticas innovadoras;
 
@@ -2431,11 +2467,15 @@ XXV. Omitir dar a conocer por escrito a las personas usuarias de los servicios e
 
 XXVI. Difundir o transmitir datos personales sin consentimiento expreso de su titular o, en su caso, de la madre o padre de familia o tutor;
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
 
-XXVII. Asumir una conducta o conductas omisas evitando atender o dejar de tomar las medidas que eviten todo tipo de violencia o acoso escolar hacia los educandos a efecto de protegerlos de cualquier forma de discriminación, maltrato, violencia, perjuicio, daño, agresión o abuso; y,
+XXVII. Asumir una conducta o conductas omisas evitando atender o dejar de tomar las medidas que eviten todo tipo de violencia o acoso escolar hacia los educandos a efecto de protegerlos de cualquier forma de discriminación, maltrato, violencia, perjuicio, daño, agresión o abuso;
 
-XXVIII. Incumplir cualquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
+XXVIII. Incumplir con lo establecido en los lineamientos que establezca la autoridad educativa federal, en materia de fomento de estilos de vida saludables referidos a la alimentación de los educandos y demás disposiciones en la materia; y,
+
+XXIX. Incumplir cualquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
 
 ###### Artículo 227.
 
@@ -2690,3 +2730,17 @@ P.O. 28 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 218.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 53 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMER0 226.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 118, LA FRACCIÓN XXVII Y SE ADICIONA LA FRACCIÓN XXVIII, RECORRIENDO EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 226, DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 227.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN XXIV Y SE ADICIONA LA FRACCIÓN XXV, RECORRIENDO EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 53; Y, SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 140 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Para el cumplimiento del presente Decreto, las instituciones educativas dispondrán de los recursos humanos y materiales que tengan.
