@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-de-ocampo-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2022-12-22"
+last_updated: "2025-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 25 de diciembre de 2014.
 
@@ -433,19 +433,21 @@ El plazo antes señalado, se contará a partir de la fecha en que los interesado
 
 Si transcurre dicho plazo y no se expresan los datos o no se presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería Municipal correspondiente no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 39.
 
-Las manifestaciones a que se refiere este Capítulo y la Ley de Catastro, respecto de contratos de compraventa o cualesquiera otros transmitivos de dominio, resoluciones administrativas o judiciales, deberán presentarse dentro de los quince días hábiles contados a partir de:
+Las manifestaciones a que se refiere este Capítulo y la Ley de la Función Registral y Catastral del Estado de Michoacán de Ocampo, respecto de contratos de compraventa o cualesquiera otros transmitivos de dominio, resoluciones administrativas o judiciales, deberán presentarse dentro de los quince días hábiles contados a partir de los siguientes supuestos:
 
-I. La fecha de firma de la escritura por los otorgantes o representantes legales, los testigos e intérpretes si los hubiere;
+I. La fecha de firma, autorización y conclusión de la escritura por los otorgantes o representantes legales, los testigos e intérpretes si los hubiere;
 
-II. La fecha en que hubiere causado ejecutoria o estado la resolución judicial o se hubiere notificado la resolución administrativa; y,
+II. La fecha; en que hubiere causado ejecutoria o estado la resolución judicial y se expidan los oficios y copias certificadas de la misma o se hubiere notificado la resolución administrativa; y,
 
-III. La fecha de celebración del contrato privado o documento de que se trate.
+III. La fecha; de firma, autorización y conclusión de celebración del contrato privado o documento de que se trate.
 
-También se considerarán comprendidas en este Capítulo las manifestaciones de división o fusión de predios, en que no se opere transmisión de dominio alguno, porque las porciones del predio dividido no salen del dominio del propietario o porque los predios fusionados sean de un sólo propietario.
+También se considerarán comprendidas en este Capítulo las manifestaciones de división o fusión de predios, en que no se opere transmisión de dominio alguno, porque las porciones de predio dividido no salen del dominio del propietario o porque los predios divididos o fusionados sean de un sólo propietario.
 
-Los notarios públicos que autoricen dichas escrituras tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Tesorería Municipal correspondiente al lugar donde se ubique el predio, dentro del mismo término que establece el primer párrafo de este artículo, pudiendo emplear para este efecto, la manifestación que formulen en relación con el impuesto sobre Adquisición de Inmuebles y otras operaciones con bienes inmuebles.
+Los notarios públicos que autoricen en definitiva dichas escrituras tendrán obligación de mianifestar .también esos contratos, resoluciones o actos a la Tesorería Municipal correspondiente al lugar donde se ubique el predio, dentro del mismo término que establece el primer párrafo de este artículo, pudiendo emplear para este efecto, la manifestación que formulen en relación con el impuesto sobre adquisiciones de inmuebles y otras operaciones con bienes inmuebles
 
 ###### ARTÍCULO 40.
 
@@ -2138,6 +2140,26 @@ DÉCIMO SEGUNDO. Túrnese el presente Decreto al Titular de la Auditoría Superi
 DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
 
 DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
+
+P.O. 8 DE SEPTIEMBRE DE 2025.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMA EL ARTÍCULO 39 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Dese cuenta el presente Decreto al Titular de la Secretaría de Finanzas y Administración, para su conocimiento y los efectos correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Dese cuenta el presente Decreto a los 113 Municipios del Estado de Michoacán de Ocampo, para los efectos conducentes.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0618.- SE REFORMA EL ARTÍCULO 2248, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
