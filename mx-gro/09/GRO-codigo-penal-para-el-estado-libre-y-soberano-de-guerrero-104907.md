@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2025-07-15"
+last_updated: "2025-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2025.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -1959,7 +1959,9 @@ Si de la comisión de alguno de los delitos previstos en los artículos anterior
 
 Omisión de cuidado
 
-A quien abandone a una persona que no tenga capacidad para valerse por sí misma, teniendo la obligación de cuidarla, se le impondrán de tres meses a dos años de prisión o de cincuenta a doscientos días multa. Si el sujeto activo es ascendiente o tutor del sujeto pasivo se le suspenderá de la patria potestad o la tutela hasta por el doble del tiempo de la pena impuesta.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2025)</small>
+
+Se impondrá una pena de seis meses a tres años de prisión o de cien a trecientas (sic) veces el valor diario de la Unidad de Medida de Actualización (UMA), a quien, teniendo la obligación legal de cuidado, abandone a una persona que no pueda valerse por si misma, incluyendo a personas adultas mayores o en situación de discapacidad, siempre que del abandono no resulte lesión o daño alguno. Si el sujeto activo fuera ascendiente, descendiente, tutor o cuidador de la víctima, además de la sanción señalada, se le privará de los derechos inherentes a la patria potestad, custodia o tutela, así como del derecho a heredar, cuando legalmente corresponda.
 
 Si el sujeto activo es médico o profesionista similar o auxiliar, se le suspenderá en el ejercicio de su profesión hasta por dos años.
 
@@ -3413,7 +3415,9 @@ A quien se coloque en estado de insolvencia, con el objeto de eludir las obligac
 
 Extorsión.
 
-A quien obligue a otra persona a dar, hacer, dejar de hacer o tolerar algo, obteniendo un lucro indebido para sí o para una tercera persona, causando a alguien un perjuicio patrimonial, se le impondrán de diez a veinticinco años de prisión y de doscientos cincuenta a mil Unidades de Medida y Actualización.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2025)</small>
+
+A quien obligue a otra persona a dar, hacer, dejar de hacer o tolerar algo. obteniendo un lucro indebido para sí o para una tercera persona, causando a alguien un perjuicio patrimonial, se le impondrán de quince a treinta años de prisión y de cuatrocientas a mil doscientas Unidades de Medida y Actualización (UMA).
 
 ###### Artículo 244.
 
@@ -3434,6 +3438,14 @@ IV. El sujeto activo sea o haya sido, o se ostente sin serlo, integrante de algu
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2019)</small>
 
 V. Cuando el delito se cometa en contra de quien realice actividades comerciales, empresariales, de servicios públicos o privados, y cuya personalidad legal sea física o moral así como los vinculados a la docencia.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2025)</small>
+
+VI. El delito se cometa a través de medios digitales, telefónicos o de cualquier tecnología de la información y la comunicación.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2025)</small>
+
+VII. Si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
 
 Además de las sanciones que correspondan conforme a los párrafos anteriores, si el agente es servidor público será destituido del empleo, cargo o comisión, e inhabilitado por el mismo tiempo de la pena de prisión impuesta.
 
@@ -5728,3 +5740,23 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que sean contrarias al presente Decreto.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Honorable Congreso del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 258, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 167 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 9 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 259, POR EL QUE SE REFORMA EL ARTÍCULO 243 Y SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 244 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
