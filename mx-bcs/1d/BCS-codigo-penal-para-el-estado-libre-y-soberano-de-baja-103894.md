@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2025-05-20"
+last_updated: "2025-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -846,6 +846,10 @@ IV. El estado del equipo, vías y demás condiciones de funcionamiento mecánico
 Punibilidad de la tentativa. A quien resulte responsable de la comisión de un delito cometido en grado de tentativa, se le disminuirá una tercera parte de la pena correspondiente al delito doloso consumado que el sujeto activo quiso realizar.
 
 En la aplicación de las consecuencias jurídicas señaladas en este artículo, el juez o Tribunal de Enjuiciamiento tomará en consideración, además de lo previsto en el artículo 74 de este Código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro al que fue expuesto el bien jurídico.
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+A quien resulte responsable del delito de feminicidio en grado de tentativa, además de las penas que le correspondan, perderá la patria potestad sobre los descendientes que en común tenga con la víctima.
 
 ### CAPÍTULO IV. PUNIBILIDAD EN LOS CASOS DE CONCURSO DE DELITOS Y DELITO CONTINUADO
 
@@ -4301,11 +4305,11 @@ Si entre el activo y la víctima existió una relación sentimental, afectiva o 
 
 Artículo 390 TER. Agravantes. Las penas previstas en el artículo anterior se aumentarán en dos tercios en los siguientes casos:
 
-I. Cuando las lesiones sean provocadas mediante el empleo de ácidos o substancias corrosivas; o
+I. (DEROGADA, B.O. 10 DE SEPTIEMBRE DE 2025)
 
 II. Cuando las lesiones sean provocadas como resultado de un procedimiento consistente en la resección parcial o total de los genitales externos femeninos o mamas, así como otras lesiones de los órganos genitales femeninos por motivos no médicos.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 389.
 
@@ -4315,7 +4319,9 @@ Se considera que existen razones de género cuando concurra alguna de las siguie
 
 I. La víctima presente signos de violencia sexual de cualquier tipo;
 
-II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes, degradantes o ataques con ácido, sustancias químicas o corrosivas, previas o posteriores a la privación de la vida o actos de necrofilia;
 
 III. Existan antecedentes, datos o medios de prueba de cualquier tipo de violencia en el ámbito familiar, vecinal, laboral o escolar, del sujeto activo en contra de la víctima; independientemente de que exista denuncia o haya sido del conocimiento de alguna autoridad;
 
@@ -4343,15 +4349,47 @@ V.- Si la víctima se encontraba bajo el cuidado o responsabilidad del agente, u
 
 En el tipo penal de feminicidio, el sujeto activo puede ser persona conocida o desconocida y sin ningún tipo de relación con la víctima.
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima incluidos los de carácter sucesorio y el de ejercer la patria potestad sobre los descendientes que en común tenga con la víctima.
 
 En caso que no se acredite que existieron razones de género al privar de la vida a una mujer, se estará a la punibilidad prevista para el delito de homicidio calificado establecido en el artículo 132 y demás relativos y aplicables de este Código.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE ABRIL DE 2019)</small>
 
-### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES POLICIALES, DE SEGURIDAD PÚBLICA Y PROCURACIÓN DE JUSTICIA
+### CAPÍTULO IV. LESIONES POR ATAQUES CON ÁCIDO, SUSTANCIAS QUÍMICAS O CORROSIVAS
 
-> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+Artículo 390 QUATER.- Lesiones por ataques con ácido, sustancias químicas o corrosivas. A quien cause a otra persona un daño en la salud o una alteración que deje huella material en su cuerpo, utilizando para ello cualquier tipo de gas, compuesto (sic) químicos, ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en las condiciones utilizadas, provoque lesiones ya sean internas, externas o ambas, sin importar la temporalidad de estas, se le impondrá de siete a catorce años de prisión y multa de trescientos a setecientos días.
+
+La pena aumentará en una mitad en los siguientes casos:
+
+I. Cuando cause deformidad en el rostro, pérdida parcial o total del oído, vista, habla o incapacite de manera permanente para realizar actividades laborales, cause alteración o daño en el aparato genital o en las funciones del ejercicio de la sexualidad;
+
+II. Cuando afecte, dañe, entorpezca o debilite de manera permanentemente una extremidad, resección parcial o total en las mamas o cualquier otro órgano;
+
+III. Cuando la víctima sea un niño, niña o adolescente, o
+
+IV. Cuando la víctima sea una persona con discapacidad.
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+Artículo 390 QUINQUIES. Lesiones Agravadas por ataques con ácido, sustancias químicas o corrosivas en razón de género. Las penas previstas en el artículo anterior, se aumentaran en dos tercios, cuando las lesiones sean causadas mediante ataques con ácido, sustancias químicas o corrosivas en contra de una mujer en razón de su género.
+
+Se considera que las lesiones por ataques con ácido o similares son cometidas en razón de género cuando ocurra cualquiera de las siguientes circunstancias:
+
+I. Si entre el sujeto activo y la víctima existe o haya existido una relación sentimental, sexual, afectiva o de confianza, o cualquier otra relación de hecho o amistad;
+
+II. Si entre el sujeto activo y la víctima existe o haya existido una relación profesional, laboral, docente, religiosa, institucional, de servicio o cualquier otra que implique, de manera formal o de hecho, una relación de subordinación o superioridad;
+
+III. Si entre el sujeto activo y la víctima existe parentesco por consanguinidad, civil o afinidad;
+
+IV. Que previo a la lesión infligida existan antecedentes de violencia contra las mujeres o delitos de género, hayan existido amenazas, acecho, acoso o cualquier tipo de violencia o acto de agresión en el ámbito familiar, profesional, laboral, docente ejercido por parte del sujeto activo contra la mujer, o
+
+V. Cuando se cometa en contra de las mujeres transexuales o transgénero, en el ámbito profesional, laboral, relaciones sentimentales o cualquier otra, por razones que deriven de su orientación sexual, identidad o expresión de género.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE JUNIO DE 2019)</small>
 
 ###### Artículo 390.
 
@@ -4359,11 +4397,11 @@ En caso que no se acredite que existieron razones de género al privar de la vid
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE DICIEMBRE DE 2019)</small>
 
+### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES POLICIALES, DE SEGURIDAD PÚBLICA Y PROCURACIÓN DE JUSTICIA
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2019)</small>
+
 ### CAPÍTULO II. ACCESO ILÍCITO A SISTEMAS DE VIDEOVIGILANCIA
-
-> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
-
-### CAPÍTULO III. USO INDEBIDO DE SISTEMAS DE VIDEOVIGILANCIA
 
 > <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
 
@@ -4371,7 +4409,7 @@ En caso que no se acredite que existieron razones de género al privar de la vid
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE ENERO DE 2020)</small>
 
-### CAPÍTULO IV. DAÑO FÍSICO A LOS SISTEMAS DE VIDEOVIGILANCIA Y COMUNICACIONES
+### CAPÍTULO III. USO INDEBIDO DE SISTEMAS DE VIDEOVIGILANCIA
 
 > <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
 
@@ -4425,9 +4463,9 @@ III. Instituciones policiales, de seguridad pública, procuración de justicia y
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE ENERO DE 2020)</small>
 
-### CAPÍTULO ÚNICO. DELITO CONTRA LA LIBRE MANIFESTACIÓN DE LAS IDEAS
+### CAPÍTULO IV. DAÑO FÍSICO A LOS SISTEMAS DE VIDEOVIGILANCIA Y COMUNICACIONES
 
-> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 394.
 
@@ -4468,6 +4506,10 @@ Si el responsable es o hubiera sido servidor público en una institución de seg
 Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando la información obtenida se utilice en provecho propio o ajeno.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 20 DE ENERO DE 2020)</small>
+
+### CAPÍTULO ÚNICO. DELITO CONTRA LA LIBRE MANIFESTACIÓN DE LAS IDEAS
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 398.
 
@@ -4912,3 +4954,27 @@ B.O. 20 DE MAYO DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto y que se encuentren en trámite o pendientes de resolución, se seguirán substanciando hasta su conclusión conforme a las disposiciones vigentes y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+B.O. 10 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3158 SE REFORMA EL QUINTO PÁRRAFO DEL ARTÍCULO 389 Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 81 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido el delito contemplado en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+B.O. 10 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3179 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+TERCERO.- La Secretaría de Salud del Gobierno del Estado de Baja California Sur, contará con un lapso no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para coordinarse con las autoridades correspondientes del Poder Judicial y de la Procuraduría General de Justicia ambas del Estado de Baja California Sur, a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
+
+CUARTO.- Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
