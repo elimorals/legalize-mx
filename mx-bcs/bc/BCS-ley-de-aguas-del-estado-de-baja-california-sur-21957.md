@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-aguas-del-estado-de-baja-california-sur-21957"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-31"
-last_updated: "2023-05-20"
+last_updated: "2025-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de julio de 2001.
 
@@ -577,9 +577,11 @@ Los Organismos Operadores Municipales se crearán, previo acuerdo del Municipio 
 
 En el acuerdo de creación de los organismos descentralizados mencionados, se deberá establecer, el área geográfica en donde prestarán los servicios públicos.
 
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 26.
 
-Los Organismos Operadores Municipales no podrán contratar créditos con Instituciones Bancarias de manera directa.
+Los Organismos Operadores Municipales no podrán contratar créditos con Instituciones Bancarias de manera directa, sin que exista previamente la autorización de la Junta de Gobierno que corresponda al Director General a que se refiere la fracción VII del artículo 36 de la presente Ley, y en apego en lo conducente, a lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 27.
 
@@ -1797,15 +1799,19 @@ Transcurrido dicho plazo, la autoridad competente dictará la resolución que co
 
 Cuando los hechos que contravengan las disposiciones de esta Ley constituyan un delito, se formulará denuncia ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que procedan.
 
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 153.
 
-Los adeudos a cargo de usuarios de los servicios de agua potable y alcantarillado así como las multas, tendrán el carácter de créditos fiscales, cuando el servicio sea prestado directamente por los Ayuntamientos o por la Comisión Estatal del Agua.
+Los adeudos a cargo de usuarios de los servicios de agua potable y alcantarillado así como las multas y sus accesorios, tendrán el carácter de créditos fiscales, cuando el servicio sea prestado directamente por los Ayuntamientos, por los Organismos Operadores Municipales a que refiere la presente Ley, o por la Comisión Estatal del Agua.
 
 #### Sección segunda. Del pago de servicios y cobro de adeudos
 
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 154.
 
-Para el cobro de los adeudos por concepto de cuotas y tarifas, así como las multas que se impongan con motivo de las infracciones a la presente Ley y su Reglamento en el caso de que los Ayuntamientos o la Comisión Estatal del Agua presten directamente el servicio y que no fuesen cubiertas, serán exigidos mediante el procedimiento administrativo de ejecución previsto en el Capítulo Segundo del Título Quinto del Código Fiscal para el Estado y Municipios de Baja California Sur, de acuerdo a lo previsto en la presente Ley.
+Para el cobro de los adeudos por concepto de cuotas y tarifas, así como las multas que se impongan con motivo de las infracciones a la presente Ley y su Reglamento en el caso de que los Ayuntamientos, los Organismos Operadores Municipales o la Comisión Estatal del Agua presten directamente el servicio y que no fuesen cubiertas, serán exigidos mediante el procedimiento administrativo de ejecución previsto en el Capítulo Segundo del Título Quinto del Código Fiscal para el Estado y Municipios de Baja California Sur, de acuerdo a lo previsto en la presente Ley.
 
 #### Sección Tercera. De los recursos administrativos
 
@@ -1958,3 +1964,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Para efectos de lo previsto en la fracción V del artículo 30 del presente Decreto, se les concede a los organismos operadores municipales el término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a sus respectivos estatutos orgánicos.
 
 TERCERO.- Para efectos de lo previsto en la fracción VIII del artículo 10 del presente Decreto se le concede a la Comisión Estatal del Agua el término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias en su regulación interna.
+
+B.O. 10 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3173 SE REFORMAN TRES ARTÍCULOS DE LA LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto y en términos del mismo, los Ayuntamientos del Estado deberán modificar y/o actualizar las disposiciones administrativas que se emitan, así como las adecuaciones a los reglamentos correspondientes en la materia.
