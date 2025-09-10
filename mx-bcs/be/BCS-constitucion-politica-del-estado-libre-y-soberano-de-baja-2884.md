@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2025-07-07"
+last_updated: "2025-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1013,27 +1013,31 @@ III.- Estar en pleno goce de sus derechos y tener residencia efectiva no menor d
 
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
 
-> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-II.- Los Secretarios de Despacho del Poder Ejecutivo, la Procuradora o Procurador General de Justicia, la Fiscal o el Fiscal Especializado en materia de Combate a la Corrupción, las Magistradas o Magistrados del Tribunal Superior de Justicia, las Magistradas o Magistrados del Tribunal de Justicia Administrativa, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, las Juezas y Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días naturales antes de la fecha de las elecciones.
+II.- Las personas Titulares de las Secretarías y subsecretarías de Despacho del Poder Ejecutivo, de la Procuraduría General de Justicia, la Fiscalía Especializada en materia de Combate a la Corrupción, las personas Magistradas del Tribunal Superior de Justicia, las personas Magistradas del Tribunal de Justicia Administrativa, las personas integrantes del Tribunal de disciplina judicial y del órgano de administración judicial, las personas Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días naturales antes del día de la elección.
 
 III.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
 IV.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
-V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
+V.- Las personas militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección.
 
-VI.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección.
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+VI.- Las personas ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección y
 
-46.- Las diputadas y diputados al Congreso del Estado podrán ser reelectos, hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(ADICIONADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
+VII.- La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o relación de pareja, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
-La ley establecerá las reglas y condiciones que se observaran para hacer efectivo este principio.
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+46.- Las personas Diputadas al Congreso del Estado no podrán ser reelectas para el período inmediato posterior al ejercicio de su mandato.
+
+Las personas Diputadas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas Diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -1685,17 +1689,21 @@ Tampoco podrá ocupar el cargo para el período inmediato, el Gobernador interin
 
 Por ningún motivo podrán ser Gobernador:
 
-> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-I.- Los Secretarios de Despacho del Poder Ejecutivo, el Contralor General, el Procurador General de Justicia, el Fiscal Especializado en materia de Combate a la Corrupción, y en general, a los Titulares de las Dependencias de la Administración Pública Centralizada del Estado, los Magistrados del Tribunal Superior de Justicia,Magistrados (sic) del Tribunal de Disciplina Judicial, miembros del Órgano de Administración Judicial, los Jueces, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal Estatal de Justicia Administrativa del Estado de Baja California Sur, Diputados Locales, los Presidentes Municipales, funcionarios Estatales o Federales en el Estado, a menos que se separen de su cargo noventa días naturales antes de la fecha de las elecciones.
+I.- Las Personas Titulares de las Secretarías y subsecretarías de Despacho del Poder Ejecutivo, de la Contraloría General, de la Procuraduría General de Justicia, la Fiscalía Especializada en Materia de Combate a la Corrupción, y en general, las personas Titulares de las Dependencias de la Administración Pública Centralizada del Estado, las personas Magistradas del Tribunal Superior de Justicia, integrantes (sic) tribunal de disciplina Judicial y del órgano de administración judicial, las personas Jueces, las personas Magistrados del Tribunal Estatal Electoral, las personas Magistradas del Tribunal Estatal de Justicia Administrativa del Estado de Baja California Sur, las Personas Diputadas Locales, las Personas Alcaldes, las personas funcionarias Estatales o Federales en el Estado, a menos que se separen de su cargo noventa días naturales antes de la fecha de las elecciones.
 
 > <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
 
 II.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos noventa días anteriores al de la elección; y
 
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-III.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
+III.- Las personas ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
+
+> <small>(ADICIONADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+IV.- La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o relación de pareja, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
 
 #### SECCION II. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
@@ -2551,6 +2559,10 @@ IV.- El ayuntamiento de La Paz, iniciará su periodo el 28 de Septiembre del añ
 
 V.- El ayuntamiento de Los Cabos, iniciará su periodo el 29 de Septiembre del año de la elección.
 
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o relación de pareja, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
+
 > <small>(REFORMADO, B.O. 30 DE ABRIL DE 1981)</small>
 
 119.- Los Municipios podrán tener representación en los Organismos Federales y Estatales que actúen dentro de su jurisdicción.
@@ -2769,13 +2781,15 @@ VI.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualquiera que sea su calidad, el origen y la forma de su designación
 
-> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-II.- Quienes desempeñen, con excepción de los docentes, cargos o comisión del Gobierno Federal o Estatal, de Secretario de Despacho o su equivalente del Poder Ejecutivo, de Procurador General de Justicia, Fiscal Especializado en Materia de Combate a la Corrupción, de Magistrado del Tribunal Superior de Justicia, de Juez, de Magistrado del Tribunal Estatal Electoral, de Magistrado del Tribunal de Justicia Administrativa del Estado de Baja California Sur, de Presidente Municipal o miembro de Ayuntamiento a menos que se separe sesenta días naturales anteriores al día de la elección. Cuando se renueve el Titular del Poder Ejecutivo Estatal, Diputados y Ayuntamientos, la separación del cargo deberá ser al menos noventa días naturales antes de la fecha de las elecciones.
+II.- Quienes desempeñen, con excepción de las personas docentes, cargos o comisión del Gobierno Federal o Estatal, las personas Titulares de las Secretarias y subsecretarias de Despacho o su equivalente del Poder Ejecutivo, las personas Procuradora General de Justicia, Fiscal Especializado en Materia de Combate a la Corrupción, la (sic) personas Magistradas del Tribunal Superior de Justicia, Juezas, personas integrantes (sic) tribunal de disciplina Judicial y del órgano de administración judicial, Magistradas del Tribunal Estatal Electoral, Magistradas del Tribunal de Justicia Administrativa del Estado de Baja California Sur, a menos que se separe sesenta días naturales anteriores al día de la elección.
 
 III.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
 
-IV.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Las personas ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
 
 (REFORMADO, B.O. 14 DE JULIO DE 1995)(F. DE E., B.O. 18 DE AGOSTO DE 1995)
 
@@ -2785,9 +2799,9 @@ IV.- Los ministros de algún culto religioso, a menos que se separen formal, mat
 
 140.- La Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur regulará la preparación, desarrollo y vigilancia del proceso comicial para la renovación de Ayuntamientos.
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-141.- Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos que hayan estado en ejercicio, podrán ser reelectos para un período adicional, siempre y cuando el período del mandato de los Ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+141.- Las personas Alcaldes, Síndicas y Regidoras de los Ayuntamientos que hayan estado en ejercicio, no podrán ser reelectas para el período inmediato posterior al ejercicio de su mandato. Las personas servidoras antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes si podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 142.- En caso de ausencia temporal que no exceda de treinta días del Presidente Municipal, pasará a desempeñar sus funciones el Primer Regidor.
 
@@ -5016,3 +5030,15 @@ Una vez que entre en vigor la legislación a la que hacen referencia los artícu
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 10 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3183 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EN MATERIA DE NEPOTISMO ELECTORAL Y NO REELECCIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja california Sur.
+
+Segundo. Las adiciones de la fracción VII al artículo 45, la fracción I al artículo 78 y el tercer párrafo al artículo 118 de esta constitución, respecto de la prohibición de nepotismo electoral, serán aplicables a partir de los procesos electorales locales a celebrarse en 2030.
+
+Tercero. Las reformas a los artículos 46 y 141 de esta Constitución, respecto de la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir de los procesos electorales locales a celebrarse en 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+Cuarto - La XVII Legislatura al H. Congreso del Estado de Baja California Sur, revisará el marco jurídico local y realizará, en su caso, los ajustes necesarios a los ordenamientos secundarios en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente decreto.
