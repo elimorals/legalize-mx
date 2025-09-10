@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2025-04-30"
+last_updated: "2025-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -2025,7 +2025,9 @@ V.- Designación del cónyuge al que corresponderá el uso del domicilio conyuga
 
 VI.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, así como la forma de liquidarla, exhibiendo para ese efecto las capitulaciones matrimoniales, el inventario, el avaluó y el proyecto de partición;
 
-VII.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes, deberá señalarse la compensación a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado al trabajo del hogar y, en su caso, al cuidado de los hijos, siempre que éste no haya adquirido bienes propios o éstos sean notoriamente menores a los adquiridos por el otro cónyuge.
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+VII.- Si el matrimonio se celebró bajo el régimen de separación de bienes y uno de los cónyuges se hubiere dedicado preponderantemente a las labores no remuneradas del hogar y, en su caso, al cuidado de los hijos o de personas en situación de dependencia dentro del mismo hogar durante el tiempo que haya durado el matrimonio, o que la mayor parte de sus ingresos los hubiese invertido en el mantenimiento del hogar, la familia y personas dependientes dentro del mismo hogar y por esto no adquirió bienes o los bienes adquiridos sean notoriamente menores a los adquiridos por el otro cónyuge, tendrá derecho a una compensación por parte de su cónyuge hasta por el cincuenta por ciento del valor de los bienes que ambos cónyuges juntos o por separado hubieren adquirido durante el matrimonio, con excepción de donaciones y herencias, considerando las reglas establecidas en este código respecto de los bienes propios y los comunes y en base al avalúo pericial de los mismos.
 
 > <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
 
@@ -2034,6 +2036,14 @@ Artículo 305 B.- Con la demanda de divorcio y la propuesta de convenio se dará
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Artículo 305 C.- El convenio puede ser impugnado por el cónyuge demandado, especificando las causas, además de proponer las modificaciones pertinentes, debiendo resolverse en audiencia incidental, con la presencia de las partes y sus representantes, en la que el juez tratará de conciliar y sólo que esto no sea posible, resolverá lo que corresponda.
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+Cuando el motivo de la impugnación sea la compensación económica a que se refiere la fracción VII del artículo 305 A de este Código, el Juez determinará el monto que corresponda en base a la relación de bienes declarada por cada cónyuge y al avalúo pericial de los mismos.
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+Para el cálculo de la compensación antes precisada, el Juez deberá considerar las circunstancias especiales de cada caso.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2366,6 +2376,18 @@ IV.- Porque se dé en forma unilateral por terminada la relación, mediante avis
 ###### Artículo 340.
 
 La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos, en los términos establecidos en el capitulo correspondiente de este código. Atendiendo a las circunstancias del caso, el juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubino, no tengan bienes o estén imposibilitados para trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+Si uno de los concubinos se hubiere dedicado preponderantemente a las labores no remuneradas del hogar y, en su caso, al cuidado de los hijos o de personas en situación de dependencia dentro del mismo hogar durante el tiempo que haya durado el concubinato, o que la mayor parte de sus ingresos los hubiese invertido en el mantenimiento del hogar, la familia y personas dependientes dentro del mismo hogar y por esto no adquirió bienes o los bienes adquiridos sean notoriamente menores a los adquiridos por el otro concubino, tendrá derecho a una compensación por parte de su concubino hasta por el cincuenta por ciento del valor de los bienes que ambos concubinos juntos o por separado hubieren adquirido durante el concubinato, con excepción de donaciones y herencias, con base al avalúo pericial de los mismos.
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+Esta acción deberá ejercerse dentro de los seis meses siguientes a la disolución del concubinato.
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+Para el cálculo de la compensación antes precisada, el Juez deberá considerar las circunstancias especiales de cada caso.
 
 ## TÍTULO OCTAVO. Del parentesco
 
@@ -16416,3 +16438,9 @@ B.O. 30 DE ABRIL DE 2025.
 PRIMERO.- Publíquese el presente decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el cual entrara en vigor al día siguiente de su publicación.
 
 SEGUNDO.- la Dirección General del registro Civil deberá armonizar su reglamento y demás disposiciones legales aplicables a lo establecido en el presente decreto.
+
+B.O. 10 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3176 SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 305 A Y SE ADICIONAN LOS ARTÍCULOS 305 C Y 340 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
