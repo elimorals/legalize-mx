@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2025-08-01"
+last_updated: "2025-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2025.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1257,21 +1257,37 @@ III. La revocación de mandato de la persona titular de la Gubernatura:
 
 El proceso de revocación de mandato de la persona titular de la Gubernatura del Estado de Oaxaca, se llevará a cabo conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2025 Y SU ACUMULADA 118/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO a) DE LA FRACCIÓN III DEL APARTADO C DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-a) Será convocado por el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca a petición de la ciudadanía, en un número equivalente, al menos, al diez por ciento de la lista nominal de electores del estado, en la mitad más uno de los municipios.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-El Instituto, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
+a) Será convocado por el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca a petición de la Ciudadanía, en un número equivalente, al menos, al diez por ciento de la lista nominal de electores del Estado, en la mitad más uno de los municipios Y QUE REPRESENTE, COMO MÍNIMO EL DIEZ POR CIENTO DE LA LISTA NOMINAL DE ELECTORES DE CADA UNO DE ELLOS.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-b) Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional.
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2025 Y SU ACUMULADA 118/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DEL INCISO b) DE LA FRACCIÓN III DEL APARTADO C DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "los tres meses posteriores"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-La ciudadanía podrá recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+b) Se podrá solicitar en una sola ocasión y durante EL MES POSTERIOR a la conclusión del tercer año del periodo Constitucional.
 
-c) Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales.
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2025 Y SU ACUMULADA 118/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA "EL MES POSTERIOR" Y POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS “LAS Y LOS CIUDADANOS INTERESADOS EN QUE SE INICIE EL PROCESO, PRESENTARÁN UNA SOLICITUD AL INSTITUTO DURANTE” Y “A LA CONCLUSIÓN DEL TERCER AÑO DEL PERIODO CONSTITUCIONAL DE LA PERSONA QUE OSTENTE LA TITULARIDAD DE LA GUBERNATURA DEL ESTADO” DEL PÁRRAFO SEGUNDO DEL INCISO b) DE LA FRACCIÓN III DEL APARTADO C DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA ENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+LAS Y LOS CIUDADANOS INTERESADOS EN QUE SE INICIE EL PROCESO, PRESENTARÁN UNA SOLICITUD AL INSTITUTO DURANTE EL MES POSTERIOR A LA CONCLUSIÓN DEL TERCER AÑO DEL PERIODO CONSTITUCIONAL DE LA PERSONA QUE OSTENTE LA TITULARIDAD DE LA GUBERNATURA DEL ESTADO.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+Para ello, el Instituto emitirá durante los primeros diez días del mes de octubre del mismo año los formatos impresos y medios electrónicos autorizados para la recopilación de firmas. Se difundirá el número de firmas de apoyo requeridas y cada una de las variantes que deberán reunir la solicitud para su procedencia de conformidad con los supuestos previstos en la Ley, así como los lineamientos que se emitan.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+Una vez recibida la solicitud, el Instituto calificará su legalidad dentro de los siguientes diez días naturales. Al computarse el número de solicitudes exigidas por esta Constitución, el Instituto emitirá dentro de los tres días naturales siguientes la Convocatoria al proceso para la revocación de mandato.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+c) Se realizará mediante votación libre, directa y secreta de ciudadanas y ciudadanos inscritos en la lista nominal, el domingo siguiente a los treinta días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -6974,3 +6990,15 @@ En este orden de ideas, no se considerará patrón sustituto ni responsable soli
 NOVENO. El patrimonio del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, mismo que define el artículo 76 de la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca, se considera bienes pertenecientes al Estado de Oaxaca, por tanto, son inembargables. En consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Órgano Garante, el Gobierno del Estado o de su hacienda, conforme a lo establecido en el artículo sexto de la Ley de Bienes pertenecientes al Estado de Oaxaca.
 
 DÉCIMO. Una vez extinto el Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, se suspenderán los plazos para la tramitación de recursos de revisión, quejas y denuncias, así como, la publicación y/o actualización de las obligaciones de transparencia y la solventación de las mismas para todos los sujetos obligados del Estado de Oaxaca que se encuentren en trámite por un periodo de treinta días naturales, con excepción de la recepción y atención de las solicitudes de acceso a la información y solicitudes de acceso, rectificación, cancelación y oposición de datos personales, que se tramitan a través de la Plataforma Nacional de Transparencia.
+
+P.O. 10 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 753.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO DEL INCISO A), LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL INCISO B), EL INCISO C); SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL INCISO B); Y SE DEROGA EL PÁRRAFO SEGUNDO DEL INCISO A), TODOS DE LA FRACCIÓN III DEL APARTADO C DEL ARTÍCULO 25, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido establecido en el presente Decreto y sus Transitorios.
+
+TERCERO. El consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo, vigilancia y fiscalización del proceso de revocación de mandato y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, y objetividad.
+
+CUARTO. La Secretaría de Finanzas del Gobierno del Estado y el Honorable Congreso del Estado, en coordinación con el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, acordarán y realizarán las adecuaciones presupuestarias que resulten necesarias para el Ejercicio Fiscal 2026, de tal forma que sea factible la realización de un proceso de revocación de mandato.
