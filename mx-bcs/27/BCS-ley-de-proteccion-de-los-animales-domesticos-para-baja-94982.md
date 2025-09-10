@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-de-los-animales-domesticos-para-baja-94982"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-20"
-last_updated: "2021-07-31"
+last_updated: "2025-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS PARA BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de junio de 2021.
 
@@ -377,21 +377,23 @@ En el caso de que las infracciones, hayan sido cometidas por personas que ejerza
 
 Los propietarios, administradores o encargados de rastros que no cumplan con las disposiciones señaladas en esta ley, se harán acreedores a multas que podrán ser desde el equivalente a cuatro hasta sesenta veces el valor diario de la Unidad de Medida y Actualización y en su caso la cancelación de los permisos para ejercer las actividades propias de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-Se considerarán actos en perjuicio de los animales, los siguientes:
+Se considerarán actos en perjuicio de los animales protegidos por la presente ley, los siguientes:
 
-> <small>(REFORMADA, B.O. 31 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-I. Cualquier lesión o mutilación causada a propósito a un animal que dependan o vivan bajo la tutela del ser humano, así como a cualquier animal abandonado, de monta o feral, realizado por su propietario o por el encargado de su guarda o custodia, por persona conocida o cualquier persona, exceptuando castración eventual que será efectuada siempre con anestesia.
+I. Cualquier lesión o mutilación causada a un animal que dependan o vivan bajo la tutela del ser humano, así como a cualquier animal abandonado, de monta o feral, realizado por su propietario o por el encargado de su guarda o custodia, por persona conocida o cualquier persona, exceptuando las realizadas bajo causa justificada por quienes estén legalmente autorizados para realizar dichas actividades o prácticas de la materia, así como castración eventual que será efectuada siempre con anestesia.
 
 II. Atropellar cualquier animal pudiendo evitarlo y el abandono de un animal atropellado realizado por el autor del mismo;
 
 III. La omisión por parte de los propietarios o poseedores de perros, de aplicar por sí mismos, o por persona especializada, con toda oportunidad, y sistemáticamente las vacunas oficiales contra la rabia;
 
-> <small>(REFORMADA, B.O. 31 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-IV. Abandonar a los animales objeto de protección de la presente ley o a sus crías en la vía pública, en baldíos, en el monte, en vivienda deshabitada, o en cualquier otro lugar que ponga en peligro su vida; y
+IV. Abandonar a los animales objeto de protección de la presente ley o a sus crías en la vía pública, en baldíos, en el monte, en vivienda deshabitada, o en cualquier otro lugar que ponga en peligro su integridad física o vida; y
 
 V. Las demás que se desprendan de lo dispuesto por esta ley.
 
@@ -474,3 +476,11 @@ Segundo. El presente Decreto entrará en vigor al día siguiente de su Publicaci
 Sin perjuicio de lo establecido en el párrafo anterior, el Artículo 31 adicionado por el presente Decreto, entrara en vigor hasta 01 de enero del año 2022. En los presupuestos de egresos para el ejercicio fiscal 2022 del Gobierno del Estado de Bajo California Sur y de los Ayuntamientos, se deberán contemplar los recursos necesarios para el cumplimiento del referido artículo.
 
 Tercero. Se deroga toda norma y/o disposición de orden civil o de cualquier otro ordenamiento que se oponga al presente Decreto y aquellos porciones normativas que se opongan al objeto de protección de la "Ley de Protección de los Animales Domésticos para Baja California Sur".
+
+B.O. 10 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3160 SE REFORMAN LAS FRACCIONES I Y IV DEL ARTÍCULO 27 DE LA LEY DE PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS PARA BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los Ayuntamientos en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente decreto, deberán realizar las modificaciones y adecuaciones a la normatividad de su reglamentación y competencia, para dar cumplimiento al presente Decreto.
