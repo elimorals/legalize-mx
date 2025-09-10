@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2024-07-31"
+last_updated: "2025-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -151,7 +151,9 @@ Los tipos de Violencia contra las Mujeres son:
 
 I. La violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
-II. La violencia física.- Es cualquier acto que inflija daño no accidental, usando la fuerza física o algún tipo de arma, sustancia u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
+> <small>(REFORMADA, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+II. Violencia Física: Es cualquier acción u omisión que cause o pretenda causar daño en la integridad física de la mujer, provocando lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
 
 III. La violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la afectada. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la mujer;
 
@@ -191,9 +193,13 @@ VIII QUATER. Violencia Vicaria: Es una violencia que se ejerce por parte de quie
 
 Esta violencia puede ir, de manera enunciativa, desde amenazas verbales de sus parejas, donde refieren que alejarán a sus hijas e hijos de ellas, el hecho de retener una pensión económica y/o falta de pago de éstas; así como el hecho de la retención y/o sustracción de un hijo menor de edad, hasta la interposición de denuncias bajo hechos falsos, alargamiento de procesos judiciales, con la intención de romper el vínculo materno filial; o a través de la realización de cualquier otra conducta ejercida por la persona agresora, como medio o instrumento para dañar a la mujer, y
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 20 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE SEPTIEMBRE DE 2025)</small>
 
-IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+IX. Violencia por ataques con ácido, sustancias químicas o corrosivas: Es cualquier acción u omisión que cause o pretenda causar daño no accidental arrojando, derramando o poniendo en contacto con algún tipo de gas, compuestos químicos, ácidos, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en determinadas condiciones pueda provocar lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro su vida.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ### CAPÍTULO II. MODALIDADES DE VIOLENCIA
 
@@ -966,6 +972,10 @@ e. Los recursos erogados en la atención médica.
 > <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
 f. Casos de violencia obstétrica y morbilidad materna.
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+g. Casos de violencia por ataques con ácido, sustancias químicas o corrosivas.
 
 XV. Celebrar convenios de cooperación en la materia con los municipios e instituciones públicas y privadas de educación; y
 
@@ -1862,3 +1872,17 @@ B.O. 31 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 3060 SE REFORMAN LOS ARTÍCULOS 9°, 49 Y 50 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3179 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+TERCERO.- La Secretaría de Salud del Gobierno del Estado de Baja California Sur, contará con un lapso no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para coordinarse con las autoridades correspondientes del Poder Judicial y de la Procuraduría General de Justicia ambas del Estado de Baja California Sur, a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
+
+CUARTO.- Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
