@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-revocacion-de-mandato-para-el-estado-de-oaxaca-164072"
 country: "mx"
 rank: "ley"
 publication_date: "2023-01-30"
-last_updated: "2023-01-30"
+last_updated: "2025-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE REVOCACIÓN DE MANDATO PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el lunes 30 de enero de 2023.
 
@@ -103,9 +103,13 @@ XIV. Tribunal electoral: El Tribunal Estatal Electoral de Oaxaca.
 
 #### SECCIÓN PRIMERA. DE LOS SUJETOS
 
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2025 Y SU ACUMULADA 118/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 7.
 
-El inicio del proceso de revocación de mandato solamente procederá a petición de la ciudadanía en un número equivalente, al menos, del diez por ciento de las inscritas (sic) en la lista nominal de electores, siempre y cuando la solicitud corresponda a la mitad más uno de los municipios.
+El inicio del proceso de revocación de mandato solamente procederá a petición de la ciudadanía en un número equivalente, al menos, al diez por ciento de las inscritas en la lista nominal de electores, siempre y cuando la solicitud corresponda, por lo menos, a la mitad más uno de los municipios Y QUE REPRESENTE, COMO MÍNIMO EL DIEZ POR CIENTO DE LA LISTA NOMINAL DE ELECTORES DE CADA UNA DE ELLOS.
 
 ###### Artículo 8.
 
@@ -121,9 +125,13 @@ IV. No contar con sentencia ejecutoriada que suspenda sus derechos políticos.
 
 La ciudadanía oaxaqueña que resida en el extranjero, podrá ejercer su derecho al voto en la revocación de mandato, aplicándose en lo conducente lo dispuesto en la Ley Electoral.
 
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2025 Y SU ACUMULADA 118/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "los tres meses posteriores"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 9.
 
-El inicio del proceso de revocación de mandato podrá solicitarse, por una sola ocasión, durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional de la persona titular de la Gubernatura del Estado.
+El proceso de revocación de mandato podrá solicitarse, por una sola ocasión, durante EL MES POSTERIOR a la conclusión del tercer año del periodo constitucional de la persona titular de la Gubernatura del Estado.
 
 ###### Artículo 10.
 
@@ -133,11 +141,17 @@ La presentación de varias solicitudes para iniciar el proceso de revocación de
 
 #### SECCIÓN SEGUNDA. DE LA FASE PREVIA
 
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2025 Y SU ACUMULADA 118/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 11.
 
-Las ciudadanas y ciudadanos interesados en presentar la solicitud, deberán informar su intención al Instituto, durante el primer mes posterior a la conclusión del tercer año del periodo constitucional de la persona que ostente la titularidad del (sic) Gubernatura del Estado. A ese efecto, podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha señalada anteriormente. El Instituto emitirá, a partir de esta fecha, los formatos impresos y medios electrónicos para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+Las ciudadanas y ciudadanos interesados en presentar la solicitud, deberán hacerlo ante el Instituto, durante EL MES POSTERIOR a la conclusión del tercer año del periodo constitucional de la persona que ostente la titularidad de la Gubernatura del Estado. A ese efecto, podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha señalada anteriormente.
 
-De forma inmediata, y sin mayor trámite, el Instituto les proporcionará el formato autorizado para la recopilación de firmas y les dará a conocer de forma detallada el número mínimo de firmas de apoyo requeridas y cada una de las variantes que deberán reunir para la procedencia de su solicitud, de conformidad con los supuestos previstos en el artículo 7 de esta Ley.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+El Instituto emitirá, durante los primeros diez días del mes de octubre del mismo año, los formatos autorizados impresos y medios electrónicos para la recopilación de firmas; dará a conocer de forma detallada el número mínimo de firmas de apoyo requeridas y cada una de las variantes que deberán reunir para la procedencia de la solicitud, de conformidad con los supuestos previstos en el artículo 7 de esta Ley. En ese mismo plazo, el Instituto aprobará los lineamientos para el procedimiento de revocación de mandato.
 
 El formato que apruebe el Consejo General deberá contener únicamente:
 
@@ -209,7 +223,9 @@ III. El nombre de la persona que ocupa la titularidad de la Gubernatura del Esta
 
 IV. Fecha de la jornada de votación en la que habrá de decidirse sobre la revocación de mandato;
 
-V. La pregunta objeto del proceso, la cual deberá ser: ¿Estás de acuerdo en que el (nombre) Gobernador o la Gobernadora del Estado se le revoque el mandato por pérdida de confianza o que siga en la Gubernatura hasta que termine su periodo?;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+V. La pregunta objeto del proceso, la cual deberá ser: ¿Estás de acuerdo en que el (nombre) Gobernador o la Gobernadora del Estado se le revoque el mandato por pérdida de confianza o que siga en la Gubernatura hasta que termine su periodo?, así como las respuestas optativas: 1. Que se revoque el mandato por pérdida de la confianza, y 2. Que siga en la Gubernatura;
 
 VI. Las reglas para la participación de las ciudadanas y los ciudadanos; y
 
@@ -227,9 +243,11 @@ La Convocatoria que expida el Instituto, deberá publicarse en su portal oficial
 
 Al Instituto le corresponde verificar el porcentaje establecido en el artículo 7 de esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-El Instituto, a través de la Secretaría Ejecutiva, en coordinación con el INE, dentro del plazo de treinta días naturales, contados a partir de que reciba la solicitud, verificará que los nombres de quienes hayan suscrito la petición de revocación de mandato aparezcan en la lista nominal de electores y que corresponda a los porcentajes requeridos conforme a lo establecido en el artículo 7 de esta Ley.
+El Instituto, a través de la Secretaría Ejecutiva, en coordinación con el INE, dentro del plazo de diez días naturales, contados a partir de que sea presentada la solicitud de revocación de mandato, verificará que los nombres de quienes hayan suscrito la petición de revocación de mandato aparezcan en la lista nominal de electores y que corresponda a los porcentajes requeridos conforme a lo establecido en el artículo 7 de esta Ley.
 
 ###### Artículo 23.
 
@@ -273,9 +291,11 @@ Para la preparación de dicho mecanismo de participación ciudadana el Instituto
 
 El INE y el Instituto, dentro del ámbito de sus atribuciones, son los responsables directos de la organización, desarrollo y cómputo de la votación de los procesos de revocación de mandato y de llevar a cabo la promoción del voto, en términos de esta Ley y de la Ley electoral, garantizando la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, paridad y perspectiva de género en el ejercicio de la función de la participación ciudadana.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 28.
 
-Si de la revisión del informe se concluye que se cumplieron todos y cada uno de los supuestos previstos en el artículo 8 de esta Ley, el Consejo General deberá emitir inmediatamente la Convocatoria correspondiente, en caso contrario deberá desechar la solicitud y archivarla como asunto total y definitivamente concluido.
+Si de la revisión del informe se concluye que se cumplieron todos y cada uno de los supuestos previstos en el artículo 8 de esta Ley, el Consejo General deberá emitir dentro de los tres días naturales siguientes la Convocatoria correspondiente, en caso contrario deberá desechar la solicitud y archivarla como asunto total y definitivamente concluido.
 
 ###### Artículo 29.
 
@@ -397,7 +417,9 @@ El INE podrá designar adicionalmente a uno o más ciudadanas o ciudadanos para 
 
 La jornada de revocación de mandato se sujetará al procedimiento dispuesto para la celebración de la jornada electoral contenido en el Título Tercero del Libro Quinto de la Ley electoral, con las particularidades que prevé la presente sección.
 
-La jornada de votación se celebrará el domingo siguiente a los noventa días posteriores a la emisión de la Convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales, de conformidad con la Convocatoria que al efecto emita el Consejo General.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+La jornada de votación se celebrará el domingo siguiente a los treinta días posteriores a la emisión de la Convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales, de conformidad con la Convocatoria que al efecto emita el Consejo General.
 
 ###### Artículo 41.
 
@@ -558,3 +580,15 @@ CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del pre
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 18 de Enero de 2023.- Dip. Miriam de los Ángeles Vázquez Ruiz, Presidenta.- Dip. Nancy Natalia Benítez Zárate, Vicepresidenta.- Dip. Dennis García Gutiérrez, Secretaria.- Dip. María Luisa Matus Fuentes, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 26 de Enero de 2023. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Ing. Salomón Jara Cruz.- Rúbrica.- El Secretario de Gobierno. Lcdo. José de Jesús Romero López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 754.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 7 Y 9, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 11, LA FRACCIÓN V DEL ARTÍCULO 19, LOS ARTÍCULOS 22 Y 28, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 40, TODOS DE LA LEY DE REVOCACIÓN DE MANDATO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
