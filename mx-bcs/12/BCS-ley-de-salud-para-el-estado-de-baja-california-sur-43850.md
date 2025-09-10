@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2025-07-10"
+last_updated: "2025-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -456,6 +456,10 @@ VIII.- Vigilar y hacer cumplir las disposiciones legales en materia de su compet
 El Gobierno del Estado y los Municipios, de conformidad con las disposiciones legales aplicables, aportarán los recursos humanos, materiales y financieros que sean necesarios para la operación de los servicios de salubridad local que queden comprendidos en los convenios que celebren.
 
 Los recursos que aporten las partes quedarán expresamente destinados a los fines del convenio respectivo y sujetos al régimen local que les corresponda.
+
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)</small>
+
+El monto de los recursos que destine el Gobierno del Estado para la prestación gratuita de servicios de salubridad local, no deberá ser inferior al del ejercicio fiscal inmediato anterior, siempre y cuando queden comprendidos en los convenios que se celebren, así como en las disposiciones presupuestarias aplicables y sujeto a la disponibilidad presupuestaria, en los términos de lo dispuesto por el artículo 77 bis 13 de la Ley General de Salud.
 
 ###### ARTÍCULO 22.
 
@@ -3564,3 +3568,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO.- La Secretaría de Salud contara con un plazo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, para generar y elaborar los programas de educación, prevención, información, socialización y detección de cáncer de próstata a ejecutar, así como los convenios de colaboración que en su caso se celebren para su cumplimiento.
 
 TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de los ejecutores de gasto que correspondan.
+
+B.O. 10 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3164 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 21 DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
