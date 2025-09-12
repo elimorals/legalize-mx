@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2025-06-14"
+last_updated: "2025-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -2377,11 +2377,17 @@ PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno d
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-TERCERO. Quedan a salvo los derechos laborales del personal de base que hayan estado adscritos hasta antes del presente Decreto, quienes continuarán rigiéndose por lo dispuesto en el Apartado "B" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2025)</small>
 
-CUARTO. El personal de base que ingrese después de la vigencia del presente decreto, regirá su relación laboral por lo dispuesto en el Apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+TERCERO. El personal de base y nombramiento de confianza que haya sido transferido a la Coordinación Estatal de Protección Civil y Gestión de Riesgo, deberá reincorporarse a la Secretaría de Gobierno a partir del 16 de septiembre de 2025.
 
-QUINTO. La Coordinación Estatal de Protección Civil y Gestión de Riesgos deberá a la brevedad posible, llevar a cabo los procedimientos correspondientes para registrar al personal de contrato, confianza, mandos medios y superiores en el régimen de seguridad social del Instituto Mexicano del Seguro Social.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2025)</small>
+
+CUARTO. Las Secretarías de Finanzas, de Gobierno, de Administración y de Honestidad Transparencia y Función Pública, en uso de sus facultades legales, realizarán los actos concernientes para el debido cumplimiento del presente Decreto.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2025)</small>
+
+QUINTO. La Coordinación Estatal de Protección Civil y Gestión de riesgos deberá a la brevedad posible, llevar a cabo los procedimientos correspondientes para registrar al personal de contrato (sic) confianza, mandos medios y superiores en el régimen de seguridad social del Instituto Mexicano del Seguro Social y su relación laboral se regirá por lo dispuesto en el Apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 P.O. 14 DE JUNIO DE 2025.
 
@@ -2390,3 +2396,11 @@ P.O. 14 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 12 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 764.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS TRANSITORIOS TERCERO, CUARTO Y QUINTO, DEL DECRETO 623, PUBLICADO EN FECHA 12 DE ABRIL DE 2025, MEDIANTE EL QUE SE REFORMÓ LA FRACCIÓN LXIX DEL ARTÍCULO 4; EL ARTÍCULO 22; EL PRIMER PÁRRAFO, LAS FRACCIONES I Y III, Y LOS NUMERALES 1 Y 2 DEL INCISO B) DEL ARTÍCULO 33; Y SE ADICIONA EL NUMERAL 10 AL ARTÍCULO 33; LAS FRACCIONES LVIII Y LIX RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 35, Y EL ARTÍCULO 36 BIS, TODOS DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
