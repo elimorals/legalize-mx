@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2025-09-02"
+last_updated: "2025-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -4869,13 +4869,33 @@ Esta disposición no surtirá efectos en los casos de delitos no graves por culp
 
 En el caso de Homicidio y lesiones calificadas contra algún miembro activo de las instituciones policiales del Estado, se atenderá a los (sic) dispuesto en el artículo 147 del presente Código.
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 317 Ter.
 
-Tipo y punibilidad.- Al que, con el propósito de obstruir el desempeño de las instituciones de seguridad pública o procuración de justicia, aceche, vigile u obtenga información y comunique a otro por cualquier medio con la intención de eludir, facilitar o encubrir un delito, se le impondrá una pena de uno a cinco años de prisión y multa de cien hasta cuatrocientas veces la Unidad de Medida y Actualización (UMA) vigente.
+Tipo y punibilidad.– Se le impondrá una pena de tres a ocho años de prisión y multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización (UMA) vigente, así como la reparación del daño a quien:
 
-La pena señalada en el párrafo anterior se aumentará hasta en una mitad cuando se utilicen niñas, niños, adolescentes o personas que no tienen la capacidad para comprender el significado del hecho o se utilice algún vehículo de servicio público de transporte u otro que, por sus características exteriores, haga parecer que se trata de vehículos destinados al servicio de transporte público, o de alguna institución de seguridad pública.
+I. Aceche, vigile o realice actos tendientes a obtener información de las instituciones de seguridad pública y de procuración de justicia sin contar con el derecho o la autorización legal correspondiente para ello, y la utilice para sí o comunique a otro por cualquier medio con la finalidad de:
+
+a. Cometer, organizar, planear, facilitar o encubrir un delito; o,
+
+b. Entorpecer, eludir, obstaculizar o impedir el cumplimiento de las funciones de las citadas instituciones públicas.
+
+II. Intervenga, dañe o altere los elementos que integran el sistema de video vigilancia de seguridad pública, instaladas en la vía pública o en inmuebles destinados a la prestación de un servicio público.
+
+III. Instale sistemas de video vigilancia, en la vía pública o en inmuebles destinados a la prestación de un servicio público, sin la autorización de la institución de seguridad pública o de procuración de justicia que los tenga a su cargo, así como de las demás autoridades correspondientes.
+
+No serán objeto de delito los sistemas de video vigilancia que se dirijan o enfoquen hacia la vía pública o inmuebles destinados a la prestación de un servicio público, cuando se instalen en bienes de su propiedad, bajo su posesión o en los límites de estos.
+
+Se aumentará la pena señalada en este artículo hasta en una mitad cuando:
+
+I. El autor sea o haya sido servidor público o integrante de instituciones de seguridad pública, procuración de justicia o administración de justicia.
+
+II. Se utilicen para la comisión del delito a niñas, niños o adolescentes o a quienes no tengan la capacidad para comprender el significado del hecho o que por cualquier causa no puedan resistirla.
+
+III. Utilice algún vehículo de servicio público de transporte, de alguna institución de seguridad pública u otro que, por sus características exteriores, aparente ser un vehículo destinado al servicio público de transporte o de alguna institución de seguridad pública.
+
+IV. Posea, porte o utilice uno o varios equipos o sistemas que permitan la intervención, escucha o transmisión de información de canales de comunicación oficiales de instituciones de seguridad pública en el Estado.
 
 ### CAPITULO VI. USO INDEBIDO DE ELEMENTOS DE IDENTIFICACION, INFORMACION O TECNOLOGIA DE COMUNICACION DE LAS INSTITUCIONES DE SEGURIDAD
 
@@ -6858,3 +6878,13 @@ P.O. 2 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 127 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 12 BIS, 125 BIS, Y LA REFORMA AL ARTÍCULO 145 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA (LEY AMPARITO)”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 138 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 317 TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor de las presentes reformas se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en las presentes reformas con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
