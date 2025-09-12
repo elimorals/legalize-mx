@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-del-instituto-de-seguridad-y-servicios-15957
 country: "mx"
 rank: "codigo"
 publication_date: "2022-08-01"
-last_updated: "2022-08-01"
+last_updated: "2025-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON (ISSSTELEON)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN (ISSSTELEON), PUBLICADO EN EL P.O. DE 12 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN (ISSSTELEON)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en el Número 108 del Periódico Oficial del Estado de Nuevo León, el lunes 1 de agosto de 2022.
 
@@ -280,3 +282,15 @@ TERCERO: Este Código de Conducta del Instituto de Seguridad y Servicios Sociale
 LIC. LUIS GERARDO GÓMEZ GUZMÁN
 
 DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN (ISSSTELEON)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN (ISSSTELEON)”.]
+
+PRIMERO: Queda abrogado el Código de Conducta aprobado por el Comité de Ética y de Prevención de Conflictos de Interés del ISSSTELEON y publicado en el Periódico Oficial del Estado de Nuevo León en fecha 1ro-primero de agosto de 2022-dos mil veintidós.
+
+SEGUNDO: Este Código de Conducta fue revisado y actualizado por el Comité de Ética y de Prevención de Conflictos de Interés en fecha 18-dieciocho de junio de 2025-dos mil veinticinco.
+
+TERCERO: El presente Código de Conducta del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León (ISSSTELEON) es autorizado por el Director General del ISSSTELEON a la fecha de su firma, siendo el día 27-veintisiente de agosto de 2025-dos mil veinticinco, y entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado de Nuevo León.
