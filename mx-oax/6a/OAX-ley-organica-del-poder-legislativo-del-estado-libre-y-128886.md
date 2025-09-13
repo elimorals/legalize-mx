@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2025-03-08"
+last_updated: "2025-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -47,11 +47,11 @@ Esta Ley tiene por objeto establecer la organización y funcionamiento del Poder
 
 El Poder Legislativo del Estado se deposita en una Asamblea de Diputados que se denomina Honorable Congreso del Estado, integrado por representantes populares electos democráticamente cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 2.
 
-Son principios rectores del Congreso del Estado de Oaxaca: la transparencia, máxima publicidad, rendición de cuentas, austeridad, eficiencia, eficacia, independencia, interculturalidad, imparcialidad y la perspectiva de género, por lo que todo acto o determinación de sus órganos garantizarán la observancia de los mismos.
+Son principios rectores del Congreso del Estado de Oaxaca: la transparencia, máxima publicidad, rendición de cuentas, austeridad, eficiencia, eficacia, independencia, interculturalidad, imparcialidad, la perspectiva de género y la diversidad lingüística, por lo que todo acto o determinación de sus órganos garantizarán la observancia de los mismos.
 
 ###### ARTÍCULO 3.
 
@@ -1469,6 +1469,10 @@ El Congreso del Estado contará con el Portal de internet, la Gaceta Parlamentar
 
 De igual forma y para garantizar una comunicación institucional eficaz y eficiente, contará con un sistema de comunicaciones telemáticas, el diario de debates, así como de las tecnologías de información necesarias para el adecuado desarrollo de las funciones legislativas.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
+
+El Congreso promoverá, en la medida de sus capacidades técnicas e institucionales, la difusión de contenidos informativos y legislativos para el uso y preservación de las lenguas originarias del Estado.
+
 TRANSITORIOS:
 
 PRIMERO. La presente Ley entrará en vigor el día 13 de noviembre del año 2018. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca para efectos de su publicidad y difusión.
@@ -1762,3 +1766,11 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en té
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto todas las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 743.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 2 Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 113 DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 2, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 82 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
