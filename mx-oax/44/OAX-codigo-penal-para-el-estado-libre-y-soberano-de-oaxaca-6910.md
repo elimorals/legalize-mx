@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-10-19"
+last_updated: "2025-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2751,17 +2751,17 @@ De la prestación irregular de servicios educativos.
 
 240 Quater.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos al prestador de servicios educativos particulares que a sabiendas de que no tiene autorización o reconocimiento de validez oficial de estudios conforme a la ley aplicable, manifieste en su publicidad ó documentación tenerlo, no lo manifieste ó argumente que se encuentra en proceso de reconocimiento o autorización. La sanción prevista en esta fracción se impondrá sin perjuicio de las medidas que disponga la legislación administrativa y las sanciones que correspondan en su caso.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
 
-TITULO DECIMOSEGUNDO.
+TÍTULO DECIMOSEGUNDO.
 
-Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
+Delitos contra la libertad, la seguridad, el normal desarrollo psicosexual y la autonomía sexual.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
 
-### CAPITULO I.
+### CAPÍTULO I.
 
-Abuso, hostigamiento y acoso sexual, estupro y violación.
+Abuso, hostigamiento y acoso sexual, y violación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -2861,27 +2861,33 @@ En este supuesto, el delito se perseguirá de oficio. En los demás casos se pro
 
 245.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
 
-246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de catorce a veinte años y multa de seiscientos a un mil doscientas veces el valor de la Unidad de Medida y Actualización.
+246.- Se impondrá prisión de catorce a veinte años y multa de seiscientos a un mil doscientas veces el valor de la unidad de medida y actualización a quien, sin el consentimiento libre y voluntario o bajo el consentimiento en un contexto coercitivo de la víctima:
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+I.- Penetre, total o parcialmente, con una parte del cuerpo, objeto u animal, la vagina o el ano de la víctima;
 
-Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
+II.- Penetre con el órgano sexual la cavidad bucal de la víctima; o
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2020)</small>
+III.- Cause que una tercera persona cometa el delito contra la víctima;
 
-246 BIS.- Se equipara a la violación y se sancionará de catorce á veinte años de prisión y multa de seiscientos a un mil doscientas veces el valor de la unidad de medida y actualización, a quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción y el engaño.
+IV.- Haga que la víctima se realice una penetración vaginal, anal u oral no consentida de carácter sexual, total o parcial.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+Se entenderá como contexto coercitivo aquella actividad sexual no deseada que se produce bajo presión no física sobre la víctima, para convencerla de que participe en un acto sexual con el que no está de acuerdo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2024)</small>
+246 BIS.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2025)
 
-247.- Se equipara la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, mediante el uso de la sumisión química o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida y actualización.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+247.- Se equipara a la violación y se sancionará con pena de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida de actualización, a quien cometa los actos sexuales descritos en el artículo 246 contra una persona menor de dieciocho años, aun cuando el sujeto activo alegue haber obtenido su consentimiento; o considerando el grado y contexto de la discapacidad de la víctima que no le permita consentir, o cuando por enfermedad o cualquier otra causa no pueda consentir válidamente el acto sexual de que se trate.
 
-Se equipara a la violación y se sanciona con la misma pena, al que introduzca por vía vaginal o anal, cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+En el caso de que la víctima sea persona menor de edad, no aplicará la prescripción de este delito.
+
+No serán punibles los adolescentes, que consientan en una relación sexual, siempre y cuando no medie entre ellos una diferencia mayor de dos años de edad, no exista un puesto o relación de confianza o autoridad hacia la víctima, ni esta está ligada a aquel mediante una relación de dependencia o explotación de la vulnerabilidad de la víctima.
+
+No están comprendidos en esta excepción los casos en que exista prevalimiento, o cuando una persona con discapacidad, considerando el grado y su contexto, no pueda consentir, así como, aquellos que excedan la diferencia de edad antes señalada.
+
+Se entenderá por prevalimiento cuando el sujeto activo lleva a cabo un hecho delictivo aprovechándose de la situación ventajosa de superioridad respecto de la víctima, que le dé la posibilidad de cometer el delito de manera más fácil y exitosa.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -2889,31 +2895,45 @@ Se equipara a la violación y se sanciona con la misma pena, al que introduzca p
 
 Se impondrá sanción de veinte a treinta y dos años de prisión y multa de mil doscientas a mil setecientas veces el valor de la unidad de medida y actualización, cuando el sujeto pasivo sea menor de 18 años de edad, mayor de sesenta años, se encuentre privado de razón o sentido, o cuando por enfermedad o por cualquier otra causa no pudiese resistir el delito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
 
-248 BIS.- Las penas que corresponden a los delitos de abuso sexual previsto por el artículo 241, violación, previsto por el artículo 246, violación equiparada, previsto por los artículos 246 BIS y 247, y violación tumultuaria, previsto por el artículo 248, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
+248 BIS.- Las penas que corresponden a los delitos sexuales previstos en los artículos 241, 246, 247 y 248, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
 
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
+I.- El delito haya sido cometido contra el cónyuge o pareja, anterior o actual o por una persona con quien ha convivido o cohabitado la víctima. Para estos efectos, no se hará diferencia de la orientación sexual o la identidad de género de las parejas;
 
-I.- El delito fuere cometido por un pariente de la víctima sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el tutor contra su pupilo, por el padrastro o madrastra en contra el hijastro o hijastra, por el amante del padre o de la madre del ofendido o por la persona que vive en concubinato con el padre o la madre del pasivo. En estos casos, además el culpable perderá todos los derechos familiares y hereditarios que le puedan corresponder por su vínculo con la víctima;
+II.- El sujeto activo tome ventaja de cualquier tipo de relación de confianza, autoridad, de poder o de subordinación con la víctima;
 
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
+III.- Los delitos de naturaleza sexual, se hayan cometido de forma reiterada;
 
-II.- El hecho sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o las circunstancias que ellos le proporcione (sic). Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio profesional;
+IV.- Se haya cometido en presencia de familiares de la víctima o de cualquier persona menor de edad;
 
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
+V.- El delito haya estado precedido o acompañado de niveles graves de violencia;
 
-III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en él depositada;
+VI.- El delito se haya cometido con el uso o amenaza de armas blancas o de fuego;
 
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
+VII.- Para la comisión del delito se haya suministrado a la víctima, drogas, medicamentos, alcohol u otras sustancias psicoactivas o el sujeto activo se aprovechare de que la víctima se encontraba en tal estado;
 
-IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
+VIII.- La víctima estaba inconsciente mientras se cometía el delito;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2021)</small>
+IX.- El delito se haya cometido contra una víctima que estuviera privada de la libertad o en un centro de detención;
 
-V.- El hecho sea cometido a bordo de un vehículo de servicio público o especial de transporte y el sujeto activo aproveche esa circunstancia para cometer el delito. Si el responsable fuere concesionario, además de la pena de prisión impuesta se le revocará la autorización respectiva.
+X.- El delito se haya cometido contra una persona adulta mayor;
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE ENERO DE 2016)</small>
+XI.- El delito se haya cometido mediando una circunstancia discriminatoria contra la víctima por la raza, género, orientación sexual, religión, discapacidad y edad;
+
+XII.- Si el delito se haya cometido contra una persona durante la gestación;
+
+XIII.- Si el delito causó que la víctima contrajera alguna enfermedad de transmisión sexual o se embarazara;
+
+XIV.- Se aproveche de una persona en un contexto de vulnerabilidad social;
+
+Se entenderá por contexto de vulnerabilidad social como la situación de aquellas personas, grupos o familias que han visto deteriorada sus condiciones de vida social y personal. Está relacionado no solo con la situación social, sino también con la cultural, política y económica, debiendo ser: tiempos de conflicto armado, violencia política, disturbios sociales, desplazamiento interno forzado, situación migratoria o contexto de protección internacional, desastres naturales y explotación laboral y sexual;
+
+XV.- El sujeto activo sea un agente del Estado, o bien, cuente con la autorización, apoyo o aquiescencia de uno o más Agentes del Estado;
+
+XVI.- El hecho sea cometido a bordo de un vehículo de servicio público o especial de transporte y el sujeto activo aproveche esa circunstancia para cometer el delito. Si el responsable fuere concesionario o permisionario, además de la pena de prisión impuesta se le revocará el permiso o concesión respectiva;
+
+XVII.- El hecho sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o las circunstancias que le proporcione. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio profesional.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -2965,19 +2985,91 @@ En los supuestos anteriores el delito se p0erseguirá (sic) de oficio.
 
 254.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
-### CAPITULO III.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
 
-Incesto.
+### CAPÍTULO III.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+Violación sexual incestuosa contra menores de edad.
 
-255.- Se impondrá de dos a ocho años de prisión a los ascendientes que tengan relaciones sexuales con sus descendientes.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+255.- Comete violación sexual incestuosa, quien viole a un niño, niña o adolescente, en su calidad de ascendiente o pariente hasta el cuarto grado de consanguinidad o segundo de afinidad o a quien se integre y forme parte del grupo familiar, se le impondrá prisión de catorce a veinticinco años.
 
-Los descendientes mayores de dieciséis años que voluntariamente tengan relaciones sexuales con sus ascendientes, serán sancionados con la pena de uno a cuatro años de prisión.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
 
-Se aplicará esta misma pena en caso de incesto entre hermanos.
+### CAPÍTULO III BIS.
+
+Del consentimiento en los delitos sexuales.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
+
+255 BIS.- En materia de delitos sexuales se entenderá por consentimiento:
+
+Cuando la voluntad se haya manifestado libremente mediante actos que, en atención a las circunstancias del contexto, expresen de manera clara la voluntad de la persona, y no sea retirado en ningún momento, ya sea mediante la anuencia verbal, o sea porque dicho consentimiento se deriva de un comportamiento evidentemente identificable con una participación voluntaria.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
+
+255 TER.- Para los efectos de este capítulo, el consentimiento libre y voluntario debe ser entendido afirmativamente por todas las partes y puede expresarse a través de palabras, acciones, conductas, movimientos, gestos o de otra forma que no deje duda de la aceptación.
+
+Dicho consentimiento libre y voluntario, no puede ni debe inferirse de:
+
+I.- El silencio de la víctima;
+
+II.- La no resistencia, verbal o física, por parte de la víctima;
+
+III.- Únicamente a partir de la sugerencia, solicitud o comunicación de la víctima con respecto al uso de un condón u otros métodos anticonceptivos;
+
+IV.- El comportamiento sexual pasado de la víctima;
+
+V.- La relación pasada o presente de la víctima, sexual o de otro tipo, con la presunta persona agresora;
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
+
+255 QUATER. - Se considera que el consentimiento no es válido cuando:
+
+I.- La víctima sea una persona menor de 16 años de edad;
+
+II.- La víctima se encuentre inconsciente, dormida o intoxicada por el consumo de drogas, alcohol u otra substancia psicoactiva de manera voluntaria, involuntaria o inconscientemente;
+
+III.- La víctima esté enferma, sufra de una herida, o se encuentre especialmente vulnerable;
+
+IV.- La víctima considerando el grado y contexto, no tiene la capacidad de otorgar el consentimiento debido a un impedimento o discapacidad;
+
+V.- El consentimiento de la víctima sea obtenido a consecuencia de circunstancias coercitivas en el que se encuentra;
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
+
+255 QUINQUIES.- Existen circunstancias coercitivas y el consentimiento no puede considerarse libre y voluntario, cuando:
+
+I.- La víctima fue objeto de violencia o abuso físico o emocional, engaño u opresión psicológica que contribuyó a su sometimiento;
+
+II.- La víctima fue privada de su libertad;
+
+III.- La víctima fue objeto de coacción, intimidación o amenazas respecto de daños presentes o futuros hacia ella o hacia terceras personas;
+
+IV.- Quien agrede se encuentra en una posición o relación de poder o autoridad sobre la víctima. Para estos efectos se consideran relaciones de poder o de autoridad las que se presentan:
+
+a) En un establecimiento educativo, centro de salud, centro religioso, centro de detención o bajo medidas de seguridad, o servicio de atención entre el personal a cargo y las personas que obtienen los servicios;
+
+b) En una relación jerárquica dada en un entorno profesional u ocupacional;
+
+c) Entre las personas encargadas de un centro de atención residencial, hogar comunitario, hogar voluntario, hogar infantil, albergue u orfanato y quienes reciben los servicios;
+
+d) Cuando se proporcione a la víctima apoyo o tratamiento médico, psiquiátrico, psicológico o psicosocial;
+
+e) En una relación de tutor, tutora, pupilo o pupila;
+
+f) Cuando el sujeto activo se aproveche del impedimento o discapacidad física, psicológica, mental o intelectual de la víctima;
+
+g) Cuando el sujeto activo tenga ocupaciones de trabajo social, oficial de libertad condicional, entrenamiento, instrucción, ministerio religioso, o persona cuidadora de niñas, niños, adolescentes o adultos mayores, o cualquier otro puesto de bienestar social en relación con la víctima;
+
+h) Cuando la persona autora participe o esté involucrada en el cuidado, vigilancia o tenga responsabilidad por la atención, entrenamiento o supervisión de la víctima;
+
+i) Cuando el sujeto activo sea un adulto y la víctima una persona menor de edad relacionada con aquel por vínculos de parentesco consanguíneo o por afinidad, jurídica o de hecho, hasta el tercer grado y el sujeto activo esté en posición de garante; por matrimonio, relación de noviazgo, unión de hecho, adopción o cuidado temporal.
+
+Se entenderá que se está en un supuesto de circunstancias coercitivas cuando:
+
+Exista (sic) situaciones en las que una persona o grupo ejerce presión, amenaza, intimidación u otros abusos para controlar o manipular a otra persona o grupo, restringiendo su libertad y autonomía. En estos contextos, se buscan obtener un comportamiento o decisión específica a través de la fuerza o el temor, en lugar de la persuasión o el acuerdo mutuo.
 
 ### CAPITULO IV.
 
@@ -3705,6 +3797,12 @@ Si resultare otro delito en perjuicio o agravio de la víctima de secuestro, se 
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO III.
 
 Trafico de menores.
@@ -3712,12 +3810,6 @@ Trafico de menores.
 348 Bis C.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2002)</small>
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO IV.
 
@@ -4503,6 +4595,64 @@ VI. Violencia contra los derechos reproductivos: A toda acción u omisión que l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2024)</small>
 
+###### ARTÍCULO 388 Bis.
+
+Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+Si el daño se cometiere sobre lienzos, pinturas, murales o cualquier material de difícil o imposible reparación; así como de bienes o monumentos considerados con un valor cultural, histórico, arquitectónico o científico, declarado por autoridad, se sancionará además de la reparación del daño, con multa de cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente o pena privativa de libertad de dos años a seis años.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+En caso de reincidencia la pena se le incrementará hasta un cincuenta por ciento de la que se le haya impuesto en la primera ocasión.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+Cuando el daño se cometa en bienes de dominio privado, este delito se perseguirá de oficio.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
+
+## TITULO VIGESIMO.
+
+Encubrimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2024)</small>
+
+390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientas veces la unidad de medida y actualización vigente, al que:
+
+I.- No procure, por los medios lícitos que estén a su alcance, impedir la continuación de los delitos que sepa que van a cometerse, o que se están cometiendo, si son los que se persiguen de oficio;
+
+Quedan exceptuados de pena aquellos que no pueden cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secretos que se le hubiesen confiado en el ejercicio de su profesión o encargo;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+II.- Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la fracción anterior y cuando se trate del cónyuge o pariente del requerido o de personas a quienes este debe respeto gratitud o amistad;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+III.- Impida o dificulte la investigación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este artículo, o
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+IV.- Preste auxilio o cooperación de cualquier especie al autor del delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito, salvo las personas exceptuadas en la fracción II de este artículo.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+Las excusas absolutorias contenidas en las fracciones I, III y IV no serán aplicables cuando se trate de delitos de feminicidio u homicidio doloso de mujeres, la excusa absolutoria prevista en la fracción II no será aplicable en los mismos casos a los parientes por consanguinidad en línea recta ascendente o descendente después del cuarto grado y en la colateral por consanguinidad después del segundo grado, ni a las personas que deben respeto, gratitud o amistad al sujeto activo.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+390 Bis.- La o el Juez teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que señala el artículo 74, podrán imponer en los casos de encubrimiento de delitos de feminicidio u homicidio doloso de mujeres, en lugar de las sanciones señaladas, hasta las dos terceras partes de las penas que correspondería al autor del delito; debiendo hacer constar en la sentencia las razones en que se funda para aplicar la sanción que autoriza este párrafo.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+## TITULO VIGESIMO PRIMERO.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
 ### CAPITULO I BIS. Violencia Vicaria
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2024)</small>
@@ -4585,64 +4735,6 @@ En caso de tratarse de que el ejercicio de la acción penal recaiga sobre un hom
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 388 Bis.
-
-Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
-
-Si el daño se cometiere sobre lienzos, pinturas, murales o cualquier material de difícil o imposible reparación; así como de bienes o monumentos considerados con un valor cultural, histórico, arquitectónico o científico, declarado por autoridad, se sancionará además de la reparación del daño, con multa de cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente o pena privativa de libertad de dos años a seis años.
-
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
-
-En caso de reincidencia la pena se le incrementará hasta un cincuenta por ciento de la que se le haya impuesto en la primera ocasión.
-
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
-
-Cuando el daño se cometa en bienes de dominio privado, este delito se perseguirá de oficio.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
-
-## TITULO VIGESIMO.
-
-Encubrimiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2024)</small>
-
-390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientas veces la unidad de medida y actualización vigente, al que:
-
-I.- No procure, por los medios lícitos que estén a su alcance, impedir la continuación de los delitos que sepa que van a cometerse, o que se están cometiendo, si son los que se persiguen de oficio;
-
-Quedan exceptuados de pena aquellos que no pueden cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secretos que se le hubiesen confiado en el ejercicio de su profesión o encargo;
-
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
-
-II.- Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la fracción anterior y cuando se trate del cónyuge o pariente del requerido o de personas a quienes este debe respeto gratitud o amistad;
-
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
-
-III.- Impida o dificulte la investigación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este artículo, o
-
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
-
-IV.- Preste auxilio o cooperación de cualquier especie al autor del delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito, salvo las personas exceptuadas en la fracción II de este artículo.
-
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
-
-Las excusas absolutorias contenidas en las fracciones I, III y IV no serán aplicables cuando se trate de delitos de feminicidio u homicidio doloso de mujeres, la excusa absolutoria prevista en la fracción II no será aplicable en los mismos casos a los parientes por consanguinidad en línea recta ascendente o descendente después del cuarto grado y en la colateral por consanguinidad después del segundo grado, ni a las personas que deben respeto, gratitud o amistad al sujeto activo.
-
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
-
-390 Bis.- La o el Juez teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que señala el artículo 74, podrán imponer en los casos de encubrimiento de delitos de feminicidio u homicidio doloso de mujeres, en lugar de las sanciones señaladas, hasta las dos terceras partes de las penas que correspondería al autor del delito; debiendo hacer constar en la sentencia las razones en que se funda para aplicar la sanción que autoriza este párrafo.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
-
-## TITULO VIGESIMO PRIMERO.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
-
 ### CAPITULO II
 
 De la Sustracción de Menores o Incapaces.
@@ -4672,6 +4764,10 @@ II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del
 410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO III.
 
@@ -4736,10 +4832,6 @@ Cuando la víctima sea niña, adolescente, persona adulta mayor, persona con dis
 En caso de no tener elementos suficientes del feminicidio, se judicializará por el delito de homicidio simple o calificado, según lo determine el Ministerio Público.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2020)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO III BIS.
 
@@ -5003,6 +5095,10 @@ Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto ac
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
+## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
@@ -5015,9 +5111,9 @@ I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPITULO CUARTO. Excluyentes
 
@@ -5038,10 +5134,6 @@ IV.- El sacrificio de un animal vertebrado para consumo humano.
 423. Los delitos previstos en este título se perseguirán de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPITULO UNICO.. DELITOS CONTRA LA SEGURIDAD INFORMÁTICA Y ELECTRÓNICA
 
@@ -6592,6 +6684,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 19 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2414.- MEDIANTE EL CUAL ADICIONA EL CAPÍTULO III QUE CONTIENE AL ARTÍCULO 223 BIS AL TÍTULO NOVENO "RESPONSABILIDAD PROFESIONAL" DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 737.- MEDIANTE EL CUAL REFORMA LA NOMENCLATURA DEL TÍTULO DÉCIMO SEGUNDO, LA NOMENCLATURA DEL CAPÍTULO I DEL TÍTULO DÉCIMO SEGUNDO, LOS ARTÍCULOS 246, 247 Y 248 BIS, LA NOMENCLATURA DEL CAPÍTULO III DEL TÍTULO DECIMO SEGUNDO Y EL ARTÍCULO 255; Y SE ADICIONA EL CAPÍTULO III BIS "DEL CONSENTIMIENTO EN LOS DELITOS SEXUALES" AL TÍTULO DÉCIMO SEGUNDO, Y LOS ARTÍCULOS 255 BIS, 255 TER, 255 QUATER Y 255 QUINQUIES, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
