@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2025-08-09"
+last_updated: "2025-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -673,7 +673,15 @@ Dicha conducta será sancionada conforme al artículo 152 TER del Código Penal 
 
 La Violencia Vicaria es el acto u omisión que genera afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole a un descendiente, ascendiente o dependiente económico de la víctima, cometido por parte de quien mantenga o mantuvo una relación afectiva o sentimental con la misma, y cuyo objeto sea el causar un menoscabo emocional, psicológico, patrimonial o de otra índole hacia la victima; y que se expresa de manera enunciativa, mas no limitativa, a través de conductas tales como las amenazas verbales, el aleccionamiento, la sustracción de sus hijas e hijos, la imputación de hechos delictuosos falsos en donde se demuestre la dilación procesal injustificada, o cualquier otra que sea utilizada para dañar a la mujer.
 
-#### SECCIÓN PRIMERA. DEL TITULAR DEL EJECUTIVO DEL ESTADO
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
+
+#### Sección Décima Primera. Acecho
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
+
+ARTÍCULO 30 Undecies. El acecho constituye una modalidad de violencia que comprende cualquier conducta reiterada de vigilancia, seguimiento, persecución, comunicación o contacto persistentemente con alguien en contra de su voluntad, atentando contra su seguridad, libertad e intimidad.
+
+Dicha conducta será sancionada conforme a lo establecido en los artículos 221 Bis y 221 Ter, del Código Penal para el Estado de Colima.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA
 
@@ -1153,31 +1161,7 @@ El Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus competencias, pro
 
 ### CAPÍTULO III. DE LAS COMPETENCIAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-#### SECCIÓN PRIMERA BIS. DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
-
-ARTÍCULO 56 BIS.- Corresponde al Supremo Tribunal de Justicia:
-
-I.- Capacitar y especializar a su personal en materia de género y derechos humanos de las mujeres;
-
-II.- Promover a través de la capacitación del personal, la construcción de una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
-
-III.- Difundir y supervisar el cumplimiento de los instrumentos internacionales aplicables en materia de derechos humanos de las mujeres;
-
-IV.- Exhortar al personal para que dicten sentencias con perspectiva de género y enfoque de derechos humanos de las mujeres, niñas y adolescentes;
-
-V.- Fomentar un ambiente laboral libre de discriminación, riesgos y violencia laboral, así como establecer condiciones, mecanismos e instancias para detectar, atender y erradicar el hostigamiento sexual en el lugar de trabajo;
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-VI.- Difundir las sentencias emitidas con perspectiva de género y derechos humanos de las mujeres, con respeto a la privacidad de datos personales previstos por la Ley de la materia;
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-VII.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
-
-VIII.- Las demás que le atribuyan otros ordenamientos legales.
+#### SECCIÓN PRIMERA. DEL TITULAR DEL EJECUTIVO DEL ESTADO
 
 ###### ARTÍCULO 55.
 
@@ -1227,9 +1211,33 @@ XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
-#### SECCIÓN SEGUNDA. DE LA SECRETARÍA GENERAL DE GOBIERNO
+#### SECCIÓN PRIMERA BIS. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-#### SECCIÓN TERCERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 56 BIS.- Corresponde al Supremo Tribunal de Justicia:
+
+I.- Capacitar y especializar a su personal en materia de género y derechos humanos de las mujeres;
+
+II.- Promover a través de la capacitación del personal, la construcción de una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
+
+III.- Difundir y supervisar el cumplimiento de los instrumentos internacionales aplicables en materia de derechos humanos de las mujeres;
+
+IV.- Exhortar al personal para que dicten sentencias con perspectiva de género y enfoque de derechos humanos de las mujeres, niñas y adolescentes;
+
+V.- Fomentar un ambiente laboral libre de discriminación, riesgos y violencia laboral, así como establecer condiciones, mecanismos e instancias para detectar, atender y erradicar el hostigamiento sexual en el lugar de trabajo;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+VI.- Difundir las sentencias emitidas con perspectiva de género y derechos humanos de las mujeres, con respeto a la privacidad de datos personales previstos por la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+VII.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
+
+VIII.- Las demás que le atribuyan otros ordenamientos legales.
+
+#### SECCIÓN SEGUNDA. DE LA SECRETARÍA GENERAL DE GOBIERNO
 
 ###### ARTÍCULO 57.
 
@@ -1267,7 +1275,7 @@ XV.- Celebrar convenios de coordinación y concertación con la participación q
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
+#### SECCIÓN TERCERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
 ###### ARTÍCULO 58.
 
@@ -1291,7 +1299,7 @@ VIII.- Celebrar convenios de cooperación, coordinación y concertación en la m
 
 IX.- Las demás previstas en esta Ley y demás disposiciones aplicables.
 
-#### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
+#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
 
 ###### ARTÍCULO 59.
 
@@ -1341,39 +1349,7 @@ XVII.- Notificar en su calidad de garante en materia de violencia de género, a 
 
 XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
-
-ARTÍCULO 60 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
-
-I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
-
-II.- Promover en coordinación con el Instituto, la creación o generación de bolsas de trabajo específicas para mujeres víctimas de violencia y apoyar la capacitación para el auto empleo;
-
-III.- Brindar el acompañamiento jurídico a las mujeres víctimas de violencia en el ámbito laboral;
-
-IV.- incorporar en la supervisión de las condiciones laborales de los centros de trabajo la vigilancia en el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, la capacitación, el ascenso y la permanencia de las mujeres;
-
-V.- Promover campañas de información en los centros de trabajo sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
-
-VI.- Proponer y coordinar campañas de difusión de los derechos de las mujeres trabajadoras, así como las obligaciones de las y los empleadores;
-
-VII.- Difundir y promover el derecho de las mujeres a la igualdad de oportunidades y de trato, remuneración y seguridad social, poniendo énfasis en la información sobre las conductas que atentan contra su libertad sexual e integridad física y psicológica;
-
-VIII.- En coordinación con el Instituto, realizar estudios estadísticos e investigaciones sobre la situación de las mujeres en el trabajo que permitan la formulación de políticas públicas para el ejercicio pleno de sus derechos laborales:
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-IX.- Reconocer e incentivar a las empresas que se abstengan de solicitar a las mujeres certificados de no gravidez;
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-X.- Orientar a las receptoras de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres; y
-
-XI.- Las demás que le señalen las disposiciones legales.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
+#### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
 
 ###### ARTÍCULO 60.
 
@@ -1459,6 +1435,40 @@ XXIV.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE ENERO DE 2013)</small>
 
+#### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 60 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
+
+I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
+
+II.- Promover en coordinación con el Instituto, la creación o generación de bolsas de trabajo específicas para mujeres víctimas de violencia y apoyar la capacitación para el auto empleo;
+
+III.- Brindar el acompañamiento jurídico a las mujeres víctimas de violencia en el ámbito laboral;
+
+IV.- incorporar en la supervisión de las condiciones laborales de los centros de trabajo la vigilancia en el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, la capacitación, el ascenso y la permanencia de las mujeres;
+
+V.- Promover campañas de información en los centros de trabajo sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
+
+VI.- Proponer y coordinar campañas de difusión de los derechos de las mujeres trabajadoras, así como las obligaciones de las y los empleadores;
+
+VII.- Difundir y promover el derecho de las mujeres a la igualdad de oportunidades y de trato, remuneración y seguridad social, poniendo énfasis en la información sobre las conductas que atentan contra su libertad sexual e integridad física y psicológica;
+
+VIII.- En coordinación con el Instituto, realizar estudios estadísticos e investigaciones sobre la situación de las mujeres en el trabajo que permitan la formulación de políticas públicas para el ejercicio pleno de sus derechos laborales:
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+IX.- Reconocer e incentivar a las empresas que se abstengan de solicitar a las mujeres certificados de no gravidez;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+X.- Orientar a las receptoras de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres; y
+
+XI.- Las demás que le señalen las disposiciones legales.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
+
 #### SECCIÓN QUINTA BIS 1. DE LA SECRETARÍA DE CULTURA
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
@@ -1527,8 +1537,6 @@ X.- Las demás que les señalen las disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2022)</small>
 
-#### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
-
 ###### ARTÍCULO 61.
 
 Corresponde a la Fiscalía General del Estado, en materia de violencia en contra de las mujeres:
@@ -1593,7 +1601,7 @@ XVIII.- Informar de inmediato a la víctima cuando la persona generadora de viol
 
 XIX.- Las demás que les señalen las disposiciones legales aplicables.
 
-#### SECCIÓN OCTAVA. DEL INSTITUTO
+#### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 62.
 
@@ -1631,7 +1639,7 @@ XV.- Proporcionar a los cuerpos policiacos capacitación y formación en materia
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
+#### SECCIÓN OCTAVA. DEL INSTITUTO
 
 ###### ARTÍCULO 63.
 
@@ -1681,7 +1689,7 @@ XVI.- Celebrar convenios de colaboración, coordinación y concertación en la m
 
 XVII.- Las demás previstas para el cumplimiento de esta Ley.
 
-#### SECCIÓN DÉCIMA. DEL CEPAVI
+#### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
 
 ###### ARTÍCULO 64.
 
@@ -1731,7 +1739,7 @@ XX.- Celebrar convenios de colaboración, coordinación y concertación en la ma
 
 XXI.- Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
+#### SECCIÓN DÉCIMA. DEL CEPAVI
 
 ###### ARTÍCULO 65.
 
@@ -1753,15 +1761,13 @@ VI.- Proveer la ayuda necesaria a las diversas instancias que lo soliciten, para
 
 VII.- Las demás que se establecen en la Ley para la Prevención y Atención de la Violencia Familiar.
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
+#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
 
 ###### ARTÍCULO 66.
 
 Los organismos, dependencias e instancias, en el ámbito Estatal y Municipal, harán cumplir las disposiciones de la presente Ley y demás disposiciones aplicables en la materia, buscando en todo la protección de los derechos humanos de la mujer.
 
-#### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE ABRIL DE 2019)</small>
+#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
 
 ###### ARTÍCULO 67.
 
@@ -1771,7 +1777,9 @@ Las corporaciones policiacas preventivas del Estado, y de los Municipios cumplir
 
 También integrarán una base de datos que contenga todos los aspectos relacionados con la violencia en contra de las mujeres.
 
-#### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
+#### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 69.
 
@@ -1941,9 +1949,7 @@ III.- Inscribirse ante la Secretaría Ejecutiva del Sistema Estatal previo regis
 
 ### CAPÍTULO II. DE LOS MODELOS
 
-#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
+#### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
 
 ###### ARTÍCULO 78.
 
@@ -1989,7 +1995,9 @@ Podrán beneficiarse de las medidas establecidas en la presente Ley, además de 
 
 Se integrará a los modelos de prevención, la identificación de riesgo y de factores protectores por cada uno de los tipos y Modalidades de Violencia a partir del impacto que genera en las mujeres. Sin perjuicio de las estrategias de difusión y visibilización de la violencia de género y sus consecuencias individuales y colectivas, así como la información de las instancias de atención en el Estado.
 
-#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
+#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 80.
 
@@ -2015,7 +2023,7 @@ Las personas profesionistas que asumen la atención a personas receptoras y gene
 
 En materia de atención a la violencia institucional el Estado y sus Municipios impulsarán un subprograma anual de capacitación y modificación conductual por Dependencia, Entidad o Unidad Administrativa, para servidores públicos en materia de discriminación y género, el cual, se podrá hacer extensivo previa invitación al Poder Judicial del Estado.
 
-#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
+#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
 
 ###### ARTÍCULO 86.
 
@@ -2028,6 +2036,8 @@ II.- El fortalecimiento de las disposiciones penales y procesales mediante la re
 III.- Que fomenten procedimientos ágiles, que favorezcan el empoderamiento de las mujeres; y
 
 IV.- El Registro de los Modelos ante la Secretaría Ejecutiva del Sistema Estatal.
+
+#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
 
 ###### ARTÍCULO 87.
 
@@ -2352,6 +2362,14 @@ SEGUNDO. La Secretaría de Salud contará con un lapso no mayor a 180 días a la
 P.O. 9 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 150.- POR EL QUE SE REFORMA EL ARTÍCULO 30 SEXIES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 13 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 156.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 119, Y SE ADICIONA EL CAPÍTULO DENOMINADO “ACECHO”, QUE SE INTEGRA POR LOS ARTÍCULOS 221 BIS Y 221 TER, AL TÍTULO OCTAVO DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA; Y SE ADICIONA LA SECCIÓN DÉCIMA PRIMERA QUE SE INTEGRA POR EL ARTÍCULO 30 UNDECIES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
 
 ###### ARTÍCULO ÚNICO.
 
