@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2025-08-09"
+last_updated: "2025-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -739,7 +739,9 @@ VII. Considerar en todas sus acciones y programas, los principios de Autonomía 
 
 VIII. Garantizar la implementación de planes y programas tendientes a erradicar la violencia y discriminación hacia las mujeres en el transporte y espacios públicos; debiendo acompañar y vincular con el Ministerio Público a las mujeres que sufran hostigamiento o acoso sexual;
 
-IX. Instituir cárceles o separos municipales, dignas y seguras, garantizando que dichas instalaciones cuenten con las condiciones de salubridad y acorde a sus capacidades presupuestales con pleno respeto a los derechos humanos cuenten con sistemas de videovigilancia activa para la protección de la integridad del detenido.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
+
+IX. Instituir cárceles o separos municipales dignas y seguras, garantizando que dichas instalaciones cuenten con las condiciones de salubridad y acorde a sus capacidades presupuestales, con pleno respeto a los derechos humanos, cuenten con sistemas de videovigilancia activa para la protección de la integridad de las personas detenidas;
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2025)</small>
 
@@ -748,6 +750,10 @@ X. Constituir los Consejos Municipales para la Atención de las Personas con Dis
 > <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 9 DE AGOSTO DE 2025]</small>
 
 Los Consejos Municipales para la Atención de las Personas con Discapacidad, serán presididos por el presidente Municipal y estará integrado por la persona titular del Sistema para el Desarrollo Integral de la Familia Municipal, así como por las Regidurías relacionadas con el desarrollo social, salud, movilidad, educación y seguridad pública.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2025)</small>
+
+XI. Crear, promover e implementar acciones afirmativas para garantizar los derechos humanos de las personas o grupos en situación de discriminación vulnerabilidad, en términos de lo dispuesto por el artículo 23 de la Ley para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca y otras leyes aplicables en la materia.
 
 Además de las atribuciones establecidas en este artículo, los Ayuntamiento tendrá todas aquellas que les confieran los demás ordenamientos jurídicos aplicables y reglamentos municipales.
 
@@ -4806,3 +4812,11 @@ PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Comuníquese el presente Decreto a las instancias correspondientes para los efectos legales a que haya lugar.
+
+P.O. 13 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 738.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IX Y SE ADICIONA LA FRACCIÓN XI AL APARTADO J DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
