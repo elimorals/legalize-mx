@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2025-05-18"
+last_updated: "2025-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -551,7 +551,9 @@ XX.- Editar libros y producir materiales didácticos distintos a los libros de t
 
 XXI.- Realizar estudios sistemáticos de diagnóstico, censales, de medición, de opinión y de evaluación del Sistema Estatal de Educación; así como de la demanda social educativa, para llevar a cabo la planeación anual para la prestación de servicios educativos suficientes y eficientes;
 
-XXII.- Fomentar y difundir actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2025)</small>
+
+XXII. Fomentar y difundir actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones, vigilando que a través de las mismas no se promuevan, reproduzcan o difundan contenidos, imágenes, sonidos o letras que hagan apología del delito, incitación a la violencia, cosificación de la mujer o sean contrarios al bien común o a los principios éticos y legales establecidos en esta Ley;
 
 XXIII.- Promover e impulsar la educación e investigación científica y tecnológica en todos los niveles educativos;
 
@@ -705,9 +707,13 @@ e) Firmar Convenios de Colaboración con los Ayuntamientos, a fin de que en las 
 
 f) El Estado promoverá la participación de las Organizaciones de la Sociedad Civil en los procesos educativos tendientes a fortalecer o complementar los servicios educativos otorgados;
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2025)</small>
+
+g) Promover que los estudiantes preferentemente de psicología, pedagogía o profesiones afines a educación especial, puedan brindar apoyo a personas que así lo requieran participando como auxiliares educativos especializados a fin de que cumplan con el requisito del servicio social;
+
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-g) Las demás que sean necesarias para el cumplimiento de la presente Ley.
+h) Las demás que sean necesarias para el cumplimiento de la presente Ley.
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
@@ -807,7 +813,9 @@ III.- Promover permanentemente la investigación educativa;
 
 IV.- Coadyuvar en el desarrollo de la enseñanza y de la investigación científica y tecnológica; y
 
-V.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2025)</small>
+
+V. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones , vigilando que a través de las mismas no se promuevan, reproduzcan o difundan contenidos, imágenes, sonidos o letras que hagan apología del delito, incitación a la violencia, cosificación de la mujer o sean contrarios al bien común o a los principios éticos y legales establecidos en esta Ley.
 
 ### CAPITULO CUARTO. DE LOS SERVICIOS EDUCATIVOS
 
@@ -3398,3 +3406,19 @@ P.O. 18 DE MAYO DE 2025.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2025.
+
+## [N.DE E. TRANSITORIOS DEL “DECRETO 175 POR EL CUAL SE ADICIONA UN INCISO G) Y EL ANTERIOR SE RECORRE DE FORMA CONSECUTIVA Y PASA A SER INCISO H) DE LA FRACCIÓN XLVII DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE MAESTROS SOMBRAS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2025.
+
+## [N.DE E. TRANSITORIOS DEL “DECRETO 176 QUE CONTIENE REFORMAS A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE EDUCACIÓN Y BIEN COMÚN”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
