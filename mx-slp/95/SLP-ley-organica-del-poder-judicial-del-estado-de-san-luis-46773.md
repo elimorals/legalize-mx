@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2025-02-12"
+last_updated: "2025-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 14 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -2970,3 +2970,81 @@ P.O. 12 DE FEBRERO DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+A partir de dicha fecha, quedará abrogada la Ley Orgánica del Poder Judicial del Estado, publicada en el Periódico Oficial del Estado el 15 de octubre de 2005, junto con sus reformas posteriores.
+
+SEGUNDO. Las personas Magistradas del Supremo Tribunal de Justicia, las personas Consejeras del Consejo de la Judicatura, las personas Juzgadoras (sic) Primera Instancia del Poder Judicial del Estado, que concluyan su encargo por declinar a la elección extraordinaria del año 2025, serán beneficiarios del haber de retiro cuando hubieren presentado su renuncia antes de la fecha en que se cerró la convocatoria que emitió el Comité de Evaluación Poder Judicial del Estado; el haber de retiro será proporcional al tiempo de su desempeño.
+
+Las personas Magistradas del Supremo Tribunal de Justicia, las personas Consejeras del Consejo de la Judicatura, y las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado que se encuentren en funciones, que participaron en el proceso de elección extraordinaria del año 2025 y que no resultaron electas, tendrán derecho al haber de retiro, mismo que será proporcional al tiempo de su desempeño.
+
+Las personas Magistradas del Supremo Tribunal de Justicia, las personas Consejeras del Consejo de la Judicatura, y las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, que hayan participado en el proceso de elección extraordinaria del año 2025 y que hayan resultado electas, no tendrán derecho haber de retiro alguno.
+
+El Órgano de Administración Judicial se encargará de ejecutar lo previsto en este artículo transitorio, conforme a la disponibilidad presupuestal y a los lineamientos que prevé para tal efecto.
+
+TERCERO. Se derogan todas las disposiciones contrarias al presente decreto.
+
+CUARTO. La entrega recepción de los recursos financieros, humanos, materiales y patrimoniales asignados al Poder Judicial del Estado, se realizará conforme lo dispuesto en la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí y los Acuerdos Generales: Acuerdo General Centésimo Nonagésimo Segundo, Acuerdo General Centésimo Octavo y Acuerdo General Octagésimo Cuarto (Manual de Procedimientos de Entrega-Recepción) expedidos por el Consejo de la Judicatura del citado Poder, conforme al siguiente esquema:
+
+I. Al Órgano de Administración Judicial se transferirán todos los recursos materiales, humanos, financieros y presupuestales de las áreas que orgánicamente se encuentran adscritas a las Secretarías Ejecutivas de Vigilancia y Disciplina, de Pleno y Carrera Judicial, y de Administración;
+
+II. Al Tribunal de Disciplina Judicial le corresponderá recibir del Consejo de la Judicatura del Poder Judicial del Estado, los recursos materiales y humanos de las áreas que actualmente ejercen funciones de vigilancia y disciplina a través de la Secretaría Ejecutiva de Administración.
+
+A lo que se refiere a los asuntos de vigilancia y disciplina, serán entregados por la Secretaría Ejecutiva de Vigilancia y Disciplina del Consejo y sus órganos auxiliares, Visitaduría Judicial y la Contraloría;
+
+Asimismo, serán transferidos de la Presidencia del Supremo Tribunal de Justicia al Órgano de Administración Judicial: la Unidad de Derechos Humanos y Equidad de Género, la Unidad y Difusión Institucional, y la Unidad de Transparencia; y,
+
+III. Los asuntos jurisdiccionales, los recursos públicos y, en su caso, los bienes y valores en custodia serán entregados por los servidores públicos salientes a las personas Magistradas, personas Juzgadoras de primera instancia que resulten electas y tomen posesión del cargo.
+
+En los casos no previstos en el presente esquema de entrega-recepción, la resolución correspondiente será determinada, de forma fundada y motivada, por el Pleno del Órgano de Administración Judicial, conforme a sus atribuciones en términos de las disposiciones aplicables. En caso de que dicho Órgano de Administración Judicial no se encuentre formalmente integrado e instalado, las obligaciones derivadas del presente Decreto serán asumidas por el Consejo de la Judicatura del Estado, conforme a los procedimientos y disposiciones que garanticen la continuidad administrativa.
+
+QUINTO. El Órgano de Administración Judicial deberá instruir al área de tecnologías de información del Poder Judicial del Estado para que conjuntamente determinen, de ser el caso, la estrategia para transferir los sistemas de los referidos órganos.
+
+SEXTO. En lo relativo a los derechos del personal administrativo que sea readscrito del Consejo de la Judicatura del Poder Judicial del Estado, al Órgano de Administración Judicial, el Tribunal de Disciplina Judicial, y a cualquiera otra área del Poder Judicial del Estado, éstos serán respetados en todo momento de conformidad con las disposiciones legales aplicables.
+
+SÉPTIMO. El Consejo de la Judicatura del Poder Judicial del Estado deberá garantizar la continuidad de los instrumentos jurídicos de adquisición de bienes, así como la contratación de servicios, arrendamientos, obras y servicios relacionados con las mismas, que sean estrictamente indispensables para el funcionamiento de los distintos órganos integrantes del Poder Judicial del Estado, previendo que las vigencias de los instrumentos contractuales no superen el último trimestre del año 2025, de conformidad con el presupuesto aprobado por el Congreso del Estado para el año fiscal correspondiente.
+
+OCTAVO. A la entrada en vigor de la presente Ley Orgánica, la Presidencia del Órgano de Administración Judicial que entre en funciones será designada por acuerdo de sus integrantes, de conformidad con el artículo 99 de la presente Ley Orgánica.
+
+NOVENO. De conformidad con el transitorio sexto del decreto 0029, publicado el diecinueve de diciembre de dos mil veinticuatro en el Periódico Oficial del Estado, por única ocasión, el período de las personas candidatas que resulten electos en el proceso electoral local extraordinario que se celebró en el año dos mil veinticinco, para los cargos de personas Magistradas del Supremo Tribunal de Justicia, durarán en su encargo once años, por lo que cesarán en sus funciones en el año dos mil treinta y seis, a fin empatar la jornada comicial de proceso electoral local ordinario.
+
+DÉCIMO. Por única ocasión, el periodo de las personas candidatas que resultaron electas en el proceso electoral extraordinario que se celebró en el año dos mil veinticinco, para el cargo de personas Magistradas del Tribunal de Disciplina Judicial, así como las tres personas designadas para los cargos de Consejeras del Órgano de Administración Judicial, durarán en su encargo cinco años, por lo que concluirán sus funciones en el año dos mil treinta, a fin de empatar la jornada comicial del proceso electoral local ordinario; ello, de conformidad con el segundo párrafo del Transitorio Octavo del Decreto Legislativo 0033, publicado el veintidós de diciembre de dos mil veinticuatro en el Periódico Oficial del Estado.
+
+DÉCIMO PRIMERO. Por única ocasión, el período de las personas candidatas que resultaron electas en el proceso electoral local extraordinario que se celebró en el año 2025, para los cargos de persona Juzgadora de Primera Instancia del Poder Judicial del Estado, durarán en su encargo ocho años, por lo que cesarán en sus funciones en el año 2033, a fin empatar la jornada comicial de proceso electoral local ordinario, ello, de conformidad con el Transitorio Séptimo del Decreto 0029, publicado el diecinueve de diciembre de dos mil veinticuatro en el Periódico Oficial del Estado.
+
+DÉCIMO SEGUNDO. Los poderes Ejecutivo, Legislativo y Judicial, al momento de realizar la designación de las personas consejeras del Órgano de Administración Judicial, observarán el principio de paridad de género, por lo que, para esta primera integración se considerará que sean dos mujeres y un hombre, alternándose en lo subsecuente su conformación en cuanto al género, garantizando la participación de la mujer.
+
+DÉCIMO TERCERO. Los procedimientos de responsabilidad administrativa y cualquier otro procedimiento disciplinario, iniciados con anterioridad a la entrada en vigor de la presente Ley Orgánica, se continuarán hasta su conclusión total conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+Se considera que se inició un procedimiento, cuando se hubiere notificado al servidor público el citatorio para la audiencia a que se refiere el artículo 185 fracción I de la Ley Orgánica del Poder Judicial, que se abroga a la entrada en vigor de la presente Ley Orgánica.
+
+Las quejas presentadas, y los actos de investigación iniciados, con anterioridad a la entrada en vigor de la presente Ley Orgánica, continuarán su trámite de investigación, y en su caso, substanciación y resolución del Procedimiento de Responsabilidad Administrativa, de acuerdo con las disposiciones de la ley Orgánica del Poder Judicial, que se abroga a la entrada en vigor de la presente Ley Orgánica, serán turnadas al Tribunal de Disciplina Judicial para que actúe conforme a sus atribuciones.
+
+Las faltas administrativas previstas en la Ley Orgánica del Poder Judicial, que se abroga a la entrada en vigor de la presente Ley Orgánica; seguirán siendo sancionables hasta en tanto opere el plazo de prescripción.
+
+DÉCIMO CUARTO. Para efectos del artículo anterior, las competencias de la Comisión de Disciplina y de la Secretaría Ejecutiva de Vigilancia y Disciplina del Consejo de la Judicatura, serán asumidas por el Tribunal de Disciplina Judicial. Las competencias del Pleno del Consejo de la Judicatura por el Pleno del Tribunal de Disciplina Judicial en materia disciplinaria.
+
+En el caso de los procedimientos a cargo de la Contraloría, seguirán tramitándose por este órgano en el ámbito de su competencia y conforme a la normatividad vigente en el momento en que se hubieran iniciado.
+
+DÉCIMO QUINTO. Los precedentes, tesis, jurisprudencias y criterios obligatorios del Supremo Tribunal de Justicia del Estado que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su vigencia y, por tanto, su carácter orientativo o vinculante según corresponda.
+
+DÉCIMO SEXTO. La normatividad interna emitida por el Consejo de la Judicatura del Poder Judicial del Estado y el Supremo Tribunal de Justicia continuará vigente en todo lo que no se oponga a la Constitución Política del Estado y a la presente Ley Orgánica, hasta en tanto el Órgano de Administración Judicial, el Supremo Tribunal de Justicia y el Tribunal de Disciplina Judicial emitan su propia normatividad.
+
+Por lo que, al entrar en funciones dichos órganos y la normatividad que aún continúe vigente, todas las referencias o menciones al Consejo de la Judicatura se entenderán hechas al Órgano de Administración Judicial o al Tribunal de Disciplina Judicial, de acuerdo con sus atribuciones y en el ámbito de sus respectivas competencias.
+
+DÉCIMO SÉPTIMO. En un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor de la presente Ley Orgánica, las autoridades competentes deberán realizar las adecuaciones legales, normativas, reglamentarias y administrativas necesarias para su debida implementación y cumplimiento.
+
+DÉCIMO OCTAVO. El Órgano de Administración Judicial deberá asegurar el adecuado funcionamiento estructural y operativo de todas las áreas contempladas en esta Ley Orgánica, sin que ello implique necesariamente un incremento en el presupuesto de egresos autorizado. Para tal efecto, podrá implementar las reestructuras, ajustes y transferencias necesarias en la asignación de recursos humanos, materiales, financieros y administrativos, conforme a las necesidades del servicio y la carga efectiva de trabajo.
+
+Las medidas podrán incluir, en su caso, la reasignación o transferencia de unidades administrativas, así como de personal operativo o de apoyo, entre el Órgano de Administración Judicial, el Supremo Tribunal de Justicia, el Tribunal de Disciplina Judicial y los juzgados de primera instancia, privilegiando criterios de eficiencia operativa, continuidad del servicio y pleno respeto a los derechos del personal involucrado.
+
+DÉCIMO NOVENO. Las personas Juzgadoras que actualmente conocen de asuntos del sistema tradicional continuarán conociendo de dichos asuntos hasta su resolución definitiva, conforme a las disposiciones vigentes al momento de su radicación. Lo anterior, con el fin de garantizar la continuidad jurisdiccional, evitar afectaciones procesales y dar cumplimiento al principio de legalidad, en concordancia con las disposiciones legales que le fueren aplicables o los acuerdos generales emitidos por el entonces Consejo de la Judicatura.
+
+VIGÉSIMO. Las personas Juzgadoras que actualmente conocen de asuntos en materia civil y familiar conforme al sistema procesal vigente continuarán conociendo de dichos asuntos hasta su resolución definitiva, aplicando las disposiciones procesales que se encuentren vigentes al momento de su radicación.
+
+Una vez que entre en vigor el Código Nacional de Procedimientos Civiles y Familiares en el Estado de San Luis Potosí, las personas juzgadoras asumirán competencia para conocer de los nuevos asuntos que se promuevan conforme al citado ordenamiento, en los términos establecidos por la declaratoria y calendario de implementación que se emita para tal efecto.
