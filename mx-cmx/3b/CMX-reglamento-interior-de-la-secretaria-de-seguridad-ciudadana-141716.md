@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-ciudadana-141
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-02-25"
-last_updated: "2025-07-16"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141716&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-02-21"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Reglamento publicado en el Número 290 de la Gaceta Oficial de la Ciudad de México, el martes 25 de febrero de 2020.
 
@@ -121,6 +121,10 @@ f) Dirección General de Derechos Humanos.
 > <small>(ADICIONADO, G.O. 16 DE JULIO DE 2024)</small>
 
 g) Dirección Ejecutiva de la Unidad Especializada de Género.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+h) Dirección Ejecutiva de la Unidad de Contacto del Secretario
 
 II. Unidades Administrativas Policiales:
 
@@ -264,9 +268,17 @@ II. Órgano Desconcentrado:
 
 a) Coordinación General de la Universidad de la Policía de la Ciudad de México.
 
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], G.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 6. Subsecretaría de Inteligencia e Investigación Policial:
 
 I. Unidades Administrativas Policiales:
+
+A. Coordinación General:
+
+a) Coordinación General de Atención a Casos de Secuestro y Extorsión.
+
+B. Direcciones Generales:
 
 a) Dirección General de Inteligencia Policial.
 
@@ -278,17 +290,15 @@ d) Dirección General de Información y Estadística.
 
 e) Dirección General de Evaluación, Planeación y Supervisión Estratégica.
 
-f) Dirección General de Atención a Casos de Secuestro y Extorsión.
+f) Dirección General de Investigación de Delitos de Mayor Incidencia.
 
-g) Dirección General de Investigación de Delitos de Mayor Incidencia.
+g) Dirección General de Investigación de Campo.
 
-h) Dirección General de Investigación de Campo.
+C. Direcciones Ejecutivas:
 
-i) Dirección Ejecutiva de Comunicaciones
+a) Dirección Ejecutiva de Comunicaciones.
 
-j) Dirección Ejecutiva de Enlace Institucional.
-
-k) (DEROGADO, G.O. 17 DE NOVIEMBRE DE 2023)
+b) Dirección Ejecutiva de Enlace Institucional.
 
 > <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2021)</small>
 
@@ -1284,6 +1294,34 @@ XVIII. Promover, en el ámbito de su competencia, el cumplimiento de la actuaci�
 
 XIX. Las demás que le atribuyan otras disposiciones aplicables.
 
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 23 Quater.
+
+Son atribuciones de la Dirección Ejecutiva de la Unidad de Contacto del Secretario:
+
+I. Establecer mecanismos de comunicación entre la ciudadanía y las diversas áreas que integran a la Secretaría, para apoyar y coadyuvar en la atención a las solicitudes, quejas y sugerencias que se reciben y que son competencia de la Dependencia;
+
+II. Definir y evaluar los protocolos, procesos y procedimientos de asistencia y orientación en la atención ciudadana;
+
+III. Establecer políticas de seguimiento a las solicitudes y quejas ciudadanas;
+
+IV. Regular los mecanismos para el control de calidad del servicio en las áreas de atención ciudadana de la Secretaría, a través de los mecanismos y medios a su disposición;
+
+V. Coordinar con las áreas de la Secretaría para facilitar respuesta o solución oportuna a las solicitudes y quejas de la ciudadanía;
+
+VI. Planear estrategias con áreas de la Secretaría, para mejorar la atención ciudadana, asistencia y orientación a las respuestas de las solicitudes y quejas;
+
+VII. Vigilar que las visitas de primer contacto a las víctimas a las que les fue otorgada alguna medida de protección, así como su implementación por las áreas competentes, se lleven a cabo sin dilación;
+
+VIII. Conducir las acciones que, en el marco de la búsqueda de personas, contribuyan a la prevención de delitos relacionados con la desaparición de personas;
+
+IX. Colaborar en la planeación, investigación, coordinación y ejecución de acciones de búsqueda de personas desaparecidas con las instancias competentes;
+
+X. Supervisar a las diversas áreas de atención ciudadana de la Secretaría, y vigilar que su actuación y servicios se apeguen a la normativa vigente en la materia, y
+
+XI. Las demás que le atribuya la normativa vigente.
+
 ###### Artículo 24.
 
 Son atribuciones de la Coordinación General de la Unidad de Estrategia Táctica y Operaciones Especiales:
@@ -2074,6 +2112,48 @@ XXIII Bis. Colaborar en los procesos de formación, actualización y especializa
 
 XXIV. Las demás que le atribuya la normatividad vigente.
 
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 45 Bis.
+
+Son atribuciones de la Coordinación General de Atención a Casos de Secuestro y Extorsión:
+
+I. Prevenir e investigar, bajo la conducción y mando del Ministerio Público, los delitos de Secuestro y Extorsión que por su naturaleza y características particulares de ejecución correspondan al ámbito territorial de la Ciudad;
+
+II. Proporcionar asesoría para el manejo de crisis en situaciones de secuestro o de otros delitos del fuero común que impliquen riesgo a las personas o instituciones;
+
+III. Elaborar los estudios para analizar y evaluar la información y el perfil psicológico del imputado que permita conducir las negociaciones con la mayor probabilidad de éxito;
+
+IV. Proponer y ejecutar los lineamientos generales de actuación policial en materia de orientación ciudadana, para la prevención de los delitos de Secuestro y Extorsión;
+
+V. Recabar la información a las personas afectadas, en los casos de denuncia por secuestro, y realizar el acompañamiento para la presentación de la denuncia ante el Ministerio Público, para el inicio de la carpeta de investigación, en términos de la normatividad aplicable;
+
+VI. Proponer y ejecutar los procedimientos para verificar la información de las denuncias que le sean presentadas directamente;
+
+VII. Desarrollar, mantener y supervisar fuentes de información en la ciudadanía, que permitan obtener datos sobre actividades relacionadas con fenómenos delictivos;
+
+VIII. Recopilar, clasificar y administrar registros que permita la generación de un banco de voces relacionados a los ilícitos de su competencia;
+
+IX. Aplicar la metodología e implementar las directrices que resulten necesarias a fin de establecer y explotar líneas de investigación y recabar las evidencias necesarias para la identificación, ubicación y en su caso detención de personas o miembros de organizaciones delictivas que se dediquen a la comisión de los delitos de su competencia;
+
+X. Desarrollar acciones sistematizadas para la planeación, recopilación, análisis y aprovechamiento de la información para la prevención y combate a los delitos de su competencia;
+
+XI. Establecer, dirigir y aplicar técnicas, métodos y estrategias especiales de investigación de los hechos delictivos y recopilación de los indicios en el lugar de los hechos o del hallazgo;
+
+XII. Establecer líneas de investigación policial a partir de la información que le sea proporcionada por las áreas de análisis de la Institución;
+
+XIII. Dirigir los mecanismos de investigación para recabar datos o elementos de prueba que tiendan al esclarecimiento de los hechos delictivos y la probable participación o intervención de personas o miembros de organizaciones criminales en su comisión;
+
+XIV. Dar cumplimiento a los mandamientos ministeriales o judiciales que reciba, en el ámbito de sus atribuciones;
+
+XV. Coadyuvar en la investigación policial con la Policía de Investigación de la Ciudad de México, y con otras autoridades de los tres órdenes de gobierno que así lo requieran, así como aplicar los procedimientos de intercambio de información respectivos;
+
+XVI. Suministrar información a las Unidades Administrativas Policiales de la Secretaría, encargadas del análisis, procesamiento y generación de inteligencia para la prevención e investigación de delitos;
+
+XVII. Realizar búsquedas en fuentes de información cerrada para allegarse de información sustantiva que pueda ayudar en el esclarecimiento de los hechos, y
+
+XVIII. Las demás que le atribuya la normativa vigente.
+
 ###### Artículo 46.
 
 Son atribuciones de la Dirección General de Inteligencia Policial:
@@ -2294,43 +2374,7 @@ XXVIII. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 51.
 
-Son atribuciones de la Dirección General de Atención a Casos de Secuestro y Extorsión:
-
-I. Prevenir e investigar, bajo la conducción y mando del Ministerio Público, los delitos de Secuestro y Extorsión que por su naturaleza y características particulares de ejecución correspondan al ámbito territorial de la Ciudad;
-
-II. Proporcionar asesoría para el manejo de crisis en situaciones de secuestro o de otros delitos del fuero común que impliquen riesgo a las personas o instituciones;
-
-III. Elaborar los estudios para analizar y evaluar la información y el perfil psicológico del imputado que permita conducir las negociaciones con la mayor probabilidad de éxito;
-
-IV. Proponer y ejecutar los lineamientos generales de actuación policial en materia de orientación ciudadana, para la prevención de los delitos de Secuestro y Extorsión;
-
-V. Recabar la información a las personas afectadas, en los casos de denuncia por secuestro, y realizar el acompañamiento para la presentación de la denuncia ante el Ministerio Público, para el inicio de la carpeta de investigación, en términos de la normatividad aplicable;
-
-VI. Proponer y ejecutar los procedimientos para verificar la información de las denuncias que le sean presentadas directamente;
-
-VII. Desarrollar, mantener y supervisar fuentes de información en la ciudadanía, que permitan obtener datos sobre actividades relacionadas con fenómenos delictivos;
-
-VIII. Recopilar, clasificar y administrar registros que permita la generación de un banco de voces relacionados a los ilícitos de su competencia;
-
-IX. Aplicar la metodología e implementar las directrices que resulten necesarias a fin de establecer y explotar líneas de investigación y recabar las evidencias necesarias para la identificación, ubicación y en su caso detención de personas o miembros de organizaciones delictivas que se dediquen a la comisión de los delitos de su competencia;
-
-X. Desarrollar acciones sistematizadas para la planeación, recopilación, análisis y aprovechamiento de la información para la prevención y combate a los delitos de su competencia;
-
-XI. Establecer, dirigir y aplicar técnicas, métodos y estrategias especiales de investigación de los hechos delictivos y recopilación de los indicios en el lugar de los hechos o del hallazgo;
-
-XII. Establecer líneas de investigación policial a partir de la información que le sea proporcionada por las áreas de análisis de la Institución;
-
-XIII. Dirigir los mecanismos de investigación para recabar datos o elementos de prueba que tiendan al esclarecimiento de los hechos delictivos y la probable participación o intervención de personas o miembros de organizaciones criminales en su comisión;
-
-XIV. Dar cumplimiento a los mandamientos ministeriales o judiciales que reciba, en el ámbito de sus atribuciones;
-
-XV. Coadyuvar en la investigación policial con la Policía de Investigación de la Ciudad de México, y con otras autoridades de los tres órdenes de gobierno que así lo requieran, así como aplicar los procedimientos de intercambio de información respectivos;
-
-XVI. Suministrar información a las Unidades Administrativas Policiales de la Secretaría, encargadas del análisis, procesamiento y generación de inteligencia para la prevención e investigación de delitos;
-
-XVII. Realizar búsquedas en fuentes de información cerrada para allegarse de información sustantiva que pueda ayudar en el esclarecimiento de los hechos, y
-
-XVIII. Las demás que le atribuya la normatividad vigente.
+(DEROGADO, G.O. 15 DE SEPTIEMBRE DE 2025)
 
 ###### Artículo 52.
 
@@ -3075,3 +3119,19 @@ TERCERO. La Secretaría realizará las adecuaciones y gestiones jurídico-admini
 CUARTO. La Secretaría actualizará su Manual Administrativo en los plazos que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
 
 QUINTO. Queda sin efectos toda aquella disposición al interior de la Secretaría de Seguridad Ciudadana de la Ciudad de México que se oponga al presente Decreto.
+
+G.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+TERCERO. La Secretaría actualizará su estructura orgánica y su Manual Administrativo en los plazos que establezcan los Lineamientos para la Dictaminación y Registro de Estructuras Orgánicas de la Administración Pública de la Ciudad de México y los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México, respectivamente.
+
+CUARTO. Los recursos humanos, materiales, técnicos, tecnológicos y financieros de la Dirección de la Unidad de Contacto del Secretario y la Dirección General de Atención a Casos de Secuestro y Extorsión que se modifican en su denominación, serán transferidos a la Dirección Ejecutiva de la Unidad de Contacto del Secretario y a la Coordinación General de Atención a Casos de Secuestro y Extorsión así como a aquellas Unidades Administrativas que asumen sus atribuciones en virtud del presente Decreto, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables.
+
+QUINTO. Los asuntos e instrumentos jurídicos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas que se cancelan o se modifican, serán atendidos y resueltos por aquellas que las sustituyan o asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia. Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa respecto de la Dirección de la Unidad de Contacto del Secretario y la Dirección General de Atención a Casos de Secuestro y Extorsión que se cancelan o se modifican por virtud de este Decreto, se entenderán referidas a aquellas que asuman tales funciones o atribuciones.
+
+SEXTO. Queda sin efectos toda aquella disposición al interior de la Secretaría de Seguridad Ciudadana de la Ciudad de México que se oponga al presente Decreto.
