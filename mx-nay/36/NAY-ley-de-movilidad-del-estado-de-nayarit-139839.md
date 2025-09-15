@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-movilidad-del-estado-de-nayarit-139839"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-07"
-last_updated: "2024-06-21"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 21 DE JUNIO DE 2024 NO APLICA AL ARTICULADO DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT PUBLICADA EN EL P.O. DE 7 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección quinta del Número 003 del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020.
 
@@ -1407,9 +1405,9 @@ XVII. Establecer medidas para el uso de una metodología basada en la perspectiv
 
 XVIII. Establecer mecanismos y acciones de coordinación administrativa y de concertación entre los sectores público, privado y social en materia de movilidad y seguridad vial;
 
-> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
-XIX. Garantizar que los factores como la velocidad y la circulación cercana a vehículos motorizados no pongan en riesgo a peatones y usuarios de vehículos motorizados y de tracción humana, en particular a la niñez, personas adultas mayores, con discapacidad o con movilidad limitada y grupos en situación de vulnerabilidad;
+XIX. Garantizar que los factores como la velocidad y la circulación cercana a vehículos motorizados no pongan en riesgo a peatones y usuarios de vehículos motorizados y de tracción humana, en particular a la niñez, personas adultas mayores, personas con discapacidad o con movilidad limitada y grupos en situación de vulnerabilidad;
 
 > <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2024)</small>
 
@@ -3047,7 +3045,9 @@ IV. Cumplir los lineamientos relacionados con las modalidades para la explotaci�
 
 V. Atender y respetar las directrices que, en los términos de esta Ley se contengan en el Programa Integral de Movilidad Sostenible del Estado, y
 
-VI. Cumplir con las especificaciones necesarias de accesibilidad a la atención de los usuarios discapacitados, los menores y personas de la tercera edad.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Cumplir con las especificaciones necesarias de accesibilidad a la atención de personas con discapacidad, los menores de edad y personas adultas mayores.
 
 ###### Artículo 185.
 
@@ -3843,7 +3843,9 @@ IV. Turístico. Es el destinado al traslado de personas exclusivamente hacia aqu
 
 Dentro de esta modalidad podrán incluirse los vehículos motorizados de tres ruedas, siempre y cuando cumplan con las especificaciones y requerimientos previstos en la presente Ley y su reglamento. Los vehículos motorizados de tres ruedas únicamente podrán transitar en las zonas y por las vialidades que les sea autorizado por la Secretaría y de conformidad con la autorización que para tales efectos emita el encargado de tránsito del municipio correspondiente, quedando prohibido transitar en vías primarias y vías públicas estatales;
 
-V. Para personas con discapacidad. Es el destinado al traslado de personas que padecen alguna discapacidad de las establecidas en la Ley de la materia en cuestión de personas con capacidades diferentes del Estado de Nayarit y demás disposiciones legales aplicables, y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+V. Para personas con discapacidad. Es el destinado al traslado de personas con alguna discapacidad de las establecidas en la Ley para la Protección e Inclusión de las Personas con Discapacidad del Estado de Nayarit y demás disposiciones legales aplicables, y
 
 VI. De servicio social. los destinados a prestar el servicio de seguridad pública y tránsito, ambulancias, servicios fúnebres, patrullas de rescate, bomberos u otros de naturaleza análoga.
 
@@ -5646,3 +5648,9 @@ TERCERO.- En un plazo no mayor a 360 días hábiles, deberán armonizarse los re
 CUARTO.- De manera paulatina y en atención a la disponibilidad presupuestaria, deberá atenderse las obligaciones en materia de infraestructura y servicios bajo el principio de accesibilidad.
 
 QUINTO.- Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSAS FRACCIONES DE LOS ARTÍCULOS 44, 184 Y 294 DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO Y ARMONIZACIÓN NORMATIVA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
