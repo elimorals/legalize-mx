@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2025-07-15"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -3261,7 +3261,9 @@ Toda persona tiene derecho a de un ambiente sano y ecológicamente equilibrado; 
 
 Para los efectos del artículo anterior, la Secretaría, en coordinación con los Gobiernos Municipales:
 
-I.- Convocará a representantes de las organizaciones obreras, empresariales, pesqueras, campesinos y productores agropecuarios, de las comunidades, de instituciones educativas, académicas y de investigación, pueblos indígenas, de instituciones privadas no lucrativas, discapacitados, grupos minoritarios y de otros representantes de la sociedad, para que manifiesten su opinión y propuestas;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+I.- Convocará a representantes de las organizaciones obreras, empresariales, pesqueras, campesinos y productores agropecuarios, de las comunidades, de instituciones educativas, académicas y de investigación, pueblos indígenas, de instituciones privadas no lucrativas, personas con discapacidad, grupos minoritarios y de otros representantes de la sociedad, para que manifiesten su opinión y propuestas;
 
 II.- Celebrará convenios de concertación con:
 
@@ -4310,5 +4312,11 @@ SEGUNDO. El establecimiento de clínicas veterinarias públicas estará sujeto a
 P.O. 15 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT, EN MATERIA DE HUERTOS URBANOS Y DONACIÓN ALTRUISTA DE ALIMENTOS PARA MASCOTAS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 188 DE LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
