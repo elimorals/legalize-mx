@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-juventud-del-estado-de-nayarit-70348"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2025-07-15"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 19 de septiembre de 2009.
 
@@ -219,9 +219,11 @@ El Instituto ofrecerá y fomentará la creación de espacios para la recreación
 
 El Instituto en coordinación con el Instituto Nayarita del Deporte brindará apoyo a los jóvenes para que tengan acceso a la práctica deportiva y al disfrute de espectáculos deportivos; de igual forma promoverá y procurará el apoyo a iniciativas deportivas juveniles.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-El Instituto instrumentará mecanismos para que el joven discapacitado pueda ser autosuficiente en lo cultural y/o deportivo, teniendo como fin su participación activa en la sociedad.
+El Instituto instrumentará mecanismos para que la persona joven con discapacidad pueda ser autosuficiente en lo cultural y/o deportivo, teniendo como fin su participación activa en la sociedad.
 
 #### Sección Cuarta. Del fortalecimiento de las identidades juveniles
 
@@ -321,7 +323,9 @@ II.- Contribuir a la economía familiar, cuando las necesidades así lo demanden
 
 III.- Contribuir en el cuidado, educación y enseñanza de otros miembros de la familia que lo requieran;
 
-IV.- Brindar protección y apoyo en la medida de sus posibilidades físicas a todos los miembros de su familia, especialmente si son niñas o niños, personas con discapacidad y adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+IV.- Brindar protección y apoyo en la medida de sus posibilidades físicas a todos los miembros de su familia, especialmente si son niñas o niños, personas con discapacidad y personas adultas mayores;
 
 V.- Evitar dentro de sus hogares cualquier acto de discriminación, abuso, aislamiento, prepotencia o violencia familiar, contra cualquier miembro de la familia;
 
@@ -553,7 +557,9 @@ e) Prestar servicios de apoyo y asesoría jurídica para los jóvenes;
 
 f) Gestionar asistencia médica, psicológica, o en su caso, la atención a los jóvenes con problemas de adaptación social;
 
-g) Desarrollar programas específicos para los jóvenes discapacitados o que pertenezcan a los grupos más vulnerables de la sociedad en coordinación con los Ayuntamientos del Estado;
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+g) Desarrollar programas específicos para las y los jóvenes con discapacidad o que pertenezcan a los grupos más vulnerables de la sociedad en coordinación con los Ayuntamientos del Estado;
 
 XX.- Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes que habitan en el Estado;
 
@@ -775,7 +781,9 @@ XI.- Definición e implementación de programas y proyectos juveniles que incluy
 
 XII.- La creación, promoción y apoyo de un sistema de información que permita a los jóvenes del estado obtener, procesar, intercambiar y difundir información actualizada de interés para los entornos juveniles;
 
-XIII.- Mecanismos para que el joven discapacitado pueda llegar a bastarse a sí mismo, teniendo como objetivo su participación activa a la comunidad; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+XIII.- Mecanismos para que la persona joven con discapacidad pueda llegar a bastarse a sí mismo, teniendo como objetivo su participación activa a la comunidad, y
 
 XIV.- Lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia.
 
@@ -840,3 +848,9 @@ P.O. 15 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Para su conocimiento y efectos conducentes, notifíquese el Decreto a la Secretaría de Educación, a los Servicios de Educación Pública, ambos del Estado de Nayarit.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
