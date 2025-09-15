@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-derechos-y-cultura-indigena-del-estado-de-nayarit-42195"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-18"
-last_updated: "2015-10-21"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Vigésima Segunda del Periódico Oficial del Estado de Nayarit, el sábado 18 de diciembre de 2004.
 
@@ -291,13 +291,17 @@ El Estado y los municipios, a través de las instancias correspondientes, realiz
 
 El Estado y los Municipios, a través de las instancias correspondientes prestarán en los pueblos y comunidades indígenas servicios de orientación social y asesoría jurídica encaminados al establecimiento de una cultura tendiente a reorientar aquellas prácticas o costumbres que atenten contra los derechos de los niños y de la dignidad e igualdad de las mujeres con los varones.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 48.
 
-En los asuntos en que se afecte a la familia indígena y especialmente cuando se atente en contra de la integridad física, salud o sano desarrollo de las mujeres, niños indígenas, discapacitados y ancianos, así como para evitar la violencia doméstica, el maltrato físico y emocional, la irresponsabilidad de los padres ante los hijos y del varón ante la mujer, el abandono y el hostigamiento sexual, el Ministerio Público, podrá intervenir de oficio, decretando las medidas de protección respectivas y proponiendo alternativas de avenimiento, siempre y cuando el acto no constituya un hecho delictivo.
+En los asuntos en que se afecte a la familia indígena y especialmente cuando se atente en contra de la integridad física, salud o sano desarrollo de las mujeres, niñas y niños indígenas, personas con discapacidad y personas adultas mayores, así como para evitar la violencia doméstica, el maltrato físico y emocional, la irresponsabilidad de los padres ante los hijos y del hombre ante la mujer, el abandono y el hostigamiento sexual, el Ministerio Público, podrá intervenir de oficio, decretando las medidas de protección respectivas y proponiendo alternativas de avenimiento, siempre y cuando el acto no constituya un hecho delictivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 49.
 
-El Estado y los Municipios impulsarán programas prioritarios para atender a discapacitados y ancianos, y que la población infantil de los pueblos y comunidades indígenas mejoren sus niveles de salud, alimentación y educación, así como de información a la niñez indígena acerca de lo nocivo del consumo de bebidas y substancias que afectan a la salud humana.
+El Estado y los Municipios impulsarán programas prioritarios para atender a personas con discapacidad y personas adultas mayores, y que la población infantil de los pueblos y comunidades indígenas mejoren sus niveles de salud, alimentación y educación, así como de información a la niñez indígena acerca de lo nocivo del consumo de bebidas y substancias que afectan a la salud humana.
 
 Dichos programas implementarán mecanismos de denuncia de aquellos que fomenten los vicios y la drogadicción en los pueblos indígenas.
 
@@ -546,3 +550,9 @@ P.O. 21 DE OCTUBRE DE 2015.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- En lo concerniente al artículo 57, la implementación plena de la educación básica de forma bilingüe e intercultural, será de forma gradual en un plazo de tres años, contados a partir del inicio de la vigencia de este decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 48 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 49 DE LA LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
