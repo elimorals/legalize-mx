@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-para-la-creacion-de-libros-y-la-lectura-del-7530
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-29"
-last_updated: "2024-07-22"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FOMENTO PARA LA CREACIÓN DE LIBROS Y LA LECTURA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 29 de mayo de 2010.
 
@@ -277,7 +277,9 @@ VII. Fomentar la cultura de respeto a los derechos de autor;
 
 VIII. Proponer la realización de estudios e investigaciones que permitan apoyar el desarrollo de sus actividades;
 
-IX. Promover acciones que favorezcan al acceso de los discapacitados a las bibliotecas; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+IX. Promover acciones que favorezcan el acceso a personas con discapacidad a las bibliotecas, y
 
 X. Promover la formación y actualización de profesionales en el fomento y promoción a la Lectura.
 
@@ -578,3 +580,9 @@ P.O. 22 DE JULIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
 
 SEGUNDO. Comuníquese el presente Decreto a la Secretaría de Educación del Estado de Nayarit, así como, al Consejo Estatal para la Cultura y las Artes, para su conocimiento y efectos conducentes.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 13 DE LA LEY DE FOMENTO PARA LA CREACIÓN DE LIBROS Y LA LECTURA DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
