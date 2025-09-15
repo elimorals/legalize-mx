@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-regula-los-establecimientos-dedicados-a-la-161333"
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-02"
-last_updated: "2022-12-02"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161333&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS A LA PRODUCCIÓN, ALMACENAMIENTO, DISTRIBUCIÓN Y ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el viernes 2 de diciembre de 2022.
 
@@ -299,7 +299,9 @@ I.- Violar marcas, sellos, etiquetas y demás medios de control e identificació
 
 II.- Obsequiar o vender bebidas alcohólicas a elementos uniformados del ejército, policías y movilidad que porten armas;
 
-III.- Permitir la entrada y vender bebidas alcohólicas a menores de edad y personas con discapacidad mental en cualquiera de los giros previstos en esta Ley;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+III.- Permitir la entrada y vender bebidas alcohólicas a menores de edad y personas con discapacidad intelectual en cualquiera de los giros previstos en esta Ley;
 
 IV.- Vender bebidas alcohólicas fuera de los horarios permitidos;
 
@@ -752,3 +754,11 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez García" Recinto Oficial de est
 Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip. Luis Fernando Pardo González, Secretario.- Rúbrica.- Dip. Alejandro Regalado Curiel, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los dos días del mes de diciembre de dos mil veintidós.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Mtro. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 22 DE LA LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS A LA PRODUCCIÓN, ALMACENAMIENTO, DISTRIBUCIÓN Y ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
