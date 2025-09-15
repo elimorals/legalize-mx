@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-vivienda-para-el-estado-de-nayarit-68841"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-06"
-last_updated: "2016-12-17"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE VIVIENDA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 6 de junio de 2009.
 
@@ -67,11 +67,13 @@ VIII.- Informar los mecanismos jurídicos y financieros para que los beneficiari
 
 Serán de aplicación supletoria a lo dispuesto en este ordenamiento; la Ley Estatal de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit; la Ley de Planeación del Estado de Nayarit; la Ley de Justicia y Procedimientos Administrativos, así como los demás ordenamientos legales relacionados en materia de vivienda, vigentes en la Entidad.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 3.
 
-Las disposiciones de la presente Ley deberán aplicarse bajo los principios de equidad e inclusión social que permitan generar las condiciones para que los habitantes del Estado, sin importar su origen étnico, nacionalidad, género, edad, capacidades, condición social o económica, salud, religión, opinión, preferencias o estado civil; puedan acceder a una vivienda digna, decorosa y un hábitat adecuado.
+Las disposiciones de la presente Ley deberán aplicarse bajo los principios de equidad e inclusión social que permitan generar las condiciones para que los habitantes del Estado, sin importar su origen étnico, nacionalidad, género, edad, discapacidad, condición social o económica, salud, religión, opinión, preferencias o estado civil; puedan acceder a una vivienda digna, decorosa y un hábitat adecuado.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas y normativas aplicables en materia de asentamientos humanos, construcción, habitabilidad y salubridad; aquella que cuente con un lugar donde poder aislarse, espacio adecuado, seguridad, iluminación y ventilación; cuente con los servicios básicos; brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión; contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
 
@@ -235,7 +237,9 @@ IX.- Promover una distribución y una atención equilibrada de las acciones de v
 
 X.- Promover medidas que proporcionen a la población información suficiente para la toma de decisiones sobre las tendencias del desarrollo urbano en su localidad y las opciones que ofrecen los programas institucionales y el mercado, de acuerdo con sus necesidades, posibilidades y preferencias.
 
-XI.- Incorporar en los procesos de planeación, construcción, diseño y equipamiento de la vivienda, mecanismos para el funcionamiento y el desarrollo integral de las personas con capacidades diferentes.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+XI.- Incorporar en los procesos de planeación, construcción, diseño y equipamiento de la vivienda, mecanismos para el funcionamiento y el desarrollo integral de las personas con discapacidad.
 
 XII.- Contar con un Organismo con capacidad financiera suficiente para diversificar las modalidades de financiamiento que mejoren la recuperación crediticia.
 
@@ -1310,3 +1314,9 @@ P.O. 17 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMAR (SIC) EL PRIMER PÁRRAFO DEL ARTÍCULO 3 Y LA FRACCIÓN XI DEL ARTÍCULO 7 DE LA LEY DE VIVIENDA PARA EL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
