@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2024-03-01"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -107,7 +107,9 @@ X.- UMA.- La Unidad de Medida y Actualización considerando su valor diario en t
 
 Corresponde al Centro de Rehabilitación y Educación Especial, valorar y calificar, por conducto de una Comisión Especial interdisciplinaria, el tipo y grado de discapacidad de las personas a fin de acceder a los diferentes beneficios y servicios que dispone el presente ordenamiento, sin perjuicio de las funciones y atribuciones que corresponda efectuar a otros organismos administrativos, según sea el ámbito competencial.
 
-El diagnóstico que emita la comisión señalada deberá comprender los diversos aspectos de la personalidad y las disminuciones del presunto discapacitado, entorno familiar y orientación terapéutica, determinado las necesidades, aptitudes y posibilidades de recuperación, así como las disposiciones relativas a el seguimiento y revisión.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+El diagnóstico que emita la comisión señalada deberá comprender los diversos aspectos de la personalidad y las disminuciones de la persona con presunta discapacidad, su entorno familiar y orientación terapéutica, determinando las necesidades, aptitudes y posibilidades de recuperación, así como las disposiciones relativas al seguimiento y revisión.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -571,11 +573,19 @@ Sin perjuicio de lo dispuesto en otros ordenamientos legales, las personas con d
 
 El Ejecutivo del Estado, en los términos de la ley de la materia, otorgará concesiones de Transporte especializado a las organizaciones o particulares que satisfagan los requisitos y condiciones que la misma establece, debiendo reunir además, las especificaciones técnicas y especiales que permitan el acceso y uso adecuado a las personas con capacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 50.
 
-Cuando en las poblaciones o localidades del Estado no existan transportes especializados, o existiendo estos, no sean suficientes para cubrir las rutas autorizadas, los concesionarios del servicio público de transporte colectivo de pasajeros, en cada una de las unidades que utilicen, deberán reservar, por lo menos, dos asientos por cada diez de los que disponga el vehículo, a efecto de que en su caso sean utilizados por personas con discapacidad o senescentes, haciendo en las unidades las adecuaciones necesarias que previo estudio determine la autoridad.
+Cuando en las poblaciones o localidades del Estado no existan transportes especializados, o existiendo estos, no sean suficientes para cubrir las rutas autorizadas, los concesionarios del servicio público de transporte colectivo de pasajeros, en cada una de las unidades que utilicen, deberán reservar, por lo menos, dos asientos por cada diez de los que disponga el vehículo, a efecto de que en su caso sean utilizados por personas con discapacidad o personas adultas mayores, haciendo en las unidades las adecuaciones necesarias que previo estudio determine la autoridad.
 
-Estos asientos deberán estar situados cerca de la puerta de acceso del vehículo de que se trate y tendrán un emblema y leyenda para su identificación, pudiendo ser utilizados por los usuarios no discapacitados, siempre y cuando no sean requeridos por alguna persona con discapacidad.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+Estos asientos deberán estar situados cerca de la puerta de acceso del vehículo de que se trate y deberán estar señalizados mediante emblemas y leyendas visibles, indicando que su uso es preferente para personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+Dichos espacios podrán ser utilizados por otras personas únicamente cuando no sean requeridos por personas con discapacidad, promoviendo así el respeto al principio de accesibilidad universal.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
@@ -1068,3 +1078,11 @@ SEGUNDO. Comuníquese el Decreto a los Ayuntamientos de la Entidad, para los efe
 TERCERO. Comuníquese el presente Decreto al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit, al Instituto Estatal Electoral de Nayarit, a la Universidad Autónoma de Nayarit, al Consejo Estatal para la Inclusión de Personas con Discapacidad de Nayarit y a la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, como autoridades parte del Convenio de Colaboración en Materia de Proceso de Consulta a Personas con Discapacidad del Estado de Nayarit de fecha trece de julio de dos mil veintitrés, para su conocimiento y efectos correspondientes.
 
 CUARTO. El presente Decreto, deberá publicarse en lenguaje accesible y comprensible, utilizando toda herramienta o sistema que permita cumplir dicho elemento de accesibilidad para las personas con discapacidad.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 3 Y 50 DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Las referencias establecidas en los ordenamientos jurídicos qué hacen mención al termino discapacitado, deberá entenderse como personas con discapacidad.
