@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-desarrollo-cultural-para-el-estado-de-nayarit-82429"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-27"
-last_updated: "2013-03-23"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL DESARROLLO CULTURAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 27 de julio de 2011.
 
@@ -107,7 +107,9 @@ IV. Adquirir y desarrollar la formación necesaria para el ejercicio de sus facu
 
 V. Acceder a los valores testimoniales de los bienes tangibles e intangibles, integrantes del patrimonio cultural, sin más limitación a la que esté sujeto el bien, en razón de su régimen de propiedad o posesión;
 
-VI. Aceptar y respetar las diversas formas de expresión cultural y artística creadas por los niños, jóvenes, discapacitados, adultos y adultos mayores en el Estado;
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Aceptar y respetar las diversas formas de expresión cultural y artística creadas por los niños, jóvenes, personas con discapacidad, adultos y personas adultas mayores en el Estado;
 
 VII. Participar en la protección del patrimonio natural y cultural, y
 
@@ -796,3 +798,9 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 23 DE MARZO DE 2013.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 7 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
