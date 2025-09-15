@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2024-09-06"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -803,9 +803,11 @@ El Estado organizará servicios permanentes de promoción y asesoría de educaci
 
 Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 27.
 
-La Educación Especial tendrá como finalidad brindar apoyo psicopedagógico a individuos con discapacidades transitorias o definitivas, así como a aquellos con capacidades y aptitudes sobresalientes.
+La Educación Especial tendrá como finalidad brindar apoyo psicopedagógico a personas con discapacidad temporal o permanente, así como a aquellas con capacidades y aptitudes sobresalientes.
 
 Esta se ofrecerá en planteles educativos estatales, municipales y particulares con autorización o reconocimiento de validez oficial de estudio.
 
@@ -2016,3 +2018,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La autoridad educativa estatal en colaboración con los Servicios de Salud de Nayarit, en el ámbito de sus posibilidades presupuestales de cada ciclo escolar, implementarán protocolos, manuales o programas para la detección de conductas y trastornos que afecten la salud física y mental de los educandos.
 
 TERCERO.- Comuníquese el presente Decreto a los Servicios de Educación Pública del Estado de Nayarit, la Secretaría de Educación y la Secretaría de Salud, ambas del Estado de Nayarit, para los efectos legales conducentes.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 27 DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
