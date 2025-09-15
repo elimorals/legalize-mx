@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-competitividad-y-el-empleo-del-estado-de-nayarit-70
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-16"
-last_updated: "2024-05-14"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 16 de septiembre de 2009.
 
@@ -471,7 +471,9 @@ Para el otorgamiento de los estímulos fiscales, se observarán los requisitos q
 
 I. Generación de Empleos;
 
-II. Empleo de personas contratadas con capacidades diferentes, adultos mayores o indígenas;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+II. Empleo de personas con discapacidad, personas adultas mayores o indígenas;
 
 III. Nivel de remuneración a los niveles operativos;
 
@@ -996,3 +998,9 @@ P.O. 14 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT, EN MATERIA DE EMPODERAMIENTO FINANCIERO DE LAS MUJERES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 30 DE LA LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
