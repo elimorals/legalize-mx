@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-las-personas-adultas-mayores-para-el-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-09"
-last_updated: "2024-09-06"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 9 de diciembre de 2015.
 
@@ -495,9 +495,11 @@ IV. La terapia oportuna e idónea para atender las enfermedades y anomalías adq
 
 Las autoridades estatales y municipales, así como las instituciones de protección públicas o privadas, en coordinación con la Secretaría de Salud del Estado, atenderán de manera inmediata a las personas adultas mayores y de ser necesario, las canalizarán a los servicios de salud a que estas tengan derecho. La atención deberá darse con calidez, calidad y libre de discriminación de cualquier tipo.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 36.
 
-Las autoridades en materia de salud deberán establecer programas de detección oportuna y tratamiento temprano de enfermedades crónicas degenerativas y neoplasias, del mismo modo deberán brindar atención y asistencia a quienes sufren de discapacidades funcionales.
+Las autoridades en materia de salud deberán establecer programas de detección oportuna y tratamiento temprano de enfermedades crónicas degenerativas y neoplasias, del mismo modo deberán brindar atención y asistencia a personas con discapacidad funcional.
 
 ###### Artículo 37.
 
@@ -744,3 +746,11 @@ P.O. 6 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT, EN MATERIA DE INCLUSIÓN FINANCIERA, EDUCACIÓN FINANCIERA Y FINANZAS PERSONALES”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA EL ARTÍCULO 36 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Las referencias establecidas en los ordenamientos jurídicos qué hacen mención al termino ancianos, deberá entenderse como personas adultas mayores.
