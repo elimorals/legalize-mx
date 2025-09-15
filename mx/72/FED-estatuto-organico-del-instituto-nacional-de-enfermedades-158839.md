@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-enfermedades-158839
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-06-10"
-last_updated: "2022-06-10"
+last_updated: "2025-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158839&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-05-20"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE ENFERMEDADES RESPIRATORIAS ISMAEL COSIO VILLEGAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO BIS DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ENFERMEDADES RESPIRATORIAS ISMAEL COSÍO VILLEGAS, PUBLICADO EN EL D.O.F. DE 15 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ENFERMEDADES RESPIRATORIAS ISMAEL COSÍO VILLEGAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 10 de junio de 2022.
 
@@ -1066,3 +1068,23 @@ Aprobado en la Ciudad de México, a los cinco días de noviembre del dos mil vei
 Dr. Jorge Salas Hernández
 
 Titular de la Dirección General del Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ENFERMEDADES RESPIRATORIAS ISMAEL COSÍO VILLEGAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga.
+
+ARTÍCULO SEGUNDO BIS.- Se abroga el Estatuto Orgánico del Instituto Nacional de Enfermedades Respiratorias del 05 de noviembre del 2020.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular de la Dirección General del Instituto deberá inscribir este Estatuto en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales.
