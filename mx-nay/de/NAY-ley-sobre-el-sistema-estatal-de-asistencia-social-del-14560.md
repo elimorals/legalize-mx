@@ -4,7 +4,7 @@ identifier: "NAY-ley-sobre-el-sistema-estatal-de-asistencia-social-del-14560"
 country: "mx"
 rank: "ley"
 publication_date: "1986-11-01"
-last_updated: "2006-12-22"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el sábado 1 de noviembre de 1986.
 
@@ -47,13 +47,17 @@ DISPOSICIONES GENERALES.
 
 La presente Ley regirá en todo el Estado de Nayarit, sus disposiciones son de orden público e interés social y tiene por objeto crear y establecer las bases y procedimientos de un Sistema Estatal de Asistencia Social que promueva la prestación de los servicios de asistencia social que establece la Ley de Salud del Estado de Nayarit y coordine el acceso a los mismos, garantizando la concurrencia y colaboración del Gobierno Federal, Gobierno Estatal y Municipal, así como la participación de los sectores social y privado, según la distribución de competencias que establece la Ley General de Salud y la Ley sobre el Sistema Nacional de Asistencia Social.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 2o.
 
-El gobierno del estado en forma prioritaria proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, y también a apoyar, en su formación, subsistencia y desarrollo, a individuos con carencias familiares esenciales no superables en forma autónoma por ellos.
+El Gobierno del Estado, de manera prioritaria, proporcionará servicios de asistencia social, orientados al desarrollo integral de las familias, entendidas estas como la célula de la sociedad que provee a sus miembros de los elementos necesarios para afrontar las distintas etapas de su desarrollo. Asimismo, se apoyará la formación, subsistencia y desarrollo de personas que carezcan de redes familiares esenciales y que, por sí mismas, no pueden superarlas de manera autónoma.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley, se entiende por asistencia social al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo a su desarrollo integral, así como la protección física mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+Para los efectos de esta Ley, se entiende por asistencia social al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan o dificulten el desarrollo integral de las personas, así como a garantizar su protección física, mental y social cuando se encuentren en situación de necesidad, desprotección o desventaja, ya sea física y mental o social, con el fin de favorecer su inclusión en una vida plena, digna y productiva.
 
 ###### ARTICULO 4o.
 
@@ -63,19 +67,27 @@ I.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato
 
 II.- Menores infractores, en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
 
-III.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+III.- Personas alcohólicas, farmacodependientes o sin medios de subsistencia;
 
 IV.- Mujeres en períodos de gestación o lactancia;
 
-V.- Ancianos en desamparo, incapacidad, marginación o sujetos a mal trato;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+V.- Personas adultas mayores en desamparo, con discapacidad, marginación o sujetas algún tipo de violencia;
 
-VI.- Discapacitados por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje y otras deficiencias;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
-VII.- Indigentes;
+VI.- Personas con discapacidad;
 
-VIII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+VII.- Personas en situación de calle;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+VIII.- Personas que, debido a condiciones de rezago educativo o falta de acceso a información básica, requieran de servicios asistenciales;
 
 IX.- Víctimas de la comisión de delitos en estado de abandono;
 
@@ -157,9 +169,9 @@ XI.- Las demás que le otorgan las leyes aplicables.
 
 Para los efectos de esta ley, se entienden como servicios básicos de salud en materia de asistencia social, los siguientes:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
-I.- La atención a personas con carencias socio-económicas o por problemas de discapacidad;
+I.- La atención a personas con carencias socio-económicas o personas con discapacidad;
 
 II.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -181,7 +193,9 @@ IX.- El establecimiento y manejo del Sistema Estatal de Información Básica en 
 
 X.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
 
-XI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+XI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental, y
 
 XII.- Los análogos y conexos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
 
@@ -225,7 +239,9 @@ I.- Promover y prestar servicios de Asistencia Social;
 
 II.- Apoyar el desarrollo de la familia y de la comunidad;
 
-III.- Realizar acciones de apoyo educativo, para la integración social y de capacitación para el trabajo a los sujetos de la asistencia social;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+III.- Realizar acciones de apoyo educativo, para la integración social y de capacitación para el trabajo a las personas sujetas de la asistencia social;
 
 IV.- Promover e impulsar el sano crecimiento físico, mental y social de la niñez;
 
@@ -233,9 +249,9 @@ V.- Coordinar las funciones relacionadas con la beneficencia pública y la asist
 
 VI.- Fomentar, apoyar, coordinar y evaluar las actividades que lleven a cabo las instituciones de asistencia o asociaciones civiles y todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
-VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de discapacitados sin recursos;
+VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o desprotección, personas adultas mayores en situación de abandono o vulnerabilidad, y de personas con discapacidad que carezcan de recursos;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -249,9 +265,9 @@ XI.- Realizar y promover la capacitación de recursos humanos para la asistencia
 
 XII.- Operar el Sistema Estatal de Información Básica en materia de Asistencia Social.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
-XIII.- Prestar servicios de asistencia jurídica y de orientación social a menores, ancianos y discapacitados, sin recursos;
+XIII.- Brindar servicios de asistencia jurídica y orientación social a niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad que se encuentren en situación de vulnerabilidad o que no cuenten con los recursos necesarios;
 
 XIV.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva;
 
@@ -263,15 +279,17 @@ XVI.- Realizar estudios e investigaciones en materia de discapacidad;
 
 XVII.- Participar en programas de rehabilitación y educación especial.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
-XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesaria para satisfacer los requerimientos de autonomía de los discapacitados; y
+XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesaria para satisfacer los requerimientos de autonomía de las personas con discapacidad, y
 
 XIX.- Las demás que establezcan las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 19.
 
-En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de la naturaleza por los que se causen daños a la población, el Organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades de la Administración Pública Federal, Estatal o Municipal; promoverá la atención y coadyuvará en las acciones de los distintos sectores sociales que actúen en beneficio de aquellos, en el ámbito de su competencia.
+En casos de desastre, como inundaciones, sismos, derrumbes, explosiones, incendios u otros fenómenos naturales que ocasionen daños a la población, el Organismo sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal, Estatal o Municipal en el auxilio a personas afectadas promoverá la atención y coadyuvará en las acciones de los distintos sectores sociales que actúen en beneficio de las personas damnificadas, en el ámbito de su competencia.
 
 ###### ARTICULO 20.
 
@@ -311,9 +329,11 @@ III.- Dirección General.
 
 La vigilancia de la operación del Organismo estará a cargo de un Comisario.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 23.
 
-El Patronato estará integrado por un Director, un Secretario Técnico, un Representante de la S.P.P., un Representante del COPLADENAY, un Representante de la S.S.A., un Representante de la Secretaría de la Contraloría General de Gobierno, un Representante del I.M.S.S., un Representante del I.S.S.S.T.E., un Representante de la S.E.P., un Representante del ICANAY, y un Representante de la Procuraduría General de Justicia del Estado; miembros designados y removidos por el Gobernador del Estado. El Director General del Organismo y el Representante de la S.S.A. representarán a la Junta de Gobierno ante el Patronato, cuyos miembros no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+El Patronato estará integrado por una Dirección, una Secretaría Técnica, una persona Representante de cada una de las personas titulares de las siguientes dependencias o entidades: Secretaría de Desarrollo Sustentable, Instituto de Planeación del Estado de Nayarit, Secretaría de Salud, Secretaría para la Honestidad y Buena Gobernanza, Secretaría de Educación, Consejo Estatal para la Cultura y las Artes de Nayarit, así como una persona representante de la Fiscalía General del Estado; personas designadas y removidas por la persona titular del Poder Ejecutivo del Estado; del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. La persona titular de la Dirección General del Organismo y de la Secretaría de Salud, representarán a la Junta de Gobierno ante el Patronato, las personas integrantes del Patronato no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
 
 ###### ARTICULO 24.
 
@@ -325,7 +345,9 @@ II.- Apoyar las actividades del Organismo y formular sugerencias tendientes a su
 
 III.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Organismo y el cumplimiento de sus objetivos;
 
-IV.- Designar a su Presidente y al Secretario de Sesiones, y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+IV.- Designar a las personas que ocuparán la Presidencia y la Secretaría de Sesiones, y
 
 V.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
@@ -333,13 +355,15 @@ V.- Las demás que sean necesarias para el ejercicio de las facultades anteriore
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 26.
 
-La Junta de Gobierno estará integrada por el Secretario General de Gobierno, la S.P.P., S.S.A., I.M.S.S., I.S.S.S.T.E., Procuraduría General de Justicia del Estado, Copladenay, y el Director General del propio Organismo.
+La Junta de Gobierno estará integrada por las personas titulares de la Secretaría General de Gobierno, la Secretaría de Desarrollo Sustentable, la Secretaría de Salud, la Fiscalía General del Estado, el Instituto de Planeación del Estado de Nayarit, las representaciones del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y por la persona titular de la Dirección General del propio Organismo.
 
-Los miembros de la Junta de Gobierno serán suplidos por los representantes que al efecto designen cada uno de los miembros propietarios de la misma.
+Las personas integrantes de la Junta de Gobierno serán suplidas por representantes que al efecto designen cada una de las personas propietarias de la misma.
 
-La Junta de Gobierno contará con un Secretario Técnico, designado por la misma, a propuesta del Director General.
+La Junta de Gobierno contará con una Secretaría Técnica, designada por la misma, a propuesta de la persona titular de la Dirección General.
 
 ###### ARTICULO 27.
 
@@ -351,9 +375,13 @@ II.- Aprobar los planes de labores, presupuestos, informes de actividades y esta
 
 III.- Aprobar el Reglamento Interior, la Organización General del Organismo y los Manuales de Procedimientos y de Servicios al Público;
 
-IV.- Designar y remover, a propuesta del Director General del Organismo, a los servidores públicos superiores;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
-V.- Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;
+IV.- Designar y remover, a propuesta de la persona titular de la Dirección General del Organismo, a las personas servidoras públicas superiores;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+V.- Conocer los informes, dictámenes y recomendaciones de la persona Comisaria y Auditora Externa;
 
 VI.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
 
@@ -367,23 +395,27 @@ X.- Aprobar los programas de mediano plazo a que quedarán sujetos los servicios
 
 XI.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 28.
 
-La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales y para elevar las propuestas que estimen necesarias a la Junta. Estos Comités estarán formados por los representantes que al efecto designen las dependencias y entidades competentes.
+La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales y para elevar las propuestas que estimen necesarias a la Junta. Estos Comités estarán formados por las personas representantes que al efecto designen las dependencias y entidades competentes.
 
 ###### ARTICULO 29.
 
 La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran, de conformidad con el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 30.
 
-El Director General será ciudadano mexicano por nacimiento, mayor de edad y con experiencia en materia administrativa y de asistencia social.
+La persona que sea designada como titular de la Dirección General deberá ser ciudadana mexicana por nacimiento, mayor de edad y con experiencia en materia administrativa y de asistencia social, quien será designada libremente por la persona titular del Poder Ejecutivo del Estado.
 
-El Gobernador del Estado designará y removerá libremente al Director General.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 31.
 
-El Director General tendrá las siguientes facultades:
+La persona titular de la Dirección General tendrá las siguientes facultades:
 
 I.- Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
 
@@ -391,7 +423,9 @@ II.- Presentar a la Junta de Gobierno, los informes y estados financieros bimest
 
 III.- Presentar al conocimiento y aprobación de la Junta de Gobierno los planes de labores, presupuestos, informes de actividades y estados financieros anuales del Organismo;
 
-IV.- Proponer a la Junta de Gobierno, la designación y remoción de los servidores públicos superiores, así como designar y remover libremente a los demás servidores públicos del Organismo;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
+IV.- Proponer a la Junta de Gobierno, la designación y remoción de las personas servidoras públicas superiores, así como designar y remover libremente a las demás personas servidoras públicas del Organismo;
 
 V.- Expedir o autorizar los nombramientos del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales;
 
@@ -554,3 +588,9 @@ P.O. 22 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, EN MATERIA DE LENGUAJE INCLUSIVO, ACTUALIZACIÓN Y ARMONIZACIÓN NORMATIVA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
