@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-cultura-y-justicia-civica-para-el-estado-de-nayarit-1375
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-05"
-last_updated: "2021-06-02"
+last_updated: "2025-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CULTURA Y JUSTICIA CÍVICA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Sexta al Número 109 del Periódico Oficial del Estado de Nayarit, el miércoles 5 de junio de 2019.
 
@@ -705,9 +705,11 @@ Cuando el probable infractor o infractora se encuentre en estado de ebriedad o b
 
 Tratándose de probables infractores o infractoras que por su estado físico o mental denoten peligrosidad o intención de evadirse del Juzgado, se les retendrá en el área de seguridad hasta que se inicie la audiencia.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 50.
 
-Cuando el probable infractor o infractora padezca alguna enfermedad o discapacidad mental, a consideración del personal médico adscrito a la Unidad de Sanidad Municipal, el Juez o Jueza suspenderá el procedimiento y citará a las personas obligadas a la custodia de la persona enferma o con discapacidad mental y, a falta de éstas, se remitirán a las autoridades de salud o instituciones de asistencia social competentes de los municipios que deban intervenir, a fin de que se le proporcione la ayuda o asistencia que requiera.
+Cuando el probable infractor o infractora padezca alguna enfermedad o discapacidad intelectual, a consideración del personal médico adscrito a la Unidad de Sanidad Municipal el Juez o Jueza suspenderá el procedimiento y citará a las personas obligadas a la custodia de la persona enferma o con discapacidad intelectual y, a falta de éstas, se remitirán a las autoridades de salud o instituciones de asistencia social competentes de los municipios que deban intervenir, a fin de que se le proporcione la ayuda o asistencia que requiera.
 
 ###### Artículo 51.
 
@@ -1220,3 +1222,9 @@ P.O. 2 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y JUSTICIA CÍVICA PARA EL ESTADO DE NAYARIT, EN MATERIA DE FALTAS ADMINISTRATIVAS”.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 50 DE LA LEY DE CULTURA Y JUSTICIA CÍVICA PARA EL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
