@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-ejecutivo-del-estado-de-baja-152865"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-06"
-last_updated: "2025-07-21"
+last_updated: "2025-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Número Especial 99 del Periódico Oficial del Estado de Baja California, el lunes 6 de diciembre de 2021.
 
@@ -335,7 +335,9 @@ Corresponde a la titularidad de cada dependencia de la Administración Pública 
 
 Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados.
 
-Los manuales de organización, procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de las y los servidores públicos, a través del registro electrónico que opere la Secretaría de la Honestidad y la Función Pública.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2025)</small>
+
+Los manuales de organización, procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de las y los servidores públicos, a través del registro electrónico que opere la Secretaría Anticorrupción y Buen Gobierno.
 
 Los manuales de organización deberán publicarse en el Periódico Oficial del Estado.
 
@@ -393,7 +395,9 @@ XVI. Secretaría de Medio Ambiente y Desarrollo Sustentable;
 
 XVII. Secretaría para el Manejo, Saneamiento y Protección del Agua;
 
-XVIII. Secretaría de la Honestidad y la Función Pública;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2025)</small>
+
+XVIII. Secretaría Anticorrupción y Buen Gobierno;
 
 XIX. Secretaría de Cultura;
 
@@ -1597,9 +1601,11 @@ XXVIII. Coadyuvar con las autoridades competentes en la creación de una educaci
 
 XXIX. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 48.
 
-La Secretaría de la Honestidad y la Función Pública tendrá las atribuciones y obligaciones siguientes:
+La Secretaría Anticorrupción y Buen Gobierno tendrá las atribuciones y obligaciones siguientes:
 
 I. Organizar y coordinar la evaluación de la gestión gubernamental y de sus resultados, así como concertar y validar con las dependencias y entidades paraestatales de la Administración Pública, los indicadores de gestión para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
 
@@ -1679,9 +1685,29 @@ XXXVIII. Proponer, coordinar la integración, organización y funcionamiento de 
 
 XXXIX. Vigilar la aplicación de las políticas de gobierno digital, de gobierno abierto, y datos abiertos de la Administración Pública, en los términos de las disposiciones aplicables;
 
-XL. Coadyuvar en la revisión del cumplimiento en materia de archivos que emitan las instancias correspondientes; y,
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2025)</small>
 
-XLI. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
+XL. Coadyuvar en la revisión del cumplimiento en materia de archivos que emitan las instancias correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE SEPTIEMBRE DE 2025)</small>
+
+XLI. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, así como conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE SEPTIEMBRE DE 2025)</small>
+
+XLII. Establecer las políticas, bases y normativa para la determinación de la información de interés público que, en materia de anticorrupción y buen gobierno, se deba difundir proactivamente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE SEPTIEMBRE DE 2025)</small>
+
+XLIII. Promover y consolidar los principios de la transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE SEPTIEMBRE DE 2025)</small>
+
+XLIV. Impulsar la transparencia proactiva y la publicación de datos en formatos accesibles a la ciudadanía; vigilar la aplicación de las políticas de gobierno digital y las de gobierno y datos abiertos de la Administración Pública Estatal, en términos de las disposiciones jurídicas aplicables; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE SEPTIEMBRE DE 2025)</small>
+
+XLV. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 49.
 
@@ -2001,9 +2027,13 @@ Para lograr un control eficaz del régimen patrimonial y financiero de los Organ
 
 I. Corresponde a la Secretaría de Hacienda calcular anualmente sus ingresos, así como autorizar los financiamientos que constituyan la deuda pública y orientar sus planes y programas para que concurran al logro de los objetivos y se ajusten a las prioridades del desarrollo estatal, así como proyectar y calcular anualmente sus egresos; y,
 
-II. Corresponde a la Secretaría de la Honestidad y la Función Pública, evaluar su operación y gestión pública y vigilar su funcionamiento, lo cual podrá realizar por sí o a través de los órganos internos de control adscritos a los Organismos Descentralizados.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2025)</small>
 
-Los órganos internos de control dependerán jerárquicamente, técnica y funcionalmente de la Secretaría de la Honestidad y la Función Pública ejercerán las facultades que establezcan las leyes, y la normatividad y los lineamientos que aquella emita.
+II. Corresponde a la Secretaría Anticorrupción y Buen Gobierno, evaluar su operación y gestión pública y vigilar su funcionamiento, lo cual podrá realizar por sí o a través de los órganos internos de control adscritos a los Organismos Descentralizados.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2025)</small>
+
+Los órganos internos de control dependerán jerárquicamente, técnica y funcionalmente de la Secretaría Anticorrupción y Buen Gobierno ejercerán, las facultades que establezcan las leyes, y la normatividad y los lineamientos que aquella emita.
 
 ###### ARTÍCULO 60.
 
@@ -2031,9 +2061,11 @@ III. Que a la Persona Titular del Poder Ejecutivo corresponda la atribución de 
 
 Para efectos de esta Ley, se asimilan a las empresas de participación estatal mayoritaria las sociedades y asociaciones civiles en que la mayoría de los asociados sean dependencias o entidades de la Administración Pública, o cuando alguno o varios de ellos se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 64.
 
-En las empresas de participación estatal minoritaria donde el Poder Ejecutivo, una o más entidades paraestatales consideradas conjunta o separadamente, representen menos del 50 por ciento de las acciones o parte del capital y hasta el 25 por ciento de aquél, la vigilancia de su participación estará a cargo de un Comisario designado por la Secretaría de la Honestidad y la Función Pública, quien además deberá reportar el desarrollo de las actividades que realiza la empresa al titular de la dependencia coordinadora del sector correspondiente.
+En las empresas de participación estatal minoritaria donde el Poder Ejecutivo, una o más entidades paraestatales consideradas conjunta o separadamente, representen menos del 50 por ciento de las acciones o parte del capital y hasta el 25 por ciento de aquél, la vigilancia de su participación estará a cargo de un Comisario designado por la Secretaría Anticorrupción y Buen Gobierno, quien además deberá reportar el desarrollo de las actividades que realiza la empresa a la persona titular de la dependencia coordinadora del sector correspondiente.
 
 ###### ARTÍCULO 65.
 
@@ -2258,3 +2290,15 @@ OCTAVO.- La Persona Titular del Poder Ejecutivo deberá realizar las modificacio
 Hasta en tanto se lleven a cabo las adecuaciones reglamentarias correspondientes a que se refiere este artículo, la Secretaría de las Mujeres funcionará conforme a la estructura orgánica y atribuciones que le confieren las disposiciones reglamentarias vigentes al Instituto de la Mujer para el Estado de Baja California, en lo que no se contraponga a las presentes reformas.
 
 NOVENO.- Toda referencia a la Secretaría de Inclusión Social e Igualdad de Género, se entenderá realizada a la Secretaría de Inclusión Social.
+
+P.O. 16 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 146 MEDIANTE EL CUAL SE APRUEBA LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y APERTURA INSTITUCIONAL PARA EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL SECTOR PÚBLICO DEL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 28, 30, 48, 59 Y 64 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La persona titular del Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interno correspondiente dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO.- Hasta en tanto no se lleven a cabo las adecuaciones normativas o reglamentarias que correspondan, toda referencia a la Secretaría de la Honestidad y la Función Pública se entenderá realizada a la Secretaría Anticorrupción y Buen Gobierno.
+
+CUARTO.- Los contratos cuya naturaleza no sea laboral o burocrática, convenios y demás instrumentos celebrados por la Secretaría de la Honestidad y la Función Pública que a la fecha de publicación del Decreto se encuentren vigentes, continuarán surtiendo sus efectos y obligaran en sus términos a la Secretaría Anticorrupción y Buen Gobierno, hasta en tanto no se sustituyan los derechos sobre los bienes o la materia de los mismos, o se den por terminados por cualquier medio.
