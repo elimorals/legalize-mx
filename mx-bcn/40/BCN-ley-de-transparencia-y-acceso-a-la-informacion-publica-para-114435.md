@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-29"
-last_updated: "2025-09-05"
+last_updated: "2025-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y APERTURA INSTITUCIONAL PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el jueves 21 de abril de 2016.
 
@@ -2468,3 +2468,45 @@ P.O. 5 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 132 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 88, 108 Y LA ADICIÓN DE LOS ARTÍCULOS 109 Y 111 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 146 MEDIANTE EL CUAL SE APRUEBA LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y APERTURA INSTITUCIONAL PARA EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL SECTOR PÚBLICO DEL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 28, 30, 48, 59 Y 64 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, publicada en el Periódico Oficial del Estado No. 21, de fecha 29 de abril de 2016, Sección II, Tomo CXXIII, así como la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, publicada en el Periódico Oficial No. 42, de fecha 01 de octubre de 2010, Tomo CXVII, Sección II.
+
+TERCERO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+CUARTO.- A partir de la publicación del presente Decreto, el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California deberá iniciar el proceso de transferencia de los recursos financieros y materiales, tanto a la Secretaría de Hacienda, como a la Oficialía Mayor de Gobierno, respectivamente, con base en las disposiciones normativas vigentes. El proceso de transferencia deberá concluir a más tardar antes de la entrada en vigor del presente Decreto, a fin de que las dependencias del Poder Ejecutivo realicen las asignaciones correspondientes en favor de las Autoridades Garantes que, conforme al presente Decreto, asuman las funciones en la materia.
+
+La Secretaría de Hacienda, y la Oficialía Mayor de Gobierno, en coordinación con la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, resolverán de conformidad con la normatividad aplicable, sobre los aspectos administrativos no contemplados en el presente Decreto, para la asignación de los recursos financieros, de los programas y partidas presupuestales, así como de los recursos humanos y materiales, según correspondan, para la debida ejecución del presente Decreto.
+
+Asimismo, dicho Instituto deberá remitir a la Secretaría de Hacienda la información y formatos necesarios para la integración de la Cuenta Pública y de los demás informes correspondientes al trimestre fiscal en curso, en términos de las disposiciones jurídicas aplicables, a la entrada en vigor del presente Decreto.
+
+QUINTO.- Las personas que, a la entrada en vigor del presente Decreto, sean o hayan sido servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California y que tengan pendiente la presentación de la declaración patrimonial y de intereses en cualquiera de sus modalidades, deberán cumplir con esta obligación en los sistemas habilitados por la Secretaría Anticorrupción y Buen Gobierno del Estado o en los medios que esta determine, conforme a la normativa aplicable a la Administración Pública Estatal.
+
+Las personas que dentro de los diez días previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, incluyendo a las personas Comisionadas, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda, a la persona servidora pública que la Secretaría Anticorrupción y Buen Gobierno del Estado designe y conforme a la normativa aplicable a la Administración Pública Estatal, en los sistemas de la referida dependencia habilitados para tales efectos o en los medios que ésta determine, en el entendido de que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+SEXTO.- Con motivo de las presentes reformas, se respetarán en todo momento los derechos laborales de las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO.- Los contratos cuya naturaleza no sea laboral o burocrática, convenios y demás instrumentos celebrados por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California que a la fecha de publicación del Decreto se encuentren vigentes, dejarán de surtir sus efectos de conformidad con la entrada en vigor de las presentes reformas.
+
+OCTAVO.- Los registros, padrones y sistemas informáticos, con los que cuenta el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, incluso los que ya no se utilicen, pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno del Estado.
+
+NOVENO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, en materia de acceso a la información pública, se sustanciarán ante Transparencia para el Pueblo conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, en materia de acceso a la información pública, se llevará a cabo por Transparencia para el Pueblo, la cual podrá remitir a la Autoridad Garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+DÉCIMO.- La persona titular del Poder Ejecutivo del Estado deberá expedir el Reglamento Interno de Transparencia para el Pueblo dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto. Para tal efecto, deberá emplear los recursos humanos con los que cuente el área competente, así como aquellos que le sean asignados en razón de las funciones que asuma como Autoridad Garante, conforme a las necesidades de mejora y modernización de la gestión pública.
+
+DÉCIMO PRIMERO.- Los expedientes y archivos que a la publicación del presente Decreto estén a cargo del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno del Estado dentro de los diez días siguientes a la publicación del presente Decreto.
+
+La Secretaría Anticorrupción y Buen Gobierno del Estado, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la Autoridad Garante correspondiente.
+
+DÉCIMO SEGUNDO.- El Órgano Interno de Control del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California queda extinto y sus asuntos y procedimientos que a la publicación del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno del Estado dentro de los diez días hábiles siguientes a su publicación, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+DÉCIMO TERCERO.- El Órgano de Control y Disciplina del Poder Judicial; los Órganos Internos de Control de los Órganos Constitucionales Autónomos y la Contraloría Interna del Poder Legislativo del Estado; en un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+DÉCIMO CUARTO.- Se suspenden por un plazo de noventa días naturales contados a partir de la publicación de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia.
