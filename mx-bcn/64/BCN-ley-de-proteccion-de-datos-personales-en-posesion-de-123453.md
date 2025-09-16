@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-de-datos-personales-en-posesion-de-123453"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-18"
-last_updated: "2017-08-18"
+last_updated: "2025-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL SECTOR PÚBLICO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 18 de agosto de 2017.
 
@@ -1084,3 +1086,33 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 146 MEDIANTE EL CUAL SE APRUEBA LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y APERTURA INSTITUCIONAL PARA EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL SECTOR PÚBLICO DEL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 28, 30, 48, 59 Y 64 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California, publicada en el Periódico Oficial del Estado No. 38, de fecha 18 de agosto de 2017, Sección III, Tomo CXXIV.
+
+TERCERO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda al ámbito de su competencia.
+
+CUARTO.- Los registros, padrones y sistemas informáticos con los que cuenta el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, incluso los que ya no se utilicen, pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno del Estado.
+
+QUINTO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, en materia de protección de datos personales, se sustanciarán ante el Órgano Desconcentrado de la Secretaría Anticorrupción y Buen Gobierno, denominado Transparencia para el Pueblo conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, en materia de protección de datos personales, se llevará a cabo por Transparencia para el Pueblo.
+
+Transparencia para el Pueblo podrá remitir a la Autoridad Garante competente aquellos asuntos que se mencionan en los párrafos anteriores, que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+SEXTO.- La persona titular del Poder Ejecutivo del Estado deberá expedir el Reglamento Interno de Transparencia para el Pueblo dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto. Para tal efecto, deberá emplear los recursos humanos con los que cuente el área competente, así como aquellos que le sean asignados en razón de las funciones que asuma como Autoridad Garante, conforme a las necesidades de mejora y modernización de la gestión pública.
+
+SÉPTIMO.- Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno del Estado, dentro de los diez días naturales siguientes a la publicación del presente Decreto.
+
+La Secretaría Anticorrupción y Buen Gobierno del Estado, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la Autoridad Garante correspondiente.
+
+OCTAVO.- El Órgano de Control y Disciplina del Poder Judicial, los Órganos Internos de Control de los Órganos Constitucionales Autónomos y la Contraloría Interna del Poder Legislativo del Estado, en un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+NOVENO.- Se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de acceso, rectificación, cancelación, oposición o portabilidad que se tramitan a través de la Plataforma Nacional de Transparencia.
