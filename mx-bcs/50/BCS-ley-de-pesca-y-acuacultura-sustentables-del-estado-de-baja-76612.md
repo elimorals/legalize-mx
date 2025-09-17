@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-baja-7661
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-01"
-last_updated: "2024-12-30"
+last_updated: "2025-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el domingo 1 de agosto de 2010.
 
@@ -45,9 +45,11 @@ LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 1°.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular el ejercicio de las atribuciones que le competen al Estado y sus Municipios en materia de pesca y acuacultura, de acuerdo con el principio de concurrencia y las bases y mecanismos de coordinación establecidos en la fracción XXIX-L del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley General de Pesca y Acuacultura Sustentables, y promover la participación de los productores para el desarrollo integral del sector pesquero y acuícola de Baja California Sur.
+La presente Ley es de orden público e interés social y tiene por objeto regular el ejercicio de las atribuciones que le competen al Estado y sus Municipios en materia de pesca y acuacultura, de acuerdo con el principio de concurrencia y las bases y mecanismos de coordinación establecidos en la fracción XXIX-L del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley General de Pesca y Acuacultura Sustentables, y promover la participación de los productores para el desarrollo integral del sector pesquero y acuícola de Baja California Sur. Asimismo, busca regular y garantizar la igualdad entre mujeres y hombres dedicados a la pesca y acuacultura, de conformidad con las leyes en la materia.
 
 ###### ARTÍCULO 2°.
 
@@ -60,6 +62,14 @@ Es objeto de ésta Ley:
 I. Establecer los lineamientos para el ejercicio de las funciones que asuma el Estado, con la participación que corresponda a los Municipios, en las materias de pesca y acuacultura, de conformidad con los convenios o acuerdos de coordinación que suscriba con la Federación;
 
 II. Determinar los principios de la política estatal y municipal de pesca y acuacultura, así como la regulación de los instrumentos para su aplicación;
+
+> <small>(ADICIONADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+II Bis. Aplicar la perspectiva de género, en el diseño e implementación de todas las políticas, programas, planes y acciones que deriven de la presente Ley;
+
+> <small>(ADICIONADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+II Ter. Promover la eliminación de cualquier forma de discriminación en el sector pesquero y acuícola, de conformidad con el último párrafo del artículo 1° de la Constitución Política de los Estados Unidos Mexicanos;
 
 III. Promover el mejoramiento de la calidad de vida de los pescadores y acuacultores del Estado, a través de la ejecución de los programas y acciones previstas en esta Ley;
 
@@ -85,7 +95,9 @@ a) Cualquier operación o acción realizada con el objeto de capturar peces, mol
 
 b) El aprovechamiento del lecho, fondos, aguas, playas, riberas, costas y puertos para la cría, reproducción y difusión de las citadas especies.
 
-II. ACUICALTOR: persona física o jurídica que realiza el cultivo de organismos vivos, en medios acuáticos y marinos;
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+II. Acuicultor: Persona física o jurídica que realiza el cultivo de organismos vivos, en medios acuáticos y marinos;
 
 III. Acuacultura: Es el conjunto de actividades dirigidas a la reproducción controlada, preengorda y engorda de especies de la fauna y flora realizadas en instalaciones ubicadas en aguas dulces, marinas o salobres, por medio de técnicas de cría o cultivo, que sean susceptible de explotación comercial, ornamental o recreativa;
 
@@ -135,6 +147,10 @@ XXV. Ordenamiento pesquero: Conjunto de instrumentos cuyo objeto es regular y ad
 
 XXVI. Permiso: Es el documento que otorga la autoridad competente, a las personas físicas o jurídicas, para llevar a cabo las actividades de pesca y acuacultura;
 
+> <small>(ADICIONADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+XXVI Bis. Perspectiva de género: Es una visión científica, analítica y política sobre las mujeres y los hombres, a través de la cual se eliminan las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada (sic) en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
 XXVII. Pesca: Es el acto de extraer, capturar o recolectar, por cualquier método o procedimiento, especies biológicas o elementos biogénicos, cuyo medio de vida total, parcial o temporal, sea el agua;
 
 XXVIII. Pesca comercial: La captura y extracción que se efectúa con propósitos de beneficio económico;
@@ -165,7 +181,9 @@ XL. Repoblación: Es el acto de introducir organismos acuáticos vivos nativos e
 
 XLI. Sanidad acuícola: Es el conjunto de prácticas y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnóstico, control y erradicación de las enfermedades que afectan a dichas especies;
 
-XLII. Secretaría: La de Pesca y Acuacultura del Gobierno del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+XLII.- Secretaría: La de Pesca, Acuacultura y Desarrollo Agropecuario;
 
 XLIII. SEMARNAT: La Secretaria del Medio Ambiente y Recursos Naturales;
 
@@ -217,7 +235,9 @@ IV. Fomentar la ejecución de obras e infraestructura básica de uso común, con
 
 V. Promover mecanismos y esquemas de financiamiento adecuados para el desarrollo integral de las actividades pesqueras y acuícolas;
 
-VI. Fomentar la igualdad de oportunidades de la mujer en las actividades de pesca y acuacultura, así como su inclusión en los planes y programas que a la Secretaría le competa su diseño y ejecución;
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Promover y garantizar la igualdad de trato y oportunidades de las mujeres en las actividades de pesca y acuicultura, así como su inclusión en los planes, políticas públicas y programas que a la Secretaría le competa su diseño y ejecución;
 
 VII. Fomentar entre los productores el uso de artes de pesca selectivos y ambientalmente seguros, así como de prácticas de pesca responsable para conservar y mantener la disponibilidad de recursos pesqueros;
 
@@ -247,7 +267,9 @@ XIV. La (sic) demás que no estén otorgadas expresamente a la federación.
 
 Son atribuciones de la Secretaría las siguientes:
 
-I. Proponer, formular, coordinar y fomentar la política estatal de pesca y acuacultura sustentables, así como los planes y programas que de ella deriven;
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+I. Proponer, formular, coordinar y fomentar la política estatal de pesca y acuacultura sustentables, así como los planes y programas que de ella deriven; aplicando la perspectiva de género;
 
 II. En coordinación con la autoridad competente, determinar los métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca, así como proponer las medidas de regulación en las zonas de refugio para proteger las especies acuáticas que así lo requieran;
 
@@ -407,13 +429,13 @@ VII. En la conservación, cuidado y protección de los recursos pesqueros y los 
 
 VIII. La participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar en forma integral y sustentable los recursos pesqueros y acuícolas;
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-IX. Promover ante el Gobierno Federal que los permisos para realizar actividades pesqueras y acuícolas y las medidas para el control del esfuerzo pesquero, se autoricen considerando los planes, programas y acciones del Estado y Municipios, atendiendo los principios de transparencia y eficiencia e incorporando mecanismos de control accesibles a los productores;
+IX. Promover ante el Gobierno Federal que los permisos para realizar actividades pesqueras y acuícolas y las medidas para el control del esfuerzo pesquero, se autoricen considerando los planes, programas y acciones del Estado y Municipios, atendiendo los principios de igualdad y no discriminación, transparencia y eficiencia e incorporando mecanismos de control accesibles a los productores;
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-X. Impulsar y promover la acuacultura como una actividad productiva que permita la diversificación pesquera, ofrecer opciones de empleo en el medio rural e incrementar la producción y oferta de alimentos pesqueros que mejoren la dieta de la población;
+X. Impulsar y promover la acuacultura como una actividad productiva que permita la diversificación pesquera, ofrecer opciones de empleo en igualdad de oportunidades en el medio rural, incrementar la producción y oferta de alimentos pesqueros que mejoren la dieta de la población;
 
 > <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
 
@@ -427,23 +449,29 @@ XII. Impulsar el establecimiento de una cultura de inocuidad en el manejo, distr
 
 XIII. El sector pesquero y acuícola se desarrollarán desde una perspectiva sostenible, que integre y concilie los factores económicos, sociales y ambientales, a través de un enfoque estratégico y ecoeficiente;
 
-> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-XIV. Transversalidad para la instrumentación de políticas públicas con enfoque interdisciplinario para el fortalecimiento y desarrollo de una cultura empresarial pesquera y acuícola, orientada a toda la cadena productiva, que aumente la productividad y mejore la competitividad;
+XIV. Transversalidad para la instrumentación de políticas públicas con enfoque interdisciplinario y perspectiva de género para el fortalecimiento y desarrollo de una cultura empresarial pesquera y acuícola, orientada a toda la cadena productiva, que aumente la productividad y mejore la competitividad;
 
-> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-XV. El impulso del estado equilibrado y equitativo, que priorice el desarrollo de las comunidades pesqueras; y
+XV. El Impulso del estado equilibrado y equitativo, que priorice el desarrollo de las comunidades pesqueras;
 
-> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-XVI. Financiamiento para el desarrollo e innovación tecnológica y científica, modernización de la flota pesquera, unidades de cultivo, técnicas ecoeficientes, plantas procesadoras, métodos y artes de captura.
+XVI.- Financiamiento para el desarrollo e innovación tecnológica y científica, modernización de la flota pesquera, unidades de cultivo, técnicas ecoeficientes, plantas procesadoras, métodos y artes de captura; y
+
+> <small>(ADICIONADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+XVII. La igualdad de derechos entre las personas, la no discriminación y la atención de las necesidades básicas del sector pesquero y acuícola, para lograr su desarrollo.
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO ESTATAL DE PESCA Y ACUACULTURA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 16.
 
-El Consejo Estatal de Pesca y Acuacultura de Baja California Sur tendrá como objeto fungir como órgano de consulta, promoción y análisis para proponer políticas, programas, proyectos e instrumentos para apoyar el desarrollo del sector pesquero y acuícola en la entidad y tendrá como objetivos:
+El Consejo Estatal de Pesca y Acuacultura de Baja California Sur tendrá como objeto fungir como órgano de consulta, promoción y análisis para proponer políticas, programas, proyectos e instrumentos incorporando la perspectiva (sic) género para apoyar el desarrollo del sector pesquero y acuícola en la entidad y tendrá como objetivos:
 
 I. Definir las prioridades estatales para efecto de planear y evaluar las inversiones que los tres niveles de Gobierno destinen para apoyar las actividades productivas en materia pesquera y acuícola;
 
@@ -461,9 +489,11 @@ VII. Proponer a las autoridades competentes mecanismos para el ejercicio ordenad
 
 VIII. Emitir las opiniones y observaciones técnicas que le sean solicitadas por las autoridades competentes respecto de las solicitudes de aprovechamiento de recursos pesqueros y acuícolas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 17.
 
-El Consejo Estatal de Pesca y Acuacultura se integrará de la siguiente forma:
+Para la integración del Consejo Estatal de Pesca y Acuacultura se integrará de la siguiente forma:
 
 I. Un Presidente, que será el Titular del Poder Ejecutivo del Estado, quien tendrá las siguientes facultades:
 
@@ -499,7 +529,13 @@ d) Conducir la votación para la aprobación de los asuntos del Consejo que así
 
 e) Las demás previstas en el Reglamento;
 
-III. Un representante del Congreso del Estado, con carácter permanente, preferentemente de la Comisión de Asuntos Pesqueros;
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+III. Una o un representante del Congreso del Estado con carácter permanente, preferentemente de la Comisión Permanente de Pesca y Acuicultura;
+
+> <small>(ADICIONADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+III Bis. La Titular del Instituto Sudcaliforniano de las Mujeres;
 
 IV. Vocales, que serán los representantes vinculados al sector del Gobierno del Estado y de cada uno de los Municipios;
 
@@ -639,9 +675,11 @@ En todo caso, los programas e instrumentos económicos deberán prever la canali
 
 El Programa Estatal de Pesca y Acuacultura será sometido a la consideración y aprobación del Titular del Poder Ejecutivo del Estado por parte de la Secretaría, previa su consulta con los sectores interesados y con el dictamen favorable del Consejo Estatal de Pesca y Acuacultura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 31.
 
-El Programa Estatal de Pesca y Acuacultura será elaborado en congruencia con el Plan Estatal de Desarrollo, con los planes y programas federales correspondientes, con aquellos que incidan en el ordenamiento del desarrollo pesquero y acuícola en la entidad.
+El Programa Estatal de Pesca y Acuacultura será elaborado con perspectiva de género, incorporando el principio de igualdad y no discriminación, en congruencia con el Plan Estatal de Desarrollo, con los planes y programas federales correspondientes, con aquellos que incidan en el ordenamiento del desarrollo pesquero y acuícola en la entidad.
 
 El Programa Estatal de Pesca y Acuacultura deberá contemplar, entre otros, los siguientes aspectos:
 
@@ -679,9 +717,11 @@ XVI. Las acciones que serán objeto de coordinación con los Municipios del Esta
 
 ### CAPÍTULO SEGUNDO. DE LA PLANEACIÓN MUNICIPAL EN MATERIA DE PESCA Y ACUACULTURA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 32.
 
-Los Municipios elaborarán los programas sectoriales y operativos de pesca y acuacultura de conformidad con los principios y lineamientos establecidos en esta Ley, en congruencia con los objetivos y prioridades establecidas en los respectivos Planes Municipales de Desarrollo y los instrumentos de planeación y programáticos de nivel estatal y federal en la materia.
+Los Municipios elaborarán los programas sectoriales y operativos de pesca y acuacultura con perspectiva de género, de conformidad con los principios y lineamientos establecidos en esta Ley, en congruencia con los objetivos y prioridades establecidas en los respectivos Planes Municipales de Desarrollo y los instrumentos de planeación y programáticos de nivel estatal y federal en la materia.
 
 Para la elaboración, consulta y publicación de los programas sectoriales y operativos de pesca y acuacultura de los Municipios, se estará a lo dispuesto por la Ley de Planeación del Estado de Baja California Sur.
 
@@ -777,9 +817,11 @@ Los ordenamientos señalados deberán ser publicados en el Boletín Oficial del 
 
 ### CAPÍTULO PRIMERO. DEL SISTEMA ESTATAL DE PESCA Y ACUACULTURA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 41.
 
-La Secretaría integrará el Sistema Estatal de Información Pesquera y Acuícola, que tendrá por objeto organizar, actualizar y difundir la información sobre actividades del sector que se desarrollen en el Estado.
+La Secretaría integrará el Sistema Estatal de Información Pesquera y Acuícola, que tendrá por objeto organizar, actualizar y difundir la información sobre actividades del sector que se desarrollen en el Estado. Aplicando la perspectiva de género.
 
 El Sistema se integrará con la información siguiente:
 
@@ -803,9 +845,9 @@ VII. La información sobre precios, oferta y demanda de productos pesqueros y ac
 
 VIII. La convocatoria, actas o minutas de las sesiones celebradas por el Consejo;
 
-> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-IX. El presupuesto destinado al sector pesca y acuacultura.
+IX. El Presupuesto destinado al sector pesca y acuacultura, incorporando una perspectiva transversal de género.
 
 > <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
 
@@ -1097,9 +1139,11 @@ La Secretaría, en coordinación con las autoridades federales, estatales y muni
 
 Las acciones para apoyar el desarrollo de la pesca, tendrán por objeto diversificar la producción de las diversas especies pesqueras; ofrecer opciones de empleo; reducir los impactos ambientales y desarrollar nuevas tecnologías que logren incrementar la eficiencia productiva en este sector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 66.
 
-Además de las acciones previstas en el artículo 24 de la Ley General, la Secretaría y los Municipios elaborarán e instrumentarán programas específicos de apoyo a los pescadores ribereños establecidos en el Estado, con el objeto de promover el desarrollo de sus actividades en un contexto de equidad, competitividad y sustentabilidad.
+Además de las acciones previstas en el artículo 24 de la Ley General, la Secretaría y los Municipios elaborarán e instrumentarán programas específicos con perspectiva de género en apoyo a pescadoras y pescadores ribereños establecidos en el Estado, con el objeto de promover el desarrollo de sus actividades en un contexto de equidad, competitividad y sustentabilidad.
 
 Los programas específicos de apoyo a los pescadores ribereños del Estado contendrán acciones para:
 
@@ -1135,9 +1179,11 @@ En los casos que las organizaciones de pescadores ribereños soliciten apoyo par
 
 ### CAPÍTULO SEGUNDO. DEL FOMENTO A LA PESCA DEPORTIVO - RECREATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 70.
 
-La Secretaría impulsará, fomentará y promoverá la práctica y el desarrollo de la pesca deportivo-recreativa en coordinación con las dependencias federales, estatales y municipales competentes, con la participación de los prestadores de servicios en esta modalidad de pesca y sectores interesados, de conformidad a lo establecido en el artículo 25 de la Ley General.
+La Secretaría impulsará, fomentará y promoverá la práctica y el desarrollo de la pesca deportivo-recreativa de conformidad con el principio de igualdad y no discriminación, en coordinación con las dependencias federales, estatales y municipales competentes, con la participación de los prestadores de servicios en esta modalidad de pesca y sectores interesados, de conformidad a lo establecido en el artículo 25 de la Ley General.
 
 Asimismo, apoyará las medidas de conservación y protección necesarias, en particular de las especies destinadas de manera exclusiva por la Ley General a la pesca deportivo-recreativa;
 
@@ -1578,3 +1624,15 @@ B.O. 30 DE DICIEMBRE DE 2024.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletan (sic) Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
+
+B.O. 17 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3157 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, la armonización y ajustes correspondientes en sus reglamentos, bandos y demás normas administrativas que se relacionen con las disposiciones previstas en el presente Decreto, en un plazo de 90 días hábiles siguientes a su entrada en vigor.
+
+Tercero.- El Consejo Estatal de Pesca y Acuacultura, deberá celebrar Sesión Extraordinaria para dar cumplimiento a lo dispuesto en la fracción III Bis del Artículo 17 del presente Decreto, dentro de los treinta días hábiles siguiente al de su entrada en vigor.
+
+Cuarto.- Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
