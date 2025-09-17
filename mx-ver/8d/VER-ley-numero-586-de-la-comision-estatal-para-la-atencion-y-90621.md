@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-586-de-la-comision-estatal-para-la-atencion-y-90621"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-03"
-last_updated: "2023-07-19"
+last_updated: "2025-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 586 DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 3 de diciembre de 2012.
 
@@ -421,13 +421,17 @@ XXXI. Vigilar que las disposiciones establecidas en esta Ley sean aplicadas por 
 
 XXXII. Asistir a las sesiones del Pleno, con derecho a voz, pero sin voto;
 
-> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-XXXIII. Levantar actas administrativas a los servidores públicos de la Comisión por el incumplimiento de sus deberes legales, para iniciar el procedimiento de responsabilidad administrativa; y
+XXXIII. Levantar actas administrativas a los servidores públicos de la Comisión por el incumplimiento de sus deberes legales, para iniciar el procedimiento de responsabilidad administrativa;
 
-> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-XXXIV. Las demás que expresamente establezcan las Leyes, las disposiciones aplicables y las que le sean asignadas por el Pleno en lo que no contravenga la Ley.
+XXXIV. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, así como conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+XXXV. Las demás que expresamente establezcan las leyes, las disposiciones aplicables y las que le sean asignadas por el Pleno en lo que no contravenga la Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2018)</small>
 
@@ -451,19 +455,35 @@ III. Contar con título profesional legalmente expedido y cédula profesional en
 
 IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, u otro que lastime su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-> <small>(ADICIONADO, G.O. 9 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 28 Bis.
 
-Para su funcionamiento, la Contraloría contará con las siguientes Subdirecciones, o equivalentes, en las áreas que a continuación se señalan:
+Para su funcionamiento, la Contraloría contará con las áreas que a continuación se señalan:
 
-I. Quejas, Denuncias e Investigación;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-II. Responsabilidades Administrativas y Substanciación; y
+I. Subdirección de Quejas, Denuncias e Investigación;
 
-III. Normatividad, Auditoría y Control.
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-Las Subdirecciones, o equivalentes, estarán bajo la responsabilidad del Contralor y contarán con el personal que resulte necesario para el desarrollo de sus funciones; los servidores públicos de las mismas serán designados y removidos libremente por el Contralor, con base en los requerimientos del servicio y a los criterios que aquél determine dentro del margen de la unidad presupuestal anual solicitada y asignada. Asimismo, el reglamento respectivo establecerá las atribuciones que correspondan a cada subdirección o área equivalente.
+II. Subdirección de Responsabilidades Administrativas y Substanciación;
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+III. Subdirección de Normatividad, Auditoría y Control; y
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Departamento de Transparencia y Protección de Datos Personales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+Así como el demás personal que resulte necesario, con base en la disponibilidad presupuestal.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+Las personas servidoras públicas adscritas a la Contraloría, serán designadas, nombradas y removidas libremente por la persona titular de la misma. El Reglamento respectivo establecerá las atribuciones que correspondan a cada área.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -536,3 +556,13 @@ G.O. 19 DE JULIO DE 2023.
 PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Dentro de los treinta días naturales siguientes al inicio de la vigencia de este Decreto, deberán realizarse, de ser el caso, las adecuaciones al Reglamento Interior de la Comisión Estatal para la Atención de los Periodistas y demás normatividad que resulte necesaria.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
