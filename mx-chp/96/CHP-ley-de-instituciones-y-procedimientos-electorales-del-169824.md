@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-instituciones-y-procedimientos-electorales-del-169824"
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-22"
-last_updated: "2023-09-22"
+last_updated: "2025-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Número 305 del Periódico Oficial del Estado de Chiapas, el viernes 22 de septiembre de 2023.
 
@@ -1417,7 +1417,9 @@ d) Formular un informe de lo actuado, que contendrá el balance de bienes y recu
 
 e) Ordenar lo necesario para cubrir las obligaciones que las leyes aplicables en la materia determinan en protección y beneficio de los trabajadores del partido político en liquidación. Realizado lo anterior, deberán cubrirse las obligaciones fiscales que correspondan. Si quedasen recursos disponibles, se atenderán otras obligaciones contraídas, debidamente documentadas, con proveedores y acreedores del partido político en liquidación.
 
-f) Si realizado lo anterior quedasen bienes o recursos remanentes, se remitirán a la Secretaría de Hacienda de Gobierno del estado de Chiapas. El Gobierno del Estado adjudicará los mismos íntegramente, al patrimonio del Instituto de Ciencia y Tecnología e Innovación del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+f) Si realizado lo anterior quedasen bienes o recursos remanentes, se remitirán a la Secretaría de Finanzas de Gobierno del estado de Chiapas. El Gobierno del Estado adjudicará los mismos íntegramente, al patrimonio del Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, DIF-Chiapas.
 
 g) En todo tiempo deberá garantizarse al partido político de que se trate el ejercicio de las garantías establecidas en la Constitución Federal, la Constitución Local, la Ley General de Partidos Políticos y esta Ley.
 
@@ -6779,9 +6781,13 @@ II. En los demás casos, el sujeto sancionado deberá pagar ante la Secretaría 
 
 III. En caso de omisión de pago por parte del sujeto responsable, dentro del plazo establecido, el Instituto de Elecciones lo notificará a la Secretaría de Hacienda del Gobierno del Estado, para que proceda a su cobro en términos de la normatividad aplicable.
 
-2. Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por sujetos del régimen sancionador electoral considerados en esta Ley serán destinados al Instituto de Ciencia, Tecnología e Innovación del Estado de Chiapas, en los términos de las disposiciones aplicables y los recursos serán utilizados para proyectos y programas en materia de ciencia, tecnología e innovación, estos no podrán ejercerse en conceptos distintos a los proyectos y programas antes mencionados, dicho ente deberá presentar un informe anual al Consejo General del Instituto de Elecciones, respecto del destino final de los recursos asignados por este concepto. Los términos de la presentación y rendición del informe a que se refiere este párrafo, serán precisados en los lineamientos que al efecto emita el Consejo General del Instituto de Elecciones.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
-3. Tratándose de deducciones a las ministraciones de los Partidos Políticos y pagos realizados en la Secretaría Ejecutiva del Instituto de Elecciones, esta autoridad electoral entregará dichos recursos al Instituto de Ciencia, Tecnología e Innovación del Estado de Chiapas dentro de los treinta días hábiles siguientes a la fecha en que se realice el pago o se haga efectivo el descuento.
+2. Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por sujetos del régimen sancionador electoral considerados en esta Ley serán destinados al Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, DIF-Chiapas, en los términos de las disposiciones aplicables y los recursos serán utilizados para fomentar el bienestar familiar y promover el desarrollo de la comunidad, así como, proporcionar atención a grupos vulnerables y ejecutar acciones tendentes a la protección y desarrollo de los mismos, estos no podrán ejercerse en conceptos distintos a los antes mencionados, dicho organismo deberá presentar un informe anual al Consejo General del Instituto de Elecciones, respecto del destino final de los recursos asignados por este concepto. Los términos de la presentación y rendición del informe a que se refiere este párrafo, serán precisados en los lineamientos que al efecto emita el Consejo General del Instituto de Elecciones.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+3. Tratándose de deducciones a las ministraciones de los Partidos Políticos y pagos realizados en la Secretaría Ejecutiva del Instituto de Elecciones, esta autoridad electoral entregará dichos recursos al Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, DIF-Chiapas, dentro de los treinta días hábiles siguientes a la fecha en que se realice el pago o se haga efectivo el descuento.
 
 ###### Artículo 315.
 
@@ -7190,3 +7196,13 @@ El Ejecutivo del Estado dispondrá que se publique, circule y se dé el debido c
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 21 días del mes de septiembre del año dos mil veintitrés. D.P. C. SONIA CATALINA ÁLVAREZ. D.S. C. FLOR DE MARÍA ESPONDA TORRES. Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintidós días del mes de Septiembre del año dos mil veintitrés.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Victoria Cecilia Flores Pérez, Secretaria General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 316 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
