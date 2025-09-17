@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-escuela-normal-superior-de-cultura-96793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-11-30"
-last_updated: "2014-12-31"
+last_updated: "2025-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY ORGANICA DE LA ESCUELA NORMAL SUPERIOR DE CULTURA FISICA "PROFR. ROMAN POZO MENDEZ" DEL ESTADO DE BAJA CALIFORNIA SUR -- ANTES -- LEY ORGANICA DE LA ESCUELA SUPERIOR DE CULTURA FISICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY ORGÁNICA DE LA ESCUELA SUPERIOR DE CULTURA FÍSICA DEL ESTADO DE BAJA CALIFORNIA SUR.
+LEY ORGÁNICA DE LA ESCUELA NORMAL SUPERIOR DE CULTURA FÍSICA "PROFR. ROMÁN POZO MÉNDEZ" DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 30 de noviembre de 2013.
 
@@ -37,25 +37,29 @@ EL HONORABLE CONGRESO DEL ESTADO DE BAJA CALIOFRNIA (SIC) SUR
 
 DECRETA:
 
-LEY ORGÁNICA DE LA ESCUELA SUPERIOR DE CULTURA FÍSICA DEL ESTADO DE BAJA CALIFORNIA SUR.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+LEY ORGÁNICA DE LA ESCUELA NORMAL SUPERIOR DE CULTURA FÍSICA "PROFR. ROMÁN POZO MÉNDEZ" DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 ###### ARTÍCULO ÚNICO.
 
-SE CREA LA LEY ORGÁNICA DE LA ESCUELA SUPERIOR
+SE CREA LA LEY ORGÁNICA DE LA ESCUELA SUPERIOR DE CULTURA FÍSICA DEL ESTADO DE BAJA CALIFORNIA SUR.
 
-DE CULTURA FÍSICA DEL ESTADO DE BAJA CALIFORNIA SUR.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 1.
 
-La Escuela Superior de Cultura Física ''Profr. Román Pozo Méndez" del Estado de Baja California Sur, es la institución educativa encargada de formar profesionales en las áreas de la cultura física y sus ciencias aplicadas, acorde a las necesidades del Estado de Baja California Sur y del país, sin desatender la unidad orgánica del Sistema Educativo Nacional.
+La Escuela Normal Superior de Cultura Física ''Profr. Román Pozo Méndez" del Estado de Baja California Sur, es la institución educativa encargada de formar profesionales en las áreas de la cultura física y sus ciencias aplicadas, acorde a las necesidades del Estado de Baja California Sur y del país, sin desatender la unidad orgánica del Sistema Educativo Nacional.
 
-Para los efectos de la presente Ley, cuando se trate de la Escuela Superior de Cultura Física del Estado de Baja California Sur, se entenderá que se refiere a la Escuela Superior de Cultura Física "Profr. Román Pozo Méndez" del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+Para los efectos de la presente Ley, cuando en lo sucesivo se mencione a la Escuela Normal Superior de Cultura Física, se entenderá que se refiere a la Escuela Normal Superior de Cultura Física "Profr. Román Pozo Méndez" del Estado de Baja California Sur.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 2.
 
-La Escuela Superior de Cultura Física del Estado de Baja California Sur, será una institución desconcentrada de la administración pública estatal y dependerá del Poder Ejecutivo del Estado de Baja California Sur, bajo la coordinación de la Secretaría de Educación Pública como institución formadora de docentes y tendrá como finalidades:
+La Escuela Normal Superior de Cultura Física, será una institución desconcentrada de la administración pública estatal y dependerá del Poder Ejecutivo del Estado de Baja California Sur, bajo la coordinación de la Secretaría de Educación Pública como institución formadora de docentes y tendrá como finalidades:
 
 I.- Ofrecer programas de educación superior con las características de intensidad, pertinencia, flexibilidad y calidad;
 
@@ -67,9 +71,11 @@ IV.- Desarrollar estudios o proyectos en las áreas de su competencia, que se tr
 
 V.- Desarrollar programas de apoyo técnico en beneficio de la comunidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 3.
 
-Para el cumplimiento de su objeto, corresponde a la Escuela Superior de Cultura Física del Estado de Baja California Sur, lo siguiente:
+Para el cumplimiento de su objeto, corresponde a la Escuela Normal Superior de Cultura Física, lo siguiente:
 
 I.- Constituirse como una organización administrativa y académica, de acuerdo con los lineamientos previstos en esta ley;
 
@@ -93,7 +99,9 @@ X.- Regular los procedimientos de selección e ingreso de los alumnos, y estable
 
 XI.- Establecer los procedimientos de ingreso, permanencia y promoción de su personal;
 
-XII.- Planear, desarrollar e impartir programas de superación y actualización académica y dirigirlos tanto a la comunidad de la Escuela Superior de Cultura Física del Estado de Baja California Sur, como a la población en general; y
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+XII.- Planear, desarrollar e impartir programas de superación y actualización académica y dirigirlos tanto a la comunidad de la Escuela Normal Superior de Cultura Física, como a la población en general; y
 
 XIII.- La administración de los ingresos que obtenga por los servicios que preste, con sujeción al marco legal aplicable de acuerdo a su naturaleza.
 
@@ -101,9 +109,11 @@ XIII.- La administración de los ingresos que obtenga por los servicios que pres
 
 Habrá un consejo escolar como máxima autoridad, integrado por el director o directora de la Escuela, el subdirector o subdirectora, quien hará las funciones de secretario técnico o secretaria técnica según sea el caso y un consejero-maestro o una consejera-maestra por cada especialidad, así como un consejero-alumno o consejera-alumna, representante igualmente de cada especialidad existente; el director o directora presidirá el consejo escolar y ejercerá las facultades ejecutivas; el subdirector o subdirectora tendrá voz pero no voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 5.
 
-El cuerpo directivo de la Escuela Superior de Cultura Física del Estado de Baja California Sur, estará integrada por:
+El cuerpo directivo de la Escuela Normal Superior de Cultura Física, estará integrada por:
 
 I.- El director o directora de la escuela;
 
@@ -111,9 +121,11 @@ II.- El subdirector o subdirectora; y
 
 III.- Los coordinadores y/o coordinadoras de área.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 6.
 
-Para ser director o directora de la Escuela Superior de Cultura Física del Estado de Baja California Sur, se requiere:
+Para ser director o directora de la Escuela Normal Superior de Cultura Física, se requiere:
 
 I.- Ser mayor de treinta años;
 
@@ -125,37 +137,53 @@ IV.- Poseer reconocida experiencia académica y profesional;
 
 V.- Ser persona de amplia solvencia moral y de reconocido prestigio; y
 
-VI.- Tener capacidad de conducción con base en un proyecto de desarrollo para la Escuela Superior de Cultura Física del Estado de Baja California Sur.
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+VI.- Tener capacidad de conducción con base en un proyecto de desarrollo para la Escuela Normal Superior de Cultura Física.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 7.
 
-El director o directora de la Escuela Superior de Cultura Física del Estado de Baja California Sur, será nombrado o nombrada y removido o removida por el titular del Poder Ejecutivo del Estado de Baja California Sur.
+El director o directora de la Escuela Normal Superior de Cultura Física, será nombrado o nombrada y removido o removida por el titular del Poder Ejecutivo del Estado de Baja California Sur.
 
-El subdirector o subdirectora, así como los coordinadores o coordinadoras de área de la Escuela Superior de Cultura Física del Estado de Baja California Sur, serán nombrados por el director o directora de la institución.
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+El subdirector o subdirectora, así como los coordinadores o coordinadoras de área de la Escuela Normal Superior de Cultura Física, serán nombrados por el director o directora de la institución.
+
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 8.
 
-El consejo escolar de la Escuela Superior de Cultura Física del Estado de Baja California Sur, aprobará los reglamentos y discutirá los planes de estudios, programas de licenciatura propuestos por el Consejo Nacional Técnico de la Educación y demás instrumentos necesarios para la buena marcha del plantel, mismo que entrará en vigor de inmediato, salvo las disposiciones que requieran la aprobación del titular del Poder Ejecutivo del Estado de Baja California Sur o de la Secretaría de Educación Pública o de ambos.
+El consejo escolar de la Escuela Normal Superior de Cultura Física, aprobará los reglamentos y discutirá los planes de estudios, programas de licenciatura propuestos por el Consejo Nacional Técnico de la Educación y demás instrumentos necesarios para la buena marcha del plantel, mismo que entrará en vigor de inmediato, salvo las disposiciones que requieran la aprobación del titular del Poder Ejecutivo del Estado de Baja California Sur o de la Secretaría de Educación Pública o de ambos.
+
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 9.
 
-La Escuela Superior de Cultura Física del Estado de Baja California Sur, funcionará con las aportaciones que se le asignen por el titular del Poder Ejecutivo del Estado de Baja California Sur; con los ingresos que obtenga por concepto de inscripción, colegiaturas o cualquier otro que se establezca en el reglamento, así como con las aportaciones o subsidios que reciba de cualquier institución oficial o de personas físicas o morales y administrará sus recursos de acuerdo a las disposiciones aplicables, emitidas por la Secretaría de Educación Pública como Secretaría Coordinadora de Sector al cual pertenece.
+La Escuela Normal Superior de Cultura Física, funcionará con las aportaciones que se le asignen por el titular del Poder Ejecutivo del Estado de Baja California Sur; con los ingresos que obtenga por concepto de inscripción, colegiaturas o cualquier otro que se establezca en el reglamento, así como con las aportaciones o subsidios que reciba de cualquier institución oficial o de personas físicas o morales y administrará sus recursos de acuerdo a las disposiciones aplicables, emitidas por la Secretaría de Educación Pública como Secretaría Coordinadora de Sector al cual pertenece.
 
 ###### ARTÍCULO 10.
 
 Las asociaciones de alumnos se organizarán democráticamente en la misma forma que ellos mismos lo determinen, sin contravenir ningún reglamento. Serán independientes de los órganos del plantel y su intervención en la organización, funcionamiento y toda actividad educacional será puramente consultiva.
 
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 11.
 
-Las relaciones laborales entre la Escuela Superior de Cultura Física del Estado de Baja California Sur y su personal administrativo y de apoyo, se regirá por lo dispuesto en la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
+Las relaciones laborales entre la Escuela Normal Superior de Cultura Física y su personal administrativo y de apoyo, se regirá por lo dispuesto en la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 12.
 
-Las relaciones laborales entre la Escuela Superior de Cultura Física del Estado de Baja California Sur y su personal docente, se regirá por el Reglamento Especial que se dicte al efecto por el consejo escolar.
+Las relaciones laborales entre la Escuela Normal Superior de Cultura Física y su personal docente, se regirá por el Reglamento Especial que se dicte al efecto por el consejo escolar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 13.
 
-Los títulos que expida la Escuela Superior de Cultura Física del Estado de Baja California Sur serán firmados por el titular del Poder Ejecutivo del Estado y por el director o directora de la institución.
+Los títulos que expida la Escuela Normal Superior de Cultura Física, serán firmados por el titular del Poder Ejecutivo del Estado y por el director o directora de la institución.
 
 Dichos títulos serán certificados y registrados por la Unidad Coordinadora del Sector Educativo.
 
@@ -214,5 +242,13 @@ ARMANDO MARTÍNEZ VEGA
 B.O. 31 DE DICIEMBRE DE 2014.
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 17 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3172 SE REFORMA LA DENOMINACIÓN DE LA LEY ORGÁNICA DE LA ESCUELA SUPERIOR DE CULTURA FÍSICA "PROFR. ROMÁN POZO MÉNDEZ" DEL ESTADO DE BAJA CALIFORNIA SUR, PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 1, PRIMER PÁRRAFO DEL ARTÍCULO 2, PRIMER PÁRRAFO Y FRACCIÓN XII DEL ARTÍCULO 3, PRIMER PÁRRAFO DEL ARTÍCULO 5, PRIMER PÁRRAFO Y FRACCIÓN VI DEL ARTÍCULO 6, PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 7, PRIMER PÁRRAFO DEL ARTÍCULO 8, PRIMER PÁRRAFO DEL ARTÍCULO 9, PRIMER PÁRRAFO DEL ARTÍCULO 11, PRIMER PÁRRAFO DEL ARTÍCULO 12, Y PRIMER PÁRRAFO DEL ARTÍCULO 13 TODOS DE LA MISMA LEY".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
