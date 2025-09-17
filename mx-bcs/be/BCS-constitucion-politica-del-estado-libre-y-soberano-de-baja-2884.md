@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2025-09-10"
+last_updated: "2025-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE SEPTIEMBRE DE 2025.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -3111,6 +3111,18 @@ En el nombramiento y remoción de los Titulares de la Secretaría General, Tesor
 
 En caso de que los nombramientos y remociones de dichos Titulares se realicen en contravención a lo establecido en el párrafo anterior, se considerarán nulos de pleno derecho.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+## TITULO OCTAVO BIS. DE LAS RELACIONES JURÍDICAS DE TRABAJO ENTRE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR Y LOS TRABAJADORES A SU SERVICIO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+### CAPITULO UNICO. BASES GENERALES
+
+> <small>(ADICIONADO, B.O. 17 DE SEPTIEMBRE DE 2025)</small>
+
+155 BIS.- Las relaciones jurídicas de trabajo entre los Titulares de los Poderes del Estado y Municipios de Baja California Sur y las personas trabajadoras a su servicio, se regirán por las leyes que expida la Legislatura, con base en lo dispuesto por los Artículos 115 fracción VIII, 116 fracción VI, y 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 28 DE FEBRERO DE 2017)</small>
 
 ## TITULO NOVENO. DE LAS RESPONSABILIDADES Y SISTEMA ANTICORRUPCIÓN
@@ -3233,50 +3245,6 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2017)</small>
 
-## TITULO DECIMO. PREVENCIONES GENERALES
-
-> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)</small>
-
-161.- Todos los contratos y concesiones que el Gobierno del Estado y los Municipios tengan que celebrar para ejecución de obras públicas y servicios, con el objeto de garantizar precios, calidad y responsabilidad de contratistas y concesiones, serán adjudicados en los términos de la Ley de la materia.
-
-162.- El Gobierno del Estado y los municipios deberán crear y desarrollar la integración de planos reguladores en sus respectivas jurisdicciones.
-
-163.- Los funcionarios y empleados públicos, antes de tomar posesión de su encargo, otorgarán protesta de guardar y hacer guardar la Constitución General de la República, la presente Constitución y las leyes que de ellas emanen.
-
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
-
-Los servidores públicos del Estado y los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
-
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
-
-La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
-
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
-
-Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
-
-164.- Nadie puede a la vez ejercer, en el Estado, dos o más cargos de elección popular, pero el interesado podrá escoger cualquiera de ellos.
-
-Todo cargo o empleo público de la entidad es incompatible con cualquier otro del Estado, cuando por ambos se perciba sueldo, excepto en el caso de que se trate de los ramos de la docencia o de beneficencia.
-
-> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2010)</small>
-
-Los servidores públicos del Estado, los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades. Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
-
-I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
-
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
-
-III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
-
-IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
-
-V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
-
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
-
-165.- Todos los profesionistas que sean funcionarios y empleados del Estado, no pueden ejercer su profesión sino cuando se lo permitan las leyes orgánicas aplicables de las dependencias en que trabajen. La infracción de este artículo será causa de responsabilidad.
-
 ### CAPITULO II. DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
 > <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
@@ -3336,6 +3304,50 @@ IV. Las demás facultades y atribuciones que dispongan las leyes de la materia.
 > <small>(REFORMADO, B.O. 17 DE JULIO DE 2017)</small>
 
 160 Ter.- La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III, del artículo 157 de esta Constitución. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
+
+## TITULO DECIMO. PREVENCIONES GENERALES
+
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)</small>
+
+161.- Todos los contratos y concesiones que el Gobierno del Estado y los Municipios tengan que celebrar para ejecución de obras públicas y servicios, con el objeto de garantizar precios, calidad y responsabilidad de contratistas y concesiones, serán adjudicados en los términos de la Ley de la materia.
+
+162.- El Gobierno del Estado y los municipios deberán crear y desarrollar la integración de planos reguladores en sus respectivas jurisdicciones.
+
+163.- Los funcionarios y empleados públicos, antes de tomar posesión de su encargo, otorgarán protesta de guardar y hacer guardar la Constitución General de la República, la presente Constitución y las leyes que de ellas emanen.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+Los servidores públicos del Estado y los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
+
+164.- Nadie puede a la vez ejercer, en el Estado, dos o más cargos de elección popular, pero el interesado podrá escoger cualquiera de ellos.
+
+Todo cargo o empleo público de la entidad es incompatible con cualquier otro del Estado, cuando por ambos se perciba sueldo, excepto en el caso de que se trate de los ramos de la docencia o de beneficencia.
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2010)</small>
+
+Los servidores públicos del Estado, los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades. Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
+
+165.- Todos los profesionistas que sean funcionarios y empleados del Estado, no pueden ejercer su profesión sino cuando se lo permitan las leyes orgánicas aplicables de las dependencias en que trabajen. La infracción de este artículo será causa de responsabilidad.
 
 ## TITULO UNDECIMO. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 
@@ -5042,3 +5054,9 @@ Segundo. Las adiciones de la fracción VII al artículo 45, la fracción I al ar
 Tercero. Las reformas a los artículos 46 y 141 de esta Constitución, respecto de la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir de los procesos electorales locales a celebrarse en 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
 
 Cuarto - La XVII Legislatura al H. Congreso del Estado de Baja California Sur, revisará el marco jurídico local y realizará, en su caso, los ajustes necesarios a los ordenamientos secundarios en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+B.O. 17 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 3155 SE ADICIONA UN TÍTULO OCTAVO BIS DENOMINADO: DE LAS RELACIONES JURÍDICAS DE TRABAJO ENTRE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR Y LOS TRABAJADORES A SU SERVICIO, CON UN CAPÍTULO ÚNICO DENOMINADO: BASES GENERALES Y UN ARTÍCULO 155 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
