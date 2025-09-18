@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2025-07-06"
+last_updated: "2025-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -354,6 +354,10 @@ En el caso de las etnias duranguenses, la educación será bilingüe y respetar�
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 El Estado promoverá la educación superior, la investigación científica y tecnológica y la difusión de la cultura.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2025)</small>
+
+Los alumnos y alumnas que cursen educación básica en escuelas públicas del Estado, recibirán en cada ciclo escolar, por parte del Estado, un uniforme escolar o deportivo y un paquete de útiles escolares.
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2022)</small>
 
@@ -5146,3 +5150,11 @@ El Congreso del Estado tendrá un plazo de sesenta días naturales a partir de l
 ###### ARTÍCULO QUINTO.
 
 Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 180 POR EL CUAL SE ADICIONA UN PÁRRAFO QUINTO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por el presente decreto
