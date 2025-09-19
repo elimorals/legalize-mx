@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-12-2009-del-pleno-de-la-suprema-71054"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-12-01"
-last_updated: "2012-02-02"
+last_updated: "2025-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71054&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-11-23"
 ---
 # ACUERDO GENERAL NUMERO 12/2009 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [COMPETENCIA DELEGADA PARA CONOCER DE LOS INCIDENTES DE INEJECUCION DE SENTENCIA Y DE REPETICION DEL ACTO RECLAMADO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL NÚMERO 2/2025 (12A.), DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, EN EL QUE SE PRECISAN LOS ASUNTOS DE SU COMPETENCIA Y LOS QUE SE DELEGAN A OTROS ÓRGANOS JURISDICCIONALES FEDERALES, PUBLICADO EN EL D.O.F. DE 19 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ACUERDO GENERAL NÚMERO 12/2009, DE VEINTITRÉS DE NOVIEMBRE DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LAS ATRIBUCIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO AL EJERCER LA COMPETENCIA DELEGADA PARA CONOCER DE LOS INCIDENTES DE INEJECUCIÓN DE SENTENCIA Y DE REPETICIÓN DEL ACTO RECLAMADO ASÍ COMO AL PROCEDIMIENTO QUE SE SEGUIRÁ EN ESTE ALTO TRIBUNAL AL CONOCER DE ESOS ASUNTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2025 (DEROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de diciembre de 2009.
 
@@ -188,3 +190,17 @@ D.O.F. 2 DE FEBRERO DE 2012.
 PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 12/2009 en dichos medios electrónicos.
+
+D.O.F. 19 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 2/2025 (12A.), DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, EN EL QUE SE PRECISAN LOS ASUNTOS DE SU COMPETENCIA Y LOS QUE SE DELEGAN A OTROS ÓRGANOS JURISDICCIONALES FEDERALES”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En razón de la emisión del presente Acuerdo General así como de los diversos: “ACUERDO GENERAL NÚMERO 4/2025 (12a.), DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE ESTABLECE EL TRÁMITE DE LAS SOLICITUDES DE EJERCICIO DE LA FACULTAD DE ATRACCIÓN Y DE REASUNCIÓN DE COMPETENCIA” y “ACUERDO GENERAL NÚMERO 11/2025 (12a.), DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE REGULA LA REMISIÓN DE RECURSOS DE REVISIÓN EN AMPARO INDIRECTO POR LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN ASUNTOS DE SU COMPETENCIA”, se abroga el Acuerdo General Plenario 1/2023, de veintiséis de enero de dos mil veintitrés del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, relativo a la determinación de los asuntos que el Pleno conservará para su resolución, y el envío de los de su competencia originaria a las Salas, a los Plenos Regionales y a los Tribunales Colegiados de Circuito, reformado mediante Instrumento Normativo aprobado el diez de abril de dos mil veintitrés.
+
+TERCERO. Se deroga el Acuerdo General Plenario 12/2009, de veintitrés de noviembre de dos mil nueve, relativo a las atribuciones de los Tribunales Colegiados de Circuito al ejercer la competencia delegada para conocer de los incidentes de inejecución de sentencia y de repetición del acto reclamado, así como al procedimiento que se seguirá en la Suprema Corte de Justicia de la Nación al conocer de esos asuntos, en la parte materia del presente Acuerdo General.
+
+CUARTO. Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Acuerdo General, la Secretaría General de Acuerdos solicitará al Órgano de Administración Judicial las adecuaciones que resulten necesarias al sistema informático de competencia delegada y comunicará mediante Circular las bases de su funcionamiento a los Tribunales Colegiados de Circuito y a los Plenos Regionales.
+
+QUINTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta así como en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública. Asimismo, hágase del conocimiento del Órgano de Administración Judicial y del Tribunal de Disciplina Judicial y, para su cumplimiento, de los Juzgados de Distrito, de los Tribunales Colegiados de Circuito, de los Tribunales Colegiados de Apelación y de los Plenos Regionales.
