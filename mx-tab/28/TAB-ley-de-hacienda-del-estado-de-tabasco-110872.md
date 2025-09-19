@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2025-02-01"
+last_updated: "2025-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -2937,7 +2937,11 @@ a) Para los giros que venden bebidas alcohólicas
 
 en envase cerrado; 30.0 UMA
 
-b) (DEROGADO, P.O. 1 DE FEBRERO DE 2025)
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2025)</small>
+
+b) Para los giros que venden bebidas alcohólicas
+
+en envase abierto; 50.00 UMA
 
 c) Permisos para el funcionamiento temporal
 
@@ -9328,3 +9332,11 @@ PRIMERO. El presente Decreto entrará en vigor el primero de marzo del presente 
 SEGUNDO. La Secretaría de Administración y Finanzas, será la encargada de tomar las medidas administrativas necesarias para el correcto funcionamiento.
 
 TERCERO. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 139 POR EL QUE “SE ADICIONA EL INCISO b) DE LA FRACCIÓN IX DEL ARTÍCULO 79 DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
