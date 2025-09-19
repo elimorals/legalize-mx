@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-2-2008-del-pleno-de-la-suprema-corte-602
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-02"
-last_updated: "2008-04-02"
+last_updated: "2025-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-03-11"
 ---
 # ACUERDO GENERAL NUMERO 2/2008 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LAS AUDIENCIAS RELACIONADAS CON ASUNTOS CUYO TEMA SE ESTIME RELEVANTE, DE INTERES JURIDICO O DE IMPORTANCIA NACIONAL]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 5/2025 (12A.), DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE REGULA LAS AUDIENCIAS PÚBLICAS EN LOS ASUNTOS DE SU COMPETENCIA, PUBLICADO EN EL D.O.F. DE 19 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL NUMERO 2/2008, DE DIEZ DE MARZO DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EN EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA LA CELEBRACION DE AUDIENCIAS RELACIONADAS CON ASUNTOS CUYO TEMA SE ESTIME RELEVANTE, DE INTERES JURIDICO O DE IMPORTANCIA NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de abril de 2008.
 
@@ -90,3 +92,15 @@ El Presidente de la Suprema Corte de Justicia de la Nación Ministro, Guillermo 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo Número 2/2008, DE DIEZ DE MARZO DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, EN EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA LA CELEBRACION DE AUDIENCIAS RELACIONADAS CON ASUNTOS CUYO TEMA SE ESTIME RELEVANTE, DE INTERES JURIDICO O DE IMPORTANCIA NACIONAL, fue emitido por el Tribunal Pleno en Sesión Privada celebrada hoy, por unanimidad de once votos de los señores Ministros Presidente Guillermo I. Ortiz Mayagoitia, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a diez de marzo de dos mil ocho.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de nueve fojas útiles, concuerda fiel y exactamente con su original consistente en el Acuerdo General Número 2/2008, y se certifica para dar cumplimiento a lo dispuesto en el Punto Segundo Transitorio. México, Distrito Federal, a once de marzo de dos mil ocho.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 5/2025 (12a.), DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE REGULA LAS AUDIENCIAS PÚBLICAS EN LOS ASUNTOS DE SU COMPETENCIA”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario número 2/2008, de diez de marzo de dos mil ocho, en el que se establecen los lineamientos para la celebración de audiencias relacionadas con asuntos cuyo tema se estime relevante, de interés jurídico o de importancia nacional.
+
+TERCERO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta así como en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
