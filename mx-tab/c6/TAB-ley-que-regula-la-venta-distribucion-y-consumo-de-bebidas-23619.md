@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-23619
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2025-02-01"
+last_updated: "2025-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 21 de diciembre de 2001.
 
@@ -35,7 +35,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO, CON FUNDAMENTO EN LOS ARTÍCULOS 33, FRACCIÓN I, 36 FRACCIONES I Y XLII, Y 83, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, Y
 
-...
+[...]
 
 DECRETO 043
 
@@ -427,11 +427,11 @@ XIII. Las fábricas de bebidas alcohólicas, todos los días, de ocho a veinte h
 
 XIV. Productor de bebidas alcohólicas artesanales de lunes a domingo, de las diez a las dieciocho horas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 12.
 
-Los licenciatarios a los que se refieren las fracciones I y XI del artículo 11, podrán solicitar a la Secretaría la ampliación de sus horarios de funcionamiento hasta por un máximo de tres horas. De autorizarse la ampliación, se deberá cubrir el importe de los derechos correspondientes.
+Los licenciatarios a los que se refieren las fracciones I, III, IV, V, VIII, IX, X, XI, XII, XIII y XIV del artículo 11, podrán solicitar a la Secretaría la ampliación de sus horarios de funcionamiento hasta por un máximo de dos horas. De autorizarse la ampliación, se deberá cubrir el importe de los derechos correspondientes en los términos previstos por la Ley de Hacienda del Estado de Tabasco.
 
 Los establecimientos a los que se refiere la fracción II, del artículo 11 podrán solicitar ampliación de sus horarios de funcionamiento hasta por una hora y por un período que no exceda de 15 días, en un año calendario.
 
@@ -1206,3 +1206,11 @@ PRIMERO. El presente Decreto entrará en vigor el primero de marzo del presente 
 SEGUNDO. La Secretaría de Administración y Finanzas, será la encargada de tomar las medidas administrativas necesarias para el correcto funcionamiento.
 
 TERCERO. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 139 POR EL QUE “SE REFORMA EL ARTÍCULO 12, PÁRRAFO PRIMERO, DE LA LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
