@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-de-la-empresa-de-participacion-estatal-181464"
 country: "mx"
 rank: "codigo"
 publication_date: "2025-09-02"
-last_updated: "2025-09-02"
+last_updated: "2025-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181464&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2025-05-29"
 ---
 # CODIGO DE ETICA DE LA EMPRESA DE PARTICIPACION ESTATAL MAYORITARIA TURISTICA INTEGRAL ISLAS MARIAS S.A. DE C.V
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE SEPTIEMBRE DE 2025 EN EL DIARIO OFICIAL DE LA FEDERACION, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LA EMPRESA DE PARTICIPACIÓN ESTATAL MAYORITARIA TURÍSTICA INTEGRAL ISLAS MARÍAS, S.A. DE C.V.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 19 DE SEPTIEMBRE DE 2025.]</small>
 
 Código publicado en el número 235/2025 del Diario Oficial de la Federación, el martes 2 de septiembre de 2025.
 
@@ -31,7 +31,9 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 
 Par (sic) dar cumplimiento a los artículos 109, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 6o., 7o. y 16 de la Ley General de Responsabilidades Administrativas; 5o., de la Ley General del Sistema Nacional Anticorrupción; 3o., fracción I y 4o., fracción I, de la Ley Federal de Austeridad Republicana; 1o., 26 y 37, fracción XXVIII de la Ley Orgánica de la Administración Pública Federal; 12, fracciones VI y XVIII, y los numerales Primero, Quinto, Sexto, Séptimo, Octavo y Noveno del Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas al Artículo 20, fracción II del Código de ética de la Administración Pública Federal publicado en el Diario Oficial de la Federación el 08 de febrero del 2023.
 
-AVISO DE CONSULTA PÚBLICA DEL MANUAL DEL CÓDIGO DE ETICA DE LA EMPRESA TURÍSTICA DE PARTICIPACIÓN ESTATAL MAYORITARIA “TURÍSTICA ISLAS MARÍAS S.A. DE C.V.”
+> <small>(F. DE E., D.O.F. 19 DE SEPTIEMBRE DE 2025)</small>
+
+AVISO DE CONSULTA PÚBLICA DEL CÓDIGO DE ÉTICA DE LA EMPRESA DE PARTICIPACIÓN ESTATAL MAYORITARIA TURÍSTICA INTEGRAL ISLAS MARÍAS S.A. DE C.V.
 
 La Empresa de Participación Estatal Mayoritaria “Turística Integral Islas Marías S.A. de C.V.”, por conducto de su Director General, hace del conocimiento del público en general que el Código de Conducta de esta Institución, se puede consultar en Normatividad de esta Entidad sita en su página web, mediante la liga:
 
