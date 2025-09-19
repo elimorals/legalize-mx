@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-9-2015-del-pleno-de-la-suprema-corte-108
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-06-12"
-last_updated: "2015-06-12"
+last_updated: "2025-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-06-09"
 ---
 # ACUERDO GENERAL NUMERO 9/2015 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, [QUE ESTABLECE LAS BASES GENERALES PARA LA PROCEDENCIA Y TRAMITACION DE LOS RECURSOS DE REVISION EN AMPARO DIRECTO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 3/2025 (12a.), DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 19 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL NÚMERO 9/2015, DE OCHO DE JUNIO DE DOS MIL QUINCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, QUE ESTABLECE LAS BASES GENERALES PARA LA PROCEDENCIA Y TRAMITACIÓN DE LOS RECURSOS DE REVISIÓN EN AMPARO DIRECTO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 12 de junio de 2015.
 
@@ -98,3 +100,15 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Luis Marí
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 9/2015, DE OCHO DE JUNIO DE DOS MIL QUINCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, QUE ESTABLECE LAS BASES GENERALES PARA LA PROCEDENCIA Y TRAMITACIÓN DE LOS RECURSOS DE REVISIÓN EN AMPARO DIRECTO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de once votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Juan N. Silva Meza, Eduardo Medina Mora I., Olga Sánchez Cordero de García Villegas, Alberto Pérez Dayán y Presidente Luis María Aguilar Morales.- México, Distrito Federal, a ocho de junio de dos mil quince.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de catorce fojas útiles concuerda fiel y exactamente con el original del ACUERDO GENERAL NÚMERO 9/2015, DE OCHO DE JUNIO DE DOS MIL QUINCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, QUE ESTABLECE LAS BASES GENERALES PARA LA PROCEDENCIA Y TRAMITACIÓN DE LOS RECURSOS DE REVISIÓN EN AMPARO DIRECTO, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a nueve de junio de dos mil quince.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL NÚMERO 3/2025 (12a.), DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE REGULA LA PROCEDENCIA Y TRÁMITE DE LOS RECURSOS DE REVISIÓN EN AMPARO DIRECTO".]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General 9/2015 de ocho de junio de dos mil quince, del Pleno de la Suprema Corte de Justicia de la Nación, que establece las bases generales para la procedencia y tramitación de los recursos de revisión en amparo directo, así como cualquier otra disposición que se oponga al presente Acuerdo General.
+
+TERCERO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública.
