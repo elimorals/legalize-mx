@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-la-empresa-de-participacion-estatal-18146
 country: "mx"
 rank: "codigo"
 publication_date: "2025-09-02"
-last_updated: "2025-09-02"
+last_updated: "2025-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181466&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2025-05-29"
 ---
 # CODIGO DE CONDUCTA DE LA EMPRESA DE PARTICIPACION ESTATAL MAYORITARIA TURISTICA INTEGRAL ISLAS MARIAS S.A. DE C.V
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE SEPTIEMBRE DE 2025 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-CÓDIGO DE CONDUCTA DE LA EMPRESA DE LA PARTICIPACIÓN ESTATAL MAYORITARÍA ISLAS MARÍAS S.A. DE C.V.
+CÓDIGO DE CONDUCTA DE LA EMPRESA DE PARTICIPACIÓN ESTATAL MAYORITARIA TURÍSTICA INTEGRAL ISLAS MARÍAS S.A. DE C.V.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 19 DE SEPTIEMBRE DE 2025.]</small>
 
 Código publicado en el número 235/2025 del Diario Oficial de la Federación, el martes 2 de septiembre de 2025.
 
@@ -31,7 +31,9 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 
 Par (sic) dar cumplimiento al Artículo 20, fracción II del Código de ética de la Administración Pública Federal publicado en el Diario Oficial de la Federación el 08 de febrero del 2023 y al numeral 43 de los Lineamientos Generales para la Integración y funcionamiento de los Comités de Ética y a lo establecido en la Guía para la Elaboración del Código de Conducta en las Dependencias y Entidades de la Administración Pública Federal publicado de enero del 2023.
 
-AVISO DE CONSULTA PÚBLICA DEL MANUAL DEL CÓDIGO DE CONDUCTA DE LA EMPRESA TURÍSTICA DE PARTICIPACIÓN ESTATAL MAYORITARIA “TURÍSTICA ISLAS MARÍAS S.A. DE C.V.”
+> <small>(F. DE E., D.O.F. 19 DE SEPTIEMBRE DE 2025)</small>
+
+AVISO DE CONSULTA PÚBLICA DEL CÓDIGO DE CONDUCTA DE LA EMPRESA DE PARTICIPACIÓN ESTATAL MAYORITARIA TURÍSTICA INTEGRAL ISLAS MARÍAS S.A. DE C.V.
 
 La Empresa de Participación Estatal Mayoritaria “Turística Integral Islas Marías S.A. de C.V.”, por conducto de su Director General, hace del conocimiento del público en general que el Código de Conducta de esta Institución, se puede consultar en Normatividad de esta Entidad sita en su página web, mediante la liga:
 
