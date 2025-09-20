@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6613
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2023-09-30"
+last_updated: "2025-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -83,9 +83,17 @@ VIII. Establecer competencia específica a las autoridades, orientada a la preve
 
 IX. Promover el acceso oportuno y eficaz de las mujeres a mecanismos e instrumentos de protección y procedimientos legales que salvaguarden los derechos protegidos por esta Ley;
 
-X. Establecer bases de coordinación, colaboración y concurrencia entre las autoridades estatales y municipales, y en su caso, federales, así como con los sectores social, académico, privado y los medios de comunicación, para cumplir con el objeto de esta Ley, y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
 
-XI. Promover reformas legales, institucionales y administrativas, para garantizar el derecho de las mujeres a una vida libre de violencia.
+X. Establecer bases de coordinación, colaboración y concurrencia entre las autoridades estatales y municipales, y en su caso, federales, así como con los sectores social, académico, privado y los medios de comunicación, para cumplir con el objeto de esta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+XI. Promover reformas legales, institucionales y administrativas, para garantizar el derecho de las mujeres a una vida libre de violencia, y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+XII. Implementar acciones, planes y programas para garantizar la seguridad de las mujeres en los espacios públicos.
 
 Interpretación
 
@@ -130,6 +138,10 @@ El Reglamento de esta Ley determinará los principios, lineamientos y requisitos
 II. DIF Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 III. DIF municipales: A los Sistemas para el Desarrollo Integral de la Familia de los municipios del Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+III Bis. Espacio público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito, también se considera espacio público el transporte público;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JUNIO DE 2018)</small>
 
@@ -235,7 +247,9 @@ Se entenderá, así mismo, como Violencia Sexual, a la violencia contra los dere
 
 El hostigamiento sexual es la forma de violencia que realiza la persona agresora cuando tiene una relación de superioridad real frente a la víctima en los ámbitos laboral, escolar, doméstico o cualquier otro que implique subordinación, se manifiesta en cualquier comportamiento, aislado o recurrente, verbal o físico, de connotación lasciva que degrade, dañe o atente contra el cuerpo o la sexualidad de la víctima.
 
-El acoso sexual es la forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder por parte de la persona agresora, que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos. Se manifiesta en cualquier comportamiento, verbal o físico, de naturaleza sexual, intimidatorio u ofensivo que degrade, dañe o atente contra el cuerpo o la sexualidad de la víctima.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+El acoso sexual es la forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder por parte de la persona agresora, que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos. Se manifiesta en cualquier comportamiento, verbal o físico, de naturaleza sexual, intimidatorio u ofensivo que degrade, dañe o atente contra el cuerpo o la sexualidad de la víctima en espacios públicos o privados.
 
 La mutilación genital femenina es el conjunto de procedimientos que implican una eliminación parcial o total de los genitales externos femeninos o lesiones causadas a los órganos genitales femeninos por razones culturales, religiosas, o en general, cualquier otra que no sea de orden estrictamente terapéutico, aun cuando se realicen con el consentimiento, expreso o tácito, de la víctima;
 
@@ -247,7 +261,13 @@ El ciberacoso sexual es un tipo de violencia de género en contra de las mujeres
 
 La violación contra la privacidad sexual es un tipo de violencia de género contra las mujeres, que consiste en la publicación o difusión, a través de cualquier medio electrónico, de imágenes, audios o videos sobre la vida sexual de una mujer, sin su consentimiento, independientemente de que exista una relación afectiva o no.
 
-IV. Violencia Económica. Cualquier acto u omisión realizado por la persona agresora que afecte la libertad de disponibilidad de recursos económicos de la víctima. Se puede manifestar a través de limitaciones al ingreso o a la disponibilidad de las percepciones económicas, incumplimiento de las responsabilidades alimentarias, exclusión o discriminación en la toma de decisiones financieras o en la disposición de los recursos compartidos sin la voluntad de la víctima.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Violencia Económica. Es cualquier acto u omisión realizado por la persona agresora que impida el empoderamiento y desarrollo económico de las mujeres. Se puede manifestar a través de limitaciones al ingreso o a la disponibilidad de las percepciones económicas y el control de las mismas, el incumplimiento de las responsabilidades alimentarias, exclusión o discriminación en la toma de decisiones financieras o en la disposición de los recursos compartidos sin la voluntad de la víctima.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+La violencia financiera es una forma de violencia económica mediante la cual una persona restringe, controla o manipula el acceso a las finanzas para coaccionar a la víctima y así mantener el poder y el dominio en la relación.
 
 Se entenderá, así mismo, como Violencia Económica la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
@@ -323,11 +343,13 @@ La violencia laboral o docente es cualquier acto u omisión de agresión o discr
 
 Cuando se denuncien hechos constitutivos de violencia laboral o docente con efectos administrativos, se reservará en todo caso la identidad de la víctima.
 
-Violencia en la Comunidad
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+Violencia en la comunidad
 
 ###### Artículo 13.
 
-La violencia en la comunidad es cualquier acto u omisión, aislado o recurrente, individual o colectivo, de agresión o discriminación, dirigido a dominar, controlar, limitar, humillar, acosar, excluir, degradar, dañar o atentar, de manera física, verbal, psicológica o sexual, a las mujeres. Se puede manifestar en la vía pública, calles, transporte público, áreas públicas que la gente utilice, entre otros, para traslado, paseo, trámites, esparcimiento, descanso u estancia transitoria, y en general, en cualquier ámbito público.
+La violencia en la comunidad es cualquier acto u omisión, aislado o recurrente, individual o colectivo, de agresión o discriminación, dirigido a dominar, controlar, limitar, humillar, acosar, excluir, degradar, dañar o atentar, de manera física, verbal, psicológica o sexual, a las mujeres sin que medie relación alguna con la persona agresora. Se puede manifestar a través de una conducta física o verbal no consentida ejercida sobre una o varias personas en la vía pública, calles, transporte público, áreas públicas que la gente utilice, entre otros, para traslado, paseo, trámites, esparcimiento, descanso u estancia transitoria, y en general, en cualquier espacio público.
 
 Violencia Institucional
 
@@ -397,13 +419,41 @@ Violencia Digital
 
 Cualquier acto doloso que se presenta a través de las tecnologías de la información y comunicación, u otro medio, por el cual se lleva a cabo la acción de divulgar, compartir, distribuir, comercializar, solicitar, amenazar con publicar o publicar sin consentimiento, imágenes, textos, audios, videos u otras impresiones gráficas de una persona desnuda parcial o totalmente de contenido erótico o sexual, verdaderas o alteradas, ya sean propias o de otra persona, que cause daño o perjuicio y que atenta contra la integridad y dignidad de las mujeres.
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
 
-Violencia Obstétrica
+Violencia Gineco-Obstétrica
 
 ###### Artículo 14 Quáter.
 
-Es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y sobreparto, así como la negligencia en su atención médica que se exprese en malos tratos, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales: la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en esta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, así como obstaculizar sin causa médica justificada el apego precoz de la niña o niño con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer.
+Es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre o cause la muerte a la mujer durante consultas o prácticas ginecológicas y obstétricas en el embarazo, parto y sobreparto, así como la negligencia en su atención médica que se exprese en malos tratos, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales, de manera enunciativa mas no limitativa, las siguientes:
+
+I. La omisión de la atención oportuna y eficaz de las emergencias obstétricas;
+
+II. Acelerar el proceso natural del parto de bajo riesgo mediante el uso de técnicas que aceleren el nacimiento sin el consentimiento expreso de la madre;
+
+III. Realizar el parto vía cesárea existiendo condiciones para el parto natural, cuando no exista solicitud expresa de la madre, que deberá contener invariablemente el consentimiento informado;
+
+IV. Atender emergencias obstétricas, sin el debido cuidado e información amplia y veraz a la mujer;
+
+V. Negarse a atender cualquier emergencia en esta materia, se trate de una mujer derechohabiente o no en los servicios del sector público;
+
+VI. No proporcionar información sobre anticoncepción de manera individual y veraz a la mujer;
+
+VII. Omitir información sobre los padecimientos médicos, su etiología y tratamiento;
+
+VIII. Dirigirse a las mujeres en diminutivo, que no se relacione directamente con su nombre o haciendo alusión a su calidad de madre, independientemente de que lo sea o no;
+
+IX. No proporcionar los servicios médicos con perspectiva de género, ignorando la autonomía reproductiva, individualidad e independencia de las mujeres;
+
+X. La esterilización forzada o colocar dispositivos intrauterinos durante el parto sin que medie el consentimiento voluntario, expreso e informado de la mujer;
+
+XI. Permitir que otras personas tomen la decisión respecto a sus derechos sexuales y reproductivos;
+
+XII. Usar el parto como recurso didáctico formativo a practicantes;
+
+XIII. La estigmatización, los estereotipos o las etiquetas negativas, y
+
+XIV. Obstaculizar sin causa médica justificada el apego precoz de la niña o niño con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer.
 
 Violencia Feminicida
 
@@ -1023,9 +1073,21 @@ II. Canalizar a las víctimas a programas integrales, de asistencia, atención y
 
 III. Establecer y operar, en coordinación con el DIF Estatal, una línea de atención telefónica gratuita que sirva de medio de información y canalización para atender a las mujeres víctimas de violencia;
 
-IV. Coadyuvar con las instituciones privadas dedicadas a prestar asistencia y protección a las mujeres víctimas de violencia, y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
 
-V. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, que incorporen la perspectiva de género, con actitudes idóneas, sin prejuicios ni discriminación alguna.
+IV. Coadyuvar con las instituciones privadas dedicadas a prestar asistencia y protección a las mujeres víctimas de violencia;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+V. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, que incorporen la perspectiva de género, con actitudes idóneas, sin prejuicios ni discriminación alguna;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+VI. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+VII. El diseño de políticas públicas dirigidas al desarrollo de espacios y transportes públicos libres de violencias contra las mujeres, las adolescentes y las niñas.
 
 C. En materia de investigación y difusión:
 
@@ -1265,9 +1327,15 @@ X. Diseñar, formular y aplicar, en coordinación con las autoridades estatales 
 
 XI. Instalar refugios y centros de atención, protección y asistencia para las mujeres víctimas de violencia, así como centros reeducativos para personas agresoras, de acuerdo con su capacidad presupuestal y financiera;
 
-XII. Establecer, una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de víctimas, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del Banco Estatal, y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
 
-XIII. Las demás previstas en esta Ley y las disposiciones aplicables.
+XII. Establecer, una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de víctimas, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del Banco Estatal;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+XIII. Promover espacios y transportes públicos, libres de violencias contra las mujeres, las adolescentes y las niñas, y
+
+XIV. Las demás previstas en esta Ley y las disposiciones aplicables.
 
 Atribuciones de la Legislatura
 
@@ -1793,17 +1861,21 @@ El Estado y los municipios crearán refugios para la atención a las víctimas d
 
 Naturaleza
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 81.
 
-Los refugios son espacios seguros, secretos, temporales y terapéuticos, en donde se brindará a las mujeres víctimas de violencia y a sus hijas e hijos, hospedaje, alimentación, vestido y calzado, además de protección y custodia.
+Los refugios son espacios seguros, secretos, temporales y terapéuticos, en donde se brindará a las mujeres víctimas de violencia y a sus hijas e hijos, hospedaje, educación, alimentación, vestido y calzado, además de protección y custodia.
 
 No se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos. Esta información será considerada reservada de conformidad con las leyes de la materia.
 
 Personal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 82.
 
-Los refugios deberán contar con el personal debidamente capacitado y especializado para proporcionar los servicios de protección y atención a las víctimas.
+Los refugios deberán contar con el personal debidamente capacitado y especializado para proporcionar los servicios de protección, educación y atención a las víctimas.
 
 En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer alguna forma de violencia contra las mujeres.
 
@@ -2148,3 +2220,11 @@ P.O. 30 DE SEPTIEMBRE DE 2023.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 20 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 113.- REFORMAS Y ADICIONES (SIC) LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
