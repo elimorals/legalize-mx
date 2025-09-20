@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-encierros-y-depositos-de-vehiculos-para-el-estado-de-126
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-08"
-last_updated: "2024-08-24"
+last_updated: "2025-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENCIERROS Y DEPÓSITO DE VEHÍCULOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial de Oaxaca, el viernes 8 de diciembre de 2017.
 
@@ -635,9 +635,15 @@ VIII. Permitir a las autoridades competentes, el acceso a sus oficinas, sitio o 
 
 IX. Contratar y mantener vigente una póliza de seguro de responsabilidad civil que ampare los vehículos sujetos a traslado, a través de alguna empresa legalmente constituida;
 
-X. Expedir a los interesados, contra el pago del servicio, el recibo que lo acredite o la factura que cumpla con los requisitos fiscales correspondientes; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
 
-XI. Las demás que se establezcan expresamente en el título de concesión.
+X. Expedir a los interesados, contra el pago del servicio, el recibo que lo acredite o la factura que cumpla con los requisitos fiscales correspondientes;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+XI. Capacitarse y profesionalizarse de forma permanente para brindar un servicio eficiente y seguro; y
+
+XII. Las demás que se establezcan expresamente en el título de concesión.
 
 #### SECCIÓN TERCERA. DE LOS DERECHOS DE LOS CONCESIONARIOS
 
@@ -802,3 +808,11 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 24 DE AGOSTO DE 2024.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 749.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN X; Y SE ADICIONA LA FRACCIÓN XI, RECORRIENDOSE EN SU ORDEN LA SUBSECUENTE, AL ARTÍCULO 42 DE LA LEY DE ENCIERROS Y DEPÓSITOS DE VEHÍCULOS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
