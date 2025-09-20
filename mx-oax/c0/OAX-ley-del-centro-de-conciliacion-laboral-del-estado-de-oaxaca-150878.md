@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-centro-de-conciliacion-laboral-del-estado-de-oaxaca-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-24"
-last_updated: "2021-08-24"
+last_updated: "2025-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150878&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DEL CENTRO DE CONCILIACION LABORAL DEL ESTADO DE OAXACA
 
-LEY DEL CENTRO DE CONCILIACION LABORAL DEL ESTADO DE OAXACA
+LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 24 de agosto de 2021
 
@@ -73,9 +73,11 @@ IX. Secretaría de la Contraloría: Secretaría de la Contraloría y Transparenc
 
 X. Secretaría Técnica: Secretaría Técnica de la Junta de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 4.
 
-El Centro de Conciliación Laboral del Estado de Oaxaca tendrá por objeto ofrecer el servicio público de conciliación laboral para la resolución de los conflictos entre trabajadores y patrones, en asuntos de jurisdicción local antes de presentar demanda ante los juzgados, procurando el equilibrio entre los factores de la producción y ofreciendo a estos una instancia eficaz y expedita para ello, conforme lo establece el párrafo segundo de la fracción XX del artículo 123, apartado A, de la Constitución Federal, y el artículo 590-F, segundo párrafo de la Ley Federal del Trabajo.
+El Centro de Conciliación Laboral del Estado de Oaxaca tendrá por objeto ofrecer el servicio público de conciliación laboral para la resolución de los conflictos entre las personas trabajadoras y patrones actuando con perspectiva de género, en asuntos de jurisdicción local antes de presentar demanda ante los juzgados, procurando el equilibrio entre los factores de la producción y ofreciendo a estos una instancia eficaz y expedita para ello, conforme lo establece el párrafo segundo de la fracción XX del artículo 123, apartado A, de la Constitución Federal, y el artículo 590-F, segundo párrafo de la Ley Federal del Trabajo.
 
 El Centro de Conciliación estará integrado por servidoras y servidores públicos, debidamente capacitados y con formación en protección de derechos humanos a personas en situación de vulnerabilidad.
 
@@ -408,3 +410,13 @@ DÉCIMO. Se derogan las disposiciones de igual o menor rango que se opongan a la
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 28 de Julio de 2021.-Dip. Arsenio Lorenzo Mejía García, Presidente.- Dip. Rocío Machuca Rojas, Secretaría.- Dip. Saúl Cruz Jiménez, Secretario.- Dip. Maritza Escarlet Vásquez Guerra, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 29 de Julio de 2021. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Ing. Francisco Javier García López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 760.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4 DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
