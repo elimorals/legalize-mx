@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2025-09-13"
+last_updated: "2025-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4163,9 +4163,9 @@ VI.- Expidan certificados falsos para obtener guías, simulando ventas, o hagan 
 
 VII.- Siendo autoridades expidan guías falsas;
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1985)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
 
-VIII.- Sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, adquieran ganado producto del abigeato;
+VIII.- Sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, transporten, resguarden, retengan, custodien o adquieran ganado producto del abigeato;
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1985)</small>
 
@@ -6696,3 +6696,13 @@ P.O. 13 DE SEPTIEMBRE DE 2025.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 746.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 374 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
