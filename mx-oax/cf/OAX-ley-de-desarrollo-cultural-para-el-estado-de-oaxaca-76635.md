@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2025-04-12"
+last_updated: "2025-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -191,9 +191,15 @@ IV. Establecer mecanismos que proporcionen el acceso general y equitativo hacia 
 
 V. Promover y fomentar en los diversos sectores la participación adecuada que permita obtener financiamientos adicionales a los que otorgue el Estado, para los artistas, gestores y creadores, así como para adquisición, mejoramiento o rehabilitación de la infraestructura cultural a partir de la participación activa de la sociedad civil y en especial, de los sectores económicos;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
 
-VI. Asesorar técnicamente a las comunidades indígenas, pueblos y comunidades afromexicanas, autoridades municipales y comunitarias en relación a sus propuestas relativas al fortalecimiento, preservación, protección y desarrollo de su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyen su cultura e identidad, así como la gestión de proyectos orientados a la cooperación cultural.
+VI. Asesorar técnicamente a los pueblos y comunidades indígenas y afromexicanas, autoridades municipales, autoridades comunitarias, integrantes de los pueblos indígenas y afromexicanas, en relación a sus propuestas relativas al fortalecimiento, transmisión y preservación de sus manifestaciones culturales, así como la gestión de proyectos orientados a la cooperación cultural.
+
+Además de asesorarles técnicamente en relación a la defensa de su propiedad colectiva respecto de su patrimonio cultural, conocimientos y expresiones culturales tradicionales.
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+VI Bis. Recibir y remitir a la Secretaría de Cultura, los escritos presentados y previstos en el Titulo Quinto de los Mecanismo (sic) de Solución de Controversias, Infracciones, Sanciones y Delitos de la Ley Federal del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas.
 
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
 
@@ -837,9 +843,13 @@ IV. Estimulen la formación, educación y perfeccionamiento de los integrantes d
 
 ### CAPÍTULO QUINTO. DEL SISTEMA DE INFORMACIÓN Y SALVAGUARDA DE LOS CONOCIMIENTOS, CULTURA E IDENTIDAD DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 57.
+
+El Estado reconoce a los pueblos y comunidades indígenas y afromexicanas el derecho colectivo a la propiedad sobre su patrimonio cultural, conocimientos y expresiones culturales tradicionales, así como a las manifestaciones asociadas a los mismos que, de manera continua o discontinua, han practicado y les fueron transmitidos por miembros de su propia comunidad de generaciones previas. También tienen derecho a la propiedad intelectual de dicho patrimonio cultural.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
 
 El Sistema de Información y salvaguarda de los conocimientos, cultura e identidad de los pueblos y comunidades indígenas y afromexicanas es un mecanismo del Ejecutivo del Estado, a cargo de la Secretaría, para integrar, organizar, sistematizar y hacer del conocimiento de la población, la información referente a las actividades, bienes y servicios culturales, así como de los conocimientos, cultura e identidad de los pueblos y comunidades indígenas y afromexicanas del Estado.
 
@@ -986,3 +996,11 @@ P.O. 12 DE ABRIL DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 747. MEDIANTE EL CUAL REFORMA LA FRACCIÓN VI DEL ARTÍCULO 6; Y SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 6, Y EL PRIMER PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 57 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periodico Oficial del Gobierno del Estado de Oaxaca.
