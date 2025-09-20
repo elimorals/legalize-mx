@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2025-09-13"
+last_updated: "2025-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -621,9 +621,7 @@ b) Hacer del conocimiento por escrito a la Auditoría Superior de Fiscalización
 
 c) Hacer pública la información del padrón, dando a conocer a los asesores que mejor han cumplido con las obligaciones contraídas con los municipios, así como de aquellos que no han observado un adecuado cumplimiento;
 
-V. Presentar dentro de los treinta días siguientes del trimestre al Congreso del Estado a través de la Auditoría Superior de Fiscalización del Estado de Oaxaca, la información financiera que
-
-a continuación, se señala:
+V. Presentar dentro de los treinta días siguientes del trimestre al Congreso del Estado a través de la Auditoría Superior de Fiscalización del Estado de Oaxaca, la información financiera que a continuación, se señala:
 
 a) Estado de situación financiera;
 
@@ -686,6 +684,10 @@ V. Aplicar en el ámbito de su competencia las disposiciones jurídicas en mater
 VI. Promover acciones a través de campañas y programas para el ahorro, uso responsable, conservación y protección de las fuentes de abastecimiento de agua implementando un sistema de reporte de fugas, funcionamiento inadecuado de medidores, desperdicio y escasez de agua que funcione las veinticuatro horas todos los días de la semana; así como promover el uso y aprovechamiento de agua de lluvia, a través de sistemas de captación, conducción y almacenamiento por medio de construcción de tanques o cisternas pluviales, observando los Lineamientos emitidos en la materia por la Secretaría de Medio Ambiente y Recursos Naturales del gobierno federal;
 
 VII. Instalar y apoyar viveros y programas de producción de plantas nativas de la zona dentro de su demarcación territorial, para contribuir a la reforestación en su región y promover forestación entre la población;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Integrar e implementar planes, programas y proyectos en materia de Economía Circular.
 
 H. En materia de salud pública
 
@@ -4818,5 +4820,13 @@ P.O. 13 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 738.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IX Y SE ADICIONA LA FRACCIÓN XI AL APARTADO J DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 755.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN VIII DEL APARTADO G DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
