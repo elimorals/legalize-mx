@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2025-08-16"
+last_updated: "2025-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 16 DE AGOSTO DE 2025 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 634 PUBLICADO EN EL P.O. DE 24 DE MAYO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -665,7 +663,9 @@ VI. Derecho de preferencia al cruzar las calles, cuando el señalamiento de trá
 
 VII. Derecho de orientación, entendido como la obligación a cargo de los agentes y policías viales, a proporcionar la información que soliciten los peatones, sobre el señalamiento vial, ubicación de las calles, normas que regulen el tránsito de personas y bienes;
 
-VIII. Derecho de asistencia o auxilio, es decir, la obligación de los ciudadanos y agentes y policías viales de ayudar a los peatones menores de diez años, a los ancianos y a quienes no se encuentren en uso de sus facultades físicas o mentales para cruzar las calles, gozando de prioridad en el paso; en estos casos los agentes y policías viales, deberán acompañar a los menores y personas con movilidad limitada, hasta que se complemente el cruzamiento; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Derecho de asistencia o auxilio, es decir, la obligación de los ciudadanos y agentes y policías viales de ayudar a los peatones menores de doce años, a personas adultas mayores, personas con movilidad limitada y a quienes no se encuentren en uso de sus facultades físicas o mentales para cruzar las calles, gozando de prioridad en el paso; en estos casos los agentes y policías viales, deberán acompañar a los menores con movilidad limitada, hasta que se complemente el cruzamiento; y
 
 IX. Recibir asesoría e información por parte de los agentes y policías viales, sobre las leyes y demás disposiciones legales vigentes en materia de movilidad y de vialidad y transporte.
 
@@ -899,7 +899,9 @@ Tratándose de vehículo de transporte público, será obligatorio respetar el n
 
 Los conductores de motocicletas tendrán las siguientes obligaciones:
 
-I. Usar casco de seguridad para motocicletas, quedando excluidos los cascos de protección industrial y ciclistas, la no utilización del casco de seguridad dará lugar a la retención del vehículo. Los conductores de motocicletas preferentemente utilizarán casco de seguridad que cumpla con los estándares de diseño que garanticen salvaguardar la vida del conductor;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+I. Usar casco de seguridad para motocicletas que cumpla con la Norma Oficial Mexicana aplicable en la materia, quedando excluidos los cascos de protección industrial y ciclistas, la no utilización del casco de seguridad dará lugar a la retención del vehículo.
 
 II. Sólo podrán viajar además del conductor, un acompañante, el cual también deberá utilizar casco exigido para el conductor;
 
@@ -945,7 +947,9 @@ VIII. Obstaculizar banquetas y rampas para peatones y personas con discapacidad;
 
 IX. Estacionar las motocicletas en vías primarias, de alta velocidad, zonas restringidas, donde obstruya la visibilidad y accesibilidad, en ciclovías, en carriles confinados al transporte público, en zonas de ascenso y descenso de pasajeros, así como cualquier lugar prohibido por la autoridad;
 
-X. Circular con menores de 10 años como acompañantes en las vías primarias, de acceso controlado, vías rápidas o en las autopistas urbanas;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)</small>
+
+X. Circular con menores de 12 años como acompañantes en cualquier vialidad.
 
 XI. Circular con pasajero entre el manubrio y el conductor que impidan la maniobrabilidad y la visibilidad del conductor, y
 
@@ -1730,3 +1734,13 @@ P.O. 9 DE AGOSTO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 752.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 31 BIS, LA FRACCIÓN I DEL ARTÍCULO 53 Y LA FRACCIÓN X DEL ARTÍCULO 54 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Notifíquese el presente Decreto a las instancias pertinentes, para los efectos legales correspondientes.
