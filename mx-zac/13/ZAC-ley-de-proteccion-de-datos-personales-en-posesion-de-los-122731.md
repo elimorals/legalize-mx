@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-datos-personales-en-posesion-de-los-122731
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-09-23"
+last_updated: "2025-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE LOS SUJETOS OBLIGADOS DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 20 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento 5 al Número 56 del Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2017.
 
@@ -1492,3 +1494,13 @@ Dado en el despacho del Poder Ejecutivo del Estado, a los catorce del mes de jul
 P.O. 23 DE SEPTIEMBRE DE 2017.
 
 > <small>[N. DE E. EL “DECRETO NO. 203.- SE DEROGA EL CONTENIDO DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE ZACATECAS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4o DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE ZACATECAS.]</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se abroga la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Zacatecas, aprobada mediante el Decreto número 175 y publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, el 15 de julio de 2017, así como sus modificaciones posteriores.
+
+TERCERO. La Secretaría de la Función Pública del Gobierno del Estado deberá modificar su normatividad interior para adecuarla a las disposiciones del presente Decreto, en un plazo que no deberá exceder de 90 días naturales contados a partir de la publicación del presente instrumento legislativo.
