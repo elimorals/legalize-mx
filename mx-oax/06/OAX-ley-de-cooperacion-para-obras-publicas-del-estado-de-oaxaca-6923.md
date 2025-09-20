@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cooperacion-para-obras-publicas-del-estado-de-oaxaca-692
 country: "mx"
 rank: "ley"
 publication_date: "1981-06-27"
-last_updated: "1981-06-27"
+last_updated: "2025-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE COOPERACION PARA OBRAS PUBLICAS DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 745, PUBLICADO EN EL P.O. DE 20 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE COOPERACION PARA OBRAS PUBLICAS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de junio de 1981.
 
@@ -348,3 +350,19 @@ EL SECRETARIO GENERAL DEL DESPACHO,
 C. P. JESÚS MARTINEZ ALVAREZ.- Rúbrica.
 
 Al C........
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2025.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL "DECRETO NÚM. 745.- MEDIANTE EL CUAL ABROGA LA LEY DE COOPERACIÓN PARA OBRAS PÚBLICAS DEL ESTADO DE OAXACA", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+La Sexagésima Sexta Legislatura Constitucional del Honorable Congreso del Estado Libre y Soberano de Oaxaca, abroga la Ley de Cooperación para Obras Públicas del Estado de Oaxaca.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación
