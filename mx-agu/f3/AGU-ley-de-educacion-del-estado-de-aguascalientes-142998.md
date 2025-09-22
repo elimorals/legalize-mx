@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2025-07-28"
+last_updated: "2025-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -485,13 +485,19 @@ XIII. Fomentar el aprendizaje de diferentes idiomas, para lo cual se llevarán a
 
 XIV. Promover mediante la enseñanza el conocimiento de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas.
 
-XV. Fomentar actitudes solidarias y positivas hacia el trabajo y el bienestar general, impulsando una cultura económica y financiera entre los educandos, conforme con cada etapa de su vida, bajo las siguientes bases:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+XV. Fomentar actitudes solidarias y positivas hacia el trabajo y el bienestar general, impulsando una cultura económica y financiera en los educandos, conforme con cada etapa de su vida, bajo las siguientes bases:
 
 a) Dar conocimientos patrimoniales básicos para planificar con visión de futuro;
 
-b) Impulsar hábitos de gasto responsable y de ahorro con perspectiva de mediano y largo plazo;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-c) Desarrollar y fortalecer competencias que les permitan tomar decisiones financieras que potencien sus recursos; y
+b) Impulsar hábitos financieros de mediano y largo plazo a través de la enseñanza de conceptos básicos como el ahorro, presupuesto, ingresos, gastos, inversión, crédito y de cualquier otro que fomente las finanzas personales;
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+c) Desarrollar y fortalecer competencias que les permitan tomar decisiones financieras que potencien sus recursos a través de la enseñanza de aspectos como el emprendimiento, la planificación financiera y el manejo de deuda; y
 
 d) Promover la generosidad en el uso de los recursos, en vistas de promover la solidaridad social.
 
@@ -2604,3 +2610,9 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Autoridad Educativa del Estado, en uso de las facultades que le confiere el Reglamento Interior del Instituto de Educación de Aguascalientes y, considerando lo dispuesto por los artículos 1°., 2°., 3°., 5°., 6°., 10, 13 y demás relativos y aplicables de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes en un término de 90 días naturales elaborará, publicará y ordenará la entrada en vigor de un PROTOCOLO que regule el uso responsable de celulares y aparatos tecnológicos dentro de las instituciones de educación básica en el Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 249.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
