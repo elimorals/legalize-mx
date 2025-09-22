@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2025-06-02"
+last_updated: "2025-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -54,6 +54,24 @@ La presente Ley es de orden público, interés social y observancia general en e
 Son derechos de los jóvenes los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, los tratados internacionales en los que el Estado Mexicano sea parte y demás ordenamientos aplicables.
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, sexo, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra situación personal, que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de los jóvenes o de sus padres, representantes legales o tutores.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 2° Bis.
+
+Los principios rectores de los programas, el Consejo y las acciones de las autoridades en el Estado en materia de juventud son los siguientes:
+
+I. Universalidad. Las políticas de juventud deberán estar dirigidas al beneficio de la totalidad de las personas jóvenes, sin distinción alguna por razón de sexo, género, etnia, origen nacional o social, edad, estado civil, ideología, creencias, orientación sexual o cualquier otra condición o circunstancia personal o social. Se reconoce la pluralidad como una característica esencial de este sector poblacional en todos estos ámbitos.
+
+II. Igualdad. Todas las personas jóvenes tienen derecho a acceder, en igualdad de condiciones, a los programas y acciones que les afecten, prestando especial atención a quienes residen en zonas rurales o se encuentren en situación de vulnerabilidad.
+
+III. Participación democrática. La juventud participará en la planificación, ejecución y evaluación de estas políticas a través del Consejo y de las instancias municipales correspondientes, conforme a los procedimientos establecidos en el reglamento respectivo.
+
+IV. Solidaridad. Se promoverán relaciones solidarias entre las juventudes y los diferentes grupos sociales, con el objetivo de superar las condiciones que generan marginación y desigualdad.
+
+V. Identidad. Se implementarán programas y acciones orientados a conservar y fortalecer la identidad cultural del Estado de Aguascalientes, promoviendo el respeto, la transmisión y el disfrute de sus costumbres y tradiciones. Asimismo, se impulsará la integración de aportaciones externas que enriquezcan dicha identidad, favoreciendo la armonización entre los valores tradicionales y las influencias del entorno nacional e internacional, en un proceso dinámico de construcción cultural.
+
+VI. Interculturalidad. Se fomentará entre las juventudes el conocimiento, aprecio y respeto por las costumbres y tradiciones de otras regiones del país y del mundo. Se promoverá el aprendizaje de lenguas extranjeras como herramienta clave para la comunicación, la movilidad y los intercambios culturales, académicos y profesionales.
 
 ###### ARTÍCULO 3°.
 
@@ -582,3 +600,9 @@ P.O. 2 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 248.- SE REFORMA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
+
+[N. DE. E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]
