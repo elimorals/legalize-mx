@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2025-07-21"
+last_updated: "2025-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -401,51 +401,69 @@ El Consejo Estatal es la instancia superior en el Estado encargada de planear, c
 
 El Consejo estará integrado por:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-II. El Secretario General de Gobierno del Estado;
+I. La persona titular del Poder Ejecutivo, quien lo presidirá;
 
-III. El Secretario de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-IV. El Fiscal General del Estado de Aguascalientes;
+II. La persona titular de la Secretaría General de Gobierno del Estado;
 
-V. El Comandante de la XIV Zona Militar;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-VI. El Delegado Estatal de la Fiscalía General de la República;
+III. La persona titular de la Secretaría de Seguridad Pública del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-VII. El Coordinador Estatal de la Guardia Nacional;
+IV. La persona titular de la Fiscalía General del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-VIII. Un presidente municipal designado por acuerdo de los municipios;
+V. La persona titular de la Comandancia de la XIV Zona Militar;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-IX. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública; y
+VI. La persona Delegada en el Estado de la Fiscalía General de la República;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+VII. La persona titular de la Coordinación Estatal de la Guardia Nacional;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Una persona titular de una Presidencia Municipal designada por acuerdo de los municipios;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+IX. La persona titular de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública.; (sic)
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2025)</small>
 
 X. La persona que ocupe la Presidencia de la Comisión de Seguridad Pública del Congreso del Estado
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-Los cargos son honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño con excepción del señalado en la Fracción IX, siempre y cuando no desempeñe otro cargo en la administración pública. Son también personalísimos y no admitirán suplencias. La participación personal en las sesiones del Consejo será obligatoria para los funcionarios estatales y municipales.
+XI. Una persona representante del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-En ausencia del Presidente, el Secretario General de Gobierno presidirá el Consejo; los demás integrantes deberán asistir personalmente.
+Los cargos son honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño con excepción del señalado en la Fracción IX, siempre y cuando no desempeñe otro cargo en la administración pública. Son también personalísimos y no admitirán suplencias. La participación personal en las sesiones del Consejo será obligatoria para las personas funcionarias estatales y municipales.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+En ausencia de la Presidencia, la persona titular de la Secretaría General de Gobierno presidirá el Consejo; las demás personas integrantes deberán asistir personalmente.
 
 El funcionamiento y organización del Consejo será regulado en el reglamento.
 
-El Magistrado Presidente del Supremo Tribunal de Justicia del Estado podrá asistir previa invitación del Consejo a sus sesiones, con derecho a voz.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-Podrá invitarse a autoridades, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+Podrá invitarse a autoridades, instituciones y personas representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública.
 
-El Presidente de la Comisión Estatal de Derechos Humanos y el Delegado del Centro de Inteligencia y Seguridad Nacional, serán invitados permanentes del Consejo, con derecho a voz, pero sin voto.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+La persona titular de la Presidencia de la Comisión Estatal de Derechos Humanos y la persona Delegada del Centro de Inteligencia y Seguridad Nacional serán invitadas permanentes del Consejo, con derecho a voz, pero sin voto.
 
 ### CAPÍTULO III. Atribuciones del Consejo Estatal de Seguridad Pública
 
@@ -3066,3 +3084,9 @@ P.O. 21 DE JULIO DE 2025.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 247.- SE REFORMAN (SIC) LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
