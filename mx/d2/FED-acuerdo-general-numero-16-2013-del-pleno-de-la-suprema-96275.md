@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-2013-del-pleno-de-la-suprema-96275"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-10-17"
-last_updated: "2013-10-17"
+last_updated: "2025-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96275&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-10-09"
 ---
 # ACUERDO GENERAL NUMERO 16/2013 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LA ATENCION PRIORITARIA DE JUICIOS DE AMPARO, DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD, INCLUIDOS LOS RECURSOS O PROCEDIMIENTOS DERIVADOS DE ESOS JUICIOS CONSTITUCIONALES, A SOLICITUD DEL EJECUTIVO FEDERAL O BIEN, DE LAS CAMARAS DEL CONGRESO DE LA UNION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 8/2025 (12A.), DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE REGULA LA ADMISIÓN, TRÁMITE Y RESOLUCIÓN DE SOLICITUDES DE ATENCIÓN PRIORITARIA DE JUICIOS DE AMPARO, CONTROVERSIAS CONSTITUCIONALES Y ACCIONES DE INCONSTITUCIONALIDAD, INCLUIDOS LOS RECURSOS Y PROCEDIMIENTOS DERIVADOS DE DICHOS JUICIOS, PUBLICADO EN EL D.O.F. DE 22 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL NÚMERO 16/2013, DE OCHO DE OCTUBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA ATENCIÓN PRIORITARIA DE JUICIOS DE AMPARO, DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD, INCLUIDOS LOS RECURSOS O PROCEDIMIENTOS DERIVADOS DE ESOS JUICIOS CONSTITUCIONALES, A SOLICITUD DEL EJECUTIVO FEDERAL O BIEN, DE LAS CÁMARAS DEL CONGRESO DE LA UNIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 17 de octubre de 2013.
 
@@ -80,3 +82,17 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Si
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 16/2013, DE OCHO DE OCTUBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA ATENCIÓN PRIORITARIA DE JUICIOS DE AMPARO, DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD, INCLUIDOS LOS RECURSOS O PROCEDIMIENTOS DERIVADOS DE ESOS JUICIOS CONSTITUCIONALES, A SOLICITUD DEL EJECUTIVO FEDERAL O BIEN, DE LAS CÁMARAS DEL CONGRESO DE LA UNIÓN, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de diez votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Alberto Pérez Dayán y Presidente Juan N. Silva Meza. No asistió el señor Ministro José Fernando Franco González Salas por estar disfrutando de vacaciones, en virtud de haber integrado la Comisión de Receso correspondiente al Segundo Periodo de Sesiones de dos mil doce.- México, Distrito Federal, a ocho de octubre de dos mil trece.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de once fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 16/2013, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a nueve de octubre de dos mil trece.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 8/2025 (12A.), DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE REGULA LA ADMISIÓN, TRÁMITE Y RESOLUCIÓN DE SOLICITUDES DE ATENCIÓN PRIORITARIA DE JUICIOS DE AMPARO, CONTROVERSIAS CONSTITUCIONALES Y ACCIONES DE INCONSTITUCIONALIDAD, INCLUIDOS LOS RECURSOS Y PROCEDIMIENTOS DERIVADOS DE DICHOS JUICIOS”.]
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General 16/2013 de ocho de octubre de dos mil trece, del Pleno de la SCJN.
+
+TERCERO. A partir de la entrada en vigor de este Acuerdo General, se derogan todas las disposiciones que se opongan a su contenido establecidas en cualquier otro Acuerdo de esta naturaleza.
+
+CUARTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta así como en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública. Asimismo, hágase del conocimiento de los órganos del Poder Judicial Federal para su cumplimiento.
