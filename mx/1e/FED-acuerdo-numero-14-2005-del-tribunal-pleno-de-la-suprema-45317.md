@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-14-2005-del-tribunal-pleno-de-la-suprema-45317"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-07-12"
-last_updated: "2005-07-12"
+last_updated: "2025-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-06-13"
 ---
 # ACUERDO NUMERO 14/2005 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [SE MODIFICA Y ADICIONA EL ACUERDO GENERAL NUMERO 11/2005, DE ONCE DE ABRIL DE DOS MIL CINCO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 10/2025 (12ª.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 22 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO NUMERO 14/2005 DE TRECE DE JUNIO DE DOS MIL CINCO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, QUE MODIFICA Y ADICIONA EL ACUERDO GENERAL NUMERO 11/2005, DE ONCE DE ABRIL DE DOS MIL CINCO, RELATIVO A LA REMISION DE ASUNTOS A LOS TRIBUNALES COLEGIADOS DE CIRCUITO PARA CONOCER Y RESOLVER ASUNTOS EN LOS QUE SE IMPUGNEN NORMAS GENERALES EN MATERIA TRIBUTARIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 12 de julio de 2005.
 
@@ -58,3 +60,17 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Mariano Azuela Güi
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo número 14/2005, que modifica y adiciona el Acuerdo General número 11/2005, de once de abril de dos mil cinco, relativo a la REMISION DE ASUNTOS A LOS TRIBUNALES COLEGIADOS DE CIRCUITO PARA CONOCER Y RESOLVER ASUNTOS EN LOS QUE SE IMPUGNEN NORMAS GENERALES EN MATERIA TRIBUTARIA, fue emitido por el Tribunal Pleno en Sesión Privada celebrada hoy trece de junio de dos mil cinco, por unanimidad de once votos de los señores Ministros Presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a trece de junio de dos mil cinco.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo número 14/2005, constante de cuatro fojas útiles, concuerda fiel y exactamente con su original, y se certifica para dar cumplimiento a lo dispuesto en su Punto Tercero Transitorio. México, Distrito Federal, a catorce de junio de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL NÚMERO 10/2025 (12a.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE ESTABLECE REGLAS PARA LA REMISIÓN DE LOS ASUNTOS EN LOS QUE SE CONTROVIERTA LA CONSTITUCIONALIDAD DE NORMAS GENERALES, A LOS TRIBUNALES COLEGIADOS DE CIRCUITO PARA SU CONOCIMIENTO Y RESOLUCIÓN".]
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General 14/2005 de trece de junio de dos mil cinco, del Tribunal Pleno de la SCJN, que modifica y adiciona el Acuerdo General 11/2005 de once de abril del mismo año, así como éste último.
+
+TERCERO. A partir de la entrada en vigor del presente Acuerdo General, se derogan todas las disposiciones que se opongan a su contenido establecidas en cualquier otro Acuerdo de esta naturaleza.
+
+CUARTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta así como en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública. Asimismo, hágase del conocimiento de los Tribunales Colegiados de Circuito para su cumplimiento.
