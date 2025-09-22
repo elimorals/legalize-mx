@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-11-2005-del-pleno-de-la-suprema-corte-de-44551"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-04-26"
-last_updated: "2005-07-12"
+last_updated: "2025-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-04-19"
 ---
 # ACUERDO NUMERO 11/2005 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [TURNO DE ASUNTOS A TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SE IMPUGNEN NORMAS GENERALES EN MATERIA TRIBUTARIA]
 
-ACUERDO GENERAL NUMERO 11/2005, DEL ONCE DE ABRIL DE DOS MIL CINCO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA REMISION DE ASUNTOS A LOS TRIBUNALES COLEGIADOS DE CIRCUITO PARA CONOCER Y RESOLVER ASUNTOS EN LOS QUE SE IMPUGNEN NORMAS GENERALES EN MATERIA TRIBUTARIA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 10/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, PUBLICADO EN EL D.O.F. DE 22 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JULIO DE 2005.
+ACUERDO GENERAL NÚMERO 11/2005, DEL ONCE DE ABRIL DE DOS MIL CINCO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA REMISIÓN DE ASUNTOS A LOS TRIBUNALES COLEGIADOS DE CIRCUITO PARA CONOCER Y RESOLVER ASUNTOS EN LOS QUE SE IMPUGNEN NORMAS GENERALES EN MATERIA TRIBUTARIA
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 26 de abril de 2005.
 
@@ -98,3 +100,15 @@ PRIMERO. Este acuerdo entrará en vigor el día siguiente al de su publicación 
 SEGUNDO. Comuníquese este Acuerdo a los Tribunales Colegiados y Unitarios de Circuito y a los Juzgados de Distrito.
 
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 10/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE ESTABLECE REGLAS PARA LA REMISIÓN DE LOS ASUNTOS EN LOS QUE SE CONTROVIERTA LA CONSTITUCIONALIDAD DE NORMAS GENERALES, A LOS TRIBUNALES COLEGIADOS DE CIRCUITO PARA SU CONOCIMIENTO Y RESOLUCIÓN”.]
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General 14/2005 de trece de junio de dos mil cinco, del Tribunal Pleno de la SCJN, que modifica y adiciona el Acuerdo General 11/2005 de once de abril del mismo año, así como éste último.
+
+TERCERO. A partir de la entrada en vigor del presente Acuerdo General, se derogan todas las disposiciones que se opongan a su contenido establecidas en cualquier otro Acuerdo de esta naturaleza.
+
+CUARTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta así como en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública. Asimismo, hágase del conocimiento de los Tribunales Colegiados de Circuito para su cumplimiento.
