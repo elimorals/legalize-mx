@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-15-2013-del-pleno-de-la-suprema-96144"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-10-08"
-last_updated: "2013-10-08"
+last_updated: "2025-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96144&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-10-01"
 ---
 # ACUERDO GENERAL NUMERO 15/2013 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO AL PROCEDIMIENTO PARA LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 9/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, PUBLICADO EN EL D.O.F. DE 22 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL NÚMERO 15/2013, DE VEINTITRÉS DE SEPTIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO AL PROCEDIMIENTO PARA LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de octubre de 2013.
 
@@ -88,3 +90,15 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Si
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 15/2013, DE VEINTITRÉS DE SEPTIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO AL PROCEDIMIENTO PARA LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de nueve votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, José Ramón Cossío Díaz, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Alberto Pérez Dayán y Presidente Juan N. Silva Meza. No asistieron los señores Ministros Margarita Beatriz Luna Ramos y Jorge Mario Pardo Rebolledo por estar disfrutando de vacaciones, en virtud de haber integrado la Comisión de Receso correspondiente al Primer Periodo de Sesiones de dos mil trece.- México, Distrito Federal, a veintitrés de septiembre de dos mil trece.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de once fojas útiles, concuerda fiel y exactamente con el original del Acuerdo General Plenario 15/2013, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a primero de octubre de dos mil trece.- Rúbrica.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 9/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE ESTABLECE EL PROCEDIMIENTO PARA LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD”.]
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General Número 15/2013, de veintitrés de septiembre de dos mil trece, del Pleno de la Suprema Corte de Justicia de la Nación, relativo al procedimiento para la declaratoria general de inconstitucionalidad, así como todas las disposiciones que se opongan al presente Acuerdo General.
+
+TERCERO. Los procedimientos iniciados hasta el día de la publicación del presente Acuerdo General en el Diario Oficial de la Federación deberán regirse por éste, a partir de su entrada en vigor.
+
+CUARTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta así como en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
