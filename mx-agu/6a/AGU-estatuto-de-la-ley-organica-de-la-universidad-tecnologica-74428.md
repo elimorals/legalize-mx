@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-de-la-ley-organica-de-la-universidad-tecnologica-74428
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-04-12"
-last_updated: "2020-08-10"
+last_updated: "2025-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # ESTATUTO DE LA LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ESTATUTO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de abril de 2010.
 
@@ -995,3 +997,33 @@ Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Esta
 ###### ARTÍCULO QUINTO.
 
 Las referencias hechas, tanto en este Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes como en cualquier normatividad aplicable a la Universidad, al Contralor Interno se entenderán realizadas a la Unidad de Auditoría.
+
+P.O. 22 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes entrará en vigor al día siguiente de su publicación (sic) Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes, se abroga el Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, del día 12 de abril de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena inscribir el presente Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes, en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales, de conformidad con la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Directivo de la Universidad Tecnológica de Aguascalientes, deberá efectuar las adecuaciones necesarias a la demás normatividad interna aplicable a la referida Universidad, con motivo de la entrada en vigor del presente Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor del presente Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes, deberán de ser expedidos o actualizados los Manuales de Organización y Procedimientos, así como la demás normatividad interna necesaria para el funcionamiento y operación de la Universidad Tecnológica de Aguascalientes.
+
+Se deberán llevar a cabo los procedimientos y actos administrativos y legales correspondientes para el cumplimiento del presente Estatuto, garantizando los derechos de las personas trabajadoras de la Universidad, en los términos establecidos para tal efecto.
