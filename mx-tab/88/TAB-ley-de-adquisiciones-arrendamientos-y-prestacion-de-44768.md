@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-adquisiciones-arrendamientos-y-prestacion-de-44768"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-27"
-last_updated: "2025-02-01"
+last_updated: "2025-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 27 de abril de 2005.
 
@@ -219,7 +219,9 @@ Las adquisiciones, arrendamientos y servicios que realicen las dependencias, ór
 
 I. Los objetivos, prioridades y políticas del Plan Estatal de Desarrollo y de los programas sectoriales, institucionales y especiales en su caso;
 
-II. Las previsiones contenidas en los programas anuales que elaboren las propias dependencias y entidades para la ejecución del Plan y los programas a que se refiere la fracción anterior;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+II. Las previsiones contenidas en los programas anuales y los que abarquen más de un ejercicio presupuestal, que elaboren las propias dependencias y entidades para la ejecución del Plan y los programas a que se refiere la fracción anterior;
 
 III. Los objetivos, metas, previsiones y recursos establecidos en el Presupuesto General de Egresos del Estado;
 
@@ -227,9 +229,11 @@ IV. Las estrategias y políticas previstas por el Estado y municipios en sus res
 
 V. Las demás disposiciones legales y reglamentarias que rijan las operaciones que prevé esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-Las dependencias, órganos y entidades realizarán la planeación de sus adquisiciones, arrendamientos y servicios, formulando los programas respectivos, considerando:
+Las dependencias, órganos y entidades realizarán la planeación de sus adquisiciones, arrendamientos y servicios, formulando los programas anuales y los que abarquen más de un ejercicio presupuestal, considerando:
 
 I. Las acciones previstas durante y posteriores a la realización de dichas operaciones, los objetivos y metas a corto y mediano plazo, así como las unidades encargadas de su instrumentación;
 
@@ -239,9 +243,25 @@ III. Los planos, proyectos, normas de calidad, especificaciones y programas de e
 
 IV. Los requerimientos de los programas de conservación, mantenimiento y ampliación de la capacidad de los servicios públicos;
 
-V. Preferentemente, la adquisición de bienes producidos en el Estado y la utilización de servicios propios del mismo, con especial atención a los sectores económicos y empresariales cuya promoción, fomento y desarrollo están comprendidos en los objetivos y prioridades del Plan Estatal de Desarrollo, a falta de ellos los de procedencia nacional y por último los de procedencia extranjera; y
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-VI. De preferencia, la inclusión de insumos, material, equipo, sistemas y servicios que tenga incorporada tecnología nacional, tomando en cuenta los requerimientos técnicos y económicos de las adquisiciones o pedidos que vayan a hacerse en el país o en el extranjero.
+V. Preferentemente, la adquisición de bienes producidos en el Estado y la utilización de servicios propios del mismo, con especial atención a los sectores económicos y empresariales cuya promoción, fomento y desarrollo están comprendidos en los objetivos y prioridades del Plan Estatal de Desarrollo, a falta de ellos los de procedencia nacional y por último los de procedencia extranjera;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+VI. De preferencia, la inclusión de insumos, material, equipo, sistemas y servicios que tenga incorporada tecnología nacional, tomando en cuenta los requerimientos técnicos y económicos de las adquisiciones o pedidos que vayan a hacerse en el país o en el extranjero; y
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+VII. En las adquisiciones, arrendamientos y servicios, cuya vigencia rebase un ejercicio fiscal, deberán determinar tanto el presupuesto total como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento, se encuentren vigentes, y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Los resultados de los indicadores de desempeño del ejercicio anterior;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+IX. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de las adquisiciones, arrendamientos o servicios.
 
 ###### Artículo 15.
 
@@ -450,6 +470,10 @@ VI. Especialidad dentro del Padrón;
 VII. Requisitos legales y administrativos que deberán cumplir los licitantes;
 
 VIII. Descripción completa de los bienes o servicios, información específica sobre el mantenimiento, asistencia técnica y capacitación, relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato, especificaciones y normas que, en su caso, sean aplicables, dibujos, cantidades, muestras, pruebas que se realizarán y, de ser posible, método para ejecutarlas, y período de garantía u otras opciones de cotización;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+VIII BIS. La indicación respecto a si la contratación abarcará uno o más ejercicios fiscales;
 
 IX. La indicación de si la totalidad de los bienes o servicios objeto de la Licitación Pública o bien de cada partida o concepto de los mismos, serán adjudicados a un sólo Proveedor o mediante abastecimiento simultáneo;
 
@@ -787,9 +811,9 @@ Dentro del presupuesto aprobado y disponible, la Secretaría previo acuerdo con 
 
 Las dependencias, órganos y entidades no podrán celebrar pedidos o contratos respecto de adquisiciones, arrendamientos o servicios por tiempo o monto indeterminado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
-La Secretaría queda facultada para celebrar actos, pedidos o contratos cuya vigencia abarque hasta un máximo de tres ejercicios fiscales, cuando así lo estime pertinente.
+Solo se podrán celebrar actos, pedidos o contratos cuya vigencia no exceda del periodo de la administración en curso.
 
 ###### Artículo 45.
 
@@ -1418,3 +1442,13 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 TERCERO. En un plazo que no exceda de los ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, se realizarán las adecuaciones conducentes al Reglamento de la Ley que se reforma.
 
 CUARTO. El Comité de Compras realizará las modificaciones que considere necesarias a su Reglamento, dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 138 POR EL QUE "SE REFORMAN: EL ARTÍCULO 13, FRACCIÓN II; 14, PÁRRAFO PRIMERO Y LAS FRACCIONES V Y VI; 44, PÁRRAFO SEGUNDO. SE ADICIONAN: LAS FRACCIONES VII, VIII Y IX AL ARTÍCULO 14; Y LA FRACCIÓN VIII BIS AL ARTÍCULO 27; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En un plazo no mayor a noventa días naturales a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones que, en su caso, se consideren necesarias a la normatividad local.
