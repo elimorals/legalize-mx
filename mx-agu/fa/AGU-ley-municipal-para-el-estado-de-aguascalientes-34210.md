@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2025-07-14"
+last_updated: "2025-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -604,6 +604,10 @@ c) Crear espacios de recreación y cultura en los que sea posible la exhibición
 d) Promover créditos financieros, estímulos fiscales y capacitación para los jóvenes emprendedores; y
 
 e) Implementar acciones para que la juventud se integre a actividades deportivas y de recreación de acuerdo a sus intereses personales.
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+LX bis. Crear y operar, según la disponibilidad presupuestal, una unidad administrativa especializada en la implementación de políticas públicas en materia de activación física, cultura física y deporte. La persona que ocupe la titularidad de la unidad administrativa deberá acreditar que cuenta con los conocimientos y experiencia en la materia para dicho cargo;
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
@@ -1727,7 +1731,9 @@ XII. Salubridad, Beneficencia Pública y Espectáculos;
 
 XIII. Parques y Jardines;
 
-XIV. Acción Social y Deportes;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+
+XIV. Activación, Cultura Física y Deporte;
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -2940,3 +2946,11 @@ P.O. 14 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 245.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Los municipios contarán con un plazo de 90 días contados a partir de su inicio de vigencia, para la adecuación de la reglamentación correspondiente materia del presente Decreto.
