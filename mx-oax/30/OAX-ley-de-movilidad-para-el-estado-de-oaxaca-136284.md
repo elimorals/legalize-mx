@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2025-07-12"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -163,6 +163,10 @@ VI. BICIESTACIONAMIENTO: Espacio considerado exclusivamente para el aparcamiento
 
 VII. BICIESTACIONAMIENTO BÁSICO EN LA VÍA PÚBLICA: Zona equipada con mobiliario urbano ubicada cerca de puntos de interés el cual es recomendado para distancias cortas de 15 minutos entre un punto y otro con capacidad desde una bicicleta en adelante, el diseño preferente es de tipo "U" invertida, mismo que debe estar ubicado en una zona visible como postes de luz o algún otro tipo de mecanismo de iluminación;
 
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VII Bis. CityBus: Organismo Público Descentralizado "CityBus Oaxaca”, encargado de la planeación, administración, supervisión, operación y control de los sistemas integrados de transporte público en el Estado de Oaxaca, en los términos de esta Ley y de su Decreto de creación;
+
 VIII. CADUCIDAD: Acto administrativo por el cual el Gobernador del Estado o la Secretaría declara, mediante la resolución respectiva, extinta la concesión por las causales señaladas en esta Ley;
 
 IX. CALLES COMPLETAS: Se le denomina así a la calle que es incluyente, es decir, que cualquier persona independientemente de su edad o su habilidad pueda transitar de una forma segura, cómoda y que sea accesible sin importar la forma en que se traslade;
@@ -273,9 +277,19 @@ LVI. SERVICIO DE TRANSPORTE: El que se presta a través de la concesión, el per
 
 LVII. SERVICIO PÚBLICO: El que, al amparo de una concesión, se presta en forma continua y regular en las vías públicas del Estado y sus Municipios, para satisfacer una necesidad general del traslado de pasajeros y carga de un lugar a otro;
 
-LVIII. SERVICIO DE PAGO ELECTRÓNICO: Es aquel que se presta de manera permanente, regular, continúa y uniforme como medio de acceso a las unidades del Servicio Público de Transporte de pasajeros, y se basa en el uso de tarjetas electrónicas recargables, las cuales serán emitidas por el Ejecutivo del Estado a través de la Secretaría, o por el concesionario, y están autorizadas para efectuar la validación de acceso al vehículo del servicio público y para acreditar el pago de la tarifa por el uso de los servicios de transporte en cualquiera de sus modalidades, así como también con los otros medios de pago que la Autoridad Competente determine oportunamente;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+LVIII. SERVICIO DE PAGO ELECTRÓNICO. Es aquel que se presta a través de medios tecnológicos para el acceso a las unidades del servicio público de transporte, autorizados por la Secretaría, y tratándose de los sistemas integrados del transporte público por CityBus;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+LVIII BIS. PARTICIPACIÓN. Pago a los autorizados para prestar el servicio de transporte dentro del SIT por el servicio que prestan en el SIT, con base en lo que establece la Autorización correspondiente.
 
 LIX. SITIO: Espacio en la vía pública, autorizado por la autoridad municipal correspondiente, destinado al estacionamiento de los vehículos del servicio público de transporte individual en espera de pasaje;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+LIX Bis. SIT. Sistema Integrado de Transporte Público "Binni Bus” como conjunto de rutas, infraestructura, flota de vehículos y tecnología destinados a la prestación del servicio público de transporte colectivo administrado y operado por CityBus;
 
 LX. SUPERVISOR DE MOVILIDAD: Servidor público quien supervisará y controlará la movilidad, en el territorio del Estado;
 
@@ -353,7 +367,9 @@ VI. Garantizar que la movilidad fomente el desarrollo urbano sustentable y la fu
 
 VII. Impulsar programas y proyectos que permitan la aproximación entre la vivienda, el trabajo y servicios educativos, de salud o culturales y complementarios que eviten y reduzcan las externalidades negativas de la movilidad;
 
-VIII. Priorizar la planeación de los sistemas de transporte público y de la movilidad no motorizada;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Priorizar la planeación del servicio público de transporte a través de sistemas integrados de transporte público y de la movilidad no motorizada;
 
 IX. Fortalecer las políticas y medios de Movilidad;
 
@@ -739,6 +755,14 @@ II. Ejecutar y conducir la política pública en materia de movilidad, dictada p
 
 III. Expedir los acuerdos y demás disposiciones administrativas necesarias para la actualización, regulación, ordenación, modernización modificación o suspensión del servicio de transporte y movilidad;
 
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+III Bis. Autorizar la implementación de los sistemas integrados de transporte público que le proponga CityBus;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+III Ter. Emitir a propuesta de CityBus, la convocatoria correspondiente e instruir el procedimiento para el otorgamiento de autorizaciones para prestar el servicio de transporte dentro del SIT, en la que se establecerán las condiciones y demás requerimientos, para el servicio, de conformidad con el procedimiento establecido en esta Ley;
+
 IV. Normar, regular, otorgar, modificar, cancelar, extinguir, suspender o declarar la nulidad, caducidad y revocación de las concesiones para la prestación del servicio público de transporte;
 
 V. Proponer al Gobernador del Estado el Programa Sectorial de Movilidad;
@@ -775,9 +799,17 @@ XX. Expedir y revocar los permisos para la prestación del servicio especial de 
 
 XXI. Planear, administrar, vigilar, supervisar y evaluar la prestación de los servicios público y especial de transporte;
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Tratándose de los sistemas integrados de transporte público, la administración y operación del servicio público de transporte corresponde a CityBus;
+
 XXII. Determinar nuevos modelos de transporte público que garanticen una prestación del servicio más eficiente, seguro y confortable;
 
 XXIII. Estudiar, aprobar y, en su caso, modificar, previos los estudios técnicos y legales que correspondan, los itinerarios, horarios y rutas, así como la documentación necesaria para la prestación del servicio de transporte;
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Tratándose de los sistemas integrados de transporte público, la aprobación y modificación en su caso, será a propuesta de CityBus;
 
 XXIV. Convocar y dirigir las reuniones con concesionarios y permisionarios de los servicios de transporte que tengan para tratar asuntos relacionados con la prestación de los mismos;
 
@@ -941,6 +973,10 @@ XI. El número de académicos y especialistas que determine el Consejo, según e
 
 XII. Un representante de la sociedad civil, cuyo objeto u objetivos sea el análisis e investigación de la movilidad, con derecho a voz.
 
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XIII. El Director General del CityBus, con derecho a voz y voto.
+
 El Reglamento de la presente Ley establecerá los términos y condiciones para la integración y funcionamiento del Consejo Estatal.
 
 ### CAPÍTULO II. DE LOS CONSEJOS MUNICIPALES Y DISTRITALES
@@ -974,6 +1010,10 @@ La prestación del servicio de transporte corresponde originalmente al Estado, q
 Las concesiones para la prestación del servicio público de transporte serán otorgadas por el Gobernador del Estado o la Secretaría, previo desahogo del procedimiento que establece la presente Ley y su Reglamento.
 
 Para prestar el servicio especial de transporte se requiere de un permiso otorgado por la Secretaría, en los términos y condiciones que la presente Ley establece.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+En los sistemas integrados de transporte público, el servicio público de transporte podrá prestarlo el Estado por conducto de CityBus y/o mediante el otorgamiento de autorización a particulares.
 
 ###### Artículo 48.
 
@@ -1022,6 +1062,10 @@ III. Las aplicaciones móviles mediante las cuales se contrata y se paga, confor
 IV. Los demás que determine el Reglamento respectivo.
 
 En el registro respectivo, se establecerán las condiciones y forma de operación a las que este queda sujeto; así como, en su caso, las inversiones que debe efectuar el permisionario, los niveles de participación y la distribución de los productos, así como las prestaciones o las contraprestaciones a que hubiere lugar con motivo del ejercicio de este.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Para la prestación de los servicios conexos en los Sistemas Integrados de Transporte Público, el CityBus podrá celebrar con los particulares, el acto jurídico que corresponda, observando la normatividad aplicable.
 
 ###### Artículo 51.
 
@@ -1077,6 +1121,14 @@ f) Especializada. El que se presta para el traslado de mercancías que requieren
 
 g) Acarreo de Aguas Residuales. El que se presta para el traslado y acarreo de aguas residuales, en vehículos especiales, que requieren de condiciones, equipos, adecuaciones o medios para aislar, resguardar, conservar y proteger la carga, así como para evitar cualquier riesgo a terceros, cuyas características y condiciones debe (sic) de ser determinado (sic) por la Secretaría.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 52 Bis.
+
+En los sistemas integrados de transporte público, el servicio público de transporte colectivo será prestado a través de CityBus, en los términos establecidos en su Decreto de creación.
+
+Para efectos de la administración y operación de los sistemas integrados de transporte público, el CityBus podrá celebrar convenios, contratos o cualquier otro acto jurídico con los particulares. Así también podrá suscribir, con carácter de fideicomitente, el contrato de fideicomiso de administración y pago, que permita transparentar la aplicación y operación de sus recursos, previa autorización de la Secretaría de Finanzas.
+
 ###### Artículo 53.
 
 El servicio especial de transporte se clasifica en las siguientes modalidades:
@@ -1103,6 +1155,10 @@ Los concesionarios que obtengan una concesión deberán iniciar la prestación d
 
 Los concesionarios del servicio de transporte deberán tener la propiedad o legítima posesión de los vehículos con que presten el servicio, y deberán cumplir con las especificaciones técnicas y de operación que determinen las normas técnicas con apego a lo que disponga el Reglamento respectivo.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+En el caso de los autorizados para prestar el servicio de transporte dentro del SIT, la propiedad o posesión de los vehículos para prestar el servicio debe acreditarse en los términos de los lineamientos y las reglas de operación emitidas por CityBus.
+
 ###### Artículo 57.
 
 La Secretaría establecerá el diseño y cromática de identificación y homologación de los vehículos del transporte, según la modalidad de servicio de que se trate. De igual forma aprobará los accesorios, aditamentos y distintivos que se requieran en la prestación de los servicios regulados por esta Ley, cuyo uso y observancia tendrán carácter de obligatorio para los concesionarios.
@@ -1115,11 +1171,15 @@ Los vehículos del servicio de transporte deberán contar con póliza de seguro 
 
 La Secretaría establecerá, coordinará y supervisará programas de capacitación en materia de movilidad, para operadores, conductores y concesionarios.
 
-Los programas de capacitación incluirán temáticas relativas a la atención y trato al usuario, primeros auxilios, seguridad vial, disposiciones normativas de la presente Ley y su Reglamento, entre otros.
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Adicionalmente, dentro de los Sistemas Integrados de Transporte Público, el CityBus podrá establecer y coordinar programas de capacitación para los operadores.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 60.
 
-La Secretaría podrá celebrar convenios con instituciones públicas y privadas para la impartición, evaluación y acreditación de los programas de capacitación, debiendo llevar un registro y control de las constancias de capacitación, expedidas a quienes los cursen.
+La Secretaría y el CityBus, este último únicamente dentro de los Sistemas Integrados de Transporte Público, podrán celebrar convenios con instituciones públicas y privadas para la impartición, evaluación y acreditación de los programas de capacitación, debiendo llevar un registro y control de las constancias de capacitación, expedidas a quienes los cursen.
 
 ###### Artículo 61.
 
@@ -1419,11 +1479,27 @@ X. Las demás que le confiera la presente Ley y su Reglamento.
 
 Se negará y cancelará el Registro; o se anulará cualquier trámite encaminado a obtenerlo si se comprueba que la información proporcionada es falsa o si alguno de los documentos o constancias exigibles carecen de autenticidad; o cuando presenten el servicio público de transporte, sin contar con el título de concesión o permiso respectivo, independientemente del inicio de los procedimientos para la aplicación de las sanciones que procedan.
 
-### CAPÍTULO III. DEL SERVICIO PÚBLICO DE TRANSPORTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+### CAPÍTULO III. DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS SISTEMAS INTEGRADOS DE TRANSPORTE PÚBLICO
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 85.
 
-Quienes presten el servicio público de transporte quedan sujetos al cumplimiento de la presente Ley, su reglamento, así como de las normas técnicas y de operación que determine la Secretaría.
+Quienes presten el servicio público de transporte quedan sujetos al cumplimiento de la presente Ley, así como de las normas técnicas, y demás disposiciones jurídicas que determine la Secretaría o el CityBus, este último únicamente dentro de los Sistemas Integrados de Transporte Público.
+
+Los autorizados para prestar el servicio de transporte dentro del SIT deberán acatar las instrucciones y llevar a cabo las actividades que establezca CityBus en el programa de actividades para la etapa preoperativa y operativa con la finalidad de garantizar el adecuado inicio de operaciones y su posterior desempeño, la falta de atención a tales disposiciones dará origen a la cancelación de la autorización correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Artículo 85 BIS. La infraestructura del SIT está integrada por.
+
+I. Las terminales establecidas, por los avisos que emita la Secretaría; también se consideran terminales aquellas que por necesidades de la operación y requerimientos de la demanda se habiliten en una estación en específico;
+
+II. Las estaciones establecidas y distribuidas a lo largo de cada una de las rutas; y
+
+III. Espacios de regulación y áreas de uso común, cuya utilización será determinada por Citybus.
 
 ###### Artículo 86.
 
@@ -1445,9 +1521,15 @@ En el transporte urbano, metropolitano, suburbano y foráneo de pasajeros, se de
 
 Los vehículos autorizados para prestar el servicio público de transporte de pasajeros, a que se refiere el artículo 52 fracción I, incisos a) y b), de esta Ley, deberán estar equipados de un contenedor para depósito de residuos sólidos para uso exclusivo del usuario del servicio de transporte; debiendo la Secretaría, determinar las especificaciones técnicas en la norma que emita al respecto.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+En el caso de los sistemas integrados de transporte público, las especificaciones establecidas en el presente artículo, en lo aplicable, se determinarán en la normativa jurídica aplicable que al efecto emita CityBus.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 88.
 
-El transporte colectivo metropolitano se prestará bajo el sistema de rutas, que permita una operación más eficiente, debiéndose evitar la superposición de rutas y sobreoferta de vehículos, y disminuir la contaminación ambiental con el uso adecuado de la infraestructura vial existente.
+Dentro de los Sistemas Integrados de Transporte Público el servicio se prestará bajo el sistema de rutas, que permita una operación más eficiente, debiéndose evitar la superposición de rutas y sobreoferta de vehículos y disminuir la contaminación ambiental con el uso adecuado de la infraestructura vial existente.
 
 ###### Artículo 89.
 
@@ -1496,6 +1578,28 @@ Atendiendo a las necesidades del servicio, así como a las condiciones socioecon
 La Secretaría establecerá para el transporte colectivo las especificaciones técnicas y los planes de operación del servicio, los que deberán contener al menos el horario, número de despachos y horario para cada uno, cantidad de vehículos para operar la ruta y los números de identificación de cada vehículo asignados a cada despacho.
 
 La Secretaría podrá requerir a los concesionarios del transporte colectivo los ajustes a los planes de operación establecidos para cada ruta.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+En los Sistemas Integrados de Transporte Público las especificaciones técnicas y de operación del servicio, serán determinados por CityBus, mediante la normativa jurídica aplicable.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Artículo 95 BIS. Para prestar el servicio público de transporte dentro de los sistemas integrados de transporte público, se requiere de autorización, otorgada por el Gobernador del Estado pudiendo delegar la facultad a la Secretaría, conforme al procedimiento establecido en esta Ley y demás normativa jurídica aplicable.
+
+Adicionalmente, las condiciones del servicio estarán determinadas por la normativa que emita CityBus.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+###### Articulo 95 Ter.
+
+Las autorizaciones para prestar el servicio de transporte dentro del SIT no otorgan el derecho de exclusividad o preferencia sobre el servicio, ruta o zona.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+###### Articulo 95 Quater.
+
+Las autorizaciones para prestar el servicio público de transporte dentro del SIT tendrán la vigencia que establezca la norma técnica aplicable.
 
 ###### Artículo 96.
 
@@ -2001,9 +2105,35 @@ La Secretaría podrá expedir permisos complementarios para autorizar la circula
 
 La Secretaría podrá celebrar convenios con las entidades federativas colindantes, para el reconocimiento recíproco de la documentación expedida para la prestación de los servicios de transporte público y especial, en las zonas limítrofes del Estado.
 
-### CAPÍTULO VIII. DE LA TARIFA DEL SERVICIO DE TRANSPORTE
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-### CAPÍTULO IX. DEL CONTROL VEHICULAR Y LAS LICENCIAS DE CONDUCIR
+### CAPÍTULO VII BIS. DEL PROCEDIMIENTO PARA OTORGAMIENTO DE AUTORIZACIONES
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 155 Bis.
+
+El procedimiento para el otorgamiento de autorizaciones para prestar el servicio de transporte dentro del SIT se sujetará a lo siguiente:
+
+I. La Secretaría, autorizará el sistema integrado de transporte público que le presente Citybus;
+
+II. La Secretaría emitirá la convocatoria pública correspondiente para satisfacer la necesidad del servicio dentro del sistema integrado de transporte público autorizado, la cual se publicará de manera obligatoria, en el Periódico Oficial del Gobierno del Estado;
+
+III. Recibidas las propuestas se sujetarán al análisis del Comité Operativo de Evaluación, Seguimiento y Validación de la Secretaría, para que se revise y emita el acta de la capacidad e idoneidad de los solicitantes, el cumplimiento de los requisitos que se hubieren señalado, la actualización de los criterios de selección previstos en la convocatoria y verificar que los participantes no se encuentren dentro de los impedimentos previstos en esta Ley o en cualquier otro ordenamiento legal. Cubiertos los requisitos, la Secretaría a través del Comité Operativo de Evaluación, Seguimiento y Validación, emitirá el acta sobre la capacidad legal, administrativa, técnica y financiera de las y los solicitantes para la prestación del servicio, y emitirá la resolución correspondiente, misma que será publicada en los mismos términos que establezca la convocatoria;
+
+IV. La Secretaría remitirá al Gobernador del Estado la determinación final sobre la capacidad e idoneidad de los solicitantes;
+
+V. El Gobernador del Estado decidirá sobre la expedición de la autorización, pudiendo delegar dicha facultad a la Secretaría, y
+
+VI. La autorización será entregada por la Secretaría, previo pago de los derechos correspondientes.
+
+Una vez recibida la autorización, el autorizado contará con un plazo de treinta días naturales para formalizar su ingreso al Sistema Integrado de Transporte Público ante CityBus, de no hacerlo se procederá a la cancelación de la autorización.
+
+La autorización podrá ser cancelada a propuesta de CityBus, en caso de incumplimiento a la normatividad aplicable o del instrumento jurídico por el que se formalizó su ingreso al Sistema Integrado de Transporte Público.
+
+La presentación de propuestas y solicitudes no genera derecho o antecedente para el participante o solicitante para el otorgamiento de futuras autorizaciones, tampoco derecho para que se le autorice el trámite solicitado.
+
+### CAPÍTULO VIII. DE LA TARIFA DEL SERVICIO DE TRANSPORTE
 
 ###### Artículo 156.
 
@@ -2043,9 +2173,17 @@ Además de considerar el interés que representa el usuario del servicio, la tar
 
 Las tarifas se revisarán en forma periódica, previa solicitud por escrito del concesionario en los términos que se establezcan en el Reglamento; con excepción del servicio público de transporte colectivo, en donde la revisión y determinación de actualización de la tarifa se regirá por su modelo financiero.
 
-### CAPITULO X. DE LA REGULARIZACIÓN DE TÍTULOS DE CONCESIÓN
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+En el caso de los sistemas integrados de transporte público, las tarifas serán aprobadas por la Secretaría, a propuesta de CityBus.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 159 Bis.
+
+Los autorizados para prestar el servicio de transporte dentro del SIT tendrán una participación en los recursos que se capten del cobro de la tarifa, de acuerdo con lo que para ello establezca CityBus. El cálculo de dicha participación quedara a cargo de CityBus.
+
+### CAPÍTULO IX. DEL CONTROL VEHICULAR Y LAS LICENCIAS DE CONDUCIR
 
 ###### Artículo 160.
 
@@ -2289,7 +2427,9 @@ Los vehículos que circulen en las calles, caminos y cualquier otra vía de comu
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-### CAPÍTULO I. DE LA EXTINCIÓN
+### CAPITULO X. DE LA REGULARIZACIÓN DE TÍTULOS DE CONCESIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 185 Bis.
 
@@ -2333,7 +2473,7 @@ De todas las omisiones e inconsistencias que se regularicen, derivadas de conduc
 
 ## TÍTULO SEXTO. DE LA EXTINCIÓN DE LAS CONCESIONES Y PERMISOS ESPECIALES
 
-### CAPÍTULO II. DE LA REVOCACIÓN
+### CAPÍTULO I. DE LA EXTINCIÓN
 
 ###### Artículo 186.
 
@@ -2357,7 +2497,7 @@ VIII. Que el concesionario cambie su nacionalidad mexicana, y
 
 IX. Las causas adicionales establecidas en este ordenamiento y demás disposiciones jurídicas y administrativas aplicables.
 
-### CAPÍTULO III. DE LA CANCELACIÓN
+### CAPÍTULO II. DE LA REVOCACIÓN
 
 ###### Artículo 187.
 
@@ -2421,7 +2561,7 @@ XXVIII. Por transportar armas, órganos y tejidos, estupefacientes, sustancias p
 
 XXIX. Las demás causas reguladas en el cuerpo de esta Ley y otras disposiciones jurídicas y administrativas aplicables.
 
-### CAPÍTULO IV. DE LA CADUCIDAD
+### CAPÍTULO III. DE LA CANCELACIÓN
 
 ###### Artículo 188.
 
@@ -2437,7 +2577,7 @@ IV. No estar inscrito en el Registro Estatal de Transporte de Oaxaca, y
 
 V. Las demás que establezca el Reglamento de la presente Ley.
 
-### CAPÍTULO V. DEL PROCEDIMIENTO DE EXTINCION
+### CAPÍTULO IV. DE LA CADUCIDAD
 
 ###### Artículo 189.
 
@@ -2449,7 +2589,7 @@ II. Por suspensión del servicio por más de treinta días hábiles, sin causa j
 
 III. Las demás que establezca el Reglamento de la presente Ley.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO V. DEL PROCEDIMIENTO DE EXTINCION
 
 ###### Artículo 190.
 
@@ -2477,13 +2617,17 @@ La Secretaría, está facultada para habilitar a los servidores públicos necesa
 
 ## TÍTULO SÉPTIMO. DE LA INSPECCIÓN, VIGILANCIA Y EVALUACIÓN
 
-### CAPÍTULO II. DE LOS DERECHOS, OBLIGACIONES Y ATENCIÓN CIUDADANA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 192.
 
 Los prestadores del servicio de transporte están sujetos a los actos de supervisión, inspección y vigilancia de la Secretaría, a efecto de verificar la debida observancia de la presente Ley, sus reglamentos, las normas técnicas y condiciones de operación emitidos por la Secretaría.
 
 La Secretaría a través de su personal de supervisión, inspección y vigilancia, realizará operativos y demás actividades necesarias para vigilar la prestación del servicio de transporte e inspeccionar los vehículos e infraestructura afecta al mismo.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Crtybus podrá supervisar, inspeccionar y vigilar la autorización otorgada, así como el cumplimiento de la programación del servicio (sic) transporte en los Sistemas Integrados de Transporte Público, quienes vigilarán la ejecución de la programación vigente desde el inicio del servicio hasta el encierro de los autobuses, así como la regularidad del servicio y comportamiento de los conductores que operan en el SIT.
 
 ###### Artículo 193.
 
@@ -2547,7 +2691,7 @@ Los requisitos serán los que determine la Secretaría, en el Reglamento de la p
 
 Los vehículos nuevos quedarán exentos de la revisión física mecánica durante el primer año de su vida útil, debiendo pagar únicamente los derechos correspondientes.
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO II. DE LOS DERECHOS, OBLIGACIONES Y ATENCIÓN CIUDADANA
 
 ###### Artículo 204.
 
@@ -2572,6 +2716,18 @@ III. Solicitar la renovación de la concesión dentro de los 60 días naturales 
 IV. Proponer a la Secretaría la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio, y
 
 V. Las demás que señale la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 206 Bis.
+
+Son derechos de los autorizados para prestar el servicio de transporte dentro del SIT, los siguientes:
+
+I. Prestar el servicio público de transporte dentro de los sistemas integrados de transporte público, en los términos establecidos en el convenio de coordinación que al efecto celebren con CityBus;
+
+II. Cobrar la tarifa establecida para la modalidad del servicio de que se trate, emitida y autorizada por la Secretaría; y
+
+III. Las demás que señale la presente ley, su reglamento y el convenio de coordinación que al efecto celebren con CityBus.
 
 ###### Artículo 207.
 
@@ -2683,7 +2839,9 @@ II. Que se le respete la tarifa autorizada;
 
 III. Al pago de gastos médicos e indemnizaciones que se deriven de cualquier siniestro con motivo de la prestación del servicio;
 
-IV. Gozar de la tarifa preferencial, en el servicio público de transporte colectivo, en términos del reglamento;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Gozar de la tarifa preferencial, en el servicio público de transporte colectivo y dentro de los sistemas integrados de transporte público, en los términos del reglamento;
 
 V. Las personas con discapacidad dispondrán del tiempo necesario, para abordar y colocarse con seguridad en el interior del vehículo del transporte público de pasajeros;
 
@@ -2725,7 +2883,7 @@ Los conductores del servicio de transporte están obligados a someterse a los ex
 
 ## TÍTULO OCTAVO. DE LAS INFRACCIONES Y SANCIONES, SOLUCIÓN DE CONTROVERSIAS Y RECURSOS Y DELITOS
 
-### CAPÍTULO II. SOLUCIÓN DE CONTROVERSIAS
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 219.
 
@@ -2919,21 +3077,19 @@ El titular de la licencia o permiso de conducir cancelado quedará impedido para
 
 El conductor que infrinja el párrafo anterior, se le impondrá una sanción de ciento ochenta veces la Unidad de Medida y Actualización vigente y la autoridad competente remitirá el vehículo al depósito vehicular, que cuente con concesión vigente.
 
-### CAPÍTULO III. DE LOS RECURSOS
+### CAPÍTULO II. SOLUCIÓN DE CONTROVERSIAS
 
 ###### Artículo 239.
 
 Para la solución de controversias que se deriven de la aplicación de la presente Ley, las partes podrán optar por la mediación, como un método alternativo no adversarial para la solución de conflictos con el propósito de llegar a acuerdos voluntarios de solución que ponga fin total o parcialmente en los términos de la Ley de Mediación para el Estado de Oaxaca.
 
-### CAPÍTULO IV. DE LOS DELITOS
+### CAPÍTULO III. DE LOS RECURSOS
 
 ###### Artículo 240.
 
 Contra los actos y resoluciones, derivadas de la aplicación de la presente Ley y de las normas reglamentarias que de esta emanen, procederá el recurso de revisión, previsto en la Ley de Procedimiento y Justicia Administrativa del Estado de Oaxaca, cuyas reglas y términos deberán aplicarse para su trámite.
 
-### CAPÍTULO I. DE LA PROMOCIÓN Y EL FOMENTO
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+### CAPÍTULO IV. DE LOS DELITOS
 
 ###### Artículo 241.
 
@@ -2955,7 +3111,7 @@ Asimismo, la Secretaría registrará el nombre y demás datos personales de quie
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-### CAPÍTULO II. OBLIGACIONES DE LAS AUTORIDADES
+### CAPÍTULO I. DE LA PROMOCIÓN Y EL FOMENTO
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
@@ -2995,7 +3151,7 @@ Las vialidades que se construyan o reordenen en las ciudades y comunidades con z
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-### CAPÍTULO III. DERECHOS Y OBLIGACIONES DE LOS CICLISTAS
+### CAPÍTULO II. OBLIGACIONES DE LAS AUTORIDADES
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
@@ -3075,7 +3231,7 @@ De conformidad con la disponibilidad presupuestal, todas las oficinas de la admi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-### CAPÍTULO IV. DEL SISTEMA DE TRANSPORTE INDIVIDUAL EN BICICLETA
+### CAPÍTULO III. DERECHOS Y OBLIGACIONES DE LOS CICLISTAS
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
@@ -3164,6 +3320,10 @@ d) Las demás que señalen los reglamentos de Movilidad, Tránsito y Vialidad de
 El Titular del Ejecutivo del Estado y/o los Ayuntamientos señalarán en el reglamento correspondiente las sanciones a que se harán acreedores los ciclistas que incumplan sus obligaciones y las correspondientes sanciones de quienes no respeten los derechos de los ciclistas, así como los medios de impugnación ordinarios procedentes para tales efectos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO IV. DEL SISTEMA DE TRANSPORTE INDIVIDUAL EN BICICLETA
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 257.
 
@@ -3548,3 +3708,13 @@ P.O. 12 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 781.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN LVIII DEL ARTÍCULO 4, LA FRACCIÓN VIII DEL ARTÍCULO 6, EL ARTÍCULO 60, LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO QUINTO REGLAS GENERALES DEL TRANSPORTE, EL ARTÍCULO 85, EL ARTÍCULO 88, Y LA FRACCIÓN IV DEL ARTÍCULO 215; Y SE ADICIONA LAS FRACCIONES VII BIS, LVIII BIS Y LIX BIS DEL ARTÍCULO 4, LAS FRACCIONES III BIS, III TER, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XXI Y EL PÁRRAFO SEGUNDO A LA FRACCIÓN XXIII DEL ARTÍCULO 37, LA FRACCIÓN XIII DEL ARTÍCULO 42, EL PÁRRAFO CUARTO AL ARTÍCULO 47, EL PÁRRAFO CUARTO AL ARTÍCULO 50, EL ARTÍCULO 52 BIS, EL PÁRRAFO SEGUNDO AL ARTÍCULO 56, EL PÁRRAFO TERCERO AL ARTÍCULO 59, EL ARTÍCULO 85 BIS, EL PÁRRAFO SEXTO DEL ARTÍCULO 87, EL PÁRRAFO TERCERO DEL ARTÍCULO 95, EL ARTÍCULO 95 BIS, EL ARTÍCULO 95 TER, EL ARTÍCULO 95 QUATER, EL CAPÍTULO VII BIS DEL PROCEDIMIENTO PARA OTORGAMIENTO DE AUTORIZACIONES, EL ARTÍCULO 155 BIS, EL ARTÍCULO 159 BIS, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 159, EL PÁRRAFO TERCERO DEL ARTÍCULO 192 Y EL ARTÍCULO 206 BIS; TODOS DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
