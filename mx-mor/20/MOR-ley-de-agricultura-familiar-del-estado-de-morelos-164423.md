@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-agricultura-familiar-del-estado-de-morelos-164423"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-13"
-last_updated: "2023-03-29"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE AGRICULTURA FAMILIAR DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE MARZO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Número 6169 del Periódico Oficial del Estado de Morelos, el lunes 13 de febrero de 2023.
 
@@ -53,7 +51,9 @@ La presente ley es de orden público e interés social, y tiene por objeto estab
 
 La presente ley tiene como objetivos principales:
 
-I. Mejorar la calidad de vida de los morelenses que dependen de la agricultura familiar; así como procurar el bienestar social y económico de los productores, reducir la pobreza del sector rural y orientar la acción coordinada de los organismos competentes, en los distintos organismos de gobierno, con un enfoque multisectorial e intergubernamental;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+I. Mejorar la calidad de vida de las personas que habitan el estado de Morelos que dependen de la agricultura familiar; así como procurar el bienestar social y económico de las personas productoras, reducir la pobreza del sector rural y orientar la acción coordinada de los organismos competentes, en los distintos organismos de gobierno, con un enfoque multisectorial e intergubernamental;
 
 II. Garantizar el derecho humano a una alimentación nutritiva, suficiente y de calidad, al desarrollo integral de las personas, familias y comunidades y al sostenimiento de las pautas culturales y recursos naturales del estado;
 
@@ -71,7 +71,9 @@ VIII. Promover la conservación de la biodiversidad, el uso sustentable del mate
 
 IX. Coadyuvar con la suficiencia autoalimentaria de los núcleos familiares rurales, con el derecho a una efectiva y justa retribución por los excedentes y demás productos que comercialicen; y,
 
-X. Promover la seguridad semillera para la agricultura familiar mediante sistemas sostenibles de semilla de calidad, que aseguren a todos los productores familiares el acceso físico y económico en el momento necesario, a semilla sana y de las variedades demandadas, suficiente para cubrir sus necesidades de siembra.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+X. Promover la seguridad semillera para la agricultura familiar mediante sistemas sostenibles de semilla de calidad, que aseguren a todas las personas productoras familiares el acceso físico y económico en el momento necesario, a semilla sana y de las variedades demandadas, suficiente para cubrir sus necesidades de siembra.
 
 > <small>(F. DE E. PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2023)</small>
 
@@ -87,25 +89,25 @@ I. Agricultura familiar, al modo de vida y trabajo agrícola practicado por las 
 
 II. Autoridad municipal, a la unidad administrativa en materia de desarrollo agropecuario del municipio que corresponda;
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-III. Comunidad, al conjunto de individuos y familias con características étnicas o culturales comunes, afincado en una región determinada y dotado de una organización básica bajo la cual se producen colectivamente alimentos y otros bienes de intercambio, para consumo propio o comercialización;
+III. Comunidad, al conjunto de personas y familias con características étnicas o culturales comunes, afincados en una región determinada y dotada de una organización básica bajo la cual se producen colectivamente alimentos y otros bienes de intercambio, para consumo propio o comercialización;
 
 > <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
 IV. Consejo, al Consejo Consultivo de Agricultura Familiar del Estado de Morelos;
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-V. Registro, a la recolección y resguardo de información significativa sobre las unidades de agricultura familiar, con base al registro voluntario de sus titulares y en régimen de declaración expresa, relativa a aspectos cualitativos y cuantitativos de la producción;
+V. Registro, a la recolección y resguardo de información significativa sobre las unidades de agricultura familiar, con base al registro voluntario de las personas titulares y en régimen de declaración expresa, relativa a aspectos cualitativos y cuantitativos de la producción;
 
 > <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
 VI. Secretaría, a la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo del Estado de Morelos, y
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-VII. Unidad productiva familiar, a la unidad de explotación que depende preponderantemente del trabajo familiar desarrollado sobre determinada área, con independencia de su forma jurídica o régimen de tenencia del predio, administrada y operada directamente por los miembros de la familia, quienes, residiendo en él o en zona cercana, obtienen de ella su principal fuente de ingreso.
+VII. Unidad productiva familiar, a la unidad de explotación que depende preponderantemente del trabajo familiar desarrollado sobre determinada área, con independencia de su forma jurídica o régimen de tenencia del predio, administrada y operada directamente por las personas que integran la familia, quienes, residiendo en él o en zona cercana, obtienen de ella su principal fuente de ingreso.
 
 ###### Artículo 4.
 
@@ -125,13 +127,17 @@ III. Crear y mantener actualizados los registros de la agricultura familiar; y,
 
 IV. Promover la agricultura familiar a través de:
 
-a) Investigación agropecuaria orientada a las características particulares de la agricultura familiar, facilitando la apropiación de las innovaciones y buenas prácticas por los agricultores familiares;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+a) Investigación agropecuaria orientada a las características particulares de la agricultura familiar, facilitando la apropiación de las innovaciones y buenas prácticas por las personas agricultoras familiares;
 
 b) Asistencia técnica, asesoramiento y transferencia de tecnologías;
 
 c) Apoyo e infraestructura necesaria para el acondicionamiento, acopio, transporte, exposición y comercialización de los productos en los mercados locales y ferias agropecuarias, incluyendo las prácticas de intercambio entre las unidades productivas familiares; y,
 
-d) Capacitación y formación profesional adecuada a los distintos integrantes del núcleo familiar, así como las comunidades campesinas y nativas, para el desarrollo de sus capacidades de producción, gestión, organización, planificación y formulación de proyectos de agricultura familiar.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+d) Capacitación y formación profesional adecuada a las personas integrantes del núcleo familiar, así como las comunidades campesinas y nativas, para el desarrollo de sus capacidades de producción, gestión, organización, planificación y formulación de proyectos de agricultura familiar.
 
 ###### Artículo 6.
 
@@ -175,19 +181,29 @@ XVII. Equidad de género.
 
 La persona titular del Poder Ejecutivo del Estado de Morelos, a través de la Secretaría y los ayuntamientos, conforme a su suficiencia y disponibilidad presupuestaria, deberán observar los siguientes lineamientos para la promoción y desarrollo de la agricultura familiar:
 
-I. Realizar las gestiones ante las dependencias competentes para regularizar la tenencia de la tierra de los productores comprendidos en la agricultura familiar, que así lo soliciten;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-II. Priorizar el acceso de los pequeños agricultores o conductores de las unidades productivas familiares a los programas de mejoramiento de capacidades técnicas y uso de tecnología. así como al uso de información para el desarrollo de sus unidades productivas familiares;
+I. Realizar las gestiones ante las dependencias competentes para regularizar la tenencia de la tierra de las personas productoras comprendidas en la agricultura familiar, que así lo soliciten;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+II. Priorizar el acceso de las pequeñas personas agricultoras o conductoras de las unidades productivas familiares a los programas de mejoramiento de capacidades técnicas y uso de tecnología, así como al uso de información para el desarrollo de sus unidades productivas familiares;
 
 III. Promover proyectos para el acceso efectivo de las familias dedicadas a la agricultura familiar a los servicios básicos de agua y desagüe, energía el eléctrica, salud y educación, para elevar su calidad de vida;
 
-IV. Impulsar el uso eficiente y racional de los recursos hídricos y mejorar el acceso de los agricultores familiares a programas de infraestructura hídrica y de riego tecnificado, así como de conservación y recuperación de fuentes de agua;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Impulsar el uso eficiente y racional de los recursos hídricos y mejorar el acceso de las personas agricultoras familiares a programas de infraestructura hídrica y de riego tecnificado, así como de conservación y recuperación de fuentes de agua;
 
 V. Gestionar y desarrollar programas de financiamiento, de asistencia técnica para la producción y transformación, asesoría para el desarrollo de planes de negocio y comercialización de los productos de la agricultura familiar;
 
-VI. Fomentar y estimular la asociación y cooperación de los agricultores familiares mediante programas de generación de capacidades en gestión técnica y empresarial; y,
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-VII. Promover la participación de los agricultores familiares en ferias locales, nacionales e internacionales, en su caso, otorgándoles prioridad en el cumplimiento de las atribuciones del Poder Ejecutivo del estado y los ayuntamientos para promocionar los productos de la agricultura familiar.
+VI. Fomentar y estimular la asociación y cooperación de las personas agricultoras familiares mediante programas de generación de capacidades en gestión técnica y empresarial; y,
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VII. Promover la participación de las personas agricultoras familiares en ferias locales, nacionales e internacionales, en su caso, otorgándoles prioridad en el cumplimiento de las atribuciones del Poder Ejecutivo del Estado y los Ayuntamientos para promocionar los productos de la agricultura familiar.
 
 ###### Artículo 8.
 
@@ -205,19 +221,23 @@ Corresponde a la persona titular del Poder Ejecutivo del estado:
 
 I. Respetar, proteger y ayudar a las personas y comunidades a desarrollar las actividades de agricultura familiar en todas sus modalidades y locaciones;
 
-II. Promover la investigación científica orientada a las características particulares de la agricultura familiar, facilitando la apropiación de las innovaciones y buenas prácticas por los agricultores familiares;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+II. Promover la investigación científica orientada a las características particulares de la agricultura familiar, facilitando la apropiación de las innovaciones y buenas prácticas por las personas agricultoras familiares;
 
 III. Promover la agricultura familiar a través de apoyos para el acondicionamiento, acopio y comercialización de los productos en los mercados locales y ferias agropecuarias, incluyendo las prácticas de intercambio entre las unidades de producción familiar;
 
-IV. Promover la agricultura familiar a través de capacitación y formación profesional adecuada a los distintos integrantes del núcleo familiar, así como las comunidades para el desarrollo de sus capacidades de producción, gestión, organización, planificación y formulación de proyectos de agricultura familiar; y,
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Promover la agricultura familiar a través de capacitación y formación profesional adecuada a las distintas personas integrantes del núcleo familiar, así como las comunidades para el desarrollo de sus capacidades de producción, gestión, organización, planificación y formulación de proyectos de agricultura familiar; y,
 
 V. Las demás que establezca el reglamento de esta ley.
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 10.
 
-La Secretaría de Educación del Estado de Morelos realizará las acciones necesarias para promover la agricultura familiar en la educación de todos los niveles de los morelenses, y diseñará e implementará las estrategias y políticas públicas que considere necesarios, en el ámbito de su respectiva competencia.
+La Secretaría de Educación del Estado de Morelos realizará las acciones necesarias para promover la agricultura familiar en la educación de todos los niveles de las y los morelenses, y diseñará e implementará las estrategias y políticas públicas que considere necesarios, en el ámbito de su respectiva competencia.
 
 > <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
@@ -243,13 +263,13 @@ II. Desarrollar programas, en los que se incluya el componente de apoyo para la 
 
 III. Gestionar infraestructura y servicios para el acceso efectivo de las familias dedicadas a la agricultura familiar a los servicios básicos de agua para consumo y riego, saneamiento, electricidad, salud, educación y recreación;
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-IV. Facilitar y promover la asociación y la cooperación de los agricultores familiares y poner en práctica programas de generación de capacidades en gestión técnica y empresarial;
+IV. Facilitar y promover la asociación y la cooperación de las personas agricultoras familiares y poner en práctica programas de generación de capacidades en gestión técnica y empresarial;
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-V. Promover la participación de los agricultores familiares en ferias locales e internacionales;
+V. Promover la participación de las personas agricultoras familiares en ferias locales e internacionales;
 
 > <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
@@ -263,9 +283,9 @@ VII. Conducir la promoción y el desarrollo de la agricultura familiar;
 
 VIII. Definir las estrategias y desarrollar los programas que permitan cumplir con las finalidades y objetivos de esta ley;
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-IX. Coadyuvar con los ayuntamientos, los representantes de la sociedad civil y las comunidades, tomando en consideración sus opiniones, respetando las prácticas ancestrales de municipios, pueblos y comunidades indígenas en el desarrollo y fomento de la agricultura familiar;
+IX. Coadyuvar con los ayuntamientos, las personas representantes de la sociedad civil y las comunidades, tomando en consideración sus opiniones, respetando las prácticas ancestrales de municipios, pueblos y comunidades indígenas en el desarrollo y fomento de la agricultura familiar;
 
 > <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
@@ -297,17 +317,21 @@ XVI. Las demás que establezca el reglamento de esta ley.
 
 ### CAPÍTULO IV. DE LA PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 13.
 
-Las estrategias y programas que promueva la Secretaría deberán formularse con participación de miembros de las unidades productivas familiares, de la persona titular del Poder Ejecutivo del estado, la sociedad civil, el sector privado y la academia, conforme a lo que establezca el reglamento de la Ley.
+Las estrategias y programas que promueva la Secretaría deberán formularse con participación de las personas que integran las unidades productivas familiares, de la persona titular del Poder Ejecutivo del Estado, la sociedad civil, el sector privado y la academia, conforme a lo que establezca el Reglamento de la Ley.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 14.
 
 La persona titular del Poder Ejecutivo, en el reglamento de esta ley, establecerá el consejo que será el órgano colegiado de consulta cuyo objeto es orientar, fomentar, promover, impulsar, apoyar y proponer políticas públicas para el fomento de la agricultura familiar, así como evaluar el cumplimiento de la presente ley.
 
-El reglamento de la presente ley, establecerá la coordinación y toma de decisiones en la que se debe reflejar el carácter multisectorial de la actividad de agricultura familiar, con participación de representantes gubernamentales, la sociedad civil, el sector privado, los gremios, la academia, universidades, institutos de investigación y estadísticas.
+El Reglamento de la presente ley establecerá la coordinación y toma de decisiones en la que se debe reflejar el carácter multisectorial de la actividad de agricultura familiar, con participación de personas representantes gubernamentales, la sociedad civil, el sector privado, los gremios, la academia, universidades, institutos de investigación y estadísticas.
 
-Los representantes gubernamentales deberán ser con nivel de secretario de estado, con el objeto de asegurar que el desarrollo y fomento de la agricultura familiar reciba la prioridad adecuada.
+Las personas representantes gubernamentales deberán ser con nivel de secretario de estado, con el objeto de asegurar que el desarrollo y fomento de la agricultura familiar reciba la prioridad adecuada.
 
 ###### Artículo 15.
 
@@ -347,9 +371,11 @@ La Secretaría establecerá, operará y mantendrá actualizado un registro, el c
 
 El registro deberá contener los datos relativos a las unidades de producción familiar y las características socioeconómicas particulares, con la información que se determinen (sic) en el reglamento de esta ley.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-Los sujetos de esta ley podrán solicitar su registro ante la Secretaría, acreditando su personalidad legal, constitución o las actividades que realicen relacionadas con el sector y los demás requisitos que se determinen en el reglamento de esta ley.
+Las personas a la (sic) que se refiere esta ley podrán solicitar su registro ante la Secretaría, acreditando su personalidad legal, constitución o las actividades que realicen relacionadas con el sector y los demás requisitos que se determinen en el reglamento de esta ley.
 
 ###### Artículo 21.
 
@@ -357,9 +383,11 @@ La información del registro deberá ser tratada conforme a lo dispuesto por la 
 
 ### CAPÍTULO VI. RESPONSABILIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-El incumplimiento de las obligaciones establecidas por la presente ley, por parte de los servidores públicos será sancionado en términos de la legislación aplicable en materia de responsabilidades.
+El incumplimiento de las obligaciones establecidas por la presente ley, por parte de las personas servidoras públicas será sancionado en términos de la legislación aplicable en materia de responsabilidades.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -393,14 +421,14 @@ SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL”.]
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+P.O. 24 DE SEPTIEMBRE DE 2025.
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y SIETE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LEY DE AGRICULTURA FAMILIAR DEL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO”.]
 
-TERCERO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+PRIMERO. Remítase el presente Decreto a la persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-CUARTO.- Se instruye a la Secretaría de Seguridad Pública de la Ciudad de México para que dentro del ámbito de sus atribuciones realice las acciones necesarias para la implementación del presente Decreto y de ser necesario la actualización de la normatividad institucional.
+SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
 
-G.O. 6 DE DICIEMBRE DE 2018.
+TERCERO. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
