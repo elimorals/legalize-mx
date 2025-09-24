@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-etica-del-instituto-electoral-de-la-ciudad-de-139119"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-15"
-last_updated: "2019-12-06"
+last_updated: "2025-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139119&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-11-11"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 11 DEL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 24 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. DE 6 DE DICIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO PUBLICADO EN LA G.O. DE 15 DE NOVIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE SEPTIEMBRE DE 2025 (DEROGADO).
 
 Código publicado en el No. 222 de la Gaceta Oficial de la Ciudad de México, el viernes 15 de noviembre de 2019
 
@@ -511,3 +511,15 @@ G.O. 6 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DE LA “FE DE ERRATAS AL ÍNDICE DEL EJEMPLAR NÚMERO 222 DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DE FECHA 15 DE NOVIEMBRE DE 2019”.]
 
 Único.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE SEPTIEMBRE DE 2025.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO”.]</small>
+
+###### Articulo 11.
+
+De la entrada en vigor
+
+La entrada en vigor del presente será a partir de la fecha de su publicación en la Gaceta Oficial de la Ciudad de México, quedando derogado en la misma fecha el Código de Ética publicado el 15 de noviembre de 2019 en dicho medio, para todos los efectos legales a que haya lugar.
+
+Las denuncias que reciba la Contraloría Interna por hechos y conductas antes de la entrada en vigor del presente Código, se resolverán conforme a lo previsto en el que se deroga.
