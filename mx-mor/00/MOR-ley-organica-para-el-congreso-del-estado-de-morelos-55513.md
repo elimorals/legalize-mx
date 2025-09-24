@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2024-11-06"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -853,7 +853,9 @@ c) A los auditores especiales y directores generales de la Entidad Superior de A
 
 La remoción de los servidores públicos a que se refiere el presente inciso se realizará soberanamente por la Junta Política y de Gobierno, a propuesta de la Comisión de Hacienda, Presupuesto y Cuenta Pública; y,
 
-d) A los encargados de despacho de los auditores especiales y directores generales de la Entidad Superior de Auditoria y Fiscalización, así como al titular del Instituto de Investigaciones Legislativas y Coordinación de Comunicación Social del Congreso del Estado de Morelos;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+d) A los encargados de despacho de los auditores especiales y directores generales de la Entidad Superior de Auditoría y Fiscalización, así como a la persona titular de la Coordinación General del Instituto de Investigaciones Legislativas, a la persona titular de la Coordinación de Comunicación Social del Congreso y a la persona titular de la Unidad Técnica de Igualdad de Género;
 
 V. Impulsar la conformación de puntos de acuerdo relacionados con el contenido de las propuestas, iniciativas, dictámenes o minutas que requieran de su votación en el pleno del Congreso el Estado, a fin de agilizar el trabajo legislativo;
 
@@ -1925,19 +1927,31 @@ IX. Las demás que se desprendan de la normatividad aplicable.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 89.
 
-Para su funcionamiento, el Congreso del Estado, contará con los Órganos siguientes:
+Para su funcionamiento, el Congreso del Estado, contará con los órganos siguientes:
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 I. Secretaría de Servicios Legislativos y Parlamentarios;
 
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 II. Secretaría de Administración y Finanzas;
 
-III. Coordinación General del Instituto de Investigaciones Legislativas, y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-IV. Entidad Superior de Auditoría y Fiscalización del Congreso del Estado;
+III. Coordinación General del Instituto de Investigaciones Legislativas;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Entidad Superior de Auditoría y Fiscalización del Congreso del Estado, y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+V. Unidad Técnica de Igualdad de Género.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -1945,11 +1959,11 @@ IV. Entidad Superior de Auditoría y Fiscalización del Congreso del Estado;
 
 En caso de ausencia temporal o definitiva de los titulares de la Secretaría de Servicios Legislativos y Parlamentarios y/o de la Secretaría de Administración y Finanzas, el Presidente de la Mesa Directiva procederá a designar a un Encargado de Despacho, en tanto el Pleno del Congreso, a propuesta de la Junta Política y de Gobierno, designa en su caso, al nuevo titular.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 89 Ter.
 
-En caso de ausencia temporal o definitiva de los titulares de la Dirección del Instituto de Investigaciones Legislativas y Coordinación de Comunicación Social, la Junta Política y de Gobierno procederá a designar, mediante acuerdo a un Encargado de Despacho, en tanto se designa en su caso al nuevo titular.
+En caso de ausencia temporal o definitiva de las personas titulares de la Coordinación General del Instituto de Investigaciones Legislativas, Coordinación de Comunicación Social y la Unidad Técnica de Igualdad de Género, la Junta Política y de Gobierno procederá a designar, mediante acuerdo, a un Encargado de Despacho, en tanto se designa, en su caso, a la nueva persona titular; quienes tendrán las mismas facultades y responsabilidades que la persona titular.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
@@ -2345,21 +2359,75 @@ La Dirección de Investigación, Edición y Difusión contará con una Jefatura 
 
 La Dirección de Apoyo y Capacitación Parlamentaria, contará (sic) la Jefatura de Departamento de Archivo Histórico Legislativo y Biblioteca y con la Jefatura de Departamento de Dictaminación; mismas que tendrán las atribuciones establecidas en la normativa aplicable.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-### CAPÍTULO VI. SISTEMA MORELENSE DE RADIO Y TELEVISIÓN
+### CAPÍTULO VI. UNIDAD TÉCNICA DE IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 104.
 
-(DEROGADO, P.O. 24 DE OCTUBRE DE 2012)
+La Unidad Técnica de Igualdad de Género del Congreso del Estado, es un órgano para transversalizar la perspectiva de género enfocada en alcanzar la igualdad sustantiva responsable de encausar el desarrollo de acciones al interior del Congreso del Estado y de asegurar una cultura libre de violencia de género con enfoque de igualdad y derechos humanos, así como la prevención, vinculación y atención de actos constitutivos de violencia de género con las instituciones competentes.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 105.
 
-(DEROGADO, P.O. 24 DE OCTUBRE DE 2012)
+La Unidad Técnica de Igualdad de Género, contará con una persona titular con nivel jerárquico de dirección de área. Para ocupar dicho cargo se requiere:
+
+I. Ser ciudadana o ciudadano mexicana (sic) en pleno goce de sus derechos civiles y políticos;
+
+II. Acreditar los conocimientos, experiencia y capacidad de acuerdo al cargo y contar con título de licenciatura y cédula profesional legalmente expedida por la Secretaría de Educación Pública;
+
+III. No estar sentenciado por delitos de agresión sexual, violencia familiar, violencia política contra las mujeres en razón de género; así como no ser declarado deudor alimentario moroso y encontrarse en el Registro Nacional de Obligaciones Alimentarias, y
+
+IV. Las demás que señale el Reglamento.
+
+Además, la Unidad Técnica de Igualdad de Género se integrará con dos personas auxiliares, a las que les denominará: Auxiliar de atención, prevención y canalización especializada en perspectiva de género, y Auxiliar de promoción y capacitación especializada en perspectiva de género; mismas que contarán con las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 106.
 
-(DEROGADO, P.O. 24 DE OCTUBRE DE 2012)
+Son atribuciones de la Unidad Técnica de Igualdad de género las siguientes:
+
+I. Diseñar, implementar y evaluar el Programa para la Igualdad de Género del Congreso del Estado, con base en los principios de la planeación democrática;
+
+II. Proponer y fomentar acciones orientadas a la igualdad sustantiva en el Congreso del Estado;
+
+III. Realizar investigaciones desde la perspectiva de género sobre la situación de las mujeres en el estado de Morelos, con la finalidad de apoyar en la toma de decisiones a fin de contribuir al cierre de brechas de desigualdad de género;
+
+IV. Colaborar con la Comisión de Igualdad de Género para proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios rectores de legalidad, eficiencia, objetividad, calidad, imparcialidad, competitividad, y profesionalismo;
+
+V. Realizar periódicamente, evaluaciones del trabajo legislativo y la cultura institucional dentro del Congreso del Estado, en materia de igualdad de género;
+
+VI. Elaborar proyectos de investigación en materia de género a solicitud de las Comisiones, Comités o alguna Diputado o Diputado;
+
+VII. Diseñar y establecer un mecanismo para la prevención, atención, eliminación y sanción del acoso laboral, las prácticas violentas, el hostigamiento y acoso sexual, la violencia institucional, la violencia política en razón de género, así como cualquier otra forma de violencia en contra de las mujeres, dentro del Congreso del Estado, proponiendo su inclusión en el Código de Ética;
+
+VIII. Elaborar y remitir a la Comisión de Igualdad de Género del Congreso del Estado, los informes de evaluación periódica que den cuenta de los resultados y nivel de cumplimiento de los objetivos, estrategias y políticas ejecutadas para promover la igualdad y equidad de género y el acceso de las mujeres a una vida libre de violencia en el Congreso;
+
+IX. Brindar asesoría en materia de igualdad de género a las Diputadas y Diputados.
+
+X. Contribuir en la formación y capacitación del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva;
+
+XI. Elaborar diagnósticos que permitan identificar brechas de desigualdad de género que se presenten en la estructura organizacional del Congreso del Estado;
+
+XII. Apoyar a las Comisiones Ordinarias, cuando éstas así lo consideren con la asesoría en sus anteproyectos de iniciativas de ley en materia de igualdad de género;
+
+XIII. Implementar cursos de formación en (sic) para el personal del Congreso del Estado en materia de igualdad sustantiva, lenguaje incluyente, así como de género e interseccionalidad;
+
+XIV. Contribuir a asegurar el legislar con perspectiva de género en el Congreso del Estado;
+
+XV. Contribuir al uso del lenguaje incluyente en los trabajos legislativos, así como en la redacción de Leyes y Decretos que apruebe el Congreso del Estado;
+
+XVI. Realizar las medidas necesarias para la implementación de las Normas Oficiales Mexicanas en materia de igualdad laboral y no discriminación;
+
+XVII. Promover convenios de colaboración o acuerdos interinstitucionales, con instituciones públicas y privadas, en materia de investigación sobre las brechas de género e igualdad sustantiva, con el objetivo de difundir los hallazgos a la opinión pública;
+
+XVIII. Realizar un protocolo que permita el establecimiento de mecanismos que brinden un acompañamiento especializado y profesional a las víctimas de hostigamiento sexual y acoso sexual garantizando sus derechos humanos donde se determine los procedimientos para orientarle y brindarle un acompañamiento ante autoridades competentes
+
+XIX. Las demás que le señalen otras disposiciones legales o reglamentarias y sus superiores jerárquicos, dentro de la esfera de sus atribuciones.
 
 ## TÍTULO NOVENO. DEL SERVICIO DE CARRERA
 
@@ -3806,3 +3874,17 @@ QUINTA. Se abroga el “Acuerdo parlamentario por el que se crea e integra la Co
 SEXTA. Las referencias realizadas a las Comisiones Legislativas que modifican su denominación mediante el presente Decreto, se entenderán conforme a las nuevas denominaciones.
 
 SÉPTIMA. La designación realizada a la persona titular del Instituto de Investigaciones Legislativas, se entenderá a la Coordinación General del Instituto de Investigaciones Legislativas.
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO QUINIENTOS SETENTA Y NUEVE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, CON LA FINALIDAD DE IMPLEMENTAR LA UNIDAD TÉCNICA DE IGUALDAD DE GÉNERO DEL CONGRESO DEL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Morelos, en términos de lo previsto por el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Las designaciones del personal que integra la Unidad Técnica de Igualdad de Género, se realizará hasta en tanto se cuente con la suficiencia presupuestal por parte de la Secretaría de Administración y Finanzas.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+QUINTA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
