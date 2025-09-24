@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-de-la-cultura-del-cuidado-del-agua-en-el-89149"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-22"
-last_updated: "2021-06-16"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO DE LA CULTURA DEL CUIDADO DEL AGUA EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 22 de agosto de 2012.
 
@@ -59,21 +59,27 @@ I.- CONSEJO: El Consejo Consultivo para el Fomento de la Cultura del Cuidado del
 
 II.- PROGRAMA ESTATAL: El Programa Estatal de Fomento a la Cultura del Cuidado y Uso Racional del Agua.
 
-III.- ENTIDADES PRIVADAS: Todas aquellas que formen parte del sector productivo, organismos no gubernamentales y ciudadanos organizados.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+III.- ENTIDADES PRIVADAS: Aquellas que formen parte del sector productivo, organismos no gubernamentales, y ciudadanía organizada.
 
 IV.- ENTIDADES PÚBLICAS: Los Órganos y Dependencias de los Poderes y Municipios, Organismos Públicos Autónomos y Entidades Paraestatales y Municipales.
 
 V.- ESTADO: El Estado Libre y Soberano de Morelos.
 
-VI.- TITULAR DEL EJECUTIVO: El Gobernador Constitucional del Estado de Morelos.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VI.- PERSONA TITULAR DEL PODER EJECUTIVO: La Gobernadora o Gobernador Constitucional del Estado de Morelos.
 
 VII.- GOBIERNO DEL ESTADO: El Gobierno del Estado Libre y Soberano de Morelos.
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-VIII.- CEA: La Comisión Estatal del Agua del Estado de Morelos.
+VIII.- CEAGUA: La Comisión Estatal del Agua del Estado de Morelos.
 
-IX.- RECOMENDACIÓN: Documento emitido por el Titular del Ejecutivo a través de la instancia que para tal efecto se instale, en el cual se establecerán los criterios y acciones a llevar a cabo, a fin de fomentar el uso racional y cuidado del agua en el estado.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+IX.- RECOMENDACIÓN: Documento emitido por la persona Titular del Poder Ejecutivo a través de la instancia que para tal efecto se instale, en el cual se establecerán los criterios y acciones a llevar a cabo, a fin de fomentar el uso racional y cuidado del agua en el estado.
 
 X.- USO RACIONAL DEL AGUA: Son las acciones, estrategias y hábitos encaminados al consumo eficiente del agua dentro del marco del desarrollo sostenible y respetando la normatividad vigente sobre el medio ambiente y los recursos naturales.
 
@@ -81,11 +87,11 @@ X.- USO RACIONAL DEL AGUA: Son las acciones, estrategias y hábitos encaminados 
 
 ATRIBUCIONES EN MATERIA DE CUIDADO Y USO RACIONAL DEL AGUA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 3.
 
-El Titular del Ejecutivo, a través de la CEA, ejercerá las siguientes atribuciones.
+La persona Titular del Poder Ejecutivo, a través de la CEAGUA, ejercerá las siguientes atribuciones.
 
 I.- Diseñar, difundir y ejecutar el Programa Estatal de Fomento al Cuidado y Uso Racional del Agua;
 
@@ -119,9 +125,11 @@ El Titular del Ejecutivo podrá celebrar convenios e instrumentos de coordinaci�
 
 Las entidades públicas y privadas que se destaquen en su labor por el cuidado y uso racional del agua, podrán ser consideradas para el otorgamiento de reconocimientos establecidos en la ley de la materia; del mismo modo, podrá otorgar estímulos fiscales a las entidades públicas y privadas, organismos no gubernamentales y demás instituciones en los términos de la normatividad aplicable en el Estado, que se destaquen por sus acciones
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 6.
 
-Las Entidades Públicas, procurarán la implementación de medidas que fomenten el uso racional del agua, mediante la adquisición e instalación de equipos de oficina, patios, cocinas y jardines con diseños, materiales y características que propicien el cuidado y uso racional del agua entre los empleados; del mismo modo, se procurará el mantenimiento periódico de dichos equipos así como de las instalaciones hidráulicas, equipamientos en baños e infraestructura de obras públicas para la identificación oportuna de fugas.
+Las Entidades Públicas, procurarán la implementación de medidas que fomenten el uso racional del agua, mediante la adquisición e instalación de equipos de oficina, patios, cocinas y jardines con diseños, materiales y características que propicien el cuidado y uso racional del agua entre las personas trabajadoras; del mismo modo, se procurará el mantenimiento periódico de dichos equipos, así como de las instalaciones hidráulicas, equipamientos en baños e infraestructura de obras públicas para la identificación oportuna de fugas.
 
 ###### Artículo 7.
 
@@ -143,39 +151,61 @@ VI.- Las demás que determine la Ley y demás disposiciones en la materia.
 
 DEL CONSEJO CONSULTIVO PARA EL FOMENTO DE LA CULTURA DEL CUIDADO DEL AGUA.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-Para la atención directa de las disposiciones previstas en esta ley, el Titular del Ejecutivo, creará un Consejo Consultivo para el Fomento de la Cultura del Cuidado del Agua. Dicho Consejo fungirá como un órgano de apoyo en materia de cuidado y uso racional del agua en el Estado y tendrá como prioridad establecer mecanismos que fomenten la participación ciudadana en el cuidado del agua.
+Para la atención directa de las disposiciones previstas en esta ley, la persona Titular del Poder Ejecutivo, creará un Consejo Consultivo para el Fomento de la Cultura del Cuidado del Agua. Dicho Consejo fungirá como un órgano de apoyo en materia de cuidado y uso racional del agua en el Estado y tendrá como prioridad establecer mecanismos que fomenten la participación ciudadana en el cuidado del agua.
 
 ###### Artículo 9.
 
 El consejo a que se refiere el artículo anterior, estará integrado por:
 
-I.- El Titular del Ejecutivo, como Presidente;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+I.- La persona Titular del Poder Ejecutivo, quien lo presidirá;
 
-II.- El Titular de la CEA, como Vicepresidente;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-III.- Un Secretario Técnico;
+II.- La persona Titular de la CEAGUA, como vicepresidenta o vicepresidente;
 
-IV.- Un representante de Asociaciones Industriales y Comerciales;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-V.- Un representante de Organismos no Gubernamentales;
+III.- Una persona Titular de la secretaría técnica;
 
-VI.- Un representante de Instituciones de educación básica, media y superior;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-VII.- Un representante de Instituciones y Consejos de Investigación Científica y Tecnológica; y
+IV.- Una persona representante de Asociaciones Industriales y Comerciales;
 
-VIII.- Un representante de los ciudadanos.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-Los representantes a que se refieren las fracciones IV, V, VI, VII y VIII serán designadas por el Presidente del Consejo, previa emisión de convocatoria pública.
+V.- Una persona representante de Organismos no Gubernamentales;
 
-Los miembros del Consejo, deberán acreditar que cuentan con los conocimientos y estudios académicos en la materia.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VI.- Una persona representante de Instituciones de educación básica, media y superior;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VII.- Una persona representante de Instituciones y Consejos de Investigación Científica y Tecnológica; y
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VIII.- Una persona representante de la ciudadanía.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Los representantes a que se refieren las fracciones IV, V, VI, VII y VIII serán designadas por la persona que presida el Consejo, previa emisión de convocatoria pública.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Las personas integrantes del Consejo deberán acreditar que cuentan con los conocimientos y estudios académicos en la materia.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 10.
 
-La organización y funcionamiento del Consejo, así como las atribuciones de sus miembros, se sujetaran a lo que disponga su Reglamento Interno, el cual deberá ser elaborado por el Secretario Técnico de conformidad con lo dispuesto en esta Ley.
+La organización y funcionamiento del Consejo, así como las atribuciones de las personas que lo integran, se sujetaran a lo que disponga su Reglamento Interno, el cual deberá ser elaborado por la secretaría técnica de conformidad con lo dispuesto en esta Ley.
 
 ###### Artículo 11.
 
@@ -189,7 +219,9 @@ III.- Conocer el programa anual de actividades del Consejo, que para tal efecto 
 
 IV.- Proponer la implementación de los programas y acciones destinados a la concientización entre la población respecto del cuidado y uso racional del agua.
 
-V.- Proponer al Titular del Ejecutivo la implementación de una semana anual del agua, en coordinación con las instituciones de educación básica, media y superior, así como las acciones y tareas que contendrá dicho programa, mismas que estarán dirigidas a concientizar entre la población la importancia del cuidado y uso racional del agua en tiempo de escasez;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+V.- Proponer a la persona Titular del Poder Ejecutivo la implementación de una semana anual del agua, en coordinación con las instituciones de educación básica, media y superior, así como las acciones y tareas que contendrá dicho programa, mismas que estarán dirigidas a concientizar entre la población la importancia del cuidado y uso racional del agua en tiempo de escasez;
 
 VI.- Emitir opiniones que le sean solicitadas y que tengan que ver con la materia;
 
@@ -203,41 +235,59 @@ IX.- Expedir su Reglamento Interno;
 
 X.- Las demás que determine esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-Son facultades del Secretario Técnico, además de las establecidas en el Reglamento Interno del Consejo, las siguientes:
+Son facultades de la persona titular de la secretaria técnica, además de las establecidas en el Reglamento Interno del Consejo, las siguientes:
 
-I.- Emitir las convocatorias respectivas, para las sesiones del Consejo; previa autorización del Presidente y miembros del Consejo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+I.- Emitir las convocatorias respectivas, para las sesiones del Consejo; previa autorización de la persona titular del Consejo y demás personas integrantes del Consejo;
 
 II.- Dirigir las sesiones del Consejo y declarar la validez de los acuerdos que se tomen;
 
 III.- Verificar el quórum legal para la celebración de las sesiones del Consejo;
 
-IV.- Llevar un registro de los acuerdos que se tomen por sus integrantes y levantar las actas correspondientes;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+IV.- Llevar un registro de los acuerdos que se tomen por las personas que integran el Consejo, y levantar las actas correspondientes;
 
 V.- Hacer cumplir las disposiciones y acuerdos emanados de las sesiones del Consejo;
 
-VI.- Recabar las firmas en las actas correspondientes, de los integrantes del Consejo, al término de las sesiones;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VI.- Recabar las firmas en las actas correspondientes, de las personas integrantes del Consejo, al término de las sesiones;
 
 VII.- Las demás que establezca esta Ley y demás disposiciones de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 13.
 
 El Consejo celebrará sesiones ordinarias trimestralmente y extraordinarias cuando la circunstancia del asunto así lo requiera.
 
-En la primera sesión que se celebre, se designara por mayoría de votos de los miembros presentes, al Secretario Técnico, quien durará en su encargo tres años, pudiendo ser reelegible hasta por dos ocasiones.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-A las sesiones del Consejo, podrán ser invitados funcionarios públicos, entre otros, cuya trayectoria profesional o actividades los vincule con los objetos del Consejo.
+En la primera sesión que se celebre, se designará por mayoría de votos de las personas integrantes y presentes, a la persona que ocupará la secretaría técnica, quien durará en su encargo tres años, pudiendo ser reelegible hasta por dos ocasiones.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+A las sesiones del Consejo, podrán ser invitadas personas servidoras públicas, entre otras, cuya trayectoria profesional o actividades los vincule con los objetos del Consejo.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 14.
 
-Todos los miembros del Consejo contarán con los mismos derechos de voz y voto. Los acuerdos del Consejo se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
+Todas las personas integrantes del Consejo contarán con los mismos derechos de voz y voto. Los acuerdos del Consejo se tomarán por mayoría de votos de las personas que lo conforman que estén presentes. En caso de empate, quien lo presida tendrá voto de calidad.
 
-Para que los acuerdos que se tomen dentro de las sesiones del Consejo sean validas, deberán estar presentes la mitad más uno de los integrantes.
+Para que los acuerdos que se tomen dentro de las sesiones del Consejo sean válidas (sic), deberán estar presentes la mitad más una de las personas integrantes.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 15.
 
-El cargo de miembro del Consejo será honorifico por lo que sus miembros no recibirán retribución alguna por el ejercicio de sus funciones.
+El cargo de las personas que integran el Consejo será honorifico, por lo que no recibirán retribución alguna por el ejercicio de sus funciones.
 
 ### CAPÍTULO CUARTO
 
@@ -368,3 +418,13 @@ PRIMERA. Aprobado el presente decreto se remitirá al gobernador constitucional 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan (sic) contenido del presente decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y DOS POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO DE LA CULTURA DEL CUIDADO DEL AGUA EN EL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO”.]</small>
+
+PRIMERA. Remítase a la persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
