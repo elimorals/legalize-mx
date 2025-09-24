@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2024-05-25"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -2554,6 +2554,32 @@ Si las personas a que se refieren las fracciones II y III del artículo anterior
 En qué podrá consistir el aseguramiento
 
 El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos o cualesquiera otra forma de garantía suficiente a juicio del Juez.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+ARTICULO 313 BIS.- Facultades para el aseguramiento
+
+Con el objeto de hacer efectivo el derecho de los acreedores alimentarios y de que prevalezca el interés superior de las niñas, niños y adolescentes, la autoridad jurisdiccional que conozca del incumplimiento de obligaciones alimentarias, de oficio a petición de la parte interesada, solicitará a la Comisión Nacional Bancaria y de Valores, de forma enunciativa, más no limitativa, que dentro de un plazo no mayor a diez días hábiles rinda información sobre las cuentas bancarias, de ahorro, inversiones en instrumentos bursátiles, fondos para el retiro y aportaciones, instrumentos financieros, tenencia de valores u otros datos financieros que puedan evidenciar la capacidad económica de la parte demandada para cubrir la obligación de proporcionar alimentos.
+
+Una vez recibida la respuesta correspondiente, la autoridad jurisdiccional, tendrá un plazo de tres días hábiles para dictar la resolución que corresponda ordenando el pago de la pensión provisional o definitiva ordenada, con los fondos existentes, incluyendo las cantidades adeudas a la fecha y en su caso la retención de los fondos del deudor en las cuentas bancarias y/o instrumentos financieros o de inversión cuando aquellos sean habidos, hasta un monto equivalente al total de la deuda actualmente exigible, el que deberá ser expresado en la resolución.
+
+Para efectos de determinar sobre qué fondos ha de mantenerse la retención, se preferirá en primer lugar los dineros depositados en cuentas bancarias y cuentas de ahorro voluntario y, en lo que faltare, aquellos instrumentos financieros o de inversión cuya liquidación resulte más sencilla o expedita.
+
+La resolución que ordena el pago de la deuda deberá individualizar las cuentas bancarias, las cuentas de ahorro voluntario, los instrumentos financieros y/o de inversión del deudor alimentario, según sea el caso, que se utilizarán para el pago total de la deuda, el monto específico y porcentaje de la deuda que se ordena pagar respecto de cada una de ellas y la individualización de la cuenta bancaria en que se debe realizar el pago a favor del acreedor alimentario.
+
+Las medidas decretadas surtirán efectos desde la notificación de la resolución a la respectiva entidad bancaria o financiera y antes de notificarse a la persona en contra de quien se dicte.
+
+Notificada la resolución de que se trate, la respectiva institución tendrá un plazo de cinco días hábiles para realizar la transferencia ordenada por el tribunal a la parte actora o para ponerla a disposición del juzgador para que le sea entregada a aquella.
+
+En caso de retención de fondos y que éstos sean suficientes para el pago de la deuda de alimentos, el tribunal procederá directamente a ordenar el pago con estos fondos, de conformidad a lo señalado en el inciso segundo de este artículo.
+
+En caso de que los fondos retenidos sean insuficientes para el pago íntegro de la deuda, las actuaciones dispuestas en este artículo sólo tendrán por objeto buscar los fondos suficientes para pagar el saldo de la deuda.
+
+Extraordinariamente, siempre que hubiere tres pensiones adeudadas continuas o discontinuas y el obligado alimentista no mantenga fondos en cuentas bancarias o instrumentos financieros o de inversión, o que habiendo fondos éstos sean insuficientes para el pago de la deuda, la parte acreedora podrá solicitar al tribunal que consulte, ante la autoridad u órgano competente de fondos de pensiones en la que se encuentra afiliado el deudor, de los saldos que éste mantiene en su cuenta de capitalización individual de cotizaciones obligatorias, comunicando a dicha entidad la prohibición de que el deudor cambie de institución de administración de fondos de pensiones. Obtenida la información solicitada, se dictará resolución por la autoridad jurisdiccional que conoce del asunto, en la que se ordene el pago de la deuda liquidada; misma que se realizará dentro de un plazo de tres días hábiles contados desde la presentación de la solicitud que regula este artículo.
+
+A efecto de lo anterior, la autoridad jurisdiccional también podrá instruir la anotación, registro o inscripción que corresponda a la medida ordenada.
+
+Cuando la autoridad jurisdiccional detecta alguna irregularidad en el trámite de las acciones a que se refiere este articulo o el retiro injustificado o irregular de los mismos, dará vista al Ministerio Público para los efectos que inicie las acciones que correspondan.
 
 ###### ARTICULO 314.
 
@@ -25906,3 +25932,11 @@ SEGUNDO. El Tribunal Superior de Justicia del Estado de Tabasco, determinará de
 TERCERO. En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, el Poder Judicial del Estado de Tabasco realizará las adecuaciones necesarias al Reglamento Interior del Tribunal Superior de Justicia del Estado de Tabasco y demás disposiciones aplicables, para el debido cumplimiento de este Decreto.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 141 POR EL QUE “SE ADICIONA EL ARTÍCULO 313 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Quedan sin efecto todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
