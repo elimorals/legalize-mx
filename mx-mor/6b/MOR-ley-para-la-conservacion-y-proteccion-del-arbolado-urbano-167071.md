@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-conservacion-y-proteccion-del-arbolado-urbano-16707
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-19"
-last_updated: "2023-07-19"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Número 6211 del Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2023.
 
@@ -49,9 +49,11 @@ LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO PARA EL ESTADO LIBRE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de la presente ley, son de orden público y de observancia general, y tienen por objeto el fomento y protección del arbolado urbano como parte integrante del patrimonio natural del estado de Morelos, así como asegurar la conservación, mantenimiento, protección, restitución y desarrollo de los árboles y áreas arboladas urbanas del Estado, teniendo como prioridad las especies endémicas y nativas, a fin de lograr un equilibrio ecológico propicio para el sano desarrollo de los habitantes de las zonas urbanas.
+Las disposiciones de la presente ley, son de orden público y de observancia general, y tienen por objeto el fomento y protección del arbolado urbano como parte integrante del patrimonio natural del estado de Morelos, así como asegurar la conservación, mantenimiento, protección, restitución y desarrollo de los árboles y áreas arboladas urbanas del Estado, teniendo como prioridad las especies endémicas y nativas, a fin de lograr un equilibrio ecológico propicio para el sano desarrollo para las personas que habitan las zonas urbanas.
 
 ###### ARTÍCULO 2.
 
@@ -137,9 +139,11 @@ VI. Establecer campañas dirigidas a crear conductas conservacionistas, destacan
 
 VII. Llevar el Registro municipal de Árboles Históricos y Notables los cuales no podrán talarse, afectarse o derribarse.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 6.
 
-Es obligación de los propietarios, arrendatarios y poseedores de cualquier título de inmuebles urbanos, conservar y mantener en buen estado los árboles ubicados en los mismos.
+Es obligación de las personas propietarias, arrendatarias o poseedoras de cualquier título de inmuebles urbanos, conservar y mantener en buen estado los árboles ubicados en los mismos.
 
 ###### ARTÍCULO 7.
 
@@ -267,11 +271,13 @@ En situaciones excepcionales, se deberá fijar un cartel junto al ejemplar a ser
 
 Cuando existan inconformidades sobre la intervención de los árboles; la autoridad administrativa competente deberá comunicar de forma fundada y motivada las razones que originaron la intervención.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 19.
 
 Las entidades públicas o privadas que realicen trabajos de instalación o tendido de redes de servicio, deberán adoptar las medidas que sean necesarias y emplear sistemas adecuados que garanticen la protección del arbolado público urbano.
 
-Para la realización de cualquier obra en el espacio público que involucre ejemplares arbóreos, los interesados deberán presentar un proyecto ante la autoridad administrativa competente con la suficiente antelación a los efectos de su evaluación técnica y eventual aprobación. La reglamentación establecerá los requisitos que debe cumplir dicha presentación.
+Para la realización de cualquier obra en el espacio público que involucre ejemplares arbóreos, las personas interesadas deberán presentar un proyecto ante la autoridad administrativa competente con la suficiente antelación a los efectos de su evaluación técnica y eventual aprobación. La reglamentación establecerá los requisitos que debe cumplir dicha presentación.
 
 ###### ARTÍCULO 20.
 
@@ -301,9 +307,13 @@ I. Las acciones que realiza la autoridad administrativa;
 
 II. Las especificaciones técnicas para la conservación de árboles;
 
-III. Las advertencias sobre la prohibición de la poda y tala de árboles por parte de los particulares;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-IV. Medidas o recomendaciones para evitar que los ciudadanos dañen el arbolado, y
+III. Las advertencias sobre la prohibición de la poda y tala de árboles a ciudadanía.
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Medidas o recomendaciones para evitar que las personas o animales bajo su cuidado dañen el arbolado, y
 
 V. La importancia de la conservación del arbolado como parte fundamental del espacio público y del ambiente de la Ciudad.
 
@@ -371,9 +381,13 @@ VIII. Se dañe o afecte de alguna forma árboles patrimoniales.
 
 Las infracciones de carácter administrativo a los preceptos contenidos en esta Ley, serán sancionadas de la siguiente manera:
 
-I. Al infractor se le impondrá una multa de 400 a 40,000 Unidades de Medida y Actualización, así como la obligación de reparar el daño causado, y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-II. Tratándose de servidores públicos, independientemente de la reparación del daño, se iniciará el procedimiento de responsabilidad administrativa contemplado en la Ley de Responsabilidades Administrativas para el Estado de Morelos con las siguientes sanciones, según corresponda a la gravedad de la infracción:
+I. A la personal (sic) infractora se le impondrá una multa de 400 a 40,000 Unidades de Medida y Actualización, así como la obligación de reparar el daño causado, y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+II. Tratándose de personas servidoras públicas, independientemente de la reparación del daño, se iniciará el procedimiento de responsabilidad administrativa contemplado en la Ley de Responsabilidades Administrativas para el Estado de Morelos con las siguientes sanciones, según corresponda a la gravedad de la infracción:
 
 a) Amonestación;
 
@@ -383,7 +397,9 @@ c) Suspensión sin goce de sueldo, y
 
 d) Destitución del puesto e inhabilitación hasta por 3 años para desempeñar un cargo público de competencia ambiental.
 
-Para determinarse su monto o cuantía, la autoridad competente, deberá tomar en cuenta la gravedad de la infracción, la capacidad económica del infractor la reincidencia de éste.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Para determinarse su monto o cuantía, la autoridad competente, deberá tomar en cuenta la gravedad de la infracción, la capacidad económica de la persona infractora, la reincidencia de ésta.
 
 Las sanciones a que se refiere este artículo aplicarán sin perjuicio de las sanciones penales a las que haya lugar.
 
@@ -395,23 +411,31 @@ La imposición de sanciones por las infracciones a esta Ley las determinará la 
 
 Las obligaciones pecuniarias a favor de los Municipios que se deriven del presente ordenamiento, constituirán créditos fiscales y podrán ser exigidos por la Tesorería Municipal o área administrativa facultada, en su respectivo ámbito de competencia, mediante el procedimiento económico coactivo de ejecución, en los términos del Código Fiscal del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 33.
 
-El particular afectado por los actos y las resoluciones a que se refiere el presente capítulo, no admitirán recurso de revocación. Sin embargo, las partes podrán acudir ante el Tribunal de Justicia Administrativa para promover, en su caso, el juicio de nulidad.
+La persona afectada por los actos y las resoluciones a que se refiere el presente capítulo, no admitirán recurso de revocación. Sin embargo, las partes podrán acudir ante el Tribunal de Justicia Administrativa para promover, en su caso, el juicio de nulidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 34.
 
-Cualquier duda respecto a las resoluciones de los recursos, en estas siempre se resolverán buscando favorecer el mantenimiento del equilibrio ecológico y la protección del ambiente. La autoridad podrá corregir los errores que advierta en la cita de los preceptos legales que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso ni los agravios.
+Cualquier duda respecto a las resoluciones de los recursos, en estas siempre se resolverán buscando favorecer el mantenimiento del equilibrio ecológico y la protección del ambiente. La autoridad podrá corregir los errores que advierta en la cita de los preceptos legales que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos de la persona recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso ni los agravios.
 
 Los ordenamientos dictados por la autoridad, deberán cumplirse en los términos que se señalen en la misma resolución.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 35.
 
-En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo la presente Ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la presente ley, sin menoscabo de las sanciones que correspondan en materia de responsabilidad de los servidores públicos.
+En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo la presente Ley, serán nulas y no producirán efecto legal alguno, y las personas servidoras públicas responsables serán sancionados conforme a lo dispuesto en la presente ley, sin menoscabo de las sanciones que correspondan en materia de responsabilidad de las y los servidores públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 36.
 
-La autoridad administrativa podrá dejar sin efectos un requerimiento o una sanción, de oficio o a petición de parte interesada, cuando se trate de un error manifiesto o el particular demuestre que cumplió con anterioridad.
+La autoridad administrativa podrá dejar sin efectos un requerimiento o una sanción, de oficio o a petición de parte interesada, cuando se trate de un error manifiesto o la persona demuestre que cumplió con anterioridad.
 
 Para todo lo no previsto en el presente Capítulo se aplicará supletoriamente la Ley de Procedimiento Administrativo para el estado de Morelos y la Ley de Justicia Administrativa del estado de Morelos.
 
@@ -448,3 +472,15 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO CUATROCIENTOS SESENTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO".]</small>
+
+PRIMERO. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERO. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
