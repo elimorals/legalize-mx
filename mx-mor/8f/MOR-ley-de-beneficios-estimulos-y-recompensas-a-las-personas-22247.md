@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-beneficios-estimulos-y-recompensas-a-las-personas-22247"
 country: "mx"
 rank: "ley"
 publication_date: "1974-11-06"
-last_updated: "2016-12-22"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE BENEFICIOS, ESTIMULOS Y RECOMPENSAS A LAS PERSONAS VETERANAS DE LA REVOLUCION EN EL ESTADO DE MORELOS -- ANTES LEY DE BENEFICIOS, ESTIMULOS Y RECOMPENSAS A LOS VETERANOS DE LA REVOLUCION EN EL ESTADO DE MORELOS --
 
-LEY DE BENEFICIOS, ESTÍMULOS Y RECOMPENSAS A LOS VETERANOS DE LA REVOLUCIÓN EN EL ESTADO DE MORELOS
+LEY DE BENEFICIOS, ESTÍMULOS Y RECOMPENSAS A LAS PERSONAS VETERANAS DE LA REVOLUCIÓN EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 6 de noviembre de 1974.
 
@@ -43,21 +43,29 @@ Que el Gobierno Revolucionario del Estado de Morelos no puede permanecer indifer
 
 Por ello y considerando que es indispensable actualizar y dar mayor agilidad a la Ley correspondiente hasta hoy vigente, a fin de prestar una ayuda más efectiva a los Veteranos de la Revolución que comprueben su participación en el movimiento armado de México; determinando qué estímulos, beneficios y recompensas habrá de proporcionárseles, este H. Congreso ha tenido a bien expedir la siguiente:
 
-LEY DE BENEFICIOS, ESTIMULOS Y RECOMPENSAS A LOS VETERANOS DE LA REVOLUCION EN EL ESTADO DE MORELOS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+LEY DE BENEFICIOS, ESTÍMULOS Y RECOMPENSAS A LAS PERSONAS VETERANAS DE LA REVOLUCIÓN EN EL ESTADO DE MORELOS
 
 ### CAPITULO I
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 1o.
 
-El Gobierno del Estado de Morelos, por conducto del Titular del Poder Ejecutivo, otorgará a los Veteranos de la Revolución de la Entidad, los beneficios, estímulos y recompensas que se establecen en la presente Ley, en justo reconocimiento a su participación en la Revolución Mexicana.
+El Gobierno del Estado de Morelos, por conducto de la persona Titular del Poder Ejecutivo, otorgará a las Personas Veteranas de la Revolución de la Entidad, los beneficios, estímulos y recompensas que se establecen en la presente Ley, en justo reconocimiento a su participación en la Revolución Mexicana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 2o.
 
-Se consideran Veteranos de la Revolución Mexicana en el Estado de Morelos, a todas aquellas personas que además de satisfacer los requisitos que se establecen en el Capítulo II de esta Ley, reúnan los siguientes requisitos:
+Se consideran Personas Veteranas de la Revolución Mexicana en el Estado de Morelos, a todas aquellas personas que además de satisfacer los requisitos que se establecen en el Capítulo II de esta Ley; reúnan los siguientes requisitos:
 
-I.- Ser morelense por nacimiento o por residencia, en los términos de los Artículos 10 y 11 de la Constitución Política del Estado.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+I.- Ser persona Morelense por nacimiento o por residencia, en los términos de los Artículos 10 y 11 de la Constitución Política del Estado.
 
 II.- Acreditar su residencia en el territorio de Morelos, con anterioridad de cinco años a la fecha en que entre en vigor la presente Ley.
 
@@ -69,13 +77,17 @@ Los beneficios, estímulos y recompensas que se establecen en la presente Ley, s
 
 DE LOS BENEFICIOS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 4o.
 
-Para los efectos de esta Ley, se consideran Veteranos de la Revolución Mexicana:
+Para los efectos de esta Ley, se consideran Personas Veteranas de la Revolución Mexicana:
 
 I.- Quienes comprueben fehacientemente ante la Comisión de Estudio y Dictamen de Antecedentes Revolucionarios haber prestado servicios activos en el Ejército Libertador del Sur, acaudillado por el General Emiliano Zapata en el lapso comprendido del 19 de noviembre de 1910 al 20 de mayo de 1920.
 
-II.- Quienes comprueben haber sido reconocidos como Veteranos de la Revolución por la Secretaría de la Defensa Nacional y haber militado en el Ejercito Libertador del Sur.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+II.- Quienes comprueben haber sido reconocidos como Personas Veteranas de la Revolución por la Secretaría de la Defensa Nacional y haber militado en el Ejercito Libertador del Sur.
 
 ### CAPITULO III
 
@@ -85,17 +97,27 @@ DE LA COMISION DE ESTUDIO Y DICTAMEN DE ANTECEDENTES REVOLUCIONARIOS Y SUS FUNCI
 
 Se crea una Comisión de Estudio y Dictamen de Antecedentes Revolucionarios que estará integrada por tres miembros designados en la siguiente forma:
 
-I.- Uno por el Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-II.- Otro por el Presidente del H. Tribunal Superior de Justicia del Estado.
+I.- Uno por la persona Titular del Poder Ejecutivo del Estado.
 
-III.- Uno más por el Frente Zapatista de la República.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+II.- Otro por la persona que ocupe la presidencia del H. Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+III.- Una persona más por el Frente Zapatista de la República.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 6o.
 
-La Comisión de Estudio y Dictamen de Antecedentes Revolucionarios será presidida por el Representante del Ejecutivo y fungirá como Secretario el Representante del H. Tribunal Superior de Justicia del Estado. El Representante del Frente Zapatista desempeñará el cargo de Vocal.
+La Comisión de Estudio y Dictamen de Antecedentes Revolucionarios será presidida por la persona representante del Poder Ejecutivo y fungirá como Titular de la secretaría la persona representante del H. Tribunal Superior de Justicia del Estado. La persona representante del Frente Zapatista desempeñará el cargo de vocal.
 
-Los funcionarios mencionados durarán en su cargo tres años y no disfrutarán honorarios, pero el Gobierno del Estado proporcionará a la Comisión todos los medios necesarios para el desarrollo de sus funciones.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Las personas mencionadas durarán en su cargo tres años y no disfrutarán honorarios, pero el Poder Ejecutivo del Gobierno del Estado proporcionará a la Comisión todos los medios necesarios para el desarrollo de sus funciones.
 
 ###### ARTICULO 7o.
 
@@ -105,61 +127,55 @@ Las resoluciones de la Comisión de Estudio y Dictamen de Antecedentes Revolucio
 
 La Comisión de Estudio y Dictamen de Antecedentes Revolucionarios tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA POR DISPOSICIÓN TRANSITORIA NOVENA DEL DECRETO NÚMERO MIL TRESCIENTOS SETENTA Y UNO POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-I.- Recibir las solicitudes que presenten los Veteranos de la Revolución para disfrutar de los beneficios que otorga la presente Ley.
+I.- Recibir las solicitudes que presenten las Personas Veteranas de la Revolución para disfrutar de los beneficios que otorga la presente Ley; y
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-II.- Estudiar y dictaminar respecto de las solicitudes y documentación que presenten los interesados, resolviendo en su oportunidad si se les conceden o no los beneficios, estímulos y recompensas que se establecen en esta Ley.
+II.- Estudiar y dictaminar respecto de las solicitudes y documentación que presenten las personas interesadas, resolviendo en su oportunidad si se les conceden o no los beneficios, estímulos y recompensas que se establecen en esta Ley.
 
 ### CAPITULO IV
 
 DE LOS BENEFICIOS, ESTIMULOS Y RECOMPENSAS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, POR DISPOSICIÓN TRANSITORIA NOVENA DEL DECRETO NÚMERO MIL TRESCIENTOS SETENTA Y UNO POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 9o.
 
-El Gobierno del Estado otorgará a los Veteranos:
+El Gobierno del Estado otorgará a las Personas Veteranas:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+I.- Pensión vitalicia no menor de treinta salarios mínimos mensuales, previo dictamen de la Comisión de Estudio y Dictamen de Antecedentes Revolucionarios, que sancionará la persona Titular del Poder Ejecutivo.
 
-I.- Pensión vitalicia no menor de treinta salarios mínimos mensuales, previo dictamen de la Comisión de Estudio y Dictamen de Antecedentes Revolucionarios, que sancionará el Titular del Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA POR DISPOSICIÓN TRANSITORIA NOVENA DEL DECRETO NÚMERO MIL TRESCIENTOS SETENTA Y UNO POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)</small>
+II. Servicio Médico gratuito en los hospitales públicos asentados en el Estado de Morelos.
 
-II. Servicio Médico gratuito en los hospitales del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
-
-III.- Un seguro de vida por la cantidad de treinta mil pesos, cuya prima será pagada por el Gobierno del Estado, cumpliendo el o los interesados los requisitos que fije la Institución Aseguradora.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+III.- Un seguro de vida por la cantidad de treinta mil pesos, cuya prima será pagada por el Poder Ejecutivo del Gobierno del Estado, cumpliendo las personas interesadas los requisitos que fije la Institución Aseguradora.
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
 IV.- Diplomas y condecoraciones previo dictamen de la Comisión de Estudio y Dictamen de Antecedentes Revolucionarios; y,
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+V.- En caso de defunción de las personas veteranas, además del seguro de vida mencionado en la fracción III, se cubrirá a los deudos la cantidad de doce mil pesos para gastos funerarios.
 
-V.- En caso de defunción del veterano, además del seguro de vida mencionado en la fracción III, se cubrirá a los deudos del Veterano la cantidad de doce mil pesos para gastos funerarios.
-
-> <small>(REFORMADO POR DISPOSICIÓN TRANSITORIA NOVENA DEL DECRETO NÚMERO MIL TRESCIENTOS SETENTA Y UNO POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 10.
 
-En las ceremonias cívicas que organice el Gobierno o los Ayuntamientos del Estado, los Veteranos de la Revolución tendrán un lugar de honor.
+En las ceremonias cívicas que organice el Gobierno o los Ayuntamientos del Estado, las Personas Veteranas de la Revolución tendrán un lugar de honor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 11.
 
-Los Veteranos de la Revolución cuyos derechos hayan sido reconocidos en los términos de la presente Ley, gozarán de una exención del cincuenta por ciento de los impuestos estatales y municipales, cuando sean propietarios de:
+Las Personas Veteranas de la Revolución cuyos derechos hayan sido reconocidos en los términos de la presente Ley, gozarán de una exención del cincuenta por ciento de los impuestos estatales y municipales, cuando sean propietarios de:
 
 I.- Un comercio donde no se expidan bebidas alcohólicas, cuyo capital en giro no exceda de diez mil pesos.
 
@@ -171,9 +187,11 @@ III.- Una granja avícola que no exceda de mil aves.
 
 (DEROGADO POR DISPOSICIÓN TRANSITORIA NOVENA DEL DECRETO NÚMERO MIL TRESCIENTOS SETENTA Y UNO POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 13.
 
-Los Veteranos que cometan delitos que ameriten pena corporal perderán los beneficios, estímulos y recompensas que se les hubieren otorgado en términos de la presente Ley.
+Las Personas Veteranas que cometan delitos que ameriten pena corporal perderán los beneficios, estímulos y recompensas que se les hubieren otorgado en términos de la presente Ley.
 
 T R A N S I T O R I O S
 
@@ -274,3 +292,13 @@ En las ceremonias cívicas que organice el Gobierno o los Ayuntamientos del Esta
 SE DEROGA.
 
 DÉCIMO. Los derechos y beneficios que a la fecha se hayan otorgado por virtud del ordenamiento legal a que se refiere la disposición transitoria anterior, continuarán siendo aplicables y garantizados por las autoridades competentes.
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y NUEVE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LEY DE BENEFICIOS, ESTÍMULOS Y RECOMPENSAS A LOS VETERANOS DE LA REVOLUCIÓN EN EL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO Y ARMONIZACIÓN LEGISLATIVA”.]</small>
+
+PRIMERO. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERO. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
