@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-apoyo-alimentario-para-personas-con-discapacidad-113421"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-09"
-last_updated: "2023-06-14"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE APOYO ALIMENTARIO PARA PERSONAS CON DISCAPACIDAD PERMANENTE TOTAL Y EN POBREZA EXTREMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de marzo de 2016.
 
@@ -73,13 +73,15 @@ I. Persona con Discapacidad. Toda persona que por razón congénita o adquirida 
 
 II. Ley: Ley de Apoyo Alimentario para Personas con Discapacidad Permanente Total y en Pobreza Extrema del Estado de Morelos;
 
-III. Secretaría: Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+III. Secretaría: Secretaría de Bienestar;
 
 IV. Constancia: Documento expedido por la Secretaría de Salud o Dependencia, en el que se plasme el tipo y grado de discapacidad;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-V. Comisiones: La Comisión de Atención a Grupos Vulnerables, Migrantes y Personas con Discapacidad y la Comisión de Planeación para el Desarrollo Social, Metropolitano, Zonas Conurbadas y Asentamientos Humanos, del Poder Legislativo del Estado de Morelos;
+V. Comisiones: La Comisión de Atención a Grupos Vulnerables y Personas con Discapacidad, la Comisión de Atención a las Personas Migrantes y la Comisión de Planeación para el Desarrollo Social, Metropolitano, Zonas Conurbadas y Asentamientos Humanos, del Poder Legislativo del Estado de Morelos;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
 
@@ -243,9 +245,11 @@ La Secretaría destinará el 2.5% del presupuesto total autorizado para el Progr
 
 Corresponde al Congreso del Estado de Morelos, aprobar la partida presupuestal para el Programa, la cual no podrá ser menor, a la aprobada para el ejercicio fiscal inmediato anterior.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-El Ejecutivo del Estado, a través de sus Secretarías y Organismos, brindará asesoría a las personas con discapacidad que busquen acceder al Programa.
+La Persona Titular del Poder Ejecutivo, a través de sus Secretarías y Organismos, brindará asesoría a las personas con discapacidad que busquen acceder al Programa.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2023)</small>
 
@@ -267,9 +271,11 @@ Todas las acciones que se lleven a cabo en virtud de la presente Ley, deberán s
 
 Queda prohibido utilizar los recursos asignados al Programa, para cualquier fin distinto al establecido en la presente Ley.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 19.
 
-Los servidores públicos deberán abstenerse de usar el Apoyo, con fines partidistas o de promoción de la imagen de algún candidato o funcionario público.
+Las personas servidoras públicas deberán abstenerse de usar el apoyo, con fines partidistas o de promoción de la imagen de alguna persona candidato o servidora de la administración pública.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2021)</small>
 
@@ -277,9 +283,11 @@ Los servidores públicos deberán abstenerse de usar el Apoyo, con fines partidi
 
 El desvío de los recursos o cualquier irregularidad derivada de la operación del programa, será sancionado en los términos de lo dispuesto por la legislación electoral aplicable al caso, la Ley Estatal de Responsabilidades de los Servidores Públicos, la Ley de Responsabilidades Administrativas para el Estado de Morelos, la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos y demás normativa aplicable, según corresponda.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 21.
 
-Las personas con discapacidad, podrán interponer el Recurso de reconsideración en contra de la negativa en su aplicación para ser Beneficiarios del Programa. Lo anterior, se sujetará al procedimiento señalado en el Reglamento de la presente Ley.
+Las personas con Discapacidad, podrán interponer el Recurso de Reconsideración en contra de la negativa de aplicación para ser beneficiarias del Programa. Lo anterior, se sujetará al procedimiento señalado en el Reglamento de la presente Ley.
 
 ### CAPÍTULO V. DE LA TERMINACIÓN DEL APOYO
 
@@ -287,7 +295,9 @@ Las personas con discapacidad, podrán interponer el Recurso de reconsideración
 
 Serán causas de cancelación del Apoyo las siguientes:
 
-I. La muerte del Beneficiario;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+I. La muerte de la persona beneficiaria;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
 
@@ -297,25 +307,31 @@ III. Dejar de residir en el Estado de Morelos; y
 
 IV.- (DEROGADA, P.O. 20 DE OCTUBRE DE 2021)
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 23.
 
-En los casos de cancelación del apoyo económico, la Secretaría, informará por escrito al Beneficiario o su tutor sobre la causa, lo cual podrá recurrirse mediante Recurso de reconsideración.
+En los casos de cancelación del apoyo económico, la Secretaría, informará por escrito a la persona beneficiaria o a la persona que funja como su tutor sobre la causa, lo cual podrá recurrirse mediante recurso de reconsideración.
 
 ### CAPÍTULO VI. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 24.
 
-Los servidores públicos responsables de la operación del Programa que no cumplan con los lineamientos de la presente Ley, serán sancionados de conformidad con los ordenamientos legales aplicables.
+Las personas servidoras públicas responsables de la operación del Programa que no cumplan con los lineamientos de la presente Ley, serán sancionados de conformidad con los ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 25.
 
-Los servidores públicos deberán abstenerse de condicionar o negar el otorgamiento del Apoyo a los Beneficiarios, así como emplearlo con fines partidistas o personales.
+Las personas servidoras públicas deberán abstenerse de condicionar o negar el otorgamiento del Apoyo a las personas beneficiarias, así como emplearlo con fines partidistas o personales.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 26.
 
-La secretaría debe tomar las medidas necesarias para la protección de los datos personales de los beneficiarios del apoyo que prevé esta ley, en apego a la Ley de Transparencia y Accesos a la Información Pública del Estado de Morelos, su Reglamento y demás normativa aplicable.
+La secretaría debe tomar las medidas necesarias para la protección de los datos personales de las personas beneficiarias del apoyo que prevé esta ley, en apego a la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos, su Reglamento y demás normativa aplicable.
 
 ## TRANSITORIOS
 
@@ -370,3 +386,13 @@ P.O. 14 DE JUNIO DE 2023.
 PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y SEIS.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE APOYO ALIMENTARIO PARA PERSONAS CON DISCAPACIDAD PERMENENTE (SIC) TOTAL Y EN POBREZA EXTREMA DEL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO Y ARMONIZACIÓN LEGISLATIVA”.]
+
+PRIMERO. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERO. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
