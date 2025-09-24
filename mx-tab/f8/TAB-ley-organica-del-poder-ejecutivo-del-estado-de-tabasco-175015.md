@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-175015"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-09"
-last_updated: "2025-06-11"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 9 de noviembre de 2024.
 
@@ -177,9 +177,17 @@ IV. No haber sido condenado o condenada por sentencia firme por delito doloso qu
 
 V. No estar inscrita o inscrito en el Registro Estatal de Obligaciones Alimentarias;
 
-VI. Contar, preferentemente, con estudios profesionales relativos al ejercicio de las atribuciones o experiencia en actividades laborales, profesionales o académicas en la materia que le compete al ente público de que se trate; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-VII. No estar inhabilitado o inhabilitada para desempeñar un empleo, cargo o comisión.
+VI. Contar, preferentemente, con estudios profesionales relativos al ejercicio de las atribuciones o experiencia en actividades laborales, profesionales o académicas en la materia que le compete al ente público de que se trate;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VII. No estar inhabilitado o inhabilitada para desempeñar un empleo, cargo o comisión; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Los demás requisitos que establezcan los ordenamientos en la materia.
 
 La persona titular del Poder Ejecutivo garantizará la paridad de género en la conformación del gabinete, mediante la promoción de la participación equitativa de mujeres y hombres.
 
@@ -941,7 +949,9 @@ A la Secretaría de Turismo y Desarrollo Económico le corresponde el despacho d
 
 I. Formular, conducir y evaluar políticas públicas alineadas con el Plan Estatal de Desarrollo que promuevan el desarrollo turístico y económico sostenible en el Estado;
 
-II. Fungir como representante de la persona titular del Poder Ejecutivo, ante las dependencias e instancias de su sector en el país;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+II. Fungir como representante de la persona titular del Poder Ejecutivo, ante las dependencias e instancias de su sector en el país, así como para realizar trámites materia de su competencia ante entes públicos federales;
 
 III. Diseñar, coordinar y ejecutar los programas de promoción, desarrollo turístico y económico del Estado, con el propósito de posicionar a Tabasco como un destino competitivo, atractivo, turístico y productivo a nivel nacional e internacional;
 
@@ -1031,9 +1041,17 @@ XLV. Promocionar a nivel nacional e internacional, los destinos turísticos del 
 
 XLVI. Desarrollar programas de impulso económico para las personas que desean iniciar o hacer crecer sus negocios, a través de la provisión de microcréditos, capacitación empresarial y asistencia técnica, con el objetivo de fomentar el emprendimiento y mejorar la calidad de vida de las comunidades;
 
-XLVII. Impulsar programas de gobierno para favorecer la generación de empleos en el Estado; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-XLVIII. Las demás previstas en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo del Estado.
+XLVII. Impulsar programas de gobierno para favorecer la generación de empleos en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XLVIII. Realizar la actividad de certificación de marca de los bienes, servicios y productos elaborados o producidos en el Estado de Tabasco ante las autoridades competentes, con el objeto que se formalicen las operaciones que garanticen al público destinatario que los bienes, servicios y productos, que fueron elaborados o producidos poseen una característica, calidad o reputación de origen Tabasqueño; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XLIX. Las demás previstas en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 28.
 
@@ -1621,9 +1639,9 @@ A la Consejería Jurídica del Poder Ejecutivo del Estado le corresponde el desp
 
 I. Coordinar la función jurídica de la Administración Pública, con excepción de la materia fiscal;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-II. Brindar la asistencia jurídica que requiera la persona titular del Poder Ejecutivo en los asuntos que ésta le encomiende y encargarse de los asuntos jurídicos que requiera la Oficina de la Gubernatura y representación legal;
+II. Brindar la asistencia jurídica que requiera la persona titular del Poder Ejecutivo en los asuntos que ésta le encomiende;
 
 > <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2025)</small>
 
@@ -1635,31 +1653,45 @@ IV. Elaborar y revisar los proyectos de leyes, reglamentos, decretos, acuerdos, 
 
 V. Emitir, cuando así lo solicite la persona titular del Poder Ejecutivo, la opinión correspondiente sobre los proyectos de convenios, acuerdos y programas a celebrarse con el Gobierno Federal, otros estados y los municipios de la entidad;
 
-VI. Proponer a la persona titular del Poder Ejecutivo las iniciativas de leyes, decretos, reglamentos y acuerdos, sus reformas, adiciones o derogaciones, que sean necesarias para sustentar debidamente las políticas públicas, considerando la opinión de las Dependencias y Entidades de la Administración Pública, relacionadas con el proyecto respectivo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Proponer a la persona titular del Poder Ejecutivo las iniciativas de leyes, decretos, reglamentos y acuerdos, sus reformas, adiciones o derogaciones, que sean necesarias para sustentar debidamente las políticas públicas, considerando la opinión de las Dependencias, Órganos y Entidades de la Administración Pública, relacionadas con el proyecto respectivo;
 
 VII. Elaborar los nombramientos que la persona titular del Poder Ejecutivo determine y someterlos a su firma;
 
 VIII. Sistematizar, compilar y difundir la información jurídica del Estado, haciendo uso de los medios tradicionales, así como de las tecnologías de información y comunicación que facilite el conocimiento de la población en general;
 
-IX. Prestar la asesoría jurídica necesaria, de conformidad con las directrices de la persona titular del Poder Ejecutivo, en asuntos en los que intervengan varias Dependencias y Entidades;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+IX. Prestar la asesoría jurídica necesaria, de conformidad con las directrices de la persona titular del Poder Ejecutivo, en asuntos en los que intervengan varias Dependencias, Órganos y Entidades;
 
 X. Coordinar la debida armonización y congruencia de los programas de normatividad jurídica de la Administración Pública que deban ser aprobados por la persona titular del Poder Ejecutivo;
 
-XI. Nombrar y, en su caso, remover a los titulares de las Unidades de Apoyo Jurídico de las Dependencias y Entidades, quienes estarán adscritos administrativa y presupuestalmente a esta Consejería, así como coordinar y supervisar sus actividades;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XI. Nombrar y, en su caso, remover a los titulares de las Unidades de Apoyo Jurídico de las Dependencias, Órganos y Entidades, quienes estarán adscritos administrativa y presupuestalmente a esta Consejería, así como coordinar y supervisar sus actividades;
 
 XII. Definir, unificar, sistematizar y difundir los criterios para la interpretación de las disposiciones jurídicas sustantivas y orgánicas que normen el funcionamiento de la Administración Pública, observándose los principios de constitucionalidad y legalidad;
 
-XIII. Formular, en forma conjunta con la Secretaría de Gobierno, el proyecto de agenda legislativa de la persona titular del Poder Ejecutivo, atendiendo a las propuestas de las Dependencias y Entidades, y someterlo a su consideración;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XIII. Formular, en forma conjunta con la Secretaría de Gobierno, el proyecto de agenda legislativa de la persona titular del Poder Ejecutivo, atendiendo a las propuestas de las Dependencias, Órganos y Entidades, y someterlo a su consideración;
 
 XIV. Prestar apoyo y asesoría en materia jurídica a los municipios que lo soliciten, sin menoscabo de la competencia de otras Dependencias;
 
 XV. Representar a la persona titular del Poder Ejecutivo en las acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XVI. Fungir como representante legal o jurídico de la persona titular del Poder Ejecutivo y de las Dependencias y Entidades en los juicios o negocios en que intervenga, con cualquier carácter, cuando se tenga interés jurídico o se afecte el patrimonio del Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-XVII. Fungir como representante jurídico de la persona titular del Poder Ejecutivo y de las Dependencias y Entidades en todos los juicios laborales en términos de las disposiciones legales aplicables;
+XVI. Fungir como representante legal o jurídico de la persona titular del Poder Ejecutivo y de las Dependencias, Órganos y Entidades en los juicios o negocios en que intervenga, con cualquier carácter, cuando se tenga interés jurídico o se afecte el patrimonio del Estado;
 
-XVIII. Emitir recomendaciones, opiniones y, en su caso, resolver las consultas que en materia jurídica le sean planteadas por la persona titular del Poder Ejecutivo, las Dependencias y Entidades, derivadas de la atención en los Centros Integradores;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XVII. Fungir como representante jurídico de la persona titular del Poder Ejecutivo y de las Dependencias, Órganos y Entidades en todos los juicios laborales en términos de las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XVIII. Emitir recomendaciones, opiniones y, en su caso, resolver las consultas que en materia jurídica le sean planteadas por la persona titular del Poder Ejecutivo, las Dependencias, Órganos y Entidades, derivadas de la atención en los Centros Integradores;
 
 XIX. Tramitar y substanciar debidamente los expedientes de expropiación, de ocupación temporal o de limitación de dominio, conforme a los términos de la ley de la materia, así como, refrendar los títulos de propiedad que legalmente expida la persona titular del Poder Ejecutivo;
 
@@ -1667,21 +1699,31 @@ XX. Revisar y, en su caso, validar todos los contratos, convenios, acuerdos, dec
 
 XXI. Tramitar, substanciar y dejar en estado de resolución los recursos administrativos que competan a la persona titular del Poder Ejecutivo, así como los del área de su competencia;
 
-XXII. Promover y coordinar la formación de grupos de trabajo dentro de la Consejería Jurídica y otras Dependencias y Entidades u otras entidades federativas, para el análisis y resolución de los asuntos jurídicos que le encomiende la persona titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XXII. Promover y coordinar la formación de grupos de trabajo dentro de la Consejería Jurídica y otras Dependencias, Órganos y Entidades u otras entidades federativas, para el análisis y resolución de los asuntos jurídicos que le encomiende la persona titular del Poder Ejecutivo;
 
 XXIII. Intervenir en los juicios de amparo en representación o sustitución de la persona titular del Poder Ejecutivo cuando sea señalada como autoridad responsable o en su caso como tercero interesado, elaborando los informes previos y justificados, así como atender las promociones o requerimientos e interponer los recursos que procedan conforme a la Ley de la materia;
 
 XXIV. Asignar a las distintas Dependencias los asuntos jurídicos que por acuerdo de la persona titular del Poder Ejecutivo requieran del análisis, intervención directa, y resolución dentro del ámbito de su competencia;
 
-XXV. Certificar en la esfera de su competencia, los documentos expedidos por la persona titular del Poder Ejecutivo y aquellos expedidos por la propia dependencia; en su caso, las personas titulares de las Unidades de Apoyo Jurídico de las Dependencias y Entidades deberán certificar copias de los documentos que se encuentren en sus archivos, y solo podrán expedirlos por mandato de autoridad debidamente fundado y motivado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-XXVI. Emitir los lineamientos generales para la suscripción de convenios, contratos y demás instrumentos jurídicos que en el ámbito de sus respectivas competencias acuerden las Dependencias y Entidades;
+XXV. Certificar en la esfera de su competencia, los documentos expedidos por la persona titular del Poder Ejecutivo y aquellos expedidos por la propia dependencia; en su caso, las personas titulares de las Unidades de Apoyo Jurídico de las Dependencias, Órganos y Entidades deberán certificar copias de los documentos que se encuentren en sus archivos, y solo podrán expedirlos por mandato de autoridad debidamente fundado y motivado;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XXVI. Emitir los lineamientos generales para la suscripción de convenios y demás instrumentos jurídicos que en el ámbito de sus respectivas competencias acuerden las Dependencias, Órganos y Entidades;
 
 XXVII. Realizar estudios e investigaciones en materia legislativa, a fin de que la persona titular del Poder Ejecutivo cuente con la información necesaria para que, en su caso, promueva las iniciativas correspondientes ante el Congreso del Estado;
 
-XXVIII. Atender las consultas que formulen las Dependencias, Entidades y ayuntamientos, sobre interpretación de leyes, reglamentos, decretos, acuerdos y circulares de cualquier índole, sea cual fuere su forma de expedición;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-XXIX. Participar en la disolución, fusión, liquidación y extinción de las Dependencias y Entidades, en razón de haber cumplido su cometido, o por la incorporación de sus funciones o atribuciones a otras instancias del Gobierno del Estado, en coordinación con las autoridades competentes;
+XXVIII. Atender las consultas que formulen las Dependencias, Órganos, Entidades y ayuntamientos, sobre interpretación de leyes, reglamentos, decretos, acuerdos y circulares de cualquier índole, sea cual fuere su forma de expedición;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XXIX. Participar en la disolución, fusión, liquidación y extinción de las Dependencias, Órganos y Entidades, en razón de haber cumplido su cometido, o por la incorporación de sus funciones o atribuciones a otras instancias del Gobierno del Estado, en coordinación con las autoridades competentes;
 
 XXX. Realizar los estudios necesarios que permitan conducir los aspectos técnicos, financieros de los recursos y servicios comprendidos en el programa de transferencia de servicios públicos a los municipios, así como los aspectos legales correspondientes;
 
@@ -1695,9 +1737,17 @@ XXXIII. Coadyuvar con la Secretaría Anticorrupción y Buen Gobierno en la regul
 
 XXXIV. Coordinar la integración y establecimiento de la Junta Local de Conciliación y Arbitraje del Estado y sus Juntas Especiales 1, 2 y 3, en términos de lo dispuesto por la Ley Federal del Trabajo, así como, las comisiones que se formen para regular las relaciones obrero patronales y vigilar su funcionamiento, en términos de las demás disposiciones legales en materia de trabajo, sin perjuicio de su autonomía e independencia jurisdiccional;
 
-XXXV. Participar, con la Secretaría de Gobierno y la Secretaría de Administración y Finanzas, en la conducción de las relaciones laborales con los trabajadores al servicio de la Administración Pública, en términos de la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás disposiciones aplicables en la materia; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-XXXVI. Las demás que se prevean en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
+XXXV. Participar, con la Secretaría de Gobierno y la Secretaría de Administración y Finanzas, en la conducción de las relaciones laborales con los trabajadores al servicio de la Administración Pública, en términos de la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás disposiciones aplicables en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XXXVI. Emitir los lineamientos generales para la gestión de las validaciones jurídicas solicitadas por las Dependencias, Órganos y Entidades, derivadas de las obligaciones de pago con motivo de las resoluciones emitidas por la autoridad competente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XXXVII. Las demás que se prevean en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
 
 ## Título Tercero. Administración Pública Paraestatal
 
@@ -1878,3 +1928,13 @@ SEGUNDO. Las autoridades correspondientes deberán llevar a cabo los ajustes adm
 TERCERO. Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
 
 CUARTO. Las Entidades deberán realizar los trámites correspondientes en el presente ejercicio fiscal, para que a más tardar el 1 de enero de 2026 cuenten con sus órganos internos de control en sus estructuras y el presupuesto autorizado para su operación.
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 137 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 11, FRACCIONES VI Y VII; 27, FRACCIONES II, XLVII Y XLVIII; 35, FRACCIONES II, VI, IX, XI, XIII, XVI, XVII, XVIII, XXII, XXV, XXVI, XXVIII, XXIX, XXXV Y XXXVI; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 11; LA FRACCIÓN XLIX AL ARTÍCULO 27; Y LA FRACCIÓN XXXVII AL ARTÍCULO 35, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en cualquier ordenamiento se hagan referencias a las Unidades de Asuntos Jurídicos y Transparencia, Unidades Jurídicas, Direcciones de Asuntos Jurídicos, Direcciones de Asuntos Jurídicos y Transparencia, o cualquier otra denominación equivalente, se entenderá hecha a las "Unidades de Apoyo Jurídico".
