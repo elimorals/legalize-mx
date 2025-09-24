@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2024-05-25"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -132,6 +132,10 @@ XVI.- Siendo el agua recurso vital para el desarrollo de nuestro Estado, se impu
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 XVII.- Promover en la población del Estado, el establecimiento de una cultura en materia de protección civil, con el fin de que la misma se encuentre preparada ante la presencia de desastres o contingencias que pongan en peligro su seguridad, pudiendo así mitigar los efectos negativos que estos producen.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+En la realización de simulacros, ejercicios o actividades simuladas, se evitarán recrear escenarios de violencia, que vulneren la integridad de los estudiantes, en todos los ámbitos escolares;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
@@ -2548,3 +2552,11 @@ P.O. 25 DE MAYO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 135 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XVII DEL ARTÍCULO 9, DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
