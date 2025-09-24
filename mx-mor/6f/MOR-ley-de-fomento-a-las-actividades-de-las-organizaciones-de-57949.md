@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-57949
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2017-03-01"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
@@ -159,27 +159,35 @@ La Secretaría deberá de expedir la constancia de registro a todas las organiza
 
 La Secretaría deberá conservar las constancias de solicitud y registro promovidas por las organizaciones en los términos previstos en la Ley Estatal de Documentación y Archivos de Morelos y la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 9.
 
-La Comisión de Fomento a las actividades de las Organizaciones se crea para facilitar la coordinación en el diseño, ejecución, seguimiento y evaluación de las acciones y medidas para el fomento de las actividades establecidas en la fracción I, del artículo 1 de esta Ley.
+La Comisión de Fomento a las actividades de las Organizaciones se crea para facilitar la coordinación en el diseño, ejecución, seguimiento y evaluación de las acciones y medidas para el fomento de las actividades establecidas en la fracción I del artículo 1 de esta ley.
 
 Dicha Comisión se integrará de la siguiente manera:
 
-I. Un representante de la Secretaría,
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-II. Un representante de la Secretaría de la Contraloría Estatal o Municipal según corresponda,
+I. Una persona representante de la Secretaría,
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-III. Un representante del Poder Legislativo del Estado, que para el caso de la Comisión Estatal, deberá ser el Diputado Presidente de la Comisión de Participación Ciudadana y Reforma Política; Respecto de las Comisiones Municipales, será el Regidor que presida dicha Comisión; En el supuesto de que no exista esta Comisión en algunos Municipios, corresponderá al cabildo designar al Regidor que represente al Municipio.
+II. Una persona representante de la Secretaría de la Contraloría Estatal o Municipal según corresponda.
 
-IV. Dos representantes de las organizaciones, los cuales serán designados conforme la convocatoria y al procedimiento establecido en el reglamento de la presente Ley.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+III. Una persona representante del Poder Legislativo del Estado, que, para el caso de la Comisión Estatal, deberá ser la persona legisladora que presida de (sic) la Comisión de Participación Ciudadana y Reforma Política; Respecto de las Comisiones Municipales, será la persona titular de la regiduría que presida dicha Comisión; En el supuesto de que no exista esta Comisión en algunos Municipios, corresponderá al cabildo designar a la persona regidora que represente al Municipio.
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Dos personas representantes de las organizaciones, los cuales serán designados conforme la convocatoria y al procedimiento establecido en el reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 10.
 
-La comisión deberá sesionar cuando menos una vez por mes, dichas sesiones serán presididas por el representante de la Secretaría, en las cuales las determinaciones serán aprobadas por mayoría.
+La comisión deberá sesionar cuando menos una vez por mes, dichas sesiones serán presididas por la persona representante de la Secretaría, en las cuales las determinaciones serán aprobadas por mayoría.
 
 ###### Artículo 11.
 
@@ -211,7 +219,9 @@ VI. Convocar a las sesiones mencionadas en el artículo anterior y su procedimie
 
 VII. Invitar a las dependencias o entidades en el ámbito de su competencia a participar en el desarrollo de las actividades consistentes en foros, consultas, propuestas y demás relacionadas con su naturaleza.
 
-VIII. Entregar un informe semestral de las acciones de fomento y de los apoyos y estímulos otorgados a favor de organizaciones que se acojan a esta ley, al Titular del Ejecutivo Estatal o Municipal, según sea el caso para efectos de su evaluación y publicación en términos de lo dispuesto por la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Entregar un informe semestral de las acciones de fomento y de los apoyos y estímulos otorgados a favor de organizaciones que se acojan a esta ley, a la persona Titular del Ejecutivo Estatal o Municipal, según sea el caso, para efectos de su evaluación y publicación en términos de lo dispuesto por la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
 
 La comisión deberá establecer las disposiciones reglamentarias necesarias para cumplimentar lo dispuesto en las fracciones II a VIII del presente artículo.
 
@@ -253,9 +263,13 @@ V. Abstenerse de realizar actividades políticas o religiosas, y en general toda
 
 VI. Dar a conocer a la Secretaría las actividades que desempeñaran, en los términos de la presente Ley.
 
-VII. Promover La profesionalización y capacitación de sus integrantes.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-VIII. Notificar a la Secretaría la disolución de la organización, así como el destino y beneficiario de los bienes que le hayan sido otorgados como apoyo, en términos de la disolución.
+VII. Promover la profesionalización y capacitación de las personas integrantes.
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Notificar a la Secretaría la disolución de la organización, así como el destino y nombre de las personas beneficiarias de los bienes que le hayan sido otorgados como apoyo, en términos de la disolución.
 
 ### CAPÍTULO CUARTO. De las bases para el fomento de las organizaciones
 
@@ -279,11 +293,11 @@ Las organizaciones deberán acudir en su caso, ante la Comisión Estatal o Munic
 
 Las organizaciones para participar en las acciones previstas por esta Ley, deberán llevar a cabo su registro único ante la Secretaría Estatal, el cual será vinculatorio con las actividades estatales y municipales, constituyéndose con independencia del inscrito ante el Registro Público de la Propiedad y del Comercio del Estado.
 
-> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 18.
 
-La Secretaría Estatal, con el objeto de mantener el registro actualizado de las organizaciones participantes deberá llevar el control en los libros de gobierno que para el efecto se autoricen con la firma del Secretario, debidamente entresellados y foliados.
+La Secretaría Estatal, con el objeto de mantener el registro actualizado de las organizaciones participantes deberá llevar el control en los libros de gobierno que para el efecto se autoricen con la firma de la persona titular de la Secretaría, debidamente entre sellados y foliados.
 
 ###### Artículo 19.
 
@@ -291,7 +305,9 @@ En el libro de gobierno que se lleve el registro de las organizaciones se hará 
 
 a) Razón social o denominación;
 
-b) Nombre del o los representantes;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+b) Nombre de las personas representantes;
 
 c) Objeto;
 
@@ -299,7 +315,9 @@ d) Domicilio;
 
 e) Fecha de su constitución; e
 
-f) Integrantes.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+f) Nombre de las personas que las integran.
 
 ###### Artículo 20.
 
@@ -339,9 +357,9 @@ VII. La falta de justificación o justificación incompleta de los apoyos y est�
 
 VIII. Realizar cualquier tipo de actividades que pudiera generar resultados que impliquen proselitismo político, a favor o en contra, de algún partido o candidato a cargo de elección popular o de índole religioso.
 
-ADICIONADA, P.O. 28 DE MAYO DE 2014)
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-IX. Realizar actividades de autobeneficio o beneficio mutuo, distribuir remanentes financieros o materiales provenientes de los apoyos o estímulos públicos entre sus integrantes.
+IX. Realizar actividades de autobeneficio o beneficio mutuo, distribuir remanentes financieros o materiales provenientes de los apoyos o estímulos públicos entre las personas integrantes.
 
 ###### Artículo 24.
 
@@ -500,3 +518,13 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y UNO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO".]
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
