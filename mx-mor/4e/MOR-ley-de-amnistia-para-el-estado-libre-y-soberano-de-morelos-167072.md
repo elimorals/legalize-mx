@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-amnistia-para-el-estado-libre-y-soberano-de-morelos-1670
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-19"
-last_updated: "2023-07-19"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE AMNISTÍA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Número 6211 del Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2023.
 
@@ -67,9 +67,13 @@ V. Estado, al Estado de Morelos;
 
 VI. Fiscalía General, a la Fiscalía General del Estado de Morelos;
 
-VII. Integrante de un pueblo o comunidad indígena o afro mexicana (sic), a la Persona que pertenece a una comunidad, integrantes de un pueblo originario o afro mexicana (sic) en los términos reconocidos por el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos y los instrumentos internacionales en la materia;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-VIII. Juez Competente, al juez que conoce de la causa por la cual se solicita amnistía, dependiendo de la etapa procesal en la que se encuentre ésta, siendo en el Sistema Acusatorio el Juez de Control quien conocerá de solicitudes de personas que están vinculadas a proceso y aún no se haya dictado auto de apertura a juicio oral; Juez de Juicio o Tribunal de Enjuiciamiento, sobre procesos en etapa de juicio y Juez de Ejecución tratándose de personas con sentencia firme;
+VII. Persona de un pueblo o comunidad indígena o afromexicana, a las Personas que pertenecen a una comunidad de un pueblo originario o afromexicano en los términos reconocidos por el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos y los instrumentos internacionales en la materia;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Juez o Jueza competente, a la Persona juzgadora que conoce de la causa por la cual se solicita amnistía, dependiendo de la etapa procesal en la que se encuentre ésta, siendo en el Sistema Acusatorio el Juez o Jueza de Control quien conocerá de solicitudes de personas que están vinculadas a proceso y aún no se haya dictado auto de apertura a juicio oral; Juez o Jueza de Juicio o Tribunal de Enjuiciamiento, sobre procesos en etapa de juicio y Juez o Jueza de Ejecución tratándose de personas con sentencia firme;
 
 IX. Ley, a la Ley de Amnistía para el Estado Libre y Soberano de Morelos;
 
@@ -79,11 +83,15 @@ XI. Ley Nacional, a la Ley Nacional de Ejecución Penal;
 
 XII. Junta, a la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Morelos;
 
-XIII. Órgano Jurisdiccional, al Juez de Primera instancia en Materia Penal o sala de segunda instancia del Tribunal Superior de Justicia, y al Juez Especializado o Magistrado del Tribunal de Justicia para Adolescentes, en la que se haya emitido una sentencia definitiva o se esté llevando a cabo el juicio respectivo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XIII. Órgano Jurisdiccional, al Juez o Jueza de Primera instancia en Materia Penal o Sala de Segunda Instancia del Tribunal Superior de Justicia, y al Juez o Jueza Especializados, Magistrada o Magistrado del Tribunal de Justicia Penal para Adolescentes, en la que se haya emitido una sentencia definitiva o se esté llevando a cabo el juicio respectivo;
 
 XIV. Persona en situación de pobreza, a la persona que al menos tiene una carencia social en los indicadores de rezago educativo; acceso a servicios de salud; acceso a la seguridad social; calidad y espacios de la vivienda y servicios básicos en la vivienda, así como de acceso a la alimentación, y su ingreso es insuficiente para adquirir los bienes y servicios que requiere para satisfacer sus necesidades alimentarias y no alimentarias;
 
-XV. Persona en situación de vulnerabilidad y discriminación, a la persona que debido a determinadas condiciones sociales, culturales o psicológicas tiene mayor riesgo de que sus derechos humanos sean violados, quien puede formar parte de los grupos siguientes: mujeres violentadas; personas con VIH/SIDA; personas discriminadas por su orientación sexual, identidad de género o expresión de género; personas con alguna enfermedad mental; personas con discapacidad permanente; personas de las comunidades indígenas, pueblos originarios, afro mexicanos (sic) o afrodescendientes; jornaleros agrícolas; personas migrantes; personas desplazadas internas; personas en situación de calle; personas adultas mayores; personas defensoras de derechos humanos, entre otros;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+XV. Persona en situación de vulnerabilidad y discriminación, a la persona que debido a determinadas condiciones sociales, culturales o psicológicas tiene mayor riesgo de que sus derechos humanos sean violados, quien puede formar parte de los grupos siguientes: mujeres violentadas; personas con VIH/SIDA; personas discriminadas por su orientación sexual, identidad de género o expresión de género; personas con alguna enfermedad mental; personas con discapacidad permanente; personas de las comunidades indígenas, pueblos originarios, afro mexicanos o afrodescendientes; personas jornaleras agrícolas; personas migrantes; personas desplazadas internas; personas en situación de calle; personas adultas mayores; personas defensoras de derechos humanos, entre otros;
 
 XVI. Persona interesada, a la persona legitimada que presente una solicitud ante el órgano jurisdiccional o autoridad competentes, que pretenda acceder a los beneficios de la amnistía, ya sea que se trate directamente de la persona que se encuentra en los supuestos previstos en el artículo 1 de esta Ley o por medio de un peticionario, entendiéndose por este a quien tenga la capacidad de solicitar la amnistía en favor de la primera, y
 
@@ -99,7 +107,9 @@ a) Se impute a la madre del producto del embarazo interrumpido;
 
 b) Se impute a las y los médicos, cirujanos, enfermeras, enfermeros, comadronas o parteras, u otro personal autorizado de servicios de la salud, que hayan auxiliado en la interrupción del embarazo, siempre que la conducta delictiva se haya llevado a cabo sin violencia y con el consentimiento de la madre del producto del embarazo interrumpido, y
 
-c) Se impute a los parientes consanguíneos de la madre del producto que hayan auxiliado en la interrupción del embarazo, y exista consentimiento de la madre para dicha circunstancia.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+c) Se impute a las personas parientes consanguíneos de la mujer gestante o persona con capacidad de gestar del producto que hayan auxiliado en la interrupción del embarazo, y exista consentimiento de la madre para dicha circunstancia.
 
 II. Por los delitos contra la salud de los cuales conozca el Órgano Jurisdiccional, en términos del artículo 474 de la Ley General, cuando:
 
@@ -159,7 +169,9 @@ II. Tratándose de personas con sentencia firme, se realizarán las actuaciones 
 
 Son supletorias de esta Ley en lo que correspondan, el Código Nacional y la Ley Nacional de Ejecución Penal.
 
-Las solicitudes también podrán ser presentadas por personas que tengan relación de parentesco por consanguinidad o afinidad hasta el cuarto grado con el interesado, o bien por organizaciones u organismos públicos defensores de derechos humanos debidamente registrados y sin fines de lucro.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
+Las solicitudes también podrán ser presentadas por personas que tengan relación de parentesco por consanguinidad o afinidad hasta el cuarto grado con la persona interesada, o bien por organizaciones u organismos públicos defensores de derechos humanos debidamente registrados y sin fines de lucro.
 
 ###### Artículo 6.
 
@@ -169,9 +181,11 @@ Las personas que se encuentren sustraídas de la acción de la justicia por deli
 
 Los efectos de esta Ley se producirán a partir de que el Órgano Jurisdiccional se pronuncie sobre el otorgamiento de la amnistía.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-La amnistía extingue las acciones penales y las sanciones impuestas respecto de los delitos que se establecen en esta Ley, dejando en su caso subsistente la responsabilidad civil y a salvo los derechos de quienes puedan exigirla, así como los derechos de las víctimas y ofendidos de conformidad con la legislación aplicable.
+La amnistía extingue las acciones penales y las sanciones impuestas respecto de los delitos que se establecen en esta Ley, dejando en su caso subsistente la responsabilidad civil y a salvo los derechos de quienes puedan exigirla, así como los derechos de las víctimas y personas ofendidas de conformidad con la legislación aplicable.
 
 Las personas que obtengan su libertad con base en esta ley no podrán ejercer acción civil, penal, administrativa o de otra índole en contra del Estado o de quien en su caso fue sujeto pasivo del delito por el que estuvo privado de la libertad; salvo en los casos en que se haya obtenido una recomendación por parte de un organismo defensor de derechos humanos, por violaciones a derechos fundamentales o al debido proceso, para ejercer alguna acción legal en contra del Estado derivado de una mala impartición de justicia.
 
@@ -185,11 +199,13 @@ En los casos en que estén pendiente (sic) de resolución recursos en segunda in
 
 Las personas a quienes beneficie esta Ley no podrán ser en lo futuro detenidas ni procesadas por los mismos hechos; por lo que la Junta ordenará la cancelación de los antecedentes penales del delito por el que se aplica amnistía.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 11.
 
-La Junta ordenará el archivo de la solicitud de amnistía, cuando se logre la liberación del solicitante o el desistimiento del ejercicio de la acción penal.
+La Junta ordenará el archivo de la solicitud de amnistía, cuando se logre la liberación de la persona solicitante o el desistimiento del ejercicio de la acción penal.
 
-Procede la conclusión del trámite de amnistía, en el caso de que se deseche la solicitud por notoriamente improcedente, sin afectar la continuación de la investigación o cualquier etapa de proceso o de la ejecución penal que se esté instruyendo en contra del solicitante.
+Procede la conclusión del trámite de amnistía, en el caso de que se deseche la solicitud por notoriamente improcedente, sin afectar la continuación de la investigación o cualquier etapa de proceso o de la ejecución penal que se esté instruyendo en contra de la persona solicitante.
 
 ###### Artículo 12.
 
@@ -220,3 +236,15 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y OCHO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AMNISTÍA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO”.]
+
+PRIMERO. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERO. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
