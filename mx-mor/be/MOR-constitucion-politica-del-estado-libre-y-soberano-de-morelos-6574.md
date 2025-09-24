@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2025-08-01"
+last_updated: "2025-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,7 +26,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -966,17 +966,13 @@ Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al de
 
 El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el uno de septiembre y terminará el quince de diciembre; el segundo empezará el uno de febrero y concluirá el quince de julio. El Congreso se ocupará, conforme a sus facultades, del examen y la revisión de los informes sobre la cuenta pública del Estado, a través de la Entidad Superior de Auditoría y Fiscalización, mismos que se presentarán trimestralmente, a más tardar el último día hábil del mes siguiente a aquel en que concluya cada trimestre de calendario, conforme al avance de gestión financiera en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar y, en su caso, del programa financiero.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-El Congreso del Estado a más tardar el 1 de octubre de cada año recibirá para su examen, discusión y aprobación la iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente en el que se deberá respetar el porcentaje que en términos de esta Constitución está determinado para el Poder Judicial, así como las iniciativas de Ley de Ingresos del Estado y de los Ayuntamientos. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado a más tardar el 15 de noviembre de ese año. Teniendo la obligación el Congreso del Estado de aprobarlas a más tardar el 15 de diciembre de cada año. Los Presidentes Municipales que inicien su encargo, presentarán al Congreso del Estado a más tardar el 1 de febrero la iniciativa de Ley de Ingresos del Ejercicio Fiscal actual. Teniendo la obligación el Congreso del Estado de aprobarlas a más tardar el último día de febrero del año que corresponda. De manera transitoria, se utilizarán los parámetros aprobados para el Ejercicio Fiscal inmediato anterior de cada ayuntamiento, para los meses de enero y febrero o hasta en tanto la Legislatura apruebe la nueva Ley de Ingresos.
+El Congreso del Estado a más tardar el 15 de noviembre de cada año recibirá para su examen, discusión y aprobación la iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente en el que se deberá respetar el porcentaje que en términos de esta Constitución está determinado para el Poder Judicial, así como la iniciativa de Ley de Ingresos del Estado; Los Ayuntamientos deberán presentar sus respectivas leyes de Ingresos para el Ejercicio Fiscal siguiente, a más tardar el 1 de octubre del año en curso. El Congreso del Estado tiene la obligación de aprobarlas a más tardar el 15 de diciembre de cada año. Los Ayuntamientos, cuando inicien su periodo, presentarán al Congreso del Estado, a más tardar el 1 de febrero, la iniciativa de Ley de Ingresos del Ejercicio Fiscal actual. Teniendo la obligación el Congreso del Estado de aprobarlas a más tardar el último día de febrero del año que corresponda. De manera transitoria, se utilizarán los parámetros aprobados para el Ejercicio Fiscal inmediato anterior de cada ayuntamiento, para los meses de enero y febrero o hasta en tanto la Legislatura apruebe la nueva Ley de Ingresos.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
-Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado a más tardar el quince de noviembre de ese año.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
-
-El año en el que los ayuntamientos inicien su encargo, podrán presentar al Congreso del Estado a más tardar el treinta y uno de enero, una nueva Iniciativa de Ley de Ingresos que abrogue la ya aprobada o que reforme a la vigente. El Congreso deberá discutirla y aprobarla a más tardar el último día de febrero de ese año.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -5871,3 +5867,13 @@ SÉPTIMA. La Presidenta del Instituto de la Mujer del Estado de Morelos, conclui
 OCTAVA. Los derechos laborales de las personas trabajadoras del Instituto de la Mujer, serán respetados en su totalidad, en términos de esta Constitución.
 
 NOVENA. Se abroga la Ley del Instituto de la Mujer para el Estado de Morelos; así como, todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS CUARENTA Y NUEVE.- POR EL QUE SE REFORMA, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 32, Y SE DEROGAN LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Aprobado que fue por el Constituyente Permanente Local y hecha la Declaratoria emitida por la Quincuagésima Sexta Legislatura del Congreso del Estado; con fecha cuatro de septiembre de dos mil veinticinco, remítase el presente Decreto a la Gobernadora Constitucional del Estado, para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA.- El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
