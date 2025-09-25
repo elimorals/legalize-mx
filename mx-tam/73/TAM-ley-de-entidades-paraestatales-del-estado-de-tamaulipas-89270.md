@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-entidades-paraestatales-del-estado-de-tamaulipas-89270"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2025-08-26"
+last_updated: "2025-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 30 de agosto de 2012.
 
@@ -55,9 +57,9 @@ Las entidades de la administración pública paraestatal son aquellas que se det
 
 1. Los organismos a los que la Constitución Política del Estado y las leyes que de ésta emanen, otorguen autonomía, se regirán por sus leyes específicas, quedando excluidos de la aplicación de esta ley.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-2. También quedan exceptuadas de las disposiciones de esta Ley, la Universidad Autónoma de Tamaulipas y las demás instituciones educativas a las que la ley otorgue autonomía, las cuales se regirán por sus leyes específicas.
+2. También quedan exceptuadas de las disposiciones de esta Ley, la Universidad Autónoma de Tamaulipas y las demás instituciones educativas, a las que la ley otorgue autonomía, las que se rigen por sus leyes específicas; y el Instituto de Previsión y Seguridad Social del Estado de Tamaulipas.
 
 ###### ARTÍCULO 4.
 
@@ -91,9 +93,9 @@ Corresponderá al Gobernador o, en su caso, a los titulares de las dependencias 
 
 1. Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten, así como las que les requieran las demás dependencias.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-2. Para el cumplimiento de lo antes establecido, la dependencia coordinadora del sector, conjuntamente con la Secretaría de Finanzas y la Secretaría Anticorrupción y Buen Gobierno, harán compatibles los requerimientos de información que demanden las dependencias y entidades, supervisando para tal efecto la información proporcionada.
+2. Para el cumplimiento de lo antes establecido, la dependencia coordinadora del sector, conjuntamente con la Secretaría de Finanzas, Secretaría de Administración y la Secretaría Anticorrupción y Buen Gobierno, harán compatibles los requerimientos de información que demanden las dependencias y entidades, supervisando para tal efecto la información proporcionada.
 
 ###### ARTÍCULO 8.
 
@@ -735,7 +737,7 @@ En un plazo no mayor a 90 días posteriores a la entrada en vigor del presente D
 
 ###### ARTÍCULO CUARTO.
 
-En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, el Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, deberá de inscribirse en el Registro Estatal de Organismos Descentralizados.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2025)
 
 ###### ARTÍCULO QUINTO.
 
@@ -760,3 +762,15 @@ P.O. 26 DE AGOSTO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-451 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS; Y SE DEROGA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 66-370, EXPEDIDO EL 8 DE JULIO DE 2025, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 83 DE FECHA 10 DE JULIO DE 2025, POR EL QUE REFORMÓ Y ADICIONÓ DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a este Decreto.
