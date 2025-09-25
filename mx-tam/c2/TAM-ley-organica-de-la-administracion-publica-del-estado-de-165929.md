@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2025-07-10"
+last_updated: "2025-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -111,11 +113,13 @@ El Ejecutivo del Estado, para el despacho de los asuntos públicos resolverá, e
 
 1. El Gobernador del Estado determinará la estructura orgánica de cada Dependencia, expedirá los reglamentos internos correspondientes, acuerdos, circulares y demás disposiciones que tiendan a regular el funcionamiento de las Dependencias y Entidades de la Administración Pública Estatal.
 
-2. El titular de cada Secretaría expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la Dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+2. El titular de cada Dependencia y Entidad expedirá los manuales de organización, de perfiles de puestos, de procedimientos y de servicios al público, necesarios para su funcionamiento y de conformidad a la normatividad aplicable.
 
-3. Los manuales administrativos deberán elaborarse conforme a las normas y lineamientos emitidos por la Secretaría Anticorrupción y Buen Gobierno y publicarse en el Periódico Oficial del Estado, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de las personas usuarias y de las propias servidoras y servidores públicos, en el portal de transparencia que opera la Secretaría Anticorrupción y Buen Gobierno.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+
+3. Los manuales de organización, de perfiles de puestos y de procedimientos deberán elaborarse conforme a los lineamientos y/o guías emitidos por la Secretaría Anticorrupción y Buen Gobierno. Los manuales de organización y de perfiles de puestos deberán publicarse en el Periódico Oficial del Estado. Los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de las personas usuarias y de las propias servidoras y servidores públicos, en el portal de transparencia que opera la Secretaría Anticorrupción y Buen Gobierno.
 
 4. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados por parte de los titulares de cada Secretaría.
 
@@ -525,33 +529,45 @@ II. Tramitar los nombramientos, promociones, remociones, cambios de adscripción
 
 III. Observar las disposiciones de la ley que rige las relaciones entre el Gobierno del Estado y sus servidores públicos; y representar al Ejecutivo del Estado ante las autoridades de impartición de justicia laboral, cuando se instauren procedimientos en torno a los derechos de los trabajadores del Estado;
 
-IV. Mantener actualizado el Reglamento de Escalafón y el Tabulador de Sueldos de los servidores públicos del Estado, así como administrar y regular el otorgamiento y pago de pensiones;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-V. Elaborar y vigilar el cumplimiento de las condiciones generales de trabajo de los servidores públicos del Estado;
+IV. Mantener actualizada la normatividad en materia de Escalafón y el Tabulador de Sueldos de los servidores públicos del Estado, así como administrar y regular el otorgamiento y pago de pensiones;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+
+V. Elaborar la normatividad que regule las condiciones generales de trabajo de los servidores públicos del Estado, así como vigilar su cumplimiento;
 
 VI. Otorgar becas, estímulos y promover actividades socioculturales y deportivas para los servidores públicos del Estado, en coordinación con el Instituto Tamaulipeco para la Cultura y las Artes, y el Instituto del Deporte de Tamaulipas;
 
 VII. Programar presupuestalmente la adquisición de los bienes y la contratación de los servicios que requieran las Dependencias de la Administración Pública en los términos que establece la ley respectiva, sin demérito de la naturaleza de las Entidades de la propia administración, y contribuir a la programación presupuestal de las adquisiciones de bienes y contratación de servicios que necesiten. Para la realización de adquisiciones y contrataciones se solicitará la actuación del Comité de Compras y Operaciones Patrimoniales;
 
-VIII. Llevar el inventario, administrar, controlar y vigilar los bienes muebles e inmuebles que son propiedad del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. Llevar el inventario, administrar, controlar y vigilar los bienes muebles e inmuebles que son propiedad del Gobierno del Estado de las Dependencias y Entidades de la Administración Pública;
 
 IX. Dictaminar sobre la procedencia de la enajenación de los bienes propiedad del Gobierno del Estado, así como de las Entidades de la Administración Pública Paraestatal, cumpliendo con los requisitos establecidos en las leyes respectivas;
 
-X. Intervenir, en los términos de las leyes de la materia, en la celebración de contratos de compraventa, seguros, fianzas, comodato, donación y demás en los que se afecte el patrimonio del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XI. Difundir y, en su caso imprimir las publicaciones oficiales, así como mantener un archivo de las mismas en el Archivo General del Estado;
+X. Intervenir, en los términos de las leyes de la materia, en la celebración de contratos, de arrendamiento, compraventa, seguros, fianzas, comodato, donación, convenios de colaboración y coordinación y demás en los que se afecte el patrimonio del Gobierno del Estado;
 
-XII. Organizar y administrar el Archivo General del Poder Ejecutivo del Estado;
+XI. (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2025)
 
-XIII. Concentrar la información de las Dependencias y Entidades que cuenten con valor administrativo, legal o fiscal, estableciendo los lineamientos para su administración, coordinándose con el Instituto Tamaulipeco para la Cultura y las Artes para la valoración y custodia de documentos potencialmente históricos;
+XII. (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2025)
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+
+XIII. Concentrar, en el ámbito de su competencia, la información de las Dependencias y Entidades que cuente con valor administrativo, legal o fiscal, estableciendo los criterios y procedimientos conforme a los cuales deberá ser presentada;
 
 XIV. Administrar la correspondencia oficial de la dependencia y responsabilizarse de su recepción, clasificación, distribución y envío;
 
 XV. Proporcionar la información, cooperación técnica y logística de carácter administrativo, que le sea requerida por otras Dependencias o por Entidades de la Administración Pública;
 
-XVI. Proporcionar servicios generales de intendencia, vigilancia, conservación y mantenimiento preventivo y correctivo de los bienes muebles e inmuebles de las Dependencias y Entidades de la Administración Pública;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XVII. Proveer a los Tribunales Administrativos, con respeto irrestricto a su autonomía jurisdiccional, los servicios generales de apoyo que soliciten;
+XVI. Proporcionar servicios generales de intendencia, vigilancia, conservación y mantenimiento preventivo y correctivo de los bienes muebles e inmuebles de las Dependencias de la Administración Pública;
+
+XVII. (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2025)
 
 XVIII. Dictar las disposiciones y medidas administrativas para el uso y aprovechamiento de los bienes propiedad de Gobierno del Estado, así como para optimizar los espacios físicos de las oficinas del Poder Ejecutivo del Estado;
 
@@ -561,9 +577,13 @@ XX. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
 XXI. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
-XXII. Administrar y mantener actualizado el Padrón de Proveedores de la Administración Pública del Estado, determinando los criterios y procedimientos para clasificar a las personas inscritas en el mismo;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XXIII. Coordinar administrativamente a la entidad estatal denominada Instituto de Previsión y Seguridad Social del Estado de Tamaulipas y las demás Entidades que determine el Ejecutivo del Estado, de acuerdo con la materia de su competencia;
+XXII. Administrar y mantener actualizado el Padrón de Proveedores de la Administración Pública del Estado, clasificando a las personas inscritas conforme a los criterios establecidos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+
+XXIII. Coordinar administrativamente a la entidad estatal denominada Instituto de Previsión y Seguridad Social del Estado de Tamaulipas;
 
 XXIV. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
@@ -575,7 +595,11 @@ XXVI. Colaborar en coordinación con la Secretaría de Finanzas y la Secretaría
 
 XXVII. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
-XXVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+
+XXVIII. Establecer mecanismos de monitoreo en el ámbito de competencia de esta Dependencia que aseguren la eficiencia, eficacia, economía, transparencia y honradez en la administración de los recursos humanos, materiales, físicos y tecnológicos de las Direcciones Administrativas o equivalentes en su función en las Dependencias y Entidades de la Administración Pública Estatal, quienes informarán a la Secretaría de Administración el estado que guarda la unidad administrativa a su cargo, en la periodicidad que dicha dependencia establezca; y
+
+XXIX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección V. De la Secretaría de Economía
 
@@ -1373,17 +1397,17 @@ XXXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones j
 
 A la Secretaría Anticorrupción y Buen Gobierno, le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-I. Organizar, coordinar y supervisar el sistema de control interno en dependencias y entidades de la Administración Pública Estatal, la evaluación de la gestión gubernamental y la mejora continua en el desempeño institucional;
+I. Organizar, coordinar y supervisar el sistema de control interno en dependencias y entidades de la Administración Pública Estatal, la evaluación de la gestión gubernamental y la mejora continua en el desempeño institucional, así como concertar las acciones correspondientes;
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
 
 I Bis. Inspeccionar el ejercicio del gasto público y su congruencia con los presupuestos de egresos y normatividad aplicable, a través de los Órganos Internos de Control en las Dependencias, Comisarias y Comisarios en las Entidades de la Administración Pública Estatal, así como concertar las acciones correspondientes;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-II. Emitir las normas que regulen los instrumentos, procedimientos y sistema de control interno de las dependencias y entidades que impulsen la mejora en la Administración Pública Estatal;
+II. Emitir las normas que regulen los instrumentos, procedimientos y sistema de control interno de las dependencias y entidades que impulsen la mejora en la Administración Pública Estatal, y en su caso, requerir a las dependencias y entidades competentes la expedición de normas complementarias para el ejercicio del control administrativo;
 
 III. Vigilar el cumplimiento de las normas de control interno y fiscalización y en su caso, emitir las observaciones y recomendaciones a las dependencias y entidades de la Administración Pública Estatal;
 
@@ -1441,17 +1465,17 @@ XVIII. Establecer el sistema de quejas y denuncias y hacer difusión del servici
 
 XIX. Conocer e investigar las conductas de las y los servidores públicos de la Administración Pública Estatal y particulares que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, por sí, o por conducto de las autoridades correspondientes en la Secretaría Anticorrupción y Buen Gobierno o los órganos internos de control que correspondan a cada área de la Administración Pública Estatal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Tamaulipas y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables y, en general, ejercer las atribuciones que en materia de responsabilidades corresponden a la autoridad investigadora, a la autoridad substanciadora y a la autoridad resolutora, en términos de las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XX. Analizar y dictaminar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Estatal; en coordinación con las secretarías de Finanzas y Administración, de acuerdo a la normatividad aplicable;
+XX. Emitir los dictámenes de las estructuras orgánicas de las dependencias y entidades de la Administración Pública Estatal; en coordinación con las secretarías de Finanzas y Administración, de acuerdo a la normatividad aplicable;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
 XXI. Verificar a través de los Órganos Internos de Control y las y los comisarios según corresponda, el cumplimiento de la normatividad aplicable en materia de contrataciones públicas, mediante la vigilancia permanente de las disposiciones normativas emitidas por la Secretaría de Administración y la Secretaría de Obras Públicas, así como asesorar a través de sus áreas competentes, en materia de adquisiciones, obras públicas y servicios relacionados con las mismas, cuando así lo requieran las dependencias y entidades de la Administración Pública Estatal, (sic) en su caso, los municipios;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XXII. Vigilar el cumplimiento de las políticas de gobierno digital, gobierno abierto y datos abiertos, en términos de las disposiciones aplicables en el ámbito de las Dependencias y Entidades de la Administración Pública Estatal, impulsando la transparencia proactiva;
+XXII. Vigilar que las dependencias y entidades de la Administración Pública Estatal cumplan con las políticas y acciones emitidas por la Agencia de Innovación e Inteligencia Digital en materia de gobierno digital, gobierno abierto y datos abiertos, sin perjuicio de las atribuciones que la Ley le otorga a la Oficina del Gobernador;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
@@ -1461,29 +1485,29 @@ XXIII. Formular y conducir la política general para establecer medidas que prop
 
 XXIV. Promover el ejercicio de las facultades que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado le (sic) otorga a los órganos internos de control para fiscalizar permanentemente el ingreso, manejo, custodia y ejercicio de recursos públicos estatales;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XXV. Emitir las disposiciones que promuevan la evaluación de la gestión pública para impulsar la mejora y modernización administrativa, supervisando y vigilando el funcionamiento de los sistemas y procedimientos de planeación y control de la Administración Pública Estatal;
+XXV. Emitir las disposiciones que promuevan la evaluación de la gestión pública para impulsar la mejora y modernización administrativa, dando seguimiento a los aspectos susceptibles de mejora;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
 XXVI. Designar y remover en las unidades administrativas de la Secretaría Anticorrupción y Buen Gobierno a las Autoridades investigadoras, substanciadoras y resolutoras, para el ejercicio de sus funciones establecidas en el Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno y demás disposiciones legales, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XXVII. Emitir el Código de Ética de las servidoras y los servidores públicos del gobierno estatal, las Reglas de Integridad y otros instrumentos que regulen el ejercicio de la función pública, coordinando a los comités de ética de las Dependencias y Entidades, así como proponer al sector privado directrices para la emisión de sus Códigos de Ética y modelos de declaración de integridad;
+XXVII. Emitir el Código de Ética de las servidoras y los servidores públicos del gobierno estatal, las Reglas de Integridad y otros instrumentos que regulen el ejercicio de la función pública, coordinando a Jos (sic) comités de ética de las Dependencias y Entidades, así como promover en el sector privado directrices para la emisión de sus Códigos de Ética y modelos de declaración de integridad, de acuerdo a la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XXVIII. Fiscalizar a través de los Órganos Internos de Control, Comisarías y demás unidades administrativas competentes la distribución y aplicación de los recursos estatales, y los de carácter federal, derivados de acuerdos y convenios correspondientes, ejercidos por las Dependencias y Entidades de la Administración Pública Estatal, por los municipios y particulares;
+XXVIII. Fiscalizar a través de los Órganos Internos de Control, Comisarías y demás unidades administrativas competentes la distribución y aplicación de los recursos estatales, y los de carácter federal en el marco de los acuerdos y convenios correspondientes, ejercidos por las Dependencias y Entidades de la Administración Pública Estatal, por los municipios y particulares;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
 XXIX. Coordinar la evaluación de los fondos y programas del gasto federalizado en los términos de los Acuerdos o Convenios respectivos con la finalidad de que se cumpla con la ejecución del Programa Anual de Evaluación;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XXX. Emitir los lineamientos que regulen el acto de entrega-recepción e intervenir a través de los Órganos Internos de Control para efectos de verificación en los procesos de entrega-recepción intermedia y final de los recursos asignados a las unidades administrativas de las Dependencias y Entidades de la Administración Pública Estatal;
+XXX. Emitir los lineamientos que regulen el acto de entrega-recepción e intervenir a través de los Órganos Internos de Control y Comisarios para efectos de verificación en los procesos de entrega-recepción de los recursos asignados a las unidades administrativas de las Dependencias y Entidades de la Administración Pública Estatal;
 
 XXXI. (DEROGADA, P.O. 10 DE JULIO DE 2025)
 
@@ -1491,9 +1515,9 @@ XXXII. Celebrar convenios de coordinación, colaboración y concertación con de
 
 XXXIII. Coordinar a las Unidades de Transparencia del Ejecutivo del Estado de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XXXIV. Supervisar el cumplimiento del uso de los Sistemas o plataformas tecnológicas que establezca la normatividad federal aplicable, en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
+XXXIV. Supervisar el cumplimiento del uso de los Sistemas o plataformas tecnológicas que establezca la normatividad federal y/o local aplicable, en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
 
 XXXV. (DEROGADA, P.O. 10 DE JULIO DE 2025)
 
@@ -1503,23 +1527,23 @@ XXXVI. Fungir en representación del Gobierno del Estado, como enlace ante la Au
 
 XXXVII. (DEROGADA, P.O. 10 DE JULIO DE 2025)
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XXXVIII. Elaborar el programa sectorial, los programas presupuestarios, los programas operativos anuales de esta Dependencia y demás programas en el ámbito de su competencia;
+XXXVIII. Elaborar el programa sectorial, los programas presupuestarios, los programas operativos anuales, los programas anuales de auditoría y demás programas en el ámbito de competencia de esta Dependencia;
 
 XXXIX. (DEROGADA, P.O. 10 DE JULIO DE 2025)
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XL. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, así como conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
+XL. Ejercer las atribuciones que le correspondan en materia de transparencia y acceso a la información pública, y protección de datos personales en posesión de sujetos obligados, de conformidad con las disposiciones jurídicas aplicables, así como conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
 
 XLI. Promover y fortalecer los principios de la transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
 
-XLII. Impulsar la formación en la ética e integridad de las personas servidoras públicas, así como diseñar y aplicar los programas de capacitación que promuevan la mejora y desarrollo administrativo de la gestión pública;
+XLII. Impulsar la formación en la ética e integridad de las personas servidoras públicas, así como diseñar y aplicar los programas de capacitación que promuevan la mejora de la gestión pública;
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
 
@@ -1541,15 +1565,23 @@ XLVI. Acceder a la información, documentación, datos e imágenes, registros y 
 
 XLVII. Conducir la organización y funcionamiento de la Secretaría Anticorrupción y Buen Gobierno, adscribir orgánicamente sus unidades administrativas, así como encomendar las funciones adicionales necesarias para el despacho de los asuntos de su competencia, designando y removiendo a las personas titulares de dichas unidades administrativas para el mejor desarrollo y desempeño de la dependencia, de acuerdo con la normatividad aplicable;
 
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+
+XLVIII. Emitir las disposiciones normativas en materia de Auditoría Pública, Auditoría a Obra Pública, Auditorías de Desempeño, Fiscalización por los Órganos Internos de Control, Evolución Patrimonial, Entrega-Recepción, Investigación, Quejas y Denuncias, Control Interno, Mejora de la Gestión, Evaluación del Desempeño Gubernamental, Estructuras orgánicas, Manuales Administrativos, Ética, entre otros, a fin de facilitar el cumplimiento del ejercicio de las atribuciones de esta dependencia;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+
+XLIX. Desempeñar la función que determine la normatividad federal aplicable, en los Sistemas o plataformas tecnológicas de las contrataciones públicas;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+
+L. Validar que los manuales de organización, de perfiles de puestos y de procedimientos de las dependencias y entidades de la Administración Pública Estatal, se elaboren de acuerdo a los lineamientos y/o guías emitidos por esta Secretaría;
+
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
 
-XLVIII. Emitir las disposiciones normativas en materia de Auditoría Pública, Auditoría a Obra Pública, Auditorías de Desempeño, Fiscalización por los Órganos Internos de Control, Evolución Patrimonial, Entrega-Recepción, Investigación, Quejas y Denuncias, Control Interno, Mejora de la Gestión, Evaluación del Desempeño Gubernamental, Estructuras orgánicas, Manuales Administrativos, Ética, entre otros, a fin de facilitar el cumplimiento del ejercicio de atribuciones y de conformidad con los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo;
+LI. Solicitar a las dependencias y entidades de la Administración Pública Estatal, municipios y en su caso particulares, en el marco de la normatividad aplicable, a través de las unidades administrativas responsables de las auditorías, los informes del ejercicio de los recursos que tengan a su cargo de índole Estatal y/o Federal que no pierdan esta naturaleza, a través de las unidades administrativas correspondientes, con el objeto de fomentar la rendición de cuentas y la transparencia del uso de los recursos públicos; y
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
-
-XLIX. Solicitar a las dependencias y entidades de la Administración Pública Estatal, municipios y en su caso particulares, en el marco de la normatividad aplicable, a través de las unidades administrativas responsables de las auditorías, los informes del ejercicio de los recursos que tengan a su cargo de índole Estatal y/o Federal que no pierdan esta naturaleza, a través de las unidades administrativas correspondientes, con el objeto de fomentar la rendición de cuentas y la transparencia del uso de los recursos públicos; y
-
-L. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+LII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 ###### ARTÍCULO 42.
 
@@ -1561,7 +1593,9 @@ L. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurí
 
 I. Vigilar el cumplimiento de las disposiciones y lineamientos del control interno, fiscalización, evaluación de la gestión pública, aplicación del régimen de responsabilidades administrativas y demás facultades en la materia, en términos de las políticas, directrices y normativa que emita la Secretaría Anticorrupción y Buen Gobierno y las disposiciones jurídicas aplicables;
 
-II. Inspeccionar y vigilar que las Dependencias y Entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de planeación, programación, presupuestación, sistema y registro de contabilidad, ingresos, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales, y su congruencia con el presupuesto autorizado, emitiendo las observaciones y recomendaciones que en su caso procedan;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2025)</small>
+
+II. Inspeccionar y vigilar que las Dependencias y Entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de planeación, programación, presupuestación, financiamiento, inversión, deuda, patrimonio, sistema y registro de contabilidad, ingresos, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales, y su congruencia con el presupuesto autorizado, emitiendo las observaciones y recomendaciones que en su caso procedan;
 
 III. Vigilar que la distribución y aplicación de los recursos federales y estatales destinados a programas, prestación de servicios, adquisiciones y obra pública que se deriven de acuerdos, convenios o contratos celebrados por las Dependencias o Entidades de la Administración Pública Estatal, se ejerzan de acuerdo a la normatividad aplicable;
 
@@ -2074,3 +2108,15 @@ Se convalida la vigencia de los nombramientos de las personas titulares de las u
 ###### ARTÍCULO CUARTO.
 
 En un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, se realizarán las adecuaciones reglamentarias, de estructura orgánica y demás normatividad a la que haya lugar.
+
+P.O. 25 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-451 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS; Y SE DEROGA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 66-370, EXPEDIDO EL 8 DE JULIO DE 2025, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 83 DE FECHA 10 DE JULIO DE 2025, POR EL QUE REFORMÓ Y ADICIONÓ DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a este Decreto.
