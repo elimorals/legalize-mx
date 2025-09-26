@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2025-07-28"
+last_updated: "2025-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3779,9 +3779,9 @@ XII. Establecer los mecanismos para la supervisión de la realización de activi
 
 XIII. Entregar copia simple o certificada sobre hechos asentados en las actas de audiencia y los libros de registro del Juzgado de Justicia Cívica o de las grabaciones de audio y video que correspondan; facultad que puede ser delegada a la o el Director de Juzgados de Justicia Cívica;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-XIV. Emitir la convocatoria para examen de oposición y establecer los criterios de selección para los cargos de personas juzgadoras, defensoras, médicas y psicólogas en los Juzgados de Justicia Cívica;
+XIV. Emitir la convocatoria ciudadana pública y abierta para la selección de los cargos de personas juzgadoras y equipo técnico;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2021)</small>
 
@@ -3825,9 +3825,9 @@ II. Recibir para su guarda y destino correspondiente, los documentos y objetos q
 
 III. Obtener la cooperación del DIF Municipal y de las Instituciones de Asistencia Social correspondientes para las personas presentadas en los Juzgados de Justicia Cívica, cuando se trate de niñas, niños y adolescentes, enfermos graves o contagiosos, o que padezcan enfermedades mentales, toxicómanos o alcoholizados;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-IV. Supervisar y aprobar, en su caso, los informes diarios que determinen y rindan las y los Jueces;
+IV. Formular los planes y proyectos de trabajo, dictámenes, opiniones e informes y reportes estadísticos en materia de Justicia Cívica, que le sean requeridos por la persona Titular de la Sindicatura Municipal;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -3849,9 +3849,9 @@ VIII. Denunciar por escrito o mediante comparecencia directa ante la Contralorí
 
 IX. Reconsiderar cuando exista causa justificada, las sanciones impuestas por las y los Jueces, debiendo informar lo conducente al Síndico;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-X. Dictar las medidas emergentes para subsanar las irregularidades detectadas mediante los medios que se realicen para supervisar a los Juzgados;
+X. Generar todas las medidas necesarias para la buena marcha de los Juzgados y dictar las medidas emergentes para subsanar las irregularidades detectadas en las supervisiones a Juzgados de Justicia Cívica y de Justicia Cívica Itinerante;
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -3941,25 +3941,25 @@ Cada Juzgado de Justicia Cívica actuará en turnos sucesivos, las veinticuatro 
 
 El Juzgado de Justicia Cívica estará integrado por cada turno, cuando menos, del personal siguiente:
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
 I. Una persona Juzgadora;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-II. Una persona Defensora.
+II. Una persona defensora o asesora jurídica;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 III. Una persona encargada del área de Aseguramiento;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-IV. Una persona médica;
+IV. El Equipo Técnico;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-V. Una persona psicóloga;
+V. Una persona mediadora;
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
@@ -9085,15 +9085,33 @@ DISPOSICIONES GENERALES
 
 El presente Capítulo tiene por objeto regular los espectáculos públicos que se presenten en el Municipio de Puebla, a través de la Coordinación de Fiscalización de Espectáculos Públicos dependiente de la Unidad de Normatividad y Regulación Comercial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2025, SE ADVIERTE QUE EL CONTENIDO DEL ANTERIOR SEGUNDO PÁRRAFO QUEDÓ INMERSO EN LA FRACCIÓN I.]</small>
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 475.
 
-Por diversión o espectáculo público debe entenderse, toda función de esparcimiento, sea teatral, circense, deportiva o de cualquier otra naturaleza semejante, excepto cines, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión. Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso se paga o no alguna cantidad.
+Por diversión o espectáculo público debe entenderse, toda función de esparcimiento sea musical, teatral, circense, deportiva o de cualquier otra naturaleza semejante, excepto cines, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión. Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso se paga o no alguna cantidad.
 
-Por espectáculo circense se entenderá toda aquella representación artística que se realiza en un inmueble o al aire libre o en carpa, público o privado, que cuenta con la participación de acróbatas, malabaristas, payasos o magos y demás artistas que realicen expresiones humanas relacionadas con las técnicas circenses.
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+I. Por espectáculo circense se entenderá, toda aquella representación artística que se realiza en un inmueble o al aire libre o en carpa, público o privado, que cuenta con la participación de personas acróbatas, malabaristas, payasas y payasos o magas y magos y demás artistas que realicen expresiones humanas relacionadas con las técnicas circenses.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+II. Por espectáculo musical se entenderá, toda aquella presentación realizada por personas artistas intérpretes o ejecutantes, en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados que, en calidad de solista, dúo, trío, conjunto, coro, orquesta y demás tipos de agrupaciones, que realice una actividad de las personas músicas o cantante.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+III. Se reconocerá como personas artistas, músicas, intérpretes o ejecutantes a todas aquellas que desarrollen actividades artísticas musicales, con independencia de su afiliación a sindicatos, asociaciones civiles u otras formas de organización debidamente registradas ante las instituciones laborales competentes o aquellas que trabajen de manera autónoma. La falta de afiliación a agrupaciones, sindicatos o colectivos, así como la ausencia de representación mediante terceros, no será impedimento para el pleno reconocimiento de las personas artistas o grupos musicales que se representen de manera independiente en el ámbito de la actividad cultural y musical.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Tratándose de espectáculos musicales con la participación de un grupo nacional o extranjero, la persona promotora de espectáculos que requiera la intervención de teloneros o teloneras deberá priorizar la participación de personas músicas, artistas, intérpretes y ejecutantes locales con residencia en el municipio, respetando en todo momento los derechos laborales y contractuales de las personas artistas. Esta preferencia es de observancia administrativa y no vulnera derechos laborables ni contractuales.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+V. Se entiende por telonera o telonero a la persona artista, grupo musical o espectáculo que se presenta en un evento público, como un concierto o festival, previo a la actuación principal. Su función consiste en preparar al público para la presentación estelar, generando un ambiente receptivo, y al mismo tiempo brindar una plataforma para que artistas fortalezcan su visibilidad y experiencia.
 
 ###### Artículo 476.
 
@@ -9425,29 +9443,25 @@ XXV. Evitar que la publicidad obstaculice la visibilidad del espectador y ocasio
 
 XXVI. Elaborar un registro del personal que participe en cualquier tipo de espectáculo público, incluyendo al de seguridad privada o auxiliar y al equipo de apoyo técnico de los artistas que se presenten, debiendo presentarlo a la Autoridad en el momento en que ésta lo requiera;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
 XXVII. Verificar que el personal de seguridad privada o auxiliar cuente con carta de antecedentes no penales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REPUBLICADA, P.O. 26 DE AGOSTO DE 2014)
 
 XXVIII. Colocar contenedores para el depósito de los residuos que se generen en el espectáculo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+XXIX. Especificar y proporcionar el espacio destinado para las personas con discapacidad, que corresponderá el 2% en el caso de que los aforos sean menores a cinco mil personas, 1% cuando oscilen de cinco mil a veinte mil personas, y 0.5% cuando el aforo sea mayor de veinte mil por cada área que corresponda en el inmueble;
 
-XXIX. Especificar y proporcionar el espacio destinado para las personas con discapacidad, que corresponderá el 2% en el caso de que los aforos sean menores a cinco mil personas, 1% cuando oscilen de cinco mil a veinte mil personas, y 0.5% cuando el aforo sea mayor de veinte mil por cada área que corresponda en el inmueble; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXX. Tratándose de espectáculo circenses, no utilizar ningún tipo de animales para llevar a cabo su espectáculo, y
 
-> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-XXX. Tratándose de espectáculo circenses, no utilizar ningún tipo de animales para llevar a cabo su espectáculo.
+XXXI. Tratándose de espectáculos musicales, la persona promotora de espectáculos que requiera la participación de teloneros o teloneras, priorizará la contratación de personas músicas, artistas, intérpretes y ejecutantes locales con residencia en el municipio, procurando que sea acorde con el género del grupo nacional o extranjero, y observando en todo momento las obligaciones establecidas en la normatividad correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -9485,25 +9499,17 @@ VI. Vender bebidas alcohólicas y/o cigarros a menores de edad, así como permit
 
 VII. Vender estupefacientes, incluyendo a los menores de edad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
 VIII. Realizar actos que impliquen reventa de boletos a precios superiores a los autorizados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REPUBLICADA, P.O. 26 DE AGOSTO DE 2014)
 
 IX. Anunciar o presentar un espectáculo distinto al autorizado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
-
-X. Impedir el acceso en razón a ser persona con discapacidad; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+X. Impedir el acceso o realizar actos que impliquen discriminación, desplazamiento y exclusión a quienes organizan y participan dentro del espectáculo y a las personas espectadoras, y
 
 > <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
@@ -41584,3 +41590,19 @@ P.O. 28 DE JULIO DE 2025.
 [N. DE E TRANSITORIO DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 10 DE JULIO DE 2025, QUE APRUEBA EL DICTAMEN PRESENTADO POR LAS REGIDORAS INTEGRANTES DE LA COMISIÓN DE IGUALDAD SUSTANTIVA DE GÉNERO Y DIVERSIDAD SEXUAL, POR EL QUE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2025.
+
+[N. DE E TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE SEPTIEMBRE DE 2025, QUE APRUEBA EL PUNTO DE ACUERDO PRESENTADO POR LAS Y LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE ARTE Y CULTURA, POR VIRTUD DEL CUAL SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 475; LAS FRACCIONES XXIX Y XXX DEL ARTÍCULO 489 Y LA FRACCIÓN X DEL ARTÍCULO 490; SE ADICIONAN LAS FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 475 Y LA FRACCIÓN XXXI DEL ARTÍCULO 489 TODAS DEL CAPÍTULO 12, TITULADO: ESPECTÁCULOS PÚBLICOS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. La presente reforma entrará en vigor, a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se dejan sin efecto todas aquellas disposiciones administrativas que se opongan a lo dispuesto en el presente Dictamen.
+
+P.O. 26 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE SEPTIEMBRE DE 2025, QUE APRUEBA EL PUNTO DE ACUERDO PRESENTADO POR LAS Y LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN, POR VIRTUD DEL CUAL SE REFORMAN LOS ARTÍCULOS 222, 223 Y 225 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. El presente decreto entrará en vigora al día siguiente de su publicación.
+
+SEGUNDO. La presente reforma será implementada de acuerdo a la suficiencia presupuestal del Ayuntamiento.
