@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2025-01-17"
+last_updated: "2025-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -731,11 +731,15 @@ Las formas del Registro Civil se proporcionarán por la Dirección del Registro 
 
 Con las actas del Registro Civil se integrará el apéndice respectivo, que estará constituído por todos los documentos relacionados con el acta que se asienta.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Art. 46.
 
-Toda persona puede solicitar que se le muestre o se le expida copia certificada de las actas del Registro Civil y de los documentos del apéndice. Los Oficiales y el Director del Registro Civil están obligados a expedirlas o mostrarlas en su caso.
+Toda persona puede solicitar que se le muestre o se le expida copia certificada de las actas del Registro Civil y de los documentos del apéndice. Los Oficiales y el Director del Registro Civil están obligados a expedirlas o mostrarlas en su caso. Para el caso de las actas de nacimiento deberán expedirse con supresión de anotaciones marginales cuando así sea solicitado, las cuales únicamente solo serán utilizadas para verificar fecha y lugar de nacimiento.
+
+Para efecto de lo establecido en el párrafo anterior, las actas con supresión de anotaciones marginales deberán contener la leyenda; “La presente acta de nacimiento no contiene las anotaciones marginales relativas al estado civil que en su caso pudiera existir”
+
+La Dirección General del Registro Civil, tendrá la obligación de expedir las Actas del Registro Civil en Sistema Braille cuando quien las solicite sea una persona con discapacidad visual.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1093,13 +1097,17 @@ I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de
 
 II.- El orden de los apellidos que en su caso llevarán sus hijos y/o hijas.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-III.- Que no tienen impedimento legal para casarse; y
+III.- Que no tienen impedimento legal para casarse;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-IV.- Que es su voluntad unirse en matrimonio.
+IV.- Que es su voluntad unirse en matrimonio; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+V. Que no se encuentre inscrito en el registro de deudores alimentarios.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1121,6 +1129,18 @@ III.- La declaración de dos testigos mayores de edad que conozcan a los pretend
 
 IV.- Un certificado suscrito por un medico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen enfermedad alguna crónica e incurable, que sea además contagiosa y hereditaria.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+Cuando alguno de los pretendientes padezca alguna enfermedad crónica o incurable, además del certificado de diagnóstico deberán presentar un documento por escrito en donde acrediten:
+
+a) Su consentimiento, de estar informados de los alcances y del requerimiento de la atención médica de la enfermedad de que se trate,
+
+b) Su consentimiento, de estar informados sobre los alcances y el requerimiento de atención médica especializada en el supuesto de desear procrear; y
+
+c) Deberá estar signado por las dos personas que van a contraer matrimonio.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
 Para los indigentes, tienen obligación de expedir gratuitamente ese certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
 V.- La manifestación de los pretendientes de que contraen el matrimonio bajo el régimen de sociedad conyugal o el de separación de bienes. En uno u otro caso se estará a lo dispuesto en este Código respecto a dichos regímenes patrimoniales;
@@ -1129,13 +1149,21 @@ V.- La manifestación de los pretendientes de que contraen el matrimonio bajo el
 
 VI.- Copia certificada del acta de defunción o de divorcio, si alguno de los pretendientes es viudo o divorciado, o copia certificada de la sentencia de nulidad de matrimonio en caso de que alguno de los pretendientes hubiese estado casado con anterioridad;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-VII.- Copia de la dispensa de impedimentos si los hubo; y
+VII.- Copia de la dispensa de impedimentos si los hubo;
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-VIII.- Constancia que acredite haber tomado el curso que hace referencia el artículo 149 de este código.
+VIII. Declaración firmada por ambos contrayentes, bajo protesta de decir verdad, de no haber sido sentenciados por violencia familiar. En el caso de que alguno de los contrayentes haya sido sentenciado por violencia familiar, será necesario que el otro contrayente entregue al juez una declaración por escrito, en la que manifieste conocer de la situación y que mantiene su voluntad de contraer matrimonio; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+IX.- Constancia de haber recibido ambos contrayentes, un curso prenupcial que deberá comprender, entre otros temas, la prevención de la violencia familiar, salud sexual y reproductiva, planificación familiar, el respeto a la equidad de género, relaciones de pareja, fines del matrimonio, derechos y obligaciones de los cónyuges entre ellos y para con sus hijos, el régimen patrimonial en las capitulaciones matrimoniales, de los derechos y obligaciones que nacen del matrimonio;
+
+> <small>(N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+Dicho curso será impartido por La Secretaría de Igualdad e Inclusión del Estado de Nuevo León en conjunto con los Municipios pudiendo realizar convenios de colaboración con organismos especializados, los cuales deberán tener coordinación con la Dirección General del Registro Civil.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1602,6 +1630,10 @@ VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula, cuando no sea a causa de la edad, o cuando no sea consentida expresamente por ambos contrayentes; y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias;
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+El padecimiento de alguna o algunas de las enfermedades señaladas en el párrafo anterior, no serán impedimento para contraer matrimonio, cuando las partes acrediten fehacientemente haber obtenido de una institución médica el conocimiento de los alcances, efectos, así como la prevención de la enfermedad, y manifiesten su consentimiento para contraer matrimonio.
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -2435,9 +2467,11 @@ La ley no reconoce más parentescos que los de consanguinidad, afinidad y el civ
 
 El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Art. 294.
 
-El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
+El parentesco de afinidad es el que se adquiere al momento del matrimonio entre los contrayentes y sus parientes consanguíneos.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -2505,11 +2539,11 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 Tratándose de alimentos en la adopción, se aplicará lo dispuesto por los Artículos 303, 304, 305, 306.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Art. 308.
 
-Los alimentos comprenden la manutención en general que incluye entre otros, la comida, el vestido, la habitación y la salud. Respecto de los menores de edad, los alimentos comprenderán además, los gastos necesarios para la educación preescolar, primaria, secundaria y media superior del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su edad y circunstancias personales, lo cual también deberá considerarse respecto de los mayores de edad, cuando el caso así lo amerite.
+Los alimentos comprenden la manutención en general que incluye entre otros, la comida, el vestido, la habitación y la salud. Respecto de los menores de edad, los alimentos comprenderán, además, los gastos necesarios para la educación inicial, preescolar, primaria, secundaria, media superior o en su caso especial del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su edad y circunstancias personales, lo cual también deberá considerarse respecto de los mayores de edad, cuando el caso así lo amerite.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2020)</small>
 
@@ -2518,6 +2552,16 @@ Cuando el acreedor alimentista tenga alguna discapacidad temporal o permanente, 
 ###### Art. 309.
 
 El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+###### Art. 309 Bis.
+
+Cuando dicha pensión no haya sido satisfecha ni asignada, la persona acreedora de alimentos tendrá derecho a reclamar la pensión en forma retroactiva. En esos casos, el deudor de alimentos deberá de otorgar el monto que se defina judicialmente, equivalente al periodo de tiempo durante el cual la pensión no fue satisfecha o asignada. Este derecho se actualiza incluso en favor del acreedor alimentario que ya fuere mayor de edad.
+
+La condena podrá ser establecida para ser pagada en una o varias exhibiciones, según lo determine la autoridad judicial competente, quien para tal efecto, deberá de ponderar las particularidades de la persona acreedora y deudora, así como si existió un conocimiento previo de la obligación alimentaria y la buena o mala fe del deudor.
+
+En los casos de haberse reconocido mediante sentencia que declare la paternidad, podrá condenarse a la persona deudora al pago de alimentos retroactivos a favor del acreedor desde su nacimiento hasta la fecha de reconocimiento, tomando en cuenta los parámetros para la fijación de la condena que se prevén en este mismo artículo.
 
 ###### Art. 310.
 
@@ -2696,6 +2740,20 @@ Cuando cambien las circunstancias económicas del deudor alimentario, éste se e
 Toda persona a quien por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez.
 
 Quienes se resistan a acatar las órdenes judiciales de descuento, o auxilien al obligado a ocultar o disminuir sus bienes, o a eludir el cumplimiento de las obligaciones con independencia del delito que le resulte, será sancionado con una multa de hasta ciento cincuenta cuotas, la cual se aplicará a favor de los acreedores alimentarios.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+La persona deudora alimentaria deberá informar, en un máximo de quince días hábiles a la persona acreedora alimentaria, al juez o autoridad competente, lo siguiente:
+
+I.- Cualquier cambio en su empleo,
+
+II.- El lugar y localización de ésta, y
+
+III.- El trabajo, puesto, cargo o comisión que desempeñará.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+Lo anterior a partir de que ocurra el cambio de trabajo o centro de trabajo, a efecto de que se actualice la pensión alimenticia decretada.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3359,6 +3417,10 @@ En la adopción siempre será prioritario el interés superior del menor y el re
 
 Los trámites y gestiones relativos a la adopción deberán realizarse en forma personal por el que pretende adoptar.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+Se brinde atención psicológica, acorde a su edad, a las niñas, niños y adolescentes que se pretende adoptar, en especial, antes de que se decida la adopción, y, que se le informe sobre las consecuencias de la pretendida adopción.
+
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Art. 391.
@@ -3375,6 +3437,12 @@ Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en e
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+###### Art. 393 Bis.
+
+Las personas, que por resolución judicial firme, hayan sido condenadas por violencia familiar no podrán ser considerados como candidatos aptos para la adopción de un menor de edad.
+
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 394.
@@ -3387,9 +3455,9 @@ II.- El tutor del que se va a adoptar;
 
 III.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, o teniéndolos se desconozca su paradero;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
-IV.- Si el menor que se va a adoptar ha cumplido doce años, también se requerirá su consentimiento para la adopción. Si es menor de esa edad, deberán ser tomados en cuenta sus deseos y opiniones según su madurez.
+IV. Si el menor que se va a adoptar ha cumplido doce años, también se requerirá su consentimiento para la adopción. Si es menor de esa edad, deberán ser tomados en cuenta sus deseos y opiniones según su madurez. Previa atención psicológica en ambos supuestos.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -9219,11 +9287,13 @@ Cuando el testador declare que no sabe o no puede firmar el testamento, uno de l
 
 El que fuere enteramente sordo; pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Art. 1414.
 
-Cuando el testador sea ciego, o no pueda o no sepa leer, se dará lectura al testamento dos veces una por el notario como está prescrito en el artículo 1409, y otra en igual forma, por uno de los testigos u otra persona que el testador designe.
+Cuando el testador sea una persona con discapacidad visual, o no pueda o no sepa leer, se dará lectura al testamento dos veces una por el notario como está prescrito en el artículo 1409, y otra en igual forma, por uno de los testigos u otra persona que el testador designe.
+
+En el supuesto que el testador hubiere optado por utilizar el sistema de escritura Braille, él mismo realizará la segunda lectura, este hecho quedará asentado en el instrumento público.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -9290,6 +9360,10 @@ Solo en casos de suma urgencia podrá firmar uno de los testigos, ya sea por el 
 ###### Art. 1427.
 
 Los que no saben o no pueden leer, son inhábiles para hacer testamento cerrado.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+Se exceptúa del párrafo anterior a la persona con discapacidad visual que conociendo la escritura braille, emita su testamento bajo este sistema, el cual se sujetará a las demás solemnidades requeridas en el presente Código, para este caso de testamento.
 
 ###### Art. 1428.
 
@@ -11281,6 +11355,50 @@ Los créditos por indemnización, cuando la víctima fuere asalariado, son intra
 
 Independientemente de los daños y perjuicios del fallecido o lesionado, el Juez acordara a favor de la víctima de un hecho ilícito, o de su familia una indemnización equitativa, a título de reparación moral o daño moral, que pagara el responsable del hecho. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+###### Art. 1813 Bis.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez deberá hacer un análisis de estricta necesidad para valorar la admisión o desechamiento de la demanda.
+
+Al resolver el procedimiento se deberá dar prioridad a una reparación no pecuniaria. Cuando esto no sea suficiente para reparar el daño, el juez podrá dictar una indemnización en dinero.
+
+La reparación no pecuniaria deberá consistir, en primer lugar, en la obligación de rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original. Asimismo, el juez ordenará, a petición de la persona afectada, y con cargo a la persona responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+En el caso de que se proceda a determinar la indemnización en dinero, el monto lo determinará el juez tomando en cuenta los derechos lesionados, el grado de afectación, la situación económica del responsable, y la de la víctima, la mayor o menor divulgación que el hecho lesivo ha tenido, las condiciones personales de la víctima, y las demás circunstancias del caso. En ningún caso el monto podrá tener un efecto inhibitorio en la libertad de expresión.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+Art. 1813 Bis I.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+Cuando la demanda verse sobre discursos que traten temas de interés público también deberá pasar por un examen de estricta necesidad para valorar la admisión o desechamiento de la misma.
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo. En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+Art. 1813 Bis II.- Se entenderán como informaciones de interés público las siguientes:
+
+I. Los datos y hechos sobre el desempeño, en el sentido más amplio, de los servidores públicos, la administración pública y organismos privados que ejerzan gasto público o cumplan funciones de autoridad.
+
+II. Los datos y hechos sobre el desempeño de personas que fueron servidoras públicas.
+
+III. Los datos sobre acontecimientos naturales, sociales, políticos, económicos y culturales que pueden afectar, en sentido positivo o negativo a la sociedad en su conjunto.
+
+IV. Aquella información que sea útil para la toma de decisiones de las personas, para ejercer derechos y cumplir obligaciones en una sociedad democrática.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+Art. 1813 Bis III.- Las imputaciones de hechos o actos que se expresen con apego a la veracidad, y sean de interés público no podrán ser motivo de afectación al patrimonio moral a no ser que prueben que el acto ilícito se realizó con malicia efectiva.
+
+Para probar la malicia efectiva se deberá demostrar:
+
+I. Que la información fue difundida a sabiendas de su falsedad;
+
+II. Que la información fue difundida con total despreocupación sobre si era falsa o no; y
+
+III. Que se hizo con el único propósito de dañar.
+
 ###### Art. 1814.
 
 Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
@@ -13201,9 +13319,15 @@ El contrato de compra-venta no requiere para su validez formalidad alguna especi
 
 Las enajenaciones de bienes inmuebles cuyo valor del avalúo no exceda al equivalente a siete mil trescientas veces el salario mínimo general diario vigente en la Ciudad de Monterrey en el momento de la operación y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario Público, funcionario que haga sus veces o Registrador Público de la Propiedad.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+Cuando se adquiera un bien inmueble y cumpla con los requisitos establecidos en el artículo 727, el Notario Público o el Registrador Público de la Propiedad que otorgue fe del acto, estará obligado a informar al comprador de la posibilidad de constituir dicho bien como patrimonio de familia, así como de las ventajas y desventajas que esto conlleva.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
 En los casos en que se contrae el Artículo 734 de este Código se hará constar expresamente en el título de propiedad que se formaliza la constitución del patrimonio familiar, estableciéndose además cláusula testamentaria automática en la que se determine que al fallecimiento de cualquiera de los cónyuges o concubinos, el que sobreviva será heredero de los derechos correspondientes al patrimonio familiar y que a falta de ambos, dicho carácter lo tendrán las hijas o los hijos. El título referido podrá constar en documento privado, sin la exigencia de testigos o ratificación de firmas.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
 En caso de que el título se otorgue en Escritura Pública, el Notario Público deberá expedir ésta en un plazo no mayor de treinta días.
 
@@ -13901,11 +14025,23 @@ Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arr
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2343.
 
-> <small>(DEROGADA LA SUSPENSIÓN DEL ARTÍCULO SÉPTIMO DEL DECRETO NÚMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 40, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Art. 2346.
 
-La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos mensuales; por quincenas vencidas, si la renta es de sesenta a cien pesos también mensuales, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
+La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos.
+
+El arrendador estará obligado a entregar un recibo por cada mensualidad que el arrendatario pague; a falta de entrega de recibos de pago de renta por más de tres meses, se entenderá que el pago ha sido efectuado, salvo que el arrendador haya hecho el requerimiento correspondiente en tiempo y forma. Se considerará también como recibo aquel que demuestre de forma fehaciente el pago de la renta.
+
+El arrendador no podrá exigir más de una mensualidad de renta a manera de depósito.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+
+###### Art. 2346 Bis.
+
+Para el caso de fincas urbanas destinadas a la habitación, la duración del contrato de arrendamiento será de 6 meses para arrendador y arrendatario, el cual podrá ser prorrogable a voluntad de las partes.
+
+Adicionalmente, la renta deberá estipularse en moneda nacional y únicamente podrá ser aumentada de manera anual, dicho incremento no podrá exceder del 10% de la cantidad pactada como renta mensual, para lo anterior se deberá celebrar un nuevo contrato.
 
 ### CAPITULO V. DEL ARRENDAMIENTO DE FINCAS RUSTICAS
 
@@ -17934,3 +18070,13 @@ En un plazo de 90 días naturales contados a partir de la entrada en vigor del p
 ###### ARTÍCULO QUINTO.
 
 Los Notarios Públicos tendrán 90 días naturales para llevar a cabo (sic) adquisición e implementación de las herramientas digitales necesarias para dar cumplimiento a lo señalado en el artículo 107 de la Ley del Notariado del Estado de Nuevo León.
+
+P.O. 26 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 107. SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las obligaciones emanadas en el presente decreto se harán conforme la disponibilidad presupuestal.
+
+TERCERO.- Para lo relativo al artículo 94 de este Decreto la Secretaría de Igualdad e Inclusión deberá emitir los lineamientos para el curso y coordinarse con los municipios para su realización.
