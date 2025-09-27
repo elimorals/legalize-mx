@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2025-03-29"
+last_updated: "2025-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -881,13 +881,17 @@ XVI. Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental
 
 XVII. Anticorrupción y Transparencia Gubernamental;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-XVIII. Turismo; y
+XVIII. Turismo;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-XIX. Protección y Derecho al Agua.
+XIX. Protección y Derecho al Agua; y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+XX. Desarrollo Portuario, Logística y Comercio Exterior.
 
 ###### Artículo 72.
 
@@ -1630,3 +1634,9 @@ P.O. 29 DE MARZO DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por el Honorable Congreso del Estado, debiéndose publicar en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Comuníquese la presente reforma a la Comisión Estatal del Agua, al Organismo Público Descentralizado Intermunicipal y los Organismos Municipales de Agua Potable para su conocimiento y para los efectos legales que haya a lugar.
+
+P.O. 27 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 158.- POR EL QUE SE APRUEBA REFORMAR LAS FRACCIONES XVIII Y XIX, Y ADICIONAR LA FRACCIÓN XX AL ARTÍCULO 71 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; ASÍ COMO REFORMAR LAS FRACCIONES XVIII, XIX Y ADICIONAR LA FRACCIÓN XX DEL ARTÍCULO 65, ASÍ COMO EL ARTÍCULO 83 QUATER DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al momento de su aprobación y deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
