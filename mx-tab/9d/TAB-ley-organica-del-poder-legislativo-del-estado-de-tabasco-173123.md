@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-173123
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-05-18"
-last_updated: "2025-08-30"
+last_updated: "2025-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 18 de mayo de 2024.
 
@@ -31,11 +33,11 @@ LA SEXAGÉSIMA CUARTA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBER
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDO
 
-[…]
+[...]
 
 OCTAVO. Que de conformidad a lo dispuesto por el artículo 36, fracción I, de la Constitución Política del Estado Libre y Soberano de Tabasco, el Congreso del Estado se encuentra facultado para expedir, reformar, adicionar, derogar y abrogar las Leyes y Decretos para la mejor Administración del Estado, planeando su desarrollo económico y social. Por lo que se emite y somete a consideración del Pleno el presente:
 
@@ -1221,11 +1223,33 @@ X. En la sesión correspondiente del Congreso, se presentará al Pleno la propue
 
 XI. Aprobado el dictamen, la persona candidata cuyo nombramiento se apruebe en los términos del presente Capítulo, rendirá la protesta constitucional ante el Pleno o Comisión Permanente del Congreso en la misma sesión, o en la inmediata siguiente.
 
-### CAPÍTULO I. De los Periodos de Sesiones
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+### CAPÍTULO XII. De la Responsabilidad de los Titulares de los Órganos Internos de Control
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 98 Bis.
+
+El Congreso a través de la Dirección de Asuntos Jurídicos, investigará y sustanciará, los procedimientos relativos a las faltas administrativas no graves cometidas por los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución del Estado y una vez concluido el procedimiento lo remitirá a la Junta de Coordinación Política, para que emita el acuerdo o dictamen correspondiente el cual será sometido a la consideración del Pleno.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 98 Ter.
+
+El Congreso a través de la Dirección de Asuntos Jurídicos, será competente para investigar, sustanciar y remitir las constancias respectivas, del procedimiento instaurado con motivo de faltas administrativas graves cometidas por los titulares de los órganos internos de control de los organismos con autonomía reconocida, cuya sanción corresponde al Tribunal de Justicia Administrativa, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y demás normas jurídicas aplicables.
+
+En el ejercicio de sus funciones, dicha dirección deberá garantizar la separación entre las áreas encargadas de la investigación y la de sustanciación de los procedimientos, en los términos previstos por la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 98 Quáter.
+
+Cualquier persona, podrá presentar denuncia en contra de los titulares de los Órganos Internos de Control de cualquiera de los organismos constitucionales autónomos, cuando se presuma que haya incurrido en algún supuesto de responsabilidad administrativa, debiendo acompañar las pruebas que la sustenten.
 
 ## TÍTULO IV. PROCESO LEGISLATIVO
 
-### CAPÍTULO II. De las Sesiones
+### CAPÍTULO I. De los Periodos de Sesiones
 
 #### Sección Primera. De los Periodos Ordinarios
 
@@ -1265,7 +1289,7 @@ Durante un periodo extraordinario el Congreso realizará tantas sesiones como se
 
 Si dentro de un periodo extraordinario, las sesiones se prolongan hasta el inicio de un periodo ordinario, se darán por concluidas y durante el periodo ordinario se despacharán el o los asuntos que hayan quedado pendientes en el periodo extraordinario.
 
-### CAPÍTULO III. De las Iniciativas y Dictámenes
+### CAPÍTULO II. De las Sesiones
 
 ###### Artículo 106.
 
@@ -1345,7 +1369,7 @@ V. Dictámenes o propuestas de las Comisiones, para su discusión y aprobación 
 
 VI. Asuntos generales.
 
-### CAPÍTULO IV. De los Debates y Votaciones
+### CAPÍTULO III. De las Iniciativas y Dictámenes
 
 #### Sección Primera. De las Iniciativas
 
@@ -1465,7 +1489,7 @@ Los dictámenes formulados y suscritos por alguna Comisión de la Legislatura an
 
 En la reforma, adición o derogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formulación.
 
-### CAPÍTULO V. De las Cuentas Públicas
+### CAPÍTULO IV. De los Debates y Votaciones
 
 #### Sección Primera. De los Debates
 
@@ -1607,7 +1631,7 @@ En casos de empate en cualquier forma de votación, la Presidencia del Congreso,
 
 Concluidas las votaciones, la Secretaría hará el cómputo de votos dando a conocer el resultado a la Presidencia, para que ésta haga la declaratoria correspondiente.
 
-### CAPÍTULO VI. Principios, Bases y Procedimientos para la Inscripción de Nombres, Instituciones y Acontecimientos Históricos en el Muro de Honor del Congreso
+### CAPÍTULO V. De las Cuentas Públicas
 
 ###### Artículo 153.
 
@@ -1621,7 +1645,7 @@ La aprobación por el Pleno del Congreso de las cuentas públicas no exime de re
 
 En todo caso, la entrega al Pleno del Congreso de las cuentas públicas de los entes fiscalizables deberá realizarse por conducto del Órgano Superior de Fiscalización, acorde a las fechas, reglas, procedimientos y mecanismos establecidos por el marco jurídico aplicable.
 
-### CAPÍTULO VII. Del Público Asistente
+### CAPÍTULO VI. Principios, Bases y Procedimientos para la Inscripción de Nombres, Instituciones y Acontecimientos Históricos en el Muro de Honor del Congreso
 
 #### SECCIÓN PRIMERA. De su Objeto
 
@@ -1743,7 +1767,7 @@ En caso de tener conocimiento de un hecho o circunstancia que amerite remover al
 
 La remoción y reacomodo de las inscripciones se realizará conforme lo determine la Comisión, debiéndose levantar un acta en la que se haga constar dicha acción.
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+### CAPÍTULO VII. Del Público Asistente
 
 ###### Artículo 171.
 
@@ -1782,6 +1806,8 @@ La Presidencia de la Mesa Directiva podrá ordenar se impida el acceso al recint
 Se destinarán lugares preferentes en el recinto a personas servidoras públicas federales, estatales y municipales, así como de otras entidades federativas, cuando acudan al Pleno del Congreso a invitación de la Presidencia o de las y los Diputados.
 
 ## TÍTULO V. DEL CEREMONIAL
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
 
 ###### Artículo 178.
 
@@ -1858,3 +1884,15 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Expídanse las disposiciones reglamentarias, que en su caso sean necesarias, para armonizarlas al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 142 POR EL QUE "SE ADICIONA EL CAPÍTULO XII, AL TÍTULO III, ASÍ COMO LOS ARTÍCULOS DEL 98 BIS AL 98 QUÁTER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días a partir de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
