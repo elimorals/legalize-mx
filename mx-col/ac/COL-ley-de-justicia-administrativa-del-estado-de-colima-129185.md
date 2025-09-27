@@ -4,7 +4,7 @@ identifier: "COL-ley-de-justicia-administrativa-del-estado-de-colima-129185"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-16"
-last_updated: "2022-09-10"
+last_updated: "2025-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 16 de junio de 2018.
 
@@ -141,19 +141,21 @@ XVIII. Tribunal: el Tribunal de Justicia Administrativa del Estado.
 
 ### CAPÍTULO II. DE LA COMPETENCIA DEL TRIBUNAL
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 5.
 
-Competencia en materia contenciosa administrativa y fiscal.
+Competencia en materia contenciosa administrativa y fiscal
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 1. El Tribunal es competente para conocer de los juicios y controversias que se promuevan por:
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-I. Cualquier acto o resolución de carácter administrativo o fiscal, que en el ejercicio de sus funciones dicten, ordenen, ejecuten o pretendan ejecutar el Poder Ejecutivo del Estado o los municipios, así como las dependencias y entidades que integran la Administración Pública del Estado o las de los municipios, incluyendo el sector paraestatal y paramunicipal, en perjuicio de los particulares.
+I. Actos o resoluciones de carácter administrativo o fiscal, que en el ejercicio de sus funciones dicten, ordenen, ejecuten o pretendan ejecutar el Poder Ejecutivo del Estado o los Municipios, así como las dependencias y entidades que integran la Administración Pública del Estado o las de los Municipios, incluyendo el sector paraestatal y paramunicipal, en perjuicio de los particulares o de entidades públicas cuando éstas se encuentren en una situación jurídica equiparable a la de los particulares.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 El sector paraestatal y paramunicipal contempla a los organismos descentralizados, las empresas de participación estatal o municipal mayoritaria y los fideicomisos públicos;
 
@@ -183,11 +185,15 @@ VI. Las resoluciones definitivas que dicte el Instituto de Pensiones de los Serv
 
 VII. Las controversias derivadas de la relación administrativa existente entre el Estado y los municipios, con las personas servidoras públicas de las instituciones de seguridad pública que cuenten con carrera policial, incluyendo las de carrera ministerial y pericial en la Fiscalía General del Estado;
 
-Las demás controversias de carácter materialmente laboral que se susciten entre los entes públicos indicados y sus personas servidoras públicas serán conocidas y resueltas por el Tribunal de Arbitraje y Escalafón del Estado;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADO], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+Las demás controversias de carácter materialmente laboral que se susciten entre el Estado y los Municipios, incluyendo su sector paraestatal y paramunicipal, con sus personas servidoras públicas, serán conocidas y resueltas por el Tribunal de Arbitraje y Escalafón del Estado;
 
-VIII. La negativa ficta que opera ante el silencio de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por los ordenamientos jurídicos aplicables al caso concreto, o dentro del término de diez días hábiles tratándose de actos declarativos y de sesenta días naturales tratándose de actos constitutivos, según lo establecido por la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+VIII. La negativa ficta que opere ante el silencio de la autoridad de emitir una resolución de manera expresa dentro del término de diez días hábiles tratándose de actos declarativos y de sesenta días naturales tratándose de actos constitutivos, según lo establecido por la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 En los casos a que se refiere el párrafo anterior, el silencio de las autoridades se considerará como resolución negativa, cuando no den respuesta en el término que corresponda;
 
@@ -199,9 +205,9 @@ IX. Las resoluciones definitivas dictadas por las autoridades administrativas o 
 
 X. La responsabilidad patrimonial del Estado de acuerdo con lo establecido en la legislación aplicable en la materia;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-XI. La afirmativa ficta, por la ausencia absoluta de dar respuesta por parte de la autoridad ante la cual se presentó la solicitud, dentro del término de tres días hábiles establecido por el artículo 33 de la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios; y
+XI. La afirmativa ficta por la ausencia absoluta de dar respuesta por parte de la autoridad ante la cual se presentó la solicitud respecto de actos regulativos, según lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios; y
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -239,23 +245,29 @@ Competencia en materia de responsabilidades administrativas
 
 #### SECCIÓN PRIMERA. DEL PLENO DEL TRIBUNAL
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 7.
 
-Órgano Jurisdiccional Colegiado.
+Órgano jurisdiccional colegiado
 
-1. El Tribunal será colegiado, integrado por tres magistradas y magistrados, a cargo de resolver los juicios en materia contenciosa administrativa, incluyendo la fiscal, así como los procedimientos de responsabilidad administrativa, las consultas de interpretación de leyes y otros asuntos que sean de su competencia, en los términos que disponga la Ley General, esta Ley, la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios, el Código de Procedimientos Civiles para el Estado de Colima, la legislación local aplicable en la materia y el Reglamento Interior.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+1. El Tribunal será colegiado, integrado por cinco magistradas y magistrados, a cargo de resolver los juicios en materia contenciosa administrativa, incluyendo la fiscal, así como los procedimientos de responsabilidad administrativa, las consultas de interpretación de leyes y otros asuntos que sean de su competencia, en los términos que disponga la Ley General, esta Ley, la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios, el Código Nacional de Procedimientos Civiles y Familiares, la legislación aplicable en la materia y el Reglamento Interior.
 
 2. Las magistradas y magistrados actuarán como instructores para el trámite de los asuntos competencia del Tribunal y en Pleno para su resolución, pudiendo también hacerlo en Sala Unitaria.
 
 3. Las salas unitarias estarán integradas por una Magistrada o Magistrado cada una y el personal jurisdiccional y administrativo que sea necesario para el cumplimiento de sus funciones. Tendrán a su cargo la resolución de los asuntos que les asigne la Ley o el Reglamento Interior o les delegue el Pleno del Tribunal a través de acuerdos generales atendiendo a los requerimientos de la impartición de justicia.
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+4. El Tribunal, a través de las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, desahogará en primera instancia los procedimientos de responsabilidad administrativa previstos en el artículo 209 de la Ley General, relativos a las responsabilidades administrativas de servidores públicos y particulares vinculados con faltas administrativas graves. Las Salas Unitarias actuarán como autoridades substanciadoras y resolutoras en dichos procedimientos. Sus resoluciones podrán ser impugnadas ante el Pleno, en los términos que establezca esta Ley.
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 8.
 
-Atribuciones del Pleno.
+Atribuciones del Pleno
 
 1. Son atribuciones del Pleno del Tribunal las siguientes:
 
@@ -267,9 +279,11 @@ III. Resolver los juicios en materia contenciosa administrativa y fiscal previst
 
 IV. Resolver los recursos de reclamación y de queja, relativos a los juicios en materia contenciosa administrativa y fiscal, en los casos que así proceda de conformidad con lo previsto en el Capítulo I del Título Tercero de esta Ley;
 
-V. Resolver en definitiva el procedimiento de responsabilidad administrativa previsto en el artículo 209 de la Ley General, relativo a responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas administrativas graves; fincando e imponiendo las medidas, indemnizaciones y sanciones que correspondan en términos de lo señalado en la Ley General;
+V. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2025)
 
-VI. Resolver los recursos de inconformidad, apelación y revisión previstos en la Ley General y de conformidad a lo señalado en el Capítulo II del Título Tercero de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Resolver los recursos de apelación y revisión previstos en la Ley General y de conformidad con lo señalado en el Capítulo II del Título Tercero de esta Ley;
 
 VII. Nombrar y remover al Secretario General de Acuerdos y al personal directivo y de apoyo administrativo que disponga esta Ley o el Reglamento Interior;
 
@@ -303,9 +317,9 @@ XVI. Determinar las sanciones correspondientes a los magistrados y demás person
 
 XVII. Fijar los precedentes de carácter orientador que deriven del razonamiento jurídico aplicado a los casos concretos que resuelva el Tribunal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-XVIII. Ejercer la función jurisdiccional consultiva y emitir opinión fundada respecto de la consulta de interpretación que se promueva sobre el contenido y alcance de disposiciones previstas en las leyes locales en materia administrativa, fiscal, de fiscalización, responsabilidades administrativas, anticorrupción y rendición de cuentas en los términos previstos en esta Ley y el Reglamento Interior;
+XVIII. Ejercer la función jurisdiccional consultiva y resolver respecto de la consulta de interpretación que se promueva sobre el contenido y alcance de disposiciones previstas en las leyes locales en materia administrativa, fiscal, de fiscalización, responsabilidades administrativas, transparencia, anticorrupción y rendición de cuentas en los términos previstos en esta Ley y el Reglamento Interior;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -314,6 +328,10 @@ XIX. Resolver aquellos asuntos que por mandato de ley o por su naturaleza requie
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 XX. Las demás que señale esta Ley y el Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+2. El Reglamento Interior establecerá la estructura orgánica del Tribunal, así como las atribuciones y funciones de las personas servidoras públicas que lo integran. Asimismo, podrá perfeccionar, complementar o desarrollar los procedimientos previstos en esta Ley y fijar aquellos adicionales que resulten necesarios para garantizar el cumplimiento de las disposiciones contenidas en todas las normas que otorguen competencias al Tribunal.
 
 > <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -481,17 +499,19 @@ V. Haber residido en el país durante los dos años anteriores al día de su des
 
 2. Adicionalmente, el nombramiento deberá recaer en personas que acrediten, en atención de sus antecedentes profesionales y curriculares, contar con experiencia en materia administrativa, fiscal, de fiscalización, responsabilidades administrativas, hechos de corrupción o rendición de cuentas.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 20.
 
-Procedimiento de designación.
+Procedimiento de designación
 
-1. Las magistradas y magistrados del Tribunal durarán en el ejercicio de su encargo seis años. Su designación se hará de conformidad con el procedimiento siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-I. La persona titular del Poder Ejecutivo Estatal propondrá al Congreso del Estado el nombramiento de la persona que considere idónea para ocupar el cargo de magistrada o magistrado en el Tribunal, quien deberá cumplir los requisitos de elegibilidad que se requiere para ser magistrada o magistrado del Supremo Tribunal de Justicia previstos en el artículo 69 de la Constitución del Estado y los señalados en el artículo 19 de esta Ley.
+1. Las magistradas y magistrados del Tribunal ejercerán su cargo para un periodo de seis años, contados a partir del día siguiente a su toma de protesta. Su designación se realizará de conformidad con la Constitución del Estado y esta Ley, siguiendo el procedimiento que se indica a continuación:
 
-Únicamente no será exigible el requisito de ser mexicano por nacimiento para acceder al cargo de magistrada o magistrado en el Tribunal, bastando con que se tenga la ciudadanía mexicana;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+I. La persona titular del Poder Ejecutivo Estatal propondrá al Congreso del Estado el nombramiento de la persona que considere idónea para ocupar el cargo de magistrada o magistrado en el Tribunal, quien deberá cumplir los requisitos de elegibilidad previstos en el artículo 77 de la Constitución del Estado y el artículo 19 de esta Ley;
 
 II. El Congreso hará la designación dentro del plazo de veinte días naturales contados a partir del día siguiente al que reciba la propuesta, mediante el voto de las dos terceras partes de sus miembros presentes en la sesión respectiva, previa comparecencia de la o las personas propuestas. Si el Congreso no resolviere dentro del plazo indicado, se tendrá por aprobada la propuesta de nombramiento de magistrada o magistrado presentada por el Ejecutivo del Estado;
 
@@ -499,31 +519,25 @@ III. Si el Congreso niega expresamente la aprobación dentro del plazo indicado,
 
 IV. En caso de que el Congreso rechace dos propuestas sucesivas de nombramiento, se tendrá por aprobada la que libremente determine el Ejecutivo.
 
-2. Durante el ejercicio de su cargo las magistradas y magistrados del Tribunal sólo podrán ser removidos por las causas graves que señala la presente Ley, teniendo durante y a su conclusión las garantías que se desprenden de los artículos 17 y 116 fracciones III y V de la Constitución Política de los Estados Unidos Mexicanos y sus correlativas de la Constitución del Estado.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+2. Las magistradas y magistrados del Tribunal tendrán garantizado el ejercicio efectivo de sus funciones, contando con las garantías de independencia, seguridad y estabilidad en el cargo.
 
 3. Las magistradas y magistrados continuarán en el ejercicio de su cargo hasta en tanto sean sustituidos por quienes deban reemplazarlos, esto es, hasta que los designados para sustituirlos rindan la protesta constitucional correspondiente ante el Congreso del Estado y tomen posesión del cargo.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 21.
 
 Remoción del cargo
 
-1. El Congreso del Estado, por acuerdo de cuando menos las dos terceras partes de sus miembros presentes, podrá remover de sus cargos a los magistrados del Tribunal, por las siguientes causas graves debidamente justificadas, siempre y cuando el o los magistrados involucrados hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su derecho convenga:
+1. Las magistradas y magistrados del Tribunal, una vez en funciones, sólo podrán ser removidos de sus puestos mediante los procedimientos establecidos en el Título Undécimo de la Constitución del Estado y la Ley General. En ningún caso, la separación podrá efectuarse de manera automática, debiendo observarse los principios de legalidad, audiencia y debido proceso conforme a las disposiciones aplicables.
 
-I. Incurrir en violaciones graves a los derechos humanos, previstos en la Constitución Federal y los tratados internacionales de los que el Estado Mexicano sea parte, así como en la Constitución del Estado;
-
-II. Haber sido condenado por delito doloso;
-
-III. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la ley;
-
-IV. Incurrir en infracciones graves a la Constitución Federal, a las leyes generales, a la Constitución del Estado o a las leyes locales causando perjuicios graves a las instituciones democráticas del país o del Estado, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones del país o del Estado; y
-
-V. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
-
-> <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 22.
 
-Atribuciones de los Magistrados.
+Atribuciones de los magistrados
 
 1. Son atribuciones de los magistrados las siguientes:
 
@@ -543,29 +557,37 @@ e) Admitir, desechar o tener por no ofrecidas las pruebas;
 
 f) Decretar pruebas para mejor proveer, fijando fecha para su desahogo, así como requerir a las partes para que proporcionen los informes o aclaraciones que estime necesarios para la mejor resolución del asunto;
 
-g) Sobreseer el juicio antes de que se cierre la instrucción, cuando el actor se desista de la acción o se revoque el acto o resolución impugnada;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-h) Admitir, desechar y tramitar los incidentes y recursos que les competan, formular los proyectos de resolución, de aclaraciones de sentencia y de resoluciones de queja relacionadas con el cumplimiento de las sentencias, y someterlos a la consideración de la Sala;
+g) Sobreseer el juicio antes de que se cierre la instrucción, cuando se actualice alguno de los supuestos previstos en el punto 2 del artículo 73 de esta ley;
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+h) Admitir, desechar y tramitar los incidentes y recursos que le competan; formular los proyectos de resolución que corresponda, y someterlos a la consideración del Pleno cuando así proceda;
 
 i) Dictar los acuerdos o providencias de trámite necesarios para instruir el juicio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma;
 
-j) Formular el proyecto de sentencia definitiva y, en su caso, de cumplimiento de ejecutorias; y
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-k) Resolver durante la instrucción sobre los demás actos de trámite procedimentales.
+j) Formular el proyecto de sentencia definitiva y, en su caso, decidir sobre el cumplimiento de las ejecutorias; y
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+k) Resolver durante la instrucción del juicio, así como en la ejecución de la sentencia, sobre los actos de trámite procedimentales que resulten necesarios.
 
 III. Conocer y poner en estado de resolución definitiva los recursos de reclamación y de queja, relativos a los juicios en materia contenciosa administrativa y fiscal, en los casos que así proceda de conformidad con lo previsto en el Capítulo I del Título Tercero de esta Ley, para ser sometidos a la consideración del Pleno del Tribunal;
 
-IV. Conocer y poner en estado de resolución definitiva el procedimiento de responsabilidad administrativa previsto en el artículo 209 de la Ley General, relativo a responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas administrativas graves, para ser sometido a la consideración del Pleno del Tribunal.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-El Magistrado instructor que conozca del procedimiento estará facultado para tramitar y resolver por sí mismo todos los actos competencia del Tribunal previstos en el artículo 209 de la Ley General y que sean necesarios para su substanciación hasta el cierre de la instrucción, sometiendo a la consideración del Pleno el proyecto de resolución definitiva respectivo;
+IV. Conocer y resolver, en calidad de Sala Unitaria Especializada en Materia de Responsabilidades Administrativas, los procedimientos de responsabilidad administrativa previstos en el artículo 209 de la Ley General, relativos a las responsabilidades administrativas de servidores públicos y particulares vinculados con faltas administrativas graves;
 
-V. Conocer y poner en estado de resolución definitiva los recursos de inconformidad, apelación y revisión previstos en la Ley General, observando lo dispuesto en el Capítulo II del Título Tercero de esta Ley, para ser sometidos a la consideración del Pleno del Tribunal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-El Magistrado instructor que conozca de los recursos indicados en el párrafo anterior, estará facultado para tramitar y resolver por sí mismo todos los actos competencia del Tribunal previstos en las disposiciones de la Ley General que los regulan y que sean necesarios para su substanciación hasta el cierre de la instrucción, sometiendo a la consideración del Pleno el proyecto de resolución definitiva respectivo;
+V. Conocer y resolver, en calidad de Sala Unitaria Especializada en Materia de Responsabilidades Administrativas, los recursos de inconformidad y reclamación previstos en la Ley General, observando lo dispuesto en el Capítulo II del Título Tercero de esta Ley;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-VI. Substanciar y poner en estado de resolución el recurso de reclamación previsto en la Ley General, sometiendo a la consideración del Pleno del Tribunal el proyecto de resolución definitiva que corresponda;
+VI. Substanciar y poner en estado de resolución los recursos de apelación y revisión previstos en la Ley General, sometiendo a la consideración del Pleno del Tribunal el proyecto de resolución definitiva que corresponda;
 
 VII. Dictar los acuerdos, providencias, medidas y diligencias necesarias para instruir los procedimientos en los que intervenga;
 
@@ -609,9 +631,17 @@ Excusas de los magistrados
 
 1. Los magistrados son irrecusables, pero bajo su más estricta responsabilidad deberán excusarse del conocimiento de los juicios o procedimientos en que intervengan cuando exista algún impedimento de los señalados en el artículo anterior. El Pleno del Tribunal calificará y determinará la procedencia de las excusas planteadas por los magistrados.
 
-2. El Magistrado instructor que quede excusado del conocimiento de un juicio o procedimiento será sustituido para el caso concreto por un Magistrado distinto del Tribunal. Cuando la excusa se extienda a dos o más de los magistrados, el Pleno del Tribunal podrá habilitar a cualquier Secretario de Acuerdos para actuar.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-3. La intervención indebida de un Magistrado en un juicio o procedimiento, cuando no deba hacerlo, será causa de responsabilidad.
+2. Cuando un Magistrado Instructor sea excusado de conocer un juicio o procedimiento que le haya sido turnado, será sustituido por otro Magistrado del Tribunal, designado por el Pleno, quien continuará con la substanciación del asunto hasta ponerlo en estado de resolución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+3. Cuando uno o más Magistrados sean excusados de intervenir en la resolución de un juicio o procedimiento que no esté asignado a su ponencia, serán sustituidos por el primer Secretario de Acuerdos adscrito a su Magistratura, quien, para efectos de la votación en Pleno, actuará en calidad de “Secretario de Acuerdos en Funciones de Magistrado”.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+4. La intervención indebida de un Magistrado en un juicio o procedimiento, cuando no deba hacerlo, será causa de responsabilidad.
 
 ###### Artículo 25.
 
@@ -801,19 +831,25 @@ IX. Las demás que le correspondan conforme a las disposiciones jurídicas aplic
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 38.
 
-Competencia en materia contenciosa administrativa y fiscal.
+Competencia en materia contenciosa administrativa y fiscal
 
-1. Los juicios que se promuevan ante el Tribunal en materia contenciosa administrativa, incluyendo la fiscal, se regirán por las disposiciones de esta Ley. A falta de disposición expresa se podrán aplicar supletoriamente y en lo conducente la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios y, en su caso, el Código de Procedimientos Civiles para el Estado de Colima, siempre que las disposiciones de estos ordenamientos no contravengan las que regulan los juicios que establece esta Ley.
+1. Los juicios que se promuevan ante el Tribunal en materia contenciosa administrativa, incluyendo la fiscal, se regirán por las disposiciones de esta Ley. A falta de disposición expresa se podrán aplicar supletoriamente y en lo conducente la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios y, en su caso, el Código Nacional de Procedimientos Civiles y Familiares, siempre que las disposiciones de estos ordenamientos no contravengan las que regulan los juicios que establece esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 39.
 
-Derecho de acceso a la justicia administrativa y fiscal
+Acceso a la justicia e instrumentos de solución directa
 
-1. En el Estado de Colima toda persona tiene derecho a comparecer ante el Tribunal para impugnar los actos o resoluciones de carácter administrativo o fiscal emanados del Poder Ejecutivo del Estado o los municipios, así como de las dependencias o entidades que integran la Administración Pública del Estado o los municipios, centralizada, paraestatal o paramunicipal, que afecten sus derechos e intereses legítimos, conforme a lo dispuesto en la presente Ley.
+1. En el Estado de Colima, toda persona tiene derecho a comparecer ante el Tribunal para impugnar actos y resoluciones de carácter administrativo, incluyendo los de naturaleza fiscal, que constituyan la decisión final o voluntad definitiva de la Administración Pública y afecten sus derechos o intereses legítimos, conforme a lo dispuesto en esta Ley, la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios, y el Reglamento Interior del Tribunal, con el propósito de que, a través del juicio contencioso-administrativo, se resuelva la pretensión y, en su caso, se ejecute la decisión.
+
+2. Durante la substanciación de los juicios contencioso-administrativos o en la etapa de ejecución de la sentencia, las partes, de común acuerdo, podrán acogerse a los instrumentos de solución directa establecidos en los artículos 75 y 121 de esta Ley. Esto se llevará a cabo sin perjuicio de la posibilidad de aplicar los mecanismos previstos en la Ley General de Mecanismos Alternativos de Solución de Controversias.
+
+3. Los convenios celebrados conforme a los artículos 75 y 121 de esta Ley se presumen tienen viabilidad técnica y financiera, siendo responsabilidad de la autoridad o ente público que los suscriba verificar dichos aspectos.
 
 ###### Artículo 40.
 
@@ -907,27 +943,43 @@ c) La entidad paraestatal o paramunicipal con funciones administrativas de autor
 
 III. El tercero interesado, que podrá ser cualquier persona física o moral, cuyos intereses puedan verse afectados con la sentencia que dicte el Tribunal.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+2. Las partes deberán identificarse con su nombre completo, así como proporcionar los datos necesarios que permitan su debida identificación en el expediente, quedando prohibido el uso de nombres ficticios, pseudónimos o cualquier medio que obstaculice su reconocimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+3. Conforme al principio dispositivo, queda a cargo de las partes la obligación de impulsar el procedimiento y evitar la inactividad procesal. El incumplimiento de esta obligación, en los términos fijados en esta Ley, conduce a la declaración de caducidad de la instancia de pleno derecho y, en consecuencia, al sobreseimiento del juicio contencioso administrativo.
+
 ###### Artículo 48.
 
 Interés legitimo
 
 1. Podrán intervenir en el juicio las personas que tengan un interés legítimo que funde su pretensión.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 49.
 
-Abogados autorizados de los particulares
+Abogados autorizados de las partes
 
-1. Los particulares podrán autorizar para oír y recibir notificaciones en su nombre a Licenciado en Derecho debidamente acreditado, quien estará facultado además para interponer recursos, ofrecer y rendir pruebas, formular alegatos y, en general, promover cualquier acto necesario para la defensa del autorizante.
+1. Las partes podrán autorizar para recibir notificaciones en su nombre, a una o varias personas que se encuentren legalmente autorizadas para ejercer la profesión de abogado o licenciado en derecho. La designación se hará por escrito.
 
-2. Para efectos del párrafo anterior, el Tribunal contará con un libro de registro para inscribir la personalidad de los Licenciados en Derecho que acrediten serlo con documento oficial idóneo.
+2. La persona designada en los términos del punto anterior quedará además facultada para atender prevenciones, hacer promociones, ofrecer y rendir pruebas, formular alegatos, interponer recursos, plantear incidentes y, en general, realizar todos los actos que resulten necesarios para la defensa de los derechos del autorizante, pero no podrá delegar o substituir tales facultades en un tercero, ni desistirse del juicio.
+
+3. La acreditación de la autorización para el ejercicio de la profesión de abogado o licenciado en derecho deberá hacerse mediante la inscripción de la cédula profesional respectiva en el libro de registro que disponga el Tribunal.
+
+4. Las partes deberán señalar expresamente el alcance de la autorización que concedan. En caso contrario, la autorización se otorgará limitada a lo previsto en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 50.
 
-Abogados autorizados de la autoridad
+Personas autorizadas sólo para recibir notificaciones
 
-1. Los servidores públicos del Poder Ejecutivo del Estado y los municipios, así como de las dependencias y entidades de la Administración Pública del Estado y los municipios, centralizada, paraestatal y paramunicipal, que funjan como partes en el procedimiento ante el Tribunal, podrán acreditar como representantes a Licenciados en Derecho, quienes tendrán facultades para oír y recibir notificaciones, interponer recursos, ofrecer y rendir pruebas, formular alegatos y hacer todo tipo de promociones.
+1. Las partes podrán designar personas solamente autorizadas para recibir notificaciones e imponerse de los autos, a cualquiera con capacidad legal, quienes no gozarán de las demás facultades a que se refiere el punto 2 del artículo 49 de esta ley.
 
-2. Para efectos del párrafo anterior, el Tribunal contará con los libros de registro para inscribir la personalidad de los Licenciados en Derecho que acrediten serlo con documento oficial respectivo.
+2. El Tribunal podrá verificar la identidad de las personas que se designen como autorizadas para recibir notificaciones. En caso de que se advierta que se trata de personas inexistentes o se hubiesen señalado nombres ficticios, el Magistrado instructor le impondrá a la parte responsable de la designación una multa de cien a quinientas veces el valor diario de la unidad de medida y actualización, sin perjuicio de denunciar el hecho ante la Fiscalía General del Estado.
 
 ###### Artículo 51.
 
@@ -965,15 +1017,19 @@ Horas hábiles.
 
 2. Los actuarios estarán habilitados para practicar en cualquier tiempo, según se requiera, las notificaciones y diligencias que le ordenen el Pleno, el Magistrado Presidente, los magistrados, la Secretaría General de Acuerdos o los secretarios de acuerdos.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 55.
 
-Tipos de notificaciones.
+Tipos de notificaciones
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 1. Las notificaciones se harán a las autoridades siempre por oficio o, en su caso, por correo electrónico o cualquier otro medio electrónico válido en casos urgentes o bien cuando se trate de resoluciones que exijan cumplimiento inmediato.
 
 Las notificaciones que se realicen a las autoridades por conducto de sus oficinas de recepción, oficialías de partes, ventanillas de atención o unidades jurídicas de representación o su equivalente, se entenderán legalmente efectuadas, si en el documento correspondiente obra el sello oficial de recibido, sin perjuicio de las que se realicen a través de los autorizados de las autoridades o por medios electrónicos.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 2. Las notificaciones se harán a los particulares en forma personal o, en su caso, por correo certificado con acuse de recibo, tratándose de los siguientes casos:
 
@@ -997,15 +1053,25 @@ IX. Cuando se trate de la aclaración de sentencia; y
 
 X. Cuando se trate de acuerdos y resoluciones que a consideración del Tribunal lo ameriten.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
 3. Las notificaciones se harán por lista autorizada que se fijará en los estrados del Tribunal, en los casos no previstos en las fracciones anteriores.
 
-4. Las notificaciones se harán por edictos, cuando se trate de particulares distintos del actor cuyo domicilio se ignore, cuando la persona a quien se deba notificar hubiere fallecido y se desconozca quien es el representante de la sucesión y, en general, cuando se trate de personas inciertas.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-Los edictos deberán publicarse de manera electrónica en la página oficial de internet del Tribunal y en formato escrito impreso en los estrados del mismo, haciéndose saber que el citado deberá presentarse dentro de un plazo que no será mayor a veinte días hábiles, levantándose las constancias respectivas.
+4. Las notificaciones se harán por edictos cuando se trate de particulares distintos del actor cuyo domicilio se ignore; cuando la persona a quien deba notificarse hubiere fallecido y se desconozca quién sea el representante de la sucesión; o, en general, cuando se trate de personas inciertas.
 
-5. Las notificaciones se harán por correo electrónico o cualquier otro medio electrónico válido en términos de lo dispuesto en el punto 3 del artículo 9 de esta Ley, cuando así lo haya autorizado la parte interesada o bien cuando así se requiera por parte del Tribunal.
+Los edictos se publicarán de manera electrónica en la página oficial de internet del Tribunal, en formato impreso en los estrados del mismo y en el Periódico Oficial del Estado. En ellos se hará saber que la persona citada deberá presentarse dentro de un plazo que no será mayor a veinte días hábiles, contado a partir de la última publicación. De cada publicación se levantará la constancia respectiva, la cual se agregará al expediente.
 
-Las notificaciones de este tipo surtirán sus efectos a partir de que se tenga constancia de su recepción o, en su caso, se cuente con el acuse de recibo correspondiente. Los actuarios estarán habilitados para dar fe de los actos y levantar las constancias respectivas.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+5. Las notificaciones podrán realizarse por correo electrónico cuando la parte interesada lo haya autorizado previamente o a través de cualquier otro medio electrónico válido conforme a lo dispuesto en el punto 3 del artículo 9 de esta Ley, si así lo requiere el Tribunal.
+
+Las notificaciones electrónicas surtirán efectos a partir de la constancia de su recepción, la cual puede incluir un acuse de recibo o cualquier otro registro válido de entrega. Los actuarios estarán facultados para certificar estos actos y levantar las constancias correspondientes.
+
+Las notificaciones enviadas por correo electrónico deberán ser acusadas de recibido dentro de un plazo de 48 horas, contadas a partir de su envío. Si no se recibe el acuse de recibo dentro de ese plazo, se procederá a realizar la notificación en formato impreso, conforme a lo establecido en esta ley para las notificaciones en papel.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 6. No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación, salvo disposición en contrario, los actos o resoluciones que, en los términos de las normas que les sean aplicables o por acuerdo del Pleno del Tribunal, deban hacerse públicos a través del periódico oficial del Estado o de su fijación en los estrados del Tribunal.
 
@@ -1017,13 +1083,23 @@ Procedimiento para la notificación personal
 
 2. Si el Actuario encuentra el domicilio cerrado y ninguna persona acude a su llamado, se cerciorará de que es el domicilio correcto, lo hará constar y fijará aviso en la puerta a fin de que, dentro de los dos días hábiles siguientes, acuda al Tribunal a notificarse. Si no se presenta se notificará por lista.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 57.
 
 Efectos de las notificaciones
 
-1. Las notificaciones surtirán efectos a partir del día siguiente en que sean hechas.
+1. Las notificaciones personales surtirán efectos el mismo día en que sean hechas.
 
-2. Las notificaciones por lista surtirán efectos al día siguiente al que se hubiere fijado en los estrados del Tribunal.
+2. Las notificaciones por lista surtirán efectos el mismo día en que se fijen en los estrados del Tribunal.
+
+3. Las notificaciones por edictos surtirán efectos a partir de la fecha de la última publicación, en los términos previstos en esta Ley.
+
+4. Las notificaciones electrónicas surtirán efectos a partir de la constancia de su recepción.
+
+5. Las notificaciones que deban hacerse públicas a través del Periódico Oficial del Estado o de su fijación en estrados del Tribunal, surtirán sus efectos al día siguiente de su publicación, salvo disposición en contrario.
+
+6. En todos los casos, los plazos empezarán a correr a partir del día siguiente a aquel en que haya surtido efectos la notificación.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1079,15 +1155,27 @@ Plazo para la interposición de la demanda
 
 6. La demanda de responsabilidad patrimonial deberá presentarse antes de que transcurra un año que se computará a partir del día siguiente a aquél en que se hubiera producido la lesión patrimonial, o a partir del momento que hubiesen cesado sus efectos lesivos, si fuesen de carácter continúo.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+7. El actor o promovente de las acciones previstas en esta ley podrá desistirse expresamente de la demanda en cualquier momento antes de que se dicte sentencia definitiva, lo cual dará lugar al sobreseimiento del juicio respectivo.
+
 ###### Artículo 63.
 
 Afirmativa ficta
 
-1. La solicitud para que se declare la afirmativa ficta deberá presentarse ante el Tribunal dentro de los quince días siguientes a aquel en que haya transcurrido el término mencionado en el artículo 5, párrafo 1, fracción VI de la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-2. El promovente deberá acompañar el acuse de recibo del trámite no resuelto, así como las constancias y documentos que acrediten el cumplimiento de todos los requisitos establecidos en las normas aplicables al caso específico, así como la petición que se presentó ante la autoridad competente.
+1. La demanda para que se declare la afirmativa ficta deberá presentarse ante el Tribunal dentro de los quince días hábiles siguientes a aquel en que haya transcurrido el plazo de tres días hábiles que constriñe a la autoridad administrativa para responder.
 
-3. Con la solicitud se dará vista a la autoridad omisa para que dentro del término de tres días manifieste lo que a sus intereses convenga. Una vez trascurrido dicho término, el Tribunal dentro de los cinco días siguientes dictará la resolución correspondiente declarando o no la afirmativa ficta.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+2. El promovente deberá acompañar las constancias y documentos que acrediten el cumplimiento de los requisitos sustantivos establecidos en las normas jurídicas aplicables al caso concreto, así como el acuse de recibo de la solicitud no resuelta y el acuse de recibo de la solicitud de certificación de afirmativa ficta presentadas ante la autoridad administrativa.
+
+Cuando se omita acompañar alguno de los acuses de recibo antes señalados, o la demanda resulte obscura, irregular o ilegible, el Magistrado instructor que conozca el asunto requerirá, mediante notificación personal al promovente, que precise, rectifique o aclare lo conducente en un plazo de tres días hábiles, apercibiéndolo de que, de no hacerlo, se desechará de plano la demanda
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+3. Con la demanda se dará vista a la autoridad omisa para que dentro del término de tres días hábiles manifieste lo que a su derecho convenga. Una vez trascurrido dicho término, el Tribunal dentro de los treinta días hábiles siguientes dictará la resolución correspondiente declarando o no la afirmativa ficta.
 
 4. La declaración que expida deberá contar por lo menos con una relación sucinta de la solicitud presentada y del procedimiento seguido, de la fecha de iniciación y de vencimiento del plazo con que contó la autoridad competente para dictar su resolución.
 
@@ -1103,11 +1191,23 @@ I. Cuando se demande una negativa ficta; y
 
 II. Cuando desconozca los motivos y fundamentos del acto o resolución impugnados, hasta que la demanda sea contestada.
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+2. Tratándose de una resolución negativa ficta, el actor deberá controvertir, en la ampliación de la demanda, los fundamentos y motivos de fondo que la autoridad haya expresado en su contestación, salvo que esta no los formule.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+3. El actor deberá acompañar una copia completa, correctamente impresa y totalmente legible de la ampliación de la demanda, así como de todos los documentos anexos a ella, para cada una de las partes. Cuando se omita realizar lo anterior o se advierta que la ampliación es obscura, irregular o ilegible, el Magistrado instructor que conozca el asunto, requerirá mediante notificación personal al actor para que precise, rectifique o aclare lo conducente en el plazo de tres días hábiles, apercibiéndolo que, de no hacerlo, se le desechará de plano la ampliación de la demanda o en su caso se le tendrá por no ofrecidas las pruebas documentales que hubiere omitido adjuntar.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+4. Si el Magistrado instructor advierte que, una vez recibida la contestación de la demanda, no se surte alguno de los supuestos previstos en las fracciones I y II del punto 1 de este artículo, no estará obligado a conceder el plazo para la ampliación de la demanda. Contra el auto que no conceda el plazo para la ampliación de la demanda o que, habiéndolo concedido, niegue la ampliación presentada, procederá el recurso de reclamación.
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 65.
 
-Requisitos de la demanda.
+Requisitos de la demanda
 
 1. La demanda deberá contener los siguientes requisitos:
 
@@ -1123,15 +1223,25 @@ V. Los hechos en que se apoye la demanda y los agravios que le cause el acto o r
 
 VI. La firma del actor. Si éste no supiere o no pudiere firmar, lo hará un tercero a su ruego, poniendo el primero la huella digital;
 
-VII. El documento con el cual acredite su personalidad, cuando promueva a nombre o en representación de un tercero; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-VIII. El ofrecimiento de pruebas, anexando las documentales que se ofrezcan.
+VII. El documento mediante el cual el actor acredite su personalidad cuando promueva en nombre o representación de una persona moral o de un tercero, sea persona física o moral;
 
-2. El actor deberá acompañar una copia de la demanda, así como de todos los documentos anexos a ella, para cada una de las partes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+VIII. En el supuesto de que se impugne una resolución negativa ficta, deberá acompañarse una copia en la que obre el sello de recepción de la instancia no resuelta por la autoridad; y
 
-3. Cuando se omita indicar o precisar alguno de los requisitos antes señalados, con excepción de los previstos en las fracciones I y VI de este artículo, o se advierta que la demanda es obscura, irregular o ilegible, el Magistrado Instructor que conozca el asunto, requerirá mediante notificación personal al actor o demandante para que precise, rectifique o aclare lo conducente en el plazo de tres días hábiles, apercibiéndolo que, de no hacerlo, se le desechará de plano la demanda o en su caso se le tendrá por no ofrecidas las pruebas documentales que anexo a la misma.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+IX. El ofrecimiento de pruebas, acompañando las documentales que se ofrezcan.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+2. El actor deberá acompañar una copia completa, correctamente impresa y totalmente legible de la demanda, así como de todos los documentos anexos a ella, para cada una de las partes.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+3. Cuando se omita indicar o precisar alguno de los requisitos antes señalados, con excepción de los previstos en las fracciones I y VI de este artículo, o se advierta que la demanda es obscura, irregular o ilegible, el Magistrado instructor que conozca el asunto, requerirá mediante notificación personal al actor o demandante para que precise, rectifique o aclare lo conducente en el plazo de tres días hábiles, apercibiéndolo que, de no hacerlo, se le desechará de plano la demanda o en su caso se le tendrá por no ofrecidas las pruebas documentales que hubiere omitido acompañar.
 
 > <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1177,17 +1287,27 @@ III. Se referirá concretamente a cada uno de los hechos que el demandante le im
 
 IV. Los motivos y fundamentos con los que se demuestre la ineficacia de los agravios.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+2. En caso de que se impugne una resolución negativa ficta, la autoridad demandada o la facultada para contestar la demanda, expresará los fundamentos y motivos de fondo en que se apoya dicha negativa.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+3. En la contestación de la demanda, o en cualquier momento antes del dictado de la sentencia, la autoridad demandada podrá allanarse a las pretensiones del actor o revocar el acto o resolución impugnado.
+
 ###### Artículo 69.
 
 Pruebas documentales en la contestación
 
 1. Las pruebas documentales que se ofrezcan deberán de anexarse al escrito de contestación de demanda, si no cumpliere el tribunal las requerirá al oferente para que dentro del plazo de tres días las presenten, apercibiéndolo de que de no hacerlo en tiempo se tendrán por no ofrecidas dichas pruebas.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 70.
 
 Copias y anexos de la contestación
 
-1. A la contestación deberá acompañarse copia de la misma y de todos los documentos anexos, para cada una de las partes, siempre que las mismas no excedan de veinticinco hojas.
+1. A la contestación deberá acompañarse copia completa y legible de la misma y de todos los documentos anexos para cada una de las partes.
 
 ###### Artículo 71.
 
@@ -1201,17 +1321,23 @@ Declaración de rebeldía
 
 1. Si la parte demandada no contestare dentro del término legal respectivo, el Magistrado instructor que conozca del asunto declarará de oficio la correspondiente rebeldía y tendrá por confesados los hechos que el actor impute de manera precisa al demandado, salvo prueba en contrario.
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 73.
 
-Examen de las causales de improcedencia y sobreseimiento.
+Resolución de causales de improcedencia y sobreseimiento
 
-1. Contestada la demanda, el Magistrado instructor examinará el expediente y si encontrare justificada alguna causa de improcedencia o sobreseimiento en términos de lo previsto en los artículos 85 y 86 de esta Ley, formulará el proyecto de resolución correspondiente, sometiéndolo de inmediato a la consideración del Pleno, quien podrá dar por concluido anticipadamente el juicio, o bien reservar su análisis y resolución hasta la emisión de la sentencia definitiva.
+1. Contestada la demanda, el Magistrado instructor examinará el expediente y, si advierte justificada alguna causal de improcedencia o sobreseimiento conforme a lo previsto en los artículos 85 y 86 de esta Ley, podrá formular de inmediato el proyecto de resolución respectivo y someterlo a la consideración del Pleno, el cual resolverá si concluye el juicio de manera anticipada. Si el Magistrado considera que la causal debe resolverse hasta la emisión de la sentencia definitiva, reservará su análisis para ese momento, y el Pleno decidirá lo que en derecho corresponda.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+2. El Magistrado instructor estará facultado para resolver directamente el sobreseimiento del juicio, hasta antes del cierre de la instrucción, en los siguientes casos:
 
-2. El Magistrado Instructor estará facultado para resolver directamente el sobreseimiento del juicio hasta antes del cierre de la instrucción, cuando el actor se desista del mismo; cuando se revoque el acto o resolución impugnado; cuando se advierta que han cesado los efectos de dicho acto o éste no pueda surtir efecto legal o material alguno por haber dejado de existir el objeto o materia del mismo; y cuando se acredite la inactividad procesal, esto es, cuando transcurridos ciento ochenta días naturales contados a partir de la notificación de la última determinación jurisdiccional no hubiere promoción de cualquiera de las partes tendiente a la prosecución del juicio.
+I. Cuando el actor se desista de la demanda;
+
+II. Cuando la autoridad revoque el acto o resolución impugnado o, en su caso, satisfaga la pretensión del actor;
+
+III. Cuando se advierta que han cesado los efectos del acto impugnado o éste no pueda surtir efecto legal o material alguno por haber dejado de existir el objeto o materia del mismo; y
+
+IV. Cuando se acredite la inactividad procesal, esto es, cuando transcurridos ciento ochenta días naturales contados a partir de la notificación de la última determinación jurisdiccional no hubiere promoción de cualquiera de las partes tendiente a la prosecución efectiva del juicio.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1231,7 +1357,17 @@ Abreviación del juicio.
 
 1. Una vez agotados los plazos para la contestación de la demanda o de su ampliación, así como para que se presente a juicio el tercero interesado, o habiéndose cumplido tales actos y siempre que no hubieren sido ofrecidas pruebas que requieran un especial desahogo, esto es, testimoniales, periciales, inspecciones u otras análogas, el Magistrado Instructor, de oficio o a petición de parte, dictará un acuerdo mandando poner inmediatamente los autos a la vista de las partes para que dentro del término de tres días hábiles formulen por escrito sus alegatos finales.
 
-2. Concluido el plazo para la formulación de los alegatos se turnará el asunto para el dictado de la sentencia respectiva, la que deberá pronunciarse observando lo establecido por el artículo 116 de esta Ley.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+2. Concluido el plazo para la formulación de los alegatos, de oficio o a petición de parte, se declarará cerrada la instrucción y turnará el asunto para el dictado de la sentencia respectiva, la que deberá pronunciarse observando lo establecido por el artículo 116 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+3. Las partes, en cualquier momento antes del dictado de la sentencia, podrán celebrar convenio con el propósito de poner fin al juicio contencioso-administrativo, salvo que el convenio implique una infracción al ordenamiento jurídico, verse sobre materias no susceptibles de transacción o se afecten derechos de terceros. A través de este instrumento, podrán acordar el pago de prestaciones económicas, el cumplimiento de obligaciones pendientes o la realización de actividades, obras o servicios.
+
+El convenio celebrado deberá ser presentado ante el Tribunal para su formalización y validación en el expediente del juicio respectivo, a cargo del Magistrado instructor, con la obligación de las partes de comparecer para ratificar su contenido y firmas. Posteriormente, el Magistrado instructor lo elevará a la categoría de sentencia ejecutoriada, produciendo los efectos de cosa juzgada.
+
+El cumplimiento del convenio elevado a la categoría de sentencia ejecutoriada se ajustará a los términos pactados en el propio convenio y, en su caso, a las disposiciones aplicables para la ejecución de sentencias previstas en esta Ley.
 
 ### CAPÍTULO VI. DE LA SUSPENSION
 
@@ -1329,11 +1465,11 @@ Impugnación contra la suspensión o la restitución
 
 ### CAPÍTULO VII. DE LA IMPROCEDENCIA Y SOBRESEIMIENTO
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 85.
 
-Improcedencia.
+Improcedencia
 
 1. El juicio ante el Tribunal será improcedente en los siguientes casos:
 
@@ -1375,25 +1511,31 @@ IX. Contra actos que hayan sido materia de resolución en diverso proceso jurisd
 
 X. Respecto de la autoridad señalada como demandada o responsable cuando esta no hubiere emitido el acto o resolución impugnado;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-XI. Contra actos que no sean efectivamente administrativos en términos de la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios o contra actos internos de los entes públicos que no incidan en la esfera jurídica de los particulares;
-
-y (sic)
+XI. Contra actos que no sean efectivamente administrativos en términos de la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios; y contra actos que no constituyan la decisión final o voluntad definitiva de la Administración Pública;
 
 XII. Cuando hayan cesado los efectos del acto impugnado o éste no pueda surtir efecto legal o material alguno por haber dejado de existir el objeto o materia del mismo; y
 
-XIII. En los demás casos en que la improcedencia resulte de alguna disposición legal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+XIII. Contra la falta del pago estipulado en contratos administrativos cuando no exista previamente una resolución expresa o negativa ficta de la que derive el incumplimiento de esa obligación; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+XIV. En los demás casos en que la improcedencia resulte de alguna disposición legal.
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 86.
 
-Sobreseimiento.
+Sobreseimiento
 
 1. Procede el sobreseimiento del juicio en los siguientes casos:
 
-I. Cuando el actor se desista del juicio;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+I. Cuando el actor se desista de la demanda;
 
 II. Cuando durante el juicio apareciere o sobreviniere alguna de las causas de improcedencia a que se refiere el artículo anterior;
 
@@ -1403,7 +1545,9 @@ IV. Cuando la autoridad demandada revoque el acto o resolución impugnada o, en 
 
 V. En los demás casos en que por disposición legal haya impedimento para emitir resolución definitiva; y
 
-VI. Por inactividad procesal por más de ciento ochenta días naturales.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Por caducidad de la instancia derivada de la inactividad procesal por más de ciento ochenta días naturales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1411,21 +1555,31 @@ VI. Por inactividad procesal por más de ciento ochenta días naturales.
 
 ### CAPÍTULO VIII. DE LOS INCIDENTES
 
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 87.
 
-Incidentes de previo y especial pronunciamiento
+Incidentes
 
-1. Sólo serán de previo y especial pronunciamiento los siguientes incidentes:
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+1. Serán de previo y especial pronunciamiento los siguientes incidentes:
 
 I. El de acumulación de autos;
 
 II. El de nulidad de notificaciones;
 
-III. El de interrupción por causa de muerte o disolución en el caso de personas morales;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+III. El de interrupción del juicio;
 
 IV. El de falta de personalidad; y
 
 V. El de incompetencia.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+2. Las demás cuestiones incidentales que se promuevan no se considerarán de previo y especial pronunciamiento, y se sujetarán, en lo conducente, a las reglas de tramitación previstas en el artículo siguiente.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1481,9 +1635,11 @@ Resolución de la acumulación
 
 1. Una vez transcurrido el término anterior, el Magistrado instructor en el plazo de tres días, dictará la resolución que proceda. La acumulación podrá tramitarse de oficio.
 
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 93.
 
-Incidente de nulidad
+Incidente de nulidad de notificaciones
 
 1. Las notificaciones que no fueren hechas conforme a lo dispuesto en la presente Ley serán nulas. En este caso la parte perjudicada podrá pedir que se declare la nulidad dentro de los cinco días siguientes a aquél en que conoció el hecho, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
 
@@ -1495,13 +1651,21 @@ Pruebas en el incidente de nulidad
 
 1. Las pruebas ofrecidas respecto del incidente de nulidad, se desahogarán en una sola audiencia que deberá tener verificativo dentro de los cinco días siguientes al en que haya transcurrido el término concedido a las partes para desahogar la vista que se les dio, quedando en ese mismo acto citadas para resolución interlocutoria, la que deberá dictarse dentro de los cinco días siguientes.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 95.
 
-Incidente de interrupción
+Incidente de interrupción del juicio
 
-1. En los casos a que se refiere el artículo 87 fracción III de esta Ley, el incidente de interrupción se tramitará en la forma prevista para los incidentes de nulidad de notificaciones y procederá hasta antes de que se celebre la audiencia del juicio. El incidente se tramitará aún de oficio.
+1. La interrupción del juicio por causa de muerte, incapacidad, declaratoria de ausencia del actor, o disolución de la persona moral que actúe como actor, tendrá una duración máxima de ciento ochenta días naturales y se regirá por las siguientes disposiciones:
 
-2. El procedimiento se reanudará cuando se apersone a juicio el representante de la sucesión. Si éste no se apersonare en el plazo de seis meses a partir de la fecha en que se decretó la suspensión, las notificaciones se harán por lista.
+I. La interrupción del juicio será decretada por el Magistrado instructor a partir del momento en que tenga conocimiento formal de cualquiera de las causas mencionadas en este artículo;
+
+II. Dentro del plazo de ciento ochenta días naturales, deberán comparecer ante el Tribunal el albacea, beneficiario, tutor o representante legal correspondiente para continuar con el juicio; y
+
+III. Si transcurrido el plazo máximo de interrupción, no se presenta ninguno de los sujetos antes mencionados, el Magistrado instructor dictará el sobreseimiento del juicio por inactividad procesal, conforme a lo dispuesto en el artículo 73, punto 2, de esta Ley.
+
+2. El trámite del juicio, incluyendo el procedimiento de ejecución de la sentencia, también se interrumpirá cuando exista una orden o mandamiento expreso emitido por una autoridad jurisdiccional competente. Una vez que cesen los efectos de dichas órdenes, el juicio se reanudará.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1513,13 +1677,13 @@ Incidentes de falta de personalidad e incompetencia.
 
 ### CAPÍTULO IX. DE LAS PRUEBAS
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 97.
 
-Pruebas admisibles.
+Pruebas admisibles
 
-1. En los juicios que se tramiten ante el Tribunal serán admisibles toda clase de pruebas, excepto la confesional mediante la absolución de posiciones, la declaración de parte a cargo de las autoridades y aquellas que sean contrarias a derecho. En cualquier caso, corresponderá al Magistrado Instructor desechar de plano aquellas pruebas que sean inadmisibles o que no guarden relación con el juicio.
+1. En los juicios que se tramiten ante el Tribunal serán admisibles toda clase de pruebas, con excepción de la confesional mediante absolución de posiciones, la declaración de parte a cargo de las autoridades, del actor o del tercero interesado, y aquellas que sean contrarias a derecho. En cualquier caso, corresponderá al Magistrado instructor desechar de plano aquellas pruebas que sean inadmisibles o que no guarden relación con el juicio.
 
 ###### Artículo 98.
 
@@ -1533,11 +1697,13 @@ Admisión de las pruebas
 
 1. Las pruebas serán admitidas en los acuerdos de radicación de la demanda, contestación y en su caso en la ampliación de las mismas. En contra de esta resolución, procederá el recurso de reclamación.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 100.
 
-Pruebas supervinientes
+Pruebas supervenientes
 
-1. Las pruebas supervenientes podrán presentarse hasta antes del inicio de la audiencia de pruebas y alegatos, o cuando no hubiera hasta antes del turno del expediente a sentencia definitiva. En este caso, el Magistrado instructor ordenará dar vista a la contraparte para que en el plazo de tres días exprese lo que a su derecho convenga, resolviéndose sobre su admisión dentro del tercer día. La resolución no será recurrible.
+1. Las pruebas supervenientes podrán presentarse hasta antes del inicio de la audiencia de pruebas y alegatos, o, en su defecto, antes de que el expediente sea turnado para el dictado de la sentencia definitiva. En tal caso, el Magistrado instructor ordenará dar vista a la contraparte para que en un plazo de tres días hábiles exprese lo que a su derecho convenga. La resolución sobre la admisión de dichas pruebas se emitirá posteriormente, ya sea por el propio Magistrado Instructor o por el Pleno del Tribunal. En ningún caso la decisión será recurrible.
 
 ###### Artículo 101.
 
@@ -1567,37 +1733,53 @@ Prueba pericial
 
 2. El Magistrado instructor, aunque no lo pidan las partes, podrá hacerse asistir por uno o más peritos cuando lo considere necesario para el esclarecimiento de puntos o cuestiones de litigio, o para el cumplimiento de actos que no esté en condiciones de apreciar por sí mismo.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 105.
 
-Desahogo de la prueba pericial
+Desarrollo de la prueba pericial
 
-1. La prueba pericial deberá ofrecerse expresando los puntos sobre los cuales ésta debe versar, con la correspondiente relación de tal prueba con los hechos controvertidos, las cuestiones que deba dictaminar el perito, así como su nombre, apellidos, domicilio, cédula profesional o calidad técnica, artística, industrial u otras.
+1. La prueba pericial deberá ofrecerse especificando la materia sobre la que versará, expresando con claridad las cuestiones o puntos que deberán ser atendidos en el peritaje, así como los hechos que se pretenden demostrar en el juicio. Deberá indicarse el nombre completo del perito propuesto, su domicilio, y su cédula profesional o acreditación técnica.
 
-2. El oferente deberá acompañar un escrito en el cual el perito que designó acepte el cargo conferido y proteste su fiel y legal desempeño, debiendo anexar copia certificada de su cédula profesional o los documentos que acrediten sus conocimientos especializados en el arte, técnica, oficio o industria para el que se le designa y manifestar, bajo protesta de decir verdad, que conoce los puntos cuestionados y pormenores relativos a la pericial, así como que tiene la capacidad suficiente para emitir dictamen sobre el particular. El incumplimiento de dichos requisitos tendrá como consecuencia la no admisión de la prueba.
+2. El oferente de la prueba deberá acompañar un escrito en el que el perito propuesto acepte el cargo y proteste su legal desempeño, manifestando bajo protesta de decir verdad que conoce las cuestiones o puntos que deberán ser atendidos en el peritaje. Asimismo, deberá anexarse el original o copia certificada de la cédula profesional o acreditación técnica del perito. El incumplimiento de alguno de estos requisitos dará lugar al desechamiento de la prueba.
 
-3. Admitida la prueba pericial, el Magistrado instructor dará vista a la contraparte, por el término de tres días para que, en su caso, proponga la ampliación de otros puntos o cuestiones además de los formulados por el oferente para que los peritos dictaminen y para que designe perito de su parte, debiendo nombrarlo en la misma ciencia, arte, técnica, oficio o industria en que la haya ofrecido la contraria y expresar su cédula profesional, calidad técnica, artística, industrial u otras y domicilio, acompañando el escrito de aceptación del perito y los requisitos mencionados en el párrafo anterior, ante su incumplimiento se le tendrá por conforme con el dictamen pericial que rinda el perito del oferente.
+3. En caso de que se admita la prueba, el Magistrado instructor dará vista a la contraparte, notificándole las cuestiones o puntos sobre los cuales versará el peritaje, y otorgándole un plazo de cinco días hábiles para que designe a su propio perito, quien deberá cumplir con los mismos requisitos señalados en el punto anterior. El incumplimiento de estos requisitos dará lugar a que el Tribunal considere únicamente el peritaje rendido por quien los haya cumplido.
 
-4. Los peritos deberán rendir su dictamen dentro de los diez días siguientes a la fecha en que se les notifique la admisión de la prueba al oferente, término que podrá ampliarse si existiera causa justificada para ello. No será necesaria la ratificación de dichos dictámenes ante el Tribunal.
+4. En el auto que tenga por desahogada la vista, el Magistrado instructor fijará a los peritos admitidos un plazo común de diez días hábiles para que rindan su dictamen pericial. Este plazo empezará a correr a partir del día siguiente al de la notificación de dicho auto a las partes.
 
-5. En cualquier momento las partes podrán acordar la designación de un solo perito.
+Por una sola vez y por causa justificada, cualquiera de las partes podrá solicitar, antes de que venza el plazo indicado, una ampliación del tiempo para rendir su dictamen. El Magistrado instructor, a su discreción, podrá conceder un plazo adicional que no podrá exceder de diez días hábiles.
 
-6. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, de tal modo que el Magistrado instructor considere que no es posible encontrar conclusiones que le aporten elementos de convicción, designará al perito tercero en discordia. Dicho perito no será recusable, pero deberá excusarse cuando concurra en él alguno de los impedimentos que señala el artículo 23 de esta Ley.
+5. Dentro del plazo concedido, las partes deberán exhibir el documento que contenga el dictamen pericial, el cual deberá estar debidamente firmado por el perito respectivo.
 
-7. Los peritos fundamentarán en forma idónea su dictamen y podrán acompañar a éste dibujos, planos, muestras u otros anexos que sirvan para ilustrarlo. Además, podrán requerir informes de terceros y ejecutar calcas, planos, relieves, así como todas las actividades que sean indispensables para rendir su dictamen. Igualmente estarán facultados para inspeccionar lugares, bienes muebles o inmuebles, documentos, libros, archivos físicos o electrónicos y obtener muestras para motivar sus dictámenes. Las partes estarán obligadas a darles facilidades para el cumplimiento de su misión y el Tribunal les prestará, para este fin, el auxilio necesario.
+6. Los peritos deberán justificar su dictamen y podrán acompañarlo con imágenes, gráficos, planos, muestras, audios, videos, y en general, cualquier elemento contenido en instrumentos tecnológicos o telemáticos, identificando, en su caso, a las personas, lugares y circunstancias de modo y tiempo que reproduzcan la prueba. El dictamen también podrá incluir informes y datos obtenidos de terceros, identificando la fuente respectiva.
+
+Los peritos podrán inspeccionar lugares, bienes muebles e inmuebles, archivos, documentos, libros, y obtener cualquier elemento idóneo para justificar su dictamen. Las partes deberán proporcionar las facilidades necesarias para la adecuada realización de su actividad, y el Tribunal les prestará el auxilio necesario para este propósito.
+
+7. Los dictámenes periciales presentados en tiempo y forma se expondrán y desahogarán en la audiencia de pruebas y alegatos. Las partes, por sí mismas o por medio de sus representantes o abogados, podrán asistir a la audiencia acompañadas de sus peritos.
+
+En caso de hacer uso de este derecho, los peritos de las partes podrán, en la audiencia, aclarar, precisar o ampliar el contenido del dictamen que hubieren rendido, ya sea de forma oral o escrita. Las partes también podrán formular preguntas al perito de la contraparte si éste se encuentra presente en la audiencia.
+
+8. Desahogada la audiencia de pruebas y alegatos, el Magistrado instructor podrá designar a un perito tercero cuando considere que ninguno de los dictámenes periciales rendidos proporciona elementos de convicción suficientes, o si los dictámenes resultan sustancialmente contradictorios. Dicho perito no será recusable, pero deberá excusarse si concurre en él alguno de los impedimentos señalados en el artículo 23 de esta Ley.
+
+9. El Magistrado instructor podrá solicitar a los peritos todas las aclaraciones que estime necesarias y exigir la realización de nuevas diligencias si lo considera conveniente, aun cuando ya se haya celebrado la audiencia del juicio.
+
+10. El Magistrado instructor tendrá la más amplia facultad para valorar no sólo la idoneidad y el alcance de los dictámenes presentados, sino también la idoneidad del perito que los emite.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 106.
 
 Implicaciones de la prueba pericial
 
-1. Si la parte contraria no designara perito, o éste no aceptara y protestara el cargo, se le tendrá por conforme con el dictamen pericial que rinda el perito del oferente.
+1. Si la parte contraria no designa a su perito, o si el perito designado no acepta y protesta el cargo, el Tribunal considerará únicamente el dictamen pericial correctamente rendido por quien haya cumplido con los requisitos para su admisión.
 
-2. Si la parte contraria no anexara el original o copia de la cédula profesional de su perito o los documentos que acrediten que tiene conocimientos en el arte, técnica, oficio o industria para el cual es designado, se le tendrá por conforme con el dictamen pericial que rinda el perito del oferente.
+2. De igual forma, si la parte contraria no anexa el original o copia certificada de la cédula profesional o acreditación técnica del perito, el Tribunal considerará únicamente el dictamen pericial correctamente rendido por quien haya cumplido con los requisitos para su admisión.
 
-3. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes no rinden su dictamen dentro del término concedido, el Magistrado declarará desierta la prueba.
+3. En el supuesto de que el perito designado por alguna de las partes, habiendo aceptado y protestado el cargo, no presente su dictamen pericial dentro del plazo concedido, la prueba se desahogará únicamente con el dictamen que se encuentre rendido. Si los peritos de ambas partes no rinden su dictamen dentro del plazo concedido, se declarará desierta la prueba.
 
-4. En caso de que alguno de los peritos renuncie después de haber aceptado y protestado el cargo, la parte que lo haya nombrado podrá sustituirlo cumpliendo con los requisitos señalados por el artículo 107 de la presente Ley, siempre y cuando lo haga dentro del término otorgado para que se presentara el peritaje. El nuevo perito deberá rendir su peritaje dentro del término otorgado al perito sustituido.
+4. En caso de que algún perito renuncie después de haber aceptado y protestado el cargo, la parte que lo designó podrá sustituirlo, siempre que cumpla con los requisitos señalados en el artículo 105 de esta ley, y lo haga dentro del plazo otorgado para la presentación del dictamen pericial. El nuevo perito deberá rendir el dictamen dentro del plazo originalmente otorgado al perito sustituido.
 
-5. Los peritos deberán comparecer a la audiencia de pruebas y alegatos a fin de que las partes puedan hacer uso del derecho a interrogarlos en relación al peritaje rendido, de no asistir, su peritaje no será tomado en cuenta al momento de dictar la sentencia correspondiente.
+5. Si las partes deciden no ejercer su derecho a asistir a la audiencia de pruebas y alegatos acompañadas de sus peritos, perderán la oportunidad de que éstos aclaren, precisen o amplíen el contenido del dictamen rendido. En tal caso, la prueba será valorada en la sentencia únicamente con base en el dictamen rendido y los elementos que obren en autos.
 
 ###### Artículo 107.
 
@@ -1605,33 +1787,53 @@ Honorarios de los peritos
 
 1. Los honorarios de cada perito serán pagados por la parte que lo nombró. El tercero para el caso de discordia será pagado por las partes.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 108.
 
 Prueba de inspección
 
-1. Al ofrecer la prueba de inspección las partes deberán indicar los puntos sobre los cuales habrá de versar, de igual manera deberán precisar el lugar en que habrá de practicarse, proporcionando datos indubitables y suficientes para su ubicación, la falta de uno de estos requisitos dará lugar al desechamiento de la prueba.
+1. La prueba de reconocimiento o inspección podrá ser ofrecida y admitida cuando se especifiquen los puntos sobre los que versará, indicando claramente las circunstancias, objetos o elementos que habrán de examinarse, así como lo que se pretende demostrar. Además, el oferente deberá señalar el lugar donde se practicará la diligencia, proporcionando datos precisos y suficientes para su correcta ubicación. La falta de alguno de estos requisitos dará lugar al desechamiento de la prueba.
+
+2. Las partes, sus representantes o abogados autorizados podrán asistir a la diligencia de reconocimiento o inspección para observar su desarrollo y formular las observaciones que consideren oportunas.
+
+3. El resultado de la diligencia deberá ser documentado en un acta que incluirá descripciones, observaciones y cualquier evidencia obtenida, como imágenes, audios, videos o elementos recabados o contenidos en instrumentos tecnológicos o telemáticos. El acta deberá ser firmada por los asistentes y se incorporará al expediente del juicio.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 109.
 
 Prueba testimonial
 
-1. Los testigos, que no podrán exceder de tres respecto de cada hecho que se pretenda probar, deberán ser presentados por el oferente y, sólo en el caso de que éste manifieste imposibilidad para hacerlo señalando la causa o motivo justificado que le impide presentarlos, el Magistrado ponente los mandará citar.
+1. La prueba testimonial podrá ser ofrecida y admitida siempre que se indiquen el nombre, domicilio y ocupación de los testigos que declararán sobre hechos que les consten directamente y que estén relacionados con el juicio. Los testigos, cuyo número no podrá exceder de tres por cada hecho que se pretenda probar, deberán ser presentados por el oferente en la fecha, hora y lugar que el Magistrado instructor señale para su interrogatorio. Solo en caso de que el oferente manifieste una imposibilidad justificada para presentarlos, indicando la causa o motivo, el Magistrado instructor procederá a citarlos.
 
-2. Cuando el oferente solicite a la autoridad que cite al testigo y éste no viva en el domicilio señalado por el oferente, quedará obligado a presentarlo el día y la hora señalado para el desahogo de la diligencia.
+2. Cuando el oferente solicite al Tribunal que cite a un testigo, y este no resida en el domicilio señalado, el oferente quedará obligado a presentarlo en la fecha y hora fijadas para el desahogo de la diligencia.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+3. La prueba testimonial también podrá ser ofrecida y admitida cuando consista en declaraciones que consten en un acta levantada ante fedatario público, siempre que el fedatario haya recibido directamente las declaraciones de los testigos, quienes deben estar debidamente identificados y haber asentado la razón de su dicho. En este caso, el acta del fedatario público deberá adjuntarse a la demanda o su ampliación, o, en su caso, a la contestación.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 110.
 
-Recepción y desahogo de pruebas.
+Recepción y desahogo de pruebas
 
-1. Las pruebas que requieran diligencia especial se recibirán y desahogarán en la audiencia de pruebas y alegatos conforme a lo dispuesto en la presente Ley y, en lo que sea conducente, podrán aplicarse las disposiciones previstas de la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios y, en su caso, del Código de Procedimientos Civiles para el Estado de Colima.
+1. Las pruebas que requieran diligencia especial se recibirán y desahogarán en la audiencia de pruebas y alegatos conforme a lo dispuesto en la presente Ley y, en lo que sea conducente, podrán aplicarse las disposiciones previstas de la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios y, en su caso, del Código Nacional de Procedimientos Civiles y Familiares.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 111.
 
-Valorización de las pruebas
+Valoración de las pruebas
 
-1. La valorización de las pruebas se hará de acuerdo con las reglas de la lógica, la experiencia y la sana crítica, por lo que los magistrados gozan de la más amplia libertad para hacer el análisis de las pruebas rendidas. La confesión expresa, inspección y documental pública, tendrán valor probatorio pleno. Los hechos propios de las partes, aseverados en la demanda, en la contestación o en cualquier otro acto del juicio, harán prueba plena en contra de quien lo haga, sin necesidad de ofrecerlos como prueba.
+1. La valoración de las pruebas se realizará conforme a las reglas de la lógica, la experiencia y la sana crítica. Las magistradas y los magistrados gozarán de la más amplia libertad para analizar las pruebas presentadas en el juicio.
+
+2. Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
+
+3. La confesión expresa de las partes y la prueba de reconocimiento o inspección realizada por el Tribunal tendrán valor probatorio pleno.
+
+4. Las documentales privadas, pruebas técnicas, testimoniales, periciales, presuncionales e instrumentales de actuaciones tendrán valor probatorio relevante y podrán alcanzar valor probatorio pleno cuando, a juicio del Tribunal, los demás elementos del expediente, las manifestaciones de las partes, la notoriedad de los hechos y el análisis lógico permitan generar convicción sobre la veracidad de lo afirmado.
+
+5. El Tribunal podrá apartarse de lo dispuesto en los puntos anteriores y otorgar un valor diferente a las pruebas cuando, por la concatenación de los elementos probatorios y las presunciones formadas, adquiera una convicción distinta respecto de los hechos controvertidos.
 
 ### CAPÍTULO X. DE LA AUDIENCIA DE PRUEBAS Y ALEGATOS
 
@@ -1671,21 +1873,21 @@ Recepción de alegatos
 
 2. Cuando los alegatos se formulen verbalmente el Magistrado instructor podrá fijar discrecionalmente el tiempo de intervención de las partes.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 116.
 
-Cierre de la instrucción.
+Cierre de la instrucción
 
-1. En caso de no existir diligencias pendientes por practicar, se declarará de oficio cerrada la instrucción, quedando los autos en estado de dictar sentencia. En consecuencia, el Magistrado Instructor procederá a formular el proyecto de sentencia correspondiente para someterlo a la aprobación del Pleno del Tribunal dentro del plazo de los treinta días hábiles siguientes al cierre de la instrucción, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera.
+1. En caso de no existir diligencias pendientes por practicar, de oficio o a petición de parte, se declarará cerrada la instrucción y se ordenará poner los autos en estado de dictar sentencia. En consecuencia, el Magistrado instructor procederá a formular el proyecto de sentencia correspondiente para someterlo a la aprobación del Pleno del Tribunal dentro del plazo de treinta días hábiles siguientes al cierre de la instrucción, el cual podrá ampliarse por otros treinta días hábiles más. Adicionalmente, estos plazos podrán extenderse cuando la complejidad del asunto así lo requiera o las cargas de trabajo en el Tribunal lo justifiquen.
 
 ### CAPÍTULO XI. DE LA SENTENCIA
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 117.
 
-Elementos de la sentencia.
+Elementos de la sentencia
 
 1. Las sentencias no necesitarán formulismo alguno, pero deberán contener:
 
@@ -1695,9 +1897,15 @@ II. Los fundamentos legales en que se apoyen para declarar fundada o infundada l
 
 III. Los puntos resolutivos, en los que se expresarán los actos cuya validez se reconozcan o cuya nulidad se declare; la reposición del procedimiento que se ordene; los términos de la modificación del acto impugnado y, en su caso, la condena que se decrete.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-2. Si de la revisión integral del expediente en el que se actúa no se advierten los elementos necesarios o suficientes para fijar el monto de una condena que tenga que determinarse en cantidad líquida, pero quedó acreditada la obligación de pago o el derecho a la indemnización, el Tribunal emitirá la sentencia condenatoria que corresponda, pero reservando la fijación de su monto hasta en tanto se resuelva el incidente de liquidación respectivo, aplicándose para su tramitación, en aquello que sea conducente, las reglas previstas por el Código de Procedimientos Civiles para el Estado de Colima.
+2. Si de la revisión integral del expediente en el que se actúa no se advierten los elementos necesarios o suficientes para fijar el monto de una condena que tenga que determinarse en cantidad líquida, pero quedó acreditada la obligación de pago o el derecho a la indemnización, el Tribunal emitirá la sentencia condenatoria que corresponda, pero reservando la fijación de su monto hasta en tanto se resuelva el incidente de liquidación respectivo.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+3. Dicho incidente será abierto de oficio por el Magistrado Instructor que hubiere conocido del juicio, en cumplimiento de lo ordenado en la sentencia, disponiéndose el traslado común a las partes por un plazo de tres días hábiles para que formulen su proposición de liquidación, acompañen las documentales que estimen pertinentes y, en su caso, ofrezcan los elementos probatorios conducentes que requieran especial desahogo, los cuales se tramitarán conforme a las reglas del juicio en lo principal.
+
+Concluido el plazo y, en su caso, desahogadas las pruebas admitidas, el Magistrado Instructor formulará el proyecto de resolución interlocutoria que fijará la cantidad líquida correspondiente, el cual será sometido al Pleno para su aprobación. La resolución que se emita tendrá el carácter de definitiva dentro del incidente y no será susceptible de recurso alguno.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1739,11 +1947,15 @@ XIV. Vincular a otras autoridades distintas a la responsable al cumplimiento de 
 
 3. La sentencia que establezca como injustificada la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de las personas servidoras públicas de las instituciones de seguridad pública, incluyendo las de la Fiscalía General del Estado, la autoridad responsable sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho la persona afectada. En ningún caso procederá la reincorporación al servicio, cualquiera que sea el resultado del juicio que se hubiere promovido.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 119.
 
 Sentencias irrecurribles
 
-1. Las sentencias definitivas derivadas de los juicios contenciosos en materia administrativa y fiscal no admitirán recurso, por lo tanto, causarán ejecutoria sin necesidad de declaración expresa, quedando a salvo los derechos de las partes para promover los medios de control constitucional que la legislación nacional establezca para combatir en los casos que así proceda las sentencias definitivas y resoluciones que pongan fin al juicio dictadas por tribunales.
+1. Las sentencias definitivas que emita el Tribunal en los juicios contencioso-administrativos no admitirán recurso impugnativo alguno, quedando a salvo los derechos de las partes para promover los medios de control constitucional que la legislación nacional establezca para combatirlas en los casos en que así proceda.
+
+2. Las sentencias definitivas dictadas por el Tribunal, una vez notificadas y no impugnadas mediante los medios de control constitucional procedentes, o bien, resueltos estos en forma desfavorable al promovente, adquirirán el carácter de cosa juzgada y tendrán plena eficacia para su ejecución en los términos de esta Ley.
 
 > <small>(REFORMADO SU ACÁPITE, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1767,19 +1979,27 @@ II. A petición de parte: la parte interesada promoverá la aclaración en el t�
 
 ### CAPÍTULO XII. DE LA EJECUCIÓN DE LA SENTENCIA
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 121.
 
-Ejecución de la sentencia.
+Ejecución de la sentencia
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 1. Cuando haya causado ejecutoria una sentencia favorable al actor, el Tribunal lo comunicará por oficio y sin demora alguna a la autoridad, servidor público o sujeto obligado, para que en un plazo no mayor a diez días hábiles le den cabal cumplimiento, informando al Tribunal de las acciones o medidas concretas que se hubieren adoptado para cumplir con el fallo dictado, apercibidas que no de hacerlo se podrán hacer acreedoras a la imposición de medidas de apremio.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
 2. Si la sentencia no quedó cumplida en el plazo fijado, el Tribunal hará un nuevo requerimiento para que la autoridad, servidor público o sujeto obligado dentro del plazo de tres días hábiles cumplan con el fallo emitido, informando al Tribunal lo conducente, reiterándose el apercibimiento señalado en el punto anterior.
 
-3. Las partes podrán celebrar convenios con el propósito de dar cumplimiento a la sentencia dictada por el Tribunal, salvo si ello supusiere una infracción al ordenamiento jurídico o versen sobre materias que no sean susceptibles de transacción, pudiendo a través de tales instrumentos sustituir el pago de cualquier condena que se hubiere determinado en cantidad líquida por compensaciones en especie o ser abonada mediante pagos periódicos, o ambas, cuando resulte más adecuado para cumplir con la obligación debida, sin perjuicio de la prestación de actividades, obras o servicios que también se puedan convenir.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-El convenio celebrado por las partes deberá presentarse ante el Tribunal a efecto de validar su formalización dentro del expediente del juicio respectivo y formará parte de la etapa de ejecución de la sentencia.
+3. Las partes podrán celebrar convenio con el propósito de cumplir con la sentencia dictada por el Tribunal, siempre que dicho acuerdo no implique una infracción al ordenamiento jurídico, verse sobre materias no susceptibles de transacción o se afecten derechos de terceros. A través de este convenio, podrán sustituir el pago de cualquier condena líquida por compensaciones en especie, pagos periódicos, o una combinación de ambos, cuando ello resulte más adecuado para el cumplimiento de la obligación. Esto será sin perjuicio de que también puedan acordarse la prestación de actividades, obras o servicios.
+
+El convenio celebrado deberá ser presentado ante el Tribunal para su formalización y validación dentro del expediente del juicio respectivo, a cargo del Magistrado instructor, con la obligación de las partes de comparecer para ratificar su contenido y firmas. Posteriormente, el Magistrado Instructor lo integrará a la etapa de ejecución de la sentencia.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 4. No podrá archivarse ningún expediente sin que quede cumplida la sentencia o se hubiere extinguido la materia de la ejecución.
 
@@ -1859,13 +2079,17 @@ Procedimiento de la reclamación
 
 1. El recurso se interpondrá dentro de los tres días siguientes al de la notificación correspondiente y en él deberán expresarse agravios y en su caso acompañarse pruebas.
 
-2. El recurso se promoverá ante el Presidente del Tribunal, quien correrá traslado a las demás partes para que dentro del plazo de tres días aleguen lo que a su derecho convenga. Transcurrido este último plazo, el Presidente turnará los autos a un Magistrado distinto del recurrido a fin de que dentro del plazo de tres días elabore el proyecto de resolución que se someterá al Pleno del Tribunal.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+2. El recurso se promoverá ante el Presidente del Tribunal, quien correrá traslado a las demás partes para que dentro del plazo de tres días hábiles aleguen lo que a su derecho convenga. Transcurrido este último plazo, el Presidente turnará los autos a un Magistrado distinto del recurrido a fin de que proceda a formular el proyecto de resolución correspondiente para someterlo a la aprobación del Pleno del Tribunal dentro del plazo de diez días hábiles siguientes al cierre de la instrucción del recurso, el cual podrá ampliarse por otros diez días hábiles más. Adicionalmente, estos plazos podrán extenderse cuando la complejidad del asunto así lo requiera o las cargas de trabajo en el Tribunal lo justifiquen.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 129.
 
 Desechamiento de la reclamación
 
-1. El Tribunal podrá desechar de plano aquellos recursos de reclamación que resulten notoriamente improcedentes o que se interpongan con el propósito de retardar injustificadamente el procedimiento, haciendo constar el motivo del desechamiento.
+1. El Presidente del Tribunal podrá desechar de plano aquellos recursos de reclamación que resulten notoriamente improcedentes o injustificados, haciendo constar el motivo del desechamiento, pudiendo imponer a quien lo hubiere promovido una multa de diez a cien veces el valor diario de la unidad de medida y actualización.
 
 ###### Artículo 130.
 
@@ -1899,6 +2123,10 @@ II. En los casos de la fracción IV del referido artículo 130 ante el President
 
 5. En caso de declararse procedente la queja, la resolución que así lo determine fijará los efectos y lineamientos a que debe someterse la autoridad, y en lo conducente las partes, para dar debido cumplimiento a la misma, observando lo dispuesto en los artículos 122, 123 y 124 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+6. El Presidente del Tribunal o Magistrado instructor, según corresponda, podrá desechar de plano aquellos recursos de queja que resulten notoriamente improcedentes o injustificados, haciendo constar el motivo del desechamiento, pudiendo imponer a quien lo hubiere promovido una multa de diez a cien veces el valor diario de la unidad de medida y actualización.
+
 ### CAPÍTULO II. DE LOS RECURSOS EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 132.
@@ -1923,11 +2151,21 @@ Procedimiento para la inconformidad
 
 1. El recurso de inconformidad se interpondrá ante la propia autoridad que haya dictado el acto recurrido en el plazo de cinco días hábiles, contados a partir de la notificación de la resolución impugnada, de conformidad con el artículo 103 de Ley General y se tramitará y resolverá con arreglo a dicha ley.
 
-2. Recibido el recurso por parte del Tribunal, se designará, según el turno que corresponda, a un Magistrado instructor, quien lo substanciará y pondrá en estado de resolución.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-3. El Magistrado instructor estará facultado para decidir sobre los supuestos previstos en los artículos 105 y 106 de la Ley General.
+2. Una vez recibido el recurso por el Tribunal, este será turnado a un Magistrado, quien, en calidad de Sala Unitaria Especializada en Materia de Responsabilidades Administrativas, lo tramitará y resolverá.
 
-4. Una vez cerrada la instrucción, el Magistrado instructor someterá a la consideración del Pleno del Tribunal el proyecto de resolución definitiva que corresponda. Acto seguido el Pleno resolverá lo conducente.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+3. La Sala tendrá facultades para decidir sobre los supuestos previstos en los artículos 105 y 106 de la Ley General.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+4. Concluida la instrucción, la Sala emitirá una resolución definitiva sobre el recurso de inconformidad, en atención a lo establecido en los artículos 107, 108 y 110 de la Ley General.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+5. La resolución emitida sobre el recurso de inconformidad será definitiva y no admitirá recurso legal alguno.
 
 ###### Artículo 135.
 
@@ -1941,29 +2179,41 @@ II. Contra las resoluciones que decreten o nieguen el sobreseimiento del procedi
 
 III. Contra las resoluciones que admitan o rechacen la intervención del tercero interesado.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 136.
 
-Procedimiento para la reclamación.
+Procedimiento para la reclamación
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 1. La reclamación se interpondrá ante la propia autoridad substanciadora o resolutora que haya dictado el acto recurrido, esto es, ante la autoridad administrativa o, en su caso, ante el Tribunal, según corresponda, atendiendo a quien emitió la resolución que se recurre de entre las señaladas en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
 2. La reclamación deberá interponerse dentro de los cinco días hábiles siguientes a aquél en que surta efectos la notificación de que se trate, de conformidad con el artículo 214 de la Ley General, y se tramitará y resolverá con arreglo a dicha ley.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 3. Interpuesta la reclamación, se ordenará correr traslado a la contraparte por el término de tres días hábiles para que exprese lo que a su derecho convenga, sin más trámite, la autoridad administrativa o el Tribunal, según sea el caso, resolverá en el término de cinco días hábiles.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
 4. De la reclamación conocerá y por ende resolverá la propia autoridad substanciadora o resolutora que haya emitido el acto recurrido, esto es, la autoridad administrativa o el Tribunal, según se trate.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 5. La resolución de la reclamación no admitirá recurso legal alguno.
 
-6. El recurso de reclamación que corresponda conocer el Tribunal se sujetará adicionalmente a las reglas siguientes:
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-I. Interpuesta la reclamación, el Magistrado Presidente verificará en primer lugar su procedencia, pudiendo desecharla de plano cuando el recurso sea presentado fuera del término indicado en el punto 2 de este artículo, cuando se trate de actos que no sean susceptibles de impugnarse ante el Tribunal mediante dicho recurso o cuando el promovente carezca de legitimación procesal;
+6. El recurso de reclamación que corresponda conocer al Tribunal, será turnado a un Magistrado, quien, en calidad de Sala Unitaria Especializada en Materia de Responsabilidades Administrativas, lo tramitará y resolverá conforme a las reglas siguientes:
 
-II. En el caso de que la reclamación sea admitida a trámite, el Magistrado Presidente ordenará correr traslado a la contraparte por el término de tres días hábiles indicado en el punto 3 de este artículo para que exprese lo que a su derecho convenga y en el mismo auto designará, según el turno que corresponda, a un Magistrado Instructor para que substancie el recurso y lo ponga en estado de resolución; y
+I. Interpuesta la reclamación, la Sala verificará en primer lugar su procedencia, pudiendo desecharla de plano cuando el recurso sea presentado fuera del término indicado en el punto 2 de este artículo, cuando se trate de actos que no sean susceptibles de impugnarse ante el Tribunal mediante dicho recurso o cuando el promovente carezca de legitimación procesal;
 
-III. Desahogado el traslado a la contraparte, el Magistrado Instructor someterá a la consideración del Pleno del Tribunal el proyecto de resolución definitiva respectivo. Acto seguido el Pleno resolverá lo conducente.
+II. En el caso de que la reclamación sea admitida a trámite, la Sala ordenará correr traslado a la contraparte por el término de tres días hábiles indicado en el punto 3 de este artículo para que exprese lo que a su derecho convenga; y
+
+III. Desahogado el traslado a la contraparte, la Sala resolverá en definitiva el recurso de reclamación.
 
 ###### Artículo 137.
 
@@ -1971,13 +2221,17 @@ Recurso de apelación
 
 1. El recurso de apelación es procedente:
 
-I. Contra las resoluciones emitidas por el Pleno del Tribunal que determinen imponer sanciones por la comisión de faltas administrativas graves o faltas de particulares; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-II. Contra las resoluciones emitidas por el mismo Pleno que determinen que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean servidores públicos o particulares.
+I. Contra las resoluciones emitidas por los Magistrados, actuando en calidad de Sala Unitaria Especializada en Materia de Responsabilidades Administrativas, que determinen imponer sanciones por la comisión de faltas administrativas graves o faltas de particulares; y
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+II. Contra las resoluciones emitidas por la misma Sala que determinen que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean servidores públicos o particulares.
 
 2. El recurso de apelación podrá ser interpuesto por los servidores públicos y particulares que resulten responsables de la comisión de faltas administrativas graves o faltas de particulares, según sea el caso, así como por los terceros, que son todos aquellos a quienes pueda afectar la resolución que se dicte en el procedimiento de responsabilidad administrativa, incluido el denunciante.
 
-3. La interposición del recurso de apelación será optativa para las partes, ya sea que éstas decidan agotarlo ante el Tribunal o promover directamente el juicio de amparo que la legislación nacional en la materia establezca para combatir en los casos que así proceda las sentencias definitivas y resoluciones que pongan fin al juicio dictadas por tribunales.
+3. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2025)
 
 ###### Artículo 138.
 
@@ -1993,11 +2247,13 @@ Procedimiento para la apelación
 
 5. Una vez cerrada la instrucción, el Magistrado instructor someterá a la consideración del Pleno del Tribunal el proyecto de resolución definitiva que corresponda. Acto seguido el Pleno resolverá lo conducente.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 139.
 
 Recurso de revisión
 
-1. Las sentencias definitivas que emita el Tribunal podrán ser impugnadas mediante el recurso de revisión por el Órgano Superior de Auditoría, la Contraloría General del Estado, las contralorías de los municipios y los demás Órganos internos de control de los Entes públicos.
+1. Las sentencias definitivas emitidas por los Magistrados, actuando en calidad de Sala Unitaria Especializada en Materia de Responsabilidades Administrativas, podrán ser impugnadas mediante el recurso de revisión por el Órgano Superior de Auditoría, la Contraloría General del Estado, las contralorías de los Municipios y los demás Órganos internos de control de los Entes públicos.
 
 ###### Artículo 140.
 
@@ -2023,23 +2279,31 @@ Procedimiento para la revisión
 
 ## TÍTULO CUARTO. DE LA JURISDICCIÓN CONSULTIVA
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 141.
 
-Competencia.
+Competencia
 
-1. El Tribunal tiene competencia para ejercer la función jurisdiccional consultiva y, en consecuencia, estará facultado para emitir opinión fundada respecto de la consulta de interpretación que se promueva sobre el contenido y alcance de disposiciones previstas en las leyes locales en materia administrativa, fiscal, de fiscalización, responsabilidades administrativas, anticorrupción y rendición de cuentas, en los términos previstos en esta Ley y el Reglamento Interior.
+1. El Tribunal tiene competencia para ejercer la función jurisdiccional consultiva y, en consecuencia, está facultado para resolver respecto a las consultas de interpretación que se presenten sobre el contenido y alcance de disposiciones establecidas en las leyes locales en materia administrativa, fiscal, de fiscalización, responsabilidades administrativas, transparencia, anticorrupción y rendición de cuentas, en los términos previstos en esta Ley y el Reglamento Interior.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 142.
 
-Sujetos legitimados.
+Sujetos legitimados
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 1. La persona titular del Poder Ejecutivo tendrá legitimación activa para promover la consulta de interpretación prevista en el artículo anterior, quien la podrá formular por conducto del titular de la Consejería Jurídica del Poder Ejecutivo del Estado.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
 2. El Comité de Participación Ciudadana del Sistema Anticorrupción del Estado de Colima también tendrá legitimación activa para promover la referida consulta, la que formulará por conducto de su presidente, previo acuerdo de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+3. Los Municipios del Estado de Colima también tendrán legitimación activa para promover consultas, las que formularán por conducto de la presidenta o presidente municipal o, en su caso, de la síndica o síndico municipal, previo acuerdo de los integrantes del Ayuntamiento respectivo.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -2099,23 +2363,23 @@ IV. En el caso de que sea admitida la consulta, el Magistrado Instructor realiza
 
 V. Una vez agotada la substanciación, el Magistrado Instructor en su carácter de Ponente, formulará y someterá el proyecto de resolución al Pleno para que este decida lo que corresponda.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 146.
 
-Opinión fundada.
+Decisión
 
-1. (sic) Pleno del Tribunal resolverá la consulta que se promueva respecto del contenido y alcance de la disposición de la ley local sobre la que se pide la interpretación, emitiendo su opinión fundada en la que fijará el sentido que debe dársele a la norma que se interpreta, pudiendo señalar los parámetros para su correcta aplicación.
+1. El Pleno del Tribunal resolverá la consulta que se promueva respecto del contenido y alcance de la disposición de la ley local sobre la que se pide la interpretación, emitiendo su decisión en la que fijará el sentido que debe dársele a la norma que se interpreta, pudiendo señalar los parámetros para su correcta aplicación.
 
-2. La resolución que contenga la opinión fundada tendrá efectos declarativos generales, un carácter orientativo para autoridades y terceros y un propósito esclarecedor frente a los destinatarios de la norma.
+2. La resolución que se emita producirá efectos declarativos generales, fijando un criterio orientador para autoridades y terceros, y se constituirá en una directriz esclarecedora para los destinatarios de la norma.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 147.
 
-Publicidad.
+Publicidad
 
-1. La opinión fundada que se emita se notificará al promovente y se publicará en el periódico oficial del Estado.
+1. La resolución que se emita se notificará al promovente y se publicará en el Periódico Oficial del Estado.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -2192,3 +2456,21 @@ TERCERO. El Pleno del Tribunal deberá armonizar, en lo que corresponda, y en un
 CUARTO. En ejercicio de sus facultades regulatorias, el Pleno del Tribunal podrá adoptar las medidas que sean necesarias para cumplir y dar eficacia a las disposiciones contenidas en el presente Decreto.
 
 QUINTO. Los juicios iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes al momento de su inicio, salvo lo que se refiere a las disposiciones relativas al sobreseimiento por inactividad procesal, así como al cumplimiento y ejecución de las sentencias. En este último caso, dichas disposiciones serán plenamente aplicables a los juicios iniciados con anterioridad a la entrada en vigor del presente Decreto, siempre y cuando la sentencia respectiva haya causado estado con posterioridad a la entrada en vigor del indicado Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 157.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE COLIMA, ASÍ COMO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS, ACOMPAÑADO DE LA APROBACIÓN DEL VETO PARCIAL PRESENTADO POR LA MAESTRA INDIRA VIZCAÍNO SILVA, GOBERNADORA CONSTITUCIONAL DEL ESTADO DE COLIMA, AL DECRETO NO. 157 EMITIDO POR EL CONGRESO DEL ESTADO EL 28 DE AGOSTO DE 2025”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO. Las disposiciones del presente Decreto serán aplicables a los procedimientos que se encuentren en trámite al momento de su entrada en vigor, en la medida en que no resulten incompatibles con las disposiciones vigentes al inicio de dichos procedimientos, en cuyo caso prevalecerán las disposiciones anteriores.
+
+CUARTO. Las disposiciones del presente Decreto que hagan referencia al Código Nacional de Procedimientos Civiles y Familiares serán aplicables únicamente a partir de la fecha en que dicho ordenamiento entre en vigor en el Estado de Colima, conforme a la declaratoria que emita el Congreso del Estado en términos del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023, por el que se expidió el referido Código Nacional.
+
+En tanto no ocurra lo anterior, continuará aplicándose supletoriamente, en lo que resulte conducente, el Código de Procedimientos Civiles para el Estado de Colima.
+
+QUINTO. El Pleno del Tribunal deberá armonizar el Reglamento Interior en lo que corresponda, en un plazo que no excederá de noventa días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+SEXTO. En ejercicio de sus facultades, el Pleno del Tribunal podrá emitir las disposiciones de carácter reglamentario, así como adoptar las medidas administrativas, operativas y de organización interna que resulten necesarias para garantizar el cumplimiento y la eficacia de las disposiciones contenidas en el presente Decreto.
