@@ -4,7 +4,7 @@ identifier: "COL-ley-del-procedimiento-administrativo-del-estado-de-colima-y-151
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-11"
-last_updated: "2021-09-11"
+last_updated: "2025-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Suplemento Número 1 del Número 71 del Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2021.
 
@@ -67,9 +67,13 @@ La presente ley es de orden público e interés social y tiene por objeto establ
 
 Las disposiciones previstas en este ordenamiento no serán aplicables para los poderes Legislativo y Judicial tratándose del ejercicio de la función pública legislativa y jurisdiccional que respectivamente tienen asignada.
 
-Asimismo, no será aplicable esta ley a las materias de carácter laboral, electoral, de seguridad pública, las relativas al Ministerio Público en el ejercicio de sus funciones, las atinentes al ámbito de las universidades públicas y tratándose de la elección, suspensión o remoción de funcionarios de los Entes públicos señalados en el artículo 1 de esta ley.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
-Para los efectos de esta ley sólo queda excluida la materia fiscal tratándose de las contribuciones y los accesorios que deriven directamente de aquéllas.
+Asimismo, no será aplicable esta ley a las materias de carácter laboral, electoral, las relativas al Ministerio Público en el ejercicio de sus funciones, las atinentes al ámbito de las universidades y tratándose de la elección, suspensión o remoción de funcionarios a cargo de los poderes del Estado, los órganos autónomos previstos en la Constitución del Estado y los Municipios.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+En materia fiscal, las disposiciones de esta ley no serán aplicables a la determinación de las contribuciones y sus accesorios, las cuales se regirán por las leyes fiscales aplicables. En los aspectos procedimentales no previstos en dichas leyes fiscales, serán aplicables de manera supletoria las disposiciones de esta ley, siempre que no se opongan a la naturaleza propia de la materia fiscal.
 
 En relación con los créditos fiscales, no se excluyen de la aplicación de esta ley lo relativo a las multas administrativas derivadas de las infracciones por violaciones a las disposiciones de orden administrativo local.
 
@@ -79,7 +83,9 @@ Los Entes públicos señalados en el artículo 1 de esta ley ajustarán su actua
 
 Los actos y procedimientos especiales de carácter administrativo que en el ámbito de su competencia realicen o tengan que realizar los referidos Entes públicos se regirán en primer lugar por los ordenamientos jurídicos específicos que los prevean y regulen atendiendo a la singularidad de la materia.
 
-En todo lo no previsto o regulado por dichos ordenamientos se aplicarán supletoriamente las disposiciones de esta ley. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará, en lo que resulte aplicable, a lo dispuesto por el Código de Procedimientos Civiles para el Estado de Colima.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
+En todo lo no previsto o regulado por dichos ordenamientos se aplicarán supletoriamente las disposiciones de esta ley. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará, en lo que resulte aplicable, a lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares.
 
 Cuando se trate de recursos impugnativos sólo serán aplicables los establecidos en este ordenamiento.
 
@@ -153,9 +159,13 @@ Los particulares colaborarán con las autoridades administrativas en los términ
 
 ### CAPÍTULO PRIMERO. DEL ACTO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 9.
 
-El acto administrativo es la declaración unilateral de la voluntad dictada por las autoridades administrativas en el ejercicio de su potestad pública que crea, declara, reconoce, modifica, transmite o extingue derechos u obligaciones.
+El acto administrativo es la declaración unilateral de la voluntad emanada de las autoridades administrativas que en el ejercicio de su potestad pública tiene por objeto crear, declarar, reconocer, modificar, transmitir o extinguir derechos u obligaciones respecto de una situación jurídica concreta, y cuya finalidad es la satisfacción del interés público.
+
+Para efectos de esta ley, no se consideran actos administrativos aquellas actuaciones relacionadas con las materias expresamente excluidas de su aplicación conforme al artículo 2, en las que no proceda la aplicación supletoria de este ordenamiento.
 
 ###### Artículo 10.
 
@@ -303,17 +313,23 @@ Una vez que se determine la afirmativa o negativa ficta, deberá notificarse de 
 
 ### CAPÍTULO SEGUNDO. DE LA NEGATIVA FICTA
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 25.
 
-La negativa ficta opera ante el silencio de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por los ordenamientos jurídicos aplicables al caso concreto; se entiende que se resuelve lo solicitado por el particular en sentido contrario a sus pretensiones, tratándose de actos declarativos o constitutivos.
+La negativa ficta opera ante el silencio de la autoridad de emitir una resolución de manera expresa dentro de los plazos previstos en esta ley. Se entiende que se resuelve en sentido contrario a lo solicitado por el particular, tratándose de actos declarativos o constitutivos. La negativa ficta tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 26.
 
-Cuando la petición o promoción del particular verse sobre un acto declarativo y salvo que en las disposiciones jurídicas específicas aplicables se establezca un plazo diverso, no podrá exceder de diez días hábiles el tiempo para que la autoridad administrativa resuelva lo que en derecho corresponda.
+Cuando la petición o promoción del particular verse sobre un acto declarativo, no podrá exceder de diez días hábiles el tiempo para que la autoridad administrativa resuelva lo que en derecho corresponda.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 27.
 
-Cuando la petición o promoción del particular verse sobre un acto constitutivo y salvo que en las disposiciones jurídicas específicas aplicables se establezca otro plazo diverso, no podrá exceder de sesenta días naturales el tiempo para que la autoridad administrativa resuelva lo que corresponda.
+Cuando la petición o promoción del particular verse sobre un acto constitutivo, no podrá exceder de sesenta días naturales el tiempo para que la autoridad administrativa resuelva lo que en derecho corresponda.
 
 ###### Artículo 28.
 
@@ -329,15 +345,19 @@ La negativa ficta podrá ser combatida mediante juicio ante el Tribunal de Justi
 
 ### CAPÍTULO TERCERO. DE LA AFIRMATIVA FICTA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 31.
 
-La afirmativa ficta se constituye ante la omisión de la autoridad administrativa de dictar una resolución de manera expresa, dentro de los plazos previstos por esta ley o por los ordenamientos jurídicos aplicables, respecto de la solicitud de emitir actos regulativos.
+La afirmativa ficta se constituye ante la omisión de la autoridad administrativa de dictar una resolución de manera expresa, dentro de los plazos previstos por esta ley, respecto de la solicitud de emitir actos regulativos.
 
 Cuando se declare la afirmativa ficta se entenderá que el acto regulativo se emite para los efectos solicitados por el promovente.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-Cuando el promovente solicite que se emita un acto regulativo y salvo que en las disposiciones jurídicas específicas aplicables se establezca otro plazo diverso, no deberá exceder de treinta días hábiles el plazo para que la autoridad administrativa resuelva como en derecho corresponda.
+Cuando el promovente solicite que se emita un acto regulativo, no deberá exceder de treinta días hábiles el plazo para que la autoridad administrativa resuelva como en derecho corresponda.
 
 ###### Artículo 33.
 
@@ -351,11 +371,13 @@ La autoridad administrativa podrá desestimar la solicitud de certificación de 
 
 Contra la resolución expresa que emita la autoridad administrativa desestimando la solicitud de certificación de afirmativa ficta podrá el interesado promover juicio contencioso administrativo ante el Tribunal de Justicia Administrativa del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 34.
 
-Si dentro del plazo de tres días hábiles previsto en el artículo anterior la autoridad administrativa no se pronuncia sobre la certificación de afirmativa ficta, el interesado estará habilitado para presentar por escrito la solicitud de declaración de afirmativa ficta directamente ante el Tribunal de Justicia Administrativa del Estado, acompañando las constancias y documentos que acrediten el cumplimiento de los requisitos establecidos en las normas jurídicas aplicables al caso concreto, así como el acuse de recibo de la solicitud no resuelta. El Tribunal sustanciará dicha solicitud mediante el procedimiento especial previsto en la Ley de Justicia Administrativa del Estado de Colima, resolviendo lo que en derecho corresponda.
+Si dentro del plazo de tres días hábiles previsto en el artículo anterior la autoridad administrativa no se pronuncia sobre la certificación de afirmativa ficta, el interesado estará habilitado para demandar por escrito la declaración de afirmativa ficta directamente ante el Tribunal de Justicia Administrativa del Estado, acompañando las constancias y documentos que acrediten el cumplimiento de los requisitos sustantivos establecidos en las normas jurídicas aplicables al caso concreto, así como el acuse de recibo de la solicitud no resuelta y el acuse de recibo de la solicitud de certificación de afirmativa ficta presentadas ante la autoridad administrativa. El Tribunal sustanciará dicha demanda mediante el procedimiento especial previsto en la Ley de Justicia Administrativa del Estado de Colima, resolviendo lo que en derecho corresponda.
 
-La solicitud de declaración de afirmativa ficta ante el Tribunal se presentará dentro de los quince días hábiles siguientes a aquel en haya transcurrido el plazo mencionado de tres días hábiles que constriñe a la autoridad administrativa para responder, ello acorde con lo dispuesto por el artículo 63, párrafo 1, en correlación con el artículo 5, párrafo 1, fracción VI, de la Ley de Justicia Administrativa del Estado.
+La demanda de declaración de afirmativa ficta ante el Tribunal se presentará dentro de los quince días hábiles siguientes a aquel en haya transcurrido el plazo mencionado de tres días hábiles que constriñe a la autoridad administrativa para responder, ello acorde con lo dispuesto por el artículo 63, punto 1, de la Ley de Justicia Administrativa del Estado de Colima.
 
 ###### Artículo 35.
 
@@ -939,11 +961,13 @@ Las autoridades administrativas no podrán variar el contenido de las resolucion
 
 Todo interesado podrá desistirse del procedimiento administrativo que promueva o, cuando ello no esté prohibido por la ley, renunciar a sus derechos. En el caso de que el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia sólo afectará a aquel que lo hubiese formulado. El desistimiento o la renuncia podrán ser promovidos por el interesado o por su representante legal, siempre y cuando éste último tenga facultades para ello.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 117.
 
-Las autoridades administrativas en el ejercicio de su función pública podrán celebrar acuerdos, convenios o contratos con los particulares, siempre que no sean contrarios al ordenamiento jurídico ni versen sobre materias que no sean susceptibles de transacción y tengan por objeto satisfacer el interés público que tienen encomendado o un fin de utilidad social, con el alcance, efectos y régimen jurídico específico que, en su caso, prevea la disposición especial que los regule; pudiendo a través de tales instrumentos poner fin al procedimiento administrativo, resolver un diferendo o acordar la prestación de actividades, obras o servicios.
+Las autoridades administrativas, en el ejercicio de su función pública, podrán celebrar acuerdos, convenios o contratos con particulares u otras autoridades, siempre que no sean contrarios al ordenamiento jurídico, no versen sobre materias que no sean susceptibles de transacción y tengan por objeto satisfacer el interés público que tienen encomendado o un fin de utilidad social, con el alcance, efectos y régimen jurídico específico que, en su caso, prevea la disposición especial aplicable; pudiendo, a través de tales instrumentos, poner fin a procedimientos administrativos, resolver diferendos o acordar la prestación de actividades, obras o servicios.
 
-El Tribunal de Justicia Administrativa del Estado será competente para conocer de las controversias que se susciten entre las autoridades administrativas y los particulares sobre el cumplimiento a lo pactado en los instrumentos indicados en el párrafo anterior.
+El Tribunal de Justicia Administrativa del Estado será competente para conocer de las controversias que se susciten con motivo del cumplimiento, interpretación o terminación de los instrumentos referidos en el párrafo anterior, conforme a lo dispuesto en la Ley de Justicia Administrativa del Estado de Colima.
 
 ###### Artículo 118.
 
@@ -1454,3 +1478,23 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 157.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE COLIMA, ASÍ COMO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS, ACOMPAÑADO DE LA APROBACIÓN DEL VETO PARCIAL PRESENTADO POR LA MAESTRA INDIRA VIZCAÍNO SILVA, GOBERNADORA CONSTITUCIONAL DEL ESTADO DE COLIMA, AL DECRETO NO. 157 EMITIDO POR EL CONGRESO DEL ESTADO EL 28 DE AGOSTO DE 2025".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO. Las disposiciones del presente Decreto serán aplicables a los procedimientos que se encuentren en trámite al momento de su entrada en vigor, en la medida en que no resulten incompatibles con las disposiciones vigentes al inicio de dichos procedimientos, en cuyo caso prevalecerán las disposiciones anteriores.
+
+CUARTO. Las disposiciones del presente Decreto que hagan referencia al Código Nacional de Procedimientos Civiles y Familiares serán aplicables únicamente a partir de la fecha en que dicho ordenamiento entre en vigor en el Estado de Colima, conforme a la declaratoria que emita el Congreso del Estado en términos del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023, por el que se expidió el referido Código Nacional.
+
+En tanto no ocurra lo anterior, continuará aplicándose supletoriamente, en lo que resulte conducente, el Código de Procedimientos Civiles para el Estado de Colima.
+
+QUINTO. El Pleno del Tribunal deberá armonizar el Reglamento Interior en lo que corresponda, en un plazo que no excederá de noventa días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+SEXTO. En ejercicio de sus facultades, el Pleno del Tribunal podrá emitir las disposiciones de carácter reglamentario, así como adoptar las medidas administrativas, operativas y de organización interna que resulten necesarias para garantizar el cumplimiento y la eficacia de las disposiciones contenidas en el presente Decreto.
