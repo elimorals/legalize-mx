@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-186-de-las-y-los-jovenes-del-estado-de-sonora-105992
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-22"
-last_updated: "2018-09-27"
+last_updated: "2025-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 186 DE LAS Y LOS JOVENES DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LAS JUVENTUDES DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 29 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LAS Y LOS JÓVENES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE SEPTIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 22 de diciembre de 2014.
 
@@ -770,3 +772,43 @@ B.O. 27 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 29 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE LAS JUVENTUDES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de las y los jóvenes del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora, número 50, sección IV, de fecha 22 de diciembre de 2014, así como todas aquellas disposiciones que contravengan lo establecido en esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto tendrá un máximo de 365 días a partir de la publicación del presente ordenamiento, para hacer las adecuaciones a los documentos de planeación y presupuestales respectivos.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto tendrá un máximo de 60 días a partir de la publicación del presente ordenamiento, para instalar la Coordinación Sectorial para las Juventudes.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto tendrá un máximo de 60 días a partir de la publicación del presente ordenamiento, para instalar el Consejo de Participación de las Juventudes.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto tendrá un máximo de 120 días a partir de la publicación del presente ordenamiento, para instalar el Sistema para el Bienestar de las Juventudes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que a la entrada en vigor de la presente Ley, se encuentren en trámite ante el Instituto Sonorense de la Juventud, continuarán rigiéndose hasta su conclusión por las disposiciones legales que les dieron origen.
+
+###### ARTÍCULO OCTAVO.
+
+Las relaciones laborales de los trabajadores con que cuente el Instituto Sonorense de la Juventud, a la entrada en vigor de la presente Ley, no se verán afectadas en modo alguno, cualquiera que sea su naturaleza, y continuarán rigiéndose por las disposiciones que les dieron origen.
+
+###### ARTÍCULO NOVENO.
+
+Con la previa revisión y aprobación de la Junta de Gobierno, el Instituto tendrá un máximo de 60 días a partir de la publicación del presente ordenamiento, para emitir su Reglamento Interior.
