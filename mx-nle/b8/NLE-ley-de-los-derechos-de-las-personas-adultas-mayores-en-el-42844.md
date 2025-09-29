@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2025-03-19"
+last_updated: "2025-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -78,6 +78,10 @@ I. Asistencia Social: Al conjunto de acciones tendientes a modificar y mejorar l
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
 II. Atención Médica: El conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las Personas Adultas Mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+II Bis. Centros de Atención Gerontológica y Geriátrica: Centros de prestación de servicios especializados para las personas adultas mayores, en espacios accesibles, para la atención temporal y realización de actividades recreativas y de formación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2020)</small>
 
@@ -205,7 +209,9 @@ f) Recibir protección por parte de su familia, así como del gobierno estatal y
 
 g) Gozar de oportunidades, para mejorar progresivamente las capacidades que les faciliten el ejercicio de sus derechos en condiciones de igualdad; y
 
-h) Vivir en entornos seguros y dignos que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+h) Vivir en entornos seguros y dignos que cumplan con sus necesidades, requerimientos y preferencia de acceso y en donde ejerzan libremente sus derechos.
 
 II. La certeza jurídica y la vida en familia, que incluyen:
 
@@ -373,9 +379,17 @@ I. Otorgar alimentos a las Personas Adultas Mayores, de conformidad con lo dispu
 
 II. Fomentar la convivencia familiar cotidiana donde las Personas Adultas Mayores participen activamente;
 
-III. Conocer los derechos de las Personas Adultas Mayores, previstos en esta Ley, en la Constitución Política del Estado de Nuevo León y demás ordenamientos para su debida observancia; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-IV. Evitar que alguno de sus integrantes o cualquier persona cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo la persona, bienes o derechos de las Personas Adultas Mayores.
+III. Conocer los derechos de las Personas Adultas Mayores, previstos en esta Ley, en la Constitución Política del Estado de Nuevo León y demás ordenamientos para su debida observancia;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Evitar que alguno de sus integrantes o cualquier persona cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo la persona, bienes o derechos de las Personas Adultas Mayores; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+V. Abstenerse de imponer a las Personas Adultas Mayores actividades laborales sin su consentimiento, que trasgreda su dignidad o afecte su salud física, mental o emocional.
 
 ###### Artículo 9º.
 
@@ -435,11 +449,11 @@ XIII. Las demás que le confieran otros ordenamientos jurídicos.
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 11.
 
-Conforme lo dispone la Secretaría de Desarrollo Social, le corresponde a ésta, en lo referente a las Personas Adultas Mayores:
+Conforme lo dispone la Secretaría de Igualdad e Inclusión, le corresponde a ésta, en lo referente a las Personas Adultas Mayores:
 
 I. Establecer, coordinar, ejecutar y evaluar las políticas de desarrollo social;
 
@@ -539,21 +553,21 @@ La Corporación para el Desarrollo Turístico de Nuevo León, en coordinación c
 
 Para garantizar el derecho a la recreación y turismo, la Corporación para el Desarrollo Turístico de Nuevo León, difundirá permanentemente a través de los medios masivos de comunicación, las actividades, que se realicen a favor de las Personas Adultas Mayores.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-### CAPÍTULO VI. DE LA SECRETARÍA DE ECONOMÍA Y TRABAJO
+### CAPÍTULO VI. DE LA SECRETARÍA DEL TRABAJO
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 19.
 
-La Secretaría de Economía y Trabajo en coordinación con la Secretaría de Desarrollo Social y el Instituto, deberá (sic) implementar los programas necesarios para promover el empleo de las personas adultas mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio y a su experiencia y conocimientos teóricos y prácticos.
+La Secretaría del Trabajo, en coordinación con la Secretaría de Economía, la Secretaría de Igualdad e Inclusión y el Instituto, deberán implementar los programas necesarios para promover el empleo de las personas adultas mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio y a su experiencia y conocimientos teóricos y prácticos.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 20.
 
-La Secretaría de Economía y Trabajo, en coordinación con el Instituto, impulsará programas de autoempleo para las personas adultas mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización.
+La Secretaría del Trabajo y la Secretaría de Economía en coordinación con el Instituto, impulsará programas de autoempleo para las personas adultas mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2021)</small>
 
@@ -663,9 +677,9 @@ VII. Empoderar a las personas adultas mayores a fin de que participen en las acc
 
 VIII. Promover los derechos de las personas adultas mayores, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-IX. Promover la inclusión laboral de las personas adultas mayores en conjunto con la Secretaría de Economía y Trabajo del Estado;
+IX. Promover la inclusión laboral de las personas adultas mayores en conjunto con la Secretaria del Trabajo del Estado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
 
@@ -691,9 +705,9 @@ XIV. Convocar a las dependencias y entidades de las administraciones públicas e
 
 XV. Impulsar la creación de institutos municipales de atención a las personas adultas mayores;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-XVI. Impulsar y promover en el Estado la creación de centros de atención Gerontológica y Geriátrica;
+XVI. Orientar a los Municipios en la instalación de Centros de Atención Gerontológica y Geriátrica;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ABRIL DE 2022)</small>
 
@@ -707,13 +721,45 @@ XVIII. Impulsar y promover la capacitación necesaria sobre el uso de las nuevas
 
 XIX. Promover e impulsar el acceso de las Personas Adultas Mayores a las Tecnologías de la Información y Comunicación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-XX. Promover e impulsar en las personas Adultas Mayores el interés por la investigación e innovación en la ciencia y la tecnología; y
+XX. Promover e impulsar en las personas Adultas Mayores el interés por la investigación e innovación en la ciencia y la tecnología;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-XXI. Las demás que establezca esta ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
+XXI. Fortalecer y promover la oferta de programas educativos, de capacitación y de nuevas destrezas dirigidos a las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXII. Promocionar los sistemas e incentivos existentes para que las personas adultas mayores continúen y concluyan su educación escolar;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXIII. Fomentar el desarrollo de condiciones de accesibilidad física, económica, informativa y tecnológica de las personas adultas mayores a las instituciones, servicios y entornos educativos;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXIV. Promover la Academia Digital para el Adulto Mayor, como una herramienta de inclusión digital y desarrollo de habilidades tecnológicas de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXV. Impulsar la implementación de modelos educativos innovadores y accesibles que consideren la diversidad en capacidades, necesidades e intereses de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXVI. Promover la implementación de medidas y buenas prácticas que permitan aprovechar plenamente el potencial y los conocimientos de las personas adultas mayores en la educación;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXVII. Sensibilizar a la sociedad sobre los prejuicios relacionados a la capacidad de aprendizaje en la vejez y las ventajas de la educación, el desarrollo de habilidades y destrezas y la capacitación continua;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXVIII. Difundir el valor de la vejez y las ventajas del envejecimiento activo y saludable entre la población en general, la familia, instituciones educativas y medios de comunicación, a través de programas educativos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXIX. Las demás que establezca esta ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2018)</small>
 
@@ -743,7 +789,9 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Finanzas y Tesorero General del Estado;
 
-IV. El Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+IV. La persona titular de la Secretaría de Igualdad e Inclusión;
 
 V. El Secretario de Salud;
 
@@ -965,11 +1013,11 @@ DE SERVICIOS
 
 La Administración Pública del Estado y de los Municipios, a través de sus órganos correspondientes, implementará programas de protección al patrimonio de la población de Personas Adultas Mayores, de tal manera que éstas se beneficien al adquirir bienes o al utilizar servicios y que además estén debidamente informadas para hacer valer este derecho.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 37.
 
-La Administración Pública del Estado a través de la Secretaría de Desarrollo Social y los Municipios promoverán la celebración de convenios con la iniciativa privada y el sector social a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las Personas Adultas Mayores.
+La Administración Pública del Estado a través de la Secretaría de Igualdad e Inclusión y los Municipios promoverán la celebración de convenios con la iniciativa privada y el sector social a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las Personas Adultas Mayores.
 
 ###### Artículo 38.
 
@@ -997,11 +1045,11 @@ Para ello, deberán adecuarse espacios e implementarse mecanismos que, durante e
 
 La atención preferencial, es un beneficio que sólo podrá otorgarse para realizar trámites personales. Es intransferible, y las personas adultas mayores deberán presentar una identificación oficial vigente.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 40.
 
-La Secretaría Desarrollo Social del Estado de Nuevo León, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las Personas Adultas Mayores, también sea proporcionado (sic) en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+La Secretaría de Igualdad e Inclusión del Estado de Nuevo León, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las Personas Adultas Mayores, también sea proporcionado (sic) en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
 
 ## TÍTULO SÉPTIMO
 
@@ -1081,7 +1129,9 @@ II. Orientar, asesorar y asistir gratuitamente en materia legal cualquier asunto
 
 III. Procurar la defensa y representación de los derechos consignados a favor de las personas adultas mayores en su persona, bienes y derechos ante cualquier autoridad competente, promoviendo todos los medios legales que conforme a derecho procedan;
 
-IV. Coadyuvar con la Procuraduría General de Justicia del Estado, cuando las personas adultas mayores sean víctimas de cualquier conducta tipificada como delito; en los casos en que se trate de faltas administrativas;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Coadyuvar con la Fiscalía General de Justicia del Estado, cuando las personas adultas mayores sean víctimas de cualquier conducta tipificada como delito; en los casos en que se trate de faltas administrativas;
 
 V. Asesorar vía los Métodos Alternos para la prevención y la solución de conflictos, a las personas adultas mayores en cualquier procedimiento legal en el que sean partes interesadas;
 
@@ -1174,6 +1224,50 @@ I. Apercibimiento;
 II. Auxilio de la fuerza pública;
 
 III. Cateo y arresto hasta por 36 horas.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+## TÍTULO DÉCIMO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+### CAPÍTULO I. DE LOS CENTROS DE ATENCIÓN GERONTOLÓGICA Y GERIÁTRICA
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 57.
+
+Los Municipios, así como el Estado, implementaran estrategias dirigidas a promover el establecimiento de centros de atención gerontológica y geriátrica para efecto de brindar a dicho grupo etario, como los siguientes:
+
+I. Valoración gerontológica;
+
+II. Atención médica especializada para Personas Adultas Mayores;
+
+III. Atención psicológica;
+
+IV. Brindar orientación a cuidadores y familiares;
+
+V. Evaluación del estado nutricional y orientación alimentaria;
+
+VI. Asistencia jurídica;
+
+VII. De formación educativa y capacitación para el empleo;
+
+VIII. Bolsa de trabajo; y
+
+IX. Actividades recreativas y de esparcimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 58.
+
+Los Centros podrán celebrar convenios de coordinación y colaboración con dependencias y entidades públicas, instituciones privadas, así como con organizaciones de la sociedad civil, con el objeto de llevar a cabo las acciones previstas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 59.
+
+Los Centros serán son (sic) espacios exclusivos para adultos mayores correspondiente a un grupo etario de entre sesenta años en adelante, el reglamento interior establecerá los mecanismos para tener acceso a los mismos, y deberán ajustarse a lo establecido en esta Ley y demás disposiciones aplicables.
 
 T R A N S I T O R I O S
 
@@ -1390,3 +1484,11 @@ P.O. 19 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 082. SE REFORMAN LOS INCISOS D) Y E) DE LA FRACCIÓN VIII DEL ARTÍCULO 5; SE ADICIONA UN INCISO F) A LA FRACCIÓN VIII AL ARTÍCULO 5°, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 119. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Tanto la administración pública Estatal como los Municipios impulsarán de acuerdo a su suficiencia presupuestal, las estrategias establecidas en el artículo 57 del presente Decreto.
