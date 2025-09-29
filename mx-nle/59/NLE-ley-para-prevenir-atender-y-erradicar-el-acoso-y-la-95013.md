@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-atender-y-erradicar-el-acoso-y-la-95013"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2025-05-23"
+last_updated: "2025-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2013.
 
@@ -604,6 +604,10 @@ III. Tomar las medidas y aplicar las disciplinarias apropiadas, de conformidad c
 IV. Informar a los padres o tutores del alumno generador y partícipes; y
 
 V. Comunicar a los padres o tutores del alumno receptor, las medidas adoptadas para prevenir o sancionar cualquier acto de acoso o violencia entre escolares o represalia.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+Artículo 36 BIS. Cuando el docente o autoridad escolar que siendo testigo o tenga conocimiento de acoso escolar o de una posible conducta delictiva, que afecte el correcto desarrollo integral de las y los estudiantes, seguirá el procedimiento establecido en la presente Ley, y en caso de que la conducta pueda constituir un hecho delictivo, se deberá hacer del conocimiento del Ministerio Público.
 
 ###### Artículo 37.
 
@@ -1214,3 +1218,9 @@ P.O. 23 DE MAYO DE 2025.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: La Legislatura, durante el análisis, discusión y aprobación del Presupuesto de Egresos para cada ejercicio fiscal, tomará en cuenta las previsiones de gasto que formulen las autoridades responsables de aplicar la presente Ley para el desarrollo de acciones de conocimiento, atención y prevención del acoso escolar, debiendo asignar los recursos de manera específica y en programas prioritarios.
+
+P.O. 29 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 121. SE ADICIONA UN ARTÍCULO 36 BIS A LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
