@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2025-06-20"
+last_updated: "2025-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -41,9 +41,11 @@ Artículo Único. Se expide la Ley de Fomento a la Inversión y al Empleo para e
 
 Las disposiciones de la presente Ley son de orden público, interés social y observancia general en el territorio del Estado de Nuevo León y tienen por objeto promover la competitividad, atraer inversiones nacionales y extranjeras, así como fomentar la creación de empleos con remuneraciones adecuadas, en términos del desarrollo económico del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 2.
 
-La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Economía y Trabajo, y de las demás dependencias y entidades de la Administración Pública Estatal y Municipal, de conformidad con su respectivo ámbito de atribuciones.
+La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Economía y de las demás dependencias y entidades de la Administración Pública Estatal y Municipal, de conformidad con su respectivo ámbito de atribuciones.
 
 ###### Artículo 3.
 
@@ -83,29 +85,53 @@ XIV. Inversionista: Cualquier persona física o moral, fideicomisos o entidades 
 
 XV. Ley: La Ley de Fomento a la Inversión y Empleo para el Estado de Nuevo León;
 
-XVI. Proyecto de Inversión: La Inversión destinada para la instalación de una nueva Empresa nacional o extranjera, imprescindible para la consolidación de una cadena productiva, investigación e implementación de proyectos de innovación y desarrollo tecnológico que generen valor agregado a productos, procesos, materiales y/o servicios;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-XVII. Región Centro: La integrada por los municipios de Apodaca, García, San Pedro Garza García, Gral. Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza y Santa Catarina, Cadereyta Jiménez, Salinas Victoria y Santiago;
+XVI. Persona Migrante de Retorno: Persona de nacionalidad mexicana, originaria del Estado de Nuevo León o con residencia efectiva en la entidad antes de su salida, que retorna al territorio estatal tras haber permanecido en el extranjero por un periodo mínimo de seis meses, con la intención de establecerse de manera temporal o permanente. Su calidad de retorno será acreditada conforme a la documentación y criterios establecidos por la autoridad migratoria competente;
 
-XVIII. Región Citrícola: La integrada por los municipios de Allende, Gral. Terán, Hualahuises, Linares, Montemorelos y Rayones;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-XIX. Región Norte: La integrada por los municipios de Anáhuac, Agualeguas, Bustamante, Cerralvo, China, Dr. Coss, Dr. González, Gral. Bravo, Gral. Treviño, Los Herreras, Lampazos de Naranjo, Los Ramones, Los Aldama, Melchor Ocampo, Mina, Parás, Sabinas Hidalgo, Vallecillo y Villaldama;
+XVII. Persona Repatriada: Ciudadanos mexicanos neoloneses que son deportados a nuestro país. Su calidad de condición será acreditada conforme a los registros y constancias emitidos por la autoridad migratoria competente;
 
-XX. Región Periférica: La integrada por los municipios de Abasolo, Carmen, Ciénega de Flores, Gral. Zuazua, Hidalgo, Higueras, Marín y Pesquería;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-XXI. Región Sur: La integrada por los municipios de Aramberri, Dr. Arroyo, Gral. Zaragoza, Galeana, Iturbide y Mier y Noriega;
+XVIII. Proyecto de Inversión: La Inversión destinada para la instalación de una nueva Empresa nacional o extranjera, imprescindible para la consolidación de una cadena productiva, investigación e implementación de proyectos de innovación y desarrollo tecnológico que generen valor agregado a productos, procesos, materiales y/o servicios;
 
-XXII. Secretaría: Secretaría de Economía y Trabajo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-XXIII. Sectores Estratégicos: Aquellos que por su naturaleza y ubicación, el Consejo determine que son focos de inversión para el fomento de creación de empleo en el Estado de Nuevo León;
+XIX. Región Centro: La integrada por los municipios de Apodaca, García, San Pedro Garza García, Gral. Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza y Santa Catarina, Cadereyta Jiménez, Salinas Victoria y Santiago;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-XXIV. UMA: La Unidad de Medida y Actualización para la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente Ley;
+XX. Región Citrícola: La integrada por los municipios de Allende, Gral. Terán, Hualahuises, Linares, Montemorelos y Rayones;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-XXV. Perspectiva de género: Es una visión científica, analítica, política con metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres y los hombres, proponiendo eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género, promoviendo la igualdad entre los hombres y mujeres a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
+XXI. Región Norte: La integrada por los municipios de Anáhuac, Agualeguas, Bustamante, Cerralvo, China, Dr. Coss, Dr. González, Gral. Bravo, Gral. Treviño, Los Herreras, Lampazos de Naranjo, Los Ramones, Los Aldama, Melchor Ocampo, Mina, Parás, Sabinas Hidalgo, Vallecillo y Villaldama;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXII. Región Periférica: La integrada por los municipios de Abasolo, Carmen, Ciénega de Flores, Gral. Zuazua, Hidalgo, Higueras, Marín y Pesquería;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXIII. Región Sur: La integrada por los municipios de Aramberri, Dr. Arroyo, Gral. Zaragoza, Galeana, Iturbide y Mier y Noriega;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXIV. Secretaría: Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXV. Sectores Estratégicos: Aquellos que, por su naturaleza y ubicación, el Consejo determine que son focos de inversión para el fomento de creación de empleo en el Estado de Nuevo León;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXVI. UMA: La Unidad de Medida y Actualización para la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente Ley;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+XXVII. Perspectiva de género: Es una visión científica, analítica, política con metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres y los hombres, proponiendo eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género, promoviendo la igualdad entre los hombres y mujeres a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
 ###### Artículo 5.
 
@@ -135,9 +161,19 @@ IX. Integrar un banco de datos que permita contar con información suficiente y 
 
 X. Promover, establecer y consolidar mecanismos financieros que permitan contar con mayores recursos para el fomento a la inversión y el empleo en el Estado;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-XI. Estimular el comercio exterior con especial énfasis en el desarrollo de programas estratégicos que impulsen el desarrollo y promoción de la oferta exportable, así como el fortalecimiento de cadenas productivas, el desarrollo de proveedores y la captación de divisas; y
+XI. Estimular el comercio exterior con especial énfasis en el desarrollo de programas estratégicos que impulsen:
+
+a) El desarrollo de programas estratégicos que impulsen el desarrollo y promoción de la oferta exportable;
+
+b) El fortalecimiento de cadenas productivas;
+
+c) La diversificación de mercados, enfocados en regiones emergentes;
+
+d) La promoción de incentivos específicos para la internacionalización; y
+
+e) El desarrollo de proveedores y la captación de divisas.
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2025)</small>
 
@@ -159,13 +195,19 @@ El Consejo estará conformado de la siguiente manera:
 
 I. Por un Presidente, que será el Titular del Poder Ejecutivo del Estado;
 
-II. Por un Secretario Técnico, que será el Secretario de Economía y Trabajo;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+II. Por un Secretario Técnico, que será el Secretario de Economía;
 
 III. Por el Secretario de Finanzas y Tesorero General del Estado;
 
-IV. Por el Secretario de Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-V. Por el Subsecretario de Inversión y Fomento Industrial de la Secretaria de Economía Trabajo;
+IV. Por el Secretario de Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+V. Por el Subsecretario de Inversión y Fomento Industrial de la Secretaria de Economía;
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
@@ -186,6 +228,10 @@ IX. Por tres representantes de las principales universidades del estado, las cua
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
 X. Considerando la opinión del Consejo, el Presidente invitará a sus sesiones con voz pero sin voto a representantes de organizaciones no gubernamentales, asociaciones civiles y/o cualquier otra agrupación que se estime conveniente que puedan realizar aportaciones valiosas a las sesiones del Consejo. Las decisiones del Consejo se tomarán por mayoría simple de votos, en caso de empate, el Presidente del Consejo tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+Los vocales representantes de las Cámaras Empresariales y de las Universidades serán preferentemente nombrados observando el principio de paridad de género.
 
 ###### Artículo 9.
 
@@ -349,21 +395,39 @@ II. Empresas que dentro de su plantilla laboral tengan:
 
 a) Trabajadores de primer empleo;
 
-b) Personas adultas mayores; y
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+b) Personas adultas mayores;
 
 c) Mujeres en situación de vulnerabilidad.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2025)</small>
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+d) Personas con Discapacidad;
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+e) Personas repatriadas, que demuestren ser originarias de Nuevo León; y
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+f) Personas migrantes de retorno.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
 III. Empresas que tengan instaladas guarderías;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-IV. Empresas creadas por mujeres emprendedoras; y
+IV. Empresas creadas por mujeres emprendedoras;
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2025)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-V. Empresas instaladas en la zona fuera del área metropolitana o zonas rurales del Estado.
+V. Empresas, instituciones u organizaciones, públicas o privadas, que establezcan Centros de Investigación y Desarrollo, Laboratorios o Instalaciones de Investigación, Desarrollo e Innovación en el Estado de Nuevo León; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Empresas creadas por personas migrantes de retorno.
 
 ###### Artículo 22.
 
@@ -437,9 +501,21 @@ d) Para la realización de estudios o investigaciones;
 
 e) Para la compra, arrendamiento y/o permuta de bienes inmuebles propiedad del Estado, para que en ellos se establezca la nueva inversión. Cumpliendo con las demás formalidades previstas en las legislaciones aplicables, se requerirá la aprobación de la mayoría de votos del Consejo;
 
-f) Para la donación y/o comodato de bienes inmuebles propiedad del Estado. A parte de las demás formalidades previstas en las legislaciones aplicables, se requerirá la aprobación de la mayoría de votos del Consejo y se pueda justificar que la inversión que se realizará creará 500 o más empleos permanentes en un lapso menor a 2 años; y
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-g) Aportaciones económicas hasta el 100% para contratar en arrendamiento y/o compraventa de bienes inmuebles, por un período de hasta 10 años, previo avalúo realizado por instituciones o peritos especializados.
+f) Para la donación y/o comodato de bienes inmuebles propiedad del Estado. A parte de las demás formalidades previstas en las legislaciones aplicables, se requerirá la aprobación de la mayoría de los votos del Consejo y se pueda justificar que la inversión que se realizará creará 500 o más empleos permanentes en un lapso menor a 2 años;
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+g) Aportaciones económicas hasta el 100% para contratar en arrendamiento y/o compraventa de bienes inmuebles, por un período de hasta 10 años, previo avalúo realizado por instituciones o peritos especializados;
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+h) Para la diversificación de exportaciones, consistentes en estímulos para la obtención de certificaciones internacionales, adecuación de productos a normativas extranjeras y promoción de negocios en mercados emergentes; e
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+i) Incentivos para la infraestructura de corredores industriales tales como: subsidios para carreteras, conectividad y espacios industriales.
 
 La forma de reembolso de los incentivos económicos mencionados, se realizará conforme al procedimiento que determine la Secretaría de Finanzas y Tesorería General del Estado, en base a disponibilidad presupuestal.
 
@@ -745,9 +821,11 @@ Cualesquiera que se considere afectado en su interés jurídico por los actos qu
 
 ### CAPÍTULO SÉPTIMO. DE LOS AGRUPAMIENTOS EMPRESARIALES ESTRATÉGICOS (CLUSTERS)
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 45.
 
-El Poder Ejecutivo, a través de la Secretaría, promoverá la creación y fortalecimiento de agrupamientos empresariales estratégicos (CLUSTERS). El Consejo a través de los lineamientos que ellos expidan determinará cuáles son los agrupamientos empresariales estratégicos (CLUSTERS) que el Estado requiere para atracción de mayor inversión y/o explotación en el mismo.
+El Poder Ejecutivo, a través de la Secretaría, promoverá la creación y fortalecimiento de agrupamientos empresariales estratégicos (CLUSTERS). Así como el establecimiento de oficinas de representación comercial en mercados clave para facilitar el comercio internacional de empresas de Nuevo León. Estas oficinas tendrán como objetivo la atracción de inversión, la promoción de productos locales y la facilitación de acuerdos comerciales en mercados emergentes.
 
 ###### Artículo 46.
 
@@ -954,3 +1032,11 @@ P.O. 20 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 056. SE REFORMA LA FRACCIÓN III Y IV DEL ARTÍCULO 21 BIS, LA FRACCIÓN V AL ARTÍCULO 31. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 21, UNA FRACCIÓN V AL ARTÍCULO 21 BIS Y LA FRACCIÓN V BIS AL ARTÍCULO 31 TODOS DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente Decreto entrara en vigor al siguiente día de su publicación.
+
+P.O. 29 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 120. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO A LA INVERSION Y AL EMPLEO DEL ESTADO DE NUEVO LEON".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán atendiendo a la suficiencia presupuestal.
