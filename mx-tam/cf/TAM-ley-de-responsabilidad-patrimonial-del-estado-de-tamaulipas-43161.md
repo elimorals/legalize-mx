@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidad-patrimonial-del-estado-de-tamaulipas-431
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2020-11-11"
+last_updated: "2025-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -45,7 +45,9 @@ LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS.
 
 1. La presente ley es de orden público e interés general.
 
-2. Sus normas son reglamentarias del párrafo segundo del artículo 154 de la Constitución Política del Estado Libre y Soberano de Tamaulipas.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+2. Sus normas son reglamentarias del párrafo quinto del artículo 150 de la Constitución Política del Estado de Tamaulipas.
 
 3. Este ordenamiento tiene por objeto reglamentar la responsabilidad patrimonial objetiva y directa del poder público del Estado. Los poderes Legislativo, Ejecutivo y Judicial, los organismos públicos autónomos, los Ayuntamientos de la entidad y, en general todo ente público responderá por los daños que se causen en los bienes y derechos de los particulares con motivo de la actividad administrativa irregular de los servidores públicos que colaboren en dichos entes.
 
@@ -187,7 +189,13 @@ El monto de la indemnización por daños y perjuicios materiales se calculará d
 
 2. La indemnización se cuantificará con base en la fecha en la que sucedieron los hechos o, cuando sean de carácter continuo, en la fecha en que hayan cesado.
 
-3. El monto de toda indemnización se cuantificará en salarios mínimos diarios, liquidándose el importe correspondiente en la fecha de su pago.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+3. El monto de toda indemnización se cuantificará de acuerdo al valor diario de la Unidad de Medida y Actualización, liquidándose el importe correspondiente en la fecha de su pago.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+4. En todo caso, la cantidad a indemnizar deberá actualizarse al tiempo en que haya de efectuarse el cumplimiento de la resolución que ordena su pago o el convenio celebrado por las partes.
 
 ###### ARTICULO 13.
 
@@ -251,7 +259,9 @@ La causalidad única o, en su caso, concurrencia de hechos, así como la partici
 
 1. Al reclamante le corresponde probar la responsabilidad del Estado por la lesión ocasionada en su perjuicio.
 
-2. Al Estado, en su caso, le corresponderá probar la responsabilidad del propio reclamante en los hechos que ocasionaron los daños, así como las eximientes (sic) de responsabilidad que establece el artículo 4 de esta ley.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+2. Al Estado, en su caso, le corresponderá probar la responsabilidad del propio reclamante en los hechos que ocasionaron los daños, así como las eximentes de responsabilidad que establece el artículo 4 de esta ley.
 
 ###### ARTICULO 19.
 
@@ -452,6 +462,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-208 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 8, NUMERAL 2; 21; 24, NUMERAL 2; Y 27, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-452 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1, PÁRRAFO 2; 12, PÁRRAFO 3; Y 18, PÁRRAFO 2; Y SE ADICIONA UN PÁRRAFO 4 AL ARTÍCULO 12, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS".]
 
 ###### ARTÍCULO ÚNICO.
 
