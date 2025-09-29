@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-la-comision-estatal-de-arbitraje-medico-de-41654"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2005-04-23"
+last_updated: "2025-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY QUE CREA LA COMISION ESTATAL DE ARBITRAJE MEDICO DE OAXACA
 
-LEY QUE CREA LA COMISION ESTATAL DE ARBITRAJE MEDICO DE OAXACA
+LEY QUE CREA LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 11 de septiembre de 2004.
 
@@ -153,29 +153,35 @@ III.- Un Secretario Ejecutivo; y
 
 IV.- Las Unidades Administrativas que determine su Reglamento Interno.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 9.
 
-El Consejo General se conformará con NUEVE CONSEJEROS, de los cuales cuando menos CUATRO de ellos serán mujeres; durarán en su cargo hasta cuatro años, y lo presidirá el Consejero que de entre ellos elijan.
+El Consejo General se conformará con CINCO PERSONAS CONSEJERAS, de los (sic) cuales cuando menos dos de ellas serán mujeres; durarán en su cargo hasta cuatro años, y presidirá, el Consejero quien de entre ellas elijan.
+
+Cada una de las personas Consejeras deberá ejercer diferente especialidad de la Ciencia Médica, procurándose que cada propuesta represente a la especialidad que mayor incidencia plantee en la prestación de los servicios médicos.
+
+Durarán en su cargo hasta cuatro años, sin goce de licencia y su relación con la Comisión se regirá a través de un contrato de prestación de servicios profesionales.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 10.
 
-Para la designación de los Consejeros, se observará lo siguiente:
+Para la designación de las personas Consejeras, se observará lo siguiente:
 
-I.- CUATRO Consejeros serán Nombrados por la Legislatura del Estado a propuesta del Ciudadano Gobernador del Estado.
+I.- DOS Consejerías serán nombradas por la Legislatura del Estado a propuesta de la o el Gobernador del Estado.
 
-Para cada uno de los cuatro Consejeros, el Gobernador deberá proponer una terna de candidatos.
+Para cada una de las personas Consejeras, la o el Gobernador deberá proponer una terna de personas candidatas.
 
-En caso de no resultar electo ninguno de los propuestos, la Legislatura solicitará por escrito al Gobernador del Estado que formule nueva proposición, de la cual, sin falta, se elegirá al o los Consejeros correspondientes.
+En caso de no resultar electa ninguna de las personas propuestas, la Legislatura solicitará por escrito a la o el Gobernador del Estado que formule nueva proposición, de la cual, sin falta, se elegirá al o los Consejeros correspondientes.
 
-II.- Los CINCO Consejeros restantes serán nombrados por la Legislatura Estatal, en los mismos términos que la fracción anterior, de la propuesta que realicen los Colegios Médicos que funcionen en el Estado de Oaxaca, con una antigüedad de más de cinco años anteriores al día de su designación;
+II.- Las TRES Consejerías restantes serán nombradas por la Legislatura Estatal, en los mismos términos que la fracción anterior, de la propuesta que realicen los Colegios Médicos que funcionen en el Estado de Oaxaca, con una antigüedad de más de cinco años anteriores al día de su designación.
 
-III.- Cada uno de los Consejeros deberá ejercer diferente especialidad de la Ciencia Médica, procurándose que cada propuesta represente a la especialidad que mayor incidencia plantee en la prestación de los servicios médicos.
-
-La designación de los Consejeros recaerá en distinguidas personalidades de la sociedad civil de reconocida trayectoria en la práctica de la medicina.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 11.
 
-Para ser nombrado Consejero se requiere:
+Para ser nombrado Consejero o Consejera se requiere:
 
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles y vecino del estado durante un período no menor a cinco años, inmediatamente anterior al día de su designación;
 
@@ -187,13 +193,43 @@ III.- Que no se haya desempeñado como Secretario o Subsecretario de Estado, en 
 
 IV.- Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio y promoción de una buena práctica de la medicina, con título profesional y Cedula expedida con por lo menos diez años de antigüedad;
 
-V.- No haber sido condenado por delito intencional; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-VI.- Los demás que disponga el Reglamento.
+V.- No haber sido condenado por delito intencional;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+VI.- No haber sido condenado mediante resolución firme por delitos cometidos por razón de género, por violencia familiar, por delitos sexuales y no estar inscrito como persona deudora alimentaria, morosa en cualquier registro oficial, a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda, en términos de lo dispuesto en la ley de la materia.
+
+VII.- Los demás que disponga el Reglamento.
 
 ###### ARTICULO 12.
 
 El Consejo sesionará ordinariamente cuando menos una vez al mes, sus decisiones se adoptarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+ARTICULO 12 BIS.- Son causas de terminación del cargo de Consejera o Consejero:
+
+I.- Por renuncia;
+
+II.- Por muerte; y
+
+III.- Por remoción.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+ARTICULO 12 TER.- Son causas de remoción:
+
+a) Incumplir con las obligaciones del cargo que señala esta Ley y su Reglamento;
+
+b) Por asumir un cargo directivo en la administración pública federal, estatal o municipal, o cualquier cargo que a juicio de las personas integrantes del Consejo General por su jerarquía represente un conflicto de interés ante una queja emitida en contra de las instituciones públicas; y
+
+c) Haber sido condenado mediante resolución firme por delitos cometidos por razón de género, por violencia familiar, por delitos sexuales y no estar inscrito como persona deudora alimentaria, morosa en cualquier registro oficial, a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
+
+El procedimiento de remoción se llevará a cabo por acuerdo del Consejo General, con el voto de la mayoría de sus integrantes.
+
+De ser procedente la remoción, se comunicará tal determinación al Congreso del Estado, para que designe nueva Consejera o Consejero.
 
 ###### ARTICULO 13.
 
@@ -271,17 +307,27 @@ XVIII.- Las demás que establezcan otras disposiciones legales aplicables.
 
 ### CAPITULO IX. DEL SECRETARIO EJECUTIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
 ###### ARTICULO 17.
 
-Para ser nombrado Secretario Ejecutivo se requiere:
+Para ser nombrado Secretaria o Secretario Ejecutivo se requiere:
 
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles y vecino del Estado durante un período no menor a cinco años, inmediatamente anterior al día de su designación;
 
 II.- Tener cuando menos 30 años cumplidos al día de su designación;
 
-III.- Ser Licenciado en derecho y tener cuando menos 3 años de ejercicio en la profesión; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-IV.- Que no se haya desempeñado como Servidor Público Federal, Estatal o Municipal dentro de los tres últimos años inmediatos a su nombramiento.
+III.- Ser Licenciado en derecho y tener cuando menos 3 años de ejercicio en la profesión;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+IV.- Que no se haya desempeñado como Servidor Público Federal, Estatal o Municipal dentro de los tres últimos años inmediatos a su nombramiento; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+V.- No haber sido condenado mediante resolución firme por delitos cometidos por razón de género, por violencia familiar, por delitos sexuales y no estar inscrito como persona deudora alimentaria, morosa en cualquier registro oficial, a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda, en términos de lo dispuesto en la ley de la materia.
 
 ### CAPITULO X. ATRIBUCIONES DEL SECRETARIO EJECUTIVO
 
@@ -648,3 +694,15 @@ LIC. CELESTINO MANUEL ALONSO ALVAREZ.
 P.O. 23 DE ABRIL DE 2005.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 782.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 9 Y 10, EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 11, EL PRIMER PÁRRAFO, LA FRACCIÓN III Y IV DEL ARTÍCULO 17; Y SE ADICIONA LA FRACCIÓN VI RECORRIENDO LA SUBSECUENTE AL ARTÍCULO 11, LOS ARTÍCULOS 12 BIS, 12 TER Y LA FRACCIÓN V AL ARTÍCULO 17 TODOS DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Una vez integrado el Consejo General a que hace referencia la presente reforma, este contará con 30 días naturales, posteriores a su designación, para armonizar su Reglamento Interior con este Decreto.
