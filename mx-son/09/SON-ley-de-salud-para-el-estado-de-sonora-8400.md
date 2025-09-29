@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2024-11-13"
+last_updated: "2025-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -231,15 +231,23 @@ c). Un representante del Instituto Mexicano del Seguro Social;
 
 d). Un representante del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora (ISSSTESON);
 
-e). Un representante de la Comisión Contra Riesgos Sanitarios del Estado de Sonora;
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-f). El Director del Hospital General del Estado;
+e). Una persona representante de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-Bienestar);
+
+f). (DEROGADO, B.O. 29 DE SEPTIEMBRE DE 2025)
 
 g). Un representante del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE);
 
-h). Un representante de la Secretaría de Seguridad Pública del Estado de Sonora; y
+h). (DEROGADO, B.O. 29 DE SEPTIEMBRE DE 2025)
 
-IV.- Un representante de la Secretaría de la Defensa Nacional, con el carácter de Invitado.
+> <small>(REFORMADA, B.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+IV.- Una persona representante de la Secretaría de la Defensa Nacional, con el carácter de Invitada; y
+
+> <small>(ADICIONADA, B.O. 29 DE SEPTIEMBRE DE 2025)</small>
+
+V.- Un Secretario o Secretaria Técnica quién será designada por el Titular del Poder Ejecutivo del Estado de Sonora a propuesta del Titular de la Secretaría de Salud.
 
 ###### ARTICULO 6o.
 
@@ -3846,3 +3854,19 @@ B.O. 13 DE NOVIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO NÚMERO 56, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Estatal de Salud a que se refiere la Ley de Salud para el Estado de Sonora continuará su operación y funcionamiento conforme a su Decreto de creación publicado en el Boletín Oficial de Gobierno del Estado No. 51 , Sección I, el día 25 de junio de 1998.
+
+###### ARTÍCULO TERCERO.
+
+Los acuerdos y demás instrumentos jurídicos asumidos por el Consejo Estatal de Salud con anterioridad a la entrada en vigor del presente Decreto, continuarán siendo atendidos por este conforme a la normatividad aplicable.
