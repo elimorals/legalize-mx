@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-09-05"
+last_updated: "2025-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3613,9 +3613,9 @@ Lo prevenido en esta fracción no comprende los casos en que la parte sea examin
 
 IV.- Teniendo el carácter de ofendido, o de coadyuvante, apoderado o representante legal del primero, dentro de un proceso penal, presente en el mismo uno o mas testigos falsos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-ARTICULO 254 BIS.- Se impondrán de seis meses a seis años de prisión y multa de cincuenta a doscientos (sic) cincuenta veces el valor diario de la Unidad de Medida y Actualización, al que con el propósito de obtener sentencia, resolución o acto administrativo en la que se derive un perjuicio o un beneficio indebido o mayor del que legalmente corresponde, simule un acto jurídico, un acto o escrito judicial o altere elementos de prueba y los presente en juicio, o realice cualquier otro acto tendente a inducir a error a la autoridad judicial o administrativa.
+ARTICULO 254 BIS.- Se impondrán de ocho meses a ocho años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, al que con el propósito de obtener sentencia, resolución o acto administrativo en la que se derive un perjuicio o un beneficio indebido o mayor del que legalmente corresponde, simule un acto jurídico, un acto o escrito judicial o altere elementos de prueba y los presente en juicio, o realice cualquier otro acto tendente a inducir a error a la autoridad judicial o administrativa.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3637,15 +3637,15 @@ Comete el delito de falsedad en informes dados a una autoridad el que los rinda 
 
 ARTICULO 255 BIS.- Comete el delito de falsedad en informes contra la vigilancia y verificación ambiental el que asiente datos falsos en los registros, bitácoras o cualquier otro documento, con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental del Estado o de los municipios, o destruya, altere u oculte información, registros, reportes o cualquier otro documento que sea indispensable mantener o archivar de conformidad con la propia normatividad ambiental.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 256.
 
-Al responsable del delito a que se refieren los artículos anteriores de éste capítulo, se le impondrá una sanción de dos a seis años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+Al responsable del delito a que se refieren los artículos anteriores de éste capítulo, se le impondrá una sanción de cuatro a ocho años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-La sanción podrá ser hasta de quince años de prisión para el testigo falso a que se refiere la Fracción II del Artículo 254, que fuere examinado en un juicio penal y al sentenciado se le imponga una sanción de más de veinte años de prisión por habérsele dado valor probatorio a la declaración de aquél. Lo mismo se observará para las personas a que se refiere la fracción IV del citado artículo.
+La sanción podrá ser hasta de veinte años de prisión para el testigo falso a que se refiere la fracción II del artículo 254, que fuere examinado en un juicio penal y al sentenciado se le imponga una sanción de más de veinte años de prisión por habérsele dado valor probatorio a la declaración de aquél. Lo mismo se observará para las personas a que se refiere la fracción IV del citado artículo.
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
 
@@ -3663,9 +3663,9 @@ Al que soborne a un testigo, a un perito o a un intérprete para que se produzca
 
 Al testigo, perito, o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en juicio o en un procedimiento administrativo seguido en forma de juicio, antes de que se pronuncie sentencia, laudo o resolución en la instancia en que las diere, se le impondrá una multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización; pero si faltaren a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido en este Capítulo, que se podrá aumentar hasta un tercio de la sanción a imponer.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2025)</small>
 
-Al perito o intérprete que sea sancionado, ya sea porque se retracte de su dictamen o porque faltare a la verdad, se le impondrá, además de las sanciones a que se contrae este capítulo, la inhabilitación para el ejercicio profesional sobre la que verse la pericia, por un término de tres meses a dos años.
+Al perito o intérprete que sea sancionado, ya sea porque se retracte de su dictamen o porque faltare a la verdad, se le impondrá, además de las sanciones a que se contrae este capítulo, la inhabilitación para el ejercicio profesional sobre la que verse la pericia, por un término de seis meses a tres años.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -7914,6 +7914,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 5 DE SEPTIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-447 MEDIANTE EL CUAL SE ADICIONAN EL ARTÍCULO 71 TER Y EL PÁRRAFO CUARTO, RECORRIENDO EN SU ORDEN NATURAL LOS SUBSECUENTES, AL ARTÍCULO 276 SEPTIES, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-453 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 254 BIS, PÁRRAFO PRIMERO; 256, PÁRRAFOS PRIMERO Y SEGUNDO; Y 258, PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
