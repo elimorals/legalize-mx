@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2024-08-08"
+last_updated: "2025-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2025 (ABROGADO).
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -5558,3 +5558,145 @@ TERCERO. En caso de que, en el presente ejercicio presupuestal, se actualice el 
 CUARTO. Para los ejercicios presupuestales subsecuentes necesariamente el Supremo Tribunal de Justicia del Estado de Colima deberá contemplar lo conducente, en los respectivos Anteproyectos de Presupuesto de Egresos.
 
 QUINTO. El Poder Ejecutivo Estatal y el Congreso del Estado, anualmente, deberán tomar en cuenta lo anterior al aprobar el Presupuesto de Egresos del Poder Judicial, a fin de garantizar debidamente la suficiencia presupuestaria correspondiente para cubrir las prestaciones señaladas en el presente decreto.
+
+P.O. DE 29 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”, con excepción de lo dispuesto en los transitorios TERCERO, CUARTO, QUINTO, OCTAVO, NOVENO, DÉCIMO y DÉCIMO QUINTO.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado de Colima publicada en el Periódico Oficial “El Estado de Colima”, el 08 de noviembre de 2014 y sus reformas. Asimismo, se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En tanto se expiden los reglamentos derivados de la presente Ley, continuarán en vigor los mismos en lo que no se opongan al presente decreto.
+
+CUARTO. Los Acuerdos Generales aprobados por el Pleno del Tribunal Superior de Justicia con fundamento en la Ley Orgánica del Poder Judicial del Estado de Colima que se abroga mediante el presente decreto, continuarán en vigor en lo que no se opongan a la presente Ley hasta que los Órganos del Poder Judicial del Estado, en el ámbito de sus competencias dicten las normas generales y administrativas que correspondan.
+
+QUINTO. Hasta en tanto se garantice la disponibilidad presupuestaria para la debida operación del Tribunal de Disciplina, del Órgano de Administración, y demás áreas que los integran y que se crean en la presente Ley, el Pleno, las Salas, la Presidencia, los órganos administrativos, las áreas técnicas y de apoyo que a la fecha se encuentran en funciones, continuarán operando conforme a la Ley anterior en lo que no se oponga al presente decreto, en especial en lo referente a las funciones relacionadas con la administración, carrera judicial, de vigilancia y de disciplina de su personal.
+
+SEXTO. La implementación del presente Decreto será con cargo al presupuesto aprobado del Poder Judicial del Estado de Colima, y en el caso del periodo restante del año 2025, el Poder Ejecutivo del Estado podrá aprobar las transferencias presupuestales que resulten necesarias para su implementación en este último trimestre del año.
+
+SÉPTIMO. Se faculta tanto a los Plenos del Tribunal, del Tribunal de Disciplina y del Órgano de Administración, para dictar en el ámbito de sus atribuciones, todas las medidas que sean necesarias para la efectividad y cumplimiento de la presente Ley.
+
+OCTAVO. De conformidad con las facultades reglamentarias de cada órgano, contarán con un plazo de ciento ochenta días naturales contados a partir de su toma de protesta, para presentar ante el Órgano de Administración, los proyectos de reglamentos de carácter administrativo que les corresponda en el ámbito de sus competencias, para que sean aprobados por este último.
+
+El Pleno del Tribunal Superior de Justicia expedirá su propio reglamento interior dentro del plazo de ciento ochenta días naturales contados a partir de la toma de protesta de sus integrantes.
+
+Los reglamentos que deba expedir el Órgano de Administración, en caso de que surjan por iniciativa de éste, previo a su aprobación, deberá contarse con la opinión que emitan, según corresponda, el Pleno del Tribunal Superior, o el Pleno del Tribunal de Disciplina, cuando los reglamentos en cuestión les impacten o se relacionen con sus funciones y atribuciones; y en todos los casos, con la que corresponda al Pleno del Tribunal Superior de Justicia.
+
+En dichos reglamentos se deberá desarrollar lo previsto en lo conducente en esta Ley para garantizar la operatividad de los órganos jurisdiccionales y administrativos del Poder Judicial.
+
+En forma enunciativa, al menos deberán ser expedidos los siguientes:
+
+I. Reglamento Interior del Tribunal Superior de Justicia del Estado de Colima;
+
+II. Reglamento Interior del Tribunal de Disciplina Judicial del Estado de Colima;
+
+III. Reglamento Interior del Órgano de Administración Judicial del Estado de Colima;
+
+IV. Reglamento Interior de las Judicaturas del Poder Judicial del Estado de Colima;
+
+V. Reglamento del Sistema de Carrera Judicial del Poder Judicial del Estado de Colima;
+
+VI. Reglamento de la Escuela de Formación Judicial del Poder Judicial del Estado de Colima;
+
+VII. Reglamento del Fondo Auxiliar en Beneficio de la Administración de Justicia del Poder Judicial del Estado de Colima;
+
+VIII. Reglamento para el Control Patrimonial del Poder Judicial del Estado de Colima;
+
+IX. Reglamento para la Administración, Uso, Resguardo, Conservación, Baja y Destino final de Bienes del Poder Judicial del Estado de Colima;
+
+X. Reglamento de Procedimientos y Asignación de Estímulos del Poder Judicial del Estado;
+
+XI. Reglamento del Sistema de Archivos del Poder Judicial del Estado de Colima;
+
+XII. Reglamento para el Servicio Pericial del Poder Judicial del Estado de Colima;
+
+NOVENO. En tanto se cuente con la disponibilidad presupuestal necesaria para la creación de los juzgados especializados en Extinción de Dominio, las judicaturas que conozcan de la materia civil, conocerán de los mismos en los términos de la legislación aplicable; y los recursos de apelación que de ellos deriven serán conocidos por las Salas del Tribunal Superior competentes en materia civil o mixta.
+
+Sin perjuicio de lo anterior, el Pleno del Órgano de Administración determinará mediante Acuerdo General las judicaturas que conozcan de la materia civil ya sea en forma especializada o mixta, que deban conocer de dichos procedimientos y en cuales partidos judiciales, o si se les asigna competencia estatal a solo determinadas judicaturas con independencia de la sede donde se encuentren.
+
+Para tal efecto se contemplará en lo conducente lo dispuesto en el Acuerdo General que en su momento aprobó el Pleno del Tribunal Superior mediante el que se les asignó competencia estatal en materia de extinción de dominio a los juzgados civiles con sede en el primer partido judicial.
+
+DÉCIMO. El Centro de Convivencia Familiar, y todo lo relacionado con la Justicia en Línea, entrará en funciones hasta en tanto se garantice la disponibilidad presupuestaria para la debida creación y operación de los mismos y demás áreas que los integren o resulten necesarias conforme a la presente Ley.
+
+DÉCIMO PRIMERO. Las causas de retiro forzoso y entrega de haber de retiro para judicaturas y magistraturas previstas en esta Ley, serán aplicables a las personas servidoras públicas respectivas, que hayan resultado electas el pasado 01 de junio del año 2025 y entren en funciones a partir del 01 de octubre del año 2025.
+
+DÉCIMO SEGUNDO. Las Magistraturas del Tribunal Superior de Justicia que estaban en funciones a la entrada en vigor del decreto de reforma a la Constitución Política del Estado Libre y Soberano de Colima en materia del Poder Judicial, y que contaban a esa fecha con una antigüedad de 15 años ininterrumpidos al servicio del Poder Judicial del Estado, y no cumplieran con los requisitos para acceder al programa de retiro voluntario contemplado en el decreto 479 a que se hizo referencia anteriormente, siempre y cuando hubieran declinado su participación en la elección del pasado 01 de junio del año 2025, serán beneficiarias de un haber de retiro en los términos siguientes:
+
+El mismo será con cargo al Presupuesto de Egresos del Poder Judicial, tendrá el carácter de intransferible y; en ningún caso, podrá exceder del plazo en el que se hubieran desempeñado en la magistratura respectiva.
+
+Para determinar el monto del porcentaje que deberá asignárseles, el Pleno del Tribunal Superior de Justicia determinará dicho haber, para lo cual se auxiliará del Instituto de Pensiones de los Servidores Públicos del Estado de Colima, quien efectuará el cálculo respectivo aplicando lo dispuesto en el artículo Vigésimo Segundo Transitorio del decreto de expedición de su Ley, como si se tratase de una pensión por vejez.
+
+El monto que resulte, será entregado a la Magistratura beneficiada por parte del Poder Judicial del Estado con cargo a su propio Presupuesto; mismo que se suspenderá en el supuesto de que reingrese al servicio con alguna Entidad Pública Patronal prevista en la Ley de Pensiones de los Servidores Públicos del Estado de Colima.
+
+DÉCIMO TERCERO. Las Magistraturas del Tribunal Superior de Justicia que estaban en funciones a la entrada en vigor del decreto de reforma a la Constitución Política del Estado Libre y Soberano de Colima, que hubieran declinado su participación en la elección del pasado 01 de junio del año 2025 y que no cumplan con lo señalado en los dos artículos transitorios que anteceden; serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado al Poder Judicial, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con cargo al Presupuesto de Egresos del Poder Judicial del Estado en el ejercicio fiscal que corresponda.
+
+DÉCIMO CUARTO. En cumplimiento al Artículo Transitorio NOVENO del Decreto de reforma a la Constitución Política del Estado Libre y Soberano de Colima en materia de reforma al Poder Judicial, las personas juzgadoras de Primera Instancia del Poder Judicial a que se hace referencia en citado transitorio se estarán a lo siguiente:
+
+I. Las que hayan asumido la judicatura por concurso de oposición o examen de méritos o, en su caso, al día 9 de noviembre del año 2014 - fecha en que entró en vigor la Ley Orgánica del Poder Judicial del Estado de Colima que hoy se deroga- tuvieran al menos seis años cumplidos en el ejercicio como Juezas o Jueces de Primera Instancia y dichos cargos y funciones las desempeñaran a la fecha en que entró en vigor dicha reforma constitucional local y no hubieran resultado electas para algún cargo de elección en la judicatura, o que hubieran declinado su participación, podrán optar por:
+
+a) Pensionarse en cualquiera de las modalidades contempladas en la Ley de Pensiones de los Servidores Públicos del Estado de Colima, siempre y cuando cumplan con los requisitos que se establecen para cada caso.
+
+b) Serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado en el Poder Judicial, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con cargo al Presupuesto de Egresos del Poder Judicial del Estado en el ejercicio fiscal que corresponda.
+
+c) A partir del 01 de octubre del año 2025, ser consideradas por el Tribunal Superior, por el Tribunal de Disciplina o Órgano de Administración, según corresponda, para ocupar un diverso cargo dentro del Poder Judicial en alguno de los previstos en la citada carrera judicial, o uno diverso, haciéndose los corrimientos o ajustes respectivos, caso en el cual no aplicará la indemnización a que se hace referencia en el inciso que antecede.
+
+d) Si con antelación a la judicatura que concluyen, hubieran obtenido previo concurso de oposición o examen de méritos, algún cargo de los considerados por la Ley Orgánica que hoy se abroga, o por su reglamento de carrera judicial, como integrantes de la Carrera Judicial conservarán dicho cargo previamente obtenido en dichos concursos, y corresponderá, en todo caso, al Órgano de Administración adscribirlas a los espacios que se estimen convenientes, salvo que alguna de las judicaturas o magistraturas electas que entren en funciones opte por que sean adscritas a ellas. En el caso de las adscripciones a magistraturas, dichos cargos se entenderán ocupados por comisión.
+
+II. Las personas juzgadoras que hubieran declinado su participación en la elección de referencia, o que, habiendo participado como candidatas a una judicatura o a un cargo diverso, y no hubieran resultado electas, y no se encuentren en alguna de las hipótesis señaladas anteriormente, concluirán su relación laboral sin responsabilidad para el Poder Judicial, cuando asuman las funciones las personas juzgadoras que las sustituyan derivado del proceso electoral judicial en cuestión.
+
+Para los efectos precisados en el transitorio que nos ocupa, el área encargada de celebrar los concursos de oposición o de méritos para ocupar dichas judicaturas en su momento, así como los demás cargos contemplados como de Carrera Judicial, en coordinación con el área de recursos humanos o administrativa que corresponda deberá remitir a más tardar dentro de los quince días hábiles siguientes, a la entrada en vigor del presente Decreto, al Pleno del Tribunal Superior de Justicia, un informe al que se adjunten las constancias respectivas, en el que se detalle en forma sistematizada, al menos lo siguiente:
+
+I. Las convocatorias a dichos exámenes de méritos o concursos de oposición, con su correspondiente número de identificación, los cargos sujetos a los mismos, las personas que resultaron triunfadoras en cada caso y a los lugares a los que fueron adscritas.
+
+II. Los espacios o lugares a los que hubieran sido readscritos o promovidos y las personas que los hayan suplido en aquellos lugares donde iniciaron previamente su cargo de carrera judicial, así como todos los movimientos que hubieran tenido dentro del Poder Judicial.
+
+III. La demás información y documentación que se estime necesaria por el Órgano requirente.
+
+Lo anterior con la finalidad de conocer a detalle el seguimiento de dichos cargos y poder en su momento hacer los corrimientos respectivos del personal que no pertenezca a la carrera judicial e identificar las plazas o cargos que no están ocupadas producto de un concurso de oposición o examen de méritos en el Poder Judicial.
+
+DÉCIMO QUINTO. A más tardar, antes de que concluya el primer semestre del año calendario de 2026, el Órgano de Administración Judicial, por conducto del área que corresponda en términos de la presente Ley, deberá emitir las convocatorias a concursos de oposición para la designación de personas servidoras públicas en cargos que pertenezcan a la Carrera Judicial.
+
+Dichas convocatorias por esta única ocasión, en cada categoría sujeta a concurso, serán en forma mixta, esto es, que del total de las plazas vacantes o que no se encuentren ocupadas, derivado de un concurso o examen previo, al menos la mitad de éstas en cada categoría, deberá ser convocada para el personal interno del Poder Judicial, así como para quienes estén desempeñando dichos cargos y la otra mitad sujeta a convocatoria abierta a todas las personas profesionistas que cumplan con los requisitos para ocupar dichos cargos. En ambos casos deberá garantizarse la participación en condiciones de igualdad a las mujeres que deseen participar.
+
+DÉCIMO SEXTO. Tomando en cuenta que en la presente Ley, se excluye de los cargos pertenecientes a la Carrera Judicial, a los Proyectistas, Secretarios de Acuerdos de Sala y Secretarios Actuarios de Sala del Tribunal Superior; en el caso de que alguna persona servidora pública hubiera obtenido alguno de esos cargos derivado de un concurso de oposición o examen de méritos, continuará conservando su categoría de Carrera Judicial en esos cargos; sin embargo, podrán ser readscritos a otros espacios o responsabilidades sin afectar su categoría, si a petición de las nuevas magistraturas que se integren el próximo 01 de octubre del año 2025 estiman conveniente designar a otras personas en esos espacios. Lo mismo ocurrirá en el caso de los Proyectistas del Sistema de Justicia Laboral.
+
+DÉCIMO SÉPTIMO. Los procedimientos administrativos y disciplinarios que al 30 de septiembre de 2025 se encuentren pendientes de resolución por la instancia respectiva, serán resueltos por éstas. Los que se encuentren en trámite serán remitidos al Tribunal de Disciplina para continuar con su substanciación y resolución conforme al procedimiento establecido en la normatividad aplicable en materia de responsabilidades.
+
+DÉCIMO OCTAVO. Las Magistraturas electas del Tribunal Superior de Justicia que asuman sus funciones el próximo 01 de octubre del año 2025, elegirán, de entre ellas a quien fungirá en la Presidencia, dentro de los primeros quince días del mismo mes de octubre, en términos del artículo 20 de esta Ley.
+
+La Magistratura que resulte electa, entrará en funciones el 1 de noviembre de 2025, para lo cual la Presidencia saliente, rendirá su informe de labores a más tardar el 31 de octubre del 2025.
+
+DÉCIMO NOVENO. Las Excitativas de Justicia instauradas previamente o las que se interpongan en contra de las personas sujetas a ellas, hasta el día 30 de septiembre del año 2025, se tramitarán hasta su conclusión ante el Pleno y las Salas del Tribunal Superior de Justicia, o ante las Judicaturas, según corresponda, conforme a lo señalado en la ley Orgánica que hoy se abroga. Lo mismo se observará respecto de la ejecución de las mismas. Las interpuestas a partir del 01 de octubre de 2025, se tramitarán y resolverán ante el Tribunal de Disciplina Judicial conforme a la presente Ley.
+
+VIGÉSIMO. Los Juzgados Mixtos de Paz, previstos en la Ley Orgánica del Poder Judicial del Estado de Colima del 08 de octubre de 1988, se extinguirán con base en las disposiciones que emita el Órgano de Administración.
+
+VIGÉSIMO PRIMERO. A partir de la entrada en vigor de la presente Ley, el Pleno del Tribunal Superior determinará, mediante acuerdo general, la organización, plan, bases y medidas del régimen de transición y transferencia de los recursos humanos, materiales, financieros y presupuestales a los distintos órganos y áreas del Poder Judicial, de acuerdo con las atribuciones señaladas en el presente cuerpo normativo y a lo dispuesto en los artículos transitorios QUINTO, DÉCIMO PRIMERO y DÉCIMO NOVENO que establece el régimen de transitoriedad señalado en la reforma a la Constitución Local publicada en el Periódico Oficial “El Estado de Colima”, el 14 de enero del 2025.
+
+VIGÉSIMO SEGUNDO. Al Tribunal de Disciplina Judicial se le otorgarán los recursos humanos, materiales, financieros y presupuestales necesarios para el cumplimiento de sus atribuciones contenidas en la presente ley.
+
+VIGÉSIMO TERCERO. Al Órgano de Administración Judicial se transferirán los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de administración y de Carrera Judicial, particularmente las siguientes:
+
+1. Oficialía Mayor: transita con la denominación de Dirección General de Planeación, Finanzas y Administración.
+
+2. Dirección de Tecnologías de la Información y Comunicaciones: transita con la misma denominación.
+
+3. Dirección del Centro de Estudios Judiciales: transita con la denominación de Dirección de la Escuela Estatal de Formación Judicial.
+
+4. Archivo Judicial: transita con la denominación de Dirección de Archivos.
+
+5. Dirección de Planeación y Vinculación Institucional: transita con la denominación de Dirección de Planeación, dependiente de la Dirección General de Planeación, Finanzas y Administración.
+
+Las referencias que, la Ley Orgánica del 08 de noviembre del 2014 y sus reglamentos, hagan a las áreas mencionadas en este transitorio y el anterior, a partir de la entrada en vigor del presente Decreto, se entenderán a la denominación con la que transitan con independencia de las reformas respectivas a los reglamentos para hacer la adecuación establecida en el presente Decreto.
+
+Todas las áreas antes mencionadas, permanecerán con su misma denominación en tanto se emita el reglamento que les regule.
+
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito al Órgano de Administración, éstos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
+
+VIGÉSIMO CUARTO. Para la transferencia de los recursos humanos, materiales, financieros y presupuestales señalados en los transitorios anteriores, el Órgano de Administración podrá adoptar las medidas que considere pertinentes relativas al movimiento y readscripción del personal proveniente de otras áreas para la conformación de los nuevos órganos, atendiendo a sus necesidades estructurales y funcionales.
+
+VIGÉSIMO QUINTO. El Tribunal Superior de Justicia deberá garantizar la continuidad de los instrumentos jurídicos de adquisición de bienes, así como la contratación de servicios, arrendamientos, obras y servicios relacionados con las mismas, que sean estrictamente indispensables para el funcionamiento de los distintos órganos integrantes del Poder Judicial, previendo que las vigencias de los instrumentos contractuales no superen el ejercicio dos mil veinticinco, de conformidad con el presupuesto aprobado por el Congreso del Estado para el año fiscal correspondiente.
+
+VIGÉSIMO SEXTO. Los modelos de gestión vigentes con base en los cuales operan los juzgados y sedes judiciales, continuarán desempeñando sus funciones hasta en tanto se emitan los reglamentos que regirán cada materia.
+
+VIGÉSIMO SÉPTIMO. El Centro Estatal de Justicia Alternativa, a la entrada en vigor del presente Decreto, cambiará su denominación a Centro Público de Mecanismos Alternativos de Solución de Conflictos, con independencia de la nueva Ley que se emita en armonía con la Ley General de Mecanismos Alternativos de Solución de Conflictos.
