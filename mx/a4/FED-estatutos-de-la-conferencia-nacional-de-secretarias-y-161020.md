@@ -4,7 +4,7 @@ identifier: "FED-estatutos-de-la-conferencia-nacional-de-secretarias-y-161020"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-11-16"
-last_updated: "2022-11-16"
+last_updated: "2025-09-29"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161020&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-10-04"
 ---
 # ESTATUTOS DE LA CONFERENCIA NACIONAL DE SECRETARIAS Y SECRETARIOS DE SEGURIDAD PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LOS ESTATUTOS DE LA CONFERENCIA NACIONAL DE SECRETARÍAS DE SEGURIDAD PÚBLICA, PUBLICADOS EN EL D.O.F. DE 29 DE SEPTIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
 ESTATUTOS DE LA CONFERENCIA NACIONAL DE SECRETARIAS Y SECRETARIOS DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2025 (SIN EFECTOS).
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 17 de noviembre de 2022.
 
@@ -644,3 +646,13 @@ Quinto.- Los presentes Estatutos sólo podrán ser adicionados o reformados por 
 Aída Fabiola Valencia Ramírez. Secretaria Técnica de la Conferencia Nacional de Secretarias y Secretarios de Seguridad Pública certifica que los presentes estatutos fueron aprobados por el Pleno de la Conferencia de mérito en su XXVI Asamblea Plenaria celebrada el 10 de agosto de 2022.
 
 Ciudad de México, a 4 de octubre de 2022.- Secretaria de Seguridad y Protección Ciudadana y Presidenta de la Conferencia Nacional de Secretarias y Secretarios de Seguridad Pública, Lcda. Rosa Icela Rodríguez Velázquez.- Rúbrica.- Secretaria Técnica de la Conferencia Nacional de Secretarias y Secretarios de Seguridad Pública y del Sistema Penitenciario, Lcda. Aída Fabiola Valencia Ramírez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LOS "ESTATUTOS DE LA CONFERENCIA NACIONAL DE SECRETARÍAS DE SEGURIDAD PÚBLICA".]
+
+Primero.- Los presentes Estatutos entrarán en vigor al momento de su aprobación en la Conferencia Nacional de Secretarías de Seguridad Pública.
+
+Segundo.- Estas disposiciones dejan sin efecto los ESTATUTOS DE LA CONFERENCIA NACIONAL DE SECRETARIAS Y SECRETARIOS DE SEGURIDAD PÚBLICA, publicadas en el Diario Oficial de la Federación el 10 de agosto de 2022.
