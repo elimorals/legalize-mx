@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2025-02-21"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -981,9 +981,9 @@ La Secretaría de la Contraloría vigilará que el sistema de consulta se encuen
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar y proteger el derecho a la salud de la población.
 
-> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
 
-En atención al interés superior de la niñez se garantizará el pleno acceso a la protección de la salud de niñas, niños y adolescentes de conformidad con la legislación aplicable. Las autoridades en materia de salud competentes deberán celebrar convenios para que las niñas, niños y adolescentes reciban la prestación de servicios de atención médica de calidad para disfrutar del nivel más alto posible de salud.
+En atención al interés superior de las niñas, niños y adolescentes se garantizará el pleno acceso a la protección de la salud de niñas, niños y adolescentes de manera integral, sin discriminación y evitando la victimización secundaria de conformidad con la legislación aplicable. Las autoridades en materia de salud competentes deberán celebrar convenios para que las niñas, niños y adolescentes reciban la prestación de servicios de atención médica de calidad para disfrutar del nivel más alto posible de salud.
 
 ### CAPITULO SEGUNDO. De las autoridades
 
@@ -1402,6 +1402,10 @@ XI. Diseñar e implementar políticas públicas que promuevan la prevención, el
 > <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
 XII. Diseñar e implementar políticas públicas que atiendan la salud, el bienestar, el ejercicio de la sexualidad y los proyectos individuales de vida, trabajo y convivencia de niñas, adolescentes, mujeres y personas menstruantes, mediante las cuales se les respeten todos sus derechos humanos y no sufran discriminación, desigualdad ni violencia.
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+XIII. Brindar atención prioritaria a niñas, niños y adolescentes víctimas de cualquier tipo de violencia. Las instituciones de salud deberán adoptar de forma urgente las medidas necesarias para la protección de su salud y darán aviso a la Procuraduría de Protección y al Ministerio Público de manera inmediata, para que se tomen las medidas urgentes y especiales para garantizar la protección, salvaguarda de la vida, de la integridad y seguridad de niñas, niños y adolescentes, en el ámbito de su competencia.
 
 El sistema estatal de salud podrá auxiliarse de los organismos nacionales e internacionales que estime necesarios para el cumplimiento de sus objetivos.
 
@@ -19348,3 +19352,13 @@ Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vi
 Los actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM serán atendidos hasta su conclusión por el Instituto de Salud del Estado de México, a través de su unidad administrativa Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
 OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 91 PÁRRAFO TERCERO, 211 QUATER PÁRRAFOS SEGUNDO Y TERCERO; Y SE ADICIONA EL ARTÍCULO 3 BIS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 12 FRACCIÓN VI, 17 FRACCIÓN XI, 23 PÁRRAFO TERCERO ACTUAL Y 42 FRACCIÓN XXXI, Y; SE ADICIONAN AL ARTÍCULO 5 LA FRACCIÓN XXVI, AL ARTÍCULO 12 FRACCIÓN IV LOS PÁRRAFOS SEGUNDO Y TERCERO, AL ARTÍCULO 17 LA FRACCIÓN XII, AL ARTÍCULO 23 EL PÁRRAFO SEGUNDO RECORRIENDO EL SUBSECUENTE Y AL ARTÍCULO 42 LA FRACCIÓN XXXII, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 2.2 PÁRRAFO SEGUNDO, Y; SE ADICIONA AL ARTÍCULO 2.21 LA FRACCIÓN XIII, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 26 PÁRRAFOS SEGUNDO Y TERCERO Y, 90 FRACCIÓN I PÁRRAFO PRIMERO Y FRACCIÓN II, Y; SE ADICIONA AL ARTÍCULO 27 LA FRACCIÓN VI, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Las instancias competentes, en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor de este Decreto, deberán actualizar los protocolos de atención a que hace referencia el presente Decreto para contemplar la intervención de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
