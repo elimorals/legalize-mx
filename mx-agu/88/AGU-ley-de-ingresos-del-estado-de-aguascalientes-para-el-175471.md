@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-175471"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-27"
-last_updated: "2025-05-26"
+last_updated: "2025-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2025
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Décima Segunda Sección del Número 68 del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2024.
 
@@ -1841,11 +1841,33 @@ San Marcos 5,203
 
 mecánicos por metro cuadrado 232
 
-II. Venta de Bases para Licitación Pública 1,720
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
-Por el uso de espacios para eventos de los conceptos incluidos en el presente
+II. De cualquier otra sede que determine la Secretaría de Turismo para los festivales mencionados en la fracción anterior:
 
-Artículo, se podrá cobrar el 20% del costo del concepto solicitado para el apartado del espacio, debiendo cubrir el 80% restante conforme a lo establecido en el instrumento jurídico que para el efecto expida la Secretaría de Turismo.
+1) Comercial y gastronómico 2.90 x 2.90 metros 5,600.00
+
+2) comercial y gastronómico costo por m2 400.00
+
+3) Artesanal 2.90 x 2.90 metros 4,800.00
+
+4) Artesanal costo por m2 300.00
+
+5) Vendedor ambulante 2,693.00
+
+6) Zona juegos mecánicos m2 232.00
+
+7) Espacios con construcción m2 506.00
+
+8) Remolques con giro gastronómico o comercial m2 300.00
+
+9) Costo excedente por m2 734.00
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+III. Venta de Bases de Licitación Pública 1,720.00
+
+Por el uso de espacios para eventos de los conceptos incluidos en el presente Artículo, se podrá cobrar el 20% del costo del concepto solicitado para el apartado del espacio, debiendo cubrir el 80% restante conforme a lo establecido en el instrumento jurídico que para el efecto expida la Secretaría de Turismo.
 
 La Secretaría de Finanzas del Estado mediante solicitud justificada vía oficio que reciba del Titular de la Secretaría de Turismo, podrá otorgar descuentos de hasta el 50% por los derechos señalados en este Artículo, con el fin de fomentar los programas turísticos en el Estado.
 
@@ -2082,6 +2104,10 @@ Dictamen de Impacto a la movilidad 5,915
 o ratificación del Dictamen de Impacto
 
 en Movilidad 3,545
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+La Secretaría de Finanzas del Estado, previa solicitud por escrito del concesionario de transporte público, podrá otorgar descuentos de un 30% en el pago de derechos por transmisión de la concesión en el servicio de transporte público, específicamente en las modalidades de taxi y colectivo foráneo (combis), contemplados en la fracción I, inciso 9, subincisos A y B del presente artículo.
 
 ### CAPÍTULO VII. De las Autoridades de la Secretaría de Sustentabilidad, Medio Ambiente y Agua
 
@@ -13883,6 +13909,12 @@ Por los Productos del Tribunal de Justicia Administrativa del Estado de Aguascal
 
 Son ingresos derivados de financiamiento interno, aquéllos cuya percepción se decrete excepcionalmente por el Congreso del Estado y se sujetarán a las disposiciones que establezcan las Leyes que los autoricen y a los convenios que de acuerdo con esas disposiciones se celebren.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 37 Bis.
+
+Los ingresos previstos en esta Ley se modificarán en función de los montos y conceptos de endeudamiento autorizados por el H. Congreso del Estado de Aguascalientes.
+
 ## TÍTULO NOVENO. DE LAS DISPOSICIONES FINALES
 
 ### CAPÍTULO ÚNICO. Disposiciones Finales
@@ -14158,3 +14190,43 @@ P.O. 26 DE MAYO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- La Secretaría de Finanzas del Estado de Aguascalientes deberá realizar las adecuaciones correspondientes a su Reglamento Interior en un término no mayor a 90 días naturales, a fin de establecer entre las facultades del titular de la dependencia la posibilidad de celebrar convenios con instituciones de asistencia o beneficencia pública o privada, así como con fundaciones sin fines de lucro que promuevan la salud pública, la protección de la niñez y el bienestar de las personas con discapacidad, para que puedan recibir donaciones voluntarias por parte de los contribuyentes a través de las cajas recaudadoras y cuentas bancarias de la propia Secretaría.
+
+P.O. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 267.- AUTORIZA LA REESTRUCTURA Y/O REFINANCIAMIENTO DE LA DEUDA PÚBLICA DIRECTA DEL ESTADO QUE SE ENCUENTRA VIGENTE CON LAS INSTITUCIONES FINANCIERAS; AUTORIZA LA CONTRATACIÓN DE UNO O VARIOS FINANCIAMIENTOS, POR UN PLAZO DE HASTA 20 AÑOS; AUTORIZA LA CONTRATACIÓN DE UNO O VARIOS FINANCIAMIENTOS, POR UN PLAZO DE HASTA 25 AÑOS; SE ADICIONA LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2025; Y, SE ADICIONA EL PRESUPUESTO DE EGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2025”.]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, queda sin efectos en todas sus partes el Decreto número 229, publicado en el Periódico Oficial del Estado de Aguascalientes en fecha 30 de junio de 2025.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 268.- SE ADICIONA LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2025”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 269.- SE ADICIONA LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2025”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
