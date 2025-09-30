@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-para-el-estado-de-aguascalientes-168852"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-27"
-last_updated: "2024-12-23"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario Número 60 del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
 
@@ -59,7 +59,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Administración Pública Estatal: A las Dependencias y Entidades Paraestatales del Poder Ejecutivo del Estado de Aguascalientes, auxiliares para el ejercicio de sus atribuciones y el despacho de orden administrativo que le corresponde;
 
-II. Afectación: Acto por el que se determina el uso o destino del bien mueble o inmueble que se incorpora al dominio público;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+II. Afectación: Acto por el que se regresa al régimen del dominio público un bien mueble o inmueble que, fue desafectado para un traslado de dominio y no se llevó a cabo la autorización correspondiente.
 
 III. Autoridades Administradoras: Las Dependencias y Entidades Paraestatales que en relación con los inmuebles que administran y/o son de su propiedad, ejerzan las facultades que esta Ley y las demás disposiciones les confieran en materia de concesiones sobre el uso, aprovechamiento y explotación de bienes inmuebles, así como sobre permisos y autorizaciones;
 
@@ -85,7 +87,9 @@ XIII. Contraloría: A la Contraloría del Estado;
 
 XIV. Dependencias: A las que integran la Administración Pública Centralizada, de acuerdo a la organización administrativa que establece la Ley Orgánica de la Administración Pública Estatal;
 
-XV. Desafectación: Acto por el que se determina que el bien mueble o inmueble ha dejado de tener el uso o destino por el que se incorporó al dominio público y pasa a formar parte del dominio privado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+XV. Desafectación: Acto por el que se determina que el bien mueble o inmueble ha dejado de tener el uso o destino por el que se clasificó en el régimen del dominio público y pasa a formar parte del dominio privado;
 
 XVI. Desincorporación: Acto por el que se excluye un bien inmueble del patrimonio del Estado;
 
@@ -129,7 +133,9 @@ XXXV. Poder Legislativo: Al Poder Legislativo del Estado de Aguascalientes;
 
 XXXVI. Rescate: Acto administrativo emanado del Poder Ejecutivo, por medio del cual se declara por causa de utilidad pública la extinción de una concesión sobre el uso, aprovechamiento o explotación de un bien de dominio público, mediante el pago de una indemnización y la publicación en el Periódico Oficial del Estado;
 
-XXXVII. Registro Estatal: Al Registro Estatal de Bienes;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+XXXVII. Registro Estatal: Al sistema tecnológico en el que se administre, programe e integre de manera sistematizada y coordinada la documentación e información relacionada con el inventario de los bienes, denominado Registro Estatal de Bienes;
 
 XXXVIII. Secretaría de Administración: A la Secretaría de Administración del Estado;
 
@@ -309,6 +315,12 @@ Los bienes inmuebles del Estado, considerados como monumentos históricos o art�
 
 Los particulares sólo podrán adquirir sobre el uso, aprovechamiento y explotación de los bienes de dominio público, los derechos regulados en esta Ley y en las demás que dicte el Poder Legislativo.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 22 Bis.
+
+Los bienes inmuebles que se encuentren a nombre del Gobierno del Estado se entenderán sujetos al régimen del dominio público, asimismo, bastará que los bienes inmuebles se hayan adquirido legalmente, se encuentren al cuidado o que su utilidad fuese a favor de Gobierno del Estado para considerarlos bajo el régimen de dominio público.
+
 ###### Artículo 23.
 
 Los bienes inmuebles de las Entidades Paraestatales no están sujetos al régimen de dominio público, salvo aquellos bienes inmuebles propiedad de los Organismos Públicos Descentralizados.
@@ -323,7 +335,9 @@ Los bienes de dominio privado son los bienes del Estado que no son de uso común
 
 Son bienes de dominio privado:
 
-I. Los no comprendidos en el artículo 15 de esta Ley, y cuyo uso o utilidad no tengan interés público;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+I. Los no comprendidos en el artículo 15 de esta Ley, y cuyo uso o utilidad no tengan interés público; así como aquellos que se desafectaron mediante acuerdo administrativo;
 
 II. Los bienes adjudicados por la autoridad judicial o administrativa, según corresponda, al Poder Ejecutivo, en tanto no se declaren bienes de uso común o se destinen a un servicio público;
 
@@ -505,7 +519,9 @@ XIII. Presidir el Comité de Bienes de la Administración Pública Centralizada;
 
 XIV. Expedir la declaratoria por la que se determine que un bien se encuentra incorporado al patrimonio del (sic) de la Administración Pública Estatal y, si ésta afecto al régimen de dominio público;
 
-XV. Emitir el Acuerdo administrativo por el que se desafecten bienes de la Administración Pública Estatal, y en su caso, cuando se desincorporen del patrimonio de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+XV. Emitir el Acuerdo administrativo de afectación al dominio público, el acuerdo administrativo por el que se desafecten bienes de la Administración Pública Estatal, y en su caso, cuando se desincorporen del patrimonio de la Administración Pública Estatal;
 
 XVI. Mantener actualizado el inventario de bienes correspondiente a la Administración Pública Centralizada, de conformidad a los requerimientos y disposiciones que para tal efecto emita;
 
@@ -563,9 +579,15 @@ Corresponde a la Consejería Jurídica del Estado, lo siguiente:
 
 I. Suscribir los documentos jurídicos y legales para la formalización de los actos de adquisición y disposición de bienes inmuebles en los que el Ejecutivo y las Dependencias intervengan, conforme a las disposiciones y competencias establecidas en la presente Ley;
 
-II. Coadyuvar en la asesoría legal de los procedimientos que instauren las Dependencias y Entidades Paraestatales, previa solicitud de estos; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
-III. Las demás que confiera esta Ley y demás disposiciones aplicables.
+II. Coadyuvar en la asesoría legal de los procedimientos que instauren las Dependencias y Entidades Paraestatales, previa solicitud de estos;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+III. Informar sobre las donaciones a favor del Poder Ejecutivo, que se hubiesen aceptado y suscrito por esta Dependencia, y entregar la documentación que acredita la propiedad del inmueble a la Secretaría de Administración en el momento de su formalización; y
+
+IV. Las demás que confiera esta Ley y demás disposiciones aplicables.
 
 #### Sección Cuarta. Contraloría del Estado y Órganos Internos de Control de las Entidades Paraestatales
 
@@ -767,9 +789,15 @@ f) Analizar y autorizar los casos de excepción al procedimiento de licitación 
 
 g) Acordar el destino final y valor mínimo de los bienes muebles y desarrollar los procedimientos para su disposición;
 
-h) Requerir y conocer informes de la Secretaría de Administración; y
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
-i) Las demás necesarias para el cumplimiento de la presente Ley y demás disposiciones aplicables
+h) Requerir y conocer informes de la Secretaría de Administración;
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+i) Emitir Análisis de Conveniencia, de conformidad con el artículo 28 de la presente Ley; y
+
+j) Las demás necesarias para el cumplimiento de la presente Ley y demás disposiciones aplicables.
 
 La integración y funciones específicas, así como la forma y términos en que se deberá informar al Comité de Bienes sobre su actuación, se determinará en el acto que autorice su conformación.
 
@@ -1077,9 +1105,11 @@ Los permisos administrativos y las autorizaciones no podrán ser objeto de cesi�
 
 ### CAPÍTULO II. Recuperación de Bienes Inmuebles por Vía Administrativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 83.
 
-Sin perjuicio del ejercicio de las acciones que en la vía judicial correspondan, las Dependencias y las Entidades Paraestatales en coordinación en su caso, con la Consejería Jurídica, podrán llevar a cabo el procedimiento administrativo a que se refiere este Capítulo para recuperar la posesión de los bienes inmuebles de su propiedad o bajo su administración.
+Sin perjuicio del ejercicio de las acciones que en la vía judicial correspondan, las Dependencias y las Entidades Paraestatales en coordinación con la Consejería Jurídica, podrán llevar a cabo el procedimiento administrativo a que se refiere este Capítulo para recuperar la posesión de los bienes inmuebles, se deberá considerar lo establecido en la fracción V del artículo 46.
 
 El procedimiento a que se refiere este Capítulo estará a cargo de las Dependencias y de las Entidades Paraestatales como autoridades estatales en materia de bienes, así como de la persona titular del Poder Ejecutivo como autoridad en materia concesiones.
 
@@ -1247,9 +1277,11 @@ Si los recursos destinados para la adquisición de bienes inmuebles son de proce
 
 ### CAPÍTULO IV. Disposición de Bienes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 102.
 
-Los bienes que no se encuentren incorporados al dominio público y no sean útiles para destinarlos al servicio público o para el ejercicio de una función pública, podrán ser objeto de disposición mediante actos de dominio, ya sea traslativos de propiedad o de uso de conformidad con el presente Capítulo y de las disposiciones que para tal efecto emita la Secretaría de Administración y las Entidades Paraestatales. Los procedimientos para formalización de los actos de disposición de bienes, se establecen en el Capítulo V de este Título de la Ley, con excepción de los actos traslativos de dominio de muebles y actos traslativos de uso que se sujetaran a lo dispuesto en la Sección Segunda y Tercera de este Capítulo, respectivamente.
+Los bienes que no se encuentren sujetos al régimen del dominio público y no sean útiles para destinarlos al servicio público o para el ejercicio de una función pública, podrán ser objeto de disposición mediante actos de dominio, ya sea traslativos de propiedad o de uso de conformidad con el presente Capítulo y de las disposiciones que para tal efecto emita la Secretaría de Administración y las Entidades Paraestatales. Los procedimientos para formalización de los actos de disposición de bienes, se establecen en el Capítulo V de este Título de la Ley, con excepción de los actos traslativos de dominio de muebles y actos traslativos de uso que se sujetaran a lo dispuesto en la Sección Segunda y Tercera de este Capítulo, respectivamente.
 
 Los ingresos que se obtengan por la venta o arrendamiento de bienes o cualquier otro concepto de ingreso, deberá concentrarse en la Secretaría de Finanzas o en las unidades de administración o finanzas de las Entidades Paraestatales, según corresponda. Las contribuciones y demás gastos que se deban cubrir por la venta de los bienes se harán con cargo al producto de la venta o en su caso, con cargo a los presupuestos autorizados de las Dependencias o Entidades Paraestatales con que cuenten para tal efecto.
 
@@ -1261,9 +1293,15 @@ Los bienes inmuebles propiedad del Poder Ejecutivo que no sean de dominio públi
 
 I. Enajenarse a título oneroso;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
-II. Permutarse con las Entidades Paraestatales, Poderes y Órganos Constitucionales Autónomos de carácter estatal, Gobierno Federal, con otras entidades federativas y de los municipios, con sus respectivas entidades paraestatales o paramunicipales, o con los particulares respecto de bienes inmuebles que, por su ubicación, características y aptitudes, satisfagan necesidades de las partes. En las permutas de bienes inmuebles propiedad del Poder Ejecutivo celebradas con particulares, se podrá recibir como contraprestación la ejecución de obras de infraestructura en beneficio del Estado, atendiendo a lo dispuesto en la fracción II del articulo 28 de la presente ley;
+II. Permutarse con las Entidades Paraestatales, Poderes y Órganos Constitucionales Autónomos de carácter estatal, Gobierno Federal, con otras entidades federativas y de los municipios, con sus respectivas entidades paraestatales o paramunicipales, o con los particulares respecto de bienes inmuebles que, por su ubicación, características y aptitudes, satisfagan necesidades de las partes.
+
+En las permutas de bienes inmuebles propiedad del Poder Ejecutivo celebradas con particulares, se podrá recibir como contraprestación la ejecución de obras de infraestructura en beneficio del Estado, atendiendo a lo siguiente:
+
+a) Para las permutas que pretendan realizar las Entidades Paraestatales se estará a lo dispuesto en los artículos 27 y 28 fracción II de la presente Ley.
+
+b) Para las permutas que se pretendan realizar con inmuebles de la Administración Pública Centralizada, el particular deberá presentar una carta de interés dirigida a la persona titular del Poder Ejecutivo, siguiendo el procedimiento de Concertaciones Administrativas establecido en las normas generales para la enajenación de bienes inmuebles de Gobierno del Estado que para tal efecto emita la Secretaría de Administración en cumplimiento a lo establecido en el artículo 106 de la presente Ley.
 
 III. Enajenarse a título oneroso o gratuito, de conformidad con los criterios que determine el Comité de Bienes, atendiendo la opinión del Instituto de Vivienda Social y Ordenamiento de la Propiedad, a favor de instituciones públicas que tengan a su cargo resolver problemas de habitación popular para atender necesidades colectivas;
 
@@ -1279,49 +1317,57 @@ VIII. Indemnización como pago en especie por las expropiaciones y afectaciones;
 
 IX. Enajenarse a título oneroso al último propietario del inmueble que se hubiere adquirido por vías de derecho público, cuando vaya a ser vendido;
 
-X. Donarse o darse en usufructo a favor de los poderes federales y estatales; las entidades federativas y de los municipios; las entidades paraestatales federales o estatales o entidades paramunicipales; Órganos Constitucionales Autónomos federales y estatales; fideicomisos públicos; instituciones o asociaciones públicas o privadas de salud, beneficencia, asistencia, educativas, culturales o cuyos fines sean el desarrollo económico; beneficiarios de algún servicio asistencial público; comunidades agrarias y ejidos, a fin de que utilicen acorde al objeto, naturaleza o fines del propio contrato, así como a la del donatario, o usufructuario según corresponda siempre que estén alineados los objetos sociales y el destino del bien, con el Plan de Desarrollo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
-XI. Enajenación a título gratuito de acuerdo con los criterios que dicte el Comité de Bienes, arrendamiento o comodato a favor de organizaciones sindicales constituidas y reconocidas por la legislación laboral, para el cumplimiento de sus fines;
+X. Donarse a favor de los poderes federales y estatales; las entidades federativas y de los municipios; las entidades paraestatales federales o estatales o entidades paramunicipales; Órganos Constitucionales Autónomos federales y estatales; fideicomisos públicos; instituciones o asociaciones públicas o privadas de salud, beneficencia, asistencia, educativas, culturales o cuyos fines sean el desarrollo económico; beneficiarios de algún servicio asistencial público; comunidades agrarias y ejidos, a fin de que utilicen acorde al objeto, naturaleza o fines del propio contrato, así como a la del donatario según corresponda siempre que estén alineados los objetos sociales y el destino del bien, con el Plan de Desarrollo;
 
-XII. Enajenación a título oneroso a favor de personas de derecho privado que requieran disponer de dichos inmuebles para a (sic) creación, fomento o conservación de una empresa que beneficie a la colectividad, o para la realización de programas de vivienda y desarrollo urbano, siempre y cuando sea presentado y aprobado por el Instituto de Vivienda Social y Ordenamiento de la Propiedad el proyecto que acredite el beneficio social, ambiental, económico, y sustentable; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+XI. Enajenación a título gratuito de acuerdo con los criterios que dicte el Comité de Bienes, a favor de organizaciones sindicales constituidas y reconocidas por la legislación laboral, para el cumplimiento de sus fines;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+XII. Enajenación a título oneroso a favor de personas de derecho privado que requieran disponer de dichos inmuebles para la creación, fomento o conservación de una empresa que beneficie a la colectividad, o para la realización de programas de vivienda y desarrollo urbano, siempre y cuando sea presentado y aprobado por el Instituto de Vivienda Social y Ordenamiento de la Propiedad el proyecto que acredite el beneficio social, ambiental, económico, y sustentable; y
 
 XIII. Los demás actos de carácter oneroso que se justifiquen en términos de esta Ley o de las leyes aplicables.
 
-Para los actos previstos en el presente artículo, el Comité de Bienes emitirá Dictamen de Viabilidad en el que se hará constar la viabilidad, oportunidad, el mérito y los beneficios que tendrá la limitación de dominio del inmueble de que se trate y el cumplimiento de las formalidades requeridas por las disposiciones legales. Asimismo, en el caso de las Entidades Paraestatales adicionalmente se requerirá de la previa autorización de la Secretaría de Administración para la realización de dichos actos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+Para los actos previstos en el presente artículo, el Comité de Bienes emitirá Dictamen de Viabilidad en el que se hará constar la viabilidad, oportunidad, el mérito y los beneficios que tendrá la limitación de dominio del inmueble de que se trate y el cumplimiento de las formalidades requeridas por las disposiciones legales. Asimismo, en el caso de las Entidades Paraestatales adicionalmente, se requerirá el Análisis de Conveniencia emitido por el Comité de Bienes para la realización de dichos actos.
 
 Los procedimientos por los actos a que se refiere este artículo, podrán iniciarse por parte de la autoridad administrativa o en los casos en que exista una solicitud de algún interesado y se cumpla con los lineamientos a que se refiere el artículo 110 de esta Ley.
 
 En la donación de bienes inmuebles a que se refieren las fracciones V y X de este artículo, la Dependencias y Entidades Paraestatales, según corresponda, vigilará el uso y aprovechamiento de los mismos, y en caso procedente, informarán al Poder Ejecutivo para que se ejerza el derecho de reversión sobre los bienes donados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 104.
 
-De los actos previstos en el artículo 103 de la presente Ley, los de dominio requerirán autorización del Poder Legislativo, en términos del artículo 27 fracción VI de la Constitución Política del Estado de Aguascalientes y de conformidad con el Artículo 27 de esta Ley, excepto los previstos en el artículo 28; los de enajenación de bienes inmuebles, señalados en las fracciones I y XIII del artículo anterior, se realizarán mediante licitación pública, cuando la enajenación sea determinada por la autoridad administrativa o en su caso, se realizarán por adjudicación directa cuando exista una solicitud de algún interesado y éste cubra por lo menos un 10% adicional al monto que corresponda al valor base mínimo de enajenación; y, los contemplados en las fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI y XII del mismo artículo, se realizarán a través de adjudicación directa, previa acreditación de los supuestos a que se refieren dichas acciones.
+De los actos previstos en el artículo 103 de la presente Ley, los de dominio requerirán autorización del Poder Legislativo, en términos del artículo 27 fracción VI de la Constitución Política del Estado de Aguascalientes y de conformidad con el Artículo 27 de esta Ley; con excepción de los supuestos previstos en el artículo 28. Para la ejecución de los traslados de dominio se atenderá lo siguiente:
 
-El valor base mínimo de enajenación, será el que determine el avalúo que solicite la Dependencia o Entidad Paraestatal al Instituto Registral y Catastral del Estado, a las instituciones de crédito, a los corredores públicos, o a los especialistas en materia de valuación con cédula profesional expedida por (sic) autoridad competente, en el cual se establecerá la vigencia del avalúo.
+I. De los actos traslativos de dominio señalados en las fracciones I y XIII del artículo anterior, se realizarán mediante licitación pública, cuando la enajenación sea determinada por la autoridad administrativa o en su caso, se realizarán por adjudicación directa cuando exista una solicitud de algún interesado y éste cubra por lo menos un 10% adicional al monto que corresponda al valor base mínimo de enajenación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+II. La permuta establecida en el segundo párrafo de la fracción II del artículo 103, se realizará a través de Concertaciones Administrativas, conforme a las normas generales para la enajenación de bienes inmuebles emitidas por la Secretaría de Administración.
 
-Para las permutas a que se refiere la fracción II del artículo 103 de esta ley, el valor base mínimo de enajenación será determinado por su Órgano de Gobierno con base en el avalúo Comercial que emita el Instituto Registral y Catastral del Estado.
+III. Los contemplados en las fracciones III, IX, y XII del mismo artículo, se realizarán a través de adjudicación directa, previa acreditación de los supuestos a que se refieren dichas acciones.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+El valor base mínimo de enajenación, será el que determine el avalúo que solicite la Dependencia o Entidad Paraestatal al Instituto Registral y Catastral del Estado, a las instituciones de crédito, a los corredores públicos, o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, en el cual se establecerá la vigencia del avalúo.
 
 El Organismo Público Descentralizado decretará la recisión administrativa cuando por causas no imputables a este, el particular no haya iniciado las obras objeto de la permuta ciento ochenta días naturales despúes de celebrado el respectivo contrato.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO CON SUS FRACCIONES], P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 104 Bis.
 
 Si realizada una licitación pública, el bien inmueble del Estado de que se trate, no se enajena, la Secretaría de Administración o la Entidad Paraestatal a fin de asegurar al Estado las mejores condiciones en cuanto a precio, oportunidad y demás circunstancias pertinentes, deberá realizar las siguientes acciones, en el orden que se precisan:
 
-I. Celebrar una segunda licitación pública, señalando como postura legal el 80% del valor base. De no enajenarse el bien inmueble, se procederá a celebrar una tercera licitación pública, estableciéndose como postura legal el sesenta por ciento del valor mínimo base;
+I. Celebrar una segunda licitación pública señalando como postura legal el noventa y cinco por ciento del valor base. De no enajenarse el bien inmueble, se procederá a celebrar una tercera licitación pública, estableciéndose como postura legal el noventa por ciento del valor mínimo base;
 
 II. Desarrollar por conducto del Comité de Bienes el procedimiento de subasta del bien inmueble;
 
 III. Adjudicar de manera directa el bien inmueble a la persona que llegare a cubrir el valor mínimo base; o
 
 IV. Adjudicar de manera directa el bien inmueble, en caso de haberse efectuado la segunda o tercera licitaciones públicas sin enajenarse el bien y no existir propuesta para cubrir el valor mínimo base, a la persona que cubra la postura legal de la última licitación que se hubiere realizado.
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 En los casos enunciados en las fracciones precedentes, sólo se mantendrá el valor mínimo base utilizado para la licitación anterior, si el respectivo dictamen valuatorio continúa vigente. Si fenece la vigencia del dictamen, deberá practicarse un nuevo avalúo, que emita la autoridad estatal.
 
@@ -1357,17 +1403,21 @@ Salvo lo previsto en los artículos 107 y 108 anteriores, todas las enajenacione
 
 Para llevar a cabo alguno de los actos traslativos de dominio, señalados en el artículo 103 de esta Ley, la Secretaría de Administración emitirá el lineamiento respectivo donde señalará los requisitos y procedimientos respectivos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 111.
 
-Las Entidades Paraestatales podrán realizar cualquier acto jurídico traslativo de dominio sobre bienes inmuebles de su propiedad, sujetándose a las normas y bases que establezcan sus órganos de gobierno en los términos de la Ley de Entidades Paraestatales, sin requerir autorización de la Secretaría de Administración. Las normas y bases deberán prever, entre otras cuestiones, la obtención del valor base mínimo de enajenación, que determine el avalúo que solicite la Entidad Paraestatal al Instituto Registral y Catastral del Estado, o a las instituciones de crédito, o a los corredores públicos, o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente.
+Las Entidades Paraestatales podrán realizar cualquier acto jurídico traslativo de dominio sobre bienes inmuebles de su propiedad, sujetándose a las normas y bases que establezcan sus órganos de gobierno en los términos de la Ley de Entidades Paraestatales, previo Análisis de Conveniencia. Las normas y bases deberán prever, entre otras cuestiones, la obtención del valor base mínimo de enajenación, que determine el avalúo que solicite la Entidad Paraestatal al Instituto Registral y Catastral del Estado, o a las instituciones de crédito, o a los corredores públicos, o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente.
 
 ###### Artículo 112.
 
 En la enajenación de los bienes inmuebles propiedad de las Entidades Paraestatales, sus Titulares procederán a firmar, en nombre y representación del Ejecutivo, la escritura pública correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 113.
 
-Los bienes de dominio privado de las Dependencias podrán gravarse cuando a criterio fundado, sea conveniente para el mejor financiamiento de las obras o servicios a su cargo, asimismo podrán aplicarse a bonos u obligaciones que, en ambos casos, se regirán por las disposiciones legales respectivas previa aprobación del Poder Legislativo.
+Los bienes de dominio privado de Gobierno del Estado podrán gravarse cuando a criterio fundado, sea conveniente para el mejor financiamiento de las obras o servicios a su cargo, asimismo podrán aplicarse a bonos u obligaciones que, en ambos casos, se regirán por las disposiciones legales respectivas, previo Dictamen de Viabilidad o Análisis de Convenciencia, emitidos por el Comité de Bienes que corresponda, y la posterior aprobación del Poder Legislativo.
 
 Otorgada la aprobación a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos las acciones que les correspondan sin limitación alguna.
 
@@ -1375,15 +1425,21 @@ Otorgada la aprobación a que se refiere el párrafo anterior, los bienes quedar
 
 Los bienes inmuebles propiedad de las Entidades Paraestatales, excepto por los que sean inalienables, sólo podrán gravarse con autorización expresa de su órgano de gobierno, cuando a juicio de éste, así convenga para el mejor financiamiento de las obras o servicios a cargo del organismo público descentralizado de que se trate y se sigan los procedimientos que establezcan las disposiciones legales respectivas, con la previa aprobación del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 115.
 
-Para la enajenación de aquellos bienes inmuebles propiedad de los organismos públicos descentralizados del Poder Ejecutivo que no sean utilizados directamente en el cumplimiento de su objeto, no se requerirá acuerdo administrativo de desafectación de bienes emitido por la Secretaría de Administración, siempre que previamente el organismo de que se trate, dictamine por conducto de su Comité de Bienes la no utilidad del bien para el cumplimiento de su objeto y cuente con la autorización de su órgano de gobierno para llevar a cabo la enajenación.
+Para la enajenación de aquellos bienes inmuebles propiedad de los organismos públicos descentralizados del Poder Ejecutivo que no sean utilizados directamente en el cumplimiento de su objeto, se requerirá acuerdo administrativo de desafectación, siempre que previamente el organismo de que se trate, dictamine por conducto de su Comité de Bienes la no utilidad del bien para el cumplimiento de su objeto y cuente con la autorización de su órgano de gobierno para llevar a cabo la enajenación.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 116.
 
-Los bienes inmuebles propiedad de los organismos públicos descentralizados del Poder Ejecutivo, sólo podrán ser desincorporados del régimen del dominio público para su disposición, previa autorización legislativa y mediante acuerdo administrativo de la Secretaría de Administración.
+Los bienes inmuebles propiedad de los organismos públicos descentralizados del Poder Ejecutivo, sólo podrán ser desincorporados y removidos del régimen del dominio público para su disposición, previa autorización legislativa y mediante acuerdo administrativo de desafectación de la Secretaría de Administración.
 
 #### Sección Tercera. Actos Traslativos de Uso
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 117.
 
@@ -1459,7 +1515,7 @@ La Secretaría de Administración o la Entidad Paraestatal, llevará y mantendr�
 
 ###### Artículo 127.
 
-Las Dependencias y Entidades Paraestatales podrán arrendar o dar en comodato aquellos bienes inmuebles del dominio privado del Poder Ejecutivo, a personas físicas o morales, públicas Federales, Estatales o Municipales, o privadas, sin necesidad de llevarse a cabo el procedimiento de autorización ante el Poder Legislativo, debiendo informar por escrito a la Secretaría de Administración de la celebración del contrato, para efectos de control, registro y seguimiento.
+Las Dependencias y Entidades Paraestatales podrán arrendar, dar en comodato o en usufructo aquellos bienes inmuebles del dominio privado del Poder Ejecutivo, a personas físicas o morales, públicas Federales, Estatales o Municipales, o privadas, sin necesidad de llevarse a cabo el procedimiento de autorización ante el Poder Legislativo, debiendo informar por escrito a la Secretaría de Administración de la celebración del contrato, para efectos de control, registro y seguimiento.
 
 ###### Artículo 128.
 
@@ -1467,9 +1523,11 @@ En cuanto a los actos descritos en el artículo anterior, respecto de los bienes
 
 En cuanto a los bienes propiedad de las Entidades Paraestatales, estas realizarán las actuaciones respectivas, debiendo informar, a la Secretaría de Administración, para efectos de registrarlo en el Inventario de Bienes.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 129.
 
-El arrendamiento y comodato de bienes inmuebles de dominio privado de las Dependencias y Entidades Paraestatales será regulado por las disposiciones respectivas del derecho común.
+El arrendamiento, comodato y usufructo de bienes inmuebles de dominio privado de las Dependencias y Entidades Paraestatales será regulado por las disposiciones respectivas del derecho común.
 
 ###### Artículo 130.
 
@@ -1505,7 +1563,9 @@ II. Las declaratorias que determinen que un bien forma parte del patrimonio del 
 
 III. Los acuerdos administrativos que destinen bienes inmuebles del Estado, salvo aquellos que contengan información reservada en los términos de la Ley de Transparencia y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados;
 
-IV. Los acuerdos administrativos que desafecten bienes inmuebles del régimen de dominio público del Estado y los que autoricen su desincorporación;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+IV. Los acuerdos administrativos de afectación, los que desafecten bienes inmuebles del régimen de dominio público del Estado y los que autoricen su desincorporación;
 
 V. Las convocatorias para la celebración de licitaciones públicas para la enajenación de bienes del Estado; y
 
@@ -1603,7 +1663,9 @@ VII. Las declaratorias de reversión sobre bienes donados;
 
 VIII. Las resoluciones de reversión sobre inmuebles expropiados a favor del Estado;
 
-IX. Los acuerdos administrativos que incorporen bienes sujetos al régimen de dominio público del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+IX. Los acuerdos administrativos de afectación al régimen de dominio público de un bien de Gobierno del Estado;
 
 X. Los acuerdos administrativos que desincorporen bienes sujetos al régimen de dominio público del Estado;
 
@@ -1643,15 +1705,19 @@ En caso de oposición entre los asientos registrales del Registro Público de la
 
 Los encargados de las oficinas del Registro Público de la Propiedad y del Instituto Catastral y Registral, ambos del Estado, tendrán como función la de atender los requerimientos que le formule el Registro Estatal.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 150.
 
-Para la inscripción de los títulos y documentos a que se refiere el artículo 146 de esta Ley, relativos a cada bien, se dedicará un solo folio real, en el cual se consignarán la procedencia de los bienes, su naturaleza, sus características de identificación, su ubicación, su superficie y linderos en caso de inmuebles, así como los datos relativos a los mencionados títulos y documentos. Los anteriores datos se capturarán, almacenarán, procesarán e imprimirán mediante un sistema informático.
+Para la inscripción de los títulos y documentos a que se refiere el artículo 146 de esta Ley, la Secretaría de Administración a través del Registro Estatal, asignará una clave patrimonial a cada inmueble del inventario, la cual contendrá los datos de identificación de cada inmueble, tales como, el folio real asignado por el Instituto Registral y Catastral, la procedencia de los bienes, su naturaleza, sus características de identificación, su ubicación, su superficie y linderos en caso de inmuebles, los datos relativos a los mencionados títulos y documentos, así como la situación jurídica y administrativa de cada bien. Los anteriores datos se capturarán, almacenarán, procesarán e imprimirán mediante un sistema informático.
 
 ###### Artículo 151.
 
 Las constancias del Registro Estatal probarán la existencia de la inscripción de los actos a que se refieran, las cuales podrán consistir en:
 
-I. La impresión del folio real respectivo, o
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+I. La impresión de la clave patrimonial respectiva, o
 
 II. La utilización de un medio de comunicación electrónica, en los términos que establezcan los lineamientos de dicho Registro Estatal.
 
@@ -1768,3 +1834,25 @@ P.O. 23 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 270.- SE REFORMA LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los bienes inmuebles de la Administración Pública Centralizada deberán inscribirse a nombre del Gobierno del Estado. En los casos en que las dependencias aparezcan como titulares de la propiedad, estarán obligadas a informar a la Secretaría de Administración, a fin de que ésta realice los procedimientos legales correspondientes para efectuar el cambio de titularidad, conforme a lo previsto en la Ley de Bienes para el Estado de Aguascalientes y demás disposiciones aplicables.
+
+Respecto de los bienes inmuebles propiedad de las entidades paraestatales del Gobierno del Estado, deberán llevarse a cabo los actos jurídicos y administrativos necesarios para su regularización, en términos de lo dispuesto por el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado, por conducto de la Secretaría de Administración, deberá expedir la normatividad necesaria para la correcta aplicación del presente Decreto en un plazo no mayor de ciento veinte días naturales contados a partir de su entrada en vigor. En tanto se expide dicha normatividad, continuará aplicándose la vigente.
+
+###### ARTÍCULO CUARTO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
