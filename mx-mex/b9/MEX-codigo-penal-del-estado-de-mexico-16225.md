@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2025-07-14"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -82,6 +82,12 @@ Sin embargo, la ley abrogada deberá continuar aplicándose por los hechos ejecu
 ###### Artículo 3.
 
 Este Código se aplicará a nacionales o extranjeros que hayan cumplido 18 años de edad. Respecto de los segundos, se estará a lo pactado en los tratados internacionales. Los que tengan entre 12 años cumplidos y menos de 18 años de edad quedan sujetos a la legislación especializada.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+###### Artículo 3 Bis.
+
+Tratándose de delitos cometidos en contra de niñas, niños y adolescentes se atenderá en todo momento el interés superior de niñas, niños y adolescentes en toda la aplicación de ley.
 
 ### CAPITULO IV. LEYES ESPECIALES Y CONCURSO APARENTE DE NORMAS
 
@@ -1357,7 +1363,9 @@ El perdón del ofendido extingue la pretensión punitiva y la pena en su caso, r
 
 Tratándose de delitos cometidos con violencia de género no se admitirá el perdón.
 
-El perdón puede ser otorgado por el ofendido o por su representante legal, si aquél fuese menor de edad o estuviera incapacitado; pero el órgano jurisdiccional o el Ministerio Público, en este último caso, deberán a su prudente arbitrio, conceder o no eficacia al otorgado por el representante y en caso de no aceptarlo, seguir el procedimiento.
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+El perdón puede ser otorgado por la persona ofendida o por su representante legal. Si la persona ofendida cuenta con la designación de apoyos extraordinarios el órgano jurisdiccional o el Ministerio Público, deberán a su prudente arbitrio, determinar si conceden o no eficacia al otorgado por la persona designada como apoyo extraordinario y en caso de no aceptarlo, seguir el procedimiento. Cuando la persona ofendida sea menor de edad, el órgano jurisdiccional o el Ministerio Público, deberán valorar si conceden o no eficacia al perdón tomando en cuenta la opinión de la Procuraduría de Protección de Niñas, Niños y Adolescentes, y en caso de no aceptarse se continuará con el procedimiento.
 
 El perdón concedido a uno de los inculpados se extenderá a todos los demás. Igualmente se extenderá al encubridor.
 
@@ -3143,9 +3151,13 @@ Este delito se perseguirá por querella de la parte de la ofendida.
 
 A quien coaccione, intimide, hostigue, exija o engañe a otra persona, para la elaboración o remisión de imágenes o grabaciones de voz o contenidos audiovisuales de naturaleza erótico, sexual o pornográfico bajo la amenaza de revelar, publicar, difundir o exhibir sin su consentimiento el material de la misma naturaleza que previamente la víctima le haya compartido directamente o que haya obtenido por cualquier otro medio, o bien, con la finalidad de concertar un encuentro o acercamiento físico, se le impondrá de tres a siete años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización.
 
-Asimismo, a quien mediante amenazas y engaños pretenda o logre concertar un encuentro o acercamiento físico con una persona para obtener concesiones de índole sexual o material audiovisual con contenido explícito, se le impondrá de cuatro a ocho años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización.
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
 
-La pena se aumentará hasta el doble, cuando la víctima sea menor de edad o sea declarada incapaz; así también, cuando para la obtención de imágenes o grabaciones de voz o contenidos audiovisuales de naturaleza erótico, sexual o pornográfico, la víctima se encuentre en estado de ebriedad o bajo el influjo de drogas, enervantes y otras análogas que produzcan efectos similares y que les hagan perder el control de su persona.
+Asimismo, a quien mediante amenazas y engaños, haciendo uso de las tecnologías de la información y la comunicación o cualquier otro medio escrito, electrónico o de mensajería, pretenda o logre concertar un encuentro o acercamiento físico con una persona para obtener concesiones de índole sexual o material audiovisual con contenido explícito, se le impondrá de cuatro a ocho años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización.
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+La pena se aumentará hasta el doble, independientemente de que exista coacción, intimidación, hostigamiento, amenazas y engaños, cuando la víctima sea menor de edad, requiera apoyos para comprender el significado de los hechos o requiera apoyos extraordinarios; así también, cuando para la obtención de imágenes o grabaciones de voz o contenidos audiovisuales de naturaleza erótico, sexual o pornográfico, la víctima se encuentre en estado de ebriedad o bajo el influjo de drogas, enervantes y otras análogas que produzcan efectos similares y que les hagan perder el control de su persona.
 
 (ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2019) (F. DE E., G.G. 6 DE SEPTIEMBRE DE 2019)
 
@@ -7946,3 +7958,13 @@ G.G. 14 DE JULIO DE 2025.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 91 PÁRRAFO TERCERO, 211 QUATER PÁRRAFOS SEGUNDO Y TERCERO; Y SE ADICIONA EL ARTÍCULO 3 BIS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 12 FRACCIÓN VI, 17 FRACCIÓN XI, 23 PÁRRAFO TERCERO ACTUAL Y 42 FRACCIÓN XXXI, Y; SE ADICIONAN AL ARTÍCULO 5 LA FRACCIÓN XXVI, AL ARTÍCULO 12 FRACCIÓN IV LOS PÁRRAFOS SEGUNDO Y TERCERO, AL ARTÍCULO 17 LA FRACCIÓN XII, AL ARTÍCULO 23 EL PÁRRAFO SEGUNDO RECORRIENDO EL SUBSECUENTE Y AL ARTÍCULO 42 LA FRACCIÓN XXXII, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 2.2 PÁRRAFO SEGUNDO, Y; SE ADICIONA AL ARTÍCULO 2.21 LA FRACCIÓN XIII, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 26 PÁRRAFOS SEGUNDO Y TERCERO Y, 90 FRACCIÓN I PÁRRAFO PRIMERO Y FRACCIÓN II, Y; SE ADICIONA AL ARTÍCULO 27 LA FRACCIÓN VI, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Las instancias competentes, en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor de este Decreto, deberán actualizar los protocolos de atención a que hace referencia el presente Decreto para contemplar la intervención de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
