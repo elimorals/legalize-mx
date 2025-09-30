@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2025-07-14"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -521,11 +521,13 @@ La edad mínima para que las personas contraigan matrimonio será de 18 años.
 
 Niñas, niños y adolescentes tienen derecho a vivir libres de toda forma y tipo de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
 
-> <small>(ADICIONADO, G.G. 11 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
 
-Las instancias competentes en casos de niñas, niños y adolescentes, víctimas de delitos de feminicidio, desaparición, feminicidio en grado de tentativa o de aquellos que afecten gravemente su integridad física y psicológica; deberán de ejecutar de manera inmediata los mecanismos de atención de denuncias y los protocolos de actuación señalados por la ley, para la implementación de acciones de asistencia jurídica, social y psicológica y de reparación integral del daño, destacando el acompañamiento y atención psicosocial, en sus planes y políticas.
+Las instancias competentes en casos de niñas, niños y adolescentes, víctimas de delitos sexuales, feminicidio, desaparición, feminicidio en grado de tentativa o de aquellos que afecten gravemente su integridad física y psicológica; deberán de ejecutar de manera inmediata, integral, sin discriminación y atendiendo al interés superior de las niñas, niños y adolescentes, y la no victimización secundaria, los mecanismos de atención de denuncias y los protocolos de actuación señalados por la ley, para la implementación de acciones de asistencia jurídica, social y psicológica y de reparación integral del daño, destacando el acompañamiento y atención psicosocial, en sus planes y políticas.
 
-En los casos en que las niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+En los casos en que las niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones aplicables con perspectiva de infancia y adolescencia. En todo caso, los protocolos de atención deberán contemplar la intervención de la Procuraduría de Protección, así como considerar la edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
 Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal de Protección a que se refiere la presente Ley se coordinará con las autoridades encargadas de la atención a víctimas y ofendidos del delito en términos de la legislación aplicable.
 
@@ -542,6 +544,10 @@ III. Adoptar las medidas apropiadas de conformidad con la legislación correspon
 IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral.
 
 V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como para la reparación integral del daño.
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+VI. Solicitar la intervención de la Procuraduría de Protección cuando estimen que puedan verse afectados sus derechos.
 
 ###### Artículo 28.
 
@@ -1657,7 +1663,9 @@ En el ejercicio de sus funciones, la Procuraduría de Protección podrá solicit
 
 La Procuraduría de Protección tendrá las atribuciones siguientes:
 
-I. Procurar la protección integral de niñas, niños y adolescentes de acuerdo a lo previsto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México, los tratados internacionales en los que el Estado Mexicano sea parte, la Ley General, esta Ley y demás disposiciones jurídicas aplicables, dicha protección integral deberá abarcar, por lo menos:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+I. Procurar la protección integral de niñas, niños y adolescentes así como recibir, atender y dar seguimiento de manera prioritaria a casos de maltrato y violencia en su contra , de acuerdo con lo previsto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México, los tratados internacionales en los que el Estado Mexicano sea parte, la Ley General, esta Ley y demás disposiciones jurídicas aplicables, dicha protección integral deberá abarcar, por lo menos:
 
 a. Atención médica y psicológica.
 
@@ -1669,7 +1677,9 @@ d. La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o gu
 
 En todos los casos, dicha protección integral respetará el nivel de madurez cognoscitivo, físico, afectivo y social de niñas, niños y adolescente (sic), en salvaguarda de su interés superior.
 
-II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la Ley General, la presente Ley, y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, así como a quienes ejerzan la patria potestad, tutela, guarda y custodia, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la Ley General, la presente Ley, y demás disposiciones jurídicas aplicables.
 
 III. Establecer las bases para el desarrollo de la metodología para detectar los casos en los que se vulneren los derechos de niñas, niños y adolescentes y diagnosticar su situación, con lo cual se elaborará un plan de restitución.
 
@@ -2590,3 +2600,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 177.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 91 PÁRRAFO TERCERO, 211 QUÁTER PÁRRAFOS SEGUNDO Y TERCERO; Y SE ADICIONA EL ARTÍCULO 3 BIS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 12 FRACCIÓN VI, 17 FRACCIÓN XI, 23 PÁRRAFO TERCERO ACTUAL Y 42 FRACCIÓN XXXI, Y; SE ADICIONAN AL ARTÍCULO 5 LA FRACCIÓN XXVI, AL ARTÍCULO 12 FRACCIÓN IV LOS PÁRRAFOS SEGUNDO Y TERCERO, AL ARTÍCULO 17 LA FRACCIÓN XII, AL ARTÍCULO 23 EL PÁRRAFO SEGUNDO RECORRIENDO EL SUBSECUENTE Y AL ARTÍCULO 42 LA FRACCIÓN XXXII, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 2.2 PÁRRAFO SEGUNDO, Y; SE ADICIONA AL ARTÍCULO 2.21 LA FRACCIÓN XIII, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 26 PÁRRAFOS SEGUNDO Y TERCERO Y, 90 FRACCIÓN I PÁRRAFO PRIMERO Y FRACCIÓN II, Y; SE ADICIONA AL ARTÍCULO 27 LA FRACCIÓN VI, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Las instancias competentes, en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor de este Decreto, deberán actualizar los protocolos de atención a que hace referencia el presente Decreto para contemplar la intervención de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
