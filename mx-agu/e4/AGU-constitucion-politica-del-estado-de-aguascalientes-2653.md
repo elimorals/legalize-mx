@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2025-08-25"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -241,9 +241,9 @@ Toda educación que realicen los particulares en el territorio del Estado será 
 
 El Estado y los Municipios garantizarán el derecho de acceso libre a internet, para tal efecto, establecerán los mecanismos y políticas públicas necesarias para asegurar progresiva y de manera gradual la efectividad de este derecho
 
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
-El Estado y los Municipios impulsarán la sociedad del conocimiento mediante la investigación científica y la innovación tecnológica, a través de los programas y políticas que desarrollen y ejecuten las autoridades en la materia, de acuerdo a las facultades y atribuciones que las leyes les otorguen.
+El Estado y los Municipios impulsarán la sociedad del conocimiento mediante la investigación humanista, científica y la innovación tecnológica, estableciendo políticas de largo plazo e implementando mecanismos que fomenten el desarrollo científico y tecnológico de la entidad, que permitan elevar el nivel de vida de la población, combatir la pobreza y proporcionar igualdad de oportunidades entre mujeres y hombres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2025)</small>
 
@@ -4712,3 +4712,11 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Para dar cumplimiento a las disposiciones del presente Decreto, las autoridades en el Estado, deberán llevar a cabo las adecuaciones normativas necesarias, en un término que no exceda de 180 días hábiles posteriores a su entrada en vigor.
+
+P.O. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 250.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
