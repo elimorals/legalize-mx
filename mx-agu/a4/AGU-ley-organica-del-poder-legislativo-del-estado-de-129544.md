@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2025-06-09"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -2335,31 +2335,31 @@ En caso de que algún Diputado cometiera algún delito en el Recinto Oficial dur
 
 Si el delito se cometiera durante el receso o después de levantada la sesión, el Presidente de la Mesa Directiva lo comunicará al Pleno, al reanudarse la sesión o al comienzo de la siguiente y solicitará a la Junta de Coordinación Política que proponga los Diputados que integrarán la Comisión encargada de la instrucción del proceso de juicio de procedencia.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
-## TÍTULO NOVENO. DE LA GACETA LEGISLATIVA
+## TÍTULO NOVENO. DE LA GACETA PARLAMENTARIA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 2024)</small>
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 186.
 
-La Gaceta Legislativa es el órgano oficial de difusión de las actividades del Poder Legislativo del Estado.
+La Gaceta Parlamentaria es el órgano oficial de difusión de las actividades del Poder Legislativo del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 187.
 
-La Gaceta Legislativa se publicará exclusivamente en formato digital, según lo establecido en el artículo 150 del presente ordenamiento, la cual deberá estar disponible en la página de Internet oficial del Poder Legislativo del Estado.
+La Gaceta Parlamentaria se publicará exclusivamente en formato digital, según lo establecido en el artículo 150 del presente ordenamiento, la cual deberá estar disponible en la página de internet oficial del Poder Legislativo del Estado.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 188.
 
-Deberán publicarse íntegramente en la Gaceta Legislativa los siguientes documentos:
+Deberán publicarse íntegramente en la Gaceta Parlamentaria los siguientes documentos:
 
 > <small>(REFORMADA, P.O. 9 DE JUNIO DE 2025)</small>
 
@@ -2377,9 +2377,15 @@ III. Las convocatorias, citatorios y los proyectos de Orden del Día de las sesi
 
 IV. Las iniciativas de ley, decretos y puntos de acuerdo que sean turnados a las comisiones legislativas y resueltos por el Poder Legislativo del Estado de Aguascalientes;
 
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2024)</small>
+
 V. Las actas, informes, resoluciones, acuerdos, declaraciones y pronunciamientos del Pleno, la Mesa y las comisiones del Poder Legislativo del Estado de Aguascalientes
 
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2024)</small>
+
 VI. Los dictámenes emitidos por comisiones y comités, así como sus votos particulares;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2024)</small>
 
 VII. Las convocatorias a mesas de trabajo y foros para consultar con la sociedad sobre el trabajo legislativo;
 
@@ -2404,6 +2410,10 @@ XI. Los demás que ordene la Junta de Coordinación Política.
 ###### ARTÍCULO 189.
 
 Para la publicación de documentos en la Gaceta Parlamentaria, deberán presentarse los originales ante la Secretaria General, en modo impreso y firmado, en los plazos, términos y condiciones que señalen los lineamientos técnicos que para tal efecto expida la persona titular de la Secretaria General.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+En el Reglamento se establecerán las bases y procedimientos para dar cumplimiento a lo dispuesto por el presente artículo.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
 
@@ -2668,6 +2678,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 9 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 196.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 272.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
