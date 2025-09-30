@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-victimas-del-estado-de-mexico-109519"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-17"
-last_updated: "2024-04-05"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2025.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 17 de agosto de 2015.
 
@@ -218,6 +218,10 @@ XXIV. Violación de derechos humanos: A todo acto u omisión de naturaleza admin
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 16 DE AGOSTO DE 2016)</small>
 
 XXV. Victimización secundaria: A la afectación producida no como resultado directo de un acto delictivo en el cual estuvo presente, sino por la respuesta de las instituciones y de las personas en relación con la víctima u ofendido.
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+XXVI. Procuraduría de Protección: A la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
 
 ###### Artículo 6.
 
@@ -427,13 +431,21 @@ III. Recibir atención y ser canalizados para que les sea otorgado el tratamient
 
 IV. Recibir desde la comisión de un delito asesoría jurídica, ser informado de los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos y cuando lo solicite, ser informado del desarrollo del procedimiento penal.
 
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+Tratándose de niñas, niños y adolescentes víctimas, se deberá dar aviso inmediato a la Procuraduría de Protección quien con la misma inmediatez intervendrá a efecto de garantizar que se tomen las medidas necesarias para la protección, respeto y restitución integral de sus derechos, así como poner a su disposición servicios de asesoría, representación legal en coadyuvancia o suplencia, y las demás acciones de protección y coordinación previstas en la Ley.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+La persona titular de la patria potestad, tutela o guarda y custodia, o cuidador de la víctima menor de edad, tendrá derecho a recibir asesoría y asistencia de la Procuraduría de Protección durante el proceso de atención, a fin de garantizar el interés superior de las niñas, niños y adolescentes.
+
 > <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2016)</small>
 
 V. A la reparación del daño de manera integral y en los casos en que sea procedente, el Ministerio Público estará obligado a solicitarla, sin menoscabo de que la víctima u ofendido lo pueda hacer directamente.
 
-> <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
 
-VI. Tratándose de delitos vinculados a la violencia de género y en los casos en que las víctimas u ofendidos del delito sean niñas, niños o adolescentes, que la Procuraduría de Protección de Niñas, Niños y Adolescentes, el Ministerio Público o la autoridad judicial, según corresponda, dictarán de oficio y de manera inmediata las medidas de protección necesarias para salvaguardar su seguridad e integridad física y psicológica, de acuerdo a su edad, grado de madurez, desarrollo o necesidades particulares así como las providencias necesarias para su debido cumplimiento y ejecución.
+VI. Tratándose de delitos vinculados a la violencia de género y en los casos en que las víctimas u ofendidos del delito sean niñas, niños o adolescentes, que la Procuraduría de Protección, el Ministerio Público o la autoridad judicial, según corresponda, dictarán de oficio, de manera inmediata, sin discriminación y evitando su victimización secundaria las medidas de protección necesarias para salvaguardar su seguridad e integridad física y psicológica, de acuerdo a su edad, grado de madurez, desarrollo o necesidades particulares así como las providencias necesarias para su debido cumplimiento y ejecución.
 
 > <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -729,9 +741,13 @@ IX. Se le proporcionará atención permanente en salud mental en los casos en qu
 
 X. La atención materno-infantil permanente cuando sea el caso incluyendo programas de nutrición.
 
-> <small>(ADICIONADA, G.G. 16 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE SEPTIEMBRE DE 2025)</small>
 
-XI. Las demás que le confiere la Ley y otras disposiciones jurídicas aplicables.
+XI. Tratándose de niñas, niños y adolescentes garantizará la participación de la Procuraduría de Protección para establecer las medidas de protección de sus derechos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+XII. Las demás que le confiere la Ley y otras disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -789,7 +805,13 @@ La Secretaría de Salud otorgará el carnet que identifique a las víctimas y of
 
 A toda víctima de violación sexual, se le garantizará el acceso a los servicios de anticoncepción de emergencia, con absoluto respeto a la voluntad de la víctima, previo consentimiento informado, asimismo, se le realizará práctica periódica de exámenes y tratamiento especializado, durante el tiempo necesario para su total recuperación y conforme al diagnóstico y tratamiento médico recomendado; en particular, se considerará prioritario para su tratamiento el seguimiento de eventuales contagios de enfermedades de transmisión sexual y del Virus de Inmunodeficiencia Humana.
 
-En cada una de las entidades públicas que brinden servicios, asistencia y atención a las víctimas se dispondrá de personal capacitado en tratamiento de la violencia sexual con un enfoque transversal de género.
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+Tratándose de niñas, niños y adolescentes víctimas de delitos sexuales se dará atención prioritaria, integral, sin discriminación, atendiendo a su interés superior y evitando la victimización secundaria. En todos los casos se garantizará la intervención de la Procuraduría de Protección en suplencia o coadyuvancia con quien ejerza la patria potestad, tutela o guarda y custodia, para establecer las medidas de protección de sus derechos.
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+En cada una de las entidades públicas que brinden servicios, asistencia y atención a las víctimas se dispondrá de personal capacitado en tratamiento de la violencia sexual con un enfoque transversal de género y con perspectiva de infancia y adolescencia.
 
 > <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -1365,9 +1387,13 @@ XXIX. Vigilar y dar seguimiento de las medidas de no repetición a cargo de las 
 
 XXX. Estar a cargo del Fondo, del Registro, Políticas Públicas, Jurídico Consultivo, del Centro de Atención e Información, de la Defensoría Especializada y de las Unidades de Atención.
 
-> <small>(ADICIONADA, G.G. 16 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE SEPTIEMBRE DE 2025)</small>
 
-XXXI. Las demás necesarias para el cumplimiento de su objeto y aquellas establecidas en otras disposiciones jurídicas.
+XXXI. Garantizar la coordinación interinstitucional del Sistema con la Procuraduría de Protección, a fin de definir las medidas de protección y restitución integral de los derechos de niñas, niños y adolescentes víctimas, así como los mecanismos necesarios para la erradicación de los actos que vulneren sus derechos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXI], G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+XXXII. Las demás necesarias para el cumplimiento de su objeto y aquellas establecidas en otras disposiciones jurídicas.
 
 ###### Artículo 43.
 
@@ -2958,3 +2984,13 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 177.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 91 PÁRRAFO TERCERO, 211 QUÁTER PÁRRAFOS SEGUNDO Y TERCERO; Y SE ADICIONA EL ARTÍCULO 3 BIS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 12 FRACCIÓN VI, 17 FRACCIÓN XI, 23 PÁRRAFO TERCERO ACTUAL Y 42 FRACCIÓN XXXI, Y; SE ADICIONAN AL ARTÍCULO 5 LA FRACCIÓN XXVI, AL ARTÍCULO 12 FRACCIÓN IV LOS PÁRRAFOS SEGUNDO Y TERCERO, AL ARTÍCULO 17 LA FRACCIÓN XII, AL ARTÍCULO 23 EL PÁRRAFO SEGUNDO RECORRIENDO EL SUBSECUENTE Y AL ARTÍCULO 42 LA FRACCIÓN XXXII, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 2.2 PÁRRAFO SEGUNDO, Y; SE ADICIONA AL ARTÍCULO 2.21 LA FRACCIÓN XIII, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 26 PÁRRAFOS SEGUNDO Y TERCERO Y, 90 FRACCIÓN I PÁRRAFO PRIMERO Y FRACCIÓN II, Y; SE ADICIONA AL ARTÍCULO 27 LA FRACCIÓN VI, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación .
+
+TERCERO. Las instancias competentes, en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor de este Decreto, deberán actualizar los protocolos de atención a que hace referencia el presente Decreto para contemplar la intervención de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
