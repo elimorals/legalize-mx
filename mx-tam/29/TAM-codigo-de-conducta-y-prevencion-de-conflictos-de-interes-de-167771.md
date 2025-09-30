@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-167
 country: "mx"
 rank: "codigo"
 publication_date: "2023-09-08"
-last_updated: "2023-09-08"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE RECURSOS HIDRAULICOS PARA EL DESARROLLO SOCIAL, TAMAULIPAS
 
-CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARIA DE RECURSOS HIDRÁULICOS PARA EL DESARROLLO SOCIAL
+CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE RECURSOS HIDRÁULICOS PARA EL DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
 
 Código publicado en el Número Extraordinario 21 del Periódico Oficial del Estado de Tamaulipas, el viernes 8 de septiembre de 2023.
 
@@ -33,7 +33,9 @@ PODER EJECUTIVO
 
 SECRETARÍA DE RECURSOS HIDRÁULICOS PARA EL DESARROLLO SOCIAL
 
-CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARIA DE RECURSOS HIDRÁULICOS PARA EL DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE RECURSOS HIDRÁULICOS PARA EL DESARROLLO SOCIAL
 
 Índice
 
@@ -73,9 +75,11 @@ Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de
 
 ### Capítulo I. Riesgos Éticos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-Situaciones en las que potencialmente pudieran transgredirse principios, valores o reglas de integridad y que deberán ser identificados a partir del diagnóstico que realicen las dependencias, entidades o empresas productivas del estado.
+Los riesgos éticos son todas aquellas situaciones en las que potencialmente pudieran transgredirse principios, valores o reglas de integridad y que deberán ser identificados a partir del diagnóstico que realicen las dependencias, entidades o empresas productivas del estado.
 
 Conductas:
 
@@ -145,11 +149,27 @@ Las y los servidores públicos que ocupe (sic) un cargo, empleo o comisión sin 
 
 ### Capítulo IV. Glosario
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 5.
 
 Para los efectos de éste Código, se entenderá por:
 
-I. Acoso Sexual: forma de violencia de carácter sexual, en la que, puede o no existir una subordinación jerárquica de la víctima frente a la persona agresora, e inclusive puede realizarse de una persona de menor nivel jerárquico hacia alguien de mayor nivel o cargo, habiendo un ejercicio abusivo de poder por parte de quien la realiza. Puede tener lugar entre personas servidoras públicas y de éstas hacia particulares y es expresada en conductas verbales o de hecho, físicas o visuales, independientemente de que se realice en uno o varios eventos.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+I. Acoso Sexual: Cualquier comportamiento sexual inapropiado o no deseado que ocurre en el lugar de trabajo o fuera de este siempre que se de en el ámbito laboral y que puede afectar negativamente el bienestar, la dignidad y los derechos de una persona. Esto puede incluir de manera enunciativa más no limitativa:
+
+- Insinuaciones o comentarios sexuales inapropiados
+
+- Contacto físico no deseado o tocamientos
+
+- Proposiciones o invitaciones sexuales
+
+- Exhibición de material pornográfico o sexualmente explícito.
+
+- Acoso verbal o gestos de naturaleza sexual.
+
+Es una forma de violencia de carácter sexual, en la que, puede o no existir una subordinación jerárquica de la víctima frente a la persona agresora, e inclusive puede realizarse de una persona de menor nivel jerárquico hacia alguien de mayor nivel o cargo, habiendo un ejercicio abusivo de poder por parte de quien la realiza. Puede tener lugar entre personas servidoras públicas y de éstas hacia particulares y es expresada en conductas verbales o de hecho, físicas o visuales, independientemente de que se realice en uno o varios eventos.
 
 II. Carta compromiso: documento en el que las y los servidores públicas (sic) dejarán constancia de conocer el contenido de los códigos de Ética y el de Conducta, así como de su compromiso por observar los principios, valores y reglas de integridad, plasmados en ellos, cuyo modelo es definido por la Contraloría.
 
@@ -402,3 +422,13 @@ Nombre de la persona servidora pública
 Puesto
 
 Número de empleado
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL CUAL SE ACTUALIZA EL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARIA DE RECURSOS HIDRÁULICOS PARA EL DESARROLLO SOCIAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su expedición y deberá ser publicado en el Periódico Oficial del Estado.
+
+SEGUNDO. La modificación será conforme a lo establecido en el ARTÍCULO ÚNICO del Acuerdo, quedando subsistente en todo lo demás el Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de la Secretaría de Recursos Hidráulicos para el Desarrollo Social, publicado en el Periódico Oficial del Estado, edición extraordinaria número 21, TOMO CXLVIII, el ocho de septiembre del año dos mil veintitrés.
