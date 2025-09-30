@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2025-07-14"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2025.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -1561,13 +1561,23 @@ Las autoridades municipales no podrán someter a ninguna categoría especial de 
 
 Para los efectos establecidos en el párrafo anterior las autoridades podrán celebrar con los interesados todos aquellos acuerdos de concertación o colaboración que resulten necesarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
 ###### Artículo 2.
 
-93. Las reservas estatales y los santuarios del agua se constituirán en áreas biogeográficas relevantes en la jurisdicción del Estado, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados y restaurados en los cuales habiten especies representativas de la diversidad biológica estatal o nacional, incluyendo a las consideradas endémicas, raras, amenazadas o en peligro de extinción en términos de lo regulado por las normas oficiales mexicanas y por las normas técnicas estatales o criterios ecológicos que al efecto emita el Ejecutivo Estatal.
+93. Las reservas estatales y los santuarios del agua se constituirán en áreas biogeográficas relevantes en la jurisdicción del Estado, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados y restaurados en los cuales habiten especies representativas de la diversidad biológica estatal o nacional, incluyendo a las consideradas endémicas, migratorias, raras, amenazadas, o en peligro de extinción en términos de lo regulado por las normas oficiales mexicanas y por las normas técnicas estatales o criterios ecológicos que al efecto emita el Ejecutivo Estatal.
 
 En tales reservas podrá determinarse la existencia de la superficie o superficies mejor conservadas o no alteradas que alojen ecosistemas o fenómenos naturales de especial importancia o especies de flora y fauna que requieran protección especial y que serán conceptuadas como zona o zonas núcleo. En ellas sólo podrá autorizarse la realización de actividades de preservación de la biodiversidad que encierran los ecosistemas y sus elementos, de investigación científica, educación ecológica y limitarse o prohibirse aprovechamientos que alteren dichos ecosistemas.
 
 En las propias reservas deberán determinarse la superficie o superficies que protejan a la zona núcleo del impacto exterior que serán conceptuadas como zonas de amortiguamiento, dentro de cuyos linderos podrán realizarse actividades y aprovechamientos de los elementos y recursos naturales que sean congruentes con los objetivos y programas de aprovechamiento sostenible, con las características propias y naturales de las actividades de las comunidades o particulares previamente asentados en la zona y que no provoquen un impacto ambiental adverso significativo en los términos de la declaratoria respectiva y del programa de manejo que se formule y expida, considerando las previsiones de los planes de ordenamiento ecológico y el carácter de reserva del área.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+Aquellos sitios de hibernación temporal o amortiguamiento pasajero de especies migratorias en situación de riesgo de competencia estatal, serán considerados reservas estatales debido a su importancia ecológica, cultural y económica.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
+
+La Secretaría, en coordinación con los municipios, en sus respectivos ámbitos de competencia, establecerá los mecanismos de conservación de los sitios de hibernación temporal o amortiguamiento pasajero, que no sean competencia de la Federación, fomentando la educación ambiental y la participación comunitaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE JULIO DE 2025)</small>
 
@@ -8708,3 +8718,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Ejecutivo del Estado expedirá, en un plazo no mayor a los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, las adecuaciones a los reglamentos necesarios para la aplicación y armonización de las porciones normativas sujetas a la misma.
 
 CUARTO. En tanto se expiden los reglamentos a que se refiere el artículo anterior se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias a las previsiones del Código para la Biodiversidad del Estado de México.
+
+G.G. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 176.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 2.93 Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 2.93 AL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
