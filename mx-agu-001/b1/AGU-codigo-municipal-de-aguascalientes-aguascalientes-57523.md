@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2025-08-25"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -28,6 +28,8 @@ state: "AGU"
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 30 DE SEPTIEMBRE DE 2025.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -23369,21 +23371,17 @@ En caso de que alguna notificación no haya sido realizada de conformidad con el
 
 Corresponde a la administración municipal a través de sus dependencias:
 
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR A LA FRACCIÓN II.]</small>
+(REFORMADA, P.O. 13 DE ENERO DE 2014) (F. DE E., P.O. 30 DE SEPTIEMBRE DE 2025)
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+I. Ejercer actos de inspección y verificación en el ámbito de su competencia, y por conducto de sus inspectores vigilar el estricto cumplimiento de las disposiciones del presente código, así como de los demás reglamentos y leyes municipales.
 
-I. Ejercer actos de inspección y verificación en el ámbito de su competencia, y por conducto de sus inspectores vigilar el estricto cumplimiento de las disposiciones del presente código, así como de los demás reglamentos y leyes municipales;
-
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR A LA FRACCIÓN I.]</small>
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE AGOSTO DE 2025)</small>
-
-II. Ejercer actos de inspección y verificación en el ámbito de su competencia, y por conducto de sus inspectores vigilar el estricto cumplimiento de las disposiciones del presente código, así como de los demás reglamentos y leyes municipales.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2025)</small>
+(ADICIONADO, P.O. 25 DE AGOSTO DE 2025) (F. DE E., P.O. 30 DE SEPTIEMBRE DE 2025)
 
 En caso de que, durante el ejercicio de sus funciones, los verificadores adviertan la posible comisión de un delito o detecten alguna actividad presumiblemente ilegal, deberán dar vista de inmediato a la autoridad competente, a efecto de que se inicien las investigaciones correspondientes y se determine lo conducente conforme a derecho;
+
+(REFORMADA, P.O. 13 DE ENERO DE 2014) (F. DE E., P.O. 30 DE SEPTIEMBRE DE 2025)
+
+II. La vigilancia sobre el cumplimiento de las disposiciones señaladas, la cual estará a cargo de cada unidad administrativa en el ámbito de su competencia, contando con un cuerpo de inspectores y verificadores y demás servidores públicos que sean habilitados para tales efectos, por lo que contarán con las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
