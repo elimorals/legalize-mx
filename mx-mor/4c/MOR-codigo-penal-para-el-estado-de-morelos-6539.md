@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2025-09-10"
+last_updated: "2025-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -3687,39 +3687,53 @@ No se sancionará a quienes ejerzan la patria potestad, la tutela o la custodia 
 
 (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2000)
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
 ###### ARTICULO 242 Bis.
 
-Quien o quienes de manera intencional, o sin aplicar las medidas de prevención o seguridad, y en contravención a las disposiciones legales en materia de protección al medio ambiente, o normas ambientales, se ubiquen en alguno o algunos de los siguientes supuestos, su conducta será un delito:
+A quien sin aplicar las medidas de prevención o seguridad, y en contravención a las disposiciones legales en materia de protección al equilibrio ecológico o normas ambientales, de manera culposa, realice alguna de las siguientes conductas, se le impondrá pena de 3 días a 3 años de prisión, y multa por el equivalente de 50 a 5000 del valor diario de la Unidad de Medida y Actualización y si lo realiza de forma dolosa se le impondrá pena de 3 a 8 años de prisión, y multa por el equivalente de 500 a 20,000 del valor diario de la Unidad de Medida y Actualización:
 
-I. El que derribe o trasplante un árbol en la vía pública sin autorización de autoridad competente o afecte negativamente áreas verdes o jardines públicos.
+I. Derribe o trasplante un árbol en la vía pública sin autorización de autoridad competente;
 
-II. Provoque por cualquier medio una enfermedad en las plantas, cultivos agrícolas o bosques, causando daño a la salud pública o desequilibrio a los ecosistemas.
+II. Provoque, por cualquier medio, una enfermedad en las plantas, cultivos agrícolas o bosques, causando daño a la salud pública o desequilibrio a los ecosistemas;
 
-III. Provoque intencionalmente o por negligencia un incendio forestal.
+III. Realice cualquier tipo de aprovechamiento de recursos naturales dentro de las áreas naturales protegidas de interés estatal o municipal, sin la autorización correspondiente;
 
-IV. Realizar cualquier tipo de aprovechamiento de recursos naturales dentro de las áreas naturales protegidas de interés estatal o municipal, sin la autorización correspondiente.
+IV. Autorice, ordene, descargue, deposite, infiltre o derrame aguas residuales, sin previo tratamiento de carácter industrial, comercial, de servicios y agropecuario, desechos o contaminantes en las aguas, barrancas o en los subsuelos de jurisdicción estatal o municipal, que causen daños a la salud pública, la flora, la fauna o los ecosistemas;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+V. Descargue, deposite o infiltre contaminantes en los suelos o subsuelos, que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas;
 
-V. Autorice, ordene, descargue, deposite, infiltre o derrame aguas residuales, sin previo tratamiento de carácter industrial, comercial de servicios y agropecuarios, desechos o contaminantes en las aguas, barrancas o en los subsuelos de jurisdicción estatal o municipal, que causen daños a la salud pública, la flora, la fauna o los ecosistemas.
+VI. Autorice, despida o descargue en la atmosfera gases, humos, polvos, líquidos que ocasionen o puedan ocasionar daños a la salud pública, flora, fauna o los ecosistemas;
 
-VI. Descargar, depositar o infiltrar contaminantes en los suelos o subsuelos, que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas.
+VII. Autorice o genere emisiones de ruido, vibraciones, energía térmica en zonas de jurisdicción estatal o municipal, que ocasionen o puedan ocasionar daños a la salud pública, flora, fauna o los ecosistemas;
 
-VII. Autorice, despida o descargue en la atmosfera gases, humos, polvos, líquidos que ocasionen o puedan ocasionar daños a la salud pública, flora, fauna o los ecosistemas.
+VIII. Debiendo obtener la autorización de impacto y riesgo ambiental, realice obras o actividades sin contar con la misma o no implemente las medidas preventivas y correctivas que indique la autoridad correspondiente para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente, ocasionando daños a la salud pública, flora, fauna, o los ecosistemas;
 
-VIII. Autorice o genere emisiones de ruido, vibraciones, energía térmica en zonas de jurisdicción estatal o municipal, que ocasionen o puedan ocasionar daños a la salud pública, flora, fauna o los ecosistemas.
+IX. Rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las técnicas estatales vigentes; o
 
-IX. Debiendo obtener la autorización de impacto y riesgo ambiental, realice obras o actividades sin contar con la misma y no implemente las medidas preventivas y correctivas que indique la autoridad correspondiente para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente, ocasionando daños a la salud pública, flora, fauna, o los ecosistemas;
+X. Fabrique, almacene, comercialice, transporte, importe o disponga de sustancias o materiales contaminantes sin la autorización correspondiente, que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas.
 
-X. Rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las técnicas estatales vigentes; y
+También comete un delito en contra del equilibrio ecológico y la protección al ambiente quien en áreas naturales o de valor ambiental de competencia estatal o municipal provoque intencionalmente o por negligencia un incendio forestal, entendiendo por esto último a la combustión de la vegetación forestal sin control, en cuyo caso cuando el delito sea cometido de forma culposa la sanción aplicable será de 3 meses a 8 años de prisión y multa por el equivalente de 100 a 7,000 veces el valor diario de la Unidad de Medida y Actualización, y si es cometido de forma dolosa la sanción será de 5 a 15 años de prisión y multa por el equivalente de 5,000 a 25,000 veces el valor diario de la Unidad de Medida y Actualización. Además, cuando el delito se lleve a cabo en áreas naturales protegidas de competencia estatal, en cualquiera de sus modalidades, la pena se incrementará hasta en una mitad.
 
-XI. Fabricar, almacenar, comercializar, transportar, importar o disponer sustancias o materiales contaminantes sin la autorización correspondiente que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+###### ARTICULO 242 Ter.
 
-A quién por acción u omisión culposa cometa alguna de las conductas a que se refiere el presente artículo, se le impondrá pena de 3 días a 3 años de prisión, y multa por el equivalente de 50 a 5000 del valor diario de la Unidad de Medida y Actualización. Se impondrá pena de 3 a 8 años de prisión, y multa por el equivalente de 500 a 20,000 del valor diario de la Unidad de Medida y Actualización, al que los cometa en forma dolosa.
+Se aplicarán de quince a veinticinco años de prisión y de dos mil a tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización a quien sin autorización legal realice, auxilie, consienta o participe en derribar o talar uno o más árboles en áreas naturales de competencia estatal o municipal, no sujetas a jurisdicción federal. La misma sanción se aplicará a quien lleve a cabo la transportación, acopio, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos emanados de dichas acciones.
+
+La sanción prevista en el artículo anterior también se aplicará, incrementándose hasta en una mitad:
+
+a) Cuando se trate de autores intelectuales de esta conducta delictiva que empleen o inciten a personas que no hayan alcanzado la mayoría de edad o adultas mayores para cometer este delito;
+
+b) Cuando los delitos sean cometidos en áreas naturales protegidas de carácter estatal, en cualquiera de sus modalidades, o
+
+c) Cuando el delito se cometa con violencia o mediante el uso de armas prohibidas.
+
+d) Cuando en la comisión de este delito participen servidores públicos, en cuyo caso, además de la pena privativa de libertad y pecuniaria, se le aplicará la destitución del cargo y la inhabilitación por un plazo igual a la pena privativa de libertad impuesta.
+
+No será punible a quien transporte o almacene leña para consumo doméstico cuando se trate de un volumen menor a medio metro cubico.
+
+No será punible la comercialización y transporte de árboles de navidad obtenidos de plantaciones autorizadas legalmente o registradas ante la autoridad forestal con fines de comercialización o uso doméstico.
 
 ## TITULO DECIMO SEXTO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
@@ -6208,5 +6222,15 @@ P.O. 10 DE SEPTIEMBRE DE 2025.
 PRIMERA. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS OCHENTA Y TRES POR EL QUE SE REFORMA EL ARTÍCULO 242 BIS Y SE ADICIONA EL ARTICULO 242 TER AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
 
 TERCERA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
