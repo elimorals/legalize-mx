@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2025-09-24"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -283,7 +283,13 @@ XII. Formular y ejecutar los planes y programas correspondientes a su cargo o Co
 
 XIII. Guardar la reserva de todos aquellos asuntos tratados en las sesiones de pleno y reuniones de Comisión o comités que tengan el carácter de secretas; y
 
-XIV. Los demás que confiere la Constitución Política del Estado, esta Ley y su Reglamento.
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XIV. En el caso de formular iniciativas de leyes o decretos relacionadas con la materia de personas con discapacidad, previamente consultar la opinión de esta población y de sus organizaciones sociales; y
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XIV], P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XV. Los demás que confiere la Constitución Política del Estado, esta Ley y su Reglamento
 
 ###### Artículo 20.
 
@@ -1475,7 +1481,13 @@ V (SIC). Realizar foros, estudios y mesas de trabajo con los tres niveles de gob
 
 VI. Los asuntos relacionados con los planes, programas, estrategias y políticas de apoyo a favor de los grupos vulnerables y personas con discapacidad, así como, el fortalecimiento de la vinculación intergubernamental para su desarrollo, y
 
-VII. Todos aquellos asuntos en la materia que le sean turnados y no sean competencia de otra comisión.
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VII. En el análisis y dictamen de los asuntos que le son turnados relacionados con personas con discapacidad, realizar el proceso de consulta a este sector de población en términos de lo dispuesto en el Reglamento para el Congreso, e incluir en el dictamen un apartado con el resumen de este proceso; en caso de requerir recursos económicos o materiales adicionales para realizar el proceso de consulta en conjunto con el Instituto de Investigaciones Legislativas deberán enviar la solicitud a la Secretaría de Administración y Finanzas, y en el caso de que se haya turnado una iniciativa en comisiones unidas la comisión a quien le corresponde el primer turno será la encargada de realizar la consulta. Para realizar el proceso de consulta la comisión deberá coordinarse también con el Instituto para la Inclusión al Desarrollo de las Personas con Discapacidad; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN VII] , P.O. 1 DE OCTUBRE DE 2025)
+
+VIII. Todos aquellos asuntos en la materia que le sean turnados y no sean competencia de otra comisión.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
@@ -2309,7 +2321,9 @@ IV. Contar con título de licenciatura en el ámbito de las ciencias humanas y c
 
 Son atribuciones del Director del Instituto de Investigaciones Legislativas:
 
-I. Realizar investigaciones documentales y de campo relacionadas con la materia legislativa;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+I. Realizar investigaciones documentales y de campo relacionadas con la materia legislativa, y coadyuvar en el proceso de consulta de la población con discapacidad en términos del artículo 78 de esta Ley, 106 Bis y 106 Ter del Reglamento para el Congreso;
 
 II. Editar publicaciones que contribuyan a la divulgación de estudios y asuntos legislativos;
 
@@ -3888,3 +3902,13 @@ TERCERA. Las designaciones del personal que integra la Unidad Técnica de Iguald
 CUARTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 QUINTA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS NOVENTA Y UNO.- POR EL QUE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, Y SE ADICIONAN DOS ARTÍCULOS AL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS, EN MATERIA DEL DERECHO A LA CONSULTA DE LAS PERSONAS CON DISCAPACIDAD CONFORME AL ARTÍCULO 4.3. DE LA CONVENCIÓN SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+PRIMERA. Remítase el presente Decreto a la titular del Poder Ejecutivo del Estado de Morelos, para los fines que indican los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por el presente Decreto.
