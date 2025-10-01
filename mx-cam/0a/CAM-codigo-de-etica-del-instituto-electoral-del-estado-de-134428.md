@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-del-instituto-electoral-del-estado-de-134428"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-01"
-last_updated: "2019-02-01"
+last_updated: "2025-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 1 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025 (ABROGADO).
 
 Código publicado en el Número 0868 del Periódico Oficial del Estado de Campeche, el viernes 1 de febrero de 2019.
 
@@ -366,3 +368,19 @@ La inobservancia de las disposiciones contenidas en el presente Código o al Có
 Primero: Se abrogan todas las disposiciones reglamentarias y administrativas de igual o menor jerarquía, expedidas por la Junta General Ejecutiva en lo que contravengan al contenido del presente documento.
 
 Segundo: El presente documento entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE".]
+
+Primero. El presente Código de Ética entrará en vigor y surtirá sus efectos al día siguiente de su aprobación por el Consejo General del Instituto Electoral del Estado de Campeche.
+
+Segundo: Se abroga el Código de Ética del Instituto Electoral del Estado de Campeche, publicada (sic) en el periódico oficial del Estado de Campeche el día 1 de febrero de 2019, así como todas las disposiciones reglamentarias y administrativas emitidas por el Instituto Electoral del Estado de Campeche en lo que contravenga al contenido del presente documento.
+
+Tercero. Publíquese en el Periódico Oficial del Estado de Campeche y en la página electrónica del Instituto Electoral.
+
+Cuarto. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+Quinto. La normativa que rige al Comité de Ética, así como los mecanismos de evaluación, seguirán vigentes hasta en tanto se emita (sic) las actualizaciones correspondientes.
