@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2024-02-28"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -61,25 +61,29 @@ Para los efectos de lo mencionado en el párrafo anterior, el gobierno del Estad
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Asistencia social: Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como a la protección física, mental y social de personas en estado de necesidad, abandono, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación;
+I.- Asistencia social: Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la persona, así como a la protección física, mental y social de personas en estado de necesidad, abandono, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
-II.- Familia: Agrupación natural de personas, relacionadas a través de lazos consanguíneos, conyugales o parentales con funciones orientadas hacia el desarrollo integral de sus miembros y el bien común de la sociedad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II.- Familia: Agrupación natural de personas, relacionadas a través de lazos consanguíneos, conyugales o parentales con funciones orientadas hacia el desarrollo integral de quienes la integran y el bien común de la sociedad;
 
 III.- Niños y niñas: Personas menores de doce años;
 
 IV.- Adolescentes: Personas que tienen entre doce años y dieciocho años cumplidos;
 
-V.- Adulto Mayor: Toda persona mayor de 60 años;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+V.- Persona Adulta Mayor: Toda persona mayor de 60 años;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
 VI.- Persona con discapacidad: incluyen a aquellas que tengan deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-VII.- Violencia Familiar, al acto de poder u omisión, intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica y emocional, sexual, patrimonial o económica a cualquier miembro de la familia, dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad o civil, por vínculo de matrimonio, concubinato y que tiene por efecto causar daño o sufrimiento a la víctima;
+VII.- Violencia Familiar, al acto de poder u omisión, intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica y emocional, sexual, patrimonial o económica a cualquier persona integrante de la familia, dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad o civil, por vínculo de matrimonio, concubinato y que tiene por efecto causar daño o sufrimiento a la víctima.
 
 VIII.- Sistema: El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos; y
 
@@ -87,11 +91,11 @@ IX.- Ley: La Ley de Asistencia Social y Corresponsabilidad Ciudadana.
 
 ### CAPÍTULO II. DE LOS SUJETOS DE LA ASISTENCIA SOCIAL
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 4.
 
-Tienen derecho a la asistencia social las personas y familias que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar; en especial, aquellas que pertenezcan a grupos en condiciones de vulnerabilidad, particularmente tratándose de mujeres, niñas y niños, adultos mayores, personas con discapacidad y población indígena.
+Tienen derecho a la asistencia social las personas y familias que, por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar; en especial, aquellas que pertenezcan a grupos en condiciones de vulnerabilidad, particularmente tratándose de mujeres, niñas y niños, adultos mayores, personas con discapacidad, población indígena y afromexicana.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -119,9 +123,11 @@ Con el fin de lograr los objetivos señalados en la presente Ley, se crea el Sis
 
 La coordinación del Sistema Estatal de Asistencia Social, estará a cargo del organismo descentralizado a que se refiere el artículo 15 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 9.
 
-Los integrantes del Sistema Estatal de Asistencia Social contribuirán al logro de los siguientes objetivos:
+Las personas que integran el Sistema Estatal de Asistencia Social contribuirán al logro de los siguientes objetivos:
 
 I.- Promover la extensión cuantitativa y cualitativa de los servicios, preferentemente en las regiones menos desarrolladas y hacia los grupos más vulnerables;
 
@@ -179,15 +185,21 @@ Para los efectos de esta Ley se entienden como servicios básicos en materia de 
 
 I.- La atención a personas que, por su situación de vulnerabilidad, carencias económicas o estado de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-II.- La atención a menores, adultos mayores y mujeres en estado de abandono o desamparo, personas con discapacidad sin recursos y receptores de violencia familiar, en establecimientos especializados;
+II.- La atención apersonas (sic) menores de edad, adultas mayores y mujeres en estado de abandono o desamparo, personas con discapacidad sin recursos y receptoras de violencia familiar, en establecimientos especializados;
 
-III.- La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para una senectud digna;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+III.- La promoción del bienestar de las personas adultas mayores y el desarrollo de acciones de preparación para una senectud digna;
 
-V.- La prestación de servicios de asistencia jurídica, alimentaría, atención psicológica, orientación familiar y social, especialmente a los sujetos de asistencia social;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+IV.- El ejercicio de la tutela de las personas menores, en los términos de las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+V.- La prestación de servicios de asistencia jurídica, alimentaría, atención psicológica, orientación familiar y social, especialmente a las personas receptoras de asistencia social;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -199,7 +211,9 @@ IX.- El desarrollo comunitario en localidades y zonas social y económicamente m
 
 X.- La promoción del desarrollo familiar para su mejoramiento e integración;
 
-XI.- La colaboración con las autoridades laborales competentes en la vigilancia y aplicación de la legislación laboral aplicable a los menores, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XI.- La colaboración con las autoridades laborales competentes en la vigilancia y aplicación de la legislación laboral aplicable a las personas menores de edad, y
 
 XII.- La prestación de servicios funerarios en casos de imposibilidad económica o ausencia de los familiares, sujeta a la disponibilidad presupuestal.
 
@@ -213,11 +227,11 @@ Las instituciones particulares podrán prestar los servicios de asistencia socia
 
 ### CAPÍTULO V. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 15.
 
-El Poder Ejecutivo del Estado, contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Morelos el cual será el organismo rector de la asistencia social en la Entidad, y tendrá como objetivos, la prestación de servicios en ese campo, promoción de la asistencia social y el incremento de las acciones coordinadas que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley, con la finalidad de fortalecer a la familia, mediante consensos ciudadanos y políticas públicas que permitan concretar el desarrollo comunitario y familiar en todos los municipios de la entidad.
+El Poder Ejecutivo del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, el cual será el organismo rector de la asistencia social en la Entidad, y tendrá como objetivos, la prestación de servicios en ese campo, promoción de la asistencia social y el incremento de las acciones coordinadas que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley, con la finalidad de fortalecer a la familia, mediante consensos con la ciudadanía y políticas públicas que permitan concretar el desarrollo comunitario y familiar en todos los municipios de la entidad.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2019)</small>
 
@@ -243,9 +257,9 @@ II.- Promover y prestar servicios de asistencia social;
 
 III.- Apoyar y promover el desarrollo integral de la familia y de la comunidad;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-IV.- Promover la responsabilidad ciudadana que tiene cada individuo con la asistencia social;
+IV.- Promover la responsabilidad ciudadana que tiene cada persona con la asistencia social;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
@@ -255,17 +269,17 @@ V.- Promover acciones y programas de orientación y fortalecimiento familiar;
 
 VI.- Promover acciones para el desarrollo de la familia y mejoramiento de la comunidad;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-VII.- Realizar acciones de apoyo educativo en la equidad y los derechos humanos para la integración familiar, social y de capacitación para el trabajo a los beneficiarios de esta ley;
+VII.- Realizar acciones de apoyo educativo en la equidad y los derechos humanos para la integración familiar, social y de capacitación para el trabajo a las personas beneficiarias de esta ley;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-VIII.- Realizar estudios y diagnósticos que permitan conocer la situación real de los sujetos de asistencia social;
+VIII.- Realizar estudios y diagnósticos que permitan conocer la situación real de las personas sujetas de asistencia social;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-IX.- Participar en acciones interinstitucionales que promuevan e impulsen el sano desarrollo físico, mental y social de los menores, de forma especial a aquellos que se encuentren en situación vulnerable;
+IX.- Participar en acciones interinstitucionales que promuevan e impulsen el sano desarrollo físico, mental y social de las personas menores de edad, de forma especial a aquellos que se encuentren en situación vulnerable;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
@@ -279,9 +293,9 @@ XI.- Llevar a cabo todas las funciones inherentes a la autorización, inspecció
 
 XII.- Fomentar, apoyar, coordinar, evaluar y supervisar las actividades que lleven a cabo las instituciones o asociaciones civiles y todo tipo de entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-XIII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o maltrato, de adultos mayores desamparados, personas con discapacidad y mujeres receptoras de violencia familiar;
+XIII.- Operar establecimientos de asistencia social en beneficio de las personas menores de edad en estado de abandono o maltrato, de personas adultas mayores desamparadas, personas con discapacidad y mujeres receptoras de violencia familiar;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
@@ -311,21 +325,21 @@ XIX.- Promover, realizar y certificar la capacitación de recursos humanos para 
 
 XX.- Operar el Sistema Estatal de Información en Materia de Asistencia Social a que se refiere la fracción VI del Artículo 12 de esta Ley;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-XXI.- Prestar servicios de asistencia psicológica, representación jurídica y de orientación social a menores, personas receptoras de violencia familiar y víctimas de delitos sexuales, adultos mayores y personas con discapacidad sin recursos;
+XXI.- Prestar servicios de asistencia psicológica, representación jurídica y de orientación social apersonas (sic) menores de edad, personas receptoras de violencia familiar y víctimas de delitos sexuales, personas adultas mayores y personas con discapacidad sin recursos;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-XXII.- Fomentar acciones de paternidad responsable que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
+XXII.- Fomentar acciones de paternidad responsable que propicien la preservación de los derechos de personas menores de edad a la satisfacción de sus necesidades y a la salud física y mental;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-XXIII.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos del Código Familiar para el Estado Libre y Soberano de Morelos;
+XXIII.- Apoyar el ejercicio de la tutela de las personas incapaces, que corresponda al Estado, en los términos del Código Familiar para el Estado Libre y Soberano de Morelos;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-XXIV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+XXIV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de personas incapaces en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
@@ -383,19 +397,23 @@ II.- Un Patronato, que es un órgano promotor y de apoyo al Sistema;
 
 III.- Un Presidente o Presidenta, que será la máxima autoridad física del Sistema, y
 
-IV.- Un Director General, que es el representante legal y administrador del Sistema.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-La vigilancia de la operación del Sistema quedará a cargo de un Comisario.
+IV.- Una directora o director general, que es la persona representante legal y administradora del Sistema.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+La vigilancia de la operación del Sistema quedará a cargo de una persona con el carácter de Comisaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 21.
 
-La Junta de Gobierno es la máxima autoridad del Sistema, constituye un órgano colegiado que se integra por el número de servidores públicos que requiera la naturaleza y actividades del Sistema, atento a lo establecido en la Ley Orgánica de la Administración Pública del Estado de Morelos. Son integrantes de la Junta de Gobierno:
+La Junta de Gobierno es la máxima autoridad del Sistema, constituye un órgano colegiado que se integra por el número de personas servidoras públicas que requiera la naturaleza y actividades del Sistema, atento a lo establecido en la Ley Orgánica de la Administración Pública del Estado para el Estado Libre y Soberano de Morelos. Son integrantes de la Junta de Gobierno:
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-I.- La persona titular del Poder Ejecutivo Estatal quien la presidirá por sí o por el representante que designe al efecto;
+I.- La persona titular del Poder Ejecutivo Estatal quien la presidirá por sí o por la persona representante que designe al efecto;
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -417,17 +435,25 @@ V.- La persona titular de la Secretaría de la Contraloría del Poder Ejecutivo 
 
 VI.- La persona titular de la Secretaría de Educación del Poder Ejecutivo Estatal, y
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-VII.- La persona titular de la Secretaría de Turismo y Cultura.
+VII.- La persona titular de la Secretaría de Turismo.
 
-El Presidente o Presidenta, el Director General y el Comisario Público del Sistema, participarán en las sesiones de la Junta de Gobierno con derecho a voz pero sin voto.
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-El desempeño del cargo en la Junta de Gobierno es honorifico, en consecuencia no se percibirá salario, compensación, emolumento o remuneración alguna por el desempeño del mismo.
+VIII.- La persona titular de la Secretaría de Cultura.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. PERTENECE AL PRIMER PÁRRAFO DE ESTE ARTÍCULO], P.O. 1 DE OCTUBRE DE 2025)</small>
 
-Las personas integrantes de la Junta de Gobierno podrán designar suplentes para que los representen en las sesiones a que fueren convocados, quienes deberán cuando menos tener el nivel de Dirección General, enviando para tal efecto oficio que contenga la designación del representante, dicho oficio será dirigido a la persona que presida dicho cuerpo colegiado.
+Las personas titulares de la presidencia, de la dirección general y de la Comisaría del Sistema, participarán en las sesiones de la Junta de Gobierno con derecho a voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+El desempeño del cargo en la Junta de Gobierno es honorifico, en consecuencia, no se percibirá salario, compensación, emolumento o remuneración alguna por el desempeño de este.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+Las personas integrantes de la Junta de Gobierno podrán designar personas suplentes para que los representen en las sesiones a que fueren convocados, quienes deberán cuando menos tener el nivel de Dirección General, enviando para tal efecto oficio que contenga la designación, dirigido a la persona que presida dicho cuerpo colegiado.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -455,9 +481,9 @@ III.- Aprobar los programas y presupuestos del Sistema y sus modificaciones, con
 
 IV.- Aprobar y expedir el Estatuto Orgánico del Sistema, los Reglamentos, así como sus reformas y adiciones, y los Manuales de Organización, Políticas y Procedimientos y de Servicios al Público;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-V.- Designar y remover, a propuesta del Presidente o Presidenta del Sistema, a los servidores públicos de mando superior del Sistema, aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración del Poder Ejecutivo del estado de Morelos, y las demás establecidas en su Estatuto, así como concederles las licencias que procedan;
+V.- Designar y remover, a propuesta de la persona titular de la Presidencia del Sistema, a las personas servidoras públicas de mando superior del Sistema, aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración del Poder Ejecutivo del estado de Morelos, y las demás establecidas en su Estatuto, así como concederles las licencias que procedan;
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -527,11 +553,11 @@ El Patronato del Sistema estará integrado por quien sea titular de la presidenc
 
 La persona que presida el Sistema también presidirá el Patronato, y se designarán de entre quienes integren éste, a las personas que ocuparán la vicepresidencia, la secretaría de sesiones, la tesorería, y las vocalías. Los cargos del Patronato del Sistema serán honoríficos y se seleccionarán de entre los sectores público, social y privado que hayan tenido experiencia en actividades de asistencia social.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 25.
 
-El Patronato del Sistema celebrará sesiones ordinarias cada tres meses y las extraordinarias que se requieran a citación expresa del Presidente o Presidenta del Patronato del Sistema o a petición de la mayoría de sus miembros.
-
-Las asambleas deberán contar con la asistencia de cuando menos la mitad más uno de los miembros del Patronato y las resoluciones que se tomen deberán ser por mayoría de votos de los asistentes, teniendo el Presidente o Presidenta del Patronato del Sistema voto de calidad, en caso de empate.
+... (SIC) El Patronato del Sistema celebrará sesiones ordinarias cada tres meses y las extraordinarias que se requieran a citación expresa de la persona titular de la Presidencia del Patronato del Sistema o a petición de la mayoría de las personas que lo integran. Las asambleas deberán contar con la asistencia de cuando menos la mitad más uno de sus integrantes del Patronato y las resoluciones que se tomen deberán ser por mayoría de votos de las personas asistentes, teniendo la Presidencia del Patronato del Sistema voto de calidad, en caso de empate.
 
 ###### ARTÍCULO 26.
 
@@ -573,11 +599,11 @@ XIII.- Las demás que sean necesarias para el ejercicio de las facultades anteri
 
 La persona que presida el Sistema será la máxima autoridad del mismo, designada y removida por quien sea titular del Poder Ejecutivo Estatal; tendrá la representación oficial del Sistema, así como la responsabilidad de dictar la política general en materia de Asistencia Social; ocupará un cargo honorífico por lo que no recibirá retribución, emolumento o compensación alguna.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 28.
 
-Corresponde al Presidente o Presidenta del Sistema las actividades y funciones siguientes:
+Corresponde a la persona titular del Sistema las actividades y funciones siguientes:
 
 I.- Representar a la Junta de Gobierno en el Patronato;
 
@@ -595,45 +621,51 @@ V.- Dictar las medidas y acuerdos necesarios para cumplir con los objetivos del 
 
 VI.- Proponer a la Junta de Gobierno, para su aprobación y expedición, la normatividad jurídica interna que rija al Sistema, así como sus modificaciones;
 
-VII.- Rendir un informe anual de las actividades realizadas por el Sistema, ante los miembros del Patronato, de la Junta de Gobierno y funcionarios del Sistema;
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-VI.- Representar al Sistema ante instituciones públicas o privadas;
+VII.- Rendir un informe anual de las actividades realizadas por el Sistema, ante las personas integrantes del Patronato, de la Junta de Gobierno; personas servidoras públicas del sistema y la ciudadana (sic) en general;
 
-VII.- Representar al Sistema en los actos sociales, culturales, benéficos o de cualquier otra índole en que tenga intervención;
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VIII.- Representar al Sistema ante instituciones públicas o privadas;
+
+IX.- Representar al Sistema en los actos sociales, culturales, benéficos o de cualquier otra índole en que tenga intervención;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+X.- Proponer a la Junta de Gobierno la designación y remoción de las personas servidoras públicas superiores y de mandos medios;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
-VIII.- Proponer a la Junta de Gobierno la designación y remoción de los servidores públicos superiores y de mandos medios;
+XI.- Representar al Sistema ante Instituciones públicas o privadas y en los actos sociales, culturales, benéficos o de cualquier otra índole en que tenga intervención;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+XII.- Solicitar asesoría de cualquier naturaleza a las personas o Instituciones que estime conveniente;
 
-IX.- Representar al Sistema ante Instituciones públicas o privadas y en los actos sociales, culturales, benéficos o de cualquier otra índole en que tenga intervención;
+XIII.- Informar a la Junta de Gobierno sobre la existencia de herencias, legados o donaciones que se otorguen al Sistema;
 
-X.- Solicitar asesoría de cualquier naturaleza a las personas o Instituciones que estime conveniente;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-XI.- Informar a la Junta de Gobierno sobre la existencia de herencias, legados o donaciones que se otorguen al Sistema;
+XIV.- Proponer a la persona titular del Poder Ejecutivo del Estado a las personas que integren el Patronato del Sistema, y
 
-XII.- Proponer al Gobernador del Estado los miembros que integren el Patronato del Sistema, y
+XV.- Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
 
-XIII.- Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 29.
 
-La persona titular del Poder Ejecutivo del Estado nombrará a quien será titular de la Dirección General, o previo acuerdo con la Coordinación del Sector, dicha designación quedará a cargo de la Junta de Gobierno.
+La persona titular del Poder Ejecutivo del Estado nombrará a quien será la persona titular de la Dirección General, o previo acuerdo con la Coordinación del Sector, dicha designación quedará a cargo de la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE OCTUBRE DE 2025)</small>
 
-Para ser titular de la Dirección General del Sistema se deberán de satisfacer los requisitos siguientes:
+Para ser persona titular de la Dirección General del Sistema se deberán de satisfacer los requisitos siguientes:
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 I.- Tener ciudadanía mexicana, preferentemente morelense por nacimiento o por residencia; en este último caso, haber residido en la Entidad un mínimo de diez años anteriores a la fecha del nombramiento;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-II.- Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en las fracciones II, III y IV, del Artículo 81 de la Ley Orgánica de la Administración Pública del Estado de Morelos;
+II.- Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en las fracciones II, III y IV, del Artículo 82 de la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
@@ -647,15 +679,19 @@ IV.- Tener más de 25 años a la fecha de su designación, y
 
 V.- Ser de reconocida solvencia moral.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-Cuando exista cambio de titular del Poder Ejecutivo, procederá el nombramiento de quien será titular de la Dirección General, excepto en el caso de que, quien se encuentre en el cargo, sea nombrado por un periodo más, de acuerdo con los requisitos que preceden.
+VI.- Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad, ni tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; ni haber sido declarada como persona deudora alimentaria morosa
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+Cuando exista cambio de la persona titular del Poder Ejecutivo, procederá el nombramiento de quien será la persona titular de la Dirección General, excepto en el caso de que, quien se encuentre en el cargo, sea nombrado por un periodo más, de acuerdo con los requisitos que preceden.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 30.
 
-La persona titular de la Dirección General, además de las atribuciones que se señalan en el artículo 84 de la Ley Orgánica de la Administración Pública del Estado de Morelos, tendrá las siguientes:
+La persona titular de la Dirección General, además de las atribuciones que se señalan en el artículo 84 de la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos, tendrá las siguientes:
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
@@ -677,9 +713,9 @@ IV.- Aplicar las medidas adecuadas a efecto de que las funciones del Sistema se 
 
 V.- Fijar los controles necesarios para asegurar la calidad de los suministros y programas de recepción, que garanticen la continuidad de la prestación de los servicios necesarios para apoyo a la infancia y, en general, a la mejor integración de las familias morelenses;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-VI.- Acordar con el Presidente o la Presidenta los nombramientos, cambios y licencias de los funcionarios de mandos medios, así como sus sueldos y demás prestaciones, de acuerdo a las asignaciones globales de presupuesto de gasto corriente aprobado por el mismo órgano;
+VI.- Acordar con la persona titular de la Presidencia del Sistema los nombramientos, cambios y licencias de los funcionarios de mandos medios, así como sus sueldos y demás prestaciones, de acuerdo con las asignaciones globales de presupuesto de gasto corriente aprobado por el mismo órgano;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
@@ -693,27 +729,29 @@ VIII.- Estructurar y operar los sistemas de control adecuados para alcanzar los 
 
 IX.- Rendir en forma bimestral a la Junta de Gobierno, el informe del desarrollo de las actividades del Sistema e incluir en el mismo, el ejercicio de los presupuestos de ingresos y egresos y los correspondientes estados financieros, en el informe y en los documentos de apoyo, se cotejarán las metas programadas y compromisos asumidos por la dirección, con las realizaciones que se lograron;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-X.- Estructurar y aplicar los mecanismos de evaluación que hagan sobresalir la eficiencia y eficacia con las cuales desarrolla sus actividades el Sistema, y presentar a la Junta de Gobierno, cuando menos dos veces al año, la evaluación de gestión en la forma detallada que haya acordado con la misma y atendiendo las recomendaciones del Comisario Público;
+X.- Estructurar y aplicar los mecanismos de evaluación que hagan sobresalir la eficiencia y eficacia con las cuales desarrolla sus actividades el Sistema, y presentar a la Junta de Gobierno, cuando menos dos veces al año, la evaluación de gestión en la forma detallada que haya acordado con la misma y atendiendo las recomendaciones de la persona titular de la Comisaría Pública;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-XI.- Suscribir, cuando así lo requiera el régimen laboral del propio Sistema, los contratos individuales y colectivos que rijan las relaciones de trabajo de este con sus trabajadores;
+XI.- Suscribir, cuando así lo requiera el régimen laboral del propio Sistema, los contratos individuales y colectivos que rijan las relaciones de trabajo de este con sus personas trabajadoras;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
 XII.- Ejecutar y dar cumplimiento, en su caso, a los acuerdos que emita la Junta de Gobierno, y
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-XIII.- Las demás que les confieran esta Ley, la Ley Orgánica de la Administración Pública del Estado de Morelos, el Estatuto Orgánico y la Junta de Gobierno.
+XIII.- Las demás que les confieran esta Ley, la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos, el Estatuto Orgánico y la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 31.
 
-El Sistema tendrá un órgano de vigilancia, el cual estará integrado por una persona titular de la Comisaría Pública, propietaria y una suplente, designadas por la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Morelos, en términos del artículo 67 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+El Sistema tendrá un órgano de vigilancia, el cual estará integrado por una persona titular de la Comisaría Pública, propietaria y una suplente, designadas por la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Morelos, en términos de lo aplicable por el capítulo tercero, título cuarto de la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 Las funciones de la persona titular de la Comisaría Pública serán las de evaluar, vigilar y dar seguimiento a las actividades administrativas del organismo, realizar los estudios sobre la eficiencia con la cual se ejerzan los recursos financieros del Sistema, para ello solicitará la información necesaria; lo anterior, sin menoscabo de las tareas específicas que le asigne la Secretaría de la Contraloría del Poder Ejecutivo del estado de Morelos, así como las demás que establezca el Reglamento Interior de dicha Secretaría.
 
@@ -755,7 +793,9 @@ ARTÍCULO 36 TER.- (DEROGADO, P.O. 22 DE MAYO DE 2019)
 
 Se crea el Consejo Consultivo de Asistencia Social del Estado de Morelos, el cual será un órgano de consulta y asesoría en la prestación de servicios de asistencia social, proponiendo opiniones, recomendaciones y líneas de acción para dicha prestación de servicios.
 
-Los integrantes de este Consejo no tendrán remuneración alguna.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+Las personas que integren este Consejo no tendrán remuneración alguna.
 
 ###### ARTÍCULO 38.
 
@@ -775,7 +815,9 @@ III.- Una persona representante de la Secretaría de Salud, y
 
 IV.- Las 36 personas que presidan los Sistemas Municipales para el Desarrollo Integral de la Familia.
 
-Los nombramientos a que se refiere las fracciones anteriores tendrán el cargo de honoríficos.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+Las personas a que se refiere las fracciones anteriores tendrán el cargo de manera honorífica.
 
 ###### ARTÍCULO 39.
 
@@ -791,19 +833,19 @@ IV.- Proponer reconocimientos a las instituciones que se hayan distinguido perma
 
 V.- Presentar a la Junta de Gobierno los Acuerdos y opiniones que emita.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 40.
 
-El Consejo Consultivo sesionará cada tres meses y sus integrantes durarán en su cargo el tiempo que se desempeñen como titulares del área respectiva.
+El Consejo Consultivo sesionará cada tres meses y las personas integrantes durarán en su cargo el tiempo que se desempeñen como titulares del área respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+El Consejo Consultivo podrá sesionar con la asistencia de la mitad más uno de las personas integrantes y sus decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión. En caso de empate, la persona titular del Ejecutivo del Estado, personalmente, o a través (sic) quien presida el Sistema, tendrá voto de calidad.
 
-El Consejo Consultivo podrá sesionar con la asistencia de la mitad más uno de sus integrantes y sus decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión. En caso de empate, la persona titular del Ejecutivo del Estado, a través (sic) quien presida el Sistema, tendrá voto de calidad.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 41.
 
-La persona titular del Poder Ejecutivo, a través de quien presida el Sistema, también presidirá el Consejo Consultivo, y la secretaría técnica estará a cargo de quien sea titular de la Dirección General del Sistema; quien podrá designar un representante, los demás integrantes del Consejo fungirán como vocales.
+La persona titular del Poder Ejecutivo, a través de quien presida el Sistema, también presidirá el Consejo Consultivo, y la secretaría técnica estará a cargo de quien sea titular de la Dirección General del Sistema; quien podrá designar a una persona representante, y las demás personas integrantes del Consejo que fungirán como vocales.
 
 ### CAPÍTULO VII. DE LOS SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -813,15 +855,15 @@ La promoción y prestación de los servicios de salud en materia de asistencia s
 
 I.- La estructura jurídica que adoptará será la de un organismo público descentralizado municipal con personalidad jurídica y patrimonio propio;
 
-II.- Se constituirá mediante decreto expedido por el Congreso del Estado, previa solicitud del Ayuntamiento correspondiente en el cual se especificarán su estructura, órganos de gobierno y funcionamiento, a fin de atender de manera prioritaria a los sujetos de asistencia social dentro de su competencia territorial, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II.- Se constituirá mediante decreto expedido por el Congreso del Estado, previa solicitud del Ayuntamiento correspondiente en el cual se especificarán su estructura, órganos de gobierno y funcionamiento, a fin de atender de manera prioritaria a las personas susceptibles de recibir asistencia social dentro de su competencia territorial, y
 
 III.- El Presupuesto de Egresos de esta entidad deberá incorporarse al Presupuesto de Egresos del Municipio correspondiente.
 
 ###### ARTÍCULO 43.
 
-Quedarán a cargo del Sistema la rectoría, normatividad y control de la asistencia social que presten los Sistemas
-
-Municipales, los cuales formularán un programa anual de trabajo en concordancia con los programas del Sistema, bajo los lineamientos de éste, quien les prestará apoyo y colaboración técnica y administrativa.
+Quedarán a cargo del Sistema la rectoría, normatividad y control de la asistencia social que presten los Sistemas Municipales, los cuales formularán un programa anual de trabajo en concordancia con los programas del Sistema, bajo los lineamientos de éste, quien les prestará apoyo y colaboración técnica y administrativa.
 
 ###### ARTÍCULO 44.
 
@@ -871,9 +913,13 @@ Los actos que se realicen en contravención al contenido de este artículo, ser�
 
 La participación de la comunidad, tiene por objeto fortalecer su estructura, propiciando la solidaridad ante las necesidades reales de la población, dicha participación, será a través de las siguientes acciones:
 
-I.- Promoción de hábitos de conducta y de valores que contribuyan a la prevención de las condiciones de vulnerabilidad de los sujetos de asistencia social;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-II.- Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios de salud en materia de asistencia social, bajo la dirección y control de las autoridades correspondientes;
+I.- Promoción de hábitos de conducta y de valores que contribuyan a la prevención de las condiciones de vulnerabilidad de las personas susceptibles de asistencia social;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II.- Incorporación, como personas auxiliares voluntarias, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios de salud en materia de asistencia social, bajo la dirección y control de las autoridades correspondientes;
 
 III.- Informar a la autoridad competente de la existencia de personas que requieran de asistencia social, preferentemente cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
 
@@ -975,41 +1021,51 @@ El Sistema podrá hacer la difusión de los servicios que prestan las institucio
 
 ### CAPÍTULO XI. DE LA INFORMACIÓN PÚBLICA Y TRANSPARENCIA
 
-###### ARTICULO 61.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-El Sistema se encuentra obligado a dar a conocer la información que bajo su resguardo se encuentre siempre y cuando no se encuentre clasificada como reservada o confidencial; y todos aquellos servidores públicos titulares de la misma tendrá la obligación de proporcionarla, bajo los términos señalados por la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+###### ARTÍCULO 61.
+
+El Sistema se encuentra obligado a dar a conocer la información que bajo su resguardo se encuentre siempre y cuando no se encuentre clasificada como reservada o confidencial; y todas aquellas personas servidoras públicas titulares de la misma tendrá la obligación de proporcionarla, bajo los términos señalados por la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 62.
 
-Todos los ciudadanos podrán ejercer su derecho de acceso a la información ante el Sistema, para lo cual solo será necesaria la presentación de una solicitud en escrito libre, en los formatos autorizados o por vía electrónica.
+Toda la ciudadanía podrá ejercer su derecho de acceso a la información ante el Sistema, para lo cual solo será necesaria la presentación de una solicitud en escrito libre, en los formatos autorizados o por vía electrónica.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 63.
 
-Los beneficiarios de los programas asistenciales por si o por medio de su representante legal podrán ejercer la acción de habeas data respecto de sus datos personales en posesión del Sistema.
+Las personas beneficiarias de los programas asistenciales por si o por medio de su representante legal podrán ejercer la acción de habeas data respecto de sus datos personales en posesión del Sistema.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 64.
 
-El Sistema se obliga a proteger la identidad de los beneficiarios de los programas asistenciales cuando la información solicitada ponga en riesgo la integridad, provoque actos de discriminación, e intolerancia sobre su persona, honor, reputación y dignidad.
+El Sistema se obliga a proteger la identidad de las personas beneficiarias de los programas asistenciales cuando la información solicitada ponga en riesgo la integridad, provoque actos de discriminación, e intolerancia sobre su persona, honor, reputación y dignidad.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 65.
 
-Es obligación del Sistema poner a disposición de los ciudadanos la información pública de oficio señalada por la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+Es obligación del Sistema poner a disposición de la ciudadanía la información pública de oficio señalada por la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2015)</small>
 
 ### CAPÍTULO XII. DE LAS RESPONSABILIDADES
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 66.
 
-Serán considerados como personal de mandos medios y superiores, a las personas titulares de la Dirección General, la Coordinación, las Direcciones y Subdirecciones de Área, las Jefaturas de Departamento, del manejo de fondos, los supervisores, los almacenistas, los administradores, los secretarios particulares y los auxiliares de unos y otros; todos ellos considerándose además como empleados de confianza.
+Serán consideradas como personal de mandos medios y superiores, a las personas titulares de la Dirección General, la Coordinación, las Direcciones y Subdirecciones de Área, las Jefaturas de Departamento, del manejo de fondos, las personas supervisoras, almacenistas, administradores, las que actúen como secretarías particulares o como auxiliares de una parte u otra; todas aquellas personas serán consideradas además como empleadas y empleados de confianza.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 67.
 
-Las personas integrantes de la Junta de Gobierno, los mandos medios y superiores, el resto del personal de confianza y los sindicalizados, que incurran en acciones u omisiones previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, serán sujetos a procedimientos administrativos y, en su caso, a las sanciones previstas en el Código Penal para el Estado de Morelos, si además hubieran incurrido en la comisión de conductas dolosas conforme a las disposiciones aplicables.
+Las personas integrantes de la Junta de Gobierno, los mandos medios y superiores, el resto del personal de confianza y las personas sindicalizadas, que incurran en acciones u omisiones previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, así como en la Ley de Responsabilidades Administrativas para el Estado de Morelos en la Ley (sic) serán personas sujetas a procedimientos administrativos y, en su caso, a las sanciones previstas en el Código Penal para el Estado de Morelos, si además hubieran incurrido en la comisión de conductas dolosas conforme a las disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -1262,3 +1318,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal pa
 SEGUNDA. El Presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO QUINIENTOS TREINTA Y CUATRO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO Y ARMONIZACIÓN LEGISLATIVA”.]</small>
+
+PRIMERA. Se remite el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
