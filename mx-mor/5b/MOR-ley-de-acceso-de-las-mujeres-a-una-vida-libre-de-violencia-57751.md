@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2025-07-02"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -49,9 +49,11 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MOR
 
 La presente ley tiene como objeto regular y garantizar el acceso al derecho de las mujeres a una vida libre de violencia, mediante el establecimiento de los principios rectores, ejes de acción, modalidades de la violencia y mecanismos de coordinación entre el Estado y sus Municipios, independientemente de la coordinación que se articule con la Federación, para el debido y cabal cumplimiento de la ley, sus disposiciones son de orden público e interés social y de observancia general en todo el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 2.
 
-Son sujetos de los derechos que establece esta ley, las mujeres sin discriminación alguna en los términos que señala la ley federal de la materia, que se encuentren dentro del territorio del Estado de Morelos.
+Son personas protegidas por los derechos que establece esta ley, las mujeres sin discriminación alguna en los términos que señala la ley federal de la materia, que se encuentren dentro del territorio del Estado de Morelos.
 
 Consecuentemente los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales correspondientes y tomarán las medidas presupuestales y administrativas que permitan garantizar el derecho de las mujeres a una vida libre de violencia.
 
@@ -139,9 +141,11 @@ XXX.- Mesa de Armonización Legislativa: A la Mesa de Armonización Legislativa 
 
 XXXI.- Registro: El Registro Estatal de Agresores Sexuales.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-Corresponde la aplicación de la presente ley al Ejecutivo Estatal y los Ayuntamientos, incurrirán en responsabilidad los servidores públicos que trasgredan los principios que en ella se señalan o no den debido y cabal cumplimiento a las normas que de ella emanan, en términos de la legislación de la materia.
+Corresponde la aplicación de la presente ley a la persona Titular del Poder Ejecutivo Estatal y los Ayuntamientos. Incurrirán en responsabilidad las personas servidoras públicas que trasgredan los principios que en ella se señalan o no den debido y cabal cumplimiento a las normas que de ella emanan, en términos de la legislación de la materia.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
@@ -197,11 +201,11 @@ III.- Prever los mecanismos procesales respectivos para la acreditación de la v
 
 ### CAPÍTULO II. DE LA VIOLENCIA EN EL ÁMBITO LABORAL Y ESCOLAR
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 10.
 
-La violencia en el ámbito laboral es toda acción u omisión realizada por el patrón o en su defecto por quien ejerza facultades de mando en dicho ámbito, encaminada a limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, mediante la discriminación por su género, las amenazas, la intimidación, el impedimento de llevar a cabo el periodo de lactancia previsto en la legislación de la materia, y la explotación laboral, que afecte la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos.
+La violencia en el ámbito laboral es toda acción u omisión realizada por la persona empleadora o en su defecto por quien ejerza facultades de mando en dicho ámbito, encaminada a limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, mediante la discriminación por su género, las amenazas, la intimidación, el impedimento de llevar a cabo el periodo de lactancia previsto en la legislación de la materia, y la explotación laboral, que afecte la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos.
 
 > <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2022)</small>
 
@@ -213,13 +217,15 @@ De igual manera, constituye violencia en el ámbito laboral la solicitud de cert
 
 La violencia en el ámbito escolar es todo acto o conducta ejercida por una persona integrante de una comunidad educativa, dentro o fuera de las instituciones educativas públicas y privadas, que daña la integridad, dignidad, autoestima, integración o bienestar físico, psicológico o sexual de una alumna o estudiante.
 
-Son integrantes de las comunidades educativas las y los alumnos, las y los estudiantes, los ex alumnos y ex estudiantes; el personal docente, directivo, administrativo y de apoyo, autoridades educativas y locales, así como las madres, padres, tutores o personas cuidadoras.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+Son personas integrantes de las comunidades educativas las y los alumnos, las y los estudiantes, los ex alumnos y ex estudiantes; el personal docente, directivo, administrativo y de apoyo, autoridades educativas y locales, así como las madres, padres, tutores o personas cuidadoras.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 12.
 
-Son manifestaciones de la violencia en el ámbito laboral y escolar, el hostigamiento y abuso sexual, entendiendo por hostigamiento sexual, el ejercicio del poder, mediante la violencia física, psicológica, sexual o económica sobre las mujeres a partir de la subordinación que se tiene respecto del patrón, directivo, personal administrativo, docente o cualquier persona con que la exista una relación de subordinación independientemente del tipo penal consagrado en las leyes respectivas.
+Son manifestaciones de la violencia en el ámbito laboral y escolar, el hostigamiento y abuso sexual, entendiendo por hostigamiento sexual, el ejercicio del poder, mediante la violencia física, psicológica, sexual o económica sobre las mujeres a partir de la subordinación que se tiene respecto de la persona empleadora, titular, directivo, personal administrativo, docente o cualquier persona con que la exista una relación de subordinación independientemente del tipo penal consagrado en las leyes respectivas.
 
 El abuso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
@@ -241,17 +247,17 @@ IV.- La evaluación de sus políticas públicas.
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN EL ÁMBITO INSTITUCIONAL
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 14.
 
-La violencia en el ámbito institucional comprende las acciones, prácticas u omisiones de las y los servidores públicos del Estado y Municipios que discriminen, utilicen estereotipos de género, dilaten, obstaculicen o impidan que las mujeres accedan a los medios o mecanismos para el goce y ejercicio pleno de sus derechos fundamentales o políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia contra las mujeres o aquellas necesarias para su desarrollo, de conformidad a lo dispuesto en la CEDAW.
+La violencia en el ámbito institucional comprende las acciones, prácticas u omisiones de las personas servidoras públicas del Estado y Municipios que discriminen, utilicen estereotipos de género, dilaten, obstaculicen o impidan que las mujeres accedan a los medios o mecanismos para el goce y ejercicio pleno de sus derechos fundamentales o políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia contra las mujeres o aquellas necesarias para su desarrollo, de conformidad a lo dispuesto en la CEDAW.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 15.
 
-Los servidores públicos que presten sus servicios para el Estado y los municipios, deberán abstenerse de cualquier práctica discriminatoria o tolerancia de la violencia contra las mujeres, en el ejercicio de su cargo o comisión pudiendo incurrir en los supuestos que señala la Ley de Responsabilidades Administrativas para el Estado de Morelos, independientemente de los procedimientos de queja o reclamación que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
+Las personas servidoras públicas que presten sus servicios para el Estado y los municipios, deberán abstenerse de cualquier práctica discriminatoria o tolerancia de la violencia contra las mujeres, en el ejercicio de su cargo o comisión pudiendo incurrir en los supuestos que señala la Ley de Responsabilidades Administrativas para el Estado de Morelos, independientemente de los procedimientos de queja o reclamación que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
 
 ###### Artículo 16.
 
@@ -263,7 +269,9 @@ II.- Las disposiciones procesales que permitan el acceso a la justicia, mediante
 
 III.- Los mecanismos públicos para evitar la violencia contra las mujeres en las instituciones, incluyendo los de evaluación anual de la política pública y de los servicios institucionales que se presten a las mujeres;
 
-IV.- Los programas de capacitación para el personal adscrito a las instancias de procuración y administración de justicia, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+IV.- Los programas de capacitación para las personas trabajadoras adscritas a las instancias de procuración y administración de justicia, y
 
 V.- La celebración de bases de coordinación entre los Poderes del Estado y los Municipios para los cambios conductuales y de percepción e interpretación de la ley de quienes colaboran para dichos poderes.
 
@@ -597,7 +605,9 @@ En materia de atención a la violencia en el ámbito institucional y feminicida 
 
 I.- Comités para erradicar la violencia contra las mujeres, en todas y cada una de las instancias que integran la Administración Pública Estatal y Municipal que se determinen por el Sistema Estatal, y
 
-II.- Un subprograma anual de capacitación y modificación conductual para servidores públicos en materia de no discriminación y género, el cual se podrá hacer extensivo previa invitación al Poder Judicial del Estado.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II.- Un subprograma anual de capacitación y modificación conductual para personas servidoras públicas en materia de no discriminación y género, el cual se podrá hacer extensivo previa invitación al Poder Judicial del Estado.
 
 > <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -615,9 +625,13 @@ III.- El derecho de elección sobre las opciones de atención, previa recepción
 
 IV.- La atención por personal psicológico, médico, docente y jurídico especializado para los servicios de asesoría jurídica, atención psicoterapéutica, médica y educación básica, física, artística, indígena y especial;
 
-V.- La recepción para ellas y para sus hijos menores de edad, de los apoyos gratuitos de hospedaje, alimentación, vestido y calzado;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-VI.- La aceptación y permanencia en un refugio con sus menores hijos, en un lapso no mayor a tres meses;
+V.- La recepción para ellas y para sus hijas e hijos menores de edad, de los apoyos gratuitos de hospedaje, alimentación, vestido y calzado;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VI.- La aceptación y permanencia en un refugio con sus menores hijas e hijos, en un lapso no mayor a tres meses;
 
 VII.- La educación libre de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
 
@@ -635,9 +649,9 @@ X.- La víctima no será obligada a participar en mecanismos de conciliación co
 
 XI.- Los demás señalados en esta Ley y otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y asesores jurídicos estatales que tengan conocimiento de su lengua y cultura. Las mujeres con discapacidad visual, auditiva u otra, serán asistidas gratuitamente en todo tiempo por intérpretes y asesores jurídicos estatales que tengan conocimientos del lenguaje necesario para su adecuada defensa.
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por personas intérpretes y asesores jurídicos estatales que tengan conocimiento de su lengua y cultura. Las mujeres con discapacidad visual, auditiva u otra, serán asistidas gratuitamente en todo tiempo por personas intérpretes y asesores jurídicos estatales que tengan conocimientos del lenguaje necesario para su adecuada defensa.
 
 ###### Artículo 30.
 
@@ -645,7 +659,9 @@ En relación a los derechos citados en el artículo anterior, los refugios de mu
 
 I.- Operar conforme a la normatividad y lineamientos respectivos;
 
-II.- Velar por la seguridad de las mujeres y de sus hijos, que se encuentren en ellos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II.- Velar por la seguridad de las mujeres, de sus hijas e hijos, que se encuentren en ellos;
 
 III.- Proporcionar a las mujeres la atención necesaria para su recuperación psicológica y emocional que les permita participar plenamente en la vida pública y privada;
 
@@ -653,9 +669,13 @@ IV.- Orientar a las mujeres sobre las instituciones encargadas de prestar asesor
 
 V.- Proporcionar a la (sic) mujeres la información necesaria que les permita decidir sobre las opciones de atención;
 
-VI.- Contar con el personal debidamente capacitado y especializado en los modelos de abordaje exitosos y efectivos en materias psicológica y jurídica, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-VII.- Cubrir los aspectos de protección y atención de las mujeres y sus hijos que se encuentren en ellos.
+VI.- Contar con las personas trabajadoras debidamente capacitadas y especializadas en los modelos de abordaje exitosos y efectivos en materias psicológica y jurídica, y
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VII.- Cubrir los aspectos de protección y atención de las mujeres y de sus hijas e hijos. Que se encuentren en ellos.
 
 ###### Artículo 31.
 
@@ -665,25 +685,27 @@ Los refugios deberán ser lugares seguros para las mujeres por lo que no se podr
 
 Dichos refugios quedaran a cargo del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses a menos de que persista su estado de riesgo o de indefensión, para tales efectos, el personal médico, psicológico y jurídico del refugio evaluará la condición de las mujeres. En ningún caso permanecerán contra su voluntad.
+La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses a menos de que persista su estado de riesgo o de indefensión, para tales efectos, las personas trabajadoras de los servicios médico, psicológico y jurídico del refugio evaluará la condición de las mujeres. En ningún caso permanecerán contra su voluntad.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE ABRIL DE 2019)</small>
 
 #### SECCIÓN TERCERA. DE LOS CENTROS DE REHABILITACIÓN PARA AGRESORES
 
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 32 Bis.
 
-Los agresores podrán optar por acudir voluntariamente a un Centro de Rehabilitación para obtener la asistencia adecuada e integrarse nuevamente a la sociedad.
+Las personas agresoras podrán optar por acudir voluntariamente a un Centro de Rehabilitación para obtener la asistencia adecuada e integrarse nuevamente a la sociedad.
 
-Estarán obligados a asistir a dichos Centros cuando esta situación sea ordenada por determinación jurisdiccional.
+Estas personas estarán obligadas a asistir a dichos centros cuando esta situación sea ordenada por determinación jurisdiccional.
 
-La Secretaría de Salud, en coordinación con las demás Secretarías, Dependencias y Entidades del Sistema Estatal, elaborará y expedirá el Modelo de Intervención a Agresores.
+La Secretaría de Salud, en coordinación con las demás Secretarías, Dependencias y Entidades del Sistema Estatal, elaborará y expedirá el Modelo de Intervención a Personas Agresoras.
 
-La atención que se dé al agresor, será reeducativa y ausente de cualquier estereotipo, y tendrá como propósito la eliminación de rasgos violentos de los agresores, mediante el otorgamiento de servicios integrales y especializados.
+La atención que se dé a la persona agresora, será reeducativa y ausente de cualquier estereotipo, y tendrá como propósito la eliminación de rasgos violentos mediante el otorgamiento de servicios integrales y especializados.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -699,15 +721,21 @@ III.- Proporcionar talleres educativos a los agresores para motivar su reflexió
 
 IV.- Contar con el personal debidamente capacitado y especializado en las materias relacionadas con la atención que brindan.
 
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 32 Quater.
 
-Los Centros podrán brindar a los agresores los siguientes servicios:
+Los Centros podrán brindar a las personas agresoras los siguientes servicios:
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 I.- Tratamiento psicológico o psiquiátrico;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 II.- Información jurídica sobre las consecuencias legales de sus conductas, y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 III.- En su caso, capacitación para que adquieran habilidades para el desempeño de un trabajo.
 
@@ -723,7 +751,9 @@ II.- La detección de los factores del estado de riesgo y las circunstancias en 
 
 III.- La intervención temprana y mediata en determinados tipos y modalidades de la violencia, y
 
-IV.- La capacitación psicológica y jurídica transversal de los servidores públicos del Estado y sus Poderes, así como de los Municipios sobre esquemas de detección de factores de riesgo por lo menos una vez al año.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+IV.- La capacitación psicológica y jurídica transversal de las personas servidoras públicas del Estado y sus Poderes, así como de los Municipios sobre esquemas de detección de factores de riesgo por lo menos una vez al año.
 
 ###### Artículo 34.
 
@@ -751,7 +781,9 @@ Los modelos de erradicación buscarán la eliminación de la discriminación y l
 
 I.- El monitoreo de las zonas donde exista violencia contra las mujeres arraigada o violencia feminicida;
 
-II.- La evaluación anual de servidores públicos adscritos a cuerpos de seguridad, procuración de justicia o los dedicados a la atención de la violencia contra las mujeres, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II.- La evaluación anual de las personas servidoras públicas adscritos (sic) a cuerpos de seguridad, procuración de justicia o los dedicados a la atención de la violencia contra las mujeres, y
 
 III.- La armonización normativa y judicial que revise las normas y la interpretación hermenéutica con perspectiva de género de éstas.
 
@@ -799,7 +831,9 @@ La Mesa de Armonización Legislativa a que hace alusión el artículo anterior d
 
 Las órdenes de protección, son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el ministerio público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
 
-Consecuentemente no dictan ni causan estado sobre los bienes o derechos de los probables responsables o infractores y duraran el tiempo que sean necesario, o que dicte la legislación aplicable.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+Consecuentemente no dictan ni causan estado sobre los bienes o derechos de los (sic) probables personas responsables o infractoras y duraran el tiempo que sean (sic) necesario, o que dicte la legislación aplicable.
 
 En materia de violencia política contra las mujeres en razón de género, el Instituto Morelense de Procesos Electorales y Participación Ciudadana y el Tribunal Electoral del Estado de Morelos, podrán solicitar a las autoridades competentes el otorgamiento de las órdenes a que se refiere este capítulo y decretar las que sean procedentes en el marco de sus atribuciones.
 
@@ -1067,51 +1101,89 @@ El Sistema Estatal tendrá por objeto la instrumentación de una coordinación �
 
 El Sistema Estatal tendrá cuatro comisiones, una por cada eje de acción, además de los consejos temáticos sobre violencia que se adhieran al mismo y la Mesa de Armonización Legislativa, a efecto de establecer la política estatal única en la materia.
 
-Dichas comisiones estarán integradas por los miembros del Sistema Estatal, con arreglo a la presente ley y los que determinen los ordenamientos que crean los consejos temáticos, que mediante el acuerdo respectivo se adhieran a dicho Sistema.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+Dichas comisiones estarán integradas por las personas que confirman el Sistema Estatal, con arreglo a la presente ley y los que determinen los ordenamientos que crean los consejos temáticos, que mediante el acuerdo respectivo se adhieran a dicho Sistema.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 46.
 
-El Sistema Estatal estará integrado por las personas titulares de las siguientes Secretarías, Dependencias y organismos auxiliares, recayendo su suplencia en el servidor público que designe al efecto con nivel jerárquico necesario para la toma de decisiones:
+El Sistema Estatal estará integrado por las personas titulares de las siguientes Secretarías, Dependencias y organismos auxiliares, recayendo su suplencia en la persona servidora pública que designe al efecto con nivel jerárquico necesario para la toma de decisiones:
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 I. La Secretaría de Gobierno, quien lo presidirá;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 II. La Secretaría de las Mujeres;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 III. La Secretaría de Hacienda;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 IV. La Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 V. La Secretaría de Salud;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 VI. La Secretaría de Seguridad y Protección Ciudadana;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 VII. La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 VIII. La Fiscalía General del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 IX. El Instituto de la Mujer para el Estado de Morelos, que ocupará la Secretaría Ejecutiva del Sistema;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 X. El Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 XI. La Secretaría de Desarrollo Económico y del Trabajo;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 XII. La Secretaría de Bienestar;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 XIII. La Secretaría de Desarrollo Agropecuario;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 XIV. El Instituto de Desarrollo y Fortalecimiento Municipal, y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 XV. La Comisión de Igualdad de Género del Congreso del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 Lo anterior sin perjuicio de la participación que se requiera de las personas titulares del resto de las Secretarías, Dependencias y organismos auxiliares que forman parte de la Administración Pública Estatal, quienes podrán ser convocadas cuando los asuntos a tratar en las sesiones correspondientes sean de su competencia y conforme a lo dispuesto en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 El Sistema Estatal sesionará de forma ordinaria cuando menos tres veces al año, sin perjuicio de que celebre sesiones extraordinarias de acuerdo a lo que señale el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 47.
 
-Al Sistema Estatal podrán ser invitados los servidores públicos o miembros de la sociedad civil que sea procedente, a las sesiones ordinarias o extraordinarias, de conformidad con lo señalado en el reglamento de la ley.
+Al Sistema Estatal podrán ser invitados (sic) las personas servidoras públicas o personas de la sociedad civil que sea procedente, a las sesiones ordinarias o extraordinarias, de conformidad con lo señalado en el reglamento de la ley.
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL
 
@@ -1133,7 +1205,9 @@ IV.- Los recursos asignados al Programa Estatal;
 
 V.- Las metas cuantitativas y cualitativas;
 
-VI.- Los responsables de ejecución;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VI.- Las personas responsables de ejecución;
 
 VII.- Los mecanismos de evaluación, y
 
@@ -1183,15 +1257,17 @@ XI.- Las acciones y programas a ejecutar para la atención y rehabilitación de 
 
 Artículo 50 bis.- Se crea el Registro Estatal de Agresores Sexuales, como un instrumento que sólo puede ser consultado por las autoridades competentes y dependerá su operación de la Secretaría de Seguridad y Protección Ciudadana, el cual contendrá datos de las personas sentenciadas por los delitos de naturaleza sexual previstos por los artículos 150 BIS, 152, 156, 157, 158, 158 bis, 159, 161, 162, 162 bis, 211, 211 bis, 211 ter, 211 quater, 212 y 212 ter, del 211 (sic), del Código Penal para el Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-Artículo 50 ter. Las autoridades jurisdiccionales competentes notificarán de inmediato a la Secretaría de Seguridad y Protección Ciudadana, de los agresores que tengan sentencia firme por alguno de los delitos previstos en el artículo anterior.
+Artículo 50 ter. Las autoridades jurisdiccionales competentes notificarán de inmediato a la Secretaría de Seguridad y Protección Ciudadana, de las personas agresoras que tengan sentencia firme por alguno de los delitos previstos en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 También deberán notificar sobre los acuerdos de reparación celebrados y las sentencias derivadas de procedimiento abreviado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-Artículo 50 quater.- La Secretaría de Seguridad y Protección Ciudadana integrará una ficha del agresor sentenciado que deberá contener, cuando menos, lo siguiente:
+Artículo 50 quater.- La Secretaría de Seguridad y Protección Ciudadana integrará una ficha de la persona agresora sentenciada que deberá contener, cuando menos, lo siguiente:
 
 > <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
@@ -1227,9 +1303,11 @@ Artículo 50 quintus.- El Registro Estatal de Agresores Sexuales será actualiza
 
 #### SECCIÓN PRIMERA. DEL GOBIERNO DEL ESTADO DE MORELOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 51.
 
-El Ejecutivo Estatal para el cumplimiento de los ejes de acción de prevención, atención, sanción y erradicación de la violencia contra las mujeres, deberá:
+La persona titular del Poder Ejecutivo Estatal para el cumplimiento de los ejes de acción de prevención, atención, sanción y erradicación de la violencia contra las mujeres, deberá:
 
 I.- Formular, instrumentar, articular y conducir la política integral estatal en materia de erradicación de la violencia contra las mujeres, desde la perspectiva de género;
 
@@ -1253,7 +1331,9 @@ X.- Realizar la plena difusión del contenido de esta ley, e
 
 XI.- Incluir en el Informe Anual de Gobierno, la situación, avances y resultados de los programas locales, en materia de equidad de género, ante el Congreso del Estado.
 
-Las facultades antes señaladas serán desempeñadas a través de las dependencias de la Administración Pública Estatal, en el ámbito de sus respectivas competencias, debiendo en todo momento ser supervisadas por el Titular del Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+Las facultades antes señaladas serán desempeñadas a través de la Secretaría de las Mujeres y de las dependencias de la Administración Pública Estatal, en el ámbito de sus respectivas competencias, debiendo en todo momento ser supervisadas por la persona Titular del Ejecutivo del Estado.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA DE GOBIERNO
 
@@ -1275,7 +1355,9 @@ VI.- Diseñar, la política de sanción y erradicación de los delitos violentos
 
 VII.- Formular las bases para la coordinación entre las autoridades estatales y municipales en los diferentes ejes de acción;
 
-VIII.- Para el cumplimiento de todas y cada una de las atribuciones que le confiere la ley, se vinculará con el Instituto de la Mujer para el Estado de Morelos, al que corresponde la ejecución de la política permanente de coordinación entre las dependencias e instancias de la Administración Pública Estatal así como de vinculación con las autoridades municipales;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VIII.- Para el cumplimiento de todas y cada una de las atribuciones que le confiere la ley, se vinculará con la Secretaría de las Mujeres del Gobierno Federal y Estatal, así como con el Instituto de la Mujer para el Estado de Morelos, al que corresponde la ejecución de la política permanente de coordinación entre las dependencias e instancias de la Administración Pública Estatal, así como de vinculación con las autoridades municipales;
 
 IX.- Recibir de las organizaciones de la sociedad civil, las propuestas y recomendaciones sobre la prevención, atención, sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
 
@@ -1555,13 +1637,17 @@ XV.- Difundir y promover en los medios de comunicación el procedimiento de denu
 
 XVI.- Las demás que señalen en la normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 58 Bis.
 
-Corresponde a la Comisión de Equidad de Género del Congreso del Estado:
+Corresponde a la Comisión de Igualdad de Género del Congreso del Estado:
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 1.- La vinculación permanente con cada una de las autoridades que integran el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 2.- Promover la actualización del marco normativo vigente en el Estado; en relación a erradicar la discriminación y la violencia contra las mujeres;
 
@@ -1581,9 +1667,13 @@ IV.- Fomentar campañas públicas de prevención de la violencia contra las muje
 
 V.- Establecer en todos los centros a su cargo, las bases para un sistema de registro de información estadística en materia de violencia contra las mujeres;
 
-VI.- Capacitar anualmente al personal a su cargo sobre la igualdad de oportunidades, la no discriminación y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-VII.- Capacitar y sensibilizar al personal para proporcionar una atención con perspectiva de género, en especial la atención urgente a las mujeres y niñas victimas de la violencia, y
+VI.- Capacitar anualmente a las personas servidoras públicas a su cargo sobre la igualdad de oportunidades, la no discriminación y erradicación de la violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VII.- Capacitar y sensibilizar a las personas servidoras públicas para proporcionar una atención con perspectiva de género, en especial la atención urgente a las mujeres y niñas víctimas de la violencia, y
 
 VIII.- Las demás previstas para el cumplimiento de esta ley.
 
@@ -1745,7 +1835,9 @@ IV.- Ejecutar las acciones necesarias para el cumplimiento del Programa Estatal;
 
 V.- Emitir normatividad en materia de justicia cívica, específica para sancionar la violencia contra las mujeres de carácter administrativo, así como la aplicación de órdenes de protección cuando sea procedente;
 
-VI.- Promover en coordinación con el Estado cursos anuales de capacitación a servidores y funcionarios públicos que atiendan a mujeres víctimas de la violencia;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VI.- Promover en coordinación con el Estado cursos anuales de capacitación a personas servidoras públicas que atiendan a mujeres víctimas de la violencia;
 
 VII.- Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
 
@@ -2362,3 +2454,13 @@ PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Esta
 SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de (sic) Gobierno del Estado.
 
 TERCERO. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO QUINIENTOS TREINTA Y CINCO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO".]
+
+PRIMERA. Se remite el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
