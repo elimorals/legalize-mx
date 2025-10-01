@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-del-instituto-electoral-del-estado-de-140408
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-07"
-last_updated: "2019-11-07"
+last_updated: "2025-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "CAM"
 
 CÓDIGO DE CONDUCTA DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025 (ABROGADO).
 
 Código publicado en el Número 1054 del Periódico Oficial del Estado de Campeche, el jueves 7 de noviembre de 2019.
 
@@ -707,3 +707,19 @@ PUESTO: ______________
 FECHA: _______________
 
 FIRMA: _______________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE".]
+
+Primero. El presente Código de Conducta entrará en vigor y surtirá sus efectos al día siguiente de su aprobación por el Consejo General del Instituto Electoral del Estado de Campeche.
+
+Segundo: Se abroga el Código de Conducta del Instituto Electoral del Estado de Campeche publicado en el Periódico Oficial del Estado de Campeche el día 7 de noviembre de 2019, así como todas las disposiciones reglamentarias y administrativas emitidas por el Instituto Electoral del Estado de Campeche en lo que contravenga al contenido del presente documento.
+
+Tercero. Publíquese en el Periódico Oficial del Estado de Campeche y en la página electrónica del Instituto Electoral.
+
+Cuarto. La persona Titular del Órgano Interno de Control del Instituto Electoral, se coordinará con el Comité de Ética, para implementar de manera semestral capacitación a las personas servidoras públicas del Instituto Electoral, respecto del Código de Conducta, como medida preventiva.
+
+Quinto. Se deberán realizar las gestiones administrativas tendientes a garantizar que todas las personas servidoras públicas del Instituto Electoral conozcan el Código de Conducta, así como la ciudadanía en general, a través de la creación del micrositio del Comité de Ética.
