@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-para-la-asuncion-del-gobierno-de-la-funcion-de-8929
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-29"
-last_updated: "2014-03-26"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL PARA LA ASUNCIÓN DEL GOBIERNO DE LA FUNCIÓN DE SEGURIDAD PÚBLICA DE LOS MUNICIPIOS Y LAS POLICÍAS PREVENTIVAS MUNICIPALES Y DE TRÁNSITO MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 29 de agosto de 2012.
 
@@ -49,17 +49,17 @@ LEY ESTATAL PARA LA ASUNCIÓN DEL GOBIERNO DE LA FUNCIÓN DE SEGURIDAD PÚBLICA 
 
 La presente Ley, es de interés público y de observancia general para el Poder Ejecutivo del Estado de Morelos y sus Municipios y tiene por objeto el establecimiento de las bases a las que habrán de sujetarse la suscripción de los convenios para la asunción total o parcial del Ejecutivo, respecto de las funciones de Seguridad Pública Municipal, así como las demás determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114, bis de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 2.
 
-A partir de los convenios específicos que celebre el Ejecutivo con los Municipios, éste podrá asumir las funciones de dirección, manejo, operación, supervisión y control de la función de Seguridad Pública Municipal, así también, de las demás que están determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114 bis, de la Constitución Política del Estado Libre y Soberano de Morelos.
+A partir de los convenios específicos que celebre la persona Titular del Poder Ejecutivo con los Municipios, éste podrá asumir las funciones de dirección, manejo, operación, supervisión y control de la función de Seguridad Pública Municipal, así también, de las demás que están determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114 bis, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 3.
 
-Los convenios en materia de asunción de la función de Seguridad Pública, Policía Preventiva Municipal y hasta Tránsito Municipal de parte del Ejecutivo con relación a los municipios de la Entidad, tendrán por objeto lo siguiente:
+Los convenios en materia de asunción de la función de Seguridad Pública, Policía Preventiva Municipal y hasta Tránsito Municipal de parte de la persona titular del Poder Ejecutivo con relación a los municipios de la Entidad, tendrán por objeto lo siguiente:
 
 I. Coadyuvar con la materialización del mando único de las instituciones policiales en Morelos;
 
@@ -77,23 +77,29 @@ VII. Optimización de los recursos humanos, materiales y presupuestales que est�
 
 VIII. Capacitación y adiestramiento del personal operativo de los municipios por parte de las autoridades estatales que desarrollan funciones de seguridad pública, prevención y persecución de los delitos; y
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-IX. Las demás que acuerden entre sí el Ejecutivo y los Municipios, siempre y cuando no conculquen los propósitos fundamentales de la presente Ley o vayan en contra de disposiciones legales de otros dispositivos del orden común o federal.
+IX. Las demás que acuerden entre sí la persona titular del Poder Ejecutivo y los Municipios, siempre y cuando no conculquen los propósitos fundamentales de la presente Ley o vayan en contra de disposiciones legales de otros dispositivos del orden común o federal.
 
 ### CAPÍTULO SEGUNDO. DE LOS REQUISITOS Y CONTENIDO INDISPENSABLES PARA LA SUSCRIPCIÓN DE LOS CONVENIOS
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 4.
 
-Deberán ser cualquiera de las modalidades que se estipulan a continuación las que asuman el Ejecutivo y los Municipios a través de los convenios que son materia de la presente Ley:
+Deberán ser cualquiera de las modalidades que se estipulan a continuación las que asuman la persona titular del Poder Ejecutivo y los Municipios a través de los convenios que son materia de la presente Ley:
 
-a. De asunción total o parcial de las funciones de Seguridad Pública Municipal, Policía Preventiva Municipal y de Tránsito Municipal, cuando el Ejecutivo asuma la prestación de uno o más de los servicios o funciones municipales que están determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114 bis, de la Constitución Política del Estado Libre y Soberano de Morelos; o bien,
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-b. De coordinación, cuando de manera conjunta el Ejecutivo y uno o más Municipios presten esos servicios o funciones.
+a. De asunción total o parcial de las funciones de Seguridad Pública Municipal, Policía Preventiva Municipal y de Tránsito Municipal, cuando el Poder Ejecutivo asuma la prestación de uno o más de los servicios o funciones municipales que están determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114 bis, de la Constitución Política del Estado Libre y Soberano de Morelos; o bien,
 
-Estos convenios podrá celebrarlos el Ejecutivo con una pluralidad de Municipios, sobre todo en los casos en que se requiera por la problemática geográfica o regional en la que se suscite un incremento de los índices delictivos, o bien, en lo referente a las zonas metropolitanas, con el propósito de atender particularmente en ciertas áreas de la Entidad la alta incidencia de criminalidad, incluso, extendiéndose a todo el Estado cuando así se determine por los municipios y el gobierno estatal, a efecto que el titular del Ejecutivo ejerza plenamente su atribución de la fracción vigésima del artículo 70, de la Constitución del Estado.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+b. De coordinación, cuando de manera conjunta el Poder Ejecutivo y uno o más Municipios presten esos servicios o funciones.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+Estos convenios podrá celebrarlos la persona titular del Poder Ejecutivo con una pluralidad de Municipios, sobre todo en los casos en que se requiera por la problemática geográfica o regional en la que se suscite un incremento de los índices delictivos, o bien, en lo referente a las zonas metropolitanas, con el propósito de atender particularmente en ciertas áreas de la Entidad la alta incidencia de criminalidad, incluso, extendiéndose a todo el Estado cuando así se determine por los municipios y el gobierno estatal, a efecto que la persona titular del Ejecutivo ejerza plenamente su atribución de la fracción vigésima del artículo 70, de la Constitución del Estado.
 
 ###### Artículo 5.
 
@@ -131,23 +137,23 @@ V. La fecha en que formal y materialmente el Estado asumirá la función de segu
 
 ### CAPÍTULO TERCERO. DEL ESTADO EN SU ASUNCIÓN DE LAS FUNCIONES DE SEGURIDAD PÚBLICA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 9.
 
-El Ejecutivo asumirá, de manera directa las funciones de Seguridad Pública Municipal y, en su caso, los demás servicios o funciones determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114 bis, de la Constitución Política del Estado Libre y Soberano de Morelos, así como el mando inmediato y directo del personal operativo y administrativo de la Policía Municipal en los términos y condiciones que se establezcan en el convenio respectivo.
+La persona titular del Poder Ejecutivo asumirá, de manera directa las funciones de Seguridad Pública Municipal y, en su caso, los demás servicios o funciones determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114 bis, de la Constitución Política del Estado Libre y Soberano de Morelos, así como el mando inmediato y directo del personal operativo y administrativo de la Policía Municipal en los términos y condiciones que se establezcan en el convenio respectivo.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 10.
 
-El Ejecutivo, con la suscripción del convenio, asumirá las facultades y funciones que corresponderían legal y originariamente a los Municipios, respecto de los servicios o funciones determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114 bis, de la Constitución Política del Estado Libre y Soberano de Morelos, en los términos en que se convenga.
+La persona titular del Poder Ejecutivo, con la suscripción del convenio, asumirá las facultades y funciones que corresponderían legal y originariamente a los Municipios, respecto de los servicios o funciones determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114 bis, de la Constitución Política del Estado Libre y Soberano de Morelos, en los términos en que se convenga.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 11.
 
-El Ejecutivo, en ningún caso, se considerará patrón sustituto ni titular de las relaciones laborales o administrativas correspondientes a las Instituciones de Seguridad Pública Municipal, de la Policía Preventiva Municipal o, en su caso, de la de tránsito.
+La persona titular del Poder Ejecutivo, en ningún caso, se considerará patrón sustituto ni titular de las relaciones laborales o administrativas correspondientes a las Instituciones de Seguridad Pública Municipal, de la Policía Preventiva Municipal o, en su caso, de la de tránsito.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -161,7 +167,9 @@ I. Las relaciones laborales y administrativas derivadas de las instituciones de 
 
 II. La asignación de las partidas presupuestales correspondientes a seguridad pública municipal y tránsito, cuyos porcentajes no podrán ser disminuidos durante el ejercicio fiscal correspondiente, ni inferiores de los determinados para el año inmediato anterior;
 
-III. El ejercicio de las partidas presupuestales correspondientes a seguridad pública municipal, policía preventiva municipal y tránsito, conforme a los requerimientos que para la prestación del servicio señale el Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+III. El ejercicio de las partidas presupuestales correspondientes a seguridad pública municipal, policía preventiva municipal y requerimientos que para la prestación del servicio señale la persona titular del Poder Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -173,25 +181,25 @@ V. Los demás derechos y responsabilidades que estén contempladas en otras disp
 
 ### CAPÍTULO QUINTO. DE LA FUNCIÓN CONJUNTA
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 13.
 
-El Ejecutivo y los Municipios integrarán de manera conjunta, los Proyectos y Programas para la prestación del servicio de seguridad pública municipal y, en su caso, de tránsito.
+La persona titular del Poder Ejecutivo y los Municipios integrarán de manera conjunta, los Proyectos y Programas para la prestación del servicio de seguridad pública municipal y, en su caso, de tránsito
 
 ### CAPÍTULO SEXTO. DE LA SUSCRIPCIÓN E IMPLEMENTACIÓN DE LOS CONVENIOS
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 14.
 
-El Ejecutivo, a efecto de gestionar la suscripción e implementación de los convenios materia de la presente Ley, se auxiliará de la Subsecretaria de Gobierno y de la Comisión Estatal de Seguridad Pública, ambas de la Secretaría de Gobierno del Poder Ejecutivo del Estado.
+La persona titular del Poder Ejecutivo, a efecto de gestionar la suscripción e implementación de los convenios materia de la presente Ley, se auxiliará de la Secretaría de Gobierno y de la Secretaría de Seguridad y Protección Ciudadana.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 15.
 
-La Subsecretaria de Gobierno de la Secretaría de Gobierno, tendrá las funciones siguientes:
+La Secretaría de Gobierno, tendrá las funciones siguientes:
 
 I. Elaborar el contenido y alcances de los anteproyectos de los convenios;
 
@@ -201,19 +209,19 @@ III. Dar a conocer a los municipios el proceso a seguir para la suscripción e i
 
 IV. Recibir y tramitar las solicitudes de los municipios que deseen celebrar los convenios de que trata la presente Ley;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-V. Determinar las bases para la trasferencia al Ejecutivo del uso de los recursos materiales asignados a la Seguridad Pública Municipal o los demás servicios o funciones determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114 bis, de la Constitución Política del Estado Libre y Soberano de Morelos;
+V. Determinar las bases para la trasferencia al Poder Ejecutivo del uso de los recursos materiales asignados a la Seguridad Pública Municipal o los demás servicios o funciones determinadas por el inciso h), fracción III, del artículo 115, de la Constitución Política de los Estados Unidos Mexicanos y fracción VII, del artículo 114 bis, de la Constitución Política del Estado Libre y Soberano de Morelos;
 
 VI. Determinar las condiciones para la trasferencia de los asuntos y expedientes en trámite; y
 
 VII. Las demás determinadas por otras disposiciones legales y reglamentarias aplicables en este caso, o bien, las que se establezcan en los convenios específicos suscritos en los términos de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-La Comisión de Seguridad Pública, a cargo del Comisionado Estatal de Seguridad Pública, tendrá las funciones siguientes:
+La Secretaría de Seguridad y Protección Ciudadana, a cargo del secretario, tendrá las funciones siguientes:
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -227,21 +235,23 @@ IV. Estipular los protocolos de actuación y homologación operativa de las inst
 
 V. Las demás determinadas por otras disposiciones legales y reglamentarias aplicables en este caso o bien, las que se establezcan en los convenios específicos suscritos en los términos de la presente Ley.
 
-### CAPÍTULO SÉPTIMO. DE LOS MIEMBROS DE INSTITUCIONES MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+### CAPÍTULO SÉPTIMO. DE LAS PERSONAS DE LAS INSTITUCIONES MUNICIPALES
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-El personal operativo y administrativo de las Instituciones de Seguridad Pública Municipal, de la Policía Preventiva Municipal o de Tránsito, tendrá en la esfera de su competencia material y territorial las obligaciones, prohibiciones y facultades que le corresponden a la Policía Preventiva Estatal, además de las que se establezcan en los convenios y no sean contrarias a la legislación vigente, quedando asimilado aquel personal a los elementos Policiales Estatales adscritos a la Comisión Estatal de Seguridad Pública del Poder Ejecutivo del Estado.
+El personal operativo y administrativo de las Instituciones de Seguridad Pública Municipal, de la Policía Preventiva Municipal o de Tránsito, tendrá en la esfera de su competencia material y territorial las obligaciones, prohibiciones y facultades que le corresponden a la Policía Preventiva Estatal, además de las que se establezcan en los convenios y no sean contrarias a la legislación vigente, quedando asimilado aquel personal a los elementos Policiales Estatales adscritos a la Secretaría de Seguridad y Protección Ciudadana del Poder Ejecutivo del Estado
 
 ### CAPÍTULO OCTAVO. DE LA RESPONSABILIDAD PATRIMONIAL DEL ESTADO POR ASUNCIÓN DE LA FUNCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 18.
 
-Los daños que se produzcan con motivo de las acciones realizadas dentro de la Entidad y que se deriven del ejercicio de los Cuerpos de Seguridad Municipales que hubiese asumido el Ejecutivo por convenio con los Municipios, serán resarcidos conforme lo establece el artículo 114 bis, de la Ley del Sistema de Seguridad Pública del Estado de Morelos; así también, el Ejecutivo responderá patrimonialmente por los conceptos de reparación del daño a los particulares causados por actividad administrativa irregular del personal de Seguridad Pública Municipal, Policía Preventiva Municipal y de Tránsito Municipal que esté a su cargo con motivo de un convenio suscrito con motivo de la presente Ley.
+Los daños que se produzcan con motivo de las acciones realizadas dentro de la Entidad y que se deriven del ejercicio de los Cuerpos de Seguridad Municipales que hubiese asumido el Poder Ejecutivo por convenio con los Municipios, serán resarcidos conforme lo establece el artículo 114 bis, de la Ley del Sistema de Seguridad Pública del Estado de Morelos; así también, la persona titular del Poder Ejecutivo responderá patrimonialmente por los conceptos de reparación del daño a los particulares causados por actividad administrativa irregular del personal de Seguridad Pública Municipal, Policía Preventiva Municipal y de Tránsito Municipal que esté a su cargo con motivo de un convenio suscrito con motivo de la presente Ley.
 
 ## TRANSITORIOS
 
@@ -282,3 +292,13 @@ TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respe
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal (sic) Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS VEINTINUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL PARA LA ASUNCIÓN DEL GOBIERNO DE LA FUNCIÓN DE SEGURIDAD PÚBLICA DE LOS MUNICIPIOS Y POLICÍAS PREVENTIVAS MUNICIPALES Y DE TRÁNSITO, EN MATERIA DE LENGUAJE INCLUSIVO Y ARMONIZACIÓN LEGISLATIVA".]</small>
+
+PRIMERA. Se remite el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
