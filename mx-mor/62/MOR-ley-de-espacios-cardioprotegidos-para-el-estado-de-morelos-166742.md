@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-espacios-cardioprotegidos-para-el-estado-de-morelos-1667
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-21"
-last_updated: "2023-06-21"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ESPACIOS CARDIOPROTEGIDOS PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número 6203 del Periódico Oficial del Estado de Morelos, miércoles 21 de junio de 2023.
 
@@ -65,7 +65,9 @@ I. Aforo, ocupación máxima de público permitida por la normatividad vigente e
 
 II. SMC, Sociedad Mexicana de Cardiología.
 
-III. Asesores expertos, miembros de la comunidad médica o afines que estén capacitados para asistir, asesorar, capacitar o formar parte del Sistema Integral para la atención de Eventos por Muerte Súbita Cardíaca;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+III. Personas asesoras expertas, aquellas de la comunidad médica o afines que estén capacitados para asistir, asesorar, capacitar o formar parte del Sistema Integral para la atención de Eventos por Muerte Súbita Cardíaca;
 
 IV. Desfibrilador Automático Externo (DAE), al equipo electrónico automático y portátil capaz de analizar el ritmo cardíaco y determinar si es necesaria una descarga eléctrica controlada en el pecho, para corregir y restaurar el ritmo cardiaco en caso de una fibrilación ventricular, taquicardia ventricular o paro cardiaco, asimismo como una guía de asistencia para la reanimación cardiopulmonar básica;
 
@@ -87,7 +89,9 @@ VIII. Eventos Cardioprotegidos, a los eventos públicos o privados, deportivos, 
 
 IX. ILCOR (International Liaison Committee on Resuscitation), Comité de enlace internacional sobre reanimación.
 
-X. Instructores, Aquellas personas acreditadas por la Secretaría de Salud del Gobierno Federal para brindar servicios de capacitación en reanimación cardiopulmonar básica y uso del desfibrilador automático externo.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+X. Personas instructoras, Aquellas acreditadas por la Secretaría de Salud del Gobierno Federal para brindar servicios de capacitación en reanimación cardiopulmonar básica y uso del desfibrilador automático externo.
 
 XI. Ley, a la presente Ley de Espacios Cardioprotegidos del Estado de Morelos;
 
@@ -95,7 +99,9 @@ XII. Muerte Súbita Cardíaca, al paro cardíaco súbito de causa no traumática
 
 XIII. Muerte Súbita Recuperada, al restablecimiento de la función eléctrica y mecánica del corazón tras un paro cardiaco y que ha recibido atención oportuna mediante maniobras de reanimación cardiopulmonar y el uso de un desfibrilador automático externo;
 
-XIV. Primer Respondiente, el personal de un edificio o espacio cardioprotegido capacitado por institución educativa o por una empresa privada acreditadas por la Secretaría de Salud del Gobierno Federal, para iniciar la cadena de la supervivencia y asistir a la víctima que requiere de reanimación cardiopulmonar básica y el uso del desfibrilador automático externo a consecuencia de un paro cardíaco;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XIV. Persona Primera Respondiente, el personal de un edificio o espacio cardioprotegido capacitado por institución educativa o por una empresa privada acreditadas por la Secretaría de Salud del Gobierno Federal, para iniciar la cadena de la supervivencia y asistir a la víctima que requiere de reanimación cardiopulmonar básica y el uso del desfibrilador automático externo a consecuencia de un paro cardíaco;
 
 XV. Protección Civil, a la Coordinación Estatal de Protección Civil de Morelos o su equivalente conforme a la normatividad vigente;
 
@@ -105,13 +111,17 @@ XVII. Secretaría, a la Secretaría de Salud del Estado de Morelos, y
 
 XVIII. Tasa de Mortalidad por enfermedad isquémica del corazón, proporción de personas que fallecen como consecuencia de enfermedad isquémica con relación al total de la población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-El Sistema Integral para la Atención de Eventos por Muerte Súbita Cardíaca es un cuerpo colegiado de carácter honorífico que se integrará con Protección Civil, la Comisión Estatal de Seguridad y Asesores Expertos; será coordinado por la Secretaría y tendrá (sic) siguientes funciones:
+El Sistema Integral para la Atención de Eventos por Muerte Súbita Cardíaca es un cuerpo colegiado de carácter honorífico que se integrará con Protección Civil, la Comisión Estatal de Seguridad y Personas Asesores Expertos; será coordinado por la Secretaría y tendrá (sic) siguientes funciones:
 
 I. Identificar, notificar, registrar y supervisar los inmuebles, espacios y eventos cardioprotegidos.
 
-II. Acreditar y registrar a los profesionales de la salud o empresas privadas que en los términos de esta ley califiquen para ser instructores de servicios de capacitación en reanimación cardiopulmonar y uso del sistema de acceso público a la desfibrilación temprana a través del uso del desfibrilador automático externo, en inmuebles y espacios públicos o privados cardioprotegidos.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II. Acreditar y registrar a las personas profesionales de la salud o empresas privadas que en los términos de esta ley califiquen para brindar instrucción de servicios de capacitación en reanimación cardiopulmonar y uso del sistema de acceso público a la desfibrilación temprana a través del uso del desfibrilador automático externo, en inmuebles y espacios públicos o privados cardioprotegidos.
 
 III. Regular el uso de los desfibriladores automáticos externos, fuera del ámbito sanitario o extrahospitalario;
 
@@ -129,17 +139,21 @@ VII. Aplicar las sanciones correspondientes, previo procedimiento administrativo
 
 Se considerarán como espacios cardioprotegidos a los definidos en el Artículo 2, fracción VI, de la ley; y eventos cardioprotegidos, a los eventos públicos o privados, en donde exista una afluencia o concentración de 1,500 personas o más en 24 horas, en los que se deberá instalar por lo menos un desfibrilador automático externo.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-Los espacios cardioprotegidos deberán contar con al menos un desfibrilador automático externo y contar con la capacitación de al menos el 30% de su personal (primeros respondientes) sobre el uso de éste y en maniobras de reanimación cardiopulmonar básica.
+Los espacios cardioprotegidos deberán contar con al menos un desfibrilador automático externo y contar con la capacitación de al menos el 30% de su personal (como personas primeras respondientes) sobre el uso de éste y en maniobras de reanimación cardiopulmonar básica.
 
 ###### Artículo 6.
 
 En los espacios donde se lleven a cabo los eventos cardioprotegidos y no se cuente con un desfibrilador automático externo, se deberá de contratar el servicio de una ambulancia equipada con el personal capacitado ante la posibilidad de cualquier situación de paro cardíaco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 7.
 
-Los administradores o responsables de los espacios y eventos públicos o privados que sean reconocidos por el Sistema Integral para la Atención de Eventos por Muerte Súbita Cardiaca como espacios, inmuebles o eventos cardioprotegidos, serán los encargados de:
+Las personas administradoras o responsables de los espacios y eventos públicos o privados que sean reconocidos por el Sistema Integral para la Atención de Eventos por Muerte Súbita Cardiaca como espacios, inmuebles o eventos cardioprotegidos, serán las encargadas de:
 
 I. Procurar el buen uso y mantenimiento que se dé a los desfibriladores automáticos externos de los inmuebles y espacios cardioprotegidos, para que éstos se encuentren siempre en óptimas condiciones para su utilización;
 
@@ -179,17 +193,25 @@ Los gastos que se generen por la instalación y mantenimiento de los desfibrilad
 
 Para los efectos de esa ley, aquellos profesionales de la salud o empresas privadas que deseen impartir cursos de capacitación sobre primeros auxilios, reanimación cardiopulmonar y uso del desfibrilador automático externo, deberán estar registrados y acreditados, siempre y cuando cumplan los siguientes requisitos:
 
-a) Ser médico cirujano, enfermera, técnicos en atención médica prehospitalaria u otro profesional de la salud acreditado con formación específica en reanimación cardiopulmonar y uso de desfibrilador automático externo, y
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-b) Estar acreditado como instructor o proveedor en reanimación cardiopulmonar básica, por la SMC.
+a) Ser médica o médico cirujano, enfermera o enfermero, personas técnicas en atención médica prehospitalaria o cualquier otra persona profesional de la salud acreditado con formación específica en reanimación cardiopulmonar y uso de desfibrilador automático externo, y
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+b) Estar acreditado como persona instructora o proveedora en reanimación cardiopulmonar básica, por la SMC.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 15.
 
-La capacitación de los primeros respondientes privilegiará al personal que integra las brigadas de protección civil de los inmuebles identificados, de conformidad con lo dispuesto por la Ley General de Protección Civil y su respectivo reglamento.
+La capacitación de las personas primeras respondientes privilegiará al personal que integra las brigadas de protección civil de los inmuebles identificados, de conformidad con lo dispuesto por la Ley General de Protección Civil y su respectivo reglamento.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-Ante la falta de un primer respondiente en el edificio o espacio cardioprotegido, cualquier persona que preste asistencia con el uso del desfibrilador automático externo a una víctima de paro cardiaco o muerte súbita cardiaca, puede intervenir y ayudar a iniciar la cadena de la supervivencia, sin ser sujeto de responsabilidad penal, civil o administrativa.
+Ante la falta de una persona primera respondiente en el edificio o espacio cardioprotegido, cualquier persona que preste asistencia con el uso del desfibrilador automático externo a una víctima de paro cardiaco o muerte súbita cardiaca, puede intervenir y ayudar a iniciar la cadena de la supervivencia, sin ser sujeto de responsabilidad penal, civil o administrativa.
 
 ### CAPÍTULO V. RESPONSABILIDADES Y SANCIONES
 
@@ -197,15 +219,19 @@ Ante la falta de un primer respondiente en el edificio o espacio cardioprotegido
 
 A quien haga mal uso de los desfibriladores automáticos externos, ocasionándoles daños parciales o totales, será sujeto de responsabilidad penal, civil o administrativa, según corresponda.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 18.
 
-Los administradores o responsables de inmuebles identificados como espacios cardioprotegidos que no cumplan con lo dispuesto en el artículo 7 de la Ley, se harán acreedores a las sanciones que correspondan, conforme a lo establecido en la normativa aplicable.
+Las personas administradoras o responsables de inmuebles identificados como espacios cardioprotegidos que no cumplan con lo dispuesto en el artículo 7 de la Ley, se harán acreedores a las sanciones que correspondan, conforme a lo establecido en la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 19.
 
-Los responsables de los eventos públicos o privados que tengan una afluencia o concentración de 1,500 personas o más y que no cumplan con las diligencias correspondientes para realizar un evento cardioprotegido, no podrán llevar a cabo el evento y, de hacerlo, serán acreedores a una multa de cien a trescientas unidades de medida y actualización por parte del Sistema Integral para la Atención de Eventos por Muerte Súbita Cardiaca, previo procedimiento establecido en la ley correspondiente.
+Las personas físicas o morales responsables de los eventos públicos o privados que tengan una afluencia o concentración de 1,500 personas o más y que no cumplan con las diligencias correspondientes para realizar un evento cardioprotegido, no podrán llevar a cabo el evento y, de hacerlo, serán acreedores a una multa de cien a trescientas unidades de medida y actualización por parte del Sistema Integral parala (sic) Atención de Eventos por Muerte Súbita Cardiaca, previo procedimiento establecido en la ley correspondiente.
 
-En todos los supuestos, se deberá cumplir con lo establecido en los artículos 5 y 6 de la Ley, y se deberá contar con las certificaciones correspondientes por parte de los organizadores o administradores de los espacios e inmuebles que hace referencia el presente ordenamiento.
+En todos los supuestos, se deberá cumplir con lo establecido en los artículos 5 y 6 de la Ley, y se deberá contar con las certificaciones correspondientes por parte de las personas organizadoras o administradoras de los espacios e inmuebles que hace referencia el presente ordenamiento.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -238,3 +264,15 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS TREINTA Y TRES POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ESPACIOS CARDIOPROTEGIDOS PARA EL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO”.]
+
+PRIMERA. Se remite el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
