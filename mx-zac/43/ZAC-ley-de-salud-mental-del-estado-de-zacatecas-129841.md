@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-mental-del-estado-de-zacatecas-129841"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-07"
-last_updated: "2018-07-07"
+last_updated: "2025-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE SALUD MENTAL DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE SALUD MENTAL DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 8 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE SALUD MENTAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento 4 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -532,3 +532,21 @@ DADO en la Sala de Sesiones de la Honorable Legislatura del Estado, a los tres d
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los quince días del mes de junio del año dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DE LA “LEY DE SALUD MENTAL PARA EL ESTADO DE ZACATECAS”.]</small>
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se abroga la Ley de Salud Mental del Estado de Zacatecas, aprobada por Decreto número 366, expedido por la Sexagésima Segunda Legislatura del Estado y publicada en el suplemento número 4 al número 54 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 7 de julio de 2018.
+
+TERCERO. La Secretaría de Salud deberá adecuar su normatividad interna y expedir el Reglamento de esta Ley, en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. La Secretaría de Salud deberá programar en su proyecto de presupuesto para el ejercicio fiscal del año 2025 los recursos suficientes para la creación e implementación del Registro Estatal de los Centros de Atención de Salud Mental.
+
+QUINTO. Las instituciones públicas y privadas deberán cumplir con las obligaciones contenidas en la presente Ley, en un plazo no mayor a un año, a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
