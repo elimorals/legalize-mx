@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2025-07-09"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1987,6 +1987,12 @@ Para el caso de los menores de doce años, el juez de lo familiar, una vez que p
 
 No será obstáculo para la preferencia en la custodia, el hecho de que la madre o el padre carezcan de recursos económicos.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 222 BIS.- REQUISITOS PARA EL CAMBIO DE GUARDA Y CUSTODIA. Para el caso de haberse determinado la guarda y custodia definitiva o de manera provisional, deberá de informarse al Registro de Personas a cargo de la guarda y custodia de niñas, niños y adolescentes.
+
+En caso de que un órgano jurisdiccional del estado de Morelos o de otra entidad federativa pretenda otorgar la guarda y custodia de una niña, niño o adolescente con domicilio en el estado de Morelos, deberá de solicitar al Registro de Personas a cargo de la guarda y custodia de niñas, niños y adolescentes un certificado sobre la situación de estos y verificar si es procedente el cambio en su caso.
+
 ###### ARTÍCULO 223.
 
 CONTENIDO DE LA SENTENCIA DEFINITIVA. La sentencia que se pronuncie en definitiva, fijará la situación de los hijos, para lo cual el juez de lo familiar deberá resolver todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según sea el caso.
@@ -2044,6 +2050,32 @@ Así mismo, el Juez puede en beneficio de los menores, modificar el ejercicio de
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 2023)</small>
 
 Cuando se acredite que los menores han sido o están siendo utilizados como medio para cometer violencia vicaria, contra la madre de los mismos.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 225 BIS.- REGISTRO DE PERSONAS A CARGO DE LA GUARDA Y CUSTODIA. Se crea el Registro de Personas a cargo de la guarda y custodia de niñas, niños y adolescentes del Tribunal Superior de Justicia, en que se harán las inscripciones a que se refiere el artículo 222 Bis del presente Código.
+
+Dicho registro deberá contener:
+
+I.- Nombre, apellidos y Clave Única del Registro de Población de la Persona a cargo de la guarda y custodia de niñas, niños y adolescentes;
+
+II.- Nombre apellidos y Clave Única del Registro de Población de la niñas, niños y adolescentes, y
+
+III.- Datos del juicio en el que se estableció la guarda y custodia;
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 225 TER.- CERTIFICADO DE GUARDA Y CUSTODIA. El Certificado a que se refiere el artículo 222 Bis de este Código contendrá lo siguiente:
+
+I.- Nombre, apellidos y Clave Única del Registro de Población de la Persona a cargo de la guarda y custodia de niñas, niños y adolescentes;
+
+II.- Nombre apellidos y Clave Única del Registro de Población de la niñas, niños y adolescentes, y
+
+III.- Datos del juicio en el que se estableció la guarda y custodia;
+
+IV.- Órgano jurisdiccional que ordenó el registro, y
+
+V.- Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
 
 ###### ARTÍCULO 226.
 
@@ -7270,3 +7302,13 @@ PRIMERA. Se remite el presente decreto a la Titular del Poder Ejecutivo Estatal 
 SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS TREINTA Y SEIS POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE CREAR EL REGISTRO DE PERSONAS A CARGO DE LA GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES".]</small>
+
+PRIMERA. Se remite el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el 01 de enero de 2026, una vez que se haya considerado en el Presupuesto de Egresos de ese ejercicio fiscal los recursos adicionales al Tribunal Superior de Justicia para su operación.
+
+TERCERA. Se derogan las disposiciones de igual o menor grado que se opongan al presente Decreto.
