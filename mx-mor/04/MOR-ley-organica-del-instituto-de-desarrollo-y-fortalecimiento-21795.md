@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-2179
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-07-20"
-last_updated: "2025-06-25"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 20 de julio de 2001.
 
@@ -75,9 +75,11 @@ El domicilio del Instituto será la Ciudad de Cuernavaca, sin perjuicio de que s
 
 El Instituto se regirá por un Reglamento Interior en lo relativo a su estructura administrativa y las facultades y funciones correspondientes a las distintas áreas que lo constituyan. Para tal efecto contendrá disposiciones generales referentes a la organización del Instituto, a sus órganos de administración y a las unidades que integren éstos últimos y las demás que se requieran para su adecuado funcionamiento, conforme lo establecido por esta Ley.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-Los integrantes de los órganos de Gobierno del Instituto y su personal serán responsables por los delitos y faltas en que incurran en el ejercicio de sus funciones, conforme a las disposiciones legales aplicables.
+Las personas integrantes de los órganos de Gobierno del Instituto y su personal serán responsables por los delitos y faltas en que incurran en el ejercicio de sus funciones, conforme a las disposiciones legales aplicables.
 
 ## TÍTULO SEGUNDO
 
@@ -89,7 +91,9 @@ De manera enunciativa y no limitativa, el Instituto tendrá a su cargo las sigui
 
 I. Proporcionar asesoría y asistencia técnica a los municipios que lo soliciten;
 
-II. Brindar capacitación permanente a los miembros de los Ayuntamientos que así lo demanden, con el fin de impulsar el servicio civil en el ámbito municipal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II. Brindar capacitación permanente a las personas integrantes de los Ayuntamientos que así lo demanden, con el fin de impulsar el servicio civil en el ámbito municipal;
 
 III. Proporcionar asistencia técnica en materias administrativa, de planeación y de hacienda en las áreas en que estas materias sean competencia de los Ayuntamientos;
 
@@ -109,7 +113,9 @@ X. Editar y difundir por medio de publicaciones y actos académicos los resultad
 
 XI. Planear, organizar y operar un centro de información, estadística y consulta relativo a las leyes, reglamentos, bandos y todo tipo de publicaciones y documentos que sirvan de base para la creación de una biblioteca especializada en temas municipales;
 
-XII. Planear, promover, coordinar y llevar a cabo la realización de cursos, seminarios, foros, diplomados y otros eventos similares de capacitación municipal, que permitan contribuir a la ampliación de conocimientos de los servidores públicos municipales;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XII. Planear, promover, coordinar y llevar a cabo la realización de cursos, seminarios, foros, diplomados y otros eventos similares de capacitación municipal, que permitan contribuir a la ampliación de conocimientos de las personas servidoras públicas municipales;
 
 XIII. Promover la celebración de convenios y acuerdos entre dependencias, entidades públicas, instituciones privadas nacionales o extranjeras con los Municipios, a fin de fortalecer la actividad municipal;
 
@@ -141,19 +147,19 @@ El Instituto para el cumplimiento de sus atribuciones se integrará con:
 
 I. Una Junta de Gobierno;
 
-II. Un Director General; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II. Una persona titular de la Dirección General; y
 
 III. La estructura orgánica que requiera para su funcionamiento.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 8.
 
-La Junta de Gobierno es el máximo órgano del Instituto y se integrará por las personas titulares de las Presidencias Municipales de la Entidad o bien, por la persona integrante del Ayuntamiento que cada una de ellas designe para representar el Municipio.
+La Junta de Gobierno es el máximo órgano del Instituto y se integrará por las Persona Titilares (sic) de las Presidencias Municipales de la Entidad o bien, por la persona del Ayuntamiento que cada uno designe para representarlo.
 
-Así como la persona legisladora que presida la Comisión de Fortalecimiento Municipal, Desarrollo Regional, Pueblos y Comunidades Indígenas y Afromexicanas del Congreso del Estado, quien contara con derecho a voz, pero sin voto.
-
-El cargo de persona integrante de la Junta de Gobierno tendrá el carácter de honorifico. El cargo de persona integrante de la Junta de Gobierno tendrá el carácter de honorifico.
+El cargo de persona integrante de la Junta de Gobierno tendrá el carácter de honorífico.
 
 ### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
 
@@ -161,31 +167,47 @@ El cargo de persona integrante de la Junta de Gobierno tendrá el carácter de h
 
 La Junta de Gobierno tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-I. Designar, por la mayoría de votos de sus integrantes, en el mes de enero del año siguiente a la elección de los Ayuntamientos, al Director General del Instituto;
+I. Designar, por la mayoría de los votos de sus integrantes, en el mes de enero del año siguiente a la elección de los Ayuntamientos, a la persona que ocupará la titularidad de la Dirección General del Instituto;
 
-II. Remitir al Congreso del Estado, dentro de los primeros quince días de la instalación de la Junta de Gobierno, la terna de ciudadanos de entre los cuales se designe al titular del órgano de vigilancia;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-III. Emitir acuerdos que conforme a las leyes federales y estatales y la normatividad de cada municipio con estricto apego al principio fundamental de autonomía municipal, que tengan como fin el cumplimiento de la presente Ley y los objetivos del Instituto;
+II. Remitir al Congreso del Estado, dentro de los primeros quince días de la instalación de la Junta de Gobierno, la terna de las personas ciudadanas de entre los cuales se designen al titular del órgano de vigilancia;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+III. Emitir acuerdos que, conforme a las leyes federales y estatales y la normatividad de cada municipio con escrito (sic) apego al principio fundamental de autonomía municipal, que tenga como fin el cumplimiento de la presente Ley y los objetivos del Instituto;
 
 IV. Dictar las normas generales y establecer los criterios y políticas que deberán orientar la actividad del Instituto a fin de cumplir con sus objetivos;
 
-V. Aprobar o modificar, en su caso, el programa anual de trabajo, los presupuestos anuales de ingresos y egresos, los planes, programas, proyectos, e informes que le sean presentados por el Director General;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-VI. Expedir el Reglamento Interior del Instituto, los manuales de organización y procedimiento y demás instrumentos normativos que le deben regir, así como las modificaciones a los mismos;
+V. Aprobar o modificar, en su caso, el programa anual de trabajo, los presupuestos anuales de ingresos y egresos, los planes, programas, proyectos e informes que le sean presentados por la Dirección General;
 
-VII. Aprobar los estados financieros y balances y vigilar la debida aplicación de los fondos destinados al Instituto, pudiendo ordenar la práctica de auditorias y demás medidas de control que estime necesarias para tal efecto;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VI. Expedir el Reglamento Interior del Instituto, los manuales de organización y procedimientos y demás instrumentos normativos que le deben regir, así como las modificaciones a los mismos;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VII. Aprobar los estados financieros y balances y vigilar la debida aplicación de los fondos destinados al Instituto, pudiendo ordenar la práctica de auditorías y demás medidas de control que estime necesarias para tal efecto;
 
 VIII. Aprobar la inversión de fondos y la contratación de créditos para financiar la ejecución y operación de programas del Instituto;
 
-IX. Evaluar el desempeño institucional a través de los informes de carácter operativo, financiero y administrativo que trimestralmente rinda el Director General;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+IX. Evaluar el desempeño institucional a través de los informes de carácter operativo, financiero y administrativo, que trimestralmente rinda la persona titular de la Dirección General;
 
 X. Vigilar la aplicación del Reglamento Interior del Instituto;
 
-XI. Conocer y resolver los asuntos que someta a consideración el Director General;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-XII. Aprobar las actas que contengan los acuerdos tomados por la propia Junta de Gobierno; y
+XI. Conocer y resolver los asuntos que someta a su consideración la persona titular de la Dirección General;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XII. Aprobar las actas que contengan los acuerdos tomados por la Junta de Gobierno;
 
 XIII. Las demás que tiendan a la buena marcha y funcionamiento del Instituto; así como las que le confieran otras disposiciones legales y esta Ley.
 
@@ -197,27 +219,41 @@ La Junta de Gobierno operará conforme a las siguientes disposiciones:
 
 I. Sesionará en forma ordinaria una vez al mes y en forma extraordinaria cuantas veces sea necesario, según la importancia de los asuntos a tratar.
 
-Las sesiones serán presididas por el Presidente de la Junta de Gobierno que será electo por el voto de la mayoría del total de sus miembros. El presidente durará en su cargo seis meses y no podrá ser reelecto.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-La Junta de Gobierno contará con un Secretario Técnico que será nombrado en la forma y términos que establezca el Reglamento Interior del Instituto;
+Las sesiones serán presididas por la persona titular de la Presidencia de la Junta de Gobierno, que será electo por el voto de la mayoría del total de sus miembros. El presidente durará en su cargo seis meses y no podrá ser reelecto.
 
-II. El Director General convocará a las sesiones por medio del Secretario Técnico. También podrán convocar a sesión cuando, por lo menos, once de sus miembros así lo soliciten;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+La Junta de Gobierno contará con una persona que se ocupará de la Secretaría Técnica que será nombrado en la forma y términos que establezca el Reglamento Interior del Instituto;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II. La persona titular de la Dirección General convocará a las sesiones por medio de la Secretaría Técnica. También podrán convocar a sesión cuando, por lo menos, once de sus miembros así lo soliciten;
 
 III. La convocatoria a sesiones, el orden del día y la documentación relativa a estas, deberá entregarse a los miembros de la Junta de Gobierno con un mínimo de dos días de anticipación, si se trata de sesión ordinaria, y de un día, si se trata de sesión extraordinaria;
 
-IV. Para la validez de las Sesiones se requiere que concurra la mayoría de los integrantes de la Junta de Gobierno entre los cuales deberá estar el presidente de la Junta de Gobierno o en quien delegue su representación;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-V. Para la validez de los acuerdos tomados en las sesiones se requiere el voto aprobatorio de la mayoría de sus miembros, teniendo el presidente voto de calidad en caso de empate;
+IV. Para la validez de las Sesiones se requiere que concurra la mayoría de las personas integrantes de la Junta de Gobierno entre los cuales deberá estar el presidente de la Junta de Gobierno o en quien delegue su representación;
 
-VI. El Director General asistirá a las sesiones, teniendo voz, pero no voto; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+V. Para la validez de los acuerdos tomados en las sesiones se requiere el voto aprobatorio de la mayoría de las personas integrantes, teniendo el titular de la presidencia voto de calidad en caso de empate;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VI. La persona titular de la Dirección General asistirá a las sesiones, teniendo voz, pero no voto; y
 
 VII. Para lo no previsto en la presente Ley, para el funcionamiento de la Junta de Gobierno se estará a lo que disponga el Reglamento Interior del Instituto.
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 11.
 
-El Director General del Instituto será nombrado por la Junta de Gobierno, durará en su cargo tres años, contados a partir de la fecha de su designación, y podrá ser reelecto para un periodo más, teniendo las siguientes atribuciones:
+La persona titular de la Dirección General del Instituto será nombrado por la Junta de Gobierno, durará en su cargo tres años, contados a partir de la fecha de su designación, y podrá ser reelecto para un periodo más, teniendo las siguientes atribuciones:
 
 I. Ser representante legal del Instituto con amplias facultades de dominio, administración, pleitos y cobranzas, y todas las demás que requieran poder o cláusula especial conforme a la ley;
 
@@ -233,13 +269,17 @@ VI. Promover la participación de los municipios en el diseño y ejecución de s
 
 VII. Elaborar el Reglamento Interior del Instituto, los manuales de organización y procedimientos, así como los demás instrumentos normativos internos que deban regir al Instituto y someterlos a la consideración de la Junta de Gobierno para su aprobación;
 
-VIII. Nombrar y remover libremente a los servidores públicos del Instituto, asignándoles las remuneraciones correspondientes en los términos de las disposiciones que para tal efecto apruebe la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VIII. Nombrar y remover libremente a las personas servidoras públicas del Instituto, asignándoles las remuneraciones correspondientes en los términos de las disposiciones que para tal efecto apruebe la Junta de Gobierno;
 
 IX. Dictar las normas generales y establecer los criterios y políticas que deben orientar las actividades del Instituto a fin de cumplir con sus objetivos;
 
 X. Elaborar los programas trimestral y anual de actividades; los presupuestos anuales de ingresos y egresos; los planes; proyectos e informes en los términos que disponen esta Ley y su Reglamento Interior;
 
-XI. Otorgar y revocar poderes a personas físicas y morales para que a nombre del Instituto ejerzan y defiendan los derechos del mismo;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XI. Otorgar y revocar poderes a personas físicas y morales para que a nombre del Instituto ejerzan y defiendan los derechos de este;
 
 XII. Definir las políticas para la gestión y obtención de recursos, así como para su aplicación y recuperación;
 
@@ -251,11 +291,15 @@ XV. Coordinar la realización de investigaciones para el desarrollo regional y m
 
 XVI. Realizar actividades de capacitación en recursos humanos en materia de organización y formación;
 
-XVII. Convocar a sesiones a través del Secretario Técnico conforme a esta Ley y su Reglamento Interior;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XVII. Convocar a sesiones a través de la persona que ocupe la Secretaría Técnica conforme a esta Ley y su Reglamento Interior;
 
 XVIII. Celebrar contratos y convenios necesarios para la realización de los fines del Instituto. La facultad para realizar actos de dominio, y para otorgar, endosar y suscribir títulos de crédito, sólo podrá ejercerla por acuerdo expreso de la Junta de Gobierno.
 
-XIX. Delegar en los trabajadores del Instituto el ejercicio de las atribuciones que le sean conferidas en los términos autorizados por esta Ley, su Reglamento Interior y la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XIX. Delegar en las personas trabajadoras del Instituto el ejercicio de las atribuciones que le sean conferidas en los términos autorizados por esta Ley, su Reglamento Interior y la Junta de Gobierno;
 
 XX. Atender los problemas de carácter administrativo y laboral del Instituto;
 
@@ -267,25 +311,35 @@ XXIII. Proveer lo necesario para que en el ámbito de su competencia se logre la
 
 XXIV. Las demás que le confiere esta Ley, su Reglamento Interior; la Junta de Gobierno y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-El Director General será substituido en sus ausencias temporales por el servidor público que se determine en el Reglamento Interior del Instituto.
+La persona titular de la Dirección General será substituido en sus ausencias temporales por la persona servidora pública que se determine en el Reglamento Interior del Instituto.
 
-A la falta absoluta del Director General, la Junta de Gobierno, mediante el voto aprobatorio de la mayoría de sus integrantes, designará al sustituto, quien concluirá el periodo de tres años a que se refiere en (sic) artículo 11 de la presente Ley.
+A la falta absoluta de la persona titular de la Dirección General, la Junta de Gobierno, mediante el voto aprobatorio de la mayoría de sus integrantes, designará al sustituto, quien concluirá el periodo de tres años a que se refiere en (sic) artículo 11 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 13.
 
-Para ser Director General del Instituto se requiere:
+Para ser Titular de la Dirección General del Instituto se requiere:
 
-I. Ser ciudadano morelense por nacimiento o residencia, en este último caso, deberá acreditar su residencia en el Estado durante los diez años anteriores a su designación, y en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-II. Ser mayor de treinta años, a la fecha de su designación;
+I. Ser persona con ciudadanía morelense por nacimiento o residencia, en este último caso, deberá acreditar su residencia en el Estado durante los diez años anteriores a su designación, y en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II. Ser persona mayor de treinta años a la fecha de su designación;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
 
 III. Contar con título y cédula profesional de licenciatura o su equivalente;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+IV. Gozar de buena reputación y no haber sido condenada por delito intencional; y
 
 V. Tener reconocido prestigio en el estudio e investigación de la administración pública municipal;
 
@@ -327,11 +381,13 @@ V. Los recursos que le asigne el Congreso el (sic) Estado en el Presupuesto de E
 
 ### CAPÍTULO ÚNICO. DEL ÓRGANO DE VIGILANCIA
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-El Instituto contará con un órgano de vigilancia cuyo titular será designado por el Congreso del Estado de Morelos, de entre la terna de ciudadanos que remita la Junta de Gobierno.
+El Instituto contará con un órgano de vigilancia cuya persona titular será designada por el Congreso del Estado de Morelos, de entre la terna de las ciudadanas y ciudadanos que remita la Junta de Gobierno.
 
-El Titular del órgano de vigilancia durará en su cargo tres años, contados a partir de la fecha de su designación, y a falta absoluta de dicho servidor público, el periodo será concluido por la persona que designe la Asamblea Legislativa del Estado.
+La persona Titular del órgano de vigilancia durará en su cargo tres años, contados a partir de la fecha de su designación, y a falta absoluta de dicha persona servidora pública, el periodo será concluido por la persona que designe la Asamblea Legislativa del Estado.
 
 ###### Artículo 16.
 
@@ -343,13 +399,17 @@ II. Realizar estudios sobre la eficiencia con la cual se ejerzan los desembolsos
 
 III. Solicitar información y ejecutar los actos que exija el cumplimiento adecuado de sus funciones, sin perjuicio de las tareas específicas que indique la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-El Director General deberá proporcionar la información que solicite el titular del órgano de vigilancia, a efecto de que pueda cumplir con las funciones mencionadas.
+La persona titular de la Dirección General deberá proporcionar la información que solicite la persona titular del órgano de vigilancia, a efecto de que pueda cumplir con las funciones mencionadas.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 18.
 
-El titular del órgano de vigilancia asistirá a las sesiones de la Junta de Gobierno, con voz pero sin voto, cuando se traten asuntos que estén relacionados con sus atribuciones.
+La persona titular del órgano de vigilancia asistirá a las sesiones de la Junta de Gobierno, con voz, pero sin voto, cuando se traten asuntos que estén relacionados con sus atribuciones.
 
 ###### Artículo 19.
 
@@ -359,9 +419,11 @@ El órgano de vigilancia velará que el manejo y aplicación de los recursos se 
 
 ### CAPÍTULO ÚNICO. DE LAS RELACIONES LABORALES
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-Las relaciones laborales entre el Instituto y sus trabajadores se regirán por lo dispuesto en le Ley del Servicio Civil del Estado de Morelos.
+Las relaciones laborales entre el Instituto y las personas trabajadoras se regirán por lo dispuesto en la Ley del Servicio Civil del Estado de Morelos.
 
 ## TRANSITORIOS
 
@@ -502,3 +564,13 @@ PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal 
 SEGUNDO (SIC). El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS TREINTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO".]</small>
+
+PRIMERA. Se remite el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
