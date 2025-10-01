@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2025-05-14"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -249,7 +249,19 @@ K).- Por falta comprobada al cumplimiento de las condiciones generales de trabaj
 
 L).- Por prisión que sea el resultado de una sentencia ejecutoriada, siempre que le impida el cumplimiento de la relación de trabajo;
 
-LL).- Las análogas a las establecidas en los incisos anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere.
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 1 DE OCTUBRE DE 2025)</small>
+
+M).- Cometer el trabajador actos de acoso u hostigamiento laboral y/o sexual, contra el usuario o destinario (sic) del servicio, compañero, compañera de trabajo o persona trabajadora, sin importar su posición jerárquica, en el centro de trabajo o donde realice las actividades propias de su labor.
+
+Para efectos de esta Ley se entiende por:
+
+a) Acoso u hostigamiento laboral: forma de violencia sistemática y recurrente que tiene como objetivo intimidar, opacar, aplanar, amedrentar o consumir emocional o intelectualmente a la persona trabajadora víctima, con miras a excluirla o que se autoexcluya del grupo laboral, abandone voluntariamente el lugar de trabajo, renuncie, espere ser despedida, o simplemente por satisfacer su necesidad de agredirla, controlarla o destruirla, y
+
+b) Acoso sexual: forma de violencia verbal o física, con implicaciones sexuales no solicitadas ni deseadas, que ocurren en cualquier lugar de forma pública o privada, directa o disimulada, pero que son demostraciones de poder que intimidan o amenazan, y que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE OCTUBRE DE 2025)</small>
+
+N).- Las análogas a las establecidas en los incisos anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere.
 
 ###### ARTICULO 21.
 
@@ -433,7 +445,9 @@ Son obligaciones de los trabajadores:
 
 I.- Desempeñar sus labores dentro de los horarios establecidos con la intensidad, cuidado y esmero apropiados, sujetándose a la dirección de sus jefes, y a las Leyes y reglamentos respectivos;
 
-II.- Observar buena conducta durante el servicio y ser atentos para con el público y sus compañeros de labores;
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II.- Observar buena conducta durante sus labores, ser atentos con el usuario o destinatario del servicio público, así como con sus compañeros de trabajo; y abstenerse de realizar cualquier acto que implique acoso u hostigamiento laboral y/o sexual, hacia cualquier otra persona trabajadora, sin importar su posición jerárquica; asimismo, deberá abstenerse de cualquier insinuación o conducta que implique acoso u hostigamiento sexual a los usuarios y destinatarios del servicio que presta.
 
 III.- Cumplir con las obligaciones que se deriven de las condiciones generales de trabajo; especialmente evitando los robos o destrucción de materiales y útiles de trabajo;
 
@@ -1424,3 +1438,11 @@ P.O. 14 DE MAYO DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 145 POR EL QUE “SE REFORMAN EL INCISO LL) DE LA FRACCIÓN V DEL ARTÍCULO 20 Y LA FRACCIÓN II DEL ARTÍCULO 45; SE ADICIONA EL INCISO N) A LA FRACCIÓN V DEL ARTÍCULO 20, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
