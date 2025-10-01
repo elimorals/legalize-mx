@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2025-08-18"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -275,7 +275,9 @@ XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
 XIX. Derechos de niñas, niños y adolescentes migrantes; y,
 
-XX. Derecho de acceso a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XX. Derecho de acceso a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, con las medidas de advertencia sobre contenidos que puedan causar impacto a la salud mental y perjudicar al libre desarrollo de la personalidad en niñas, niños y adolescentes, de conformidad con lo establecido en la Ley en Materia de Telecomunicaciones y Radiodifusión.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -815,17 +817,23 @@ Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal
 
 ### CAPÍTULO DÉCIMO. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 45.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad, de conformidad con la legislación aplicable las autoridades estatales y municipales en el ámbito de sus respectivas competencias, en relación con este derecho se coordinarán a fin de:
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud física y mental, así como a recibir la prestación de servicios de atención médica integral, gratuita y de calidad, de conformidad con la legislación aplicable las autoridades estatales y municipales en el ámbito de sus respectivas competencias, en relación con este derecho se coordinarán a fin de:
 
 I. Reducir la morbilidad y mortalidad;
 
 II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria;
 
-III. Promover en todos los grupos de la sociedad, y en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud y la nutrición, las ventajas de la lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-IV. Adoptar medidas tendentes a la eliminación de las prácticas culturales, usos y costumbres que sean perjudiciales para su salud;
+III. Promover en todos los grupos de la sociedad, y en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, los principios básicos de la salud física, mental y la nutrición, las ventajas de la lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+IV. Adoptar medidas tendentes a la eliminación de las prácticas culturales, usos y costumbres que sean perjudiciales para su salud física y mental.
 
 V. Desarrollar la atención sanitaria preventiva, la orientación y asesoría a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y la educación, cuidados y servicios en materia de salud sexual y reproductiva, de conformidad con la Ley de Salud del Estado;
 
@@ -859,21 +867,41 @@ XIII. Prohibir, sancionar y erradicar la esterilización forzada de niñas, niñ
 
 XIV. Establecer las medidas para que en los servicios de salud se detecten y atiendan de manera especial los casos de víctimas de delitos o violaciones a sus derechos, o sujetos de violencia sexual y familiar, de conformidad con las disposiciones aplicables en la materia;
 
-XV. Instaurar medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones y para que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XV. Instaurar medidas tendentes y efectivas para la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones y para que en los servicios de salud y educativos se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental y emocional.
 
 XVI. Implantar medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevos tipos y asegurar los mayores niveles de atención y rehabilitación; y
 
 XVII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
 
-De igual forma garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+De igual forma garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud física y mental, nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
 El Sistema Estatal de Salud garantizará el cumplimiento de dicho derecho atendiendo al de prioridad, al interés superior de la niñez, igualdad sustantiva y no discriminación, asimismo establecerá Acciones Afirmativas a favor de niñas, niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+En el caso de la fracción XV, es deber de las autoridades, cuando se detecten alteraciones de palabras, gestos, conductas, pensamientos, o cualquier otro indicio sobre la existencia de problemas de salud mental, prestar atención inmediata de conformidad con lo establecido en la legislación aplicable.
+
 En todos los casos se respetará y garantizará el derecho a la intimidad y a la seguridad social de niñas, niños y adolescentes, conforme a la presente Ley, así como el derecho a la información de quienes detenten su patria potestad, tutela o guarda y custodia en relación a su estado de salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento de sus derechos.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 45 Bis.
+
+Las autoridades implementarán mecanismos de prevención y atención de manera temprana y especial sobre las adicciones, el suicidio y cualquier trastorno que implique riesgo a la salud mental en niñas, niños y adolescentes, con base en lo que establece la Ley General de Salud y la Ley de Salud Mental del Estado de Sinaloa.
+
+De igual manera, desarrollarán programas dentro de los planteles educativos que incluyan campañas, estrategias y acciones de difusión, promoción y orientación sobre el cuidado de la salud mental, a través del uso de las Tecnologías de la Información y Comunicación, conocimiento y aprendizaje digital.
+
+Dichas implementaciones deberán contar con accesibilidad y diseño universal para niñas, niños y adolescentes con discapacidades físicas, hablantes de lenguas indígenas y afrodescendientes.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 46.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deben desarrollar políticas públicas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deben desarrollar políticas públicas para fortalecer la salud física, mental y emocional, materno infantil y aumentar la esperanza de vida.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
@@ -985,9 +1013,23 @@ XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que 
 
 XIX. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
 
-XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-XXI. Instaurar Acciones Afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal.
+XX. Establecer mecanismos para fomentar el uso responsable y seguro en el acceso a las Tecnologías de la Información y Comunicación, así como de los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en cumplimiento de las disposiciones que la entidad establezca sobre la protección de la salud mental.
+
+Las autoridades educativas, en el ámbito de sus respectivas competencias deberán realizar campañas de difusión, concienciación y sensibilización con accesibilidad y diseño universal al acceso de las niñas, niños y adolescentes sobre el uso responsable del Internet y de las Tecnologías de la Información y Comunicación, así como las consecuencias y riesgos derivados del uso inadecuado de los mismos.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XXI. Instaurar Acciones Afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal, sea de modalidad presencial o virtual;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XXII. Implantar mecanismos para detectar y canalizar a los sistemas de salud correspondientes respecto de casos de niñas, niños y adolescentes que requieran atención especializada de salud mental; y
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XXIII. Efectuar acciones que brinde formación de inteligencia emocional a niñas, niños y adolescentes.
 
 ###### Artículo 52.
 
@@ -1037,9 +1079,17 @@ Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al j
 
 Quienes ejerzan su patria potestad, tutela o guarda y custodia deberán respetar el ejercicio de estos derechos, y por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+Además, deberán vigilar el uso responsable y consciente del acceso y los límites en la utilización de los aparatos electrónicos en los procesos de la vida educativa y cotidiana. Cerciorándose que el uso de las tecnologías de la información sea acorde a su edad y que garantice su desarrollo físico, emocional y social.
+
 ###### Artículo 55.
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y al esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+Para ello, podrán desarrollar campañas permanentes de sensibilización en el conocimiento y uso responsable de las tecnologías de la información que permitan el desarrollo integral en los aspectos físico, emocional y social de niñas, niños y adolescentes.
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LOS DERECHOS DE LA LIBERTAD DE CONVICCIONES ÉTICAS, PENSAMIENTO, CONCIENCIA, RELIGIÓN Y CULTURA
 
@@ -1303,11 +1353,11 @@ Niñas, Niños y Adolescentes tienen derecho de acceso a las tecnologías de la 
 
 El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 3° constitucional, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 81 Bis 1.
 
-Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables, establecidas por el Estado sobre la protección de la salud mental.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
@@ -2246,3 +2296,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 216 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
