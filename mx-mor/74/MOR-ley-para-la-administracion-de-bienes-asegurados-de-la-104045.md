@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-administracion-de-bienes-asegurados-de-la-104045"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-10"
-last_updated: "2014-12-10"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2014.
 
@@ -55,7 +55,9 @@ Los bienes que no sean asegurados, abandonados o decomisados, con motivo o duran
 
 Para los efectos de la presente Ley se entiende por:
 
-I. Bienes abandonados, aquellos cuyo propietario o interesado, previo aseguramiento del Ministerio Público, no los reclamó dentro de los plazos a que se refiere el Código Nacional, y respecto de los cuales se emita la declaración de abandono correspondiente por la autoridad competente;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+I. Bienes abandonados, aquellos cuya persona propietaria o interesada, previo aseguramiento del Ministerio Público, no los reclamó dentro de los plazos a que se refiere el Código Nacional, y respecto de los cuales se emita la declaración de abandono correspondiente por la autoridad competente;
 
 II. Bienes asegurados, aquellos que con motivo del inicio de una investigación de un hecho delictivo, sean puestos a disposición del Ministerio Público;
 
@@ -65,7 +67,9 @@ IV. Código Nacional, al Código Nacional de Procedimientos Penales;
 
 V. Fiscalía General, a la Fiscalía General del Estado de Morelos;
 
-VI. Interesado, a la persona que demuestre la titularidad de un derecho real, originario o derivado, sobre los bienes a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+VI. Persona Interesada, aquella que demuestre la titularidad de un derecho real, originario o derivado, sobre los bienes a que se refiere esta Ley;
 
 VII. Ley Orgánica, a la Ley Orgánica de la Fiscalía General del Estado de Morelos;
 
@@ -89,15 +93,19 @@ Los bienes asegurados serán administrados por la Unidad, de conformidad con la 
 
 Para la debida conservación de los bienes asegurados, se adoptarán por la Fiscalía General, las medidas posibles y necesarias, teniendo en consideración, en su caso, la naturaleza perecedera de los bienes.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 7.
 
-El personal de la Unidad, los propietarios, depositarios, interventores o administradores de los bienes a que se refiere esta Ley, durante el tiempo que dure la investigación en el procedimiento penal, están obligados a otorgar todas las facilidades para que el Ministerio Público, que así lo requiera, practique con dichos bienes todas las diligencias necesarias; asimismo, y en su caso, no podrán ejercer actos de dominio, salvo los casos expresamente señalados por las disposiciones aplicables.
+Las personas que integran la Unidad, las personas propietarias, depositarias, interventoras o administradoras de los bienes a que se refiere esta Ley, durante el tiempo que dure la investigación en el procedimiento penal, están obligados a otorgar todas las facilidades para que el Ministerio Público, que así lo requiera, practique con dichos bienes todas las diligencias necesarias; asimismo, y en su caso, no podrán ejercer actos de dominio, salvo los casos expresamente señalados por las disposiciones aplicables.
 
 ### CAPÍTULO II. DE LA UNIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-La Unidad integrará una base de datos con el registro de los bienes asegurados, decomisados o abandonados, que podrá ser consultada por la autoridad judicial, el Ministerio Público, las Fiscalías Regionales o Especializadas de la Fiscalía General, así como por los interesados, conforme a las formalidades previstas en el Reglamento.
+La Unidad integrará una base de datos con el registro de los bienes asegurados, decomisados o abandonados, que podrá ser consultada por la autoridad judicial, o las personas titulares del Ministerio Público, las Fiscalías Regionales o Especializadas de la Fiscalía General, así como por las personas interesadas, conforme a las formalidades previstas en el Reglamento.
 
 La Unidad registrará en un inventario los bienes asegurados, decomisados o abandonados, con base en el inventario que el Ministerio Público y la Policía en auxilio de aquél hayan elaborado conforme a lo dispuesto por el Código Nacional. La Unidad es responsable de la guarda y custodia de los bienes, desde el momento en que los reciba y hasta que les dé el destino previsto en la presente Ley.
 
@@ -111,11 +119,17 @@ Para el cumplimiento de su objeto, la Unidad tendrá las siguientes atribuciones
 
 I. Controlar de forma eficaz la administración de bienes asegurados, abandonados o decomisados, para su depósito en los sitios adecuados según la naturaleza de cada bien, para generar las condiciones en que fueron asegurados, con la excepción del deterioro normal por el transcurso del tiempo;
 
-II. Realizar las devoluciones de los bienes asegurados a los interesados cuando la autoridad competente así lo determine o, en su caso, resuelva su destino final, de conformidad con la normativa aplicable y la Ley;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-III. Realizar el control y resguardo de los bienes asegurados, decomisados o abandonados para mejor seguridad de estos, con apoyo del personal bajo su adscripción;
+II. Realizar las devoluciones de los bienes asegurados a las personas interesadas cuando la autoridad competente así lo determine o, en su caso, resuelva su destino final, de conformidad con la normativa aplicable y la Ley;
 
-IV. Generar y administrar un sistema que permita controlar aquellos bienes que han causado baja o hayan sido devueltos al interesado y estén registrados en la base de datos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+III. Realizar el control y resguardo de los bienes asegurados, decomisados o abandonados para mejor seguridad de estos, con apoyo de las personas trabajadoras bajo su adscripción;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+IV. Generar y administrar un sistema que permita controlar aquellos bienes que han causado baja o hayan sido devueltos a la persona interesada y estén registrados en la base de datos;
 
 V. Participar en la alimentación del Registro Público Vehicular del Sistema Nacional de Seguridad Pública, aportando los datos necesarios;
 
@@ -127,13 +141,17 @@ VIII. Supervisar que los asuntos de los bienes asegurados, se lleven a cabo conf
 
 IX. Verificar que se realice la guarda, depósito y administración de todos aquellos bienes que sean asegurados y queden a disposición del Ministerio Público, por haber sido reportados como robados, abandonados, decomisados o relacionados con algún delito;
 
-X. Supervisar, a través del personal a su cargo, que se elaboren los procedimientos y formatos para los inventarios, así como para la recepción, guarda y conservación de los bienes asegurados, de conformidad con la normativa legalmente aplicable;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+X. Supervisar, a través de las personas trabajadoras a su cargo, que se elaboren los procedimientos y formatos para los inventarios, así como para la recepción, guarda y conservación de los bienes asegurados, de conformidad con la normativa legalmente aplicable;
 
 XI. Realizar todos los actos necesarios para la recepción, registro, custodia y conservación de los bienes asegurados, de conformidad con la presente Ley;
 
 XII. Supervisar que se integre la base de datos con el registro, actualización y cancelación de los bienes asegurados, decomisados o abandonados, así como los bienes recuperados e instrumentos del delito, vinculados a las averiguaciones previas y carpetas de investigación;
 
-XIII. Supervisar, a través del personal a su cargo, que se forme y se mantenga actualizado el padrón de bienes asegurados, abandonados o decomisados con los datos sobre las denuncias y querellas presentadas, así como con la información que se proporcione por el Ministerio Público y las de otras Entidades Federativas;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+XIII. Supervisar, a través de las personas trabajadoras a su cargo, que se forme y se mantenga actualizado el padrón de bienes asegurados, abandonados o decomisados con los datos sobre las denuncias y querellas presentadas, así como con la información que se proporcione por el Ministerio Público y las de otras Entidades Federativas;
 
 XIV. Recibir los acuerdos de aseguramiento, los inventarios y los bienes que le sean puestos a su disposición por el Ministerio Público;
 
@@ -147,9 +165,11 @@ XVIII. Las demás que le confieren otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO III. DE LA DEVOLUCIÓN DE BIENES ASEGURADOS
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 11.
 
-El aseguramiento de bienes es una medida precautoria y provisional, que consiste en la privación temporal de los mismos en perjuicio del interesado, tiene por objeto servir como medio para la investigación del Ministerio Público y, en algunos casos, garantizar la reparación del daño y el cumplimiento de otras disposiciones aplicables.
+El aseguramiento de bienes es una medida precautoria y provisional, que consiste en la privación temporal de los mismos en perjuicio de la persona interesada, tiene por objeto servir como medio para la investigación del Ministerio Público y, en algunos casos, garantizar la reparación del daño y el cumplimiento de otras disposiciones aplicables.
 
 ###### Artículo 12.
 
@@ -163,23 +183,31 @@ La devolución de bienes asegurados procede:
 
 I. Durante la etapa de investigación, cuando el Ministerio Público resuelva sobre la acusación, la reserva, o se levante el aseguramiento, de conformidad con las disposiciones aplicables, y
 
-II. Durante el juicio, cuando el Juez no decrete el decomiso o levante el aseguramiento, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II. Durante el juicio, cuando la Jueza o el Juez no decrete el decomiso o levante el aseguramiento, de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 14.
 
-Si el Ministerio Público ordena la reserva de la carpeta de investigación, y no ejercita la acción penal o levanta el aseguramiento debe de notificarlo tanto al interesado como a la Unidad.
+Si la persona titular del Ministerio Público ordena la reserva de la carpeta de investigación, y no ejercita la acción penal o levanta el aseguramiento debe de notificarlo tanto a la persona interesada como a la Unidad.
 
 ### CAPÍTULO IV. DEL ABANDONO DE LOS BIENES ASEGURADOS
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-La declaración de abandono de bienes está a cargo del Juez de Control, previa solicitud del Ministerio Público en términos del Código Nacional.
+La declaración de abandono de bienes está a cargo de la Jueza o del Juez de Control, previa solicitud de la persona titular del Ministerio Público en términos del Código Nacional.
 
-Los bienes asegurados serán declarados abandonados cuando el interesado, previa notificación que se practique, no ocurra a reclamar el bien de que se trate conforme a la normativa aplicable, por lo que ante su desinterés perderá todo derecho sobre el mismo a favor del Estado.
+Los bienes asegurados serán declarados abandonados cuando la persona interesada, previa notificación que se practique, no ocurra a reclamar el bien de que se trate conforme a la normativa aplicable, por lo que ante su desinterés perderá todo derecho sobre el mismo a favor del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-La Unidad, una vez que se haya declarado abandonado un bien inmueble asegurado, llevará a cabo ante el juez competente las acciones que correspondan a efecto de que resuelva sobre el derecho de propiedad del citado bien a favor del Estado y ordene su inscripción con tal carácter ante la autoridad encargada del Registro Público de la Propiedad.
+La Unidad, una vez que se haya declarado abandonado un bien inmueble asegurado, llevará a cabo ante la jueza o el juez competente las acciones que correspondan a efecto de que resuelva sobre el derecho de propiedad del citado bien a favor del Estado y ordene su inscripción con tal carácter ante la autoridad encargada del Registro Público de la Propiedad.
 
 ### CAPÍTULO V. DEL DECOMISO DE BIENES ASEGURADOS
 
@@ -209,9 +237,11 @@ II. Compraventa, que incluye la permuta y cualesquiera otras formas jurídicas d
 
 Cualquiera de los procedimientos de enajenación a que se refieren las fracciones I y II del artículo anterior, que se celebren en contra de lo dispuesto en este Capítulo, será nulo de pleno derecho.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 21.
 
-Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en esta Ley, serán responsables por la inobservancia de sus disposiciones, conforme a lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos, sin perjuicio de las responsabilidades de otra naturaleza que correspondan.
+Las personas servidoras públicas que participen en la realización de los procedimientos de enajenación previstos en esta Ley, serán responsables por la inobservancia de sus disposiciones, conforme a lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos y la Ley de Responsabilidades Administrativas para el Estado de Morelos, sin perjuicio de las responsabilidades de otra naturaleza que correspondan.
 
 ###### Artículo 22.
 
@@ -221,9 +251,11 @@ La enajenación de bienes abandonados se realizará preferentemente a través de
 
 Los bienes abandonados o decomisados pueden ser donados por el Estado, en casos excepcionales, conforme a lo previsto en la Ley General de Bienes del Estado de Morelos y demás normativa aplicable.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 24.
 
-La compraventa de los bienes a que se refiere esta Ley, además de las formalidades exigidas por la Ley General de Bienes del Estado de Morelos, en su caso, deberá observar en lo aplicable y supletoriamente lo previsto para los remates en el Código Procesal Civil para el Estado Libre y Soberano de Morelos. Los bienes pasarán al adquirente libre de gravamen.
+La compraventa de los bienes a que se refiere esta Ley, además de las formalidades exigidas por la Ley General de Bienes del Estado de Morelos, en su caso, deberá observar en lo aplicable y supletoriamente lo previsto para los remates en el Código Procesal Civil para el Estado Libre y Soberano de Morelos. Los bienes pasarán a la persona adquirente libre de gravamen.
 
 ###### Artículo 25.
 
@@ -233,9 +265,13 @@ La Unidad será la encargada de auxiliar a la autoridad competente en las gestio
 
 Quedan excluidos para participar como adquirentes en alguno de los procedimientos de enajenación previstos en la presente Ley, las siguientes personas:
 
-I. Los servidores públicos, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
 
-II. Quienes hayan sido declaradas en quiebra o concurso.
+I. Las personas servidoras públicas, y
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+II. Personas que hayan sido declaradas en quiebra o concurso.
 
 Para el caso de la fracción I de este artículo, la prohibición se extenderá al cónyuge, concubina o concubinario, parientes consanguíneos o por afinidad hasta el cuarto grado o cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que formen parte las personas aquí señaladas.
 
@@ -249,9 +285,11 @@ La Unidad podrá llevar a cabo la destrucción de los bienes abandonados o decom
 
 En los casos de productos, objetos o substancias que se encuentren en evidente estado de descomposición, adulteración o contaminación, que no los hagan aptos para ser consumidos o que puedan resultar nocivos para la salud de las personas, deberá darse intervención inmediata a las autoridades sanitarias para que dentro del ámbito de sus respectivas competencias, autoricen la destrucción de dichos bienes.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 29.
 
-En todos los casos de destrucción de bienes, se levantará acta circunstanciada por la Unidad, misma que deberá ser firmada por los que intervengan en el acto, debiéndose además observar las disposiciones de seguridad, salud, protección al medio ambiente y demás que resulten aplicables.
+En todos los casos de destrucción de bienes, se levantará acta circunstanciada por la Unidad, misma que deberá ser firmada por las personas que intervengan en el acto, debiéndose además observar las disposiciones de seguridad, salud, protección al medio ambiente y demás que resulten aplicables.
 
 ###### Artículo 30.
 
@@ -286,3 +324,15 @@ SECRETARIO DE GOBIERNO
 DR. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS TREINTA Y DOS POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUSIVO".]</small>
+
+PRIMERA. Se remite el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
