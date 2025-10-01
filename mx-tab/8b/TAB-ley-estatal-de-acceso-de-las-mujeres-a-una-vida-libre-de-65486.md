@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-65486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2024-04-03"
+last_updated: "2025-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -156,6 +156,34 @@ XXVII. Violencia de Género: Cualquier acción u omisión, basada en el género,
 XXVIII. Víctima: Mujer de cualquier edad a quien se le inflige cualquier tipo de violencia; y
 
 XXIX. Víctima Indirecta: Los hijos e hijas de la víctima.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 6 Bis.
+
+Las víctimas de cualquier tipo de violencia, que prevé esta Ley tendrán los siguientes derechos enunciativos y no limitativos, y que no se contraponen con otros derechos que pudiesen contemplarse en otras normas:
+
+I. Contar con asesoría jurídica gratuita y expedita;
+
+II. Recibir atención, información y acompañamiento médico y psicológico de forma eficiente y gratuita;
+
+III. Ser aceptada en un refugio, mientras lo necesite;
+
+IV. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+
+V. En los casos de violencia familiar, las mujeres que tengan hijos/hijas podrán acudir a los refugios con éstos;
+
+VI. No ser revictimizadas;
+
+VII. Contar con acceso a la atención integral, multidisciplinaria y trasversal en el Centro de Justicia, Empoderamiento e Igualdad para las Mujeres;
+
+VIII. Que la víctima no será obligada a participar en mecanismos de conciliación con su agresor;
+
+IX. Que las mujeres con discapacidad tendrán derecho a que los procedimientos sean accesibles y a que se realicen los ajustes de procedimiento necesarios para ello. Las mujeres sordas tendrán derecho a contar con interpretación en lengua de señas mexicana, la cual será proporcionada gratuitamente;
+
+X. Que los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia personal; y
+
+XI. Los demás señalados en esta ley y otras disposiciones legales.
 
 ###### Artículo 7.
 
@@ -1670,3 +1698,15 @@ PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su pu
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En un lapso no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones pertinentes a los Códigos y demás leyes, para armonizarlas a las disposiciones contenidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en el presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 144 POR EL QUE “SE ADICIONA EL ARTÍCULO 6 BIS, INTEGRADO POR LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X y XI DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El correspondiente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
