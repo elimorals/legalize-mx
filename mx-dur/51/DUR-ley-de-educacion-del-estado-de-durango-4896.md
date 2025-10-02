@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2025-09-14"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -195,7 +195,9 @@ IV.- Contribuir a la mejor convivencia humana, tanto por los elementos que aport
 
 V.- Impulsar una formación que contribuya al desarrollo de la democracia y al fortalecimiento de la paz, la tolerancia y el respeto a los derechos humanos;
 
-VI.- Fomentar el cuidado de la salud individual, difundiendo información sobre los daños físicos, mentales, morales y sociales que producen las adicciones a las drogas y otros tóxicos que apartan a las personas del estudio, del trabajo y de la orientación hacia una vida social saludable y productiva;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+VI.- Fomentar el cuidado de la salud individual, incluida la salud e higiene menstrual, difundiendo información sobre los daños físicos, mentales, morales y sociales que producen las adicciones a las drogas y otros tóxicos que apartan a las personas del estudio, del trabajo y de la orientación hacia una vida social saludable y productiva;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -737,17 +739,21 @@ LI.- Implementar acciones a fin de evitar el ausentismo, abandono y la deserció
 
 LII.- La Secretaría procurará la promoción de la investigación y el desarrollo de la ciencia y la tecnología, y fomentará su enseñanza, diseminación en acceso abierto y su divulgación, cuando el conocimiento científico sea financiado con recursos públicos o que haya utilizado infraestructura pública en su realización sin perjuicio de los derechos de propiedad intelectual correspondientes y de la información que, por razón de su naturaleza o decisión del autor debe reservarse.
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+LIII.- Coordinarse con las autoridades sanitarias a efecto de establecer y difundir los protocolos de salud y prevención de enfermedades, incluida la salud e higiene menstrual, mediante capacitación a padres de familia, personal administrativo y docente y alumnos sobre la aplicación de los protocolos establecidos y las prácticas de higiene escolar. Así como la instalación de comités escolares de salud e higiene, integrados por personal de la institución, padres de familia y alumnos, que tendrán por objeto formular los planes de implementación y seguimiento de los protocolos y prevención de la salud que establezcan las autoridades;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+LIV.- Realizar convenios con Universidades Públicas y Privadas, para que sus alumnos en el área de Psicología y Trabajo Social presten servicio social estudiantil en escuelas públicas de educación básica, con la intención de promover acciones de prevención en materia de salud mental de la comunidad escolar, así como de prevención de la conducta suicida,
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+LV.- Brindar asesoría, información y capacitación en materia de orientación alimentaria y nutricional a las personas encargadas de la preparación y venta de alimentos dentro de centros educativos, y
+
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-LIII.- Coordinarse con las autoridades sanitarias a efecto de establecer y difundir los protocolos de salud y prevención de enfermedades, mediante capacitación a padres de familia, personal administrativo y docente y alumnos sobre la aplicación de los protocolos establecidos y las prácticas de higiene escolar. Así como la instalación de comités escolares de salud e higiene, integrados por personal de la institución, padres de familia y alumnos, que tendrán por objeto formular los planes de implementación y seguimiento de los protocolos y prevención de la salud que establezcan las autoridades;
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
-
-LIV.- Realizar convenios con Universidades Públicas y Privadas, para que sus alumnos en el área de Psicología y Trabajo Social presten servicio social estudiantil en escuelas públicas de educación básica, con la Intención de promover acciones de prevención en materia de salud mental de la comunidad escolar, así como de prevención de la conducta suicida, y
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
-
-LV.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+LVI.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2023)</small>
 
@@ -3422,3 +3428,19 @@ P.O. 14 DE SEPTIEMBRE DE 2025.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 191 POR EL QUE SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 9 Y LA FRACCIÓN LIII DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 192 QUE CONTIENE REFORMA A LA FRACCIÓN LIV Y SE ADICIONA UNA FRACCIÓN LV, RECORRIÉNDOSE LA ANTERIOR PARA PASAR A SER LA FRACCIÓN LVI DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE ALIMENTACIÓN SALUDABLE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
