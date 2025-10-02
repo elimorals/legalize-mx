@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2025-07-11"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -151,7 +151,9 @@ Las dependencias y entidades referidas en el artículo anterior, pueden celebrar
 
 Para los efectos de esta Ley se entiende por:
 
-I. Asistencia social: conjunto de acciones dirigidas a modificar y mejorar las capacidades físicas, mentales y situación social de grupos de población vulnerable, que por su condición de desventaja, abandono o desprotección física, mental, jurídica o social, no cuentan con las condiciones necesarias para procurar por sí mismos, su bienestar bio-psico social;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+I. Asistencia social: conjunto de acciones dirigidas a modificar y mejorar las capacidades físicas, mentales y situación social de grupos de atención prioritaria, que por su condición de desventaja, abandono o desprotección física, mental, jurídica o social, no cuentan con las condiciones necesarias para procurar por sí mismos, su bienestar bio- psico social;
 
 II. Autoridad federal en la materia: INAPAM y las demás que estén relacionadas con la materia;
 
@@ -201,7 +203,9 @@ XX BIS. Personas en situación de vulnerabilidad: los núcleos de población que
 
 XXI. SHF: Sociedad Hipotecaria Federal;
 
-XXII. Subsidios: recursos públicos que se asignan para el desarrollo de actividades prioritarias de interés general, para apoyar a organismos o instituciones no gubernamentales; proporcionar servicios básicos; promover la cultura; la investigación; fomentar la producción, la inversión, la innovación tecnológica; la generación de empleos o el uso de una nueva maquinaria; compensar costos de producción, de distribución u otros, siempre y cuando su finalidad básica consista en el combate a la pobreza extrema; la atención a zonas marginadas y grupos vulnerables; el rescate de sectores productivos, o la seguridad pública de los habitantes del Estado;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+XXII. Subsidios: recursos públicos que se asignan para el desarrollo de actividades prioritarias de interés general, para apoyar a organismos o instituciones no gubernamentales; proporcionar servicios básicos; promover la cultura; la investigación; fomentar la producción, la inversión, la innovación tecnológica; la generación de empleos o el uso de una nueva maquinaria; compensar costos de producción, de distribución u otros, siempre y cuando su finalidad básica consista en el combate a la pobreza extrema; la atención a zonas marginadas y grupos de atención prioritaria; el rescate de sectores productivos, o la seguridad pública de los habitantes del Estado;
 
 XXIII. Trabajo protegido: aquél que realizan las personas adultas mayores bajo condiciones especiales, que se presentan por limitaciones relativas a la edad o por discapacidad;
 
@@ -481,7 +485,9 @@ g) Titular de la Secretaría de Finanzas.
 
 h) Presidencias de las comisiones de, Derechos Humanos; y Salud y Asistencia Social del Congreso del Estado.
 
-i) Las presidencias de las comisiones de grupos vulnerables de los ayuntamientos, que representen a cada una de las cuatro regiones del Estado.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+i) Las presidencias de las comisiones de grupos de atención prioritaria de los ayuntamientos, que representen a cada una de las cuatro regiones del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -1123,7 +1129,9 @@ I. Ser mexicano, y haber residido durante los últimos tres años en el Estado d
 
 II. Ser Licenciado en Derecho, con título debidamente registrado, con cédula profesional y cinco años mínimo de ejercicio profesional;
 
-III. Tener probada experiencia en materia de atención a grupos vulnerables;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+III. Tener probada experiencia en materia de atención a grupos de atención prioritaria;
 
 IV. (DEROGADA, P.O. 3 DE MARZO DE 2020)
 
@@ -1452,3 +1460,11 @@ P.O. 11 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO "GRUPOS VULNERABLES" POR "GRUPOS DE ATENCIÓN PRIORITARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
