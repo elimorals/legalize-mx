@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2025-06-23"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1815,7 +1815,9 @@ XVI. Realizar investigaciones y diagnósticos en materia económica, social, cul
 
 XVII. Proponer a la autoridad municipal y comprometer que privilegie la adopción de medidas para el ejercicio de los derechos de protección y asistencia a la familia, a la alimentación, a la vivienda, a la salud, a la educación, a la cultura y a un medio ambiente sano, a partir de un mínimo universal existente que registre avances y nunca retrocesos;
 
-XVIII. Promover los derechos de la niñez, de los adolescentes, de la mujer, de los adultos mayores, de las personas con discapacidad, de los indígenas, y de todos los grupos vulnerables, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+XVIII. Promover los derechos de la niñez, de los adolescentes, de la mujer, de los adultos mayores, de las personas con discapacidad, de los indígenas y de todos los grupos de atención prioritaria, y
 
 XIX. Las demás que les confiera esta Ley y otras disposiciones legales.
 
@@ -2487,7 +2489,9 @@ V. Panteones;
 
 VI. Rastros;
 
-VII. Calles, parques y jardines, y su equipamiento;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+VII. Calles, parques y jardines, y su equipamiento, incluyendo preferentemente la instalación de centros de hidratación;
 
 VIII. Seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito;
 
@@ -3632,3 +3636,19 @@ P.O. 23 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0263.- QUE REFORMA EL ARTÍCULO 141, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
