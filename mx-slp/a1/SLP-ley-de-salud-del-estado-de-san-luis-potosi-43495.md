@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2025-07-03"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -189,9 +189,9 @@ En los términos de la Ley General de Salud, y de la presente Ley, corresponde a
 
 A. En materia de salubridad general:
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
 
-I. La atención médica, expedita y de calidad, preferentemente en beneficio de grupos vulnerables, de las niñas y niños maltratados, personas con discapacidad, adultas mayores, así como de las mujeres víctimas de violencia de género y de las víctimas de trata de personas;
+I. La atención médica, expedita y de calidad, preferentemente en beneficio de grupos de atención prioritaria, de las niñas y niños maltratados, personas con discapacidad, adultas mayores, así como de las mujeres víctimas de violencia de género y de las víctimas de trata de personas;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -555,9 +555,9 @@ La Secretaría de Salud del Estado podrá celebrar convenios con los gobiernos d
 
 Corresponde a los Servicios de Salud de San Luis Potosí, en materia de salubridad general:
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
 
-I. La atención médica, expedita y de calidad, preferentemente en beneficio de grupos vulnerables, de niñas y niños maltratados, personas con discapacidad, personas adultas mayores, así como víctimas de violencia de género y de trata de personas;
+I. La atención médica, expedita y de calidad, preferentemente en beneficio de grupos de atención prioritaria, de niñas y niños maltratados, personas con discapacidad, personas adultas mayores, así como víctimas de violencia de género y de trata de personas;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -599,9 +599,9 @@ XII. La prevención y el control de los efectos nocivos de los factores ambienta
 
 XIII. El control sanitario de los bienes y servicios contenidos en las fracciones XXI, XXII, XXIII, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXV contenidas en el Apartado A del artículo 5º. de esta Ley;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
 
-XIV. La coordinación con las autoridades municipales para implementar brigadas médicas, mismas que, en la medida de sus posibilidades presupuestales, recorrerán cada tres meses las comunidades más alejadas de los centros de salud, con el fin de atender y proporcionar los medicamentos del cuadro básico de salud, así como difundir medidas de prevención para generar estilos de vida saludables, privilegiando a los grupos vulnerables de dichas comunidades;
+XIV. La coordinación con las autoridades municipales para implementar brigadas médicas, mismas que, en la medida de sus posibilidades presupuestales, recorrerán cada tres meses las comunidades más alejadas de los centros de salud, con el fin de atender y proporcionar los medicamentos del cuadro básico de salud, así como difundir medidas de prevención para generar estilos de vida saludables, privilegiando a los grupos de atención prioritaria de dichas comunidades;
 
 > <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
 
@@ -801,31 +801,49 @@ II. De salud pública, y
 
 III. De asistencia social.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2025)</small>
 
-###### ARTICULO 23.
+###### ARTÍCULO 23.
 
-Conforme a las prioridades establecidas del Sistema Estatal de Salud, se implementará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+Conforme a las prioridades establecidas del Sistema Estatal de Salud, se implementará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos de atención prioritaria.
 
-Se entiende por grupos vulnerables los integrados por las siguientes personas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE OCTUBRE DE 2025)</small>
+
+Se entiende por grupos de atención prioritaria, los integrados por las siguientes personas:
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
 I. Niñas, niños y adolescentes en estado de abandono, desamparo, desnutrición, o sujetas a maltrato;
 
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
 II. Niñas y niños en conflicto con la ley penal, en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
 III. Mujeres en periodo de gestación o lactancia;
 
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
 IV. Personas adultas mayores de sesenta años de edad en desamparo, discapacidad, marginación o sujetos a maltrato;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
 V. Personas con discapacidad;
 
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
 VI. Personas en estado de indigencia;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
 VII. Personas víctimas de la comisión de delitos en estado de abandono;
 
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
 VIII. Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
 IX. Personas en condiciones de pobreza y marginación;
 
@@ -891,7 +909,9 @@ VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud
 
 IX. La promoción de un estilo de vida saludable;
 
-X. La asistencia social a los grupos más vulnerables;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+X. La asistencia social a los grupos de atención prioritaria;
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
@@ -1985,17 +2005,27 @@ La Secretaría de Salud del Estado, dentro del ámbito de su competencia, y en l
 
 I. Establecer un sistema permanente de vigilancia de los trastornos de la conducta alimentaria;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE OCTUBRE DE 2025)</small>
 
-II. Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables, para ello promoverá la celebración de convenios de colaboración con:
+II. Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos de atención prioritaria, para ello promoverá la celebración de convenios de colaboración con:
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
 a) Instituciones del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
 b) Municipios.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
 c) Locatarios de centrales de abasto.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
 d) Mercados fijos, y sobre ruedas.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
 Lo anterior, para el adecuado manejo de alimentos perecederos en buen estado, que pudieran ver mermadas sus cualidades alimenticias por el trascurso del tiempo;
 
@@ -2049,7 +2079,9 @@ VIII. Capacitar al personal del sector salud, con la finalidad de que detecten l
 
 IX. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres;
 
-X. Elaborar un expediente de la víctima que contenga datos desagregados por edad y sexo, tipo de violencia que sufre y todos aquéllos que lleven a atender debidamente a los grupos vulnerables y a llevar un registro, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+X. Elaborar un expediente de la víctima que contenga datos desagregados por edad y sexo, tipo de violencia que sufre y todos aquéllos que lleven a atender debidamente a los grupos de atención prioritaria y a llevar un registro, y
 
 XI. Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -2469,9 +2501,9 @@ Las autoridades sanitarias del Estado se coordinarán con las autoridades federa
 
 I. La prevención y el tratamiento del alcoholismo y la rehabilitación de los alcohólicos;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
 
-II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigidas especialmente a grupos escolares, familiares, así como a los grupos más vulnerables, a través de métodos individuales, sociales o de comunicación masiva;
+II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigidas especialmente a grupos escolares, familiares, así como a los grupos de atención prioritaria, a través de métodos individuales, sociales o de comunicación masiva.
 
 > <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
@@ -5080,3 +5112,11 @@ P.O. 3 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
