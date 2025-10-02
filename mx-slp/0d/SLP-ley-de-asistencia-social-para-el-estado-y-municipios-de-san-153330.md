@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-153
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-20"
-last_updated: "2025-06-23"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de diciembre de 2021.
 
@@ -853,7 +853,9 @@ IV. Acudir a las reuniones de trabajo que convoque el DIF Estatal;
 
 V. Informar, para efectos de una adecuada coordinación, informar según se convenga, sobre el avance de los programas institucionales al DIF Estatal;
 
-VI. Promover la participación del DIF municipal con los representantes de las dependencias públicas, federales y estatales en su municipio, y con instituciones privadas en tareas asistenciales y a favor de grupos vulnerables;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+VI. Promover la participación del DIF municipal con los representantes de las dependencias públicas, federales y estatales en su municipio, y con instituciones privadas en tareas asistenciales y a favor de grupos de atención prioritaria;
 
 VII. Gestionar recursos ante instituciones públicas y privadas;
 
@@ -1208,3 +1210,11 @@ P.O. 23 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA””.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
