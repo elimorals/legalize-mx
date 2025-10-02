@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2025-07-03"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -441,7 +441,9 @@ XXXV. Comunicar a la Oficialía correspondiente y a la Dirección, del acto asen
 
 XXXVI. Supervisar el trabajo que desempeñe el personal administrativo y asistir obligatoriamente a los cursos de capacitación y actualización, que organice y sean impartidos por la Dirección;
 
-XXXVII. Realizar los registros cuyos derechos, hubiesen sido objeto de estímulos y subsidios administrativos, mediante la resolución que puede ordenar solamente el ejecutivo del Estado en los términos de las disposiciones legalmente aplicables, así como realizar los registros cuyos derechos hubieren sido eximidos de pago por la Dirección en apoyo a los programas de asistencia social y demás que se puedan implementar por las instancias competentes en beneficio de los grupos o sectores más vulnerables en la entidad;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+XXXVII. Realizar los registros cuyos derechos, hubiesen sido objeto de estímulos y subsidios administrativos, mediante la resolución que puede ordenar solamente el ejecutivo del Estado en los términos de las disposiciones legalmente aplicables, así como realizar los registros cuyos derechos hubieren sido eximidos de pago por la Dirección en apoyo a los programas de asistencia social y demás que se puedan implementar por las instancias competentes en beneficio de los grupos de atención prioritaria en la entidad;
 
 XXXVIII. Proporcionar información referente a los procedimientos administrativos de aclaración de actas del estado civil y registros extemporáneos;
 
@@ -1762,3 +1764,11 @@ P.O. 3 DE JULIO DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO "GRUPOS VULNERABLES" POR "GRUPOS DE ATENCIÓN PRIORITARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
