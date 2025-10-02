@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2025-07-04"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -531,11 +531,11 @@ XII. Impulsar la creación de circuitos que acerquen actividades de animación y
 
 XIII. Establecer el acceso gratuito a los museos un día a la semana, que será los domingos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2025)</small>
 
 ## TITULO CUARTO
 
-LA DESCENTRALIZACION CULTURAL HACIA LOS MUNICIPIOS DEL ESTADO; DE LA CULTURA POPULAR E INDIGENA; DE LA ATENCION Y EL DESARROLLO CULTURAL PARA GRUPOS VULNERABLES; Y DE LAS NIÑAS, NIÑOS, JOVENES Y PERSONAS ADULTAS MAYORES
+DESCENTRALIZACION CULTURAL HACIA LOS MUNICIPIOS DEL ESTADO; CULTURA POPULAR E INDIGENA; ATENCION Y DESARROLLO CULTURAL PARA GRUPOS DE ATENCIÓN PRIORITARIA; NIÑOS, JOVENES Y PERSONAS ADULTAS MAYORES
 
 ### CAPITULO I. De la Descentralización Cultural Municipal
 
@@ -601,15 +601,21 @@ IX. Promover programas que propicien el desarrollo cultural de los pueblos indí
 
 X. Así como aquellas acciones y propuestas que surjan para complementar este listado.
 
-### CAPITULO III. De la Atención y el Desarrollo Cultural para Grupos Vulnerables
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+### CAPITULO III. Atención y el Desarrollo Cultural para Grupos de Atención Prioritaria
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 26.
 
-Para efectos de esta Ley se entiende por grupos vulnerables, aquéllos que establece la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, enunciados específicamente como grupos: en situación especialmente difícil; en riesgo; en estado de abandono; o en estado de desventaja social.
+Para efectos de esta Ley se entiende por grupos de atención prioritaria, aquéllos que establece la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, enunciados específicamente como grupos: en situación especialmente difícil; en riesgo; en estado de abandono; o en estado de desventaja social.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 27.
 
-Las autoridades encargadas de aplicar la presente Ley tendrán la responsabilidad de garantizar el acceso de los grupos vulnerables, a los bienes y servicios culturales. Por ello, independientemente de las atribuciones específicas de cada autoridad en materia de atención a grupos vulnerables, éstas deberán tomar en cuenta las particularidades de cada uno de éstos, para poder implementar las actividades y programas de formación, y difusión cultural y artística, descritos en esta Ley.
+Las autoridades encargadas de aplicar la presente Ley tendrán la responsabilidad de garantizar el acceso de los grupos de atención prioritaria, a los bienes y servicios culturales. Por ello, independientemente de las atribuciones específicas de cada autoridad en materia de atención a grupos de atención prioritaria, éstas deberán tomar en cuenta las particularidades de cada uno de éstos, para poder implementar las actividades y programas de formación, y difusión cultural y artística, descritos en esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 2025)</small>
 
@@ -785,9 +791,9 @@ V. Los programas y acciones que promuevan la formación y capacitación artísti
 
 VI. Los programas y acciones dirigidos a la creación y formación de públicos;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025 )</small>
 
-VII. Los programas y acciones dirigidos al desarrollo cultural de niñas, niños y jóvenes, personas adultas mayores, personas con discapacidad y grupos vulnerables;
+VII. Los programas y acciones dirigidos al desarrollo cultural de niños y jóvenes, personas adultas mayores, personas con discapacidad y grupos de atención prioritaria;
 
 VIII. Los programas y acciones destinados al fomento a la lectura y al libro;
 
@@ -960,3 +966,11 @@ P.O. 4 DE JULIO DE 2025.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA”".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
