@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2025-05-08"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -651,9 +651,11 @@ El turismo social comprende todos aquellos programas, mecanismos y acciones que 
 
 La Secretaría podrá concertar acuerdos con los prestadores de servicios turísticos para lograr una oferta razonable de paquetes, planes y circuitos turísticos a precios y condiciones adecuadas, que fortalezcan el desarrollo del turismo social.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
+
 ###### ARTICULO 44.
 
-La Secretaría concertará con los sectores social y privado su participación en programas, que hagan posible el cumplimiento de los objetivos turísticos en beneficio de los diferentes sectores que integran la población en general, y desarrollará en conjunto con el sector privado y social, acciones específicas para la atención de los grupos vulnerables.
+La Secretaría concertará con los sectores social y privado su participación en programas, que hagan posible el cumplimiento de los objetivos turísticos en beneficio de los diferentes sectores que integran la población en general, y desarrollará en conjunto con el sector privado y social, acciones específicas para la atención de los grupos de atención prioritaria.
 
 ###### ARTICULO 45.
 
@@ -1620,3 +1622,11 @@ P.O. 8 DE MAYO DE 2025.
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO "GRUPOS VULNERABLES" POR "GRUPOS DE ATENCIÓN PRIORITARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
