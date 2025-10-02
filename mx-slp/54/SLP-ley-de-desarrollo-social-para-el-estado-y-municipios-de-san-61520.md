@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2025-06-23"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -553,7 +553,9 @@ I. Al combate a la marginación social, a través de la educación, la salud, la
 
 II. Al combate a la pobreza y la desigualdad social, a través del fomento de la economía del sector social, y la generación de empleo e ingreso, autoempleo y capacitación, así como del desarrollo regional;
 
-III. A favorecer el desarrollo humano, a través del fomento a la cultura, la promoción del deporte, la atención de grupos vulnerables y el cuidado del medio ambiente;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+III. A favorecer el desarrollo humano, a través del fomento a la cultura, la promoción del deporte, la atención de grupos de atención prioritaria y el cuidado del medio ambiente;
 
 IV. Al desarrollo local, a través del trabajo directo con las familias para el desarrollo de sus capacidades, la dotación de infraestructura social básica, y el desarrollo de actividades productivas;
 
@@ -992,3 +994,11 @@ P.O. 23 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA””.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
