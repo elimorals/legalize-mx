@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2025-05-08"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,25 @@ state: "SLP"
 ---
 # LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE INGRESOS DEL MUNICIPIO DE SANTA ELENA, YUCATÁN, PARA EL EJERCICIO FISCAL 2021
+LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
-Ley publicada en el Suplemento del Número 34371 del Diario Oficial del Estado de Yucatán, el martes 29 de diciembre de 2020.
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
-(NOTA: EL 23 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+DECRETO 744
+
+LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
+
+EXPOSICION DE MOTIVOS
+
+[...]
+
+Todo lo expuesto, conforme a las circunstancias que adquiere el turismo como sector prioritario para favorecer la inversión pública y privada, es congruente con los avances de la tecnología y las exigencias ciudadanas de mejorar el servicio turístico que promueven las instituciones públicas, concentrando su objetivo, en favorecer una mejor prestación del mismo a las personas que desean hacer de San Luis Potosí, un remanso y punto de llegada.
+
+LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI
 
 ## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -77,7 +87,13 @@ III. Atlas turístico: es el registro sistemático de carácter público de todo
 
 IV. Consejo consultivo estatal: el Consejo integrado por representantes de los prestadores de los servicios turísticos; las dependencias involucradas en el sector turístico; la Comisión de Fomento al Turismo del Congreso del Estado a través de su presidencia y las demás dependencias y entidades federales y municipales que determine esta ley y las que el Consejo acuerde;
 
-V. Consejos consultivos regionales municipales: son aquéllos que estarán integrados por uno o varios municipios del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+V. Consejos consultivos regionales municipales: son aquéllos que estarán integrados por los municipios distribuidos en las regiones Altiplano, Centro, Media y Huasteca del Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+V Bis. Consejos municipales: Los consejos municipales de turismo;
 
 VI. Cultura turística: el conjunto de conocimientos y valores, relativos a generar, propiciar y fortalecer la participación de las personas en la búsqueda de mejores condiciones para hacer posible la actividad turística de manera sustentable;
 
@@ -407,9 +423,27 @@ XXI. Difundir y promover en su página web institucional, las fiestas tradiciona
 
 XXII. Las demás que esta Ley y otros ordenamientos le señalen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
+
 ###### ARTICULO 10.
 
-En aquellos municipios con actividad turística significativa, los ayuntamientos podrán integrar sus propios Consejos Consultivos Turísticos, con la participación de los representantes de los sectores públicos, social y privado locales, de conformidad con la legislación aplicable y con el auxilio de la Secretaría, los que serán presididos por el presidente municipal o el funcionario que éste designe.
+Los municipios deberán establecer en el primer semestre de su gestión el consejo consultivo municipal de turismo, con el objeto de coordinar, proponer y formular las estrategias y acciones de la administración pública municipal, con el fin de lograr un desarrollo integral de la actividad turística en el municipio.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Será presidido por la persona que presida el ayuntamiento, y estará integrado por los funcionarios y representantes de la sociedad civil que éste determine, conforme a lo que establezcan las disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Los consejos consultivos municipales, a través de su representante, se coordinarán con la Secretaría para formular opiniones y propuestas respecto a cualquier problema en esta materia, en el municipio que corresponda.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Los cargos de este consejo serán honoríficos, por lo que las personas que los desempeñen no devengarán compensación alguna.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+La toma de protesta de los consejos consultivos municipales, la deberá celebrar por la persona titular de la presidencia del consejo consultivo estatal o a quien designe.
 
 ## TITULO TERCERO. DEL PROGRAMA SECTORIAL DE TURISMO; DEL SISTEMA DE INFORMACION TURISTICA; Y DEL REGISTRO ESTATAL DE TURISMO
 
@@ -517,17 +551,19 @@ La Secretaría, en coordinación con las autoridades competentes, deberá realiz
 
 La propuesta de declaratoria también deberá contener los motivos que la justifican y la delimitación geográfica de la zona.
 
-###### Artículo 27.
+###### ARTICULO 27.
 
-El cobro de los derechos por los servicios de la Unidad de Acceso a la Información que preste el Ayuntamiento se realizará de acuerdo con las siguientes tarifas:
+Las Zonas de Desarrollo Turístico Sustentable se clasificarán en:
 
-I.- Expedición de copias certificadas $ 3.00 por hoja
+I. Prioritarias: aquéllas que por sus características naturales, ecológicas, históricas o culturales, constituyan un atractivo turístico que coadyuve al crecimiento económico de una zona, o bien, aquélla que cuente con la potencialidad para desarrollar actividades turísticas, y
 
-II.- Emisión de copias simples $ 1.00 por hoja.
+II. Saturadas: aquéllas que requieran limitar el crecimiento de la actividad turística por alguna de las siguientes circunstancias:
 
-III.- Información en Discos magnéticos y C.D. $ 10.00 cada uno
+a) Por sobrepasar el límite máximo de la oferta turística que, teniendo en cuenta el número de servicios turísticos por habitante o densidad de población, se determine en el Reglamento.
 
-IV.- Información en DVD $ 10.00 cada uno.
+b) Por registrar una demanda que por su afluencia o tipo de actividad turística, genere situaciones incompatibles con el cuidado y protección del medio ambiente natural y cultural.
+
+La declaratoria de Zona de Desarrollo Turístico Saturada implicará la evaluación de la expedición de nuevas autorizaciones o permisos para prestar los servicios turísticos señalados en esta Ley, dicha declaratoria continuará vigente únicamente hasta que desaparezcan las circunstancias que hayan motivado su expedición, según declaratoria del Estado.
 
 ## TITULO QUINTO. DE LA PROFESIONALIZACION DE LA ACTIVIDAD TURISTICA
 
@@ -615,9 +651,11 @@ El turismo social comprende todos aquellos programas, mecanismos y acciones que 
 
 La Secretaría podrá concertar acuerdos con los prestadores de servicios turísticos para lograr una oferta razonable de paquetes, planes y circuitos turísticos a precios y condiciones adecuadas, que fortalezcan el desarrollo del turismo social.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
+
 ###### ARTICULO 44.
 
-La Secretaría concertará con los sectores social y privado su participación en programas, que hagan posible el cumplimiento de los objetivos turísticos en beneficio de los diferentes sectores que integran la población en general, y desarrollará en conjunto con el sector privado y social, acciones específicas para la atención de los grupos vulnerables.
+La Secretaría concertará con los sectores social y privado su participación en programas, que hagan posible el cumplimiento de los objetivos turísticos en beneficio de los diferentes sectores que integran la población en general, y desarrollará en conjunto con el sector privado y social, acciones específicas para la atención de los grupos de atención prioritaria.
 
 ###### ARTICULO 45.
 
@@ -967,7 +1005,9 @@ VII. Emitir estados financieros e informes de actividades, y
 
 VIII. En general, todas aquellas que permitan la realización de sus finalidades.
 
-## TITULO NOVENO. DEL CONSEJO CONSULTIVO ESTATAL; Y LOS CONSEJOS CONSULTIVOS REGIONALES MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE MAYO DE 2025)</small>
+
+## TITULO NOVENO. DE LOS CONSEJOS CONSULTIVOS TURÍSTICOS ESTATALES
 
 ### Capítulo I. De la Integración del Consejo Consultivo Estatal
 
@@ -979,73 +1019,123 @@ El Consejo Consultivo Estatal es un órgano auxiliar del titular del Ejecutivo, 
 
 El Consejo estará integrado de la siguiente manera:
 
-I. El Secretario de Turismo, quien lo presidirá, y contará con sus vocales que serán los representantes del sector involucrado, así como de autoridades, todos tendrán voz y voto; serán:
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-a) El representante de la Cámara de Comercio del Estado.
+I. La persona titular de la Secretaría de Turismo, quien lo presidirá;
 
-b) El representante de la Asociación de Hoteles y Moteles en el Estado.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-c) El representante de los restauranteros y alimentos condimentados en el Estado.
+II. Una secretaría técnica, que será la persona titular de la Secretaría de Desarrollo Económico, quien asistirá a las sesiones del Consejo;
 
-d) El Secretario de Comunicaciones y Transportes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE MAYO DE 2025)</small>
 
-e) El Secretario de Educación.
+III. Contará con sus vocales que serán las personas representantes del sector involucrado, así como de las autoridades, todos tendrán voz y voto, que serán:
 
-f) El Secretario de Desarrollo Urbano, Vivienda y Obras Públicas.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-g) El Secretario de Ecología y Gestión Ambiental.
+a) La persona representante de la Cámara de Comercio del Estado.
 
-h) El Secretario de Seguridad Pública.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-i) El Secretario de Cultura de San Luis Potosí.
+b) La persona representante de la Asociación de Hoteles y Moteles en el Estado.
 
-j) El Secretario de Desarrollo Agropecuario y Recursos Hidráulicos.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-k) El Secretario de Desarrollo Social y Regional.
+c) La persona representante de los restauranteros y alimentos condimentados en el Estado.
 
-l) El Director de la Junta Estatal de Caminos.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2017)</small>
+d) La persona titular de la Secretaría de Comunicaciones y Transportes.
 
-m) El director del Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-n) El Director General de Protección Civil Estatal.
+e) La persona titular de la Secretaría de Educación.
 
-ñ) El Delegado de la Secretaría de la Reforma Agraria.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-o) El Delegado de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+f) La persona titular de la Secretaría de Desarrollo Urbano, Vivienda y Obras Públicas.
 
-p) El Delegado de la Comisión Nacional del Agua.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
+g) La persona titular de la Secretaría de Ecología y Gestión Ambiental.
 
-q) El Delegado de la Secretaría de Bienestar.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-r) El Delegado de la Financiera Rural.
+h) La persona titular de la Secretaría de Seguridad Pública y Protección Ciudadana.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-s) El Delegado del Instituto Nacional de Antropología e Historia.
+i) La persona titular de la Secretaría de Cultura.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-t) El representante de la Comisión Estatal de Protección Contra Riesgos Sanitarios;
+j) La persona titular de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos.
 
-II. Un secretario técnico, que será el Secretario de Desarrollo Económico, quien asistirá a las sesiones del Consejo, con voz y voto;
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-III. El director general o su equivalente del área de la Secretaría, según el tema que se trate en la sesión;
+k) La persona titular de la Secretaría de Desarrollo Social y Regional.
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-IV. La Comisión de Fomento al Turismo del Congreso del Estado, a través de quien la presida, y
+l) La persona titular de la dirección de la Junta Estatal de Caminos.
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-V. Las demás dependencias y entidades federales y municipales que el Consejo acuerde.
+m) La persona titular de la dirección del Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí.
 
-Los cargos de este Consejo serán honoríficos, por lo que las personas que los desempeñen no devengarán compensación alguna.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
 
-Por cada integrante del Consejo Consultivo Estatal, se nombrará un suplente.
+n) La persona titular de la Coordinación Estatal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+ñ) La persona titular de la Delegación de La Secretaría de Desarrollo Agrario, Territorial y Urbano.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+o) La persona titular de la oficina de representación del Instituto Nacional de los Pueblos Indígenas en el Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+p) La persona titular de la Delegación de la Comisión Nacional del Agua.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+q) La persona titular de la Delegación de Programas Para Desarrollo en el Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+r) La persona titular del Centro del Instituto Nacional de Antropología e Historia en el Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+s) La persona titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+t) La persona titular de la Dirección General de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+u) La Comisión de Fomento al Turismo del Congreso del Estado, a través de quien la presida;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+IV. Las demás dependencias y entidades federales y municipales que el Consejo acuerde, y
+
+V. (DEROGADA, P.O. 8 DE MAYO DE 2025)
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Por cada integrante del consejo consultivo estatal, que a convocatorio de sesión de trabajo no pueda asistir, nombrará a un suplente con nivel de director o su equivalente para llevar a cabo dicha reunión.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Dicho suplente deberá presentar carta de acreditación ante la persona titular de la secretaría técnica del consejo estatal.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+El consejo consultivo estatal, sesionara de forma ordinaria por lo menos cada tres meses; y de manera extraordinaria a convocatoria de la persona que preside el consejo.
 
 ### Capítulo II. De las Atribuciones del Consejo Consultivo Estatal
 
@@ -1063,9 +1153,9 @@ IV. Establecer mecanismos de coordinación, comunicación e intercambio de Infor
 
 V. Opinar sobre la elaboración del Programa Sectorial de Turismo;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-VI. Conocer las opiniones y recomendaciones de los Consejos Consultivos Regionales Municipales, aportando los elementos que consideren necesarios para ser sometidos a la consideración del Ejecutivo;
+VI. Conocer las opiniones y recomendaciones de los consejos consultivos regionales municipales y los consejos consultivos municipales, aportando los elementos que consideren necesarios para ser sometidos a la consideración del Ejecutivo;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
@@ -1075,51 +1165,125 @@ VII. Vigilar la aplicación de los métodos de control y evaluación del servici
 
 VIII. Hacer propuestas a la Secretaría sobre el diseño y los elementos de las marcas turísticas estatal y regionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
+
 ###### ARTICULO 87.
 
-El Presidente del Consejo tendrá las siguientes atribuciones:
+La persona que presida el consejo tendrá las siguientes atribuciones:
 
 I. Representar legalmente al Consejo;
 
 II. Convocar a reunión a sus integrantes;
 
-III. Proponer el orden del día de las sesiones, y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-IV. Fungir como relator de los proyectos, solicitudes y demás asuntos que se presenten dentro del Consejo.
+III. Proponer el orden del día de las sesiones;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+IV. Fungir como relator de los proyectos, solicitudes y demás asuntos que se presenten dentro del Consejo, y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+V. Designar a la persona que presida el consejo consultivo regional municipal, así como a quien funja como secretario técnico.
 
 ### Capítulo III. De la Integración de los Consejos Consultivos Regionales Municipales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
+
 ###### ARTICULO 88.
 
-Se integrarán los consejos consultivos regionales municipales que conocerán de los aspectos técnicos y económicos, inherentes al servicio de turismo en todas sus modalidades, con el fin de emitir a las autoridades las opiniones correspondientes en dicha materia.
+Se integrarán cuatro consejos consultivos regionales municipales que conocerán de los aspectos técnicos y económicos, inherentes al servicio de turismo en todas sus modalidades, con el fin de emitir a las autoridades las opiniones correspondientes en dicha materia.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 8 DE MAYO DE 2025)</small>
+
+Dichos consejos se integrarán por los municipios que pertenezcan a su respectiva región del Estado, que son:
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+I. Región Altiplano: Que comprende los municipios de Catorce, Cedral, Charcas, Guadalcázar, Matehuala, Moctezuma, Salinas, Santo Domingo, Vanegas, Venado, Villa de Arista, Villa de Guadalupe, Villa de la Paz, Villa de Ramos y Villa Hidalgo;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+II. Región Centro: Que comprende los municipios de Ahualulco del Sonido 13, Armadillo de los Infante, Cerro de San Pedro, Mexquitic de Carmona, San Luis Potosí, Santa María del Río, Soledad de Graciano Sánchez, Tierra Nueva, Villa de Arriaga, Villa de Pozos, Villa de Reyes y Zaragoza;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+III. Región Media: Que comprende los municipios de Alaquines, Cárdenas, Cerritos, Ciudad del Maíz, Ciudad Fernández, Lagunillas, Rayón, Rioverde, San Ciro de Acosta, San Nicolás Tolentino, Santa Catarina y Villa Juárez, y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+IV. Región Huasteca: Que comprende los municipios de Aquismón, Axtla de Terrazas, Ciudad Valles, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Matlapa, San Antonio, San Martín Chalchicuautla, San Vicente Tancuayalab, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz, Tanlajás, Tanquián de Escobedo y Xilitla.
 
 ###### ARTICULO 89.
 
 El Consejo Consultivo Regional Municipal se integrará de la siguiente forma:
 
-I. Un Presidente que será designado por los presidentes municipales involucrados en el Consejo Consultivo Regional Municipal;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-II. Un secretario técnico, que será designado por los presidentes municipales involucrados en el Consejo Consultivo Regional Municipal;
+I. Las personas titulares de las presidencias municipales a que comprendan a su región;
 
-III. El director o representante de turismo municipal, designado por los presidentes municipales involucrados en el Consejo Consultivo Regional;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-IV. El delegado regional de la Secretaría, o la persona que éste designe;
+II. Una presidencia, que será designada por la persona titular de la presidencia del consejo consultivo estatal;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+III. Una secretaría técnica, que será designada por la persona titular de la presidencia del consejo consultivo estatal;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+IV. Un representante de la Secretaría que designe la persona titular de la misma;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
 V. Un representante por cada una de las cámaras de la industria, comercio, y servicios, constituidas en la región, y
 
-VI. Un representante de las instituciones educativas de la región.
+VI. (DEROGADA, P.O. 8 DE MAYO DE 2025)
 
-A invitación expresa del Presidente podrán participar en las sesiones del Consejo, los representantes de los sectores públicos y privados, estatales y municipales, y las personas que por su experiencia y conocimientos puedan aportar importante colaboración al desarrollo de los trabajos del Consejo.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
-En caso de ausencia del Presidente del Consejo, será el secretario técnico quien ejerza las atribuciones que le correspondan a aquél. El resto de los miembros del Consejo designarán a su suplente, quien fungirá como titular en caso de ausencia de éste, y deberán estar legalmente acreditados en los registros de la secretaria técnica del Consejo.
+A invitación expresa de la persona titular de la presidencia del consejo consultivo regional, podrán participar en las sesiones del consejo, los representantes de los sectores públicos y privados, educativos, estatales y municipales, y las personas que por su experiencia y conocimientos puedan aportar importante colaboración al desarrollo de los trabajos del consejo.
 
-Los consejos consultivos regionales, a través de su representante, se coordinarán con la Secretaría para formular opiniones y propuestas respecto a cualquier problema en esta materia, en la región o municipio que corresponda.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
+
+En caso de ausencia de la persona titular de la presidencia del consejo, será la secretaría técnica quien ejerza las atribuciones que le correspondan.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Los consejos consultivos regionales, a través de su representante, se coordinarán con la Secretaría para formular opiniones y propuestas respecto a cualquier problema en esta materia, en la región que corresponda.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Los cargos de este consejo serán honoríficos, por lo que las personas que los desempeñen no devengarán compensación alguna.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Por cada integrante del consejo consultivo regional municipal, que a convocatoria de sesión de trabajo no pueda asistir, nombrará a un suplente que deberá ser la persona titular de la secretaria general del ayuntamiento, o la persona titular de la dirección de turismo municipal o su equivalente, para llevar a cabo dicha reunión.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Dicho suplente deberá presentar carta de acreditación ante la persona titular de la secretaría técnico (sic) del consejo regional municipal.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+La toma de protesta de los consejos consultivos regionales, la deberá realizar la persona titular de la presidencia del consejo consultivo estatal o a quien designe.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Los consejos consultivos regionales, sesionaran de forma ordinaria por lo menos cada tres meses; y de manera extraordinaria a convocatoria de la persona que preside el consejo.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+En un plazo no mayor a quince días de la aprobación del acta de sesión, deberán remitirla a la Secretaría para su conocimiento.
 
 ### Capítulo IV. De las Funciones de los Consejos Consultivos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
+
 ###### ARTICULO 90.
 
-El Consejo Consultivo Estatal, y los consejos consultivos regionales municipales, tendrán las siguientes funciones:
+El consejo consultivo estatal, los consejos consultivos regionales municipales y los consejos consultivos municipales, tendrán las siguientes funciones:
 
 I. Analizar permanentemente las condiciones del servicio de turismo en todas sus modalidades, en el ámbito estatal, regional y municipal, proponiendo programas, estudios y acciones de carácter técnico y financiero para mejorar la prestación;
 
@@ -1450,3 +1614,19 @@ P.O. 21 DE MARZO DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 8 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0193.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 4°, 10, 85, 86, 87, 88, 89 Y 90, ASÍ COMO LA DENOMINACIÓN DEL TÍTULO NOVENO DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO "GRUPOS VULNERABLES" POR "GRUPOS DE ATENCIÓN PRIORITARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
