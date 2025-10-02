@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-y-manejo-integral-e-institucional-de-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-06"
-last_updated: "2024-04-08"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 6 de diciembre de 2013.
 
@@ -103,7 +103,9 @@ XVII. Liquidación del fuego. Es la acción mediante la cual se remueve o exting
 
 XVIII. Método de quema. Procedimiento empírico o técnico utilizado para la aplicación del fuego en la agricultura, ganadería, silvicultura, la conservación y la restauración de ecosistemas, con el fin de alcanzar objetivos específicos. Los métodos de quema son dos: que consiste en la aplicación del fuego en áreas forestales o agropecuarias mediante la utilización empírica de las características del combustible, de la topografía y de las condiciones meteorológicas, traducidas en estimación práctica del comportamiento del fuego. Se ejecuta con la utilización de equipo y herramientas para conducir y regular su magnitud. Por lo regular se realiza con experiencia práctica; y prescrita que consiste en la aplicación controlada del fuego a combustibles forestales en su estado natural o modificado, bajo condiciones ambientales específicas que llevan a confinar el fuego en un área predeterminada, y al mismo tiempo, producir una intensidad calórica y velocidad de propagación requeridas para cumplir objetivos planeados de manejo de recursos naturales, que se realiza de acuerdo a los procedimientos legales y técnicos establecidos en la presente Ley, que se efectúan en terrenos forestales, preferentemente forestales y temporalmente forestales;
 
-XIX. Plan de manejo de recursos naturales. El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo de los recursos naturales de manera sustentable. Para efectos de esta norma, el programa de manejo forestal, el programa de manejo de áreas naturales protegidas, el plan de manejo de las unidades de manejo para la conservación de vida silvestre, los planes de manejo de microcuencas y los estudios técnicos justificativos, son considerados como planes de manejo de recursos naturales;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+XIX. Plan de manejo de recursos naturales. El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo de los recursos naturales de manera sustentable. Para efectos de esta norma, el programa de manejo forestal, el programa de manejo de áreas naturales protegidas, el plan de manejo de las unidades de manejo para la conservación de vida silvestre, los planes de manejo de microcuencas, el plan operativo de manejo de fuego, el Programa Estatal de Manejo de Fuego y los estudios técnicos justificativos, son considerados como planes de manejo de recursos naturales;
 
 XX. PROFEPA. La Procuraduría Federal de Protección al Ambiente;
 
@@ -301,9 +303,15 @@ IV. Promover programas y proyectos de prevención, capacitación, investigación
 
 V. Participar en la inspección y vigilancia de prevención y combate de incendios forestales;
 
-VI. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales, sobre la prevención y combate de incendios forestales, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
 
-VII. Las demás facultades que le confieren esta Ley, y los ordenamientos legales aplicables.
+VI. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales, sobre la prevención y combate de incendios forestales;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+VII. Contar con al menos una brigada capacitada y equipada en manejo de fuego, conformadas por personal de Protección Civil Municipal y dueños o voluntarios de predios o industrias forestales, mismas que funcionaran como primer respondiente para la atención de incendios forestales, y
+
+VIII. Las demás facultades que le confieren esta Ley, y los ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
@@ -311,11 +319,11 @@ VII. Las demás facultades que le confieren esta Ley, y los ordenamientos legale
 
 Las personas titulares de las áreas de desarrollo rural, ecología y protección civil municipales, tendrán las atribuciones que señalen los ordenamientos legales aplicables; y serán los encargados de ejecutar las disposiciones que en uso de sus facultades dicten los ayuntamientos, en los términos de sus reglamentos de la materia.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 17.
 
-Para realizar cualquier tipo de quema en terrenos agrícolas, que pueda afectar terrenos forestales, preferentemente forestales, agrícolas o similares, los interesados deberán dar aviso a la autoridad municipal para obtener el permiso correspondiente. En todo caso, las quemas agrícolas deberán atenerse a lo previsto en la Norma Oficial Mexicana "NOM-015-SEMARNAT/SAGARPA-2007".
-
-La autoridad municipal deberá a su vez informar de la quema autorizada, a la SEDARH y la CONAFOR para que lleven el registro correspondiente.
+Para realizar cualquier tipo de quema en terrenos forestales, temporalmente forestales, preferentemente forestales, agropecuarios y colindantes los interesados deberán dar aviso a la autoridad municipal para obtener el permiso correspondiente y contar para ello previamente con el visto bueno de la Secretaría de Agricultura y Desarrollo Rural cuando se trate de terreno agropecuario, cuando se trate de terreno agrícola; de CONAFOR, cuando se trate de terrenos forestales, temporalmente forestales y/ (sic) preferentemente forestales; de CONANP, cuando se trate de áreas naturales protegidas federales; y, de SEGAM cuando se trate de áreas naturales protegidas estatales. En todo caso, las quemas agrícolas deberán atenerse a lo previsto en la Norma Oficial Mexicana que establece las especificaciones técnicas de métodos de uso del fuego en los terrenos forestales y en los terrenos de uso agropecuario. La autoridad municipal deberá a su vez informar de la quema autorizada, a la SEDARH y la CONAFOR para que lleven el registro correspondiente, monitoreo y en su caso el control, anexando croquis de localización, en el que se incluyan las rutas de escape presentadas por el solicitante.
 
 ###### ARTÍCULO 18.
 
@@ -463,13 +471,17 @@ II. Dos Secretarios Ejecutivos, que serán el Secretario de la SEDARH y el Direc
 
 III. Un Secretario Técnico, que será el Gerente de la Comisión Nacional Forestal en el Estado; en virtud de lo que establecen los numerales 1, 8, 11, 12 fracciones II y XVI, 123 y demás relativos y aplicables de la Ley General De Desarrollo Forestal Sustentable, y
 
-IV. Vocales, que serán los titulares o representantes de las dependencias y entidades de la administración pública estatal, y los titulares o representantes de las dependencias de la Federación comisionados en el Estado cuyas áreas de competencia se relacionen con la acciones (sic) y funciones de Prevención, Detección, Control y Combate de Incendios, así como por los representantes de las organizaciones sociales, privadas, académicas y de los grupos voluntarios en el Estado, de acuerdo con el Reglamento de la presente Ley que al efecto se expida.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+IV. Vocales, que serán los titulares o representantes de las dependencias y entidades de la administración pública estatal, el presidente de la Comisión de Desarrollo Rural y Forestal del Congreso del Estado y los titulares o representantes de las dependencias de la Federación comisionados en el Estado cuyas áreas de competencia se relacionen con la acciones y funciones de Prevención, Detección, Control y Combate de Incendios, así como por los representantes de las organizaciones sociales, privadas, académicas y de los grupos voluntarios en el Estado, de acuerdo con el Reglamento de la presente Ley que al efecto se expida.
 
 ### Capítulo II. De las Funciones del Comité
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 39.
 
-El Comité deberá reunirse cuando menos dos veces al año, y en caso extraordinario cuando se suscite algún desastre, para determinar de manera conjunta y urgente las acciones a realizar, y deberá dictar las medidas preventivas y restaurativas a que haya lugar de manera colegiada.
+El Comité deberá reunirse cuando menos tres veces al año, y en caso extraordinario cuando se suscite algún desastre, para determinar de manera conjunta y urgente las acciones a realizar, y deberá dictar las medidas preventivas y restaurativas a que haya lugar de manera colegiada.
 
 ###### ARTÍCULO 40.
 
@@ -485,9 +497,15 @@ IV. Vigilar y analizar permanentemente la aplicación de los métodos de Prevenc
 
 V. Integrar comisiones de trabajo para cubrir las necesidades que requiera la atención de los incendios forestales;
 
-VI. Tomar decisiones respecto a las tácticas, estrategias y recursos que permitan el control y combate oportunos de los incendios forestales que se presenten, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
 
-VII. Las demás atribuciones que le otorgan esta Ley y otras disposiciones aplicables, y las demás que el mismo comité determine para el cumplimiento de sus funciones.
+VI. Tomar decisiones respecto a las tácticas, estrategias y recursos que permitan el control y combate oportunos de los incendios forestales que se presenten;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+VII. Aprobar anualmente el plan operativo de manejo de fuego y el Programa Estatal de Manejo de Fuego, y
+
+VIII. Las demás atribuciones que le otorgan esta Ley y otras disposiciones aplicables, y las demás que el mismo comité determine para el cumplimiento de sus funciones.
 
 ## TÍTULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -654,5 +672,13 @@ P.O. 8 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1030.- SE REFORMAN LOS ARTÍCULOS 6º, 7º, 9º EN SU PRIMER PÁRRAFO, 11 EN SU PRIMER PÁRRAFO, 12 EN SU PRIMER PÁRRAFO, 13 EN SU PRIMER PÁRRAFO, 15 EN SU PRIMER PÁRRAFO Y 16, DE LA LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0266.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
