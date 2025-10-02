@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2025-06-23"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -81,7 +81,9 @@ XIV. Fomentar la inversión productiva y la competitividad de las empresas, gene
 
 XV. Fomentar la inversión, a través de incentivos claros y transparentes que otorguen seguridad institucional a los inversionistas, fortaleciendo la competitividad de las actuales empresas instaladas, y facilitando el establecimiento de nuevas fuentes de trabajo que generen empleos más estables, mejor remunerados y de un alto grado de especialización;
 
-XVI. Estimular las inversiones aprovechando racionalmente los recursos naturales y en apego a la normatividad vigente en materia ecológica, respetando la equidad de género y los grupos vulnerables;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+XVI. Estimular las inversiones aprovechando racionalmente los recursos naturales y en apego a la normatividad vigente en materia ecológica, respetando la equidad de género y los grupos de atención prioritaria;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
@@ -1216,3 +1218,11 @@ P.O. 23 DE JUNIO DE 2025.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
