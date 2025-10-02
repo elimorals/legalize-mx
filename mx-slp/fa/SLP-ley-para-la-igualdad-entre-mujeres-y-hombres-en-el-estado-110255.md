@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-11025
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-12"
-last_updated: "2025-06-23"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de septiembre de 2015.
 
@@ -249,9 +249,9 @@ Corresponde al Poder Judicial del Estado, con base en los principios y disposici
 
 I. Implementar mecanismos y acciones encaminadas a promover y garantizar la igualdad en el acceso y promoción de las y los funcionarios judiciales, en la carrera judicial;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
 
-II. Capacitar a jueces y al personal judicial, en materia de derechos humanos, derechos específicos de personas y grupos considerados vulnerables, en teoría de género, y en los mecanismos de administración de justicia con perspectiva de género;
+II. Capacitar a jueces y al personal judicial, en materia de derechos humanos, derechos específicos de personas y grupos de atención prioritaria, en teoría de género, y en los mecanismos de administración de justicia con perspectiva de género;
 
 III. (DEROGADA, P.O. 24 DE MARZO DE 2020)
 
@@ -1010,3 +1010,11 @@ P.O. 23 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO "GRUPOS VULNERABLES" POR "GRUPOS DE ATENCIÓN PRIORITARIA"."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
