@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-y-erradicar-la-discriminacion-para-el-70496"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2023-07-05"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -53,9 +53,11 @@ Esta Ley es de orden público, interés social y de observancia general, que baj
 
 El objeto de la presente Ley es prevenir y erradicar toda forma de discriminación, que se ejerza o se pretenda ejercer en contra (sic) cualquier persona que se encuentre dentro del territorio del Estado; así como promover la igualdad de oportunidades y de trato, a efecto de que éstas sean reales, efectivas y permanentes.
 
-###### ARTICULO 3°.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
 
-En la interpretación de esta Ley se deberán tomar en cuenta las disposiciones contenidas en, la Constitución Política de los Estados Unidos Mexicanos, en la propia del Estado, en la Declaración Universal de los Derechos Humanos, en el Pacto Internacional de Derechos Civiles y Políticos, en la Convención Americana sobre Derechos Humanos, en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales especializados. En todo caso, se deberá favorecer el principio de protección eficaz de las personas o grupos vulnerables.
+###### ARTÍCULO 3°.
+
+En la interpretación de esta Ley se deberán tornar (sic) en cuenta las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos, en la propia del Estado, en la Declaración Universal de los Derechos Humanos, en el Pacto –Internacional de Derechos Civiles y Políticos, en la Convención Americana sobre derechos Humanos, en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales especializados. En todo caso, se deberá favorecer el principio de protección eficaz de las personas o grupos de atención prioritaria.
 
 ###### ARTICULO 4°.
 
@@ -388,3 +390,11 @@ P.O. 5 DE JULIO DE 2023.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO "GRUPOS VULNERABLES" POR "GRUPOS DE ATENCIÓN PRIORITARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
