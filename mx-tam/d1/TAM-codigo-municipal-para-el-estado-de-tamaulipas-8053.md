@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2025-03-06"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -2603,13 +2603,17 @@ Por ingresos compartidos deben entenderse todos aquellos a los que tenga derecho
 
 El gasto público municipal, comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública que realice el Ayuntamiento y los organismos o empresas paramunicipales.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 151.
 
-El proceso de planeación, programación y presupuestación, tiene como finalidad orientar el gasto público a la atención de lo prioritario, tomando en cuenta los objetivos, metas y estrategias contenidos en el Plan Municipal de Desarrollo y los programas que de él deriven.
+El proceso de planeación, programación y presupuestación, tiene como finalidad orientar el gasto público a la atención de lo prioritario, tomando en cuenta los objetivos, metas y estrategias contenidos en el Plan Municipal de Desarrollo y los programas que de él deriven. El Ayuntamiento procurará priorizar la prestación de los servicios públicos que sean de su competencia exclusiva conforme a las disposiciones constitucionales y legales aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 Los recursos se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 Para la creación de reservas territoriales que permitan el desarrollo urbano del Municipio, de conformidad con la estrategia presupuestal del Ayuntamiento, se destinará hasta el 1% del presupuesto de egresos para la adquisición de dichas reservas.
 
@@ -7216,6 +7220,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-255 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXI, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL, AL ARTÍCULO 64, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-468 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 151, PÁRRAFO PRIMERO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
