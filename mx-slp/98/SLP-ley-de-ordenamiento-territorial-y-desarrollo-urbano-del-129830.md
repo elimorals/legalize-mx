@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2024-06-14"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -399,7 +399,9 @@ VI. Desarrollo local: promover el proceso de crecimiento económico y cambio est
 
 VII. Equidad e inclusión: garantizar el ejercicio pleno de derechos en condiciones de igualdad, promoviendo la cohesión social a través de medidas que impidan la discriminación, segregación o marginación de individuos o grupos. Promover el respeto de los derechos de los grupos vulnerables, la perspectiva de género y que todos los habitantes puedan decidir entre una oferta diversa de suelo, viviendas, servicios, equipamientos, infraestructura y actividades económicas de acuerdo a sus preferencias, necesidades y capacidades;
 
-VIII. Habitabilidad urbana: asegurar las condiciones de vida digna en los asentamientos humanos y en la vivienda para toda la población, y propiciar oportunidades para el desarrollo de sus habitantes;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+VIII. Equidad e inclusión: garantizar el ejercicio pleno de derechos en condiciones de igualdad, promoviendo la cohesión social a través de medidas que impidan la discriminación, segregación o marginación de individuos o grupos. Promover el respeto de los derechos de los grupos de atención prioritaria, la perspectiva de género y que todos los habitantes puedan decidir entre una oferta diversa de suelo, viviendas, servicios, equipamientos, infraestructura y actividades económicas de acuerdo a sus preferencias, necesidades y capacidades;
 
 IX. Participación democrática y transparencia: proteger el derecho de todas las personas a participar en la formulación, seguimiento y evaluación de las políticas y programas que determinan el desarrollo de las ciudades y el territorio. Para lograrlo se garantizará la transparencia y el acceso a la información pública de conformidad con lo dispuesto en la presente Ley y demás legislación aplicable en la materia;
 
@@ -5109,7 +5111,9 @@ II. El flujo vehicular y de transporte generado por el desarrollo habitacional d
 
 III. Contribuir a la permeabilidad urbana y a la comunicación peatonal y vehicular mediante una traza pública que cumpla con el espaciamiento establecido en las disposiciones reglamentarias aplicables;
 
-IV. El diseño urbano y de edificaciones deberá considerar los elementos que contribuyen a la seguridad de las personas, en especial de grupos vulnerables, como pueden ser la incentivación del uso del espacio público y la vialidad de forma que los mismos habitantes al transitar puedan vigilar; el uso de medios de registro visual; evitar la generación de espacios sin uso y de muros ciegos hacia la vía pública, y alumbrado suficiente;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+IV. El diseño urbano y de edificaciones deberá considerar los elementos que contribuyen a la seguridad de las personas, en especial de grupos de atención prioritaria, como pueden ser la incentivación del uso del espacio público y la vialidad de forma que los mismos habitantes al transitar puedan vigilar; el uso de medios de registro visual; evitar la generación de espacios sin uso y de muros ciegos hacia la vía pública, y alumbrado suficiente;
 
 V. Se promoverá el espacio digno de banquetas y andadores que propicien los traslados peatonales;
 
@@ -7102,3 +7106,11 @@ P.O. 14 DE JUNIO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
