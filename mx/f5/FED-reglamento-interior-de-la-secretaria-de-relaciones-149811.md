@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-relaciones-149811"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-06-14"
-last_updated: "2023-09-21"
+last_updated: "2025-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2021-06-09"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE RELACIONES EXTERIORES, PUBLICADO EN EL D.O.F. DE 2 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE RELACIONES EXTERIORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE OCTUBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 14 de junio de 2021.
 
@@ -3102,3 +3104,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado de la Secretaría de Relaciones Exteriores, mediante movimientos compensados, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE RELACIONES EXTERIORES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Relaciones Exteriores, publicado el 14 de junio de 2021 en el Diario Oficial de la Federación, así como el Acuerdo por el que se adscriben orgánicamente las unidades administrativas a que se refiere el Reglamento Interior de la Secretaría de Relaciones Exteriores publicado en el Diario Oficial de la Federación el 20 de agosto de 2021.
+
+TERCERO. Las disposiciones administrativas que fueron expedidas con base en el reglamento que se abroga, continuarán vigentes en lo que no se opongan y en tanto no se abroguen o deroguen expresamente.
+
+CUARTO. Las menciones y atribuciones contenidas en otros reglamentos, decretos, acuerdos, reglas, manuales y, en general, en cualquier disposición administrativa, respecto de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Relaciones Exteriores que desaparecen o modifican su denominación o atribuciones por virtud del presente decreto, se entenderán referidas o conferidas a aquellas unidades y órganos que asuman dichas funciones o atribuciones conforme a este ordenamiento.
+
+QUINTO. Los asuntos que se encuentren en trámite ante las unidades administrativas u órganos administrativos desconcentrados de la Secretaría de Relaciones Exteriores, cuyas atribuciones se transfieran a otras unidades administrativas u órganos administrativos desconcentrados de esta, serán atendidos y resueltos por las unidades administrativas y órganos administrativos desconcentrados que adquieren la competencia, de conformidad con las disposiciones que se encuentran vigentes al momento de iniciar el trámite correspondiente.
+
+SEXTO. La Secretaría de Relaciones Exteriores tendrá ciento ochenta días hábiles, a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que correspondan a los instrumentos jurídicos relacionados con la apertura, suspensión o cierre de Oficinas Estatales y Municipales de Enlace, así como los manuales de organización, de procedimientos y de servicios al público.
+
+SÉPTIMO. Las erogaciones que se generen con la entrada en vigor del presente decreto se llevarán a cabo mediante movimientos compensados y no se requerirán recursos adicionales, por lo que la Secretaría de Relaciones Exteriores deberá sujetarse a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, por lo que no se incrementará su presupuesto regularizable.
