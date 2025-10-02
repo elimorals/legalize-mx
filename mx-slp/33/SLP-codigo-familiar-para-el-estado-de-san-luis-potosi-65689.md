@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2025-07-11"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1117,11 +1117,11 @@ La madre y el padre están obligados a dar alimentos a sus hijas o hijos. A falt
 
 El hecho o, la circunstancia de que los progenitores no tengan trabajo, no actualiza la imposibilidad a que se refiere este artículo, ni la obligación subsidiaria de los ascendientes.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 146.
 
-Las hijas e hijos están obligados a dar alimentos a sus padres. A falta o por imposibilidad de las hijas o hijos, lo están los descendientes más próximos en grado.
+Las hijas e hijos están obligados a dar alimentos a sus padres, de conformidad con el artículo 142 de este Código. A falta o por imposibilidad de las hijas o hijos, lo están los descendientes más próximos en grado.
 
 ###### ARTICULO 147.
 
@@ -3968,6 +3968,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 11 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0238.- QUE REFORMA LOS ARTÍCULOS 8º, 12, 293; Y REALIZA ADICIONES A LOS ARTÍCULOS 11, 12 Y 293, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0265.- QUE REFORMA EL ARTÍCULO 146, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
