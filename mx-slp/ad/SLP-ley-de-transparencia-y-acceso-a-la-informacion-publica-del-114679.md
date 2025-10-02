@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2024-04-08"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -597,7 +597,9 @@ XXXIV. Fomentar la igualdad sustantiva;
 
 XXXV. Coordinar en conjunto con las autoridades competentes, para que en los procedimientos de acceso a la información, así como en los medios de impugnación, se contemple contar con la información necesaria en lenguas indígenas y formatos accesibles, para que sean sustanciados y atendidos en la misma lengua y, en su caso, se promuevan los ajustes razonables necesarios si se tratara de personas con discapacidad;
 
-XXXVI. Garantizar condiciones de accesibilidad para que los grupos vulnerables puedan ejercer, en igualdad de circunstancias, su derecho de acceso a la información;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+XXXVI. Garantizar condiciones de accesibilidad para que los grupos de atención prioritaria puedan ejercer, en igualdad de circunstancias, su derecho de acceso a la información;
 
 XXXVII. Promover previa aprobación del Pleno las acciones de inconstitucionalidad en contra de leyes expedidas por la Legislatura Local, que vulneren el derecho de acceso a la información pública y la protección de datos personales;
 
@@ -1527,7 +1529,9 @@ k) En materia de seguridad pública y procuración de justicia:
 
 l) En materia de política interior:
 
-1. El listado de asuntos de atención a grupos vulnerables que contenga género, rango de edad, tipo de apoyo y, en su caso, monto.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+1. El listado de asuntos de atención a grupos de atención prioritaria que contenga género, rango de edad, tipo de apoyo y, en su caso, monto.
 
 m) En materia del medio ambiente y recursos naturales:
 
@@ -3432,3 +3436,11 @@ P.O. 8 DE ABRIL DE 2024.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
