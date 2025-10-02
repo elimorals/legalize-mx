@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2025-07-11"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -33,7 +33,9 @@ DECRETO 1146
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Uno de los avances de esta nueva Ley que establece la coordinación con la Federación y los municipios para cumplir con las obligaciones que le impone al estado la Ley General en la materia, es la atención a las personas con discapacidad desde la perspectiva de la integralidad y no sólo desde el ámbito de la salud pública como se ha dado hasta la fecha, con una visión de sujetos de derechos, especialmente al desarrollo social y a la vida pública en condiciones de equidad, ya que la discriminación contra cualquier persona por razón de su discapacidad constituye una vulneración de la dignidad y del valor inherente del ser humano.
 
@@ -739,7 +741,9 @@ VII. Integrar a las personas jóvenes con discapacidad en actividades culturales
 
 VIII. Prestar servicios de apoyo y asesoría jurídica para las personas jóvenes con discapacidad;
 
-IX. Desarrollar, en coordinación con los organismos o entidades encargados de la asistencia social en el Estado y los municipios, programas específicos para personas jóvenes con discapacidad o que pertenezcan a grupos sociales vulnerables;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+IX. Desarrollar, en coordinación con los organismos o entidades encargados de la asistencia social en el Estado y los municipios, programas específicos para personas jóvenes con discapacidad o que pertenezcan a grupos de atención prioritaria;
 
 X. Realizar e incentivar estudios e investigaciones de la problemática y características de las personas jóvenes con discapacidad, a fin de establecer políticas encaminadas al mejoramiento de sus condiciones de vida y a la búsqueda de alternativas para su desarrollo, y
 
@@ -1454,3 +1458,11 @@ P.O. 11 DE JULIO DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA””.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
