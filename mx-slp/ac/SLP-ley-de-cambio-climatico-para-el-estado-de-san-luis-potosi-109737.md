@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cambio-climatico-para-el-estado-de-san-luis-potosi-10973
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2020-11-11"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2015.
 
@@ -273,9 +273,17 @@ Los programas de investigación y de desarrollo tecnológico en el Estado, deber
 
 Para enfrentar los retos del cambio climático en el Estado, se atenderán de manera prioritaria las necesidades de adaptación en el corto, mediano y largo plazo, para lo cual se deberán considerar las siguientes directrices:
 
-I. Contar con atlas de riesgo que considere los escenarios de vulnerabilidad ante el cambio climático;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
 
-II. Establecer en el Plan Estatal de Desarrollo Urbano, lo relativo a los efectos del cambio climático;
+I. Contar con atlas de riesgo que considere los escenarios de vulnerabilidad actual y futura ante el cambio climático, tomando en consideración la información del Atlas Nacional de Riesgo y el Atlas Nacional de Vulnerabilidad al Cambio Climático, atendiendo de manera preferencial a la población más vulnerable y a las zonas de mayor riesgo;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+I BIS. Utilizar la información contenida tanto en los atlas de riesgo como en el Atlas Nacional de Vulnerabilidad al Cambio Climático, para la elaboración de los programas de ordenamiento territorial y desarrollo urbano, así como para los reglamentos de construcción, para prevenir y atender el posible desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+
+II. Establecer en el Programa de Ordenamiento Territorial y Desarrollo Urbano, lo relativo a los efectos del cambio climático;
 
 III. Estimar los efectos de escenarios futuros de cambio climático, ante fenómenos hidrológicos y meteorológicos extremos, en toda inversión para infraestructura estatal o municipal, y
 
@@ -866,3 +874,15 @@ P.O. 11 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0261.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 14, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Dirección de Protección Civil del Gobierno del Estado en coordinación y colaboración con las dependencias y entidades de la Administración Pública Estatal que se consideren pertinentes y los municipios deberán elaborar o en su caso actualizar el Atlas de Riesgo del Estado, tomando en cuenta el Atlas Nacional de Riesgos y el Atlas Nacional de Vulnerabilidad al Cambio Climático dentro del plazo de seis meses a partir de la entrada en vigencia de este Decreto.
+
+De no contarse con el Atlas Nacional de Vulnerabilidad al Cambio Climático en el momento de la elaboración o actualización del Atlas de Riesgo Estatal, el plazo previsto en el párrafo que antecede de este artículo transitorio, se contará a partir de su entrada en vigencia.
