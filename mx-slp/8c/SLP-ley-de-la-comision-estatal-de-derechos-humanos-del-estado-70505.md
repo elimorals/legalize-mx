@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2025-09-05"
+last_updated: "2025-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -1047,9 +1047,11 @@ II. Realizar visitas periódicas a los pueblos, albergues o zonas de concentraci
 
 III. Contar con personal que domine las lenguas de los pueblos en su jurisdicción, o tener acceso expedito a personal de estas características, mediante acuerdos con instituciones públicas o privadas.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
+
 ###### ARTICULO 65.
 
-La Presidencia, y el Consejo, de acuerdo a la carga de trabajo en las distintas regiones, o a la necesidad de atender a un determinado grupo de población vulnerable, podrán ordenar que una Visitaduría General se dedique a la atención especializada de un tema o grupo.
+La Presidencia, y el Consejo, de acuerdo a la carga de trabajo en las distintas regiones, o a la necesidad de atender a un determinado grupo de atención prioritaria, podrán ordenar que una Visitaduría General se dedique a la atención especializada de un tema o grupo.
 
 ### Capítulo V. De los Organos Operativos de la Comisión
 
@@ -2104,3 +2106,11 @@ Segundo. La Comisión Estatal de Derechos Humanos tendrá un plazo de 90 días n
 Tercero. Una vez entrado en vigor el presente Decreto, la Comisión Estatal de Derechos Humanos tendrá un plazo de 45 días naturales para realizar las adecuaciones a su Reglamento Interno sobre las Visitadurías Generales en materia de pueblos y comunidades indígenas; personas privadas de su libertad en los centros penitenciarios del Estado y de las personas en situación de migración.
 
 Cuarto. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
