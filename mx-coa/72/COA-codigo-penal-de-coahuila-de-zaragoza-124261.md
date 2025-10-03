@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2025-06-03"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -3449,6 +3449,10 @@ Se impondrá de seis meses a dos años de prisión o de cien a quinientos días 
 
 En caso de que el sujeto activo fuese respecto de la víctima, pariente consanguíneo en línea recta ascendente o descendente, o colateral hasta el cuarto grado, cónyuge, concubina o concubinario, compañero o compañera civil, adoptante, adoptada o adoptado, se le privará de los derechos que pueda tener como acreedor alimentario.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+Se aumentarán hasta un tercio las penas mínimas y máximas previstas en el primer párrafo, cuando aquél se cometa en despoblado o lugar solitario.
+
 Artículo 214 (Omisión de auxilio médico)
 
 Se impondrá de tres días a seis meses de prisión y de trescientos a quinientos días multa, o de un mes a tres meses de trabajo en favor de la comunidad, relacionado con la medicina, y de trescientos a quinientos días multa, a quien ejerza la medicina y omita atender a un enfermo o accidentado que tiene ante él, y que, de no brindarle la asistencia posible, corra peligro su vida o que se agrave su enfermedad o padecimiento.
@@ -5772,6 +5776,10 @@ Si cualquiera de las conductas delictivas descritas en los párrafos primero y t
 Artículo 349 (Omisión de denuncia)
 
 Se impondrá de uno a seis meses de prisión y de cincuenta a cien días multa, o de uno a seis meses de libertad supervisada y de cincuenta a cien días multa, a quien conociendo que se está cometiendo un delito permanente o continuado, cuyo término medio aritmético punible exceda de cinco años de prisión, omita dar noticia del mismo a la autoridad, a pesar de poder hacerlo sin que corra peligro personal, además, la autoridad ignore que el delito se está cometiendo.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+Se aumentará en un tercio las penas mínimas y máximas señaladas en el párrafo anterior a quien detente la guarda, custodia, atención, educación o cuidado de la víctima cuando se trate de niñas, niños o adolescentes, y que teniendo conocimiento de cualquier condición o circunstancia que pudiera derivar en una situación de violencia, riesgo, amenaza o cualquier afectación a sus derechos, omita hacer la denuncia ante la autoridad correspondiente.
 
 Artículo 350 (Encubrimiento)
 
@@ -8536,3 +8544,19 @@ P.O. 3 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 300.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 349 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 301.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 213 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
