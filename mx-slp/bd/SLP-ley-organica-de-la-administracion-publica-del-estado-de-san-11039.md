@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2025-03-05"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -615,11 +615,15 @@ VI. Promover, coordinadamente con las demás instituciones competentes y organis
 
 VII. Administrar los recursos del Fondo Estatal para la Infraestructura Social del Estado, derivado del Ramo 33, canalizando su ejercicio al financiamiento de obras y acciones sociales básicas, y a inversiones que beneficien directamente a sectores de la población que se encuentren en condiciones de rezago social y pobreza extrema; Así mismo, realizar el cálculo de distribución de los fondos para la Infraestructura Social Municipal, y para el Fortalecimiento de los Municipios, derivados del Ramo 33, entre los municipios del Estado, de conformidad con las normas y procedimientos que anualmente determine la Federación;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-VIII. Diseñar, operar y difundir un sistema de información abierto a las dependencias federales, estatales, al Congreso del Estado, y la sociedad, sobre el ejercicio de los recursos que integran el Fondo para la Infraestructura Social Municipal, el Fondo para el Fortalecimiento Municipal, y el Fondo Estatal para la Infraestructura Social, para conocer sus alcances e impactos en el desarrollo social de las localidades, los municipios y el Estado, y
+VIII. Diseñar, operar y difundir un sistema de información abierto a las dependencias federales, estatales, al Congreso del Estado, y la sociedad, sobre el ejercicio de los recursos que integran el Fondo para la Infraestructura Social Municipal, el Fondo para el Fortalecimiento Municipal, y el Fondo Estatal para la Infraestructura Social, para conocer sus alcances e impactos en el desarrollo social de las localidades, los municipios y el Estado;
 
-IX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+IX. En el ámbito de sus atribuciones, diseñar y coordinar políticas y programas para la protección y fortalecimiento de la familia, encaminadas a mejorar sus condiciones de vida, y
+
+X. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2304,3 +2308,11 @@ Décimo. Las entidades que se mencionan en este Decreto darán cuenta de su cont
 Décimo Primero. La Secretaría de Finanzas del Poder Ejecutivo del Estado de San Luis Potosí, deberá llevar a cabo las acciones presupuestales necesarias, las que en su caso, deberá remitirlas al Congreso del Estado de San Luis Potosí para su aprobación.
 
 Décimo Segundo. El personal que se transfiera a la nueva Secretaría de las Mujeres e Igualdad Sustantiva conservará sus derechos y prestaciones adquiridas, conforme a la legislación aplicable, asegurando la estabilidad y continuidad en el desempeño de sus funciones.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0271.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO Y DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los 180 días siguientes de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
