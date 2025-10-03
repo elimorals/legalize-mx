@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2024-01-30"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -350,6 +350,10 @@ XIX.- Proponer y gestionar ante las autoridades correspondientes, los planes y p
 XX.- Revocar sus actos y resoluciones en aquellos casos en que sea procedente;
 
 XXI.- En general, realizar toda clase de actos que sean necesarios para lograr su objeto y las que atribuyan otras leyes y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXII.- Previa autorización del Consejo del organismo, podrán destinar un porcentaje anual de sus ingresos para la adquisición y modernización de sistemas y programas de monitoreo y control de pérdidas y fugas de agua.
 
 ###### ARTÍCULO 22.
 
@@ -1077,6 +1081,10 @@ Las sanciones a que se refiere esta ley sólo se aplicarán a las personas físi
 
 Las sanciones pecuniarias que se impongan conforme a esta Ley, deberán ser cubiertas dentro del término de treinta días, contados a partir de su notificación al responsable. Pasado dicho término sin que se hubiesen cubierto los montos o llegado a un convenio para su pago, dicha multa será cobrada por medio del procedimiento económico coactivo previsto para el caso en el Código Municipal para el Estado de Coahuila. En caso de requerirse el organismo operador podrá solicitar al Ayuntamiento, el cobro y la ejecución del crédito fiscal, por lo que una vez cobrado y/o ejecutado por la Tesorería Municipal, el monto de lo recaudado, se devolverá al patrimonio del organismo operador el monto de los mismos, menos los gastos de ejecución que pasarán al municipio.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+Previa autorización del Consejo del organismo, se procurará destinar los montos derivados de la aplicación de las sanciones económicas, al desarrollo de programas de promoción de la cultura del agua, así como en la investigación, adquisición y modernización de tecnologías de monitoreo y control de pérdidas o fugas de agua.
+
 ###### ARTÍCULO 106.
 
 Los inspectores y verificadores que en el ejercicio de sus funciones no observen lo dispuesto en esta Ley o se abstengan deliberadamente de dar cuenta de las infracciones que descubran, o rindan informes incompletos o no ajustados a la realidad con el propósito de beneficiar o perjudicar a un infractor, serán amonestados y suspendidos en sus funciones, o sancionados con cese y consignación a las autoridades competentes, según la gravedad de la falta o acto cometido. En todo caso, la sanción se aplicará previa audiencia del interesado.
@@ -1288,3 +1296,11 @@ P.O. 30 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 583.- SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 3 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 299.- SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 21 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 105 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
