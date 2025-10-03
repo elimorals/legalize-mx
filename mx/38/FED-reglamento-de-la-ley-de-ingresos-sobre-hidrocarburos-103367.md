@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-ingresos-sobre-hidrocarburos-103367"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-31"
-last_updated: "2017-05-22"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-10-29"
 
 REGLAMENTO DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE OCTUBRE DE 2025.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 31 de octubre de 2014.
 
@@ -39,9 +39,11 @@ REGLAMENTO DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS
 
 Corresponde a la Secretaría de Hacienda y Crédito Público la emisión de disposiciones de carácter general para la aplicación de la Ley de Ingresos sobre Hidrocarburos, así como la interpretación para efectos administrativos de dicha Ley y del presente Reglamento, sin perjuicio de las facultades que correspondan a otras dependencias de la Administración Pública Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 2.
 
-Para efectos de este Reglamento, serán aplicables, en singular o plural, las definiciones a que se refiere el artículo 3 de la Ley de Ingresos sobre Hidrocarburos, así como las señaladas en el artículo 3, fracciones I, VIII, IX y XII del Reglamento de la Ley de Hidrocarburos.
+Para efectos de este Reglamento, son aplicables, en singular o plural, las definiciones a que se refiere el artículo 3 de la Ley de Ingresos sobre Hidrocarburos, así como las que resulten aplicables del Reglamento de la Ley del Sector Hidrocarburos.
 
 Las referencias a la Ley en este Reglamento, se entenderán a la Ley de Ingresos sobre Hidrocarburos.
 
@@ -53,17 +55,23 @@ La actuación administrativa en los procedimientos previstos en la Ley y en este
 
 #### Sección Primera. De los Contratos Adjudicados por Licitación Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 4.
 
-El reporte anual a que se refiere el artículo 5 de la Ley, contendrá información que atienda a la naturaleza de las Áreas Contractuales que se licitarán en el año de que se trate conforme al plan quinquenal que haya emitido la Secretaría de Energía en esta materia.
+El reporte anual a que se refiere el artículo 5 de la Ley, debe contener información que atienda a la naturaleza de las Áreas en posesión del Estado que la Secretaría de Energía haya determinado otorgar de manera excepcional en Contratos para la Exploración y Extracción de Hidrocarburos.
 
-La Secretaría de Energía deberá remitir a la Secretaría, a más tardar el 30 de septiembre de cada año, la información técnica de soporte sobre las Áreas Contractuales que se licitarán en el año siguiente al que se trate, conforme el plan quinquenal a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+Cuando la Secretaría de Energía determine licitar Áreas en posesión del Estado, debe remitir a la Secretaría, la información técnica de soporte sobre dichas Áreas a licitar.
 
 La información técnica de soporte a que se refiere el párrafo anterior, será entregada por la Secretaría de Energía en los formatos y conforme a los términos que se establezcan en los convenios de coordinación que al efecto celebren ambas dependencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-La Secretaría determinará las condiciones económicas relativas a los términos fiscales para los procesos de licitación de los Contratos, previa solicitud de la Secretaría de Energía. Al efecto, la Secretaría de Energía enviará a la Secretaría lo siguiente:
+La Secretaría debe determinar las condiciones económicas relativas a los términos fiscales para los procesos excepcionales de licitación de los Contratos, previa solicitud de la Secretaría de Energía. Al efecto, la Secretaría de Energía enviará a la Secretaría lo siguiente:
 
 I. La determinación sobre el Modelo de Contratación;
 
@@ -109,7 +117,9 @@ La Secretaría atenderá siempre a maximizar los ingresos del Estado para lograr
 
 La Secretaría emitirá la resolución referida en el artículo anterior dentro de los veinte días hábiles posteriores a la recepción completa de la información a que se refiere el artículo 5 de este Reglamento.
 
-Durante el plazo mencionado en el párrafo anterior, la Secretaría podrá solicitar a la Secretaría de Energía o a la Comisión, la información técnica adicional que considere necesaria, en cuyo caso el plazo para la emisión de la resolución a que se refiere el párrafo anterior se suspenderá desde el momento en que la Secretaría realice la solicitud y hasta en tanto se verifique la entrega de la información adicional solicitada.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+Durante el plazo mencionado en el párrafo anterior, la Secretaría puede solicitar a la Secretaría de Energía, la información técnica adicional que considere necesaria, en cuyo caso el plazo para la emisión de la resolución a que se refiere el párrafo anterior se suspende desde el momento en que la Secretaría realice la solicitud y hasta en tanto se verifique la entrega de la información adicional solicitada.
 
 ###### Artículo 8.
 
@@ -123,31 +133,45 @@ La Secretaría establecerá los valores mínimos y, en su caso, máximos que pod
 
 Con base en la solicitud a que se refiere el artículo 5 de este Reglamento, la información con que se cuente y atendiendo al mecanismo de adjudicación que se fije, la Secretaría deberá establecer los términos para la determinación y divulgación de los valores a los que se refiere este artículo. Dichos términos se harán del conocimiento de la Secretaría de Energía a través de la resolución señalada en el artículo 6 de este Reglamento.
 
-En caso que la Secretaría establezca en la resolución señalada en el artículo 6 de este Reglamento que la divulgación de los valores se hará hasta el acto de presentación y apertura de propuestas, la Secretaría reservará, conforme a las disposiciones jurídicas aplicables, los valores a los que hace referencia este artículo. Para efectos de lo anterior, la Secretaría guardará los mencionados valores en sobre cerrado en presencia de fedatario público bajo la más estricta reserva. Dicho sobre cerrado será entregado por la Secretaría directamente a la Comisión en el acto de presentación de propuestas, en donde el fedatario correspondiente dará fe de la integridad del sobre y de la información contenida en él.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
-En caso que la Secretaría establezca en la resolución señalada en el artículo 6 de este Reglamento que la divulgación de los valores se realice con antelación al acto de presentación y apertura de propuestas, ésta remitirá dichos valores mediante oficio a la Secretaría de Energía y a la Comisión para que estos sean divulgados en los medios electrónicos correspondientes, a más tardar diez días hábiles antes de la fecha que se establezca en la licitación para el acto de presentación y apertura de propuestas.
+En caso de que la Secretaría establezca en la resolución señalada en el artículo 6 de este Reglamento, que la divulgación de los valores se debe hacer hasta el acto de presentación y apertura de propuestas, la Secretaría debe reservar conforme a las disposiciones jurídicas aplicables, los valores a los que hace referencia este artículo. Para efectos de lo anterior, la Secretaría debe guardar los mencionados valores en sobre cerrado en presencia de fedatario público bajo la más estricta reserva. Dicho sobre cerrado debe ser resguardado por la Secretaría hasta el acto de presentación de propuestas, en donde el fedatario correspondiente debe dar fe de la integridad del sobre y de la información contenida en él.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+En caso de que la Secretaría establezca en la resolución señalada en el artículo 6 de este Reglamento que la divulgación de los valores se realice con antelación al acto de presentación y apertura de propuestas, ésta debe remitir dichos valores mediante oficio a la Secretaría de Energía para su divulgación en los medios electrónicos correspondientes, a más tardar diez días hábiles antes de la fecha que se establezca en la licitación para el acto de presentación y apertura de propuestas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 10.
 
-Si durante el proceso de licitación se observan modificaciones relevantes en el entorno económico global y en el mercado de los Hidrocarburos que pudieran restringir la participación en el proceso de licitación, la Secretaría podrá ajustar los términos a que se refieren los artículo 6, fracciones I y II y 9 de este Reglamento.
+Si durante el proceso de licitación se observan modificaciones relevantes en el entorno económico global y en el mercado de los Hidrocarburos que puedan restringir la participación en el proceso de licitación, la Secretaría puede ajustar los términos a que se refieren los artículos 6, fracciones I y II y 9 de este Reglamento.
 
-En este caso, la Secretaría comunicará a la Secretaría de Energía y a la Comisión las modificaciones correspondientes, a fin de que se realicen los ajustes correspondientes al proceso de licitación.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+En este caso, la Secretaría debe comunicar a la Secretaría de Energía las modificaciones correspondientes, a fin de que se realicen los ajustes al proceso de licitación.
 
 Con motivo de las juntas de aclaraciones que se celebren durante el proceso de licitación y conforme a las bases del procedimiento de licitación y adjudicación de los Contratos, la Secretaría podrá ajustar los términos a que se refieren las fracciones IV a VII del artículo 6 de este Reglamento, siempre que las bases y reglas que resulten de la modificación se sujeten a los lineamientos aplicables que, en su caso, haya emitido la Secretaría en términos de la Ley y de este Reglamento.
 
 #### Sección Segunda. De los Procesos de Migración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 11.
 
-En el caso de la migración de Asignaciones a algún tipo de Contrato, la Secretaría de Energía deberá entregar a la Secretaría lo señalado en las fracciones I, III y IV del artículo 5 de este Reglamento.
+En el caso de la migración de Asignaciones a algún tipo de Contrato establecido en la Ley del Sector Hidrocarburos, la Secretaría de Energía debe entregar a la Secretaría lo señalado en las fracciones I, III y IV del artículo 5 de este Reglamento.
 
 La resolución de la Secretaría incluirá, al menos, los aspectos señalados en las fracciones I y IV a VII, del artículo 6 de este Reglamento, y será aplicable lo dispuesto en los artículos 7 y 8 del presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-En caso de que la migración de Asignación a Contrato se solicite en términos del artículo 13 de la Ley de Hidrocarburos, la Secretaría de Energía deberá entregar a la Secretaría lo señalado en el artículo 5 de este Reglamento, así como la propuesta de términos de asociación y del acuerdo de operación conjunta.
+En caso de que la migración de Asignación a Contrato se solicite en términos del artículo 55 de la Ley del Sector Hidrocarburos, la Secretaría de Energía debe entregar a la Secretaría lo señalado en el artículo 5 de este Reglamento, así como la propuesta de términos de asociación y del acuerdo de operación conjunta.
 
-Los lineamientos técnicos a que se refiere el párrafo tercero del artículo 13 de la Ley de Hidrocarburos, que se remitan a la Secretaría, deberán contar con la opinión favorable de la empresa productiva del Estado respecto de los elementos técnicos, financieros, de ejecución y de experiencia que deberán reunir las Personas Morales que participen en la licitación, conforme a la Ley de Hidrocarburos y su Reglamento.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+Los lineamientos técnicos a que se refiere el párrafo tercero del artículo 55 de la Ley del Sector Hidrocarburos, que se remitan a la Secretaría, deben contar con la opinión favorable de la empresa pública del Estado, Petróleos Mexicanos respecto de los elementos técnicos, financieros, de ejecución y de experiencia que deben reunir las Personas Morales que participen en la licitación, conforme a la Ley del Sector Hidrocarburos y su Reglamento.
 
 La resolución de la Secretaría para la migración a que se refiere este artículo incluirá, al menos, los aspectos señalados en el artículo 6 de este Reglamento y será aplicable lo dispuesto en los artículos 7 a 10 del presente ordenamiento.
 
@@ -157,9 +181,11 @@ En el supuesto señalado en el artículo 34, párrafo tercero de la Ley, la Secr
 
 En estos casos, será aplicable lo señalado en los párrafos segundo y tercero del artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-En los casos a que se refieren los artículos 12 y 13 de este Reglamento, la Secretaría deberá manifestar su conformidad con la propuesta de términos de asociación y de operación conjunta o, en su caso, señalar las observaciones que estime pertinentes, mismas que deberán ser atendidas por la Empresa Productiva del Estado de que se trate, a fin de garantizar que los ingresos del Estado no sean inferiores a los que se pudieran obtener conforme a la Asignación o Contrato originales y de que se maximicen los ingresos de la Nación para el desarrollo de largo plazo.
+En los casos a que se refieren los artículos 12 y 13 de este Reglamento, la Secretaría debe manifestar su conformidad con la propuesta de términos de asociación y de operación conjunta o, en su caso, señalar las observaciones que estime pertinentes, mismas que deben ser atendidas por la empresa pública del Estado, Petróleos Mexicanos, a fin de garantizar que los ingresos del Estado no sean inferiores a los que se pueden obtener conforme a la Asignación o Contrato originales y se maximicen los ingresos de la Nación para el desarrollo a largo plazo.
 
 ###### Artículo 15.
 
@@ -167,9 +193,11 @@ La Secretaría establecerá las condiciones económicas relativas a los término
 
 #### Sección Tercera. De la Adjudicación de Contratos a Concesionarios Mineros
 
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 16.
 
-Para la adjudicación directa de Contratos a concesionarios mineros conforme al artículo 27, párrafos primero y segundo de la Ley de Hidrocarburos, la Secretaría de Energía entregará a la Secretaría lo señalado en las fracciones I, III y IV del artículo 5 de este Reglamento.
+Para la adjudicación directa de Contratos a concesionarios mineros conforme al artículo 56, párrafos primero y segundo de la Ley del Sector Hidrocarburos, la Secretaría de Energía debe entregar a la Secretaría lo señalado en las fracciones I, III y IV del artículo 5 de este Reglamento.
 
 ###### Artículo 17.
 
@@ -191,9 +219,11 @@ II. Lo anterior incluirá las monedas o divisas con las que los Contratistas rea
 
 III. Establecerá las condiciones para la entrega y recepción de las Contraprestaciones.
 
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-La resolución a que se refiere el artículo 6 de este Reglamento emitida por la Secretaría, así como cualquier documento en posesión de la Secretaría de Energía o la Comisión que contenga información derivada de la misma, deberá guardarse bajo la más estricta reserva, hasta que conforme a las distintas etapas del proceso de licitación, pueda publicarse o, en su caso, hasta que el Contrato correspondiente se haya formalizado.
+La resolución a que se refiere el artículo 6 de este Reglamento que emita la Secretaría, así como cualquier documento en posesión de la Secretaría de Energía que contenga información derivada de la misma, debe resguardarse bajo la más estricta reserva, hasta que, conforme a las distintas etapas del proceso de licitación, se publique o, en su caso, hasta que el Contrato correspondiente se haya formalizado.
 
 ### CAPÍTULO III. DE LA DETERMINACIÓN Y VERIFICACIÓN DE LAS CONTRAPRESTACIONES
 
@@ -201,39 +231,59 @@ La resolución a que se refiere el artículo 6 de este Reglamento emitida por la
 
 Los Contratos preverán el procedimiento y reglas conforme a los cuales la Secretaría podrá realizar visitas de verificación o auditorías a los aspectos financieros de los Contratos o formular requerimientos de información, para el correcto ejercicio de sus funciones derivadas de los mismos.
 
-En los casos en que las visitas y auditorías a que se refiere el párrafo anterior se realicen por el Servicio de Administración Tributaria, en términos de lo dispuesto por el artículo 63 de la Ley, dicho órgano administrativo desconcentrado se sujetará a las reglas y procedimientos que se establezcan en cada Contrato, conforme al párrafo anterior.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
-Los Contratos podrán prever que los procedimientos y reglas a que se refiere este artículo sean aplicables a las visitas, auditorías y requerimientos de información que correspondan a la Comisión en el ejercicio de sus funciones de administración de los Contratos.
+En los casos en que las visitas y auditorías a que se refiere el párrafo anterior se realicen por el Servicio de Administración Tributaria, en términos de lo dispuesto por el artículo 63 de la Ley, dicho órgano administrativo desconcentrado debe sujetarse a las reglas y procedimientos que se establezcan en cada Contrato y a las disposiciones jurídicas aplicables, conforme al párrafo anterior.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+Los Contratos pueden prever que los procedimientos y reglas a que se refiere este artículo sean aplicables a las visitas, auditorías y requerimientos de información que correspondan a la Secretaría de Energía en el ejercicio de sus funciones de administración de los Contratos.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 22.
 
-Las solicitudes que formule la Secretaría a la Comisión para que lleve a cabo visitas de campo o de otro tipo deberán establecer el objetivo de las mismas, así como la justificación correspondiente. La Comisión tendrá un plazo de diez días hábiles para iniciar la visita solicitada, la cual deberá realizarse conforme a los procedimientos y reglas previstas en el Contrato. La Comisión entregará los resultados que deriven de las visitas que realice dentro de los cinco días hábiles siguientes a su conclusión.
+Para efectos de lo dispuesto en el artículo 37, apartado B, fracción X de la Ley, la Secretaría puede coordinarse con la Secretaría de Energía para recibir apoyo técnico y solicitar que se lleven a cabo visitas de campo o de otro tipo. Las visitas deben establecer su objeto, así como la justificación correspondiente y deben realizarse conforme a los procedimientos y reglas previstas en el Contrato y las disposiciones aplicables. Los plazos para la ejecución de las visitas se deben establecer en los convenios de coordinación que suscriban ambas dependencias.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 23.
 
-En caso de que, como resultado de una visita o auditoría, o de las demás funciones de verificación que le corresponden, la Secretaría detecte alguna irregularidad, deberá notificar dicha situación a la Comisión, a la Secretaría de Energía y al Fondo Mexicano del Petróleo dentro del Periodo subsecuente, para que se proceda conforme a lo establecido en el Contrato respectivo.
+En caso de que, como resultado de una visita o auditoría, o de las demás funciones de verificación que le corresponden, la Secretaría detecte alguna irregularidad, debe notificar dicha situación a la Secretaría de Energía y al Fondo Mexicano del Petróleo dentro del Periodo subsecuente, para que se proceda conforme a lo establecido en el Contrato respectivo.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-La Comisión deberá inscribir los Contratos en el registro que al efecto establezca el Fondo Mexicano del Petróleo, conforme a los lineamientos que éste emita y a lo dispuesto en el contrato de fideicomiso respectivo. En los Contratos se realizarán las previsiones necesarias a fin de que los Contratistas entreguen a la Comisión y ésta cuente con los documentos necesarios para tal efecto y se preverá que la falta de inscripción en el registro tendrá como consecuencia que el Contratista no pueda recibir las Contraprestaciones que, en su caso, le correspondan. No obstante lo anterior, la ausencia de registro no libera al Contratista de sus obligaciones respecto al pago de contraprestaciones al Estado previstas en el Contrato.
+La Secretaría de Energía debe inscribir los Contratos en el registro que al efecto establezca el Fondo Mexicano del Petróleo, conforme a los lineamientos que este emita y a lo dispuesto en el contrato de fideicomiso respectivo. En los Contratos se deben realizar las previsiones necesarias a fin de que los Contratistas entreguen a la Secretaría de Energía la información requerida para la inscripción, y esta cuente con los documentos necesarios para tal efecto, y se debe prever que la falta de inscripción en el registro tiene como consecuencia que el Contratista no pueda recibir las Contraprestaciones que, en su caso, le correspondan.
+
+No obstante lo anterior, la ausencia de registro no libera al Contratista de sus obligaciones respecto al pago de Contraprestaciones al Estado previstas en el Contrato.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 25.
 
-La Comisión deberá notificar al Fondo Mexicano del Petróleo y a la Secretaría, de las determinaciones que adopte sobre la terminación, rescisión o cesión de los Contratos al día hábil siguiente.
+La Secretaría de Energía debe notificar al Fondo Mexicano del Petróleo y a la Secretaría, las determinaciones que adopte sobre la modificación, terminación, rescisión o cesión de los Contratos al tercer día hábil siguiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 26.
 
-La Comisión enviará a la Secretaría y al Fondo Mexicano del Petróleo:
+La Secretaría de Energía debe enviar a la Secretaría y al Fondo Mexicano del Petróleo:
 
 I. Dentro de los primeros diez días hábiles de cada mes, la información relativa a la producción por Contrato del mes inmediato anterior, y
 
 II. En un plazo que no excederá de cinco días hábiles posteriores a su aprobación, el plan de Exploración o el plan de desarrollo para la Extracción de Hidrocarburos y los programas anuales de inversión y operación, así como, en su caso, los presupuestos anuales respectivos de cada Contrato, según corresponda, y conforme a los términos de los mismos.
 
-La información a que se refiere el presente artículo será entregada por la Comisión en los formatos y conforme a los términos que se establezcan en los convenios de coordinación que al efecto celebren la Secretaría, la Comisión y el Fondo Mexicano del Petróleo.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+La información a que se refiere el presente artículo debe ser entregada por la Secretaría de Energía en los formatos y conforme a los términos que se establezcan en los convenios de coordinación que al efecto celebren la Secretaría, la Secretaría de Energía y el Fondo Mexicano del Petróleo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 27.
 
-El Contratista deberá informar a la Secretaría y a la Comisión de la enajenación de activos a que se refiere el artículo 20 de la Ley, dentro de los diez días hábiles posteriores a la operación, mismo plazo en el que deberá entregar al Fondo Mexicano del Petróleo los ingresos que reciba por dicha operación.
+El Contratista debe informar a la Secretaría y a la Secretaría de Energía de la enajenación de activos a que se refiere el artículo 20 de la Ley, dentro de los diez días hábiles posteriores a la operación, mismo plazo en el que debe entregar al Fondo Mexicano del Petróleo los ingresos que reciba por dicha operación.
 
 A solicitud del Contratista, la Secretaría podrá autorizar el descuento de un monto equivalente de los ingresos que el Contratista reciba por dicha operación de las Contraprestaciones que le correspondan, siempre y cuando el monto en cuestión represente menos del 20% de las Contraprestaciones totales que en el Periodo correspondan al Contratista.
 
@@ -245,19 +295,23 @@ Para obtener la autorización prevista en el párrafo anterior, el Contratista d
 
 Los Asignatarios estarán obligados a inscribir sus respectivas Asignaciones en el registro que al efecto establezca el Fondo Mexicano del Petróleo, conforme a los lineamientos que éste emita y a lo previsto en el contrato de fideicomiso respectivo.
 
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 29.
 
-La Secretaría de Energía deberá notificar al Fondo Mexicano del Petróleo y a la Secretaría, de las determinaciones que adopte sobre el otorgamiento, revocación, renuncia o cesión de Asignaciones, al día hábil siguiente.
+La Secretaría de Energía debe notificar al Fondo Mexicano del Petróleo y a la Secretaría, las determinaciones que adopte sobre el otorgamiento, modificación, sustitución, revocación o renuncia de Asignaciones, dentro de los tres días hábiles siguientes.
 
 ###### Artículo 30.
 
-Para los efectos del segundo párrafo del artículo 45 de la Ley, las cuotas aplicables por el derecho de Exploración de Hidrocarburos se actualizarán anualmente el primero de enero de cada año, considerando el periodo comprendido desde el décimo tercer mes inmediato anterior y hasta el último mes anterior a aquél en que se efectúa la actualización, aplicándoles el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo del periodo, en términos del artículo 17-A del Código Fiscal de la Federación.
+(DEROGADO, D.O.F. 3 DE OCTUBRE DE 2025)
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 31.
 
-La Comisión enviará a la Secretaría y al Servicio de Administración Tributaria, dentro de los primeros diez días hábiles de cada mes, la información relativa a la producción derivada de las Asignaciones del mes inmediato anterior.
+La Secretaría de Energía debe enviar a la Secretaría y al Servicio de Administración Tributaria, dentro de los primeros diez días hábiles de cada mes, la información relativa a la producción derivada de las Asignaciones del mes inmediato anterior.
 
-La información a que se refiere el presente artículo será entregada por la Comisión en los formatos y conforme a los términos que se establezcan en los convenios de coordinación que al efecto celebren las dependencias mencionadas.
+La información a que se refiere el presente artículo debe ser entregada por la Secretaría de Energía en los formatos y conforme a los términos que se establezcan en los convenios de coordinación que al efecto celebren las dependencias mencionadas.
 
 ###### Artículo 32.
 
@@ -269,13 +323,17 @@ La Secretaría podrá optar porque los lineamientos a que se refieren las fracci
 
 Las reglas de operación para la distribución y destino de los recursos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos deberán publicarse en el Diario Oficial de la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 34.
 
-La Comisión deberá proporcionar a la Secretaría, dentro de los primeros cinco días hábiles de cada mes, el listado de las entidades federativas y los municipios en los que se llevaron a cabo actividades de Exploración y Extracción de Hidrocarburos en el mes inmediato anterior.
+La Secretaría de Energía debe proporcionar a la Secretaría, dentro de los primeros cinco días hábiles de cada mes, el listado de las entidades federativas y los municipios en los que se llevaron a cabo actividades de Exploración y Extracción de Hidrocarburos en el mes inmediato anterior.
 
 Dicha información deberá contener la extensión de las Áreas Contractuales y las Áreas de Asignación en el territorio de cada entidad federativa y municipio. Respecto de las regiones marítimas, deberá remitir el listado de la extensión asociada a cada entidad federativa.
 
-Las reglas de operación a que se refiere el artículo anterior, preverán los demás aspectos técnicos sobre la información que requiera la Secretaría para el debido ejercicio de sus funciones.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+Las reglas de operación a que se refiere el artículo anterior deben prever los demás aspectos técnicos que requiera la Secretaría para el debido ejercicio de sus funciones.
 
 ### CAPÍTULO VI. DISPOSICIONES FINALES
 
@@ -285,9 +343,11 @@ Lo dispuesto en el artículo 32, apartado A, tercer párrafo de la Ley, únicame
 
 Las pérdidas fiscales ocurridas en un ejercicio, correspondientes a actividades realizadas en regiones distintas a las que se refiere el párrafo anterior, se deben disminuir en los términos y condiciones previstos en el artículo 57 de la Ley del Impuesto sobre la Renta.
 
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 36.
 
-Para los efectos del artículo 64, primero, segundo y tercer párrafos de la Ley, el cómputo de días de duración de las actividades a que se refiere la Ley de Hidrocarburos, se hará considerando la totalidad de días naturales comprendidos entre el inicio y la terminación de las actividades.
+Para los efectos del artículo 64, primero, segundo y tercer párrafos de la Ley, el cómputo de días de duración de las actividades a que se refiere la Ley del Sector Hidrocarburos, se debe considerar la totalidad de días naturales comprendidos entre el inicio y la terminación de las actividades.
 
 ## TRANSITORIOS
 
@@ -312,3 +372,17 @@ D.O.F. 22 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL REGLAMENTO DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS”.]
+
+Primero.- El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En caso de que se solicite la migración de una Asignación a un Contrato para la Exploración y Extracción, con el fin de que la Secretaría pueda ejercer las facultades que le corresponden conforme a lo dispuesto en el Transitorio Décimo Noveno, párrafo segundo de la Ley del Sector Hidrocarburos, la Secretaría de Energía debe entregarle lo señalado en las fracciones I, III y IV del artículo 5 de este Reglamento, así como los términos técnicos que haya emitido y la propuesta del acuerdo de operación conjunta conforme al Reglamento de la Ley del Sector Hidrocarburos.
+
+Una vez recibida la información señalada, la Secretaría debe emitir la resolución que corresponda, siendo aplicable, en lo conducente, lo dispuesto en los artículos 6 a 8 de este Reglamento.
+
+Tercero.- La Secretaría y la Secretaría de Energía deben hacer las adecuaciones necesarias a los convenios de coordinación entre dichas dependencias, para la verificación periódica del correcto pago de Contraprestaciones y penalizaciones de los Contratos para la Exploración y Extracción vigentes, a los que resulten aplicables estas últimas, en términos del presente Reglamento.
+
+Cuarto.- Las erogaciones que, en su caso, se generen con motivo de la ejecución del presente decreto deben ser cubiertas con cargo al presupuesto autorizado en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2025 de las dependencias y entidades de la Administración Pública Federal involucradas, por lo que no se incrementa su presupuesto y no se autorizan recursos adicionales para el presente ejercicio fiscal ni los subsecuentes.
