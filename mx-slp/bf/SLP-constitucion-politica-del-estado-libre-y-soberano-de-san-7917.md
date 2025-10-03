@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2025-08-29"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1191,13 +1191,13 @@ XXXII.- (DEROGADA, P.O. 26 DE FEBRERO DE 2021)
 
 XXXIII.- Elegir, en los términos de esta Constitución, a las personas Magistradas del Tribunal Estatal de Justicia Administrativa;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XXXIV.- Designar, en los términos de esta Constitución, a una persona Consejera integrante del Órgano de Administración Judicial del Poder Judicial del Estado, de conformidad con la presente Constitución y disposiciones que (sic) establecidas en la Ley;
+XXXIV.- Designar a una persona consejera integrante del Órgano de Administración Judicial del Poder Judicial del Estado y, cuando proceda, conceder las licencias temporales, o definitivas, así como su renuncia al cargo;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XXXV.- Calificar las renuncias de las personas Magistradas del Supremo Tribunal de Justicia, de las personas Magistradas del Tribunal de Disciplina Judicial, de las personas Consejeras del Órgano de Administración Judicial, de las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, de las personas Magistradas del Tribunal Estatal de Justicia Administrativa, así como conocer y resolver las solicitudes de destitución de estos, en los términos de la presente Constitución;
+XXXV.- Calificar las licencias que sean definitivas de las personas Magistradas del Supremo Tribunal de Justicia, de las personas Magistradas del Tribunal de Disciplina Judicial, de las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, así como conocer y resolver las solicitudes de destitución de las Magistraturas antes referidas, en los términos que establece esta Constitución;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1531,9 +1531,13 @@ XI.- Designar y remover libremente a los Secretarios de Despacho, así como a lo
 
 XII.- Proponer al Congreso a los candidatos a ocupar los cargos de, Fiscal General del Estado; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; y Fiscal Especializado en Delitos Electorales; así como removerlos por causas graves, y hacerlo del conocimiento del Congreso del Estado para los efectos de la fracción XXXVII del artículo 57 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XIII.- Proponer al Congreso del Estado, a las personas candidatas a ocupar las Magistraturas del Tribunal Estatal de Justicia Administrativa, así como designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado, de conformidad con la presente Constitución y disposiciones legales correspondientes;
+XIII.- Proponer al Congreso del Estado, a las personas candidatas a ocupar las Magistraturas del Tribunal Estatal de Justicia Administrativa, de conformidad con la presente Constitución y disposiciones legales correspondientes;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XIII BIS.- Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado y, cuando proceda, conceder las licencias temporales, o definitivas, así como su renuncia al cargo;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -1851,7 +1855,9 @@ IV. Presentar ante el Congreso del Estado, iniciativas de leyes o decretos relac
 
 V. Elegir de entre las personas Magistradas a su Presidente o Presidenta, quien también integrará sala;
 
-VI. Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado, de conformidad con la presente Constitución y disposiciones legales correspondientes;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VI. Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado y, cuando proceda, conceder las licencias temporales, o definitivas, así como su renuncia al cargo;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
@@ -4078,3 +4084,11 @@ P.O. 29 DE AGOSTO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0269.- QUE REFORMA LOS ARTÍCULOS 57, 80 Y 93; SE REALIZA ADICIÓN AL ARTÍCULO 80, DE Y A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Toda vez que, tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la presente Constitución, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de los diputados, para que éstas formen parte de la misma, este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"; de conformidad con el último párrafo del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
