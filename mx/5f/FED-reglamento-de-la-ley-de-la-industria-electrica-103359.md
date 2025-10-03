@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-la-industria-electrica-103359"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-31"
-last_updated: "2014-10-31"
+last_updated: "2025-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103359&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-10-29"
 ---
 # REGLAMENTO DE LA LEY DE LA INDUSTRIA ELECTRICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL SECTOR ELÉCTRICO, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE LA INDUSTRIA ELÉCTRICA
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE OCTUBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 31 de octubre de 2014.
 
@@ -1372,3 +1374,139 @@ Décimo Segundo. El CENACE realizará la gestión y llevará a cabo los estudios
 Décimo Tercero. Hasta por un periodo máximo de dos años contados a partir del inicio de operaciones del Mercado Eléctrico Mayorista, el CENACE realizará, a nombre de los Suministradores y Usuarios Calificados Participantes del Mercado, la estimación de la demanda y consumo eléctrico de sus Centros de Carga, para fines de planeación del despacho y operación del Sistema Eléctrico Nacional.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintinueve de octubre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Energía, Pedro Joaquín Coldwell.- Rúbrica.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.- El Secretario de Desarrollo Agrario, Territorial y Urbano, Jorge Carlos Ramírez Marín.- Rúbrica.- En ausencia del Secretario de la Función Pública, en términos de lo dispuesto por los artículos 18 de la Ley Orgánica de la Administración Pública Federal; 7, fracción XII, y 86 del Reglamento Interior de la Secretaría de la Función Pública, el Subsecretario de Responsabilidades Administrativas y Contrataciones Públicas, Julián Alfonso Olivas Ugalde.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA LEY DEL SECTOR ELÉCTRICO".]
+
+Primero. El presente reglamento entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abrogan el Reglamento de la Ley de la Industria Eléctrica publicado en el Diario Oficial de la Federación el treinta y uno de octubre de dos mil catorce y las demás disposiciones jurídicas que se opongan al presente reglamento.
+
+El Reglamento de la Ley del Servicio Público de Energía Eléctrica en materia de Aportaciones permanece en vigor, en lo que no se oponga al presente reglamento, en tanto la CNE emite las disposiciones administrativas de carácter general en la materia a que se refiere el artículo 127 de este reglamento.
+
+Tercero. Los contratos que a la entrada en vigor de este reglamento se encuentren vigentes, así como cualesquiera otros actos que deriven de los mismos que hayan sido celebrados con la Empresa Productiva del Estado, Comisión Federal de Electricidad y sus subsidiarias al amparo del Reglamento de la Ley de la Industria Eléctrica, se deben transferir a la Empresa Pública del Estado y surten efectos hasta la terminación de su vigencia bajo los términos y condiciones en que hayan sido suscritos, en lo que no se opongan a lo dispuesto en la Ley y este ordenamiento. Para tales efectos, la Empresa Pública del Estado debe mantener la separación de sus actividades en materia de nominaciones y ofertas para el Mercado Eléctrico Mayorista en congruencia con el sistema de liquidación, reliquidación, facturación, emisión de estados de cuenta, cobranza y balance financiero del mercado.
+
+Los instrumentos a que se refiere este artículo transitorio no deben ser prorrogados una vez que concluya su vigencia.
+
+Hasta en tanto se emita la regulación a que se refiere el artículo 115 del presente reglamento, las Centrales Eléctricas propiedad de la Empresa Pública del Estado que requieran suscribir un contrato de interconexión, posterior a la entrada en vigor de la Ley y el presente reglamento, deben entregar por escrito a la CNE la documentación técnica que valide el cumplimiento de lo establecido en las Disposiciones Administrativas de Carácter General que contienen los criterios de eficiencia, calidad, confiabilidad, continuidad, seguridad y sustentabilidad del Sistema Eléctrico Nacional: Código de Red, a efecto de que esta, previa opinión del CENACE, emita el oficio de validación para la interconexión, en un plazo máximo de diez días hábiles contados a partir de la recepción de la solicitud correspondiente, el cual surte los mismos efectos que el contrato de interconexión.
+
+Cuarto. Las disposiciones jurídicas emitidas con anterioridad a la entrada en vigor del presente reglamento continúan vigentes hasta que inicie la vigencia de aquellas que las sustituyan, en lo que no se oponga a la Ley y el presente reglamento.
+
+Quinto. Por única ocasión, la Secretaría debe coordinar la actualización de las Reglas del Mercado para su alineación con los objetivos de la Ley y el presente reglamento, con la participación de la CNE, el CENACE, la Empresa Pública del Estado y, en su caso, representantes del sector privado.
+
+Una vez que la Secretaría determine concluida la actualización de las Reglas del Mercado, la CNE y el CENACE, en el ámbito de sus facultades, deben realizar las revisiones, modificaciones y emisión de las Reglas del Mercado de conformidad con lo señalado en la Ley, este reglamento y los procedimientos establecidos en las propias Reglas del Mercado.
+
+Sexto. Los Certificados de Energías Limpias emitidos con anterioridad a la entrada en vigor de este reglamento conservan su validez conforme a las disposiciones y lineamientos con base en los que fueron otorgados, hasta su liquidación o cancelación voluntaria. El inicio de la vigencia de los Certificados de Energías Limpias al que se refiere el artículo 146 de la Ley, está condicionado al comunicado que emita la CNE para señalar que el sistema electrónico ha concluido su actualización para incluir las adecuaciones conforme la Ley y el presente reglamento.
+
+Séptimo. De conformidad con lo dispuesto en el Transitorio Sexto de la Ley, las personas titulares de permisos vigentes, otorgados al amparo de la Ley del Servicio Público de Energía Eléctrica, que a la entrada en vigor de este reglamento se encuentren en un procedimiento administrativo de revocación o en alguno de los supuestos de revocación del permiso, a criterio de la Secretaría o la CNE, según corresponda, pueden ser sujetas a la imposición de una multa, a efecto de que el permiso no sea revocado, siempre y cuando, previo a la emisión de la resolución del procedimiento administrativo de revocación, se solicite la migración a alguna de las figuras establecidas en la Ley.
+
+Octavo. Aquellas personas con permiso de generación otorgado previo a la entrada en vigor de la Ley y que solicitaron una modificación de su permiso para incorporar Sistemas de Almacenamiento de Energía Eléctrica o incrementar su capacidad, previo al dieciocho de marzo del dos mil veinticinco, así como aquellas que lo soliciten a partir de la entrada en vigor del presente reglamento pueden ser sujetas al reconocimiento del criterio de disponibilidad de entrega física, siempre que soliciten y concluyan el procedimiento de migración de su permiso a los términos de la Ley, el presente reglamento y los lineamientos que en términos de los artículos transitorios Sexto y Noveno de la Ley emita la Secretaría.
+
+Noveno. A fin de promover y fortalecer la electromovilidad, la Secretaría debe considerar en el programa de normalización, la inclusión de normas oficiales mexicanas para la infraestructura de carga. En tanto se emitan normas oficiales mexicanas en la materia, se deben observar las normas mexicanas y los estándares internacionales que resulten aplicables.
+
+Décimo. La Secretaría en un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente reglamento, debe enviar a la Secretaría de Hacienda y Crédito Público y a la Secretaría de Medio Ambiente y Recursos Naturales, para su presentación al Congreso de la Unión, la información que justifique la actualización o inclusión de derechos en la Ley Federal de Derechos en materia de uso del agua para generación hidroeléctrica, a fin de dar viabilidad a los proyectos de pequeña escala de generación hidroeléctrica y Sistemas de Almacenamiento de Energía Eléctrica con tecnología de plantas de rebombeo.
+
+Décimo Primero. Los trámites en materia de impacto social y ocupación superficial, que se hayan ingresado con anterioridad a la entrada en vigor de este ordenamiento y que se encuentren pendientes de resolución, se deben substanciar conforme a la normatividad vigente al momento de su presentación.
+
+En caso de modificación sustancial de proyectos que cuenten con resolución de Evaluación de Impacto Social emitida en términos de la Ley de la Industria Eléctrica y su reglamento, se debe presentar la Manifestación de Impacto Social del Sector Energético, la cual se debe tramitar y resolver conforme lo establecido en el presente reglamento y demás disposiciones normativas aplicables.
+
+Las consultas que hayan iniciado previo a la entrada en vigor del presente reglamento se deben substanciar conforme a la normatividad vigente al momento de su inicio.
+
+Los actos jurídicos en materia de impacto social y consulta celebrados con fundamento en los reglamentos y disposiciones jurídicas que se abrogan, deben respetarse en sus términos, incluidos derechos y obligaciones que de ellos emanen.
+
+Décimo Segundo. Los trámites y procedimientos en materia de ocupación superficial que hayan iniciado previo a la entrada en vigor del presente reglamento deben substanciarse y concluirse conforme a la normatividad vigente al momento de su inicio y se deben regir por dichas normas.
+
+Los contratos de ocupación superficial que hayan sido concluidos previo a la entrada en vigor del presente ordenamiento, deben ser entregados al área competente de la Secretaría para su seguimiento.
+
+Los actos jurídicos en materia de ocupación superficial celebrados con fundamento en los reglamentos y disposiciones jurídicas que se abrogan, deben respetarse en sus términos, incluidos derechos y obligaciones que de ellos emanen.
+
+Décimo Tercero. A partir de la entrada en vigor del presente reglamento, todas las referencias que en los ordenamientos jurídicos vigentes se hagan al Reglamento de la Ley de la Industria Eléctrica, se entienden hechas al presente ordenamiento.
+
+Décimo Cuarto. Las Centrales Eléctricas que hayan cumplido con la normativa vigente de medición al inicio de su operación comercial, previo a la entrada en vigor de la Ley de la Industria Eléctrica y, que por sus características cumplan parcialmente con los requisitos establecidos en la normativa vigente a la entrada del presente reglamento, deben informar a la CNE el estatus de sus Sistemas de Medición, los programas de atención y, en su caso, las limitaciones técnicas por las cuales no es posible cumplir en su totalidad. La CNE, en coordinación con la Secretaría, deben establecer en cada caso, los periodos y los mecanismos para transitar las actualizaciones de regulación normativa en esta materia, donde por Confiabilidad del Sistema Eléctrico Nacional sea requerido.
+
+La CNE debe notificar a la Central Eléctrica, a la Transportista, a la Distribuidora y al CENACE, las consideraciones a los periodos máximos para su cumplimiento.
+
+Décimo Quinto. En un periodo de máximo ciento veinte días hábiles, a partir de la entrada en vigor del presente reglamento, la CNE debe publicar la regulación necesaria para que el CENACE pueda operar la Demanda Controlable.
+
+Décimo Sexto. Por única ocasión, la Secretaría debe publicar los requisitos de Energía Limpia para los años 2025, 2026, 2027 y 2028, ciento veinte días naturales posteriores a la entrada en vigor del presente reglamento.
+
+Décimo Séptimo. Dentro de los ciento cincuenta días hábiles contados a partir de la entrada en vigor del presente reglamento, la Secretaría debe instalar al Monitor Independiente del Mercado con cargo a las tarifas que determine la CNE, el cual debe coadyuvar a ejercer las funciones de Vigilancia del Mercado directamente desde la Secretaría por un periodo de un año calendario contado a partir de la entrada en vigor del presente reglamento. Posteriormente, el Monitor Independiente del Mercado Eléctrico Mayorista debe reportar el resultado de dichas funciones de vigilancia directamente a la Unidad de Electricidad de la CNE.
+
+Décimo Octavo. Previo a la emisión del primer Plan de Desarrollo del Sector Eléctrico, durante el último cuatrimestre del dos mil veinticinco, la Secretaría puede recibir de cualquier persona interesada, propuestas de proyectos de generación, industriales, productivos y de infraestructura del sector eléctrico para ser considerados en la planeación vinculante.
+
+Décimo Noveno. Los lineamientos que regulen el procedimiento expedito para la migración a figuras de la Ley, de los permisos de autoabastecimiento, cogeneración, pequeña producción, producción independiente, importación, exportación y usos propios continuos otorgados al amparo de la Ley del Servicio Público de Energía Eléctrica, y de los contratos y convenios vinculados a los mismos, deben ser emitidos por la Secretaría, a más tardar ciento veinte días naturales a partir de la publicación del presente reglamento.
+
+Vigésimo. A partir de la entrada en vigor del presente reglamento, la CNE debe publicar en un plazo de ciento ochenta días hábiles, las disposiciones administrativas de carácter general sobre Sistemas de Almacenamiento de Energía Eléctrica a que se refiere el artículo 193 de la Ley.
+
+Vigésimo Primero. La Secretaría, con el apoyo de la CNE, dentro de un plazo no mayor a sesenta días hábiles contados a partir de la entrada en vigor del presente reglamento, debe publicar una convocatoria en el Diario Oficial de la Federación dirigida a las personas particulares, para la presentación de solicitudes de permisos de generación para el desarrollo de Centrales Eléctricas que son estratégicas y prioritarias en la planeación vinculante del sector eléctrico hasta el 2030.
+
+La convocatoria debe considerar, al menos, los requerimientos de capacidad, las zonas y las tecnologías para el desarrollo de Centrales Eléctricas, así como los requisitos y plazos para la presentación de las solicitudes de nuevos permisos de generación, y, en su caso, de migración de permisos otorgados bajo la Ley del Servicio Público de Energía Eléctrica y la Ley de la Industria Eléctrica que amparen el funcionamiento de dichas Centrales Eléctricas.
+
+Las personas que tengan interés de participar en la convocatoria y que hayan ratificado la solicitud de un permiso de generación en términos del numeral cuarto del “ACUERDO por el que se reanudan los plazos y términos para la recepción y tramitación de los asuntos competencia de la Comisión Nacional de Energía, conforme a las atribuciones que le fueron conferidas y transferidas, y establece la estrategia para su atención”, publicado en el Diario Oficial de la Federación el 5 de junio de 2025, pueden presentar el desistimiento de la solicitud que corresponda y presentar una nueva solicitud de conformidad con lo establecido en la convocatoria a que se refiere el presente artículo transitorio.
+
+La CNE debe dar prioridad a la resolución de las solicitudes de permisos ingresadas con base en la convocatoria por tratarse de proyectos estratégicos en la planeación vinculante, teniendo que evaluar cada solicitud conforme a las disposiciones administrativas de carácter general para la planeación vinculante que expida la Secretaría, la presentación de una solicitud de permiso en el marco de la convocatoria no supone el otorgamiento de un permiso de generación.
+
+Asimismo, el CENACE debe atender de manera prioritaria las solicitudes de realización de estudios de interconexión de las Centrales Eléctricas asociadas a dichas solicitudes de permisos, la presentación de una solicitud dentro del marco de la convocatoria no implica la resolución en sentido positivo de los estudios de interconexión. Cuando exista una solicitud de realización de estudios de interconexión o dichos estudios ya se encuentren en proceso de atención, debe resolverse en los términos establecidos en la convocatoria.
+
+En las convocatorias antes referidas, no se deben considerar las figuras de generación distribuida, autoconsumo en sus diferentes modalidades, cogeneración y los esquemas para el desarrollo mixto, a que se refieren los artículos 17 fracciones I y II, 41 y 38 de la Ley, respectivamente.
+
+Vigésimo Segundo. Hasta en tanto se determina el formato autorizado por la Secretaría o la CNE para la presentación de cada solicitud a la que hace referencia el presente reglamento y estas se publiquen en los portales electrónicos de la Secretaría y la CNE, así como en los portales públicos de información de trámites, los formatos previos, los escritos libres y las versiones electrónicas autorizadas son válidos para presentar la solicitud que corresponda.
+
+Vigésimo Tercero. Las solicitudes de modificación de permisos de generación otorgados bajo la Ley del Servicio Público de Energía Eléctrica o de la Ley de la Industria Eléctrica que busquen migrar a la Ley, incluidas aquellas que se hayan ingresado hasta el dieciocho de marzo de dos mil veinticinco, ante la extinta Comisión Reguladora de Energía y ratificadas ante la CNE, se deben resolver bajo el marco de la Ley del Sector Eléctrico.
+
+En ese sentido, hasta en tanto se publica la normatividad aplicable, los interesados en migrar sus solicitudes a las figuras de la Ley del Sector Eléctrico deben presentar lo siguiente ante la CNE:
+
+I. El número de permiso del que se trata y la figura a la que pretenden migrar establecida en la Ley del Sector Eléctrico;
+
+II. Escrito libre mediante el cual manifiesten lo siguiente:
+
+a) Que se tienen por cumplidas las obligaciones con respecto a la entrega de los informes trimestrales y la realización de los pagos por concepto de supervisión;
+
+b) Que la capacidad excluida del contrato de interconexión correspondiente se debe incluir en un contrato de interconexión en los términos que establezca la Ley del Sector Eléctrico;
+
+c) Para las modalidades de autoabastecimiento y cogeneración al amparo de la Ley del Servicio Público de Energía Eléctrica, un escrito del representante legal, en el que manifieste a la CNE que la sociedad o copropiedad aprobó la modificación, y
+
+d) Que no se tienen adeudos pendientes de saldar con la Comisión Federal de Electricidad al amparo de la ejecución de los contratos de interconexión, así como de compromisos de capacidad de generación de energía eléctrica y compraventa de energía eléctrica;
+
+III. Para Centrales Eléctricas totalmente construidas y que no se encuentren en operación, el avance en la conclusión del programa de obras que entregaron para obtener el permiso o modificación correspondiente, lo cual, debe ser acreditado mediante la presentación de la documentación idónea;
+
+IV. Para las Centrales Eléctricas en operación, se debe remitir el cronograma de actividades que señale, entre otros, la fecha en que va a entrar en operación comercial bajo la Ley del Sector Eléctrico, y
+
+V. Para Centrales Eléctricas que no se encuentren construidas, demostrar fehacientemente, mediante la presentación de la documentación idónea, el avance en la construcción de la Central Eléctrica de acuerdo con el programa de obras autorizado.
+
+De resultar necesario, la CNE puede requerir información y documentación adicional para resolver la solicitud.
+
+En caso de la aprobación de la modificación solicitada, el nuevo permiso debe tener una vigencia de conformidad con los siguientes criterios:
+
+I. Para Centrales Eléctricas totalmente construidas y que no se encuentren en operación, la vigencia del permiso de generación debe estar condicionada a que la entrada en operación comercial, bajo el marco de la Ley del Sector Eléctrico, se concrete en un periodo de seis meses, contado a partir de la fecha de notificación de la resolución correspondiente;
+
+II. Para Centrales Eléctricas en operación con solicitud de migración por el total de su capacidad, la vigencia del permiso debe estar condicionada al cumplimiento de las pruebas operativas con el CENACE para la entrada en operación comercial, así como a la firma del contrato de interconexión bajo el marco de la Ley del Sector Eléctrico, esta última se debe concretar por la persona permisionaria, en un máximo de seis meses contados a partir de la fecha de notificación de la resolución correspondiente;
+
+III. Para Centrales Eléctricas que no se encuentren construidas, la vigencia del permiso de generación debe estar condicionada a que demuestre fehacientemente, mediante la presentación de la documentación idónea, el avance en la construcción de la Central Eléctrica cada tres meses, de acuerdo con el programa de obras declarado por la persona solicitante. Lo anterior, a partir de la fecha de notificación de la resolución correspondiente, y
+
+IV. Para el caso de solicitudes de migraciones parciales, toda vez que entran en conflicto legal con lo dispuesto en el Transitorio Octavo de la Ley del Sector Eléctrico, la CNE debe proceder a la terminación del procedimiento administrativo correspondiente, sin perjuicio del derecho de la interesada para solicitar la migración por el total de la capacidad de generación.
+
+Vigésimo Cuarto. Las solicitudes de permisos de generación de energía eléctrica que se hayan presentado hasta el dieciocho de marzo de dos mil veinticinco, bajo la extinta Comisión Reguladora de Energía, que hayan sido ratificadas ante la CNE y continúen en evaluación a la entrada en vigor del presente reglamento, deben ser resueltas bajo el marco de la Ley del Sector Eléctrico, para lo cual se debe considerar lo siguiente:
+
+I. Para proyectos de generación de energía eléctrica en abasto aislado, se deben resolver conforme a la figura de autoconsumo, ya sea aislado o interconectado;
+
+II. Para proyectos de generación que tengan como finalidad atender la actividad de exportación de energía eléctrica, se debe continuar su evaluación en los mismos términos, y
+
+III. Todas aquellas solicitudes que no se encuentren en lo previsto en los numerales anteriores, se deben resolver conforme a la figura de generación para el Mercado Eléctrico Mayorista, o la que corresponda.
+
+En caso de ser necesario, la CNE puede requerir información para poder resolver la solicitud.
+
+Lo anterior no se considera como efecto retroactivo en perjuicio de las personas solicitantes toda vez que, al no estar resueltas, no confirieron ningún derecho adquirido previo.
+
+Vigésimo Quinto. Para las solicitudes de permisos de suministro de energía eléctrica que se hayan presentado hasta el dieciocho de marzo de dos mil veinticinco, bajo la extinta Comisión Reguladora de Energía, que hayan sido ratificadas ante la CNE y admitidas a trámite, deben ser resueltas bajo el marco de la Ley del Sector Eléctrico.
+
+En caso de ser necesario, la CNE puede requerir información para poder resolver la solicitud.
+
+Lo anterior no se considera como efecto retroactivo toda vez que, las personas solicitantes no contaban con derechos adquiridos previos.
+
+Vigésimo Sexto. En tanto la Secretaría fija los niveles requeridos de consumo o demanda para que un Centro de Carga pueda ser registrado como Usuario Calificado a los que se refiere el artículo 73 de la Ley, pueden incluirse en el registro de Usuarios Calificados a los que hace referencia el artículo 153 del presente reglamento, aquellos Centros de Carga que tengan una demanda igual o mayor a 1 MW, el nivel requerido de demanda para que los Usuarios Calificados participen en el Mercado Eléctrico Mayorista a los que se refiere el artículo 76 de la Ley debe ser igual o mayor 5 MW.
+
+Vigésimo Séptimo. Las erogaciones que se generen con motivo de la aplicación del presente Decreto se deben realizar con cargo a los presupuestos autorizados a los ejecutores del gasto que intervienen en la implementación del mismo, por lo que no se autorizan ampliaciones líquidas a sus presupuestos para tal fin en el presente ejercicio fiscal, ni se puede incrementar el presupuesto regularizable de dichos ejecutores de gasto para tales efectos.
