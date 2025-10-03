@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2025-07-17"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -1351,9 +1351,11 @@ VIII. Elaborar los programas y presupuestos anuales de ingresos y egresos deriva
 
 IX. Determinar con base en las fórmulas elaboradas por la Comisión y aprobadas por el Congreso, las adecuaciones a las cuotas y tarifas relativas a los servicios públicos, y proponerlas en su ley de ingresos;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2025)</small>
 
-X. Cuando no hubiere organismo operador, presentar al Congreso dentro de su proyecto de ley de ingresos de cada ejercicio fiscal, la propuesta de cuotas y tarifas para el servicio de agua, alcantarillado y saneamiento; y cuando lo hubiere, presentar en forma de iniciativa, la propuesta de cuotas y tarifas que le remita el organismo operador, respetando la estructura y montos propuestos. Tratándose de organismos operadores intermunicipales, la presentación al Congreso correrá a cargo del ayuntamiento cuyo municipio cuente con el mayor número de habitantes.
+X. Cuando no hubiere organismo operador, presentar al Congreso dentro de su proyecto de ley de ingresos de cada ejercicio fiscal, la propuesta de cuotas y tarifas para el servicio de agua, alcantarillado y saneamiento; y cuando lo hubiere presentar en forma de iniciativa, la propuesta de cuotas y tarifas que le remita el Director General del Organismo Operador que autoriza su Junta de Gobierno, respetando la estructura y montos propuestos. Tratándose de organismos operadores intermunicipales, la presentación al Congreso correrá a cargo del ayuntamiento cuyo municipio cuente con el mayor número de habitantes.
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
 
 La iniciativa de propuesta de cuotas y tarifas presentada por los ayuntamientos, deberá incluir como justificación un plan de trabajo anual, que priorice la eficacia y la eficiencia para la mejora en la calidad de la prestación de los servicios públicos de agua potable, alcantarillado sanitario, alcantarillado pluvial, tratamiento y disposición de aguas residuales;
 
@@ -1539,7 +1541,9 @@ VIII. Utilizar todos los ingresos que recaude, obtenga o reciba, exclusivamente 
 
 IX. Adquirir los bienes muebles e inmuebles necesarios a su objeto, así como realizar todas las acciones que se requieran, directa o indirectamente, para el cumplimiento de sus objetivos y atribuciones;
 
-X. Someter a la consideración del Congreso del Estado, a través del ayuntamiento respectivo y en los términos de esta Ley, para su resolución final, las cuotas o tarifas que se aplicarán para los cobros de los servicios de agua potable, alcantarillado y saneamiento en el área de su jurisdicción;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+X. Remitir al Ayuntamiento, por conducto de su Director General y con la previa autorización de su Junta de Gobierno, para su presentación al Congreso del Estado en los términos de esta Ley, la iniciativa de ley de cuotas y tarifas que se aplicarán para los cobros de los servicios de agua potable, alcantarillado y saneamiento en el área de su jurisdicción;
 
 XI. Determinar y cobrar, a través del procedimiento administrativo de ejecución, los adeudos que resulten de aplicar las cuotas o tarifas por los servicios que preste;
 
@@ -1633,9 +1637,9 @@ I. Establecer en el ámbito de su competencia, los lineamientos y políticas en 
 
 II. Aprobar el Programa Operativo Anual que le presente el Director General;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-III. Remitir al Congreso, para su aprobación, a través del Ayuntamiento respectivo, las cuotas y tarifas por la prestación del servicio, a más tardar el cinco de noviembre del año anterior a su vigencia, propuestas que deberán cumplir con los requisitos y formalidades que se disponen en la presente Ley; de no presentarlas o de no hacerlo oportunamente, se tomará como propuesta las que hubiesen regido durante el año fiscal inmediato anterior;
+III. Analizar y, en su caso, autorizar la propuesta de Iniciativa de Ley de Cuotas y Tarifas que presente el Director General del Organismo Operador, para que una vez otorgada su anuencia en los términos previstos por el artículo 97 de la presente Ley, se remita por conducto de su Director General al Ayuntamiento respectivo, y este a su vez, la presente a más tardar el cinco de noviembre del año anterior a su vigencia al Congreso del Estado para su aprobación. La Iniciativa deberá cumplir con los requisitos y formalidades que se disponen en la presente Ley; de no presentarla o hacerlo oportunamente, se tomará como iniciativa de ley la que rige durante el año fiscal en curso;
 
 IV. Designar y remover al Director General del organismo;
 
@@ -1717,7 +1721,9 @@ IV. Supervisar la ejecución del Proyecto Estratégico de Desarrollo, aprobado p
 
 V. Realizar los estudios tarifarios para determinar, en apego a lo dispuesto en la presente Ley, las cuotas y tarifas aplicables por la prestación de los servicios públicos;
 
-VI. Proponer a la Junta de Gobierno las cuotas y tarifas referidas en la fracción anterior, para que de considerarlo pertinente, las remita al Congreso del Estado, a través del ayuntamiento respectivo, para su aprobación y en su caso publicación;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VI. Proponer a la Junta de Gobierno la Iniciativa de Ley de Cuotas y Tarifas para su autorización y remisión por conducto de su Director General al Ayuntamiento correspondiente, y este a su vez la presente al Congreso del Estado para su aprobación y en su caso publicación;
 
 VII. Determinar y cobrar, a través del procedimiento administrativo de ejecución en términos de lo previsto en la presente Ley y demás ordenamientos aplicables, los adeudos que resulten de aplicar las cuotas o tarifas por los servicios que preste el organismo;
 
@@ -4022,3 +4028,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
 
 TERCERO. La Comisión Estatal del Agua emitirá los lineamientos que refiere el artículo 163 Bis de este Decreto, dentro del plazo de los ciento ochenta días naturales siguientes a la entrada en vigencia del presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0270.- QUE REFORMA LOS ARTÍCULOS 79, 92, 96 Y 100, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
