@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2025-10-02"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1129,13 +1129,17 @@ XL. Constituir, dentro de los primeros treinta días del inicio de la administra
 
 XLI. Designar a los coordinadores municipales de protección civil, verificando que cuenten con la debida certificación de competencia, expedida por una institución avalada por la Escuela Nacional de Protección Civil;
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XLII. Nombrar al enlace municipal de atención al migrante, el que tendrá las atribuciones que determine la Ley, y
+XLII. Nombrar al enlace municipal de atención al migrante, el que tendrá las atribuciones que determine la Ley;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XLIII. En términos de la Ley de Planeación, diseñar y coordinar políticas y programas para la protección y fortalecimiento de la familia, encaminadas a mejorar sus condiciones de vida, y
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-XLIII. Las demás que se deriven de esta Ley u otros ordenamientos aplicables.
+XLIV. Las demás que se deriven de esta Ley u otros ordenamientos aplicables.
 
 ###### ARTICULO 71.
 
@@ -3652,3 +3656,11 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0271.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO Y DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los 180 días siguientes de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
