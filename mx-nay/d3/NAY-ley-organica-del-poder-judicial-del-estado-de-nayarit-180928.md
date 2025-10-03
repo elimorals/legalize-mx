@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-del-estado-de-nayarit-180928"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-07-17"
-last_updated: "2025-07-17"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 3 DE OCTUBRE DE 2025.]</small>
 
 Ley publicada en la Sección Segunda del Número 011 del Periódico Oficial del Estado de Nayarit, el jueves 17 de julio de 2025.
 
@@ -1285,7 +1285,9 @@ La Presidencia del Tribunal de Disciplina se renovará cada dos años de manera 
 
 Las Magistradas y Magistrados del Tribunal de Disciplina ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos de conformidad con la Constitución Política del Estado y la Ley de Responsabilidades Administrativas.
 
-Se regirán en los mismos términos que los magistrados y magistradas del Tribunal Superior en cuanto a remuneraciones, y tendrán derecho, al término de su periodo, a un haber por retiro que consistirá en el pago mensual íntegro de las percepciones que correspondan a los magistrados y magistradas en activo durante un año. En los casos en que concluyan antes de cumplir el periodo de nueve años para el que fueron electos, tendrán derecho a un haber por retiro conforme a lo establecido en el artículo 22 de esta Ley.
+> <small>(F. DE E., P.O. 3 DE OCTUBRE DE 2025)</small>
+
+Se regirán en los mismos términos que los magistrados y magistradas del Tribunal Superior en cuanto a remuneraciones, y tendrán derecho, al término de su periodo, a un haber por retiro que consistirá en el pago mensual íntegro de las percepciones que correspondan a los magistrados y magistradas en activo durante un año. En los casos en que concluyan antes de cumplir el periodo de seis años para el que fueron electos, tendrán derecho a un haber por retiro conforme a lo establecido en el artículo 22 de esta Ley.
 
 ###### Artículo 98.
 
