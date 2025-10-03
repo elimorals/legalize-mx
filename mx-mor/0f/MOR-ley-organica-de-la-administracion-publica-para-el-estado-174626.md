@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-para-el-estado-174626
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-09-30"
-last_updated: "2024-09-30"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria Número 6349 del Periódico Oficial del Estado de Morelos, el lunes 30 de septiembre de 2024.
 
@@ -111,11 +111,19 @@ XVI. Persona Titular del Poder Ejecutivo Estatal, a la persona depositaria del e
 
 XVII. Reglamento Interior, a los reglamentos internos de la Administración Pública Centralizada;
 
-XVIII. Secretarías, a las Secretarías de Gobierno, de Hacienda, de Desarrollo Económico y del Trabajo, de Desarrollo Agropecuario, de Infraestructura, de Educación, de Salud, de Administración, de la Contraloría, de Turismo, de Cultura, de Bienestar, de Desarrollo Sustentable, de las Mujeres y de Seguridad y Protección Ciudadana;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XIX. TICs, a las Tecnologías de la Información y Comunicaciones, y
+XVIII. Secretarías, a las Secretarías de Gobierno, de Administración y Finanzas, de Desarrollo Económico y del Trabajo, de Desarrollo Agropecuario, de Infraestructura, de Educación, de Salud, de la Contraloría, de Turismo, de Cultura, de Bienestar, de Desarrollo Sustentable, de las Mujeres y de Seguridad y Protección Ciudadana;
 
-XX. UEJ, a las Unidades de Enlace Jurídico o equivalentes de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XIX. TICs, a las Tecnologías de la Información y Comunicaciones;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XX. UEFA, a las Unidades de Enlace Financiero Administrativo o equivalentes de la Administración Pública Estatal, y
+
+XXI. UEJ, a las Unidades de Enlace Jurídico o equivalentes de la Administración Pública Estatal.
 
 ###### Artículo 5.
 
@@ -153,7 +161,9 @@ I. La Jefatura de la Oficina de la Gubernatura del Estado;
 
 II. La Secretaría de Gobierno;
 
-III. La Secretaría de Hacienda;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+III. La Secretaría de Administración y Finanzas;
 
 IV. La Secretaría de Desarrollo Económico y del Trabajo;
 
@@ -165,7 +175,7 @@ VII. La Secretaría de Educación;
 
 VIII. La Secretaría de Salud;
 
-IX. La Secretaría de Administración;
+IX. (DEROGADA, P.O. 3 DE OCTUBRE DE 2025)
 
 X. La Secretaría de la Contraloría;
 
@@ -285,13 +295,17 @@ XXXI. Participar en la elaboración del Plan Estatal de Desarrollo, respecto al 
 
 XXXII. Participar en el Comité de Planeación para el Desarrollo de Morelos, a fin de contribuir a la mejora de la planeación y evaluación de la Administración Pública Estatal y en los acuerdos y programas que se generen;
 
-XXXIII. Remitir a la Secretaría de Hacienda la información que se requiera para elaborar el informe anual establecido en el primer párrafo del artículo 33 de la Constitución Estatal, de acuerdo a los lineamientos que se emitan para tal efecto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXXIII. Remitir a la Secretaría de Administración y Finanzas la información que se requiera para elaborar el informe anual establecido en el primer párrafo del artículo 33 de la Constitución Estatal, de acuerdo a los lineamientos que se emitan para tal efecto;
 
 XXXIV. Cumplir y hacer cumplir los decretos, acuerdos, circulares, órdenes y demás disposiciones que expida la Persona Titular del Poder Ejecutivo Estatal, en el ámbito de su competencia;
 
 XXXV. Promover que la comunicación gubernamental, a través de cualquier medio, contemple lenguaje incluyente, con perspectiva de género, libre de roles, estigmas y estereotipos, y se procuren las lenguas indígenas y la lengua de señas mexicana;
 
-XXXVI. Remitir, conforme a la normativa aplicable, a la Unidad de Inteligencia Patrimonial y Económica del Estado de Morelos adscrita a la Secretaría de Hacienda, la información patrimonial, económica, fiscal, administrativa, civil y cualquier otra que, dentro de los límites legales y bajo procedimientos establecidos sirva de apoyo para prevenir y combatir de manera convenida y coordinada las operaciones con recursos de procedencia ilícita, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXXVI. Remitir, conforme a la normativa aplicable, a la Unidad de Inteligencia Patrimonial y Económica del Estado de Morelos adscrita a la Secretaría de Administración y Finanzas, la información patrimonial, económica, fiscal, administrativa, civil y cualquier otra que, dentro de los límites legales y bajo procedimientos establecidos sirva de apoyo para prevenir y combatir de manera convenida y coordinada las operaciones con recursos de procedencia ilícita, y
 
 XXXVII. Las demás que le confieran las leyes, otros ordenamientos jurídicos aplicables y las que les resulten compatibles conforme a sus objetivos para su mejor desarrollo.
 
@@ -419,7 +433,9 @@ XXXVII. Desarrollar los procesos administrativos, aprovechando las TICs para mej
 
 XXXVIII. Proponer, en coordinación con la Consejería Jurídica y las diferentes unidades de la Administración Pública Estatal, la actualización y concordancia de la legislación para establecer el marco legal de aplicación de las TICs;
 
-XXXIX. Proporcionar capacitación, en coordinación con la Secretaría de Administración, a las personas servidoras públicas de la Administración Pública Estatal, en el uso y aprovechamiento de las TICs;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXXIX. Proporcionar capacitación, en coordinación con la Secretaría de Administración y Finanzas, a las personas servidoras públicas de la Administración Pública Estatal, en el uso y aprovechamiento de las TICs;
 
 XL. Desarrollar y dar soporte a las TICs, para su aplicación en la Administración Pública Centralizada, a fin de garantizar el acceso de todas las personas a trámites y servicios digitales;
 
@@ -501,81 +517,91 @@ XXV. Llevar el registro, legalizar y certificar las firmas autógrafas de las pe
 
 XXVI. Coordinar y dar seguimiento mediante un sistema de control de las iniciativas de Leyes o Decretos que se remitan al Congreso del Estado y las que éste devuelva para su publicación, así como refrendar y publicar las leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas que deban regir en el Estado;
 
-XXVII. Supervisar la promoción y defensa de los derechos humanos que lleve a cabo la Administración Pública Estatal, así como promover el respeto irrestricto de los derechos humanos de toda persona que se encuentre en el territorio estatal, permanente o transitoriamente;
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XXVIII. Proponer y coordinar, en su caso, las acciones del Poder Ejecutivo Estatal, relacionadas con el Sistema de Atención a Víctimas del Estado de Morelos, así como participar en su representación ante los órganos de dicho Sistema, de acuerdo con lo que establezcan las leyes en la materia;
+XXVII. Representar legalmente a la Secretaría de Gobierno, en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Federal;
 
-XXIX. Coordinar, en el ámbito de sus atribuciones, las acciones del Gobierno del Estado, para la protección integral de personas defensoras de derechos humanos y periodistas, así como participar en los órganos del mecanismo de acuerdo a lo dispuesto en las normas respectivas;
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XXX. Dirigir, administrar y publicar el Periódico Oficial "Tierra y Libertad";
+XXVIII. Intervenir con la representación de la Secretaría de Gobierno en los juicios de amparo cuando sea señalada como autoridad responsable y, cuando se requiera una defensa conjunta de los intereses del Poder Ejecutivo Estatal, someterlos a consideración de la Consejería Jurídica;
 
-XXXI. Establecer el Calendario Oficial del Gobierno del Estado;
+XXIX. Supervisar la promoción y defensa de los derechos humanos que lleve a cabo la Administración Pública Estatal, así como promover el respeto irrestricto de los derechos humanos de toda persona que se encuentre en el territorio estatal, permanente o transitoriamente;
 
-XXXII. Organizar y vigilar el manejo de la documentación y archivos que emita y resguarde la Administración Pública Estatal;
+XXX. Proponer y coordinar, en su caso, las acciones del Poder Ejecutivo Estatal, relacionadas con el Sistema de Atención a Víctimas del Estado de Morelos, así como participar en su representación ante los órganos de dicho Sistema, de acuerdo con lo que establezcan las leyes en la materia;
 
-XXXIII. Tramitar los recursos administrativos que competa conocer a la Persona Titular del Poder Ejecutivo Estatal, así como los del área de su competencia, sin perjuicio de las atribuciones que a la Consejería Jurídica competen;
+XXXI. Coordinar, en el ámbito de sus atribuciones, las acciones del Gobierno del Estado, para la protección integral de personas defensoras de derechos humanos y periodistas, así como participar en los órganos del mecanismo de acuerdo a lo dispuesto en las normas respectivas;
 
-XXXIV. Coordinar y controlar los sistemas de radio-comunicación y de comunicación destinados al uso de la Administración Pública Centralizada;
+XXXII. Dirigir, administrar y publicar el Periódico Oficial "Tierra y Libertad";
 
-XXXV. Planear, organizar, regular, regularizar, vigilar, inspeccionar y, en su caso, administrar el servicio de transporte público y privado y transporte particular, y
+XXXIII. Establecer el Calendario Oficial del Gobierno del Estado;
 
-XXXVI. Dirigir, coordinar y controlar la ejecución de los programas de transporte en el Estado, que realice directamente o en forma concertada con la Federación o los municipios.
+XXXIV. Organizar y vigilar el manejo de la documentación y archivos que emita y resguarde la Administración Pública Estatal;
+
+XXXV. Tramitar los recursos administrativos que competa conocer a la Persona Titular del Poder Ejecutivo Estatal, así como los del área de su competencia, sin perjuicio de las atribuciones que a la Consejería Jurídica competen;
+
+XXXVI. Coordinar y controlar los sistemas de radio-comunicación y de comunicación destinados al uso de la Administración Pública Centralizada;
+
+XXXVII. Planear, organizar, regular, regularizar, vigilar, inspeccionar y, en su caso, administrar el servicio de transporte público y privado y transporte particular, y
+
+XXXVIII. Dirigir, coordinar y controlar la ejecución de los programas de transporte en el Estado, que realice directamente o en forma concertada con la Federación o los municipios.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-A la Secretaría de Hacienda le corresponde ejercer las siguientes atribuciones:
+A la Secretaría de Administración y Finanzas le corresponde ejercer las siguientes atribuciones:
 
-I. Proponer e instrumentar la política hacendaria del Estado, tomando en cuenta las disposiciones legales y los convenios de coordinación fiscal celebrados por el Poder Ejecutivo Estatal con la Federación y los municipios del Estado;
+I. Proponer e instrumentar la política hacendaria del Estado, de conformidad con las disposiciones legales y los convenios de coordinación fiscal celebrados por el Poder Ejecutivo Estatal con la Federación y los municipios del Estado;
 
 II. Proyectar y calcular los ingresos y egresos de la Administración Pública Estatal, atendiendo a las necesidades y políticas para el desarrollo del Estado;
 
-III. Elaborar el proyecto de iniciativa de Ley de Ingresos del Estado y someterlo a consideración de la Persona Titular del Poder Ejecutivo Estatal;
+III. Elaborar los proyectos de Iniciativas de Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado de Morelos, y someterlos a consideración de la Persona Titular del Poder Ejecutivo Estatal;
 
 IV. Recibir los recursos financieros que correspondan de conformidad con el Sistema Nacional de Coordinación Fiscal y los convenios de descentralización y reasignación, así como los demás conceptos que otorgue la Federación al Gobierno del Estado, conforme a las disposiciones jurídicas aplicables;
 
-V. Ejercer en el ámbito de su competencia las atribuciones derivadas de los convenios de coordinación fiscal y de colaboración administrativa, que se celebren;
+V. Ejercer en el ámbito de su competencia las atribuciones derivadas de los convenios de coordinación fiscal y de colaboración administrativa que se celebren;
 
-VI. Planear, organizar, integrar y vigilar el Padrón de Contribuyentes del Estado, asegurando su actualización permanente;
+VI. Planear, organizar, integrar, vigilar y actualizar el Padrón de Contribuyentes del Estado;
 
-VII. Recaudar los impuestos, derechos, productos, aprovechamientos y demás contribuciones que correspondan al Estado, así como aquellos que se establezcan en los convenios de coordinación fiscal con la Federación y los Ayuntamientos;
+VII. Recaudar los impuestos, derechos, productos, aprovechamientos y demás ingresos que correspondan al Estado, así como aquellos que se establezcan en los convenios de coordinación fiscal con la Federación y los Ayuntamientos;
 
-VIII. Ubicar, coordinar y operar las oficinas recaudadoras, así como establecer las condiciones contractuales para utilizar los servicios externos para la recaudación de las contribuciones que correspondan al Estado;
+VIII. Ubicar, coordinar y operar las oficinas recaudadoras, así como establecer las condiciones contractuales para utilizar los servicios externos para el cobro de las contribuciones que correspondan al Estado;
 
-IX. Programar, ordenar y practicar visitas domiciliarias, auditorias, revisiones, inspecciones, así como los demás actos que establezcan las disposiciones fiscales, para comprobar el cumplimiento de las obligaciones en materia fiscal y, en su caso, determinar créditos fiscales;
+IX. Programar, ordenar y practicar visitas domiciliarias, auditorías, revisiones, inspecciones, así como los demás actos que establezcan las disposiciones fiscales, para comprobar el cumplimiento de las obligaciones en materia fiscal y, en su caso, determinar créditos fiscales;
 
-X. Formular las denuncias, querellas o su equivalente, en materia de delitos fiscales y de cualquier otro que represente un daño a la hacienda del Estado;
+X. Imponer las sanciones que correspondan por infracciones a disposiciones fiscales y demás ordenamientos fiscales de carácter estatal o federal, cuya aplicación esté encomendada al Estado;
 
-XI. Proponer e instrumentar las medidas tendientes a evitar la evasión y elusión fiscal;
+XI. Formular las denuncias, querellas o su equivalente, en materia de delitos fiscales y de cualquier otro que represente un daño a la hacienda del Estado;
 
-XII. Substanciar el procedimiento administrativo de ejecución, conforme a la normativa aplicable;
+XII. Vigilar y asegurar, en general, el cumplimiento de las disposiciones fiscales;
 
-XIII. Intervenir por sí, o a través de representante, en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado, así como tramitar y resolver los recursos administrativos en la esfera de su competencia;
+XIII. Vigilar la correcta aplicación de subsidios, estímulos y exenciones fiscales;
 
-XIV. Realizar una labor permanente de difusión y orientación fiscal sobre las leyes tributarias del Estado, así como proporcionar asesoría a los ayuntamientos y a los particulares sobre la interpretación y aplicación de tales leyes. Esto último se dará a solicitud expresa;
+XIV. Substanciar el procedimiento administrativo de ejecución, conforme a la normativa aplicable;
 
-XV. Elaborar el proyecto de iniciativa de Presupuesto de Egresos del Gobierno del Estado de Morelos, preferentemente con un enfoque a resultados y someterlo a consideración de la Persona Titular del Poder Ejecutivo Estatal;
+XV. Representar en toda clase de procedimientos judiciales o administrativos los intereses de la hacienda pública del Estado y los que deriven de las funciones operativas inherentes a los acuerdos o convenios del Poder Ejecutivo Federal en materia de ingresos federales coordinados, ya sea interponiendo recursos, juicios o cualquier otro procedimiento, o bien, compareciendo en juicio en su defensa, así como tramitar y resolver los recursos administrativos en la esfera de su competencia;
 
-XVI. Aprobar las asignaciones presupuestales de inversión pública que se deriven de los programas y proyectos que proponga la Administración Pública Estatal, verificando su congruencia con los programas operativos anuales o programas presupuestarios, sectoriales e institucionales, conforme a la disponibilidad presupuestaria existente;
+XVI. Realizar una labor permanente de difusión y orientación fiscal sobre las leyes tributarias del Estado, al interior de la Administración Pública Estatal, así como proporcionar asesoría a los ayuntamientos y a los particulares sobre la interpretación y aplicación de tales leyes. Esto último se dará a solicitud expresa;
 
-XVII. Controlar la evaluación que permita conocer los resultados de la aplicación de los recursos públicos estatales, así como concertar con la Administración Pública Estatal la validación de los indicadores estratégicos, en los términos de las disposiciones aplicables;
+XVII. Aprobar las asignaciones presupuestarias de inversión pública que se deriven de los programas y proyectos que proponga la Administración Pública Estatal, verificando su congruencia con los programas operativos anuales o programas presupuestarios, sectoriales e institucionales, conforme a la disponibilidad presupuestaria existente;
 
-XVIII. Emitir, conjuntamente con la Secretaría de la Contraloría y la Comisión Estatal de Evaluación del Desarrollo Social y a más tardar el último día hábil de abril, el Programa Anual de Evaluación Estatal para los programas presupuestarios y otros programas de la Administración Pública Estatal;
+XVIII. Supervisar la evaluación que permita conocer los resultados de la aplicación de los recursos públicos estatales, así como concertar con la Administración Pública Estatal la validación de los indicadores estratégicos, en los términos de las disposiciones aplicables;
 
-XIX. Coordinar el desarrollo de metodologías e indicadores que permitan medir y gestionar el desempeño de los programas presupuestarios, a través del Sistema de Evaluación de Desempeño Estatal;
+XIX. Emitir, conjuntamente con la Secretaría de la Contraloría y la Comisión Estatal de Evaluación del Desarrollo Social, a más tardar el último día hábil de abril de cada ejercicio, el Programa Anual de Evaluación Estatal para los programas presupuestarios y otros programas de la Administración Pública Estatal;
 
-XX. Controlar y evaluar el ejercicio del Presupuesto de Egresos del Gobierno del Estado, de conformidad con la normativa aplicable;
+XX. Coordinar el desarrollo de metodologías e indicadores que permitan medir y gestionar el desempeño de los programas presupuestarios, a través del Sistema de Evaluación de Desempeño Estatal;
 
-XXI. Autorizar la ministración de recursos y pagos, de conformidad con las partidas y montos autorizados en el Presupuesto de Egresos;
+XXI. Dictar las normas, lineamientos y criterios en materia presupuestaria a que deberá sujetarse la Administración Pública Estatal, para la formulación de los programas que servirán de base para la elaboración de sus respectivos anteproyectos de presupuesto, así como controlar el ejercicio del Presupuesto de Egresos del Gobierno del Estado y evaluar el resultado de su ejecución;
 
-XXII. Autorizar la ministración de recursos que corresponda a los ayuntamientos por concepto de participaciones o aportaciones federales o estatales;
+XXII. Autorizar la ministración de recursos y pagos, de conformidad con las partidas y montos autorizados en el Presupuesto de Egresos, así como la ministración de recursos que corresponda a los ayuntamientos por concepto de participaciones o aportaciones federales o estatales, o recursos municipales derivados de los convenios de colaboración;
 
 XXIII. Verificar que las personas servidoras públicas que manejen fondos del Estado otorguen fianza suficiente para garantizar su manejo, en los términos que establezca la normativa aplicable;
 
-XXIV. Normar y registrar, en el ámbito de su competencia, la celebración de actos y contratos de los que resulten pagos, derechos y obligaciones para el Gobierno del Estado, así como definir e instrumentar el Sistema de Registro correspondiente;
+XXIV. Normar y registrar, en el ámbito de su competencia, la celebración de actos y contratos de los que resulten pagos, derechos y obligaciones para el Gobierno del Estado, así como definir e instrumentar el sistema de registro correspondiente;
 
-XXV. Constituir y coordinar el funcionamiento del Sistema Estatal de Planeación Democrática, promoviendo la participación de los sectores social y privado;
+XXV. Constituir y coordinar el funcionamiento del Sistema Estatal de Planeación Democrática, para el desarrollo sostenible, integrando a las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, Federal y Municipal correspondientes, para definir programas, proyectos y acciones en congruencia con el Plan Estatal de Desarrollo y el Plan Rector;
 
-XXVI. Integrar al Plan Estatal de Desarrollo los programas, proyectos y actividades que de él se deriven, sean sectoriales e intersectoriales, programas presupuestarios, institucionales, regionales y especiales y cualquier otro programa que determine la Persona Titular del Poder Ejecutivo Estatal verificando, con la participación de la Administración Pública Estatal, que exista congruencia entre los mismos y el Plan Nacional de Desarrollo;
+XXVI. Integrar al Plan Estatal de Desarrollo, el Plan Rector, los programas, proyectos y actividades que de éste se deriven, sean sectoriales e intersectoriales, programas presupuestarios, institucionales, regionales y especiales y cualquier otro programa que determine la Persona Titular del Poder Ejecutivo Estatal verificando, con la participación de la Administración Pública Estatal, que exista congruencia entre los mismos y el Plan Nacional de Desarrollo;
 
 XXVII. Realizar la evaluación general de la gestión gubernamental en los términos previstos por el Sistema Estatal de Planeación Democrática;
 
@@ -591,19 +617,63 @@ XXXII. Proponer a la Persona Titular del Poder Ejecutivo Estatal la cancelación
 
 XXXIII. Proponer la contratación de la deuda pública del Estado, así como administrar y controlar su servicio;
 
-XXXIV. Proporcionar la asesoría que en materia de interpretación fiscal le otorgan los ordenamientos tributarios del Estado;
+XXXIV. Representar al Gobierno del Estado y participar activamente dentro del Sistema Nacional de Coordinación Fiscal y en el Sistema Estatal de Coordinación Hacendaria;
 
-XXXV. Representar al Gobierno del Estado y participar activamente dentro del Sistema Nacional de Coordinación Fiscal y en el Sistema Estatal de Coordinación Hacendaria;
+XXXV. Concentrar, custodiar y requerir, en su caso, las garantías que se otorguen en favor del Gobierno del Estado, por conducto de cualesquiera de sus Secretarías y Dependencias, o bien, en favor de la Federación, de acuerdo con los convenios celebrados para tal efecto; registrarlas, cancelarlas o hacerlas efectivas oportunamente, conforme a la normativa aplicable;
 
-XXXVI. Concentrar, custodiar y requerir, en su caso, las garantías que se otorguen en favor del Gobierno del Estado, por conducto de cualesquiera de sus Secretarías y Dependencias, o bien, en favor de la Federación, de acuerdo con los convenios celebrados para tal efecto; registrarlas, cancelarlas o hacerlas efectivas oportunamente, conforme a la normativa aplicable;
+XXXVI. Autorizar los precios y tarifas de los bienes, trámites y servicios que produce o presta la Administración Pública Paraestatal, distintos de contribuciones, previa opinión de la Secretaría, Dependencia o Entidad que corresponda;
 
-XXXVII. Autorizar los precios y tarifas de los bienes, trámites y servicios que produce o presta la Administración Pública Paraestatal, distintos de contribuciones, previa opinión de la Secretaría, Dependencia o Entidad que corresponda;
+XXXVII. Emitir información estratégica, patrimonial y económica derivada del análisis financiero, contable, fiscal, administrativo y del ejercicio presupuestal de la Administración Pública Estatal;
 
-XXXVIII. Representar legalmente al Gobierno del Estado ante el Servicio de Administración Tributaria y otras autoridades federales o estatales en materia fiscal y hacendaria;
+XXXVIII. Representar legalmente al Poder Ejecutivo Estatal ante el Servicio de Administración Tributaria, el Instituto Mexicano del Seguro Social y otras autoridades federales o estatales en materia fiscal y hacendaria, así como de seguridad social;
 
-XXXIX. Emitir información estratégica, patrimonial y económica derivada del análisis financiero, contable, fiscal, administrativa y del ejercicio presupuestal de la Administración Pública Estatal, y
+XXXIX. Planear, instrumentar, dirigir, emitir normas y políticas en materia de relaciones laborales aplicables a la administración del capital humano al servicio de la Administración Pública Centralizada, incluyendo el ingreso al servicio público, evaluación, organización, capacitación y desarrollo de personal; la cultura de seguridad e higiene, así como autorizar las relativas a las políticas de gasto público de servicios personales, salariales y de prestaciones sociales y económicas;
 
-XL. Planear, organizar, regular, administrar, vigilar y, en su caso, controlar la aplicación de las disposiciones fiscales.
+XL. Normar y aprobar la contratación de las personas eventuales y prestadoras de servicios profesionales que conforme a las disposiciones jurídicas y administrativas sean viables, así como emitir las directrices para dictaminar sobre la funcionalidad y procedencia de los mismos con remuneración equivalente al tabulador de sueldos vigentes;
+
+XLI. Asumir la representación patronal, con relación a las condiciones generales de trabajo vigentes en la Administración Pública Centralizada y, en su caso, la de la Administración Pública Paraestatal que corresponda;
+
+XLII. Expedir los nombramientos de las personas servidoras públicas de la Administración Pública Centralizada, con excepción de aquellos casos cuya expedición y nombramiento corresponda a la Persona Titular del Poder Ejecutivo Estatal o alguna otra autoridad;
+
+XLIII. Proponer, instrumentar y normar la política en materia de adquisiciones, enajenaciones, arrendamientos, prestación de servicios, organización y patrimonio de la Administración Pública Centralizada, conforme a las disposiciones jurídicas aplicables;
+
+XLIV. Planear, organizar, coordinar, dirigir y controlar la adquisición de bienes y servicios, así como las enajenaciones y arrendamientos de la Administración Pública Centralizada, de conformidad con el marco normativo aplicable y las disposiciones administrativas que dicte la Persona Titular del Poder Ejecutivo Estatal, contando además con la representación legal del Poder Ejecutivo Estatal para actos de dominio análogos y derivados;
+
+XLV. Integrar el Programa Anual de Adquisiciones de la Administración Pública Centralizada, así como coordinar y dirigir su instrumentación;
+
+XLVI. Elaborar, actualizar, conservar, administrar y controlar el Padrón de Proveedores del Poder Ejecutivo Estatal, en términos de las disposiciones aplicables;
+
+XLVII. Administrar, coordinar y controlar los talleres gráficos, así como la edición y publicación de la información oficial de la Administración Pública Centralizada, con excepción del Periódico Oficial “Tierra y Libertad”, la Coordinación de Comunicación Social y la Industria Penitenciaria;
+
+XLVIII. Establecer los criterios y las políticas de conservación de las unidades vehiculares de la Administración Pública Centralizada, a través de la implementación de los programas de mantenimiento preventivo y correctivo;
+
+XLIX. Proponer a la Persona Titular del Poder Ejecutivo Estatal las políticas y medidas técnicas para el seguimiento sectorial, la organización interna y desarrollo administrativo de la Administración Pública Estatal;
+
+L. Planear, organizar, coordinar, dirigir y controlar los sistemas generales de organización de la Administración Pública Centralizada, así como mantener actualizados los registros de su estructura y plantilla de personal;
+
+LI. Proponer a la Persona Titular del Poder Ejecutivo Estatal, los proyectos de creación, modificación o supresión de la Administración Pública Centralizada, en coordinación con estas mismas áreas;
+
+LII. Autorizar las propuestas de modificación de estructuras administrativas y plantillas de personal de la Administración Pública Centralizada, así como verificar, que en los casos que impliquen reformas a los Reglamentos Interiores, las Secretarías y Dependencias elaboren los proyectos correspondientes y los sometan a la revisión de la Consejería Jurídica;
+
+LIII. Planear, organizar, dirigir y controlar, en coordinación con las autoridades correspondientes de la Administración Pública Centralizada, la elaboración y actualización de sus manuales administrativos de organización, políticas y procedimientos y los demás que correspondan al ejercicio de su función;
+
+LIV. Administrar los bienes muebles e inmuebles propiedad o en resguardo de la Administración Pública Centralizada, procurando su mantenimiento, conservación y acondicionamiento, para lo cual deberá emitir medidas de protección, revalorización, investigación y difusión, con el objetivo de conservar el patrimonio del Poder Ejecutivo Estatal, así como ordenar su recuperación administrativa cuando proceda, y proponer a la Persona Titular del Poder Ejecutivo Estatal la concesión del uso o la venta, en su caso, de dichos bienes;
+
+LV. Planear, organizar, coordinar y dirigir el Sistema de Administración, Registro y Control de Bienes de la Administración Pública Centralizada, así como realizar los actos necesarios para la conservación, protección y recuperación de los bienes propiedad de la Administración Pública Centralizada, en coordinación con la Consejería Jurídica;
+
+LVI. Coordinarse con la Administración Pública Estatal, en todo lo relativo a la construcción, reconstrucción y conservación de edificios públicos, monumentos y edificios del patrimonio del Estado y obras de ornato, conforme a las disposiciones jurídicas aplicables y los convenios que sobre el particular suscriba el Poder Ejecutivo Estatal con el Poder Ejecutivo Federal;
+
+LVII. Regular y, en su caso, representar el interés de la Administración Pública Centralizada en la adquisición, enajenación, comodato, destino o afectación de los bienes inmuebles de su patrimonio; asimismo, en coordinación con las Secretarías y Dependencias involucradas, determinar normas y procedimientos para formular inventarios y avalúos de los mismos;
+
+LVIII. Administrar los almacenes generales de la Administración Pública Centralizada, determinando, en su caso, los criterios y políticas a seguir para que las Secretarías y Dependencias, mantengan actualizados los inventarios correspondientes;
+
+LIX. Intervenir, dentro de su ámbito de competencia, en los procesos de entrega-recepción de la Administración Pública Centralizada, con la participación de la Secretaría de la Contraloría;
+
+LX. Proponer e instrumentar las políticas de control del gasto administrativo de la Administración Pública Centralizada, así como los sistemas para su asignación, ejecución, control y evaluación;
+
+LXI. Nombrar y remover a las personas titulares de las UEFA de la Administración Pública Estatal, de conformidad con los Lineamientos que se expidan para tales efectos, las que estarán adscritas orgánica, jerárquica y funcionalmente a las unidades a las que sean asignadas y dependerán operativamente de la Secretaría de Administración y Finanzas, y
+
+LXII. Organizar, coordinar, dirigir y, en su caso, controlar a las UEFA de la Administración Pública Estatal para el adecuado desempeño de las atribuciones conferidas.
 
 ###### Artículo 25.
 
@@ -761,7 +831,9 @@ VII. Ejercer, en tiempo y forma, los recursos derivados de los convenios suscrit
 
 VIII. Participar de manera coordinada con las unidades administrativas involucradas en la formulación y ejecución de programas, proyectos y acciones para el abastecimiento y tratamiento de aguas, así como la prestación de los servicios de agua potable, drenaje, alcantarillado y pluvial, en su caso y conforme a los instrumentos legales que se emitan;
 
-IX. Realizar, por instrucciones de la Persona Titular del Poder Ejecutivo Estatal o a solicitud de los municipios o de los particulares, en coordinación con la Secretaría de Hacienda, la evaluación, innovación y ejecución de los programas de financiamiento para las obras públicas, dictaminando los proyectos propuestos y su presupuesto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+IX. Realizar, por instrucciones de la Persona Titular del Poder Ejecutivo Estatal o a solicitud de los municipios o de los particulares, en coordinación con la Secretaría de Administración y Finanzas, la evaluación, innovación y ejecución de los programas de financiamiento para las obras públicas, dictaminando los proyectos propuestos y su presupuesto;
 
 X. Administrar y realizar y, en su caso, someter a consideración de la Persona Titular del Poder Ejecutivo Estatal, las concesiones en la materia de construcción, administración, operación y conservación de carreteras y caminos de competencia estatal;
 
@@ -897,57 +969,7 @@ XXV. Dictar disposiciones y lineamientos para la regulación, control y fomento 
 
 ###### Artículo 30.
 
-A la Secretaría de Administración, le corresponde ejercer las siguientes atribuciones:
-
-I. Proponer, instrumentar y normar la política de administración de recursos humanos, adquisiciones, enajenaciones, arrendamientos, prestación de servicios, organización y patrimonio de la Administración Pública Centralizada, conforme a las disposiciones jurídicas aplicables;
-
-II. Integrar el Programa Anual de Adquisiciones de la Administración Pública Centralizada, así como coordinar y dirigir su instrumentación;
-
-III. Planear, organizar, coordinar, dirigir y controlar la administración de los recursos humanos, instrumentar las acciones de capacitación y de cultura de seguridad e higiene de la Administración Pública Centralizada, así como conducir las relaciones con los representantes de las personas trabajadoras;
-
-IV. Representar legalmente al Poder Ejecutivo Estatal ante el Instituto Mexicano del Seguro Social y otras autoridades en materia de seguridad social;
-
-V. Planear, organizar, coordinar, dirigir y controlar la adquisición de bienes y servicios, así como las enajenaciones y arrendamientos de la Administración Pública Centralizada, proveyéndola de lo necesario para su adecuado funcionamiento, de conformidad con el marco normativo aplicable y las disposiciones administrativas que dicte la Persona Titular del Poder Ejecutivo Estatal, contando además con la representación legal del Poder Ejecutivo Estatal para actos de dominio análogos y derivados;
-
-VI. Administrar los almacenes generales de la Administración Pública Centralizada, determinando, en su caso, los criterios y políticas a seguir para que las Secretarías y Dependencias, mantengan actualizados los inventarios correspondientes;
-
-VII. Administrar, coordinar y controlar los talleres gráficos, así como la edición y publicación de la información oficial de la Administración Pública Centralizada, con excepción del Periódico Oficial “Tierra y Libertad”, la Coordinación de Comunicación Social y la Industria Penitenciaria;
-
-VIII. Establecer los criterios y las políticas de conservación de las unidades vehiculares de la Administración Pública Centralizada, a través de la implementación de los programas de mantenimiento preventivo y correctivo;
-
-IX. Planear, organizar, coordinar, dirigir y controlar los sistemas generales de organización de la Administración Pública Centralizada, así como mantener actualizados los registros de su estructura y plantilla de personal;
-
-X. Proponer a la Persona Titular del Poder Ejecutivo Estatal, los proyectos de creación, modificación o supresión de la Administración Pública Centralizada, en coordinación con estas mismas áreas;
-
-XI. Autorizar las propuestas de modificación de estructuras administrativas y plantillas de personal de la Administración Pública Centralizada, así como verificar, que en los casos que impliquen reformas a los Reglamentos Interiores, las Secretarías y Dependencias elaboren los proyectos correspondientes y los sometan a la revisión de la Consejería Jurídica;
-
-XII. Planear, organizar, dirigir y controlar, en coordinación con las autoridades correspondientes de la Administración Pública Centralizada, la elaboración y actualización de sus manuales administrativos de organización, políticas y procedimientos y los demás que correspondan al ejercicio de su función;
-
-XIII. Coordinarse con la Administración Pública Estatal, en todo lo relativo a la construcción, reconstrucción y conservación de edificios públicos, monumentos y edificios del patrimonio del Estado y obras de ornato, conforme a las disposiciones jurídicas aplicables y los convenios que sobre el particular suscriba el Poder Ejecutivo Estatal con el Poder Ejecutivo Federal;
-
-XIV. Planear, organizar, coordinar y dirigir el Sistema de Administración, Registro y Control de Bienes de la Administración Pública Centralizada;
-
-XV. Realizar todos los actos necesarios para la conservación, protección y recuperación de los bienes propiedad de la Administración Pública Centralizada, en coordinación con la Consejería Jurídica;
-
-XVI. Reivindicar la propiedad del Estado, con la intervención de la Consejería Jurídica y de las autoridades competentes;
-
-XVII. Regular y, en su caso, representar el interés de la Administración Pública Centralizada en la adquisición, enajenación, comodato, destino o afectación de los bienes inmuebles de su patrimonio; asimismo, en coordinación con las Secretarías y Dependencias involucradas, determinar normas y procedimientos para formular inventarios y avalúos de los mismos;
-
-XVIII. Intervenir, dentro de su ámbito de competencia, en los procesos de entrega-recepción de la Administración Pública Centralizada, con la participación de la Secretaría de la Contraloría;
-
-XIX. Proponer e instrumentar las políticas de control del gasto administrativo de la Administración Pública Centralizada, así como los sistemas para su asignación, ejecución, control y evaluación;
-
-XX. Planear y establecer un modelo de calidad total, enfocado a la satisfacción de personas usuarias y ciudadanía en la Administración Pública Centralizada;
-
-XXI. Planear y promover la implantación y operación del sistema de gestión de la calidad en la Administración Pública Centralizada;
-
-XXII. Nombrar y remover a las personas titulares de las Unidades de Enlace Financiero Administrativo o equivalentes, de conformidad con los Lineamientos que se expidan para tales efectos, las que estarán adscritas orgánica y funcionalmente a las unidades de la Administración Pública Estatal a la que sean asignadas;
-
-XXIII. Organizar, coordinar, dirigir y, en su caso, controlar a las Unidades de Enlace Financiero Administrativo de la Administración Pública Estatal para el adecuado desempeño de las atribuciones conferidas;
-
-XXIV. Suscribir los nombramientos de las personas servidoras públicas de la Administración Pública Centralizada, con la excepción de aquellos casos cuya expedición y nombramiento corresponda a la Persona Titular del Poder Ejecutivo Estatal o alguna otra autoridad, y
-
-XXV. Atender, coordinar y registrar a los proveedores de bienes y servicios de la Administración Pública Estatal para su integración a los procesos digitales desarrollados por las unidades del Poder Ejecutivo Estatal.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2025)
 
 ###### Artículo 31.
 
@@ -1061,7 +1083,9 @@ XXX. Supervisar y controlar la prestación de los servicios turísticos, a trav�
 
 XXXI. Registrar y actualizar el directorio estatal de servicios turísticos;
 
-XXXII. Emitir opinión a la Secretaría de Hacienda, en aquellos casos en que la inversión extranjera concurra en proyectos de desarrollo turísticos o en el establecimiento de servicios turísticos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXXII. Emitir opinión a la Secretaría de Administración y Finanzas, en aquellos casos en que la inversión extranjera concurra en proyectos de desarrollo turísticos o en el establecimiento de servicios turísticos;
 
 XXXIII. Promover las medidas de asistencia, auxilio y protección del turista, así como participar en coordinación con las Secretarías o Dependencias involucradas y sectores turísticos, en acciones de auxilio a los turistas en caso de emergencia o desastre;
 
@@ -1389,13 +1413,15 @@ VIII. Procurar la congruencia de los criterios jurídicos de la Administración 
 
 IX. Coordinar acciones encaminadas al estudio y análisis de textos y asuntos jurídicos relacionados con el Estado, pudiendo convocar a personas integrantes de la sociedad civil;
 
-X. Nombrar y, en su caso, remover a las personas titulares de las UEJ de la Administración Pública Centralizada, de conformidad con los lineamientos que se expidan para tales efectos, con excepción de la persona Titular de la Procuraduría Fiscal, en cuyo caso únicamente validará el nombramiento propuesto por la persona Titular de la Secretaría de Hacienda.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-Las personas titulares de las UEJ de la Administración Pública Paraestatal, serán propuestas por la persona titular de la Consejería Jurídica, a su órgano de gobierno o a la persona titular del organismo auxiliar, según corresponda.
+X. Nombrar y remover a las personas titulares de las UEJ de la Administración Pública Estatal, de conformidad con los lineamientos que se expidan para tales efectos, con excepción de la persona titular de la Procuraduría Fiscal, en cuyo caso únicamente validará el nombramiento propuesto por la persona titular de la Secretaría de Administración y Finanzas.
 
-Las UEJ estarán adscritas orgánica, jerárquica y funcionalmente a las unidades de la Administración Pública Estatal a las que sean asignadas, ejerciendo directamente la representación legal de las mismas;
+Las UEJ estarán adscritas orgánica, jerárquica y funcionalmente a las unidades de la Administración Pública Estatal a las que sean asignadas, ejerciendo directamente la representación legal de las mismas, ante toda clase de autoridades jurídicas y administrativas, no obstante, dependerán operativamente de la Consejería Jurídica;
 
-XI. Coordinar la actuación de las UEJ en aquellos temas en los que intervengan, cuando lo considere necesario o por instrucción de la Persona Titular del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XI. Organizar, coordinar, dirigir y, en su caso, controlar a las UEJ para el adecuado desempeño de las atribuciones conferidas, estableciendo los criterios bajo los cuales deberán operar dichas Unidades Administrativas;
 
 XII. Requerir informes sobre cualquier asunto jurídico que les competa a las UEJ, cuando lo considere necesario o por instrucción de la Persona Titular del Poder Ejecutivo Estatal;
 
@@ -1413,7 +1439,9 @@ XVIII. Prestar consejo jurídico, emitir opinión y resolver las consultas que e
 
 XIX. Intervenir en el trámite de los casos de expropiación de conformidad con lo establecido en la legislación de la materia;
 
-XX. Analizar, dar opinión y, en su caso, validar y sancionar con su rúbrica los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas de carácter normativo que las Secretarías, Dependencias y organismos auxiliares sometan a consideración de la Persona Titular del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XX. Analizar, dar opinión y, en su caso, validar y sancionar con su rúbrica los proyectos de Iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas de carácter normativo que las Secretarías, Dependencias y organismos auxiliares sometan a consideración de la Persona Titular del Poder Ejecutivo Estatal, conforme a los lineamientos que al efecto expida;
 
 XXI. Formular o emitir opinión sobre la constitucionalidad y legalidad de los proyectos de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas de carácter normativo que le encomiende la Persona Titular del Poder Ejecutivo Estatal;
 
@@ -1423,9 +1451,17 @@ XXIII. Integrar y coordinar el Programa de Informática Jurídica del Poder Ejec
 
 XXIV. Tramitar los recursos administrativos que compete conocer a la Persona Titular del Poder Ejecutivo Estatal, así como los del área de su competencia;
 
-XXV. Dar opinión a la Persona Titular del Poder Ejecutivo Estatal, sobre los proyectos de convenios, contratos o cualquier otro instrumento de carácter jurídico a celebrar con otros poderes, los órganos constitucionales autónomos, las entidades federativas o los municipios, y
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XXVI. Revisar y, en su caso, validar con su rúbrica los proyectos de nombramientos, resoluciones administrativas, contratos y convenios y demás instrumentos de carácter jurídico, a efecto de someterlos a consideración y, en su caso, firma de la Persona Titular del Poder Ejecutivo Estatal.
+XXV. Presidir la Comisión de Estudios Jurídicos del Poder Ejecutivo Estatal, integrada por las y los responsables de las áreas o Unidades de Enlace Jurídico de cada Secretaría, Dependencia y Organismo Auxiliar de la Administración Pública Estatal, a fin de unificar criterios en la toma de decisiones de índole jurídico;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXVI. Realizar los estudios y emitir las opiniones y dictámenes derivados de consultas que le sean formuladas por la Administración Pública Estatal o los municipios del Estado, siempre que estos últimos no cuenten con especialistas;
+
+XXVII. Dar opinión a la Persona Titular del Poder Ejecutivo Estatal, sobre los proyectos de convenios, contratos o cualquier otro instrumento de carácter jurídico a celebrar con otros poderes, los órganos constitucionales autónomos, las entidades federativas o los municipios, y
+
+XXVIII. Revisar y, en su caso, validar con su rúbrica los proyectos de nombramientos, resoluciones administrativas, contratos y convenios y demás instrumentos de carácter jurídico, a efecto de someterlos a consideración y, en su caso, firma de la Persona Titular del Poder Ejecutivo Estatal.
 
 ## TÍTULO TERCERO. DE LOS ORGANISMOS ADMINISTRATIVOS DE CONCILIACIÓN Y JUSTICIA BUROCRÁTICA
 
@@ -1473,7 +1509,9 @@ La Administración Pública Paraestatal se compone por los organismos públicos 
 
 Los organismos de la Administración Pública Paraestatal conducirán sus actividades en forma programada y con sujeción a las disposiciones del Plan Estatal de Desarrollo, a su decreto o ley de creación, a los programas sectoriales correspondientes, así como a las políticas y lineamientos de coordinación de la Secretaría a la cual estén sectorizados.
 
-Deberán observar, cumplir y hacer cumplir los criterios y lineamientos jurídicos que disponga la Consejería Jurídica; de igual manera, están obligados a cumplir con los lineamientos presupuestales y administrativos que establezcan la Jefatura de la Oficina de la Gubernatura, las Secretarías de Administración, de Hacienda y de la Contraloría. Aplicando obligatoriamente los lineamientos presupuestales, los catálogos y tabuladores de la Administración Pública Centralizada establecidos en el Presupuesto de Egresos del Estado y los instrumentos reglamentarios respectivos. La contravención a lo establecido en el presente párrafo será sancionada conforme a las disposiciones en materia de responsabilidades que resulten aplicables, sin perjuicio de las responsabilidades penales que procedan.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+Deberán observar, cumplir y hacer cumplir los criterios y lineamientos jurídicos que disponga la Consejería Jurídica; de igual manera, están obligados a cumplir con los lineamientos presupuestales y administrativos que establezcan la Jefatura de la Oficina de la Gubernatura, las Secretarías de Administración y Finanzas y de la Contraloría. Aplicarán, obligatoriamente, los lineamientos presupuestales, los catálogos y tabuladores de la Administración Pública Centralizada establecidos en el Presupuesto de Egresos del Estado y los instrumentos reglamentarios respectivos. La contravención a lo establecido en el presente párrafo será sancionada conforme a las disposiciones en materia de responsabilidades que resulten aplicables, sin perjuicio de las responsabilidades penales que procedan.
 
 ###### Artículo 47.
 
@@ -1497,7 +1535,9 @@ Asimismo, se asimilarán a las empresas de participación estatal mayoritaria la
 
 Los fideicomisos públicos son aquellos cuya constitución se formaliza a través del contrato de fideicomiso correspondiente, suscrito por la Persona Titular del Poder Ejecutivo Estatal, previa autorización del Congreso del Estado; con un fin lícito y determinado.
 
-Los fideicomisarios públicos serán aquellos que con ese carácter se reconozcan en los instrumentos jurídicos de su constitución, la fiduciaria será cualquier institución o sociedad nacional de crédito legalmente constituida y el fideicomitente único de la Administración Pública Central, invariablemente será la Secretaría de Hacienda; contarán con un Comité Técnico y tendrán la estructura orgánica estrictamente necesaria para el desempeño de sus funciones.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+Los fideicomisarios públicos serán aquellos que con ese carácter se reconozcan en los instrumentos jurídicos de su constitución, la fiduciaria será cualquier institución o sociedad nacional de crédito legalmente constituida y el fideicomitente único de la Administración Pública Centralizada, invariablemente será la Secretaría de Administración y Finanzas; contarán con un Comité Técnico y tendrán la estructura orgánica estrictamente necesaria para el desempeño de sus funciones.
 
 ###### Artículo 50.
 
@@ -1533,9 +1573,13 @@ Corresponde a las personas titulares de las Secretarías y Dependencias encargad
 
 Los órganos de gobierno de los organismos de la Administración Pública Paraestatal serán presididos por la Persona Titular del Poder Ejecutivo Estatal o por el representante que éste designe, así como los órganos técnicos que se deriven del funcionamiento de cada entidad, cuando así lo disponga, teniendo voto de calidad; lo anterior, deberá considerarse en las iniciativas de ley o decreto, o los Estatutos Orgánicos, en su caso, que creen o modifiquen los organismos.
 
-Las personas titulares de las Secretarías de Hacienda y de Administración designarán un representante ante los órganos de gobierno y, en su caso, ante los comités técnicos de los organismos de la Administración Pública Paraestatal, con la participación de las Secretarías y Dependencias que, por el objeto del organismo o por ejercer funciones de vigilancia, tengan intervención.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-Los organismos rendirán los informes que, en su caso, requieran las Secretarías o Dependencias a que estén adscritos; obligación que cumplirán también con las Secretarías de Hacienda, de Administración y de la Contraloría.
+La persona titular de la Secretaría de Administración y Finanzas designará un representante ante los órganos de gobierno y ante los comités técnicos de los organismos de la Administración Pública Paraestatal, con la participación de las Secretarías y Dependencias que, por el objeto del organismo o por ejercer funciones de vigilancia, tengan intervención.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+Los organismos rendirán los informes que, en su caso, requieran las Secretarías o Dependencias a que estén adscritos; obligación que cumplirán también con las Secretarías de Administración y Finanzas y de la Contraloría.
 
 ###### Artículo 55.
 
@@ -1545,9 +1589,11 @@ La gestión de los organismos de la Administración Pública Paraestatal se desa
 
 La Administración Pública Paraestatal ajustará sus actividades a los sistemas de control interno previstos en el marco legal aplicable y se sujetarán a los lineamientos establecidos en el presupuesto del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 57.
 
-En el mes de febrero de cada año, la Secretaría de Hacienda publicará en el Periódico Oficial “Tierra y Libertad”, la relación de los organismos que forman parte de la Administración Pública Paraestatal, agrupados por sector.
+En el mes de febrero de cada año, la Secretaría de Administración y Finanzas publicará en el Periódico Oficial “Tierra y Libertad”, la relación de los organismos que forman parte de la Administración Pública Paraestatal, agrupados por sector.
 
 ###### Artículo 58.
 
@@ -1581,13 +1627,17 @@ IV. Las características más sobresalientes de su organización para la producc
 
 La Administración Pública Paraestatal ajustará su desarrollo y operación al Plan Estatal de Desarrollo, a los programas sectoriales y al presupuesto aprobado para gasto y financiamiento.
 
-Dentro de la planeación general de actividades, elaborarán sus programas institucionales a corto, mediano y largo plazo; los criterios para establecer la duración de los plazos mencionados serán determinados por la Secretaría de Hacienda.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+Dentro de la planeación general de actividades, elaborarán sus programas institucionales a corto, mediano y largo plazo; los criterios para establecer la duración de los plazos mencionados serán determinados por la Secretaría de Administración y Finanzas.
 
 Para el ejercicio del gasto público, atenderán a las políticas, lineamientos y normativa, en materia de adquisiciones, arrendamientos y obra pública y los servicios relacionados con las mismas, que existan o que sean emitidos por la Persona Titular del Poder Ejecutivo Estatal y el Poder Legislativo, en su caso.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 63.
 
-La Administración Pública Paraestatal administrará y dispondrá de sus recursos, por medio de sus unidades administrativas; podrá recibir subsidios y transferencias de la Secretaría de Hacienda, por conducto de la Tesorería del Estado, de acuerdo a los presupuestos anuales del Gobierno del Estado, y se sujetarán a los controles e informes que establezcan las disposiciones generales aplicables y las particulares de las Secretarías de Hacienda y de la Contraloría o de las áreas coordinadoras de sector.
+La Administración Pública Paraestatal administrará y dispondrá de sus recursos, por medio de sus unidades administrativas; podrá recibir subsidios y transferencias de la Secretaría de Administración y Finanzas, por conducto de la Tesorería del Estado, de acuerdo a los presupuestos anuales del Gobierno del Estado, y se sujetarán a los controles e informes que establezcan las disposiciones generales aplicables y las particulares de las Secretarías de Administración y Finanzas, y de Contraloría o de las áreas coordinadoras de sector.
 
 ###### Artículo 64.
 
@@ -1615,7 +1665,9 @@ VI. Presentar por conducto de la Secretaría o Dependencia coordinadora a la Per
 
 VII. Autorizar la creación de unidades administrativas necesarias para agilizar las actividades del organismo auxiliar;
 
-VIII. Nombrar y remover, a propuesta de las personas titulares del organismo, a las personas servidoras públicas que se determinen en sus respectivos Estatutos Orgánicos, de conformidad con las disposiciones aplicables en la materia, así como aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración, y concederles las licencias que procedan;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VIII. Nombrar y remover, a propuesta de las personas titulares del organismo, a las personas servidoras públicas que se determinen en sus respectivos Estatutos Orgánicos, de conformidad con las disposiciones aplicables en la materia, con excepción de aquellos casos cuyo nombramiento o remoción corresponda a la Persona Titular del Poder Ejecutivo Estatal o alguna otra autoridad; así como aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por la Secretaría de Administración y Finanzas, y concederles las licencias que procedan;
 
 IX. Nombrar y remover a la persona titular de la Secretaría Técnica del órgano de gobierno, a propuesta de quien lo presida, entre personas ajenas al organismo, el cual podrá ser integrante o no del propio órgano de gobierno;
 
@@ -1625,7 +1677,9 @@ XI. Examinar y aprobar, en su caso, los informes periódicos que presenten las p
 
 XII. Decidir los donativos o pagos extraordinarios, con base en las disposiciones jurídicas aplicables, verificando que se apliquen exactamente, a los fines señalados en las instrucciones dictadas por la Secretaría coordinadora del sector al que esté adscrito el organismo; no pudiendo ser considerados como pagos extraordinarios los que conforme a la normativa constituyan una obligación legal a cargo del organismo;
 
-XIII. Establecer las normas y bases para la cancelación de adeudos a favor del organismo y a cargo de terceros, en los casos de notoria imposibilidad práctica de su cobro, de proceder la cancelación se someterá a la aprobación de la Secretaría de Hacienda y de la Secretaría coordinadora, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XIII. Establecer las normas y bases para la cancelación de adeudos a favor del organismo y a cargo de terceros, en los casos de notoria imposibilidad práctica de su cobro, de proceder la cancelación se someterá a la aprobación de la Secretaría de Administración y Finanzas y de la Secretaría coordinadora, y
 
 XIV. Proponer los precios y tarifas de bienes, trámites y servicios que produzca o preste el organismo, distintos de contribuciones, excepto los de aquéllos que sean determinados por acuerdo de la Persona Titular del Poder Ejecutivo Estatal.
 
@@ -1645,9 +1699,13 @@ V. Aplicar las medidas adecuadas a efecto de que las funciones del organismo se 
 
 VI. Fijar los controles necesarios para asegurar la calidad de los suministros y programas de recepción, que garanticen la continuidad de las obras, fabricación, distribución o prestación de los servicios;
 
-VII. Proponer al órgano de gobierno a las personas servidoras públicas que conforme a dichos estatutos orgánicos deban ser designadas por el propio órgano y someter a este último sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-VIII. Nombrar y remover a las personas servidoras públicas cuya atribución no esté reservada al órgano de gobierno y someter a este último sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración;
+VII. Proponer al órgano de gobierno a las personas servidoras públicas que conforme a dichos estatutos orgánicos deban ser designadas por el propio órgano y someter a este último sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por la Secretaría de Administración y Finanzas;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VIII. Nombrar y remover a las personas servidoras públicas cuya atribución no esté reservada al órgano de gobierno o a alguna otra autoridad y someter a aquél sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por la Secretaría de Administración y Finanzas;
 
 IX. Recopilar la información y elementos estadísticos que muestren el estado de las funciones del organismo, para estar en posibilidad de mejorar su gestión;
 
@@ -1717,9 +1775,11 @@ En los casos en que el órgano de gobierno, consejo de administración o la pers
 
 En las empresas en que participe el Gobierno del Estado, porque sus estatutos o la ley le confieran la facultad de nombrar a la mayoría de los integrantes del órgano de gobierno, a la persona titular o cuando tenga facultades para vetar los acuerdos del propio órgano de gobierno, el ejercicio de tales facultades se llevará a cabo por medio de la persona comisaria pública que nombre la Secretaría de la Contraloría.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 76.
 
-La enajenación de títulos representativos del capital social, propiedad del Gobierno de la entidad, podrá realizarse en el mercado de valores, por conducto de la Secretaría de Hacienda, previo acuerdo de la Persona Titular del Poder Ejecutivo Estatal.
+La enajenación de títulos representativos del capital social, propiedad del Gobierno de la entidad, podrá realizarse en el mercado de valores, por conducto de la Secretaría de Administración y Finanzas, previo acuerdo de la Persona Titular del Poder Ejecutivo Estatal.
 
 ###### Artículo 77.
 
@@ -1749,7 +1809,9 @@ VI. Las facultades y obligaciones del órgano de gobierno, y señalar, asimismo,
 
 VII. Que la persona titular del organismo será el representante legal del organismo, especificando sus facultades y obligaciones;
 
-VIII. OIC en términos de lo dispuesto por los artículos 67, 68 y 69 de esta Ley, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VIII. OIC en términos de lo dispuesto por los artículos 68, 69 y 70 de esta Ley, y
 
 IX. Régimen laboral que regulará las relaciones de trabajo.
 
@@ -1757,15 +1819,19 @@ Los organismos descentralizados se regirán, además, por el Estatuto Orgánico 
 
 Para la extinción de estos organismos, se cumplirá con las mismas formalidades que para su creación y en la Ley o Decreto correspondiente se determinará la forma y términos de su extinción y liquidación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 80.
 
-En el caso de que algún organismo descentralizado dejara de cumplir con su objeto o sus fines, o su funcionamiento ya no resultara conveniente para el interés público o la economía del Estado, la Secretaría de Hacienda, con la opinión de la Secretaría o Dependencia coordinadora del sector al que esté adscrito el organismo descentralizado, deberá proponer a la Persona Titular del Poder Ejecutivo Estatal en este caso específico, la extinción y liquidación del organismo, sin perjuicio de proponer como otra alternativa, la fusión del mismo a otro organismo descentralizado, si estima que su actividad combinada traerá como consecuencia una mayor eficiencia, productividad y eficacia.
+En el caso de que algún organismo descentralizado dejara de cumplir con su objeto o sus fines, o su funcionamiento ya no resultara conveniente para el interés público o la economía del Estado, la Secretaría de Administración y Finanzas, con la opinión de la Secretaría o Dependencia coordinadora del sector al que esté adscrito el organismo descentralizado, deberá proponer a la Persona Titular del Poder Ejecutivo Estatal en este caso específico, la extinción y liquidación del organismo, sin perjuicio de proponer como otra alternativa, la fusión del mismo a otro organismo descentralizado, si estima que su actividad combinada traerá como consecuencia una mayor eficiencia, productividad y eficacia.
 
 El Poder Ejecutivo Estatal, en estos casos, presentará al Congreso del Estado la iniciativa de Ley o Decreto que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 81.
 
-El órgano de gobierno se integrará por un mínimo de cinco integrantes y un máximo de once, según lo requieran la naturaleza y las actividades del organismo; por cada persona propietaria habrá una suplente y formarán parte de dicho órgano las personas representantes de las Secretarías de Hacienda y de Administración.
+El órgano de gobierno se integrará por un mínimo de cinco integrantes y un máximo de once, según lo requieran la naturaleza y las actividades del organismo; por cada persona propietaria habrá una suplente y formará parte de dicho órgano la Secretaría de Administración y Finanzas.
 
 La persona Titular de la Secretaría o Dependencia coordinadora, o la persona servidora pública que éste designe, participará en el órgano de gobierno.
 
@@ -1839,9 +1905,11 @@ XV. Elaborar el proyecto de los manuales administrativos y someterlo a la aproba
 
 XVI. Las demás que les confieran esta Ley, la ley o decreto de creación y el órgano de gobierno.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 86.
 
-Los organismos se inscribirán en el Registro Público de Organismos Descentralizados del Estado de Morelos, que llevará la Secretaría de Hacienda; la inscripción se solicitará por las personas titulares dentro de los veinte días hábiles siguientes a la fecha de su constitución, de las modificaciones o de sus reformas.
+Los organismos se inscribirán en el Registro Público de Organismos Auxiliares del Poder Ejecutivo Estatal, que llevará la Secretaría de Administración y Finanzas; la inscripción se solicitará por las personas titulares dentro de los veinte días hábiles siguientes a la fecha de su constitución, de las modificaciones o de sus reformas.
 
 ###### Artículo 87.
 
@@ -1857,7 +1925,9 @@ IV. Los nombramientos y sus sustituciones de la persona titular, de los subdirec
 
 V. Los poderes generales, sustituciones y revocaciones; y
 
-VI. Los demás documentos o actos que determine la Secretaría de Hacienda.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VI. Los demás documentos o actos que determine la Secretaría de Administración y Finanzas.
 
 ###### Artículo 88.
 
@@ -1873,9 +1943,11 @@ La cancelación de las inscripciones en el Registro Público de los Organismos D
 
 Además de las empresas de participación estatal mayoritaria a que se refiere el artículo 48 de la presente Ley, el Poder Ejecutivo Estatal podrá participar en la integración del capital social de aquellas empresas cuyo objetivo tienda a cumplimentar los planes y programas del Gobierno del Estado o satisfacer necesidades sociales existentes en el Estado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 91.
 
-Las empresas antes citadas que no cumplan con las finalidades establecidas en esta Ley o los instrumentos jurídicos que le dieron origen o resulte inconveniente conservarlas para el interés público o la economía del Estado, previa opinión de la Secretaría o Dependencia coordinadora que corresponda, darán lugar a que la Secretaría de Hacienda someta a la consideración del Poder Ejecutivo Estatal la enajenación de la participación estatal, en cuyo caso se otorgará preferencia, en igual de condiciones, a los trabajadores organizados de la empresa para adquirir los títulos representativos de dicha participación; asimismo, realizar los actos jurídicos necesarios para la disolución y liquidación de las mismas.
+Las empresas antes citadas que no cumplan con las finalidades establecidas en esta Ley o los instrumentos jurídicos que le dieron origen o resulte inconveniente conservarlas para el interés público o la economía del Estado, previa opinión de la Secretaría o Dependencia coordinadora que corresponda, darán lugar a que la Secretaría de Administración y Finanzas someta a la consideración del Poder Ejecutivo Estatal la enajenación de la participación estatal, en cuyo caso se otorgará preferencia, en igual de condiciones, a los trabajadores organizados de la empresa para adquirir los títulos representativos de dicha participación; asimismo, realizar los actos jurídicos necesarios para la disolución y liquidación de las mismas.
 
 ###### Artículo 92.
 
@@ -1899,9 +1971,11 @@ En las empresas de participación estatal mayoritaria las personas titulares, di
 
 Respecto al nombramiento, facultades, operación y responsabilidades de las personas titulares de los órganos de dirección y administración, autonomía de gestión y en general, a las normas sobre el desarrollo y operación de las empresas de participación estatal mayoritaria, además de aplicar las disposiciones consignadas en sus estatutos y en la legislación de la materia, aplicarán los preceptos de esta Ley, en cuanto sean compatibles.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 97.
 
-En los casos de escisión, fusión y liquidación de empresas de participación estatal mayoritaria, aquellas se realizarán en los términos previstos en sus estatutos y en la legislación correspondiente, con la intervención de la Secretaría o Dependencia coordinadora de sector, para señalar la forma y términos conforme a los cuales deba hacerse la fusión y la liquidación, que se harán conforme a las normas establecidas por la Secretaría de Hacienda, pero sin que ello implique oposición a los estatutos de dichas empresas y cuidará siempre la protección que debe darse al interés público, a los accionistas o titulares de partes sociales y los derechos, que en materia laboral, corresponden en la empresa a las personas servidoras públicas.
+En los casos de escisión, fusión y liquidación de empresas de participación estatal mayoritaria, aquellas se realizarán en los términos previstos en sus estatutos y en la legislación correspondiente, con la intervención de la Secretaría o Dependencia coordinadora de sector, para señalar la forma y términos conforme a los cuales deba hacerse la fusión y la liquidación, que se harán conforme a las normas establecidas por la Secretaría de Administración y Finanzas, pero sin que ello implique oposición a los estatutos de dichas empresas y cuidará siempre la protección que debe darse al interés público, a los accionistas o titulares de partes sociales y los derechos, que en materia laboral, corresponden en la empresa a las personas servidoras públicas.
 
 ### CAPÍTULO SEXTO. DE LOS FIDEICOMISOS PÚBLICOS
 
@@ -1913,9 +1987,11 @@ La integración, facultades y funcionamiento de los comités y las personas titu
 
 La forma de la rendición de cuentas debe establecerse en el contrato de fideicomiso, informando de manera trimestral, tomando en consideración las disposiciones establecidas en la presente Ley.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 99.
 
-La Persona Titular del Poder Ejecutivo Estatal, por medio de la Secretaría de Hacienda, quien será el único fideicomitente, vigilará que en los contratos se establezcan con precisión y claridad, los derechos y acciones que deba ejercitar el fiduciario respecto de los bienes fideicomitidos, las limitaciones que fije o que se deriven de derechos de los fideicomisarios o de terceros, así como los derechos que se reserve el fideicomitente y las facultades que en su caso determine para el comité técnico, el que será imprescindible en los fideicomisos a que se refiere este capítulo.
+La Persona Titular del Poder Ejecutivo Estatal, por medio de la Secretaría de Administración y Finanzas, quien será el único fideicomitente, vigilará que en los contratos se establezcan con precisión y claridad, los derechos y acciones que deba ejercitar el fiduciario respecto de los bienes fideicomitidos, las limitaciones que fije o que se deriven de derechos de los fideicomisarios o de terceros, así como los derechos que se reserve el fideicomitente y las facultades que en su caso determine para el comité técnico, el que será imprescindible en los fideicomisos a que se refiere este capítulo.
 
 ###### Artículo 100.
 
@@ -2012,3 +2088,33 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS CINCO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTA. Las referencias que se hagan y las atribuciones que se otorgan en otras leyes, códigos, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios a la Secretaría de Hacienda del Poder Ejecutivo Estatal o a unidades administrativas de su adscripción, se entenderán hechas o conferidas a la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal o a las unidades administrativas de su adscripción que resulten competentes, conforme al Reglamento Interior que se expida para tal efecto.
+
+QUINTA. Las referencias que se hagan y las atribuciones que se otorgan en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios a la Secretaría de Administración del Poder Ejecutivo Estatal o a unidades administrativas de su adscripción, o en su caso a la Oficialía Mayor, se entenderán hechas o conferidas a la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal o a las unidades administrativas de su adscripción, que resulten competentes conforme al Reglamento Interior que se expida para tal efecto.
+
+SEXTA. Los recursos humanos, materiales, organizacionales, financieros y presupuestarios de las Secretarías de Hacienda y de Administración, ambas del Poder Ejecutivo Estatal, que por virtud del presente Decreto se fusionan, se consolidarán en la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal, mediante los actos jurídico-administrativos que sean necesarios y conforme a la normativa aplicable, respetándose los derechos humanos, laborales y de seguridad social de las personas servidoras públicas que, en virtud de lo dispuesto en el presente Decreto, pasen de una Secretaría a otra.
+
+SÉPTIMA. Los Órganos Colegiados, con independencia de su naturaleza o denominación, en los que tenga participación tanto la Secretaría de Hacienda como la Secretaría de Administración, se entenderán integrados por la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal, en los términos precisados en el presente Decreto.
+
+Tratándose de aquellos Órganos Colegiados que, derivado de la fusión de las Secretarías de Hacienda y Administración, su integración quede en número par, la Persona Titular del Poder Ejecutivo Estatal designará un integrante adicional de las Secretarías o Dependencias para que participen en el mismo con voz y voto.
+
+OCTAVA. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Hacienda y en la Secretaría de Administración, ambas del Poder Ejecutivo Estatal y se relacionen con las atribuciones que se confieren a la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal por virtud del presente ordenamiento, serán atendidos y resueltos por esta última Secretaría.
+
+Se realizarán las acciones que correspondan en el ámbito administrativo para que, a la entrada en vigor del presente Decreto, la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal reciba los asuntos en trámite a fin de dar cumplimiento a lo previsto en el párrafo anterior.
+
+NOVENA. En un término no mayor a sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberá expedir el Reglamento Interior (sic) la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal; en tanto sucede esto, se mantendrán vigentes los actuales, con la aplicación por cada Secretaría o Dependencia según su ámbito de competencia, y en lo que no se opongan a lo previsto en el presente Decreto.
+
+DÉCIMA. En un término no mayor a sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo deberá remitir las iniciativas correspondientes para realizar la armonización a las leyes correspondientes; en tanto sucede esto, se mantendrán vigentes las actuales, con la aplicación por cada Secretaría o Dependencia según su ámbito de competencia, y en lo que no se opongan a lo previsto en el presente Decreto.
