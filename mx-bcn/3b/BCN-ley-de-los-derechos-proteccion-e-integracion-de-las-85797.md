@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2025-04-11"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -881,9 +881,17 @@ II.- Académicos, especialistas o empresarios encargados de desarrollar programa
 
 III.- Personas adultas mayores relacionadas o que estén en condiciones de coadyuvar a toma de decisiones del Consejo;
 
-IV.- Representantes de instituciones de educación superior, públicas o privadas que cuenten con áreas de geriatría, gerontología y/o de estudios sociales, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-V.- Empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
+IV.- Representantes de instituciones de educación superior, públicas o privadas que cuenten con áreas de geriatría, gerontología y/o de estudios sociales;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+V.- Empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VI.- Organizaciones de la sociedad civil relacionadas o que estén en condiciones de coadyuvar a toma de decisiones del consejo.
 
 Los invitados a participar en las sesiones del Consejo contaran con derecho a voz pero sin voto.
 
@@ -1041,13 +1049,17 @@ XII. Realizar los trabajos que le encomiende el Presidente del Consejo estatal.
 
 Toda persona física, grupo social, organización no gubernamental, asociación o sociedad civil, podrá denunciar ante los órganos y autoridades competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías de las personas adultas mayores, independientemente de las que establece la presente Ley; en el caso de que estos actos pongan en peligro la vida de la persona adulta mayor, deberán informar de manera inmediata al Ministerio Público.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 62.
 
-Cuando los responsables del daño o afectación de los derechos de la persona adulta mayor, sean servidores públicos en ejercicio de sus funciones, se deberá dar aviso al superior jerárquico de manera inmediata para su conocimiento, sujetándolos al procedimiento administrativo que para tal efecto contempla la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Cuando los responsables del daño o afectación de los derechos de la persona adulta mayor, sean servidores públicos en ejercicio de sus funciones, se deberá dar aviso al superior jerárquico de manera inmediata para su conocimiento, sujetándolos al procedimiento administrativo que para tal efecto contempla la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 63.
 
-La inobservancia a las disposiciones de esta Ley, serán sancionadas de conformidad a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, así como en las leyes civiles, penales y demás ordenamientos legales aplicables.
+La inobservancia a las disposiciones de esta Ley, serán sancionadas de conformidad a lo establecido en la Ley de Responsabilidades Administrativas del Estado de Baja California, así como en las leyes civiles, penales y demás ordenamientos legales aplicables.
 
 ###### Artículo 64.
 
@@ -1198,3 +1210,9 @@ P.O. 11 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 77 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 140 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 49, 62 Y 63 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
