@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-122014"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2025-07-03"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el sábado 20 de mayo de 2017.
 
@@ -79,7 +79,9 @@ VII. Buenas prácticas pecuarias: conjunto de procedimientos, condiciones y cont
 
 VIII. Campañas: conjunto de medidas zoosanitarias que se aplican en una fase y un área geográfica determinada, para la prevención, control o erradicación de enfermedades de los animales;
 
-IX. Certificado zoosanitario: documento oficial de movilización de animales expedido por la SAGARPA, o los organismos de certificación acreditados y aprobados conforme a la Ley Federal sobre Metrología y Normalización, en el que se hace constar el cumplimiento de las disposiciones de la Ley Federal de Sanidad Animal;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+IX. Certificado zoosanitario: documento oficial de movilización de animales expedido por la SADER, o los organismos de certificación acreditados y aprobados conforme a la Ley de Infraestructura de la Calidad, en el que se hace constar el cumplimiento de las disposiciones de la Ley Federal de Sanidad Animal;
 
 X. Clembuterol (clorhidrato): nombre químico: hidrocloro, 4 amino alfa [(Pert-butylamino)] -3,5 diclorobenzil alcohol. Es un adrenérgico agonista receptor, potente bronquio dilatador, anabólico y agente lipolítico y repartidor que fomenta la producción de proteína y reduce la grasa. Prohibido su uso como promotor de la producción animal debido a su efecto residual en los productos cárnicos, que al consumirse ocasionan efectos negativos en la salud humana, originando un efecto tóxico que se manifiesta por un malestar general, trastornos de tipo cardiovascular y respiratorio que afectan su salud e, incluso, agrava el cuadro clínico de personas previamente afectadas, y en caso de complicación grave puede sobrevenir la muerte; en el idioma inglés se le denomina clenbuterol;
 
@@ -95,7 +97,9 @@ XV. Cordones cuarentenarios zoosanitarios: conjunto de puntos de verificación e
 
 XVI. Corridas: la reunión y recuento de animales que realiza un ganadero, para comprobar el número de semovientes que le pertenecen, y recoger e identificar el ganado ajeno con el fin de entregarlo a la autoridad municipal correspondiente;
 
-XVII. Cuarentena: aislamiento preventivo de animales y mercancías reguladas por esta Ley, que determina la SAGARPA bajo su resguardo o en depósito y custodia del interesado, para la observación e investigación, o para verificación e inspección, análisis de pruebas o aplicación del tratamiento que corresponda;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XVII. Cuarentena: aislamiento preventivo de animales y mercancías reguladas por esta Ley, que determina la SADER bajo su resguardo o en depósito y custodia del interesado, para la observación e investigación, o para verificación e inspección, análisis de pruebas o aplicación del tratamiento que corresponda;
 
 XVIII. Cuarentena guarda-custodia: aislamiento preventivo de animales y mercancías reguladas, con el objeto de comprobar que no cause daño a la salud animal y humana después de su entrada al territorio nacional o zona libre;
 
@@ -141,7 +145,9 @@ XXXVIII. Mejoramiento del pastizal: son las prácticas de manejo tendientes a el
 
 XXXIX. Normas oficiales mexicanas (NOM): regulación técnica de observancia obligatoria en el territorio nacional, que establecen las reglas, controles, características, especificaciones y atributos que deben reunir los productos, procesos, instalaciones, servicios, actividades, métodos, procedimientos o sistemas, cuando éstos constituyan un riesgo para la sanidad animal y que repercuten en la producción pecuaria, en la salud humana y su entorno;
 
-XL. Organismos auxiliares en materia de sanidad animal: aquéllas organizaciones de productores, comercializadores o agroindustriales autorizados e integrados por convocatoria de la SAGARPA y la SEDARH, responsables de la ejecución de los programas de sanidad animal y de la inocuidad agroalimentaria en el Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XL. Organismos auxiliares en materia de sanidad animal: aquellas organizaciones de productores, comercializadores o agroindustriales autorizados e integrados por convocatoria de la SADER y la SEDARH, responsables de la ejecución de los programas de sanidad animal y de la inocuidad agroalimentaria en el Estado;
 
 XLI. Origen: es la unidad de producción pecuaria con registro y cumplimiento de Ley, en la que se definen los distintos procesos de producción y comercialización, para el establecimiento de su trazabilidad y rastreabilidad de animales, productos y subproductos;
 
@@ -161,11 +167,17 @@ XLVIII. REA: Registro Estatal Agropecuario;
 
 XLIX. Sanidad animal: preservación de la salud animal, aplicando campañas para prevenir, controlar y erradicar las enfermedades o plagas de los animales;
 
-L. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+L. SADER: Secretaría de Agricultura y Desarrollo Rural;
 
 LI. SEDARH: Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
 
 LII. Señal de sangre: cortadas, incisiones o perforaciones que se hacen en las orejas del ganado para su identificación;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+LII BIS. SICELIC: Sistema de Certificación Libre de Clembuterol, programa integral de certificación estatal establecido por el Poder Ejecutivo del Estado; dicho programa mediante verificación continua garantizará la ausencia de clembuterol, tanto en la fase de procesamiento de alimentos, como en su suministro al ganado bovino y, finalmente, la presencia de esta sustancia en el animal que afecta la inocuidad de los productos y subproductos cárnicos resultantes;
 
 LIII. SSSLP: Servicios de Salud de San Luis Potosí;
 
@@ -205,31 +217,45 @@ II. Ley Federal de Sanidad Animal;
 
 III. Ley General de Salud;
 
-IV. Ley Federal Sobre Metrología y Normalización;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+IV. Ley de Infraestructura de la Calidad;
 
 V. Ley de Salud del Estado de San Luis Potosí;
 
-VI. Ley Estatal de Protección a los Animales;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VI. Ley de Protección a los Animales para el Estado de San Luis Potosí;
 
 VII. Ley Ambiental del Estado de San Luis Potosí;
 
 VIII. Ley de Aguas para el Estado de San Luis Potosí;
 
-IX. Ley de Ciencia y Tecnología de San Luis Potosí;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-X. Ley de Desarrollo Social para el Estado de San Luis Potosí;
+IX. Ley de Ciencia y Tecnología del Estado de San Luis Potosí;
 
-XI. Ley para el Fomento al Desarrollo Forestal Sustentable de San Luis Potosí;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+X. Ley de Desarrollo Social para el Estado y Municipios de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XI. Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de San Luis Potosí;
 
 XII. Ley de Planeación del Estado y Municipios de San Luis Potosí;
 
-XIII. Ley para el Desarrollo Económico y la Competitividad del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XIII. Ley para el Desarrollo Económico Sustentable, y la Competitividad del Estado de San Luis Potosí;
 
 XIV. Ley Orgánica del Municipio Libre del Estado de San Luis Potosí;
 
-XV. Ley de Fomento al Desarrollo Rural Sustentable del Estado de San Luis Potosí;
+XV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2025)
 
-XVI. Ley de Sanidad, Inocuidad y Calidad Agroalimentaria del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XVI. Ley de Sanidad Vegetal e Inocuidad Agrícola del Estado de San Luis Potosí;
 
 XVII. Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí, y
 
@@ -267,7 +293,9 @@ VIII. Desarrollar una actividad pecuaria en orden, sustentando el aprovechamient
 
 Son autoridades competentes para aplicar y vigilar el cumplimiento de esta Ley:
 
-I. Autoridades estatales
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+I. Autoridades estatales del Poder Ejecutivo del Estado por conducto de:
 
 El Ejecutivo del Estado por conducto de:
 
@@ -279,21 +307,35 @@ c) Secretaría de Desarrollo Económico.
 
 d) Secretaría de Ecología y Gestión Ambiental.
 
-e) Secretaría de Seguridad Pública.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-f) Procuraduría General de Justicia del Estado.
+e) Secretaría de Seguridad y Protección Ciudadana.
 
-g) Secretaria de Desarrollo Social y Regional, y
+f) (DEROGADO, P.O. 3 DE OCTUBRE DE 2025)
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+g) Secretaria de Desarrollo Social y Regional;
 
 II. Autoridades municipales:
 
 a) El ayuntamiento.
 
-b) El presidente municipal.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-c) Delegados, comisariados y autoridades en congregaciones, y jueces auxiliares de comunidades y rancherías, y
+b) La persona que presida el ayuntamiento.
 
-d) Policía Municipal.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+c) Personas delegadas, comisariados o comisariadas, autoridades en congregaciones, juezas y jueces auxiliares de comunidades y rancherías.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+d) Policía Municipal, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+III. La Fiscalía General del Estado.
 
 ### Capítulo II. De las Atribuciones de las Autoridades
 
@@ -353,7 +395,9 @@ III. Promover, ejecutar, verificar y evaluar los programas estatales en materia 
 
 IV. Impulsar y fomentar la creación y desarrollo de empresas que generen valor agregado a los productos y subproductos pecuarios, mediante su, transformación, y comercialización, promoviendo además la conformación de estructuras productivas que eviten la especulación, concentración y acaparamiento;
 
-V. Fomentar la creación de despachos pecuarios que coadyuven en la formulación de proyectos integrales para los productores, y promover su acreditación ante la Comisión Estatal de Peritos, en los términos que establece la Ley de Peritos en el Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+V. Fomentar la creación de despachos pecuarios que coadyuven en la formulación de proyectos integrales para los productores, y promover su acreditación ante la Comisión del Registro Estatal de Peritos, en los términos que establece la Ley de Peritos del Estado de San Luis Potosí;
 
 VI. Coordinar con instituciones públicas y privadas, acciones y programas que contribuyan al desarrollo y consolidación de la actividad pecuaria;
 
@@ -385,7 +429,9 @@ XIX. Fomentar y promover el servicio de asesoría y asistencia técnica, jurídi
 
 XX. Fomentar y promover la capacitación técnica, y administrativa de los productores pecuarios;
 
-XXI. Elaborar y mantener actualizado el censo ganadero en el Estado, en coordinación con los ayuntamientos, la SAGARPA y las organizaciones de productores; así como la identificación de los hatos y rebaños, además de las estadísticas en relación con el desarrollo de la industria agropecuaria en la Entidad;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXI. Elaborar y mantener actualizado el censo ganadero en el Estado, en coordinación con los ayuntamientos, la SADER y las organizaciones de productores; así como la identificación de los hatos y rebaños, además de las estadísticas en relación con el desarrollo de la industria agropecuaria en la Entidad;
 
 XXII. Celebrar, en coordinación con las organizaciones de productores, patronatos y autoridades municipales, exposiciones, concursos, subastas y eventos pecuarios similares, de conformidad con la legislación aplicable;
 
@@ -415,11 +461,15 @@ XXXIV. Implementar las medidas de carácter zoosanitario y de control de moviliz
 
 XXXV. Participar con otras instituciones Federales, Estatales y Municipales, en el control sanitario de rastros y establecimientos similares;
 
-XXXVI. Organizar y dirigir los servicios de vigilancia, y en coordinación con la SAGARPA, para crear, modificar, o suprimir las zonas de inspección ganadera de acuerdo con las comunidades rurales, y el control de movilización de animales, sus productos y subproductos en el Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXXVI. Organizar y dirigir los servicios de vigilancia, y en coordinación con la SADER, para crear, modificar, o suprimir las zonas de inspección ganadera de acuerdo con las comunidades rurales, y el control de movilización de animales, sus productos y subproductos en el Estado;
 
 XXXVII. Auxiliar a las autoridades y a los cuerpos de seguridad pública, Estatal y Municipal, en ejercicio de sus funciones, en acciones tendientes a la prevención del delito de abigeato;
 
-XXXVIII. Establecer, en coordinación con la SAGARPA, las rutas de movilización pecuaria;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXXVIII. Establecer, en coordinación con la SADER, de conformidad con el Sistema Nacional de Avisos de Movilización, las rutas de movilización pecuaria;
 
 XXXIX. Ordenar inspecciones en explotaciones pecuarias, rastros y establecimientos similares, lugares de exhibición y de comercialización de animales, productos y subproductos de origen pecuario, a efecto de constatar que se cumplan las disposiciones contenidas en esta Ley, su reglamento y las demás aplicables;
 
@@ -437,11 +487,17 @@ XLV. Suscribir, convenios con otras entidades federativas, organismos gubernamen
 
 XLVI. En coordinación con los municipios, el Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas y el Instituto de Desarrollo Humano y Social de los pueblos y comunidades indígenas del Estado de San Luis Potosí, implementará y promocionará programas productivos pecuarios en las comunidades indígenas de nuestro Estado tendientes al desarrollo social, a la autosuficiencia alimentaria y al fomento productivo. Tales proyectos deberán fomentar y promover la observancia y respeto de los usos y costumbres de las diferentes comunidades;
 
-XLVII. En coordinación con el Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, el Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí, y la Secretaría para el Desarrollo Social, promoverá asesoría técnica, administrativa y financiera que permita el funcionamiento de esos proyectos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XLVIII. En coordinación con la Secretaría para el Desarrollo Social, brindará asesoría a los habitantes de pueblos y comunidades indígenas interesados en la obtención de fondos para la activación de proyectos productivos pecuarios;
+XLVII. En coordinación con el Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, el Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado, y la Secretaría de Desarrollo Social y Regional, promoverá asesoría técnica, administrativa y financiera que permita el funcionamiento de esos proyectos;
 
-XLIX. En coordinación con el Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí, el Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, y la Secretaría para el Desarrollo Social, promoverá y fomentará el establecimiento de sociedades y empresas relacionadas a la producción pecuaria en comunidades indígenas, a través de asesorías técnica y financiera para su organización y establecimiento;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XLVIII. En coordinación con la Secretaría de Desarrollo Social y Regional, brindará asesoría a los habitantes de pueblos y comunidades indígenas interesados en la obtención de fondos para la activación de proyectos productivos pecuarios;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XLIX. En coordinación con el Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí, el Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, y la Secretaría de Desarrollo Social y Regional, promoverá y fomentará el establecimiento de sociedades y empresas relacionadas a la producción pecuaria en comunidades indígenas, a través de asesorías técnica y financiera para su organización y establecimiento;
 
 L. Los proyectos productivos pecuarios que se elaboren en las comunidades indígenas, en el marco de las prácticas tradicionales de las comunidades indígenas, y de acuerdo a sus sistemas normativos internos se regirán bajo los siguientes principios;
 
@@ -453,13 +509,17 @@ LI. Crear el registro electrónico de movilización, con el objeto de implementa
 
 LII. Determinar y aplicar las sanciones administrativas que se deriven del incumplimiento de esta Ley y su reglamento;
 
-LIII. Establecer, en coordinación con la SAGARPA, las regiones zoosanitarias, los requisitos de movilización; así como las zonas de amortiguamiento, para el control de movilización de animales entre estas regiones del Estado, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+LIII. Establecer, en coordinación con la SADER, las regiones zoosanitarias, los requisitos de movilización; así como las zonas de amortiguamiento, para el control de movilización de animales entre estas regiones del Estado, y
 
 LIV. Las demás que señalen las leyes, reglamentos y normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 14.
 
-Corresponde a la Secretaría de Desarrollo Económico, coordinarse con la SEDARH, además de las atribuciones que le confiere la Ley Orgánica de la Administración Pública Estatal, la Ley de Desarrollo Económico Sustentable y la Competitividad del Estado de San Luis Potosí, para promover e impulsar el desarrollo económico en el sector pecuario, implementar las nuevas tecnologías e impulsar las actividades industriales y comerciales que resulten más productivas y competitivas para el desarrollo pecuario en el Estado.
+Corresponde a la Secretaría de Desarrollo Económico, coordinarse con la SEDARH, además de las atribuciones que le confiere la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí, la Ley para el Desarrollo Económico Sustentable y la Competitividad del Estado de San Luis Potosí, para promover e impulsar el desarrollo económico en el sector pecuario, implementar las nuevas tecnologías e impulsar las actividades industriales y comerciales que resulten más productivas y competitivas para el desarrollo pecuario en el Estado.
 
 ###### ARTÍCULO 15.
 
@@ -481,9 +541,11 @@ I. Coordinarse con la SEDARH, a efecto de que se asegure la conservación y prot
 
 II. Las demás que señalen las leyes, y normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 17.
 
-Corresponde a la Secretaría de Seguridad Pública del Estado, además de las atribuciones que le confiere la Ley del Sistema Seguridad Pública del Estado de San Luis Potosí, las siguientes:
+Corresponde a la Secretaría de Seguridad y Protección Ciudadana, además de las atribuciones que le confiere la Ley del Sistema (sic) Seguridad Pública del Estado de San Luis Potosí, las siguientes:
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
 
@@ -491,9 +553,11 @@ I. Coordinarse con la SEDARH en la ejecución de vigilancia en los puntos de ver
 
 II. Las demás que señalen las Leyes, reglamentos y normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 18.
 
-Corresponde a la Procuraduría General de Justicia del Estado, a través de los Ministerios Públicos y la Policía Ministerial, además de las atribuciones que le confiere la Ley Orgánica de la Procuraduría General de Justicia, las siguientes:
+Corresponde a la Fiscalía General del Estado, a través de los Ministerios Públicos y la Policía de Investigación, además de las atribuciones que le confiere la Ley Orgánica de la Fiscalía General del Estado de San Luis Potosí, las siguientes:
 
 I. Coordinarse con la SEDARH, y brindar apoyo para la movilización por el territorio del Estado, de animales, sus productos y subproductos, así como el control de enfermedades derivadas de dicha movilización, que se efectúe con estricto apego a la normatividad aplicable;
 
@@ -539,9 +603,11 @@ XIV. Fomentar el apoyo a los productores pecuarios locales por medio de las adqu
 
 XV. Las demás que señalen las Leyes, reglamentos y normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 20.
 
-Corresponde a los presidentes municipales de la Entidad:
+Corresponde a las personas titulares de las presidencias municipales de la Entidad:
 
 I. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal, e intervenir en los casos en que ésta y otras leyes le señalen, en el ámbito de sus atribuciones;
 
@@ -551,7 +617,9 @@ III. Autentificar a petición del interesado, al reverso de las facturas, los fi
 
 IV. Establecer el procedimiento administrativo para enajenar en subasta pública los animales mostrencos, orejanos y los que sean retirados del derecho de vía en los términos de la ley aplicable;
 
-V. Colaborar con la SEDARH, la Procuraduría General de Justicia del Estado, la Secretaría de Seguridad Pública del Estado, así como los Servicios de Salud de San Luis Potosí, en los operativos en rastros y puntos de verificación e inspección interna, para la verificación de la normatividad aplicable en materia de control de la movilización de ganado y de ingreso a rastro;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+V. Colaborar con la SEDARH, la Fiscalía General del Estado, la Secretaría de Seguridad y Protección Ciudadana, así como los Servicios de Salud de San Luis Potosí, en los operativos en rastros y puntos de verificación e inspección interna, para la verificación de la normatividad aplicable en materia de control de la movilización de ganado y de ingreso a rastro;
 
 VI. Establecer y vigilar en los rastros el servicio de inspección y sellado de la carne, y contar con un médico veterinario sanitarista autorizado o certificado por la SAGARPA;
 
@@ -629,9 +697,11 @@ II. Proporcionar el servicio de seguridad publica en los puntos de verificación
 
 III. Las demás que señalen las leyes, y normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 23.
 
-Corresponde, a la Procuraduría General de Justicia del Estado, Secretaria de Seguridad Pública del Estado y a la Secretaria de Salud, vigilar y aplicar el cumplimiento de esta Ley:
+Corresponde a la Fiscalía General del Estado, Secretaria de Seguridad Pública y Protección Ciudadana, y a la Secretaria de Salud, vigilar y aplicar el cumplimiento de esta Ley:
 
 I. Vigilar su exacto cumplimiento, dando cuenta a las autoridades correspondientes en la materia específica, a las infracciones o delitos que se lleguen a cometer, para que se impongan las sanciones, de conformidad con las leyes aplicables, y
 
@@ -653,23 +723,31 @@ Así como a las personas físicas o morales que tengan conocimiento de las accio
 
 ### Capitulo Único
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 24.
 
-La SEDARH contará con el Registro Estatal Agropecuario, como una Unidad Administrativa.
+La SEDARH contará con el REA, como una Unidad Administrativa.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 25.
 
-El titular de la SEDARH nombrará al director o encargado del Registro Estatal Agropecuario.
+El titular de la SEDARH nombrará a la persona titular de la dirección o encargada del REA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 26.
 
-El director o encargado tendrá las siguientes atribuciones:
+La persona titular de la dirección o encargada del REA, tendrá las siguientes atribuciones:
 
 I. Registrar las marcas de herrar, señales de sangre o de los tatuajes y patentes de los productores ganaderos de la Entidad;
 
 II. Autorizar e inscribir los actos de traslación de dominio de los derechos que amparen los diversos documentos de propiedad ganadera, así como de sus refrendos y cancelación;
 
-III. Expedir las constancias registrales en materia de fierros, y marcas y patentes de propiedad ganadera en el Estado, así como respecto de las demás inscripciones que obren en el Registro Estatal Agropecuario;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+III. Expedir las constancias registrales en materia de fierros, y marcas y patentes de propiedad ganadera en el Estado, así como respecto de las demás inscripciones que obren en el REA;
 
 IV. Llevar un registro de las postas zootécnicas o campos experimentales que se establezcan en el territorio del Estado, incluyendo la mención de las especies, funciones zootécnicas y programas de trabajo que se pretendan llevar;
 
@@ -689,33 +767,41 @@ XI. Mantener actualizadas las bases de datos que constituyan su acervo informati
 
 XII. Establecer una plataforma informática que permita a las instituciones del sector agropecuario y a los productores del Estado en lo general, contar con información básica de la producción agropecuaria de la Entidad;
 
-XIII. Resolver sobre las peticiones de inscripción registral o expedición de constancias registrales que se le planteen, así como sobre los asuntos que sean atribución del Registro Estatal Agropecuario, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XIV. Emitir los lineamientos que resulten necesarios para regular la correcta operación del Registro Estatal Agropecuario, el establecimiento, adecuación y conservación de sus bases de datos, así como las políticas y procedimientos registrales de acuerdo a esta Ley.
+XIII. Resolver sobre las peticiones de inscripción registral o expedición de constancias registrales que se le planteen, así como sobre los asuntos que sean atribución del REA, y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XIV. Emitir los lineamientos que resulten necesarios para regular la correcta operación del REA, el establecimiento, adecuación y conservación de sus bases de datos, así como las políticas y procedimientos registrales de acuerdo a esta Ley.
 
 ###### ARTÍCULO 27.
 
 El establecimiento de la base de datos, así como el control de inscripciones registrales de fierros y otras marcas y formas de propiedad ganadera, se efectuarán de manera coordinada con los municipios del Estado y la Federación, de acuerdo a lo que establece la Ley de Organizaciones Ganaderas, para lo cual el Director del Registro deberá expedir los lineamientos a los que deban sujetarse estas actividades.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 28.
 
-Las inscripciones que efectúe el Registro Estatal Agropecuario y las constancias registrales que éste expida serán gratuitas, previo el cumplimiento de los requisitos que el propio registro establezca.
+Las inscripciones que efectúe el REA y las constancias registrales que éste expida serán gratuitas, previo el cumplimiento de los requisitos que el propio registro establezca.
 
 ## TÍTULO CUARTO. DE LOS ORGANISMOS AUXILIARES
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 29.
 
-Se establecen como organismos auxiliares de la SEDARH para aplicar y coadyuvar en el cumplimiento de esta Ley:
+Se establecen como organismos auxiliares de la SEDARH para aplicar y coadyuvar en el cumplimiento de esta Ley, los siguientes:
 
-I. El Comité Estatal para el Fomento y Protección Pecuaria de San Luis Potosí;
+I. Comité Estatal para el Fomento y Protección Pecuaria de San Luis Potosí, A. C.;
 
-II. Las instituciones de enseñanza media, superior y de investigación pecuaria;
+II. Las instituciones de enseñanza media, superior y de investigación pecuaria, y
 
-III. Comité de Origen y Rastreabilidad de Ganado del Estado de San Luis Potosí, y
+III. Comité de Origen y Rastreabilidad de Ganado del Estado de San Luis Potosí.
 
-Para los efectos de este artículo, la interpretación en esta Ley, de la participación, autorización y operación será de acuerdo a lo que establece el artículo 59 de la Ley Federal de Sanidad Animal.
+Para los efectos de este artículo, la interpretación de la presente Ley, la participación, autorización y operación será de acuerdo a lo que establece el artículo 59 de la Ley Federal de Sanidad Animal.
 
 ###### ARTÍCULO 30.
 
@@ -725,7 +811,9 @@ I. Ejecutar acciones en materia de control y vigilancia de la movilización de g
 
 II. Coadyuvar en la ejecución y difusión de campañas zoosanitarias, así como vigilar el cumplimiento de las disposiciones en materia de movilización y sanidad animal en el Estado;
 
-III. Comunicar a la SEDARH y SAGARPA la presencia de cualquier plaga o enfermedad, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+III. Comunicar a la SEDARH y SADER la presencia de cualquier plaga o enfermedad, y
 
 IV. Fomentar y colaborar, conjuntamente con las autoridades correspondientes, que se dé prioridad a los problemas sanitarios en materia de sanidad animal que causen daños a la salud humana, con especial énfasis en las acciones preventivas.
 
@@ -765,29 +853,31 @@ XI. Coadyuvar para que se cumplan las normas correspondientes que establecen los
 
 XII. Dar seguimiento a la aplicación del presupuesto destinado a los programas de sanidad orientados al sector pecuario.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 33.
 
-El Comité de Origen y Rastreabilidad del Ganado del Estado de San Luis Potosí estará integrado de la siguiente manera:
+El Comité de Origen y Rastreabilidad del Ganado del Estado de San Luis Potosí se integrará de la siguiente manera:
 
-I. El titular de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, como presidente;
+I. La Persona titular de la SEDARH, que lo presidirá;
 
-II. El titular de la Secretaría de Salud del Estado, como Secretario, y
+II. La persona titular de la Secretaría de Salud del Estado, como Secretario, y
 
-III. Como vocales:
+III. Como vocales, las siguientes personas:
 
-a) El Delegado de la SAGARPA en el Estado.
+a) Titular de la Delegación de la SADER en el Estado.
 
-b) El Delegado de la PGR en el Estado.
+b) Titular de la Delegación de la Fiscalía General de la República en el Estado.
 
-c) El Procurador General de Justicia del Estado.
+c) Titular de la Fiscalía General del Estado.
 
-d) El titular de la Secretaría de Seguridad Pública.
+d) Titular de la Secretaría de Seguridad y Protección Ciudadana.
 
-e) El titular de la Dirección de Desarrollo Rural o su equivalente de cada ayuntamiento.
+e) Titular de la Dirección de Desarrollo Rural o su equivalente de cada ayuntamiento.
 
-f) El presidente de la unión ganadera del Estado, o regional, según el área de que se trate.
+f) Quien presida la unión ganadera del Estado, o regional, según el área de que se trate.
 
-g) El diputado presidente de la Comisión de Desarrollo Rural y Forestal del Congreso del Estado.
+g) La Diputada o Diputado que presida la Comisión de Desarrollo Rural y Forestal del Congreso del Estado.
 
 ## TÍTULO QUINTO. DEL APOYO Y MEJORAMIENTO PECUARIO
 
@@ -1117,13 +1207,17 @@ Se declara obligatoria la vacunación del ganado para prevenir enfermedades infe
 
 Es obligatorio para todos los habitantes del Estado presentar denuncia ante las autoridades competentes, de la existencia, aparición o indicio de cualquier enfermedad infectocontagiosa que se detecte.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 78.
 
-La SEDARH en coordinación con la SAGARPA, deberá dictar las medidas de seguridad en materia de sanidad animal para diagnosticar, prevenir, tratar, controlar y erradicar las plagas y enfermedades que afecten al ganado, mismas que deberán aplicarse en el área y durante el tiempo que sea necesario.
+La SEDARH en coordinación con la SADER, deberá dictar las medidas de seguridad en materia de sanidad animal para diagnosticar, prevenir, tratar, controlar y erradicar las plagas y enfermedades que afecten al ganado, mismas que deberán aplicarse en el área y durante el tiempo que sea necesario.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 79.
 
-Las organizaciones ganaderas deberán denunciar ante la SEDARH y SAGARPA, los hechos, actos u omisiones que atenten contra la sanidad animal.
+Las organizaciones ganaderas deberán denunciar ante la SEDARH y SADER, los hechos, actos u omisiones que atenten contra la sanidad animal.
 
 ###### ARTÍCULO 80.
 
@@ -1507,7 +1601,9 @@ La SEDARH autorizará mediante un convenio, a las organizaciones ganaderas o ayu
 
 Para ser registrado como centro expedidor de guías de tránsito, y utilizar el sistema REEMO es necesario contar con:
 
-I. Solicitud de inscripción dirigida al Secretario de la SEDARH;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+I. Solicitud de inscripción dirigida a la persona titular de la SEDARH;
 
 II. Nombre del Centro Expedidor;
 
@@ -1517,7 +1613,9 @@ IV. Copia del acta constitutiva respectiva;
 
 V. Plano de localización y coordenadas GPS;
 
-VI. Copia de autorización como centro expedidor de Certificado Zoosanitario de SAGARPA, en su caso;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VI. Copia de autorización como centro expedidor de Certificado Zoosanitario de SADER, en su caso;
 
 VII. Copia de autorización del MVZ oficial vigente, en su caso;
 
@@ -1639,9 +1737,13 @@ XII. Llevar un registro diario de las verificaciones realizadas, y levantar el a
 
 XIII. Instrumentar el sistema de información e informática;
 
-XIV. Notificar a la Delegación Estatal de la SAGARPA, cuando de la verificación se desprenda que la mercancía que se moviliza no cumple con las Normas Oficiales Mexicanas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XV. Notificar a la Delegación Estatal de la SAGARPA, y a la Dirección General de Salud Animal, según corresponda, cuando de la verificación se desprenda que la mercancía que se moviliza representa un riesgo zoosanitario, debiendo levantar el acta correspondiente, y
+XIV. Notificar a la Delegación Estatal de la SADER, cuando de la verificación se desprenda que la mercancía que se moviliza no cumple con las Normas Oficiales Mexicanas;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XV. Notificar a la Delegación Estatal de la SADER, y a la Dirección General de Salud Animal, según corresponda, cuando de la verificación se desprenda que la mercancía que se moviliza representa un riesgo zoosanitario, debiendo levantar el acta correspondiente, y
 
 XVI. Las demás que dispongan las autoridades correspondientes.
 
@@ -1693,7 +1795,9 @@ Sera de interés y orden público el abastecimiento de carne suficiente para las
 
 Para el funcionamiento de los rastros y establecimientos similares en la Entidad, las autoridades municipales, sanitarias y de salud, deberán vigilar que se cumpla con lo que se establece en esta Ley y los siguientes ordenamientos:
 
-I. Ley Estatal de Salud, su reglamento y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+I. Ley de Salud del Estado de San Luis Potosí, su reglamento y demás disposiciones aplicables;
 
 II. Ley Federal de Sanidad Animal, y Normas Oficiales Mexicanas aplicables, y
 
@@ -1757,9 +1861,11 @@ III. Ser profesionista titulado de carrera afín, y
 
 IV. No haber sido condenado en juicio por delito intencional.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 157.
 
-El administrador del rastro reportará mensualmente a la autoridad municipal un informe, durante los cinco primeros días del mes siguiente, enviando copias del mismo a la SEDARH, a la Secretaría de Salud y a la Delegación Estatal de la SAGARPA. Este informe tendrá una finalidad de tipo estadístico con relación al movimiento del ganado, sacrificios efectuados, conteniendo un registro en el que, por orden numérico y fechas, anotará la entrada de los animales al rastro, el nombre y domicilio del introductor, y número de UPP, PSG y PG, nombre de la propiedad pecuaria, lugar de procedencia, así como las marcas y señales del ganado que se sacrificó.
+La persona que administra el rastro reportará mensualmente a la autoridad municipal un informe, durante los cinco primeros días del mes siguiente, enviando copias del mismo a la SEDARH, a la Secretaría de Salud y a la Delegación Estatal de la SADER. Este informe tendrá una finalidad de tipo estadístico con relación al movimiento del ganado, sacrificios efectuados, conteniendo un registro en el que, por orden numérico y fechas, anotará la entrada de los animales al rastro, el nombre y domicilio del introductor, y número de UPP, PSG y PG, nombre de la propiedad pecuaria, lugar de procedencia, así como las marcas y señales del ganado que se sacrificó.
 
 ###### ARTÍCULO 158.
 
@@ -1825,9 +1931,11 @@ Los diferentes sistemas de vigilancia activa y de certificación que se encuentr
 
 La SEDARH, en coordinación con la Secretaría de Salud, y de acuerdo a su normatividad, podrá participar, cooperar y, en su caso, responsabilizarse de la vigilancia, procesamiento y certificación de todos los productos y subproductos alimenticios de origen animal, que se producen y se comercializan en la Entidad.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 168.
 
-La SEDARH podrá coordinarse con autoridades Federales, Estatales y Municipales, para que en el ámbito de su competencia, lleven a cabo las diferentes acciones que requiere el SICELIC, para dar cumplimiento práctico y efectivo con el contenido del artículo anterior, pudiendo, en caso de considerarlo necesario, ceder mediante la celebración de convenios de coordinación o de colaboración con organismos auxiliares, como el Comité Estatal de Fomento y Protección Pecuaria, las diversas actividades operativas de certificación, especialmente en referencia a la certificación preventiva y correctiva vinculada a la cadena de producción primaria, y que tiene como punto de destino final el rastro, sitio donde se llevará a cabo las acciones relacionadas con la certificación del ganado que ingresa al rastro, ya sea procedente de la Entidad o de otros Estados.
+La SEDARH podrá coordinarse con autoridades Federales, Estatales y Municipales, para que, en el ámbito de su competencia, lleven a cabo las diferentes acciones que requiere el SICELIC, para dar cumplimiento práctico y efectivo con el contenido del artículo anterior, pudiendo, en caso de considerarlo necesario, ceder mediante la celebración de convenios de coordinación o de colaboración con organismos auxiliares, como el Comité Estatal de Fomento y Protección Pecuaria de San Luis Potosí, A. C., las diversas actividades operativas de certificación, especialmente en referencia a la certificación preventiva y correctiva vinculada a la cadena de producción primaria, y que tiene como punto de destino final el rastro, sitio donde se llevará a cabo las acciones relacionadas con la certificación del ganado que ingresa al rastro, ya sea procedente de la Entidad o de otros Estados.
 
 ###### ARTÍCULO 169.
 
@@ -1841,9 +1949,11 @@ La SEDARH dictaminará las características y especificaciones de los productos 
 
 La SEDARH establecerá en el reglamento de esta Ley, el listado de las sustancias o productos cuyo uso o consumo en animales, están autorizados para ser utilizados o incluidos en los alimentos destinados para su alimentación o aplicación, así como las sustancias o productos que estén prohibidos por causar efectos nocivos en los animales y, sobre todo, en la salud del humano, al ser ingeridos principalmente, a través de sus productos y subproductos alimenticios; dentro de las sustancias prohibidas para su uso en la alimentación animal se encuentra el clembuterol, cimaterol, fenoterol, ractopamina, dietilestilbestrol, dienestrolritodrine, terbutaline y salbutamol.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 172.
 
-Para realizar una vigilancia activa e impedir el uso del clembuterol, el Ejecutivo del Estado, por sí mismo, a través de la SEDARH, o mediante la institución auxiliar operativa, establecerá un programa integral de certificación estatal denominado: Sistema de Certificación Libre de Clembuterol (SICELIC), el cual mediante una verificación continua garantizará la ausencia de este compuesto, tanto en la fase de procesamiento de alimentos, como en su suministro al ganado bovino y, finalmente, la presencia de esta sustancia en el animal que afecta la inocuidad de los productos y subproductos cárnicos resultantes.
+Para realizar una vigilancia activa e impedir el uso del clembuterol, el Ejecutivo del Estado, por sí mismo, a través de la SEDARH, o mediante la institución auxiliar operativa en conjunto con el SICELIC, deberá verificar y garantizar de manera continua la ausencia de clembuterol, tanto en la fase de procesamiento de alimentos, como en su suministro al ganado bovino y, finalmente, la presencia de esta sustancia en el animal que afecta la inocuidad de los productos y subproductos cárnicos resultantes.
 
 ###### ARTÍCULO 173.
 
@@ -1869,7 +1979,9 @@ Cuando se detecte clembuterol en ganado, a través de las pruebas oficiales, ser
 
 El ganadero, introductor, tablajero, o cualquier propietario o poseedor de ganado que, por segunda ocasión reincida en la falta citada en el párrafo que antecede, se le cancelará en forma definitiva la licencia para introducir ganado a todos los rastros de la Entidad, haciendo del conocimiento al resto de las entidades federativas para su control, sin perjuicio de las demás sanciones a que se haga acreedor.
 
-## TÍTULO DÉCIMO TERCERO. DE LA DENUNCIA CUIDADANA (SIC)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+## TÍTULO DÉCIMO TERCERO. DE LA DENUNCIA CIUDADANA
 
 ### Capítulo Único
 
@@ -1951,7 +2063,9 @@ XXX. Permitir el ingreso a rastros y centros de sacrificio de animales muertos o
 
 XXXI. No contar los rastros con un médico veterinario para hacer cumplir las disposiciones federales y estatales en materia de inspección sanitaria aplicables;
 
-XXXII. No informar a la SEDARH, a la Secretaría de Salud, a la SAGARPA, y a las uniones ganaderas, del movimiento del ganado y sacrificios efectuados en rastros y centros de sacrificio;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXXII. No informar a la SEDARH, a la Secretaría de Salud, a la SADER, y a las uniones ganaderas, del movimiento del ganado y sacrificios efectuados en rastros y centros de sacrificio;
 
 XXXIII. Sacrificar hembras que tengan cuatro o más meses de gestación, y becerros menores de un año, salvo los casos de inutilidad comprobada;
 
@@ -2079,9 +2193,11 @@ En todos los casos el procedimiento de levantamiento de actas de inspección y d
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 188.
 
-En contra de los actos y las resoluciones dictadas en los procedimientos administrativos, con motivo de la aplicación de esta Ley o su reglamento, procederán los medios de defensa establecidos en la legislación vigente en materia de procedimientos administrativos, en la forma y términos que al efecto establezca el ordenamiento de la materia.
+En contra de los actos y las resoluciones dictadas en los procedimientos administrativos, con motivo de la aplicación de esta Ley o su reglamento, procederán los medios de defensa establecidos en el Código Procesal Administrativo para el Estado de San Luis Potosí, en la forma y términos que al efecto establezca el Ordenamiento mencionado.
 
 ## TRANSITORIOS
 
@@ -2174,6 +2290,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0223.- QUE ADICIONA EL ARTÍCULO 38 BIS A LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EL ARTÍCULO 79 BIS A LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0268.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
