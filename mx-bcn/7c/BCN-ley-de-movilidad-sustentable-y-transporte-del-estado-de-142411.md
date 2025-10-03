@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-movilidad-sustentable-y-transporte-del-estado-de-142411"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-27"
-last_updated: "2025-03-21"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de marzo de 2020.
 
@@ -393,9 +393,17 @@ II. Promover que, en la concesión del servicio de transporte público, los veh�
 
 III. Promover en el ámbito de su competencia programas y campañas de educación vial, y respeto hacia las personas con discapacidad en su tránsito por la vía y lugares públicos, así como para evitar cualquier tipo de discriminación en el uso del transporte público;
 
-IV. Promover la suscripción de convenios con los concesionarios y permisionarios, para difundir una imagen de las personas con discapacidad que sea compatible con el propósito de esta Ley y los derechos humanos.; (sic) y,
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-V. Promover convenios con los concesionarios del transporte público a fin de que las personas con discapacidad gocen de descuentos en las tarifas de los servicios de transporte público.
+IV. Promover la suscripción de convenios con los concesionarios y permisionarios, para difundir una imagen de las personas con discapacidad que sea compatible con el propósito de esta Ley y los derechos humanos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+V. Promover convenios con los concesionarios del transporte público a fin de que las personas con discapacidad gocen de descuentos en las tarifas de los servicios de transporte público; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VI. Promover la capacitación de las personas que operan los servicios de transporte público en Lengua de Señas Mexicana, la cual consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, que posee su propia sintaxis, gramática y léxico.
 
 ###### ARTÍCULO 14.
 
@@ -2546,3 +2554,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Instituto de Movilidad Sustentable, emitirá la norma técnica que defina las especificaciones, lineamientos y obligaciones de la utilización de los distintivos conforme a la presente reforma.
 
 TERCERO.- Las personas conductoras afiliadas o registradas en empresas de redes de transporte, contarán con un plazo de ciento ochenta días a partir del inicio de vigencia del presente Decreto, a fin de que utilicen el distintivo a que se refiere el artículo 224 de la Ley.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 142 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 13 DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
