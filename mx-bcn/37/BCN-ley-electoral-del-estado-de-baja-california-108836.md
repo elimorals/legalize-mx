@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2023-09-02"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -1943,9 +1943,9 @@ Ningún partido político o coalición podrá solicitar el registro como candida
 
 Los partidos políticos promoverán y garantizarán la paridad entre los géneros, así como el principio de igualdad sustantiva, en la postulación de candidatos a los cargos de elección popular para la integración del Congreso y Ayuntamientos del Estado.
 
-(NOTA: EL 20 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS QUINTO Y SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 198/2023 Y SU ACUMULADA 200/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE OCTUBRE DE 2025)</small>
 
-Además, conforme a los lineamientos que expida la autoridad electoral los partidos políticos deberán incluir entre las candidaturas descritas en el párrafo anterior, al menos una fórmula de las siguientes poblaciones de atención prioritaria: personas jóvenes de entre 18 a 29 años de edad; personas de la diversidad sexual y de género, Y PERSONAS CON DISCAPACIDAD.
+Además, conforme a los lineamientos que expida la autoridad electoral los partidos políticos deberán incluir entre las candidaturas descritas en el párrafo anterior, al menos una fórmula de las siguientes poblaciones de atención prioritaria: personas jóvenes de entre 18 a 29 años de edad; personas de la diversidad sexual y de género, y personas con discapacidad.
 
 El Consejo General tendrá facultades para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
@@ -5356,3 +5356,9 @@ PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el
 SEGUNDO.- El Tribunal de Justicia Electoral del Estado de Baja California deberá realizar las adecuaciones reglamentarias necesarias en concordancia con el presente Decreto, antes del inicio del proceso electoral local de 2023-2024.
 
 TERCERO.- El requisito al que se hace referencia en el artículo 146, fracción IX de la Ley Electoral del Estado de Baja California, relativo a contar con el certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias, solo será exigible hasta que se implemente dicho registro a nivel nacional.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 145 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 139 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
