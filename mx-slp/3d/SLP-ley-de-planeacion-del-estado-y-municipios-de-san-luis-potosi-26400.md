@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-y-municipios-de-san-luis-potosi-26
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2025-06-23"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE PLANEACION DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de noviembre de 2001.
 
@@ -79,13 +81,17 @@ III. La promoción de políticas, planes y programas con perspectiva de género,
 
 IV. El impulso del desarrollo regional equilibrado y el fortalecimiento de la autonomía del municipio a través de la descentralización de los recursos;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-V. El equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión, en un marco de estabilidad económica y social, y
+V. El equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión, en un marco de estabilidad económica y social;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-VI. La igualdad entre mujeres y hombres, a través del acotamiento de las brechas de desigualdad entre hombres y mujeres, favoreciendo el acceso equitativo de éstas a los bienes, recursos y beneficios del desarrollo.
+VI. La igualdad entre mujeres y hombres, a través del acotamiento de las brechas de desigualdad entre hombres y mujeres, favoreciendo el acceso equitativo de éstas a los bienes, recursos y beneficios del desarrollo, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+VII. La protección de la organización, fortalecimiento y desarrollo de la familia en cumplimiento al artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y a los tratados internacionales de los que el Estado mexicano es parte; por medio de la orientación transversal de las políticas públicas para la protección y fortalecimiento de las familias mediante la construcción de una cultura de la complementariedad entre sus integrantes, eliminando todas las formas de violencia a su interior y exterior que atenten contra su unidad en los sectores público y privado, y encaminadas a mejorar las condiciones de vida familiar en los ámbitos económico, social y de cuidado en el hogar para quienes la conforman.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
@@ -409,9 +415,9 @@ De la misma forma, deberá consultarse a la población de las comunidades indíg
 
 El Plan Estatal de Desarrollo contendrá las estrategias, objetivos, prioridades del desarrollo estatal, las previsiones generales sobre los recursos a utilizar, la definición de instrumentos, responsables de su ejecución y los lineamientos de política general, sectorial y regional.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-El Plan Estatal de Desarrollo deberá apegarse a los criterios de, interés público, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, y transversalidad de la perspectiva de género.
+El Plan Estatal de Desarrollo deberá apegarse a los criterios de, interés público, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, transversalidad de la perspectiva de género, así como de protección y fortalecimiento a la familia, en términos de esta Ley.
 
 ###### ARTICULO 14.
 
@@ -421,9 +427,11 @@ Los programas derivados del Plan Estatal de Desarrollo deberán ser elaborados, 
 
 En la formulación de estos programas se observará su congruencia con el Plan Nacional de Desarrollo y con los planes municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTICULO 15.
 
-Los ayuntamientos planearán sus actividades bajo un Plan Municipal de Desarrollo que deberá elaborarse, aprobarse y publicarse en un plazo no mayor a cuatro meses a partir de la toma de posesión del ayuntamiento; su vigencia no excederá del período constitucional que les corresponda y deberá ser congruente con el Plan Estatal de Desarrollo.
+Los ayuntamientos planearán sus actividades bajo un Plan Municipal de Desarrollo que deberá elaborarse, aprobarse y publicarse en un plazo no mayor a cuatro meses a partir de la toma de posesión del ayuntamiento; su vigencia no excederá del período constitucional que les corresponda y deberá ser congruente con el Plan Estatal de Desarrollo, así como con los principios que establece esta Ley.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
@@ -802,3 +810,11 @@ P.O. 23 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0271.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO Y DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los 180 días siguientes de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
