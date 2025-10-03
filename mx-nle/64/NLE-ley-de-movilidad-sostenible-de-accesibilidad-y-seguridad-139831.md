@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2025-04-21"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -352,6 +352,10 @@ Para los efectos de esta Ley, se entiende por:
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 I. Accesibilidad: Es el derecho de acceso de las personas con discapacidad, mediante medidas pertinentes, en igualdad de condiciones con las demás personas, al entorno físico, el transporte público y privado, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+I Bis. Accidente Menor: Cualquier suceso, hecho, accidente o evento ocurrido en la vía pública en el que intervengan al menos dos vehículos y cuyo daño resulte exclusivamente material y/o estético a los vehículos involucrados, sin que exista daño físico o lesión de cualquier tipo a personas;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
@@ -2397,9 +2401,23 @@ b) Para vehículos destinados al transporte de pasajeros y de carga, queda prohi
 
 La autoridad competente realizará el respectivo control de alcoholimetría mediante el método aprobado por la Secretaría de Salud;
 
-XIII. La supervisión de pesos y dimensiones de todos los vehículos motorizados en todas sus modalidades deberán cumplir con las Normas Oficiales Mexicanas y demás leyes aplicables, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XIII. La supervisión de pesos y dimensiones de todos los vehículos motorizados en todas sus modalidades deberán cumplir con las Normas Oficiales Mexicanas (sic) demás leyes aplicables;
 
 XIV. Medidas para la prevención y mitigación de factores de riesgo.
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XIV. Medidas para la prevención y mitigación de factores de riesgo; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XV. Establecer disposiciones que regulen la obligatoriedad para que las personas conductoras implicadas en un accidente menor, a retirar sus vehículos de la vía hacia el acotamiento o área más cercana, una vez hayan tomado fotografías o videos del hecho, y llegado a común acuerdo, inclusive ante la ausencia de un agente de tránsito con el objetivo de liberar el tránsito en la vía afectada, agilizar el tráfico y salvaguardar la integridad física y seguridad vial.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XV, P.O. 3 DE OCTUBRE DE 2025.]</small>
+
+Esta medida aplicará, siempre y cuando, cuenten con seguro vehicular vigente, existan solo daños materiales en los vehículos involucrados y estos se encuentren en condiciones de circular, así como no existan indicios que ninguno de los conductores involucrados se encuentre bajo los efectos del alcohol o de cualquier tipo de estupefaciente. De igual forma se deberá establecer los supuestos específicos y las sanciones correspondientes para su aplicación eficaz.
 
 El Estado y los Municipios podrán prever en los convenios de coordinación metropolitana, la armonización de los reglamentos aplicables, y la estandarización de procesos y capacitaciones relacionadas con lo establecido en el presente artículo.
 
@@ -4856,3 +4874,11 @@ SEGUNDO.- El Instituto de Control Vehicular deberá modificar su Reglamento Inte
 TERCERO.- La persona Titular del Poder Ejecutivo, así como de los Ayuntamientos contarán con un plazo de 120 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
 
 CUARTO.- Para la implementación de esta disposición, el Gobierno del Estado y los municipios procederán a elaborar coordinadamente los planes y acciones necesarios para que, de acuerdo a su disponibilidad presupuestal, den cumplimiento a este decreto.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 134. SE REFORMAN LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 68 BIS 1 Y SE ADICIONA UNA FRACCIÓN I BIS AL ARTÍCULO 8 Y UNA FRACCIÓN XV AL ARTÍCULO 68 BIS 1, TODOS DE LA LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Los Municipios del estado de Nuevo León deberán ajustar y homologar sus reglamentos de tránsito correspondientes a las disposiciones contenidas en el presente decreto en un término no mayor a 90-noventa días naturales contados a partir de su publicación en el Periódico Oficial del Estado de Nuevo León.
