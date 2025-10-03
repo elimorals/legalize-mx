@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2020-09-29"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -63,11 +63,11 @@ V. Estimular la participación de la ciudadanía mediante la práctica de conduc
 
 Ámbito de aplicación
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 2.
 
-Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las secretarias de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvarán en ello, la Fiscalía General del Estado, las secretarías de Gobierno, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del estado.
+Corresponde la aplicación de esta Ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las Secretarías de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvar án (sic) en ello, la Fiscalía General del Estado, las Secretarías de Seguridad Pública, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del Estado.
 
 Supletoriedad
 
@@ -149,17 +149,29 @@ XXX. Restaurantes: Establecimientos dedicados preponderantemente a la venta de a
 
 XXXI. Revocación: Acto administrativo público, debidamente fundado y motivado de manera suficiente, clara y precisa, que declara extinguidos los derechos que se desprenden de las licencias, cuando así lo exija el interés público o cuando se contravenga la presente ley;
 
-XXXII. Secretaría de Educación: La Secretaria de Educación del Estado de Coahuila de Zaragoza;
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XXXIII. Secretaría de Salud: La Secretaría de Salud del Estado de Coahuila de Zaragoza;
+XXXII. Ruta turística enológica: Recorrido diseñado por la Secretaría de Turismo y Desarrollo de Pueblos Mágicos, cuyo trayecto se llevará a bordo de vehículos de degustación de vinos que cuenten con las licencias establecidas por las autoridades correspondientes, con el objeto de impulsar el desarrollo del turismo enológico en los municipios del Estado de Coahuila de Zaragoza, procurando un ambiente familiar, de promoción del desarrollo cultural y turístico de las diversas regiones del Estado.
 
-XXXIV. Secretaría de Finanzas: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza;
+XXXIII. Secretaría de Educación: La Secretaría de Educación del Estado de Coahuila de Zaragoza;
 
-XXXV. Secretaría de Gobierno: La Secretaría de Gobierno del Estado de Coahuila de Zaragoza;
+XXXIV. Secretaría de Salud: La Secretaría de Salud del Estado de Coahuila de Zaragoza;
 
-XXXVI. Supermercados: Establecimientos cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, embutidos, lácteos o marinos, artículos de consumo básico de uso doméstico y otra clase de mercancías, dentro de las cuales se incluyen, de manera complementaria, la venta de vinos, licores y cerveza en cualquier presentación, en recipientes debidamente cerrados para su consumo fuera de los mismos; y
+XXXV. Secretaría de Finanzas: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza;
 
-XXXVII. Venta: Comercialización de bebidas alcohólicas.
+XXXVI. Secretaría de Gobierno: La Secretaría de Gobierno del Estado de Coahuila de Zaragoza;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXXVII. Supermercados: Establecimientos cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, embutidos, lácteos o marinos, artículos de consumo básico de uso doméstico y otra clase de mercancías, dentro de las cuales se incluyen, de manera complementaria, la venta de vinos, licores y cerveza en cualquier presentación, en recipientes debidamente cerrados para su consumo fuera de los mismos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXXVIII. Venta: Comercialización de bebidas alcohólicas; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXXIX. Vehículo de Degustación de Vinos: medio automotor que se usa para transportar personas, adecuado para ofrecer degustaciones de vinos coahuilenses a turistas y visitantes mayores de edad, durante los recorridos de la ruta turística enológica.
 
 Comercialización
 
@@ -209,7 +221,9 @@ II. La Secretaría de Salud;
 
 III. La Secretaría de Gobierno;
 
-IV. (DEROGADA, P.O. 9 DE AGOSTO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+IV. La Secretaría de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
 
@@ -295,15 +309,15 @@ II. Dar a conocer a los municipios y de las dependencias competentes, todas las 
 
 III. Restringir en fechas o períodos específicos el horario de funcionamiento de los establecimientos a que se refiere la presente ley, por causas de interés público, así como cuando lo determine la Ley Federal del Trabajo, el Código Federal de Instituciones y Procedimientos Electorales o el Código Electoral para el Estado de Coahuila Zaragoza.
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 5 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-Atribuciones de la Secretaría de Gobierno y de la Fiscalía General del Estado
+Atribuciones de la Secretaría de Seguridad Pública y de la Fiscalía General del Estado
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 12.
 
-Corresponde a la Secretaría de Gobierno y a la Fiscalía General coadyuvar con las autoridades estatales y municipales en la vigilancia del cumplimiento de esta ley.
+Corresponde a la Secretaría de Seguridad Pública y a la Fiscalía General coadyuvar con las autoridades estatales y municipales en la vigilancia del cumplimiento de esta Ley.
 
 Atribuciones de los municipios
 
@@ -351,6 +365,10 @@ IV. Los restaurantes y restaurants bar, de las 11:30 horas de un día a las 2:00
 
 V. En los centros de espectáculos, deportivos o recreativos se podrá expender bebidas alcohólicas únicamente en vaso de desechable, durante el desarrollo del evento y en los horarios establecidos en la fracción anterior, pero la venta deberá suspenderse al término del evento,. (sic)
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+En la ruta turística enológica, se podrá suministrar solamente vinos coahuilenses para su degustación, limitando su consumo a 7.5 onzas por persona, las cuales tendrán que ser mayores de edad, en los horarios establecidos en la fracción anterior y en lo que dure el recorrido, suspendiéndose al término de la ruta, quedando prohibida la venta de vinos por parte del operador turístico.
+
 Días Domingo
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
@@ -393,11 +411,25 @@ Sujeción a la ley
 
 Las personas físicas y morales que se dediquen a las actividades mencionadas en este ordenamiento, se sujetarán, respecto de los establecimientos y lugares regulados por el mismo, a los horarios y ubicaciones que establezcan la presente ley, su reglamento, los reglamentos municipales y demás ordenamientos aplicables, así como, a las limitaciones que determinen las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-Los propietarios de los establecimientos regulados en esta ley, deberán además cuando así se les requiera, remitir a la Secretaría de Gobierno, una lista que contenga los datos de todo el personal que labora con ellos, incluyendo copia de identificación oficial.
+Las personas propietarias de los establecimientos regulados en esta Ley, deberán además cuando así se les requiera, remitir a la Secretaría de Seguridad Pública, una lista que contenga los datos de todo el personal que labora con ellos, incluyendo copia de identificación oficial.
 
 El incumplimiento de las obligaciones señaladas en el párrafo que antecede será causa de clausura inmediata del establecimiento.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 19 BIS. Las personas físicas y morales que se dediquen al desarrollo de la ruta turística enológica, se sujetarán, a lo establecido en el artículo anterior, así como a las siguientes obligaciones:
+
+I. Llevar a cabo el desarrollo de la ruta por personas mayores de edad debidamente acreditadas y capacitadas por la Secretaría de Turismo y Desarrollo de Pueblos Mágicos del Estado de Coahuila de Zaragoza, así mismo la persona conductora y la guía deberán abstenerse de ingerir algún tipo de bebida alcohólica antes y durante el desarrollo del recorrido.
+
+II. Utilizar para los recorridos el vehículo de degustación de vinos, que deberá contar con las características mecánicas y los requisitos administrativos que las leyes en la materia señalen como indispensables para su circulación y funcionamiento en la vía pública.
+
+III. Limitar la cantidad de vino a suministrar como máximo 7.5 onzas por persona, solo se ofrecerá para la degustación de vinos coahuilenses.
+
+IV. Limitar a 14 grados de alcohol las bebidas alcohólicas que se proporcionen para la degustación.
+
+V. Establecer un reglamento interno para que el desarrollo de la ruta turística enológica sea en un ambiente sano y familiar.
 
 Programas de prevención
 
@@ -644,6 +676,10 @@ VIII. Acreditar que se encuentra al corriente en el pago de sus obligaciones fis
 IX. Acreditar que la ubicación cumpla con el mínimo de distancia respecto a las instituciones educativas, centros de salud, hospitales, templos, iglesias y centros religiosos legalmente acreditados, con base a los ordenamientos legales aplicables.
 
 La certificación municipal tendrá una vigencia anual. El interesado deberá solicitar la revalidación en el mes de enero del año en curso, previo pago de derechos que corresponda.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN IX], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+La certificación deberá ser aprobada por votación de mayoría absoluta del cabildo.
 
 Plazo para resolver
 
@@ -1031,11 +1067,17 @@ XX. Vender, expender o entregar para consumo, bebidas alcohólicas libres de adu
 
 XXI. Hacer saber, al inicio del evento, a todas las personas que se encuentren dentro de estos establecimientos a que se refieren las fracciones II, IV, VI, VII, IX, XII, XVII, XVIII, XXVIII y XXIX, del artículo 4° de esta ley, las salidas de emergencia y rutas de evacuación del lugar, así como las medidas de seguridad que deben tomar en caso de algún incidente, accidente, percance o ataque al local.
 
-XXII. Imponer el uso de uniforme al personal que tenga laborando, estableciendo dos tipos de uniformes: uno para el personal de seguridad y otro para el resto de los empleados, en los establecimientos a que se refieren las fracciones II, IV, VI, VII, IX, XII, XVII, XVIII, XXVIII y XXIX, del artículo 4° de esta ley, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+XXII. Imponer el uso de uniforme al personal que tenga laborando, estableciendo dos tipos de uniformes: uno para el personal de seguridad y otro para el resto de los empleados, en los establecimientos a que se refieren las fracciones II, IV, VI, VII, IX, XII, XVII, XVIII, XXVIII y XXIX, del artículo 4º de esta Ley;
 
-XXIII. Exhibir en lugar visible al público consumidor un cartel oficial emitido por la Secretaría de Salud que contenga la leyenda "El consumo de bebidas alcohólicas durante el embarazo puede causar problemas de salud físicos y mentales en el feto".
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXIII. Establecer las medidas y, en su caso, brindar la capacitación necesaria al personal para evitar actos de discriminación en contra de las y los clientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXIV. Exhibir en lugar visible al público consumidor un cartel oficial emitido por la Secretaría de Salud que contenga la leyenda "El consumo de bebidas alcohólicas durante el embarazo puede causar problemas de salud físicos y mentales en el feto".
 
 Los dependientes y empleados de los establecimientos que suministren bebidas alcohólicas estarán obligados a observar el comportamiento de los consumidores y a negar el suministro a quienes se encuentren en evidente estado de ebriedad.
 
@@ -1055,7 +1097,9 @@ c) Militares, oficiales y agentes de tránsito, oficiales y agentes de policía,
 
 d) Personas que porten cualquier tipo de armas.
 
-II. Permitir la entrada a menores de edad, a los establecimientos descritos en las fracciones II, IV, IX, XI, XII y XVII del artículo 4°. Por lo que hace al establecimiento previsto en la fracción XVII del mismo artículo, únicamente se admitirá la entrada de menores acompañados de sus padres o tutores;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+II. Permitir la entrada a niñas, niños y/o adolescentes, a los establecimientos descritos en las fracciones II, IV, IX, XI, XII y XVII del artículo 4°. Por lo que hace al establecimiento previsto en la fracción XVII y a la modalidad establecida en la fracción XXXII del mismo artículo, únicamente se admitirá la entrada de niñas, niños y/o adolescentes, con acompañamiento de sus madres, padres o personas tutoras;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1081,11 +1125,21 @@ XII. Anunciarse al público por cualquier medio, con un giro de los previstos en
 
 XIII. Expender o vender bebidas alcohólicas en instituciones educativas, centros de reinserción social, instalaciones de gobierno, instituciones de beneficencia, hospitales, sanatorios y similares;
 
-XIV. Ofrecer por sí o por interpósita persona, dinero, objetos o servicios a los inspectores o cualquier otro servidor público del estado y los municipios, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
-XV. Permitir que los clientes tengan cualquier tipo de interacción que implique contacto físico impúdico con las meseras o meseros, artistas que se presenten, bailarinas o bailarines o cualquier empleada o empleado del lugar; y
+XIV. Ofrecer por sí o por interpósita persona, dinero, objetos o servicios a los inspectores o cualquier otro servidor público del estado y los municipios;
 
-XVI. Las demás que establezca esta ley, su reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XV. Permitir que las y los clientes tengan cualquier tipo de interacción que implique contacto físico impúdico con las meseras o meseros, artistas que se presenten, bailarinas o bailarines o cualquier empleada o empleado del lugar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XVI. Permitir que se realicen actos de discriminación en cualquiera de sus formas en contra de las y los clientes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XVII. Las demás que establezca esta Ley, su reglamento y otras disposiciones legales aplicables.
 
 En los establecimientos o lugares que se vendan o consuman bebidas alcohólicas queda estrictamente prohibida la presentación de espectáculos con personas desnudas o semidesnudas o en los que la vestimenta de los participantes permita al espectador ver en todo o en parte los órganos reproductores externos o la región genital y además, en el caso de las mujeres los senos.
 
@@ -1106,6 +1160,10 @@ Conducción de vehículo
 ###### ARTÍCULO 68.
 
 Se prohíbe el consumo de bebidas alcohólicas a bordo de vehículos, el conductor deberá abstenerse de consumirlas y será responsable de que sus acompañantes o pasajeros tampoco lo hagan.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+Por cuanto hace a las y los pasajeros y a la transportación de vinos coahuilenses, las prohibiciones enunciadas se exceptúan única y exclusivamente cuando se trate de los recorridos establecidos en la ruta turística enológica que cuente con su licencia vigente, en los vehículos de degustación de vinos.
 
 La transportación de bebidas alcohólicas en vehículos, siempre deberá hacerse en envase cerrado.
 
@@ -1490,3 +1548,43 @@ P.O. 29 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 717.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 65 Y EL ARTÍCULO 70, DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DEL ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 292.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XXXII, RECORRIENDO LAS ULTERIORES, ASÍ COMO UNA ÚLTIMA FRACCIÓN AL ARTÍCULO 4; UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 14; EL ARTÍCULO 19 BIS; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 68; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 65, LO ANTERIOR A LA LEY PARA LA REGULACIÓN DE LA VENTA Y EL CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Los municipios deberán ajustar sus Reglamentos de Alcoholes para dar cumplimiento al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 293.- SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 36 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 294.- SE REFORMA LA FRACCIÓN XXII Y XXIII DEL ARTÍCULO 64, LA FRACCIÓN XIV, XV Y XVI DEL ARTÍCULO 65; SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 64 Y LA FRACCIÓN XVII AL ARTÍCULO 65, DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 297.- SE REFORMA EL ARTÍCULO 2, LA FRACCIÓN IV DEL ARTÍCULO 7, EL ARTÍCULO 12 CON SU EPÍGRAFE Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 19, DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
