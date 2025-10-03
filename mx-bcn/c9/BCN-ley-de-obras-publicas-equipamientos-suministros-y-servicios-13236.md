@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-obras-publicas-equipamientos-suministros-y-servicios-132
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-03"
-last_updated: "2024-11-04"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 3 de julio de 1998.
 
@@ -142,6 +142,14 @@ XIX.- Equilibrio Económico-Financiero del Contrato: Es la necesidad de preserva
 > <small>(F. DE E., P.O. 18 DE FEBRERO DEL 2000)</small>
 
 XX.- Preponderante: Son las cantidades o importes que representan el 80% del total de las cantidades o precios analizados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+XXI.- Testigo Social: La persona física o moral que cuenta con el registro correspondiente en el padrón público de testigos sociales, el cual estará a cargo (sic) la Secretaría Anticorrupción y Buen Gobierno de Baja California.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXI, P.O. 3 DE OCTUBRE DE 2025]</small>
+
+Para ser testigo social, la persona física o moral debe tener su acreditación de solvencia técnica en materia de obras públicas y servicios relacionados con las mismas, emitida y avalada por la Secretaría Anticorrupción y Buen Gobierno.
 
 ###### ARTICULO 5.
 
@@ -440,6 +448,26 @@ I.- Licitación pública.
 II.- Invitación simplificada, a cuando menos tres contratistas.
 
 III.- Adjudicación directa.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+ARTICULO 33 BIS.- Para el procedimiento señalado en la fracción I del artículo anterior, se solicitará a la Secretaría Anticorrupción y Buen Gobierno, la presencia de un Testigo Social, el cual se entenderá como la persona física o moral acreditada como lo establece en el artículo 4 fracción XXI de esta Ley, cuya principal función será participar con derecho a voz en los procesos de contratación pública de obra y servicios relacionados en el Estado de Baja California y la cual tiene como objeto vigilar y evaluar la transparencia, legalidad e imparcialidad en el uso de los recursos públicos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+ARTICULO 33 TER.- Las y los testigos sociales tendrán las funciones siguientes:
+
+I. Observación y vigilancia de procesos.
+
+II. Proponer acciones de mejora.
+
+III. Reportar irregularidades.
+
+IV. Seguimiento de recomendaciones.
+
+V. Elaborar reporte final que incluya un testimonio público con sus observaciones y recomendaciones del proceso de contratación.
+
+Lo anterior actuando con objetividad, transparencia y ética durante todo el proceso de contratación, asegurando que sus observaciones y recomendaciones se fundamenten en principios de legalidad y honestidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
@@ -1464,3 +1492,11 @@ P.O. 4 DE NOVIEMBRE DE 2024.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los procedimientos de contrataciones de obras públicas, equipamientos, suministros y servicios relacionados con la obra pública en curso, se llevarán a cabo hasta su formalización conforme al procedimiento vigente al momento de la publicación de la convocatoria.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 143 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4; ASÍ COMO LA ADICIÓN DE LOS ARTÍCULOS 33 BIS Y 33 TER DE LA LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Dentro de los 90 días siguientes a la entrada en vigor de las presentes reformas, el Poder Ejecutivo del Estado, en el ámbito de su respectiva competencia, deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes, a fin de garantizar su cumplimiento.
