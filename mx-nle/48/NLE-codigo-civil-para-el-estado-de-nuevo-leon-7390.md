@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2025-09-26"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -731,15 +731,19 @@ Las formas del Registro Civil se proporcionarán por la Dirección del Registro 
 
 Con las actas del Registro Civil se integrará el apéndice respectivo, que estará constituído por todos los documentos relacionados con el acta que se asienta.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
 ###### Art. 46.
 
-Toda persona puede solicitar que se le muestre o se le expida copia certificada de las actas del Registro Civil y de los documentos del apéndice. Los Oficiales y el Director del Registro Civil están obligados a expedirlas o mostrarlas en su caso. Para el caso de las actas de nacimiento deberán expedirse con supresión de anotaciones marginales cuando así sea solicitado, las cuales únicamente solo serán utilizadas para verificar fecha y lugar de nacimiento.
+Toda persona puede solicitar que se le muestre o se le expida copia certificada de las actas del Registro Civil y de los documentos del apéndice. Los Oficiales y el Director del Registro Civil están obligados a expedirlas o mostrarlas en su caso. Para el caso de las actas de nacimiento deberán expedirse con supresión de anotaciones marginales cuando así sea solicitado, las cuales sólo serán utilizadas para verificar fecha y lugar de nacimiento.
 
-Para efecto de lo establecido en el párrafo anterior, las actas con supresión de anotaciones marginales deberán contener la leyenda; “La presente acta de nacimiento no contiene las anotaciones marginales relativas al estado civil que en su caso pudiera existir”
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 2025)</small>
 
-La Dirección General del Registro Civil, tendrá la obligación de expedir las Actas del Registro Civil en Sistema Braille cuando quien las solicite sea una persona con discapacidad visual.
+Para efectos de lo establecido en el párrafo anterior, el Registro Civil tomará las previsiones necesarias para diferenciar con claridad las actas que únicamente pueden ser utilizadas para verificar fecha y lugar de nacimiento.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+La Dirección General del Registro Civil, a través de sus Oficialías, tendrá la obligación de expedir las Actas del Registro Civil en Sistema Braille cuando quien las solicite sea una persona con discapacidad visual.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1129,7 +1133,7 @@ III.- La declaración de dos testigos mayores de edad que conozcan a los pretend
 
 IV.- Un certificado suscrito por un medico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen enfermedad alguna crónica e incurable, que sea además contagiosa y hereditaria.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO CON SUS INCISOS [N. DE E. REPUBLICADO], P.O. 3 DE OCTUBRE DE 2025)</small>
 
 Cuando alguno de los pretendientes padezca alguna enfermedad crónica o incurable, además del certificado de diagnóstico deberán presentar un documento por escrito en donde acrediten:
 
@@ -1139,7 +1143,7 @@ b) Su consentimiento, de estar informados sobre los alcances y el requerimiento 
 
 c) Deberá estar signado por las dos personas que van a contraer matrimonio.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 3 DE OCTUBRE DE 2025)</small>
 
 Para los indigentes, tienen obligación de expedir gratuitamente ese certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
@@ -1149,21 +1153,17 @@ V.- La manifestación de los pretendientes de que contraen el matrimonio bajo el
 
 VI.- Copia certificada del acta de defunción o de divorcio, si alguno de los pretendientes es viudo o divorciado, o copia certificada de la sentencia de nulidad de matrimonio en caso de que alguno de los pretendientes hubiese estado casado con anterioridad;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE OCTUBRE DE 2025)</small>
 
 VII.- Copia de la dispensa de impedimentos si los hubo;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE OCTUBRE DE 2025)</small>
 
-VIII. Declaración firmada por ambos contrayentes, bajo protesta de decir verdad, de no haber sido sentenciados por violencia familiar. En el caso de que alguno de los contrayentes haya sido sentenciado por violencia familiar, será necesario que el otro contrayente entregue al juez una declaración por escrito, en la que manifieste conocer de la situación y que mantiene su voluntad de contraer matrimonio; y
+VIII.- Declaración firmada por ambos contrayentes, bajo protesta de decir verdad, de no haber sido sentenciados por violencia familiar. En el caso de que alguno de los contrayentes haya sido sentenciado por violencia familiar, será necesario que el otro contrayente entregue al juez una declaración por escrito, en la que manifieste conocer de la situación y que mantiene su voluntad de contraer matrimonio; y
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE OCTUBRE DE 2025)</small>
 
-IX.- Constancia de haber recibido ambos contrayentes, un curso prenupcial que deberá comprender, entre otros temas, la prevención de la violencia familiar, salud sexual y reproductiva, planificación familiar, el respeto a la equidad de género, relaciones de pareja, fines del matrimonio, derechos y obligaciones de los cónyuges entre ellos y para con sus hijos, el régimen patrimonial en las capitulaciones matrimoniales, de los derechos y obligaciones que nacen del matrimonio;
-
-> <small>(N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
-
-Dicho curso será impartido por La Secretaría de Igualdad e Inclusión del Estado de Nuevo León en conjunto con los Municipios pudiendo realizar convenios de colaboración con organismos especializados, los cuales deberán tener coordinación con la Dirección General del Registro Civil.
+IX.- Constancia que acredite haber tomado el curso que hace referencia el artículo 149 de este código.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -18080,3 +18080,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Las obligaciones emanadas en el presente decreto se harán conforme la disponibilidad presupuestal.
 
 TERCERO.- Para lo relativo al artículo 94 de este Decreto la Secretaría de Igualdad e Inclusión deberá emitir los lineamientos para el curso y coordinarse con los municipios para su realización.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 124. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 46, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 94; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 46, UN TERCER PÁRRAFO A LA FRACCIÓN IV Y UNA FRACCIÓN IX AL ARTÍCULO 94, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
