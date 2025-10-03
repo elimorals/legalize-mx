@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-energia-geotermica-103364"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-31"
-last_updated: "2014-10-31"
+last_updated: "2025-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103364&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-10-29"
 ---
 # REGLAMENTO DE LA LEY DE ENERGIA GEOTERMICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE GEOTERMIA, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE ENERGÍA GEOTÉRMICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE OCTUBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el viernes 31 de octubre de 2014.
 
@@ -792,3 +794,33 @@ Los derechos de preferencia que se hubieren notificado en términos del Décimo 
 SEXTO. Se derogan todas las disposiciones administrativas que contravengan lo establecido en el presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintinueve de octubre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan José Guerra Abud.- Rúbrica.- El Secretario de Energía, Pedro Joaquín Coldwell.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE GEOTERMIA".]
+
+PRIMERO. El presente Reglamento entra en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Energía Geotérmica, publicado en el Diario Oficial de la Federación el treinta y uno de octubre de dos mil catorce, así como todas las demás disposiciones que se opongan a este Reglamento.
+
+TERCERO. Las referencias realizadas al Reglamento de la Ley de Energía Geotérmica en otros ordenamientos jurídicos se entienden hechas, en lo aplicable, al Reglamento de la Ley de Geotermia.
+
+CUARTO. Las disposiciones normativas emitidas con anterioridad a la entrada en vigor del presente reglamento, continúan vigentes hasta que inicie la vigencia de aquellas que las sustituyan, en lo que no se oponga a la Ley y el presente reglamento.
+
+QUINTO. Las solicitudes de prórroga de aquellas Áreas Geotérmicas que cuentan con Permiso de Exploración vigente y en las que la Comisión Federal de Electricidad tenga interés de continuar con los trabajos de Exploración, además de lo previsto en el Séptimo Transitorio de la Ley de Geotermia, la Comisión Federal de Electricidad debe acreditar sus capacidades jurídicas, administrativas, técnicas y financieras conforme a lo previsto en el presente Reglamento y demostrar que estas continúan vigentes.
+
+SEXTO. Los permisos y Concesiones otorgados previo a la publicación de la Ley de Geotermia continúan surtiendo sus efectos hasta la terminación de su vigencia, rigiéndose conforme a los términos en los que fueron otorgados bajo la Ley de Energía Geotérmica. Las personas titulares de los permisos y Concesiones deben realizar sus actividades en los términos establecidos en la Ley de Energía Geotérmica y las demás disposiciones emanadas de la misma y, en lo que no se oponga a lo anterior, por lo dispuesto en la Ley de Geotermia y su Reglamento.
+
+SÉPTIMO. Las solicitudes de permisos y Concesiones que se hayan presentado antes de la entrada en vigor de la Ley de Geotermia y continúen en trámite deben ser resueltas bajo la Ley de Geotermia.
+
+Lo anterior no se considera como efecto retroactivo en perjuicio de las personas solicitantes, toda vez que, al no estar resueltas, no confirieron ningún derecho adquirido previo.
+
+OCTAVO. La Secretaría dentro de un plazo no mayor a sesenta días hábiles contados a partir de la entrada en vigor de este Reglamento, debe publicar en el Diario Oficial de la Federación las disposiciones administrativas de carácter general para la planeación vinculante a las que se refieren los artículos 6 y 7 de este Reglamento.
+
+En tanto no se emitan las disposiciones, no será aplicable lo establecido en el artículo 6 del presente Reglamento.
+
+NOVENO. En tanto se determina el formato autorizado por la Secretaría para la presentación de cada solicitud a la que hace referencia el presente Reglamento y estas se publiquen en los portales electrónicos de la Secretaría, así como en los portales públicos de información de trámites, los formatos previos, los escritos libres y las versiones electrónicas autorizadas son válidos para presentar la solicitud que corresponda.
+
+DÉCIMO. Las erogaciones que se generen con motivo de la aplicación del presente decreto se deben realizar con cargo a los presupuestos autorizados a los ejecutores del gasto que intervienen en la implementación de este, por lo que no se autorizan ampliaciones líquidas a sus presupuestos para tal fin en el presente ejercicio fiscal, ni se puede incrementar el presupuesto regularizable de dichos ejecutores de gasto para tales efectos.
