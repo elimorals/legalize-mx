@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-transicion-energetica-121232"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-04"
-last_updated: "2017-05-04"
+last_updated: "2025-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121232&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-04-28"
 ---
 # REGLAMENTO DE LA LEY DE TRANSICION ENERGETICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE TRANSICIÓN ENERGÉTICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE OCTUBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de mayo de 2017.
 
@@ -472,3 +474,35 @@ Séptimo. La Secretaría de Energía publicará en el Diario Oficial de la Feder
 Octavo. La Comisión Nacional para el Uso Eficiente de la Energía emitirá y publicará las especificaciones para realizar los diagnósticos o revisiones energéticas a que se refiere el artículo 20, fracción II, inciso a) de este Reglamento, dentro de los seis meses siguientes a su entrada en vigor.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de abril de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Antonio Meade Kuribreña.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Rafael Pacchiano Alamán.- Rúbrica.- El Secretario de Energía, Pedro Joaquín Coldwell.- Rúbrica.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, José Eduardo Calzada Rovirosa.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Gerardo Ruiz Esparza.- Rúbrica.- El Secretario de Salud, José Ramón Narro Robles.- Rúbrica.- La Secretaria de Desarrollo Agrario, Territorial y Urbano, María del Rosario Robles Berlanga.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA".]
+
+PRIMERO. El presente Reglamento entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Transición Energética, publicado el cuatro de mayo de dos mil diecisiete en el Diario Oficial de la Federación.
+
+TERCERO. Todas las referencias que en los ordenamientos jurídicos se hagan al Reglamento de la Ley de Transición Energética, se entienden hechas al presente ordenamiento, en lo que no se opongan a este.
+
+CUARTO. Dentro de un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría debe realizar las acciones y gestiones necesarias para que el Sistema Nacional de Información Energética inicie operaciones en los términos establecidos en la Ley y el Reglamento.
+
+QUINTO. En tanto no inicie operaciones el Sistema Nacional de Información Energética, la Secretaría, sus órganos administrativos desconcentrados, empresas públicas del Estado y entidades paraestatales sectorizadas, así como las demás dependencias que por ley estén obligadas a publicar registros o información geoespacial del Sector Energético, deben continuar con su obligación en las páginas de internet que para tal efecto se encuentren habilitadas.
+
+SEXTO. Una vez que inicie operaciones el Sistema Nacional de Información Energética, la Secretaría, sus órganos administrativos desconcentrados, empresas públicas del Estado entidades paraestatales sectorizadas, así como cualquier otra dependencia que forme parte del Sistema Nacional de Información Energética, tienen un periodo de ciento ochenta días naturales para asegurar la interoperabilidad de sus subsistemas.
+
+SÉPTIMO. La Secretaría debe emitir por única ocasión dentro de un plazo de ciento ochenta días hábiles a partir de la entrada en vigor del presente Reglamento, las obligaciones y requisitos para adquirir los Certificados de Energías Limpias para dar cumplimiento a la obligación anual del dos mil veinticinco, dos mil veintiséis, dos mil veintisiete y dos mil veintiocho.
+
+OCTAVO. Por única ocasión y durante el primer ciclo de planeación referido en los artículos 56 y 58 del Reglamento, el Consejo puede reunirse como mínimo una vez en el mismo año al de la entrada en vigor del presente Reglamento.
+
+NOVENO. En un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Reglamento, la CONUEE debe emitir las disposiciones administrativas de carácter general a las que hace referencia el artículo 88 del Reglamento respecto de las personas Usuarias de Patrón de Alto Consumo.
+
+DÉCIMO. En un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Reglamento, la CONUEE debe emitir las disposiciones reglamentarias para la evaluación y el otorgamiento del reconocimiento de excelencia de las instalaciones, edificaciones, empresas o productos que destaquen en el uso sustentable y eficiente de la energía a las que hace referencia el artículo 103 del Reglamento.
+
+DÉCIMO PRIMERO. En un plazo no mayor a trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor del presente Reglamento, la Secretaría debe emitir las metodologías a las que hace referencia el Capítulo IV, Título Sexto del presente Reglamento.
+
+DÉCIMO SEGUNDO. Por única ocasión y durante el primer ciclo anual de planeación referido en los artículos 56 y 58 del Reglamento, el orden secuencial y el procedimiento para la elaboración de los insumos y publicación de los Instrumentos de Planeación del Sector Energético pueden diferir de lo establecido en la Ley y el Reglamento. A partir del segundo ciclo anual de planeación, la actualización y publicación de estos instrumentos debe realizarse conforme a los procedimientos, orden secuencial y temporal establecido en la Ley y el Reglamento, así como estar sujeta a la opinión del Consejo.
+
+DÉCIMO TERCERO. Las erogaciones que se generen con motivo de la aplicación del presente decreto se deben realizar con cargo a los presupuestos autorizados a los ejecutores del gasto que intervienen en la implementación de este, por lo que no se autorizan ampliaciones líquidas a sus presupuestos para tal fin en el presente ejercicio fiscal, ni se puede incrementar el presupuesto regularizable de dichos ejecutores de gasto para tales efectos.
