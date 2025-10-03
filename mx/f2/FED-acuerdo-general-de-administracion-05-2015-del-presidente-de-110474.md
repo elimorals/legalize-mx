@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-05-2015-del-presidente-de-110
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-10"
-last_updated: "2025-03-07"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110474&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-11-04"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015 DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EXPIDEN LOS LINEAMENTOS TEMPORALES PARA REGULAR EL PROCEDIMIENTO ADMINISTRATIVO INTERNO DE ACCESO A LA INFORMACIÓN PÚBLICA, ASÍ COMO EL FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITÉ DE TRANSPARENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE OCTUBRE DE 2025.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de noviembre de 2015.
 
@@ -293,7 +293,9 @@ Tal necesidad deberá responder a coyunturas extraordinarias, verificadas y veri
 
 La referida ampliación será autorizada en términos de los Lineamientos, siempre y cuando se agoten las gestiones que la Unidad General estime pertinentes y exista un planteamiento de la instancia generadora y/o poseedora de la información, que detalle las causas extraordinarias por las cuales se encuentra impedida materialmente para dar contestación y/o entregar la información dentro del plazo de veinte días hábiles, además de acompañar toda la documentación que avale esa situación.
 
-En estos casos, la Unidad General lo hará del conocimiento del Presidente, quien dispondrá lo necesario para resolver en los plazos y términos señalados en el artículo 132 de la Ley General.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO NÚMERO V/2025, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+En estos casos, la Unidad General lo hará del conocimiento del Presidente, quien dispondrá lo necesario para resolver en los plazos y términos señalados en el artículo 134 de la Ley General.
 
 Cuando la instancia clasifique la información como reservada o confidencial, procederá la ampliación del plazo de respuesta, a efecto de que el Comité de Transparencia pueda conocer de dicha clasificación.
 
@@ -377,29 +379,29 @@ Para el caso de que el requirente solicite la entrega de la información en un l
 
 ## Título III. Atribuciones y funcionamiento del Comité
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IV/2019, DEL CATORCE DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 25 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO NÚMERO V/2025, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
 Artículo 22
 
 De la Integración
 
-En términos de lo dispuesto en los artículos 43 de la Ley General y 64 de la Ley Federal de Transparencia y Acceso a la Información Pública, el Comité estará integrado por los servidores públicos siguientes:
+El Comité de Transparencia se integrará por las personas titulares de las instancias siguientes:
 
-I. El Director General de Asuntos Jurídicos de la Suprema Corte, quien presidirá el Comité;
+I. Dirección General de Asuntos Jurídicos de la Suprema Corte de Justicia de la Nación, quien lo presidirá;
 
-II. El titular de la Unidad General de Investigación de Responsabilidades Administrativas de la Suprema Corte, y
+II. Unidad de Transparencia, y
 
-III. El Contralor de la Suprema Corte.
+III. Centro de Documentación.
 
-El Presidente se auxiliará del Secretario, el cual será designado por el propio Presidente.
+La persona titular de la Unidad de Administración de la Suprema Corte de Justicia de la Nación asistirá como invitada permanente a las sesiones del Comité de Transparencia con voz, pero sin voto.
 
-La ausencia de alguno de los integrantes del Comité, será suplida conforme a lo que determine el Ministro Presidente de la Suprema Corte.
+La persona titular de la Presidencia se auxiliará de una Secretaría, la cual será designada por la primera.
 
-Para las ausencias del Secretario, el Presidente designará un suplente para que funja como tal en las sesiones que sea necesario.
+En caso de ausencia de alguna persona integrante del Comité, la Presidenta o Presidente de la Suprema Corte designará al suplente respectivo.
 
-El Oficial Mayor y el titular de la Unidad General asistirán como invitados permanentes a las sesiones del Comité, con voz pero sin voto. El titular del Centro de Documentación asistirá como invitado a las sesiones del Comité, con voz pero sin voto, cuando se traten asuntos relativos a los archivos de la Suprema Corte.
+Para las ausencias de la persona titular de la Secretaría, la o el Presidente designará a una suplente para que funja como tal por el número de sesiones que sea necesario.
 
-A petición de cualquier miembro del Comité, los titulares de las instancias podrán acudir a las sesiones para tratar los asuntos en los que hubieran intervenido durante el procedimiento administrativo interno de acceso a la información.
+A petición de las personas integrantes del Comité, las o los titulares de las instancias podrán acudir a las sesiones para tratar los asuntos en los que hubieran intervenido en los procedimientos de acceso a la información y de protección de datos personales.
 
 Artículo 23
 
@@ -411,9 +413,13 @@ I. Supervisar el cumplimiento de las obligaciones de acceso a la información y 
 
 II. Confirmar, modificar o revocar las determinaciones de las instancias en las que se señale que la información solicitada es inexistente, confidencial o reservada. El Comité cuidará que la información entregada por las instancias se ajuste con precisión a los términos en los cuales se recibió la solicitud;
 
-III. Dictar las medidas conducentes para la localización de información bajo resguardo de las instancias, ordenar su generación o reposición en los términos del artículo 138 fracción III de la Ley General y, en su caso, confirmar su inexistencia;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO NÚMERO V/2025, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
-IV. Hacer del conocimiento del titular de la Contraloría de la Suprema Corte, las presuntas infracciones a la normativa de la materia;
+III. Dictar las medidas conducentes para la localización de información bajo resguardo de las instancias, ordenar que se expongan de manera fundada y motivada las razones por las cuales no se cuenta con la información en los términos del artículo 140, fracción III, de la Ley General y, en su caso, confirmar su inexistencia;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO NÚMERO V/2025, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+IV. Hacer del conocimiento del órgano del Poder Judicial de la Federación que corresponda, las presuntas infracciones a la normativa de la materia;
 
 V. Aprobar el texto en que se plasmen de manera abstracta los criterios sostenidos al resolver los asuntos de su competencia;
 
@@ -635,11 +641,15 @@ I. Si considera que se ha cumplido la resolución del Comité, remitirá la info
 
 II. Si estima que no se ha cumplido con la resolución del Comité, remitirá la información y/o respuesta al integrante que hubiera realizado el proyecto dentro de los tres días hábiles siguientes, para que elabore y presente un dictamen que dé cuenta del cumplimiento o incumplimiento de la determinación del Comité, el cual será sometido a su consideración en la siguiente sesión ordinaria.
 
-Cuando el dictamen aprobado por el Comité determine incumplida la resolución, se apercibirá a la instancia respectiva para que, en un plazo no mayor a dos días hábiles, cumpla con la resolución del Comité e informe tal circunstancia al Secretario. Advirtiéndole que en caso de un nuevo incumplimiento se dará vista a la Contraloría de la Suprema Corte.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO NÚMERO V/2025, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+Cuando el dictamen aprobado por el Comité determine incumplida la resolución, se apercibirá a la instancia respectiva para que, en un plazo no mayor a dos días hábiles, cumpla con la resolución del Comité e informe tal circunstancia a la persona titular de la Secretaría. Advirtiéndole que, en caso de un nuevo incumplimiento, se dará vista al órgano del Poder Judicial de la Federación que corresponda.
 
 En cualquier caso, vencido el plazo señalado en el párrafo anterior, el Secretario turnará las nuevas gestiones y su respectivo informe al Comité, que resolverá en definitiva sobre el cumplimiento o incumplimiento de su resolución en la siguiente sesión ordinaria.
 
-Si el nuevo dictamen aprobado por el Comité determina incumplida la resolución, ordenará dar vista a la Contraloría de la Suprema Corte.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO NÚMERO V/2025, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+
+Si el nuevo dictamen aprobado por el Comité determina incumplida la resolución, ordenará dar vista al órgano del Poder Judicial de la Federación que corresponda.
 
 En todos los casos, el dictamen final de cumplimiento o incumplimiento deberá notificarse por el Secretario a la Unidad General dentro de los dos días hábiles siguientes a su aprobación. Por su parte, la Unidad General lo notificará al solicitante dentro de los dos días hábiles siguientes.
 
@@ -718,3 +728,13 @@ CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Acuer
 QUINTO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración número X/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de tres de septiembre de dos mil diecinueve, por el que se expiden las bases para el funcionamiento del Comité de Publicaciones y Política Editorial de la Suprema Corte de Justicia de la Nación, y háganse las anotaciones conducentes en el Acuerdo General de Administración 05/2015 del tres de noviembre de dos mil quince, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se expiden los lineamientos temporales para regular el procedimiento administrativo interno de acceso a la información pública, así como el funcionamiento y atribuciones del Comité de Transparencia de la Suprema Corte de Justicia de la Nación. Lo anterior, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha integración deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
 
 SEXTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+D.O.F. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NÚMERO V/2025, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTICUATRO DE SEPTIEMBRE DE DOS MIL VEINTICINCO, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015 DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EXPIDEN LOS LINEAMENTOS TEMPORALES PARA REGULAR EL PROCEDIMIENTO ADMINISTRATIVO INTERNO DE ACCESO A LA INFORMACIÓN PÚBLICA, ASÍ COMO EL FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITÉ DE TRANSPARENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Una vez que las disposiciones del presente Acuerdo hayan entrado en vigor, efectúense las anotaciones y ajustes conducentes al Acuerdo General de Administración 05/2015 del tres de noviembre de dos mil quince, del presidente de la Suprema Corte de Justicia de la Nación, por el que se expiden los Lineamentos temporales para regular el procedimiento administrativo interno de acceso a la información pública, así como el funcionamiento y atribuciones del Comité de Transparencia de la Suprema Corte de Justicia de la Nación, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Tribunal Constitucional, así como del resto de medios análogos que éste administre.
+
+TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
