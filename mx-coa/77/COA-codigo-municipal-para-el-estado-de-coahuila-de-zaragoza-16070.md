@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2025-04-18"
+last_updated: "2025-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -877,9 +877,17 @@ I. En materia de gobierno y régimen interior:
 
 12. Integrar un Comité Municipal de Seguridad Pública y organizar rondines de seguridad y tranquilidad social. Para tal efecto, el presidente municipal aprobará la designación y el funcionamiento del personal que integre los rondines de seguridad pública, los que tendrán el carácter de policía auxiliar.
 
-13. Integrar un Comité de protección civil, para tal efecto el Presidente Municipal aprobará la designación y el funcionamiento del personal que integra el mismo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 2025)</small>
 
-14. Turnar al Congreso del Estado o a la Diputación Permanente, en su caso, las renuncias y las solicitudes de licencia que le sean presentadas por los miembros de los ayuntamientos y de los Concejos Municipales, para que se resuelva sobre las mismas, conforme a lo dispuesto en la Constitución Política local y demás disposiciones aplicables. En estos casos, el ayuntamiento respectivo deberá dar aviso previamente al Ejecutivo del Estado.
+13. Crear los juzgados municipales y, en su caso, los juzgados especializados en justicia cívica en los términos de lo establecido en el Capítulo I del Título Décimo del presente Código, así como los mecanismos alternos de solución de controversias.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+14. Integrar un Comité de protección civil, para tal efecto el Presidente Municipal aprobará la designación y el funcionamiento del personal que integra el mismo.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 3 DE OCTUBRE DE 2025)</small>
+
+15. Turnar al Congreso del Estado o a la Diputación Permanente, en su caso, las renuncias y las solicitudes de licencia que le sean presentadas por los miembros de los ayuntamientos y de los Concejos Municipales, para que se resuelva sobre las mismas, conforme a lo dispuesto en la Constitución Política local y demás disposiciones aplicables. En estos casos, el ayuntamiento respectivo deberá dar aviso previamente al Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -2351,7 +2359,9 @@ Los bandos de policía y gobierno, además de tomar en cuenta las bases generale
 
 I. Describirán con precisión las faltas en materia de salud y seguridad pública general, bienestar colectivo, urbanidad, ornato público y propiedad pública y particular, así como en cualquier otra materia, de manera que no contengan tipos legales abiertos o en blanco.
 
-II. Determinarán las sanciones que correspondan a las infracciones y las autoridades competentes para su aplicación, sujetándose a lo que a éste respecto establece la Constitución General de la República y la del Estado de Coahuila.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+II. Determinarán las sanciones que correspondan a las infracciones y las autoridades competentes para su aplicación, sujetándose a lo que a éste respecto establece la Constitución General de la República y la del Estado de Coahuila. Asimismo, establecerán los mecanismos alternos de solución de controversias y de conflictos entre particulares, así como las formas en que, cumpliendo las condiciones que establezcan las leyes y reglamentos, se puedan reemplazar las sanciones económicas y de arresto administrativo por trabajo a favor de la comunidad u otras medidas.
 
 III. Contendrán las disposiciones o medidas preventivas para situaciones de emergencia o siniestros, de conformidad con la Ley de Protección Civil del Estado.
 
@@ -2562,6 +2572,12 @@ Este código, orienta la prestación de los servicios públicos municipales, con
 ###### ARTÍCULO 192.
 
 Corresponde al presidente municipal, la vigilancia y supervisión de los servicios públicos municipales, quien se podrá auxiliar de las comisiones del ayuntamiento que se constituyan para tal efecto. La auditoría sobre el desempeño de los servicios públicos municipales la llevará a cabo la contraloría municipal.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 192 Bis.
+
+La persona titular de la Presidencia Municipal, con autorización del Ayuntamiento, podrá disponer de oficinas de enlace para la gestoría, prestación y seguimiento de servicios públicos y administrativos que proporcione el municipio a fin de optimizar la cercanía territorial con las y los habitantes. Su establecimiento en las localidades urbanas y/o rurales se determinará en función de las características socio-económicas del municipio, su capacidad económica y las necesidades de la población.
 
 ###### ARTÍCULO 193.
 
@@ -4225,9 +4241,13 @@ En lo que se refiere al Servicio Profesional de Carrera de los servidores públi
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 378.
 
-La impartición de la justicia municipal es una función de los ayuntamientos y consiste en vigilar la observancia de la legislación para asegurar la convivencia social, en sancionar las infracciones a los instrumentos jurídicos del municipio y amonestar a los infractores en asuntos civiles, obligando, en su caso, a la reparación del daño y turnando los casos que ameriten consignación al agente del ministerio público.
+La impartición de la justicia municipal es una función de los Ayuntamientos y consiste en vigilar la observancia de la legislación para asegurar la convivencia social, en sancionar las infracciones a los instrumentos jurídicos del municipio, facilitar los medios alternos de solución de controversias y amonestar a los infractores en asuntos civiles, obligando, en su caso, a la reparación del daño, y turnando los casos que ameriten consignación al agente del ministerio público.
+
+Cada municipio contará con los juzgados especializados en justicia cívica que considere necesarios en atención a su densidad de población y necesidades sociales: y su regulación será establecida en el reglamento que se expida para tal fin.
 
 ###### ARTÍCULO 379.
 
@@ -5324,3 +5344,47 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las instituciones a que hace referencia contarán con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes a sus reglamentaciones internas.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 289.- SE REFORMAN EL NUMERAL 13 Y 14, DE LA FRACCIÓN I DEL ARTÍCULO 102, Y EL ARTÍCULO 378; SE ADICIONA EL NUMERAL 15, A LA FRACCIÓN I DEL ARTÍCULO 102 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La creación de los juzgados municipales en los municipios que no cuentan con al menos uno deberá llevarse a cabo en un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los seis meses contados a partir de la publicación del presente Decreto, todos los municipios del estado deberán llevar a cabo las reformas y adecuaciones reglamentarias que resulten necesarias para definir y establecer de modo preciso las atribuciones de los juzgados municipales en materia de justicia cívica.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 291.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 180 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los tres meses contados a partir de la publicación del presente Decreto, todos los municipios del estado deberán llevar a cabo las reformas y adecuaciones que resulten necesarias a sus bandos de policía y gobierno para armonizarlos con lo establecido en la fracción II del artículo 180 de este Código.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 298.- SE ADICIONA EL ARTÍCULO 192 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
