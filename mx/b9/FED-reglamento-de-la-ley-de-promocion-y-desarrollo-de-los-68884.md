@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-promocion-y-desarrollo-de-los-68884"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-18"
-last_updated: "2009-06-18"
+last_updated: "2025-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68884&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-06-16"
 ---
 # REGLAMENTO DE LA LEY DE PROMOCION Y DESARROLLO DE LOS BIOENERGETICOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE BIOCOMBUSTIBLES, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE PROMOCION Y DESARROLLO DE LOS BIOENERGETICOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE OCTUBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 18 de junio de 2009.
 
@@ -726,3 +728,31 @@ La Secretaría de Medio Ambiente y Recursos Naturales deberá expedir los criter
 La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y la Secretaría de Energía, en un plazo de noventa días hábiles, contados a partir del día siguiente al de la entrada en vigor de este Reglamento, en el ámbito de su competencia, expedirán los formatos previstos en el artículo 15 de este Reglamento que se expide, así como las demás disposiciones jurídicas que deriven del mismo.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a dieciséis de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan Rafael Elvira Quesada.- Rúbrica.- La Secretaria de Energía, Georgina Yamilet Kessel Martínez.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Alberto Cárdenas Jiménez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE BIOCOMBUSTIBLES”.]
+
+PRIMERO. El presente Reglamento entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Promoción y Desarrollo de los Bioenergéticos publicado el 18 de junio de 2009 en el Diario Oficial de la Federación.
+
+TERCERO. La SENER, la SEMARNAT y la SADER deben emitir los lineamientos y demás ordenamientos correspondientes que deriven de la Ley y el presente Reglamento. En tanto estos se emiten o modifican, la normatividad y regulación emitidas con anterioridad a la entrada en vigor del presente Reglamento, continuarán en vigor, en tanto no se opongan a lo establecido en el presente ordenamiento.
+
+CUARTO. Las personas titulares de permisos que hayan obtenido la exención para producción de bioenergéticos contarán con un plazo de trescientos sesenta y cinco días contados a partir de la publicación de este Reglamento para solicitar la Autorización de Producción o Aprovechamiento de Biocombustibles ante la SENER o, en su caso, solicitar el Permiso de Producción correspondiente.
+
+QUINTO. Las personas titulares de permisos emitidos al amparo de la Ley de Promoción y Desarrollo de los Bioenergéticos y su reglamento que a la fecha de la publicación de este Reglamento no hayan obtenido la Constancia de Inicio de Operaciones, contarán con un plazo trescientos sesenta y cinco días contados a partir de la publicación de este Reglamento para solicitar el Aviso de inicio de operaciones en función de las actividades estipuladas en la Ley de Biocombustibles y en el presente Reglamento.
+
+SEXTO. En tanto no se emitan las disposiciones aplicables de calidad de biometano, la SENER puede autorizar las actividades para la Comercialización, Transporte, Distribución, importación, exportación y Expendio al Público de Biocombustibles en estado gaseoso incluyendo la inyección de biometano a la red existente de ductos, siempre que se cumpla con lo establecido en la NOM-001-SECRE-2010, Especificaciones del gas natural, a través de un aviso previo, acompañado de una solicitud por parte de los particulares en la que se acredite el cumplimiento de dicha norma, así como los procedimientos que garanticen la calidad del Biocombustible en el momento de la inyección. Para tal fin, la SENER puede requerir a las personas interesadas la información que considere pertinente. La autorización que, en su caso, emita la SENER al amparo de este transitorio queda sin efectos una vez emitida la regulación correspondiente y por lo tanto debe solicitarse nuevamente el permiso correspondiente ante la SENER.
+
+SÉPTIMO. Hasta en tanto se emitan las Normas Oficiales Mexicanas o Lineamientos a que se refieren el artículo 28 de la Ley de Biocombustibles, continúan vigente los Lineamientos por los que se establecen las especificaciones de calidad y características para Bioetanol, Biodiésel y Bioturbosina puros, publicados en el Diario Oficial de la Federación el 22 de octubre de 2018, en lo que no se opongan a la Ley y el presente Reglamento.
+
+OCTAVO. La SENER dentro de un plazo no mayor a sesenta días hábiles contados a partir de la entrada en vigor de este Reglamento, debe publicar en el Diario Oficial de la Federación las disposiciones administrativas de carácter general para la planeación vinculante a la que se refieren los artículos 10 y 11 de este Reglamento.
+
+Hasta en tanto no se emitan las disposiciones a las que se refiere el párrafo anterior, no será aplicable lo establecido en el artículo 10 del presente Reglamento.
+
+NOVENO. Hasta en tanto se determina el formato autorizado por la SENER para la presentación de cada solicitud a la que hace referencia el presente reglamento y estos se publiquen en los portales electrónicos de la SENER, así como en los portales públicos de información de trámites, los formatos previos, los escritos libres y las versiones electrónicas autorizadas son válidos para presentar la solicitud correspondiente.
+
+DÉCIMO. Las erogaciones que se generen con motivo de la aplicación del presente decreto se deben realizar con cargo a los presupuestos autorizados a los ejecutores del gasto que intervienen en la implementación de este, por lo que no se autorizan ampliaciones líquidas a sus presupuestos para tal fin en el presente ejercicio fiscal, ni se puede incrementar el presupuesto regularizable de dichos ejecutores de gasto para tales efectos.
