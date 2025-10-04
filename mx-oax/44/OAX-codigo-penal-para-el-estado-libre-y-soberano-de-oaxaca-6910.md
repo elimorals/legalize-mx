@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2025-09-20"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4109,6 +4109,12 @@ II. De 6 meses a 2 años de prisión y multa de 50 a 150 veces el valor diario d
 
 369 Sexies.- Los delitos señalados de los artículos 369 Ter al 369 Quinquies se perseguirán de oficio.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+369 Septies. A quien sin derecho y sin consentimiento de la persona que pueda disponer de ella con arreglo a la ley, se apodere, transporte, comercialice o almacene cualquier especie de agave, desde su etapa de plantación, crecimiento y hasta su aprovechamiento, se le impondrán las penas y sanciones que prevén los artículos 353, 354 Y 355 de este Código.
+
+Este delito se perseguirá por querella.
+
 ### CAPITULO II.
 
 Abigeato.
@@ -4343,39 +4349,45 @@ Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento ve
 
 Extorsión.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-383 Bis.- Comete el delito de extorsión el que sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo obteniendo un lucro para sí o para otro o causando a alguien un perjuicio patrimonial.
+383 Bis. Al que, sin derecho, por sí o por interpósita persona, haciendo algún tipo de violencia física o moral pretenda obligar u obligue a otro a dar, hacer, dejar de hacer o tolerar cualquier acción u omisión con el propósito de obtener un beneficio de cualquier clase, para sí o para un tercero, se le aplicarán de tres a nueve años de prisión y multa de mil a mil quinientas Unidades de Medida y Actualización.
 
-Este delito se sancionará en los siguientes términos:
+Las penas previstas para el delito de extorsión se aumentarán al doble, cuando la comisión del hecho descrito en el párrafo primero:
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+a) Se cometa por servidor o exservidor público del gobierno del Estado o los Municipios. Se impondrán además al servidor público la destitución del empleo, cargo o comisión público y, tratándose de servidor o exservidores públicos, se le inhabilitará por el mismo tiempo que la pena de prisión impuesta para desempeñar empleo, cargo o comisión público.
 
-I).- Cuando el lucro obtenido o perjuicio patrimonial causado no exceda de cien veces el valor de la Unidad de Medida y Actualización vigente, se aplicará prisión de uno a tres años y multa de cinco a cien veces el salario.
+Para efectos del párrafo anterior, se actualizará dicha hipótesis, cuando el hecho o hechos denunciados hacia el exservidor público, haya sucedido dentro del plazo de cinco años siguientes al que haya finalizado sus funciones en el cargo o comisión público;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+b) Se cometa por un miembro o exmiembro de una empresa de segundad privada.
 
-II).- Si excede de cien veces el valor de la Unidad de Medida y Actualización vigente, pero no de quinientas, la prisión será de tres a seis años y la multa de cien a doscientas cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
+Se actualizará dicha hipótesis, cuando el hecho o hechos denunciados contra un exmiembro de una empresa de seguridad privada, haya sucedido dentro del plazo de cinco años siguientes al que haya finalizado su relación laboral;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+c) Se cometa utilizando como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica;
 
-III).- Si excede de quinientas veces el valor de la Unidad de Medida y Actualización vigente, la prisión será de seis a doce años y la multa de doscientas cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente.
+d) Se realice empleando imágenes, mensajes escritos, audios o videos de contenido sexual íntimo, sean reales o editadas;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+e) Se cometa por persona que se ostente como integrante o miembro de un grupo u organización delictivo, aun cuando no lo sea;
 
-IV).- Al que cometa una extorsión por vía telefónica o por cualquier medio electrónico se le impondrá de ocho a catorce años de prisión y multa de quinientos a mil veces el valor de la Unidad de Medida y Actualización vigente,. (sic)
+f) Se realice desde el interior de cualquier centro penitenciario o de reinserción social;
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
+g) Se cometa en contra de personas dedicadas al comercio;
 
-V) Si el sujeto activo por extorsión telefónica o por cualquier medio electrónico fuere interno procesado o sentenciado, además de las penas previstas en la fracción anterior, se le aumentará de una tercera parte de los mínimos a una tercera parte de los máximos de las sanciones y no se le concederá beneficio preliberacional alguno.
+h) Se realice en contra de personas dedicadas al transporte de personas o mercancías;
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+i) Se cometa en contra de personas menores de dieciocho o mayores de sesenta años;
 
-Además de las penas señaladas durante la investigación, el Ministerio Público, y en proceso la autoridad judicial a petición fundada de aquel, podrán asegurar parcial o totalmente, y en sentencia se decomisarán parcial o totalmente, declarándose la extinción del dominio de los bienes respecto de los cuales el sujeto activo haya sido poseedor, propietario o se haya conducido como tal, independientemente de que hubieran sido transferidos a terceros, quienes tendrán derecho de audiencia para acreditar su legítima procedencia y buena fe en su adquisición.
+j) Se realice haciendo uso de personas menores de dieciocho años;
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2008)</small>
+k) Si quien lo realiza obtiene el beneficio pretendido por la extorsión;
 
-Cuando el sujeto activo en estos supuestos sea o haya sido integrante de alguna corporación de seguridad pública o privada, miembro de las instituciones de procuración o administración de justicia o simule serlo, se aumentará en una mitad los mínimos y máximos de las penas señaladas. También se impondrá la destitución del empleo, cargo o comisión y la inhabilitación en los términos que señalan los artículos 39 y 40 de este Código.
+l) Intervenga una o más personas armadas, o portando instrumentos peligrosos; o
+
+m) Se emplee violencia física, y
+
+n) Se realice para obtener el cobro de un daño, derivado de un hecho de tránsito.
+
+Además de las penas señaladas durante la investigación, el Ministerio Público, y en proceso la autoridad judicial a petición fundada de aquel, podrán asegurar parcial o totalmente, y en sentencia se decomisarán parcial o totalmente declarándose la extinción del dominio de los bienes respecto de los cuales el sujeto activo haya sido poseedor, propietario o se haya conducido como tal, independientemente de que hubieran sido transferidos a terceros, quienes tendrán derecho de audiencia para acreditar su legítima procedencia y buena fe en su adquisición.
 
 ### CAPITULO V.
 
@@ -6706,3 +6718,23 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 761.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 369 SEPTIES AL CAPÍTULO I, DEL TÍTULO DECIMONOVENO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efectos todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 762.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 383 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efectos todas aquellas disposiciones contrarias al presente Decreto.
