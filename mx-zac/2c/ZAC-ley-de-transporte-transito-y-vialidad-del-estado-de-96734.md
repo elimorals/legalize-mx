@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transporte-transito-y-vialidad-del-estado-de-96734"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-20"
-last_updated: "2024-08-10"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 20 de noviembre de 2013.
 
@@ -49,9 +49,11 @@ LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
 ### CAPÍTULO I. Generalidades
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y de observancia general. Tiene por objeto regular, en las vías públicas de la competencia del Estado de Zacatecas, el tránsito de personas, vehículos y semovientes. También, el servicio público de transporte, que ajustándose a las normas establecidas en la presente Ley, se podrá concesionar a los particulares.
+La presente Ley es de orden público, interés social y de observancia general. Tiene por objeto regular, en las vías públicas de la competencia del Estado de Zacatecas, el tránsito de personas, vehículos y semovientes, el cumplimiento de las disposiciones previstas en la Ley General de Movilidad y Seguridad Vial, así como el servicio público de transporte, que ajustándose a las normas establecidas en la presente Ley, se podrá concesionar a los particulares.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
 
@@ -265,35 +267,53 @@ XI. Aprobar las tarifas del servicio público de transporte;
 
 XII. Establecer las medidas necesarias para evitar que en la prestación del servicio público de transporte se efectúen prácticas monopólicas o de competencia desleal o que afecten la prestación general, regular, la seguridad y la eficiencia de tal servicio;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 167, PÁGINA 11.]</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+XIII. Promover, impulsar e implementar programas tendientes a fomentar el uso del transporte no motorizado, el uso de la bicicleta como medio de transporte alternativo y no contaminante, en colaboración con las autoridades municipales, lo anterior debe ser prioridad en la planeación y ejecución de acciones en favor de peatones y ciclistas;
 
-XIII (SIC). Promover e impulsar los programas en términos de esta Ley tendientes a fomentar el uso del transporte no motorizado, colaborando con las autoridades municipales en la planeación y ejecución de acciones en favor de peatones y ciclistas.
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIII], P.O. 4 DE OCTUBRE DE 2025)
 
-XIII. Promover la más amplia participación ciudadana que sea posible en el análisis y propuestas de solución de los problemas de tránsito y transporte. También, instituir mecanismos de consulta popular para mejorar el servicio público de transporte;
+XIV. Promover la más amplia participación ciudadana que sea posible en el análisis y propuestas de solución de los problemas de tránsito y transporte. También, instituir mecanismos de consulta popular para mejorar el servicio público de transporte;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIV], P.O. 4 DE OCTUBRE DE 2025)
 
-XIV. Impulsar que en el servicio público de transporte de pasajeros se destinen espacios para personas con discapacidad, personas adultas mayores y mujeres gestantes;
+XV. Impulsar que en el servicio público de transporte de pasajeros se destinen espacios para personas con discapacidad, personas adultas mayores y mujeres gestantes;
 
-XV. Otorgar concesiones o permisos experimentales de arrastre, guarda y custodia de vehículos, así como autorizar las tarifas correspondientes;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XV], P.O. 4 DE OCTUBRE DE 2025)
 
-XVI. Aprobar las nuevas modalidades del servicio público de transporte, derivadas de los avances tecnológicos;
+XVI. Otorgar concesiones o permisos experimentales de arrastre, guarda y custodia de vehículos, así como autorizar las tarifas correspondientes;
 
-XVII. Ordenar la inspección y vigilancia necesarias a fin de que las concesiones y permisos experimentales cumplan con las óptimas condiciones de higiene, comodidad y seguridad en la prestación del servicio público de transporte;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XVI], P.O. 4 DE OCTUBRE DE 2025)
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+XVII. Aprobar las nuevas modalidades del servicio público de transporte, derivadas de los avances tecnológicos;
 
-XVIII. Promover e impulsar los programas tendientes a la profesionalización el (sic) personal de tránsito y seguridad vial y, en su caso, coadyuvar con las instituciones que pretendan dicho propósito;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XVII], P.O. 4 DE OCTUBRE DE 2025)
 
-XIX. Decretar, provisional o definitivamente, la intervención del Estado en la prestación de los servicios públicos de transporte, cuando así lo exija el interés social;
+XVIII. Ordenar la inspección y vigilancia necesarias a fin de que las concesiones y permisos experimentales cumplan con las óptimas condiciones de higiene, comodidad y seguridad en la prestación del servicio público de transporte;
 
-XX. Modificar, previa audiencia de los interesados, los itinerarios o rutas, los horarios y frecuencias de vehículos, tomando en cuenta el interés público y la demanda de transporte;
+> <small>(REFORMADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN XVIII] P.O. 4 DE OCTUBRE DE 2025)</small>
 
-XXI. Aprobar los Planes y su instrumentación en las zonas urbanas o conurbadas de conformidad a lo que se establezca en los reglamentos de la presente Ley, y
+XIX. Promover e impulsar los programas tendientes a la profesionalización del personal de tránsito y seguridad vial y, en su caso, coadyuvar con las instituciones que pretendan dicho propósito;
 
-XXII. Las demás que expresa o tácitamente le otorga la presente Ley y otras disposiciones legales.
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIX], P.O. 4 DE OCTUBRE DE 2025)
+
+XX. Decretar, provisional o definitivamente, la intervención del Estado en la prestación de los servicios públicos de transporte, cuando así lo exija el interés social;
+
+> <small>(REFORMADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN XX] P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XXI. Modificar, previa audiencia de los interesados, los itinerarios o rutas, los horarios y frecuencias de vehículos, tomando en cuenta el interés público, las áreas de riesgo para las mujeres y la demanda de transporte;
+
+> <small>(REFORMADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN XXI] P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XXII. Aprobar los Planes y su instrumentación en las zonas urbanas o conurbadas de conformidad a lo que se establezca en los reglamentos de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XXIII. Establecer las medidas necesarias para la prevención, atención y eliminación de la violencia contra las mujeres usuarias del trasporte público, y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXII], P.O. 4 DE OCTUBRE DE 2025)
+
+XXIV. Las demás que expresa o tácitamente le otorga la presente Ley y otras disposiciones legales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -305,7 +325,9 @@ I. Auxiliar al Gobernador en el cumplimiento de las atribuciones que la Ley le s
 
 II. Vigilar, supervisar y promover lo necesario, en la esfera de su competencia, para el cabal cumplimiento de lo ordenado por esta Ley;
 
-III. Proponer al Gobernador las políticas públicas y programas en materia de transporte que a éste corresponda establecer;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+III. Proponer al Gobernador las políticas públicas y programas en materia de transporte que a éste corresponda establecer, en las que incorpore la perspectiva de género y se consideren las necesarias para la prevención, atención y eliminación de la violencia contra las mujeres;
 
 IV. Coordinar con los concesionarios y permisionarios la elaboración de programas que tiendan a mejorar el desarrollo del transporte público en Zacatecas;
 
@@ -329,9 +351,9 @@ X. Organizar, controlar y vigilar el servicio público de transporte en el Estad
 
 XI. Participar, en coordinación con la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial, en la elaboración y actualización de los Planes;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-XII. Realizar los estudios necesarios para adecuar el servicio público de transporte de acuerdo con las necesidades sociales;
+XII. Realizar los estudios necesarios para adecuar el servicio público de transporte de acuerdo con las necesidades sociales considerando las áreas de riesgo para las mujeres;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -345,9 +367,9 @@ c) Preservación del medio ambiente en la prestación del servicio público del 
 
 d) Respeto a los derechos de los niños, adultos mayores, mujeres gestantes y personas con discapacidad para acceder al servicio público de transporte;
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-e) Promover el uso de la bicicleta como medio de transporte alternativo a los medios de transporte motorizados, así como de su uso deportivo y recreativo para mejorar la salud pública, de sustitución de energéticos para el mejoramiento del ambiente y de desarrollo sustentable.
+e) Promover el uso de la bicicleta como medio de transporte alternativo a los medios de transporte motorizados, así como de su uso deportivo y recreativo para mejorar la salud pública, de sustitución de energéticos para el mejoramiento del ambiente y de desarrollo sustentable; dichos programas deben incluir la seguridad en la vía pública a las personas que se desplazan en bicicleta.
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -407,9 +429,9 @@ V. Las demás que establezca la presente Ley.
 
 Son atribuciones de la Secretaría de Seguridad:
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-I. Planear, organizar, controlar y vigilar el tránsito y la seguridad vial dentro del Estado para garantizar el libre tránsito y la seguridad de las personas;
+I. Planear, organizar, controlar y vigilar el tránsito y la seguridad vial dentro del Estado para garantizar el libre tránsito y la seguridad de las personas, debiendo favorecer en todo momento a la persona, los grupos en situación de vulnerabilidad y sus necesidades, garantizando la prioridad en el uso y disposición de las vías, de acuerdo con la jerarquía de la movilidad establecida en el artículo 6 de la Ley General de Movilidad y Seguridad Vial;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -532,6 +554,12 @@ ARTÍCULO 15 bis.- El ejercicio de las facultades conferidas en esta Ley a la Se
 > <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ARTÍCULO 15 ter.- Las autoridades señaladas en esta Ley podrán celebrar los convenios de colaboración necesarios para el adecuado y eficaz cumplimiento de sus respectivas atribuciones.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 15 Quater.
+
+Las autoridades deben establecer las bases para la coordinación entre el estado y los municipios a través de los planes de desarrollo, la política de movilidad y seguridad vial con un enfoque integral a la política de desarrollo urbano y ordenamiento territorial, que sea transversal con las políticas sectoriales aplicables en todo el territorio estatal, además de cumplir en todo momento, con los principios establecidos en la Ley General de Movilidad y Seguridad Vial.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
 
@@ -661,25 +689,71 @@ Los peatones y ciclistas en todos los cruceros que carezcan de señales o dispos
 
 Los peatones no deberán transitar por las superficies de rodamiento de las vías públicas destinadas a la circulación de vehículos, ni cruzar las vías rápidas por lugares no autorizados al efecto.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-ARTÍCULO 29 BIS.- Serán obligaciones de los ciclistas:
+###### ARTÍCULO 29 Bis.
+
+Serán obligaciones y derechos de los ciclistas:
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 I. Respetar las disposiciones legales y reglamentarias, las señales de tránsito y las indicaciones de los elementos de la Secretaría de Seguridad Pública responsables de vigilar el cumplimiento de las normas de tránsito;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 II. Respetar los señalamientos y dispositivos que regulen la circulación vial compartida o la exclusiva, los espacios de circulación o accesibilidad peatonal y dar preferencia a las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 III. Circular en el sentido de la vía;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 IV. No exceder la capacidad de transporte o carga de la bicicleta, evitando transportar a niños y niñas menores de cuatro años a menos que sea en un asiento especial para ese fin;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 V. Mantener su bicicleta en buen estado de modo que no corra riesgo de accidentes por la falla de la misma;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 VI. Usar aditamentos, bandas reflejantes y en su caso luces, para uso nocturno;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 VII. Rebasar sólo por el carril izquierdo; y
 
-VIII. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo o la mano. El Ejecutivo dispondrá en los reglamentos y normas técnicas correspondientes, los implementos con los que deban contar los vehículos de movilidad no motorizada.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VIII. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo o la mano. El Ejecutivo dispondrá en los reglamentos y normas técnicas correspondientes, los implementos con los que deban contar los vehículos de movilidad no motorizada;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+IX. Contar, preferentemente, con una zona de espera que salvaguarde su integridad física y que se garantice su respeto por parte de los conductores de vehículos motorizados;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+X. Se respete la distancia entre el vehículo automotor y el ciclista, mínimo de 1.5 metros;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XI. Obtener preferencia sobre el tránsito vehicular;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XII. Se implementen medidas para garantizar la protección al ciclista;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XIII. Acceder a los programas de estímulo al uso de la bicicleta que promuevan e implementen las instituciones gubernamentales, en los términos de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XIV. Hacer uso de los estacionamientos para bicicleta que para tales efectos implementen las autoridades, y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XV. Los demás derechos que establezcan otras disposiciones legales o reglamentarias.
 
 ###### ARTÍCULO 30.
 
@@ -813,13 +887,15 @@ El tránsito de semovientes por carreteras, caminos, calles, avenidas, calzadas,
 
 Los semovientes podrán transitar cuando se trate de eventos culturales o deportivos, bajo las medidas de seguridad que se establezcan en los reglamentos de esta Ley.
 
-### CAPÍTULO III. De los derechos de las personas con discapacidad en materia vial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+### CAPÍTULO III. Derechos de las personas con discapacidad, adultos mayores y mujeres embarazadas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 46.
 
-Independientemente de los derechos de preferencia establecidos en el Capítulo de peatones, las personas con discapacidad tendrán los siguientes derechos:
+Independientemente de los derechos de preferencia establecidos en el Capítulo de peatones, las personas con discapacidad, adultos mayores y mujeres embarazadas tendrán los siguientes derechos:
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -841,27 +917,31 @@ VII. A circular por las banquetas aunque se desplacen en carros de mano, sillas 
 
 VIII. A que en los vehículos de transporte colectivo se les asigne por lo menos el 10% del total de asientos de la unidad, inmediatos o cercanos a la puerta de abordaje que, en el caso de ellos, podrá servir también de salida;
 
-IX. A que en todos los estacionamientos públicos, permitidos en las calles, se les asignen, con los debidos señalamientos, tres cajones o espacios para tres vehículos mínimamente;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-X. A que en todos los estacionamientos o pensiones de paga se les destinen lugares especiales donde puedan estacionar o ser estacionados sus vehículos y que aquellos se ubiquen en el primer piso y en los lugares de más fácil acceso o salida, y
+IX. A que en todos los estacionamientos públicos, permitidos en las calles, se les asignen, con los debidos señalamientos, preferentemente, un mínimo de tres cajones de estacionamiento;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-XI. En general, a que las autoridades encargadas de aplicar esta Ley y sus reglamentos, pongan especial interés en la ejecución de los anteriores y similares medidas que tiendan a facilitar el acceso y circulación de vehículos o aparatos que utilicen en su desplazamiento las personas con discapacidad, también, a concientizar a peatones, usuarios y conductores a fin de que den a aquellas el trato preferente que su dignidad exige.
+X. A que en todos los estacionamientos públicos, privados o pensiones, preferentemente el 15% de la totalidad de cajones estarán reservados a personas con discapacidad, adultos mayores y mujeres embarazadas. Los cuales deberán ubicarse, en los lugares de más fácil acceso o salida, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XI. En general, a que las autoridades encargadas de aplicar esta Ley y sus reglamentos, pongan especial interés en la ejecución de los anteriores y similares medidas que tiendan a facilitar el acceso y circulación de vehículos o aparatos que utilicen en su desplazamiento las personas con discapacidad, adultos mayores y mujeres embarazadas, también, a concientizar a peatones, usuarios y conductores a fin de que les den el trato preferente que su dignidad exige.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 47.
 
-Queda prohibido obstruir o utilizar espacios destinados al estacionamiento de los vehículos para personas con discapacidad, así como los de sus rampas de acceso a las banquetas y vías peatonales.
+Queda prohibido obstruir o utilizar espacios destinados al estacionamiento de los vehículos para personas con discapacidad, adultos mayores y mujeres embarazadas, así como los de sus rampas de acceso a las banquetas y vías peatonales.
 
-Los conductores que ocupen, nieguen, impidan u obstaculicen el acceso de los cajones de estacionamiento o espacios destinados para las personas con discapacidad serán sancionados de conformidad con lo establecido en los reglamentos de la presente Ley.
+Los conductores que ocupen, nieguen, impidan u obstaculicen el acceso de los cajones de estacionamiento o espacios destinados para las personas con discapacidad, adultos mayores y mujeres embarazadas serán sancionados de conformidad con lo establecido en los reglamentos de la presente Ley.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 48.
 
-La Secretaría de Seguridad podrá permitir el uso temporal de espacios no autorizados para estacionamiento, a vehículos para personas con discapacidad cuando éstas así lo soliciten y sea necesario para su acceso a su casa habitación, escuela o trabajo.
+La Secretaría de Seguridad podrá permitir el uso temporal de espacios no autorizados para estacionamiento, a vehículos para personas con discapacidad, adultos mayores y mujeres embarazadas cuando éstas así lo soliciten y sea necesario para su acceso a su casa habitación, escuela o trabajo.
 
 ### CAPÍTULO IV. De las Manifestaciones en las Vías Públicas
 
@@ -1069,6 +1149,12 @@ La Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial y la Se
 
 Los Planes Integrales de Movilidad Urbana Sustentable se deberán articular con el Plan Estatal de Desarrollo, el Programa Estatal del Desarrollo Urbano, el Programa de Desarrollo Urbano de la Zona Conurbada Zacatecas-Guadalupe o Zona Metropolitana, así como con los programas de desarrollo urbano de los municipios. Los planes o programas convenidos con las autoridades municipales serán obligatorios para mejorar los diversos sistemas de transporte.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 72 Bis.
+
+En la planeación y diseño de los planes y programas de movilidad y seguridad vial, las autoridades competentes deberán fomentar y garantizar la participación de las mujeres, considerando su interseccionalidad, además, se implementarán acciones afirmativas y con perspectiva de género que mejoren y hagan más segura, incluyente y eficiente la experiencia de la movilidad de las mujeres y de la movilidad de cuidado, e incluir dichas estrategias en los municipios, con la finalidad de erradicar las violencias de género, lo anterior bajo el principio de transversalidad.
+
 ###### ARTÍCULO 73.
 
 Los Planes Integrados de Movilidad Urbana Sustentable se sujetarán a las siguientes disposiciones:
@@ -1084,6 +1170,10 @@ IV. Promoverá el equilibrio de los sectores público y privado tendientes a la 
 V. Implicará el establecimiento de mecanismos de coordinación entre los diferentes niveles de gobierno por lo que concierne al transporte, vialidad e infraestructura especializada, y
 
 VI. Los programas, proyectos y acciones que de ellos deriven estarán sujetos a un procedimiento de revisión y actualización que permita ajustarlos a los cambios del sector, de conformidad con los procesos establecidos en el propio instrumento de planeación.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VII. Incorporarán la perspectiva de género, así como la implementación de mecanismos para la eliminación de áreas de riesgo para las mujeres.
 
 ### CAPÍTULO III. De las Concesiones
 
@@ -1235,19 +1325,25 @@ b) A los que tengan mayor antigüedad como solicitantes, y
 
 c) A los que, según el estudio socioeconómico que al efecto se realice, justifiquen la solvencia para el desempeño del servicio. Las resoluciones que emita el Gobernador al otorgar las concesiones serán irrecurribles, conforme a esta Ley.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 83.
 
-Las concesiones para explotar el servicio público de transporte son personales, las cuales, con excepción de las relativas a las modalidades de transporte urbano, suburbano y foráneo, podrán transmitirse por:
+Las concesiones para explotar el servicio público de transporte son personales, las cuales, podrán transmitirse por:
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2016)</small>
 
 I. Causa de muerte o incapacidad física o mental, a favor de la persona que aparezca como beneficiario en el título concesión designado por su titular; y
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2016)</small>
 
 II. Cesión de derechos, autorizada por el titular del Ejecutivo del Estado o por el titular de la dependencia en que delegue esa facultad. El concesionario que ceda los derechos de la concesión, quedará imposibilitado para obtener otra en un plazo de cinco años, excepto el caso en que la cesión se haga en nombre del mismo concesionario, a favor de una sociedad como aportación al capital social.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 La cesión de derechos deberá realizarse ante Notario Público, con la declaratoria bajo protesta de decir verdad del cesionario de que no es titular de los derechos de más de cinco concesiones, incluyendo la que se adquiere e inmediatamente presentarse ante la Secretaría General para el efecto de que, previo pago de los derechos correspondientes, se haga la sustitución de la concesión, cancelando la anterior. El Notario ante quien se otorgue la cesión de derechos, deberá dar aviso a la Secretaría General dentro del plazo de cinco días hábiles.
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2016)</small>
 
 Toda transmisión formará parte de la concesión originalmente otorgada, quedando sujeta al plazo de vigencia y a las demás condiciones en ella estipulada, por lo que el nuevo titular será responsable del cumplimiento de todas las obligaciones inherentes a la misma.
 
@@ -1575,7 +1671,9 @@ III. Con iguales requisitos, establecer una escuela de manejo, sin perjuicio de 
 
 Los programas de educación vial que se impartan deben referirse cuando menos a los siguientes temas:
 
-I. Vialidad;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+I. Movilidad y Seguridad Vial;
 
 II. Normas básicas para el peatón;
 
@@ -2018,3 +2116,11 @@ La campaña de difusión se llevará a cabo, por lo menos, dos meses antes del p
 Artículo cuarto. En un plazo que no exceda de 60 días, contados a partir de la publicación de este decreto, el Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento General para armonizarlo con lo previsto por este instrumento legislativo.
 
 Artículo quinto. Las disposiciones legales que hagan mención a la Policía de Seguridad Vial del Estado, se entenderán dirigidas a la Policía Vial Preventiva.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NO. 529.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
