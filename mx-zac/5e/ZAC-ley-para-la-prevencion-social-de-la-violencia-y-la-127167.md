@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-prevencion-social-de-la-violencia-y-la-127167"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-14"
-last_updated: "2023-09-30"
+last_updated: "2025-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY PARA LA PREVENCION SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACION CIUDADANA PARA EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 4 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento 3 al Número 21 del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de marzo de 2018.
 
@@ -862,3 +864,25 @@ Dentro de los cuatro meses siguientes a la publicación de este decreto, los ayu
 Cuarto. De conformidad con la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, los ayuntamientos destinarán las partidas presupuestales correspondientes, para cumplir con lo establecido en este decreto.
 
 Quinto. Para efectos del contenido de los artículos 6 fracción VIII, 15 fracción I, 16 fracción I, 23 al 27, 30 y 31 de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas, el Programa Estatal de Prevención Social de la Violencia y la Delincuencia de la actual administración gubernamental, deberá estar aprobado y publicado dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se abroga la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas, publicada en el Suplemento al número 3 al 21 del Periódico Oficial del Gobierno del Estado, correspondiente al día 14 de marzo de 2018.
+
+Artículo tercero. El Ejecutivo Estatal expedirá los reglamentos correspondientes en un término no mayor a noventa días naturales a partir de la entrada en vigor de esta Ley.
+
+Artículo cuarto. El Consejo Estatal llevará a cabo y publicará un primer estudio respecto al contenido del artículo 17 fracción IX de este decreto, dentro de los 6 meses siguientes a la entrada en vigor del mismo.
+
+Artículo quinto. La Secretaría General, dentro de los 45 días naturales siguientes a la publicación de este decreto, instrumentará lo necesario a efecto de tener enlaces en cada una de las dependencias y entidades del Ejecutivo Estatal, conforme lo establece el artículo 18 fracción VII de esta Ley.
+
+Artículo sexto. El Observatorio de Prevención deberá estar integrado dentro de los 60 días naturales siguientes a la entrada en vigor de este decreto.
+
+Artículo séptimo. Los Ayuntamientos integrarán su Comisión Edilicia de Prevención y su Área Municipal de Prevención, conforme al contenido de la Ley Orgánica del Municipio del Estado y de su normatividad interna.
+
+Artículo octavo. El Estado y los Ayuntamientos harán sus previsiones económicas para cada uno de los ejercicios fiscales, creando fondos que den sustento a las políticas públicas contempladas en este decreto y las que deriven del programa nacional en la misma materia.
+
+Artículo noveno. Las Redes de Prevención y Recuperación de la Paz deberán estar integradas dentro de los 180 días naturales siguientes a la entrada en vigor de este decreto.
