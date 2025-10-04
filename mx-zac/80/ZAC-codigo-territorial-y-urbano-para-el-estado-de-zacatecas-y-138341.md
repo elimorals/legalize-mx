@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-territorial-y-urbano-para-el-estado-de-zacatecas-y-13834
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-31"
-last_updated: "2025-08-06"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138341&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de agosto de 2019.
 
@@ -1511,9 +1511,9 @@ Las zonas deterioradas física o funcionalmente en forma total o parcial, podrá
 
 Los propietarios de lotes baldíos, construcciones inconclusas y casas abandonadas ubicados en centros de población del Estado, tienen la obligación de edificar, sanear o reconstruir el frente, área o perímetro de sus inmuebles, por lo menos, cuando la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, determinen que sus propiedades son causantes de problemas ambientales, de seguridad y salud pública, o representen deterioro en el contexto urbano.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-Los propietarios de los bienes inmuebles descritos en el párrafo anterior deberán mantenerlos en condiciones adecuadas, vigilando que no se encuentren dentro de ellos grandes cantidades de escombro, maleza, ramas, hierbas, arbustos, basura o animales en estado de descomposición o cualquier otro elemento de naturaleza similar.
+Los propietarios de los bienes inmuebles descritos en el párrafo anterior deberán vigilar que no se encuentren dentro de ellos, grandes cantidades de escombro, maleza, ramas, hierbas, arbustos, basura o animales en estado de descomposición o cualquier otro elemento de naturaleza similar.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2024)</small>
 
@@ -1523,11 +1523,11 @@ Para efectos del presente artículo, cualquier persona podrá denunciar ante la 
 
 En caso de que la autoridad municipal encontrara elementos dañinos en el inmueble, exhortará al propietario, quien tendrá treinta días naturales para realizar el saneamiento, si el propietario no lo hace en el término respectivo, podrá solicitar una prórroga por un término no mayor a quince días naturales, justificando su solicitud.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 91 Bis.
 
-En el supuesto de que el propietario o poseedor del inmueble no lleve a cabo las acciones de saneamiento, a que se refiere el artículo anterior, la autoridad municipal le notificará para requerirle que lo haga, con el apercibimiento que, de no hacerlo, se hará cargo de ello personal autorizado del Ayuntamiento y, en consecuencia, el propietario o poseedor deberá cubrir los derechos por este servicio, de acuerdo con la Ley de Ingresos del Municipio de que se trate, sin perjuicio de la aplicación de las multas a que se haga acreedor, de conformidad con lo establecido por el presente Código y de manera proporcional a la afectación y a la superficie del inmueble.
+En el supuesto de que el propietario o poseedor del inmueble no lleve a cabo las acciones de saneamiento, a que se refiere el artículo anterior, la autoridad municipal le notificará para requerirle que lo haga, con el apercibimiento que, de no hacerlo, se hará cargo de ello personal autorizado del Ayuntamiento y, en consecuencia, el propietario o poseedor deberá cubrir los derechos por este servicio, sin perjuicio de la aplicación de las sanciones a las que se haga acreedor, de conformidad con lo establecido en las Leyes de Ingresos de los Municipios.
 
 #### Sección Cuarta. Consolidación
 
@@ -4842,3 +4842,9 @@ P.O. 6 DE AGOSTO DE 2025.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 559.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+Artículo único. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
