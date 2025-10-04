@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2025-09-06"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -997,9 +997,11 @@ IV. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de 
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 48.
 
-Es obligación de las autoridades locales y municipales, y derecho de las personas, organizaciones de los sectores social o privado y comunidades, actuar para la preservación, restauración y protección de las áreas naturales y sus ecosistemas dentro del territorio de la Entidad.
+Es obligación de las autoridades locales y municipales, derecho de las personas, organizaciones de los sectores social o privado y comunidades, así como de los pueblos y comunidades indígenas afromexicanas, actuar para la preservación, restauración y protección de las áreas naturales y sus ecosistemas dentro del territorio de la Entidad.
 
 ###### Artículo 49.
 
@@ -1033,9 +1035,13 @@ III. Asegurar el aprovechamiento sustentable de los ecosistemas y sus elementos;
 
 IV. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, geológicos, históricos y artísticos, así como zonas turísticas y otras áreas de importancia para la recreación, la cultura e identidad estatal y nacional, así como de los pueblos indígenas;
 
-V. Proporcionar un campo propicio para la investigación científica y el estudio de los ecosistemas y su equilibrio, y;
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-VI. Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradicionales o nuevas, que permitan la preservación y el aprovechamiento sustentable de la biodiversidad del territorio del Estado.
+V. Preservar y restaurar los ecosistemas que albergan elementos culturales de los pueblos indígenas y afro mexicanos;
+
+VI. Proporcionar un campo propicio para la investigación científica y el estudio de los ecosistemas y su equilibrio, y;
+
+VII. Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradicionales o nuevas, que permitan la preservación y el aprovechamiento sustentable de la biodiversidad del territorio del Estado.
 
 ###### Artículo 53.
 
@@ -3380,3 +3386,11 @@ P.O. 6 DE SEPTIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 779.- MEDIANTE EL CUAL REFORMAN EL ARTÍCULO 48 Y SE ADICIONA LA FRACCIÓN V RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 52 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
