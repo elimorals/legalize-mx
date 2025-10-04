@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-del-estado-y-municipios-de-zacatecas-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-14"
-last_updated: "2022-08-17"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de marzo de 2018.
 
@@ -401,6 +401,10 @@ La Coordinación Estatal tiene las siguientes atribuciones:
 
 I. Promover la gestión de riesgos en sus aspectos normativo, operativo, de coordinación y de participación, procurando la extensión de sus efectos a toda la población del Estado;
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Para eficientar la gestión de riesgos, impulsará la colaboración institucional con las instancias federales en materia de petrolíferos y otras substancias peligrosas.
+
 II. Elaborar, en cumplimiento de las obligaciones que le corresponden como Secretaría Técnica del Consejo Estatal, el proyecto del Programa Estatal de Protección Civil y presentarlo para su aprobación, así como los planes de contingencias para fenómenos perturbadores y programas específicos y especiales necesarios relevantes;
 
 III. Promover la cultura de la Protección Civil, así como la prevención de riesgo de desastres, organizando y desarrollando acciones de educación, capacitación, sensibilización y culturización a la sociedad, en el mantenimiento de la seguridad e integridad, tanto personal como del patrimonio, en coordinación con las autoridades de la materia;
@@ -418,6 +422,10 @@ VIII. Practicar visitas periódicas de verificación o inspección, por sí o en
 IX. Realizar investigaciones en materia de gestión de riesgos;
 
 X. Proponer la celebración de convenios de coordinación;
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Tratándose de la prevención y participación en siniestros, accidentes, incidentes, emergencias, fugas, derrames y riesgos en general, relacionados con el sector de hidrocarburos y petrolíferos, y que pongan en riesgo la vida, la integridad o la salud de las personas, gestionará la celebración de convenios con la Agencia Nacional de Seguridad Industrial y Protección al Medio Ambiente del Sector Hidrocarburos o con cualquier otra instancia federal competente;
 
 XI. Firmar contratos de donación de apoyos a favor de la Coordinación Estatal;
 
@@ -463,7 +471,9 @@ XXXI. Elaborar normas técnicas complementarias que permitan lograr los fines de
 
 XXXII. Determinar, en coordinación con las autoridades competentes, las especificaciones para la coordinación intermunicipal del Sistema Estatal;
 
-XXXIII. Integrar, actualizar, administrar y controlar el registro de empresas o establecimientos y vehículos que almacenen, transporten, distribuyan o comercialicen gas licuado de petróleo en el Estado;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XXXIII. Integrar, actualizar, administrar y controlar el registro de empresas o establecimientos y vehículos que almacenen, transporten, distribuyan o comercialicen petrolíferos en el Estado;
 
 XXXIV. Coordinar, operar y administrar el Comité Estatal de Emergencias, donde, por su infraestructura tecnológica, monitoree, coordine, supervise y verifique de manera integral las actividades de emergencias y riesgos que se presenten en el Estado;
 
@@ -981,6 +991,10 @@ Las autoridades competentes, previo al otorgamiento de cambios de uso de suelo, 
 
 La Coordinación Estatal o la Coordinación Municipal competente, tendrán la facultad de iniciar, tramitar y resolver cualquier operativo de prevención encaminado a disminuir o mitigar riesgos, coordinando a las autoridades competentes.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Cuando se trate de accidentes, incidentes, emergencias, fugas, derrames o desastres y riesgos en general relacionados con las actividades del sector hidrocarburos, deberán, de forma inmediata, dar parte a la Agencia Nacional de Seguridad Industrial y Protección al Medio Ambiente del Sector Hidrocarburos o a cualquier otra institución federal competente.
+
 ###### Artículo 71.
 
 Las empresas que almacenen, comercialicen, produzcan, empleen o generen sustancias, materiales o residuos peligrosos, deberán informar a la Coordinación Estatal las siguientes características de los mismos:
@@ -1335,9 +1349,15 @@ Los depósitos, almacenes o estaciones de gas, combustibles, solventes, explosiv
 
 Las empresas que almacenen, transporten, distribuyan o comercialicen gas licuado de petróleo, proveerán este combustible a las industrias, comercios, servicios y casas habitación que cuenten con las instalaciones fijas de aprovechamiento y que cumplan con la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 112.
 
-Queda prohibido detenerse, manipular, almacenar, carburar, vender y distribuir gas licuado de petróleo, productos refinados de petróleo o cualquier sustancia que represente un peligro para la sociedad y su entorno, en la vía pública, domicilios particulares o cualquier inmueble que no esté autorizado para dicho fin.
+Queda prohibido, manipular, almacenar, carburar, vender y distribuir gas licuado de petróleo, productos refinados de petróleo o cualquier sustancia que represente un peligro para la sociedad y su entorno, en la vía pública, domicilios particulares o cualquier inmueble que no esté autorizado para dicho fin.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+La Coordinación Estatal reportará esta situación, de forma inmediata y, en su caso, realizará la denuncia ante la Agencia Nacional de Seguridad Industrial y Protección al Medio Ambiente del Sector Hidrocarburos, para que proceda en los términos de la legislación aplicable.
 
 ###### Artículo 113.
 
@@ -1552,3 +1572,7 @@ P.O. 17 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE ZACATECAS.]</small>
