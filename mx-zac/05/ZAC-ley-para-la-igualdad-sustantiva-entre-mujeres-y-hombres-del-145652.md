@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-igualdad-sustantiva-entre-mujeres-y-hombres-del-145
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-19"
-last_updated: "2023-03-11"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 19 de diciembre de 2020.
 
@@ -67,9 +67,11 @@ II. La implementación de mecanismos interinstitucionales que definan las facult
 
 III. Las demás necesarias para el cumplimiento de los objetivos de esta Ley.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-Son sujetos de los derechos que regula esta Ley, las mujeres y los hombres que se encuentren en el territorio del Estado de Zacatecas.
+Son sujetos de los derechos que regula esta Ley, las mujeres y los hombres zacatecanos, y quienes se encuentren en el territorio del Estado de Zacatecas.
 
 ###### Artículo 4.
 
@@ -336,6 +338,10 @@ XVI. Fomentar el desarrollo, participación y reconocimiento de las mujeres en l
 XVII. Impulsar el desarrollo, participación y reconocimiento de las mujeres en la ciencia y la tecnología, y
 
 XVIII. Cualquier otra orientada a garantizar la igualdad sustantiva entre mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XIX. Fomentar el desarrollo, participación y reconocimiento de las mujeres zacatecanas migrantes en todos los ámbitos de la vida pública y privada.
 
 ### Capítulo II. Instrumentos de la Política de Igualdad entre Mujeres y Hombres del estado de Zacatecas
 
@@ -669,7 +675,9 @@ IV. Garantizar la participación y representación paritaria entre mujeres y hom
 
 V. Establecer acciones afirmativas para el acceso de las mujeres en los procesos de selección, contratación y ascensos a puestos directivos y de toma de decisiones;
 
-VI. Desarrollar y actualizar registros desagregados por sexo, sobre puestos y cargos directivos en el sector público;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VI. Desarrollar y actualizar registros desagregados por sexo, sobre puestos y cargos directivos en el sector público, en la academia, así como en las organizaciones de la sociedad civil de la entidad;
 
 VII. Implementar acciones para erradicar la discriminación y la violencia política contra las mujeres por razones de género, y
 
@@ -699,7 +707,11 @@ VIII. Impulsar planes, programas y políticas públicas para garantizar y promov
 
 IX. Asegurar el derecho a la identidad y capacidad jurídica de las mujeres, y
 
-X. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+X. Generar los mecanismos para la inclusión de la mujer zacatecana migrante en el goce de los derechos sociales, y
+
+XI. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.
 
 ### Capítulo V. Salud
 
@@ -840,6 +852,22 @@ P.O. 11 DE MARZO DE 2023.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan el presente instrumento.
+
+###### ARTÍCULO TERCERO.
+
+Los entes públicos responsables de implementar la Política de Igualdad entre Mujeres y Hombres del Estado de Zacatecas deberán prever las asignaciones presupuestarias en cada ejercicio fiscal para dar cumplimiento a la misma.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 617.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
