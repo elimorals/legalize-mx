@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2024-11-30"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1123,7 +1123,9 @@ Iguales sanciones se impondrán por el sólo hecho de estacionar un vehículo en
 
 148 Bis.- Comete el delito de atentados contra la seguridad de la comunidad y se le aplicará una sanción de cuatro a ocho años de prisión y multa de doscientas a trescientas cincuenta y cinco veces el valor diario de la Unidad de Medida y Actualización, a quien sin causa justificada incurra en cualquiera de las siguientes fracciones:
 
-I. Utilice uno o más instrumentos en forma de abrojos, cuchillas, erizos, estrellas, púas o picos ponchallantas, fabricados de cualquier material que por su resistencia o contundencia, dañe o impida el paso de vehículos particulares u oficiales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE OCTUBRE DE 2025)</small>
+
+I. Utilice uno o más instrumentos en forma de abrojos, cuchillas, erizos, estrellas metálicas o de cualquier material, púas, picos, clavos, ponchallantas, chacos, cadenas, varillas, fabricados de cualquier material que por su resistencia, contundencia o naturaleza, dañe o impida el paso de vehículos particulares u oficiales.
 
 Cuando la conducta se cometa en contra de elementos de las fuerzas armadas o de seguridad pública o de sus equipos motores, muebles o inmuebles, se aumentará la penalidad dos terceras partes en su mínimo y en su máximo;
 
@@ -1247,25 +1249,15 @@ La misma sanción se impondrá al que directa o indirectamente financie, aporte 
 
 ## TITULO QUINTO. DELITOS CONTRA LA SALUD PUBLICA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-### CAPITULO UNICO. DEL PELIGRO DE CONTAGIO, DE LA PROPAGACION DE ENFERMEDADES Y DE LA FALSIFICACION O ADULTERACION DE PRODUCTOS ALIMENTICIOS O MEDICINALES
+### CAPITULO UNICO. FALSIFICACION O ADULTERACION DE PRODUCTOS ALIMENTICIOS O MEDICINALES
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+173. (DEROGADO, P.O. 4 DE OCTUBRE DE 2025)
 
-173.- Se sancionará de tres meses a tres años de prisión y de veinte a cuarenta cuotas, sin perjuicio de su reclusión en un hospital para su curación hasta que cese el período infectante, al que a sabiendas de que está enfermo de un mal venéreo u otra enfermedad grave en período infectante, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible.
+174. (DEROGADO, P.O. 4 DE OCTUBRE DE 2025)
 
-Si la enfermedad padecida fuera incurable se impondrá la pena de seis meses a cinco años de prisión.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-174.- Se le aplicarán las mismas sanciones que señala el artículo anterior, a la mujer que a sabiendas que un niño padece una enfermedad grave fácilmente transmisible, lo amamante y además amamante a otro u otros niños.
-
-175.- Si se efectuare el contagio en cualquiera de los casos de los dos artículos anteriores, se impondrá, además, la sanción correspondiente al delito que resulte.
-
-Se presumirá el conocimiento de la enfermedad, cuando el agente o el niño amamantado presenten lesiones o manifestaciones externas de aquélla, fácilmente apreciables.
-
-Cuando se trate de cónyuges o personas en concubinato, sólo se procederá por querella del ofendido.
+175. (DEROGADO, P.O. 4 DE OCTUBRE DE 2025)
 
 176.- Se impondrán de tres meses a cinco años de prisión y multa de diez a cien cuotas:
 
@@ -1276,6 +1268,14 @@ II.- A los que al despachar una fórmula médica alteren ésta o sustituyan una 
 III.- Al que oculte, sustraiga, venda o compre alimentos, bebidas o sustancias mandados destruir como nocivos, por la autoridad competente;
 
 IV.- Al que envenene o infeccione comestibles, bebidas, cosas para venderlas al público o usare substancias venenosas o nocivas para teñir, colorear, pintar, envolver o envasar los citados artículos, así como al que envenene o infeccione las aguas de un manantial, de un estanque, fuente o cualquier otro depósito de agua, destinada a ingerirla, sean públicos o privados.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+V.- Al que simule, o autorice la simulación en la aplicación de medicamentos, tratamiento o vacunas, la práctica de una intervención quirúrgica o un procedimiento médico mínimamente invasivo, y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VI.- Al que expida recetas médicas, ordene estudios, tratamiento médico, o realice cirugía que no son necesarios, con la finalidad de obtener un beneficio económico.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
 
@@ -1303,9 +1303,21 @@ Estas disposiciones sólo serán aplicables cuando no existan otras de la compet
 
 DELITOS CONTRA EL DESARROLLO DE LOS NIÑOS, NIÑAS Y ADOLESCENTES Y LA PROTECCION INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-181.- A quien por cualquier medio, procure, induzca o facilite a un niño, niña o adolescente o a quien no tenga la capacidad para comprender el significado del hecho, a la comisión de algún delito, al consumo de estupefacientes, substancias psicotrópicas u otras susceptibles de producir dependencia o bebidas embriagantes, o a formar parte de una asociación delictuosa o de la delincuencia organizada, le facilite armas, o proporcione adiestramiento para su uso, será sancionado con prisión de cuatro a nueve años y de cincuenta a doscientas cuotas.
+181.- A quien por cualquier medio, reclute, utilice, procure, induzca o facilite a un niño, niña o adolescente o a quien no tenga la capacidad para comprender el significado del hecho, a cometer algún delito previsto en este Código y otras leyes aplicables, al consumo de estupefacientes, substancias psicotrópicas u otras susceptibles de producir dependencia o bebidas embriagantes, o a formar parte de una asociación delictuosa o de la delincuencia organizada, le facilite armas, o proporcione adiestramiento para su uso, será sancionado con prisión de cuatro a nueve años y multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
+
+> <small>(ADICIONADO [N. DE E. CON SU FRACCIONES], P.O. 4 DE OCTUBRE DE 2025)</small>
+
+El mínimo y el máximo de la pena a la que se refiere el párrafo anterior, se aumentará hasta en una mitad cuando respecto de la víctima o sujeto pasivo se presente alguno de los siguientes supuestos:
+
+I. Se encuentre en condición de orfandad, pobreza extrema, situación de calle, abandono familiar, discapacidad o migración;
+
+II. Se haya ejercido violencia;
+
+III. La persona que cometió el delito haya tenido una relación de consanguinidad, parentesco, sentimental, afectiva o de confianza con el sujeto pasivo o la víctima;
+
+IV. Sea cometido por un servidor público en ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1559,9 +1571,9 @@ V.- Al servidor público o agente del Gobierno que ejerza funciones que no le co
 
 VI.- Al que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada.
 
-> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-VII.- Al que teniendo un empleo, cargo o comisión en la Subsecretaría de Prevención y Reinserción Social del Estado de Zacatecas, facilite o fomente en los centros penitenciarios del Estado la introducción, uso, consumo, posesión o comercio de bebidas alcohólicas, sustancias psicotrópicas, así como de teléfonos celulares, radio localizadores o cualquier otro instrumento de comunicación radial o satelital para uso de las personas privadas de la libertad, y
+VII.- Al que teniendo un empleo, cargo o comisión en la Subsecretaría de Prevención y Reinserción Social del Estado de Zacatecas, facilite o fomente en los centros penitenciarios del Estado la introducción, uso, consumo, posesión o comercio de bebidas alcohólicas, sustancias psicotrópicas, así como de teléfonos celulares, computadoras, computadoras portátiles, chip, radio localizadores o cualquier otro instrumento de comunicación radial o satelital para uso de las personas privadas de la libertad, y
 
 > <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2019)</small>
 
@@ -1880,6 +1892,10 @@ Se aplicarán las mismas penas a los apoderados, asesores jurídicos, representa
 I.- Además de las sanciones fijadas para los delitos que resulten consumados, según sean intencionales o culposos, se les aplicará suspensión de un mes a dos años en el ejercicio de la profesión o inhabilitación definitiva en caso de reincidencia;
 
 II.- Estarán obligados a la reparación del daño, no solamente por sus actos propios, sino también solidariamente por los de sus ayudantes, enfermeros o practicantes, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+No existirá delito, ni se entenderá doloso o culposo, cuando el paciente presente efectos secundarios, complicaciones propias, de los tratamientos indicados o cuando se realice todo lo necesario e idóneo para salvaguardar la integridad física o la vida del paciente.
 
 213.- El artículo anterior se aplicará a los profesionales, similares y auxiliares que habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, lo abandonen en su tratamiento sin causa justificada, y no den aviso inmediato a la autoridad correspondiente.
 
@@ -2575,25 +2591,75 @@ II.- Si exigió que el amenazado cometiera un delito, la sanción de la amenaza 
 
 III.- Si lo que exigió fue que dejara de ejecutar un acto lícito, se le impondrá prisión de tres meses a dos años y multa de diez a veinticinco cuotas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+261.- Comete el delito de extorsión a quien obligue a otra persona, por cualquier medio, incluida la violencia física o psicológica a dar, hacer, dejar de hacer algo, tolerar algo o amenace con causar daño en su persona, familia, posesiones, actividades económicas o laborales, o a un tercero con el que tenga cualquier vínculo afectivo, laboral, económico, con el propósito de obtener un lucro o provecho para sí o para una tercera persona, independientemente de que se logre o no el fin propuesto.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+La conducta a la que se refiere el párrafo anterior podrá ser realizada de manera personal, vía telefónica o a través de cualquier medio que resulte de la aplicación de las nuevas tecnologías, incluyendo cualquier red social.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+El delito de extorsión se perseguirá de oficio cuando el Ministerio Público tenga noticia por cualquier medio de su ejecución en perjuicio de cualquiera de las actividades económicas o productivas del estado.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Se concede acción pública para denunciar este delito.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Los servidores públicos de las dependencias y entidades, que en el ejercicio de sus facultades tengan conocimiento de la probable existencia de un hecho constitutivo del presente delito hacia alguno de los sectores económicos o productivos con los que se encuentren relacionados, están obligados a denunciarlo inmediatamente al Ministerio Público, proporcionándole los datos con que cuenten.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Al que comete el delito de extorsión se le impondrá de ocho a dieciséis años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
+
+> <small>(DEROGADO SÉPTIMO PÁRRAFO [N. DE E. ANTES TERCER PÁRRAFO], P.O. 4 DE OCTUBRE DE 2025)</small>
+
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
-261.- Comete el delito de extorsión aquél que, con el ánimo de alcanzar un lucro o provecho, para sí o para otro, exija de otro dar, hacer, dejar de hacer o tolerar algo, utilizando para ello la amenaza de causarle un daño moral, físico o patrimonial en su persona o en la persona de otro.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
-
-Al que comete el delito de extorsión se le impondrá de tres a catorce años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
-
-Las penas se aumentaran en dos terceras partes cuando el delito se realice por una persona que se encuentre privada de su libertad en un centro de reinserción social, un servidor público, integrante o exintegrante de una corporación de seguridad pública o privada.
-
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
-
-En el caso del servidor público o integrante de una corporación de seguridad pública, se le impondrá, además, la destitución del empleo o cargo público y se le inhabilitara de cinco a diez años para desempeñar cargo o comisión públicos.
-
 Las penas contenidas en este artículo se aplicarán con independencia de las que correspondan por otros delitos que resulten.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+261 Bis.- Las penas establecidas en el artículo anterior, se agravarán hasta una mitad más en su mínimo y en su máximo, cuando:
+
+I. La víctima sea una persona menor de dieciocho años o mayor de setenta años de edad; cuando no tenga la capacidad para comprender el significado del hecho; padezca alguna enfermedad grave o terminal; se trate de mujer embarazada, y
+
+II. Teniendo parentesco con la víctima por consanguinidad en línea recta o colateral hasta el cuarto grado, sean cónyuges o concubinarios, ejecute el hecho o proporcione información para consumar la acción en contra del sujeto pasivo.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+261 Ter.- Las penas establecidas en el artículo 261 de este Código, se agravarán hasta en dos terceras partes más en su mínimo y en su máximo, cuando:
+
+I. Intervengan dos o más personas, en cualquier grado de participación;
+
+II. El delito se realice por personas privadas de la libertad o el delito se realice desde el interior de un centro penitenciario, centro de reinserción social o centro de internamiento.
+
+Igual sanción se impondrá a los servidores públicos que, por acción u omisión, faciliten los medios para que el delito se cometa por parte de personas privadas de la libertad, bajo su custodia o vigilancia; asimismo, se le impondrá la destitución del empleo, cargo o comisión y se le inhabilitará hasta por un tiempo igual al término de la pena de prisión que se le imponga. Además, se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada;
+
+III. El delito se realice por servidores públicos, miembros o exmiembros de alguna corporación de seguridad pública o privada.
+
+En el caso de servidores públicos, miembros o exmiembros de alguna corporación de seguridad pública o privada o del sistema penitenciario, se impondrá, en su caso, la destitución del empleo, cargo o comisión y se le inhabilitará hasta por un tiempo igual del término de la pena de prisión que se imponga. Además, se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada;
+
+IV. En la comisión del delito intervengan una o más personas armadas o que simulen estarlo;
+
+V. El sujeto pasivo o un tercero, entregue al activo o a persona que actúe en representación de éste, alguna cantidad de dinero o bienes de cualquier índole, en más de una ocasión;
+
+VI. La víctima se dedique al comercio o al desarrollo de actividades económicas, y la extorsión implique el cobro de cuotas o el otorgamiento de protección de cualquier tipo, sea cierto o no;
+
+VII. Por cualquier medio documental, electrónico, telefónico, amenace o intimide la persona, familia o bienes del sujeto pasivo, requiera el pago de una deuda simulada o solicite de otro la suscripción o destrucción de documentos que contengan obligaciones o créditos;
+
+VIII. Se refiera a la víctima u ofendido que en el hecho interviene algún grupo de la delincuencia organizada, sea cierto o no, aun cuando el propósito perseguido con ello sea solo el que no denuncie el hecho;
+
+IX. Se provoque o simule una colisión, impacto o cualquier percance vehicular, a fin de convencer al sujeto pasivo de ser responsable del mismo y con ello obtener un lucro o beneficio personal, y
+
+X. Se amenace o provoque incendio en los bienes muebles e inmuebles de la víctima u ofendido.
 
 ### CAPITULO II. ALLANAMIENTO DE MORADA
 
@@ -2755,6 +2821,20 @@ V.- Con prisión de cuatro a ocho años y multa de veinte a cincuenta cuotas, cu
 
 El delito de lesiones previsto en las fracciones I, II, III y IV de este artículo, sólo se perseguirá por querella.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+286 Bis.- A quien cause daño a otra persona en su salud física o mental, utilizando para ello cualquier tipo de gas, compuestos químicos, ácido, álcalis, sustancias químicas corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en las condiciones utilizadas, provoque lesiones ya sean internas, externas o ambas, se le impondrá una pena de cinco a diez años de prisión y multa de cien a ciento cincuenta veces la Unidad de Medida y Actualización vigente al momento en que se cometió el delito.
+
+La pena y multa previstas en el párrafo anterior, se aumentarán en una mitad en su mínimo y máximo cuando:
+
+I. Las lesiones afecten, o produzcan la pérdida de cualquier función orgánica, dañen, debiliten u ocasionen la pérdida de una extremidad;
+
+II. Causen deformidad en el rostro;
+
+III. Pérdida parcial o total del oído, vista, olfato o habla, o
+
+IV. Causen alteración o daño en el órgano genital externo e interno, en las funciones del ejercicio de la sexualidad o en las glándulas mamarias de la víctima.
+
 287.- Las sanciones previstas en el artículo anterior se aumentarán hasta en un tanto más, cuando las lesiones, por su situación u órganos interesados, hayan puesto u ordinariamente pongan en peligro la vida.
 
 288.- Si las lesiones fueren inferidas en riña o duelo, se impondrá al responsable hasta la mitad o hasta cinco sextos de las sanciones señaladas en los artículos que anteceden, según se trate del provocado o del provocador.
@@ -2779,9 +2859,11 @@ Además, el delincuente podrá ser privado del ejercicio de la patria potestad s
 
 Cuando el autor de la lesión sea persona de notoria escasa instrucción a criterio del juez y tratándose de la primera ocasión, únicamente se le impondrá la obligación de asistir a una o varias terapias al sistema DIF, quedando a disposición de esta institución, siempre y cuando la lesión, o lesiones, sean de las comprendidas en la fracción I del artículo 286.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-291 Bis.- Cuando por razones de género se lesione dolosamente a una mujer, se aumentará una tercera parte a la punibilidad que le corresponda por la lesión inferida.
+291 Bis.- Cuando por razones de género se lesione dolosamente a una mujer, se aumentará hasta en una mitad en su mínimo y su máximo la punibilidad que le corresponda por la lesión inferida.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
 
 Deberá entenderse la presencia de razones de género, cuando las lesiones sean producto de la ejecución de alguna o varias de las circunstancias propias de los tipos de violencia en contra de las mujeres descrita en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas.
 
@@ -4304,3 +4386,43 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo segundo. Comuníquese de inmediato este Decreto al Juzgado Tercero de Distrito en atención al requerimiento contenido en el oficio número 34840/2024 por el cual ordena el cumplimiento de la sentencia dictada por el Segundo Tribunal Colegiado del Vigésimo Tercer Circuito, dentro del Amparo en Revisión 23/2024.
 
 Artículo tercero. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 530.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. TRANSITOROS DEL “DECRETO NO. 541.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]</small>
+
+Artículo primero. El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. TRANSITOROS DEL “DECRETO NO. 542.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]</small>
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 543.- SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 615.- SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS Y AL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
