@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108944"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2024-02-28"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de julio de 2015.
 
@@ -266,6 +266,10 @@ b) Protección;
 > <small>(ADICIONADO, 28 DE FEBRERO DE 2024)</small>
 
 c) Vida libre de violencia cibernética, digital, así como todas aquellas mediante el uso de inteligencia artificial.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Se entenderá por inteligencia artificial, el software mediante programas informáticos que se desarrolla empleando una o varias de las siguientes técnicas: estrategias de aprendizaje automático, incluidos el aprendizaje supervisado, el no supervisado y el realizado por refuerzo, que ejecutan operaciones comparables a las que realiza la mente humana, como el aprendizaje o el razonamiento lógico que emplean una amplia variedad de métodos, entre ellos el aprendizaje profundo.
 
 IV. Los derechos de protección a la intimidad y retención ilícita:
 
@@ -2320,5 +2324,13 @@ P.O. 28 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIOS DE "DECRETO No. 448.- SE ADICIONA EL INCISO C) DE LA FRACCIÓN III DEL ARTÍCULO 9 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS".]
 
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NO. 557.- SE ADICIONA UN PÁRRAFO A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
