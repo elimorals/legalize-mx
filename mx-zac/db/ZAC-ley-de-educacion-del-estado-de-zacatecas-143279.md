@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-143279"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-17"
-last_updated: "2023-09-30"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento al Número 49 del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2020.
 
@@ -161,6 +161,10 @@ IV. Combatir las causas de discriminación y violencia en las diferentes regione
 
 V. Alentar la construcción de relaciones sociales, económicas y culturales, con base en el respeto de los derechos humanos.
 
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VI. Fomentar la educación financiera orientada al desarrollo humano integral, para el logro de una correcta economía personal, familiar y social en el Estado.
+
 Bases para el fomento de la educación
 
 ###### Artículo 11.
@@ -249,7 +253,11 @@ VIII. Inculcar el respeto por la naturaleza, a través de la generación de capa
 
 IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado, y
 
-X. Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado.
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+X. El conocimiento financiero a través de herramientas, información, e instrucción, que les permita comprender conceptos, productos, servicios, riesgos y beneficios financieros, a efecto de que puedan tomar decisiones informadas para mejorar su calidad de vida e impulsar su desarrollo.
+
+XI. Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado.
 
 Criterios de la educación
 
@@ -397,7 +405,9 @@ Educación inicial
 
 En educación inicial, el Estado, de manera progresiva, generará las condiciones para la prestación universal de ese servicio.
 
-Las autoridades educativas estatal y municipales impartirán educación inicial, de conformidad con los principios rectores y objetivos de la que determine la autoridad educativa federal en términos de la Ley General de Educación.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Las autoridades estatal y municipales impartirán educación inicial, de conformidad con los principios rectores y objetivos que determine la autoridad educativa federal en términos de la Ley General de Educación, así como del Programa Estatal de Educación Inicial que expida la autoridad educativa estatal.
 
 Además, fomentarán una cultura a favor de la educación inicial con base en programas, campañas, estrategias y acciones de difusión y orientación, con el apoyo de los sectores social y privado, organizaciones de la sociedad civil y organismos internacionales. Para tal efecto, promoverán diversas opciones educativas para ser impartidas, como las desarrolladas en el seno de las familias y a nivel comunitario, en las cuales se proporcionará orientación psicopedágogica y serán apoyadas por las instituciones encargadas de la protección y defensa de la niñez.
 
@@ -793,6 +803,10 @@ X. La apreciación y creación artística, a través de conocimientos conceptual
 
 XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
 
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XII. El conocimiento en materia de educación financiera orientada al desarrollo humano integral para el logro de una correcta economía personal, familiar y social en el Estado.
+
 Acompañamiento de los educandos en su trayectoria formativa
 
 ###### Artículo 54.
@@ -897,9 +911,13 @@ XXII. El conocimiento de las artes, la valoración, la apreciación, preservaci�
 
 XXIII. La enseñanza de la música para potencializar el desarrollo cognitivo y humano, así como la personalidad de los educandos;
 
-XXIV. El fomento de los principios básicos de seguridad y educación vial, y
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Federal.
+XXIV. La educación financiera para el desarrollo humano integral, considerando, por lo menos, temas como el ahorro, el presupuesto, el retiro, la inversión y el crédito;
+
+XXV. El fomento de los principios básicos de seguridad y educación vial, y
+
+XXVI. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Federal.
 
 ### Capítulo III. Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital en el proceso educativo
 
@@ -1037,7 +1055,9 @@ VI. Tener un docente frente a grupo que contribuya al logro de su aprendizaje y 
 
 VII. Participar de los procesos que se deriven en los planteles educativos como centros de aprendizaje comunitario;
 
-VIII. Recibir becas y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VIII. Recibir toallas sanitarias, tampones, copas menstruales o cualquier producto de higiene menstrual, así como becas y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
 IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas, y
 
@@ -1475,7 +1495,9 @@ XIII. Fomentar el uso responsable y seguro de las tecnologías de la informació
 
 XIV. Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de los educadores y educandos sea de respeto recíproco y atienda al respeto de los derechos consagrados en la Constitución Federal, los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a niñas, niños, adolescentes y jóvenes;
 
-XV. Promover entornos escolares saludables, a través de acciones que permitan a los educandos disponibilidad y acceso a una alimentación nutritiva, hidratación adecuada, así como a la actividad física, educación física y la práctica del deporte;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XV. Promover entornos escolares saludables, a través de acciones que permitan a los educandos disponibilidad y acceso a una alimentación nutritiva, hidratación adecuada, la recreación en áreas verdes en todas las escuelas de nuestro estado, así como a la actividad física, educación física y la práctica del deporte;
 
 XVI. Promover en la educación obligatoria prácticas cooperativas de ahorro, producción y promoción de estilos de vida saludables en alimentación, de acuerdo con lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares;
 
@@ -1549,9 +1571,17 @@ XIV. Adoptar las medidas para que, con independencia de su nacionalidad o condic
 
 XV. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
 
-XVI. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución, y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-XVII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia.
+XVI. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XVII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia, y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XVIII. Proporcionar de forma gradual y progresiva el acceso gratuito a toallas sanitarias, tampones, copas menstruales o cualquier producto de higiene menstrual a niñas, adolescentes, mujeres y personas menstruantes, en las escuelas públicas pertenecientes al sistema educativo estatal de acuerdo con la suficiencia presupuestal.
 
 Consejo Nacional de Autoridades Educativas
 
@@ -2108,6 +2138,46 @@ Artículo Segundo. Se derogan todas aquellas disposiciones que contravengan el p
 P.O. 30 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 327.- MEDIANTE EL CUAL SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 531.- SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 107 DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 532.- SE ADICIONA Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 566.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS Y DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los siguientes 180 días naturales contados a partir de la publicación del presente Decreto, el Poder Ejecutivo del Estado deberá modificar sus reglamentos y realizar las acciones necesarias a efecto de dar cumplimiento al contenido de este instrumento legislativo.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá incluir en el proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2025 que presente ante esta Legislatura del Estado una partida presupuestal específica para cumplir con el contenido del presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 665.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS".]
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
