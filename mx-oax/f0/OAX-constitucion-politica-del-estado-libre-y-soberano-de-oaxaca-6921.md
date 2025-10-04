@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2025-09-10"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -381,11 +381,11 @@ Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros
 
 Las partes tendrán el derecho de solicitar a su costa la expedición de copias simples de actuaciones judiciales, lo que podrá solicitarse y acordarse verbalmente, asentándose razón de su entrega.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 12.
 
-A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad solo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
+A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial. En ningún caso se permitirá el ejercicio de actividades prohibidas por la Constitución Política de los Estados Unidos Mexicanos en materia de protección a la salud, conforme a lo dispuesto en sus artículos 4° y 5°.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
@@ -415,11 +415,11 @@ Toda persona tiene derecho a la cultura física y a la práctica del deporte. Co
 
 Las autoridades de los municipios y comunidades preservarán el tequio como expresión de solidaridad según los usos de cada pueblo y comunidad indígenas. Los tequios encaminados a la realización de obras de beneficio común, derivados de los acuerdos de las asambleas, de las autoridades municipales y de las comunitarias de cada pueblo y comunidad indígena, podrán ser considerados por la ley como pago de contribuciones municipales; la ley determinará las autoridades y procedimientos tendientes a resolver las controversias que se susciten con motivo de la prestación del tequio.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1571 PUBLICADO EN EL PERIÓDICO OFICIAL EL 28 DE OCTUBRE DE 2023, SE ADVIERTE QUE EL CONTENIDO DE LA REFORMA AL SÉPTIMO PÁRRAFO CORRESPONDE AL PÁRRAFO OCTAVO DE ESTE ARTÍCULO]</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 774 PUBLICADO EN EL PERIÓDICO OFICIAL EL 4 DE OCTUBRE DE 2025, SE ADVIERTE QUE EL CONTENIDO DE LA REFORMA AL OCTAVO PÁRRAFO CORRESPONDE AL PÁRRAFO NOVENO DE ESTE ARTÍCULO]</small>
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud física y mental, este implicará la participación de todos los órganos de (sic) poder público, para que en la medida de sus competencias hagan funcional este derecho fundamental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo, definirá la competencia del Estado y de los Municipios en materia de salubridad local. La Ley garantizará la extensión progresiva, cuantitativa y cualitativa de los servicios de Salud, con el objeto de garantizar la atención integral a la población oaxaqueña que no cuenta con seguridad social.
+En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud física y mental, este implicará la participación de todos los órganos de poder público, para que en la medida de sus competencias hagan funcional este derecho fundamental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo, definirá la competencia del Estado y de los Municipios en materia de salubridad local. La Ley garantizará la extensión progresiva, cuantitativa y cualitativa de los servicios de Salud, con el objeto de garantizar la atención integral a la población oaxaqueña que no cuenta con seguridad social. La ley deberá prohibir y sancionar actividades relacionadas con cigarrillos electrónicos, vapeadores, dispositivos análogos, sustancias tóxicas, precursores químicos, fentanilo y demás drogas sintéticas no autorizadas, en términos de lo dispuesto por los artículos 4° y 5° de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>[N. DE E. RESPECTO AL ORDEN DE ESTE PÁRRAFO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO.]</small>
 
@@ -7002,3 +7002,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido establec
 TERCERO. El consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo, vigilancia y fiscalización del proceso de revocación de mandato y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, y objetividad.
 
 CUARTO. La Secretaría de Finanzas del Gobierno del Estado y el Honorable Congreso del Estado, en coordinación con el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, acordarán y realizarán las adecuaciones presupuestarias que resulten necesarias para el Ejercicio Fiscal 2026, de tal forma que sea factible la realización de un proceso de revocación de mandato.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 774.- MEDIANTE EL CUAL REFORMAN LOS PÁRRAFOS PRIMERO Y OCTAVO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
+
+SEGUNDO. Los Municipios del Estado de Oaxaca deberán adecuar sus bandos de policía y buen gobierno, así como sus reglamentos en materia sanitaria, en un plazo no mayor a 120 días naturales, contados a partir de la entrada en vigor de esta reforma, para asegurar su aplicación en el ámbito local.
