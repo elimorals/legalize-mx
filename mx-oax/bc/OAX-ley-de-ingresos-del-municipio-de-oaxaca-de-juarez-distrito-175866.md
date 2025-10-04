@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-municipio-de-oaxaca-de-juarez-distrito-1758
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INGRESOS DEL MUNICIPIO DE OAXACA DE JUÁREZ, DISTRITO DEL CENTRO, OAXACA, PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 31 de diciembre de 2024.
 
