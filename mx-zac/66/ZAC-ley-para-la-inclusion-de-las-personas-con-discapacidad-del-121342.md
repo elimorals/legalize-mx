@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-inclusion-de-las-personas-con-discapacidad-del-1213
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-03"
-last_updated: "2021-09-04"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 4 DE SEPTIEMBRE DE 2021 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 652 PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento al Número 35 del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de mayo de 2017.
 
@@ -239,9 +237,15 @@ XXVI. Al respeto y convivencia, eliminando los prejuicios, estereotipos y otras 
 
 XXVII. A tener acceso a información en formatos accesibles;
 
-XXVIII. A la asistencia social en caso de ser necesario, y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-XXIX. Los demás derechos que les reconozcan otros ordenamientos jurídicos.
+XXVIII. A la asistencia social en caso de ser necesario;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XXIX. Derecho a decidir por sí mismos, de manera libre e informada, sobre el ejercicio de sus derechos, y
+
+XXX. Los demás derechos que les reconozcan otros ordenamientos jurídicos.
 
 ### Capítulo III. Derecho de Igualdad y no Discriminación
 
@@ -291,9 +295,19 @@ Para asegurar la accesibilidad en la infraestructura básica, equipamiento, ento
 
 I. Que sea de carácter universal, obligatoria y adaptada para todas las personas;
 
-II. Que incluya el uso de señalización, facilidades arquitectónicas, tecnologías, información, sistema braille, lengua de señas mexicana, ayudas técnicas, perros de asistencia o animal de servicio y otros apoyos, y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+II. Que incluya el uso de señalización, facilidades arquitectónicas, tecnologías, información, sistema Braille, lengua de señas mexicana, ayudas técnicas, perros de asistencia o animal de servicio y otros apoyos, y
 
 III. Que la adecuación de las instalaciones públicas sea progresiva.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Los inmuebles públicos deberán contar con señalizaciones en sistema Braille, las cuales deberán incluir las denominaciones del ente público y el área administrativa respectiva, así como el nombre de la persona titular.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+De la misma forma, cada dependencia o entidad pública deberá contar con un directorio con los números y correos electrónicos de contacto en sistema Braille.
 
 Derecho al libre desplazamiento
 
@@ -489,11 +503,21 @@ III. Establecer mecanismos a fin de que las niñas y niños con discapacidad, go
 
 IV. Garantizar que las niñas y niños con discapacidad no sean condicionados ni discriminados en su inclusión e integración a la educación inicial, preescolar, básica y media superior;
 
-V. Incorporar docentes y personal con perfil apropiado para intervenir directamente en la inclusión educativa de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-VI. Promover la utilización de la Lengua de Señas Mexicana, el Sistema Braille y otros modos, medios y formatos aumentativos y alternativos de comunicación;
+V. Incorporar docentes y personal con perfil apropiado para intervenir directamente en la inclusión educativa de las personas con discapacidad en las escuelas de educación básica;
 
-VII. Equipar los planteles y centros educativos con libros en Braille, materiales didácticos, apoyo de intérpretes de Lengua de Señas Mexicana o especialistas en sistema Braille, equipos computarizados con tecnología para personas con discapacidad sensorial y todo lo necesario para lograr una educación con calidad;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VI. Promover la utilización y la formación de docentes en Lengua de Señas Mexicana, el Sistema Braille y otros modos, medios y formatos aumentativos y alternativos de comunicación;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VII. Equipar los planteles y centros educativos públicos con libros en sistema Braille, materiales didácticos, así como realizar los ajustes razonables en cada aula para estudiantes con discapacidad visual, además del apoyo de intérpretes de Lengua de Señas Mexicana o especialistas en sistema Braille, equipos computarizados con tecnología para personas con discapacidad sensorial, sistemas alternativos y aumentativos de comunicación, como la lectura fácil y pictogramas para las personas con discapacidad intelectual y todo lo necesario para lograr una educación con calidad.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+La Secretaría de Educación promoverá que los centros educativos privados cuenten con lo dispuesto en esta fracción;
 
 VIII. Impulsar programas de formación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas Mexicana;
 
@@ -509,11 +533,15 @@ XIII. Las demás que dispongan otros ordenamientos.
 
 Sistema Estatal de Bibliotecas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-En el Sistema Estatal de Bibliotecas, salas de lectura y servicios de acceso a la información de la administración pública estatal, deberán incluirse, entre otros, los equipos de cómputo con tecnología adaptada, escritura e impresión en el Sistema de Escritura Braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permitan su uso a las personas con discapacidad.
+En el Sistema Estatal de Bibliotecas, salas de lectura y servicios de acceso a la información de la administración pública estatal, deberán incluirse, entre otros, dispositivos electrónicos con tecnología adaptada, escritura e impresión en sistema Braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permitan su uso a las personas con discapacidad.
 
-Las bibliotecas de estantería abierta deberán facilitar su uso principalmente a aquellas que requieran movilizarse en silla de ruedas, aparatos ortopédicos, muletas u otros. Se deberá contar con un área determinada específicamente para personas con discapacidad visual, en donde se instalen cabinas que permitan hacer uso de grabadoras o lectura en voz alta.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Las bibliotecas de estantería abierta deberán contar con señalización apropiada para facilitar su uso principalmente a aquellas personas con discapacidad visual o que requieran movilizarse en silla de ruedas, aparatos ortopédicos, muletas, u otros. Se deberá contar con un área determinada específicamente para personas con discapacidad visual, en donde se instalen cabinas que permitan hacer uso de grabadoras o lectura en voz alta.
 
 Contará con el porcentaje de acervo en escritura Braille, en audio y estenógrafos de español para la comprensión de lenguaje para personas sordas, señalado por el Sistema Nacional de Bibliotecas.
 
@@ -550,6 +578,40 @@ VIII. Incorporar de forma gratuita al Seguro Popular a las personas con discapac
 IX. Impedir que se nieguen, de manera discriminatoria, servicios de salud o de atención de la salud por motivos de discapacidad, y
 
 X. Las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Derechos sexuales y derechos reproductivos de las personas con discapacidad
+
+###### Artículo 34 Bis.
+
+De manera enunciativa, las personas con discapacidad tendrán, en materia sexual y reproductiva, los derechos siguientes:
+
+I. Derecho a una vida libre de discriminación;
+
+II. Derecho a la igualdad entre mujeres y hombres;
+
+III. Derecho a la autonomía, a la integridad y a una vida libre de violencia;
+
+IV. Derecho a la libertad, autodeterminación y libre desarrollo de la personalidad;
+
+V. Derecho a manifestar la identidad sexual, la expresión e identidad de género, la orientación y preferencia sexual de forma libre y autónoma;
+
+VI. Derecho a la educación integral de la sexualidad en lenguas, lenguajes y con recursos acordes a las necesidades de la (sic) personas con discapacidad y sus familias;
+
+VII. Derecho a la información científica sobre sexualidad, en lenguas, sistemas, formato y tecnologías acordes a los requerimientos de las personas con discapacidad;
+
+VIII. Derecho al respeto de la intimidad y la privacidad sexual;
+
+IX. Derecho al ejercicio libre, placentero e informado de la sexualidad;
+
+X. Derecho a la atención de la salud sexual y salud reproductiva acorde a los requerimientos específicos de las personas con discapacidad;
+
+XI. Derecho a decidir de manera libre, responsable e informada sobre el ejercicio de la maternidad, la paternidad, la adopción y la reproducción asistida;
+
+XII. Derecho a establecer relaciones afectivas y sexuales, al noviazgo y a elegir su estado civil, así como la expresión pública y privada de los afectos, y
+
+XIII. Derecho a la participación, consulta e incidencia en las políticas públicas sobre salud, sexualidad, reproducción y bienestar.
 
 ### Capítulo XII. Derecho a la Habilitación y Rehabilitación
 
@@ -689,9 +751,15 @@ III. Establecer medidas que garanticen el acceso de las personas con discapacida
 
 IV. Establecer programas para la prestación de servicios de asistencia social para personas con discapacidad en situación de pobreza, abandono o marginación, incluidos servicios de capacitación, asistencia financiera y servicios de cuidados temporales, los cuales se extenderán a las regiones rurales;
 
-V. Promover la apertura de establecimientos especializados para la asistencia, protección y albergue para personas con discapacidad en situación de pobreza, abandono o marginación, y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-VI. Todas las demás que tengan como objeto mejorar las condiciones sociales y permita potenciar las capacidades de las personas con discapacidad.
+V. Promover la apertura de establecimientos especializados para la asistencia, protección y albergue para personas con discapacidad en situación de pobreza, abandono o marginación;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VI. Promoverá la formación de las personas con discapacidad para facilitar su acceso al empleo formal, y
+
+VII. Todas las demás que tengan como objeto mejorar las condiciones sociales y permita potenciar las capacidades de las personas con discapacidad.
 
 Facultades del DIF
 
@@ -1472,3 +1540,11 @@ P.O. 11 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 652.- SE REFORMA LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 344.- SE REFORMA Y ADICIONA LA LEY PARA LA INCLUSIÓN DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
