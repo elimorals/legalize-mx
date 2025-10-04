@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2024-02-03"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -659,9 +659,9 @@ IV. Para la aprobación de los acuerdos de coordinación o asociación municipal
 
 V. Para crear, modificar o extinguir entidades paramunicipales, y
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-VI. Designar y remover al titular del Órgano Interno de Control.
+VI. Remover al titular del Órgano Interno de Control.
 
 Comparecencia de servidores públicos
 
@@ -973,6 +973,10 @@ X. Ejercer y aplicar los recursos públicos en fines distintos a los señalados 
 
 XI. Retener o aplicar para fines distintos las aportaciones que en numerario o en especie hayan enterado a la Hacienda Pública Municipal los sectores social y privado, para la realización de obras de utilidad pública.
 
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XII. Dilatar sin causa justificada, la designación del titular del Órgano Interno de Control.
+
 ### Capítulo V. Suplencia de Integrantes del Ayuntamiento
 
 Licencias
@@ -1262,6 +1266,10 @@ IX. Rescindir la relación laboral con los trabajadores sin cumplir con el proce
 X. Suspender el pago de la remuneración correspondiente, a los integrantes del Ayuntamiento, cuando el recurso esté debidamente presupuestado; y
 
 XI. Residir, durante su gestión, fuera del territorio municipal, salvo en los casos de los municipios conurbados.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XII. Designar Encargado Provisional del Despacho o figura análoga, del Órgano Interno de Control.
 
 Representación jurídica
 
@@ -1715,9 +1723,11 @@ XXVII. Las demás que le asigne el Ayuntamiento.
 
 Designación del Órgano Interno de Control
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 104.
 
-El titular del Órgano Interno de Control será designado por el Ayuntamiento conforme a la terna que proponga la primera minoría de regidores integrantes del Cabildo, procurando el acceso a la función pública con base en el mérito, bajo un proceso transparente, objetivo y equitativo.
+El titular del Órgano Interno de Control será designado por mayoría simple de votos de los integrantes del Ayuntamiento presentes en sesión, conforme a la terna que proponga la primera minoría de regidores integrantes del Cabildo, procurando el acceso a la función pública con base en el mérito, bajo un proceso transparente, objetivo y equitativo.
 
 La primera minoría es la conformada por los regidores del partido político que, por sí mismo, hubiere ocupado el segundo lugar de la votación válida emitida en la respectiva elección municipal.
 
@@ -1731,9 +1741,15 @@ Sólo en caso de que la primera minoría no presente la propuesta dentro del pla
 
 Cuando por cualquier causa se presente la ausencia o remoción del titular del Órgano Interno de Control, la primera minoría conserva el derecho de presentar nueva terna para cubrir el cargo.
 
-En el caso de que alguno o algunos de los integrantes de la terna resulten inelegibles, o bien, cuando no alcancen la votación requerida, la primera minoría conservará el derecho de presentar nueva terna para cubrir el cargo, en los plazos establecidos en el presente Capítulo.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+En el caso de que alguno o algunos de los integrantes de la terna resulten inelegibles, o bien, cuando no alcancen la votación requerida, la primera minoría conservará el derecho de presentar nueva terna para cubrir el cargo, en los plazos establecidos en el presente Capítulo. Una vez verificada la elegibilidad de los integrantes de la terna, el Ayuntamiento estará obligado a someterla a votación sin dilación alguna.
 
 El titular del Órgano Interno de Control no podrá ser designado para otro período.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+El Ayuntamiento deberá garantizar en todo momento la suficiencia presupuestal para el funcionamiento óptimo y el cumplimiento de las atribuciones que tiene encomendadas en la normatividad aplicable, el Órgano Interno de Control, lo que incluye, las percepciones salariales y demás prestaciones de los titulares del propio órgano y de las áreas de Investigación y Substanciación.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2021)</small>
 
@@ -1759,7 +1775,9 @@ I. No haber sido ministro de algún culto religioso en los cinco años anteriore
 
 II. Contar al día de su designación con cédula profesional, con nivel mínimo de licenciatura en las áreas de derecho, contaduría u otras áreas a fines;
 
-III. En los casos de los titulares de las áreas de investigación y substanciación deberán contar con experiencia profesional de cuando menos tres años en el control, manejo, fiscalización de recursos y responsabilidades administrativas, y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+III. Solo en los casos de los titulares de las áreas de investigación y substanciación deberán contar con experiencia profesional de cuando menos tres años en el control, manejo, fiscalización de recursos y responsabilidades administrativas, y
 
 IV. No haber sido candidato a presidente, síndico o regidor en la elección inmediata anterior.
 
@@ -3245,6 +3263,10 @@ Los municipios deben elaborar el Presupuesto de Egresos con perspectiva de géne
 
 Asimismo, deben tomar las medidas presupuestarias para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con la normativa en la materia.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+En todo caso, el Ayuntamiento respectivo deberá considerar en su Presupuesto de Egresos los recursos suficientes para que el Órgano Interno de Control cumpla con sus funciones de inspección, vigilancia y fiscalización del ejercicio de los recursos públicos, así como con las obligaciones y atribuciones que le confiere la Ley General de Responsabilidades Administrativas y demás normatividad aplicable.
+
 El Presidente Municipal debe presentar al Ayuntamiento el proyecto de Presupuesto de Egresos a más tardar el 1 de diciembre del año anterior al de su ejercicio.
 
 Los ayuntamientos aprobarán el Presupuesto de Egresos a más tardar el treinta y uno de diciembre del año que corresponda. En caso de no aprobarse se declarará aplicable el Presupuesto de Egresos que se encuentre vigente, sólo en lo relativo al gasto corriente.
@@ -4332,3 +4354,11 @@ Artículo Primero. El presente Decreto entrará en vigor al siguiente día de su
 Artículo Segundo. Se establece un plazo no mayor a noventa días para que se (sic) los Ayuntamientos modifiquen en lo conducente las disposiciones reglamentarias y establecer el procedimiento para el saneamiento y limpia de lotes baldíos, construcciones inconclusas y casas abandonadas, en los términos del presente Decreto.
 
 Artículo Tercero. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 562.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
