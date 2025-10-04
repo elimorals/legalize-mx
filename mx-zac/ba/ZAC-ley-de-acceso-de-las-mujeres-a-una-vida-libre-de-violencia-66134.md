@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6613
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2025-09-20"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -295,9 +295,13 @@ IX. Violencia Mediática: Todo acto a través de cualquier medio de comunicació
 
 La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y atenta contra la igualdad, y
 
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+X. Violencia ácida. Es cualquier acción u omisión que cause a otra daño en la salud física y emocional de una mujer, utilizando para ello cualquier tipo de gas, compuesto químico, ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en las condiciones utilizadas, provoque lesiones ya sean internas, externas o ambas, sin importar la temporalidad de estas, algún tipo de discapacidad o pongan en peligro la vida.
+
 > <small>(F. DE E., P.O. 18 DE JUNIO DE 2022)</small>
 
-X. Cualquier otra forma análoga que lesione, o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+XI. Cualquier otra forma análoga que lesione, o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ### Capítulo II. Modalidades de la violencia
 
@@ -2228,3 +2232,11 @@ P.O. 20 DE SEPTIEMBRE DE 2025.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 615.- SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS Y AL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
