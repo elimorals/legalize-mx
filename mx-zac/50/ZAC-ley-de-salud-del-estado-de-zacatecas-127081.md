@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2024-04-17"
+last_updated: "2025-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -127,7 +127,9 @@ V. Establecer restricciones a la movilidad urbana, y mediante reglas administrat
 
 VI. La prestación de servicios de planificación familiar;
 
-VII. La salud mental;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VII. La organización, coordinación, regulación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares, públicas, sociales y privadas para la salud, observando un enfoque de género e igualdad entre mujeres y hombres;
 
 VIII. La organización, coordinación, regulación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares, públicas, sociales y privadas para la salud;
 
@@ -213,9 +215,21 @@ VI. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente que 
 
 VII. Promover el control sanitario en actividades, establecimientos, productos y servicios que se presten para su protección;
 
-VIII. Implementar un sistema racional de administración y desarrollo de los recursos humanos para mejorar los servicios de salud, y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-IX. Definir los mecanismos de coordinación y colaboración entre autoridades y los sectores social y privado en materia de salud.
+VIII. Implementar un sistema racional de administración y desarrollo de los recursos humanos para mejorar los servicios de salud;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+IX. Definir los mecanismos de coordinación y colaboración entre autoridades estatales y municipales, y con los sectores social y privado en materia de salud;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+X. Garantizar la participación de la comunidad en el Sistema Estatal de Salud, y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XI. Proponer los mecanismos y estrategias que aseguren los materiales y recursos necesarios a las y los auxiliares de la salud comunitarios.
 
 ###### ARTÍCULO 9.
 
@@ -271,13 +285,23 @@ d) El Presidente del Colegio de Médicos de Zacatecas;
 
 e) El Presidente del Colegio de Enfermería de Zacatecas;
 
-f) El Coordinador del Área de Ciencias de la Salud, de la Universidad Autónoma de Zacatecas, y
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-g) Un representante de las Escuelas Privadas que tengan, dentro de su oferta curricular, carreras afines a ciencias de la salud.
+f) El Coordinador del Área de Ciencias de la Salud, de la Universidad Autónoma de Zacatecas;
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+g) Un representante de las Escuelas Privadas que tengan, dentro de su oferta curricular, carreras afines a ciencias de la salud, y
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+h) Las presidentas y presidentes de los siete municipios del Estado con mayor población.
 
 Cada miembro propietario tendrá un suplente.
 
-El Presidente del Consejo Estatal de Salud, o quien lo supla, podrá invitar a las sesiones de dicho órgano a representantes de instituciones públicas y privadas, que puedan intervenir con opiniones técnicas sobre los asuntos a tratar.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+El Presidente del Consejo Estatal de Salud, o quien lo supla, conforme a sus atribuciones o a propuesta de los integrantes, podrá invitar a las sesiones de dicho órgano a representantes de instituciones públicas y privadas, así como a integrantes de los comités municipales y representantes de las y los auxiliares comunitarios, para que intervengan con información, propuestas u opiniones técnicas sobre los asuntos a tratar.
 
 Los cargos en el Consejo Estatal de Salud serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
 
@@ -299,7 +323,13 @@ IV. Formular y desarrollar programas municipales de salud de conformidad con los
 
 V. Vigilar, supervisar y hacer cumplir en la esfera de su competencia las leyes y reglamentos sanitarios, así como los relacionados con la movilidad urbana y el uso de protector visual, bucal y facial que así se determine;
 
-VI. Organizar los comités municipales de salud, para que participen como coadyuvantes con las autoridades, en el mejoramiento y vigilancia de los servicios de salud;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE OCTUBRE DE 2025)</small>
+
+VI. Organizar los comités municipales de salud, para que participen como coadyuvantes con las autoridades, en el mejoramiento y vigilancia de los servicios de salud.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+En la conformación de los comités municipales de salud, se deberá garantizar la representación de las y los auxiliares de la salud comunitarios;
 
 VII. Aportar los recursos humanos, materiales y financieros que sean necesarios para coadyuvar en la operación de los servicios de salubridad municipal, y
 
@@ -373,11 +403,17 @@ IX. La promoción de un estilo de vida saludable;
 
 X. La asistencia social a los grupos vulnerables y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas y a las mujeres en situación de vulnerabilidad, y
 
-XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+XI. La atención médica a los adultos mayores en áreas de salud geriátrica;
 
-XII. Derecho a una visión digna, mismo que se garantizará mediante jornadas públicas de exámenes oftalmológicos gratuitos, entrega gratuita de lentes y cirugías oftalmológicas gratuitas, incluyendo el tratamiento médico gratuito necesario para estos procedimientos.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XII. Derecho a una visión digna, mismo que se garantizará mediante jornadas públicas de exámenes oftalmológicos gratuitos, entrega gratuita de lentes y cirugías oftalmológicas gratuitas, incluyendo el tratamiento médico gratuito necesario para estos procedimientos, y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+XIII. La salud e higiene menstrual.
 
 ###### ARTÍCULO 21.
 
@@ -443,6 +479,12 @@ Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la exte
 
 Las autoridades sanitarias y las propias instituciones de salud establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 28 BIS. La participación de la comunidad en los programas de protección de la salud y en la prestación de los servicios respectivos, tiene por objeto ampliar la cobertura del sistema estatal de salud, así como fortalecer su estructura y funcionamiento, con el fin de mejorar el nivel de salud de la población.
+
+Para efectos de lo anterior, la Secretaría de Salud deberá concertar acciones de coordinación con los municipios, en los que se definan responsabilidades, metas y objetivos.
+
 ###### ARTÍCULO 29.
 
 La comunidad podrá participar en los servicios de salud de los sectores público, social y privado, a través de las siguientes acciones:
@@ -451,7 +493,9 @@ I. Promover hábitos de conducta que contribuyan a proteger o a solucionar probl
 
 II. Colaborar en la prevención o tratamiento de problemas ambientales vinculados a la salud;
 
-III. Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, bajo la dirección y control de las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+III. Incorporación como auxiliares de la salud comunitarios, en la realización de tareas simples de atención médica y asistencia social, bajo la dirección y control de las autoridades correspondientes;
 
 IV. Notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
 
@@ -460,6 +504,10 @@ V. Formulación de sugerencias para mejorar los servicios de salud;
 VI. Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos, y
 
 VII. Hacer aportaciones en dinero o en especie a las instituciones prestadoras de los servicios de salud.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+Las y los auxiliares de la salud comunitarios tendrán derecho a recibir un apoyo económico mensual por parte del Estado, el cual no podrá ser inferior al valor mensual de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO IV. Atención Materno-Infantil
 
@@ -713,7 +761,13 @@ II. Apoyar la creación de centros de capacitación y actualización de los recu
 
 III. Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros, y
 
-IV. Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+IV. Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas, y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+V. Promover actividades de capacitación dirigidas a los comités municipales de salud y a las y los auxiliares de la salud comunitarios.
 
 ###### ARTÍCULO 54.
 
@@ -869,7 +923,9 @@ I. Fomentar y capacitar a la población para que desarrollen conductas y habilid
 
 II. Proporcionar a la población los conocimientos, prácticas y habilidades necesarios para promover y proteger su salud, y
 
-III. Orientar y capacitar a la población en materia de nutrición, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención de la discapacidad, rehabilitación y detección oportuna de enfermedades, así como la prevención, diagnóstico y control de las enfermedades cardiovasculares.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2025)</small>
+
+III. Orientar y capacitar a la población en materia de nutrición, activación física para la salud, salud mental, salud bucal, educación sexual, educación menstrual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención de la discapacidad, rehabilitación y detección oportuna de enfermedades, así como la prevención, diagnóstico y control de las enfermedades cardiovasculares.
 
 ###### ARTÍCULO 71.
 
@@ -1673,9 +1729,11 @@ Los desechos sólidos se manipularán lo estrictamente indispensable durante el 
 
 Para los efectos de esta Ley se entiende por reclusorio o centro de reinserción social, el edificio destinado a la internación de quienes se encuentran restringidos de su libertad corporal, por una resolución judicial o administrativa.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 161.
 
-Los reclusorios o centros de reinserción social deberán contar con los servicios básicos sanitarios para la higiene personal, así como proporcionar los servicios de atención médica y de salud, y lo necesario para la atención perinatal. Contarán además con las facilidades necesarias para la atención de aquellos casos de enfermedad, en que sea requerido el traslado de los internos a un hospital o institución de salud.
+Los reclusorios o centros de reinserción social deberán contar con los servicios básicos sanitarios para la higiene personal, así como proporcionar los servicios de atención médica y de salud, toallas sanitarias, tampones, copas menstruales o cualquier producto de higiene menstrual, así como lo necesario para la atención perinatal. Contarán además con las facilidades necesarias para la atención de aquellos casos de enfermedad, en que sea requerido el traslado de los internos a un hospital o institución de salud.
 
 ### CAPÍTULO VIII. Gimnasios
 
@@ -2608,3 +2666,51 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Salud deberá modificar su normatividad interna en los términos del presente decreto, en un plazo que no deberá exceder de 60 días naturales contados a partir de su entrada en vigor.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 565.- REFORMAS Y ADICIONES DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los siguientes 180 días naturales contados a partir de la publicación del presente Decreto, el Poder Ejecutivo del Estado deberá modificar sus reglamentos y realizar las acciones necesarias a efecto de dar cumplimiento al contenido de este instrumento legislativo, en las que se incluya lo siguiente:
+
+a) Incorporar la participación de la comunidad en el Sistema Estatal de Salud.
+
+b) Aprobar los mecanismos y estrategias que implementarán para asegurar los materiales y recursos necesarios a las y los integrantes de la comunidad que realicen las tareas simples de atención médica y asistencia social a los que se refiere la fracción III del artículo 29, del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para el cumplimiento de lo dispuesto en el inciso h) del artículo 13 de esta Ley, el Consejo Estatal de Salud deberá celebrar sesión en un término no mayor de 90 días naturales siguientes a la publicación del presente Decreto, con el objeto de integrar como vocales a las presidentas y presidentes de los siete municipios con mayor población en el Estado.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos de lo dispuesto en el párrafo segundo, fracción VI, del artículo 14 de esta Ley, los comités municipales de la salud, deberán celebrar sesión en un término no mayor de 180 días siguientes a la publicación del presente Decreto, con el objetivo de integrar la representación de las y los auxiliares de la salud comunitario (sic).
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado deberá incluir en el proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2024 que presente ante esta Legislatura del Estado una partida presupuestal específica para cumplir con el contenido del párrafo segundo del artículo 29 del presente Decreto, relacionado con el apoyo económico para las y los auxiliares de la salud.
+
+###### ARTÍCULO SEXTO.
+
+Remítase el presente Decreto al titular del Ejecutivo del Estado para su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, por haber dado cumplimiento al contenido del artículo 62, fracción III, de la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+P.O. 4 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 566.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS Y DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los siguientes 180 días naturales contados a partir de la publicación del presente Decreto, el Poder Ejecutivo del Estado deberá modificar sus reglamentos y realizar las acciones necesarias a efecto de dar cumplimiento al contenido de este instrumento legislativo.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá incluir en el proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2025 que presente ante esta Legislatura del Estado una partida presupuestal específica para cumplir con el contenido del presente Decreto.
