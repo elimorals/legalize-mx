@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2025-10-02"
+last_updated: "2025-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -747,13 +747,17 @@ LIII.- Coordinarse con las autoridades sanitarias a efecto de establecer y difun
 
 LIV.- Realizar convenios con Universidades Públicas y Privadas, para que sus alumnos en el área de Psicología y Trabajo Social presten servicio social estudiantil en escuelas públicas de educación básica, con la intención de promover acciones de prevención en materia de salud mental de la comunidad escolar, así como de prevención de la conducta suicida,
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2025)</small>
 
-LV.- Brindar asesoría, información y capacitación en materia de orientación alimentaria y nutricional a las personas encargadas de la preparación y venta de alimentos dentro de centros educativos, y
+LV.- Brindar asesoría, información y capacitación en materia de orientación alimentaria y nutricional a las personas encargadas de la preparación y venta de alimentos dentro de centros educativos,
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2025)</small>
+
+LVI.- Promover la vinculación de las instituciones educativas de nivel medio superior con el sector productivo de la entidad, por medio de la implementación de la modalidad de formación dual, y
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-LVI.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+LVII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2023)</small>
 
@@ -1649,15 +1653,25 @@ III.- Será Bivalente, el que atienda las dos finalidades señaladas en las frac
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2025)</small>
 
-###### Artículo 108.
+###### ARTICULO 108.
 
 La educación media superior promoverá el desarrollo y la aplicación de las ciencias, métodos y técnicas que proporcionen a los estudiantes elementos académicos y de formación humana, la promoción de estilos de vida saludables, la educación para la salud, la importancia de la donación de órganos, tejidos y sangre, para que puedan forjarse un proyecto de desarrollo personal que eleve su bienestar social con una visión global y de contexto, que les permita continuar sus estudios o decidir su incorporación al trabajo productivo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2025)</small>
+
+La educación media se podrá impartir en las modalidades y opciones educativas señaladas en esta Ley, como la educación dual con formación en escuela y empresa, y los que determine la Secretaría de Educación Pública en términos de la Ley General.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 109.
 
 La educación media superior podrá impartirse en las modalidades escolarizada, no escolarizada y mixta.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2025)</small>
+
+ARTICULO 109 BIS.- La modalidad de formación dual es una estrategia educativa, donde se conjugan las competencias desarrolladas en los espacios educativos, con las adquiridas en la práctica profesional, fortaleciendo y creando aptitudes del estudiante dual que le incrementarán las posibilidades de inserción laboral.
+
+Esta modalidad tiene por objetivo lograr una mayor pertinencia y empleabilidad de los egresados de educación media superior, al fortalecer sus competencias profesionales adquiridas en los planteles educativos, con una formación específica, acorde a las necesidades de las empresas de los sectores productivos de la región.
 
 ###### ARTICULO 110.
 
@@ -3440,6 +3454,14 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del pre
 P.O. 2 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 192 QUE CONTIENE REFORMA A LA FRACCIÓN LIV Y SE ADICIONA UNA FRACCIÓN LV, RECORRIÉNDOSE LA ANTERIOR PARA PASAR A SER LA FRACCIÓN LVI DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE ALIMENTACIÓN SALUDABLE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 5 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 193 QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE EDUCACIÓN DUAL”.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
