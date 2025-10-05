@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ingresos-del-estado-libre-y-soberano-de-durango-para-175
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-29"
-last_updated: "2024-12-29"
+last_updated: "2025-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número 104 Bis del Periódico Oficial del Estado de Durango, el domingo 29 de Diciembre de 2024.
 
@@ -305,11 +305,17 @@ El Poder Ejecutivo del Estado de Durango, con el apoyo de la Secretaría de Fina
 
 Las autorizaciones contenidas en el presente artículo, previo análisis del destino de los créditos así como de los instrumentos derivados, de la capacidad de pago del Estado, y del establecimiento de la fuente de pago, con el voto de, al menos, las dos terceras partes de los miembros presentes del Congreso del Estado, fueron autorizados conforme a lo dispuesto en los artículos 117, de la Constitución Política de los Estados Unidos Mexicanos, y demás relativos a la Ley de Disciplina Financiera y de Responsabilidad Hacendaria del Estado de Durango y sus Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 16.
 
-Con la finalidad de mitigar los riesgos de una alza en la tasa de interés de los financiamientos a cargo del Estado que constituyan su deuda pública, se autoriza al Estado de Durango, a través del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y de Administración, a contratar uno o más instrumentos derivados, siempre y cuando se encuentren asociados a financiamientos que se encuentren inscritos en el Registro Estatal de Deuda Púbica (sic) a cargo de la Secretaría de Finanzas y de Administración del Estado y en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios a cargo de la Secretaría de Hacienda y Crédito Público.
+Se autoriza al Estado de Durango, a través del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y de Administración, a contratar uno a (sic) más instrumentos derivados, cuyo destino y finalidad es mitigar los riesgos de una alza en la tasa de interés de los financiamientos a cargo del Estado que constituyan su deuda pública, siempre y cuando se encuentren asociados a financiamientos que se encuentren inscritos en el Registro Estatal de Deuda Pública a cargo de la Secretaría de Finanzas y de Administración del Estado y en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios a cargo de la Secretaría de Hacienda y Crédito Pública (sic); y de manera particular, los financiamientos que se describen a continuación:
 
-La Secretaría de Finanzas y de Administración podrá determinar el tipo de instrumento derivado, el monto a cubrir, el plazo y sus demás condiciones y características, en el entendido que el plazo de los instrumentos derivados no podrá exceder el plazo de los contratos de crédito a los que se encuentren asociados.
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 5 DE OCTUBRE DE 2025, PAGINAS DE LA 15 A LA 35.]</small>
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2025)</small>
+
+La Secretaría de Finanzas y de Administración podrá determinar el tipo de instrumento derivado y sus demás condiciones y características, en el entendido que el plazo de los instrumentos derivados antes señalado podrá contarse a partir de la celebración del instrumento derivado o de la fecha que se estipule para tal efecto, pero en ningún caso podrá exceder el plazo de los contratos de crédito a los que se encuentren asociados.
 
 Los instrumentos derivados que se contraten en términos del presente artículo podrán tener la misma fuente de pago de los contratos de crédito a los que se encuentren asociados, con la prelación que para tales efectos se estipule, en su caso, en el fideicomiso o mecanismo de pago correspondiente, o podrán tener como fuente de pago recursos propios del Estado, incluyendo, sin limitar, el porcentaje necesario y suficiente de recursos provenientes de participaciones que en ingresos federales corresponden al Estado del Fondo General de Participaciones, y/o ingresos locales del Estado provenientes del Impuesto Sobre Nóminas y/o del Impuesto sobre Tenencia o Uso de Vehículos y/o ingresos propios del Estado provenientes de Derechos por prestación de servicios y/o en general, cualquier ingreso del Estado susceptible de ser destinado al pago de los diferenciales que pudieran resultar a cargo del Estado, de los instrumentos derivados.
 
@@ -388,3 +394,13 @@ DR. ESTEBAN ALEJANDRO VILLEGAS VILLARREAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HÉCTOR EDUARDO VELA VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO”.]</small>
+
+P.O. 5 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 194 POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 16 DE LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL 2025”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
