@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-165
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-03-14"
-last_updated: "2023-03-14"
+last_updated: "2025-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165023&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2023-03-14"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL, PUBLICADO EN EL D.O.F. DE 6 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en la Edición Vespertina del Diario Oficial de la Federación, el martes 14 de marzo de 2023.
 
@@ -712,3 +714,15 @@ Quinto. Las erogaciones que, en su caso, se generen con motivo de la entrada en 
 Sexto. Cuando en términos del último párrafo del artículo 8 de este decreto, el auxilio que proporcione la Consejería Jurídica del Ejecutivo Federal al Órgano Interno de Control, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, para lo cual deben observar lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforma, adiciona y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 30 de noviembre de 2018 en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México a 14 de marzo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Adán Augusto López Hernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL".]
+
+Primero. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecutivo Federal publicado el 14 de marzo de 2023 en el Diario Oficial de la Federación y se derogan las disposiciones administrativas que se opongan al presente decreto.
+
+Tercero. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto se realizarán con cargo al presupuesto aprobado a la Consejería Jurídica del Ejecutivo Federal para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
