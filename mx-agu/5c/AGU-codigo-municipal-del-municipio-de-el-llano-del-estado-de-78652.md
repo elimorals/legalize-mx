@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2025-06-23"
+last_updated: "2025-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -3421,7 +3421,11 @@ XXXV. Expedir títulos de propiedad, permisos de exhumación, inhumación, y con
 
 XXXVI. Realizar el mantenimiento preventivo y correctivo en los cementerios y, supletoriamente, en las fosas tumbas y criptas de propiedad o en uso de particulares.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2025)</small>
+
 ### CAPÍTULO XIII. De la Dirección de Desarrollo Social
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 249.
 
@@ -3433,9 +3437,9 @@ II. Impulsar el mejoramiento del nivel de vida de los habitantes del municipio, 
 
 III. Impulsar a la sociedad atendiendo sus propuestas y necesidades generando acciones definidas para su propio desarrollo;
 
-IV. Ejecutar los planes y programas de desarrollo social y económico del municipio;
+IV. Ejecutar los planes y programas de desarrollo social del municipio;
 
-V. Concertar con la sociedad acuerdos de carácter social, político y económico entre el Municipio y grupos sociales;
+V. Concertar con la sociedad acuerdos de carácter social entre el Municipio y grupos sociales;
 
 VI. Fomentar la participación ciudadana para la concertación de intereses, esfuerzos y voluntades para llegar al desarrollo integral de la Comunidad;
 
@@ -3447,47 +3451,165 @@ IX. Elaborar, ejecutar, supervisar, evaluar y actualizar los planes y programas 
 
 X. Las demás que le confiera el presente Código y demás ordenamientos aplicables.
 
-### CAPÍTULO XIV. Del Departamento de Desarrollo Económico, Turismo y Asuntos Internacionales
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 249 BIS.- Corresponde al Coordinador de Juventud y Deporte:
+
+I. Diseñar, coordinar y ejecutar políticas públicas municipales dirigidas al desarrollo integral de la juventud y el fomento al deporte.
+
+II. Promover la participación activa de los jóvenes en actividades sociales, culturales, educativas, deportivas y recreativas.
+
+III. Fomentar y coordinar programas de prevención de adicciones, violencia y otros factores de riesgo en jóvenes, en colaboración con otras dependencias.
+
+IV. Diseñar y organizar eventos deportivos, recreativos y culturales que fomenten la convivencia y la inclusión social.
+
+V. Impulsar la creación y mantenimiento de espacios públicos deportivos y recreativos, en coordinación con Obras Públicas u otras áreas según corresponda.
+
+VI. Apoyar el talento juvenil deportivo y cultural, brindando becas, reconocimientos o recursos municipales.
+
+VII. Establecer vínculos con instituciones educativas, organizaciones civiles y organismos estatales o federales para fortalecer programas juveniles y deportivos.
+
+VIII. Llevar un registro y diagnóstico actualizado de las condiciones y necesidades de la juventud y del deporte en el municipio.
+
+IX. Proponer ante el Ayuntamiento proyectos, campañas o reformas normativas relacionados con juventud y deporte.
+
+X. Supervisar y evaluar el impacto de los programas y actividades desarrolladas por la coordinación a su cargo.
+
+XI. Fungir como enlace entre el gobierno municipal y los jóvenes, promoviendo canales de comunicación directa y efectiva.
+
+XII. Promover la inclusión y equidad de género en las actividades juveniles y deportivas.
+
+XIII. Gestionar recursos financieros, materiales y humanos necesarios para el cumplimiento de sus funciones.
+
+XIV. Rendir informes de actividades, avances, resultados y demás información relacionada con el cumplimiento de sus funciones, al titular de la Dirección correspondiente y, en su caso, al Presidente Municipal, cuando así se le requiera.
+
+XV. Las demás que le confieran o sean asignadas por el titular de la Dirección correspondiente o por el Presidente Municipal, siempre que estén relacionados con el ámbito de sus atribuciones y no contravengan la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 249 TER.- Corresponde al Departamento de Cultura:
+
+I. Diseñar, coordinar y ejecutar la política cultural municipal, en concordancia con los planes de desarrollo municipal.
+
+II. Fomentar el acceso, la promoción y la difusión de la cultura y las artes entre todos los sectores de la población.
+
+III. Planear, organizar y supervisar eventos culturales, como festivales, exposiciones, conciertos, talleres y concursos.
+
+IV. Impulsar la formación artística y cultural, mediante cursos, programas y actividades permanentes.
+
+V. Preservar, rescatar y difundir el patrimonio cultural y artístico del municipio.
+
+VI. Establecer vínculos con instituciones educativas, artísticas y culturales, tanto públicas como privadas, para desarrollar proyectos conjuntos a favor del Municipio.
+
+VII. Apoyar a creadores, artistas, promotores culturales y agrupaciones locales, mediante convocatorias, estímulos o espacios para su expresión dentro o fuera del Municipio.
+
+VIII. Coordinar el uso y aprovechamiento de casas de cultura, bibliotecas, museos y espacios culturales municipales.
+
+IX. Proponer la celebración de convenios con instancias estatales, federales o internacionales en materia de cultura y arte.
+
+X. Realizar diagnósticos, censos y estudios sobre el quehacer cultural en el municipio, como base para políticas públicas y/o programas sociales en materia de cultura.
+
+XI. Promover la inclusión y la participación ciudadana en actividades culturales, con especial atención a grupos vulnerables.
+
+XII. Gestionar recursos financieros, materiales y humanos necesarios para la operación de programas culturales.
+
+XIII. Supervisar al personal a su cargo y evaluar el cumplimiento de metas y objetivos del departamento.
+
+XIV. Rendir informes de actividades, avances, resultados y demás información relacionada con el cumplimiento de sus funciones, al titular de la Dirección correspondiente y, en su caso, al Presidente Municipal, cuando así se le requiera.
+
+XV. Las demás que le confieran o sean asignadas por el titular de la Dirección correspondiente o por el Presidente Municipal, siempre que estén relacionados con el ámbito de sus atribuciones y no contravengan la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 249 QUÁTER.- Corresponde al Departamento de Atención al Migrante:
+
+I. Diseñar, implementar y evaluar políticas municipales orientadas a la atención, protección e integración de personas migrantes, tanto nacionales como extranjeras.
+
+II. Brindar asistencia, orientación y acompañamiento a personas migrantes y sus familias en trámites administrativos, legales y consulares.
+
+III. Establecer mecanismos de coordinación con dependencias federales, estatales y municipales, así como con consulados y organizaciones civiles, para la atención integral de personas migrantes.
+
+IV. Promover programas de reunificación familiar y repatriación asistida, en coordinación con las autoridades competentes.
+
+V. Desarrollar acciones y campañas informativas sobre derechos humanos, riesgos del proceso migratorio y opciones de regularización migratoria.
+
+VI. Fomentar la vinculación productiva y laboral de migrantes repatriados, así como su inclusión en programas sociales y educativos municipales.
+
+VII. Gestionar apoyos y recursos para migrantes y sus familias, como becas, apoyos económicos, asesoría legal, psicológica o médica.
+
+VIII. Llevar un registro municipal de migrantes y sus familias, así como elaborar diagnósticos, estadísticas y reportes sobre la migración en el municipio.
+
+IX. Coordinar la atención en casos de emergencia humanitaria, detenciones, deportaciones, desapariciones o fallecimientos de migrantes originarios del municipio.
+
+X. Promover la cultura de respeto, inclusión y no discriminación hacia personas migrantes, mediante campañas informativas, talleres y eventos comunitarios.
+
+XI. Promover actividades con las comunidades migrantes en el extranjero, para fortalecer la identidad, la cultura y el vínculo con el municipio de origen.
+
+XII. Impulsar la creación y operación de clubes de migrantes o comités de enlace, tanto en el municipio como en el extranjero.
+
+XIII. Supervisar al personal adscrito al Departamento de Atención al Migrante, garantizando el cumplimiento de metas y el trato digno a los beneficiarios.
+
+XIV. Rendir informes de actividades, avances, resultados y demás información relacionada con el cumplimiento de sus funciones, al titular de la Dirección correspondiente y, en su caso, al Presidente Municipal, cuando así se le requiera.
+
+XV. Las demás que le confieran o sean asignadas por el titular de la Dirección correspondiente o por el Presidente Municipal, siempre que estén relacionados con el ámbito de sus atribuciones y no contravengan la normatividad aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO XIV. De la Dirección de Desarrollo Rural, Económico y Agropecuario
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 250.
 
-Corresponde al Departamento de Desarrollo Económico, Turismo y Asuntos Internacionales:
+Corresponde a la Dirección de Desarrollo Rural, Económico y Agropecuario:
 
-I. Gestionar y aplicar los programas de economía, turismo, asuntos internacionales de las diversas instancias tanto federales como estatales;
+I. Elaborar y ejecutar programas de desarrollo rural, económico y agropecuario en coordinación con autoridades estatales y federales.
 
-II. Promover en el Municipio de El Llano el desarrollo Económico, el Turismo y las relaciones Internacionales;
+II. Promover el crecimiento económico local, incentivando la inversión productiva, el emprendimiento y el empleo en el municipio.
 
-III. Formar y coordinar grupos de trabajo para la formación de proyectos económicos integrales;
+III. Diseñar y aplicar políticas públicas para el Desarrollo económico, rural, agropecuario, incluyendo la agricultura, ganadería, acuacultura y actividades forestales; así como el sector turístico del Municipio.
 
-IV. La aplicación de los recursos económicos destinados para tal efecto a los diferentes proyectos y servir de enlace con las diferentes dependencias, tanto federales como estatales;
+IV. Fomentar la capacitación y asistencia técnica a productores, emprendedores y organizaciones del sector rural, económico, agropecuario y turístico del Municipio.
 
-V. Promover y fomentar el desarrollo turístico, mediante la elaboración de proyectos integrales donde se exploten los sitios turísticos del Municipio de El Llano;
+V. Gestionar recursos y apoyos ante dependencias estatales y federales, para el fortalecimiento del sector rural, económico, agropecuario y turístico del municipio.
 
-VI. Integrar el Padrón Municipal de los Industriales, Empresarios y Comerciantes del Municipio;
+VI. Establecer vínculos con instituciones educativas y de investigación para el desarrollo tecnológico e innovación en actividades agropecuarias, económicas y turísticas.
 
-VII. Difundir ampliamente los programas del ámbito estatal y federal que tengan relación con el Desarrollo Económico; y
+VII. Impulsar la comercialización de productos locales, mediante ferias, mercados, eventos y convenios con empresas, instituciones, otros Municipios, Estados y la Federación.
 
-VIII. Las demás que determine el presente Código y las demás disposiciones jurídicas aplicables.
+VIII. Proponer, coordinar, ejecutar y supervisar programas de financiamiento o microcréditos, orientados a productores rurales y microempresas locales.
 
-### CAPÍTULO XV. Del Departamento de Desarrollo Rural Sustentable
+IX. Llevar un registro actualizado de las unidades de producción rural, empresas y comercios, así como del padrón de beneficiarios de programas.
 
-###### ARTÍCULO 251.
+X. Fomentar la organización de los productores en asociaciones, cooperativas o sociedades de producción rural.
 
-Corresponde al Departamento de Desarrollo Rural Sustentable:
+XI. Promover prácticas sustentables y de conservación ambiental en las actividades productivas rurales.
 
-I. Gestionar y aplicar los programas de desarrollo rural de las instancias tanto federales como estatales;
+XII. Promover acciones para la prevención y atención de contingencias agropecuarias, como sequías, plagas o enfermedades.
+
+XIII. Supervisar el cumplimiento de reglamentos municipales en materia agropecuaria, comercial, económica y turística.
+
+XIV. Emitir opiniones técnicas o dictámenes en proyectos de impacto económico o rural en el municipio.
+
+XV. Rendir informes de actividades, avances, resultados y demás información relacionada con el cumplimiento de sus funciones al Presidente Municipal, cuando así se le requiera.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 250 BIS.- Corresponde al Departamento de Desarrollo Rural y Agropecuario:
+
+I. Gestionar y aplicar los programas de desarrollo rural de las instancias tanto federales como estatales dentro del Municipio;
 
 II. Promover en el Municipio de El Llano el desarrollo rural sustentable;
 
-III. Formar y coordinar grupos de trabajo para la formación de proyectos agropecuarios integrales;
+III. Proponer la formación y coordinación de grupos de trabajo para la formación de proyectos agropecuarios integrales;
 
-IV. La aplicación de los recursos económicos destinados para tal efecto a los diferentes proyectos y servir de enlace con las diferentes dependencias, tanto federales como estatales;
+IV. Coordinar la aplicación de los recursos económicos destinados para tal efecto a los diferentes proyectos y servir de enlace con las diferentes dependencias, tanto federales como estatales;
 
 V. Proporcionar asesoría técnica a la población en cuanto a la rama agropecuaria;
 
 VI. Integrar el Padrón Municipal de Productores Agropecuarios del Municipio;
 
-VII. Difundir ampliamente los programas del ámbito estatal y federal que tengan relación con el Desarrollo Agropecuario con el propósito de fortalecer la economía de los productores;
+VII. Difundir ampliamente los programas del ámbito estatal y federal que tengan relación con el Desarrollo Agropecuario con el propósito de fortalecer la economía de los productores locales;
 
 VIII. Promover la conservación de los recursos naturales del Municipio:
 
@@ -3497,57 +3619,85 @@ B. Promoviendo la reforestación en todo el municipio e incrementar la flora y f
 
 C. Buscando la constitución de áreas de reserva ecológica en el Municipio de El Llano;
 
-IX. Colaborar y dar seguimiento a las actividades del Consejo Municipal del Desarrollo Rural Sustentable, en la materia;
+IX. Rendir informes de actividades, avances, resultados y demás información relacionada con el cumplimiento de sus funciones, al titular de la Dirección correspondiente y, en su caso, al Presidente Municipal, cuando así se le requiera.
 
-X. Promover al interior de la Comisión de Planeación para el Desarrollo Municipal y del Consejo Municipal del Desarrollo Rural Sustentable, la elaboración, aplicación y evaluación del Plan Municipal de Desarrollo Rural Sustentable; y
+X. Las demás que le confieran o sean asignadas por el titular de la Dirección correspondiente o por el Presidente Municipal, siempre que estén relacionados con el ámbito de sus atribuciones y no contravengan la normatividad aplicable.
 
-XI. Las demás que determine el presente Código y las demás disposiciones jurídicas aplicables.
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 250 TER.- Corresponde al Departamento de Desarrollo Económico:
+
+I. Gestionar y aplicar los programas de índole económico, de las diversas instancias tanto federales como estatales;
+
+II. Promover en el Municipio de El Llano el desarrollo Económico, en todos sus rubros;
+
+III. Proponer la formación y coordinación de grupos de trabajo para la formación de proyectos económicos integrales;
+
+IV. Coordinar la aplicación de los recursos económicos destinados para tal efecto a los diferentes proyectos y servir de enlace con las diferentes dependencias, tanto federales como estatales;
+
+VI. Integrar el Padrón Municipal de los Industriales, Empresarios y Comerciantes del Municipio;
+
+VII. Difundir ampliamente los programas del ámbito estatal y federal que tengan relación con el Desarrollo Económico y de Mejora Regulatoria.
+
+VIII. Rendir informes de actividades, avances, resultados y demás información relacionada con el cumplimiento de sus funciones, al titular de la Dirección correspondiente y, en su caso, al Presidente Municipal, cuando así se le requiera.
+
+IX. Las demás que le confieran o sean asignadas por el titular de la Dirección correspondiente o por el Presidente Municipal, siempre que estén relacionados con el ámbito de sus atribuciones y no contravengan la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 250 QUATER.- Corresponde a la Coordinación de Turismo:
+
+I. Promover y fomentar el desarrollo turístico, mediante la elaboración de proyectos integrales en los cuales se exploten los sitios turísticos del Municipio de El Llano;
+
+II. Diseñar, coordinar e implementar la política turística del municipio, alineada con los planes estatal y nacional de desarrollo turístico.
+
+III. Fomentar el desarrollo de la actividad turística como motor económico local, promoviendo la inversión y la generación de empleo.
+
+IV. Diseñar e implementar campañas de promoción turística, a nivel local, estatal, nacional e internacional.
+
+V. Proponer, identificar, preservar, mejorar y difundir el patrimonio turístico natural, histórico y cultural del municipio.
+
+VI. Elaborar y actualizar el inventario de atractivos, servicios e infraestructura turística del municipio.
+
+VII. Coordinarse con prestadores de servicios turísticos, cámaras empresariales, organizaciones civiles e instituciones educativas para fortalecer la oferta turística.
+
+VIII. Fomentar ferias, festivales, rutas turísticas, eventos culturales o gastronómicos que fortalezcan la identidad local y atraigan visitantes, con participación ciudadana.
+
+IX. Promover la capacitación de guías turísticos, emprendedores y personal del sector, en coordinación con instancias estatales y federales.
+
+X. Gestionar recursos financieros y materiales ante instancias públicas o privadas para el desarrollo de proyectos turísticos.
+
+XI. Supervisar la calidad y seguridad de los servicios turísticos ofrecidos en el municipio, en coordinación con otras dependencias, según corresponda.
+
+XII. Impulsar el turismo sostenible, inclusivo y accesible, respetando el medio ambiente y la diversidad cultural.
+
+XIII. Coordinar el diseño, colocación y actualización de señalética e infraestructura turística, como módulos de información, mapas, directorios.
+
+XIV. Fomentar convenios de colaboración con municipios, estados, organismos nacionales e internacionales en materia de turismo.
+
+XV. Rendir informes de actividades, avances, resultados y demás información relacionada con el cumplimiento de sus funciones, al titular de la Dirección correspondiente y, en su caso, al Presidente Municipal, cuando así se le requiera.
+
+XVI. Las demás que le confieran o sean asignadas por el titular de la Dirección correspondiente o por el Presidente Municipal, siempre que estén relacionados con el ámbito de sus atribuciones y no contravengan la normatividad aplicable.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO XV. Del Departamento de Desarrollo Rural Sustentable
+
+###### ARTÍCULO 251.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2025)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE OCTUBRE DE 2025)</small>
 
 ### CAPÍTULO XVI. Del Departamento de Educación, Cultura y Deporte
 
 ###### ARTÍCULO 252.
 
-Corresponde al Departamento de Educación, Cultura y Deporte:
-
-I. Promover y fomentar en el Municipio de El Llano la formación deportiva entre la niñez y juventud para el sano desarrollo;
-
-II. Organizar, coordinar y ejecutar los eventos de las diferentes ramas de las disciplinas deportivas;
-
-III. Realizar el inventario de espacios destinados a la práctica del deporte, en las diversas disciplinas;
-
-IV. Conformar el Sistema Municipal del Deporte;
-
-V. Promover la adecuación, rehabilitación y mejoramiento de espacios destinados a la práctica deportiva;
-
-VI. Coordinar trabajos de organización y realización de actividades deportivas en coordinación con las ligas organizadas de deportistas;
-
-VII. Impulsar la organización formal de Ligas Deportivas, la elaboración de sus estatutos, reglamentos y su registro ante los Sistemas Estatal y Nacional del Deporte;
-
-VIII. Observar y canalizar los talentos deportivos y culturales a las instancias que correspondan, dando todo el apoyo necesario para tal efecto;
-
-IX. Asistir a las capacitaciones que se impartan en las instancias deportivas y culturales;
-
-X. Coadyuvar en la conformación, capacitación y organización de asociaciones de jueceo y arbitraje de las diferentes disciplinas deportivas que se practiquen en el Municipio;
-
-XI. Acordar con el Presidente Municipal el despacho de los asuntos que le correspondan; y
-
-XII. Así como las acciones tendientes a mejorar la cultura de los habitantes en el Municipio de El Llano.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2025)
 
 ARTÍCULO 252 BIS.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
-
-ARTÍCULO 252 TER.- El Departamento del Patronato de La Feria tendrá por objeto promover y organizar la Feria Regional de El Llano, Aguascalientes. Misma que se efectuará cada año en la fecha que establezca este mismo; en la cual se realizarán exposiciones, subastas, o cualquier otro tipo de evento que fomente la cultura, ciencia, artes, conservación ecológica, recreación, industria, comercio, artesanías, así como la actividad agropecuaria.
-
-Son objetivos del Patronato:
-
-I. Administrar, conservar, ampliar y mejorar de manera permanente las diferentes instalaciones de la Feria;
-
-II. Promover y difundir entre la población local, nacional y extranjera, las diferentes actividades que se organicen en las instalaciones que se administren;
-
-III. Celebrar toda clase de actos jurídicos y contratos, necesarios para la realización de los fines del Organismo; Cumpliendo para ello con las formalidades que señale la legislación vigente; y
-
-IV. Realizar las demás actividades que sean necesarias para (sic) ejercicio de las facultades anteriores, así como la compra, arrendamiento y subarrendamiento de toda clase de bienes muebles o inmuebles, derechos reales o personales que se hagan necesarios para la obtención de los fines anteriormente descritos.
+ARTÍCULO 252 TER.- (DEROGADO, P.O. 6 DE OCTUBRE DE 2025)
 
 ### CAPÍTULO XVII. De la Dirección de Obras Públicas y Planeación
 
@@ -17474,6 +17624,18 @@ SEGUNDO.- Se faculta y se instruye a la Secretaria del H. Ayuntamiento para que 
 P.O. 23 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DE LA “REFORMA Y ADICIÓN DE VARIOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE EL LLANO EN MATERIA DEL ÓRGANO INTERNO DE CONTROL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto surte efectos a partir de su aprobación por este Cuerpo Colegiado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA Y ADICIÓN DE VARIOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE EL LLANO EN MATERIA DE LAS DIRECCIONES DE DESARROLLO SOCIAL Y DESARROLLO RURAL, ECONÓMICO Y AGROPECUARIO".]
 
 ###### ARTÍCULO PRIMERO.
 
