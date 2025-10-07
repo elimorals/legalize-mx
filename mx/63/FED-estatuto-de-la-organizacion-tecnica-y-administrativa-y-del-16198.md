@@ -4,7 +4,7 @@ identifier: "FED-estatuto-de-la-organizacion-tecnica-y-administrativa-y-del-1619
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-05-22"
-last_updated: "2000-05-22"
+last_updated: "2025-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16198&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-04-26"
 
 ESTATUTO DE LA ORGANIZACION TECNICA Y ADMINISTRATIVA Y DEL SERVICIO DE CARRERA DE LA CAMARA DE DIPUTADOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE OCTUBRE DE 2025.
 
 Estatuto publicado en la Sección Primera del Diario Oficial de la Federación, el lunes 22 de mayo de 2000.
 
@@ -2341,9 +2341,11 @@ e) Las demás que se deriven del presente Estatuto y de las normas, disposicione
 
 ## TÍTULO CUARTO. De la Contraloría Interna.
 
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 153.
 
-La Contraloría Interna es el órgano técnico encargado de recibir quejas, realizar investigaciones, llevar a cabo auditorías y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos de la Cámara y se ubica en el ámbito de la Conferencia, según lo dispone el artículo 53 de la Ley Orgánica.
+La Contraloría Interna es el órgano técnico encargado de recibir quejas, realizar investigaciones, llevar a cabo auditorías y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas cometidas por las personas que desempeñen algún empleo, cargo o comisión en la Cámara, Canal del Congreso y/o en contra de los particulares que hayan efectuado conductas vinculadas con faltas administrativas graves, recibir y resguardar las declaraciones de situación patrimonial y de intereses, realizar el proceso de verificación de evolución patrimonial e intereses, en su caso, emitir el certificado de no anomalías, participar en actos de fiscalización en materia de adquisiciones, obra pública y servicios relacionados con las mismas, vigilar el cumplimiento de la Norma en materia de entrega y recepción, practicar evaluaciones del desempeño, así como emitir opiniones a los proyectos de actualización de la normatividad interna, tutelar los derechos de acceso a la información y la protección de datos personales, conocer y resolver los recursos de revisión interpuestos por personas solicitantes y se ubica en el ámbito de la Conferencia, según lo dispone el artículo 53 de la Ley Orgánica.
 
 ###### Artículo 154.
 
@@ -2371,29 +2373,79 @@ c) Verificar que las unidades administrativas de la Cámara cumplan con los acue
 
 d) Colaborar con la entidad de fiscalización superior de la federación de la Cámara en los procedimientos que se establezcan para la revisión de la Cuenta Pública;
 
-e) Recibir y atender las quejas y denuncias que conforme al artículo 49 de la Ley Federal de Responsabilidades de los Servidores Públicos se presenten por probable responsabilidad administrativa de los servidores públicos de la Cámara;
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
 
-f) Instruir y resolver los recursos que hagan valer los servidores públicos de la Cámara respecto a las resoluciones por las que se impongan sanciones administrativas en su contra;
+e) Recibir y atender las quejas y denuncias que conforme a la Ley General de Responsabilidades Administrativas se presenten por probable responsabilidad administrativa de las personas servidoras públicas de la Cámara;
+
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+f) Instruir y resolver los recursos que hagan valer las personas servidoras públicas de la Cámara respecto a las resoluciones por las que se impongan sanciones administrativas en su contra;
 
 g) Atender las inconformidades que presenten los proveedores o contratistas en los procedimientos de adjudicación de adquisiciones, arrendamientos, servicios, enajenaciones y obra pública que realice la Cámara;
 
-h) Participar, opinar, y asesorar en su caso, sobre los procedimientos de adquisiciones, prestación de servicios y obra pública, así como en los de enajenación de bienes de la Cámara; y
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
 
-i) Las que le encomiende la Conferencia, así como las demás que las disposiciones legales y normativas le faculten.
+h) Participar, opinar y asesorar en su caso, sobre los procedimientos de adquisiciones, prestación de servicios y obra pública, así como en los de enajenación de bienes en la Cámara;
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+i) Vigilar la participación en los actos de fiscalización en materia de adquisiciones, obra pública y servicios relacionados con las mismas;
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+j) Vigilar el cumplimiento de la Norma en materia de entrega y recepción;
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+k) Emitir opiniones a los proyectos de actualización de la normatividad interna;
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+l) Verificar el resguardo y registro de las declaraciones de situación patrimonial y de intereses, dar seguimiento a la evolución patrimonial que presenten las personas servidoras públicas;
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+m) Supervisar el seguimiento a la evolución patrimonial de los declarantes y, en su caso, instruir la ejecución de investigaciones para verificar la evolución de su patrimonio;
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+n) Asegurar la tutela del derecho de acceso a la información y la protección de datos personales;
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+o) Conocer y resolver los recursos de revisión interpuestos por las personas solicitantes;
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+p) Presentar a la Conferencia un informe trimestral sobre el cumplimiento de sus funciones, y
+
+(REUBICADO, D.O.F. 7 DE OCTUBRE DE 2025)
+
+q) Las que le encomiende la Conferencia, así como las demás que las disposiciones legales y normativas le faculten.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 158.
 
-La Contraloría Interna contará con las direcciones de Auditoría, de Evaluación y Seguimiento y, de Quejas, Denuncias e Inconformidades.
+La Contraloría Interna contará con las Direcciones Generales de Auditoría; de Control y Evaluación; de Quejas, Denuncias e Inconformidades; y de Situación y Evolución Patrimonial.
 
-1. A la Dirección de Auditoría le corresponden las funciones y tareas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE OCTUBRE DE 2025)</small>
 
-a) Elaborar, aplicar y verificar el cumplimiento del programa anual de control y auditoría;
+1. A la Dirección General de Auditoría le corresponden las funciones y tareas siguientes:
 
-b) Realizar las auditorías conforme al programa anual de control y auditoría y elaborar los informes de los resultados obtenidos;
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+a) Elaborar, aplicar y verificar el cumplimiento del programa anual de auditoría;
+
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+b) Realizar las auditorías conforme al programa anual de auditoría y elaborar los informes de los resultados obtenidos;
 
 c) Vigilar que el manejo y aplicación de los recursos financieros, humanos y materiales se lleven a cabo de acuerdo con las disposiciones aplicables;
 
-d) Convocar y participar en la aclaración de las observaciones con los titulares de las Unidades Administrativas auditadas, así como llevar el seguimiento de las observaciones pendientes de solventar;
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+d) Convocar y participar en la aclaración de las observaciones con las personas titulares de las Unidades Administrativas auditadas, así como llevar el seguimiento de las observaciones pendientes de solventar;
 
 e) Participar en los diversos actos de fiscalización conforme a las atribuciones de la Contraloría Interna;
 
@@ -2401,29 +2453,75 @@ f) Fungir como enlace con la entidad de fiscalización superior de la federació
 
 g) Las demás que se deriven del presente Estatuto y de las normas, disposiciones y acuerdos aplicables.
 
-2. A la Dirección de Evaluación y Seguimiento le corresponden las funciones y tareas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE OCTUBRE DE 2025)</small>
 
-a) Diseñar, implantar y supervisar la operación del sistema integral de control y evaluación de la gestión de las unidades administrativas de la Cámara y someterlo a consideración del titular de la Contraloría Interna;
+2. A la Dirección General de Control y Evaluación le corresponden las funciones y tareas siguientes:
 
-b) Llevar a cabo la evaluación y el seguimiento de los programas asignados a las unidades administrativas de la Cámara mediante el sistema integral de control y evaluación;
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+a) Diseñar, implantar y supervisar la operación del programa anual de evaluación y someterlo a consideración de la persona titular de la Contraloría Interna;
+
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+b) Llevar a cabo la evaluación y el seguimiento de los programas asignados a las unidades administrativas de la Cámara;
 
 c) Asesorar a las unidades responsables de la Cámara, en aspectos de proceso administrativo, que coadyuven a elevar la eficiencia de las mismas, en el marco de sus objetivos y atribuciones;
 
-d) Elaborar el informe trimestral del cumplimiento de las funciones de la Contraloría Interna; y
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
 
-e) Las demás que se deriven del presente Estatuto y de las normas, disposiciones y acuerdos aplicables.
+d) Participar en los actos de control y verificación;
 
-3. A la Dirección de Quejas, Denuncias e Inconformidades le corresponden las funciones y tareas siguientes:
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
 
-a) Atender, en el ámbito de su competencia, las quejas, denuncias e inconformidades interpuestas contra servidores públicos de la Cámara, en el desempeño de sus funciones o con motivo de ellas, previstas en la Ley Federal de Responsabilidades de los Servidores Públicos;
+e) Vigilar el cumplimiento de la Norma en materia de entrega y recepción;
 
-b) Investigar y en su caso determinar, las responsabilidades administrativas que procedan e instruir los procedimientos administrativos correspondientes, así como imponer las sanciones aplicables;
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
 
-c) Recibir y dictar las resoluciones correspondientes por las inconformidades que hagan valer los proveedores y los contratistas de la Cámara;
+f) Emitir opiniones a los proyectos de actualización de la normatividad interna en materia administrativa, y
+
+(REUBICADO, D.O.F. 7 DE OCTUBRE DE 2025)
+
+g) Las demás que se deriven del presente Estatuto y de las normas, disposiciones y acuerdos aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+3. A la Dirección General de Quejas, Denuncias e Inconformidades corresponden las funciones y tareas siguientes:
+
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+a) Atender, en el ámbito de su competencia, las quejas, e inconformidades presentadas en términos de las leyes aplicables, así como recibir las denuncias interpuestas en contra de personas que desempeñen algún empleo, cargo o comisión en la Cámara, Canal del Congreso y/o particulares cuyas conductas estén vinculadas con faltas administrativas graves;
+
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+b) Investigar y en su caso, calificar en términos de la ley de la materia, la falta administrativa cometida a efecto de emitir el Informe de Presunta Responsabilidad Administrativa e instruir los procedimientos administrativos correspondientes, así como imponer, tratándose de faltas administrativas no graves, las sanciones aplicables;
+
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+c) Recibir y dictar las resoluciones correspondientes por las inconformidades que hagan valer los proveedores y los contratistas de la Cámara y/o del Canal del Congreso;
 
 d) Difundir la normatividad en materia de responsabilidades administrativas e inconformidades y representar a la Contraloría Interna conforme a sus atribuciones; y
 
-f) (sic) Las demás que se deriven del presente Estatuto y de las normas, disposiciones y acuerdos aplicables.
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+e) Las demás que se deriven del presente Estatuto y de las normas, disposiciones y acuerdos aplicables.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 7 DE OCTUBRE DE 2025)</small>
+
+4. A la Dirección General de Situación y Evolución Patrimonial le corresponden las funciones y tareas siguientes:
+
+a) Supervisar y controlar la administración e integración del padrón de personas servidoras públicas de la Cámara de Diputados obligadas a presentar declaración de situación patrimonial, declaración de intereses y constancia de presentación de declaración fiscal;
+
+b) Supervisar y controlar la recepción, registro, acceso, modificación, actualización, depuración, manejo, digitalización y resguardo de las declaraciones y constancias que se presenten en formato físico y electrónico;
+
+c) Realizar el análisis de la evolución patrimonial e intereses de las personas servidoras públicas de la Cámara de Diputados, con el fin de advertir que el haber patrimonial sea congruente con lo declarado;
+
+d) Supervisar y controlar el proceso de verificación de evolución patrimonial e intereses;
+
+e) Expedir certificaciones de documentos, que conforme las atribuciones de la Dirección General, obren en sus archivos;
+
+f) Expedir el certificado de no anomalías en la evolución patrimonial de las personas servidoras públicas, y
+
+g) Las demás que se deriven del presente Estatuto y de las normas, disposiciones y acuerdos aplicables.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2456,3 +2554,13 @@ Todos los servidores públicos de confianza en funciones seguirán ocupando sus 
 NOVENO.- El artículo 119 del presente Estatuto entrará en vigor el primero de enero del año 2002.
 
 SALÓN DE SESIONES DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN.- México, D.F., a 26 de abril de 2000.- El Presidente, Francisco José Paoli Bolio.- Rúbrica.- La Secretaria, Marta Laura Carranza Aguayo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA Y DEL SERVICIO DE CARRERA DE LA CÁMARA DE DIPUTADOS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno.
+
+Segundo.- Publíquese en el Diario Oficial de la Federación.
