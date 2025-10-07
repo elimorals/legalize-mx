@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-fiscalia-general-del-estado-de-michoacan-134
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-02-19"
-last_updated: "2025-03-08"
+last_updated: "2025-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MIC"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE MICHOACAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN DE OCAMPO, AL SERVICIO DE LAS VÍCTIMAS, PUBLICADA EN EL P.O. DE 7 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Octava Sección al Número 89 del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 19 de febrero de 2019.
 
@@ -1246,3 +1248,31 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo (sic), así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 7 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 242 POR EL QUE “SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN DE OCAMPO, AL SERVICIO DE LAS VÍCTIMAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. A la entrada en vigor del presente Decreto se abroga la Ley Orgánica de la Fiscalía General del Estado de Michoacán, publicada mediante Decreto 123 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 19 de febrero de 2019.
+
+TERCERO. El Reglamento de esta ley deberá expedirse en un plazo no mayor a sesenta días naturales, contados a partir del día siguiente al de su entrada en vigor.
+
+CUARTO. Los acuerdos administrativos emitidos anteriormente, deberán ser actualizados y publicados en un plazo no mayor a ciento ochenta días naturales, hasta en tanto se seguirán aplicando las disposiciones reglamentarias vigentes.
+
+QUINTO. La Fiscalía tendrá treinta días hábiles para dotar de los recursos humanos y materiales a las unidades administrativas de nueva creación y en su caso para la redistribución de la estructura orgánica.
+
+SEXTO. La Fiscalía deberá de continuar con las acciones administrativas y legales necesarias para la formalización de su patrimonio.
+
+SÉPTIMO. Para la entrada en vigor del ecosistema tecnológico, la Fiscalía General contará con un plazo de seis meses para su puesta en operación, así como para celebrar todos aquellos convenios con los Poderes Constitucionales y cualquier otra autoridad o prestador de servicios, necesarios para que entre en función y operatividad.
+
+OCTAVO. Los asuntos en trámite o pendientes de resolución que se iniciaron como Contraloría de la Fiscalía General del Estado, a la entrada en vigor de la presente Ley, seguirán rigiéndose por la legislación vigente al momento que fueron expedidos.
+
+NOVENO. A partir del ejercicio fiscal 2026, la Fiscalía General deberá diseñar e implementar un Programa Integral de Dignificación Laboral y Salarial, dirigido al personal sustantivo de la institución, comprendiendo al Ministerio Público, Policías de Investigación, Peritos, así como a los servidores públicos de naturaleza técnica, científica, jurídica, administrativa o adscritos a las diversas unidades o áreas que conforman la Fiscalía.
+
+Este programa tendrá por objeto mejorar las condiciones laborales, garantizar una remuneración digna y competitiva, fomentar la capacitación y profesionalización continua, e instituir esquemas de estímulos, incentivos y recompensas vinculados al desempeño, compromiso y resultados en el servicio público.
+
+La implementación del Programa deberá ajustarse a los criterios de disciplina financiera aplicables, por lo que la Fiscalía General, por conducto de su área administrativa competente, realizará la estimación correspondiente del impacto presupuestario, asegurando que su aprobación y ejecución se mantengan dentro de un balance presupuestario sostenible y conforme a su capacidad financiera institucional.
+
+DÉCIMO. La Fiscalía General deberá remitir anualmente al Congreso del Estado, un informe detallado sobre los avances, resultados y retos en la implementación del Programa Integral de Dignificación Laboral y Salarial, a fin de garantizar la transparencia, la rendición de cuentas y la evaluación permanente del cumplimiento de los objetivos previstos.
