@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-76202"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-18"
-last_updated: "2023-10-05"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY ELECTORAL DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 18 de agosto de 2010.
 
@@ -2151,11 +2153,13 @@ Las mesas directivas de casilla son los órganos que tienen a su cargo la recepc
 
 #### SECCIÓN ÚNICA. Del Titular del Órgano Interno de Control y sus Facultades
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 101.
 
-El Instituto Estatal Electoral contará con un Órgano Interno de Control, dotado con autonomía técnica y de gestión, que tendrá a su cargo la fiscalización de todos los recursos y programas con que cuente el Instituto.
+El Instituto Estatal Electoral de Nayarit contará con un Órgano Interno de Control, dotado con autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; encargado de prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de personas servidoras públicas del Instituto y de particulares vinculados con faltas no graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa de Nayarit; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos a cargo del Instituto; así como la fiscalización de los ingresos y egresos del Instituto.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 En su desempeño el Órgano Interno de Control se sujetará a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
@@ -2163,7 +2167,11 @@ En su desempeño el Órgano Interno de Control se sujetará a los principios de 
 
 El titular del Órgano Interno de Control del Instituto será designado por el Congreso del Estado, a través del procedimiento que determina la Ley Orgánica del Poder Legislativo del Estado de Nayarit. Durará seis años en el cargo y podrá ser reelecto por una sola vez.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
 El Órgano contará con los recursos presupuestales necesarios para el debido cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 Estará adscrito administrativamente al Instituto y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior del Estado.
 
@@ -2195,7 +2203,9 @@ I. Fijar los criterios para la realización de las auditorías, procedimientos, 
 
 II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
 
-III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+III. Revisar los proyectos de informes de avance de gestión financiera y Cuenta Pública y evaluarlos posterior a su aprobación respecto de los programas autorizados y los relativos a procesos concluidos;
 
 IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos otorgado al Instituto;
 
@@ -2235,21 +2245,39 @@ XXI. Presentar a la aprobación del Consejo Local Electoral sus programas anuale
 
 XXII. Presentar al Consejo los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente;
 
-XXIII. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la ley de la materia;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXIII. Recibir y resguardar las declaraciones patrimoniales y de intereses que deban presentar los (sic) personas servidoras públicas del Instituto, conforme a los criterios, formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la ley de la materia;
 
 XXIV. Intervenir en los procesos de entrega recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
 
 XXV. Participar, a través de su titular, con voz pero sin voto, en las sesiones del Consejo por motivo del ejercicio de sus facultades cuando así lo considere necesario el Consejero Presidente;
 
-XXVI. Evaluar los informes de avance de la gestión de programas y proyectos respecto de los autorizados por el Consejo;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXVI. Evaluar y revisar los informes de avance de la gestión de programas y proyectos respecto de los autorizados por el Consejo;
 
 XXVII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza electoral, de capacitación, organización y demás aprobados por el Consejo;
 
-XXVIII. Validar el proyecto de Cuenta Pública en los términos de la ley de la materia;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXIX. Mantener una estrecha relación de colaboración y apoyo con la Entidad de Fiscalización Superior del Estado, y
+XXVIII. Emitir, por conducto de su titular, los acuerdos, lineamientos y demás normativa que requiera para hacer efectiva su autonomía técnica y de gestión, informando al Consejo de dicha expedición;
 
-XXX. Las demás que le otorgue la constitución federal, la del Estado, esta y las demás leyes aplicables en la materia.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXIX. Emitir los Lineamientos para prevenir la comisión de faltas administrativas y hechos de corrupción, e implementar acciones para orientar el criterio que en situaciones específicas deberán observar las personas servidoras públicas en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Local Anticorrupción de Nayarit;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXX. Expedir, por conducto de su titular, los nombramientos e identificaciones del personal adscrito al órgano, bajo un sistema que garantice la igualdad de oportunidades en el acceso a la función pública con base en el mérito y los mecanismos más adecuados y eficientes para su adecuada profesionalización, atrayendo a los mejores candidatos para ocupar los puestos a través de procedimientos transparentes, objetivos y equitativos;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXXI. Compulsar y certificar, por conducto de su titular, los documentos que obran en sus archivos y aquellos necesarios para el cumplimiento de sus atribuciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXXII. Las demás que le otorgue la constitución federal, la del Estado, esta y las demás leyes aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -2265,11 +2293,15 @@ III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e in
 
 IV. Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones a que se refiere esta ley.
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 104.
 
-Los servidores públicos adscritos al Órgano Interno de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+El Órgano Interno de Control para el cumplimiento de sus funciones contará al menos con las unidades administrativas de auditoría y fiscalización, autoridad investigadora, substanciadora y resolutora, así como un abogado defensor de oficio.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+Las personas servidoras públicas adscritas al Órgano Interno de Control y, en su caso, las personas profesionales contratadas para la práctica de auditorías, serán nombrados (sic) y removidos (sic) libremente por su titular de acuerdo con lo establecido en esta ley, y deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -5632,3 +5664,11 @@ CUARTO. Previo al inicio del Proceso Electoral 2024, el Instituto Estatal Electo
 QUINTO. Las autoridades administrativas electorales tienen la obligación de traducir todos aquellos documentos, lineamientos o preceptos relacionados con la postulación de personas indígenas, de conformidad con los pueblos y culturas indígenas que radican en el Estado. En el mismo sentido, los documentos, lineamientos o preceptos relacionados con las personas con discapacidad deberán ser traducidos cuando menos, a lenguaje de señas utilizada predominantemente en el Estado y al sistema de escritura braille, para su difusión.
 
 SEXTO. A fin de garantizar el principio de paridad de género en las postulaciones por ambas vías que dispone el presente Decreto, se habrán de considerar los resultados obtenidos en el proceso electoral inmediato anterior.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE NAYARIT, EN MATERIA DEL ÓRGANO INTERNO DE CONTROL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. El Instituto Estatal Electoral a través de sus Órganos competentes en un plazo de 30 días naturales deberá armonizar, los reglamentos, acuerdos, lineamientos y demás disposiciones que se requiera para dar debido cumplimiento al presente Decreto.
