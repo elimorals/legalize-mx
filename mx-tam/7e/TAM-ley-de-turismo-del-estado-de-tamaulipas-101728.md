@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2025-09-05"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -1065,6 +1065,18 @@ ARTÍCULO 72 TER.
 
 En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 72 QUATER.
+
+Además de las obligaciones establecidas en la presente ley, los prestadores de servicios turísticos deberán implementar medidas de seguridad para la protección de niñas, niños y adolescentes, previa prestación del servicio. Para tal efecto, deberán al menos, realizar lo siguiente:
+
+I. Solicitar la exhibición de credencial de elector o de cualquier otro documento oficial que demuestre la mayoría de edad;
+
+II. Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional destinado a la prestación del servicio de hospedaje o estancia, exclusivamente en compañía de quien acredite mediante documento idóneo tener parentesco, o ser quien ejerza la patria potestad, tutela o guarda y custodia; y
+
+III. Notificar a las autoridades correspondientes, en caso de advertir la posible comisión de un delito.
+
 ## TÍTULO NOVENO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
 
 ### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
@@ -1328,3 +1340,15 @@ P.O. 5 DE SEPTIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-459 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 72 QUATER A LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Turismo del Estado de Tamaulipas, a partir de la publicación del presente Decreto, deberá emitir, en un plazo no mayor a 180 días naturales, los protocolos y acciones preventivas, para la aplicación de las disposiciones contenidas en este Decreto.
