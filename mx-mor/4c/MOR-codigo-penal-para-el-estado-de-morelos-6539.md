@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2025-09-30"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1838,6 +1838,10 @@ Si del abandono resulta la muerte o lesiones, se aplicarán las penas que corres
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ARTICULO 132 BIS.- Al progenitor que abandone a una mujer embarazada, y sin causa justificada incumpla las obligaciones de prestar asistencia económica y alimentos durante el embarazo y una vez nacido el o la menor; se le impondrán de nueve meses a seis años de prisión, además de la reparación del daño y el pago de alimentos para el recién nacido y la madre en los casos que procedan.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+Se aumentará hasta en una tercera parte la sanción prevista en el párrafo anterior, en caso de que la mujer embarazada que fuese abandonada sea una persona indígena, persona con discapacidad o menor de dieciocho años.
 
 ### CAPITULO III. OMISION DE AUXILIO A LESIONADOS
 
@@ -6230,6 +6234,16 @@ P.O. 30 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS OCHENTA Y TRES POR EL QUE SE REFORMA EL ARTÍCULO 242 BIS Y SE ADICIONA EL ARTICULO 242 TER AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
 
 PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS TREINTA Y NUEVE POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 132 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
 
