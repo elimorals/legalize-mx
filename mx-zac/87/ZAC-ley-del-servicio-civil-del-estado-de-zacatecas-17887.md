@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2025-08-06"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -2131,17 +2131,25 @@ Ninguna persona que haya ocupado una Magistratura del Tribunal, podrá ser nombr
 
 Las remuneraciones de los titulares de las Magistraturas se efectuarán en los términos de los artículos 127 de la Constitución Política de los Estados Unidos Mexicanos y 160 de la Constitución del Estado, las cuales no podrán disminuirse durante el ejercicio de su encargo.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 155.
 
-Tratándose de una vacante definitiva o temporal que exceda de tres meses de alguna de las Magistraturas, ésta será comunicada a la Legislatura del Estado para que se provea el procedimiento de sustitución que establece la Constitución del Estado.
+Tratándose de una vacante definitiva de las Magistraturas, ésta será comunicada a la Legislatura del Estado para que se provea el procedimiento de designación que establece la Constitución del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 156.
 
-En caso de que alguna Magistratura presente una vacante temporal que no exceda de tres meses, ésta se cubrirá, para el solo efecto de integrar quórum legal en Pleno, llamándose al Secretario General de Acuerdos. Si el Magistrado ausente tenía a su cargo determinados asuntos, éstos serán reasignados a otro Magistrado, en términos del Reglamento Interior.
+En caso de que alguna Magistratura presente una vacante temporal que no exceda de quince días, ésta se cubrirá, para el solo efecto de integrar quórum legal en Pleno, llamándose al Secretario General de Acuerdos.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+Cuando la ausencia de la magistratura exceda de quince días, los Magistrados en funciones designarán, de entre los secretarios de estudio y cuenta de mayor antigüedad, respetando el mejor derecho, a quien ocupe la vacante de forma temporal, mientras subsista la ausencia.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+El secretario de estudio y cuenta en funciones de magistrado tendrá los derechos y obligaciones inherentes al cargo, pero no podrá ocupar el cargo de Presidente.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
@@ -2219,13 +2227,11 @@ XV.- Las demás que señalen las leyes y otros ordenamientos aplicables.
 
 La Presidencia del Tribunal será rotatoria entre los Magistrados integrantes, atendiendo a la antigüedad que tengan en el mismo.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 160.
 
-La persona titular de la Presidencia durará en el encargo dos años, con imposibilidad de reelección para el ejercicio inmediato siguiente.
-
-En caso de ausencia definitiva del titular de la Presidencia en turno, ocupará el cargo el Magistrado a quien correspondiera el periodo siguiente. En este caso, se llamará a integrar el Pleno al Secretario General de Acuerdos, en tanto la Legislatura del Estado designa al Magistrado faltante.
+La persona titular de la Presidencia durará en el encargo dos años, con imposibilidad de reelección para el ejercicio inmediato siguiente. En caso de ausencia definitiva del titular de la Presidencia en turno, ocupará el cargo el Magistrado a quien correspondiera el periodo siguiente.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
@@ -4148,3 +4154,19 @@ P.O. 6 DE AGOSTO DE 2025.
 Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 9.- REFORMAS Y ADICIONES A LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal de Justicia Laboral Burocrática del Estado deberá modificar su normatividad interna, conforme al contenido del presente Decreto, en un plazo que no exceda de treinta días hábiles, contados a partir de su entrada en vigor.
