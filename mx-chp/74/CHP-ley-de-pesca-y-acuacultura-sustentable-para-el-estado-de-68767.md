@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-pesca-y-acuacultura-sustentable-para-el-estado-de-68767"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-13"
-last_updated: "2009-05-13"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLE PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 13 de mayo de 2009.
 
@@ -55,13 +55,17 @@ III. Coadyuvar con las Dependencias de la Federación en el establecimiento de b
 
 IV. Observar y aplicar las normas básicas que establezca la legislación de la materia, para planear y regular el aprovechamiento de los recursos pesqueros y acuícolas en la Entidad.
 
-V. Procurar el derecho al acceso, uso y disfrute preferente de los recursos pesqueros y acuícolas de las comunidades y pueblos indígenas de la Entidad, en los términos de las disposiciones jurídicas aplicables en materia pesquera y acuícola, de los lugares que ocupen y habiten; siempre y cuando éstos no se encuentren ya usufructuados por otros permisionarios o concesionarios de la actividad.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+V. Procurar el derecho al acceso, uso y disfrute preferente de los recursos pesqueros y acuícolas de los pueblos y comunidades indígenas y afromexicanas de la Entidad, en los términos de las disposiciones jurídicas aplicables en materia pesquera y acuícola, de los lugares que ocupen y habiten; siempre y cuando éstos no se encuentren ya usufructuados por otros permisionarios o concesionarios de la actividad.
 
 VI. Establecer las bases y los mecanismos de coordinación entre las autoridades municipales y el sector social pesquero, para el mejor cumplimiento del objeto de esta Ley.
 
 VII. Determinar y establecer las bases para la creación, operación y funcionamiento de mecanismos de participación de los productores dedicados a las actividades pesqueras y acuícolas en la Entidad.
 
-VIII. Apoyar y facilitar la investigación científica y tecnológica aplicada que en materia de acuacultura y pesca, realice el INAPESCA e instituciones educativas relacionadas con el sector, en los cuerpos de agua de la Entidad, donde existan pesquerías comerciales establecidas.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+VIII. Apoyar y facilitar la investigación científica y tecnológica aplicada que en materia de acuacultura y pesca, realice el Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables e instituciones educativas relacionadas con el sector, en los cuerpos de agua de la Entidad, donde existan pesquerías comerciales establecidas.
 
 IX. Implementar las medidas de sanidad que para el manejo de los recursos pesqueros y acuícolas, dicte la normatividad establecida de conformidad con la LGPAS y otras leyes aplicables.
 
@@ -123,7 +127,9 @@ X. Concesión: Al título que en ejercicio de sus facultades otorga la Comisión
 
 XI. Esfuerzo pesquero: Al termino técnico que determina el número de individuos, embarcaciones o artes de pesca, que son aplicados en la captura o extracción de una o varias especies en una zona y período determinado.
 
-XII. INAPESCA: Al Instituto Nacional de Pesca, órgano desconcentrado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XII. IMIPAS. Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables.
 
 XIII. Inocuidad: A la garantía de que el consumo de los recursos pesqueros y acuícolas no cause daño en la salud de los consumidores.
 
@@ -133,7 +139,9 @@ XV. Normas: A las normas expedidas de conformidad con la Ley Federal sobre Metro
 
 XVI. Ordenamiento pesquero: Al Conjunto de instrumentos cuyo objeto es regular y administrar las actividades pesqueras induciendo el aprovechamiento sustentable de los recursos pesqueros y acuícola basado en la disponibilidad de los recursos pesqueros, información histórica de niveles de extracción, usos y potencialidades de desarrollo de actividades, capacidad pesquera y acuícola, punto de referencia para el manejo de las pesquerías y en forma congruente con el ordenamiento ecológico del territorio.
 
-XVII. Permiso: Al documento que otorga la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, a las personas físicas o morales para llevar a cabo las actividades de pesca y acuacultura que se señalan en la presente Ley.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XVII. Permiso: Al documento que otorga la Secretaría de Agricultura y Desarrollo Rural, a las personas físicas o morales para llevar a cabo las actividades de pesca y acuacultura que se señalan en la presente Ley.
 
 XVIII. Pesca: Al acto de extraer, capturar o recolectar por cualquier método o procedimiento, especies biológicas, o elementos biogénicos cuyo medio de vida total, parcial o temporal, sea el agua.
 
@@ -145,17 +153,37 @@ XXI. Plan de manejo pesquero: Al conjunto de acciones encaminadas al desarrollo 
 
 XXII. Repoblación: Al acto de introducir organismos acuáticos vivos nativos en cualquiera de sus estadíos de su ciclo de vida en cuerpos de agua de jurisdicción federal con fines de mantener, recuperar o incrementar las poblaciones naturales pesqueras.
 
-XXIII. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXIV. SEMARNAT: La Secretaría del Medio Ambiente y Recursos Naturales.
+XXIII. SADER: La Secretaría de Agricultura y Desarrollo Rural.
 
-XXV. SENASICA: Al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXVI. SEPESCA: La Secretaría de Pesca y Acuacultura del Gobierno del Estado de Chiapas.
+XXIV. SAGYP: La Secretaría de Agricultura, Ganadería y Pesca del Estado de Chiapas.
 
-XXVII. Unidad de manejo acuícola: Se integra con las áreas comprendidas en una zona delimitada, en la que se establece un conjunto de unidades de producción con una infraestructura básica y las instalaciones necesarias para su operación y funcionamiento compartido operada de forma común.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXVIII. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo de tiempo o zona específica establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie.
+XXV. SEMARNAT: La Secretaría del Medio Ambiente y Recursos Naturales.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXVI. SENASICA: Al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria.
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXVII. SEMAHN: Secretaría de Medio Ambiente e Historia Natural del Estado de Chiapas.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXVIII. Unidad de manejo acuícola: Se integra con las áreas comprendidas en una zona delimitada, en la que se establece un conjunto de unidades de producción con una infraestructura básica y las instalaciones necesarias para su operación y funcionamiento compartido operada de forma común.
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXIX. UMA: Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXX. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo de tiempo o zona específica establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie.
 
 ###### Artículo 4°.
 
@@ -169,15 +197,19 @@ En todo lo no previsto en la presente Ley, se aplicarán las disposiciones conte
 
 El Gobierno del Estado y sus Ayuntamientos ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con la distribución de competencia prevista en la LGPAS y en otros ordenamientos legales de la materia.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 6°.
 
-Las atribuciones que esta Ley otorga a la Entidad, serán ejercidas por el Poder Ejecutivo Estatal a través de la SEPESCA, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de la Ley.
+Las atribuciones que esta Ley otorga a la Entidad, serán ejercidas por el Poder Ejecutivo Estatal a través de la SAGYP, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de la Ley.
 
-Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública del Estado u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la SEPESCA ejercerá sus atribuciones en coordinación con las mismas.
+Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública del Estado u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la SAGYP ejercerá sus atribuciones en coordinación con las mismas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 7°.
 
-Corresponde a la SEPESCA el ejercicio de las siguientes atribuciones:
+Corresponde a la SAGYP el ejercicio de las siguientes atribuciones:
 
 I. Promover, fomentar y administrar el aprovechamiento de los recursos pesqueros y acuícolas.
 
@@ -219,7 +251,9 @@ XIX. Promover la organización y capacitación para el trabajo pesquero y acuíc
 
 XX. Promover y apoyar la investigación, la innovación y el desarrollo tecnológico de la pesca y la acuacultura, así como el fortalecimiento de las capacidades tecnológicas de la planta productiva en la Entidad.
 
-XXI. Establecer las bases de coordinación con el INAPESCA, como organismo rector de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXI. Establecer las bases de coordinación con el IMIPAS, como organismo rector de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional.
 
 XXII. Establecer, operar y mantener actualizado el Sistema Estatal de Información Pesquera y Acuícola y participar en la integración del Sistema Nacional de Información Pesquera y Acuícola de acuerdo a las disposiciones legales aplicables.
 
@@ -243,9 +277,11 @@ XXXI. Realizar la inspección y vigilancia para el cumplimiento de esta ley, sus
 
 XXXII. Las demás que expresamente le atribuya esta ley, sus disposiciones reglamentarias, las normas oficiales, así como las demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 8°.
 
-La SEPESCA y el Instituto de Historia Natural, establecerán mecanismos de coordinación con la SEMARNAT, en el ámbito de sus respectivas competencias para el cumplimiento de los objetivos previstos en la presente Ley, en materia de preservación, restauración del equilibrio ecológico y la protección del ambiente, particularmente, en los siguientes aspectos:
+La SAGYP y la SEMAHN, establecerán mecanismos de coordinación con la SEMARNAT, en el ámbito de sus respectivas competencias para el cumplimiento de los objetivos previstos en la presente Ley, en materia de preservación, restauración del equilibrio ecológico y la protección del ambiente, particularmente, en los siguientes aspectos:
 
 I. En áreas naturales protegidas, de acuerdo con la declaratoria de creación o el programa de manejo, emitir recomendaciones sustentadas, fundadas y motivadas, sobre los permisos y concesiones de pesca y acuacultura que se pretendan otorgar, así como los volúmenes de pesca incidental.
 
@@ -255,9 +291,11 @@ III. Fomentar, promover áreas de protección, restauración, rehabilitación y 
 
 IV. Participar en la formulación del proyecto de carta estatal pesquera, en los términos establecidos en esta Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 9°.
 
-La SEPESCA, la Secretaría de Seguridad y Protección Ciudadana y la Procuraduría General de Justicia del Estado, en su caso, para el cumplimiento de los objetivos previstos en la presente Ley, en coordinación con la SAGARPA-CONAPESCA llevarán a cabo las acciones siguientes:
+La SAGYP, la Secretaría de Seguridad del Pueblo y la Fiscalía General del Estado, en su caso, para el cumplimiento de los objetivos previstos en la presente Ley, en coordinación con la SADER-CONAPESCA llevarán a cabo las acciones siguientes:
 
 I. La vigilancia en los cuerpos de agua estatal y realizar las inspecciones que se requieran para verificar el cumplimiento de las disposiciones en materia de pesca, de conformidad con la legislación de la materia.
 
@@ -269,9 +307,11 @@ IV. Las demás que establezcan otras disposiciones y que se relacionen directame
 
 ### Capítulo II. De la Coordinación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 10.
 
-Para la consecución de los objetivos de la presente Ley, la SEPESCA, y, en su caso, con la participación de los municipios, podrá celebrar convenios o acuerdos de coordinación con el Gobierno Federal, con el objeto de que asuman la atención de las siguientes funciones:
+Para la consecución de los objetivos de la presente Ley, la SAGYP, y, en su caso, con la participación de los municipios, podrá celebrar convenios o acuerdos de coordinación con el Gobierno Federal, con el objeto de que asuman la atención de las siguientes funciones:
 
 I. La administración de los permisos para la realización de pesca deportiva recreativa.
 
@@ -285,11 +325,15 @@ V. La realización de acciones operativas tendientes a cumplir con los fines pre
 
 VI. La inspección y vigilancia para el cumplimiento de esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 11.
 
-Los Convenios y Acuerdos de Coordinación que suscriba la Entidad a través de la SEPESCA, deberán sujetarse a lo siguiente:
+Los Convenios y Acuerdos de Coordinación que suscriba la Entidad a través de la SAGYP, deberán sujetarse a lo siguiente:
 
-I. Establecer con precisión su objetivo, las materias y facultades que se asumirán, que deberán ser acordes con la Política Nacional de Pesca y Acuacultura Sustentable, así como la que establece en esta materia, el Plan de Desarrollo para el Estado de Chiapas.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+I. Establecer con precisión su objetivo, las materias y facultades que se asumirán, que deberán ser acordes con la Política Nacional de Pesca y Acuacultura Sustentable, así como la que establece en esta materia, el Plan Estatal de Desarrollo.
 
 II. Establecerá las responsabilidades y la participación de cada una de las partes, los bienes y recursos aportados por cada una, su destino y su forma de administración.
 
@@ -327,9 +371,11 @@ VIII. Participar de conformidad con los acuerdos y convenios que se celebren con
 
 Los Ayuntamientos dictarán los reglamentos, circulares y disposiciones administrativas que correspondan, para que en sus respectivas circunscripciones, se cumplan las previsiones de los ordenamientos, tanto estatales y federales y las que de ellas se deriven.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-Las contribuciones que por el aprovechamiento de los recursos pesqueros y acuícolas se generen, así como los que se obtengan por el otorgamiento de concesiones o permisos y por cualquier otro concepto relacionado con esta actividad y cuya administración se efectúe por la Entidad, ingresarán a la Hacienda Pública Estatal, con base en lo señalado en la Ley de Coordinación Fiscal, y deberán aplicarse en los programas relacionados con el sector pesquero y acuícola.
+Las contribuciones que por el aprovechamiento de los recursos pesqueros y acuícolas se generen, así como los que se obtengan por el otorgamiento de concesiones o permisos y por cualquier otro concepto relacionado con esta actividad y cuya administración se efectúe por la Entidad, ingresarán a la Secretaría de Finanzas, con base en lo señalado en la Ley de Coordinación Fiscal, y deberán aplicarse en los programas relacionados con el sector pesquero y acuícola.
 
 ## Título Tercero. De la Política Estatal de Pesca y Acuacultura Sustentable
 
@@ -359,17 +405,25 @@ IX. Impulsar la transparencia en los procedimientos administrativos relativos al
 
 X. La participación, consenso y compromisos de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas.
 
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XI. Ponderar un Impulso regional equilibrado y equitativo, que priorice el desarrollo de los pueblos y comunidades indígenas y afromexicanas.
+
 ###### Artículo 16.
 
 El Estado y sus municipios en el ámbito de sus respectivas competencias, observarán y aplicarán los principios a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-El Estado debe incorporar instrumentos de la política nacional de pesca y acuacultura, así como los lineamientos que en esta materia señala el Plan de Desarrollo para el Estado de Chiapas, en la planeación para el desarrollo local del sector, de conformidad con las leyes y demás disposiciones en la materia.
+El Estado debe incorporar instrumentos de la política nacional de pesca y acuacultura, así como los lineamientos que en esta materia señala el Plan Estatal de Desarrollo, en la planeación para el desarrollo local del sector, de conformidad con las leyes y demás disposiciones en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 18.
 
-El Programa Estatal de Pesca y Acuacultura se sujetará a las previsiones del Plan de Desarrollo Estatal y contemplará entre otros aspectos:
+El Programa Estatal de Pesca y Acuacultura se sujetará a las previsiones del Plan Estatal de Desarrollo y contemplará entre otros aspectos.
 
 I. Información general sobre la distribución y abundancia de las especies susceptibles de aprovechamiento comercial.
 
@@ -383,7 +437,9 @@ V. Investigación y desarrollo tecnológico para el manejo y procesamiento de re
 
 VI. Investigación científica y tecnológica orientada a incrementar la capacidad de producción pesquera.
 
-VII. Programas que fomenten la pesca de los habitantes de las comunidades indígenas, utilizando sus artes y métodos de pesca tradicionales.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+VII. Programas que fomenten la pesca de los habitantes de los pueblos y comunidades indígenas y afromexicanas, utilizando sus artes y métodos de pesca tradicionales.
 
 VIII. Estudios para identificar los cuerpos de agua susceptibles de ser restaurados para la recuperación de los ecosistemas y, por ende, el incremento de la producción.
 
@@ -399,37 +455,47 @@ XIII. Programas que promuevan la acuacultura rural e industrial, así como la re
 
 XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca ilegal.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 19.
 
-Para las acciones de Inspección y Vigilancia, la SEPESCA, Secretaría de Seguridad y Protección Ciudadana y la Procuraduría General de Justicia del Estado, en su caso, establecerán mecanismos de coordinación con la Dependencia federal normativa en materia de pesca y acuacultura y otras competentes, las cuales tendrán como función la salvaguarda de los recursos pesqueros y acuícolas, así como la prevención de infracciones administrativas y delitos relacionados con la actividad.
+Para las acciones de Inspección y Vigilancia, la SAGYP, Secretaría de Seguridad del Pueblo y la Fiscalía General del Estado, en su caso, establecerán mecanismos de coordinación con la Dependencia federal normativa en materia de pesca y acuacultura y otras competentes, las cuales tendrán como función la salvaguarda de los recursos pesqueros y acuícolas, así como la prevención de infracciones administrativas y delitos relacionados con la actividad.
 
-La SEPESCA en coordinación con la dependencia federal normativa y con la colaboración de los productores pesqueros y acuícolas, comunidades indígenas, gobiernos municipales y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el combate a la Pesca Ilegal, especialmente en las zonas sobre explotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la LGPAS y otras disposiciones aplicables.
+La SAGYP en coordinación con la dependencia federal normativa y con la colaboración de los productores pesqueros y acuícolas, pueblos y comunidades indígenas y afromexicanas, gobiernos municipales y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el combate a la Pesca Ilegal, especialmente en las zonas sobre explotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la LGPAS y otras disposiciones aplicables.
 
-La SEPESCA dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el programa y promoverá la participación de las demás dependencias y entidades de la Administración Pública Estatal y de los ayuntamientos en términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
+La SAGYP dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el programa y promoverá la participación de las demás dependencias y entidades de la administración pública estatal y de los ayuntamientos en términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
 
 ### Capítulo II. Del Consejo Estatal de Pesca y Acuacultura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-A efecto de proponer programas de carácter estatal, regional y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones, el Estado, a través de la SEPESCA, integrará el Consejo Estatal de Pesca y Acuacultura.
+A efecto de proponer programas de carácter estatal, regional y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones, el Estado, a través de la SAGYP, integrará el Consejo Estatal de Pesca y Acuacultura.
 
-Este Consejo, será el foro intersectorial de apoyo, coordinación, consulta, concertación y asesoría que será convocado cuando menos una vez al año y será presidido por el titular de la SEPESCA, que tendrá como objeto proponer políticas, programas, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesqueras y acuícolas, así como a incrementar la competitividad de los sectores productivos, su integración y funcionamiento se determinará en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+Este Consejo, será el foro intersectorial de apoyo, coordinación, consulta, concertación y asesoría que será convocado cuando menos una vez al año y será presidido por el titular de la SAGYP, que tendrá como objeto proponer políticas, programas, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesqueras y acuícolas, así como a incrementar la competitividad de los sectores productivos, su integración y funcionamiento se determinará en el Reglamento de esta Ley.
 
 El Consejo estará conformado por representantes de las Dependencias y Entidades de la administración poeblica (sic) estatal relacionadas con las atribuciones en la materia, representantes de las organizaciones sociales y de productores de los sectores pesquero y acuícola, así como por los responsables de los órganos competentes en los Ayuntamientos; debiendo pedir la representación de las Dependencias federales del ramo.
 
 De conformidad con lo dispuesto en el artículo 22, de la LGPAS, será a través del Consejo, el mecanismo mediante el cual, el Estado, tendrá participación en el Comité Mixto del Fondo Mexicano para el Desarrollo Pesquero y Acuícola.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 21.
 
-A fin de contribuir a una mejor coordinación interinstitucional, la SEPESCA fomentará y promoverá ante la SAGARPA-CONAPESCA, la integración del respectivo Consejo Estatal de Pesca y Acuacultura, como el órgano colegiado local que podrá emitir, opiniones y observaciones técnicas respecto de las solicitudes de aprovechamiento de recursos pesqueros y acuícolas, previo a que sean resueltas, el cual contará con un término de quince días hábiles para emitir su opinión.
+A fin de contribuir a una mejor coordinación interinstitucional, la SAGYP fomentará y promoverá ante la SADER-CONAPESCA, la integración del respectivo Consejo Estatal de Pesca y Acuacultura, como el órgano colegiado local que podrá emitir, opiniones y observaciones técnicas respecto de las solicitudes de aprovechamiento de recursos pesqueros y acuícolas, previo a que sean resueltas, el cual contará con un término de quince días hábiles para emitir su opinión.
 
 ## Título Cuarto. Del Fomento a la Pesca y a la Acuacultura
 
 ### Capítulo I. Del Fomento a la Pesca y a la Acucultura (sic)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-La SEPESCA, en coordinación con los ayuntamientos y el Gobierno Federal a través de sus instancias competentes, realizarán las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
+La SAGYP, en coordinación con los ayuntamientos y el Gobierno Federal a través de sus instancias competentes, realizarán las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
 
 I. Establecerá convenios con las instituciones poeblicas (sic) y privadas para que brinden servicios de investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a las personas y organizaciones que se dediquen a esas actividades.
 
@@ -453,19 +519,25 @@ g) La organización económica de los productores y demás agentes relacionados 
 
 h) La realización de obras de rehabilitación ambiental en sistemas lagunarios costeros.
 
-i) Impulsar la aplicación de estímulos fiscales, económicos y de apoyo financiero necesarios para el desarrollo productivo y competitivo de la pesca y la acuacultura, así como para las actividades de procesos de transformación e industrialización de productos pesqueros y acuícolas. Para estos efectos, la SEPESCA se coordinará con las dependencias federales y municipales, además de observar y aplicar lo dispuesto en la Ley de Energía para el Campo.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+i) Impulsar la aplicación de estímulos fiscales, económicos y de apoyo financiero necesarios para el desarrollo productivo y competitivo de la pesca y la acuacultura, así como para las actividades de procesos de transformación e industrialización de productos pesqueros y acuícolas. Para estos efectos, la SAGYP se coordinará con las dependencias federales y municipales, además de observar y aplicar lo dispuesto en la Ley de Energía para el Campo.
 
 j) Fortalecer acciones para la formación de capital humano que se vincule con organizaciones de productores que participan en las cadenas productivas acuícolas y pesqueras.
 
 k) Favorecer la creación de figuras organizativas para la promoción y difusión comercial de los productos pesqueros y acuícolas en los mercados nacional e internacional.
 
-IV. La SEPESCA implementará políticas de apoyo en lo referente a crías de peces y post larvas de camarón provenientes de sus centros piscícolas y del CEACH, a los productores del sector social pesquero de la Entidad.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+IV. La SAGYP implementará políticas de apoyo en lo referente a crías de peces y post larvas de camarón provenientes de sus centros piscícolas y del CEACH, a los productores del sector social pesquero de la Entidad.
 
 V. Promoverá el ordenamiento de la pesca, de la acuacultura y diseñará estructuras y mecanismos para el otorgamiento de créditos a sus beneficiarios y su capacitación, así como para instrumentar servicios de comercialización de productos, investigación y adaptación al cambio tecnológico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 23.
 
-En materia de pesca deportivo-recreativa, la SEPESCA en coordinación con las dependencias competentes, los sectores interesados y, en su caso, con los municipios, fomentará la práctica y el desarrollo de esta actividad, para lo cual:
+En materia de pesca deportivo-recreativa, la SAGYP en coordinación con las dependencias competentes, los sectores interesados y, en su caso, con los municipios, fomentará la práctica y el desarrollo de esta actividad, para lo cual:
 
 I. Previo convenio con la Federación podrá administrar los permisos para la realización de pesca deportivo-recreativa.
 
@@ -509,17 +581,21 @@ V. Los demás recursos que obtenga por cualquier otro concepto.
 
 ### Capítulo I. De la Investigación y Capacitación
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 26.
 
-La SEPESCA, promoverá las condiciones para que el INAPESCA realice investigación científica y tecnológica en pesca y acuacultura, así como la capacitación en estas materias en la Entidad, conforme a lo establecido en la LGPAS.
+La SAGYP, promoverá las condiciones para que el IMIPAS realice investigación científica y tecnológica en pesca y acuacultura, así como la capacitación en estas materias en la Entidad, conforme a lo establecido en la LGPAS.
 
-La Entidad reconoce que el INAPESCA es el órgano administrativo federal encargado de coordinar y orientar la investigación científica y tecnológica en materia de pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector pesquero y acuícola.
+La Entidad reconoce que el IMIPAS es el órgano administrativo federal encargado de coordinar y orientar la investigación científica y tecnológica en materia de pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector pesquero y acuícola.
 
 ### Capítulo II. Del Sistema Estadístico Pesquero y Acuícola Estatal
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-La SEPESCA integrará y operará el Sistema Estadístico Pesquero y Acuícola Estatal, el cual proporcionará la información estadística local a las autoridades federales competentes, con el objeto de mantener actualizada la Carta Nacional Pesquera y Carta Nacional Acuícola.
+La SAGYP integrará y operará el Sistema Estadístico Pesquero y Acuícola Estatal, el cual proporcionará la información estadística local a las autoridades federales competentes, con el objeto de mantener actualizada la Carta Nacional Pesquera y Carta Nacional Acuícola.
 
 ###### Artículo 28.
 
@@ -555,17 +631,23 @@ VII. Estadística de producción.
 
 VIII. La información que se determine en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 30.
 
-El Instituto de Historia Natural, participará en la revisión del proyecto del Sistema Estadístico Pesquero y Acuícola Estatal y sus actualizaciones, quien podrá hacer las observaciones y adecuaciones pertinentes; con el objeto de verificar que no se esté aprovechando o usufructuando especies en peligro de extinción, raras y amenazadas o durante períodos de veda temporal o permanente ya establecidos.
+La SEMAHN, participará en la revisión del proyecto del Sistema Estadístico Pesquero y Acuícola Estatal y sus actualizaciones, quien podrá hacer las observaciones y adecuaciones pertinentes; con el objeto de verificar que no se esté aprovechando o usufructuando especies en peligro de extinción, raras y amenazadas o durante períodos de veda temporal o permanente ya establecidos.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 31.
 
-La SEPESCA, deberá durante la elaboración del proyecto y previo a la publicación del Sistema Estadístico Pesquero y Acuícola Estatal y sus actualizaciones, solicitar la opinión de las dependencias de la Administración Pública Estatal y Federal que deban intervenir, de conformidad con sus atribuciones, quienes tendrán un plazo de 35 días para emitirla.
+La SAGYP, deberá durante la elaboración del proyecto y previo a la publicación del Sistema Estadístico Pesquero y Acuícola Estatal y sus actualizaciones, solicitar la opinión de las dependencias de la administración pública estatal y federal que deban intervenir, de conformidad con sus atribuciones, quienes tendrán un plazo de 35 días para emitirla.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 32.
 
-La SEPESCA, publicará en el Periódico Oficial, el Sistema Estadístico Pesquero y Acuícola Estatal.
+La SAGYP, publicará en el Periódico Oficial, el Sistema Estadístico Pesquero y Acuícola Estatal.
 
 ## Título Sexto. Instrumentos de la Política Pesquera Estatal
 
@@ -591,9 +673,11 @@ Los instrumentos y ejes contenidos en la política pesquera y acuícola estatal,
 
 ### Capítulo II. Ordenamiento Pesquero
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 35.
 
-La SEPESCA, establecerá e impulsará políticas, estrategias y acciones para administrar los recursos pesqueros y acuícolas de forma sustentable preservando la biodiversidad de los ecosistemas en el marco de una pesca responsable, esto implica:
+La SAGYP, establecerá e impulsará políticas, estrategias y acciones para administrar los recursos pesqueros y acuícolas de forma sustentable preservando la biodiversidad de los ecosistemas en el marco de una pesca responsable, esto implica:
 
 I. Impulsar y promover la explotación de nuevas especies acuáticas de importancia comercial con base en el Sistema Estadístico Pesquero y Acuícola Estatal.
 
@@ -607,9 +691,11 @@ V. La regularización y regulación de la actividad, en cuanto a la revisión de
 
 VI. La pesca responsable y amigable con el entorno.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 36.
 
-La SEPESCA en coordinación con la SAGARPA-CONAPESCA, promoverá la instrumentación de los programas de ordenamiento y planes de manejo de la actividad pesquera y acuícola estatal, tomándose en cuenta la realidad socio-económica del sector.
+La SAGYP en coordinación con la SADER-CONAPESCA, promoverá la instrumentación de los programas de ordenamiento y planes de manejo de la actividad pesquera y acuícola estatal, tomándose en cuenta la realidad socio-económica del sector.
 
 ###### Artículo 37.
 
@@ -643,27 +729,35 @@ VI. Indicadores socioeconómicos de la población dedicada a la pesca en la regi
 
 VII. Artes y métodos de pesca autorizados.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 39.
 
-La SEPESCA, apoyará en la creación de mecanismos de control de los propios productores, apoyados en el conocimiento tradicional del sistema de manejo, donde existan, y promoverán la formación de grupos comunitarios que coadyuven a la administración y protección de dichos recursos sobre la base de los principios rectores de la legislación federal de la materia.
+La SAGYP, apoyará en la creación de mecanismos de control de los propios productores, apoyados en el conocimiento tradicional del sistema de manejo, donde existan, y promoverán la formación de grupos comunitarios que coadyuven a la administración y protección de dichos recursos sobre la base de los principios rectores de la legislación federal de la materia.
 
 ### Capítulo IV. Fomento Pesquero y Acuícola
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 40.
 
-El Ejecutivo del Estado a través de la SEPESCA, promoverá el desarrollo de la pesca y la acuacultura considerando que la situación geográfica de la Entidad lo ubica en condiciones biológicas, hidrológicas y climáticas para:
+El Ejecutivo del Estado a través de la SAGYP, promoverá el desarrollo de la pesca y la acuacultura considerando que la situación geográfica de la Entidad lo ubica en condiciones biológicas, hidrológicas y climáticas para:
 
 I. La explotación integral y sustentable de los recursos pesqueros y acuícolas, impulsando el desarrollo de las pesquerías comerciales ya establecidas.
 
 II. Consolidar y diversificar la acuacultura social solidaria, como una actividad de producción de alto impacto social y económico, mediante el impulso del desarrollo acuícola sustentable.
 
-Para la consecución de estas líneas de acción, la SEPESCA, impulsará que los productores se encuentren debidamente constituidos y cuenten con la concesión o permiso respectivo, con apego a las disposiciones legales de la materia.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+Para la consecución de estas líneas de acción, la SAGYP, impulsará que los productores se encuentren debidamente constituidos y cuenten con la concesión o permiso respectivo, con apego a las disposiciones legales de la materia.
 
 ### Capítulo V. Infraestructura Pesquera
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 41.
 
-La SEPESCA, fomentará que las actividades de producción, transformación, almacenamiento y comercialización de los productos pesqueros y acuícolas cuenten con la infraestructura industrial y de servicios necesarios, que incorpore a los pescadores y sus organizaciones al mercado competitivo, y para tal efecto:
+La SAGYP, fomentará que las actividades de producción, transformación, almacenamiento y comercialización de los productos pesqueros y acuícolas cuenten con la infraestructura industrial y de servicios necesarios, que incorpore a los pescadores y sus organizaciones al mercado competitivo, y para tal efecto:
 
 I. Buscará mejorar la intercomunicación hidráulica en los sistemas lagunarios costeros, que permitan restablecer sus condiciones productivas, impulsando la participación coordinada de las instituciones federales, estatales y municipales, en la reactivación de los sistemas lagunarios azolvados.
 
@@ -671,15 +765,19 @@ II. Incorporar áreas improductivas susceptibles de aprovechamiento para la acua
 
 III. Rehabilitar y modernizar la infraestructura pesquera y acuícola implementando un programa de rehabilitación y desarrollo tecnológico de la infraestructura pesquera y acuícola existente.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 42.
 
-Para los casos descritos en el artículo anterior, la SEPESCA, observará el cumplimiento de la normatividad aplicable en la LGPAS y las contenidas en la Ley General del Equilibrio Ecológico y Protección al Ambiente; y aquellas que tengan relación con la materia ambiental.
+Para los casos descritos en el artículo anterior, la SAGYP, observará el cumplimiento de la normatividad aplicable en la LGPAS y las contenidas en la Ley General del Equilibrio Ecológico y Protección al Ambiente; y aquellas que tengan relación con la materia ambiental.
 
 ### Capítulo VI. Comercialización Pesquera
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 43.
 
-Para la SEPESCA, el proceso de comercialización de los productos pesqueros desde la pesca y su puesta a disposición del usuario final, deberá tener gran importancia, para ello:
+Para la SAGYP, el proceso de comercialización de los productos pesqueros desde la pesca y su puesta a disposición del usuario final, deberá tener gran importancia, para ello:
 
 I. Promoverá la participación directa de los productores en el proceso de comercialización.
 
@@ -701,37 +799,47 @@ IX. Gestionar créditos y financiamientos para el desarrollo de las actividades 
 
 ### Capítulo VII. De los Permisos para la Pesca y Acuacultura
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 44.
 
-La SEPESCA, previo convenio con la Federación podrá autorizar permisos para la realización de la pesca deportivo-recreativa.
+La SAGYP, previo convenio con la Federación podrá autorizar permisos para la realización de la pesca deportivo-recreativa.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 45.
 
-La SEPESCA, implementará los mecanismos y las políticas necesarias para asesorar en la gestión y trámite de los permisos y concesiones a personas, organizaciones o grupos que estén interesados en el ejercicio de las actividades de pesca y acuacultura.
+La SAGYP, implementará los mecanismos y las políticas necesarias para asesorar en la gestión y trámite de los permisos y concesiones a personas, organizaciones o grupos que estén interesados en el ejercicio de las actividades de pesca y acuacultura.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 46.
 
-La SEPESCA, promoverá ante la SAGARPA-CONAPESCA que las decisiones respecto del otorgamiento de permisos y concesiones se basen en criterios de equidad social y en la información científica disponible del recurso pesquero, así mismo impulsará que éstas se otorguen preferentemente a los habitantes de las comunidades locales, siempre y cuando utilicen artes de pesca autorizadas.
+La SAGYP, promoverá ante la SADER-CONAPESCA que las decisiones respecto del otorgamiento de permisos y concesiones se basen en criterios de equidad social y en la información científica disponible del recurso pesquero, así mismo impulsará que éstas se otorguen preferentemente a los habitantes de las comunidades locales, siempre y cuando utilicen artes de pesca autorizadas.
 
-En igualdad de circunstancias, la SEPESCA debe impulsar ante la SAGARPA-CONAPESCA que tengan preferencia las solicitudes de las comunidades indígenas, cuando la concesión o permiso pueda afectar el hábitat de alguna comunidad indígena la autoridad deberá recabar el parecer de los representantes de dicha comunidad.
+En igualdad de circunstancias, la SAGYP debe impulsar ante la SADER CONAPESCA que tengan preferencia las solicitudes de los pueblos y comunidades indígenas y afromexicanas. Cuando la concesión o permiso pueda afectar el hábitat de alguna comunidad indígena la autoridad deberá recabar el parecer de los representantes de dicha comunidad.
 
-Con el fin de apoyar las actividades productivas de las comunidades indígenas, la SEPESCA promoverá ante la instancia federal correspondiente programas que favorezcan su desarrollo sustentable. Asimismo, les dotará de estímulos, recursos y tecnologías para que incrementen sus capacidades productivas.
+Con el fin de apoyar las actividades productivas de los pueblos y comunidades indígenas y afromexicanas, la SAGYP promoverá ante la instancia federal correspondiente programas que favorezcan su desarrollo sustentable. Asimismo, les dotará de estímulos, recursos y tecnologías para que incrementen sus capacidades productivas.
 
-La SEPESCA, promoverá ante la dependencia federal normativa los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las concesiones o permisos, sean traducidos a las lenguas de los concesionarios o permisionarios pertenecientes a los pueblos indígenas, o bien, para asegurar que les sea interpretado su contenido.
+La SAGYP, promoverá ante la dependencia federal normativa los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las concesiones o permisos, sean traducidos a las lenguas de los concesionarios o permisionarios pertenecientes a los pueblos y comunidades indígenas y afromexicanas, o bien, para asegurar que les sea interpretado su contenido.
 
 ## Título Séptimo. De la Legal Procedencia
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 47.
 
-El personal de SEPESCA que esté acreditado para ejercer acciones de inspección y vigilancia pesquera y acuícola, deberá observar las disposiciones establecidas para definir la legal procedencia de los productos pesqueros y acuícolas, de conformidad con lo siguiente:
+El personal de SAGYP que esté acreditado para ejercer acciones de inspección y vigilancia pesquera y acuícola, deberá observar las disposiciones establecidas para definir la legal procedencia de los productos pesqueros y acuícolas, de conformidad con lo siguiente:
 
 I. La legal procedencia de los productos pesqueros y acuícolas, se acreditará con los avisos de arribo, de cosecha, de producción, de recolección, permiso de importación y con la guía de pesca, según corresponda, en los términos y con los requisitos que establezca esta Ley y su reglamento. Para las especies obtenidas al amparo de permisos de pesca deportivo-recreativa, la legal procedencia se comprobará con el permiso respectivo.
 
 Para la comercialización de los productos de la pesca y de la acuacultura, los comprobantes fiscales que emitan deberán incluir el noemero (sic) de permiso o concesión respectiva.
 
-II. El traslado por vía terrestre, marítima o aérea de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o acuacultura deberá realizarse al amparo de la guía de pesca, de conformidad con el formato que expida la SAGARPA-CONAPESCA. Se exceptúan de esta obligación las personas que hayan obtenido especies al amparo de permisos de pesca deportivo-recreativa, cuyo traslado se amparará con el propio permiso y el que traslade producto cuyo destino sea el consumo doméstico directo del que lo transporta.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+II. El traslado por vía terrestre, marítima o aérea de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o acuacultura deberá realizarse al amparo de la guía de pesca, de conformidad con el formato que expida la SADER-CONAPESCA. Se exceptúan de esta obligación las personas que hayan obtenido especies al amparo de permisos de pesca deportivo-recreativa, cuyo traslado se amparará con el propio permiso y el que traslade producto cuyo destino sea el consumo doméstico directo del que lo transporta.
 
 III. El trámite, los requisitos y la vigencia de los documentos para acreditar la legal procedencia de los productos pesqueros y acuícolas, se establecerán en el reglamento de esta Ley.
 
@@ -741,13 +849,17 @@ En el ejercicio de sus funciones, el SENASICA coadyuvará en la inspección y vi
 
 ### Capítulo I. De la Planeación para el Desarrollo y del Ordenamiento Acuícola
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 48.
 
-La SEPESCA en coordinación con la SAGARPA-CONAPESCA, impulsará el crecimiento ordenado de la acuacultura, atendiendo principalmente a las áreas o zonas con potencial para desarrollar esta actividad, de conformidad con lo que establece la legislación de la materia.
+La SAGYP en coordinación con la SADER-CONAPESCA, impulsará el crecimiento ordenado de la acuacultura, atendiendo principalmente a las áreas o zonas con potencial para desarrollar esta actividad, de conformidad con lo que establece la legislación de la materia.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 49.
 
-El Programa Estatal de Acuacultura se sujetará a las previsiones del Plan de Desarrollo para el Estado de Chiapas y contemplará la concurrencia que en esa materia lleven a cabo los municipios, de acuerdo a la distribución de competencias establecidas en esta Ley.
+El Programa Estatal de Acuacultura se sujetará a las previsiones del Plan Estatal de Desarrollo y contemplará la concurrencia que en esa materia lleven a cabo los municipios, de acuerdo a la distribución de competencias establecidas en esta Ley.
 
 ###### Artículo 50.
 
@@ -799,9 +911,11 @@ IX. Acciones de crecimiento y tecnificación.
 
 X. El programa de prevención y control de contingencias, de monitoreo y las demás que por las características propias de la unidad de manejo acuícola se requieran.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 54.
 
-Las auditorías técnicas preventivas tendrán la finalidad de determinar el grado de cumplimiento de la normatividad y de los planes de manejo respectivos por parte de los acuicultores, la SEPESCA promoverá que se hagan dictámenes donde consten el adecuado cumplimiento de la legislación en la materia, de los planes de manejo y, en su caso, podrá hacer las recomendaciones sobre las medidas preventivas y correctivas necesarias, para garantizar una actividad sustentable.
+Las auditorías técnicas preventivas tendrán la finalidad de determinar el grado de cumplimiento de la normatividad y de los planes de manejo respectivos por parte de los acuicultores, la SAGYP promoverá que se hagan dictámenes donde consten el adecuado cumplimiento de la legislación en la materia, de los planes de manejo y, en su caso, podrá hacer las recomendaciones sobre las medidas preventivas y correctivas necesarias, para garantizar una actividad sustentable.
 
 ###### Artículo 55.
 
@@ -819,13 +933,17 @@ En lo referente a las concesiones y permisos para las diferentes modalidades de 
 
 ### Capítulo Único. De la Sanidad de Especies Acuícolas
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 57.
 
-La SEPESCA, en coordinación con el SENASICA ejercerá sus funciones y facultades en materia de sanidad de especies acuícolas en los términos de los acuerdos y convenios que se celebren en este rubro.
+La SAGYP, en coordinación con el SENASICA ejercerá sus funciones y facultades en materia de sanidad de especies acuícolas en los términos de los acuerdos y convenios que se celebren en este rubro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 58.
 
-La SEPESCA, se coordinará con la SAGARPA-CONAPESCA con el objeto de:
+La SAGYP, se coordinará con la SADER-CONAPESCA con el objeto de:
 
 I. Organizar, apoyar y supervisar el funcionamiento de los organismos auxiliares, siendo éstos los Comités de Sanidad Acuícola.
 
@@ -839,9 +957,11 @@ IV. Realizar acciones de saneamiento acuícola.
 
 ### Capítulo I. Del Sistema Estatal de Información de Pesca y Acuacultura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 59.
 
-La SEPESCA, integrará y operará el Sistema Estatal de Información de Pesca y Acuacultura que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras acuícolas, particularmente las que se desarrollan dentro del territorio del Estado de Chiapas. El sistema se integrará con la información siguiente:
+La SAGYP, integrará y operará el Sistema Estatal de Información de Pesca y Acuacultura que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras acuícolas, particularmente las que se desarrollan dentro del territorio del Estado de Chiapas. El sistema se integrará con la información siguiente:
 
 I. Sistema Estadístico Pesquero y Acuícola Estatal.
 
@@ -855,7 +975,9 @@ V. Las resoluciones definitivas acerca de concesiones, permisos para realizar ac
 
 VI. El anuario estadístico de pesca y acuacultura.
 
-La información citada en este artículo debe ser publicada en la página electrónica de la SEPESCA en cumplimiento a la Ley de Transparencia y Acceso a la Información.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+La información citada en este artículo debe ser publicada en la página electrónica de la SAGYP en cumplimiento a la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas.
 
 ###### Artículo 60.
 
@@ -863,9 +985,11 @@ Es obligación de todos los titulares de concesiones o permisos en la Entidad, c
 
 ### Capítulo II. Del Registro Estatal de Pesca y Acuacultura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 61.
 
-El Registro Estatal de Pesca y Acuacultura estará a cargo de la SEPESCA, tendrá carácter público y tiene por objeto la inscripción y actualización obligatoria de la siguiente información relativa a las actividades pesqueras y acuícolas:
+El Registro Estatal de Pesca y Acuacultura estará a cargo de la SAGYP, tendrá carácter público y tiene por objeto la inscripción y actualización obligatoria de la siguiente información relativa a las actividades pesqueras y acuícolas:
 
 I. De las personas físicas o morales que se dediquen a la pesca y la acuacultura, con excepción de las personas físicas que realicen actividades de pesca deportivo-recreativa y de pesca para consumo doméstico.
 
@@ -879,35 +1003,51 @@ V. De las personas físicas o morales que cuenten con certificados de sanidad, i
 
 VI. Las escuelas pesqueras y los centros dedicados a la investigación o enseñanza en materia de flora y fauna acuáticas aprovechables para la pesca y acuacultura.
 
-La SEPESCA solicitará a la SAGARPA-CONAPESCA, la expedición del certificado de registro correspondiente.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-La organización y funcionamiento del registro se determinará en las disposiciones legales de la materia. La SEPESCA contribuirá a la integración, actualización y funcionamiento del registro, en la forma y términos que establezcan las disposiciones aplicables.
+La SAGYP solicitará a la SADER-CONAPESCA, la expedición del certificado de registro correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+La organización y funcionamiento del registro se determinará en las disposiciones legales de la materia. La SAGYP contribuirá a la integración, actualización y funcionamiento del registro, en la forma y términos que establezcan las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 62.
 
-La SEPESCA, integrará una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, ofertas y demanda de los productos acuícolas.
+La SAGYP, integrará una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, ofertas y demanda de los productos acuícolas.
 
 ## Título Duodécimo. Inspección y Vigilancia
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 63.
 
-La SEPESCA, podrá formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del convenio específico signado con la SAGARPA-CONAPESCA.
+La SAGYP, podrá formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del convenio específico signado con la SADER -CONAPESCA.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 64.
 
-La SEPESCA en apego al convenio que celebre con la federación instrumentará las acciones de prevención y combate a la pesca ilegal.
+La SAGYP en apego al convenio que celebre con la federación instrumentará las acciones de prevención y combate a la pesca ilegal.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 65.
 
-En el marco del convenio que se establezca con la SAGARPA-CONAPESCA; la SEPESCA formulará y evaluará el Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal.
+En el marco del convenio que se establezca con la SADER CONAPESCA; la SAGYP formulará y evaluará el Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 66.
 
-La SEPESCA, en el ámbito de las atribuciones y competencias, que le asigne la SAGARPA-CONAPESCA, en materia de inspección y vigilancia pesquera y acuícola deberá:
+La SAGYP, en el ámbito de las atribuciones y competencias, que le asigne la SADER-CONAPESCA, en materia de inspección y vigilancia pesquera y acuícola deberá:
 
-I. Contar con personal que le autoricé y acredite la SAGARPA CONAPESCA.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+I. Contar con personal que le autoricé y acredite la SADER CONAPESCA.
 
 II. Aplicar recursos económicos, humanos y equipos disponibles para la ejecución de las acciones.
 
@@ -941,35 +1081,57 @@ VI. Realizar actividades de acuacultura o pesca de fomento, didáctica o deporti
 
 VII. Simular actos de pesca de consumo doméstico, de fomento, deportivo-recreativa o didáctica con el propósito de lucrar con los productos obtenidos de las capturas.
 
-VIII. Sustituir al titular de los derechos consignados en las concesiones o permisos sin autorización expresa de la SEPESCA.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-IX. No llevar a bordo de las embarcaciones la documentación original expedida por la SEPESCA para acreditar la concesión o permiso, o no tener en las instalaciones acuícolas copia certificada de la misma.
+VIII. Sustituir al titular de los derechos consignados en las concesiones o permisos sin autorización expresa de la SAGYP.
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+IX. No llevar a bordo de las embarcaciones la documentación original expedida por la SAGYP para acreditar la concesión o permiso, o no tener en las instalaciones acuícolas copia certificada de la misma.
 
 X. Efectuar operaciones de pesca con embarcaciones extranjeras sin el permiso correspondiente.
 
-XI. Desembarcar productos pesqueros en el extranjero o transbordarlos sin contar con el permiso de la SEPESCA.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XII. Descargar en puertos mexicanos productos de pesca comercial provenientes de embarcaciones extranjeras, sin permiso de la SEPESCA, salvo en los casos previstos en el artículo 46, de esta Ley.
+XI. Desembarcar productos pesqueros en el extranjero o transbordarlos sin contar con el permiso de la SAGYP.
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XII. Descargar en puertos mexicanos productos de pesca comercial provenientes de embarcaciones extranjeras, sin permiso de la SAGYP, salvo en los casos previstos en el artículo 46 de esta Ley.
 
 XIII. Practicar la pesca en alta mar o en aguas de jurisdicción extranjera, con embarcaciones de matrícula y bandera mexicanas, sin el permiso correspondiente.
 
 XIV. No acatar las condiciones y requisitos establecidos en las autorizaciones otorgadas por gobiernos extranjeros al gobierno mexicano, para la captura de especies.
 
-XV. Hacer uso indebido de la información técnica o científica de la SEPESCA o del INAPESCA.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XV. Hacer uso indebido de la información técnica o científica de la SAGYP o del IMIPAS.
 
 XVI. Transportar o utilizar en embarcaciones destinadas a la pesca, instrumentos explosivos, sustancias contaminantes.
 
-XVII. Utilizar o transportar instrumentos, artes o métodos de pesca prohibidos o no permitidos por la SEPESCA.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XVIII. Practicar la pesca con embarcaciones distintas de aquellas que haya permitido y registrado la SEPESCA.
+XVII. Utilizar o transportar instrumentos, artes o métodos de pesca prohibidos o no permitidos por la SAGYP.
 
-XIX. Extraer, capturar, poseer, transportar o comerciar especies declaradas en veda o con talla o peso inferiores al mínimo especificado por la SEPESCA u obtenerlas de zonas o sitios de refugio o de repoblación.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XX. Omitir el uso de la bitácora de pesca, alterar o anotar con falsedad los datos técnicos que se asienten en la misma o no entregarla a la SEPESCA cuando dicha autoridad requiera su exhibición.
+XVIII. Practicar la pesca con embarcaciones distintas de aquellas que haya permitido y registrado la SAGYP.
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XIX. Extraer, capturar, poseer, transportar o comerciar especies declaradas en veda o con talla o peso inferiores al mínimo especificado por la SAGYP u obtenerlas de zonas o sitios de refugio o de repoblación.
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XX. Omitir el uso de la bitácora de pesca, alterar o anotar con falsedad los datos técnicos que se asienten en la misma o no entregarla a la SAGYP cuando dicha autoridad requiera su exhibición.
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 XXI. Comercializar las capturas de la pesca deportivo-recreativa.
 
-XXII. No proporcionar la información en los términos y plazos que solicite la SEPESCA o incurrir en falsedad al rendir ésta.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXII. No proporcionar la información en los términos y plazos que solicite la SAGYP o incurrir en falsedad al rendir ésta.
 
 XXIII. Instalar artes de pesca fija, sin contar con el permiso correspondiente.
 
@@ -979,7 +1141,9 @@ XXV. No cumplir con la obligación de inscripción y actualización en el Regist
 
 XXVI. Incumplir lo establecido en las normas oficiales que deriven de esta Ley.
 
-XXVII. No demostrar documentalmente a la SEPESCA la legal procedencia de los productos pesqueros y acuícolas por parte de quienes los posean, almacenen, transporten o comercialicen, con base en lo señalado en el artículo 46, de la presente Ley.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXVII. No demostrar documentalmente a la SAGYP la legal procedencia de los productos pesqueros y acuícolas por parte de quienes los posean, almacenen, transporten o comercialicen, con base en lo señalado en el artículo 46 de la presente Ley.
 
 XXVIII. No contar con el equipo especializado de monitoreo satelital, cuando así lo establezcan las disposiciones reglamentarias o la concesión o permiso correspondientes.
 
@@ -991,9 +1155,11 @@ XXXI. Cualquier otra contravención a lo dispuesto en la presente Ley.
 
 ### Capítulo II. De las Sanciones Administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 69.
 
-Las infracciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones legales que de ella deriven, señaladas en el artículo anterior, serán sancionadas administrativamente por la SEPESCA con una o más de las siguientes sanciones:
+Las infracciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones legales que de ella deriven, señaladas en el artículo anterior, serán sancionadas administrativamente por la SAGYP con una o más de las siguientes sanciones:
 
 I. Amonestación con apercibimiento.
 
@@ -1013,9 +1179,11 @@ VII. Suspensión o revocación de los permisos, concesiones y autorizaciones cor
 
 En materia de sanidad de especies acuícolas y de inocuidad y calidad de productos acuícolas y pesqueros, el SENASICA, además de aplicar cualquiera de las sanciones a que se refieren las fracciones I, II y V del artículo anterior, podrá suspender o revocar los certificados correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 71.
 
-Para la imposición de las sanciones por infracciones a esta Ley, la SEPESCA tomará en cuenta:
+Para la imposición de las sanciones por infracciones a esta Ley, la SAGYP tomará en cuenta:
 
 I. La gravedad de la infracción.
 
@@ -1031,9 +1199,11 @@ V. El beneficio directamente obtenido por el infractor por los actos u omisiones
 
 Para los efectos de esta Ley, se considerará reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto en un período de cinco años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 73.
 
-La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la SEPESCA, a quienes:
+La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la SAGYP, a quienes:
 
 I. Realicen pesca de consumo doméstico, en temporada de veda o con artes de pesca no permitidas, o tallas inferiores a las autorizadas o en contravención a las normas establecidas.
 
@@ -1041,19 +1211,21 @@ II. Realicen actividades de acuacultura y pesca didáctica, sin contar con la co
 
 La amonestación servirá de apoyo para determinar la multa a los reincidentes.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 74.
 
-La imposición de las multas a que se refiere el artículo 69, se determinará en la forma siguiente:
+La imposición de las multas a que se refiere el artículo 69 se determinará en la forma siguiente:
 
-I. Con el equivalente de hasta 100 días de salario mínimo vigente a quien cometa las infracciones señaladas en las fracciones VI, XXV, del artículo 68.
+I. Con el equivalente de hasta 100 días de UMA a quien cometa las infracciones señaladas en las fracciones VI, XXV del artículo 68.
 
-II. Con el equivalente de hasta 1,000 días de salario mínimo vigente a quien cometa las infracciones señaladas en las fracciones I, II, V, VII, IX, XV, XVII, XVIII, XXI, XXII, XXIII, XXVI, XXVIII, XXXI, del artículo 68.
+II. Con el equivalente de hasta 1,000 días de UMA a quien cometa las infracciones señaladas en las fracciones I, II, V, VII, IX, XV, XVII, XVIII, XXI, XXII, XXIII, XXVI, XXVIII, XXXI del artículo 68.
 
-III. Con el equivalente de 1,001 a 10,000 días de salario mínimo vigente a quien cometa las infracciones señaladas en las fracciones VIII, XI, XII, XIV, XX, XXIV, XXVII, XXX, del artículo 68.
+III. Con el equivalente de 1,001 a 10,000 días de UMA a quien cometa las infracciones señaladas en las fracciones VIII, XI, XII, XIV, XX, XXIV, XXVII, XXX del artículo 68.
 
-IV. Con el equivalente de 10,001 a 30,000 días de salario mínimo vigente a quien cometa las infracciones señaladas en las fracciones III, IV, X, XIII, XVI, XIX, XXIX, del artículo 68.
+IV. Con el equivalente de 10,001 a 30,000 días de UMA a quien cometa las infracciones señaladas en las fracciones III, IV, X, XIII, XVI, XIX, XXIX del artículo 68.
 
-Para la imposición de las multas servirá de base el salario mínimo vigente en el Estado de Chiapas al momento de cometerse la infracción.
+Para la imposición de las multas servirá de base el UMA en el Estado de Chiapas al momento de cometerse la infracción.
 
 En caso de reincidencia se duplicará el monto establecido para cada una de las fracciones anteriores.
 
@@ -1063,9 +1235,13 @@ La imposición de las sanciones de clausura temporal o definitiva, parcial o tot
 
 I. Se cause daño a las especies acuícolas y pesqueras o a los ecosistemas en que dichas especies se encuentran.
 
-II. El infractor no hubiere cumplido en los plazos y condiciones impuestas por la SEPESCA, con las medidas de seguridad o de urgente aplicación establecidas en la presente Ley, su reglamento o normas oficiales.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-En los casos en que se imponga como sanción la clausura temporal, la SEPESCA deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+II. El infractor no hubiere cumplido en los plazos y condiciones impuestas por la SAGYP, con las medidas de seguridad o de urgente aplicación establecidas en la presente Ley, su reglamento o normas oficiales.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+En los casos en que se imponga como sanción la clausura temporal, la SAGYP deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
 ###### Artículo 76.
 
@@ -1079,9 +1255,11 @@ El decomiso de los vehículos se realizará cuando se actualice el supuesto de l
 
 El decomiso de artes de pesca y productos obtenidos de la pesca, se realizará cuando se actualice el supuesto de las fracciones I, V, VII, X, XIII, XVII, XIX, XX, XXI, XXIII, XXVII y XXX, del artículo 68, independientemente de la multa correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 79.
 
-A los productos o bienes decomisados, se les dará el destino que disponga la SEPESCA, conforme a las siguientes alternativas:
+A los productos o bienes decomisados, se les dará el destino que disponga la SAGYP, conforme a las siguientes alternativas:
 
 I. Remate en subasta pública.
 
@@ -1111,9 +1289,11 @@ Son responsables solidarios de las sanciones a que haya lugar, aquellas personas
 
 El capitán o patrón de embarcaciones pesqueras con que se hubiesen cometido las infracciones contenidas en el artículo 68, de la presente Ley, sufrirá la pena accesoria de cancelación de su matrícula o título otorgado para realizar la actividad pesquera. En todo caso la autoridad de navegación no expedirá los despachos vía la pesca a las embarcaciones pesqueras en las cuales éstos formen parte de su tripulación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 83.
 
-El incumplimiento por parte de los Servidores Públicos Estatales y Municipales de las disposiciones contenidas en la presente Ley, su reglamento y normas oficiales que de ella deriven, dará lugar a la responsabilidad en términos de lo establecido en el Título IV, de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, y demás disposiciones aplicables.
+El incumplimiento por parte de los Servidores Públicos Estatales y Municipales de las disposiciones contenidas en la presente Ley, su reglamento y normas oficiales que de ella deriven, dará lugar a la responsabilidad en términos de lo establecido en el Título Décimo De las Responsabilidades de los Servidores Públicos y del Sistema Anticorrupción del Estado de Chiapas de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Responsabilidades Administrativas para el Estado de Chiapas, y demás disposiciones aplicables.
 
 Las responsabilidades a que se refiere este artículo se aplicarán sin perjuicio de las sanciones de carácter penal o civil que en su caso lleguen a determinarse por la autoridad judicial.
 
@@ -1123,7 +1303,9 @@ Las responsabilidades a que se refiere este artículo se aplicarán sin perjuici
 
 Las resoluciones definitivas dictadas en los procedimientos administrativos instaurados con motivo de la aplicación de esta Ley, sus disposiciones reglamentarias y las normas oficiales que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación o ante las instancias jurisdiccionales competentes.
 
-El recurso de revisión se interpondrá directamente ante la SEPESCA a través del órgano administrativo que emitió la resolución impugnada, la que resolverá sobre su admisión y el otorgamiento o denegación de la suspensión del acto recurrido y turnará posteriormente el recurso a su superior jerárquico para su resolución definitiva.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+El recurso de revisión se interpondrá directamente ante la SAGYP a través del órgano administrativo que emitió la resolución impugnada, la que resolverá sobre su admisión y el otorgamiento o denegación de la suspensión del acto recurrido y turnará posteriormente el recurso a su superior jerárquico para su resolución definitiva.
 
 T r a n s i t o r i o s
 
@@ -1140,3 +1322,13 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado de Chiapas, en l
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los ocho días del mes de mayo del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 007 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLE PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a lo dispuesto en el presente Decreto.
