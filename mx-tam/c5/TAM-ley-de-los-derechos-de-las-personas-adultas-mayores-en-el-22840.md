@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2025-07-01"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -187,13 +187,17 @@ VII.- La dignificación y el respeto. Que habrán de orientar y dirigir los plan
 
 VIII.- Dignidad Humana: Es un valor supremo que reconoce la calidad única y excepcional a todo ser humano por el simple hecho de serlo, del cual se desprenden todos los derechos necesarios para que las personas adultas mayores desarrollen integralmente su personalidad;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-IX.- La progresividad: Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos; y
+IX.- La progresividad: Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-X.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+X.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales; y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XI.- Solidaridad intergeneracional: Relaciones recíprocas de orientación, intercambio y aprendizaje entre los miembros de dos o más generaciones; se fundamenta en una idea de estrecha colaboración, unión y asistencia mutua que permita reconocer a los adultos mayores como sujetos de derechos y activos dentro de la sociedad.
 
 ### CAPITULO II. DE LOS DERECHOS
 
@@ -1056,6 +1060,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 1 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-360 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 26 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-458 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X; Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 4° DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
