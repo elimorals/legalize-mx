@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2025-07-23"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -59,9 +59,9 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-La mujer y el hombre son iguales ante la ley. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, la identidad y la expresión de género, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, la identidad y la expresión de género, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
 
@@ -70,6 +70,10 @@ La mujer y el hombre son iguales ante la ley. Queda prohibida toda discriminaci�
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
 
 La familia tendrá la protección del Estado. El matrimonio se funda en la igualdad de derechos para ambos cónyuges, y podrá disolverse por mutuo acuerdo o a petición de cualquiera de los consortes en los términos que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+La mujer y el hombre son iguales ante la ley. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres. Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños.
 
 Los padres están obligados a alimentar, educar e instruir a sus hijos, fomentando su desarrollo cultural. El Estado velará por el cumplimiento de estos deberes, y dictará normas para el logro de la suficiencia económica de la familia; para evitar el abandono de los acreedores alimentarios, por sus deudores; y, para instituir proteger el patrimonio de familia.
 
@@ -187,9 +191,9 @@ VII. Al acceso a la procuración e impartición de justicia en su propia lengua;
 
 VIII. Al acceso, uso, disfrute, protección y conservación de sus tierras, territorios, recursos naturales y biodiversidad, conforme a las formas y modalidades de propiedad y tenencia de la tierra;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-IX. Al reconocimiento, ejercicio y salvaguarda de los derechos de propiedad, posesión de tierras, territorios y recursos naturales, donde se encuentren asentados los pueblos, comunidades y regiones indígenas. El Gobierno del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
+IX. Al reconocimiento, ejercicio y salvaguarda de los derechos de propiedad, posesión de tierras, territorios y recursos naturales, donde se encuentren asentados los pueblos, comunidades y regiones indígenas. La Gobernadora o Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
@@ -207,9 +211,9 @@ XII. Al reconocimiento, uso, rescate, preservación, fortalecimiento y difusión
 
 XIII. A una educación indígena, intercultural, multilingüe y multicultural, en todos los niveles educativos, a través de un sistema que defina y reconozca sus propios modelos y métodos culturales de enseñanza y aprendizaje, cuyos enfoques y contenidos serán diseñados, reconocidos y garantizados de manera conjunta entre el Estado y los pueblos indígenas siempre acorde con lo establecido en la Constitución Federal y las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XIV. A adquirir, desarrollar, operar y administrar medios y sistemas de comunicación y difusión, de conformidad con las leyes de la materia. El Gobierno del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
+XIV. A adquirir, desarrollar, operar y administrar medios y sistemas de comunicación y difusión, de conformidad con las leyes de la materia. La Gobernadora o Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
@@ -235,9 +239,9 @@ XIX. A que la normatividad en la materia, procure asegurar el acceso a la repres
 
 XX. A que los partidos políticos, bajo los principios del pluralismo político y cultural, procuren la participación de los pueblos y comunidades indígenas para el acceso a los cargos de elección y representación popular;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXI. El Gobierno del Estado, establecerá los mecanismos para el reconocimiento de una instancia estatal de representación y vinculación de autoridades indígenas ante los órganos de gobierno; para participar en las instituciones y determinaciones de políticas públicas de atención a los pueblos y comunidades indígenas; y,
+XXI. La Gobernadora o Gobernador del Estado, establecerá los mecanismos para el reconocimiento de una instancia estatal de representación y vinculación de autoridades indígenas ante los órganos de gobierno; para participar en las instituciones y determinaciones de políticas públicas de atención a los pueblos y comunidades indígenas.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
@@ -415,13 +419,13 @@ Los partidos políticos tienen derecho a participar en las elecciones estatales,
 
 Los partidos políticos contarán de manera equitativa y gratuita con elementos para llevar a cabo sus actividades, por lo tanto, tendrán derecho al uso de los medios de comunicación, de acuerdo a la legislación aplicable. Además la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, así como las reglas para el acceso de los candidatos independientes a dichas prerrogativas, a efecto de que se encuentren en aptitud de participar en la elección en la cual se hayan registrado.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes, las cuales no excederán el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador. La Ley establecerá los procedimientos para la fiscalización oportuna, control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos y los ciudadanos que participen de manera independiente, así como las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes, las cuales no excederán el diez por ciento del tope de gastos de campaña que se determine para la elección de la Gobernadora o Gobernador. La Ley establecerá los procedimientos para la fiscalización oportuna, control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos y los ciudadanos que participen de manera independiente, así como las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-Las campañas electorales no excederán de sesenta días para la elección de Gobernador, ni de cuarenta y cinco días para la elección de diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. La Ley fijará las reglas para las precampañas y las campañas electorales de los partidos políticos y de los ciudadanos registrados que participen de manera independiente, así como las sanciones para quienes las infrinjan.
+Las campañas electorales no excederán de sesenta días para la elección de la Gobernadora o Gobernador, ni de cuarenta y cinco días para la elección de diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. La Ley fijará las reglas para las precampañas y las campañas electorales de los partidos políticos y de los ciudadanos registrados que participen de manera independiente, así como las sanciones para quienes las infrinjan.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
@@ -517,11 +521,11 @@ El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecu
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo o el Judicial en un individuo.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 18.
 
-La ciudad de Morelia es la residencia habitual de los Poderes, y éstos no podrán trasladarse a otro lugar del Estado sino por causa grave, cuando lo acuerden así las dos terceras partes de los miembros del Congreso, a iniciativa del Gobernador del Estado.
+La ciudad de Morelia es la residencia habitual de los Poderes, y éstos no podrán trasladarse a otro lugar del Estado sino por causa grave, cuando lo acuerden así las dos terceras partes de los miembros del Congreso, a iniciativa de la persona Titular del Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -705,11 +709,11 @@ La revisión y dictamen de las cuentas públicas se hará con base en el Informe
 
 (DEROGADO, P.O. 7 DE MARZO DE 2003)
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 33.
 
-El Gobernador del Estado asistirá a la apertura de cada año legislativo del Congreso del Estado. A esta sesión deberán asistir el Presidente y los Magistrados del Supremo Tribunal de Justicia.
+La Gobernadora o Gobernador del Estado asistirá a la apertura de cada año legislativo del Congreso del Estado. A esta sesión deberán asistir el Presidente y los Magistrados del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -737,7 +741,9 @@ Las sesiones del Congreso serán de conformidad a lo que determine su Ley Orgán
 
 El derecho de iniciar leyes corresponde:
 
-I.- Al Gobernador del Estado;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+I. La persona Titular del Ejecutivo del Estado;
 
 II.- A los Diputados;
 
@@ -757,13 +763,13 @@ IV.- bis. A los Gobiernos Comunales; y,
 
 V.- A los ciudadanos michoacanos, de conformidad con los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de iniciativa popular la materia tributaria o fiscal, de Egresos y la regulación interna de los órganos del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-Las iniciativas presentadas por el Gobernador del Estado o por el Supremo Tribunal de Justicia pasarán desde luego a comisión. Las que presentaren los diputados, ayuntamientos o los ciudadanos, se sujetarán a los trámites que señale el reglamento.
+Las iniciativas presentadas por la persona Titular del Ejecutivo del Estado o por el Supremo Tribunal de Justicia pasarán desde luego a comisión. Las que presentaren los diputados, ayuntamientos o los ciudadanos, se sujetarán a los trámites que señale el reglamento.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-En caso de que exista una crisis evidente en temas de derechos humanos, el Gobernador podrá presentar en cualquier momento, hasta dos iniciativas preferentes que correspondan a tal problemática, por cada año legislativo. Cada iniciativa con el carácter preferente, deberá ser discutida y votada por el Pleno del Congreso del Estado en un plazo máximo de treinta días naturales.
+En caso de que exista una crisis evidente en temas de derechos humanos, la persona Titular del Ejecutivo del Estado podrá presentar en cualquier momento, hasta dos iniciativas preferentes que correspondan a tal problemática, por cada año legislativo. Cada iniciativa con el carácter preferente, deberá ser discutida y votada por el Pleno del Congreso del Estado en un plazo máximo de treinta días naturales.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
@@ -795,11 +801,11 @@ Para efectos de las fracciones IV, V y VII de este artículo, se entenderá por 
 
 En los casos de urgencia notoria, calificada por el voto de las dos terceras partes de los diputados presentes, el Congreso podrá dispensar la lectura o lecturas del dictamen que hubiere formulado la comisión respectiva.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 39.
 
-Siempre que concurra el Gobernador del Estado o el Presidente del Supremo Tribunal de Justicia o los representantes de ambos para apoyar sus opiniones, tendrán voz en las discusiones pero no voto.
+Siempre que concurra la Gobernadora o Gobernador del Estado, o la Presidenta o Presidente del Supremo Tribunal de Justicia o los representantes de ambos para apoyar sus opiniones, tendrán voz en las discusiones pero no voto.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -865,9 +871,9 @@ c) La fracción territorial que haya de constituirse en nuevo municipio, debe co
 
 d) Que el poblado que se elija como cabecera municipal tenga una población no inferior a veinte mil habitantes y cuente con la infraestructura que garantice la prestación de los servicios públicos; y,
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-e) El Congreso debe solicitar la opinión del ayuntamiento de cuyo territorio pretenda formarse la nueva circunscripción municipal, así como la del Gobernador, quienes deberán emitirla dentro de los treinta días hábiles siguientes a la fecha en que les fuere requerida.
+e) El Congreso debe solicitar la opinión del ayuntamiento de cuyo territorio pretenda formarse la nueva circunscripción municipal, así como de la persona Titular del Ejecutivo del Estado, quienes deberán emitirla dentro de los treinta días hábiles siguientes a la fecha en que les fuere requerida;
 
 V.- Agrupar dos o más Municipios en uno solo, cuando a su juicio no reunan las condiciones expresadas en la fracción anterior. El acuerdo debe ser aprobado por las dos terceras partes de los Diputados presentes;
 
@@ -1003,13 +1009,13 @@ XXIII-C.- Elegir y destituir del encargo, por el voto de las dos terceras partes
 
 XXIII-D. Elegir de entre la terna que envíe el Titular del Poder Ejecutivo, al titular del Centro de Conciliación Laboral del Estado Michoacán de Ocampo, por el voto de las dos terceras partes de los diputados presentes; así como destituirlo por la misma mayoría calificada;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus cargos, y admitir o rechazar las renuncias que hagan de sus respectivos puestos los diputados y los funcionarios y empleados que fueren de su nombramiento. Igualmente, aceptar o rechazar la renuncia que presente el Gobernador del Estado, o las licencias que éste solicite para separarse de sus funciones por más de treinta días;
+XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus cargos, y admitir o rechazar las renuncias que hagan de sus respectivos puestos los diputados y los funcionarios y empleados que fueren de su nombramiento. Igualmente, aceptar o rechazar la renuncia que presente la Gobernadora o Gobernador del Estado, o las licencias que éste solicite para separarse de sus funciones por más de treinta días;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXV.- Designar Gobernador interino del Estado cuando la separación del titular sea mayor de treinta días;
+XXV.- Designar Gobernadora o Gobernador interino del Estado cuando la separación del titular sea mayor de treinta días;
 
 (NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXVI DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: ”XXVI.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 106 de esta Constitución.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1043,9 +1049,9 @@ XXX.- Conceder, por el voto de las dos terceras partes de los diputados presente
 
 XXXI.- Establecer el juicio de jurados para los delitos cometidos por medio de la prensa contra el orden público y cuando lo creyere conveniente, respecto a los demás delitos;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXXII.- Aprobar o rechazar las concesiones otorgadas y los contratos de interés general celebrados por el Ejecutivo del Estado;
+XXXII. Aprobar o rechazar las concesiones otorgadas y los contratos de interés general celebrados por la persona Titular del Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -1071,13 +1077,13 @@ XXXVII.- Aprobar la licencia o renuncia del Fiscal General del Estado;
 
 XXXVIII.- Remover al Fiscal General del Estado mediante el voto de las dos terceras partes de los diputados presentes;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXXIX.- Ratificar el nombramiento que haga el Gobernador del Estado del titular de la dependencia de Control interno, por el voto de las dos terceras partes de los diputados presentes;
+XXXIX.- Ratificar el nombramiento que haga la Gobernadora o Gobernador del Estado del titular de la dependencia de control interno, por el voto de las dos terceras partes de los diputados presentes;
 
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XL. Dictaminar de manera prioritaria y con carácter de preferente las leyes o reformas que envíe el Gobernador, en el supuesto de crisis evidente de derechos humanos; y,
+XL.- Dictaminar de manera prioritaria y con carácter de preferente las leyes o reformas que envíe la Gobernadora o Gobernador, en el supuesto de crisis evidente de derechos humanos; y,
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE AGOSTO DE 2018)</small>
 
@@ -1099,27 +1105,29 @@ XLI.- Las demás que le confiera expresamente esta Constitución.
 
 ### CAPITULO III. Del Poder Ejecutivo
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-#### SECCION I. De la Elección del Gobernador
+#### SECCIÓN I. De la Elección de la Gobernadora o Gobernador del Estado
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 47.
 
-Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denominará "Gobernador del Estado".
+Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denominará «Gobernadora del Estado» o «Gobernador del Estado».
 
-(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 48.
 
-La elección de Gobernador será popular y directa en los términos que disponga la Ley Electoral.
+La elección del Gobernador o Gobernadora será popular y directa en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 49.
 
-Para ser Gobernador se requiere:
+Para ser Gobernador o Gobernadora se requiere:
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 I.- Ser ciudadano michoacano en pleno goce de sus derechos;
 
@@ -1127,17 +1135,25 @@ I.- Ser ciudadano michoacano en pleno goce de sus derechos;
 
 II.- Haber cumplido treinta años el día de la elección;
 
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
 III.- Haber nacido en el Estado o tener residencia efectiva no menor de cinco años anteriores al día de la elección.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 50.
 
-No pueden desempeñar el cargo de Gobernador:
+No pueden desempeñar el cargo de Gobernador o Gobernadora:
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 I.- Los individuos que pertenezcan o hayan pertenecido al estado eclesiástico o que hayan sido o sean ministros de algún culto religioso;
 
-II.- No pueden ser electos para ocupar el cargo de Gobernador:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2025)</small>
+
+II.- No pueden ser electos para ocupar el cargo de la persona Titular del Ejecutivo del Estado:
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 a).- Los que tengan mando de fuerza pública;
 
@@ -1157,11 +1173,11 @@ d).- Los consejeros y funcionarios electorales federales o estatales, a menos qu
 
 Las personas a que se refieren los incisos a), b) y c) anteriores, podrán ser electas si se separan de sus cargos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 51.
 
-La elección de Gobernador se celebrará el primer domingo del mes de junio del año en que concluya el período constitucional. El Gobernador entrará a ejercer su cargo el día primero del mes de octubre del año de la elección y no podrá durar en él más de seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea el de elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+La elección de Gobernadora o Gobernador se celebrará el primer domingo del mes de junio del año en que concluya el período constitucional. La persona Titular del Ejecutivo del Estado entrará a ejercer su cargo el día primero del mes de octubre del año de la elección y no podrá durar en él más de seis años. La persona que haya desempeñado el cargo de la titularidad del Ejecutivo del Estado, cuyo origen sea el de elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1169,69 +1185,79 @@ La elección de Gobernador se celebrará el primer domingo del mes de junio del 
 
 Nunca podrán ser electos para el período inmediato;
 
-a).- El Gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación, y
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los últimos años del período.
+a) La Gobernadora o Gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación; y,
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+b) La Gobernadora o Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los últimos años del período.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 53.
 
-El Gobernador cesará en el ejercicio de su encargo al terminar su período de gobierno, aun cuando no se haya hecho la elección del que deba substituirlo, o éste no se haya presentado.
+La Gobernadora o Gobernador cesará en el ejercicio de su encargo al terminar su período de gobierno, aun cuando no se haya hecho la elección del que deba substituirlo, o éste no se haya presentado.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 54.
 
-Si al comenzar un período constitucional no se presentare el Gobernador electo, la elección no estuviere hecha o no sea declarada su legalidad y validez, cesará, sin embargo, el Gobernador cuyo período haya concluido, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado.
+Si al comenzar un período constitucional no se presentare la Gobernadora o Gobernador electo, la elección no estuviere hecha o no sea declarada su legalidad y validez, cesará, sin embargo, el Gobernador cuyo período haya concluido, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 55.
 
-El cargo de Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
+El cargo de Gobernadora o Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
 
-(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 56.
 
-La designación de Gobernador Provisional, Interino y Substituto debe recaer en persona que reúna los requisitos a que se refiere el artículo 49 y que no esté comprendida en alguna de las prohibiciones aplicables de los artículos 50 y 52 de esta Constitución.
+La designación de la Gobernadora o Gobernador Provisional, Interino y Substituto debe recaer en persona que reúna los requisitos a que se refiere el artículo 49 y que no esté comprendida en alguna de las prohibiciones aplicables de los artículos 50 y 52 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 57.
 
-En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, el Congreso concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino; en un plazo no mayor a diez días, siguientes a la designación del Gobernador Interino, expedirá la convocatoria de elecciones para gobernador substituto que termine el período constitucional, debiendo mediar entre la fecha de la convocatoria y la que se señale para las elecciones, un plazo no menor de tres meses ni mayor de seis.
+En caso de falta absoluta de la persona Titular del Ejecutivo del Estado, ocurrida en los dos primeros años del período respectivo, el Congreso concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría absoluta de votos, una Gobernadora o Gobernador interino; en un plazo no mayor a diez días, siguientes a la designación de la persona Titular de la Gubernatura Interina, expedirá la convocatoria de elecciones para gobernador substituto que termine el período constitucional, debiendo mediar entre la fecha de la convocatoria y la que se señale para las elecciones, un plazo no menor de tres meses ni mayor de seis.
 
-Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período para el cual fue electo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría calificada de votos, al Gobernador substituto que deberá concluir el período respectivo.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+Cuando la falta de la persona Titular del Ejecutivo del Estado ocurriere en los cuatro últimos años del período para el cual fue electo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría calificada de votos, a la Gobernadora o Gobernador substituto que deberá concluir el período respectivo.
 
-Cuando la falta del Gobernador fuese temporal, el Congreso del Estado designará un Gobernador Interino para que despache durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario de Gobierno se encargará del despacho del Poder Ejecutivo, y a falta de éste lo hará el Secretario de Finanzas.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Cuando la falta de la persona Titular del Ejecutivo del Estado fuese temporal, el Congreso del Estado designará una Gobernadora o Gobernador Interino para que despache durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario de Gobierno se encargará del despacho del Poder Ejecutivo, y a falta de éste lo hará el Secretario de Finanzas.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 58.
 
-En caso de que se declaren desaparecidos los Poderes del Estado, será Gobernador el funcionario a quien corresponda, de acuerdo con lo dispuesto por el artículo 160 de esta Constitución, o en su defecto, el que designe la Cámara de Senadores o la Comisión Permanente del Congreso de la Unión, en los términos de la Constitución General de la República.
+En caso de que se declaren desaparecidos los Poderes del Estado, será Gobernadora o Gobernador a quien corresponda, de acuerdo con lo dispuesto por el artículo 160 de esta Constitución, o en su defecto, el que designe la Cámara de Senadores o la Comisión Permanente del Congreso de la Unión, en los términos de la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 59.
 
-El Gobernador, al tomar posesión de su cargo, prestará ante el Congreso del Estado, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de Michoacán; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
+La Gobernadora o Gobernador, al tomar posesión de su cargo, prestará ante el Congreso del Estado, la siguiente protesta: «Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Titular del Ejecutivo del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de Michoacán; y si así no lo hiciere, que la Nación y el Estado me lo demanden».
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-#### SECCION II. De las Facultades y Obligaciones del Gobernador
+#### SECCION II. De las Facultades y Obligaciones de la Gobernadora o Gobernador del Estado
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 60.
 
-Las facultades y obligaciones del Gobernador son:
+Las facultades y obligaciones de la Gobernadora o Gobernador son:
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado, y proveer en la esfera administrativa a su exacta observancia;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 II.- Poner a la disposición del Poder Judicial los medios necesarios para el ejercicio expedito de sus funciones;
 
@@ -1259,9 +1285,9 @@ VI.- Expedir los reglamentos interiores de las oficinas a su cargo;
 
 VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-VIII.- Presentar cada año al Congreso, a más tardar el treinta de abril, la Cuenta Pública de la Hacienda Estatal correspondiente al ejercicio fiscal próximo anterior, sólo se podrá ampliar el plazo de presentación hasta por treinta días naturales cuando medie solicitud del Gobernador, suficientemente justificada a juicio del Congreso; y a más tardar el veintiuno de noviembre las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el año siguiente;
+VIII.- Presentar cada año al Congreso, a más tardar el treinta de abril, la Cuenta Pública de la Hacienda Estatal correspondiente al ejercicio fiscal próximo anterior, sólo se podrá ampliar el plazo de presentación hasta por treinta días naturales cuando medie solicitud de la persona Titular del Ejecutivo del Estado, suficientemente justificada a juicio del Congreso; y a más tardar el veintiuno de noviembre las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el año siguiente;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1281,7 +1307,9 @@ XI.- Instruir a la Guardia Nacional, de acuerdo con los reglamentos que expida e
 
 XII.- Supervisar la formación e instrucción de las fuerzas de seguridad pública del Estado y apoyar, en su caso, a los cuerpos de seguridad pública municipal, policía preventiva y tránsito municipales.
 
-La policía preventiva municipal, acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+La policía preventiva municipal, acatará las órdenes que la Gobernadora o Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1329,17 +1357,25 @@ XXII.- Presentar terna al Congreso del Estado, para la elección del titular del
 
 XXIII.- Todas las demás atribuciones que le confieran la Constitución Federal, la del Estado y las leyes que de ellas emanen.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 61.
 
-El Gobernador del Estado no podrá:
+La Gobernadora o Gobernador del Estado no podrá:
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 I.- Negarse a promulgar y publicar las leyes y decretos de la Legislatura;
 
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
 II.- Imponer contribución alguna que no esté previamente establecida por la ley;
 
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
 III.- Distraer los caudales públicos del objeto a que estén destinados por la ley;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 IV.- Impedir a retardar las elecciones populares o la instalación de la Legislatura;
 
@@ -1347,15 +1383,19 @@ IV.- Impedir a retardar las elecciones populares o la instalación de la Legisla
 
 V.- Intervenir por sí o a través de persona física o moral, o en cualquier forma, en las elecciones para favorecer a partido político o candidato alguno;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2025)</small>
 
-VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo, y a falta de éste el encargado será el Secretario de Finanzas.
+VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando la persona Titular del Ejecutivo del Estado, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo, y a falta de éste el encargado será el Secretario de Finanzas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 Cuando el Gobernador salga del territorio nacional con motivos oficiales, deberá informar a su regreso, por escrito al Congreso, en un plazo no mayor de quince días, sobre las acciones realizadas en el extranjero y los resultados obtenidos;
 
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
 VII.- Mezclarse en asuntos judiciales, ni disponer, durante la tramitación de un juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia, y
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 VIII.- Autorizar la ocupación de la propiedad de persona alguna, ni privarla de la posesión, uso o goce de lo que le pertenece.
 
@@ -1363,19 +1403,19 @@ VIII.- Autorizar la ocupación de la propiedad de persona alguna, ni privarla de
 
 #### SECCION III. Del Despacho del Poder Ejecutivo
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 62.
 
-Para el despacho de los negocios del orden político-administrativo, el Ejecutivo del Estado contará con las dependencias básicas y organismos que determinen esta Constitución, la Ley Orgánica del Poder Ejecutivo del Estado y demás leyes.
+Para el despacho de los negocios del orden político-administrativo, la Gobernadora o Gobernador del Estado contará con las dependencias básicas y organismos que determinen esta Constitución, la Ley Orgánica del Poder Ejecutivo del Estado y demás leyes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 Asimismo, contará con una Agencia de Coordinación de los Pueblos y Comunidades Indígenas en Michoacán, la cual estará encargada de coordinar los trabajos de las comunidades indígenas y los Gobiernos Comunales con las diversas dependencias y entidades de la administración pública estatal.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-El Titular del Poder Ejecutivo del Estado, observará y garantizará el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de estado, así como en la integración de los organismos autónomos, descentralizados se observará el mismo principio.
+La persona Titular del Poder Ejecutivo del Estado, observará y garantizará el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de estado, así como en la integración de los organismos autónomos, descentralizados se observará el mismo principio.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1397,27 +1437,29 @@ IV.- No haber sido condenado por delito no culposo.
 
 Los mismos requisitos serán necesarios para ser Secretario de Finanzas.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 64.
 
-El Secretario de Gobierno será el órgano por el cual el Ejecutivo comunique sus resoluciones y llevará en el Congreso la representación del Gobernador cuando éste lo crea conveniente.
+El Secretario de Gobierno será el órgano por el cual el Ejecutivo comunique sus resoluciones y llevará en el Congreso la representación de la Gobernadora o Gobernador cuando éste lo crea conveniente.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 Al Secretario de Gobierno le corresponde representar al Titular del Poder Ejecutivo del Estado, por sí o por medio de representante designado al efecto, en los juicios y procedimientos en que sea parte.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 65.
 
-La promulgación y la orden de publicación de las leyes se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno. Todos los decretos reglamentos; órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no serán obligatorios.
+La promulgación y la orden de publicación de las leyes se harán constar mediante la firma de la persona Titular del Ejecutivo del Estado y del Secretario de Gobierno. Todos los decretos reglamentos; órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por la Gobernadora o Gobernador, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no serán obligatorios.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 66.
 
-Los titulares de las dependencias serán responsables con el Gobernador en todos aquellos asuntos que lleven su firma.
+Los titulares de las dependencias serán responsables con la Gobernadora o Gobernador en todos aquellos asuntos que lleven su firma.
 
 > <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS Y PUBLICADAS EN EL P.O. DE 23 DE MAYO DE 2006, MEDIANTE DECRETO NÚMERO 44, SE MODIFICA SUSTANCIALMENTE EL CONTENIDO DEL PRESENTE CAPÍTULO; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO DEL MISMO PUBLICADO EN EL PERIÓDICO QUE SE MENCIONA.</small>
 
@@ -1745,7 +1787,9 @@ c) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.
 
 La presidencia del Supremo Tribunal de Justicia se renovará cada tres años de manera rotatoria, las magistradas y magistrados integrantes del Pleno del Supremo Tribunal de Justicia elegirán de entre ellos a su Presidente, sin posibilidad de reelección.
 
-El Presidente del Supremo Tribunal de Justicia y el Presidente del Órgano de Administración de Justicia, rendirán ante y en nombre de sus Plenos, el tercer jueves del mes de febrero de cada año, informe del estado que guarde la administración de justicia. A este acto asistirán el Gobernador del Estado y los diputados al Congreso del Estado.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+El Presidente del Supremo Tribunal de Justicia y el Presidente del Órgano de Administración de Justicia, rendirán ante y en nombre de sus Plenos, el tercer jueves del mes de febrero de cada año, informe del estado que guarde la administración de justicia. A este acto asistirán la persona Titular del Ejecutivo del Estado y los diputados al Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -2003,9 +2047,9 @@ El Tribunal Electoral del Estado será órgano permanente, autónomo y máxima a
 
 El Tribunal Electoral cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas al fomento de la cultura de la legalidad en materia de justicia electoral y participación ciudadana, consistentes en tareas de capacitación, investigación y difusión.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-El Pleno del Tribunal Electoral declarará la legalidad y validez de la elección de Gobernador del Estado, una vez resueltos, en su caso, los medios de impugnación que se hubieren interpuesto en contra de la misma.
+El Pleno del Tribunal Electoral declarará la legalidad y validez de la elección de la Gobernadora o Gobernador del Estado, una vez resueltos, en su caso, los medios de impugnación que se hubieren interpuesto en contra de la misma.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -2039,6 +2083,10 @@ La investigación de los delitos corresponde al Ministerio Público y a las poli
 
 Intervendrá en todos los asuntos que la ley determine.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en esta Constitución.
+
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 100.
@@ -2054,6 +2102,10 @@ El Fiscal Estatal Anticorrupción durará en su encargo siete años y será nomb
 La Ley Orgánica de la institución fijará la adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren, entre los cuales se incluirá la Fiscalía Especializada en Combate a la Corrupción; asimismo establecerá centros especializados en mecanismos alternativos de solución de controversias y determinará los casos que requieran supervisión judicial.
 
 El Fiscal General del Estado, deberá rendir al Congreso del Estado, un informe anual y cuando sea requerido respecto a las acciones y resultados de la institución a su cargo.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+Para proteger el derecho de las mujeres a una vida libre de violencias, la Fiscalía General del Estado, contará con la Fiscalía Especializada en Delitos relacionados con las Violencias de Género contra las Mujeres.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
 
@@ -2083,15 +2135,21 @@ Para la elección del Fiscal General del Estado, se observará el siguiente proc
 
 I. El Congreso del Estado emitirá convocatoria pública para ocupar el cargo de Fiscal General del Estado, noventa días antes del término del encargo;
 
-II. De entre los concurrentes a esa convocatoria, que cumplan todos los requisitos, elegirá diez propuestos en una lista que enviará al Gobernador del Estado;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-III. El Gobernador del Estado contará hasta con diez días a partir de la recepción de las propuestas, para formar una terna, misma que remitirá al Congreso del Estado;
+II. De entre los concurrentes a esa convocatoria, que cumplan todos los requisitos, elegirá diez propuestos en una lista que enviará la persona Titular del Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+III. La Gobernadora o Gobernador del Estado contará hasta con diez días a partir de la recepción de las propuestas, para formar una terna, misma que remitirá al Congreso del Estado;
 
 IV. El Congreso del Estado deberá, de entre la terna propuesta elegir a quien será Fiscal General del Estado por el voto de las dos terceras partes de sus integrantes;
 
 V. De no enviarse la terna dentro del plazo de diez días el Congreso del Estado integrará la terna correspondiente;
 
-VI. De no lograr la votación requerida para elegir de entre los propuestos integrantes de la terna hasta en dos ocasiones, se solicitará al Gobernador del Estado la integración de una nueva terna, que será integrada por personas de la lista inicial;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+VI. De no lograr la votación requerida para elegir de entre los propuestos integrantes de la terna hasta en dos ocasiones, se solicitará a la persona Titular del Ejecutivo del Estado la integración de una nueva terna, que será integrada por personas de la lista inicial;
 
 VII. El Fiscal General del Estado tomará protesta ante el Congreso; y,
 
@@ -2179,9 +2237,9 @@ En los casos previstos por los artículos 110 y 111 de la Constitución Polític
 
 El juicio político es el procedimiento para fincar responsabilidad política a un servidor público. Implica el ejercicio material de una función jurisdiccional llevada a cabo por el Congreso del Estado y sus sanciones serán de carácter eminentemente político y administrativo.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-Podrán ser sujetos de juicio político, el Gobernador, los Diputados al Congreso, el Auditor Superior, las magistradas y magistrados del Poder Judicial, las magistradas y magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial, los titulares de las dependencias centralizadas y entidades paraestatales de la administración pública estatal, y los integrantes o titulares de los organismos a los que esta Constitución otorgue autonomía, asimismo los integrantes y funcionarios de los ayuntamientos que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho públicos o cuando interfieran indebidamente a favor de partido político o candidato durante los procesos electorales. No procede juicio político por mera expresión de ideas.
+Podrán ser sujetos de juicio político, la Gobernadora o Gobernador, los Diputados al Congreso, el Auditor Superior, las magistradas y magistrados del Poder Judicial, las magistradas y magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial, los titulares de las dependencias centralizadas y entidades paraestatales de la administración pública estatal, y los integrantes o titulares de los organismos a los que esta Constitución otorgue autonomía, asimismo los integrantes y funcionarios de los ayuntamientos que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho públicos o cuando interfieran indebidamente a favor de partido político o candidato durante los procesos electorales. No procede juicio político por mera expresión de ideas.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -2477,7 +2535,9 @@ g) Calles, parques y jardines y su equipamiento.
 
 h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito.
 
-La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue de fuerza mayor o alteración grave del orden público. El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde éste resida habitual o transitoriamente; e
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que la Gobernadora o Gobernador del Estado le transmita en aquellos casos que éste juzgue de fuerza mayor o alteración grave del orden público. El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde éste resida habitual o transitoriamente; e
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
@@ -2532,6 +2592,14 @@ XII.- Celebrar convenios para la administración y custodia de las zonas federal
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
 XIII.- Vigilar las escuelas públicas y las particulares, tomando empeño para que en sus respectivas circunscripciones asistan a las escuelas todos los niños en edad escolar;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XIII Bis.- Prevenir y erradicar la violencia contra las mujeres, así como la aplicación de los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezcan su desarrollo integral y bienestar conforme a los principios de igualdad y de no discriminación, el respeto a la dignidad humana, la libertad y su empoderamiento.
+
+Para tal fin los Municipios en el ámbito de sus respectivas competencias deberán expedir las normas legales correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+
+Para el cumplimiento de esta fracción, las instancias municipales de la mujer deben de contar con personal especializado para brindar la debida atención;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
 
@@ -2825,11 +2893,11 @@ En el caso de los Gobiernos Comunales las leyes específicas establecerán un mo
 
 ## TITULO SEPTIMO. De la Educación Pública
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 137.
 
-La educación pública dependerá directamente del Gobernador del Estado, quien cuidará de fomentarla por todos los medios posibles.
+La educación pública dependerá directamente de la persona Titular del Ejecutivo del Estado, quien cuidará de fomentarla por todos los medios posibles.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
 
@@ -2923,7 +2991,9 @@ También dictará las leyes necesarias para determinar los casos en que sea de u
 
 Los núcleos de población que de hecho o por derecho guarden el estado comunal, tienen plena capacidad para adquirir, poseer y administrar tierras, bosques, aguas y sus accesiones. A fin de que puedan acreditar su personalidad y ejercer sus derechos, la Legislatura del Estado dictará una ley que regule su funcionamiento y proteja debidamente los bienes que constituyan su patrimonio, conforme a las siguientes bases generales:
 
-I.- Siguiendo un procedimiento democrático y de acuerdo con las costumbres establecidas, se hará la designación de los representantes legales de las comunidades, los cuales acreditarán su personalidad con credenciales que deberá expedirles el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+I.- Siguiendo un procedimiento democrático y de acuerdo con las costumbres establecidas, se hará la designación de los representantes legales de las comunidades, los cuales acreditarán su personalidad con credenciales que deberá expedirles la Gobernadora o Gobernador del Estado.
 
 II.- Se formulará el censo de las personas que deben ser reconocidas como comuneros, dando amplia oportunidad de defensa a todos los que se crean con tal derecho y se establecerán las bases para determinar la forma en que se trasmitan los derechos de cada comunero.
 
@@ -2943,27 +3013,31 @@ VIII.- Se formularán también las normas que regulen el manejo honrado y el con
 
 IX.- El Estado dictará también, dentro de la esfera de su competencia y en auxilio del Gobierno Federal, las disposiciones necesarias para vigilar que no se lesionen los ejidos ni la auténtica pequeña propiedad, que no se realicen falsas clasificaciones de tierras o de explotaciones agrícolas y ganaderas, ni se realicen maniobras o simulaciones para ocultar acaparamientos de la propiedad territorial, que no se violen en perjuicio de los campesinos, las disposiciones relativas al crédito y al correcto manejo del patrimonio ejidal y, en general, para lograr el cumplimiento efectivo de la Reforma Agraria.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 146.
 
-El Ejecutivo vigilará por la seguridad de los obreros haciendo que los patrones adopten las medidas necesarias, a fin de evitar los peligros para su salud o integridad física.
+La persona Titular del Ejecutivo vigilará por la seguridad de los obreros haciendo que los patrones adopten las medidas necesarias, a fin de evitar los peligros para su salud o integridad física.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 147.
 
-El Ejecutivo tomará las medidas necesarias para que el salario mínimo señalado por las juntas competentes, se haga efectivo en todo el Estado.
+La persona Titular del Ejecutivo tomará las medidas necesarias para que el salario mínimo señalado por las juntas competentes, se haga efectivo en todo el Estado.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 148.
 
-El Gobernador cuidará con todo empeño de que sean obedecidas las prescripciones relativas al trabajo y a la previsión social, en los términos de la Ley Federal del Trabajo y de la Constitución General de la República.
+La Gobernadora o Gobernador cuidará con todo empeño de que sean obedecidas las prescripciones relativas al trabajo y a la previsión social, en los términos de la Ley Federal del Trabajo y de la Constitución General de la República.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
 
 Las relaciones de trabajo entre el Estado y sus trabajadores, se regirán por las leyes que expida la Legislatura del Estado, con base en lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+A todo trabajo igual corresponderá salario igual, sin tener en cuenta el sexo ni género. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
@@ -3051,7 +3125,9 @@ La infracción a lo prevenido en este artículo y en los demás que tratan de la
 
 Ningún individuo podrá desempeñar, a la vez, dos cargos de elección popular; pero podrá elegir entre ambos el que quiera desempeñar cuando resulte electo para los dos.
 
-El cargo de Gobernador prefiere a cualquier otro.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+El cargo de Gobernadora o Gobernador prefiere a cualquier otro.
 
 > <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
 
@@ -3075,11 +3151,11 @@ Todo funcionario público, sin excepción alguna, antes de tomar posesión de su
 
 Los Poderes Supremos del Estado residirán en el mismo lugar, a menos que por circunstancias extraordinarias, calificadas por el voto de las dos terceras partes de los individuos presentes en el Congreso, sea necesaria la separación.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 159.
 
-No podrá hacerse cargo alguno que no esté comprendido en el Presupuesto de Egresos o determinado por la Ley. El Secretario de Finanzas se negará a obedecer cualquier orden del Gobernador contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado; de lo contrario, será responsable personal y pecuniariamente.
+No podrá hacerse cargo alguno que no esté comprendido en el Presupuesto de Egresos o determinado por la Ley. El Secretario de Finanzas se negará a obedecer cualquier orden de la persona Titular del Ejecutivo del Estado contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado; de lo contrario, será responsable personal y pecuniariamente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -3149,9 +3225,9 @@ IV.- Que una vez aprobado en los términos de la fracción anterior, se someta a
 
 Si transcurre un mes después de recibido el decreto por los Ayuntamientos y de los Gobiernos Comunales, sin que remitan al Congreso el resultado de su votación, se entenderá que aceptan la adicción (sic) o reforma; y,
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-V.- Las adiciones o reformas constitucionales que fueren aprobadas, se publicarán dentro de los siguientes diez días hábiles y no podrá el Gobernador hacer observaciones acerca de ellas.
+V.- Las adiciones o reformas constitucionales que fueren aprobadas, se publicarán dentro de los siguientes diez días hábiles y no podrá la persona Titular del Ejecutivo del Estado hacer observaciones acerca de ellas.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -4542,3 +4618,21 @@ TERCERO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 CUARTO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para el cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 QUINTO. El Gobierno del Estado, las autoridades del Poder Judicial y Legislativo, así como las autoridades municipales, garantizarán la inamovilidad de los trabajadores de base en su fuente de empleo, así como todos los derechos laborales y constitucionales; y, establecerán los instrumentos de capacitación y asesoría para garantizar la adaptación, aprendizaje y el uso adecuado de las tecnologías de la información y comunicación de las personas trabajadoras de los diferentes órdenes de gobierno, con el fin que de manera progresiva se implemente el gobierno digital.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 176.- ARTÍCULO ÚNICO.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 1°; SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 2°, RECORRIÉNDOSE LOS DEMÁS EN SU ORDEN SUBSECUENTE; UN PÁRRAFO TERCERO AL ARTÍCULO 99, UN PÁRRAFO SÉPTIMO AL ARTÍCULO 100; LA FRACCIÓN XIII BIS AL ARTÍCULO 123; Y, UN PÁRRAFO TERCERO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 148 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Una vez que sea aprobado el presente proyecto de Decreto, remítase a los 112 ayuntamientos y al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+TERCERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 179.- ARTÍCULO ÚNICO.- SE REFORMAN, LAS FRACCIONES IX, XIV Y XXI AL ARTÍCULO 3°; PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 13; ARTÍCULO 18; ARTÍCULO 33; FRACCIÓN I, PÁRRAFOS SEGUNDO Y TERCERO DE LA FRACCIÓN V AL ARTÍCULO 36; ARTÍCULO 39; INCISO E), DE LA FRACCIÓN IV, FRACCIONES XXIV, XXV, XXXII, XXXIX Y XL DEL ARTÍCULO 44; LA DENOMINACIÓN DE LA SECCIÓN I, DEL CAPÍTULO III «DE LA ELECCIÓN DE LA GOBERNADORA O GOBERNADOR»; ARTÍCULO 47; ARTÍCULO 48; PÁRRAFO PRIMERO DEL ARTÍCULO 49; PÁRRAFO PRIMERO Y FRACCIÓN II DEL ARTÍCULO 50; ARTÍCULO 51; INCISOS A) Y B) DEL ARTÍCULO 52; ARTÍCULO 53; ARTÍCULO 54; ARTÍCULO 55; ARTÍCULO 56; PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 57; ARTÍCULO 58; ARTÍCULO 59; LA DENOMINACIÓN DE LA SECCIÓN II «DE LAS FACULTADES Y OBLIGACIONES DE LA GOBERNADORA O GOBERNADOR DEL ESTADO»; PÁRRAFO PRIMERO, FRACCIÓN VIII, Y PÁRRAFO SEGUNDO DE LA FRACCIÓN XII AL ARTÍCULO 60; PÁRRAFO PRIMERO Y FRACCIÓN VI DEL ARTÍCULO 61; PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 62; PÁRRAFO PRIMERO DEL ARTÍCULO 64; ARTÍCULO 65; ARTÍCULO 66; SEGUNDO PÁRRAFO DEL ARTÍCULO 84; PÁRRAFO QUINTO DEL ARTÍCULO 98 A; FRACCIONES II, III Y VI DEL ARTÍCULO 102; PÁRRAFO SEGUNDO DEL ARTÍCULO 108; PÁRRAFO SEGUNDO DEL INCISO H) DE LA FRACCIÓN V, DEL ARTÍCULO 123; ARTÍCULO 137; FRACCIÓN PRIMERA DEL ARTÍCULO 145; ARTÍCULO 146; ARTÍCULO 147; PRIMER PÁRRAFO DEL ARTÍCULO 148; PÁRRAFO SEGUNDO AL ARTÍCULO 155; ARTÍCULO 159; Y, FRACCIÓN V, DEL ARTÍCULO 164, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a 112 ayuntamientos y al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
