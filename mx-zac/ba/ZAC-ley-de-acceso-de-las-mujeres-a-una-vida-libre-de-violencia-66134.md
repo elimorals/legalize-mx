@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6613
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2025-10-04"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -211,19 +211,35 @@ XIX. Sistema Nacional: El Sistema Nacional de Prevención, Atención, Sanción y
 
 XX. Tipos de violencia: Las formas de violencia contra las mujeres, de acuerdo a la naturaleza del daño que ocasiona y a los medios empleados;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXI. Víctima: La mujer, de cualquier edad, a quien se le ocasione cualquier tipo o modalidad de violencia, y
+XXI. Víctima: La mujer, de cualquier edad, a quien se le ocasione cualquier tipo o modalidad de violencia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XXII. Violencia contra las mujeres: Actos u omisiones intencionales, aislados o recurrentes, cuyo objetivo es dañar a las mujeres de diferentes maneras y en diversos espacios, independientemente de su edad, y del origen, contenido o significado de la conducta violenta.
+XXII. Violencia contra las mujeres: Actos u omisiones intencionales, aislados o recurrentes, cuyo objetivo es dañar a las mujeres de diferentes maneras y en diversos espacios, independientemente de su edad, y del origen, contenido o significado de la conducta violenta, y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XXIII. Trabajo reeducativo con agresores: El proceso mediante el cual se trabaja individualmente para erradicar las creencias y conductas que posibilitan, justifican y sostienen el ejercicio de la violencia contra las mujeres en cualquiera de sus tipos y modalidades a través de servicios integrales, especializados, gratuitos y monitoreables basados en la perspectiva de género y derechos humanos.
+
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 8 DE OCTUBRE DE 2025)</small>
 
 Autoridades competentes y participación social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-La aplicación de la presente Ley, corresponde a la persona Titular del Ejecutivo, a través de las dependencias y entidades de la administración pública estatal señaladas en la presente Ley y a los Ayuntamientos, en sus respectivos ámbitos de competencia, con la participación, en lo que corresponda, de los sectores social, académico y privado, así como de los medios de comunicación.
+La aplicación de la presente Ley corresponde, en el ámbito administrativo, a la persona Titular del Ejecutivo, a través de las dependencias y entidades de la administración pública estatal señaladas en la presente Ley y a los Ayuntamientos, en sus respectivas esferas de competencia, con la participación, en lo que corresponda, de los sectores social, académico y privado, así como de los medios de comunicación.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+En el ámbito de impartición de justicia, es competente el Tribunal Superior de Justicia del Estado de Zacatecas y, en la procuración de justicia, la Fiscalía General de Justicia el Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+Los servidores públicos obligados a la aplicación de esta Ley, deberán respetar los derechos humanos de las mujeres y garantizar el interés superior de la niñez, reconociendo los tipos de violencia señalados en esta Ley y emitir sus determinaciones, resoluciones y sentencias, con perspectiva de género.
 
 ## TÍTULO SEGUNDO. FORMAS DE VIOLENCIA
 
@@ -285,9 +301,57 @@ Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta L
 
 VII. Violencia simbólica: es una forma de violencia que consiste en la expresión de mensajes, patrones estereotipados, signos, valores, íconos e ideas sutiles e imperceptibles que transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad, y
 
-(ADICIONADA, P.O. 4 DE MAYO DE 2022) (F. DE E., P.O. 18 DE JUNIO DE 2022)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2025)</small>
 
-VIII. Violencia vicaria. Cualquier acto u omisión, por parte de la pareja o ex pareja sentimental de una mujer que inflija a personas con las que ésta tenga lazos de parentesco civil, por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo grado, un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causar perjuicio o daño psicológico, patrimonial, físico o de cualquier otra índole a la mujer, y
+VIII. Violencia Vicaria: Es cualquier acción u omisión cometida por quien tenga o haya tenido una relación de matrimonio, concubinato o mantenido una relación de hecho o de cualquier otro tipo con una mujer que ocasione o pueda ocasionar a personas con las que ésta tenga lazos de parentesco civil, por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo grado, un perjuicio o daño psicoemocional, físico, patrimonial o de cualquier otro tipo a ella y a sus hijas e hijos o persona vinculada significativamente a la mujer por lazos de parentesco civil o por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo grado, y que puede actualizarse, de manera enunciativa pero no limitativa, a través de las siguientes conductas:
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+a) Amenazar con causar daño a las hijas e hijos;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+b) Ocultar, retener, o sustraer a hijas e hijos así como a familiares o personas allegadas;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+c) Maltrato o puesta en peligro de hijas, hijos o familiares;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+d) Utilizar a hijas e hijos para obtener información respecto de la madre;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+e) Promover, incitar o fomentar actos de violencia física de hijas e hijos en contra de la madre;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+f) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+g) Promover mecanismos jurídicos y no jurídicos que retrasen, obstaculicen, limiten e impidan la convivencia, para manipular y controlar a la mujer, o dañar el vínculo afectivo;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+h) Promover mecanismos jurídicos y no jurídicos con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas o hijos en común;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+i) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+j) Incitar al suicidio o el feminicidio a la madre, y
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+k) Perpetrar feminicidio de las hijas y homicidio de los hijos por su progenitor.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+Este tipo de violencia puede cometerse, también, a través de familiares o personas con relación afectiva de quien comete este tipo de violencia.
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
@@ -414,6 +478,10 @@ XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el 
 XXII. Cualesquiera otras formas análogas que: lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+Las autoridades competentes incluirán, con carácter obligatorio, el trabajo reeducativo de agresores como parte de las medidas de prevención.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
@@ -925,7 +993,9 @@ I. Conducir, con una visión transversal y con perspectiva de género la políti
 
 II. Formular las bases para la cooperación, coordinación y concertación entre las autoridades correspondientes, para el cumplimiento de las finalidades de la Ley, y de los objetivos del Programa Estatal;
 
-III. Establecer, realizar, supervisar y mantener todos los instrumentos y acciones en la materia, y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+III. Establecer, realizar, supervisar y mantener todos los instrumentos y acciones en la materia, incluyendo la prevención y atención de las adicciones y aquellas en materia de trabajo reeducativo con agresores, y
 
 IV. Las demás que le asigne la presente Ley y los ordenamientos aplicables.
 
@@ -1177,9 +1247,17 @@ A. En materia de prevención y erradicación:
 
 I. Ejecutar campañas de prevención y erradicación sobre violencia contra las mujeres, las que tendrán por objetivo que la sociedad perciba el fenómeno como un asunto de seguridad pública y de derechos humanos, y no como un problema familiar;
 
-II. Promover programas de intervención temprana para prevenir la violencia contra las mujeres en las zonas que reporten mayor incidencia, y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-III. Elaborar y desarrollar, en coordinación con las instituciones correspondientes, protocolos o modelos para la detección de la violencia contra las mujeres en todos los centros a su cargo.
+II. Promover programas de intervención temprana para prevenir la violencia contra las mujeres en las zonas que reporten mayor incidencia;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+III. Elaborar y desarrollar, en coordinación con las instituciones correspondientes, protocolos o modelos para la detección de la violencia contra las mujeres en todos los centros a su cargo, y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+IV. Elaborar e implementar los programas de masculinidad para la paz que tendrán como objetivo incorporar a los hombres y las masculinidades libres de violencia en las políticas de (sic) para la eliminación de la violencia contra las mujeres.
 
 B. En materia de atención y protección:
 
@@ -1569,6 +1647,10 @@ c) El diseño e instrumentación de políticas públicas que eviten la comisión
 
 d) La verificación de los hechos y la publicidad de la verdad.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+e) La garantía de no repetición, debiendo incluir el trabajo reeducativo de los agresores.
+
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
 
 Sanción
@@ -1949,13 +2031,25 @@ V. Brindar a las personas agresoras tratamiento psicológico o psiquiátrico;
 
 VI. Informar a las personas agresoras sobre las consecuencias legales de sus conductas, y
 
-VII. Las demás que otorgue el Sistema Estatal, esta Ley, sus reglamentos y las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+VII. Dar seguimiento y evaluar los procesos reeducativos de las personas que asistan al centro;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+VIII. Colaborar en los procesos de procuración e impartición de justicia, cuando así se requiera por la autoridad judicial, en el cumplimiento de sentencias, medidas de protección y procesos de reinserción social de hombres que ejercen violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+IX. Implementar estrategias para la reeducación y reinserción social de los hombres en situación de reclusión por motivos de violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+X. Realizar campañas de difusión con perspectiva de género para la sensibilización, prevención y atención de la violencia contra las mujeres, así como de los programas de reeducación y reinserción social, y
+
+XI. Las demás que otorgue el Sistema Estatal, esta Ley, sus reglamentos y las disposiciones legales aplicables.
 
 ## TÍTULO QUINTO. INFRACCIONES Y SANCIONES ADMINISTRATIVAS
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 23 DE MARZO DE 2013.
 
 ### Capítulo I. Autoridad competente
 
@@ -2107,6 +2201,10 @@ Sanciones a servidores públicos
 
 A las o los servidores públicos que incurran en hechos constitutivos de Violencia Institucional definida en el artículo 14 de la presente Ley, se les impondrán además de las sanciones establecidas en el artículo 97 de esta Ley, las dispuestas en la Ley General de Responsabilidades Administrativas y demás disposiciones civiles, penales y administrativas aplicables.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+Las personas servidoras públicas responsables de prevenir, investigar y sancionar la violencia contra la mujer, que retarden o entorpezcan maliciosamente o por negligencia la impartición, procuración o administración de justicia serán sancionadas conforme a lo dispuesto en el artículo 309 bis del Código Penal del Estado de Zacatecas.
+
 T R A N S I T O R I O S
 
 Artículo primero.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
@@ -2149,7 +2247,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. CARLOS PINTO NÚÑEZ.
 
-P.O. 7 DE OCTUBRE DE 2017.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2166,6 +2266,8 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 7 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 177.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS".]
 
@@ -2238,5 +2340,13 @@ P.O. 4 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 615.- SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS Y AL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS".]
 
 Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 618.- SE REFORMA LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
