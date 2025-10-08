@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2023-09-30"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -623,7 +623,11 @@ VI. Celebrar de manera ordinaría y, en su caso, extraordinaria convenios de col
 
 VII. Elaborar planes y programas para promover el uso de fuentes de energías limpias y renovables, y el aprovechamiento sustentable de los recursos naturales productivos, que optimicen el uso del agua y la energía, e incrementen la productividad sustentable, y
 
-VIII. Las demás que determine el Plan Estatal de Desarrollo, la Ley así como las leyes y reglamentos aplicables a la materia.
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+VIII. Elaborar planes y programas para mitigar los efectos de las constantes sequías en la entidad, mediante la construcción y el mantenimiento de la infraestructura hidráulica estratégica para la industria agropecuaria, con especial atención en pozos, bordos, represas y sistemas de riego, a fin de garantizar su eficiencia y plena operatividad en todo momento, así como la suficiencia hídrica del sector agropecuario, y
+
+IX. Las demás que determine el Plan Estatal de Desarrollo, la Ley así como las leyes y reglamentos aplicables a la materia.
 
 ### CAPÍTULO IV. De los responsables de la coordinación del desarrollo rural integral sustentable
 
@@ -1193,6 +1197,10 @@ El Ejecutivo del Estado, en coordinación con el Consejo Zacatecano, promoverá 
 
 Con el auxilio de las autoridades municipales en materia de protección civil y las dependencias y entidades federales competentes, así como con el apoyo de los Consejos Regionales y Municipales, vigilar el buen estado de dicha infraestructura, con el objeto de evitar riesgos en la población derivados de alguna contingencia por daños en la infraestructura.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+En el caso de los bordos, pozos y presas se trabajará de manera constante y eficiente, en coordinación con el Gobierno Federal y dependencias competentes, las organizaciones de usuarios y los propios productores para realizar dichas acciones. Respecto a los bordos de cosecha de agua, el Ejecutivo del Estado se encargará directamente de su restauración y monitoreo, destinando los recursos, maquinaria y conocimientos técnicos necesarios para que estos sean constantemente desazolvados.
+
 Inventario
 
 ###### Artículo 72.
@@ -1253,11 +1261,13 @@ Manejo eficiente del agua
 
 Para impulsar la productividad agrícola y forestal se promoverá el manejo eficiente del agua, tecnificación y eficientización de los sistemas de riego para la producción, inversión y capitalización, labranza de conservación de suelos, equipo para el manejo postcosecha, capacitación técnica y administrativa así como la sanidad e inocuidad en actividades, productos y procesos, que conlleven a elevar la competitividad y mejoren la rentabilidad.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 Apoyos para la productividad agropecuaria
 
 ###### Artículo 76.
 
-Los apoyos que oriente el Gobierno del Estado, para impulsar la productividad en la agricultura, ganadería y acuicultura, complementarán la capacidad económica de los productores para realizar inversiones que permitan incrementar la disponibilidad de alimento para el ganado, mediante la construcción, rehabilitación y modernización de infraestructura pecuaria y acuícola; mejoramiento genético entre otros.
+Los apoyos que oriente el Gobierno del Estado, para impulsar la productividad en la agricultura, ganadería y acuicultura, complementarán la capacidad económica de los productores para realizar inversiones que permitan incrementar la disponibilidad de alimento y agua para el ganado, mediante la construcción, rehabilitación y modernización de infraestructura pecuaria y acuícola; mejoramiento genético entre otros.
 
 ### CAPÍTULO X. De la sanidad e inocuidad agropecuaria
 
@@ -1730,3 +1740,11 @@ El Ejecutivo del Estado actualizará los reglamentos de las leyes reformadas, en
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 107.- SE ADICIONA Y SE REFORMA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
