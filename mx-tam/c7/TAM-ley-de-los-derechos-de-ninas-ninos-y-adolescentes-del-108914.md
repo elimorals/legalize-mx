@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2025-06-11"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -889,7 +889,9 @@ VI.- Establecer las medidas tendientes a prevenir, informar, orientar, atender, 
 
 VII.- Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a métodos anticonceptivos;
 
-VIII.- Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+VIII.- Combatir los problemas de malnutrición, así como otros trastornos de la conducta alimentaria mediante la promoción de una alimentación suficiente, equilibrada, completa, adecuada e inocua, el consumo suficiente de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información, así como, celebrar convenios para realizar campañas de difusión permanentes sobre estos temas;
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
 
@@ -2390,6 +2392,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-337 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 34, PÁRRAFO 1, FRACCIONES XVII Y XVIII; 45, FRACCIONES III Y IV; Y SE ADICIONAN LAS FRACCIONES XIX AL ARTÍCULO 34; Y V AL ARTÍCULO 45, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-455 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII DEL PÁRRAFO 1, DEL ARTÍCULO 34, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
