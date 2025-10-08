@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2025-05-24"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -571,9 +571,17 @@ VIII.- El logro de los educandos de acuerdo con sus capacidades, circunstancias,
 
 IX.- Los conocimientos, habilidades motrices y creativas, a través de la activación física, la práctica del deporte y la educación física vinculadas con la salud, la cultura, la recreación y la convivencia en comunidad;
 
-X.- La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XI.- Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, cuidado del medio ambiente, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
+X.- La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XI.- Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, cuidado del medio ambiente, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica; y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+XII. La participación de las y los jóvenes en actividades de voluntariado dentro de organizaciones de la sociedad civil, a través de las instituciones de educación superior del Estado, con el propósito de brindar oportunidades para su incidencia social, fortalecer su formación ciudadana participativa y promover una cultura de responsabilidad social.
 
 ###### ARTÍCULO 50.
 
@@ -1748,3 +1756,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo improrrogable de 90 días hábiles posteriores al inicio de la vigencia, deberán quedar conformadas las Brigadas en cada centro escolar; y resolverán sobre la prohibición de teléfonos móviles inteligentes, así como los mecanismos de implementación, informándolo a la Autoridad Educativa a más tardar en los 30 días posteriores a su adopción.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-460 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES X Y XI; Y SE ADICIONA LA FRACCIÓN XII, AL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
