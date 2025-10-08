@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2025-10-04"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -511,13 +511,15 @@ Las y los auxiliares de la salud comunitarios tendrán derecho a recibir un apoy
 
 ### CAPÍTULO IV. Atención Materno-Infantil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 30.
 
-La atención a la salud materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
+La atención a la salud de la mujer gestante o persona con capacidad de gestar y la materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-I. La atención integral y bajo un enfoque de derechos humanos a la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+I. La atención integral y bajo un enfoque de derechos humanos a la mujer o persona con capacidad de gestar durante el embarazo, el parto y el puerperio o, en su caso, el aborto, incluyendo la atención psicológica que requiera;
 
 II. La atención de la transmisión del VIH/Sida y otras infecciones de transmisión sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
 
@@ -641,9 +643,77 @@ Los comités locales de salud a que se refiere esta Ley promoverán que en las p
 
 Las instituciones de salud y educativas impulsarán campañas informativas en los distintos niveles educativos en materia de salud sexual, que permitan a la comunidad de estudiantes de todos los niveles, tomar decisiones responsables respecto de su vida sexual.
 
-### CAPÍTULO VI. Salud Mental
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-### CAPÍTULO I. Profesionales, Técnicos y Auxiliares
+### CAPÍTULO V BIS. Interrupción legal del embarazo
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 39 BIS. Las instituciones públicas de salud del Gobierno del Estado brindarán el servicio de interrupción del embarazo, en forma gratuita y en condiciones de calidad, y salubridad que garanticen la dignidad humana, dentro de las primeras doce semanas de gestación y en los supuestos permitidos por el Código Penal para el Estado, de conformidad con la NOM-046-SSA2-2005 o cualquier otra norma que regule esta materia, cuando la mujer o persona con capacidad de gestar así lo solicite.
+
+Para ello, las instituciones de salud, en un máximo de 48 horas, pondrán a disposición de las mujeres o persona con capacidad de gestar, servicios de atención médica, psicológica y social con información científica, objetiva, veraz y oportuna sobre los procedimientos, riesgos, consecuencias y efectos de la interrupción del embarazo, así como de los apoyos y alternativas existentes, para que se tome la decisión de manera libre, informada y responsable, sobre su derecho a decidir.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 39 TER. Los servicios de salud sexual y reproductiva, planificación familiar y anticoncepción comprenden:
+
+I. La promoción de programas en materia de servicios de salud sexual y reproductiva, planificación familiar y anticoncepción, con base en los contenidos científicos y estrategias que establezcan las autoridades competentes;
+
+II. La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar y anticoncepción;
+
+III. La asesoría para la prestación de servicios en materia de salud sexual y reproductiva, planificación familiar y anticoncepción a cargo de los sectores público, social y privado, así como la supervisión y evaluación en su ejecución, de acuerdo con las políticas establecidas por las autoridades competentes y en los términos que las disposiciones normativas lo establezcan;
+
+IV. El apoyo y fomento en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
+
+V. La aplicación de programas preventivos en materia de salud sexual y reproductiva, incluyendo la aplicación de vacunas contra infecciones de transmisión sexual;
+
+VI. El fomento de la paternidad y la maternidad responsables;
+
+VII. La prevención de embarazos no planeados y no deseados;
+
+VIII. La realización de campañas intensivas de información y orientación en materia de salud sexual y reproductiva, y
+
+IX. La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-SIDA.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 39 QUÁTER. El médico y personal de enfermería a quien corresponda practicar la interrupción legal del embarazo y cuyas creencias religiosas o convicciones personales sean contrarias a tal procedimiento, podrá ser objetor de conciencia y, por tal razón, excusarse de realizarla, teniendo la obligación de referir de inmediato y por escrito a la mujer con un médico no objetor.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 39 QUINQUIES. Es obligación de las instituciones públicas de salud garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal no objetor de conciencia en la materia.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 39 SEXIES. La objeción de conciencia no podrá ser invocada por el personal médico profesional o de enfermería en los casos siguientes:
+
+I. Cuando se encuentre en riesgo la vida de la paciente o el paciente;
+
+II. Cuando se trate de una urgencia médica, y
+
+III. Cualquier otra similar que pudiera significar un riesgo o provocar un daño en la salud de la paciente o el paciente y que pudiera haberse prevenido.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 39 SEPTIES. La objeción de conciencia no será procedente cuando:
+
+I. Haya insuficiencia de personal médico profesional o de enfermería no objetor;
+
+II. La negativa o postergación de la atención médica profesional o de enfermería implique un riesgo para la salud de la persona;
+
+III. La negativa o la postergación del servicio pueda producir un daño o agravación del daño;
+
+IV. Exista la posibilidad de generar secuelas o discapacidades en la paciente o el paciente;
+
+V. La negativa prolongue el sufrimiento o genere una afectación desproporcionada en la salud de la paciente o el paciente, y
+
+VI. No haya alguna alternativa viable y accesible para brindar el servicio de salud requerido con calidad y con la mejor oportunidad, ya sea por razón de distancia, falta de disponibilidad de personal no objetor o cualquier otro inconveniente que torne nugatorio el derecho humano de acceso a la salud.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 39 OCTIES. En ningún caso, la objeción de conciencia será motivo para negar, retrasar o entorpecer la prestación de los servicios de salud por lo que, en todo momento, se deberá brindar un trato digno, decoroso y sin discriminación hacia las personas que requieran de atención médica programada o de urgencia dentro de las unidades que conforman los servicios de salud.
+
+### CAPÍTULO VI. Salud Mental
 
 ###### ARTÍCULO 40.
 
@@ -683,7 +753,7 @@ Al efecto, se establecerá la coordinación necesaria entre las autoridades sani
 
 ## TÍTULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-### CAPÍTULO II. Servicio Social de Pasantes y Profesionales
+### CAPÍTULO I. Profesionales, Técnicos y Auxiliares
 
 ###### ARTÍCULO 45.
 
@@ -717,7 +787,7 @@ Las autoridades educativas del Estado proporcionarán a las autoridades sanitari
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público en su centro de trabajo, un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional, así como el número de registro ante los Servicios de Salud del Estado. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
 
-### CAPÍTULO III. Formación, Capacitación y Actualización del Personal
+### CAPÍTULO II. Servicio Social de Pasantes y Profesionales
 
 ###### ARTÍCULO 49.
 
@@ -739,17 +809,9 @@ La prestación del servicio social de los pasantes, se llevará a cabo mediante 
 
 Para los efectos del párrafo anterior, la Secretaría de Salud definirá los mecanismos para que los pasantes participen en la organización y operación de los comités de salud.
 
-> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2024)</small>
+ARTÍCULO 52 BIS. (DEROGADO, P.O. 8 DE OCTUBRE DE 2025)
 
-ARTÍCULO 52 BIS. Los profesionales, técnicos, auxiliares y prestadores de servicio social que forman parte del Sistema Estatal de Salud, podrán hacer valer la objeción de conciencia, con la obligación de referir de inmediato y por escrito al paciente con un médico no objetor e informará de ello a su superior inmediato.
-
-Cuando la negativa del objetor de conciencia implique poner en riesgo la salud o vida del paciente, sin que éste pueda ser derivado a otros integrantes del Sistema Estatal de Salud que lo atiendan debidamente, el objetor no podrá hacer valer su derecho y deberá aplicar las medidas médicas necesarias para proteger y garantizar la salud del paciente; en caso de no hacerlo, incurrirá en causal de responsabilidad profesional.
-
-En la prestación de los servicios de salud queda prohibida toda forma de discriminación.
-
-El Sistema Estatal de Salud deberá garantizar la permanente disponibilidad y oportuna prestación de los servicios del personal de salud no objetor de conciencia.
-
-### CAPÍTULO I. La Investigación para la Salud
+### CAPÍTULO III. Formación, Capacitación y Actualización del Personal
 
 ###### ARTÍCULO 53.
 
@@ -793,7 +855,7 @@ II. Colaborar con las demás dependencias en la organización de campañas educa
 
 ## TÍTULO QUINTO. MATERIAS DE SALUBRIDAD GENERAL
 
-### CAPÍTULO II. Información para la Salud
+### CAPÍTULO I. La Investigación para la Salud
 
 ###### ARTÍCULO 57.
 
@@ -871,7 +933,7 @@ VI. Los demás que sin contravenir a la normatividad requieran su intervención.
 
 Los establecimientos de salud de los sectores público y privado del Sistema Estatal de Salud contarán con un comité hospitalario de bioética, para el análisis y deliberación de decisiones respecto de los problemas o dilemas bioéticos que se presenten en la práctica clínica, así como de la educación bioética permanente de sus miembros y del personal del establecimiento. Las opiniones del Comité no serán vinculantes y no relevan de las obligaciones y responsabilidades al médico tratante.
 
-### CAPÍTULO III. Promoción de la Salud
+### CAPÍTULO II. Información para la Salud
 
 ###### ARTÍCULO 65.
 
@@ -893,7 +955,7 @@ Las dependencias y entidades de la administración pública estatal, los municip
 
 Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de los productos o que realicen cualquier tipo de actividades relacionadas con la salud, llevarán las estadísticas que les señale la Secretaría de Salud, y proporcionarán a ésta y a las autoridades federales competentes, toda la información que se les requiera.
 
-### CAPÍTULO IV. Educación para la Salud
+### CAPÍTULO III. Promoción de la Salud
 
 ###### ARTÍCULO 68.
 
@@ -913,7 +975,7 @@ IV. Reforzar la acción comunitaria.
 
 Lo anterior, teniendo en cuenta los enfoques transversales de intersectorialidad, participación social, interculturalidad, y género y curso de vida.
 
-### CAPÍTULO V. Nutrición
+### CAPÍTULO IV. Educación para la Salud
 
 ###### ARTÍCULO 70.
 
@@ -931,7 +993,7 @@ III. Orientar y capacitar a la población en materia de nutrición, activación 
 
 Las autoridades sanitarias estatales, en coordinación con la federación y la comunidad, formularán y desarrollarán programas de educación para la salud que serán difundidos en los medios de comunicación masiva; de la misma forma, se impulsarán campañas informativas de cada uno de los programas de salud, de manera permanente.
 
-### CAPÍTULO VI. Medio Ambiente y Salud
+### CAPÍTULO V. Nutrición
 
 ###### ARTÍCULO 72.
 
@@ -945,9 +1007,7 @@ II. Normar el desarrollo de los programas y actividades educativos encaminados a
 
 III. Instituir planes de alimentación de acuerdo con las necesidades y características fisiológicas de cada persona, que conduzcan y favorezcan el consumo de una dieta suficiente, variada, inocua, adecuada, completa y equilibrada.
 
-### CAPÍTULO VII. Enfermedades Transmisibles
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
+### CAPÍTULO VI. Medio Ambiente y Salud
 
 ###### ARTÍCULO 73.
 
@@ -973,7 +1033,9 @@ Queda prohibida la descarga de aguas sin el tratamiento para satisfacer los crit
 
 La Secretaría de Salud, en coordinación con los Servicios de Salud y otras autoridades competentes, vigilarán el cumplimiento de los requisitos técnicos sanitarios para que el almacenamiento, distribución, uso y manejo de gas natural, del gas licuado de petróleo y otros productos industriales gaseosos que sean de alta peligrosidad, no afecten la salud de las personas.
 
-### CAPÍTULO VIII. Enfermedades No Transmisibles
+### CAPÍTULO VII. Enfermedades Transmisibles
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 77.
 
@@ -1037,7 +1099,7 @@ Las autoridades sanitarias podrán realizar visitas domiciliarias para efectos d
 
 Las autoridades sanitarias quedan facultadas para utilizar, como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de esta Ley y los reglamentos aplicables.
 
-### CAPÍTULO IX. Accidentes
+### CAPÍTULO VIII. Enfermedades No Transmisibles
 
 ###### ARTÍCULO 82.
 
@@ -1085,7 +1147,7 @@ VII. Las demás que sean necesarias para la prevención, tratamiento y control d
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles en los términos de los reglamentos que al efecto se expidan.
 
-### CAPÍTULO X. De los Cuidados Paliativos a los Enfermos en Situación Terminal
+### CAPÍTULO IX. Accidentes
 
 ###### ARTÍCULO 85.
 
@@ -1103,7 +1165,7 @@ III. La atención de los padecimientos que se produzcan como consecuencia de ell
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, la Secretaría de Salud deberá crear el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, en el marco de los sistemas nacional y estatal de salud.
 
-### CAPÍTULO XI. De la Atención a Personas con Discapacidad
+### CAPÍTULO X. De los Cuidados Paliativos a los Enfermos en Situación Terminal
 
 ###### ARTÍCULO 87.
 
@@ -1157,7 +1219,7 @@ Los Servicios de Salud se obligan a brindar cuidados paliativos para la atenció
 
 Los médicos tratantes y el equipo sanitario que preste los cuidados paliativos a los pacientes en situación terminal, se obligan a orientar, proporcionar la atención médico quirúrgica, a respetar la determinación del paciente o la de su representante legal.
 
-### CAPÍTULO XII. Programas Contra las Adicciones
+### CAPÍTULO XI. De la Atención a Personas con Discapacidad
 
 ###### ARTÍCULO 93.
 
@@ -1178,6 +1240,18 @@ IV. Difundir orientación educativa a la comunidad, en materia de rehabilitació
 V. Promover acciones urbanísticas y arquitectónicas de los sectores público, social y privado, para adecuar la infraestructura y las edificaciones a las necesidades de las personas con discapacidad, y
 
 VI. Apoyar la creación de establecimientos educativos y de capacitación para el trabajo y procurar la obtención de empleos y otras formas de ocupación remunerada para las personas en proceso de rehabilitación.
+
+### CAPÍTULO XII. Programas Contra las Adicciones
+
+###### ARTÍCULO 95.
+
+La Secretaría de Salud se coordinará con los Servicios de Salud y las autoridades sanitarias federales y municipales, para la elaboración de los programas y ejecución de las acciones que le correspondan, para informar a la población, prevenir y erradicar las adicciones al tabaquismo, alcoholismo y farmacodependencia, de conformidad con lo que establece la Ley General, la Norma Oficial Mexicana, los convenios y los acuerdos del Consejo Estatal contra las Adicciones y su reglamentación sobre la materia.
+
+###### ARTÍCULO 96.
+
+Corresponde a los ayuntamientos expedir la reglamentación encaminada al control, vigilancia y aplicación de sanciones, para proteger la salud de las personas no fumadoras.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2023)</small>
 
 ### CAPÍTULO XIII. Salud Bucal
 
@@ -1203,21 +1277,9 @@ ARTÍCULO 96 QUINQUIES. En toda niña y niño que forme parte de la educación b
 
 ARTÍCULO 96 SEXIES. El Estado promoverá, en coordinación con las autoridades municipales y estatales competentes, todos aquellos estudios, investigaciones y acciones tendentes a mejorar la salud bucal de los habitantes de Zacatecas, sujetándose a lo establecido por la Ley General de Salud y las demás disposiciones legales aplicables.
 
-###### ARTÍCULO 95.
-
-La Secretaría de Salud se coordinará con los Servicios de Salud y las autoridades sanitarias federales y municipales, para la elaboración de los programas y ejecución de las acciones que le correspondan, para informar a la población, prevenir y erradicar las adicciones al tabaquismo, alcoholismo y farmacodependencia, de conformidad con lo que establece la Ley General, la Norma Oficial Mexicana, los convenios y los acuerdos del Consejo Estatal contra las Adicciones y su reglamentación sobre la materia.
-
-###### ARTÍCULO 96.
-
-Corresponde a los ayuntamientos expedir la reglamentación encaminada al control, vigilancia y aplicación de sanciones, para proteger la salud de las personas no fumadoras.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2023)</small>
-
-### CAPÍTULO I. Pérdida de la Vida
-
 ## TÍTULO SEXTO. PÉRDIDA DE LA VIDA, DONACIÓN Y TRASPLANTES
 
-### CAPÍTULO II. Donación
+### CAPÍTULO I. Pérdida de la Vida
 
 ###### ARTÍCULO 97.
 
@@ -1267,7 +1329,7 @@ II. El control sanitario de los panteones, y
 
 III. El control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios.
 
-### CAPÍTULO III. Trasplante
+### CAPÍTULO II. Donación
 
 ###### ARTÍCULO 101.
 
@@ -1323,7 +1385,7 @@ Está prohibido el comercio de órganos, tejidos y células. La donación de és
 
 Sólo en caso de que la pérdida de la vida del donante esté relacionada con la indagación de un delito, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos.
 
-### CAPÍTULO IV. Cadáveres
+### CAPÍTULO III. Trasplante
 
 ###### ARTÍCULO 107.
 
@@ -1401,7 +1463,7 @@ La disposición de sangre, componentes sanguíneos y células progenitoras hemat
 
 Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito y que sanitariamente constituya un desecho, deberá ser manejado en condiciones higiénicas y su destino final se hará conforme a las disposiciones generales aplicables, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso los establecimientos podrán disponer de ellos o remitirlos a instituciones docentes en ciencias de la salud.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. Cadáveres
 
 ###### ARTÍCULO 117.
 
@@ -1489,7 +1551,7 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 ## TÍTULO SÉPTIMO. DE LA PROTECCIÓN SOCIAL EN SALUD
 
-### CAPÍTULO I. Disposiciones Comunes
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 129.
 
@@ -1533,7 +1595,7 @@ Los beneficiarios del Sistema de Protección Social en Salud participarán en su
 
 ## TÍTULO OCTAVO. SALUBRIDAD LOCAL
 
-### CAPÍTULO II. Mercados y Centros de Abastos
+### CAPÍTULO I. Disposiciones Comunes
 
 ###### ARTÍCULO 132.
 
@@ -1619,7 +1681,7 @@ Los establecimientos referidos deberán contar con un botiquín que reúna los m
 
 Los dispensarios médicos se equiparan a los consultorios médicos, por lo que deberán cumplir con los requisitos establecidos en la Ley General de Salud y sus Reglamentos, así como en las Normas Oficiales Mexicanas aplicables.
 
-### CAPÍTULO III. De las Construcciones
+### CAPÍTULO II. Mercados y Centros de Abastos
 
 ###### ARTÍCULO 142.
 
@@ -1653,7 +1715,7 @@ Si se trata de expendio de alimentos se sujetarán a las especificaciones sanita
 
 La Secretaría procurará que todos los establecimientos de servicios de alimentos o bebidas, publiquen en sus menús y sitios visibles el valor nutricional de todos los productos alimenticios que ofrecen, expresado en calorías, de forma clara y legible, y que, además cuenten con oferta de bebidas sin calorías o de bajo contenido calórico.
 
-### CAPÍTULO IV. Panteones
+### CAPÍTULO III. De las Construcciones
 
 ###### ARTÍCULO 145.
 
@@ -1689,7 +1751,7 @@ No se permitirá la existencia de animales en edificios y terrenos sin construir
 
 Los edificios, cualquiera que sea el uso a que estén destinados, estarán provistos de agua potable en cantidad y presión suficientes para satisfacer las necesidades y servicios.
 
-### CAPÍTULO V. Transporte de residuos sólidos
+### CAPÍTULO IV. Panteones
 
 ###### ARTÍCULO 153.
 
@@ -1713,7 +1775,7 @@ Las especies de árboles que se planten, serán de aquellas cuya raíz no se ext
 
 La exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y protección personal necesarios para evitar cualquier riesgo a la salud.
 
-### CAPÍTULO VI. Reclusorios
+### CAPÍTULO V. Transporte de residuos sólidos
 
 ###### ARTÍCULO 158.
 
@@ -1723,7 +1785,7 @@ El transporte de residuos sólidos municipales deberá realizarse en vehículos 
 
 Los desechos sólidos se manipularán lo estrictamente indispensable durante el transporte a su destino final.
 
-### CAPÍTULO VII. Baños Públicos
+### CAPÍTULO VI. Reclusorios
 
 ###### ARTÍCULO 160.
 
@@ -1735,7 +1797,7 @@ Para los efectos de esta Ley se entiende por reclusorio o centro de reinserción
 
 Los reclusorios o centros de reinserción social deberán contar con los servicios básicos sanitarios para la higiene personal, así como proporcionar los servicios de atención médica y de salud, toallas sanitarias, tampones, copas menstruales o cualquier producto de higiene menstrual, así como lo necesario para la atención perinatal. Contarán además con las facilidades necesarias para la atención de aquellos casos de enfermedad, en que sea requerido el traslado de los internos a un hospital o institución de salud.
 
-### CAPÍTULO VIII. Gimnasios
+### CAPÍTULO VII. Baños Públicos
 
 ###### ARTÍCULO 162.
 
@@ -1749,7 +1811,7 @@ Los baños instalados en hoteles, moteles, casas de huéspedes, clubes, centros 
 
 Estos establecimientos deberán contar con personal capacitado, y un sistema de vigilancia para el rescate y prestación de primeros auxilios a aquellos usuarios que lo requieran.
 
-### CAPÍTULO IX. Tintorerías
+### CAPÍTULO VIII. Gimnasios
 
 ###### ARTÍCULO 165.
 
@@ -1765,7 +1827,7 @@ II. Antes y después de cada actividad deberán limpiarse y desinfectarse los im
 
 III. Aplicar buenas prácticas de orden y limpieza para evitar la aparición de fauna nociva.
 
-### CAPÍTULO X. Establecimientos para el Hospedaje
+### CAPÍTULO IX. Tintorerías
 
 ###### ARTÍCULO 167.
 
@@ -1773,7 +1835,7 @@ Para los efectos de esta Ley se entiende por tintorería el establecimiento dedi
 
 Las tintorerías deberán observar todas las medidas de higiene y protección personal en el proceso de lavado y planchado de ropa, las sustancias que se usen para este proceso, deberán contar con el etiquetado correspondiente y ser almacenadas en áreas aisladas, preferentemente, mediante dispositivos físicos y destinadas específicamente para ellas.
 
-### CAPÍTULO XI. Transporte público urbano
+### CAPÍTULO X. Establecimientos para el Hospedaje
 
 ###### ARTÍCULO 168.
 
@@ -1793,7 +1855,7 @@ II. Contar con programa para el lavado de la ropa de cama y del baño.
 
 La apertura y explotación de un establecimiento de hospedaje no comprende el derecho de explotar giros anexos, aun cuando éstos constituyan una misma unidad comercial con el citado establecimiento; en consecuencia, tales anexos deberán recabar u obtener la autorización correspondiente, según el giro de que se trate.
 
-### CAPÍTULO XII. Establos, Granjas Avícolas, Porcícolas o Zahúrda, Apiarios y Establecimientos Similares
+### CAPÍTULO XI. Transporte público urbano
 
 ###### ARTÍCULO 171.
 
@@ -1823,7 +1885,7 @@ V. Higiene en el personal operador.
 
 Las terminales de transporte público foráneo deberán contar con servicios sanitarios para usuarios y para el personal laboral, y en materia de control de plagas debe cumplir con las previsiones y medidas establecidas en el artículo 139 de esta Ley.
 
-### CAPÍTULO XIII. Autorizaciones y Licencias
+### CAPÍTULO XII. Establos, Granjas Avícolas, Porcícolas o Zahúrda, Apiarios y Establecimientos Similares
 
 ###### ARTÍCULO 174.
 
@@ -1853,7 +1915,7 @@ El responsable sanitario dará aviso inmediato a las autoridades correspondiente
 
 Queda prohibido el sacrificio y faenado de animales destinados al consumo humano, dentro de las instalaciones de la granja, el sacrificio únicamente deberá realizarse en rastros.
 
-### CAPÍTULO XIV. Revocación de Autorizaciones Sanitarias
+### CAPÍTULO XIII. Autorizaciones y Licencias
 
 ###### ARTÍCULO 178.
 
@@ -1891,7 +1953,7 @@ Los obligados a tener autorizaciones sanitarias deberán exhibirla en lugar visi
 
 Requieren de permiso los establecimientos contemplados en la Ley General, o los que señalen los reglamentos, o los acuerdos generales de las autoridades sanitarias federales y estatales.
 
-### CAPÍTULO XV. Certificados
+### CAPÍTULO XIV. Revocación de Autorizaciones Sanitarias
 
 ###### ARTÍCULO 185.
 
@@ -1941,7 +2003,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, dentr
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XV. Certificados
 
 ###### ARTÍCULO 191.
 
@@ -1969,7 +2031,7 @@ Los certificados de defunción y muerte fetal serán expedidos una vez comprobad
 
 ## TÍTULO NOVENO. VIGILANCIA SANITARIA
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 195.
 
@@ -2007,7 +2069,7 @@ Los verificadores, para practicar visitas de verificación sanitaria, deberán e
 
 ## TÍTULO DÉCIMO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES ADMINISTRATIVAS
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTÍCULO 202.
 
@@ -2093,7 +2155,7 @@ El aseguramiento de objetos, productos o substancias, tendrá lugar cuando se pr
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPÍTULO III. Procedimiento para la aplicación de las Medidas de Seguridad y las Sanciones Administrativas
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 214.
 
@@ -2191,7 +2253,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO IV. Recurso de Revisión
+### CAPÍTULO III. Procedimiento para la aplicación de las Medidas de Seguridad y las Sanciones Administrativas
 
 ###### ARTÍCULO 225.
 
@@ -2233,7 +2295,7 @@ En los casos de clausura temporal o definitiva, parcial o total, el personal com
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de un delito, se formulará la denuncia o querella, y se remitirán las actuaciones a la autoridad que corresponda, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPÍTULO I. Servicios de Salud de Zacatecas y Régimen Estatal de Protección en Salud
+### CAPÍTULO IV. Recurso de Revisión
 
 ###### ARTÍCULO 233.
 
@@ -2395,7 +2457,7 @@ En contra de la resolución que resuelva el recurso de revisión interpuesto, pr
 
 ## TÍTULO DÉCIMO PRIMERO. ENTIDADES AUXILIARES EN MATERIA DE ATENCIÓN A LA SALUD
 
-### CAPÍTULO II. Patrimonio de la Beneficencia Pública
+### CAPÍTULO I. Servicios de Salud de Zacatecas y Régimen Estatal de Protección en Salud
 
 ###### ARTÍCULO 251.
 
@@ -2411,7 +2473,7 @@ El Régimen Estatal de Protección Social en Salud es el organismo descentraliza
 
 Las atribuciones, organización y estructura de ambos organismos descentralizados serán las previstas en sus decretos de creación, sus estatutos orgánicos y demás disposiciones legales aplicables.
 
-### CAPÍTULO III. Del Consejo Estatal de Bioética
+### CAPÍTULO II. Patrimonio de la Beneficencia Pública
 
 ###### ARTÍCULO 254.
 
@@ -2421,7 +2483,7 @@ El Patrimonio de la Beneficencia Pública Estatal tiene por objeto destinar recu
 
 La naturaleza, estructura y atribuciones del Patrimonio se precisarán en el reglamento que emita el Ejecutivo del Estado.
 
-### CAPÍTULO IV. De la Comisión Estatal de Arbitraje Médico
+### CAPÍTULO III. Del Consejo Estatal de Bioética
 
 ###### ARTÍCULO 256.
 
@@ -2453,7 +2515,7 @@ IX. Las demás disposiciones aplicables en la materia.
 
 La naturaleza, estructura y organización del Consejo se establecerá en los reglamentos que, para tal efecto, emita el Ejecutivo del Estado.
 
-### CAPÍTULO V. Del Consejo Estatal de Trasplantes de Órganos y Tejidos
+### CAPÍTULO IV. De la Comisión Estatal de Arbitraje Médico
 
 ###### ARTÍCULO 259.
 
@@ -2495,7 +2557,7 @@ XIV. Elaborar y ratificar los dictámenes o peritajes médicos que le sean solic
 
 XV. Las demás disposiciones jurídicas y administrativas aplicables.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. Del Consejo Estatal de Trasplantes de Órganos y Tejidos
 
 ###### ARTÍCULO 261.
 
@@ -2530,6 +2592,8 @@ X. Presentar durante el primer bimestre de cada año, un informe sobre lo realiz
 XI. Proponer e impulsar ante las instituciones de educación superior y de salud, la formación de recursos humanos en la especialidad de trasplantes, así como estudios e investigaciones en la materia en calidad de postgrado o especialidades.
 
 ## TÍTULO DÉCIMO SEGUNDO. RELACIONES LABORALES
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 263.
 
@@ -2714,3 +2778,13 @@ Dentro de los siguientes 180 días naturales contados a partir de la publicació
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado deberá incluir en el proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2025 que presente ante esta Legislatura del Estado una partida presupuestal específica para cumplir con el contenido del presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 111.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Zacatecas.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+Artículo tercero. La Secretaría de Salud de Gobierno del Estado deberá adecuar su normatividad interna conforme al contenido del presente Decreto, en un plazo que no deberá exceder de ciento veinte días posteriores al inicio de su vigencia.
