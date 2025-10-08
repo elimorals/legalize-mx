@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-1068
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-21"
-last_updated: "2024-08-10"
+last_updated: "2025-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 21 de marzo del 2015.
 
@@ -671,11 +671,13 @@ Incremento de las pensiones
 
 El monto de las pensiones aumentará al mismo tiempo y en la misma proporción que el índice Nacional de Precios al Consumidor, considerando para tal efecto el correspondiente al mes de enero de cada año.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+
 Inembargabilidad de las pensiones
 
 ###### Artículo 42.
 
-Las pensiones serán inembargables y sólo podrán ser afectadas para el pago de pensión alimenticia, pago de cuota y adeudos al ISSSTEZAC y el cumplimiento de obligaciones fiscales.
+Las pensiones serán inembargables y sólo podrán ser afectadas para el pago de pensión alimenticia o para pago de cuota y adeudos al ISSSTEZAC, en este último caso, cuando así se convenga con el pensionado.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
 
@@ -2658,3 +2660,11 @@ Lo dispuesto en el artículo 75 Bis entrará en vigor al momento de la publicaci
 ###### ARTÍCULO DÉCIMO OCTAVO.
 
 Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 69.- SE REFORMA EL ARTÍCULO 42 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
