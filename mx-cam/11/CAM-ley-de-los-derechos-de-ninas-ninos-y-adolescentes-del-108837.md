@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2025-08-08"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -59,15 +59,21 @@ IV. Establecer los principios rectores y criterios que orientarán la política 
 
 V. Desarrollar las bases generales establecidas en la Ley General para la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes, así como a prevenir su vulneración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 2.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, realizarán acciones y tomarán medidas para garantizar la protección de los derechos de niñas, niños y adolescentes, de conformidad con los principios establecidos en la presente Ley. Para tal efecto, deberán:
+Las autoridades estatales, municipales, organismos autónomos y jurisdiccionales, en el ámbito de sus respectivas competencias, realizarán acciones y tomarán medidas para garantizar la protección de los derechos de niñas, niños y adolescentes, de conformidad con los principios establecidos en la presente Ley. Para tal efecto, deberán:
 
 I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
 
 II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez; y
 
 III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2025)</small>
+
+IV. Elaborar documentación y materiales dirigidos a niñas, niños y adolescentes en formato de lectura fácil, con el fin de garantizar su derecho humano a la seguridad jurídica y al debido proceso, tanto en procedimientos administrativos como judiciales, asegurando en todo momento la observancia del principio de interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -130,6 +136,10 @@ XIV. Familia de Acogimiento Pre-adoptivo: Aquella distinta de la familia de orig
 XV. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
 XVI. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal para el Desarrollo Integral de la Familia que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2025)</small>
+
+XVI bis. Lectura fácil: Método de redacción, maquetación y elaboración de documentos adaptados a lenguaje sencillo, dirigidos a niñas, niños y adolescentes, cuyo propósito es hacer accesible, comprensible y fácilmente entendible el contenido, de acuerdo con su nivel de desarrollo y capacidades cognitivas;
 
 XVII. Ley: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche;
 
@@ -975,11 +985,15 @@ En poblaciones predominantemente indígenas, las autoridades a que se refiere es
 
 Igualmente, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que las niñas, niños y adolescentes con discapacidad cuenten con los sistemas de apoyo para ejercer su derecho a la libertad de expresión, acceso a la información y sistema de apoyo para la expresión de su voluntad.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 64.
 
-Niñas, niños y adolescentes tienen derecho al libre acceso a la información.
+Niñas, niños y adolescentes tienen derecho al libre acceso a la información en condiciones de igualdad, seguridad y accesibilidad.
 
-Las autoridades estatales y municipales, en el ámbito de su competencia, promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental.
+Las autoridades estatales, municipales, organismos autónomos y jurisdiccionales, en el ámbito de sus respectivas competencias, deberán garantizar el acceso efectivo a la información que contribuya a su bienestar social y ético, desarrollo cultural, salud física y mental, así como a su formación integral.
+
+Para tal efecto, deberán promover la elaboración de documentos, materiales y archivos en formatos de lectura fácil, adecuados a la edad, desarrollo y capacidades de niñas, niños y adolescentes, a fin de garantizar la comprensión de los contenidos informativos, conforme al principio de interés superior de la niñez.
 
 ###### Artículo 65.
 
@@ -1031,9 +1045,15 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas atribu
 
 Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan, en los términos señalados por el Capítulo Décimo Octavo de la presente Ley.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 72.
 
-Niñas, niños y adolescentes también tienen derecho a que las diferentes instancias gubernamentales, en los tres órdenes de gobierno, les informen de qué manera su opinión ha sido valorada y tomada en cuenta.
+Niñas, niños y adolescentes tienen derecho a que las diferentes instancias gubernamentales, en los tres órdenes de gobierno les informen, de manera clara y accesible, cómo ha sido valorada y tomada en cuenta su opinión en los asuntos que les afectan.
+
+Para garantizar el ejercicio de este derecho, las autoridades deberán elaborar y comunicar dicha información en formatos de lectura fácil, adecuados a su edad, desarrollo y nivel de comprensión.
+
+La información proporcionada deberá asegurar el pleno respeto de sus derechos a la participación, al acceso a la información, a la seguridad jurídica, al debido proceso y demás derechos humanos, en observancia del principio de interés superior de la niñez.
 
 ### CAPÍTULO DÉCIMO SEXTO. DEL DERECHO DE ASOCIACIÓN Y REUNIÓN
 
@@ -1107,7 +1127,11 @@ I. Garantizar la protección y prevalencia del interés superior de la niñez a 
 
 II. Garantizar el ejercicio de los derechos de las niñas, niños y adolescentes, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables;
 
-III. Proporcionar información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2025)</small>
+
+III. Proporcionar información clara, sencilla y comprensible para niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo.
+
+Dicha información deberá entregarse en formatos accesibles de lectura fácil, adecuados a su edad, nivel de desarrollo y condición, incluyendo adaptaciones para niñas, niños y adolescentes con discapacidad. Este deber tiene por objeto garantizar su derecho a la seguridad jurídica, al debido proceso y a una participación informada y efectiva, en atención al principio de interés superior de la niñez.
 
 IV. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial;
 
@@ -2326,3 +2350,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Secretaría de Educación de la Administración Pública del Estado de Campeche, deberá coordinarse con la Secretaría Ejecutiva del Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes (SIPINNA), así como con instituciones especializadas en derechos digitales, para la elaboración o actualización de lineamientos y contenidos educativos orientados a la creación de entornos digitales seguros, con enfoque de género, derechos humanos y participación infantil, en un plazo no mayor a ciento ochenta días naturales.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 139 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA LA FRACCIÓN IV DEL ARTÍCULO 2; SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 4; SE REFORMAN LOS ARTÍCULOS 64; 72 Y LA FRACCIÓN III DEL ARTÍCULO 81, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las autoridades estatales, municipales, organismos autónomos y jurisdiccionales contarán con un plazo máximo de 180 días naturales a partir de la entrada en vigor del presente decreto para ajustar su normatividad, protocolos de actuación, lineamientos institucionales y formatos oficiales, a efecto de dar cumplimiento a las disposiciones contenidas en la presente Ley en materia de lectura fácil y acceso efectivo a la información para niñas, niños y adolescentes.
+
+TERCERO.- Las autoridades estatales, municipales, organismos autónomos y jurisdiccionales del estado de Campeche que intervengan en procedimientos administrativos o jurisdiccionales en los que participen niñas, niños o adolescentes, deberán capacitar a su personal en comunicación accesible, derechos de la infancia y lectura fácil, dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto.
