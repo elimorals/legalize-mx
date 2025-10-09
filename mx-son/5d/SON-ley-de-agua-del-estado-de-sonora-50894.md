@@ -4,7 +4,7 @@ identifier: "SON-ley-de-agua-del-estado-de-sonora-50894"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-26"
-last_updated: "2021-11-18"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE AGUA DEL ESTADO SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 26 de junio de 2006.
 
@@ -1789,7 +1789,9 @@ En el caso de los desarrolladores y/o fraccionadores, estos procurarán, prefere
 
 Los usuarios de las aguas de jurisdicción estatal y los de los servicios públicos de agua potable, drenaje y tratamiento y disposición de aguas residuales, deberán conservar y mantener en óptimo estado sus instalaciones hidráulicas para evitar fugas y desperdicios de agua, así como para contribuir a la prevención y control de la contaminación del recurso.
 
-Las autoridades municipales darán prioridad al cultivo y preservación de la flora de la región en los parques y jardines a su cargo.
+> <small>(REFORMADO, B.O. 9 DE OCTUBRE DE 2025)</small>
+
+Las autoridades municipales deberán únicamente cultivar flora nativa y darán prioridad a la preservación de la flora de su respectiva ecorregión en los parques, jardines, áreas verdes, glorietas, camellones y demás espacios públicos que se encuentren a su cargo.
 
 ###### ARTÍCULO 147.
 
@@ -2490,3 +2492,15 @@ B.O. 18 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 07, QUE REFORMA EL ARTÍCULO 168, PÁRRAFOS CUARTO Y QUINTO DE LA LEY DE AGUA PARA EL ESTADO DE SONORA”.]
 
 ARTÍULO (SIC) ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 9 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 60, QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 146 DE LA LEY DE AGUA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades municipales deberán sustituir de manera paulatina la flora no nativa por flora nativa de su respectiva ecorregión, con excepción de los árboles ya plantados, mismos que deberán ser sustituidos por árboles nativos una vez que haya terminado su ciclo de vida.
