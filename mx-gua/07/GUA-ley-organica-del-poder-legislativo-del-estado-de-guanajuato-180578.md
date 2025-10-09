@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-180
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-06-20"
-last_updated: "2025-06-25"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE JUNIO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 20 de junio de 2025.
 
@@ -407,7 +405,9 @@ Las personas diputadas quedarán suspendidas en sus derechos y obligaciones parl
 
 I. Cuando se emita por el Congreso del Estado la declaratoria de separación del cargo, hasta en tanto no quede sin efecto la acusación que le haya dado motivo;
 
-II. Por sentencia judicial firme que declare a la persona diputada con plena capacidad jurídica y derecho a la toma de decisiones con apoyos;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2025)</small>
+
+II. Cuando tenga imposibilidad jurídica determinada por una autoridad competente, a través de una resolución firme;
 
 III. Por faltar a más de tres sesiones consecutivas del Pleno, sin causa justificada o sin previo aviso a la presidencia; y
 
@@ -3458,3 +3458,11 @@ Primer secretario
 DIPUTADA ROCÍO CERVANTES BARBA
 
 Segunda secretaria
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 87, ACORDADO POR LA SEXAGÉSIMA SEXTA LEGISLATURA DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 42, FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
