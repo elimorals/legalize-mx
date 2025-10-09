@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2025-06-30"
+last_updated: "2025-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MIC"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO INCISO A) DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 30 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025 (ABROGADO).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 9 DE OCTUBRE DE 2025.]</small>
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -2581,7 +2581,9 @@ DÉCIMO QUINTO. Los procedimientos disciplinarios iniciados con anterioridad a l
 
 DÉCIMO SEXTO. La competencia, distribución territorial e integración de los órganos jurisdiccionales de primera instancia en materia penal del sistema tradicional se regirá, en lo conducente, conforme a las normas contenidas en la Ley Orgánica del Poder Judicial del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 3 de diciembre de 2014, así como por las disposiciones normativas que hayan derivado de ella.
 
-DÉCIMO SÉPTIMO. Lo dispuesto en los artículos 27, fracciones I y VI; 28, fracción III; 29, fracción I; 49, fracción III; y, 51 del presente Decreto entrarán en vigor cuando el Congreso del Estado emita la declaratoria a que se refiere el transitorio segundo del Código Nacional de Procedimientos Civiles y Familiares.
+> <small>(F. DE E., P.O. 9 DE OCTUBRE DE 2025)</small>
+
+DÉCIMO SÉPTIMO. Lo dispuesto en los artículos 27, fracciones I y VI; 28, fracción III; 29, fracción I; 49, fracción III; y, 51 del presente Decreto entrarán en vigor cuando el Congreso del Estado emita la declaratoria a que se refiere el transitorio segundo del Código Nacional de Procedimientos Civiles y Familiares, en lo que refiera a dicho código.
 
 DÉCIMO OCTAVO. El periodo de las magistraturas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial, y de las personas juzgadoras de primera instancia y menores que resultaron ganadoras en la elección extraordinaria celebrada en el año 2025 durarán ocho años en su cargo, por lo que vencerá en el año 2033.
 
