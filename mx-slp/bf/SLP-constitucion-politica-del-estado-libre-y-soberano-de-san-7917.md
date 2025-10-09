@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2025-10-03"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -2621,11 +2621,13 @@ Los servidores públicos que establezca la ley, estarán obligados a presentar, 
 
 ARTÍCULO 124 BIS.- El Sistema Estatal Anticorrupción es el conjunto de autoridades, elementos, programas y acciones, que interactúan entre sí, para el diseño, evaluación de políticas de educación, concientización, prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como la promoción de la integridad pública. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2025)</small>
 
-I. El Sistema contará con un Comité Coordinador integrado por los titulares del Instituto de Fiscalización Superior del Estado; de la (sic) Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; del órgano interno de Control del Gobierno del Estado; por el Presidente del Tribunal Estatal de Justicia Administrativa; y el Presidente del Organismo Garante que establece el artículo 17 fracción III de esta Constitución; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado, y otro del Comité de Participación Ciudadana, y
+I. El Sistema contará con un Comité Coordinador integrado por las personas titulares, del Instituto de Fiscalización Superior del Estado; de la Fiscalía Especializada en Delitos Relacionados con Hechos de Corrupción; el órgano interno de Control del Gobierno del Estado; por la persona que ostente la presidencia del Tribunal Estatal de Justicia Administrativa; por la persona titular del Organismo Garante en el Estado en materia de Transparencia y Acceso a la Información Pública; así como por la persona consejera que designe el Órgano de Administración Judicial del Poder Judicial del Estado, y una persona del Comité de Participación Ciudadana, y
 
-II. El Sistema contará, a su vez, con un Comité de Participación Ciudadana integrado por el número de ciudadanos que establezca la normatividad aplicable, que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, y serán designados en términos de la legislación correspondiente.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2025)</small>
+
+II. El Sistema contará, a su vez, con un Comité de Participación Ciudadana integrado por el número de personas ciudadanas que establezca la normatividad aplicable, que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, y serán designadas en términos de la legislación correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -4090,5 +4092,13 @@ P.O. 3 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0269.- QUE REFORMA LOS ARTÍCULOS 57, 80 Y 93; SE REALIZA ADICIÓN AL ARTÍCULO 80, DE Y A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Toda vez que, tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la presente Constitución, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de los diputados, para que éstas formen parte de la misma, este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"; de conformidad con el último párrafo del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0272.- QUE REFORMA EL ARTÍCULO 124 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; REFORMA LOS ARTÍCULOS 14, 37, 38 Y 39, DE LA LEY DE JUSTICIA INDÍGENA Y COMUNITARIA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
