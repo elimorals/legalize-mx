@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2025-04-24"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -947,7 +947,9 @@ X.- De Asuntos del Trabajo;
 
 XI.- De Obras y Servicios Públicos;
 
-XII.- De Bienestar Social;
+> <small>(REFORMADA, B.O. 9 DE OCTUBRE DE 2025)</small>
+
+XII.- Del Bienestar;
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -3351,11 +3353,13 @@ B.O. 24 DE ABRIL DE 2025.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE USURPACIÓN DE IDENTIDAD”.]
+B.O. 9 DE OCTUBRE DE 2025.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 59, QUE REFORMA LA FRACCIÓN XII, DEL ARTÍCULO 92 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
-P.O. 23 DE NOVIEMBRE DE 2023.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE LA TENTATIVA DE LOS DELITOS DE FEMINICIDIO, HOMICIDIO Y VIOLACIÓN”.]
 
