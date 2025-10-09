@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-indigena-y-comunitaria-para-el-estado-de-102688
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-29"
-last_updated: "2017-10-11"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA INDÍGENA Y COMUNITARIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -135,13 +135,15 @@ En materia penal la jurisdicción se ejercerá a través de las y los jueces aux
 
 El Juez de Control, observando las disposiciones que la materia disponen la Constitución Federal; los tratados internacionales; la Constitución Particular del Estado; y el Código Nacional de Procedimientos Penales del mismo, así como los sistemas normativos y tradiciones, resolverá lo conducente.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 14.
 
-Las personas que ejerzan el cargo de juez auxiliar indígena, serán nombrados en los términos establecidos por la Constitución Política del Estado y la Ley Orgánica del Poder Judicial estatal, conforme a los sistemas normativos de las comunidades.
+Las personas que ejerzan el cargo de juez auxiliar indígena serán nombradas en los términos establecidos por la Constitución Política del Estado y la Ley Orgánica del Poder Judicial del Estado, conforme a los sistemas normativos de las comunidades.
 
-Las y los jueces auxiliares indígenas además de satisfacer los requisitos consignados en los referidos ordenamientos, deberán ser miembros de la comunidad en la que son electos, dominar la lengua; conocer los usos, costumbres y tradiciones de la comunidad indígena a la que pertenezcan, y demostrar ser reconocidos por su compromiso en la comunidad con el bien común y el respeto a los derechos humanos.
+Las personas juzgadoras auxiliares indígenas, además de satisfacer los requisitos consignados en los referidos ordenamientos aplicables, deberán ser miembros de la comunidad para la cual sean electos, y hablar la lengua originaria del lugar; conocer los usos, costumbres y tradiciones de la comunidad indígena a la que pertenezcan, y demostrar ser reconocidos por su compromiso en la comunidad con el bien común y el respeto a los derechos humanos.
 
-El Supremo Tribunal de Justicia del Estado, a través del Consejo de la Judicatura, establecerá los programas y acciones necesarios para la capacitación, supervisión evaluación, y orientación de quienes juzguen en materia indígena; y aportará los recursos económicos indispensables para la administración de justicia, en los términos y para los efectos que determine el Pleno. Además, generará las acciones conducentes a fin de que quienes sean elegidos al cargo de juez auxiliar indígena reciban capacitación en materia de derechos humanos con perspectiva de género.
+El Supremo Tribunal de Justicia del Estado, a través del Órgano de Administración Judicial, establecerá los programas y acciones necesarios para la capacitación, supervisión evaluación, y orientación de las personas juzgadoras en materia indígena; y aportará los recursos económicos indispensables para la administración de justicia, en los términos y para los efectos que determine el Pleno. Además, generará las acciones conducentes a fin de que las personas juzgadoras auxiliares indígenas que sean elegidas al cargo, reciban capacitación en materia de derechos humanos con perspectiva de género.
 
 ###### ARTÍCULO 15.
 
@@ -357,17 +359,23 @@ En los casos de desacato o resistencia a la ejecución de las resoluciones pronu
 
 ### CAPÍTULO VII. DE LA QUEJA ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 37.
 
-El Consejo de la Judicatura del Poder Judicial del Estado, conocerá de las quejas que se presenten contra las o los jueces auxiliares en el ejercicio de sus funciones.
+El Tribunal de Disciplina Judicial del Poder Judicial del Estado, conocerá de las quejas que se presenten contra las personas juezas auxiliares en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 38.
 
-La queja será presentada por conducto de cualquier juez menor, de primera instancia o de control, quien la remitirá al Consejo de la Judicatura, dentro del término de setenta y dos horas siguientes a la presentación, junto con un informe sobre la materia de la misma y los anexos conducentes.
+La queja será presentada por conducto de cualquier persona juzgadora menor, de primera instancia o de control, quien la remitirá al Tribunal de Disciplina Judicial, dentro del término de setenta y dos horas siguientes a la presentación, junto con un informe sobre la materia de esta y los anexos conducentes.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 39.
 
-El Consejo dictará la resolución correspondiente, en un término que no excederá de quince días hábiles siguientes al de la recepción del informe en mención, aplicando en su caso las sanciones previstas en la Ley Orgánica del Poder Judicial del Estado.
+El Tribunal de Disciplina Judicial dictará la resolución correspondiente, en un término que no excederá de quince días hábiles siguientes al de la recepción del informe en mención, aplicando en su caso las sanciones previstas en la Ley Orgánica del Poder Judicial del Estado.
 
 ## TRANSITORIOS
 
@@ -408,3 +416,11 @@ P.O. 11 DE OCTUBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0272.- QUE REFORMA EL ARTÍCULO 124 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; REFORMA LOS ARTÍCULOS 14, 37, 38 Y 39, DE LA LEY DE JUSTICIA INDÍGENA Y COMUNITARIA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
