@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-senalamientos-viales-para-el-estado-de-nuevo-leon-69886"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2024-01-17"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEÑALAMIENTOS VIALES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de agosto de 2009.
 
@@ -43,9 +43,11 @@ Ley de Señalamientos Viales para el Estado de Nuevo León
 
 ### Capítulo I. Objeto de la Ley, Sujetos Obligados y Normas Aplicables a la Publicidad en las Vías Públicas
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de interés público y tiene por objeto establecer las bases generales referentes a los señalamientos viales para el control del tránsito, con la finalidad de brindar mayor seguridad a los usuarios de las vías públicas, así como estandarizar y ordenar la información vial necesaria para la circulación de vehículos y peatones dentro del territorio estatal, exceptuando las vías sujetas a jurisdicción federal; determinando para tal efecto, la elaboración de Normas Técnicas Estatales para el Control del Tránsito.
+La presente Ley es de interés público y tiene por objeto establecer las bases generales referentes a los señalamientos viales eficaces y visibles para el control del tránsito, con la finalidad de brindar mayor seguridad a los usuarios de las vías públicas, así como estandarizar y ordenar la información vial necesaria para la circulación de vehículos y peatones dentro del territorio estatal, exceptuando las vías sujetas a jurisdicción federal; determinando para tal efecto, la elaboración de Normas Técnicas Estatales para el Control del Tránsito.
 
 ###### Artículo 2.
 
@@ -60,6 +62,14 @@ Los particulares que realicen actos regulados por las leyes, mediante las cuales
 En los casos anteriores las autoridades y los particulares tendrán obligación de colocar los señalamientos viales que correspondan, cuando se presenten los casos o condiciones en que las Normas Técnicas Estatales para el Control del Tránsito prevean que deban instalarse, o cuando se deba lograr el objetivo que en su caso las Normas Técnicas señalen para la seguridad y orden del tránsito vehicular y peatonal.
 
 De igual forma, deberán realizar los estudios de ingeniería del tránsito, de las condiciones del tráfico peatonal y vehicular, o cualquier otro análisis que se indique en las Normas Técnicas Estatales para el Control del Tránsito, atendiendo a los lineamientos específicos que al efecto éstas determinen.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 2 Bis.
+
+La autoridad estatal y los municipios en el ámbito de su competencia, realizarán el mantenimiento de los señalamientos horizontales de su jurisdicción cuando este así lo requiera.
+
+Lo anterior, deberá realizarse conforme a lo señalado en las Normas Oficiales Mexicanas y leyes en la materia.
 
 ###### Artículo 3.
 
@@ -261,11 +271,27 @@ IV. Los Municipios del Estado por conducto de sus Presidentes Municipales o de s
 
 a) Aplicar las Normas Técnicas Estatales para el Control del Tránsito, en los términos de esta Ley, la reglamentación aplicable al ámbito municipal, los convenios que para el efecto se celebren, y demás normatividad aplicable en la materia;
 
-b) Instalar, evaluar la efectividad de los resultados obtenidos con la colocación, dar mantenimiento y en su caso retirar los señalamientos relativos a las vías públicas municipales;
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
 
-c) Realizar los estudios técnicos de ingeniería de tránsito que sustenten la colocación de dichos dispositivos; y
+b) Garantizar y llevar a cabo la instalación, evaluación de efectividad, visibilidad, mantenimiento, y, en su caso, retiro de las señalizaciones correspondientes a las vías públicas de jurisdicción municipal, para lo cual, deberán:
 
-d) Las demás atribuciones que le otorguen esta Ley y otros ordenamientos jurídicos aplicables.
+1) Realizar inspecciones periódicas de al menos una vez al año, para evaluar el estado físico, funcional y de visibilidad de las señalizaciones;
+
+2) Asegurar que las señalizaciones cumplan con los estándares técnicos y de seguridad vial aplicables, considerando su correcta ubicación, diseño, iluminación o retroreflectividad, así como su resistencia a factores climáticos; y
+
+3) Implementar un sistema de monitoreo continuo para identificar y atender de manera oportuna señales deterioradas, obsoletas o inexistentes, procediendo a su reparación, reposición o actualización dentro de un plazo razonable.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
+
+c) Realizar los estudios técnicos de ingeniería de tránsito que sustenten la colocación, modificación o retiro de dichos dispositivos, tomando en consideración su impacto en la seguridad, movilidad y fluidez del tránsito;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2025)</small>
+
+d) Mantener un registro actualizado de las señalizaciones instaladas, el cual debe contar como mínimo información de su ubicación, fecha de instalación y los últimos trabajos de mantenimiento realizados, con el fin de garantizar una gestión eficiente; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 9 DE OCTUBRE DE 2025)</small>
+
+e) Las demás atribuciones que le otorguen esta Ley y otros ordenamientos jurídicos aplicables.
 
 ### Capítulo II. Participación Ciudadana
 
@@ -373,4 +399,10 @@ P.O. 17 DE ENERO DE 2024.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 273.- ARTÍCULO ÚNICO.- SE REFORMAN LA FRACCIÓN XIII DEL ARTÍCULO 1°; LA FRACCIÓN I DEL ARTÍCULO 7°; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 32 DE LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES”.]
+P.O. 9 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 122. SE REFORMA EL ARTÍCULO 1, LOS INCISOS B), C) Y D) A LA FRACCIÓN IV DEL ARTÍCULO 11; Y SE ADICIONA EL ARTÍCULO 2 BIS, EL INCISO E) DE LA FRACCIÓN IV AL ARTÍCULO 11, TODO DE LA LEY DE SEÑALAMIENTOS VIALES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Estado y los municipios tendrán un plazo de 120 días hábiles a partir de la entrada en vigor del presente decreto para acatar las obligaciones emanadas del presente decreto.
