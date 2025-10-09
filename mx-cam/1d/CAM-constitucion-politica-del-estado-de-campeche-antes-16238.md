@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2025-06-04"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -107,7 +107,9 @@ Toda persona tiene derecho a disfrutar de una vivienda digna y decorosa. La Ley 
 
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
 
-Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
+
+Toda persona tiene derecho a la cultura física, a la práctica del deporte y a la recreación, en condiciones de igualdad y sin discriminación alguna. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia. El Estado garantizará a las y los deportistas de alto rendimiento, el derecho a recibir becas, apoyos económicos y estímulos que les permitan su formación integral, la continuidad de su trayectoria deportiva y el desarrollo de su educación académica;
 
 Toda persona tiene el derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet.
 
@@ -3650,3 +3652,19 @@ P.O. 4 DE JUNIO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 140 POR EL QUE "SE REFORMA EL PÁRRAFO DÉCIMO SEGUNDO DEL ARTÍCULO 6o. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Posterior a la fecha de publicación y entrada en vigor del presente decreto, se deberá en un plazo no mayor a 180 días, establecer en la legislación secundaria correspondiente los mecanismos, criterios, requisitos y montos para hacer efectivo este derecho, así como el procedimiento para su vigencia, evaluación y rendición de cuentas.
+
+La evaluación de este programa deberá observar el principio del interés superior de la niñez, la igualdad sustantiva, la no discriminación y el acceso progresivo a los derechos deportivos, conforme a los estándares nacionales e internacionales en materia de derechos humanos.
+
+TERCERO.- La Secretaría de Administración y Finanzas de la Administración Pública del Estado de Campeche y el Instituto del Deporte del Estado de Campeche, en conjunto deberán considerar las medidas programáticas presupuestales.
+
+CUARTO.- Las becas deportivas de alto rendimiento, podrán mantenerse o incrementarse, pero en ningún momento reducir el monto del año inmediato anterior, asegurando su progresividad.
+
+QUINTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido de este decreto.
