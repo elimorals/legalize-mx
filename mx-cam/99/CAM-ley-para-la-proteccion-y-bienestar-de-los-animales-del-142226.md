@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-proteccion-y-bienestar-de-los-animales-del-142226"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2024-10-10"
+last_updated: "2025-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el jueves 27 de septiembre de 2018.
 
@@ -137,9 +137,9 @@ IV. Celebrar convenios y acuerdos de coordinación y demás instrumentos jurídi
 
 V. Coadyuvar con los Municipios, con las asociaciones protectoras de animales y otras dependencias y entidades estatales, en los casos en que se requiera su apoyo para la captura de animales silvestres, así como de aquellos que siendo domésticos se hayan tornado ferales y, por lo tanto sean o puedan ser un riesgo para la población;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2025)</small>
 
-VI. Coadyuvar en la difusión, por los medios apropiados, del espíritu y contenido de esta ley, inculcando en el niño, el adolescente y el adulto el respeto hacia todas las formas de vida animal, difundiendo el conocimiento de su relación con la preservación del equilibrio ecológico; así como en la promoción de la adopción de animales domésticos que se encuentren en situación de calle o abandono;
+VI. Coadyuvar en la difusión, por los medios apropiados, del espíritu y contenido de esta ley, inculcando en el niño, el adolescente y el adulto el respeto hacia todas las formas de vida animal, difundiendo el conocimiento de su relación con la preservación del equilibrio ecológico; así como en la promoción de la tenencia responsable y la adopción de animales domésticos que se encuentran en situación de calle o abandono;
 
 VII. Emitir las autorizaciones para la realización de actividades consistentes en:
 
@@ -187,9 +187,11 @@ IV. Celebrar convenios de colaboración con los sectores público, social y priv
 
 V. Supervisar, verificar y sancionar, en el ámbito de su competencia, los refugios y albergues de animales, de conformidad con lo establecido en la presente Ley, su Reglamento y demás disposiciones aplicables;
 
-VI. Impulsar campañas de concientización para la protección y el trato digno y respetuoso a los animales;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2025)</small>
 
-VII Contar con un Centro de Bienestar Animal, de conformidad con lo establecido en la presente Ley y demás disposiciones aplicables;
+VI. Impulsar campañas de concientización para la protección y el trato digno y respetuoso a los animales, así como la tenencia responsable de animales domésticos;
+
+VII. Contar con un Centro de Bienestar Animal, de conformidad con lo establecido en la presente Ley y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2021)</small>
 
@@ -217,9 +219,11 @@ IV. Las demás que esta Ley y otros ordenamientos aplicables le confieran en est
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS PROPIETARIOS O POSEEDORES DE ANIMALES
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 8°.
 
-Cualquier poseedor o propietario encargado de la guarda o custodia de los animales a los que se refiere la presente Ley, está obligado a brindar los cuidados necesarios para velar por el bienestar del animal de acuerdo a su especie.
+Cualquier poseedor o propietario encargado de la guarda o custodia de los animales a los que se refiere la presente Ley, está obligado a brindar los cuidados necesarios para velar por el bienestar del animal de manera responsable y de acuerdo a su especie.
 
 ###### ARTÍCULO 9°.
 
@@ -529,7 +533,9 @@ II. Ofrecer en adopción a los animales que se encuentren en buen estado de salu
 
 III. Coadyuvar con las autoridades estatales y municipales para el resguardo de animales asegurados con motivo de la comisión de un ilícito o de una falta administrativa;
 
-IV. Difundir entre la población información sobre el respeto que se debe guardar a los animales, y crear conciencia en la misma de la decisión que implica adoptar un animal y sus consecuencias sociales y económicas; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2025)</small>
+
+IV. Difundir entre la población información sobre el respeto que se debe guardar a los animales, y crear conciencia en la misma de la decisión que implica adoptar un animal y sus consecuencias sociales y económicas, así como los elementos propios de la tenencia responsable de un animal doméstico; y
 
 V. Estructurar programas para entrenamiento de animales como auxilio para quienes tengan un impedimento físico o psicológico, o su uso como terapia en hogares y organismos asistenciales y educativos.
 
@@ -872,3 +878,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente día (sic) de 
 SEGUNDO.- Los procedimientos penales y administrativos iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 138 POR EL QUE "SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 4°; LA FRACCIÓN VI DEL ARTÍCULO 6°; EL ARTÍCULO 8° Y LA FRACCIÓN IV DEL ARTÍCULO 55, TODOS DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente día al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
