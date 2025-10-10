@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12263
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2024-10-15"
+last_updated: "2025-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de julio de 2017.
 
@@ -43,9 +43,11 @@ LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y tiene por objeto reglamentar los artículos 75 fracción IV y XXIX y 77 de la Constitución Política del Estado Libre y Soberano del Estado (sic) de Quintana Roo, en materia de revisión y fiscalización de:
+La presente Ley es de orden público y tiene por objeto reglamentar los artículos 75 fracción IV y XXIX y 77 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de revisión y fiscalización de:
 
 I. La Cuenta Pública;
 
@@ -85,11 +87,15 @@ I. Entregar en los plazos establecidos y de manera completa las cuentas pública
 
 II. Permitir las visitas y auditorías que realice la Auditoría Superior del Estado;
 
-III. Proporcionar la documentación que solicite la Auditoría Superior del Estado para llevar a cabo la fiscalización que realice o cualquier otra información que les requiera en ejercicio de sus funciones. Iguales obligaciones tienen los servidores públicos de las administraciones públicas estatal y municipal, así como las instituciones privadas, particulares o cualquier entidad fiscalizable que haya ejercido recursos públicos;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+III. Proporcionar la documentación que solicite la Auditoría Superior del Estado para llevar a cabo la fiscalización que realice cualquier otra información que les requiera en ejercicio de sus funciones. Iguales obligaciones tienen las personas servidoras públicas de las administraciones públicas estatal y municipal, así como las instituciones privadas, particulares o cualquier entidad fiscalizable que haya ejercido recursos públicos;
 
 IV. Rendir los informes sobre el seguimiento de las observaciones;
 
-V. Presentar lo necesario para la solventación de las observaciones en los plazos indicados; y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+V. Presentar lo necesario para la solventación de las observaciones en los plazos indicados;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
 
@@ -97,9 +103,9 @@ VI. Conducir su gestión financiera bajo los principios de eficiencia, eficacia,
 
 VII. Las demás que señale esta Ley y las disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-El incumplimiento de las obligaciones a que se refiere este artículo por parte de las entidades fiscalizables, o los servidores públicos dará lugar a la imposición de las sanciones que se señalan en esta ley y demás leyes que resulten aplicables.
+El incumplimiento de las obligaciones a que se refiere este artículo por parte de las entidades fiscalizables, o las personas servidoras públicas dará lugar a la imposición de las sanciones que se señalan en esta ley y demás leyes que resulten aplicables.
 
 ###### Artículo 6.
 
@@ -119,11 +125,17 @@ VI. Comisión: La Comisión de Hacienda, Presupuesto y Cuenta de la Legislatura 
 
 VII. Cuenta Pública: La cuenta pública estatal a que se refiere el artículo 75, fracción XXIX y artículo 77 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y cuyo contenido se establece en la Ley General de Contabilidad Gubernamental;
 
-VIII. Entes Públicos: Los Poderes Legislativo y Judicial, los órganos públicos autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública Estatal, y sus homólogos en los municipios y sus dependencias y entidades, la Fiscalía General del Estado, las empresas productivas del Estado y sus subsidiarias, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-IX. Municipios: Son una institución de carácter público, constituida por una comunidad de personas, establecida en el territorio que le señala a cada uno de ellos la Constitución Política del Estado, con personalidad jurídica y patrimonio propios, autónomo en su gobierno interior y libre en la administración de su hacienda;
+VIII. Entes Públicos: Los Poderes Legislativo y Judicial, los órganos públicos autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública Estatal, y sus homólogos en los municipios y sus dependencias y entidades, la Fiscalía General del Estado, Fiscalía Especializada en Combate a la Corrupción del Estado de Quintana Roo, las empresas productivas del Estado y sus subsidiarias, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados;
 
-X. Entidades fiscalizadas: Los entes públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos estatales y municipales, no obstante que sean o no considerados entidades paraestatales por la Ley de las Entidades de la Administración Pública Paraestatal del Estado y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos estatales y municipales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+IX. Municipios: Son una institución de carácter público, constituida por una comunidad de personas, establecida en el territorio que le señala a cada uno de ellos la Constitución Política del Estado Libre y Soberano de Quintana Roo, con personalidad jurídica y patrimonios propios, autónomo en su gobierno interior y libre en la administración de su hacienda;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+X. Entidades fiscalizadas: Los entes públicos; las entidades de interés público distintas a los partidos políticos; las personas mandantes, las personas con mandato, la persona que otorga el fideicomiso, las personas fiduciarias, las personas fideicomisarias o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos estatales y municipales, no obstante que sean o no considerados entidades paraestatales por la Ley de las Entidades de la Administración Pública Paraestatal del Estado y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos estatales y municipales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines;
 
 XI. Faltas administrativas graves: Las así señaladas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
 
@@ -163,25 +175,35 @@ XXVI. Presupuesto de Egresos: El Presupuesto de Egresos del Estado y de los Muni
 
 XXVII. Procesos concluidos: Cualquier acción que se haya realizado durante el año fiscal en curso que deba registrarse como pagado conforme a la Ley General de Contabilidad Gubernamental;
 
-XXVIII. Programas: Los señalados en la Ley de Planeación para el Desarrollo del Estado, en la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo y los contenidos en el Presupuesto de Egresos, con base en los cuales las entidades fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público Estatal y Municipal;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XXVIII. Programas: Los señalados en la Ley de Planeación para el Desarrollo del Estado de Quintana Roo, en la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo y los contenidos en el Presupuesto de Egresos, con base en los cuales las entidades fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público Estatal y Municipal;
 
 XXIX. Reglamento Interior: El Reglamento Interior de la Auditoría Superior del Estado;
 
 XXX. Secretaría: La Secretaría de Finanzas y Planeación del Estado;
 
-XXXI. Servidores públicos: Los señalados en la Constitución Política del Estado Libre y Soberano de Quintana Roo y en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-XXXII. Tribunal: El Tribunal de Justicia Administrativa del Estado;
+XXXI. Personas Servidoras públicas: Las señaladas en la Constitución Política del Estado Libre y Soberano de Quintana Roo y en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
 
-XXXIII. Unidad: la Unidad de Vigilancia de la Comisión, y es el órgano técnico de la Comisión para la evaluación del desempeño de la Auditoría Superior y práctica de su auditoría de los estados financieros
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XXXII. Tribunal: El Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XXXIII. Unidad: la Unidad de Vigilancia de la Comisión, la cual se constituye como el órgano técnico, profesional e interdisciplinario de la Comisión para la evaluación del desempeño de la Auditoría Superior y práctica de su auditoría de los estados financieros;
 
 XXXIV. Unidad de Medida y Actualización: El valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes.
 
 Las definiciones previstas en los artículos 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 4 de la Ley General de Contabilidad Gubernamental, serán aplicables a la presente Ley.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 7.
 
-Tratándose de los informes a que se refieren las fracciones XVII, XVIII y XIX del artículo anterior, la información contenida en los mismos será publicada en la página de Internet de la Auditoría Superior del Estado, en Formatos Abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado, siempre y cuando no se revele información que se considere temporalmente reservada o que forme parte de un proceso de investigación, en los términos previstos en la legislación aplicable. La información reservada se incluirá una vez que deje de serlo.
+Tratándose de los informes a que se refieren las fracciones XVII, XVIII y XIX del artículo anterior, la información contenida en los mismos será publicada en la página de Internet de la Auditoría Superior del Estado, en Formatos Abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo, siempre y cuando no se revele información que se considere temporalmente reservada o que forme parte de un proceso de investigación, en los términos previstos en la legislación aplicable. La información reservada se incluirá una vez que deje de serlo.
 
 ###### Artículo 8.
 
@@ -189,9 +211,11 @@ La fiscalización de la cuenta pública que realiza la Auditoría Superior del E
 
 La Auditoría Superior del Estado, al fiscalizar las cuentas públicas estatales o municipales detecte que los recursos de los fondos a que se refiere el artículo 25 de la Ley de Coordinación Fiscal en materia federal no fueron destinados a los fines establecidos en la referida ley, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 9.
 
-A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente, la Ley de Presupuesto y Gasto Público del Estado; la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; la Ley de Coordinación Fiscal del Estado; la Ley de Ingresos; los Códigos Fiscal del Estado y Municipal, según sea el caso; la Ley General de Responsabilidades Administrativas; la Ley de Responsabilidades Administrativas del Estado; Ley del Sistema Anticorrupción del Estado, y el Presupuesto de Egresos, así como las disposiciones relativas del derecho común Estatal, sustantivo y procesal, en ese orden.
+A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente, la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo; la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; la Ley de Coordinación Fiscal del Estado de Quintana Roo; la Ley de Ingresos; los Códigos Fiscal del Estado y Municipal, según sea el caso; la Ley General de Responsabilidades Administrativas; la Ley de Responsabilidades Administrativas del Estado; Ley del Sistema Anticorrupción del Estado de Quintana Roo, y el Presupuesto de Egresos, así como las disposiciones relativas del derecho común Estatal, sustantivo y procesal, en ese orden.
 
 ###### Artículo 10.
 
@@ -201,7 +225,9 @@ La Auditoría Superior del Estado deberá emitir los criterios relativos a la ej
 
 Los entes públicos facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
 
-Los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado para efectos de sus auditorías e investigaciones, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Las personas servidoras públicas, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado para efectos de sus auditorías e investigaciones, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de personas usuarias del sistema financiero.
 
 De no proporcionar la información, los responsables serán sancionados en los términos de la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado y, en su caso, en términos de la legislación penal aplicable.
 
@@ -215,9 +241,9 @@ Las personas a que se refiere este artículo deberán acompañar a la informaci�
 
 La Auditoría Superior del Estado podrá imponer multas, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-I. Cuando los servidores públicos y las personas físicas no atiendan los requerimientos a que refiere el artículo precedente, salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad, la Auditoría Superior del Estado podrá imponerles una multa de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización a dos mil veces el valor diario de la Unidad de Medida y Actualización;
+I. Cuando las personas servidoras públicas y las personas físicas no atiendan los requerimientos a que se refiere el artículo precedente, salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad, la Auditoría Superior del Estado podrá imponerles una multa de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización a dos mil veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
 
@@ -229,7 +255,11 @@ III. Se aplicarán las multas previstas en las fracciones anteriores, a los terc
 
 IV. La reincidencia se sancionará con una multa hasta del doble de la impuesta anteriormente, sin perjuicio de que persista la obligación de atender el requerimiento respectivo;
 
-V. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida. La autoridad competente se encargará de hacer efectivo su cobro en términos del Código Fiscal del Estado y de las demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+V. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se
+
+fijarán en cantidad líquida. La autoridad competente se encargará de hacer efectivo su cobro en términos del Código Fiscal del Estado de Quintana Roo y de las demás disposiciones aplicables;
 
 VI. Para imponer la multa que corresponda, la Auditoría Superior del Estado debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley, y
 
@@ -239,7 +269,9 @@ VII. Las multas que se impongan en términos de este artículo son independiente
 
 La negativa a entregar información a la Auditoría Superior del Estado, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado y las leyes penales aplicables.
 
-Cuando los servidores públicos y las personas físicas y morales, públicas o privadas aporten información falsa, serán sancionados penalmente conforme a lo previsto por el Código Penal del Estado.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Cuando las personas servidoras públicas y las personas físicas y morales, públicas o privadas aporten información falsa, serán sancionados (sic) penalmente conforme a lo previsto por el Código Penal para el Estado Libre y Soberano de Quintana Roo.
 
 ###### Artículo 14.
 
@@ -329,7 +361,9 @@ V. Practicar auditorías sobre el desempeño en el cumplimiento de los objetivos
 
 VI. Verificar que las entidades fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-VII. Verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con la Ley de Ingresos y el Presupuesto de Egresos y se efectúen con apego a las disposiciones respectivas del Código Fiscal del Estado y leyes fiscales sustantivas; la Ley de Deuda Pública del Estado de Quintana Roo y sus Municipios; Ley del Presupuesto y Gasto Publico del Estado, Ley Orgánica de la Administración Pública del Estado, Ley Orgánica del Poder Judicial del Estado, Ley Orgánica del Poder Legislativo; Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, Ley de Asociaciones Público-Privada del Estado y los Municipios de Quintana Roo; las correspondientes Ley de Adquisiciones, Arrendamientos y Prestaciones de Servicios Relacionados con Bienes Muebles del Estado de Quintana Roo, Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Quintana Roo, y demás disposiciones legales, reglamentarias y administrativas aplicables a estas materias;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+VII. Verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con la Ley de Ingresos y el Presupuesto de Egresos y se efectúen con apego a las disposiciones respectivas del Código Fiscal del Estado de Quintana Roo y leyes fiscales sustantivas; la Ley de Deuda Pública del Estado de Quintana Roo y sus Municipios; Ley del Presupuesto y Gasto Publico del Estado de Quintana Roo, Ley Orgánica de la Administración Pública del Estado de Quintana Roo, Ley Orgánica del Poder Judicial del Estado de Quintana Roo, Ley Orgánica del Poder Legislativo del Estado de Quintana Roo; Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, Ley de Asociaciones Público-Privada para el Estado y los Municipios de Quintana Roo; las correspondientes Ley de Adquisiciones, Arrendamientos y Prestaciones de Servicios Relacionados con Bienes Muebles del Estado de Quintana Roo, Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Quintana Roo, y demás disposiciones legales, reglamentarias y administrativas aplicables a estas materias;
 
 VIII. Verificar obras, bienes adquiridos y servicios contratados por las entidades fiscalizadas para comprobar si los recursos de las inversiones y los gastos autorizados a las entidades fiscalizadas se ejercieron en los términos de las disposiciones aplicables;
 
@@ -351,7 +385,9 @@ d) Instituciones de crédito, fideicomisos u otras figuras del sector financiero
 
 e) Autoridades hacendarias estatales y municipales.
 
-La Auditoría Superior del Estado tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos estatales y municipales y la deuda pública, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables. Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por el Titular de la Auditoría y los auditores especiales a que se refiere esta Ley.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+La Auditoría Superior del Estado tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos estatales y municipales y la deuda pública, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables. Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por la persona Titular de la Auditoría y las personas auditoras especiales a que se refiere esta Ley.
 
 Cuando derivado de la práctica de auditorías se entregue a la Auditoría Superior del Estado información de carácter reservado o confidencial, ésta deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones de los informes de auditoría respectivos, información o datos que tengan esta característica en términos de la legislación aplicable. Dicha información será conservada por la Auditoría Superior del Estado en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables.
 
@@ -361,7 +397,9 @@ XII. Fiscalizar los recursos públicos que el Estado haya otorgado a los Municip
 
 XIII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o presunta conducta ilícita, o comisión de faltas administrativas, en los términos establecidos en esta Ley, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
 
-XIV. Efectuar visitas domiciliarias, únicamente para exigir la exhibición de los libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las entidades fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XIV. Efectuar visitas domiciliarias, únicamente para exigir la exhibición de los libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos, así como realizar entrevistas y reuniones con personas particulares o con personas servidoras públicas de las entidades fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones;
 
 XV. Formular recomendaciones, solicitudes de aclaración, pliegos de observaciones, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, informes de presunta responsabilidad administrativa, denuncias de hechos y denuncias de juicio político.
 
@@ -369,15 +407,17 @@ XVI. Promover las responsabilidades administrativas, para lo cual la Unidad Admi
 
 Cuando detecte posibles responsabilidades no graves dará vista a los órganos internos de control competentes, para que continúen la investigación respectiva y, en su caso, promuevan la imposición de las sanciones que procedan;
 
-XVII. Promover y dar seguimiento ante las autoridades competentes para la imposición que las sanciones que correspondan a los servidores públicos estatales, de los municipios; y los particulares, a las que se refiere el Título Octavo de la Constitución Política del Estado Libre y Soberano de Quintana Roo y presentará denuncias y querellas penales;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XVII. Promover y dar seguimiento ante las autoridades competentes para la imposición que las sanciones que correspondan a las personas servidoras públicas estatales, de los municipios; y los particulares, a las que se refiere el Título Octavo de la Constitución Política del Estado Libre y Soberano de Quintana Roo y presentará denuncias y querellas penales;
 
 XVIII. Recurrir, a través de la Unidad Administrativa a cargo de las investigaciones de la Auditoría Superior del Estado, las determinaciones del Tribunal y de la Fiscalía Especializada, en términos de las disposiciones legales aplicables;
 
 XIX. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las multas que imponga;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-XX. Participar en el Sistema Estatal Anticorrupción, así como en su Comité Coordinador, en los términos de lo dispuesto por el artículo 161 fracción III de la Constitución Política del Estado Libre y Soberano del Estado (sic) de Quintana Roo y de la Ley Estatal en la materia;
+XX. Participar en el Sistema Estatal Anticorrupción, así como en su Comité Coordinador, en los términos de lo dispuesto por el artículo 161 fracción III de la Constitución Política del Estado Libre y Soberano de Quintana Roo y de la Ley Estatal en la materia;
 
 XXI. Podrá solicitar a las entidades fiscalizadas información del ejercicio en curso, respecto de procesos concluidos, para la planeación de la fiscalización de la cuenta pública. Lo anterior sin perjuicio de la revisión y fiscalización que la Auditoría Superior del Estado lleve a cabo conforme a lo contenido en la fracción II del artículo 1 de esta Ley;
 
@@ -435,9 +475,11 @@ En caso de que la Auditoría Superior del Estado considere que las entidades fis
 
 Lo previsto en los artículos anteriores, se realizará sin perjuicio de que la Auditoría Superior del Estado convoque a las reuniones de trabajo que estime necesarias durante las auditorías correspondientes, para la revisión de los resultados preliminares.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 24.
 
-La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto de Egresos en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de auditorías sobre el desempeño. Las observaciones, incluyendo las acciones y recomendaciones que la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión. Lo anterior, sin perjuicio de que, de encontrar en la revisión que se practique presuntas responsabilidades a cargo de servidores públicos o particulares, correspondientes a otros ejercicios fiscales, se dará vista a la Unidad Administrativa a cargo de las investigaciones de la Auditoría Superior del Estado para que proceda a formular las promociones de responsabilidades administrativas o las denuncias correspondientes en términos del Título Cuarto de la presente Ley.
+La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto de Egresos en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de auditorías sobre el desempeño. Las observaciones, incluyendo las acciones y recomendaciones que la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión. Lo anterior, sin perjuicio de que, de encontrar en la revisión que se practique presuntas responsabilidades a cargo de personas servidoras públicas o particulares, correspondientes a otros ejercicios fiscales, se dará vista a la Unidad Administrativa a cargo de las investigaciones de la Auditoría Superior del Estado para que proceda a formular las promociones de responsabilidades administrativas o las denuncias correspondientes en términos del Título Cuarto de la presente Ley.
 
 ###### Artículo 25.
 
@@ -457,9 +499,13 @@ Las auditorías que se efectúen en los términos de esta Ley, se practicarán p
 
 En el caso de despachos o profesionales independientes, previamente a su contratación, la Auditoría Superior del Estado deberá cerciorarse y recabar la manifestación por escrito de éstos de no encontrarse en conflicto de intereses con las entidades fiscalizadas ni con la propia Auditoría.
 
-Asimismo, los servidores públicos de la Auditoría Superior del Estado y los despachos o profesionales independientes tendrán la obligación de abstenerse de conocer asuntos referidos a las entidades fiscalizadas en las que hubiesen prestado servicios, de cualquier índole o naturaleza, o con los que hubieran mantenido cualquier clase de relación contractual durante el periodo que abarque la revisión de que se trate, o en los casos en que tengan conflicto de interés en los términos previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-No se podrán contratar trabajos de auditoría externos o cualquier otro servicio relacionado con actividades de fiscalización de manera externa, cuando exista parentesco por consanguinidad o afinidad hasta el cuarto grado, o parientes civiles, entre el titular de la Auditoría Superior del Estado o cualquier mando superior de la Auditoría y los prestadores de servicios externos.
+Asimismo, las personas servidoras públicas de la Auditoría Superior del Estado y los despachos o profesionales independientes tendrán la obligación de abstenerse de conocer asuntos referidos a las entidades fiscalizadas en las que hubiesen prestado servicios, de cualquier índole o naturaleza, o con los que hubieran mantenido cualquier clase de relación contractual durante el periodo que abarque la revisión de que se trate, o en los casos en que tengan conflicto de interés en los términos previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+No se podrán contratar trabajos de auditoría externos o cualquier otro servicio relacionado con actividades de fiscalización de manera externa, cuando exista parentesco por consanguinidad o afinidad hasta el cuarto grado, o parientes civiles, entre la persona titular de la Auditoría Superior del Estado o cualquier persona con mando superior de la Auditoría y las personas prestadoras de servicios externos.
 
 ###### Artículo 29.
 
@@ -473,17 +519,23 @@ Las entidades fiscalizadas deberán proporcionar a la Auditoría Superior del Es
 
 Durante sus actuaciones los comisionados o habilitados que hubieren intervenido en las revisiones, deberán levantar actas circunstanciadas en presencia de dos testigos, en las que harán constar hechos y omisiones que hubieren encontrado. Las actas, declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba en términos de ley.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-Los servidores públicos de la Auditoría Superior del Estado y, en su caso, los despachos o profesionales independientes contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan, así como de sus actuaciones y observaciones.
+Las personas servidoras públicas de la Auditoría Superior del Estado y, en su caso, los despachos o profesionales independientes contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan, así como de sus actuaciones y observaciones.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 33.
 
-Los prestadores de servicios profesionales externos que contrate, cualquiera que sea su categoría, serán responsables en los términos de las leyes aplicables por violación a la reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan.
+Las personas prestadoras de servicios profesionales externas que contrate, cualquiera que sea su categoría, serán responsables en los términos de las leyes aplicables por violación a la reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 34.
 
-La Auditoría Superior del Estado será responsable subsidiaria de los daños y perjuicios que en términos de este capítulo, causen los servidores públicos de la misma y los despachos o profesionales independientes, contratados para la práctica de auditorías, sin perjuicio de que la Auditoría Superior del Estado promueva las acciones legales que correspondan en contra de los responsables.
+La Auditoría Superior del Estado será responsable subsidiaria de los daños y perjuicios que, en términos de este capítulo, causen las personas servidoras públicas de la misma y los despachos o profesionales independientes, contratados para la práctica de auditorías, sin perjuicio de que la Auditoría Superior del Estado promueva las acciones legales que correspondan en contra de los responsables.
 
 ### Capítulo II. Del contenido del Informe General y su análisis
 
@@ -493,7 +545,9 @@ La Auditoría Superior del Estado tendrá un plazo que vence el 20 de febrero de
 
 La Legislatura remitirá copia del Informe General al Comité Coordinador del Sistema Estatal Anticorrupción y al Comité de Participación Ciudadana.
 
-A solicitud de la Comisión o de su mesa directiva, el Auditor Superior del Estado y los funcionarios que éste designe presentarán, ampliarán o aclararán el contenido del Informe General, en sesiones de la Comisión cuantas veces sea necesario a fin de tener un mejor entendimiento del mismo, siempre y cuando no se revele información reservada o que forme parte de un proceso de investigación. Lo anterior, sin que se entienda para todos los efectos legales como una modificación al Informe General. Lo anterior, sin que se entienda para todos los efectos legales como una modificación al Informe del Resultado.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+A solicitud de la Comisión o de su mesa directiva, la persona Titular de la Auditoría Superior del Estado y las personas funcionarias que ésta designe presentarán, ampliarán o aclararán el contenido del Informe General, en sesiones de la Comisión cuantas veces sea necesario a fin de tener un mejor entendimiento del mismo, siempre y cuando no se revele información reservada o que forme parte de un proceso de investigación. Lo anterior, sin que se entienda para todos los efectos legales como una modificación al Informe General.
 
 ###### Artículo 36.
 
@@ -523,9 +577,9 @@ VII. Un apartado que contenga la información que acredite la atención de las o
 
 VIII. La demás información que se considere necesaria.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-El informe general a que hace referencia el presente capítulo tendrá el carácter de público, y se mantendrán (sic) en la página de Internet de la Auditoría Superior del Estado, en Formatos Abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado.
+El informe general a que hace referencia el presente capítulo tendrá el carácter de público, y se mantendrán (sic) en la página de Internet de la Auditoría Superior del Estado, en Formatos Abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo.
 
 ### Capítulo III. De los Informes Individuales
 
@@ -539,9 +593,13 @@ Los Informes Individuales de auditoría contendrán como mínimo lo siguiente:
 
 I. Los criterios de selección, el objetivo, el alcance, los procedimientos de auditoría aplicados y el dictamen de la revisión;
 
-II. Los nombres de los servidores públicos de la Auditoría Superior del Estado a cargo de realizar la auditoría o, en su caso, de los despachos o profesionales independientes contratados para llevarla a cabo;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-III. El cumplimiento, en su caso, de la Ley de Ingresos, el Presupuesto de Egresos, de la Ley de Deuda Pública del Estado de Quintana Roo y sus Municipios, el Código Fiscal del Estado, de la Ley General de Contabilidad Gubernamental, y demás disposiciones jurídicas;
+II. Los nombres de las personas servidoras públicas de la Auditoría Superior del Estado a cargo de realizar la auditoría o, en su caso, de los despachos o profesionales independientes contratados para llevarla a cabo;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+III. El cumplimiento, en su caso, de la Ley de Ingresos, el Presupuesto de Egresos, de la Ley de Deuda Pública del Estado de Quintana Roo y sus Municipios, el Código Fiscal del Estado de Quintana Roo, de la Ley General de Contabilidad Gubernamental, y demás disposiciones jurídicas;
 
 IV. Los resultados de la fiscalización efectuada;
 
@@ -551,7 +609,9 @@ VI. Un apartado específico en cada una de las auditorías realizadas donde se i
 
 Asimismo, considerará, en su caso, el cumplimiento de los objetivos de aquellos programas que promuevan la igualdad entre mujeres y hombres, así como la erradicación de la violencia y cualquier forma de discriminación de género.
 
-Los Informes Individuales a que hace referencia el presente capítulo tendrán el carácter de públicos, y se mantendrán en la página de Internet de la Auditoría Superior del Estado, en Formatos Abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Los Informes Individuales a que hace referencia el presente capítulo tendrán el carácter de públicos, y se mantendrán en la página de Internet de la Auditoría Superior del Estado, en Formatos Abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo.
 
 ###### Artículo 39.
 
@@ -563,7 +623,9 @@ La Auditoría Superior del Estado informará a la Legislatura, por conducto de l
 
 Para tal efecto, el reporte a que se refiere este artículo será semestral y deberá ser presentado a más tardar los días 1 de los meses de mayo y noviembre de cada año, con los datos disponibles al cierre del primer y tercer trimestres del año, respectivamente.
 
-El informe semestral se elaborará con base en los formatos que al efecto establezca la Comisión e incluirá invariablemente los montos efectivamente resarcidos a la hacienda pública estatal o municipal, o al patrimonio de los entes públicos estatales, derivados de la fiscalización de la cuenta pública y en un apartado especial, la atención a las recomendaciones, así como el estado que guarden las denuncias penales presentadas y los procedimientos de responsabilidad administrativa promovidos en términos de la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado y esta Ley. Asimismo, deberá publicarse en la página de Internet de la Auditoría Superior del Estado en la misma fecha en que sea presentado en formato de datos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado y se mantendrá de manera permanente en la página de Internet.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+El informe semestral se elaborará con base en los formatos que al efecto establezca la Comisión e incluirá invariablemente los montos efectivamente resarcidos a la hacienda pública estatal o municipal, o al patrimonio de los entes públicos estatales, derivados de la fiscalización de la cuenta pública y en un apartado especial, la atención a las recomendaciones, así como el estado que guarden las denuncias penales presentadas y los procedimientos de responsabilidad administrativa promovidos en términos de la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado y esta Ley. Asimismo, deberá publicarse en la página de Internet de la Auditoría Superior del Estado en la misma fecha en que sea presentado en formato de datos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo y se mantendrá de manera permanente en la página de Internet.
 
 En dicho informe, la Auditoría Superior del Estado dará a conocer el seguimiento específico de las promociones de los informes de presunta responsabilidad administrativa, a fin de identificar a la fecha del informe las estadísticas sobre dichas promociones identificando también las sanciones que al efecto hayan procedido.
 
@@ -573,9 +635,11 @@ En cuanto a las denuncias penales formuladas ante la Fiscalía Especializada o l
 
 ### Capítulo IV. De las Acciones y Recomendaciones derivadas de la Fiscalización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 41.
 
-El Titular de la Auditoría Superior del Estado enviará a las entidades fiscalizadas, dentro de un plazo de 10 días hábiles siguientes a que haya sido entregado a la Legislatura, el informe individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de hasta 30 días naturales, presenten la información y realicen las consideraciones pertinentes.
+La persona Titular de la Auditoría Superior del Estado enviará a las entidades fiscalizadas, dentro de un plazo de 10 días hábiles siguientes a que haya sido entregado a la Legislatura, el informe individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de hasta 30 días naturales, presenten la información y realicen las consideraciones pertinentes.
 
 Con la notificación del informe individual a las entidades fiscalizadas quedarán formalmente promovidas y notificadas las acciones y recomendaciones contenidas en dicho informe, salvo en los casos del informe de presunta responsabilidad administrativa y de las denuncias penales y de juicio político, los cuales se notificarán a los presuntos responsables en los términos de las leyes que rigen los procedimientos respectivos.
 
@@ -589,15 +653,21 @@ II. Tratándose de los pliegos de observaciones, determinará en cantidad líqui
 
 III. Mediante las promociones del ejercicio de la facultad de comprobación fiscal, informará a la autoridad competente sobre un posible incumplimiento de carácter fiscal detectado en el ejercicio de sus facultades de fiscalización;
 
-IV. A través del informe de presunta responsabilidad administrativa, la Auditoría Superior del Estado promoverá ante el Tribunal, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2025)</small>
+
+IV. A través del informe de presunta responsabilidad administrativa, la Auditoría Superior del Estado promoverá ante el Tribunal, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, la imposición de sanciones a las personas servidoras públicas por las faltas administrativas graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas.
 
 En caso de que la Auditoría Superior del Estado determine la existencia de daños o perjuicios, o ambos a la hacienda pública estatal o municipal, o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
 
-V. Por medio de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+V. Por medio de las promociones de responsabilidad administrativa, dará vista a la Secretaría Anticorrupción y Buen Gobierno o a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
 
 VI. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía Especializada, la posible comisión de hechos delictivos, y
 
-VII. Por medio de la denuncia de juicio político, hará del conocimiento de la Legislatura la presunción de actos u omisiones de los servidores públicos a que se refiere el artículo 160 fracción I de la Constitución Política del Estado Libre y Soberano de Quintana Roo, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+VII. Por medio de la denuncia de juicio político, hará del conocimiento de la Legislatura la presunción de actos u omisiones de las personas servidoras públicas a que se refiere el artículo 160 fracción I de la Constitución Política del Estado Libre y Soberano de Quintana Roo, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
 
 ###### Artículo 43.
 
@@ -611,9 +681,11 @@ La información, documentación o consideraciones aportadas por las entidades fi
 
 Dentro de los 30 días posteriores a la conclusión del plazo a que se refiere el artículo que antecede, la Auditoría Superior del Estado enviará a la Legislatura un reporte final sobre las recomendaciones correspondientes a la Cuenta Pública en revisión, detallando la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 45.
 
-La Auditoría Superior del Estado, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el Tribunal; así como la denuncia de hechos ante la Fiscalía Especializada, la denuncia de juicio político ante la Legislatura, o los informes de presunta responsabilidad administrativa ante el órgano interno de control competente, en los términos del Título Cuarto de esta Ley.
+La Auditoría Superior del Estado, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el Tribunal; así como la denuncia de hechos ante la Fiscalía Especializada, la denuncia de juicio político ante la Legislatura, o los informes de presunta responsabilidad administrativa ante la Secretaría Anticorrupción y Buen Gobierno o el órgano interno de control competente, en los términos del Título Cuarto de esta Ley.
 
 ### Capítulo V. De la Conclusión de la Revisión de la Cuenta Pública
 
@@ -625,9 +697,11 @@ La Comisión realizará un análisis de los Informes Individuales, en su caso, d
 
 El análisis de la Comisión podrá incorporar aquellas sugerencias que juzgue conveniente y que haya hecho la Auditoría Superior del Estado, para modificar disposiciones legales que pretendan mejorar la gestión financiera, el desempeño de las entidades fiscalizadas o las facultades de fiscalización de recursos públicos y combate a la corrupción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 47.
 
-En aquellos casos en que la Comisión detecte errores en el Informe General o bien, considere necesario aclarar o profundizar el contenido del mismo, podrá solicitar a la Auditoría Superior del Estado la entrega por escrito de las explicaciones pertinentes, así como la comparecencia del Titular de la Auditoría Superior del Estado o de otros servidores públicos de la misma, las ocasiones que considere necesarias, a fin de realizar las aclaraciones correspondientes, sin que ello implique la reapertura del Informe General.
+En aquellos casos en que la Comisión detecte errores en el Informe General o bien, considere necesario aclarar o profundizar el contenido del mismo, podrá solicitar a la Auditoría Superior del Estado la entrega por escrito de las explicaciones pertinentes, así como la comparecencia de la persona Titular de la Auditoría Superior del Estado o de otras personas servidoras públicas de la misma, las ocasiones que considere necesarias, a fin de realizar las aclaraciones correspondientes, sin que ello implique la reapertura del Informe General.
 
 La Comisión podrá formular recomendaciones a la Auditoría Superior del Estado, las cuales serán incluidas en las conclusiones sobre el Informe General.
 
@@ -687,9 +761,11 @@ III. El cumplimiento de inscribir y publicar la totalidad de sus financiamientos
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 56.
 
-Para los efectos de lo previsto en el párrafo octavo de la fracción I, del artículo 77 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, cualquier persona podrá presentar denuncias fundadas cuando se presuma el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos previstos en esta Ley, la Auditoría Superior del Estado, previa autorización de su Titular, podrá revisar la gestión financiera de las entidades fiscalizadas, durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales distintos al de la Cuenta Pública en revisión.
+Para los efectos de lo previsto en el párrafo octavo de la fracción I, del artículo 77 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, cualquier persona podrá presentar denuncias fundadas cuando se presuma el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos previstos en esta Ley, la Auditoría Superior del Estado, previa autorización de su persona Titular, podrá revisar la gestión financiera de las entidades fiscalizadas, durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales distintos al de la Cuenta Pública en revisión.
 
 Las denuncias podrán presentarse a la Legislatura, a la Comisión o directamente a la Auditoría Superior del Estado.
 
@@ -703,7 +779,9 @@ I. El ejercicio en que se presentan los presuntos hechos irregulares, y
 
 II. Descripción de los presuntos hechos irregulares.
 
-Al escrito de denuncia deberán acompañarse los elementos de prueba, cuando sea posible, que se relacionen directamente con los hechos denunciados. La Auditoría Superior del Estado deberá proteger en todo momento la identidad del denunciante.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Al escrito de denuncia deberán acompañarse los elementos de prueba, cuando sea posible, que se relacionen directamente con los hechos denunciados. La Auditoría Superior del Estado deberá proteger en todo momento la identidad de la persona denunciante.
 
 ###### Artículo 58.
 
@@ -719,11 +797,15 @@ IV. La comisión recurrente de irregularidades en el ejercicio de los recursos p
 
 V. Inconsistencia en la información financiera o programática de cualquier entidad fiscalizada que oculte o pueda originar daños o perjuicios a su patrimonio.
 
-La Auditoría Superior del Estado informará al denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+La Auditoría Superior del Estado informará a la persona denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 59.
 
-El Auditor Superior del Estado, con base en el dictamen técnico jurídico que al efecto emitan las áreas competentes de la Auditoría Superior del Estado autorizará, en su caso, la revisión de la gestión financiera correspondiente, ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión.
+La persona Titular de la Auditoría Superior del Estado, con base en el dictamen técnico jurídico que al efecto emitan las áreas competentes de la Auditoría Superior del Estado autorizará, en su caso, la revisión de la gestión financiera correspondiente ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión.
 
 ###### Artículo 60.
 
@@ -747,11 +829,15 @@ Lo dispuesto en el presente Capítulo, no excluye la imposición de las sancione
 
 ### Capítulo I. De la Determinación de Daños y Perjuicios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 64.
 
-Si de la fiscalización que realice la Auditoría Superior del Estado se detectaran irregularidades que permitan presumir la existencia de responsabilidades a cargo de servidores públicos o particulares, la Auditoría Superior del Estado procederá a:
+Si de la fiscalización que realice la Auditoría Superior del Estado se detectaran irregularidades que permitan presumir la existencia de responsabilidades a cargo de personas servidoras públicas o particulares, la Auditoría Superior del Estado procederá a:
 
-I. Promover ante el Tribunal, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que detecte durante sus auditorías e investigaciones, en que incurran los servidores públicos, así como sanciones a los particulares vinculados con dichas faltas;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+I. Promover ante el Tribunal, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, la imposición de sanciones a las personas servidoras públicas por las faltas administrativas graves que detecte durante sus auditorías e investigaciones, en que incurran las personas servidoras públicas, así como sanciones a las personas particulares vinculados con dichas faltas;
 
 II. Dar vista a los órganos internos de control competentes de conformidad con la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, cuando detecte posibles responsabilidades administrativas distintas a las mencionadas en la fracción anterior.
 
@@ -779,13 +865,17 @@ Lo anterior, sin perjuicio de las demás sanciones administrativas que, en su ca
 
 Las sanciones que imponga el Tribunal se fincarán independientemente de las demás sanciones a que se refiere el artículo anterior que, en su caso, impongan las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 66.
 
-La unidad administrativa de la Auditoría Superior del Estado a cargo de las investigaciones promoverá el informe de presunta responsabilidad administrativa y, en su caso, penal a los servidores públicos de la Auditoría Superior del Estado, cuando derivado de las auditorías a cargo de ésta, no formulen las observaciones sobre las situaciones irregulares que detecten o violen la reserva de información en los casos previstos en esta Ley.
+La unidad administrativa de la Auditoría Superior del Estado a cargo de las investigaciones promoverá el informe de presunta responsabilidad administrativa y, en su caso penal, a las personas servidoras públicas de la Auditoría Superior del Estado, cuando derivado de las auditorías a cargo de ésta, no formulen las observaciones sobre las situaciones irregulares que detecten o violen la reserva de información en los casos previstos en esta Ley.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 67.
 
-Las responsabilidades que se finquen a los servidores públicos de los entes públicos y de la Auditoría Superior del Estado, no eximen a éstos ni a los particulares, personas físicas o morales, de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
+Las responsabilidades que se finquen a las personas servidoras públicas de los entes públicos y de la Auditoría Superior del Estado, no eximen a éstos ni a los particulares, personas físicas o morales, de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
 
 ###### Artículo 68.
 
@@ -807,9 +897,11 @@ Los órganos internos de control deberán informar a la Auditoría Superior del 
 
 Asimismo, los órganos internos de control deberán informar a la Auditoría Superior del Estado de la resolución definitiva que se determine o recaiga a sus promociones, dentro de los diez días hábiles posteriores a que se emita dicha resolución.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 71.
 
-La Auditoría Superior del Estado, en los términos de la Ley del Sistema Anticorrupción del Estado, incluirá en la Plataforma Digital Nacional establecida en dicha Ley, la información relativa a los servidores públicos y particulares sancionados por resolución definitiva firme, por la comisión de faltas administrativas graves o actos vinculados a éstas a que hace referencia el presente Capítulo.
+La Auditoría Superior del Estado, en los términos de la Ley del Sistema Anticorrupción del Estado de Quintana Roo, incluirá en la Plataforma Digital Nacional establecida en dicha Ley, la información relativa a las personas servidoras públicas y particulares sancionados por resolución definitiva firme, por la comisión de faltas administrativas graves o actos vinculados a éstas a que hace referencia el presente Capítulo.
 
 ### Capítulo II. Del Recurso de Reconsideración
 
@@ -817,27 +909,37 @@ La Auditoría Superior del Estado, en los términos de la Ley del Sistema Antico
 
 La tramitación del recurso de reconsideración, en contra de las multas impuestas por la Auditoría Superior del Estado, se sujetará a las disposiciones siguientes:
 
-I. Se iniciará mediante escrito que deberá presentarse dentro del término de quince días contados a partir de que surta efectos la notificación de la multa, que contendrá: la mención de la autoridad administrativa que impuso la multa, el nombre y firma autógrafa del recurrente, el domicilio que señala para oír y recibir notificaciones dentro de la residencia de la Auditoría Superior del Estado, la multa que se recurre y la fecha en que se le notificó, los agravios que a juicio de la entidad fiscalizada y, en su caso, de los servidores públicos, o del particular, persona física o moral, les cause la sanción impugnada, asimismo se acompañará copia de ésta y de la constancia de notificación respectiva, así como las pruebas documentales o de cualquier otro tipo supervenientes que ofrezca y que tengan relación inmediata y directa con la sanción recurrida;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+I. Se iniciará mediante escrito que deberá presentarse dentro del término de quince días contados a partir de que surta efectos la notificación de la multa, que contendrá: la mención de la autoridad administrativa que impuso la multa, el nombre y firma autógrafa de la persona recurrente, el domicilio que señala para oír y recibir notificaciones dentro de la residencia de la Auditoría Superior del Estado, la multa que se recurre y la fecha en que se le notificó, los agravios que a juicio de la entidad fiscalizada y, en su caso, de las personas servidoras públicas o de las personas particulares, persona física o moral, les cause la sanción impugnada, asimismo se acompañará copia de ésta y de la constancia de notificación respectiva, así como las pruebas documentales o de cualquier otro tipo supervenientes que ofrezca y que tengan relación inmediata y directa con la sanción recurrida;
 
 II. Cuando no se cumpla con alguno de los requisitos establecidos en este artículo para la presentación del recurso de reconsideración, la Auditoría Superior del Estado prevendrá por una sola vez al inconforme para que, en un plazo de cinco días naturales, subsane la irregularidad en que hubiere incurrido en su presentación;
 
 III. La Auditoría Superior del Estado al acordar sobre la admisión de las pruebas documentales y supervenientes ofrecidas, desechará de plano las que no fueren ofrecidas conforme a derecho y las que sean contrarias a la moral o al derecho, y
 
-IV. Desahogadas las pruebas, si las hubiere, la Auditoría Superior del Estado examinará todos y cada uno de los agravios hechos valer por el recurrente y emitirá resolución dentro de los sesenta días naturales siguientes, a partir de que declare cerrada la instrucción, notificando dicha resolución al recurrente dentro de los veinte días naturales siguientes a su emisión.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-El recurrente podrá desistirse expresamente del recurso antes de que se emita la resolución respectiva, en este caso, la Auditoría Superior del Estado lo sobreseerá sin mayor trámite.
+IV. Desahogadas las pruebas, si las hubiere, la Auditoría Superior del Estado examinará todos y cada uno de los agravios hechos valer por la persona recurrente y emitirá resolución dentro de los sesenta días naturales siguientes, a partir de que declare cerrada la instrucción, notificando dicha resolución al recurrente dentro de los veinte días naturales siguientes a su emisión.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+La persona recurrente podrá desistirse expresamente del recurso antes de que se emita la resolución respectiva, en este caso, la Auditoría Superior del Estado lo sobreseerá sin mayor trámite.
 
 Una vez desahogada la prevención, la Auditoría Superior del Estado, en un plazo que no excederá de quince días naturales, acordará sobre la admisión o el desechamiento del recurso.
 
-En este último caso, cuando se ubique en los siguientes supuestos: se presente fuera del plazo señalado; el escrito de impugnación no se encuentre firmado por el recurrente; no acompañe cualquiera de los documentos a que se refiere la fracción anterior; los actos impugnados no afecten los intereses jurídicos del promovente; no se exprese agravio alguno; o si se encuentra en trámite ante el Tribunal algún recurso o defensa legal o cualquier otro medio de defensa interpuesto por el promovente, en contra de la sanción recurrida.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+En este último caso, cuando se ubique en los siguientes supuestos: se presente fuera del plazo señalado; el escrito de impugnación no se encuentre firmado por la persona recurrente; no acompañe cualquiera de los documentos a que se refiere la fracción anterior; los actos impugnados no afecten los intereses jurídicos de la persona promovente; no se exprese agravio alguno; o si se encuentra en trámite ante el Tribunal algún recurso o defensa legal o cualquier otro medio de defensa interpuesto por la persona promovente, en contra de la sanción recurrida.
 
 ###### Artículo 73.
 
 La resolución que ponga fin al recurso tendrá por efecto confirmar, modificar o revocar la multa impugnada.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 74.
 
-La interposición del recurso suspenderá la ejecución de la multa recurrida, siempre y cuando el recurrente garantice en cualquiera de las formas establecidas por el Código Fiscal del Estado el pago de la multa.
+La interposición del recurso suspenderá la ejecución de la multa recurrida, siempre y cuando el recurrente garantice en cualquiera de las formas establecidas por el Código Fiscal del Estado de Quintana Roo el pago de la multa.
 
 ### Capítulo III. De la Prescripción de Responsabilidades
 
@@ -857,9 +959,11 @@ Las responsabilidades distintas a las mencionadas en el artículo anterior, que 
 
 ### Capítulo Único. De la Comisión
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 77.
 
-Para los efectos de lo dispuesto en la fracción IV del artículo 75 de la Constitución Política del Estado de Quintana Roo, la Legislatura contará con la Comisión que tendrá las atribuciones de coordinar las relaciones entre aquélla y la Auditoría Superior del Estado; evaluar el desempeño de esta última; constituir el enlace que permita garantizar la debida coordinación entre ambos órganos, y solicitarle que le informe sobre la evolución de sus trabajos de fiscalización.
+Para los efectos de lo dispuesto en la fracción IV del artículo 75 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, la Legislatura contará con la Comisión que tendrá las atribuciones de coordinar las relaciones entre aquélla y la Auditoría Superior del Estado; evaluar el desempeño de esta última; constituir el enlace que permita garantizar la debida coordinación entre ambos órganos, y solicitarle que le informe sobre la evolución de sus trabajos de fiscalización.
 
 ###### Artículo 78.
 
@@ -875,19 +979,29 @@ IV. Analizar y aprobar el programa anual de fiscalización de la Cuenta Pública
 
 Con respecto a los procedimientos, alcances, métodos, lineamientos y resoluciones de procedimientos de fiscalización podrá formular observaciones cuando dichos programas omitan áreas relevantes de la cuenta pública;
 
-V. Citar por conducto de su Presidente al Titular de la Auditoría Superior del Estado para conocer en lo específico de los Informes Individuales y del Informe General;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+V. Citar por conducto de su Presidente a la persona Titular de la Auditoría Superior del Estado para conocer en lo específico de los Informes Individuales y del Informe General;
 
 VI. Conocer y opinar sobre el proyecto de presupuesto anual de la Auditoría Superior del Estado e incluirlo en el Proyecto de Presupuesto de Egresos del Estado para el siguiente ejercicio fiscal, así como analizar el informe anual de su ejercicio;
 
 VII. Evaluar el desempeño de la Auditoría Superior del Estado respecto al cumplimiento de su mandato, atribuciones y ejecución de las auditorías; proveer lo necesario para garantizar su autonomía técnica y de gestión y requerir informes sobre la evolución de los trabajos de fiscalización.
 
-La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior del Estado cumple con las atribuciones que conforme a la Constitución Política del Estado de Quintana Roo y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los entes públicos, en los resultados de los programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos que ejerzan;
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-VIII. Presentar a la Legislatura la propuesta de los candidatos a ocupar el cargo de Titular de la Auditoría Superior del Estado, así como la solicitud de su remoción, en términos de lo dispuesto por la fracción XXVIII del artículo 75 y artículo 77 de la Constitución Política del Estado Libre y Soberano de Quintana Roo; para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
+La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior del Estado cumple con las atribuciones que conforme a la Constitución Política del Estado Libre y Soberano de Quintana Roo y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los entes públicos, en los resultados de los programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos que ejerzan;
 
-IX. Calificar el cumplimiento de los requisitos necesarios para el nombramiento de Auditor Especial.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-X. Proponer al Pleno de la Legislatura al Titular de la Unidad y el Reglamento Interior de la misma;
+VIII. Presentar a la Legislatura la propuesta de las personas candidatas a ocupar el cargo de persona Titular de la Auditoría Superior del Estado, así como la solicitud de su remoción, en términos de lo dispuesto por la fracción XXVIII del artículo 75 y artículo 77 de la Constitución Política del Estado Libre y Soberano de Quintana Roo; para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+IX. Calificar el cumplimiento de los requisitos necesarios para el nombramiento de persona Auditora Especial;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+X. Proponer al Pleno de la Legislatura a la persona Titular de la Unidad y el Reglamento Interior de la misma;
 
 XI. Aprobar el programa de actividades de la Unidad y los recursos materiales, humanos, y presupuestarios con los que debe contar;
 
@@ -899,13 +1013,21 @@ XIV. Aprobar los indicadores que utilizará la Unidad para la evaluación del de
 
 XV. Conocer el Reglamento Interior de la Auditoría Superior del Estado;
 
-XVI. Analizar la información, en materia de fiscalización superior del Estado, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos vinculados con los resultados de la fiscalización;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-XVII. Invitar a la sociedad civil organizada a que participe como observadores o testigos sociales en las sesiones ordinarias de la Comisión; así como, en la realización de ejercicios de contraloría social en los que se articule a la población con los entes fiscalizados;
+XVI. Analizar la información, en materia de fiscalización superior del Estado, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de las personas servidoras públicas vinculados con los resultados de la fiscalización;
 
-XVIII. Conocer y realizar las investigaciones sobre las quejas, denuncias o inconformidades en contra de los servidores públicos del Órgano que presenten los sujetos de fiscalización, los particulares y cualquier persona física o moral, pública o privada, siempre y cuando aporten pruebas idóneas, por el incumplimiento de las disposiciones legales a efecto de determinar las responsabilidades a que hubiere lugar y la imposición de las sanciones que correspondan en términos de esta Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-XIX. Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la Auditoria;
+XVII. Invitar a la sociedad civil organizada a que participe como personas observadoras o testigos sociales en las sesiones ordinarias de la Comisión; así como, en la realización de ejercicios de contraloría social en los que se articule a la población con los entes fiscalizados;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XVIII. Conocer y realizar las investigaciones sobre las quejas, denuncias o inconformidades en contra de las personas servidoras públicas del Órgano que presenten los sujetos de fiscalización, las personas particulares y cualquier persona física o moral, pública o privada, siempre y cuando aporten pruebas idóneas, por el incumplimiento de las disposiciones legales a efecto de determinar las responsabilidades a que hubiere lugar y la imposición de las sanciones que correspondan en términos de esta Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XIX. Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a las personas servidoras públicas de la Auditoria;
 
 XX. Las demás que establezcan esta Ley y demás disposiciones legales aplicables.
 
@@ -917,49 +1039,67 @@ La Comisión presentará directamente a la Auditoría Superior del Estado un inf
 
 ### Capítulo I. Integración y Organización
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 80.
 
-Al frente de la Auditoría Superior del Estado habrá un Titular de la Auditoría Superior del Estado designado conforme a lo previsto por el párrafo tercero del artículo 77 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, por el voto de las dos terceras partes de los miembros presentes de la Legislatura.
+Al frente de la Auditoría Superior del Estado habrá una persona Titular de la Auditoría Superior del Estado designado conforme a lo previsto por el párrafo tercero del artículo 77 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, por el voto de las dos terceras partes de las personas integrantes presentes de la Legislatura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 81.
 
-La designación del Titular de la Auditoría Superior del Estado se sujetará al procedimiento siguiente:
+La designación de la persona Titular de la Auditoría Superior del Estado se sujetará al procedimiento siguiente:
 
-I. La Comisión formulará la convocatoria pública correspondiente, a efecto de recibir durante un período de diez días naturales contados a partir de la fecha de publicación de la convocatoria, las solicitudes para ocupar el puesto de Titular de la Auditoría Superior del Estado. La Comisión podrá consultar a las organizaciones de la sociedad civil y académicas que estime pertinente, para postular los candidatos idóneos para ocupar el cargo;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+I. La Comisión formulará la convocatoria pública correspondiente, a efecto de recibir durante un período de diez días naturales contados a partir de la fecha de publicación de la convocatoria, las solicitudes para ocupar el puesto de persona Titular de la Auditoría Superior del Estado. La Comisión podrá consultar a las organizaciones de la sociedad civil y académicas que estime pertinente, para postular a las personas aspirantes idóneas para ocupar el cargo;
 
 II. Concluido el plazo anterior, y recibidas las solicitudes con los requisitos y documentos que señale la convocatoria, la Comisión, dentro de los cinco días naturales siguientes, procederá a la revisión y análisis de las mismas;
 
-III. Del análisis de las solicitudes los integrantes de la Comisión entrevistarán por separado para la evaluación respectiva y dentro de los cinco días naturales siguientes, a los candidatos que, a su juicio, considere idóneos para la conformación de una terna;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-IV. Conformada la terna, en un plazo que no deberá exceder de tres días naturales, la Comisión formulará su dictamen, a fin de proponer al Pleno los tres candidatos, para que éste proceda, en los términos del artículo anterior, a la designación del Titular de la Auditoría Superior del Estado, y
+III. Del análisis de las solicitudes los integrantes de la Comisión entrevistarán por separado para la evaluación respectiva y dentro de los cinco días naturales siguientes, a las personas aspirantes que, a su juicio, considere idóneas para la conformación de una terna;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+IV. Conformada la terna, en un plazo que no deberá exceder de tres días naturales, la Comisión formulará su dictamen, a fin de proponer al Pleno las tres personas aspirantes, para que éste proceda, en los términos del artículo anterior, a la designación de la persona Titular de la Auditoría Superior del Estado, y
 
 V. La persona designada para ocupar el cargo, protestará ante el Pleno de la Legislatura.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 82.
 
-En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de Titular de la Auditoría Superior del Estado, haya obtenido la votación de las dos terceras partes de los miembros presentes de la Legislatura, se volverá a someter una nueva propuesta en los términos del artículo anterior. Ningún candidato propuesto en el dictamen rechazado por el Pleno podrá participar de nueva cuenta en el proceso de selección.
+En caso de que ninguna persona aspirante de la terna propuesta en el dictamen para ocupar el cargo de persona Titular de la Auditoría Superior del Estado, haya obtenido la votación de las dos terceras partes de los miembros presentes de la Legislatura, se volverá a someter una nueva propuesta en los términos del artículo anterior. Ninguna persona aspirante propuesta en el dictamen rechazado por el Pleno podrá participar de nueva cuenta en el proceso de selección.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 83.
 
-El Titular de la Auditoría Superior del Estado durará en el encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido por La Legislatura por las causas graves a que se refiere esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado de Quintana Roo. Si esta situación se presenta estando en receso la Legislatura, la Comisión Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
+La persona Titular de la Auditoría Superior del Estado durará en el encargo siete años y podrá ser nombrada nuevamente por una sola vez. Podrá ser removida por La Legislatura por las causas graves a que se refiere esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Quintana Roo. Si esta situación se presenta estando en receso la Legislatura, la Comisión Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 84.
 
-Durante el receso de la Legislatura, el Auditor Especial que corresponda conforme al Reglamento Interior de la Auditoría Superior del Estado, ejercerá el cargo hasta en tanto dicha Legislatura designe al Titular de la Auditoría Superior del Estado en el siguiente periodo de sesiones.
+Durante el receso de la Legislatura, la persona Auditora Especial que corresponda conforme al Reglamento Interior de la Auditoría Superior del Estado, ejercerá el cargo hasta en tanto dicha Legislatura designe a la persona Titular de la Auditoría Superior del Estado en el siguiente periodo de sesiones.
 
-El Titular de la Auditoría Superior del Estado será suplido en sus ausencias temporales por los auditores especiales, en el orden que señale el Reglamento Interior de la Auditoría Superior del Estado. En caso de falta definitiva, la Comisión dará cuenta a la Legislatura para que designe, en términos de esta Ley, al Auditor que concluirá el encargo.
+La persona Titular de la Auditoría Superior del Estado será suplida en sus ausencias temporales por las personas auditoras especiales, en el orden que señale el Reglamento Interior de la Auditoría Superior del Estado. En caso de falta definitiva, la Comisión dará cuenta a la Legislatura para que designe, en términos de esta Ley, a la persona Auditora que concluirá el encargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 85.
 
-Para ser Titular de la Auditoría Superior del Estado se requiere satisfacer los siguientes requisitos:
+Para ser la persona Titular de la Auditoría Superior del Estado se requiere satisfacer los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+I. Ser persona ciudadana mexicana en ejercicio de sus derechos políticos y civiles;
 
-II. Tener treinta años de edad el día de la designación;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+II. Tener treinta años de edad cumplidos el día de la designación;
 
 III. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado y cualquier otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
@@ -977,17 +1117,23 @@ VII. Contar el día de su designación, con título y cédula profesional de lic
 
 VIII. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado.
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-X. No ser declarada persona deudora alimentaria morosa.
+X. No ser declarada persona deudora alimentaria morosa, y
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XI. No tener al momento de su designación conflicto de interés, parentesco de consanguinidad en línea recta o colateral hasta el cuarto grado, ni de afinidad, con ningún integrante del Pleno de la Legislatura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 86.
 
-El Titular de la Auditoría Superior del Estado tendrá las siguientes atribuciones:
+La persona Titular de la Auditoría Superior del Estado tendrá las siguientes atribuciones:
 
 I. Representar a la Auditoría Superior del Estado ante las entidades fiscalizadas, autoridades federales y locales, entidades federativas, municipios, y demás personas físicas y morales, públicas o privadas;
 
@@ -1015,11 +1161,15 @@ IX. Presidir de forma dual con la persona titular de la Secretaría de la Contra
 
 X. Ser el enlace entre la Auditoría Superior del Estado y la Comisión de la Legislatura;
 
-XI. Solicitar a las entidades fiscalizables, servidores públicos, y a las personas físicas o morales, la información que con motivo de la revisión y fiscalización superior de la Cuenta Pública se requiera;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XI. Solicitar a las entidades fiscalizables, personas servidoras públicas, y a las personas físicas o morales, la información que con motivo de la revisión y fiscalización superior de la Cuenta Pública se requiera;
 
 XII. Solicitar a los Poderes del Estado, Municipios y entes públicos estatales y municipales, el auxilio que necesite para el ejercicio expedito de las funciones de revisión y fiscalización superior;
 
-XIII. Ejercer las atribuciones que corresponden a la Auditoría Superior del Estado en los términos de la Constitución Política del Estado, la presente Ley y del Reglamento Interior de la propia Auditoría Superior del Estado y demás disposiciones legales y administrativas de la materia;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XIII. Ejercer las atribuciones que corresponden a la Auditoría Superior del Estado en los términos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, la presente Ley y del Reglamento Interior de la propia Auditoría Superior del Estado y demás disposiciones legales y administrativas de la materia;
 
 XIV. Resolver el Recurso de Reconsideración interpuesto en contra de las resoluciones y multas;
 
@@ -1031,9 +1181,9 @@ XVII. Formular y entregar a la Legislatura, por conducto de la Comisión, los In
 
 XVIII. Autorizar, previa denuncia, la revisión durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores conforme lo establecido en la presente Ley;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-XIX. Presentar denuncias en los términos del Código Nacional de Procedimientos Penales, en los casos de presuntas conductas delictivas de servidores públicos y en contra de particulares cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños a la hacienda pública estatal o municipal, o al patrimonio de los entes públicos estatales y municipales, así como denuncias de juicio político de conformidad con lo señalado en el Título Octavo de la Constitución Política del Estado de Quintana Roo;
+XIX. Presentar denuncias en los términos del Código Nacional de Procedimientos Penales, en los casos de presuntas conductas delictivas de personas servidoras públicas y en contra de particulares cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños a la hacienda pública estatal o municipal, o al patrimonio de los entes públicos estatales y municipales, así como denuncias de juicio político de conformidad con lo señalado en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Quintana Roo;
 
 XX. Celebrar convenios de coordinación o colaboración con los Poderes del Estado, Municipios y entes públicos estatales y municipales, así como con los organismos nacionales que agrupen a entidades u órganos de fiscalización superior homólogos, con éstos directamente y con el sector privado;
 
@@ -1061,7 +1211,9 @@ XXXI. Transparentar y dar seguimiento a todas las denuncias, quejas, solicitudes
 
 XXXII. Establecer los mecanismos necesarios para fortalecer la participación ciudadana en la rendición de cuentas de los entes públicos sujetos a fiscalización;
 
-XXXIII. Formar parte del Comité Coordinador del Sistema Estatal Anticorrupción en términos de lo dispuesto por el artículo 161 fracción III de la Constitución Política del Estado de Quintana Roo y la Ley del Sistema Anticorrupción del Estado;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XXXIII. Formar parte del Comité Coordinador del Sistema Estatal Anticorrupción en términos de lo dispuesto por el artículo 161 fracción III de la Constitución Política del Estado Libre y Soberano de Quintana Roo y la Ley del Sistema Anticorrupción del Estado de Quintana Roo;
 
 XXXIV. Rendir un informe anual basado en indicadores en materia de fiscalización, debidamente sistematizados y actualizados, mismo que será público y se compartirá con los integrantes del Comité Coordinador a que se refiere la Ley del Sistema Anticorrupción del Estado y al Comité de Participación Ciudadana. Con base en el informe señalado podrá presentar desde su competencia proyectos de recomendaciones integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, por lo que hace a las causas que los generan;
 
@@ -1069,29 +1221,37 @@ XXXV. Elaborar en cualquier momento estudios y análisis, así como publicarlos,
 
 XXXVI. Las demás que señale la presente Ley, el Reglamento Interior de la Auditoría Superior del Estado y las demás disposiciones legales y reglamentarias aplicables.
 
-Las atribuciones previstas en las fracciones II, IV, V, VI, VIII, XIV, XVI, XIX, XX, XXII son de ejercicio directo del Titular de la Auditoría Superior del Estado y, por tanto, no podrán ser delegadas.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Las atribuciones previstas en las fracciones II, IV, V, VI, VIII, XIV, XVI, XIX, XX, XXII son de ejercicio directo de la persona Titular de la Auditoría Superior del Estado y, por tanto, no podrán ser delegadas.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 87.
 
-El Titular de la Auditoría Superior del Estado será auxiliado en sus funciones por los auditores especiales, así como por los titulares de unidades, directores generales, auditores y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
+La persona Titular de la Auditoría Superior del Estado será auxiliado en sus funciones por las personas auditoras especiales, así como por las personas titulares de unidades, direcciones generales, personas auditoras y demás personas servidoras públicas que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+Las personas auditoras especiales serán nombradas por la persona Titular de la Auditoria Superior del Estado y ratificadas por la Legislatura y durarán siete años, con la posibilidad de ser nombradas por un periodo adicional de tres años. La persona Titular de la Auditoria Superior del Estado hará del conocimiento mediante oficio dirigido a la Comisión del nombramiento de las personas auditoras especiales dentro del término de 5 días hábiles.
 
-Los auditores especiales serán nombrados por el Titular de la Auditoria Superior del Estado y ratificados por la Legislatura y durarán siete años, con la posibilidad de ser nombrados por un periodo adicional de tres años. El titular de la Auditoria Superior del Estado hará del conocimiento mediante oficio dirigido a la Comisión del nombramiento de los auditores especiales dentro del término de 5 días hábiles.
+Las personas auditoras especiales durante el desempeño de su cargo no podrán formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
-Los auditores especiales durante el desempeño de su cargo no podrán formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 88.
 
-Para ejercer el cargo de Auditor Especial de la Auditoría Superior del Estado se deberán cumplir los requisitos establecidos en el artículo 85 de esta Ley.
+Para ejercer el cargo de persona Auditora Especial de la Auditoría Superior del Estado se deberán cumplir los requisitos establecidos en el artículo 85 de esta Ley.
 
 ###### Artículo 89.
 
 La Auditoría Superior del Estado contará con una Unidad de Asuntos Jurídicos, la cual tendrá las siguientes atribuciones:
 
-I. Asesorar en materia jurídica al Auditor Superior del Estado y a los auditores especiales, así como actuar como su órgano de consulta;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-II. Dar seguimiento a los procedimientos de fincamiento de responsabilidades resarcitorias a que den lugar las irregularidades en que incurran los servidores públicos por actos u omisiones de los que resulte un daño o perjuicio estimable en dinero que afecten al Estado o a los municipios en su hacienda pública o patrimonio, o al patrimonio de los entes públicos estatales o municipales, conforme a los ordenamientos legales y reglamentarios aplicables;
+I. Asesorar en materia jurídica a la persona Titular de la Auditoría Superior del Estado y a las personas auditores especiales, así como actuar como su órgano de consulta;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+II. Dar seguimiento a los procedimientos de fincamiento de responsabilidades resarcitorias a que den lugar las irregularidades en que incurran las personas servidoras públicas por actos u omisiones de los que resulte un daño o perjuicio estimable en dinero que afecten al Estado o a los municipios en su hacienda pública o patrimonio, o al patrimonio de los entes públicos estatales o municipales, conforme a los ordenamientos legales y reglamentarios aplicables;
 
 III. Instruir el recurso de reconsideración previsto en esta Ley;
 
@@ -1117,19 +1277,25 @@ IV. Adquirir los bienes, servicios y celebrar los contratos que permitan suminis
 
 V. Las demás que le señale el Auditor Superior del Estado y las disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 91.
 
-El Titular de la Auditoría Superior del Estado, los auditores especiales y el Titular de la Unidad, durante el ejercicio de su cargo, tendrán prohibido:
+La persona Titular de la Auditoría Superior del Estado, las personas auditoras especiales y la persona Titular de la Unidad, durante el ejercicio de su cargo, tendrán prohibido:
 
 I. Formar parte de partido político alguno, participar en actos políticos partidistas y hacer cualquier tipo de propaganda o promoción partidista;
 
 II. Desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia; y
 
-III. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia la Auditoría Superior del Estado para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines a que se encuentra afecta.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+III. Hacer del conocimiento de terceras personas o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia la Auditoría Superior del Estado para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines a que se encuentra afecta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 92.
 
-El Titular de la Auditoría Superior del Estado podrá ser removido de su cargo por las siguientes causas:
+La persona Titular de la Auditoría Superior del Estado podrá ser removida de su cargo por las siguientes causas:
 
 I. Ubicarse en los supuestos de prohibición establecidos en el artículo anterior;
 
@@ -1143,61 +1309,89 @@ V. Obtener una evaluación del desempeño poco satisfactoria sin justificación,
 
 VI. Incurrir en cualquiera de las conductas consideradas faltas administrativas graves, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 93.
 
-La Legislatura aprobará la remoción del Titular de la Auditoria Superior del Estado por las causas establecidos en el artículo anterior. La remoción requerirá el voto de las dos terceras partes de los miembros presentes, sujetándose al procedimiento siguiente:
+La Legislatura aprobará la remoción de la persona Titular de la Auditoría Superior del Estado por las causas establecidos (sic) en el artículo anterior. La remoción requerirá el voto de las dos terceras partes de las personas integrantes presentes de la Legislatura, sujetándose al procedimiento siguiente:
 
 I. La Comisión analizará y evaluará las solicitudes de remoción que le presente la sociedad civil, mismas que deberán estar acompañadas de las pruebas que acrediten los hechos imputados;
 
 II. De presumirse la existencia de alguna de las causales establecidas en el artículo 92 de esta ley, la Comisión podrá proceder sin necesidad de solicitud de remoción al escrutinio y análisis respecto de la acreditación de las causales referidas;
 
-III. La comisión en todo momento garantizará al Titular de la Auditoría Superior del Estado, el derecho de audiencia;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+III. La comisión en todo momento garantizará a la persona Titular de la Auditoría Superior del Estado, el derecho de audiencia;
 
 IV. La comisión determinará si existen o no las causales establecidas en el artículo 92 de esta ley, mediante dictamen;
 
-V. Una vez que la comisión emita el dictamen respectivo, la Comisión lo hará del conocimiento de la Legislatura, por conducto del Presidente de la Mesa Directiva. La Legislatura resolverá la procedencia o no de la remoción;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-VI. El dictamen deberá ser aprobado por las dos terceras partes de los miembros presentes de la Legislatura, y
+V. Una vez que la comisión emita el dictamen respectivo, la Comisión lo hará del conocimiento de la Legislatura, por conducto de la Presidencia de la Mesa Directiva. La Legislatura resolverá la procedencia o no de la remoción;
 
-VII. Una vez aprobada la remoción por el Pleno, ésta surtirá sus efectos de inmediato.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-VIII. Para los efectos de difusión de la cesación del cargo del Auditor Superior del Estado, la Mesa Directiva en funciones del Pleno Legislativo, mandará publicar la determinación, en el Periódico Oficial del Estado de Quintana Roo.
+VI. El dictamen deberá ser aprobado por las dos terceras partes de las personas integrantes presentes de la Legislatura,
 
-Los auditores especiales podrán ser removidos por las causas graves a que se refiere el artículo anterior, por el Titular de la Auditoria superior del estado.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+VII. Una vez aprobada la remoción por el Pleno, ésta surtirá sus efectos de inmediato, y
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+VIII. Para los efectos de difusión de la cesación del cargo de la persona Titular de la Auditoría Superior del Estado, la Mesa Directiva en funciones del Pleno Legislativo, mandará publicar la determinación, en el Periódico Oficial del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Las personas auditoras especiales podrán ser removidas por las causas graves a que se refiere el artículo anterior, por la persona Titular de la Auditoría superior del estado.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 94.
 
-El Titular de la Auditoría Superior del Estado y los auditores especiales sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la Auditoría Superior del Estado o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
+La persona Titular de la Auditoría Superior del Estado y las personas auditoras especiales sólo estarán obligadas a absolver posiciones o rendir declaración en juicio, en representación de la Auditoría Superior del Estado o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 95.
 
-El Auditor Superior del Estado a través de acuerdos por escrito, podrá delegar facultades y adscribir orgánicamente las unidades administrativas establecidas en el Reglamento Interior. Los acuerdos en los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Periódico Oficial del Estado.
+La persona Titular de la Auditoría Superior del Estado a través de acuerdos por escrito, podrá delegar facultades y adscribir orgánicamente las unidades administrativas establecidas en el Reglamento Interior. Los acuerdos en los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Periódico Oficial del Estado de Quintana Roo.
 
 ###### Artículo 96.
 
 La Auditoría Superior del Estado podrá establecer un servicio público de carrera, que permita la objetiva y estricta selección de sus integrantes, mediante exámenes de ingreso y que, en atención a su capacidad, eficiencia, calidad y sujeción a los ordenamientos legales aplicables, garantice, a través de evaluaciones periódicas, su permanencia y la excelencia en la prestación del servicio a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 97.
 
-La Auditoría Superior del Estado elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido por el Titular de la Auditoría Superior del Estado a la Comisión a más tardar el 15 de agosto, para su inclusión en el proyecto de Presupuesto de Egresos del Poder Legislativo del Estado para el siguiente ejercicio fiscal.
+La Auditoría Superior del Estado elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido por la persona Titular de la Auditoría Superior del Estado a la Comisión a más tardar el 15 de agosto, para su inclusión en el proyecto de Presupuesto de Egresos del Poder Legislativo del Estado para el siguiente ejercicio fiscal.
 
 La Auditoría Superior del Estado ejercerá autónomamente su presupuesto aprobado con sujeción a las disposiciones aplicables.
 
-La Auditoría Superior del Estado publicará en el Periódico Oficial del Estado su normatividad interna conforme a las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+La Auditoría Superior del Estado publicará en el Periódico Oficial del Estado de Quintana Roo su normatividad interna, conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 98.
 
-Los servidores públicos de la Auditoría Superior del Estado se clasifican en trabajadores de confianza y trabajadores de base; se regirán por la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
+Las personas servidoras públicas de la Auditoría Superior del Estado se clasifican en trabajadores de confianza y trabajadores de base; se regirán por la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 99.
 
-Son trabajadores de confianza: El Auditor Superior del Estado, los Auditores Especiales, los titulares de las unidades previstas en esta Ley, los directores, los auditores, coordinadores, visitadores, supervisores, los subdirectores, los jefes de departamento, los asesores, los secretarios particulares y los demás trabajadores que tengan tal carácter conforme a lo previsto en la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado.
+Son trabajadores de confianza: La persona Titular de la Auditoría Superior del Estado, las personas Auditoras Especiales, las personas titulares de las unidades previstas en esta Ley, las personas directoras, las personas auditoras, las personas coordinadoras, las personas visitadoras, personas supervisoras, las personas subdirectoras, las personas jefas de departamento, las personas asesoras, las personas secretarias particulares y las demás personas trabajadoras que tengan tal carácter conforme a lo previsto en la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
 
-Son trabajadores de base los que desempeñen labores en puestos no incluidos en el artículo anterior y que estén previstos con tal carácter en la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado.
+Son personas trabajadoras de base los que desempeñen labores en puestos no incluidos en el artículo anterior y que estén previstos con tal carácter en la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 100.
 
-La relación jurídica de trabajo se entiende establecida entre la Auditoría Superior del Estado, a través de su Titular y los trabajadores a su servicio para todos los efectos.
+La relación jurídica de trabajo se entiende establecida entre la Auditoría Superior del Estado, a través de su Titular y las personas trabajadoras a su servicio para todos los efectos.
 
 ### CAPITULO II. De la Personalidad Jurídica y Patrimonio
 
@@ -1231,9 +1425,11 @@ Los ingresos de la Auditoría Superior, sus bienes muebles e inmuebles, gozarán
 
 ### CAPITULO III. Del Fondo para el Fortalecimiento de la Fiscalización Superior
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 105.
 
-La Auditoría Superior del Estado integrará el Fondo para el Fortalecimiento de la Fiscalización Superior con el importe de las multas que imponga en ejercicio de sus atribuciones previstas en esta Ley, con las aportaciones que de sus Presupuestos de Egresos destinen los Poderes del Estado o los Municipios, para incrementar el Fondo, y con los ingresos que perciba por concepto del Derecho por Verificación, Control y Fiscalización de Obra Pública previsto en la Ley de Hacienda del Estado y en la Ley de Hacienda de los Municipios del Estado.
+La Auditoría Superior del Estado integrará el Fondo para el Fortalecimiento de la Fiscalización Superior con el importe de las multas que imponga en ejercicio de sus atribuciones previstas en esta Ley, con las aportaciones que de sus Presupuestos de Egresos destinen los Poderes del Estado o los Municipios, para incrementar el Fondo, y con los ingresos que perciba por concepto del Derecho por Verificación, Control y Fiscalización de Obra Pública previsto en la Ley de Hacienda del Estado y en la Ley de Hacienda de los Municipios del Estado de Quintana Roo.
 
 ###### Artículo 106.
 
@@ -1249,7 +1445,9 @@ Los recursos del Fondo serán depositados en una cuenta específica de Instituci
 
 El Fondo será administrado por un comité integrado por el Auditor Superior del Estado, los auditores especiales, los titulares de la Unidad de Administración y de Asuntos Jurídicos y por el Presidente de la Comisión.
 
-El Auditor Superior y el titular de la Unidad de Administración o el Auditor Especial que corresponda, firmarán conjuntamente los títulos de inversión, los cheques y comprobantes de las erogaciones a cargo del Fondo.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+La persona Titular de la Auditoría Superior y la persona titular de la Unidad de Administración o la persona Auditora Especial que corresponda, firmarán conjuntamente los títulos de inversión, los cheques y comprobantes de las erogaciones a cargo del Fondo.
 
 ###### Artículo 108.
 
@@ -1261,61 +1459,99 @@ Todos los bienes adquiridos con recursos del Fondo se registrarán en el inventa
 
 ### Capítulo IV. De la Vigilancia de la Auditoría Superior del Estado
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 110.
 
-La Comisión, a través de la Unidad, vigilará que el Titular de la Auditoría Superior del Estado, los Auditores Especiales y los demás servidores públicos de la Auditoría Superior del Estado en el desempeño de sus funciones, se sujetarán a la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado y las demás disposiciones legales aplicables.
+La Comisión, a través de la Unidad, vigilará que la persona Titular de la Auditoría Superior del Estado, las personas Auditoras Especiales y las demás personas servidoras públicas de la Auditoría Superior del Estado en el desempeño de sus funciones, se sujetarán a la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado y sus Municipios y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 111.
 
-Para el efecto de apoyar a la Comisión en el cumplimiento de sus atribuciones existirá la Unidad, encargada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores públicos de la Auditoría Superior del Estado, la cual formará parte de la estructura de la Comisión de quien dependerá jerárquicamente.
+Para el efecto de apoyar a la Comisión en el cumplimiento de sus atribuciones existirá la Unidad, encargada de vigilar el estricto cumplimiento de las funciones a cargo de las personas servidoras públicas de la Auditoría Superior del Estado, la cual formará parte de la estructura de la Comisión de quien dependerá jerárquicamente, constituyéndose como el Órgano Interno de Control de la Auditoría Superior del Estado.
 
-La Unidad, en el caso de los servidores públicos de la Auditoría Superior del Estado, podrá imponer las sanciones administrativas no graves previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado o, tratándose de faltas graves en términos de dicha ley, promover la imposición de sanciones ante el Tribunal, por lo que contará con todas las facultades que dicha Ley otorga a las autoridades investigadoras y substanciadoras. Se deberá garantizar la estricta separación de las unidades administrativas adscritas a la Unidad, encargadas de investigar y substanciar los procedimientos administrativos sancionadores en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado. Asimismo, podrá proporcionar apoyo técnico a la Comisión en la evaluación del desempeño de la Auditoría Superior del Estado.
+La Unidad, en el caso de las personas servidoras públicas de la Auditoría Superior del Estado, podrá imponer las sanciones administrativas no graves previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado o, tratándose de faltas graves en términos de dicha ley, promover la imposición de sanciones ante el Tribunal, por lo que contará con todas las facultades que dicha Ley otorga a las autoridades investigadoras y substanciadoras. Se deberá garantizar la estricta separación de las unidades administrativas adscritas a la Unidad, encargadas de investigar y substanciar los procedimientos administrativos sancionadores en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado. Asimismo, podrá proporcionar apoyo técnico a la Comisión en la evaluación del desempeño de la Auditoría Superior del Estado.
 
 ###### Artículo 112.
 
 La Unidad tendrá las siguientes atribuciones:
 
-I. Vigilar que los servidores públicos de la Auditoría Superior del Estado se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-II. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior del Estado, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión; cumpliendo lo estipulado en el artículo 78 Fracción XII;
+I. Vigilar que las personas servidoras públicas de la Auditoría Superior del Estado se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
 
-III. Recibir denuncias de faltas administrativas derivadas del incumplimiento de las obligaciones por parte del Titular de la Auditoría Superior del Estado, auditores especiales y demás servidores públicos de la Auditoría Superior del Estado, iniciar investigaciones y, en el caso de faltas administrativas no graves, imponer las sanciones que correspondan, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-IV. Conocer y resolver el recurso que interpongan los servidores públicos sancionados por faltas no graves conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
+II. Practicar, por sí o a través de personas auditoras externos (sic), auditorías para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior del Estado, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión; cumpliendo lo estipulado en el artículo 78 Fracción XII;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+III. Recibir denuncias de faltas administrativas derivadas del incumplimiento de las obligaciones por parte de la persona Titular de la Auditoría Superior del Estado, de las personas auditoras especiales y demás personas servidoras públicas de la Auditoría Superior del Estado, iniciar investigaciones y, en el caso de faltas administrativas no graves, imponer las sanciones que correspondan, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+IV. Conocer y resolver el recurso que interpongan las personas servidoras públicas sancionadas por faltas no graves conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
 
 V. Realizar la defensa jurídica de las resoluciones que se emitan ante las diversas instancias jurisdiccionales e interponer los medios de defensa que procedan en contra de las resoluciones emitidas por el Tribunal, cuando la Unidad sea parte en esos procedimientos;
 
-VI. Participar en los actos de entrega recepción de los servidores públicos de mando superior de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-VII. A instancia de la Comisión, presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la Auditoría Superior del Estado;
+VI. Participar en los actos de entrega recepción de las personas servidoras públicas de mando superior de la Auditoría Superior del Estado;
 
-VIII. Llevar el registro y análisis de la situación patrimonial de los servidores públicos adscritos a la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-IX. Conocer y resolver de las inconformidades que presenten los proveedores o contratistas, por el incumplimiento de las disposiciones aplicables para la Auditoría Superior del Estado en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas.
+VII. A instancia de la Comisión, presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a las personas servidoras públicas de la Auditoría Superior del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+VIII. Llevar el registro y análisis de la situación patrimonial de las personas servidoras públicas adscritas a la Auditoría Superior del Estado;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+IX. Conocer y resolver de las inconformidades que presenten las personas proveedoras o contratistas, por el incumplimiento de las disposiciones aplicables para la Auditoría Superior del Estado en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas.
 
 Igualmente participará con voz, pero sin voto, en los comités de obras y de adquisiciones de la Auditoría Superior del Estado, establecidos en las disposiciones aplicables para la Auditoría Superior del Estado en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas;
 
-X. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe General, los Informes Individuales y demás documentos que le envíe la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+X. Auxiliar a la Comisión en lo relativo a las relaciones con la Auditoría Superior del Estado, así como en la elaboración de los análisis y las conclusiones del Informe General, los Informes Individuales y demás documentos que le envíe la Auditoría Superior del Estado;
 
 XI. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad y los que utilice para evaluar a la Auditoría Superior del Estado, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión;
 
-XII. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XII. En general, coadyuvar y asistir a la Comisión en la ejecución de sus acuerdos y en el cumplimiento de sus atribuciones;
 
 XIII. Atender prioritariamente las denuncias;
 
 XIV. Participar en las sesiones de la Comisión para brindar apoyo técnico y especializado;
 
-XV. Emitir opinión a la Comisión respecto del proyecto de lineamientos y directrices que deberán observar las entidades locales para la fiscalización de las participaciones estatales propuesto por el Auditor, y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-XVI. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+XV. Emitir opinión a la Comisión respecto del proyecto de lineamientos y directrices que deberán observar las entidades locales para la fiscalización de las participaciones estatales propuesto por la persona Auditora,
 
-Las entidades fiscalizadas tendrán la facultad de formular queja ante la Unidad sobre los actos del Titular de la Auditoría Superior del Estado que contravengan las disposiciones de esta Ley, en cuyo caso la Unidad sustanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, o bien el previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, notificando al quejoso el dictamen correspondiente, previa aprobación de la Comisión.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
+XVI. Implementar los mecanismos, políticas y estrategias internas encaminadas a la prevención, disuasión y detección de actos u omisiones que pudieran constituir responsabilidades administrativas y hechos de corrupción en los términos establecidos por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado.
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XVII. Emitir recomendaciones generales que promuevan la mejora de su control interno, evaluación y el adecuado desarrollo administrativo institucional de las funciones inherentes a todas las áreas de la Auditoría Superior del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XVIII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Las entidades fiscalizadas tendrán la facultad de formular queja ante la Unidad sobre los actos de la persona Titular de la Auditoría Superior del Estado que contravengan las disposiciones de esta Ley, en cuyo caso la Unidad sustanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, o bien el previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, notificando al quejoso el dictamen correspondiente, previa aprobación de la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 113.
 
-La persona Titular de la Unidad será designada por la Legislatura, mediante el voto mayoritario de sus integrantes presentes en la sesión respectiva, a propuesta de la Comisión, que presentará una terna de candidatos que deberán cumplir con los siguientes requisitos:
+La persona Titular de la Unidad será designada por la Legislatura, mediante el voto mayoritario de sus integrantes presentes en la sesión respectiva, a propuesta de la Comisión, que presentará una terna de aspirantes que deberán cumplir con los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -1329,7 +1565,9 @@ III. Gozar de buena reputación, y no haber sido condenado por delito que amerit
 
 IV. Haber residido en el Estado durante los diez años anteriores al día de la designación;
 
-V. No haber sido Secretario de Estado, Fiscal General del Estado, Gobernador del Estado, Oficial Mayor de un ente público, Auditor Superior o Auditor Especial en el Estado, dirigente de algún partido político, titular de las finanzas o de la administración de algún partido político, ni haber sido postulado para cargo de elección popular, ni haber participado para cargo (sic) elección popular, durante los dos años previos al día de su nombramiento;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+V. No haber sido persona titular de una Secretaría de Estado, de la Fiscalía General del Estado, Gobernador o Gobernadora del Estado, persona titular de la Oficialía Mayor de un ente público, persona titular de la Auditoría Superior del Estado o persona Auditora Especial en el Estado, dirigente de algún partido político, titular de las finanzas o de la administración de algún partido político, ni haber sido postulada para cargo de elección popular, ni haber participado para cargo (sic) elección popular, durante los dos años previos al día de su nombramiento;
 
 VI. Contar de manera preferente al momento de su designación con una experiencia efectiva de cinco años en actividades o funciones relacionadas en materia de control, auditoría financiera, determinación de responsabilidades, fiscalización superior, auditorías del gasto público, del desempeño, políticas públicas, administración financiera o manejo de recursos;
 
@@ -1347,17 +1585,25 @@ IX. No tener sentencia firme por la comisión intencional de delitos contra la v
 
 X. No ser declarada persona deudora alimentaria morosa.
 
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XI. No tener al momento de su designación conflicto de interés, parentesco de consanguinidad en línea recta o colateral hasta el cuarto grado, ni de afinidad, con ningún integrante del Pleno.
+
 Lo anterior se llevará a cabo a través de los procedimientos y plazos que fije la misma Comisión.
 
-La Comisión emitirá convocatoria pública para que las organizaciones de la sociedad civil o académicas se inscriban para participar como observadores del proceso para la integración de la terna referida en el párrafo anterior, para lo cual se procederá mediante el método de insaculación para elegir cinco observadores.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+La Comisión emitirá convocatoria pública para que las organizaciones de la sociedad civil o académicas se inscriban para participar como personas observadoras del proceso para la integración de la terna referida en el párrafo anterior, para lo cual se procederá mediante el método de insaculación para elegir cinco personas observadoras.
 
-La persona Titular de la Unidad durará en su encargo cuatro años y podrá desempeñarse nuevamente por periodicidad igual.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+La persona Titular de la Unidad durará en su encargo siete años con posibilidad de reelección por un periodo adicional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 114.
 
-El Titular de la Unidad podrá ser removido de su cargo por las siguientes causas:
+La persona Titular de la Unidad podrá ser removida de su cargo por las siguientes causas:
 
 I. Ubicarse en los supuestos de prohibición establecidos en el artículo 91;
 
@@ -1369,31 +1615,43 @@ IV. Obtener una evaluación del desempeño poco satisfactoria sin justificación
 
 V. Incurrir en cualquiera de las conductas consideradas faltas administrativas graves, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 115.
 
-El Titular de la Unidad será responsable administrativamente ante la Comisión y la propia Legislatura del Estado, a la cual deberá rendir un informe anual de su gestión, con independencia de que pueda ser citado extraordinariamente por ésta, cuando así se requiera, para dar cuenta del ejercicio de sus funciones.
+La persona Titular de la Unidad será responsable administrativamente ante la Comisión y la propia Legislatura del Estado, a la cual deberá rendir un informe anual de su gestión, con independencia de que pueda ser citada extraordinariamente por ésta, cuando así se requiera, para dar cuenta del ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 116.
 
-Son atribuciones del Titular de la Unidad:
+Son atribuciones de la persona Titular de la Unidad:
 
-I. Planear y programar auditorías a las diversas áreas que integran la Auditoría Superior del Estado;
+I. Las que contempla la Ley General de Responsabilidades Administrativas, y la Ley de Responsabilidades Administrativas para el Estado;
 
-II. Requerir a las unidades administrativas de la Auditoría Superior del Estado la información necesaria para cumplir con sus atribuciones;
+II. Planear y programar auditorías a las diversas áreas que integran la Auditoría Superior del Estado;
 
-III. Expedir certificaciones de los documentos que obren en los archivos de la Unidad, así como representar a la misma, y
+III. Requerir a las unidades administrativas de la Auditoría Superior del Estado la información necesaria para cumplir con sus atribuciones;
 
-IV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+IV. Expedir certificaciones de los documentos que obren en los archivos de la Unidad, así como representar a la misma;
+
+V. Definir, formular y establecer los sistemas de control interno y de evaluación, procurando que asuman un carácter integral, congruente y homogéneo, de conformidad con las disposiciones legales vigentes, y
+
+VI. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 117.
 
-Para el ejercicio de las atribuciones que tiene conferidas la Unidad, contará con los servidores públicos, las unidades administrativas y los recursos económicos que apruebe la Comisión y se determinen en el presupuesto de la Legislatura.
+Para el ejercicio de las atribuciones que tiene conferidas la Unidad, contará con las personas servidoras públicas, las unidades administrativas y los recursos económicos que apruebe la Comisión y se determinen en el presupuesto de la Legislatura.
 
 El reglamento de la Unidad que expida la Legislatura establecerá la competencia de las áreas a que alude el párrafo anterior y aquellas otras unidades administrativas que sean indispensables para el debido funcionamiento de la misma.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 118.
 
-Los servidores públicos de la Unidad serán personal de confianza y deberán cumplir los perfiles académicos de especialidad que se determinen en su Reglamento, preferentemente en materias de fiscalización, evaluación del desempeño y control.
+Las personas servidoras públicas de la Unidad serán personal de confianza y deberán cumplir los perfiles académicos de especialidad que se determinen en su Reglamento, preferentemente en materias de fiscalización, evaluación del desempeño y control.
 
 ## TÍTULO SÉPTIMO. CONTRALORÍA SOCIAL
 
@@ -1403,13 +1661,17 @@ Los servidores públicos de la Unidad serán personal de confianza y deberán cu
 
 La Comisión recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales deberán ser consideradas por la Auditoría Superior del Estado en el programa anual de auditorías y cuyos resultados deberán ser considerados en los Informes Individuales y, en su caso, en el Informe General.
 
-Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley del Sistema Anticorrupción del Estado, debiendo el Auditor Superior del Estado informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley del Sistema Anticorrupción del Estado de Quintana Roo, debiendo la persona Titular de la Auditoría Superior del Estado informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
 
 ###### Artículo 120.
 
 La Unidad recibirá de parte de la sociedad opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce la Auditoría Superior del Estado a efecto de participar, aportar y contribuir a mejorar el funcionamiento de sus funciones de fiscalización.
 
-Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electrónicos o por escrito libre dirigido ante la Unidad. La Unidad pondrá a disposición de los particulares los formatos correspondientes.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electrónicos o por escrito libre dirigido ante la Unidad. La Unidad pondrá a disposición de las personas particulares los formatos correspondientes.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -1494,3 +1756,13 @@ P.O. 15 DE OCTUBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 146 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A la entrada en vigor del presente decreto, la persona Titular de la Unidad de Vigilancia de la Comisión de Hacienda, Presupuesto y Cuenta de la Legislatura del Estado Libre y Soberano de Quintana Roo, designada mediante Decreto 53 expedido por la H. XVII Legislatura del Estado y publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 14 de abril de 2023, queda designada para permanecer en el cargo por un periodo de siete años en términos de lo previsto por el artículo 113 de la Ley de Fiscalización y Rendición de Cuentas contados a partir de la entrada en vigor del presente decreto, quien deberá tomar la protesta correspondiente ante la Legislatura del Estado.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por el presente Decreto.
