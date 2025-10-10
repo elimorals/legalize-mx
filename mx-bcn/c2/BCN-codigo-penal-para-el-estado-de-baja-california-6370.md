@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2025-09-12"
+last_updated: "2025-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2011,6 +2011,10 @@ Respecto al párrafo anterior, cuando se trata de ignorancia o pobreza extrema y
 
 Omisión de auxilio a personas atropelladas.- Al que habiendo atropellado a una persona, no le preste auxilio o no solicite la asistencia que requiere pudiendo hacerlo, se le aplicará de seis meses a un año de prisión o trabajo en favor de la comunidad de quince a noventa días, independientemente de la pena que corresponda con motivo del atropellamiento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Se aumentará hasta un tercio las penas previstas en este artículo cuando el abandono ocurra en lugar despoblado o solitario.
+
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 160.
@@ -2902,6 +2906,10 @@ Artículo 208 QUINQUIES.- Al que use un vehículo de motor que porte placas de c
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 Artículo 208 SEXTUS.- Agravación de la pena.- Si en los actos mencionados en los artículos 208-Bis, 208-Ter y 208-Quinquies, participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de las penas, además de las sanciones a que se refieren estos artículos, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el período igual a la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+Artículo 208 SEPTIES.- Tratándose de vehículos robados, recuperados y que hayan sido ingresados a un depósito vehicular, deberá exentarse del pago de infracciones y derechos por arrastre, almacenaje y maniobras del vehículo generadas con motivo del robo, siempre y cuando la persona propietaria o la persona legitimada para solicitar su entrega, exhiba en original la constancia emitida dentro de las primeras 72 horas subsecuentes al hecho, de reporte de robo de vehículo de motor expedida por la autoridad competente en la cual conste que se interpuso la denuncia formal y siempre que obre en su poder la constancia de devolución o liberación de vehículo robado expedida por la autoridad correspondiente.
 
 ### CAPITULO II. DELITO DE ABIGEATO
 
@@ -6888,3 +6896,17 @@ PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor de las presentes reformas se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 
 A las personas que hayan cometido un delito de los contemplados en las presentes reformas con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 152 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 159 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 154 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 208-SEPTIES AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Ayuntamientos del Estado de Baja California deberán incorporar en sus iniciativas de Ley de Ingresos la disposición que exceptúe del pago de infracciones, derechos por arrastre, maniobras y almacenaje de vehículos robados y recuperados, conforme a lo previsto en el artículo 208-SEPTIES del Código Penal para el Estado de Baja California.
