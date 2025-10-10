@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2024-11-26"
+last_updated: "2025-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 2025.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -627,6 +627,14 @@ Los conductores de vehículos motorizados que infrinjan la presente disposición
 En el caso de vehículos de transporte público de pasajeros y carga, la multa será equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir, o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
 
 VI. En estacionamientos y en vías peatonales en las cuales se permita el acceso a vehículos la velocidad máxima será de 10 kilómetros por hora.
+
+> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2025)</small>
+
+VII. Tratándose de vehículos que trasporten sustancias tóxicas o peligrosas, el límite de velocidad máximo será de 30 kilómetros por hora en cualquier zona o vía de circulación, salvo cuando se ubiquen en los supuestos previstos en las fracciones V y VI de este artículo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, G.O. 10 DE OCTUBRE DE 2025]</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 200 o 300 veces la Unidad de Medida y Actualización vigente, sin perjuicio de lo dispuesto por la Ley.
 
 > <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -1342,35 +1350,43 @@ Los conductores que infrinjan la presente disposición serán sancionados con un
 
 > <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
+> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2025)</small>
+
+III. Circular por las vías de acceso controlado, cuando se trate de vehículos que transporten sustancias tóxicas o peligrosas.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, G.O. 10 DE OCTUBRE DE 2025]</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 200, 400 o 600 veces la Unidad de Medida y Actualización vigente, sin perjuicio de lo dispuesto por la Ley.
+
 ###### Artículo 27.
 
 Además de las obligaciones contenidas en los artículos que anteceden, los conductores de vehículos que transporten sustancias tóxicas o peligrosas deben:
 
 I. Sujetarse estrictamente a circular por las rutas, horarios y los itinerarios de carga y descarga autorizados y dados a conocer por la Secretaría y por Seguridad Pública;
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2025)</small>
 
-Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 200 o 300 veces la Unidad de Medida y Actualización vigente y, sin perjuicio de lo dispuesto por la Ley.
 
 II. Abstenerse de realizar paradas que no estén señaladas en la operación del servicio;
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2025)</small>
 
-Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 200 o 300 veces la Unidad de Medida y Actualización vigente, sin perjuicio de lo dispuesto por la Ley.
 
 III. En caso de congestionamiento vehicular que interrumpa la circulación, el conductor deberá solicitar a los agentes prioridad para continuar su marcha, mostrándoles la documentación que ampare el riesgo sobre el producto que transporta, con el propósito de salvaguardar la integridad física de las personas y bienes.;
 
 IV. Deberán ir señalizados y balizados de conformidad con lo establecido en las normas oficiales mexicanas con relación a este tipo de transporte; y
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2025)</small>
 
-Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 150 o 200 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 200, 300 o 400 veces la Unidad de Medida y Actualización vigente, sin perjuicio de lo dispuesto por la Ley.
 
 V. Cumplir con los lineamientos en materia de sustancias peligrosas que para tal efecto expidan las autoridades competentes.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2025)</small>
 
-Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 150 o 200 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 200, 300 o 400 veces la Unidad de Medida y Actualización vigente, sin perjuicio de lo dispuesto por la Ley.
 
 > <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -3219,3 +3235,11 @@ G.O. 26 DE NOVIEMBRE DE 2024.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el mismo día de su publicación.
