@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-mental-del-estado-de-baja-california-127161"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-23"
-last_updated: "2024-06-28"
+last_updated: "2025-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Baja California, el viernes 23 de febrero de 2018.
 
@@ -198,6 +198,12 @@ II. Coordinarse con la Secretaría para fomentar la suscripción de convenios o 
 III. Participar en la difusión y publicación en los diversos medios de comunicación sobre la importancia de la detección temprana de los trastornos mentales y las alternativas para su atención en los sectores público, social y privado, y
 
 IV. Llevar a cabo cursos de capacitación para la población en general a efecto de crear condiciones para la detección oportuna de los trastornos mentales, conforme a los lineamientos que dicte la Secretaría.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 9 Bis.
+
+Toda persona profesional de la salud mental que, al proporcionar sus servicios a las niñas, niños o adolescentes, advierta que la persona usuaria está siendo o ha sido víctima de negligencia, abandono, violencia o maltrato de carácter físico, psicológico, sexual, emocional o económico por parte de su madre, padre, tutores, personas cuidadoras o de cualquier persona, deberá notificarlo a la Procuraduría de Protección de Niñas, Niños y Adolescentes y a la Fiscalía General del Estado de Baja California.
 
 ### Capítulo Segundo. Atribuciones de la Autoridad
 
@@ -532,3 +538,9 @@ P.O. 28 DE JUNIO DE 2024.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La aplicación de la presente reforma una vez aprobada, estará sujeta a la disponibilidad presupuestaria con base a la normatividad aplicable.
+
+P.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 150 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 9 BIS A LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
