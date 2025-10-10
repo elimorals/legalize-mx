@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-agropecuario-del-estado-de-baja-california-76
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2025-06-20"
+last_updated: "2025-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -43,9 +43,11 @@ LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO I. OBJETO Y APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social, tiene por objeto, la organización, control, sanidad, protección, explotación racional, fomento y conservación de la actividad agropecuaria en el Estado de Baja California, así como garantizar la legítima propiedad de las especies animales, productos y subproductos agropecuarios, además de controlar su circulación dentro de la Entidad.
+La presente Ley es de orden público e interés social, tiene por objeto, la organización, control, sanidad, protección, explotación racional, fomento y conservación de la actividad agropecuaria en el Estado de Baja California, promoviendo prácticas sustentables que aseguren la conservación de los recursos naturales, la mitigación del impacto ambiental y la adaptación al cambio climático. Asimismo, garantizará la legítima propiedad de las especies animales, productos y subproductos agropecuarios, además de controlar su circulación dentro de la Entidad.
 
 ###### ARTÍCULO 2.
 
@@ -529,6 +531,10 @@ I.- Gubernamentales.- Los poderes federales y estatales, los municipios, y cualq
 
 II.- No gubernamentales.- Instituciones de educación e investigación y organizaciones o instituciones internacionales, nacionales, estatales y municipales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2025)</small>
+
+El Ejecutivo del Estado, a través de la Secretaría, promoverá la organización de las y los productores agropecuarios, fomentando la adopción de prácticas sustentables y la integración de cadenas productivas que incrementen la competitividad rentabilidad y sostenibilidad de las actividades agropecuarias en el estado. Asimismo, impulsará el acceso a tecnologías limpias y la certificación de producción orgánica.
+
 ###### ARTÍCULO 13.
 
 Los convenios o acuerdos que se celebren versarán sobre los siguientes aspectos:
@@ -553,6 +559,10 @@ b) La presentación de quejas y denuncias, antes (sic) las instancias correspond
 
 c) Información sobre las condiciones laborales que señala la materia.
 
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 13 BIS.- La Secretaría implementará programas de capacitación y asistencia técnica dirigidos a las y los productores agropecuarios, con el propósito de mejorar las prácticas de producción, manejo postcosecha, transformación y comercialización de los productos del sector, enfatizando la adopción de técnicas sustentables el uso eficiente de recursos naturales y transición hacia la agricultura regenerativa.
+
 ###### ARTÍCULO 14.
 
 El ejecutivo del Estado y los Ayuntamientos podrán celebrar los instrumentos legales necesarios para el ejercicio de la actividad agropecuaria a efecto de que estos últimos asuman de forma concurrente con la autoridad estatal las facultades y atribuciones que sean viablemente delegables dentro de su jurisdicción para mejorar la actividad en el sector, siempre y cuando garantice que cuenta con los recursos humanos capacitados, recursos materiales y financieros y la estructura institucional específica para atender y desarrollar las funciones que asumiría.
@@ -563,9 +573,11 @@ Cuando por razón de la materia y de conformidad con la Ley Orgánica de la Admi
 
 ### CAPÍTULO I. DE LA PLANEACIÓN DEL DESARROLLO AGROPECUARIO
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 15.
 
-La planeación del desarrollo agropecuario en el Estado estará a cargo del Gobernador a través de la Secretaría y el órgano responsable del proceso de planeación en la entidad, y por los Ayuntamientos en sus respectivas jurisdicciones, en los términos establecidos en la Ley de Planeación para el Estado, esta Ley y demás disposiciones aplicables.
+La planeación del desarrollo agropecuario en el Estado estará a cargo de la Persona Titular del Poder Ejecutivo del Estado a través de la Secretaría y el órgano responsable del proceso de planeación en la entidad, y por los Ayuntamientos en sus respectivas jurisdicciones, en los términos establecidos en la Ley de Planeación para el Estado, esta Ley y demás disposiciones aplicables. En este proceso se incluirán lineamientos específicos para fomentar prácticas sustentables, garantizar la conservación de recursos naturales y promover la diversificación productiva.
 
 ###### ARTÍCULO 16.
 
@@ -1698,3 +1710,9 @@ P.O. 20 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 97 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5 Y 96 DE LA LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 147 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 12 Y 15 Y LA ADICIÓN DEL ARTÍCULO 13 BIS A LA LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
