@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2025-05-13"
+last_updated: "2025-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -327,13 +327,17 @@ IX.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de prod
 
 X.- Promover el desarrollo de los servicios de salud con base en la integración de las tecnologías de la información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-XI.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud; y
+XI.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-XII.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria.
+XII.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE OCTUBRE DE 2025)</small>
+
+XIII.- Impulsar estrategias de atención integral con perspectiva de género y enfoque diferencial, dirigidas a mujeres víctimas de violencia, incluyendo atención médica y psicológica para su recuperación e integración social.
 
 ###### ARTÍCULO 8.
 
@@ -3029,27 +3033,45 @@ La revalidación de una autorización deberá solicitarse ante la autoridad sani
 
 Los obligados a contar con autorización sanitaria deberán mostrarla al visitador sanitario, cuando así sean requeridos en el cumplimiento de sus funciones.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 153.
 
-Requieren de licencia sanitaria:
+Requieren de Aviso de Funcionamiento:
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2020)</small>
 
 I.- Los establecimientos dedicados al expendio de alimentos, bebidas alcohólicas y no alcohólicas;
 
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2020)</small>
+
 II.- Los establecimientos que presten servicios de asistencia social;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2020)</small>
 
 III.- Los rastros;
 
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2020)</small>
+
 IV.- Las albercas y los baños públicos;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2020)</small>
 
 V.- Los centros de reunión y espectáculos;
 
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2020)</small>
+
 VI.- Los establecimientos dedicados a la prestación de servicios estéticos como peluquerías, salas de belleza o masaje;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2020)</small>
 
 VII.- Los establecimientos de hospedaje;
 
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2020)</small>
+
 VIII.- Las funerarias;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2020)</small>
 
 IX.- Los transportes de carga de alimentos y perecederos;
 
@@ -3065,19 +3087,19 @@ XI.- Los establecimientos en que se realicen tatuajes, micropigmentaciones y per
 
 XII.- Los demás que se señalen en esta Ley y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-Cuando los establecimientos a que se refiere este artículo cambien su ubicación, requerirán nueva licencia sanitaria.
+Cuando los establecimientos a que se refiere este artículo cambien su ubicación, propietario, razón social o denominación, realicen cesión de derechos de productos, así como las fabricaciones de nuevas líneas de productos, requerirán la modificación de su Aviso de Funcionamiento.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE OCTUBRE DE 2020)</small>
 
 Los derechos que se generen por la aplicación de esta Ley, se regirán por lo que disponga la Ley de Ingresos del Estado, la legislación fiscal y los acuerdos de coordinación que celebren en la materia el Ejecutivo Federal y las Autoridades Sanitarias del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 154.
 
-Para el caso de los establecimientos que presten servicios de asistencia social, únicamente la Secretaría de Salud del Estado por conducto del Instituto de Servicios de Salud Pública del Estado de Baja California podrá expedir la licencia sanitaria que corresponda.
+Para el caso de los establecimientos que presten servicios de asistencia social, únicamente la Secretaría de Salud del Estado por conducto del Instituto de Servicios de Salud Pública del Estado de Baja California podrá expedir el aviso de funcionamiento que corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -4312,3 +4334,15 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Las obligaciones y facultades de las autoridades estatales que deriven de la vigencia de las presentes reformas y que resulten materia de convenios entre la Federación y el Estado, se sujetarán para su cumplimiento a las disposiciones jurídicas aplicables.
 
 TERCERO.- Las obligaciones que se generen con motivo de la entrada en vigor de las presentes reformas se sujetarán a la disponibilidad presupuestal correspondiente de quienes ejecutan el gasto para el ejercicio fiscal de su vigencia y los subsecuentes.
+
+P.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 149 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 153 Y 154 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 151 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
