@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2024-11-15"
+last_updated: "2025-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-09-15"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE OCTUBRE DE 2025.
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -1928,9 +1928,11 @@ Tratándose de servicio de transporte de pasajeros público, tanto individual co
 
 > <small>[N. DE E. LA TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE PÚBLICO INDIVIDUAL DE PASAJEROS PASÓ A FORMAR PARTE DE LA TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE DE PASAJEROS PÚBLICO INDIVIDUAL Y COLECTIVO DE PASAJEROS, VÉASE G.O. DE 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 7 A LA 10.]</small>
 
-> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINA 40.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE OCTUBRE DE 2025)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINA 10 y 11; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 10 A LA 12; G.O. 8 DE SEPTIEMBRE DE 2023, PÁGINAS DE LA 10 A LA 12.]</small>
+> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA REALIZAR TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE DE CARGA PÚBLICO, MERCANTIL, PRIVADO Y PARTICULAR, ASI COMO DE PASAJEROS MERCANTIL Y PRIVADO EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINA 40.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA REALIZAR TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE DE CARGA PÚBLICO, MERCANTIL, PRIVADO Y PARTICULAR, ASI COMO DE PASAJEROS MERCANTIL Y PRIVADO EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINA 10 y 11; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 10 A LA 12; G.O. 8 DE SEPTIEMBRE DE 2023, PÁGINAS DE LA 10 A LA 12; G.O. 10 DE OCTUBRE DE 2025, PÁGINA 8.]</small>
 
 > <small>[N. DE E. LA TABLA DE REQUISITOS PARA TRÁMITES DE REVISTA VEHICULAR DE TRANSPORTE PÚBLICO INDIVIDUAL DE PASAJEROS (TAXI) PASÓ A FORMAR PARTE DE LA TABLA REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS, VÉASE G.O. DE 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 10 A LA 12.]</small>
 
@@ -2064,15 +2066,21 @@ j) E10, para la conducción de Transporte de Traslado de Internos;
 
 k) E11, para la conducción de vehículos tipo escolta;
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2025)</small>
 
-l) E12 para la conducción de los demás, que establezca la Secretaría como Transporte Especializado.
+l) E12, para la conducción de los demás, que establezca la Secretaría como Transporte Especializado; y
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2025)</small>
+
+m) E13, para la conducción de Vehículos que Transporten Sustancias Tóxicas o Peligrosas.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2019)</small>
 
 La Licencia Tipo E tendrá una vigencia de dos y tres años y autoriza también la conducción de los vehículos que requieren licencia Tipo A.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2025)</small>
+
+Para la expedición de las Licencias tipo “C”, “D” y “E” (en cualquiera de los supuestos previstos de los incisos b) al m), se requiere acreditar o contar con Licencia Tipo A emitida por la Secretaría, o por la Dependencia responsable de la emisión de dichas licencias de las entidades federativas con cuando menos tres años de antigüedad. Para el caso de licencias para conducir emitidas por las autoridades responsables de las entidades federativas, la persona interesada deberá acreditar que dichos documentos se encuentran vigentes al momento de su presentación y que cumplen con la antigüedad requerida para el caso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
@@ -2281,6 +2289,10 @@ X. Clave Única del Registro de Población.
 > <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
 
 La persona interesada podrá obtener la versión digital de su licencia mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá cumplir con los requisitos, formatos y mecanismos que la propia Secretaría establezca. En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad de obtener una versión digital de su licencia para conducir.
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2025)</small>
+
+Además de los requisitos anteriores, para la expedición de la licencia E13, el interesado deberá acreditar ante la Secretaría, contar con los conocimientos suficientes en la conducción de vehículos que transporten sustancias tóxicas o peligrosa (sic).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2019)</small>
 
@@ -3829,3 +3841,13 @@ TERCERO. Las licencias para conducir tipo A con vigencia permanente, establecida
 CUARTO. Las Licencias Tipo A con vigencia permanente expedidas conforme al Reglamento de Tránsito del Distrito Federal, publicado en la Gaceta Oficial del entonces Distrito Federal, el 30 de diciembre de 2003, mantendrán su carácter permanente.
 
 QUINTO.- Se derogan todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente Decreto.
+
+G.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente Decreto.
