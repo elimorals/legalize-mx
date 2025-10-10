@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-gestion-integral-de-riesgos-y-137465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-08-07"
-last_updated: "2024-09-25"
+last_updated: "2025-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-08-06"
 
 REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de agosto de 2019.
 
@@ -881,6 +881,16 @@ Los Programas Internos de los inmuebles destinados al servicio público que no a
 ###### Artículo 44.
 
 (DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2025)</small>
+
+Artículo 44 BIS. Los siguientes establecimientos y unidades económicas elaborarán su correspondiente Programa Interno de conformidad a los Términos de Referencia que expida la Secretaría:
+
+I. Expendios al público de gas natural;
+
+II. Expendios al público de gas licuado de petróleo; y
+
+III. Estaciones de servicio y estaciones de carburación.
 
 ###### Artículo 45.
 
@@ -3597,3 +3607,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo establecido en el presente Decreto.
 
 CUARTO. Todas las referencias hechas en otros ordenamientos al visto bueno para la celebración de espectáculos públicos masivos y deportivos, se entenderá la referencia al visto bueno para la celebración de espectáculos públicos masivos en lo relativo a extintores, señalización para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia previsto en el artículo 256 fracción I del Código Fiscal de la Ciudad de México.
+
+G.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 44 BIS AL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el mismo día de su publicación.
+
+TERCERO. La Secretaría de Gestión Integral de Riesgos y Protección Civil deberá expedir los términos de referencia a que se refiere este Decreto dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
