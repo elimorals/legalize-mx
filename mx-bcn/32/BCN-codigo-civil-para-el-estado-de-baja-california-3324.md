@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2025-07-18"
+last_updated: "2025-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2025.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2417,9 +2417,17 @@ III.- En caso de injuria, falta o daños graves inferidos por el alimentista con
 
 IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan estas causas;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2025)</small>
 
-V.- Si la persona alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+V.- Si la persona alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE OCTUBRE DE 2025)</small>
+
+VI.- Cuando la persona alimentista haya cumplido su mayoría de edad, y haya culminado sus estudios profesionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE OCTUBRE DE 2025)</small>
+
+VII.- Cuando la persona alimentista haya cumplido su mayoría de edad, y no se encuentre estudiando, o bien, haya interrumpido su carrera profesional, por cualquier motivo.
 
 ###### ARTICULO 318.
 
@@ -16918,3 +16926,9 @@ P.O. 18 DE JULIO DE 2025.
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Dentro de un plazo de 60 días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán modificar sus respectivos Reglamentos.
+
+P.O. 10 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 153 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 317 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
