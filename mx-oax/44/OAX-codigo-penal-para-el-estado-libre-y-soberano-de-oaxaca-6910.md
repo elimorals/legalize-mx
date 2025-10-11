@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2025-10-04"
+last_updated: "2025-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1493,9 +1493,13 @@ Si con alguna de las conductas previstas en este artículo resulta la comisión 
 
 Provocación de un delito y apología de éste.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-165 Bis.- Al que provoque públicamente a cometer un delito, o haga la apología de éste, se le aplicará prisión de tres días a un año y multa de veinte a cien veces el valor de la Unidad de Medida y Actualización vigente, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
+165 Bis. Al que provoque o motive públicamente a cometer un delito, o haga la apología de éste, se le aplicará prisión de tres días a un año y multa de veinte a cien veces el valor de la Unidad de Medida y Actualización vigente, si el delito no se ejecutare. En caso de que se cometa el delito, se aplicará a la persona que motivó o provocó su realización, la sanción que le corresponda por su participación en el delito cometido.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+Cuando la realización de la conducta descrita en el párrafo que antecede se realice a través de videojuegos, medios electrónicos o digitales, redes sociales o cualquier otro medio que utilice una red pública o privada de telecomunicaciones, involucrando a una o varias personas menores de dieciocho años de edad o a una o varias personas que no tienen la capacidad para comprender el significado del hecho o para resistirlo, la pena de prisión y sanción pecuniaria que corresponda por el delito cometido, se impondrá al doble a la persona que motivó o provocó su realización.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1741,7 +1745,7 @@ Para efectos de este artículo, se entiende cerca de escuelas, cuando la venta s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-### CAPITULO UNICO.
+### CAPITULO I. Delitos cometidos contra el libre desarrollo de la personalidad
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
@@ -1788,6 +1792,10 @@ La contravención a esta disposición se castigará con prisión de uno a tres a
 Se les impondrá la misma pena a las madres, padres, tutores o curadores que acepten o promuevan que sus hijas o hijos menores de dieciocho años de edad, o personas menores de dieciocho años de edad o personas que estén bajo su guarda, custodia o tutela, sean empleados en los referidos establecimientos.
 
 Para los efectos de este precepto se considerará como empleado en la cantina, taberna, bar o centro de vicio, a la persona menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole o por cualquier otro estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+194 Ter.- A quién a través de videojuegos, medios electrónicos o digitales, redes sociales o cualquier otro medio que utilice una red pública o privada de telecomunicaciones, motive, induzca, manipule, amenace u obligue a una o más personas menores de dieciocho años o personas que no tengan la capacidad para comprender el significado del hecho o para resistirlo, a realizar alguna actividad ilícita o atentar contra su salud, integridad física y su vida o la de otra persona, se le sancionará con pena de siete a doce años de prisión y multa de seiscientos a ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
@@ -1863,7 +1871,7 @@ Cuando la terapia de conversión se hiciere contra persona menor de dieciocho a�
 
 Delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho.
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ### CAPITULO IV. (SIC). Pederastia
 
@@ -3843,6 +3851,26 @@ La pena de prisión podrá ser disminuida hasta en una tercera parte en benefici
 
 El Estado y los municipios serán solidariamente responsables del pago de los daños y perjuicios causados por sus servidores públicos.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+### CAPITULO IV BIS
+
+Reclutamiento ilegal de personas.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+348 Ter.- Comete el delito de reclutamiento ilegal, la persona física o moral que, utilizando medios electrónicos, digitales, redes sociales, redes públicas o privadas de telecomunicaciones o cualquier otro medio, reclute, emplee, obligue, o coaccione a una o varias personas con la finalidad de cometer uno o varios delitos establecidos en este Código o en alguna Ley especial.
+
+A quien cometa este delito se le impondrá una pena de seis a diez años de prisión y multa de mil a mil quinientas Unidades de Medida y Actualización.
+
+La pena se incrementará hasta en una mitad de la mínima y una mitad de la máxima, en los siguientes casos:
+
+I. Cuando se cometa en contra de menores de edad o personas que no tienen la capacidad para comprender el significado del hecho;
+
+II. Cuando se emplee violencia física o moral, y
+
+III. Cuando se aproveche de la condición de pobreza o exclusión del sistema educativo de la víctima.
+
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012) (REPUBLICADA SU DEROGACIÓN, P.O. 12 DE MAYO DE 2018)
 
 ### CAPITULO V.
@@ -4581,32 +4609,6 @@ Reglas Comunes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO I. Violencia familiar
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2024)</small>
-
-404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, dentro o fuera del domicilio familiar cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, o concubinato con la víctima, tutela o curatela.
-
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
-
-404 Bis.- Para los efectos del presente capítulo los tipos de violencia familiar son los siguientes:
-
-I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas;
-
-II. Violencia psicoemocional. Acción u omisión, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, humillaciones, indiferencia, chantaje, celotipia, abandono, actitudes devaluatorias, que provoquen en quien las recibe alteración autocognitiva y autovalorativa, que integran su autoestima o alteraciones en alguna esfera o área de la estructura psíquica entre las que se pueden encontrar la depresión, el aislamiento, la devaluación e incluso el suicidio;
-
-III. Violencia patrimonial.- Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos;
-
-IV. Violencia económica.- Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
-
-V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, lesiona o daña la libertad, seguridad, integridad y desarrollo psicosexual de cualquier persona. Se expresa a través de la inducción a presenciar o realizar prácticas sexuales no deseadas o que generen dolor, así como la celotipia para el control, manipulación o dominio de la pareja, entre otros y;
-
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
-
-VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en los casos permitidos por la ley.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2024)</small>
-
 ###### ARTÍCULO 388 Bis.
 
 Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
@@ -4664,6 +4666,32 @@ Las excusas absolutorias contenidas en las fracciones I, III y IV no serán apli
 ## TITULO VIGESIMO PRIMERO.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+### CAPITULO I. Violencia familiar
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2024)</small>
+
+404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, dentro o fuera del domicilio familiar cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, o concubinato con la víctima, tutela o curatela.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+404 Bis.- Para los efectos del presente capítulo los tipos de violencia familiar son los siguientes:
+
+I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas;
+
+II. Violencia psicoemocional. Acción u omisión, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, humillaciones, indiferencia, chantaje, celotipia, abandono, actitudes devaluatorias, que provoquen en quien las recibe alteración autocognitiva y autovalorativa, que integran su autoestima o alteraciones en alguna esfera o área de la estructura psíquica entre las que se pueden encontrar la depresión, el aislamiento, la devaluación e incluso el suicidio;
+
+III. Violencia patrimonial.- Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos;
+
+IV. Violencia económica.- Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
+
+V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, lesiona o daña la libertad, seguridad, integridad y desarrollo psicosexual de cualquier persona. Se expresa a través de la inducción a presenciar o realizar prácticas sexuales no deseadas o que generen dolor, así como la celotipia para el control, manipulación o dominio de la pareja, entre otros y;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en los casos permitidos por la ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2024)</small>
 
 ### CAPITULO I BIS. Violencia Vicaria
 
@@ -4747,6 +4775,10 @@ En caso de tratarse de que el ejercicio de la acción penal recaiga sobre un hom
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO II
 
 De la Sustracción de Menores o Incapaces.
@@ -4776,10 +4808,6 @@ II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del
 410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO III.
 
@@ -5091,6 +5119,10 @@ Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto ac
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
+## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO SEGUNDO. De la Privación de la Vida
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
@@ -5107,9 +5139,9 @@ Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto ac
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
@@ -5122,10 +5154,6 @@ Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto ac
 I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPITULO CUARTO. Excluyentes
 
@@ -5383,48 +5411,6 @@ El juez tomará en cuenta para la determinación del daño causado en materia am
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
 
-### CAPITULO UNICO. La esterilización forzada, procreación asistida e inseminación artificial sin consentimiento
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
-
-460.- A quien sin el consentimiento de persona mayor de dieciocho años realice en ella un procedimiento de esterilización, se le impondrán de cuatro a siete años de prisión.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
-
-461.- A quien disponga de óvulos o espermas para fines distintos a los autorizados por sus donantes, se le impondrán de tres a seis años de prisión y de cincuenta a quinientos días multa.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
-
-462.- A quien sin consentimiento, realice inseminación artificial en una mujer mayor de dieciocho años, se le impondrán de cuatro a siete años de prisión.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
-
-463.- A quien implante a mujer mayor de dieciocho años un óvulo fecundado, cuando hubiere utilizado para ello un óvulo ajeno o esperma de donante no autorizado, sin el consentimiento expreso de la paciente o del donante, se le impondrá de cuatro a siete años de prisión.
-
-Si como consecuencia de este delito se produce un embarazo, la pena aplicable será de cinco a catorce años y si nacen hijas o hijos estará obligado al pago de la reparación del daño que comprenderá, además, el pago de alimentos para éstos y para la madre, en los términos que fija la legislación familiar.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
-
-464.- En el caso de los delitos señalados en los artículos anteriores del presente Capítulo, se considerarán agravantes cuando concurran las siguientes circunstancias:
-
-I. Cuando la víctima sea menor de edad, tenga alguna discapacidad o se trate de persona incapaz para comprender el significado del hecho o para resistirlo, aún con su consentimiento o de quien detente la guarda, custodia, atención o cuidado, tutela o patria potestad de la víctima, la pena se aumentará hasta en dos terceras partes del delito básico.
-
-II. Cuando el delito se realice valiéndose de medios o circunstancias que le proporcione su empleo, cargo o comisión públicos, profesión, ministerio religioso o cualquier otra que implique subordinación por parte de la víctima, la pena se aumentará en una mitad de la señalada para el delito básico.
-
-III. En el supuesto de que el delito se realice con violencia física o moral o psicoemocional aprovechándose de la ignorancia, extrema pobreza o cualquier otra circunstancia que hiciera más vulnerable a la víctima, se impondrá de cinco a catorce años de prisión.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
-
-465.- Además de las penas previstas en los artículos anteriores, se impondrá suspensión para ejercer la profesión a quien realice el procedimiento médico o, en caso de servidores públicos, inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
-
-466.- Los delitos señalados en los artículos anteriores se perseguirán de oficio cuando la víctima sea menor de edad, tenga alguna discapacidad o sea incapaz para comprender el significado del hecho o para resistirlo.
-
-Cuando la víctima sea mayor de edad el delito se perseguirá por querella.
-
-ARTICULOS TRANSITORIOS:
-
 ## TITULO VIGESIMO QUINTO. Delitos contra la Libertad de Expresión
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
@@ -5504,6 +5490,48 @@ El conocimiento de la actividad delictiva y la existencia de la misma se acredit
 ## TITULO VIGESIMO SEPTIMO.
 
 > <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2020)</small>
+
+### CAPITULO UNICO. La esterilización forzada, procreación asistida e inseminación artificial sin consentimiento
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+460.- A quien sin el consentimiento de persona mayor de dieciocho años realice en ella un procedimiento de esterilización, se le impondrán de cuatro a siete años de prisión.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+461.- A quien disponga de óvulos o espermas para fines distintos a los autorizados por sus donantes, se le impondrán de tres a seis años de prisión y de cincuenta a quinientos días multa.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+462.- A quien sin consentimiento, realice inseminación artificial en una mujer mayor de dieciocho años, se le impondrán de cuatro a siete años de prisión.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+463.- A quien implante a mujer mayor de dieciocho años un óvulo fecundado, cuando hubiere utilizado para ello un óvulo ajeno o esperma de donante no autorizado, sin el consentimiento expreso de la paciente o del donante, se le impondrá de cuatro a siete años de prisión.
+
+Si como consecuencia de este delito se produce un embarazo, la pena aplicable será de cinco a catorce años y si nacen hijas o hijos estará obligado al pago de la reparación del daño que comprenderá, además, el pago de alimentos para éstos y para la madre, en los términos que fija la legislación familiar.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+464.- En el caso de los delitos señalados en los artículos anteriores del presente Capítulo, se considerarán agravantes cuando concurran las siguientes circunstancias:
+
+I. Cuando la víctima sea menor de edad, tenga alguna discapacidad o se trate de persona incapaz para comprender el significado del hecho o para resistirlo, aún con su consentimiento o de quien detente la guarda, custodia, atención o cuidado, tutela o patria potestad de la víctima, la pena se aumentará hasta en dos terceras partes del delito básico.
+
+II. Cuando el delito se realice valiéndose de medios o circunstancias que le proporcione su empleo, cargo o comisión públicos, profesión, ministerio religioso o cualquier otra que implique subordinación por parte de la víctima, la pena se aumentará en una mitad de la señalada para el delito básico.
+
+III. En el supuesto de que el delito se realice con violencia física o moral o psicoemocional aprovechándose de la ignorancia, extrema pobreza o cualquier otra circunstancia que hiciera más vulnerable a la víctima, se impondrá de cinco a catorce años de prisión.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+465.- Además de las penas previstas en los artículos anteriores, se impondrá suspensión para ejercer la profesión a quien realice el procedimiento médico o, en caso de servidores públicos, inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+466.- Los delitos señalados en los artículos anteriores se perseguirán de oficio cuando la víctima sea menor de edad, tenga alguna discapacidad o sea incapaz para comprender el significado del hecho o para resistirlo.
+
+Cuando la víctima sea mayor de edad el delito se perseguirá por querella.
+
+ARTICULOS TRANSITORIOS:
 
 ## TITULO VIGESIMO OCTAVO. DELITOS CONTRA EL AMBIENTE
 
@@ -6738,3 +6766,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Quedan sin efectos todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 769.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 165 BIS Y LA DENOMINACIÓN DEL CAPÍTULO I "DELITOS COMETIDOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD" DEL TÍTULO SEXTO DELITOS CONTRA LA DIGNIDAD Y EL DESARROLLO DE LAS PERSONAS MENORES DE EDAD O DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 165 BIS, EL ARTÍCULO 194 TER Y EL CAPÍTULO IV BIS DENOMINADO "RECLUTAMIENTO ILEGAL DE PERSONAS" QUE CONTIENE EL ARTÍCULO 348 TER, AL TÍTULO DÉCIMO OCTAVO DELITOS CONTRA LA LIBERTAD Y VIOLACIÓN DE OTRAS GARANTÍAS, AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
