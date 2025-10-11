@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-victimas-del-estado-de-oaxaca-125296"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-09"
-last_updated: "2022-05-14"
+last_updated: "2025-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VÍCTIMAS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de diciembre de 2017.
 
@@ -1048,6 +1048,14 @@ a) El Consejo de la Judicatura del Estado.
 IV. Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
 
 V. La Comisión Ejecutiva Estatal.
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+VI. La Comisión Estatal de Búsqueda de Personas Desaparecidas para el Estado de Oaxaca.
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+VII. La Fiscalía General del Estado.
 
 ###### Artículo 83.
 
@@ -2322,3 +2330,13 @@ P.O. 14 DE MAYO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 770.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 82 DE LA LEY DE VÍCTIMAS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
