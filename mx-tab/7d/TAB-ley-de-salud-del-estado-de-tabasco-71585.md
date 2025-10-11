@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2023-10-25"
+last_updated: "2025-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -903,61 +903,157 @@ La Secretaría de Salud, con base en las políticas establecidas por el Consejo 
 
 ### CAPÍTULO VII. SALUD MENTAL
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 72.
 
-La prevención de las enfermedades mentales tienen carácter prioritario, se basará en el conocimiento de los factores que afectan a la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+Para los efectos de esta Ley, se entiende por salud mental un estado de bienestar físico, mental, emocional y social determinado por la interacción del individuo con la sociedad y vinculado al ejercicio pleno de los derechos humanos; y por adicción a la enfermedad física y psico-emocional que crea una dependencia o necesidad hacia una sustancia, actividad o relación.
+
+La salud mental y la prevención de las adicciones tendrán carácter prioritario dentro de las políticas de salud y deberán brindarse conforme a lo establecido en la Constitución Federal, en los tratados internacionales en materia de derechos humanos, en la Ley General y en esta Ley. El Estado garantizará el acceso universal, igualitario y equitativo a la atención de la salud mental y de las adicciones a las personas en el estado de Tabasco.
+
+Toda persona tiene derecho a gozar del más alto nivel posible de salud mental, sin discriminación por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad, la expresión de género, la filiación política, el estado civil, el idioma, los antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 73.
 
-Para la promoción de la salud mental, la Secretaría de Salud del Estado y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+El propósito último de los servicios de salud mental es la recuperación y el bienestar, el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
 
-I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+La recuperación varía de persona a persona, de acuerdo con las preferencias individuales, significa el empoderamiento de la persona para poder tener una vida autónoma, superando o manejando el trauma.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2019)</small>
+La atención a la salud mental deberá brindarse con un enfoque comunitario, de recuperación y con estricto respeto a los derechos humanos de los usuarios de estos servicios, en apego a los principios de interculturalidad, interdisciplinariedad, integralidad, intersectorialidad, perspectiva de género y participación social.
 
-II. La difusión de las orientaciones para la promoción de la salud mental. Tratándose de menores de edad, se debe tomar en cuenta en todo momento el principio del interés superior de niñas, niños y adolescentes, atendiendo a los instrumentos internacionales de derechos humanos en la materia;
-
-III. La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras sustancias que puedan causar alteraciones mentales o dependencias, y para la rehabilitación de los adictos a ellas;
-
-IV. La implementación de un programa para la detección oportuna y tratamiento de la depresión y la prevención del suicidio; y
-
-V. Las demás acciones que directamente contribuyan al fomento de la salud mental de la población.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 74.
 
-La atención de las enfermedades mentales comprende:
+La atención de la salud mental y las adicciones del comportamiento comprende todas las acciones a las que se refiere el artículo 33 de la Ley General y las que establece el presente ordenamiento.
 
-I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
-
-II. La organización, operación, y supervisión de las instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales;
-
-III. La creación institucional de comités de prevención de mortandad por suicidio para conocer, sistematizar, evaluar y conducir las acciones; y
-
-IV. El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, la cual se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determine la Secretaría de Salud del gobierno federal y en su caso la local y establezca las disposiciones jurídicas aplicables, respetando la dignidad del usuario y propiciando su reintegración a la vida social.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 75.
 
-De acuerdo con la disponibilidad de recursos, el Estado incluirá en el paquete básico de servicios de salud, la atención médica, los medicamentos y los auxiliares de diagnóstico y tratamiento que atiendan a los principales problemas de salud mental de la población, de acuerdo a las disposiciones reglamentarias.
+Los servicios y programas en materia de salud mental y adicciones deberán privilegiar la atención comunitaria, integral, interdisciplinaria, intercultural, intersectorial, con perspectiva de género y participativa de las personas desde el primer nivel de atención y los hospitales generales.
+
+La Secretaría de Salud y las instituciones de salud en coordinación con las autoridades competentes en cada materia, conforme a las disposiciones presupuestales fomentarán y apoyarán:
+
+I. El desarrollo de actividades educativas, socioculturales y recreativas con carácter permanente que contribuyan a la salud mental y a la prevención de adicciones, preferentemente a grupos en situación de vulnerabilidad;
+
+II. La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones;
+
+III. La realización de programas para la prevención y control del uso de sustancias psicoactivas y de adicciones; así como para la rehabilitación de las personas adictas a ellas;
+
+IV. Las acciones y campañas de promoción de los derechos de la población, sobre salud mental y adicciones, así como de sensibilización para reducir el estigma y la discriminación, a fin de favorecer el acceso oportuno de la atención;
+
+V. La implementación estratégica de servicios de atención de salud mental y adicciones en establecimientos de la red integral de servicios de salud del Sistema Estatal de Salud que permita abatir la brecha de atención;
+
+VI. La investigación multidisciplinaria en materia de salud mental;
+
+VII. La participación de observadores externos en derechos humanos y la implementación de un mecanismo de supervisión y el desarrollo de programas que promuevan, protejan y garanticen los derechos humanos en cualquier establecimiento de salud;
+
+VIII. La detección de los grupos poblacionales en riesgo de presentar trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones, preferentemente niñas, niños y adolescentes y miembros de grupos vulnerables;
+
+IX. El desarrollo de equipos de respuesta inmediata para situaciones de crisis, capacitados en técnicas para atenuar el escalamiento de crisis;
+
+X. La capacitación y educación en salud mental al personal de salud; conforme al Sistema Estatal de Salud y conforme se determine en el ámbito estatal;
+
+XI. El desarrollo de acciones y programas para detectar, atender y prevenir el suicidio, y
+
+XII. Las demás acciones que directa o indirectamente contribuyan a la prevención, atención, recuperación y fomento de la salud mental de la población.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 76.
 
-Los enfermos mentales que requieran internamiento en unidades de salud podrán ser atendidos en hospitales generales u hospitales de especialidad en salud mental de acuerdo a la gravedad de su padecimiento y a la disponibilidad del servicio. Los cuidados de estos enfermos se ajustarán a principios éticos, sociales y de calidad y cumplirán con los requisitos científicos y legales que determine la Secretaría de Salud del gobierno federal y, en su caso, la local sin menoscabo de las disposiciones jurídicas aplicables, respetando la dignidad del usuario y propiciando su reintegración temprana a la vida social.
+Las instituciones públicas del Sistema Estatal de Salud, deberán coordinarse para brindar acceso a los servicios de atención de salud mental y por consumo de sustancias psicoactivas, y de adicciones en cumplimiento con los principios siguientes:
+
+I. Atención a la población usuaria de los servicios de salud mental, a las personas que consuman sustancias psicoactivas, y tengan adicciones;
+
+II. Respeto a la dignidad y a los derechos humanos de las personas, con un enfoque de género, equidad, interseccionalidad e interculturalidad, poniendo énfasis en la prevención, detección temprana y promoción de la salud mental, incluyendo acciones enfocadas a la prevención de trastornos por el consumo de sustancias psicoactivas y de adicciones;
+
+III. Promover y desarrollar medidas para la toma de conciencia sobre la salud mental, la erradicación de estigmas y estereotipos, para la concientización de la sociedad y el personal de salud, a fin de disminuir todo tipo de discriminación hacia la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones;
+
+IV. Reducción del daño de los diversos factores de riesgo que vive la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones;
+
+V. Atención prioritaria a la población en situación de vulnerabilidad como las niñas, niños, adolescentes, mujeres, personas adultas mayores, personas con discapacidad, indígenas, afromexicanas, personas en situación de calle y pobreza, migrantes, víctimas de violencia y personas discriminadas por su orientación sexual o su identidad de género;
+
+VI. Atención primaria a la salud como el eje principal sobre el que se estructure la atención comunitaria de la salud mental y de adicciones, en el marco del modelo de atención de la salud;
+
+VII. Acceso y atención integral continua e interdisciplinaria que requiera la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones, y
+
+VIII. Participación de los familiares y de las organizaciones de usuarios de ayuda mutua para la atención.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 77.
 
-La Secretaría de Salud verificará que las instituciones públicas y privadas que brinden servicios de salud mental o rehabilitación de adicciones en la entidad cumplan con las disposiciones sanitarias.
+Para combatir los estereotipos u otras ideas o imágenes ampliamente difundidas, sobresimplificadas y con frecuencia equivocadas sobre la población que requiere de los servicios de salud mental y adicciones, las autoridades de salud mental y proveedores de servicio, de acuerdo con la disponibilidad presupuestal, llevarán a cabo:
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2019)</small>
+I. Programas de capacitación para profesionales de la salud mental, profesorado y autoridades educativas;
+
+II. Difusión de campañas de comunicación social en lenguaje claro, formatos accesibles y con pertinencia lingüística en los diferentes medios de comunicación, tanto convencionales, como otras tecnologías de la información, dirigidas hacia la población en general para enfatizar una imagen respetuosa de la dignidad y los derechos humanos de la población que requiere de los servicios de salud mental y adicciones, con protección a la confidencialidad y el derecho a no identificarse como persona con discapacidad psicosocial;
+
+III. En coordinación con la Secretaría de Educación, programas educativos en salud mental con enfoque de derechos humanos y perspectiva de género para familias, escuelas y centros de trabajo, y
+
+IV. Programas en los medios de comunicación masiva en lenguaje claro, formatos accesibles y con pertinencia lingüística.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 78.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores o custodia de personas con discapacidad, los responsables de su guarda, las autoridades y cualquier otra persona que esté en contacto con los mismos, brindando la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales, procurando que se respete su dignidad, integridad, libertad y atendiendo al principio del interés superior de las niñas, niños y adolescentes.
+La población usuaria de los servicios de salud mental tendrán los derechos siguientes:
 
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales, a fin de garantizarles una vida plena y decente, en condiciones que aseguren su dignidad, fomenten su autosuficiencia y faciliten su participación en la comunidad.
+I. Derecho a la mejor atención disponible en materia de salud mental con perspectiva intercultural, pertinencia lingüística y perspectiva de género, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en los establecimientos que conforman el Sistema Estatal de Salud;
+
+II. Derecho a contar con mecanismos de apoyo en la toma de decisiones y a directrices de voluntad anticipada sobre el consentimiento informado;
+
+III. Derecho al consentimiento informado de la persona con relación al tratamiento a recibir;
+
+IV. Derecho a no ser sometido a medidas de aislamiento, contención coercitiva o cualquier práctica que constituya tratos crueles, inhumanos o degradantes y, en su caso, ser sujeto a medios para atenuar el escalamiento de crisis;
+
+V. Derecho a un diagnóstico integral e interdisciplinario y a un tratamiento basado en un plan prescrito individualmente con historial clínico, revisado periódicamente y modificado de acuerdo con la evolución del paciente, que garantice el respeto a su dignidad de persona humana y sus derechos humanos;
+
+VI. Derecho a no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
+
+VII. Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos;
+
+VIII. Derecho a la confidencialidad de la información sobre su salud;
+
+IX. Derecho a tener acceso y disponibilidad a servicios de salud mental y adicciones, y
+
+X. Los derechos establecidos en la legislación nacional, local y los tratados y convenciones internacionales, vinculantes, de los que México forma parte.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 79.
 
-La Secretaría de Salud del Gobierno del Estado, conforme a las normas que establezca la Secretaría de Salud del Ejecutivo Federal, prestará atención a los enfermos mentales que se encuentran en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+El internamiento de la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos, la dignidad de la persona, así como los requisitos que determine la Secretaría de Salud y las disposiciones jurídicas aplicables.
+
+El internamiento sólo podrá llevarse a cabo de manera voluntaria y cuando aporte mayores beneficios terapéuticos para la persona que el resto de las intervenciones posibles; se realizará por el tiempo estrictamente necesario y en el lugar que la Secretaría u otra autoridad competente determine.
+
+Por ningún motivo el internamiento puede ser indicado o prolongado, si tiene el fin de resolver problemas familiares, sociales, laborales o de vivienda y de cuidado del paciente.
+
+En el caso de que exista la justificación clínica para el internamiento de niñas, niños o adolescentes se recabará su opinión y se dejará registro en la historia clínica. En caso de no estar de acuerdo con el internamiento la institución, junto con la madre, el padre o tutor, deberán valorar otras alternativas de atención.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 79 Bis.
+
+Todo tratamiento e internamiento de la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones, deberá prescribirse previo consentimiento informado.
+
+La persona con trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones, es quien ostenta el derecho a consentir o denegar el permiso para cualquier tratamiento o internamiento, por lo que deberá presumirse que todos los pacientes tienen capacidad de discernir y deberán agotarse los esfuerzos para permitir que una persona acepte voluntariamente el tratamiento o el internamiento.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 79 Ter.
+
+En previsión de requerir en el futuro servicios de atención médica, las personas tienen derecho a elaborar su voluntad anticipada en la que podrán determinar el tipo de acciones que desean sean tomadas para su tratamiento, o su negativa a recibir un tratamiento. En dicha manifestación de voluntad anticipada se establecerá, en su caso, la forma, alcance, duración y directrices de dicho apoyo, así como el momento o circunstancias en que su designación de apoyos a futuro surtirá eficacia. La persona podrá revocar en cualquier tiempo el contenido de la voluntad anticipada previamente adoptada.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 79 Quater.
+
+En el marco del Sistema Nacional de Salud, se observarán o elaborarán programas para la atención de los familiares y el círculo social cercano de las personas que experimentan dificultades psicoemocionales o condiciones de salud mental, sin que puedan traducirse en la afectación de la voluntad y preferencias de estas últimas. Los programas podrán versar sobre canalizaciones a servicios, psicoterapias breves, promoción de apoyos grupales, entre otros.
 
 ### CAPÍTULO VIII. ENFERMEDADES CARDIOVASCULARES Y METABÓLICAS
 
@@ -4246,3 +4342,17 @@ P.O. 25 DE OCTUBRE DE 2023.
 PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 148 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 72, 73, 74, 75, 76, 77, 78 Y 79; SE ADICIONAN LOS ARTÍCULOS 79 BIS, 79 TER Y 79 QUÁTER, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días a partir de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La ejecución y cumplimiento de las disposiciones contenidas en el presente Decreto se realizarán de forma gradual y progresiva, considerando los recursos disponibles.
+
+CUARTO. El titular del Poder Ejecutivo del Estado, dentro de un plazo que no exceda de 180 días naturales a partir de la entrada en vigor del presente Decreto deberá emitir las disposiciones reglamentarias que permitan proveer en la esfera administrativa lo previsto en el presente Decreto y actualizar las ya existentes con el fin de su armonización.
+
+QUINTO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, incluyendo las modificaciones a la estructura orgánica, que en su caso sea necesaria, por lo que no se autorizarán ampliaciones al presupuesto para la dependencia o entidad que las lleve a cabo, ni en el presente ejercicio fiscal, ni en subsecuentes.
