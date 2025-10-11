@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-130713"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-29"
-last_updated: "2024-10-19"
+last_updated: "2025-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
 
@@ -661,9 +661,9 @@ X. La prevención y atención médica integral de las infecciones de transmisió
 
 Toda mujer o persona con capacidad de gestar en el Estado de Colima tiene derecho a la maternidad. Para posibilitar este derecho fundamental, el Estado fomentará y propiciará las condiciones para hacerlo efectivo. Asimismo, podrá celebrar convenios de coordinación con la Federación, otros Estados y los Municipios para la consecución de este objetivo.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE OCTUBRE DE 2025)</small>
 
-La protección materno-infantil abarca el período que incluye el embarazo, el parto, el post-parto y el puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer o persona gestante y el producto. Dicha protección tiene carácter prioritario y comprende, de manera enunciativa y no limitativa, las siguientes acciones:
+La protección materno-infantil abarca el periodo que incluye el embarazo, el parto, el pos - parto y el puerperio, incluyendo los casos en los que haya muerte gestacional, perinatal o neonatal, en razón de la condición de vulnerabilidad en que se encuentra la mujer o persona gestante y el producto. Dicha protección tiene carácter de prioritario y comprende, de manera enunciativa y no limitativa, las siguientes acciones:
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
@@ -673,9 +673,21 @@ II. La atención del niño y la vigilancia de su crecimiento y desarrollo integr
 
 III. La revisión de retina y tamiz auditivo al prematuro;
 
-IV. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-V. La atención del niño y su vigilancia durante el crecimiento y desarrollo, promoviendo la integración y el bienestar familiar.
+IV. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+V. La atención del niño y su vigilancia durante el crecimiento y desarrollo, promoviendo la integración y el bienestar familiar;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+VI. La prevención y erradicación de prácticas médicas y de atención, que puedan lastimar su cuerpo, afectar su salud mental o denigrar a la mujer o persona gestante durante el embarazo, parto y puerperio, así como en los casos de muerte gestacional, perinatal o neonatal; y
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+VII. La protección de los derechos humanos de las mujeres y personas gestantes y el respeto pleno a su duelo en los casos en los que ocurra muerte gestacional, perinatal o neonatal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
@@ -2538,3 +2550,9 @@ P.O. 19 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 501.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 31, LA FRACCIÓN X DEL ARTÍCULO 32, ASÍ COMO ADICIONAR EL ARTÍCULO 58 BIS 4, TODOS DE LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 11 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 170.- POR EL QUE SE APRUEBA REFORMAR EL PÁRRAFO SEGUNDO DEL ARTÍCULO 33, Y ADICIONAR LAS FRACCIONES VI Y VII AL MISMO, ASÍ COMO ADICIONAR EL ARTÍCULO 33 BIS (SIC), TODOS DE LA LEY DE SALUD DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
