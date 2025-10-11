@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-y-fomento-del-patrimonio-cultural-para-el-925
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2017-07-05"
+last_updated: "2025-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento R del Periódico Oficial del Estado de Tabasco, el sábado 29 de diciembre de 2012.
 
@@ -125,7 +125,7 @@ XXII. Gobierno: El Gobierno del Estado de Tabasco;
 
 XXIII. Identidad cultural: Es el reconocimiento y la conciencia de la situación personal y colectiva de la realidad social, la capacidad de interpretar la realidad, de crear y expresar las propias respuestas culturales que se manifiestan a través de instituciones, lenguas, saberes y cualesquiera formas de expresión;
 
-XXIV. Instituto: El Instituto Estatal de Cultura de Tabasco o su equivalente;
+XXIV. (DEROGADA, P.O. 11 DE OCTUBRE DE 2025)
 
 XXV. Intervención: Son las acciones prioritarias correctivas con respecto a un bien cultural tangible e intangible que haya sido agredido por el ambiente o en su caso abandonado, depredado, alterado y que se encuentra en peligro de colapso, para luego diseñar un programa que rescate y prepare al bien para su incorporación y uso legal y racional;
 
@@ -169,11 +169,17 @@ XLIV. Restauración: Conjunto de acciones para reparar, habilitar o devolver a u
 
 XLV. Revitalización: Dar fuerza o vitalidad a un bien cultural considerando los procesos de conservación en el sentido de su mantenimiento, tal como los elementos arquitectónicos, urbanos o lingüísticos que se encuentran abandonados o en desuso;
 
-XLVI. SAOP: Secretaría de Asentamientos y Obras Públicas o su equivalente;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-XLVII. Secretaría: La Secretaría de Educación o su equivalente;
+XLVI. SOTOP: Secretaría de Ordenamiento Territorial y Obras Públicas o su equivalente;
 
-XLVIII. SIGET: El Sistema de Información Geográfica del Estado de Tabasco. Perteneciente a la SAOP es actualmente un sistema de información real y precisa con productos digitales integrados a través de una base de datos que es consultada por los usuarios de la red tanto nacional como internacional aprovechando su contenido desde cada una de sus necesidades y competencias;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+XLVII. Secretaría: La Secretaría de Cultura o su equivalente;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+XLVIII. SIGET: El Sistema de Información Geográfica del Estado de Tabasco. Perteneciente a la SOTOP es actualmente un sistema de información real y precisa con productos digitales integrados a través de una base de datos que es consultada por los usuarios de la red tanto nacional como internacional aprovechando su contenido desde cada una de sus necesidades y competencias;
 
 XLIX. Sitios: Los lugares o localidades donde ocurrieron o se descubran hechos o acontecimientos significativos, una ocupación o actividad histórica o prehistórica, existan edificios o estructuras en pie, ruinas o vestigios que, por sí mismos posean valor histórico, cultural, paleontológico o arqueológico;
 
@@ -273,13 +279,21 @@ II. La Secretaría de Gobierno;
 
 III. La Secretaría de Educación;
 
-IV. La Secretaría de Asentamientos y Obras Públicas;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-V. La Secretaria de Turismo;
+IV. La Secretaría de Ordenamiento Territorial y Obras Públicas;
 
-VI. La Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-VII. El Instituto Estatal de Cultura;
+V. La Secretaría de Turismo y Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+VI. La Secretaría de Movilidad;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+VII. La Secretaría de Cultura;
 
 VIII. Los Ayuntamientos;
 
@@ -375,15 +389,23 @@ XVIII. Promover el registro oficial de las ferias y festividades regionales y mu
 
 XIX. Las demás que señale esta Ley, su Reglamento y otras disposiciones legales;
 
-### CAPÍTULO IV. Del Instituto Estatal de Cultura
+### CAPÍTULO IV
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+La Secretaría de Cultura
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 18.
 
-El Instituto será la autoridad competente en materia de investigación, rescate, protección, estímulo y difusión del patrimonio cultural del Estado.
+La Secretaría será la autoridad competente en materia de investigación, rescate, protección, estímulo y difusión del patrimonio cultural del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 19.
 
-Serán atribuciones del Instituto, además de las expresamente asignadas en el acuerdo que crea al Instituto estatal de Cultura y su Reglamento Interior, las siguientes:
+Serán atribuciones de la Secretaría, además de las expresamente asignadas en su Ley Orgánica del Poder Ejecutivo y el Reglamento Interior, las siguientes:
 
 I. Impulsar la promoción, difusión, investigación, fortalecimiento y fomento de lo bienes (sic) culturales;
 
@@ -481,15 +503,25 @@ VIII. Realizar conjuntamente con las instancias estatales, federales y en su cas
 
 IX. Editar anualmente, de manera conjunta con la autoridad de cultura, el Libro de Promoción de Valores Culturales de Tabasco, para ser distribuido en los diversos niveles de educación del estado;
 
-X. Establecer los planes y programas de enseñanza necesarios para preservar y difundir los valores culturales propios de la entidad; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-XI. Gestionar becas para destinarlas a educandos en materia cultural que cumplan con la normatividad aplicable para la asignación de las mismas, así como para aquellas personas reconocidas como miembros activos en la promoción, difusión y preservación de nuestra riqueza cultural y artística.
+X. Establecer los planes y programas de enseñanza necesarios para preservar y difundir los valores culturales propios de la entidad;
 
-### CAPÍTULO VI. De la Secretaría de Asentamientos y Obras Públicas del Estado
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-###### ARTÍCULO 21.
+XI. Gestionar becas para destinarlas a educandos en materia cultural que cumplan con la normatividad aplicable para la asignación de las mismas, así como para aquellas personas reconocidas como miembros activos en la promoción, difusión y preservación de nuestra riqueza cultural y artística; y
 
-La Secretaría de Asentamientos y Obras Públicas del Estado, establecerá las medidas necesarias para preservar el valor cultural de los bienes y zonas señaladas en la presente ley.
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+XII. Fomentar el uso de plataformas digitales y tecnologías de la información y comunicación para el registro, conservación, difusión y enseñanza del patrimonio cultural del Estado, en colaboración con la Secretaría de Cultura y el Consejo Estatal de Gobierno Digital, conforme al marco jurídico aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO VI. De la Secretaría de Ordenamiento Territorial y Obras Públicas del Estado
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 21 La Secretaría de Ordenamiento Territorial y Obras Públicas del Estado, establecerá las medidas necesarias para preservar el valor cultural de los bienes y zonas señaladas en la presente ley.
 
 ### CAPÍTULO VII. De la Secretaría de Gobierno
 
@@ -505,27 +537,41 @@ El Consejo Consultivo Estatal de Protección y Fomento del Patrimonio Cultural, 
 
 I. Un Presidente, que será el Gobernador Constitucional del Estado;
 
-II. Un Secretario Técnico, que será el titular del Instituto Estatal de Cultura;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-III. Un Secretario Ejecutivo, que será el director de Patrimonio Cultural del Instituto;
+II. Un Secretario Técnico, que será el titular de la Secretaría de Cultura;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+III. Un Secretario Ejecutivo, que será el director de Patrimonio Cultural de la Secretaría de Cultura;
 
 IV. Los Presidentes Municipales o quienes éstos designen;
 
 V. Un representante de las siguientes dependencias de la administración pública estatal:
 
-a) Secretaría de Asentamientos y Obras Públicas;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+a) Secretaría de Ordenamiento Territorial y Obras Públicas;
 
 b) Secretaría de Educación del Estado;
 
-c) Secretaría de Turismo; y
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-d) Secretaría de Gobierno, por conducto de la Dirección del Archivo Histórico del Poder Ejecutivo.
+c) Secretaría de Turismo y Desarrollo Económico; y
 
-VI. Un representante del Congreso del Estado, integrante de la Comisión Orgánica de la materia;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+d) Secretaría de Gobierno, por conducto de la Coordinación General del Archivo Histórico del Estado de Tabasco.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+VI. Un representante del Congreso del Estado, integrante de la Comisión Ordinaria de la materia;
 
 VII. Un representante de las Delegaciones en el Estado de las siguientes dependencias y entidades de la Administración Pública Federal:
 
-a) Secretaría de Desarrollo Social;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+a) Secretaría de Bienestar;
 
 b) Secretaría de Turismo;
 
@@ -535,7 +581,9 @@ d) Instituto Nacional de Antropología e Historia;
 
 e) Secretaría de Medio Ambiente y Recursos Naturales; y
 
-f) Comisión de Desarrollo Indigenista.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+f) Instituto Nacional de los Pueblos Indígenas.
 
 VIII. Cinco representantes de las organizaciones civiles y culturales legalmente constituidas relacionadas con la materia; y
 
@@ -565,31 +613,49 @@ I. Determinar que bienes tangibles o intangibles, contienen los elementos y cara
 
 II. Dar seguimiento a los planes, programas y presupuestos, destinados al reconocimiento, protección, conservación, reutilización y uso;
 
-III. Dictaminar y comunicar al Instituto, previamente a que este emita la autorización para colocar anuncios, rótulos, postes, arreglo de fachadas y de cualquier otra índole en zonas declaradas como patrimonio cultural, en los términos de la presente ley, y demás disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-IV. Conocer de planos y proyectos para la realización de las obras a que se refiere la fracción anterior, con el objeto de emitir la recomendación correspondiente, en el plazo que el Instituto le señale;
+III. Dictaminar y comunicar a la Secretaría de Cultura previamente a que este emita la autorización para colocar anuncios, rótulos, postes, arreglo de fachadas y de cualquier otra índole en zonas declaradas como patrimonio cultural, en los términos de la presente ley, y demás disposiciones legales y reglamentarias aplicables;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+IV. Conocer de planos y proyectos para la realización de las obras a que se refiere la fracción anterior, con el objeto de emitir la recomendación correspondiente, en el plazo que la Secretaría de Cultura le señale;
 
 V. Apoyar a las autoridades en la elaboración de las disposiciones necesarias y la ejecución de las obras correspondientes para la protección de los edificios, calles, callejones, traza histórica y demás lugares análogos, que por su valor artístico o histórico, por su carácter cultural, su tradición o por cualquier otra circunstancia deban rescatarse, conservarse, mejorarse o difundirse, a fin de proteger su valor histórico;
 
-VI. Determinar la nomenclatura de los bienes del estado, coordinándose con la SAOP para el procedimiento;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+VI. Determinar la nomenclatura de los bienes del estado, coordinándose con la SOTOP para el procedimiento;
 
 VII. Acordar la realización de los avalúos necesarios y emitir los dictámenes correspondientes;
 
-VIII. Proponer al Instituto se ordene la suspensión provisional de las obras que no reúnan las condiciones requeridas o cuando se ejecuten sin las autorizaciones y requisitos que la presente ley y demás disposiciones legales y reglamentarias establecen;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-IX. Proponer al Instituto el tipo de construcciones que deban edificarse, demolerse o modificarse según las zonas en que se dividan los centros de población y atendiendo al valor histórico de éstas;
+VIII. Proponer a la Secretaría de Cultura se ordene la suspensión provisional de las obras que no reúnan las condiciones requeridas o cuando se ejecuten sin las autorizaciones y requisitos que la presente ley y demás disposiciones legales y reglamentarias establecen;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+IX. Proponer a la Secretaría de Cultura el tipo de construcciones que deban edificarse, demolerse o modificarse según las zonas en que se dividan los centros de población y atendiendo al valor histórico de éstas;
 
 X. Proponer cuando un centro de población, calle, edificio, construcción o cualquier bien, sea susceptible de ser declarado como patrimonio cultural, integrarlo al catálogo respectivo y ser inscrito en el Registro;
 
-XI. Emitir opinión sobre las solicitudes que se efectúen al Instituto para la emisión de autorizaciones o de permisos para el establecimiento de comercios, industrias y talleres en zonas típicas, históricas y en lugares de valor cultural;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+XI. Emitir opinión sobre las solicitudes que se efectúen a la Secretaría de Cultura para la emisión de autorizaciones o de permisos para el establecimiento de comercios, industrias y talleres en zonas típicas, históricas y en lugares de valor cultural;
 
 XII. Proponer a los Municipios el retiro de anuncios, rótulos y letreros; así como de postes, transformadores construcciones e instalaciones de cualquier otra índole que afecten la imagen del bien inventariado como patrimonio cultural;
 
-XIII. Proponer al Instituto la clausura de la industria o taller que se establezca en zonas del patrimonio cultural, y que no cuenten con autorización respectiva;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-XIV. Proponer a la SAOP y al Instituto las visitas de inspección a los monumentos y edificios, a fin de determinar su estado y la manera de atender su protección, conservación, restauración y mejoramiento, así como para tomar datos descriptivos, dibujos, fotografías, planos u otros trabajos que estime necesarios;
+XIII. Proponer a la Secretaría de Cultura la clausura de la industria o taller que se establezca en zonas del patrimonio cultural, y que no cuenten con autorización respectiva;
 
-XV. Proponer a la SAOP y al Instituto, la vigilancia de la ejecución de las obras materiales u otros trabajos que se hayan autorizado en los monumentos, edificios o zonas del patrimonio cultural;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+XIV. Proponer a la SOTOP y a la Secretaría de Cultura las visitas de inspección a los monumentos y edificios, a fin de determinar su estado y la manera de atender su protección, conservación, restauración y mejoramiento, así como para tomar datos descriptivos, dibujos, fotografías, planos u otros trabajos que estime necesarios;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+XV. Proponer a la SOTOP y a la Secretaría de Cultura, la vigilancia de la ejecución de las obras materiales u otros trabajos que se hayan autorizado en los monumentos, edificios o zonas del patrimonio cultural;
 
 XVI. Promover con los propietarios de edificios y construcciones, el arreglo, limpieza o pintura de las fachadas de inmuebles registrados como patrimonio cultural, a fin de proteger la imagen urbana;
 
@@ -639,11 +705,17 @@ I. Participar activamente en la toma de decisiones respecto al uso y destino, sa
 
 II. Formular y dar seguimiento a planes, programas, proyectos y presupuestos para el reconocimiento, protección, conservación, revitalización, uso adecuado, consolidación y difusión del patrimonio cultural municipal;
 
-III. Integrar el inventario y el Catálogo del Patrimonio Cultural Municipal en coordinación con el Instituto;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-IV. Proponer al Instituto, de oficio o a petición de parte, la emisión de la declaratoria de que un bien del municipio forme parte del patrimonio cultural de Estado;
+III. Integrar el inventario y el Catálogo del Patrimonio Cultural Municipal en coordinación con la Secretaría de Cultura;
 
-V. Solicitar asesoría profesional al Instituto o al Consejo Consultivo Estatal para el mejor logro de los objetivos consignados en la presente ley;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+IV. Proponer a la Secretaría de Cultura, de oficio o a petición de parte, la emisión de la declaratoria de que un bien del municipio forme parte del patrimonio cultural de Estado;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+V. Solicitar asesoría profesional a la Secretaría de Cultura o al Consejo Consultivo Estatal para el mejor logro de los objetivos consignados en la presente ley;
 
 VI. Encomendar la realización de estudios específicos a expertos de los diferentes aspectos del patrimonio cultural;
 
@@ -721,9 +793,11 @@ Para que un bien sea inscrito en el registro como Patrimonio Cultural, el Consej
 
 Un bien es susceptible de ser declarado como patrimonio cultural del Estado, cuando reúna los requisitos establecidos en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 34.
 
-Cualquier persona interesada podrá promover ante el Gobernador del Estado, el Consejo Consultivo Estatal, el Instituto o los Consejos Consultivos Municipales de los Ayuntamientos, la declaratoria para que un bien sea considerado como patrimonio cultural.
+Cualquier persona interesada podrá promover ante el Gobernador del Estado, el Consejo Consultivo Estatal, la Secretaría de Cultura o los Consejos Consultivos Municipales de los Ayuntamientos, la declaratoria para que un bien sea considerado como patrimonio cultural.
 
 Para los efectos a que se refiere el párrafo anterior, los interesados deberán presentar junto con su petición los documentos e investigaciones que justifiquen la solicitud.
 
@@ -741,7 +815,9 @@ Durante ese período, el propietario que considere que su bien no cumple con los
 
 El Consejo Consultivo Estatal analizará la información presentada y dictaminará la procedencia de la declaratoria; dicho dictamen será remitido al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado y en por lo menos uno de los diarios locales de mayor circulación.
 
-Asimismo, se dará a conocer por escrito el dictamen del Consejo Consultivo Estatal, al Instituto y a los interesados, para los efectos correspondientes.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+Asimismo, se dará a conocer por escrito el dictamen del Consejo Consultivo Estatal, a la Secretaría de Cultura y a los interesados, para los efectos correspondientes.
 
 ###### ARTÍCULO 38.
 
@@ -763,9 +839,11 @@ VII. La justificación y fundamento legal de la propuesta; y
 
 VIII. La definición y listado de sus partes integrantes, pertenencias y accesorios.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 39.
 
-Una vez publicada la declaratoria en el Periódico Oficial, y en los del Instituto la turnará al Registro Único del Patrimonio Cultural del Estado de Tabasco, para que el bien descrito sea inscrito e incluido en el catálogo respectivo; debiéndose notificar personalmente al interesado, para los efectos legales correspondientes.
+Una vez publicada la declaratoria en el Periódico Oficial, y (sic) la Secretaría de Cultura la turnará al Registro Único del Patrimonio Cultural del Estado de Tabasco, para que el bien descrito sea inscrito e incluido en el catálogo respectivo; debiéndose notificar personalmente al interesado, para los efectos legales correspondientes.
 
 ###### ARTÍCULO 40.
 
@@ -781,9 +859,13 @@ Si a través de esta información se demostrase que la zona o bien de que se tra
 
 La adscripción al patrimonio cultural de una zona o bien tendrá los siguientes efectos:
 
-I. En los casos en que se grave el bien o sea sujeto de actos de traslación de dominio, se deberá dar aviso por escrito al instituto por parte del propietario o del Notario Público que realice la operación;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-II. Sólo podrá ser restaurado o demolido parcialmente, previa autorización del Instituto, de la autoridad municipal competente y con opinión del Consejo Consultivo Estatal; y
+I. En los casos en que se grave el bien o sea sujeto de actos de traslación de dominio, se deberá dar aviso por escrito a la Secretaría de Cultura por parte del propietario o del Notario Público que realice la operación;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+II. Sólo podrá ser restaurado o demolido parcialmente, previa autorización de la Secretaría de Cultura, de la autoridad municipal competente y con opinión del Consejo Consultivo Estatal; y
 
 III. En ningún supuesto se procederá a la demolición total.
 
@@ -805,9 +887,11 @@ El centro de información a que se refiere el artículo anterior, se coordinará
 
 El Registro podrá expedir las constancias que acrediten a los bienes declarados como patrimonio cultural, en el que se reflejarán los actos jurídicos e intervenciones de obra que sobre los mismos se realicen; su forma y contenido se establecerá en el reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 47.
 
-El Instituto entregará de manera protocolaria al propietario, poseedor o representante legal del bien declarado Patrimonio Cultural, en un plazo no mayor a treinta días naturales inmediatos a la publicación de la declaratoria en el Periódico Oficial del Estado, el Titulo Oficial junto con la información referente a:
+La Secretaría de Cultura entregará de manera protocolaria al propietario, poseedor o representante legal del bien declarado Patrimonio Cultural, en un plazo no mayor a treinta días naturales inmediatos a la publicación de la declaratoria en el Periódico Oficial del Estado, el Titulo Oficial junto con la información referente a:
 
 I. La legislación y reglamentación en caso de ubicarse dentro de una zona declarada como patrimonio cultural y lo relacionado con su protección;
 
@@ -817,9 +901,11 @@ III. Los beneficios de fomento a la protección del patrimonio cultural en el Es
 
 IV. La demás información que se considere relevante.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 48.
 
-El Instituto, a través del Registro, será responsable de la elaboración, actualización y publicación del catálogo correspondiente en los términos que se establezcan en el Reglamento. Dicho catálogo será accesible al público en general.
+La Secretaría de Cultura, a través del Registro, será responsable de la elaboración, actualización y publicación del catálogo correspondiente en los términos que se establezcan en el Reglamento. Dicho catálogo será accesible al público en general.
 
 ## TÍTULO QUINTO. DEL DOMINIO Y LA POSESIÓN DEL PATRIMONIO CULTURAL
 
@@ -849,9 +935,11 @@ El Reglamento respectivo establecerá los mecanismos necesarios para que se demu
 
 Los propietarios que deseen realizar un acto traslativo de dominio sobre bienes muebles o zonas del patrimonio cultural, deberán dar previo aviso a la autoridad competente del propósito de la enajenación, precio y condiciones en que se propongan realizar la misma, la autoridad podrá hacer uso del derecho del tanto y adquirir el bien para el estado, conforme a las disposiciones legales y administrativas correspondientes;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 53.
 
-En la escritura pública de los actos traslativos de dominio de zonas y bienes del patrimonio cultural, deberá constar la referencia de su declaratoria y se deberá notificar de la operación al Registro Único del Patrimonio Cultural, en un plazo no mayor de treinta días hábiles siguientes contados a partir de la fecha de la protocolización. El Instituto dará aviso de la operación celebrada a las autoridades correspondientes en un plazo de treinta días naturales a partir del aviso definitivo.
+En la escritura pública de los actos traslativos de dominio de zonas y bienes del patrimonio cultural, deberá constar la referencia de su declaratoria y se deberá notificar de la operación al Registro Único del Patrimonio Cultural, en un plazo no mayor de treinta días hábiles siguientes contados a partir de la fecha de la protocolización. La Secretaría de Cultura dará aviso de la operación celebrada a las autoridades correspondientes en un plazo de treinta días naturales a partir del aviso definitivo.
 
 En el Registro, no se inscribirá documento alguno por el que se transmita la propiedad o cualquier otro derecho real sobre los bienes del patrimonio cultural, sin que se acredite haber cumplido con los requisitos dispuestos por la presente ley.
 
@@ -961,9 +1049,11 @@ En las obras de intervención arquitectónica como de zonas, deberán cuidarse l
 
 Las diversas manifestaciones de épocas en la edificación de un bien o zona del patrimonio cultural deberán ser respetadas.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 72.
 
-El Ayuntamiento no expedirá licencia de cambio de uso de suelo, construcción, remodelación, ampliación o demolición en las zonas o bienes declarados del Patrimonio Cultural, sin antes cerciorarse de que se cuenta con la validación del Instituto Nacional de Antropología e Historia y el Instituto, previo dictamen del Consejo Consultivo Estatal, el cual deberá emitirlo en un plazo no mayor de treinta días naturales. Una vez recibida la solicitud con los documentos requeridos conforme a lo establecido por la normatividad aplicable y la presente ley, se emitirá la resolución correspondiente.
+El Ayuntamiento no expedirá licencia de cambio de uso de suelo, construcción, remodelación, ampliación o demolición en las zonas o bienes declarados del Patrimonio Cultural, sin antes cerciorarse de que se cuenta con la validación del Instituto Nacional de Antropología e Historia y la Secretaría de Cultura, previo dictamen del Consejo Consultivo Estatal, el cual deberá emitirlo en un plazo no mayor de treinta días naturales. Una vez recibida la solicitud con los documentos requeridos conforme a lo establecido por la normatividad aplicable y la presente ley, se emitirá la resolución correspondiente.
 
 ###### ARTÍCULO 73.
 
@@ -975,29 +1065,39 @@ II. Se pretenda invadir, desviar o ampliar la vía pública, construyendo vanos,
 
 III. Se afecten símbolos urbanos.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 74.
 
-El Ayuntamiento, en coordinación con el Instituto y previo dictamen del Consejo Consultivo Estatal, ordenará la suspensión y, en su caso la demolición de las obras descritas en el artículo anterior, cuando éstas no cuenten con la validación correspondiente.
+El Ayuntamiento, en coordinación con la Secretaría de Cultura y previo dictamen del Consejo Consultivo Estatal, ordenará la suspensión y, en su caso la demolición de las obras descritas en el artículo anterior, cuando éstas no cuenten con la validación correspondiente.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 75.
 
-El Instituto, en coordinación con las autoridades federales competentes, supervisará las obras de rescate, protección y mejoramiento de un bien declarado monumento histórico, arqueológico o artístico en el estado.
+La Secretaría de Cultura, en coordinación con las autoridades federales competentes, supervisará las obras de rescate, protección y mejoramiento de un bien declarado monumento histórico, arqueológico o artístico en el estado.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 76.
 
-Es obligación de los propietarios o legítimos poseedores de los bienes del patrimonio cultural, dar aviso oportuno al Instituto o a la autoridad municipal competente, en caso de un riesgo inminente que presente la estructura del bien inmueble.
+Es obligación de los propietarios o legítimos poseedores de los bienes del patrimonio cultural, dar aviso oportuno a la Secretaría de Cultura o a la autoridad municipal competente, en caso de un riesgo inminente que presente la estructura del bien inmueble.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 77.
 
-Será necesaria la validación del Instituto y de la autoridad municipal competente, previo dictamen del Consejo Consultivo Estatal, para el establecimiento de talleres o industrias de cualquier índole en zonas típicas; la que sólo se concederá cuando se cumpla con las condiciones impuestas en la propia validación y dictamen técnico, para que los talleres o industrias que se pretendan establecer no estén fuera de la vocación de servicio respecto al entorno urbanístico.
+Será necesaria la validación de la Secretaría de Cultura y de la autoridad municipal competente, previo dictamen del Consejo Consultivo Estatal, para el establecimiento de talleres o industrias de cualquier índole en zonas típicas; la que sólo se concederá cuando se cumpla con las condiciones impuestas en la propia validación y dictamen técnico, para que los talleres o industrias que se pretendan establecer no estén fuera de la vocación de servicio respecto al entorno urbanístico.
 
 La validación a que se refiere el párrafo anterior, está condicionada a las constancias de compatibilidad urbanística que expidan las autoridades competentes con base en esta Ley y demás disposiciones aplicables.
 
 El procedimiento a que se refiere el presente artículo no podrá exceder de un plazo no mayor de cuarenta y cinco días naturales.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 78.
 
-Cuando un taller o industria, se establezca sin la autorización correspondiente en una zona declarada del Patrimonio Cultural o no cumpla con las condiciones que le hayan sido impuestas, el Ayuntamiento o el Instituto, sea el caso, podrán proceder a la clausura del mismo.
+Cuando un taller o industria, se establezca sin la autorización correspondiente en una zona declarada del Patrimonio Cultural o no cumpla con las condiciones que le hayan sido impuestas, el Ayuntamiento o la Secretaría de Cultura, sea el caso, podrán proceder a la clausura del mismo.
 
 ###### ARTÍCULO 79.
 
@@ -1007,13 +1107,17 @@ Los Notarios Públicos, en los actos, contratos o convenios sobre la propiedad o
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 80.
 
-El Gobierno del Estado y los Ayuntamientos, a través del Instituto, difundirán la importancia que tienen el conocimiento, comprensión, asimilación, conservación y puesta en valor del patrimonio cultural del estado, para la preservación de la identidad local en la que se fundamenta el desarrollo cultural de sus habitantes.
+El Gobierno del Estado y los Ayuntamientos, a través de la Secretaría de Cultura, difundirán la importancia que tienen el conocimiento, comprensión, asimilación, conservación y puesta en valor del patrimonio cultural del estado, para la preservación de la identidad local en la que se fundamenta el desarrollo cultural de sus habitantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 81.
 
-El Instituto, es el órgano facultado para establecer y ejecutar los programas de puesta en valor del patrimonio cultural del Estado y promover la creación de diversas opciones de financiamiento público y privado para su consecución.
+La Secretaría de Cultura, es el órgano facultado para establecer y ejecutar los programas de puesta en valor del patrimonio cultural del Estado y promover la creación de diversas opciones de financiamiento público y privado para su consecución.
 
 Las instituciones privadas, nacionales y extranjeras podrán participar de las tareas antes señaladas a través del Consejo Consultivo Estatal, previa autorización del gobierno del estado, pudiendo crearse fideicomisos, fondos, inversiones o cualquier otra figura jurídica, considerando que la salvaguarda del patrimonio cultural del estado de Tabasco, corresponde a las autoridades e instituciones públicas y privadas, y en general a todos los mexicanos y extranjeros que se encuentren en el territorio del estado, según los siguientes principios:
 
@@ -1043,9 +1147,11 @@ Los convenios de salida de los bienes del patrimonio cultural del estado deberá
 
 ### CAPÍTULO II. De las reproducciones del patrimonio
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 85.
 
-Se podrán realizar las reproducciones del patrimonio cultural y de aquellos bienes que por su naturaleza requieran un cuidado especial siempre y cuando cuenten con la autorización del Instituto.
+Se podrán realizar las reproducciones del patrimonio cultural y de aquellos bienes que por su naturaleza requieran un cuidado especial siempre y cuando cuenten con la autorización de la Secretaría de Cultura.
 
 ###### ARTÍCULO 86.
 
@@ -1149,25 +1255,35 @@ VIII. Se deberá dar preferencia a los nombres, fechas, lugares y hechos represe
 
 ### CAPÍTULO III (SIC). Del procedimiento para determinar la nomenclatura de los bienes del estado
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 97.
 
-La Secretaría de Asentamientos y Obras Públicas del Estado de Tabasco, deberá publicar en su portal de internet, la relación de obras que constituirán bienes del Estado, con una anticipación de por lo menos un mes al inicio de su construcción, así como una convocatoria para solicitar propuestas de nomenclatura.
+La Secretaría de Ordenamiento Territorial y Obras Públicas del Estado de Tabasco, deberá publicar en su portal de internet, la relación de obras que constituirán bienes del Estado, con una anticipación de por lo menos un mes al inicio de su construcción, así como una convocatoria para solicitar propuestas de nomenclatura.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 98.
 
-La SAOP recibirá por escrito o vía electrónica, las propuestas de ciudadanos o representantes de los sectores social y privado para la nomenclatura de los bienes del estado, mismas que deberán motivarse de acuerdo al tipo, ubicación, representatividad y uso del bien.
+La SOTOP recibirá por escrito o vía electrónica, las propuestas de ciudadanos o representantes de los sectores social y privado para la nomenclatura de los bienes del estado, mismas que deberán motivarse de acuerdo al tipo, ubicación, representatividad y uso del bien.
 
-###### ARTÍCULO 99.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-Transcurridos cuarenta y cinco días naturales, la SAOP previa consulta al SIGET, remitirá las propuestas al Instituto Estatal de Cultura, para que éste a su vez las remita al Consejo Consultivo Estatal a efecto de que elabore una terna para la nomenclatura.
+###### ARTICULO 99.
+
+Transcurridos cuarenta y cinco días naturales, la SOTOP previa consulta al SIGET, remitirá las propuestas a la Secretaría de Cultura, para que éste a su vez las remita al Consejo Consultivo Estatal a efecto de que elabore una terna para la nomenclatura.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 100.
 
-El Consejo Consultivo Estatal tomando en consideración lo dispuesto por el artículo 96 de esta ley, una vez elaborada la terna, en un plazo no mayor de 30 días naturales, en sesión determinará su resolución motivada, e informará a la SAOP para que ingrese la nomenclatura al SIGET, así como a Comunicación Social y Relaciones Públicas del Gobierno del Estado para su publicación.
+El Consejo Consultivo Estatal tomando en consideración lo dispuesto por el artículo 96 de esta ley, una vez elaborada la terna, en un plazo no mayor de 30 días naturales, en sesión determinará su resolución motivada, e informará a la SOTOP para que ingrese la nomenclatura al SIGET, así como a Coordinación General de Comunicación Social y Vocería para su publicación.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 101.
 
-El Consejo Consultivo Estatal publicará sus resoluciones en el portal de internet del Instituto.
+El Consejo Consultivo Estatal publicará sus resoluciones en el portal de Internet de la Secretaría de Cultura.
 
 ###### ARTÍCULO 102.
 
@@ -1233,7 +1349,9 @@ II. Demolición de la obra que no cuente con el proyecto autorizado; y
 
 III. La suspensión o revocación del permiso o autorización correspondiente.
 
-La instancia superior para determinar sanciones pecuniarias o administrativas, será el Consejo Consultivo Estatal y para aplicarlas, será el Instituto; en todo caso las sanciones pecuniarias se harán efectivas por conducto de la Secretaría de Finanzas de gobierno del estado.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+La instancia superior para determinar sanciones pecuniarias o administrativas, será el Consejo Consultivo Estatal y para aplicarlas, será la Secretaría de Cultura; en todo caso las sanciones pecuniarias se harán efectivas por conducto de la Secretaría de Administración y Finanzas de gobierno del estado.
 
 ###### ARTÍCULO 109.
 
@@ -1386,3 +1504,11 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 11 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 136 POR EL QUE “SE REFORMAN LAS FRACCIONES XXIV, XLVI, XLVII Y XLVIII AL ARTÍCULO 5; LAS FRACCIONES IV, V, VI Y VII AL ARTÍCULO 14; EL CAPÍTULO IV "DEL INSTITUTO ESTATAL DE CULTURA" ARTÍCULO 18; 19; LAS FRACCIONES X Y XI AL ARTÍCULO 20; EL CAPÍTULO VI "DE LA SECRETARÍA DE ASENTAMIENTOS Y OBRAS PÚBLICAS DEL ESTADO" EL ARTÍCULO 21; LAS FRACCIONES II, III, LOS INCISOS A), C) Y D), DE LA FRACCIÓN V, INCISOS A) Y F), FRACCIÓN VII DEL ARTÍCULO 23; LAS FRACCIONES III, IV, VI, VIII, IX, XI, XIII, XIV Y XV AL ARTÍCULO 27; LAS FRACCIONES III, IV Y V AL ARTÍCULO 29; PÁRRAFO PRIMERO DEL ARTÍCULO 34; PÁRRAFO SEGUNDO DEL ARTÍCULO 37; 39; LAS FRACCIONES I Y II AL ARTÍCULO 42; PÁRRAFO PRIMERO DEL ARTÍCULO 47; 48; PÁRRAFO PRIMERO DEL ARTÍCULO 53; 72; 74; 75; 76; PÁRRAFO PRIMERO AL ARTÍCULO 77; 78; 80; PÁRRAFO PRIMERO DEL ARTÍCULO 81; 85; 97; 98; 99; 100; 101; PÁRRAFO SEGUNDO DEL ARTÍCULO 108 Y SE ADICIONAN LA FRACCIÓN XII AL ARTÍCULO 20 Y SE DEROGA LA FRACCIÓN XXIV DEL ARTÍCULO 5, TODOS DE LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
