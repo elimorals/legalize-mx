@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2025-09-27"
+last_updated: "2025-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -905,9 +905,9 @@ Para la integración de las Comisiones permanentes, el Grupo Parlamentario que t
 
 Las Comisiones permanentes estarán integradas por tres diputadas y diputados, actuando el primero de los nombrados como Presidente y los dos siguientes como Secretarios. El encargo de sus integrantes será por el término de la Legislatura.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
-Las Comisiones de Responsabilidades; de Desarrollo Económico, Innovación Tecnología e Inteligencia Artificial; de Educación, Cultura y Ciencia: de Salud y Deporte; de Estudios Legislativos y Puntos Constitucionales; de Hacienda, Fiscalización y Cuenta Pública; de Presupuesto y Disciplina Financiera; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; de Anticorrupción y Transparencia Gubernamental; de Peticiones y Participación Ciudadana; y de Protección y Derecho al Agua, se integrarán por cinco diputadas y diputados de conformidad con los términos que señalen esta Ley y el Reglamento.
+Las Comisiones de Responsabilidades; de Desarrollo Económico, Innovación Tecnología e Inteligencia Artificial; de Educación, Cultura y Ciencia; de Salud y Deporte; de Estudios Legislativos y Puntos Constitucionales; de Hacienda, Fiscalización y Cuenta Pública; de Presupuesto y Disciplina Financiera; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; de Anticorrupción y Transparencia Gubernamental; de Peticiones y Participación Ciudadana; de Protección y Derecho al Agua; y de Desarrollo Portuario, Logística y Comercio Exterior, se integrarán por cinco diputadas y diputados de conformidad con los términos que señalen esta Ley y el Reglamento.
 
 Las Comisiones de Hacienda, Fiscalización y Cuenta Pública; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y de Anticorrupción y Transparencia Gubernamental, serán presididas por Diputados pertenecientes a Grupos Parlamentarios de partidos políticos distintos al de la persona titular del Poder Ejecutivo. Un Grupo Parlamentario no podrá ostentar al mismo tiempo la Presidencia de más de una de las comisiones señaladas; en caso de que no fuera posible cumplir con esta condición, la Presidencia de las comisiones citadas podrá recaer en un Diputado único, sin partido o independiente, siempre que sea de un partido político distinto al que pertenezca la persona titular del Poder Ejecutivo.
 
@@ -1640,3 +1640,9 @@ P.O. 27 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 158.- POR EL QUE SE APRUEBA REFORMAR LAS FRACCIONES XVIII Y XIX, Y ADICIONAR LA FRACCIÓN XX AL ARTÍCULO 71 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; ASÍ COMO REFORMAR LAS FRACCIONES XVIII, XIX Y ADICIONAR LA FRACCIÓN XX DEL ARTÍCULO 65, ASÍ COMO EL ARTÍCULO 83 QUATER DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al momento de su aprobación y deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 11 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 168.- POR EL QUE SE APRUEBA REFORMAR EL PÁRRAFO SEGUNDO DEL ARTÍCULO 73 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y EL ARTÍCULO 54 DE SU REGLAMENTO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al momento de su aprobación por el Congreso del Estado, debiéndose publicar en el Periódico Oficial “El Estado de Colima”.
