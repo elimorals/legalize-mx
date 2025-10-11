@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2025-05-17"
+last_updated: "2025-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -4291,9 +4291,7 @@ VIII.- A quien realice la extracción de material pétreo en áreas de jurisdicc
 
 IX.- A pesar de haber sido sancionado en dos veces por la autoridad ecológica que legalmente conozca del asunto, persista en la misma conducta dañosa al ambiente;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2015)</small>
-
-X.- Ilícitamente derribe, tale, arranque, corte, cercene, recorte excesivamente u ocasione la destrucción de uno o más árboles maderables, cualquiera que sea el régimen de tenencia, propiedad, o posesión de la tierra; y
+X.- (DEROGADA, P.O. 11 DE OCTUBRE DE 2025)
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
@@ -4303,9 +4301,7 @@ XI.- Ilícitamente realice el cambio del uso del suelo en un área natural prote
 
 Tratándose de los delitos previstos en este Título, la multa o en su caso el trabajo a favor de la comunidad, deberán aplicarse a la protección o restauración del ambiente.
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2015)</small>
-
-No se aplicará pena alguna respecto a lo dispuesto en la fracción X de este artículo, cuando se trate de leña o madera muerta, así como cuando el sujeto activo sea campesino o indígena y realice la actividad con fines de autoconsumo doméstico.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
@@ -4328,6 +4324,40 @@ Cuando el delito sea imputable a una persona jurídica colectiva, el Juez podrá
 ###### Artículo 304 Bis-A.
 
 Al servidor público que autorice o permita obras o actividades que contravengan las disposiciones legales aplicables y que ocasionen o puedan ocasionar daños al ambiente, se les aplicará de dos a ocho años de prisión y de trescientos a veinte mil días multa; así como su destitución e inhabilitación hasta por un tiempo igual al que se le hubiera fijado como pena privativa de la libertad.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+Artículo 304 BIS-B.- Comete delito de deforestación, al que sin autorización legal realice, coopere, consienta o participe en la tala, transportación, almacenamiento, distribución, procesamiento, comercialización, desmonte o destrucción desmedida de la vegetación, montes o bosques, causando deterioro grave al ambiente con actividades de lucro indebido o la afectación de recursos naturales competencia del Estado de Tabasco en cualquiera que sea su régimen de propiedad, a quien cometa este delito se le impondrá pena de uno a doce años de prisión, y de 300 a 2,000 días de multa.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+Artículo 304 BIS-C.- La misma pena que se refiere el artículo anterior se aplicará:
+
+I. A quien transporte, comercie, procese, acopie o distribuya recursos forestales maderables producto de un ilícito o sancionados en dicho Artículo;
+
+II. No repare los daños ecológicos que ocasione al ambiente, recursos naturales, áreas naturales protegidas o al suelo de conservación sea persona física o jurídica colectiva, por contravenir lo dispuesto en la Ley respectiva de la materia;
+
+III. Siendo propietario, poseedor, o responsable del manejo del predio forestal de que se trate, cause desequilibrio ecológico o no cumpla con las condicionantes técnicas señaladas en la autorización de aprovechamiento forestal o realice cambios del uso de suelo en terreno forestal o preferentemente forestal; y
+
+IV. Cuando en la comisión de este delito se empleen instrumentos como motosierras, sierras manuales o sus análogas y demás objetos utilizados para el daño y destrucción de los montes o bosques;
+
+No podrá imponerse pena alguna a quien, con fines de autoconsumo doméstico, use leña o madera muerta del material leñoso proveniente de vegetación forestal sin ningún proceso de transformación.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+Artículo 304 BIS-D.- Las penas previstas en los artículos anteriores se duplicarán, cuando una o más de las conductas descritas se hayan desarrollado en cualquiera de los siguientes lugares:
+
+I. En un área natural protegida;
+
+II. En un área de valor ambiental;
+
+III. En suelo de conservación; y
+
+IV. En una barranca o montaña, selva, bosques, humedales, manglares, lagunas, esteros o pantanos.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)</small>
+
+Artículo 304 BIS-E.- Los delitos previstos en este capítulo, serán aplicables siempre que se cometan en el ámbito de la actividad propia del Estado de Tabasco y no sean competencia de la Federación.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 2019)</small>
 
@@ -5770,3 +5800,15 @@ Se derogan las disposiciones legales y reglamentarias que se opongan al presente
 ###### ARTÍCULO TERCERO.
 
 Infórmese por conducto de la Dirección de Asuntos Jurídicos del Congreso del Estado de Tabasco, al Tribunal Colegiado en Materia Penal del Décimo Circuito con domicilio en esta Ciudad de Villahermosa, Tabasco, el cumplimiento a la sentencia dictada en el Amparo en Revisión 153/2023 derivado del Juicio de Amparo Indirecto 355/2023-Ill.
+
+P.O. 11 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 143 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS 304 BIS-B, 304 BIS-C, 304 BIS-D Y 304 BIS-E Y SE DEROGAN LA FRACCIÓN X Y EL PÁRRAFO TERCERO DEL ARTÍCULO 304 AL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan el presente Decreto.
