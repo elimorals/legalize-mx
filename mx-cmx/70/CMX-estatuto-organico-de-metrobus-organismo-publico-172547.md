@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-metrobus-organismo-publico-172547"
 country: "mx"
 rank: "estatuto"
 publication_date: "2024-04-15"
-last_updated: "2024-04-15"
+last_updated: "2025-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172547&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2024-04-09"
 ---
 # ESTATUTO ORGANICO DE "METROBUS" ORGANISMO PUBLICO DESCENTRALIZADO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE DICIEMBRE DE 2025 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DE “METROBÚS” ORGANISMO PÚBLICO DESCENTRALIZADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE OCTUBRE DE 2025.
 
 Estatuto publicado en el No. 1337 de la Gaceta Oficial de la Ciudad de México, el lunes 15 de abril de 2024.
 
@@ -210,7 +212,9 @@ VIII.- Las demás que señalen otras disposiciones aplicables.
 
 El Secretario del Consejo deberá desempeñar las siguientes funciones:
 
-I.- Hacer llegar a los miembros del Consejo con una anticipación no menor de cinco días hábiles, la convocatoria, el orden del día y el apoyo documental de los asuntos que deban conocer para las sesiones ordinarias, y para las extraordinarias en un plazo no mayor de 2 días;
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2025)</small>
+
+I.- Convocar y hacer llegar a los miembros del Consejo con una anticipación no menor de cinco días hábiles, la convocatoria, el orden del día y el apoyo documental de los asuntos que deban conocer para las sesiones ordinarias y para las extraordinarias en un plazo no mayor de 2 días;
 
 II.- Pasar lista de asistencia y verificar que exista quórum para las sesiones;
 
@@ -935,3 +939,13 @@ En la Ciudad de México, el 9 de abril del 2024.
 MARÍA DEL ROSARIO CASTRO ESCORCIA
 
 DIRECTORA GENERAL DE METROBÚS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE REFORMA EL ESTATUTO ORGÁNICO DE METROBÚS”.]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México, para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
