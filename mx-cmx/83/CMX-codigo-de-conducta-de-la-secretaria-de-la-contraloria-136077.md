@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-de-la-secretaria-de-la-contraloria-136077"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-09"
-last_updated: "2019-05-09"
+last_updated: "2025-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136077&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-05-08"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE LA CONTRALORIA GENERAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 13 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DE LA CIUDAD DE MÉXICO
 
-Texto Original.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE OCTUBRE DE 2025 (ABROGADO).
 
 Código publicado en el No. 87 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 9 de mayo de 2019.
 
@@ -289,3 +291,15 @@ SECRETARIO DE LA CONTRALORÍA GENERAL DE LA CIUDAD DE MÉXICO
 (Firma)
 
 JUAN JOSÉ SERRANO MENDOZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL CUAL SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Código de Conducta de la Secretaría de la Contraloría General de la Ciudad de México, entrará en vigor el día siguiente de la publicación del presente Aviso.
+
+TERCERO.- Se abroga el Acuerdo por el que se da a conocer el Código de Conducta de la Secretaría de la Contraloría General de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 9 de mayo de 2019.
