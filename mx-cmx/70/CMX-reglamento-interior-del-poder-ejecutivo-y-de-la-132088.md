@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2025-09-17"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -988,7 +988,25 @@ G) Dirección Ejecutiva del Seguro de Desempleo.
 
 XVII Bis. A la Secretaría de Vivienda:
 
-A) Subsecretaría de Atención a las Unidades Habitacionales.
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2025)</small>
+
+A) Subsecretaría de Atención a las Unidades Habitacionales;
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2025)</small>
+
+B) Dirección General de la Comisión para la Reconstrucción de la Ciudad de México;
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2025)</small>
+
+C) Dirección General de Enlace Institucional y Concertación;
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2025)</small>
+
+D) Dirección General de Planeación y Política del Suelo; y
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2025)</small>
+
+E) Dirección General de Asuntos Jurídicos.
 
 XVIII. A la Secretaría de Turismo:
 
@@ -11534,9 +11552,249 @@ XIII. Atender las quejas presentadas por los solicitantes al programa Seguro de 
 
 XIV. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona superior jerárquica.
 
-#### SECCIÓN XVIII. DE LA SECRETARÍA DE TURISMO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 14 DE OCTUBRE DE 2025)</small>
 
-#### SECCIÓN XIX. DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES
+#### SECCIÓN XVII BIS. DE LA SECRETARÍA DE VIVIENDA
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2025)</small>
+
+Artículo 224 QUÁTER.- Corresponde a la Dirección General de la Comisión para la Reconstrucción de la Ciudad de México:
+
+I. Gestionar, ejecutar, dar seguimiento y evaluar las acciones para alcanzar los objetivos establecidos en la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México;
+
+II. Ejecutar y supervisar las acciones urgentes o preventivas de los programas especiales de atención a la vivienda en alto riesgo estructural o situación de post desastre que determine la Secretaría;
+
+III. Gestionar, celebrar, suscribir y expedir los instrumentos, actos jurídicos y/o administrativos necesarios para el cumplimiento de sus atribuciones;
+
+IV. Proponer a la persona titular de la Secretaría la actualización o modificación del Plan Integral para la Reconstrucción, conforme las necesidades del proceso de reconstrucción;
+
+V. Solicitar informes a las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, la Mesa Legal y Órganos Colegiados que participen en el proceso de Reconstrucción;
+
+VI. Fungir a través de su Titular, como Secretaria (o) Técnica (o) del Comité Técnico del Fideicomiso para la Reconstrucción Integral de la Ciudad de México;
+
+VII. Resolver, gestionar o proponer soluciones a las cuestiones técnicas relacionadas con el Proceso de Reconstrucción y programas especiales de vivienda en alto riesgo estructural que no se encuentren previstas en las Leyes, con la finalidad de que estos no se retrasen;
+
+VIII. Integrar y resguardar los expedientes únicos de las personas damnificadas por el sismo y las carpetas de inmuebles de vivienda multifamiliar en términos de la normativa aplicable;
+
+IX. Participar y dar seguimiento a los acuerdos que en materia de Reconstrucción se tomen con las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías e iniciativa privada;
+
+X. Coadyuvar con la Secretaría del Medio Ambiente para la intervención en viviendas afectadas post desastre o en alto riesgo estructural que se encuentren en suelo de conservación;
+
+XI. Dirigir, organizar, planificar y coordinar las acciones de inspección, dictaminación, demolición, rehabilitación, reconstrucción, seguimiento técnico y supervisión de obras en viviendas afectadas por sismos en términos de la normativa aplicable; así como de aquellas obras que se lleven a cabo como parte de programas de vivienda en alto riesgo estructural implementados por la Secretaría;
+
+XII. Revisar y dar visto bueno a los proyectos ejecutivos y programas de las obras que se realicen como parte de programas de vivienda en alto riesgo estructural o del proceso de Reconstrucción;
+
+XIII. Coadyuvar y participar en el Comité Científico y de Grietas, y en el Comité de Geotécnia y Estructuras a que se refiere la Ley para la Reconstrucción Integral de la Ciudad de México;
+
+XIV. Gestionar las Constancias de Derechos Adquiridos y de Redensificación de los inmuebles afectados por el sismo que son parte del proceso de Reconstrucción de la Ciudad de México;
+
+XV. Gestionar la elaboración de estudios y proyectos que se requieran para la ejecución de las obras derivadas de los programas de vivienda en alto riesgo estructural que en materia de vivienda implemente la Secretaría;
+
+XVI. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus atribuciones, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, en su caso, con la consulta del área jurídica correspondiente, así como ejecutar las garantías, las penas y sanciones correspondientes, informando tales acciones a la persona titular de la Secretaría;
+
+XVII. Establecer, en el ámbito de su competencia, mecanismos de evaluación y control que promuevan el cumplimiento de las obligaciones contractuales de las obras ejecutadas por terceros;
+
+XVIII. Designar a la Unidad Administrativa de Apoyo Técnico Operativo a su cargo para gestionar y dar seguimiento a la ejecución de los trabajos con el fin de que se lleve a cabo conforme al proyecto ejecutivo aprobado en términos de la normatividad aplicable;
+
+XIX. Establecer las relaciones interinstitucionales necesarias con las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, para la atención y seguimiento técnico de las obras que se realicen como parte de los programas de vivienda en alto riesgo estructural o del Proceso de Reconstrucción;
+
+XX. Coordinar los trabajos relativos a trámites, análisis, seguimiento y evaluación de las obras que las empresas realicen, manteniendo comunicación permanente con el Instituto para la Seguridad de las Construcciones y la Secretaría de Obras y Servicios, a fin de promover la calidad de las obras, su correcta ejecución, pudiendo emitir opiniones sustentadas que avalen las decisiones tomadas respecto del proceso de Reconstrucción de la Ciudad de México, así como de aquellas relativas a los programas de vivienda en alto riesgo estructural que se implementen por la Secretaría;
+
+XXI. Coadyuvar con las Dependencias correspondientes en las acciones para determinar las zonas de riesgo y que las obras que se ejecuten en dichas zonas cumplan con las medidas de mitigación y seguridad que requieran;
+
+XXII. Integrar y administrar el padrón de personas damnificadas desplazadas de sus viviendas por causa de sismo y gestionar el pago de apoyo para renta en términos del Plan Integral para la Reconstrucción de la Ciudad de México, así como para los programas de vivienda en alto riesgo estructural;
+
+XXIII. Realizar la revisión de costos y alcances de las obras a ejecutar, a fin de hacer más eficiente los recursos disponibles para la Reconstrucción o para los programas de vivienda en alto riesgo estructural;
+
+XXIV. Gestionar y solicitar los recursos necesarios para atender las acciones del proceso de Reconstrucción en términos de la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México; así como para los programas de vivienda en alto riesgo estructural;
+
+XXV. Evaluar y determinar las soluciones sobre los tipos de intervención de inmuebles dañados por el sismo del año 2017, así como resolver técnicamente los casos de procesos constructivos complejos de vivienda en alto riesgo estructural que requieran atención especial;
+
+XXVI. Emitir las opiniones técnicas que le sean solicitadas en el marco de las acciones que se realicen en el proceso de Reconstrucción o como parte de la implementación de programas de vivienda en alto riesgo estructural;
+
+XXVII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo;
+
+XXVIII. Dirigir, organizar, planificar y coordinar las acciones de atención a personas damnificadas contempladas en la Ley para la Reconstrucción Integral de la Ciudad de México y en el Plan Integral para la Reconstrucción de la Ciudad de México, así como de las personas que demanden la atención de la Secretaría a través de sus programas de atención a la vivienda en alto riesgo estructural;
+
+XXIX. Establecer los mecanismos y llevar a cabo las acciones que se requieran para que ningún proceso de reconstrucción se suspenda o retrase con motivo de la acreditación de la propiedad, sin menoscabo de las intervenciones que otras autoridades puedan llevar a cabo por el incumplimiento de criterios, procedimientos y requisitos determinados en otras normativas;
+
+XXX. Dirigir, organizar, planificar y coordinar las acciones de acreditación y regularización de propiedad, así como las de expropiación que se requieran en materia de Reconstrucción, a favor de personas afectadas a las que no sea posible acreditar la propiedad, posesión o causahabiencia;
+
+XXXI. Coordinar y dar seguimiento a los trabajos realizados por la Mesa Legal, órgano colegiado contemplado en la Ley de Reconstrucción Integral de la Ciudad de México;
+
+XXXII. Suscribir los instrumentos jurídicos necesarios para la regularización de los inmuebles sujetos al proceso de reconstrucción;
+
+XXXIII. Dirigir, coordinar y dar seguimiento a las acciones legales derivadas del proceso de reconstrucción;
+
+XXXIV. Promover ante las instancias correspondientes el otorgamiento de facilidades administrativas necesarias para el desahogo de trámites en materia de Vivienda y Reconstrucción; y
+
+XXXV. Las demás que le atribuyen expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2025)</small>
+
+Artículo 224 QUINQUIES.- Corresponde a la Dirección General de Enlace Institucional y Concertación:
+
+I. Apoyar a la persona titular de la Secretaría en el fortalecimiento de la relación con la ciudadanía en materias de acceso a la vivienda social, pública y asequible a través del diálogo y la construcción de acuerdos con asociaciones, colectivos y organizaciones sociales, así como con las personas físicas y morales solicitantes de vivienda.
+
+II. Dar seguimiento, en coordinación con el Instituto de Vivienda de la Ciudad de México (INVI), a la integración del Registro Único de Personas físicas y morales, así como de las organizaciones sociales solicitantes de vivienda.
+
+III. Coordinar con las diversas áreas de la Administración Pública, de la propia Secretaría y del Instituto de Vivienda, la realización de reuniones y mesas de trabajo para la construcción de propuestas y posibles soluciones a las problemáticas relacionadas con la vivienda en la Ciudad.
+
+IV. Generar vínculos institucionales con las distintas Dependencias, Entidades, Órganos Desconcentrados y Alcaldías de la Administración Pública local y federal para desarrollar procesos que fortalezcan la colaboración en la ejecución de la política de vivienda de la Ciudad de México;
+
+V. Elaborar e implementar programas de capacitación y formación para la ciudadanía en materia de vivienda y la habitabilidad, desde una perspectiva de derechos humanos.
+
+VI. Coordinar las acciones de información y difusión de la Secretaría para propiciar una comunicación eficaz en materia del derecho humano a la vivienda adecuada, asequible y digna;
+
+VII. Coordinar con las diversas Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad la difusión de la política de vivienda;
+
+VIII. Establecer los mecanismos de comunicación con los Congresos locales de cada Entidad Federativa, en materia de vivienda;
+
+IX. Elaborar los proyectos y programas de información y difusión que permitan el fortalecimiento de la imagen institucional de la Secretaría, así como para dar a conocer los programas, trámites, acciones y obras, a través de medios escritos, audiovisuales y digitales de la Secretaría, la Administración Pública y de medios de comunicación públicos y/o privados;
+
+X. Crear estrategias de difusión e información para el acceso de la población en general, a la política de vivienda que se contemplen en los diversos programas de la Secretaría;
+
+XI. Coadyuvar, en coordinación con el Instituto de Vivienda de la Ciudad de México (INVI), en el fortalecimiento del sistema de ingreso, recepción y respuesta de la demanda ciudadana a través de plataformas digitales de atención ciudadana y Oficialía de Partes;
+
+XII. Contar, en coordinación con el Instituto de Vivienda de la Ciudad de México (INVI), con espacios de atención ciudadana en materia de vivienda ubicadas en las demarcaciones territoriales de la Ciudad de México;
+
+XIII. Coordinar el Sistema de Atención Ciudadana y el Sistema Único de Atención Ciudadana de la Secretaría;
+
+XIV. Coordinar la entrega de vivienda con las diferentes áreas de la Secretaría y del Instituto de Vivienda de la Ciudad de México;
+
+XV. Realizar, en coordinación con el Instituto de Vivienda de la Ciudad de México (INVI) y las diversas áreas de la Secretaría, asambleas y/o reuniones informativas con las personas solicitantes y beneficiarias de los programas de vivienda a cargo de la Secretaría;
+
+XVI. Promover la resolución concertada de conflictos entre personas y/o comunidades que impidan el avance de los programas de vivienda a cargo de la Secretaría o del Instituto de Vivienda de la Ciudad de México (INVI);
+
+XVII. Coadyuvar en la integración de los padrones de personas beneficiarias de los Programas Especiales de Vivienda;
+
+XVIII. Coordinar y fungir como la Unidad responsable de las solicitudes de información pública y de datos personales remitidas por la Unidad de Transparencia de la Secretaría en los plazos y términos establecidos en las disposiciones jurídicas en materia de Transparencia y Acceso a la Información Pública;
+
+XIX. Proponer convenios de colaboración a la persona titular de la Secretaría, una vez revisados por la Dirección General de Asuntos Jurídicos, con Instituciones de Educación Superior en materia de transferencia de conocimiento, así como de instancias y dependencias de la sociedad civil, los gobiernos estatales, municipales y congresos locales, estatales y federal para favorecer el intercambio de experiencias y el fortalecimiento de políticas públicas en materia de vivienda y del hábitat;
+
+XX. Coordinarse con las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, para atender los requerimientos relacionados con las demandas de atención Ciudadana que sean canalizados por la Jefatura de Gobierno de la Ciudad de México;
+
+XXI. Expedir copias certificadas de los documentos que obren en los archivos y de aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que estén adscritas; y
+
+XXII. Las demás que le atribuyen expresamente las leyes, reglamentos, y en general del marco jurídico de la materia, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2025)</small>
+
+Artículo 224 SEXIES.- Corresponde a la Dirección General de Planeación y Política del Suelo:
+
+I. Coadyuvar en las modificaciones al marco normativo en materia de vivienda y temas afines;
+
+II. Fomentar, integrar y coordinar las comisiones que se requieran en materia de vivienda;
+
+III. Participar en las comisiones en las que la Secretaría sea parte;
+
+IV. Formular, coordinar, evaluar y dar seguimiento a los Planes, Programas y demás instrumentos en materia de vivienda;
+
+V. Coadyuvar en la elaboración e implementación de mecanismos de evaluación de la política pública de vivienda;
+
+VI. Formular, analizar y dar seguimiento a los instrumentos de política pública para el cumplimiento de las atribuciones conferidas en materia de vivienda;
+
+VII. Diseñar instrumentos de planeación que promuevan la producción de vivienda asequible por parte del sector social y privado;
+
+VIII. Coordinar la elaboración y/o modificación de las Reglas de Operación de los programas sociales de la Secretaría de Vivienda y participar en las correspondientes a su Organismo Descentralizado;
+
+IX. Instrumentar y proponer mecanismos para la gestión del suelo público y privado de la Ciudad de México;
+
+X. Formular y/o coadyuvar en el diseño e implementación de mecanismos para la adquisición de suelo, el seguimiento, análisis y registro de inmuebles para promover el derecho a la vivienda asequible en sus diversas modalidades, adquisición, renta u otra;
+
+XI. Coordinar y elaborar mecanismos de generación, análisis de datos y sistemas de información en torno a la dinámica de la vivienda para la eficiente formulación de políticas públicas;
+
+XII. Coordinar con las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y/o instancias correspondientes el análisis del territorio de la Ciudad de México, para identificar zonas aptas para el desarrollo de proyectos de vivienda en concordancia con la normatividad aplicable vigente;
+
+XIII. Fomentar y dar seguimiento, en coordinación con las instancias del Poder Ejecutivo de la Ciudad de México que correspondan, el fortalecimiento de la bolsa de suelo público para el desarrollo de vivienda;
+
+XIV. Elaborar e implementar estrategias de mejora regulatoria de las disposiciones aplicables en la materia;
+
+XV. Coordinar, supervisar y definir la integración y generación de los informes de gestión institucional que deberá presentar la persona titular de la Secretaría;
+
+XVI. Supervisar y analizar que las estrategias, mecanismos de participación y mecanismos de acceso de las acciones concernientes a la política pública de vivienda, privilegien a los grupos prioritarios;
+
+XVII. Establecer los criterios para la recopilación, análisis, sistematización y resguardo de información generada por las diferentes áreas de la Secretaría y organismo descentralizado;
+
+XVIII. Coordinar e integrar las propuestas de nuevos modelos de producción de vivienda social;
+
+XIX. Coadyuvar en las actividades relacionadas con el desarrollo de las sesiones del Consejo Directivo del Instituto de Vivienda de la Ciudad de México;
+
+XX. Implementar, ejecutar y coordinar las acciones relativas al programa de vivienda en renta;
+
+XXI. Definir los mecanismos de seguridad en el acceso, procesamiento y respaldo de información de la Secretaría de Vivienda y del Instituto de Vivienda de la Ciudad de México;
+
+XXII. Recabar la información con el Instituto de Vivienda de la Ciudad de México, de las acciones que en materia de Reconstrucción o programas especiales de vivienda ésta realice;
+
+XXIII. Proponer a la persona titular de la Secretaría la elaboración, revisión y suscripción los contratos y convenios que sean necesarios para el ejercicio de sus atribuciones, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, en su caso, con la consulta del área jurídica correspondiente, así como ejecutar las garantías, las penas y sanciones correspondientes.
+
+XXIV. Diseñar los programas especiales que en materia de vivienda implemente la Secretaría para la atención de vivienda en riesgo o de la demanda de vivienda en la Ciudad;
+
+XXV. Coordinar las acciones de seguimiento y evaluación de los programas de vivienda a cargo de la Secretaría, así como su difusión a través de su página oficial;
+
+XXVI. Desarrollar mecanismos para la promoción y fomento de la vivienda social y del hábitat en la Ciudad de México con la colaboración del gobierno federal, gobiernos estatales y municipales, así como de organismos internacionales de acuerdo con el Programa General de Gobierno, el Programa Sectorial y el marco normativo de la materia;
+
+XXVII. Planear y organizar actividades, foros, seminarios y talleres de formación y capacitación en materia de vivienda orientados a generar el intercambio de experiencias en el ámbito local, nacional e internacional;
+
+XXVIII. Gestionar y dar seguimiento a las políticas, programas y acciones necesarias para la regulación de las rentas habitacionales en el marco de las atribuciones de la Secretaría.
+
+XXIX. Expedir copias certificadas de los documentos que obren en los archivos y de aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que estén adscritas; y
+
+XXX. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2025)</small>
+
+Artículo 224 SEPTIES.- Corresponde a la Dirección General de Asuntos Jurídicos:
+
+I. Establecer, dirigir y coordinar las acciones y defensa jurídica de los intereses de la Secretaría de Vivienda, para lo cual, podrá promover las acciones legales procedentes, presentar demandas, denuncias y cualquier promoción, así como los recursos y demás medios de defensa procedentes, incluyendo la demanda de amparo y su desistimiento, así como incidentes y cualquier promoción procedente durante la tramitación y seguimiento de cualquier tipo de juicio o procedimiento, además de sustanciar cualquier tipo de procedimiento jurídico;
+
+II. Representar legalmente a la Secretaría de Vivienda en los procedimientos administrativos, jurisdiccionales y/o judiciales relativos a infracciones del orden federal o común que la involucren;
+
+III. Coordinar, plantear, programar, dirigir, controlar y evaluar las actividades encomendadas a las unidades administrativas que integran la Dirección General de Asuntos Jurídicos;
+
+IV. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares, y demás ordenamientos que incidan en el ámbito de competencia de la Secretaría;
+
+V. Atender los requerimientos de información y documentos que le formulen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades que componen la Administración Pública de la Ciudad de México, así como los poderes Judicial y Legislativo de la Ciudad, relacionados con aspectos jurídicos en materias que sean competencia de la Secretaría de Vivienda;
+
+VI. Revisar y validar todos los actos jurídicos, contratos y convenios que deban ser suscritos por la persona titular de la Secretaría, así como revisar aquellos que requieran las unidades administrativas de ésta;
+
+VII. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus atribuciones, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos; además de ejecutar las garantías, las penas y sanciones correspondientes, informando tales acciones a la persona titular de la Secretaría;
+
+VIII. Establecer vínculos de coordinación con instancias jurídicas de las Alcaldías, otras Dependencias, Órganos Desconcentrados y Entidades que componen la Administración Pública de la Ciudad de México;
+
+IX. Coordinarse con las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, para atender los requerimientos formulados a la Secretaría por parte de los órganos garantes de derechos humanos y el Órgano Interno de Control;
+
+X. Coordinar y establecer sistemas de colaboración de la Secretaría, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, en el desahogo de los requerimientos formulados por el Ministerio Público y Órganos Jurisdiccionales, a efecto de auxiliarlos en la procuración e impartición de justicia;
+
+XI. Coordinar los actos de la Secretaría relacionados con los juicios de amparo, nulidad, y aquellos en los que la persona titular de la Secretaría, sus Unidades Administrativas o Unidades Administrativas de Apoyo Técnico-Operativo sean parte;
+
+XII. Coadyuvar en la substanciación de los procedimientos y recursos administrativos, promovidos ante la persona titular de la Secretaría o Unidades Administrativas de la misma y, en su caso, proponer la resolución que proceda, conforme a las disposiciones jurídicas aplicables;
+
+XIII. Solicitar información y documentos a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, cuando sea necesario para resolver los asuntos de su competencia;
+
+XIV. Establecer y coordinar sistemas de colaboración orientados a mejorar el desempeño y funcionamiento de las Unidades Administrativas de la Secretaría y la Dirección General de Asuntos Jurídicos;
+
+XV. Solicitar, cuando sea necesario, el apoyo de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, así como el auxilio de la fuerza pública, para hacer cumplir sus resoluciones;
+
+XVI. Coordinar sus funciones con la Consejería Jurídica y de Servicios Legales de la Ciudad de México, cuando así proceda;
+
+XVII. Analizar y, en su caso, formular los proyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás ordenamientos que sean competencia de la Secretaría;
+
+XVIII. Coadyuvar con la persona titular de la Secretaría en el ejercicio de sus atribuciones, en los asuntos que se relacionen con el Instituto de Vivienda de la Ciudad de México;
+
+XIX. Auxiliar a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Vivienda, así como demás Entidades de la Administración Pública de la Ciudad de México, a través de las acciones u opiniones jurídicas que le sean requeridas en las materias competencia de esta Secretaría;
+
+XX. Unificar, definir, sistematizar y difundir los criterios de interpretación y de aplicación de las leyes, reglamentos, decretos y otras disposiciones jurídicas que normen el funcionamiento de la Secretaría de Vivienda;
+
+XXI. Plantear y auxiliar a la persona titular de la Secretaría en la pertinencia, integración y formulación de los expedientes correspondientes y proponer, en su caso, a la persona titular de la Jefatura de Gobierno que, emita la declaratoria correspondiente de expropiación en los términos de las disposiciones jurídicas aplicables;
+
+XXII. Coadyuvar en la integración de las carpetas técnico jurídicas dentro del proceso de desincorporación de predios de la Ciudad de México;
+
+XXIII. Expedir copias certificadas de los documentos que obren en los archivos y de aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que estén adscritas; y
+
+XXIV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
+#### SECCIÓN XVIII. DE LA SECRETARÍA DE TURISMO
 
 ###### Artículo 225.
 
@@ -11672,7 +11930,7 @@ IX. Dar seguimiento a la logística, puesta en marcha, conclusión y costo de re
 
 X. En el ámbito de su competencia, promover la suscripción de convenios de colaboración o concertación con personas físicas o morales, nacionales o internacionales.
 
-#### SECCIÓN I. DE LA SUBTESORERÍA DE ADMINISTRACIÓN TRIBUTARIA
+#### SECCIÓN XIX. DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES
 
 ###### Artículo 229.
 
@@ -12030,7 +12288,7 @@ XVII. Las demás atribuciones que les sean conferidas por sus superiores jerárq
 
 DE LAS ATRIBUCIONES GENERALES DE LAS PERSONAS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DE APOYO TÉCNICO OPERATIVO ADSCRITAS A LA TESORERÍA DE LA CIUDAD DE MÉXICO DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS QUE SE INDICAN.
 
-#### SECCIÓN II. DE LA SUBTESORERÍA DE FISCALIZACIÓN
+#### SECCIÓN I. DE LA SUBTESORERÍA DE ADMINISTRACIÓN TRIBUTARIA
 
 ###### Artículo 239.
 
@@ -12172,7 +12430,7 @@ X. Brindar orientación y asesoría al contribuyente; e
 
 XI. Informar a la Procuraduría Fiscal de la Ciudad de México, de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales.
 
-#### SECCIÓN III. DE LA COORDINACIÓN EJECUTIVA DE VERIFICACIÓN DE COMERCIO EXTERIOR
+#### SECCIÓN II. DE LA SUBTESORERÍA DE FISCALIZACIÓN
 
 ###### Artículo 245.
 
@@ -12322,7 +12580,7 @@ XII. Suscribir los acuerdos de mediación y los conclusivos en términos de lo d
 
 XIII. Condonar y reducir las multas impuestas en el ejercicio de las facultades conferidas en este artículo en términos de lo dispuesto en las leyes fiscales aplicables a la Ciudad de México o de las leyes federales de conformidad con los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal.
 
-#### SECCIÓN IV. DE LA SUBTESORERÍA DE POLÍTICA FISCAL
+#### SECCIÓN III. DE LA COORDINACIÓN EJECUTIVA DE VERIFICACIÓN DE COMERCIO EXTERIOR
 
 ###### Artículo 250.
 
@@ -12436,7 +12694,7 @@ XI. Realizar el reporte de las asignaciones a la Ciudad de México de mercancía
 
 XII. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que le sean conferidas por sus superiores jerárquicos.
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
+#### SECCIÓN IV. DE LA SUBTESORERÍA DE POLÍTICA FISCAL
 
 ###### Artículo 252.
 
@@ -12470,7 +12728,7 @@ IX. Coordinar la comunicación entre las áreas correspondientes de la Secretar�
 
 DE LAS ATRIBUCIONES GENERALES DE LAS PERSONAS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DE APOYO TÉCNICO OPERATIVO ADSCRITAS A LA SECRETARÍA DE LA CONTRALORÍA GENERAL QUE SE INDICAN.
 
-#### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD Y APOYO TÉCNICO
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 253.
 
@@ -12674,7 +12932,7 @@ XVI. Expedir previo cotejo, copias certificadas de los documentos que obren en s
 
 XVII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN III
+#### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD Y APOYO TÉCNICO
 
 ###### Artículo 258.
 
@@ -13096,7 +13354,7 @@ XIV. Expedir, copias certificadas de los documentos que obren en sus archivos, a
 
 XV. Las demás que le instruya la persona Titular de la Dirección General de Coordinación de Órganos Internos de Control Sectorial, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN I. DE LAS ATRIBUCIONES GENERALES
+#### SECCIÓN III
 
 ###### Artículo 267.
 
@@ -13152,7 +13410,7 @@ XXIII. Las demás que le instruya la persona titular de la Secretaría de la Con
 
 ### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LAS PERSONAS TITULARES DE LAS UNIDADES DE INVESTIGACIÓN, SUBSTANCIACIÓN Y DE RESOLUCIÓN DE LA SECRETARÍA DE CONTRALORÍA GENERAL
 
-#### SECCIÓN II. DE LAS AUTORIDADES INVESTIGADORAS
+#### SECCIÓN I. DE LAS ATRIBUCIONES GENERALES
 
 ###### Artículo 268.
 
@@ -13284,7 +13542,7 @@ XXIX. Someter en conjunto con las direcciones generales de coordinación de órg
 
 XXX. Las demás que le instruya la persona Titular de la Secretaría de la Contraloría General, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo a él adscritas, las que expresamente le atribuya este Reglamento y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
 
-#### SECCIÓN III. DE LAS AUTORIDADES SUBSTANCIADORAS
+#### SECCIÓN II. DE LAS AUTORIDADES INVESTIGADORAS
 
 ###### Artículo 269.
 
@@ -13346,7 +13604,7 @@ XXVII. Solicitar mediante exhorto, la colaboración de las Dependencias, órgano
 
 XXVIII. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende la persona Titular de la Secretaría de la Contraloría General, así como las que competen a las Unidades Administrativas a su cargo.
 
-#### SECCIÓN IV. DE LAS AUTORIDADES RESOLUTORAS
+#### SECCIÓN III. DE LAS AUTORIDADES SUBSTANCIADORAS
 
 ###### Artículo 270.
 
@@ -13392,9 +13650,7 @@ XIX. Solicitar mediante exhorto, la colaboración de las Dependencias, órganos 
 
 XX. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende la persona Titular de la Secretaría de la Contraloría General, así como las que competen a las Unidades Administrativas a su cargo.
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE SERVICIOS A USUARIOS
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
+#### SECCIÓN IV. DE LAS AUTORIDADES RESOLUTORAS
 
 ###### Artículo 271.
 
@@ -13428,11 +13684,9 @@ DE LAS ATRIBUCIONES GENERALES DE LAS PERSONAS TITULARES DE LAS UNIDADES ADMINIST
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
-#### SECCION I
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE SERVICIOS A USUARIOS
 
-ADSCRITO A LA JEFATURA DE GOBIERNO.
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 271 Bis.
 
@@ -13656,11 +13910,11 @@ XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y ad
 
 ### CAPÍTULO III. DEL OBJETO Y ATRIBUCIONES DE LOS ÓRGANOS DESCONCENTRADOS
 
-#### SECCION II
+#### SECCION I
 
-ADSCRITO A LA SECRETARIA DE GOBIERNO.
+ADSCRITO A LA JEFATURA DE GOBIERNO.
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 276.
 
@@ -15124,7 +15378,11 @@ X. Certificar y expedir copias certificadas de los documentos que obren en sus a
 
 XI. Las demás que le sean encomendadas por las personas Titulares de la Coordinación General del C5 y de la Jefatura de Gobierno y las que le correspondan de conformidad con las disposiciones jurídicas y/o administrativas aplicables.
 
-#### SECCIÓN III. ADSCRITO A LA SECRETARÍA DE CULTURA
+#### SECCION II
+
+ADSCRITO A LA SECRETARIA DE GOBIERNO.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
 
 ###### Artículo 296.
 
@@ -15194,7 +15452,7 @@ IV. Realizar las gestiones necesarias para acceder a los recursos previstos por 
 
 V. Las demás previstas en el Acuerdo por el que se crea la Comisión de Búsqueda de Personas de la Ciudad de México, publicado el 17 de mayo de 2019 en la Gaceta Oficial de la Ciudad de México, la Ley General en la materia y demás disposiciones aplicables.
 
-#### SECCIÓN IV. ADSCRITO A LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
+#### SECCIÓN III. ADSCRITO A LA SECRETARÍA DE CULTURA
 
 ###### Artículo 298.
 
@@ -15238,7 +15496,7 @@ X. Las demás funciones que le atribuyan las leyes y reglamentos, así como las 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
-#### SECCIÓN V. ADSCRITO A LA SECRETARÍA DE MOVILIDAD
+#### SECCIÓN IV. ADSCRITO A LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
 ###### Artículo 302 Bis.
 
@@ -15538,9 +15796,7 @@ XXV Bis. Suscribir los contratos, convenios y demás actos jurídicos o de cará
 
 XXVI. Las demás que le otorguen la legislación vigente.
 
-#### SECCIÓN VI. ADSCRITO A LA SECRETARÍA DE OBRAS Y SERVICIOS
-
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2019)</small>
+#### SECCIÓN V. ADSCRITO A LA SECRETARÍA DE MOVILIDAD
 
 ###### Artículo 316.
 
@@ -15572,7 +15828,9 @@ XXVI. Las demás que le otorguen la legislación vigente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE FEBRERO DE 2019)</small>
 
-#### SECCIÓN VII. ADSCRITO A LA SECRETARÍA DE SALUD
+#### SECCIÓN VI. ADSCRITO A LA SECRETARÍA DE OBRAS Y SERVICIOS
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 322 Bis.
 
@@ -15614,7 +15872,7 @@ XIV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como
 
 > <small>(ADICIONADA, G.O. 15 DE FEBRERO DE 2019)</small>
 
-#### SECCIÓN I. ADSCRTO A LA JEFATURA DE GOBIERNO
+#### SECCIÓN VII. ADSCRITO A LA SECRETARÍA DE SALUD
 
 ###### Artículo 323.
 
@@ -15692,7 +15950,7 @@ XVIII. Las demás que señalen las disposiciones legales aplicables.
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 15 DE MAYO DE 2019)</small>
 
-#### SECCIÓN II. ADSCRITO A LA SECRETARÍA DE GOBIERNO
+#### SECCIÓN I. ADSCRTO A LA JEFATURA DE GOBIERNO
 
 ###### Artículo 325.
 
@@ -15713,6 +15971,8 @@ XVIII. Las demás que señalen las disposiciones legales aplicables.
 ###### Artículo 329.
 
 (DEROGADO, G.O. 15 DE MAYO DE 2019)
+
+#### SECCIÓN II. ADSCRITO A LA SECRETARÍA DE GOBIERNO
 
 ###### Artículo 330.
 
@@ -16375,3 +16635,17 @@ CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enuncia
 QUINTO.- A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este Decreto.
 
 SEXTO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
+
+G.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación.
+
+TERCERO.- A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este Decreto.
+
+CUARTO.- La Secretaría de Vivienda deberá realizar las gestiones conducentes ante las autoridades correspondientes, que propicien la armonización conforme al presente Decreto, de la normatividad aplicable al Instituto de Vivienda de la Ciudad de México que se le encuentra sectorizado.
+
+QUINTO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
