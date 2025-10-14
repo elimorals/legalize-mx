@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-artesanal-del-estado-de-san-luis-potosi-31394"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-24"
-last_updated: "2020-06-18"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de mayo de 2003.
 
@@ -513,13 +513,17 @@ X. Realizar anualmente estudios de mercado local, nacional e internacional, a fi
 
 XI. Promover y brindar asesoría para el registro de marcas colectivas de productos artesanales en el Estado, e incluirlas en las acciones y programas de apoyo, comercialización y promoción;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-XII. Difundir los productos artesanales que ofrece, a través de los medios de comunicación de Gobierno del Estado de San Luis Potosí y los municipios, según sea el caso, con la finalidad de ampliar su posición en los mercados, y
+XII. Difundir los productos artesanales que ofrece, a través de los medios de comunicación de (sic) Gobierno del Estado de San Luis Potosí y los municipios, según sea el caso, con la finalidad de ampliar su posición en los mercados;
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-XIII. Brindar asesoría a los artesanos del Estado en materia de derechos de autor y de propiedad, de los procesos, productos y diseños artesanales de acuerdo a la legislación aplicable, con el fin de proteger la autoría y los derechos de comercialización de sus manifestaciones artísticas.
+XIII. Brindar asesoría a los artesanos del Estado en materia de derechos de autor y de propiedad, de los procesos, productos y diseños artesanales de acuerdo a la legislación aplicable, con el fin de proteger la autoría y los derechos de comercialización de sus manifestaciones artísticas, y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+XIV. Planear y promover medidas y acciones para que las y los artesanos, alcancen y accedan a canales de compra y venta de materias primas y productos.
 
 ###### ARTICULO 34.
 
@@ -589,11 +593,11 @@ III. Promover y desarrollar la obra artesanal de las comunidades como reconocimi
 
 IV. Promover y propiciar la creación de museos de artesanías o comunitarios, a través de organizaciones no gubernamentales y sociedad civil en general; y apoyar en los ya existentes la preservación, difusión y promoción de las piezas artesanales de las culturas del Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 42.
 
-Los ayuntamientos, a través del Departamento de Cultura Municipal, preservarán, incentivarán y promoverán el desarrollo artesanal del municipio, destinando los recursos necesarios para tal efecto, logrando con ello la comercialización de las obras artesanales, en el mercado local, regional, estatal, nacional e internacional, instrumentando los programas necesarios para estos fines, en coordinación con las autoridades competentes en la materia.
+Los ayuntamientos, en el ejercicio de sus atribuciones y en cumplimiento de las disposiciones legales aplicables a través del Departamento de Cultura Municipal o su equivalente, fortalecerán, preservarán, incentivarán y promoverán el desarrollo artesanal del municipio, destinando los recursos necesarios para tal efecto, con ello aumentar la producción y comercialización de las obras artesanales, en el mercado local, regional, estatal, nacional e internacional, promoviendo e instrumentando conjuntamente con los tres niveles de gobierno la suscripción de acuerdos y convenios de colaboración interinstitucional, así como programas necesarios para estos fines, en coordinación con las autoridades competentes en la materia.
 
 ## TRANSITORIOS
 
@@ -688,3 +692,11 @@ P.O. 18 DE JUNIO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0281.- QUE REFORMA LOS ARTÍCULOS 33 Y 42; Y REALIZA ADICIÓN AL ARTÍCULO 33, AMBOS DE LA LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
