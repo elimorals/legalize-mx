@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2025-10-03"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -2097,11 +2097,13 @@ VII. Promover la inserción en los medios de comunicación de noticias, boletine
 
 ### CAPITULO XII. De los Organismos de Participación Ciudadana
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 101.
 
-Para coadyuvar en los fines y funciones de la administración pública municipal, los ayuntamientos constituirán mediante asambleas democráticas, dentro del cuarto mes del inicio de su periodo constitucional, los Consejos de Desarrollo Social Municipal a que se refiere la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí.
+Para coadyuvar en los fines y funciones de la administración pública municipal, los ayuntamientos constituirán mediante asambleas democráticas, dentro del sexto mes del inicio de su periodo constitucional, los Consejos de Desarrollo Social Municipal a que se refiere la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
 La constitución de las juntas vecinales de mejoras, y demás organismos de participación ciudadana, se apegarán a los tiempos y plazos establecidos en la presente Ley o en su reglamento respectivo. Los que cualquiera que sea el nombre con que se les designe, presentarán propuestas al ayuntamiento para fijar las bases de los planes y programas municipales o modificarlos, en su caso; el cabildo supervisará sus actividades y vigilará, en su caso, el destino de los fondos que manejen.
 
@@ -3664,3 +3666,11 @@ P.O. 3 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor a los 180 días siguientes de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0277.- QUE REFORMA EL ARTÍCULO 101, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA EL ARTÍCULO 67, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
