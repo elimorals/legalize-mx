@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-personas-defensoras-de-derechos-12410
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-26"
-last_updated: "2024-12-27"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Segunda Parte al Número 185 del Periódico Oficial del Estado de Guanajuato, el jueves 26 de octubre de 2017.
 
@@ -107,9 +107,11 @@ Para los trámites, acciones y procedimientos no estipulados en la presente Ley,
 
 Interpretación conforme de la Ley
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-La interpretación de las normas contenidas en la presente Ley deberá realizarse siempre conforme a la Constitución Política de los Estados Unidos Mexicanos y a los Tratados Internacionales de los que el Estado Mexicano sea parte.
+La interpretación de las normas contenidas en la presente Ley deberá realizarse siempre conforme a la Constitución Política de los Estados Unidos Mexicanos y a los Tratados Internacionales de los que el Estado Mexicano sea parte, favoreciendo en todo momento la protección más amplia que corresponda a las personas beneficiarias.
 
 ### Capítulo II. Derechos de los periodistas y de las personas defensoras de derechos humanos
 
@@ -241,47 +243,79 @@ Integración del Consejo Estatal
 
 El Consejo Estatal estará conformado por:
 
-I. El titular de la Secretaría de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-II. El titular de la Procuraduría General de Justicia del Estado;
+I. La persona titular de la Secretaría de Gobierno, quien lo presidirá;
 
-III. El titular de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-IV. El titular de la Secretaría de la Transparencia y Rendición de Cuentas;
+II. La persona titular de la Fiscalía General del Estado de Guanajuato;
 
-V. Un integrante del Consejo del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-VI. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+III. La persona titular de la Secretaría de Seguridad y Paz;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+IV. La persona titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+V. La persona titular de la Comisión Estatal de Búsqueda de Personas;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+VI. La persona titular de la Comisión Estatal de Atención Integral a Victimas;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE OCTUBRE DE 2025)</small>
 
 VII. Tres representantes de las personas defensoras de derechos humanos; y
 
-VIII. Tres representantes de los periodistas.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+VIII. Tres representantes de las personas periodistas.
 
 Los representantes contemplados en las fracciones VII y VIII de este artículo serán elegidos conforme al procedimiento que se establezca en el reglamento de la presente Ley.
 
-Un funcionario de la Secretaría de Gobierno fungirá como Secretario Técnico.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Serán invitados permanentes del Consejo Estatal las personas titulares de la Secretaría de Derechos Humanos y de la Secretaría de la Honestidad.
 
 El cargo de los integrantes del Consejo Estatal será de naturaleza honorífica, por lo que no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones.
 
-Cada integrante del Consejo Estatal deberá designar a su suplente, quien deberá contar con conocimientos en la materia.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Cada integrante del Consejo Estatal podrá designar un suplente, quien deberá contar con conocimientos en la materia. Las personas titulares de las dependencias que forman parte del Consejo deberán asistir por lo menos al cincuenta por ciento de las sesiones ordinarias del mismo.
 
 Sesiones del Consejo Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 16.
 
-El Consejo Estatal sesionará ordinariamente de manera trimestral y extraordinariamente cuando así lo convoque su Presidente o lo solicite la mayoría de sus integrantes.
+El Consejo Estatal sesionará ordinariamente de manera bimestral y extraordinariamente cuando así lo convoque su Presidencia o lo solicite la mayoría de sus integrantes.
 
-El Consejo Estatal sesionará válidamente con la asistencia de la mitad más uno de sus integrantes. Los acuerdos se tomarán por mayoría de sus integrantes; en caso de empate, el Presidente tendrá voto dirimente.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+El Consejo Estatal sesionará válidamente con la asistencia de más de la mitad de sus integrantes. Los acuerdos se tomarán por mayoría de votos de sus integrantes presentes y, en caso de empate, la Presidencia tendrá voto dirimente.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+La Presidencia del Consejo Estatal convocará a las sesiones a las autoridades estatales y municipales que deban dar cumplimiento o colaborar en la ejecución de las acciones y medidas establecidas en la presente Ley, cuya asistencia será obligatoria y tendrán derecho a voz.
 
 Se podrá invitar a participar a las sesiones del Consejo Estatal a personas de los sectores público, social o privado atendiendo a los temas a tratar, quienes tendrán derecho a voz.
 
 El funcionamiento del Consejo Estatal se regulará en el reglamento de la Ley.
 
-Atribuciones del Consejo Estatal
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Atribuciones y obligaciones del Consejo Estatal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-El Consejo Estatal tendrá las siguientes atribuciones:
+El Consejo Estatal tendrá las siguientes atribuciones y obligaciones:
 
 I. Determinar, decretar, evaluar, suspender, retirar y, en su caso, modificar las medidas;
 
@@ -301,17 +335,27 @@ VIII. Conocer y resolver el recurso de inconformidad, en los términos de la pre
 
 IX. Realizar acciones que promuevan el derecho al ejercicio periodístico y a la defensa de los derechos humanos; y
 
-X. Las demás que le otorguen esta Ley, su reglamento u otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+X. Emitir pronunciamientos o exhortos para advertir, señalar y atender situaciones en que existan riesgos para la libertad de expresión, la actividad periodística, así como la integridad y seguridad de las personas periodistas y defensoras de derechos humanos;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+XI. Dar seguimiento a las denuncias y querellas presentadas ante el Ministerio Público, así como a las quejas interpuestas ante los organismos de derechos humanos por periodistas y personas defensoras de derechos humanos, cuando sean referentes a daños o agresiones sufridas en el marco o con motivo de su actividad; y
+
+XII. Las demás que le otorguen esta Ley, su reglamento u otras disposiciones aplicables.
 
 ### Capítulo VII. Secretaría Técnica
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
 
 Secretaría Técnica
 
 ###### Artículo 18.
 
-La Secretaría Técnica se coordinará con las dependencias de la administración pública del Estado y de los municipios para cumplir con el objeto de la presente Ley.
+La persona titular de la Secretaría de Gobierno designará a una persona servidora pública de dicha dependencia que tendrá a su cargo la Secretaría Técnica del Consejo Estatal, la cual deberá tener experiencia enfocada en derechos humanos.
 
-Un servidor público adscrito a la Secretaría de Gobierno, especializado en derechos humanos, fungirá como el responsable de aplicar y dar seguimiento a las medidas establecidas en la presente Ley.
+La Secretaría Técnica se coordinará con las dependencias y entidades de la administración pública del Estado y de los municipios para cumplir con el objeto de la presente Ley.
 
 Atribuciones de la Secretaría Técnica
 
@@ -319,11 +363,15 @@ Atribuciones de la Secretaría Técnica
 
 La Secretaría Técnica tendrá las siguientes atribuciones:
 
-I. Actuar como la autoridad receptora y compilatoria de los casos de agresiones apersonas (sic) defensoras de derechos humanos y periodistas, e informar al Consejo Estatal;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+I. Actuar como autoridad receptora y compilatoria de casos de agresiones a personas defensoras de derechos humanos y periodistas, e informar al Consejo Estatal;
 
 II. Recibir y dar el trámite correspondiente a las solicitudes de protección a personas defensoras de derechos humanos y periodistas;
 
-III. Ejecutar las medidas en cada caso concreto;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+III. Ejecutar y dar seguimiento a las medidas en cada caso concreto;
 
 IV. Coordinarse con la Federación para el caso de acciones que requieran su apoyo;
 
@@ -339,9 +387,15 @@ IX. Promover procesos de formación continua para las personas defensoras de der
 
 X. Presentar o promover denuncias ante la instancia competente;
 
-XI. Proponer a la consideración y aprobación del Consejo Estatal mejoras y actualización de las medidas; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-XII. Las demás que le confiera la presente Ley, su reglamento, o por acuerdo del Consejo Estatal.
+XI. Proponer a la consideración y aprobación del Consejo Estatal mejoras y actualización de las medidas;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+XII. Brindar asesoría jurídica especializada a personas defensoras de derechos humanos y periodistas, sobre sus derechos y obligaciones; y
+
+XIII. Las demás que le confiera la presente Ley, su reglamento, o por acuerdo del Consejo Estatal.
 
 ### Capítulo VIII. Agresiones y atención a través de las medidas
 
@@ -359,7 +413,13 @@ III. Se destruyan o dañen los bienes de las personas, grupos, organizaciones o 
 
 IV. Se violente el derecho humano de libertad de expresión y de defensa de derechos humanos a través de una acción u omisión, censura o represión; y
 
-V. Se actualicen los requisitos establecidos en el Atlas de Riesgo.
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+V. Una persona servidora pública utilice recursos públicos o se valga de su posición o atribuciones para causar un daño o amenazar con causarlo a periodistas, a personas defensoras de derechos humanos o a las personas a que se refiere la fracción II de este artículo; y
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+VI. Se actualicen los supuestos establecidos en el Atlas de Riesgo.
 
 Atención a través de las medidas
 
@@ -381,6 +441,8 @@ V. Las demás que se establezcan en el reglamento de la presente Ley.
 
 ### Capítulo IX. Medidas de prevención, medidas preventivas, medidas de protección y medidas urgentes de protección
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
 Principios rectores de las medidas
 
 ###### Artículo 22.
@@ -389,19 +451,29 @@ Las medidas tendrán como principios rectores los siguientes:
 
 I. Idoneidad;
 
-II. Coordinación y concurrencia;
+II. Inmediatez;
 
-III. Eficacia;
+III. Coordinación y concurrencia;
 
-IV. Prevención;
+IV. Eficacia;
 
-V. Temporalidad;
+V. Prevención;
 
-VI. Igualdad;
+VI. Temporalidad;
 
-VII. Equidad; y
+VII. Igualdad;
 
-VIII. Perspectiva de género.
+VIII. Equidad;
+
+IX. Legalidad;
+
+X. Pro persona;
+
+XI. Consentimiento;
+
+XII. Objetividad; y
+
+XIII. Perspectiva de género.
 
 Medidas de prevención
 
@@ -427,9 +499,15 @@ I. Cursos de autoprotección, instructivos y manuales;
 
 II. Acompañamiento de observadores de derechos humanos y periodistas;
 
-III. La capacitación y formación permanente de los servidores públicos al servicio del Estado en materia de derechos humanos, perspectiva de género, libertad de expresión y análisis de riesgo; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-IV. Las demás que determine el Consejo Estatal.
+III. La capacitación y formación permanente de los servidores públicos al servicio del Estado y sus municipios en materia de derechos humanos, perspectiva de género, libertad de expresión y análisis de riesgo;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+IV. La implementación permanente de campañas de difusión enfocadas a resaltar la importancia de respetar y promover las actividades de las personas defensoras de derechos humanos y periodistas; y
+
+V. Las demás que determine el Consejo Estatal.
 
 Medidas de protección
 
@@ -441,13 +519,35 @@ I. Un sistema de alerta que permita a periodistas y personas defensoras de derec
 
 II. Las acciones para reducir al máximo la exposición al riesgo, de acuerdo a los principios rectores establecidos en esta Ley;
 
-III. Equipo de telefonía;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-IV. Material de protección; y
+III. Equipo de telefonía y números de emergencia;
 
-V. Las demás que determine el Consejo Estatal.
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-Las medidas podrán ser individuales o colectivas, y serán acordes con las necesidades de cada caso; mismas que se realizarán, determinarán, implementarán y evaluarán de común acuerdo con los beneficiarios.
+IV. Asignación de seguridad personal, vigilancia en domicilio y en traslados;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+V. Material de protección como chalecos antibalas, vehículos blindados, cámaras de vigilancia, equipos de geolocalización y georeferenciación, reforzamiento de domicilio, entre otros;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+VI. Instalación de sistemas de seguridad en el inmueble o inmuebles que se determinen en la evaluación de riesgo;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+VII. Resguardo del beneficiario y, en su caso, de sus familiares; y
+
+VIII. Las demás que determine el Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+La medida de protección prevista en la fracción V, en lo relativo a las cámaras de vigilancia, equipos de geolocalización y georeferenciación, podrán, en su caso, vincularse con el Sistema Estatal de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia o sus equivalentes en el ámbito municipal.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Las medidas podrán ser individuales o colectivas. Se realizarán, determinarán, implementarán y evaluarán de común acuerdo con los beneficiarios en relación con las necesidades de cada hecho, en los términos del reglamento de la presente Ley.
 
 Medidas urgentes de protección
 
@@ -455,9 +555,15 @@ Medidas urgentes de protección
 
 Las medidas urgentes de protección incluyen:
 
-I. La seguridad personal y la de los señalados en esta Ley, a través de cuerpos especializados;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-II. Evacuación del beneficiario y reubicación temporal del domicilio;
+I. La seguridad personal y la de los señalados en esta Ley, a través de los elementos de seguridad pública adscritos a la Secretaría de Seguridad y Paz o de los municipios, en los términos que determine el Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+II. Evacuación del beneficiario y reubicación temporal del domicilio.
+
+Cuando exista una reubicación, el Consejo Estatal, a través de las instancias competentes, brindará los apoyos necesarios para las personas beneficiarias;
 
 III. Protección de bienes inmuebles;
 
@@ -465,7 +571,9 @@ IV. Aquellas que se requieran para salvaguardar la vida, integridad, patrimonio 
 
 V. Las demás que determine el Consejo Estatal.
 
-Las medidas urgentes de protección se decretarán sin perjuicio de aquellas que dicten otras autoridades, debiendo dar vista al Consejo Estatal.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Las medidas urgentes de protección se decretarán en relación con las necesidades de cada hecho, en los términos del reglamento de la presente Ley, sin perjuicio de aquellas que dicten otras autoridades, debiendo dar vista al Consejo Estatal.
 
 Retiro de las medidas
 
@@ -526,6 +634,10 @@ Recursos presupuestales
 ###### Artículo 33.
 
 El titular del Poder Ejecutivo deberá asignar de manera progresiva recurso presupuestal necesario para garantizar la implementación de las medidas y los fines de esta Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Los recursos deberán estar plenamente identificados en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
 
 ### Capítulo X. Recurso de inconformidad
 
@@ -622,3 +734,15 @@ P.O. 27 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 56, POR EL QUE SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 3 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 83 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazo para reformar disposiciones reglamentarlas
+
+Artículo Segundo. La persona titular del Poder Ejecutivo dispondrá de noventa días posteriores a la entrada en vigor del presente Decreto, para realizar las adecuaciones a los reglamentos correspondientes.
