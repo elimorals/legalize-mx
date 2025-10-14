@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-y-manejo-integral-e-institucional-de-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-06"
-last_updated: "2025-10-02"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 6 de diciembre de 2013.
 
@@ -361,6 +361,10 @@ El Estado y los municipios coordinarán y supervisarán las acciones de prevenci
 
 Se consideran prioritarias las zonas incendiadas, especialmente las que hayan sufrido incendios reiterados. En los programas de reforestación que promueva y apoye la CONAFOR se dará énfasis a la demanda y necesidades de campesinos, comunidades indígenas y de la sociedad en general que participe como propietario, poseedor o usufructuario de terrenos forestales, preferentemente forestales y temporalmente forestales; a precisar en cada tipo de reforestación de acuerdo con sus objetivos, especies a plantar y a reproducir en los viveros, metas a lograr especialmente en términos de calidad de la planta y mayor supervivencia en el terreno; así como a establecer un sistema de incentivos para la reforestación y su mantenimiento durante los primeros años sobre bases de evaluación de resultados.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+En las zonas que han sufrido incendios reiterados se procurará la implementación de manera preventiva de brechas cortafuego o líneas negras a efecto de proteger la zona para evitar la ocurrencia de incendios.
+
 ### Capítulo II. De los Permisos
 
 ###### ARTÍCULO 26.
@@ -678,6 +682,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0266.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0278.- QUE REALIZA ADICIÓN AL ARTÍCULO 25, DE LA LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
