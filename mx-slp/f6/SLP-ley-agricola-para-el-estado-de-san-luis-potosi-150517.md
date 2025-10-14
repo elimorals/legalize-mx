@@ -4,7 +4,7 @@ identifier: "SLP-ley-agricola-para-el-estado-de-san-luis-potosi-150517"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-05"
-last_updated: "2025-07-03"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 2021.
 
@@ -601,9 +601,11 @@ La SEDARH, en coordinación con las instituciones y centros de investigación, f
 
 La SEDARH con el apoyo de entidades estatales, federales, y organismos auxiliares supervisará y vigilará a las personas físicas o jurídicas colectivas, públicas o privadas en el adecuado manejo de obras y prácticas de suelo que lleven a cabo, en concordancia con esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 53.
 
-Los productores que realicen obras y prácticas de manejo y conservación de suelo y agua; así como prácticas de rehabilitación, tendrán prioridad en los programas que para el caso se establezcan.
+Los productores que realicen obras y prácticas de manejo y conservación de suelo y agua, las prácticas de rehabilitación, las zonas con menor desarrollo económico y social, así como los proyectos productivos que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático tendrán prioridad en los programas que para el caso se establezcan.
 
 ###### ARTÍCULO 54.
 
@@ -1058,6 +1060,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0223.- QUE ADICIONA EL ARTÍCULO 38 BIS A LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EL ARTÍCULO 79 BIS A LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0279.- QUE REFORMA EL ARTÍCULO 53, DE LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
