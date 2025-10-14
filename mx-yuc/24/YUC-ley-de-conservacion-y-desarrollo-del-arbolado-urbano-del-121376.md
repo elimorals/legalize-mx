@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-conservacion-y-desarrollo-del-arbolado-urbano-del-121376
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-10"
-last_updated: "2019-07-31"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE CONSERVACIÓN Y DESARROLLO DEL ARBOLADO URBANO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento II, del Diario Oficial del Estado de Yucatán, el miércoles 10 de mayo de 2017.
 
@@ -129,7 +129,9 @@ Reforestación: Establecimiento inducido de vegetación para la conformación de
 
 Replantación: Reposición de plantas muertas en una plantación.
 
-Restitución: Restablecimiento de la situación ambiental, mediante compensación física o económica, por el daño ocasionado en áreas arboladas por el incumplimiento de las disposiciones en la materia.
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+Restitución: Restablecimiento de la situación ambiental, mediante compensación física, por el derribo o por el daño ocasionado en áreas arboladas por el incumplimiento de las disposiciones en la materia. Únicamente la restitución por poda podrá ser satisfecha mediante compensación económica.
 
 > <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -185,7 +187,9 @@ g) Promover la participación ciudadana en materia de cuidado, conservación y p
 
 h) Fomentar la suscripción de convenios y acuerdos de coordinación con la federación, otros estados, ayuntamientos y organismos auxiliares, para el cumplimiento de los objetivos de esta ley.
 
-II.- Fomentar y establecer mecanismos de coordinación con los ayuntamientos para elaborar, monitorear y actualizar los Inventarios municipales del arbolado urbano.
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+II.- Fomentar, establecer, monitorear y actualizar los mecanismos en coordinación con los ayuntamientos, para elaborar los Inventarios municipales del arbolado urbano.
 
 III.- Fomentar el establecimiento y operación de viveros públicos y comunitarios, que garanticen el abastecimiento en cantidad y calidad de los árboles de especies adecuadas para la arborización, según los parámetros requeridos en la presente Ley.
 
@@ -611,6 +615,12 @@ III.- Resulte improcedente la viabilidad para el trasplante.
 
 IV.- No sea posible realizar el trasplante, según lo establecido por esta Ley.
 
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+V.- Se establezca el lugar para la plantación de los árboles para su restitución, sea este el propuesto por el solicitante o determinado por la autoridad municipal, en los
+
+términos establecidos en la fracción XX del artículo 58.
+
 ###### Artículo 55.
 
 Para que el dictamen técnico resuelva la autorización de trasplante, se debe constatar que:
@@ -642,6 +652,10 @@ IV.- El registro fotográfico del árbol, que permita observar sus condiciones g
 V.- Domicilio y ubicación del árbol o árboles a tratar.
 
 VI.- En su caso, declarar si se tratare de un caso de riesgo, alto riesgo o emergencia, según lo señalado por esta Ley.
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+VII.- En caso de derribo, se deberá proponer el sitio de plantación de los árboles, para su restitución en los términos establecidos en la fracción XX del artículo 58.
 
 Las solicitudes a que hace referencia este artículo, serán resueltas en un lapso de quince días hábiles, a partir de su presentación y notificadas al solicitante por vía electrónica o personal.
 
@@ -731,11 +745,15 @@ c) La cantidad o monto de dinero para la restitución económica, o la cantidad 
 
 XX. En caso de manifestarse la viabilidad del derribo, se deberá indicar, además:
 
-a) La viabilidad de restitución cerca o en el sitio del derribo, dependiendo de las condiciones del lugar, o si será necesario que la autoridad municipal determine un lugar para la restitución.
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+a) La viabilidad de restitución cerca o en el sitio del derribo, dependiendo de las condiciones del lugar propuesto por el solicitante, o si será necesario que la autoridad municipal determine un lugar para la restitución.
 
 b) Especificar las especies de árboles recomendadas para la restitución dependiendo del sitio del derribo y las condiciones del lugar.
 
-c) La cantidad o monto de dinero o especies a plantar para la restitución económica, o física, dependiendo de la afectación ecológica causada por el derribo.
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+c) La cantidad de especies a plantar, que debe atender, por lo menos, a la proporción cuatro árboles por cada árbol derribado, para su restitución, dependiendo de la afectación ecológica causada por el derribo.
 
 XXI. En caso de manifestarse la viabilidad del trasplante, se deberá indicar, las dimensiones que deberán tener la cepa y el cepellón o envase.
 
@@ -1043,6 +1061,10 @@ Será responsabilidad de quien realice los trabajos de poda y derribo del arbola
 
 En caso que sea posible, se deberá de preceder a trasplantar el árbol o los árboles en el lugar en donde estime conveniente la autoridad municipal.
 
+> <small>(ADICIONADO, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+En caso de derribo o trasplante, se deberá proponer el sitio de plantación de los árboles, para su restitución, en los términos establecidos en la fracción XX del artículo 58.
+
 ###### Artículo 100.
 
 Una vez agotados los plazos a que hace referencia el artículo anterior, habiendo comparecido o no el presunto infractor en el procedimiento administrativo, la Autoridad Municipal procederá dentro de los diez días hábiles siguientes, a emitir la resolución definitiva debidamente fundada y motivada, en la que se impondrán, en su caso, las sanciones que correspondan por la comisión de las infracciones o contravenciones establecidas en esta Ley; debiendo considerar para su imposición, las circunstancias previstas en el artículo 104 de esta Ley.
@@ -1192,3 +1214,25 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 115/2025 POR EL QUE SE MODIFICAN LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN Y LA LEY DE CONSERVACIÓN Y DESARROLLO DEL ARBOLADO URBANO DEL ESTADO DE YUCATÁN, EN MATERIA DE PROTECCIÓN DE LA FLORA NATIVA Y ENDÉMICA Y CONSERVACIÓN DEL ARBOLADO URBANO".]
+
+Entrada en vigor.
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación
+
+en el Diario Oficial del Estado de Yucatán.
+
+Obligatoriedad municipal.
+
+Artículo segundo. A los Ayuntamientos se les da un plazo de noventa días naturales contado a partir de la entrada en vigor del presente decreto, para efectuar las adecuaciones al reglamento que corresponda en los términos del presente decreto.
+
+Obligatoriedad al ejecutivo.
+
+Artículo tercero. El Poder Ejecutivo del Estado, tendrá un plazo de 180 días hábiles, para realizar los listados a los que se hace referencia en el artículo 114 septendecies, contados a partir de la entrada en vigor del presente decreto.
+
+Cláusula derogatoria.
+
+Artículo cuarto. Se derogan las disposiciones que se opongan al presente decreto.
