@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-desarrollo-y-competitividad-economica-del-96616"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2024-06-07"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -657,19 +657,13 @@ La Secretaría impulsará acciones para acercar productos financieros accesibles
 
 #### Sección Séptima. Capacitación del capital humano y certificación de su competencia laboral
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2020)</small>
-
-Políticas en materia de capacitación para el trabajo
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 27.
 
-La Secretaría, en el ámbito de su competencia y en coordinación con el Instituto responsable de la innovación en el estado de Guanajuato, la Secretaría de Educación, así como los organismos estatales que otorguen capacitación orientarán las políticas en materia de capacitación para el trabajo que se identifiquen con la problemática y el modelo de desarrollo económico de cada zona y región económica.
+La Secretaría, en el ámbito de su competencia y en coordinación con el Instituto responsable de la innovación en el estado de Guanajuato, el Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, la Secretaría de Educación, así como los organismos estatales que otorguen capacitación orientarán las políticas en materia de capacitación para el trabajo que se identifiquen con la problemática y el modelo de desarrollo económico de cada zona y región económica.
 
-La Secretaría promoverá en coordinación con la Secretaría de Educación y el Instituto responsable de la innovación en el estado de Guanajuato la inclusión en los programas académicos en los niveles medio superior y superior autorizados por ésta, actividades vinculadas con la cultura emprendedora.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
-
-La Secretaría fomentará en coordinación con la Secretaría de Educación el uso de microcredenciales con la finalidad de promover acciones enfocadas a favorecer la obtención de empleo, así como la permanencia y mejoría de oportunidades en el mercado de trabajo.
+La Secretaría promoverá en coordinación con la Secretaría de Educación, el Instituto responsable de la innovación en el estado de Guanajuato, y el Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato la inclusión en los programas académicos en los niveles medio superior y superior autorizados por ésta, actividades vinculadas con la cultura emprendedora.
 
 Capacitación y adiestramiento
 
@@ -697,13 +691,17 @@ Promoción del reconocimiento de certificaciones de competencia laboral
 
 La Secretaría promoverá el reconocimiento de las certificaciones de competencia laboral en los diferentes sectores, industrias, empresas y las instituciones educativas.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Artículo 31 bis. La Secretaría, promoverá la incorporación de estudiantes en proceso de realización del servicio social profesional en los sectores económicos, industrias, empresas e instituciones públicas de conformidad con la legislación de la materia.
+
 #### Sección Octava. Promoción del empleo productivo
 
-Fomento del empleo
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 32.
 
-La Secretaría, en coordinación con los sectores social, privado y la comunidad académica, fomentará el empleo de manera permanente, la capacitación y los programas de incremento a la productividad, orientándose preferentemente hacia el desarrollo de las vocaciones económicas de los municipios.
+La Secretaría, en coordinación con los sectores social, privado y la comunidad académica, fomentará el empleo de manera permanente, la capacitación, prestación del servicio profesional y los programas de incremento a la productividad, orientándose preferentemente hacia el desarrollo de las vocaciones económicas de los municipios.
 
 Objeto de la promoción de la capacitación productiva
 
@@ -1116,3 +1114,9 @@ P.O. 7 DE JUNIO DE 2024.
 Inicio de vigencia del Decreto
 
 Único. La vigencia del presente decreto iniciará a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 84 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO Y LA COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
