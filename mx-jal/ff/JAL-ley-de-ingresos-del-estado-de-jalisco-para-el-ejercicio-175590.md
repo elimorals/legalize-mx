@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-175590"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-17"
-last_updated: "2025-08-28"
+last_updated: "2025-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2025
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección VIII del Número 19 del Periódico Oficial del Estado de Jalisco, el martes 17 de diciembre de 2024.
 
@@ -249,6 +249,14 @@ k) Por transmisión de partes sociales de personas jurídicas de carácter civil
 
 Si al aplicar la tasa anterior resulta un derecho inferior a $575.00, se cobrará ésta cantidad.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Ningún pago de derechos que se derive de aplicar lo dispuesto en esta fracción, por servicio individual prestado, podrá ser mayor a $250,000.00.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+El tope anterior se aplicará por cada uno de los actos, contratos o resoluciones a registrar, no obstante, se encuentren en un solo documento, escritura, acta o póliza mercantil.
+
 II. Por registro de estatutos de persona moral extranjera: $9,672.00
 
 III. Por el registro de acciones urbanísticas, como subdivisiones o fusiones, entre otras, ejecutadas en predios, lotes o manzanas:
@@ -379,7 +387,9 @@ El pago por la expedición de certificados con entrega a domicilio, se hará agr
 
 En los casos de permuta de inmuebles o de derechos reales, los derechos de registro se causarán conforme al inciso a) de la fracción I del artículo 16 de esta Ley, sobre el valor de cada uno de los inmuebles o derechos reales permutados.
 
-Por la inscripción o reinscripción de providencias precautorias, embargos y aseguramientos, sobre el monto total de lo reclamado o, en su defecto, sobre el valor catastral del inmueble sujeto a embargo, se cobrará el 0.50%.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Por la inscripción o reinscripción de providencias precautorias, embargos y aseguramientos, sobre el monto total de lo reclamado o, en su defecto, sobre el valor catastral del inmueble sujeto a embargo, se cobrará el 0.50% sin que exceda de $250,000.00
 
 Si al aplicar las tasas anteriores, resulta un derecho inferior a $575.00, se cobrará esta cantidad.
 
@@ -2460,3 +2470,9 @@ P.O. 28 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29852/LXIV /25 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE MODIFICA LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2025”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29860/LXIV/25 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE MODIFICA LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2025".]
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
