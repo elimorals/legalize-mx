@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-para-la-construccion-y-130700"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-09-21"
-last_updated: "2019-10-11"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA CONSTRUCCIÓN Y CONSERVACIÓN DE OBRA PÚBLICA EN YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el viernes 21 de septiembre de 2018.
 
@@ -267,11 +267,35 @@ XIV. Efectuar la supervisión arquitectónica de las obras que ejecute el Instit
 
 XV. Elaborar los presupuestos base de todas las obras públicas a programar o ejecutarse, y
 
-XVI. Las demás que le sean encomendadas por el Director General.
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+XVI. Formular, revisar y dictaminar la procedencia jurídica de los procesos de adjudicación de las adquisiciones y los arrendamientos de bienes muebles, tanto en materia estatal como federal, en que esté involucrado el Instituto;
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección Técnica contará con la Subdirección Técnica, los Departamentos de Diseño, de Ingenierías, de Normatividad y Procesos, y de Costos, y las demás unidades administrativas que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+XVII. Preparar, previa autorización del Director General, las adjudicaciones de obra pública, servicios relacionados con las mismas y de servicios conexos que requiera el Instituto, a solicitud de cualquiera de sus directores, y elaborar las bases, las convocatorias, los términos de referencia, los anexos técnicos y la demás documentación que se requiera para ello;
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+XVIII. Realizar los actos que integran los procesos de licitación, de invitación restringida y de asignación directa de las obras públicas y los servicios conexos, de conformidad con la normativa aplicable;
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+XIX. Realizar los actos que integran los procesos de licitación y de invitación restringida en materia de adquisiciones y arrendamientos de bienes muebles, tanto en el orden estatal como federal, de conformidad con la normativa aplicable;
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+XX. Evaluar las proposiciones presentadas por los licitantes, con la colaboración de la dirección del Instituto que solicite el concurso;
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+XXI. Elaborar los dictámenes que sustenten los fallos que emita el Director General del Instituto respecto de los concursos celebrados, y
+
+XXII. Las demás que le sean encomendadas por el Director General.
+
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección Técnica contará con la Subdirección Técnica, los Departamentos de Diseño, de Ingenierías, de Normatividad y Procesos, de Costos y Concursos, y las demás unidades administrativas que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
 
 ###### ARTÍCULO 14.
 
@@ -409,37 +433,25 @@ XXVII. Fijar, sistematizar, unificar y difundir para efectos administrativos los
 
 XXVIII. Formular, implementar, revisar y dictaminar la procedencia jurídica de las bases de los procesos de adjudicación de obras públicas y servicios conexos o relacionados con las mismas, de los contratos, convenios y demás actos jurídicos que deriven en obligaciones del Instituto;
 
-> <small>(REFORMADA, D.O. 11 DE OCTUBRE DE 2019)</small>
-
-XXIX. Formular, revisar y dictaminar la procedencia jurídica de los procesos de adjudicación de las adquisiciones y los arrendamientos de bienes muebles, tanto en materia estatal como federal, en que esté involucrado el Instituto;
+XXIX. (DEROGADA, D.O. 14 DE OCTUBRE DE 2025)
 
 XXX. Intervenir en la investigación de los actos o hechos que causen o puedan causar daños o perjudicar los intereses del Instituto;
 
-> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+XXXI. (DEROGADA, D.O. 14 DE OCTUBRE DE 2025)
 
-XXXI. Preparar, previa autorización del Director General, las adjudicaciones de obra pública, servicios relacionados con las mismas y de servicios conexos que requiera el Instituto, a solicitud de cualquiera de sus directores, y elaborar las bases, las convocatorias, los términos de referencia, los anexos técnicos y la demás documentación que se requiera para ello;
+XXXII. (DEROGADA, D.O. 14 DE OCTUBRE DE 2025)
 
-> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+XXXIII. (DEROGADA, D.O. 14 DE OCTUBRE DE 2025)
 
-XXXII. Realizar los actos que integran los procesos de licitación, de invitación restringida y de asignación directa de las obras públicas y los servicios conexos, de conformidad con la normativa aplicable;
+XXXIV. (DEROGADA, D.O. 14 DE OCTUBRE DE 2025)
 
-> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
-
-XXXIII. Realizar los actos que integran los procesos de licitación y de invitación restringida en materia de adquisiciones y arrendamientos de bienes muebles, tanto en el orden estatal como federal, de conformidad con la normativa aplicable;
-
-> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
-
-XXXIV. Evaluar las proposiciones presentadas por los licitantes, con la colaboración de la dirección del Instituto que solicite el concurso;
-
-> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
-
-XXXV. Elaborar los dictámenes que sustenten los fallos que emita el Director General del Instituto respecto de los concursos celebrados, y
+XXXV. (DEROGADA, D.O. 14 DE OCTUBRE DE 2025)
 
 XXXVI. Las demás que le sean encomendadas por el Director General.
 
-> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2025)</small>
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección Jurídica contará con los Departamentos de Concursos, de Contratos y de Vinculación y Transparencia, y las demás unidades administrativas que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
+Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección Jurídica contará con los Departamentos de Contratos y de Vinculación y Transparencia, y las demás unidades administrativas que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
 
 ## TRANSITORIOS
 
@@ -451,7 +463,7 @@ Aprobado por la Junta de Gobierno del Instituto para la Construcción y Conserva
 
 ( RÚBRICAS )
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O. 11 DE OCTUBRE DE 2019.
 
@@ -464,3 +476,15 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El director general del Instituto para la Construcción y Conservación de Obra Pública en Yucatán deberá inscribir en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas la modificación del Estatuto Orgánico del Instituto para la Construcción y Conservación de Obra Pública en Yucatán contenida en este acuerdo, dentro de un plazo de treinta días naturales, contado a partir de su entrada en vigor.
+
+D.O. 14 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL "ACUERDO INCCOPY 01/2025 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA CONSTRUCCIÓN Y CONSERVACIÓN DE OBRA PÚBLICA EN YUCATÁN".]</small>
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto para la Construcción y Conservación de Obra Pública en Yucatán, deberá inscribir en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas la modificación del Estatuto Orgánico del Instituto para la Construcción y Conservación de Obra Pública en Yucatán contenida en este acuerdo, dentro de un plazo de treinta días naturales, contado a partir de su entrada en vigor.
