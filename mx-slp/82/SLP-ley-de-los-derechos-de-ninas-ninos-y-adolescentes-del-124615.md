@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2025-06-23"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -105,7 +105,9 @@ XIII. Niñas, niños y adolescentes que sufren de enfermedades o trastornos ment
 
 Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades realizarán las acciones y tomarán medidas, de conformidad con los principios establecidos en la presente Ley. Para tal efecto, deberán:
 
-I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos y de género, en el diseño y la instrumentación de políticas y programas de gobierno;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos, de género y de infancia y adolescencia, en el diseño y la instrumentación de políticas y programas de gobierno;
 
 II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
@@ -231,15 +233,29 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 13.
 
-La protección de los derechos de niñas, niños y adolescentes tiene como objetivo asegurarles un desarrollo pleno con perspectiva de género, lo que implica que tengan la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad. Para ello, son principios rectores de la observancia, interpretación y aplicación de esta Ley, los siguientes:
+La protección de los derechos de niñas, niños y adolescentes tiene como objetivo asegurarles un desarrollo pleno con perspectiva de género, de infancia y adolescencia, lo que implica que tengan la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad. Para ello, son aplicación de esta Ley, los siguientes:
 
-I. El interés superior de la niñez;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE OCTUBRE DE 2025)</small>
+
+I.- El de interés superior, es primordial para el bienestar de las niñas, niños y adolescentes ante cualquier otro interés que vaya en su perjuicio, siendo primordial en la actuación de las autoridades encargadas de las acciones de defensa y representación jurídica; así como las de asistencia, provisión, prevención, protección y participación de las niñas, niños y adolescentes, en la ejecución de las siguientes acciones:
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+a).- Atención a niñas, niños y adolescentes en los servicios públicos; y
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+b).- Formulación y ejecución de políticas públicas relacionadas con niñas, niños y adolescentes.
 
 II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en el artículo 7° de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, así como en los tratados internacionales;
 
-III. La igualdad sustantiva;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+III. La igualdad sustantiva, concerniente a niñas, niños y adolescentes;
 
 IV. La no discriminación;
 
@@ -2850,5 +2866,13 @@ P.O. 23 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0274.- QUE REFORMA EL ARTÍCULO 4° Y REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 13, DE LA LEY DE LOS DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
