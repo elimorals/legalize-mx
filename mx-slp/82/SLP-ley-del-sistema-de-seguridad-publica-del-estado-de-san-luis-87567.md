@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2025-05-22"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -2525,6 +2525,10 @@ Cuando mediante el uso de los dispositivos de videovigilancia, se detecte la pos
 
 Las instituciones de seguridad pública del Estado y municipios podrán instalar y operar dispositivos fijos o móviles de videovigilancia pública tales como, cámaras, radares, lectores de matrículas u otros para detectar y acreditar hechos que constituyan infracciones a las normas de tránsito, y apoyarse en esa evidencia para imponer las sanciones que procedan, conforme a las disposiciones constitucionales, legales y reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+De igual forma, podrán instalar dispositivos de videograbación en los vehículos operativos de las corporaciones de seguridad pública y en los propios elementos de seguridad pública, ello con el fin de dejar registro de la actividad desplegada en el ejercicio de sus funciones.
+
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 155.
@@ -3256,3 +3260,9 @@ P.O. 22 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0200.- QUE REFORMA Y ADICIONA EL ARTÍCULO 57, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0276.- QUE REALIZA ADICIÓN AL ARTÍCULO 154, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación del (sic) el Periódico Oficial del Estado “Plan de San Luis”.
