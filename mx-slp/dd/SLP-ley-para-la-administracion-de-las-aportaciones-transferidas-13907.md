@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2024-03-13"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -667,11 +667,11 @@ VI. Un Equipo de Asesores Técnicos, conformado preferentemente por el Secretari
 
 Los Asesores Técnicos sólo tendrán participación con voz pero no con voto. Los demás miembros del Consejo participarán con voz y voto. En caso de empate el Presidente tendrá voto de calidad. La participación de los miembros del Consejo será de carácter honorífico.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-###### ARTICULO 67.
+###### ARTÍCULO 67.
 
-El Consejo electo se constituirá formalmente en asamblea con mayoría simple, durante el cuarto mes de ejercicio de funciones del nuevo ayuntamiento, lo cual se hará constar en un acta; debiendo presentar su Reglamento Interno para su aprobación en la primera asamblea que celebre.
+El Consejo electo se constituirá formalmente en asamblea con mayoría simple, durante el sexto mes de ejercicio de funciones del nuevo ayuntamiento, lo cual se hará constar en un acta; debiendo presentar su Reglamento Interno para su aprobación en la primera asamblea que celebre.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
@@ -1054,3 +1054,11 @@ P.O. 13 DE MARZO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0277.- QUE REFORMA EL ARTÍCULO 101, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA EL ARTÍCULO 67, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
