@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-centro-de-justicia-para-las-mujeres-del-estado-de-12236
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2025-03-05"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
@@ -134,6 +134,10 @@ XVIII. Poder Judicial del Estado, y
 XIX. Fiscalía General del Estado.
 
 El Centro podrá celebrar convenio con los ayuntamientos de los municipios en donde se establezca, a fin de que estos últimos integren una representación municipal en las instalaciones del Centro, a través del DIF Estatal o, en su caso, de la instancia municipal que atienda a las mujeres; así mismo, para acordar que el municipio se haga cargo de los servicios municipales que requiera el Centro para su operación y funcionamiento.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Para el establecimiento de las representaciones municipales del Centro de Justicia para las Mujeres, se deberán priorizar los municipios con mayor índice de violencia contra las mujeres, con base en las estadísticas oficiales en materia de violencia de género.
 
 ###### ARTÍCULO 4°.
 
@@ -1434,3 +1438,11 @@ Décimo. Las entidades que se mencionan en este Decreto darán cuenta de su cont
 Décimo Primero. La Secretaría de Finanzas del Poder Ejecutivo del Estado de San Luis Potosí, deberá llevar a cabo las acciones presupuestales necesarias, las que en su caso, deberá remitirlas al Congreso del Estado de San Luis Potosí para su aprobación.
 
 Décimo Segundo. El personal que se transfiera a la nueva Secretaría de las Mujeres e Igualdad Sustantiva conservará sus derechos y prestaciones adquiridas, conforme a la legislación aplicable, asegurando la estabilidad y continuidad en el desempeño de sus funciones.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0280.- QUE REALIZA ADICIÓN AL ARTÍCULO 3º, DE LA LEY DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
