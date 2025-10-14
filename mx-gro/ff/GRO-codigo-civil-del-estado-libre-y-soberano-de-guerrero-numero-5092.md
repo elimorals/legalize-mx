@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2025-07-15"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -2264,6 +2264,18 @@ Si la adopción fuere plena, el adoptado tendrá, respecto de la familia adoptiv
 Los alimentos habrán de ser proporcionados a las posibilidades del que deba darlos y a las necesidades de quien deba recibirlos, mismos que serán determinados por convenio o sentencia.
 
 Para fijar la pensión alimenticia, se tomará en cuenta la capacidad económica del deudor alimentario, y las necesidades de las o los acreedores alimentarios y nunca podrá ser inferior al 40% del salario mínimo vigente, o del salario percibido y de las prestaciones a que tenga derecho; fijada por convenio o sentencia, la pensión alimenticia se incrementará proporcionalmente al aumento salarial, en todo caso el Juez considerará al momento de resolver lo que beneficie a los acreedores alimentarios.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+El derecho a recibir alimentos es imprescriptible, irrenunciable y retroactivo; puede ser reclamado en cualquier momento por quien lo acredite, aun cuando el acreedor o acreedora alimenticia hubiese adquirido la mayoría de edad, podrá solicitar el pago retroactivo de los alimentos que se generaron durante el tiempo que tenía derecho a percibirlo y que no se subsanaron cuando era menor de edad. En este caso el o la juez conocedor de la causa, determinará la circunstancia del pago retroactivo.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Si se dicta una sentencia de reconocimiento de paternidad, la resolución deberá incluir el monto correspondiente a la deuda alimentaria a solicitud de parte, la cual podrá ser desde el día del nacimiento, aun cuando la reconocida o reconocido sea mayor de edad, se podrá solicitar el pago retroactivo de los alimentos que se generaron durante el tiempo que tenía derecho a percibirlos y que no se subsanaron. En este caso el o la juez conocedor de la causa determinará la circunstancia del pago retroactivo.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+El monto que resulte de la deuda alimenticia, como se señala en el párrafo anterior, podrá ser acordada por las partes mediante un convenio y, en ausencia de acuerdo se efectuará conforme a lo establecido en la sentencia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -16014,6 +16026,16 @@ TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 15 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 253, POR EL QUE SE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 2260 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 264, POR EL QUE SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 397 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
