@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-al-medio-ambiente-del-estado-de-yucatan-76517
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-08"
-last_updated: "2024-07-31"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 8 de septiembre de 2010.
 
@@ -49,39 +49,51 @@ La presente Ley es de orden público e interés general y tiene por objeto:
 
 I.- Proteger el ambiente en el Estado de Yucatán, con el fin de regular y evitar efectos nocivos de origen antropogénico y natural;
 
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+II.- Garantizar el derecho de toda persona a vivir en un medio ambiente equilibrado, sostenible y respetuoso de este, así como el acceso equitativo y sustentable de los recursos naturales, promoviendo el uso responsable de los mismos y evitando su deterioro, conforme a los estándares y niveles de protección que determinen las leyes.
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+III.- Reconocer el derecho de toda persona a estar protegida frente a las distintas formas de contaminación, de acuerdo con los estándares y niveles establecidos por las leyes en la materia.
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+IV.- Establecer el deber social de colaborar en la conservación del patrimonio natural y en las acciones orientadas a la prevención, mitigación y eliminación de la contaminación, con el fin de garantizar su preservación para las generaciones presentes y futuras.
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+V.- Garantizar el derecho de acceso a la información ambiental en poder de las autoridades públicas, en los términos previstos por la Constitución General, la Constitución local y las leyes aplicables, asegurando que sea completa, oportuna y accesible para toda la ciudadanía.
+
+VI.- Definir los principios mediante los cuales se formulará, conducirá y evaluará la política ecológica y ambiental del Estado, y establecer los instrumentos para su aplicación;
+
+VII.- Preservar y restaurar el equilibrio de los ecosistemas para mejorar el ambiente en el Estado. Así como prevenir los daños que se puedan causar al mismo, en forma tal que sean compatibles con la obtención de beneficios económicos y las actividades de la sociedad con la conservación y preservación de los recursos naturales y del ambiente;
+
+VIII.- Fijar, administrar, regular, restaurar y vigilar las áreas naturales protegidas de competencia estatal; así como manejar y vigilar aquéllas cuya administración se asuma por convenio con la Federación o los municipios;
+
+IX.- Determinar las competencias y atribuciones del Estado y de los Municipios, conforme a los lineamientos de la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales, Leyes Federales de la materia, la Constitución Política del Estado de Yucatán, y demás ordenamientos aplicables en la materia;
+
+X.- Instituir las bases para la formulación, expedición, ejecución, evaluación y modificación de los programas de ordenamiento ecológico del territorio del Estado de Yucatán;
+
+XI.- Prevenir y controlar la contaminación a la atmósfera, agua y suelo, en el Estado, salvo aquéllos casos que sean de competencia Federal o Municipal;
+
+XII.- (DEROGADA, D.O. 31 DE JULIO DE 2024)
+
 > <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-II.- Garantizar el derecho de todas las personas que habiten en el Estado a disfrutar de un medio ambiente sano;
-
-III.- Definir los principios mediante los cuales se formulará, conducirá y evaluará la política ecológica y ambiental del Estado, y establecer los instrumentos para su aplicación;
-
-IV.- Preservar y restaurar el equilibrio de los ecosistemas para mejorar el ambiente en el Estado. Así como prevenir los daños que se puedan causar al mismo, en forma tal que sean compatibles con la obtención de beneficios económicos y las actividades de la sociedad con la conservación y preservación de los recursos naturales y del ambiente;
-
-V.- Fijar, administrar, regular, restaurar y vigilar las áreas naturales protegidas de competencia estatal; así como manejar y vigilar aquéllas cuya administración se asuma por convenio con la Federación o los municipios;
-
-VI.- Determinar las competencias y atribuciones del Estado y de los Municipios, conforme a los lineamientos de la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales, Leyes Federales de la materia, la Constitución Política del Estado de Yucatán, y demás ordenamientos aplicables en la materia;
-
-VII.- Instituir las bases para la formulación, expedición, ejecución, evaluación y modificación de los programas de ordenamiento ecológico del territorio del Estado de Yucatán;
-
-VIII.- Prevenir y controlar la contaminación a la atmósfera, agua y suelo, en el Estado, salvo aquéllos casos que sean de competencia Federal o Municipal;
-
-IX.- (DEROGADA, D.O. 31 DE JULIO DE 2024)
+XIII.- Regular los mecanismos adecuados para garantizar la reparación de los daños al medio ambiente;
 
 > <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-X.- Regular los mecanismos adecuados para garantizar la reparación de los daños al medio ambiente;
-
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
-
-XI.- Promover la participación corresponsable de las personas, en forma individual o colectiva, para la protección del medio ambiente, la preservación y restauración del equilibrio ecológico y la difusión de las acciones en materia ambiental;
+XIV.- Promover la participación corresponsable de las personas, en forma individual o colectiva, para la protección del medio ambiente, la preservación y restauración del equilibrio ecológico y la difusión de las acciones en materia ambiental;
 
 > <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
 
-XII.- Fomentar el establecimiento de las áreas destinadas voluntariamente a conservación, el reconocimiento de los paisajes bioculturales y la preservación del patrimonio cultural del Estado, y
+XV.- Fomentar el establecimiento de las áreas destinadas voluntariamente a conservación, el reconocimiento de los paisajes bioculturales y la preservación del patrimonio cultural del Estado, y
 
 > <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
 
-XIII.- Considerar los objetivos y las acciones previstos en los tratados y acuerdos internacionales, ambientales y de desarrollo sostenible, de que el Estado mexicano sea parte, para su internalización en los programas y las acciones gubernamentales, así como para propiciar su observancia por parte de la población.
+XVI.- Considerar los objetivos y las acciones previstos en los tratados y acuerdos internacionales, ambientales y de desarrollo sostenible, de que el Estado mexicano sea parte, para su internalización en los programas y las acciones gubernamentales, así como para propiciar su observancia por parte de la población.
 
 ###### Artículo 2.
 
@@ -1835,11 +1847,37 @@ Artículo 114 sexdecies.- El Estado y los ayuntamientos tomarán en cuenta las e
 
 Las estrategias y medidas de gestión territorial que adopte el paisaje biocultural y que sean validadas por la Secretaría, por ser compatibles con la planeación del territorio, serán tomadas en cuenta en la planeación de políticas y acciones que realicen el Poder Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias. De igual forma, los paisajes bioculturales, por conducto de sus órganos de representación, podrán fungir como representantes de la colectividad ante las instancias de coordinación intergubernamental y los diversos órganos auxiliares existentes, de acuerdo con la reglamentación aplicable.
 
-### CAPÍTULO I. De la Participación Social
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO XIV. De la Reforestación, Cuidado y Preservación, de la Flora Nativa y Endémica del Estado
+
+> <small>(ADICIONADO, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+Artículo 114 septendecies.- Se entenderá como flora nativa y endémica del Estado de Yucatán, a todas aquellas especies de árboles y plantas que, por su naturaleza, condiciones y particularidades, solo puedan encontrarse de manera natural, en el área geográfica comprendida dentro del territorio estatal.
+
+Para lo cual, el Poder Ejecutivo por conducto de la Secretaria de Desarrollo Sustentable y aquellos entes públicos locales competentes en la materia, mantendrán actualizado el Listado Estatal de Flora Nativa y Endémica, que contendrá la información de todas y cada una de las especies de árboles y plantas que puedan catalogarse como endémicas del Estado de Yucatán.
+
+Sin perjuicio de lo anterior, se mantendrá en constante actualización, un listado de aquellas especies endémicas que se encuentren en peligro de extinción. El listado, contendrá las principales acciones y políticas públicas para su preservación, forestación y reforestación.
+
+> <small>(ADICIONADO, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+Artículo 114 octodecies.- Para efectos de clasificación científica, las especies comprendidas en el Listado Estatal de Flora Nativa y Endémica serán registradas conforme al sistema de nomenclatura binominal, indicando género, especie, en su caso subespecie y nombre común.
+
+> <small>(ADICIONADO, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+Artículo 114 novodecies.- El Poder Ejecutivo, en conjunto con los poderes públicos estatales, organismos autónomos y los ayuntamientos, implementará políticas públicas dirigidas a la reforestación, cuidado y preservación de la flora nativa y endémica de Yucatán, con el objetivo de impulsar la cultura de respeto al medio ambiente.
+
+> <small>(ADICIONADO, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+Artículo 114 vicies.- La Secretaría de Educación deberá fomentar campañas educativas, con el objetivo de dar a conocer la flora nativa y endémica local, e incentivar y crear conciencia respecto su preservación y cuidado.
+
+> <small>(ADICIONADO, D.O. 14 DE OCTUBRE DE 2025)</small>
+
+Artículo 114 unvicies.- La sociedad civil y la sociedad en general, podrán colaborar de manera conjunta y responsable en los términos que para tal fin acuerde el Poder Ejecutivo del Estado.
 
 ## TÍTULO CUARTO. DE LA PARTICIPACIÓN CIUDADANA Y DIFUSIÓN AMBIENTAL
 
-### CAPÍTULO II. De la Difusión e Información Ambiental
+### CAPÍTULO I. De la Participación Social
 
 ###### Artículo 115.
 
@@ -1865,9 +1903,7 @@ El Poder Ejecutivo podrá convocar a los representantes de organizaciones gubern
 
 Con objeto de lograr la participación ciudadana se promoverá la integración de comisiones y comités, los cuales se constituirán y funcionarán de conformidad a lo establecido en el Reglamento de esta Ley.
 
-### CAPÍTULO III. Consejo Estatal para la Protección del Medio Ambiente
-
-> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+### CAPÍTULO II. De la Difusión e Información Ambiental
 
 ###### Artículo 119.
 
@@ -1889,7 +1925,9 @@ El Sistema Estatal de Información Ambiental deberá contener un mapa georrefere
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 4 DE ENERO DE 2021)</small>
 
-### CAPÍTULO IV. De la Denuncia Ciudadana
+### CAPÍTULO III. Consejo Estatal para la Protección del Medio Ambiente
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 122.
 
@@ -1927,7 +1965,7 @@ Las disposiciones referentes a la estructura, la operación y los integrantes de
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2024)</small>
 
-### CAPÍTULO ÚNICO. Inspección y Vigilancia
+### CAPÍTULO IV. De la Denuncia Ciudadana
 
 ###### Artículo 126.
 
@@ -1947,7 +1985,7 @@ Las disposiciones referentes a la estructura, la operación y los integrantes de
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2024)</small>
 
-### CAPÍTULO I. De las Medidas de Seguridad
+### CAPÍTULO ÚNICO. Inspección y Vigilancia
 
 ###### Artículo 129.
 
@@ -1975,6 +2013,18 @@ Artículo 131 quinquies.- (DEROGADO, D.O. 31 DE JULIO DE 2024)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2024)</small>
 
+### CAPÍTULO I. De las Medidas de Seguridad
+
+###### Artículo 132.
+
+(DEROGADO, D.O. 31 DE JULIO DE 2024)
+
+###### Artículo 133.
+
+(DEROGADO, D.O. 31 DE JULIO DE 2024)
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2024)</small>
+
 ### CAPÍTULO II. De las Infracciones y Sanciones Administrativas
 
 > <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
@@ -1988,18 +2038,6 @@ II.- Realizar cualquier actividad que requiera la factibilidad urbana-ambiental,
 III.- Realizar cualquier obra o actividad contraria al uso del suelo, a la zonificación o a la densidad aplicables al lugar en donde se lleven a cabo dichas conductas, o sin contar con la autorización o el permiso respectivos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2024)</small>
-
-###### Artículo 132.
-
-(DEROGADO, D.O. 31 DE JULIO DE 2024)
-
-###### Artículo 133.
-
-(DEROGADO, D.O. 31 DE JULIO DE 2024)
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2024)</small>
-
-### CAPÍTULO III. De los Delitos Ambientales
 
 ###### Artículo 134.
 
@@ -2058,6 +2096,8 @@ Lo anterior será aplicable sin perjuicio de la reparación del daño ambiental 
 ###### Artículo 142.
 
 (DEROGADO, D.O. 31 DE JULIO DE 2024)
+
+### CAPÍTULO III. De los Delitos Ambientales
 
 ###### Artículo 143.
 
@@ -2202,3 +2242,23 @@ De igual manera, se exceptúan de lo anterior las referencias legales a la Procu
 Cláusula derogatoria
 
 Artículo segundo. Se derogan todas las disposiciones normativas de igual o menor jerarquía que se opongan al presente decreto.
+
+D.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 115/2025 POR EL QUE SE MODIFICAN LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN Y LA LEY DE CONSERVACIÓN Y DESARROLLO DEL ARBOLADO URBANO DEL ESTADO DE YUCATÁN, EN MATERIA DE PROTECCIÓN DE LA FLORA NATIVA Y ENDÉMICA Y CONSERVACIÓN DEL ARBOLADO URBANO”.]
+
+Entrada en vigor.
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Estado de Yucatán.
+
+Obligatoriedad municipal.
+
+Artículo segundo. A los Ayuntamientos se les da un plazo de noventa días naturales contado a partir de la entrada en vigor del presente decreto, para efectuar las adecuaciones al reglamento que corresponda en los términos del presente decreto.
+
+Obligatoriedad al ejecutivo.
+
+Artículo tercero. El Poder Ejecutivo del Estado, tendrá un plazo de 180 días hábiles, para realizar los listados a los que se hace referencia en el artículo 114 septendecies, contados a partir de la entrada en vigor del presente decreto.
+
+Cláusula derogatoria.
+
+Artículo cuarto. Se derogan las disposiciones que se opongan al presente decreto.
