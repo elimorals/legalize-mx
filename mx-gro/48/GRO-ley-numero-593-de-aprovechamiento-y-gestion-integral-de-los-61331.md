@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-593-de-aprovechamiento-y-gestion-integral-de-los-613
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-23"
-last_updated: "2019-04-02"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61331&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 593 DE APROVECHAMIENTO Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de mayo de 2008.
 
@@ -279,9 +279,21 @@ XXVI. Promover ante la Federación, la remediación de suelos contaminados por l
 
 XXVII. Evaluar el desempeño de los sistemas de gestión integral de los residuos de manejo especial para su mejora continúa, en coordinación con la Procuraduría;
 
-XXVIII. Promover y evaluar la implantación de sistemas de manejo ambiental en las dependencias del gobierno estatal; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-XXIX. Las demás atribuciones que se establezcan en esta Ley, las Normas Oficiales Mexicanas y demás ordenamientos jurídicos que resulten aplicables.
+XXVIII. Promover y evaluar la implantación de sistemas de manejo ambiental en las dependencias del gobierno estatal;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+XXIX. Formular, conducir y evaluar la política estatal, así como elaborar de manera coordinada con la Federación los programas en materia de residuos de manejo especial, acordes al Programa Nacional para la Prevención y Gestión Integral de los Residuos, Programa Nacional para la Prevención y Gestión Integral de los Residuos de Manejo Especial y el Programa Nacional de Remediación de Sitios Contaminados, en el marco del Sistema Nacional de Planeación Democrática;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+XXX. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios, incentivando el uso de la composta; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXIX], P.O. 14 DE OCTUBRE DE 2025)
+
+XXXI. Las demás atribuciones que se establezcan en esta Ley, las Normas Oficiales Mexicanas y demás ordenamientos jurídicos que resulten aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -325,9 +337,13 @@ XII.- Proyectar, ejecutar y supervisar, por administración directa o a través 
 
 XIII.- Autorizar el funcionamiento y supervisar la operatividad de sitios e infraestructura para el manejo integral de residuos en el ámbito de su competencia, sujeto a los criterios normativos que establezca la presente Ley y su Reglamento;
 
-XIV.- Establecer programas graduales de separación en la fuente y de recolección selectiva de residuos orgánicos e inorgánicos y los mecanismos para promover su aprovechamiento;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-XV.- Instalar en la vía pública contenedores diferenciados para el depósito separado de residuos sólidos urbanos;
+XIV.- Establecer de manera obligatoria la separación en la fuente con unidades especializadas para la separación de residuos, recolección selectiva de residuos orgánicos e inorgánicos y los mecanismos para promover su aprovechamiento;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+XV.- Instalar en la vía pública en puntos específicos y de conocimiento general de la población, contenedores diferenciados para el depósito separado de residuos sólidos urbanos;
 
 XVI.- Prevenir y controlar la contaminación por la generación, traslado, tratamiento y disposición final de los residuos sólidos urbanos;
 
@@ -367,11 +383,13 @@ XXXIII.- Realizar controles sobre las concesiones para garantizar la competencia
 
 XXXIV.- Llevar un registro y control de empresas y particulares concesionarios dedicados a la prestación del servicio de limpia dentro de la jurisdicción;
 
-XXXV. - Establecer un registro de acuerdo al formato establecido por la SEMAREN, de todos los residuos que lleguen al sito (sic) de disposición final;
+XXXV.- Establecer un registro de acuerdo al formato establecido por la SEMAREN, de todos los residuos que lleguen al sito (sic) de disposición final;
 
 XXXVI.- Emitir un reporte semestral a la SEMAREN, de la disposición de los residuos y entrada y salidas en función de cantidad y tipo de los mismos;
 
-XXXVII.- Conservar y dar mantenimiento al equipamiento e infraestructura urbana de su competencia, y de todos aquellos elementos que determinen el funcionamiento e imagen urbana relacionados con la prestación del servicio de limpia;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+XXXVII.- Conservar y dar mantenimiento de manera regular al equipamiento e infraestructura urbana de su competencia, y de todos aquellos elementos que determinen el funcionamiento e imagen urbana relacionados con la prestación del servicio de limpia;
 
 XXXVIII.- Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en la materia de su competencia y, en su caso, imponer las sanciones que corresponda;
 
@@ -385,7 +403,13 @@ XLII.- Fomentar el aprovechamiento del biogás que se genere en los rellenos san
 
 XLIII.- Emprender por si o en coordinación con las autoridades competentes las acciones de limpieza o saneamiento en los lugares públicos que resulten afectados por desastres tales como siniestros, explosiones, derrumbes, inundaciones o arrastre de residuos por las corrientes pluviales;
 
-XLIV.- Atender los demás asuntos en materia de residuos sólidos que le conceda esta Ley, las Normas Oficiales Mexicanas y demás normatividad aplicable.
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+XLV (SIC).- Sancionar a los sujetos de responsabilidad, que infrinjan lo establecido en el artículo 49 BIS, relativo a la utilización de insumos de un solo uso proporcionados de manera gratuita a través de la instancia correspondiente o policía ambiental; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XLIV], P.O. 14 DE OCTUBRE DE 2025)
+
+XLVI.- Atender los demás asuntos en materia de residuos sólidos que le conceda esta Ley, las Normas Oficiales Mexicanas y demás normatividad aplicable.
 
 ###### ARTÍCULO 10.
 
@@ -689,7 +713,9 @@ Las instituciones educativas y de investigación que sean grandes generadoras de
 
 A la SEMAREN y los Ayuntamientos corresponde:
 
-l.- Difundir a través de los medios de comunicación, de los programas y campañas educativas y de información acerca de temas relacionados con la gestión integral de los residuos como vía de educación en la sociedad;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+I.- Difundir a través de los medios de comunicación, de los programas y campañas educativas y de información acerca de temas relacionados con la gestión integral de los residuos, haciendo énfasis en la separación de residuos en primera instancia como vía de educación en la sociedad;
 
 II.- Promover la participación de las escuelas, universidades, organismos no gubernamentales y demás sectores organizados de la sociedad en programas y actividades vinculadas con educación no formal en la materia;
 
@@ -699,9 +725,17 @@ IV. - Desarrollar los programas de sensibilización ambiental dirigidos a lo (si
 
 V.- Establecer proyectos de sensibilización y orientación al turismo para que éste contribuya a prevenir la contaminación por residuos;
 
-VI.- Implementación de programas tendientes a disminuir la generación de residuos; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-VII.- Instrumentación de programas que fomenten la separación de residuos desde el lugar de su generación para su aprovechamiento.
+VI.- Implementación de programas tendientes a disminuir la generación de residuos:
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+VII.- Expedir programas que informen la obligación de la separación de residuos desde el lugar de su generación para su aprovechamiento; y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+VIII.- Sancionar a los sujetos de responsabilidad, que infrinjan lo establecido en el artículo 49 BIS, relativo a la utilización de insumos de un solo uso proporcionados de manera gratuita a través de la instancia correspondiente o policía ambiental.
 
 ###### ARTÍCULO 38.
 
@@ -765,9 +799,11 @@ Quedan exentos de ésta disposición, los usuarios del servicio público de reco
 
 En el supuesto de que no existieran sitios para la disposición final de los residuos dentro de la jurisdicción de los municipios, que cumplan con los lineamientos de la Norma Oficial Mexicana respectiva, la responsabilidad directa para efectos de la remediación de suelos contaminados será para éstos, conjuntamente con la fuente generadora responsable de la contaminación, recayendo la obligación del municipio en establecer dentro de su jurisdicción los sitios respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 45.
 
-En el supuesto de que los Ayuntamientos establezcan o cuenten con un sistema de rutas de recolección de residuos reciclables, la propiedad y la responsabilidad de su manejo la adquieren los Municipios en el momento en que los usuarios del servicio público de recolección sitúan los residuos a su disposición para su traslado.
+Los Ayuntamientos deberán contar con un sistema de rutas de recolección de residuos reciclables, la propiedad y la responsabilidad de su manejo la adquieren los Municipios en el momento en que los usuarios del servicio público de recolección sitúan los residuos para su traslado.
 
 Los Ayuntamientos podrán implementar la condonación o reducción del cobro por la prestación del servicio de recolección de residuos domiciliarios a los generadores que entreguen sus residuos separados para su reciclaje, reutilización o comercialización de los mismos.
 
@@ -1151,9 +1187,11 @@ II.- Pequeño generador: el que realice una actividad que genere una cantidad ig
 
 Para efectos de este apartado, los residuos peligrosos que generen los microgenadores en el Estado y sus municipios, se sujetará a los criterios normativos establecidos por la Ley General y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 82.
 
-La SEMAREN, y los Ayuntamientos, en el ámbito de sus respectivas competencias, impulsarán sistemas de separación primaria de los residuos sólidos urbanos y de manejo especial, y de ser necesario, promoverán el establecimiento de sistemas de separación secundaria.
+La SEMAREN y los Ayuntamientos; en el ámbito de sus respectivas competencias, establecerán sistemas de separación primaria de los residuos sólidos urbanos y de manejo especial; y establecerán de ser necesarios sistemas de separación secundaria.
 
 Dicha separación no podrá realizarse en la vía pública, áreas comunes o cualquier otro sitio no autorizado.
 
@@ -1235,9 +1273,11 @@ Los interesados que realicen actividades en un centro de acopio o almacenamiento
 
 El manejo integral de los residuos de manejo especial es obligación de los generadores, por lo que deben contar con sus propios medios para la recolección de sus residuos o contratar para ello a empresas privadas o públicas prestadoras de este servicio que estén autorizadas.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 91.
 
-Los vehículos destinados a la recolección y traslado de residuos, preferentemente deberán contar con contenedores distintos que hagan factible su acopio por separado o ser utilizados en días diferentes para distintos tipos de residuos, conforme se estipule en el Reglamento de esta Ley.
+Los vehículos destinados a la recolección y traslado de residuos deberán contar con contenedores distintos que hagan factible su acopio por separado o ser utilizados en días diferentes para distintos tipos de residuos, conforme se estipule en el Reglamento de esta Ley.
 
 ###### ARTÍCULO 92.
 
@@ -1633,31 +1673,39 @@ Las violaciones a esta Ley, su reglamentación, las Normas Oficiales Mexicanas, 
 
 A) SANCIONES A PERSONAS FÍSICAS:
 
-I. Amonestación por escrito,
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-II. Multa de 10 a 60 días de salario mínimo vigente en el Municipio en el momento de cometerse la infracción,
+I. Amonestación por escrito;
 
-III. Arresto Administrativo, hasta por treinta y seis horas,
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-IV. Trabajo a favor de la comunidad en actividades de barrido o limpieza en áreas públicas.
+II. Multa de 25 a 150 Unidades de Medida y Actualización (UMA);
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-V. En el caso de quien queme a cielo abierto o incinere residuos sólidos urbanos y/o de manejo especial, se sancionará con una multa de 20 a 60 días de salario mínimo vigente en el Municipio y/o 12 a 36 horas de arresto administrativo, conmutable por el mismo número de horas de trabajo comunitario a favor de la salud pública y el mejoramiento al medio ambiente.
+III. Arresto Administrativo, hasta por treinta y seis horas:
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+IV. Trabajo a favor de la comunidad en actividades de barrido o limpieza en áreas públicas; y
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+V. En el caso de que quien queme a cielo abierto o incinere residuos sólidos urbanos y/o de manejo especial, se sancionara con una multa de 50 a 150 Unidades de Medida y Actualización (UMA) y/o 12 a 36 horas de arresto administrativo, conmutable por el mismo número de horas de trabajo comunitario a favor de la salud pública y el mejoramiento al medio ambiente.
 
 B) SANCIONES A PERSONAS MORALES:
 
-> <small>(REFORMADA [N. DE E. ANTES PARRAFO PRIMERO], P.O. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE OCTUBRE DE 2025)</small>
 
-I.- Amonestación por escrito;
+I. Amonestación por escrito;
 
-> <small>(REFORMADA [N. DE E. ANTES PARRAFO SEGUNDO], P.O. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-II.- Multa de 10 mil a 60 mil días de salario mínimo vigente en el Municipio en el momento de cometerse la infracción;
+II. Multa de 25 mil a 150 mil Unidades de Medida y Actualización (UMA);
 
-> <small>(REFORMADA [N. DE E. ANTES PARRAFO TERCERO], P.O. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE OCTUBRE DE 2025)</small>
 
-III.- Clausura temporal o definitiva, parcial o total, cuando:
+IV (SIC). Clausura temporal o definitiva, parcial o total, cuando;
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2010)</small>
 
@@ -1667,13 +1715,13 @@ b) Haya reincidencia, en caso de que las infracciones generen efectos negativos 
 
 c) Se trate de desobediencia reiterada al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad.
 
-> <small>(REFORMADA [N. DE E. ANTES PARRAFO CUARTO], P.O. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-IV.- La suspensión o revocación de las autorizaciones correspondientes.
+IV. La suspensión o revocación de las autorizaciones correspondientes;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-V.- En el caso de quien queme a cielo abierto o incinere residuos sólidos urbanos y de manejo especial, se sancionará con una multa de 20 mil a 60 mil días de salario mínimo vigente en el Municipio. La suspensión o revocación de las autorizaciones correspondientes.
+V. En el caso de quien queme a cielo abierto o incinere residuos sólidos urbanos y/o de manejo especial, se sancionará con una multa de 50 mil a 150 mil Unidades de Mediada (sic) y Actualización (UMA).
 
 ###### ARTÍCULO 149.
 
@@ -1722,6 +1770,14 @@ Los ingresos que se obtengan de las multas, por infracciones a lo dispuesto en e
 Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que contravenga esta Ley, sus Normas y Reglamentos, será responsable y estará obligada a resarcir los daños causados, de conformidad con la presente ley.
 
 El término para reclamar la responsabilidad ambiental por el manejo inadecuado de residuos, será de tres años contados a partir del momento en que se tenga conocimiento del hecho, acto u omisión correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+En el caso de que algún generador de residuos infrinja un daño ambiental deberá de resarcir el deterioro causado en un plazo no mayor a 90 días naturales.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2025)</small>
+
+Todo abuso contra estas disposiciones ambientales será considerado grave para efectos de responsabilidad de los servidores públicos y del derecho penal.
 
 ###### ARTÍCULO 158.
 
@@ -1910,3 +1966,13 @@ Los establecimientos industriales, comerciales y de servicios, contaran con un a
 CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
 
 QUINTO. Se deroga la disposición que contraviene a lo señalado en el presente Decreto, establecida en el 2º párrafo del Artículo 217 de la Ley Número 878 del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 263 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 593 DE APROVECHAMIENTO Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación.
+
+SEGUNDO. Remítase el presente Decreto al Poder Ejecutivo del Estado para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, Portal Web de la Sexagésima Cuarta Legislatura del Honorable Congreso del Estado Libre y Soberano de Guerrero, redes sociales de los referidos y a través de los medios de comunicación para su difusión.
