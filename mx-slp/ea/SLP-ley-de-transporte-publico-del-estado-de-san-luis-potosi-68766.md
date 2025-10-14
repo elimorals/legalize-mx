@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2025-06-23"
+last_updated: "2025-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -835,9 +835,11 @@ Las concesiones para la prestación del servicio público de transporte a que se
 
 Tratándose de los incisos c) y d) de la fracción I del artículo 21, las concesiones se expedirán únicamente a personas físicas.
 
-Para la explotación del servicio público de transporte en las modalidades correspondientes a todos los incisos de la fracción IV, y los incisos a) y b) de la fracción V ambas del artículo 21, y todas las modalidades contenidas en el artículo 22 de esta Ley, se otorgarán permisos temporales a personas físicas o morales.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2025)</small>
 
-Las concesiones de los servicios especiales de transporte de trabajadores se expedirán a personas físicas o morales.
+Para la explotación del servicio público de transporte en las modalidades correspondientes a todos los incisos de la fracción IV, y a todos los incisos de la fracción V ambas del artículo 21, y todas las modalidades contenidas en el artículo 22 de esta Ley, se otorgarán permisos temporales a personas físicas o morales.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 14 DE OCTUBRE DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
@@ -3396,3 +3398,11 @@ P.O. 23 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0275.- QUE REFORMA Y REALIZA DEROGACIÓN DENTRO DEL ARTÍCULO 38, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico oficial “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
