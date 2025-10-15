@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2025-10-01"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -761,6 +761,14 @@ VI.- Por muerte del acreedor alimentario.
 
 No obstante lo establecido en las fracciones III, IV y V la obligación alimentaría subsiste hasta los dieciocho años.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+El cese de la obligación alimentaria podrá ser solicitada por el deudor o los demás acreedores alimentarios, mediante juicio en vía de modificación de la cosa juzgada o vía incidental.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+En el caso de que el acreedor alimentario tenga más de veinticinco años o haya concluido sus estudios y no tenga alguna discapacidad, el cese de la pensión alimenticia procederá solamente con la solicitud del deudor alimentario, donde acredite esos supuestos.
+
 ###### ARTÍCULO 56.
 
 CARACTERES DEL DERECHO DE RECIBIR ALIMENTOS. El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción, compensación o convenio que establezca modalidad o reducción alguna.
@@ -844,6 +852,14 @@ CONCUBINATO. Es la unión de hecho de dos personas, ambas libres de matrimonio y
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
 Para acreditar el concubinato, el Juez deberá tomar en consideración que los concubinos han vivido en el mismo domicilio, de manera ininterrumpida durante dos años o han cohabitado y procreado un hijo o más en común.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 65 Bis.
+
+Al cesar la convivencia en un concubinato, la persona que carezca de ingresos suficientes o bienes que le permitan garantizar su subsistencia, y que haya asumido de manera preponderante labores del hogar o de cuidado durante la relación, tendrá derecho a una pensión alimenticia compensatoria. Dicha pensión tiene como finalidad satisfacer sus necesidades básicas de sustento y compensar, de forma periódica y temporal, el desequilibrio económico en el que se encuentra como consecuencia de haber limitado o interrumpido su desarrollo profesional, laboral o patrimonial.
+
+La pensión alimenticia entre ex concubinos, deberá atenderse a las posibilidades del deudor alimenticio, las necesidades del acreedor, la capacidad para trabajar de este y su situación económica.
 
 ###### ARTÍCULO 66.
 
@@ -7312,3 +7328,23 @@ PRIMERA. Se remite el presente Decreto a la Persona Titular del Poder Ejecutivo 
 SEGUNDA. El presente Decreto entrará en vigor el 01 de enero de 2026, una vez que se haya considerado en el Presupuesto de Egresos de ese ejercicio fiscal los recursos adicionales al Tribunal Superior de Justicia para su operación.
 
 TERCERA. Se derogan las disposiciones de igual o menor grado que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS TREINTA Y OCHO POR EL QUE REFORMA EL ARTÍCULO 55 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]</small>
+
+PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS CUARENTA Y DOS POR EL CUAL SE ADICIONA UN ARTÍCULO 65 BIS AL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
