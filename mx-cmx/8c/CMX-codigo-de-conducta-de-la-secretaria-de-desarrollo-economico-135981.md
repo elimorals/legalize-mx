@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-de-la-secretaria-de-desarrollo-economico-135
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-08"
-last_updated: "2019-05-08"
+last_updated: "2025-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135981&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-05-07"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO ECONOMICO DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 15 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE OCTUBRE DE 2025 (ABROGADO).
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 8 de mayo de 2019.
 
@@ -689,3 +691,17 @@ ASÍ COMO TODOS MERECEMOS UNA NUEVA ORGANIZACIÓN LÍDER Y UNA NUEVA CULTURA DE 
 Mtro. José Luis Beato González
 
 Secretario de Desarrollo Económico de la Ciudad de México
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El Código de Conducta de la Secretaría de Desarrollo Económico entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+SEGUNDO.- Con la entrada en vigor del presente Código de Conducta de la Secretaría de Desarrollo Económico se abroga el Código de Conducta de la Secretaría de Desarrollo Económico publicado en la Gaceta Oficial de la Ciudad de México el 8 de mayo de 2019.
+
+TERCERO.- Queda sin efectos cualquier otra disposición administrativa de jerarquía similar o inferior que se oponga al presente.
+
+CUARTO.- Las denuncias en proceso de atención por parte del Comité de Ética de la Secretaría de Desarrollo Económico, presentadas con anterioridad a la entrada en vigor del presente Código de Conducta, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
