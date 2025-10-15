@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2025-06-13"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1925,25 +1925,39 @@ I.- De Gobernación, Justicia, Seguridad Pública y Protección Civil;
 
 II.- De Patrimonio y Hacienda Pública Municipal;
 
-III.- De Desarrollo Urbano, Ecología, Medio Ambiente, Obras y Servicios Públicos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-IV.- De Industria, Comercio, Agricultura y Ganadería;
+III.- De Ordenamiento Territorial, Desarrollo Urbano, Movilidad, Obras y Servicios Públicos;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+IV.- De Desarrollo Económico, Turismo, Agricultura y Ganadería;
 
 V.- De Salubridad y Asistencia Pública;
 
-VI.- De Educación Pública y Actividades Culturales, Deportivas y Sociales;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+VI.- De Educación Pública y Actividades Artísticas, Culturales, Deportivas y Sociales;
 
-VII.- De Grupos Vulnerables, Personas con Discapacidad y Juventud;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
+VII.- De Atención a Personas en Situación de Vulnerabilidad y Personas con Discapacidad;
 
-VIII.- De Igualdad de Género, Prevención, Atención y Erradicación de la Violencia contra las Mujeres; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+VIII.- De Igualdad Sustantiva, Prevención, Atención y Erradicación de la Violencia contra las Mujeres;
 
-IX.- Las demás que sean necesarias de acuerdo a los recursos y necesidades de cada Municipio.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2025)</small>
+
+IX.- De los Derechos de las Niñas, Niños, Adolescentes y Juventudes;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+X.- De Sostenibilidad, Ecología, Medio Ambiente y Cambio Climático; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XI.- Las demás que sean necesarias de acuerdo a los recursos y necesidades de cada Municipio.
 
 ###### ARTÍCULO 97.
 
@@ -1953,11 +1967,11 @@ Si la comisión se compone de varios Regidores, el Cabildo designará quien la p
 
 Cuando alguna comisión considere que conviene demorar o suspender el curso de cualquier asunto, no lo acordará por sí misma, sino que emitirá dictamen exponiendo esta necesidad al Ayuntamiento, para que éste acuerde lo conveniente.
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 98 Bis.
 
-La Comisión Permanente de Igualdad de Género, Prevención, Atención y Erradicación de la Violencia contra las Mujeres, asumirá la coordinación, supervisión y seguimiento de la implementación y ejecución de las acciones y medidas correspondientes en aquellos Municipios en cuyo territorio sea aplicable la Declaratoria de Alerta de Violencia de Género contra las Mujeres, emitida de conformidad con la legislación aplicable, siendo, además, la instancia encargada de garantizar que las Dependencias y Entidades de la Administración Pública Municipal cumplan con las disposiciones establecidas en dicha Declaratoria.
+La Comisión Permanente de Igualdad Sustantiva, Prevención, Atención y Erradicación de la Violencia contra las Mujeres, asumirá la coordinación, supervisión y seguimiento de la implementación y ejecución de las acciones y medidas correspondientes en aquellos Municipios en cuyo territorio sea aplicable la Declaratoria de Alerta de Violencia de Género contra las Mujeres, emitida de conformidad con la legislación aplicable, siendo, además, la instancia encargada de garantizar que las Dependencias y Entidades de la Administración Pública Municipal cumplan con las disposiciones establecidas en dicha Declaratoria.
 
 ###### ARTÍCULO 99.
 
@@ -4708,5 +4722,13 @@ P.O. 13 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA LA FRACCIÓN XVIII DEL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, IV, VI, VII, VIII Y IX DEL ARTÍCULO 96 Y EL 98 BIS Y ADICIONA LAS FRACCIONES X Y XI AL ARTÍCULO 96 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
