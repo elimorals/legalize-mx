@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y-912
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-16"
-last_updated: "2024-09-30"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS -- ANTES LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS --
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de enero del 2013.
 
@@ -109,9 +111,13 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones positivas o afirmativas, al conjunto de medidas de carácter temporal, correctivo, compensatorio y de promoción; encaminadas a acelerar la igualdad de hecho entre mujeres y hombres, aplicables en tanto subsista la discriminación, desigualdad de trato y de oportunidades; mismas que deberán observar en todo momento los principios generales del derecho, así como las disposiciones legales en la materia en las cuales se pretende aplicar con el objeto de no causar un daño irreparable;
 
-II. Discriminación, a toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella; no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el reconocimiento, goce o el ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los motivos siguientes: origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, las opiniones, la orientación sexual, la identidad de género, el estado civil, la situación familiar, las responsabilidades familiares, la apariencia física, las características genéticas, la condición migratoria, el embarazo, la lengua, el idioma, la identidad o filiación política, los antecedentes penales o cualquier otro motivo.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-También se entenderá como discriminación la homofobia, la misoginia, la transfobia, cualquier manifestación de xenofobia, la segregación racial y otras formas conexas de intolerancia;
+II. Discriminación. Toda distinción, exclusión, restricción o preferencia que por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito.
+
+Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, el embarazo, la lengua o el idioma, las creencias religiosas o espirituales, la apariencia y/o condición física, las características genéticas, la situación migratoria, las opiniones, la identidad de género, la orientación sexual, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, profesión o actividad laboral, los antecedentes penales o cualquier otro motivo análogo.
+
+También se entenderá como discriminación la homofobia, misoginia, la transfobia cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
 III. Discriminación contra la Mujer, a toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
@@ -162,6 +168,14 @@ XVII. Transversalidad, al proceso que permite garantizar la incorporación de la
 > <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
 XVIII. Unidad o Unidades, a la Unidad de Igualdad de Género como mecanismo para transversalizar la perspectiva de género, enfocada a alcanzar la igualdad sustantiva, responsable de encausar el desarrollo de acciones institucionales al interior de los Poderes Ejecutivo, Legislativo, Judicial, los Ayuntamientos y los Órganos Constitucionales Autónomos.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XIX. Igualdad salarial. Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, entre otras;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XX. Brecha salarial de género. Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor;
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
@@ -229,7 +243,9 @@ IV.- Crear mecanismos internos para el empoderamiento de las mujeres en la funci
 
 V.- Coordinar las tareas en materia para la igualdad mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia de política pública integral, tanto estatal, como municipal; y
 
-VI.- Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones, así como en la vida social, cultural y civil del Estado y los municipios.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+VI.- Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida familiar, de cuidados, social, laboral, política, deportiva, cultural y civil.
 
 ###### Artículo 10.
 
@@ -357,15 +373,17 @@ IV. Promover, en coordinación con las dependencias de la Administración públi
 
 ### CAPÍTULO PRIMERO. GENERALIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2024)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2025, EL ANTERIOR SEGUNDO PÁRRAFO PASO A FORMAR PARTE DEL PRIMER PÁRRAFO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 18.
 
-La política estatal en materia de igualdad entre mujeres y hombres, deberá establecer las acciones conducentes para lograr la igualdad sustantiva en el ámbito, económico, político, social, cultural y ambiental.
+La política estatal en materia de igualdad entre mujeres y hombres, en los ámbitos familiar, de cuidados, económico, político, de salud, social, laboral y cultural, entre otros, que se desarrolle en todos los ámbitos de Gobierno de la Entidad, deberá considerar, como mínimo, los siguientes lineamientos:
 
-Esta política deberá considerar, como mínimo, los siguientes lineamientos:
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-I. Promover la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
+I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida: familiar, de cuidados, económico, político, de salud, social, laboral y cultural;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
@@ -406,6 +424,10 @@ XI. En materia de educación, la formación en el respeto de los derechos, de la
 > <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
 XII. Promover en las prácticas de comunicación social la incorporación de un lenguaje incluyente, impulsando acciones para la eliminación de estereotipos sexistas y discriminatorios que refuerzan la violencia simbólica, en los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos y los Órganos Constitucionales Autónomos.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XIII. El establecimiento de medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género;
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -559,7 +581,9 @@ El Sistema será presidido por la persona titular de la Secretaría de Gobierno 
 
 El Sistema Estatal tiene como objetivos:
 
-I. Promover la igualdad entre mujeres y hombres, y contribuir a la erradicación de todas las formas de discriminación a la diversidad entre los seres humanos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todas las formas de discriminación; sin distinción de ningún tipo, en los términos de los artículos 1 Bis segundo párrafo, 2 Bis Fracción II y 19 de la Constitución del Estado;
 
 II. La determinación de los lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con el objeto de esta Ley;
 
@@ -627,9 +651,11 @@ Los informes anuales de los Poderes del Estado, los Ayuntamientos y los Órganos
 
 ### CAPÍTULO PRIMERO. DEL OBJETIVO DE LA POLÍTICA ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 33.
 
-Será objetivo de la política estatal, el fortalecimiento de la igualdad entre mujeres y hombres en materia de:
+Será objetivo de la Política Estatal, en el ámbito de sus atribuciones, el fortalecimiento de la igualdad en materia de:
 
 I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo, en los procesos productivos y en los espacios de toma de decisiones;
 
@@ -645,6 +671,10 @@ III. Impulsar liderazgos igualitarios en todos los ámbitos de la vida, y
 
 IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad sustantiva y no discriminación contra la mujer en las condiciones de trabajo entre mujeres y hombres.
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+V. Diseño, implementación, ejecución y evaluación de políticas públicas y medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, para eliminar la brecha de género, en especial la salarial en los sectores público, privado y social.
+
 ### CAPÍTULO SEGUNDO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA ECONÓMICA ESTATAL
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
@@ -653,25 +683,41 @@ IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al emple
 
 La política definida en el Programa Estatal, guiada a través del Sistema Estatal, deberá desarrollar acciones transversales para alcanzar los objetivos que definan el rumbo de la igualdad entre mujeres y hombres, conforme a los objetivos operativos y acciones específicas a que se refiere este Título y en cumplimiento al Plan Estatal de Desarrollo.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 35.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades de la Administración Pública Estatal, garantizarán el principio de igualdad sustantiva en el ámbito del empleo, así como el derecho fundamental a la no discriminación contra las mujeres en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes en coordinación con la Secretaría de las Mujeres garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
 
-I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo o género y la brecha salarial de género;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 II. Fomentar la incorporación a la educación y formación de las personas que en razón de su sexo están relegadas;
 
-III. Fomentar el acceso a los puestos directivos de las personas que, en razón de su sexo, están relegadas;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+III. Fomentar el acceso al trabajo de las personas que debido a su sexo o género están relegadas de puestos directivos, para contribuir a disminuir y erradicar la brecha salarial de género;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres y la transversalización de la perspectiva de género en la estrategia estatal laboral;
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 V. Financiar las acciones de información, concientización y sensibilización destinadas a fomentar la igualdad entre mujeres y hombres, en todas las dependencias y entidades de la administración pública del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 VI. Vincular todas las acciones financiadas para el adelanto y empoderamiento de las mujeres;
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 VII. Evitar la segregación de las personas por razón de su sexo, en el mercado de trabajo;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 10 DE ABRIL DE 2019)</small>
 
 VIII. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
 
@@ -695,7 +741,13 @@ X. Promover el uso, goce y disfrute de la tierra y la participación, en el desa
 
 XI. Implementar y promover mediante mecanismos que otorgue el Estado, la participación de las mujeres y hombres en igualdad de oportunidades en materia agraria, y
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 XII. Reforzar la cooperación entre los tres órdenes de gobierno, para supervisar la aplicación de las acciones que establece este artículo.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XIII. Reducir y erradicar la brecha salarial y la segregación de las personas por razón de su sexo o género, del mercado de trabajo;
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA IGUALITARIA DE LAS MUJERES Y LOS HOMBRES
 
@@ -1036,3 +1088,13 @@ DÉCIMA PRIMERA. Los asuntos que se encuentren en trámite o en proceso en las S
 DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los actos administrativos idóneos y necesarios, así como la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios contemplados en el presente Decreto.
 
 DÉCIMA TERCERA. El personal de las Secretarías o Dependencias que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma podrá resultar afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado de Morelos, debiéndose tomar las acciones necesarias para ello.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO QUINIENTOS CUARENTA Y TRES POR EL QUE SE REFORMA Y ADICIONA LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS Y LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE MORELOS, EN MATERIA ELIMINACIÓN DE LA BRECHA SALARIAL”.]</small>
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
