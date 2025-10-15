@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1142
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2024-09-04"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de abril de 2016.
 
@@ -977,7 +977,7 @@ IV. El Diario de Debates;
 
 V. Las versiones estenográficas;
 
-VI. La asistencia de cada una de sus sesiones del Pleno y de las Comisiones y Comités;
+VI. (DEROGADA, P.O. 15 DE OCTUBRE DE 2025)
 
 VII. Las iniciativas de leyes o decretos, puntos de acuerdo, la fecha en que se recibieron, las Comisiones a las que se turnaron, y los dictámenes que, en su caso, recaigan sobre las mismas;
 
@@ -2326,3 +2326,13 @@ SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su
 TERCERA. El Tribunal Superior de Justicia del Estado, en el término de noventa días naturales, realizará las adecuaciones pertinentes a sus disposiciones reglamentarias y administrativas, para efecto de cumplir con las obligaciones establecidas en el presente Decreto y en los Lineamientos establecidos por el Sistema Nacional DIF.
 
 CUARTA. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo ordenado en el presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS CINCUENTA Y SIETE POR EL QUE SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 53 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Se remite el presente Decreto a la Titular del Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual rango o inferiores que se opongan a lo establecido en esta Ley.
