@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2025-05-28"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -463,11 +465,13 @@ Los trabajadores tienen derecho a una prima no menor del veinticinco por ciento 
 
 El salario o sueldo es la retribución pecuniaria que se paga al trabajador a cambio de los servicios prestados, debiendo garantizar la igualdad entre mujeres y hombres. Se integra con los pagos hechos en efectivo por cuota diaria, gratificaciones, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se entregue al trabajador por su trabajo, siempre y cuando sean permanentes.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 36.
 
-El salario, será fijado libremente por el Gobierno del Estado o los Municipios, en el presupuesto de egresos. Será uniforme para los trabajadores de una misma categoría, sin distinción de género.
+El salario, será fijado libremente por el Gobierno del Estado o los Municipios, en el presupuesto de egresos. Será uniforme para los trabajadores de una misma categoría, sin distinción de sexo o género.
+
+En cumplimiento de las obligaciones del Estado de reducir la brecha salarial de género se promoverán acciones para erradicar las prácticas retributivas desiguales de conformidad con lo dispuesto en la Ley de Igualdad de Derechos y Oportunidades entre Mujeres y Hombres para el Estado de Morelos y en la Ley General para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 37.
 
@@ -1914,3 +1918,13 @@ P.O. 28 DE MAYO DE 2025.
 PRIMERA. Remítase el presente decreto al Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”.
 
 SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión Oficial del Estado de Morelos.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS CUARENTA Y TRES.- POR EL QUE SE REFORMA Y ADICIONA LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS Y LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE MORELOS, EN MATERIA (SIC) ELIMINACIÓN DE LA BRECHA SALARIAL”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
