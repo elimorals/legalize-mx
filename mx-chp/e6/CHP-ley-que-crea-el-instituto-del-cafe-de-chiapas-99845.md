@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-el-instituto-del-cafe-de-chiapas-99845"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2025-01-10"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE CREA EL INSTITUTO DEL CAFÉ DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 5 de marzo de 2014.
 
@@ -55,9 +55,11 @@ El Instituto tendrá su domicilio legal en la ciudad de Tuxtla Gutiérrez, Chiap
 
 ### Capítulo II. De su Objeto y Atribuciones Generales
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 3°.
 
-El objeto principal del Instituto será el desarrollo y fomento de la caficultura mediante el establecimiento de métodos y sistemas de planeación, mecanismos de operación y formas de programación, inversión y financiamiento, para propiciar el desarrollo sustentable del café, mayor competitividad y el fomento comercial e industrial, con asistencia técnica específica, innovación y transferencia de tecnología, que den como resultado el incremento de productividad y calidad de las cosechas, lo mismo que el fortalecimiento a las diferentes modalidades de comercialización y la conquista de nuevos mercados.
+El objeto principal del Instituto será el desarrollo y fomento de la caficultura mediante el establecimiento de métodos y sistemas de planeación, mecanismos de operación y formas de programación, inversión y financiamiento, para propiciar el desarrollo sustentable del café, mayor competitividad y el fomento comercial e industrial, con asistencia técnica específica, evaluación de la conformidad, certificación, innovación y transferencia de tecnología, que den como resultado el incremento de productividad y calidad de las cosechas, lo mismo que el fortalecimiento a las diferentes modalidades de comercialización y la conquista de nuevos mercados.
 
 ###### Artículo 4°.
 
@@ -97,7 +99,13 @@ XVI. Coadyuvar en los programas de desarrollo alimentario en los municipios prod
 
 XVII. Gestionar y tramitar programas de desarrollo social en las regiones y municipios cafetaleros, a fin de elevar las condiciones de bienestar y desarrollo humano de los productores y sus familias.
 
-XVIII. Las demás que señale el presente decreto, su reglamento interior y normatividad aplicable, así como las que instruya el Titular del Poder Ejecutivo para el cumplimiento de su objeto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XVIII. Ejecutar las acciones relacionadas a los procesos de evaluación de la conformidad y certificación de la calidad, trazabilidad y origen del café, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XIX. Las demás que señale el presente decreto, su reglamento interior y normatividad aplicable, así como las que instruya la persona Titular del Poder Ejecutivo.
 
 ### Capítulo III. De la Integración de su Patrimonio
 
@@ -426,3 +434,15 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- La persona titular de la Dirección General del Instituto del Café, deberá someter a consideración de la persona Titular del Poder Ejecutivo, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones normativas requeridas, para su aprobación, expedición y publicación correspondiente.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 008 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL INSTITUTO DEL CAFÉ DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Instituto del Café de Chiapas, deberá realizar las gestiones necesarias ante las instancias competentes, a efecto de ser autorizado como organismo evaluador de la calidad o entidad de acreditación, de conformidad con lo dispuesto por la Ley de Infraestructura de la Calidad y demás disposiciones aplicables.
+
+Artículo Cuarto.- La persona titular de la Dirección General del Instituto del Café de Chiapas, deberá someter a consideración de la Junta de Gobierno, las reformas correspondientes a la normatividad aplicable, para efectos de aprobación, y su posterior envío a la persona Titular del Poder Ejecutivo, para publicación, en un término no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto.
