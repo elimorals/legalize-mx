@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-anticorrupcion-de-zacatecas-122732"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2022-04-30"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2017.
 
@@ -209,7 +209,7 @@ III. El titular del órgano interno de control del Poder Ejecutivo del Estado;
 
 IV. El Presidente del Tribunal de Justicia Administrativa del Estado de Zacatecas;
 
-V. El Presidente del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales;
+V. (DEROGADA, P.O. 15 DE OCTUBRE DE 2025)
 
 VI. El Presidente del Comité de Participación Ciudadana, y
 
@@ -279,7 +279,9 @@ I. Ser ciudadano zacatecano y estar en pleno goce y ejercicio de sus derechos ci
 
 II. Experiencia verificable de al menos cinco años en materias de transparencia, rendición de cuentas o combate a la corrupción;
 
-III. Tener más de treinta y cinco años de edad al día de la designación;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+III. Tener más de treinta años de edad al día de la designación;
 
 IV. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de nivel licenciatura;
 
@@ -293,7 +295,9 @@ VIII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal
 
 IX. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria, y
 
-X. No ser Gobernador del Estado, Magistrado, titular o subsecretario de dependencias y entidades de la administración pública en sus tres niveles de gobierno, Fiscal General o Fiscal Especializado, a menos que se haya separado de su cargo un año antes del día de su designación.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+X. No ser Gobernador del Estado, Magistrado o titular de dependencias y entidades de la administración pública en sus tres niveles de gobierno, Fiscal General, a menos que se haya separado de su cargo un año antes del día de su designación.
 
 ###### Artículo 20.
 
@@ -816,3 +820,31 @@ P.O. 30 DE ABRIL DE 2022.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas, aprobada mediante Decreto 603 y publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, el 2 de junio del 2016.
+
+Tercero. Las personas servidoras públicas del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas de la Secretaría de la Función Pública habilitados para tales efectos o en los medios que esta determine y conforme a la normativa aplicable. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con la presentación de la declaración patrimonial y de intereses final.
+
+Las personas que dentro de los diez días previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, con función de nivel de Director, análogo o superior, incluyendo a las personas Comisionadas, deben presentar acta administrativa de transferencia, conforme a los formatos y directrices que establezca la Comisión de Transición. Dicha entrega no implica liberación alguna de responsabilidades que pudiera llegarse a determinar por la autoridad competente con posterioridad.
+
+La Secretaría de la Función Pública del Poder Ejecutivo tendrá las facultades del Órgano Interno de Control del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales conforme a la Ley General de Responsabilidades Administrativas, a partir de la extinción del organismo.
+
+Cuarto. El titular de Transparencia para el Pueblo de Zacatecas será nombrado por el Gobernador del Estado en un plazo que no podrá exceder de 15 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+Quinto. La Secretaría de la Función Pública realizará la transferencia del personal y de los recursos materiales necesarios para el funcionamiento de Transparencia para el Pueblo de Zacatecas, en un plazo máximo que no podrá exceder de 30 días hábiles a la entrada en vigor del presente Decreto.
+
+Sexto. La Secretaría de la Función Pública podrá transferir en comodato bienes materiales para el funcionamiento de las diferentes Autoridades Garantes conforme a la disponibilidad y a la necesidad, para que dichas autoridades puedan instalarse y comenzar a funcionar.
+
+Séptimo. Los plazos y términos de recepción de documentos, juicios contenciosos, recursos y demás medios de impugnación presentados ante el Instituto Zacatecano de Transparencia Acceso a la Información y Protección de Datos Personales y la Secretaría de la Función Pública y demás Autoridades Garantes estarán suspendidos hasta 120 días naturales improrrogables, posteriores a la entrada en vigor del presente Decreto; con excepción de las solicitudes de acceso a la información que se tramitan mediante la PNT o a través de cualquier medio reconocido para realizarlas.
+
+Dicho plazo podrá acotarse mediante declaratoria pública que emitan las Autoridades Garantes en el ámbito de su competencia, informando a los ciudadanos que han concluido con sus procesos de instalación y se encuentran en condiciones de reiniciar la atención de trámites, en dicho supuesto la suspensión concluirá al día siguiente de que se realice la publicación de dicha declaratoria.
+
+Octavo. Cumplido el plazo de extinción del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, establecido en el artículo segundo transitorio del Decreto número 124, del 7 de junio de 2025, por el cual se emitieron reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia de simplificación orgánica, la persona servidora pública que, previo a la extinción, ocupaba la presidencia de dicho Organismo, asumirá las facultades y obligaciones de liquidadora en los términos de la normatividad aplicable.
+
+Noveno. La Legislatura del Estado tendrá un plazo improrrogable de 90 días naturales, posteriores a la entrada en vigor del presente Decreto para actualizar y reformar las leyes que determinan atribuciones u obligaciones en materia de transparencia y protección de datos personales.
