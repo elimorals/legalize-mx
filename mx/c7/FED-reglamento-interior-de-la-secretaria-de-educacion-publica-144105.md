@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-14410
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-15"
-last_updated: "2025-10-03"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144105&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-09-09"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE OCTUBRE DE 2025 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 15 DE OCTUBRE DE 2025.]</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 15 de septiembre de 2020.
 
@@ -113,9 +113,9 @@ XXIV. Dirección General de Tecnologías de la Información y Comunicaciones;
 
 XXV. Dirección General del Sistema de Administración de la Nómina Educativa Federalizada;
 
-> <small>(REFORMADA, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+(REFORMADA, D.O.F. 3 DE OCTUBRE DE 2025) (F. DE E., D.O.F. 15 DE OCTUBRE DE 2025)
 
-XXVI. Dirección General de Cooperación Educativa con los Sectores Social y Privado;
+XXVI. Dirección General de Cooperación y Vinculación Educativa;
 
 XXVII. (DEROGADA, D.O.F. 3 DE OCTUBRE DE 2025)
 
@@ -1813,11 +1813,11 @@ XVII. Proporcionar apoyo y asesoría a las entidades federativas para la mejora 
 
 Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, la persona Titular de la Dirección General del Sistema de Administración de la Nómina Educativa Federalizada se auxiliará, entre otras, de las Coordinaciones Técnicas de Presupuesto y Pagos, de Operaciones, de Control Interno y Administración de Riesgos, y de Administración de Procesos, así como por las direcciones y subdirecciones de área, y jefaturas de departamento que se le adscriban.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE OCTUBRE DE 2025) (F. DE E., D.O.F. 15 DE OCTUBRE DE 2025)
 
 ###### ARTÍCULO 31.
 
-La Dirección General de Cooperación Educativa con los Sectores Social y Privado tiene las atribuciones siguientes:
+La Dirección General de Cooperación y Vinculación Educativa tiene las atribuciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 3 DE OCTUBRE DE 2025)</small>
 
@@ -1849,9 +1849,9 @@ X. Dirigir la realización de estudios de investigación de políticas educativa
 
 XI. Fomentar con las autoridades educativas competentes la investigación en materia de política educativa para identificar, estudiar, analizar y determinar las mejores prácticas para su seguimiento y posible implementación dentro del Sistema Educativo Nacional.
 
-> <small>(ADICIONADO, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+(ADICIONADO, D.O.F. 3 DE OCTUBRE DE 2025) (F. DE E., D.O.F. 15 DE OCTUBRE DE 2025)
 
-Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, la persona titular de la Dirección General de Cooperación Educativa con los Sectores Social y Privado se auxiliará, entre otras, por la Coordinación Sectorial de Movilidad y Cooperación Académica, así como por las direcciones y subdirecciones de área, y jefaturas de departamento que se le adscriban.
+Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, la persona titular de la Dirección General de Cooperación y Vinculación Educativa se auxiliará, entre otras, por la Coordinación Sectorial de Movilidad y Cooperación Académica, así como por las direcciones y subdirecciones de área, y jefaturas de departamento que se le adscriban.
 
 ###### ARTÍCULO 32.
 
@@ -1967,9 +1967,9 @@ VII. Asesorar en el desarrollo de programas y proyectos de capacitación a docen
 
 VIII. Promover la capacitación de profesionales de la producción audiovisual en el uso de los medios audiovisuales para fines educativos y en materia de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
 
-> <small>(REFORMADA, D.O.F. 3 DE OCTUBRE DE 2025)</small>
+(REFORMADA, D.O.F. 3 DE OCTUBRE DE 2025) (F. DE E., D.O.F. 15 DE OCTUBRE DE 2025)
 
-IX. Realizar evaluaciones en coordinación con la Dirección General de Cooperación Educativa con los Sectores Social y Privado, respecto de las mejores prácticas en función de los resultados de los programas, modelos y estrategias apoyadas con las tecnologías de la información, comunicación, conocimiento y aprendizaje digital y los ejes rectores de la Agenda Digital Educativa; la capacitación de docentes u otras figuras educativas, así como el uso de aplicaciones, plataformas y demás herramientas tecnológicas promovidas por la propia Dirección General @prende.mx;
+IX. Realizar evaluaciones en coordinación con la Dirección General de Cooperación y Vinculación Educativa, respecto de las mejores prácticas en función de los resultados de los programas, modelos y estrategias apoyadas con las tecnologías de la información, comunicación, conocimiento y aprendizaje digital y los ejes rectores de la Agenda Digital Educativa; la capacitación de docentes u otras figuras educativas, así como el uso de aplicaciones, plataformas y demás herramientas tecnológicas promovidas por la propia Dirección General @prende.mx;
 
 X. Atender los requerimientos audiovisuales y digitales que en materia educativa emprenda la Secretaría;
 
