@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-856-de-proteccion-civil-y-la-reduccion-del-95677"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-01"
-last_updated: "2020-02-28"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 856 DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 1 de agosto de 2013.
 
@@ -83,7 +83,13 @@ Los programas, fondos y recursos destinados a la protección civil y la reducci�
 
 Para los efectos de la presente Ley, se entiende por:
 
-I. Agente regulador: Acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, servicios estratégicos, planta productiva y el medio ambiente, a reducir los riesgos de desastres y a controlar y prevenir los efectos adversos de un agente o fenómeno perturbador;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE OCTUBRE DE 2025)</small>
+
+I. Acuerdo que Determina una Situación Estatal de Desastres u Otros Siniestros: Es el acto que emite la persona Titular del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, como máxima autoridad estatal en materia de protección civil, en donde se reconoce que uno o varios municipios del Estado se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un agente perturbador, en donde también se puede ocasionar daños a la infraestructura pública, y por ello se requiere prestar auxilio inmediato a la población cuya seguridad, integridad, vida o salud está en riesgo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 15 DE OCTUBRE DE 2025)</small>
+
+I Bis. Agente regulador: Acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, servicios estratégicos, planta productiva y el medio ambiente, a reducir los riesgos de desastres y a controlar y prevenir los efectos adversos de un agente o fenómeno perturbador;
 
 II. Albergado: Persona que en forma temporal recibe asilo, amparo, alojamiento y resguardo ante la amenaza, inminencia u ocurrencia de un agente perturbador;
 
@@ -108,6 +114,14 @@ XI. Consejo Municipal: Consejo Municipal de Protección Civil en cada uno de los
 XII. Continuidad de Operaciones: Proceso para evitar la interrupción de los servicios estratégicos ante el impacto de un agente o fenómeno perturbador o, en su caso, asegurar su restablecimiento en el menor tiempo posible;
 
 XIII. Damnificado: Persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o en perjuicio de sus bienes, de tal manera que requiere de asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2025)</small>
+
+XIII Bis. Declaratoria de Desastre Natural: Es el acto mediante el cual el Gobierno Federal reconoce la presencia de un agente natural perturbador severo en uno o varios municipios del Estado, cuya atención de daños rebasa la capacidad financiera y operativa local, para efectos de poder acceder a recursos del instrumento financiero de atención de desastres naturales;
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2025)</small>
+
+XIII Ter. Declaratoria de Emergencia: Es el acto mediante el cual el Gobierno Federal reconoce que uno o varios municipios del Estado se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un agente natural perturbador y por ello se requiere prestar auxilio inmediato a la población cuya seguridad e integridad está en riesgo;
 
 XIV. Desastre: Resultado de la ocurrencia de uno o más agentes perturbadores severos o extremos, concatenados o no, de origen natural o de la actividad humana que, cuando acontecen en un tiempo y en una zona determinada, causan daños y pérdidas que por su magnitud interrumpen el funcionamiento rutinario de la zona afectada y exceden la capacidad de respuesta de la comunidad respectiva;
 
@@ -218,6 +232,10 @@ I. El Gobernador del Estado;
 II. El Consejo Estatal;
 
 III. El Comité Estatal de Emergencias;
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2025)</small>
+
+III Bis. El Comité Estatal de Desastres;
 
 IV. La Secretaría;
 
@@ -399,7 +417,9 @@ El Consejo Estatal podrá conformar las comisiones u órganos técnicos que cons
 
 Las disposiciones relativas a la organización y funcionamiento del Consejo Estatal serán establecidas en el Reglamento de la presente Ley.
 
-### CAPÍTULO III. Del Comité Estatal de Emergencias
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO III. Del Comité Estatal de Emergencias y del Comité Estatal de Desastres
 
 ###### Artículo 26.
 
@@ -444,6 +464,40 @@ II. El Secretario Ejecutivo del Consejo Estatal, quien suplirá al Presidente en
 III. Un Secretario Técnico, que será el Titular de la Dirección General de Administración de Emergencias de la Secretaría, quien suplirá al Secretario Ejecutivo en sus ausencias; y
 
 IV. Los integrantes del Consejo Estatal que, en razón de sus competencias, deban participar en la atención de la emergencia.
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 28 Bis.
+
+El Comité Estatal de Desastres es un organismo técnico del Consejo Estatal facultado para la gestión, atención, operación, seguimiento y evaluación de los daños desencadenados por fenómenos perturbadores en el Estado.
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 28 Ter.
+
+Compete al Comité Estatal de Desastres:
+
+I. Atender, operar, dar seguimiento y evaluar los daños desencadenados u ocasionados por un agente perturbador;
+
+II. Gestionar las acciones de respuesta y atención del Gobierno del Estado ante la inminente ocurrencia expresa de uno o más fenómenos perturbadores que acontecen en tiempo y en una zona determinada, desencadenen daños y que por su magnitud exceden la capacidad de respuesta local; y
+
+II. Organizar y coordinar a los integrantes del Sistema Estatal de Protección Civil, que participan como fuerzas de tarea, en la atención oportuna de los efectos y daños desencadenados por fenómenos perturbadores en el Estado.
+
+Cada uno de los integrantes del Comité deberá rendir un Reporte de Evaluación de resultados de la atención brindada, afectaciones, levantamientos, diagnóstico y cuantificación de los daños identificados por cada sector afectado de la infraestructura pública estatal y viviendas, mismo que deberá ser entregado de manera oficial a la Secretaría Técnica a más tardar en treinta días hábiles a partir de la instalación del Comité.
+
+La persona titular de la Secretaría Ejecutiva del Comité Estatal integrará el informe final de las acciones que, en materia de protección civil se efectuaron, ante los riesgos y efectos desencadenados por fenómenos perturbadores en el Estado.
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 28 Quater.
+
+El Comité Estatal de Desastres estará integrado por:
+
+I. Una Presidencia, que recaerá en la persona Titular de la Secretaría, quien podrá ser sustituida por la persona servidora pública que designe;
+
+II. Una Secretaría Ejecutiva, a cargo de la persona servidora pública de la Secretaría, designada por la Presidencia del Comité; y
+
+III. Los Integrantes del Consejo Estatal, que, en razón de sus competencias, deban participar en la atención de los daños desencadenados por los fenómenos perturbadores.
 
 ### CAPÍTULO IV. De la Secretaría
 
@@ -1315,31 +1369,37 @@ La Secretaría podrá llevar a cabo las acciones de capacitación, enseñanza, p
 
 ## TÍTULO SEXTO. Gestión Financiera y Transferencia del Riesgo
 
-### CAPÍTULO I. De las Declaratorias de Emergencia y Desastre
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO I. Del Acuerdo que Determina una Situación Estatal de Desastres u Otros Siniestros, y de las Declaratorias de Emergencia y Desastre
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 94.
 
-El Gobernador del Estado podrá solicitar al Gobierno Federal la Declaratoria de Emergencia o Desastre, según corresponda, en los términos de la Ley General de Protección Civil.
+En caso de emergencia, desastre u otros siniestros, o ante la inminencia de que ocurra alguno, la persona Titular del Poder Ejecutivo del Estado, o la persona Titular de la Secretaría, por instrucción delegada de aquella, podrá emitir el Acuerdo que Determina una Situación Estatal de Desastres u Otros Siniestros, según corresponda, en términos de esta ley, publicándose en la Gaceta Oficial, Órgano del Gobierno del Estado; así también, podrá solicitarse al Gobierno Federal, la Declaratoria de Emergencia o Declaratoria de Desastre para el Estado, según corresponda, conforme a lo establecido en la Ley General de Protección Civil.
 
-La Declaratoria de Emergencia es el acto mediante el cual el Gobierno Federal reconoce que uno o varios municipios del Estado se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un agente natural perturbador y por ello se requiere prestar auxilio inmediato a la población cuya seguridad e integridad está en riesgo.
-
-La Declaratoria de Desastre natural es el acto mediante el cual el Gobierno Federal reconoce la presencia de un agente natural perturbador severo en uno o varios municipios del Estado, cuya atención de daños rebasa la capacidad financiera y operativa local, para efectos de poder acceder a recursos del instrumento financiero de atención de desastres naturales.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 95.
 
-En caso de que la capacidad operativa y presupuestal de uno o más municipios se vea rebasada y luego de recibir la información a la que se refiere el artículo 45 de esta Ley, es responsabilidad de la Secretaría disponer de las medidas preventivas y de respuesta necesarias ante la inminencia, alta probabilidad o presencia de un fenómeno perturbador, para brindar el apoyo que se requiera o, en su caso, proponer al Gobernador del Estado su inclusión en la Declaratoria de Emergencia o Desastre, según corresponda.
+En caso de que la capacidad operativa y presupuestal de uno o más municipios se vea rebasada y luego de recibir la información a la que se refiere el artículo 45 de esta Ley, es responsabilidad de la Secretaría disponer de las medidas preventivas, de respuesta y de recuperación necesarias ante la inminencia, alta probabilidad o presencia de un desastre u otros siniestros, para brindar el apoyo que se requiera o, en su caso, proponer a la persona Titular del Poder Ejecutivo del Estado, su inclusión en el Acuerdo que Determina una Situación Estatal de Desastres u otros Siniestros, para efectos de poder acceder de forma inmediata a recursos del instrumento financiero de atención de desastres; lo anterior, con independencia de poder solicitar al Gobierno Federal la Declaratoria de Emergencia o Declaratoria de Desastre, según corresponda, bajo disposición de la Ley General de Protección Civil.
 
 ### CAPÍTULO II. De la Transferencia del Riesgo
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 96.
 
-Corresponde al Ejecutivo Estatal promover, ante la eventualidad de los desastres de origen natural, la realización de acciones dirigidas a una estrategia integral de transferencia de riesgos, a través de la identificación de la infraestructura por asegurar, el análisis de los riesgos, las medidas para su reducción y la definición de los esquemas de retención y aseguramiento, entre otros.
+Corresponde a la persona Titular del Poder Ejecutivo del Estado promover, ante la eventualidad de desastre u otros siniestros, la realización de mecanismos o acciones dirigidas a una estrategia integral de transferencia de riesgos, a través de la identificación de la infraestructura por asegurar, entre otros, el análisis de los riesgos, las medidas para su reducción y la definición de los esquemas de retención y aseguramiento, y así proteger las finanzas públicas ante una emergencia o desastre.
 
-Para el cumplimiento de lo dispuesto en el párrafo anterior, las dependencias y entidades estatales ejecutoras deberán identificar las obras que formarán parte del Inventario Estatal de Infraestructura para su aseguramiento. Dicho inventario se integrará con base en los lineamientos que emita la Secretaría de Finanzas y Planeación del Estado.
+Para el cumplimiento de lo dispuesto en el párrafo anterior, las dependencias y entidades estatales responsables del sector deberán identificar el conjunto de obras y bienes públicos que formarán parte del Inventario Estatal de Infraestructura para su aseguramiento. Dicho inventario se integrará con base en los lineamientos que emita la Secretaría de Finanzas y Planeación del Estado.
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 97.
 
-Es responsabilidad del Poder Ejecutivo, conforme a su disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por un desastre natural en los bienes y servicios estratégicos del Estado.
+Es responsabilidad del Gobierno del Estado, conforme a su disponibilidad presupuestaria, financiar estrategias, herramientas y demás instrumentos de administración y transferencias de riesgos, que permitan cubrir daños causados por un desastre u otros siniestros, que puedan afectar los bienes y servicios fundamentales del Estado.
 
 ### CAPÍTULO III. Del Fondo Estatal de Protección Civil y la Reducción del Riesgo de Desastres
 
@@ -1600,3 +1660,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La señalización ordenada en este Decreto deberá colocarse a más tardar en un plazo de 180 días hábiles, contado a partir de la entrada en vigor del mismo.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 266 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
