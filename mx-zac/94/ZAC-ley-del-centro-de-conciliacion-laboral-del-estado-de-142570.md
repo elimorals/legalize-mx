@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-centro-de-conciliacion-laboral-del-estado-de-142570"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-28"
-last_updated: "2020-11-14"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 28 de marzo de 2020.
 
@@ -121,7 +121,13 @@ VII. Coordinar y supervisar las delegaciones que forman parte del Centro;
 
 VIII. Imponer las medidas de apremio que señale la legislación laboral, y
 
-IX. Las demás que le confieran las leyes en materia laboral, su Estatuto Orgánico y otras disposiciones aplicables.
+(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 193/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+IX. CONSTITUIRSE COMO AUTORIDAD GARANTE EN TÉRMINOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, RESPECTO DE ORGANIZACIONES SINDICALES, Y
+
+X. Las demás que le confieran las leyes en materia laboral, su Estatuto Orgánico y otras disposiciones aplicables.
 
 ###### Artículo 9.
 
@@ -500,3 +506,31 @@ P.O. 14 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 440.- SE DEROGA LA FRACCIÓN III Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 22 Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 27 DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE ZACATECAS".]
 
 Articulo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas, aprobada mediante Decreto 603 y publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, el 2 de junio del 2016.
+
+Tercero. Las personas servidoras públicas del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas de la Secretaría de la Función Pública habilitados para tales efectos o en los medios que esta determine y conforme a la normativa aplicable. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con la presentación de la declaración patrimonial y de intereses final.
+
+Las personas que dentro de los diez días previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, con función de nivel de Director, análogo o superior, incluyendo a las personas Comisionadas, deben presentar acta administrativa de transferencia, conforme a los formatos y directrices que establezca la Comisión de Transición. Dicha entrega no implica liberación alguna de responsabilidades que pudiera llegarse a determinar por la autoridad competente con posterioridad.
+
+La Secretaría de la Función Pública del Poder Ejecutivo tendrá las facultades del Órgano Interno de Control del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales conforme a la Ley General de Responsabilidades Administrativas, a partir de la extinción del organismo.
+
+Cuarto. El titular de Transparencia para el Pueblo de Zacatecas será nombrado por el Gobernador del Estado en un plazo que no podrá exceder de 15 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+Quinto. La Secretaría de la Función Pública realizará la transferencia del personal y de los recursos materiales necesarios para el funcionamiento de Transparencia para el Pueblo de Zacatecas, en un plazo máximo que no podrá exceder de 30 días hábiles a la entrada en vigor del presente Decreto.
+
+Sexto. La Secretaría de la Función Pública podrá transferir en comodato bienes materiales para el funcionamiento de las diferentes Autoridades Garantes conforme a la disponibilidad y a la necesidad, para que dichas autoridades puedan instalarse y comenzar a funcionar.
+
+Séptimo. Los plazos y términos de recepción de documentos, juicios contenciosos, recursos y demás medios de impugnación presentados ante el Instituto Zacatecano de Transparencia Acceso a la Información y Protección de Datos Personales y la Secretaría de la Función Pública y demás Autoridades Garantes estarán suspendidos hasta 120 días naturales improrrogables, posteriores a la entrada en vigor del presente Decreto; con excepción de las solicitudes de acceso a la información que se tramitan mediante la PNT o a través de cualquier medio reconocido para realizarlas.
+
+Dicho plazo podrá acotarse mediante declaratoria pública que emitan las Autoridades Garantes en el ámbito de su competencia, informando a los ciudadanos que han concluido con sus procesos de instalación y se encuentran en condiciones de reiniciar la atención de trámites, en dicho supuesto la suspensión concluirá al día siguiente de que se realice la publicación de dicha declaratoria.
+
+Octavo. Cumplido el plazo de extinción del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, establecido en el artículo segundo transitorio del Decreto número 124, del 7 de junio de 2025, por el cual se emitieron reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia de simplificación orgánica, la persona servidora pública que, previo a la extinción, ocupaba la presidencia de dicho Organismo, asumirá las facultades y obligaciones de liquidadora en los términos de la normatividad aplicable.
+
+Noveno. La Legislatura del Estado tendrá un plazo improrrogable de 90 días naturales, posteriores a la entrada en vigor del presente Decreto para actualizar y reformar las leyes que determinan atribuciones u obligaciones en materia de transparencia y protección de datos personales.
