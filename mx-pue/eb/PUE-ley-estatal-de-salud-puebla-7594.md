@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2025-07-23"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -89,9 +89,9 @@ La presente Ley reglamenta el derecho a la protección de la salud que toda pers
 
 El derecho a la protección de la Salud, tiene las siguientes finalidades:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-I. El bienestar físico y mental del hombre y la mujer, para contribuir al ejercicio pleno de sus capacidades;
+I. El bienestar físico y mental de las personas, para contribuir al ejercicio pleno de sus capacidades, respetando los derechos humanos, la orientación sexual, y la identidad de género;
 
 II. La prolongación y el mejoramiento de la calidad de la vida humana;
 
@@ -131,7 +131,9 @@ En los términos de la Ley General de Salud y de la presente Ley, corresponde al
 
 A.- En materia de salubridad general:
 
-I. La atención médica, preferentemente en beneficio de grupos vulnerables;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+I. La atención médica, preferentemente en beneficio de los grupos en situación de vulnerabilidad, para cuyo efecto promoverá las acciones afirmativas y compensatorias que garanticen su atención en condiciones de igualdad, equidad, respeto de sus derechos humanos y sin discriminación;
 
 II. La atención materno-infantil;
 
@@ -351,9 +353,11 @@ XVII. Promover e impulsar programas y campañas de información sobre los buenos
 
 XVIII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
 ###### ARTICULO 8º.
 
-La Secretaría de Salud Pública del Estado promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicio de salud de los sectores público, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud Pública del Estado promoverá la participación en el Sistema Estatal de Salud, de las personas prestadoras del servicio de salud de los sectores público, social y privado, así como sus trabajadoras y trabajadores y de las personas usuarias de los mismos, generando para el efecto los mecanismos de participación efectiva de las personas en situación de vulnerabilidad, en términos de las disposiciones aplicables.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud a fin de racionalizar y procurar la disponibilidad de éstos últimos.
 
@@ -1790,6 +1794,20 @@ III. La prevención específica en cada caso y la vigilancia de su cumplimiento;
 IV. La realización de estudios epidemiológicos, y
 
 V. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+ARTICULO 157 BIS.- Los Servicios Estatales de Salud deben diferenciar el diagnóstico y la atención de los tipos de diabetes, considerando al menos, la siguiente clasificación:
+
+I. Diabetes Mellitus Tipo 1;
+
+II. Diabetes Mellitus Tipo 2;
+
+III. Diabetes Gestacional; y
+
+IV. Otros tipos y subtipos de diabetes.
+
+La atención integral de la diabetes mellitus comprenderá medidas y acciones para la prevención, el diagnóstico, el control y la educación en diabetes.
 
 ###### ARTICULO 158.
 
@@ -3698,6 +3716,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 259 QUINQUIES DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 157 BIS A LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2, LA FRACCIÓN I DEL APARTADO A DEL ARTÍCULO 4 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 8, TODOS DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
