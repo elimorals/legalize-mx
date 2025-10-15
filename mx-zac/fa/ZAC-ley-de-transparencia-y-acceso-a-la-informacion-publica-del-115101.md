@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1151
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-02"
-last_updated: "2022-10-15"
+last_updated: "2025-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 15 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el jueves 2 de junio de 2016.
 
@@ -2848,3 +2850,31 @@ P.O. 15 DE OCTUBRE DE 2022.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Dentro del plazo de ciento ochenta días naturales, el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, deberá expedir y publicar en el Periódico Oficial, Órgano de Gobierno del Estado, las modificaciones que deriven del presente Decreto en el Reglamento Interior y los demás reglamentos, manuales, lineamientos y acuerdos para el adecuado funcionamiento del Instituto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas, aprobada mediante Decreto 603 y publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, el 2 de junio del 2016.
+
+Tercero. Las personas servidoras públicas del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas de la Secretaría de la Función Pública habilitados para tales efectos o en los medios que esta determine y conforme a la normativa aplicable. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con la presentación de la declaración patrimonial y de intereses final.
+
+Las personas que dentro de los diez días previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, con función de nivel de Director, análogo o superior, incluyendo a las personas Comisionadas, deben presentar acta administrativa de transferencia, conforme a los formatos y directrices que establezca la Comisión de Transición. Dicha entrega no implica liberación alguna de responsabilidades que pudiera llegarse a determinar por la autoridad competente con posterioridad.
+
+La Secretaría de la Función Pública del Poder Ejecutivo tendrá las facultades del Órgano Interno de Control del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales conforme a la Ley General de Responsabilidades Administrativas, a partir de la extinción del organismo.
+
+Cuarto. El titular de Transparencia para el Pueblo de Zacatecas será nombrado por el Gobernador del Estado en un plazo que no podrá exceder de 15 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+Quinto. La Secretaría de la Función Pública realizará la transferencia del personal y de los recursos materiales necesarios para el funcionamiento de Transparencia para el Pueblo de Zacatecas, en un plazo máximo que no podrá exceder de 30 días hábiles a la entrada en vigor del presente Decreto.
+
+Sexto. La Secretaría de la Función Pública podrá transferir en comodato bienes materiales para el funcionamiento de las diferentes Autoridades Garantes conforme a la disponibilidad y a la necesidad, para que dichas autoridades puedan instalarse y comenzar a funcionar.
+
+Séptimo. Los plazos y términos de recepción de documentos, juicios contenciosos, recursos y demás medios de impugnación presentados ante el Instituto Zacatecano de Transparencia Acceso a la Información y Protección de Datos Personales y la Secretaría de la Función Pública y demás Autoridades Garantes estarán suspendidos hasta 120 días naturales improrrogables, posteriores a la entrada en vigor del presente Decreto; con excepción de las solicitudes de acceso a la información que se tramitan mediante la PNT o a través de cualquier medio reconocido para realizarlas.
+
+Dicho plazo podrá acotarse mediante declaratoria pública que emitan las Autoridades Garantes en el ámbito de su competencia, informando a los ciudadanos que han concluido con sus procesos de instalación y se encuentran en condiciones de reiniciar la atención de trámites, en dicho supuesto la suspensión concluirá al día siguiente de que se realice la publicación de dicha declaratoria.
+
+Octavo. Cumplido el plazo de extinción del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, establecido en el artículo segundo transitorio del Decreto número 124, del 7 de junio de 2025, por el cual se emitieron reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia de simplificación orgánica, la persona servidora pública que, previo a la extinción, ocupaba la presidencia de dicho Organismo, asumirá las facultades y obligaciones de liquidadora en los términos de la normatividad aplicable.
+
+Noveno. La Legislatura del Estado tendrá un plazo improrrogable de 90 días naturales, posteriores a la entrada en vigor del presente Decreto para actualizar y reformar las leyes que determinan atribuciones u obligaciones en materia de transparencia y protección de datos personales.
