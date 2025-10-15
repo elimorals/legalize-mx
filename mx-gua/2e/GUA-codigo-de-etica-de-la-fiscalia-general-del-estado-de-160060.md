@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-de-la-fiscalia-general-del-estado-de-160060"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-09-09"
-last_updated: "2022-09-09"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Código publicado en la Segunda Parte del Número 180 del Periódico Oficial del Estado de Guanajuato, el viernes 9 de septiembre de 2022.
 
@@ -105,53 +105,67 @@ Principios rectores
 
 Las personas servidoras públicas de la FGEG, en su actuar diario deben observar, según corresponda, los siguientes principios:
 
-I. Autonomía: Potestad para ejercer las facultades otorgadas por la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, por encima de factores externos, de forma independiente, con objetividad, sin injerencias o interferencias de otras instancias, desarrollando siempre sus funciones bajo el más estricto apego al ordenamiento jurídico y con la firme convicción de procurar justicia;
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-II. Buena fe: Actuar con base en una conducta recta, honesta y con verdad, sin prejuzgar, ni pensar o actuar maliciosamente, brindando atención y servicio desde el momento en que así se requiera en los asuntos encomendados, así como respetar, facilitar y permitir el ejercicio efectivo de derechos a las personas;
+I. Accesibilidad: Garantizar el derecho de todas las personas para obtener un servicio, independientemente de sus capacidades técnicas, cognitivas o físicas. Es una condición necesaria para la participación de todas las personas independientemente de las posibles limitaciones funcionales que puedan tener;
 
-III. Competencia por mérito: Las personas servidoras públicas de la Fiscalía General deberán ser seleccionadas para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, mediante procedimientos transparentes, objetivos, equitativos y que garanticen la igualdad de oportunidad, atrayendo a las y los mejores candidatos;
+II. Autonomía: Potestad para ejercer las facultades otorgadas por la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, por encima de factores externos, de forma independiente, con objetividad, sin injerencias o interferencias de otras instancias, desarrollando siempre sus funciones bajo el más estricto apego al ordenamiento jurídico y con la firme convicción de procurar justicia;
 
-IV. Debida diligencia: Utilizar los medios necesarios para realizar oportuna y atingentemente las actuaciones conducentes dentro de un plazo razonable, conforme a la competencia y marco jurídico inherente a la FGEG, garantizando su desarrollo de manera imparcial, eficaz y con oportunidad, así como con respeto a derechos humanos y profesionalismo;
+III. Buena fe: Actuar con base en una conducta recta, honesta y con verdad, sin prejuzgar, ni pensar o actuar maliciosamente, brindando atención y servicio desde el momento en que así se requiera en los asuntos encomendados, así como respetar, facilitar y permitir el ejercicio efectivo de derechos a las personas;
 
-V. Disciplina: Desempeñar el empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio público;
+IV. Competencia por mérito: Las personas servidoras públicas de la Fiscalía General deberán ser seleccionadas para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, mediante procedimientos transparentes, objetivos, equitativos y que garanticen la igualdad de oportunidad, atrayendo a las y los mejores candidatos;
 
-VI. Economía: Ejercer el gasto público y administrar los bienes, recursos y servicios públicos que se tengan asignados o a disposición, con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social;
+V. Debida diligencia: Utilizar los medios necesarios para realizar oportuna y atingentemente las actuaciones conducentes dentro de un plazo razonable, conforme a la competencia y marco jurídico inherente a la FGEG, garantizando su desarrollo de manera imparcial, eficaz y con oportunidad, así como con respeto a derechos humanos y profesionalismo;
 
-VII. Eficacia: Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de contribuir a alcanzar los objetivos y metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación;
+VI. Disciplina: Desempeñar el empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio público;
 
-VIII. Eficiencia: Actuar en apego a los objetivos, planes y programas institucionales previamente establecidos, optimizando el uso y la asignación de los recursos públicos en el ejercicio de las respectivas atribuciones;
+VII. Economía: Ejercer el gasto público y administrar los bienes, recursos y servicios públicos que se tengan asignados o a disposición, con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social;
 
-IX. Enfoque diferencial y especializado: Tener en cuenta la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su origen étnico o nacional, idioma o lengua, religión, edad, género, preferencia u orientación sexual, identidad de género, condición de discapacidad, condición social, económica, histórica y cultural, así como otras circunstancias diferenciadoras y que requieran de una atención especializada que responda a las particularidades y grado de vulnerabilidad;
+VIII. Eficacia: Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de contribuir a alcanzar los objetivos y metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación;
 
-X. Equidad: Procurar que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades institucionales;
+IX. Eficiencia: Actuar en apego a los objetivos, planes y programas institucionales previamente establecidos, optimizando el uso y la asignación de los recursos públicos en el ejercicio de las respectivas atribuciones;
 
-XI. Gratuidad: Tener presente que todas las acciones, los procedimientos y cualquier trámite que implique el acceso a la justicia y demás derechos conformados en el bloque de constitucionalidad, no tendrán costo alguno para las personas;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-XII. Honradez: Conducirse con rectitud sin utilizar el empleo, cargo o comisión para obtener o pretender obtener algún beneficio, privilegio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;
+X. Enfoque diferencial y especializado: Tener en cuenta la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su origen étnico o nacional, idioma o lengua, religión, edad, género, orientación sexual, identidad de género, condición de discapacidad, condición social, económica, histórica y cultural, así como otras circunstancias diferenciadoras y que requieran de una atención especializada que responda a las particularidades y grado de vulnerabilidad;
 
-XIII. Imparcialidad: Otorgar a las personas usuarias, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permitir que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer las funciones de manera objetiva;
+XI. Equidad: Procurar que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades institucionales;
 
-XIV. Integridad: Actuar acorde con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, con el compromiso de ajustar su conducta a principios y valores éticos que respondan al interés público y generen certeza plena frente a todas las personas con las que se vinculen u observen su actuar;
+XII. Gratuidad: Tener presente que todas las acciones, los procedimientos y cualquier trámite que implique el acceso a la justicia y demás derechos conformados en el bloque de constitucionalidad, no tendrán costo alguno para las personas;
 
-XV. Interés superior de la niñez: Proteger primordialmente los derechos de Niñas, Niños y Adolescentes, de manera armónica e integral, atendiendo a su desarrollo, de conformidad con las disposiciones constitucionales, legales y convencionales aplicables;
+XIII. Honradez: Conducirse con rectitud sin utilizar el empleo, cargo o comisión para obtener o pretender obtener algún beneficio, privilegio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;
 
-XVI. Lealtad: Corresponder a la confianza que la sociedad les han conferido, con una vocación absoluta de servicio, a fin de satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;
+XIV. Imparcialidad: Otorgar a las personas usuarias, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permitir que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer las funciones de manera objetiva;
 
-XVII. Legalidad: Realizar sólo aquello que las normas expresamente les confieren acorde a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
+XV. Integridad: Actuar acorde con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, con el compromiso de ajustar su conducta a principios y valores éticos que respondan al interés público y generen certeza plena frente a todas las personas con las que se vinculen u observen su actuar;
 
-XVIII. Objetividad: Preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera imparcial en el ejercicio de atribuciones, emitiendo sus determinaciones con base en el principio de legalidad;
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-XIX. Perspectiva de Género: Coadyuvar a la eliminación de las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género, así como contribuir a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades, para acceder al desarrollo social y la representación en los ámbitos de toma de decisiones;
+XVI. Interculturalidad: Respetar en cualquier toma de decisiones los elementos culturales relacionados con las costumbres, prácticas ancestrales, normas, procedimientos propios de los pueblos, nacionalidades, comunas, comunidades indígenas y afrodescendientes; implica el deber de determinar en cada caso la existencia y vigencia de la costumbre en los términos alegados, las particulares necesidades de protección del sujeto de derecho y el contexto cultural en que la persona se desarrolla y ocurre la conducta; la validez de la costumbre y su aplicación en el curso de la investigación y en el proceso judicial, con el fin de hacer valer los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los instrumentos internacionales ratificados por el Estado Mexicano;
 
-XX. Probidad: Realizar sus funciones evitando acciones dilatorias o cualquier abuso en el ejercicio de facultades;
+XVII. Interés superior de la niñez: Proteger primordialmente los derechos de Niñas, Niños y Adolescentes, de manera armónica e integral, atendiendo a su desarrollo, de conformidad con las disposiciones constitucionales, legales y convencionales aplicables;
 
-XXI. Profesionalismo: Conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas, bajo estándares de calidad, compromiso y responsabilidad;
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-XXII. Rendición de cuentas: Asumir plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que se debe informar, explicar y justificar sus decisiones y acciones, sujetándose al correspondiente sistema de sanciones, así como de evaluación y al escrutinio público o por parte de la ciudadanía;
+XVIII. Interseccionalidad: Analizar los hechos y componentes que confluyen en un mismo caso, multiplicando las desventajas y discriminaciones, esto es, identificar si la persona que sufre la afectación se encuentra en algún contexto que le impida gozar o ejercer sus derechos en igualdad de condiciones que el resto de la población, o bien que pertenezca a un grupo en situación de desventaja o desequilibrio;
 
-XXIII. Respeto a los Derechos Humanos: Promover, observar, proteger y garantizar, en el ámbito de sus competencias y atribuciones, los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; y
+XIX. Lealtad: Corresponder a la confianza que la sociedad les han conferido, con una vocación absoluta de servicio, a fin de satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;
 
-XXIV. Transparencia: Ejercer las funciones, atribuciones y comisiones, privilegiando el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso a la información y proporcionando la documentación conducente que generen, obtengan, adquieran, transformen o conserven; y en el ámbito de su competencia, difundir de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto protegiendo los datos personales y la información reservada o confidencial que esté bajo su custodia.
+XX. Legalidad: Realizar sólo aquello que las normas expresamente les confieren acorde a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
+
+XXI. Objetividad: Preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera imparcial en el ejercicio de atribuciones, emitiendo sus determinaciones con base en el principio de legalidad;
+
+XXII. Perspectiva de Género: Coadyuvar a la eliminación de las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género, así como contribuir a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades, para acceder al desarrollo social y la representación en los ámbitos de toma de decisiones;
+
+XXIII. Probidad: Realizar sus funciones evitando acciones dilatorias o cualquier abuso en el ejercicio de facultades;
+
+XXIV. Profesionalismo: Conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas, bajo estándares de calidad, compromiso y responsabilidad;
+
+XXV. Rendición de cuentas: Asumir plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que se debe informar, explicar y justificar sus decisiones y acciones, sujetándose al correspondiente sistema de sanciones, así como de evaluación y al escrutinio público o por parte de la ciudadanía;
+
+XXVI. Respeto a los Derechos Humanos: Promover, observar, proteger y garantizar, en el ámbito de sus competencias y atribuciones, los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; y
+
+XXVII. Transparencia: Ejercer las funciones, atribuciones y comisiones, privilegiando el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso a la información y proporcionando la documentación conducente que generen, obtengan, adquieran, transformen o conserven; y en el ámbito de su competencia, difundir de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto protegiendo los datos personales y la información reservada o confidencial que esté bajo su custodia.
 
 #### Sección Segunda. Valores Fundamentales
 
@@ -245,11 +259,13 @@ Fomento y vigilancia
 
 El Consejo Interno de Ética fomentará y vigilará el cumplimiento de los Códigos de Ética y de Conducta de esta Institución.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
 Denuncias
 
 ###### Artículo 9.
 
-Cualquier persona ciudadana o servidora pública que considere que existen casos que pueden constituir presuntos incumplimientos al presente Código de Ética, podrá denunciar los mismos ante el Consejo Interno de Ética, por conducto de su Secretaría Técnica.
+Cualquier persona ciudadana o servidora pública que considere que existen casos que pueden constituir presuntos incumplimientos al presente Código de Ética, podrá presentar denuncia sobre los mismos ante el Consejo Interno de Ética, por conducto de su Secretaría Técnica, quien otorgará el trámite correspondiente; lo anterior conforme al procedimiento aprobado por el citado Consejo Interno de Ética para tales efectos.
 
 Inobservancia al Código de Ética
 
@@ -280,3 +296,13 @@ MTRO. CARLOS ZAMARRIPA AGUIRRE
 LA TITULAR DEL ÓRGANO INTERNO DE CONTROL
 
 LIC. MA. CONSEPCIÓN DÍAZ MACÍAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+[N. DE . TRANSITORIO DEL “ACUERDO 8/2025-FGEG MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
