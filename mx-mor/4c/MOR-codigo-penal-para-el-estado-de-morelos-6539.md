@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2025-10-08"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2221,6 +2221,14 @@ VI. Sea cometido por alguna persona servidora pública en ejercicio de sus funci
 
 Cuando el delito previsto en este artículo sea cometido contra una persona menor de dieciocho años, se estará a lo establecido en los artículos 211 ter, 212 y demás relativos y aplicables de este Código y las leyes especiales o de la materia.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+Se impondrán las mismas penas previstas en el párrafo primero de este artículo a quien, haciendo uso de la Inteligencia Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear hechos falsos con apariencia real, con el propósito de exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartir a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin su consentimiento expreso, voluntario, genuino y deseado.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+Para efectos del párrafo anterior, se entenderá por Inteligencia Artificial las aplicaciones, programas o tecnología que analice fotografías, audios o videos y ofrece ajustes automáticos para hacerles alteraciones o modificaciones.
+
 Para los efectos de las disposiciones previstas en el presente artículo, la autoridad competente ordenará el retiro inmediato de la publicación a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido intimo no autorizado.
 
 ### CAPITULO I. VIOLACION
@@ -2233,9 +2241,9 @@ Se impondrán de seis meses a dos años de prisión, al que sin consentimiento d
 
 ## TITULO SEPTIMO. DELITOS CONTRA LA LIBERTAD Y EL NORMAL DESARROLLO PSICOSEXUAL
 
-### CAPITULO II. INSEMINACION ARTIFICIAL SIN CONSENTIMIENTO
+### CAPITULO II. DELITOS CONTRA LOS DERECHOS REPRODUCTIVOS
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 152.
 
@@ -2283,15 +2291,35 @@ Cuando la violación se comete aprovechando los medios o circunstancias del empl
 
 Al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril o a uno o más dedos, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido, se le impondrá de veinte a veinticinco años de prisión.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2025)</small>
+
 ### CAPITULO III. HOSTIGAMIENTO, ACOSO SEXUAL Y CIBERACOSO SEXUAL
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 157.
 
-Al que sin consentimiento de una mujer mayor de edad, o con el consentimiento de una menor o incapaz, practique en ella inseminación artificial, se le aplicará prisión de quince a veinte años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de veinte a veinticinco años.
+Al que, sin consentimiento de una mujer mayor de edad, obtenido en términos de los que dispone el artículo 51 Bis 2 de la Ley General de Salud, practique en ella inseminación artificial, se le aplicará prisión de quince a veinte años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de veinte a veinticinco años y multa de mil a dos mil veces el monto diario de la Unidad de Medida y Actualización.
 
-Si la inseminación se realiza con violencia, se impondrá a los autores una pena de veinticinco a treinta años de prisión.
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+###### ARTICULO 157 Bis.
+
+A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes sin su consentimiento, obtenido en términos de los que dispone el artículo 51 Bis 2 de la Ley General de Salud, se le impondrán de cinco a diez años de prisión y multa de doscientos a mil veces el monto diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+###### ARTICULO 157 Ter.
+
+A quien sin consentimiento de persona mayor de dieciocho años, obtenido en términos de los que dispone el artículo 51 Bis 2 de la Ley General de Salud, realice en alguna persona un procedimiento de esterilización, se le impondrán de quince a veinte años de prisión y multa de mil a cuatro mil veces el monto diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+###### ARTICULO 157 Quater.
+
+Cuando los delitos a que se refieren los artículos 157 y 157 Ter del presente Código, sean cometidos aun con el consentimiento de un menor o incapaz, o de quien detente su tutela, guarda o custodia, o se realice a cualquier persona mediante el uso de violencia física, las penas y las multas se aumentarán hasta en una mitad.
+
+En todos los casos el responsable estará obligado a la reparación integral del daño.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ENERO DE 2020)</small>
 
@@ -4665,7 +4693,7 @@ Al que para hacer efectivo su derecho empleare violencia, se le aplicará de tre
 
 ### CAPITULO UNICO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMESTICOS
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 309.
 
@@ -4791,43 +4819,53 @@ Cuando el encubrimiento sea para favorecer conductas o hechos calificados por la
 
 ###### ARTICULO 327.
 
-Al que cometa actos de maltrato o crueldad en contra de cualquier especie animal doméstico, se le impondrán de seis meses a cuatro años de prisión y multa de trescientos a mil días multa.
+Al que cometa actos de maltrato en contra de cualquier especie de animal doméstico, se le impondrán de seis meses a cuatro años de prisión y de trescientos a quinientos días multa.
 
-Para efectos del presente código se entenderá, como animal doméstico lo dispuesto por el artículo 3 de la Ley Estatal de Fauna vigente en el Estado de Morelos y por actos de maltrato o crueldad los siguientes:
+Para efectos del presente código se entenderá, como animal doméstico lo dispuesto por el artículo 3 de la Ley Estatal de Fauna vigente en el Estado de Morelos y por actos de maltrato los siguientes:
+
+I. No brindar atención veterinaria adecuada y oportuna a un animal doméstico cuando presente enfermedades, heridas o condiciones de salud que pongan en riesgo su vida o Intervenir quirúrgicamente animales sin anestesia;
+
+II. Abandonar a cualquier animal de modo tal que quede desamparado o expuesto a riesgos que amenacen su integridad física o la de terceras personas;
+
+III. Descuidar las condiciones de albergue adecuado, de confinamiento sin movilidad natural, de sombra, espacio, alimento, agua, luz, descanso, higiene, protección contra condiciones climáticas extremas, a tal grado que atenten contra la salud del animal;
+
+IV. Suministrar al animal objetos no digeribles de manera natural o utilizar métodos de alimentación que causen sufrimiento o daño al animal, como la imposición de dietas extremas o el uso de utensilios inapropiados que causen lesiones; y
+
+V. Vender, donar, abandonar a un animal que, de acuerdo con su especie, no tenga la madurez biológica para sobrevivir separado de la madre.
+
+Si las conductas previstas en las fracciones anteriores ponen en peligro la vida del animal o alguna función de sus órganos, se impondrán de cuatro a seis años de prisión, y de quinientos a mil días de multa.
+
+Si las conductas previstas provocan la muerte del animal, se impondrá de seis a diez años de prisión, y de mil a mil quinientos días multa.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+ARTICULO 327 BIS.- Al que cometa actos de crueldad en contra de cualquier especie de animal doméstico, se le impondrán de cuatro a siete años de prisión y multa de quinientos a mil doscientos días multa.
+
+Para efectos del presente código se entenderá por actos de crueldad los siguientes:
 
 I. Intervenir quirúrgicamente al animal sin contar con título y cédula profesional vigente de médico o veterinario, salvo el caso de urgencia debidamente comprobada.
 
-II. No brindar atención veterinaria adecuada y oportuna a un animal doméstico cuando presente enfermedades, heridas o condiciones de salud que pongan en riesgo su vida o Intervenir quirúrgicamente animales sin anestesia;
+II. Practicar la vivisección sin contar con un Bioterio debidamente establecido conforme a las leyes mexicanas;
 
-III. Practicar la vivisección sin contar con un Bioterio debidamente establecido conforme a las leyes mexicanas;
+III. Suministrar drogas al animal sin perseguir fines médicos o terapéuticos;
 
-IV. Suministrar drogas al animal sin perseguir fines médicos o terapéuticos;
+IV. Mutilar cualquier parte del cuerpo de un animal, salvo que el acto tenga fines de salud, marcación e higiene de la respectiva especie animal o se realice por motivos de piedad;
 
-V. Mutilar cualquier parte del cuerpo de un animal, salvo que el acto tenga fines de salud, marcación e higiene de la respectiva especie animal o se realice por motivos de piedad;
+V. Realizar o asistir con conocimiento de causa, a actos públicos o privados de riñas de animales y cualquier acción o espectáculo en que se mate, hiera u hostilice a los animales, salvo el caso de los espectáculos debidamente autorizados de conformidad a la Ley Estatal de Fauna;
 
-VI. Abandonar a cualquier animal de modo tal que quede desamparado o expuesto a riesgos que amenacen su integridad física o la de terceras personas;
+VI. Tener cópula o acto sexual con animales, de cualquier especie o sexo;
 
-VII. Realizar o asistir con conocimiento de causa, a actos públicos o privados de riñas de animales y cualquier acción o espectáculo en que se mate, hiera u hostilice a los animales, salvo el caso de los espectáculos debidamente autorizados de conformidad a la Ley Estatal de Fauna;
+VII. Torturar, maltratar o arrollar intencionalmente a un animal doméstico, causándole sufrimiento innecesario, por maldad, brutalidad, egoísmo o negligencia;
 
-VIII. Tener cópula o acto sexual con animales, de cualquier especie o sexo;
+VIII. Provocar la muerte de un animal sin previo dictamen por escrito de un médico veterinario que justifique la necesidad del sacrificio. Los animales vivos que se aseguren con motivo del tipo penal y de sus modalidades contemplados en este artículo, deben ser asegurados y puestos a disposición de la autoridad competente,
 
-IX. Torturar, maltratar o arrollar intencionalmente a un animal doméstico causándole sufrimiento innecesario o comprometiendo su vida, por maldad, brutalidad, egoísmo o negligencia;
+IX. Mantener al animal doméstico en un entorno que, por exposición a ruidos fuertes y prexistentes, situaciones de violencia o agresión o condiciones de confinamiento extremas; incluso de entrenamiento basados en castigos o métodos de control físico o psicológico; generen miedo, ansiedad o estrés constante, y
 
-X. Descuidar las condiciones de albergue adecuado, de confinamiento sin movilidad natural, de sombra, espacio, alimento, agua, luz, agua (sic), descanso, higiene, protección contra condiciones climáticas extremas, a tal grado que atenten contra la salud del animal;
+X. Trasladar al animal arrastrándolo o suspendido, causándole sufrimiento.
 
-XI. Suministrar al animal objetos no digeribles de manera natural o utilizar métodos de alimentación que causen sufrimiento o daño al animal, como la imposición de dietas extremas o el uso de utensilios inapropiados que causen lesiones;
+Si las conductas previstas en las fracciones anteriores ponen en peligro la vida del animal o alguna función de sus órganos se impondrán de siete a once años de prisión, y de ochocientos a mil quinientos días multas.
 
-XII. Vender, donar, abandonar a un animal que, de acuerdo con su especie, no tenga la madurez biológica para sobrevivir separado de la madre;
-
-XIII. Provocar la muerte de un animal sin previo dictamen por escrito de un médico veterinario que justifique la necesidad del sacrificio. Los animales vivos que se aseguren con motivo del tipo penal y de sus modalidades contemplados en este artículo, deben ser asegurados y puestos a disposición de la autoridad competente,
-
-XIV. Mantener al animal doméstico en un entorno que, por exposición a ruidos fuertes y prexistentes, situaciones de violencia o agresión o condiciones de confinamiento extremas; incluso de entrenamiento basados en castigos o métodos de control físico o psicológico; generen miedo, ansiedad o estrés constante;
-
-XV. Trasladar al animal arrastrándolo o suspendido, causándole sufrimiento, y
-
-(NOTA: EL 13 DE MAYO DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 79/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 29 DE FEBRERO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 1707, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XVI. EN LA MEDIDA DE LO POSIBLE NO PERMITIR A UN ANIMAL DOMÉSTICO DEL CONTACTO SOCIAL CON OTROS ANIMALES DE SU ESPECIE O DE INTERACCIONES APROPIADAS CON SERES HUMANOS, CUANDO ESTAS SEAN ESENCIALES PARA SU BIENESTAR EMOCIONAL Y COMPORTAMENTAL; PRIVARLO DE UN ENTORNO ESTIMULANTE QUE SATISFAGA SUS NECESIDADES COGNITIVAS Y SENSORIALES, INCLUYENDO LA FALTA DE ACCESO A ACTIVIDADES FÍSICAS Y A ESTÍMULOS NATURALES; O IMPEDIRLE EXPRESAR COMPORTAMIENTOS PROPIOS DE SU ESPECIE, COMO CORRER, SALTAR, HACER RUIDO Y OTROS COMPORTAMIENTOS INSTINTIVOS Y NATURALES, SIN AFECTACIÓN A TERCERAS PERSONAS.
+Si las conductas previstas provocan la muerte del animal, se impondrá de once a quince años de prisión, y de mil a mil setecientos días de salario multa.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
 
@@ -4841,9 +4879,17 @@ II. Se cause en el animal doméstico la pérdida o la inutilidad de un sentido, 
 
 III. Quien comete el delito es poseedor o propietario del animal;
 
-IV. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los capta en imágenes, fotografía o videograba para hacerlos públicos por cualquier medio, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-V. Cuando sean provocadas por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de animales.
+IV. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los capta en imágenes, fotografía o videograba para hacerlos públicos por cualquier medio;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+V. Cuando sean provocadas por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de animales; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+VI. Cuando el maltrato o crueldad del animal se cometa para la realización de rituales, ceremonias o prácticas derivadas de creencias o tradiciones religiosas, que provoquen sufrimiento, mutilaciones o muerte.
 
 Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía del animal doméstico, ya sea por las lesiones que provoca o el detrimento de su salud.
 
@@ -6246,5 +6292,33 @@ P.O. 8 DE OCTUBRE DE 2025.
 PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS CUARENTA Y CUATRO POR EL QUE SE REFORMA EL ARTÍCULO 327, SE ADICIONA EL ARTÍCULO 327 BIS, Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 328 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS CUARENTA Y CINCO POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 150 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS CUARENTA Y OCHO.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SÉPTIMO Y EL ARTÍCULO 157, Y SE ADICIONAN LOS ARTÍCULOS 157 BIS, 157 TER Y 157 QUATER, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
 
 TERCERA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
