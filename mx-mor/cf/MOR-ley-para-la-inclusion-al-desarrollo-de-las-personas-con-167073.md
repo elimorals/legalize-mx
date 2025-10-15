@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-inclusion-al-desarrollo-de-las-personas-con-167073"
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-19"
-last_updated: "2023-07-19"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA INCLUSIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el número 6211 del Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2023.
 
@@ -323,9 +323,11 @@ IV. La reinserción social de las personas con discapacidad privadas de su liber
 
 V. Desarrollar protocolos y sus manuales en materia de actuación policial hacia las personas con discapacidad, que deberá considerar los tipos de discapacidad relacionados con su diversidad funcional.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 18.
 
-Todos los Entes Públicos relacionados con la protección, promoción, defensa y administración de justicia del Estado, deberán garantizar que las personas con discapacidad reciban un trato digno y apropiado en todo tipo de procedimiento en que participen. Para ello deberán contar con el apoyo de intérpretes en Lengua de Señas Mexicana, así como la emisión de documentos en sistema de escritura Braille, y de lectura fácil.
+Todos los Entes Públicos relacionados con la protección, promoción, defensa y administración de justicia del Estado, deberán garantizar que las personas con discapacidad reciban un trato digno y apropiado en todo tipo de procedimiento en que participen. Para ello deberán contar con el apoyo de intérpretes en Lengua de Señas Mexicana, así como la emisión de documentos en sistema de escritura Braille, y de lectura fácil, así mismo, incluyendo las sentencias o resoluciones que pongan fin al procedimiento jurisdiccional.
 
 ### CAPÍTULO V. DERECHO A LA SALUD
 
@@ -1150,3 +1152,17 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS CUARENTA Y SIETE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS Y DE LA LEY PARA LA INCLUSIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Queda a cargo del Tribunal Superior de Justicia del Estado de Morelos realizar las tareas relacionadas al diseño, programación, presupuestación y capacitación de su personal para dar cumplimiento del presente decreto y garantizar el acceso a la justicia de niñas, niños, adolescentes y personas con discapacidad sensorial, intelectual y mental en las resoluciones judiciales que pongan fin al procedimiento y que así lo requieran.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se oponga a la presente reforma.
