@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2024-10-19"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -2027,9 +2027,9 @@ b) Coadyuvar con los diferentes órganos del H. Congreso del Estado para promove
 
 c) Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, disposición y compromiso institucional;
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-d) Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva;
+d) Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva; así como brindar capacitación obligatoria para la prevención y erradicación de todo tipo de violencia hacia las mujeres, en las distintas modalidades.
 
 > <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
 
@@ -3620,3 +3620,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
 
 TERCERO.- La Comisión de Cultura será la encargada de llevar a cabo el procedimiento para la entrega de la Medalla al Mérito Cultural del Estado de Chihuahua, Víctor Hugo Rascón Banda, que se realiza cada año.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0269/2025 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 143, INCISO D), DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
