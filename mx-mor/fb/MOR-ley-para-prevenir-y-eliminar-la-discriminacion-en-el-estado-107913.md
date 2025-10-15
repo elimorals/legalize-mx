@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-107
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-20"
-last_updated: "2019-04-10"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION EN EL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 20 de mayo de 2015.
 
@@ -71,9 +73,11 @@ IX. Discriminación directa, aquella que se presenta cuando una persona es trata
 
 X. Discriminación indirecta, aquella que se presenta cuando una disposición legal o reglamentaria, una cláusula convencional o contractual, un pacto individual o una decisión unilateral, aparentemente neutros, puedan ocasionar una desventaja particular a una persona respecto de otras por razón de origen racial, étnico, religión, convicciones, discapacidad, edad, orientación sexual, género o cualquier otra causa, siempre que objetivamente no respondan a una finalidad legítima y que los medios para la consecución de esta finalidad no sean adecuados y necesarios;
 
-XI. Discriminación, a toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella; no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el reconocimiento, goce o el ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los motivos siguientes: origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, las opiniones, la orientación sexual, la identidad de género, el estado civil, la situación familiar, las responsabilidades familiares, la apariencia física, las características genéticas, la condición migratoria, el embarazo, la lengua, el idioma, la identidad o filiación política, los antecedentes penales o cualquier otro motivo.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-También se entenderá como discriminación la homofobia, la misoginia, la transfobia, cualquier manifestación de xenofobia, la segregación racial y otras formas conexas de intolerancia;
+XI. Discriminación, a toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella; no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el reconocimiento, goce o el ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito. Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos, se base en uno o más de los motivos siguientes: origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, las creencias religiosas o espirituales, las opiniones, la orientación sexual, la identidad de género, el estado civil, la situación familiar, las responsabilidades familiares, profesión o actividad laboral, la apariencia y/o condición física, las características genéticas, la situación migratoria, las opiniones, el embarazo, la lengua, el idioma, la identidad o filiación política, los antecedentes penales o cualquier otro motivo análogo.
+
+También se entenderá como discriminación la homofobia, la misoginia, la transfobia, cualquier manifestación de xenofobia, la segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
 > <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -157,7 +161,9 @@ II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asigne
 
 III. Prohibir la libre elección de empleo o restringir las oportunidades de acceso, permanencia y ascenso en el mismo;
 
-IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales, generando prácticas que perpetúan la brecha salarial de género;
 
 V. Limitar el acceso y permanencia a los programas de capacitación y de formación profesional;
 
@@ -788,3 +794,13 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO QUINIENTOS CUARENTA Y TRES POR EL QUE SE REFORMA Y ADICIONA (SIC) LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS Y LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE MORELOS, EN MATERIA ELIMINACIÓN DE LA BRECHA SALARIAL”.]</small>
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
