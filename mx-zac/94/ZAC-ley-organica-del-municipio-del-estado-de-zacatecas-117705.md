@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2025-10-04"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -2323,11 +2323,13 @@ Para el caso de los municipios con población menor a setenta mil habitantes, po
 
 Asimismo, podrán solicitarle que, de manera subsidiaria, divulgue vía Internet las obligaciones de transparencia correspondientes.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
 Medios de impugnación
 
 ###### Artículo 131.
 
-Todo solicitante tiene derecho a interponer recurso de revisión y de inconformidad bajo los criterios y mediante los procedimientos que marcan las Leyes en la materia.
+Todo ciudadano tiene derecho a interponer denuncias ante el incumplimiento a las obligaciones de transparencia, así como recurso de revisión derivado de la inconformidad por la respuesta que se otorgue a la solicitud de acceso a la información, o bien, por la ausencia de esta, conforme a lo establecido por la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas.
 
 Sanciones y medidas de apremio por incumplimiento
 
@@ -2347,11 +2349,15 @@ Protección de datos personales
 
 Los municipios, serán responsables de los datos personales en su posesión y, en relación con éstos, deberán:
 
-I. Adoptar los procedimientos adecuados para recibir y responder las solicitudes de acceso, rectificación, corrección y oposición al tratamiento de datos, en los casos que sea procedente, así como capacitar a los servidores públicos y dar a conocer información sobre sus políticas en relación con la protección de tales datos, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+I. Adoptar los procedimientos adecuados para recibir y responder las solicitudes de acceso, rectificación, cancelación y oposición al tratamiento de datos, en los casos que sea procedente, así como capacitar a los servidores públicos y dar a conocer información sobre sus políticas en relación con la protección de tales datos, de conformidad con la normatividad aplicable;
 
 II. Tratar datos personales sólo cuando éstos sean adecuados, pertinentes y no excesivos en relación con los propósitos para los cuales se hayan obtenido o dicho tratamiento se haga en ejercicio de las atribuciones conferidas por ley;
 
-III. Poner a disposición de los individuos, a partir del momento en el cual se recaben datos personales, el documento en el que se establezcan los propósitos para su tratamiento, en términos de la normatividad aplicable, excepto en casos en que el tratamiento de los datos se haga en ejercicio de las atribuciones conferidas por ley;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+III. Poner a disposición de los individuos, de manera previa al momento en que se recaben datos personales, el aviso de privacidad en el que se establezcan los propósitos para su tratamiento, en términos de la normatividad aplicable, excepto en casos en que el tratamiento de los datos se haga en ejercicio de las atribuciones conferidas por ley;
 
 IV. Procurar que los datos personales sean exactos y actualizados;
 
@@ -2359,7 +2365,39 @@ V. Sustituir, rectificar o completar, de oficio, los datos personales que fueren
 
 VI. Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+VII. Tratar los datos personales sujetándose únicamente a las facultades o atribuciones que le confiera la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+VIII. Procurar que el tratamiento de los datos personales esté justificado por finalidades concretas;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+IX. Evitar la obtención de datos personales a través de medios engañosos o fraudulentos, privilegiando los intereses de las personas titulares;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+X. Recabar el consentimiento de las personas titulares, según sea el caso, previo al tratamiento de los datos personales;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XI. Limitar el tratamiento de los datos personales que resulten adecuados, relevantes y estrictamente necesarios para cada finalidad;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XII. Establecer controles o mecanismos que tengan por objeto guardar la confidencialidad de los datos personales, y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XIII. Implementar mecanismos para acreditar el cumplimiento de los principios, deberes y obligaciones en materia de protección de datos personales.
+
 Los Municipios no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso, por escrito o por un medio de autentificación similar, de los individuos a que haga referencia la información de acuerdo con la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+El incumplimiento a lo establecido por el presente artículo, así como a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Zacatecas, será motivo de sanción de acuerdo con lo establecido por dicho ordenamiento.
 
 ### Capítulo XV. Relaciones Laborales
 
@@ -4362,3 +4400,31 @@ P.O. 4 DE OCTUBRE DE 2025.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas, aprobada mediante Decreto 603 y publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, el 2 de junio del 2016.
+
+Tercero. Las personas servidoras públicas del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas de la Secretaría de la Función Pública habilitados para tales efectos o en los medios que esta determine y conforme a la normativa aplicable. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con la presentación de la declaración patrimonial y de intereses final.
+
+Las personas que dentro de los diez días previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, con función de nivel de Director, análogo o superior, incluyendo a las personas Comisionadas, deben presentar acta administrativa de transferencia, conforme a los formatos y directrices que establezca la Comisión de Transición. Dicha entrega no implica liberación alguna de responsabilidades que pudiera llegarse a determinar por la autoridad competente con posterioridad.
+
+La Secretaría de la Función Pública del Poder Ejecutivo tendrá las facultades del Órgano Interno de Control del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales conforme a la Ley General de Responsabilidades Administrativas, a partir de la extinción del organismo.
+
+Cuarto. El titular de Transparencia para el Pueblo de Zacatecas será nombrado por el Gobernador del Estado en un plazo que no podrá exceder de 15 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+Quinto. La Secretaría de la Función Pública realizará la transferencia del personal y de los recursos materiales necesarios para el funcionamiento de Transparencia para el Pueblo de Zacatecas, en un plazo máximo que no podrá exceder de 30 días hábiles a la entrada en vigor del presente Decreto.
+
+Sexto. La Secretaría de la Función Pública podrá transferir en comodato bienes materiales para el funcionamiento de las diferentes Autoridades Garantes conforme a la disponibilidad y a la necesidad, para que dichas autoridades puedan instalarse y comenzar a funcionar.
+
+Séptimo. Los plazos y términos de recepción de documentos, juicios contenciosos, recursos y demás medios de impugnación presentados ante el Instituto Zacatecano de Transparencia Acceso a la Información y Protección de Datos Personales y la Secretaría de la Función Pública y demás Autoridades Garantes estarán suspendidos hasta 120 días naturales improrrogables, posteriores a la entrada en vigor del presente Decreto; con excepción de las solicitudes de acceso a la información que se tramitan mediante la PNT o a través de cualquier medio reconocido para realizarlas.
+
+Dicho plazo podrá acotarse mediante declaratoria pública que emitan las Autoridades Garantes en el ámbito de su competencia, informando a los ciudadanos que han concluido con sus procesos de instalación y se encuentran en condiciones de reiniciar la atención de trámites, en dicho supuesto la suspensión concluirá al día siguiente de que se realice la publicación de dicha declaratoria.
+
+Octavo. Cumplido el plazo de extinción del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, establecido en el artículo segundo transitorio del Decreto número 124, del 7 de junio de 2025, por el cual se emitieron reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia de simplificación orgánica, la persona servidora pública que, previo a la extinción, ocupaba la presidencia de dicho Organismo, asumirá las facultades y obligaciones de liquidadora en los términos de la normatividad aplicable.
+
+Noveno. La Legislatura del Estado tendrá un plazo improrrogable de 90 días naturales, posteriores a la entrada en vigor del presente Decreto para actualizar y reformar las leyes que determinan atribuciones u obligaciones en materia de transparencia y protección de datos personales.
