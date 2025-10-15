@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-17"
-last_updated: "2025-04-30"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE RESIDUOS SOLIDOS Y DE ECONOMIA CIRCULAR -- ANTES LEY DE RESIDUOS SOLIDOS -- PARA EL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE RESIDUOS SÓLIDOS Y DE ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 
@@ -945,7 +947,13 @@ k) Residuos como animales muertos, muebles, enseres domésticos y vehículos;
 
 l) Residuos de laboratorios industriales, químicos, biológicos, veterinarios, de producción o de investigación no considerados como peligrosos; y
 
-m) Los demás que se lleguen a determinar por otras disposiciones jurídicas aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2025)</small>
+
+m) Residuos del tabaco.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 15 DE OCTUBRE DE 2025)</small>
+
+n) Los demás que se lleguen a determinar por otras disposiciones jurídicas aplicables.
 
 II. Por sus propiedades o características inherentes:
 
@@ -1027,6 +1035,10 @@ III. Residuos provenientes de establecimientos de atención de la salud que por 
 
 IV. Aceites y otros materiales no peligrosos.
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+V. Residuos del tabaco
+
 ###### ARTÍCULO 53.
 
 Los recipientes y contenedores que las autoridades dispongan en la vía pública deberán ser diferenciados para residuos sólidos orgánicos e inorgánicos en las diferentes variables que establece el Artículo anterior.
@@ -1043,9 +1055,11 @@ Los generadores o propietarios de residuos sólidos de cualquier tipo, con la ex
 
 Los establecimientos comerciales donde se expenden productos de consumo o utilización masiva están obligados a facilitar sus instalaciones para dicha actividad de recuperación.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 56.
 
-Las autoridades fomentarán que en los establecimientos de mayoristas, tiendas de departamentos y centros comerciales se cuente con espacios destinados a la recepción de residuos sólidos inorgánicos como vidrio, envases de plástico y de aluminio.
+Las autoridades fomentarán que en los establecimientos de mayoristas, tiendas de departamentos y centros comerciales se cuente con espacios destinados a la recepción de residuos sólidos inorgánicos como vidrio, envases de plástico, aluminio, y en los accesos para los residuos del tabaco.
 
 ###### ARTÍCULO 57.
 
@@ -1092,6 +1106,10 @@ Los escombros deberán ser depositados en sitios previamente definidos por cada 
 ###### ARTÍCULO 65.
 
 Los residuos provenientes de la demolición o construcción de obras civiles, deberán ser separados para facilitar su recuperación así como su reciclaje.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 65 BIS. Los residuos provenientes del tabaco, deberán ser separados para facilitar su recuperación, así como su reciclaje.
 
 ### CAPÍTULO IV. DE LAS ESTACIONES DE SEPARACIÓN Y TRANSFERENCIA Y LAS PLANTAS DE TRATAMIENTO
 
@@ -1852,3 +1870,15 @@ P.O. 30 DE ABRIL DE 2025.
 PRIMERA. Se remite el presente Decreto al Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO QUINIENTOS CINCUENTA Y CINCO QUE REFORMA EL INCISO M) A LA FRACCIÓN I DEL ARTÍCULO 45 Y SE ADICIONA LA FRACCIÓN N) RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, Y EL ARTÍCULO 56 Y SE ADICIONAN LA FRACCIÓN V AL ARTÍCULO 52 Y EL ARTÍCULO 65 BIS, TODOS DE LA LEY DE RESIDUOS SÓLIDOS Y DE ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente Decreto.
+
+TERCERA. El presente Decreto entrará en vigor a partir de primero de enero de 2026, con el objeto de que las autoridades obligadas implementen y ejecuten lo dispuesto por la presente reforma.
+
+CUARTA. La Secretaría de Desarrollo Sustentable y los Ayuntamientos del Estado de Morelos, en un plazo no mayor a 90 días hábiles a partir de la vigencia del presente decreto, deberán de actualizar sus reglamentos respectivos.
