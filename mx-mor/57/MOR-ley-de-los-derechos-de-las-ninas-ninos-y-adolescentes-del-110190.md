@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2025-05-28"
+last_updated: "2025-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -161,13 +161,17 @@ XXX. Salud Mental: el estado de bienestar que permite a las niñas, niños y ado
 
 XXXI. Los Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXII], P.O. 15 DE OCTUBRE DE 2025)</small>
 
-XXXII. Medidas de protección especial: conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger y garantizar los derechos humanos de las niñas, niños y adolescentes conforme a su interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el libre goce y pleno ejercicio de sus derechos, y
+XXXI. (SIC) Medidas de protección especial: conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger y garantizar los derechos humanos de las niñas, niños y adolescentes conforme a su interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el libre goce y pleno ejercicio de sus derechos;
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIII], P.O. 15 DE OCTUBRE DE 2025)</small>
 
-XXXIII. Mendicidad ajena infantil: explotación de niñas, niños y adolescentes realizada por los padres o por un tercero para obtener un beneficio al obligarlos a pedir limosna o caridad contra la voluntad, recurriendo a la amenaza de daño grave, un daño grave, al uso de la fuerza u otras formas de coacción, o el engaño.
+XXXII. Mendicidad ajena infantil: explotación de niñas, niños y adolescentes realizada por los padres o por un tercero para obtener un beneficio al obligarlos a pedir limosna o caridad contra la voluntad, recurriendo a la amenaza de daño grave, un daño grave, al uso de la fuerza u otras formas de coacción, o el engaño, y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XXXIII. Lectura fácil: formato que tiene como objetivo la comprensión integral de un texto a personas con dificultades para entenderlo en su formato original, pudiendo incluir diferentes elementos en su elaboración que faciliten su entendimiento.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2025)</small>
 
@@ -1148,6 +1152,10 @@ XIV. Garantizar que el entorno en el que sean escuchados niñas, niños o adoles
 > <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
 
 XV. Establecer medidas de protección a niñas, niños y adolescentes indígenas y afromexicanos que por razones de riesgo hayan sido desplazados de su comunidad protegiendo su lengua, vestimenta o manifestaciones culturales.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XVI. Proporcionar en las resoluciones o sentencias que pongan fin a los procedimientos, cuando sea necesaria, una sentencia complementaria en formato de lectura fácil, siendo obligatoria cuando estén involucrados menores de edad con discapacidad sensorial, mental o intelectual.
 
 ###### Artículo 78.
 
@@ -2244,3 +2252,15 @@ Segundo.- Remítase a la Titular del Poder Ejecutivo del Estado, para su promulg
 Tercero.- Los centros educativos deberán canalizar los casos de salud mental detectados cuando así se requiera, a las instituciones especializadas en esta materia para atención.
 
 Cuarto.– A partir de la vigencia del presente decreto la Secretaría de Educación Pública del Estado de Morelos deberá de realizar dentro de un plazo de 90 días las adecuaciones necesarias a sus reglamentos para incluir la educación emocional en el sistema Educativo Estatal.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO QUINIENTOS CUARENTA Y SIETE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS Y DE LA LEY PARA LA INCLUSIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Queda a cargo del Tribunal Superior de Justicia del Estado de Morelos realizar las tareas relacionadas al diseño, programación, presupuestación y capacitación de su personal para dar cumplimiento del presente decreto y garantizar el acceso a la justicia de niñas, niños, adolescentes y personas con discapacidad sensorial, intelectual y mental en las resoluciones judiciales que pongan fin al procedimiento y que así lo requieran.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se oponga a la presente reforma.
