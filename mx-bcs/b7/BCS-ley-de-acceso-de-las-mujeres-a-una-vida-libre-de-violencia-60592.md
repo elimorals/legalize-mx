@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2025-09-10"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE OCTUBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -87,6 +87,14 @@ IV. Libertad y autonomía de las mujeres.
 
 V. (DEROGADA, B.O. 30 DE ABRIL DE 2014)
 
+> <small>(ADICIONADA, B.O. 16 DE OCTUBRE DE 2025)</small>
+
+VI. La Perspectiva de Género; y
+
+> <small>(ADICIONADA, B.O. 16 DE OCTUBRE DE 2025)</small>
+
+VII. Perspectiva Intercultural.
+
 ###### ARTÍCULO 3°.
 
 Para los efectos de la presente ley se entenderá por:
@@ -138,6 +146,10 @@ XIX. CIBERESPACIO.- Ámbito artificial creado por medios informáticos.
 > <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
 XX. BANEVIM-BCS: Al Banco Estatal de Datos e Información sobre Casos de Violencia Contra las Mujeres, el cual se integrará principalmente de casos o incidencia de violencia contra las mujeres, trámites, órganos competentes, regionalización, frecuencia, edad, número de víctimas, tipos y modalidades de violencia, causas, características, efectos, recursos asignados o erogados, investigaciones y estudios en la materia, y medidas de prevención, atención y erradicación y las evaluaciones de las mismas, y que podrá servir como elemento para acreditar la integración o procedencia de la Alerta de Violencia contra las Mujeres. El uso y disposición de la información que integre el Banco Estatal de Datos e Información sobre Casos de Violencia Contra las Mujeres, quedará sujeto a lo previsto por las leyes en materia de acceso a la información;
+
+> <small>(ADICIONADA, B.O. 16 DE OCTUBRE DE 2025)</small>
+
+XXI. Perspectiva Intercultural: Es una herramienta que enfoca, visibiliza, reconoce y atiende las asimetrías sociales orientada a valorar la diversidad cultural, lingüística y condiciones de identidad de las mujeres, con especial atención a mujeres indígenas y afromexicanas, garantizando su acceso equitativo a derechos y servicios mediante la eliminación de estructuras de poder racializado y barreras discriminatorias; el respeto a sus cosmovisiones, lenguas y sistemas normativos, y la promoción de su participación activa en igualdad de condiciones, fomentando un diálogo respetuoso y el enriquecimiento mutuo entre culturas.
 
 ## TÍTULO SEGUNDO. TIPOS Y MODALIDADES DE VIOLENCIA CONTRA LAS MUJERES
 
@@ -989,11 +1001,13 @@ XVI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 Corresponde a la Procuraduría General de Justicia del Estado, las siguientes obligaciones:
 
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 16 DE OCTUBRE DE 2025)</small>
 
-I. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+I.- Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanente (sic) en:
 
-a) Derechos humanos y género;
+> <small>(REFORMADO, B.O. 16 DE OCTUBRE DE 2025)</small>
+
+a) Derechos humanos, género y perspectiva intercultural;
 
 b) Perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y homicidio agravado por feminicidio;
 
@@ -1469,29 +1483,47 @@ X. Las demás previstas para el cumplimiento de la presente ley.
 
 ### CAPÍTULO TERCERO. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, B.O. 16 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 40 Ter.
 
-El Programa contendrá las acciones con perspectiva de género para:
+El Programa contendrá las acciones con perspectiva de género e intercultural para:
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
 I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
 
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
 II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten (sic), fomentan y toleran la violencia contra las mujeres;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
 > <small>(REFORMADA, B.O. 22 DE JUNIO DE 2017)</small>
 
 III. Promover y capacitar en materia de derechos humanos y violencia de género al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
 
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
 IV. Educar y capacitar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
 V. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
 
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
 VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
 VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
 
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
 VIII. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
 IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
@@ -1499,11 +1531,19 @@ IX. Garantizar la investigación y la elaboración de diagnósticos estadístico
 
 X. Publicar periódicamente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, BANEVIM-BCS;
 
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
 XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
 XII. Promover la cultura de denuncia de la violencia contra las mujeres en el ámbito de competencia de las dependencias y entidades de la administración pública para garantizar su seguridad y su integridad; y
 
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
 XIII. Diseñar un modelo integral de atención a los derechos fundamentales de las mujeres que deberán instrumentar las dependencias, entidades y las instituciones públicas y privadas y los refugios encargados de la atención de las mujeres víctimas de violencia; y
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
 XIV. Fomentar la armonización legislativa para erradicar la discriminación y violencia de género.
 
@@ -1541,7 +1581,13 @@ IX. Recibir de la autoridad jurisdiccional las medidas de protección a que se r
 
 X. A que permanezcan en secreto sus datos personales al ser atendidas por cualquier autoridad; y
 
-XI. Las demás señaladas en esta Ley, su reglamento y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 16 DE OCTUBRE DE 2025)</small>
+
+XI. A que se le garantice la aplicación de la perspectiva de género e intercultural, según el caso particular del que se trate; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 16 DE OCTUBRE DE 2025)</small>
+
+XII. Las demás señaladas en esta Ley, su reglamento y otras disposiciones legales.
 
 > <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -1577,9 +1623,11 @@ VIII. Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
 
+> <small>(REFORMADO, B.O. 16 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 42.
 
-Es obligación de cualquier autoridad, atender de manera inmediata, cualquier petición de diversa autoridad o particular, los casos de violencia en contra de mujeres con discapacidad, de la tercera edad o menores.
+Es obligación de cualquier autoridad atender de manera inmediata, cualquier petición de diversa autoridad o particular, los casos de violencia en contra de mujeres con discapacidad, de la tercera edad, menores, afromexicanas o pertenecientes a cualquier otro grupo vulnerable.
 
 ###### ARTÍCULO 43.
 
@@ -1607,9 +1655,11 @@ De la misma manera, los Ayuntamientos incorporarán y aprobarán anualmente en s
 
 La permanencia de las personas afectadas en los refugios será mientras persista su inestabilidad física, psicológica o situación de riesgo. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad, pero para acceder a ellos bastará la solicitud de la misma víctima a la decisión expresa del Ministerio Publico, mediante el convencimiento de la necesidad de la víctima a adoptar la medida temporal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 47.
 
-Los refugios que se instalen desde la perspectiva de género contarán (sic) personal debidamente capacitado y especializado en la materia y tendrán a su cargo las siguientes acciones:
+Los refugios que se instalen desde la perspectiva de los principios rectores de la presente Ley, contarán con personal debidamente capacitado y especializado en la materia y tendrán a su cargo las siguientes acciones:
 
 I. Participar en la aplicación del Programa Estatal;
 
@@ -1886,3 +1936,11 @@ A las personas que hayan cometido un delito de los contemplados en el presente D
 TERCERO.- La Secretaría de Salud del Gobierno del Estado de Baja California Sur, contará con un lapso no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para coordinarse con las autoridades correspondientes del Poder Judicial y de la Procuraduría General de Justicia ambas del Estado de Baja California Sur, a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
 
 CUARTO.- Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
+
+B.O. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3192 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
