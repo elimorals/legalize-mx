@@ -4,7 +4,7 @@ identifier: "LAMP"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-02"
-last_updated: "2025-03-13"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93440&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LAMP"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2025.
 
 > <small>[N. DE E. CONTIENE LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO PUBLICADO EL 14 DE JULIO DE 2014 “POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADA EN LA EDICIÓN VESPERTINA DEL DIARIO OFICIAL DE LA FEDERACIÓN EL 15 DE JUNIO DE 2018.]</small>
 
@@ -74,31 +74,33 @@ El juicio de amparo se tramitará en vía directa o indirecta. Se substanciará 
 
 A falta de disposición expresa se aplicará en forma supletoria el Código Nacional de Procedimientos Civiles y Familiares, y en su defecto, los principios generales del derecho.
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 3o.
 
-En el juicio de amparo las promociones deberán hacerse por escrito.
+En el juicio de amparo las promociones deberán hacerse por escrito. Su presentación puede hacerse de forma electrónica o impresa.
 
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
+Si las partes o sus representantes cuentan con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, deberán manifestarlo desde su primera actuación en el juicio de amparo, a efecto de que sea a través de dicho medio por el cual se lleven a cabo las notificaciones correspondientes.
 
-Podrán ser orales las que se hagan en las audiencias, notificaciones y comparecencias autorizadas por la ley, dejándose constancia de lo esencial. Es optativo para la persona promovente presentar su escrito en forma impresa o electrónicamente.
+Las autoridades que tengan suscrito Convenio de Interconexión con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación deberán informarlo en su primera promoción, a efecto de que las notificaciones se realicen por medio de dicho sistema.
+
+La presentación electrónica de promociones será opcional para la parte promovente, por lo que en ningún supuesto podrá condicionarse el acceso al procedimiento a la utilización de medios digitales, cuando la persona haya elegido ejercer su derecho a promover por escrito.
+
+Únicamente podrán ser orales las promociones que se hagan en las audiencias, notificaciones y comparecencias autorizadas por la ley, dejándose constancia de lo esencial.
 
 Las copias certificadas que se expidan para la substanciación del juicio de amparo no causarán contribución alguna.
-
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
 
 Los escritos en forma electrónica se presentarán mediante el empleo de las tecnologías de la información, utilizando la Firma Electrónica conforme la regulación que para tal efecto emita el Órgano de Administración Judicial.
 
 La Firma Electrónica es el medio de ingreso al sistema electrónico del Poder Judicial de la Federación y producirá los mismos efectos jurídicos que la firma autógrafa, como opción para enviar y recibir promociones, documentos, comunicaciones y notificaciones oficiales, así como consultar acuerdos, resoluciones y sentencias relacionadas con los asuntos competencia de los órganos jurisdiccionales.
 
-En cualquier caso, sea que las partes promuevan en forma impresa o electrónica, los órganos jurisdiccionales están obligados a que el expediente electrónico e impreso coincidan íntegramente para la consulta de las partes.
+El Órgano de Administración Judicial, mediante acuerdos generales, determinará la forma en que deberán integrarse los expedientes físico y electrónico, salvaguardando en todo momento el derecho de las partes para consultarlos.
 
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
+Las personas titulares de los órganos jurisdiccionales serán las responsables de vigilar la digitalización de todas las promociones y documentos que presenten en forma física las partes, así como de los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes en el sistema.
 
-El Órgano de Administración Judicial, mediante reglas y acuerdos generales, determinará la forma en que se deberá integrar, en su caso, el expediente impreso.
+El Órgano de Administración Judicial, en ejercicio de las facultades que le confiere la Ley Orgánica del Poder Judicial de la Federación, emitirá los acuerdos generales que considere necesarios a efecto de establecer las bases y el correcto funcionamiento de la Firma Electrónica.
 
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
-
-Las personas titulares de los órganos jurisdiccionales serán las responsables de vigilar la digitalización de todas las promociones y documentos que presenten las partes, así como los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes en el sistema, o en el caso de que éstas se presenten en forma electrónica, se procederá a su impresión para ser incorporada al expediente impreso. Los secretarios y las secretarias de acuerdos de los órganos jurisdiccionales darán fe de que, tanto en el expediente electrónico como en el impreso, sea incorporada cada promoción, documento, auto y resolución, a fin de que coincidan en su totalidad. El Órgano de Administración Judicial, en ejercicio de las facultades que le confiere la Ley Orgánica del Poder Judicial de la Federación, emitirá los acuerdos generales que considere necesarios a efecto de establecer las bases y el correcto funcionamiento de la Firma Electrónica.
+Todas las autoridades que participen en el juicio de amparo están obligadas a generar un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, a efecto de que por dicho medio actúen dentro del juicio. Las autoridades que tengan suscrito Convenio de Interconexión con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación podrán actuar en el juicio a través de dicho sistema.
 
 No se requerirá Firma Electrónica cuando el amparo se promueva en los términos del artículo 15 de esta Ley.
 
@@ -135,6 +137,10 @@ Son partes en el juicio de amparo:
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE MARZO DE 2025)</small>
 
 I. La persona quejosa, teniendo tal carácter quien aduce ser titular de un derecho subjetivo o de un interés legítimo individual o colectivo, siempre que alegue que la norma, acto u omisión reclamados violan los derechos previstos en el artículo 1o. de la presente Ley y con ello se produzca una afectación real y actual a su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+Tratándose del interés legítimo, la norma, acto u omisión reclamado deberá ocasionar en la persona quejosa una lesión jurídica individual o colectiva, real y diferenciada del resto de las personas, de tal forma que su anulación produzca un beneficio cierto y no meramente hipotético o eventual en caso de que se otorgue el amparo.
 
 El interés simple, en ningún caso, podrá invocarse como interés legítimo. La autoridad pública no podrá invocar interés legítimo.
 
@@ -200,7 +206,9 @@ Cuando el acto reclamado derive de un procedimiento penal, podrá promoverlo, ad
 
 La Federación, los Estados, la Ciudad de México, los municipios o cualquier persona moral pública podrán solicitar amparo por conducto de las personas servidoras públicas o representantes que señalen las disposiciones aplicables, cuando la norma general, un acto u omisión los afecten en su patrimonio respecto de relaciones jurídicas en las que se encuentren en un plano de igualdad con los particulares.
 
-Las personas morales oficiales estarán exentas de prestar las garantías que en esta Ley se exige a las partes.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+Las personas morales oficiales, los organismos descentralizados, las empresas públicas del Estado, las empresas de participación estatal mayoritaria, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas, fondos, mandatos y fideicomisos públicos estarán exentos de prestar las garantías que en esta Ley se exige a las partes.
 
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
 
@@ -366,7 +374,9 @@ Cuando la persona quejosa y la tercera interesada cuenten con Firma Electrónica
 
 Las notificaciones a la persona titular del Poder Ejecutivo Federal se entenderán con el o la titular de la Secretaría de Estado o de la Consejería Jurídica del Ejecutivo Federal, que deba representarla en el juicio de amparo, de acuerdo con lo dispuesto en el acuerdo general al que hace referencia el artículo 9o. de esta Ley.
 
-Las notificaciones a las entidades a que se hace referencia en el párrafo anterior deberán ser hechas por medio de oficio impreso dirigido al domicilio oficial que corresponda o en forma digital a través del uso de la Firma Electrónica.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+Las notificaciones a las entidades a que se hace referencia en el párrafo anterior deberán ser hechas vía electrónica, con el uso de la Firma Electrónica, a través del Portal de Servicios en Línea del Poder Judicial de la Federación o, en su caso, conforme al Convenio suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación, y solo excepcionalmente por medio de oficio impreso dirigido al domicilio oficial que corresponda.
 
 ###### Artículo 26.
 
@@ -418,7 +428,15 @@ c) Al o la Ministerio Público de la Federación en el caso de amparo contra nor
 
 III. Por lista, en los casos no previstos en las fracciones anteriores; y
 
-IV. Por vía electrónica, a las partes que expresamente así lo soliciten, y que previamente hayan obtenido la Firma Electrónica.
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+IV. Por vía electrónica:
+
+a) A las partes que cuenten con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación.
+
+b) A las autoridades, a través de los perfiles institucionales oficiales con que cuenten dentro del Portal de Servicios en Línea del Poder Judicial de la Federación o, en su caso, conforme al Convenio que tengan suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación.
+
+Para los supuestos enunciados en los incisos anteriores, la totalidad de las notificaciones del juicio de amparo, ya sean de carácter personal o por lista, deben practicarse por las vías mencionadas.
 
 ###### Artículo 27.
 
@@ -464,6 +482,10 @@ Si a pesar de lo anterior no pudiere efectuarse la notificación, se hará por e
 
 c) Cuando se trate de personas de escasos recursos a juicio del órgano jurisdiccional, se ordenará la publicación correspondiente en el Diario Oficial de la Federación sin costo para la persona quejosa.
 
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+IV. Cuando obre en autos que la persona cuenta con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, la notificación se hará de forma electrónica.
+
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
 
 Cuando deba notificarse a la persona interesada la providencia que mande ratificar el escrito de desistimiento de la demanda o de cualquier recurso, si no consta en autos el domicilio para oír notificaciones, ni se expresan estos datos en el escrito, continuará el juicio.
@@ -480,9 +502,17 @@ Si la autoridad se niega a recibir el oficio, el actuario o actuaria hará del c
 
 II. Si el domicilio de la autoridad se encuentra fuera del lugar del juicio, se enviará el oficio por correo en pieza certificada con acuse de recibo, el que se agregará en autos.
 
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
-En casos urgentes, cuando el domicilio se encuentre fuera de la circunscripción territorial del órgano jurisdiccional que conozca del juicio, pero en zona conurbada, podrá ordenarse que la notificación se haga por medio del actuario o actuaria, y
+En casos urgentes, cuando el domicilio se encuentre fuera de la circunscripción territorial del órgano jurisdiccional que conozca del juicio, pero en zona conurbada, podrá ordenarse que la notificación se haga por medio del actuario o actuaria.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+El Órgano de Administración Judicial será el encargado de desarrollar y actualizar mediante acuerdos generales, el listado de medios electrónicos aptos para practicar notificaciones en el juicio de amparo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+En ningún caso podrán practicarse notificaciones a las partes por un medio diverso al establecido en la presente Ley, en los acuerdos generales emitidos por el Órgano de Administración Judicial o, tratándose de autoridades responsables que tengan Convenio suscrito con el Órgano de Administración Judicial o la Suprema Corte de Justicia de la Nación, según corresponda, en contravención a las formas o medios que se establezcan en dicho convenio, y
 
 III. En casos urgentes, cuando lo requiera el orden público o fuere necesario para la eficacia de la notificación, el órgano jurisdiccional que conozca del amparo o del incidente de suspensión o de cualquier otro previsto por esta Ley, podrá ordenar que la notificación se haga a las autoridades responsables por cualquier medio oficial, sin perjuicio de practicarla conforme a las fracciones I y II de este artículo.
 
@@ -510,9 +540,9 @@ El actuario o actuaria asentará en el expediente la razón respectiva.
 
 Las notificaciones por vía electrónica se sujetarán a las reglas siguientes:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
-I. A las y los representantes de las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, así como cualesquier otra que tuviere intervención en el juicio, la primera notificación deberá hacerse por oficio impreso, en los términos precisados en el artículo 28 de esta Ley y excepcionalmente a través de oficio digitalizado mediante la utilización de la Firma Electrónica.
+I. A las y los representantes de las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, así como cualesquier otra que tuviere intervención en el juicio, la primera notificación deberá hacerse por oficio digitalizado mediante la utilización de la Firma Electrónica al usuario registrado dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, o en su caso, mediante el sistema establecido en el Convenio suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación y, excepcionalmente, por oficio impreso en los términos precisados en el artículo 28 de esta Ley.
 
 A efecto de dar cumplimiento a lo dispuesto por el párrafo anterior, cuando el domicilio se encuentre fuera del lugar del juicio, la primera notificación se hará por correo, en pieza certificada con acuse de recibo por medio de oficio digitalizado, con la utilización de la Firma Electrónica.
 
@@ -852,11 +882,23 @@ Cuando se declare impedida a una jueza o un juez de distrito, conocerá del asun
 
 En el escrito de recusación deberán manifestarse, bajo protesta de decir verdad, los hechos que la fundamentan y exhibirse en billete de depósito la cantidad correspondiente al monto máximo de la multa que pudiera imponerse en caso de declararse infundada. De no cumplirse estos requisitos la recusación se desechará de plano, salvo que, por lo que hace al último de ellos, se alegue insolvencia. En este caso, el órgano jurisdiccional la calificará y podrá exigir garantía por el importe del mínimo de la multa o exentar de su exhibición.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+Asimismo, el órgano jurisdiccional desechará de plano la recusación, cuando:
+
+I. Se advierta que existan elementos suficientes que demuestren que su promoción se haya dirigido a entorpecer o dilatar el procedimiento en cuestión, o
+
+II. Sea presentada para que algún Ministro o Ministra, Magistrado o Magistrada se abstenga de conocer de cuestiones accesorias o diversas al fondo de la controversia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 60.
 
-La recusación se presentará ante la persona servidora pública a quien se estime impedido, la que lo comunicará al órgano que deba calificarla. Éste, en su caso, la admitirá y solicitará informe a la persona servidora pública requerida, la que deberá rendirlo dentro de las veinticuatro horas siguientes a su notificación.
+La recusación se presentará ante la persona servidora pública a quien se estime impedida, la que lo comunicará al órgano que deba calificarla. Éste, en su caso, la admitirá y solicitará informe a la persona servidora pública requerida, la que deberá rendirlo dentro de las veinticuatro horas siguientes a su notificación.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+El escrito de recusación deberá ser presentado con anterioridad a la publicación de la lista de sesión a que se refiere el artículo 184 de esta Ley. Para el caso de que el asunto sea retirado y/o aplazado conforme al citado artículo 184, no podrá volver a presentarse, salvo que se modifique la integración del órgano jurisdiccional.
 
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
 
@@ -1242,6 +1284,10 @@ II. En amparo directo, en contra de las sentencias que resuelvan sobre la consti
 
 La parte que obtuvo resolución favorable en el juicio de amparo puede adherirse a la revisión interpuesta por otra de las partes dentro del plazo de cinco días, contados a partir del día siguiente a aquél en que surta efectos la notificación de la admisión del recurso, expresando los agravios correspondientes; la adhesión al recurso sigue la suerte procesal de éste.
 
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+La notificación del auto por el cual se admita el recurso deberá efectuarse a las partes en un plazo que no exceda los cinco días siguientes a su emisión.
+
 ###### Artículo 83.
 
 Es competente la Suprema Corte de Justicia de la Nación para conocer del recurso de revisión contra las sentencias dictadas en la audiencia constitucional, cuando habiéndose impugnado normas generales por estimarlas inconstitucionales, o cuando en la sentencia se establezca la interpretación directa de un precepto de la Constitución y subsista en el recurso el problema de constitucionalidad.
@@ -1498,7 +1544,13 @@ f) Los reglamentos locales; y
 
 g) Los decretos, acuerdos y todo tipo de resoluciones de observancia general;
 
-II. Contra actos u omisiones que provengan de autoridades distintas de los tribunales judiciales, administrativos o del trabajo;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+II. Contra actos u omisiones que provengan de autoridades distintas de los tribunales judiciales, administrativos o del trabajo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+Si se trata de actos de ejecución o cobro de contribuciones de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente, o de resoluciones que resuelvan solicitudes de prescripción de dichos créditos firmes, sólo podrá promoverse el amparo hasta el momento de la publicación de la convocatoria de remate, caso en el cual se harán valer las violaciones cometidas durante el procedimiento. Las normas generales aplicadas durante el procedimiento solo podrán reclamarse en el amparo promovido contra la resolución referida;
 
 III. Contra actos, omisiones o resoluciones provenientes de un procedimiento administrativo seguido en forma de juicio, siempre que se trate de:
 
@@ -1532,7 +1584,7 @@ VIII. Contra actos de autoridad que determinen inhibir o declinar la competencia
 
 IX. Contra normas generales, actos u omisiones de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2014)</small>
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, D.O.F. 14 DE JULIO DE 2014]</small>
 
 Tratándose de resoluciones dictadas por dichos órganos emanadas de un procedimiento seguido en forma de juicio sólo podrá impugnarse la que ponga fin al mismo por violaciones cometidas en la resolución o durante el procedimiento; las normas generales aplicadas durante el procedimiento sólo podrán reclamarse en el amparo promovido contra la resolución referida.
 
@@ -1588,17 +1640,23 @@ Con la demanda se exhibirán copias para cada una de las partes y dos para el in
 
 El órgano jurisdiccional de amparo, de oficio, mandará expedir las copias cuando el amparo se promueva por comparecencia, por vía telegráfica o por medios electrónicos, lo mismo que en asuntos del orden penal, laboral tratándose de los trabajadores, cuando se puedan afectar intereses de menores de edad o incapaces, así como los derechos agrarios de los núcleos de población comunal o ejidal o de las personas ejidatarias o comuneras, así como cuando se trate de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 111.
 
-Podrá ampliarse la demanda cuando:
+Podrá ampliarse la demanda únicamente cuando:
 
 I. No hayan transcurrido los plazos para su presentación;
 
-> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
-II. Con independencia de lo previsto en la fracción anterior, la persona quejosa tenga conocimiento de actos de autoridad que guarden estrecha relación con los actos reclamados en la demanda inicial. En este caso, la ampliación deberá presentarse dentro de los plazos previstos en el artículo 17 de esta Ley.
+II. Con independencia de lo previsto en la fracción anterior, la persona quejosa tenga conocimiento de actos de autoridad que guarden estrecha relación con los actos reclamados en la demanda inicial y que no hubieren sido de su conocimiento con anterioridad a la presentación de la demanda. En este caso, la ampliación deberá presentarse dentro de los plazos previstos en el artículo 17 de esta Ley.
 
 En el caso de la fracción II, la demanda podrá ampliarse dentro de los plazos referidos en este artículo, siempre que no se haya celebrado la audiencia constitucional o bien presentar una nueva demanda.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+No procederá la ampliación de demanda fuera de los casos expresamente previstos en este artículo.
 
 #### Sección Segunda. Substanciación
 
@@ -1639,6 +1697,10 @@ En caso de falta de copias, se estará a lo dispuesto por el artículo 110 de es
 De no existir prevención, o cumplida ésta, el órgano jurisdiccional admitirá la demanda; señalará día y hora para la audiencia constitucional, que se celebrará dentro de los treinta días siguientes; pedirá informe con justificación a las autoridades responsables, apercibiéndolas de las consecuencias que implica su falta en términos del artículo 117 de esta Ley; ordenará correr traslado a la persona tercera interesada, y, en su caso, tramitará el incidente de suspensión.
 
 Cuando a criterio del órgano jurisdiccional exista causa fundada y suficiente, la audiencia constitucional podrá celebrarse en un plazo que no podrá exceder de otros treinta días.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+Las personas servidoras públicas serán responsables de verificar que los expedientes estén integrados debidamente con antelación a la celebración de la audiencia constitucional.
 
 ###### Artículo 116.
 
@@ -1718,6 +1780,10 @@ Las personas peritas no son recusables, pero la nombrada por el órgano jurisdic
 
 A fin de que las partes puedan rendir sus pruebas, las personas servidoras públicas tienen la obligación de expedir con toda oportunidad, las copias o documentos que aquellas les hubieren solicitado. Si no lo hacen, la parte interesada una vez que acredite haber hecho la petición, solicitará al órgano jurisdiccional que requiera a las omisas y difiera la audiencia, lo que se acordará siempre que la solicitud se hubiere hecho cinco días hábiles antes del señalado para su celebración, sin contar el de la solicitud ni el señalado para la propia audiencia. El órgano jurisdiccional hará el requerimiento de que se le envíen directamente los documentos o copias dentro de un plazo que no exceda de diez días.
 
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+Este plazo no podrá ampliarse con motivo del diferimiento de la audiencia constitucional, salvo que se trate de probar o desvirtuar hechos que no hayan podido ser conocidos por las partes con la oportunidad legal suficiente para ofrecerlas en el plazo referido, por causas no imputables a su descuido o negligencia dentro del procedimiento. En estos casos, el plazo para el ofrecimiento de tales pruebas será el señalado para la audiencia constitucional, tomando como indicador la nueva fecha señalada para la audiencia.
+
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
 
 Si a pesar del requerimiento no se le envían oportunamente los documentos o copias, el órgano jurisdiccional, a petición de parte, podrá diferir la audiencia hasta en tanto se envíen; hará uso de los medios de apremio y agotados éstos, si persiste el incumplimiento denunciará los hechos al o la Ministerio Público de la Federación.
@@ -1732,11 +1798,11 @@ Si al presentarse un documento por una de las partes otra de ellas lo objetare d
 
 Las pruebas se desahogarán en la audiencia constitucional, salvo aquéllas que a juicio del órgano jurisdiccional puedan recibirse con anterioridad o las que deban desahogarse fuera de la residencia del órgano jurisdiccional que conoce del amparo, vía exhorto, despacho, requisitoria o en cualquier otra forma legal, que podrán ser enviados y recibidos haciendo uso de la Firma Electrónica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 124.
 
-Las audiencias serán públicas. Abierta la audiencia, se procederá a la relación de constancias, videograbaciones analizadas íntegramente y pruebas desahogadas, y se recibirán, por su orden, las que falten por desahogarse y los alegatos por escrito que formulen las partes; acto continuo se dictará el fallo que corresponda.
+Las audiencias serán públicas. Abierta la audiencia, se procederá a la relación de constancias, videograbaciones analizadas íntegramente y pruebas desahogadas, y se recibirán, por su orden, las que falten por desahogarse y los alegatos por escrito que formulen las partes; acto continuo se dictará el fallo que corresponda en un plazo que no podrá exceder de noventa días naturales.
 
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
 
@@ -1774,17 +1840,23 @@ I. Extradición; y
 
 II. Siempre que se trate de algún acto que, si llegare a consumarse, haría físicamente imposible restituir a la persona quejosa en el goce del derecho reclamado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 128.
 
-Con excepción de los casos en que proceda de oficio, la suspensión se decretará, en todas las materias salvo las señaladas en el último párrafo de este artículo, siempre que concurran los requisitos siguientes:
+Con excepción de los casos en que proceda de oficio, la suspensión se tramitará a petición de la persona quejosa en todas las materias, salvo aquellas previstas en el último párrafo de este artículo.
 
-> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
-I. Que la solicite la persona quejosa, y
+Para ello, el órgano jurisdiccional, cuando la naturaleza del acto lo permita, deberá realizar de forma expresa y justificada un análisis ponderado de la apariencia del buen derecho y del interés social, a fin de verificar que concurran los requisitos siguientes:
 
-II. Que no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
+I. Que exista el acto reclamado, se tenga certeza de su inminente realización u opere una presunción razonable sobre su existencia.
+
+II. Deberá acreditarse, aunque sea de manera indiciaria, el interés suspensional de la persona promovente, entendido como la existencia de un principio de agravio derivado del acto reclamado, que permita inferir que su ejecución afectará a la persona quejosa.
+
+III. Que, al ponderar los efectos de la suspensión frente al interés social, y a disposiciones de orden público, el órgano jurisdiccional advierta que su concesión no causa un daño significativo a la colectividad, ni priva a la sociedad de beneficios que ordinariamente le corresponden.
+
+IV. Que, del análisis preliminar de los argumentos y elementos aportados, se desprenda la apariencia del buen derecho, sin que ello implique prejuzgar sobre el fondo del asunto.
 
 La suspensión se tramitará en incidente por separado y por duplicado.
 
@@ -1792,9 +1864,9 @@ La suspensión se tramitará en incidente por separado y por duplicado.
 
 Asimismo, no serán objeto de suspensión las órdenes o medidas de protección dictadas en términos de la legislación aplicable por alguna autoridad administrativa o jurisdiccional para salvaguardar la seguridad o integridad de una persona y la ejecución de una técnica de investigación o medida cautelar concedida por autoridad judicial.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
-Las normas generales, actos u omisiones del Instituto Federal de Telecomunicaciones y de la Comisión Federal de Competencia Económica, no serán objeto de suspensión. Solamente en los casos en que la Comisión Federal de Competencia Económica imponga multas o la desincorporación de activos, derechos, partes sociales o acciones, éstas se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso, se promueva.
+Las normas generales, actos u omisiones de las autoridades a que refieren los párrafos decimoquinto y decimoséptimo del artículo 28 de la Constitución Federal, no serán objeto de suspensión. Solamente en los casos en que la autoridad a que refiere el párrafo decimoquinto del artículo 28 de la Constitución Federal imponga multas o la desincorporación de activos, derechos, partes sociales o acciones, éstas se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso, se promueva.
 
 ###### Artículo 129.
 
@@ -1830,7 +1902,27 @@ XII. Se impida la continuación del procedimiento de extinción de dominio previ
 
 XIII. Se impida u obstaculice al Estado la utilización, aprovechamiento o explotación de los bienes de dominio directo referidos en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 14 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+XIV. Se permita la comisión o continuación de actos, operaciones o servicios que puedan favorecer, prestar ayuda, auxilio o cooperación de manera efectiva en operaciones con recursos de procedencia ilícita o conductas ilícitas relacionadas que pudieran dañar al sistema financiero, en los términos de las leyes vigentes.
+
+El órgano jurisdiccional, en todo caso, dejará a salvo los recursos necesarios para el pago de salarios u otro tipo de obligaciones contraídas con trabajadores, de alimentos decretados por autoridad competente, o bien, para asegurar la subsistencia de la persona física titular de la cuenta y de sus acreedores alimentarios, así como de créditos fiscales o hipotecarios para vivienda de uso propio, mientras se resuelve el juicio de amparo; supuestos que deberán quedar acreditados.
+
+La suspensión definitiva únicamente podrá ser concedida para la disposición de recursos contenidos en cuentas cuya licitud quede acreditada a juicio del órgano jurisdiccional.
+
+Tratándose del supuesto previsto en esta fracción, en ningún caso procederá la suspensión provisional.
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+XV. Se impida u obstaculice que la autoridad competente requiera, obtenga o disemine información financiera para la prevención y detección de operaciones con recursos de procedencia ilícita o conductas ilícitas relacionadas.
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+XVI. Se continúe con la realización de actividades o prestación de servicios que requieran de permiso, autorización o concesión emitida por autoridad federal competente, cuando no se cuente con la misma.
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+XVII. Se impida u obstaculice al Estado el ejercicio de sus facultades en materia de deuda pública, previstas en la Constitución Política de los Estados Unidos Mexicanos, y las que se establezcan en las leyes de la materia.
 
 ###### Artículo 130.
 
@@ -1894,6 +1986,10 @@ II. Si el monto de los créditos excediere la capacidad económica de la persona
 
 III. Si se tratase de tercero distinto al sujeto obligado de manera directa o solidaria al pago del crédito.
 
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+Tratándose de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente, o de actos que resuelvan sobre solicitudes de prescripción respecto de dichos créditos, la suspensión podrá otorgarse discrecionalmente, la que surtirá efectos si se ha constituido garantía del interés fiscal ante la autoridad exactora mediante billete de depósito emitido por institución autorizada o carta de crédito emitida por alguna de las instituciones autorizadas por la Comisión Nacional Bancaria y de Valores y registradas para tal efecto ante el Servicio de Administración Tributaria, de conformidad con las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria y las demás disposiciones jurídicas aplicables.
+
 En los casos en que se niegue el amparo, cuando exista sobreseimiento del mismo o bien cuando por alguna circunstancia se deje sin efectos la suspensión en el amparo, la autoridad responsable hará efectiva la garantía.
 
 ###### Artículo 136.
@@ -1904,17 +2000,17 @@ La suspensión, cualquiera que sea su naturaleza, surtirá sus efectos desde el 
 
 Los efectos de la suspensión dejarán de surtirse, en su caso, si dentro del plazo de cinco días siguientes al en que surta efectos la notificación del acuerdo de suspensión, la persona quejosa no otorga la garantía fijada y así lo determina el órgano jurisdiccional. Al vencimiento del plazo, dicho órgano, de oficio o a instancia de parte, lo notificará a las autoridades responsables, las que podrán ejecutar el acto reclamado. No obstante lo anterior, mientras no se ejecute, la persona quejosa podrá exhibir la garantía, con lo cual, de inmediato, vuelve a surtir efectos la medida suspensional.
 
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 137.
 
-La Federación, los Estados, la Ciudad de México y los municipios estarán exentos de otorgar las garantías que esta Ley exige.
+Las personas morales públicas y las oficiales que conforman las Administraciones Públicas Federal, Estatal y Municipal, los fondos, mandatos o análogos, o cualquier otro ente público, independientemente de su origen y estructura, estarán exentos de otorgar las garantías que esta Ley exige.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 138.
 
-Promovida la suspensión del acto reclamado el órgano jurisdiccional deberá realizar un análisis ponderado de la apariencia del buen derecho, la no afectación del interés social y la no contravención de disposiciones de orden público, en su caso, acordará lo siguiente:
+Promovida la suspensión del acto reclamado, el órgano jurisdiccional deberá analizar los elementos que obren en autos para determinar si se actualizan los requisitos previstos en el artículo 128 de esta Ley, atendiendo a la naturaleza provisional e inmediata de la medida cautelar. Concluida dicha valoración, la persona juzgadora deberá emitir un auto en el que:
 
 I. Concederá o negará la suspensión provisional; en el primer caso, fijará los requisitos y efectos de la medida; en el segundo caso, la autoridad responsable podrá ejecutar el acto reclamado;
 
@@ -1966,17 +2062,27 @@ En la audiencia incidental, a la cual podrán comparecer las partes, se dará cu
 
 Cuando apareciere debidamente probado que ya se resolvió sobre la suspensión en otro juicio de amparo, promovido con anterioridad por la misma persona quejosa o por otra persona en su nombre o representación, contra el mismo acto reclamado y contra las propias autoridades, se declarará sin materia el incidente de suspensión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 146.
 
-La resolución que decida sobre la suspensión definitiva, deberá contener:
+La resolución que decida sobre la suspensión definitiva deberá contener:
 
-I. La fijación clara y precisa del acto reclamado;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
-II. La valoración de las pruebas admitidas y desahogadas;
+I. La determinación clara y precisa del acto o actos reclamados cuya suspensión se solicita;
 
-III. Las consideraciones y fundamentos legales en que se apoye para conceder o negar la suspensión; y
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
-IV. Los puntos resolutivos en los que se exprese el acto o actos por los que se conceda o niegue la suspensión. Si se concede, deberán precisarse los efectos para su estricto cumplimiento.
+II. La valoración de las pruebas que hayan sido admitidas y desahogadas dentro del incidente;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+III. El análisis expreso y razonado de cada uno de los elementos exigidos por el artículo 128 de esta Ley, y
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+IV. Los puntos resolutivos en los que se exprese con claridad si se concede o niega la suspensión, señalando con precisión, en su caso, los efectos y condiciones bajo los cuales se concede, para su estricto cumplimiento por la autoridad responsable.
 
 ###### Artículo 147.
 
@@ -1998,9 +2104,9 @@ En los juicios de amparo en que se reclame una norma general autoaplicativa sin 
 
 En el caso en que se reclame una norma general con motivo del primer acto de su aplicación, la suspensión, además de los efectos establecidos en el párrafo anterior, se decretará en relación con los efectos y consecuencias subsecuentes del acto de aplicación.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
-Tratándose de juicios de amparo que resuelvan la inconstitucionalidad de normas generales, en ningún caso las suspensiones que se dicten fijarán efectos generales.
+Tratándose de juicios de amparo en los que se reclame la inconstitucionalidad de normas generales, en ningún caso la suspensión podrá concederse con efectos generales.
 
 ###### Artículo 149.
 
@@ -2124,9 +2230,9 @@ En cualquier caso distinto de los anteriores y en la detención por caso urgente
 
 Cuando se trate de orden de aprehensión o reaprehensión o de medida cautelar que implique privación de la libertad, dictadas por autoridad competente, se estará a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
-I. Si se trata de delitos de prisión preventiva oficiosa a que se refiere el artículo 19 constitucional, la suspensión sólo producirá el efecto de que la persona quejosa quede a disposición del órgano jurisdiccional de amparo en el lugar que éste señale únicamente en lo que se refiera a su libertad, quedando a disposición de la autoridad a la que corresponda conocer el procedimiento penal para los efectos de su continuación;
+I. Si se trata de delitos de prisión preventiva oficiosa a que se refiere el artículo 19 constitucional, la suspensión sólo producirá el efecto de que la persona quejosa quede a disposición del órgano jurisdiccional de amparo en el lugar que éste señale únicamente en lo que se refiera a su libertad, quedando a disposición de la autoridad a la que corresponda conocer el procedimiento penal para los efectos de su continuación. Tratándose de estos casos, la suspensión no podrá otorgarse con efectos distintos a los expresamente previstos en esta fracción;
 
 > <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2025)</small>
 
@@ -2150,11 +2256,11 @@ En el caso de órdenes o medidas de protección impuestas en cualquiera de las e
 
 La libertad otorgada a la persona quejosa con motivo de una resolución suspensional podrá ser revocada cuando ésta incumpla con cualquiera de las obligaciones establecidas por el órgano jurisdiccional de amparo o derivadas del procedimiento penal respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 168.
 
-Para la procedencia de la suspensión contra actos derivados de un procedimiento penal que afecten la libertad personal, el órgano jurisdiccional de amparo deberá exigir a la persona quejosa que exhiba garantía, sin perjuicio de otras medidas de aseguramiento que estime convenientes.
+Para la procedencia de la suspensión contra actos derivados de un procedimiento penal que afecten la libertad personal en los términos del artículo 166, fracción II, el órgano jurisdiccional de amparo deberá exigir a la persona quejosa que, dentro de los cinco días siguientes a la notificación de la determinación de la suspensión, exhiba garantía, sin perjuicio de otras medidas de aseguramiento que estime convenientes.
 
 Para fijar el monto de la garantía se tomará en cuenta:
 
@@ -2167,6 +2273,10 @@ II. Las características personales y situación económica de la persona quejos
 III. La posibilidad de que se sustraiga a la acción de la justicia.
 
 No se exigirá garantía cuando la suspensión únicamente tenga los efectos a que se refiere el artículo 163 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+El incumplimiento de cualesquiera de las condiciones fijadas por la persona juzgadora dará lugar a la revocación de la suspensión.
 
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
 
@@ -2458,11 +2568,11 @@ Si hubiera irregularidades en el escrito de demanda por no haber satisfecho los 
 
 Si la persona quejosa no cumple el requerimiento, la persona titular de la presidencia del tribunal tendrá por no presentada la demanda y lo comunicará a la autoridad responsable.
 
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 181.
 
-Si la persona titular de la presidencia del tribunal colegiado de circuito no encuentra motivo de improcedencia o defecto en el escrito de demanda, o si este último fuera subsanado, la admitirá y mandará notificar a las partes el acuerdo relativo, para que en el plazo de quince días presenten sus alegatos o promuevan amparo adhesivo.
+Si la persona titular de la presidencia del tribunal colegiado de circuito no encuentra motivo de improcedencia o defecto en el escrito de demanda, o si este último fuera subsanado, la admitirá y mandará notificar a las partes el acuerdo relativo dentro de los cinco días siguientes a su pronunciamiento, para que en el plazo de quince días presenten sus alegatos o promuevan amparo adhesivo.
 
 ###### Artículo 182.
 
@@ -2514,7 +2624,9 @@ El día señalado para la sesión, que se celebrará con la presencia de la pers
 
 La resolución se tomará por unanimidad o mayoría de votos. En este último caso, el magistrado o magistrada que no esté conforme con el sentido de la resolución deberá formular su voto particular dentro del plazo de diez días siguientes al de la firma del engrose, voto en el que expresará cuando menos sucintamente las razones que lo fundamentan.
 
-Transcurrido el plazo señalado en el párrafo anterior sin que se haya emitido el voto particular, se asentará razón en autos y se continuará el trámite correspondiente.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+Transcurrido el plazo señalado en el párrafo anterior sin que se haya emitido el voto particular, se asentará razón en autos y se continuará el trámite correspondiente. La falta de emisión de un voto particular no impedirá la publicación de la sentencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MARZO DE 2025)</small>
 
@@ -2579,6 +2691,10 @@ Cuando se trate de juicios del orden penal, la autoridad responsable con la sola
 Las ejecutorias de amparo deben ser puntualmente cumplidas. Al efecto, cuando cause ejecutoria la sentencia en que se haya concedido el amparo, o se reciba testimonio de la dictada en revisión, la jueza o el juez de distrito o el tribunal colegiado de apelación, si se trata de amparo indirecto, o el tribunal colegiado de circuito, tratándose de amparo directo, la notificarán sin demora a las partes.
 
 En la notificación que se haga a la autoridad responsable se le requerirá para que cumpla con la ejecutoria dentro del plazo de tres días, apercibida que de no hacerlo así sin causa justificada, se impondrá a su titular una multa que se determinará desde luego y que, asimismo, se remitirá el expediente al tribunal colegiado de circuito o a la Suprema Corte de Justicia de la Nación, según el caso, para seguir el trámite de inejecución, que puede culminar con la separación de su puesto y su consignación.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+La persona juzgadora previo a requerir a las autoridades responsables o a otras que considere como vinculadas al cumplimiento de la ejecutoria de amparo, deberá analizar el marco jurídico de actuación de las mismas para determinar si conforme a sus facultades les corresponde llevar a cabo actos relacionados con el cumplimiento respectivo.
 
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
 
@@ -3246,7 +3362,9 @@ II. No rinda el informe con justificación o lo haga sin remitir, en su caso, co
 
 III. No informe o no remita, en su caso, la certificación relativa a la fecha de notificación del acto reclamado, la de presentación de la demanda y de los días inhábiles que mediaron entre uno y otro acto; y
 
-IV. No trámite (sic) la demanda de amparo o no remita con la oportunidad debida y en los plazos previstos por esta Ley las constancias que le sean solicitadas por amparo o por las partes en el juicio constitucional.
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+IV. No tramite la demanda de amparo o no remita con la oportunidad debida y en los plazos previstos por esta Ley las constancias que le sean solicitadas por amparo o por las partes en el juicio constitucional.
 
 Tratándose de amparo contra normas generales, las autoridades que hayan intervenido en el refrendo del decreto promulgatorio de la norma o en su publicación, únicamente rendirán el informe justificado cuando adviertan que su intervención en el proceso legislativo o de creación de la norma general, se impugne por vicios propios.
 
@@ -3266,11 +3384,11 @@ I. A la persona quejosa, a su abogada o abogado autorizado o a ambos, si con el 
 
 II. A la persona quejosa o tercera interesada, a su abogada o abogado o a ambos, si en el juicio de amparo presenten testigos o documentos falsos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 262.
 
-Se impondrá pena de tres a nueve años de prisión, multa de cincuenta a quinientos días, destitución e inhabilitación de tres a nueve años para desempeñar otro cargo, empleo o comisión públicos, a la persona servidora pública que con el carácter de autoridad responsable en el juicio de amparo o en el incidente de suspensión:
+Se impondrá pena de tres a nueve años de prisión, multa de cincuenta a quinientos días, destitución e inhabilitación de tres a nueve años para desempeñar otro cargo, empleo o comisión públicos, a la persona servidora pública que con el carácter de autoridad responsable o vinculada al cumplimiento en el juicio de amparo o en el incidente de suspensión:
 
 I. Al rendir informe previo o con justificación exprese un hecho falso o niegue la verdad;
 
@@ -3342,11 +3460,11 @@ La pérdida de la calidad de autoridad, no extingue la responsabilidad penal por
 
 Las multas a que se refiere este Capítulo, son equivalentes a los días multa previstos en el Código Penal Federal.
 
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 271.
 
-Cuando al concederse definitivamente el amparo a la persona quejosa aparezca que el acto reclamado además de violar derechos humanos y garantías constituye delito, se pondrá el hecho en conocimiento del Ministerio Público que corresponda.
+Cuando al concederse definitivamente el amparo a la persona quejosa aparezca que el acto reclamado, además de violar derechos humanos y garantías, cuenta con datos de prueba de un hecho que la ley señala como delito, se pondrá en conocimiento del Ministerio Público que corresponda.
 
 ## TRANSITORIOS
 
@@ -3813,3 +3931,21 @@ II. Las razones que justifiquen las decisiones contenidas en las sentencias que 
 III. Para la emisión de la declaratoria general de inconstitucionalidad el Pleno de la Suprema Corte de Justicia de la Nación requerirá que ésta se apruebe por mayoría de cuando menos ocho votos.
 
 Tercero. Lo previsto en el transitorio anterior será aplicable en la resolución de todos los asuntos que se encuentren admitidos o pendientes de resolución al momento de la entrada en vigor del presente Decreto, independientemente de la etapa en la que se encuentren dichos asuntos; así como para los que se admitan con posterioridad, y previo a la toma de protesta referida en el artículo anterior.
+
+D.O.F. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, AL CÓDIGO FISCAL DE LA FEDERACIÓN Y A LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Al tratarse de una ley procesal, las etapas procesales concluidas que generen derechos adquiridos a las partes se regirán por las disposiciones legales vigentes al inicio de los procesos respectivos. Por lo que hace a las actuaciones procesales posteriores a la entrada en vigor del presente Decreto, de conformidad con la doctrina y la jurisprudencia de la Suprema Corte de Justicia de la Nación, se regirán por las disposiciones de este Decreto, sin que implique aplicación retroactiva ni afectación a derechos adquiridos, pues se trata de actuaciones futuras.
+
+Cuarto. El Órgano de Administración Judicial contará con trescientos sesenta días naturales a partir de su entrada en funciones para realizar las adecuaciones al Sistema Electrónico del Poder Judicial de la Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y 30 de la Ley de Amparo.
+
+Una vez realizadas las adecuaciones al sistema, el Órgano de Administración Judicial publicará en el Diario Oficial de la Federación y en su propio portal, el aviso de inicio de registro de usuarios digitales para autoridades.
+
+Todas las autoridades de la Federación, entidades federativas, municipios y alcaldías, tendrán un plazo de ciento ochenta días naturales a partir de la publicación del Aviso al que se refiere el párrafo anterior, para dar cumplimiento a este Decreto y crear sus perfiles en el Sistema.
+
+Quinto. El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la entrada en vigor de este Decreto, para emitir un Acuerdo General que regule la correcta integración tanto del expediente electrónico como físico en el juicio de amparo, procurando en todo momento privilegiar el uso de la tecnología y eficientizar el uso de recursos materiales dentro del Poder Judicial de la Federación, sin menoscabar el derecho de las partes de consultar los expedientes correspondientes.
