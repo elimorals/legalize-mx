@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-los-animales-para-el-estado-de-san-luis-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-23"
-last_updated: "2025-10-02"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 23 de marzo de 2021.
 
@@ -435,7 +435,11 @@ ARTÍCULO 46 SEXTIES. El protector comunitario tiene la obligación de hacer del
 
 Se entiende por protector comunitario, a la persona que da cuidados, atención, salud, y bienestar a animales comunitarios.
 
-## Título Tercero. Animales Domésticos para Consumo, y Comercialización de animales silvestres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+## Título Tercero
+
+Animales Domésticos para Consumo, y Comercialización de animales.
 
 ### Capítulo I. Animales Domésticos para Consumo
 
@@ -467,7 +471,9 @@ La introducción o reintroducción de especies con fines de consumo humano, debe
 
 A los animales estabulados o semiestabulados, deberá alimentárseles con forrajes que no estén contaminados, ni cultivados con aguas negras.
 
-### Capítulo II. Comercialización de Animales Silvestres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+### Capítulo II. Comercialización de animales
 
 ###### ARTÍCULO 55.
 
@@ -478,6 +484,58 @@ La comercialización de animales silvestres no está permitida, sin la autorizac
 Los lugares para la comercialización de animales domésticos o silvestres, quedarán restringidos a los permitidos por las autoridades correspondientes.
 
 Al comercializarse se evitará que los animales queden expuestos a la luz solar, sin la posibilidad de buscar sombra o no protegerlos de las condiciones climatológicas.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 56 Bis.
+
+El espacio mínimo por animal para venta, debe contemplarse según la especie, peso, talla y altura para garantizar su protección y cuidado.
+
+En la venta se debe privilegiar la que se pueda realizar a través de medios remotos o mediante la utilización de herramientas tecnológicas que eviten el contacto físico directo entre el animal para venta y el público interesado en su adquisición, siempre y cuando se cumpla con la normatividad federal y local en materia de protección, cuidado y trato digno y respetuoso a los animales.
+
+Asimismo, cuando la exhibición de animales tenga como finalidad la venta como mascota o animal de compañía, también se privilegiará la que se pueda realizar a través de medios remotos o mediante la utilización de herramientas tecnológicas que eviten el contacto físico directo entre el ejemplar y el público interesado en su adquisición.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 56 Ter.
+
+Los establecimientos dedicados a la reproducción, selección, crianza o venta de animales de compañía, deberán cumplir, sin perjuicio de las demás disposiciones que le sean aplicables, las siguientes:
+
+I. Cumplir con los requisitos y autorizaciones correspondientes a la legislación administrativa y mercantil para realizar dicha actividad.
+
+II. Tener buenas condiciones sanitarias, adecuadas a las necesidades de los animales que alberguen;
+
+III. Disponer de comida suficiente y adecuada, agua, lugares para dormir, personal capacitado para el cuidado de los animales, así como servicio médico veterinario en el lugar;
+
+IV. Disponer de instalaciones adecuadas para evitar el contagio en los casos de enfermedad, o para guardar, en su caso, períodos de cuarentena;
+
+V. Vender los animales, registrados, esterilizados, a menos que la venta sea a otro criador registrado, desparasitados y libres de toda enfermedad, con los certificados correspondientes;
+
+VI. Disponer de un médico veterinario con cédula profesional, encargado de velar por la salud, protección y cuidado de los animales de compañía;
+
+VII. Dar asesoría al comprador sobre los cuidados mínimos necesarios para la protección y cuidado del animal de compañía y tenencia responsable, además de informar sobre las actitudes con base a sus caracteres;
+
+VIII. Establecer en la compraventa de animales un plazo de garantía mínima de quince días por si hubiera lesiones ocultas o enfermedades en incubación;
+
+IX. La compraventa de animales no podrá realizarse antes de las ocho semanas de nacidos;
+
+X. En los establecimientos dedicados a la venta de animales prestar, sin costo alguno, por lo menos dos espacios dentro de su establecimiento para la exhibición de animales en adopción, propiedad de alguna asociación protectora de animales legalmente constituida, a fin de fomentar la cultura de la adopción de animales de compañía abandonados; y
+
+XI. Las demás que establezca la normatividad vigente.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 56 Quater.
+
+Para la estancia de los animales en instalaciones de resguardo durante los períodos en los que no se encuentren en exhibición para su comercialización, los establecimientos mercantiles dedicados a la venta de animales deberán atender las necesidades básicas de bienestar de los animales, de acuerdo a las características propias de cada especie y cumpliendo las disposiciones de las autoridades correspondientes, a las normas oficiales mexicanas o, en su caso, a las normas ambientales.
+
+Aunado a lo anterior, deberán:
+
+I. Garantizar su protección y asegurarles un trato digno y respetuoso;
+
+II. Evitar el maltrato y la crueldad hacia dichas especies tanto por parte de los comerciantes, sus empleados o ayudantes, así como por parte quien los adquiere; y
+
+III. Asegurar que los animales estén resguardados, previo a su venta, en lugares que cuenten con áreas e infraestructura necesaria para su manejo, así como que quienes lleven a cabo la comercialización tengan capacidad técnica y operativa suficiente.
 
 ## Título Cuarto. Del Transporte y Sacrificio de Animales
 
@@ -1013,15 +1071,7 @@ Queda prohibido organizar, inducir o provocar peleas de animales, así como entr
 
 ###### ARTÍCULO 118.
 
-Los propietarios y responsables de establecimientos autorizados para la venta de animales, no deberán:
-
-I. Tenerlos a la venta lesionados o enfermos, ni menores de ocho semanas de edad;
-
-II. Mutilar, desollar o descuartizar a los animales estando vivos;
-
-III. Mantener a los animales en condiciones de higiene que propicien la proliferación de zoonosis y enfermedades en los mismos, así como mantenerlos en condiciones de hacinamiento, y
-
-IV. Comercializar animales que no estén desparasitados y vacunados.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2025)
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2025)</small>
 
@@ -1076,6 +1126,12 @@ III. Privar de aire, luz, alimento, bebida, espacio adecuado y suficiente al ani
 IV. Hostigar o maltratar a cualquier animal, y
 
 V. Colocar sobre la piel productos o implementos nocivos, ya sea por razones estéticas o de cualquier índole, excluyéndose el tatuaje de identificación o reconocimiento de raza.
+
+(ADICIONADO, P.O. 16 DE OCTUBRE DE 2025.
+
+ARTÍCULO 127 BIS. Toda persona que incurra en conductas de crueldad, maltrato, daño o tortura contra uno o más animales, estará obligada a reparar el daño ocasionado. Esta reparación incluirá, según corresponda, la atención médica veterinaria, el suministro o pago de medicamentos, tratamientos, intervenciones quirúrgicas, rehabilitación, albergue temporal o definitivo, así como cualquier otra necesidad que determine la autoridad competente en beneficio del animal afectado.
+
+Lo anterior será sin perjuicio de las sanciones administrativas previstas en la presente Ley ni de las penas contempladas en el Código Penal para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 128.
 
@@ -1242,6 +1298,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0262.- QUE REFORMA EL ARTÍCULO 119, DE LA LEY DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0282.- QUE ADICIONA EL ARTÍCULO 127 BIS, A LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0283.- QUE REFORMA LA DENOMINACIÓN DEL TÍTULO TERCERO Y DE SU CAPÍTULO II; Y ADICIONA LOS ARTÍCULOS 56 BIS, 56 TER Y 56 QUATER; Y DEROGA EL ARTÍCULO 118, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
