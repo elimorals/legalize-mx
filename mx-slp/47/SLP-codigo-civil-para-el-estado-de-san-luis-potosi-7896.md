@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2025-07-03"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -9927,6 +9927,10 @@ ART. 2805.- No mediando pacto expreso en contrario entre el deudor y acreedores,
 
 ART. 2806.- Los créditos se graduarán en el orden que se clasifican en los capítulos siguientes, con la prelación que para cada clase se establezca en ello.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+En todos los procedimientos de ejecución, concurso, insolvencia, o cualquier otro proceso de liquidación de bienes del deudor que establezca este Código, las obligaciones alimentarias reconocidas judicialmente tendrán prelación para ser cubiertas, antes que cualquier otro crédito, sin importar su naturaleza, garantizando de manera prioritaria el derecho humano a la subsistencia alimentaria de las personas acreedoras alimentarias.
+
 ART. 2807.- Concurriendo diversos acreedores de la misma clase y número, serán pagados según la fecha de sus títulos, si aquella constare de una manera indubitable. En cualquier otro caso serán pagados a prorrata.
 
 ART. 2808.- Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados en el lugar en que deba serlo el crédito que los haya causado.
@@ -10732,6 +10736,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0225.- QUE REALIZA ADICIÓN AL ARTÍCULO 67, DE LA LEY DEL REGISTRO CIVIL; Y AL ARTÍCULO 19, DEL CÓDIGO CIVIL, AMBOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0286.- QUE REALIZA ADICIÓN AL ARTÍCULO 140, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 2806, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
