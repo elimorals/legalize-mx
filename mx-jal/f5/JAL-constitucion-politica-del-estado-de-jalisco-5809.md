@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2024-10-12"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -497,21 +497,25 @@ d) Aquellos que estén intitulados a nombre de terceros, pero existan suficiente
 
 III. Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-###### Art. 9º.
+###### Art. 9°.
 
-El derecho a la información pública tendrá los siguientes fundamentos:
+El ejercicio del derecho de acceso a la información pública y protección de datos personales en posesión de sujetos obligados, se regirá por los siguientes fundamentos y principios:
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2005)</small>
 
 I. La consolidación del estado democrático y de derecho en Jalisco;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-II. La transparencia y la rendición de cuentas de las autoridades estatales y municipales, mediante la implementación de mecanismos de gobierno abierto, a través del organismo garante y en colaboración con representantes de la sociedad civil, para la apertura de los órganos públicos y el registro de los documentos en que constan las decisiones públicas y el proceso para la toma de éstas;
+II. La transparencia y la rendición de cuentas de las autoridades estatales y municipales, mediante la implementación de mecanismos de gobierno abierto, transparencia con sentido social y modernización, con un enfoque de apertura institucional a través de las Autoridades Garantes y en colaboración con representantes de la sociedad civil, para la apertura de los órganos públicos y el registro de los documentos en que constan las decisiones públicas y el proceso para la toma de éstas;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
 III. La participación de las personas en la toma de decisiones públicas, mediante el ejercicio del derecho a la información;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2005)</small>
 
 IV. La información pública veraz y oportuna;
 
@@ -519,29 +523,37 @@ IV. La información pública veraz y oportuna;
 
 V. La protección de datos personales en posesión de sujetos obligados; y
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-VI. La promoción de la cultura de transparencia, la garantía del derecho a la información y la resolución de las controversias que se susciten por el ejercicio de este derecho a través del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco.
+VI. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y la protección de datos personales, de acuerdo con las bases y principios de las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-El Instituto es un órgano público autónomo, con personalidad jurídica y patrimonio propio, el cual en su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. En el ámbito de sus atribuciones coadyuvará en la implementación de políticas y mecanismos de apertura gubernamental, así como la participación social.
+La integración y facultades del Comité del Subsistema de Transparencia del Estado de Jalisco, son las establecidas en las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-El Instituto estará conformado por un Presidente y dos comisionados titulares, así como por los suplentes respectivos; los miembros del Pleno del Instituto serán nombrados mediante el voto de dos terceras partes de los integrantes del Congreso del Estado, o por insaculación, conforme a los requisitos y procedimientos que establezca la ley, procurando la igualdad de género.
+Los sujetos obligados y las autoridades garantes se regirán por los principios de certeza, congruencia, documentación, eficacia, excepcionalidad, exhaustividad, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo y transparencia. En el ámbito de sus atribuciones coadyuvarán en la implementación de políticas y mecanismos de apertura gubernamental, así como la participación social.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-El Instituto tendrá las atribuciones específicas que la ley le otorgue; sus resoluciones serán definitivas, inatacables, vinculantes y deberán ser cumplidas por los Poderes, entidades y dependencias públicas del Estado, Ayuntamientos, por todo organismo público, así como de cualquier persona física, jurídica o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, esta Constitución y demás normatividad en la materia, salvo lo establecido en los siguientes párrafos.
+La Autoridad Garante Local, será la Contraloría del Estado y tendrá las facultades y competencias que establecen las leyes de la materia, quien conocerá de los asuntos en materia de transparencia y protección de datos personales del Poder Ejecutivo y los municipios.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2015)</small>
+(NOTA: EL 25 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 271/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE JUNIO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-En contra de las resoluciones del Instituto a los recursos de revisión que confirmen o modifiquen la clasificación de la información, o confirmen la inexistencia o negativa de información, los particulares podrán optar por acudir ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con la Ley General en materia de transparencia, o ante el Poder Judicial de la Federación.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2015)</small>
+Las autoridades garantes del Poder Legislativo y Judicial, de los órganos constitucionales autónomos y demás sujetos obligados, serán sus órganos internos de control y tienen las facultades y competencias que las leyes de la materia les otorguen. LOS PARTIDOS POLÍTICOS TENDRÁN COMO AUTORIDAD GARANTE AL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO. EN EL CASO DE LOS SINDICATOS QUE RECIBAN Y EJERZAN RECURSOS PÚBLICOS O REALICEN ACTOS DE AUTORIDAD, SU AUTORIDAD GARANTE SERÁ EL TRIBUNAL DE ARBITRAJE Y ESCALAFÓN DEL ESTADO DE JALISCO.
 
-El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales también conocerá de los recursos de revisión que señale la Ley General en materia de transparencia.
+(NOTA: EL 25 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 271/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE JUNIO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+Las resoluciones de las autoridades garantes serán vinculantes, definitivas e inatacables para los sujetos obligados y deberán ser cumplidas por los Poderes, entidades y dependencias públicas del Gobierno del Estado, Ayuntamientos, por los organismos constitucionales autónomos, así como de cualquier persona física, jurídica, SINDICATO, PARTIDO POLÍTICO o cualquier otro que reciba y ejerza recursos públicos o realice actos de autoridad, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General en materia de Protección de Datos Personales en Posesión de Sujetos Obligados, esta Constitución y demás leyes de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2025)</small>
+
+En contra de las resoluciones emitidas por las autoridades garantes, se podrán interponer los recursos o juicios que establecen las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -1201,7 +1213,7 @@ VI. Los partidos políticos podrán postular simultáneamente a candidaturas a d
 
 VII. Las candidatas y candidatos independientes no tendrán derecho a participar en la asignación de diputaciones por el principio de representación proporcional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Art. 21.
 
@@ -1231,9 +1243,7 @@ V. No poseer cargo de Dirección, Presidencia, Secretaría o Consejería de los 
 
 VI. No poseer cargo de Presidencia o Consejería ciudadana de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes del día de la elección;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
-
-VII. No poseer cargo de Presidencia o comisionado del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, a menos que se separe de sus funciones noventa días antes del día de la elección;
+VII. (DEROGADA, P.O. 16 DE OCTUBRE DE 2025)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -1419,7 +1429,7 @@ Las leyes que expida el Congreso, con excepción de las de carácter contributiv
 
 ### CAPITULO III. De las facultades del Congreso del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Art. 35.
 
@@ -1483,17 +1493,17 @@ XIII. Designar, en los términos que previene esta Constitución, al ciudadano q
 
 XIV. Convocar a elecciones extraordinarias cuando fuere necesario y decidir conforme a sus atribuciones;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-XV. Conocer y resolver sobre las renuncias de los diputados, del Gobernador del Estado, de los magistrados del Poder Judicial; de los consejeros integrantes del Consejo de la Judicatura; del Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos y del Presidente y comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco;
+XV. Conocer y resolver sobre las renuncias de los diputados, del Gobernador del Estado, de los magistrados del Poder Judicial; de los consejeros integrantes del Consejo de la Judicatura; del Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 XVI. Conceder o negar licencias a los diputados y al Gobernador del Estado para separarse de sus cargos y, además a este último, para permanecer fuera del territorio del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-XVII. Conceder o negar las licencias para ausentarse de sus cargos que, por más de dos meses, soliciten los magistrados del Poder Judicial, el Presidente y comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, así como el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos, en los términos que establezca la ley;
+XVII. Conceder o negar las licencias para ausentarse de sus cargos que, por más de dos meses, soliciten los magistrados del Poder Judicial, así como el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos, en los términos que establezca la ley;
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -1563,11 +1573,7 @@ XXXI. Expedir su Ley Orgánica, formar sus reglamentos y dictar las disposicione
 
 XXXII. Expedir el bando solemne para dar a conocer la declaración de Gobernador electo hecha por el Instituto Electoral, en la forma y términos que establezca la ley de la materia; y
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-XXXIII. Elegir al Presidente y a los comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, con la aprobación de las dos terceras partes de los diputados integrantes de la legislatura, o por insaculación, en los términos que establezca la ley de la materia.
-
-El Presidente y los comisionados durarán en su encargo cinco años y sólo podrán ser removidos de sus funciones en los términos del Título Octavo de esta Constitución;
+XXXIII. (DEROGADA, P.O. 16 DE OCTUBRE DE 2025)
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -2569,13 +2575,17 @@ Tratándose de la Presidenta o del Presidente Municipal, Síndica o Sindico que 
 
 V. (DEROGADA, P.O. 8 DE JULIO DE 2014)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Art. 74.
 
-Para ser Presidenta o Presidente Municipal, regidora o regidor, sindica o síndico se requiere:
+Para ser Presidenta o Presidente Municipal, regidora o regidor, sindica o sindico se requiere:
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
 I. Tener ciudadanía mexicana, en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
 II. Ser persona nacida en el municipio o área metropolitana correspondiente o avecindada de los mismos cuando menos los dos años anteriores al día de la elección;
 
@@ -2595,9 +2605,9 @@ V. No tener Consejería Ciudadana de la Comisión Estatal de Derechos Humanos, a
 
 VI. No estar en servicio activo en el Ejército Nacional ni tener mando en la policía o en cuerpo de seguridad pública en el municipio en que se pretenda su elección, cuando menos noventa días antes de ella;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-VII. No ser titular de la Secretaría General de Gobierno o quien haga sus veces, Secretaria o Secretario del Despacho del Poder Ejecutivo, Magistrada o Magistrado del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa, del Tribunal de Arbitraje y Escalafón, miembro del Consejo de la Judicatura, ni comisionada o comisionado del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, a menos que se separe de sus funciones noventa días antes de la elección;
+VII. No ser titular de la Secretaría General de Gobierno o quien haga sus veces, Secretaria o Secretario del Despacho del Poder Ejecutivo, Magistrada o Magistrado del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa, del Tribunal de Arbitraje y Escalafón o miembro del Consejo de la Judicatura, a menos que se separe de sus funciones noventa días antes de la elección;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -2967,29 +2977,45 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 ### CAPITULO II. Del juicio político
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE OCTUBRE DE 2025)</small>
 
 ###### Art. 97.
 
 El procedimiento del juicio político se regirá conforme a las siguientes prevenciones:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-I. Serán sujetos de juicio político los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado; el Contralor del Estado, el Fiscal General y el Procurador Social; los integrantes del Consejo de la Judicatura; los consejeros electorales del Instituto Electoral del Estado; los magistrados del Tribunal Electoral del Estado; el Presidente y los consejeros de la Comisión Estatal de Derechos Humanos; el Presidente y los comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco; el Auditor Superior del Estado; el Presidente de la Junta Local de Conciliación y Arbitraje; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la Secretaría General de los ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
+I. Serán sujetos de juicio político los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado; el Contralor del Estado, el Fiscal General y el Procurador Social; los integrantes del Consejo de la Judicatura; los consejeros electorales del Instituto Electoral del Estado; los magistrados del Tribunal Electoral del Estado; el Presidente y los consejeros de la Comisión Estatal de Derechos Humanos; el Auditor Superior del Estado; el Presidente de la Junta Local de Conciliación y Arbitraje; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la Secretaría General de los ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 II. Se determinará la responsabilidad de los servidores públicos mediante juicio político, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 III. La Ley de Responsabilidades de los Servidores Públicos establecerá las conductas que impliquen perjuicio a los intereses públicos fundamentales o a su buen despacho;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 IV. No procede el juicio político por la mera expresión de ideas;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 V. El juicio político sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y hasta un año después;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 VI. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones, de cualquiera naturaleza en el servicio público;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 VII. Para la aplicación de las sanciones a que se refiere este precepto, la Comisión de Responsabilidades del Congreso presentará su dictamen sobre la procedencia de la acusación y el Congreso, erigido en Jurado de Acusación, procederá a discutir y a votar las conclusiones propuestas;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 VIII. Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento, y
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 IX. El Congreso, erigido en Jurado de Sentencia, con audiencia del inculpado, después de haber substanciado el procedimiento respectivo, y mediante el voto de por lo menos el sesenta por ciento de sus integrantes, previa exclusión de los miembros de la Comisión de Responsabilidades, aplicará la sanción correspondiente.
 
@@ -3087,9 +3113,9 @@ Asimismo, podrá ordenarse la suspensión de actividades, disolución o interven
 
 La Auditoría Superior del Estado y los Órganos Internos de Control, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, en los términos que establezca la legislación aplicable.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2025)</small>
 
-III. La Contraloría del Estado es el Órgano Interno del Control del Poder Ejecutivo del Estado, contará con autonomía técnica y de gestión, estará facultada por sí o a través de los órganos internos de control de la Administración Pública Centralizada y Paraestatal, para prevenir, corregir, investigar y substanciar las faltas administrativas en que incurran los servidores públicos del Poder Ejecutivo; resolver las faltas administrativas no graves y remitir los procedimientos sobre faltas administrativas graves al Tribunal de Justicia Administrativa para su resolución.
+III. La Contraloría del Estado es el Órgano Interno de Control del Poder Ejecutivo del Estado, contará con autonomía técnica y de gestión, estará facultada por sí o a través de los órganos internos de control de la Administración Pública Centralizada y Paraestatal, para prevenir, corregir, investigar y substanciar las faltas administrativas en que incurran los servidores públicos del Poder Ejecutivo; resolver las faltas administrativas no graves y remitir los procedimientos sobre faltas administrativas graves al Tribunal de Justicia Administrativa para su resolución.
 
 La Contraloría del Estado podrá ejercer de oficio la facultad de atracción respecto de las investigaciones y procedimientos de responsabilidad administrativa que lleven los órganos internos de control de la Administración Pública Centralizada y Paraestatal, cuando el interés y trascendencia del asunto lo ameriten.
 
@@ -3143,6 +3169,8 @@ El Sistema Anticorrupción del Estado de Jalisco tiene por objeto prevenir la co
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE OCTUBRE DE 2025)</small>
+
 I. El Sistema Anticorrupción del Estado de Jalisco contará con un Comité Coordinador que estará integrado de la siguiente manera:
 
 a) Titular de la Auditoría Superior;
@@ -3157,7 +3185,7 @@ c) Titular de la Contraloría del Estado;
 
 d) Titular de la Presidencia del Tribunal de Justicia Administrativa;
 
-e) Titular de la Presidencia del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco;
+e) (DEROGADO, P.O. 16 DE OCTUBRE DE 2025)
 
 f) Un representante del Consejo de la Judicatura; y
 
@@ -4488,3 +4516,31 @@ P.O. 12 DE OCTUBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 SEGUNDO. El Congreso del Estado de Jalisco deberá incorporar en su legislación orgánica las figuras de los instrumentos de control político, así como su formato de desarrollo.
+
+P.O. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29842/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 9, 21, 35, 74, 97, 106 Y 107 TER, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Congreso del Estado tendrá un plazo de 90 días naturales contados a partir de la entrada en vigor del presente decreto, para realizar las reformas a las leyes estatales que se requieran.
+
+TERCERO. El Órgano Constitucional Autónomo denominado Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco se extinguirá en un plazo máximo de 90 días naturales contados a partir de la entrada en vigor del presente decreto o antes si entran en vigor las reformas a las leyes estatales a las que son referidas en el transitorio segundo del presente dictamen.
+
+Se autoriza al Poder Ejecutivo para que, a través de la Secretaría de Administración, realice la extinción del organismo, facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran de poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de extinción.
+
+Con objeto de asegurar la continuidad institucional, deberá integrarse una Comisión Especial que garantice la adecuada entrega-recepción del patrimonio, registros, sistemas, bases de datos, plataformas digitales, atribuciones y demás elementos vinculados al ejercicio de sus funciones, así como la realización de los ajustes presupuestales y contables que resulten necesarios, asegurando la disponibilidad de recursos para el ejercicio de las funciones que correspondan a las nuevas autoridades garantes locales.
+
+Asimismo, la Comisión Especial se encargará de remitir a las autoridades garantes competentes los expedientes, archivos o procedimientos que, por razón de materia, atribuciones o funciones, le correspondan para su atención.
+
+La Comisión estará conformada por un representante del Archivo General del Estado de Jalisco, de la Contraloría del Estado, de la Secretaría de la Hacienda Pública y de la Secretaría de Administración y será presidida por quien designe el titular del Poder Ejecutivo del Estado de entre los integrantes.
+
+La Comisión estará facultada para emitir criterios y adoptar las determinaciones administrativas necesarias para la extinción del organismo y ejecutar las acciones que correspondan para el cumplimiento de la normatividad aplicable.
+
+CUARTO. En el proceso de extinción del Órgano Constitucional Autónomo, denominado Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, la Secretaría de Administración deberá garantizar en todo momento el respeto estricto de los derechos laborales de los servidores públicos y trabajadores de dicho organismo en los términos de ley que corresponda a cada trabajador, considerando laudos de conformidad con la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+QUINTO. Los Comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, así como la persona Titular de su Órgano Interno de Control, concluirán su encargo en el momento que se extinga el organismo garante de conformidad con el transitorio segundo y tercero del presente dictamen.
+
+SEXTO. Los remanentes presupuestales del Instituto de Transparencia y Acceso a la Información Pública que resultaren de la extinción del organismo serán entregados a la Secretaría de Administración. Los recursos materiales con que cuente el Instituto serán transferidos a la Contraloría del Estado.
+
+SÉPTIMO. Quedan derogadas todas las disposiciones que se opongan a este decreto.
