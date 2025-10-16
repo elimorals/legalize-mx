@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2024-06-25"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -1659,17 +1659,31 @@ II. Preventivas, y
 
 III. De naturaleza civil.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2025)</small>
 
 Artículo 57 A. Son órdenes de protección de emergencia las siguientes:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2025)</small>
+
 I. Desocupación inmediata de la persona agresora del domicilio común o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2025)</small>
+
+La autoridad jurisdiccional correspondiente deberá garantizar el cumplimiento de las obligaciones contractuales preexistentes de la persona agresora que tenga con terceros, que puedan llegar a afectar a la víctima, así como los apoyos que brindaba para ello;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 II. Prohibición inmediata al probable responsable de acercarse o comunicarse por cualquier vía, así como al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 III. Auxilio de la fuerza pública a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 IV. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 V. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;
 
@@ -1685,23 +1699,31 @@ VII. Prohibición del agresor de intimidar, molestar, acosar o comunicarse con l
 
 VIII. Protección a la víctima y su familia, para lo cual la autoridad competente determinará las medidas necesarias que se deban de tomar para garantizar el respeto a sus derechos incluyendo la adopción de medidas para que no se revele su paradero.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-Las autoridades en casos de emergencia además de lo establecido en el presente Artículo deberán de realizar las acciones que estimen pertinentes conforme a lo previsto en esta Ley garantizando el respeto a los derechos humanos.
+Las autoridades, en casos de emergencia, además de lo establecido en el presente artículo, deberán de realizar las acciones que estimen pertinentes para que se garantice el cumplimiento de las obligaciones de cualquier naturaleza, previo al dictado de las órdenes de protección, conforme a lo previsto en esta ley, garantizando el respeto y pleno ejercicio de los derechos humanos de las víctimas.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-Con el mismo objetivo, las autoridades administrativas, con la finalidad de garantizar la vida, la integridad y la seguridad de mujeres y niñas víctimas de violencia, favorecerán la utilización de sistemas de monitoreo electrónico preservando en todo momento los principios de presunción de inocencia y de mínima intervención. En todo caso su implementación se basará en mecanismos para la gestión integral del riesgo y deberá ajustarse a las reglas que al efecto se emitan por medio de protocolos específicos para su operación.
+Con el mismo objetivo, las autoridades administrativas y jurisdiccionales, con la finalidad de garantizar la vida, la integridad y la seguridad de mujeres y niñas víctimas de violencia, favorecerán la utilización de sistemas de monitoreo electrónico preservando en todo momento los principios de presunción de inocencia y de mínima intervención. En todo caso su implementación se basará en mecanismos para la gestión integral del riesgo y deberá ajustarse a las reglas que al efecto se emitan por medio de protocolos específicos para su operación.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2025)</small>
 
 Artículo 57 B. Son órdenes de protección preventivas las siguientes:
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 I. Retención y guarda de armas de fuego propiedad del agresor o de alguna institución de seguridad pública o privada, independientemente si las mismas se encuentran registradas o bajo resguardo conforme a la normatividad de la materia, así como las armas punzocortantes y punzocontundentes, independientemente de su uso, hayan sido empleadas o no para amenazar o lesionar a la víctima;
 
-II. Prohibición de la persona agresora de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio común previo inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+II. Elaboración de inventario de todos y cada uno de los bienes muebles e inmuebles que se pretendan asegurar, tanto de la persona agresora, como de la víctima, con la finalidad de garantizar que no sean arrendados, enajenados o gravados en perjuicio de la víctima, hasta en tanto se dicte resolución ejecutoriada al caso de violencia de que se trate. Para tal efecto se notificará a las autoridades competentes para que realicen los aseguramientos correspondientes y quede de manifiesto las inscripciones necesarias.
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 III. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 IV. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
 
@@ -1729,9 +1751,9 @@ IX. Solicitar a la autoridad judicial competente la recuperación y entrega inme
 
 X. Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-La autoridad responsable, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las órdenes de protección idóneas cuando estime riesgo inminente en contra de la seguridad de la mujer víctima de violencia.
+La autoridad responsable, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las órdenes de protección idóneas cuando estime riesgo inminente en contra de la seguridad o integridad de la mujer víctima de violencia.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
@@ -2146,3 +2168,11 @@ P.O. 25 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29545/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CÓDIGO PENAL, CÓDIGO CIVIL, TODAS LAS LEYES DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29849/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 57 A Y 57 B DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO.- El Ejecutivo del Estado dispondrá de un plazo de 90 días naturales para realizar las adecuaciones administrativas y reglamentarias que deriven del presente decreto.
