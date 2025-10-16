@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2023-09-30"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -2565,9 +2565,15 @@ XIII. Situación que guardan las obligaciones de pago derivadas de los contratos
 
 XIV. Descripción de los riesgos relevantes para las finanzas municipales, incluyendo los montos de Deuda Contingente, acompañados de su propuesta de acción para enfrentarlos;
 
-XV. Los resultados de las finanzas públicas que abarquen un periodo de los tres últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2025)</small>
 
-XVI. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+XV. Los resultados de las finanzas públicas que abarquen un periodo de los tres últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+XVI. Los municipios en el ámbito de sus atribuciones y conforme a sus posibilidades técnicas podrán incluir anexos transversales en sus presupuestos de egresos en materia de cuidados, atención a víctimas de los delitos de desaparición y desaparición forzada, derechos humanos y niños, niñas y adolescentes; entendiendo como anexos transversales a los documentos que forman parte del Presupuesto donde se refleja la concurrencia de Programas Presupuestarios y/o componentes de éstos, Unidades Presupuestales y Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con temas prioritarios; y
+
+XVII. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
@@ -4286,3 +4292,9 @@ P.O. 30 DE SEPTIEMBRE DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
 
 SEGUNDO. Los Municipios que opten por otorgar descuentos por la aplicación de un sistema de captación de aguas pluviales o la instalación de un sistema fotovoltaico en sus inmuebles, de forma previa deberán emitir los lineamientos para la emisión de las constancias que acrediten la implementación de dichos sistemas.
+
+P.O. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29857/LXIV/25 DEL CONGRESO DEL ESTADO, QUE AUTORIZA REFORMAR LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO EN SU ARTÍCULO 214 EN SU FRACCIÓN XV, SE ADICIONA LA FRACCIÓN XVI, RECORRIÉNDOSE LA NUMERACIÓN DE LA SIGUIENTE FRACCIÓN".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
