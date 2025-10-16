@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2025-10-02"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1088,6 +1088,10 @@ En la línea colateral los grados se cuentan por el número de generaciones, sub
 ###### ARTICULO 140.
 
 Los derechos alimentarios serán preferentes a cualquier otra obligación económica del deudor alimentario.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+En todos los procedimientos de ejecución, concurso, insolvencia, o cualquier otro proceso de liquidación de bienes del deudor que establezca el Código Civil del Estado, las obligaciones alimentarias reconocidas judicialmente tendrán prelación para ser cubiertas, antes que cualquier otro crédito, sin importar su naturaleza, garantizando de manera prioritaria el derecho humano a la subsistencia alimentaria de las personas acreedoras alimentarias.
 
 ###### ARTICULO 141.
 
@@ -3976,6 +3980,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 2 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0265.- QUE REFORMA EL ARTÍCULO 146, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0286.- QUE REALIZA ADICIÓN AL ARTÍCULO 140, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 2806, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
