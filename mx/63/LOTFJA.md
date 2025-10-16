@@ -4,7 +4,7 @@ identifier: "LOTFJA"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-07-18"
-last_updated: "2024-01-26"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115701&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOTFJA"
 
 LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 18 de julio de 2016.
 
@@ -94,7 +94,9 @@ El Tribunal conocerá de los juicios que se promuevan contra las resoluciones de
 
 I. Los decretos y acuerdos de carácter general, diversos a los reglamentos, cuando sean autoaplicativos o cuando el interesado los controvierta con motivo de su primer acto de aplicación;
 
-II. Las dictadas por autoridades fiscales federales y organismos fiscales autónomos, en que se determine la existencia de una obligación fiscal, se fije en cantidad líquida o se den las bases para su liquidación;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2025)</small>
+
+II. Las dictadas por autoridades fiscales federales y organismos fiscales autónomos, en que se determine la existencia de una obligación fiscal, se fije en cantidad líquida o se den las bases para su liquidación; con excepción de las que exijan el pago de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente, o de actos que resuelvan sobre solicitudes de prescripción respecto de dichos créditos;
 
 III. Las que nieguen la devolución de un ingreso de los regulados por el Código Fiscal de la Federación, indebidamente percibido por el Estado o cuya devolución proceda de conformidad con las leyes fiscales;
 
@@ -1247,3 +1249,21 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- El Congreso General de los Estados Unidos Mexicanos, contará con un plazo máximo de 180 días naturales para la expedición de las adecuaciones normativas correspondientes al cumplimiento del presente Decreto.
 
 Tercero.- El Tribunal Federal de Justicia Administrativa, contará con un plazo máximo de 180 días naturales, para la expedición de las disposiciones aplicables para el cumplimiento del presente Decreto.
+
+D.O.F. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, AL CÓDIGO FISCAL DE LA FEDERACIÓN Y A LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Al tratarse de una ley procesal, las etapas procesales concluidas que generen derechos adquiridos a las partes se regirán por las disposiciones legales vigentes al inicio de los procesos respectivos. Por lo que hace a las actuaciones procesales posteriores a la entrada en vigor del presente Decreto, de conformidad con la doctrina y la jurisprudencia de la Suprema Corte de Justicia de la Nación, se regirán por las disposiciones de este Decreto, sin que implique aplicación retroactiva ni afectación a derechos adquiridos, pues se trata de actuaciones futuras.
+
+Cuarto. El Órgano de Administración Judicial contará con trescientos sesenta días naturales a partir de su entrada en funciones para realizar las adecuaciones al Sistema Electrónico del Poder Judicial de la Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y 30 de la Ley de Amparo.
+
+Una vez realizadas las adecuaciones al sistema, el Órgano de Administración Judicial publicará en el Diario Oficial de la Federación y en su propio portal, el aviso de inicio de registro de usuarios digitales para autoridades.
+
+Todas las autoridades de la Federación, entidades federativas, municipios y alcaldías, tendrán un plazo de ciento ochenta días naturales a partir de la publicación del Aviso al que se refiere el párrafo anterior, para dar cumplimiento a este Decreto y crear sus perfiles en el Sistema.
+
+Quinto. El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la entrada en vigor de este Decreto, para emitir un Acuerdo General que regule la correcta integración tanto del expediente electrónico como físico en el juicio de amparo, procurando en todo momento privilegiar el uso de la tecnología y eficientizar el uso de recursos materiales dentro del Poder Judicial de la Federación, sin menoscabar el derecho de las partes de consultar los expedientes correspondientes.
