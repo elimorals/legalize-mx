@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-17415
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-08-21"
-last_updated: "2025-05-13"
+last_updated: "2025-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 2024.
 
@@ -261,7 +261,9 @@ VI. Autorizar, previo el cumplimiento de los requisitos de ley, y a solicitud de
 
 VII. Autorizar las concesiones que otorguen los ayuntamientos, previa solicitud aprobada por el voto de cuando menos las dos terceras partes de los integrantes del mismo;
 
-VIII. Aprobar conforme lo establece la Constitución del Estado y en los términos que señala su Ley Orgánica, los contratos y convenios que celebren los ayuntamientos en relación con la prestación de servicios públicos, administración de la hacienda municipal y los que se refieren en el segundo párrafo de la fracción VII del artículo 116 de la Constitución del Estado, así como la asociación que para tales efectos pretendan efectuar con municipios de otras entidades federativas. Asimismo, de conformidad con el ordenamiento citado, determinar los casos y los términos en que los servicios públicos deberán ser asumidos por el Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2025)</small>
+
+VIII. Conforme lo establece la Constitución del Estado y la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, conocer y aprobar en su caso, contratos, concesiones y convenios que hayan de celebrar los ayuntamientos en relación con la prestación de servicios de su competencia, así como la prestación de los mismos de manera total o parcial por parte del Ejecutivo del Estado;
 
 IX. Resolver conforme al procedimiento que establece su Ley Orgánica, los conflictos que se susciten entre uno o más municipios, así como entre éstos y los Poderes Ejecutivo o Judicial del Estado;
 
@@ -1988,3 +1990,9 @@ P.O. 13 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0199.- QUE REFORMA EL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ, Y REFORMA Y DEROGA LOS ARTÍCULOS 140 Y 62 RESPECTIVAMENTE, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 16 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0285.- QUE REFORMA EL ARTÍCULO 16, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación del el (sic) Periódico Oficial del Estado “Plan de San Luis”.
