@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-prevencion-gestion-integral-y-economia-circular-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-26"
-last_updated: "2022-05-09"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 26 de marzo de 2021.
 
@@ -389,9 +389,21 @@ XXV. Promover programas informativos a la población sobre el impacto negativo q
 
 XXVI. Registrar el Plan de Manejo de pequeños generadores de residuos de manejo especial, sólidos urbanos;
 
-XXVII. Celebrar convenios con el prestador de servicios, cuando la recolección de residuos sólidos urbanos se realice a través de un tercero, indicando de forma clara y precisa, la obligatoriedad de la separación de los residuos desde su origen y en su recolección, los costos por servicio, los alcances de volumen y el tiempo de operación. Dichos convenios deberán ser presentados previamente a la Secretaría para su validación; y,
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
 
-XXVIII. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
+XXVII. Celebrar convenios con la persona prestadora de servicios, cuando la recolección de residuos sólidos urbanos se realice a través de un tercero, indicando de forma clara y precisa, la obligatoriedad de la separación de los residuos desde su origen y en su recolección, los costos por servicio, los alcances de volumen y el tiempo de operación. Dichos convenios deberán ser presentados previamente a la Secretaría para su validación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2025)</small>
+
+XXVIII. Promover y difundir una red de personas acopiadoras en su ámbito territorial, con el fin de divulgar su ubicación y acciones entre la ciudadanía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2025)</small>
+
+XXIX. Integrar el padrón oficial municipal de personas acopiadoras que realicen alguna actividad de acopio, compraventa, reciclaje y aprovechamiento de los subproductos con valor comercial; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2025)</small>
+
+XXX. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
 ### CAPÍTULO TERCERO. TIPOS DE RESIDUOS Y GENERADORES
 
@@ -1224,3 +1236,9 @@ P.O. 9 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 89 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULO 3, 43 Y 45 A LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor a los 365 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 155 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
