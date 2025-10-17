@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2023-12-05"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -3249,19 +3249,21 @@ El ex cónyuge y el ex concubino acreedores de alimentos tienen los mismos derec
 
 El Estado debe dar alimentos a los menores, mayores incapaces, enfermos graves y ancianos que los necesiten y no tengan parientes que estén obligados a proporcionárselos; pero si aparecieren parientes deudores de esos alimentos, deberá el Estado exigirles el pago de la suma gastada en ellos, más intereses legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 497.
 
-Los alimentos comprenden comida, vestido, habitación y asistencia en caso de enfermedad y, en el supuesto del artículo 499, libros y material de estudio necesarios.
+Los alimentos comprenden comida, vestido, habitación, esparcimiento y demás necesidades integrales para su sano desarrollo, además de asistencia en caso de enfermedad y en el supuesto del artículo 499, libros y material de estudio necesarios.
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 Además, los alimentos comprenderán la atención médica y hospitalaria del embarazo y parto, en cualquier caso, del padre hacia la madre.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 498.
 
-Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista, y para proporcionarle algún oficio, arte o profesión, que resulte adecuado para la subsistencia del deudor alimentario.
+Respecto de las niñas, niños, adolescentes y jóvenes, los alimentos comprenden, además, los gastos necesarios para la educación inicial, preescolar, primaria, secundaria y educación media superior del alimentista, y para proporcionarle algún oficio, arte o profesión, que resulte adecuado a sus circunstancias personales.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
@@ -20844,3 +20846,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Poder Judicial del Estado emitirá las disposiciones normativas de conformidad con el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de pensiones alimenticias, publicado en el Diario Oficial de la Federación el ocho de mayo de dos mil veintitrés.
+
+P.O. 17 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 497 Y EL ARTÍCULO 498 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
