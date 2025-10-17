@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-salud-mental-para-el-estado-de-nuevo-leon-128480"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-09"
-last_updated: "2023-12-08"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección III al Número 58 del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 2018.
 
@@ -49,7 +49,9 @@ La presente Ley tiene por objeto garantizar el derecho a la salud mental de toda
 
 I. La implementación del Sistema Estatal de Salud Mental a través de un Órgano Colegiado de instituciones públicas y privadas y en cuya misión, objetivo, rectoría o responsabilidad, se contemplen acciones directas o indirectas, en el contexto de la salud mental;
 
-II. El diseño e implementación de las bases y modalidades, que permitan garantizar el acceso equitativo a los servicios de salud mental en el Estado, con un enfoque de derechos humanos y perspectiva de género;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+II. El diseño e implementación de las bases y modalidades, que permitan garantizar el acceso equitativo, oportuno y universal a los servicios de salud mental en el Estado, con un enfoque de derechos humanos y perspectiva de género;
 
 III. La regulación de los mecanismos adecuados para la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación y fomento de la salud mental en instituciones de salud en el Estado, así como para personas físicas o morales de los sectores social y privado, que coadyuven en la prestación de servicios en los términos y modalidades establecidas en la presente Ley;
 
@@ -69,7 +71,9 @@ I. Lo establecido por el artículo 4 de la Constitución Política de los Estado
 
 II. La articulación operativa con las instituciones, las organizaciones no gubernamentales, la familia y otros recursos existentes en la comunidad, a fin de multiplicar las acciones de salud y facilitar la resolución de los problemas en el ámbito comunitario;
 
-III. El reconocimiento de la salud mental como elemento fundamental de la salud integral en el funcionamiento biológico, psicológico, social y cultural de la persona y que le permite alcanzar las mejores condiciones posibles para su desarrollo físico, conductual, cognoscitivo y afectivo;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+III. El reconocimiento de la salud mental y emocional como elemento fundamental de la salud integral en el funcionamiento biológico, psicológico, social y cultural de la persona y que le permite alcanzar las mejores condiciones posibles para su desarrollo físico, conductual, cognoscitivo y afectivo;
 
 IV. La salud mental como resultante de la concreción de los derechos a la salud, a la educación, a la seguridad social, a la cultura y a un medio ambiente saludable;
 
@@ -104,6 +108,10 @@ VIII. Consentimiento Informado: a los documentos escritos, signados por el pacie
 IX. Derecho a la salud mental: derecho de toda persona al bienestar psíquico, identidad, dignidad, respeto y un tratamiento integral con el propósito de una óptima integración social, para lo cual el Poder Ejecutivo tiene la obligación de planear, organizar, operar y supervisar el funcionamiento de los servicios a los que se refiere la presente Ley;
 
 X. Diagnóstico psicológico: informe que resulta del análisis e interpretación de los datos obtenidos en las distintas medidas de evaluación psicológica, que se aplican a una persona o grupo, con el objetivo de detectar los síntomas que interfieren en su adaptación o que podrían desencadenar algún tipo de alteración y/o trastorno mental;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+X Bis. Duelo: Estado del pensamiento, sentimiento y actividad que se produce como consecuencia de la pérdida de una persona amada o algo significativo; que produce en la persona síntomas físicos y emocionales;
 
 XI. Educación para la salud mental: al proceso organizado y sistémico, mediante el cual se busca orientar a las personas usuarias, familiares y población en general mediante la psicoeducación orientada a la no estigmatización y la discriminación de las personas con trastornos mentales, a fin de modificar o sustituir determinadas conductas que alteren la salud mental por aquellas que son saludables en lo individual, lo familiar, lo colectivo y en su relación con el medio ambiente;
 
@@ -242,6 +250,10 @@ XXXV. Que en las unidades de atención médica se tenga acceso a los recursos cl
 XXXVI. A solicitar por sí mismo o a través de su representante legal o familiares, a reunirse con el equipo de profesionales de las unidades de atención médica o con los responsables de los establecimientos de asistencia social que lo estén tratando o atendiendo respectivamente;
 
 XXXVII. A recibir atención médica oportuna en caso de sufrir una enfermedad no psiquiátrica y, de así requerirlo, tratamiento adecuado en una institución que cuente con los recursos técnicos para su atención;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+XXXVII. Bis. Recibir servicios de tanatología por parte de un profesional de la salud mental, de manera oportuna y continua, así como el respeto al proceso de duelo y luto del paciente y a su familia;
 
 XXXVIII. Cuando sea posible, sobre todo en los casos de urgencia psiquiátrica, conforme a las disposiciones aplicables, la familia podrá solicitar el apoyo de transporte del usuario a alguna autoridad o institución pública, privada o de asistencia social que cuente con los medios para tal fin y que tenga conocimiento del estado de urgencia y de los riesgos que ello implica para la integridad y vida de las personas;
 
@@ -383,7 +395,9 @@ IV. Integrar, dirigir, coordinar y regular el Sistema Estatal de Salud Mental co
 
 V. Diseñar y evaluar políticas de prevención y atención integral en materia de promoción a la salud mental, educación para la salud mental, atención integral médico-psiquiátrica, rehabilitación integral y participación ciudadana, así como analizar y asesorar los planes y proyectos de las acciones para la atención de la salud mental;
 
-VI. En coordinación con las demás instancias que conforman el Sistema Estatal de Salud Mental, realizar acciones de sensibilización a la sociedad sobre los trastornos mentales y las alternativas para la solución de sus problemas como son terapias, pláticas y orientación en los Módulos de Atención en Salud Mental, Centros Hospitalarios, Centros de Salud y demás espacios para la atención de su problema, con un enfoque de derechos humanos y perspectiva de género;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+VI. En coordinación con las demás instancias que conforman el Sistema Estatal de Salud Mental, realizar acciones de sensibilización dirigidas a la sociedad sobre los trastornos mentales y las alternativas disponibles para su atención, incluyendo la implementación de campañas permanentes en medios de comunicación, con el objetivo de promover la salud mental, prevenir el suicidio y ofrecer información sobre las alternativas de apoyo y orientación para el manejo de situaciones de crisis emocional o psicológica en los Módulos de Atención en Salud Mental, Centros Hospitalarios, Centros de Salud y otros espacios. Estas acciones se desarrollarán con un enfoque de derechos humanos y perspectiva de género;
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
@@ -471,15 +485,21 @@ Asimismo, la Secretaría de Educación, deberá coordinarse con las institucione
 
 La formación profesional en materia de prevención de riesgos en salud mental, requiere de la capacitación de los profesionistas de las ramas médica, paramédica y afín, en los métodos para la elaboración de programas preventivos y actualizados en las diferentes campañas y programas gubernamentales internacionales, nacionales y regionales vinculados con la salud mental.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 31.
 
-La Secretaría de Desarrollo Social y el Sistema para el Desarrollo Integral para la Familia del Gobierno del Estado y sus homólogas de los gobiernos municipales, en el ámbito de sus atribuciones y a través de sus unidades administrativas correspondientes, desarrollarán acciones que permitan otorgar apoyos de asistencia social a personas que presentan trastornos mentales y del comportamiento y que debido a su situación económica o por falta de apoyo familiar requieren de este tipo de asistencia, incluyendo su ingreso a establecimientos públicos o del sector social o privado en donde se les brinden los cuidados necesarios, tomando en cuenta lo dispuesto en el artículo 42 de la presente Ley.
+La Secretaría de Igualdad e Inclusión y el Sistema para el Desarrollo Integral para la Familia del Gobierno del Estado y sus homólogas de los gobiernos municipales, en el ámbito de sus atribuciones y a través de sus unidades administrativas correspondientes, desarrollarán acciones que permitan otorgar apoyos de asistencia social a personas que presentan trastornos mentales y del comportamiento y que debido a su situación económica o por falta de apoyo familiar requieren de este tipo de asistencia, incluyendo su ingreso a establecimientos públicos o del sector social o privado en donde se les brinden los cuidados necesarios, tomando en cuenta lo dispuesto en el artículo 42 de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 31 Bis.
 
-las Instituciones de Seguridad Pública, del Estado y los Municipios, en términos de lo dispuesto en el artículo 39 de esta Ley, deberán implementar acciones para garantizar que sus integrantes, reciban de manera inmediata por parte de personal especializado, atención, apoyo y seguimiento psicológico o de cualquier disciplina o especialidad que se requiera, para garantizar el pleno respeto a su dignidad como seres humanos, cuando a consecuencia del desempeño de sus funciones, esté en riesgo su vida o su integridad física y psicológica.
+las Instituciones de Seguridad Pública, del Estado y los Municipios, en términos de lo dispuesto en el artículo 39 de esta Ley, deberán implementar acciones para garantizar que sus integrantes, reciban de manera inmediata por parte de personal especializado, atención, apoyo y seguimiento psicológico o de cualquier disciplina o especialidad que se requiera, para garantizar el pleno respeto a su dignidad como seres humanos, cuando a consecuencia del desempeño de sus funciones, esté en riesgo su vida o su integridad física y psicológica
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+Además, de lo señalado en el párrafo anterior se implementarán las acciones que garanticen atención psicológica preventiva, así como la orientación para el mejoramiento de su bienestar personal y desempeño profesional.
 
 ### Capítulo VI. Del Consejo de Salud Mental del Estado de Nuevo León
 
@@ -493,11 +513,15 @@ II. El Titular de la Secretaría de Salud del Estado, quien fungirá como Presid
 
 III. El Director de Salud Mental y Adicciones de la Secretaría de Salud, quien fungirá como Secretario Técnico;
 
-IV. El Titular de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+IV. El Titular de la Fiscalía General de Justicia del Estado;
 
 V. El Titular de la Secretaría de Educación del Estado;
 
-VI. El Titular de la Secretaría de Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+VI. El Titular de la Secretaría de Igualdad e Inclusión;
 
 VII. El Titular del Sistema para el Desarrollo Integral de la Familia;
 
@@ -510,6 +534,10 @@ X. El Titular del Instituto de Seguridad y Servicios Sociales de los Trabajadore
 XI. Un grupo no mayor a cinco personas que representen las organizaciones civiles de asistencia, profesionalización e investigación sobre la salud mental.
 
 Podrán ser invitados a las reuniones del Consejo, el Presidente de la Comisión Estatal de Derechos Humanos y los Titulares de las dependencias estatales, cuando el Consejo lo determine.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+Los representantes señalados en las fracciones IX y XI serán nombrados observando el principio de paridad de género.
 
 ###### Artículo 33.
 
@@ -577,6 +605,10 @@ VIII Bis.- La realización de programas y políticas públicas de prevención, a
 
 VIII Bis 1.- La realización de programas específicos de prevención, atención, apoyo y seguimiento de problemas de salud mental dirigidos a la población en general que lo requiera derivado de algún desastre natural, emergencia sanitaria, condiciones de aislamiento o distanciamiento social, decretados por la autoridad competente;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+VIII Bis 2.- La atención especializada en orientar y asesorar a los pacientes enfermos en situación terminal, así como a los miembros de su familia, en materia de tanatología;
+
 IX. La conformación de equipos interdisciplinarios de acuerdo a los objetivos de atención a la salud mental específicos; y
 
 X. Los responsables de los establecimientos asistenciales deben tener conocimiento de los recursos terapéuticos disponibles, de las prácticas asistenciales, de los requerimientos de capacitación del personal a su cargo, instrumentando los recursos necesarios para adecuar la formación profesional a las necesidades de los asistidos.
@@ -613,7 +645,9 @@ X. La centralización de la información registrada en los establecimientos de s
 
 El Estado y los Municipios, celebrarán convenios o acuerdos para la realización conjunta de actividades de promoción, prevención y atención de la salud mental, entre lo que destaca:
 
-I. El diseño e implementación de acciones en pro de la salud mental dirigidas a la comunidad en general y a grupos específicos como niñas, niños, adolescentes, indigentes y adultos mayores;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+I. El diseño e implementación de acciones en pro de la salud mental dirigidas a la comunidad en general y a grupos específicos como niñas, niños, adolescentes, personas en situación de calle, adultos mayores, mujeres víctimas de violencia y trabajadores con alto riesgo de estrés laboral;
 
 II. Acuerdos que permitan el reforzamiento del sistema de vigilancia epidemiológica en materia de salud mental, así como para el sistema de atención, referencia y contra referencia;
 
@@ -929,11 +963,35 @@ IV. Contar con personal necesario, capacitado y especializado para proporcionar 
 
 V. Especificar el tipo de tratamiento que se les proporcionará y los métodos para aplicarlo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+### Capítulo X Bis. De los servicios de tanatología
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 89 Bis.
+
+Las personas que habitan en el Estado de Nuevo León tienen derecho a ser tratados en sus aspectos psicológicos, sociales y emocionales; a buscar y encontrar un sentido de la muerte y al respeto de sus creencias y ritos.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 89 Bis 1.
+
+La tanatología es una disciplina utilizada por los profesionales de la salud mental mediante la cual se puede abordar una situación de duelo que padecen las personas; dicho servicio se proporciona a petición de la persona o de sus familiares, que deberán ser tratados con respeto, compasión y en estricto respeto a sus derechos humanos y conforme a las disposiciones establecidas en la presente ley y en la demás normativa que rige a la salud mental en nuestra entidad.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 89 Bis 2.
+
+Los servicios de Tanatología comprenden:
+
+I. La atención digna y acompañamiento de una persona que ha sufrido una pérdida o sufre de una enfermedad terminal o incurable;
+
+II. Generar en la persona paciente recursos suficientes que le permitan una aceptación y manejo adecuado de aspectos como la vida y la muerte, como un proceso natural del ser humano; y
+
+III. Efectuar una intervención clínica y profesional en los familiares de una persona en situación de fase terminal, de quien haya fallecido o que su salud física se encuentre gravemente afectada.
+
 ### Capítulo XI. De la atención psiquiátrica y/o psicológica para personas en conflicto con la ley penal
-
-### Capítulo XI Bis. De la detección, prevención y atención al suicidio
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 90.
 
@@ -987,7 +1045,9 @@ En términos de lo dispuesto en los artículos 192, 193 y 194 de la Ley Nacional
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2021)</small>
 
-### Capítulo XII. De las Sanciones y del Recurso de Inconformidad
+### Capítulo XI Bis. De la detección, prevención y atención al suicidio
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 101 Bis.
 
@@ -1056,6 +1116,8 @@ Cuando se trate del intento o la conducta suicida de una niña, niño o adolesce
 Artículo 101 bis 5.- Con la finalidad de mejorar la respuesta del estado en lo relativo a la atención de intentos de suicidio, la Secretaría tendrá la obligación de capacitar en materia de primeros auxilios psicológicos, orientados especialmente a la prevención del suicidio, a todo el personal de campo de los cuerpos de seguridad y de protección civil estatales y municipales.
 
 La Secretaría deberá, además, dejar las pautas de capacitación a los diversos cuerpos de seguridad y de protección civil referidos en el párrafo anterior, para que dichos organismos puedan continuar capacitando al nuevo personal que se integre a sus respectivas corporaciones.
+
+### Capítulo XII. De las Sanciones y del Recurso de Inconformidad
 
 ###### Artículo 102.
 
@@ -1162,3 +1224,11 @@ Primero. El presente Decreto entrará en vigor el día siguiente de su publicaci
 Segundo. La ejecución y cumplimiento de las disposiciones contenidas en el presente Decreto, se realizarán de forma gradual y progresiva, considerando los recursos disponibles.
 
 Tercero. El Ejecutivo Estatal y demás autoridades competentes, tendrán un plazo no mayor a los 180 días naturales a partir de la entra en vigor del presente Decreto, para armonizar, emitir o adecuar sus disposiciones reglamentarias que permitan prever en la esfera administrativa lo previsto en el presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 126: SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 2; LA FRACCIÓN III DEL ARTÍCULO 3; EL PRIMER PÁRRAFO DE LA FRACCIÓN VI DEL ARTÍCULO 24; EL ARTÍCULO 31; LAS FRACCIONES IV Y VI DEL ARTÍCULO 32; LA FRACCIÓN I DEL ARTÍCULO 39; Y SE ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 4; LA FRACCIÓN XXXVII BIS AL ARTÍCULO 5; UN SEGUNDO PÁRRAFO AL ARTÍCULO 31 BIS; UN TERCER PÁRRAFO AL ARTÍCULO 32; LA FRACCIÓN VIII BIS 2 AL ARTÍCULO 36; Y UN CAPÍTULO X BIS DENOMINADO "DE LOS SERVICIOS DE TANATOLOGÍA" TODOS DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán atendiendo a la suficiencia presupuestal del ente ejecutor.
