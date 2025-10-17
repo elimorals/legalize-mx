@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10095
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-30"
-last_updated: "2023-04-04"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sexagésima Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2013.
 
@@ -87,9 +87,13 @@ IV. Prestadores de servicios para la atención, cuidado y desarrollo integral in
 
 V. Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento: Conjunto de acciones para lograr una vigilancia efectiva del cumplimiento de la presente Ley y garantizar el mejoramiento progresivo y fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
 
-VI. Registro Estatal: Registro Estatal de centros de atención, cuidado y desarrollo integral infantil en el Estado de Puebla; y
+VI. Registro Estatal: Registro Estatal de los Centros de Atención;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+VI BIS. Reglamento: Reglamento de la Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Puebla; y
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
@@ -261,27 +265,33 @@ III. El registro de los Centros de Atención; y
 
 IV. Las demás relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a garantizar los derechos de niñas y niños.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 14.
 
-El Consejo Estatal se integrará y funcionará por los Titulares de:
+El Consejo Estatal se integrará por:
 
-I. La Secretaría General de Gobierno, quien fungirá como Coordinador;
+I. La persona Titular de la Secretaría de Gobernación, quien asumirá la Presidencia;
 
-II. La Secretaría de Educación Pública;
+II. La persona Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla; quien asumirá la Secretaría Técnica;
 
-III. La Secretaría de Salud del Estado;
+III. La persona Titular de la Secretaría de Educación Pública;
 
-IV. La Secretaría de Desarrollo Social;
+IV. La persona Titular de la Secretaría de Salud;
 
-V. La Comisión de Derechos Humanos del Estado;
+V. La persona Titular de la Secretaría de Bienestar;
 
-VI. Siete Presidentes Municipales, en la forma que determine el Reglamento de esta Ley; y
+VI. La persona Titular de la Comisión del (sic) Derechos Humanos del Estado de Puebla; y
 
-VII. A invitación del Consejo Estatal, podrán participar representantes de las Instancias Federales en el Estado que cuenten con Centros de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
+VII. Siete titulares de las presidencias municipales, seleccionadas conforme a los criterios establecidos en el Reglamento.
 
-Las decisiones del Consejo se aprobarán por mayoría; en caso de empate, el Coordinador tendrá voto de calidad.
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 14 BIS.- Cada integrante del Consejo Estatal contará con derecho a voz y voto, y sus cargos tendrán el carácter de honorífico, por lo que no recibirán emolumento, contraprestación o sueldo alguno por el cumplimiento de sus atribuciones.
+
+Las personas integrantes del Consejo Estatal designarán a las personas que, en su caso, deban suplirles en las sesiones del Consejo, las cuales deberán tener nivel jerárquico inmediato inferior al de quien las designa, y gozarán de las mismas atribuciones que las personas propietarias.
+
+A invitación de la persona titular de la Presidencia del Consejo Estatal, podrán participar en las sesiones de éste, con derecho a voz, pero sin voto, las personas representantes de las instancias federales en el Estado que cuenten con Centros de Atención; así como las personas especialistas cuya participación y opinión se consideren pertinentes para la discusión del asunto de que se trate.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2014)</small>
 
@@ -313,21 +323,83 @@ IX. Impulsar acciones de gobierno para ofrecer un servicio de atención, cuidado
 
 X. Coadyuvar con el Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, en términos de la legislación aplicable;
 
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2025)</small>
 
-XI. Elaborar el Reglamento de la presente Ley; y
+XI. Autorizar las solicitudes para la instalación de los Centros de Atención;
 
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2025)</small>
 
-XII. Aprobar sus reglas internas de operación.
+XII. Informar al Registro Nacional sobre las autorizaciones de los Centros de Atención;
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2025)</small>
+
+XIII. Aprobar sus reglas internas de operación;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE OCTUBRE DE 2025)</small>
+
+XIV. Aprobar los lineamientos de operación de los Centros de Atención; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+XV. Las demás previstas en el Reglamento de la presente Ley y las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 15 BIS.- La persona titular de la Presidencia del Consejo Estatal tendrá las siguientes atribuciones:
+
+I. Presidir las sesiones del Consejo, y conducir el desarrollo de los debates en éstas;
+
+II. Aprobar las convocatorias a sesiones;
+
+III. Declarar la existencia de quórum legal;
+
+IV. Presentar para su aprobación el orden del día a las personas integrantes del Consejo Estatal, a través de la Secretaría Técnica;
+
+V. Invitar, por conducto de la Secretaría Técnica, a las personas representantes de las instancias federales señaladas en el artículo 14 BIS, así como a las personas especialistas cuya participación u opinión se considere pertinente para la discusión del asunto correspondiente;
+
+VI. Dar seguimiento, por medio de la Secretaría Técnica, al cumplimiento de los Acuerdos aprobados por el Consejo Estatal; y
+
+VII. Las demás previstas en el Reglamento de la presente Ley y disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 15 TER.- La Secretaría Técnica del Consejo Estatal tendrá las siguientes atribuciones:
+
+I. Convocar a sesiones, previo acuerdo de la persona titular de la Presidencia;
+
+II. Remitir a las personas integrantes del Consejo Estatal la convocatoria y el orden del día de cada sesión, conforme a lo previsto en esta Ley;
+
+III. Vigilar el cumplimiento de los acuerdos aprobados por el Consejo Estatal;
+
+IV. Informar al Consejo Estatal sobre las solicitudes presentadas para la instalación de los Centros de Atención;
+
+V. Operar, mantener y actualizar el Registro Estatal de los Centros de Atención autorizados por el Estado;
+
+VI. Remitir al Registro Nacional la información relativa a los Centros de Atención autorizados en el Estado, y celebrar convenios de coordinación con el citado Registro para tal efecto;
+
+VII. Otorgar asesoría a los Ayuntamientos que así lo soliciten en materia de prestación de servicios de Centros de Atención;
+
+VIII. Formular los lineamientos para la integración, organización y funcionamiento del Consejo Estatal, así como sus modificaciones, y proponerlos a este, por conducto de la Presidencia;
+
+IX. Elaborar los lineamientos de operación de los Centros de Atención y someterlos a consideración del Consejo Estatal, por conducto de la Presidencia; y
+
+X. Las demás que establezca el Reglamento de la presente Ley y las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 16.
 
-El Consejo Estatal se reunirán (sic) en sesiones ordinarias por lo menos cuatro veces al año, para dar seguimiento a las acciones acordadas entre sus integrantes, y de manera extraordinaria las veces que se requiera, las cuales serán convocadas por su Presidente a propuesta de cualquiera de los integrantes.
+El Consejo Estatal se reunirá en sesiones ordinarias por lo menos cuatro veces al año, para dar seguimiento a las acciones y acuerdos aprobados por sus integrantes, y en sesiones extraordinarias cuantas veces sea necesario, las cuales serán convocadas por la persona Titular de la Secretaría Técnica, a propuesta de cualquiera de las personas integrantes y previo acuerdo de la Presidencia.
 
-Los integrantes del Consejo Estatal, intercambiarán y analizarán información y datos referentes a los temas de su competencia con el fin de cumplir con los objetivos establecidos.
+Las sesiones ordinarias deberán convocarse con al menos setenta y dos horas, y las extraordinarias con al menos veinticuatro horas de anticipación a su celebración; solo en situaciones de emergencia, podrán convocarse el mismo día en que deban llevarse a cabo.
+
+La convocatoria deberá notificarse por oficio a todas las personas integrantes del Consejo Estatal, especificando el lugar, fecha y hora de celebración, y anexándose el orden del día y la documentación correspondiente a los asuntos a tratar en la sesión. En caso de emergencia, la notificación de la convocatoria a sesiones extraordinarias podrá realizarse por cualquier medio que permita verificar su recepción.
+
+Las sesiones del Consejo Estatal serán válidas con la asistencia de cuando menos la mitad más uno de las personas integrantes, entre las cuales deberá estar presente la persona titular de la Presidencia.
+
+Si la sesión no pudiera celebrarse en la fecha señalada por falta de quórum legal, la persona titular de la Presidencia, por conducto de la Secretaría Técnica, deberá hacer constar tal circunstancia y emitirá una nueva convocatoria, la cual deberá celebrarse dentro de los cinco días hábiles siguientes.
+
+Los Acuerdos del Consejo Estatal se aprobarán por mayoría simple de las personas integrantes presentes. En caso de empate, la persona titular de la Presidencia tendrá voto de calidad.
 
 ### CAPÍTULO V. DEL REGISTRO ESTATAL DE LOS CENTROS DE ATENCIÓN
 
@@ -694,3 +766,13 @@ P.O. 4 DE ABRIL DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 5, EL ARTÍCULO 14, LAS FRACCIONES XI Y XII DEL 15 Y EL 16, Y ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 5, EL 14 BIS, LAS FRACCIONES XIII, XIV Y XV AL 15, EL 15 BIS Y EL 15 TER DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado deberá expedir las disposiciones reglamentarias correspondientes dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
