@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-las-caracteristicas-uso-y-difusion-del-10626"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-10"
-last_updated: "2007-07-04"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LAS CARACTERISTICAS, USO Y DIFUSION DEL ESCUDO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de julio de 1996.
 
@@ -39,9 +39,11 @@ LEY QUE REGULA LAS CARACTERISTICAS, USO Y DIFUSION DEL ESCUDO DEL ESTADO DE NUEV
 
 ### CAPITULO I. DE LA PROTECCION, USO, Y DIFUSION DEL ESCUDO DEL ESTADO
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
 ###### ARTICULO 1.
 
-El Escudo del Estado representa la historia, costumbres y valores del pueblo nuevoleonés; esta Ley tiene por objeto regular las características, uso y difusión del Escudo del Estado de Nuevo León.
+El Escudo del Estado representa la historia, costumbres y valores del pueblo nuevoleonés; esta Ley tiene por objeto regular las características, uso y discusión (sic) del Escudo del Estado de Nuevo León, así como fomentar el respeto de los símbolos patrios de conformidad a la Ley Federal en la materia.
 
 ###### ARTICULO 2.
 
@@ -74,6 +76,20 @@ Toda reproducción del Escudo del Estado deberá corresponder fielmente al model
 El escudo del Estado podrá figurar en oficinas, vehículos, medallas, papelería oficial y similares, utilizados o expedidos por cualquiera de los Poderes del Estado, o por los Ayuntamientos integrantes del mismo y los organismos autónomos; pero queda prohibido utilizarlo en documentos particulares.
 
 Podrá figurar también en la indumentaria, pendones o distintivos de organizaciones deportivas, instituciones educativas y culturales del Estado de Nuevo León y podrá ser utilizado por ciudadanos nuevoleoneses que representen a la entidad en justas deportivas, educativas y culturales; quienes tendrán la obligación de portarlo con respeto y honor.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+###### ARTICULO 4 Bis.
+
+Con el propósito de fomentar el respeto a los símbolos patrios, fortalecer la identidad nacional y promover los valores patrióticos, en términos de esta Ley, se impulsará la instalación de la Bandera Nacional en las instituciones gubernamentales.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+###### ARTICULO 4 Bis 1.
+
+Al izar la Bandera Nacional para su colocación, deberán cumplirse con lo establecido en el artículo 14 de la Ley Sobre el Escudo, la Bandera y el Himno Nacionales.
+
+De igual forma al cantar o ejecutar el himno nacional, se apegará a la letra y música de la versión establecida en la mencionada ley.
 
 ###### ARTICULO 5.
 
@@ -144,3 +160,9 @@ JUAN FRANCISCO RIVERA BEDOYA
 P.O. 4 DE JULIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 127: SE REFORMA EL ARTÍCULO 1, SE ADICIONA, EL ARTÍCULO 4 BIS Y EL ARTÍCULO 4 BIS 1 DE LA LEY QUE REGULA LAS CARACTERÍSTICAS, USO Y DIFUSIÓN DEL ESCUDO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Nuevo León.
