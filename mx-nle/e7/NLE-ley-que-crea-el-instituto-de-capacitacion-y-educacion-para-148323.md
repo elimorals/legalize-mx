@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-capacitacion-y-educacion-para-1483
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-10"
-last_updated: "2025-05-19"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148323&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de marzo de 2021.
 
@@ -89,9 +89,15 @@ IX. Realizar todos los demás actos que sean necesarios o conducentes para el lo
 
 Adicionalmente a lo estipulado en el artículo anterior, el Instituto en coordinación con la Secretaría del Trabajo, fomentará la implementación de campañas de información y cursos, encaminados a brindar a los trabajadores los conocimientos y herramientas necesarias de educación financiera, posibilitando así una mejor toma de decisiones en esta materia, obteniendo en consecuencia bienestar personal y familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-Los programas de estudio que imparta el Instituto, así como las modalidades educativas, deberán garantizar la estructuración de aprendizajes significativos que sean acordes con los requerimientos de la industria, el comercio y los servicios. Los planes y programas de estudio se diseñarán y adecuarán conforme a la metodología que permita contar con un diagnóstico cierto de los requerimientos del mercado laboral al que sea destinado. Dichos programas serán elaborados bajo la coordinación del Director General del Instituto y presentados a consideración de la Junta Directiva para su aprobación y posterior impartición
+Los programas de estudio que imparta el Instituto, así como las modalidades educativas, deberán garantizar la estructuración de aprendizajes significativos que sean acordes con los requerimientos de la industria, el comercio y los servicios. Los planes y programas de estudio se diseñarán y adecuaran conforme a la metodología que permita contar con un diagnóstico cierto de los requerimientos del mercado laboral al que sea destinado. Dichos programas serán elaborados bajo la coordinación del Director General del Instituto y presentados a consideración de la Junta Directiva para su aprobación y posterior impartición.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+De igual forma, el Instituto impartirá programas que prevean la reconversión laboral, con el objetivo de adaptar, generar nuevas habilidades, así como impulsar las competencias laborales para que los trabajadores del Estado, puedan contar con las herramientas más innovadoras que exige el mercado laboral.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN
 
@@ -376,5 +382,11 @@ P.O. 10 DE MARZO DE 2025.
 P.O. 19 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 103. SE REFORMAN LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN II DEL ARTÍCULO 8 DE LA LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 128. SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 5 DE LA LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
