@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-privada-del-estado-de-puebla-99817"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-14"
-last_updated: "2024-12-31"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de marzo de 2014.
 
@@ -95,9 +95,17 @@ XIV. Reglamento: El Reglamento de la Ley de Seguridad Privada del Estado de Pueb
 
 XV. Revalidación: El acto administrativo por el que se ratifica la validez de la autorización por un nuevo periodo;
 
-XVI. Seguridad Privada: Servicio que prestan los particulares en las modalidades que señala la Ley Federal de Seguridad Privada y artículo 15 de esta Ley, y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
 
-XVII. Servicios de Seguridad Privada: Aquéllos que son realizados por personas físicas o jurídicas, de acuerdo con las modalidades previstas en esta Ley.
+XVI. Seguridad Privada: Servicio que prestan los particulares en las modalidades que señala la Ley Federal de Seguridad Privada y artículo el (sic) 15 de esta Ley;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+XVII. Servicios de Seguridad Privada: Aquéllos que son realizados por personas físicas o jurídicas, de acuerdo con las modalidades previstas en esta Ley; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+XVIII. Universidad: Universidad de las Ciencias Policiales y de la Seguridad del Estado de Puebla.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
@@ -187,15 +195,15 @@ V. Mantener actualizado el padrón de prestadores de servicio y del personal dir
 
 VI. Supervisar que los prestadores del servicio cumplan con las disposiciones de esta Ley, el Reglamento y demás ordenamientos legales aplicables;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
-
-VII. Implementar acuerdos con los prestadores del servicio, a fin de instrumentar los planes y programas de capacitación y adiestramiento que autorice o imparta la Secretaría de Seguridad Pública;
+VII. (DEROGADA, P.O. 17 DE OCTUBRE DE 2025)
 
 VIII. Establecer, operar y mantener actualizada la información que alimenta al Registro Nacional;
 
 IX. Realizar visitas de verificación de carácter ordinario o extraordinario, a fin de comprobar el cumplimiento de esta Ley, el Reglamento y demás disposiciones jurídicas que resulten aplicables;
 
-X. Comprobar que el personal operativo se encuentre debidamente capacitado y concertar con el prestador de servicios, la instrumentación y modificación de sus planes y programas de capacitación y adiestramiento;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+X. Verificar que el personal operativo se encuentre debidamente capacitado por la Universidad, Dependencia o Entidad del Gobierno del Estado competente;
 
 XI. Ejecutar las sanciones que procedan, por el incumplimiento de las disposiciones previstas en esta Ley y el Reglamento;
 
@@ -235,9 +243,17 @@ Cuando el prestador de servicios ya cuente con la licencia particular o colectiv
 
 Los convenios o acuerdos a que se refiere la fracción VIII del artículo 3 de la presente Ley, buscarán facilitar:
 
-I. La prevención, control, solución y toma de acciones inmediatas a problemas derivados de la prestación del servicio de seguridad privada en el Estado, y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
 
-II. La homologación de los criterios, requisitos y obligaciones en esta materia, respetando la distribución de competencias, con el fin de garantizar que los servicios de seguridad privada se realicen en las mejores condiciones de eficiencia y certeza en beneficio del prestatario.
+I. La prevención, control, solución y toma de acciones inmediatas a problemas derivados de la prestación del servicio de seguridad privada en el Estado.
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+II. La homologación de los criterios, requisitos y obligaciones en esta materia, respetando la distribución de competencias, con el fin de garantizar que los servicios de seguridad privada se realicen en las mejores condiciones de eficiencia y certeza en beneficio del prestatario; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+III. La unificación de la profesionalización y capacitación del personal que integra los cuerpos de seguridad privada en materia de seguridad.
 
 ### CAPÍTULO III. DEL REGISTRO DE LOS PRESTADORES DE SERVICIOS, PERSONAL Y EQUIPO DE SEGURIDAD PRIVADA
 
@@ -431,9 +447,11 @@ VII. Acreditar en los términos que señale la disposición legal aplicable, que
 
 VIII. Presentar un ejemplar del Reglamento Interior de Trabajo, Manual o Bases Operativas, aplicable a cada una de las modalidades del servicio a desarrollar, que contenga la estructura jerárquica del prestador de servicio y el nombre del responsable operativo;
 
-IX. Exhibir los planes y programas de capacitación y adiestramiento vigentes, acordes a las modalidades en que se prestará el servicio, así como la constancia que acredite su registro ante la instancia competente;
+IX. (DEROGADA, P.O. 17 DE OCTUBRE DE 2025)
 
-X. Acreditar la capacitación en materia de seguridad privada del personal operativo, mediante constancia expedida por institución competente;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+X. Presentar la constancia expedida por la Universidad, Dependencia o Entidad competente del Gobierno del Estado, que acredite que el personal operativo cuenta con los conocimientos profesionales y técnicos necesarios para el adecuado desempeño de sus funciones;
 
 XI. Currículo del personal directivo, o en su caso, de quienes ocuparán los cargos relativos;
 
@@ -517,29 +535,29 @@ V. No haber sido separados de las Fuerzas Armadas o de instituciones de segurida
 
 VI. No ser miembros en activo de alguna institución de Seguridad Pública Federal, Estatal o Municipal o de las Fuerzas Armadas, y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
 
-VII. Someterse a procedimientos de evaluación y control de confianza, de conformidad con la legislación aplicable en la materia.
+VII. En el caso del personal operativo, acreditar las evaluaciones de control de confianza, las cuales se realizarán en el Centro Único de Evaluación y Control de Confianza del Estado de Puebla del Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública o en la Universidad.
 
 Para acreditar los requisitos establecidos en el presente artículo, se atenderá a lo que establece el Reglamento.
 
 ### CAPÍTULO V. DE LA CAPACITACIÓN Y ADIESTRAMIENTO
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 28.
 
 Los prestadores de servicios estarán obligados a capacitar continuamente a su personal operativo, en los tiempos, formas y plazos establecidos en el Reglamento.
 
-La capacitación y adiestramiento será a través de instituciones públicas autorizadas.
+La capacitación y adiestramiento será a través de la Universidad, Dependencia o Entidad del Gobierno del Estado competente, previo pago de los derechos correspondientes, y acorde a las modalidades en que se autorice el servicio, teniendo como fin que las y los elementos se conduzcan bajo los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos.
 
-Si el prestador de servicios cuenta con un capacitador externo o interno autorizado por el Gobierno del Estado, las constancias que expida dicho capacitador podrán acreditar la capacitación del personal operativo.
+Será requisito indispensable que los prestadores de servicio acrediten mediante constancia expedida por la Dependencia o Entidad competente del Estado, que el personal operativo que desempeñe funciones en la modalidad de traslado de valores o bienes, o en cualquier modalidad que implique el uso de arma de fuego, cuenta con capacitación en adiestramiento para el manejo de armamento, así como con cursos actualizados de tiro con arma corta y larga.
 
-La capacitación que se imparta será acorde a las modalidades en que se autorice el servicio, y tendrá como fin que los elementos se conduzcan bajo los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+Lo anterior, de conformidad con los lineamientos y costos que establezca la Dependencia o Entidad del Estado competente.
 
 ###### ARTÍCULO 29.
 
-La Secretaría de Seguridad Pública podrá concertar acuerdos con los prestadores de servicios para la instrumentación y modificación de capacitación y adiestramiento.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2025)
 
 ## TÍTULO CUARTO. DE LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS DE SEGURIDAD PRIVADA
 
@@ -553,9 +571,9 @@ I. Prestar los servicios de seguridad privada en los términos y condiciones est
 
 II. Dar aviso por escrito de las modificaciones que se realicen del objeto social, de sus estatutos o cualquier cambio de accionistas, socios o asociados, remitiendo copia certificada ante fedatario público, en un término de veinte días naturales a partir de la modificación;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
 
-III. Informar por escrito, en un plazo no mayor de los primeros cinco días hábiles de cada mes, las bajas del personal ocurridas en el mes anterior, o cuando sea requerida esta información por la Secretaría de Seguridad Pública;
+III. Informar, dentro de los primeros cinco días hábiles de cada mes, la plantilla actualizada del personal directivo, administrativo, operativo y técnico con el que cuente. Dicho informe deberá presentarse utilizando los formatos establecidos por la Secretaría de Seguridad Pública, ya sea por escrito o a través de las plataformas o medios electrónicos que la citada Secretaría determine;
 
 IV. Abstenerse de prestar los servicios de seguridad privada sin contar con la revalidación correspondiente;
 
@@ -571,11 +589,13 @@ VII. Utilizar únicamente los vehículos, armamento, radiocomunicación y demás
 
 VIII. Informar sobre el cambio de domicilio fiscal de la matriz, así como el de las sucursales, adjuntando copia certificada ante fedatario público del aviso dado ante la Secretaría de Hacienda y Crédito Público;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
 
-VIII Bis. Someter al personal técnico y operativo a su cargo a procedimientos de evaluación y control de confianza, y privilegiar la permanencia de los elementos que los aprueben de conformidad con la legislación aplicable en la materia;
+VIII Bis. Gestionar periódicamente los exámenes de las y los elementos operativos ante el Centro Único de Evaluación y Control de Confianza del Estado de Puebla del Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública. En caso de que las evaluaciones resulten no aprobatorias, los prestadores de servicios deberán remitir, dentro de los tres días hábiles siguientes a la notificación del resultado, la documentación que acredite la baja de las y los elementos de seguridad privada;
 
-IX. Aplicar anualmente exámenes toxicológicos al personal operativo en las instituciones autorizadas, en los términos que establece esta Ley y el Reglamento;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+IX. Gestionar anualmente exámenes toxicológicos al personal operativo ante las instituciones autorizadas, en los términos que establece esta Ley y el Reglamento;
 
 X. Coadyuvar con las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o en cualquier otro caso, previa solicitud de la autoridad competente;
 
@@ -689,7 +709,9 @@ II. El daño o perjuicio económico que se haya causado a terceros, y
 
 III. La reincidencia en el incumplimiento de obligaciones señaladas en la Ley y el Reglamento.
 
-Se entenderá por reincidencia cuando el prestador de servicios incurra en el incumplimiento a las obligaciones señaladas en la Ley y el Reglamento, por más de una vez en un término de seis meses.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+Se entenderá por reincidencia cuando el prestador de servicios incurra en el incumplimiento a las obligaciones señaladas en la Ley y el Reglamento, por más de una vez en un término de tres meses.
 
 ###### ARTÍCULO 37.
 
@@ -703,9 +725,9 @@ El incumplimiento de los prestadores de servicios a las obligaciones establecida
 
 I. Amonestación pública, con difusión en la página de Internet de la Secretaría de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
 
-II. Multa del equivalente a la cantidad de quinientas hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización;
+II. Multa por el equivalente de quinientas a cinco mil veces el valor diario de la Unidad de Medida y Actualización, la cual impondrá la Secretaría de Seguridad Pública;
 
 III. Suspensión de los efectos de la autorización de un mes hasta doce meses;
 
@@ -723,9 +745,9 @@ La sanción o sanciones impuestas se harán públicas en la página de Internet 
 
 La aplicación de las sanciones establecidas en este artículo, se impondrán con base al procedimiento administrativo que para tal efecto disponga el Reglamento.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2025)</small>
 
-En caso de que el prestador de servicios de seguridad privada no cumpla con las obligaciones dispuestas en la fracción VIII BIS del artículo 30, se le impondrá la amonestación a que hace referencia el presente artículo. De existir reincidencia se hará acreedor a la sanción dispuesta dentro de la fracción II y en caso de doble reincidencia se le impondrá la revocación de la autorización, revalidación o modificación otorgadas, según corresponda.
+En caso de que el prestador de servicios de seguridad privada no cumpla con las obligaciones dispuestas en la fracción VIll BIS del artículo 30, se le impondrá la multa a que hace referencia el presente artículo. De existir reincidencia se le impondrá la revocación de la autorización, revalidación o modificación otorgadas, según corresponda.
 
 ###### ARTÍCULO 39.
 
@@ -942,3 +964,11 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los procedimientos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto deberán substanciarse y resolverse de conformidad a las disposiciones vigentes al momento en que iniciaron tales procedimientos.
+
+P.O. 17 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
