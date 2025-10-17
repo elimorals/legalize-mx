@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-08-13"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -1245,6 +1245,10 @@ Niñas, niños y adolescentes tienen derecho al acceso a información y material
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán la difusión de información y material que tenga por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural, salud física y mental, de conformidad con los lineamientos estatales que al efecto expida el Sistema Estatal de Protección Integral en materia de información y demás materiales para difusión entre niñas, niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+De igual forma las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
+
 ###### ARTÍCULO 74.
 
 La Procuraduría de Protección o cualquier persona por conducto de ésta, podrá promover ante las autoridades competentes la imposición de sanciones a los medios de comunicación, en los términos que establece la Ley Federal de Telecomunicaciones y Radiodifusión.
@@ -1441,9 +1445,17 @@ ARTÍCULO 96 BIS. Las niñas, niños y adolescentes gozan del derecho a las Tecn
 
 ARTÍCULO 96 BIS 1. El Estado garantizará a las niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2025)</small>
 
-ARTÍCULO 96 BIS 2. Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+ARTÍCULO 96 BIS 2. Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables y sin el riesgo de ser víctima de violencia digital.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 96 BIS 3. El Estado garantizará el acceso y uso seguro del internet promoviendo políticas de prevención, protección, atención y sanción del ciberacoso, ciberasedio y de todas las formas de violencia que causen daño a su intimidad, privacidad, seguridad y/o dignidad realizada mediante el uso de tecnologías de la información y la comunicación, sin afectar los derechos previstos en esta Ley.
+
+Asimismo, las autoridades estatales y municipales, dentro de su ámbito de competencia, fomentarán el conocimiento de los riesgos que representa la tecnología, así como su uso responsable, para una adecuada convivencia en plataformas virtuales y/o con contenido informático.
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia, tienen el deber de orientar y supervisar las conductas y hábitos de niñas, niños y adolescentes, que ayuden al uso responsable de los medios digitales para una mayor protección del interés superior de la niñez.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES Y DEBERES
 
@@ -2564,6 +2576,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 20, EL 42, LAS FRACCIONES I, XVIII Y XIX DEL ARTÍCULO 45, EL SEGUNDO PÁRRAFO DEL 62, LA FRACCIÓN VI DEL 98, LA FRACCIÓN VII DEL 104, LAS FRACCIONES X Y XI DEL 113; Y ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 5, LA FRACCIÓN XX AL ARTÍCULO 45 Y LA FRACCIÓN XII AL 113, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
