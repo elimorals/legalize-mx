@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2025-05-12"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2707,6 +2707,14 @@ Además de las penas a que se refiere el artículo 213 de este código, se suspe
 
 Se impondrán las penas a que se refiere el artículo 213 de este código al que soborne, obligue, comprometa o intimide a un testigo, perito o intérprete, para que se conduzca con falsedad en juicio.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 216 Bis.
+
+Se impondrá de seis meses a dos años de prisión y multa de cien a trescientas veces el valor de la Unidad de Medida y Actualización, a quien, con conocimiento de su falsedad, presente querella o denuncia basada en hechos falsos o inexistentes.
+
+La pena se incrementará en una mitad cuando la persona denunciada sea servidora pública o trabajadora de la educación y con motivo de la misma sea suspendida o cesada de su cargo o comisión.
+
 ### CAPÍTULO III. VARIACIÓN DEL NOMBRE, DOMICILIO O NACIONALIDAD
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
@@ -2945,6 +2953,12 @@ Cuando la víctima del delito de homicidio sea menor de doce años o discapacita
 
 Las penas previstas en los artículos 229 párrafos segundo y séptimo, 229 Bis y 231 de este Código se incrementarán en un tercio cuando los delitos de feminicidio u homicidio doloso de alguna mujer se hubiere simulado como suicidio.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 231 Ter.
+
+Cuando se cometa el homicidio de una persona trabajadora de la educación, y el delito se haya consumado en el ejercicio de sus funciones o con motivo de ellas, la pena impuesta se incrementará en un tercio.
+
 ### CAPÍTULO II. LESIONES
 
 ###### Artículo 232.
@@ -3026,6 +3040,12 @@ I. Cuando las lesiones sean provocadas mediante el empleo de ácido o substancia
 II. Cuando la alteración o daño resulte una enfermedad incurable, o
 
 III. La inutilización permanente o la pérdida de cualquier órgano, extremidad o función orgánica, o en su caso cuando la alteración o daño pongan en peligro la vida de la mujer.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 237 Quater.
+
+Cuando las lesiones sean cometidas en contra de persona trabajadora de la educación, en el ejercicio de sus funciones o con motivo de ellas, se incrementará en un tercio la pena impuesta.
 
 ### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
@@ -6136,6 +6156,22 @@ Se derogan todas aquellas disposiciones que se opongan al contenido del presente
 P.O. 12 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO 146.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 289 Y EL ARTÍCULO 293, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente Decreto, deberán concluirse aplicando la legislación penal vigente en el momento de la comisión del delito.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 17 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 170.- SE ADICIONAN LOS ARTÍCULOS 216 BIS, 231 TER Y 237 QUATER, TODOS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
 
 ###### ARTÍCULO PRIMERO.
 
