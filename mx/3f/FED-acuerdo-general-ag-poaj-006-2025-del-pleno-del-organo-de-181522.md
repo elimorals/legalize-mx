@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-ag-poaj-006-2025-del-pleno-del-organo-de-181522
 country: "mx"
 rank: "acuerdo"
 publication_date: "2025-09-08"
-last_updated: "2025-09-08"
+last_updated: "2025-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181522&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-09-05"
 
 ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2025.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 8 de septiembre de 2025.
 
@@ -51,7 +51,9 @@ PRIMERO. Se designa al Magistrado Sergio Javier Molina Martínez como titular de
 
 SEGUNDO. Se designa al Magistrado Benjamín Rubio Chávez, como titular de la Dirección General del Instituto Federal de Defensoría Pública del 2 de septiembre de 2025 al 31 de agosto de 2028, en términos de lo establecido en el artículo 30 de la Ley Federal de Defensoría Pública.
 
-TERCERO. Se designa al Licenciado Raúl Juan Juárez Hernández como titular de la Unidad de Administración de la Suprema Corte de Justicia de la Nación a partir del 2 de septiembre de 2025.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES, D.O.F. 17 DE OCTUBRE DE 2025)</small>
+
+TERCERO. Se designa a la maestra Reyna María Basilio Ortiz como titular de la Unidad de Administración de la Suprema Corte de Justicia de la Nación a partir del 1 de octubre de 2025.
 
 CUARTO. Se designa al Licenciado Hilario Pérez León como titular de la Unidad de Administración del Tribunal Electoral del Poder Judicial de la Federación a partir del 2 de septiembre de 2025.
 
@@ -66,3 +68,13 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en la Gaceta del Se
 Firman al calce el Presidente del Órgano de Administración Judicial y la persona titular de la Secretaría Ejecutiva del Pleno, de conformidad con lo dispuesto en los artículos 91, 99, fracción VIII y 100, párrafo primero de la Ley Orgánica del Poder Judicial de la Federación.
 
 EL MAESTRO CÉSAR MAURICIO LÓPEZ RAMÍREZ, SECRETARIO EJECUTIVO DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL, CERTIFICA: Que este Acuerdo General del Pleno del Órgano de Administración Judicial por el que se designan a las personas titulares de diversos órganos auxiliares, fue aprobado por el Pleno del Órgano, en sesión celebrada el 02 de septiembre de 2025, por unanimidad de votos de las personas integrantes: Maestro Néstor Vargas Solano, Presidente; Licenciada Surit Berenice Romero Domínguez; Doctora Lorena Josefina Pérez Romo; Maestra Catalina Ramírez Hernández y Maestro José Alberto Gallegos Ramírez.- Ciudad de México, a 5 de septiembre de 2025.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación por el Pleno del Órgano de Administración Judicial.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Órgano de Administración Judicial del Poder Judicial de la Federación en internet e intranet.
