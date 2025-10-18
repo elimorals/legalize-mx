@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-archivos-para-el-estado-de-tabasco-143657"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-15"
-last_updated: "2020-07-15"
+last_updated: "2025-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # LEY DE ARCHIVOS PARA EL ESTADO DE TABASCO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1 DE ENERO DE 2021.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE ARCHIVOS PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2025.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el miércoles 15 de julio de 2020.
 
@@ -177,13 +177,13 @@ XL. Plazo de conservación: al periodo de guarda de la documentación en los arc
 
 XLI. Programa anual: al Programa anual de desarrollo archivístico;
 
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XLII. REGISTRO ESTATAL: AL REGISTRO DE ARCHIVOS DEL ESTADO DE TABASCO;
+XLII. (DEROGADA, P.O. 18 DE OCTUBRE DE 2025)
 
 XLIII. Sección: a cada una de las divisiones del fondo documental basada en las atribuciones de cada sujeto obligado, de conformidad con las disposiciones legales aplicables;
 
-XLIV. Secretaría: a la Secretaría de Cultura del estado de Tabasco;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+XLIV. Secretaría: a la Secretaría de Gobierno del estado de Tabasco;
 
 XLV. Serie: a la división de una sección que corresponde al conjunto de documentos producidos en el desarrollo de una misma atribución general integrados en expedientes de acuerdo a un asunto, actividad o trámite específico;
 
@@ -267,9 +267,7 @@ II. Establecer un sistema institucional para la administración de sus archivos 
 
 III. Integrar los documentos en expedientes;
 
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-IV. INSCRIBIR EN EL REGISTRO ESTATAL Y EN EL REGISTRO NACIONAL DE ARCHIVOS LA EXISTENCIA Y UBICACIÓN DE ARCHIVOS BAJO SU RESGUARDO, DE ACUERDO CON LAS DISPOSICIONES QUE SE EMITAN EN LA MATERIA;
+IV. (DEROGADA, P.O. 18 DE OCTUBRE DE 2025)
 
 V. Conformar un grupo interdisciplinario, que coadyuve en la valoración documental;
 
@@ -531,9 +529,11 @@ Los documentos que contengan datos personales sensibles, de acuerdo con la norma
 
 El sujeto obligado deberá asegurar que se cumplan los plazos de conservación establecidos en el catálogo de disposición documental y que los mismos no excedan el tiempo que la normatividad específica que rija las funciones y atribuciones del sujeto obligado disponga, o en su caso, del uso, consulta y utilidad que tenga su información. En ningún caso el plazo podrá exceder de 25 años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 37.
 
-El Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, de acuerdo con la legislación en la materia, determinará el procedimiento para permitir el acceso a la información de un documento con valores históricos, que no haya sido transferido a un archivo histórico y que contenga datos personales sensibles, de manera excepcional en los siguientes casos:
+El Instituto de Transparencia para el Pueblo del Estado de Tabasco, de acuerdo con la legislación en la materia, determinará el procedimiento para permitir el acceso a la información de un documento con valores históricos, que no haya sido transferido a un archivo histórico y que contenga datos personales sensibles, de manera excepcional en los siguientes casos:
 
 I. Se solicite para una investigación o estudio que se considere relevante para el país o para el ámbito regional o local, siempre que el mismo no se pueda realizar sin acceso a la información confidencial y el investigador o la persona que realice el estudio quede obligado por escrito a no divulgar la información obtenida del archivo con datos personales sensibles;
 
@@ -775,9 +775,9 @@ Las instancias del Sistema Estatal observarán lo dispuesto en la Ley General de
 
 El Sistema Estatal se coordinará en un marco de respeto de las atribuciones del Estado y los municipios.
 
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2025)</small>
 
-El Sistema Estatal estará conformado por todos los archivos de los sujetos obligados; MISMOS QUE TIENEN LA OBLIGACIÓN DE PERTENECER AL REGISTRO ESTATAL.
+El Sistema Estatal estará conformado por todos los archivos de los sujetos obligados.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE ARCHIVOS DE TABASCO
 
@@ -787,47 +787,81 @@ El Sistema Estatal estará conformado por todos los archivos de los sujetos obli
 
 El Consejo Local, como órgano de coordinación del Sistema Estatal estará conformado por:
 
-I. El titular del Poder Ejecutivo del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+I. El titular del Archivo General del Estado, quien lo presidirá;
 
 II. El titular de la Secretaría;
 
-III. El titular del Archivo General del Estado, quien desempeñará el cargo de secretario técnico;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
 
-IV. El diputado presidente de la Junta de Coordinación Política del Congreso del Estado;
+III. El Diputado Presidente de la Junta de Coordinación Política del Congreso del Estado;
 
-V. El magistrado presidente del Tribunal Superior de Justicia del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
 
-VI. El comisionado presidente del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública;
+IV. El Magistrado Presidente del Tribunal Superior de Justicia del Poder Judicial del Estado;
 
-VII. El titular de la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
 
-VIII. El titular de la Secretaría de la Función Pública;
+V. El titular de la Secretaría de Cultura;
 
-IX. El titular de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
 
-X. El titular de la Secretaría de Administración e Innovación Gubernamental;
+VI. El titular de la Secretaría Anticorrupción y Buen Gobierno;
 
-XI. El titular de la Coordinación General de Asuntos Jurídicos del Estado;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
 
-XII. El titular del Órgano Superior de Fiscalización del Estado de Tabasco;
+VII. El titular de la Secretaría de Administración y Finanzas;
 
-XIII. El presidente de cada uno de los diecisiete municipios; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
 
-XIV. El rector de la Universidad Juárez Autónoma de Tabasco.
+VIII. El titular de la Consejería Jurídica del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+IX. El titular del Órgano Superior de Fiscalización del Estado de Tabasco;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+X. El Presidente de cada uno de los diecisiete municipios; y
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+XI. El Rector de la Universidad Juárez Autónoma de Tabasco.
+
+XII. (DEROGADA, P.O. 18 DE OCTUBRE DE 2025)
+
+XIII. (DEROGADA, P.O. 18 DE OCTUBRE DE 2025)
+
+XIV. (DEROGADA, P.O. 18 DE OCTUBRE DE 2025)
 
 El presidente por sí o a propuesta de alguno de los integrantes del Consejo Local, podrá invitar a sus sesiones a las personas que considere pertinentes, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
 
-Las ausencias del presidente serán suplidas por el titular de la Secretaría. Los consejeros, en sus ausencias, podrán nombrar un suplente, actuando con voz y voto.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+Serán invitados permanentes del Consejo Local con voz, pero sin voto, los órganos a los que la Constitución estatal reconoce autonomía, quienes designarán un representante, en términos de su normatividad interna.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+Los consejeros, en sus ausencias, podrán nombrar un suplente, actuando con voz y voto, quienes deberán contar con una jerarquía inmediata inferior a la del consejero titular.
 
 Los miembros del Consejo Local no recibirán remuneración alguna por participar en el mismo.
 
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 64.
 
-El Consejo Local adoptará, con carácter obligatorio, las determinaciones del Consejo Nacional, dentro de los plazos que este establezca.
+El Consejo Local realizará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se realizarán al menos dos veces al año, en la sede del Archivo General del Estado o en algún otro recinto que acuerden los miembros; para ello, serán convocados por el Presidente, a través del Secretario Técnico.
 
-El Consejo Local, con base en las determinaciones que emita el Consejo Nacional, publicará en el Periódico Oficial del Estado de Tabasco, las disposiciones que sean necesarias para dar cumplimiento a lo previsto en la Ley General, en esta ley y demás normativa que resulte aplicable.
+Las convocatorias a las sesiones ordinarias se efectuarán con quince días hábiles de anticipación, a través de los medios que resulten idóneos, incluyendo los electrónicos; y contendrán, cuando menos, el lugar, fecha y hora de la celebración de la sesión, el orden del día y, en su caso, los documentos que serán analizados.
+
+En primera convocatoria, habrá quórum para que sesione el Consejo Local cuando estén presentes, cuando menos, la mayoría de sus miembros incluyendo a su Presidente o a la persona que éste designe como su suplente.
+
+En segunda convocatoria, habrá quórum para que sesione el Consejo Local, con los miembros que se encuentren presentes, así como su Presidente o la persona que éste designe como su suplente. El Consejo Local tomará acuerdos por mayoría simple de votos de sus miembros presentes en la sesión. En caso de empate, el Presidente tendrá el voto de calidad.
+
+En los proyectos normativos, los miembros del Consejo Local deberán asentar en el acta correspondiente las razones del sentido de su voto, en caso de que sea en contra. Las sesiones extraordinarias del Consejo Local podrán convocarse en un plazo mínimo de veinticuatro horas por el Presidente, a través del Secretario Técnico o mediante solicitud que a éste formule por lo menos el treinta por ciento de los miembros, cuando estimen que existe un asunto relevante para ello. Las sesiones del Consejo Local deberán constar en actas suscritas por los miembros que participaron en ellas. Dichas actas serán publicadas a través de internet, en cumplimiento a las Obligaciones de Transparencia descritas en la ley de la materia. El Secretario Técnico es responsable de la elaboración de las actas, la obtención de las firmas correspondientes, así como su custodia y publicación.
+
+El Consejo Local contará con un Secretario Técnico que será nombrado y removido por el Presidente del Consejo.
 
 (NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -855,17 +889,47 @@ IX. Fomentar la generación, uso y distribución de datos en formatos abiertos; 
 
 X. Las demás establecidas en esta ley y otras disposiciones jurídicas aplicables.
 
-El Consejo Local realizará sesiones al menos dos veces al año, en la sede del Archivo General del Estado o en algún otro recinto que acuerden los miembros; para ello, serán convocados por el presidente, siendo asistido por el secretario técnico.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE OCTUBRE DE 2025)</small>
 
-Para que las reuniones se lleven a cabo deberá estar presente la mayoría de los integrantes del Consejo Local, incluido el presidente o el secretario técnico. Las sesiones y sus acuerdos quedarán registradas en actas, mismas que serán firmadas por los asistentes a la misma y se harán de conocimiento público.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 65 Bis.
+
+El Presidente tiene las atribuciones siguientes:
+
+I. Participar en sistemas nacionales, comisiones intersecretariales, secretarías técnicas, entre otros, que coadyuven al cumplimiento de los acuerdos, lineamientos, directrices y demás disposiciones que emita el Consejo Local;
+
+II. Coadyuvar en la celebración de convenios de coordinación, colaboración y concertación para el cumplimiento de los fines del Sistema Nacional y demás instrumentos jurídicos que se deriven de los mismos;
+
+III. Intercambiar con otros Estados, conocimientos, experiencias y cooperación técnica y científica para fortalecer a los archivos;
+
+IV. Participar en cumbres, foros, conferencias, paneles, eventos y demás reuniones de carácter nacional e internacional, que coadyuven al cumplimiento de esta Ley, así como de los acuerdos, recomendaciones y determinaciones emitidos por el Consejo Local;
+
+V. Fungir como órgano de consulta de los sujetos estatales obligados;
+
+VI. Publicar en su portal electrónico las determinaciones y resoluciones generales del Consejo Local; y
+
+VII. Las demás que le otorga esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 65 Ter.
+
+El Consejo Local, para el cumplimiento de sus atribuciones, podrá crear comisiones de carácter permanente o temporal, que se organizarán de conformidad con lo dispuesto en las disposiciones jurídicas que al efecto emita.
+
+Dichas comisiones podrán contar con la asesoría de expertos y usuarios de los archivos históricos, así como miembros de las organizaciones de la sociedad civil.
+
+Los miembros de las comisiones no recibirán emolumento, ni remuneración alguna por su participación en las mismas.
 
 ### CAPÍTULO III. DEL ARCHIVO GENERAL DEL ESTADO DE TABASCO
 
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 66.
 
-El Archivo General del Estado de Tabasco es una unidad administrativa dependiente de la Secretaría, quien será la encargada de realizar las gestiones necesarias para el cumplimiento de sus atribuciones, objeto y fines. Su domicilio legal es en la ciudad de Villahermosa.
+El Archivo General del Estado de Tabasco es un organismo descentralizado no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines. Su domicilio legal es en la ciudad de Villahermosa, Tabasco.
 
 (NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -929,17 +993,75 @@ XXI. Organizar y participar en eventos estatales y nacionales en la materia; y
 
 XXII. Las demás establecidas en esta ley y en otras disposiciones jurídicas aplicables.
 
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 70.
 
-El Archivo General del Estado podrá contar con un Consejo Técnico, que lo asesorará en las materias afines al quehacer archivístico, cuya integración se determinará en el reglamento de esta ley.
+Para el cumplimiento de su objeto, el Archivo General del Estado contará con los siguientes órganos:
 
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+I. Órgano de Gobierno;
+
+II. Dirección General;
+
+III. Órgano Interno de Control;
+
+IV. Consejo Técnico; y
+
+V. Las estructuras administrativas y órganos técnicos establecidos en su Estatuto Orgánico.
+
+El Consejo Técnico operará conforme a los lineamientos emitidos por el Órgano de Gobierno para tal efecto.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 70 Bis.
+
+El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General del Estado, que tendrá las siguientes atribuciones:
+
+I. Evaluar la operación administrativa, así como el cumplimiento de los objetivos y metas del Archivo General del Estado;
+
+II. Emitir los lineamientos para el funcionamiento del Consejo Técnico; y
+
+III. Las demás previstas en otras disposiciones jurídicas aplicables.
+
+El Órgano de Gobierno estará integrado por un miembro de las siguientes instancias:
+
+I. La Secretaría de Gobierno, quien lo presidirá;
+
+II. La Secretaría de Administración y Finanzas;
+
+III. La Secretaría de Educación;
+
+IV. La Secretaría Anticorrupción y Buen Gobierno; y
+
+V. El Consejo de Ciencia y Tecnología del Estado de Tabasco.
+
+Las personas integrantes del Órgano de Gobierno, previstos en las fracciones I, II, III y IV, deberán tener, por lo menos, nivel de Subsecretario o su equivalente. En el caso a que se refiere la fracción V, lo será la persona que ostente el cargo de Director General del Consejo. Por cada miembro propietario habrá un suplente, el cual deberá tener, en su caso la jerarquía inmediata inferior a la del titular.
+
+El Presidente o a propuesta de alguno de los integrantes del Órgano de Gobierno, podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz pero sin voto.
+
+Los integrantes del Órgano de Gobierno no obtendrán remuneración, compensación o emolumento por su participación.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 71.
 
-El titular del Archivo General del Estado será nombrado por el titular del Poder Ejecutivo del Estado, a propuesta del titular de la Secretaría; quién deberá contar preferentemente con estudios de posgrado en Ciencias Sociales y Humanidades o alguna área afín a la administración de archivos y gestión documental.
+El titular del Archivo General del Estado será nombrado por el titular del Poder Ejecutivo del Estado, a propuesta del titular de la Secretaría y deberá cubrir los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento;
+
+II. Poseer, al día de la designación, preferentemente con estudios de posgrado en Ciencias Sociales y Humanidades o alguna área afín a la administración de archivos y gestión documental, o bien, contar con experiencia mínima de cinco años en materia archivística;
+
+III. Tener cuando menos treinta años de edad al día de la designación;
+
+IV. No haber sido condenado por la comisión de algún delito doloso;
+
+V. No ser cónyuge, ni tener relación de parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Órgano de Gobierno;
+
+VI. No haber sido titular de alguna dependencia o entidad del Poder Ejecutivo Estatal, Fiscal General del Estado, Senador, Diputado Federal o Local, dirigente de un partido o agrupación política, Gobernador de algún estado o Jefe de Gobierno de la Ciudad de México, durante el año previo al día de su nombramiento; y
+
+VII. No encontrarse suspendido de sus derechos en términos del artículo 8 fracción III de la Constitución local.
+
+Durante su gestión, el titular del Archivo General del Estado no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General del Estado.
 
 (NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -947,15 +1069,45 @@ El titular del Archivo General del Estado será nombrado por el titular del Pode
 
 El titular del Archivo General del Estado, además de lo previsto en las disposiciones reglamentarias correspondientes, tendrá las siguientes facultades:
 
-I. Fungir como secretario técnico del Consejo Local;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2025)</small>
 
-II. Supervisar que la actividad del Archivo General del Estado cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
+I. Supervisar que la actividad del Archivo General del Estado cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
 
-III. Proponer las medidas necesarias para el funcionamiento del Archivo General del Estado;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
 
-IV. Suscribir, previo acuerdo con el titular de la Secretaría, convenios en materia archivística, en coordinación con las autoridades competentes; y
+II. Proponer al Órgano de Gobierno las medidas necesarias para el funcionamiento del Archivo General del Estado;
 
-V. Las demás previstas en esta ley, el Reglamento Interior de la Secretaría de Cultura, las que le encomiende el titular de la Secretaría, así como las establecidas en otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+III. Proponer al Órgano de Gobierno el proyecto de Estatuto Orgánico;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+IV. Nombrar y remover a los servidores públicos del Archivo General del Estado, cuyo nombramiento no corresponda al Órgano de Gobierno;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+V. Suscribir, convenios en materia archivística, en coordinación con las autoridades competentes; y
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+VI. Las demás previstas en esta Ley y en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 72 Bis.
+
+El Archivo General del Estado contará con un Órgano Interno de Control, nombrado de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, y ejercerá las facultades previstas en la Ley General de Responsabilidades Administrativas y las demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 72 Ter.
+
+El Archivo General del Estado contará con un Consejo Técnico que lo asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
+
+El Consejo Técnico estará formado por nueve integrantes designados por el Consejo Local a convocatoria pública del Archivo General del Estado entre representantes de instituciones de docencia, investigación o preservación de archivos, académicos y expertos destacados. Operará conforme a los lineamientos aprobados por el Consejo Local.
+
+Los integrantes del Consejo Técnico no obtendrán remuneración, compensación o emolumento por su participación.
 
 ### CAPÍTULO IV. DE LOS ARCHIVOS PRIVADOS
 
@@ -975,33 +1127,25 @@ En caso que el Archivo General del Estado lo considere necesario por la importan
 
 Los sujetos obligados que tengan conocimiento de la enajenación por venta de un acervo o archivos privados de interés público, propiedad de un particular y en general cuando se trate de documentos acordes con lo previsto en el artículo 36 de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberán establecer mecanismos de coordinación tendientes a mantener informado al Archivo General sobre tal situación.
 
-### CAPÍTULO V. DEL REGISTRO ESTATAL DE ARCHIVOS
+> <small>(DEROGADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2025)</small>
 
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO V. DEL REGISTRO ESTATAL DE ARCHIVOS
 
 ###### Artículo 77.
 
-El Sistema Estatal contará con el Registro Estatal, cuyo objeto es obtener y concentrar información sobre los sistemas institucionales y de los archivos privados de interés público, así como difundir el patrimonio documental resguardado en sus archivos, el cual será administrado por el Archivo General del Estado.
-
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2025)
 
 ###### Artículo 78.
 
-La inscripción al Registro Estatal es obligatoria para los sujetos obligados quienes deberán actualizar anualmente la información requerida en dicho Registro, de conformidad con las disposiciones que para tal efecto emita el Consejo Local y, en su caso, el Consejo Nacional, en términos de lo dispuesto por la normativa aplicable.
-
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2025)
 
 ###### Artículo 79.
 
-El Registro Estatal será administrado por el Archivo General del Estado, su organización y funcionamiento será conforme las disposiciones que emita el propio Consejo Local.
-
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2025)
 
 ###### Artículo 80.
 
-Para la operación del Registro Estatal, el Archivo General del Estado pondrá a disposición de los sujetos obligados y de los particulares, propietarios o poseedores de archivos privados de interés público, una aplicación informática que les permita registrar y mantener actualizada la información, la cual deberá prever la interoperabilidad con el Registro Nacional y considerar las disposiciones que para tal efecto emita el Consejo Nacional.
-
-La información del Registro Estatal será de acceso público y de consulta gratuita, disponible a través del portal electrónico del Archivo General del Estado.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2025)
 
 ### CAPÍTULO VI. DEL FONDO DE APOYO ECONÓMICO
 
@@ -1063,11 +1207,9 @@ Las autoridades estatales y municipales del Estado, deberán coordinarse con el 
 
 Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado, podrán custodiarlos, siempre y cuando apliquen las medidas técnicas, administrativas, ambientales o tecnológicas para la conservación y divulgación de los archivos, conforme los criterios que emita el Archivo General del Estado, el Consejo Local y, en su caso, el Archivo General y el Consejo Nacional, en términos de la Ley General, esta ley y la demás normativa aplicable.
 
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 92.
 
-Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado y que lleguen a formar parte del patrimonio documental de la Nación, podrán restaurarlos, previa autorización y bajo la supervisión del Archivo General, el Archivo General del Estado y, en su caso del Consejo Local, en términos de la normativa aplicable.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2025)
 
 ###### Artículo 93.
 
@@ -1153,13 +1295,19 @@ En caso de reincidencia, las multas podrán duplicarse, dependiendo de la graved
 
 Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza.
 
-(NOTA: EL 2 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 232/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+Se considera grave el incumplimiento a las fracciones I, II, III, IV y V del artículo 99 de esta Ley; asimismo las infracciones serán graves si los documentos contienen información relacionada con graves violaciones a derechos humanos.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2025)</small>
+
+Las restantes infracciones se consideran no graves.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 102.
 
-Las sanciones administrativas señaladas en esta ley son aplicables sin perjuicio de la responsabilidad civil o penal de quienes incurran en ellas.
-
-En caso de que existan hechos que pudieran ser constitutivos de algún delito, las autoridades estarán obligadas a realizar la denuncia correspondiente ante la Fiscalía General del Estado, coadyuvando en la investigación y aportando todos los elementos probatorios con los que cuente.
+Las sanciones administrativas señaladas en esta ley son aplicables sin perjuicio de la responsabilidad civil o penal de quienes incurran en ellas. En caso de que existan hechos que pudieran ser constitutivos de algún delito, las autoridades estarán obligadas a realizar la denuncia correspondiente ante la Fiscalía General del Estado, coadyuvando en la investigación y aportando todos los elementos probatorios con los que cuente.
 
 ### CAPÍTULO II. DE LOS DELITOS CONTRA LOS ARCHIVOS
 
@@ -1230,3 +1378,25 @@ SECRETARIO DE GOBIERNO
 GUILLERMO ARTURO DEL RIVERO LEÓN
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+P.O. 18 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 149 POR EL QUE "SE REFORMAN: LA FRACCIÓN XLIV DEL ARTÍCULO 4; EL PRIMER PÁRRAFO DEL ARTÍCULO 37, EL ARTÍCULO 62 ÚLTIMO PÁRRAFO; LAS FRACCIONES I, III, IV, V, VI, VII, VIII, IX, X Y XI Y ÉL PÁRRAFO TERCERO DEL ARTÍCULO 63, 64, DEL CAPÍTULO II DENOMINADO "DEL CONSEJO ESTATAL DE ARCHIVOS DE TABASCO", CONTENIDO EN EL TÍTULO IV "DEL SISTEMA ESTATAL DE ARCHIVOS"; 66, 70, 71 Y 72 DEL CAPÍTULO III DENOMINADO "DEL ARCHIVO GENERAL DEL ESTADO DE TABASCO", CONTENIDO EN EL TÍTULO IV "DEL SISTEMA ESTATAL DE ARCHIVOS"; Y 102 CONTENIDOS EN EL CAPÍTULO I DENOMINADO "DE LAS INFRACCIONES ADMINISTRATIVAS" DEL TÍTULO VI, "DE LAS INFRACCIONES ADMINISTRATIVAS Y DELITOS EN MATERIA DE ARCHIVOS"; SE ADICIONAN: UN TERCER PÁRRAFO AL ARTÍCULO 63 RECORRIÉNDOSE LOS SUBSECUENTES, LOS ARTÍCULOS 65 BIS, 65 TER, 70 BIS, 72 BIS Y 72 TER; LOS PÁRRAFOS QUINTO Y SEXTO DEL ARTÍCULO 101 , Y SE DEROGAN: LA FRACCIÓN XLII DEL ARTÍCULO 4, LA FRACCIÓN IV DEL ARTÍCULO II, LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 63 Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 65; EL CAPÍTULO V DENOMINADO "DEL REGISTRO ESTATAL DE ARCHIVOS", CONTENIDO EN EL TÍTULO IV "DEL SISTEMA ESTATAL DE ARCHIVOS"; LOS ARTÍCULOS 77, 78, 79, 80 Y 92, TODOS DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el primero de enero de dos mil veintiséis, previa publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular del Poder Ejecutivo del Estado de Tabasco, deberá emitir las disposiciones reglamentarias, así como adoptar las medidas administrativas a efectos de que el Archivo General del Estado de Tabasco, ejerza plenamente sus atribuciones en su nueva concepción de organismo descentralizado que se le otorga en el presente Decreto, tomando en consideración lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado, así como las disposiciones aplicables del Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente.
+
+El Consejo Local deberá integrarse y sesionar en su nueva conformación en un plazo no mayor de 30 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Infórmese por conducto de la Dirección de Asuntos Jurídicos de este Congreso del Estado, al Pleno de la Suprema Corte de Justicia de la Nación, el cumplimiento a la sentencia dictada en la Acción de inconstitucionalidad 232/2020.
