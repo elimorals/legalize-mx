@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2025-07-28"
+last_updated: "2025-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -663,25 +663,35 @@ El destino de los bienes decomisados atenderá a lo establecido por el Artículo
 
 ### CAPÍTULO VI. Reparación de Daños y Perjuicios
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 56 BIS.- Toda persona víctima u ofendida por un delito tiene derecho a la reparación del daño, la cual se hará efectiva en los términos de las disposiciones de este Capítulo, de la Ley General de Víctimas y la Ley de Víctimas del Estado de Aguascalientes.
+
+> <small>(REFORMADO , P.O. 20 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 57.
 
-Reparación de daño y perjuicios. La Reparación de Daños y Perjuicios consiste en:
+Reparación de daño y perjuicios. La reparación del daño debe ser oportuna, plena, integral, diferenciada, transformadora, adecuada, eficaz, efectiva y proporcional a la gravedad del daño causado y a la afectación del desarrollo integral de la víctima u ofendido y, según la naturaleza del delito de que se trate, comprenderá:
 
-I. La realización o abstención de determinada conducta por parte del responsable para restablecer las cosas al estado en que se encontraban antes de la comisión del hecho punible, en la medida de lo jurídicamente posible;
+I.-·El restablecimiento de las cosas en el estado en que se encontraban antes de cometer el delito o la restitución, en cuanto fuere posible, del bien obtenido por el delito en el estado que tenía antes de que se cometiera y sus frutos o accesiones, sí (sic) como el pago, en su caso, de deterioros y menoscabos sufridos o de la depreciación que en su valor comercial, físicos o funcional hubiere sufrido, o si no fuere posible, el pago del precio comercial de los mismos al momento en que se haga efectiva;
 
-II. La restitución de la cosa obtenida por el hecho delictivo, o si no fuere posible, el pago del precio de la misma;
+Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fuese materia de delito sin necesidad de recurrir a prueba pericial;
 
-III. La indemnización por el daño material, incluyendo el pago de los tratamientos curativos que, como consecuencia del hecho delictivo, sean necesarios para la recuperación de la víctima, así como de los perjuicios que se le causen o a quienes dependen económicamente de él u ofendidos;
+II.- La indemnización del daño físico, material, psicológico y moral causado. Incluirá, por lo menos, los costos de tratamiento médico, medicina, exámenes clínicos e intervenciones necesarias, rehabilitación física, prótesis o aparatos ortopédicos, asimismo la terapia o tratamiento psicoterapéutico, psiquiátrico, psicológico y rehabilitación social y ocupacional hasta la rehabilitación total de la víctima o del ofendido;
 
-La indemnización por el daño moral, entendiéndose por éste la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de sí misma tienen los demás, y su monto será de uno a tres tantos del importe fijado para el pago de daño material, y cuando éste no se hubiese cuantificado o no pudiera cuantificarse, el tribunal fijará la indemnización correspondiente, de acuerdo con las circunstancias del caso, la cual será de tres a seis tantos de la multa impuesta al sentenciado por el delito de que se trate; y
+La indemnización por el daño moral, entendiéndose por éste la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de sí misma tienen los demás, y su monto será de uno a tres tantos del importe fijado para el pago de daño material, y cuando éste no se hubiese cuantificado o no pudiera cuantificarse, el tribunal fijará la indemnización correspondiente, de acuerdo con las circunstancias del caso, la cual será de tres a seis tantos de la multa impuesta al sentenciado por el delito de que se trate;
 
-IV. Tratándose de las figuras típicas que puedan concretizar los servidores públicos, la reparación de daños y perjuicios abarcará la restitución de la cosa o de su valor, y, además, hasta dos tantos el valor de la cosa o de los bienes obtenidos por el hecho delictivo específico.
+III.- El resarcimiento de los perjuicios ocasionados;
 
-Para cuantificar la obligación de reparar el daño, se tomará en cuenta el monto de cualquier erogación efectuada o futura que se acredite, con el fin de que se restablezcan las cosas al estado en que se encontraban antes de la comisión del hecho punible, en los casos en que esto sea factible.
+IV.- Tratándose de las figuras típicas que puedan concretizar los servidores públicos, la reparación de daños y perjuicios abarcará la restitución de la cosa o de su valor, y, además, hasta dos tantos el valor de la cosa o de los bienes obtenidos por el hecho delictivo específico; y
 
-###### ARTÍCULO 58.
+V.- El pago de los alimentos caídos en términos del Código Civil del Estado de Aguascalientes, en relación con el artículo 131 del presente Código.
 
-Reparación del daño en homicidio y lesiones. En los casos de las figuras típicas de homicidio y lesiones, dolosas o culposas, y a falta de pruebas específicas para cuantificar el daño material, los jueces tomarán como base un tanto de la tabulación de indemnización que fija la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido, y si éste no percibía salario o utilidad, o no pudiere determinarse, el monto de la indemnización se fijará tomando como base el salario mínimo general que rija en el Estado en el momento de la producción del resultado.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+###### ARTICULO 58.
+
+Reparación del daño en delitos que afecten la vida e integridad corporal. En los casos de las figuras típicas que afecten la vida e integridad corporal, dolosas o culposas, y a falta de pruebas específicas para cuantificar el daño material, los jueces tomarán como base un tanto de la tabulación de indemnización que fija la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido, y si éste no percibía salario o utilidad, o no pudiere determinarse el monto de la indemnización se fijará tomando como base el valor diario de la Unidad de Medida y Actualización que rija en el momento de la producción del resultado.
 
 ###### ARTÍCULO 59.
 
@@ -689,9 +699,25 @@ Derecho a la reparación del daño. Tienen derecho a la reparación de los daño
 
 I. La víctima del hecho delictivo;
 
-II. Los ofendidos, teniendo tal carácter las personas que acrediten plenamente la relación familiar o la dependencia económica que tengan o hayan tenido con la víctima; y
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE OCTUBRE DE 2025)</small>
 
-III. Las personas físicas o entidades privadas o públicas que acrediten haber realizado erogaciones a favor de víctima u ofendido, con motivo de los hechos punibles materia del procedimiento.
+II. En caso de fallecimiento de la víctima, los ofendidos, en el siguiente orden de prelación:
+
+a. El o la cónyuge, la concubina o el concubinario;
+
+b. Los descendientes y/o ascendientes en primer grado que dependan económicamente de la víctima;
+
+c. Quien se hubiese encargado en los últimos tres años del cuidado de la víctima, si ésta fuere persona menor de edad, mayor de setenta años, persona con discapacidad o enfermo terminal;
+
+Para los efectos de la fracción anterior, se entenderá por enfermo terminal a la persona que, por razón de una enfermedad avanzada, progresiva e incurable, presente, un pronóstico de vida limitado.
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+III. Las personas físicas o entidades privadas o públicas que acrediten haber realizado erogaciones a favor de víctima u ofendido, con motivo de los hechos punibles materia del procedimiento; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+IV.-El Estado, cuando se trate de delitos cometidos en su contra.
 
 ###### ARTÍCULO 60.
 
@@ -703,21 +729,31 @@ II. Los tutores y los custodios, por los hechos delictivos o punibles de los ini
 
 III. Los directores de internados o talleres, que reciban en su establecimiento discípulos o aprendices menores de dieciséis años, por los hechos punibles que ejecuten éstos durante el tiempo que se hallen bajo el cuidado de aquellos;
 
-IV. Los dueños, empresas o encargados de negociaciones o establecimientos mercantiles de cualquier especie, por los hechos delictivos o punibles que cometan sus obreros, jornaleros, empleados, domésticos y artesanos, con motivo y en el desempeño de sus servicios;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+IV. Los dueños de negociaciones, las empresas o establecimientos civiles o mercantiles de cualquier clase, por los hechos delictivos o punibles que cometan sus aprendices, obreros, jornaleros, empleados o artesanos, con motivo o en el desempeño de su trabajo;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2025)</small>
 
 V. Las sociedades o agrupaciones, por los hechos delictivos de sus socios o gerentes directores, en los mismos términos en que, conforme a las leyes aplicables, sean responsables por las demás obligaciones que los segundos contraigan.
 
 Se exceptúa de esta regla la sociedad conyugal, pues en todo caso, cada cónyuge responde con sus bienes propios por la reparación de los daños y perjuicios que cause; y el Estado y los Municipios, por los hechos delictivos que cometan los servidores públicos con motivo o en el desempeño de sus funciones.
 
-Los propietarios de vehículos serán solidariamente responsables con el responsable del hecho delictivo o punible, por los daños y perjuicios que causen con su utilización, si éstos se realizan bajo su dirección o dependencia.
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+VI. Los propietarios de mecanismos, instrumentos, aparatos, vehículos o sustancias peligrosas, con inclusión de los de cualquier vehículo automotor, por los delitos que, con motivo de su uso, cometan culposamente las personas que los manejen o tengan a su cargo, siempre y cuando el uso lo confieran voluntariamente. Exceptuándose los casos de contratos de compraventa en abonos o con reserva de dominio.
 
 En el caso de los supuestos establecidos en las Fracciones I a III del presente Artículo, se requerirá del pago de la reparación de los daños y perjuicios a los terceros obligados, al existir importe y nombre de los beneficiarios en el procedimiento penal correspondiente, en los términos establecidos para el efecto en el Código de Procedimientos Civiles y demás leyes aplicables.
 
-En el caso de los supuestos establecidos en las fracciones IV a V del presente Artículo, se requerirá del pago de la reparación de los daños y perjuicios a los terceros obligados, al existir importe y nombre de los beneficiarios en el procedimiento penal correspondiente, por la autoridad judicial, y será en los términos establecidos en el Código de Procedimientos Civiles y demás leyes aplicables, pero sólo en los casos en que se acredite que el directamente obligado no cuenta con los recursos suficientes para cubrir su pago.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2025)</small>
 
-###### ARTÍCULO 61.
+En el caso de los supuestos establecidos en las fracciones IV a VI del presente Artículo, se requerirá del pago de la reparación de los daños y perjuicios a los terceros obligados, al existir importe y nombre de los beneficiarios en el procedimiento penal correspondiente, por la autoridad judicial, y será en los términos establecidos en el Código de Procedimientos Civiles y demás leyes aplicables, pero sólo en los casos en que se acredite que el directamente obligado no cuenta con los recursos suficientes para cubrir su pago.
 
-Preferencia de pago de la reparación del daño. La obligación de pagar la reparación de los daños y perjuicios es preferente con respecto a cualesquiera otras contratadas con posterioridad al hecho delictivo, a excepción de las referentes a alimentos y relaciones laborales.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+###### ARTICULO 61.
+
+Preferencia de pago de la reparación del daño. La obligación de pagar la reparación de los daños y perjuicios es preferente con respecto a cualesquiera otras contraídas con posterioridad a la comisión del delito, a excepción de las referentes al pago de alimentos y salarios.
 
 ###### ARTÍCULO 62.
 
@@ -731,9 +767,21 @@ Pago solidario y mancomunado de la reparación del daño. Cuando sean varios los
 
 Cumplimiento diferido de la reparación del daño. La autoridad judicial, teniendo en cuenta el monto que haya sido establecido por concepto de pago de daños y perjuicios y la situación económica del responsable, podrá fijar los plazos para cubrir su importe, los que en conjunto no excederán de un año, debiendo para ello exigir garantías suficientes. Si se establecen tales pagos diferidos, se fijaran los intereses legales correspondientes, tanto de carácter ordinario como moratorios.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 64 BIS.- Si no se logra hacer efectivo todo el importe de la reparación del daño, lo que se obtenga se distribuirá proporcionalmente entre quienes tienen derecho a ella, atendiendo a las cuantías señaladas en la sentencia ejecutoria, sin perjuicio de que si posteriormente el obligado adquiere bienes suficientes se cubra lo insoluto.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 64 TER.- La multa y la reparación del daño en favor del Estado, se harán efectivas en los términos de las disposiciones fiscales correspondientes y su importe se aplicará en los términos de la ley.
+
 ###### ARTÍCULO 65.
 
 Ejecución de la reparación del daño. Si el responsable se niega a pagar voluntariamente el monto de la reparación de los daños y perjuicios, se estará a lo dispuesto en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 65 BIS.- Cuando la reparación del daño se cubra con cargo al Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Aguascalientes; esta situación no aprovechará a la persona sentenciada, salvo que esta reintegre el monto de la reparación del daño cubierto a favor de la víctima u ofendido a dicho Fondo.
 
 ### CAPÍTULO VII. Suspensión, Privación e Inhabilitación de Derechos
 
@@ -2947,11 +2995,11 @@ La imposición de la pena prevista en este artículo no excluirá la aplicación
 
 El presente delito se perseguirá por noticia criminal, sin necesidad de querella o denuncia previa.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2025)</small>
 
-ARTÍCULO 178 F.- Difusión de mensajes de grupos criminales. Comete el delito de difusión de mensajes de grupos criminales quien, por sí o por interpósita persona, elabore, coloque, difunda o exhiba en espacios públicos o privados visibles al público, mensajes, mantas, cartulinas, pancartas o cualquier otro medio de comunicación en el que se promueva, amenace o se atribuyan hechos delictivos en nombre de grupos delictivos organizados, con la finalidad de generar intimidación, alterar la paz pública o influir en decisiones de autoridades o particulares.
+ARTÍCULO 178 F.- Colocación de mensajes intimidatorios. Comete el delito de colocación de mensajes intimidatorios quien, por sí o por interpósita persona, elabore, coloque o exhiba en espacios públicos o privados visibles al público, mensajes en cualquier medio físico, tales como, mantas, cartulinas, pancartas, lonas, en el que se amenace, intimide, justifique, atribuya o promueva hechos con apariencia de delito, que pretendan generar intimidación, alterar la paz pública o influir en decisiones de autoridades o particulares.
 
-A quien cometa el delito de difusión de mensajes de grupos criminales se le impondrá una pena de 1 a 4 años de prisión y de 500 a 1,500 días multa.
+A quien cometa el delito de colocación de mensajes intimidatorios se le impondrá una pena de 1 a 4 años de prisión y de 500 a 1,500 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -4526,3 +4574,23 @@ P.O. 28 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 260.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 264.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo preceptuado por el presente Decreto.
