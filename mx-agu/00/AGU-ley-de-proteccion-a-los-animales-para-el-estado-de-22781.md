@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2024-07-22"
+last_updated: "2025-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -1059,13 +1059,21 @@ VIII.- El uso de animales en la celebración de ritos y usos tradicionales que p
 
 IX.- El ofrecimiento de cualquier clase de alimento u objetos a los animales en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarles daño físico, enfermedad o muerte;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2025)</small>
 
-X.- Realizar mutilaciones con fines estéticos o de practicidad a las que se refiere la Fracción XXXI del Artículo 3° de la presente Ley; y
+X. Realizar mutilaciones con fines estéticos o de practicidad a las que se refiere la Fracción XXXI del Artículo 3° de la presente Ley;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2025)</small>
 
-XI.- Utilizar de manera intencional pirotecnia con la intención de provocar la muerte, la mutilación o cualquier tipo de daño a un animal.
+XI. Utilizar de manera intencional pirotecnia con la intención de provocar la muerte, la mutilación o cualquier tipo de daño a un animal; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+XII. Destruir los nidos, refugios y madrigueras, excepto cuando se realice como un método de control natal de la especie cuando la misma se torne perjudicial.
+
+[N. DE E. PERTENECE A LA FRACCIÓN XII], P.O. 20 DE OCTUBRE DE 2025)
+
+En el caso de menores de edad, serán responsables de las acciones que éstos cometan, sus padres o tutores o quienes ejerzan la patria potestad sobre ellos.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -1091,11 +1099,9 @@ III. Las otectomías que se realicen hasta los cuatro meses de edad del animal; 
 
 IV. Las caudectomías que se realicen dentro de los primeros diez días de vida del animal, cuando éstos sean destinados para guarda y protección en instituciones de seguridad pública, o cuando se realicen en caninos, para cumplir la normatividad relativa a un ejemplar de exposición, presentando previamente ante el médico veterinario zootecnista, el registro de Pedigree y la carta expedida por la Federación Canófila Mexicana.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
-
 ###### ARTICULO 47.
 
-Queda prohibido a toda persona, destruir los nidos, refugios y madrigueras, así como emplear piedras, resorteras o cualquier objeto punzocortante para dar muerte o causar sufrimiento alguno a dichos animales, en el caso de menores de edad, serán responsables de las acciones que éstos cometan, sus padres o tutores o quienes ejerzan la patria potestad sobre ellos.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2025)
 
 ### CAPITULO IX. De los Animales de Carga, Tiro y Monta
 
@@ -1752,6 +1758,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 22 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 747.- SE REFORMA LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 265.- SE REFORMA LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
