@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2024-11-25"
+last_updated: "2025-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -534,6 +534,12 @@ h) Las demás disposiciones legales que expida el Congreso del Estado y las disp
 ###### Artículo 6°.
 
 La normatividad reglamentaria que al efecto expida el titular del Ejecutivo del Estado, garantizará la protección y la conservación de los productos y subproductos agrícolas, su sanidad, inocuidad, transformación, manejo y movilización en el territorio del Estado, así como las condiciones necesarias para el desarrollo sustentable de la población rural del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 6° Bis.
+
+Esta ley reconoce los derechos de las mujeres productoras agrícolas, por lo que la Secretaría fomentará su empoderamiento por medio del acceso a capacitación y asesoría, así como a las medidas, programas e instrumentos económicos para el pleno e igualitario ejercicio de sus derechos como productoras rurales. La Secretaría fomentará el desarrollo económico inclusivo y sostenible, que permita a las productoras agrícolas la participación efectiva, así como el acceso, aplicación y seguimiento de políticas y programas de desarrollo previstos en esta Ley.
 
 ## TÍTULO SEGUNDO. AUTORIDADES Y SUS AUXILIARES
 
@@ -2222,6 +2228,14 @@ El presente Decreto entrará en vigor a los noventa días siguientes a la fecha 
 25 DE NOVIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 19.- SE REFORMA LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 262.- SE ADICIONA LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
