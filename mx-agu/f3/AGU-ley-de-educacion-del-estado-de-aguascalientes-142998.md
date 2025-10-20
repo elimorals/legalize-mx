@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2025-09-22"
+last_updated: "2025-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -1126,6 +1126,18 @@ V. Coadyuvar en la promoción y difusión de las actividades que se lleven a cab
 VI. Fomentarán y apoyarán la celebración de eventos deportivos y la participación de representaciones deportivas locales en el país y en el extranjero, sin menoscabo de aquellos que organicen los planteles educativos.
 
 VII. Fomentar la participación de los educandos en actividades y talleres para desarrollar la cultura de la alimentación saludable en base a la actividad física que desarrollan.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+VIII. Fomentar la formación profesional de personas que impartan educación física, cultura física o deportes en planteles educativos públicos y privados.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+IX. Promover la capacitación y actualización de personas que se desempeñen como docentes o instructores de cultura física, deporte o áreas afines, que laboren en instituciones públicas o privadas, o por su cuenta, a fin de que desarrollen su actividad profesional con legalidad, honestidad, imparcialidad, ética y eficacia.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+
+X. Toda persona que por cualquier medio ofrezca actividades profesionales propias del Deporte, la Cultura· Física u otras afines, deberá cumplir con las disposiciones establecidas en la· Ley de Profesiones del Estado de Aguascalientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
@@ -2616,3 +2628,9 @@ P.O. 22 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 249.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 266.- SE ADICIONA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del ·Estado de Aguascalientes.
