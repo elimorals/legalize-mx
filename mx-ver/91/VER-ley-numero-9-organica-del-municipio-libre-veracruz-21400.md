@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2024-11-15"
+last_updated: "2025-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE OCTUBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -659,13 +659,17 @@ XLVIII Bis. Impulsar una eficiente y eficaz política de Mejora Regulatoria medi
 
 XLIX. Determinar y expedir los indicadores de desempeño; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2025)</small>
 
-L. Aprobar el Programa Municipal de Protección de Niñas, Niños y Adolescentes que le proponga el Sistema Municipal de Protección Integral; fortalecer la estructura y coadyuvar en la operación tanto de la Secretaría Ejecutiva de dicho Sistema, así como de la Procuraduría Municipal de Protección, ambas, de niñas, niños y adolescentes, en los términos previstos en la legislación de la materia y demás disposiciones aplicables, y
+L. Aprobar el Programa Municipal de Protección de Niñas, Niños y Adolescentes que le proponga el Sistema Municipal de Protección Integral: fortalecer la estructura y coadyuvar en la operación tanto de la Secretaría Ejecutiva de dicho Sistema, así como de la Procuraduría Municipal de Protección, ambas, de niñas, niños y adolescentes, en los términos previstos en la legislación de la materia y demás disposiciones aplicables;
 
-(REPUBLICADA Y REUBICADA, G.O. 11 DE MARZO DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE OCTUBRE DE 2025)</small>
 
-LI. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
+LI. Instalar la Casa Municipal de las Artesanías, el Consejo Municipal de Desarrollo Artesanal y, en su caso, el Subcomité Municipal de Desarrollo Artesanal, de conformidad con lo establecido en la Ley de Fomento a la Actividad Artesanal del Estado, así como integrar un padrón de personas artesanas del Municipio; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE OCTUBRE DE 2025)</small>
+
+LII. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
 
 ### CAPÍTULO IV. DEL PRESIDENTE MUNICIPAL
 
@@ -1013,11 +1017,17 @@ VI. Promover el deporte municipal procurando la realización de competencias y e
 
 VII. Proponer la creación de becas para estudiantes sobresalientes de escasos recursos, según las posibilidades económicas del Ayuntamiento;
 
-> <small>(REFORMADA, G.O. 13 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2025)</small>
 
-VIII. Fomentar los valores culturales e históricos del municipio, así como promover y proponer ante el Cabildo programas integrales e incluyentes para el rescate, preservación e impulso de la riqueza cultural del municipio; y
+VIII. Fomentar los valores culturales e históricos del municipio, así como promover y proponer ante el Cabildo programas integrales e incluyentes para el rescate, preservación e impulso de la riqueza cultural del municipio;
 
-IX. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE OCTUBRE DE 2025)</small>
+
+IX. Promover la preservación de las técnicas artesanales y productos de la región, así mismo, la participación de las personas artesanas en ferias y exposiciones culturales dentro y fuera del territorio municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE OCTUBRE DE 2025)</small>
+
+X. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
 ###### Artículo 47.
 
@@ -1415,9 +1425,17 @@ III. Coadyuvar con la Comisión de Gobernación, Reglamentos y Circulares, con e
 
 IV. Promover y organizar la participación y capacitación de los ciudadanos y de los vecinos del municipio, con el fin de incentivarles una cultura de atención y cordialidad al turista;
 
-V. Coordinarse con las instancias estatales, nacionales e internacionales correspondientes, a efecto de diseñar y cumplir programas tendientes a la promoción turística del municipio; y
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2025)</small>
 
-VI. Las demás que expresamente le señalen otras disposiciones normativas.
+V. Coordinarse con las instancias estatales, nacionales e internacionales correspondientes, a efecto de diseñar y cumplir programas tendientes a la promoción turística del municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE OCTUBRE DE 2025)</small>
+
+VI. Contemplar la actividad artesanal dentro de los programas y políticas de promoción turística del Municipio, impulsar campañas de difusión y promoción del arte popular y propiciar intercambios turísticos relacionados con las artesanías, y.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE OCTUBRE DE 2025)</small>
+
+VII. Las demás que expresamente le señalen otras disposiciones normativas.
 
 > <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -1533,7 +1551,9 @@ I. Proponer ante el H. Ayuntamiento la creación de la Dirección Municipal de D
 
 II. Promover y organizar la participación de todas las ramas de producción y de servicios, relacionados con el Desarrollo Económico;
 
-III. Fomentar el impulso del aparato productivo con el fin de reactivar el autoempleo, las micros, pequeñas, medianas y grandes empresas para que tenga todo el apoyo de la Comisión de Desarrollo Económico Municipal;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2025)</small>
+
+IIII. Fomentar el impulso del aparato productivo con el fin de reactivar el autoempleo, las micros, pequeñas, medianas y grandes empresas para que tenga todo el apoyo de la Comisión de Desarrollo Económico Municipal; así como vincular al sector artesanal con las dependencias del ramo para que tengan capacitación y asesoramiento en aspectos relacionados con la comercialización, calidad y registro de sus productos artesanales;
 
 IV. Proponer al Ayuntamiento la realización de acciones, ante los Ejecutivos Estatal y Federal, para obtener recursos económicos destinados a programas productivos que lleven un alto sentido de responsabilidad social;
 
@@ -4616,5 +4636,13 @@ G.O. 15 DE NOVIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 750 QUE REFORMA LOS ARTÍCULOS 33 Y 36 FRACCIÓN XXI DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
 
 PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 263 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
