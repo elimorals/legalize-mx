@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2025-09-22"
+last_updated: "2025-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -613,13 +613,17 @@ LX bis. Crear y operar, según la disponibilidad presupuestal, una unidad admini
 
 LXI. Fomentar e impulsar la innovación educativa, científica y tecnológica en todos los ámbitos establecidos por la Ley General de Educación e instrumentar acciones y políticas públicas encaminadas al crecimiento y consolidación de las micro y pequeñas empresas y al fomento del autoempleo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2025)</small>
 
-LXII. Nombrar al titular del órgano interno de control; y
+LXII. Nombrar al titular del órgano interno de control;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2025)</small>
 
-LXIII. Las demás que le confieran la presente Ley y otras disposiciones legales.
+LXIII. Reglamentar, en el ámbito de su competencia, las medidas de seguridad necesarias para el uso de pirotecnia en espacios públicos, así como establecer los requisitos y condiciones para otorgar autorizaciones para su utilización por parte de particulares, con la finalidad de prevenir riesgos y salvaguardar la integridad de las personas, la protección civil y el medio ambiente, sin perjuicio de lo establecido en la Ley Federal de Armas de Fuego y Explosivos y demás disposiciones federales aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2025)</small>
+
+LXIV. Las demás que le confieran la presente Ley y otras disposiciones legales.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
@@ -2954,3 +2958,11 @@ P.O. 22 DE SEPTIEMBRE DE 2025.
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Los municipios contarán con un plazo de 90 días contados a partir de su inicio de vigencia, para la adecuación de la reglamentación correspondiente materia del presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 263. SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
