@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2024-10-12"
+last_updated: "2025-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2863,11 +2863,11 @@ El adoptante y el adoptado tienen obligación de darse alimentos, en los casos e
 
 Toda persona que hubiere recibido alimentos de una institución ya sea pública, descentralizada o privada, como pueden ser centros de asistencia social, también conocidos como albergues, hospicios, orfelinatos, casas de cuna y otras afines, tienen la obligación a su vez de proporcionar alimentos a otro interno de esas instituciones y, en caso de que ya hubieren desaparecido, a otra similar. La Procuraduría de Protección de Niñas, Niños y Adolescentes, podrá ejercitar tal reclamación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2025)</small>
 
 ###### Art. 439.
 
-Los alimentos comprenden el recibir los elementos de subsistencia material y educativa, como son: comida, vestido, habitación, la asistencia en casos de enfermedad y, en su caso, los gastos de embarazo y parto. Respecto de los menores, los alimentos comprenden, además, los gastos para la educación de preescolar, primaria, secundaria y media superior del acreedor alimentario y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
+Los alimentos comprenden el recibir los elementos de subsistencia material y educativa, como son: comida, vestido, habitación, la asistencia en casos de enfermedad y, en su caso, los gastos de embarazo y parto. Respecto de los menores, los alimentos comprenden, además, los gastos para la educación continua, regular y permanente, hasta su conclusión, de preescolar, primaria, secundaria y media superior del acreedor alimentario y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
 
 También comprenden las atenciones a las necesidades psíquica, afectiva y de sano esparcimiento y en su caso, los gastos de funerales.
 
@@ -19534,3 +19534,9 @@ P.O. 12 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29574/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN EL ARTÍCULO 63 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; ASÍ COMO LOS ARTÍCULOS 122, 126 Y 128 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 21 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29855/LXIV/25 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
