@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-76202"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-18"
-last_updated: "2025-10-08"
+last_updated: "2025-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE OCTUBRE DE 2025.]</small>
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 18 de agosto de 2010.
 
@@ -2245,9 +2245,9 @@ XXI. Presentar a la aprobación del Consejo Local Electoral sus programas anuale
 
 XXII. Presentar al Consejo los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+(REFORMADA, P.O. 8 DE OCTUBRE DE 2025) (F. DE E., P.O. 21 DE OCTUBRE DE 2025)
 
-XXIII. Recibir y resguardar las declaraciones patrimoniales y de intereses que deban presentar los (sic) personas servidoras públicas del Instituto, conforme a los criterios, formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la ley de la materia;
+XXIII. Recibir y resguardar las declaraciones patrimoniales y de intereses que deban presentar las personas servidoras públicas del Instituto, conforme a los criterios, formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la ley de la materia;
 
 XXIV. Intervenir en los procesos de entrega recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
 
@@ -2299,9 +2299,9 @@ IV. Conducirse con parcialidad en los procedimientos de supervisión e imposici�
 
 El Órgano Interno de Control para el cumplimiento de sus funciones contará al menos con las unidades administrativas de auditoría y fiscalización, autoridad investigadora, substanciadora y resolutora, así como un abogado defensor de oficio.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025) (F. DE E., P.O. 21 DE OCTUBRE DE 2025)
 
-Las personas servidoras públicas adscritas al Órgano Interno de Control y, en su caso, las personas profesionales contratadas para la práctica de auditorías, serán nombrados (sic) y removidos (sic) libremente por su titular de acuerdo con lo establecido en esta ley, y deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
+Las personas servidoras públicas adscritas al Órgano Interno de Control y, en su caso, las personas profesionales contratadas para la práctica de auditorías, serán nombradas y removidas libremente por su titular de acuerdo con lo establecido en esta ley, y deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
