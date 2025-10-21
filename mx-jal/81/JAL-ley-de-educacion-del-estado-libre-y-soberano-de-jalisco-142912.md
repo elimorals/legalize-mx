@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2025-07-03"
+last_updated: "2025-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -133,7 +133,9 @@ Obligatoriedad de la educación
 
 Todas las personas habitantes del estado de Jalisco deben cursar la educación preescolar, la primaria, la secundaria y la media superior.
 
-Es obligación de quienes ejerzan la patria potestad o la tutela de menores, que las niñas, niños y adolescentes asistan a las escuelas, para recibir educación obligatoria, en los términos que establezca la ley, así como participar en su proceso educativo, a revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo. La autoridad educativa estatal, a través de las Escuelas para Padres, les proveerá la asesoría necesaria para que puedan cumplir con ello.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2025)</small>
+
+Es obligación de quienes ejerzan la patria potestad o la tutela de menores, que las niñas, niños y adolescentes asistan regularmente a las escuelas y permanezcan en ellas hasta su conclusión para recibir educación obligatoria, en los términos que establezca la ley, así como participar en su proceso educativo, a revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo. La autoridad educativa estatal, a través de las Escuelas para Padres, les proveerá la asesoría necesaria para que puedan cumplir con ello.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
@@ -569,6 +571,26 @@ Las autoridades educativas estatales y municipales implementarán programas, est
 
 Además, fomentarán una cultura a favor de la educación inicial con base en programas, campañas, estrategias y acciones de difusión y orientación, con el apoyo de los sectores social y privado, organizaciones de la sociedad civil y organismos internacionales. Para tal efecto, promoverán diversas opciones educativas para ser impartidas, como las desarrolladas en el seno de las familias y a nivel comunitario, en las cuales se proporcionará orientación psicopedagógica y serán apoyadas por las instituciones encargadas de la protección y defensa de la niñez.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2025)</small>
+
+Políticas para la inclusión, permanencia y continuidad en educación básica
+
+###### Artículo 25 Bis.
+
+La autoridad educativa del Estado de Jalisco, en el ámbito de sus competencias, ejecutará acciones y establecerá políticas para garantizar la inclusión, permanencia, continuidad y conclusión de este tipo educativo.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2025)</small>
+
+Acciones por ausencia reiterada o deserción escolar
+
+###### Artículo 25 Ter.
+
+La autoridad escolar que conozca sobre un caso de ausencia reiterada o deserción escolar tendrá la responsabilidad de documentar e informar a la Secretaría las causas que lo provocaron y las estrategias implementadas para evitar el abandono escolar, junto con sus resultados.
+
+La autoridad educativa estatal intervendrá a través de equipos multidisciplinarios, con la finalidad de brindar el apoyo asistencial necesario para que el alumno se reincorpore a clases, permanezca, continúe y concluya la educación básica, así como para imponer, en su caso, las medidas necesarias para la protección integral y restitución de sus derechos. Lo anterior en coordinación, en su caso, con la Secretaría del Sistema de Asistencia Social.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes representará a los alumnos cuando los padres o tutores persistan en su exclusión del sistema escolar.
+
 Educación multigrado
 
 ###### Artículo 26.
@@ -607,9 +629,11 @@ Estos servicios se podrán impartir en las modalidades y opciones educativas se�
 
 Políticas para la inclusión, permanencia y continuidad en educación media superior
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 28.
 
-Las autoridades educativas del estado de Jalisco, en el ámbito de sus competencias, establecerán, de manera progresiva, políticas para garantizar la inclusión, permanencia y continuidad en este tipo educativo, poniendo énfasis en los jóvenes, a través de medidas tendientes a fomentar oportunidades de acceso para las personas que así lo decidan, puedan ingresar a este tipo educativo, así como disminuir la deserción y abandono escolar, como puede ser el establecimiento de apoyos económicos.
+Las autoridades educativas del Estado de Jalisco, en el ámbito de sus competencias, establecerán, de manera progresiva, políticas para garantizar la inclusión, asistencia regular, permanencia, continuidad y conclusión en este tipo educativo, poniendo énfasis en los jóvenes, a través de medidas tendientes a fomentar oportunidades de acceso para las personas que así lo decidan, puedan ingresar a este tipo educativo, así como disminuir la deserción y abandono escolar, como puede ser el establecimiento de apoyos económicos.
 
 De igual forma, implementarán un programa de capacitación y evaluación para la certificación que otorga la instancia competente, para egresados de bachillerato, profesional técnico bachiller o sus equivalentes, que no hayan ingresado a educación superior, con la finalidad de proporcionar herramientas que les permitan integrarse al ámbito laboral.
 
@@ -685,11 +709,13 @@ Para tal efecto, la autoridad educativa estatal dispondrá las medidas para que 
 
 La información del registro al que se refiere este artículo será pública y difundida de manera electrónica e impresa, a través de los medios de comunicación determinados por la autoridad educativa estatal.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2025)</small>
+
 Inclusión, continuidad, egreso oportuno y cobertura en educación superior
 
 ###### Artículo 35.
 
-La autoridad educativa estatal y municipales, en el ámbito de sus competencias, establecerán políticas para fomentar la inclusión, continuidad y egreso oportuno de estudiantes inscritos en educación superior, poniendo énfasis en los jóvenes. Determinarán medidas que amplíen el ingreso y permanencia a toda aquella persona que, en los términos que señale la ley en la materia, decida cursar este tipo de estudios, tales como el establecimiento de mecanismos de apoyo académico y económico que responda a las necesidades de la población estudiantil. Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico.
+La autoridad educativa estatal y municipales, en el ámbito de sus competencias, establecerán políticas para fomentar la inclusión, permanencia, continuidad y egreso oportuno de estudiantes inscritos en educación superior, poniendo énfasis en los jóvenes. Determinarán medidas que amplíen el ingreso y permanencia a toda aquella persona que, en los términos que señale la ley en la materia, decida cursar este tipo de estudios, tales como el establecimiento de mecanismos de apoyo académico y económico que responda a las necesidades de la población estudiantil. Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico.
 
 Respeto a la autonomía universitaria
 
@@ -1135,11 +1161,13 @@ La autoridad educativa estatal publicará en el Periódico Oficial "El Estado de
 
 ### Capítulo VI. De la participación de madres y padres de familia o tutores en el proceso educativo
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2025)</small>
+
 Corresponsabilidad de madres y padres de familia o tutores en el proceso educativo
 
 ###### Artículo 68.
 
-Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos y en su caso, a los servicios de salud, apoyarán su aprendizaje y revisarán su progreso, desempeño y conducta con sus docentes en diálogo sinérgico para el seguimiento personalizado de los objetivos, metas y estrategias de aprendizaje establecidos, velando siempre por su bienestar y desarrollo.
+Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir de forma continua, regular y permanente a los servicios educativos hasta su conclusión y, en su caso, a los servicios de salud, apoyarán su aprendizaje y revisarán su progreso, desempeño y conducta con sus docentes en diálogo sinérgico para el seguimiento personalizado de los objetivos, metas y estrategias de aprendizaje establecidos, velando siempre por su bienestar y desarrollo.
 
 Orientación para las familias de los educandos
 
@@ -2091,7 +2119,9 @@ Obligaciones de quienes ejercen la patria potestad o tutela
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-I. Hacer que sus hijas, hijos o pupilos menores de dieciocho años, reciban la educación preescolar, la primaria, la secundaria, la media superior y, en su caso, la inicial;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2025)</small>
+
+I. Hacer que sus hijas, hijos o pupilos menores de dieciocho años, asistan regularmente, continúen y egresen de la educación preescolar, la primaria, la secundaria, la media superior y, en su caso, la inicial;
 
 II. Participar en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo;
 
@@ -2782,3 +2812,9 @@ P.O. 3 DE JULIO DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. La Secretaría de Educación del Estado de Jalisco y la Secretaría de Innovación, Ciencia y Tecnología del Estado de Jalisco, deberán realizar las acciones que consideren necesarias para llevar a cabo lo establecido en el presente decreto.
+
+P.O. 21 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29855/LXIV/25 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
