@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2023-08-03"
+last_updated: "2025-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -721,13 +721,13 @@ XII. Fomentar la participación en las escuelas y en su comunidad;
 
 XIII. Promover la igualdad de género, evitar la reproducción de roles estereotipados de género y fomentar la igualdad sustantiva;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2025)</small>
 
-XIV. Brindar atención y orientación sensible y libre de discriminación a las adolescentes embarazadas y las madres menores de edad, para evitar la deserción escolar;
+XIV. Brindar atención y orientación sensible y libre de discriminación a las adolescentes embarazadas y las madres menores de edad, para favorecer su asistencia regular a las aulas y evitar la deserción escolar;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2025)</small>
 
-XV. Contribuir a garantizar la permanencia y conclusión de la educación básica y media superior de niñas, niños y adolescentes, de manera presencial o a distancia, así como para abatir el ausentismo, abandono y descerción (sic) escolares;
+XV. Contribuir a garantizar la asistencia regular, permanencia y conclusión de la educación básica y media superior de niñas, niños y adolescentes, de manera presencial o a distancia, así como para abatir el ausentismo, abandono y deserción escolares;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2023)</small>
 
@@ -2350,5 +2350,11 @@ SEGUNDO. La Secretaría de Educación, conforme a la suficiencia presupuestal as
 P.O. 3 DE AGOSTO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29228/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL REFORMA EL ARTÍCULO 42 FRACCIÓN XVI DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29855/LXIV/25 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
