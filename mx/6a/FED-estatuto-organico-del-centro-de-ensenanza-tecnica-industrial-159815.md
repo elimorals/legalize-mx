@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-de-ensenanza-tecnica-industrial-15
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-08-24"
-last_updated: "2022-08-24"
+last_updated: "2025-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159815&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2022-08-04"
 ---
 # ESTATUTO ORGANICO DEL CENTRO DE ENSEÑANZA TECNICA INDUSTRIAL
 
+NOTA 1: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL CENTRO DE ENSEÑANZA TÉCNICA INDUSTRIAL, PUBLICADO EN EL D.O.F. DE 21 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+NOTA 2: [N. DE E. INFORMACIÓN OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/SEP/Estatuto-Organico-del-Centro-de-Ensenanza-Tecnica-Industrial-2025.pdf]
+
 ESTATUTO ORGÁNICO DEL CENTRO DE ENSEÑANZA TÉCNICA INDUSTRIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2025 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 24 de agosto de 2022.
 
@@ -2806,3 +2810,35 @@ TERCERO.- El(la) Titular deberá expedir las disposiciones reglamentarias previs
 Luis Fernando Ortiz Hernández
 
 Director General del Centro de Enseñanza Técnica Industrial
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO MEDIANTE EL CUAL SE DA A CONOCER LA PUBLICACIÓN DEL ESTATUTO ORGÁNICO DEL CENTRO DE ENSEÑANZA TÉCNICA INDUSTRIAL
+
+Es de su conocimiento, a todas las autoridades, las y los servidores públicos y público en general, para los efectos legales y administrativos a que haya lugar, mediante hipervínculo electrónico y código QR o barras bidimensionales para consultar el Estatuto Orgánico del Centro de Enseñanza Técnica Industrial, el cual tiene por objeto, dar a conocer las disposiciones y principios que sustentan el desarrollo y cumplimiento de las funciones esenciales y complementarias de este Organismo Público Descentralizado y como Sujeto Obligado.
+
+Denominación: Estatuto Orgánico del Centro de Enseñanza Técnica Industrial.
+
+Emisor: Centro de Enseñanza Técnica Industrial.
+
+Fecha de emisión: 15 de agosto de 2025.
+
+Medio de consulta: Para su difusión y consulta se encuentra disponible en la siguiente liga electrónica:
+
+https://www.ceti.mx/cetinew/noticia.php?id=1743
+
+Adicionalmente, se podrá consultar en la siguiente liga electrónica:
+
+www.dof.gob.mx/2025/SEP/Estatuto-Organico-del-Centro-de-Ensenanza-Tecnica-Industrial-2025.pdf
+
+## [N. DE E. TRANSITORIOS DEL "AVISO MEDIANTE EL CUAL SE DA A CONOCER LA PUBLICACIÓN DEL ESTATUTO ORGÁNICO DEL CENTRO DE ENSEÑANZA TÉCNICA INDUSTRIAL".]
+
+PRIMÉRO.- El presente Estatuto Orgánico entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Centro de Enseñanza Técnica Industrial aprobado el 25 de febrero del 2022, por la Junta Directiva en la sesión 162, con el Acuerdo SO/I-22/08,R.
+
+TERCERO.- El(la) Titular deberá expedir las disposiciones reglamentarias previstas en el presente Estatuto Orgánico.
