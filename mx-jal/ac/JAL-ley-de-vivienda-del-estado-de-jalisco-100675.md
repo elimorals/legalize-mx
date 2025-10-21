@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-vivienda-del-estado-de-jalisco-100675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-09"
-last_updated: "2022-11-08"
+last_updated: "2025-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE VIVIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 9 de mayo de 2014.
 
@@ -115,7 +115,9 @@ h) Ampliación o mejoramiento de vivienda; y
 
 i) En general todo lo relacionado para que los sujetos beneficiados adquirieran por cualquier medio de financiamiento, vivienda en propiedad; construyan; reparen; amplíen y mejoren las que tengan en propiedad y liberen los adeudos contraídos por estos conceptos;
 
-XII. Promover, coordinar, financiar y ejecutar programas de construcción y acciones de vivienda en los municipios del Estado de Jalisco, respetando para ello, lo dispuesto en los ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2025)</small>
+
+XII. Promover, coordinar, financiar y ejecutar programas de construcción, que garantice la producción pública de vivienda adecuada para arrendamiento y acciones de vivienda en los municipios del Estado de Jalisco, representado para ello, lo dispuesto en los ordenamientos aplicables;
 
 XIII. Priorizar en su caso, los programas y acciones de vivienda de interés social y popular a la población de bajos ingresos;
 
@@ -171,37 +173,65 @@ XIV. Proceso habitacional: la secuencia de actividades u operaciones de planeaci
 
 XV. Producción social de vivienda: aquélla que se realiza bajo el control de auto productores y auto constructores que operan sin fines de lucro y orientada para atender las necesidades habitacionales de la población de bajos ingresos, incluyendo a la que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda por sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías, con base en sus propias necesidades y su capacidad de gestión y toma de decisiones;
 
-XVI. Productor social de vivienda: la persona física o jurídica que en forma individual o colectiva produce vivienda sin fines de lucro;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2025)</small>
 
-XVII. Política Estatal de Vivienda: el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realice el Gobierno del Estado y los Ayuntamientos, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa;
+XVI. Producción pública de vivienda adecuada para arrendamiento: Aquella que realice el Gobierno del Estado y sus municipios, con recursos públicos a fin de ofrecer acceso a la vivienda en arrendamiento con un criterio de asequibilidad para las personas de menores ingresos.
 
-XVIII. SEMADET: La Secretaría de Medio Ambiente y Desarrollo Territorial;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVI], P.O. 21 DE OCTUBRE DE 2025)</small>
 
-XIX. Sector privado: toda persona física o jurídica que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro;
+XVII. Productor social de vivienda: la persona física o jurídica que en forma individual o colectiva produce vivienda sin fines de lucro;
 
-XX. Sector público de vivienda: toda dependencia, entidad u organismos de la administración pública, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVII], P.O. 21 DE OCTUBRE DE 2025)</small>
 
-XXI. Sector social: toda persona física o jurídica, familia o grupo social, aún sin personalidad jurídica, que sin fines preponderantes de lucro, realicen acciones o procesos de vivienda en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda;
+XVIII. Política Estatal de Vivienda: el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realice el Gobierno del Estado y los Ayuntamientos, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa;
 
-XXII. Sistema de Información: el Sistema Estatal de Información e Indicadores de Vivienda, como el conjunto de datos producidos por los sectores público, social y privado, organizados bajo una estructura conceptual predeterminada, que permita mostrar la situación de la vivienda y el mercado habitacional, así como los efectos de las políticas públicas en la materia;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVIII], P.O. 21 DE OCTUBRE DE 2025)</small>
 
-XXIII. Suelo para vivienda: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional conforme a las disposiciones aplicables;
+XIX. SEMADET: La Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-XXIV. Vivienda: área construida que cuenta con el conjunto de satisfactores y servicios propios de la habitación;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIX], P.O. 21 DE OCTUBRE DE 2025)</small>
 
-XXV. Vivienda ecológica: aquélla a la que se apliquen criterios ecológicos y ecotecnologías para promover una mejora en la calidad de vida en el usuario sin deteriorar la calidad del medio ambiente;
+XX. Sector privado: toda persona física o jurídica que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro;
 
-XXVI. Vivienda progresiva: la acción destinada a satisfacer las necesidades habitacionales y cambiantes de las familias desde las etapas iniciales, en un proceso paulatino y discontinuo de construcción y adaptación;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XX], P.O. 21 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+XXI. Sector público de vivienda: toda dependencia, entidad u organismos de la administración pública, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda;
 
-XXVII. Vivienda de interés social: la vivienda cuyo precio máximo de venta al público al término de su edificación, no exceda de la cantidad de cinco mil cuatrocientos veinticinco veces el valor diario de la Unidad de Medida y Actualización que resulte de multiplicar por quince el salario al término de su edificación, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXI], P.O. 21 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+XXII. Sector social: toda persona física o jurídica, familia o grupo social, aún sin personalidad jurídica, que, sin fines preponderantes de lucro, realicen acciones o procesos de vivienda en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda;
 
-XXVIII. Vivienda popular: la vivienda cuyo valor al término de su edificación y cual precio de venta al público, es superior de quince veces el valor anual de la Unidad de Medida y Actualización, y no excede de la cantidad de nueve mil ciento veinticinco veces el valor diario de la Unidad de Medida y Actualización vigente, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta; y
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXII], P.O. 21 DE OCTUBRE DE 2025)</small>
 
-XXIX. Vivienda terminada: la acción habitacional que se realiza en un proceso continuo y único de construcción.
+XXIII. Sistema de Información: el Sistema Estatal de Información e Indicadores de Vivienda, como el conjunto de datos producidos por los sectores público, social y privado, organizados bajo una estructura conceptual predeterminada, que permita mostrar la situación de la vivienda y el mercado habitacional, así como los efectos de las políticas públicas en la materia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIII], P.O. 21 DE OCTUBRE DE 2025)</small>
+
+XXIV. Suelo para vivienda: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIV], P.O. 21 DE OCTUBRE DE 2025)</small>
+
+XXV. Vivienda: área construida que cuenta con el conjunto de satisfactores y servicios propios de la habitación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXV], P.O. 21 DE OCTUBRE DE 2025)</small>
+
+XXVI. Vivienda ecológica: aquélla a la que se apliquen criterios ecológicos y ecotecnologías para promover una mejora en la calidad de vida en el usuario sin deteriorar la calidad del medio ambiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXVI], P.O. 21 DE OCTUBRE DE 2025)</small>
+
+XXVII. Vivienda progresiva: la acción destinada a satisfacer las necesidades habitacionales y cambiantes de las familias desde las etapas iniciales, en un proceso paulatino y discontinuo de construcción y adaptación;
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XXVII], P.O. 21 DE OCTUBRE DE 2025)</small>
+
+XXVIII. Vivienda de interés social: la vivienda cuyo precio máximo de venta al público al término de su edificación, no exceda de la cantidad de cinco mil cuatrocientos veinticinco veces el valor diario de la Unidad de Medida y Actualización al término de su edificación, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXVIII], P.O. 21 DE OCTUBRE DE 2025)</small>
+
+XXIX. Vivienda popular: la vivienda cuyo valor al término de su edificación y cual precio de venta al público, es superior de quince veces el valor anual de la Unidad de Medida y Actualización, y no excede de la cantidad de nueve mil ciento veinticinco veces el valor diario de la Unidad de Medida y Actualización vigente, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta; y
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XXIX], P.O. 21 DE OCTUBRE DE 2025)</small>
+
+XXX. Vivienda terminada: la acción habitacional que se realiza en un proceso continuo y único de construcción
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
@@ -1166,3 +1196,9 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Gobierno del Estado, así como los Ayuntamientos del Estado de Jalisco contarán con un plazo de noventa días naturales, siguientes a la entrada en vigor del presente decreto para realizar las modificaciones a los reglamentos, disposiciones administrativas y lineamientos generales que resulten aplicables y necesarios para el correcto cumplimiento de los artículos reformados en el presente decreto.
+
+P.O. 21 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29856/LXIV/25 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 7 Y EL ARTÍCULO 8 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
