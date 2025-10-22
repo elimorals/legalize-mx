@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "2025-03-14"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DEL DEPORTE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -205,9 +205,17 @@ I.- Vigilar el cumplimiento del Sistema Estatal del Deporte en el ámbito de su 
 
 II.- Registrarse en el Sistema Nacional del Deporte en el que se incluya las Instalaciones deportivas de su territorio y vigilar su conservación, mantenimiento y uso adecuado;
 
-III.- Procurar y promover espacios físicos destinados a la práctica del deporte en su jurisdicción territorial con apego a los planes, programas, declaratorias o disposiciones administrativas sobre desarrollo urbano; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-IV.- Celebrar convenios con organismos e instituciones públicas, privadas y sociales, con el objeto de patrocinar las actividades deportivas que se celebren en su localidad.
+III.- Procurar y promover espacios físicos destinados a la práctica del deporte en su jurisdicción territorial con apego a los planes, programas, declaratorias o disposiciones administrativas sobre desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+IV.- Celebrar convenios con organismos e instituciones públicas, privadas y sociales, con el objeto de patrocinar las actividades deportivas que se celebren en su localidad; y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+V.- Proveer de conformidad con la suficiencia presupuestal, los uniformes deportivos y equipamiento básico necesario a los deportistas que representen al municipio en los eventos deportivos, nacionales e internacionales.
 
 ### CAPITULO III. DE LA PARTICIPACION DE LOS SECTORES SOCIAL Y PRIVADO
 
@@ -970,3 +978,9 @@ P.O. 14 DE MARZO DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Sistema Estatal del Deporte contará con un plazo máximo de 90 días hábiles después de la entrada en vigor del presente Decreto para emitir la Reglamentación interna correspondiente.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO NÚM. 130. SE SOLICITA AL HONORABLE CONGRESO DE LA UNIÓN, EL ANÁLISIS Y EN SU CASO APROBACIÓN DEL SIGUIENTE PROYECTO DE DECRETO REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 7, LA FRACCIÓN V Y VI DEL ARTÍCULO 17; Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 17 TODOS DE LA LEY GENERAL DEL SISTEMA PARA LA CARRERA DE LAS MAESTRAS Y LOS MAESTROS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
