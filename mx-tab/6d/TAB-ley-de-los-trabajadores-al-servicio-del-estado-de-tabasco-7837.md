@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2025-10-01"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -545,13 +545,23 @@ XVII.- Otorgar permiso de paternidad de cinco días laborales con goce de sueldo
 
 XVIII.- Otorgar permiso con goce de sueldo, al trabajador o trabajadora que lo solicite, hasta por un día laborable, para acudir a una institución de salud pública o privada a donar sangre de manera altruista, lo que deberá acreditar con la constancia expedida por la Institución a la que hubiere acudido;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-XIX.- Otorgar licencia con goce de sueldo al trabajador o trabajadora que done órganos o tejidos de manera altruista, para lo cual deberá presentar previamente solicitud por escrito, acompañando los certificados o documentos que acrediten, el tipo de donación, análisis o estudios clínicos necesarios, la temporalidad de la intervención quirúrgica y de recuperación requeridos, mismos que constituirán el justificante correspondiente. En este caso, no deberán afectarse, suspenderse o disminuirse, total o parcialmente, la antigüedad, el salario, los bonos, las compensaciones, las prestaciones legales o extralegales o cualquier remuneración que venía recibiendo la persona donante hasta antes de la donación de que se trate; y
+XIX.- Otorgar licencia con goce de sueldo al trabajador o trabajadora que done órganos o tejidos de manera altruista, para lo cual deberá presentar previamente solicitud por escrito, acompañando los certificados o documentos que acrediten, el tipo de donación, análisis o estudios clínicos necesarios, la temporalidad de la intervención quirúrgica y de recuperación requeridos, mismos que constituirán el justificante correspondiente. En este caso, no deberán afectarse, suspenderse o disminuirse, total o parcialmente, la antigüedad, el salario, los bonos, las compensaciones, las prestaciones legales o extralegales o cualquier remuneración que venía recibiendo la persona donante hasta antes de la donación de que se trate;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-XX.- Otorgar, anualmente, permiso con goce de sueldo a las trabajadoras y a los trabajadores que lo soliciten, para acudir a realizarse estudios o análisis, con el objeto de prevenir o detectar algún tipo de cáncer; debiendo acreditarse dicha realización con los documentos correspondientes.
+XX.- Otorgar, anualmente, permiso con goce de sueldo a las trabajadoras y a los trabajadores que lo soliciten, para acudir a realizarse estudios o análisis, con el objeto de prevenir o detectar algún tipo de cáncer; debiendo acreditarse dicha realización con los documentos correspondientes; y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XXI.- Conceder licencia con goce de sueldo hasta por dos días hábiles a las mujeres trabajadoras o personas menstruantes a quienes se les haya diagnosticado con endometriosis grado dos, con dismenorrea primaria o secundaria en grado incapacitante, o que, por otros síntomas ocasionados por el periodo menstrual, no puedan cumplir con sus obligaciones laborales.
+
+Para tal efecto, deberán presentar en el área correspondiente de su centro laboral, el certificado médico pertinente, con duración de un año, emitido por personal especialista en ginecología del Instituto de Seguridad Social del Estado de Tabasco (ISSET). Dicho certificado, podrá renovarse por igual término, previa valoración para confirmar el diagnóstico. Esta condición médica en ningún momento podrá ser considerada como enfermedad profesional o riesgo de trabajo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXI, P.O. 22 DE OCTUBRE DE 2025]</small>
+
+El goce de la licencia por endometriosis incapacitante no afectará la antigüedad, el pago de primas, vacaciones, incentivos u otros derechos adquiridos.
 
 ### CAPITULO II. DEL ESCALAFON
 
@@ -1446,3 +1456,11 @@ P.O. 1 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 150 POR EL QUE “SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 46. SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 46 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
