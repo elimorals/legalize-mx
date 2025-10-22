@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2025-05-13"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -595,11 +595,11 @@ Para que los Convenios citados en el presente artículo surtan efectos frente a 
 
 Las y los policías estatales y los cuerpos municipales de policía de tránsito deberán detener la marcha de cualquier vehículo cuando la o el conductor de éste se encuentre cometiendo alguna infracción a las disposiciones contenidas en esta Ley, su reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 52.
 
-Las y los policías estatales y los cuerpos municipales de policía de tránsito, en el ámbito de sus respectivas competencias, podrán retirar los vehículos de circulación y asegurarlos en los depósitos vehiculares, autorizados o certificados por la Secretaría de Protección y Seguridad Ciudadana, en los supuestos previstos en las fracciones II, III, IV, VIII, IX, XIII y XV de este artículo, así también las y los policías estatales y los cuerpos municipales de policía de tránsito inmovilizarán los vehículos para circular, como medida de seguridad para evitar afectación al orden público e interés social, cuando se traten de las hipótesis a que se refieren las fracciones I, V, VI, VII, X, XI, XII, XIV, XVI, XVII y XVIII de este numeral.
+Las y los policías estatales y los cuerpos municipales de policía de tránsito, en el ámbito de sus respectivas competencias, podrán retirar los vehículos de circulación y asegurarlos en los depósitos vehiculares, autorizados o certificados por la Secretaría de Protección y Seguridad Ciudadana, en los supuestos previstos en las fracciones II, III, IV, VIII, IX, XIII, XV y XVIII de este artículo, así también las y los policías estatales y los cuerpos municipales de policía de tránsito inmovilizarán los vehículos para circular, como medida de seguridad para evitar afectación al orden público e interés social, cuando se traten de las hipótesis a que se refieren las fracciones I, V, VI, VII, X, XI, XII, XIV, XVI, XVII y XIX de este numeral:
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2022)</small>
 
@@ -639,9 +639,13 @@ XVI. Cuando sean utilizados para Impartir clases de manejo sin contar con el per
 
 XVII. Por no portar en el parabrisas el engomado con chip de radiofrecuencia y no tener su comprobante de inscripción o actualización emitido por el Registro Público Vehicular del Estado, o teniendo el chip no pueda ser leído con los dispositivos RFID o porque se detecte que ha sido dañado intencionalmente para impedir la lectura.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2025)</small>
 
-XVIII. En los demás casos que señale esta Ley y su Reglamento.
+XVIII. Por no portar en el vehículo una o ambas placas de manera visible en los lugares destinados por el fabricante para tal uso. Si el vehículo no cuenta con un lugar destinado por el fabricante para la portación de una o ambas placas, la persona propietaria o poseedora deberá realizar las adecuaciones necesarias para instalar las placas metálicas en un lugar visible al exterior del vehículo, en las posiciones previstas por la normatividad aplicable, garantizando su visibilidad e identificación permanente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XIX. En los demás casos que señale esta Ley y su Reglamento.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
 
@@ -1614,3 +1618,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El Poder Ejecutivo del Estado y los Municipios contarán con un plazo de 90 días hábiles para realizar las modificaciones a las disposiciones reglamentarias relacionadas con la materia del presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo contenido del presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 143 POR EL QUE “SE REFORMAN EL PÁRRAFO PRIMERO, LA FRACCIÓN XVIII Y, SE ADICIONA LA FRACCIÓN XIX DEL ARTÍCULO 52 DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios contarán con un plazo de 60 días hábiles para realizar las modificaciones a las disposiciones reglamentarias relacionadas con la materia de este decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
