@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-conducta-para-las-personas-servidoras-publicas-de-168
 country: "mx"
 rank: "codigo"
 publication_date: "2023-11-27"
-last_updated: "2023-11-27"
+last_updated: "2025-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CODIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS, MICHOACAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS DEL ESTADO DE MICHOACÁN, PUBLICADO EN EL P.O. DE 22 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025 (ABROGADO).
 
 Código publicado en la Décima Séptima Sección del Número 33 del Periódico Oficial del Estado de Michoacán, el lunes 27 de noviembre de 2023.
 
@@ -578,3 +580,13 @@ En virtud de lo anterior, acepto conducirme con completo apego al Código de Con
 Atentamente
 
 Nombre y firma de la persona servidora pública
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS DEL ESTADO DE MICHOACÁN”.]
+
+Primera. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+Segunda. Se abroga el Código de Conducta para las Personas Servidoras Públicas de la Secretaría de Comunicaciones y Obras Públicas, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, tomo CLXXXIV, Décima Sección, número 33, el día 27 de noviembre del 2023, y se dejan sin efectos las demás disposiciones normativas que se opongan al presente Código de Conducta.
