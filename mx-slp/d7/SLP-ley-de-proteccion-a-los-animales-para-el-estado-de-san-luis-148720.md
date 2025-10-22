@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-los-animales-para-el-estado-de-san-luis-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-23"
-last_updated: "2025-10-16"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 23 de marzo de 2021.
 
@@ -145,9 +145,13 @@ XX. Protector de los animales comunitarios: persona que deberá registrarlos, pa
 
 XXI. Sacrificio Humanitario: matanza de animales para el consumo o no humano; para evitar su sufrimiento; utilizando personal capacitado y con métodos físicos o químicos, que produzcan mínimo dolor;
 
-XXII. Tortura a los animales: ocasionar dolor físico, con el fin de obtener de éste una acción, como medio de castigo o sin razón alguna, y
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-XXIII. Trato digno y respetuoso: todo trato digno, de atención o cuidado que se otorgue a un animal, en los términos de esta Ley.
+XXII. Sparring: Utilización de animales como carnada o como entrenamiento para perros.
+
+XXIII. Tortura a los animales: ocasionar dolor físico, con el fin de obtener de éste una acción, como medio de castigo o sin razón alguna, y
+
+XXIV. Trato digno y respetuoso: todo trato digno, de atención o cuidado que se otorgue a un animal, en los términos de esta Ley.
 
 En dicho trato, se contempla la castración y esterilización, canina o felina; entendiéndose por castración a la técnica que consiste en una intervención quirúrgica en la cual se produce la extirpación de los testículos en los machos y de los ovarios u ovarios y útero en la hembra.
 
@@ -198,6 +202,10 @@ Las personas físicas o morales, que tengan bajo su cuidado animales domésticos
 ###### ARTÍCULO 14.
 
 Las personas autorizadas para cazar animales, deberán conocer los calendarios de veda y respetarlos conforme sean difundidos.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+Ninguna persona podrá cazar, perseguir o capturar ejemplares de fauna silvestre que se encuentren enlistados como en peligro de extinción, amenazados o sujetos a protección especial, conforme a lo dispuesto en la Norma Oficial Mexicana NOM-059-SEMARNAT-2010 o a la que la sustituya.
 
 ###### ARTÍCULO 15.
 
@@ -705,9 +713,17 @@ Las autoridades mencionadas en el artículo anterior, respecto de dichos animale
 
 I. Velar por su adecuada conservación, protección, propagación y aprovechamiento;
 
-II. Crear reservas, salvaguardar especies animales, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-III. Velar que los cazadores en la Entidad cuenten con la autorización de la Secretaría del Ramo Federal para cazar cualquier especie animal, y que se respeten los tiempos de veda.
+II. Crear reservas, salvaguardar especies animales, y III. (sic) Velar que los cazadores en la Entidad cuenten con la autorización de la Secretaría del Ramo Federal para cazar cualquier especie animal, y que se respeten los tiempos de veda;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+III. Verificar que las personas que practiquen la caza en el territorio del Estado cuenten con la autorización, registro y certificación expedidos por la Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT), y que respeten los periodos de veda, los calendarios de vida y demás disposiciones aplicables. En ningún caso podrá autorizarse o permitirse caza de ejemplares pertenecientes a especies clasificadas como en peligro de extinción, amenazadas o sujetas a protección especial, conforme a la Norma Oficial Mexicana NOM-059-SEMARNAT-2010. Las autorizaciones correspondientes podrán ser suspendidas, modificadas o revocadas por infracción a la presente Ley o a sus reglamentos;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+IV. A quien contravenga lo establecido en el segundo párrafo del artículo 14 o en la fracción anterior, se le impondrá una sanción pecuniaria conforme a lo establecido por esta Ley, y, en su caso, se dará vista a las autoridades competentes para la aplicación del artículo 317 del Código Penal del Estado de San Luis Potosí.
 
 El inventario de especies deberá comprender: todo tipo de animales que se encuentren en forma silvestre dentro del territorio del Estado.
 
@@ -1065,9 +1081,11 @@ El permiso para comercializar animales domésticos lo expide un Ayuntamiento y p
 
 Queda prohibido el azuzar a un perro o cualquier otro animal para que ataque a las personas.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 117.
 
-Queda prohibido organizar, inducir o provocar peleas de animales, así como entrenarlos para tales fines.
+Queda prohibido organizar, inducir o provocar peleas de animales, así como entrenarlos o utilizarlos como “sparring” para tales fines. Estas conductas serán sancionadas conforme a lo establecido en el Código Penal del Estado de San Luis Potosí, con independencias (sic) de las sanciones administrativas a que haya lugar conforme a lo establecido en esta Ley.
 
 ###### ARTÍCULO 118.
 
@@ -1318,3 +1336,17 @@ P.O. 16 DE OCTUBRE DE 2025.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0289.- QUE REFORMA EL ARTÍCULO 84 Y REALIZA ADICIÓN A LOS ARTÍCULOS 14 Y 84, DE LA LEY DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0290.- QUE REFORMA EL ARTÍCULO 117 Y REALIZA ADICIÓN AL ARTÍCULO 4º, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EL ARTÍCULO 317 QUÁTER, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+ÚNICO. Los artículos, Primero y Segundo de este Decreto, serán vigentes al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
