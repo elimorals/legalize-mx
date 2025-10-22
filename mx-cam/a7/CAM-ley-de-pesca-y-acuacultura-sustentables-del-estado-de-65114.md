@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-65114"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-05"
-last_updated: "2024-11-12"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE NOVIEMBRE DE 2024 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 5 de diciembre de 2008.
 
@@ -113,6 +111,10 @@ X. Especies acuícolas: Son aquellas especies o unidades de peces, moluscos o cr
 
 XI. Estado: El Estado de Campeche;
 
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XI Bis. FGR: Fiscalía General de la República;
+
 XII. Granja acuícola: Es una unidad de producción de especies acuícolas de naturaleza dulceacuícola o marina de la cual se obtienen mayores volúmenes de producto susceptibles de ser comercializado;
 
 XIII. Ley General: La Ley General de Pesca y Acuacultura Sustentables;
@@ -157,6 +159,10 @@ XXV. Guía de Tránsito: El documento expedido por la Secretaría de Agricultura
 
 XXVI. Porteador: La persona que interna o moviliza con medios propios o ajenos recursos pesqueros o acuícolas dentro del territorio estatal;
 
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XXVII. Responsabilidad solidaria: Término legal que se refiere a la situación en la que múltiples individuos o entidades comparten una responsabilidad conjunta y pueden ser considerados por igual responsables de una obligación o deuda.
+
 ###### Artículo 5.
 
 A falta de disposición expresa en la presente Ley, se aplicarán las disposiciones contenidas en la Ley General y en otras leyes relacionadas con las materias que regula este ordenamiento.
@@ -186,6 +192,10 @@ I. Diseñar y aplicar la política, los instrumentos y los programas para la pes
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 II. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del Convenio específico celebrado con la Secretaría federal competente en estas materias y participar de conformidad con los acuerdos y convenios que se celebren con la Federación en las acciones de prevención y combate a la pesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+II Bis. Verificar, mediante inspecciones programadas y aleatorias, el cumplimiento de los periodos de veda por parte de establecimientos comerciales y gastronómicos, en concurrencia con autoridades federales y municipales, sancionando conforme a la normatividad aplicable, a quienes ofrezcan, procesen o comercialicen especies en veda, salvo justificación sanitaria y documental de su procedencia autorizada.
 
 III. Celebrar convenios o acuerdos de coordinación y colaboración con la Federación en materia de pesca y acuacultura;
 
@@ -350,6 +360,10 @@ XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca
 El Estado, con la colaboración de las y los productores pesqueros y acuícolas en coordinación con los municipios y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal, especialmente en las zonas sobreexplotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la presente Ley y otras disposiciones aplicables.
 
 El Instituto de Pesca dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el Programa citado y promoverá la participación de las demás dependencias y entidades de la Administración Pública Estatal y de los Municipios, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+El Programa deberá incluir acciones específicas para la vigilancia en establecimientos de consumo, mercados y restaurantes, respecto a la comercialización o distribución de especies en veda, así como el seguimiento de las cadenas de suministro a partir del punto de captura.
 
 ### CAPÍTULO SEGUNDO. El Consejo Estatal de Pesca y Acuacultura
 
@@ -561,7 +575,9 @@ j. Impulsar acciones para la formación de capital humano que se vincule con org
 
 k. Favorecer la creación de figuras organizativas para la promoción comercial de los productos pesqueros y acuícolas en los mercados nacional e internacional;
 
-l. Proporcionar asistencia técnica y capacitación a los grupos sociales organizados a fin de determinar el sistema de cultivo que mejor se adapte a sus localidades y necesidades, así como el tipo de actividad acuícola que les procure mayor bienestar; y
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+l. Proporcionar asistencia técnica y capacitación periódica gratuita a pescadores y acuicultores, vinculada a la actualización en materia de vedas, métodos permitidos, procedimientos de registro y trazabilidad del producto, como condición para mantener su inscripción en el Registro Estatal de Pesca y Acuacultura; y
 
 m. Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto acuícolas y pesqueros.
 
@@ -629,6 +645,10 @@ V. El Contribuir con las autoridades competentes para el establecimiento de medi
 
 Los permisos para alguna de las actividades señaladas en el artículo 41 de la Ley General se otorgarán de conformidad con lo dispuesto en el numeral 52 de la misma Ley, con excepción de las actividades acuícolas cuya finalidad sea el cultivo dulceacuícola, de peces de ornato y la acuacultura de traspatio, con sistemas de cultivo extensivos; las cuales, para su inicio únicamente se requerirá contar con inscripción en el Registro Estatal de Pesca y Acuacultura en los términos que disponga la presente Ley.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+Las personas físicas o morales que contraten pescadores, directa o indirectamente, sin cumplir con la normatividad de permisos, condiciones de seguridad e inscripción en el Registro Estatal, incurrirán en responsabilidad solidaria frente a actos de pesca ilegal.
+
 ## TÍTULO SÉPTIMO. DE LA PESCA
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
@@ -667,6 +687,10 @@ Las cantidades permitidas por pesquería o especie serán especificadas por la N
 
 La captura incidental en las pesquerías que se realizan en el Estado, se regulara conforme a lo dispuesto por el artículo 66 de la Ley General de Pesca y Acuacultura Sustentable.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+En caso de especies en veda capturadas incidentalmente, será obligatoria su liberación inmediata, documentando el hecho mediante bitácora de captura o notificación inmediata a la autoridad correspondiente. Su retención, comercialización o no reporte será sancionado como pesca ilegal.
+
 ## TÍTULO OCTAVO. DE LA LEGAL PROCEDENCIA
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
@@ -678,6 +702,14 @@ La captura incidental en las pesquerías que se realizan en el Estado, se regula
 La legal procedencia de los productos pesqueros y acuícolas, se acreditará con los avisos de arribo, de cosecha, de producción, de recolección, según corresponda, en los términos y con los requisitos que establezca esta Ley y demás disposiciones aplicables a la materia. Para las especies obtenidas al amparo de permisos de pesca deportivo-recreativa, la legal procedencia se comprobará con el permiso respectivo.
 
 Para la comercialización de los productos de la pesca y de la acuacultura, los comprobantes fiscales que se emitan deberán incluir el número de permiso o concesión respectiva.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+Todo establecimiento comercial que expenda o procese productos pesqueros o acuícolas deberá llevar un registro de trazabilidad, que incluya el número de permiso del proveedor, especie adquirida, fecha de compra, volumen y punto de origen. Este registro deberá conservarse por al menos un año y podrá ser solicitado por la autoridad competente en cualquier momento.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+Asimismo, no se deberá comercializar, ofertar o realizar la preparación de especies sujetas a veda dentro del territorio del Estado. En caso de existir autorización excepcional deberá contar con el permiso correspondiente y justificar la procedencia legal del producto. El incumplimiento será sancionado con multa y/o clausura temporal o definitiva según la gravedad de la falta, de conformidad con las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
@@ -985,6 +1017,14 @@ Son infracciones a lo establecido en la presente Ley, y disposiciones administra
 
 I. Realizar actividades de pesca deportivo-recreativa, sin contar con el permiso respectivo;
 
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+I Bis. Realizar la actividad de pesca, captura y caza en épocas y zonas de veda, así como comercializar y ofertar el producto de esta práctica;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+I Ter. Contratar a personas físicas y/o morales directa o indirectamente, para realizar la pesca en épocas y zonas de veda y sin que tengan los permisos necesarios, condiciones de seguridad o no cuenten con la inscripción en el Registro Estatal;
+
 II. Realizar actividades de acuacultura de autoconsumo, o pesca de consumo doméstico, sin cumplir con lo dispuesto en esta ley y sus disposiciones reglamentarias;
 
 III. Simular actos de pesca de consumo doméstico o de acuacultura de autoconsumo, con el propósito de comercializar el producto obtenido de la capturas;
@@ -1023,6 +1063,10 @@ IV. El carácter intencional o negligente de la conducta infractora, así como l
 
 V. El beneficio directamente obtenido por el infractor por los actos u omisiones que motiven la sanción;
 
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+VI. Si fue realizada con la participación de uno o más individuos; causando una responsabilidad solidaria.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 52.
@@ -1041,9 +1085,13 @@ La amonestación será por escrito y procederá aplicar a los infractores por pr
 
 La imposición de multas se determinará en la forma siguiente:
 
-I. De 10 a 50 días de salario mínimo general diario vigente en el Estado por las infracciones señaladas en las fracciones II, V, VI y VII del artículo 50 de esta Ley;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-II. De 50 a 100 días de salario mínimo general diario vigente en el Estado por las infracciones señaladas en las fracciones I, III, IV, VIII y IX del artículo 50 de esta Ley;
+I. De 10 a 50 Unidades de Medida y Actualización por las infracciones señaladas en las fracciones II, V, VI y VII del artículo 50 de esta Ley;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+II. De 50 a 100 Unidades de Medida y Actualización por las infracciones señaladas en las fracciones I, I Bis, I Ter, III, IV, VIII y IX del artículo 50 de esta Ley.
 
 En caso de reincidencia se duplicará el monto aplicado al infractor.
 
@@ -1055,9 +1103,9 @@ Son aplicables supletoriamente a este capítulo en cuanto a las sanciones admini
 
 Las sanciones administrativas a que se refiere el capítulo anterior se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones sean también constitutivos de delito, en los términos de las disposiciones que también sean aplicables y sin perjuicio de la responsabilidad ambiental que pudiera resultar.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-El Instituto de Pesca, para efectos de lo anterior, comunicará los hechos a la SEMABICCE y remitirá las constancias que obren en el expediente correspondiente a las sanciones administrativas para que proceda en consecuencia.
+El Instituto de Pesca, para efectos de lo anterior, comunicará los hechos a la SEMABICCE, así como a la FGR y remitirá las constancias que obren del hecho correspondiente, para que, ambas Dependencias procedan en consecuencia.
 
 Son responsables solidarios de las sanciones a que haya lugar, aquellas personas físicas o morales que intervienen en la preparación o realización de las infracciones contenidas en el artículo 50 de la presente Ley.
 
@@ -1130,3 +1178,23 @@ SEGUNDO.- En un plazo no mayor a noventa días contados a partir de la entrada e
 Asimismo, el Ejecutivo Estatal deberá realizar los cambios que considere pertinentes en los instrumentos jurídicos del marco normativo administrativo.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 142 POR EL QUE “SE ADICIONAN LAS FRACCIONES XI BIS Y XXVII AL ARTÍCULO 4; LA FRACCIÓN II BIS AL ARTÍCULO 8; UN PÁRRAFO TERCERO AL ARTÍCULO 16; UN PÁRRAFO SEGUNDO AL ARTÍCULO 22; UN PÁRRAFO SEGUNDO AL ARTÍCULO 27; LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 28; LAS FRACCIONES I BIS Y I TER AL ARTÍCULO 50; LA FRACCIÓN VI AL ARTÍCULO 51 Y, SE REFORMAN EL INCISO L) DE LA FRACCIÓN III DEL ARTÍCULO 19; LAS FRACCIONES I Y II DEL ARTÍCULO 53 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 54, TODOS DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado, por conducto del Instituto de Pesca y Acuacultura de Campeche, deberá, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente decreto, emitir las disposiciones administrativas necesarias para la implementación del Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal, conforme a lo previsto en el artículo 8, fracción II Bis.
+
+TERCERO. El Instituto de Pesca y Acuacultura de Campeche deberá establecer, en coordinación con las autoridades federales y municipales, los protocolos y lineamientos para la verificación de vedas en establecimientos comerciales y gastronómicos, así como para el seguimiento de cadenas de suministro, dentro de los ciento veinte días naturales posteriores a la entrada en vigor del presente decreto.
+
+CUARTO. Los establecimientos comerciales y gastronómicos contarán con un plazo de ciento veinte días hábiles a partir de la entrada en vigor del presente decreto para cumplir con las nuevas obligaciones relativas al registro de trazabilidad de productos pesqueros y acuícolas, en términos del artículo 28 de esta ley.
+
+QUINTO. Las personas físicas o morales que se dediquen a la contratación de pescadores tendrán un plazo de ciento veinte días naturales para regularizar su situación conforme a lo dispuesto en el párrafo segundo del artículo 22, especialmente en lo relativo al cumplimiento de permisos, medidas de seguridad y registro.
+
+SEXTO. El Instituto de Pesca y Acuacultura de Campeche, implementará, dentro de los seis meses siguientes a la entrada en vigor del presente decreto, un programa de capacitación obligatoria y permanente dirigido a pescadores y acuicultores inscritos en el Registro Estatal, sobre vedas, trazabilidad, legalidad y prácticas sustentables, como condición para mantener su inscripción, conforme a lo dispuesto en el artículo 19, fracción III, inciso l).
+
+SÉPTIMO. El Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, de la Secretaría de Desarrollo Agropecuario y del Instituto de Pesca y Acuacultura de Campeche, realizarán las adecuaciones presupuestarias y administrativas necesarias para dar cumplimiento a lo dispuesto en el presente decreto, priorizando la creación o fortalecimiento de las unidades de inspección, vigilancia y capacitación técnica en materia pesquera, de conformidad con su disponibilidad presupuestal.
+
+OCTAVO. Las sanciones establecidas en el presente decreto serán aplicables una vez transcurridos los plazos de adecuación señalados en los transitorios anteriores. En tanto, las autoridades competentes promoverán acciones de difusión, sensibilización y acompañamiento para garantizar el cumplimiento progresivo de las nuevas disposiciones.
