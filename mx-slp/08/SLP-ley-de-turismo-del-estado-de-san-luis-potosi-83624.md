@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2025-10-02"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -887,7 +887,9 @@ VIII. Los demás derechos reconocidos por las disposiciones federales y del Esta
 
 Se consideran obligaciones de los turistas:
 
-I. Observar las normas de higiene y convivencia social para la adecuada utilización de los servicios y el patrimonio turístico;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+I. Observar las normas de higiene para la preservación de la limpieza de las zonas y caminos turísticos, y su conservación de las áreas naturales, para una convivencia social y la adecuada utilización de los servicios y establecimientos turísticos, con el fin de proteger y conservar el patrimonio histórico, cultural y turístico;
 
 II. Abstenerse de cometer cualquier acto contrario a lo establecido en las leyes y reglamentos, así como propiciar conductas que puedan ser ofensivas o discriminatorias contra cualquier persona o comunidad;
 
@@ -895,7 +897,9 @@ III. Respetar los reglamentos de uso y régimen interior de los servicios turís
 
 IV. Efectuar el pago de los servicios prestados en el momento de la presentación de la factura o, en su caso, en el tiempo y lugar convenidos, sin que el hecho de presentar una reclamación o, queja exima del citado pago;
 
-V. Respetar el entorno natural y cultural de los sitios en que realice sus actividades turísticas; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+V. Respetar el entorno natural y cultural de los sitios en los que se realizan sus actividades turísticas, mediante la concientización de las personas que visitan los lugares naturales para un mayor cuidado del medio ambiente; y
 
 VI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -1630,3 +1634,11 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0292.- QUE REFORMA EL ARTÍCULO 69, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
