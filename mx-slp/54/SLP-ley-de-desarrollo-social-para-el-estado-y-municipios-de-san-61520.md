@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2025-10-02"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -637,6 +637,14 @@ Los programas estatal y municipales de desarrollo social, deberán contener lín
 
 Para la ejecución de programas sociales de desarrollo local, el Gobierno del Estado y los municipios asignarán los recursos humanos, técnicos y financieros necesarios, para lograr el fortalecimiento de las capacidades de las personas y las familias que conforman estas localidades; así como para fortalecer su infraestructura social y productiva.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+ARTICULO 32 BIS. Los municipios que, implementen programas sociales con al menos dos ejercicios fiscales de operación continua, podrán registrarlos como Programas Prioritarios Municipales ante el Sistema Estatal de Desarrollo Social. Dicho registro deberá ser renovado de manera anual.
+
+El registro otorgará reconocimiento formal, prioridad en el ejercicio del gasto social municipal y preferencia en la gestión de apoyos estatales y federales.
+
+La Secretaría de Desarrollo Social del Estado establecerá los lineamientos técnicos para dicho registro y evaluación, en coordinación con los ayuntamientos interesados.
+
 ###### ARTICULO 33.
 
 Las acciones del Sistema Estatal, y las de los municipios, en las localidades de atención prioritaria, tendrán como objeto:
@@ -1002,3 +1010,11 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0293.- QUE ADICIONA EL ARTÍCULO 32 BIS, A LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
