@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2025-05-31"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -1725,7 +1725,7 @@ II.- Estudios Parlamentarios, que contara con las siguientes áreas:
 
 a) Investigación legislativa;
 
-b) Evaluación presupuestaria;
+b) (DEROGADO, B.O. 22 DE OCTUBRE DE 2025)
 
 c) Investigación Social;
 
@@ -1733,9 +1733,17 @@ d) Elaboración de Proyectos;
 
 e) Archivo y Memoria Legislativa;
 
-III.- Enlace interinstitucional; y
+> <small>(REFORMADA, B.O. 22 DE OCTUBRE DE 2025)</small>
 
-IV.- Capacitación.
+III.- Enlace interinstitucional;
+
+> <small>(REFORMADA, B.O. 22 DE OCTUBRE DE 2025)</small>
+
+IV.- Capacitación, e
+
+> <small>(ADICIONADA, B.O. 22 DE OCTUBRE DE 2025)</small>
+
+V.- Impacto Presupuestario.
 
 Articulo 78
 
@@ -1794,6 +1802,52 @@ V.- Asistir a las reuniones de las comisiones para emitir su opinión en la disc
 VI.- Rendir los informes que le soliciten el director del instituto o el oficial mayor en relación a su desempeño como asesor parlamentario.
 
 VII.- Las demás que le fijen la Mesa Directiva del Congreso, la Junta de Gobierno y Coordinación Política o la Dirección del Instituto de Estudios Legislativos.
+
+> <small>(ADICIONADO, B.O. 22 DE OCTUBRE DE 2025)</small>
+
+Artículo 81 Bis
+
+La Unidad de Impacto Presupuestario del Congreso del Estado, será el órgano especializado de la Legislatura del Estado, que emitirá el dictamen de estimación de impacto presupuestario a que se refiere el segundo párrafo del artículo 16 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a las iniciativas de leyes o decretos que presenten las Diputadas y los Diputados y en su caso de las iniciativas ciudadanas que se presenten en los términos y con los requisitos que ordenan la Constitución Política del Estado Libre y Soberano de Baja California Sur, esta Ley y la Ley de Participación Ciudadana del Estado de Baja California Sur y tendrá las siguientes facultades y obligaciones:
+
+I.- Recibir las iniciativas que le turnen las Comisiones Permanentes o Especiales para la elaboración del Impacto Presupuestario correspondiente
+
+II.- Elaborar y entregar dentro de un plazo no mayor de 15 días a la Comisión Permanente o Especial que lo haya solicitado la estimación de impacto presupuestario, el Dictamen correspondiente, el cual deberá sujetarse a los Criterios Metodológicos para Estimar el Impacto Presupuestario de Iniciativas de Leyes o Decretos que apruebe la Junta de Gobierno y Coordinación Política.
+
+III.- En su caso solicitar a las autoridades responsables de la ejecución de las obligaciones que imponga la norma, Ley o Decreto, la información técnica y financiera necesaria para la elaboración del impacto presupuestario.
+
+IV.- Las demás que le confiera el Pleno o la Junta de Gobierno y Coordinación Política del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 22 DE OCTUBRE DE 2025)</small>
+
+Artículo 81 Ter
+
+La Unidad de Impacto Presupuestario contará con una persona coordinadora, quien será nombrada por el Pleno del Congreso del Estado a propuesta de la Junta de Gobierno y Coordinación Política, para ocupar el cargo por un periodo igual al de la duración de la legislatura que corresponda.
+
+La persona coordinadora podrá ser removida de su cargo cuando no cumpla las condiciones de subsistencia del acto administrativo de nombramiento que establece el Artículo 83 Quater de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 22 DE OCTUBRE DE 2025)</small>
+
+Artículo 81 Quater
+
+Para ser designado persona Coordinadora de la Unidad de Impacto Presupuestario, se requiere:
+
+I.- Ser de nacionalidad mexicana, en pleno ejercicio de sus derechos;
+
+II.- Tener, cuando menos, treinta años de edad cumplidos el día de la designación;
+
+III.- Poseer título expedido por autoridad o institución legalmente facultada para ello, así como cedula profesional, preferentemente en las licenciaturas de economía, administración pública, finanzas, contabilidad o carrera afín directamente vinculadas con la administración o finanzas públicas;
+
+IV.- Tener experiencia profesional de por lo menos cinco años al día de su nombramiento; y
+
+V.- Gozar de buena reputación.
+
+> <small>(ADICIONADO, B.O. 22 DE OCTUBRE DE 2025)</small>
+
+Artículo 81 Quinquies
+
+La Unidad de Impacto Presupuestario contará con el personal estrictamente necesario para el cumplimiento de sus atribuciones y facultades el cual será determinado por la Junta de Gobierno y Coordinación Política del Congreso del Estado y acorde al Presupuesto del Poder Legislativo de Baja California Sur.
+
+La estructura orgánica y funcional de la Unidad será objeto de los Manuales de Organización y de Procedimientos que para el efecto se emitan por la Junta de Gobierno y Coordinación Política del Congreso del Estado.
 
 ### CAPITULO DÉCIMO TERCERO. DE LA DIRECCION DE COMUNICACION SOCIAL Y RELACIONES PÚBLICAS
 
@@ -2106,6 +2160,16 @@ IV.- Al Tribunal Superior de Justicia en su ramo; y
 V.- Los ciudadanos del Estado registrados en la lista nominal de electores, mediante escrito presentado en los términos y con las formalidades que exija la ley de la materia y la presente Ley determine.
 
 Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas dentro del término de treinta días naturales siguientes, contados a partir del día en que hubieren sido turnados por la Directiva a la Comisión correspondiente.
+
+> <small>(ADICIONADO, B.O. 22 DE OCTUBRE DE 2025)</small>
+
+Artículo 100 Bis
+
+La Persona titular del Poder Ejecutivo del Estado, los Ayuntamientos y el Tribunal Superior de Justicia deberán acompañar a las iniciativas que presenten ante el Congreso del Estado la estimación de impacto presupuestario a que se refiere el artículo 16 segundo párrafo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Si se omitiere este requisito, se tendrá la iniciativa por presentada, pero no se contará el término para su dictaminación sino hasta que sea subsanada la omisión, para estos efectos la comisión o comisiones que le corresponda el conocimiento de la iniciativa, requerirá al iniciador para que envíe la estimación de impacto presupuestario que corresponda.
+
+Los Poderes Ejecutivo y Judicial del Estado, los Ayuntamientos y los organismos públicos autónomos, que expresamente reconoce la Constitución Política del Estado de Baja California Sur, deberán coadyuvar, colaborar y/o facilitar a la Unidad de Impacto Presupuestario la información técnica y financiera que sea necesaria para la elaboración de la estimación de impacto presupuestario a que se refiere el segundo párrafo del artículo 16 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 Articulo 101
 
@@ -3314,3 +3378,29 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 Artículo Segundo. La Comisión de Transparencia y Anticorrupción en un plazo no mayor de cuarenta y cinco días siguientes a la entrada en vigor del presente decreto deberá presentar el proyecto de “Lineamientos de Parlamento Abierto del Poder Legislativo del Estado de Baja California Sur", a la Junta de Gobierno y Coordinación Política, órgano de gobierno que deberá aprobarlos y expedirlos en un plazo no mayor a treinta días hábiles.
 
 Artículo Tercero. Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
+
+B.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3152 SE DEROGA EL INCISO C) DE LA FRACCIÓN II DEL ARTÍCULO 77 Y ADICIONAN UNA FRACCIÓN V AL ARTÍCULO 77, LOS ARTÍCULOS 81 BIS, 81 TER, 81 QUATER, 81 QUINQUIES Y 100 BIS A LA LEY DE (SIC) ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso del Estado de Baja California Sur a propuesta de la Junta de Gobierno y Coordinación Política dentro de los 15 días naturales siguientes a la entrada en vigor del presente Decreto, deberá elegir a la persona coordinadora de la Unidad de Impacto Presupuestario.
+
+La Unidad de Impacto Presupuestario entrara en funciones dentro de los 10 días hábiles siguientes a la designación de su persona coordinadora.
+
+TERCERO.- Al día siguiente de la entrada en vigor el (sic) presente Decreto, la Oficialía Mayor a través del Departamento de Recursos Humanos, llevara a cabo un análisis del personal activo para efectos de detectar al recurso humano que cumpla con los perfiles para integrarse a la Unidad de Impacto Presupuestario que prevé este Decreto.
+
+La readscripción del personal que integrara la Unidad deberá realizarse con la debida anticipación a su entrada en funciones. La readscripción no afectara los derechos laborales de la persona que se objetó de adscripción a la Unidad mencionada.
+
+El personal con que cuente la Unidad de Impacto Presupuestario se integrará preferentemente con los recursos humanos que actualmente prestan sus servicios preferentemente en el Poder Legislativo, por lo que en la medida de lo posible se evitara realizar contrataciones para para (sic) tal fin.
+
+CUARTO.- La persona coordinadora de la Unidad de Impacto Presupuestario deberá presentar a la Junta de Gobierno y Coordinación Politica dentro de un plazo no mayor de 30 días hábiles siguientes a la entrada en funciones de la Unidad, los proyectos de:
+
+a) Criterios metodológicos para estimar el impacto presupuestario, y
+
+b) Manuales de organización y de procedimientos internos de la Unidad.
+
+Dichos instrumentos normativos serán sometidos para su aprobación al Pleno del Congreso del Estado del Estado (sic) de Baja California Sur por conducto de la Junta de Gobierno y Coordinación Política.
+
+QUINTO.- Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas de que se ocupa el presente Decreto.
