@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-170965
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-10-07"
-last_updated: "2024-12-11"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Estatuto publicado en el Número 5867 del Periódico Oficial del Estado de Morelos, el miércoles 7 de octubre de 2020.
 
@@ -303,7 +303,17 @@ XXV. Celebrar Contratos y Convenios, previa autorización del Órgano de Gobiern
 
 XXVI. Participar ante los organismos y foros regionales, estatales, nacionales e internacionales a efecto de promover una cultura de prevención y combate a la corrupción y de fiscalización y control de recursos públicos; y
 
-XXVII. Las que señalen las diversas Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables, así como todas aquellas que requiera para el cumplimiento de sus fines y en auxilio del Órgano de Gobierno.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XXVII. Señalar plazos y términos, a efecto de ejecutar y dar seguimiento a los acuerdos, determinaciones y/o resoluciones del Comité Coordinador y Órgano de Gobierno del Sistema Anticorrupción del Estado de Morelos, así como para los trabajos propios de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XXVIII. Emitir el oficio de liberación en cumplimiento del servicio social, así como de las prácticas profesionales, que hagan las o los alumnos, de las diferentes instituciones educativas a nivel medio superior y superior.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XXIX.- Las que señalen las diversas Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables, así como todas aquellas que requiera para el cumplimiento de sus fines y en auxilio del Órgano de Gobierno.
 
 ###### ARTÍCULO 17.
 
@@ -748,3 +758,9 @@ PRIMERO. La presente adición entrará en vigor a partir de su aprobación por p
 SEGUNDO. Publíquese la presente adición en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERO. Se instruye a la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Morelos, realizar la inscripción del presente acuerdo en el Registro Público de los Organismos Descentralizados del Poder Ejecutivo del Gobierno del Estado de Morelos.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA MODIFICACIÓN AL ARTÍCULO 16 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+ÚNICO.- El presente acuerdo entra en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
