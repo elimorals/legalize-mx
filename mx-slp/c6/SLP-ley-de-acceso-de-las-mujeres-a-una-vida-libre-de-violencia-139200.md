@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2025-06-23"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -89,11 +89,19 @@ V. Empoderamiento: el proceso mediante el cual las mujeres transitan de cualquie
 
 VI. Equidad: el principio que busca alcanzar la justicia social con responsabilidad, mediante la valoración de la individualidad, considerando las diferencias existentes entre personas y grupos, para establecer mecanismos que les permitan alcanzar la igualdad, desde sus diversas circunstancias y características;
 
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+VI Bis. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
+
 VII. Igualdad: el principio que establece el acceso a las garantías, oportunidades, bienes, servicios y demás derechos constitucionales y legales, sin discriminación por condiciones de sexo, edad, estado civil, religión, idioma, raza, preferencia sexual, estado de salud, o cualesquiera otra situación de las personas;
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2025)</small>
 
 VII Bis. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+VII Ter. Interseccionalidad: Es una herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
 
@@ -131,9 +139,9 @@ I. Violencia contra el derecho a la libre elección de cónyuge o pareja: toda a
 
 II. Violencia contra los derechos reproductivos: toda acción u omisión que limite o vulnere el derecho de las mujeres a obtener información y educación sobre salud y derechos sexuales y reproductivos, a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, así como a servicios obstétricos de emergencia;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-III. Violencia digital: los actos de, acoso, hostigamiento, amenazas, insultos, vulneración de datos e información privada, divulgación de información apócrifa, mensajes de odio, difusión de contenido sexual sin consentimiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de tecnologías de la información y la comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital, y atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada, o vulnere algún derecho humano de las mujeres;
+III. Violencia digital: cualquier acto de acoso, hostigamiento, amenazas, insultos, intimidación, vulneración de datos e información privada, divulgación de información apócrifa, mensajes de odio, así como la difusión, distribución, trasmisión, comercialización de contenido sexual sin consentimiento, incluyendo textos, fotografías, videos, datos personales u otras representaciones gráficas o sonoras, ya sean auténticas o alteradas, realizado a través de tecnologías de la información y comunicación, plataformas de internet, inteligencia artificial, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital, que atente contra la integridad, dignidad, intimidad, libertad, vida privada o cualquier derecho humano de las mujeres.
 
 IV. Violencia docente: las conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, étnica, académica, limitaciones o características físicas, que les infligen maestras o maestros. Lo es también la estigmatización y sexismo al orientar a las alumnas a elegir y cursar carreras con base en estereotipos de género;
 
@@ -160,6 +168,10 @@ IX. Violencia física: cualquier acto material, no accidental, que inflige daño
 X. Violencia Institucional: actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. También constituirá violencia institucional cuando los órganos de procuración y administración de justicia emitan resoluciones o que contengan prejuicios basados en el género, patrones estereotipados de comportamiento o prácticas sociales y culturales fundadas en conceptos de inferioridad de las mujeres o de subordinación a los hombres;
 
 XI. Violencia laboral: la negativa ilegal a contratar a la víctima, o a respetar su permanencia, sus oportunidades de ascenso, la posibilidad de mejorar su sueldo, de obtener igual salario por igual trabajo o las condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la imposición de requisitos sexistas en la forma de vestir, la exclusión de género en ciertos cargos por la edad, la solicitud o requerimiento de presentar certificado médico de no embarazo para el ingreso, permanencia o ascenso en el empleo o para el ejercicio o disfrute de cualquier otro derecho laboral, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, la explotación y todo tipo de discriminación por condición de género;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XI Bis. Violencia mediática: es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida. La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad;
 
 XII. Violencia obstétrica: es todo abuso, acción u omisión intencional, negligente y dolosa que lleve a cabo el personal de salud, de manera directa o indirecta, que dañe, denigre, discrimine, o de un trato deshumanizado a las mujeres durante el embarazo, parto o puerperio; que tenga como consecuencia la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad. Puede expresarse en:
 
@@ -243,13 +255,41 @@ XV. Violencia psicológica: todo acto u omisión que daña la estabilidad psicol
 
 XVI. Violencia sexual: cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima, o ambas, que atenta contra su libertad, dignidad, seguridad sexual e integridad física, que implica el abuso de poder y la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto. Puede expresarse en:
 
-a) Acoso sexual: es una forma de violencia en la que existe una subordinación de género que deriva en un ejercicio abusivo de poder que la asedia, acosa, o le demanda actos de naturaleza sexual con fines lascivos, y que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-b) Hostigamiento sexual: es el ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en los ámbitos laboral y/o escolar. Se expresa en conductas verbales o no verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva, y
+a) Acoso sexual: es una forma de violencia en la que existe una subordinación de género que deriva en un ejercicio abusivo de poder que la asedia, acosa, o le demanda actos de naturaleza sexual con fines lascivos, y que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos. Incluye de forma enunciativa, más no limitativa, diferentes formas de actos expresivos, verbales, físicos, persecución y/o exhibicionismo, con naturaleza sexual o bien con connotaciones lascivas, realizados sin consentimiento, en espacios públicos o privados.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+b) Hostigamiento sexual: es el ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en los ámbitos laboral y/o escolar. Se expresa en conductas verbales o no verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+c) El acoso sexual en espacios públicos es una forma de violencia, que conlleva un abuso de poder respecto de la víctima, sin que medie relación alguna con la persona agresora. Se manifiesta, a través de una conducta física o verbal de connotación sexual no consentida ejercida sobre una o varias personas, en espacios y medios de transporte públicos, cuya acción representa una vulneración a los derechos humanos.
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-XVI BIS. Violencia vicaria: las acciones de violencia ejercida sobre las hijas e hijos de la mujer, con el objetivo de causarle daño, realizadas por una persona agresora que tenga o haya tenido una relación de matrimonio, concubinato, o se mantenga o hayan mantenido una relación de hecho, pudiendo consistir la violencia en cualquiera de las modalidades que reconoce esta ley, incluyendo la sustracción ilegal de los hijos e hijas del hogar de la madre, y cualquiera otra dirigida a dañar a la mujer a través del daño a sus hijos e hijas, y
+XVI Bis. Violencia vicaria: las acciones de violencia ejercida sobre las hijas e hijos de la mujer, con el objetivo de causarle daño, realizadas por una persona agresora que tenga o haya tenido una relación de matrimonio, concubinato, o se mantenga o hayan mantenido una relación de hecho, pudiendo consistir la violencia en cualquiera de las modalidades que reconoce esta ley, incluyendo la sustracción ilegal de los hijos e hijas del hogar de la madre, y cualquiera otra dirigida a dañar a la mujer a través del daño a sus hijos e hijas, y
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 22 DE OCTUBRE DE 2025)</small>
+
+Se manifiesta a través de diversas conductas, entre otras:
+
+a) Amenazar con causar daño a las hijas e hijos.
+
+b) Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia.
+
+c) Utilizar a las hijas e hijos para obtener información respecto de la madre.
+
+d) Promover, incitar o fomentar actos de violencia física de hijas e hijos en contra de la madre.
+
+e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial.
+
+f) Ocultar, retener o sustraer a hijas e hijos, así como a familiares o personas allegadas.
+
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas e hijos en común.
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos.
 
 XVII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
@@ -325,9 +365,9 @@ XII. Acceder a procedimientos expeditos y accesibles de procuración e impartici
 
 XIII. No ser revictimizadas;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-XIV. Acceder a la atención integral, intercultural, multidiciplinaria (sic), trasversal y bajo el mismo techo en los centros de justicia para las mujeres
+XIV. Acceder a la atención integral, intercultural, interseccional, multidisciplinaria, transversal y bajo el mismo techo en los centros de justicia para las mujeres;
 
 XV. Recibir información en su idioma o lengua materna sobre sus derechos y el progreso de los trámites judiciales y administrativos, y
 
@@ -361,9 +401,11 @@ Asimismo, a través de sus áreas competentes, difundirán en los diversos medio
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 13.
 
-Los modelos de atención, prevención y sanción que establezcan el Estado y los municipios, consistentes en las medidas y acciones para proteger a las víctimas de violencia familiar, deberán orientarse a garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos.
+Los modelos de atención, prevención y sanción que establezcan el Estado y los municipios, consistentes en las medidas y acciones para proteger a las víctimas de violencia familiar, deberán orientarse a garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, interculturalidad y enfoque diferenciado.
 
 Al efecto, el Estado y los municipios, a través de sus dependencias y entidades competentes, tendrán las siguientes atribuciones:
 
@@ -739,9 +781,9 @@ IV. Formular las bases para la coordinación del Sistema Estatal con los Sistema
 
 V. Desarrollar acciones y programas orientados a fomentar la cultura del respeto a la igualdad y los derechos humanos de las mujeres;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-VI. Diseñar, con una visión transversal y con perspectiva de género, la política integral en materia de seguridad pública orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+VI. Diseñar, con una visión transversal y con perspectiva de género e interseccionalidad, la política integral en materia de seguridad pública orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 > <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2023)</small>
 
@@ -879,9 +921,9 @@ El Centro de Justicia para las Mujeres llevará a cabo las funciones que le corr
 
 Corresponde a la Fiscalía General del Estado:
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-I. Capacitar a la Policía Investigadora, fiscales del Ministerio Publico, peritos, y a todo el personal encargado de la procuración de justicia para atender, con perspectiva de género, interculturalidad; con pleno respeto a los derechos humanos de las mujeres, y de conformidad con los protocolos especializados, los casos de violencia contra las mujeres evaluando permanentemente su desempeño;
+I. Capacitar a la Policía Investigadora, fiscales del Ministerio Público, peritos, y a todo el personal encargado de la procuración de justicia para atender, con perspectiva de género, interculturalidad e interseccionalidad; con pleno respeto a los derechos humanos de las mujeres, y de conformidad con los protocolos especializados, los casos de violencia contra las mujeres.
 
 II. Establecer un área específica especializada en la atención de delitos que impliquen violencia contra las mujeres;
 
@@ -1061,7 +1103,7 @@ II. Los jueces de primera instancia;
 
 III. Los jueces familiares;
 
-IV. Los jueces menores;
+IV. (DEROGADA, P.O. 22 DE OCTUBRE DE 2025)
 
 V. El Consejo Estatal Electoral y de Participación Ciudadana, y
 
@@ -1231,9 +1273,19 @@ XVIII. Prohibición a la persona agresora de intimidar o molestar por si, por cu
 
 XIX. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña en situación de violencia;
 
-XX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-XXI. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
+XX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XXI. Solicitar a la autoridad jurisdiccional competente, la suspensión del régimen de tutela o curatela que ejerza la persona agresora, sobre la víctima;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XXII. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas e/o hijos menores de 18 años que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre, y
+
+XXIII. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
 
 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público, o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
 
@@ -1287,9 +1339,19 @@ X. La obligación de la persona agresora de presentarse periódicamente ante el 
 
 XI. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
 
-XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
-XIII. Las demás que se requieran para brindar una protección a la víctima.
+XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XIV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, y
+
+XV. Las demás que se requieran para brindar una protección a la víctima.
 
 ###### ARTÍCULO 40.
 
@@ -1304,6 +1366,10 @@ Tratándose de servidores públicos, requerir al órgano de control interno, o V
 III. Reubicar al agresor en otras áreas de trabajo cuando esto sea posible, y de continuar esa conducta determinar la separación definitiva, de conformidad a la ley aplicable.
 
 Cuando se tenga conocimiento de la posible comisión de actos de violencia de género por funcionarios de primer nivel, al interior de las instituciones públicas de Gobierno del Estado, la Secretaría General de Gobierno, llevará a cabo las acciones que resulten necesarias para procurar la protección provisional de la víctima, hasta en tanto se resuelva el procedimiento de sanción correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 40 BIS. En los casos de violencia digital o mediática, para garantizar la integridad, dignidad, seguridad y derechos de la víctima, la o el Ministerio Público, la jueza o el juez dictarán de manera inmediata las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley. La autoridad competente deberá identificar plenamente al proveedor de servicios en línea responsable de la administración de la plataforma, aplicación, sitio web o sistema informático donde se aloje el contenido, así como la ubicación exacta del material en internet, incluyendo, de ser necesario, enlaces o referencias específicas. La autoridad que dicte la medida de protección deberá solicitar, cuando así proceda, el resguardo y conservación del contenido denunciado, garantizando su integridad y licitud como medio de prueba, conforme a las características técnicas del caso. Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas deberán notificar de forma inmediata al usuario que haya compartido el contenido, señalando de manera clara que dicho material ha sido inhabilitado o eliminado en cumplimiento de una orden judicial. Dentro de los cinco días hábiles posteriores a la imposición de las medidas de protección, se deberá celebrar una audiencia en la que la o el juez de control resolverá sobre la cancelación, ratificación o modificación de las medidas, considerando la información disponible, la gravedad del daño causado y su irreparabilidad.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
@@ -1485,9 +1551,11 @@ Quien haya ejercido violencia contra las mujeres deberá participar obligatoriam
 
 ### CAPÍTULO II. REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 49.
 
-Corresponde a los refugios, desde la perspectiva de género:
+Corresponde a los refugios, desde la perspectiva de género con un enfoque interseccional:
 
 I. Aplicar el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
@@ -1501,7 +1569,9 @@ V. Proporcionar a las mujeres víctimas de violencia y a sus menores hijas e hij
 
 VI. Otorgar la atención legal necesaria, tanto de información sobre sus derechos y opciones de atención y asistencia, y dar seguimiento a los trámites legales que se inicien, con pleno respeto a la voluntad de las mujeres víctimas de violencia;
 
-VII. Contar con el personal debidamente capacitado, especializado en la materia y remunerado, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+VII. Contar con el personal debidamente capacitado, especializado en la materia con un enfoque interseccional y remunerado, y
 
 VIII. Todas aquéllas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
 
@@ -1808,6 +1878,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0291.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
