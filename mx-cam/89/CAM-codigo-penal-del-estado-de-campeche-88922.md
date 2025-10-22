@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-07-09"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2283,7 +2283,7 @@ VI. Cuando se cometa por quien haya sido o sea miembro de algún cuerpo de segur
 
 VII. Cuando recaiga sobre material, infraestructura o parte de ésta, que proporcione suministro de agua, energía eléctrica o cualquier otro servicio público o privado;
 
-VIII. Cuando recaiga sobre embarcaciones, motores o redes, destinados a la actividad pesquera o acuícola; y
+VIII. (DEROGADA, P.O. 22 DE OCTUBRE DE 2025)
 
 IX. Cuando recaiga sobre componente o mobiliario del equipamiento urbano e infraestructura vial y urbana del Estado y/o los Municipios.
 
@@ -2291,17 +2291,23 @@ Se entenderá por equipamiento urbano el conjunto de inmuebles, instalaciones, c
 
 Se entenderá por infraestructura vial y urbana la pavimentación de calles y avenidas; el mantenimiento de vías; la construcción y rehabilitación de la red de agua potable; urbanización; ciclovías; puentes; alumbrado público; drenaje y alcantarillado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2025)</small>
 
-C) Se aumentarán de dos a nueve años de prisión, en el siguiente caso:
+C) Se aumentarán de uno a cuatro años de prisión, en los siguientes casos:
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+I. Cuando se cometa en instalaciones acuícolas, de almacenamiento, procesamiento o transportación de los productos acuícolas o pesqueros;
+
+II. Cuando recaiga sobre implementos o infraestructura de producción acuícola; y
+
+III. Cuando recaiga sobre embarcaciones, motores o redes, destinados a la actividad pesquera o acuícola.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 22 DE OCTUBRE DE 2025)</small>
+
+D) Se aumentarán de dos a nueve años de prisión, en el siguiente caso:
 
 I. Cuando recaiga sobre bienes de instituciones educativas, sean públicas o privadas de nivel básico, medio o superior, centros de investigación, espacios culturales o científicos y museos.
 
 En caso de reincidencia se aumentará en una tercera parte la sanción que corresponda.
-
-> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN I], P.O. 31 DE MARZO DE 2025)</small>
 
 El delito previsto en la presente fracción, se perseguirá de oficio.
 
@@ -5536,3 +5542,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor de presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 141 POR EL QUE "SE DEROGA LA FRACCIÓN VIII DEL INCISO B); SE REFORMA EL INCISO C) Y, SE ADICIONA EL INCISO D) DEL ARTÍCULO 193 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
