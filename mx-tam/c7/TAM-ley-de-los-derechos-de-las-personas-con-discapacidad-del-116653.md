@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2023-09-05"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -575,7 +575,9 @@ XI.- Establecer servicios de información, orientación, atención y tratamiento
 
 XII.- Crear programas de orientación, educación, y rehabilitación sexual y reproductiva para las personas con discapacidad y sus familias;
 
-XIII.- Incorporar de forma gratuita al Seguro Popular, a la población con discapacidad; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+XIII.- Incorporar de forma gratuita al IMSS-BIENESTAR, a la población con discapacidad, así como a los sistemas y programas que garanticen su acceso efectivo, continuo y universal a la atención médica; y
 
 XIV.- Desarrollar y asegurar la prestación de los servicios de salud, habilitación y rehabilitación integral a las personas con discapacidad. Esto incluye asistencia y servicios interinstitucionales, que permita a las personas con discapacidad temporal o permanente su inclusión al desarrollo.
 
@@ -1512,3 +1514,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La implementación de las reformas contenidas en el presente Decreto se aplicará en el Presupuesto de Egresos del ejercicio fiscal de 2024.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-474 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 30, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
