@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-movilidad-y-seguridad-vial-del-estado-de-campeche-167283
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-28"
-last_updated: "2025-05-13"
+last_updated: "2025-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 28 de julio de 2023.
 
@@ -1439,6 +1439,10 @@ El registro e inscripción de los vehículos de transporte particular, así como
 
 Las autoridades correspondientes podrán emitir placas de matrícula y/o distintivo oficial para identificar vehículos de características específicas o que brinden un servicio especial, como vehículos para personas con discapacidad o vehículos con tecnologías sustentables, dígase híbridos o eléctricos, para estos últimos una placa de matrícula verde.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+
+En todos los casos, las placas de matrícula deberán colocarse en el espacio destinado por el fabricante del vehículo para ello y deberán estar visibles en todo momento; cuando el vehículo no cuente con dichos espacios, la persona propietaria o poseedora deberá realizar las adecuaciones necesarias para instalar las placas metálicas en un lugar visible al exterior del vehículo, en las posiciones previstas por la normatividad aplicable, garantizando su visibilidad e identificación permanente.
+
 ###### Artículo 105.
 
 El Estado, a través de la Secretaría de Protección y Seguridad Ciudadana, expedirá la Licencia de Conducir, posterior a la debida acreditación de contar con los conocimientos en materia de movilidad, con énfasis en la jerarquía establecida en la presente Ley, y en específico de las materias que componen el tránsito, así como su aptitud física, mental, pericia y de coordinación motriz, para el manejo de vehículos y cumpliendo con los requisitos determinados de acuerdo a las modalidades que se establezcan en la reglamentación correspondiente. Dicho documento deberá portarse al momento de conducir.
@@ -2426,3 +2430,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El Poder Ejecutivo del Estado y los Municipios contarán con un plazo de 90 días hábiles para realizar las modificaciones a las disposiciones reglamentarias relacionadas con la materia del presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo contenido del presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 143 POR EL QUE "SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 104 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios contarán con un plazo de 60 días hábiles para realizar las modificaciones a las disposiciones reglamentarias relacionadas con la materia de este decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
