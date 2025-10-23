@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2025-04-06"
+last_updated: "2025-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -1256,6 +1256,14 @@ XI. Protegerlos de toda forma de malnutrición o alimentación deficiente.
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
 
 XII. Educar y supervisar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XIII. Evitar promover e inculcar expresiones, posturas, códigos de vestimenta, inclinación a tendencias musicales o audio visuales, o cualquier otra manifestación o comportamiento, que pretenda exaltar la imagen corporal sexualizada de niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XIV. Evitar facilitar o brindar juguetes, ropa, accesorios o cualquier otro objeto, cuyo uso exalte la imagen corporal de forma sexualizada de las niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2021)</small>
 
@@ -2496,3 +2504,11 @@ P.O. 6 DE ABRIL DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 202 CONTIENE ADICIONES AL ARTÍCULO 63 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE HIPERSEXUALIZACIÓN INFANTIL”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
