@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transportes-para-el-estado-de-durango-25645"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-13"
-last_updated: "2025-07-06"
+last_updated: "2025-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 13 de junio de 2002.
 
@@ -453,9 +453,15 @@ XXIX. Suspender y remover a los delegados regionales, al personal directivo, ope
 
 XXX. Delegar facultades a los delegados regionales, al personal directivo, operativo y administrativo de la Subsecretaría que resultan necesarias para el ejercicio de sus funciones;
 
-XXXI. Vigilar el adecuado funcionamiento de las Direcciones de Movilidad y de Transportes; buscando que los servidores públicos subalternos desempeñen sus funciones con apego a las políticas de transparencia, eficacia y eficiencia; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-XXXII. Vigilar la exacta observancia de la presente Ley, su Reglamento y demás disposiciones de carácter general en materia de movilidad y transporte público aplicables.
+XXXI. Vigilar el adecuado funcionamiento de las Direcciones de Movilidad y de Transportes; buscando que los servidores públicos subalternos desempeñen sus funciones con apego a las políticas de transparencia, eficacia y eficiencia;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XXXII. Promover el acceso de las personas adultas mayores y de las mujeres a un transporte público de calidad, seguro y eficiente, fomentando acciones orientadas a prevenir y eliminar la violencia de género y el acoso sexual; y
+
+XXXIII. Vigilar la exacta observancia de la presente Ley, su Reglamento y demás disposiciones de carácter general en materia de movilidad y transporte público aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
@@ -821,9 +827,15 @@ XIV. Otorgar a los estudiantes de cualquier grado, así como a los adultos mayor
 
 XIV BIS. En caso de declaratoria general de emergencia sanitaria, que restrinja el libre tránsito, el personal de salud, sanitario y de emergencia, tendrán prioridad de desplazamiento a sus centros laborales y domicilios; para ello impulsarán la creación de programas, rutas o modalidades para prestar sus servicios de manera gratuita durante la emergencia.
 
-XV. Proporcionar a la autoridad los informes y documentos técnicos o estadísticos que le solicite para conocer y evaluar la forma de prestación del servicio; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-XVI. Las demás obligaciones que determine la presente Ley, su Reglamento y otras disposiciones aplicables.
+XV. Proporcionar a la autoridad los informes y documentos técnicos o estadísticos que le solicite para conocer y evaluar la forma de prestación del servicio;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XVI. Destinar asientos de uso prioritario para las personas adultas mayores y mujeres, ubicados en lugares próximos al acceso de la unidad de transporte público, resaltando claramente estas áreas por medio de señalamientos y procurando su incremento durante las horas de mayor afluencia de pasajeros; y
+
+XVII. Las demás obligaciones que determine la presente Ley, su Reglamento y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
@@ -1948,6 +1960,14 @@ DÉCIMO. Se derogan todas las disposiciones legales y administrativas que se opo
 P.O. 6 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 179 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 199 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
