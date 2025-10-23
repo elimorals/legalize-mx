@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prestacion-del-servicio-publico-de-panteones-en-319
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-20"
-last_updated: "2021-12-21"
+last_updated: "2025-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA LA PRESTACION DEL SERVICIO PUBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 20 de mayo de 2003.
 
@@ -251,19 +251,27 @@ II.- Para féretros de tamaño normal de adulto se emplearán encortinados de ta
 
 III.- Para féretros de tamaño normal de adulto y empleando taludes de tierra, serán de 2.00 metros de largo por 1.00 metro de ancho por 1.50 metros de profundidad, contada ésta a partir del nivel de la calle o andador adyacente, con una separación de 0.50 metros entre cada fosa;
 
-IV.- Para féretros de menores empleando encortinados de tabiques de 14 centímetros de espesor o bloques, serán de 1.25 metros de largo por 0.80 metros de ancho por 1.30 metros de profundidad, contada ésta desde el nivel de la calle o andador adyacente, con una separación de 0.50 metros entre cada fosa; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-V.- Para féretro de menores empleando taludes de tierra, serán de 1.00 metro de largo por 0.70 metros de ancho por 1.30 metros de profundidad, contada ésta desde el nivel de la calle o andador adyacente, con una separación de 0.50 metros entre cada fosa.
+IV.- Para féretros de embriones, fetos y personas menores, empleando encortinados de tabiques de 14 centímetros de espesor o bloques, serán de 1.25 metros de largo por 0.80 metros de ancho por 1.30 metros de profundidad, contada ésta desde el nivel de la calle o andador adyacente, con una separación de 0.50 metros entre cada fosa; y
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+V.- Para féretro de embriones, fetos y personas menores empleando taludes de tierra, serán de 1.00 metro de largo por 0.70 metros de ancho por 1.30 metros de profundidad, contada ésta desde el nivel de la calle o andador adyacente, con una separación de 0.50 metros entre cada fosa.
 
 ###### ARTÍCULO 18.
 
 Los señalamientos, lápidas o mausoleos que se coloquen en los panteones a cargo de los Ayuntamientos, quedarán sujetos a las especificaciones técnicas que señalen las áreas de Obras y Servicios Públicos Municipales, de acuerdo con las siguientes reglas:
 
-I.- En los nuevos panteones, sólo se permitirá un señalamiento horizontal de 90 x 60 centímetros para adulto y de 60 x 40 centímetros para menores, y si se desea, con una jardinera empotrada en el ángulo inferior derecho;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+I.- En los nuevos panteones, sólo se permitirá un señalamiento horizontal de 90 x 60 centímetros para personas adultas y de 60 x 40 centímetros para embriones, fetos y personas menores y si se desea, con una jardinera empotrada en el ángulo inferior derecho;
 
 II.- En las fosas para adulto bajo el régimen de temporalidad máxima, sólo se permitirá un señalamiento de guarnición de 2.00 metros por 1.00 metro y con altura máxima de 0.30 metros, siempre y cuando las condiciones del terreno lo permitan, sustentado por una plantilla de 2.40 metros por 1.40 metros;
 
-III.- En las fosas para menores bajo el régimen de temporalidad máxima, sólo se permitirá un señalamiento de 1.35 metros por 0.90 metros y con altura máxima de 0.30 metros;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+III.- En las fosas para embriones, fetos y personas menores bajo el régimen de temporalidad máxima, sólo se permitirá un señalamiento de 1.35 metros por 0.90 metros y con altura máxima de 0.30 metros;
 
 IV.- En las fosas bajo el régimen de temporalidad mínima, sólo se permitirá la colocación de un señalamiento horizontal o de un señalamiento de guarnición; y
 
@@ -423,9 +431,11 @@ IV.- Caso fortuito o causa de fuerza mayor.
 
 Los cadáveres o restos humanos deberán inhumarse, incinerarse o embalsamarse entre las doce y cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la autoridad sanitaria competente ó por disposición del Ministerio Público, o de la autoridad judicial.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 47.
 
-Los cadáveres deberán permanecer en las fosas seis años si son adultos y cinco si son menores, siempre que el fallecimiento no haya sido causado por enfermedad transmisible. En este caso, la autoridad sanitaria señalará el término que habrá de permanecer el cadáver en su fosa, tomando en cuenta la enfermedad que haya originado la defunción.
+Los cadáveres deberán permanecer en las fosas seis años si son personas adultas y cinco si son embriones, fetos y personas menores, siempre que el fallecimiento no haya sido causado por enfermedad transmisible. En este caso, la autoridad sanitaria señalará el término que habrá de permanecer el cadáver en su fosa, tomando en cuenta la enfermedad que haya originado la defunción.
 
 ###### ARTÍCULO 48.
 
@@ -724,6 +734,14 @@ El presente Decreto entrará en vigor a los ciento ochenta días siguientes al d
 P.O. 21 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-89 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS; DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, Y DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-523 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 17; I Y III, DEL ARTÍCULO 18; Y EL ARTÍCULO 47, DE LA LEY PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS; Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 29 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
