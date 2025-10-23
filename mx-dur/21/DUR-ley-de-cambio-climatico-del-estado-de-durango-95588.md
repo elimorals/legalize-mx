@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cambio-climatico-del-estado-de-durango-95588"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-07"
-last_updated: "2021-12-26"
+last_updated: "2025-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de julio de 2013.
 
@@ -55,6 +55,8 @@ La presente Ley es reglamentaria del artículo 26 de la Constitución Política 
 
 En lo no previsto por esta Ley, se aplicarán de manera supletoria y complementaria los ordenamientos estatales en materia ambiental.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2025, PÁGINAS DE LA 43 A LA 44.]</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de esta Ley, se entenderá por:
@@ -81,87 +83,87 @@ VI. Comisión: La Comisión Intersecretarial de Cambio Climático del Estado de 
 
 VII. Compuestos de efecto invernadero: Gases de efecto invernadero, sus precursores y partículas que absorben y emiten radiación infrarroja en la atmósfera;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-VIII. Deforestación: Conversión de bosque a otro uso de la tierra o la reducción a largo plazo de la cubierta forestal por debajo del diez por ciento, según la Organización de las Naciones Unidas para la Agricultura y la Alimentación;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
-
-IX. Degradación: Reducción del contenido de carbono en la vegetación natural, ecosistemas o suelos, debido a la intervención humana, con relación a la misma vegetación ecosistemas o suelos, si no hubiera existido dicha intervención.
+VIII. Compras verdes: La adquisición de bienes, productos o servicios que minimicen los impactos ambientales más significativos desde la extracción de la materia prima, su fabricación, distribución, hasta su disposición final considerando el ciclo de vida de los productos.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-X. Efectos adversos del cambio climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
+IX. Deforestación: Conversión de bosque a otro uso de la tierra o la reducción a largo plazo de la cubierta forestal por debajo del diez por ciento, según la Organización de las Naciones Unidas para la Agricultura y la Alimentación;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XI. Eficiencia energética eléctrica: Es la relación entre los productos y los servicios finales obtenidos y la cantidad de energía consumida;
+X. Degradación: Reducción del contenido de carbono en la vegetación natural, ecosistemas o suelos, debido a la intervención humana, con relación a la misma vegetación ecosistemas o suelos, si no hubiera existido dicha intervención.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XI. Efectos adversos del cambio climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XII. Eficiencia energética eléctrica: Es la relación entre los productos y los servicios finales obtenidos y la cantidad de energía consumida;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XII. Emisión: Liberación a la atmosfera de gases y/o compuestos de efecto invernadero, o sus precursores, en un área y en un espacio de tiempos específicos, originados de manera directa o indirecta por actividad humana;
+XIII. Emisión: Liberación a la atmosfera de gases y/o compuestos de efecto invernadero, o sus precursores, en un área y en un espacio de tiempos específicos, originados de manera directa o indirecta por actividad humana;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XIII. Estado: Estado Libre y Soberano de Durango;
+XIV. Estado: Estado Libre y Soberano de Durango;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XIV. Estrategia Estatal: Estrategia Estatal de Mitigación y Adaptación ante los Efectos del Cambio Climático;
+XV. Estrategia Estatal: Estrategia Estatal de Mitigación y Adaptación ante los Efectos del Cambio Climático;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XV. Fuentes Emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero a la atmósfera;
+XVI. Fuentes Emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero a la atmósfera;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XVI. Gases de Efecto Invernadero: Aquellos componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y re emiten radiación infrarroja, y que están incluidos en el "Anexo A" del Protocolo de Kyoto: Dióxido de carbono (CO2), Metano (CH4), Óxido nitroso (N2O), Hidrofluorocarbonos (HFC), Perfluorocarbonos (PFC) y Hexafluoruro de azufre (SF6);
+XVII. Gases de Efecto Invernadero: Aquellos componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y reemiten radiación infrarroja, y que están incluidos en el "Anexo A" del Protocolo de Kyoto: Dióxido de carbono (CO2), Metano (CH4), Óxido nitroso (N2O), Hidrofluorocarbonos (HFC), Perfluorocarbonos (PFC) y Hexafluoruro de azufre (SF6);
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XVII. Ley: Ley de Cambio Climático del Estado de Durango;
+XVIII. Ley: Ley de Cambio Climático del Estado de Durango;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XVIII. Mitigación: Aplicación de políticas y acciones destinadas a reducir las emisiones de las fuentes, o mejorar los sumideros de gases y compuestos de efecto invernadero.
+XIX. Mitigación: Aplicación de políticas y acciones destinadas a reducir las emisiones de las fuentes, o mejorar los sumideros de gases y compuestos de efecto invernadero.
 
-XIX. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
-
-XX. Protocolo de Kyoto: Tratado internacional ligado a la Convención Marco de las Naciones Unidas sobre el Cambio Climático, que establece mecanismos y medidas para limitar o reducir las emisiones de gases de efecto invernadero;
+XX. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXI. Riesgo: Probabilidad de que se produzca un daño en las personas, en uno o varios ecosistemas, originado por un fenómeno natural o antropógeno;
+XXI. Protocolo de Kyoto: Tratado internacional ligado a la Convención Marco de las Naciones Unidas sobre el Cambio Climático, que establece mecanismos y medidas para limitar o reducir las emisiones de gases de efecto invernadero;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXII. Secretaría: Secretaría de Recursos Naturales y Medio Ambiente del Estado;
+XXII. Riesgo: Probabilidad de que se produzca un daño en las personas, en uno o varios ecosistemas, originado por un fenómeno natural o antropógeno;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXIII. Seguridad Alimentaria: Acceso físico y económico a suficientes alimentos inocuos y nutritivos, que satisfagan las necesidades alimentarias para desarrollar una vida activa y sana;
+XXIII. Secretaría: Secretaría de Recursos Naturales y Medio Ambiente del Estado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXIV. Servicios ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
+XXIV. Seguridad Alimentaria: Acceso físico y económico a suficientes alimentos inocuos y nutritivos, que satisfagan las necesidades alimentarias para desarrollar una vida activa y sana;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXV. Servicios ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XXVI. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero y/o sus precursores en la atmósfera incluyendo en su caso, compuestos de efecto invernadero;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-XXV. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero y o sus precursores en la atmósfera incluyendo en su caso, compuestos de efecto invernadero,
+XXVII. Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación, y
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-XXVI. Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2021)</small>
-
-XXVII. Acuerdo de París: Convenio adoptado mediante la decisión 1/CP.21 durante el 21er período de sesiones de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático
-
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2021)</small>
-
-XXVIII. Convención: Convención Marco de las Naciones Unidas sobre el Cambio Climático.
+XXVIII. ARBORIZAR: Plantar árboles, preferentemente de especies frutales, en las áreas urbanas existentes en una población Municipio y el Estado; con independencia de que dichos árboles sean nativos o bien exóticos que hayan sido adaptados a las condiciones climáticas del Estado, pero con el fin de lograr un equilibrio ecológico propicio para el desarrollo de los habitantes.
 
 ### CAPÍTULO II. DE LOS CRITERIOS GENERALES PARA LA DEFINICIÓN DE POLÍTICAS DE MITIGACIÓN Y ADAPTACIÓN
 
@@ -333,15 +335,23 @@ VIII. Elaborar, en coordinación con los Ayuntamientos, un reporte sobre medidas
 
 IX. En el ámbito de su competencia, establecer programas y estrategias para la reducción de vehículos automotores, así como programas de verificación vehicular;
 
-X. Vigilar y sancionar en el ámbito de su competencia, el cumplimiento de esta Ley, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-XI. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+X. Vigilar y sancionar en el ámbito de su competencia, el cumplimiento de esta Ley;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XI. Se implementará acciones y políticas de adquisición y compras verdes en los productos y materiales que se requieren para el cumplimiento de sus facultades y obligaciones, y
+
+XII. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 14.
 
 Corresponde a los Ayuntamientos, en el ámbito de sus respectivas jurisdicciones, las atribuciones siguientes:
 
-I. Formular, e instrumentar las políticas, planes o programas municipales de cambio climático y los demás que de éstos se deriven, así como evaluar y vigilar su cumplimiento, de conformidad con la legislación aplicable, en congruencia con el Plan Nacional y Estatal;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+I. Formular, e instrumentar las políticas, planes o programas municipales de cambio climático, donde se incluyan las compras verdes y los demás que de éstos se deriven, así como evaluar y vigilar su cumplimiento, de conformidad con la legislación aplicable, en congruencia con el Plan Nacional y Estatal;
 
 II. Promover y realizar acciones e inversiones para la conservación, mejoramiento y crecimiento de los centros de población, atendiendo a los mapas de riesgo;
 
@@ -377,7 +387,9 @@ I. Promover la orientación del Plan Estatal de Desarrollo con visión integral 
 
 II. Coordinarse con la Comisión, en la integración anual del presupuesto de egresos, en lo concerniente a su objeto;
 
-III. Coordinar entre las distintas dependencias y entidades estatales la instrumentación de medidas de prevención y control de emergencias y contingencias causadas por los efectos adversos del cambio climático;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+III. Coordinar entre las distintas dependencias y entidades estatales la implementación de una política de adquisiciones y compras verdes, así como la instrumentación de medidas de prevención y control de emergencias y contingencias causadas por los efectos adversos del cambio climático;
 
 IV. Formular y adoptar políticas, estrategias y acciones necesarias para el cumplimiento de sus fines;
 
@@ -704,3 +716,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. A partir de la entrada en vigor del presente decreto, toda mención o alusión a la Procuraduría de Protección al Ambiente del Estado de Durango, en cualquier ordenamiento legal, se entenderá referido a la Secretaría de Recursos Naturales y Medio Ambiente.
 
 TERCERO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 200 QUE CONTIENE REFORMA A LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
