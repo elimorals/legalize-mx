@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-08-26"
+last_updated: "2025-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -281,6 +281,14 @@ El pueblo de Tamaulipas establece que el respeto a la vida, la dignidad de la pe
 
 En el Estado de Tamaulipas todas las personas gozarán de los derechos humanos previstos en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que forma parte el Estado Mexicano, en términos de lo dispuesto por el artículo 133 de la Ley Fundamental de la República y esta Constitución, los cuales no podrán restringirse ni suspenderse sino en los casos y condiciones que aquélla establece.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+El Estado promoverá condiciones para que la igualdad sea real y efectiva, adoptando las medidas necesarias para prevenir, sancionar y erradicar toda forma de discriminación.
+
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
 Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
@@ -301,9 +309,9 @@ Al efecto, la Ley establecerá las normas para alentar el desarrollo social, med
 
 En el ejercicio de la política estatal de desarrollo social serán principios rectores la libertad, solidaridad, justicia distributiva, inclusión, integralidad, participación social, sustentabilidad, respeto a la diversidad y transparencia.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-El Estado impulsará permanentemente el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Las niñas, niños, adolescentes y jóvenes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral, así como contar con una familia.
+El Estado impulsará permanentemente el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Las niñas, niños, adolescentes y jóvenes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral, así como contar con una familia y a los servicios para la atención, cuidado, y desarrollo integral infantil, en términos de lo dispuesto en la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -397,13 +405,25 @@ Las autoridades estatales y municipales promoverán la integración, el desarrol
 
 Los bienes considerados como objeto del patrimonio de familia, se considerarán inalienables, imprescriptibles e inembargables, a manera de protección a la familia en términos de la legislación civil aplicable;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-XIV. El Estado reconoce los derechos de las personas pertenecientes a los pueblos y comunidades indígenas, que habiten el territorio, sea cual fuese su situación o aspiración; y
+XIV. El Estado reconoce los derechos de las personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas que habiten el territorio, sea cual fuese su situación o aspiración;
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-XV. Toda persona tiene derecho a la movilidad. El Estado y los municipios adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, bajo un sistema integral de calidad, aceptable, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita un efectivo desplazamiento para la satisfacción de las necesidades y pleno desarrollo de toda persona.
+XV. Toda persona tiene derecho a la movilidad. El Estado y los municipios adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, bajo un sistema integral de calidad, aceptable, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita un efectivo desplazamiento para la satisfacción de las necesidades y pleno desarrollo de toda persona; y
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XVI. Toda persona tiene derecho a dar y recibir cuidados dignos que sustenten su vida y le otorguen los elementos materiales y simbólicos para vivir en sociedad.
+
+El Estado garantizará el derecho al cuidado digno, bajo el principio de corresponsabilidad entre mujeres y hombres, las familias, las comunidades, el sector privado y las instituciones públicas, promoviendo la libertad de las personas para decidir sobre la distribución de su tiempo y el ejercicio de los cuidados, conforme a sus necesidades e intereses.
+
+El Estado, a través de las leyes que al efecto se expidan, establecerá la creación, organización y funcionamiento del Sistema Estatal de Cuidados, con enfoque de derechos humanos, perspectiva de género, inclusión y accesibilidad universal, integrando dimensiones económicas, sociales, políticas, culturales y biopsicosociales, con el objeto de garantizar, mediante políticas y servicios públicos de calidad, la atención y la corresponsabilidad en las tareas de cuidado, conforme a la legislación federal y local aplicable.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVI, P.O. 23 DE OCTUBRE DE 2025]</small>
+
+Tendrán prioridad en la atención y acceso a los servicios del Sistema las personas que enfrenten mayores condiciones de vulnerabilidad.
 
 ###### Art. 17 Bis.
 
@@ -3144,6 +3164,10 @@ Se le asignará una partida del Presupuesto de Egresos del Estado para su funcio
 ###### Art. 144.
 
 Toda persona tiene derecho a la protección de la salud. La Ley establecerá las bases y modalidades para el acceso a los servicios de salud, así como la distribución de competencias en materia de salubridad.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+Para garantizar el derecho de protección a la salud de las personas, la ley sancionará toda actividad relacionada con cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos que señale la ley; así como la producción, distribución y enajenación de sustancias tóxicas, precursores químicos, el uso ilícito del fentanilo y demás drogas sintéticas no autorizadas.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2001)</small>
 
@@ -5924,3 +5948,11 @@ El presente Decreto que reforma el Artículo Segundo Transitorio del Decreto No.
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto que reforman los Artículos Tercero y Cuarto Transitorios del Decreto No. 66-330, publicado en el Periódico Oficial del Estado en fecha 24 de mayo de 2025, por el que se expidió la nueva Ley Orgánica del Poder Judicial del Estado de Tamaulipas, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor en los términos del Artículo Primero Transitorio del Decreto No. 66-330.
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-522 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 16, PÁRRAFO NOVENO; Y ARTÍCULO 17, FRACCIONES XIV Y XV; Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN NATURAL AL ARTÍCULO 16; LA FRACCIÓN XVI AL ARTÍCULO 17; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 144 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
