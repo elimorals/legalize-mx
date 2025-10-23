@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-de-la-universidad-tecnologica-de-altamira-949
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-06-12"
-last_updated: "2013-06-12"
+last_updated: "2025-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 ESTATUTO DE LA UNIVERSIDAD TECNOLÓGICA DE ALTAMIRA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERÍODICO OFICIAL: 23 DE OCTUBRE DE 2025 (DEROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 12 de junio de 2013.
 
@@ -602,3 +602,29 @@ Artículos Transitorios (sic)
 Nota: Estos estatutos fueron aprobados por el Consejo Directivo en la XXXIII Sesión Ordinaria de fecha veintisiete de Febrero del año dos mil trece.
 
 ATENTAMENTE.- UNIVERSIDAD TECNOLÓGICA DE ALTAMIRA.- RECTOR.- ING. FIDEL AGUILLÓN HERNÁNDEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DE ALTAMIRA, TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Estatuto Orgánico de la Universidad Tecnológica de Altamira, publicado en el Periódico Oficial del Estado Número 71, de fecha 12 de junio del año 2013, así como todas aquellas disposiciones normativas relativa a la Universidad que se opongan a lo previsto en este instrumento.
+
+###### ARTÍCULO TERCERO.
+
+El presento Estatuto Orgánico deberá inscribirse en el Registro Estatal de Organismos Descentralizados.
+
+###### ARTÍCULO CUARTO.
+
+Las funciones de las o los servidores públicos titulares de las unidades administrativas que conforman la Universidad Tecnológica de Altamira, Tamaulipas, estarán previstas en el Manual de Organización, que será publicado a los 30 días posteriores a la publicación del presente Estatuto.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos pendientes a la entrada en vigor del presente Estatuto continuarán su trámite y serán resueltos hasta su conclusión por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia para resolver los asuntos correspondientes, sin que se afecte su validez jurídica y administrativa.
