@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2022-11-20"
+last_updated: "2025-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -120,6 +120,10 @@ X. Conservación: Permanencia de los elementos de la naturaleza en su estado ori
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 XI. Contaminación: Presencia en el ambiente de uno o más contaminantes o cualquier combinación de ellos que cause desequilibrio ecológico;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XI Bis. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
@@ -222,6 +226,20 @@ XXXVI. Ley General: Ley General del Equilibrio Ecológico y la Protección al Am
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 XXXVII. Licencia Ambiental Única: Instrumento de regulación directa de carácter estatal que conjunta en un solo proceso la evaluación y dictamen de las obligaciones ambientales de las fuentes fijas en materia de impacto y riesgo ambiental, emisiones contaminantes a la atmósfera, generación y tratamiento de residuos peligrosos, que aunado con otras autorizaciones, son base inicial para la integración de la base de datos;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XXXVII Bis. Luz intrusa: Parte de la luz de una instalación con fuente de iluminación que no cumple la función para la que fue diseñada y no previene la contaminación lumínica incluye:
+
+a) La luz que cae indebidamente fuera de la zona que se requiere iluminar;
+
+b) La luz difusa en las proximidades de la instalación de iluminación;
+
+c) La luminiscencia del cielo, es decir, la iluminación del cielo nocturno que resulta del reflejo directo e indirecto de la radiación visible e invisible, dispersada por los constituyentes de la atmosfera, moléculas de gas, aerosoles y partículas en la dirección de la observación;
+
+d) La luz difusa que se esparce en las proximidades de la fuente artificial de iluminación, y
+
+e) La luz que se proyecta en varias direcciones fuera de la zona terrestre a iluminar.
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
@@ -503,9 +521,9 @@ III. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
 IV. Verificar el cumplimiento de las Normas Oficiales Mexicanas, sobre la materia;
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-V. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas no ionizantes y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales, comerciales o de servicios, así como, en su caso, de fuentes móviles que conforme a lo establecido en la Ley General, no sean de competencia federal;
+V. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas no ionizantes y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales, comerciales o de servicios, así como, en su caso, de fuentes móviles que, conforme a lo establecido en la Ley General, no sean de competencia federal;
 
 > <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
@@ -603,7 +621,9 @@ X. Implementar y operar sistemas de tratamiento de aguas residuales;
 
 XI. Implementar y operar sistemas de monitoreo ambiental;
 
-XII. La prevención y control de la contaminación originada por ruido, vibraciones, energía térmica, energía lumínica radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente provenientes de fuentes fijas y móviles que sean de su competencia;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XII. La prevención y control de la contaminación originada por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente provenientes de fuentes fijas y móviles que sean de su competencia;
 
 XIII. La prevención y control de la contaminación visual;
 
@@ -1321,6 +1341,16 @@ VII. La aplicación de las medidas necesarias en casos de contingencias y emerge
 
 Se prohíbe la construcción de obras e instalaciones y la operación de las ya existentes, cuando por sus emisiones, descargas o vertimientos de contaminantes, rebasen la capacidad de asimilación del aire, del suelo, del agua y demás cuerpos receptores con base en las Normas Oficiales Mexicanas que para el efecto se dicten.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 69 BIS. Para lograr la prevención, reducción y control de la contaminación lumínica en la atmósfera se deberán considerar los siguientes objetivos:
+
+I. Promover la eficiencia energética a través de un uso eficiente del alumbrado exterior, sin menoscabo de la seguridad que debe proporcionar a los peatones, los vehículos y las propiedades;
+
+II. Preservar al máximo posible las condiciones naturales de las horas nocturnas en beneficio de la fauna, la flora y los ecosistemas en general, y
+
+III. Reducir la intrusión lumínica en zonas distintas a las que se pretende iluminar, principalmente en entornos naturales e interior de edificios.
+
 ### CAPÍTULO III. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AIRE
 
 ###### ARTÍCULO 70.
@@ -1519,6 +1549,8 @@ III. Programas de ordenamiento ambiental y las declaratorias de uso de suelo que
 
 ### CAPÍTULO VI. CONTAMINACIÓN GENERADA POR RUIDO, VIBRACIONES, OLORES, VISUAL, ENERGÍA LUMÍNICA, TÉRMICA Y RADIACIONES ELECTROMAGNÉTICAS NO IONIZANTES
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 96.
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2021)
@@ -1537,7 +1569,7 @@ ARTÍCULO 96 BIS. (DEROGADO, P.O. 26 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 99.
 
-No podrán emitirse ruidos, vibraciones, olores, energía lumínica, térmica, radiaciones electromagnéticas no ionizantes y la generación de contaminación visual que rebasen los límites máximos contenidos en los reglamentos y en las Normas Oficiales Mexicanas que al efecto se expidan, se adoptarán las medidas correspondientes con el objeto de que no se rebasen dichos límites y en su caso se podrán aplicar las sanciones correspondientes.
+No podrán emitirse ruidos, vibraciones, olores, luz intrusa, térmica, radiaciones electromagnéticas no ionizantes y la generación de contaminación visual que rebasen los límites máximos contenidos en los reglamentos y en las Normas Oficiales Mexicanas que al efecto se expidan, se adoptarán las medidas correspondientes con el objeto de que no se rebasen dichos límites y en su caso se podrán aplicar las sanciones correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -2069,9 +2101,9 @@ III. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
 IV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-V. Rebasar los límites permitidos y criterios aplicables de ruido, vibraciones, olores perjudiciales, energía térmica y lumínica, vapores, gases o contaminantes visuales establecidos en la presente Ley y otros ordenamientos aplicables;
+V. Rebasar los límites permitidos y criterios aplicables de ruido, vibraciones, olores perjudiciales, energía térmica y luz intrusa, vapores, gases o contaminantes visuales establecidos en la presente Ley y otros ordenamientos aplicables;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -2596,3 +2628,11 @@ P.O. 20 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 201 EL CUAL REFORMA DIVERSAS DISPOSICIONES A LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
