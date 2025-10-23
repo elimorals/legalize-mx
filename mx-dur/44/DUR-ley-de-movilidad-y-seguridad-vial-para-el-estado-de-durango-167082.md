@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-movilidad-y-seguridad-vial-para-el-estado-de-durango-167
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-27"
-last_updated: "2025-07-06"
+last_updated: "2025-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número 60 del Periódico Oficial del Estado de Durango, el jueves 27 de julio de 2023.
 
@@ -563,7 +563,9 @@ III. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a los ayuntamientos, las siguientes atribuciones:
 
-I. Formular, conducir y evaluar la política municipal en materia de movilidad y seguridad vial, en concordancia con lo previsto en esta Ley, en los planes municipales de desarrollo, y conforme a las políticas en materia de planeación, desarrollo urbano y ordenamiento territorial, que se emitan en el ámbito municipal;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+I. Formular, conducir y evaluar la política municipal en materia de movilidad y seguridad vial, en concordancia con lo previsto en esta Ley, en los planes municipales de desarrollo, y conforme a las políticas en materia de planeación, desarrollo urbano, desarrollo rural y ordenamiento territorial, que se emitan en el ámbito municipal;
 
 II. Coordinarse con otros municipios para alcanzar los objetivos y prioridades previstos en programas en materia de movilidad, seguridad vial, y los demás que de estos deriven;
 
@@ -571,7 +573,9 @@ III. Gestionar y administrar recursos para ejecutar acciones enfocadas a garanti
 
 IV. Elaborar, evaluar y vigilar el cumplimiento de los planes y programas de su competencia, en materia de movilidad y seguridad vial;
 
-V. Promover el diseño y ejecución en materia de, movilidad urbana no motorizada, programas de recuperación y habilitación de espacios urbanos para el desplazamiento peatonal y la construcción y mantenimiento de infraestructura ciclista en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+V. Promover el diseño y ejecución en materia de movilidad urbana no motorizada, programas de recuperación y habilitación de espacios urbanos y rurales para el desplazamiento peatonal y vehicular y la construcción y mantenimiento de infraestructura ciclista en los términos de la presente Ley;
 
 VI. Implementar dispositivos para el control del tránsito, preservando el orden y la seguridad vial con base en el enfoque de sistemas seguros;
 
@@ -579,7 +583,9 @@ VII. Establecer programas de seguridad vial en los entornos escolares y áreas h
 
 VIII. Vigilar que las dependencias o los particulares que realicen trabajos o eventos en las aceras impidiendo la movilidad peatonal, coloquen dispositivos que permitan la circulación de peatones con comodidad y seguridad por el arroyo vehicular;
 
-IX. Fomentar la movilidad activa y el uso cotidiano, masivo y seguro de la bicicleta y la micromovilidad dentro de sus respectivos territorios;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+IX. Fomentar la movilidad activa y el uso cotidiano, masivo y seguro de vehículos no motorizados, los vehículos eléctricos ligeros y la micromovilidad dentro de sus respectivos territorios;
 
 X. Realizar los operativos de alcoholimetría en el ámbito de su respectiva competencia;
 
@@ -587,11 +593,23 @@ X. Realizar los operativos de alcoholimetría en el ámbito de su respectiva com
 
 XI. Vigilar el cumplimiento de las disposiciones de seguridad vial y vehicular;
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-XII. Promover, incentivar e impulsar la participación de las mujeres como operadoras de vehículos de transporte público, en un marco de igualdad, seguridad y respeto a sus derechos humanos; y
+XII. Promover, incentivar e impulsar la participación de las mujeres como operadoras de vehículos de transporte público, en un marco de igualdad, seguridad y respeto a sus derechos humanos;
 
-XIII. Las demás que les otorguen la presente Ley, sus Reglamentos y demás disposiciones administrativas.
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XIII. Diseñar los preceptos reglamentarios relacionados con la circulación en avenidas, con prioridad a la libre circulación y la no obstaculización de vías primarias y avenidas principales, fomentando el uso de espacios de estacionamiento adecuados conforme a las necesidades y características del municipio;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XIV. Promover y fomentar la accesibilidad y seguridad de las personas adultas mayores y de los grupos en situación de vulnerabilidad en sus desplazamientos en zonas rurales, así como el adecuado ejercicio del derecho a la movilidad;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XV. Establecer las prioridades para el ejercicio del derecho a la movilidad de la población de las zonas rurales y promover las soluciones respectivas para que sean contempladas en las políticas públicas, programas y acciones de movilidad correspondientes; y
+
+XVI. Las demás que les otorguen la presente Ley, sus Reglamentos y demás disposiciones administrativas.
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL DE MOVILIDAD Y SEGURIDAD VIAL
 
@@ -1196,6 +1214,14 @@ ING. HÉCTOR EDUARDO VELA VALENZUELA.
 P.O. 6 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 177 QUE CONTIENEN REFORMAS Y ADICIONES A LA LEY DE MOVILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 198 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE MOVILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
