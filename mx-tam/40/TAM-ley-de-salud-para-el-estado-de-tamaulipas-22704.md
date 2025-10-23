@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2025-09-05"
+last_updated: "2025-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -943,9 +943,9 @@ V.- Promoción de la integración y del bienestar familiar, sustentado en la par
 
 VI.- Promoción de la aplicación de las pruebas de tamiz a los recién nacidos con el fin de detectar desordenes metabólicos que atendiéndose oportunamente pueden corregirse para evitar algún tipo de discapacidad; y
 
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-VII.- La atención y acompañamiento psicológico a la mujer antes, durante y después del parto, así como cuando acontezca una muerte fetal o neonatal.
+VII.- Brindar atención y acompañamiento psicológico a la mujer antes, durante y después del parto, así como en casos de muerte prenatal o neonatal, incluyendo apoyo tanatológico y orientación sobre los procedimientos para la inhumación.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -4150,6 +4150,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 5 DE SEPTIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-443 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-523 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 17; I Y III, DEL ARTÍCULO 18; Y EL ARTÍCULO 47, DE LA LEY PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS; Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 29 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
