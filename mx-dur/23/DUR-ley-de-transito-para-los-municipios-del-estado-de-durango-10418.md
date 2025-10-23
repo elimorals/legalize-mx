@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2025-07-06"
+last_updated: "2025-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -233,6 +233,40 @@ V. Cuando no existan banquetas en las vialidades, deberá circular por el acotam
 
 VI. Al abordar o descender de un vehículo, no deberán obstaculizar la circulación, hasta el momento que se acerque el vehículo a la orilla de la banqueta y puedan hacerlo con toda seguridad.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+###### ARTICULO 18 Quater.
+
+Los conductores de motocicletas tendrán las siguientes obligaciones:
+
+I. Sólo podrán circular en la motocicleta el conductor y un acompañante como máximo;
+
+II. Sólo podrá transportar como acompañante a personas mayores de cinco años, y que puedan sujetarse por sus propios medios y alcanzar el posapiés o pedal que tenga la motocicleta para ese efecto.
+
+III. Cuando el conductor circule con un acompañante o transporte carga, deberá transitar por el carril de la extrema derecha de la vía y proceder con precaución al rebasar a los vehículos estacionados;
+
+IV. No podrá transitar sobre las aceras y áreas destinadas exclusivamente al uso de peatones y ciclistas;
+
+V. Deberán circular por el carril destinado a vehículos automotores, quedando prohibido que dos o más motocicletas circulen en paralelo dentro del mismo carril;
+
+VI. Para rebasar un vehículo de motor, deberán utilizar el carril de la izquierda;
+
+VII. Deberán usar el sistema de alumbrado delantero y trasero durante (sic) noche o cuando no haya suficiente visibilidad durante el día;
+
+VIII. El conductor y en su caso, el acompañante, deberán portar el equipo de protección mínima, como casco, chaleco reflejante y anteojos protectores;
+
+IX. Deberán abstenerse de asirse o sujetar la motocicleta a otros vehículos que transiten por la vía pública;
+
+X. Deberán señalar de manera anticipada que van a efectuar una vuelta;
+
+XI. No deberán adelantar vehículos circulando por el espacio existente entre carriles;
+
+XII. Podrán transportar carga únicamente cuando la motocicleta esté especialmente acondicionada para ello, y siempre que esta no dificulte su visibilidad, equilibrio, adecuada operación o represente un peligro para el conductor o para otros usuarios de la vía pública; y
+
+XIII. Las demás que disponga la normatividad aplicable.
+
+Los Ayuntamientos sancionaran en los reglamentos que correspondan la violación a estas disposiciones.
+
 ###### ARTICULO 19.
 
 Son atribuciones de los Directores Municipales de Tránsito y Seguridad Vial, o cualquiera que sea su denominación:
@@ -417,15 +451,13 @@ Todo vehículo para poder transitar dentro del Estado, deberá estar provisto de
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
 
-ARTÍCULO 34 BIS.- El vidrio parabrisas frontal de los vehículos a motor que circulen de manera permanente o habitual en el territorio del Estado, deberá permanecer libre de cualquier obstáculo que dificulte o impida la visibilidad hacia el exterior o interior de los mismos, por lo que se prohíbe su oscurecimiento a través de cualquier medio.
+ARTICULO 34 BIS.- El vidrio parabrisas frontal de los vehículos a motor que circulen de manera permanente o habitual en el territorio del Estado, deberá permanecer libre de cualquier obstáculo que dificulte o impida la visibilidad hacia el exterior o interior de los mismos, por lo que se prohíbe su oscurecimiento a través de cualquier medio.
 
 Se prohíbe la circulación de vehículos con todos los vidrios oscurecidos por micas o tintes especiales que impidan la visibilidad hacia el interior del vehículo, y especialmente los dos vidrios laterales delanteros. Se exceptúan los polarizados y entintados de nivel medio, así como los que hayan sido instalados por el fabricante del vehículo, que se requieran por razones médicas y por autorización de la autoridad de tránsito.
 
 La Secretaría de Seguridad Pública del Gobierno del Estado se coordinará y colaborará con los ayuntamientos, a través de las Direcciones Municipales de Tránsito y Vialidad y de Seguridad Pública, para dar cumplimiento a lo establecido en este artículo.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
-
-Se prohíbe a los conductores o propietarios de cualquier tipo de motocicletas, trimoto, cuatrimoto, o motocarro, llevar como acompañante a menores de cinco años o que habiendo cumplido esa edad no puedan sujetarse por sus propios medios y alcanzar el posapiés o pedal que tenga el vehículo para ese efecto. Los Ayuntamientos sancionaran en los reglamentos que correspondan la violación a esta disposición.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 23 DE OCTUBRE DE 2025)</small>
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
@@ -581,9 +613,13 @@ i) No estar suspendido o privado por sentencia ejecutoria, para ejercer como cho
 
 j) Para solicitar la reposición de la licencia, deberá presentarse el examen de conservación de aptitudes de manejo.
 
-III.- De Motociclista
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2025)</small>
 
-Los motociclistas deberán satisfacer los mismos requisitos que los automovilistas, pero el examen de manejo será de motocicleta. A criterio de la Dirección puede expedirse licencia a personas de catorce años de edad en adelante.
+III.- DE MOTOCICLISTA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+Los motociclistas deberán satisfacer los mismos requisitos que los automovilistas, pero el examen de manejo será de motocicleta. La licencia para conducir motocicletas podrá expedirse a personas de dieciséis años en adelante, a criterio de la Dirección.
 
 Tratándose de menores de dieciocho años, deberán exhibir autorización del padre o tutor, para tramitar cualquier tipo de licencia. Los padres o tutores manifestarán su responsabilidad solidaria con los daños que sus hijos o pupilos puedan causar a terceros.
 
@@ -603,43 +639,77 @@ Toda persona que haya obtenido licencia de conducción, podrá hacer uso de ella
 
 Si durante la vigencia de la licencia sobreviene disminución en las aptitudes físicas o mentales necesarias para conducir vehículos de motor, se suspenderá la licencia durante el tiempo que dure la incapacidad.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 44.
 
-Los padres o tutores de los menores que tengan entre 16 años cumplidos y menos de 18, podrán solicitar para estos, licencia para conducir vehículos de motor de servicio particular, previo pago de derechos correspondientes. Los menores interesados, para realizar el trámite respectivo se harán acompañar por los padres o tutores, debiendo cumplir los requisitos siguientes, además de los establecidos en los reglamentos correspondientes:
+Los padres o tutores de los menores que tengan entre 16 años cumplidos y menos de 18, podrán solicitar para estos, licencia para conducir vehículos de motor de servicio particular o de motociclista, previo pago de derechos correspondientes. Los menores interesados, para realizar el trámite respectivo se harán acompañar por los padres o tutores, debiendo cumplir los requisitos siguientes, además de los establecidos en los reglamentos correspondientes:
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2011)</small>
 
 I. Presentar solicitud en la forma que proporcione la Dirección Municipal de Tránsito y Seguridad Vial o sus equivalentes, firmada por uno de los padres o tutores, quien manifestará su responsabilidad civil con los daños que sus hijos o pupilos puedan causar a terceros;
 
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2011)</small>
+
 II. Entregar carta responsiva firmada por el padre, la madre o el tutor en donde declare bajo protesta de decir verdad que el menor sabe leer y escribir y que tiene capacidad física para conducir el vehículo conforme al permiso solicitado;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2011)</small>
 
 III. Comprobar la edad con la respectiva acta de nacimiento, y acreditar la identidad del menor;
 
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2011)</small>
+
 IV. Presentar identificación del padre o tutor del menor, acreditando su domicilio con un comprobante que tenga una antigüedad mayor a tres meses;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2011)</small>
 
 V. Aprobar examen de manejo y conocimiento de la ley y el reglamento de la materia.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
+
 Estos requisitos quedarán satisfechos con la constancia de aprobación expedida por la Dirección Municipal de Tránsito y Seguridad Vial o sus equivalentes;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2011)</small>
 
 VI. Presentar examen médico de agudeza audiovisual efectuado por la autoridad competente en materia de vialidad;
 
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2011)</small>
+
 VII. Presentar identificación vigente, carta de buena conducta y copia de calificaciones expedidas por la institución educativa en la que curse sus estudios o del lugar donde labora;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2011)</small>
 
 VIII. Entregar copia de la póliza del seguro vigente con cobertura de daños a terceros del vehículo que conducirá; y
 
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2011)</small>
+
 IX. En caso de tutela, deberá ser demostrada documentalmente.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
 
 En caso de los emancipados deberán acreditarlo con los documentos correspondientes.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
+
 La Dirección Municipal de Tránsito y Seguridad Vial o sus equivalentes podrán impartir cursos de capacitación sobre manejo a los menores de edad, o a mayores, según se estime conveniente; igualmente expedirán un holograma fluorescente, para identificación pública de los vehículos respectivos, como los autorizados para ser conducidos por el menor de edad, el cual deberá portarse en un lugar visible del parabrisas trasero; las medidas de dicho holograma serán establecidos en los reglamentos correspondientes.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
 
 Las licencias de conducir que se expidan a personas menores de 18 años y mayores de 16 años de edad, exclusivamente se autorizarán para conducir vehículos de motor en un horario diario de 6:00 a 23:00 horas, de lunes a viernes.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
+
 Los sábados y los domingos el horario permitido será de las 06:00 a las 20:00 horas.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
 
 Las disposiciones del párrafo anterior no serán aplicadas a aquellas personas que acrediten ser emancipados o trabajadores.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
+
 El propietario del vehículo manejado por un menor de edad que no haya obtenido la licencia correspondiente o que lo haga fuera del horario autorizado, será sancionado por la autoridad municipal de conformidad con las disposiciones reglamentarias y para garantizar la protección de los ciudadanos, esta deberá impedir la circulación del vehículo y solamente le será entregado a quien sea legalmente su propietario y previo el pago de la sanción que corresponda.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
 
 Cuando un menor de edad con licencia cometa alguna infracción en estado de ebriedad o bajo influjo de estupefacientes, sicotrópicos y otras sustancias tóxicas, la autoridad municipal deberá impedir la circulación del vehículo. En estos casos, la autoridad competente deberá observar las siguientes prevenciones:
 
@@ -990,3 +1060,13 @@ P.O. 6 DE JULIO DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. ARTICULOS TRANSITORIOS DEL “DECRETO 197 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los Ayuntamientos del Estado, deberán adecuar sus reglamentos de tránsito, en un plazo no mayor a 180 días a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
