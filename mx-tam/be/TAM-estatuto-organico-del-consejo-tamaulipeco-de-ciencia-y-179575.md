@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-consejo-tamaulipeco-de-ciencia-y-179575"
 country: "mx"
 rank: "estatuto"
 publication_date: "2025-04-16"
-last_updated: "2025-04-16"
+last_updated: "2025-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 ESTATUTO ORGÁNICO DEL CONSEJO TAMAULIPECO DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
 
 Estatuto publicado en el Número 46 del Periódico Oficial del Estado de Tamaulipas, el miércoles 16 de abril de 2025.
 
@@ -117,7 +117,9 @@ Para el ejercicio de sus atribuciones y el cumplimiento de su objeto, el COTACYT
 
 1.4 Dirección de Formación de Capital Humano
 
-1.4.1. Departamento de Difusión y Socialización de la Ciencia
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+1.4.1. Departamento de Difusión y Socialización de la Ciencia, Tecnología e Innovación
 
 Además de las áreas previstas en la Estructura Orgánica autorizada, el COTACYT contará con el personal técnico y administrativo necesario para la debida atención y el mejor desempeño de sus facultades, de acuerdo con el presupuesto autorizado.
 
@@ -187,7 +189,9 @@ I. Establecer, en congruencia con la Ley Estatal de Planeación y el Plan Estata
 
 II. Fijar y ajustar los precios de bienes y servicios que, en su caso, produzca o preste el Organismo, así como los intereses, dividendos, comisiones y demás utilidades que deban percibir por sus servicios;
 
-III. Aprobar la propuesta de obligaciones para el financiamiento del Organismo, así como observar los lineamientos que dicten las autoridades competentes, en materia de manejo y disponibilidades financieras;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+III. Autorizar y aprobar la aplicación de los recursos obtenidos, conforme a lo establecido en el artículo 29, fracción IV de este Estatuto Orgánico, asegurando que su uso se someta a consideración conforme a los lineamientos y objetivos estratégicos en materia de investigación científica, innovación y desarrollo tecnológico en el Estado.
 
 IV. Validar, previo informe de la persona Titular de la Dirección General y de la persona Comisario la cuenta pública del Organismo;
 
@@ -202,6 +206,22 @@ VIII. Vigilar el cumplimiento de las normas y bases establecidas para la adquisi
 IX. Aprobar, autorizar y vigilar la implementación del Estatuto Orgánico, Manual de Organización y los Manuales Administrativos del COTACYT, asegurando su actualización y adecuación continua conforme a las necesidades y objetivos del Organismo; y
 
 X. Ejercer las demás facultades que le confiere el ordenamiento, las normas y disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 12 Bis.
+
+De las Sesiones del Consejo Directivo.
+
+El Consejo Directivo, en su carácter de Órgano de Gobierno del COTACYT, celebrará sesiones ordinarias de forma trimestral. Asimismo, podrá llevar a cabo sesiones extraordinarias, cuando así lo determine el Presidente del Consejo o a solicitud de al menos, la tercera parte de sus integrantes.
+
+Los integrantes del Consejo Directivo participarán en las sesiones con voz y voto, con excepción de la persona titular de la Dirección General del COTACYT y la persona titular del Órgano Interno de Control o Comisario, quienes asistirán con derecho a voz, pero sin voto. En caso de empate en la votación, el Presidente del Consejo Directivo ejercerá voto de calidad para dirimir la decisión.
+
+Los integrantes propietarios deberán designar suplentes mediante designación oficial para representarles en caso de ausencia. Estos suplentes deberán contar con un nivel jerárquico de Director General, Director de Área o superior. Si el suplente cuenta con un nivel jerárquico inferior al requerido, podrá participar únicamente con voz, sin derecho a voto, y no estará facultado para suscribir el acta correspondiente a la sesión.
+
+Para la convocatoria a sesiones ordinarias, el Presidente del Consejo Directivo emitirá la convocatoria con al menos cinco días hábiles de anticipación. En el caso de sesiones extraordinarias, la convocatoria podrá realizarse hasta un día hábil antes de su celebración. Dicha convocatoria deberá incluir de manera expresa el asunto específico que motiva la sesión extraordinaria.
+
+El Consejo sesionará válidamente con la asistencia de al menos la mitad más uno de sus integrantes, y sus decisiones o recomendaciones serán adoptadas por mayoría de votos de los presentes.
 
 ## TÍTULO TERCERO. DE LAS FACULTADES
 
@@ -269,7 +289,9 @@ XXII. Aplicación y Desarrollo de la Normatividad de Transparencia y Acceso a la
 
 XXIII. Proponer al Consejo Directivo los proyectos de iniciativas de ley, reglamentos, manuales, lineamientos, acuerdos y sus reformas y demás disposiciones que considere necesarias para cumplir el objeto del COTACYT;
 
-XXIV. Contratar los servicios y adquisición de bienes en los términos de la ley aplicable y los lineamientos establecidos para tal efecto por la Secretaría de Administración;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+XXIV. Suscribir contratos, convenios, acuerdos y demás actos jurídicos que sean necesarios para el cumplimiento de sus atribuciones.
 
 XXV. Certificar copias y cualquier otro documento que obren en los archivos del Organismo;
 
@@ -519,13 +541,17 @@ XIII. Elaborar el material de apoyo informativo de la página de internet; y
 
 XIV. Las demás que le señalen las disposiciones normativas aplicables y las que le confiera su superior jerárquico, en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 24.
 
-La persona titular del Departamento de Difusión y Socialización de la Ciencia, será la encargada de Impulsar el fomento a las vocaciones científicas tempranas, así como acciones dirigidas a formar, atraer y en su caso, direccionar el talento y capital humano con nivel de posgrado a través de la implementación de actividades de difusión y divulgación de la ciencia y la operación de convocatorias de apoyo, para realizar estancias de investigación, o asistencia a eventos de ciencia y tecnología tanto en sus áreas de investigación y docencia, como en las actividades productivas y de servicios que se requieren para el desarrollo científico y tecnológico de Tamaulipas y tendrá las siguientes facultades y atribuciones:
+La persona titular del Departamento de Difusión y Socialización de la Ciencia, Tecnología e Innovación, será la encargada de Impulsar el fomento a las vocaciones científicas tempranas, así como acciones dirigidas a formar, atraer y en su caso, direccionar el talento y capital humano con nivel de posgrado a través de la implementación de actividades de difusión y divulgación de la ciencia y la operación de convocatorias de apoyo, para realizar estancias de investigación, o asistencia a eventos de ciencia y tecnología tanto en sus áreas de investigación y docencia, como en las actividades productivas y de servicios que se requieren para el desarrollo científico y tecnológico de Tamaulipas y tendrá las siguientes facultades y atribuciones:
 
 I. Elaborar y verificar el programa anual calendarizado de trabajo del área a cargo, informando periódicamente del cumplimiento del mismo;
 
-II. Coadyuvar en la elaboración de carpeta de trabajo, presentación y párrafos de la Dirección de Formación de Capital Humano, para las sesiones del Consejo Directivo;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+II. Colaborar en la elaboración, estructuración y presentación de la carpeta de trabajo de la Dirección de Formación de Capital Humano, asegurando la redacción clara y precisa de los informes, documentos y contenido destinado a las sesiones del Consejo Directivo;
 
 III. Apoyar en la elaboración de las convocatorias que emita la Dirección;
 
@@ -649,9 +675,11 @@ XV. Coordinar la elaboración de informes y reportes técnicos para la evaluaci�
 
 XVI. Las demás que le señalen las disposiciones normativas aplicables y las que le confiera su superior jerárquico, en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 28.
 
-La persona titular del Departamento (sic) Propiedad Intelectual y Transferencia Tecnológica será la encargada de Promover el registro de la propiedad intelectual y la transferencia tecnológica en la comunidad tamaulipeca, al brindar asesoría a instituciones de educación, centros de investigación, inventores independientes y empresas instaladas en Tamaulipas, además de asesorarlos para que tramiten su Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas -RENIECYT- para la generación y uso de la tecnología adaptada a las necesidades propias del estado para la contribución al desarrollo socio económico de Tamaulipas y tendrá las siguientes facultades y atribuciones:
+La persona titular del Departamento Propiedad Intelectual y Transferencia Tecnológica será la encargada de promover el registro de la propiedad intelectual y la transferencia tecnológica en la comunidad tamaulipeca, al brindar asesoría a instituciones de educación, centros de investigación, inventores independientes y empresas instaladas en Tamaulipas, además de asesorarlos para la generación y uso de la tecnología adaptada a las necesidades propias del estado para la contribución al desarrollo socio económico de Tamaulipas y tendrá las siguientes facultades y atribuciones:
 
 I. Elaborar y verificar el programa anual calendarizado de trabajo del área a cargo, informando periódicamente del cumplimiento del mismo;
 
@@ -677,15 +705,31 @@ X. Las demás que le señalen las disposiciones normativas aplicables y las que 
 
 ### CAPÍTULO ÚNICO. DE LA INTEGRACIÓN DEL PATRIMONIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 29.
 
-El patrimonio del Consejo Tamaulipeco de Ciencia y Tecnología estará constituido por:
+El patrimonio del Consejo Tamaulipeco de Ciencia y Tecnología, deberá destinarse exclusivamente al cumplimiento de su objeto, conforme a los principios de eficiencia, transparencia y responsabilidad en el ejercicio de los mismos y estará integrado por los siguientes bienes, recursos e ingresos:
 
-I. Los ingresos propios generados por los servicios que preste, aquellos establecidos por Decretos y Leyes aplicables, así como los rendimientos obtenidos de instrumentos financieros;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-II. Las aportaciones otorgadas por el Estado, la Federación, el sector productivo estatal, el sector privado, las agrupaciones del sector, organismos y agencias internacionales, conforme a los términos de los convenios correspondientes, así como los bienes propios del COTACYT y los donativos que reciba; y
+I. Los ingresos propios generados por la prestación de servicios, así como aquellos derivados de disposiciones contenidas en Decretos, Leyes y demás normativas aplicables, incluyendo los rendimientos obtenidos de instrumentos financieros y cualquier otro recurso generado en el ejercicio de sus funciones;
 
-III. Los bienes e ingresos adicionales que adquiera por cualquier título legal.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+II. Las aportaciones, subsidios y transferencias otorgadas por el Gobierno del Estado, la Federación, el sector productivo, el sector privado, asociaciones civiles, agrupaciones del sector, organismos nacionales e internacionales, agencias de cooperación y cualquier otra entidad pública o privada, se sujetarán a la normativa aplicable, así como a los términos de los convenios y acuerdos suscritos;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+III. Los bienes muebles e inmuebles que sean de su propiedad, así como aquellos recursos monetarios que adquiera por donación, apoyos y financiamiento provenientes de entidades públicas o privadas, nacionales o extranjeras, de manera gratuita y voluntaria, siempre que contribuyan al cumplimiento de sus objetivos institucionales. Asimismo, podrá adquirir bienes por cesión, comodato u otros actos jurídicos válidos que favorezcan su misión y desarrollo;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
+
+IV. Los recursos referidos en la Ley Electoral del Estado de Tamaulipas, en su Libro Octavo, Título Primero, Capítulo 1, artículo 311, penúltimo párrafo los cuales tendrán como propósito exclusivo el impulso y fortalecimiento de la investigación científica, la innovación y el desarrollo tecnológico en el Estado de Tamaulipas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE OCTUBRE DE 2025)</small>
+
+V. Cualquier otro bien, ingreso o derecho que adquiera por cualquier título legal y que coadyuve al desarrollo de sus funciones y atribuciones.
 
 ## TÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
 
@@ -776,3 +820,29 @@ El presente Estatuto Orgánico deberá inscribirse en el Registro Estatal de Org
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los 25 días del mes de febrero del año dos mil veinticinco
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO .- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GUBERNAMENTAL MEDIANTE EL CUAL SE REFORMA EL ESTATUTO ORGÁNICO DEL CONSEJO TAMAULIPECO DE CIENCIA Y TECNOLOGIA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO, EL 16 DE ABRIL DEL 2025".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular de la Dirección General deberá implementar las acciones necesarias para la difusión del presente Estatuto Orgánico, haciéndolo del conocimiento del personal del Organismo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones normativas que se opongan al presente Estatuto Orgánico.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente Estatuto serán atendidos y resueltos por las Unidades Administrativas que, conforme a este documento, resulten competentes.
+
+###### ARTÍCULO QUINTO.
+
+El presente Estatuto Orgánico deberá inscribirse en el Registro Estatal de Organismos Descentralizados para los efectos legales correspondientes.
