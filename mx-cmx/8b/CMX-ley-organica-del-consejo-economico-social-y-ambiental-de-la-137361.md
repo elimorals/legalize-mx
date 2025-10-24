@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-consejo-economico-social-y-ambiental-de-la-137
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-25"
-last_updated: "2022-10-21"
+last_updated: "2025-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-19"
 
 LEY ORGÁNICA DEL CONSEJO, ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número 142 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 25 de julio de 2019.
 
@@ -120,13 +120,21 @@ II. Coordinar la participación de los sectores social, público y privado para 
 
 III. Promover, analizar y opinar sobre el diseño, evaluación y seguimiento de políticas públicas, iniciativas de Ley, Programas y proyectos en materia económica, social y ambiental, que realice la a (sic) Jefatura de Gobierno, el Cabildo y las Alcaldías de la Ciudad de México;
 
-IV. Convocar a los sectores público, privado, y social para la realización de foros que promuevan el análisis y discusión de los asuntos de mayor trascendencia para la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+IV. Convocar a los sectores público, privado, y social para la realización de foros que promuevan el análisis y discusión de los asuntos de mayor trascendencia para la Ciudad de México, con el propósito de recabar sus demandas y propuestas, aun cuando no cuenten con representación en el Consejo;
 
 V. Proponer mecanismos de participación ciudadana que promuevan el diálogo social y la concertación pública en asuntos de trascendencia para la Ciudad;
 
 VI. Opinar sobre los Convenios Internacionales en materia de desarrollo sustentable que suscriba la Ciudad de México, en relación con los objetivos del Consejo;
 
-VII. Realizar estudios, reportes y análisis en materia de evolución de la situación y la política económica, social y ambiental de la Ciudad, y otros temas de interés estratégicos;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+VII. Realizar estudios, reportes y análisis, por propia iniciativa o a propuesta de Consejeros y Consejeras, en materia de evolución de la situación y la política económica, social y ambiental de la Ciudad, y otros temas de interés estratégicos;
+
+> <small>(ADICIONADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+VII Bis. Fortalecer la cooperación y alianza a través de esfuerzos continuos y de proyectos con otros Consejos locales e internacionales;
 
 VIII. Solicitar la información necesaria para el ejercicio de sus atribuciones, así como remitir la información que genere a fin de coadyuvar en la toma de decisiones;
 
@@ -428,7 +436,9 @@ VI. Pueden ser invitadas a sus sesiones, personas o instituciones reconocidas po
 
 Las Comisiones son la forma de organización interna, de carácter colegiado, constituidas para el cumplimiento de las funciones y atribuciones del Consejo.
 
-Las Comisiones se integran con un mínimo de tres personas Consejeras y en su conformación se considera el perfil y la proporcionalidad de sus integrantes.
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+Las Comisiones se integran con un mínimo de tres personas Consejeras y en su conformación se considera el perfil y la proporcionalidad de sus integrantes, cumpliendo con el principio de paridad de género.
 
 Pueden contar con la participación de asesoría externa para la realización de tareas técnicas o especializadas, la cual, en ningún caso formarán parte de la Comisión en la que participen.
 
@@ -544,7 +554,9 @@ La persona Secretaria Técnica de la Asamblea General es a su vez la Secretaria 
 
 La titularidad de la Secretaría Técnica será propuesta por la persona Titular de la Jefatura de Gobierno y deberá ser aprobada por el Consejo. De no ser aprobada por el pleno, la persona Titular de la Jefatura de Gobierno someterá una nueva propuesta.
 
-Fungirá en la Secretaría Técnica de la Asamblea General del Consejo y Secretaría Técnica del Comité Directivo por el mismo periodo que duré su gestión.
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+La persona que funja como titular de la Secretaria Técnica de la Asamblea General del Consejo y como titular de la Secretaria Técnica del Comité Directivo desempeñará su encargo por el mismo periodo que dure la gestión de la persona titular del Fondo.
 
 La Secretaría Técnica de la Asamblea General del Consejo y la Secretaría Técnica del Comité Directivo es sobre quien recaen únicamente las responsabilidades técnicas, administrativas y de operación de ambos órganos.
 
@@ -781,5 +793,13 @@ G.O. 21 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL APARTADO B, DEL ARTÍCULO 6º DE LA LEY ORGÁNICA DEL CONSEJO ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES IV Y VII DEL ARTÍCULO 4°; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17 Y EL TERCER PÁRRAFO DEL ARTÍCULO 23 Y SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 4°; DE LA LEY ORGÁNICA DEL CONSEJO, ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
