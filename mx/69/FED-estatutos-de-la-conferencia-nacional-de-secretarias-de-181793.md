@@ -4,7 +4,7 @@ identifier: "FED-estatutos-de-la-conferencia-nacional-de-secretarias-de-181793"
 country: "mx"
 rank: "estatuto"
 publication_date: "2025-09-29"
-last_updated: "2025-09-29"
+last_updated: "2025-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181793&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2025-08-27"
 ---
 # ESTATUTOS DE LA CONFERENCIA NACIONAL DE SECRETARIAS DE SEGURIDAD PUBLICA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE OCTUBRE DE 2025 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTOS DE LA CONFERENCIA NACIONAL DE SECRETARÍAS DE SEGURIDAD PÚBLICA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE OCTUBRE DE 2025.]</small>
 
 Estatutos publicados en el Número 260/2025 del Diario Oficial de la Federación, el lunes 29 de septiembre de 2025.
 
@@ -297,7 +297,9 @@ III. Contener el Orden del día.
 
 Las sesiones ordinarias serán convocadas con una anticipación mínima de cinco días hábiles; las extraordinarias con la anticipación suficiente que amerite el asunto o asuntos a tratar.
 
-En el supuesto de que la sesión convocada no pudiera llevarse a cabo en la fecha programada, la Secretaría Técnica lo informará a la brevedad, teniendo que celebrarse la sesión dentro de los cinco días hábiles siguientes y de conformidad con lo establecido en el artículo 18 de los presentes Estatutos.
+> <small>(F. DE E., D.O.F. 24 DE OCTUBRE DE 2025)</small>
+
+En el supuesto de que la sesión convocada no pudiera llevarse a cabo en la fecha programada, la Secretaría Técnica lo informará a la brevedad, teniendo que celebrarse la sesión dentro de los cinco días hábiles siguientes y de conformidad con lo establecido en el artículo 19 de los presentes Estatutos.
 
 ###### Artículo 18.
 
@@ -345,9 +347,11 @@ Las personas Integrantes de la Conferencia tendrán derecho de voz y voto. Las p
 
 La Conferencia aprobará los acuerdos por voto de mayoría simple de sus Integrantes presentes en la reunión respectiva. En caso de empate, la Presidencia tendrá voto de calidad.
 
+> <small>(F. DE E., D.O.F. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 24.
 
-Las personas Integrantes se encuentran obligadas al cumplimiento de los acuerdos aprobados y de conformidad a lo establecido en el artículo 18 de los presentes estatutos.
+Las personas Integrantes se encuentran obligadas al cumplimiento de los acuerdos aprobados y de conformidad a lo establecido en el artículo 19 de los presentes Estatutos.
 
 ###### Artículo 25.
 
@@ -423,7 +427,9 @@ Las personas servidoras públicas representantes asumirán las facultades, funci
 
 Primero.- Los presentes Estatutos entrarán en vigor al momento de su aprobación en la Conferencia Nacional de Secretarías de Seguridad Pública.
 
-Segundo.- Estas disposiciones dejan sin efecto los ESTATUTOS DE LA CONFERENCIA NACIONAL DE SECRETARIAS Y SECRETARIOS DE SEGURIDAD PÚBLICA, publicadas en el Diario Oficial de la Federación el 10 de agosto de 2022.
+> <small>(F. DE E., D.O.F. 24 DE OCTUBRE DE 2025)</small>
+
+Segundo.- Estas disposiciones dejan sin efecto los ESTATUTOS DE LA CONFERENCIA NACIONAL DE SECRETARIAS Y SECRETARIOS DE SEGURIDAD PÚBLICA, publicados en el Diario Oficial de la Federación el 16 de noviembre de 2022.
 
 FIRMA DE ESTATUTOS
 
