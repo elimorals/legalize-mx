@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-535-de-acuicultura-y-pesca-sustentables-del-107712"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-16"
-last_updated: "2023-12-15"
+last_updated: "2025-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 535 DE ACUICULTURA Y PESCA SUSTENTABLES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2025.
 
 Ley publicada en el Alcance II del Periódico Oficial del Estado de Guerrero, el martes 16 de diciembre de 2014.
 
@@ -79,6 +79,14 @@ XIII. Promover, apoyar y facilitar la investigación científica y tecnológica 
 
 XIV. Establecer las infracciones y sanciones correspondientes por incumplimiento o violación a las disposiciones de esta Ley, y sus reglamentos.
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XV. Establecer las bases para la creación, operación y funcionamiento de mecanismos de participación de los sectores social y privado, dedicados a las actividades pesqueras y acuícolas, y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XVI. Establecer las bases bajo las cuales el Estado podrá celebrar con el Gobierno Federal los convenios y acuerdos de coordinación y colaboración para asumir las funciones previstas en la Ley General de Pesca y Acuacultura Sustentables.
+
 ###### ARTÍCULO 3.
 
 La acuicultura es una actividad prioritaria debido a la sobre-explotación de la pesca en el Estado, deberá contar con programas, servicios, apoyos y presupuesto que permita fomentar la actividad mediante el concepto de cadenas agroalimentarias especie-producto.
@@ -115,7 +123,9 @@ X. AVISO DE PRODUCCIÓN: Es el documento en el que se reporta a la autoridad com
 
 XI. AVISO DE RECOLECCIÓN: Es el documento en el que se reporta el número de organismos recolectados del medio natural, al amparo de un permiso otorgado por la autoridad competente;
 
-XII. CERTIFICADO DE SANIDAD ACUÍCOLA: Documento oficial expedido por el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, o a través de laboratorios acreditados y aprobados en los términos de esta Ley y de la Ley Federal sobre Metrología y Normalización, en el que se hace constar que las especies acuícolas o las instalaciones en las que se producen se encuentran libres de patógenos causantes de enfermedades;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XII. CERTIFICADO DE SANIDAD ACUÍCOLA: Documento oficial expedido por el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, o a través de laboratorios acreditados y aprobados en los términos de esta Ley y de la Ley de Infraestructura de la Calidad, en el que se hace constar que las especies acuícolas o las instalaciones en las que se producen se encuentran libres de patógenos causantes de enfermedades;
 
 XIII. Consejo: Consejo de Pesca y Acuicultura Sustentable del Estado de Guerrero;
 
@@ -133,9 +143,9 @@ XIX. GUÍA DE PESCA: Es el documento que ampara el transporte por vía terrestre
 
 XX. INOCUIDAD: Es la garantía que los recursos pesqueros y acuícolas no causan daño en la salud de los consumidores;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2025)</small>
 
-XXI. LABORATORIO DE PRUEBA: Persona física o moral acreditada de acuerdo a lo establecido por la Ley Federal de Metrología y Normalización y aprobada por la SADER para prestar servicios relacionados con las pruebas o análisis para determinar la presencia o ausencia de una enfermedad de organismos acuáticos o para realizar servicios de constatación de contaminantes;
+XXI. LABORATORIO DE PRUEBA: Persona física o moral acreditada de acuerdo a lo establecido por la Ley de Infraestructura de la Calidad y aprobada por la SADER para prestar servicios relacionados con las pruebas o análisis para determinar la presencia o ausencia de una enfermedad de organismos acuáticos o para realizar servicios de constatación de contaminantes;
 
 XXII. LABORATORIO DE PRODUCCIÓN: El conjunto de instalaciones donde se proporcionan servicios de reproducción y mejoramiento genético de recursos acuícolas;
 
@@ -143,7 +153,9 @@ XXIII. LEY: La Ley de Acuicultura y Pesca Sustentables del Estado de Guerrero;
 
 XXIV. LEY GENERAL: La Ley General de Pesca y Acuacultura Sustentables;
 
-XXV. NORMA OFICIAL MEXICANA: La disposición técnica de observancia obligatoria expedida por la autoridad federal competente conforme al procedimiento y términos previstos por la Ley Federal sobre Metrología y Normalización;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XXV. NORMA OFICIAL MEXICANA: La disposición técnica de observancia obligatoria expedida por la autoridad federal competente conforme al procedimiento y términos previstos por la Ley de Infraestructura de la Calidad;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
@@ -209,7 +221,9 @@ LII. SADER: Secretaría de Agricultura y Desarrollo Rural;
 
 LIII. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
-LIV. SECRETARÍA: Secretaría de Desarrollo Rural del Gobierno del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+LIV. SECRETARÍA: Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural del Gobierno del Estado de Guerrero;
 
 LV. SISTEMA ESTATAL: El Sistema Estatal de Información Pesquera y Acuícola;
 
@@ -239,21 +253,23 @@ LXIV. PESCA NO REGLAMENTADA: Es cuando no está en consonancia con las medidas d
 
 ### CAPÍTULO III. DE LAS AUTORIDADES EN MATERIA DE ACUICULTURA Y PESCA
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 6.
 
 Son autoridades en materia de Acuicultura y Pesca:
 
-I. El Gobernador del Estado;
+I. La persona titular del Poder Ejecutivo del Estado de Guerrero;
 
-II. La Secretaría;
+II. La Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural del Gobierno del Estado de Guerrero;
 
 III. La Secretaría de Salud del gobierno del Estado;
 
-IV. La Secretaría de Desarrollo Económico;
+IV. La Secretaría de Fomento y Desarrollo Económico;
 
-V. La Secretaría el (sic) Medio Ambiente y Recursos Naturales; y,
+V. La Secretaría del Medio Ambiente y Recursos Naturales; y,
 
-VI. Los Presidentes Municipales, en el ámbito de su competencia.
+VI. Las personas titulares de las presidencias municipales, en el ámbito de su competencia.
 
 ###### ARTÍCULO 7.
 
@@ -273,9 +289,11 @@ I. El Organismo Auxiliar de Sanidad Acuícola, reconocido por el SENASICA, en el
 
 II. Los Organismos de Coadyuvancia, autorizados por el Estado.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 9.
 
-La Secretaría de Desarrollo Económico del Gobierno del Estado, coadyuvará con la Secretaría y otras entidades del gobierno Estatal, organizaciones gremiales y productores, en la planeación, proyección y ejecución de los diferentes programas, proyectos y esquemas de apoyo económico y financiero al sector acuícola y pesquero.
+La Secretaría de Fomento y Desarrollo Económico del Gobierno del Estado, coadyuvará con la Secretaría y otras entidades del gobierno Estatal, organizaciones gremiales y productores, en la planeación, proyección y ejecución de los diferentes programas, proyectos y esquemas de apoyo económico y financiero al sector acuícola y pesquero.
 
 ###### ARTÍCULO 10.
 
@@ -381,7 +399,9 @@ XXXI. Establecer, operar y mantener actualizado el Padrón Estatal de Acuicultor
 
 XXXII. Crear un sistema de información que contenga el registro de los permisos y credenciales de los acuicultores y pescadores en el Estado;
 
-XXXIII. Elaborar el censo de productores acuícolas y pescadores, y el registro de la producción estatal por sistema-producto, coadyuvando con las autoridades federales para actualizar la carta nacional acuícola y pesquera;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XXXIII. Elaborar el censo de personas productoras acuícolas y pescadoras, el registro de la producción estatal por sistema-producto, coadyuvando con las autoridades federales para actualizar la carta nacional acuícola y pesquera, coadyuvar en el ámbito de su competencia, en la integración del Sistema de Información de Pesca y Acuacultura (SIPESCA);
 
 XXXIV. Promover la construcción y el desarrollo de la infraestructura pesquera para fomentar la sustentabilidad de la actividad pesquera;
 
@@ -401,9 +421,9 @@ XLI. Coadyuvar con instancias federales en la revisión y elaboración de la nor
 
 XLII. Participar con las dependencias competentes de la Administración Pública Federal en la determinación de especies acuáticas sujetas a protección especial, amenazadas o en peligro de extinción;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2025)</small>
 
-XLIII. Hacer del conocimiento del legislativo local al inicio de cada ejercicio fiscal, los programas y acciones, así como la asignación presupuestal a ejercer en el sector acuícola y pesquero, por medio de un plan de trabajo en el que se calendarice las acciones;
+XLIII. Deberá hacer del conocimiento del legislativo local al inicio de cada ejercicio fiscal, los programas y acciones, así como la asignación presupuestal a ejercer en el sector acuícola y pesquero, por medio de un plan de trabajo en el que se calendarice las acciones, a más tardar en el mes de febrero de cada año;
 
 XLIV. Imponer las sanciones que correspondan por infracciones cometidas a la presente Ley, su Reglamento y los planes de manejo correspondientes, y resolver los recursos que se interpongan en contra de las mismas;
 
@@ -411,11 +431,23 @@ XLIV. Imponer las sanciones que correspondan por infracciones cometidas a la pre
 
 XLV. Participar en la formulación e implementación de programas de recolección, manejo adecuado y disposición final de redes de pesca y cualquier otro instrumento y/o estructura con que se realice la captura o extracción de especies de flora y fauna acuáticas, y
 
-XLVI. Las demás que establezcan la presente Ley y demás ordenamientos aplicables
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XLVI.- Celebrar convenios o acuerdos de coordinación y colaboración con el Gobierno Federal, Instituciones de Educación e Investigación, en materia de pesca y acuicultura;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XLVII.- Integrar el Consejo Estatal de Acuicultura y Pesca Sustentable para promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros acuícolas, y
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XLVIII.- Las demás que establezcan la presente Ley y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 12.
 
-La Secretaría de Finanzas y Administración tendrá a su cargo el cobro de las sanciones económicas impuestas de conformidad a las disposiciones establecidas en la presente Ley.
+La Secretaría de Finanzas y Administración tendrá a su cargo el cobro de las sanciones económicas impuestas de conformidad a las disposiciones establecidas en la presente Ley. Debiendo informar cada seis meses al Congreso del Estado de ello.
 
 ###### ARTÍCULO 13.
 
@@ -465,17 +497,29 @@ XIV. Establecer apoyos directos para la renovación de embarcaciones.
 
 XV. Promover la repoblación de especies preferentemente endémicas, mediante programas de repoblación con alevines;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2025)</small>
 
-XVI. Las demás previstas en la presente Ley y otras disposiciones.
+XVI. Proponer a través del Consejo Estatal, métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XVII. Los ayuntamientos y el Concejo Municipal de Ayutla de los Libres, dictarán y actualizarán su marco normativo y disposiciones administrativas que correspondan, para que en su respectivo ámbito se cumplan las previsiones del presente ordenamiento.
+
+En el ejercicio de sus atribuciones los municipios observarán las disposiciones de esta ley y las disposiciones reglamentarias que de ella se deriven. y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XVIII. Las demás previstas en la presente Ley y otras disposiciones.
 
 ###### ARTÍCULO 14.
 
 La Secretaría se auxiliará de los Delegados Regionales, para realizar las actividades establecidas en la presente Ley, con las facultades que el acto o actividad ameriten.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 15.
 
-Se prohíbe a los Delegados Regionales obtener beneficios personales en el ejercicio de sus funciones y las señaladas en la Ley de Responsabilidad de los Servidores Públicos del Estado.
+Queda estrictamente prohibido a las personas titulares de las Delegaciones Regionales, y servidoras públicas de la Secretaría, solicitar pago alguno por los servicios profesionales prestados u obtener beneficios personales en el ejercicio de sus funciones; quienes incurran en estas prácticas se harán acreedoras a las sanciones establecidas en la Ley de Responsabilidades Administrativas para el Estado de Guerrero.
 
 ## TÍTULO SEGUNDO. ORGANIZACIÓN DE LAS ACTIVIDADES ACUÍCOLAS Y PESQUERAS
 
@@ -591,6 +635,8 @@ Los permisionarios que se constituyan en una Unidad de Manejo Acuícola son resp
 
 ### CAPÍTULO IV. DEL CONSEJO ESTATAL DE ACUICULTURA Y PESCA SUSTENTABLE
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 24.
 
 El Consejo Estatal de Acuicultura y Pesca Sustentable es un órgano de consulta, promoción y análisis, para la formulación y evaluación de las políticas, programas y acciones que se desarrollen en materia de pesca y acuicultura, cuyas atribuciones y la de sus integrantes serán las que señale el Reglamento de la presente Ley, y tendrá como objetivos:
@@ -609,33 +655,39 @@ V. Promover la coordinación entre la autoridad federal, estatal y municipal, as
 
 VI. Proponer a la autoridad competente, mecanismos para el ejercicio ordenado de la actividad acuícola y pesquera en el Estado, con observancia en las disposiciones legales, normativas y administrativas aplicables.
 
-El Consejo Estatal de Acuicultura y Pesca, se integrará de la siguiente forma:
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 24 DE OCTUBRE DE 2025)</small>
 
-a. El Secretario de Desarrollo Rural, quien lo presidirá;
+El Consejo Estatal de Acuicultura y Pesca Sustentable, se integrará de la siguiente forma:
 
-b. El Secretario del Medio Ambiente y Recursos Naturales;
+a) La persona titular de la Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural, del Gobierno del Estado de Guerrero, quien lo presidirá y tendrá voto de Calidad.
 
-c. El Secretario de Desarrollo Social;
+b) La persona titular de la Subsecretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural, como secretaria o secretario técnico;
 
-d. El Secretario de Desarrollo Económico;
+c) La persona titular de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno del Estado de Guerrero, como vocal;
 
-e. El Fiscal General del Estado;
+d) La persona titular de la Secretaría de Bienestar del Gobierno del Estado de Guerrero, como vocal;
 
-f. Un representante del sector pesquero y acuícola por cada una de las regiones del Estado;
+e) La persona titular de la Secretaría de Fomento y Desarrollo Económico del Gobierno del Estado de Guerrero, como vocal;
 
-g. Un representante de cada uno de los sistemas producto en el Estado; y
+f) La persona titular de la Fiscalía General del Estado, como vocal;
 
-h. Un representante del OASA..
+g) Una persona representante del sector pesquero y acuícola por cada una de las regiones del Estado, elegido previamente entre las personas integrantes de las Federaciones de Sociedades Cooperativas de Producción Pesquera y Acuícolas, debidamente constituidas y registradas en el Gobierno del Estado, como vocal, privilegiando la equidad de género y la inclusión;
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+h) Una persona representante de cada uno de los sistemas producto legalmente constituido en el Estado, como vocal; y
 
-i. El presidente de la Comisión de Desarrollo Agropecuario y Pesquero del H. Congreso del Estado de Guerrero.
+i) La Diputada o Diputado presidente de la Comisión de Desarrollo Agropecuario y Pesquero del H. Congreso del Estado de Guerrero como vocal;
 
-Cada miembro del Consejo podrá designar a un suplente, quien asistirá a las sesiones con todas las facultades y derechos que correspondan al propietario.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+Quienes integran el Consejo Estatal, participarán de manera honorifica, por lo que no devengarán remuneración alguna por su actividad, además de privilegiar la equidad de género y la inclusión de grupos vulnerables
 
-Podrán asistir por invitación del Consejo, con derecho a voz, pero no a voto, los representantes de la Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en el Estado; de la Comisión Nacional de Acuacultura y Pesca; de la Secretaría de Marina; de la Procuraduría de Protección Ecológica del Estado; Un representante del Instituto Nacional de Pesca; representantes de otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal relacionadas con el sector pesquero y acuícola; centros de enseñanzas e instituciones de investigación, organizaciones sociales y de productores del sector acuícola y pesquero del Estado y cualquier otro que considere el Consejo.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+Podrán asistir por invitación del Consejo, solo con derecho a voz, una persona representante de cada uno de los ayuntamientos del Estado, las personas representantes de la Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en el Estado; de la Comisión Nacional de Acuacultura y Pesca; de la Secretaría de Marina; de la Procuraduría de Protección Ambiental del Estado; una persona representante del Instituto Nacional de Pesca; representantes de otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal relacionadas con el sector pesquero y acuícola; centros de enseñanzas e instituciones de investigación, organizaciones sociales y de productores del sector acuícola y pesquero del Estado y cualquier otro a consideración del Consejo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+Cada miembro del Consejo podrá designar a un suplente, quien asistirá a las sesiones con todas las facultades y derechos que correspondan a la persona propietaria.
 
 El Consejo Estatal de Acuicultura y Pesca, tendrá la participación prevista en la Ley General de Pesca y Acuacultura Sustentable y en el Consejo Nacional de Pesca y Acuacultura. La mecánica para las convocatorias, carácter de la sesión, formas de adoptar los acuerdos, suplencias y ausencias y demás aspectos de su operación se establecerán en el Reglamento de la presente Ley.
 
@@ -2534,3 +2586,31 @@ SEGUNDO. Túrnese a la titular del Poder Ejecutivo para efectos de su promulgaci
 TERCERO. Descárguese de los pendientes de la Comisión de Desarrollo Agropecuario y Pesquero de esta soberanía popular y archívese como asunto total y definitivamente concluido.
 
 CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261 POR EL QUE SE REFORMAN LAS FRACCIONES XII, XXI, XXV Y LIV DEL ARTÍCULO 5; ARTÍCULOS 6, 9, FRACCIÓN XXXII, XXXIII Y XLIII, DEL ARTÍCULO 11; ARTÍCULOS 12, 15, 24; SE ADICIONAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 2; XLVI Y XLVII RECORRIÉNDOSE LA ACTUAL FRACCIÓN XLVI A LA FRACCIÓN LXVIII DEL ARTÍCULO 11;SE ADICIONAN LAS FRACCIONES XVII Y XVIII, RECORRIENDOSE LA ACTUAL FRACCIÓN XVVII (SIC) A LA FRACCIÓN XIX DEL ARTÍCULO 13, DE LA LEY NÚMERO 535 DE ACUICULTURA Y PESCA SUSTENTABLE DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a la Titular del Gobierno del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al Titular de la Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural del Gobierno del Estado de Guerrero, para los efectos legales conducentes.
+
+###### ARTÍCULO CUARTO.
+
+En un término de 180 hábiles de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá emitir el Reglamento a que se refiere la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Désele difusión al presente Decreto, en las plataformas digitales oficiales del H. Congreso del Estado para el conocimiento general y efectos legales procedentes.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero y en la gaceta oficial del H. Congreso del Estado para el conocimiento general y efectos legales procedentes.
