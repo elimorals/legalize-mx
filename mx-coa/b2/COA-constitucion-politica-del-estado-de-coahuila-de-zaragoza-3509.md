@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2025-07-04"
+last_updated: "2025-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1158,9 +1158,9 @@ Para ser diputado propietario o suplente se requiere:
 
 I. Ser ciudadano coahuilense o estar avecindado en el Estado cuando menos tres años continuos inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2025)</small>
 
-II. Tener 21 años cumplidos el día de la elección.
+II. Tener 18 años cumplidos el día de la elección.
 
 III. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía del Distrito, en que se pretenda su elección, cuando menos noventa días antes de ella.
 
@@ -4306,13 +4306,13 @@ Es deber de los padres preservar el derecho de los menores a la satisfacción de
 
 La Patria Potestad es el conjunto de derechos y deberes recíprocos, reflejo de la filiación, que corresponde por una parte a los padres y en su defecto a los abuelos y por la otra parte a los descendientes niñas o niños no emancipados, cuyo objeto es su desarrollo integral, la guarda de su persona y de sus bienes, así como su asistencia y representación legal. Es una función de interés público que se ejerce atendiendo al interés superior de la infancia, por lo tanto, dicha autoridad no podrá ser menoscabada, limitada ni suspendida sino mediante un mandamiento judicial, decretado fundadamente por un Juez, con conocimiento de causa y después de que los involucrados puedan ser oídos y vencidos en juicio, salvo lo dispuesto en las disposiciones aplicables, y los casos en que niños, niñas y adolescentes sean colocados en una situación de riesgo inminente e inmediato en la que se vean vulnerados sus derechos, debiendo actuar la autoridad competente de manera inmediata, urgente y expedita garantizando el interés superior de la infancia, mediante los mecanismos establecidos en la Ley de la Materia.
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2025)</small>
 
-El Estado realizará una política de previsión, tratamiento, rehabilitación e integración de los minusválidos, a los que prestará la atención especializada que requieran.
+El Estado realizará una política de inclusión para las personas con discapacidad, a quienes prestará la atención especializada que requieran.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2025)</small>
 
-Los ancianos tienen derecho al respeto y consideración de sus semejantes. En caso de desamparo, el Estado promoverá su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos de salud, alimentación, vivienda y recreación.
+A las personas adultas mayores, debe garantizarles el pleno respeto y ejercicio de sus derechos bajo los principios de inclusión e igualdad. En caso de desamparo, el Estado promoverá su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos de salud, alimentación, vivienda y recreación.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
 
@@ -4336,31 +4336,27 @@ La Ley establecerá los medios y apoyos necesarios para el logro de estos objeti
 
 Toda persona tiene derecho a la prestación de servicios médicos públicos o privados, obteniendo una atención eficiente, oportuna y de calidad, para ello, el estado promoverá la existencia de mecanismos que protejan y garanticen el derecho a la salud así como el libre ejercicio de la medicina en la entidad.
 
-Sin perjuicio de la competencia de las instancias jurisdiccionales y de las facultades que tiene la Comisión de Derechos Humanos del Estado de Coahuila en la protección del derecho a la salud, se constituye a la Comisión Coahuilense de Conciliación y Arbitraje Médico como un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, con el objeto de contribuir en el ámbito estatal, a mejorar la calidad en la prestación de los servicios médicos y resolver en forma imparcial los conflictos o diferencias suscitadas entre los usuarios y prestadores de servicios, con motivo de una atención médica.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2025)</small>
 
-La Comisión Coahuilense de Conciliación y Arbitraje Médico se constituirá de acuerdo a las bases siguientes:
+Sin perjuicio de la competencia de las instancias jurisdiccionales y de las facultades que tiene la Comisión de Derechos Humanos del Estado de Coahuila en la protección del derecho a la salud, el Poder Ejecutivo debe contar con un Órgano que tenga por objeto contribuir en el ámbito estatal, a mejorar la calidad en la prestación de los servicios médicos y resolver en forma imparcial los conflictos o diferencias suscitadas entre los usuarios y prestadores de servicios, con motivo de una atención médica.
 
-I. Será un organismo público autónomo, independiente en sus resoluciones, acuerdos, laudos, recomendaciones y dictámenes, así como en las demás funciones previstas en su marco legal;
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE OCTUBRE DE 2025)</small>
+
+El Órgano a que se refiere el párrafo anterior se constituirá de acuerdo a las bases siguientes:
+
+I. Será independiente en sus resoluciones, acuerdos, laudos, recomendaciones y dictámenes, así como en las demás funciones previstas en su marco legal;
 
 II. Conocerá de las quejas médicas que se susciten con motivo de una mala práctica en la atención médica o de la negativa u omisión en la prestación de esta, ofreciendo a los usuarios y prestadores de servicios médicos resolver sus conflictos a través de la conciliación y el arbitraje médico en los términos que establezca la ley de la materia;
 
 III. Será competente para promover las acciones de carácter preventivo, que permitan elevar la calidad en la atención de los servicios;
 
-IV. Contará con autonomía política, jurídica, administrativa, presupuestal, patrimonial y financiera, en los términos que establezca la ley;
+IV. Contará con autonomía política, jurídica, técnica y de gestión, en los términos que establezca la ley;
 
 V. Su actuación se regirá por los principios de legalidad, certeza, imparcialidad, equidad, objetividad, economía procesal, independencia, reserva y confidencialidad;
 
-VI. Los procedimientos, serán gratuitos, sencillos y ágiles;
+VI. Los procedimientos, serán gratuitos, sencillos y ágiles; y
 
-VII. Estará integrada por un Consejo General que será el órgano superior de gobierno, una Presidencia, las Subcomisiones, un órgano de control y demás unidades administrativas y personal necesario para su operación;
-
-VIII. Los integrantes del Consejo General serán designados por el voto de cuando menos las dos terceras partes de los Diputados presentes en el Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley;
-
-IX. La ley determinará los requisitos para ser Presidente, así como consejero de la Comisión Coahuilense de Conciliación y Arbitraje Médico;
-
-X. La Comisión Coahuilense de Conciliación y Arbitraje Médico podrá presentar iniciativas de leyes o decretos al Congreso del Estado en materia de su competencia en los términos de los artículos 59 y 60 de esta Constitución. En este caso la iniciativa se presentará por conducto del presidente, previo acuerdo del Consejo General;
-
-XI. Las demás atribuciones que establezca la ley.
+VII. Las demás atribuciones que establezca la ley.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
@@ -6357,3 +6353,39 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. En el Proceso Judicial Electoral Extraordinario 2024-2025 iniciado el 20 de diciembre de 2024 en el Estado, se aplicarán los lineamientos o directrices en materia de fiscalización de candidaturas judiciales que emita el Instituto Nacional Electoral.
 
 TERCERO. Se derogan y quedan sin efecto alguno todas las disposiciones que se opongan y contravengan este Decreto.
+
+P.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 307.- SE REFORMA EL PÁRRAFO SEGUNDO Y TERCERO DEL ARTÍCULO 173 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado, en un plazo máximo de 180 días a partir de la entrada en vigor del presente Decreto, deberá llevar a cabo las adecuaciones legislativas necesarias en las cuales se deberá establecer la forma en que se debe extinguir y liquidar a la Comisión Coahuilense de Arbitraje Médico.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto el órgano del Poder Ejecutivo a que se refiere este Decreto se constituya e inicie sus funciones, la Comisión Coahuilense de Arbitraje Médico continuará en funciones, atendiendo y resolviendo los asuntos de su competencia.
+
+P.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 308.- SE REFORMAN LOS PÁRRAFOS QUINTO Y SEXTO DEL ARTÍCULO 173 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 309.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 36, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado.
