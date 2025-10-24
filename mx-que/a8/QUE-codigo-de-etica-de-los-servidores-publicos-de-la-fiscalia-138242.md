@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-etica-de-los-servidores-publicos-de-la-fiscalia-13824
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-24"
-last_updated: "2019-07-24"
+last_updated: "2025-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA FISCALIA GENERAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2025 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 24 julio de 2019.
 
@@ -398,3 +400,21 @@ M. en C.P. Alejandro Echeverría Cornejo
 Fiscal General del Estado de Querétaro
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
+
+###### ARTICULO PRIMERO.
+
+El presente Código de Ética entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Código de Ética de los de los (sic) Servidores Públicos de la Fiscalía General del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga", el 24 de julio de 2019.
+
+###### ARTÍCULO TERCERO.
+
+Las investigaciones por presunta responsabilidad administrativa o procedimientos de responsabilidad administrativa iniciados antes de la entrada en vigor del presente Código, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
