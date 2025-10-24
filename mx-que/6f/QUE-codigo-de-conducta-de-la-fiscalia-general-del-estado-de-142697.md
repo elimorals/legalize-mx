@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-conducta-de-la-fiscalia-general-del-estado-de-142697"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-02-14"
-last_updated: "2020-02-14"
+last_updated: "2025-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE CONDUCTA DE LA FISCALIA GENERAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2025 (ABROGADO).
 
 Código publicado en el Número 11 del Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2020.
 
@@ -788,3 +790,21 @@ M. en C.P. Alejandro Echeverría Cornejo
 Fiscal General del Estado de Querétaro
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTICULO SEGUNDO.
+
+Las investigaciones o procedimientos de responsabilidad administrativa iniciados antes de la entrada en vigor del presente Código, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+###### ARTICULO TERCERO.
+
+Se abroga el Código de Conducta de la Fiscalía General del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el 14 de febrero de 2020.
