@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2025-08-27"
+last_updated: "2025-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2003-04-05"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
+LEY DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 24 DE OCTUBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -48,7 +48,9 @@ DECRETA:
 
 DECRETO POR EL QUE SE CREA LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+LEY DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -134,9 +136,9 @@ XIV. Disposición final: La acción de depositar o confinar permanentemente resi
 
 XV. Estaciones de transferencia: Las instalaciones para el trasbordo de los residuos sólidos de los vehículos de recolección a los vehículos de transferencia;
 
-> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-XV Bis. Certificado de Empresas Ambientalmente Responsables: El certificado otorgado por la Secretaría, a empresas y prestadores de servicio en cuya actividad aplica métodos, prácticas, técnicas y procesos que ayudan a reutilizar, reusar, reciclar, tratar y minimizar los residuos sólidos, donde todas estas actividades son compatibles y aceptadas como amigables para el medio ambiente, son seguras, de bajo riesgo para la población en general y beneficio de la misma, en términos de la Ley Ambiental del Distrito Federal, su Reglamento y demás disposiciones aplicables.
+XV Bis. Certificado de Empresas Ambientalmente Responsables: El certificado otorgado por la Secretaría, a empresas y prestadores de servicio en cuya actividad aplica métodos, prácticas, técnicas y procesos que ayudan a reutilizar, reusar, reciclar, tratar y minimizar los residuos sólidos, donde todas estas actividades son compatibles y aceptadas como amigables para el medio ambiente, son seguras, de bajo riesgo para la población en general y beneficio de la misma, en términos de la Ley Ambiental de la Ciudad de México, su Reglamento y demás disposiciones aplicables.
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -150,17 +152,17 @@ XVII. Generadores de alto volumen: Las personas físicas o morales que generen u
 
 XVIII. Gestión integral: El conjunto articulado e interrelacionado de acciones y normas operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de los residuos sólidos, desde su generación hasta la disposición final;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-XIX. Impactos ambientales significativos: Aquellos realizados por las actividades humanas que sobrepasen los límites permisibles en las normas oficiales mexicanas, las normas ambientales para el Distrito Federal, la ley ambiental, la ley General, los reglamentos y demás disposiciones jurídicas aplicables, o bien aquellos producidos por efectos naturales que implique daños al ambiente;
+XIX. Impactos ambientales significativos: Aquellos realizados por las actividades humanas que sobrepasen los límites permisibles en las normas oficiales mexicanas, las normas ambientales para la Ciudad de México, la ley ambiental, la ley General, los reglamentos y demás disposiciones jurídicas aplicables, o bien aquellos producidos por efectos naturales que implique daños al ambiente;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 XX. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-XXI. Ley Ambiental: La Ley Ambiental del Distrito Federal;
+XXI. Ley Ambiental: La Ley Ambiental de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -222,9 +224,9 @@ XXVI Quater. Productos plásticos de un solo uso: Productos que se fabrican tota
 
 XXVII. Pepena: La acción de recoger entre los residuos sólidos aquellos que tengan valor en cualquier etapa del sistema de manejo;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-XXVIII. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+XXVIII. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -282,9 +284,9 @@ XXXIX. Reciclaje: La transformación de los materiales o subproductos contenidos
 
 XL. Reutilización: El empleo de un residuo sólido sin que medie un proceso de transformación; con la función que desempeñaba anteriormente o con otros fines;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-XLI. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal;
+XLI. Secretaría: La Secretaría del Medio Ambiente de la Ciudad de México;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -306,7 +308,9 @@ XLIII. Valorización: El principio y conjunto de acciones asociadas cuyo objetiv
 
 Son autoridades competentes para la aplicación de la presente Ley, y ejercerán las atribuciones de conformidad con la distribución de facultades que este ordenamiento, su reglamento y demás disposiciones jurídicas aplicables establecen:
 
-I. La o el Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+I. La persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
 II. La Secretaría;
 
@@ -316,7 +320,9 @@ IV. La Secretaría de Salud;
 
 V. La Procuraduría; y
 
-VI. Las delegaciones.
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+VI. Las Alcaldías.
 
 ###### Artículo 5°.
 
@@ -324,13 +330,17 @@ Corresponde a la o el Jefe de Gobierno el ejercicio de las siguientes facultades
 
 I. Prestar el servicio público de limpia a través de las entidades, dependencias y órganos que al efecto señale la presente Ley;
 
-II. Aprobar el Programa de Gestión Integral de los Residuos Sólidos, de conformidad con lo dispuesto en la Ley de Planeación del Desarrollo del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+II. Aprobar el Programa de Gestión Integral de los Residuos Sólidos, de conformidad con lo dispuesto en la Ley del Sistema de Planeación del Desarrollo de la Ciudad de México;
 
 III. Expedir los ordenamientos que se deriven de la presente ley;
 
 IV. Celebrar convenios de coordinación en materia de manejo de los residuos sólidos y prestación del servicio público de limpia con la Federación, entidades federativas y municipios;
 
-V. Proponer el pago de derechos por la prestación del servicio público de limpia correspondiente en las disposiciones del Código Financiero del Distrito Federal; y
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+V. Proponer el pago de derechos por la prestación del servicio público de limpia correspondiente en las disposiciones del Código Fiscal de la Ciudad de México; y
 
 VI. Las demás que en la materia le otorguen esta Ley y otros ordenamientos jurídicos aplicables.
 
@@ -348,7 +358,9 @@ III. Coordinarse con la Secretaría de Obras y Servicios en la aplicación de la
 
 IV. Emitir opinión sobre el diseño, construcción, operación y cierre de estaciones de transferencia, plantas de selección y tratamiento, plantas de reciclaje y sitios de disposición final de los residuos sólidos.
 
-V. Integrar un inventario de los residuos sólidos y sus fuentes generadoras, en coordinación con la Secretaría de Obras y Servicios y las delegaciones;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+V. Integrar un inventario de los residuos sólidos y sus fuentes generadoras, en coordinación con la Secretaría de Obras y Servicios y las Alcaldías;
 
 VI. Integrar a la política de información y difusión en materia ambiental los asuntos derivados de la generación y manejo de los residuos sólidos;
 
@@ -362,9 +374,9 @@ VII Bis. Fomentar, en coordinación con la Secretaría de Obras y Servicios, la 
 
 VII Ter. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas informáticos y procesos que permita identificar y establecer la gestión integral de los residuos sólidos urbanos y los de manejo especial;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-VIII. Emitir los criterios, lineamientos, reglas y/o normas ambientales para el Distrito Federal con relación a la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización y disposición final de residuos sólidos, así como para establecer las condiciones de seguridad, requisitos y limitaciones en el manejo de los residuos sólidos que presenten riesgo para el ser humano, el equilibrio ecológico y el ambiente;
+VIII. Emitir los criterios, lineamientos, reglas y/o normas ambientales para la Ciudad de México con relación a la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización y disposición final de residuos sólidos, así como para establecer las condiciones de seguridad, requisitos y limitaciones en el manejo de los residuos sólidos que presenten riesgo para el ser humano, el equilibrio ecológico y el ambiente;
 
 > <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
 
@@ -472,15 +484,19 @@ XI. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de 
 
 XII. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia;
 
-XIII. Atender los asuntos en materia de los residuos sólidos que se generen entre el Distrito Federal y una o más entidades federativas, en coordinación con las autoridades competentes; y
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-XIV. Atender los demás asuntos que en materia de los residuos sólidos le concedan esta Ley y otros ordenamientos jurídicos aplicables y que no estén expresamente atribuidos a la Federación o a otras dependencias o entidades de la administración pública del Distrito Federal.
+XIII. Atender los asuntos en materia de los residuos sólidos que se generen entre la Ciudad de México y una o más entidades federativas, en coordinación con las autoridades competentes; y
 
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-###### Artículo 8°.
+XIV. Atender los demás asuntos que en materia de los residuos sólidos le concedan esta Ley y otros ordenamientos jurídicos aplicables y que no estén expresamente atribuidos a la Federación o a otras dependencias o entidades de la administración pública de la Ciudad de México.
 
-Corresponde a la Secretaría de Salud del Distrito Federal, en el ámbito de su competencia, emitir recomendaciones y, en coordinación con la Secretaría y la Secretaría de Obras y Servicios, determinar la aplicación de las medidas de seguridad, dirigidas a evitar riesgos y daños a la salud de la población, derivados del manejo integral, almacenamiento, tratamiento y disposición final de los residuos sólidos.
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 8º.
+
+Corresponde a la Secretaría de Salud de la Ciudad de México, en el ámbito de su competencia, emitir recomendaciones y, en coordinación con la Secretaría y la Secretaría de Obras y Servicios, determinar la aplicación de las medidas de seguridad, dirigidas a evitar riesgos y daños a la salud de la población, derivados del manejo integral, almacenamiento, tratamiento y disposición final de los residuos sólidos.
 
 ###### Artículo 9°.
 
@@ -542,11 +558,11 @@ XVI. Atender los demás asuntos que en materia de los residuos sólidos le conce
 
 ### CAPÍTULO I BIS. DE LA COMISIÓN PARA LA GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 10 Bis.
 
-El Jefe de Gobierno creará la Comisión para la Gestión Integral de Residuos Sólidos de la Ciudad de México, como órgano interinstitucional de coordinación, monitoreo, seguimiento y evaluación de las políticas, acciones y programas instrumentados por la Administración Pública del Distrito Federal en materia de generación, encierro, acopio, transferencia, selección, tratamiento, manejo, aprovechamiento, valorización y disposición final de residuos.
+La persona titular de la Jefatura de Gobierno creará la Comisión para la Gestión Integral de Residuos Sólidos de la Ciudad de México, como órgano interinstitucional de coordinación, monitoreo, seguimiento y evaluación de las políticas, acciones y programas instrumentados por la Administración Pública de la Ciudad de México en materia de generación, encierro, acopio, transferencia, selección, tratamiento, manejo, aprovechamiento, valorización y disposición final de residuos.
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -560,19 +576,29 @@ II. La Secretaría de Obras y Servicios;
 
 III. La Secretaría de Salud;
 
-IV. La Secretaría de Finanzas;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-V. La Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal;
+IV. La Secretaría de Administración y Finanzas;
+
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+V. La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
 
 VI. La Procuraduría Ambiental y del Ordenamiento Territorial;
 
-VII. El Jefe de Gobierno del Distrito Federal podrá invitar a dos integrantes de la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático de la Asamblea Legislativa del Distrito Federal, quienes participarán únicamente con derecho a voz.
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-Los integrantes de la Comisión, deberán designar a un representante con cargo mínimo en la Administración Pública del Distrito Federal de Director General o su homólogo, quien participará en sus sesiones de manera permanente, con derecho de voz y voto.
+VII. La persona titular de la Jefatura de Gobierno de la Ciudad de México podrá invitar a dos integrantes de la Comisión de Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica del Congreso de la Ciudad de México, quienes participarán únicamente con derecho a voz.
+
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+Los integrantes de la Comisión, deberán designar a un representante con cargo mínimo en la Administración Pública de la Ciudad de México de Director General o su homólogo, quien participará en sus sesiones de manera permanente, con derecho de voz y voto.
 
 Cuando a juicio de la Comisión resulte conveniente contar con la opinión o asesoría de las dependencias y entidades federales, estatales o municipales, así como de especialistas, instituciones educativas y de investigación, organizaciones sociales e internacionales, este órgano colegiado podrá invitarlas a participar en sus sesiones y actividades de forma permanente o temporal, únicamente con derecho de voz.
 
-En ausencia del Jefe de Gobierno del Distrito Federal fungirá como Presidente quien determine. Los representantes de los titulares de las Dependencias y Entidades serán el enlace entre éstas y la Comisión, a efecto de lograr una mayor eficiencia y eficacia en el cumplimiento de los acuerdos asumidos.
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+En ausencia de la persona titular de la Jefatura de Gobierno de la Ciudad de México fungirá como Presidente quien determine. Los representantes de los titulares de las Dependencias y Entidades serán el enlace entre éstas y la Comisión, a efecto de lograr una mayor eficiencia y eficacia en el cumplimiento de los acuerdos asumidos.
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -580,25 +606,35 @@ En ausencia del Jefe de Gobierno del Distrito Federal fungirá como Presidente q
 
 Corresponde a la Comisión para la Gestión Integral de los Residuos Sólidos de la Ciudad de México entre otras el ejercicio de las siguientes facultades:
 
-I. Proponer y, en su caso, definir los mecanismos y criterios de coordinación y transversalidad de los programas y acciones de la administración pública del Distrito Federal que se vinculen con la generación, manejo, tratamiento, minimización, aprovechamiento y disposición final de residuos, así como revisar y dar seguimiento al cumplimiento de los objetivos y metas establecidos en ellos;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+I. Proponer y, en su caso, definir los mecanismos y criterios de coordinación y transversalidad de los programas y acciones de la administración pública de la Ciudad de México que se vinculen con la generación, manejo, tratamiento, minimización, aprovechamiento y disposición final de residuos, así como revisar y dar seguimiento al cumplimiento de los objetivos y metas establecidos en ellos;
 
 II. Proponer a las instancias federales y estatales la adopción de estrategias y políticas metropolitanas enfocadas a atender de manera integral el tema de los residuos;
 
 III. Presentar al Jefe de Gobierno los resultados de las investigaciones, estudios y diagnósticos elaborados por los integrantes o invitados de la Comisión, cuyo objeto consista en mejorar el diseño, planeación y generación de proyectos, programas y acciones gubernamentales en materia de generación, manejo, tratamiento, aprovechamiento y disposición final de residuos;
 
-IV. Proponer a las dependencias y entidades de la administración pública del Distrito Federal, la suscripción de convenios, contratos o cualquier instrumento jurídico con los sectores público, privado y social, que contribuyan a la solución de los problemas creados por los residuos sólidos, desde su generación hasta su disposición final;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+IV. Proponer a las dependencias y entidades de la administración pública de la Ciudad de México, la suscripción de convenios, contratos o cualquier instrumento jurídico con los sectores público, privado y social, que contribuyan a la solución de los problemas creados por los residuos sólidos, desde su generación hasta su disposición final;
 
 V. Proponer y, en su caso, presentar a las autoridades competentes los proyectos de modificaciones legislativas, reglamentarias y administrativas que actualicen y hagan más eficiente el marco normativo aplicable en materia de generación, encierro, acopio, transferencia, selección, tratamiento, manejo, aprovechamiento, valorización y disposición final de residuos.
 
 VI. Fomentar la participación de los sectores público, privado y social en la instrumentación de los programas, proyectos y acciones gubernamentales en materia de generación, encierro, acopio, transferencia, selección, tratamiento, manejo, aprovechamiento, valorización y disposición final de residuos.
 
-VII. Diseñar estrategias financieras que generen recursos al Gobierno del Distrito Federal, a través de los mecanismos económicos previstos en los instrumentos nacionales e internacionales y, en su caso, proponer su ejecución a las autoridades competentes;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-VIII. Informar periódicamente al Jefe de Gobierno del Distrito Federal y a la Asamblea Legislativa del Distrito Federal, los avances de los programas, acciones y resultados de la Comisión;
+VII. Diseñar estrategias financieras que generen recursos al Gobierno de la Ciudad de México, a través de los mecanismos económicos previstos en los instrumentos nacionales e internacionales y, en su caso, proponer su ejecución a las autoridades competentes;
+
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+VIII. Informar periódicamente a la persona titular de la Jefatura de Gobierno de la Ciudad de México y al Congreso de la Ciudad de México, los avances de los programas, acciones y resultados de la Comisión;
 
 IX. Aprobar la creación, modificación o cancelación de las subcomisiones que considere necesarias para el mejor cumplimiento de sus atribuciones;
 
-X. Conocer, revisar y, en su caso, dar seguimiento a las acciones y programas de gestión integral de los residuos que diseñen o ejecuten las dependencias y entidades de la administración pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+X. Conocer, revisar y, en su caso, dar seguimiento a las acciones y programas de gestión integral de los residuos que diseñen o ejecuten las dependencias y entidades de la administración pública de la Ciudad de México;
 
 XI. Acordar la planeación y ejecución de programas o proyectos que por su grado de especificidad técnica requieran ser atendidos por la Comisión y sus integrantes;
 
@@ -712,9 +748,11 @@ La Secretaría de Obras y Servicios y las delegaciones formularán, ejecutarán 
 
 En la elaboración de los programas a los que se refiere el presente Capítulo, las autoridades competentes promoverán la participación de la sociedad.
 
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 13.
 
-La Secretaria de Obras y Servicios, al elaborar el programa de prestación del servicio público de limpia de su competencia, deberá considerar las disposiciones contendidas en esta Ley, su reglamento, las normas oficiales mexicanas, las normas ambientales para el Distrito Federal, el Programa de Gestión Integral de los Residuos Sólidos, los criterios y normas técnicas para la prestación del servicio público de limpia, y otros ordenamientos jurídicos aplicables.
+La Secretaría de Obras y Servicios, al elaborar el programa de prestación del servicio público de limpia de su competencia, deberá considerar las disposiciones contendidas en esta Ley, su reglamento, las normas oficiales mexicanas, las normas ambientales para la Ciudad de México, el Programa de Gestión Integral de los Residuos Sólidos, los criterios y normas técnicas para la prestación del servicio público de limpia, y otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -722,23 +760,31 @@ La Secretaria de Obras y Servicios, al elaborar el programa de prestación del s
 
 La Secretaría de Obras y Servicios, en coordinación con la Secretaría y las Secretarías de Desarrollo Económico y de Finanzas, promoverá incentivos económicos para aquellas personas que desarrollen acciones de prevención, minimización, valorización, reutilización y reciclaje, así como para la inversión en tecnología y utilización de prácticas, métodos o procesos que coadyuven a mejorar el manejo integral de los residuos sólidos.
 
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-En aquellos casos en que sea técnica y económicamente factible, la o el Jefe de Gobierno del Distrito Federal, a través de las autoridades competentes, promoverá la creación de mercados de subproductos que establezcan mecanismos que involucren la participación de los productores, distribuidores, comercializadores y consumidores en la valorización de los materiales y productos que se conviertan en residuos sólidos.
+En aquellos casos en que sea técnica y económicamente factible, la persona titular de la Jefatura de Gobierno de la Ciudad de México, a través de las autoridades competentes, promoverá la creación de mercados de subproductos que establezcan mecanismos que involucren la participación de los productores, distribuidores, comercializadores y consumidores en la valorización de los materiales y productos que se conviertan en residuos sólidos.
 
-> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 15 Bis.
 
-La Secretaría promoverá e implementará la formación y operación de sistemas y mecanismos de intercambio de residuos sólidos generados por los habitantes del Distrito Federal, por productos agrícolas que provean los productores autorizados por aquélla.
+La Secretaría promoverá e implementará la formación y operación de sistemas y mecanismos de intercambio de residuos sólidos generados por los habitantes de la Ciudad de México, por productos agrícolas que provean los productores autorizados por aquélla.
 
-Asimismo, la Secretaría, en coordinación con la Secretaría de Obras y Servicios, la Secretaría de Desarrollo Económico y las Delegaciones, determinará los criterios y medios necesarios para que dichos mecanismos conlleven a un mayor aprovechamiento de los residuos sólidos, favorezcan la economía de la población participante y garanticen el consumo sustentable en la Ciudad.
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+Asimismo, la Secretaría en coordinación con la Secretaría de Obras y Servicios, la Secretaría de Desarrollo Económico y las Alcaldías, determinará los criterios y medios necesarios para que dichos mecanismos conlleven a un mayor aprovechamiento de los residuos sólidos, favorezcan la economía de la población participante y garanticen el consumo sustentable en la Ciudad.
+
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2015)</small>
 
 Aunado a lo anterior, la Secretaría deberá crear, actualizar y difundir el catálogo de bienes que podrán ser motivo de cambio por los residuos sólidos que la población entregue en los sitios que se definan para tal efecto.
 
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 16.
 
-Los programas de educación formal y no formal que desarrollen o fomenten los centros o instituciones educativas de competencia del Distrito Federal, así como las asociaciones o instituciones legalmente constituidas, establecerán mecanismos orientados a fomentar una cultura de manejo integral de los residuos sólidos que promuevan, además, la separación seleccionada de dichos residuos y su valorización.
+Los programas de educación formal y no formal que desarrollen o fomenten los centros o instituciones educativas de competencia de la Ciudad de México, así como las asociaciones o instituciones legalmente constituidas, establecerán mecanismos orientados a fomentar una cultura de manejo integral de los residuos sólidos que promuevan, además, la separación seleccionada de dichos residuos y su valorización.
 
 ###### Artículo 17.
 
@@ -762,9 +808,11 @@ IV. La promoción de las demás acciones que determine el reglamento de la prese
 
 Las autoridades establecidas en el artículo 4° de la presente Ley sistematizarán y pondrán a disposición del público la información obtenida en el ejercicio de sus funciones vinculadas a la generación y manejo integral de los residuos sólidos, y la prestación de los servicios de limpia a su cargo, mediante los mecanismos establecidos en el capítulo correspondiente de la Ley Ambiental, sin perjuicio de la debida reserva de aquella información protegida por las leyes.
 
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-La Secretaría solicitará periódicamente a la autoridad federal toda la información que considere necesaria sobre el manejo y transporte de residuos peligrosos en el territorio del Distrito Federal. Dicha información la incluirá en el Sistema de Información Ambiental.
+La Secretaría solicitará periódicamente a la autoridad federal toda la información que considere necesaria sobre el manejo y transporte de residuos peligrosos en el territorio de la Ciudad de México. Dicha información la incluirá en el Sistema de Información Ambiental.
 
 ## TÍTULO TERCERO. DE LA PREVENCIÓN Y MINIMIZACIÓN DE LA GENERACIÓN DE LOS RESIDUOS SÓLIDOS
 
@@ -870,13 +918,17 @@ La comercialización, distribución y entrega de cápsulas de café de un solo u
 
 XII. Mezclar residuos peligrosos con residuos sólidos e industriales no peligrosos; y
 
-XIII. Confinar o depositar en sitios de disposición final residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas ambientales del Distrito Federal.
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+XIII. Confinar o depositar en sitios de disposición final residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas ambientales de la Ciudad de México.
 
 > <small>(ADICIONADA, G.O. 24 DE JULIO DE 2012)</small>
 
 XIV. Utilizar envases que hayan contenido sustancias tóxicas con fines distintos para los que fueron creados, como almacenar o trasportar productos para consumo humano.
 
-Las violaciones a lo establecido en este artículo se sancionarán de conformidad con lo dispuesto en esta Ley, sin perjuicio de lo establecido en la Ley de Justicia Cívica del Distrito Federal y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+Las violaciones a lo establecido en este artículo se sancionarán de conformidad con lo dispuesto en esta Ley, sin perjuicio de lo establecido en la Ley de Cultura Cívica de la Ciudad de México y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 26.
 
@@ -956,15 +1008,19 @@ Para los efectos de esta Ley, los residuos sólidos se clasifican en:
 
 I. Residuos urbanos; y
 
-II. Residuos de manejo especial considerados como no peligrosos y sean competencia del Distrito Federal.
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+II. Residuos de manejo especial considerados como no peligrosos y sean competencia de la Ciudad de México.
 
 ###### Artículo 30.
 
 Son residuos urbanos los que se refiere la fracción XXXI del artículo 3° de la presente Ley, así como los residuos provenientes de las actividades de limpieza y cuidado de áreas verdes a las que se refiere la Ley Ambiental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 31.
 
-Son residuos de manejo especial, siempre y cuando no estén considerados como peligrosos de conformidad con las disposiciones federales aplicables, y sean competencia del Distrito Federal, los siguientes:
+Son residuos de manejo especial, siempre y cuando no estén considerados como peligrosos de conformidad con las disposiciones federales aplicables, y sean competencia de la Ciudad de México, los siguientes:
 
 I. Los provenientes de servicios de salud, generados por establecimientos que realicen actividades médico-asistenciales a las poblaciones humanas o animales, centros de investigación, desarrollo o experimentación en el área de farmacología y salud;
 
@@ -1052,21 +1108,25 @@ Los residuos de manejo especial, deberán separarse conforme a la clasificación
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 36.
 
-La prestación del servicio de limpia en el Distrito Federal constituye un servicio público que estará a cargo de la Administración Pública del Distrito Federal, a través de la Secretaría de Obras y Servicios y las Delegaciones, en los términos de esta Ley y demás ordenamientos jurídicos aplicables.
+La prestación del servicio de limpia en la Ciudad de México constituye un servicio público que estará a cargo de la Administración Pública de la Ciudad de México, a través de la Secretaría de Obras y Servicios y las Alcaldías, en los términos de esta Ley y demás ordenamientos jurídicos aplicables. El servicio público de limpia comprende:
 
-El servicio público de limpia comprende:
+(REPUBLICADA, G.O. 24 DE OCTUBRE DE 2025)
 
 I. El barrido de vías públicas, áreas comunes y vialidades, así como la recolección de los residuos sólidos; y
 
+(REPUBLICADA, G.O. 24 DE OCTUBRE DE 2025)
+
 II. La transferencia, aprovechamiento, tratamiento y disposición final de los residuos sólidos.
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 36 Bis.
 
-En lo que refiere al servicio público de limpia a cargo de las Delegaciones, particularmente en el barrido manual y recolección domiciliaria y en el entendido de lo dispuesto en el artículo 36 de esta Ley, queda absolutamente prohibido a terceros bajo cualquier figura, agrupación, organización, razón social o a título individual y que no estén debidamente registrados y autorizados ante la Secretaría que presten, ofrezcan y ejecuten cualquier acción o actividad relacionada con el servicio público de limpia, toda vez que este, corresponde única y exclusivamente a las autoridades competentes de la Administración Pública del Distrito Federal, a través de los lineamientos y organización que se tiene para el manejo integral de los residuos sólidos urbanos, la recolección selectiva y todas aquellas medidas y coordinación que sostienen los trabajadores de limpia con las autoridades. La contravención a este artículo será sancionada conforme a lo previsto en esta Ley, y en los ordenamientos aplicables vigentes.
+En lo que refiere al servicio público de limpia a cargo de las Alcaldías, particularmente en el barrido manual y recolección domiciliaria y en el entendido de lo dispuesto en el artículo 36 de esta Ley, queda absolutamente prohibido a terceros bajo cualquier figura, agrupación, organización, razón social o a título individual y que no estén debidamente registrados y autorizados ante la Secretaría que presten, ofrezcan y ejecuten cualquier acción o actividad relacionada con el servicio público de limpia, toda vez que este, corresponde única y exclusivamente a las autoridades competentes de la Administración Pública de la Ciudad de México, a través de los lineamientos y organización que se tiene para el manejo integral de los residuos sólidos urbanos, la recolección selectiva y todas aquellas medidas y coordinación que sostienen los trabajadores de limpia con las autoridades. La contravención a este artículo será sancionada conforme a lo previsto en esta Ley, y en los ordenamientos aplicables vigentes.
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1080,13 +1140,21 @@ Quedan exceptuados de la disposición contenida en el Artículo 36 Bis las empre
 
 Los grandes generadores de residuos sólidos urbanos están obligados a:
 
-I. Contratar los servicios de recolección con las empresas autorizadas para tal efecto, a las cuales se hace mención en el artículo 36 Ter; mismas que a su vez deberán cubrir el pago de derechos establecidos en el Código Fiscal para el Distrito Federal, si hacen uso de la infraestructura del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-II. Cubrir el pago de derechos establecidos en el Código Fiscal para el Distrito Federal y cumplir con los lineamientos de traslado de residuos sólidos urbanos si es que lo hacen mediante sus propios medios; y
+I. Contratar los servicios de recolección con las empresas autorizadas para tal efecto, a las cuales se hace mención en el artículo 36 Ter; mismas que a su vez deberán cubrir el pago de derechos establecidos en el Código Fiscal de la Ciudad de México, si hacen uso de la infraestructura del Gobierno de la Ciudad de México;
 
-III. Solicitar a la Delegación correspondiente o a la Secretaría de Obras y Servicios, la recolección respectiva, cubriendo en todo momento el pago de derechos establecidos en el Código Fiscal para el Distrito Federal.
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-Lo anterior, en términos de lo dispuesto en el artículo 243 y demás disposiciones aplicables del Código Fiscal del Distrito Federal.
+II. Cubrir el pago de derechos establecidos en el Código Fiscal de la Ciudad de México y cumplir con los lineamientos de traslado de residuos sólidos urbanos si es que lo hacen mediante sus propios medios; y
+
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+III. Solicitar a la Alcaldía correspondiente o a la Secretaría de Obras y Servicios, la recolección respectiva, cubriendo en todo momento el pago de derechos establecidos en el Código Fiscal de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+Lo anterior, en términos de lo dispuesto en el artículo 243 y demás disposiciones aplicables del Código Fiscal de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1108,7 +1176,9 @@ Todo generador de los residuos sólidos tiene la obligación de entregarlos al s
 
 El servicio de recolección domiciliaria en casa habitación, unidades habitacionales y demás edificaciones destinadas a vivienda, así como los establecimientos mercantiles considerados como contribuyentes de ingresos menores, se realizará de manera gratuita.
 
-Los establecimientos mercantiles y de servicios distintos a los establecidos en el párrafo anterior, empresas, fábricas, tianguis, mercados sobre ruedas autorizados, mercados públicos, centros de abasto, concentraciones comerciales, industrias y similares, así como las dependencias y entidades federales, que generen residuos sólidos en alto volumen, deberán pagar las tarifas correspondientes por los servicios de recolección y recepción de residuos sólidos que establece el Código Financiero del Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+Los establecimientos mercantiles y de servicios distintos a los establecidos en el párrafo anterior, empresas, fábricas, tianguis, mercados sobre ruedas autorizados, mercados públicos, centros de abasto, concentraciones comerciales, industrias y similares, así como las dependencias y entidades federales, que generen residuos sólidos en alto volumen, deberán pagar las tarifas correspondientes por los servicios de recolección y recepción de residuos sólidos que establece el Código Fiscal de la Ciudad de México.
 
 ###### Artículo 39.
 
@@ -1126,9 +1196,11 @@ Asimismo, los generadores de los residuos sólidos a los que se refiere este art
 
 Las delegaciones deberán colocar en las vías y áreas públicas los contenedores para el depósito separado de residuos sólidos producidos por los transeúntes o usuarios de los sitios citados, en número y capacidad acordes a las necesidades pertinentes. Asimismo, se obliga a las delegaciones a dar mantenimiento a los contenedores y proceder a la recolección de dichos residuos en forma constante y permanente, conforme lo que establezca el Reglamento y el Programa de Prestación del Servicio público de limpia correspondiente.
 
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 42.
 
-Los contenedores de residuos urbanos deberán mantenerse dentro del predio de la persona que lo habita o del establecimiento de que se trate y sólo se sacarán a la vía pública o áreas comunes el tiempo necesario para su recolección el día y hora señalados por el servicio público de limpia. Dichos contenedores deberán satisfacer las necesidades de servicio del inmueble, y cumplir con las condiciones de seguridad e higiene, de conformidad con la Ley de Salud para el Distrito Federal y demás ordenamientos aplicables.
+Los contenedores de residuos urbanos deberán mantenerse dentro del predio de la persona que lo habita o del establecimiento de que se trate y sólo se sacarán a la vía pública o áreas comunes el tiempo necesario para su recolección el día y hora señalados por el servicio público de limpia. Dichos contenedores deberán satisfacer las necesidades de servicio del inmueble, y cumplir con las condiciones de seguridad e higiene, de conformidad con la Ley de Salud de la Ciudad de México y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, G.O. 3 DE ABRIL DE 2023)</small>
 
@@ -1136,11 +1208,11 @@ Los contenedores de residuos urbanos deberán mantenerse dentro del predio de la
 
 Para su operación en la Ciudad de México, los prestadores de servicio para el manejo de residuos deberán de contar con la autorización correspondiente por parte de la Secretaría. La contravención a lo dispuesto en el presente artículo será motivo de las medidas de seguridad y/o sanciones que resulten aplicables.
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 42 Ter.
 
-Los prestadores de servicio de recolección privada de otros Estados que operen en el Distrito Federal, deberán registrarse ante la Secretaría y deberán presentar su plan de manejo en los formatos que esta autoridad determine.
+Los prestadores de servicio de recolección privada de otros Estados que operen en la Ciudad de México, deberán registrarse ante la Secretaría y deberán presentar su plan de manejo en los formatos que esta autoridad determine.
 
 ### CAPÍTULO III. DE LA TRANSFERENCIA Y TRATAMIENTO DE RESIDUOS SÓLIDOS
 
@@ -1168,11 +1240,11 @@ IV. Area para segregar y almacenar temporalmente los residuos, por tiempos acord
 
 V. Los demás requisitos que determine el Reglamento y normas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 46.
 
-Las plantas de selección y tratamiento de los residuos sólidos que pertenezcan al Distrito Federal, deberán contar con la infraestructura tecnológica de vanguardia necesaria, para la realización del trabajo especializado que permita generar energía renovable y limpia.
+Las plantas de selección y tratamiento de los residuos sólidos que pertenezcan a la Ciudad de México, deberán contar con la infraestructura tecnológica de vanguardia necesaria, para la realización del trabajo especializado que permita generar energía renovable y limpia.
 
 > <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -1188,7 +1260,9 @@ Las instalaciones de tratamiento térmico autorizadas deberán cumplir con lo es
 
 Los administradores o propietarios de dichas plantas deberán realizar reportes mensuales y enviar dicha información a la autoridad competente para su evaluación y control.
 
-La Secretaría emitirá norma ambiental para el Distrito Federal en los términos establecidos en el artículo 37 de la Ley Ambiental del Distrito Federal y demás aplicables, que establezca los requisitos o especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana relacionada con el tratamiento térmico de los residuos sólidos y que sus emisiones puedan causar daños al ambiente y la salud humana, quedando restringida la emisión de dioxinas y furanos a la atmósfera que rebasen los límites establecidos en la normatividad federal y del Distrito Federal aplicable, derivadas de tratamientos térmicos e incineradores.
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+La Secretaría emitirá norma ambiental para la Ciudad de México en los términos establecidos en el artículo 37 de la Ley Ambiental de la Ciudad de México y demás aplicables, que establezca los requisitos o especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana relacionada con el tratamiento térmico de los residuos sólidos y que sus emisiones puedan causar daños al ambiente y la salud humana, quedando restringida la emisión de dioxinas y furanos a la atmósfera que rebasen los límites establecidos en la normatividad federal y de la Ciudad de México aplicable, derivadas de tratamientos térmicos e incineradores.
 
 Cualquier persona puede denunciar ante la autoridad correspondiente cuando se trate de violaciones a las disposiciones del presente artículo en los términos del Capítulo IV del Título Séptimo de esta Ley.
 
@@ -1208,7 +1282,9 @@ La selección de los sitios para disposición final, así como la construcción 
 
 Los sitios de disposición final tendrán un acceso restringido a materiales reutilizables o reciclables y deberá recibir un menor porcentaje de residuos orgánicos. Además, emplearán mecanismos para instalar sistemas de extracción de biogás y tratamiento de lixiviados para su recolección.
 
-Los sitios de disposición final de los residuos sólidos que pertenezcan al Distrito Federal, deberán contar con infraestructura tecnológica de vanguardia necesaria, para la realización del trabajo especializado que permita generar energía renovable y limpia.
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+Los sitios de disposición final de los residuos sólidos que pertenezcan a la Ciudad de México, deberán contar con infraestructura tecnológica de vanguardia necesaria, para la realización del trabajo especializado que permita generar energía renovable y limpia.
 
 ###### Artículo 52.
 
@@ -1288,9 +1364,11 @@ Los controles sobre las características apropiadas de los materiales para la pr
 
 La composta que no pueda ser aprovechada deberá ser enviada a los rellenos sanitarios para su disposición final.
 
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 64.
 
-Toda persona que lleve a cabo procesos de tratamiento de residuos urbanos orgánicos para composta debe cumplir con las disposiciones que establecen las normas oficiales mexicanas y las normas ambientales para el Distrito Federal en esta materia.
+Toda persona que lleve a cabo procesos de tratamiento de residuos urbanos orgánicos para composta debe cumplir con las disposiciones que establecen las normas oficiales mexicanas y las normas ambientales para la Ciudad de México en esta materia.
 
 ## TÍTULO SEXTO. DE LAS DISPOSICIONES COMPLEMENTARIAS DE LA RESTAURACIÓN, PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
@@ -1326,7 +1404,9 @@ V. Imponer el monto de la garantía en lo referente a los residuos de la constru
 
 La autoridad correspondiente podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores.
 
-Las medidas de seguridad previstas en este capítulo, se sujetarán a lo dispuesto en la Ley del Procedimiento Administrativo del Distrito Federal y demás ordenamientos aplicables.
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+Las medidas de seguridad previstas en este capítulo, se sujetarán a lo dispuesto en la Ley del Procedimiento Administrativo de la Ciudad de México y demás ordenamientos aplicables.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
@@ -1392,9 +1472,9 @@ III. El carácter intencional o negligente de la acción u omisión constitutiva
 
 IV. La reincidencia en la comisión de infracciones, la gravedad de la conducta y la intención con la cual fue cometida; y
 
-> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-V. Los casos en que el monto de la multa impuesta será conmutada por medidas de compensación las cuales serán destinadas al Fondo Ambiental Público del Distrito Federal.
+V. Los casos en que el monto de la multa impuesta será conmutada por medidas de compensación las cuales serán destinadas al Fondo Ambiental Público de la Ciudad de México.
 
 ###### Artículo 71.
 
@@ -1412,9 +1492,11 @@ En caso de que se expidan licencias, permisos, autorizaciones o concesiones cont
 
 ### CAPÍTULO III. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 74.
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su reglamento, y disposiciones que de ella emanen, podrán ser impugnadas, mediante el recurso de inconformidad conforme a las reglas establecidas en la Ley de Procedimiento Administrativo del Distrito Federal.
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su reglamento, y disposiciones que de ella emanen, podrán ser impugnadas, mediante el recurso de inconformidad conforme a las reglas establecidas en la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ### CAPÍTULO IV. DE LA DENUNCIA CIUDADANA
 
@@ -1687,3 +1769,11 @@ SEGUNDO. El presente Decreto entrará en vigor a los 365 días siguientes de su 
 TERCERO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
 
 CUARTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3º, FRACCIONES XV BIS, XIX, XXI, XXVIII, Y XLI; 4º, FRACCIONES I Y VI; 5º, FRACCIONES II Y V; 6º, FRACCIONES V Y VIII; 7º, FRACCIONES XIII Y XIV; 8º; 10 BIS; 10 BIS 1, FRACCIONES IV, V, VII, Y SEGUNDO Y CUARTO PÁRRAFOS; 10 BIS 2, FRACCIONES I, IV, VII, VIII Y X; 13; 15; 15 BIS PÁRRAFOS PRIMERO Y SEGUNDO; 16; 20; 25, FRACCIÓN XIII Y ÚLTIMO PÁRRAFO; 29, FRACCIÓN II; 31 PRIMER PÁRRAFO; 36, PRIMER PÁRRAFO; 36 BIS; 36 QUATER, FRACCIONES I, II, III Y ÚLTIMO PÁRRAFO; 38, ÚLTIMO PÁRRAFO¸ 42; 42 TER; 46, PRIMER PÁRRAFO; 48, PÁRRAFO TERCERO; 51, SEGUNDO PÁRRAFO; 64; 66, ÚLTIMO PÁRRAFO; 70, FRACCIÓN V, Y 74, ASÍ COMO LA DENOMINACIÓN DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
