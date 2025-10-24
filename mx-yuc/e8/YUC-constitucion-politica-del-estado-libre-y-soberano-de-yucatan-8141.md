@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2025-07-21"
+last_updated: "2025-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE OCTUBRE DE 2025.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -103,6 +103,18 @@ El Estado reconoce el derecho fundamental al acceso libre y universal de banda a
 
 Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de estos, conforme a los principios y bases del Artículo 6º de la Constitución Política de los Estados Unidos Mexicanos y en los términos previstos en las leyes secundarias en la materia.
 
+> <small>(ADICIONADO, D.O. 24 DE OCTUBRE DE 2025)</small>
+
+El Estado reconoce y protege los derechos de las personas lesbianas, gays, bisexuales, transgénero, travesti, transexuales, intersexuales y demás personas de la diversidad sexogenérica a una vida libre de violencia y discriminación. La ley establecerá mecanismos y políticas para orientar el quehacer público y fomentar en la sociedad la igualdad y no discriminación.
+
+> <small>(ADICIONADO, D.O. 24 DE OCTUBRE DE 2025)</small>
+
+En el Estado de Yucatán todas las personas tienen derecho a la Paz, la cual debe comprenderse como un derecho humano positivo, dinámico, participativo, individual y colectivo con el que se fomente el diálogo y la resolución pacífica de los conflictos.
+
+> <small>(ADICIONADO, D.O. 24 DE OCTUBRE DE 2025)</small>
+
+Para el respeto y garantía del derecho a la Paz, el Estado y sus municipios deberán establecer políticas públicas enfocadas a la construcción de la cultura de la paz para el buen convivir. Además, impulsarán acciones de paz positiva a través del respeto a los derechos humanos, el fortalecimiento institucional, la participación ciudadana, la reconstrucción del tejido social, la unión familiar y la integración comunitaria, así como la seguridad ciudadana.
+
 > <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 Queda prohibida toda discriminación por motivo de raza, origen étnico, nacionalidad, género e identidad de género, edad, discapacidades, condiciones de salud, social, económica o lingüística, preferencias sexuales, identidad sexual, filiación, instrucción, religión, ideología política, o cualquier otro que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas; así como el uso de cualquier forma de violencia, la comisión de actos que humillen y ultrajen a las personas, para lo cual se debe impartir una educación basada en una mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, manteniendo un plano de igualdad y de respeto para todos. Las niñas, niños y adolescentes no podrán ser objeto de medidas que con la pretensión de ser correctivas, se fundamenten en causas discriminatorias o que sean consecuencia de las actividades, las opiniones expresadas o las creencias de sus padres, o sus tutores o de sus demás familiares.
@@ -150,6 +162,14 @@ El Estado garantizará al pueblo maya el acceso a la justicia y la aplicación d
 > <small>(ADICIONADO, D.O. 8 DE AGOSTO DE 2022)</small>
 
 El derecho a la ciudad permite garantizar el ejercicio pleno de los derechos humanos, la función social de la ciudad, su gestión democrática y asegurar la justicia territorial, la inclusión social, la movilidad y la distribución equitativa de bienes públicos y la prestación de servicios públicos considerando la participación de la ciudadanía.
+
+> <small>(ADICIONADO, D.O. 24 DE OCTUBRE DE 2025)</small>
+
+El campo es la base fundamental para el desarrollo rural integral y sustentable en el Estado, por ello, se reconocen los derechos de las personas campesinas establecidos en los Tratados Internacionales de los que el Estado Mexicano es parte, así como los reconocidos por la Constitución Política de los Estados Unidos Mexicanos. Las medidas legislativas y administrativas adoptadas por el Estado para favorecer su protección, promoción y mejora deberán salvaguardarlos.
+
+> <small>(ADICIONADO, D.O. 24 DE OCTUBRE DE 2025)</small>
+
+El Estado promoverá la participación de las personas trabajadoras del campo y otras que laboren en zonas rurales de manera directa o por conducto de organizaciones representativas en la elaboración de políticas, programas y proyectos que les afecten su vida, sus tierras o medios de subsistencia.
 
 > <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
@@ -3299,9 +3319,13 @@ El concubinato es la unión de dos personas, quienes libres de matrimonio, viven
 
 El Estado y la ley protegerán la organización y el desarrollo de la familia, así como el respeto a su dignidad e intimidad. Asimismo, regularán el matrimonio, las causas de separación, disolución y sus efectos; así como las condiciones para la constitución del concubinato.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 24 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 95.
 
-(DEROGADO, D.O. 12 DE DICIEMBRE DE 1997)
+El Estado reconoce a los animales como seres sintientes. En virtud de ello, debe garantizar la protección, el trato digno, la conservación y el cuidado de los animales, así como promover en la ciudadanía la corresponsabilidad social, ética y jurídica respecto de su vida, bienestar e integridad como sujetos de este derecho.
+
+Las autoridades competentes en el Estado adoptarán las medidas necesarias para fomentar una cultura de respeto, cuidado y protección de los animales, conforme a lo dispuesto en esta Constitución y en las leyes aplicables.
 
 > <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
 
@@ -6362,3 +6386,19 @@ Se faculta al Gobernador para resolver las cuestiones que puedan suscitarse con 
 Artículo décimo. Previsiones presupuestales
 
 El Gobernador, a través de la Secretaría de Administración y Finanzas, en la elaboración del proyecto de Presupuesto de Egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para su debida aplicación.
+
+D.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 118/2025 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE RECONOCIMIENTO DE DERECHOS HUMANOS”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuación normativa
+
+Artículo segundo. El Congreso del Estado deberá expedir la normatividad señalada en el párrafo cuarto del artículo 2º de la Constitución Política del Estado de Yucatán de este decreto dentro de los ciento ochenta días naturales siguientes a la entrada en vigor.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
