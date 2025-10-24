@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2024-03-15"
+last_updated: "2025-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE OCTUBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -111,6 +111,10 @@ IX. Equipamiento urbano: El conjunto de inmuebles, instalaciones, construcciones
 X. Espacio Público; Las áreas para la recreación pública y las vías públicas, tales como, plazas, calles, avenidas, viaductos, paseos, jardines, bosques, parques públicos y demás de naturaleza análoga;
 
 XI. Estatuto: El Estatuto de Gobierno del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+XI Bis. Evaluación Ambiental Estratégica: Procedimiento que incluye el conjunto de estudios e informes técnicos que permiten estimar los efectos de un plan o programa de gran trascendencia, de desarrollo sectorial e institucional sobre el medio ambiente, con el fin de prevenirlos, compensarlos y mitigarlos.
 
 XII. Gaceta Oficial: La Gaceta Oficial del Distrito Federal;
 
@@ -332,7 +336,9 @@ XXVIII. Expedir los Planos de Zonificación de Anuncios, tomando en cuenta las n
 
 XXIX. Promover, dictaminar y coordinar los sistemas de actuación, privada, social y por cooperación;
 
-XXX. Coordinarse con la Secretaría del Medio Ambiente para preservar y restaurar los recursos naturales, así como para prevenir y controlar la contaminación, de conformidad con las disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+XXX. Coordinarse con la Secretaría del Medio Ambiente para preservar y restaurar los recursos naturales, así como para prevenir y controlar la contaminación, incluyendo la elaboración de evaluaciones ambientales estratégicas, de conformidad con las disposiciones legales y reglamentarias aplicables;
 
 XXXI. Presentar a la Asamblea los informes trimestrales del avance cualitativo del Programa General de Desarrollo Urbano;
 
@@ -754,9 +760,17 @@ I. Reformar, adicionar, derogar o abrogar Programas;
 
 II. Aplicar un Programa, sea General, Delegacional o Parcial, sin identificar con precisión, en el dictamen, opinión, autorización, permiso, constancia, certificado, acuerdo o resolución de que se trate, el capítulo, apartado, sub-apartado, inciso, sub-inciso, párrafo y página, del Programa aplicado;
 
-III. Establecer usos del suelo, número de niveles, porcentaje de área libre y área mínima por vivienda, que no se encuentren previstos en el Programa aplicable al caso concreto de que se trate, y
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-IV. En general, modificar el contenido de los Programas, contravenir sus disposiciones u omitir la observancia de los mismos.
+III. Establecer usos del suelo, número de niveles, porcentaje de área libre y área mínima por vivienda, que no se encuentren previstos en el Programa aplicable al caso concreto de que se trate;
+
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+IV. En general, modificar el contenido de los Programas, contravenir sus disposiciones u omitir la observancia de los mismos; y
+
+> <small>(ADICIONADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+V. Exentar en los casos que aplique la Evaluación Ambiental Estratégica.
 
 ### Capítulo Tercero. De los Programas
 
@@ -838,9 +852,17 @@ IV. La estrategia general y particularizada de desarrollo urbano y del ordenamie
 
 V. El ordenamiento del territorio en el que se incluirá la clasificación del uso del suelo urbano, y para el caso del suelo de conservación, se estará a lo establecido en el Programa General de Ordenamiento Ecológico del Distrito Federal;
 
-VI. Las acciones estratégicas y las autoridades corresponsables de llevarlas a cabo, así como los instrumentos para su ejecución; y
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
-VII. La información gráfica y estadística que referirá, en la forma más explícita posible, la regulación aplicable para las diversas áreas que refleje.
+VI. Las acciones estratégicas y las autoridades corresponsables de llevarlas a cabo, así como los instrumentos para su ejecución;
+
+> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+VII. La información gráfica y estadística que referirá, en la forma más explícita posible, la regulación aplicable para las diversas áreas que refleje; y
+
+> <small>(ADICIONADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+
+VIII. La Evaluación Ambiental Estratégica.
 
 > <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
 
@@ -2261,3 +2283,11 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promu
 SEGUNDO. El presente decreto entrará en vigor a los 90 días naturales posteriores a su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. La Persona Titular de la Jefatura de Gobierno de la Ciudad de México, en un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, deberá actualizar y armonizar la normatividad aplicable en la Ciudad de México.
+
+G.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 3; REFORMA LA FRACCIÓN XXX DEL ARTÍCULO 7; ADICIONA UNA FRACCIÓN V AL ARTÍCULO 33 BIS Y UNA FRACCIÓN VIII AL ARTÍCULO 37; TODOS DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
