@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-118264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-01-20"
-last_updated: "2025-10-17"
+last_updated: "2025-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118264&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2017-01-16"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE OCTUBRE DE 2025 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE OCTUBRE DE 2025.]</small>
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 20 de enero de 2017.
 
@@ -2987,13 +2987,17 @@ XI. Ordenar y practicar las diligencias necesarias para emplazar a los presuntos
 
 XII. Celebrar la audiencia inicial a que se refiere la Ley General de Responsabilidades Administrativas;
 
-XIII. Preparar, emitir y tramitar los informes previo y justificado que deban rendir los servidores públicos de las Direcciones de Substanciación “A”, “B”, “C” y “D”, adscritas a la Dirección General de Substanciación "A", de la Auditoría Superior de la Federación, en los juicios de amparo derivados de la aplicación del procedimiento de responsabilidades administrativas, así como intervenir cuando éstas tengan el carácter de tercero interesado y, en general, formular todas las promociones que requiera el trámite de dichos juicios;
+> <small>(F. DE E., D.O.F. 24 DE OCTUBRE DE 2025)</small>
+
+XIII. Preparar, emitir y tramitar los informes previo y justificado que deban rendir los servidores públicos de las Direcciones de Substanciación “A.1”, “A.2, “A.3” y “A.4”, adscritas a la Dirección General de Substanciación "A", de la Auditoría Superior de la Federación, en los juicios de amparo derivados de la aplicación del procedimiento de responsabilidades administrativas, así como intervenir cuando éstas tengan el carácter de tercero interesado y, en general, formular todas las promociones que requiera el trámite de dichos juicios;
 
 XIV. Representar a la Auditoría Superior de la Federación, ante los Tribunales Federales, con motivo de las impugnaciones que presenten los afectados derivadas del procedimiento de responsabilidades administrativas.
 
 XV. Las demás que en el ámbito de su competencia le otorguen la Ley General de Responsabilidades Administrativas y las demás disposiciones jurídicas aplicables.
 
-Las atribuciones a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV y XV de este artículo podrán ser ejercidas indistintamente por los Directores de Substanciación “A”, “B”, “C” y “D”, adscritos a la Dirección General de Substanciación "A".
+> <small>(F. DE E., D.O.F. 24 DE OCTUBRE DE 2025)</small>
+
+Las atribuciones a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV y XV de este artículo podrán ser ejercidas indistintamente por los Directores de Substanciación “A.1”, “A.2, “A.3” y “A.4”, adscritos a la Dirección General de Substanciación "A".
 
 > <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2025)</small>
 
