@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-premios-civiles-del-estado-de-guerrero-numero-434-16289"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-12"
-last_updated: "2005-11-04"
+last_updated: "2025-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE PREMIOS CIVILES DEL ESTADO DE GUERRERO NUMERO 434
 
-LEY DE PREMIOS CIVILES DEL ESTADO DE GUERRERO NUMERO 434
+LEY DE PREMIOS CIVILES DEL ESTADO DE GUERRERO NÚMERO 434
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre 1999.
 
@@ -125,13 +125,21 @@ XII.- Premio Estatal al Mérito Deportivo "Apolonio Castillo";
 
 XIII.- Premio Estatal al Mérito Juvenil "José Azueta";
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2025)</small>
 
-XIV.- Premio Estatal al Mérito de la Mujer "Antonia Nava de Catalán"; y
+XIV.- Premio Estatal al Mérito de la Mujer “Antonia Nava de Catalán”;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2025)</small>
 
-XV.- Premio Estatal al Mérito Ecológico “Wilfredo Alvarez Sotelo”.
+XV.- Premio Estatal al Mérito Ecológico “Wilfredo Álvarez Sotelo”;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XVI.- Premio Estatal al Mérito de Periodismo, estudios de Género y Feminismo “Laureana Wright”, y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+XVII.- Premio Estatal al Mérito Afromexicano “Coronel Juan del Carmen”.
 
 La misma persona puede ser beneficiaria de dos o más premios distintos; pero solo una vez del premio correspondiente a uno de los campos de los conceptos instituidos, o a un solo concepto si este no se divide en campos.
 
@@ -425,6 +433,26 @@ Este premio serán entregado a mujeres ejemplares, cuya conducta, dedicación a 
 
 Este premio se otorgará a quienes con su destacado trabajo, empeño y dedicación realicen o hayan realizado acciones notables a favor de la defensa, conservación, protección y restauración del medio ambiente, así como el uso sustentable de los recursos naturales del Estado.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO XXI. PREMIO ESTATAL AL MÉRITO DE PERIODISMO, ESTUDIOS DE GÉNERO Y FEMINISMO “LAUREANA WRIGHT”
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 54.
+
+Este premio se otorgará a las mujeres ciudadanas que, en el desempeño de sus actividades periodísticas, académicas o de investigación hagan aportaciones a los estudios de género y feminismo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO XXII. PREMIO ESTATAL AL MÉRITO AFROMEXICANO “CORONEL JUAN DEL CARMEN”
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 55.
+
+Este premio se otorgará a la ciudadanía afromexicana cuya labor contribuya significativamente a realzar y preservar la trascendencia cultural, jurídica o histórica de los pueblos afromexicanos.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -476,3 +504,19 @@ P.O. 4 DE NOVIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Comuníquese el presente Decreto al Gobernador del Estado para los efectos legales conducentes.
+
+P.O. 24 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 271 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PREMIOS CIVILES DEL ESTADO DE GUERRERO NÚMERO 434”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos constitucionales y legales conducentes, túrnese el presente Decreto a la titular del Poder Ejecutivo del Estado de Guerrero.
+
+###### ARTÍCULO TERCERO.
+
+Para conocimiento general, publicítese el presente Decreto en la Gaceta Parlamentaria y en la página web institucional, ambas de este Congreso.
