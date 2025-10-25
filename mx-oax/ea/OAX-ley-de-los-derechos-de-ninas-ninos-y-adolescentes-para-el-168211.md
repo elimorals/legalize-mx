@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-16821
 country: "mx"
 rank: "ley"
 publication_date: "2023-10-07"
-last_updated: "2023-10-07"
+last_updated: "2025-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
 
 Ley publicada en la Décima Cuarta Sección del Número 40 del Periódico Oficial del Estado de Oaxaca, el sábado 7 de octubre de 2023.
 
@@ -318,6 +318,10 @@ XXI. A una vida libre de trabajo infantil;
 XXII. A una crianza positiva, y
 
 XXIII. A la lactancia materna.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+XXIV. A un entorno digital seguro, inclusivo y libre de violencia.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -616,6 +620,18 @@ Las autoridades estatales, municipales y educativas, en el ámbito de sus respec
 ###### Artículo 44.
 
 Las autoridades estatales, municipales y educativas deberán establecer los mecanismos y protocolos con perspectiva de infancia, niñez y adolescencia para la prevención y atención de los tipos de violencia.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 44 Bis.
+
+Las niñas, niños y adolescentes tienen derecho a un entorno digital seguro, inclusivo y libre de violencia. El Estado garantizará el respeto, protección y ejercicio de este derecho mediante políticas públicas, prevención, educación digital y mecanismos de atención especializada.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 44 Ter.
+
+Las autoridades estatales deberán implementar estrategias integrales para prevenir, detectar, sancionar y erradicar toda forma de violencia digital contra niñas, niños y adolescentes, en particular el ciberacoso, el uso no consentido de imágenes, el acoso sexual en línea y la trata con fines de explotación.
 
 ### CAPÍTULO XI. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
@@ -1371,9 +1387,11 @@ XXIII. Implementar la Estrategia Estatal Para la Atención de la Primera Infanci
 
 XXIV. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 115.
 
-El Sistema Local de Protección estará conformado por:
+El sistema Local de Protección estará conformado por:
 
 A. Las y los Titulares de las siguientes Dependencias del Poder Ejecutivo Estatal:
 
@@ -1419,11 +1437,15 @@ III. Cinco representantes de la Sociedad Civil seleccionados sobre la base del p
 
 D. Poder Legislativo
 
-I. Quien presida la Comisión Permanente de Grupos en Situación de Vulnerabilidad.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+I. Quien presida la Comisión Permanente de Niñez, Adolescencia y Juventudes.
 
 Invitados permanentes:
 
-Serán invitados permanentes a las sesiones del Sistema Local de Protección, la o el Presidente de la Mesa Directiva del Congreso del Estado de Oaxaca, un representante del Poder Judicial del Estado, los invitados permanentes intervendrán con voz, pero sin voto.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+Serán invitados permanentes a las sesiones del Sistema Local de Protección, la o el presidente de la Mesa Directiva del Congreso del Estado, quien presida la Comisión Permanente de Grupos en Situación de Vulnerabilidad del Congreso de Oaxaca, un representante del Poder Judicial del Estado de Oaxaca, los invitados permanentes intervendrán con voz, pero sin voto.
 
 Invitados especiales
 
@@ -1818,3 +1840,23 @@ SEXTO. En un plazo no mayor a ciento veinte días contados a partir de la entrad
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 20 de Septiembre de 2023.- Dip. Nancy Natalia Benítez Zárate, Vicepresidenta.- Dip. Dennis García Gutiérrez, Secretaria.- Dip. María Luisa Matus Fuentes, Secretaria.- Dip. Elvia Gabriela Pérez López, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 21 de Septiembre de 2023. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Ing. Salomón Jara Cruz.- Rúbrica.- El Secretario de Gobierno. Lcdo. José de Jesús Romero López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 828.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL APARTADO D Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 115 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 829.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 14 Y LOS ARTÍCULOS 44 BIS Y 44 TER DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
