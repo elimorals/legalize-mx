@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2025-08-09"
+last_updated: "2025-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -202,6 +202,10 @@ LII. Sitio contaminado: El lugar, espacio, suelo, cuerpo de agua, instalación o
 LIII. Tratamiento: Los procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad;
 
 LIV. Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente de los materiales que componen los residuos sólidos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+LV. Procuraduría: Procuraduría de Protección al Medio Ambiente del Estado de Oaxaca.
 
 ### CAPÍTULO II. PRINCIPIOS EN MATERIA DE MANEJO Y GESTIÓN INTEGRAL DE RESIDUOS
 
@@ -1345,35 +1349,35 @@ Quedan exentas de la restricción del párrafo anterior aquellas bolsas que haya
 
 ### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 100.
 
-En materia de residuos sólidos urbanos, la SECRETARÍA y las autoridades municipales establecerán procedimientos de inspección y vigilancia para verificar el cumplimiento de esta Ley, en el ámbito de su competencia.
+En materia de residuos sólidos urbanos, la Procuraduría y las autoridades municipales establecerán procedimientos de inspección y vigilancia para verificar el cumplimiento de esta Ley, en el ámbito de su competencia.
 
-La SECRETARÍA está facultada para instaurar procedimientos de inspección y vigilancia a autoridades municipales respecto a su manejo integral de residuos sólidos urbanos.
+La Procuraduría está facultada para instaurar procedimientos de inspección y vigilancia a autoridades municipales respecto a su manejo integral de residuos sólidos urbanos.
 
-En materia de residuos de manejo especial, para verificar y comprobar el cumplimiento de esta Ley, la SECRETARÍA, en coordinación con las autoridades municipales, realizará a través de personal autorizado los actos de inspección y vigilancia que consideren necesarios.
+En materia de residuos de manejo especial para verificar y comprobar el cumplimiento de esta Ley, la Procuraduría, en coordinación con las autoridades municipales, realizará a través de personal autorizado los actos de inspección y vigilancia que consideren necesarios.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 101.
 
-Por lo que hace a los requisitos y formalidades a observar en la realización de visitas de inspección y vigilancia por parte de la SEMAEDESO, son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo I del Título Séptimo de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, y las relativas y aplicables de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
+Por lo que hace a los requisitos y formalidades a observar en la realización de visitas de inspección y vigilancia por parte de la Procuraduría, son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo I del Título Séptimo de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, y las relativas y aplicables de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 ### CAPÍTULO II. MEDIDAS CORRECTIVAS, DE SEGURIDAD O DE URGENTE APLICACIÓN
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 102.
 
-Si de las visitas de inspección se desprenden infracciones a la presente Ley, la SECRETARÍA o la autoridad municipal, en el ámbito de su competencia, requerirá al interesado, cuando proceda, mediante notificación personal para que adopte de inmediato las medidas correctivas que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con las autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundado y motivado el requerimiento.
+Si de las visitas de inspección se desprenden infracciones a la presente Ley, la Procuraduría o la autoridad municipal, en el ámbito de su competencia, requerirá al interesado, cuando proceda, mediante notificación personal para que adopte de inmediato las medidas correctivas que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con las autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundado y motivado el requerimiento.
 
 ###### Artículo 103.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos de manejo especial, la SECRETARÍA, de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad o de urgente aplicación:
+En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos de manejo especial, la Procuraduría, de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad o de urgente aplicación:
 
 I. La clausura temporal parcial o total de las fuentes contaminantes, así como de las instalaciones en que se generen, manejen o dispongan finalmente los residuos de manejo especial;
 
@@ -1385,23 +1389,23 @@ IV. El aseguramiento precautorio de residuos de manejo especial, y demás bienes
 
 V. La estabilización o cualquier acción análoga que impida que los residuos de manejo especial ocasionen efectos adversos a la salud o al medio ambiente.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-Asimismo, la SECRETARÍA podrá promover ante autoridad competente, la ejecución de cualquier medida de seguridad que se establezca en otros ordenamientos, necesaria para evitar efectos adversos a la salud o al medio ambiente.
+Asimismo, la Procuraduría podrá promover ante autoridad competente, la ejecución de cualquier medida de seguridad que se establezca en otros ordenamientos, necesaria para evitar efectos adversos a la salud o al medio ambiente.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 104.
 
-Cuando proceda, la SECRETARÍA podrá ordenar al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de estas medidas, así como los plazos para su realización, a fin de que una vez cumplidas estas acciones se ordene el retiro de las medidas de seguridad impuestas.
+Cuando proceda, la Procuraduría podrá ordenar al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de estas medidas, así como los plazos para su realización, a fin de que una vez cumplidas estas acciones se ordene el retiro de las medidas de seguridad impuestas.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 105.
 
-Si el interesado se rehúsa a cumplir las acciones para subsanar las irregularidades que motivaron la imposición de la o las medidas de que se trate, la SECRETARÍA las podrá realizar inmediatamente con cargo total al interesado renuente.
+Si el interesado se rehúsa a cumplir las acciones para subsanar las irregularidades que motivaron la imposición de la o las medidas de que se trate, la Procuraduría las podrá realizar inmediatamente con cargo total al interesado renuente.
 
-En el caso en que el interesado realice las medidas correctivas, de seguridad o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la SECRETARÍA imponga alguna o algunas de las sanciones establecidas en esta Ley, deberá considerar tal situación como atenuante de la infracción cometida.
+En el caso en que el interesado realice las medidas correctivas, de seguridad o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Procuraduría imponga alguna o algunas de las sanciones establecidas en esta Ley, deberá considerar tal situación como atenuante de la infracción cometida.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
@@ -1429,17 +1433,17 @@ II. Realizar cualquiera de las actividades enunciadas en el artículo 77 sin con
 
 III. No presentar y/o registrar el plan de manejo de residuos de manejo especial ante la SECRETARÍA, en los casos previstos en esta Ley y en las Normas Oficiales Mexicanas correspondientes; y
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-IV. Incumplir la realización y ejecución de las medidas correctivas, de seguridad o de urgente aplicación ordenadas por la SECRETARÍA.
+IV. Incumplir la realización y ejecución de las medidas correctivas, de seguridad o de urgente aplicación ordenadas por la Procuraduría.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Artículo 108.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-Las infracciones establecidas en el artículo anterior, serán sancionadas administrativamente por la SECRETARÍA y/o la autoridad municipal correspondiente en el ámbito de sus competencias, en la resolución que ponga fin al procedimiento de inspección respectivo, con una o más de las siguientes sanciones:
+Las infracciones establecidas en el artículo anterior, serán sancionadas administrativamente por la Procuraduría y/o la autoridad municipal correspondiente en el ámbito de sus competencias, en la resolución que ponga fin al procedimiento de inspección respectivo, con una o más de las siguientes sanciones:
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
@@ -1453,9 +1457,9 @@ IV. El decomiso de los instrumentos, equipos, maquinaria y cualesquiera otros ob
 
 V. Clausura temporal o definitiva, total o parcial, en los siguientes casos:
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-a) Cuando el infractor no hubiere cumplido con las medidas correctivas, de seguridad o de urgente aplicación, en los plazos y condiciones impuestos por la SECRETARÍA y/o la autoridad municipal correspondiente;
+a) Cuando el infractor no hubiere cumplido con las medidas correctivas, de seguridad o de urgente aplicación, en los plazos y condiciones impuestos por la Procuraduría y/o la autoridad municipal correspondiente;
 
 b) Cuando el infractor no hubiere dado cumplimiento a la sanción consistente en la remediación del sitio contaminado; y
 
@@ -1463,15 +1467,15 @@ c) En casos de reincidencia;
 
 VI. Arresto administrativo hasta por treinta y seis horas;
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-Si una vez vencido el plazo concedido por la SECRETARÍA y/o la autoridad municipal correspondiente, para subsanar la o las infracciones, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato.
+Si una vez vencido el plazo concedido por la Procuraduría y/o la autoridad municipal correspondiente, para subsanar la o las infracciones, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato.
 
 ###### Artículo 109.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-En la aplicación de las sanciones administrativas establecidas en el artículo anterior, la SECRETARÍA y/o la autoridad municipal correspondiente, en el ámbito de su competencia, tomarán en consideración lo siguiente:
+En la aplicación de las sanciones administrativas establecidas en el artículo anterior, la Procuraduría y/o la autoridad municipal correspondiente, en el ámbito de su competencia, tomarán en consideración lo siguiente:
 
 I. La gravedad de la infracción cometida;
 
@@ -1491,37 +1495,31 @@ VIII. La reincidencia.
 
 Para los efectos de este Capítulo, se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en el periodo de un año contado a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, y siempre que ésta no hubiese sido desvirtuada.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 110.
 
-Cuando la gravedad de la infracción lo amerite, la SECRETARÍA y/o la autoridad municipal correspondiente, solicitará a la autoridad federal, estatal o municipal, la suspensión, revocación o cancelación de la concesión, permiso, licencia y en general de toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios que haya dado lugar a la infracción.
+Cuando la gravedad de la infracción lo amerite, la Procuraduría y/o la autoridad municipal correspondiente, solicitará a la autoridad federal, estatal o municipal, la suspensión, revocación o cancelación de la concesión, permiso, licencia y en general de toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios que haya dado lugar a la infracción.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 111.
 
-Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, total o parcial, el personal comisionado por la SECRETARÍA y/o la autoridad municipal correspondiente, para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones de esta Ley aplicables a la realización de inspecciones.
+Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, total o parcial, el personal comisionado por la Procuraduría y/o la autoridad municipal correspondiente, para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones de esta Ley aplicables a la realización de inspecciones.
 
-En los casos en que se imponga como sanción la clausura temporal, la SECRETARÍA y/o la autoridad municipal correspondiente, deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+En los casos en que se imponga como sanción la clausura temporal, la Procuraduría y/o la autoridad municipal correspondiente, deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 112.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
+La Procuraduría y/o la autoridad municipal correspondiente dará a los bienes decomisados alguno de los siguientes destinos:
 
-La SECRETARÍA y/o la autoridad municipal correspondiente dará a los bienes decomisados alguno de los siguientes destinos:
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
-
-I. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de 5 mil veces la Unidad de Medida de Actualización vigente al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la SECRETARÍA y/o autoridad municipal correspondiente podrá proceder a su venta directa, y
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+I. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de 5 mil veces la Unidad de Medida de Actualización vigente al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la Procuraduría y/o autoridad municipal correspondiente podrá proceder a su venta directa, y
 
 II. Remate en subasta pública cuando el valor de lo decomisado exceda de 5 mil veces la Unidad de Medida de Actualización vigente al momento de imponer la sanción.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
-
-En la determinación del valor de los bienes sujetos a venta o remate, la SECRETARÍA considerará el precio que respecto de dichos bienes corra en el mercado, al momento o de realizarse la operación.
+En la determinación del valor de los bienes sujetos a venta o remate, la Procuraduría considerará el precio que respecto de dichos bienes corra en el mercado, al momento de realizarse la operación.
 
 En ningún caso los responsables de la infracción que hubiera dado lugar al decomiso podrán participar ni beneficiarse de la venta o remate de los bienes decomisados.
 
@@ -1531,15 +1529,15 @@ Los ingresos que se obtengan de las multas por infracciones a esta Ley y demás 
 
 I. Un 50% a la integración de un fondo para la remediación de sitios contaminados y/o para la operación del Programa Estatal o Municipales, según corresponda; y
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-II. El 50% restante a la integración de un fondo para el fortalecimiento de la función de inspección y vigilancia que realiza la SECRETARÍA o en su caso la autoridad municipal correspondiente, en las materias de su competencia a que se refiere esta Ley.
+II. El 50% restante a la integración de un fondo para el fortalecimiento de la función de inspección y vigilancia que realiza la Procuraduría o en su caso la autoridad municipal correspondiente, en las materias de su competencia a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 114.
 
-La SEMAEDESO podrá aplicar lo dispuesto en el último párrafo del artículo 241 de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca para los efectos de conmutación de penas.
+La Procuraduría podrá aplicar lo dispuesto en el último párrafo del artículo 241 de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca.
 
 ## TÍTULO DÉCIMO. DENUNCIA POPULAR Y RECURSO DE REVISIÓN
 
@@ -1547,17 +1545,17 @@ La SEMAEDESO podrá aplicar lo dispuesto en el último párrafo del artículo 24
 
 ###### Artículo 115.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-Toda persona, grupos sociales, pueblos y comunidades indígenas, organizaciones no gubernamentales, asociaciones y sociedades, podrán denunciar ante la SECRETARÍA o las autoridades municipales competentes, todo hecho, acto u omisión que:
+Toda persona, grupos sociales, pueblos y comunidades indígenas, organizaciones no gubernamentales, asociaciones y sociedades, podrán denunciar ante la Procuraduría o las autoridades municipales competentes, todo hecho, acto u omisión que:
 
 I. Produzca o pueda producir desequilibrio ecológico, daños al ambiente o a la salud pública por el manejo indebido de residuos sólidos urbanos o residuos de manejo especial; o
 
 II. Contravenga las disposiciones de la presente Ley, su Reglamento, las demás disposiciones que de ella deriven y las Normas Oficiales Mexicanas aplicables.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-Para estos efectos las personas interesadas deberán presentar denuncia popular de manera verbal o por escrito. Si en la localidad no existiera representación de la SECRETARÍA, la denuncia se podrá formular ante la autoridad municipal correspondiente. Si la denuncia fuera presentada ante la autoridad municipal y resulta del orden estatal, deberá ser remitida a la SECRETARÍA para su atención y trámite respectivos.
+Para estos efectos las personas interesadas deberán presentar denuncia popular de manera verbal o por escrito. Si en la localidad no existiera representación de la Procuraduría, la denuncia se podrá formular ante la autoridad municipal correspondiente. Si la denuncia fuera presentada ante la autoridad municipal y resulta del orden estatal, deberá ser remitida a la Procuraduría para su atención y trámite respectivos.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
@@ -1567,13 +1565,13 @@ Para el trámite, substanciación y resolución de las denuncias populares prese
 
 ### CAPÍTULO II. DEL RECURSO DE REVISIÓN
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 117.
 
-Las resoluciones definitivas dictadas por la SECRETARÍA o la autoridad municipal, en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento y las disposiciones que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación o, cuando proceda, intentar la vía jurisdiccional que corresponda.
+Las resoluciones definitivas dictadas por la Procuraduría o la autoridad municipal, en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento y las disposiciones que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación o, cuando proceda, intentar la vía jurisdiccional que corresponda.
 
-El recurso de revisión se interpondrá directamente ante la Unidad administrativa de la SECRETARÍA o autoridad municipal que haya emitido el acto recurrido la que, en su caso, lo admitirá y determinará el otorgamiento o la denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico para su resolución definitiva. En los casos de que la resolución impugnada haya sido impuesta por la máxima autoridad de la SECRETERÍA (SIC) o de la autoridad municipal, el recurso será resuelto por dicha autoridad.
+El recurso de revisión se interpondrá directamente ante la Unidad administrativa de la Procuraduría o autoridad municipal que haya emitido el acto recurrido la que, en su caso, lo admitirá y determinará el otorgamiento o la denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico para su resolución definitiva. En los casos de que la resolución impugnada haya sido impuesta por la máxima autoridad de la Procuraduría o de la autoridad municipal, el recurso será resuelto por dicha autoridad.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
@@ -1758,5 +1756,13 @@ P.O. 9 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 704.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 2°, LA FRACCIÓN V DEL ARTÍCULO 5º, EL SEGUNDO PÁRRAFO DEL INCISO D) DE LA FRACCIÓN IX DEL ARTÍCULO 34, EL PRIMER PÁRRAFO DEL ARTÍCULO 48, EL CUARTO PÁRRAFO DE LA FRACCIÓN VI DEL ARTÍCULO 77, Y LOS ARTÍCULOS 101, 114, 116 Y 118 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 825.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 227 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA; Y SE REFORMAN LOS ARTÍCULOS 100, 101 Y 102, EL PRIMER PÁRRAFO Y LA FRACCIÓN V, DEL ARTÍCULO 103, LOS ARTÍCULOS 104 Y 105, LA FRACCIÓN IV, DEL ARTÍCULO 107, EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 103 (SIC), LOS ARTÍCULOS 104 Y 105, LA FRACCIÓN IV DEL ARTÍCULO 107 (SIC), EL PRIMER PÁRRAFO, EL INCISO A) DE LA FRACCIÓN V, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 108, EL PRIMER PÁRRAFO DEL ARTÍCULO 109, LOS ARTÍCULOS 110, 111 Y 112, LA FRACCIÓN II DEL ARTÍCULO 113, EL ARTÍCULO 114, EL PRIMER Y SEGUNDO PÁRRAFO (SIC) ARTÍCULO 115, Y EL ARTÍCULO 117; Y SE ADICIONA LA FRACCIÓN LV DEL ARTÍCULO 5º, TODOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
