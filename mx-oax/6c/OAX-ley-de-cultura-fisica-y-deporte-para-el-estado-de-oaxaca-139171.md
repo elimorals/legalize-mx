@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cultura-fisica-y-deporte-para-el-estado-de-oaxaca-139171
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-22"
-last_updated: "2025-06-14"
+last_updated: "2025-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 22 de octubre de 2019.
 
@@ -111,7 +111,9 @@ XI. Promover en la práctica de actividades físicas y deportivas el aprovechami
 
 XII. Garantizar el acceso a las acciones, políticas públicas y programas de desarrollo en materia de cultura física y deporte, a todas las personas sin discriminación por su origen étnico o nacional, género, edad, discapacidad, condición social, condición económica, condición de salud, condición de migrante, religión, opiniones, ideología política, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
-XIII. Promover el desarrollo del deporte adaptado y los apoyos para el fomento de la cultura física y el deporte para personas con discapacidad, a través de su integración, la equidad, y no sean objeto de discriminación alguna;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+XIII. Garantizar la accesibilidad en instalaciones deportivas y promover mediante incentivos el desarrollo del deporte adaptado a través de la integración, la equidad, y la no discriminación para personas con movilidad reducida;
 
 XIV. Establecer las bases de coordinación y colaboración entre el Estado, los Municipios y la Federación en materia de cultura física y deporte, así como la participación que corresponde a los sectores social, académico, privado y medios de comunicación;
 
@@ -2398,3 +2400,11 @@ P.O. 14 DE JUNIO DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 813.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 6 DE LA LEY DE CULTURA FÍSICA Y EL DEPORTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
