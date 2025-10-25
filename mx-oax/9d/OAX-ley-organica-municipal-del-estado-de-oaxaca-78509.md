@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2025-10-04"
+last_updated: "2025-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -646,6 +646,10 @@ VII. Designar al Titular de la Unidad de Transparencia, y a los integrantes del 
 VIII. Cumplir con las obligaciones que le imponen la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, investigación y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal, y las demás que les señalen las leyes y reglamentos municipales;
 
 IX. Rendir a la ciudadanía por conducto del Presidente Municipal, un informe anual detallado sobre el estado financiero de la hacienda pública municipal, el avance de los programas, las obras en proceso y concluidas, y en general del estado que guardan los asuntos municipales;
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+Garantizar la máxima publicidad y la rendición de cuentas, el informe anual al que hace referencia el párrafo anterior deberá permanecer visible en los medios digitales oficiales del municipio y exhibirse físicamente en los estrados del municipio.
 
 X. Acordar fundada y motivadamente los casos en que las sesiones de Cabildo sean privadas, así como la celebración de sesiones virtuales;
 
@@ -1370,6 +1374,10 @@ VIII.- Informar a la población en sesión pública y solemne que deberá celebr
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 IX. Informar a la población en sesión pública y solemne que deberá celebrarse dentro de los primeros quince días del mes de diciembre de cada año, de manera detallada sobre el estado financiero de la hacienda pública municipal, el avance de los programas para garantizar la igualdad de género, la prevención y erradicación de la violencia contra las mujeres, la atención al deporte y la salud, las obras en proceso y concluidas, y en general del estado que guardan los asuntos municipales. En los Municipios que se rigen por usos y costumbres, los informes a que se refiere esta fracción se realizarán en las fechas y de acuerdo a la que sus tradiciones determinen;
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+Para garantizar la máxima publicidad y la rendición de cuentas, el informe anual al que hace referencia el párrafo anterior deberá permanecer visible en los medios digitales oficiales del municipio exhibirse físicamente en los estrados del municipio.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -2653,17 +2661,21 @@ ARTÍCULO 126 TERVICIES.- Las Contralorías Internas Municipales que incumplan, 
 
 ### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 127.
 
-El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base en los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, además que deberá de incorporar la perspectiva de género y la perspectiva de infancia y adolescencia con la finalidad de apoyar la transversalidad y el cumplimiento de los programas, proyectos y acciones para la igualdad entre hombres y mujeres, y para garantizar la protección, desarrollo y bienestar de las niñas, niños y adolescentes; así como los demás programas de actividades del ayuntamiento, detallando las asignaciones presupuestarias a nivel de partidas y calendarización del gasto a más tardar el quince de diciembre del año que antecede al ejercicio fiscal.
+El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base en los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, además que deberá incorporar la perspectiva de género y la perspectiva de infancia y adolescencia con la finalidad de apoyar la transversalidad y el cumplimiento de los programas, proyectos y acciones para la igualdad entre hombres y mujeres, la prevención, atención, sanción y erradicación de la violencia contra las mujeres; así como, para garantizar la protección, desarrollo y bienestar de las niñas, niños y adolescentes, así como los demás programas de actividades del ayuntamiento, detallando las asignaciones presupuestarias a nivel de partidas y calendarización del gasto a más tardar el quince de diciembre del año que antecede al ejercicio fiscal.
 
 Tratándose del inicio del Gobierno Municipal, el Ayuntamiento entrante deberá ratificar o, en su caso realizar las modificaciones al Presupuesto de Egresos autorizado por el Ayuntamiento saliente, a más tardar el quince de febrero.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
 El presupuesto de egresos deberá ser aprobado por mayoría calificada y deberá remitirse copia al Congreso del Estado a través de la Auditoría Superior de Fiscalización del Estado de Oaxaca para su conocimiento y fiscalización.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+Una vez aprobado el Presupuesto de Egresos, este deberá permanecer visible en los medios digitales oficiales del municipio y exhibirse físicamente en los estrados del municipio.
 
 ###### ARTÍCULO 128.
 
@@ -3125,11 +3137,15 @@ Los servidores públicos municipales deberán presentar su declaración patrimon
 
 ### CAPÍTULO I. DEL COMITÉ INTERNO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 169.
 
-La administración saliente, noventa días naturales previos a la conclusión de su mandato, en Sesión Extraordinaria de Cabildo, constituirá un Comité Interno de Entrega-Recepción, formado por un integrante de cada área que constituya el Municipio, encabezado por el Presidente Municipal en funciones, con la finalidad de realizar las acciones previas tendientes a facilitar la Entrega-Recepción. En dicho Comité Interno de Entrega - Recepción, participará el Presidente Municipal entrante y el personal que éste designe formalmente. Los Ayuntamientos de Municipios con población menor a cien mil habitantes podrán integrar el citado Comité Interno treinta días hábiles previos a la conclusión de su mandato.
+La administración saliente, noventa días naturales previos a la conclusión de su mandato, en Sesión Extraordinaria de Cabildo, constituirá un Comité Interno de Entrega-Recepción, formado por un integrante de cada área que constituya el municipio, encabezado por el Presidente Municipal en funciones, con la finalidad de realizar las acciones previas tendientes a facilitar la entrega recepción. En dicho Comité Interno de Entrega-Recepción, participarán por parte del Cabildo entrante el Presidente o Presidenta Municipal, el Síndico (os) y el Regidor de Hacienda. Los Ayuntamientos de municipios con población menor a cien mil habitantes podrán integrar el citado Comité Interno treinta días hábiles previos a la conclusión de su mandato.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+Al efecto, el Presidente o Presidenta Municipal entrante, noventa días previos a la conclusión de la administración en funciones, enviará escrito al Presidente Municipal, solicitando se fije fecha, hora y lugar, para iniciar los trabajos correspondientes.
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 2 DE ENERO DE 2015)</small>
 
@@ -3249,19 +3265,17 @@ XII. Las cantidades deben de ser asentadas en número y letra; y
 
 XIII. Las hojas que conforman el acta, así como los formatos y anexos que integrarán el expediente del acta de Entrega-Recepción, deberán foliarse en forma consecutiva y elaborarse en papel membretado.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 176.
 
-El acta de Entrega-Recepción deberá firmarse al momento de su conclusión y cierre por todos los miembros que en ella intervinieron; debiendo certificarse tres juegos por el Secretario Municipal saliente cuya distribución se hará de la siguiente manera:
+El acta de Entrega-Recepción deberá firmarse en tres tantos, al momento de su conclusión y cierre por todos los miembros que en ella intervinieron; cuya distribución se hará de la siguiente manera:
 
 I. El primer ejemplar quedará en poder del Presidente Municipal entrante;
 
 II. El segundo ejemplar quedará en poder del Presidente Municipal saliente; y
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
-
-III.- El tercer ejemplar deberá remitirse conjuntamente con el expediente de Entrega-Recepción a la Auditoría Superior de Fiscalización del Estado de Oaxaca, por el Presidente Municipal entrante, dentro de los quince días hábiles siguientes a la firma del acta de Entrega-Recepción.
+III. El tercer ejemplar deberá remitirse conjuntamente con el expediente de Entrega-Recepción a la Auditoría Superior de Fiscalización del Estado de Oaxaca, por el Presidente Municipal entrante, dentro de los quince días hábiles siguientes a la firma del acta de Entrega-Recepción
 
 > <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -4840,5 +4854,37 @@ P.O. 4 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 775.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN IX RECORRIENDOSE LAS SUBSECUENTES AL APARTADO J DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 787.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO, Y SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIENDO EN SU ORDEN EL SUBSECUENTE DEL ARTÍCULO 169 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 788.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 176 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 814.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN IX, DEL APARTADO E DEL ARTÍCULO 43, UN PÁRRAFO SEGUNDO A LA FRACCIÓN IX DEL ARTÍCULO 68 Y UN PÁRRAFO CUARTO AL ARTÍCULO 127, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 815.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 127 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
