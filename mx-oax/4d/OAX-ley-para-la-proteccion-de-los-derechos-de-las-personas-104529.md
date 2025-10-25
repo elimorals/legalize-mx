@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2024-10-12"
+last_updated: "2025-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -266,6 +266,10 @@ b) Brindar las posibilidades y oportunidades de definir objetivos y metas person
 c) El respeto a decidir, de manera libre y suficientemente informada, sobre sus derechos, en un marco de sano equilibrio entre su voluntad y su conveniencia y seguridad, velando por lo que más le beneficie;
 
 d) Expresar su opinión libremente.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+e) A solicitar, de manera voluntaria, el internamiento en alguna institución de asistencia social, dedicada al cuidado de personas adultas mayores, en términos de la normatividad técnica que emitan las Entidades y Organismos Federales y Estatales competentes.
 
 III. A la vida en familia, que implica:
 
@@ -1110,3 +1114,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 812.- MEDIANTE EL CUAL ADICIONA EL INCISO E) A LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El cumplimiento del Decreto estará sujeto a la capacidad presupuestaria y disponibilidad financiera del Gobierno del Estado de Oaxaca, para analizar, planear, diseñar e implementar las políticas pública orientadas a solventar las necesidades de las personas adultas mayores.
