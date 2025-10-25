@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2025-04-05"
+last_updated: "2025-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -299,9 +299,27 @@ g) Interponer acciones legales con base en hechos falsos o inexistentes, en cont
 
 h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+XIII. (DEROGADA, P.O. 25 DE OCTUBRE DE 2025)
 
-XIII. Cualesquiera otras formas análogas de violencia que lesione o sean susceptibles de dañar la dignidad, integridad, patrimonio o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+XIV. Violencia por ataques con ácido, sustancias químicas o corrosivas: Es cualquier acción u omisión que cause o busque causar un daño intencional arrojando, derramando o poniendo en contacto con algún tipo de gas, compuesto químico, ácido, álcalis, o cualquier tipo de sustancia corrosiva, cáustica, irritante, tóxica, inflamable, explosiva, reactiva, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en determinadas condiciones pueda provocar lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+XV. Violencia Estética: Es todo acto a través del cual se ejerce presión a las mujeres, a fin de que su apariencia física se apegue a un prototipo de ideal estético, vulnerando con ello el derecho al libre desarrollo de la personalidad.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+XVI. Violencia por Inteligencia Artificial: Es el uso de las aplicaciones, programas o tecnología que analiza fotografías, audios o videos y ofrece ajustes automáticos para hacerles alteraciones o modificaciones, con la finalidad de lesionar, dañar la dignidad, integridad, patrimonio y libertad de las mujeres, o vulnere algunos de los derechos reconocidos en la Constitución Local.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+XVII. Violencia reproductiva: Son todas las acciones u omisiones que limitan o vulneran el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de las hijas e hijos, acceso a métodos anticonceptivos de su elección y acceso a una maternidad elegida y segura, esto incluye la obstaculización a la interrupción voluntaria del embarazo; y,
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+XVIII. Cualesquiera otras formas análogas de violencia.
 
 ## TÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -569,9 +587,9 @@ V. Proporcionar atención psicológica, psiquiátrica y legal, especializada y g
 
 VI. Implementar e imponer sanciones administrativas en el ámbito de sus competencias, a los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y/o dar curso a una queja.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-### Capítulo Tercero Bis. De la Violencia Digital y Mediática
+### Capítulo Tercero Bis. De la Violencia Digital, Mediática y por Inteligencia Artificial
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
@@ -602,6 +620,12 @@ En este caso se deberá identificar plenamente al proveedor de servicios en lín
 La autoridad que ordene las medidas de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo a las características del mismo.
 
 Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 17 Quinquies.
+
+Existe violencia por Inteligencia artificial, cuando mediante el uso de aplicaciones, programas o tecnología, se analizan fotografías, audios o videos, los cuales de manera automática los ajustan, alterándolos o modificándolos en su originalidad, y son expuestos o difundidos con la intención de afectar la dignidad, integridad, patrimonio o libertad de las mujeres.
 
 ### Capítulo Cuarto. En el Ámbito Social o en la Comunidad
 
@@ -733,11 +757,25 @@ Alerta de violencia de género es el conjunto de acciones gubernamentales de eme
 
 ### Capítulo Quinto. De las Ordenes de Protección a favor de la Víctima
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-Las órdenes de protección son actos de urgente aplicación en función del interés superior de la (sic) víctimas, son fundamentalmente precautorias y cautelares, sin que sean condicionadas a la iniciación de una denuncia o de un proceso judicial o administrativo para su emisión, deberán otorgarse de oficio o a petición de la víctima o víctima indirecta, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de las víctimas, son fundamentalmente precautorias y cautelares, sin que sean condicionadas a la iniciación de una denuncia o de un proceso judicial o administrativo para su emisión, deberán otorgarse de oficio o a petición de la víctima o víctima indirecta, por las autoridades administrativas municipales a través de su Síndico, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima, por lo que dichas autoridades deberán decretar en lo inmediato:
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+I.- La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble aún en los casos de arrendamiento del mismo, del matrimonio en sociedad conyugal o de separación de bienes.
+
+Se debe garantizar el cumplimiento de las obligaciones contractuales del agresor con respecto a la propiedad o posesión que previamente existían o los apoyos que brindan para ellos; y en su caso, el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+II.- Prohibición inmediata a la persona agresora de acercarse al domicilio y al de familiares y amistades, al lugar de trabajo, de estudios, o cualquier otro que frecuente la víctima directa o víctimas indirectas; con la finalidad de intimidar, molestar o comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas, u otras víctimas indirectas (sic) o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o, de hecho; y,
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+III.- Reingreso de la mujer, y en su caso de sus hijas e hijos, al domicilio, una vez que se salvaguarde su seguridad, si así lo desea.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -819,9 +857,9 @@ Tratándose de órdenes de protección que involucren a niños, niñas y adolesc
 
 Las órdenes de protección podrán solicitarse en cualquier municipio y entidad federativa distinta a donde ocurrieron los hechos, sin que la competencia en razón del territorio y la materia pueda ser usada como excusa para no recibir la solicitud y emitir las órdenes de protección correspondientes, aún sin que exista un proceso jurisdiccional previo.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
-Para efectos del párrafo anterior, las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres y las niñas conforme a los principios rectores de las órdenes de protección. En caso de que alguna mujer en situación de violencia, proveniente de otra entidad federativa solicite la protección, se le brindará sin mayor dilación, independientemente de la emisión posterior que por competencia corresponda.
+Para efectos del párrafo anterior, las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres, adolescentes, niñas y niños conforme a los principios rectores de las órdenes de protección. En caso de que alguna mujer en situación de violencia, proveniente de otra entidad federativa solicite la protección, se le brindará sin mayor dilación, independientemente de la emisión posterior que por competencia corresponda.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -899,6 +937,8 @@ V. Las necesidades expresadas por la mujer o niña solicitante.
 
 Las autoridades administrativas, el Ministerio Público y los órganos jurisdiccionales determinarán las órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 25 DE OCTUBRE DE 2025, PÁGINA 5.]</small>
+
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 26.
@@ -927,7 +967,7 @@ VII. Los demás gastos indispensables, dentro o fuera del estado o el país, par
 
 VIII. Facilitar a ala (sic) mujer o la niña, y en su caso a sus hijas e hijos en situación de violencia, la reubicación de domicilio, residencia o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderará su interés superior.
 
-XIX (SIC). La prohibición a la persona agresora de intimidar, molestar o comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas, u otras víctimas indirectas (sic) o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o, de hecho;
+XIX (SIC). (DEROGADA, P.O. 25 DE OCTUBRE DE 2025)
 
 XX. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
 
@@ -961,7 +1001,7 @@ V. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal 
 
 VI. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
 
-VII. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, del matrimonio en sociedad conyugal o de separación de bienes. Se debe garantizar el cumplimiento de las obligaciones contractuales del agresor con respecto a la propiedad o posesión que previamente existían o los apoyos que brindan para ellos; y en su caso el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
+VII. (DEROGADA, P.O. 25 DE OCTUBRE DE 2025)
 
 VIII. Obligación alimentaría provisional e inmediata;
 
@@ -2283,7 +2323,7 @@ V. Capacitar al personal docente, personal administrativo y alumnado en general 
 
 VI. Diseñar el procedimiento de queja a través del cual el alumnado podrá presentar queja o denuncia sobre situaciones de violencia y discriminación experimentadas en el ámbito escolar. Es recomendable que dicho procedimiento cuente con la opción de presentar quejas de forma anónima de manera que la institución inicie una investigación sobre el hecho denunciado;
 
-VII . Brindar orientación legal tratándose de casos que constituyan un ilícito, proporcionando al alumnado, personal docente o administrativo, orientación respecto de las instancias a las que deberá acudir para presentar la denuncia, los documentos que le serán requeridos y en caso de ser necesario, el acompañamiento a la víctima;
+VII. Brindar orientación legal tratándose de casos que constituyan un ilícito, proporcionando al alumnado, personal docente o administrativo, orientación respecto de las instancias a las que deberá acudir para presentar la denuncia, los documentos que le serán requeridos y en caso de ser necesario, el acompañamiento a la víctima;
 
 VIII. Emitir reportes periódicos, semestrales o anuales, sobre el mecanismo de quejas recibidas y su estatus, que permita dar un panorama amplio sobre el trabajo y el impacto de estas herramientas en la comunidad estudiantil;
 
@@ -3364,3 +3404,19 @@ P.O. 5 DE ABRIL DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 826.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 24, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 QUINQUIES; SE ADICIONAN LAS FRACCIONES I, II Y III AL ARTÍCULO 24; Y SE DEROGAN LAS FRACCIONES IX, X Y XIX DEL ARTÍCULO 26, Y LA FRACCIÓN VII DEL ARTÍCULO 27, DE LA LEY ESTATAL DE ACCESO A (SIC) LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 827.- MEDIANTE El CUAL REFORMA LA DENOMINACIÓN DEL CAPÍTULO TERCERO BIS; SE ADICIONAN LAS FRACCIONES XIV, XV, XVI, XVII Y XVIII AL ARTÍCULO 7, Y EL ARTÍCULO 17 QUINQUIES; Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 7 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
