@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2025-04-12"
+last_updated: "2025-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -235,7 +235,9 @@ Sin perjuicio de lo que señalen otras leyes, municipales, estatales o federales
 
 I. El derecho al trabajo y la seguridad social;
 
-II. El derecho a la alimentación y nutrición adecuada;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+II. El derecho a la alimentación suficiente, accesible, nutricionalmente adecuada, sana y culturalmente aceptable y con alimentos inocuos para llevar una vida activa y saludable.
 
 III. El derecho a vivienda;
 
@@ -461,7 +463,9 @@ XXII. Profundizar el reconocimiento de la presencia indígena y la diversidad cu
 
 XXIII. Garantizar, de forma gradual y progresiva, el desarrollo integral de la población oaxaqueña, prioritariamente de aquella que presente mayor índice de pobreza multidimensional, a través de programas que atiendan, entre otras, las siguientes prioridades:
 
-a) La seguridad alimentaria y combate a la desnutrición que garantice el acceso y disponibilidad de alimentos sanos y nutritivos a la población en general y, en particular, a sus segmentos de mayores carencias;
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2025)</small>
+
+a) La seguridad alimentaria y combate a la desnutrición que garantice el acceso y disponibilidad de una alimentación suficiente, accesible, nutricionalmente adecuada, sana y culturalmente aceptable y con alimentos inocuos para llevar una vida activa y saludable, a la población en general y, en particular, a sus segmentos de mayores carencias;
 
 b) El acceso a una vivienda digna mediante el establecimiento de mecanismos de financiamiento y/o subsidio para su adquisición, construcción y mejora;
 
@@ -1858,3 +1862,11 @@ P.O. 12 DE ABRIL DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 786.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 6, Y EL INCISO A) DE LA FRACCIÓN XXIII DEL ARTÍCULO 16 DE LA LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO, El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
