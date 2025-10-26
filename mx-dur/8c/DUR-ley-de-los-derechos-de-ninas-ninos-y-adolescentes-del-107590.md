@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2025-10-23"
+last_updated: "2025-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -1133,15 +1133,19 @@ Los padres, tutores y quienes tengan a cargo el cuidado de niñas, niños o adol
 
 DERECHO A LA ALIMENTACIÓN.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 60 Bis 4.
 
 Niñas, niños y adolescentes tienen derecho a una alimentación saludable que asegure su pleno desarrollo físico y mental. Por lo cual este derecho será el eje de la política pública de seguridad alimentaria del Estado.
 
+Los derechos alimentarios de las niñas niños y adolescentes, que se encuentran incluidos en toda pensión alimenticia, comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y, en la especie, los contemplados en la fracción I, del artículo 103, de la Ley General.
+
 La desnutrición y la obesidad entre las niñas, niños y adolescentes son asuntos de salud pública en el Estado.
 
 El Poder Ejecutivo del Estado y gobiernos municipales podrán crear programas de educación alimentaria y mejoramiento nutricional para las niñas, niños y adolescentes en la etapa inicial, preescolar, primaria, secundaria y medio superior en zonas identificadas con altos índices de desnutrición, anemia o en riesgo de desnutrición. Madres y padres de familia participaran en el cumplimiento de la misma.
+
+El Poder Judicial del Estado de Durango, implementará un registro que integre los datos, antecedentes y referencias de las personas obligadas por sentencia ejecutoriada a dar alimentos y que hayan adquirido el carácter de deudor alimentario moroso por incumplimiento a esa obligación.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -1156,6 +1160,42 @@ I. La distribución, donación, regalo, venta y suministro a niñas, niños y ad
 II. La distribución, donación, regalo, venta y suministro de bebidas azucaradas y alimentos envasados de alto contenido calórico en comedores de los centros públicos de educación inicial, preescolar, primaria, secundaria.
 
 III. La venta, distribución o exhibición de cualquiera de esos productos a través de distribuidores automáticos o máquinas expendedoras.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2025)</small>
+
+Artículo 60 BIS 6. En cumplimiento de lo establecido en la Ley General, el Tribunal Superior de Justicia del Estado de Durango suministrará, intercambiará, sistematizarán, consultará, analizará y actualizará, la información que se genere sobre el incumplimiento de las obligaciones alimentarias, en los términos precisados en dicho cuerpo normativo.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, tendrá acceso a las bases de datos del Registro Nacional de Obligaciones Alimentarias, en los términos precisados en la Ley General.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2025)</small>
+
+Artículo 60 BIS 7. En el Estado de Durango, toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez o la autoridad responsable del fuero local; de no hacerlo, será sancionada en los términos establecidos por la legislación penal y responderá solidariamente para el pago de daños y perjuicios que cause al acreedor alimentario por las omisiones o informes falsos, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+El deudor alimentario tendrá la obligación de informar, en un máximo de quince días hábiles al acreedor alimentario, al Juez o la autoridad responsable, cualquier cambio en su empleo, la ubicación de este y el puesto o cargo que desempeña, a efecto de que se actualice la pensión alimenticia decretada.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2025)</small>
+
+Artículo 60 BIS 8. Las autoridades estatales y municipales, en el ámbito de sus competencias, dispondrán lo necesario a fin de establecer como requisito la presentación del certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias en los trámites que consideren pertinente, como pueden ser:
+
+I. Obtención de licencias y permisos para conducir;
+
+II. Documento de identidad;
+
+III. Para poder contender como candidato a cargos concejiles y de elección popular;
+
+IV. Para poder contender como aspirante a cargos de jueces o magistrados en el ámbito local;
+
+V. Los que se realicen ante notario público relativos a la compraventa de bienes inmuebles y la constitución o transmisión de derechos reales; y
+
+VI. En las solicitudes de matrimonio, el oficial del Registro Civil hará del conocimiento si alguno de los contrayentes se encuentra inscrito en el Registro Nacional de Obligaciones Alimentarias, mencionando la situación que guardan respecto de las obligaciones que tiene.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2025)</small>
+
+Artículo 60 BIS 9. Las autoridades estatales competentes, a solicitud justificada, colaborarán en la ejecución o instrumentación de medidas de restricción migratoria que establezcan impedimento a personas inscritas en el Registro Nacional de Obligaciones Alimentarias para salir del país cuando se actualice alguna de las hipótesis contenidas en el artículo 135 sépties de la Ley General
+
+El impedimento para salir del país deberá ser solicitado por el acreedor o por quienes tengan su guardia y custodia ante el Juez correspondiente, quien, en su caso, deberá notificar a las autoridades correspondientes respectivas para los efectos conducentes.
+
+El Juez de lo familiar podrá autorizar la salida del país si se garantiza el pago de por lo menos la mitad del adeudo que se tenga por el pago de alimentos y un depósito que corresponda al pago adelantado desde noventa hasta trescientos sesenta y cinco días de la pensión, según las circunstancias, o bien proporcione cualquier otra garantía, que a criterio del Juez garantice el cumplimiento de su obligación.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2022)</small>
 
@@ -1221,7 +1261,9 @@ Las autoridades del Estado de Durango y sus municipios tienen el compromiso y el
 
 Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, las siguientes:
 
-I. Proporcionar y garantizar el derecho a alimentos, el libre desarrollo de su personalidad y el ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2025)</small>
+
+I. Proporcionar y garantizar el derecho a alimentos, el libre desarrollo de su personalidad y el ejercicio de sus derechos, además de denunciar el incumplimiento de las obligaciones alimentarias de la persona o personas sentenciadas a dicho deber;
 
 II. Registrar su nacimiento ante la oficialía de registro civil correspondiente dentro de los primeros sesenta días de vida;
 
@@ -2512,3 +2554,11 @@ P.O. 23 DE OCTUBRE DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 26 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 203 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, TODAS EN MATERIA DE REGISTRO NACIONAL DE OBLIGACIONES ALIMENTARIAS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
