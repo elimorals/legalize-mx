@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-institucion-descentralizada-de-servicio-publico-844"
 country: "mx"
 rank: "ley"
 publication_date: "1956-01-04"
-last_updated: "1956-01-04"
+last_updated: "2025-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=844&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1955-12-30"
 ---
 # LEY DE LA INSTITUCION DESCENTRALIZADA DE SERVICIO PUBLICO "SERVICIO DE TRANSPORTES ELECTRICOS DE LA CIUDAD DE MEXICO -- ANTES LEY DE LA INSTITUCION DESCENTRALIZADA DE SERVICIO PUBLICO SERVICIO DE TRANSPORTES ELECTRICOS DEL DISTRITO FEDERAL --
 
-LEY DE LA INSTITUCION DESCENTRALIZADA DE SERVICIO PUBLICO "SERVICIO DE TRANSPORTES ELECTRICOS DEL DISTRITO FEDERAL"
+LEY DE LA INSTITUCIÓN DESCENTRALIZADA DE SERVICIO PÚBLICO "SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 4 de enero de 1956.
 
@@ -36,45 +36,69 @@ DECRETO:
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
 
-LEY DE LA INSTITUCION DESCENTRALIZADA DE SERVICIO PUBLICO "SERVICIO DE TRANSPORTES ELECTRICOS DEL DISTRITO FEDERAL".
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE OCTUBRE DE 2025)</small>
+
+LEY DE LA INSTITUCIÓN DESCENTRALIZADA DE SERVICIO PÚBLICO "SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 1o.
 
-La institución "Servicio de Transportes Eléctricos del Distrito Federal" es un organismo público descentralizado con personalidad jurídica y patrimonio propio.
+La institución Servicio de Transportes Eléctricos de la Ciudad de México es un organismo público descentralizado con personalidad jurídica y patrimonio propio.
 
-Dicho organismo quedará bajo el control, vigilancia y dependencia del Departamento del Distrito Federal en materia de bienes, sin perjuicio de lo establecido en la Ley para el Control, por parte del Gobierno Federal, de Organismos Descentralizados y Empresas de Participación Estatal.
+Dicho organismo quedará bajo el control, vigilancia y dependencia de la Jefatura de Gobierno de la Ciudad de México en materia de bienes, sin perjuicio de lo establecido en la Ley para el Control, por parte del Gobierno Federal, de Organismos de Participación Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 2o.
 
-"Servicio de Transportes Eléctricos del Distrito Federal" tendrá los siguientes objetos:
+Servicio de Transportes Eléctricos de la Ciudad de México tendrá los siguientes objetos:
 
-a).- La administración y operación de los sistemas de transportes eléctricos que fueron adquiridos por el Departamento del Distrito Federal;
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
+
+a).- La administración y operación de los sistemas de transportes eléctricos que fueron adquiridos por la Jefatura de Gobierno de la Ciudad de México;
 
 b).- La operación de otros sistemas, ya sean de gasolina o diesel, siempre que se establezcan como auxiliares de los sistemas eléctricos; y
 
-c).- El estudio, proyección, construcción y en su caso operación de nuevas líneas de transportes en el Distrito Federal.
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
+
+c).- El estudio, proyección, construcción y en su caso operación de nuevas líneas de transportes en la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 3o.
 
-El patrimonio de "Servicio de Transportes Eléctricos del Distrito Federal" lo constituyen:
+El patrimonio de "Servicio de Transportes Eléctricos de la Ciudad de México" lo constituyen:
 
 a).- Todos los bienes muebles e inmuebles, servicios auxiliares y dependencias que pertenecieron a la Compañía de Tranvías de México, S.A., a la Compañía Limitada de Tranvías de México y a la Compañía de Ferrocarriles del Distrito Federal, que se adquirieron por el Departamento del Distrito Federal, según escritura pública de 23 de octubre de 1952;
 
-b).- Los bienes que por cualquier título jurídico hubiere obtenido "Servicio de Transportes Eléctricos del Distrito Federal", salvo aquellos que hubiere obtenido del Departamento del Distrito Federal en calidad de préstamo;
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
-c).- Los bienes que el Departamento del Distrito Federal, de una manera expresa en el futuro destine para el mejoramiento y ampliación de los servicios de transportes y sistemas auxiliares; y
+b).- Los bienes que por cualquier título jurídico hubiere obtenido "Servicio de Transportes Eléctricos de la Ciudad de México", salvo aquellos que hubiere obtenido de la Jefatura de Gobierno de la Ciudad de México en calidad de préstamo;
 
-d).- Los bienes que "Servicio de Transportes Eléctricos del Distrito Federal" adquiera en el futuro, por cualquier título.
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
+
+c).- Los bienes que la Jefatura de Gobierno de la Ciudad de México, de una manera expresa en el futuro destine para el mejoramiento y ampliación de los servicios de transportes y sistemas auxiliares; y
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
+
+d).- Los bienes que Servicio de Transportes Eléctricos de la Ciudad de México adquiera en el futuro, por cualquier título.
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 4o.
 
-El Departamento del Distrito Federal podrá facultar a "Servicio de Transportes Eléctricos del Distrito Federal" para hacer uso de las calles, avenidas y vías públicas que sea necesario para sus instalaciones y operación, debiendo en todo caso la institución sujetarse a las disposiciones administrativas correspondientes.
+La Jefatura de Gobierno de la Ciudad de México podrá facultar a Servicio de Transportes Eléctricos de la Ciudad de México para hacer uso de las calles, avenidas y vías públicas que sea necesario para sus instalaciones y operación, debiendo en todo caso la institución sujetarse a las disposiciones administrativas correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 5o.
 
-"Servicio de Transportes Eléctricos del Distrito Federal" estará dirigido por un Consejo de Administración que estará compuesto de seis miembros e integrado en la siguiente forma:
+Servicio de Transportes Eléctricos del Distrito Federal estará dirigido por un consejo de administración que estará compuesto de seis miembros e integrado en la siguiente forma:
 
-a).- Por el Jefe del Departamento del Distrito Federal, quien tendrá además el carácter de Presidente del Consejo;
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
+
+a).- Por la persona titular de la Jefatura de Gobierno de la Ciudad de México, quien tendrá además el carácter de Presidente ó Presidenta del Consejo;
 
 b).- Por un representante que designe el titular de la Secretaría de Hacienda y Crédito Público;
 
@@ -82,13 +106,19 @@ c).- Por un representante que designe el titular de la Secretaría de Economía;
 
 d).- Por un representante que designe el titular de la Secretaría de Bienes Nacionales e Inspección Administrativa; y
 
-e).- Por dos representantes que designará el Jefe del Departamento del Distrito Federal.
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
-El Jefe del Departamento del Distrito Federal podrá delegar su representación en la persona que designe y las demás dependencias mencionadas en este artículo deberán designar un Suplente por cada uno de los Consejeros que les corresponda nombrar.
+e).- Por dos representantes que designará la persona titular de la Jefatura de Gobierno de la Ciudad de México
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
+
+La persona titular de la jefatura de Gobierno de la Ciudad de México podrá delegar su representación en la persona que designe y las demás dependencias mencionadas en este artículo deberán designar una persona Suplente por cada consejera o consejero que les corresponda nombrar.
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 6o.
 
-Las actas de las juntas del Consejo se consignarán en un libro que deberá ser autorizado por la Tesorería del Distrito Federal. Las actas llevarán la firma del Presidente o de quien funja en la sesión respectiva con este carácter, y la del Secretario.
+Las Actas de las Juntas del Consejo se consignarán en un libro que deberá ser autorizado por la Tesorería de la Ciudad de México. Las actas llevarán la firma de la o el Presidente o de quien funja en la sesión respectiva con este carácter, y la de la persona Secretaria.
 
 ###### ARTICULO 7o.
 
@@ -112,13 +142,17 @@ h).- Acordar la emisión de títulos de crédito en masa o en serie, y designar 
 
 i).- Remover libremente a los funcionarios y empleados de la institución, sin distinción;
 
-j).- Aprobar los presupuestos de ingresos y egresos, oyendo previamente la opinión del Departamento del Distrito Federal;
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
+
+j).- Aprobar los presupuestos de ingresos y egresos, oyendo previamente la opinión de la Jefatura de Gobierno de la Ciudad de México;
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 k).- Delegar algunas facultades en Comités o Comisiones de su seno, o en el Director General, señalándoles las atribuciones para que las ejerzan, en los negocios o lugares que se designen. No serán facultades delegables del Consejo, las que se refieran: al nombramiento de Secretario del Consejo, Director General y Subdirectores; acordar la emisión de títulos de créditos y aprobar operaciones cuyo monto exceda de cien mil pesos o de cinco años de plazo; y
 
-l).- En general, desempeñar todas las atribuciones que estén comprendidas en el objeto de la institución, y que no estén expresamente reservadas por la ley al Gobierno Federal o al Departamento del Distrito Federal.
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
+
+l).- En general, desempeñar todas las atribuciones que estén comprendidas en el objeto de la institución, y que no estén expresamente reservadas por la Ley al Gobierno Federal o a la Jefatura de Gobierno de la Ciudad de México.
 
 Los acuerdos para enajenar y gravar bienes inmuebles e instalaciones fijas se sujetarán a las normas establecidas en la Ley para el control, por parte del Gobierno Federal, de Organismos Descentralizados y Empresas de Participación Estatal, y cuando se trate de la emisión de títulos de crédito en masa o en serie se recabará la aprobación de la Secretaría de Hacienda y Crédito Público.
 
@@ -146,17 +180,23 @@ g).- Preparar y someter al Consejo los presupuestos de ingresos y egresos de la 
 
 h).- Las demás que el Consejo le señale.
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
+
 ###### ARTICULO 10.
 
-Las remuneraciones del Director General; Subdirectores y demás personal de dirección, administración e inspección, serán fijadas en el presupuesto anual de la institución, debiendo procurarse que dichas remuneraciones correspondan al estado de las finanzas de "Servicio de Transportes Eléctricos del Distrito Federal" y a la responsabilidad que a cada puesto corresponda.
+Las remuneraciones de la persona que ocupe la Dirección General; Subdirecciones y demás personal de Dirección, Administración e inspección, serán fijadas en el presupuesto anual de la institución, debiendo procurarse que dichas remuneraciones correspondan al estado de las finanzas de Servicio de Transportes Eléctricos de la Ciudad de México y a la responsabilidad que a cada puesto corresponda.
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 11.
 
-El personal de dirección, administración e inspección que tenga responsabilidad directar (sic) e indirecta en el manejo de fondos y valores de "Servicio de Transportes Eléctricos del Distrito Federal", deberá caucionar debidamente su manejo, mediante fianza otorgada por institución de fianzas legalmente autorizada, por el monto que fije el Consejo de Administración.
+El personal de Dirección, Administración e Inspección que tenga responsabilidad directa e indirecta en el manejo de fondos y valores de Servicio de Transportes Eléctricos de la Ciudad de México, deberá caucionar debidamente su manejo, mediante fianza otorgada por Institución de Fianzas legalmente autorizada, por el monto que fije el Consejo de Administración.
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 12.
 
-Anualmente se formulará un balance general, que será puesto a la consideración del Departamento del Distrito Federal para su revisión y para la glosa de cuentas respectiva, sin perjuicio de la intervención que corresponda a otras autoridades. También y bajo la responsabilidad del Director General, se formularán estados mensuales de contabilidad con sus anexos correspondientes, debiendo ser entregados al Consejo de Administración y al Departamento del Distrito Federal, dentro del mes siguiente a cada mes de calendario.
+Anualmente se formulará un balance general, que será puesto a la consideración de la Jefatura de Gobierno de la Ciudad de México para su revisión y para la glosa de cuentas respectiva, sin perjuicio de la intervención que corresponda a otras autoridades. También y bajo la responsabilidad de la persona que ocupe la Dirección General, se formularán estados mensuales de contabilidad con sus anexos correspondientes, debiendo ser entregados al consejo de administración y a la Jefatura de Gobierno de la Ciudad de México, dentro del mes siguiente a cada mes de calendario.
 
 ###### ARTICULO 13.
 
@@ -166,9 +206,11 @@ a).- Se formarán reservas de previsión y amortización, que no podrán exceder
 
 b).- Se destinarán las cantidades necesarias para la conservación y ampliación del servicio.
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
+
 ###### ARTICULO 14.
 
-"Servicio de Transportes Eléctricos del Distrito Federal" disfrutará de preferencia para el otorgamiento de concesiones para nuevas líneas de transportes eléctricos y sistemas auxiliares, sobre particulares o empresas.
+Servicio de Transportes Eléctricos de la Ciudad de México disfrutará de preferencia para el otorgamiento de concesiones para nuevas líneas de transportes eléctricos y sistemas auxiliares, sobre particulares o empresas.
 
 ## TRANSITORIOS
 
@@ -183,3 +225,17 @@ Las disposiciones de esta ley entrarán en vigor al día siguiente de su publica
 Carlos Valdés Villarreal, D. P.- Oscar Flores, S. P.- José Ignacio Morales Cruz, D. S.- Salvador G. Govea.- S. S.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos cincuenta y cinco.- Adolfo Ruiz Cortines.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ernesto P. Uruchurtu.- Rúbrica.- El Subsecretario de Comunicaciones y Obras Públicas, Encargado del Despacho, Walter C. Buchanan.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Carrillo Flores.- Rúbrica.- El Secretario de Economía, Gilberto Loyo.- Rúbrica.- El Secretario de Bienes Nacionales e Inspección Administrativa, José López Lira.- Rúbrica.- El Secretario de Gobernación, Angel Carvajal.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA LEY DE LA INSTITUCIÓN DESCENTRALIZADA DE SERVICIO PÚBLICO "SERVICIO DE TRANSPORTES ELÉCTRICOS DEL DISTRITO FEDERAL", PARA QUEDAR COMO LEY DE LA INSTITUCIÓN DESCENTRALIZADA DE SERVICIO PÚBLICO "SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO", ASÍ COMO LOS ARTÍCULOS 1°; 2° PRIMER PÁRRAFO E INCISOS A) Y C); 3°, 4°; 5° PÁRRAFO PRIMERO, INCISOS A) Y E) Y PÁRRAFO SEGUNDO; 6°; 7° INCISOS J) Y L); 10; 11; 12 Y 14 DE LA LEY DE LA INSTITUCIÓN DESCENTRALIZADA DE SERVICIO PÚBLICO "SERVICIO DE TRANSPORTES ELÉCTRICOS DEL DISTRITO FEDERAL”.]
+
+Primero.- Remítase el presente Decreto a la Jefatura de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero.- A partir de la entrada en vigor del presente Decreto, toda referencia contenida en otras disposiciones normativas, reglamentarias, administrativas o instrumentos jurídicos aplicables, a la “Ley de la Institución Descentralizada de Servicio Público Servicio de Transportes Eléctricos del Distrito Federal”, se entenderá hecha a la “Ley de la Institución Descentralizada de Servicio Público Servicio de Transportes Eléctricos de la Ciudad de México”
+
+Cuarto. La Jefatura de Gobierno, en coordinación con las autoridades del Servicio de Transportes Eléctricos de la Ciudad de México, deberán realizar las acciones necesarias para actualizar el Estatuto Orgánico del Servicio de Transportes Eléctricos de la Ciudad de México, los sistemas, documentos oficiales, imagen institucional y demás instrumentos que contengan la denominación anterior, en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto.
