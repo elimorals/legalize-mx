@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-para-la-ciudad-de-mexico-120451"
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-23"
-last_updated: "2025-05-02"
+last_updated: "2025-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120451&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-28"
 
 LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 23 de marzo de 2017.
 
@@ -152,11 +152,11 @@ VI. Ubicación tomando en cuenta el acceso a oportunidades de empleo, servicios 
 
 VII. Adecuación a las soluciones arquitectónicas y urbanísticas, de los procesos productivos de la vivienda y el uso de materiales, con base en el respeto a la diversidad cultural, medioambiental y geográfica.
 
-> <small>(REFORMADO, G.O. 2 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 4.
 
-Por ningún motivo será obstáculo para el ejercicio del derecho a la vivienda adecuada, la condición económica, el origen étnico o nacional, apariencia física, color de piel, lengua, genero, edad, discapacidades, condición social, situación migratoria, condiciones de salud, embarazo, religión, opiniones, preferencia sexual, orientación sexual, identidad de género, expresión de género, características sexuales, estado civil, creencias políticas.
+Por ningún motivo será obstáculo para el ejercicio del derecho a la vivienda, la condición económica, el origen étnico o nacional, apariencia física, color de piel, lengua, género, edad, discapacidades, condición social, situación migratoria, condiciones de salud, embarazo, religión, opiniones, preferencia sexual, orientación sexual, identidad de género, expresión de género, características sexuales, estado civil, creencias políticas; así como la cohabitación con infancias y seres sintientes.
 
 ###### Artículo 5.
 
@@ -1467,3 +1467,11 @@ PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad
 SEGUNDO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4 DE LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
