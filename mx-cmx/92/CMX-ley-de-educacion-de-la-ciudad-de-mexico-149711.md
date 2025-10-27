@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2025-08-27"
+last_updated: "2025-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2025.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -57,6 +57,10 @@ La función social educativa de las universidades y demás instituciones de educ
 Para efectos de la presente Ley, se entenderá por:
 
 I. Alcaldías: Órganos Político Administrativos de cada una de las demarcaciones territoriales;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2025)</small>
+
+I Bis Acoso Escolar: Se refiere a todo acto u omisión que, de manera sistemática, agreda física, psicoemocional, patrimonial o sexualmente a una niña, niño o adolescente, realizado bajo el cuidado de las instituciones escolares o en el entorno escolar. El Acoso Escolar deberá ser reconocido, atendido, erradicado y prevenido en términos de lo dispuesto en la Ley para la Promoción de la Convivencia Libre de Violencia en el Entorno Escolar de la Ciudad de México.
 
 II. Autoridad Educativa Federal: Autoridad Educativa Federal en la Ciudad de México;
 
@@ -1833,3 +1837,13 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 2 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Congreso de la Ciudad de México, en un plazo no mayor a 180 días naturales, a partir de la entrada en vigor del presente Decreto, deberá homologar la Ley para la Promoción de la Convivencia Libre de Violencia en el Entorno Escolar de la Ciudad de México, a fin de armonizarla con lo dispuesto en el presente Decreto.
