@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2025-10-02"
+last_updated: "2025-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -759,9 +759,9 @@ L.- Designar representantes que participen en el Consejo de Armonización Contab
 
 LI.- Diseñar el sistema de evaluación del desempeño a nivel municipal, a través de la dependencia que designe.
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-LII.- Cumplir con las atribuciones que le confieren a los municipios la Ley General de Víctimas, así como la Ley de Protección a las Víctimas para el Estado de Tamaulipas.
+LII.- Cumplir con las atribuciones que le confieren a los municipios la Ley General de Víctimas, así como la Ley de Atención a Víctimas para el Estado de Tamaulipas.
 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -7228,6 +7228,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 2 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-468 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 151, PÁRRAFO PRIMERO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-479 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LII DEL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
