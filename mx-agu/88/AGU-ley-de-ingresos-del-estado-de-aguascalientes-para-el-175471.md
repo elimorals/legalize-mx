@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-175471"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-27"
-last_updated: "2025-09-30"
+last_updated: "2025-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2025
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Ley publicada en la Décima Segunda Sección del Número 68 del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2024.
 
@@ -14071,6 +14071,18 @@ En el caso de recargos, aprovechamientos y multas estatales, impuestas por Entid
 
 En ningún caso, procederá el otorgamiento de descuentos derivado de créditos fiscales provenientes de reintegros de cualquier tipo al erario estatal.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 47 Bis.
+
+Se exenta del pago de los derechos previstos en el artículo 6°, fracción I, numeral 1), incisos A) y B), y fracción II, numeral 6); en el artículo 7°, fracción II, numerales 2) y 5); y en el artículo 9°, fracción XVI, de la presente Ley, a los Fraccionamientos Habitacionales Urbanos por Regularización que hayan sido aprobados por el Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, con anterioridad a la entrada en vigor de esta disposición.
+
+Los beneficiarios de la exención deberán acreditar lo anterior, mediante el documento original expedido por la Secretaría de Planeación, Participación y Desarrollo del Estado.
+
+Para la aplicación de la exención, la Secretaría de Planeación, Participación y Desarrollo notificará, mediante oficio, a la Secretaría de Finanzas del Estado y al Instituto Registral y Catastral del Estado de Aguascalientes la relación de los sujetos y de los inmuebles a los que resulte aplicable el beneficio previsto en este artículo.
+
+La exención prevista en este artículo no libera a las personas beneficiadas de cumplir con las demás obligaciones formales establecidas en la legislación vigente, ni dará lugar a devolución o compensación alguna.
+
 ###### Artículo 48.
 
 Cuando sea necesario substanciar el procedimiento administrativo de ejecución, para hacer efectivo un crédito fiscal, las personas físicas y morales están obligadas a pagar el 2% del crédito fiscal, por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican.
@@ -14230,3 +14242,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 290.- SE ADICIONA EL ARTÍCULO 47 BIS A LA “LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2025”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente.
