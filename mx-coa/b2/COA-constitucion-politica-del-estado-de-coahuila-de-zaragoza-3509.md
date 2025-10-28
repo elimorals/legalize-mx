@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2025-10-24"
+last_updated: "2025-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1246,11 +1246,13 @@ El Congreso podrá reunirse en sesiones extraordinarias cada vez que fuere convo
 
 Las sesiones extraordinarias deberán cerrarse precisamente antes del día en que deban celebrarse las ordinarias, aún cuando no hayan sido despachados los asuntos que motivaron la convocatoria, los que se resolverán de preferencia en el período ordinario.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 49.
 
-El Gobernador del Estado asistirá el 30 de noviembre de cada año al Congreso, a informar sobre el estado general que guarda la administración pública estatal.
+El Gobernador del Estado asistirá al Congreso, dentro de los últimos quince días de noviembre de cada año, a informar sobre el estado general que guarda la administración pública estatal.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
 
 Tratándose del último año de su gestión, el Gobernador podrá, de acuerdo con el Congreso, rendir el informe a que se refiere el párrafo anterior dentro de los primeros quince días del mes de noviembre del año que corresponda.
 
@@ -2168,9 +2170,9 @@ III. Cuidar de la observancia de la Constitución Política de los Estados Unido
 
 Asimismo, será deber del Gobernador del Estado, publicar y hacer cumplir las leyes y decretos federales.
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-IV. Asistir e informar al Congreso, el 30 de noviembre de cada año o bien, dentro de los primeros quince días del mes de noviembre del año que corresponda tratándose del último año de su gestión, sobre el estado general que guarda la administración pública estatal.
+IV. Asistir e informar al Congreso, dentro de los últimos quince días de noviembre de cada año y, dentro de los primeros quince días del mes de noviembre del año que corresponda tratándose del último año de su gestión, sobre el estado general que guarda la administración pública estatal.
 
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2012)</small>
 
@@ -2686,67 +2688,59 @@ II. La búsqueda de personas se regirá en todo momento por lo dispuesto en los 
 
 III. Para el desarrollo y colaboración en procesos de identificación de personas la Comisión de Búsqueda del Estado de Coahuila de Zaragoza contará con un Centro de Identificación Humana.
 
-### CAPITULO VI.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-De la Instrucción Pública.
+### CAPITULO VI. De la Educación
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 116.
 
-La educación de los hijos es deber y derecho primario de los padres o de quienes los representen. El Estado vigilará el cumplimiento de ese deber y facilitará el ejercicio de este derecho.
+Todas las personas habitantes del Estado de Coahuila de Zaragoza tienen derecho a la educación, la cual se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+Corresponde al Estado la rectoría de la educación; la impartida por este será universal, inclusiva, pública, gratuita y laica.
+
+El Estado priorizará el interés superior de las niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos.
+
+Será responsabilidad de la ciudadanía coahuilense que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir la educación obligatoria.
+
+Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 117.
 
-La educación y la enseñanza será organizada como un proceso integral correlacionado con sus diversos ciclos, de modo que exista una adecuada articulación y continuidad entre todos sus grados, incluyendo el superior, y estará orientada a lograr el desarrollo armonioso de la personalidad humana, el amor a la Patria y el respeto a los derechos humanos conforme a lo dispuesto por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
+La educación será considerada como un proceso integral correlacionado con sus diversos ciclos, de modo que exista una adecuada articulación y continuidad entre todos los niveles, y estará orientada a lograr el desarrollo armonioso de la personalidad humana, el amor a la patria, el respeto a los derechos humanos y la igualdad sustantiva, conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
-
-La educación pública que el Estado debe de otorgar a los escolares deberá de contribuir a una mejor convivencia humana, fomentando el cuidado, preservación y protección del medio ambiente y de todos los seres vivos que forman parte de este, incluyendo a los animales domésticos, bajo la perspectiva de consolidar una conducta pacífica y amigable hacia todos los seres vivos.
-
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
-
-El Ejecutivo del Estado a través de la Secretaría de Educación propondrá y en su caso aplicará los planes y programas de estudio de educación preescolar, primaria, secundaria y normal previamente determinados por la federación.
-
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+La persona titular del Ejecutivo del Estado, a través de la Secretaría de Educación, propondrá, y en su caso, aplicará los planes y programas de estudio de educación inicial, preescolar, primaria, secundaria y normal previamente determinados por la federación, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Educación.
 
 Por lo que respecta al nivel bachillerato, la autoridad educativa estatal regulará en coordinación con la autoridad educativa federal los planes y programas de estudio, una vez establecido el marco curricular común.
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+Se garantizará el derecho a la educación de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad.
 
-Se garantizará el derecho a la calidad en la educación obligatoria, de manera que los materiales y métodos educativos, la organización escolar, la infraestructura educativa, la idoneidad de los docentes y los directivos garanticen el máximo logro de aprendizaje de los educandos, así mismo gozarán de las prerrogativas que reconoce la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en los que el Estado Mexicano sea parte.
+La admisión, promoción y reconocimiento del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan, deberán observar lo dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros.
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, el Estado reconoce su contribución a la trasformación social. Tendrán derecho de acceder a un sistema integral de formación, de capacitación y de actualización, retroalimentado por evaluaciones diagnósticas, para cumplir los objetivos y propósitos de la educación.
 
-A fin de garantizar la idoneidad de los docentes y los directivos, el ingreso al servicio profesional y la promoción a cargos con función de dirección o de supervisión en la educación básica y media superior que imparta el Estado, se realizará mediante concursos de oposición, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
+La Educación será equitativa, inclusiva, intercultural, integral y de excelencia de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+La educación que el Estado debe de otorgar al alumnado deberá de contribuir a una mejor convivencia humana, fomentando el cuidado, preservación y protección del medio ambiente y de todos los seres vivos que forman parte de este, incluyendo a los animales domésticos, bajo la perspectiva de consolidar una conducta pacífica y amigable hacia todos los seres vivos.
 
-El ingreso, la promoción, el reconocimiento y la permanencia en el servicio profesional se realizarán mediante evaluaciones obligatorias que garantizarán los conocimientos y capacidades que correspondan, y con pleno respeto a los derechos constitucionales de los trabajadores de la educación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 118.
 
-El Estado y los municipios prestarán los servicios de educación preescolar, primaria, secundaria y media superior, estos niveles educativos serán obligatorios.
+El Estado y los municipios garantizarán y prestarán los servicios de educación inicial, preescolar, primaria, secundaria, media superior y superior.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
-
-La educación inicial, especial, preescolar, primaria, secundaria y media superior que impartan el Estado y los municipios en establecimientos sostenidos por recursos públicos será gratuita, de calidad y tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional en la independencia y en la justicia.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+Los niveles de educación inicial, preescolar, primaria y secundaria formarán parte de la educación básica, estas y la media superior serán obligatorias; la educación superior lo será en los términos que dicte la normatividad aplicable, y tendrá como objetivo desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional en la independencia y en la justicia.
 
 El Estado reconoce a la juventud el derecho de que se le complemente su educación en instituciones sostenidas con los fondos públicos, sin más limitación que las posibilidades económicas al alcance del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+El Estado fortalecerá las instituciones públicas de formación docente, de manera especial a las Escuelas Normales, en los términos que disponga la normatividad aplicable.
 
-El Estado sostendrá las Escuelas Normales indispensables para la preparación técnica de los maestros encargados de la enseñanza.
+Las personas particulares podrán impartir educación en todos sus tipos y modalidades, de acuerdo con la normatividad aplicable. El Estado otorgará y retirará la autorización y reconocimiento de validez oficial a los estudios que realicen los planteles particulares.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
-
-Los centros particulares de enseñanza en todos sus tipos y grados, están sujetos a la inspección del Estado y, para la validez legal de los estudios que impartan, deben obtener autorización expresa, así como cumplir con los planes y programas oficiales. La autorización podrá ser negada o revocada discrecionalmente sin que contra tales resoluciones proceda juicio o recurso alguno.
+La educación que impartan las personas particulares se considerará como un servicio público, por lo tanto, le corresponde al Estado la vigilancia del cumplimiento de lo establecido por el artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás normatividad aplicable en la materia.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -4322,9 +4316,9 @@ Se reconoce la igualdad de derechos del hombre y de la mujer en todos los ámbit
 
 Toda persona tiene derecho a la protección de la salud.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-Toda familia tiene derecho a disfrutar de vivienda digna y decorosa.
+Toda persona tiene derecho a disfrutar de vivienda adecuada.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
 
@@ -6389,3 +6383,27 @@ P.O. 24 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 312.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 49 Y LA FRACCIÓN IV DEL ARTÍCULO 84, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 313.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO CUARTO Y LOS ARTÍCULOS 116, 117 Y 118 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 314.- SE REFORMA EL PÁRRAFO NOVENO DEL ARTÍCULO 173 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
