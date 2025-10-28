@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2025-10-08"
+last_updated: "2025-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -629,9 +629,13 @@ ARTÍCULO 44 TER.
 
 1. Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
 
-2. La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-3. La Secretaría, y los Municipios, supervisarán a través de su mecanismo de implementación y coordinación municipal, que lo dispuesto en dicho Capítulo se cumpla.
+2. Dar un trato digno, apropiado, no discriminatorio a las personas con discapacidad, velando que el servicio permita el acceso con los implementos y se les permita el accesos (sic) con los instrumentos médicos, ortopédicos, tecnológicos, educativos o deportivo que les sean indispensables para su movilidad, uso personal, incluyendo cualquier animal de asistencia o apoyo.
+
+3. La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
+
+4. La Secretaría, y los Municipios, supervisarán a través de su mecanismo de implementación y coordinación municipal, que lo dispuesto en dicho Capitulo se cumpla.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
 
@@ -1352,3 +1356,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Turismo del Estado de Tamaulipas, a partir de la publicación del presente Decreto, deberá emitir, en un plazo no mayor a 180 días naturales, los protocolos y acciones preventivas, para la aplicación de las disposiciones contenidas en este Decreto.
+
+P.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-476 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO 2, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN NATURAL AL ARTÍCULO 44 TER, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
