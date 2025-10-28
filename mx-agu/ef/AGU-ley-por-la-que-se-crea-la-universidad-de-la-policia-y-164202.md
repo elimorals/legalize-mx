@@ -4,7 +4,7 @@ identifier: "AGU-ley-por-la-que-se-crea-la-universidad-de-la-policia-y-164202"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-03"
-last_updated: "2025-05-26"
+last_updated: "2025-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número 3 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 3 de febrero de 2023.
 
@@ -873,6 +873,10 @@ En tanto se declara la extinción del Instituto Estatal de Seguridad Pública de
 
 El Instituto Estatal de Seguridad Pública de Aguascalientes subsistirá únicamente para la conclusión y cierre de sus procesos y programas ya iniciados a la entrada en vigor de este decreto; así como para emitir las constancias, certificados y demás documentos pendientes derivados de sus procesos de formación; para realizar la transferencia de sus recursos, archivos, asuntos, derechos, obligaciones y cargas a la Universidad; para atender sus obligaciones de orden público, que como todo organismo público descentralizado, seguirá teniendo hasta en tanto se declare su extinción y para realizar las acciones que se mencionan en estos transitorios.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+Derivado del procedimiento de extinción del Instituto Estatal de Seguridad Pública de Aguascalientes (IESPA), y del que da origen a la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes (UNPOL), todos aquellos asuntos académicos y de cualquier otra índole del Instituto Estatal de Seguridad Pública de Aguascalientes (IESPA) que se encuentren en trámite o sustanciación, corresponderá atenderlos a las Direcciones o demás unidades administrativas equivalentes de la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes (UNPOL) hasta su conclusión, prescripción y/o que adquieran el carácter de cosa juzgada; en ese tenor, y de conformidad con el acuerdo administrativo que para tal efecto se lleve a cabo entre la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes (UNPOL) y el Instituto de Educación de Aguascalientes, las firmas de los titulares de la Universidad de la Policía y Ciencias de la Seguridad, serán válidas para la suscripción de títulos, diplomas, certificados y comunicaciones de carácter oficial que sean resultado de dicha sustanciación.
+
 ###### ARTÍCULO OCTAVO.
 
 La persona titular de la Dirección General del Instituto Estatal de Seguridad Pública de Aguascalientes y, posterior y sucesivamente, quien sea designado como titular de la Rectoría de la Universidad, fungirán como liquidadores del Instituto Estatal de Seguridad Pública de Aguascalientes, quienes se apoyarán para tales efectos, en el personal de la Universidad y en los demás funcionarios de la Administración Pública Estatal, según corresponda.
@@ -958,3 +962,19 @@ P.O. 26 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 179.- SE REFORMAN LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; Y, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES".]
 
 PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 291.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO No. 293 POR EL QUE SE EXPIDE EN SU ARTÍCULO SEGUNDO LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes (UNPOL) y el Instituto de Educación de Aguascalientes, deberán celebrar en un término no mayor a 30 días hábiles, el convenio referido, que tiene como objeto la suscripción de títulos, diplomas, certificados y comunicaciones de carácter oficial derivados del proceso de extinción del Instituto Estatal de Seguridad Pública de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
