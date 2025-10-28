@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidad-civil-para-la-proteccion-del-derecho-504
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-19"
-last_updated: "2014-11-28"
+last_updated: "2025-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50490&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2006-05-11"
 ---
 # LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN DE LA CIUDAD DE MEXICO -- ANTES LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL --
 
-LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL
+LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el miércoles 19 de mayo de 2006.
 
@@ -46,15 +46,19 @@ D E C R E T A
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
-LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE OCTUBRE DE 2025)</small>
+
+LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN DE LA CIUDAD DE MÉXICO.
 
 ## TÍTULO PRIMERO. DISPOSICIONES COMUNES
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta ley son de orden e interés público y de observancia general en el Distrito Federal, y se inspiran en la protección de los Derechos de la Personalidad a nivel internacional reconocidos en los términos del artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.
+Las disposiciones de esta ley son de orden e interés público y de observancia general en la Ciudad de México, y se inspiran en la protección de los Derechos de la Personalidad a nivel internacional reconocidos en los términos del artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Tiene por finalidad regular el daño al patrimonio moral derivado del abuso del derecho de la información y de la libertad de expresión.
 
@@ -64,9 +68,11 @@ Tratándose de daño al patrimonio moral diverso al regulado en el párrafo que 
 
 A falta de disposición expresa de este ordenamiento, serán aplicables las del derecho común contenidas en el Código Civil para el Distrito Federal, en todo lo que no se contraponga al presente ordenamiento.
 
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-La presente Ley tiene por objeto garantizar los siguientes Derechos de la Personalidad: el derecho a la vida privada, al honor y la propia imagen de las personas en el Distrito Federal.
+La presente Ley tiene por objeto garantizar los siguientes Derechos de la Personalidad: el derecho a la vida privada, al honor y la propia imagen de las personas en la Ciudad de México.
 
 ###### Artículo 4.
 
@@ -86,11 +92,15 @@ La persona moral también goza de estos derechos, en lo que sea compatible con l
 
 Para los efectos de esta ley se entiende por:
 
-I. Ley: La Ley de Responsabilidad Civil para la protección del Derecho a la Vida Privada, el Honor y la Propia Imagen en el Distrito Federal.
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2025)</small>
+
+I. Ley: La Ley de Responsabilidad Civil para la protección del Derecho a la Vida Privada, el Honor y la Propia Imagen de la Ciudad de México.
 
 II. Información de Interés Público: El conjunto de datos, hechos y actos que tienen como propósito servir a las personas para la toma de decisiones, de manera que se enriquezca la convivencia y participación democrática.
 
-III. Servidor Público: Los Representantes de elección popular, a los miembros del Poder Judicial del Distrito Federal, los funcionarios y empleados, y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública del Distrito Federal, así como servidores de los organismos autónomos por ley.
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2025)</small>
+
+III. Persona Servidora Pública: Las personas representantes de elección popular, a los miembros del Poder Judicial de la Ciudad de México, los funcionarios y empleados, y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública de la Ciudad de México, así como servidores de los organismos autónomos por ley.
 
 IV. Derecho de Personalidad: Los bienes constituidos por determinadas proyecciones, físicas o psíquicas del ser humano, relativas a su integridad física y mental, que las atribuye para sí o para algunos sujetos de derecho, y que son individualizadas por el ordenamiento jurídico. Los derechos de personalidad tienen, sobre todo, un valor moral, por lo que componen el patrimonio moral de las personas.
 
@@ -212,17 +222,21 @@ No se reputarán intromisiones ilegítimas las actuaciones autorizadas o acordad
 
 ### CAPÍTULO III. MALICIA EFECTIVA
 
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 28.
 
-La malicia efectiva se configura en los casos en que el demandante sea un servidor público y se sujetará a los términos y condiciones del presente capítulo.
+La malicia efectiva se configura en los casos en que el demandante sea una persona servidora pública y sujetará a los términos y condiciones del presente capítulo.
 
 ###### Artículo 29.
 
 Se prohíbe la reparación del daño a los servidores públicos que se encuentren contenidos en los supuestos del presente título, a no ser prueben que el acto ilícito se realizó con malicia efectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 30.
 
-Los servidores públicos afectados en su patrimonio moral por opiniones y/o informaciones, conforme al artículo 33 de la ley, difundidas a través de los medios de comunicación e información, deberán probar la existencia de la malicia efectiva demostrando:
+Las personas servidoras públicas afectadas en su patrimonio moral por opiniones y/o informaciones, conforme al artículo 33 de la ley, difundidas a través de los medios de comunicación e información, deberán probar la existencia de la malicia efectiva demostrando:
 
 I. Que la información fue difundida a sabiendas de su falsedad;
 
@@ -238,15 +252,19 @@ En el caso de las figuras públicas, la acción procederá siempre y cuando se p
 
 En los demás casos bastará que se demuestre la negligencia inexcusable del demandado.
 
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 33.
 
-Los servidores públicos tendrán limitado su derecho al honor, a la vida privada y a su propia imagen como consecuencia del ejercicio de sus funciones sometidas al escrutinio público.
+Las personas servidoras públicas tendrán limitado su derecho al honor, a la vida privada y a su propia imagen como consecuencia del ejercicio de sus funciones sometidas al escrutinio público.
 
 ###### Artículo 34.
 
 Para efectos de este apartado. Se reputarán informaciones de interés público:
 
-I. Los datos y hechos sobre el desempeño, en el sentido más amplio, de los servidores públicos, la administración pública y organismos privados que ejerzan gasto público o cumplan funciones de autoridad.
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2025)</small>
+
+I. Los datos y hechos sobre el desempeño, en el sentido más amplio, de las personas servidoras públicas, la administración pública y organismos privados que ejerzan gasto público o cumplan funciones de autoridad.
 
 II. Los datos sobre acontecimientos naturales, sociales, políticos, económicos y culturales que pueden afectar, en sentido positivo o negativo a la sociedad en su conjunto.
 
@@ -339,3 +357,9 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN Y DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
