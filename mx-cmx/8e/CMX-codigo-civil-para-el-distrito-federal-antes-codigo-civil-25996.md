@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2025-08-27"
+last_updated: "2025-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -27,7 +27,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -6293,7 +6293,9 @@ III.- Todo lo que esté unido a un inmueble de una manera fija, de modo que no p
 
 IV.- Las estatuas, relieves, pinturas u otros objetos de ornamentación, colocados en edificios o heredades por el dueño del inmueble, en tal forma que revele el propósito de unirlos de un modo permanente al fundo;
 
-V.- Los palomares, colmenas, estanques de peces o criaderos análogos, cuendo (sic) el propietario los conserve con el propósito de mantenerlos unidos a la finca y formando parte de ella de un modo permanente;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2025)</small>
+
+V.- Los destinados a palomares, colmenares, estanques de peces o criaderos análogos, cuando el propietario los conserve con el propósito de mantenerlos unidos a la finca y formando parte de ella de un modo permanente;
 
 VI.- Las máquinas, vasos, instrumentos o utensilios destinados por el propietario de la finca directa y exclusivamente a la industria o explotación de la misma;
 
@@ -6811,7 +6813,9 @@ La distancia de que habla el artículo anterior se mide desde la línea de separ
 
 El propietario de un edificio está obligado a construir sus tejados y azoteas de tal manera que las aguas pluviales no caigan sobre el suelo o edificio vecino.
 
-### CAPITULO II. De la apropiación de los animales
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE OCTUBRE DE 2025)</small>
+
+### CAPITULO II. De los animales
 
 ###### ARTICULO 854.
 
@@ -6820,6 +6824,16 @@ Los animales sin marca alguna que se encuentren en las propiedades, se presume q
 ###### ARTICULO 855.
 
 Los animales sin marca que se encuentren en tierras de propiedad particular que explotan en común varios, se presumen del dueño de la cría de la misma especie y de la misma raza en ellas establecidas, mientras no se pruebe lo contrario. Si dos o más fueren dueños de la misma especie o raza, mientras no haya prueba de que los animales pertenecen a alguno de ellos, se reputarán de propiedad común.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2025)</small>
+
+ARTICULO 855 BIS. Se reconoce a los animales como seres sintientes, por lo tanto, son sujetos de consideración moral y trato digno.
+
+Toda persona tiene la obligación jurídica de respetar la vida de los animales y velar por su bienestar, según las necesidades y características biológicas de cada especie.
+
+La protección y el bienestar de los animales se regirá por lo que disponga la legislación y la normativa aplicable, así como por lo dispuesto en este Código, en todo aquello que sea pertinente y en la medida en que sea compatible con su naturaleza.
+
+Tratándose de los actos jurídicos que involucren a los animales, serán aplicables las reglas relativas a los bienes muebles o inmuebles, según corresponda, siempre que no se contravenga a su naturaleza como seres sintientes.
 
 ###### ARTICULO 856.
 
@@ -6889,13 +6903,17 @@ Es lícito a cualquiera persona apropiarse los enjambres que no hayan sido encer
 
 No se entiende que las abejas han abandonado la colmena cuando se han posado en predio propio del dueño, o éste las persigue llevándolas a la vista.
 
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2025)</small>
+
 ###### ARTICULO 873.
 
-Los animales feroces que se escaparen del encierro en que los tengan sus dueños, podrán ser destruídos o capturados por cualquiera. Pero los dueños pueden recuperarlos si indemnizan los daños y perjuicios que hubieren ocasionado.
+Los animales feroces que se escaparen del encierro en que los tengan sus dueños, podrán ser capturados por cualquiera. Pero los dueños pueden recuperarlos si indemnizan los daños y perjuicios que hubieren ocasionado.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 874.
 
-La apropiación de los animales domésticos se rige por las disposiciones contenidas en el Título de los bienes mostrencos.
+La apropiación de los animales domésticos se rige por lo establecido en la Ley de Protección y Bienestar de los Animales de la Ciudad de México y demás normativa aplicable, así como por las disposiciones contenidas en el Capítulo IV, Título Segundo del presente Código, referente a los bienes mostrencos en la medida en que sea compatible con su naturaleza.
 
 ### CAPITULO III. De los tesoros
 
@@ -15638,3 +15656,13 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL, EN MATERIA DE RECONOCIMIENTO DE LOS ANIMALES COMO SERES SINTIENTES".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación.
+
+TERCERO. Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
