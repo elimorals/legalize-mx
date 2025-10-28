@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2025-06-30"
+last_updated: "2025-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1465,17 +1465,25 @@ Las áreas administrativas promoverán el uso de materiales reutilizables o comp
 
 1. La Unidad de la Contraloría interna depende de la Junta de Gobierno y tiene a su cargo las tareas siguientes:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-a) De Auditoría Interna, y que comprende las de fiscalización y evaluación del ejercicio del presupuesto de egresos del Congreso; inspección y auditoría sobre el cumplimiento de normas y disposiciones en materia de contabilidad, contratación y pago de personal, obras y servicios, así como en lo relativo a adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes, activos y recursos materiales llevando un inventario actualizado; verificación del padrón de proveedores; supervisión de la integración y trámite de la cuenta pública; atención y seguimiento al plan de acciones correctivas inherentes a informes de auditoría o actividades de control, y supervisión del proceso de entrega recepción; y
+a) De Auditoría Interna, que comprende las de: fiscalización y evaluación del ejercicio del presupuesto de egresos del Congreso; inspección y auditoría sobre el cumplimiento de normas y disposiciones en materia de contabilidad, contratación y pago de personal, obras y servicios, así como en lo relativo a adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes, activos y recursos materiales llevando un inventario actualizado; verificación del padrón de proveedores; supervisión de la integración y trámite de la cuenta pública; atención y seguimiento al plan de acciones correctivas inherentes a informes de auditoría o actividades de control, y supervisión del proceso de entrega recepción;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-b) De Quejas y Responsabilidades, que comprende las de: atención de quejas y denuncias administrativas interpuestas en contra de servidores públicos del Congreso; orientación y capacitación en materia de obligaciones, responsabilidades públicas y mejor aprovechamiento de los recursos; formulación y supervisión de manuales de control interno; establecimiento de un software o sistema informativo para la recepción de quejas y denuncias; recepción y registro de declaraciones patrimoniales y las demás que le asigne la persona titular de la Unidad de la Contraloría.
+b) De Quejas y Responsabilidades, que comprende las de: atención de quejas y denuncias administrativas interpuestas en contra de servidores públicos del Congreso; orientación y capacitación en materia de obligaciones, responsabilidades públicas y mejor aprovechamiento de los recursos; formulación y supervisión de manuales de control interno; establecimiento de un software o sistema informativo para la recepción de quejas y denuncias; recepción y registro de declaraciones patrimoniales y las demás que le asigne la persona titular de la Unidad de la Contraloría; y
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+c) De autoridad garante, que comprende la de: garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y la protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o. de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la Ley General, la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, la presente Ley y demás disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 2. Para el mejor cumplimiento de sus atribuciones, la persona titular de la Unidad de la Contraloría podrá requerir a las personas servidoras públicas del Congreso información sobre sus respectivas áreas y estos deberán proporcionarla en forma inmediata.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+3. El Titular de la Unidad de Contraloría Interna del Congreso designará el Departamento para auxiliarse en la vigilancia y el cumplimiento de las obligaciones en materia de Transparencia que le competen al Poder Legislativo y tutelar los derechos de Acceso a la Información y Protección de Datos Personales.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -4356,6 +4364,14 @@ El presente Decreto se implementará en forma gradual, conforme a la disponibili
 P.O. 30 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-362 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 131, NUMERAL 1; Y 133, NUMERAL 1; Y SE DEROGA EL NUMERAL 10, CON SUS INCISOS DEL A) AL F) DEL ARTÍCULO 134, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial de (sic) Estado.
+
+P.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-477 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS A) Y B), Y SE ADICIONAN UN INCISO C) AL NUMERAL 1; Y UN NUMERAL 3 AL ARTÍCULO 66, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
