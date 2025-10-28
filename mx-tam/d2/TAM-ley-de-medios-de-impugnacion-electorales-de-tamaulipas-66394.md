@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-medios-de-impugnacion-electorales-de-tamaulipas-66394"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-29"
-last_updated: "2025-01-16"
+last_updated: "2025-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre de 2008.
 
@@ -60,6 +60,10 @@ I. Constitución: la Constitución Política del Estado de Tamaulipas;
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 II. Ley Electoral: La Ley Electoral del Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+II Bis. Ley de Medios. Ley de Medios de Impugnación Electorales de Tamaulipas;
 
 III. Instituto: el Instituto Electoral de Tamaulipas;
 
@@ -243,7 +247,9 @@ b) Los escritos deberán presentarse dentro de los plazos establecidos para la i
 
 c) Los escritos deberán ir acompañados del documento con el que se acredite su personería, en los términos de ésta Ley;
 
-d) Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en este Código, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación interpuesto o en el escrito presentado por su partido político; y
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+d) Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en esta Ley de Medios, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación interpuesto o en el escrito presentado por su partido político; y
 
 e) Los escritos deberán estar firmados autógrafamente.
 
@@ -299,9 +305,11 @@ V. Instrumental de actuaciones; y
 
 VI. La confesional y la testimonial también podrán ser ofrecidas y admitidas cuando versen sobre declaraciones que consten en acta levantada ante fedatario público que las haya recibido directamente de los declarantes, y siempre que estos últimos queden debidamente identificados y asienten la razón de su dicho.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 19.
 
-En casos extraordinarios, se podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre y cuando ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+En casos extraordinarios, se podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre y cuando ello no sea obstáculo para resolver dentro de los plazos establecidos en esta Ley de Medios.
 
 ###### Artículo 20.
 
@@ -419,7 +427,9 @@ II. La copia del documento en que conste el acto o resolución impugnado y la de
 
 III. En su caso, los escritos de los terceros interesados y coadyuvantes, las pruebas y la demás documentación que se haya acompañado a los mismos;
 
-IV. En los recursos de inconformidad, el expediente completo con todas las actas y las hojas de incidentes levantadas por la autoridad electoral, así como los escritos de incidentes y de protesta que se hubieren presentado, en los términos del Código y la presente Ley;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+IV. En los recursos de inconformidad, el expediente completo con todas las actas y las hojas de incidentes levantadas por la autoridad electoral, así como los escritos de incidentes y de protesta que se hubieren presentado, en los términos de la Ley Electoral y la presente Ley;
 
 V. Un informe circunstanciado que debe rendir la autoridad u órgano partidista responsable, mismo que por lo menos deberá contener:
 
@@ -523,7 +533,9 @@ II. Se procederá a discutir los asuntos y cuando el Presidente del Pleno los co
 
 III. Si el proyecto que se presenta es votado en contra por la mayoría del Pleno, a propuesta del Presidente, se designará a otro Magistrado para que, dentro de un plazo de hasta cuarenta y ocho horas, contadas a partir de que concluya la sesión respectiva, engrose el fallo con las consideraciones y razonamientos jurídicos correspondientes; y
 
-IV. En las sesiones públicas sólo podrán participar y hacer uso de la palabra los Magistrados electorales, directamente, a través de uno de sus secretarios o del Secretario General de Acuerdos. Este levantará el acta circunstanciada correspondiente.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+IV. En las sesiones públicas sólo podrán participar y hacer uso de la palabra las Magistradas y los Magistrados electorales, directamente, a través de una de sus secretarias o uno de sus secretarios o de la persona titular de la Secretaría General de Acuerdos, quien levantará el acta circunstanciada correspondiente.
 
 En casos extraordinarios el Pleno podrá diferir la resolución de un asunto listado.
 
@@ -783,9 +795,11 @@ Asimismo, durante el proceso electoral para la elección de las personas juzgado
 
 Cuando se impugne la elección de las personas juzgadoras, el respectivo recurso de inconformidad deberá presentarse por la persona candidata interesada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 67.
 
-Son actos impugnables a través del recurso de inconformidad, en los términos del Código y la presente Ley, los siguientes:
+Son actos impugnables a través del recurso de inconformidad, en los términos de la Ley Electoral y la presente Ley, los siguientes:
 
 I. Por nulidad de la votación recibida en una o varias casillas, los resultados consignados en las actas de cómputo distrital de la elección de Gobernador;
 
@@ -835,7 +849,9 @@ V. Cuando se presente ante el Consejo Distrital o Municipal que corresponda, se 
 
 VI. El nombre, la firma y cargo partidario, o el nombre y firma de la persona representante o candidata o candidato independiente o candidatura a un cargo del Poder Judicial electa por voto popular.
 
-El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital o Municipal correspondiente, antes de que se inicie la sesión de los cómputos, en los términos que señale el Código.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital o Municipal correspondiente, antes de que se inicie la sesión de los cómputos, en los términos que señale la Ley Electoral.
 
 De la presentación del escrito de protesta deberán acusar recibo o razonar de recibida una copia del respectivo escrito los funcionarios de la casilla o del Consejo Distrital o Municipal ante el que se presenten.
 
@@ -995,9 +1011,13 @@ I. Instalar la casilla, sin causa justificada, en lugar distinto al señalado po
 
 II. Recibir la votación en fecha distinta a la señalada para la celebración de la elección;
 
-III. Recibir la votación personas u órganos distintos a los facultados por el Código;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-IV. Permitir a ciudadanos sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo los casos de excepción señalados en el Código;
+III. Recibir la votación personas u órganos distintos a los facultados por la Ley Electoral;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+IV. Permitir a la ciudadanía sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo los casos de excepción señalados en la Ley Electoral;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
@@ -1025,7 +1045,9 @@ I. Las causas de nulidad a que se refiere el artículo anterior se declaren exis
 
 II. No se instale el 20% de las casillas en la demarcación correspondiente, y consecuentemente la votación no haya sido recibida;
 
-III. Los candidatos electos por mayoría, no reúnan los requisitos de elegibilidad a que se refiere el Código; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+III. Las y los candidatos electos por mayoría, no reúnan los requisitos de elegibilidad a que se refiere la Ley Electoral; y
 
 IV. Más de la mitad de los integrantes de una planilla electa de ayuntamientos, sean declarados inelegibles.
 
@@ -1117,75 +1139,103 @@ Cuenta con autonomía técnica y de gestión en su funcionamiento e independenci
 
 Emitirá sus resoluciones con plenitud de jurisdicción.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 88.
 
-El Tribunal Electoral realizará su función jurisdiccional en forma permanente a través de su Pleno, que estará integrado por cinco magistrados electorales, uno de quienes lo presidirá.
+El Tribunal Electoral realizará su función jurisdiccional en forma permanente a través de su Pleno, que estará integrado por cinco Magistradas y Magistrados electorales, una o uno de quienes lo presidirá.
 
-Los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-Los magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes aplicables.
+Las Magistradas y los Magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+Las Magistradas y los Magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 El Tribunal Electoral tendrá su sede en Ciudad Victoria.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 89.
 
-De conformidad con lo que establece el Artículo 107 de la Ley General de Instituciones y Procedimientos Electorales, durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional Estatal, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+De conformidad con lo que establece el artículo 107 de la Ley General de Instituciones y Procedimientos Electorales, durante el periodo de su encargo, las Magistradas y los Magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional estatal, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 90.
 
-Para la elección de los Magistrados electorales se estará a lo que disponen los artículos 108 y 109 de la Ley General de Instituciones y Procedimientos Electorales.
+Para la elección de las Magistradas y los Magistrados electorales se estará a lo que disponen los artículos 108 y 109 de la Ley General de Instituciones y Procedimientos Electorales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 Los requisitos para ser magistrado electoral estatal son los que prevé el artículo 115 de la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 91.
 
-El Congreso del Estado deberá fijar en el presupuesto anual las remuneraciones de magistrados electorales, en términos del artículo 127 de la Constitución, las cuales no podrán disminuirse durante el tiempo que dure su encargo, ni podrán ser menores a las que recibe un magistrado del Supremo Tribunal de Justicia del Estado.
+El Congreso del Estado deberá fijar en el presupuesto anual las remuneraciones de las Magistradas y Magistrados electorales, en términos del artículo 127 de la Constitución, las cuales no podrán disminuirse durante el tiempo que dure su encargo, ni podrán ser menores a las que recibe una Magistrada o un Magistrado del Supremo Tribunal de Justicia del Estado.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 92.
 
-En términos del artículo 117 de la Ley General de Instituciones y Procedimientos Electorales, serán causas de responsabilidad de los magistrados electorales las siguientes:
+En términos del artículo 117 de la Ley General de Instituciones y Procedimientos Electorales, serán causas de responsabilidad de las Magistradas y Magistrados electorales las siguientes:
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 I. Realizar conductas que atenten contra la independencia de la función jurídico-electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 II. Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 III. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 IV. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 V. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 VI. Dejar de desempeñar injustificadamente las funciones o las labores que tenga a su cargo;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 VII. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la demás legislación de la materia;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 VIII. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia, con motivo del ejercicio de sus atribuciones; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 IX. Las demás que determinen la Constitución y las leyes del Estado, o las leyes que resulten aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 93.
 
-Los magistrados electorales estatales gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
+Las Magistradas y Magistrados electorales estatales gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 94.
 
-En ningún caso los magistrados electorales podrán abstenerse de votar salvo cuando tengan impedimento legal.
+En ningún caso las Magistradas y Magistrados electorales podrán abstenerse de votar salvo cuando tengan impedimento legal.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -1265,17 +1315,17 @@ V. Aprobar anualmente el proyecto de presupuesto del Tribunal Electoral y propon
 
 VI. Expedir sus reglamentos y los acuerdos generales necesarios para su adecuado funcionamiento;
 
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-VII. Resolver sobre los conflictos concernientes a impedimentos presentados contra los magistrados;
+VII. Resolver sobre los conflictos concernientes a impedimentos presentados contra las Magistradas y Magistrados;
 
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 VIII. Fijar jurisprudencia en los términos de esta ley;
 
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-IX. Conceder licencias temporales a los magistrados electorales que lo integran;
+IX. Conceder licencias temporales a las Magistradas y Magistrados electorales que lo integran;
 
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -1297,9 +1347,9 @@ XIII. Calificar y resolver de inmediato, las excusas que para abstenerse del con
 
 XIV. Designar al funcionario que supla las ausencias temporales del Secretario General de Acuerdos, a propuesta del Presidente;
 
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-XV. Elegir, cada cuatro años, a su presidente por votación mayoritaria de los magistrados. La presidencia del Tribunal será rotatoria;
+XV. Elegir, cada cuatro años, a su Presidenta o Presidente por votación mayoritaria de las Magistradas y Magistrados. La presidencia del Tribunal será rotatoria;
 
 XVI. (DEROGADA, P.O. 2 DE JUNIO DE 2017)
 
@@ -1311,11 +1361,11 @@ XVII. Las demás que señalen las leyes.
 
 El Tribunal Electoral ejercerá sus atribuciones a través de su Pleno, salvo cuando éste o la ley las reserve a otro órgano o funcionario del Tribunal.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 98.
 
-Bastará la presencia de tres magistrados electorales para que pueda sesionar válidamente el Pleno; éste emitirá sus resoluciones y tomará sus decisiones por mayoría simple de sus integrantes. Las sesiones del Tribunal Electoral serán públicas.
+Bastará la presencia de tres Magistradas y Magistrados electorales para que pueda sesionar válidamente el Pleno; éste emitirá sus resoluciones y tomará sus decisiones por mayoría simple de sus integrantes. Las sesiones del Tribunal Electoral serán públicas.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -1329,51 +1379,83 @@ En caso de empate el Magistrado Presidente tendrá voto de calidad.
 
 Cuando un magistrado electoral disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que ésta sea firmada.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 101.
 
-Para el trámite de las solicitudes de licencia de los magistrados electorales o del Magistrado Presidente, será aplicable, en lo conducente, lo establecido para el caso de los integrantes de Pleno del Supremo Tribunal de Justicia del Estado. Los magistrados electorales o el Magistrado Presidente no podrán pedir licencia por más de dos meses; en proceso electoral no podrán pedir licencia por más de una semana.
+Para el trámite de las solicitudes de licencia de las Magistradas y Magistrados electorales o de la Magistrada Presidenta o Magistrado Presidente, será aplicable, en lo conducente, lo establecido para el caso de los integrantes del Pleno del Supremo Tribunal de Justicia del Estado. Las Magistradas y Magistrados electorales o la Magistrada Presidenta o Magistrado Presidente no podrán pedir licencia por más de dos meses; en proceso electoral no podrán pedir licencia por más de una semana.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-### CAPITULO II. Del Magistrado Presidente
+### CAPITULO II. De la Magistrada Presidenta o Magistrado Presidente
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 102.
 
-El Presidente del Tribunal Electoral de Tamaulipas será electo por votación mayoritaria de los magistrados en la primera sesión que celebren posterior a su designación por el Senado y durará en su encargo 4 años. La presidencia del Tribunal será rotatoria.
+La Presidenta o Presidente del Tribunal Electoral de Tamaulipas será electo por votación mayoritaria de las Magistradas y Magistrados en la primera sesión que celebren posterior a su designación por el Senado y durará en su encargo 4 años. La presidencia del Tribunal será rotatoria.
 
-El Presidente del Tribunal Electoral, tendrá las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE OCTUBRE DE 2025)</small>
+
+La Presidenta o Presidente del Tribunal Electoral, tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 I. Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieren para el buen funcionamiento del Tribunal;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 II. Presidirá el Pleno y la Comisión de Administración, Vigilancia y Disciplina;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 III. Coordinar y supervisar los trabajos y presidir las sesiones del Pleno; así como dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y la continuación de la sesión en privado;
 
-IV. Proponer a los magistrados, el nombramiento o remoción del Secretario General de Acuerdos y del Secretario Técnico del Pleno;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+IV. Proponer a las Magistradas y Magistrados, el nombramiento o remoción de las personas titulares de la Secretaria General de Acuerdos y de la Secretaria Técnica del Pleno;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 V. Vigilar que se cumplan, según corresponda, las determinaciones del Pleno;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 VI. Enviar el presupuesto anual del Tribunal Electoral al Ejecutivo del Estado, para que sea incluido en el Presupuesto anual de egresos del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 VII. Vigilar que el Tribunal Electoral cuente con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento y designar al personal administrativo;
 
-VIII. Convocar a sesiones públicas o reuniones internas de magistrados electorales y demás personal jurídico, técnico y administrativo del Tribunal Electoral;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+VIII. Convocar a sesiones públicas o reuniones internas de Magistradas y Magistrados electorales y demás personal jurídico, técnico y administrativo del Tribunal Electoral;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 IX. Despachar la correspondencia del Tribunal y del Pleno;
 
-X. Comunicar al Senado de la República las ausencias definitivas de los magistrados electorales para los efectos procedentes;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+X. Comunicar al Senado de la República las ausencias definitivas de las Magistradas y Magistrados electorales para los efectos procedentes;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 XI. Turnar a los integrantes del Pleno, según sea el caso, los expedientes para que formulen los proyectos de resolución;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 XII. Requerir o solicitar cualquier informe o documento que obre en poder del Instituto Electoral de Tamaulipas y exhortar a las autoridades federales, estatales o municipales, que aporten lo que pueda servir para la substanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en las leyes;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 XIII. Rendir un informe público al término de cada proceso electoral, respecto de las actividades del Tribunal;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 XIV. Vigilar que se cumplan las disposiciones reglamentarias; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 XV. Las demás que sean necesarias para el buen funcionamiento del Tribunal Electoral.
 
@@ -1383,35 +1465,55 @@ XV. Las demás que sean necesarias para el buen funcionamiento del Tribunal Elec
 
 Las ausencias del Presidente serán suplidas, si no exceden de dos meses, por el magistrado electoral de mayor antigüedad o, en su caso, de mayor edad.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-### CAPITULO III. De los Magistrados Electorales y sus Ponencias
+### CAPITULO III. De las Magistradas y Magistrados Electorales y sus Ponencias
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 104.
 
-Son atribuciones de los magistrados integrantes del Pleno, las siguientes:
+Son atribuciones de las Magistradas y Magistrados integrantes del Pleno, las siguientes:
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 I. Integrar el Pleno para resolver colegiadamente los asuntos de su competencia;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 II. Formular los proyectos de resolución que recaigan a los expedientes que les sean turnados para tal efecto;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 III. Exponer en sesión pública, personalmente, por conducto de un Secretario de Estudio y Cuenta o del Secretario General de Acuerdos, sus proyectos de sentencia, señalando las consideraciones jurídicas y los preceptos en que se funden;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 IV. Discutir y votar los proyectos de sentencia que sean sometidos a su consideración en las sesiones públicas;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 V. Realizar los engroses de los fallos aprobados por el Pleno, cuando sean designados para tales efectos;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 VI. Admitir los medios de impugnación y los escritos de terceros interesados o coadyuvantes, en los términos que señale la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 VII. Someter a consideración del Pleno, cuando proceda, la acumulación de las impugnaciones así como la procedencia de la conexidad, en los términos de las leyes aplicables;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 VIII. Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable, y requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral de Tamaulipas, de las autoridades federales, estatales o municipales, de los partidos políticos o de particulares, pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 IX. Las demás que les señalen las leyes o reglamentos respectivos.
 
-Los magistrados tendrán obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+Las Magistradas y Magistrados tendrán obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -1471,29 +1573,29 @@ IV. No ser o haber sido dirigente nacional, estatal o municipal de algún partid
 
 El Secretario General percibirá la remuneración prevista en el presupuesto de egresos y tendrá la obligación de guardar absoluta reserva sobre los asuntos del Tribunal Electoral.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 108.
 
-El Secretario técnico del Pleno se encontrará adscrito a la Presidencia del Tribunal y sus funciones, bajo la dirección del magistrado Presidente, serán las siguientes:
+La persona titular de la Secretaría técnica del Pleno se encontrará adscrita a la Presidencia del Tribunal y sus funciones, bajo la dirección de la Magistrada Presidenta o Magistrado Presidente, serán las siguientes:
 
-I. Apoyar al Presidente en las tareas que le encomiende;
+I. Apoyar a la Presidenta o al Presidente en las tareas que le encomiende;
 
-II. Apoyar al Secretario General de Acuerdos en la preparación documental de las sesiones públicas y en la integración de los engroses de las sentencias, así como los votos particulares de los Magistrados;
+II. Apoyar a la persona titular de la Secretaría General de Acuerdos en la preparación documental de las sesiones públicas y en la integración de los engroses de las sentencias, así como los votos particulares de las Magistradas y los Magistrados;
 
-III. Compilar y sistematizar los precedentes, para, en su caso, notificar al Secretario General de Acuerdos, para que este informe al Pleno cuando se reiteren sentidos o criterios jurisdiccionales; y
+III. Compilar y sistematizar los precedentes, para, en su caso, notificar a la persona titular de la Secretaría General de Acuerdos, para que este informe al Pleno cuando se reiteren sentidos o criterios jurisdiccionales; y
 
-IV. Las demás atribuciones que le otorguen el Pleno y su Presidente.
+IV. Las demás atribuciones que le otorguen el Pleno y su Presidenta o Presidente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
 ### CAPITULO V. De la Comisión de Administración, Vigilancia y Disciplina
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 109.
 
-La administración, vigilancia y disciplina del Tribunal Electoral estarán a cargo de una Comisión integrada por el Presidente y dos magistrados, así como el coordinador o director administrativo del Tribunal.
+La administración, vigilancia y disciplina del Tribunal Electoral estarán a cargo de una Comisión integrada por la Presidenta o Presidente y dos Magistradas o Magistrados, así como el coordinador o director administrativo del Tribunal.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -1708,3 +1810,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-480 MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
