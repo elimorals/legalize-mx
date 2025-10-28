@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-consejo-economico-social-y-ambiental-de-la-137
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-25"
-last_updated: "2025-10-24"
+last_updated: "2025-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-19"
 
 LEY ORGÁNICA DEL CONSEJO, ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número 142 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 25 de julio de 2019.
 
@@ -172,11 +172,13 @@ XII. Las demás análogas al cumplimiento de su objeto.
 
 ### CAPÍTULO II. Integración
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 6°.
 
-El Consejo se integra por personas Consejeras representantes de organizaciones: de la sociedad civil, empresariales, de trabajadores, de profesionistas, de instituciones académicas, de las Alcaldías así como diversas autoridades en la Ciudad de México, en calidad de invitados permanentes según como se indica a continuación:
+El Consejo se integra por personas Consejeras representantes de organizaciones: de la sociedad civil, empresariales, de trabajadores, de profesionistas, de instituciones académicas, de las Alcaldías, de la comunidad de capitalinos residentes en el extranjero, así como diversas autoridades en la Ciudad de México, en calidad de invitados permanentes según se indica a continuación:
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2021)</small>
 
 A. Personas Consejeras.
 
@@ -188,11 +190,21 @@ III. 6 representantes de organizaciones de trabajadores;
 
 IV. 6 representantes de organizaciones de profesionistas;
 
-V. 6 representantes de instituciones académicas; y
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2025)</small>
 
-VI. La persona Titular de cada Alcaldía de la Ciudad de México.
+V. 6 representantes de instituciones académicas;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2025)</small>
+
+VI. La persona Titular de cada Alcaldía de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2025)</small>
+
+VII. 1 representante de la comunidad de capitalinos residentes en el extranjero.
 
 Se procurará en su integración la paridad de género. Contarán con derecho a voz y voto en las sesiones de la Asamblea General del Consejo
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2021)</small>
 
 B. Personas Invitadas Permanentes.
 
@@ -803,3 +815,15 @@ G.O. 24 DE OCTUBRE DE 2025.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UNA FRACCIÓN VII AL APARTADO A DEL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL CONSEJO ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, el Consejo contará con un plazo de noventa días hábiles para emitir una convocatoria pública mediante la cual se elija a la persona representante de la comunidad de capitalinos residentes en el extranjero como consejera integrante. La convocatoria deberá establecer los requisitos de elegibilidad y el procedimiento deliberativo correspondiente.
+
+CUARTO. Para garantizar la continuidad de la representación de la comunidad de capitalinos residentes en el extranjero, el Consejo, dentro de los noventa días hábiles siguientes a la incorporación de la persona consejera referida en el artículo transitorio anterior, establecerá en su Reglamento el procedimiento aplicable para las designaciones subsecuentes derivadas de esta reforma.
