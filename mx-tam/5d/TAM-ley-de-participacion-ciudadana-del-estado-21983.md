@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-participacion-ciudadana-del-estado-21983"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-06"
-last_updated: "2015-06-13"
+last_updated: "2025-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de junio de 2001.
 
@@ -91,9 +91,9 @@ VII.- Difusión Pública;
 
 VIII.- Audiencia Pública;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
 
-IX.- Recorridos de los Presidentes Municipales; y
+IX.- Recorridos de las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías; y
 
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -547,31 +547,43 @@ III.- Si es competencia de unidades centrales o entidades paraestatales de la ad
 
 Cuando la naturaleza del asunto lo permita, el Presidente Municipal instrumentará lo necesario para la resolución inmediata del asunto planteado, designando para el efecto al servidor público responsable de su ejecución. De ser necesaria, la realización de subsecuentes reuniones entre la autoridad y la comunidad, informará del o de los responsables por parte del Municipio que acudirán a las mismas. Tratándose de asuntos que sean competencia de la administración pública del Estado o de la administración pública Federal, el Presidente Municipal tomará las medidas tendientes a relacionar a los vecinos con estas autoridades.
 
-### CAPITULO IX. DE LOS RECORRIDOS DE LOS PRESIDENTES MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2025)</small>
+
+### CAPITULO IX. DE LOS RECORRIDOS DE LAS PERSONAS TITULARES DE LAS PRESIDENCIAS MUNICIPALES, SINDICATURAS Y REGIDURIAS
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 70.
 
-Los Presidentes Municipales, para el mejor desempeño de sus atribuciones, deberán realizar recorridos periódicos dentro del Municipio, a fin de verificar la forma y las condiciones en que se presten los servicios públicos, así como el estado en que se encuentren los sitios, obras e instalaciones en que la comunidad tenga interés.
+Las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías para el mejor desempeño de sus atribuciones, deberán realizar recorridos periódicos dentro del Municipio, a fin de verificar la forma y las condiciones en que se presten los servicios públicos, así como el estado en que se encuentren los sitios, obras e instalaciones en que la comunidad tenga interés.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 71.
 
-Podrán solicitar al Presidente Municipal la realización de recorridos:
+Podrán solicitar a las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías la realización de recorridos:
 
 I.- Los representantes de los sectores que concurran en el Municipio en el desarrollo de actividades industriales, comerciales o de prestación de servicios; y
 
 II.- Los Diputados al Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+
 ###### ARTICULO 72.
 
-En toda solicitud de recorridos del Presidente Municipal, se deberá hacer mención del lugar o lugares que podrán ser visitados. La respuesta a las solicitudes de recorridos deberán de realizarse por escrito.
+En toda solicitud de recorridos de las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías, se deberá hacer mención del lugar o lugares que podrán ser visitados. La respuesta a las solicitudes de recorridos deberán (sic) de realizarse por escrito.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 73.
 
-En los recorridos que se realicen, los habitantes podrán exponer al Presidente Municipal, en forma verbal o escrita, la forma y condiciones en que a su juicio se prestan los servicios públicos y el estado que guardan los sitios, obras e instalaciones del lugar de que se trate y podrán plantear alternativas de solución.
+En los recorridos que se realicen, los habitantes podrán exponer a las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías, en forma verbal o escrita, la forma y condiciones en que a su juicio se prestan los servicios públicos y el estado que guardan los sitios, obras e instalaciones del lugar de que se trate y podrán plantear alternativas de solución.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
 ###### ARTICULO 74.
 
-Las medidas que acuerde el Presidente Municipal, como resultado de la verificación realizada en el recorrido, serán llevadas a cabo por el responsable que señale el propio titular, mismas que se harán del conocimiento de los habitantes del lugar en que se llevó a cabo el recorrido.
+Las medidas que acuerden las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías, como resultado de la verificación realizada en el recorrido, serán llevadas a cabo por el responsable que señale el propio titular, mismas que se harán del conocimiento de los habitantes del lugar en que se llevó a cabo el recorrido.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -892,3 +904,11 @@ Lo no previsto en el presente Decreto, se sujetará a las disposiciones establec
 ###### ARTÍCULO TERCERO.
 
 El órgano estatal electoral deberá considerar en su presupuesto de egresos correspondiente la previsión inherente a la realización de la consulta pública cuando ésta (sic) sea aprobado por el Congreso del Estado.
+
+P.O. 28 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-478 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN IX; 70, 71, PRIMER PÁRRAFO; 72, 73 Y 74, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO IX DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
