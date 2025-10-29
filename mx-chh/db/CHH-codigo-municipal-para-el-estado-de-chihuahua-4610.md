@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2025-07-05"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -964,6 +964,10 @@ XLVI.- Implementar la política municipal para la igualdad entre mujeres y hombr
 > <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 XLVII.- Implementar, formular y aplicar la política municipal orientada a prevenir, atender, sancionar y erradicar la violencia contra las mujeres, niñas, niños y adolescentes;
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Para tal efecto, podrán apoyarse del uso de las Tecnologías de la Información y Comunicación;
 
 > <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -5934,6 +5938,14 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 P.O. 5 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVIII/RFCOD/0242/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVIII/RFCOD/0280/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 28, FRACCIÓN XLVII, UN SEGUNDO PÁRRAFO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
