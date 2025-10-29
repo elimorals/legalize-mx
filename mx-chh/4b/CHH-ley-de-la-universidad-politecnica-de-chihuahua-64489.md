@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-universidad-politecnica-de-chihuahua-64489"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-05"
-last_updated: "2016-10-03"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE LA UNIVERSIDAD POLITECNICA DE CHIHUAHUA
 
-LEY DE LA UNIVERSIDAD POLITECNICA DE CHIHUAHUA
+LEY DE LA UNIVERSIDAD POLITÉCNICA DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 5 de noviembre de 2008.
 
@@ -139,15 +139,23 @@ III. Los directores de Programa Académico.
 
 Son instancias de apoyo de la Universidad Politécnica de Chihuahua, los siguientes:
 
-l. El Secretario Académico;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-II. El Secretario Administrativo;
+I. La persona titular de la Secretaría Académica;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+II. La persona titular de la Secretaría Administrativa;
 
 III. El Consejo Consultivo;
 
-IV. El Comisario Público, y
+IV. (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
 
 V. Los demás que apruebe la Junta Directiva, a propuesta del Consejo de Calidad, y se señalen en el Estatuto Orgánico.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Además, el Organismo contará con un Órgano Interno de Control, mismo que se regirá conforme a lo dispuesto por el Título Quinto de esta Ley.
 
 ### CAPÍTULO II. De la Junta Directiva
 
@@ -195,9 +203,11 @@ El Rector de la Universidad Politécnica de Chihuahua será el Coordinador Gener
 
 El Rector no formará parte, por ningún motivo, de la Junta Directiva, pero podrá asistir a las sesiones respectivas con derecho a voz, mas no a voto.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 15.
 
-La Junta Directiva celebrará sesiones ordinarias cada dos meses, las que serán convocadas por su Presidente. Las sesiones extraordinarias se podrán convocar en cualquier tiempo por el Presidente o a solicitud escrita de por lo menos la tercera parte de los integrantes.
+La Junta Directiva celebrará sesiones ordinarias con la periodicidad contemplada en la Ley de Entidades Paraestatales del Estado de Chihuahua, las que serán convocadas por la persona que ocupe la Presidencia. Las sesiones extraordinarias se podrán convocar en cualquier tiempo por la persona que ocupe la Presidencia, o a solicitud escrita de por lo menos la tercera parte de sus integrantes.
 
 ###### ARTÍCULO 16.
 
@@ -473,21 +483,25 @@ Serán alumnos de la Universidad quienes cumplan con los procedimientos y requis
 
 Las agrupaciones de alumnos de la Universidad Politécnica de Chihuahua se organizarán en la forma que ellos determinen y se mantendrán independientes de grupos políticos, religiosos, sindicales, así como de las propias autoridades universitarias.
 
-## TÍTULO QUINTO. DEL ÓRGANO DE VIGILANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-### CAPÍTULO ÚNICO. Del Comisario Público
+## TÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO ÚNICO. Del Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 47.
 
-La Universidad Politécnica de Chihuahua contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el Titular de a (sic) la Secretaría de la Función Pública del Estado.
+Al frente del Órgano Interno de Control se encuentra una persona titular, quien será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública y quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las áreas de auditoría interna, de desarrollo y de mejora de la gestión, de denuncias e investigaciones y de responsabilidades, quienes serán designadas en los mismos términos.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de su respectiva competencia, las facultades previstas en la Ley General de Responsabilidades Administrativas u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con las mismas correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### ARTÍCULO 48.
 
-Las facultades y obligaciones del Comisario Público serán las previstas en las Leyes aplicables respecto a la Secretaría de la Función Pública del Estado.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
 ###### ARTÍCULO 49.
 
@@ -610,3 +624,15 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVIII/RFLEY/0271/2025 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
