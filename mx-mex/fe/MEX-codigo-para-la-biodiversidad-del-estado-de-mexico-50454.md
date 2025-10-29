@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2025-09-30"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE OCTUBRE DE 2025.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -326,6 +326,10 @@ III. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por
 IV. Aprovechamiento sostenible o sustentable: La utilización de los elementos y recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte por periodos indefinidos;
 
 V. Areas naturales protegidas: Las zonas del territorio del Estado de México respecto de las cuales ejerza su jurisdicción y en las que los ambientes originales no han sido significativamente alterados por la actividad humana y que requieran ser restaurados o preservados para salvaguardar la diversidad genética de las especies silvestres, lograr el aprovechamiento racional de los elementos y recursos naturales mejorando la calidad del ambiente en los centros de población y sus alrededores, quedando sujetas a cualquiera de los regímenes de protección previstos por el presente Libro;
+
+> <small>(ADICIONADA, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+V Bis. Autorregulación: Al proceso voluntario mediante el cual, respetando la legislación y normatividad vigente que le aplique, la organización, establecimiento o instalación, pública o privada, en la cual se realizan actividades industriales, comerciales, de servicios o aprovechamiento de recursos naturales establece un conjunto de actividades y se adoptan normas complementarias o más estrictas, a través de las cuales se mejora el desempeño ambiental y se obtienen mayores logros en materia de protección ambiental, cuya evaluación podrá efectuarse a través de la Auditoría Ambiental;
 
 VI. Auditoria ambiental: Proceso mediante el cual se verifica, analiza y evalúa la adecuación y aplicación de las medidas adoptadas por la persona física o jurídica colectiva auditada para reducir los riesgos y controlar la contaminación ambiental;
 
@@ -2745,17 +2749,85 @@ XII. Mantener en vigor, la fianza correspondiente durante la vigencia de la auto
 
 Tendrán prioridad para acceder a dicho fondo los proyectos productivos presentados por los sectores público, privado y social enfocados a las áreas naturales protegidas y forestales, así como a la construcción de centros ecoturísticos, a la preservación, cuidado, vigilancia y reforestación de los bosques y que beneficien directamente a la población del municipio en el cual se pretenda desarrollar el proyecto.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE OCTUBRE DE 2025)</small>
+
 ## TITULO SEPTIMO
 
-DE LA AUTORREGULACION, AUDITORIAS AMBIENTALES, INSPECCION Y VIGILANCIA, MEDIDAS DE SEGURIDAD, INFRACCIONES, PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS DE REVISION
+DE LA AUTORREGULACION, AUDITORIAS AMBIENTALES, CERTIFICACION, INSPECCION Y VIGILANCIA, MEDIDAS DE SEGURIDAD, INFRACCIONES, PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS DE REVISION
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.G. 29 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 2.
 
-229. Las disposiciones de este Libro, se aplicarán en la realización de actos de inspección, vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas, de comisión de delitos, sanciones, procedimientos, recursos administrativos; cuando se trate de asuntos de competencia del Estado y de los Municipios regulados por el presente Código, sin perjuicio de lo establecido de manera específica en los Libros que lo conforman. En las materias anteriormente señaladas se aplicarán supletoriamente las disposiciones del Código de Procedimientos Administrativos del Estado de México y Ley de Infraestructura de la Calidad. Tratándose de materias referidas en este Libro que se encuentran reguladas por los otros Libros que conforman el Código, éste será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
+229. Las disposiciones de este Libro, se aplicarán en materia de autorregulación, auditoría ambiental y procuración de justicia ambiental en el Estado de México.
+
+En las materias anteriormente señaladas se aplicarán supletoriamente las disposiciones del Código de Procedimientos Administrativos del Estado de México. Tratándose de materias referidas en este Libro que se encuentran reguladas por los otros Libros que conforman el Código, este será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 2.
+
+229 Bis. La autorregulación y las auditorías ambientales tienen como objetivo que los procesos productivos y de generación de servicios de las unidades económicas, así como las dependencias, entidades e instituciones de los sectores público, privado y social con incidencia ambiental, sean sustentables, eficientes y amigables con el medio ambiente, respetando la legislación y normatividad vigente que le aplique, se adopten normas complementarias o más estrictas, mediante la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, para lo cual observarán los principios de política ambiental contenidos en este Código y en la Ley General.
+
+Para ello, la Secretaría, por sí o a través de la Procuraduría, promoverá e incentivará la ejecución de estos instrumentos, mediante la entrega de un Certificado Verde, a quienes de forma voluntaria y a través de la Auditoría Ambiental asuman y den cumplimiento a compromisos adicionales a los requerimientos ambientales legales y normativos a los que están obligados.
+
+La autorregulación y las auditorías ambientales atenderán a las definiciones previstas en el presente Código y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 2.
+
+229 Ter. Las unidades económicas, instituciones del sector público, privado, social, así como municipios, podrán solicitar por escrito su incorporación al programa de auditoría ambiental y establecer su compromiso de desarrollar procesos voluntarios de autorregulación y auditoría ambiental, en observancia de la legislación y normatividad aplicables, comprometiéndose a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 2.
+
+229 Quater. La Secretaría, por conducto de la Procuraduría, desarrollará y ejecutará un Programa de Auditoría Ambiental y Autorregulación, con el objetivo de evaluar, supervisar y promover el cumplimiento de la normatividad ambiental de las unidades económicas con actividades con incidencia ambiental en la entidad.
+
+El Programa deberá incluir, al menos, los siguientes elementos:
+
+I. Diagnóstico inicial con impactos ambientales relevantes;
+
+II. Criterios técnicos y normativos para la evaluación del desempeño ambiental, con base en la legislación ambiental vigente, normas oficiales mexicanas y estándares en la materia;
+
+III. Metodología de auditoría, que contemple procedimientos de inspección, revisión documental, entrevistas, verificación de cumplimiento y análisis de riesgos;
+
+IV. Determinación de indicadores de desempeño ambiental, tales como eficiencia en el uso de recursos, reducción de emisiones, manejo adecuado de residuos, cumplimiento regulatorio y acciones de mejora continua;
+
+V. Emisión de informes de auditoría, con resultados claros, recomendaciones obligatorias y plazos definidos para su cumplimiento; y
+
+VI. Mecanismos de seguimiento y verificación del cumplimiento de las recomendaciones emitidas.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 2.
+
+229 Quinquies. La Secretaría, en el ámbito de su competencia, por sí o a través de la Procuraduría:
+
+I. Concertará el desarrollo de procesos productivos y la generación de servicios adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con organizaciones empresariales e instituciones públicas, privadas y sociales;
+
+II. Promoverá el cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental, que sean más estrictas que las normas oficiales mexicanas o las normas técnicas estatales ambientales, las cuales podrán ser objeto de convenio en cuanto a sus alcances;
+
+III. Determinará el establecimiento de sistemas de certificación de procesos, productos y servicios, para inducir patrones de consumo que sean compatibles o que preserven, mejoren, conserven o restauren el medio ambiente, debiendo observar, en su caso, las disposiciones jurídicas aplicables; y
+
+IV. Ejecutará las demás acciones que induzcan a las empresas, organizaciones o instituciones de los sectores público, privado y social a alcanzar los objetivos de la política ambiental, superiores a lo previsto en la normatividad ambiental establecida.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 2.
+
+229 Sexies. Los responsables del funcionamiento de una unidad económica, organización o institución de los sectores público, privado y social, podrán, en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental, de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 2.
+
+229 Septies. La Procuraduría verificará, en cualquier momento, el cumplimiento de las disposiciones del presente ordenamiento en aquellas empresas, organizaciones o instituciones de los sectores público, privado y social, que se encuentren desarrollando una auditoría ambiental con fines de obtener o renovar el Certificado Verde.
+
+### CAPITULO II. DE LA INSPECCION Y VIGILANCIA
 
 ###### Artículo 2.
 
@@ -2781,8 +2853,6 @@ DE LA AUTORREGULACION, AUDITORIAS AMBIENTALES, INSPECCION Y VIGILANCIA, MEDIDAS 
 
 235. La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
-### CAPITULO II. DE LA INSPECCION Y VIGILANCIA
-
 ###### Artículo 2.
 
 236. Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo para que adopte de inmediato las medidas correctivas o de urgente aplicación que resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas señalando el plazo que corresponda para su cumplimiento, fundando y motivando el requerimiento; asimismo deberá señalarse al interesado que cuenta con un término de quince días hábiles para que exponga lo que a su derecho convenga, y en su caso aporte las pruebas que considere procedentes con relación a la actuación de la Secretaría o del Ayuntamiento correspondiente.
@@ -2796,6 +2866,8 @@ Admitidas y desahogadas las pruebas ofrecidas por el interesado o habiendo trans
 ###### Artículo 2.
 
 238. En la resolución administrativa correspondiente, se señalarán o se adicionarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables. Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo. Cuando se trate de segunda o posterior inspección para verificar el cumplimiento del requerimiento o requerimientos anteriores y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al presente Código, una sanción adicional que no exceda de los límites máximos señalados en el precepto aplicable. En los casos en que el infractor realice las medidas correctivas, de urgente aplicación, subsane las irregularidades detectadas en los plazos ordenados por la Secretaría o por el Municipio siempre y cuando el infractor no sea reincidente y no se trate de alguno de los supuestos previstos para imponer medidas de seguridad, éstas podrán revocar o modificar la sanción o sanciones impuestas. En los casos en que proceda la autoridad hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
+
+### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 2.
 
@@ -2836,8 +2908,6 @@ Dicho personal al realizar las visitas de inspección, deberá estar provisto de
 244. El personal autorizado al iniciar la inspección, se identificará debidamente con la persona que entienda la diligencia, exhibirá la orden respectiva y le entregará copia de la misma, con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
 
 En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, debiendo constar esta situación en el acta administrativa que se levante sin que esta circunstancia pueda invalidar los efectos de la inspección.
-
-### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 2.
 
@@ -2880,6 +2950,10 @@ En los casos en que proceda, la autoridad correspondiente hará del conocimiento
 251. Cuando se presenten emergencias ecológicas o contingencias ambientales que no rebasen el territorio del Estado y no requieran de la acción exclusiva de la Federación o en casos de contaminación con repercusiones peligrosas para la biodiversidad, los ecosistemas y sus componentes, la salud pública, el titular del Poder Ejecutivo a través de la Secretaría y los Ayuntamientos podrán ordenar como medida de seguridad la retención de sustancias o materiales contaminantes, la clausura temporal, parcial o total de las fuentes contaminantes y promoverán ante las autoridades competentes en los términos de las disposiciones aplicables, la ejecución de las medidas de seguridad que se establezcan para tal efecto.
 
 Cuando los ordenamientos a que se refiere el párrafo anterior, no incluyan medidas de seguridad para hacer frente a los riesgos de desequilibrio ecológico, la Secretaría o los Ayuntamientos previa opinión de las autoridades competentes, emitirán las disposiciones conducentes.
+
+### CAPITULO IV. DE LAS INFRACCIONES Y SANCIONES
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 2.
 
@@ -2999,10 +3073,6 @@ III. Donación a organismos públicos e instituciones científicas o de enseñan
 
 IV. Destrucción, cuando se trate de productos o subproductos de flora y fauna silvestre y de productos forestales plagados o que tengan alguna enfermedad que impida su aprovechamiento, y de artes de pesca y caza prohibidos por las disposiciones jurídicas aplicables.
 
-### CAPITULO IV. DE LAS INFRACCIONES Y SANCIONES
-
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
-
 ###### Artículo 2.
 
 258. Para efectos de lo previsto en las fracciones I y II del artículo anterior únicamente serán procedentes dichos supuestos cuando los bienes incautados sean susceptibles de apropiación conforme a las disposiciones jurídicas aplicables. En la determinación del valor de los bienes sujetos a remate o venta la Secretaría considerará el precio que respecto de dichos bienes corra en el mercado o bien determine un perito valuador calificado al momento de realizarse la operación.
@@ -3016,6 +3086,8 @@ En ningún caso los responsables de la infracción que hubiera dado lugar a la i
 ###### Artículo 2.
 
 260. La Secretaría competente o los Ayuntamientos intervendrán ante quien suministre servicios públicos, tales como energía eléctrica, agua u otros que requieran para su funcionamiento los establecimientos que no satisfagan las disposiciones que les impone este Código y sus Reglamentos, previamente o durante su funcionamiento cuando se detecte alguna irregularidad o incumplimiento, sin menoscabo de la imposición de las sanciones a que haya lugar, y solicitarán la clausura definitiva o temporal según sea la gravedad de las infracciones en que incurran.
+
+#### SECCION SEGUNDA. DE LAS REGLAS PARA LA IMPOSICION DE SANCIONES
 
 ###### Artículo 2.
 
@@ -3208,8 +3280,6 @@ VIII. Vierta al sistema de drenaje y alcantarillado, aguas residuales sin tratam
 IX. Arroje basura, ácidos, combustibles o cualquier producto contaminante en los cuerpos de agua estatal o en sistemas de drenaje y alcantarillado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-#### SECCION SEGUNDA. DE LAS REGLAS PARA LA IMPOSICION DE SANCIONES
 
 ###### Artículo 2.
 
@@ -3441,6 +3511,8 @@ VIII. Omita la instalación de sistemas o plantas de tratamiento de aguas residu
 
 289. Se deberá de realizar la reparación del daño causado al ambiente previo dictamen técnico emitido por la autoridad correspondiente, independientemente del derecho de toda persona para demandar ante los tribunales competentes la reparación del daño a la salud o a su patrimonio.
 
+### CAPITULO V. DE LA DENUNCIA CIUDADANA
+
 ###### Artículo 2.
 
 290. Es derecho de toda persona u organización social denunciar de manera pacífica y respetuosa ante la Secretaría, ante la autoridad estatal, municipal o Ministerio Público competente los hechos, actos u omisiones que puedan producir desequilibrio ecológico, daños al ambiente y a la biodiversidad o alteraciones en la salud o calidad de vida de la población en cualquiera de las formas contempladas en este Libro.
@@ -3487,8 +3559,6 @@ Si la denuncia fuera presentada ante diversas autoridades estatales o ante la au
 
 En los procedimientos administrativos derivados de una denuncia ciudadana se aplicarán en lo conducente las disposiciones del Código de Procedimientos Administrativos del Estado de México y los reglamentos respectivos.
 
-### CAPITULO V. DE LA DENUNCIA CIUDADANA
-
 ###### Articulo 2.
 
 296. La autoridad ante la que se presente la denuncia ciudadana o a la que se haya remitido ésta, una vez recibida la misma se le notificará al denunciante dentro de los diez días hábiles siguientes a la fecha en que efectivamente la haya recibido si es competente para conocer de la denuncia y en su caso, si es procedente o requiere aclaración.
@@ -3519,6 +3589,8 @@ La autoridad deberá en todo caso, cuando la denuncia no sea de su competencia p
 
 300. A quien promueva una denuncia ciudadana basada en hechos falsos o con el ánimo de causar molestias o daños al presunto infractor y que de la resolución se desprenda dicha intención se le impondrá el pago de multa hasta por diez mil veces el valor diario de la Unidad de Medida y Actualización vigente, sin perjuicio de las sanciones de carácter penal que se le puedan imponer y acciones que para la reparación de los daños y perjuicios que se le hubieren causado al denunciado y que éste haga valer ante las instancias correspondientes.
 
+### CAPITULO VI. DEL RECURSO DE INCONFORMIDAD
+
 ###### Articulo 2.
 
 301. Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación del presente Código, sus reglamentos y disposiciones que de éste emanen podrán ser impugnadas en los términos establecidos por el Código de Procedimientos Administrativos del Estado de México y demás disposiciones aplicables.
@@ -3541,13 +3613,15 @@ La autoridad deberá en todo caso, cuando la denuncia no sea de su competencia p
 
 305. Los Bandos de Policía y Buen Gobierno y la reglamentación de los Ayuntamientos establecerán las sanciones administrativas por violaciones en materia ambiental del orden municipal.
 
+## TITULO OCTAVO. DEL FONDO PARA LA RESTAURACION Y PRESERVACION DE LA BIODIVERSIDAD Y DEL FONDO PARA LA REPARACION DEL DETERIORO AMBIENTAL
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
 ###### Artículo 2.
 
 306. Una vez fijada la cantidad a título de indemnización por deterioro ambiental, si fuese imposible la reparación en especie se destinará la cantidad correspondiente al Fondo para la Restauración y Preservación de la Biodiversidad. A consideración del juzgador la valoración económica de la cantidad a pagar por concepto de indemnización podrá realizarse por conducto de la Secretaría, la Procuraduría de Protección al Ambiente del Estado de México, peritos calificados en la materia e instituciones de educación superior o de investigación científica.
 
 El Fondo para la Restauración y Preservación de la Biodiversidad a que se hace referencia en el presente artículo será administrado por la Secretaría a través del fideicomiso que deberá crearse para el efecto. Esta dependencia, previa opinión técnica que emita el Consejo Consultivo de Protección a la Biodiversidad y Desarrollo Sostenible del Estado de México, deberá presentar un informe anual por escrito a la Legislatura del Estado en el que establezca de manera detallada el destino de los recursos que recaude a través del citado Fondo con motivo de las sentencias que se dicten, con el objeto de que la Legislatura del Estado apruebe y sancione el destino de los recursos del mencionado Fondo.
-
-### CAPITULO VI. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 2.
 
@@ -3568,6 +3642,8 @@ Ante la inminencia de que ocurra un deterioro ambiental que ponga en riesgo la s
 La Legislatura del Estado podrá a efecto de reparar en especie el deterioro ambiental que por la magnitud y el riesgo que éste represente autorizar una cantidad extraordinaria complementaria al Fondo.
 
 Anualmente se incorporarán del Presupuesto de Egresos del Estado de México recursos al Fondo para la Reparación del Deterioro Ambiental. El Fondo también podrá conformarse de los impuestos que se establezcan para las industrias que se asienten en dicho presupuesto, así como de donativos particulares.
+
+### CAPITULO II. DE LA GARANTIA FINANCIERA
 
 ###### Artículo 2.
 
@@ -3591,15 +3667,9 @@ La resolución de la Secretaría sólo se referirá a los aspecto (sic) ambienta
 
 De igual forma la Secretaría podrá negar la evaluación para efectuar las citadas actividades cuando considere que el desempeño de las mismas será de franca e irremediable afectación ecológica que dañe a la biodiversidad.
 
-## TITULO OCTAVO. DEL FONDO PARA LA RESTAURACION Y PRESERVACION DE LA BIODIVERSIDAD Y DEL FONDO PARA LA REPARACION DEL DETERIORO AMBIENTAL
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
 ###### Artículo 2.
 
 312. Es responsabilidad de las dependencias y entidades de la administración pública estatal y los Municipios dar seguimiento a la recuperación de los seguros de manera oportuna y expedita conforme a los términos contratados.
-
-### CAPITULO II. DE LA GARANTIA FINANCIERA
 
 # LIBRO TERCERO. DEL FOMENTO PARA EL DESARROLLO FORESTAL SOSTENIBLE DEL ESTADO DE MEXICO
 
@@ -8726,3 +8796,15 @@ G.G. 30 DE SEPTIEMBRE DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 183.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TÍTULO SÉPTIMO DEL LIBRO SEGUNDO Y EL ARTÍCULO 2.229; Y SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 2.5 Y LOS ARTÍCULOS 2.229 BIS, 2.229 TER, 2.229 QUATER, 2.229 QUINQUIES, 2.229 SEXIES Y 2.229 SEPTIES AL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría, por conducto de la Procuraduría, contará con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto para diseñar y publicar el Programa de Auditoría Ambiental y Autorregulación, así como los lineamientos técnicos para la emisión de los Certificados Verdes.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
