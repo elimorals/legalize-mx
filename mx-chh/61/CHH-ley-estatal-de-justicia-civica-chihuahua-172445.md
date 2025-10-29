@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-justicia-civica-chihuahua-172445"
 country: "mx"
 rank: "ley"
 publication_date: "2024-04-06"
-last_updated: "2024-04-06"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE JUSTICIA CÍVICA, DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el No. 28 del Periódico Oficial del Estado de Chihuahua, el sábado 6 de abril de 2024.
 
@@ -97,9 +97,11 @@ IX. Corresponsabilidad de la ciudadanía.
 
 X. Capacitación a los cuerpos policiacos en materia de Justicia Cívica.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-Las personas servidoras públicas involucradas en la impartición de la Justica Cívica, deberán conducirse en todo momento con respeto, empatía, honestidad, responsabilidad, altruismo, justicia, aprendizaje, lealtad, esfuerzo, perseverancia, autodominio, capacidad y tolerancia.
+Las personas servidoras públicas involucradas en la impartición de la Justica Cívica, deberán conducirse en todo momento con respeto, empatía, honestidad, responsabilidad, altruismo, justicia, aprendizaje, lealtad, esfuerzo, perseverancia, autodominio, capacidad, tolerancia y perspectiva de género.
 
 ###### Artículo 4.
 
@@ -1079,13 +1081,17 @@ IV. El bienestar animal.
 
 V. La propiedad.
 
-VI. La seguridad y tranquilidad de las personas.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+VI. La seguridad y tranquilidad de las personas, en especial la de niñas, niños, adolescentes y mujeres.
 
 VII. La movilidad y seguridad vial.
 
 VIII. El desarrollo de la Justicia Cívica.
 
-Los municipios establecerán el catálogo de infracciones y/o faltas administrativas, dentro de sus reglamentos.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Los municipios establecerán el catálogo de infracciones y/o faltas administrativas, dentro de sus reglamentos, los cuales deberán tomar en cuenta la perspectiva de género.
 
 Las infracciones y/o faltas de carácter vial podrán ser atendidas por las Juezas y los Jueces Cívicos, cuando la estructura municipal no contemple el tratamiento de las mismas ante una autoridad especializada.
 
@@ -1270,3 +1276,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dos días del mes de febrero del año dos mil veinticuatro.
 
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SANTIAGO DE LA PEÑA GRAJEDA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVIII/RFLEY/0273/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES, DE LA LEY ESTATAL DE JUSTICIA CÍVICA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
