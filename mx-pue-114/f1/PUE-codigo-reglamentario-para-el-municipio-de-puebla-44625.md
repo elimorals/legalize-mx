@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2025-09-26"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -6523,11 +6523,11 @@ DE LAS VÍAS EN GENERAL Y DE INTENSO TRÁNSITO
 
 Se prohíbe el uso de la Vía Pública para toda clase de competencia y juegos organizados que requieran autorización específica, así como transitar sobre ella con vehículos no reglamentados que puedan dañar la Vía Pública o pongan en riesgo la integridad de los usuarios. Conforme a lo establecido a este Capítulo, los padres, tutores o encargados de los menores de edad, si se trata de éstos, serán responsables de la infracción a lo dispuesto en este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 321 Bis.
 
-(DEROGADO, P.O. 2 DE MARZO DE 2015)
+Toda persona que desarrolle una actividad con motivo del mantenimiento preventivo, correctivo o la instalación de cualquier servicio público o privado, que afecte el libre tránsito sobre la vía pública, deberá de estar plenamente identificada y portar elementos que distingan a simple vista la dependencia o empresa a la que pertenezcan.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -7615,7 +7615,7 @@ De las infracciones en general y otras obligaciones.
 
 > <small>[N. DE E. VÉASE F. DE E. A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. 14 DE JULIO DE 2015, PÁGINA 3.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23; Y TERCERA SECCIÓN DEL P.O. 17 DE MARZO DE 2022, PÁGINA 19; TERCERA SECCIÓN DEL P.O. 24 DE MAYO DE 2022, PÁGINA DE LA 9 A LA 10; VIGÉSIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 78 A LA 79; DÉCIMA SÉPTIMA SECCIÓN DEL P.O. 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 8.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23; Y TERCERA SECCIÓN DEL P.O. 17 DE MARZO DE 2022, PÁGINA 19; TERCERA SECCIÓN DEL P.O. 24 DE MAYO DE 2022, PÁGINA DE LA 9 A LA 10; VIGÉSIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 78 A LA 79; DÉCIMA SÉPTIMA SECCIÓN DEL P.O. 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 8; EN EL P.O. 29 DE OCTUBRE DE 2025, PÁGINA 4.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -41606,3 +41606,9 @@ P.O. 26 DE SEPTIEMBRE DE 2025.
 PRIMERO. El presente decreto entrará en vigora al día siguiente de su publicación.
 
 SEGUNDO. La presente reforma será implementada de acuerdo a la suficiencia presupuestal del Ayuntamiento.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE OCTUBRE DE 2025, QUE APRUEBA EL DICTAMEN PRESENTADO POR LAS Y LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN, POR EL QUE REFORMA EL ARTÍCULO 321 BIS Y SE INCORPORA EL RECUADRO CON EL NUMERAL 87 DEL ARTÍCULO 354, AMBOS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+ÚNICO. El presente dictamen entrará en vigor al día siguiente de su publicación.
