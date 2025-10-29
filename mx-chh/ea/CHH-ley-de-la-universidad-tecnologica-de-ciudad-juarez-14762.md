@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-universidad-tecnologica-de-ciudad-juarez-14762"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-12"
-last_updated: "2020-01-25"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA UNIVERSIDAD TECNOLÓGICA DE CIUDAD JUÁREZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 12 de junio de 1999.
 
@@ -85,13 +85,21 @@ Artículo 5° La Universidad Tecnológica de Ciudad Juárez, contará con los ó
 
 I. Un Consejo Directivo.
 
-II. Un Rector.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-III. Los Secretarios y Directores de Área o de División que establezca el Estatuto Orgánico; y
+II. La persona titular de la Rectoría;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+III. Las personas titulares de las Secretarías y Direcciones de Área o de División que establezca el Estatuto Orgánico; y
 
 IV. Los Órganos Colegiados que señale el Estatuto Orgánico.
 
-V. Un Órgano de Vigilancia.
+V. (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Además, el Organismo contará con un Órgano Interno de Control, mismo que se regirá conforme a lo dispuesto por el Capítulo Sexto de esta Ley.
 
 Artículo 6° El Consejo Directivo será el órgano máximo de gobierno de la Universidad Tecnológica de Ciudad Juárez y se integrará por:
 
@@ -113,25 +121,11 @@ Este Órgano de Gobierno contará con un Secretario que será designado por el P
 
 El Consejo Directivo se renovará totalmente cada dos años, pero sus integrantes podrán ser ratificados por períodos similares siempre y cuando conserven la calidad por la que fueron designados o invitados. La renovación parcial se producirá por renuncia al cargo, muerte, incapacidad o pérdida del carácter por el que fueron designados o invitados.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+Artículo 7° (DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
-Artículo 7° El órgano de vigilancia estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública del Estado.
+Artículo 8° (DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-Artículo 8° El Comisario evaluará el desempeño general de La Universidad y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Función Pública asigne específicamente conforme a la ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-Artículo 9° El Comisario Público desarrollará sus funcionales (sic) conforme a los lineamientos que emita la Secretaría de la Función Pública y de acuerdo a las siguientes bases:
-
-> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2000)</small>
-
-I. Realizará sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía.
-
-> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2000)</small>
-
-II. Examinará y evaluará los sistemas, mecanismos y procedimientos de control, efectuará revisiones y auditorías, vigilará que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables, presentará al Rector y al Consejo Directivo los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+Artículo 9° (DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
 Artículo 10° El Consejo Directivo tendrá como atribuciones:
 
@@ -183,13 +177,15 @@ IV. Dar seguimiento a los acuerdos del Consejo; y
 
 V. Las demás que le señale el Presidente, este Decreto y otras disposiciones aplicables.
 
-Artículo 13° El Consejo Directivo sesionará ordinariamente cada dos meses y de manera extraordinaria en cualquier tiempo que el asunto lo amerite.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Artículo 13° El Consejo Directivo sesionará ordinariamente con la periodicidad establecida en la Ley de Entidades Paraestatales del Estado de Chihuahua y, de manera extraordinaria, en cualquier tiempo que el asunto lo amerite.
 
 Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de sus miembros, siempre que esté presente su Presidente o quien deba suplirlo legalmente.
 
 Los acuerdos se tomarán por mayoría de votos de los miembros presentes y en caso de empate, el Presidente tendrá voto de calidad.
 
-El Comisario asistirá con voz pero sin voto, a las Sesiones del Consejo Directivo.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
 Artículo 14° La Universidad Tecnológica de Ciudad Juárez contará con un Rector designado por el Gobernador del Estado de una terna de candidatos propuesta por el Consejo Directivo.
 
@@ -300,6 +296,16 @@ En todo caso, la Secretaría de Finanzas y Administración, atendiendo a la opin
 Si la actividad combinada o separada redunda en un incremento de eficiencia y productividad, podrá proponer su fusión o escisión, la cual deberá ser aprobada por el Congreso del Estado.
 
 Artículo 27° En la liquidación de la Universidad, se seguirá el procedimiento que para el caso señalen los ordenamientos legales correspondientes.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+### CAPITULO SEXTO. DEL ORGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Artículo 28° Al frente del Órgano Interno de Control se encuentra una persona titular, quien será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública y quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las áreas de auditoría interna, de desarrollo y de mejora de la gestión, de denuncias e investigaciones y de responsabilidades, quienes serán designadas en los mismos términos.
+
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de su respectiva competencia, las facultades previstas en la Ley General de Responsabilidades Administrativas u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con las mismas correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 T R A N S I T O R I O S
 
@@ -416,3 +422,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Universidad Tecnológica de Ciudad Juárez hará las gestiones, trámites y autorizaciones pertinentes, ante las autoridades competentes, así como la suscripción o modificación de instrumentos que fueran necesarios, para la impartición del nivel académico de "posgrado" previsto en el presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/RFLEY/0271/2025 I P.O.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
