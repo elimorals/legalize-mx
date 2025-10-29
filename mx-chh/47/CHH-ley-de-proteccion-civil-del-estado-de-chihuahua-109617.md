@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-109617"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-26"
-last_updated: "2025-07-09"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de agosto de 2015.
 
@@ -86,6 +86,10 @@ En los presupuestos de egresos, tanto del Ejecutivo del Estado como de los ayunt
 Para los efectos de esta Ley, se entenderá por:
 
 I. Aforo: El número máximo de personas que puede permitir un recinto o espacio público o privado.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+I Bis. Alerta de Protección Civil Inmediata: Mecanismo de comunicación inmediata, pública y masiva a través de dispositivos móviles, o cualquier otro módulo tecnológico y de comunicación destinado a informar a la población sobre riesgos y emergencias de protección civil o fenómenos meteorológicos y geológicos, o cualquier otro fenómeno natural y antropogénico perturbador, con el objetivo de salvaguardar la integridad de las personas mediante medidas preventivas oportunas.
 
 II. Alto Riesgo: La inminente o probable ocurrencia de un siniestro o desastre en inmuebles o eventos que cuenten con un aforo de más de mil personas; si es espacio cerrado con un aforo o capacidad de más de quinientas personas; que exista venta de alcohol; que la construcción sea de más de tres mil metros cuadrados de construcción, o donde se realicen actividades que pongan en peligro la integridad de las personas.
 
@@ -471,7 +475,13 @@ XVII. Promover la realización de cursos, ejercicios y simulacros que permitan m
 
 XVIII. Fomentar la creación de una cultura de protección civil a través de la realización de eventos y campañas de difusión.
 
-XIX. Las demás que le señalen el Consejo Estatal de Protección Civil u otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XIX. Celebrar, en conjunto con la Secretaría General de Gobierno, convenios de colaboración con instituciones públicas o privadas para implementar y operar un sistema estatal de alerta de protección civil inmediata.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XX. Las demás que le señalen el Consejo Estatal de Protección Civil u otras disposiciones legales aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -1474,3 +1484,29 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Para la efectiva implementación del presente Decreto, la Secretaría de Hacienda del Estado, de conformidad con las disposiciones legales vigentes y aplicables, con sujeción a la disponibilidad prevista en el Presupuesto de Egresos del Estado de Chihuahua, realizará las gestiones presupuestales necesarias.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/RFLEY/0270/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el artículo 104 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, se conformo la Subcomisión de seguimiento post legislativo del presente Decreto, dependiente de la Comisión de Seguridad Pública y Protección Civil de este H. Congreso del Estado, a efecto de que verifique su operatividad, identifique áreas de oportunidad legislativa que considere necesarias para el cumplimiento de los fines del presente y, en su caso, formule las iniciativas para que se incorporen al proceso legislativo, de acuerdo con la normatividad aplicable.
+
+Para lo cual, podrán realizar reuniones informativas, de trabajo, solicitudes de opinión o foros, invitando a participar, de considerarse pertinente, a especialistas en el tema.
+
+La Subcomisión quedará conformada de la siguiente forma:
+
+Coordinadora: Diputada Nancy Janeth Frías Frías.
+
+Vocal: Diputada Irlanda Dominique Márquez Nolasco.
+
+Vocal: Diputado Pedro Torres Estrada.
+
+Pudiendo auxiliarse en cualquier momento, del Diputado Octavio Javier Borunda Quevedo.
+
+Secretaría Técnica: Designada por la Secretaría de Asuntos Legislativos y Jurídicos.
