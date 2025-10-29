@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-educacion-para-los-adultos-14
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-26"
-last_updated: "2021-09-04"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de mayo de 1999.
 
@@ -171,9 +171,11 @@ Los miembros de la Junta de Gobierno integrantes de la administración pública 
 
 El cargo de miembro de la Junta será honorífico y cada uno de ellos podrá designar a su suplente.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-La Junta de Gobierno se reunirá en sesión ordinaria cuando menos cada dos meses y en sesiones extraordinarias cuando las convoque su Presidente o lo soliciten dos o más de sus miembros.
+La Junta de Gobierno se reunirá en sesión ordinaria, con la periodicidad establecida en la Ley de Entidades Paraestatales del Estado de Chihuahua y, en sesiones extraordinarias, cuando las convoque la persona que ocupe la Presidencia, o lo soliciten cuando menos dos o más de sus integrantes.
 
 ###### Artículo 13.
 
@@ -187,9 +189,9 @@ I.- Establecer las políticas generales y sancionar el Programa Operativo Anual 
 
 II.- Aprobar el anteproyecto de presupuesto anual de ingresos y egresos del Instituto en los términos y para los efectos señalados en la Ley de Presupuesto, Egresos, Contabilidad y Gasto Público, así como vigilar su correcta aplicación;
 
-III.- Aprobar, previo informe de los Comisarios Públicos y dictamen de los Auditores externos, los estados financieros del Instituto;
+III.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
 
-IV.- Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General, con la intervención que corresponda a los Comisarios Públicos;
+IV.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
@@ -291,23 +293,21 @@ El Instituto contará con unidades técnicas y administrativas centrales que ten
 
 La organización, atribuciones y funciones de las Delegaciones y Coordinaciones, cuyo establecimiento haya sido autorizado por la Junta de Gobierno se determinará en el Reglamento Interno del Instituto y al frente de cada una de ellas habrá un Delegado o Coordinador, según el caso, que será designado por la Junta a propuesta del Director General.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 20.
 
-El Instituto contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados y removidos por la Secretaría de la Función Pública y quienes asistirán, con voz pero sin voto, a las sesiones de la Junta de Gobierno.
+El Instituto contará con un Órgano Interno de Control, al frente del cual se encuentra una persona titular, quien será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública y quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las áreas de auditoría interna, de desarrollo y de mejora de la gestión, de denuncias e investigaciones y de responsabilidades, quienes serán designadas en los mismos términos.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de su respectiva competencia, las facultades previstas en la Ley General de Responsabilidades Administrativas u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con las mismas correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### Artículo 21.
 
-El Comisario evaluará el desempeño general del Instituto y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Función Pública asigne específicamente conforme a la ley.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
 ###### Artículo 22.
 
-El Comisario Público desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
 ### CAPITULO CUARTO
 
@@ -588,3 +588,15 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0271/2025 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
