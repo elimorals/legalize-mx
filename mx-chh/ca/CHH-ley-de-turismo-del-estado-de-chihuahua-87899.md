@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2025-07-16"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -169,13 +169,19 @@ IV. Coordinar, planear, fomentar y evaluar el desarrollo turístico del Estado, 
 
 V. Proponer al Titular del Poder Ejecutivo del Estado, la Declaratoria de Zona de Interés y/o Desarrollo Turístico, mediante el levantamiento y actualización de las zonas de interés incluidas o que se incluyan en el Atlas Turístico.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+V Bis. Impulsar, en coordinación con las dependencias correspondientes y los municipios, la promoción y difusión de las tradiciones y costumbres que constituyan atractivos turísticos en el Estado, respaldando las políticas públicas para su conservación.
+
 VI. Establecer los Consejos Consultivos de Turismo, tanto el Estatal, como los Regionales.
 
 VII. Otorgar asesoría técnica a los inversionistas y a los prestadores de servicios turísticos del Estado.
 
 VIII. Organizar, promover, dirigir y realizar, en coordinación con las autoridades competentes, congresos, convenciones y exposiciones; así como actividades culturales, artísticas, deportivas y otros eventos con fines turísticos.
 
-IX. Promover, dirigir, coordinar o realizar material informativo, promocional y publicitario en materia de turismo del Estado.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+IX. Promover, dirigir, coordinar o realizar material informativo, promocional y publicitario en materia de turismo del Estado, procurando que sea distribuido en varios idiomas, atendiendo a la afluencia más común de turistas extranjeros.
 
 X. Constituir, integrar, mantener y actualizar el Sistema de Información Turística Estatal.
 
@@ -184,6 +190,10 @@ XI. Apoyar y promover la formación de asociaciones, consejos, comités, patrona
 XII. Fomentar y apoyar la participación de los sectores público, social y privado en las acciones orientadas a la identificación, creación, conservación, mejoramiento y uso adecuado de los recursos de interés turístico en el Estado, fundamentalmente en aquellas zonas que hayan sido declaradas como prioritarias por los Planes Nacional y Estatal de Desarrollo en el rubro de Turismo.
 
 XIII. Emitir opinión ante las autoridades competentes, para la realización de proyectos de desarrollo turístico, así como para el establecimiento de servicios turísticos.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XIII Bis. Establecer los lineamientos para impulsar la innovación, el desarrollo y la diversificación de productos turísticos competitivos, que respondan a las tendencias de los mercados nacional e internacional.
 
 XIV. Coordinarse y celebrar convenios con las autoridades federales, estatales o municipales, para la realización de actividades que tiendan a fomentar, regular, planear y proteger el turismo.
 
@@ -231,9 +241,13 @@ XXI Ter. Implementar y publicitar, mediante convenios con las personas prestador
 
 XXI Quater. Fomentar y promover el desarrollo del turismo de aventura en las diferentes regiones de la Entidad, cuyas características sean apropiadas para ello.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE MARZO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XXII. Ejercer las demás facultades y obligaciones que le asignen otros ordenamientos jurídicos aplicables y las que le sean atribuidas por la persona Titular del Poder Ejecutivo del Estado, en materia de Turismo.
+XXII. Impulsar y desarrollar la investigación en materia de turismo orientada al desarrollo sostenible, considerando sus dimensiones ambiental, sociocultural y económica, e implementar los resultados para el fortalecimiento y la competitividad del sector.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XXIII. Ejercer las demás facultades y obligaciones que le asignen otros ordenamientos jurídicos aplicables y las que le sean atribuidas por la persona Titular del Poder Ejecutivo del Estado, en materia de turismo.
 
 ### CAPÍTULO III. FACULTADES CONCURRENTES DEL MUNICIPIO
 
@@ -255,7 +269,13 @@ VI. Participar, a través del Consejo Consultivo Regional, en la programación d
 
 VII. Incentivar la atracción de inversión, para lo cual, los municipios podrán establecer un programa de estímulos fiscales en el ámbito de su competencia.
 
-VIII. Las demás que les señale esta Ley, así como las otras disposiciones federales y locales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+VIII. Difundir y promover en su portal web institucional, las fiestas patronales, eventos culturales, espectáculos, gastronomía, ferias, y demás eventos realizados en su demarcación, que constituyan atractivos turísticos. Se incluirán eventos realizados tanto por el sector público como por el privado, debiendo en este último caso, así como cuando se trate de instituciones de otros órdenes de gobierno, integrarlos por solicitud de quien los promueve.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+IX. Las demás que les señale esta Ley, así como las otras disposiciones federales y locales.
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS DE COLABORACIÓN INTERINSTITUCIONAL
 
@@ -400,6 +420,12 @@ La Secretaría, en coordinación con el Consejo Consultivo Estatal, apoyará la 
 ###### Artículo 25.
 
 Para fomentar la oferta turística estatal, la Secretaría promoverá las medidas de protección, conservación y mejoramiento de los atractivos naturales y culturales, así como de los servicios que constituyan o puedan constituir un atractivo para el turismo, procurando la conservación del medio ambiente, la preservación ecológica de las zonas y el respeto a las costumbres y tradiciones regionales, basándose en los principios de sustentabilidad que deberá hacer referencia el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 25 Bis.
+
+La Secretaría, en coordinación con las dependencias y entidades de la administración pública estatal, así como con los municipios con vocación turística, llevarán a cabo todas aquellas acciones necesarias para que, en el mobiliario urbano destinado a información turística, además del español, sean señalizados en varios idiomas, atendiendo a la afluencia más común de turistas extranjeros.
 
 ### CAPÍTULO VII. DE LAS ZONAS DE INTERÉS Y DE DESARROLLO TURÍSTICO
 
@@ -683,6 +709,10 @@ I. Anunciar visiblemente en los lugares de acceso al establecimiento la direcci�
 
 II. Informar al turista los precios, tarifas, condiciones, características y costo total, de los servicios y productos que éste requiera.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+II Bis. Mantener actualizados sus sitios web, con la finalidad de que contengan de manera detallada su ubicación, los servicios, costos, restricciones y demás aspectos que sean de interés para la persona turista.
+
 III. Implementar los procedimientos alternativos que determine la Secretaría, para la atención de quejas.
 
 IV. Participar en el manejo responsable de los recursos naturales, arqueológicos, históricos y culturales, en términos de las disposiciones jurídicas aplicables.
@@ -693,7 +723,9 @@ VI. Cumplir con los servicios, precios, tarifas y promociones, en los términos 
 
 VII. Expedir, aun sin solicitud del turista, comprobantes o notas de consumo que amparen los cobros realizados por la prestación del servicio turístico proporcionado.
 
-VIII. Profesionalizar a sus trabajadores y empleados, en los términos de las leyes respectivas, en coordinación con la Secretaría.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+VIII. Profesionalizar a sus trabajadores y empleados, en los términos de las leyes respectivas, en coordinación con la Secretaría. En el caso de personas que son guías de turistas, promover convenios con instituciones de educación superior a efecto de otorgar una capacitación certificada que incluya conocimientos en historia y cultura del Estado de Chihuahua, así como de comunicación efectiva y gestión de grupos.
 
 IX. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición.
 
@@ -735,9 +767,13 @@ XXI. Supervisar, en su caso, que no se ocupen las instalaciones o espacios para 
 
 XXII. Cumplir con las obligaciones en materia fiscal, establecidas en la normatividad aplicable.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XXIII. Las demás que establezca la legislación aplicable en la materia.
+XXIII. Procurar las medidas de seguridad informáticas necesarias para realizar la contratación de sus servicios turísticos cuando se realice por plataformas digitales.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XXIV. Las demás que establezca la legislación aplicable en la materia.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
 
@@ -1062,6 +1098,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 16 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVIII/RFLEY/0235/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, FRACCIÓN III; 50 FRACCIONES XVII, XVIII Y XIX; Y 54, PÁRRAFO PRIMERO, Y SE ADICIONAN A LOS ARTÍCULOS 3, LAS FRACCIONES XIX BIS Y XIX TER; 4, LAS FRACCIONES XV BIS, XXI TER Y XXI QUATER; 7, LA FRACCIÓN VII, Y 54, UN PÁRRAFO SEGUNDO, DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0267/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 4, DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVIII/RFLEY/0268/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
