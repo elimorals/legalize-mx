@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-universidad-tecnologica-de-chihuahua-17284"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-27"
-last_updated: "2016-10-03"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA UNIVERSIDAD TECNOLÓGICA DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de mayo de 2000.
 
@@ -51,9 +51,11 @@ Artículo 1° Se crea la Universidad Tecnológica de Chihuahua como Organismo P�
 
 Artículo 2° La Universidad Tecnológica de Chihuahua, se adhiere al Sistema Nacional de Universidades Tecnológicas, y por tanto, adopta como modelo pedagógico el establecido para ellas.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-Artículo 3° La Universidad Tecnológica de Chihuahua, tendrá por objeto principal impartir Educación Técnica Superior, para formar profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras Instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura, con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
+###### Artículo 3.
+
+La Universidad Tecnológica de Chihuahua, tendrá por objeto principal impartir Educación Técnica Superior, para formar profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura y Posgrado a través de diferentes modalidades de estudios, con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
 
 Artículo 4° Para el cumplimiento de su objeto la Universidad Tecnológica de Chihuahua tendrá las siguientes atribuciones:
 
@@ -71,7 +73,9 @@ VI. Crear la organización administrativa que le sea conveniente y contratar los
 
 VII. Planear, desarrollar e impartir programas de superación y actualización académica y dirigirlos tanto a la comunidad universitaria como a la población en general.
 
-VIII. Impulsar estrategias de participación y concertación con los sectores público, privado y social para la realización de actividades productivas con un alto nivel de eficiencia y sentido social.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+VIII. Impulsar estrategias de participación y concertación con los sectores público, privado y social para la realización de actividades productivas, asesorías y servicios tecnológicos, con un alto nivel de eficiencia y sentido social.
 
 IX. Administrar los bienes incorporados a su patrimonio así como los ingresos que obtenga por los servicios que preste, con sujeción al marco legal aplicable según su naturaleza.
 
@@ -83,13 +87,21 @@ Artículo 5° La Universidad Tecnológica de Chihuahua, contará con los órgano
 
 I. Un Consejo Directivo;
 
-II. Un Rector; quien será el Coordinador General para los efectos de la Ley de Entidades Paraestatales del Estado;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-III. Los Secretarios y Directores de Área o de División que establezca el Estatuto Orgánico;
+II. Una persona titular de la Rectoría, quien será Coordinadora General para los efectos de la Ley de Entidades Paraestatales del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+III. Las personas titulares de las Secretarías y Direcciones de Área o de División que establezca el Estatuto Orgánico;
 
 IV. Los Órganos Colegiados que señale el Estatuto Orgánico; y
 
-V. Un Órgano de Vigilancia.
+V. (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Además, el Organismo contará con un Órgano Interno de Control, mismo que se regirá conforme a lo dispuesto por el Capítulo Sexto de esta Ley.
 
 Artículo 6° El Consejo Directivo será el órgano máximo de gobierno de la Universidad Tecnológica de Chihuahua y se integrará por:
 
@@ -161,13 +173,19 @@ IV. Dar seguimiento a los acuerdos del Consejo; y
 
 V. Las demás que le señale el Presidente, este Decreto y otras disposiciones aplicables.
 
-Artículo 10° El Consejo Directivo sesionará ordinariamente cada dos meses y de manera extraordinaria en cualquier tiempo que el asunto lo amerite.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de sus miembros, siempre que esté presente su Presidente o quien deba suplirlo legalmente.
+Artículo 10° El Consejo Directivo sesionará ordinariamente, con la periodicidad establecida en la Ley de Entidades Paraestatales del Estado de Chihuahua y, de manera extraordinaria, en cualquier tiempo que el asunto lo amerite.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Las sesiones serán válidas cuando el quórum se constituya con la mitad más uno de sus integrantes, siempre que esté presente la persona titular de la Presidencia o quien deba suplirla legalmente.
 
 Los acuerdos se tomarán por mayoría de votos de los miembros presentes y en caso de empate, el Presidente tendrá voto de calidad.
 
-El Comisario asistirá con voz pero sin voto, a las Sesiones del Consejo Directivo.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+La persona titular del Órgano Interno de Control asistirá con voz, pero sin voto, a las Sesiones del Consejo Directivo.
 
 Artículo 11° La Universidad Tecnológica de Chihuahua contará con un Rector designado por el Gobernador del Estado de una terna de candidatos propuesta por el Consejo Directivo.
 
@@ -259,25 +277,23 @@ I. El Consejo Directivo controlará y evaluará la forma en que los objetivos de
 
 II. El Rector definirá las políticas de instrumentación de los sistemas de control y evaluación que fueren necesarios, tomará las acciones correspondientes para corregir las deficiencias que se detecten y presentará al Consejo Directivo informes periódicos sobre el cumplimiento de los objetivos del sistema de control y evaluación, su funcionamiento y programas de mejoramiento.
 
-### CAPITULO SEXTO. DEL ORGANO DE VIGILANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+### CAPITULO SEXTO. DEL ORGANO INTERNO DE CONTROL
 
-Artículo 22° El órgano de vigilancia estará integrado por un Comisario Público propietario y un suplente, designados por la Función Pública del Estado.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+Artículo 22° Al frente del Órgano Interno de Control se encuentra una persona titular, quien será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública y quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las áreas de auditoría interna, de desarrollo y de mejora de la gestión, de denuncias e investigaciones y de responsabilidades, quienes serán designadas en los mismos términos.
 
-Artículo 23° El Comisario evaluará el desempeño general de La Universidad y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Función Pública asigne específicamente conforme a la ley.
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de su respectiva competencia, las facultades previstas en la Ley General de Responsabilidades Administrativas u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con las mismas correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+###### Artículo 23°.
 
-Artículo 24° El comisario público desarrollará sus funcionales (sic) conforme a los lineamientos que emita la Secretaría de la Función Pública y de acuerdo con las siguientes bases:
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
-I. Realizará sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía.
+###### Artículo 24°.
 
-> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2000)</small>
-
-II. Examinará y evaluará los sistemas, mecanismos y procedimientos de control, efectuará revisiones y auditorías, vigilará que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables, presentará al Rector y al Consejo Directivo los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
 ### CAPITULO SEPTIMO. DE LA EXTINCION Y LIQUIDACION DE LA UNIVERSIDAD
 
@@ -416,3 +432,15 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/RFLEY/0271/2025 I P.O.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
