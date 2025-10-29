@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-colegio-de-chihuahua-46826"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-29"
-last_updated: "2016-10-03"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL COLEGIO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 29 de octubre de 2005.
 
@@ -97,9 +97,15 @@ I. La Secretaría General;
 
 II. El Consejo Académico;
 
-III. El Comité Técnico Consultivo; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-IV. El Comisario Público.
+III. El Comité Técnico Consultivo.
+
+IV. (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Además, el Organismo contará con un Órgano Interno de Control, mismo que se regirá conforme a lo dispuesto por el Capítulo X de esta Ley.
 
 ### CAPÍTULO III. DE LA JUNTA DE GOBIERNO
 
@@ -147,11 +153,13 @@ III. Expedir el Estatuto Orgánico de "El Colegio de Chihuahua", los reglamentos
 
 IV. Aprobar los programas y los presupuestos del Organismo, así como sus modificaciones, sujetándose a lo dispuesto en las leyes relativas del Estado y, en su caso, a las asignaciones de gasto y financiamiento autorizadas;
 
-V. Aprobar anualmente, previo informe del Comisario Público y del dictamen en su caso del auditor externo, los estados financieros;
+V. (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
 
-VI. Nombrar, a propuesta del Director General, a los Directores de Área o análogos, siempre que éstos se encuentren dentro de la jerarquía inferior segunda al propio Director;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-VII. Analizar y aprobar, en su caso, los informes que rinda el Director General con la intervención que corresponda al Comisario Público;
+VI. Nombrar, a propuesta de la persona titular de la Dirección General, a las personas titulares de las Direcciones de Área o análogos, siempre que estas se encuentren dentro de la jerarquía inferior segunda a la propia Dirección;
+
+VII. (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
 
 VIII. Aceptar las donaciones, legados y demás liberalidades que se otorguen a favor del Colegio;
 
@@ -261,11 +269,9 @@ II. Compartir opiniones y juicios críticos constructivos en torno a la metodolo
 
 III. Hacer todo tipo de recomendaciones para el cumplimiento cabal del objeto del Colegio.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
 ###### ARTÍCULO 17.
 
-Del órgano de vigilancia. Estará integrado por un Comisario Público Titular y por un Suplente, ambos designados por la Secretaría de la Función Pública del Estado, y tendrá como facultades las que se deriven del presente Ordenamiento, de la Ley de Entidades Paraestatales del Estado, así como de aquellas normas que resulten aplicables.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
 ### CAPÍTULO VI. DEL PATRIMONIO
 
@@ -336,6 +342,18 @@ Independientemente de las sanciones a que hubiera lugar de naturaleza penal, civ
 ###### ARTÍCULO 24.
 
 El Ejecutivo del Estado acompañará los estados financieros del Organismo, a cada cuenta pública anual respectiva.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO X. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 25.
+
+Al frente del Órgano Interno de Control se encuentra una persona titular, quien será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública y quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las áreas de auditoría interna, de desarrollo y de mejora de la gestión, de denuncias e investigaciones y de responsabilidades, quienes serán designadas en los mismos términos.
+
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de su respectiva competencia, las facultades previstas en la Ley General de Responsabilidades Administrativas u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con las mismas correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 ## TRANSITORIOS
 
@@ -474,3 +492,15 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVIII/RFLEY/0271/2025 I P.O. POR EL QUE “SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 6; LA FRACCIÓN VI DEL ARTÍCULO 8; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6; EL CAPÍTULO X DENOMINADO "DEL ÓRGANO INTERNO DE CONTROL"; Y EL ARTÍCULO 25; Y SE DEROGAN LA FRACCIÓN IV DEL ARTÍCULO 6; LAS FRACCIONES V Y VII DEL ARTÍCULO 8; Y EL ARTÍCULO 17; TODOS DE LA LEY DEL COLEGIO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
