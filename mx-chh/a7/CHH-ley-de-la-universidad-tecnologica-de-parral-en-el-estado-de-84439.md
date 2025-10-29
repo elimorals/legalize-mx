@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-universidad-tecnologica-de-parral-en-el-estado-de-844
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2016-10-03"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA UNIVERSIDAD TECNOLÓGICA DE PARRAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el folleto anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de diciembre de 2011.
 
@@ -53,9 +53,11 @@ Se crea la Universidad Tecnológica de Parral, como Organismo Público Descentra
 
 La Universidad Tecnológica de Parral se adhiere al Sistema Nacional de Universidades Tecnológicas y, por tanto, adopta como modelo pedagógico el establecido para ellas.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-La Universidad Tecnológica de Parral, tendrá por objeto principal impartir Educación Técnica Superior, para formar profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura, con actitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
+La Universidad Tecnológica de Parral, tendrá por objeto principal impartir Educación Técnica Superior, para formar profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura y Posgrado a través de diferentes modalidades de estudios, con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
 
 ###### Artículo 4.
 
@@ -75,7 +77,9 @@ VI. Crear la organización administrativa que le sea conveniente y contratar los
 
 VII. Planear, desarrollar e impartir programas de superación y actualización académica, y dirigirlos tanto a la comunidad universitaria, como a la población en general.
 
-VIII. Impulsar estrategias de participación y concertación con los sectores público, privado y social, para la realización de actividades productivas con un alto nivel de eficiencia y sentido social.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+VIII. Impulsar estrategias de participación y concertación con los sectores público, privado y social, para la realización de actividades productivas, asesorías y servicios tecnológicos, con un alto nivel de eficiencia y sentido social.
 
 IX. Administrar los bienes incorporados a su patrimonio, así como los ingresos que obtenga por los servicios que preste, con sujeción al marco legal aplicable según su naturaleza.
 
@@ -87,21 +91,29 @@ La Universidad Tecnológica de Parral, contará con los órganos siguientes:
 
 I. Un Consejo Directivo.
 
-II. Un Rector.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-III. Los Secretarios y Directores de Área o de División que establezca el Estatuto Orgánico.
+II. Una persona titular de la Rectoría.
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+III. Las personas titulares de las Secretarías y Direcciones de Área o de División que establezca el Estatuto Orgánico.
 
 IV. Los Órganos Colegiados que señale el Estatuto Orgánico.
 
-V. Un Órgano de Vigilancia.
+V. (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Además, el Organismo contará con un Órgano Interno de Control, mismo que se regirá conforme a lo dispuesto por el artículo 27 de este ordenamiento legal.
 
 ###### Artículo 6.
 
 El Consejo Directivo será el órgano máximo de gobierno de la Universidad Tecnológica de Parral, y se integrará por:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-I. El Secretario de Educación y Deporte del Estado, quien lo presidirá;
+I. La persona titular de la Secretaría de Educación y Deporte, quien lo presidirá.
 
 II. Dos representantes del Gobierno Federal, designados por la Secretaría de Educación Pública.
 
@@ -115,13 +127,13 @@ Por cada miembro propietario habrá un suplente, quien será designado mediante 
 
 El carácter de miembro del Consejo Directivo será honorífico, por lo que no habrá lugar a remuneración alguna.
 
-Este Órgano de Gobierno contará con un Secretario, que será designado por el Presidente, el cual tendrá derecho a voz pero no a voto.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Este Órgano de Gobierno contará con una persona Secretaria, que será designada por la persona titular de la Presidencia, la cual tendrá derecho a voz, pero no a voto.
 
 El Consejo Directivo se renovará totalmente cada dos años, pero sus integrantes podrán ser ratificados por períodos similares, siempre y cuando conserven la calidad por la que fueron designados o invitados. La renovación parcial se producirá por renuncia al cargo, muerte, incapacidad o pérdida del carácter por el que fueron designados o invitados.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-El órgano de vigilancia estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública del Estado, cuyas funciones serán las establecidas en la Ley de Entidades Paraestatales del Estado de Chihuahua, y las que se determinen en el Estatuto Orgánico que expida el Consejo Directivo.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 7.
 
@@ -181,15 +193,23 @@ IV. Dar seguimiento a los acuerdos del Consejo.
 
 V. Las demás que le señalen el Presidente en ejercicio de sus funciones, este Decreto y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 10.
 
-El Consejo Directivo sesionará ordinariamente cada dos meses y de manera extraordinaria en cualquier tiempo que el asunto lo amerite.
+El Consejo Directivo sesionará ordinariamente, con la periodicidad establecida en la Ley de Entidades Paraestatales del Estado de Chihuahua y, de manera extraordinaria, en cualquier tiempo que el asunto lo amerite.
 
-I. Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de sus miembros, siempre que esté presente su Presidente o quien deba suplirlo legalmente.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-II. Los acuerdos se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
+I. Las sesiones serán válidas cuando el quórum se constituya con la mitad más uno de sus integrantes, siempre que esté presente la persona titular de la Presidencia o quien deba suplirla legalmente.
 
-III. El Comisario y el Secretario asistirán con voz, pero sin voto, a las Sesiones del Consejo Directivo.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+II. Los acuerdos se tomarán por mayoría de votos de los integrantes presentes y, en caso de empate, la persona titular de la Presidencia tendrá voto de calidad.
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+III. La persona titular del Órgano Interno de Control y la persona Secretaria asistirán con voz, pero sin voto, a las Sesiones del Consejo Directivo.
 
 ###### Artículo 11.
 
@@ -327,6 +347,14 @@ Para la extinción y liquidación de la Universidad Tecnológica de Parral, se s
 
 En su caso, la extinción del Organismo será comunicada al H. Congreso del Estado mediante formal iniciativa, a fin de que proceda a abrogar el presente Decreto. Para tal efecto, el titular del Poder Ejecutivo deberá proporcionar al Congreso toda la información relativa al procedimiento de liquidación y extinción.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 27.
+
+Al frente del Órgano Interno de Control se encuentra una persona titular, quien será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública y quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las áreas de auditoría interna, de desarrollo y de mejora de la gestión, de denuncias e investigaciones y de responsabilidades, quienes serán designadas en los mismos términos.
+
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de su respectiva competencia, las facultades previstas en la Ley General de Responsabilidades Administrativas u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con las mismas correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
+
 ###### ARTÍCULO SEGUNDO.
 
 Sin perjuicio de la facultad que al Consejo Directivo otorga el artículo 19, en su párrafo segundo de la Ley creada mediante el presente Decreto, se autoriza al Titular del Poder Ejecutivo del Estado de Chihuahua a suscribir, en caso de que así lo solicite el propio Consejo Directivo, por sí mismo o por conducto de las Secretarías de Hacienda y de Educación, Cultura y Deporte, de manera conjunta o separada, los instrumentos que resulten necesarios para garantizar las obligaciones derivadas de la incorporación total voluntaria, al régimen obligatorio de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, respecto de aquellos trabajadores y sus beneficiarios cuyo régimen les resulte aplicable, del Organismo Público Descentralizado denominado "Universidad Tecnológica Parral", creado mediante el presente Decreto.
@@ -452,3 +480,15 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVIII/RFLEY/0271/2025 I P.O. POR EL QUE “SE REFORMAN EL ARTÍCULO 3; LA FRACCIÓN VIII DEL ARTÍCULO 4; LAS FRACCIONES II Y III DEL ARTÍCULO 5; LA FRACCIÓN I Y EL CUARTO PÁRRAFO DEL ARTÍCULO 6; Y EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 10; SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 5; Y EL ARTÍCULO 27; Y SE DEROGAN LA FRACCIÓN V DEL ARTÍCULO 5; Y EL SEXTO PÁRRAFO DEL ARTÍCULO 6; TODOS DE LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DE PARRAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
