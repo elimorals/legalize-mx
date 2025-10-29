@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2025-06-04"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE OCTUBRE DE 2025.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -123,9 +123,29 @@ Toda persona tiene derecho a elegir de forma libre la distribución del tiempo p
 
 Toda persona tiene derecho a vivir una vida libre de violencias. Los entes públicos del Estado tienen deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, para garantizar su derecho humano a una vida libre de violencias y a la integridad personal, tanto en el ámbito público como en el privado; debiendo garantizar en la elaboración y ejecución de políticas públicas, los principios de igualdad jurídica; respeto a la dignidad humana de las mujeres, adolescentes, niñas y niños; perspectiva de género; no discriminación, libertad y desarrollo integral, a través de los principios ya reconocidos en la Constitución Política de los Estados Unidos Mexicanos. La Ley definirá las bases y modalidades para su realización de conformidad con lo previsto en los artículos 83 Bis y 86 Bis.
 
-> <small>(ADICIONADO, G.G. 20 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 29 DE OCTUBRE DE 2025)</small>
 
-El Estado promoverá políticas públicas inclusivas, que mejoren el bienestar, eleven la calidad de vida, y consoliden la justicia social; para erradicar cualquier práctica discriminatoria que someta o limite el acceso a los derechos sociales y la dignidad humana en la Entidad.
+El Estado establecerá políticas públicas inclusivas de desarrollo social, que mejoren el bienestar, eleven la calidad de vida, consoliden la justicia social y erradiquen cualquier práctica discriminatoria que someta o limite el acceso y ejercicio de los derechos sociales y la dignidad humana en la Entidad.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+El Estado garantizará el derecho a una pensión no contributiva para las personas con discapacidad permanente menores de sesenta y cinco años, así como la prestación de servicios de rehabilitación y habilitación para las personas con discapacidad permanente, dando prioridad a niñas, niños y adolescentes, en los términos que fije la ley.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+Las personas adultas mayores de sesenta y cinco años tienen derecho a recibir del Estado una pensión no contributiva, conforme a lo establecido por la ley. Las personas con discapacidad permanente menores de sesenta y cinco años tienen derecho a la pensión no contributiva por discapacidad, y a todas las personas mayores de esa edad les corresponde la pensión no contributiva para adultos mayores.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+Toda persona tiene derecho a una vivienda digna y adecuada; el Estado garantizará de manera progresiva los instrumentos y apoyos necesarios con la finalidad de alcanzar tal objetivo, en los términos que determine la ley.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+El Estado garantizará, en los términos que fije la ley, la entrega de un jornal seguro, justo y permanente a personas trabajadoras del campo que cultiven sus tierras con árboles frutales, maderables y especies que requieren ser procesadas; así como un apoyo anual directo y fertilizantes gratuitos a personas productoras de pequeña escala, y un apoyo anual directo a personas pescadoras de pequeña escala.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+El Estado garantizará la entrega de un apoyo económico periódico a las mujeres que habiten dentro del territorio y se encuentren en condición de vulnerabilidad, en los términos que determine la ley.
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
 
@@ -748,6 +768,10 @@ Las autoridades del Estado de México garantizarán la protección, el bienestar
 ###### Artículo 19.
 
 Los recursos cuya captación y administración corresponda a las autoridades, se aplicarán con eficiencia, eficacia, economía, transparencia y, honradez, en la atención y solución de las necesidades de los habitantes, para lo cual las leyes de ingresos y los presupuestos de egresos del Estado y de los municipios, estarán orientados a la asignación prudente de tales recursos, considerando criterios de proporcionalidad y equidad en la distribución de cargas y de los beneficios respectivos entre los habitantes.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2025)</small>
+
+El Estado destinará anualmente los recursos presupuestarios suficientes, oportunos y adecuados, conforme al principio de progresividad y no regresión, para garantizar el ejercicio de los derechos establecidos en esta Constitución que impliquen la transferencia de recursos directos hacia la población destinataria. El monto de los recursos asignados no podrá ser disminuido, en términos reales, respecto del que se haya asignado en el ejercicio fiscal inmediato anterior.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -5544,3 +5568,17 @@ G.G. 4 DE JUNIO DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 182.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO POR EL QUE SE REFORMA EL PÁRRAFO DÉCIMO TERCERO DEL ARTÍCULO 5; Y SE ADICIONAN LOS PÁRRAFOS DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 5, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, EN MATERIA DE BIENESTAR”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Legislatura deberá armonizar la legislación correspondiente en un lapso de ciento ochenta días naturales contados a partir de la entrada en vigor de este Decreto.
+
+CUARTO. Las erogaciones que se generen con motivo de este Decreto se realizarán con cargo a los recursos presupuestarios aprobados expresamente para esos fines por la Legislatura del Estado. En caso de que se realice alguna modificación a la estructura orgánica de los ejecutores de gasto, deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas, presupuestarias y administrativas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos.
+
+QUINTO. La Legislatura, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto, deberá realizar las adecuaciones legislativas necesarias en materia de vivienda digna y adecuada, garantizando que dichas disposiciones incorporen criterios de seguridad de la tenencia, disponibilidad de servicios, materiales, instalaciones e infraestructura, accesibilidad, habitabilidad, asequibilidad, ubicación y adecuación cultural.
