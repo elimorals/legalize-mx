@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2024-01-10"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -221,9 +221,11 @@ V. Los diputados al H. Congreso del Estado en los términos del artículo 42 de 
 
 VI. Los magistrados y jueces del Poder Judicial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 19.
 
-El órgano de gobierno se reunirá ordinariamente con la periodicidad que se señale en el estatuto orgánico sin que pueda ser menor de 6 veces al año. El lapso que medie entre cada una de las reuniones ordinarias deberá ser equivalente, atendiendo al número de ellas que se contemple en el estatuto orgánico. Las reuniones extraordinarias se celebrarán a convocatoria del presidente del órgano de gobierno, cuando existan asuntos que por su urgencia o trascendencia así lo ameriten.
+El órgano de gobierno se reunirá ordinariamente con la periodicidad que se señale en el estatuto orgánico sin que pueda ser menor de tres veces al año. El lapso que medie entre cada una de las reuniones ordinarios (sic) deberá ser equivalente, atendiendo al número de ellas que se contemple en el estatuto orgánico. Las reuniones extraordinarias se celebrarán a convocatoria de quien presida el órgano de gobierno, cuando existan asuntos que por su urgencia o trascendencia así lo ameriten.
 
 El propio órgano de gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal. Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el presidente voto de calidad para el caso de empate.
 
@@ -599,9 +601,17 @@ XII. Ejecutar los acuerdos que dicte el órgano de gobierno;
 
 XIII. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales de la entidad con sus trabajadores;
 
-XIV. Proponer al presidente del órgano de gobierno la celebración de reuniones extraordinarias cuando existan asuntos que por su urgencia o trascendencia así lo ameriten; y,
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XV. Las que señalen otras disposiciones legales aplicables, con las únicas salvedades a que se contrae este ordenamiento.
+XIV. Proponer a quien presidirá el órgano de gobierno, la celebración de reuniones extraordinarias cuando existan asuntos que por su urgencia o trascendencia así lo ameriten;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XV. Expedir constancias y certificaciones de asuntos, datos y documentos que obren en los archivos a su cargo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XVI. Las que señalen otras disposiciones legales aplicables, con las únicas salvedades a que se contrae este ordenamiento.
 
 ### CAPITULO VII. DEL CONTROL Y EVALUACION
 
@@ -1088,3 +1098,15 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO Nº LXVIII/RFLEY/0271/2025 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
