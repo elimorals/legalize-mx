@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2024-12-18"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE DICIEMBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -405,47 +403,49 @@ La administración del Instituto estará a cargo de un órgano de gobierno denom
 
 La Junta Directiva a que se refiere el artículo anterior, estará integrada por los titulares de las siguientes dependencias de la administración pública estatal:
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-a) Un Presidente, que será el Secretario de Educación, Cultura y Deporte;
+a) La Presidencia, que será la persona titular de la Secretaría de Educación y Deporte;
 
-b) Un Secretario Técnico, que será el Director del Instituto Chihuahuense del Deporte y Cultura Física, quien participará con voz pero sin voto;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+b) Una Secretaría Técnica, que será la persona titular del Instituto Chihuahuense del Deporte y Cultura Física, quien participará con voz, pero sin voto;
 
-c) Secretario de Hacienda;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+c) La persona titular de la Secretaría de Hacienda;
 
-d) Secretario de Desarrollo Urbano y Ecología;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+d) La persona titular de la Secretaría de Desarrollo Urbano y Ecología;
 
-e) Secretario de Comunicaciones y Obras Públicas;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+e) La persona titular de la Secretaría de Comunicaciones y Obras Públicas;
 
-f) Secretario de Economía;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+f) La persona titular de la Secretaría de Economía;
 
-g) Secretario de Desarrollo Humano y Bien Común.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+g) La persona titular de la Secretaría de Desarrollo Humano y Bien Común;
 
-h) Secretario de Salud.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2012)</small>
+h) La persona titular de la Secretaría de Salud;
 
-i) El Fiscal General del Estado;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+i) La persona titular de la Fiscalía General del Estado;
 
 j) (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 k) (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-El Presidente de la Junta Directiva, convocará a participar como invitados permanentes al Contralor Interno y al Comisario Propietario o Suplente, designados por la Secretaría de la Función Pública, quienes participarán con voz pero sin voto.
+La persona titular de la Presidencia de la Junta Directiva, convocará a participar como invitada permanente a la persona titular del Órgano Interno de Control o Suplente, designada por la Secretaría de la Función Pública, quien participará con voz, pero sin voto.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -459,9 +459,11 @@ El cargo de miembro de la Junta Directiva será honorífico.
 
 Los integrantes del Consejo, en el caso de los Titulares de las dependencias de Gobierno del Estado, podrán designar a sus respectivos suplentes, quienes, por lo menos, deberán tener la categoría de Jefes de Departamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-La Junta Directiva se reunirá ordinariamente con la periodicidad que señale el Reglamento, sin que pueda ser menor a seis veces al año.
+La Junta Directiva se reunirá ordinariamente, con la periodicidad establecida en la Ley de Entidades Paraestatales del Estado de Chihuahua.
 
 La Junta Directiva sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus miembros.
 
@@ -477,9 +479,13 @@ I Bis.- Establecer, conforme al programa sectorial, lo relativo al impulso de po
 
 II.- Aprobar los programas y presupuesto del Instituto, así como sus modificaciones, en los términos de la legislación aplicable. En lo tocante al presupuesto y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos del Estado de Chihuahua, bastará con la aprobación de la Junta Directiva;
 
-III.- Aprobar, de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles. El Director y en su caso los servidores públicos que deban intervenir, de conformidad con el Reglamento, realizarán tales actos bajo su responsabilidad, con sujeción a las directrices fijadas por la Junta Directiva;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-IV.- Aprobar, a propuesta del Director, la estructura básica de la organización del Instituto y las modificaciones que procedan a la misma;
+III.- Aprobar, de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles. La persona titular de la Dirección y, en su caso, las y los servidores públicos que deban intervenir, de conformidad con el Reglamento, realizarán tales actos bajo su responsabilidad, con sujeción a las directrices fijadas por la Junta Directiva;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+IV.- Aprobar, a propuesta de la persona titular de la Dirección, la estructura básica de la organización del Instituto y las modificaciones que procedan a la misma;
 
 V.- Autorizar la creación de comités de apoyo;
 
@@ -487,7 +493,7 @@ V.- Autorizar la creación de comités de apoyo;
 
 VI.- Establecer, con sujeción a las disposiciones legales relativas y con la intervención que corresponda a las dependencias estatales, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Instituto requiera para la prestación de sus servicios, de acuerdo a los procedimientos establecidos en el Reglamento de esta Ley.
 
-VII.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director, con la intervención que corresponda a los Órganos de Control Estatal;
+VII.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
 
 VIII.- Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios que realice el Instituto y verificar que los mismos se apliquen precisamente a los fines señalados, conforme a las instrucciones de la Coordinadora de Sector correspondiente;
 
@@ -503,7 +509,9 @@ XII.- Realizar los actos que sean necesarios para el cumplimiento de los objetiv
 
 XIII.- Formular los lineamientos que se estimen necesarios para racionalizar las estructuras de organización y el uso de los recursos disponibles, así como delinear las políticas específicas de apoyo a prioridades del sector deportivo, o bien, respecto de los asuntos que se consideren relevantes;
 
-XIV.- Aprobar, vigilar y evaluar el Programa Anual de Trabajo y los programas institucionales de corto, mediano y largo plazo que sean elaborados por el Director;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XIV.- Aprobar, vigilar y evaluar el Programa Anual de Trabajo y los programas institucionales de corto, mediano y largo plazo que sean elaborados por la persona titular de la Dirección;
 
 XV.- Evaluar los presupuestos del Instituto, en concordancia con el Plan Estatal de Desarrollo, los Programas Sectoriales y demás disposiciones relativas;
 
@@ -519,7 +527,9 @@ XVI.- Vigilar que el Instituto conduzca sus actividades en forma programada y co
 
 XVII.- Autorizar la creación de grupos de trabajo que coadyuven en la formulación y evaluación de programas institucionales;
 
-XVIII.- Autorizar la creación de Comités Técnicos Especializados de apoyo que el Presidente o una tercera parte de los miembros de la propia Junta Directiva, propongan para el cumplimiento de los objetivos y para el desarrollo oportuno y eficaz de las actividades que realice el Instituto;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XVIII.- Autorizar la creación de Comités Técnicos Especializados de apoyo que la persona titular de la Presidencia o una tercera parte de los integrantes de la propia Junta Directiva, propongan para el cumplimiento de los objetivos y para el desarrollo oportuno y eficaz de las actividades que realice el Instituto;
 
 XIX.- Aprobar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos transcendentes (sic) que regulen el funcionamiento del Instituto, así como las reformas o adiciones a dichos ordenamientos;
 
@@ -527,13 +537,21 @@ XX.- Aprobar el contenido de las actas que se levanten de las sesiones que se ce
 
 XXI.- Aprobar el calendario anual de sesiones;
 
-XXII.- Proporcionar al Comisario la información que solicite para el desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XXIII.- Analizar y considerar el informe que rinda el Comisario para la programación de actividades del Instituto, en sus aspectos preventivos y correctivos;
+XXII.- Proporcionar a la persona titular del Órgano Interno de Control la información que solicite para el desarrollo de sus funciones;
 
-XXIV.- Aprobar las medidas que proponga el Director para atender los informes que presente el comisario, resultantes de las auditorias, exámenes y evaluaciones que haya realizado;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XXV.- Delegar facultades a favor del Director o a favor de Delegados Especiales;
+XXIII.- Analizar y considerar el informe que rinda la persona titular del Órgano Interno de Control para la programación de actividades del Instituto, en sus aspectos preventivos y correctivos;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XXIV.- Aprobar las medidas que proponga la persona titular de la Dirección para atender los informes que presente la persona titular del Órgano Interno de Control, resultantes de las auditorías, exámenes y evaluaciones que haya realizado;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XXV.- Delegar facultades a favor de la persona titular de la Dirección o a favor de Delegados Especiales;
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -541,29 +559,31 @@ XXVI.- Ejercer las facultades que la Ley Orgánica del Poder Ejecutivo del Estad
 
 XXVII.- Determinar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar por concesionarse u otorgarse en uso las instalaciones a su cargo a los particulares o a otros entes de carácter público.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XXVIII.- Autorizar al Director para que ejerza facultades de dominio, administración, pleitos y cobranzas en nombre del Instituto, de conformidad con las disposiciones legales o reglamentarias aplicables.
+XXVIII.- Autorizar a la persona titular de la Dirección para que ejerza facultades de dominio, administración, pleitos y cobranzas en nombre del Instituto, de conformidad con las disposiciones legales o reglamentarias aplicables.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XXIX.- Autorizar al Director, con las limitaciones que al efecto se precisen, para que este pueda emitir, avalar y negociar títulos de crédito a nombre de Instituto.
+XXIX.- Autorizar a la persona titular de la Dirección, con las limitaciones que al efecto se precisen, para que este pueda emitir, avalar y negociar títulos de crédito a nombre de Instituto.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XXX.- Autorizar al Director, con las limitaciones que al efecto se determinen, para que este pueda comprometer asuntos en arbitrajes y celebrar transacciones en nombre del Instituto y bajo su responsabilidad.
+XXX.- Autorizar a la persona titular de la Dirección, con las limitaciones que al efecto se determinen, para que este pueda comprometer asuntos en arbitrajes y celebrar transacciones en nombre del Instituto y bajo su responsabilidad.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XXXI.- Autorizar al Director para ejercitar y desistirse de acciones judiciales, inclusive del Juicio de Amparo a nombre del Instituto.
+XXXI.- Autorizar a la persona titular de la Dirección para ejercitar y desistirse de acciones judiciales, inclusive del Juicio de Amparo a nombre del Instituto.
 
 ###### Artículo 22.
 
 El Director del Instituto será nombrado y removido libremente por el Gobernador del Estado, debiendo recaer tal nombramiento en persona que reúna los requisitos señalados en la Ley de Entidades Paraestatales del Estado de Chihuahua y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 23.
 
-El Director tendrá las siguientes atribuciones y obligaciones:
+La persona titular de la Dirección tendrá las siguientes atribuciones y obligaciones:
 
 I.- Administrar y representar legalmente al Instituto;
 
@@ -623,9 +643,13 @@ XXIV.- Celebrar contratos, convenios o acuerdos con terceros, tratándose de obr
 
 XXV.- Proponer a la Junta Directiva las modificaciones que procedan a la estructura básica de la organización del Instituto;
 
-XXVI.- Proporcionar al Comisario la información que solicite para el desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XXVII.- Proponer a la Junta Directiva las medidas conducentes para atender los informes que presente el comisario, resultantes de las auditorías, exámenes y evaluaciones que hayan realizado;
+XXVI.- Proporcionar a la persona titular del Órgano Interno de Control, la información que solicite para el desarrollo de sus funciones;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XXVII.- Proponer a la Junta Directiva las medidas conducentes para atender los informes que presente la persona titular del Órgano Interno de Control, resultantes de las auditorías, exámenes y evaluaciones que hayan realizado;
 
 XXVIII.- Celebrar y suscribir convenios de coordinación, colaboración y concertación inherentes a los objetivos del Instituto;
 
@@ -661,15 +685,21 @@ XXXV.- Las que señalen otras Leyes, Reglamentos, Decretos, Acuerdos y demás or
 
 El Director tendrá, además, las facultades que le delegue y confiera la Junta Directiva para administrar y representar legalmente al Instituto como mandatario del mismo.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-El órgano de vigilancia del Instituto estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública.
+El Instituto contará con un Órgano Interno de Control.
+
+Al frente del Órgano Interno de Control se encuentra una persona titular, quien será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública y quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las áreas de auditoría interna, de desarrollo y de mejora de la gestión, de denuncias e investigaciones y de responsabilidades, quienes serán designadas en los mismos términos.
+
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de su respectiva competencia, las facultades previstas en la Ley General de Responsabilidades Administrativas u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con las mismas correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 25.
 
-La actuación de los Comisarios se ajustará en todo caso a lo dispuesto por la Ley de Entidades Paraestatales del Estado de Chihuahua y por las demás disposiciones legales aplicables.
+La actuación de la persona titular del Órgano Interno de Control se ajustará en todo caso a lo dispuesto por la Ley de Entidades Paraestatales del Estado de Chihuahua, el Reglamento Interior de la Secretaría de la Función Pública y por las demás disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2006)</small>
 
@@ -2736,3 +2766,15 @@ P.O. 4 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO LXVIII/RFLEY/0271/2025 I P.O."]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
