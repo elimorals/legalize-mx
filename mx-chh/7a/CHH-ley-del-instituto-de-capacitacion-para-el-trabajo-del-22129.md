@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-de-capacitacion-para-el-trabajo-del-22129"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-12"
-last_updated: "2016-10-03"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2001.
 
@@ -87,6 +87,10 @@ VI. Contribuir con el desarrollo de las micro, pequeñas y medianas empresas a t
 
 VII. Liderar y promover la incorporación del uso de las Tecnologías de la Información y de las Comunicaciones en el quehacer formativo de los usuarios de los servicios del Instituto.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+VIII. Fomentar la igualdad de género en los capacitandos, así como desarrollar programas que la garanticen.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 3.
@@ -97,9 +101,9 @@ Para el cumplimiento de su objeto, el Instituto de Capacitación para el Trabajo
 
 I. Impartir capacitación en las áreas industriales, productivas y de servicios, a través de sus unidades.
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-II. Formular los planes y programas de capacitación o estudio que imparta, previa opinión de la Secretaría de Educación Pública del Poder Ejecutivo Federal, así como las modalidades de capacitación o educativas que garanticen la estructuración de aprendizajes que sean acordes con los requerimientos de la industria y los servicios para presentarlos a la consideración de la Junta Directiva.
+II. Formular los planes y programas de capacitación o estudio que imparta, previa opinión de la Secretaría de Educación Pública del Poder Ejecutivo Federal, así como las modalidades de capacitación o educativas que garanticen la estructuración de aprendizajes que, con perspectiva de género, sean acordes con los requerimientos de la industria y los servicios, para presentarlos a la consideración de la Junta Directiva.
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
 
@@ -133,9 +137,13 @@ X. Incorporar en las capacitaciones y programas que imparta el Instituto a trav�
 
 XI. Realizar las acciones necesarias de promoción y capacitación para que los alumnos sean capaces de elaborar sus propios planes de negocios.
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XII. Los (sic) demás que sean afines a su naturaleza.
+XII. Formular, con un enfoque prioritario de perspectiva de género, los planes y programas de capacitación o estudio que imparta el Instituto, asegurando que estructuren aprendizajes inclusivos y equitativos. Tales programas deberán ser acordes con los requerimientos de la industria y los servicios, y serán elaborados previa opinión de la Secretaría de Educación Pública del Poder Ejecutivo Federal, para su posterior presentación a la consideración de la Junta Directiva.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XIII. Los (sic) demás que sean afines a su naturaleza.
 
 ###### Artículo 4.
 
@@ -255,9 +263,11 @@ IV. Tener experiencia en el medio académico y laboral.
 
 V. Ser de amplia solvencia moral y profesional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-El Director General tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección General tendrá las siguientes facultades y obligaciones:
 
 I. Administrar y representar legalmente al Instituto, con las facultades de un Apoderado General para pleitos y cobranzas y actos de administración, con todas las facultades que requieran cláusula especial conforme a la ley y sustituir y delegar esta representación en uno o más apoderados para que la ejerzan individual o conjuntamente. Del uso de estas facultades dará inmediata cuenta a la Junta Directiva; y en actos de dominio requerirá de la autorización expresa de la misma para cada caso concreto.
 
@@ -277,9 +287,17 @@ VII. Someter a la aprobación de la Junta Directiva los proyectos de reglamento 
 
 VIII. Presentar semestralmente a la Junta Directiva el informe del desempeño de las actividades del Instituto, incluidos el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes.
 
-IX. Nombrar al personal de apoyo técnico y administrativo que se requiera para el adecuado funcionamiento del Instituto, y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-X. Las demás que le fije la Junta Directiva dentro de su ámbito de competencia.
+IX. Nombrar al personal de apoyo técnico y administrativo que se requiera para el adecuado funcionamiento del Instituto.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+X. Integrar la perspectiva de género como eje rector y transversal de sus programas de trabajo y actividades institucionales.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XI. Las demás que le fije la Junta Directiva, dentro de su ámbito de competencia.
 
 ###### Artículo 16.
 
@@ -516,3 +534,11 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0276/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
