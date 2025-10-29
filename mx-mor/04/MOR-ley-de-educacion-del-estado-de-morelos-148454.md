@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-148454"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-17"
-last_updated: "2024-09-04"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el número 5926 del Periódico Oficial del Estado de Morelos, el miércoles 17 de marzo de 2021.
 
@@ -243,7 +243,7 @@ El Estado está obligado a prestar servicios educativos con equidad y excelencia
 
 Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos o preferencia sexual o prácticas culturales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 13.
 
@@ -297,6 +297,10 @@ XVII. Proporcionar a los educandos los libros de texto gratuitos y materiales ed
 
 XVIII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia, así como la seguridad escolar y la sana convivencia.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XIX. Garantizar que los hablantes de lenguas originarias, tengan acceso a la educación obligatoria en su propia lengua y español.
+
 ###### ARTÍCULO 14.
 
 El Ejecutivo Estatal, a través de la autoridad educativa estatal, y los ayuntamientos, podrán celebrar convenios para coordinar las actividades a que se refiere el presente Capítulo.
@@ -327,7 +331,13 @@ IV. Fortalecer el tejido social para evitar la corrupción, a través del foment
 
 V. Prevenir y Combatir el Acoso Escolar, las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez, las mujeres y por razones de preferencias sexuales; así como el fomento de una cultura de igualdad y eliminación de estereotipos de género, y
 
-VI. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+VI. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+VII. Fortalecer una cultura ambiental que fomente el cuidado y respeto de la naturaleza; a fin de proteger los bienes naturales, el trato digno a los seres vivos, además de evitar el deterioro y la contaminación ambiental.
 
 ###### ARTÍCULO 17.
 
@@ -341,7 +351,9 @@ III. La responsabilidad ciudadana, sustentada en valores como la honestidad, la 
 
 IV. La participación en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
-V. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles, y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+V. El respeto y cuidado de la naturaleza, de la vida y el respeto a los seres vivos, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación entre la naturaleza y los procesos sociales, ambientales y económicos; así como la responsabilidad para la ejecución de acciones que garanticen la preservación ambiental y promuevan estilos de vida sostenibles, y
 
 VI. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado de Morelos.
 
@@ -371,7 +383,9 @@ VIII. Crear conciencia sobre las consecuencias negativas del Acoso Escolar, los 
 
 IX. Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pluralidad étnica, cultural y lingüística de la nación, el diálogo e intercambio intercultural sobre la base de equidad y respeto mutuo; así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del Estado y del país;
 
-X. Inculcar la educación ambiental en las niñas, niños, adolescentes y jóvenes para desarrollar la conciencia ambiental, a nivel individual y la cultura ambiental, a nivel comunitario, mediante la enseñanza de los conceptos y principios fundamentales de la ciencia ambiental, la ética ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente y la responsabilidad individual y social de adoptar medidas adecuadas, como elementos básicos para entender las causas, consecuencias y posibles soluciones de los problemas ambientales y lograr el desenvolvimiento armónico e integral del individuo y la sociedad, proporcionando los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+X. Inculcar la educación ambiental en las niñas, niños, adolescentes y jóvenes para inculcar el cuidado de la vida, desarrollar la conciencia ambiental, a nivel individual y la cultura ambiental, a nivel comunitario, mediante la enseñanza de los conceptos y principios fundamentales de la ciencia ambiental, la ética ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente y la responsabilidad individual y social de adoptar medidas adecuadas, como elementos básicos para entender las causas, consecuencias y posibles soluciones de los problemas ambientales y lograr el desenvolvimiento armónico e integral del individuo y la sociedad, proporcionando los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
 XI. Promover una cultura de igualdad de género y erradicación de la violencia contra las mujeres, desde la infancia, a través de literatura didáctica, actividades lúdicas, talleres escolares y otro tipo de actividades que permitan cambiar actitudes estereotipadas sobre los roles de género, que afectan el pleno desarrollo de la mujer;
 
@@ -389,13 +403,19 @@ XVII. Fomentar la cultura vial dentro de las instituciones educativas públicas 
 
 XVIII. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y el Estado, y
 
-XIX. Todos aquellos que contribuyan al bienestar y desarrollo del país y el Estado.
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XIX. Fomentar el cuidado de la naturaleza, los seres sintientes, así como de las condiciones ecosistémicas que sustentan la vida de los seres vivos, respetando su derecho a vivir de manera digna; y
+
+XX. Todos aquellos que contribuyan al bienestar y desarrollo del país y el Estado.
 
 ### CAPÍTULO III. DE LOS CRITERIOS DE LA EDUCACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 19.
 
-La educación que imparta el Estado, a través de los Organismos Descentralizados, y los particulares con autorización o con reconocimiento de validez oficial de estudios, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra la niñez y las mujeres, así como personas con discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en el Estado.
+La educación que imparta el Estado, a través de los Organismos Descentralizados, y los particulares con autorización o con reconocimiento de validez oficial de estudios, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra la niñez y las mujeres, así como personas con discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en el Estado:
 
 Además, responderá a los siguientes criterios, en los términos previstos por el artículo 16 de la Ley General:
 
@@ -407,7 +427,9 @@ III. Será humanista, al fomentar el aprecio y respeto por la dignidad de las pe
 
 IV. Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencia;
 
-V. Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+V. Inculcará los conceptos y principios de la ética ambiental y el cuidado de la vida, las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para respetar a la naturaleza y los seres sintientes, además de forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
 
 VI. Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades y de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos;
 
@@ -619,9 +641,11 @@ Todos los habitantes del Estado deben cursar la educación preescolar, primaria,
 
 El Estado, a través de los Organismos Descentralizados correspondientes, está obligada (sic) en forma progresiva a prestar servicios educativos con equidad y excelencia, para que todos los habitantes del mismo, puedan cursar la educación inicial, preescolar, primaria y secundaria; asimismo, están facultados para prestar servicios de educación normal y de formación, actualización, capacitación y superación profesional para los maestros, dando cumplimiento a las disposiciones generales emitidas por la autoridad educativa federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 40.
 
-En las escuelas de educación básica de la entidad se ofrecerán y ampliarán de manera complementaria, programas de informática, lengua extranjera, actividades artísticas, culturales, de educación física y deportes, de salud integral, así como orientación a una alimentación sana y nutritiva y otros programas educativos adecuados a las condiciones y necesidades de las regiones donde están ubicadas las escuelas.
+En las escuelas de educación básica de la entidad se ofrecerán y ampliarán de manera complementaria, programas de informática, lengua extranjera, actividades artísticas, culturales, lenguas originarias, de educación física y deportes, de salud integral, así como orientación a una alimentación sana y nutritiva y otros programas educativos adecuados a las condiciones y necesidades de las regiones donde están ubicadas las escuelas.
 
 Los programas de salud integral que se mencionan en el párrafo que antecede, deberán desarrollarse en apoyo con las autoridades estatales en materia de salud, así como con instituciones privadas, los cuales tendrán como principales objetivos los siguientes:
 
@@ -638,6 +662,18 @@ IV. Crear un paquete común garantizado de acciones concretas y medibles para la
 La educación básica, en sus diversos niveles, tendrá las adaptaciones requeridas para responder a las necesidades de la población rural dispersa y a las características lingüísticas y culturales de cada uno de los grupos indígenas y migratorios que habitan en el Estado. Para tal efecto, se promoverá entre estos últimos la educación bilingüe e intercultural, con libros y materiales didácticos, además del español, en su lengua materna.
 
 Para el caso de los servicios educativos correspondientes a los tipos medio superior y superior, los Organismos Descentralizados promoverán acciones similares.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 41 BIS. Para preservar la riqueza lingüística de Morelos y apoyar la interculturalidad, es prioritario considerar que los pueblos originarios tienen derecho a todos los tipos, niveles y modalidades de educación, sin discriminación y con respeto a sus derechos lingüísticos y culturales, para ello es necesario:
+
+I. Procurar que los docentes de la educación inicial y básica que laboran en escuelas establecidas en comunidades originarias, hablen y escriban las lenguas de la localidad y el español;
+
+II. Procurar establecer centros de investigación, información y documentación cultural en las distintas áreas lingüísticas de la entidad;
+
+III. Facilitar la libre circulación de las lenguas originarias en las instituciones educativas del Estado, y
+
+IV. Garantizar a los niños y jóvenes migrantes de pueblos originarios la educación intercultural y bilingüe en los medios urbanos y rurales a donde se trasladan a vivir de manera temporal o permanente.
 
 ### CAPÍTULO II. DE LA EDUCACIÓN INICIAL
 
@@ -761,6 +797,8 @@ La educación primaria que se imparta en el Estado, sea en instituciones educati
 
 La educación primaria incluye la educación regular, la de niñas y niños con necesidad de educación especial y la de adultos, en su caso; en tales consideraciones, los profesores de este nivel educativo deberán estar capacitados para poder detectar oportunamente a los alumnos con estas necesidades educativas y cumplir con las disposiciones que dicta la presente Ley en sus artículos 11, fracción II, 19, fracción VII y IX, por lo que los Organismos Descentralizados con sujeción a la disponibilidad presupuestal y conforme a las disposiciones legales que resulten aplicables, deberá gestionar la capacitación de éstos y promover la educación especial a fin de que los docentes desarrollen las competencias necesarias para la atención adecuada de las niñas y niños con éstas necesidades educativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 56.
 
 La educación primaria tiene las siguientes características y finalidades:
@@ -796,6 +834,10 @@ XIV. Orientar en el educando la adquisición de una conciencia de participación
 XV. Fortalecer la práctica de los valores y el respeto a los símbolos patrios, y
 
 XVI. Desarrollar el conocimiento y dominio del idioma inglés.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+XVIII (SIC). Desarrollar el conocimiento y dominio de la riqueza lingüística del estado de Morelos.
 
 ### CAPÍTULO V. DE LA EDUCACIÓN SECUNDARIA
 
@@ -1495,7 +1537,9 @@ I. El aprendizaje y el conocimiento que impulsen las competencias formativas y h
 
 II. El uso responsable, la promoción del acceso y la utilización de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en los procesos de la vida cotidiana;
 
-III. La adaptación a los cambios tecnológicos;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+III. El aprendizaje y el conocimiento que impulse las competencias formativas y habilidades digitales de los educandos y docentes que concienticen la importancia de una vida libre de violencia, del ciberacoso y de un sano desarrollo.
 
 IV. El trabajo remoto y en entornos digitales;
 
@@ -2514,3 +2558,35 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. Las acciones que deberá realizar la autoridad Educativa Estatal y los Organismos Descentralizados derivadas de la presente reforma, estarán supeditadas a la planeación, programación y disponibilidad presupuestal del Poder Ejecutivo, priorizando a pueblos y comunidades indígenas, así como zonas de alta y muy alta marginación, implementándose las mismas de manera gradual en el territorio Estatal, debiendo tener una cobertura total en los dos ciclos escolares posteriores a la entrada vigor del presente decreto.
 
 TERCERA. El presente decreto entrará en vigor el día siguiente de su publicación en el Periodo Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+[N. DE. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO QUINIENTOS CINCUENTA Y DOS POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Se remite el presente decreto al Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDA.- El presente decreto entrara en vigor al inicio del ciclo escolar inmediato a su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado.
+
+TERCERO.- La Secretaría de Educación en coordinación con el Instituto de Educación Básica ambos del estado de Morelos, en un plazo no mayor a 180 días naturales a partir de la vigencia del presente decreto deberá de realizar las adecuaciones necesarias a sus respectivos reglamentos.
+
+CUARTO.- Los centros de investigación, información y documentación cultural, se deberán de establecer hasta en tanto se cuente con la suficiencia presupuestal por parte de la Secretaría de Educación del estado de Morelos.
+
+QUINTO.- Se derogan las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS CINCUENTA Y CUATRO.- POR EL QUE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 16, SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 17, SE REFORMA LA FRACCIÓN X Y SE ADICIONA LA FRACCIÓN XIX RECORRIENDO LAS SUBSECUENTES DEL ARTÍCULO 18, Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 19, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS, EN MATERIA DE DERECHOS DE LA NATURALEZA Y RESPETO DE LOS SERES SINTIENTES”.]
+
+PRIMERA. Se remite el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS QUINCE POR EL QUE SE REFORMA LA FRACCIÓN III AL ARTÍCULO 137 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos; lo anterior, conforme a lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
