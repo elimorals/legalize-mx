@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-universidad-tecnologica-paso-del-norte-estado-de-9401
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-20"
-last_updated: "2016-10-03"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA UNIVERSIDAD TECNOLÓGICA PASO DEL NORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 20 de abril de 2013.
 
@@ -55,9 +55,11 @@ Se crea la Universidad Tecnológica Paso del Norte, como Organismo Público Desc
 
 La Universidad Tecnológica Paso del Norte se adhiere al Sistema Nacional de Universidades Tecnológicas y, por tanto, adopta como modelo pedagógico el establecido para ellas.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-La Universidad Tecnológica Paso del Norte, tendrá por objeto principal impartir Educación Técnica Superior, para formar Profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura, con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
+La Universidad Tecnológica Paso del Norte, tendrá por objeto principal impartir Educación Técnica Superior, para formar profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura y Posgrado a través de diferentes modalidades de estudios, con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
 
 ###### Artículo 4.
 
@@ -77,7 +79,9 @@ VI.- Crear la organización administrativa que le sea conveniente y contratar lo
 
 VII.- Planear, desarrollar e impartir programas de superación y actualización académica y dirigirlos tanto a la comunidad universitaria como a la población en general.
 
-VIII.- Impulsar estrategias de participación y concertación con los sectores público, privado y social para la realización de actividades productivas con un alto nivel de eficiencia y sentido social.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+VIII.- Impulsar estrategias de participación y concertación con los sectores público, privado y social, para la realización de actividades productivas, asesorías y servicios tecnológicos, con un alto nivel de eficiencia y sentido social.
 
 IX.- Administrar los bienes incorporados a su patrimonio, así como los ingresos que obtenga por los servicios que preste, con sujeción al marco legal aplicable según su naturaleza.
 
@@ -89,21 +93,29 @@ La Universidad Tecnológica Paso del Norte, contará con los órganos siguientes
 
 I.- Un Consejo Directivo.
 
-II.- Un Rector.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-III.- Los Secretarios y Directores de Área o de División que establezca el Estatuto Orgánico.
+II.- Una persona titular de la Rectoría.
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+III.- Las personas titulares de las Secretarías y Direcciones de Área o de División que establezca el Estatuto Orgánico.
 
 IV.- Los Órganos Colegiados que señale el Estatuto Orgánico.
 
-V.- Un Órgano de Vigilancia.
+V.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Además, el Organismo contará con un Órgano Interno de Control, mismo que se regirá conforme a lo dispuesto por el artículo 27 de este ordenamiento legal.
 
 ###### Artículo 6.
 
 El Consejo Directivo será el órgano máximo de gobierno de la Universidad Tecnológica Paso del Norte, y se integrará por:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-I.- El Secretario de Educación y Deporte del Estado, quien lo presidirá;
+I.- La persona titular de la Secretaría de Educación y Deporte, quien lo presidirá.
 
 II.- Un representante de la Secretaría de Hacienda del Ejecutivo del Estado.
 
@@ -117,13 +129,13 @@ Por cada miembro propietario habrá un suplente, quien será designado mediante 
 
 El carácter de miembro del Consejo Directivo será honorífico, por lo que no habrá lugar a remuneración alguna.
 
-Este Órgano de Gobierno contará con un Secretario, que será designado por el Presidente.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Este Órgano de Gobierno contará con una persona Secretaria, que será designada por la persona titular de la Presidencia.
 
 El Consejo Directivo se renovará totalmente cada dos años, pero sus integrantes podrán ser ratificados por períodos similares, siempre y cuando conserven la calidad por la que fueron designados o invitados. La renovación parcial se producirá por renuncia al cargo, muerte, incapacidad o pérdida del carácter por el que fueron designados o invitados.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-El Órgano de Vigilancia estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública del Estado, cuyas funciones serán las establecidas en la Ley de Entidades Paraestatales del Estado de Chihuahua, y las que se determinen en el Estatuto Orgánico que expida el Consejo Directivo.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 7.
 
@@ -183,15 +195,23 @@ IV.- Dar seguimiento a los acuerdos del Consejo.
 
 V.- Las demás que le señalen el Presidente en ejercicio de sus funciones, este Decreto y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 10.
 
-El Consejo Directivo sesionará ordinariamente cada dos meses, y de manera extraordinaria en cualquier tiempo que el asunto lo amerite.
+El Consejo Directivo sesionará ordinariamente, con la periodicidad establecida en la Ley de Entidades Paraestatales del Estado de Chihuahua y, de manera extraordinaria, en cualquier tiempo que el asunto lo amerite.
 
-I.- Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de sus miembros, siempre que esté presente su Presidente o quien deba suplirlo legalmente.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-II.- Los acuerdos se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
+I. Las sesiones serán válidas cuando el quórum se constituya con la mitad más uno de sus integrantes, siempre que esté presente la persona titular de la Presidencia o quien deba suplirla legalmente.
 
-III.- El Comisario asistirá con voz pero sin voto, a las Sesiones del Consejo Directivo.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+II. Los acuerdos se tomarán por mayoría de votos de los integrantes presentes y, en caso de empate, la persona titular de la Presidencia tendrá voto de calidad.
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+III. La persona titular del Órgano Interno de Control asistirá con voz, pero sin voto, a las Sesiones del Consejo Directivo.
 
 ###### Artículo 11.
 
@@ -329,6 +349,14 @@ En caso de que la Universidad Tecnológica Paso del Norte deje de cumplir sus fi
 
 En su caso, se podrá proponer al Congreso del Estado mediante formal iniciativa, la fusión o escisión de la Universidad Tecnológica Paso del Norte, cuando su actividad combinada o separada, según sea el caso, redunde en un incremento de eficiencia y productividad.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 27.
+
+Al frente del Órgano Interno de Control se encuentra una persona titular, quien será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública y quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las áreas de auditoría interna, de desarrollo y de mejora de la gestión, de denuncias e investigaciones y de responsabilidades, quienes serán designadas en los mismos términos.
+
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de su respectiva competencia, las facultades previstas en la Ley General de Responsabilidades Administrativas u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con las mismas correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
+
 T R A N S I T O R I OS
 
 ###### ARTÍCULO PRIMERO.
@@ -450,3 +478,15 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/RFLEY/0271/2025 I P.O.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
