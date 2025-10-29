@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-subsistema-de-preparatoria-abierta-y-88176"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-06"
-last_updated: "2016-10-03"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SUBSISTEMA DE PREPARATORIA ABIERTA Y TELEBACHILLERATO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 6 de junio de 2012.
 
@@ -153,17 +153,27 @@ Son autoridades del Subsistema de Preparatoria Abierta y Telebachillerato del Es
 
 I. La Junta Directiva.
 
-II. El Director General.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-III. Los Directores Académico y Administrativo.
+II. La persona titular de la Dirección General.
 
-IV. Los Jefes de Unidades.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-V. Un Órgano de Vigilancia.
+III. Las personas titulares de las Direcciones Académica y Administrativa.
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+IV. Las personas titulares de las Jefaturas de Unidades.
+
+V. (DEROGADA, P.O. 29 DE OCTUBRE DE 2025)
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
 Para el mejor desempeño de sus funciones, el Organismo contará con las Oficinas Regionales de Servicios que sean aprobadas por la Junta Directiva, siempre que se justifiquen y cuenten con el respaldo presupuestal respectivo.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Además, el Organismo contará con un Órgano Interno de Control, mismo que se regirá conforme a lo dispuesto en el Título Quinto de esta Ley.
 
 ### CAPÍTULO II. De la Junta Directiva
 
@@ -235,9 +245,11 @@ IV. Dar seguimiento a los acuerdos de la Junta.
 
 V. Las demás que le señale el Presidente en ejercicio de sus funciones, esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 12.
 
-La Junta Directiva celebrará sesiones ordinarias cada dos meses, las que serán convocadas por su Presidente. Las sesiones extraordinarias se podrán convocar en cualquier tiempo por el Presidente o a solicitud escrita de por lo menos tres de sus integrantes.
+La Junta Directiva celebrará sesiones ordinarias, con la periodicidad establecida en la Ley de Entidades Paraestatales del Estado de Chihuahua, las que serán convocadas por la persona que ocupe la Presidencia. Las sesiones extraordinarias se podrán convocar en cualquier tiempo por la persona que ocupe la Presidencia, o a solicitud escrita de por lo menos tres de sus integrantes.
 
 ###### ARTÍCULO 13.
 
@@ -477,23 +489,25 @@ Serán Estudiantes o Usuarios del Subsistema de Preparatoria Abierta y Telebachi
 
 Las agrupaciones de Estudiantes o Usuarios del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua se organizarán, en su caso, en la forma que ellos determinen y se mantendrán independientes de grupos políticos, religiosos, sindicales, así como de las propias autoridades del Organismo.
 
-## TÍTULO QUINTO. DEL ÓRGANO DE VIGILANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-### CAPÍTULO ÚNICO. Del Comisario Público
+## TÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO ÚNICO. Del Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 34.
 
-El Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el titular de la Secretaría de la Función Pública del Estado.
+Al frente del Órgano Interno de Control se encuentra una persona titular, quien será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública y quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las áreas de auditoría interna, de desarrollo y de mejora de la gestión, de denuncias e investigaciones y de responsabilidades, quienes serán designadas en los mismos términos.
 
-El Comisario Público evaluará el desempeño general y por funciones del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública del Estado le asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas, la Junta Directiva y el Director General deberán proporcionar la información que solicite el Comisario.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de su respectiva competencia, las facultades previstas en la Ley General de Responsabilidades Administrativas u ordenamiento legal en materia de responsabilidades administrativas aplicable), así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con las mismas correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### ARTÍCULO 35.
 
-Las facultades y obligaciones del Comisario Público serán las previstas en las leyes aplicables respecto a la Secretaría de la Función Pública del Estado.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
@@ -680,3 +694,15 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVIII/RFLEY/0271/2025 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
