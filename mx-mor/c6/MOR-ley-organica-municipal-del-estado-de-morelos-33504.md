@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2025-07-09"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -266,6 +266,10 @@ III.- Cabildo.- Es la sesión en la cual se reúne el Ayuntamiento para delibera
 IV.- Cabildo Abierto.- Es la sesión en la cual se reúne el Ayuntamiento en sede oficial o fuera de ella, exclusivamente para informar, escuchar y atender la problemática ciudadana que será expuesta de viva voz a los miembros del Ayuntamiento;
 
 V.- CONOCER.- Al Consejo Nacional de Normalización y Certificación de Competencias Laborales.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+VI.- Persona con discapacidad.- Toda persona que tenga deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo, que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas.
 
 ## TÍTULO SEGUNDO. DE LOS ELEMENTOS DEL MUNICIPIO
 
@@ -729,7 +733,7 @@ V.- Los Ayuntamientos podrán acordar por mayoría de sus miembros, integrar com
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2022)</small>
 
-ARTÍCULO 24 BIS.- Todos los ayuntamientos deberán de crear, instalar o fortalecer la dirección denominada Instancia Municipal de la Mujer, la cual estará encargada de dirigir la política pública a favor de las mujeres en el municipio.
+Artículo 24 bis.- Todos los ayuntamientos deberán de crear, instalar o fortalecer la dirección denominada Instancia Municipal de la Mujer, la cual estará encargada de dirigir la política pública a favor de las mujeres en el municipio.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
 
@@ -739,21 +743,17 @@ Así también, desde el inicio de sus funciones constitucionales, los Ayuntamien
 
 Para el pleno desarrollo de sus funciones ambas instancias se procurarán que cuenten con el presupuesto, personal y estructura orgánica suficiente para el desarrollo de sus actividades durante todo el ejercicio constitucional del municipio.
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-Artículo 24 ter.- Los ayuntamientos deberán crear una instancia de atención a las personas con discapacidad, la que tendrá la obligación de implementar las políticas públicas, programas y acciones para este sector social, en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas con alguna condición de discapacidad como una medida de inclusión en los ayuntamientos.
+Artículo 24 ter.- Los ayuntamientos deberán crear una instancia de atención a las personas con discapacidad, la que tendrá la obligación de elaborar, proponer e implementar las políticas públicas, programas y acciones, así como deberá coordinar los procesos para garantizar el derecho a la consulta para este sector social en cada uno de los municipios, por lo que se le asignará el presupuesto municipal correspondiente para estos efectos. La persona titular de la Dirección de esta instancia deberá ser una persona con discapacidad, lo cual constituye una medida de inclusión en los ayuntamientos, quien debe contar con la trayectoria de activismo social, experiencia y conocimientos necesarios en esta materia para el desempeño de su cargo.
 
 > <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
 
-###### Artículo 24 Quater.
-
-Los 36 municipios del estado de Morelos deberán de crear la Unidad de Derechos Humanos, Búsqueda de Personas y Atención a Víctimas, la cual estará encargada de dirigir las políticas públicas y coadyuvar en las jornadas de búsqueda de personas y atención a víctimas al interior del municipio.
+Artículo 24 quater.- Los 36 municipios del estado de Morelos deberán de crear la Unidad de Derechos Humanos, Búsqueda de Personas y Atención a Víctimas, la cual estará encargada de dirigir las políticas públicas y coadyuvar en las jornadas de búsqueda de personas y atención a víctimas al interior del municipio.
 
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2023)</small>
 
-###### Artículo 24 Quinquies.
-
-Los ayuntamientos deberán crear una Dirección de Atención a la Diversidad Sexual, la que tendrá la obligación de implementar las políticas públicas para las poblaciones de la diversidad sexual en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas de la diversidad sexual como una medida de inclusión en los ayuntamientos.
+Artículo 24 quinquies.- Los ayuntamientos deberán crear una Dirección de Atención a la Diversidad Sexual, la que tendrá la obligación de implementar las políticas públicas para las poblaciones de la diversidad sexual en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas de la diversidad sexual como una medida de inclusión en los ayuntamientos.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
 
@@ -941,11 +941,11 @@ En el último año de la gestión administrativa del Ayuntamiento, el informe se
 
 Para lo no previsto en la presente Ley sobre el funcionamiento de los Ayuntamientos, se estará a lo que dispongan su Bando de Policía y Gobierno y sus Reglamentos Municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 38.
 
-Los ayuntamientos tienen a su cargo el gobierno de sus respectivos municipios, por lo cual están facultados para:
+Los Ayuntamientos tienen a su cargo el gobierno de sus respectivos Municipios, por lo cual están facultados para:
 
 I. Ejercer el derecho de iniciar Leyes y decretos ante el Congreso, en los términos de la fracción IV del Artículo 42 de la Constitución Política local;
 
@@ -1141,9 +1141,9 @@ LXVIII. Las demás que les concedan Las Leyes, Reglamentos y otras disposiciones
 
 LXX (SIC). Resolver en relación a la admisión y trámite de Iniciativas Populares Administrativas conforme a lo establecido en la Sección Segunda, del Capítulo III, de la Ley de Participación Ciudadana del Estado de Morelos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-LXXI. Promover los derechos humanos y diseñar e implementar políticas públicas, acciones y programas para la población de personas con discapacidad, con el objetivo de promover a su favor la Igualdad y prevenir discriminación en su contra.
+LXXI. Promover los derechos humanos y diseñar e implementar políticas públicas, acciones y programas para la población de personas con discapacidad, con el objetivo de promover a su favor la Igualdad y prevenir discriminación en su contra. En la elaboración de políticas públicas, reglamentos municipales y en otros procesos de adopción de decisiones sobre cuestiones relacionadas con las personas con discapacidad, deberá celebrar consultas estrechas y colaborará activamente con las personas con discapacidad, incluidos los niños y las niñas con discapacidad, a través de las organizaciones que las representan; y
 
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
 
@@ -4760,3 +4760,13 @@ PRIMERO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Est
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial “Tierra y Libertad” Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS TREINTA Y SIETE POR EL QUE SE REFORMAN LOS ARTÍCULOS 5 BIS, 24 TER Y 38, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA DE PROGRESIVIDAD DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+PRIMERO.- Remítase el presente Decreto a la Gobernadora Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
