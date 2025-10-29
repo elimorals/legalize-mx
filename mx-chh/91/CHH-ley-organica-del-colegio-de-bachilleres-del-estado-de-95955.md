@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-colegio-de-bachilleres-del-estado-de-95955"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-09-21"
-last_updated: "2023-07-12"
+last_updated: "2025-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 21 de septiembre de 2013.
 
@@ -159,6 +159,10 @@ I. La Junta de Gobierno, y
 
 II. La Dirección General.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+Además, el Organismo contará con un Órgano Interno de Control, mismo que se regirá conforme a lo dispuesto por el Título Sexto de esta Ley.
+
 ### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
 
 ###### ARTÍCULO 11.
@@ -213,9 +217,11 @@ X. Las demás que le confieran otras disposiciones legales aplicables.
 
 El Secretario de la Junta de Gobierno, por instrucciones del Presidente, elaborará el orden del día y circulará los citatorios para la celebración de las sesiones respectivas, llevando cuidadosamente un Libro de Actas, debiendo para su ratificación, ser rubricadas por los miembros de la propia Junta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 14.
 
-La Junta de Gobierno sesionará trimestralmente en forma ordinaria, y extraordinaria cuando su Presidente las convoque para tratar asuntos cuya naturaleza lo amerite.
+La Junta de Gobierno sesionará, en forma ordinaria, con la periodicidad contemplada en la Ley de Entidades Paraestatales del Estado de Chihuahua y, extraordinaria, cuando la persona que ocupe la Presidencia las convoque para tratar asuntos cuya naturaleza lo amerite.
 
 Los acuerdos de la Junta de Gobierno se tomarán por mayoría de votos, y el quórum se integrará con la asistencia de la mitad más uno de sus miembros. En caso de empate el Presidente tendrá voto de calidad.
 
@@ -425,51 +431,13 @@ Para el cumplimiento de sus funciones, y salvo disposición en contrario de la l
 
 Asimismo será el encargado de todos los aspectos propios de su naturaleza y relacionados con la asesoría jurídica al Director General, a las Unidades Administrativas, así como los demás asuntos que el primero le encomiende directamente.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 #### SECCIÓN 5. DE LA CONTRALORÍA INTERNA
 
 ###### ARTÍCULO 25.
 
-El "COBACH" contará con una Contraloría Interna, órgano interno de control, cuyo titular tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-I. Establecer coordinación para la óptima operación del Sistema Estatal de Control y Evaluación con la Secretaría de la Función Pública del Estado.
-
-II. Elaborar el Programa Anual de Actividades que sea de su competencia, de acuerdo a las normas y lineamientos establecidos.
-
-III. Informar al Director General sobre las observaciones que detecte.
-
-IV. Verificar el adecuado manejo y la comprobación del presupuesto autorizado, a fin de que los recursos se apliquen de manera correcta.
-
-V. Analizar y verificar que los estados financieros estén formulados de acuerdo con los principios de contabilidad aplicables.
-
-VI. Vigilar que el "COBACH" cumpla oportunamente con sus obligaciones fiscales.
-
-VII. Verificar que las Unidades Administrativas del "COBACH" cumplan con sus funciones asignadas.
-
-VIII. Vigilar el adecuado uso de los bienes muebles e inmuebles del "COBACH".
-
-IX. Implementar sistemas de control interno con el objeto de resguardar los bienes del "COBACH".
-
-X. Vigilar que se cumpla con el tabulador de sueldos autorizado.
-
-XI. Vigilar que la adquisición de bienes y servicios se realice dentro de la normatividad establecida.
-
-XII. Practicar auditorías internas financieras y administrativas.
-
-XIII. Informar permanentemente al Director General de las actividades realizadas.
-
-XIV. Iniciar el procedimiento administrativo cuando se presente una queja o denuncia formulada en contra del personal de confianza del "COBACH" que incurra en responsabilidades administrativas.
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-XV. Proponer, por conducto del Director General, al Presidente de la Junta de Gobierno la aplicación de sanciones administrativas al personal del "COBACH" y notificar de ello a la Secretaría de la Función Pública del Estado.
-
-XVI. Elaborar las actas y llevar a cabo los procedimientos de entrega-recepción de los funcionarios del "COBACH".
-
-XVII. Llevar el control y registro de las actas circunstanciadas y de las observaciones que se deriven de las auditorías que ameriten la instauración de un procedimiento administrativo de responsabilidades y las sanciones impuestas al personal del "COBACH".
-
-XVIII. Las demás que dentro de su competencia le otorguen el Director General bajo su ámbito competencial y otros ordenamientos legales aplicables.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
 ### CAPÍTULO IV. DEL PATRONATO
 
@@ -609,15 +577,13 @@ Serán considerados trabajadores de base, los no incluidos en los párrafos que 
 
 Las relaciones de trabajo entre el "COBACH" y sus trabajadores se regirán por lo dispuesto en el apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-#### SECCIÓN 3. DEL COMISARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+#### SECCIÓN 3. DE LA CUENTA PÚBLICA ANUAL
 
 ###### ARTÍCULO 46.
 
-El órgano de vigilancia estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública del Estado y tendrá además las facultades previstas en esta Ley.
-
-El Comisario evaluará el desempeño general del "COBACH" y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Función Pública le asigne específicamente conforme a la Ley.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2025)
 
 ###### ARTÍCULO 47.
 
@@ -653,9 +619,11 @@ Los derechos y obligaciones de los alumnos quedarán debidamente especificados e
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
 ###### ARTÍCULO 52.
 
-El personal del "COBACH" será responsable y sujeto al procedimiento y a las sanciones correspondientes, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua, la presente Ley y las demás disposiciones legales aplicables.
+El personal del "COBACH" será responsable y sujeto al procedimiento y a las sanciones correspondientes, en los términos de la Ley General de Responsabilidades Administrativas, la presente Ley y las demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 53.
 
@@ -782,6 +750,22 @@ En su caso, se podrá proponer al Congreso del Estado, mediante formal iniciativ
 ###### ARTÍCULO SEGUNDO.
 
 ...
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+## TÍTULO SEXTO. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+### CAPÍTULO ÚNICO. DE SU FUNCIONAMIENTO
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)</small>
+
+###### ARTÍCULO 65.
+
+Al frente del Órgano Interno de Control se encuentra una persona titular, quien será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, que dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública y quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las áreas de auditoría interna, de desarrollo y de mejora de la gestión, de denuncias e investigaciones y de responsabilidades, quienes serán designadas en los mismos términos.
+
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de su respectiva competencia, las facultades previstas en la Ley General de Responsabilidades Administrativas u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con las mismas correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 T R A N S I T O R I O S
 
@@ -918,3 +902,15 @@ El Colegio de Bachilleres del Estado de Chihuahua, emitirá y aprobará la norma
 ###### ARTÍCULO TERCERO.
 
 El Colegio de Bachilleres del Estado de Chihuahua, realizará las previsiones presupuestales necesarias para brindar viabilidad financiera al programa "Casa de la Cultura COBACH".
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVIII/RFLEY/0271/2025 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
