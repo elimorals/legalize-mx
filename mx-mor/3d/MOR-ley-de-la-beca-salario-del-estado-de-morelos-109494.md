@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-beca-salario-del-estado-de-morelos-109494"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-19"
-last_updated: "2015-08-19"
+last_updated: "2025-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE LA BECA SALARIO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO QUINIENTOS OCHENTA Y DOS POR EL QUE SE ABROGA LA LEY DE LA BECA SALARIO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 29 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LA LEY DE LA BECA SALARIO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de agosto de 2015.
 
@@ -454,3 +456,13 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO QUINIENTOS OCHENTA Y DOS POR EL QUE SE ABROGA LA LEY DE LA BECA SALARIO DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Estado de Morelos.
+
+SEGUNDA. Remítase el presente Decreto a la titular del Poder Ejecutivo Estatal, para los efectos constitucionales procedentes.
