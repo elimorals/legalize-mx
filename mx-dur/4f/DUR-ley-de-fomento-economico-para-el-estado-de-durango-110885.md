@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2023-05-07"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -103,13 +103,17 @@ XIII. Sentar las bases para facilitar el surgimiento, consolidación y maduraci�
 
 XIV. Impulsar políticas de transformación tecnológica, y la incorporación a la economía digital de las micro, pequeñas y medianas empresas;
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XV. Establecer las bases para implementar políticas públicas que promuevan la generación de una economía basada en el conocimiento; y
+XV. Establecer las bases para implementar políticas públicas que promuevan la generación de una economía basada en el conocimiento;
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XVI. Fortalecer los vínculos jurídicos, administrativos y de cooperación, entre la administración pública federal, el Estado y los municipios, para impulsar un desarrollo económico congruente con los esfuerzos de planeación en los niveles nacional, regional, estatal y municipal, y de zonas con alta integración económica.
+XVI. Fortalecer los vínculos jurídicos, administrativos y de cooperación, entre la administración pública federal, el Estado y los municipios, para impulsar un desarrollo económico congruente con los esfuerzos de planeación en los niveles nacional, regional, estatal y municipal, y de zonas con alta integración económica; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XVII. Fomentar acciones en el sector productivo de la entidad, en coordinación con las instancias competentes, para la disminución y erradicación de la brecha salarial por razones de género, promoviendo prácticas de igualdad sustantiva que fortalezcan la productividad, la competitividad y el desarrollo económico del Estado.
 
 ###### ARTÍCULO 4.
 
@@ -1003,13 +1007,21 @@ X. Generar líneas específicas de apoyo para iniciativas empresariales, de alto
 
 XI. Fomentar la creación y uso de herramientas disponibles en internet, y las de tecnología digital e informática, para el desarrollo y consolidación de emprendimientos, que mejoren el acceso a la internacionalización de sus productos y servicios, y a los nuevos procesos de comercialización, organización y producción;
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XII. Diseñar e implementar estrategias que fortalezcan el vínculo de los actores del ecosistema emprendedor, para impulsar el surgimiento y consolidación de proyectos emprendedores viables; y
+XII. Diseñar e implementar estrategias que fortalezcan el vínculo de los actores del ecosistema emprendedor, para impulsar el surgimiento y consolidación de proyectos emprendedores viables;
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
 XIII. Realizar acciones de asesoría y vinculación de emprendedores, con el ente obligado correspondiente, en el desarrollo y protección intelectual de invenciones e innovaciones tecnológicas y signos distintivos.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XIV. Fomentar el emprendimiento a través de la capacitación, utilización y creación de plataformas y aplicaciones digitales para la venta de servicios y productos elaborados y/o comercializados por mujeres emprendedoras; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XV. Promover la instalación de espacios físicos y digitales que fomenten la comercialización de productos y servicios generados por la actividad emprendedora del Estado.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1038,6 +1050,42 @@ El Gobernador del Estado, por conducto de la Secretaría, y en coordinación con
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
 
 Para la implementación de los programas, la Secretaría convendrá con instituciones educativas de nivel superior, para que lleven a cabo tareas de información, asesoría, y/o incubación y aceleración de los proyectos de emprendimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 50 BIS.
+
+La Secretaría de Desarrollo Económico, en el ámbito de su competencia, implementará acciones de Emprendimiento Profesional, al menos en un programa o componente de emprendimiento juvenil por ejercicio fiscal, con fundamento en el artículo 19 Bis de esta Ley.
+
+Para efectos de esta Ley, se entiende por Emprendimiento Profesional a la actividad económica formal por cuenta propia que realiza una persona física sin relación de subordinación, de manera individual o en asociación, consistente en la prestación independiente de servicios profesionales acordes a su formación y, en su caso, a los requisitos de habilitación legal aplicables, a través de despacho, consultorio, estudio o figura análoga, con cumplimiento fiscal y regulatorio, y con vocación de crecimiento susceptible de generar empleo en el corto o mediano plazo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 50 TER.
+
+La Secretaría de Desarrollo Económico, en el ámbito de su competencia, podrá implementar acciones de Emprendimiento Profesional en los programas, mediante los siguientes ejes de acción, de manera enunciativa y no limitativa:
+
+I. Realizar campañas de asesoría legal y fiscal para la constitución de sociedades profesionales que operen formalmente;
+
+II. Difusión y acceso a mercados, mediante jornadas de promoción de servicios de sociedades profesionales de reciente creación, redes de negocios, encadenamientos productivos y plataformas digitales;
+
+III. Formación y mentoría en finanzas, administración, mercadotecnia digital, tecnologías de la información y habilidades directivas;
+
+IV. Vinculación estratégica, mediante convenios con instituciones de educación superior, colegios de profesionistas y cámaras u organismos empresariales, en coordinación con la Secretaría de Educación; y
+
+VI (SIC). Creación de un Padrón Estatal de Profesionistas Emprendedores para seguimiento y acceso a los beneficios del Programa.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 50 QUÁTER.
+
+Las modalidades, requisitos, montos, topes, indicadores, seguimiento y verificación de los ejes se precisarán en las Reglas de Operación a que se refiere el artículo 19 Bis de la presente Ley, sin generar derecho subjetivo, sujetos a disponibilidad presupuestaria y sin duplicidad de apoyos con otros programas.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+ARTÍCULO 50 QUINQUIES.
+
+Podrán acceder a los beneficios de esta modalidad las personas jóvenes que inicien su emprendimiento de carácter empresarial dentro de los cinco años siguientes a la expedición de su título y cédula profesional.
 
 ###### ARTÍCULO 51.
 
@@ -2326,3 +2374,35 @@ P.O. 7 DE MAYO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 208 POR EL QUE SE REFORMAN Y ADICIONAN DISPOSICIONES DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 209 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 50 BIS, 50 TER, 50 QUÁTER Y 50 QUINQUIES DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO, EN MATERIA DE AUTOEMPLEO PROFESIONALIZADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Desarrollo Económico ajustará sus Reglas de Operación para incorporar los criterios previstos en los artículos 50 Bis a 50 Quinquies.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. TRANSITOROS DEL “DECRETO 210 POR EL QUE SE REFORMAN Y ADICIONAN DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO Y DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
