@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-89412
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2025-03-20"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 14 de septiembre de 2012.
 
@@ -105,6 +105,10 @@ V. La participación e inclusión plenas y efectivas en la sociedad; y
 
 VI. El respeto de la dignidad, la autonomía individual, incluida la libertad de tomar las propias decisiones, y la independencia de las personas.
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+VII. La progresividad de los derechos para las personas con discapacidad.
+
 ### Capítulo II. Derechos de las Personas con Discapacidad
 
 Derechos de las personas con discapacidad
@@ -166,6 +170,10 @@ XVI. A no ser discriminado por motivos de su discapacidad; y
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XVII. A no ser discriminado y a que no se le restrinja la inclusión de niñas, niños y adolescentes con discapacidad, el derecho a la educación ni su participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+En el caso de las personas con discapacidad permanente menores de sesenta y cinco años, el Estado garantizará la entrega de una pensión no contributiva.
 
 ### Capítulo III. Autoridades y sus Atribuciones
 
@@ -230,6 +238,10 @@ X. Coordinarse con las autoridades y con empresas privadas, con la finalidad de 
 XI. Celebrar convenios y acuerdos para el cumplimiento del objeto de esta Ley;
 
 XII. Otorgar estímulos fiscales a personas físicas o morales que realicen acciones a favor de las personas con discapacidad, de conformidad con lo establecido en la legislación fiscal;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XII Bis. Promover acciones afirmativas positivas consistentes en apoyos de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida política, económica, social y cultural;
 
 XIII. Promover medidas para erradicar la discriminación hacia las personas con discapacidad;
 
@@ -894,3 +906,15 @@ Artículo Segundo. El Poder Ejecutivo del Estado y los ayuntamientos presentará
 Adecuaciones
 
 Artículo Tercero. La persona titular del Poder Ejecutivo y los ayuntamientos dispondrán de un plazo que no excederá de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que permitan dar cumplimiento a las nuevas atribuciones que se asignan.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 93 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Recursos para dar cumplimiento al presente Decreto
+
+Artículo Segundo. Las autoridades correspondientes destinarán anualmente y conforme al principio de progresividad los recursos suficientes y oportunos, para dar cumplimiento al presente Decreto.
