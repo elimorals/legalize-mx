@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cambio-climatico-del-estado-de-durango-95588"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-07"
-last_updated: "2025-10-23"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de julio de 2013.
 
@@ -167,11 +167,11 @@ XXVIII. ARBORIZAR: Plantar árboles, preferentemente de especies frutales, en la
 
 ### CAPÍTULO II. DE LOS CRITERIOS GENERALES PARA LA DEFINICIÓN DE POLÍTICAS DE MITIGACIÓN Y ADAPTACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 3.
 
-Los habitantes del Estado deberán participar, de manera ordenada y activa, en la mitigación y prevención de la vulnerabilidad ante el cambio climático.
+Los habitantes del Estado deberán participar, de manera ordenada, informada, corresponsable y activa, en la mitigación y prevención de la vulnerabilidad ante el cambio climático.
 
 Para el cumplimiento de los objetivos establecidos en esta Ley, el Plan Estatal de Desarrollo, los Programas Sectoriales y la Estrategia Estatal, se deberán fijar metas y objetivos específicos de mitigación y adaptación e indicadores de sustentabilidad de las acciones.
 
@@ -323,7 +323,9 @@ II. Proponer al Titular del Poder Ejecutivo proyectos de normas y reglamentos en
 
 III. Vigilar el cumplimiento de la Estrategia Estatal;
 
-IV. Promover la participación social, conforme a lo dispuesto en esta Ley;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+IV. Promover la participación social activa, incluyente, informada y corresponsable, conforme a lo dispuesto en esta Ley;
 
 V. Coordinar con los municipios la definición de lineamientos y directrices dispuestos en esta Ley;
 
@@ -355,7 +357,9 @@ I. Formular, e instrumentar las políticas, planes o programas municipales de ca
 
 II. Promover y realizar acciones e inversiones para la conservación, mejoramiento y crecimiento de los centros de población, atendiendo a los mapas de riesgo;
 
-III. Promover la participación social, conforme a lo dispuesto en esta Ley;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+III. Promover la participación social activa, incluyente, informada y corresponsable, conforme a lo dispuesto en esta Ley;
 
 IV. Celebrar con el Estado, con otros municipios de la Entidad o con los particulares, convenios y acuerdos de coordinación y concertación que apoyen los objetivos y prioridades previstos en la Estrategia Estatal;
 
@@ -405,9 +409,19 @@ IX. Identificar oportunidades, evaluar y, en su caso, aprobar proyectos de reduc
 
 X. Impulsar el desarrollo de proyectos de investigación de interés estatal, en relación con el cambio climático;
 
-XI. Promover el desarrollo y registro de proyectos de reducción y de captura de emisiones de gases de efecto invernadero, en términos de las disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
+XI. Promover el desarrollo y registro de proyectos de reducción y de captura de emisiones de gases de efecto invernadero, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XII. Promoverá el acceso y difusión de la información relacionada con el impacto del cambio climático y el cuidado del medio ambiente, entre los habitantes de la entidad;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XIII. Fomentará el conocimiento del derecho de acceso a la justicia en asuntos ambientales y sus alcances entre la población de la entidad, y
+
+XIV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 16.
 
@@ -535,7 +549,9 @@ IV. Se promoverá el aprovechamiento del gas asociado a la explotación de los y
 
 V. Se apoyará e impulsará a las empresas de los sectores social y privado para que reduzcan sus emisiones;
 
-VI. Se promoverá el incremento del transporte público masivo y con altos estándares de eficiencia, privilegiando la sustitución de combustibles fósiles y el desarrollo de sistemas de transporte sustentable urbano y suburbano, público y privado;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+VI. Se promoverá el incremento del transporte público masivo y con altos estándares de eficiencia, privilegiando la sustitución de combustibles fósiles y el desarrollo de sistemas de transporte sustentable urbano y suburbano, público y privado con menor costo ambiental; así mismo se impulsará la movilidad activa o no motorizada y la electromovilidad;
 
 VII. Se promoverán prácticas de eficiencia energética, la sustitución del uso de combustibles fósiles por fuentes renovables de energía y la transferencia e innovación de tecnologías limpias;
 
@@ -720,6 +736,22 @@ TERCERO. Se derogan todas las disposiciones legales y administrativas que se opo
 P.O. 23 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 200 QUE CONTIENE REFORMA A LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 204 EL CUAL REFORMA Y ADICIONA A LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 207 EL CUAL REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
