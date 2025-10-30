@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-del-estado-de-nayarit-180928"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-07-17"
-last_updated: "2025-10-03"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 3 DE OCTUBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Número 011 del Periódico Oficial del Estado de Nayarit, el jueves 17 de julio de 2025.
 
@@ -303,7 +301,9 @@ En caso de ausencia de la persona titular de la Presidencia, ésta será suplida
 
 Son atribuciones de la persona titular de la Presidencia del Tribunal Superior:
 
-I. Representar al Poder Judicial y al Tribunal Superior o designar en su caso, representante;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+I. Representar al Poder Judicial en el ámbito de su competencia y al Tribunal Superior o designar en su caso, representante;
 
 II. Presidir el Pleno del Tribunal Superior;
 
@@ -345,9 +345,11 @@ XX. Informar de los convenios cuando comprometan al Poder Judicial por un plazo 
 
 XXI. Las demás que le confieran esta y otras disposiciones legales
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-Para el despacho de los asuntos de su competencia, la oficina de la Presidencia del Tribunal Superior contará, con las Secretarías Técnica, particular y privada; así como el personal necesario para el correcto desarrollo de sus funciones, conforme a la disponibilidad presupuestal.
+Para el despacho de los asuntos de su competencia, la oficina de la Presidencia del Tribunal Superior contará, con las Secretarías Técnica, particular y privada, la Unidad de Comunicación Social; así como el personal necesario para el correcto desarrollo de sus funciones, conforme a la disponibilidad presupuestal.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LAS MAGISTRADAS Y MAGISTRADOS
 
@@ -407,9 +409,11 @@ Las Magistradas o Magistrados no podrán dentro del periodo de un año, plazo en
 
 ### CAPÍTULO V. DE LA SECRETARÍA GENERAL DE ACUERDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 23.
 
-El Tribunal Superior de Justicia contará con una Secretaría General de Acuerdos, la persona titular será nombrada por el Pleno y deberá reunir los siguientes requisitos:
+El Tribunal Superior contará con una Secretaría General de Acuerdos, la persona titular será nombrada por el Pleno a propuesta de su Presidencia y deberá reunir los siguientes requisitos:
 
 I. Ser ciudadana o ciudadano nayarita y haber residido en la entidad durante los dos años anteriores al día de la designación; o tener una vecindad mínima de dos años en el Estado, en ambos casos, encontrarse en pleno ejercicio de sus derechos;
 
@@ -461,9 +465,19 @@ XVI. Las demás que determinen las Leyes, el Reglamento Interno del Tribunal Sup
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 25.
 
-El Tribunal Superior contará con Salas, en el número que se requiera para el buen funcionamiento de la administración de justicia. Las Salas estarán integradas por mínimo tres magistraturas y las materias serán Sala Civil, Sala Penal, Sala Familiar y Sala Mixta. La Presidencia de cada Sala será un cargo honorífico.
+El Tribunal Superior contará con Salas, en el número que se requiera para el buen funcionamiento de la administración de justicia. Las Salas estarán integradas por mínimo tres magistraturas y las materias serán Sala Civil, Sala Penal, Sala Familiar y Sala Mixta.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Las Magistradas y Magistrados adscritos a cada Sala desempeñarán por turno el cargo semanero, quien proveerá lo conducente a las promociones de las partes y al desahogo del procedimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Cada una de las Salas contará por lo menos con una notificadora o notificador o actuaria o actuario quien hará las notificaciones de la Sala y las del Tribunal Superior según la materia que corresponda.
 
 ###### Artículo 26.
 
@@ -513,7 +527,9 @@ X. Las demás que expresamente les encomiende la Ley y los acuerdos generales.
 
 La Sala Penal será competente para conocer y resolver de los asuntos siguientes:
 
-I. En última instancia, de los recursos que se interpongan contra las resoluciones dictadas por Juezas y Jueces de Primera Instancia en asuntos del orden penal, así como de las determinaciones relativas a incidentes civiles que surjan en los procesos penales;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+I. En última instancia, de los recursos que se interpongan contra las resoluciones dictadas por Juezas y Jueces de Primera Instancia en asuntos del orden penal, así como de las determinaciones relativas a incidentes civiles que surjan en los procesos penales, con excepción de aquellos que sean competencia de la Sala Mixta;
 
 II. De los conflictos de competencia que se susciten, en la materia penal, entre los diversos Juzgados del Estado;
 
@@ -521,11 +537,17 @@ III. De la calificación de excusas y recusaciones de Juezas y Jueces de Primera
 
 IV. Las demás que establezcan la Constitución Política del Estado, las Leyes del Estado y los acuerdos generales.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+En el caso de apelaciones en contra de sentencias definitivas, los asuntos serán resueltos de manera colegiada y de forma unitaria cuando se trate de resoluciones interlocutorias.
+
 ###### Artículo 32.
 
 La Sala Civil será competente para conocer y resolver los asuntos siguientes:
 
-I. De los recursos de apelación que se interpongan contra las resoluciones dictadas por Juezas y Jueces de Primera Instancia en materia civil y mercantil en jurisdicción concurrente;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+I. De los recursos de apelación que se interpongan contra las resoluciones dictadas por Juezas y Jueces de Primera Instancia en materia civil y mercantil en jurisdicción concurrente, con excepción de aquellos que sean competencia de la Sala Mixta;
 
 II. Del recurso de queja y del juicio de responsabilidad civil, de acuerdo con lo que disponga la Ley;
 
@@ -541,7 +563,9 @@ VI. Las demás que establezcan la Constitución Política del Estado, las Leyes 
 
 La Sala Familiar será competente para conocer y resolver de los siguientes asuntos:
 
-I. De los recursos de apelación y queja que les correspondan y que se interpongan contra las resoluciones dictadas en materia familiar;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+I. De los recursos de apelación y queja que les correspondan y que se interpongan contra las resoluciones dictadas en materia familiar, con excepción de aquellos que sean competencia de la Sala Mixta;
 
 II. De las excusas y recusaciones de Juezas y Jueces en materia familiar;
 
@@ -549,9 +573,11 @@ III. De los conflictos de competencia que se susciten en materia familiar entre 
 
 IV. Las demás que establezcan la Constitución Política del Estado, las Leyes del Estado y los acuerdos generales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 34.
 
-La Sala Mixta será competente para resolver los recursos de apelación, apelación especial y revisión, en los términos previstos en las Leyes en materia de justicia para adolescentes.
+La Sala Mixta será competente para resolver los recursos de apelación y revisión, en los términos previstos en las Leyes en materia de justicia para adolescentes.
 
 Asimismo, será competente para conocer y resolver de los demás asuntos que no sean de competencia de las otras Salas, o que establezcan la Constitución Política Local, las Leyes del Estado y los acuerdos generales.
 
@@ -1031,7 +1057,9 @@ Cuando el Pleno del Órgano de Administración estime que sus Reglamentos, acuer
 
 La Presidencia del Órgano de Administración tendrá las atribuciones siguientes:
 
-I. Representar al Órgano de Administración;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+I. Representar al Órgano de Administración en el ámbito de su competencia;
 
 II. Integrar la Junta General de Coordinación Judicial, así como asistir y votar en sus sesiones los acuerdos y determinaciones sometidos a su consideración;
 
@@ -2143,27 +2171,91 @@ IV. Podrán concederse licencias de hasta un año para realizar, concluir o perf
 
 En los casos previstos en las fracciones II, III y IV, las licencias se otorgarán sin goce de sueldo.
 
-Estas disposiciones se aplicarán, en lo conducente, a las personas integrantes del Órgano de Administración.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 189.
 
 En ausencias o licencias temporales, las Magistradas y Magistrados del Tribunal Superior, serán suplidos para efectos de integración de Sala o Tribunal, conforme a lo siguiente:
 
-I. Si la ausencia no excede de diez días, por la Secretaria o Secretario de Acuerdos del Órgano respectivo, y a falta o imposibilidad de ésta, por la Secretaria o Secretario de Estudio y Cuenta designada. En ambos casos no se exigirán los requisitos constitucionales establecidos para la Magistratura, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-II. Si la ausencia excede de diez días, por la persona servidora pública designada por el Pleno del Tribunal Superior.
+I. Si la ausencia no excede de diez días, por la Secretaria o Secretario General de Acuerdos del Pleno, y a falta o imposibilidad de ésta, por la Secretaria o Secretario de Estudio y Cuenta designada. En ambos casos no se exigirán los requisitos constitucionales establecidos para la Magistratura, y
 
-Las mismas disposiciones aplicarán para quienes integren el Órgano de Administración.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+II. Si la ausencia excede de diez y hasta treinta días, por la persona servidora pública designada por el Pleno del Tribunal Superior a propuesta de la persona titular de la Presidencia.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Las suplencias previstas en este artículo no generarán derechos escalafonarios ni antigüedad en el cargo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 189 Bis.
+
+En las ausencias o licencias temporales de las Magistradas y Magistrados del Tribunal de Disciplina se regularán conforme a lo siguiente:
+
+I. Si la ausencia no excede de diez días, serán suplidos por la Secretaria o el Secretario de Acuerdos del Pleno del Tribunal, y a falta o imposibilidad de éste, por la persona Secretaria de Estudio y Cuenta designada por el Pleno, y
+
+II. Si la ausencia excede de diez y hasta treinta días por la persona servidora pública designada por el Pleno a propuesta de la persona titular de la Presidencia.
+
+Las suplencias previstas en este artículo no generarán derechos escalafonarios ni antigüedad en el cargo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 189 Ter.
+
+Las ausencias temporales que no excedan de quince días serán suplidas de la siguiente manera:
+
+I. La Jueza o Juez.- Por la Secretaria o Secretario de Acuerdos de mayor antigüedad dentro del Poder Judicial del Estado que se encuentre adscrito al juzgado correspondiente;
+
+II. La persona titular de la Secretaría General de Acuerdos del Tribunal Superior y de las personas titulares de las Secretarías de Acuerdos de las Salas.- Por la o el servidor público judicial que designe provisionalmente la persona titular de la Presidencia del Tribunal Superior, y
+
+III. La persona titular de la Secretaría de Acuerdos.- Por la notificadora o notificador o actuaria o actuario de mayor antigüedad dentro del Poder Judicial del Estado que se encuentre adscrito al juzgado correspondiente y a falta de este por testigos de asistencia.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 189 Quáter.
+
+Las ausencias o licencias temporales de las personas integrantes del Órgano de Administración se regularán conforme a lo siguiente:
+
+I. Podrán ausentarse hasta por cinco días consecutivos, sin afectar sus percepciones, mediante aviso por escrito a la Presidencia del Órgano de Administración. Durante ese periodo, sus funciones serán asumidas, únicamente para efectos administrativos, por la Secretaría Ejecutiva del Órgano de Administración;
+
+II. Para ausencias mayores de cinco días y hasta un mes, la solicitud deberá presentarse por escrito a la Presidencia, quien la turnará al Pleno para que nombre a la persona servidora pública del Poder Judicial que deberá cubrir dicha ausencia, y
+
+III. Si la ausencia excede de un mes y hasta un año, la licencia será autorizada por el Pleno del Órgano de Administración, previo aviso al Poder que realizó el nombramiento, el cual designará a la persona que cubra la ausencia temporal. Dicha designación deberá notificarse a los demás Poderes, para su conocimiento.
+
+Las suplencias previstas en este artículo deberán garantizar la integración continua del Órgano de Administración, respetando la representación de los tres Poderes del Estado y el principio de paridad de género.
+
+Ninguna suplencia generará derechos escalafonarios, antigüedad ni expectativa de permanencia en el cargo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 189 Quinquies.
+
+Si la falta de alguna persona integrante del Pleno del Órgano de Administración se torna definitiva por renuncia, defunción, remoción o cualquier otra causa legal, la Presidencia del Órgano de Administración lo comunicará al Poder que realizó el nombramiento, a efecto de que se realice una nueva designación conforme al procedimiento previsto en la Constitución Política del Estado y en esta Ley, para que la vacante sea cubierta por el tiempo que reste del encargo.
+
+Hasta en tanto se emita el nuevo nombramiento, el Poder de origen podrá designar una persona encargada provisional, a fin de mantener la integración total del Pleno.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 189 Sexies.
+
+No se considerará separación del cargo, la designación de una Jueza o Juez para desempeñar el cargo de titular de la Secretaría General de Acuerdos del Tribunal Superior, del Tribunal de Disciplina, integrante del Órgano de Administración, titular de la Secretaría Ejecutiva del mismo, o ejercer funciones administrativas o de coordinación dentro del Poder Judicial.
+
+Igualmente, no se considerará separación del cargo, la designación de una Jueza o Juez para desempeñar de forma provisional el cargo de Magistrada o Magistrado.
 
 ###### Artículo 190.
 
 Cuando una ausencia temporal de una Magistrada, Magistrado, Jueza o Juez, se convierta en definitiva o concluya su encargo conforme a la Constitución y esta Ley, se procederá de la manera siguiente:
 
-I. La Presidencia del Órgano al que pertenezca lo comunicará al Órgano de Administración, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+I. La Presidencia del Pleno del Tribunal Superior o del Pleno del Tribunal de Disciplina, lo comunicará al Órgano de Administración, y
 
 II. El Órgano de Administración acordará e incluirá la vacante en el informe señalado en el artículo 84, fracción I de la Constitución Política del Estado.
 
-Este procedimiento se aplicará en lo conducente para integrantes del Órgano de Administración.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 191.
 
@@ -2181,17 +2273,25 @@ Las licencias superiores a seis meses se otorgarán únicamente de forma extraor
 
 Toda licencia deberá concederse mediante Acuerdo por escrito, en el que se justifique y califique la causa expresada por la persona solicitante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 195.
 
-Las licencias de las y los secretarios, las y los proyectistas, actuarias, actuarios, oficiales judiciales y demás personal jurisdiccional del Tribunal Superior, serán otorgadas conforme a lo siguiente:
+Las licencias de las y los secretarios, las y los proyectistas, actuarias, actuarios, oficiales judiciales y demás personal jurisdiccional del Tribunal Superior o del Tribunal de Disciplina según sea el caso, serán otorgadas conforme a lo siguiente:
 
-I. Hasta 30 días: por la Presidencia del Tribunal Superior;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-II. De más de 30 días y hasta seis meses: por el Pleno del Tribunal, y
+I. Hasta 30 días: por la Presidencia del Tribunal Superior o de la Presidencia del Tribunal de Disciplina, según corresponda;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+II. De más de 30 días y hasta seis meses: por el Pleno del Tribunal según corresponda, y
 
 III. Mayores a seis meses: por el Órgano de Administración.
 
-Las licencias de las demás personas empleadas del Tribunal Superior que excedan de treinta días, las concederá la o el Presidente del Tribunal del que se trate. Si exceden de dicho término serán concedidas, conjuntamente, por las y los Magistrados que integren el Pleno del Tribunal.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Las licencias de las demás personas empleadas del Tribunal Superior o del Tribunal de Disciplina que no excedan de treinta días, las concederá la o el Presidente del Tribunal del que se trate. Si exceden de dicho término serán concedidas, conjuntamente, por las y los Magistrados que integren el Pleno del Tribunal respectivo.
 
 ###### Artículo 196.
 
@@ -2203,9 +2303,11 @@ Las licencias de las demás personas empleadas de los Juzgados de primera instan
 
 Las licencias de las personas servidoras públicas y empleadas no contemplados en los artículos anteriores, serán concedidas por el órgano facultado para ello en los términos de los Reglamentos y acuerdos generales correspondientes y a falta de disposición expresa por quien haya conocido de su nombramiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 198.
 
-Cuando las ausencias temporales de una misma persona servidora pública excedan de quince días, el Órgano de Administración designará a quien que (sic) deba suplirla interinamente, de entre la lista de personas servidoras públicas habilitados para desempeñar funciones jurisdiccionales.
+Cuando las ausencias temporales de una persona servidora pública excedan de quince días, el Órgano de Administración designará a quien deba suplirla interinamente, de entre la lista de personas servidoras públicas habilitadas para desempeñar funciones jurisdiccionales a través de Acuerdos Generales.
 
 Mientras se efectúa dicha designación, actuará la persona titular de la Secretaría conforme al artículo anterior.
 
@@ -2222,6 +2324,14 @@ III. En caso de que dicha persona decline, se encuentre legalmente impedida, hay
 IV. La persona que asuma el cargo de manera provisional conforme a este artículo lo hará sin adquirir carácter definitivo ni derechos escalafonarios, y únicamente por el tiempo que subsista la causa de la ausencia o hasta que se convoque y resuelva un nuevo proceso de elección, y
 
 V. Si transcurridos dieciocho meses la situación jurídica o política que motivó la suspensión no se ha resuelto, el Congreso del Estado podrá declarar la vacante definitiva y convocar a un nuevo proceso de elección conforme a lo previsto en esta Ley y la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 199 Bis.
+
+En las ausencias temporales de las personas titulares de la Presidencia del Tribunal Superior, del Tribunal de Disciplina o del Órgano de Administración, asumirá las funciones la Magistrada o Magistrado que determine la mayoría del Pleno respectivo.
+
+Si la ausencia coincide con la de otros integrantes, cada Pleno determinará la prelación de suplencias para garantizar la integración mínima legal y la continuidad institucional.
 
 ## TÍTULO DÉCIMO SEGUNDO. DISPOSICIONES COMUNES PERIODO VACACIONAL, DÍAS Y HORAS HÁBILES
 
@@ -2372,3 +2482,11 @@ Dado en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial de
 Dip. Salvador Castañeda Rangel, Presidente.- Rúbrica.- Dip. Edgar Noel López Arciniega, Secretario.- Rúbrica.- Dip. Nadia Alejandra Ramírez López, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los diecisiete días del mes de julio de dos mil veinticinco.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Dra. en D. Rocío Esther González García, Secretaria General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del (sic) Nayarit.
