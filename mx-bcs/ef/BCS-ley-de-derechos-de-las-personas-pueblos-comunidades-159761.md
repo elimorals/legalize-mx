@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-de-las-personas-pueblos-comunidades-159761"
 country: "mx"
 rank: "ley"
 publication_date: "2022-08-17"
-last_updated: "2022-08-17"
+last_updated: "2025-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCS"
 ---
 # LEY DE DERECHOS DE LAS PERSONAS, PUEBLOS, COMUNIDADES INDIGENAS Y AFROMEXICANAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-(NOTA: EL 23 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 132/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 2620 POR EL QUE SE EXPIDIÓ LA LEY DE DERECHOS DE LAS PERSONAS, PUEBLOS, COMUNIDADES INDÍGENAS Y AFROMEXICANAS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EL DIECISIETE DE AGOSTO DE DOS MIL VEINTIDÓS, EN EL BOLETÍN OFICIAL DE LA ENTIDAD NÚMERO 48 (EXTRAORDINARIO), LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO LOCAL, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+[NOTA 1. EL 23 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 132/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 2620 POR EL QUE SE EXPIDIÓ LA LEY DE DERECHOS DE LAS PERSONAS, PUEBLOS, COMUNIDADES INDÍGENAS Y AFROMEXICANAS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EL DIECISIETE DE AGOSTO DE DOS MIL VEINTIDÓS, EN EL BOLETÍN OFICIAL DE LA ENTIDAD NÚMERO 48 (EXTRAORDINARIO), LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO LOCAL, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/]
+
+[NOTA 2. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO SEGUNDO DE LA LEY DE DERECHOS DE LAS PERSONAS, PUEBLOS Y COMUNIDADES INDIGENAS Y AFROMEXICANAS DE BAJA CALIFORNIA SUR , PUBLICADA EN EL B.O. DE 30 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE DERECHOS DE LAS PERSONAS, PUEBLOS, COMUNIDADES INDÍGENAS Y AFROMEXICANAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE OCTUBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Extraordinario del Número 48 del Boletín Oficial del Estado de Baja California Sur, el miércoles 17 de Agosto de 2022.
 
@@ -1242,3 +1244,33 @@ VÍCTOR MANUEL CASTRO COSÍO
 SECRETARIO GENERAL DE GOBIERNO
 
 HOMERO DAVIS CASTRO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE DERECHOS DE LAS PERSONAS, PUEBLOS Y COMUNIDADES INDIGENAS Y AFROMEXICANAS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO. Los Consejos Municipales deberán crearse e instalarse en un plazo no mayor a sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. En el término de ciento veinte días naturales, contados a partir de la publicación del presente decreto, la Dirección de Atención para las Personas Indígenas y Afromexicanas en Baja California Sur dispondrá que la Ley se divulgue y difunda entre las diferentes dependencias de los Gobiernos Estatal y Municipales.
+
+CUARTO. El Reglamento de la presente Ley deberá expedirse dentro de los noventa días naturales siguientes a la fecha de publicación del presente decreto.
+
+QUINTO. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado creará la Dirección de Atención a Personas Indígenas y Afromexicanas en el Estado de Baja California Sur.
+
+SEXTO. Para los efectos presupuestales y administrativos a que haya lugar, dentro del plazo de ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas y Administración realizará los ajustes y traspasos presupuestales correspondientes. En consecuencia, el Ejecutivo del Estado enviará al Congreso del Estado de Baja California Sur la respectiva iniciativa de ampliación y modificación al Presupuesto de Egresos vigente en el presente ejercicio fiscal si fuese el caso.
+
+SÉPTIMO. El Congreso del Estado, en el marco del análisis y aprobación del Decreto de Presupuesto de Egresos del Gobierno del Estado, para los Ejercicios Fiscales subsecuentes, deberá acordar las asignaciones presupuestales correspondientes para el debido cumplimiento de la presente Ley.
+
+OCTAVO. Quien ocupe la titularidad del Poder Ejecutivo del Estado y los Ayuntamientos, dentro de los sesenta días naturales siguientes a la entrada en vigor de la presente Ley, deberán iniciar los trabajos para la elaboración del Catálogo de Comunidades y personas Indígenas y Afromexicanas en el Estado de Baja California Sur, el cual deberá ser publicado en el Boletín Oficial del Gobierno del Estado.
+
+NOVENO. Los Ayuntamientos, dentro de los ciento veinte días naturales siguientes a la entrada en vigor de la presente Ley, deberán crear las Direcciones de Asuntos Indígenas y Afromexicanos y la emisión de los Reglamentos respectivos, en el mismo plazo.
+
+DÉCIMO. El Congreso del Estado de Baja California Sur, con el objeto de dar cumplimiento a la Ley que se expide por virtud del presente decreto, en un plazo de doce meses contados a partir de la entrada en vigor de la presente Ley, deberá realizar la armonización del marco jurídico estatal, a efecto de garantizar y reconocer los derechos consagrados en este ordenamiento.
+
+DÉCIMO PRIMERO. Con el objeto de promover el reconocimiento, la preservación y defensa de los derechos y cultura de las personas, los pueblos y comunidades indígenas en el Estado, el 9 de agosto de cada año se celebrará el Día Internacional de lo Pueblos Indígenas, con diversas actividades a cargo de las dependencias de la Administración Pública Estatal y municipales de Baja California Sur.
+
+DÉCIMO SEGUNDO. Se abroga el decreto 2620, publicado en el Boletín Oficial del Gobierno del Estado el 17 de agosto de 2022 por el que se expidió la Ley de Derechos de las Personas, Pueblos, Comunidades Indígenas y Afromexicanas del Estado de Baja California Sur, declarada inválida por el Pleno de la Suprema Corte de Justicia de la Nación mediante sentencia dictada en la Acción de Inconstitucionalidad 132/2022.
