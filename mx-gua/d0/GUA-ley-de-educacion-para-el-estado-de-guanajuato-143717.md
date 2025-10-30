@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-143717"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-22"
-last_updated: "2025-06-26"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 22 de Julio de 2020.
 
@@ -79,13 +79,19 @@ V. Educación de excelencia: entendida como el mejoramiento integral constante q
 
 V bis. Educación en gestión menstrual: los conocimientos y acciones tendientes a disminuir las brechas de desigualdad en el proceso educativo para las mujeres con motivo de la menstruación, entendiendo esta como el sangrado vaginal que ocurre como parte del ciclo sexual femenino;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+V. ter. Educación dual: opción educativa de la modalidad mixta donde el proceso de enseñanza y el aprendizaje se realizan en la escuela y en un espacio de formación laboral, es decir, empresa o institución pública, conforme al respectivo plan y programa de estudio de educación media superior;
+
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-V ter. Educación sexual integral y reproductiva: implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual, así como la detección de cualquier conducta de riesgo;
+V quáter. Educación sexual integral y reproductiva: implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual, así como la detección de cualquier conducta de riesgo;
 
 VI. Educando: a las niñas, niños, adolescentes, jóvenes y todas aquellas personas que cursan sus estudios en alguna institución de los tipos de educación básico, medio superior y superior, de carácter público o privado con autorización o reconocimiento de validez oficial de estudios por parte de las autoridades correspondientes;
 
-VII. Ejecutivo Estatal: al titular del Poder Ejecutivo del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+VII. Ejecutivo Estatal: la persona titular del Poder Ejecutivo del Estado de Guanajuato;
 
 VIII. Infraestructura física educativa: los muebles e inmuebles destinados a la educación que se imparte por el Estado, los municipios, los organismos públicos descentralizados y los particulares, así como a los servicios e instalaciones necesarios para su correcta operación, en el marco del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación, la presente Ley y demás disposiciones normativas;
 
@@ -105,9 +111,9 @@ XIV. Secretaría: la Secretaría de Educación;
 
 XV. Servicio social: la actividad temporal y obligatoria que ejecuten y presten los educandos beneficiados directamente por los servicios educativos de los tipos medio superior y superior, a favor de la sociedad y del Estado;
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XVI. SICOM: La Secretaría de Infraestructura, Conectividad y Movilidad;
+XVI. SOP: la Secretaría de Obra Pública;
 
 XVII. Sistema Educativo Estatal: al conjunto de personas, instituciones y elementos educativos dedicados a la función social de la educación en la Entidad, en los términos de esta Ley; y
 
@@ -733,9 +739,9 @@ XI. Establecer los mecanismos administrativos para que el Sistema Educativo Esta
 
 XII. Desarrollar el programa operativo anual de educación, en concordancia con la planeación estatal para mejorar los servicios y la calidad educativa;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XIII. Programar con la SICOM los planteles a intervenir en materia de infraestructura física educativa;
+XIII. Programar con la SOP los planteles a intervenir en materia de infraestructura física educativa;
 
 XIV. Proponer la competencia y estructura de los organismos, de las unidades administrativas y de las instituciones públicas de la Entidad que presten los servicios educativos;
 
@@ -1097,7 +1103,9 @@ VII. Educación media superior abierta, a distancia, incluyendo la virtual; y
 
 VIII. Tecnólogo.
 
-Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley. La modalidad no escolarizada estará integrada, entre otros, por el servicio a distancia, incluyéndose el virtual, así como aquellos que operen con base en la certificación por evaluaciones parciales y certificación por un examen, en términos de las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley. Se implementará el modelo de educación dual que permita al estudiantado tener una formación en la escuela y en un espacio de formación laboral, es decir, empresa o institución pública, mediante la vinculación con el sector laboral para adquirir los conocimientos y habilidades que requieren. La modalidad no escolarizada estará integrada, entre otros, por el servicio a distancia, incluyéndose el virtual, así como aquellos que operen con base en la certificación por evaluaciones parciales y certificación por un examen, en términos de las disposiciones aplicables.
 
 Los servicios que presten las instituciones del tipo medio superior deberán cumplir con los objetivos señalados en los planes y programas de estudio que establezca o reconozca la autoridad educativa competente.
 
@@ -1245,6 +1253,10 @@ Inclusión de las personas con discapacidad
 
 El Estado garantizará a las personas con discapacidad, competencias que les permitan aprender y desarrollar habilidades para toda la vida, competencias que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Asimismo, se promoverá la implementación del modelo de educación dual para personas con discapacidad, garantizando medidas en favor de la accesibilidad y los ajustes razonables.
+
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Obligaciones en materia de educación especial
@@ -1329,7 +1341,9 @@ Para garantizar la educación inclusiva, las autoridades educativas, en el ámbi
 
 I. Facilitar el aprendizaje a través de otras modalidades, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
 
-II. Facilitar la adquisición y el aprendizaje de la lengua de señas dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+II. Facilitar y promover el aprendizaje y uso de la Lengua de Señas Mexicana, el sistema de lectoescritura Braille, así como otros modos, medios y formatos de comunicación inclusiva. De igual forma favorecer el aprendizaje y la enseñanza del español para las personas sordas;
 
 III. Asegurar que los educandos con discapacidad reciban educación en los lenguajes, las modalidades y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo personal, académico, productivo y social;
 
@@ -2257,6 +2271,12 @@ Supervisión y control del servicio social
 
 Las instituciones educativas, los organismos del sector público y privado, así como los demás involucrados en la prestación del servicio social, son responsables en el ámbito de su competencia de la supervisión y control de los programas y actividades que se desarrollen para su cumplimiento.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Programas de servicio social bajo un enfoque inclusivo
+
+Artículo 185 bis. Los programas de servicio social deberán ser inclusivos, garantizando la participación en igualdad de condiciones de mujeres, personas con discapacidad, indígenas y otros grupos en situación de vulnerabilidad, promoviendo su integración en proyectos pertinentes a sus contextos.
+
 ## TÍTULO DÉCIMO. GESTIÓN ESCOLAR EN EDUCACIÓN BÁSICA
 
 ### Capítulo I. Gestión escolar
@@ -2487,11 +2507,11 @@ Las autoridades educativas y escolares promoverán la participación de los sect
 
 Sistema Nacional de información de la infraestructura física educativa
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 214.
 
-La Secretaría, la SICOM y demás autoridades, coordinarán las acciones para alimentar y actualizar el Sistema Nacional de Información de la Infraestructura Física Educativa, el cual constituirá un insumo para la elaboración de diagnósticos y pronósticos y definir acciones de prevención en materia de seguridad, protección civil y de mantenimiento de los muebles e inmuebles que se destinen al servicio educativo.
+La Secretaría, la SOP y demás autoridades, coordinarán las acciones para alimentar y actualizar el Sistema Nacional de Información de la Infraestructura Física Educativa, el cual constituirá un insumo para la elaboración de diagnósticos y pronósticos y definir acciones de prevención en materia de seguridad, protección civil y de mantenimiento de los muebles e inmuebles que se destinen al servicio educativo.
 
 Requisitos para que un inmueble preste servicio educativo
 
@@ -2517,11 +2537,11 @@ La comunidad educativa es corresponsable para el cuidado y conservación de la i
 
 Planeación financiera y administrativa para la infraestructura física educativa
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 218.
 
-Las autoridades educativas, y la SICOM en el ámbito de sus respectivas competencias, deberán desarrollar la planeación financiera y administrativa que contribuya a optimizar los recursos en materia de espacios educativos al servicio del Sistema Educativo Estatal, realizando las previsiones para que los recursos económicos destinados para ese efecto, sean prioritarios y oportunos, y las respectivas obligaciones se atiendan de manera gradual y progresiva, de acuerdo con la disponibilidad presupuestal, debiendo establecer las condiciones fiscales, presupuestales, administrativas y jurídicas para facilitar y fomentar la inversión en la materia.
+Las autoridades educativas y la SOP en el ámbito de sus respectivas competencias, deberán desarrollar la planeación financiera y administrativa que contribuya a optimizar los recursos en materia de espacios educativos al servicio del Sistema Educativo Estatal, realizando las previsiones para que los recursos económicos destinados para ese efecto, sean prioritarios y oportunos, y las respectivas obligaciones se atiendan de manera gradual y progresiva, de acuerdo con la disponibilidad presupuestal, debiendo establecer las condiciones fiscales, presupuestales, administrativas y jurídicas para facilitar y fomentar la inversión en la materia.
 
 Participación para el financiamiento
 
@@ -2543,11 +2563,11 @@ Asimismo, promoverán mecanismos para acceder a fuentes alternas de financiamien
 
 Concurrencia en la infraestructura física educativa
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 220.
 
-Corresponde a la Secretaría, en el ámbito de su competencia, por conducto de la SICOM, promover ante los ayuntamientos y sectores público, social y privado, la concurrencia en: la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio público educativo.
+Corresponde a la Secretaría, en el ámbito de su competencia, por conducto de la SOP, promover ante los ayuntamientos y sectores público, social y privado, la concurrencia en: la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y rehabilitación de inmuebles e instalaciones destinados al servicio público educativo.
 
 Mantenimiento de los muebles e inmuebles destinados al servicio educativo
 
@@ -2739,9 +2759,9 @@ En el caso de instituciones que requieran reconocimiento de validez oficial de e
 
 II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, de protección civil, pedagógicas, de accesibilidad que la autoridad otorgante determine, conforme a los términos que determinen las disposiciones normativas aplicables.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-Para los efectos de la presente fracción, los particulares deberán obtener la opinión técnica favorable del dictamen de infraestructura física educativa, que para tal efecto elabore el perito en infraestructura educativa, de conformidad con las disposiciones normativas de la SICOM, de acuerdo a los plazos establecidos y de conformidad con las disposiciones normativas; y
+Para los efectos de la presente fracción, los particulares deberán obtener la opinión técnica favorable del dictamen de infraestructura física educativa, que para tal efecto elabore el perito en infraestructura educativa, de conformidad con las disposiciones normativas de la SOP, de acuerdo a los plazos establecidos y de conformidad con las disposiciones normativas; y
 
 III. Contar con personal docente que acredite la preparación adecuada de acuerdo a los perfiles, criterios e indicadores de la normatividad aplicable o vigente.
 
@@ -2867,9 +2887,11 @@ Derivado de las acciones de vigilancia, si las autoridades respectivas identific
 
 Modos de vigilancia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 257.
 
-Las visitas de vigilancia se llevarán a cabo en días y horas hábiles. Para tal efecto, se considerarán días inhábiles los establecidos en la Ley Federal del Trabajo y aquellos que se establezcan en el calendario oficial emitido por la Secretaría de Finanzas, Inversión y Administración, y demás que se determinen por la autoridad competente.
+Las visitas de vigilancia se llevarán a cabo en días y horas hábiles. Para tal efecto, se considerarán días inhábiles los establecidos en la Ley Federal del Trabajo y aquellos que se establezcan en el calendario oficial emitido por la Secretaría de Finanzas y demás que se determinen por la autoridad competente.
 
 Asimismo, se considerarán horas hábiles las comprendidas en el horario de labores del plantel. Una diligencia iniciada en horas hábiles podrá concluirse en horas inhábiles sin afectar su validez, siempre y cuando sea continua.
 
@@ -3201,7 +3223,9 @@ Consideraciones para la determinación de sanciones
 
 Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socioeconómicas, el carácter intencional o no del infractor y si se trata de reincidencia.
 
-Las multas que imponga la autoridad educativa serán ejecutadas por la Secretaría de Finanzas Inversión y Administración, a través de los procedimientos y disposiciones aplicables por dicha dependencia.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Las multas que imponga la autoridad educativa serán ejecutadas por la Secretaría de Finanzas a través de los procedimientos y disposiciones aplicables por dicha dependencia.
 
 La revocación de la autorización otorgada a particulares produce efectos de clausura del servicio educativo de que se trate.
 
@@ -3346,3 +3370,23 @@ P.O. 26 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 67, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 86 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 185 BIS A LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 94 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 95 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 87, FRACCIÓN II DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las autoridades realizarán las asignaciones presupuestales de manera progresiva, procurando la suficiencia, continuidad y oportunidad de los recursos destinados a los fines de este Decreto.
