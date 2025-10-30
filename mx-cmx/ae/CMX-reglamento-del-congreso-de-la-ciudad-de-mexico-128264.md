@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2025-08-28"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1882,11 +1882,21 @@ La moción de discusión y votación por conjunto de artículos es un recurso de
 
 La moción suspensiva es un recurso del procedimiento legislativo para interrumpir la discusión de algún asunto puesto a la consideración del Pleno.
 
-Deberá presentarse por escrito firmada por sus autores ante la Mesa Directiva, antes de que se inicie la discusión en lo general, señalando el asunto cuya discusión se pretende suspender y exponer el fundamento legal, así como las razones o motivos que la justifiquen.
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2025)</small>
 
-Si la moción suspensiva cumple con los requisitos señalados en el párrafo anterior, la o el Presidente solicitará que la Secretaría dé lectura al documento. Enseguida, ofrecerá el uso de la palabra a una o uno de sus autores, si la quiere fundar, así como a una o un impugnador, si lo hubiera. Al término de las exposiciones, la Secretaría preguntará al Pleno, en votación económica, si la moción se toma en consideración de manera inmediata.
+Deberá presentarse por escrito ante la Mesa Directiva, firmada por sus autores, antes de que inicie la discusión en lo general, señalando el asunto cuya discusión se pretende suspender. La moción debe acompañarse del fundamento legal, así como las razones o motivos que la justifiquen.
 
-En caso afirmativo se discutirá y votará en el acto. Podrán hablar al efecto, tres oradoras u oradores en contra y tres a favor; pero si la resolución del Pleno fuera negativa, la moción se tendrá por desechada y continuará el curso de la discusión.
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2025)</small>
+
+Si la moción suspensiva cumple con los requisitos señalados en el párrafo anterior, la Presidencia de la Mesa Directiva solicitará que la o el promovente haga uso de la tribuna hasta por diez minutos para exponerla.
+
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2025)</small>
+
+Al término de la exposición, la Secretaría preguntará al Pleno, en votación económica, si la moción se toma en consideración de manera inmediata.
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2025)</small>
+
+En caso afirmativo se discutirá y votará en el acto. Podrán hablar al efecto, hasta tres oradoras u oradores en contra y a favor por cinco minutos; pero si la resolución del Pleno fuera negativa, la moción se tendrá por desechada y continuará el curso de la discusión.
 
 ###### Artículo 151.
 
@@ -6617,3 +6627,11 @@ PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por 
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. La Junta de Coordinación Política del Congreso de la Ciudad de México determinará, cuáles son los medios oficiales de comunicación interna del Congreso.
+
+G.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO, SE ADICIONA UN PÁRRAFO CUARTO RECORRIÉNDOSE EL SUBSECUENTE, Y REFORMÁNDOSE ESTE ÚLTIMO, TODOS DEL ARTÍCULO 150 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
