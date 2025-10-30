@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-y-bienestar-animal-para-la-94804"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-19"
-last_updated: "2023-11-19"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 19 de mayo de 2013.
 
@@ -61,29 +61,35 @@ La presente Ley es reglamentaria del artículo 26 de la Constitución Política 
 
 La presente Ley tiene por objeto:
 
-I. Regular la conducta de las Personas hacia las formas de vida y la integridad de los animales a fin de permitir su reproducción y desarrollo bajo condiciones de bienestar;
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-II. Promover y regular el adecuado manejo, transporte, trato y sacrificio humanitario de los animales domésticos, silvestres, de exhibición, de abasto, de carga, de caza, de tiro, monta y labranza, de acuerdo a las Normas Oficiales Mexicanas y demás disposiciones legales que resulten aplicables;
+I. Reconocer a los animales como seres sintientes, merecedores de trato digno y respetuoso.
 
-III. Fomentar la protección, conservación y respeto a la biodiversidad de los animales, para que exista una convivencia armónica entre éstos y las Personas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-IV. Establecer la participación de las asociaciones, de las instancias gubernamentales competentes y demás organizaciones de la sociedad civil en las campañas de esterilización y sacrificio humanitario de los animales en los Centros de Asistencia Canina y Felina apegándose a la presente Ley, a los reglamentos municipales de la materia y a las Normas Oficiales Mexicanas aplicables;
+II. Regular la conducta de las personas hacia las formas de vida y la integridad de los animales a fin de propiciar una cultura de cuidado y tutela responsable, así como permitir su reproducción y desarrollo bajo condiciones de bienestar;
 
-V. Diseñar, implementar y evaluar las campañas de educación ambiental relacionadas a la protección y tenencia responsable de los animales, cuidados básicos y esterilización de los animales domésticos de compañía, en las escuelas del sistema educativo del Estado, así como fomentar la participación activa de las Asociaciones en dichas campañas en los términos de la presente Ley, de los reglamentos municipales de la materia y de las Normas Oficiales Mexicanas aplicables;
+III. Promover y regular el adecuado manejo, transporte, trato y sacrificio humanitario de los animales domésticos, silvestres, de exhibición, de abasto, de carga, de caza, de tiro, monta y labranza, de acuerdo a las Normas Oficiales Mexicanas y demás disposiciones legales que resulten aplicables;
 
-VI. Establecer las obligaciones y responsabilidades de los propietarios, poseedores y encargados de los animales para garantizar su protección integral;
+IV. Fomentar la protección, conservación y respeto a la biodiversidad de los animales, para que exista una convivencia armónica entre éstos y las Personas;
 
-VII. Regular la reproducción, cría, enajenación, albergue, hospedaje y adiestramiento de los animales domésticos de compañía y animales silvestres para que estas actividades se realicen en condiciones de bienestar.
+V. Establecer la participación de las asociaciones, de las instancias gubernamentales competentes y demás organizaciones de la sociedad civil en las campañas de esterilización y sacrificio humanitario de los animales en los Centros de Asistencia Canina y Felina apegándose a la presente Ley, a los reglamentos municipales de la materia y a las Normas Oficiales Mexicanas aplicables;
 
-VIII. Proteger a los animales domésticos y silvestres, regulando la vida y el crecimiento natural de las especies de animales no nocivas;
+VI. Diseñar, implementar y evaluar las campañas de educación ambiental relacionadas a la protección y tenencia responsable de los animales, cuidados básicos y esterilización de los animales domésticos de compañía, en las escuelas del sistema educativo del Estado, así como fomentar la participación activa de las Asociaciones en dichas campañas en los términos de la presente Ley, de los reglamentos municipales de la materia y de las Normas Oficiales Mexicanas aplicables;
 
-IX. Propiciar el aprovechamiento racional de las especies, con el fin de que se impida la crueldad hacia los animales;
+VII. Establecer las obligaciones y responsabilidades de los propietarios, poseedores y encargados de los animales para garantizar su protección integral;
 
-X. Impulsar las técnicas de desarrollo de especies animales y su racional explotación para fines alimenticios, de preservación ecológica y de aprovechamiento económico, utilizando las técnicas más modernas que impidan la crueldad en los procesos de su aplicación;
+VIII. Regular la reproducción, cría, enajenación, albergue, hospedaje y adiestramiento de los animales domésticos de compañía y animales silvestres para que estas actividades se realicen en condiciones de bienestar.
 
-XI. Proteger la fauna silvestre y sus refugios naturales de acciones destructoras para asegurar su conservación; y
+IX. Proteger a los animales domésticos y silvestres, regulando la vida y el crecimiento natural de las especies de animales no nocivas;
 
-XII. Controlar la reproducción y el desarrollo de la fauna nociva mediante sistemas que eviten la crueldad hacia los animales y no pongan en peligro la salud humana o la existencia o supervivencia del resto de la fauna.
+X. Propiciar el aprovechamiento racional de las especies, con el fin de que se impida la crueldad hacia los animales;
+
+XI. Impulsar las técnicas de desarrollo de especies animales y su racional explotación para fines alimenticios, de preservación ecológica y de aprovechamiento económico, utilizando las técnicas más modernas que impidan la crueldad en los procesos de su aplicación;
+
+XII. Proteger la fauna silvestre y sus refugios naturales de acciones destructoras para asegurar su conservación; y
+
+XIII. Controlar la reproducción y el desarrollo de la fauna nociva mediante sistemas que eviten la crueldad hacia los animales y no pongan en peligro la salud humana o la existencia o supervivencia del resto de la fauna.
 
 ### CAPÍTULO II. Disposiciones preliminares
 
@@ -101,7 +107,9 @@ III. Adoptante: Propietario de un Animal Doméstico de Compañía de origen no-c
 
 IV. Albergue: Lugar en el cual un Animal es alojado por las Personas para su protección y cuidado;
 
-V. Animales: Seres vivos no humanos con sistemas orgánicos, que sienten y se desplazan voluntariamente o por instinto;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+V. Animales: Seres sintientes no humanos, con sistemas orgánicos y que se desplazan voluntariamente o por instinto;
 
 VI. Animales Abandonados: Los animales que queden sin el cuidado y protección de sus propietarios o poseedores, así como los que libremente deambulan por la vía pública sin contar con placa de identidad u otra forma de identificación y los que se encuentran en los Albergues;
 
@@ -115,7 +123,9 @@ X. Animal de Monta, Carga y Tiro: Los caballos, yeguas, ponis, burros, mulas, as
 
 XI. Animal Callejero: Todo animal doméstico de compañía que deambula en las calles, ya sea por condición de abandono o por descuido, o por costumbre del poseedor o encargado y puede o no contar con placa o collar de identificación;
 
-XII. Animal Doméstico: Todo Animal que pueda convivir con las Personas en un ambiente doméstico y que vive bajo sus cuidados;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XII. Animal Doméstico: Los seres sintientes que son criados bajo el control del ser humano, que conviven con él y requieren de éste para su subsistencia, con excepción de los animales en vida silvestre o que se encuentren sujetos a las actividades pecuarias;
 
 XIII. Animal Feral: Todos aquellos animales domésticos que han sido abandonados por las Personas y se vuelven silvestres; así como sus crías nacidas en ese hábitat;
 
@@ -1509,13 +1519,19 @@ XXIV. Sacrificar a un Animal en la vía pública sin que medie motivo de caso fo
 
 XXV. No sacrificar inmediatamente, los propietarios, encargados o administradores de expendios de Animales o rastros, al Animal que por cualquier causa se hubiese lesionado gravemente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2015)</small>
+XXVI. Realizar la exhibición de Animales de circos y ferias para promocionar sus espectáculos en remolques o vehículos automotores que circulen por las vías públicas, sin la autorización previa correspondiente;
 
-XXVI. Realizar la exhibición de Animales para promocionar espectáculos en remolques o vehículos automotores que circulen por las vías públicas, sin la autorización previa correspondiente; y,
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XXVII. Las demás previstas en las disposiciones de la presente Ley y Reglamentos aplicables.
+XXVII. Abandonar a un animal o desatenderlo por períodos prolongados que comprometan su bienestar;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XXVIII. Incitar a los animales para que se ataquen entre ellos, o no tener el cuidado, siempre que por su ferocidad o fuerza de los animales se pueda provocar lesiones o la muerte, y
+
+XXIX. Las demás previstas en las disposiciones de la presente Ley y Reglamentos aplicables.
 
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -1920,3 +1936,19 @@ P.O. 19 DE NOVIEMBRE DE 2023.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 205 EL CUAL REFORMA A LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 206 EL CUAL REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
