@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-pueblos-y-comunidades-80652"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-08"
-last_updated: "2025-06-25"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION DE LOS PUEBLOS Y COMUNIDADES INDIGENAS Y AFROMEXICANAS EN EL ESTADO DE GUANAJUATO -- ANTES LEY PARA LA PROTECCION DE LOS PUEBLOS Y COMUNIDADES INDIGENAS EN EL ESTADO DE GUANAJUATO --
 
-LEY PARA LA PROTECCIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS EN EL ESTADO DE GUANAJUATO
+LEY PARA LA PROTECCIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de abril de 2011.
 
@@ -39,7 +39,9 @@ LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE
 
 Se expide la Ley para la Protección de los Pueblos y Comunidades Indígenas en el estado de Guanajuato, para quedar como sigue:
 
-LEY PARA LA PROTECCIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS EN EL ESTADO DE GUANAJUATO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+LEY PARA LA PROTECCIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS EN EL ESTADO DE GUANAJUATO
 
 ### Capítulo I. Disposiciones generales
 
@@ -49,11 +51,17 @@ Naturaleza y objeto
 
 La presente Ley es de orden público e interés social y de observancia general en el Estado, y tiene por objeto:
 
-I. Establecer el marco jurídico y los lineamientos de las políticas públicas para garantizar el ejercicio de los derechos colectivos e individuales de los pueblos y las comunidades indígenas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-II. Regular las relaciones entre los poderes del Estado, los municipios y los pueblos y las comunidades indígenas, a fin de impulsar su desarrollo social, económico, cultural y político; y
+I. Establecer el marco jurídico y los lineamientos de las políticas públicas para garantizar el ejercicio de los derechos colectivos e individuales de los pueblos y las comunidades indígenas y afromexicanas; y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas conjuntamente con ellos;
 
-III. Reconocer y preservar los derechos, la lengua, la cultura, la identidad, la integridad de sus tierras y las formas específicas de organización de los pueblos y las comunidades indígenas.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+II. Regular las relaciones entre los poderes del Estado, los municipios y los pueblos y las comunidades indígenas y afromexicanas, a fin de impulsar su desarrollo social, económico, cultural y político; y
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+III. Reconocer y preservar los derechos, la lengua, la cultura, la identidad, la integridad de sus tierras y las formas específicas de organización de los pueblos y las comunidades indígenas y afromexicanas.
 
 Sujetos obligados
 
@@ -63,9 +71,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Sujetos protegidos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-La presente Ley reconoce y protege a los siguientes pueblos y comunidades indígenas originarios del Estado:
+La presente Ley reconoce y protege a los siguientes pueblos y comunidades indígenas originarios del Estado como sujetos de derecho público con personalidad jurídica y patrimonio propio, en los términos de la Constitución Política de los Estados Unidos Mexicanos:
 
 I. Chichimeca, Ezar o Jonaz;
 
@@ -75,15 +85,29 @@ III. Pame.
 
 Así como a los migrantes de los pueblos Nahua, Mazahua, Purépecha, Zapotecos, Wixárika, Mixtecos, Mixes y Mayas, y demás pueblos y comunidades indígenas que transiten o residan de forma temporal o permanente en la entidad.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Reconocimiento y protección
+
+###### Artículo 3 Bis.
+
+La presente Ley reconoce y protege a los pueblos y comunidades afromexicanas originarias del Estado, así como a aquellas personas afromexicanas que transiten o residan de forma temporal o permanente en la entidad.
+
 Criterio de aplicación
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 4.
 
-La conciencia de su identidad indígena, es el criterio fundamental para determinar a quiénes se les aplican las disposiciones contenidas en la presente Ley.
+La conciencia de su identidad indígena y afromexicana, es el criterio fundamental para determinar a quiénes se les aplican las disposiciones contenidas en la presente Ley.
 
 Solución de conflictos
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 5.
+
+La Jurisdicción Indígena se ejercerá por las autoridades comunitarias de acuerdo con sus sistemas normativos internos, dentro del marco del orden jurídico vigente, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres.
 
 En los conflictos de los pueblos y las comunidades indígenas, los poderes del Estado y los municipios promoverán la conciliación para la solución definitiva de éstos, con la participación de las autoridades indígenas.
 
@@ -101,7 +125,9 @@ II. Autoridades indígenas: son aquéllas que los pueblos y las comunidades ind�
 
 III. Ceremonias tradicionales: son los actos propios, de culto, festivos, devociones, luctuosos y religiosos, realizados por los pueblos y las comunidades indígenas conforme a los usos, costumbres y tradiciones que les legaron sus ancestros y que se llevan a cabo respetando su derecho a la libre determinación;
 
-IV. Comunidad indígena: es aquélla que forma una unidad social, económica y cultural, asentada en un territorio y que reconoce autoridades propias de acuerdo con sus usos y costumbres;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+IV. Comunidad indígena: es aquélla que forma una unidad social, económica y cultural, asentada en un territorio y que reconoce autoridades propias de acuerdo con sus sistemas normativos;
 
 V. Derechos colectivos: son las facultades y prerrogativas que reconoce el orden jurídico vigente a los pueblos y las comunidades indígenas, en los ámbitos político, económico, social, cultural y jurisdiccional, para garantizar su existencia, permanencia, dignidad, bienestar y no discriminación, basadas en la pertenencia a los pueblos indígenas;
 
@@ -119,47 +145,65 @@ XI. Propiedad colectiva indígena: es el derecho de cada pueblo y comunidad ind�
 
 XII. Pueblo indígena: es aquél que desciende de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales, políticas, o parte de ellas;
 
-XIII. Representante indígena: es la persona perteneciente a uno de los pueblos o comunidades indígenas establecidos en la entidad, a la que le es conferido un cargo o representación en su comunidad o por su pueblo, de acuerdo a sus usos, costumbres y tradiciones ancestrales;
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+XIII. Pueblos y comunidades afromexicanas: son aquellas que se integran por descendientes de personas originarias de poblaciones del continente africano trasladadas y asentadas en el territorio nacional desde la época colonial, con formas propias de organización social, económica, política y cultural, o parte de ellas, y afirman su existencia como colectividades culturalmente diferenciadas;
 
-XIV. Secretaría: la Secretaría del Nuevo Comienzo;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XV. SIDESIG: el Sistema para el Desarrollo Integral y Sustentable de los Pueblos y Comunidades Indígenas de Guanajuato;
+XIV. Representante indígena: es la persona perteneciente a uno de los pueblos o comunidades indígenas establecidos en la entidad, a la que le es conferido un cargo o representación en su comunidad o por su pueblo, de acuerdo a sus usos, costumbres y tradiciones ancestrales;
 
-XVI. Sistema normativo interno: es el conjunto de normas orales o escritas, procedimientos y autoridades de carácter consuetudinario, que los pueblos y las comunidades indígenas reconocen como válidas y aplican para regular sus actos públicos y privados, prevenir y resolver los conflictos internos, así como para delimitar los derechos y las obligaciones, siempre que no constituyan violaciones a los derechos humanos, respeten las garantías individuales y la dignidad e integridad de las mujeres;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XVII. Sitios sagrados: son los lugares que en el proceso del desarrollo histórico y cultural de los pueblos indígenas, adquieren una significación que los califica como parte relevante de su identidad, y que dan manifestación a las diversas expresiones culturales, religiosas o rituales que les legaron sus ancestros;
+XV. Secretaría: la Secretaría de Derechos Humanos;
 
-XVIII. Territorio indígena: es la porción de territorio del Estado constituida por espacios continuos y discontinuos, ocupados, poseídos y utilizados por los pueblos y las comunidades indígenas, en cuyos ámbitos espacial, material, social y cultural se desenvuelven y expresan su forma específica de relacionarse, sin detrimento alguno de las disposiciones contenidas en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XIX. Usos y costumbres: es el conjunto de instituciones, procedimientos y normas que contribuyen a la integración social de los pueblos y las comunidades indígenas y que constituyen el rasgo característico que los individualiza como tales.
+XVI. SIDESIAG: el Sistema para el Desarrollo Integral y Sustentable de los Pueblos y Comunidades Indígenas y Afromexicanas de Guanajuato;
 
-### Capítulo II. Padrón de Pueblos y Comunidades Indígenas
+XVII. Sistema normativo interno: es el conjunto de normas orales o escritas, procedimientos y autoridades de carácter consuetudinario, que los pueblos y las comunidades indígenas reconocen como válidas y aplican para regular sus actos públicos y privados, prevenir y resolver los conflictos internos, así como para delimitar los derechos y las obligaciones, siempre que no constituyan violaciones a los derechos humanos, respeten las garantías individuales y la dignidad e integridad de las mujeres;
 
-Registro de pueblos y comunidades indígenas
+XVIII. Sitios sagrados: son los lugares que en el proceso del desarrollo histórico y cultural de los pueblos indígenas, adquieren una significación que los califica como parte relevante de su identidad, y que dan manifestación a las diversas expresiones culturales, religiosas o rituales que les legaron sus ancestros;
+
+XIX. Territorio indígena: es la porción de territorio del Estado constituida por espacios continuos y discontinuos, ocupados, poseídos y utilizados por los pueblos y las comunidades indígenas, en cuyos ámbitos espacial, material, social y cultural se desenvuelven y expresan su forma específica de relacionarse, sin detrimento alguno de las disposiciones contenidas en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+XX. Usos y costumbres: es el conjunto de instituciones, procedimientos y normas que contribuyen a la integración social de los pueblos y las comunidades indígenas y que constituyen el rasgo característico que los individualiza como tales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+### Capítulo II. Padrón de Pueblos y Comunidades Indígenas y Afromexicanas
+
+> <small>(REFORMADO [N. DE E. ACÁPITE], P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Registro de pueblos y comunidades indígenas y afromexicanas
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 7.
 
-El Poder Ejecutivo, a través de la Secretaría, tendrá a su cargo el Padrón de Pueblos y Comunidades Indígenas.
+El Poder Ejecutivo, a través de la Secretaría, tendrá a su cargo el Padrón de Pueblos y Comunidades Indígenas y Afromexicanas.
 
-El registro en el Padrón de Pueblos y Comunidades Indígenas tiene por objeto identificar, mediante una metodología participativa de la población, la información relacionada con la estructura, organización y cultura de los pueblos y las comunidades indígenas, a efecto de producir el reconocimiento como pueblo o comunidad indígena y que éstos puedan ejercer los derechos colectivos que esta Ley les confiere, sin que la omisión de su registro limite o desconozca los derechos que la Constitución Política de los Estados Unidos Mexicanos y las leyes les reconocen, cuando a través de otros medios acrediten su condición de pueblo o comunidad indígena ante la autoridad que instan.
+El registro en el Padrón de Pueblos y Comunidades Indígenas y Afromexicanas tiene por objeto identificar, mediante una metodología participativa de la población, la información relacionada con la estructura, organización y cultura de los pueblos y las comunidades indígenas, a efecto de producir el reconocimiento como pueblo o comunidad indígena o afromexicana y que estos puedan ejercer los derechos colectivos que esta Ley les confiere, sin que la omisión de su registro limite o desconozca los derechos que la Constitución Política de los Estados Unidos Mexicanos y las leyes les reconocen, cuando a través de otros medios acrediten su condición de pueblo o comunidad indígena o afromexicana ante la autoridad que instan.
 
-La autoridad ante la cual se acredite la calidad de pueblo o comunidad indígena dará aviso a la Secretaría para su registro en el Padrón de Pueblos y Comunidades Indígenas.
+La autoridad ante la cual se acredite la calidad de pueblo o comunidad indígena o afromexicana dará aviso a la Secretaría para su registro en el Padrón de Pueblos y Comunidades Indígenas y Afromexicanas.
 
 Apoyo para el registro
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-Los pueblos y las comunidades indígenas podrán solicitar a la Secretaría el registro al Padrón de Pueblos y Comunidades Indígenas.
+Los pueblos y las comunidades indígenas y afromexicanas podrán solicitar a la Secretaría el registro al Padrón de Pueblos y Comunidades Indígenas y Afromexicanas.
 
-Durante el registro, los pueblos y las comunidades indígenas estarán asesorados en todo momento por la Secretaría, quien estará obligada a proporcionarles el apoyo técnico, económico y metodológico que requieran.
+Durante el registro, los pueblos y las comunidades indígenas y afromexicanas estarán asesorados en todo momento por la Secretaría, quien estará obligada a proporcionarles el apoyo técnico, económico y metodológico que requieran.
 
 Procedencia de la solicitud de registro
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 9.
 
-De resultar procedente la solicitud de registro, se asentará la misma en el Padrón de Pueblos y Comunidades Indígenas; firmarán las partes que intervinieron en dicho acto y se otorgará una constancia del registro al pueblo o comunidad indígena.
+De resultar procedente la solicitud de registro, se asentará la misma en el Padrón de Pueblos y Comunidades Indígenas y Afromexicanas; firmarán las partes que intervinieron en dicho acto y se otorgará una constancia del registro al pueblo o comunidad indígena o afromexicana.
 
 ### Capítulo III. Autoridades indígenas y representantes
 
@@ -191,29 +235,37 @@ Quienes integren los sistemas de seguridad comunitaria indígena, se conducirán
 
 Designación de representantes
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-En los municipios con población indígena, los pueblos y las comunidades indígenas tendrán la facultad de elegir representantes ante el Ayuntamiento respectivo.
+En los municipios con población indígena y afromexicana, los pueblos y las comunidades indígenas y afromexicanas tendrán la facultad de elegir representantes ante el Ayuntamiento respectivo, de acuerdo con los principios de paridad de género y pluriculturalidad.
 
-El Ayuntamiento deberá notificar a la autoridad indígena, con al menos cuarenta y ocho horas de anticipación, sobre la celebración de sesiones del Ayuntamiento en las que se resolverá sobre asuntos que competan al pueblo o a la comunidad que aquella autoridad representa, con el fin de que ésta pueda participar, con voz, en defensa de los intereses de su pueblo o comunidad.
+El Ayuntamiento deberá notificar a las personas representantes con al menos cuarenta y ocho horas de anticipación, sobre la celebración de sesiones del Ayuntamiento en las que se resolverá sobre asuntos que competan al pueblo o a la comunidad que representan, con el fin de que esta pueda participar, con voz, en defensa de los intereses de su pueblo o comunidad.
 
-Los acuerdos que competan a los pueblos y a las comunidades indígenas, tomados en sesiones en las que no se haya cumplido con la notificación a que se refiere el párrafo anterior, serán nulos.
+Los acuerdos que competan a los pueblos y a las comunidades indígenas y afromexicanas, tomados en sesiones en las que no se haya cumplido con la notificación a que se refiere el párrafo anterior, serán nulos.
 
-### Capítulo IV. Derechos de los indígenas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+### Capítulo IV. Derechos de las personas indígenas y afromexicanas
 
 #### Sección primera. Derecho a la no discriminación
 
 Derecho a la no discriminación
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 13.
 
-Los pueblos y las comunidades indígenas tienen derecho a vivir dentro de sus tradiciones culturales, en libertad, paz, seguridad y justicia, con identidad propia, quedando prohibida toda clase de discriminación que atente contra la dignidad humana o contra los derechos y libertades de la persona, con motivo de su origen étnico, nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición que tenga por objeto anular o menoscabar sus derechos y libertades o que implique deshonra, descrédito o perjuicio por la pertenencia a un pueblo o comunidad indígena.
+Los pueblos y las comunidades indígenas y afromexicanas tienen derecho a vivir dentro de sus tradiciones culturales, en libertad, paz, seguridad y justicia, con identidad propia, quedando prohibida toda clase de discriminación que atente contra la dignidad humana o contra los derechos y libertades de la persona, con motivo de su origen étnico, nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición que tenga por objeto anular o menoscabar sus derechos y libertades o que implique deshonra, descrédito o perjuicio por la pertenencia a un pueblo o comunidad indígena o afromexicana.
 
 Promoción de la igualdad de oportunidades
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-Los sujetos obligados, en el ámbito de sus respectivas competencias, implementarán acciones encaminadas a promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, a fin de garantizar la vigencia de sus derechos y el desarrollo integral de sus pueblos y comunidades.
+Los sujetos obligados, en el ámbito de sus respectivas competencias, implementarán acciones encaminadas a promover la igualdad de oportunidades de los indígenas y afromexicanos y eliminar cualquier práctica discriminatoria, a fin de garantizar la vigencia de sus derechos y el desarrollo integral de sus pueblos y comunidades.
 
 #### Sección segunda. Derecho a ejercer su autonomía
 
@@ -227,9 +279,11 @@ El Estado reconoce el derecho de los pueblos y las comunidades indígenas a ejer
 
 Derecho de asociación
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 16.
 
-Los pueblos y las comunidades indígenas podrán formar libremente asociaciones para los fines que consideren convenientes, siempre y cuando sean lícitos.
+Los pueblos y las comunidades indígenas y afromexicanas podrán formar libremente asociaciones para los fines que consideren convenientes, siempre y cuando sean lícitos.
 
 #### Sección cuarta. Derecho a su territorio
 
@@ -371,9 +425,27 @@ El Estado y los municipios garantizarán la dotación de servicios públicos bá
 
 Derecho a ser consultados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 35.
 
-Es derecho de todo pueblo y comunidad indígena ser consultado mediante procedimientos apropiados y, en particular, a través de sus instituciones representativas, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles directamente. El Estado garantizará el acceso a este derecho y adoptará las medidas necesarias para hacerlo efectivo.
+Es derecho de todo pueblo y comunidad indígena y afromexicana ser consultado mediante procedimientos apropiados y, en particular, a través de sus instituciones representativas, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles directamente. El Estado garantizará el acceso a este derecho y adoptará las medidas necesarias para hacerlo efectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Las consultas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos y comunidades indígenas y afromexicanas reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Cuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por este.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+La persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas o afromexicanas un beneficio justo y equitativo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Los pueblos y comunidades indígenas y afromexicanas son los únicos legitimados para impugnar, por las vías jurisdiccionales establecidas, el incumplimiento del derecho reconocido en el presente artículo.
 
 ### Capítulo V. Medio ambiente y recursos naturales
 
@@ -413,9 +485,11 @@ Igualmente, los pueblos y las comunidades indígenas tienen el derecho al uso y 
 
 Protección al patrimonio cultural
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 40.
 
-Los pueblos y las comunidades indígenas tienen derecho a la protección de su patrimonio cultural. Para la eficaz protección del patrimonio cultural tangible e intangible, se atenderá a los programas de protección, conservación y restauración, expedidos por el titular del Poder Ejecutivo.
+Los pueblos y las comunidades indígenas y afromexicanas tienen derecho a la protección de su patrimonio cultural. Para la eficaz protección del patrimonio cultural tangible e intangible, se atenderá a los programas de protección, conservación y restauración, expedidos por la persona titular del Poder Ejecutivo.
 
 Coordinación para el acceso y uso de sitios sagrados
 
@@ -431,6 +505,14 @@ Protección de las lenguas indígenas
 
 Las lenguas indígenas son parte integrante del patrimonio cultural del Estado, como una de las principales expresiones de su composición pluricultural.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Promoción de las lenguas indígenas
+
+###### Artículo 42 Bis.
+
+El Gobierno del Estado y los municipios deberán promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural del Estado, así como una política lingüística multilingüe que permita su uso en los espacios públicos y privados que correspondan.
+
 Recepción de promociones en la lengua indígena
 
 ###### Artículo 43.
@@ -441,9 +523,11 @@ Para garantizar el ejercicio del derecho de petición, toda promoción que se pr
 
 Acceso al sistema de justicia
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 44.
 
-El Estado garantizará el efectivo acceso de los integrantes de los pueblos y comunidades indígenas al sistema de impartición de justicia del Estado, en el que deberán tomarse en cuenta sus derechos, usos y costumbres, como miembros de la población indígena, respetando en todo momento la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen.
+El Estado garantizará el efectivo acceso de los integrantes de los pueblos y comunidades indígenas y afromexicanas al sistema de impartición de justicia del Estado, en el que deberán tomarse en cuenta sus derechos, usos y costumbres, como miembros de la población indígena y afromexicana, respetando en todo momento la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen.
 
 Acceso a la jurisdicción del Estado
 
@@ -473,9 +557,11 @@ Las agencias del Ministerio Público cuyo ámbito de competencia incida en los t
 
 Promoción de derechos y obligaciones
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 48.
 
-Los sujetos obligados promoverán los derechos y las obligaciones reconocidos en la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales, Constitución Política para el Estado de Guanajuato y esta Ley, en materia de derechos humanos en general y en particular de derechos de niñas, niños y adolescentes, mujeres y adultos mayores indígenas.
+Los sujetos obligados promoverán los derechos y las obligaciones reconocidos en la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales, Constitución Política para el Estado de Guanajuato y esta Ley, en materia de derechos humanos en general y en particular de derechos de niñas, niños y adolescentes, mujeres y adultos mayores indígenas y afromexicanos.
 
 Promoción de la igualdad de derechos y oportunidades
 
@@ -503,25 +589,35 @@ Los sujetos obligados coadyuvarán para garantizar el derecho de las niñas, ni�
 
 ### Capítulo X. Atención a los indígenas migrantes
 
-Respeto a los derechos de los indígenas migrantes
+> <small>(REFORMADO [N. DE E. ACÁPITE], P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Respeto a los derechos de los indígenas y afromexicanos migrantes
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 53.
 
-El Estado y los municipios procurarán, a través de las instancias competentes, la atención específica y el respeto a los derechos de los pueblos y las comunidades indígenas provenientes de otras entidades, que residen temporal o permanentemente en el territorio del Estado. En conjunto con la sociedad respetarán su trabajo, su permanencia y sus derechos.
+El Estado y los municipios procurarán, a través de las instancias competentes, la atención específica y el respeto a los derechos de los pueblos y las comunidades indígenas y afromexicanas provenientes de otras entidades, que residen temporal o permanentemente en el territorio del Estado. En conjunto con la sociedad respetarán su trabajo, su permanencia y sus derechos.
 
-Promoción del desarrollo humano integral de los indígenas migrantes
+> <small>(REFORMADO [N. DE E. ACÁPITE], P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Promoción del desarrollo humano integral de los indígenas y afromexicanos migrantes
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 54.
 
-El Estado apoyará a los gobiernos municipales para implementar acciones y programas, a fin de promover el desarrollo humano integral de los indígenas migrantes.
+El Estado apoyará a los gobiernos municipales para implementar acciones y programas, a fin de promover el desarrollo humano integral de los indígenas y afromexicanos migrantes.
 
 ### Capítulo XI. Desarrollo integral y sustentable de los pueblos y las comunidades indígenas
 
-Desarrollo integral y sustentable de los pueblos y las comunidades indígenas
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Desarrollo integral y sustentable de los pueblos y las comunidades indígenas y afromexicanas
 
 ###### Artículo 55.
 
-El Gobierno del Estado y los municipios impulsarán el desarrollo integral y sustentable de los pueblos y las comunidades indígenas, con el diseño participativo de todo tipo de proyectos.
+El Gobierno del Estado y los municipios impulsarán el desarrollo integral y sustentable de los pueblos y las comunidades indígenas y afromexicanas, respetando sus formas de organización económica, social y cultural, cuidando el medio ambiente y sus recursos naturales, con el diseño participativo de todo tipo de proyectos.
 
 La faena o tequio como aportación económica
 
@@ -537,55 +633,79 @@ A fin de garantizar el incremento de las capacidades de los individuos de los pu
 
 ### Capítulo XII. Consulta para los planes de desarrollo
 
-Participación de los pueblos y las comunidades indígenas
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Participación de los pueblos y las comunidades indígenas y afromexicanas
 
 ###### Artículo 58.
 
-El Estado y los municipios garantizarán la participación de los pueblos y las comunidades indígenas en la planeación, elaboración, ejecución y evaluación de los planes comunitarios y planes micro regionales de desarrollo, así como en los proyectos específicos derivados de los anteriores.
+El Estado y los municipios garantizarán la participación de los pueblos y las comunidades indígenas y afromexicanas en la planeación, elaboración, ejecución y evaluación de los planes comunitarios y planes micro regionales de desarrollo, así como en los proyectos específicos derivados de los anteriores.
 
 Coadyuvancia en la elaboración de planes y programas
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 59.
 
-Los pueblos y las comunidades indígenas coadyuvarán en la elaboración de los planes y programas de desarrollo del Estado y de los municipios, debiendo integrar un diagnóstico que contenga la situación que prevalezca en su pueblo o comunidad.
+Los pueblos y las comunidades indígenas y afromexicanas coadyuvarán en la elaboración de los planes y programas de desarrollo del Estado y de los municipios, debiendo integrar un diagnóstico que contenga la situación que prevalezca en su pueblo o comunidad.
 
 Implementación de planes y programas
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 60.
 
-El Estado y los municipios implementarán planes y programas, con una visión estratégica que permita el desarrollo endógeno, equilibrado, sustentable e intercultural de las diferentes regiones con presencia indígena.
+El Estado y los municipios implementarán planes y programas, con una visión estratégica que permita el desarrollo endógeno, equilibrado, sustentable e intercultural de las diferentes regiones con presencia indígena y afromexicana.
 
-### Capítulo XIII. Sistema para el Desarrollo Integral y Sustentable de los Pueblos y Comunidades Indígenas de Guanajuato
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-Integración del SIDESIG
+### Capítulo XIII. Sistema para el Desarrollo Integral y Sustentable de los Pueblos y Comunidades Indígenas y Afromexicanas de Guanajuato
+
+> <small>(REFORMADO [N. DE E. ACÁPITE], P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Integración de SEDESIAG (SIC)
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 61.
 
-El SIDESIG es el conjunto de estructuras coordinadas por el Gobierno del Estado y los municipios, que tiene por objeto la vinculación y coordinación de políticas, programas y acciones interinstitucionales orientadas a los pueblos y las comunidades indígenas en el Estado.
+El SIDESIAG es el conjunto de estructuras coordinadas por el Gobierno del Estado y los municipios, que tiene por objeto la vinculación y coordinación de políticas, programas y acciones interinstitucionales orientadas a los pueblos y las comunidades indígenas y afromexicanas en el Estado.
 
-Regulación del SIDESIG
+> <small>(REFORMADO [N. DE E. ACÁPITE], P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Regulación del SIDESIAG
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 62.
 
-El SIDESIG se regirá en lo que hace a su organización, estructura y funcionamiento, además de lo dispuesto por esta Ley, por lo que establezca el reglamento que se expida para tal efecto.
+El SIDESIAG se regirá en lo que hace a su organización, estructura y funcionamiento, además de lo dispuesto por esta Ley, por lo que establezca el reglamento que se expida para tal efecto.
 
-Naturaleza del Comité estatal de los pueblos y las comunidades indígenas
+> <small>(REFORMADO [N. DE E. ACÁPITE], P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Naturaleza del Comité estatal de los pueblos y las comunidades indígenas y afromexicanas
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 63.
 
-El SIDESIG contará con un Comité estatal de los pueblos y las comunidades indígenas, como órgano de dirección y coordinación.
+El SIDESIAG contará con un Comité estatal de los pueblos y las comunidades indígenas y afromexicanas, como órgano de dirección y coordinación.
 
-#### Sección primera. Comité estatal de los pueblos y las comunidades indígenas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+#### Sección primera. Comité estatal de los pueblos y las comunidades indígenas y afromexicanas
 
 Integración del Comité
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 64.
 
-El Comité estatal de los Pueblos y las comunidades indígenas, estará integrado por:
+El Comité estatal de los pueblos y las comunidades indígenas y afromexicanas, estará integrado por:
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-I. La persona titular de la Secretaría del Nuevo Comienzo, quien asumirá la presidencia;
+I. La persona titular de la Secretaría de Derechos Humanos, quien asumirá la presidencia;
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
@@ -637,37 +757,71 @@ XIV. Hasta cinco representantes de la población indígena en el Estado;
 
 XV. Representantes de los municipios con mayor presencia indígena;
 
-Por cada integrante del Comité habrá un suplente quien lo cubrirá en sus ausencias, mismo que preferentemente deberá tener conocimientos en materia indígena.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XVI. Hasta cinco representantes de la población afromexicana en el Estado; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XVII. Representantes de los municipios con mayor presencia afromexicana.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Por cada integrante del Comité habrá un suplente quien lo cubrirá en sus ausencias, mismo que preferentemente deberá tener conocimientos en materia indígena y afromexicana.
 
 Los integrantes del Comité tendrán derecho a voz y voto.
 
-El reglamento determinará los criterios conforme a los cuales se designará a los representantes de las organizaciones no gubernamentales y de los municipios.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-Los representantes de las organizaciones no gubernamentales durarán en sus funciones dos años, quienes podrán ser ratificados hasta por un segundo periodo. Los representantes de la población indígena determinarán conforme a sus usos y costumbres, la sustitución.
+El reglamento determinará los criterios conforme a los cuales se designará a los representantes de las organizaciones no gubernamentales y de los municipios. Para lo cual se deberán considerar las distintas regiones que conforman el Estado.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Los representantes de las organizaciones no gubernamentales durarán en sus funciones dos años, quienes podrán ser ratificados hasta por un segundo periodo. Los representantes de la población indígena y afromexicana determinarán conforme a sus usos y costumbres la sustitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 65.
 
-El Comité estatal de los pueblos y las comunidades indígenas tendrá (sic) las siguientes atribuciones:
+El Comité estatal de los pueblos y las comunidades indígenas y afromexicanas tendrá las siguientes atribuciones:
 
 I. Establecer las estrategias interinstitucionales y de vinculación con la sociedad que permitan dar cumplimiento a los principios y disposiciones establecidos en la presente Ley;
 
-II. Diseñar políticas públicas, que articulen los recursos humanos, materiales y operativos de las instituciones públicas que integran el Comité, para brindar atención a los indígenas en la entidad;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-III. Fomentar y fortalecer la colaboración, concertación, coordinación y participación corresponsable de instituciones públicas, privadas y organizaciones sociales en la realización de acciones para garantizar el ejercicio de los derechos de los indígenas en la entidad;
+II. Diseñar políticas públicas que articulen los recursos humanos, materiales y operativos de las instituciones públicas que integran el Comité, para brindar atención a los indígenas y afromexicanos en la entidad;
 
-IV. Propiciar que los principios establecidos en la presente Ley, sean considerados en los procesos de toma de decisiones y en la formulación e instrumentación de las políticas públicas, programas y presupuestos, que tengan impacto directo en las acciones a favor de los indígenas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-V. Apoyar las acciones que emprendan los municipios para mejorar las condiciones de vida de los indígenas;
+III. Fomentar y fortalecer la colaboración, concertación, coordinación y participación corresponsable de instituciones públicas, privadas y organizaciones sociales en la realización de acciones para garantizar el ejercicio de los derechos de los indígenas y afromexicanos en la entidad;
 
-VI. Colaborar en el diseño y ejecución de los programas de acción a favor de los indígenas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-VII. Establecer una vinculación operativa de los representantes de los pueblos y las comunidades indígenas con las instituciones públicas, para optimizar el diseño y ejecución de los programas a favor de sus integrantes;
+IV. Propiciar que los principios establecidos en la presente Ley sean considerados en los procesos de toma de decisiones y en la formulación e instrumentación de las políticas públicas, programas y presupuestos, que tengan impacto directo en las acciones a favor de los indígenas y afromexicanos;
 
-VIII. Impulsar la formación de recursos humanos y el fortalecimiento del capital social en los pueblos y las comunidades indígenas, que permita la participación corresponsable de este sector de la población en sus procesos de desarrollo;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-IX. Vigilar que los programas a favor de los indígenas, se realicen con un enfoque intercultural y sustentable;
+V. Apoyar las acciones que emprendan los municipios para mejorar las condiciones de vida de los indígenas y afromexicanos;
 
-X. Promover y coordinar la realización de estudios e investigaciones sobre la población indígena en el Estado y su problemática, para la actualización permanente de las políticas públicas en la materia;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+VI. Colaborar en el diseño y ejecución de los programas de acción a favor de los indígenas y afromexicanos;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+VII. Establecer una vinculación operativa de los representantes de los pueblos y las comunidades indígenas y afromexicanas con las instituciones públicas, para optimizar el diseño y ejecución de los programas a favor de sus integrantes;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+VIII. Impulsar la formación de recursos humanos y el fortalecimiento del capital social en los pueblos y las comunidades indígenas y afromexicanas, que permita la participación corresponsable de este sector de la población en sus procesos de desarrollo;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+IX. Vigilar que los programas a favor de los indígenas y afromexicanos se realicen con un enfoque intercultural y sustentable;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+X. Promover y coordinar la realización de estudios e investigaciones sobre la población indígena y afromexicana en el Estado y su problemática, para la actualización permanente de las políticas públicas en la materia;
 
 XI. Elaborar su programa anual de actividades; y
 
@@ -675,11 +829,13 @@ XII. Las demás que le otorguen esta Ley y su reglamento.
 
 Invitación a las sesiones del Comité
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 66.
 
-El Presidente del Comité estatal de los pueblos y las comunidades indígenas, podrá invitar a las sesiones del Comité a representantes de los sectores público, social y privado, atendiendo al tema que se tratará en las mismas, quienes tendrán derecho a voz pero no a voto.
+El presidente del Comité estatal de los pueblos y las comunidades indígenas y afromexicanas podrá invitar a las sesiones del Comité a representantes de los sectores público, social y privado, atendiendo al tema que se tratará en las mismas, quienes tendrán derecho a voz, pero no a voto.
 
-Asimismo, se podrá invitar al representante en el Estado ante el órgano de consulta del organismo federal encargado de orientar, coordinar, promover, apoyar, fomentar, dar seguimiento y evaluar los programas, proyectos, estrategias y acciones públicas para el desarrollo integral y sustentable de los pueblos y las comunidades indígenas.
+Asimismo, se podrá invitar al representante en el Estado ante el órgano de consulta del organismo federal encargado de orientar, coordinar, promover, apoyar, fomentar, dar seguimiento y evaluar los programas, proyectos, estrategias y acciones públicas para el desarrollo integral y sustentable de los pueblos y las comunidades indígenas y afromexicanas.
 
 Carácter honorífico de los integrantes del Comité
 
@@ -814,3 +970,15 @@ Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así
 Referencias
 
 Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 85 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS EN EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Adecuación normativa
+
+Artículo Segundo. El Ejecutivo del Estado y los ayuntamientos deberán realizar las adecuaciones necesarias para el cumplimiento del presente decreto, en un término de seis meses contados a partir de la entrada en vigor del presente Decreto.
