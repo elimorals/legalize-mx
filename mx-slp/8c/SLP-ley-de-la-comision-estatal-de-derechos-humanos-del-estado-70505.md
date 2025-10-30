@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2025-10-02"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -192,6 +194,14 @@ En aplicación del Principio Pro Persona, la Comisión obligatoriamente interpre
 ###### ARTICULO 14.
 
 En aplicación del Principio Pro Homine, la Comisión obligatoriamente interpretará toda norma y situación buscando el mayor beneficio para la persona humana que, en una relación de competencia o litigio, se encuentre mayormente afectada en sus Derechos Humanos, o esté en peor condición para defenderse, o para hacer efectivos sus derechos, ante lo cual debe aplicar, en todos los casos, la suplencia en la deficiencia de la queja.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+En el caso de que los solicitantes sean menores de edad, o personas adultas mayores, o personas que no sepan o no puedan leer o escribir, las quejas y denuncias podrán presentarse de manera oral, para lo cual aplicará los criterios de suplencia y de acción afirmativa.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+En el caso de personas que no hablen español, o lo hablen de manera insuficiente, o de las personas que pertenezcan a grupos de atención prioritaria, cuando así se requiera, especialmente cuando no sepan leer o escribir, la Comisión deberá proporcionar una persona intérprete de su lengua o bien en su caso la lengua de señas mexicana, para que puedan presentar su queja o denuncia de manera oral.
 
 ###### ARTICULO 15.
 
@@ -680,6 +690,10 @@ Sin perjuicio de otras responsabilidades en que incurra, ni de la aplicación de
 ###### ARTICULO 39.
 
 El Consejo está compuesto por ciudadanas y ciudadanos, siendo el representante de la sociedad civil, que discute, guía, decide y supervisa las políticas públicas en materia de Derechos Humanos. Las resoluciones del Consejo se tomarán por el voto del cincuenta por ciento más uno de los consejeros presentes, salvo las excepciones que establece esta Ley, y aquéllas que establezca el propio órgano colegiado en sus lineamientos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+Las personas que integran este consejo serán regidas por lo establecido en el artículo 49 de la presente Ley, y no podrán ser considerados Servidores Públicos.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2022)</small>
 
@@ -2112,5 +2126,21 @@ P.O. 2 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- QUE REFORMA DIVERSAS DISPOSICIONES DE LEYES ESTATALES, SUSTITUYENDO EL TÉRMINO “GRUPOS VULNERABLES” POR “GRUPOS DE ATENCIÓN PRIORITARIA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0295.- QUE REALIZA ADICIÓN AL ARTÍCULO 39, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0296.- QUE REALIZA ADICIÓN AL ARTÍCULO 14, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”. Con excepción del tercer párrafo del artículo 14 que se adiciona en este Decreto, que entrará en vigor el primer día del siguiente ejercicio fiscal, posterior a su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
