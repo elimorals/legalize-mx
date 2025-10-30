@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-y-desarrollo-agricola-para-el-estado-de-151317"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-24"
-last_updated: "2025-04-09"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FOMENTO Y DESARROLLO AGRÍCOLA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Ley publicada en la Tercera Parte al Número 191 del Periódico Oficial del Estado de Guanajuato, el viernes 24 de septiembre de 2021.
 
@@ -175,25 +175,35 @@ XII. Ley: Ley de Fomento y Desarrollo Agrícola para el Estado de Guanajuato;
 
 XIII. Maquinaria Agrícola: Aquella que tiene autonomía de funcionamiento, con motor de combustión o mediante otros medios de transmisión, que les permiten trasladarse por el campo para el desarrollo de las actividades de producción agrícola y pecuaria;
 
-XIV. Plaga: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino a los vegetales;
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XV. Plaguicida: Insumo destinado a prevenir, repeler, combatir y destruir plagas;
+XIV. Persona Jornalera Agrícola: Aquellas personas que son contratadas por obra, tiempo determinado o por temporada en labores dirigidas a la obtención de alimentos o productos primarios a través de la realización de diversas tareas agrícolas, hortícolas, ganaderas, forestales, acuícolas, avícolas, apícolas u otras semejantes, siempre que éstas no sean sometidas a algún tipo de proceso industrial y en tanto se desarrollen en ámbitos rurales;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+XV. Persona Migrante Jornalera Agrícola: Toda persona que sale de su lugar de origen o residencia y se desplaza temporal o estacional por el Estado de Guanajuato con el propósito de llevar a cabo una actividad laboral agrícola;
+
+XVI. Plaga: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino a los vegetales;
+
+XVII. Plaguicida: Insumo destinado a prevenir, repeler, combatir y destruir plagas;
 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2023)</small>
 
-XVI. Registro: El Registro de Maquinaria e Implementos Agrícolas del Estado de Guanajuato;
+XVIII. Registro: El Registro de Maquinaria e Implementos Agrícolas del Estado de Guanajuato;
 
-XVII. Unidad de Producción: Las personas que directa o indirectamente se dedican a la producción y comercialización primaria de productos y subproductos agrícolas;
+XIX. Unidad de Producción: Las personas que directa o indirectamente se dedican a la producción y comercialización primaria de productos y subproductos agrícolas;
 
-XVIII. SADER: Secretaría de Agricultura y Desarrollo Rural;
+XX. SADER: Secretaría de Agricultura y Desarrollo Rural;
 
-XIX. Secretaría: Secretaría de Desarrollo Agroalimentario y Rural;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XX. Semillas: Los frutos o partes de estos, así como las partes vegetales o vegetales completos que puedan utilizarse para la reproducción y propagación de diferentes especies vegetales;
+XXI. Secretaría: Secretaría del Campo;
 
-XXI. Subproducto: Los productos secundarios que se obtienen de la industrialización del producto principal y que representan un valor; y
+XXII. Semillas: Los frutos o partes de estos, así como las partes vegetales o vegetales completos que puedan utilizarse para la reproducción y propagación de diferentes especies vegetales;
 
-XXII. Técnico: El prestador de servicios técnicos agrícolas que, en el ámbito de su formación profesional y técnica comprobable formule, ejecute, evalúe y dictamine programas, proyectos y estudios sobre manejo, producción, diversificación productiva, transformación, industrialización, comercialización, capacitación y asistencia técnica.
+XXIII. Subproducto: Los productos secundarios que se obtienen de la industrialización del producto principal y que representan un valor; y
+
+XXIV. Técnico: El prestador de servicios técnicos agrícolas que, en el ámbito de su formación profesional y técnica comprobable formule, ejecute, evalúe y dictamine programas, proyectos y estudios sobre manejo, producción, diversificación productiva, transformación, industrialización, comercialización, capacitación y asistencia técnica.
 
 ### Capítulo II. Autoridades Competentes
 
@@ -203,11 +213,17 @@ Son autoridades competentes para la aplicación de esta Ley:
 
 I. El Ejecutivo del Estado;
 
-II. La Secretaría de Desarrollo Agroalimentario y Rural;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-III. La Secretaría de Medio Ambiente y Ordenamiento Territorial;
+II. La Secretaría del Campo;
 
-IV. La Secretaría de Desarrollo Económico Sustentable;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+III. La Secretaría del Agua y Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+IV. La Secretaría de Economía;
 
 V. La Procuraduría Ambiental y de Ordenamiento Territorial; y
 
@@ -281,9 +297,11 @@ XII. Realizar el registro de maquinaria e implementos agrícolas para el desarro
 
 XIII. Las demás que esta Ley u otros ordenamientos legales le confieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 11.
 
-Son atribuciones de la Secretaría de Medio Ambiente y Ordenamiento Territorial:
+Son atribuciones de la Secretaría del Agua y Medio Ambiente:
 
 I. Promover en coordinación con el Comité Estatal de Sanidad Vegetal, las medidas para proteger la sanidad vegetal;
 
@@ -299,9 +317,11 @@ VI. Coordinar con la Secretaría, el control y reducción de los impactos al amb
 
 VII. Las demás que esta Ley u otros ordenamientos legales le confieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-Son atribuciones de la Secretaría de Desarrollo Económico Sustentable:
+Son atribuciones de la Secretaría de Economía:
 
 I. Fomentar el consumo y aprovechamiento de los productos agrícolas en la región;
 
@@ -329,7 +349,11 @@ II. Coadyuvar en la vigilancia y protección de las áreas naturales protegidas 
 
 III. Destinar en su presupuesto de egresos, recursos económicos para programas de fomento agrícola y sanidad vegetal; y
 
-IV. Las demás que esta Ley u otros ordenamientos legales le confieran.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+IV. Proponer medidas, acciones y estrategias para atender y proteger los derechos de las personas jornaleras agrícolas y de las personas migrantes jornaleras agrícolas, así como de sus familias; y
+
+V. Las demás que esta Ley u otros ordenamientos legales le confieran.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JULIO DE 2024)</small>
 
@@ -361,7 +385,9 @@ III. Proponer estrategias y políticas públicas enfocadas a la participación a
 
 IV. Integrar grupos de trabajo de investigación con especialistas, empresarios, asociaciones, consultores entre otros, para la obtención de datos que puedan reforzar e innovar en la siembra del agave en territorio guanajuatense;
 
-V. Solicitar en su caso, a la Secretaría de Desarrollo Agroalimentario y Rural el aviso de siembra como instrumento preventivo;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+V. Solicitar en su caso, a la Secretaría del Campo el aviso de siembra como instrumento preventivo;
 
 VI. Coadyuvar con las autoridades estatales y federales para el desarrollo de las medidas fitosanitarias y de inocuidad que se implementen en el Estado de Guanajuato para la siembra y cuidado del agave; y
 
@@ -427,17 +453,21 @@ Los productores agrícolas observarán el uso de las buenas prácticas agrícola
 
 La Secretaría coadyuvará con las autoridades sanitarias en la supervisión, control y uso de plaguicidas, fertilizantes y sustancias tóxicas en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-La Secretaría en coordinación con la Secretaría de Salud, la Secretaría de Medio Ambiente y Ordenamiento Territorial, el Comité Estatal de Sanidad Vegetal, los municipios, productores y asociaciones de productores locales, establecerán un programa de buen uso y manejo de plaguicidas, así como de certificación y aprobación técnica para la profesionalización del uso y manejo de plaguicidas químicos, biológicos y extractos vegetales.
+La Secretaría en coordinación con la Secretaría de Salud, la Secretaría del Agua y Medio Ambiente, el Comité Estatal de Sanidad Vegetal, los municipios, productores y asociaciones de productores locales, establecerán un programa de buen uso y manejo de plaguicidas, así como de certificación y aprobación técnica para la profesionalización del uso y manejo de plaguicidas químicos, biológicos y extractos vegetales.
 
 ###### Artículo 28.
 
 La Secretaría en coordinación con los municipios, unidades de producción y asociaciones de productores locales, fomentarán el uso de métodos de control biológico para el combate de plagas y enfermedades en los cultivos agrícolas establecidos en el estado.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 29.
 
-La Secretaría en coordinación con la Secretaría de Salud, la Secretaría de Medio Ambiente y Ordenamiento Territorial, los municipios, las universidades, fundaciones, institutos de investigación y la iniciativa privada, fomentarán en todas las regiones del estado, proyectos de investigación y estudios de suelos, aguas, plantas, semillas y residuos de plaguicidas en trabajadores agrícolas que estén en contacto permanente con agroquímicos, y establecerán medidas de mitigación de riesgos.
+La Secretaría en coordinación con la Secretaría de Salud, la Secretaría de Agua y Medio Ambiente, los municipios, las universidades, fundaciones, institutos de investigación y la iniciativa privada, fomentarán en todas las regiones del estado, proyectos de investigación y estudios de suelos, aguas, plantas, semillas y residuos de plaguicidas en trabajadores agrícolas que estén en contacto permanente con agroquímicos, y establecerán medidas de mitigación de riesgos.
 
 ### Capítulo IV. Investigación y Tecnología Agrícola
 
@@ -485,9 +515,11 @@ VI. Promover la participación de los municipios, de las organizaciones sociales
 
 ### Capítulo I. Comercialización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 34.
 
-La Secretaría en coordinación con la Secretaría de Desarrollo Económico Sustentable, tendrán a su cargo:
+La Secretaría en coordinación con la Secretaría de Economía, tendrá a su cargo:
 
 I. Promover la constitución de empresas comercializadoras con productores de la entidad, buscando consolidar la inversión estatal y abrir espacios para nuevos inversionistas, implementando mecanismos que considere pertinentes para la certificación;
 
@@ -503,7 +535,9 @@ VI. Promover el diseño y ejecución de programas de capitalización, mecanizaci
 
 VII. Fomentar la ejecución de proyectos viables de reconversión productiva ajustados a la vocación de las tierras;
 
-VIII. Contribuir al desarrollo de proyectos ecológicos en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, tendientes a la utilización racional de tierras y aguas que garanticen la preservación de los recursos naturales y disminuyan su deterioro;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
+
+VIII. Contribuir al desarrollo de proyectos ecológicos en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, y la Secretaría de Agua y Medio Ambiente tendientes a la utilización racional de tierras y aguas que garanticen la preservación de los recursos naturales y disminuyan su deterioro;
 
 IX. Promover el diseño y desarrollo de programas de financiamiento y cobertura de precios para apoyar la comercialización de productos agrícolas;
 
@@ -682,3 +716,9 @@ P.O. 9 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 63, QUE EXPIDE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 3 BIS A LA LEY DE FOMENTO Y DESARROLLO AGRÍCOLA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 92 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO Y DESARROLLO AGRÍCOLA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
