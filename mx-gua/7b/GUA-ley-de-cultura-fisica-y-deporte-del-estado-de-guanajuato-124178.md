@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cultura-fisica-y-deporte-del-estado-de-guanajuato-124178
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-03"
-last_updated: "2024-09-25"
+last_updated: "2025-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
 
 Ley publicada en la Cuarta Parte al Número 191 del Periódico Oficial del Estado de Guanajuato, el viernes 3 de noviembre de 2017.
 
@@ -145,33 +145,41 @@ VIII. Cultura física. Conjunto de bienes, conocimientos, ideas, valores y eleme
 
 IX. Deporte. Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones;
 
-X. Deporte de Alto Rendimiento. Es aquel que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento que permiten al deportista participar en preselecciones y selecciones nacionales que representen a Guanajuato y al país en competencias y pruebas de carácter nacional o internacional;
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XI. Deporte Social. Es el deporte encaminado a promover la activación física de las personas sin distinción alguna, con el objetivo de impulsar la salud, recreación, educación o rehabilitación;
+X. Deporte Adaptado. Es el que realizan las personas con discapacidad en condiciones de equidad;
 
-XII. Director General. El Director General de la CODE;
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
-XIII. Entrenadores. Los instructores, técnicos, profesores de educación física y especialistas en materia de deporte;
+XI. Deporte Inclusivo. Es el que permite la práctica conjunta de personas, ajustándose a las posibilidades de las y los practicantes, adoptando las reglas y el material usado;
 
-XIV. Ley General. Ley General de Cultura Física y Deporte;
+XII. Deporte de Alto Rendimiento. Es aquel que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento que permiten al deportista participar en preselecciones y selecciones nacionales que representen a Guanajuato y al país en competencias y pruebas de carácter nacional o internacional;
 
-XV. Organismo municipal. La dependencia, organismo desconcentrado o entidad paramunicipal con que cuente cada municipio para el cumplimiento de esta Ley;
+XIII. Deporte Social. Es el deporte encaminado a promover la activación física de las personas sin distinción alguna, con el objetivo de impulsar la salud, recreación, educación o rehabilitación;
 
-XVI. RED. El Registro Estatal de Cultura Física y Deporte;
+XIV. Director General. El Director General de la CODE;
 
-XVII. Reglamento. El Reglamento de la presente Ley;
+XV. Entrenadores. Los instructores, técnicos, profesores de educación física y especialistas en materia de deporte;
 
-XVIII. Reglamento Interior. El Reglamento Interior de la CODE;
+XVI. Ley General. Ley General de Cultura Física y Deporte;
 
-XIX. RENADE. El Registro Nacional de Cultura Física y Deporte;
+XVII. Organismo municipal. La dependencia, organismo desconcentrado o entidad paramunicipal con que cuente cada municipio para el cumplimiento de esta Ley;
 
-XX. Sistema Estatal. El Sistema Estatal de Cultura Física y Deporte;
+XVIII. RED. El Registro Estatal de Cultura Física y Deporte;
 
-XXI. SINADE. Sistema Nacional de Cultura Física y Deporte;
+XIX. Reglamento. El Reglamento de la presente Ley;
 
-XXII. SEG. Secretaría de Educación de Guanajuato; y
+XX. Reglamento Interior. El Reglamento Interior de la CODE;
 
-XXIII. (DEROGADA, P.O. 22 DE JULIO DE 2020)
+XXI. RENADE. El Registro Nacional de Cultura Física y Deporte;
+
+XXII. Sistema Estatal. El Sistema Estatal de Cultura Física y Deporte;
+
+XXIII. SINADE. Sistema Nacional de Cultura Física y Deporte;
+
+XXIV. SEG. Secretaría de Educación de Guanajuato; y
+
+XXV. (DEROGADA, P.O. 22 DE JULIO DE 2020)
 
 ### Capítulo II. Autoridades en materia de Cultura Física y Deporte
 
@@ -805,9 +813,11 @@ La construcción de instalaciones deportivas deberá realizarse con las especifi
 
 Instalaciones deportivas para personas con discapacidad y para adultos mayores
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-El estado y los municipios, deberán revisar que en la construcción y acondicionamiento de las instalaciones y espacios para la realización del deporte, garantice el acceso y servicio para las personas con discapacidad, el deporte adaptado y de adultos mayores, en los términos de las leyes en la materia.
+El Estado y los municipios, deberán revisar que en la construcción y acondicionamiento de las instalaciones y espacios para la realización del deporte, se garantice el acceso y servicio para las personas con discapacidad, el deporte adaptado, inclusivo y de adultos mayores, en los términos de las leyes en la materia.
 
 Instalaciones deportivas públicas
 
@@ -1602,3 +1612,15 @@ P.O. 25 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 347, POR EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 2, Y LAS FRACCIONES XI Y XII DEL ARTÍCULO 3; Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 3 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 88 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de Vigencia
+
+Artículo Primero. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Progresividad
+
+Artículo Segundo. Las acciones derivadas de la presente reforma serán ejecutadas en forma progresiva, conforme la disponibilidad presupuestaria lo permita; en su oportunidad tanto el Estado como los municipios, presupuestarán los recursos necesarios para la atención gradual y conforme a su capacidad operativa respecto de las acciones derivadas del presente Decreto.
