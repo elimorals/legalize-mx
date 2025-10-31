@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2025-03-07"
+last_updated: "2025-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE OCTUBRE DE 2025.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -231,7 +231,15 @@ Son causas de inculpabilidad:
 
 I. Que razonablemente no pueda exigirse al agente una conducta diversa de la que llevó a cabo;
 
-II. Que el agente actúe por miedo o temor fundado e irresistible de un mal inminente o grave en su persona o de alguien ligado a él por vínculos de parentesco, por lazos de amor o de estrecha amistad;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2025)</small>
+
+II. Que el agente actúe por miedo o temor fundado e irresistible de un mal inminente o grave en su persona, o de alguien ligado a él, cuando se trate de:
+
+a) Los ascendientes y descendientes consanguíneos, afines o por adopción, dentro del primer grado, y los tutores legalmente nombrados;
+
+b) Los parientes colaterales por consanguinidad hasta el segundo grado; y
+
+c) El cónyuge, la concubina, el concubinario o la pareja de hecho.
 
 III. Que el agente realice la acción o la omisión bajo un error invencible sobre:
 
@@ -4201,15 +4209,25 @@ Se impondrán de seis meses a tres años de prisión y multa hasta de cuarenta d
 
 Esta sanción se aplicará, de igual forma, a aquellas personas que prestan un servicio de transporte público concesionado, en cualquiera de sus modalidades, que no reporten la comisión de un delito a las autoridades competentes, cuando la unidad destinada a la prestación del servicio sea utilizada para la comisión del mismo o que éste se perpetre dentro de aquélla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 345.
 
-No se sancionará a quien oculte al responsable de un delito o los efectos, objetos o instrumentos del mismo o impida que se averigüe, cuando se haga por un interés legítimo y no se emplee algún medio delictuoso, siempre que se trate de:
+No se sancionará a quien oculte al responsable de un delito, siempre que para ello no se recurra a la comisión de un delito doloso que por su gravedad merezca pena privativa de libertad. Esta disposición será aplicable cuando se trate de:
 
-I. Los ascendientes y descendientes consanguíneos, afines o por adopción;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2025)</small>
 
-II. El cónyuge, concubina o concubinario y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo; o
+I. Los ascendientes y descendientes consanguíneos, afines o por adopción, dentro del primer grado, y los tutores legalmente nombrados;
 
-III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad.
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2025)</small>
+
+II. El cónyuge, la concubina, el concubinario o la pareja de hecho y los parientes colaterales por consanguinidad hasta el segundo grado; y
+
+III. (DEROGADA, G.O. 31 DE OCTUBRE DE 2025)
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2025)</small>
+
+Para el caso de las personas previstas en las fracciones I y II no será aplicable cuando el delito que se encubra sea el de feminicidio, homicidio, violación o pederastia.
 
 ### CAPÍTULO IX. DELITOS COMETIDOS POR SERVIDORES PÚBLICOS
 
@@ -5601,11 +5619,13 @@ SEGUNDO.- La Fiscalía General del Estado de Veracruz contará con un plazo de c
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE APOYO A JÓVENES”.]
+G.O. 31 DE OCTUBRE DE 2025.
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-D.O.F. 15 DE ABRIL DE 2025.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO DÉCIMO DEL ARTÍCULO 25 Y LA FRACCIÓN XXIX-Y DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SIMPLIFICACIÓN ADMINISTRATIVA Y DIGITALIZACIÓN”.]
 
