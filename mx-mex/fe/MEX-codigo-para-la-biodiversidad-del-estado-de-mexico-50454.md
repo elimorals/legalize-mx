@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2025-10-29"
+last_updated: "2025-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2025.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -3897,7 +3897,9 @@ XXXII. Promover y participar en la restauración de los ecosistemas forestales a
 
 XXXIII. Realizar y supervisar las labores de conservación, protección y restauración de los terrenos estatales forestales;
 
-XXXIV. Elaborar y aplicar de forma coordinada con los Municipios programas de forestación y reforestación en zonas degradadas que no sean competencia de la Federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas forestadas o reforestadas;
+> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2025)</small>
+
+XXXIV. Elaborar y aplicar de forma coordinada con los Municipios programas de Restauración Hidrológico Forestal en zonas degradadas que no sean competencia de la Federación, considerando preferentemente para ello especies forestales nativas, así como llevar a cabo acciones de protección y mantenimiento de las zonas con actividades de restauración;
 
 XXXV. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la Entidad de conformidad con el presente Código y la Política Nacional Forestal y en especial promover el desarrollo de proyectos alternativos para el aprovechamiento sostenible de los recursos asociados al sector forestal;
 
@@ -3932,6 +3934,10 @@ V. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forest
 > <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2020)</small>
 
 VI. Participar en la planeación y ejecución de la reforestación, forestación, restauración de suelos y conservación de los bienes y servicios ambientales forestales dentro de su ámbito territorial de competencia; así como realizar campañas destinadas a la concientización sobre la importancia de las acciones señaladas en la presente fracción;
+
+> <small>(ADICIONADO, G.G. 31 DE OCTUBRE DE 2025)</small>
+
+Asimismo, en coordinación con las instituciones y autoridades competentes de la Federación y del Estado, así como con universidades, academias, centros de investigación, promoverán un catálogo de las especies arbóreas aptas para ello, considerando prioritariamente las especies nativas o propias de la región, de fácil adaptabilidad a los climas y condiciones edáficas del Municipio.
 
 VII. Llevar a cabo en coordinación con el Gobierno de la Entidad acciones de saneamiento en los ecosistemas forestales dentro de su ámbito de competencia;
 
@@ -4455,9 +4461,11 @@ Cuando los dueños o poseedores de los predios dañados no hagan la restauració
 
 ### CAPITULO VI. DE LA FORESTACION Y REFORESTACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-66. La reforestación que se realice con propósitos de conservación y restauración, las actividades de forestación y las prácticas de agrosilvicultura en terrenos degradados de vocación forestal no requerirán de autorización y solamente estarán sujetas a las normas oficiales mexicanas y normas técnicas estatales.
+66. La reforestación que se realice con propósitos de conservación y restauración, las actividades de forestación, así como las prácticas de agroforestales en terrenos degradados de vocación forestal, se realizará preferentemente con especies compatibles con las nativas y con la persistencia de los ecosistemas, no requerirán de autorización y solamente estarán sujetas a las normas oficiales mexicanas y normas técnicas estatales.
 
 Las acciones de reforestación que se lleven a cabo en los terrenos forestales sujetos al aprovechamiento deberán incluirse en el programa de manejo forestal correspondiente. El prestador de servicios técnicos forestales que funja como encargado técnico será responsable solidario junto con el titular de la ejecución del programa en este aspecto.
 
@@ -4474,6 +4482,14 @@ Para tal efecto el Gobierno del Estado y los Municipios podrán celebrar conveni
 ###### Artículo 3.
 
 68 Será obligatorio para las autoridades estatales y municipales incluir en sus planes de desarrollo respectivos programas tendientes a la forestación y reforestación que les correspondan.
+
+> <small>(ADICIONADO, G.G. 31 DE OCTUBRE DE 2025)</small>
+
+Los programas de Restauración Hidrológico Forestal, se realizarán con especies preferentemente nativas adaptadas a las condiciones del territorio y clima de cada Municipio, a fin de contribuir a la conservación de la biodiversidad y la persistencia del ecosistema para combatir los efectos del cambio climático.
+
+> <small>(ADICIONADO, G.G. 31 DE OCTUBRE DE 2025)</small>
+
+Las autoridades municipales deberán remitir anualmente a PROBOSQUE un informe de los resultados de los programas de Restauración Hidrológico Forestal y de la supervivencia de especies plantadas, con el fin de medir su impacto y eficacia.
 
 ###### Artículo 3.
 
@@ -8808,3 +8824,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Secretaría, por conducto de la Procuraduría, contará con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto para diseñar y publicar el Programa de Auditoría Ambiental y Autorregulación, así como los lineamientos técnicos para la emisión de los Certificados Verdes.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 31 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 195. POR EL QUE SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 3.13 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 3.66; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 3.14, Y UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 3.68 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
