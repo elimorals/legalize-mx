@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2025-05-23"
+last_updated: "2025-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -177,7 +177,13 @@ XV. Eliminar las prácticas sociales de disponibilidad sexual de niñas y adoles
 
 XVI. Erradicar la violencia masculina que se encuentra legitimada socialmente como vía para resolver conflictos entre los géneros;
 
-XVII. Evitar que se excluya a las mujeres, o que sólo se beneficien marginalmente, de los programas globales de desarrollo.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+XVII. Evitar que se excluya a las mujeres, o que sólo se beneficien marginalmente, de los programas globales de desarrollo; e
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+XVIII. Implementar estrategias de erradicación de todo tipo de estereotipo, tabú o mito sobre el estigma social que rodea el proceso de la menstruación en la mujer.
 
 ### CAPÍTULO II. RESPONSABILIDAD DEL ESTADO Y DE LOS GOBIERNOS MUNICIPALES
 
@@ -427,9 +433,13 @@ v) Cualesquiera otras formas análogas que lesionen o sean susceptibles de daña
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE MAYO DE 2025)</small>
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-XIV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+XIV. Violencia por acecho: aquellas conductas que se manifiestan mediante el contacto repetido y no deseado que hacen sentir a la víctima insegura y en peligro, a tal grado que se vea obligada a cambiar su itinerario normal, hábitos, costumbres, número de teléfono, correo electrónico, perfiles de redes sociales, lugar de residencia o campo laboral; y
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2025)</small>
+
+XV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
@@ -619,7 +629,9 @@ Las personas mayores de 12 años de edad podrán solicitar a las autoridades com
 
 Violencia Laboral y escolar: Se ejerce por las personas que tienen un vínculo laboral, docente, escolar o análogo con la víctima, independientemente de la relación jerárquica. Consiste en un acto o una omisión de abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide el desarrollo de la personalidad y atenta contra sus derechos humanos.
 
-Puede consistir en cualquier tipo de violencia ya sea física, sexual, psicoemocional, patrimonial u económica, e incluye el hostigamiento y acoso sexual.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+Puede consistir en cualquier tipo de violencia ya sea física, sexual, psicoemocional, patrimonial u económica, e incluye el acecho, hostigamiento y acoso sexual.
 
 ###### ARTÍCULO 22.
 
@@ -637,37 +649,49 @@ El hostigamiento sexual es el ejercicio del poder, en una relación de subordina
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 25.
 
-Para los efectos del hostigamiento y/o acoso sexual, el gobierno estatal y municipal, deberá:
+Para los efectos del acecho, hostigamiento y/o acoso sexual, el gobierno estatal y los gobiernos municipales, deberán:
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 I. Garantizar el respeto a la dignidad de las mujeres en todos los ámbitos de la vida;
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 II. Asegurar la sanción a quienes hostigan y acosan en el ámbito escolar y laboral;
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 III. Establecer mecanismos que lo erradiquen en escuelas y centros laborales, privados o públicos, mediante acuerdos y convenios con asociaciones escolares y sindicatos;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 IV. Impulsar procedimientos administrativos claros y precisos en escuelas y centros laborales del Estado, para la sanción de éste, que de manera inmediata evite que el hostigador o acosador continúe con su práctica.
 
 En estos procedimientos no se podrá hacer público el nombre de la víctima, con la finalidad de evitar algún tipo de sobrevictimización, o que sea boletinada o presionada para abandonar la escuela o trabajo.
 
-Asimismo deberán sumarse las quejas anteriores o que se hagan evidentes sobre el mismo acosador u hostigador, guardando públicamente el anonimato de la quejosa o las quejosas;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-V. Proporcionar atención psicológica a quien viva eventos de hostigamiento o acoso sexual. La impresión diagnóstica o dictamen victimal correspondiente se aportará como prueba en los procedimientos correspondientes;
+Asimismo, deberán sumarse las quejas anteriores o que se hagan evidentes sobre la persona que aceche, acose u hostigue, guardando públicamente el anonimato de la quejosa o las quejosas;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-VI. Implementar las sanciones administrativas respectivas para los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y dar curso a una queja de este tipo, o favorezcan el desistimiento de dicha queja;
+V. Proporcionar atención psicológica a quien viva eventos de acecho, hostigamiento y/o acoso sexual. La impresión diagnóstica o dictamen victimal correspondiente se aportará como prueba en los procedimientos correspondientes;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-VII. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos; y
+VI. Implementar las sanciones administrativas respectivas para los superiores jerárquicos de la persona que aceche, hostigue y/o acose cuando sean omisos en recibir y dar curso a una queja de este tipo, o favorezcan el desistimiento de dicha queja;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-VIII. Promover la realización de capacitaciones, talleres y cursos dirigidos a identificar conductas que constituyan todo tipo de violencia en contra de las mujeres, especialmente en el ámbito laboral y escolar; fomentando el desarrollo económico que propicie el acceso a un empleo y educación libre de violencia y hostigamiento y/o acoso sexual.
+VII. Promover y difundir en la sociedad que el acecho, hostigamiento y acoso sexual son delitos; y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+VIII. Promover la realización de capacitaciones, talleres y cursos dirigidos a identificar conductas que constituyan todo tipo de violencia en contra de las mujeres, especialmente en el ámbito laboral y escolar; fomentando el desarrollo económico que propicie el acceso a un empleo y educación libre de violencia, acecho, hostigamiento y/o acoso sexual.
 
 ### CAPÍTULO IV. DE LA VIOLENCIA EN LA COMUNIDAD
 
@@ -683,7 +707,9 @@ En ésta, se puede incluir, entre otras, las conductas e ilícitos penales sigui
 
 I. Delitos sexuales cometidos por personas sin parentesco o relación con la víctima, generando terror e inseguridad en las mujeres de la comunidad;
 
-II. Acoso y hostigamiento sexual;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+II. Acecho, acoso y hostigamiento sexual;
 
 III. La prostitución forzada y/o la trata de mujeres;
 
@@ -751,7 +777,9 @@ II. Abstenerse de controlar la visita íntima para las mujeres recluidas;
 
 III. Proporcionar servicios de salud y de planificación familiar a las internas; y
 
-IV. Establecer comités de recepción y análisis sobre quejas de hostigamiento, acoso sexual, instigación a la prostitución o a cualquier práctica discriminatoria.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+IV. Establecer comités de recepción y análisis sobre quejas de acecho, hostigamiento o acoso sexual, instigación a la prostitución o a cualquier práctica discriminatoria.
 
 Se debe guardar confidencialidad sobre el nombre y circunstancias de la queja, aún con posterioridad a la sanción que sea procedente contra quien realizó tales actos.
 
@@ -931,9 +959,9 @@ El Sistema se conformará por las y los titulares de:
 
 I.- Secretaría General de Gobierno, quien lo presidirá;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-II.- Secretaría de Desarrollo Social;
+II.- Secretaría de Bienestar;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1099,7 +1127,9 @@ VI. Establecer las políticas públicas transversales y con perspectiva de géne
 
 VII. Vigilar el respeto de los derechos laborales de las mujeres y establecer condiciones para eliminar la discriminación de las mujeres por razones de género para el acceso al trabajo;
 
-VIII. Establecer mecanismos para erradicar el hostigamiento y acoso sexual a las mujeres en los centros laborales y aplicar procedimientos para sancionar a la persona agresora;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+VIII. Establecer mecanismos para erradicar el acecho, hostigamiento y acoso sexual a las mujeres en los centros laborales y aplicar procedimientos para sancionar a la persona agresora;
 
 IX. Prevenir la violencia contra las mujeres con programas y acciones afirmativas dirigidas especialmente aquellas que por su edad, etnia, condición social, económica, educativa u otra, han tenido menos oportunidades de empleo;
 
@@ -1125,11 +1155,15 @@ XVIII. Celebrar convenios de cooperación, coordinación y concertación en la m
 
 XIX. Las demás previstas para el cumplimiento de la presente ley.
 
-#### SECCIÓN TERCERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+#### SECCIÓN TERCERA. DE LA SECRETARÍA DE BIENESTAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 46.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Bienestar:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -1531,7 +1565,9 @@ IV. Ejecutar las acciones necesarias para el cumplimiento del Programa;
 
 V. Apoyar la creación de programas de reeducación integral para los agresores;
 
-VI. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+VI. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres, así como de educación menstrual, entre otros.
 
 VII. Apoyar la creación de refugios seguros para las víctimas;
 
@@ -1860,5 +1896,25 @@ P.O. 23 DE MAYO DE 2025.
 PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Remítase a la titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
+
+P.O. 31 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 273 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la persona titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
+
+P.O. 31 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 274 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la persona titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales correspondientes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
