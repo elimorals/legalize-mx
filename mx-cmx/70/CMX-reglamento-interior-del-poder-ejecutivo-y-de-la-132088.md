@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2025-10-14"
+last_updated: "2025-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE OCTUBRE DE 2025.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -887,6 +887,10 @@ XII. A la Secretaría de las Mujeres:
 > <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 A) Dirección General de Igualdad y Atención a la Violencia de Género;
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2025)</small>
+
+A) Bis. Coordinación General de Autonomía Económica;
 
 > <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
@@ -10150,6 +10154,30 @@ XX. Elaborar informes que den cuenta de los resultados en el cumplimiento de las
 
 XXI. Los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la Secretaría.
 
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2025)</small>
+
+###### Artículo 202 Bis.
+
+Corresponde a la Coordinación General de Autonomía Económica:
+
+I. Dirigir y coordinar los trabajos de diseño, creación e implementación del Programa de Autonomía Económica para las Mujeres, como mecanismo de empoderamiento y prevención de las violencias, en el marco del Plan General de Desarrollo de la Ciudad de México y demás normativa aplicable en la materia;
+
+II. Supervisar y coordinar la elaboración de informes, diagnósticos y evaluaciones de impacto que permitan medir la eficacia, eficiencia y resultados del Programa de Autonomía Económica para las Mujeres, así como proponer acciones de mejora continua;
+
+III. Dirigir y coordinar la ejecución e implementación integral de todos los componentes operativos, estrategias y acciones implementadas que conformen el Programa de Autonomía Económica para las Mujeres, procurando su adecuada articulación interinstitucional;
+
+IV. Coordinar en el ámbito de sus atribuciones, la generación de alianzas estratégicas para acceder al financiamiento público y privado con las instancias competentes del Gobierno Federal y Local, las organizaciones sociales y las instituciones de asistencia pública y privada, que contribuyan a ampliar el alcance, sostenibilidad e innovación del Programa de Autonomía Económica para las Mujeres;
+
+V. Fortalecer los mecanismos de seguimiento y rendición de cuentas del Programa de Autonomía Económica para las Mujeres, promoviendo la transparencia en el uso de los recursos y el cumplimiento de los objetivos establecidos;
+
+VI. Promover la capacitación y profesionalización del personal a su cargo, con el fin de mejorar la calidad de la atención, los procesos de implementación y el impacto social del Programa de Autonomía Económica para las Mujeres;
+
+VII. Coadyuvar en la elaboración de los instrumentos jurídicos relativos al ejercicio de sus atribuciones o que le sean delegados;
+
+VIII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+
+IX. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona Titular de la Secretaría de las Mujeres de la Ciudad de México;
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 203.
@@ -16649,3 +16677,15 @@ TERCERO.- A partir de la fecha de entrada en vigor del presente Decreto, quedar�
 CUARTO.- La Secretaría de Vivienda deberá realizar las gestiones conducentes ante las autoridades correspondientes, que propicien la armonización conforme al presente Decreto, de la normatividad aplicable al Instituto de Vivienda de la Ciudad de México que se le encuentra sectorizado.
 
 QUINTO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
+
+G.O. 31 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación.
+
+TERCERO.- A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este Decreto.
+
+CUARTO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
