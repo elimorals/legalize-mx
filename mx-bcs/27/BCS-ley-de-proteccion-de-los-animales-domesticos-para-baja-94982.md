@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-de-los-animales-domesticos-para-baja-94982"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-20"
-last_updated: "2025-09-10"
+last_updated: "2025-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS PARA BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de junio de 2021.
 
@@ -93,15 +93,19 @@ V. Animal de monta.- Equinos y asnales utilizados en deportes y recreación;
 
 VI. Animal feral.- Los animales domésticos que por abandono se tornen silvestres y vivan en el entorno natural;
 
-VII. Mascota.- Animal que sirve de compañía al ser humano, siempre y cuando no estén normados por leyes federales;
+> <small>(ADICIONADA, B.O. 31 DE OCTUBRE DE 2025)</small>
 
-VIII. Sacrificio humanitario.- La muerte provocada de animales, de manera rápida y sin dolor ni sufrimientos por medios físicos o químicos;
+VII. Atención médica preventiva.- La atención enfocada en evitar que los animales enfermen, en lugar de tratar enfermedades una vez que se han desarrollado. Involucra una serie de medidas y procedimientos para mantener a los animales saludables, como vacunaciones, desparasitaciones y la prevención de enfermedades transmitidas por parásitos.
 
-IX. Vivisección.- Cirugía experimental con fines pedagógicos o de investigación, que se practica a cualquier animal vivo;
+VIII. Mascota.- Animal que sirve de compañía al ser humano, siempre y cuando no estén normados por leyes federales;
 
-X. Esterilización.- Proceso quirúrgico que se practica a los animales para evitar su reproducción; y
+IX. Sacrificio humanitario.- La muerte provocada de animales, de manera rápida y sin dolor ni sufrimientos por medios físicos o químicos;
 
-XI. Asociaciones protectoras de animales.- Las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas que se dedican a la protección de los animales.
+X. Vivisección.- Cirugía experimental con fines pedagógicos o de investigación, que se practica a cualquier animal vivo;
+
+XI. Esterilización.- Proceso quirúrgico que se practica a los animales para evitar su reproducción; y
+
+XII. Asociaciones protectoras de animales.- Las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas que se dedican a la protección de los animales.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y ORGANISMOS AUXILIARES
 
@@ -202,6 +206,26 @@ VIII. Impulsar campañas de concientización para el trato digno y respetuoso a 
 IX. Conocer, a través de la unidad administrativa correspondiente, cualquier hecho, acto u omisión derivado del incumplimiento de la presente ley, su reglamento y demás disposiciones jurídicas aplicables, y emitir las sanciones correspondientes, salvo aquellas que estén expresamente atribuidas a otras autoridades. Para el seguimiento de esta atribución deberá contar con personal debidamente capacitado en la materia de esta ley para dar curso a las denuncias; y
 
 X. Las demás que esta ley y ordenamientos jurídicos aplicables les confieran.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2025)</small>
+
+Artículo 9 BIS.- El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
+
+La regulación sobre trato digno y respetuoso se formulará con base a los siguientes principios básicos:
+
+I. Suministrar a los animales agua y alimento suficientes, a efecto de mantenerlos sanos y con una nutrición adecuada;
+
+II. Proporcionar a los animales un ambiente adecuado para su descanso, movimiento y estancia, de acuerdo a cada tipo de especie;
+
+III. Suministrar a los animales atención médica preventiva y en caso de enfermedad brindar tratamiento médico expedito avalado por un médico veterinario;
+
+IV. Permitir a los animales la expresión de su comportamiento natural, y
+
+V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie.
+
+Corresponde al Estado fomentar la cultura del trato digno y respetuoso, mediante el establecimiento de campañas de esterilización y de difusión de información respecto a la importancia de la adopción, vacunación, desparasitación y las consecuencias ambientales, sociales y de salud pública del abandono de animales de compañía.
+
+El Estado en coordinación con los Municipios, promoverán el establecimiento de Clínica Veterinarias Públicas con el objeto de suministrar a los animales atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario.
 
 ### CAPÍTULO III. DE LOS COMITÉS PRO-ANIMAL
 
@@ -484,3 +508,11 @@ B.O. 10 DE SEPTIEMBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Los Ayuntamientos en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente decreto, deberán realizar las modificaciones y adecuaciones a la normatividad de su reglamentación y competencia, para dar cumplimiento al presente Decreto.
+
+B.O. 31 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3163 SE ADICIONAN UNA FRACCIÓN VII RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN AL ARTÍCULO 3 Y UN ARTÍCULO 9 BIS A LA LEY DE PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS PARA BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Las erogaciones motivo del presente decreto se cubrirán con la disponibilidad autorizada en materia de atención medica preventiva de animales domésticos, en los (sic) Presupuesto de Egresos para el Ejercicio Fiscal del Año 2025 y posteriores, así como lo autorizado para el cumplimiento de lo normado en el artículo 87 BIS 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
