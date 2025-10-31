@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2025-10-09"
+last_updated: "2025-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE OCTUBRE DE 2025.]</small>
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -3513,7 +3513,9 @@ Comete el delito de violencia vicaria quien mantenga o haya mantenido una relaci
 
 Sin perjuicio de lo anterior, además se considera que se causa daño a la mujer, cuando el sujeto activo:
 
-I. Amenace con causar daño a hijas o hijos de la víctima, o personas significativas para ella, o amanece con ocultarlos, retenerlos o sustraerlos;
+> <small>(F. DE E., P.O. 31 DE OCTUBRE DE 2025)</small>
+
+I. Amenace con causar daño a hijas o hijos de la víctima, o personas significativas para ella, o amenace con ocultarlos, retenerlos o sustraerlos;
 
 II. Promueva, incite o fomente actos de violencia física o psicológica de hijas o hijos, o personas significativas para ella, en contra de esta;
 
@@ -3527,7 +3529,9 @@ VI. Condicione el cumplimiento de las obligaciones alimentarias a que tiene dere
 
 A quien cometa el delito de violencia vicaria se le impondrán de uno a ocho años de prisión, multa de cien a trescientos días, y se decretarán las medidas de protección conforme a lo establecido por este Código y la legislación aplicable.
 
-Las penas previstas se incrementarán hasta en una tercera parte si: se incurre en daño físico a la víctima o a quienes se utilicen como medio; cuando en la comisión del delito participen dos o más personas; o, cuando uno o varios miembros de la familia del sujeto activo haya ejercido algún tipo de violencia en contra de la víctima o de quienes se utilicen como medio.
+> <small>(F. DE E., P.O. 31 DE OCTUBRE DE 2025)</small>
+
+Las penas previstas se incrementarán hasta en una tercera parte si se incurre en daño físico a la víctima o a quienes se utilicen como medio; cuando en la comisión del delito participen dos o más personas; o, cuando uno o varios miembros de la familia del sujeto activo haya ejercido algún tipo de violencia en contra de la víctima o de quienes se utilicen como medio.
 
 Para efectos del presente artículo se entiende por persona significativa cualquiera que tenga una relación afectiva continua con la víctima en el entorno de sus relaciones sociales inmediatas.
 
