@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2025-01-17"
+last_updated: "2025-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -135,9 +135,9 @@ V. Celebrar los acuerdos y convenios con las autoridades federales, estatales y 
 
 VI. Promover, realizar y difundir estudios e investigaciones de la problemática y características juveniles;
 
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-VII. Coordinarse con la Secretaría de Desarrollo Social, para la elaboración de un estudio de las zonas de marginación rural o urbana y de atención prioritaria donde radiquen jóvenes, con el objeto de realizar las acciones necesarias de desarrollo social para impulsar condiciones de igualdad de oportunidades real y efectiva.
+VII. Coordinarse con la Secretaría de Igualdad e Inclusión, para la elaboración de un estudio de las zonas de marginación rural o urbana y de atención prioritaria donde radiquen jóvenes, con el objeto de realizar las acciones necesarias de desarrollo social para impulsar condiciones de igualdad de oportunidades real y efectiva.
 
 VIII. Alentar, recibir, evaluar y canalizar las propuestas, sugerencias e inquietudes de la juventud;
 
@@ -225,13 +225,13 @@ IV. Veintisiete Vocales Consejeros, con voz y voto, que serán los siguientes:
 
 a) El titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León;
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-b) El Secretario de Desarrollo Social;
+b) La persona titular de la Secretaría de Igualdad e Inclusión;
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-c) El Secretario del Trabajo;
+c) La persona titular de la Secretaría del Trabajo;
 
 d) El titular de la Dirección General del Instituto Estatal de Cultura Física y Deporte;
 
@@ -247,9 +247,23 @@ Podrán participar con voz, pero sin voto, representantes de otras dependencias 
 
 Los vocales integrantes del Consejo Joven de Participación Ciudadana a que se refieren los incisos a), b), c) y d) de la fracción IV del artículo 8, son permanentes y asumirán su encargo ex oficio, por lo que serán ejercidos por las personas que ocupen los cargos correspondientes.
 
-Los Vocales Consejeros a que se refieren los incisos e) y f) de la fracción IV del Artículo 8, propietarios y suplentes, serán nombrados por invitación del Gobernador del Estado, a propuesta del Director General del Instituto, previa consulta pública o privada que este último realice a los directivos de las Universidades o Instituciones de educación superior para el caso de los vocales consejeros referidos en el mencionado inciso e), o a la comunidad para el caso de los consejeros a que hace referencia el citado inciso f); y sus funciones serán las de miembros de un órgano colegiado, su participación será a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirán remuneración alguna por el desempeño de sus funciones ni serán considerados servidores públicos.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+Los Vocales Consejeros a que se refiere el inciso e) de la fracción IV del Artículo 8, propietarios y suplentes, serán nombrados por invitación del Gobernador del Estado, a propuesta del Director General del Instituto, previa consulta pública o privada que este último realice a los directivos de las Universidades o Instituciones de educación superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2025)</small>
+
+En el supuesto del inciso f) Los Vocales Consejeros serán seleccionadas (sic) exclusivamente mediante convocatoria pública abierta, la cual será emitida, organizada y celebrada por el Instituto Estatal de la Juventud. El proceso deberá observar los principios de equidad, inclusión, representatividad y transparencia, conforme a los lineamientos que establezca el reglamento correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2025)</small>
+
+En los casos de los Vocales Consejeros a que hacen referencia los incisos e) y f), sus funciones serán las de miembros de un órgano colegiado, su participación será a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirán remuneración alguna por el desempeño de sus funciones ni serán considerados servidores públicos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 31 DE OCTUBRE DE 2025)</small>
 
 Los vocales consejeros a que hace referencia el párrafo anterior, concluirán su encargo el día 30 de septiembre de cada año, independientemente de la fecha en que hayan iniciado dicho encargo, pudiendo ser designados nuevamente al término del período correspondiente, cuantas veces se considere necesario, para el adecuado cumplimiento de los fines del organismo, sin perjuicio de lo señalado, podrá sustituirse por renuncia, fallecimiento, incapacidad permanente, inasistencias o faltas graves, de acuerdo con lo establecido al efecto por el Reglamento Interior del Instituto y siguiendo el procedimiento aprobado en el mismo. En tal caso, los vocales sustitutos concluirán el período respecto del cual fueron designados los integrantes que fueron sustituidos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 31 DE OCTUBRE DE 2025)</small>
 
 El Secretario Técnico será designado y removido libremente por el Director General del Instituto.
 
@@ -329,31 +343,43 @@ IV. Las demás facultades que le sean expresamente señaladas por el Director Ge
 
 #### Sección Segunda. De la Junta de Gobierno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2025)</small>
+
 ###### Artículo 16.
 
-La Junta de Gobierno se integrará por los siguientes miembros con derecho de voz y voto:
+La Junta de Gobierno del Instituto Estatal de la Juventud estará integrada por:
 
-I. El Titular del Ejecutivo del Estado, quien la presidirá;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-II. El Director General del Instituto, quien tendrá el carácter de Secretario de la Junta; y
+I. La persona titular del Ejecutivo del Estado, quien lo presidirá;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-III. Los siguientes vocales:
+II. La persona titular de la Dirección General del Instituto, quien tendrá el carácter de Secretario de la Junta; y
 
-a) El Secretario General de Gobierno;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2025)</small>
 
-b) El Secretario de Finanzas y Tesorero General del Estado;
+III. Siete vocales, que serán:
 
-c) El Secretario de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+a) La persona titular de la Secretaría General de Gobierno;
 
-d) El Secretario de Educación,
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+b) La persona titular de la Secretaría de Finanzas y Tesorería General del Estado;
 
-e) El Secretario de Salud, y
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+c) La persona titular de la Secretaría de Economía;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+d) La persona titular de la Secretaría de Educación;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+e) La persona titular de la Secretaría de Salud; y
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -363,9 +389,9 @@ Por cada miembro propietario, el titular podrá nombrar a un suplente, debiendo 
 
 En caso de ausencia del titular del Ejecutivo Estatal, el Director General asumirá el cargo de presidente para esa sesión y nombrará a un secretario de la misma.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-Los integrantes del Consejo Joven de Participación Ciudadana que formen parte de la Junta de Gobierno se renovarán de manera anual, siendo designados entre el resto de los miembros de dicho Consejo.
+La representación del Consejo Joven de Participación Ciudadana ante la Junta de Gobierno se renovará anualmente. Para tal efecto, el propio Consejo deberá constituir una Mesa Directiva integrada, al menos, por una persona consejera Presidenta o Presidente, una persona consejera Secretaria o Secretario, y las demás figuras que determine el reglamento correspondiente. Será función de dicha Mesa deliberar, con base en las propuestas presentadas por los demás integrantes del Consejo, sobre los perfiles que habrán de representar al órgano en la Junta de Gobierno. Este procedimiento se llevará a cabo de forma anual, permitiendo la reelección de quienes hayan sido designados, siempre que se respeten los mismos lineamientos previstos para su nombramiento original.
 
 ###### Artículo 17.
 
@@ -680,3 +706,11 @@ P.O. 17 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 029. SE REFORMA LA FRACCIÓN XXVII AL ARTÍCULO 5; SE ADICIONA LA FRACCIÓN XXVII BIS AL ARTÍCULO 5 DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD”.]
 
 UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 31 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 129. SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 5, LOS INCISOS B) Y C) DE LA FRACCIÓN IV DEL ARTÍCULO 8, EL ARTÍCULO 9, LAS FRACCIONES I, II, III Y EL ÚLTIMO PÁRRAFO TODOS DEL ARTÍCULO 16, TODOS DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, el Instituto Estatal de la Juventud tendrá un plazo de 180 días hábiles para adecuar sus reglamentos y demás disposiciones legales.
