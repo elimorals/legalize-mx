@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-conservacion-y-proteccion-del-arbolado-urbano-86941
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-30"
-last_updated: "2022-10-26"
+last_updated: "2025-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de marzo de 2012.
 
@@ -145,9 +145,17 @@ II. Elaborar y evaluar los programas, planes y acciones en materia de cuidado, c
 
 III. Hacer del conocimiento de las autoridades competentes, y en su caso denunciar ante los órganos competentes, las infracciones que se cometan en materia de cuidado, conservación y protección del arbolado urbano en el marco de esta Ley;
 
-IV. Promover campañas para arborizar las Áreas Urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-V. Las demás que conforme a la presente Ley y otras disposiciones jurídicas aplicables le correspondan en materia de cuidado, conservación y protección del arbolado urbano.
+IV. Promover campañas para arborizar las Áreas Urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2025)</small>
+
+V. Impulsar e inspeccionar la ejecución de acciones tendientes al manejo adecuado y del tratamiento del arbolado en los municipios;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE OCTUBRE DE 2025)</small>
+
+VI. Las demás que conforme a la presente Ley y otras disposiciones jurídicas aplicables le correspondan en materia de cuidado, conservación y protección del arbolado urbano.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LOS MUNICIPIOS
 
@@ -155,7 +163,9 @@ V. Las demás que conforme a la presente Ley y otras disposiciones jurídicas ap
 
 Corresponde a los Municipios, a través del Ayuntamiento, o de la unidad administrativa correspondiente:
 
-I. Establecer en el reglamento municipal correspondiente las normas para la protección, cuidado y conservación del arbolado urbano, de acuerdo con esta Ley.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
+
+I. Establecer en el reglamento municipal correspondiente las normas para la protección, cuidado y conservación del arbolado urbano, así como su fomento a través de su correcta plantación, de acuerdo con los términos con esta Ley;
 
 II. Aplicar en el ámbito de su competencia las medidas preventivas, de seguridad y las sanciones administrativas por infracciones a la presente Ley y a la reglamentación municipal de la materia;
 
@@ -183,9 +193,17 @@ XIII. Apoyar dentro del ámbito de sus competencias mediante incentivos económi
 
 Para lo anterior, en los reglamentos municipales de la materia se deberá determinar en que podrán consistir dichos apoyos e incentivos, así como los requisitos y obligaciones que deberán cumplir las personas que pretendan recibirlos;
 
-XIV. Promover campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas conforme a los estudios pertinentes; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2025)</small>
 
-XV. Las demás que conforme a la presente Ley y el Reglamento Municipal les correspondan.
+XIV. Promover campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas conforme a los estudios pertinentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2025)</small>
+
+XV. En coordinación con el Estado, desarrollar y promover programas de arborización únicamente con árboles nativos y naturalizados del Estado en las casas habitación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE OCTUBRE DE 2025)</small>
+
+XVI. Las demás que conforme a la presente Ley y el Reglamento Municipal les correspondan.
 
 ### CAPÍTULO V. DE LA PODA, DERRIBO Y TRASPLANTE DEL ARBOLADO URBANO
 
@@ -800,3 +818,11 @@ P.O. 26 DE OCTUBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Quedan derogadas todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 31 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 132. SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 9, ASÍ COMO LAS FRACCIONES I, XIV Y XV DEL ARTÍCULO 10; SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 9 Y LA FRACCIÓN XVI DEL ARTÍCULO 10, TODOS DE LA LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigor el presente Decreto, la Secretaría de Medio Ambiente y los Ayuntamientos, contará (sic) con un plazo de 180 días hábiles para establecer en sus reglamentos correspondientes las disposiciones necesarias tendientes a la observancia y debido cumplimiento del presente Decreto.
