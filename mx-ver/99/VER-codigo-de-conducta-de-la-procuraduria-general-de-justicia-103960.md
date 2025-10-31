@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-conducta-de-la-procuraduria-general-de-justicia-10396
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-11"
-last_updated: "2014-12-11"
+last_updated: "2025-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE CONDUCTA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 31 DE OCTUBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CODIGO DE CONDUCTA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE OCTUBRE DE 2025 (ABROGADO).
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 11 de diciembre de 2014.
 
@@ -526,3 +528,17 @@ DRA. RAFAELA LÓPEZ SALAS
 Directora del Instituto de Formación Profesional
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 31 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+TERCERO. Se abroga el Código de Conducta de la Procuraduría General de Justicia, publicado en 11 de diciembre de 2014, en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, con núm. ext. 494.
+
+CUARTO. Las y los titulares de las unidades con funciones operativas y administrativas de la FGE, además de dar cumplimiento a lo señalado en el Código de Ética y en el Código de Conducta, serán los encargados de vigilar que se cumplan las disposiciones establecidas en el presente documento normativo.
