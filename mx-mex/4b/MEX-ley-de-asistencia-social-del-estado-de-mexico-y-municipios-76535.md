@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-y-municipios-7653
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2024-04-05"
+last_updated: "2025-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2025.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -168,6 +168,10 @@ l) Ser víctimas de conflictos armados, de persecución o de discriminación.
 > <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 m) Ser padres adolescentes.
+
+> <small>(ADICIONADO, G.G. 31 DE OCTUBRE DE 2025)</small>
+
+n) Encontrarse en condición de orfandad por feminicidio o dependientes de víctimas por desaparición, y hasta los 25 años cuando comprueben estudios en curso y no tener vínculo matrimonial.
 
 II. Las mujeres:
 
@@ -928,3 +932,11 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 31 DE OCTUBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 196.- POR EL QUE SE ADICIONA EL INCISO N) A LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
