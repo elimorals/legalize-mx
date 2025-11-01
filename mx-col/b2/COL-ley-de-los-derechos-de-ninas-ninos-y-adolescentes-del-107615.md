@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2024-08-31"
+last_updated: "2025-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -2025,11 +2025,15 @@ La persona titular de la Secretaría Ejecutiva será nombrada y removida libreme
 
 I. Tener ciudadanía mexicana en pleno goce de sus derechos civiles y políticos;
 
-II. Tener más de 30 años de edad;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2025)</small>
+
+II. Tener más de 25 años de edad;
 
 III. Contar con título profesional de nivel licenciatura debidamente registrado;
 
-IV. Contar con al menos cinco años de experiencia en las áreas correspondientes a su función; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2025)</small>
+
+IV. Contar con al menos tres años de experiencia en las áreas correspondientes a su función; y
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
@@ -3268,3 +3272,9 @@ P.O. 31 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 481.- POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 58; SE REFORMAN LAS FRACCIONES IX Y X Y SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 59 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 1 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 181.- POR EL QUE SE APRUEBA REFORMAR LAS FRACCIONES II Y IV DEL ARTÍCULO 126 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
