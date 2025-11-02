@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2024-01-19"
+last_updated: "2025-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -45,11 +45,15 @@ Artículo Único. Se expide la Ley de Fomento a la Micro, Pequeña y Mediana Emp
 
 La presente Ley es de observancia general e interés público, y tiene por objeto promover la productividad y el empleo en el Estado y sus municipios a través del fomento a la creación, desarrollo, expansión y sustentabilidad de las micro, pequeñas y medianas empresas, así como de los emprendimientos realizados por personas físicas, sin menoscabo de lo dispuesto por las leyes federales de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 2.
 
-La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Economía y Trabajo.
+La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Economía.
 
-El Poder Ejecutivo del Estado celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, con las autoridades federales y municipales, así como con particulares. La Secretaría de Economía y Trabajo se coordinará con las dependencias y entidades de la Administración Pública Estatal para la implementación de los programas correspondientes.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+El Poder Ejecutivo del Estado celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, con las autoridades federales y municipales, así como con particulares. La Secretaría de Economía se coordinará con las dependencias y entidades de la Administración Pública Estatal para la implementación de los programas correspondientes.
 
 ###### Artículo 3.
 
@@ -77,13 +81,29 @@ IX. Empresa: La persona física o moral legalmente constituida, cuyo objeto sea 
 
 X. Espacios de Emprendimiento: Espacios de emprendimiento compartidos;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+X Bis. Distintivo de Producción Local: Distintivo que reconoce de manera oficial, a las empresas y comercios locales, promoviendo el consumo de productos fabricados, ensamblados, procesados, maquilados o generados por MIPYMES dentro del Estado que cumplan con criterios de legalidad, calidad, trazabilidad, sostenibilidad y arraigo productivo en la entidad;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+X. Bis 1. incentivo: Es el estímulo, ya sea directo o indirecto, otorgado por las autoridades competentes a las MIPYMES, con el objeto de generar el crecimiento económico y el empleo en el Estado. Estos pueden ser beneficios fiscales y de otro tipo que correspondan y estarán sujetos a los principios de equidad, proporcionalidad y sostenibilidad financiera;
+
 XI. Incubadoras básicas: Al grupo de empresas de los sectores tradicional artesanal, industrial, comercial y de servicios, cuyos requerimientos de infraestructura física, tecnológica y de personal, así como sus mecanismos de operación básicos que incorporan poco valor agregado en el proceso productivo e involucran procesos y procedimientos intensivos en mano de obra;
 
 XII. Incubadoras de alto impacto: Al grupo de empresas de los sectores industrial, comercial y de servicios, con procesos semi especializados, en el entendido que realizan transformaciones de la materia prima, para generar productos terminados, incorporando elementos tecnológicos; involucran el uso intensivo o semi intensivo de los bienes de capital y recursos humanos especializados y capacitado (sic) técnicamente para realizar la actividad primordial de la empresa;
 
 XIII. Ley: La Ley de Fomento a la Micro, Pequeña y Mediana Empresa para el Estado de Nuevo León;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XIII Bis. Migrante de retorno: Persona originaria de México que regresa al estado de Nuevo León después de haber residido en el extranjero por un periodo mínimo de un año, con la intención de establecerse con fines de emprendimiento de manera permanente o temporal;
+
 XIV. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, de los sectores industrial, comercial y de servicios que cumplan con lo establecido en la Ley Para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, en el Artículo 3, Fracción III.;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Bis Mujer Rural: Es toda aquella que trabaja y se desarrolla en el ámbito rural en diversas actividades, como agrícola, hortícola, ganadera, forestal, acuícolas, avícola, apícola u otras semejantes, ya sea de forma asalariada o empresaria y que desempeñan un papel fundamental en la producción, procesamiento, conservación y comercialización de alimentos;
 
 XV. Organizaciones Empresariales: Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; los Sindicatos de Patrones, así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES;
 
@@ -105,13 +125,17 @@ XVIII. Secretaría: La Secretaría de Economía y Trabajo;
 
 XIX. Sector Público: Dependencias y entidades de la Administración Pública de la Federación, Estado y Municipios de Nuevo León;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-XX. Sectores: Los sectores privado y social; y
+XX. Sectores: Los sectores privado y social;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-XXI. Empresa emergente ó Startup: a la empresa de nueva creación que comercializa productos y/o servicios generalmente a través del uso intensivo de las tecnologías de la información y la comunicación, con un modelo de negocio escalable el cual le permite un crecimiento rápido y sostenido en el tiempo.
+XXI. Empresa emergente o Startup: a la empresa de nueva creación que comercializa productos y/o servicios generalmente a través del uso intensivo de las tecnologías de la información y la comunicación, con un modelo de negocio escalable el cual le permite un crecimiento rápido y sostenido en el tiempo; y
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XXII. Relocalización de Empresas Extranjeras: Es la estrategia empresarial mediante la cual las empresas deciden de forma temporal o permanente, trasladar o relocalizar sus operaciones de manufactura, producción, logística o servicios cercanos a sus mercados principales.
 
 ###### Artículo 4.
 
@@ -119,21 +143,25 @@ Es objeto de la presente Ley:
 
 I. Proteger, velar y defender al sector de las micro, pequeñas y medianas empresas en el Estado;
 
-II. Establecer una política integral de apoyo a las MIPYMES, con visión de corto, mediano y largo plazo, asignando los recursos humanos y económicos suficientes para su implementación;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+II. Establecer una política integral de apoyo a las MIPYMES, con visión de corto, mediano y largo plazo, asignando los recursos humanos, económicos y los incentivos suficientes para su implementación;
 
-III. Apoyar a las MIPYMES para sumarse a las cadenas globales de valor a través de la exportación de sus productos e importación de materias primas y tecnologías;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+III. Apoyar a las MIPYMES para integrarse a las cadenas globales de valor mediante la exportación de sus productos e importación de materias primas y tecnologías, así como fomentar la atracción de inversiones extranjeras y nacionales, incentivando la relocalización de empresas para sus operaciones productivas y logísticas hacia el estado de Nuevo León;
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
 
 IV. Crear los mecanismos mediante los cuales la Secretaría elabore las políticas de corto, mediano y largo plazo, para elevar la productividad y competitividad de las MIPYMES, considerando la opinión de las organizaciones empresariales;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-V. Facilitar el acceso al financiamiento a través de créditos directos e indirectos, el fomento a alternativas de créditos bancario (sic) y la creación de políticas que atiendan la problemática de oferta y demanda de recursos con el objetivo de apoyar el crecimiento y consolidación de las MIPYMES, en igualdad sustantiva de oportunidades tanto para las mujeres como para los hombres y la inclusión de jóvenes y personas con discapacidad;
+V. Facilitar el acceso al financiamiento a través de créditos directos e indirectos, el fomento a alternativas de créditos bancarios y la creación de políticas que atiendan a la problemática de oferta y demanda de recursos, a través de requisitos simplificados para facilitar su alcance, con el objetivo de apoyar el crecimiento y consolidación de las MIPYMES, en igualdad sustantiva de oportunidades tanto para las mujeres como para los hombres, adultos mayores, la inclusión de jóvenes y personas con discapacidad;
 
-VI. Promover la cultura emprendedora a través de los programas educativos, además apoyar en la constitución de proyectos de emprendimiento, para impulsar la constitución de nuevas empresas;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+VI. Promover la cultura emprendedora y los emprendimientos de los migrantes de retorno, a través de programas educativos, además apoyar en la constitución de proyectos de emprendimiento, para impulsar la constitución de nuevas empresas;
 
 VII. Fomentar entre las MIPYMES los procedimientos, prácticas y normas que contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente;
 
@@ -159,13 +187,37 @@ XII. Fortalecer la articulación del ecosistema de innovación y emprendedor a n
 
 XIII. Crear un esquema integral y de fácil acceso a las MIPYMES, donde se presente el conjunto de apoyos, actividades de fomento y estímulo dedicados a este segmento;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-XIV. Promover en las MIPYMES la creación de nuevos servicios, productos o tecnologías; fomentar el acceso a la regulación y otorgamiento de patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombre (sic) comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas; y
+XIV. Promover en las MIPYMES la creación de nuevos servicios, productos o tecnologías; fomentar el acceso a la regulación y otorgamiento de patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombre (sic) comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas;
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-XV. Fomentar la inclusión social y promover la equidad de género en el ámbito empresarial, contribuyendo a la construcción de un entorno más diverso, igualitario y representativo.
+XV. Fomentar la inclusión social y promover la equidad de género en el ámbito empresarial, contribuyendo a la construcción de un entorno más diverso, igualitario y representativo;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XVI. Impulsar la integración de personas adultas mayores a las actividades productivas, así como el otorgamiento de incentivos a las empresas que en todo momento favorezcan su inclusión;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Promover programas de apoyo, capacitación y dignificación a la mujer rural que visibilicen sus actividades económicas, que aceleren su crecimiento dentro del contexto económico y social;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Promover en las MIPYMES la creación de nuevos servicios, productos o tecnología, y fomentar la protección de la propiedad industrial conforme a las leyes en la materia;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XIX. Implementar a través de la Secretaria de Economía el distintivo de producción local mediante mecanismos de identificación y promoción de productos y servicios originados en el Estado, con el objeto de fortalecer la economía local, impulsar el consumo interno y facilitar canales de comercialización regional, nacional e internacional.
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XX. Promover, fomentar y fortalecer los emprendimientos de los migrantes de retorno, por medio de todos los programas, financiamientos y beneficios que señala la presente ley; y
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XXI. Fomentar e impulsar la inclusión de los microemprendimientos realizados por internet o redes sociales, en la actividad económica formal del Estado.
 
 ### CAPÍTULO SEGUNDO. DEL DESARROLLO DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
@@ -191,17 +243,21 @@ IV. Orientar estrategias y proyectos de modernización, innovación y desarrollo
 
 V. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, que permitan corregirlas o mejorarlas;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-VI. Fomentar que las dependencias y entidades de la Administración Pública Estatal, en la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública consideren a las MIPYMES, hasta alcanzar un mínimo del 30%, conforme a la presente Ley y a la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León y a la Ley de Obras Públicas del Estado de Nuevo León;
+VI. Fomentar que las dependencias y entidades de la Administración Pública Estatal, en la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública consideren a las MIPYMES, hasta alcanzar un mínimo del 35%, conforme a la presente Ley y a la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León ya (sic) la Ley de Obras Públicas del Estado de Nuevo León;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-VII. Considerar las diferencias técnicas y operativas entre las empresas por su tamaño, su sector de actividad y etapa de maduración; y
+VII. Considerar las diferencias técnicas y operativas entre las empresas por su tamaño, su sector de actividad y etapa de maduración;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-VIII. Orientar las acciones de acuerdo con el potencial, las necesidades y las vocaciones existentes en el estado de Nuevo León, atendiendo primordialmente la perspectiva de género e impulsando en todo momento la igualdad sustantiva entre hombres y mujeres, así como la inclusión de jóvenes y personas con discapacidad.
+VIII. Orientar las acciones de acuerdo con el potencial, las necesidades y las vocaciones existentes en el Estado de Nuevo León, atendiendo primordialmente la perspectiva de género e impulsando en todo memento (sic) la igualdad sustantiva entre hombres y mujeres, así como la inclusión de jóvenes y personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+IX. Diseñar, ejecutar, dar seguimiento y evaluar políticas de largo plazo que incluyan mecanismos de capacitación, supervisión, financiamiento y apoyos necesarios para prevenir el cierre prematuro de MIPYMES y fortalecer su rentabilidad y participación en los mercados.
 
 ###### Artículo 7.
 
@@ -213,9 +269,9 @@ I. Fomentar la capacitación y formación empresarial, así como la asesoría y 
 
 II. Fortalecer y fomentar la formación de emprendedores, así como la constitución de incubadoras de empresas;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-III. Promover la integración y apoyo a las cadenas globales de valor, Organismos Empresariales y vocaciones productivas locales;
+III. Promover la integración y apoyo a las empresas locales, a las cadenas globales de valor, Organismos Empresariales y vocaciones productivas locales, asi como impulsar y facilitar la relocalización de empresas extranjeras y nacionales en el Estado;
 
 IV. Promover una cultura tecnológica en las MIPYMES; así como la modernización, innovación y desarrollo tecnológico;
 
@@ -241,9 +297,9 @@ X Bis. Auxiliar, con base en las disposiciones jurídicas aplicables en la mater
 
 XI. Fomentar la expansión nacional e internacional de las MIPYMES.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES, en igualdad sustantiva de condiciones entre hombres y mujeres, garantizando primordialmente el acceso a dicho financiamiento a las mujeres, a los jóvenes y a las personas con discapacidad.
+Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES, en igualdad sustantiva de condiciones entre hombres y mujeres, garantizando primordialmente el acceso a dicho financiamiento a las mujeres, jóvenes, adultos mayores, personas con discapacidad y migrantes en retorno.
 
 ###### Artículo 8.
 
@@ -257,9 +313,29 @@ III. Los mecanismos y esquemas mediante los cuales se ejecutarán las líneas es
 
 IV. Los objetivos a lograr, respecto de los indicadores cualitativos y cuantitativos creados para su medición, así como los criterios para dar seguimiento a la evolución y desempeño de los beneficios previstos, conforme a los términos de lo que establezca el reglamento y la presente Ley.
 
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 8 Bis.
+
+La Secretaría promoverá y coordinará acciones para fomentar la creación, desarrollo, consolidación y competitividad de las micro, pequeñas y medianas empresas. Para tal efecto, implementara las siguientes acciones:
+
+I. Brindar asesoría técnica, capacitación y asistencia integral para fortalecer las capacidades empresariales, financieras y digitales de los emprendedores, con especial atención a jóvenes y mujeres;
+
+II. Facilitar el acceso a programas de formación y mentoría en coordinación con instituciones educativas, organismos empresariales y organizaciones de la sociedad civil;
+
+III. Impulsar plataformas digitales de capacitación y acompañamiento empresarial que permitan a los emprendedores acceder a herramientas, cursos y recursos especializados para el desarrollo de sus negocios;
+
+IV. Establecer mecanismos de seguimiento y apoyo continua (sic) durante los dos primeros años de operación de los negocios liderados por por (sic) mujeres, jóvenes, adultos mayores, personas con discapacidad y migrantes en retorno, con el objetivo de garantizar su consolidación y crecimiento, de acuerdo con las reglas de operación que emita la dependencia; y
+
+V. Las demás acciones que resulten necesarias para promover el emprendimiento y fortalecer la economía del Estado.
+
 ###### Artículo 9.
 
 La Secretaría gestionará ante las instancias federales competentes los programas y apoyos previstos en materia de fomento a las MIPYMES, y podrá firmar los convenios pertinentes para coordinar las acciones e instrumentos de apoyo de conformidad con los objetivos de la presente Ley y de las leyes y reglamentos federales aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+A su vez, implementará, en coordinación con los sectores productivos y comerciales, el Distintivo de Producción Local, con el propósito de fomentar la producción, comercialización y consumo de bienes y servicios elaborados en la entidad, impulsando el crecimiento de las micro, pequeñas y medianas empresas.
 
 ###### Artículo 10.
 
@@ -349,9 +425,9 @@ La Secretaría informará al Consejo sobre las acciones a que se refiere el pres
 
 La Secretaría está obligada a considerar y a razonar las decisiones de los apoyos en base a los siguientes criterios:
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-I. Promover una mayor participación de las mujeres, jóvenes y personas con discapacidad en el desarrollo económico del Estado;
+I. Promover una mayor participación de las mujeres, jóvenes, personas con discapacidad y migrantes de retorno, en el desarrollo económico del Estado.
 
 II. Contribuir a la creación, fortalecimiento, desarrollo, consolidación, viabilidad, productividad y sustentabilidad de las micro, pequeñas y medianas empresas a través de la mejora de sus procesos;
 
@@ -359,9 +435,9 @@ III. Promover, capacitar y difundir los programas, instrumentos, productos, herr
 
 IV. Fomentar el acceso al financiamiento de las MIPYMES;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-V. Facilitar y fomentar la constitución de incubadoras de empresas, empresas Emergentes o startups y formación de emprendedores, mediante la implementación de programas de apoyo dirigidos a mujeres jefas de familia, jóvenes y personas con discapacidad;
+V. Facilitar y fomentar la constitución de incubadoras de empresas, empresas emergentes o startups y formación de emprendedores, mediante la implementación de programas de apoyo dirigidos a mujeres jefas de familia, mujeres rurales, jóvenes, adultos mayores, personas con discapacidad y migrantes de retorno;
 
 VI. Facilitar y fomentar la integración de las MIPYMES a las cadenas globales de valor;
 
@@ -370,6 +446,30 @@ VII. Promover la investigación y el desarrollo de tecnología en las MIPYMES;
 VIII. Fomentar la generación de empleos en las MIPYMES del Estado; y
 
 IX. Apoyar a las incubadoras, los espacios de emprendimiento, aceleradoras, talleres especializados; a través de mecanismos para vincular a las MIPYMES con las universidades, así como los centros de investigación científicos y tecnológicos del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 15 Bis.
+
+Además del Fondo de Fomento a la Micro, Pequeña y Mediana Empresa, el Poder Ejecutivo del Estado y los Municipios, podrán otorgar incentivos a las MIPYMES, tomando en consideración los objetivos y criterios establecidos en la presente Ley y otras disposiciones aplicables.
+
+Las resoluciones que conforme a este artículo se dicten, deberán señalar el tipo de incentivo otorgado, el monto, porcentaje o proporción de los beneficios, los plazos que se concedan, las condiciones aplicables, los requisitos que deberán cumplir los beneficiarios y los mecanismos de evaluación.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 15 Bis 1.
+
+Los incentivos fiscales que se podrán otorgar consistirán en:
+
+I. Subsidio parcial o total del pago del impuesto sobre Nóminas, siempre y cuando los empleos se generen directamente en la entidad;
+
+II. Subsidio parcial o total del pago del impuesto predial, aplicable al inmueble destinado al desarrollo de las actividades de la MIPYME;
+
+III. Subsidio parcial o total del pago de derechos estatales o municipales, relativos a las actividades propias de la MIPYME; y
+
+IV. Los demás que resulten aplicables en términos de la normatividad aplicable.
+
+El porcentaje de los subsidios será determinado por las dependencias estatales o municipales correspondientes, con base en criterios de equidad, proporcionalidad y sostenibilidad financiera.
 
 ### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
@@ -381,9 +481,13 @@ El Consejo es la instancia que analiza, considera, aprueba, verifica y da seguim
 
 El Consejo estará integrado de la siguiente manera:
 
-I. Por un Presidente, que será el Secretario de Economía y Trabajo;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-II. Por un Secretario Técnico que será el Subsecretario de Inversión y Fomento Industrial de la Secretaria de Economía y Trabajo;
+I. Por un Presidente, que será el Secretario de Economía;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+II. Por un Secretario Técnico que será el Subsecretario de Fomento e Innovación Económica de la Secretaria de Economía;
 
 III. Por el Secretario de Finanzas y Tesorero General del Estado, quien fungirá como vocal;
 
@@ -395,19 +499,33 @@ IV. Por el Contralor General de la Contraloría y Transparencia Gubernamental, q
 
 V. Por el Secretario Técnico de la Secretaría de Economía y Trabajo, quien fungirá como vocal;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+V BIS. Por un representante del Congreso del Estado, que será el diputado presidente de la Comisión de Economía, Emprendimiento y Turismo;
+
 VI. Por el Titular de la Delegación Federal de la Secretaría de Economía, quien fungirá como vocal;
 
 VII. Por el Director Regional de Nacional Financiera, quien fungirá como vocal;
 
-VIII. Por siete vocales ciudadanos, los cuales deberán ser mexicanos; mayores de edad; habitantes en el Estado de Nuevo León, cuando menos 6 meses anteriores a la fecha de su nombramiento y representantes de:
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-a) El sector productivo, cuatro representantes; y
+VIII. Por cuatro vocales ciudadanos del sector productivo que serán elegidos de acuerdo con la convocatoria pública;
 
-b) El sector académico, tres representantes.
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-IX. Dos vocales representantes de los Municipios del Estado, estos tendrán derecho a voz y no voto, siendo rotativos semestralmente, con el carácter de honorifico. Para su nombramiento el Secretario de Economía y Trabajo, convocara a los Presidentes Municipales para que mediante votación determinen, quienes serán sus representantes en el Consejo.
+IX. Por dos vocales representantes de la Universidad Autónoma de Nuevo León que no deberán contar con cargo público;
 
-Los vocales ciudadanos durarán en su puesto dos años y podrán ser reelectos por un período inmediato, a excepción de los señalados en la fracción IX de este Articulo. Los vocales de la fracción VIII serán invitados por el Presidente del Consejo, durarán en su encargo dos años y su colaboración será de manera honorífica, tendrán voz y no voto.
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+X. Por dos vocales representantes de Universidades privadas que no deberán contar con cargo público;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XI. Dos vocales representantes de los Municipios del Estado, estos tendrán derecho a voz y no voto, siendo rotativos semestralmente, con el carácter de honorifico. Para su nombramiento el Secretario de Economía, convocara a los Presidentes Municipales para que mediante votación determinen, quienes serán sus representantes en el Consejo.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+Los cuatro vocales ciudadanos y los representantes de universidades deberán ser nombrados observando el principio de paridad de género, ser mexicanos, mayores de edad, habitantes en el Estado de Nuevo León, por lo menos seis meses anteriores a la fecha de su nombramiento, duraran en su encargo dos años y su colaboración será de manera honorifica, tendrán derecho a voz y no voto y podrán ser reelectos por un periodo inmediato.
 
 ###### Artículo 18.
 
@@ -477,13 +595,25 @@ XII. Emitir opinión vinculante respecto a la propuesta de política integral de
 
 XIII. Dar seguimiento a los resultados de los programas y acciones de fomento establecidos por la Secretaría y la política integral de apoyo a las MIPYMES;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-XIV. Formar grupos de trabajo, en coordinación con el Secretario Técnico, con el personal operativo de la Secretaría, Dependencias Gubernamentales y otros interesados para el seguimiento a acuerdos de las sesiones del Consejo; y
+XIV. Formar grupos de trabajo, en coordinación con el secretario técnico, con el personal operativo de la Secretaría, Dependencias Gubernamentales y otros interesados para el seguimiento a acuerdos de las sesiones del Consejo;
 
-> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-XV. Proponer medidas de apoyo mediante incentivos para las personas con discapacidad con la finalidad de lograr un emprendimiento.
+XV. Proponer medidas de apoyo mediante incentivos para las personas con discapacidad con la finalidad de lograr un emprendimiento;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XVI. Impulsar y proponer ante las autoridades estatales y municipales competentes, el otorgamiento de incentivos a las MIPYMES, asegurando su alineación con las leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Emitir recomendaciones a las dependencias estatales y municipales respecto a los incentivos otorgados a las MIPYMES en el ámbito de sus atribuciones, incluyendo mecanismos de evaluación y seguimiento; y
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Proponer e impulsar programas que permitan el desarrollo integral de las micro, pequeñas y medianas empresas del Estado, incluyendo a las personas que realizan microemprendimientos de negocios por internet o redes sociales.
 
 ###### Artículo 22.
 
@@ -557,11 +687,11 @@ VI. Criterios y procesos de evaluación; y
 
 VII. Mecanismos para atender las inconformidades.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 27 Bis 2.
 
-Corresponde al Consejo la selección de no menos de 3 y no más de 7 miembros del jurado para la entrega del Premio Estatal del Emprendedor.
+Corresponde al Consejo la selección, de no menos de 3 y no más de 7 miembros del jurado el cual deberá estar integrado observando el principio de paridad de género, para definir la entrega del Premio Estatal del Emprendedor.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2019)</small>
 
@@ -617,9 +747,47 @@ Artículo 27 BIS 9. La política integral y apoyo a las MIPYMES contará con esq
 
 En coordinación con el sector bancario, la Secretaría implementará una plataforma que conjuntará la oferta de financiamiento para la micro, pequeña y mediana empresas, bajo un esquema de búsqueda y selección acorde a las características de las empresas.
 
-### CAPÍTULO CUARTO. DE LAS INCONFORMIDADES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE NOVIEMBRE DE 2025)</small>
 
-### CAPÍTULO QUINTO. DE LAS SANCIONES
+### CAPÍTULO TERCERO BIS II. DEL DISTINTIVO DE PRODUCCIÓN LOCAL Y EL RECONOCIMIENTO A LA PRODUCCIÓN LOCAL
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 27 Bis 10.
+
+La Secretaría en coordinación con los municipios, instituciones educativas, organismos empresariales y sociales establecerá esquemas para otorgar el Distintivo de Producción Local otorgando el reconocimiento oficial para productos y servicios originados en el Estado, con el fin de incentivar su comercialización, desarrollo y posicionamiento competitivo.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 27 Bis 11.
+
+La Secretaria podrá otorgar el Distintivo de Producción Local de manera oficial a productos o servicios originados en el Estado que cumplan con criterios de calidad, legalidad, sostenibilidad y arraigo productivo, con el objeto de promover su posicionamiento comercial y contribuir al fortalecimiento de la economía local.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+Articula (sic) 27 Bis 12. El Distintivo de Producción Local podrá ser implementado mediante programas institucionales ya existentes o por crearse, su operación estará sujeta a lineamientos emitidos por la secretaria, aprobados por el Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 27 Bis 13.
+
+Los programas de reconocimiento a la producción local a las Micro Pequeñas y Medianas Empresas que cuenten con el Distintivo de Producción Local incluirían como mínimo los siguientes beneficios:
+
+I. Participación preferente en ferias, mercados, exposiciones o plataformas de promoción pública o digital;
+
+II. Acceso prioritario a programas de capacitación, certificación o financiamiento;
+
+III. Inclusión en catálogos oficiales de oferta estatal o regional; y
+
+IV. Otros apoyos de carácter no económico que contribuyan a su inserción en cadenas de valor o su posicionamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 27 Bis 14.
+
+Los criterios de elegibilidad, permanencia, difusión y suspensión del reconocimiento al Distintivo de Producción Local serán definidos en los lineamientos emitidos del programa correspondiente.
+
+### CAPÍTULO CUARTO. DE LAS INCONFORMIDADES
 
 ###### Artículo 28.
 
@@ -628,6 +796,8 @@ Contra cualquier acto administrativo dictado por la Secretaría, los afectados p
 ###### Artículo 29.
 
 Será optativo para el afectado presentar el recurso de inconformidad o acudir ante el Tribunal de Justicia Administrativa del Estado.
+
+### CAPÍTULO QUINTO. DE LAS SANCIONES
 
 ###### Artículo 30.
 
@@ -772,3 +942,21 @@ P.O. 19 DE ENERO DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- La persona Titular del Poder Ejecutivo y el Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+P.O. 2 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 131. SE REFORMA (SIC) DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEON”.]
+
+Primero. El presente Decreto, entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo. El Poder Ejecutivo a través de su Secretario de Economía emitirá la convocatoria para los representantes de los vocales ciudadanos del Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa, una vez que los consejeros actuales cumplan con el periodo a su cargo.
+
+Tercero. Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán atendiendo a la suficiencia presupuestal del ente ejecutor.
+
+Cuarto. La Secretaría de Economía, y el Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contarán con un plazo de 180 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se otorgan mediante las reformas contenidas en el presente artículo.
+
+Quinto. El Ejecutivo del Estado deberá adecuar conforme a lo dispuesto en el presente Decreto y los lineamientos para la aplicación de los incentivos en un plazo de 90 días naturales contados a partir de su publicación en el Periódico Oficial del Estado.
+
+Sexto. Inclúyase dentro de la Ley de Egresos del Estado de Nuevo León para el ejercicio fiscal 2026 y los subsecuentes, la previsión de recursos necesarios para el diseño, implementación y operación de los programas derivados del reconocimiento oficial a la producción local a través del Distintivo de Producción Local, a fin de garantizar su cumplimiento efectivo.
+
+Séptimo. Aquellas empresas que ya participen en el programa Hecho en Nuevo León, se garantizará la continuidad, transparencia, la imparcialidad y el respeto a los derechos adquiridos.
