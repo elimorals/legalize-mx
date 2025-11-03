@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimiento-y-justicia-administrativa-para-el-56710
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-17"
-last_updated: "2023-12-13"
+last_updated: "2025-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2025.
 
 Código Publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2007.
 
@@ -307,11 +309,13 @@ La resolución que se emita no admitirá recurso alguno.
 
 ### CAPÍTULO SEGUNDO. DE LOS MEDIOS DE APREMIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-Las autoridades, para hacer cumplir sus determinaciones, podrán emplear, en el orden que se establece, los siguientes medios de apremio:
+Las autoridades para hacer cumplir sus determinaciones podrán emplear indistintamente, previo apercibimiento, los siguientes medios de apremio:
 
-I. Apercibimiento;
+I. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2025)
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
@@ -1199,6 +1203,10 @@ El acto anulable se considerará válido, gozará de presunción de legitimidad 
 
 Cuando el acto anulable se subsane producirá efectos retroactivos y se considerará como si siempre hubiese sido válido.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+Si se incumple con el requisito contemplado en la fracción V del artículo 138 de este Código, los interesados contarán con el doble del plazo que establecen las disposiciones legales o reglamentarias para interponer el recurso o el proceso administrativo, según corresponda.
+
 ###### Artículo 145.
 
 El superior jerárquico de la autoridad administrativa que haya emitido el acto, de oficio o a petición de parte, podrá reconocer la ilegalidad y declarar su nulidad, salvo que el acto provenga del titular de una dependencia o entidad de la administración pública del Estado o de sus municipios, en cuyo caso el reconocimiento de la ilegalidad y la anulación del acto será por él mismo. Esta disposición se entiende sin perjuicio de las atribuciones del Tribunal y de los Juzgados.
@@ -1309,7 +1317,9 @@ Las manifestaciones, informes o declaraciones rendidos por los interesados a la 
 
 Las autoridades administrativas cuidarán de proveer lo necesario para lograr el rápido y eficaz desarrollo del procedimiento administrativo, allanando todo lo irrelevante o dilatorio que impida obtener una resolución pronta y justa.
 
-Los procedimientos administrativos deberán resolverse en un plazo máximo de tres meses, el cual podrá prorrogarse por una sola vez, por un término igual, siempre y cuando se justifique por la autoridad, ello sin perjuicio de lo establecido en otras leyes.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+Los procedimientos administrativos deberán resolverse en un plazo máximo de dos años, ello sin perjuicio de lo establecido en otras leyes.
 
 ###### Artículo 160.
 
@@ -2157,11 +2167,15 @@ II. Durante el proceso apareciere o sobreviniere alguna de las causas de improce
 
 III. El demandante fallezca durante el proceso, si su derecho es intransmisible o si su muerte lo deja sin materia; y
 
-IV. La autoridad demandada haya satisfecho la pretensión del actor.
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2015)</small>
+IV. El actor no haya efectuado ningún acto procesal durante el término de trescientos días consecutivos, siempre que la promoción o acto sea necesaria para la continuación del proceso, término que se computará a partir del día siguiente a aquel en que surtió efectos la notificación de la última resolución tendente a llevar adelante el procedimiento. Celebrada la audiencia no procederá el sobreseimiento por esta causa;
 
-V. Convenio celebrado entre las partes, siempre y cuando no sea contrario a las disposiciones jurídicas normativas ni afecte los derechos de tercero. Los convenios respectivos podrán ser aprobados por el Magistrado de la Sala de conocimiento o por los juzgados administrativos municipales, y producirán todos sus efectos jurídicos inherentes a una sentencia ejecutoria, con autoridad de cosa juzgada.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+V. La autoridad demandada haya satisfecho la pretensión del actor; y
+
+VI. Convenio celebrado entre las partes, siempre y cuando no sea contrario a las disposiciones jurídicas normativas ni afecte los derechos de tercero. Los convenios respectivos podrán ser aprobados por el Magistrado de la Sala de conocimiento o por los juzgados administrativos municipales, y producirán todos sus efectos jurídicos inherentes a una sentencia ejecutoria, con autoridad de cosa juzgada.
 
 Cuando el convenio sea obscuro, irregular o incompleto, la autoridad podrá requerir a las partes para que lo aclare, corrija o complete en un término de tres días, apercibiéndolo que, de no hacerlo se tendrá por no presentado.
 
@@ -2651,9 +2665,9 @@ III. Las recaídas a un recurso administrativo, cuando la recurrida sea alguna d
 
 Para determinar la cuantía en los casos de las fracciones I y III sólo se considerará el crédito principal sin accesorios ni actualizaciones. Tratándose de más de una resolución de las señaladas en este artículo no se acumulará el monto de cada una de ellas para efectos de determinar la procedencia de la vía.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
 
-Artículo 304 C. La demanda se presentará por escrito o en la modalidad de juicio en línea ante el Tribunal; o por escrito ante el Juzgado respectivo, dentro de los quince días siguientes a aquél en que haya surtido efectos la notificación de la resolución impugnada o a aquel en que se haya ostentado sabedor de su contenido o de su ejecución.
+Artículo 304 C. La demanda se presentará por escrito o en la modalidad de juicio en línea ante el Tribunal; o por escrito ante el Juzgado respectivo, dentro de los treinta días siguientes a aquél en que haya surtido efectos la notificación de la resolución impugnada o a aquel en que se haya ostentado sabedor de su contenido o de su ejecución.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
 
@@ -2701,9 +2715,7 @@ Artículo 304 K. Abierta la audiencia, asistiendo o no las partes, se procederá
 
 Artículo 304 L. El incidente de acumulación sólo podrá plantearse respecto de expedientes que se encuentren tramitándose en esta misma vía y con las características de los juicios previstas en este capítulo.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 M. La sentencia solamente podrá ocuparse sobre los argumentos de fondo del asunto, por lo que aquellos de forma serán desestimados por el Tribunal o Juzgado y no podrá ordenarse la reposición del procedimiento administrativo.
+Artículo 304 M. (DEROGADO, P.O. 3 DE NOVIEMBRE DE 2025)
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
 
@@ -2869,9 +2881,11 @@ e) Admitan o nieguen la intervención del tercero; y
 
 II. Contra sentencias emitidas por las salas del Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 309.
 
-El recurso de reclamación podrá ser promovido por cualquiera de las partes, con excepción del supuesto previsto en la fracción II del artículo anterior, que será exclusivo para las autoridades.
+El recurso de reclamación podrá ser promovido por cualquiera de las partes, con excepción del supuesto previsto en la fracción II del artículo inmediato anterior, que será exclusivo para las autoridades. Respecto de las sentencias emitidas en la vía sumaria no procederá dicho recurso.
 
 Se interpondrá, mediante escrito con la expresión de agravios ante la Sala que haya dictado el acuerdo, resolución o sentencia que se combate, dentro de los diez días siguientes a aquél en que surta efectos la notificación respectiva. Si el escrito mencionado no contiene expresión de agravios, se declarará desierto el recurso.
 
@@ -2974,6 +2988,10 @@ Si una vez agotados los medios de apremio, persistiere el incumplimiento de la s
 ###### Artículo 323.
 
 Si la ejecución consiste en la realización de un acto material, el juzgador podrá realizarlo en rebeldía de la demandada, salvo que se trate de actos discrecionales de la autoridad.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+El cumplimiento sustituto de una sentencia podrá ser solicitado por cualquiera de las partes o decretado de oficio por la persona Magistrada que hubiera emitido la sentencia, cuando por las circunstancias materiales del caso, sea imposible o desproporcionadamente gravoso restituir las cosas a la situación que guardaban con anterioridad al proceso. La solicitud podrá presentarse a partir del momento en que cause ejecutoria la sentencia respectiva. El cumplimiento sustituto se tramitará incidentalmente en los términos de este Código.
 
 ### CAPÍTULO SEGUNDO. DEL RECURSO DE QUEJA
 
@@ -3150,3 +3168,11 @@ Artículo Segundo. El Tribunal de Justicia Administrativa del Estado actualizara
 Artículo Tercero. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de la entrada en vigor del mismo.
 
 Artículo Cuarto. El Tribunal de Justicia Administrativa dictará las medidas administrativas para que, conforme a lo previsto en el artículo segundo transitorio, se establezca la unidad de conciliación.
+
+P.O. 3 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 90 (SIC) DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 27, PÁRRAFO PRIMERO; 159, PÁRRAFO SEGUNDO; 304 C; Y 309, PÁRRAFO PRIMERO. SE ADICIONAN LOS ARTÍCULOS 144, CON UN CUARTO PÁRRAFO; 262 CON UNA FRACCIÓN IV, RECORRIÉNDOSE EN SU ORDEN LAS VIGENTES FRACCIONES IV Y V, PARA UBICARSE COMO FRACCIONES V Y VI; Y 323 CON UN SEGUNDO PÁRRAFO. SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 27; Y EL ARTÍCULO 304 M, TODOS DEL CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
