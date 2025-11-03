@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2025-06-26"
+last_updated: "2025-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -2757,7 +2757,9 @@ I.- La víctima sea menor de edad o incapaz;
 
 II.- Tratándose de violencia física, en los siguientes supuestos:
 
-a) La víctima por razón de su edad, discapacidad o cualquiera otra circunstancia no esté en condiciones de resistir la conducta delictuosa;
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+a) La víctima por razón de discapacidad o cualquiera otra circunstancia no esté en condiciones de resistir la conducta delictuosa.
 
 b) La víctima presente lesiones que por lo menos tarden en sanar más de quince días, dejen cicatriz permanente y notable en la cara, cuello o pabellón auricular o pongan en peligro la vida;
 
@@ -2770,6 +2772,10 @@ e) Se cometa con el uso de armas de fuego o punzocortantes;
 f) Se tengan documentados ante autoridad antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; o
 
 g) Exista imposibilidad material de la víctima de denunciar.
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+III.- La víctima sea persona adulta mayor y no estuviere en condiciones de resistir la conducta, que exista la imposibilidad material de denunciar por sí misma el delito, que se encuentre en estado de necesidad, indefensión, desventaja física y mental o esté afectada por enfermedad grave o terminal.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -4560,3 +4566,9 @@ Artículo Primero. El presente decreto entrará en vigor el día siguiente al de
 Ultractividad en procedimientos previos
 
 Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 3 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 90 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMA EL INCISO A), DE LA FRACCIÓN II; Y SE ADICIONA UNA FRACCIÓN III, AMBOS DEL ARTÍCULO 221 A, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
