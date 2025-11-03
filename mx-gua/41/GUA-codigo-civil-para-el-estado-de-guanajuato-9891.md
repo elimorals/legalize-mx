@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2024-12-27"
+last_updated: "2025-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -569,9 +569,17 @@ c) No se emplearán diminutivos, salvo aquellos determinados por los usos y cost
 
 Para el caso del registro extemporáneo de personas adultas, llevarán los mismos nombres propios con los que se acrediten; y
 
-II. Los apellidos corresponderán por su orden:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE NOVIEMBRE DE 2025)</small>
 
-a) Cuando el registrado se presente como hijo nacido dentro de matrimonio o comparezcan ambos padres a reconocerlo, llevará como primer apellido, el primero del padre y como segundo, el primero de la madre;
+II. Para la asignación de los apellidos se observará lo siguiente:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+a) Cuando el registrado se presente como hijo nacido dentro de matrimonio o comparezcan ambos padres a reconocerlo, éstos decidirán libremente y de común acuerdo el orden de los apellidos.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+En caso de que los padres no se pongan de acuerdo en el orden de los apellidos, el oficial del Registro Civil lo determinará atendiendo al interés superior de la niñez y estabilidad familiar;
 
 b) Cuando el nacido se presenta como hijo fuera de matrimonio, sin comparecencia del padre, éste llevará los mismos apellidos de la madre; y
 
@@ -17812,3 +17820,11 @@ P.O. 27 DE DICIEMBRE DE 2024.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado en un plazo no mayor a treinta días contados a partir de la entrada en vigor del presente Decreto deberá realizar las adecuaciones necesarias en el Reglamento del Registro Civil del Estado de Guanajuato.
+
+P.O. 3 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 89 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMA EL ARTÍCULO 68, FRACCIÓN II Y SU INCISO A). SE ADICIONA UN SEGUNDO PÁRRAFO AL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 68, DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de la vigencia
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
