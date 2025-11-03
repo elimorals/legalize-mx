@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2025-07-07"
+last_updated: "2025-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -2681,6 +2681,10 @@ e) Delegación Ciénega Grande
 
 7. Colonia Gómez Portugal
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+n) Departamento de Notificadores
+
 III. Sistema para el Desarrollo Integral de la Familia:
 
 a) Presidenta Honoraria;
@@ -3154,6 +3158,20 @@ II. Ser persona de reconocida solvencia moral tener un modo honesto de vivir y l
 III. Poseer titulo debidamente registrado en la carrera de Licenciado en Derecho; y
 
 IV. No presentar antecedentes criminales, relativos a haber sufrido condena por comisión de delito doloso.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 241 BIS°.- Para ser Notificador se requiere:
+
+I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
+
+II. Ser persona de reconocida solvencia moral tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
+
+III. No presentar antecedentes criminales, relativos a haber sufrido condena por comisión de delito doloso.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 241 TER°.- Las notificaciones hechas por el notificador, se llevarán conforme a la LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES, siendo las facultades únicamente para el Municipio de Asientos.
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -19288,3 +19306,11 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL 
 ###### ARTÍCULO SEGUNDO.
 
 SE TENDRÁ UN PLAZO DE 30 DÍAS PARA CONFORMACIÓN Y TOMA DE PROTESTA POR EL H. AYUNTAMIENTO, A QUE DA ORIGEN A LA PRESENTE REFORMA.
+
+P.O. 3 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO MUNICIPAL PARA ASIENTOS”.]
+
+Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Segundo.- Se tendrá un plazo de 30 días para expedir los nombramientos a que da origen el presente decreto.
