@@ -4,7 +4,7 @@ identifier: "LIH"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-08-11"
-last_updated: "2025-03-18"
+last_updated: "2025-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -928,7 +928,7 @@ Para los efectos del presente Título, el Asignatario, para evaluar proyectos de
 
 Están obligados al pago del impuesto por la actividad de exploración y extracción de hidrocarburos, los Contratistas y Asignatarios por el Área Contractual y Área de Asignación, respectivamente, definida en el Contrato o Asignación que corresponda.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025", PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2024.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "PRIMERA MODIFICACIÓN AL ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025", PUBLICADO EN EL D.O.F. DE 3 DE NOVIEMBRE DE 2025.]</small>
 
 ###### Artículo 55.
 
@@ -1172,10 +1172,6 @@ México, D.F., a 5 de agosto de 2014.- Dip. José González Morfín, Presidente.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
-RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 1 DE ABRIL DE 2016.
-
-> <small>[N. DE E. VÉASE ANEXO 27 PUBLICADO EN EL D.O.F. DE 1 DE ABRIL DE 2016, PÁGINA 54, EN “PRIMERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016 Y SUS ANEXOS 1-A, 23 Y 27”.]</small>
-
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 7 DE DICIEMBRE DE 2016.
@@ -1185,6 +1181,10 @@ D.O.F. 7 DE DICIEMBRE DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Respecto de los montos máximos de deducción por concepto de costos, gastos e inversiones, previstos en los artículos 41, segundo párrafo, fracciones I y II y 42, fracción I, incisos a) y b) de la Ley de Ingresos sobre Hidrocarburos, durante los ejercicios fiscales de 2017 y 2018, continuará aplicando el régimen de transición previsto en el artículo Segundo, fracción VII del Decreto por el que se expide la Ley de Ingresos sobre Hidrocarburos, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley de Coordinación Fiscal y se expide la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación.
+
+RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 1 DE ABRIL DE 2016.
+
+> <small>[N. DE E. VÉASE ANEXO 27 PUBLICADO EN EL D.O.F. DE 1 DE ABRIL DE 2016, PÁGINA 54, EN “PRIMERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016 Y SUS ANEXOS 1-A, 23 Y 27”.]</small>
 
 RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 6 DE ENERO DE 2017
 
@@ -1235,3 +1235,7 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Las obligaciones de los asignatarios correspondientes al ejercicio fiscal de 2024, derivadas de los derechos a que se refieren los artículos 39, 44 y 45 de la Ley de Ingresos sobre Hidrocarburos vigente hasta el 31 de diciembre de 2024, deben cumplirse conforme a las disposiciones vigentes hasta dicha fecha.
 
 El Servicio de Administración Tributaria puede emitir reglas de carácter general necesarias para el debido cumplimiento de lo dispuesto en el presente artículo transitorio.
+
+RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 3 DE NOVIEMBRE DE 2025.
+
+> <small>[N. DE E. VÉASE PRIMERA MODIFICACIÓN AL ANEXO 27 PUBLICADA EN EL D.O.F. DE 3 DE NOVIEMBRE DE 2025, PÁGINA 89, EN "ANEXOS 1, 14, 15, 26, 27, 29, 30, 31 Y 32 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, PUBLICADA EL 22 DE OCTUBRE DE 2025".]</small>
