@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2025-10-29"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2025.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -119,7 +119,7 @@ El Estado establecerá el Sistema de Cuidados del Estado de México que coordine
 
 Toda persona tiene derecho a elegir de forma libre la distribución del tiempo propio y para el autocuidado, que le permita decidir y ejercer la forma de vida que convenga a sus intereses, necesidades y voluntades. La ley establecerá las bases y modalidades que definan la competencia del estado y los municipios en la promoción, protección y ejercicio de este derecho.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 Toda persona tiene derecho a vivir una vida libre de violencias. Los entes públicos del Estado tienen deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, para garantizar su derecho humano a una vida libre de violencias y a la integridad personal, tanto en el ámbito público como en el privado; debiendo garantizar en la elaboración y ejecución de políticas públicas, los principios de igualdad jurídica; respeto a la dignidad humana de las mujeres, adolescentes, niñas y niños; perspectiva de género; no discriminación, libertad y desarrollo integral, a través de los principios ya reconocidos en la Constitución Política de los Estados Unidos Mexicanos. La Ley definirá las bases y modalidades para su realización de conformidad con lo previsto en los artículos 83 Bis y 86 Bis.
 
@@ -147,15 +147,15 @@ El Estado garantizará, en los términos que fije la ley, la entrega de un jorna
 
 El Estado garantizará la entrega de un apoyo económico periódico a las mujeres que habiten dentro del territorio y se encuentren en condición de vulnerabilidad, en los términos que determine la ley.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 La mujer y el hombre son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus integrantes por ser base fundamental de la sociedad. Bajo el principio de igualdad sustantiva consagrado en este precepto, debe considerarse la equidad entre mujer y hombre, en los ámbitos de desarrollo humano primordiales como lo son el educativo, laboral, político, económico, social y en general, todos aquellos que dignifiquen a la persona; por consiguiente, las autoridades deben velar porque en los ordenamientos secundarios se prevean disposiciones que la garanticen. El Estado promoverá la corresponsabilidad entre mujeres y hombres, las familias, la comunidad, el sector laboral y el propio Estado en las actividades de cuidado.
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 Toda persona tiene derecho a un trabajo digno. A trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 El Estado y los municipios deberán de garantizar el derecho de las mujeres a la igualdad sustantiva. La Ley establecerá los mecanismos tendientes a la erradicación de toda discriminación, violencia o desigualdad contra las mujeres.
 
@@ -251,9 +251,9 @@ La Legislatura del Estado en ningún momento podrá dictar leyes que establezcan
 
 El derecho a la información será garantizado por el Estado. La ley establecerá las previsiones que permitan asegurar la protección, el respeto y la difusión de este derecho.
 
-> <small>(REFORMADO, G.G. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-Para garantizar el ejercicio del derecho de transparencia, acceso a la información pública y protección de datos personales, los poderes públicos y los organismos autónomos, transparentarán sus acciones, en términos de las disposiciones aplicables, la información será oportuna, clara, veraz y de fácil acceso.
+Para garantizar el ejercicio del derecho de transparencia, acceso a la información pública y protección de datos personales, los poderes públicos, municipios y organismos autónomos transparentarán sus acciones, en términos de las disposiciones aplicables, la información será oportuna, clara, veraz y de fácil acceso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE JUNIO DE 2015)</small>
 
@@ -263,21 +263,21 @@ Este derecho se regirá por los principios y bases siguientes:
 
 I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismos de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos estatales y municipales, así como del gobierno y de la administración pública municipal y sus organismos descentralizados, asimismo de cualquier persona física, jurídica colectiva o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones previstas en la Constitución Política de los Estados Unidos Mexicanos de interés público y seguridad, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
-> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-II. La información referente a la intimidad de la vida privada y la imagen de las personas será protegida a través de un marco jurídico rígido de tratamiento y manejo de datos personales, con las excepciones que establezca la ley reglamentaria.
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
 
 > <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
 
 III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución.
+IV. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes en la materia.
 
-> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-V. Los procedimientos de acceso a la información pública, de acceso, corrección y supresión de datos personales, así como los recursos de revisión derivados de los mismos, podrán tramitarse por medios electrónicos, a través de un sistema automatizado que para tal efecto establezca la ley reglamentaria y el organismo autónomo garante en el ámbito de su competencia. Las resoluciones que correspondan a estos procedimientos se sistematizarán para favorecer su consulta.
+V. Los procedimientos de acceso a la información pública, de acceso, corrección y supresión de datos personales, así como los recursos de revisión derivados de los mismos, podrán tramitarse por medios electrónicos, a través de un sistema automatizado que para tal efecto establezca la ley reglamentaria. Las resoluciones que correspondan a estos procedimientos se sistematizarán para favorecer su consulta.
 
 > <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
 
@@ -287,55 +287,51 @@ VI. Los sujetos obligados deberán preservar sus documentos en archivos administ
 
 VII. La ley reglamentaria, determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o jurídicas colectivas.
 
-> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-VIII. El Estado contará con un organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica y de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de transparencia, acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley.
+VIII. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes estatales en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia, para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
 
-El organismo autónomo garante previsto en esta fracción, se regirá por la ley en materia de transparencia, acceso a la información pública y protección de datos personales en posesión de sujetos obligados.
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+Los sujetos obligados se regirán por las leyes generales y locales en materia de transparencia, acceso a la información pública y protección de datos personales.
 
-El organismo autónomo garante tiene competencia para conocer de los asuntos relacionados con la transparencia, el acceso a la información pública y la protección de datos personales en posesión de cualquiera de los sujetos obligados a que se refiere la fracción I del presente artículo, con excepción de aquellos asuntos jurisdiccionales que correspondan al Tribunal Superior de Justicia en cuyo caso resolverá un comité integrado por tres Magistrados. Resolverá la reserva, confidencialidad, inexistencia o negativa de la información, en los términos que establezca la ley.
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
+
+El ejercicio de los derechos de transparencia, acceso a la información pública y protección de datos personales se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
 La ley establecerá la información que se considere reservada o confidencial.
 
-Las resoluciones del organismo autónomo garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
+> <small>(DEROGADO SEXTO PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2024)</small>
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-Cuando dichas resoluciones puedan poner en peligro el interés público y la seguridad de las instituciones locales, la Consejería Jurídica podrá interponer recurso de revisión ante el Tribunal Superior de Justicia en términos de las disposiciones aplicables.
+> <small>(DEROGADO OCTAVO PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-El organismo autónomo garante podrá acudir ante el organismo garante federal a través de petición fundada para que éste conozca de los recursos de revisión que por su interés y trascendencia así lo ameriten.
+> <small>(DEROGADO NOVENO PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(DEROGADO DÉCIMO PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-El organismo autónomo garante se integra por cinco comisionadas o comisionados. Para su nombramiento, la Legislatura, previa realización de una consulta a la sociedad, a propuesta de los grupos parlamentarios, con el voto de las dos terceras partes de los miembros presentes, nombrará a la comisionada o comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la ley. El nombramiento podrá ser objetado por el Gobernador en un plazo de diez días hábiles. Si el Gobernador no objetara el nombramiento dentro de este plazo, ocupará el cargo la persona nombrada por la Legislatura.
+> <small>(DEROGADO DÉCIMO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-En caso de que el Gobernador objetara el nombramiento, la Legislatura hará un nuevo nombramiento, en los términos del párrafo anterior, pero con una votación de las tres quintas partes de los miembros presentes. Si este segundo nombramiento fuera objetado, la Legislatura, en los términos del párrafo anterior, con la votación de las tres quintas partes de los miembros presentes, designará al comisionado que ocupará la vacante.
+> <small>(DEROGADO DÉCIMO SEGUNDO PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(DEROGADO DÉCIMO TERCER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-Las comisionadas o comisionados durarán en su encargo siete años y deberán cumplir con los requisitos previstos en las fracciones I, II, V y VI del artículo 91 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Séptimo de esta Constitución y serán sujetos de juicio político.
+> <small>(DEROGADO DÉCIMO CUARTO PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(DEROGADO DÉCIMO QUINTO PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-En la conformación del organismo autónomo garante se observará el principio de paridad de género.
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+Toda autoridad y persona servidora pública estará obligada a coadyuvar con las Autoridades Garantes Estatales en materia de transparencia, acceso a la información pública y protección de datos personales para el buen desempeño de sus funciones.
 
-La comisionada o el comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante la Legislatura, en la fecha y en los términos que disponga la ley.
+> <small>(DEROGADO DÉCIMO SÉPTIMO PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-El organismo autónomo garante tendrá un Consejo Consultivo, integrado por cinco consejeras o consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Legislatura. Anualmente serán sustituidos las o los dos consejeras o consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
-
-La ley establecerá las medidas de apremio que podrá imponer el organismo autónomo garante, para asegurar el cumplimiento de sus decisiones.
-
-Toda autoridad y servidor público estará obligado a coadyuvar con el organismo autónomo garante y sus integrantes para el buen desempeño de sus funciones.
-
-El organismo autónomo garante coordinará sus acciones con el Órgano Superior de Fiscalización del Estado de México, con la entidad especializada en materia de archivos y con el Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México, así como los organismos garantes federal, de las entidades federativas y del Distrito Federal, con el objeto de fortalecer la rendición de cuentas del Estado de México.
-
-El organismo garante podrá formular programas de difusión de la cultura de transparencia, acceso a la información pública y protección de datos personales, en términos de las disposiciones jurídicas aplicables.
+Las Autoridades Garantes Estatales en materia de transparencia, acceso a la información pública y protección de datos personales que determinen las leyes, deberán formular programas de difusión de la cultura de transparencia, acceso a la información pública y protección de datos personales, en términos de las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
 
@@ -1281,9 +1277,7 @@ VI. A la Comisión de Derechos Humanos del Estado de México, en materia de dere
 
 VII. A la Fiscalía General de Justicia del Estado de México, en materia de su competencia.
 
-> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2021)</small>
-
-VIII. Al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, en las materias de su competencia.
+VIII. (DEROGADA, G.G. 4 DE NOVIEMBRE DE 2025)
 
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1689,9 +1683,7 @@ XLVIII. Legislar en materia de participación ciudadana;
 
 XLIX. Convocar a consultas populares en los términos de esta Constitución y de la ley en la materia;
 
-> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
-
-L. Nombrar a los comisionados del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales.
+L. (DEROGADA, G.G. 4 DE NOVIEMBRE DE 2025)
 
 > <small>(REFORMADA, G.G. 25 DE JULIO DE 2016)</small>
 
@@ -1963,7 +1955,7 @@ XII. Nombrar a las y los Magistrados del Tribunal de Justicia Administrativa del
 
 XIII. Aceptar las renuncias de las Magistradas y los Magistrados del Tribunal de Justicia Administrativa del Estado de México, previo sometimiento a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, así como acordar sus licencias cuando éstas excedan de tres meses, sometiéndolas a la aprobación de la Legislatura del Estado o la Diputación permanente en su caso;
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2025)</small>
 
 XIV. Nombrar y remover libremente a las personas servidoras públicas del Estado cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes. Los nombramientos que realice garantizaran el principio de igualdad y paridad de género. Las leyes determinarán las formas y modalidades que correspondan.
 
@@ -2097,9 +2089,7 @@ XLV. Asumir la representación política y jurídica del Estado en los conflicto
 
 XLVI. Solicitar a la Legislatura las consultas populares sobre los temas de trascendencia estatal, conforme a lo dispuesto en la presente Constitución y las leyes aplicables en la materia;
 
-> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
-
-XLVII. Objetar los nombramientos de las comisionadas o comisionados del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales hechos por la Legislatura, en los términos establecidos en esta Constitución y en la Ley;
+XLVII. (DEROGADA, G.G. 4 DE NOVIEMBRE DE 2025)
 
 > <small>(REFORMADA, G.G. 25 DE JULIO DE 2016)</small>
 
@@ -2137,11 +2127,11 @@ Para el despacho de los asuntos que la presente Constitución le encomienda, el 
 
 Para ser Secretaria o Secretario General de Gobierno se requiere cumplir los mismos requisitos que para ser Gobernadora o Gobernador del Estado.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 Para ser secretaria o secretario del despacho del Ejecutivo, se requiere ser ciudadana mexicana o ciudadano mexicano en pleno ejercicio de sus derechos, y tener como mínimo 25 años cumplidos al día de la designación.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 En los nombramientos de las personas titulares en la administración pública del Poder Ejecutivo del Estado se deberá garantizar el principio de igualdad y paridad de género.
 
@@ -2185,7 +2175,7 @@ Asimismo, podrá aplicar mecanismos alternativos de solución de controversias, 
 
 El Ministerio Público hará efectivos los derechos del Estado en los casos que incidan en el ámbito de su competencia y en los casos previstos por la ley intervendrá en los juicios que afecten a quienes se otorgue especial protección, así como también en los procedimientos de ejecución de sentencias penales.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 83.
 
@@ -2209,11 +2199,11 @@ Su organización se regirá por los ejes de desconcentración territorial y espe
 
 Asimismo contará con las unidades administrativas necesarias para el ejercicio de sus funciones, de conformidad con las normas aplicables y la disponibilidad presupuestal.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 La Fiscalía General de Justicia contará, al menos con las fiscalías en materia de delitos electorales, anticorrupción y relacionados con la violencia de género contra mujeres, niñas niños y adolescentes, cuyos titulares serán nombrados y removidos por el Fiscal General y estarán jerárquicamente subordinados a éste.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 El nombramiento y la remoción de los titulares de las fiscalías especializadas antes referidas podrán ser objetados por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado en el plazo de diez días hábiles, a partir de la notificación de éstos.
 
@@ -2311,7 +2301,7 @@ El Ministerio Público y las policías se coordinarán en términos de la Ley Ge
 
 El Ministerio Público y las policías, en el ejercicio de sus funciones, prestarán el auxilio que les soliciten los órganos del poder público y los órganos constitucionales autónomos.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 86 Bis.
 
@@ -2443,9 +2433,7 @@ c) El equivalente al treinta y tres por ciento de los integrantes de un Ayuntami
 
 d) La o el Presidente de la Comisión de Derechos Humanos del Estado de México, en materia de derechos humanos.
 
-> <small>(ADICIONADO, G.G. 8 DE JUNIO DE 2015)</small>
-
-e) La o el Presidente del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales, en el ámbito de su competencia.
+e) (DEROGADO, G.G. 4 DE NOVIEMBRE DE 2025)
 
 > <small>(ADICIONADA, G.G. 3 DE MAYO DE 2012)</small>
 
@@ -2909,7 +2897,7 @@ VI. Las y los ministros de cualquier culto, a menos que se separen formal, mater
 
 Las y los servidores públicos a que se refieren las fracciones de la I a la V serán exceptuados del impedimento si se separan de sus respectivos cargos por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 121.
 
@@ -2931,7 +2919,7 @@ Los municipios tendrán a su cargo las funciones y servicios públicos que seña
 
 Los municipios ejercerán las facultades señaladas en la Constitución General de la República, de manera coordinada con el Gobierno del Estado, de acuerdo con los planes y programas federales, estatales, regionales y metropolitanos a que se refiere el artículo 139 de este ordenamiento.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 123.
 
@@ -3035,11 +3023,11 @@ V. Asumir la representación jurídica del Municipio, conforme a la ley respecti
 
 VI. Rendir al ayuntamiento en sesión solemne de cabildo, dentro de los primeros cinco días hábiles del mes de diciembre de cada año, un informe por escrito y en medio electrónico del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio;
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2025)</small>
 
 VII. Someter a la consideración del Ayuntamiento los nombramientos de personas titulares de las dependencias y entidades de la administración pública municipal, garantizando el principio de igualdad y paridad de género, en la forma y modalidades que la ley determine;
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2025)</small>
 
 VIII. Nombrar y remover libremente a las personas servidoras públicas del municipio cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes que de ella emanan, garantizando el principio de igualdad y paridad de género, en la forma y modalidad que la ley determine;
 
@@ -3092,6 +3080,10 @@ Todos los pagos se harán mediante orden escrita en la que se expresará la part
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2021)</small>
 
 Los servidores públicos del Estado y municipios, tienen en todo tiempo la obligación de aplicar con eficiencia, eficacia, economía, transparencia y honradez los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+> <small>(ADICIONADO, G.G. 4 DE NOVIEMBRE DE 2025)</small>
+
+Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad republicana, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública.
 
 > <small>(ADICIONADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -3149,9 +3141,9 @@ La responsabilidad del Estado y de los municipios por los daños que, con motivo
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas, actos y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas y conforme a la ley respectiva:
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2025)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Secretaría de la Contraloría del Poder Ejecutivo, del Órgano Superior de Fiscalización del Estado de México, de la Fiscalía Especializada en Combate a la Corrupción, y de las Presidencias del Tribunal de Justicia Administrativa del Estado de México, y del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, así como un integrante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana, quien lo presidirá. El Sistema tendrá la organización y funcionamiento que determine la Ley.
+I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Secretaría de la Contraloría del Poder Ejecutivo, del Órgano Superior de Fiscalización del Estado de México, de la Fiscalía Especializada en Combate a la Corrupción, y de la Presidencia del Tribunal de Justicia Administrativa del Estado de México, así como un integrante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana, quien lo presidirá. El Sistema tendrá la organización y funcionamiento que determine la Ley.
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, rendición de cuentas o combate a la corrupción y serán designados en los términos que establezca la ley.
 
@@ -5582,3 +5574,35 @@ TERCERO. La Legislatura deberá armonizar la legislación correspondiente en un 
 CUARTO. Las erogaciones que se generen con motivo de este Decreto se realizarán con cargo a los recursos presupuestarios aprobados expresamente para esos fines por la Legislatura del Estado. En caso de que se realice alguna modificación a la estructura orgánica de los ejecutores de gasto, deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas, presupuestarias y administrativas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos.
 
 QUINTO. La Legislatura, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto, deberá realizar las adecuaciones legislativas necesarias en materia de vivienda digna y adecuada, garantizando que dichas disposiciones incorporen criterios de seguridad de la tenencia, disponibilidad de servicios, materiales, instalaciones e infraestructura, accesibilidad, habitabilidad, asequibilidad, ubicación y adecuación cultural.
+
+G.G. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 198.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO CUADRAGÉSIMO, LAS FRACCIONES II, IV Y V Y LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, DÉCIMO SEXTO Y DÉCIMO OCTAVO DE LA FRACCIÓN VIII DEL ARTÍCULO 5 Y LA FRACCIÓN I DEL ARTÍCULO 130 BIS; SE ADICIONA EL PÁRRAFO SEXTO, RECORRIENDO LOS SUBSECUENTES, AL ARTÍCULO 129; Y SE DEROGAN LOS PÁRRAFOS CUARTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO SEGUNDO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO Y DÉCIMO SÉPTIMO DE LA FRACCIÓN VIII DEL ARTÍCULO 5, LA FRACCIÓN VIII DEL ARTÍCULO 51, LA FRACCIÓN L DEL ARTÍCULO 61, LA FRACCIÓN XLVII DEL ARTÍCULO 77 Y, EL INCISO E) DE LA FRACCIÓN III DEL ARTÍCULO 88 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, EN MATERIA DE TRANSPARENCIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto se deberán expedir y aprobar las leyes secundarias o sus reformas en materia de transparencia, acceso a la información pública y protección de datos personales, así como realizar las adecuaciones normativas correspondientes que permitan la implementación del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Una vez que entre en vigor la legislación a que hace referencia el Artículo Tercero Transitorio, se extinguirá el Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, en los términos que se prevean en la legislación referida.
+
+Los actos jurídicos emitidos por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, con anterioridad a que entre en vigor la legislación secundaria, surtirán todos sus efectos legales.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes se entenderán como vigentes y obligarán en sus términos a las instituciones que asuman las funciones del Instituto que se extingue, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Los recursos humanos, materiales, financieros y las previsiones presupuestales, así como los registros, padrones, plataformas y sistemas electrónicos del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, pasarán a formar parte de las instancias que asuman sus facultades y atribuciones, cuando corresponda.
+
+Se respetarán los derechos laborales de las personas trabajadoras adscritas al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios de conformidad con las disposiciones jurídicas aplicables.
+
+Las personas Comisionadas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, que continúen en su cargo, concluirán sus funciones a la entrada en vigor de la legislación a la que aluden el Artículo Tercero Transitorio, en los términos que se prevean en tales disposiciones, salvo aquellos cuya vigencia de sus nombramientos concluya previamente a la entrada en vigor de dicha legislación.
+
+A partir de la entrada en vigor de la legislación señalada en el Artículo Tercero Transitorio, las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios se entenderán hechas o conferidas a los entes públicos que adquieran tales atribuciones o funciones, según corresponda.
