@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-los-animales-para-el-estado-de-san-luis-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-23"
-last_updated: "2025-10-22"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 23 de marzo de 2021.
 
@@ -35,7 +35,7 @@ La Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 Todo lo anterior son acciones de vital importancia, que permitirán que muchos animales indefensos reciban un mejor trato, al tiempo de fomentar el cambio de conciencia en las personas, la familia y la sociedad. Resulta oportuno indicar que las diversas iniciativas que se contienen en este proyecto, lo han enriquecido con sus exposiciones de motivos, que ayudaron a la conformación, integración y conclusión del mismo; y que como ya se precisó, sin cambiarse su esencia, se integra el contenido de las ideas legislativas propuestas, aunque en diferente numeración de articulado, por obvias razones de modificarse la totalidad del mismo, al ser una nueva Ley.
 
@@ -1141,9 +1141,15 @@ II. Mutilar al animal, sin las medidas indoloras necesarias; por negligencia o c
 
 III. Privar de aire, luz, alimento, bebida, espacio adecuado y suficiente al animal de que se trate;
 
-IV. Hostigar o maltratar a cualquier animal, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-V. Colocar sobre la piel productos o implementos nocivos, ya sea por razones estéticas o de cualquier índole, excluyéndose el tatuaje de identificación o reconocimiento de raza.
+IV. Hostigar o maltratar a cualquier animal;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+V. Utilizar vehículos tirados por animales para la recolección de fierro, basura o residuos domésticos, y
+
+VI. Colocar sobre la piel productos o implementos nocivos, ya sea por razones estéticas o de cualquier índole, excluyéndose el tatuaje de identificación o reconocimiento de raza.
 
 (ADICIONADO, P.O. 16 DE OCTUBRE DE 2025.
 
@@ -1350,3 +1356,11 @@ P.O. 22 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 0290.- QUE REFORMA EL ARTÍCULO 117 Y REALIZA ADICIÓN AL ARTÍCULO 4º, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EL ARTÍCULO 317 QUÁTER, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 ÚNICO. Los artículos, Primero y Segundo de este Decreto, serán vigentes al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0302.- QUE REALIZA ADICIÓN AL ARTÍCULO 127, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
