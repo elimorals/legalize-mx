@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-y-conservacion-de-arboles-urbanos-del-109135"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-21"
-last_updated: "2024-10-25"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 21 de julio de 2015
 
@@ -75,6 +75,10 @@ III. Arborizar: poblar de árboles un terreno;
 
 IV. Autoridad municipal: el ayuntamiento y la o las unidades administrativas del municipio con atribuciones en materia de regulación del medio ambiente en el territorio correspondiente;
 
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+IV Bis. Biorretención: proceso natural cuya función es captar, infiltrar, retener y tratar en el sitio el escurrimiento pluvial, mediante la acción conjunta de procesos físicos, químicos y biológicos presentes en el suelo y la vegetación.
+
 V. Copa: conjunto de ramas y hojas que forman la parte superior de un árbol;
 
 VI. Derribo: acción de extraer o eliminar un árbol en su totalidad, a través de medios físicos o mecánicos;
@@ -87,7 +91,15 @@ IX. Infraestructura aérea: todo servicio que se presta a la población, mediant
 
 X. Infraestructura subterránea: todo servicio que se presta a la población, mediante vías de conducción subterránea;
 
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+X Bis. Jardín de lluvia: forma estructural específica de aplicar el proceso de biorretención en una depresión con vegetación y sustrato permeable que capta e infiltra escurrimientos pluviales, reduce su volumen y contaminantes, y contribuye a la recarga de acuíferos y al control de inundaciones.
+
 XI. Mulch: material resultado del triturado de madera, que se coloca sobre la superficie del suelo para mejorar las condiciones del mismo y reducir la evaporización del agua;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+XI Bis. Parque inundable: espacio público diseñado para capturar y retener aguas pluviales, mitigando inundaciones y proporcionando áreas recreativas, utilizando desniveles y vegetación para mejorar la infiltración y adaptación al cambio climático.
 
 XII. Personal autorizado: personas que han recibido capacitación por parte de una institución acreditada;
 
@@ -103,9 +115,25 @@ XVII. Rama: cada una de las partes que nacen del tronco o tallo principal de la 
 
 XVIII. Restitución: restablecimiento de la situación ambiental mediante compensación física o económica, por el daño ocasionado al arbolado urbano, por el incumplimiento de las disposiciones legales y reglamentarias en la materia;
 
-XIX. Secretaría: la Secretaría de Ecología y Gestión Ambiental, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-XX. Trasplante: trasladar plantas del sitio en que están arraigadas y plantarlas en otro.
+XIX. Secretaría: la Secretaría de Ecología y Gestión Ambiental;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+XIX Bis. Sistemas urbanos de drenaje sostenible (SUDS): conjunto de técnicas que reproducen los procesos hidrológicos naturales, y que complementan al drenaje tradicional para la gestión de las escorrentías a través del proceso de retener, ralentizar, almacenar, tratar e infiltrar el agua, bajo el enfoque de las soluciones basadas en la naturaleza;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+XIX Ter. Soluciones basadas en la Naturaleza (SbN): acciones orientadas a proteger, restaurar y gestionar de manera sostenible los ecosistemas naturales y modificados, con el propósito de enfrentar desafíos como el cambio climático, la pérdida de biodiversidad, los riesgos de desastres y la seguridad hídrica y alimentaria, generando beneficios para las personas y la naturaleza mediante el uso de mecanismos sostenibles, como la cosecha de agua de lluvia, pluvial y los sistemas urbanos de drenaje sostenible;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+XX. Trasplante: trasladar plantas del sitio en que están arraigadas y plantarlas en otro, y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+XX Bis. Tren de SUDS: combinación de sistemas urbanos de drenaje sostenible que permiten una mejor gestión en cadena o tren para cumplir con más de un objetivo de estos sistemas.
 
 ### CAPÍTULO II. De las Autoridades Competentes
 
@@ -211,9 +239,17 @@ II. La propuesta de la persona que realizará los trabajos para el manejo y trat
 
 III. Los motivos justificativos para llevarse a cabo la poda, derribo o trasplante;
 
-IV. El registro fotográfico del árbol que permita observar sus condiciones generales, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-V. Domicilio y ubicación del árbol o árboles a tratar.
+IV. El registro fotográfico del árbol que permita observar sus condiciones generales;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+V. Domicilio y ubicación del árbol o árboles a tratar, y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+VI. Evaluar la posibilidad de integrar el árbol en un sistema urbano de drenaje sostenible, que cumpla la función de biorretención a través de jardines de lluvia o parques inundables, en el caso de derribo, trasplante o restitución.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -255,9 +291,9 @@ Las causas para la justificación del derribo de uno o más árboles urbanos son
 
 I. Cuando los árboles concluyan con su período de vida;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-II. Cuando el árbol o los árboles interfieran en el trazo de caminos, pavimentación de calles, construcción o remodelación, y que sea imposible de acuerdo a las características del árbol integrarlo al proyecto por representar una amenaza para el desarrollo del entorno. En este caso, siempre que sea posible, se deberá proceder a trasplantar el árbol o los árboles en el lugar en donde estime conveniente la autoridad municipal; o bien, quien resulte responsable del proyecto, deberá llevar a cabo acciones de plantación de un mínimo de tres árboles por cada árbol derribado, mismos que serán de la especie y características adecuadas y serán plantados en el sitio que la autoridad municipal le indique;
+II. Cuando el árbol o los árboles interfieran en el trazo de caminos, pavimentación de calles, construcción o remodelación, y que sea imposible integrarlos en el proyecto a través de estrategias de drenaje urbano sostenible o rediseño del espacio urbano. En este caso, siempre que sea posible, se deberá proceder a trasplantar el árbol o los árboles en el lugar en donde estime conveniente la autoridad municipal; o bien, quien resulte responsable del proyecto, deberá llevar a cabo acciones de plantación de un mínimo de tres árboles por cada árbol derribado, mismos que serán de la especie y características adecuadas y serán plantados en el sitio que la autoridad municipal le indique, incorporándolo en un esquema de soluciones basadas en la naturaleza y rediseño del espacio urbano como los sistemas urbanos de drenaje sostenible.
 
 III. Cuando los árboles tengan problemas de plagas o enfermedades difíciles de controlar, y con riesgo inminente de dispersión a otros árboles sanos;
 
@@ -283,7 +319,9 @@ II. Árboles patrimoniales, cuando medie solicitud de algún organismo gubername
 
 III. Árboles en algún caso de riesgo, alto riesgo o emergencia, contemplado en esta Ley, y
 
-IV. Árboles que se encuentren en los casos señalados en la fracción II del artículo 14 de este Ordenamiento.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+IV. Árboles que se encuentren en los casos señalados en la fracción II del artículo 14 de este Ordenamiento, priorizando su reubicación en áreas con sistemas urbanos de drenaje sostenible.
 
 ###### ARTÍCULO 17.
 
@@ -293,9 +331,11 @@ En todo trabajo de poda o derribo del arbolado urbano, las personas autorizadas 
 
 Será responsabilidad de quien realice los trabajos de poda y derribo del arbolado urbano, retirar los residuos, que de ellos se generen, en un plazo máximo de setenta y dos horas, a efecto de no obstruir el tránsito vehicular o peatonal.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 19.
 
-Los materiales y deshechos producto de la poda o derribo del arbolado urbano se utilizarán preferentemente para la elaboración de mulch, siempre y cuando se encuentren libres de plagas o enfermedades.
+Los materiales y desechos producto de la poda o derribo del arbolado urbano se utilizarán preferentemente para la elaboración de mulch o como insumo en sistemas de biorretención, como los jardines de lluvia, siempre y cuando se encuentren libres de plagas o enfermedades.
 
 ### CAPÍTULO VI. De las Causas de Riesgo, Alto Riesgo o de Emergencia
 
@@ -319,9 +359,15 @@ II. Cuando los árboles urbanos se encuentren debilitados por su desarrollo, les
 
 Para los efectos de esta Ley, se considerará como casos de emergencia, la existencia de árboles urbanos que de permanecer en la misma condición puedan causar un daño severo a bienes muebles, inmuebles o personas. El derribo de árboles urbanos por casos de emergencia, solamente podrá ser realizado por la autoridad municipal correspondiente, mediante aviso del interesado. Cuando se dé el derribo de árboles urbanos por casos de emergencia, la autoridad municipal quedará obligada a cumplir con la restitución física respectiva.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+En caso de derribo por emergencia, se deberá incorporar nueva vegetación dentro de esquemas de sistemas urbanos de drenaje sostenible, a fin de mitigar el impacto ambiental y fortalecer la resiliencia urbana ante eventos extremos.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 23.
 
-Cuando se avise de la existencia de algún caso de riesgo, alto riesgo o emergencia, la autoridad municipal contará con un período máximo de veinticuatro horas para evaluar la situación, y determinar si existe o no riesgo grave para la integridad física de una o más personas, o para la propiedad, en cuyo caso, procederá a efectuar los trabajos correspondientes. El incumplimiento a esta disposición hará a la autoridad correspondiente, responsable civilmente por los daños provocados por el árbol.
+Cuando se avise de la existencia de algún caso de riesgo, alto riesgo o emergencia, la autoridad municipal contará con un período máximo de veinticuatro horas para evaluar la situación, y determinar si existe o no riesgo grave para la integridad física de una o más personas, o para la propiedad. En dicha evaluación se considerará la viabilidad de integrar el árbol o su reemplazo en un esquema de drenaje urbano sostenible como parques inundables o jardines de lluvia. En caso de proceder con el derribo, la autoridad municipal deberá priorizar la reforestación con especies adecuadas para la gestión del agua de lluvia y pluvial. El incumplimiento a esta disposición hará a la autoridad correspondiente, responsable civilmente por los daños provocados por el árbol.
 
 ### CAPÍTULO VII. De las Autorizaciones para Operar
 
@@ -371,41 +417,65 @@ La suspensión, extinción, nulidad, revocación, y caducidad de las autorizacio
 
 ### CAPÍTULO VIII. De la Restitución
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 31.
 
-Será responsable de la restitución física o económica quien realice sin autorización de la autoridad municipal, la poda excesiva, o derribo de uno o más árboles urbanos.
+Será responsable de la restitución física o económica quien realice sin autorización de la autoridad municipal, la poda excesiva, o derribo de uno o más árboles urbanos. En caso de restitución física, se priorizará la reforestación en áreas con trenes de SUDS o algún otro sistema bajo el enfoque de las soluciones basadas en la naturaleza, según lo determine la autoridad municipal.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 32.
 
-La autoridad municipal, establecerá un catálogo para la restitución de las especies de árboles aptas para ello, tomando en cuenta principalmente las nativas o propias de la región, de fácil adaptabilidad al suelo urbano y al clima del municipio.
+La autoridad municipal establecerá un catálogo para la restitución de las especies de árboles aptas para ello, tomando en cuenta principalmente las nativas o propias de la región, de fácil adaptabilidad al suelo urbano y al clima del municipio. Dicho catálogo deberá incluir especies recomendadas para su integración en sistemas urbanos de drenaje sostenible, como jardines de lluvia, parques inundables y otras estrategias para fortalecer la resiliencia urbana.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 33.
 
-Será posible cumplir con la obligación a la restitución física, con especies no recomendadas por el dictaminador o la autoridad municipal, siempre y cuando se encuentren contempladas dentro catálogo municipal para la Restitución, cuando se proponga por escrito de parte del obligado, lo cual se someterá a juicio de autoridad municipal que ordenó la restitución, analizando se cumpla con las características idóneas para el lugar previamente designado y genere el equilibrio ecológico necesario.
+Será posible cumplir con la obligación de restitución física con especies no recomendadas por el dictaminador o la autoridad municipal, siempre y cuando se encuentren contempladas dentro del catálogo municipal para la restitución y sean aptas para su integración en estrategias de drenaje sostenible o mejora de la gestión del agua de lluvia y pluvial. La propuesta deberá presentarse por escrito y será evaluada por la autoridad municipal.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 34.
 
-Toda restitución se realizará en el sitio del derribo, en un radio menor a un kilómetro o en el lugar en donde cause mayor beneficio a consideración de la autoridad municipal.
+Toda restitución se realizará en el sitio del derribo, en un radio menor a un kilómetro o en el lugar en donde cause mayor beneficio a consideración de la autoridad municipal. Se dará preferencia a la reforestación a través de trenes de SUDS para mejorar la gestión de las escorrentías.
 
 ###### ARTÍCULO 35.
 
 En los casos de restitución física deberá de apegarse a los siguientes lineamientos:
 
-I. Prever que el crecimiento del árbol no pueda llegar a obstruir, interferir o afectar otros árboles, bienes inmuebles, infraestructura urbana o personas, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-II. Replantar otro árbol de las mismas condiciones y tamaño, cuando el árbol que sirva de restitución no sobreviva.
+I. Prever que el crecimiento del árbol no pueda llegar a obstruir, interferir o afectar otros árboles, bienes inmuebles, infraestructura urbana o personas;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+II. Replantar otro árbol de las mismas condiciones y tamaño, cuando el árbol que sirva de restitución no sobreviva, y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+III. Priorizar la reforestación en sitios estratégicos para la gestión del agua de lluvia, pluvial, biorretención o mitigación de escorrentías, en coordinación con programas de drenaje sostenible y cualquier otra solución bajo el enfoque de las soluciones basadas en la naturaleza.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 36.
 
 La restitución económica consistirá en el pago del monto que establezca la autoridad municipal, dependiendo del daño ocasionado al medio ambiente y la valoración de las condiciones que guardaba el árbol derribado o afectado por poda excesiva. Para establecer el monto fijo para la restitución económica, se deberá observar el Código Fiscal del Estado de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+Dichos recursos deberán destinarse prioritariamente a la reforestación y construcción de trenes de SUDS.
+
 ###### ARTÍCULO 37.
 
 Las restituciones económicas impuestas al particular que representen una cantidad determinada de dinero, tendrán el carácter de créditos fiscales y podrán ser exigibles mediante el ejercicio de la facultad económica coactiva.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 38.
 
-Las restituciones económicas y lo cobrado al solicitante por los servicios que preste la autoridad municipal señalados por esta Ley, serán destinadas exclusivamente para la conservación y mantenimiento del arbolado urbano.
+Las restituciones económicas y lo cobrado al solicitante por los servicios que preste la autoridad municipal señalados por esta Ley, serán destinadas exclusivamente para la conservación y mantenimiento del arbolado urbano, priorizando la integración de este en proyectos de sistemas urbanos de drenaje sostenible y estrategias de adaptación al cambio climático.
 
 ### CAPÍTULO IX. Del Registro Estatal de los Prestadores de Servicio en Materia de Arbolado Urbano
 
@@ -525,9 +595,17 @@ La Secretaría en coordinación con las autoridades municipales y las organizaci
 
 I. Promover los objetivos contemplados en esta Ley;
 
-II. estimular la planeación y ejecución de proyectos inherentes al cuidado, conservación y protección del arbolado urbano, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-III. Las demás que sean de interés para desarrollar, fortalecer y fomentar la cultura del cuidado, conservación y protección del arbolado urbano.
+II. estimular la planeación y ejecución de proyectos inherentes al cuidado, conservación y protección del arbolado urbano;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+III. Las demás que sean de interés para desarrollar, fortalecer y fomentar la cultura del cuidado, conservación y protección del arbolado urbano, y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+IV. Impulsar la integración de sistemas urbanos de drenaje sostenible, como jardines de lluvia, parques inundables u algún otro sistema de biorretención, en la planificación y ejecución de proyectos de conservación y protección del arbolado urbano.
 
 ###### ARTÍCULO 46.
 
@@ -543,15 +621,25 @@ II. Incentivar y apoyar la formación, capacitación y actualización de los pre
 
 III. Promover e impulsar la preservación de la salud del arbolado urbano y patrimonial con el propósito de reducir la pérdida de áreas verdes y prevenir riesgos de caída y muerte prematura, y
 
-IV. Desarrollar planes y programas educativos dirigidos al cumplimiento de los objetivos de esta Ley.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+IV. Desarrollar planes y programas educativos dirigidos al cumplimiento de los objetivos de esta Ley, incluyendo una educación integral del ciclo hidrológico y su importancia en la conservación de los ecosistemas.
 
 ###### ARTÍCULO 47.
 
 La Secretaría coordinará los esfuerzos y acciones que en materia de, investigación, desarrollo, innovación, y transferencia tecnológica se requiera para el cuidado, conservación y protección del arbolado urbano, con las siguientes acciones:
 
-I. Promover el intercambio científico y tecnológico entre los investigadores e instituciones académicas, centros de investigación e instituciones de educación superior del Estado y del país, así como con otros países, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-II. Impulsar la recopilación, análisis y divulgación de investigaciones en materia de cuidado, conservación y del arbolado urbano, exitosas en el ámbito estatal y nacional.
+I. Promover el intercambio científico y tecnológico entre los investigadores e instituciones académicas, centros de investigación e instituciones de educación superior del Estado y del país, así como con otros países;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+II. Impulsar la recopilación, análisis y divulgación de investigaciones en materia de cuidado, conservación y del arbolado urbano, exitosas en el ámbito estatal y nacional, y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+III. Fomentar la investigación, desarrollo e implementación de tecnologías y metodologías basadas en soluciones basadas en la naturaleza como los sistemas urbanos de drenaje sostenible para mejorar la conservación del arbolado urbano y la gestión de recursos hídricos en entornos urbanos.
 
 ### CAPÍTULO XII. De la Denuncia Popular
 
@@ -924,6 +1012,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0005.- SE REFORMAN LAS FRACCIONES VIII Y XIV DEL ARTÍCULO 10, LA FRACCIÓN II DEL ARTÍCULO 14, LA FRACCIÓN II DEL ARTÍCULO 46 Y EL ARTÍCULO 62; Y SE ADICIONAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 10 Y LA FRACCIÓN III DEL ARTÍCULO 46, DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0303.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
