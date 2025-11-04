@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2025-06-26"
+last_updated: "2025-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -649,9 +649,15 @@ XXI. Promover una eficaz participación de la sociedad en la planeación, ejecuc
 
 XXII. Proponer al Consejo a los Presidentes Municipales que deban participar en la Conferencia Nacional de Seguridad Pública Municipal;
 
-XXIII. Procurar que en las instituciones policiales se aplique de manera homogénea y permanente, el protocolo de certificación aprobado por el Centro Nacional de Certificación y Acreditación; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-XXIV. Las demás que le confieran otras disposiciones legales.
+XXIII. Procurar que en las instituciones policiales se aplique de manera homogénea y permanente, el protocolo de certificación aprobado por el Centro Nacional de Certificación y Acreditación;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+XXIV. Supervisar y vigilar el funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; y
+
+XXV. Las demás que le confieran otras disposiciones legales.
 
 Con el propósito de instrumentar en la entidad los programas, políticas, protocolos, criterios, lineamientos y demás acciones procedentes que acuerde el Consejo Nacional, el Secretario y sus unidades administrativas se coordinarán técnicamente con los centros nacionales de Acreditación y Certificación, de Información, y de Prevención del Delito y Participación Ciudadana previstos en la Ley General.
 
@@ -771,7 +777,9 @@ Asimismo para cada sesión el Presidente podrá invitar a dos representantes de 
 
 Los integrantes del Consejo podrán designar un suplente, mismo que deberá tener un rango jerárquico inmediato inferior o, en su caso, ser homólogo, y tendrá los mismos derechos y obligaciones que el titular.
 
-El Presidente podrá ser suplido por el Secretario General de Gobierno en quien, de ser el caso, delegará el ejercicio de sus atribuciones relativas al Sistema.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+La o el Presidente podrá ser suplido por la persona titular de la Secretaría de Seguridad Pública en quien, de ser el caso, delegará el ejercicio de sus atribuciones relativas al Sistema.
 
 ###### ARTICULO 25.
 
@@ -925,11 +933,11 @@ XXIV. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 XXV. Las demás que prevean necesarias para cumplir los acuerdos del Consejo
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 31.
 
-El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Secretaría General de Gobierno, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento interior, los manuales de organización y de procedimientos correspondientes, así como el servicio profesional de carrera que el mismo determine, y su objeto será soportar el cumplimiento de las atribuciones que le competen a la o al Secretario Ejecutivo.
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Secretaría de Seguridad Pública, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento interior, los manuales de organización y de procedimientos correspondientes, así como el servicio profesional de carrera que el mismo determine, y su objeto será soportar el cumplimiento de las atribuciones que le competen a la o al Secretario Ejecutivo.
 
 #### SECCION SEGUNDA. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PUBLICA
 
@@ -2646,3 +2654,55 @@ P.O. 26 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-535 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Finanzas, Secretaría de Administración, a la Secretaría Anticorrupción y Buen Gobierno y a la Secretaría de Seguridad Pública, a realizar de manera inmediata las adecuaciones y transferencias presupuestales, financieras y de recursos humanos, derivados de la presente reforma, sin que tales procesos puedan exceder de 30 días naturales, contados a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales y financieros asignados a la Secretaría General de Gobierno vinculados con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, se transferirán a la Secretaría de Seguridad Pública, y a la Secretaría de Finanzas, respectivamente, según corresponda, para que se asignen conforme a la naturaleza de sus funciones.
+
+El presupuesto ejercido por la Secretaría General de Gobierno vinculado con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, se comprobará conforme a la legislación aplicable.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos adscritos al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; al Centro Estatal de Evaluación y Control de Confianza; al Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, se incorporarán a la Secretaría de Seguridad Pública, de manera inmediata, sin que dicho proceso pueda exceder de 30 días naturales, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las personas titulares del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; del Centro Estatal de Evaluación y Control de Confianza; del Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, continuarán en su encargo hasta en tanto se realicen las designaciones correspondientes, en términos de la normatividad aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Administración, Secretaría de Finanzas, Secretaría Anticorrupción y Buen Gobierno y a la Secretaría de Seguridad Pública, a realizar de manera inmediata, los procedimientos correspondientes a llevar a cabo las adecuaciones normativas y de estructura orgánica a las que haya lugar, derivados de la presente reforma, sin que tales procesos puedan exceder de 30 días naturales, contados a partir de su entrada en vigor.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto no se emita la normatividad jurídica y administrativa indispensable para el funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, del Centro Estatal de Evaluación y Control de Confianza, del Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, se seguirán aplicando las disposiciones legales y administrativas vigentes al momento de la entrada en vigor del presente Decreto, en lo que no se opongan al mismo.
+
+###### ARTÍCULO NOVENO.
+
+Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo, iniciados con antelación a la entrada en vigor del presente Decreto, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+###### ARTÍCULO DÉCIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, serán atendidos por éstos hasta su conclusión.
+
+Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; el Centro Estatal de Evaluación y Control de Confianza; el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia a la entrada en vigor del presente Decreto, se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los instrumentos jurídicos, convenios, contratos acuerdos interinstitucionales o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las partes, sin perjuicio del derecho que tienen las mismas de ratificarlos, modificarlos o rescindirlos.
