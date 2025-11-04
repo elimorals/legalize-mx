@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2025-10-02"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2025.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 2 DE OCTUBRE DE 2025 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 66-451 PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -403,7 +401,7 @@ XXXII. Organizar, dirigir y administrar el servicio para la atención a las víc
 
 XXXIII. Organizar y vigilar el funcionamiento de la Comisión Estatal de Búsqueda de Personas;
 
-XXXIV. Supervisar y vigilar el funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; y
+XXXIV. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2025)
 
 XXXV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
@@ -1381,11 +1379,15 @@ XXXIII. Promover la capacitación de los integrantes de las instituciones de seg
 
 XXXIV. Verificar el cumplimiento de las obligaciones de las personas integrantes de las instituciones preventivas de seguridad pública Estatal, y conocer de quejas y denuncias, incluso anónimas, con motivo de faltas al régimen disciplinario y, en su caso, poner a disposición de la autoridad competente el resultado;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-XXXV. Implementar, dirigir y ejecutar las atribuciones en materia de tránsito de competencia estatal, en los términos expresados en el artículo 3º de la Ley de Tránsito; y
+XXXV. Implementar, dirigir y ejecutar las atribuciones en materia de tránsito de competencia estatal, en los términos expresados en el artículo 3º de la Ley de Tránsito;
 
-XXXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+XXXVI. Supervisar y vigilar el funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; y
+
+XXXVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2025)</small>
 
@@ -2120,3 +2122,55 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-535 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Finanzas, Secretaría de Administración, a la Secretaría Anticorrupción y Buen Gobierno y a la Secretaría de Seguridad Pública, a realizar de manera inmediata las adecuaciones y transferencias presupuestales, financieras y de recursos humanos, derivados de la presente reforma, sin que tales procesos puedan exceder de 30 días naturales, contados a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales y financieros asignados a la Secretaría General de Gobierno vinculados con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, se transferirán a la Secretaría de Seguridad Pública, y a la Secretaría de Finanzas, respectivamente, según corresponda, para que se asignen conforme a la naturaleza de sus funciones.
+
+El presupuesto ejercido por la Secretaría General de Gobierno vinculado con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, se comprobará conforme a la legislación aplicable.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos adscritos al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; al Centro Estatal de Evaluación y Control de Confianza; al Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, se incorporarán a la Secretaría de Seguridad Pública, de manera inmediata, sin que dicho proceso pueda exceder de 30 días naturales, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las personas titulares del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; del Centro Estatal de Evaluación y Control de Confianza; del Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, continuarán en su encargo hasta en tanto se realicen las designaciones correspondientes, en términos de la normatividad aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Administración, Secretaría de Finanzas, Secretaría Anticorrupción y Buen Gobierno y a la Secretaría de Seguridad Pública, a realizar de manera inmediata, los procedimientos correspondientes a llevar a cabo las adecuaciones normativas y de estructura orgánica a las que haya lugar, derivados de la presente reforma, sin que tales procesos puedan exceder de 30 días naturales, contados a partir de su entrada en vigor.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto no se emita la normatividad jurídica y administrativa indispensable para el funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, del Centro Estatal de Evaluación y Control de Confianza, del Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, se seguirán aplicando las disposiciones legales y administrativas vigentes al momento de la entrada en vigor del presente Decreto, en lo que no se opongan al mismo.
+
+###### ARTÍCULO NOVENO.
+
+Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo, iniciados con antelación a la entrada en vigor del presente Decreto, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+###### ARTÍCULO DÉCIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, serán atendidos por éstos hasta su conclusión.
+
+Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; el Centro Estatal de Evaluación y Control de Confianza; el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia a la entrada en vigor del presente Decreto, se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los instrumentos jurídicos, convenios, contratos acuerdos interinstitucionales o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las partes, sin perjuicio del derecho que tienen las mismas de ratificarlos, modificarlos o rescindirlos.
