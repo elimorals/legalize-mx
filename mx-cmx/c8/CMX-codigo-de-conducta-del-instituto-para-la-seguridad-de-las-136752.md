@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-del-instituto-para-la-seguridad-de-las-13675
 country: "mx"
 rank: "codigo"
 publication_date: "2019-06-14"
-last_updated: "2019-06-14"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136752&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-06-05"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES EN EL DISTRITO FEDERAL
 
+Información obtenida de la página electrónica de la Gaceta Oficial en: https://www.isc.cdmx.gob.mx/storage/app/uploads/public/62d/843/506/62d843506bb84527970234.pdf
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el viernes 14 de junio de 2019.
 
@@ -34,7 +36,9 @@ AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSUL
 
 ÚNICO.- Se da a conocer el enlace electrónico (link) donde podrá consultarse el Código de Conducta del Instituto para la Seguridad de las Construcciones:
 
-https://www.isc.cdmx.gob.mx/storage/app/uploads/public/5cf/69f/f37/5cf69ff37cf92536688640.pdf
+(ACTUALIZADA, G.O. 4 DE NOVIEMBRE DE 2025)
+
+https://www.isc.cdmx.gob.mx/storage/app/uploads/public/62d/843/506/62d843506bb84527970234.pdf
 
 ## TRANSITORIOS
 
@@ -337,3 +341,15 @@ f) Abstenerse o excusarse de intervenir en la atención, trámite, resolución d
 SANCIONES
 
 NOVENO.- La falta de observación y cumplimiento del presente Código de Conducta, dará lugar a sancionar con apercibimiento, amonestación, suspensión, destitución o inhabilitación, y en su caso sanción económica a las personas servidoras públicas en términos de la legislación en materia de Responsabilidades Administrativas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER LA ACTUALIZACIÓN DEL ENLACE ELECTRÓNICO EN EL QUE PUEDE SER CONSULTADO EL CÓDIGO DE CONDUCTA DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES EN EL DISTRITO FEDERAL, PUBLICADO EL 14 DE JUNIO DE 2019”.]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Aviso entrará en vigor el mismo día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se designa como responsable de mantener disponible el enlace electrónico en cita, al Mtro. José Arturo Avendaño Moya, Coordinador de Administración y Finanzas del Instituto para la Seguridad de las Construcciones en el Distrito Federal, con correo institucional de contacto: avenmo@isc.cdmx.gob.mx
