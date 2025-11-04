@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-gobierno-digital-para-el-estado-de-puebla-y-sus-106012"
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-11"
-last_updated: "2015-02-11"
+last_updated: "2025-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS SESENTA DÍAS HÁBILES POSTERIORES A LA FECHA DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE PUEBLA.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 11 de febrero de 2015.
 
@@ -585,7 +585,7 @@ III. Resolución judicial o administrativa;
 
 IV. Fallecimiento del firmante o su representante;
 
-V. Interdicción del firmante o su representante, declarada por una autoridad judicial;
+V. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2025)
 
 VI. Terminación de la representación o extinción de la persona moral representada;
 
@@ -736,3 +736,13 @@ Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de febrero del año dos mil quince. Diputada Presidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputado Vicepresidente. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica. Diputada Secretaría. GERALDINE GONZÁLEZ CERVANTES. Rúbrica. Diputado Secretario. PABLO MONTIEL SOLANA. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cinco días del mes de febrero de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. LUIS MALDONADO VENEGAS. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA LA FRACCIÓN V DEL ARTÍCULO 44 DE LA LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE PUEBLA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se deroga toda disposición legal y reglamentaria que se oponga al presente Decreto.
