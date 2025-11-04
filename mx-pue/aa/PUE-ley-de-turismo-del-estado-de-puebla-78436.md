@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2024-07-05"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -49,9 +49,11 @@ LEY DE TURISMO DEL ESTADO DE PUEBLA
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, su aplicación corresponde al Titular del Ejecutivo del Estado a través de la Secretaría de Turismo y a los Ayuntamientos en el ámbito de su competencia.
+La presente Ley es de orden público e interés social, su aplicación corresponde a la persona Titular del Ejecutivo del Estado a través de la Secretaría de Desarrollo Turístico y a los Ayuntamientos en el ámbito de su competencia.
 
 ###### Artículo 2.
 
@@ -333,29 +335,43 @@ XII.- Verificar que los prestadores de turismo cuenten con los mecanismos necesa
 
 En aquellos casos en que para la debida atención de un asunto, por razón de la materia y de conformidad con las disposiciones legales aplicables, se requiera de la intervención de otras Dependencias o Entidades de la Administración Pública Estatal, la Secretaría ejercerá sus atribuciones en coordinación con las mismas, en los siguientes asuntos:
 
-I.- Colaborar con la Secretaría de Comunicaciones y Transportes del Estado, en la identificación de las necesidades de señalización en las vías estatales de acceso a las zonas de desarrollo turístico;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-II.- Coadyuvar con la Secretaría del Medio Ambiente y Recursos Naturales del Estado, en el ámbito de sus respectivas atribuciones, la instrumentación de los programas y medidas para la preservación de los recursos naturales, prevención de la contaminación, promover el turismo de naturaleza y el de bajo impacto; así como, para el mejoramiento ambiental de las actividades e instalaciones turísticas;
+I.- Colaborar con la Secretaría de Movilidad y Transporte del Estado, en la identificación de las necesidades de señalización en las vías estatales de acceso a las zonas de desarrollo turístico;
 
-III.- Promover y fomentar con la Secretaría de Desarrollo Económico del Estado y demás Dependencias y Entidades competentes de la Administración Pública Estatal, la inversión de capitales nacionales y extranjeros en proyectos de desarrollo turístico y para el establecimiento de servicios turísticos;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-IV.- Coadyuvar con la Secretaría de Desarrollo Económico del Estado, en las acciones tendientes a fortalecer y promover las micro, pequeñas y medianas empresas turísticas;
+II.- Coadyuvar con la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial del Estado, en el ámbito de sus respectivas atribuciones, la instrumentación de los programas y medidas para la preservación de los recursos naturales, prevención de la contaminación, promover el turismo de naturaleza y el de bajo impacto; así como, para el mejoramiento ambiental de las actividades e instalaciones turísticas;
 
-V.- Impulsar con la Secretaría de Desarrollo Económico del Estado, ante las autoridades competentes, la instrumentación de mecanismos y programas tendientes a facilitar los trámites y gestión de los inversionistas y demás integrantes del sector turístico, que permitan la expedita creación y apertura de negocios y empresas en los destinos turísticos;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+III.- Promover y fomentar con la Secretaría de Desarrollo Económico y Trabajo del Estado y demás Dependencias y Entidades competentes de la Administración Pública Estatal, la inversión de capitales nacionales y extranjeros en proyectos de desarrollo turístico y para el establecimiento de servicios turísticos;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+IV.- Coadyuvar con la Secretaría de Desarrollo Económico y Trabajo del Estado, en las acciones tendientes a fortalecer y promover las micro, pequeñas y medianas empresas turísticas;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+V.- Impulsar con la Secretaría de Desarrollo Económico y Trabajo del Estado, ante las autoridades competentes, la instrumentación de mecanismos y programas tendientes a facilitar los trámites y gestión de los inversionistas y demás integrantes del sector turístico, que permitan la expedita creación y apertura de negocios y empresas en los destinos turísticos;
 
 VI.- Analizar y coadyuvar con la Secretaría de Seguridad Pública del Estado, en los casos en que se determine que sea necesaria la protección de la integridad física de los turistas;
 
 VII.- Promover y fomentar con la Secretaría de Educación Pública del Estado, la investigación, educación y la cultura turística;
 
-VIII.- Colaborar con la Secretaría del Trabajo y Competitividad del Estado, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad, a los adultos mayores y a los pueblos y comunidades indígenas;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-IX.- Promover con la Secretaría de Cultura y la de Educación Pública del Estado, el patrimonio histórico, artístico, arqueológico y cultural del Estado, de acuerdo con el marco jurídico vigente;
+VIII.- Colaborar con la Secretaría de Desarrollo Económico y Trabajo del Estado, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad, a las personas adultas mayores y a los pueblos y comunidades indígenas;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+IX.- Promover con la Secretaría de Arte y Cultura y la de Educación Pública del Estado, el patrimonio histórico, artístico, arqueológico y cultural del Estado, de acuerdo con el marco jurídico vigente;
 
 X.- Coadyuvar con otras Dependencias y Entidades de la Administración Pública Estatal, para impulsar proyectos productivos y de inversión turística, que cumplan con las disposiciones legales y normativas aplicables;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-XI.- Promover con la Secretaría de Desarrollo Rural, el desarrollo de la pesca deportivo-recreativa, en términos de la legislación aplicable;
+XI.- Promover con la Secretaría de Agricultura y Desarrollo Rural, el desarrollo de la pesca deportivo recreativa, en términos de la legislación aplicable;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2024)</small>
 
@@ -727,11 +743,13 @@ La Secretaría y los Ayuntamientos supervisarán que lo dispuesto en este Capít
 
 ### CAPÍTULO VIII BIS. DEL TURISMO GASTRONÓMICO
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 41 Bis.
 
-El turismo gastronómico es el traslado de visitantes al Estado con la finalidad de participar en eventos gastronómicos, búsqueda de restaurantes o lugares específicos para la degustación de alimentos típicos.
+El turismo gastronómico es el traslado de visitantes al Estado, con la finalidad de participar en actividades o experiencias gastronómicas auténticas, tradicionales y/o innovadoras, relacionadas con la comida y con productos afines, como son eventos o festivales, búsqueda de restaurantes o lugares específicos para la degustación de alimentos típicos; además de la visita a establecimientos o personas productoras locales, personas cocineras tradicionales y la asistencia a clases de cocina.
+
+Para efectos del párrafo anterior, se entenderá como elemento tradicional el legado trasmitido de generación en generación que involucra conocimientos, técnicas, insumos y costumbres locales, que de manera individual o colectiva se reconocen como propios por el valor y significado que aportan a la identidad, formación, integridad y dignidad cultural.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
 
@@ -811,11 +829,11 @@ La Secretaría, en coordinación con los Ayuntamientos y las Dependencias de la 
 
 La Secretaría en conjunto con la Secretaría de Educación Pública del Estado, promoverá acciones que difundan la importancia de respetar y conservar los atractivos turísticos, así como mostrar un espíritu de servicio, honradez y hospitalidad hacia el turista nacional y extranjero.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 43 Bis.
 
-Turismo Cultural, es el viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino específico.
+Turismo Cultural, es el viaje turístico motivado para conocer, descubrir, comprender, experimentar, consumir y disfrutar los atractivos y productos culturales, materiales e inmateriales, incluyendo el conjunto de rasgos y elementos espirituales, intelectuales y afectivos, que caracterizan a una sociedad o grupo social de un destino específico.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1019,9 +1037,11 @@ La Secretaría promoverá ante las instancias respectivas, el otorgamiento de fi
 
 De la misma forma promoverá ante las autoridades correspondientes la instrumentación y operación de incentivos y estímulos para el desarrollo de proyectos productivos de la actividad turística.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 69.
 
-La Secretaría gestionará en coordinación con la Secretaría de Desarrollo Económico del Estado, la creación de empresas dedicadas a la actividad turística, identificando las posibilidades de inversión con factibilidad económica y financiera, buscando un balance entre las necesidades específicas de las zonas, la protección y conservación de los recursos naturales, culturales y el patrimonio histórico.
+La Secretaría gestionará en coordinación con la Secretaría de Desarrollo Económico y Trabajo del Estado, la creación de empresas dedicadas a la actividad turística, identificando las posibilidades de inversión con factibilidad económica y financiera, buscando un balance entre las necesidades específicas de las zonas, la protección y conservación de los recursos naturales, culturales y el patrimonio histórico.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
@@ -1476,3 +1496,11 @@ P.O. 5 DE JULIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE PUEBLA“.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
