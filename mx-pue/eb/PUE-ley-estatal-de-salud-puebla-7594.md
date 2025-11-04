@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2025-10-15"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -191,9 +191,13 @@ XX. Reconocer la práctica de la Medicina Homeopática;
 
 XXI. Fomentar la prevención de las enfermedades relacionadas con el cáncer, de manera especial el de mama, en coordinación con las autoridades federales competentes; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JULIO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-XXII. Las demás que establezcan la Ley General de Salud y otras disposiciones aplicables.
+XXII. La detección, control y tratamiento de enfermedades autoinmunes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+XXIII. Las demás que establezcan la Ley General de Salud y otras disposiciones aplicables.
 
 B.- En materia de salubridad local:
 
@@ -875,13 +879,17 @@ IV. Acciones relacionadas con educación básica, alfabetización de adultos, ac
 
 V. Los programas de prevención al maltrato infantil, violencia obstétrica y violencia intrafamiliar;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-VI. Programas dirigidos a padres solteros dedicados al cuidado de sus hijos con el objeto de promover el desarrollo físico, mental y emocional saludable de los menores, haciendo valer el derecho a la igualdad de género; y
+VI. Programas dirigidos a padres solteros dedicados al cuidado de sus hijos con el objeto de promover el desarrollo físico, mental y emocional saludable de los menores, haciendo valer el derecho a la igualdad de género;
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-VII. Programas para la ampliación de la cobertura del servicio de guarderías y/o centro de desarrollo infantil y las demás que coadyuven a la salud materno-infantil.
+VII. Programas para la ampliación de la cobertura del servicio de guarderías y/o centro de desarrollo infantil y las demás que coadyuven a la salud materno-infantil; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+VIII. La instalación de cambiadores de pañales en sanitarios de mujeres y hombres en los centros de trabajo de los sectores público y privado, fomentando la comodidad, privacidad e higiene de las personas usuarias.
 
 ###### ARTICULO 61.
 
@@ -3732,6 +3740,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 15 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2, LA FRACCIÓN I DEL APARTADO A DEL ARTÍCULO 4 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 8, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
