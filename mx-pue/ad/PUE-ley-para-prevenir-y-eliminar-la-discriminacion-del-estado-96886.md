@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-96886
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2023-06-29"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de noviembre de 2013.
 
@@ -215,13 +215,17 @@ XXXVI. Prohibir, impedir, agredir o restringir a una madre amamantar a su hija o
 
 XXXVII. Promover, incitar o ejercer violencia en cualquiera de sus tipos y modalidades, así como estigmatizar, negar o impedir el acceso a cualquier servicio a las personas que se desempeñan en los servicios de salud privados o públicos, sean éstas del personal médico o de enfermería, o efectúen profesiones similares y auxiliares a este sector, durante el tiempo que corresponda a una contingencia sanitaria, emergencia, epidemia o pandemia, declarada en términos de Ley por las autoridades competentes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-XXXVIII. Obstruir el uso de rampas de acceso, guías podotáctiles, señalizaciones en sistema braille y demás elementos destinados a la accesibilidad, adaptabilidad y movilidad de las personas con discapacidad; y
+XXXVIII. Obstruir el uso de rampas de acceso, guías podotáctiles, señalizaciones en sistema braille y demás elementos destinados a la accesibilidad, adaptabilidad y movilidad de las personas con discapacidad;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-XXXIX. En general cualquier otro acto u omisión discriminatorio en términos del artículo 4, fracción III de esta Ley.
+XXXIX. Estigmatizar o negar derechos a personas con enfermedades autoinmunes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XXXIX], P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+XL. En general cualquier otro acto u omisión discriminatorio en términos de la fracción III del artículo 4 de esta Ley.
 
 ### CAPÍTULO II. DE LA APLICACIÓN E INTERPRETACIÓN DE LA LEY
 
@@ -590,6 +594,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 29 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 2 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
