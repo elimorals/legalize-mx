@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2025-10-14"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -199,9 +199,9 @@ XXIX. Sistema Nacional DIF: el Sistema Nacional para el Desarrollo Integral de l
 
 XXX. Tratados internacionales: los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte, y
 
-> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-XXXI. Violencia digital: los actos de, acoso, hostigamiento, amenazas, insultos, vulneración de datos e información privada, divulgación de información apócrifa, mensajes de odio, difusión de contenido sexual, convencimiento y reclutamiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de tecnologías de la información y la comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada, o vulneren algún derecho humano de las niñas, niños y adolescentes.
+XXXI. Violencia digital: los actos de, acoso, hostigamiento, amenazas, insultos, vulneración de datos e información privada, divulgación de información apócrifa, mensajes de odio, difusión de contenido sexual, convencimiento y reclutamiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de tecnologías de la información y la comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, inteligencia artificial o cualquier otro espacio digital, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada, o vulneren algún derecho humano de las niñas, niños y adolescentes.
 
 ###### ARTÍCULO 7°.
 
@@ -1547,6 +1547,10 @@ VIII. Todas las demás conductas que violenten la ley y el ejercicio pleno de su
 
 Las niñas, niños y adolescentes tienen derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, para ello, las autoridades del Estado darán todas las facilidades a efecto de coordinarse con la Secretaría de Comunicaciones y Transportes, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, promoverán acciones de prevención y protección de la violencia digital en contra de niñas, niños y adolescentes.
+
 Los medios tecnológicos deberán ser un canal efectivo para ejercer sus derechos a la información, comunicación, educación, salud y no discriminación, siempre y cuando no afecte su estado psicoemocional, y puedan acceder a contenidos acordes a su grado de desarrollo y madurez.
 
 ### CAPÍTULO XXIII. DEL DERECHO A UN MEDIO AMBIENTE SANO, ADECUADO Y ECOLÓGICAMENTE EQUILIBRADO
@@ -2872,6 +2876,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0274.- QUE REFORMA EL ARTÍCULO 4° Y REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 13, DE LA LEY DE LOS DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0301.- QUE REFORMA EL ARTÍCULO 6° Y SE REALIZA ADICIÓN AL ARTÍCULO 88, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
