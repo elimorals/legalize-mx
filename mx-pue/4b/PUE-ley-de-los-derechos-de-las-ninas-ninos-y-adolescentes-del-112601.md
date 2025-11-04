@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-10-17"
+last_updated: "2025-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -837,13 +837,17 @@ XVII. Proteger a las niñas, niños y adolescentes de experimentos o manipulacio
 
 XVIII. Proporcionar asesoría y orientación sobre salud sexual y reproductiva;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-XIX. Establecer medidas para la detección de la condición del espectro autista, con el fin de tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios de acuerdo a los objetivos del Sistema Nacional de Salud; y
+XIX. Establecer medidas para la detección de la condición del espectro autista, con el fin de tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios de acuerdo a los objetivos del Sistema Nacional de Salud;
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
-XX. Impulsar acciones para fomentar la crianza positiva, dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes.
+XX. Impulsar acciones para fomentar la crianza positiva, dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+
+XXI. Fomentar la instalación de cambiadores de pañales en sanitarios de mujeres y hombres en todos los establecimientos de servicio público y privado, procurando la comodidad, privacidad e higiene de las personas usuarias.
 
 Asimismo, se garantizará que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
@@ -2584,6 +2588,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 17 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
