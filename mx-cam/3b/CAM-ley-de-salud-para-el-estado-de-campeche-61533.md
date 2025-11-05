@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2025-08-08"
+last_updated: "2025-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -708,6 +708,10 @@ Artículo 63 ter.- La Secretaría Estatal, en coordinación con las institucione
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
 
 Artículo 63 quater.- La Secretaría Estatal promoverá la realización de jornadas itinerantes a fin de garantizar la prevención, detección, diagnóstico y control oportuno del cáncer mama en las comunidades rurales e indígenas del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2025)</small>
+
+Asimismo, promoverá en el Estado acciones institucionales para la atención preventiva del cáncer de mama y del cáncer cervicouterino, consistentes en orientar y brindar información a las personas usuarias de los servicios de salud que lo requieran, a fin de coadyuvar en la salvaguarda de la salud, la integridad física y la vida de las mujeres.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2024)</small>
 
@@ -3024,3 +3028,13 @@ SEGUNDO.- El Poder Ejecutivo del Estado, por conducto de la Secretaría de Salud
 TERCERO.- La Secretaría de Salud de la Administración Pública del Estado de Campeche, promoverá campañas de información, sensibilización y formación ciudadana sobre los beneficios de la movilidad activa para la salud física y mental, priorizando la participación de niñas, niños, adolescentes, adultos mayores y personas con discapacidad.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 146 POR EL QUE "SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 63 QUATER DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La promoción de las acciones a que se refiere el presente decreto deberá realizarse con los recursos humanos, administrativos y presupuestales de que disponga la Secretaría de Salud del Estado de Campeche.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
