@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-para-el-personal-de-la-secretaria-de-la-1658
 country: "mx"
 rank: "codigo"
 publication_date: "2023-04-26"
-last_updated: "2023-04-26"
+last_updated: "2025-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA PARA EL PERSONAL DE LA SECRETARIA DE LA CONTRALORIA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 5 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA EL PERSONAL DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+CÓDIGO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS: 5 DE NOVIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en el Número 6189 del Periódico Oficial del Estado de Morelos, el miércoles 26 de abril de 2023.
 
@@ -1236,3 +1238,19 @@ AMÉRICA BERENICE JIMÉNEZ MOLINA
 SECRETARIA DE LA CONTRALORÍA DEL PODER EJECUTIVO ESTATAL
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE NOVIEMBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta para el personal de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Morelos publicado el veintiséis de abril del año dos mil veintitrés en el Periódico Oficial "Tierra y Libertad" número 6189.
+
+TERCERA. Se derogan las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Código.
+
+CUARTA. El presente instrumento deberá difundirse también en el portal oficial de la Secretaría de la Contraloría.
+
+QUINTA. Se instruye a la Unidad de Enlace Financiero Administrativo de la Secretaría de la Contraloría para dar a conocer al personal de las unidades administrativas que conforman a este Órgano Estatal de Control, así como al de nuevo ingreso, la existencia y contenido del presente Código de Conducta para su observancia y cumplimiento.
