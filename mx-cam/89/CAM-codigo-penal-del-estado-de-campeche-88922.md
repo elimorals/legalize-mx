@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-10-22"
+last_updated: "2025-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -366,6 +366,18 @@ B. Causas de justificación:
 I. Consentimiento presunto: Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
 
 II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor. Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 5 DE NOVIEMBRE DE 2025)</small>
+
+Se considerará que actúa en legítima defensa, salvo prueba en contrario, cuando al momento de desplegar la conducta:
+
+a) La mujer sea o se encuentre en inminente peligro de ser víctima de violencia física, sexual, tentativa de homicidio o feminicidio; o
+
+b) Una tercera persona actúe en auxilio inmediato de la mujer, ante una agresión de la misma naturaleza.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2025)</small>
+
+En estos casos, la Fiscalía General del Estado o el órgano jurisdiccional competente deberán actuar de forma obligatoria con el principio de perspectiva de género para valorar la razonabilidad de la conducta, la proporcionalidad del medio empleado y la situación de riesgo existente, atendiendo al contexto de violencia estructural o sistemática contra las mujeres.
 
 III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
@@ -956,6 +968,14 @@ En caso del error previsto en el inciso c) de la fracción XI del artículo 33 s
 Al que por error vencible actúe bajo la creencia errónea de que su conducta se encuentra amparada por alguna de las excluyentes del delito y responsabilidad penal previstas en las fracciones III a VI, VIII y XI del artículo 33 de este Código, se le aplicará la tercera parte de la sanción que corresponda al delito de que se trate.
 
 La misma sanción se impondrá a quien por error vencible se exceda en alguna de las excluyentes del delito y responsabilidad penal previstas en las fracciones III a VI del artículo 33 de esta ley.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 91 Bis.
+
+La persona que incurra en exceso respecto de alguna causa de justificación será sancionada conforme a lo previsto en el artículo 90 de este Código, sin perjuicio de que el hecho se atribuya como realizado con dolo.
+
+No se considerará que existe exceso en los casos de legítima defensa ejercida por una mujer, cuando ésta haya sido víctima de violencia física, sexual o feminicida, o se haya encontrado en peligro inminente de serlo, y al momento de los hechos acredite haber actuado bajo un estado de miedo, terror o confusión que le haya impedido valorar adecuadamente los límites de su respuesta o la racionalidad de los medios empleados.
 
 ### CAPÍTULO IV. TENTATIVA
 
@@ -5552,3 +5572,15 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 145 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL INCISO B, FRACCIÓN II, DEL ARTÍCULO 33 Y UN ARTÍCULO 91 BIS AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto la Fiscalía General, el Poder Judicial y el Instituto de Acceso a la Justicia, todos del Estado, deberán implementar programas de capacitación obligatoria en materia de perspectiva de género aplicada a la legítima defensa, con base en los criterios emitidos por la Suprema Corte de Justicia de la Nación y los Tratados Internacionales en la materia.
+
+Tercero.- La Fiscalía General del Estado presentará un informe anual ante el Congreso del Estado sobre los criterios y resultados de la aplicación de esta figura, sin vulnerar procesos en curso.
+
+Cuarto.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
