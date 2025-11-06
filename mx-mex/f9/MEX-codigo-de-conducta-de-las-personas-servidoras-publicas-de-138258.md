@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-las-personas-servidoras-publicas-de-13825
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-28"
-last_updated: "2019-08-28"
+last_updated: "2025-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 6 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO: 6 DE NOVIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 28 de agosto de 2019.
 
@@ -542,3 +544,15 @@ El Secretario Ejecutivo de la Junta de Asistencia Privada del Estado de México
 Alejandro Alfonso Naveda Faure
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 6 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Código de Conducta y Reglas de Integridad de las Personas Servidoras Públicas de la Junta de Asistencia Privada del Estado de México en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Código de Conducta y Reglas de Integridad de las Personas Servidoras Públicas de la Junta de Asistencia Privada del Estado de México entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Código de Conducta y Reglas de Integridad de las Personas Servidoras Públicas de la Junta de Asistencia Privada del Estado de México, publicado en el Periódico Oficial “Gaceta del Gobierno” el 28 de agosto de 2019, así como las demás disposiciones de igual o menor jerarquía que se contrapongan a lo establecido en el presente Código y Reglas de Integridad.
