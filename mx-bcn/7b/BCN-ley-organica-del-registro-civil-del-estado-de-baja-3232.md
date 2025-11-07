@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "2018-11-30"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -551,13 +551,13 @@ Contra la resolución administrativa, no cabe el recurso alguno.
 
 La inscripción de constancias referentes a hechos o actos del Registro Civil ocurridos en el extranjero, en los cuales participen mexicanos, se harán en las formas en que tales actos o hechos deban inscribirse en el Registro Civil del Estado y para ello se obtendrán de la constancia que presente el interesado, los diversos datos que deba contener el acta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 53.
 
-Los datos que deban aparecer en el acta y que no contenga la constancia extranjera, serán obtenidos con base en la documentación prevista en la fracción III del artículo 55 de este ordenamiento legal, misma que deberá ser presentada por los interesados.
+Los datos que deban aparecer en el acta y que no estén contenidos en la constancia extranjera, serán obtenidos con base en la documentación prevista en la fracción III del artículo 55 de este ordenamiento legal, misma que deberá ser presentada por las personas interesadas. Los datos que no puedan recabarse, no se asentarán; en este caso, se invalidarán con rayas los espacios relativos del acta.
 
-Los que no puedan recabarse, no se asentarán; en este caso, se invalidarán con rayas los espacios relativos del acta.
+En los casos de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, que contengan un solo apellido (materno o paterno), el Registro Civil hará del conocimiento de las personas interesadas la posibilidad de agregar en la constancia que se emita, el segundo apellido de la madre o padre, según sea el caso, siempre que el apellido derive de la constancia extranjera.
 
 ###### ARTICULO 54.
 
@@ -571,7 +571,9 @@ La constancia debe anexarse al apéndice, relacionada con el acta.
 
 Para poder inscribir constancias relativas al Registro Civil, provenientes del extranjero, se requiere:
 
-I.- Que la constancia relativa sea debidamente legalizada por las autoridades diplomáticas o consulares, como lo dispone el artículo 131 del Código Federal de Procedimientos Civiles o en su caso la apostilla del país de procedencia del documento; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+I.- Que la constancia relativa sea debidamente legalizada por las autoridades diplomáticas o consulares, o en su caso la apostilla del país de procedencia del documento, en los supuestos que así lo disponga el artículo 1144 del Código Nacional de Procedimientos Civiles y Familiares.
 
 II.- En caso de que no exista traducción para la legalización del documento proveniente del extranjero, se exigirá la traducción de la constancia por Perito Oficial.
 
@@ -585,9 +587,19 @@ a) Acta de nacimiento:
 
 2. Acta o actas de nacimiento de los padres.
 
-3. Identificaciones oficiales de los padres, de quien ejerza la tutela o patria potestad, o del interesado en caso de ser mayor de edad.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+3. Identificaciones oficiales de las madres, padres, de quien ejerza la tutela o patria potestad, o de la persona interesada en caso de ser mayor de edad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Tratándose de personas extranjeras, se consideran identificaciones oficiales su documento migratorio vigente emitido por el Instituto Nacional de Migración, su pasaporte vigente, así como su Certificado de Matrícula Consular y otras identificaciones con validez oficial que acrediten su identidad y residencia.
 
 4. Cuando el interesado no pueda presentarse a la inscripción del registro, el trámite lo pueden efectuar los padres ó tutores si es menor de edad, si estos no pueden presentarse a realizar el trámite de manera personal, lo podrá llevar a cabo un tercero mediante carta poder otorgada ante Notario Público. En caso de mayoría de edad del interesado, deberá acudir personalmente a realizar el trámite de inscripción, de lo contrario, podrá ser representado mediante carta poder otorgada ante Notario Público para autorizar a un tercero a realizar dicho trámite.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+5. Si el nombre y/o apellido(s) de la persona a registrar deben contener la letra "ñ” y el acta de nacimiento extranjera no la refleja, el Oficial del Registro Civil le otorgará el derecho de asentarla donde corresponda, a solicitud de la persona interesada o su apoderado.
 
 b) Acta de matrimonio:
 
@@ -615,7 +627,9 @@ e) Acta de adopción:
 
 2) Homologada que sea la sentencia el interesado o el apoderado legal en su caso podrá acudir a la Oficialía de Registro Civil correspondiente a inscribir el acta de adopción.
 
-Cuando existan errores en las actas provenientes del extranjero que pretendan inscribirse, que se adviertan de las constancias presentadas por los interesados, deberán subsanarse en el país de origen mediante el procedimiento de rectificación que correspondiente (sic).
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Cuando existan errores en las actas provenientes del extranjero que pretendan inscribirse, que se adviertan de las constancias presentadas por las personas interesadas, deberán subsanarse en el país de origen mediante el procedimiento de rectificación correspondiente.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
 
@@ -914,3 +928,13 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 161 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 53 Y 55 DE LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La aplicación de esta reforma iniciará en la fecha que el Congreso del Estado de Baja California, emita la Declaratoria a que se refiere el segundo párrafo del Artículo Segundo Transitorio del Código Nacional de Procedimientos Civiles y Familiares.
+
+TERCERO.- Los Municipios del Estado a través de sus Ayuntamientos, deberán emitir las disposiciones reglamentarias que correspondan, en un plazo que no exceda de 90 días naturales, a partir de la fecha en que entre en vigor la presente reforma.
