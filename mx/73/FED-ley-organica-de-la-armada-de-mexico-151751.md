@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-armada-de-mexico-151751"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-14"
-last_updated: "2023-12-01"
+last_updated: "2025-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151751&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LOAM"
 ---
 # LEY ORGANICA DE LA ARMADA DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO, PUBLICADA EN EL D.O.F. DE 7 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA ARMADA DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 14 de octubre de 2021.
 
@@ -1091,3 +1093,19 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. El Ejecutivo Federal expedirá las modificaciones a las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina.
+
+D.O.F. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DE LA ARMADA DE MÉXICO".]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor de este Decreto, se abroga la Ley Orgánica de la Armada de México, publicada el 14 de octubre de 2021 en el Diario Oficial de la Federación y se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Tercero. Las erogaciones que deriven por la implementación del presente Decreto se cubrirán con cargo al presupuesto aprobado de la Secretaría de Marina, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
+
+Las modificaciones a la estructura orgánica de la Secretaría de Marina que deriven por la entrada en vigor del presente Decreto se llevarán a cabo mediante movimientos compensados, por lo que no se debe incrementar el presupuesto aprobado en el capítulo de servicios personales para el presente ejercicio fiscal, ni el presupuesto regularizable de servicios personales y de gasto de operación de esa dependencia para ejercicios fiscales subsecuentes.
+
+Cuarto. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, relacionados con las modificaciones a los preceptos legales contemplados en la misma, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Quinto. Las referencias que se hagan de las personas servidoras públicas o unidades operativas de la Armada de México en otros ordenamientos, cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor de la presente Ley, se entenderán referidas a las personas servidoras públicas y unidades operativas que, conforme al mismo, sean competentes en la materia que se trate.
