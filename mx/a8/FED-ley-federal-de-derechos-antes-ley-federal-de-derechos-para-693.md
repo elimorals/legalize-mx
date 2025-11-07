@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2024-12-30"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2025.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 30 DE DICIEMBRE DE 2024.
 
@@ -369,11 +369,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-I. Visitante sin permiso para realizar
-
-actividades remuneradas $860.56 $861
+I. Visitante sin permiso para realizar actividades remuneradas $983.00
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -395,17 +393,25 @@ V. Visitante con fines de adopción $4,057.68 $4,058
 
 VI. Residente Temporal:
 
-a). Hasta un año $5,570.37 $5,570
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-b). Dos años $8,346.68 $8,347
+a). Hasta un año $11,140.74
 
-c). Tres años $10,571.29 $10,571
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-d). Cuatro años $12,528.91 $12,529
+b). Dos años $16,693.36
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-VII. Residente Permanente $6,789.48 $6,789
+c). Tres años $21,142.58
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+d). Cuatro años $25,057.82
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+VII. Residente Permanente $13,578.96
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -438,6 +444,10 @@ Tratándose de extranjeros que arriben al país vía aérea, el derecho previsto
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Los prestadores del servicio de transporte aéreo internacional de pasajeros a que se refiere el párrafo anterior, deberán enterar el pago mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Las personas residentes a que se refieren las fracciones VI y VII del presente artículo, pagarán el 50% de las cuotas que les correspondan conforme a las citadas disposiciones, siempre que acrediten ante el Instituto Nacional de Migración que su estancia en el país obedece a la preservación de la unidad familiar, oferta de empleo por parte de una persona física o moral con constancia vigente de inscripción como empleador, o por invitación de una organización o institución pública o privada establecida en el territorio nacional para participar en actividades sin percepción de ingresos en territorio nacional de conformidad con lo que establece la Ley de Migración y su Reglamento.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -529,6 +539,14 @@ IV. Autorización o reposición de la condición de estancia de Residente Tempor
 
 V. Obtención o actualización de la Constancia de inscripción de empleador $376.82 $377
 
+> <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+VI. Por cada autorización para realizar visitas a embarcaciones en navegación de altura $297.89
+
+> <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+VII. Formato de Autorización de Salida del país de niñas, niños, adolescentes y personas bajo tutela jurídica $294.01
+
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 No pagarán la cuota señalada en la fracción III del presente artículo, los extranjeros cuando sean autorizados al amparo de un instrumento jurídico de movilidad de personas o convenios de cooperación internacional en consideración a aspectos de reciprocidad internacional.
@@ -593,21 +611,13 @@ Cuando el servicio migratorio extraordinario en puertos marítimos se preste a e
 
 No se pagarán los derechos por servicios migratorios extraordinarios, cuando por causas no imputables al contribuyente, los servicios migratorios se tengan que proporcionar en días y horas inhábiles o en lugares distintos a las oficinas migratorias.
 
-II.- En aeropuertos
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-internacionales, por cada
+II.- En aeropuertos internacionales, por cada revisión de la documentación de personas pasajeras en vuelos no regulares, al ingreso y a la salida del país $2,707.00
 
-revisión de la documentación
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN II, D.O.F. 7 DE NOVIEMBRE DE 2025]</small>
 
-de pasajeros en vuelos de
-
-fletamento, al ingreso y a la
-
-salida del país $2,707.06 $2,707
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Tratándose de las aeronaves particulares que sin fines de lucro se utilicen para la transportación privada de pasajeros no se pagará el derecho de servicios migratorios extraordinarios a que se refiere esta fracción.
+Cuando se trate de aeronaves destinadas a la protección civil, salud y ayuda por razones humanitarias, no se pagará el derecho por servicios migratorios extraordinarios a que se refiere esta fracción.
 
 ###### ARTICULO 14-B.
 
@@ -2065,9 +2075,9 @@ actualización de la misma y/o
 
 autorización de oferta pública: $31,340.34 $31,340
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-No se pagarán los derechos a que se refiere esta fracción, cuando en términos del primer párrafo del artículo 93 de la Ley del Mercado de Valores, se solicite la inscripción genérica de instrumentos de deuda en el Registro Nacional de Valores.
+No se pagarán los derechos a que se refiere esta fracción, cuando en términos del primer párrafo del artículo 93 de la Ley del Mercado de Valores, se solicite la inscripción genérica de instrumentos de deuda en el Registro Nacional de Valores así como cuando en términos de los artículos 70 Bis y 90 Bis de dicha ley, se solicite la inscripción simplificada de valores en dicho Registro.
 
 II. Solicitud de autorización de
 
@@ -2367,13 +2377,17 @@ IV. Inscripción preventiva de acciones en el
 
 Registro Nacional de Valores: $19,951.97 $19,952
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. PERTENECE A LA FRACCIÓN II], D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 La cuota señalada en esta fracción, se bonificará al 100% contra la cuota que corresponde a la inscripción inicial en el Registro Nacional de Valores, una vez que se sustituya la inscripción preventiva por la inicial.
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 Tratándose de ampliación de la inscripción de acciones, la base del cobro será la diferencia resultante entre el aumento del capital contable a inscribir y el monto previamente inscrito, tratándose de títulos de deuda, la base de cálculo corresponderá al monto que implica el aumento.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Para el cálculo de los derechos por concepto de inscripción a que se refiere el presente artículo, tratándose de aquellos valores que se inscriban bajo la modalidad simplificada en términos de los artículos 70 Bis y 90 Bis de la Ley del Mercado de Valores, se utilizará el factor de 0.27 al millar sobre la base que corresponda al tipo de valor a inscribir, sin que el monto a pagar exceda de $1,396,637.59
 
 ###### ARTICULO 29-C.
 
@@ -2397,19 +2411,17 @@ I. Almacenes Generales de Depósito:
 
 Cada entidad que pertenezca al sector de Almacenes Generales de Depósito, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad igual a la suma de una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-a). El resultado de multiplicar 0.135636 al millar por el valor de los certificados de depósito de bienes, emitidos por la entidad de que se trate.
+a). El resultado de multiplicar 0.135636 al millar por el importe que resulte de la suma de los valores de los siguientes conceptos: i) certificados de depósito de bienes, emitidos por la entidad de que se trate, ii) Inventarios de mercancía y iii) Cartera de crédito.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 b). El resultado de multiplicar 1.350500 al millar por el valor de sus otras cuentas por cobrar menos las estimaciones por irrecuperabilidad o difícil cobro de esas otras cuentas por cobrar.
 
-La cuota que resulte de conformidad
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-con lo previsto en esta fracción, en
-
-ningún caso podrá ser inferior a: $550,674.26 $550,674
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a: $638,782.14
 
 II. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
@@ -2419,17 +2431,17 @@ III. Banca de Desarrollo:
 
 Cada entidad que pertenezca al sector de Banca de Desarrollo, entendiéndose por ello aquellas que conforme a la Ley de Instituciones de Crédito tengan tal carácter, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad igual al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-a). El resultado de multiplicar 0.275887 al millar, por el valor del total de los pasivos de la entidad de que se trate.
+a). El resultado de multiplicar 0.105887 al millar, por el valor del total de los pasivos de la entidad de que se trate.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-b). El resultado de multiplicar 0.021500 al millar, por el valor de sus activos sujetos a riesgo totales.
+b). El resultado de multiplicar 0.031500 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-La cuota que resulte, en ningún caso
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-será inferior a $10,597,486.47 $10,597,486
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $12,293,084.30, ni mayor a: $123,138,179.48
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2441,13 +2453,13 @@ Cada entidad que pertenezca al sector de Banca Múltiple, entendiéndose para ta
 
 a). El resultado de multiplicar 0.128561 al millar, por el valor del total de pasivos de la entidad de que se trate.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-b). El resultado de multiplicar 0.007110 al millar, por el valor de sus activos sujetos a riesgo totales.
+b). El resultado de multiplicar 0.007110 al millar, por el valor de sus activos totales.
 
-La cuota que resulte, en ningún
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-caso será inferior a $6,358,491.86 $6,358,492
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $7,375,850.55
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2455,21 +2467,19 @@ V. Casas de Bolsa:
 
 Cada entidad que pertenezca al sector de Casas de Bolsa, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-a). El resultado de multiplicar 5.687900 al millar, por el valor de su capital global.
+a). El resultado de multiplicar 2.807900 al millar, por el valor de su capital global.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-b). El resultado de multiplicar 4.945800 al millar, por el producto de su índice de capitalización (equivalente al requerimiento de capital entre el capital global) multiplicado por el requerimiento de capital.
+b). El resultado de multiplicar 2.545800 al millar, por el producto de su índice de capitalización (equivalente al requerimiento de capital entre el capital global) multiplicado por el requerimiento de capital.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+c). (DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 2025)
 
-c). El resultado de multiplicar 0.587300 al millar, por el producto del recíproco del indicador de liquidez (equivalente a dividir 1 entre la cantidad que resulte de dividir activo circulante entre pasivo circulante) multiplicado por el pasivo total.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a la cantidad que resulte de multiplicar 0.083 por el capital mínimo requerido para funcionar como casa de bolsa, conforme a las disposiciones aplicables.
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a la cantidad que resulte de multiplicar 0.083 por el capital mínimo requerido, equivalente en moneda nacional a tres millones de unidades de inversión, y no podrá ser mayor a $31,608,664.84
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2485,9 +2495,9 @@ a). El resultado de multiplicar 4.000000 al millar, por el valor de su capital c
 
 b). El resultado de multiplicar 18.750000 al millar, por el importe que resulte de capital contable menos las disponibilidades netas, las cuales serán equivalentes a la suma de caja, billetes y monedas, saldos deudores de bancos, documentos de cobro inmediato, remesas en camino e inversiones en valores, menos los saldos acreedores de bancos. En este caso, cuando las disponibilidades netas sean negativas, la aplicación de la fórmula a que se refiere este inciso será equivalente a sumar el valor absoluto de dichas disponibilidades netas al capital contable.
 
-La cuota que resulte, en ningún
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-caso será inferior a $847,798.90 $847,799
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $983,446.72 y no podrá ser mayor a $1,494,721.48
 
 VII. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
@@ -2501,39 +2511,59 @@ Cada entidad que pertenezca al sector de Inmobiliarias, entendiéndose por ello 
 
 a). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-La cuota que resulte, en ningún
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-caso será inferior a $127,107.83 $127,108
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $147,445.08
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. PRIMER PÁRRAFO], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-IX. Cada Federación constituida en los términos de la Ley de Ahorro y Crédito Popular pagará una cuota de $4,604,025.94 $4,604,026 o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural, que supervise:
+IX. Cada Federación constituida en los términos de la Ley de Ahorro y Crédito Popular pagará una cuota de $5,340,670.09, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural, que supervise:
 
-a). El resultado de multiplicar 0.10000 al millar, por el valor de sus pasivos totales;
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-b). El resultado de multiplicar 0.25000 al millar, por el valor de su cartera de crédito vencida, y
+a). El resultado de multiplicar 0.030000 al millar, por el valor de sus pasivos totales;
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+b). El resultado de multiplicar 0.020000 al millar, por el valor de su cartera de crédito vencida, y
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 c). El resultado de multiplicar 0.00800 al millar, por el valor de su cartera de crédito total menos las reservas preventivas.
 
-En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, tal cuota en ningún caso podrá ser inferior a $36,832.22 $36,832 por cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural que supervise la Federación de que se trate.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, tal cuota en ningún caso podrá ser inferior a $42,725.37 por cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural que supervise la Federación de que se trate.
 
-X. El Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores pagará una cuota de $27,624,155.56 $27,624,156, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las Sociedades Cooperativas de Ahorro y Préstamo que supervise:
+> <small>(REFORMADO [N. DE E. PRIMER PÁRRAFO], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+X. El Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores pagará una cuota de $32,044,020.44, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las Sociedades Cooperativas de Ahorro y Préstamo que supervise:
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 a). El resultado de multiplicar 0.10000 al millar, por el valor de sus pasivos;
 
-b). El resultado de multiplicar 0.25000 al millar, por el valor de su cartera de crédito vencida, y
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-c). El resultado de multiplicar 0.00800 al millar, por el valor de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
+b). El resultado de multiplicar 0.26000 al millar, por el valor de su cartera de crédito vencida, y
 
-En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, en ningún caso dicha cuota podrá ser inferior a $36,832.22 $36,832 por cada sociedad que supervise el Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+c). El resultado de multiplicar 0.01800 al millar, por el valor de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-XI. Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota de $1,988,939.19 $1,988,939, o bien, podrá optar por pagar el equivalente al valor que resulte menor entre el total de las operaciones de venta de activos objeto de inversión que realice la Sociedad de Inversión y el total de las operaciones de compra de dichos activos, multiplicado por 0.0065 al millar.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-La cuota que resulte de la aplicación de la opción prevista en esta fracción en ningún caso podrá ser inferior a $39,903.90 $39,904
+En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, en ningún caso dicha cuota podrá ser inferior a $42,725.37 por cada sociedad que supervise el Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores.
+
+> <small>(REFORMADO [N. DE E. PRIMER PÁRRAFO], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+XI. Cada entidad que pertenezca al sector de Fondos de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota de $2,307,169.46, o bien, podrá optar por pagar el equivalente al valor que resulte menor entre el total de las operaciones de venta de activos objeto de inversión que realice el Fondo de Inversión y el total de las operaciones de compra de dichos activos, multiplicado por 0.0065 al millar.
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+La cuota que resulte de la aplicación de la opción prevista en esta fracción en ningún caso podrá ser inferior a $46,288.52
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en el Registro Nacional de Valores, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 
@@ -2557,9 +2587,9 @@ b). El resultado de multiplicar 0.243000 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.011650 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-La cuota que resulte, en ningún
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-caso será inferior a $339,119.58 $339,120
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $393,378.71
 
 XIV. (DEROGADA, D.O.F. 19 DE DICIEMBRE DE 2024)
 
@@ -2571,7 +2601,9 @@ XV. Fideicomisos Públicos:
 
 Los fideicomisos públicos, que conforme a la Ley de Instituciones de Crédito formen parte del Sistema Bancario Mexicano, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). Una cuota de $3,440,495.32 $3,440,495
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+a). Una cuota de $3,990,974.20
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2583,11 +2615,13 @@ XVI. Instituto del Fondo Nacional para el Consumo de los Trabajadores:
 
 El Instituto del Fondo Nacional para el Consumo de los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). Una cuota de: $3,211,814.15 $3,211,814
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+a). Una cuota de: $3,725,704.41
 
-b). El resultado de multiplicar 0.695726 al millar, por el total de sus activos.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+b). El resultado de multiplicar 0.121726 al millar, por el total de sus activos.
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2595,11 +2629,13 @@ XVII. Instituto del Fondo Nacional de la Vivienda para los Trabajadores:
 
 El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). Una cuota de: $3,211,814.15 $3,211,814
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+a). Una cuota de: $3,725,704.41
 
-b). El resultado de multiplicar 0.022057 al millar, por el total de sus activos.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+b). El resultado de multiplicar 0.013097 al millar, por el total de sus activos.
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2611,33 +2647,27 @@ Cada sociedad que pertenezca al sector de Sociedades Financieras de Objeto Múlt
 
 a). El resultado de multiplicar 0.589202 al millar, por el valor del total de sus pasivos.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-b). El resultado de multiplicar 0.257000 al millar, por el valor de su cartera vencida.
+b). El resultado de multiplicar 0.257000 al millar, por el valor del total de sus activos.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+c). (DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 2025)
 
-c). El resultado de multiplicar 0.014910 al millar, por el valor de su cartera menos las estimaciones preventivas para riesgos crediticios.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-La cuota que resulte de conformidad con
-
-lo previsto en esta fracción en ningún caso
-
-podrá ser inferior a: $1,059,748.66 $1,059,749
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: $1,229,308.44
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 XIX. Sociedades Controladoras de Grupos Financieros:
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose por ello a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará la cantidad que resulte de multiplicar 0.008129 al millar por el total del activo del balance general consolidado con subsidiarias.
+Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose por ello a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará la cantidad que resulte de multiplicar 0.005929 al millar por el total del activo del balance general consolidado con subsidiarias.
 
-La cuota que resulte de conformidad
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-con lo previsto en esta fracción, en ningún caso
-
-podrá ser inferior a: $1,541,887.88 $1,541,888
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a: $1,788,589.94
 
 > <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -2645,7 +2675,9 @@ XX. Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los 
 
 El Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). Una cuota de $3,116,391.23 $3,116,391
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+a). Una cuota de $3,615,013.82
 
 b). El resultado de multiplicar 0.020883 al millar, por el total de sus activos.
 
@@ -2669,39 +2701,19 @@ Sin ajuste Con ajuste
 
 I. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-II. Bolsas de Futuros y Opciones:
+II. Bolsas de Contratos de Derivados:
 
-Cada entidad que pertenezca al sector
-
-de Bolsas de Futuros y Opciones,
-
-entendiéndose para tales efectos a las
-
-entidades que cuenten con autorización
-
-para constituirse y operar como tales en
-
-términos de las disposiciones aplicables,
-
-pagará la cuota $5,762,951.98 $5,762,952
+Cada entidad que pertenezca al sector de Bolsas de Contratos de Derivados, entendiéndose para tales efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de las disposiciones aplicables, pagará la cuota de $5,762,951.98
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 III. Bolsas de Valores:
 
-Cada entidad que pertenezca al sector de
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Bolsas de Valores, entendiéndose para tales
-
-efectos a las entidades que cuenten con la
-
-concesión para constituirse y operar como
-
-tales en términos de la legislación aplicable,
-
-pagará la cuota de $14,407,379.92 14,407,380
+Cada entidad que pertenezca al sector de Bolsas de Valores, entendiéndose para tales efectos a las entidades que cuenten con la concesión para constituirse y operar como tales en términos de la legislación aplicable, pagará la cuota de $16,712,560.71
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -2841,21 +2853,17 @@ una de las Entidades que represente la
 
 cantidad de: $117,278.16 $117,278
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-XV. Operadores del Mercado de Futuros y Opciones:
+XV. Operadores del Mercado de Contratos de Derivados:
 
-Cada entidad que pertenezca al sector de
+Cada entidad que pertenezca al sector de Operadores del Mercado de Contratos de Derivados, pagará la cuota de: $163,741.88
 
-Operadores del Mercado de Futuros y
+Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Operadores del Mercado de Contratos de Derivados, las instituciones de crédito, casas de bolsa y demás personas físicas y morales que pueden o no ser socios de la Bolsa de Contratos de Derivados en términos de lo previsto en las disposiciones que regulan a las sociedades y fideicomisos que intervengan en el establecimiento y operación de un Mercado de Contratos de Derivados cotizados en bolsa, y cuya función sea actuar como persona comisionista de uno o más Socios Liquidadores, en la celebración de Contratos de Derivados, y que pueden tener acceso al sistema electrónico de negociación de la bolsa para la celebración de dichos contratos.
 
-Opciones, pagará la cantidad de: $163,741.88 $163,742
+Asimismo, estarán sujetos a esta cuota los Formadores de Mercado de Contratos de Derivados, entendiéndose como tales a aquellas instituciones de crédito y casas de bolsa que promuevan la liquidez, manteniendo de forma permanente y por cuenta propia, cotizaciones de compra y venta en los Contratos de Derivados listados en la Bolsa de Contratos de Derivados.
 
-Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Operadores del Mercado de Futuros y Opciones, las instituciones de crédito, casas de bolsa y demás personas físicas y morales que pueden o no ser socios de la Bolsa de Futuros y Opciones en términos de lo previsto en las disposiciones que regulan a las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, y cuya función sea actuar como comisionista de uno o más Socios Liquidadores, en la celebración de contratos de futuros y contratos de opciones, y que pueden tener acceso al sistema electrónico de negociación de la bolsa para la celebración de dichos contratos.
-
-Asimismo, estarán sujetos a esta cuota los Formadores de Mercado de Futuros y Opciones, entendiéndose como tales a aquellas instituciones de crédito y casas de bolsa que promuevan la liquidez, manteniendo de forma permanente y por cuenta propia, cotizaciones de compra y venta en los contratos de futuros y/o opciones listados en la Bolsa de Futuros y Opciones.
-
-Tratándose de instituciones de crédito o casas de bolsa que actúen simultáneamente como Operadores y como Formadores del Mercado de Futuros y Opciones, únicamente estarán obligados a cubrir por una sola vez la cuota anual a que se refiere esta fracción.
+Cuando se trate de instituciones de crédito o casas de bolsa que actúen simultáneamente como Operadores y Formadores del Mercado de Contratos de Derivados, únicamente estarán obligados a cubrir por una sola vez la cuota anual a que se refiere esta fracción.
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -3003,7 +3011,9 @@ Socios Liquidadores pagará la
 
 cantidad de: $1,028,191.28 $1,028,191
 
-Para efectos de lo previsto en esta fracción se entenderá que este sector lo conforman los fideicomisos que sean socios de una bolsa y que participen en el patrimonio de una cámara de compensación en términos de lo dispuesto por las Reglas a las que habrán de sujetarse las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, teniendo como finalidad liquidar y, en su caso, celebrar por cuenta de clientes, contratos de futuros y contratos de opciones operados en bolsa.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Para efectos de lo previsto en esta fracción se entenderá que este sector lo conforman los fideicomisos que sean socios de una bolsa y que participen en el patrimonio de una cámara de compensación en términos de lo dispuesto por las Reglas a las que habrán de sujetarse las sociedades y fideicomisos que intervengan en el establecimiento y operación de un Mercado de Contratos de Derivados cotizados en bolsa, teniendo como finalidad liquidar y, en su caso, celebrar por cuenta de clientes, Contratos de Derivados operados en bolsa.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -3142,6 +3152,10 @@ Las personas morales que en su carácter de emisoras tengan inscritos en el Regi
 > <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 Las personas morales que pertenezcan al sector de sociedades de inversión no pagarán la cuota establecida en el presente artículo, cuando éstas mantengan inscritas sus acciones en el Registro Nacional de Valores sin que al efecto haya mediado oferta pública.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+No estarán obligadas al pago de los derechos a que refiere el presente artículo, las emisoras simplificadas que cuenten con valores inscritos en el Registro Nacional de Valores bajo la modalidad de inscripción simplificada en términos de los artículos 70 Bis y 90 Bis de la Ley del Mercado de Valores.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -4377,11 +4391,19 @@ II. Tratándose de folios electrónicos para la
 
 impresión de marbetes electrónicos la cuota de $0.4084 por cada uno.
 
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+El 50% de los ingresos derivados de los derechos establecidos en este artículo, se destinarán al Servicio de Administración Tributaria para cubrir el pago de producción de dichos marbetes.
+
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
 ###### ARTICULO 53-L.
 
 Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $2.27 por cada uno.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+El 50% de los ingresos derivados de los derechos establecidos en este artículo, se destinarán al Servicio de Administración Tributaria para cubrir el pago de producción de dichos precintos.
 
 ### CAPITULO IV. De la Secretaría de Programación y Presupuesto
 
@@ -5019,19 +5041,9 @@ a).- Por la primera prórroga $970.55 $971
 
 b).- Por la segunda y ulteriores prórrogas $1,941.37 $1,941
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-X.- Por la recepción, estudio de la solicitud
-
-y, en su caso, el otorgamiento de la opinión
-
-de la Comisión Nacional de Inversiones
-
-Extranjeras a que se refiere el artículo 77
-
-de la Ley Federal de Telecomunicaciones
-
-y Radiodifusión $28,591.82 $28,592
+X.- Por la recepción, estudio de la solicitud y, en su caso, el otorgamiento de la opinión de la Comisión Nacional de Inversiones Extranjeras a que se refiere el artículo 56 de la Ley en Materia de Telecomunicaciones y Radiodifusión $28,591.82
 
 XI.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
@@ -5153,23 +5165,13 @@ Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la ap
 
 #### SECCION SEXTA. Competencia Económica
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
-
 ###### ARTICULO 77.
 
-Por la recepción, estudio y trámite de cada notificación de concentración a que se refiere la Ley Federal de Competencia Económica, cualquiera que sea el acuerdo o resolución que emita la Comisión Federal de Competencia Económica que ponga fin al procedimiento, se pagarán derechos conforme a la cuota de $247,820.09 $247,820
-
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
-
-Por el estudio, trámite y, en su caso, la autorización del Pleno de la Comisión Federal de Competencia Económica de la concentración no notificada, también se pagará el derecho previsto en el primer párrafo.
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+(DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 2025)
 
 ###### ARTICULO 77-A.
 
-Los ingresos que se obtengan por la recaudación del derecho a que se refiere el artículo anterior, se destinarán a la Comisión Federal de Competencia Económica.
+(DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 2025)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -5393,25 +5395,13 @@ productos y subproductos animales, sujetos
 
 a regulación zoosanitaria $149.67 $150
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-III.- Por cada certificado fitosanitario internacional
+III.- Por cada certificado fitosanitario internacional para la exportación de vegetales, sus productos y subproductos $899.69
 
-para la exportación de vegetales, sus productos
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-y subproductos $749.74 $750
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-IV.- Por cada certificado zoosanitario para la
-
-exportación de animales vivos, sus productos
-
-y subproductos, así como productos químicos,
-
-farmacéuticos, biológicos y alimenticios para
-
-uso en animales y consumo por éstos $749.74 $750
+IV.- Por cada certificado zoosanitario para la exportación de animales vivos, sus productos y subproductos, así como productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales y consumo por éstos $899.69
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6857,53 +6847,29 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por cada concesión de Aeropuertos $50,000.44 $50,000
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-a).- Por su modificación $6,249.88 $6,250
+I.- Por cada concesión de aeropuertos $63,115.53
+
+a).- Por su modificación $8,048.82
 
 II.- Por cada permiso de:
 
-a).- Construcción de aeródromos de servicio
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-particular; aeródromos de servicio particular
+a).- Construcción de aeródromos de servicio particular; aeródromos de servicio particular con contrato con terceros; aeródromos de servicios generales; helipuertos de servicio privado; helipuertos de servicio privado con contrato con terceros o hidroaeródromos $15,218.91
 
-con contrato con terceros; aeródromos de
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-servicios generales; helipuertos de servicio
+b).- Explotación de aeródromos de servicio particular; aeródromos de servicio particular con contrato con terceros; aeródromos de servicios generales; helipuertos de servicio privado; helipuertos de servicio privado con contrato con terceros o hidroaeródromos $15,218.91
 
-privado; helipuertos de servicio privado con
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-contrato con terceros o hidroaeródromos $12,499.91 $12,500
+c).- Ampliación o remodelación de la infraestructura de aeropuertos; aeródromos de servicio particular; aeródromos de servicio particular con contrato con terceros; aeródromos de servicios generales; helipuertos de servicio privado; helipuertos de servicio privado con contrato con terceros o hidroaeródromos $15,218.91
 
-b).- Explotación de aeródromos de servicio
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-particular; aeródromos de servicio particular
-
-con contrato con terceros; aeródromos de
-
-servicios generales; helipuertos de servicio
-
-privado; helipuertos de servicio privado con
-
-contrato con terceros o hidroaeródromos $12,499.91 $12,500
-
-c).- Ampliación o remodelación de la infraestructura
-
-de aeropuertos; aeródromos de servicio
-
-particular; aeródromos de servicio particular con
-
-contrato con terceros; aeródromos de servicios
-
-generales; helipuertos de servicio privado;
-
-helipuertos de servicio privado con contrato
-
-con terceros o hidroaeródromos $12,499.91 $12,500
-
-d).- Por la modificación de los permisos a que
-
-se refiere esta fracción $6,249.88 $6,250
+d).- Por la modificación de los permisos a que se refiere esta fracción $8,337.15
 
 III.- (DEROGADA, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
@@ -6919,13 +6885,9 @@ d).- Para aerostatos, aviones ultraligeros
 
 u otros análogos $2,499.80 $2,500
 
-V.- Por la autorización de extensión de horario
+(REFORMADO PRIMER PÁRRAFO), D.O.F. 7 DE NOVIEMBRE DE 2025)
 
-en los aeródromos civiles, por cada media hora
-
-o fracción con tolerancia de cinco minutos
-
-posteriores a la media hora $749.74 $750
+V.- Por la autorización de extensión de horario en los aeródromos civiles, por cada media hora o fracción con tolerancia de cinco minutos posteriores a la media hora $912.15
 
 Cuando la extensión de horario de servicio de los aeródromos civiles sea solicitado por más de un concesionario, permisionario, autorizado u operador, cada solicitante pagará el 50% de la cuota establecida en esta fracción.
 
@@ -6955,43 +6917,35 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por verificación mayor o verificación a las
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-condiciones de concesiones y permisos $10,024.45 $10,024
+I.- Por verificación mayor o verificación a las condiciones de concesiones y permisos $11,587.24
 
-II.- Por verificación menor $1,999.78 $2,000
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+II.- Por verificación menor $2,549.12
 
 III.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
-IV.- Por verificación menor a los Centros de
+(REFORMADO PRIMER PÁRRAFO), D.O.F. 7 DE NOVIEMBRE DE 2025)
 
-Formación, Capacitación y Adiestramiento, a
-
-los servicios aéreos especializados bajo la
-
-modalidad de fumigador aéreo, a los operadores
-
-aéreos y sobre aspectos específicos a
-
-concesionarios y permisionarios en especial a
-
-las aeronaves, sus partes y refacciones $634.74 $635
+IV.- Por verificación menor a los Centros de Formación, Capacitación y Adiestramiento, a los servicios aéreos especializados bajo la modalidad de fumigador aéreo, a los operadores aéreos y sobre aspectos específicos a concesionarios y permisionarios en especial a las aeronaves, sus partes y refacciones $719.63
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 No se pagará el derecho a que se refiere esta fracción cuando se verifique a los Centros de Formación, Capacitación y Adiestramiento operados por la Secretaría de Comunicaciones y Transportes.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-###### ARTICULO 156.
+No se pagarán los derechos previstos en este artículo cuando las verificaciones se realicen a los servicios a la navegación aérea, instalaciones, equipos, procesos de sistemas de gestión operacional, operados por SENEAM.
 
-Por los servicios de certificación mediante vuelos de inspección de ayudas a la navegación aérea, por cada hora de vuelo, en aeronave verificadora para determinación de sitio y certificación periódica o especial se pagarán derechos conforme a la cuota de
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. 7 DE NOVIEMBRE DE 2025, PÁGINA 77.]</small>
 
-Cuota
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Sin ajuste Con ajuste
+###### Artículo 156.
 
-$140,501.76 $140,502
+Por los servicios de certificación mediante vuelos de inspección de ayudas a la navegación aérea, por cada hora de vuelo, en aeronave verificadora para determinación de sitio y certificación periódica o especial se pagarán derechos conforme a la cuota de $211,618.18
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7013,9 +6967,13 @@ Sin ajuste Con ajuste
 
 I. Por la expedición de cada certificado de capacidad, licencia o permiso para:
 
-a).- Personal de vuelo $1,999.78 $2,000
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-b).- Personal de tierra $1,499.75 $1,500
+a).- Personal de vuelo $2,306.38
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+b).- Personal de tierra $1,699.35
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -7025,11 +6983,17 @@ Por la recuperación de licencia se pagará la misma cuota establecida en los in
 
 II.- Por la revalidación de licencia al:
 
-a).- Personal de vuelo $999.68 $1,000
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-b).- Personal de tierra $749.74 $750
+a).- Personal de vuelo $1,144.67
 
-III.- Por reposición de la licencia $749.74 $750
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+b).- Personal de tierra $857.05
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+III.- Por reposición de la licencia $854.14
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -7049,57 +7013,47 @@ Sin ajuste Con ajuste
 
 I.- Por la expedición de los siguientes certificados:
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-a) De aeronavegabilidad $4,704.47 $4,704
+a) De aeronavegabilidad . $5,958.46
 
-b).- De matrícula $2,499.80 $2,500
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+b).- De matrícula $2,975.64
 
 c). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-d).- De aeronavegabilidad o matrículas de
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-aeronaves agrícolas $1,499.75 $1,500
+d).- De aeronavegabilidad o matrículas de aeronaves agrícolas $1,796.91
 
-e).- De aeronavegabilidad o matrícula de
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-aerostatos, aeronaves ultraligeras u otros
+e).- De aeronavegabilidad o matrícula de aerostatos, aeronaves ultraligeras u otros análogos, cuando operen fuera de las áreas geográficas autorizadas a sus clubes $1,693.08
 
-análogos, cuando operen fuera de las áreas
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-geográficas autorizadas a sus clubes $1,499.75 $1,500
+II.- Por la expedición de certificados de homologación por emisión de ruido $1,864.94
 
-II.- Por la expedición de certificados de
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-homologación por emisión de ruido $1,499.75 $1,500
+III.- Por la renovación o reposición del certificado de aeronavegabilidad o matrícula $2,968.66
 
-III.- Por la renovación o reposición del certificado
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-de aeronavegabilidad o matrícula $2,499.80 $2,500
+IV.- Por la expedición del certificado de aeródromo $18,269.75
 
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-IV. Por la expedición del certificado
+V.- Por la asignación de marcas de nacionalidad y matrícula con siglas especiales $37,526.54
 
-de aeródromo $15,176.43 $15,176
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-V.- Por la asignación de marcas de nacionalidad
+VI.- Por la expedición del certificado de especificaciones del sistema de gestión de seguridad operacional $69,430.31
 
-y matrícula con siglas especiales $32,718.52 $32,719
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-VI. Por la expedición del certificado de
-
-especificaciones del sistema de gestión
-
-de seguridad operacional $54,210.03 $54,210
-
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-VII. Por la expedición del certificado de producción
-
-de aeronaves y sus componentes $28,298.61 $28,299
+VII.- Por la expedición del certificado de producción de aeronaves y sus componentes $36,581.26
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -7107,15 +7061,17 @@ de aeronaves y sus componentes $28,298.61 $28,299
 
 ARTICULO 158 BIS.- Por las verificaciones, y en su caso, la certificación como explotador de servicios aéreos:
 
-Cuota
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Sin ajuste Con ajuste
+I. Por el otorgamiento $99,740.47
 
-I. Por el otorgamiento $86,696.10 $86,696
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-II. Por la renovación $6,592.75 $6,593
+II. Por la renovación $7,565.57
 
-III. Por la convalidación $2,406.73 $2,407
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+III. Por la convalidación $3,062.57
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -7125,59 +7081,47 @@ III. Por la convalidación $2,406.73 $2,407
 
 Por los servicios relacionados con el otorgamiento de las concesiones, permisos o autorizaciones señalados en la Ley de Aviación Civil, se pagarán derechos conforme a las siguientes cuotas:
 
-Cuota
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Sin ajuste Con ajuste
+I.- Concesión $60,275.59
 
-I.- Concesión $50,000.44 $50,000
+> <small>(REFORMADO PRIMER PÁRRAFO], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-II.- Permiso $25,000.10 $25,000
+II.- Permiso $28,555.90
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 No se pagará el derecho establecido en esta fracción cuando los permisos se otorguen para talleres aeronáuticos o centros de capacitación o adiestramiento que los concesionarios, permisionarios, autorizados u operadores de servicios establezcan con motivo de su propia operación o de la Ley Federal del Trabajo, así como aquellos que son parte de la Secretaría de Comunicaciones y Transportes.
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-III. Autorización $2,281.08 $2,281
+III. Autorización $ 2,679.52
 
-IV.- Permiso de aeronaves para uso agrícola $12,499.91 $12,500
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-V.- Autorización de clubes aéreos y de
+IV.- Permiso de aeronaves para uso agrícola $14,282.50
 
-Aeromodelismo $2,499.80 $2,500
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+V.- Autorización de clubes aéreos y de aeromodelismo $2,933.46
 
 Por la modificación de las concesiones, permisos o autorizaciones a que se refiere este artículo se pagará únicamente el 25% del monto de la cuota del derecho que corresponda, respectivamente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 160.
 
-Por la expedición de cada certificado de aprobación tipo, se pagarán derechos conforme a la cuota de
+Por la expedición de cada certificado de aprobación tipo, se pagarán derechos conforme a la cuota de $3,019.59
 
-Cuota
+Por el otorgamiento de autorización de vuelos de traslado, se pagarán derechos conforme a la cuota de $1,879.72 por cada vuelo.
 
-Sin ajuste Con ajuste
-
-$2,499.80 $2,500
-
-Por el otorgamiento de autorización de vuelos de traslado, se pagarán derechos conforme a la cuota de $1,499.75 $1,500
-
-cada vuelo.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 161.
 
-Por el examen para el permiso de formación o capacitación, así como por los exámenes para la obtención, convalidación y recuperación de licencias y certificados de capacidad, se pagarán derechos, por cada uno
+Por el examen para el permiso de formación o capacitación, así como por los exámenes para la obtención, convalidación y recuperación de licencias y certificados de capacidad, se pagarán derechos, por cada uno $3,250.34
 
-Cuota
-
-Sin ajuste Con ajuste
-
-$2,778.22 $2,778
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 No se pagarán los derechos a que se refiere este artículo cuando los servicios correspondientes sean solicitados por el personal de la Secretaría de Comunicaciones y Transportes.
 
@@ -7801,9 +7745,9 @@ Sin ajuste Con ajuste
 
 $25,211.50 $25,211
 
-> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-### CAPITULO IX. Del Instituto Federal de Telecomunicaciones
+### CAPITULO IX. De la Comisión Reguladora de Telecomunicaciones
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -7825,13 +7769,9 @@ II. Por la prórroga $19,393.17 $19,393
 
 B. Para uso privado:
 
-I. Con propósitos de comunicación privada:
+II. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2025)
 
-a). Por la expedición del título de concesión $45,819.12 $45,819
-
-b). Por la prórroga $19,393.17 $19,393
-
-II. Por la expedición del título de concesión con propósitos de experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipos $20,930.01 $20,930
+III. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2025)
 
 No pagarán derechos las instituciones de enseñanza educativa sin fines de lucro cuando utilicen las bandas de frecuencia para experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipo.
 
@@ -7847,11 +7787,11 @@ I. Por la expedición del título de concesión $45,819.12 $45,819
 
 II. Por la prórroga $19,393.17 $19,393
 
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Cuando la explotación de los servicios objeto de la concesión de bandas de frecuencias o recursos orbitales a los que se refieren los apartados A, B, fracciones I y II y C, requiera el otorgamiento de un título de concesión única, en términos del artículo 75 de la Ley Federal de Telecomunicaciones y Radiodifusión, el pago de derechos correspondiente al de bandas de frecuencias o recursos orbitales, comprenderá la expedición de la concesión única respectiva.
+Cuando la explotación de los servicios objeto de la concesión de bandas de frecuencias o recursos orbitales a los que se refieren los apartados A, B y C, requiera el otorgamiento de un título de concesión única, en términos del segundo párrafo del artículo 54 de la Ley en Materia de Telecomunicaciones y Radiodifusión, el pago de derechos correspondiente al de bandas de frecuencias o recursos orbitales, comprenderá la expedición de la concesión única respectiva.
 
-Los estudios de solicitudes y, en su caso, la expedición de título o prórroga de concesiones o de autorizaciones de bandas de frecuencias que vayan a ser utilizadas por embajadas o durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, estarán exentas del pago del derecho previsto en este artículo.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -7867,29 +7807,25 @@ Sin ajuste Con ajuste
 
 $18,467.88 $18,468
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 173-B.
 
-Por el estudio de la solicitud y, en su caso, la autorización para la compartición de bandas de frecuencias entre dependencias y entidades del Ejecutivo Federal para uso público, se pagarán derechos conforme a la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$10,118.27 $10,118
+Por el estudio de la solicitud y, en su caso, la autorización para la compartición de bandas de frecuencias entre dependencias y entidades del Ejecutivo Federal y con las dependencias o entidades de los poderes ejecutivos de las entidades federativas y la Ciudad de México para uso público, se pagarán derechos conforme a la cuota de $10,118.27
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 173-C.
 
-Por el estudio y, en su caso, la expedición de la constancia de autorización para el uso y aprovechamiento de bandas de frecuencias del espectro radioeléctrico para uso secundario, así como por la autorización de las modificaciones técnicas, se pagarán derechos conforme a las siguientes cuotas:
+Por el estudio y, en su caso, la expedición de la autorización para el uso y aprovechamiento de bandas de frecuencias del espectro radioeléctrico para uso secundario, así como por la autorización de las modificaciones técnicas, se pagarán derechos conforme a las siguientes cuotas:
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 I. Por el otorgamiento $18,405.91 $18,406
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 II. Por aquellas modificaciones técnicas
 
@@ -7987,9 +7923,9 @@ V. Por la prestación de servicios adicionales para concesiones que no hagan uso
 
 VI. Por la ampliación de plazos para el cumplimiento de obligaciones establecidas en cada título de concesión o en cada autorización $1,611.51 $1,612
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-VII. Por cualquier supuesto de suscripción o enajenación de acciones o partes sociales que requiera autorización en términos de la Ley Federal de Telecomunicaciones y Radiodifusión $16,527.78 $16,528
+VII. Por cualquier supuesto de suscripción o enajenación de acciones o partes sociales que requiera autorización en términos de la Ley en Materia de Telecomunicaciones y Radiodifusión $16,527.78
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -8257,11 +8193,17 @@ III. Por la acreditación de perito en una
 
 segunda especialidad $3,352.72 $3,353
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 174-M.
 
-El pago de los derechos a que se refiere este capítulo se realizará sin perjuicio del pago de las contraprestaciones que resulten aplicables de conformidad con la Ley Federal de Telecomunicaciones y Radiodifusión y de los derechos por el uso, goce o explotación del espectro radioeléctrico que correspondan.
+El pago de los derechos a que se refiere este capítulo se realizará sin perjuicio del pago de las contraprestaciones que resulten aplicables de conformidad con la Ley en Materia de Telecomunicaciones y Radiodifusión y de los derechos por el uso, goce o explotación del espectro radioeléctrico que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### ARTICULO 174-M
+
+1.- Los estudios de las solicitudes y, en su caso, las autorizaciones o prórrogas de bandas de frecuencias que vayan a ser utilizadas por embajadas o durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, estarán exentas del pago de los derechos correspondientes previstos en el presente Capítulo.
 
 ###### ARTICULO 174-N.
 
@@ -8523,21 +8465,7 @@ la gestión individual de derechos
 
 patrimoniales $2,333.03 $2,333
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-XII.- Por la recepción y estudio del escrito de
-
-queja dentro del procedimiento de avenencia
-
-y, en su caso, por la realización de la primera
-
-audiencia en el procedimiento de avenencia $646.44 $646
-
-Tratándose de las subsecuentes audiencias, por la celebración de cada una se pagará el 50% de la cuota establecida en esta fracción.
-
-> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
-
-No se pagarán los derechos a que se refiere esta fracción cuando se trate de pueblos y comunidades indígenas y afromexicanas a que hace referencia la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas, que hagan valer derechos de propiedad colectiva sobre su patrimonio cultural, a través del procedimiento de avenencia.
+XII. (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2025)
 
 XIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
@@ -8645,10 +8573,6 @@ inspección a establecimientos comerciales
 
 a petición de parte $1,099.34 $1,099
 
-No se pagará el derecho por registro de obras a que se refiere este artículo, cuando se trate de libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
-
-Para los efectos de la aplicación de lo señalado en la fracción V de este artículo, cuando se presenten para examen, estudio y, en su caso, inscripción, contratos impresos en los cuales no exista variación en sus cláusulas y se trate de un mismo contratante, se pagará íntegro el derecho correspondiente al primer contrato y se reducirá en un 50% la cuota del derecho correspondiente sobre los sucesivos.
-
 XXVII. Por la expedición de cada certificado o
 
 constancia relacionados con el Número
@@ -8656,6 +8580,14 @@ constancia relacionados con el Número
 Internacional Normalizado para Publicaciones
 
 Periódicas (ISSN) $218.90 $219
+
+No se pagará el derecho por registro de obras a que se refiere este artículo, cuando se trate de libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
+
+Para los efectos de la aplicación de lo señalado en la fracción V de este artículo, cuando se presenten para examen, estudio y, en su caso, inscripción, contratos impresos en los cuales no exista variación en sus cláusulas y se trate de un mismo contratante, se pagará íntegro el derecho correspondiente al primer contrato y se reducirá en un 50% la cuota del derecho correspondiente sobre los sucesivos.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Los ingresos que se obtengan por la recaudación de los derechos previstos en este artículo se destinarán al Instituto Nacional del Derecho de Autor para la operación, mantenimiento, conservación, administración e inversión necesarios para la prestación de servicios en materia de derechos de autor.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -9627,13 +9559,9 @@ se refieren las fracciones I, II y V de este artículo $5,078.22 $5,078
 
 Los derechos a que se refiere este artículo, se pagarán independientemente de los que corresponden por el uso o goce de inmuebles, conforme al Título II de esta Ley.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTICULO 192-B.
 
-Por el estudio y trámite y, en su caso, la expedición del certificado de calidad del agua, a que se refiere la fracción V del artículo 224, se pagarán derechos conforme a la cuota de $7,294.56 $7,295
+(DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 2025)
 
 [[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]
 
@@ -10909,7 +10837,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-a). Televisión e Internet $33,959.31 $33,959
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+a). Televisión e Internet $44,252.23
 
 b). Cine, video en lugares públicos cerrados
 
@@ -10935,21 +10865,27 @@ No pagarán los derechos a que se refiere esta fracción, la Federación, el Dis
 
 II.- (DEROGADA. D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-III. Por cada solicitud y, en su caso, expedición de licencia sanitaria de establecimientos de insumos para la salud, o por cada solicitud de visita de verificación sanitaria en el extranjero para certificación de buenas prácticas de fabricación de fármacos, medicamentos y otros insumos para la salud, se pagará el derecho conforme a las siguientes cuotas:
+III. Por cada solicitud y, en su caso, expedición de licencia sanitaria de establecimientos de insumos para la salud o por cada solicitud de visita de verificación sanitaria para certificación de buenas prácticas de fabricación de fármacos, medicamentos y otros insumos para la salud, se pagará el derecho conforme a las siguientes cuotas:
 
-a). Por fábrica o laboratorio $126,070.48 $126,070
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+a).- Por fábrica o laboratorio $164,122.92
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Tratándose de centros de mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas, se pagará el 50% del derecho que corresponda a este inciso.
 
-b). Por almacén de depósito y distribución $40,841.70 $40,842
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+b).- Por almacén de depósito y distribución, o de acondicionamiento $53,128.44
 
 c).- Por farmacia o botica $1,990.02 $1,990
 
-d).- Droguerías $4,975.01 $4,975
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+d).- Droguerías $6,499.53
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -11041,7 +10977,9 @@ d). Categoría toxicológica 4 $44,831.06 $44,831
 
 e). Categoría toxicológica 5... $28,937.22 $28,937
 
-f). Nutrientes vegetales $9,191.26 $9,191
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+f). Nutrientes vegetales $11,952.50
 
 V.- Por la solicitud y, en su caso, el registro
 
@@ -11245,19 +11183,21 @@ Quedan exceptuados del pago del derecho establecido en esta fracción, las insti
 
 III.- Por cada solicitud de visita de verificación para materias primas o medicamentos que sean o contengan estupefacientes, psicotrópicos o precursores químicos por:
 
-a).- Constatación de destrucción $3,522.78 $3,523
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-b).- Enfajillamiento, sello y lacre con
+a). Constatación de destrucción . $4,396.55
 
-fines de exportación $3,522.78 $3,523
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+b). Enfajillamiento, sello y lacre con fines de exportación $4,396.55
 
-c).- De balance de medicamentos $6,908.67 $6,909
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+c). De balance de medicamentos $8,618.31
 
-d).- Toma de muestra y liberación $2,728.58 $2,729
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+d). Toma de muestra y liberación $3,393.72
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -11455,49 +11395,35 @@ importación $424.37 $424
 
 IV.- Por cada solicitud del permiso sanitario previo de exportación de insumos para la salud:
 
-a).- De materia prima y producto
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-terminado de medicamentos que
-
-sean o contengan estupefacientes
-
-o sustancias psicotrópicas $3,002.84 $3,003
+a). De materia prima y producto terminado de medicamentos que sean o contengan estupefacientes o sustancias psicotrópicas $3,918.27
 
 b).- (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-c).- Por la modificación, corrección
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-o prórroga en el permiso sanitario
-
-previo de exportación $424.37 $424
+c) Por la modificación, corrección o prórroga en el permiso sanitario previo de exportación $552.41
 
 > <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 V.- De materias primas y productos terminados de medicamentos que sean o contengan estupefacientes o psicotrópicos:
 
-a). Por cada solicitud del permiso
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-sanitario de importación de
+a). Por cada solicitud del permiso sanitario de importación de materia prima $17,880.09
 
-materia prima $13,699.02 $13,699
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-b). Por cada solicitud del permiso
+b). Por cada solicitud del permiso sanitario de importación de producto terminado $17,880.09
 
-sanitario de importación de
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-producto terminado $13,699.02 $13,699
+c). Por cada solicitud del permiso sanitario de importación para uso personal $576.48
 
-c). Por cada solicitud del
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-permiso sanitario de
-
-importación para uso personal $385.08 $385
-
-d). Por la modificación o
-
-prórroga en el permiso
-
-sanitario de importación $385.08 $385
+d). Por la modificación o prórroga en el permiso sanitario de importación $576.48
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -11545,15 +11471,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por los servicios de trámite de solicitudes
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-de los permisos sanitarios de adquisición en
-
-plaza, muestreo y liberación de materia prima,
-
-fármacos o medicamentos que contengan
-
-estupefacientes o psicotrópicos $2,674.35 $2,674
+I. Por los servicios de trámite de solicitudes de los permisos sanitarios de adquisición en plaza, muestreo y liberación de materia prima, fármacos o medicamentos que contengan estupefacientes o psicotrópicos $3,526.55
 
 II.- Por la solicitud de liberación para la
 
@@ -12873,9 +12793,9 @@ Tratándose de:
 
 I. Servicio de transporte marítimo de pasajeros con embarcaciones de hasta de 3.5 unidades de arqueo bruto.
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-II. Servicio de turismo náutico, con embarcaciones de recreo o deportivas, tales como motos acuáticas, kayaks, botes de remos y otras de hasta 3 metros de eslora.
+II. Servicio de turismo náutico, con embarcaciones de recreo o deportivas tales como motos acuáticas, kayaks, botes de remos y otras de hasta 5 metros de eslora.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -13075,33 +12995,59 @@ Si se efectúa un segundo o subsecuente reconocimiento, se pagará lo que result
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 195-Z
 
-5. Por la autorización y determinación de señalamiento marítimo con que deben cumplir las instalaciones privadas o concesionadas, se pagará el derecho de señalamiento marítimo, conforme a las siguientes cuotas:
+5.- Por la solicitud y análisis para la determinación de señalamiento marítimo para instalaciones privadas o concesionadas, se pagará el derecho conforme a la cuota de: $11,684.44
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+En el caso de que se determine que es necesario contar con señalamientos marítimos en las instalaciones privadas o concesionadas, se pagará el derecho de autorización de señalamiento marítimo, conforme a las siguientes cuotas:
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 I. Señales en escolleras $8,429.66 $8,430
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 II. Señales en faros $42,503.88 $42,504
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 III. Señales en muelles $9,937.22 $9,937
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 IV. Señales en atracaderos y peines de
 
 marinas turísticas $32,959.58 $32,960
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 V. Señales de enfilaciones $19,145.47 $19,145
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 VI. Señales flotantes $20,266.76 $20,267
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 VII. Señales diurnas $11,396.11 $11,396
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 VIII. Señales laterales fijas $9,567.35 $9,567
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 IX. Señales acústicas $20,762.88 $20,763
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 X. Señales radioeléctricas $33,731.37 $33,731
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 XI. Otras señales $9,509.14 $9,509
 
@@ -14927,43 +14873,7 @@ III.- Por las aguas que broten o aparezcan en el laboreo de las minas o que prov
 
 IV. Por los usos agrícola y pecuario definidos como tales en la Ley de Aguas Nacionales y siempre que sus procesos se efectúen de forma indivisa, incluyendo a los distritos y unidades de riego, así como a las juntas de agua, con excepción de las usadas en la agroindustria, hasta por la dotación autorizada a los distritos de riego por la Comisión Nacional del Agua o, en su caso, hasta por el volumen concesionado. Tampoco se pagará el derecho establecido en este Capítulo, por el uso o aprovechamiento que en sus instalaciones realicen las instituciones educativas con reconocimiento de validez oficial de estudios en los términos de las leyes de la materia, diferentes a la conservación y mantenimiento de zonas de ornato o deportivas.
 
-V.- Por las aguas que regresen a su fuente original o que sean vertidas en cualquier otro sitio previamente autorizado por la Comisión Nacional del Agua en los términos de la Ley de Aguas Nacionales, siempre que tengan el certificado de calidad del agua expedido por esta última en los términos del Reglamento de la citada Ley, de que cumple los lineamientos de calidad del agua señalados en la tabla contenida en esta fracción, de acuerdo con el grado de calidad correspondiente al destino inmediato posterior y se acompañe una copia de dicho certificado a la declaración del ejercicio. Estos contribuyentes deberán tener instalado medidor tanto a la entrada como a la salida de las aguas.
-
-El certificado a que se refiere el párrafo anterior será válido únicamente por el periodo del ejercicio fiscal por el que se expide.
-
-El certificado de calidad del agua deberá solicitarse dentro de los tres primeros meses del ejercicio fiscal de que se trate. En caso de ser solicitado posteriormente al plazo antes señalado, el certificado será válido a partir del momento en que se solicitó.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Los contribuyentes para comprobar el cumplimiento de la calidad establecida en la tabla de lineamientos de calidad del agua en su caso una vez obtenido el certificado de calidad del agua se deberá entregar a la Comisión Nacional del Agua un reporte trimestral de la calidad del agua sobre una muestra simple tomada en día normal de operación representativa del proceso que genera la descarga de aguas residuales. El reporte deberá entregarse en un máximo de veinte días hábiles posteriores al trimestre que se informa y en caso de omisión de la presentación del reporte o si se da el incumplimiento de los parámetros la exención dejará de surtir sus efectos en el trimestre que se debió haber presentado el reporte o se incumplió en los parámetros.
-
-(VEASE ARCHIVO ANEXO)
-
-Para la aplicación de los valores contenidos en la tabla de lineamientos de calidad del agua, se deberá considerar lo siguiente:
-
-USO 1: Fuente de abastecimiento para uso público urbano.
-
-USO 2: Riego Agrícola.
-
-USO 3: Protección a la vida acuática: Agua dulce, incluye humedales.
-
-USO 4: Protección a la vida acuática: Aguas costeras y estuarios.
-
-(I): La alcalinidad natural no debe reducirse en más del 25%, ni cuando ésta sea igual o menor a 20 mg/l.
-
-(II): Cultivos sensibles al boro, un máximo de 0.75 mg/l; otros hasta 3 mg/l.
-
-(III): La concentración promedio de 4 días de esta sustancia no debe exceder este nivel, más de una vez cada año.
-
-(IV): Cultivos sensibles 500-1000 mg/l; cultivos con manejo especial 1000-2000 mg/l; cultivos tolerantes en suelos permeables 2000-5000 mg/l; para frutas sensibles relación de absorción de sodio RAS<=4, y para forrajes de 8-18, cuando la descarga sea directamente a suelo con uso en riesgo agrícola.
-
-(V): La concentración total de gases disueltos no debe exceder a 1.1 veces el valor de saturación en las condiciones hidrostáticas y atmosféricas prevalecientes.
-
-C.N. Condiciones Naturales del sitio donde sea vertida la descarga de aguas residuales.
-
-NMP= Número más probable. BHC=HCH=1,2,3,4,5,6 Hexaclorociclohexano. Niveles máximos en mg/l, excepto cuando se indique otra unidad.
-
-Lo dispuesto en esta fracción no será aplicable al agua que se use o aproveche para la generación de energía hidroeléctrica.
+V.- (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 2025)
 
 > <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -15251,6 +15161,14 @@ La Comisión Nacional del Agua en conjunto con los organismos y entidades estar�
 
 Los organismos y entidades quedarán obligadas a acreditar trimestralmente ante la Comisión Nacional del Agua, los avances en el cumplimiento de los programas a que se refiere este artículo.
 
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+La Comisión Nacional del Agua vigilará que los recursos entregados se ejerzan para los fines establecidos en el presente artículo y en caso de que los contribuyentes no acrediten tal situación deberán reintegrar a la Tesorería de la Federación, a través de la Comisión Nacional del Agua, los recursos asignados dentro de los treinta días hábiles siguientes a la fecha de notificación de la resolución de incumplimiento, la cual deberá señalar el importe respectivo, con la actualización y recargos causados a partir de la fecha en que recibieron los recursos, en términos de los artículos 17-A, 21 y demás aplicables del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+En el caso de que los recursos asignados no sean devueltos con la actualización y recargos causados, dentro del plazo establecido para tal efecto, el importe determinado en la resolución dictada, tendrá el carácter de crédito fiscal y será exigible a través del procedimiento administrativo de ejecución, de conformidad con las disposiciones fiscales aplicables.
+
 La Comisión Nacional del Agua informará, trimestralmente, al H. Congreso de la Unión acerca de la devolución de los recursos destinados a las acciones de mejoramiento de eficiencia y de infraestructura de agua potable, alcantarillado y tratamiento de aguas residuales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
@@ -15457,9 +15375,9 @@ Las zonas a que se refiere el artículo 232-C de esta Ley, son las siguientes:
 
 ZONA I. Estado de Campeche: Calkiní, Escárcega, Hecelchakán, Palizada y Tenabo; Estado de Chiapas: Acapetahua, Arriaga, Huixtla, Mapastepec, Mazatán, Pijijiapan, Suchiate y Villa Comaltitlán; Estado de Guerrero: Cuajinicuilapa, Coyuca de Benítez, Florencio Villarreal y San Marcos; Estado de Oaxaca: San Dionisio del Mar, San Francisco del Mar, San Francisco lxhuatán, San Mateo del Mar, San Miguel del Puerto, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Tapanatepec, San Pedro Tututepec, Santa María Huazolotitlán, Santa María Tonameca, Santa María Xadani, Santiago Astata, Santiago Jamiltepec, Santiago Pinotepa Nacional, Santiago Tapextla, Santo Domingo Armenta, Santos Reyes Nopala, Santo Domingo Tehuantepec y Santo Domingo Zanatepec; Estado de Sinaloa: Angostura, Elota, Escuinapa de Hidalgo, Guasave, Rosario y San Ignacio; Estado de Sonora: Bacum, Benito Juárez, Cajeme, Empalme, Etchojoa, Pitiquito, San Ignacio Río Muerto, y San Luis Río Colorado; Estado de Tabasco: Cárdenas, Centla y Paraíso.
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-ZONA II. Estado de Guerrero: Marquelia, Copala, Benito Juárez y Tecpan de Galeana; Estado de Jalisco: Cabo Corrientes y Tomatlán; Estado de Michoacán: Aquila; Estado de Nayarit: Santiago Ixcuintla; Estado de Oaxaca: Juchitán de Zaragoza y Santa María Colotepec; Estado de Quintana Roo: Felipe Carrillo Puerto; Estado de Sinaloa: Culiacán; Estado de Tamaulipas: Aldama, Matamoros, San Fernando y Soto la Marina; Estado de Veracruz: Tamalín y Tantima.
+ZONA II. Estado de Guerrero: Marquelia, Copala, Benito Juárez y Tecpan de Galeana; Estado de Jalisco: Cabo Corrientes y Tomatlán; Estado de Michoacán: Aquila; Estado de Nayarit: Santiago Ixcuintla; Estado de Oaxaca: Juchitán de Zaragoza y Santa María Colotepec; Estado de Quintana Roo: Felipe Carrillo Puerto; Estado de Sinaloa: Culiacán, Eldorado y Juan José Ríos; Estado de Tamaulipas: Aldama, Matamoros, San Fernando y Soto la Marina; Estado de Veracruz: Tamalín y Tantima.
 
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -15493,9 +15411,9 @@ ZONA IX. Estado de Baja California Sur: La Paz; Estado de Guerrero: José Azueta
 
 ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco de Juárez; Estado de Jalisco: Puerto Vallarta.
 
-> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Puerto Morelos, Solidaridad y Tulum.
+ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Puerto Morelos, Playa del Carmen y Tulum.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -15951,9 +15869,13 @@ Las personas físicas y las morales que usen o aprovechen el espacio aéreo y, e
 
 Este derecho se pagará anualmente dentro de los meses de enero a marzo del año de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-En el caso de autorizaciones para uso temporal de bandas de frecuencias del espectro radioeléctrico a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión, el pago de los derechos deberá efectuarse dentro de los tres meses siguientes al otorgamiento de la autorización correspondiente.
+En el caso de autorizaciones para uso temporal de bandas de frecuencias del espectro radioeléctrico a que se refiere la Ley en Materia de Telecomunicaciones y Radiodifusión, el pago de los derechos deberá efectuarse dentro de los tres meses siguientes al otorgamiento de la autorización correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Los concesionarios de bandas de frecuencias del espectro radioeléctrico a que se refiere la Ley en Materia de Telecomunicaciones y Radiodifusión, podrán acceder a descuentos sobre el pago de los derechos por el uso, goce, aprovechamiento o explotación del espectro radioeléctrico a que se refiere este Capítulo, a cambio de obligaciones de cobertura en zonas geográficas, carreteras o caminos. Dichos descuentos se establecerán en forma conjunta por la Agencia de Transformación Digital y Telecomunicaciones y la Secretaría de Hacienda y Crédito Público, conforme a las disposiciones de carácter general que emita y publique en el Diario Oficial de la Federación la Comisión Reguladora de Telecomunicaciones. Lo dispuesto en este párrafo también será aplicable a los pequeños operadores en términos de la Ley en Materia de Telecomunicaciones y Radiodifusión.
 
 No pagarán el derecho que se establece en este Capítulo las empresas de radio y televisión que estén obligadas a retener el impuesto por servicios expresamente declarados de interés público por Ley, en los que intervengan empresas concesionarias de bienes del dominio directo de la nación.
 
@@ -15963,13 +15885,13 @@ Aquellos concesionarios o permisionarios u otros usuarios de servicios de teleco
 
 Las instituciones de asistencia médica o de beneficencia o de prevención y atención de accidentes y desastres no contribuyentes del impuesto sobre la renta y las personas usuarias de las frecuencias que se autoricen durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho por el uso del espectro radioeléctrico previsto en este capítulo. Asimismo, quedan exentas del pago de derechos previsto en este capítulo, las concesiones de uso público otorgadas a las Entidades Federativas y Municipios, dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública, seguridad nacional, salud, seguridad social, protección del ambiente y educación.
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Los concesionarios de espectro radioeléctrico para servicios de telecomunicaciones para uso social indígena que no tengan relación ni vínculos de tipo comercial, organizativo, económico o jurídico con concesionarios del espectro radioeléctrico para uso comercial que generen influencia directa o indirecta en la administración u operación de la concesión, estarán exentos del pago de los derechos por el uso del espectro radioeléctrico previstos en el presente Capítulo.
+Los concesionarios de espectro radioeléctrico para servicios de telecomunicaciones para uso social comunitario, indígena y afromexicano que no tengan relación ni vínculos de tipo comercial, organizativo, económico o jurídico con concesionarios del espectro radioeléctrico para uso comercial que generen influencia directa o indirecta en la administración u operación de la concesión, estarán exentos del pago de los derechos por el uso del espectro radioeléctrico previstos en el presente Capítulo.
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Para efectos de acceder al beneficio previsto en el párrafo anterior, los titulares de las concesiones, durante el ejercicio fiscal anterior al que corresponda el pago, no deberán incurrir en la causal de revocación establecida en la fracción XIV del artículo 303 de la Ley Federal de Telecomunicaciones y Radiodifusión, de lo contrario se deberá cubrir el monto del derecho correspondiente. Para el caso de nuevos concesionarios del espectro radioeléctrico para servicios de telecomunicaciones para uso social indígena, no será aplicable el requisito previsto en el presente párrafo durante el primer ejercicio fiscal de vigencia de la concesión correspondiente.
+Para efectos de acceder al beneficio previsto en el párrafo anterior, los titulares de las concesiones, durante el ejercicio fiscal anterior al que corresponda el pago, no deberán incurrir en la causal de revocación establecida en la fracción XIV del artículo 287 de la Ley en Materia de Telecomunicaciones y Radiodifusión, de lo contrario se deberá cubrir el monto del derecho correspondiente. Para el caso de nuevos concesionarios del espectro radioeléctrico para servicios de telecomunicaciones para uso social comunitario, indígena o afromexicano, no será aplicable el requisito previsto en el presente párrafo durante el primer ejercicio fiscal de vigencia de la concesión correspondiente.
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -15981,11 +15903,11 @@ Lo dispuesto en este Capítulo, será aplicable para cualquier concesión, permi
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 240.
 
-El derecho por el uso del espectro radioeléctrico, por los sistemas de radiocomunicación privada, se pagará anualmente por cada frecuencia asignada, conforme a las siguientes cuotas:
+El derecho por el uso del espectro radioeléctrico, por los sistemas de radiocomunicación privada y redes de radiocomunicaciones inteligentes, se pagará anualmente por cada frecuencia asignada, conforme a las siguientes cuotas:
 
 Cuota
 
@@ -16047,9 +15969,9 @@ frecuencia $148.10 $148
 
 VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, propósitos de experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipo, con autorizaciones temporales con vigencia máxima de 2 años, se pagarán los derechos por el uso del espectro radioeléctrico en los términos siguientes:
+VIII. Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, propósitos de experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipo, se pagarán los derechos por el uso del espectro radioeléctrico en los términos siguientes:
 
 a).- En sistemas que operen en
 
@@ -16107,19 +16029,21 @@ El pago del derecho a que se refiere este artículo, deberá ser enterado confor
 
 En el mes de julio se deberá de pagar a más tardar el día 17, el monto correspondiente a los megahertz utilizados, durante el periodo de enero a junio del ejercicio fiscal de que se trate; y a más tardar al día 17 del mes de enero siguiente, el monto correspondiente a los megahertz utilizados en el periodo de julio a diciembre del ejercicio inmediato anterior.
 
-Para el cálculo del pago del derecho a que se refiere este artículo, se restará de la cantidad total de megahertz utilizados, el número de megahertz de segmento espacial que de forma gratuita el concesionario tenga la obligación de aportar a la Secretaría de Comunicaciones y Transportes, de conformidad con su Título de Concesión.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Para el cálculo del pago del derecho a que se refiere este artículo, se restará de la cantidad total de megahertz utilizados, el número de megahertz de segmento espacial que de forma gratuita el concesionario tenga la obligación de aportar a la Agencia de Transformación Digital y Telecomunicaciones, de conformidad con su Título de Concesión.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 El importe anual del derecho a pagar, no podrá ser mayor al resultado que se obtenga de restar del importe obtenido conforme a las fracciones I y II anteriores, el monto anual neto que se haya pagado ante las autoridades del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital utilizadas para prestar servicios en Territorio Nacional.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Para que los concesionarios estén en posibilidad de efectuar la operación señalada en el párrafo anterior, deberán demostrar fehacientemente ante el Instituto Federal de Telecomunicaciones, los pagos realizados ante la autoridad correspondiente del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital.
+Para que los concesionarios estén en posibilidad de efectuar la operación señalada en el párrafo anterior, deberán demostrar fehacientemente ante la Comisión Reguladora de Telecomunicaciones, los pagos realizados ante la autoridad correspondiente del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-En el caso de que el pago realizado en el país de origen del sistema satelital extranjero abarque más de un periodo anual, el Instituto Federal de Telecomunicaciones, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital de los satélites extranjeros concesionados para prestar servicios en Territorio Nacional.
+En el caso de que el pago realizado en el país de origen del sistema satelital extranjero abarque más de un periodo anual, la Comisión Reguladora de Telecomunicaciones, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital de los satélites extranjeros concesionados para prestar servicios en Territorio Nacional.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -16155,19 +16079,21 @@ El pago del derecho a que se refiere este artículo, deberá ser enterado confor
 
 En el mes de julio se deberá de pagar a más tardar el día 17, el monto correspondiente a los megahertz utilizados, durante el periodo de enero a junio del ejercicio fiscal de que se trate; y a más tardar al día 17 del mes de enero siguiente, el monto correspondiente a los megahertz utilizados en el periodo de julio a diciembre del ejercicio inmediato anterior.
 
-Para el cálculo del pago del derecho a que se refiere este artículo, se restará de la cantidad total de megahertz utilizados, el número de megahertz de segmento espacial que de forma gratuita el concesionario tenga la obligación de aportar a la Secretaría de Comunicaciones y Transportes, de conformidad con su Título de Concesión.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Para el cálculo del pago del derecho a que se refiere este artículo, se restará de la cantidad total de megahertz utilizados, el número de megahertz de segmento espacial que de forma gratuita el concesionario tenga la obligación de aportar a la Agencia de Transformación Digital y Telecomunicaciones, de conformidad con su Título de Concesión.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 El importe anual del derecho a pagar, no podrá ser mayor al resultado que se obtenga de restar del importe obtenido conforme a las fracciones I y II anteriores, el monto anual neto que se haya pagado en licitación pública por concepto de la concesión de cada posición orbital utilizadas para proporcionar servicios en territorio nacional.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Para que los concesionarios estén en posibilidad de efectuar la operación señalada en el párrafo anterior, deberán demostrar fehacientemente ante el Instituto Federal de Telecomunicaciones, los pagos realizados por concepto de la concesión de cada posición orbital.
+Para que los concesionarios estén en posibilidad de efectuar la operación señalada en el párrafo anterior, deberán demostrar fehacientemente ante la Comisión Reguladora de Telecomunicaciones, los pagos realizados por concepto de la concesión de cada posición orbital.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-En caso de que el pago realizado abarque más de un período anual, el Instituto Federal de Telecomunicaciones, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital.
+En caso de que el pago realizado abarque más de un periodo anual, la Comisión Reguladora de Telecomunicaciones, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -16283,7 +16209,7 @@ Para las concesiones y permisos cuya área de cobertura sea menor que el área d
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -16307,7 +16233,7 @@ Para las concesiones cuya área de cobertura sea menor que el área de la regió
 
 Para los casos en que el área de cobertura de una concesión cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago de los derechos previstos en el presente artículo se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES REPUBLICADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -16439,7 +16365,7 @@ Para las concesiones y permisos cuya área de cobertura sea menor que el área d
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -16577,7 +16503,7 @@ Para las concesiones y permisos cuya área de cobertura sea menor que el área d
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -16623,7 +16549,7 @@ Para las concesiones y permisos cuya área de cobertura sea menor que el área d
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la Tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES REPUBLICADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -16773,7 +16699,7 @@ Para las concesiones y permisos cuya área de cobertura sea menor que el área d
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -16793,7 +16719,7 @@ Para las concesiones y permisos cuya área de cobertura sea menor que el área d
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B del artículo 244-E de esta Ley, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago de los derechos previstos en el presente artículo se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -16819,7 +16745,7 @@ Para las concesiones y permisos cuya área de cobertura sea menor que el área d
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones o el que lo sustituya.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES REPUBLICADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -16957,7 +16883,7 @@ Para las concesiones cuya área de cobertura sea menor que el área de la regió
 
 Para los casos en que el área de cobertura de una concesión cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES REPUBLICADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -17089,7 +17015,7 @@ Para las concesiones cuya área de cobertura sea menor que el área de la regió
 
 Para los casos en que el área de cobertura de una concesión cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES REPUBLICADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -17221,7 +17147,7 @@ Para las concesiones cuya área de cobertura sea menor que el área de la regió
 
 Para los casos en que el área de cobertura de una concesión cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. CANTIDADES REPUBLICADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -17355,7 +17281,13 @@ Para las concesiones cuya área de cobertura sea menor que el área de la regió
 
 Para los casos en que el área de cobertura de una concesión cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
-El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### ARTICULO 244-K.
+
+El pago de los derechos previstos en los artículos 244, 244-A, 244-B, 244-C, 244-D, 244-E, 244-E-1, 244-F, 244-G, 244-H, 244-I y 244-J, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como de las contraprestaciones a que se refiere la Ley en Materia de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, D.O.F. DEL 30 DE DICIEMBRE DE 2024.]</small>
 
@@ -17475,11 +17407,11 @@ I.- Cuando la Secretaría de Comunicaciones y Transportes o los usuarios conside
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 253-A.
 
-El 3.5 por ciento de los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente Capítulo, se destinarán al Instituto Federal de Telecomunicaciones.
+El 3.50 por ciento de los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente Capítulo, se destinarán a la Comisión Reguladora de Telecomunicaciones.
 
 ###### ARTICULO 253-B.
 
@@ -18383,7 +18315,9 @@ No estarán obligados al pago del derecho federal a que se refiere el presente C
 
 I.- Los contribuyentes cuya descarga de aguas residuales del trimestre no rebase los límites permisibles establecidos en las siguientes tablas o, en su caso, en las condiciones particulares de descarga que la Comisión Nacional del Agua emita conforme a la declaratoria de clasificación del cuerpo de las aguas nacionales que corresponda, publicada en el Diario Oficial de la Federación a que se refiere el artículo 87 de la Ley de Aguas Nacionales.
 
-> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O.F. DE 19 DE DICIEMBRE DE 2024, PÁGINA 44.]</small>
+Tabla LÍMITES PERMISIBLES PARA METALES Y CIANUROS
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O.F. DE 19 DE DICIEMBRE DE 2024, PÁGINA 44; 7 DE NOVIEMBRE DE 2025, PÁGINA 82.]</small>
 
 Para tales efectos, el contribuyente deberá medir el volumen en cada punto de descarga en términos del artículo 277-A de esta Ley y acompañar a la declaración del trimestre respectivo el reporte que emita el laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua, que acredite que la calidad de la descarga se efectúa en términos del párrafo anterior.
 
@@ -18565,19 +18499,33 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 Están obligados al pago del derecho por el acceso a los museos, monumentos, sitios y zonas arqueológicas propiedad de la Federación, las personas que tengan acceso a las mismas, conforme a las siguientes cuotas:
 
-Categoría I: $99.92 $100
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Categoría II: $82.28 $80
+Categoría I: $209.09
 
-Categoría III: $76.41 $75
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Tratándose del pago del derecho previsto en el párrafo anterior, después del horario normal de operación se pagará la cuota de $352.66 $355
+Categoría II: $156.75
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Categoría III: $143.69
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Categoría IV: $104.50
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Cuando se trate del pago del derecho previsto en el párrafo anterior, después del horario normal de operación se pagará la cuota de $731.84
 
 Para efectos de este artículo se consideran:
 
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
 Categoría I:
 
-Zona Arqueológica de Palenque (con museo); Museo y Zona Arqueológica de Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Zona Arqueológica de Teotihuacán (con museos); Zona Arqueológica de Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica de Tulum; Zona Arqueológica de Cobá; Zona Arqueológica de Tajín (con museo); Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo); Zona Arqueológica de Xochicalco (con museo); Museo Maya de Cancún y Sitio Arqueológico de San Miguelito; Zona Arqueológica Paquime; Sitio Arqueológico Calakmul; Monumento Inmueble Histórico Templo San Francisco Javier (Museo Nacional del Virreinato); Monumento Inmueble Histórico Ex Convento San Diego (Museo Nacional de las Intervenciones); Zona Arqueológica Cholula (con museo); Sitio Arqueológico San Gervasio; Galería de Historia; Zona Arqueológica Kohunlich; Zona Arqueológica de Cacaxtla y Xochitecatl (con museo); Zona Arqueológica Dzibilchaltun y Museo del Pueblo Maya; Sitio Arqueológico de Ek-Balam; Sitio Arqueológico de Xcambo; Sitio Arqueológico Bonampak; Zona Arqueológica Tula (con museo); Zona Arqueológica de Mitla; Zona Arqueológica Xelhá; Sitio Arqueológico Xcaret; Zona Arqueológica Yagul; Sitio Arqueológico Sierra de San Francisco; Zona Arqueológica de Edzná; Museo Regional de Guadalajara; Museo Regional Cuauhnáhuac; Museo Regional de Nuevo León Ex-Obispado; Zona Arqueológica Cantoná; Museo Regional de Querétaro; Museo Fuerte San Juan de Ulúa; Museo Regional de Yucatán "Palacio Canton"; Museo de Guadalupe; Zona Arqueológica Tzin Tzun Tzan (con museo); Zona Arqueológica las Labradas; Zona Arqueológica Teopanzolco; y Zona Arqueológica El Tepoxteco (Tepoztlán).
+Zona Arqueológica de Palenque (con museo); Museo y Zona Arqueológica de Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Zona Arqueológica de Teotihuacán (con museos); Zona Arqueológica de Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica de Tulum; Zona Arqueológica de Cobá; Zona Arqueológica El Tajín (con museo); Zona Arqueológica de Xochicalco (con museo); Museo Maya de Cancún y Sitio Arqueológico de San Miguelito; Zona Arqueológica Paquime; Sitio Arqueológico Calakmul; Monumento Inmueble Histórico Templo San Francisco Javier (Museo Nacional del Virreinato); Monumento Inmueble Histórico Ex Convento San Diego (Museo Nacional de las Intervenciones); Zona Arqueológica Cholula (con museo); Sitio Arqueológico San Gervasio; Galería de Historia; Zona Arqueológica Kohunlich; Zona Arqueológica de Cacaxtla y Xochitécatl (con museo); Sitio Arqueológico de Ek-Balam; Sitio Arqueológico de Xcambó; Sitio Arqueológico Bonampak; Zona Arqueológica Tula (con museo); Zona Arqueológica de Mitla; Zona Arqueológica Xelhá; Sitio Arqueológico Xcaret; Zona Arqueológica Yagul; Sitio Arqueológico Sierra de San Francisco; Zona Arqueológica de Edzná; Museo Regional de Guadalajara; Museo Regional Cuauhnáhuac; Museo Regional de Nuevo León Ex-Obispado; Zona Arqueológica Cantoná; Museo Regional de Querétaro; Museo Fuerte San Juan de Ulúa; Museo Regional de Yucatán "Palacio Cantón"; Museo de Guadalupe; Zona Arqueológica Tzin Tzun Tzan (con museo); Zona Arqueológica las Labradas; Zona Arqueológica Teopanzolco; y Zona Arqueológica El Tepoxteco (Tepoztlán).
 
 Categoría II:
 
@@ -18587,9 +18535,21 @@ Categoría III:
 
 Museo Regional Histórico de Aguascalientes; Museo de las Misiones Jesuitas; Zona Arqueológica Chicanná; Zona Arqueológica Xpuhil; Museo Casa Carranza; Ex-Convento de Actopan; Zona Arqueológica Calixtlahuaca; Museo Virreinal de Acolman; Zona Arqueológica Santa Cecilia Acatitlán (con museo); Zona Arqueológica de San Bartolo Tenayuca (con museo); Zona Arqueológica Tingambato; Museo Casa de Juárez; Museo Histórico de la No Intervención; Museo del Valle de Tehuacán; Museo de la Evangelización; Fuerte de Guadalupe; Zona Arqueológica El Rey; Zona Arqueológica Oxtankah; Museo Regional de Sonora; Zona Arqueológica de Cempoala (con museo); Museo de Artes e Industrias Populares; Museo Tuxteco; Zona Arqueológica de Labná; Zona Arqueológica de Sayil; Zona Arqueológica Gruta de Balankanché; Zona Arqueológica de Chacmultún; Zona Arqueológica Gruta de Loltún; Zona Arqueológica de Oxkintok; Museo Regional de Nayarit; Museo Arqueológico de Campeche; Museo Regional Potosino; Museo Casa de Allende; Museo Regional Michoacano; Zona Arqueológica La Venta (con museo); Zona Arqueológica la Campana; Zona Arqueológica San Felipe Los Alzati; Zona Arqueológica Chalcatzingo; Zona Arqueológica Ixtlán del Río-Los Toriles; Zona Arqueológica el Meco; Zona Arqueológica el Vallecito; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto "Armas y Marinería"; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica el Chanal; Museo Arqueológico del Soconusco; Museo Ex-Convento Agustino de San Pablo; Museo de Guillermo Spratling; Ex-Convento de San Andrés Epazoyucan; Museo Arqueológico de Ciudad Guzmán; Zona Arqueológica Los Melones; Monumento Histórico Capilla de Tlalmanalco; Ex-Convento de Oxtotipac; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Coatetelco (con museo); Ex-Convento y Templo de Santiago, Cuilapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex-Convento de Yanhuitlán; Zona Arqueológica de Zaachila Ex-Convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex-Convento de San Francisco, Tecamachalco; Ex-Convento de San Francisco Huaquechula; Zona Arqueológica de Toluquilla; Zona Arqueológica de Malpasito; Zona Arqueológica Tizatlán (con museo); Zona Arqueológica de Tres Zapotes (con museo); Sitio Arqueológico Quiahuiztlan; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán; Museo de la Estampa Ex Convento de Santa María Magdalena Cuitzeo; Casa de Hidalgo, Dolores Hidalgo, Gto.; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica de Tenam Puente; Zona Arqueológica Las Ranas; Zona Arqueológica de Muyil; Sitio Arqueológico de Tamtoc; Sitio Arqueológico Lagartero; Sitio Arqueológico La Ferrería; Sitio Arqueológico Boca de Potrerillos; Zona de Monumentos Arqueológicos El Cerrito; Sitio Arqueológico de Pomoná; Sitio Arqueológico de Cuyuxquihui; Sitio Arqueológico de Izapa; Sitio Arqueológico de Tehuacalco; Sitio Arqueológico de Xlapak; y Monumento Inmueble Histórico Museo Nacional de las Culturas del Mundo.
 
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-El pago de este derecho deberá hacerse previamente al ingreso a los museos, monumentos, sitios y zonas arqueológicas a que se refiere este artículo.
+Categoría IV:
+
+Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo) y Zona Arqueológica Dzibilchaltún y Museo del Pueblo Maya.
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Las personas nacionales y las extranjeras residentes en el país, que acrediten su nacionalidad y residencia, respectivamente, tendrán una reducción de derechos, de conformidad con lo siguiente:
+
+Categoría I el 50%
+
+Categoría II el 45%
+
+Categoría III el 45%
 
 Las cuotas de los derechos señalados en el presente artículo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
 
@@ -18597,7 +18557,9 @@ Las cuotas de los derechos señalados en el presente artículo, se ajustarán pa
 
 No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, con discapacidad, docentes y estudiantes en activo, así como pasantes o dedicadas a la investigación que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos, sitios y zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos, monumentos, sitios y zonas arqueológicas los domingos.
 
-Lo dispuesto en el párrafo anterior no será aplicable para las categorías previstas en el presente artículo, en las visitas después del horario normal de operación.
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Lo dispuesto en los dos párrafos anteriores no será aplicable para las categorías previstas en el presente artículo, en las visitas después del horario normal de operación.
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
@@ -18675,9 +18637,11 @@ Para los efectos de este artículo se consideran:
 
 Museo del Palacio de Bellas Artes; Museo Nacional de Arte; Museo de Arte Moderno y Museo Tamayo Arte Contemporáneo Internacional "Rufino Tamayo".
 
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
 - Recintos tipo 2 Museos Emblemáticos:
 
-Museo Alvar y Carmen T. Carrillo Gil; Museo Nacional de San Carlos; Museo Nacional de la Estampa y Museo Nacional de Arquitectura.
+Museo de Arte Alvar y Carmen T. Carrillo Gil; Museo Nacional de San Carlos y Museo Nacional de la Estampa.
 
 - Recintos tipo 3 Centros Expositivos:
 
@@ -24044,3 +24008,21 @@ El fideicomiso a que hace referencia el artículo 220-A, párrafo segundo, de la
 D.O.F. 30 DE DICIEMBRE DE 2024.
 
 > <small>[N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACIÓN A LA RESOLUCIÓN DE MISCELÁNEA FISCAL PARA 2025, VÉASE ANEXO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025 PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2024”.]</small>
+
+D.O.F. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS".]
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2026, salvo:
+
+I. Las reformas a los artículos 72, fracción X, la denominación del Capítulo IX del Título I para quedar como "De la Comisión Reguladora de Telecomunicaciones", 173, párrafo segundo, 173-B, 173-C, párrafo primero, 174-C, fracción VII, 174-M, 239, párrafos tercero, y actuales séptimo y octavo, 240, párrafo primero y fracción VIII, 241, párrafos quinto, séptimo y octavo, 242, párrafos quinto, séptimo y octavo, y 253-A, la adición de los artículos 174-M-1, 239, párrafo cuarto y 244-K, y la derogación de los artículos 173, Apartado B, fracciones II, III y párrafo tercero, 244, párrafo cuarto, 244-A, párrafo cuarto, 244-B, párrafo cuarto, 244-C, párrafo cuarto, 244-D, párrafo cuarto, 244-E, párrafo cuarto, 244-E-1, párrafo cuarto, 244-F, párrafo cuarto, 244-G, párrafo cuarto, 244-H, párrafo cuarto, 244-I, párrafo cuarto, 244-J, párrafo cuarto que entrarán en vigor a partir del día siguiente a aquél en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones de conformidad con los artículos Primero a Sexto, Octavo y Vigésimo Octavo Transitorios del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+En tanto se integra el Pleno de la Comisión Reguladora de Telecomunicaciones, el Instituto Federal de Telecomunicaciones continuará aplicando las disposiciones vigentes en los capítulos IX y XI del Título I y II de la Ley Federal de Derechos, respectivamente, de conformidad con el artículo Tercero Transitorio del Decreto citado en el párrafo anterior.
+
+II. La derogación de los artículos 77 y 77-A que entrará en vigor a partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio de conformidad con los artículos Segundo y Sexto Transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+En tanto se integra el Pleno de la Comisión Nacional Antimonopolio, la Comisión Federal de Competencia Económica podrá continuar aplicando las disposiciones vigentes en los artículos 77 y 77-A de la Ley Federal de Derechos, de conformidad con el artículo Segundo Transitorio del Decreto citado en el párrafo anterior.
+
+Segundo. Durante el ejercicio fiscal de 2026, para los efectos de lo dispuesto en los artículos 244, 244-A, 244-B, 244-E, 244-E-1, 244-G, 244-H, 244-I y 244-J de la Ley Federal de Derechos, las cuotas previstas en dichas disposiciones no se actualizarán de conformidad con el párrafo cuarto del artículo 1o. de la citada Ley.
+
+Las personas concesionarias de las bandas de frecuencias del espectro radioeléctrico sujetas al pago de los derechos mencionados en el párrafo anterior, deberán pagar durante el ejercicio fiscal de 2026, los derechos vigentes correspondientes al ejercicio fiscal de 2025.
