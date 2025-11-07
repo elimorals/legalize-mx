@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-promocion-de-valores-y-cultura-de-la-legalidad-5496
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-23"
-last_updated: "2017-06-21"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de marzo de 2007.
 
@@ -95,9 +95,11 @@ Las acciones que se realicen al amparo de la presente Ley deberán efectuarse co
 
 Se crea con el carácter de institución de participación ciudadana de interés público, el Consejo Estatal para la Promoción de Valores y Cultura de la Legalidad, en el que se integrarán los grupos y organizaciones más representativos de los sectores público, privado y social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 6.
 
-El Consejo será un órgano de naturaleza consultiva, mayoritariamente ciudadano, autónomo e independiente, propositivo, incluyente, plural y democrático, de carácter honorífico y se integrará con los representantes de los siguientes sectores de la sociedad:
+El Consejo será un órgano de naturaleza consultiva, mayoritariamente ciudadano, paritario, autónomo e independiente, propositivo, incluyente, plural y democrático, de carácter honorífico y se integrará con los representantes de los siguientes sectores de la sociedad:
 
 I.- Las instituciones de educación superior;
 
@@ -261,7 +263,9 @@ V. El Rector del Instituto Tecnológico de Estudios Superiores de Monterrey;
 
 VI. Un Representante de las Instituciones de beneficencia privada del Estado; y
 
-VII. Tres ciudadanos que por sus virtudes y méritos cívicos se hayan distinguido por su trabajo en beneficio de la comunidad y en el fortalecimiento de las instituciones sociales; pudiendo ser designados de entre los integrantes del Consejo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+VII. Tres ciudadanos que por sus virtudes y méritos cívicos se hayan distinguido por su trabajo en beneficio de la comunidad y en el fortalecimiento de las instituciones sociales; pudiendo ser designados de entre los integrantes del Consejo, observando el principio de paridad de género.
 
 En todo caso serán invitadas a las sesiones del Comité, con derecho a voz sin poder votar los acuerdos, las asociaciones de historiadores que funcionen en la entidad, para el efecto de que aporten al Consejo los antecedentes, informes, opiniones especializadas y demás elementos de juicio necesarios.
 
@@ -432,3 +436,9 @@ P.O. 21 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 265. SE REFORMA EL ARTÍCULO 331 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN; SE ADICIONA UN ARTÍCULO 32 BIS LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN, SE REFORMAN LAS FRACCIONES XII Y XIII, ASIMISMO SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN CIVIL PARA EL DEL ESTADO DE NUEVO LEÓN; SE REFORMAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 9; POR MODIFICACIÓN EL NOMBRE DEL CAPÍTULO III; ASÍ MISMO SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 9; Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 10, TODOS DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 137. SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 8, ASÍ COMO EL ARTÍCULO 9 DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE; SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 14 Y EL ARTÍCULO 24 DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 Y LA FRACCIÓN VII DEL ARTÍCULO 13 DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5 DE LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEON”.]
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
