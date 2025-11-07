@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2025-04-23"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -391,9 +391,21 @@ II. Se les atienda antes que a las personas adultas en todos los servicios, en i
 
 III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección y el ejercicio de sus derechos;
 
-IV. Se dé prioridad, en materia de asignación de recursos, a las instituciones públicas encargadas de proteger sus derechos; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-V. En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, autoridades administrativas y órganos legislativos, se tomará en cuenta, como consideración primordial, el Interés Superior de la Niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar este principio.
+IV. Se dé prioridad, en materia de asignación de recursos, a las instituciones públicas encargadas de proteger sus derechos;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+V. En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, autoridades administrativas y órganos legislativos, se tomará en cuenta, como consideración primordial, el Interés Superior de la Niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar este principio;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+VI. Se les brinde asistencia para la prevención y atención psicológica y emocional en cualquier tipo de violencia o vulneración de derechos, que atente contra el desarrollo pleno de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+VI (SIC). Se fomente la creación e implementación de programas y políticas públicas específicas, orientadas al cuidado, la protección y el pleno desarrollo de niñas, niños y adolescentes que carezcan de cuidades parentales o familiares.
 
 ### CAPÍTULO IV. DEL DERECHO A LA IDENTIDAD
 
@@ -869,6 +881,10 @@ III. Adoptará medidas para la eliminación de usos, costumbres, prácticas cult
 
 IV. Adoptar medidas para garantizar los derechos de las niñas y niños que nazcan y permanezcan en cualquier centro de reclusión.
 
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN IV], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Cuando las niñas y los niños acudan a visitar a su padre o a su madre que se encuentren privados de su libertad en algún centro de reclusión del Estado, las autoridades correspondientes garantizarán que se cuenten con espacios dignos y seguros, que garanticen el respeto de su integridad física y mental, observando en todo momento el principio del interés superior del menor.
+
 La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
 
 Serán factor de análisis prioritario las diferencias de género como causa de vulnerabilidad y discriminación en contra de las niñas y las adolescentes.
@@ -943,7 +959,9 @@ En el Estado se asegurará que todas las niñas, niños y adolescentes, no sufra
 
 En razón de que las niñas, niños, y adolescentes, son particularmente vulnerables a los actos violatorios del derecho a una vida libre de violencia, y no tienen capacidad para defenderse de dichos actos, tienen también el derecho a ser protegidos de estos actos y de peligros que puedan afectar su salud física o mental, su normal desarrollo o cualesquiera de sus otros derechos particularmente deberá protegérseles de:
 
-I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+I. El descuido, negligencia, abandono o abuso físico, psicológico, sexual o cualquiera de sus modalidades;
 
 II. La corrupción de personas menores de dieciocho años de edad;
 
@@ -959,13 +977,17 @@ VI. El trabajo antes de la edad mínima de quince años, prevista en las disposi
 
 VII. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en las demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-VIII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+VIII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral;
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-IX. La violencia digital, de la cual se deberán tomar acciones para detectar, atender y prevenir en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar su dignidad, intimidad, libertad y vida privada.
+IX. La violencia digital, de la cual se deberán tomar acciones para detectar, atender y prevenir en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar su dignidad, intimidad, libertad y vida privada; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+X. El castigo humillante.
 
 ###### Artículo 50.
 
@@ -979,9 +1001,21 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 I. Implementar políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refiere el artículo 49;
 
-II. Adoptar medidas especiales para prevenir, sancionar y reparar las conductas previstas en el artículo 49 para niñas, niños y adolescentes con discapacidad; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-III. Adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana.
+II. Adoptar medidas especiales para prevenir, sancionar y reparar las conductas previstas en el artículo 49 para niñas, niños y adolescentes con discapacidad;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+III. Adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+IV. Brindar capacitación a su personal en materia de prevención del abuso infantil, derechos de la infancia y protocolos de actuación en caso de violencia sexual; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+V. Implementar estrategias de prevención, monitoreo y denuncia del acoso sexual en cualquiera de sus modalidades.
 
 La recuperación y restitución de derechos a que se refiere el párrafo anterior se llevarán a cabo en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes.
 
@@ -1105,7 +1139,9 @@ XIII. Disponer lo necesario para que niñas, niños y adolescentes con discapaci
 
 XIV. Prohibir la esterilización de niñas, niños y adolescentes y cualquier forma de violencia obstétrica;
 
-XV. Establecer las medidas para que en los servicios de salud se detecten y atiendan de manera especial los casos de víctimas de delitos o violaciones a sus derechos, o sujetos de violencia sexual y familiar, de conformidad con las disposiciones aplicables en la materia;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XV. Establecer las medidas para que en los servicios de salud se detecten y atiendan de manera especial, los casos de víctimas de delitos o violaciones a sus derechos, o sujetos de violencia sexual y familiar de conformidad con las disposiciones aplicables en la materia, garantizando una atención integral;
 
 XVI. Establecer medidas tendientes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
 
@@ -1143,9 +1179,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 63.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes están obligados a solicitar oportunamente la atención médica que se requiera para resolverles cualquier problema de salud, así como a llevarlos a que se les apliquen las vacunas que forman parte del esquema básico de vacunación.
+Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes están obligados a solicitar oportunamente la atención médica que se requiera para resolverles cualquier problema de salud, así como a llevarlos a que se les apliquen las vacunas que forman parte del esquema básico de vacunación y exámenes de la vista.
 
 ###### Artículo 64.
 
@@ -1521,13 +1559,17 @@ III. La orientación a niñas, niños y adolescentes en el ejercicio de sus dere
 
 IV. La promoción de la prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-V. El enfoque de inclusión, igualdad, no discriminación y perspectiva de derechos humanos; y
+V. El enfoque de inclusión, igualdad, no discriminación y perspectiva de derechos humanos;
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-VI. El conocimiento de la educación emocional, resiliencia y empatía.
+VI. El conocimiento de la educación emocional, resiliencia y empatía; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+VII. El conocimiento de los riesgos derivados del acceso a las tecnologías de información y comunicación que ponga en peligro, afecten o impidan objetivamente su desarrollo integral.
 
 ###### Artículo 89.
 
@@ -1809,6 +1851,12 @@ El Estado promoverá políticas públicas de prevención, protección, atención
 
 Las autoridades competentes deberán establecer estrategias educativas de supervisión y sensibilización dirigidas a niñas, niños y adolescentes, así como a sus padres, madres o tutores, para fomentar el uso responsable y seguro de las tecnologías digitales.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 119 Bis 2.
+
+El Estado y los Municipios fomentarán los mecanismos de denuncia y de reparación del daño dirigidos a niñas, niños y adolescentes, padres, madres de familia o tutores, relacionados con el uso de las tecnologías de la información y comunicación, así como de los servicios de radiodifusión, telecomunicaciones e internet.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ### CAPÍTULO XXV. DERECHOS PARA LA PROTECCIÓN DE NIÑAS Y NIÑOS EN PRIMERA INFANCIA
@@ -1853,7 +1901,13 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custod
 
 I. Garantizar sus derechos alimentarios, el desarrollo integral y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación;
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica, recreación, sustento, supervivencia y en especie de conformidad con lo que señala el artículo 308 del Código Civil para el Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Para brindar una protección y restitución integral de los derechos de niñas, niños y adolescentes, las autoridades con competencia en la entidad tendrán acceso a los registros de obligaciones alimentarias;
 
 II. Registrarlos dentro de los primeros treinta días de vida;
 
@@ -2169,9 +2223,21 @@ XI. Implementar estrategias de acompañamiento para la convivencia de niños, ni
 
 XII. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
 
-XIII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-XIV. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Estatal DIF.
+XIII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Recabar información estadística sobre reportes de violencia o vulneración de derechos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XV. Publicar a través de sus portales de internet información estadística sobre reportes de violencia o vulneración de derechos de niñas, niños y adolescentes, acatando las disposiciones legales en materia de protección de datos y acceso a la información pública, con la finalidad de que sean implementadas políticas públicas para su prevención y atención de cualquier acto que atente con su pleno desarrollo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XVI. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Estatal DIF.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE ENERO DE 2020)</small>
 
@@ -2191,15 +2257,25 @@ III. Celebrar los convenios de colaboración con los Sistemas para el Desarrollo
 
 IV. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia;
 
-V. Prestar apoyo y colaboración técnica y administrativa en las materias reguladas en esta Ley, a las entidades federativas, municipios; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-VI. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
+V. Prestar apoyo y colaboración técnica y administrativa en las materias reguladas en esta Ley, a las entidades federativas, municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+VI. Tener a su cargo el Registro Estatal de Obligaciones Alimentarias en los términos que establece esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
 ### CAPÍTULO II. DE LA PROCURADURÍA DE PROTECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 138.
 
-La Procuraduría de Protección, es la dependencia del Sistema del Desarrollo Integral de la Familia en el Estado de Nuevo León, que tendrá por objeto proteger y restituir los derechos de las niñas, niños y adolescentes.
+La Procuraduría de Protección es un órgano desconcentrado del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, mismo que cuenta con autonomía técnica y operativa, y que tiene por objeto proteger y restituir los derechos de las niñas, niños y adolescentes. Entendiéndose por autonomía técnica y operativa a la capacidad para regirse por su propia normativa, establecer sus propios procedimientos y plazos, dictar libremente sus resoluciones; bajo criterios de independencia, especialización técnica, transparencia y estricta rendición de cuentas.
 
 En el ejercicio de sus funciones, la Procuraduría de Protección podrá solicitar el auxilio de autoridades de los tres órdenes de gobierno, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables.
 
@@ -2373,6 +2449,10 @@ XXXV. Ejercer acción para el aseguramiento de alimentos, iniciando al (sic) pro
 
 XXXVI. Realizar las acciones necesarias para investigar y proteger de manera integral a niñas y adolescentes, en situación de embarazo temprano;
 
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XXXVI Bis. Tener acceso a las bases de datos de los registros de obligaciones alimentarias;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2025)</small>
 
 XXXVII. Integrar un Protocolo de Atención Integral para Niñas, Niños y Adolescentes Migrantes; y
@@ -2475,13 +2555,115 @@ h) El generar sentimientos negativos, de odio, desprecio, rencor o rechazo hacia
 
 i) Las prohibiciones, coacciones y condicionamientos.
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-### CAPITULO II. DE LOS SISTEMAS MUNICIPALES DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO III. DEL REGISTRO ESTATAL DE OBLIGACIONES ALIMENTARIAS
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 150 Bis.
+
+Se crea el Registro Estatal de Obligaciones Alimentarias cuyo objeto es concentrar la información de deudores y acreedores de obligaciones alimentarias, a fin de dar efectiva protección y restitución de los derechos de niñas, niños y adolescentes.
+
+El Poder Judicial del Estado suministrará, intercambiará, consultará, y analizará la información que se genere sobre el incumplimiento de las obligaciones alimentarias en el ámbito de sus competencias utilizando los sistemas e instrumentos tecnológicos del Sistema para el Desarrollo Integral para la Familia del Estado de Nuevo León para que con ella integre al Registro Estatal de Obligaciones Alimentarias.
+
+La calidad de deudor moroso se difundirá en el Registro Estatal de Obligaciones Alimentarias, el cual, será público con base en lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Nuevo León.
+
+Asimismo se suministrará la información al Registro Nacional de Obligaciones Alimentarias, con base en lo dispuesto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Nuevo León.
+
+La Procuraduría de Protección tendrá acceso total a las bases de datos del Registro Estatal de Obligaciones Alimentarias.
+
+Los datos recabados en este registro podrán ser utilizados para los fines estadísticos o de análisis que se consideren necesarios.
+
+La actualización del registro deberá realizarse de forma mensual.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 150 Bis 1.
+
+Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez; de no hacerlo, será sancionada en los términos establecidos en el Titulo VII de la presente Ley, y responderá solidariamente para el pago de daños y perjuicios que cause al acreedor alimentario por las omisiones o informes falsos, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+El deudor alimentario deberá informar, en un máximo de quince días hábiles al Juez cualquier cambio en su empleo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que se actualice la pensión alimenticia decretada.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 150 Bis 2.
+
+La inscripción al Registro Estatal de Obligaciones Alimentarias deberá especificar cuando menos:
+
+I. Nombre o nombres, apellidos;
+
+II. Clave Única de Registro de Población;
+
+III. Clave y homoclave del Registro Federal de Contribuyentes del deudor alimentario;
+
+IV. Órgano jurisdiccional que ordenó la inscripción, cuantía del cumplimiento de la obligación alimentaria y plazo de pago de los alimentos definitivos, y
+
+V. Datos del expediente o causa jurisdiccional de fa cual deriva la inscripción.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 150 Bis 3.
+
+El Registro Estatal de Obligaciones Alimentarias emitirá certificados de no inscripción, a petición de la parte interesada. Para efecto de lo anterior, se dispondrá de un sitio web en el cual se genere automáticamente el certificado de forma gratuita, mismo que contendrá como mínimo la siguiente información:
+
+I. Nombre o nombres, apellidos; y
+
+II. Clave Única de Registro de Población del deudor alimentario;
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 150 Bis 4.
+
+Las autoridades en el Estado y Municipios, en el ámbito de sus competencias, dispondrán lo necesario a fin de establecer como requisito la presentación del certificado de no inscripción en el Registro Estatal de Obligaciones Alimentarias.
+
+Entre los trámites y procedimientos que podrán requerir la expedición de ese certificado, se encuentran los siguientes:
+
+I. Obtención de licencias y permisos para conducir;
+
+II. Para participar como candidato a cargos (sic) elección popular;
+
+III. Para participar como candidato a cargos concejiles;
+
+IV. Para participar como aspirante a cargos de jueces, magistrados en el ámbito local;
+
+V. Participar en procesos de designación mediante convocatoria Pública de organismos del Estado, así como de organismos constitucionalmente autónomos;
+
+VI. Los que se realicen ante notario público relativos a la compraventa de bienes inmuebles y la constitución o transmisión de derechos reales;
+
+VII. En las solicitudes de matrimonio, el juez del Registro Civil hará del conocimiento si alguno de los contrayentes se encuentra inscrito en el Registro, mencionando la situación que guardan respecto de las obligaciones que tiene; y
+
+VIII. Aquellos que las leyes en la materia establezcan.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO IV. DE LA CONCENTRACIÓN, SUMINISTRO, INTERCAMBIO, SISTEMATIZACIÓN Y ACTUALIZACIÓN DEL REGISTRO NACIONAL DE OBLIGACIONES ALIMENTARIAS
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 150 Bis 5.
+
+El Poder Judicial del Estado en términos del artículo 135 Bis de la Ley General de los Derechos de niñas, niños y adolescentes, así como en los Lineamientos para regular el Registro Nacional de Obligaciones Alimentarias, y demás disposiciones aplicables, tendrá la obligación de concentrar suministrar, intercambiar, sistematizar, consultar, analizar y actualizar durante los primeros cinco días hábiles de cada mes, la información de deudores y acreedores de obligaciones alimentarias en el Registro Nacional de Obligaciones Alimentarias.
+
+Una vez que se proporcione por parte del Sistema Nacional DIF, de manera oficial y personal por conducto de la Dirección General, los mecanismos de acceso seguro, será al Presidente del Tribunal del Poder Judicial en quien recaiga la responsabilidad del manejo y suministro de datos.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 150 Bis 6.
+
+La cancelación en el Registro será mediante resolución o sentencia definitiva emitida por el Poder Judicial.
+
+La cancelación en el registro deberá efectuarse de manera inmediata con independencia de lo establecido en el párrafo primero del artículo 150 Bis 5.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 150 Bis 7.
+
+La persona inconforme con la inscripción podrá promover el recurso correspondiente ante la autoridad que haya ordenado la inscripción.
 
 ## TITULO VI
 
-### CAPÍTULO III. DEL PROGRAMA ESTATAL
+### CAPÍTULO I. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 151.
 
@@ -2505,7 +2687,9 @@ V. El Procurador de Protección;
 
 VI. El Titular de la Secretaría de Finanzas y Tesorería General del Estado;
 
-VII. El Titular de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+VII. El Titular de la Secretaría de Igualdad e Inclusión;
 
 VIII. El Titular de la Secretaría de Educación;
 
@@ -2515,7 +2699,9 @@ X. El Titular de la Secretaria del Trabajo;
 
 XI. El Titular de la Secretaría de Seguridad Pública;
 
-XII. El Titular de la Procuraduría General de Justicia en el Estado;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XII. El Titular de la Fiscalía General de Justicia en el Estado;
 
 XIII. El Titular Ejecutivo del Instituto Estatal de Cultura Física y Deporte;
 
@@ -2801,7 +2987,7 @@ En caso de incumplimiento a lo dispuesto por la presente Ley por un servidor pú
 
 En caso de que el incumplimiento fuese por un particular, se estará a lo dispuesto por la legislación civil y penal del Estado.
 
-### CAPÍTULO ÚNICO
+### CAPITULO II. DE LOS SISTEMAS MUNICIPALES DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 164.
 
@@ -2973,13 +3159,17 @@ V. Establecer mecanismos de comunicación accesibles para que niñas, niños y a
 
 VI. Girar citatorios, realizar pesquisas, ordenar las evaluaciones del equipo técnico, así como las gestiones necesarias para el cumplimiento de sus funciones;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-VII. Rendir informe de los casos que la Procuraduría de Protección le solicite seguimiento y atención municipal; y
+VII. Dar seguimiento a los casos de niñas, niños y adolescentes que egresen de los Centros de Asistencia Social, cuando les sean canalizados por la Procuraduría de Protección, por reintegración a la familia nuclear o extendida, cuando el domicilio en que se ubique la niña, niño o adolescente se encuentre dentro del territorio del municipio de su adscripción;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-VIII. Las demás que le otorguen las leyes federales, estatales o reglamentos municipales aplicables en la materia.
+VIII. Rendir informe de los casos que la Procuraduría de Protección le solicite seguimiento y atención municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+IX. Las demás que le otorguen las leyes federales, estatales o reglamentos municipales aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 2020)</small>
 
@@ -3021,6 +3211,8 @@ IX. Emitir un informe mensual sobre la restitución de derechos a la Procuradur�
 
 Se exceptúa de la obligación de agotar el procedimiento a que se refiere el artículo anterior, en los casos en que las autoridades municipales, en el ejercicio de sus funciones adviertan que existe un riesgo inminente contra la vida, la integridad o la libertad de niñas, niños y adolescentes, en cuyo caso deberán canalizarse de forma inmediata a la Procuraduría de Protección para que ésta dicte la medida urgente de protección especial que corresponda y notificarla a la Defensoría Municipal para su conocimiento y futuro seguimiento.
 
+### CAPÍTULO III. DEL PROGRAMA ESTATAL
+
 ###### Artículo 169.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, a través del Sistema Nacional de Protección Integral, así como los sectores privado y social, participarán en la elaboración y ejecución del Programa Nacional, el cual deberá ser acorde con el Plan Nacional de Desarrollo y con la presente Ley.
@@ -3034,6 +3226,8 @@ Los programas estatales y municipales preverán acciones de mediano y largo alca
 Los Sistemas Estatal y Municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
 ## TÍTULO VII. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 172.
 
@@ -3396,3 +3590,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las Autoridades sujetas al cumplimiento del presente Decreto, reformaran sus reglamentos y normativa correspondiente en un plazo no mayor a los 90 días naturales a la entrada en vigor del presente Decreto.
 
 TERCERO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán atendiendo a la suficiencia presupuestal.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 140. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, el Sistema para el Desarrollo Integral para la Familia del Estado de Nuevo León contará con un plazo de hasta trescientos días hábiles para la implementación del Registro Estatal de Obligaciones Alimentarias.
+
+Posterior a lo establecido en el párrafo anterior las autoridades Estatales y Municipales sujetas al presente Decreto, contarán con un plazo de 90 días para la armonización en sus reglamentos y demás disposiciones aplicables para el cumplimiento a lo referido al (sic) presente Artículo Transitorio.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto, las autoridades Estatales y Municipales sujetas al presente Decreto, así como el Poder Legislativo contarán con un plazo de 180 ciento ochenta días hábiles para el cumplimiento y armonización en sus reglamentos, Leyes y demás disposiciones aplicables para el cumplimiento del presente Decreto.
+
+CUARTO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán atendiendo a la suficiencia presupuestal.
