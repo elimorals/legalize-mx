@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-atender-y-erradicar-el-acoso-y-la-95013"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2025-09-29"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2013.
 
@@ -719,7 +719,9 @@ II. La Secretaría de Salud;
 
 III. La Secretaría de Seguridad Pública;
 
-IV. La Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+IV. La Fiscalía General de Justicia
 
 V. La Comisión Estatal de Derechos Humanos;
 
@@ -821,9 +823,11 @@ III. Realizar acciones de capacitación y sensibilización a su personal en el t
 
 IV. Las demás que señale esta Ley, su Reglamento y las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 55.
 
-Corresponde a la Procuraduría General de Justicia:
+Corresponde a la Fiscalía General de Justicia:
 
 I. Colaborar con las autoridades correspondientes para conocer, prevenir, combatir y erradicar el acoso y la violencia entre escolares;
 
@@ -987,7 +991,9 @@ III. La Secretaría de Salud;
 
 IV. La Secretaría de Seguridad Pública;
 
-V. La Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+V. La Fiscalía General de Justicia;
 
 VI. Tres Autoridades Municipales, uno de la zona metropolitana, uno de la zona sur y otro de la zona norte del Estado;
 
@@ -1224,3 +1230,9 @@ P.O. 29 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 121. SE ADICIONA UN ARTÍCULO 36 BIS A LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 139. SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 8; PRIMER PÁRRAFO DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 27; PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 35; PRIMER PÁRRAFO DEL ARTÍCULO 63; Y LOS ARTÍCULOS 64; 67; 68 Y 86, DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 51; EL PRIMER PÁRRAFO DEL ARTÍCULO 55 Y LA FRACCIÓN V DEL ARTÍCULO 60, DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente de su publicación en el Periódico Oficial del Estado.
