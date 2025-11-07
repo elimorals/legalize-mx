@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-cultura-fisica-y-deporte-del-35829
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2025-05-09"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -277,13 +277,15 @@ I) Un representante de las asociaciones no olímpicas, de las registradas en el 
 
 m) Un representante de a (sic) Secretaría de Salud.
 
-Por cada Consejero Vocal se podrá designar a su respectivo suplente.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
+Por cada Consejero Vocal se podrá designar a su respectivo suplente, observando el principio de paridad de Género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 9.
 
-Los Vocales Consejeros, propietarios y suplentes, a que se refieren los incisos b) a I) de la fracción IV del Artículo 8, serán nombrados por invitación del Gobernador del Estado, a propuesta del Director General, previa consulta que este último realice entre los sectores de la comunidad involucrados con la cultura física y el deporte en el Estado.
+Los Vocales Consejeros, propietarios y suplentes, a que se refieren los incisos b) a 1) (sic) de la fracción IV del Artículo 8, serán nombrados por invitación del Gobernador del Estado, observando el principio de paridad de Género, a propuesta del Director General, previa consulta que este último realice entre los sectores de la comunidad involucrados con la cultura física y el deporte en el Estado.
 
 Los mencionados Vocales Consejeros durarán en su encargo dos años, pudiendo ser designados nuevamente al término del período correspondiente, cuantas veces sea necesario para el adecuado cumplimiento del objeto y atribuciones del Instituto.
 
@@ -780,3 +782,9 @@ P.O. 9 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 099. SE REFORMA EL INCISO D), DE LA FRACCIÓN IV DEL ARTÍCULO 13, DE LA LEY DEL INSTITUTO DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 137. SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 8, ASÍ COMO EL ARTÍCULO 9 DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE; SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 14 Y EL ARTÍCULO 24 DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 Y LA FRACCIÓN VII DEL ARTÍCULO 13 DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5 DE LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEON”.]
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
