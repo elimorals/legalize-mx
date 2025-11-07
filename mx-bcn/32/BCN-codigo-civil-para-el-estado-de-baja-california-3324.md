@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2025-10-10"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1965,6 +1965,10 @@ Los que infrinjan el artículo anterior y los que autoricen esos matrimonios, in
 
 El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+El divorcio podrá ser necesario, voluntario o incausado, es decir, sin expresión de causa.
+
 ###### ARTICULO 264.
 
 Son causas de divorcio:
@@ -2195,13 +2199,11 @@ Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes
 
 En los casos de divorcio, el Juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTICULO 286.
 
 En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
-
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, a contar desde que se decretó el divorcio.
-
-Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
 
 ###### ARTICULO 287.
 
@@ -16932,3 +16934,15 @@ P.O. 10 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 153 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 317 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+> <small>[N. DE E. ARTÍCULO TRANSITORIO DEL "DECRETO NO. 159 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 263 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]</small>
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 160 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 286 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
