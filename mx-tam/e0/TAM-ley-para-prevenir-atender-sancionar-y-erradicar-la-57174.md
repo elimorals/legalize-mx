@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2025-07-01"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -291,11 +291,25 @@ c). Lo soliciten las organizaciones de la sociedad civil, así como los organism
 
 Violencia mediática contra las mujeres es aquella que se ejerce mediante la publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación local, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+La Violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres, niñas y adolescentes, que impide su desarrollo y que atenta contra la igualdad.
+
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 8 Ter.
 
 Violencia digital contra las mujeres es todo acto o acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+También se considera violencia digital a cualquier acto doloso que causen daño a la intimidad, privacidad y dignidad de las mujeres, que se comentan por medio de tecnologías de la información y la comunicación, entendiendo estas últimas como aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos. Esta será sancionada en la forma y términos que establece el Código Penal para el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 8 Ter-A.
+
+Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, la Fiscalía o la autoridad jurisdiccional, ordenarán de manera inmediata las medidas de protección necesarias de conformidad con la presente Ley y con lo establecido en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
 
@@ -1700,6 +1714,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 1 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-359 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2, INCISO D) DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-528 MEDIANTE EL CUAL SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 8 BIS; UN PÁRRAFO SEGUNDO AL 8 TER; Y UN ARTÍCULO 8 TER-A, A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
