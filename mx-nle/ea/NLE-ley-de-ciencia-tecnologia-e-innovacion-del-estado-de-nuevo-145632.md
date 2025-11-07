@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nuevo-1456
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-21"
-last_updated: "2025-01-29"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 21 de diciembre de 2020.
 
@@ -99,13 +99,17 @@ XXI. Establecer mecanismos y apoyos para promover la creación y funcionamiento 
 
 XXII. Conferir al Instituto, las atribuciones y facultades necesarias para coordinar, implementar y realizar los programas, proyectos y acciones que sean indispensables para el desarrollo económico y social del Estado basado en el fomento a la ciencia, la tecnología y la innovación, de conformidad con lo dispuesto en esta Ley;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-XXIII. Establecer la integración y funciones del Consejo General para impulsar la ciencia, la tecnología e innovación, en el que participen los sectores públicos, científico-académico, social y privado; y
+XXIII. Establecer la integración y funciones del Consejo General para impulsar la ciencia, la tecnología e innovación, en el que participen los sectores públicos, científico-académico, social y privado;
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-XXIV. Promover el acceso a la regulación y otorgamiento de patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas.
+XXIV. Promover el acceso a la regulación y otorgamiento de patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XXV. Fomentar el uso ético de la ciencia, la tecnología, la inteligencia artificial, la robótica y las innovaciones en general.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
@@ -267,7 +271,9 @@ III. Por los titulares de la Administración Pública Estatal, los titulares de 
 
 a) La Secretaría de Finanzas y Tesorería General del Estado;
 
-b) La Secretaría de Economía y Trabajo;
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+b) La Secretaría de Economía;
 
 c) La Secretaría de Educación;
 
@@ -275,15 +281,23 @@ d) Secretaría de Seguridad Pública;
 
 e) Secretaría de Salud;
 
-f) Secretaría de Infraestructura;
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-g) Secretaría de Desarrollo Social;
+f) Secretaría de Movilidad y Planeación Urbana;
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+g) Secretaría de Igualdad e Inclusión;
 
 h) Secretaría de Administración;
 
-i) Secretaría de Desarrollo Sustentable; y
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-j) Secretaría de Desarrollo Agropecuario y Directores generales o equivalentes de organismos públicos descentralizados de participación ciudadana cuyas atribuciones consideren actividades de CTI.
+i) Secretaría de Medio Ambiente; y
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+j) Secretaría de Desarrollo Regional y Agropecuario y Directores generales o equivalentes de organismos públicos descentralizados de participación ciudadana cuyas atribuciones consideren actividades de CTI.
 
 IV. Por el sector académico y científico, los rectores de la Universidad Autónoma de Nuevo León, del Instituto Tecnológico y de Estudios Superiores de Monterrey, de la Universidad de Monterrey, y de la Universidad Regiomontana; el Presidente del Consejo Nuevo león para la Planeación; y al menos 2 investigadores de la Entidad que pertenezcan al Sistema Nacional de Investigadores;
 
@@ -345,13 +359,21 @@ XI. Revisar y aprobar en el PROCTEINL las áreas prioritarias y los proyectos es
 
 XII. Proponer a su consideración para que emita sus recomendaciones en el proyecto de presupuesto consolidado de ciencia, tecnología e innovación que será incluido, en los términos de las disposiciones aplicables, en el Proyecto de Presupuesto de Egresos del Estado;
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-XIII. Emitir anualmente un informe general acerca del estado que guarda la ciencia, la tecnología y la innovación en Nuevo León, cuyo contenido deberá incluir la definición de áreas estratégicas y programas prioritarios; así como los aspectos financieros, resultados y logros obtenidos en este sector; y
+XIII. Emitir anualmente un informe general acerca del estado que guarda la ciencia, la tecnología y la innovación en Nuevo León, cuyo contenido deberá incluir la definición de áreas estratégicas y programas prioritarios; así como los aspectos financieros, resultados y logros obtenidos en este sector;
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-XIV. Proponer esquemas generales de organización para la coordinación y vinculación de las actividades de investigación, desarrollo tecnológico e innovación en los diferentes sectores de la Administración Pública Estatal y con los diversos sectores productivos y de servicios del Estado.
+XIV. Proponer esquemas generales de organización para la coordinación y vinculación de las actividades de investigación, desarrollo tecnológico e innovación en los diferentes sectores de la Administración Pública Estatal y con los diversos sectores productivos y de servicios del Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XV. Proponer estrategias para el uso ético y responsable de la inteligencia artificial, la ciencia, la tecnología y la innovación; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XVI. Proponer acciones con perspectiva de género para impulsar la participación científica, tecnológica y de innovación.
 
 Las demás que se establezcan en otras disposiciones jurídicas y en las Reglas de Organización y Funcionamiento que expida el propio Consejo General.
 
@@ -413,11 +435,15 @@ Así mismo, las dependencias y entidades de la Administración Pública Estatal 
 
 Para el debido cumplimiento del PROCTEINL, en concordancia con el objeto y objetivos de la presente Ley, y en el ámbito de sus respectivas competencias, corresponderá:
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-I. A la Secretaría de Economía y Trabajo: coadyuvar en la promoción y financiamiento de programas de impulso y apoyo dentro del PROCTEINL para:
+I. A la Secretaría de Economía: coadyuvar en la promoción y financiamiento de programas de impulso y apoyo dentro del PROCTEINL para:
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 a. Desarrollos tecnológicos e innovaciones para el sector productivo, especialmente para micro, pequeñas y medianas empresas; y
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 b. La Conformación de centros de incubación de empresas del conocimiento, empresas especializadas en vinculación y empresas de base tecnológica.
 
@@ -755,13 +781,17 @@ XVIII. Aportar recursos a las instituciones académicas, centros de investigaci�
 
 XIX. La vinculación entre los estudios científicos y la innovación tecnológica con las diversas empresas o sectores que permita (sic) fortalecerlos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-XX. Promover y apoyar la cultura de la creatividad y la innovación científica y tecnológica en la sociedad nuevoleonesa y en los diversos sectores productivos del Estado, realizando actividades de difusión y divulgación y el fomento a las vocaciones científico-tecnológicas; y
+XX. Promover y apoyar la cultura de la creatividad y la innovación científica y tecnológica en la sociedad nuevoleonesa y en los diversos sectores productivos del Estado, realizando actividades de difusión y divulgación y el fomento a las vocaciones científico-tecnológicas;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-XXI. Las demás que deriven de esta Ley, así como las que se establezcan en otras leyes y su Reglamento Interior.
+XXI. Promover y fomentar la igualdad sustantiva en el apoyo, reconocimiento, participación y desarrollo de la ciencia, tecnología e innovación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XXII. Las demás que deriven de esta Ley, así como las que se establezcan en otras leyes y su Reglamento Interior.
 
 ###### Artículo 27.
 
@@ -839,17 +869,21 @@ III. Un representante de cada una de las dependencias y entidades de la Administ
 
 a) Secretaría de Finanzas y Tesorería General de (sic) Estado;
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-b) Secretaría de Economía y Trabajo;
+b) Secretaría de Economía;
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-c) Secretaría de Educación; y
+c) Secretaría de Educación;
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-d) Secretaría General de Gobierno.
+d) Secretaría General de Gobierno; y
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+e) Secretaría de Trabajo.
 
 IV. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2021)
 
@@ -1180,3 +1214,9 @@ SEGUNDO. En un plazo de 180 días hábiles a partir de la entrada en vigor del p
 TERCERO. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal correspondiente, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 
 En todo momento, el cumplimiento a las acciones emanadas del presente Decreto, estarán sujetas a las capacidades económicas, fiscales y financieras del Gobierno del Estado tomando en cuenta el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 138. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
