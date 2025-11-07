@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2025-02-04"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -2025,77 +2025,129 @@ XXIII. Las demás que la ley le señale o le asignen el Gobernador del Estado y 
 
 De la Secretaría de Cultura
 
-> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 32 Sexies.
 
-La Secretaría de Cultura es la dependencia responsable de promover, impulsar y difundir la diversidad cultural de las regiones de la entidad; así como de la conservación, salvaguarda y el incremento del patrimonio cultural, histórico y artístico del Estado; y de la formación, el desarrollo artístico y cultural del Estado; e impulsar a las industrias culturales y creativas locales; de conformidad con lo dispuesto por esta Ley y demás disposiciones legales aplicables.
+La Secretaría de Cultura es la dependencia responsable de elaborar y conducir la política estatal en materia de Cultura, con la participación que corresponda a otras dependencias y entidades de la Administración Pública Estatal, así como a los municipios y la comunidad cultural en la Entidad.
 
-> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 32 Septies.
 
-Son atribuciones de la persona titular de la Secretaría de Cultura, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+Son atribuciones de la persona titular de la Secretaría de Cultura, de conformidad con lo dispuesto por esta Ley, las demás disposiciones legales aplicables y conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
-I. Formular, promover, ejecutar, coordinar y supervisar las políticas y programas culturales del Gobierno del Estado;
+I. Formular, ejecutar, instrumentar, coordinar, supervisar y promover las políticas públicas en materia de Cultura que establezca la persona titular del Poder Ejecutivo del Estado, en concordancia con el Plan Estatal de Desarrollo y los contenidos e instrumentos programáticos y sectoriales que de éste deriven;
 
-II. Ejecutar las acciones relativas a la promoción y difusión de las manifestaciones culturales y artísticas;
+II. Promover, impulsar y difundir, en el contexto de la cultura nacional, la ejecución de acciones y medios a favor del desarrollo y la difusión de la Cultura en la Entidad, con específica atención en:
 
-III. Realizar acciones para incrementar, salvaguardar y conservar del (sic) patrimonio artístico, histórico y cultural;
+a) La conservación, preservación, salvaguarda, protección e incremento del patrimonio cultural, histórico y artístico del Estado:
 
-IV. Promover, en coordinación con los Ayuntamientos, las instituciones públicas y sociedad civil organizada, el establecimiento de museos, centros culturales y casas de cultura;
+b) La formación y el desarrollo artístico y cultural del Estado;
 
-V. Realizar la edición y distribución de obras literarias, pedagógicas e históricas que contribuyan al conocimiento y al desarrollo cultural y artístico del Estado;
+c) La diversidad cultural de las regiones y localidades de la entidad, en todas sus manifestaciones;
 
-VI. Promover, coordinar y realizar eventos que difundan las diversas manifestaciones de la cultura y las artes en el Estado, en el país y en el extranjero;
+d) El impulso de las industrias, empresas y asociaciones culturales y creativas locales:
 
-VII. Incentivar, apoyar y coadyuvar con instancias de los tres órdenes de gobierno, colectivos ciudadanos e iniciativa privada, la distribución, programación y promoción de la cinematografía local, nacional e internacional;
+e) La contribución al desarrollo de la diversidad cultural mediante el financiamiento a proyectos culturales comunitarios que estimulen la creatividad, la autogestión y los procesos de investigación;
 
-VIII. Impulsar programas, proyectos y acciones orientadas a promover, proteger y garantizar los derechos culturales de la sociedad, especialmente los de las personas en condiciones de vulnerabilidad;
+f) La planificación de programas, proyectos y acciones orientadas a conocer, preservar, salvaguardar y difundir el conjunto de manifestaciones que constituyen el patrimonio cultural material e inmaterial, así como biocultural, del Estado, procurando en todo momento que la definición de dichas prácticas y la importancia de su preservación sea decidida libremente por quienes las realizan; y
 
-IX. Procurar que los servicios culturales que brinda el Estado lleguen a todas las regiones de la entidad;
+g) El reconocimiento y apoyo a aquellos proyectos que contribuyan al desarrollo cultural, en un marco de respeto a la libertad de expresión.
 
-X. Realizar acciones de conservación, mantenimiento y restauración a los monumentos artísticos e históricos, en coadyuvancia con instancias de los tres órdenes de gobierno, en apego a las reglas, políticas y procedimientos que regulan el manejo, custodia, resguardo, aseguramiento y valuación del patrimonio cultural material del Gobierno del Estado y los municipios;
+III. Participar, conjuntamente con los tres órdenes de gobierno y con respeto a las respectivas órbitas de competencia que establezcan las disposiciones aplicables, en la instrumentación de políticas culturales y prestación de servicios públicos que tengan por objeto armonizar, alinear y fortalecer los principios constitucionales de unidad nacional y diversidad local y regional, en materia de Cultura;
 
-XI. Mejorar la infraestructura cultural con acciones de mantenimiento, conservación, restauración, ampliación y equipamiento a inmuebles destinados a usos culturales propiedad del Gobierno del Estado, observando la normatividad aplicable;
+IV. Aplicar las disposiciones que en materia de Cultura disponga la legislación estatal, así como las de naturaleza concurrente previstas en las leyes federales, y aquellas que por competencia, delegación o convenio le correspondan;
 
-XII. Administrar, organizar, programar, promover y difundir las actividades, exposiciones y eventos artísticos que se realicen en los museos, galerías, centros culturales y teatros adscritos a la Secretaría de Cultura;
+V. Coordinar, de conformidad con las disposiciones aplicables, las acciones de orden cultural que realizan las dependencias centralizadas y entidades paraestatales de la Administración Pública Estatal en las materias de:
 
-XIII. Promover la formación artística mediante una oferta de enseñanza formal y no formal, diseñando y desarrollando programas de formación y desarrollo artístico y cultural, capacitación y actualización de personas creadoras artísticas, gestoras, promotoras culturales, docentes y público en general;
+a) Investigación científica sobre Antropología e Historia relacionada principalmente con la población del Estado y con la conservación y restauración del patrimonio cultural, arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de dichas materias,
 
-XIV. Impulsar la sensibilización y la iniciación artística de la sociedad veracruzana, como una estrategia para garantizar el acceso de las personas al goce y la recreación de los lenguajes artísticos;
+b) Cultivo, fomento, estimulo, creación, educación profesional, artística y literaria, investigación y difusión de las artes en las ramas de la música, las artes plásticas, las artes dramáticas, la danza, las letras en todos sus géneros, y la arquitectura;
 
-XV. Impulsar la creación de nuevos públicos para el arte y fomentar la comprensión y disfrute de las manifestaciones artísticas por parte de la población de la entidad veracruzana y sus visitantes;
+c) Realización, promoción, fomento, divulgación y difusión de actividades de investigación, documentación e información de las manifestaciones artísticas y culturales que inciden en el desarrollo de la sociedad veracruzana;
 
-XVI. Promover, fomentar y realizar actividades de investigación, documentación e información de las manifestaciones artísticas y culturales que inciden en el desarrollo de la sociedad veracruzana;
+d) Edición y distribución de obras literarias, pedagógicas e históricas que contribuyan al conocimiento y al desarrollo cultural y artístico del Estado:
 
-XVII. Coordinar y realizar acciones de formación de personas instructoras y promotoras culturales en el ámbito del desarrollo cultural de las infancias y juventudes;
+e) Fomento del hábito de la lectura, mediante programas institucionales que consideren la capacitación de mediadores de lectura, la realización de círculos de lectura, salas de lectura y ferias del libro, y la publicación de obras literarias, pedagógicas e históricas, en coordinación con las instancias federales, estatales y municipales, así como con entidades educativas y culturales de carácter público y privado:
 
-XVIII. Desarrollar programas, proyectos y acciones orientados a la formación de las infancias y las juventudes como público de las artes garantizando su acceso al goce de los bienes que integran el patrimonio cultural de la humanidad;
+f) Realización, coordinación y promoción de eventos y acciones que difundan las diversas manifestaciones de la cultura y las artes en el Estado, en el país y en el extranjero:
 
-XIX. Fortalecer el perfil profesional de las y los creadores artísticos de la entidad mediante plataformas de formación orientados a la profesionalización, impulsando su inclusión en esquemas de distribución, promoción y difusión de las artes;
+g) Impulso de programas, proyectos y acciones orientadas a promover, proteger y garantizar los derechos culturales de la sociedad, especialmente los de las personas en condiciones de vulnerabilidad:
 
-XX. Estimular la creación y el desarrollo artístico de la comunidad creadora del Estado a través de programas de estímulos orientados al desarrollo y profesionalización de las y los creadores, intérpretes, investigadores y promotores culturales, a través de estímulos económicos a proyectos culturales, que se otorguen mediante su participación en convocatorias públicas a nivel estatal;
+h) Actuación permanente para que los servicios culturales que brinda el Estado lleguen a todas las regiones y localidades de la entidad;
 
-XXI. Proponer acciones de colaboración con instancias y Dependencias de los tres órdenes de gobierno, así como entidades educativas y culturales de carácter público y privado para el cumplimiento de los fines de la Secretaría de Cultura;
+i) Promoción e impulso del uso de las tecnologías de la información y comunicación para la difusión y desarrollo de la cultura, así como de los bienes y servicios culturales que presta el Estado, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa, conforme a las disposiciones aplicables; y
 
-XXII. Promover la formación de intérpretes y docentes de educación artística de nivel técnico, así como la enseñanza, creación y difusión de la música a través de la Escuela Libre de Música;
+j) Programación y aplicación de acciones culturales de carácter comunitario en aquellos municipios donde se identifiquen problemáticas sociales específicas.
 
-XXIII. Fomentar el hábito de la lectura mediante un programa que contemple la capacitación de mediadores de lectura, la realización de circules de lectura, salas de lectura y ferias del libro, y la publicación de obras literarias, pedagógicas e históricas, en coordinación con las instancias federales, estatales y municipales, así como con entidades educativas y culturales de carácter público y privado;
+VI. Organizar, administrar, sostener, impulsar y promover, en coordinación con las instituciones públicas del gobierno federal, del Estado y de los gobiernos municipales, así como con aquellas de la sociedad civil organizada, las acciones necesarias para el fin de cuidar la integridad, mantenimiento y conservación de tesoros históricos, artísticos y de todos aquellos bienes que constituyan el patrimonio cultural del Estado, mediante:
 
-XXIV. Planificar programas, proyectos y acciones orientadas a conocer, preservar, salvaguardar y difundir el conjunto de manifestaciones que constituyen el patrimonio cultural inmaterial y biocultural del Estado, procurando en todo momento que la definición de dichas prácticas y la importancia de su preservación sea decidida libremente por quienes las realizan;
+a) El establecimiento de museos, centros culturales y casas de cultura, de orden histórico, arqueológico y artístico, al igual que pinacotecas y galerías; y
 
-XXV. Promover la profesionalización de las y los emprendedores culturales y creativos de la entidad, brindando capacitación, asesoría y estímulos para la creación y consolidación de micro y pequeñas empresas de base creativa y cultural;
+b) La existencia y creación de bibliotecas públicas y museos de diversa índole cultural, así como la realización de exposiciones artísticas, congresos y otros eventos de interés cultural.
 
-XXVI. Fortalecer, en el ámbito de su competencia, los procesos de valoración, creación, distribución, comercialización, promoción y difusión de productos artesanales elaborados con materiales y técnicas tradicionales;
+VII. Conservar, preservar, restaurar, ampliar, equipar, mantener y mejorar los inmuebles destinados a usos culturales propiedad del Gobierno del Estado, observando la normatividad aplicable:
 
-XXVII. Acordar con las Dependencias y entidades educativas, culturales y de desarrollo social, de carácter público y privado, programas, proyectos y acciones destinadas a contribuir al desarrollo de la diversidad cultural mediante el financiamiento a proyectos culturales comunitarios que estimulen la creatividad, la autogestión y los procesos de investigación;
+VIII. Administrar, organizar, programar, promover y difundir las actividades, exposiciones y eventos artísticos que se realicen en los museos, bibliotecas, pinacotecas, galerías, centros culturales y teatros adscritos a esta Secretaría;
 
-XXVIII. Impulsar la formación y actualización de personas gestoras culturales, mediante diplomados, cursos y talleres donde adquieran los recursos, estrategias y conceptos para generar proyectos que respondan a las necesidades e intereses de la comunidad a la que pertenecen;
+IX. Diseñar, en colaboración con la Secretaría de Educación del Estado, los programas de educación artística y estudios culturales que se impartan a todos los niveles en las escuelas e institutos públicos, incorporados o reconocidos, para la enseñanza y difusión de todas las bellas artes y las artes tradicionales o populares;
 
-XXIX. Reconocer y apoyar aquellos proyectos que contribuyan al desarrollo cultural, en un marco de respeto a la libertad de expresión; y
+X. Diseñar, coordinar e impartir programas, cursos, acciones y proyectos, para:
 
-XXX. Establecer líneas y acciones de coadyuvancia con otras Dependencias y organismos autónomos a fin de promover el arte y la cultura en el Estado.
+a) La formación artística, mediante procesos institucionales de enseñanza-aprendizaje de educación formal y no formal:
+
+b) El ofrecimiento de programas de formación y desarrollo artístico y cultural, capacitación y actualización de personas creadoras artísticas, gestoras, promotoras culturales, docentes y público en general;
+
+c) El impulso para la formación y actualización de personas gestoras culturales, mediante diplomados, cursos y talleres que les permitan adquirir los recursos, estrategias y conceptos para generar proyectos que respondan a las necesidades e intereses de la comunidad a la que pertenecen;
+
+d) Impulsar la sensibilización y la iniciación artística de la sociedad veracruzana, como una estrategia para garantizar el acceso de las personas al goce y la recreación de los lenguajes artísticos;
+
+e) La formación de personas instructoras y promotoras culturales en el ámbito del desarrollo cultural de las infancias y juventudes:
+
+f) La formación de los niños, niñas, adolescentes y jóvenes como público de las artes, garantizando su acceso al goce de los bienes que integran el patrimonio cultural de la humanidad; y
+
+g) La formación de intérpretes y docentes de educación artística de nivel técnico, así como la enseñanza, creación y difusión de la música a través de la Escuela Libre de Música.
+
+XI. Diseñar, elaborar y ejecutar los instrumentos de orden programático y sectorial, así como los de carácter estratégico, necesarios para conservar, promover y difundir la cultura, la historia y las artes, así como impulsar la formación de nuevos públicos, en un marco de participación corresponsable de los sectores público, social y privado;
+
+XII. Coadyuvar en la promoción, difusión y conservación de las lenguas indígenas, las manifestaciones culturales, las creaciones en lenguas indígenas, así como los derechos culturales y de propiedad que de forma comunitaria detentan sobre sus creaciones artísticas los pueblos y comunidades indígenas y afromexicanas, en su condición de sujetos de derecho público con personalidad jurídica y patrimonio propio, observando lo dispuesto en los artículos 2° de la Constitución Federal, y 5 y 10 de la Constitución Local, así como en las leyes que de una y otra deriven;
+
+XIII. Promover e impulsar la investigación, conservación y promoción de la historia, las tradiciones y las artes populares;
+
+XIV. Fortalecer, en el ámbito de su competencia, los procesos de valoración, creación, distribución, comercialización, promoción y difusión de productos artesanales elaborados con materiales y técnicas tradicionales;
+
+XV. Participar y contribuir en la conservación, protección, salvaguarda y mantenimiento de los monumentos arqueológicos, históricos y artísticos que conforman el patrimonio cultural del Estado, en concordancia con las autoridades de los distintos órdenes de gobierno y con pleno respeto a las previsiones de competencia y jurisdicción que establecen las disposiciones legales aplicables, por cuanto a los procedimientos relativos al manejo, custodia, resguardo, aseguramiento y valuación del patrimonio cultural material del Gobierno del Estado y los municipios;
+
+XVI. Promover la producción cinematográfica, audiovisual, de radio y televisión y en la industria editorial, alentando en ellas la inclusión de temas de interés cultural y artístico y de aquellas tendientes al mejoramiento cultural y la propiedad de las lenguas nacionales, así como diseñar, promover y proponer directrices culturales y artísticas en dichas producciones;
+
+XVII. Coadyuvar con las estaciones radiodifusoras y televisoras que el Ejecutivo Estatal opere en propiedad, convenio, concesión o por cualquier otra vía jurídica legalmente aplicable, de conformidad con la legislación federal y estatal de la materia, y que transmitan programación con contenido preponderantemente cultural, con exclusión de las que dependan de otras dependencias;
+
+XVIII. Fortalecer el perfil profesional de las y los creadores artísticos de la entidad mediante plataformas de formación orientados a la profesionalización, impulsando su inclusión en esquemas de distribución, promoción y difusión de las artes;
+
+XIX. Estimular la creación y el desarrollo artístico de la comunidad creadora del Estado a través de programas de estímulos orientados al desarrollo y profesionalización de las y los creadores, intérpretes, investigadores y promotores culturales, a través de estímulos económicos a proyectos culturales, que se otorguen mediante su participación en convocatorias públicas a nivel estatal;
+
+XX. Estimular el desarrollo y mejoramiento del teatro en el Estado, así como organizar concursos para autores, actores y escenógrafos;
+
+XXI. Otorgar becas para los estudiantes que traten de realizar investigaciones o completar ciclos de estudios relacionados con las artes y los estudios culturales, tanto en el país como en el extranjero, así como promover acuerdos de colaboración para el intercambio cultural y artístico;
+
+XXII. Fomentar las relaciones de orden cultural con el gobierno federal, el de los gobiernos estatales y municipales, otras entidades federativas e instituciones públicas y privadas, nacionales o internacionales, para el fin de facilitar y participar en la celebración de convenios de intercambio en materia cultural y proyectar la cultura del Estado, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
+
+XXIII. Ejercer todas las atribuciones que la legislación estatal y demás disposiciones aplicables establecen respecto de monumentos arqueológicos, artísticos e históricos, así como los relativos a las zonas de monumentos arqueológicos, artísticos e históricos del Estado;
+
+XXIV. Organizar, controlar y mantener actualizado un registro de la propiedad literaria y artística del Estado, así como ejercer las facultades que la legislación federal aplicable le otorgue al gobierno de la Entidad en materia de derechos de autor y conexos;
+
+XXV. Formular el catálogo del patrimonio histórico-cultural estatal en todos sus ámbitos;
+
+XXVI. Formular y manejar el catálogo de los monumentos del Estado;
+
+XXVII. Establecer Consejos Asesores, de carácter interinstitucional, en los que también podrán participar especialistas en las materias competencia de la Secretaría;
+
+XXVIII. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con instituciones públicas y privadas, nacionales e internacionales, cuya esfera de acción sea sustantivamente en materia de Cultura, de conformidad con las disposiciones legales aplicables;
+
+XXIX. Promover la profesionalización de las y los emprendedores culturales y creativos de la entidad, brindando capacitación, asesoría y estímulos para la creación y consolidación de micro y pequeñas empresas de base creativa y cultural; y
+
+XXX. Recibir, en atención a lo dispuesto por los artículos 4 de la Constitución Federal, 72 párrafo segundo de la Constitución Local, y 4 del Código Financiero del Estado, de forma directa y sin fines de lucro, cuotas de recuperación, donativos, apoyos diversos y demás intercambios de naturaleza análoga, en numerario o especie, u otros en forma de servicios personales a título gratuito. En todos los casos, su recepción estará ajustada estrictamente a la realización de acciones de conservación, preservación y protección, promoción, difusión y divulgación, del patrimonio cultural y demás bienes culturales, materiales o inmateriales, tangibles o intangibles, bajo el cuidado y responsabilidad de la dependencia, así como de los recintos a su cargo, con el fin de destinarlos a promover acciones que beneficien a la comunidad artística e impulsen la transmisión y expansión de la producción cultural en su más amplio sentido, con pleno respeto a la propiedad intelectual y derechos de autor que establece la legislación aplicable, en el marco del derecho humano de acceso a la cultura en beneficio de la población. De igual forma, tratándose de personas físicas o morales, públicas o privadas, de orden municipal, estatal, federal o internacional, dedicadas sustantivamente a realizar actividades como las antes señaladas, la Secretaría podrá autorizar el uso de sus instalaciones y recintos, a título gratuito y sin ánimo de lucro de todas las partes que intervengan, previa solicitud y dictamen justificativo sobre las acciones y actividades culturales a realizar, en beneficio de la ciudadanía. En ningún (sic) de los casos anteriores y con motivo de lo expuesto, procederá la enajenación definitiva a título oneroso o gratuito, ni bajo cualquier título diverso, de los bienes bajo el cuidado, posesión, administración o propiedad de la dependencia.
 
 De la Contraloría General
 
@@ -3108,3 +3160,11 @@ Segundo. Quedan sin efecto todas las disposiciones que contravengan el presente 
 Tercero. A partir de la entrada en vigor del presente Decreto, las dependencias y entidades contarán con un término de ciento ochenta días naturales para realizar los ajustes o modificaciones a su normatividad.
 
 Cuarto. A partir de la entrada en vigor del presente Decreto, toda obra pública y servicios relacionados con la misma de las dependencias y entidades del Poder Ejecutivo del Estado se ejecutará por la SIOP en términos de lo previsto en la Ley de Obras Públicas y Servicios Relacionados con Ellas, debiéndose firmar los correspondientes acuerdos.
+
+G.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 269 POR EL QUE SE REFORMA LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en (sic) Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
