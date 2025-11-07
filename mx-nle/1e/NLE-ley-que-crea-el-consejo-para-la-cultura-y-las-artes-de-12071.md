@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-para-la-cultura-y-las-artes-de-12071"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-07"
-last_updated: "2025-01-15"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de junio de 1995.
 
@@ -173,7 +173,9 @@ f) El Secretario de Educación o su representante.
 
 g) Un representante de la Sociedad Civil.
 
-El Presidente, el Secretario Técnico y los vocales a que se refieren los incisos a), b), c) y g) serán nombrados por el Gobernador del Estado, previa consulta pública o privada que realice entre la comunidad cultural y los miembros del Consejo. Los nombramientos se harán respecto de personas reconocidas por su compromiso con la cultura, por su solvencia moral y por su trabajo personal.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+El Presidente, el Secretario Técnico y los vocales a que se refieren los incisos a), b), c) y g) serán nombrados por el Gobernador del Estado, previa consulta pública o privada que realice entre la comunidad cultural y los miembros del Consejo. Los nombramientos se harán observando el principio de paridad de género y respecto de personas reconocidas por su compromiso con la cultura, por su solvencia moral y por su trabajo personal.
 
 Los vocales representantes de la comunidad artística mencionados en el inciso d) serán elegidos democráticamente por los artistas de cada disciplina, en los términos previstos por el Reglamento Interno.
 
@@ -434,3 +436,9 @@ P.O. 15 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 026. SE REFORMA EL ARTÍCULO 2° DE LA LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entra en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 137. SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 8, ASÍ COMO EL ARTÍCULO 9 DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE; SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 14 Y EL ARTÍCULO 24 DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 Y LA FRACCIÓN VII DEL ARTÍCULO 13 DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5 DE (SIC) LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEON".]
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
