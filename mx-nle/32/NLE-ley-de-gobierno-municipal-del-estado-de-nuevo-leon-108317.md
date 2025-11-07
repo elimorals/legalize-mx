@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2024-12-30"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -291,6 +291,12 @@ Para cumplir lo establecido en este artículo, el Ayuntamiento contará con un p
 
 A fin de proteger los derechos y obligaciones de pagos que tiene pendiente la Administración Pública Municipal, en la primera semana del mes de septiembre, previo a la instalación del Ayuntamiento entrante, el Ayuntamiento saliente está obligado a colaborar con aquel, a efecto de convalidar las firmas de los futuros servidores públicos que se autorizarán en las cuentas bancarias para la expedición de cheques, mismos que cobrarán vigencia y por tanto sólo podrán ejercerse por el servidor público de que se trate, a partir del día 30 de septiembre siguiente.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 32 BIS.- El incumplimiento de las disposiciones contenidas en el presente Capítulo, será sancionado en términos de la Ley de Responsabilidades Administrativas del Estado, sin perjuicio de lo que dispongan otros ordenamientos.
+
+Si del análisis del proceso de la entrega recepción se estima la comisión de un delito, el Órgano Interno de Control deberá presentar la denuncia ante el Ministerio Público.
+
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
 ###### ARTÍCULO 33.
@@ -361,7 +367,13 @@ t) Podrá aprobar, la creación de un Órgano de Justicia Cívica Municipal para
 
 II. En materia de servicios públicos:
 
-a) Establecer los criterios y lineamientos para la prestación, en su circunscripción territorial, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y de la presente Ley, los servicios públicos de agua potable, drenaje y alcantarillado; tratamiento y disposición de sus aguas residuales; alumbrado público; limpia, recolección, traslado, tratamiento y disposición final de residuos; mercados y centrales de abastos; panteones; rastro; calles, parques, jardines y su equipamiento; Seguridad Pública Municipal, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y Tránsito Municipal; así como los demás que se determinen conforme a los ordenamientos señalados. Para tal efecto, en los casos en que los Municipios no cuenten con los reglamentos correspondientes, se estará a lo dispuesto por la presente Ley y por las demás disposiciones aplicables estando obligado en todo momento a observar los tratados internacionales en materia de derechos humanos; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+a) Establecer los criterios y lineamientos para la prestación, en su circunscripción territorial, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y de la presente Ley, los servicios públicos de agua potable, drenaje y alcantarillado; tratamiento y disposición de sus aguas residuales; alumbrado público; limpia, recolección, traslado, tratamiento disposición (sic) residuos; centrales final mercados de y de y (sic) abastos; panteones; rastro; calles, parques, jardines y su equipamiento; Protección Civil; Seguridad Pública Municipal, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y Tránsito Municipal; así como los demás que se determinen conforme a los ordenamientos señalados. Para tal efecto, en los casos en que los Municipios no cuenten con los reglamentos correspondientes, se estará a lo dispuesto por la presente Ley y por las demás disposiciones aplicables estando obligado en todo momento a observar los tratados internacionales en materia de derechos humanos; y
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Tratándose del servicio de alumbrado público los ayuntamientos podrán promover la implementación de sistemas o dispositivos de alta eficiencia energética en las obras públicas de infraestructura y equipamiento urbano, así como la utilización de energías renovables.
 
 b) Aprobar el otorgamiento de la concesión de los servicios públicos, con excepción de los de Seguridad Pública, Transporte Colectivo y Tránsito Municipal.
 
@@ -441,9 +453,17 @@ c) Promover la instrucción cívica de los habitantes;
 
 d) Establecer criterios para apoyar, en la medida de las posibilidades, a las instituciones que prestan servicios de beneficencia, así como a los programas de asistencia social;
 
-e) Establecer normas de carácter general, para prevenir las emergencias y contingencias, así como dar respuesta a las situaciones de riesgo que pudieran presentarse en el ámbito de su competencia; y
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-f) Promover los medios de transporte que fomenten la movilidad sustentable, procurando reducir la congestión vial y el consumo de combustibles contaminantes, mediante el impulso al uso de vehículos de propulsión humana o alternativa, tales como la bicicleta, el patinete, el ciclomotor eléctrico, los automóviles híbridos y eléctricos, entre otros.
+e) Establecer normas de carácter general, para prevenir las emergencias y contingencias, así como dar respuesta a las situaciones de riesgo que pudieran presentarse en el ámbito de su competencia;
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+f) Promover los medios de transporte que fomenten la movilidad sustentable, procurando reducir la congestión vial y el consumo de combustibles contaminantes, mediante el impulso al uso de vehículos de propulsión humana o alternativa, tales como la bicicleta, el patinete, el ciclomotor eléctrico, los automóviles híbridos y eléctricos, entre otros; y
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+g) Promover el interés por la ciencia, la tecnología y las actitudes que estimulen la investigación, la innovación científica y tecnológica en niñas, niños y adolescentes.
 
 VII. En materia de Participación Ciudadana:
 
@@ -467,7 +487,9 @@ VIII. En materia de Cultura Municipal:
 
 a) Promover y difundir la cultura y la identidad de la comunidad en el ámbito municipal;
 
-b) Organizar la educación artística en el ámbito municipal, fortalecer las bibliotecas públicas y apoyar los museos municipales, exposiciones artísticas y otros eventos de interés cultural;
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+b) Organizar la educación artística en el ámbito municipal, fortalecer, rehabilitar, equipar y modernizar las instalaciones y actualizar el acervo cultural, documental, bibliográfico, hemerográfico, auditivo, visual de las bibliotecas públicas y apoyar los museos municipales, exposiciones artísticas y otros eventos de interés cultural.
 
 c) Fomentar las relaciones de orden cultural a nivel nacional e internacional, pudiendo coordinarse con la autoridad federal competente;
 
@@ -745,6 +767,10 @@ II. Cuando los asistentes no guarden el orden debido, por lo cual la sesión con
 
 III. Las que el Ayuntamiento considere justificadamente que deban ser privadas, entre otras, en materia de seguridad, las cuales serán calificadas por el propio Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Las sesiones del Ayuntamiento, así como sus comisiones serán públicas, documentadas, video grabadas y archivadas para posterior consulta pública. Para los municipios con población mayor a 20 mil habitantes deberán ser transmitidas en tiempo real y difundidas a través del portal oficial de Internet del Municipio.
+
 ###### ARTÍCULO 47.
 
 Para que las sesiones sean válidas, se requiere que sean citados por escrito o en otra forma indubitable todos los miembros del Ayuntamiento, con un mínimo de veinticuatro horas de anticipación, por el Presidente Municipal o el Secretario del Ayuntamiento; éste último tendrá que cerciorarse de la recepción de la convocatoria.
@@ -774,6 +800,10 @@ En el curso del primer bimestre de cada año, el Ayuntamiento debe remitir al Ar
 ###### ARTÍCULO 53.
 
 Previo acuerdo de sus miembros, en las Sesiones de Ayuntamiento deberán comparecer servidores públicos municipales, cuando se trate de asuntos de la competencia de los comparecientes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 53 BIS.- En las sesiones de las comisiones y del pleno del Ayuntamiento, previa su deliberación, sus integrantes deberán manifestar cuando se trate algún asunto, si tienen conflicto de interés, ya sea personal, familiar o de negocios, en los términos de la legislación en materia de responsabilidades administrativas.
 
 ### CAPÍTULO X. DE LAS VOTACIONES
 
@@ -1533,6 +1563,10 @@ ARTÍCULO 110 BIS V.- El área encargada del cuidado y protección de parques y 
 
 EN LOS MUNICIPIOS CON MÁS DE CIEN MIL HABITANTES, EL ÁREA TENDRÁ EL NIVEL DE SECRETARÍA O DE DIRECCIÓN GENERAL. EN LOS DEMÁS MUNICIPIOS DICHA ÁREA TENDRÁ EL NIVEL DE ACUERDO CON SUS POSIBILIDADES PRESUPUESTALES.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Dicha área deberá desarrollar y actualizar anualmente un Programa Municipal de Parques y Jardines, en el que se establezcan las acciones concretas de rehabilitación, equipamiento y mantenimiento.
+
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE FEBRERO DE 2022)</small>
 
 #### SECCIÓN VIII. DE LA PROMOCIÓN Y PROTECCIÓN DE LA MUJER
@@ -1681,9 +1715,11 @@ Para la extinción de fideicomisos públicos deberá fungir como órgano liquida
 
 El Cronista Municipal es el ciudadano que por encargo del Ayuntamiento tiene como labor fundamental el registro de sucesos notables acaecidos dentro de la circunscripción territorial del Municipio, así como investigar, sistematizar, publicar, conservar, exponer y promover la cultura, las tradiciones e historia del Municipio.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 121.
 
-El Cronista Municipal será nombrado por el Ayuntamiento, a propuesta del Presidente Municipal, dicho cargo será honorifico, la Administración Pública Municipal le prestará todas las facilidades materiales y económicas que sean necesarias para el cumplimiento de su labor; contará con los recursos que se deriven del trabajo coordinado con las instituciones públicas y privadas que tengan injerencia en la investigación, acervo y difusión de las culturas municipales.
+El Cronista Municipal será nombrado por el Ayuntamiento, a propuesta del Presidente Municipal, por el tiempo que dure el Ayuntamiento, con posibilidad de ser ratificado. Dicho cargo podrá ser honorífico.
 
 ###### ARTÍCULO 122.
 
@@ -1713,9 +1749,29 @@ VII. Coadyuvar en el fomento y difusión de eventos culturales, tradiciones y co
 
 VIII. Promover la inserción en los medios de comunicación de noticias, boletines y reportajes sobre el Municipio y sus instituciones;
 
-IX. Emitir opiniones cuando las autoridades así lo requieran sobre acontecimientos históricos del Municipio; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-X. Las demás que el Ayuntamiento le asigne.
+IX. Emitir opiniones cuando las autoridades así lo requieran sobre acontecimientos históricos del Municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+X. Elaborar el inventario de monumentos arqueológicos, históricos y artísticos localizados en el municipio;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XI. Opinar sobre la preservación, restauración y modificación de monumentos históricos, edificios, jardines, calles o plazas, con objeto de que conserven su valor histórico y cultural;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XII. Presentar anualmente a la Secretaria del Ayuntamiento, un Plan de Trabajo para el desarrollo de sus funciones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XIII. Las demás que el Ayuntamiento le asigne.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 123 BIS.- La Administración Pública Municipal proporcionará al Cronista Municipal las facilidades que sean necesarias para el cumplimiento de su labor. En su caso, podrá contar con los recursos que se deriven del trabajo coordinado con las instituciones públicas y privadas que tengan injerencia en la investigación, acervo y difusión de las culturas municipales.
 
 ## TÍTULO QUINTO. DE LOS SERVICIOS PÚBLICOS MUNICIPALES
 
@@ -2842,3 +2898,11 @@ P.O. 30 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 022. SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 135, LA FRACCIÓN V DEL ARTICULO 137 Y EL ARTÍCULO 138 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 143. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Para efectos del cumplimiento de lo establecido en el último párrafo del Artículo 46, los municipios tendrán un plazo de 2 años, a partir de la entrada en vigor del presente decreto para grabar o transmitir las sesiones de cabildo, según corresponda; después de éste periodo contarán con 2 años más para que se graben o transmitan las sesiones de comisiones del cabildo.
