@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-67961"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2024-09-27"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2009.
 
@@ -163,9 +163,13 @@ La Legislatura del Estado expedirá las normas que se deriven de los preceptos d
 
 Para efectos de la presente Ley, son considerados tipos de violencia contra la mujer los siguientes:
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-I. Violencia Psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+I. Violencia Psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+La violencia psicológica contra la mujer puede manifestarse como consecuencia de cualquiera de los tipos de violencia reconocidos en esta Ley y también puede expresarse, entre otras formas, a través de conductas como el acecho en las que mediante el contacto repetido y no deseado hacen sentir a la víctima insegura, con miedo, ansiedad o en peligro, a tal grado que se vea obligada a cambiar su rutina, itinerario, hábitos, costumbres, número de teléfono, correo electrónico, perfiles de redes sociales, lugar de residencia o trabajo;
 
 II. Violencia física: Acto que inflige daño no accidental, en el que se utiliza alguna parte del cuerpo, objeto o arma que pueda provocar lesiones internas, externas, o ambas;
 
@@ -1546,3 +1550,13 @@ Artículo Noveno. Para los efectos legales a que haya lugar, la Secretaría de l
 Artículo Décimo. El organismo descentralizado denominado Instituto Queretano de las Mujeres, se extinguirá en los términos de las disposiciones aplicables, subrogándose en los derechos y obligaciones que el mismo hubiere adquirido con anterioridad a la entrada en vigor de la presente de la (sic) Ley, a favor del Poder Ejecutivo del Estado de Querétaro para las funciones inherentes a la Secretaría de las Mujeres.
 
 Artículo Décimo Primero. Todas las obligaciones, procedimientos jurisdiccionales pendientes de concluir, pasivos y demás cargas que a la entrada en vigor de la presente Ley estén a cargo del Instituto Queretano de las Mujeres serán asumidos por el Poder Ejecutivo del Estado de Querétaro.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO Y DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, EN MATERIA DE ACECHO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
