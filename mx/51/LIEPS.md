@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2024-12-27"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,13 +20,13 @@ abbreviation: "LIEPS"
 ---
 # LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-[NOTA 1. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE EL "ACUERDO 180/2024 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS PARA 2025", PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2024.]
+[NOTA 1. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE EL "ACUERDO POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS PARA 2026", PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2025.]
 
 [NOTA 2. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -54,8 +54,6 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 Están obligadas al pago del impuesto establecido en esta Ley, las personas físicas y las morales que realicen los actos o actividades siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 I. La enajenación en territorio nacional o, en su caso, la importación de los bienes señalados en esta Ley. Para efectos de la presente Ley se considera importación la introducción al país de bienes.
@@ -66,7 +64,9 @@ II. La prestación de los servicios señalados en esta Ley.
 
 El impuesto se calculará aplicando a los valores a que se refiere este ordenamiento, la tasa que para cada bien o servicio establece el artículo 2o. del mismo o, en su caso, la cuota establecida en esta Ley.
 
-La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación del impuesto especial sobre producción y servicios y, en su caso, pagarlo y trasladarlo, de acuerdo con los preceptos de esta Ley.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+La Federación, la Ciudad de México, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación del impuesto especial sobre producción y servicios y, en su caso, pagarlo y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -102,27 +102,33 @@ A) Bebidas con contenido alcohólico y cerveza:
 
 B) Alcohol, alcohol desnaturalizado y mieles incristalizables. 50%
 
-C) Tabacos labrados:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+C) Tabacos labrados y otros:
 
-1. Cigarros. 160%
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+1. Cigarros. 200%
 
-2. Puros y otros tabacos labrados. 160%
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+2. Puros y otros tabacos labrados. 200%
 
-3. Puros y otros tabacos labrados hechos enteramente a mano. 30.4%
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+3. Puros y otros tabacos labrados hechos enteramente a mano. 32%
 
-Adicionalmente a las tasas establecidas en este numeral, se pagará una cuota de $0.35 por cigarro enajenado o importado. Para los efectos de esta Ley se considera que el peso de un cigarro equivale a 0.75 gramos de tabaco, incluyendo el peso de otras sustancias con que esté mezclado el tabaco.
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+4. Otros productos que contengan nicotina. 100%
 
-Tratándose de los tabacos labrados no considerados en el párrafo anterior, con excepción de puros y otros tabacos labrados hechos enteramente a mano, se aplicará la cuota mencionada en dicho párrafo al resultado de dividir el peso total de los tabacos labrados enajenados o importados, entre 0.75. Para tal efecto se deberá incluir el peso de otras sustancias con que esté mezclado el tabaco. No se deberá considerar el filtro ni el papel o cualquier otra sustancia que no contenga tabaco, con el que estén envueltos los referidos tabacos labrados.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Adicionalmente a las tasas establecidas en este numeral, se pagará una cuota de $1.1584 por cigarro enajenado o importado. Para los efectos de esta Ley se considera que el peso de un cigarro equivale a 0.75 gramos de tabaco, incluyendo el peso de otras sustancias con que esté mezclado el tabaco. También se considera que un cigarro contiene 8 miligramos de nicotina.
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Tratándose de los tabacos labrados no considerados en el párrafo anterior, con excepción de puros y otros tabacos labrados hechos enteramente a mano, se aplicará la cuota mencionada en dicho párrafo al resultado de dividir el peso total de los tabacos labrados enajenados o importados, entre 0.75. Para tal efecto se deberá incluir el peso de otras sustancias con que esté mezclado el tabaco. No se deberá considerar el filtro ni el papel o cualquier otra sustancia que no contenga tabaco, con el que estén envueltos los referidos tabacos labrados. Tratándose de otros productos que contengan nicotina, se aplicará la referida cuota al resultado de dividir el contenido de nicotina que contengan dichos productos, entre 8, sin considerar cualquier otra sustancia que no contenga nicotina con la que estén elaborados.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -166,17 +172,21 @@ E) (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 F) Bebidas energetizantes, así como concentrados, polvos y jarabes para preparar bebidas energetizantes 25%
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-G) Bebidas saborizadas; concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener bebidas saborizadas; y jarabes o concentrados para preparar bebidas saborizadas que se expendan en envases abiertos utilizando aparatos automáticos, eléctricos o mecánicos, siempre que los bienes a que se refiere este inciso contengan cualquier tipo de azúcares añadidos.
+G) Bebidas saborizadas; concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener bebidas saborizadas; y jarabes o concentrados para preparar bebidas saborizadas que se expendan en envases abiertos utilizando aparatos automáticos, eléctricos o mecánicos, siempre que los bienes a que se refiere este inciso contengan cualquier tipo de azúcares o edulcorantes añadidos.
 
-La cuota aplicable será de $1.00 por litro. Tratándose de concentrados, polvos, jarabes, esencias o extractos de sabores, el impuesto se calculará tomando en cuenta el número de litros de bebidas saborizadas que, de conformidad con las especificaciones del fabricante, se puedan obtener.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Lo dispuesto en este inciso también será aplicable a los bienes mencionados en el inciso F) de esta fracción, cuando contengan azúcares añadidos, en adición al impuesto establecido en dicho inciso F).
+Las cuotas aplicables serán de $3.0818 por litro cuando se trate de bebidas saborizadas que contengan cualquier tipo de azúcares añadidos y de $1.5000 por litro cuando contengan cualquier tipo de edulcorantes añadidos. Tratándose de concentrados, polvos, jarabes, esencias o extractos de sabores, el impuesto se calculará tomando en cuenta el número de litros de bebidas saborizadas que, de conformidad con las especificaciones del fabricante, se puedan obtener.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-La cuota a que se refiere este inciso se actualizará anualmente y entrará en vigor a partir del 1 de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año, así como la cuota actualizada, misma que se expresará hasta el diezmilésimo.
+Lo dispuesto en este inciso también será aplicable a los bienes mencionados en el inciso F) de esta fracción, cuando contengan azúcares o edulcorantes añadidos, en adición al impuesto establecido en dicho inciso F).
+
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Las cuotas a que se refiere este inciso se actualizarán anualmente y entrarán en vigor a partir del 1 de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año, así como las cuotas actualizadas, mismas que se expresarán hasta el diezmilésimo.
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -258,6 +268,12 @@ Cuando los alimentos mencionados cumplan con las disposiciones relativas a las e
 
 El Servicio de Administración Tributaria, mediante reglas de carácter general, dará a conocer los alimentos de consumo básico, considerando su importancia en la alimentación de la población, que no quedan comprendidos en este inciso.
 
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+K) Videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, en formato físico, siempre que la enajenación se efectúe al público en general 8%
+
+Lo dispuesto en este inciso no será aplicable tratándose de la importación de los videojuegos mencionados.
+
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 II. En la prestación de los siguientes servicios:
@@ -266,13 +282,41 @@ II. En la prestación de los siguientes servicios:
 
 A) Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenación de los bienes señalados en los incisos A), B), C), F), I) y J) de la fracción I de este artículo. En estos casos, la tasa aplicable será la que le corresponda a la enajenación en territorio nacional del bien de que se trate en los términos que para tal efecto dispone esta Ley. No se pagará el impuesto cuando los servicios a que se refiere este inciso, sean con motivo de las enajenaciones de bienes por los que no se esté obligado al pago de este impuesto en los términos del artículo 8o. de la propia Ley.
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-B) Realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio nacional. Quedan comprendidos en los juegos con apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar. 30%
+B) Realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio nacional. Quedan comprendidos en los juegos con apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar. 50%
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+También quedan comprendidos en este inciso, los juegos con apuestas y sorteos que se realicen a través de Internet o medios electrónicos por residentes en el extranjero sin establecimiento en México en términos del artículo 18-B, primer párrafo, fracciones I y II de la Ley del Impuesto al Valor Agregado. Para efectos de este párrafo, los residentes en el extranjero o, en su caso, las plataformas digitales de intermediación a que se refieren los artículos 1o.-A BIS y 18-B, fracción II de la Ley del Impuesto al Valor Agregado, deberán cumplir con las obligaciones establecidas en los artículos 5o.-A BIS y 20-A de esta Ley, según corresponda, por los servicios digitales a que se refiere este párrafo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+La omisión en el pago del impuesto o del entero de las retenciones que, en su caso, deban efectuar y en la presentación de la declaración de pago y de la información, a que se refieren este inciso y el artículo 5o.-A BIS de esta Ley, se sancionará de conformidad con lo dispuesto en la presente Ley y en el Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Asimismo, el incumplimiento a las obligaciones a que se refiere el párrafo anterior y las fracciones III, inciso a) y IV, inciso a) del artículo 20-A de esta Ley, dará lugar al bloqueo temporal del acceso al servicio digital del prestador de los servicios digitales, bloqueo que se realizará de conformidad con lo dispuesto en los artículos 18-H BIS a 18-H QUINTUS de la Ley del Impuesto al Valor Agregado.
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 C) Los que se proporcionen en territorio nacional a través de una o más redes públicas de telecomunicaciones. 3%
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+D) Los que se proporcionen en territorio nacional que permitan el acceso o descarga de videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, proporcionados por residentes en el extranjero sin establecimiento en México y residentes en el país, en términos del artículo 18-B, primer párrafo y fracción I de la Ley del Impuesto al Valor Agregado, en los siguientes supuestos: 8%
+
+1. El acceso o descarga permitido directamente por el prestador del servicio digital.
+
+2. El acceso o descarga permitido a través de plataformas digitales de intermediación a que se refieren los artículos 1o.-A BIS y 18-B, fracción II de la Ley del Impuesto al Valor Agregado.
+
+> <small>(ADICIONADO [N. DE E PERTENECE AL INCISO D], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Quedan comprendidos en este inciso los videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, cuyo acceso o descarga se realice sin el pago de una contraprestación, pero que oferten cualquier contenido adicional dentro del videojuego. En este caso, la tasa se aplicará sobre el precio pagado por el contenido adicional.
+
+> <small>(ADICIONADO [N. DE E PERTENECE AL INCISO D], D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Cuando el acceso o descarga a que se refiere este inciso, se realice mediante el pago de una membresía o suscripción, periódica o no, que dé acceso a un catálogo de videojuegos que incluya videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, ya sea exclusivamente o conjuntamente con otro tipo de contenido o servicio digital, la tasa se aplicará únicamente al precio que corresponda por el acceso o descarga de cada videojuego por el que se deba pagar el impuesto en términos de este inciso, siempre que en el comprobante respectivo se haga la separación de cada uno de ellos. Cuando no se haga la separación mencionada, la contraprestación cobrada se entenderá que corresponde a un 70% del monto de los servicios a que se refiere este inciso, en cuyo caso dicho impuesto no podrá ser menor que el que corresponda al servicio digital de videojuegos que se hubiera pagado de manera separada al precio de la membresía o suscripción.
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -452,13 +496,19 @@ VI. Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, 
 
 VII. Alcohol desnaturalizado, la solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55°G.L., a una temperatura de 15°C, con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud. No queda comprendido el etanol para uso automotriz.
 
-VIII. Tabacos labrados:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Tabacos labrados y otros:
 
 a) Cigarros, los cigarros con o sin filtro, elaborados con mezcla de tabacos rubios o de tabacos obscuros, envueltos con papel o cualquier otra sustancia que no contenga tabaco.
 
 b) Puros, los tabacos labrados confeccionados y enrollados al 100% con hojas de tabaco o cualquier otra sustancia que contenga tabaco.
 
 c) Otros tabacos labrados, los que no están comprendidos en los incisos anteriores. Se consideran tabacos labrados, entre otros, a los tabacos cernidos, picados, de hebra, de mascar, así como al rapé.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+d) Otros productos que contengan nicotina, los que contengan nicotina ya sea natural o artificial, cualquiera que sea su presentación, independientemente de que pudieran contener otras sustancias en su elaboración, que no contengan tabaco cortado, molido, en polvo o en hoja y no estén diseñados para calentarse o quemarse.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -516,9 +566,9 @@ XVII. Bebidas energetizantes, las bebidas no alcohólicas adicionadas con la mez
 
 Se consideran concentrados, polvos y jarabes para preparar bebidas energetizantes, aquéllos que por dilución permiten obtener bebidas energetizantes con las características señaladas en el párrafo anterior.
 
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-XVIII. Bebidas saborizadas, las bebidas no alcohólicas elaboradas por la disolución en agua de cualquier tipo de azúcares y que pueden incluir ingredientes adicionales tales como saborizantes, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas o de verduras o de legumbres, de sus concentrados o extractos y otros aditivos para alimentos, y que pueden estar o no carbonatadas.
+XVIII. Bebidas saborizadas, las bebidas no alcohólicas elaboradas por la disolución en agua de cualquier tipo de azúcares o edulcorantes y que pueden incluir ingredientes adicionales tales como saborizantes naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas o de verduras o de legumbres, de sus concentrados o extractos y otros aditivos para alimentos, y que pueden estar o no carbonatadas.
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -527,6 +577,10 @@ XIX. Concentrados, polvos y jarabes, esencias o extractos de sabores, que permit
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 XX. Azúcares, a los monosacáridos, disacáridos y polisacáridos, siempre que en este último caso se utilicen como edulcorantes con aporte calórico.
+
+> <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+XX BIS. Edulcorante, sustancia natural o artificial que se adiciona a las bebidas para impartir un sabor dulce a los productos, diferentes de los azúcares a que se refiere la fracción XX de este artículo.
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -624,6 +678,14 @@ XXXVI. Helados, al alimento elaborado mediante la congelación, con agitación d
 
 XXXVII. Establecimientos de consumo final, a las cantinas, bares, cervecerías, centros nocturnos, cabarets, restaurantes, hoteles, centros sociales, discotecas, loncherías, fondas, kermeses, ferias, espectáculos, bailes públicos, salones, banquetes, casinos, y todos aquellos en los que se realice la apertura de bebidas alcohólicas para su venta y consumo final.
 
+> <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+XXXVIII. Videojuego con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, aquellos que se clasifiquen como tales por contener violencia intensa o escenas prolongadas de violencia intensa, derramamiento de sangre, contenido sexual o contenido sexual gráfico, lenguaje fuerte o apuestas con moneda real.
+
+> <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+XXXIX. Contenido adicional dentro del videojuego, todo contenido digital que complementa el videojuego por el que se paga una contraprestación, que pudiendo ser descargable o no, se utilice como elemento interactivo dentro del videojuego, como serían productos digitales o promocionales, que permitan mejorar la experiencia del adquirente, entre otros: nuevos escenarios, niveles, personajes, armas o modos de juegos.
+
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 4o.
@@ -692,9 +754,9 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 El impuesto se calculará mensualmente y se pagará a más tardar el día 17 del mes siguiente a aquél al que corresponda el pago, excepto en el caso de importaciones de bienes en el que se estará a lo dispuesto en los artículos 15 y 16 de esta Ley, según se trate. Los pagos mensuales se realizarán en los términos que al efecto se establezcan en esta Ley y tendrán el carácter de definitivos.
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-El pago mensual será la diferencia que resulte de restar a la cantidad que se obtenga de aplicar la tasa que corresponda en los términos del artículo 2o. de esta Ley a las contraprestaciones efectivamente percibidas en el mes de que se trate, por la enajenación de bienes o la prestación de servicios gravados por esta Ley, el impuesto pagado en el mismo mes por la importación de dichos bienes, así como el impuesto que resulte acreditable en el mes de que se trate de conformidad con el artículo 4o. de esta Ley. Tratándose de la cuota a que se refieren los párrafos segundo y tercero del inciso C), de la fracción I, del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar la cuota que corresponda a los cigarros enajenados en el mes, o la que se obtenga de aplicar esa cuota al resultado de dividir el peso total de los otros tabacos labrados enajenados en el mes, entre 0.75, disminuidas dichas cantidades, en su caso, con el impuesto pagado en el mismo mes al aplicar la cuota correspondiente con motivo de la importación de los cigarros u otros tabacos labrados, en los términos del segundo párrafo del artículo 4o. de esta Ley. En el caso de la cuota a que se refiere el inciso G), de la fracción I, del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar la cuota a los litros de bebidas saborizadas enajenadas en el mes o al total de litros que se puedan obtener por los concentrados, polvos, jarabes, esencias o extractos de sabores enajenados en el mes, según corresponda, disminuida con el impuesto pagado en el mismo mes con motivo de la importación de dichos bienes o el trasladado en la adquisición de los bienes citados. Tratándose de los bienes a que se refieren los incisos D) y H), de la fracción I, del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar las cuotas que correspondan a las unidades de medida de dichos bienes, enajenados en el mes, disminuida con el impuesto pagado en el mismo mes al aplicar las cuotas correspondientes con motivo de la importación de esos bienes y, en el caso de los bienes a que se refiere el inciso D) antes citado, el impuesto trasladado en la adquisición de bienes de la misma clase, en términos del segundo párrafo del artículo 4o. de esta Ley. Tratándose de los bienes a que se refiere el artículo 2o.-A de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar las cuotas que correspondan a los litros de combustible enajenados.
+El pago mensual será la diferencia que resulte de restar a la cantidad que se obtenga de aplicar la tasa que corresponda en los términos del artículo 2o. de esta Ley a las contraprestaciones efectivamente percibidas en el mes de que se trate, por la enajenación de bienes o la prestación de servicios gravados por esta Ley, el impuesto pagado en el mismo mes por la importación de dichos bienes, así como el impuesto que resulte acreditable en el mes de que se trate de conformidad con el artículo 4o. de esta Ley. Tratándose de la cuota a que se refieren los párrafos segundo y tercero del inciso C), de la fracción I, del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar la cuota que corresponda a los cigarros enajenados en el mes, o la que se obtenga de aplicar esa cuota al resultado de dividir el peso total de los otros tabacos labrados enajenados en el mes, entre 0.75, o la que se obtenga de aplicar esa cuota al resultado de dividir el contenido de nicotina de otros productos que contengan nicotina enajenados en el mes, entre 8, disminuidas dichas cantidades, en su caso, con el impuesto pagado en el mismo mes al aplicar la cuota correspondiente con motivo de la importación de los cigarros, otros tabacos labrados o productos que contengan nicotina, en los términos del segundo párrafo del artículo 4o. de esta Ley. En el caso de las cuotas a que se refiere el inciso G), de la fracción I, del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar la cuota que corresponda, a los litros de bebidas saborizadas enajenadas en el mes o al total de litros que se puedan obtener por los concentrados, polvos, jarabes, esencias o extractos de sabores enajenados en el mes, según corresponda, disminuida con el impuesto pagado en el mismo mes con motivo de la importación de dichos bienes o el trasladado en la adquisición de los bienes citados. Tratándose de los bienes a que se refieren los incisos D) y H), de la fracción I, del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar las cuotas que correspondan a las unidades de medida de dichos bienes, enajenados en el mes, disminuida con el impuesto pagado en el mismo mes al aplicar las cuotas correspondientes con motivo de la importación de esos bienes y, en el caso de los bienes a que se refiere el inciso D) antes citado, el impuesto trasladado en la adquisición de bienes de la misma clase, en términos del segundo párrafo del artículo 4o. de esta Ley. Tratándose de los bienes a que se refiere el artículo 2o.-A de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar las cuotas que correspondan a los litros de combustible enajenados.
 
 > <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -730,17 +792,17 @@ Los fabricantes, productores, envasadores o importadores, que a través de comis
 
 Los contribuyentes que únicamente realicen las actividades a que se refiere el párrafo anterior y que por dichas actividades les sea retenido el impuesto sobre las contraprestaciones que les correspondan en los términos del citado párrafo, no tendrán obligación de presentar declaraciones de pago mensual.
 
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 5o.
+
+A BIS.- Las plataformas digitales de intermediación que proporcionen los servicios digitales a que se refiere el artículo 2o., fracción II, inciso D), numeral 2 de esta Ley, cuando cobren el precio y el impuesto especial sobre producción y servicios correspondiente a las operaciones de intermediación por cuenta del prestador del servicio digital, deberán:
+
+I. Retener a las personas físicas o morales residentes en el país o a los residentes en el extranjero sin establecimiento en México que presten los servicios digitales, el 100% del impuesto especial sobre producción y servicios cobrado. El retenedor sustituirá al prestador del servicio en la obligación de pago del impuesto. En este caso el prestador del servicio considerará el impuesto retenido como pago definitivo del impuesto.
+
+II. Cumplir con las obligaciones previstas en el artículo 18-J, fracción II, incisos b), c) y d) y último párrafo de dicha fracción de la Ley del Impuesto al Valor Agregado, respecto del impuesto especial sobre producción y servicios que se cause conforme al artículo 2o., fracción II, inciso D) de esta Ley.
+
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-###### ARTICULO 5o.
-
-A.- Los fabricantes, productores, envasadores o importadores que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores enajenen los bienes a que se refiere el artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos corresponda y enterarlo mediante declaración en las oficinas autorizadas, en los plazos establecidos en el segundo párrafo del artículo 5o. de esta Ley, salvo que se trate de los bienes a que se refieren los incisos H), I) y J) de la fracción I del artículo 2o. de esta Ley. Cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Los contribuyentes a los que les sea retenido el impuesto sobre las contraprestaciones que le correspondan en los términos del párrafo anterior, no tendrán obligación de presentar declaraciones de pago provisional, pudiendo acreditar en la declaración del ejercicio las cantidades retenidas.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 5o.-B.
 
@@ -784,13 +846,11 @@ Para los efectos de esta Ley, se entiende por enajenación, además de lo señal
 
 Para los efectos de esta Ley, también se considera enajenación de los bienes a que hace referencia el inciso A) de la fracción I del artículo 2o. de esta Ley, el retiro del lugar en que se produjeron o envasaron o, en su caso, del almacén del contribuyente, cuando los mismos no se destinen a su comercialización y se encuentren envasados en recipientes de hasta 5,000 mililitros. En este caso, el impuesto se pagará a más tardar el día 17 del mes siguiente a aquél en el que sean retirados los bienes de los citados lugares, considerando como valor del acto, el precio promedio en que dichos bienes se enajenaron en los tres meses inmediatos anteriores a aquél en el que se efectúe el pago.
 
-Igualmente, se considera enajenación de los bienes a que hace referencia el inciso C) de la fracción I del artículo 2o. de esta Ley, el retiro del lugar en el que se fabricaron o, en su caso, del almacén del contribuyente, cuando los mismos no se destinen a su comercialización y se encuentren empaquetados en cajas o cajetillas. En este caso, el impuesto se pagará a más tardar el día 17 del mes siguiente a aquél en el que sean retirados los bienes de los citados lugares, considerando como contraprestación el precio promedio de venta al detallista, tratándose de cigarros, o el precio promedio de enajenación, en el caso de puros y otros tabacos labrados, de los tres meses inmediatos anteriores a aquél en el que se efectúe el pago.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Igualmente, se considera enajenación de los bienes a que hace referencia el inciso C) de la fracción I del artículo 2o. de esta Ley, el retiro del lugar en el que se fabricaron o, en su caso, del almacén del contribuyente, cuando los mismos no se destinen a su comercialización y se encuentren empaquetados en cajas o cajetillas. En este caso, el impuesto se pagará a más tardar el día 17 del mes siguiente a aquél en el que sean retirados los bienes de los citados lugares, considerando como contraprestación, tratándose de cigarros u otros productos que contengan nicotina, el precio promedio de venta al detallista, o en el caso de puros y otros tabacos labrados, el precio promedio de enajenación, de los tres meses inmediatos anteriores a aquél en el que se efectúe el pago.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -812,53 +872,41 @@ No se pagará el impuesto establecido en esta Ley:
 
 I. Por las enajenaciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 a) (DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 b) Aguamiel y productos derivados de su fermentación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 c) Las que realicen personas diferentes de los fabricantes, productores o importadores, de los bienes a que se refieren los incisos C), D), G) y H) de la fracción I del artículo 2o. y el artículo 2o.-A de esta Ley. En estos casos, las personas distintas de los fabricantes, productores o importadores, no se consideran contribuyentes de este impuesto por dichas enajenaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
-
-d) Las de cerveza, bebidas refrescantes, puros y otros tabacos labrados, así como las de los bienes a que se refiere el inciso F) de la fracción I del artículo 2o. de esta Ley, que se efectúen al público en general, salvo que el enajenante sea fabricante, productor, envasador, distribuidor o importador de los bienes que enajene. No gozarán del beneficio establecido en este inciso, las enajenaciones de los citados bienes efectuadas por comerciantes que obtengan la mayor parte del importe de sus ingresos de enajenaciones a personas que no forman parte del público en general. No se consideran enajenaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes que cumplan con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación.
+d) Las de cerveza, bebidas refrescantes, cigarros, puros y otros tabacos labrados u otros productos que contengan nicotina, así como las de los bienes a que se refiere el inciso F) de la fracción I del artículo 2o. de esta Ley, que se efectúen al público en general, salvo que el enajenante sea fabricante, productor, envasador, distribuidor o importador de los bienes que enajene. No gozarán del beneficio establecido en este inciso, las enajenaciones de los citados bienes efectuadas por comerciantes que obtengan la mayor parte del importe de sus ingresos de enajenaciones a personas que no forman parte del público en general. No se consideran enajenaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes que cumplan con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 e) Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su enajenación se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, II, primer párrafo, VI, VIII, X, XII y XIV de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-f) Las de bebidas saborizadas en restaurantes, bares y otros lugares en donde se proporcionen servicios de alimentos y bebidas, bebidas saborizadas que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria, la leche en cualquier presentación, incluyendo la que esté mezclada con grasa vegetal y los sueros orales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+f) Las de bebidas saborizadas en restaurantes, bares y otros lugares en donde se proporcionen servicios de alimentos y bebidas, bebidas saborizadas que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria, la leche en cualquier presentación, incluyendo la que esté mezclada con grasa vegetal y los sueros orales que exclusivamente contengan todas y cada una de las substancias a que se refiere la fracción XXI del artículo 3o. de esta Ley.
 
 g) (DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 h) Plaguicidas que conforme a la categoría de peligro de toxicidad aguda correspondan a la categoría 5.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 i) Petróleo crudo y gas natural.
 
-II. Por la exportación de los bienes a que se refiere esta Ley. En estos casos, los exportadores estarán a lo dispuesto en la fracción XI del artículo 19 de la misma.
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+j) Las de otros productos que contengan nicotina que sean utilizados como terapia de reemplazo de nicotina que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria.
+
+II. Por la exportación de los bienes a que se refiere esta Ley. En estos casos, los exportadores estarán a lo dispuesto en la fracción XI del artículo 19 de la misma.
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -867,8 +915,6 @@ Lo dispuesto en esta fracción no será aplicable a las exportaciones que se rea
 > <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 III. Por las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, en los siguientes supuestos:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -883,8 +929,6 @@ c) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad
 2. El monto total de los premios ofrecidos en un año de calendario no exceda el 3% de los ingresos obtenidos en el año inmediato anterior.
 
 Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos en dicho ejercicio para los efectos de lo dispuesto en este inciso. En el supuesto de que el monto de los premios ofrecidos exceda el por ciento a que se refiere el párrafo anterior, se pagará el impuesto que corresponda de conformidad con lo dispuesto en esta Ley con la actualización y los recargos respectivos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -902,8 +946,6 @@ c) De interconexión, consistente en la conexión física o virtual, lógica y f
 
 d) De acceso a Internet, a través de una red fija o móvil, consistente en todos los servicios, aplicaciones y contenidos que mediante dicho acceso a Internet se presten a través de una red de telecomunicaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Cuando los servicios a que se refiere el párrafo anterior se ofrezcan de manera conjunta con otros servicios que se presten a través de una red pública de telecomunicaciones, la exención a que se refiere este inciso será procedente siempre que en el comprobante fiscal respectivo, se determine la contraprestación correspondiente al servicio de acceso a Internet de manera separada a los demás servicios de telecomunicaciones que se presten a través de una red pública y que dicha contraprestación se determine de acuerdo con los precios y montos de las contraprestaciones que se hubieran cobrado de no haberse proporcionado el servicio en forma conjunta con otros servicios de telecomunicaciones gravados por esta Ley. En este caso los servicios de Internet exentos no podrán exceder del 30% del total de las contraprestaciones antes referidas que se facturen en forma conjunta.
@@ -918,11 +960,11 @@ B (SIC).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente, o cuando no habiendo envío, se realiza en el país la entrega material del bien por el enajenante.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-En la enajenación de los bienes a que se refiere esta Ley, el impuesto se causa en el momento en el que se cobren las contraprestaciones y sobre el monto de lo cobrado. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley. Tratándose de la cuota por enajenación de cigarros u otros tabacos labrados a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros efectivamente cobrados y, en el caso de otros tabacos labrados, la cantidad de gramos efectivamente cobrados. Por las enajenaciones de los bienes a que se refieren los incisos D), G) y H) de la fracción I del artículo 2o. y el artículo 2o.-A de esta Ley, el impuesto se causa en el momento en que se cobren las contraprestaciones.
+En la enajenación de los bienes a que se refiere esta Ley, el impuesto se causa en el momento en el que se cobren las contraprestaciones y sobre el monto de lo cobrado. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley. Tratándose de la cuota por enajenación de cigarros, otros tabacos labrados u otros productos que contengan nicotina, a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros efectivamente cobrados, en el caso de otros tabacos labrados, la cantidad de gramos efectivamente cobrados y en el caso de otros productos que contengan nicotina, la cantidad de miligramos efectivamente cobrados. Por las enajenaciones de los bienes a que se refieren los incisos D), G) y H) de la fracción I del artículo 2o. y el artículo 2o.-A de esta Ley, el impuesto se causa en el momento en que se cobren las contraprestaciones.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -938,13 +980,15 @@ Tratándose de donaciones por las que se deba pagar el impuesto, en el momento e
 
 Para calcular el impuesto tratándose de enajenaciones, se considerará como valor la contraprestación.
 
-Los productores o importadores de cigarros, para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos el precio de venta al detallista. Los fabricantes, productores o importadores de puros y otros tabacos labrados, para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos la contraprestación pactada.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Los productores o importadores de cigarros y otros productos que contengan nicotina, para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos el precio de venta al detallista. Los fabricantes, productores o importadores de puros y otros tabacos labrados, para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos la contraprestación pactada.
 
 El impuesto a que se refiere el párrafo anterior, no se pagará por las enajenaciones subsecuentes, no procediendo en ningún caso el acreditamiento o la devolución del impuesto por dichas enajenaciones.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Tratándose de la cuota por enajenaciones de cigarros u otros tabacos labrados a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros enajenados y, en el caso de otros tabacos labrados, la cantidad de gramos enajenados. Por las enajenaciones de los bienes a que se refiere el inciso G) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros enajenados de bebidas saborizadas con azúcares añadidos; tratándose de concentrados, polvos, jarabes, esencias o extractos de sabores, el impuesto se calculará tomando en cuenta el número de litros de bebidas saborizadas con azúcares añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener, del total de productos enajenados. Por las enajenaciones de los bienes a que se refieren los incisos D) y H) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las unidades de medida y, en su caso, fracciones de dichas unidades, según corresponda. Por las enajenaciones de los bienes a que se refiere el artículo 2o.-A de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las unidades de medida, según corresponda.
+Tratándose de la cuota por enajenaciones de cigarros u otros tabacos labrados a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros enajenados, en el caso de otros tabacos labrados, la cantidad de gramos enajenados y en el caso de otros productos que contengan nicotina la cantidad de miligramos de nicotina enajenados. Por las enajenaciones de los bienes a que se refiere el inciso G) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros enajenados de bebidas saborizadas con azúcares o edulcorantes añadidos; tratándose de concentrados, polvos, jarabes, esencias o extractos de sabores, el impuesto se calculará tomando en cuenta el número de litros de bebidas saborizadas con azúcares o edulcorantes añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener, del total de productos enajenados. Por las enajenaciones de los bienes a que se refieren los incisos D) y H) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las unidades de medida y, en su caso, fracciones de dichas unidades, según corresponda. Por las enajenaciones de los bienes a que se refiere el artículo 2o.-A de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las unidades de medida, según corresponda.
 
 ### CAPITULO III. De la Importación de Bienes
 
@@ -972,8 +1016,6 @@ No se pagará el impuesto establecido en esta Ley, en las importaciones siguient
 
 I.- Las que en los términos de la legislación aduanera no lleguen a consumarse, sean temporales, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 No será aplicable la exención a que se refiere esta fracción tratándose de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico.
@@ -984,33 +1026,23 @@ II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y
 
 III.- Las de aguamiel y productos derivados de su fermentación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 IV.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 V.- Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su importación se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, VI, VIII, XI, XIV y XIX de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO Y ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 VI.- Las importaciones definitivas de los bienes por los que se haya pagado el impuesto a que se refiere esta Ley al destinarse a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico o de mercancías que incluyan los bienes por los que se pagó el impuesto, siempre que la importación definitiva la realicen quienes hayan destinado los bienes a los regímenes mencionados. No será aplicable lo dispuesto en esta fracción cuando el impuesto se haya pagado aplicando el crédito fiscal previsto en el artículo 15-A de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-VII.- Las de bebidas saborizadas que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria, la leche en cualquier presentación, incluyendo la que esté mezclada con grasa vegetal y los sueros orales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VII. Las de bebidas saborizadas que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria, la leche en cualquier presentación, incluyendo la que esté mezclada con grasa vegetal y los sueros orales que exclusivamente contengan todas y cada una de las substancias a que se refiere la fracción XXI del artículo 3o. de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 VIII.- Las de plaguicidas que de conformidad con la categoría de peligro de toxicidad aguda corresponda a la categoría 5.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -1026,9 +1058,9 @@ Para calcular el impuesto tratándose de importación de bienes, se considerará
 
 Tratándose de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, para calcular el impuesto especial sobre producción y servicios se considerará el valor en aduana a que se refiere la Ley Aduanera, adicionado del monto de las demás contribuciones y aprovechamientos que se tuvieran que pagar en caso de que se tratara de una importación definitiva, a excepción del impuesto al valor agregado.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-En las importaciones de cigarros u otros tabacos labrados en las que el impuesto se pague aplicando la cuota a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros importados y, en el caso de otros tabacos labrados, la cantidad de gramos importados. Tratándose de las importaciones de los bienes a que se refiere el inciso G) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto por el total de litros importados de bebidas saborizadas o por el total de litros que se puedan obtener, de conformidad con las especificaciones del fabricante, por el total de concentrados, polvos, jarabes, esencias o extractos de sabores. Tratándose de las importaciones de los bienes a que se refieren los incisos D) y H) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las unidades de medida y, en su caso, fracciones de dichas unidades importadas, según corresponda.
+En las importaciones de cigarros, otros tabacos labrados u otros productos que contengan nicotina en las que el impuesto se pague aplicando la cuota a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros importados, en el caso de otros tabacos labrados, la cantidad de gramos importados y en el caso de otros productos que contengan nicotina, la cantidad de miligramos importados. Tratándose de las importaciones de los bienes a que se refiere el inciso G) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto por el total de litros importados de bebidas saborizadas o por el total de litros que se puedan obtener, de conformidad con las especificaciones del fabricante, por el total de concentrados, polvos, jarabes, esencias o extractos de sabores. Respecto de las importaciones de los bienes a que se refieren los incisos D) y H) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las unidades de medida y, en su caso, fracciones de dichas unidades importadas, según corresponda.
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -1096,6 +1128,10 @@ II. Las cantidades efectivamente devueltas a los participantes, siempre que las 
 
 Cuando el monto de los conceptos mencionados en las fracciones anteriores sea superior a los valores de las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, correspondientes al mes de que se trate, la diferencia se podrá disminuir en los meses siguientes hasta agotarse.
 
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+Cuando se trate de los servicios a que se refiere el artículo 2o., fracción II, inciso B), segundo párrafo de esta Ley, para calcular el impuesto se considerará como valor el total de las cantidades efectivamente percibidas de los participantes en la realización de los juegos o sorteos, independientemente de su denominación, sin disminución alguna.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
@@ -1103,6 +1139,12 @@ Cuando el monto de los conceptos mencionados en las fracciones anteriores sea su
 ###### ARTICULO 18.-A.
 
 Para los efectos de esta ley, se considera que se prestan los servicios en territorio nacional, a través de una o más redes públicas de telecomunicaciones a que se refiere el artículo 2o., fracción II, inciso C), de esta Ley, cuando éstos se lleven a cabo en el mismo, total o parcialmente.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 18-B.
+
+Tratándose de los servicios digitales a que se refiere el artículo 2o., fracción II, incisos B), segundo párrafo y D) de esta Ley, prestados por residentes en el extranjero sin establecimiento en México, se considera que el servicio se presta en territorio nacional cuando el receptor del servicio se encuentre en dicho territorio, de conformidad con lo dispuesto en el artículo 18-C de la Ley del Impuesto al Valor Agregado.
 
 ### CAPITULO V. De las Obligaciones de los Contribuyentes
 
@@ -1132,13 +1174,15 @@ Los contribuyentes que enajenen los bienes a que se refieren los incisos A), F),
 
 Los contribuyentes que enajenen vinos de mesa, deberán cumplir con la obligación a que se refiere el párrafo anterior en los meses de enero y julio de cada año.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-Tratándose de la enajenación de tabacos labrados, en los comprobantes fiscales que se expidan se deberá especificar el peso total de tabaco contenido en los tabacos labrados enajenados o, en su caso, la cantidad de cigarros enajenados.
+Tratándose de la enajenación de tabacos labrados y de otros productos que contengan nicotina, en los comprobantes fiscales que se expidan se deberá especificar el peso total de tabaco contenido en los tabacos labrados enajenados, la cantidad de cigarros enajenados o la cantidad de miligramos de nicotina contenida en los productos enajenados, según corresponda.
 
 III. Presentar las declaraciones e informes previstos en esta Ley, en los términos que al efecto se establezcan en el Código Fiscal de la Federación. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración de pago ante las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente.
 
-IV. Los productores e importadores de cigarros, deberán registrar ante las autoridades fiscales, dentro del primer mes de cada año, la lista de precios de venta por cada uno de los productos que enajenan, clasificados por marca y presentación, señalando los precios al mayorista, detallista y el precio sugerido de venta al público.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+IV. Los productores e importadores de cigarros y otros productos que contengan nicotina, deberán registrar ante las autoridades fiscales, conjuntamente con su declaración de pago correspondiente al primer mes de cada año, la lista de precios de venta por cada uno de los productos que enajenan, clasificados por marca y presentación, señalando los precios al mayorista, detallista y el precio sugerido de venta al público.
 
 Asimismo, se deberá informar a las autoridades fiscales cuando exista alguna modificación en los precios, debiendo presentar a las citadas autoridades, dentro de los 5 días siguientes a que esto ocurra, la lista de precios de venta que estará vigente a partir del momento de la modificación.
 
@@ -1170,13 +1214,13 @@ Los contribuyentes que tengan uno o varios establecimientos ubicados en una enti
 
 La información a que se refiere esta fracción y la fracción VI de este artículo, será la base para la determinación de las participaciones a que se refiere esta Ley y los artículos 3o. y 3o.-A de la Ley de Coordinación Fiscal, en materia del impuesto especial sobre producción y servicios.
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-IX. Los productores e importadores de tabacos labrados, deberán informar a la Secretaría de Hacienda y Crédito Público, conjuntamente con su declaración del mes, el precio de enajenación de cada producto y el valor y volumen de los mismos; así como especificar el peso total de tabacos labrados enajenados o, en su caso, la cantidad total de cigarros enajenados. Esta información se deberá proporcionar por cada una de las marcas que produzca o importe el contribuyente.
+IX. Los productores e importadores de tabacos labrados y de otros productos que contengan nicotina, deberán informar a la Secretaría de Hacienda y Crédito Público, conjuntamente con su declaración del mes, el precio de enajenación de cada producto y el valor y volumen de los mismos; así como especificar el peso total de tabacos labrados enajenados, la cantidad total de cigarros enajenados o la cantidad de miligramos de nicotina contenida en los productos enajenados, según corresponda. Esta información se deberá proporcionar por cada una de las marcas que produzca o importe el contribuyente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-X. Los fabricantes, productores o envasadores, de alcohol, alcohol desnaturalizado y mieles incristalizables, de bebidas con contenido alcohólico, cerveza, tabacos labrados, combustibles automotrices, bebidas energetizantes, concentrados, polvos y jarabes para preparar bebidas energetizantes, bebidas saborizadas con azúcares añadidos, así como de concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener bebidas saborizadas con azúcares añadidos, así como combustibles fósiles y plaguicidas, deberán llevar un control físico del volumen fabricado, producido o envasado, según corresponda, así como reportar trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la lectura mensual de los registros de cada uno de los dispositivos que se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración.
+X. Los fabricantes, productores o envasadores, de alcohol, alcohol desnaturalizado y mieles incristalizables, de bebidas con contenido alcohólico, cerveza, tabacos labrados y otros productos que contengan nicotina, combustibles automotrices, bebidas energetizantes, concentrados, polvos y jarabes para preparar bebidas energetizantes, bebidas saborizadas con azúcares o edulcorantes añadidos, así como de concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener bebidas saborizadas con azúcares o edulcorantes añadidos, así como combustibles fósiles y plaguicidas, deberán llevar un control físico del volumen fabricado, producido o envasado, según corresponda, así como reportar trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la lectura mensual de los registros de cada uno de los dispositivos que se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración.
 
 La obligación a que se refiere esta fracción no será aplicable a los productores de vinos de mesa.
 
@@ -1250,9 +1294,9 @@ Los contribuyentes a que se refiere esta fracción deberán poner a disposición
 
 Cuando los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, incumplan con alguna de las obligaciones establecidas en esta Ley, o bien, cuando no atiendan lo señalado en las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria, dicho órgano desconcentrado impondrá las sanciones que procedan, conforme al Código Fiscal de la Federación.
 
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
-XXIII. Los importadores de concentrados, polvos, jarabes, esencias o extractos de sabores, para los efectos de pagar el impuesto en la importación, deberán manifestar bajo protesta de decir verdad, el número de litros de bebidas saborizadas con azucares añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener. Las especificaciones no podrán ser menores a las que el importador manifieste en la enajenación que de dichos bienes haga en el mercado nacional.
+XXIII. Los importadores de concentrados, polvos, jarabes, esencias o extractos de sabores, para los efectos de pagar el impuesto en la importación, deberán manifestar bajo protesta de decir verdad, el número de litros de bebidas saborizadas con azúcares o edulcorantes añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener. Las especificaciones no podrán ser menores a las que el importador manifieste en la enajenación que de dichos bienes haga en el mercado nacional.
 
 > <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -1303,6 +1347,42 @@ Las autoridades fiscales para efectos de determinar el incumplimiento e imponer 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 La clausura del establecimiento o establecimientos, que en su caso se decrete, se levantará una vez que el contribuyente acredite ante las autoridades fiscales haber subsanado la infracción cometida.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 20-A.
+
+Las personas a que se refiere el artículo 2o., fracción II, inciso D) de esta Ley, deberán estar a lo siguiente:
+
+I. Tratándose de personas físicas y morales residentes en el país que proporcionen los servicios digitales conforme al artículo 2o., fracción II, inciso D), numeral 1 de esta Ley, además de las obligaciones señaladas en otros artículos de esta Ley y en las demás disposiciones fiscales, deberán ofertar y cobrar, conjuntamente con el precio de sus servicios digitales, el impuesto especial sobre producción y servicios incluido en el precio.
+
+II. Tratándose de personas físicas y morales residentes en el país que proporcionen los servicios digitales conforme al artículo 2o., fracción II, inciso D), numeral 2 de esta Ley, deberán estar a lo dispuesto por esta Ley y, adicionalmente, deberán ofertar el precio de sus servicios con el impuesto especial sobre producción y servicios incluido en el mismo.
+
+III. Tratándose de residentes en el extranjero sin establecimiento en México que proporcionen los servicios digitales conforme al artículo 2o., fracción II, inciso D), numeral 1 de esta Ley, únicamente deberán:
+
+a) Cumplir las obligaciones previstas en el artículo 18-D, fracciones I, VI y VII de la Ley del Impuesto al Valor Agregado.
+
+b) Ofertar y cobrar, conjuntamente con el precio de sus servicios digitales, el impuesto especial sobre producción y servicios incluido en el precio.
+
+c) Proporcionar al Servicio de Administración Tributaria la información sobre el número de servicios prestados en cada mes de calendario a los receptores ubicados en territorio nacional que reciban sus servicios digitales gravados con el impuesto especial sobre producción y servicios, así como el número de los receptores mencionados, y mantener los registros base de la información presentada. Dicha información se deberá presentar de manera mensual, conjuntamente con la declaración de pago a que se refiere el siguiente inciso.
+
+d) Calcular en cada mes de calendario el impuesto especial sobre producción y servicios correspondiente, aplicando la tasa que corresponda a las contraprestaciones efectivamente cobradas en dicho mes y efectuar su pago mediante declaración electrónica que presentarán a más tardar el día 17 del mes siguiente de que se trate.
+
+e) Emitir y enviar vía electrónica a los receptores de los servicios digitales en territorio nacional los comprobantes correspondientes al pago de las contraprestaciones con el impuesto incluido en el precio, cuando lo solicite el receptor de los servicios, mismos que deberán reunir los requisitos que permitan identificar a los prestadores de los servicios y a los receptores de los mismos, de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
+
+IV. Tratándose de las plataformas digitales de intermediación a que se refiere el artículo 2o., fracción II, inciso D), numeral 2 de esta Ley:
+
+a) Cumplir las obligaciones previstas en el artículo 18-D, fracciones I, VI y VII de la Ley del Impuesto al Valor Agregado, cuando se trate de residentes en el extranjero sin establecimiento en México.
+
+b) Publicar en su página de Internet, aplicación, plataforma o cualquier otro medio similar, el precio con el impuesto especial sobre producción y servicios incluido en que se ofertan los servicios digitales por los prestadores de servicios, en los que operan como intermediarios.
+
+c) Proporcionar al Servicio de Administración Tributaria, en el apartado correspondiente, la información a que se refiere el artículo 18-J, fracción III de la Ley del Impuesto al Valor Agregado, en cuyas operaciones hayan actuado como intermediarios.
+
+El cumplimiento de las obligaciones a que se refiere este artículo y el artículo 5o.-A BIS de esta Ley, no dará lugar a que se considere que el residente en el extranjero constituye un establecimiento permanente en México.
+
+La omisión en el pago del impuesto o del entero de las retenciones que, en su caso, deban efectuar y en la presentación de la declaración de pago y de la información, a que se refieren este artículo y el artículo 5o.-A BIS de esta Ley, se sancionará de conformidad con lo dispuesto en la presente Ley y en el Código Fiscal de la Federación.
+
+Asimismo, el incumplimiento de las obligaciones a que se refieren el párrafo anterior y las fracciones III, inciso a) y IV, inciso a) de este artículo, dará lugar al bloqueo temporal del acceso al servicio digital del prestador de los servicios digitales que incumplió con las obligaciones mencionadas, bloqueo que se realizará de conformidad con lo dispuesto en los artículos 18-H BIS a 18-H QUINTUS de la Ley del Impuesto al Valor Agregado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1432,7 +1512,9 @@ II.- Los actos de organización de los contribuyentes del impuesto establecido e
 
 III.- La expedición o emisión de títulos, acciones u obligaciones y las operaciones relativas a los mismos por los contribuyentes del impuesto que esta Ley establece.
 
-El Distrito Federal no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+
+La Ciudad de México no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -3237,3 +3319,35 @@ D.O.F. 27 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS PARA 2025”.]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2025.
+
+D.O.F. 7 DE NOVIEMBRE DE 2025
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS”.]
+
+Primero. El presente Decreto entrará en vigor el 1 de enero de 2026.
+
+Segundo. La cuota prevista en el segundo párrafo del inciso C), de la fracción I, del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios del presente Decreto, entrará en vigor el 1 de enero de 2030.
+
+Durante los ejercicios fiscales de 2026, 2027, 2028 y 2029, las cuotas aplicables serán las siguientes:
+
+Ejercicio Fiscal Cuota
+
+2026 $0.8516
+
+2027 $0.9197
+
+2028 $0.9932
+
+2029 $1.0726
+
+Las cuotas establecidas en el párrafo anterior, no estarán sujetas a lo dispuesto en el cuarto párrafo del inciso C), de la fracción I, del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+Tercero. Tratándose de la enajenación de bienes o de la prestación de servicios, que se hayan celebrado con anterioridad a la fecha de la entrada en vigor del presente Decreto, las contraprestaciones correspondientes que se cobren con posterioridad a la fecha mencionada, estarán afectas al pago del impuesto especial sobre producción y servicios de conformidad con las disposiciones vigentes en el momento de su cobro.
+
+No obstante lo anterior, los contribuyentes podrán acogerse a lo siguiente:
+
+a) Tratándose de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto hayan estado afectas a una tasa o cuota del impuesto especial sobre producción y servicios menor a la que deban aplicar con posterioridad a la fecha mencionada, se podrá calcular el impuesto especial sobre producción y servicios aplicando la tasa o cuota que corresponda conforme a las disposiciones vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
+
+b) En el caso de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto no hayan estado afectas al pago del impuesto especial sobre producción y servicios y que con posterioridad a la fecha mencionada queden afectas al pago de dicho impuesto, no se estará obligado al pago del citado impuesto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
+
+Se exceptúa del tratamiento establecido en los incisos anteriores a las actividades que se lleven a cabo entre contribuyentes que sean partes relacionadas, de conformidad con lo dispuesto por la Ley del Impuesto sobre la Renta, sean o no residentes en México.
