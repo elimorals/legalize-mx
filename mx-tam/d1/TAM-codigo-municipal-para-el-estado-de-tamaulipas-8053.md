@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2025-10-28"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -829,11 +829,15 @@ LXVII.- Brindar y garantizar a las y los periodistas un trato digno, en condicio
 
 LXVIII.- Coordinar acciones con las autoridades competentes para la atención de animales abandonados en la vía pública, a efecto de canalizarlos a los centros de control animal, refugios o criaderos legalmente establecidos o a las instalaciones para el resguardo de animales de las asociaciones protectoras de animales legalmente constituidas y registradas. De igual forma, establecer en coordinación con la Secretaría de Salud del Estado, campañas de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación y de esterilización;
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-LXIX.- Fomentar la prestación gratuita de servicios de colocación laboral o profesional para promover el mayor número de empleos entre las y los habitantes del municipio; y
+LXIX.- Fomentar la prestación gratuita de servicios de colocación laboral o profesional para promover el mayor número de empleos entre las y los habitantes del municipio;
 
-LXX.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+LXX.- Las oficinas de la Administración Pública Municipal que brinden servicios de atención al público deberán garantizar condiciones de accesibilidad, inclusión y atención preferente para las personas que, por su situación física, condición de salud o circunstancias particulares, requieran asistencia inmediata, para ello, podrán instalar módulos o ventanillas de atención conforme a las normas vigentes de accesibilidad universal y contar con personal debidamente capacitado y competente, que actúe bajo criterios de trato digno, igualdad y no discriminación, en coordinación con las dependencias y entidades de la administración pública local; y
+
+LXXI.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2024)</small>
 
@@ -7236,6 +7240,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 28 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-479 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LII DEL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-527 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXIX Y SE ADICIONA UNA FRACCIÓN LXX, RECORRIÉNDOSE EN SU ORDEN NATURAL LA ACTUAL FRACCIÓN LXX, PARA SER LXXI, AL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
