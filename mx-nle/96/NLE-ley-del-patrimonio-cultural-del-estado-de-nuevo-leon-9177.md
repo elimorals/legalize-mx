@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "2025-03-10"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRÁ TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -109,11 +109,11 @@ I.- El Gobernador del Estado;
 
 II.- La Secretaría General de Gobierno;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-III.- La Secretaría de Desarrollo Social;
+III.- La Secretaría de Igualdad e Inclusión;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
 IV.- La Secretaría de Movilidad y Planeación Urbana;
 
@@ -165,11 +165,11 @@ El Sector Educativo, las Juntas de Protección y Conservación y los Institutos 
 
 Los Ayuntamientos promoverán la formación de asociaciones civiles y juntas vecinales, así como la organización de representantes de los sectores más significativos de la población, como órganos auxiliares para impedir el deterioro o destrucción del patrimonio y promover su enriquecimiento.
 
-N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON, CONFORME AL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 7 DE JUNIO DE 1995.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 13o.
 
-La Secretaría de Desarrollo Social cuidará de que el pueblo tenga acceso al disfrute de los bienes culturales del Estado que puedan ser objeto de exposiciones o se encuentren en museos, bibliotecas o cualquier establecimiento público.
+La Secretaría de Igualdad e Inclusión cuidará de que el pueblo tenga acceso al disfrute de los bienes culturales del Estado que puedan ser objeto de exposiciones o se encuentren en museos, bibliotecas o cualquier establecimiento público.
 
 Así mismo, instituirá dentro del sistema educativo los cursos que sean necesarios para dar a conocer a las nuevas generaciones los valores culturales y despertar en ellas el amor por dichos valores.
 
@@ -181,7 +181,9 @@ JUNTAS DE PROTECCION Y CONSERVACION.
 
 Las Juntas de Protección y Conservación del Patrimonio Cultural, son organismos de interés público, creados en los Municipios por acuerdo del Gobernador, para la promoción, tramitación y cumplimiento según caso, de las declaraciones de adscripción de bienes a dicho patrimonio y de zonas protegidas, que deban quedar sujetos al régimen de esta Ley.
 
-Las juntas estarán integradas por tres vocales que serán designados por los Ayuntamientos respectivos a propuesta en terna por el titular del ejecutivo. Uno de ellos, será Presidente.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Las juntas estarán integradas por tres vocales que serán designados por los Ayuntamientos respectivos a propuesta en terna por el titular del Ejecutivo, observando el principio de paridad de Género. Uno de ellos, será Presidente.
 
 Los integrantes de las Juntas deberán ser personas entendidas en urbanismo, arquitectura, arte e historia.
 
@@ -287,9 +289,11 @@ V.- La elaboración de normas técnicas en los asuntos de su competencia; y
 
 VI.- Los demás que le encomienden las disposiciones legales.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTICULO 24o.
 
-Podrá haber un Comité Técnico de protección en cada una de las cabeceras de los Municipios, integrado cuando menos por seis personas designadas por el Gobernador, entendidas en urbanismo, arte, historia, arquitectura y en conservación y restauración de monumentos.
+Podrá haber un Comité Técnico de protección en cada una de las cabeceras de los Municipios, integrado cuando menos por seis personas designadas por el Gobernador, observando el principio de paridad de género, entendidas en urbanismo, arte, historia, arquitectura y en conservación y restauración de monumentos.
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2020
 
@@ -355,9 +359,9 @@ Cualquier transmisión de propiedad requerirá previo permiso de la Secretaría 
 
 La adscripción al patrimonio cultural del estado, de un bien propiedad de los organismos públicos descentralizados, de las empresas paraestatales o paramunicipales y de las personas físicas o morales privadas, producirá los siguientes efectos:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-I.- Solo podrá ser gravado u objeto de actos de traslación de dominio previo aviso por escrito a la Secretaria de Desarrollo Social y a la Junta de Protección y Conservación;
+I.- Solo podrá ser gravado u objeto de actos de traslación de dominio previo aviso por escrito a la Secretaría de Igualdad e Inclusión y a la Junta de Protección y Conservación;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
@@ -411,11 +415,15 @@ En los casos del artículo anterior, serán solidaria y mancomunadamente respons
 
 REPRODUCCIONES:
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTICULO 35o.
 
-La reproducción de bienes adscritos al patrimonio cultural requiere el consentimiento por escrito del propietario de la dependencia de la Secretaría de Desarrollo Social del estado.
+La reproducción de bienes adscritos al patrimonio cultural requiere el consentimiento por escrito del propietario de la dependencia de la Secretaría de Igualdad e Inclusión del estado.
 
-Toda reproducción deberá llevar inscrita en forma indeleble la siguiente leyenda "Reproducción autorizada por la Secretaría de Desarrollo Social del estado de Nuevo León".
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Toda reproducción deberá llevar inscrita en forma indeleble la siguiente leyenda "Reproducción autorizada por la Secretaría de Igualdad e Inclusión del estado de Nuevo León".
 
 ###### ARTICULO 36o.
 
@@ -565,19 +573,19 @@ Las partes que intervengan en actos traslativos de dominio de bienes muebles ads
 
 Son aplicables en lo conducente a la inscripción de declaratorias de zonas protegidas, las disposiciones de este capítulo.
 
-N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON, CONFORME AL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 7 DE JUNIO DE 1995.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 63.
 
-La Secretaría de Desarrollo Social del Estado o la Junta de Protección y Conservación, correspondiente, en su caso, formularán los inventarios y catálogos de los bienes adscritos al patrimonio cultural o que se encuentren dentro de la zona protegida.
+La Secretaría de Igualdad e Inclusión del Estado o la Junta de Protección y Conservación, correspondiente, en su caso, formularán los inventarios y catálogos de los bienes adscritos al patrimonio cultural o que se encuentren dentro de la zona protegida.
 
 Para este efecto los encargados de los Registros Públicos de la Propiedad, deben enviarle de inmediato copias de los asientos registrales a que se refiere el artículo 55 de esta Ley.
 
-N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON, CONFORME AL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 7 DE JUNIO DE 1995.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 64.
 
-Deberán anexarse a las declaratorias de adscripción de bienes culturales o de zonas protegidas, los inventarios y catálogos respectivos, de los cuales la Secretaría de Desarrollo Social del Estado llevará un registro.
+Deberán anexarse a las declaratorias de adscripción de bienes culturales o de zonas protegidas, los inventarios y catálogos respectivos, de los cuales la Secretaría de Igualdad e Inclusión del Estado llevará un registro.
 
 ### CAPITULO XI
 
@@ -591,15 +599,17 @@ La declaración de bienes culturales se hará mediante decreto del Ejecutivo del
 
 La protección de los valores culturales a que se refiere esta Ley, comprende las acciones de investigar, rescatar, actualizar, preservar y difundir su conocimiento, tanto por las autoridades y órganos de apoyo, como por los particulares interesados.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTICULO 67.
 
-Las acciones a que se refiere el artículo anterior, estarán a cargo de la Secretaría de Desarrollo Social del Estado, de los órganos de apoyo y de los particulares interesados, y su finalidad será considerar los valores culturales del Estado como factor de integración de sus habitantes y expansión de la propia civilización.
+Las acciones a que se refiere el artículo anterior, estarán a cargo de la Secretaría de Igualdad e Inclusión del Estado, de los órganos de apoyo y de los particulares interesados, y su finalidad será considerar los valores culturales del Estado como factor de integración de sus habitantes y expansión de la propia civilización.
 
-N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON, CONFORME AL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 7 DE JUNIO DE 1995.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 68.
 
-La Secretaría de Desarrollo Social del Estado, elaborará un catálogo que contenga la descripción de las tradiciones, costumbres, trajes típicos o cualquiera otra manifestación, que por sus características merezca ser adscrita al Patrimonio Cultural.
+La Secretaría de Igualdad e Inclusión del Estado, elaborará un catálogo que contenga la descripción de las tradiciones, costumbres, trajes típicos o cualquiera otra manifestación, que por sus características merezca ser adscrita al Patrimonio Cultural.
 
 ### CAPITULO XII
 
@@ -721,11 +731,11 @@ El Comité Técnico del Fideicomiso administrará el fondo a que refiere el art�
 
 En la Convocatoria se establecerán el lugar y la fecha de recepción de las solicitudes, además de las bases y requisitos que deberán de acreditar para la ejecución de las obras de protección, restauración, conservación y recuperación del patrimonio histórico y cultural del Estado.
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 86.
 
-El comité a que refiere el artículo anterior estar (sic) integrado por un presidente que será el titular de CONARTE, un secretario técnico que será un servidor público designado por este último y seis vocales que serán los titulares o quien ellos designen de la Secretaría de Finanzas y Tesorería General del Estado, la Secretaría de Infraestructura y la Secretaría de Educación, así como tres ciudadanos que serán propuestos por el Gobernador del Estado y que deberán de ser de reconocida trayectoria dentro del ámbito histórico, artístico y cultural del Estado de Nuevo León.
+El comité a que refiere el artículo anterior estar (sic) integrado por un presidente que será el titular de CONARTE, un secretario técnico que será un servidor público designado por este último y seis vocales que serán los titulares o quien ellos designen de la Secretaría de Finanzas y Tesorería General del Estado, la Secretaría de Movilidad y Planeación Urbana y la Secretaría de Educación, así como tres ciudadanos que serán propuestos por el Gobernador del Estado y que deberán de ser de reconocida trayectoria dentro del ámbito histórico, artístico y cultural del Estado de Nuevo León.
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -846,3 +856,15 @@ P.O. 10 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 064. SE REFORMA LA FRACCIÓN II AL ARTÍCULO 4O (SIC), DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 137. SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 8, ASÍ COMO EL ARTÍCULO 9 DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE; SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 14 Y EL ARTÍCULO 24 DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 Y LA FRACCIÓN VII DEL ARTÍCULO 13 DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5 DE (SIC) LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEON”.]
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 139. SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 8; PRIMER PÁRRAFO DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 27; PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 35; PRIMER PÁRRAFO DEL ARTÍCULO 63; Y LOS ARTÍCULOS 64; 67; 68 Y 86, DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 51; EL PRIMER PÁRRAFO DEL ARTÍCULO 55 Y LA FRACCIÓN V DEL ARTÍCULO 60, DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente (sic) de su publicación en el Periódico Oficial del Estado.
