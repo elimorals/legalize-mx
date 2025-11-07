@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-10-23"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -309,9 +309,9 @@ Al efecto, la Ley establecerá las normas para alentar el desarrollo social, med
 
 En el ejercicio de la política estatal de desarrollo social serán principios rectores la libertad, solidaridad, justicia distributiva, inclusión, integralidad, participación social, sustentabilidad, respeto a la diversidad y transparencia.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-El Estado impulsará permanentemente el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Las niñas, niños, adolescentes y jóvenes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral, así como contar con una familia y a los servicios para la atención, cuidado, y desarrollo integral infantil, en términos de lo dispuesto en la ley de la materia.
+El Estado impulsará permanentemente el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Las niñas, niños, adolescentes y jóvenes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral, así como contar con una familia, a ser adoptados cuando ésta falte o no pueda vivir en ella y a los servicios para la atención, cuidado, y desarrollo integral infantil, en términos de lo dispuesto en la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -320,6 +320,10 @@ Los ascendientes, tutores o custodios tienen la obligación de preservar y hacer
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
 En los términos que señale la ley, esa política será objeto de evaluación, estará sujeta al control social de sus beneficiarios y toda persona podrá formular denuncia sobre hechos, actos u omisiones que redunden en daños al ejercicio de sus derechos sociales.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+El Estado de Tamaulipas reconoce a las personas mayores como sujetas plenas de derechos y garantiza su autonomía, independencia, dignidad, integridad y participación efectiva en la vida comunitaria y pública, sin discriminación por edad ni por ningún otro motivo.
 
 ###### Art. 17.
 
@@ -2429,21 +2433,35 @@ Las Magistradas y los Magistrados del Tribunal de Disciplina Judicial ejercerán
 
 Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo Juezas y Jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-III.- El Órgano de Administración Judicial contará con independencia técnica y de gestión y será responsable de la administración y carrera judicial del Poder Judicial del Estado.
+III.- El Órgano de Administración Judicial se integrará por cinco personas Magistradas contará con independencia técnica y de gestión y será responsable de la administración y carrera judicial del Poder Judicial del Estado.
 
-El Pleno del Órgano de Administración Judicial se integrará por cinco personas que durarán en su encargo seis años improrrogables, de las cuales una será designada por el Poder Ejecutivo; una por el Congreso del Estado mediante mayoría calificada por el voto de las dos terceras partes de sus integrantes presentes; y tres por el Pleno del Supremo Tribunal de Justicia, con mayoría de seis votos.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Las Magistradas y los Magistrados integrarán el Pleno del Órgano de Administración Judicial, durarán en su encargo seis años improrrogables, de las cuales una será designada por el Poder Ejecutivo; una por el Congreso del Estado mediante mayoría calificada por el voto de las dos terceras partes de sus integrantes presentes; y tres por el Pleno del Supremo Tribunal de Justicia, con mayoría de seis votos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 La regulación de la titularidad y duración de la presidencia del Órgano de Administración Judicial, se determinará en las leyes reglamentarias.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 Quienes integren el Pleno del Órgano de Administración Judicial deberán ser mexicanas o mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 Durante su encargo, las personas integrantes del Pleno del órgano de administración sólo podrán ser removidas en los términos del Título XI de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Órgano de Administración Judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Escuela Judicial de Tamaulipas, responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, sus órganos auxiliares y, en su caso, del personal de las defensorías públicas, organismos de protección de los derechos humanos, instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 De conformidad con lo que establezca la ley, el Órgano de Administración Judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal en los asuntos de su competencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO PERTENECE A LA FRACCIÓN III], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 El Órgano de Administración Judicial elaborará y aprobará el proyecto de presupuesto del Poder Judicial del Estado y lo remitirá para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
 
@@ -5952,6 +5970,30 @@ El presente Decreto que reforman los Artículos Tercero y Cuarto Transitorios de
 P.O. 23 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-522 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 16, PÁRRAFO NOVENO; Y ARTÍCULO 17, FRACCIONES XIV Y XV; Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN NATURAL AL ARTÍCULO 16; LA FRACCIÓN XVI AL ARTÍCULO 17; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 144 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-524 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DE LA FRACCIÓN III DEL ARTÍCULO 106, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-525 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ONCE DEL ARTÍCULO 16, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-526 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO CATORCE AL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
