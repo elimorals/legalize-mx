@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2025-10-10"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -5073,6 +5073,10 @@ Tipo y punibilidad.- Al que simule un acto jurídico, o un acto o escritos judic
 
 Si del juicio que se sigue en contra de un depositario judicial, resultare como consecuencia el secuestro de una cosa embargada o depositada con anterioridad, cualquiera que sea la persona contra la cual se sigue el juicio, se presumirá que éste fue simulado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+Además de las penas previstas en el párrafo primero de este artículo, si quien resultare culpable del delito fuese abogado, patrono o litigante, se le impondrá la suspensión e inhabilitación para ejercer la profesión hasta por cinco años.
+
 ### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
@@ -6910,3 +6914,9 @@ P.O. 10 DE OCTUBRE DE 2025.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los Ayuntamientos del Estado de Baja California deberán incorporar en sus iniciativas de Ley de Ingresos la disposición que exceptúe del pago de infracciones, derechos por arrastre, maniobras y almacenaje de vehículos robados y recuperados, conforme a lo previsto en el artículo 208-SEPTIES del Código Penal para el Estado de Baja California.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 158 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 325 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
