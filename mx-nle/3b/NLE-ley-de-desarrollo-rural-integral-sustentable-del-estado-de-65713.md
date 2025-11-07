@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-6571
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2023-12-20"
+last_updated: "2025-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 31 de diciembre de 2008.
 
@@ -53,9 +53,17 @@ II. Impulsar el desarrollo rural en forma integral y sustentable;
 
 III. Promover la participación organizada y corresponsable de los pobladores rurales en el desarrollo rural;
 
-IV. Procurar la continuidad y suficiencia de los planes y programas de Gobierno con una visión de largo plazo; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-V. Disminuir las diferencias existentes en el desarrollo del medio rural, como una forma de alcanzar la justicia social en el campo de Nuevo León.
+IV. Procurar la continuidad y suficiencia de los planes y programas de Gobierno con una visión de largo plazo;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+V. Disminuir las diferencias existentes en el desarrollo del medio rural, como una forma de alcanzar la justicia social en el campo de Nuevo León; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+VI. Coadyuvar mediante políticas y programas con el relevo generacional de los productores que se dediquen a las actividades rurales y contribuir al desarrollo rural sustentable de la Entidad.
 
 ###### Artículo 2.
 
@@ -115,9 +123,17 @@ IX. Establecer programas para favorecer el equilibrio entre la actividad agropec
 
 X. Coadyuvar al arraigo de la población rural mediante la generación de fuentes de empleo en su lugar de origen;
 
-XI. Propiciar y en su caso fortalecer la organización para la producción agropecuaria productiva; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-XII. Reforzar todas aquellas acciones tendientes al fomento del desarrollo rural sustentable.
+XI. Propiciar y en su caso fortalecer la organización de los eslabones para la producción agropecuaria productiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XII. Impulsar a mujeres y jóvenes productores que se dediquen a las actividades rurales con el objetivo de fomentar su participación efectiva en los procesos de desarrollo rural; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XIII. Promover todas aquellas acciones tendientes al fomento del desarrollo rural sustentable.
 
 ###### Artículo 6.
 
@@ -167,6 +183,10 @@ XXI.- Entidad Parafinanciera: Organismo privado, acreditado ante la Banca para p
 
 XXII.- Estado: El Estado Libre y Soberano de Nuevo León.
 
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XXII Bis.- Estiaje. El periodo que dura el nivel más bajo o de disminución del caudal, que, en ciertas épocas del año, tiene las aguas de un rio, arroyo, estero, lagunas o manto acuífero, por causa de la sequía.
+
 XXIII.- Estímulos Fiscales: Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación.
 
 XXIV.- Integral: La articulación social, económica, ambiental y cultural que propicia el desarrollo del sector rural de manera sustentable.
@@ -197,6 +217,10 @@ XXXVI.- Recursos naturales: Los elementos naturales renovables y no renovables p
 
 XXXVII.- Red o cadena de valor: La colaboración estratégica de empresas con el propósito de satisfacer objetivos específicos de mercado en el largo plazo, y lograr beneficios mutuos para todos los eslabones de la cadena. El término de cadena de valor se refiere a una red de alianzas verticales o estratégicas entre varias empresas de negocios independientes dentro de una categoría de productos o servicios.
 
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XXXVII Bis.- Relevo generacional: Proceso gradual y progresivo para transferir tierras, infraestructura productiva, semovientes, permisos, concesiones y demás medios de producción, experiencias, técnicas, conocimientos y el desarrollo de capacidades en las y los jóvenes productores que se dediquen a las actividades rurales con el fin de contribuir a la productividad, competitividad y seguridad alimentaria del sector rural.
+
 XXXVIII.- Rural: La definición territorial aplicada a poblaciones con actividades económicas preponderantemente primarias, áreas conurbadas y áreas urbanas que realicen primordialmente actividades agropecuarias, forestales, de acuacultura o de transformación agroindustrial.
 
 XXXIX.- Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de los alimentos a la población, sin importar el origen de los bienes que proveen dicho abasto.
@@ -208,6 +232,10 @@ XLI.- Secretaría de Desarrollo Económico. La Secretaría de Desarrollo Económ
 XLII.- Comité Técnico Estatal: el órgano de decisiones del ejercicio de los recursos públicos del estado o de los concertados por el estado atendiendo las Leyes y reglamentos estatales y federales.
 
 XLIII.- Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; para fines de esta Ley, es sinónimo de cadena productiva.
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XLIII Bis.- Sequía: El déficit prolongado de precipitación, que ocurre en un territorio y tiempo determinado que afecta los sistemas naturales y productivos. El grado de intensidad de sequía, es reportado quincenalmente por el Servicio Meteorológico Nacional.
 
 XLIV.- Sustentabilidad: Se refiere a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible los ecosistemas.
 
@@ -307,9 +335,17 @@ VI. Con base en los resultados de la fracción IV, reconocer los avances logrado
 
 VII. Impulsar y fortalecer la constitución y consolidación de las organizaciones de productores rurales, procurando con pleno respeto a su autonomía que en el seno de las mismas se observen los principios democráticos, de transparencia, participación y equidad, para el logro de sus objetivos;
 
-VIII. Proponer modificaciones en las reglas de operación de los programas estatales de fomento al desarrollo rural, así como proponer las modificaciones a las reglas de operación de los programas federales de fomento al desarrollo rural, dentro de los márgenes y procedimientos que establezca la normatividad vigente; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-IX. Proponer proyectos y asignación de apoyos que establezcan las reglas de operación de los programas de fomento al desarrollo rural.
+VIII. Proponer modificaciones en las reglas de operación de los programas estatales de fomento al desarrollo rural, así como proponer las modificaciones a las reglas de operación de los programas federales de fomento al desarrollo rural, dentro de los márgenes y procedimientos que establezca la normatividad vigente;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+IX. Proponer proyectos y asignación de apoyos que establezcan las reglas de operación de los programas de fomento al desarrollo rural; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+X. Proponer medidas para erradicar todo tipo de explotación, así como promover el bienestar y pleno ejercicio de los derechos de las personas trabajadoras del medio rural.
 
 ###### Artículo 13.
 
@@ -357,9 +393,17 @@ XX. Impulsar la creación y fortalecimiento de la agroindustria, incrementar el 
 
 XXI. Promover el desarrollo de agroindustrias en las zonas rurales del Estado;
 
-XXII. Apoyar y fortalecer económica, jurídica y operacionalmente, con base en la factibilidad presupuestaria, a las organizaciones rurales y organismos auxiliares, para el mejor cumplimiento de sus objetivos en favor del desarrollo rural; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-XXIII. Apoyar las actividades del Consejo Estatal y promover la formación y consolidación de los Consejos Municipales de Desarrollo Rural Integral Sustentable.
+XXII. Apoyar y fortalecer económica, jurídica y operacionalmente, con base en la factibilidad presupuestaria, a las organizaciones rurales y organismos auxiliares, para el mejor cumplimiento de sus objetivos en favor del desarrollo rural;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XXIII. Apoyar las actividades del Consejo Estatal y promover la formación y consolidación de los Consejos Municipales de Desarrollo Rural Integral Sustentable; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XXIV. Promover el pleno ejercicio de los derechos de las comunidades y personas trabajadoras del medio rural.
 
 ###### Artículo 14.
 
@@ -389,9 +433,11 @@ X. Las demás que conforme a la presente Ley le correspondan.
 
 ### CAPÍTULO I. DE LA POLÍTICA ESTATAL PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-El Ejecutivo del Estado de Nuevo León propugnará por la creación, promoción y ejecución de una política, cuyos programas y acciones tengan como fin la contribución del campo nuevoleonés al abasto y seguridad alimentarias, y el desarrollo de las potencialidades rurales que eleven la calidad de vida de su población, asegurando el crecimiento social, económico y sustentable de la entidad.
+El Ejecutivo del Estado de Nuevo León propugnará por la creación, promoción y ejecución de una política, cuyos programas y acciones tengan como fin la contribución del campo nuevoleonés al abasto y seguridad alimentaria, y el desarrollo de las potencialidades rurales que eleven la calidad de vida de su población, asegurando el crecimiento social, económico y sustentable de la entidad, así como el pleno ejercicio de los derechos de las comunidades y las personas trabajadoras del medio rural.
 
 ###### Artículo 16.
 
@@ -421,9 +467,11 @@ Para agilizar y transparentar el impulso del desarrollo rural, se descentralizar
 
 ### CAPÍTULO II. DE LA PLANEACIÓN PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-La planeación para el desarrollo rural tomará en cuenta las demandas y aspiraciones de los productores rurales, familias, núcleos sociales y organizaciones económicas, entre otros, como eje de la planeación del sector rural.
+La planeación para el desarrollo rural tomará en cuenta las demandas y aspiraciones de los productores rurales, familias, núcleos sociales, organizaciones económicas y el ejercicio de sus derechos humanos, entre otros, como eje de la planeación del sector rural.
 
 ###### Artículo 23.
 
@@ -437,9 +485,11 @@ La rectoría de la planeación estatal corresponde al Ejecutivo del Estado y a l
 
 La base de la planeación del desarrollo rural, la constituye los Consejos Municipales de Desarrollo Rural, quienes participarán en la integración del plan de desarrollo rural municipal. La representación municipal presentará sus propuestas para ser incluidas en programas de desarrollo rural regional y éstos a su vez, deberán ser consideradas en el Programa Estatal de Desarrollo Rural.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 26.
 
-La planeación del desarrollo rural tomará en cuenta la tipología de los productores en el Estado, conforme a los criterios aceptados actualmente a nivel federal y con aquellos criterios que establezca el Consejo Estatal, con el propósito de establecer políticas diferenciadas que atiendan prioritariamente a los habitantes en pobreza y pobreza extrema.
+La planeación del desarrollo rural tomará en cuenta la tipología de los productores en el estado, conforme a los criterios aceptados actualmente a nivel federal y con aquellos criterios que establezca el consejo estatal, con el propósito de establecer políticas diferenciadas que atiendan prioritariamente a los habitantes en situación vulnerable y jóvenes que desean emprender proyectos agroalimentarios y de prestación de servicios en localidades rurales.
 
 ### CAPÍTULO III. DEL PLAN ESTATAL DE DESARROLLO Y SU PROGRAMA SECTORIAL RURAL INTEGRAL SUSTENTABLE
 
@@ -528,6 +578,10 @@ a) Información respecto de los programas públicos que se implementen y los req
 b) Dar a conocer los mecanismos sobre la presentación de quejas y denuncias, ante las instancias correspondientes, en defensa de sus derechos.
 
 c) Información sobre las condiciones laborales que señala la Ley Federal del Trabajo.
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XI. La implementación de medidas para combatir cualquier tipo de explotación de las comunidades y las personas trabajadoras del medio rural.
 
 ###### Artículo 32.
 
@@ -827,21 +881,65 @@ Los gobiernos estatal y municipales, fomentarán el uso racional de los recursos
 
 Se fomentará y fortalecerá en coadyuvancia con las autoridades competentes, la participación organizada de los productores en la planeación, operación y evaluación de programas y acciones, encaminadas a erradicar plagas y enfermedades agropecuarias, forestales y acuícolas.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+## TÍTULO IV BIS. MITIGACIÓN DEL ESTIAJE Y LA SEQUÍA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 81 Bis.
+
+Se establecerán medidas preventivas, correctivas y de mitigación para reducir los impactos del estiaje y la sequía en el sector rural, garantizando la seguridad hídrica, la sostenibilidad ambiental y la productividad agropecuaria.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO II. INSTRUMENTOS DE PLANEACIÓN
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 81 Bis 1.
+
+El Gobierno del Estado, a través de la Secretaría de Medio Ambiente, en coordinación con la Secretaría de Desarrollo Regional y Agropecuario y los municipios, elaborará un Programa Estatal de Prevención de Sequías, que incluya:
+
+I. Diagnóstico de zonas vulnerables.
+
+II. Acciones para la recarga de acuíferos y conservación de suelos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO III. MEDIDAS DE ADAPTACIÓN Y MITIGACIÓN
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 81 Bis 2.
+
+La Secretaría de Desarrollo Regional y Agropecuario fomentará prácticas sostenibles, para la adopción de riego eficiente y cultivos resistentes a sequías.
+
+Además, realizara un análisis periódico sobre la viabilidad de las actividades rurales de alto consumo de agua en zonas con estrés hídrico.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 81 Bis 3.
+
+La Secretaría de Desarrollo Regional y Agropecuario, realizará campañas de concientización sobre el uso eficiente del agua en comunidades rurales, así como capacitación en técnicas de agricultura de conservación, manejo de agostaderos, pastoreo regenerativo y manejo sostenible de suelos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO IV. MECANISMOS DE EMERGENCIA
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 81 Bis 4.
+
+Cuando el Sistema Meteorológico Nacional registre una intensidad de sequía inusual por un periodo superior a seis meses consecutivos, con niveles de precipitación inferiores al 50% del promedio histórico, la Secretaría de Desarrollo Regional y Agropecuario, en coordinación con las autoridades competentes, activará los protocolos correspondientes para la distribución equitativa del agua, la implementación de subsidios temporales y el otorgamiento de apoyos a los pequeños productores agropecuarios.
+
 ## TÍTULO V. DE LA INVESTIGACIÓN Y TRANSFERENCIA TECNOLÓGICA
 
 ### CAPÍTULO ÚNICO. DE LA INVESTIGACIÓN Y TRANSFERENCIA TECNOLÓGICA
-
-### CAPÍTULO ÚNICO. DE LA COMERCIALIZACIÓN
-
-### CAPÍTULO ÚNICO. DE LA FORMACIÓN Y CAPACITACIÓN RURAL
-
-### CAPÍTULO I. DEL DESARROLLO SOCIAL
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-## TÍTULO VI. DE LA COMERCIALIZACIÓN DE BIENES Y SERVICIOS DEL SECTOR RURAL
-
-### CAPÍTULO II. DE LOS TRABAJADORES Y JORNALEROS AGRÍCOLAS
 
 ###### Artículo 82.
 
@@ -887,9 +985,9 @@ El Ejecutivo del Estado fortalecerá la cobertura estatal de la infraestructura 
 
 Para la formación, capacitación, actualización y desarrollo de habilidades, se establecerá una vinculación con instituciones educativas establecidas o relacionadas con el medio rural, en el despliegue de acciones a través de una red de prestadores de servicios profesionales acreditados por la Corporación.
 
-## TÍTULO VII. DE LA FORMACIÓN DEL CAPITAL HUMANO
+## TÍTULO VI. DE LA COMERCIALIZACIÓN DE BIENES Y SERVICIOS DEL SECTOR RURAL
 
-### CAPÍTULO ÚNICO. REGLAS PARA EL OTORGAMIENTO DE APOYOS ECONÓMICOS
+### CAPÍTULO ÚNICO. DE LA COMERCIALIZACIÓN
 
 ###### Artículo 88.
 
@@ -941,9 +1039,9 @@ Se establecerán y fortalecerán las políticas de abasto interno, como una form
 
 Los bienes y servicios del medio rural, producidos por pequeños productores del estado organizados, tendrán preferencia por parte del estado, a través de contratos de compraventa directa para el abasto al sector gubernamental privilegiando su autorización, con observancia de la Ley de Adquisiciones y Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles e Inmuebles del Estado de Nuevo León.
 
-## TÍTULO VIII. DEL DESARROLLO SOCIAL Y LOS TRABAJADORES AGRÍCOLAS
+## TÍTULO VII. DE LA FORMACIÓN DEL CAPITAL HUMANO
 
-### CAPÍTULO ÚNICO. DE LA DENUNCIA CIUDADANA
+### CAPÍTULO ÚNICO. DE LA FORMACIÓN Y CAPACITACIÓN RURAL
 
 ###### Artículo 94.
 
@@ -971,9 +1069,17 @@ VII.- Promover y divulgar el conocimiento para el mejor aprovechamiento de los p
 
 VIII.- Proporcionar a los productores y agentes de la sociedad rural conocimientos para participar activamente en los mecanismos relativos al crédito y al financiamiento;
 
-IX.- Capacitar a los productores para acceder a la información de mercados y mecanismos de acceso a los mismos; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
-X.- Contribuir a elevar el nivel educativo y tecnológico en el medio rural.
+IX.- Capacitar a los productores para acceder a la información de mercados y mecanismos de acceso a los mismos;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+X.- Contribuir a elevar el nivel educativo y tecnológico en el medio rural; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+
+XI.- Fomentar el conocimiento de los derechos humanos de las comunidades y las personas trabajadoras del medio rural, así como de los mecanismos de defensa en caso de ser vulnerados.
 
 ###### Artículo 96.
 
@@ -1053,7 +1159,11 @@ VII.- Las demás materias que impulsen el desarrollo rural integral sustentable.
 
 Para fines de consolidar la formación rural, se crea la Comisión Estatal de Capacitación del Sector Rural, apegado a la Legislación Federal, Comisión que realizará el diseño, ejecución y evaluación de los programas de capacitación autorizados.
 
-## TÍTULO IX. DE LOS APOYOS ECONÓMICOS
+## TÍTULO VIII. DEL DESARROLLO SOCIAL Y LOS TRABAJADORES AGRÍCOLAS
+
+### CAPÍTULO I. DEL DESARROLLO SOCIAL
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 102.
 
@@ -1079,6 +1189,8 @@ La Corporación promoverá mecanismos e instrumentos de protección en la seguri
 
 Los Ayuntamientos con zonas rurales en la entidad deberán formular su Programa Sectorial de Desarrollo Rural como un apartado del Plan Municipal del Desarrollo que establece la Ley municipal respectiva.
 
+### CAPÍTULO II. DE LOS TRABAJADORES Y JORNALEROS AGRÍCOLAS
+
 ###### Artículo 108.
 
 El Desarrollo Rural en su aspecto social, tiene como principio la protección de los trabajadores rurales, en general, y a los jornaleros agrícolas y migratorios, en particular, bajo los principios de salvaguardar su integridad, el combate a la pobreza y el desarrollo de esquemas socio productivos para la generación del empleo.
@@ -1103,7 +1215,9 @@ El Consejo Estatal propondrá mecanismos para la reversión de la cultura migrat
 
 Bajo el principio de equidad y para disminuir la pobreza, la Corporación, coordinará esfuerzos y acciones específicas para defensa y dignificación de la vida de los trabajadores y jornaleros agrícolas, mediante la concurrencia de diversas dependencias, acciones, instrumentos y recursos que inciden en el sector rural.
 
-## TÍTULO X. DEL DERECHO CIUDADANO DE DENUNCIA
+## TÍTULO IX. DE LOS APOYOS ECONÓMICOS
+
+### CAPÍTULO ÚNICO. REGLAS PARA EL OTORGAMIENTO DE APOYOS ECONÓMICOS
 
 ###### Artículo 114.
 
@@ -1146,6 +1260,10 @@ IV.- Lograr la transparencia mediante la difusión de las reglas de acceso y la 
 V.- Evaluar y realizar estudios de factibilidad en función de su impacto económico y social y su posible eficiencia en su administración; y
 
 VI.- Establecer la responsabilidad de los productores y de las instituciones con respecto a la utilización de los apoyos, conforme al destino de los mismos y a las reglas para su otorgamiento.
+
+## TÍTULO X. DEL DERECHO CIUDADANO DE DENUNCIA
+
+### CAPÍTULO ÚNICO. DE LA DENUNCIA CIUDADANA
 
 ###### Artículo 120.
 
@@ -1248,3 +1366,11 @@ P.O. 20 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 466. SE REFORMA LA FRACCIÓN VIII Y SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 31 DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE NUEVO LEÓN”.]
 
 Único: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 7 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 141. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las obligaciones emanadas del presente Decreto se harán conforme a la suficiencia presupuestal.
