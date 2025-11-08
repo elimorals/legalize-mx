@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2022-10-15"
+last_updated: "2025-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -2869,9 +2869,11 @@ Para garantizar la construcción de las obras de urbanización, el fraccionador 
 
 Las garantías otorgadas para la realización de las obras de urbanización, no podrán ser liberadas al fraccionador, hasta que hayan sido cumplidas las obligaciones relativas.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 178.
 
-Para iniciar la venta de lotes, opción de venta, efectuar contratos o actos que impliquen la traslación de dominio o posesión de un fraccionamiento, deberá obtenerse previamente la autorización por parte del municipio a petición del primero, misma que se otorgará siempre y cuando se hayan terminado las obras de urbanización de conformidad con el tipo de fraccionamiento y, puesto en servicio como mínimo las obras de agua potable, alcantarillado sanitario, drenaje pluvial, red de energía eléctrica y alumbrado público, y que éstas no se interfieran con la realización de las demás obras del fraccionamiento, o bien que su ejecución se garantice a plena satisfacción del municipio.
+Para iniciar la venta de lotes, opción de venta, efectuar contratos o actos que impliquen la traslación de dominio o posesión de un fraccionamiento, deberá obtenerse previamente la autorización por parte del municipio a petición del primero, misma que se otorgará siempre y cuando se hayan terminado las obras de urbanización de conformidad con el tipo de fraccionamiento y, puesto en servicio como mínimo las obras de agua potable, alcantarillado sanitario, drenaje pluvial, red de energía eléctrica y alumbrado público, y que éstas no se interfieran con la realización de las demás obras del fraccionamiento. En caso de incumplimiento de los requisitos establecidos en este artículo, serán aplicables las sanciones señaladas en las fracciones III, IV y V del artículo 218 de esta Ley.
 
 ###### ARTÍCULO 179.
 
@@ -3520,3 +3522,13 @@ P.O. 15 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 8 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 835.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 178 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El titular del Poder Ejecutivo de (sic) Estado de Oaxaca, emitirá las disposiciones reglamentarias para la armonización del presente Decreto, en el plazo de ciento ochenta días contados a partir de su entrada en vigor
