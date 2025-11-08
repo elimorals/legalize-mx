@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2025-04-05"
+last_updated: "2025-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -1273,9 +1273,11 @@ La Secretaría contará con el padrón de empleados y trabajadores a los que se 
 
 ### CAPÍTULO ÚNICO. DE LA SITUACIÓN DE EMERGENCIA Y DESASTRE
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 64.
 
-La Secretaría en coordinación con las autoridades estatales en materia de protección civil y los Ayuntamientos, establecerán programas o acciones tendientes a fomentar en los turistas medidas preventivas e indicaciones sobre cómo actuar ante cualquier contingencia que se presente en el Estado.
+La Secretaría en coordinación con las autoridades estatales en materia de protección civil y los Ayuntamientos, establecerán programas o acciones tendientes a fomentar en los turistas medidas preventivas e indicaciones de manera escrita, visual, sonora, lengua de señas mexicana, sistema braille, sobre los procedimientos a seguir ante cualquier contingencia en el Estado. Además, se procurará que de (sic) cuente con rutas de evacuación accesibles y se cuente con salidas de emergencia y las zonas de seguridad con señalización inclusiva.
 
 ###### Artículo 65.
 
@@ -1628,3 +1630,11 @@ P.O. 5 DE ABRIL DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 8 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 838.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 64 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. (SIC)
