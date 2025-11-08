@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2025-02-01"
+last_updated: "2025-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1321,7 +1321,7 @@ b) Libertad preparatoria; y
 
 c) Remisión parcial de la pena.
 
-III. Indulto.
+III. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2025)
 
 IV. Condena condicional.
 
@@ -1519,7 +1519,9 @@ Efectos y procedencia del indulto
 
 El indulto extingue la potestad de ejecutar las penas y las medidas de seguridad impuestas en sentencia ejecutoria, salvo el decomiso de instrumentos, objetos y productos relacionados con el delito, la reparación del daño y la inhabilitación para ejercer una profesión o alguno de los derechos civiles o políticos o para desempeñar algún cargo o empleo.
 
-Es facultad discrecional del Titular del Ejecutivo conceder el indulto, con las excepciones establecidas en la ley. Particularmente, no procede el indulto en el delito de violación y en los imprescriptibles.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2025)</small>
+
+Es facultad discrecional del Gobernador o Gobernadora del Estado conceder el indulto, conforme a las disposiciones y las excepciones establecidas en la Ley de Indulto del Estado de Chihuahua.
 
 ### CAPÍTULO IX. AMNISTÍA
 
@@ -5952,3 +5954,15 @@ P.O. 1 DE FEBRERO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVIII/EXLEY/0297/2025 I P.O, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA; ASÍ MISMO SE EXPIDE LA LEY DE INDULTO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al contenido del presente Decreto.
