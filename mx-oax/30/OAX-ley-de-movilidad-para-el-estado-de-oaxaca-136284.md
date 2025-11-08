@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2025-09-24"
+last_updated: "2025-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -1171,9 +1171,9 @@ Los vehículos del servicio de transporte deberán contar con póliza de seguro 
 
 La Secretaría establecerá, coordinará y supervisará programas de capacitación en materia de movilidad, para operadores, conductores y concesionarios.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2025)</small>
 
-Adicionalmente, dentro de los Sistemas Integrados de Transporte Público, el CityBus podrá establecer y coordinar programas de capacitación para los operadores.
+Los programas de capacitación incluirán temáticas relativas a la atención y trato a las personas usuarias, uso de lenguaje inclusivo en el ámbito de discapacidad, primeros auxilios, seguridad vial, disposiciones normativas de la presente Ley y su Reglamento, entre otros.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
@@ -3718,3 +3718,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 837.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 59 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
