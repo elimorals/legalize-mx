@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2025-10-20"
+last_updated: "2025-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -2111,7 +2111,13 @@ La autorización y el reconocimiento incorporan a las instituciones que los obte
 
 Los reconocimientos tendrán una vigencia de cinco años, después de la cual, para poder renovarse, se deberán evaluar la calidad y pertinencia de los servicios ofrecidos, así como el cumplimiento de las disposiciones contenidas en la presente Ley.
 
-Los Particulares podrán suspender el servicio educativo por una sola ocasión y hasta por tres ciclos escolares continuos, los cuales deberán renovarse anualmente, debiendo justificar dicha situación ante la Autoridad Educativa del Estado, mediante aviso que presente en escrito libre, dentro de los diez días hábiles posteriores a la fecha de inicio del ciclo escolar que corresponda, quien en un plazo no mayor a quince días hábiles posteriores a la recepción del citado aviso, emitirá la procedencia o improcedencia de la suspensión.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+Los particulares que impartan educación básica, podrán suspender el servicio educativo por una sola ocasión y hasta por tres ciclos escolares continuos, los cuales deberán renovarse anualmente, debiendo justificar dicha situación ante la Autoridad Educativa del Estado, mediante aviso que presente en escrito libre, dentro de los diez días hábiles posteriores a la fecha de inicio del ciclo escolar que corresponda, quien en un plazo no mayor a quince días hábiles posteriores a la recepción del citado aviso, emitirá la procedencia o improcedencia de la suspensión. En caso de que los particulares omitan el aviso de suspensión, se harán acreedores a la revocación de la autorización o reconocimiento de validez oficial de los estudios que impartan.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+Los particulares que impartan educación media superior y educación superior, podrán suspender el servicio educativo hasta por tres ocasiones, ya sean continuos o discontinuos, los cuales deberán ser informados (sic) Autoridad Educativa del Estado, mediante aviso que presente en escrito libre, dentro de los diez días hábiles posteriores a la fecha de inicio del cuatrimestre y/o semestre que corresponda, quien en un plazo no mayor a quince días hábiles posteriores a la recepción del citado aviso, emitirá la procedencia o improcedencia de la suspensión. Al momento de cumplido el plazo de suspensión, dar aviso a la Autoridad Educativa del Estado por escrito libre que cuentan con matrícula y reinicien el servicio educativo. En caso de que los particulares omitan el aviso de suspensión, se harán acreedores a la revocación de la autorización o reconocimiento de validez oficial de los estudios que impartan.
 
 ###### Artículo 137.
 
@@ -2634,3 +2640,11 @@ P.O. 20 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 266.- SE ADICIONA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del ·Estado de Aguascalientes.
+
+P.O. 10 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 280.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
