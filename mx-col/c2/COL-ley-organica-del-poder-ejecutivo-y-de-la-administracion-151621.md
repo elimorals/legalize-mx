@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-ejecutivo-y-de-la-administracion-151621"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2022-10-15"
+last_updated: "2025-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Suplemento Número 2 del Número 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -1003,6 +1005,14 @@ XII. Promover mecanismos de coordinación, cooperación y colaboración entre lo
 
 XIII. Fungir como instancia de coordinación, asesoría y respaldo para las cámaras y organizaciones representativas del sector privado empresarial, colegios de profesionistas y en general de las asociaciones de los sectores productivos, así como de los entes públicos y actores privados que coadyuvan al desarrollo económico del Estado;
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+XIII Bis. Operar los sitios de interés turístico estatales, muebles e inmuebles propiedad o en resguardo del gobierno del Estado, de conformidad con las disposiciones legales aplicables y en coordinación con las autoridades facultadas para su administración;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+XIII Ter. Operar los Parques Turísticos del Estado, en el ámbito de su vocación turística, en coordinación con el Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima y demás autoridades competentes, cuando se trate de espacios que incluyan áreas naturales protegidas, áreas de valor ambiental, elementos de biodiversidad, ecosistemas o recursos naturales sujetos a protección conforme a la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima. La administración turística de estos recintos no podrá contravenir los planes de manejo, programas de conservación o declaratorias emitidas por la autoridad ambiental estatal;
+
 XIV. Mantener la consulta y participación con las cámaras y organizaciones representativas del sector privado empresarial, colegios de profesionistas y en general con las asociaciones de los sectores productivos para la atención de los asuntos relativos a la actividad económica;
 
 XV. Asesorar a los sectores social y privado y municipios en el establecimiento de empresas o en la ejecución de proyectos productivos acorde con las vocaciones económicas del Estado;
@@ -1275,7 +1285,9 @@ En los reglamentos interiores de las dependencias centralizadas se señalarán l
 
 El control interno de las dependencias y entidades de la Administración Pública del Estado estará a cargo de la Contraloría General del Estado, sin perjuicio de que las entidades paraestatales cuenten con sus propios órganos internos de control cuando por la dimensión de su estructura y funciones así lo requieran y se autorice.
 
-La Contraloría General es la dependencia con rango equivalente al de Secretaría, dotada de autonomía técnica y de gestión, responsable de la auditoría, fiscalización, evaluación y control interno de las dependencias y entidades de la Administración Pública del Estado, competente para vigilar la actuación de los servidores públicos que la integran y promover las sanciones que correspondan por responsabilidad administrativa; cuya organización, procedimientos y atribuciones serán las que determinen las leyes, su reglamento interior y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+La Contraloría General es la dependencia con rango equivalente al de Secretaría, dotada de autonomía técnica y de gestión, responsable de la auditoría, fiscalización, evaluación y control interno de las dependencias y entidades de la Administración Pública el (sic) Estado, así como de ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales; competente para vigilar la actuación de las personas servidoras públicas que la integran y promover las sanciones que correspondan por responsabilidad Administrativa; cuya organización, procedimientos y atribuciones serán las que determinen las leyes, su reglamento interior y demás disposiciones jurídicas aplicables.
 
 A la Contraloría General, además de las funciones previstas en el párrafo anterior, le corresponderá el despacho de los asuntos siguientes:
 
@@ -1311,7 +1323,9 @@ XV. Informar periódicamente a la persona titular del Poder Ejecutivo y, en su c
 
 XVI. Recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar los servidores públicos del Estado, verificar su contenido mediante las investigaciones que resulten pertinentes, así como registrar la información sobre las sanciones administrativas que les hayan sido impuestas de conformidad con la legislación aplicable;
 
-XVII. Intervenir y coordinar el proceso de entrega-recepción a la conclusión del periodo constitucional del Poder Ejecutivo, así como en los casos de sustitución de los titulares de las dependencias y entidades de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Normar, intervenir y coordinar el proceso de entrega-recepción a la conclusión del periodo constitucional del Poder Ejecutivo, así como en los casos de sustitución de los titulares de las dependencias y entidades de la Administración Pública del Estado;
 
 XVIII. Atender las quejas, denuncias y sugerencias que presenten los particulares, por actos u omisiones que pudieran ser constitutivas de faltas administrativas con motivo de convenios, contratos e instrumentos que se celebren con las dependencias y entidades de la Administración Pública del Estado;
 
@@ -1331,7 +1345,25 @@ XXV. Coadyuvar con la Secretaría de Desarrollo Económico para la adopción de 
 
 XXVI. Formular el Código de Ética aplicable para los servidores públicos de la Administración Pública del Estado y las Reglas de Integridad para el ejercicio de la función pública; y
 
-XXVII. Las demás que le encomienden las leyes, reglamentos y disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+XXVII. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables en la materia; así como conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+XXVIII. Promover y consolidar los principios de la transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XXVIII ANTERIOR, VÉASE PUBLICACION OFICIAL P.O. 10 DE NOVIEMBRE DE 2025, PÁGINA 10.]</small>
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+XXVIII (SIC). Promover y consolidar los principios de la transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+XXIX. Impulsar la transparencia proactiva y la publicación de datos en formatos accesibles a la ciudadanía; vigilar la aplicación de las políticas de gobierno digital y las de gobierno y datos abiertos de la Administración Pública Estatal y Municipal, en términos de las disposiciones jurídicas aplicables en la materia; y
+
+XXX. Las demás que le encomienden las leyes, reglamentos y disposiciones jurídicas aplicables.
 
 ###### Artículo 53.
 
@@ -1454,3 +1486,15 @@ El presente Decreto, en lo que respecta a los artículos primero y segundo de la
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, en lo que respecta a su artículo tercero de la reforma a la Ley Orgánica del Poder Ejecutivo y de la Administración Pública del Estado de Colima, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 10 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 193.- POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, las dependencias correspondientes deberán realizar las modificaciones necesarias a sus reglamentos interiores, así como las modificaciones a sus estructuras orgánicas, para contemplar en dicha normativa las nuevas atribuciones a ejercer.
+
+TERCERO. Dentro de los 60 días hábiles siguientes a la entrada en vigor del presente Decreto, la Contraloría deberá realizar las modificaciones necesarias a los manuales y lineamientos respectivos.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, así como las modificaciones a la estructura orgánica y al ejercicio de las nuevas atribuciones conferidas a la Contraloría, deberán cubrirse con cargo a su presupuesto autorizado para el presente ejercicio fiscal y subsecuentes, mediante la realización de las adecuaciones presupuestales respectivas que se realizarán conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizan ampliaciones al presupuesto de la Contraloría.
