@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2024-07-22"
+last_updated: "2025-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -69,9 +69,9 @@ VI. Las relaciones entre las autoridades, los prestadores de los servicios públ
 
 VII. La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento de los sistemas de agua potable, alcantarillado, saneamiento y su reuso; y
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
 
-VIII. La organización, funcionamiento y atribuciones relativas a la captación de aguas pluviales.
+VIII. La organización, funcionamiento y atribuciones relativas a la captación de aguas pluviales, priorizando la adopción de tecnologías y estrategias, para su implementación y optimización.0 (sic)
 
 ###### ARTICULO 3o.
 
@@ -2716,3 +2716,11 @@ P.O. 22 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 10 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 276.- SE REFORMA LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
