@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-07-14"
+last_updated: "2025-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -182,6 +182,10 @@ XIX. Ley: Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estad
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
 XX. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+XX Bis. Medidas de Protección Especial: Conjunto de acciones, programas y actividades institucionales orientadas a brindar la correcta protección y/o restitución integral del pleno ejercicio de los derechos humanos de las niñas, niños y adolescentes que se encuentren en alguna situación de vulnerabilidad, por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -3568,3 +3572,15 @@ P.O. 14 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 277.- SE ADICIONA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES"]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
