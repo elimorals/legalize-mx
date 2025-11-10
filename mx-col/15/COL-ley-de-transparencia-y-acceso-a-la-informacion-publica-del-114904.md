@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1149
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2022-06-11"
+last_updated: "2025-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "COL"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+NOTA 2: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA, PUBLICADA EN LA EDICIÓN EXTRAORDINARIA EN EL P.O. DE 10 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el lunes 30 de mayo de 2016.
 
@@ -3022,3 +3024,57 @@ P.O. 11 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 105.- POR EL QUE SE DEROGA LA FRACCIÓN IX Y SE REFORMA LA FRACCIÓN X, AMBAS DEL ARTÍCULO 79 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 191.- POR EL QUE SE APRUEBA EXPEDIR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima”, con excepción de lo previsto en los transitorios siguientes que prevean un plazo diverso.
+
+SEGUNDO.- Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima publicada mediante Decreto núm. 93 en el Periódico Oficial “El Estado de Colima” el día 30 de mayo de 2016, Tomo 101, Núm. 31, pág. 976, con sus consecuentes adiciones y reformas.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto, manteniéndose la vigencia de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Colima hasta en tanto el Congreso del Estado armonice en el ámbito de su competencia el ordenamiento legal aplicable.
+
+CUARTO.- El Comité Estatal para la Transparencia, deberá quedar instalado dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Para la elección de las personas representantes de las Contralorías Municipales, la persona que presida el Comité Estatal para la Transparencia, realizará invitación directa tomando en cuenta lo dispuesto por el artículo 84 numeral 1 fracción VI y numeral 2 de la presente Ley.
+
+QUINTO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, se entenderán hechas o conferidas a las Autoridades Garantes que adquieren tales atribuciones o funciones, según corresponda.
+
+SEXTO.- Las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, serán liquidadas en términos de la legislación aplicable según el tipo de persona trabajadora, erogación que será cubierta con cargo al Presupuesto de Egresos del Instituto del ejercicio fiscal que corresponda y se faculta al Comité de Transferencia señalado en el Transitorio Décimo Quinto de la presente Ley para realizar los pagos correspondientes.
+
+SÉPTIMO.- Las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a presentar declaración patrimonial y de intereses, la presentarán en los sistemas habilitados para tales efectos, establecidos por el Instituto y conforme a la normativa aplicable, dentro de los sesenta días naturales posteriores a la entrada en Vigor del presente decreto. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+OCTAVO.- Los recursos materiales y financieros con que cuente el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, serán transferidos a la Secretaría de Planeación, Finanzas y Administración del Gobierno del Estado de Colima, dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente ley.
+
+Asimismo, el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, deberá entregar a la citada dependencia, dentro de los diez días hábiles siguientes (sic) la entrada en vigor del presente Decreto, la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes al mes de octubre de 2025.
+
+NOVENO.- Los registros, padrones y sistemas, internos y externos, que integran la Plataforma Nacional de Transparencia con los que cuenta el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Contraloría General del Estado de Colima dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+DÉCIMO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley ante el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, en materia de acceso a la información pública, se sustanciarán ante la Contraloría General del Estado de Colima, conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, en materia de acceso a la información pública, se llevará a cabo por la Contraloría General del Estado de Colima.
+
+La Contraloría General del Estado de Colima, podrá remitir a la Autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+DÉCIMO PRIMERO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley ante el Instituto de Transparencia, Acceso a la Información y Protección de Datos del Estado de Colima, en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio ante la Contraloría General del Estado de Colima, conforme a lo que se refiere esta ley.
+
+DÉCIMO SEGUNDO.- La persona titular del Ejecutivo Estatal deberá expedir las adecuaciones correspondientes a la Ley Orgánica del Poder Ejecutivo y de la Administración Pública del Estado de Colima, los reglamentos y demás disposiciones aplicables, dentro de los noventa días naturales siguientes a la entrada en vigor de la presente ley, a fin de armonizarlos a lo previsto en la misma.
+
+DÉCIMO TERCERO.- Los expedientes y archivos que a la entrada en vigor de la presente ley estén a cargo del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán transferidos a la Contraloría General del Estado de Colima dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+La Contraloría General del Estado de Colima, dentro de los sesenta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad garante correspondiente.
+
+DÉCIMO CUARTO.- El Órgano Interno de Control del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, queda extinto y sus asuntos y procedimientos que, a la entrada en vigor de la presente Ley, estén a su cargo, así como los expedientes y archivos, serán transferidos a la Contraloría General del Estado de Colima, dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+DÉCIMO QUINTO.- Para efectos de lo dispuesto en los transitorios Sexto, Octavo, Noveno, Décimo Tercero y Décimo Cuarto de la presente Ley, el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, deberá integrar, al día siguiente de la publicación de esta Ley, un Comité de Transferencia conformado por la Comisionada del mencionado Instituto y tres personas servidoras públicas del mismo, con al menos el nivel de dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios transitorios.
+
+El Comité de Transferencia estará vigente por un periodo de treinta días hábiles o por el tiempo que, dada razón justificada, el proceso para concretar la transferencia lo requiera, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos, estando facultados para la realización de los movimientos bancarios y firma de los documentos que resulten estrictamente necesarios para dicha transferencia.
+
+El Comité de Transferencia, una vez concretados los traspasos de los recursos y documentos, deberá al concluir su comisión, finalizar con el procedimiento de Extinción del citado Instituto, expidiendo el Acta respectiva, dentro del periodo señalado.
+
+Las personas que integren el Comité de Transferencia recibirán por sus servicios prestados la remuneración por honorarios que corresponda según la regulación que resulte aplicable a la Administración Pública Estatal.
+
+DÉCIMO SEXTO.- Las nuevas autoridades garantes del poder ejecutivo, del poder judicial y del poder legislativo, así como de los órganos constitucionales autónomos, deberán realizar las adecuaciones necesarias a su normativa interna en un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+Para efectos de lo previsto en este transitorio, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de esta Ley, todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este ordenamiento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades que se mencionan en el párrafo anterior.
