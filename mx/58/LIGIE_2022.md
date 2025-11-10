@@ -4,7 +4,7 @@ identifier: "LIGIE_2022"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-07"
-last_updated: "2025-07-21"
+last_updated: "2025-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158726&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -63291,3 +63291,9 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 21 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN”.]
 
 Único. El presente Decreto entrará en vigor a los 180 días de su publicación en el Diario Oficial de la Federación.
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 10 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN".]
+
+Único. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
