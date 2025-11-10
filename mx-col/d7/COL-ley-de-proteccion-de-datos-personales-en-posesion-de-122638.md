@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-de-datos-personales-en-posesion-de-122638"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-26"
-last_updated: "2021-03-13"
+last_updated: "2025-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO AGROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025 (ABROGADO).
 
 Ley publicada en la Edición Especial Extraordinaria Número 48 del Periódico Oficial del Estado de Colima, el miércoles 26 de julio de 2017.
 
@@ -2094,3 +2096,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las dependencias que integran la administración pública centralizada, así como las dependencias insertas en el presente decreto, adecuarán sus disposiciones reglamentarias, en atención a las obligaciones comunes de los sujetos obligados establecidas en la Ley de Transparencia y Acceso a la información Pública del Estado de Colima, dentro de los 90 días naturales siguientes a la aprobación del presente Decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se abroga la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Colima, emitida mediante decreto número 330 que se publicó el día 26 de julio de 2017, en el Periódico Oficial “El Estado de Colima”.
+
+TERCERO. Se derogan todas aquellas disposiciones en materia de protección de datos personales en posesión de Sujetos Obligados de carácter Estatal y municipal que contravengan a los (sic) dispuesto en el presente decreto.
+
+CUARTO. Los procedimientos en materia de protección de datos personales iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia y acceso a la Información Pública y Protección de Datos del Estado de Colima (INFOCOL), se sustanciarán conforme a las disposiciones vigentes al momento de su inicio ante la Contraloría General del Estado de Colima.
