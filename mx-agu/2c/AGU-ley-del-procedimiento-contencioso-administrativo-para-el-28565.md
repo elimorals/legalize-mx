@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2025-05-05"
+last_updated: "2025-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -92,6 +92,10 @@ XIII. Sistema de Justicia en Línea: Sistema informático establecido por el Tri
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
 XIV. Tribunal: Tribunal de Justicia Administrativa del Estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+XV. Sala: A cada una de las Salas Unipersonales que integran el Tribunal de Justicia Administrativa del Estado de Aguascalientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
@@ -971,19 +975,19 @@ La reclamación se interpondrá dentro de los tres días siguientes a aquel en q
 
 #### SECCION TERCERA. De la Excitativa de Justicia
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 74.
 
-Las partes podrán formular excitativa de justicia ante el Consejo de la Judicatura Estatal, cuando el Tribunal no emita la resolución definitiva dentro del plazo señalado en esta Ley.
+Las partes podrán formular excitativa de justicia ante la Presidencia del Tribunal, cuando la Sala responsable no emita la resolución definitiva dentro del plazo señalado en esta Ley.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 75.
 
-Recibida la excitativa de justicia, el Presidente del Consejo solicitará un informe al Presidente del Tribunal que deberá rendirse en el plazo de 24 horas.
+Recibida la excitativa de justicia, la persona titular de la Presidencia del Tribunal solicitará un informe al Titular de la Sala responsable que deberá rendirse en el plazo de 24 horas.
 
-Si se encuentra fundada la excitativa, se otorgará un plazo de cinco días para que el Tribunal emita la resolución de que se trate.
+La Presidencia dará cuenta al Pleno y si éste encuentra fundada la excitativa, se otorgará un plazo de cinco días para que la Sala responsable emita la resolución de que se trate.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1448,3 +1452,11 @@ P.O. 5 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 278.- SE ADICIONA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
