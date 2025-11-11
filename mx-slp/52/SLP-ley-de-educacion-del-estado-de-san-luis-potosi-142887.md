@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2023-11-08"
+last_updated: "2025-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -71,9 +71,15 @@ II. Autoridad educativa Estatal: El Ejecutivo del Estado, a través de la Secret
 
 III. Autoridad educativa municipal: La Dirección, Órgano o Dependencia competente del Ayuntamiento de cada Municipio del Estado de San Luis Potosí;
 
-IV. Autoridades escolares: El personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares, y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-V. Secretaría: La Secretaría de Educación de Gobierno del Estado.
+IV. Autoridades escolares: El personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+V. Educación sexual integral y reproductiva: Comprende los aspectos educativos sobre la sexualidad humana en todas las edades del desarrollo, que debe considerar al menos, el aparato reproductor femenino y masculino, la orientación sexual e identidad de género, las relaciones sexuales seguras, reproductivos y la autonomía reproductiva, y
+
+VI. Secretaría: La Secretaría de Educación de Gobierno del Estado.
 
 ###### ARTÍCULO 5°.
 
@@ -749,7 +755,9 @@ VIII. La promoción de estilos de vida saludables, la educación para la salud, 
 
 IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
 
-X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes, de las infecciones de transmisión sexual, fomentando la participación de madres y padres de familia;
 
 XI. La educación socioemocional;
 
@@ -2194,5 +2202,13 @@ P.O. 8 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0866.- SE REFORMA EL ARTÍCULO 10 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTÍCULO 10 LA FRACCIÓN VI, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0305.- QUE REFORMA EL ARTÍCULO 22 Y REALIZA ADICIÓN AL ARTÍCULO 3º, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA LOS ARTÍCULOS 4º Y 59; Y SE REALIZA ADICIÓN AL ARTÍCULO 4º, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
