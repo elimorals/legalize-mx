@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2025-11-04"
+last_updated: "2025-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -59,9 +59,17 @@ II. Garantizar el pleno y efectivo goce, respeto, protección y promoción de lo
 
 III. Crear y regular la integración, organización y funcionamiento del Sistema Estatal y los sistemas municipales de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, a efecto de que el Estado y sus municipios cumplan con su responsabilidad de garantizar la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
 
-IV. Establecer los principios rectores y criterios que orientarán la política del Estado en materia de derechos de niñas, niños y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre el Estado con la Federación y los municipios; y la actuación de los poderes, Legislativo; y Judicial, así como la de los organismos constitucionales autónomos, y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-V. Constituir las bases generales para la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes, así como a prevenir su vulneración.
+IV. Establecer los principios rectores y criterios que orientarán la política del Estado en materia de derechos de niñas, niños y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre el Estado con la Federación y los municipios; y la actuación de los poderes, Legislativo; y Judicial, así como la de los organismos constitucionales autónomos;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+V. Constituir las bases generales para la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes, así como a prevenir su vulneración, y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VI. Observar y garantizar los derechos de la niñez, adolescencia y juventud indígena y afromexicana, en los términos que establece el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2020)</small>
 
@@ -2884,6 +2892,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0301.- QUE REFORMA EL ARTÍCULO 6° Y SE REALIZA ADICIÓN AL ARTÍCULO 88, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0304.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 1°, DE LA LEY DE LOS DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
