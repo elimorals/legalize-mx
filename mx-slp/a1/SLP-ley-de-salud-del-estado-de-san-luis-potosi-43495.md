@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2025-10-02"
+last_updated: "2025-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -974,6 +974,14 @@ IV. Médicos Veterinarios en el área de su competencia, y
 V. Licenciados en Enfermería, quienes podrán prescribir aquellos medicamentos del Compendio Nacional de Insumos para la Salud, que determine la Secretaría de Salud Federal.
 
 Los profesionales a que se refiere el presente artículo deberán contar con cédula profesional expedida por las autoridades educativas competentes. Los pasantes en servicio social, de cualquiera de las carreras antes mencionadas y los enfermeros podrán prescribir ajustándose a las especificaciones que determine la Secretaría de Salud Federal.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+ARTICULO 27 TER. Queda prohibido vender o suministrar medicamentos que requieran receta médica a niñas, niños y adolescentes. Su incumplimiento será sancionado conforme a lo dispuesto por esta Ley.
+
+La Secretaría de Salud del Estado promoverá campañas de información sobre el uso responsable de medicamentos, dirigidas a madres, padres, tutores y adolescentes, y establecerá lineamientos para el cumplimiento de esta disposición.
+
+Esta disposición busca prevenir el uso no terapéutico, la automedicación y los riesgos asociados al consumo de medicamentos sin supervisión, garantizando al mismo tiempo el derecho de acceso a la salud de las personas menores de edad.
 
 ### CAPITULO II. Atención Médica
 
@@ -4277,11 +4285,13 @@ IV. La calidad de reincidente del infractor.
 
 Se sancionará con multa equivalente de veinte hasta dos mil veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 49, 71, 71 QUINQUES, 71 SEXIES, 89, 105, 108, 121, 182, 192, 193, 195, 196, 197, 198, 247, 304 QUINQUE, 309, 310, 311, 321, 322, 323, 342 y 344 de esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 383.
 
-Se sancionará con multa equivalente de veinte hasta seis mil veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 44, 100, 109, 110, 111, 116, 117, 199, 200, 204, 205, 206, 213, 215, 216, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 265, 266, 267, 268, 271, 272, 274 y 300 de esta Ley.
+Se sancionará con multa equivalente de veinte hasta seis mil veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 27 BIS, 27 TER, 44, 100, 109, 110, 111, 116, 117, 199, 200, 204, 205, 206, 213, 215, 216, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 265, 266, 267, 268, 271, 272, 274 y 300 de esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 La violación a las disposiciones contenidas en los artículos, 144, 145, 317, 318, 319, 350, 362, 363, 364 y 365 de esta Ley, se sancionará con multa equivalente de cincuenta hasta doce mil veces la unidad de medida y actualización vigente.
 
@@ -5120,3 +5130,13 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0306.- QUE REFORMA EL ARTÍCULO 383 Y SE ADICIONA EL ARTÍCULO 27 TER, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Salud del Estado en un término de 90 días naturales deberá expedir los lineamientos para el cumplimiento de esta disposición.
