@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2025-05-02"
+last_updated: "2025-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -457,17 +457,21 @@ XVIII. Prestar atención especializada a los senescentes;
 
 XIX. Coordinar acciones, con las instancias competentes, para identificar, canalizar y dar aviso de hechos constitutivos de violencia sexual, familiar o de género;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XX. Prevención, detección y tratamiento del cáncer de mama y cáncer cervicouterino;
+
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-XX. Prever los recursos humanos, físicos y financieros necesarios, para que, en todos los establecimientos de salud administrados por el Estado, otorguen conforme a lo dispuesto en el Código Penal para el Estado Libre y Soberano de Guerrero Número 499, el servicio médico eficiente y gratuito para que las mujeres, ejerzan su derecho a la interrupción legal del embarazo;
+XXI. Prever los recursos humanos, físicos y financieros necesarios, para que, en todos los establecimientos de salud administrados por el Estado, otorguen conforme a lo dispuesto en el Código Penal para el Estado Libre y Soberano de Guerrero Número 499, el servicio médico eficiente y gratuito para que las mujeres, ejerzan su derecho a la interrupción legal del embarazo;
 
 > <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
 
-XXI. Coordinar las acciones necesarias, así como desarrollar los protocolos necesarios, para garantizar la interrupción voluntaria del embarazo, de conformidad con la legislación estatal y nacional aplicable y;
+XXII. Coordinar las acciones necesarias, así como desarrollar los protocolos necesarios, para garantizar la interrupción voluntaria del embarazo, de conformidad con la legislación estatal y nacional aplicable y;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE MARZO DE 2024)</small>
 
-XXII. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
+XXIII. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
 
 B).- En materia de salubridad local, vigilar y procurar condiciones adecuadas de saneamiento en:
 
@@ -489,7 +493,9 @@ VIII. Prostitución;
 
 IX. Reclusorios o Centros de Reinserción Social;
 
-X. Baños públicos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+X. Baños públicos, gimnasios e inmuebles destinados a la práctica deportiva;
 
 XI. Centros de reunión y espectáculos;
 
@@ -577,7 +583,9 @@ Para efectos de lo dispuesto en el párrafo anterior compete a la Comisión para
 
 I. Efectuar la evaluación de riesgos a la salud en las materias de su competencia, así como identificar y evaluar los riesgos para la salud humana que generen los sitios en donde se manejen residuos peligrosos y emergencias sanitarias;
 
-II. Proponer al Secretario de Salud la política estatal de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos de perfumería, belleza y aseo; tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud del hombre, salud ocupacional y saneamiento básico;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+II. Proponer al Secretario de Salud la política estatal de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos de perfumería, belleza y aseo; tabaco, Sistemas Alternativos de Consumo de Nicotina (SACN), Sistemas Electrónicos Alternativos de Nicotina (SEAN) y Sistemas Similares Sin Nicotina (SSSN), plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud del hombre, salud ocupacional y saneamiento básico;
 
 III. Elaborar y expedir las normas técnicas estatales relativas a los productos, actividades, servicios y establecimientos materia de su competencia;
 
@@ -895,7 +903,11 @@ XI. La asistencia social a los grupos más vulnerables, y de éstos de manera es
 
 XII. La atención integral de los senescentes.
 
-XIII. Las demás que establezca esta Ley y demás disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XIII. El tratamiento integral del Dolor.
+
+XIV. Las demás que establezca esta Ley y demás disposiciones legales aplicables.
 
 ###### ARTICULO 47.
 
@@ -1193,9 +1205,9 @@ IX. La distribución gratuita de métodos anticonceptivos, a la población deman
 
 X. La realización de campañas intensivas de información y orientación en materia de salud sexual y reproductiva, y
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-XI. La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-SIDA.
+XI. La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-SIDA y el Virus del Papiloma Humano.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
 
@@ -3332,3 +3344,43 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 11 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 245 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 20 BIS DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 11 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280 POR EL QUE SE REFORMA LA FRACCIÓN X DEL INCISO B) DEL ARTÍCULO 19 DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 11 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 281 POR EL QUE SE REFORMA LA FRACCIÓN XX DEL INCISO A) DEL ARTÍCULO 19 Y LA FRACCIÓN XI DEL ARTÍCULO 86 DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 11 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 282 POR EL QUE SE ADICIONA LA FRACCIÓN XIII DEL ARTÍCULO 46, RECORRIÉNDOSE LA XIII A LA SIGUIENTE FRACCIÓN XIV DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
