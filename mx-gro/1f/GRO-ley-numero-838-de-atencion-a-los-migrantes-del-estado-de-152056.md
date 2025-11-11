@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-838-de-atencion-a-los-migrantes-del-estado-de-152056
 country: "mx"
 rank: "ley"
 publication_date: "2021-10-15"
-last_updated: "2023-11-14"
+last_updated: "2025-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 838 DE ATENCIÓN A LOS MIGRANTES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Número 83 del Periódico Oficial del Estado de Guerrero, el viernes 15 de octubre de 2021.
 
@@ -73,29 +73,91 @@ El Gobierno del Estado, establecerá programas que prioricen la atención de las
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Programa Estatal: Al conjunto de acciones institucionales que prioricen la atención y apoyo al migrante del estado de Guerrero.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-II. Jornaleros Agrícolas Migrantes: Las personas que se trasladan a otros municipios o entidades federativas de la República Mexicana para trabajar en el campo, para emplearse como Jornaleros Agrícolas;
+I. Consejo Consultivo: El Consejo Consultivo de Atención a Migrantes del Estado de Guerrero;
 
-III. Ley: La Ley de Atención a los Migrantes del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-IV. Migrante: A la persona que se desplaza libremente por todo el territorio del Estado, así como la que entra o sale de la Entidad, derivado por cuestiones económicos, laborales, voluntarios o forzados, medioambientales, políticos y derivados de violencias estructurales o específicas;
+II. Ley: La Ley de Atención a los Migrantes del Estado de Guerrero;
 
-V. Reglamento: El Reglamento de la Ley de Atención a los Migrantes del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-VI. Secretaría: La Secretaría de Migrantes y Asuntos Internacionales;
+III. Migrante: A la persona que se desplaza libremente por todo el territorio del estado de Guerrero, así como la que entra o sale de la Entidad, derivado por cuestiones económicos, laborales, voluntarios o forzados, medioambientales, políticos y derivados de violencias estructurales o específicas;
 
-### CAPÍTULO II. Derechos de los Migrantes
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+IV. Personas Jornaleras Agrícolas Migrantes: Las personas que se trasladan a otros municipios o entidades federativas de la República Mexicana para trabajar en el campo, para emplearse como persona jornalera agrícola;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+V. Programa Estatal: Al Programa Estatal para la Protección de Migrantes del Estado de Guerrero;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VI. Reglamento: El Reglamento de la Ley de Atención a Migrantes del Estado de Guerrero;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VII. Secretaría: La Secretaría de Migrantes y Asuntos Internacionales;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Migración: Desplazamiento de personas dentro de un mismo país o hacia otro, sin importar el número de personas, su composición o las causas del movimiento. Incluye tanto la migración voluntaria como aquella motivada por factores económicos, violencia, conflictos, desastres naturales, cambio climático, persecución, violaciones de derechos humanos u otras causas que generen desplazamiento. Comprende también los movimientos de personas refugiadas, desplazadas internas, retornadas o en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+IX. Migración asistida: Desplazamiento realizado con el apoyo de autoridades gubernamentales, organizaciones internacionales o actores institucionales, distinto del que ocurre de forma autónoma o espontánea;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+X. Migración de retorno: Movimiento de personas que regresan a su país de origen o a su residencia habitual, generalmente después de haber pasado por lo menos un año en otro país o lugar de estancia permanente. Puede ser voluntario o no. Incluye la repatriación voluntaria;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XI. Migración individual: Desplazamiento realizado por una sola persona o unidad familiar sin integración a un flujo colectivo;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XII. Migración interna: Movimiento de personas de una región a otra en un mismo país con el propósito de establecer una nueva residencia; puede ser temporal o permanente;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XIII. Migración internacional: Movimiento de personas que dejan su país de origen o en el que tienen residencia habitual, para establecerse temporal o permanentemente en otro, debiendo atravesar una frontera;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Migración irregular: Desplazamiento de personas que no cumple con las disposiciones legales de ingreso, tránsito o permanencia de los Estados involucrados;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XV. Migración regular: Movimiento de personas realizado conforme a los procedimientos y requisitos establecidos por la legislación nacional e internacional aplicable.
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XVI. Migración laboral: Movimiento de personas del Estado de origen a otro con un fin laboral;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Migración masiva: Movimiento de grandes grupos de personas en un periodo breve, generalmente derivado de crisis humanitarias, conflictos o desastres;
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO II. Derechos de las Personas Migrantes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 5.
 
-El Estado reconocerá, promoverá y garantizará a los migrantes y sus familias, el ejercicio pleno de sus derechos sin discriminación alguna, conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero, los instrumentos internacionales en la materia, de los cuales el Estado Mexicano sea parte y demás disposiciones jurídicas aplicables.
+El Estado reconocerá, promoverá y garantizará a las personas migrantes y sus familias, el ejercicio pleno de sus derechos sin discriminación alguna, conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado Libre y Soberano de Guerrero, los instrumentos internacionales en la materia del que (sic) Estado Mexicano sea parte y demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-Para niños, niñas y adolescentes migrantes se garantizará el interés superior del menor, la perspectiva de género, así como los derechos y principios establecidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes; los tratados y convenios internacionales.
+Para niñas, niños y adolescentes migrantes se garantizará el interés superior de la persona de menos de dieciocho años de edad, la perspectiva de género, así como los derechos y principios establecidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes; los tratados y convenios internacionales.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+El Estado garantizará que sus políticas, acciones y asignación presupuestaria prioricen la atención de personas migrantes en situación de vulnerabilidad o desventaja, tales como personas repatriadas, expulsadas, niñas, niños, adolescentes, mujeres, personas con discapacidad y personas adultas mayores, así como sus familias, conforme a los principios de igualdad, no discriminación e inclusión.
 
 ###### Artículo 6.
 
@@ -121,25 +183,49 @@ VII. El acceso a los servicios que presta la Coordinación Técnica del Registro
 
 VIII. A acceder a los beneficios de las acciones, apoyos o programas gubernamentales a que se refiere esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+IX. A preservar, conservar y tener identidad, en sus documentos y reconocimiento de las dependencias gubernamentales y pueda contar con medios de identificación;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+X. A la protección de las dependencias gubernamentales;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XI. A reconocer, apoyar e impulsar su desarrollo, integración, incorporación a sus comunidades de origen y a la Nación, en condiciones de igualdad, respeto y consideración, recibiendo políticas de apoyo en sus actividades de trabajo, comercio, profesión o empresa;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XII. Tener acceso a una estrategia de integración social, cultural, educativa, saludable, económica, cultural, productiva y laboral;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XIII. Respetar su identidad, su idiosincrasia, costumbres, tradiciones, teniendo acceso a los servicios públicos, de conformidad con su situación migratoria;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Recibir orientación para el retorno seguro, oportuno a su lugar de origen, de donde vivió por lo menos un año, siempre y cuando el país receptor lo permita; o bien tener alternativas de retorno, máxime cuando su situación de vulnerabilidad quede demostrada; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XV. Recibir políticas públicas para no ser sujeto a ningún tipo de discriminación, inclusión social e integración a la comunidad.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 7.
 
-El Estado garantizará a la persona migrante el derecho de acceso a la procuración e impartición de justicia, respetando en todo momento el debido proceso, el interés superior del menor, así como a presentar quejas en materia de derechos humanos, de conformidad con las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+El estado de Guerrero garantizará a la persona migrante el derecho de acceso a la procuración e impartición de justicia, respetando en todo momento el debido proceso, el interés superior de la persona de menos de dieciocho años de edad, así como a presentar quejas en materia de derechos humanos, de conformidad con las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+Cuando la persona migrante, no hable o no entienda el idioma español, se le nombrará de oficio una persona traductora o intérprete, en su caso, se permitirá la participación de una persona con quien se sienta identificada y que tenga conocimiento de su lengua.
 
-Cuando el migrante, no hable o no entienda el idioma español, se le nombrará de oficio un traductor o intérprete, en su caso, se permitirá la participación de la persona con quien se sienta identificado y que tenga conocimiento de su lengua.
+Cuando la persona migrante presente discapacidad auditiva y sepa leer y escribir, se le interrogará por escrito o por medio de una persona. En caso contrario, se designará como intérprete a una persona que pueda entenderlo.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
-
-Cuando el migrante presente discapacidad auditiva y sepa leer y escribir, se le interrogará por escrito o por medio de un intérprete. En caso contrario, se designará como intérprete a una persona que pueda entenderlo.
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 8.
 
-La Secretaría deberá establecer y difundir un Programa de atención a las personas Jornaleras Agrícolas Migrantes, que contemple su situación migratoria laboral, información sobre el lugar donde desempeñará su labor de jornalero, para su seguimiento, atención y protección de sus derechos humanos.
+La Secretaría deberá levantar un censo para establecer el Programa de atención a las personas jornaleras agrícolas migrantes, que contemple su situación migratoria laboral, información sobre el lugar donde desempeñará su labor de jornalera o jornalero, para su seguimiento, atención y protección de sus derechos humanos.
 
 ###### Artículo 9.
 
@@ -159,7 +245,9 @@ VI. Mantenerse al margen de cualquier condicionamiento de tipo político partidi
 
 ## TÍTULO SEGUNDO. Políticas Públicas
 
-### CAPÍTULO ÚNICO. Políticas Públicas para los Migrantes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO ÚNICO. Políticas Públicas para Migrantes
 
 ###### Artículo 10.
 
@@ -167,7 +255,9 @@ En la generación de las políticas públicas a cargo de la Administración Púb
 
 I. Contribuir a resolver las causas que originan la migración;
 
-II. Fomentar la prevención de violación a los derechos de los migrantes;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+II. Fomentar la prevención de violación a los derechos de las personas migrantes;
 
 III. Fortalecer los lazos culturales y familiares entre la población migrante y sus comunidades de origen;
 
@@ -175,13 +265,33 @@ IV. Procurar el acceso a las personas migrantes a los servicios básicos de salu
 
 V. Fomentar la participación ciudadana en los ámbitos nacional e internacional, con el propósito de fortalecer y mejorar las políticas y los programas en beneficio de las personas migrantes;
 
-VI. Impulsar el reconocimiento de la contribución de los migrantes al desarrollo del Estado de origen y destino, así como los valores de la diversidad y la interacción multicultural;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-VII. Asistir a las personas migrantes en situaciones excepcionales y en los procesos de retorno o repatriación voluntaria o forzosa, especialmente de menores de edad en condiciones de orfandad o indigencia y, en general, de personas en estado de vulnerabilidad, así como de traslado de cadáveres de migrantes al Estado;
+VI. Impulsar el reconocimiento de la contribución de las personas migrantes al desarrollo del estado de origen y destino, así como los valores de la diversidad y la interacción multicultural.
 
-VIII. Promocionar la inversión de los migrantes y sus familias en proyectos y programas de generación de empleos, crecimiento económico y desarrollo social e infraestructura, y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-IX. Los demás que contribuyan al mejoramiento de las condiciones de vida de los migrantes.
+VII. Asistir a las personas migrantes de manera integral, en coordinación con otras dependencias federales, estatales o municipales, en situaciones excepcionales y en los procesos de retorno o repatriación voluntaria o forzosa, especialmente de personas menores de edad en condiciones de orfandad o indigencia y, en general, de personas en estado de vulnerabilidad, así como de traslado de cadáveres de migrantes al estado de Guerrero.
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Promocionar la inversión de las personas migrantes y sus familias en proyectos y programas de generación de empleos, crecimiento económico y desarrollo social e infraestructura.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+IX. Acordar y consensar las acciones, planes, programas y políticas públicas con sus organizaciones y ser consultados previo a su planeación y determinación;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+X. Disponer acciones y programas culturalmente adecuados, oportunos, conforme a las condiciones en que se presente la migración; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XI. Disponer medios para reconocer y respetar su identidad, patrimonio, integración, establecer las acciones para asegurar su desarrollo, crecimiento y observancia de los derechos humanos.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN IX], P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XII. Las demás que contribuyan al mejoramiento de las condiciones de vida, de las personas migrantes.
 
 ## TÍTULO TERCERO. Autoridades
 
@@ -197,19 +307,27 @@ La Secretaría, además de las atribuciones y obligaciones que le otorgan la Ley
 
 I. Ejecutar las acciones, políticas y programas estatales en materia de atención a migrantes;
 
-II. Aplicar acciones para que el tránsito de los migrantes por el Estado tenga un bajo impacto en lo relativo a seguridad pública, salud y demás aspectos sociales en lo que incide esta problemática;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+II. Aplicar acciones para que el tránsito de las personas migrantes por el estado de Guerrero tenga un bajo impacto en lo relativo a seguridad pública, salud y demás aspectos sociales en lo que incide esta problemática;
 
 III. Conducir y operar las acciones de coordinación entre las autoridades de los municipios y las autoridades del Estado;
 
-IV. Fomentar el respeto y protección de los derechos humanos y la atención integral de las necesidades básicas de los migrantes;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-V. Fortalecer la coordinación del Gobierno del Estado con el Gobierno Federal y los municipios para el desarrollo de proyectos, esquemas innovadores de participación y corresponsabilidad para la atención y protección de los migrantes;
+IV. Fomentar el respeto y protección de los derechos humanos y la atención integral de las necesidades básicas de las personas migrantes;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-VI. Suscribir convenios con organizaciones nacionales, locales e internacionales, de la sociedad civil, dependencias y entidades de la administración pública federal, estatal y municipal, para la formulación y ejecución de programas y acciones orientados a atender en forma coordinada a los migrantes;
+V. Fortalecer la coordinación del gobierno del estado, con los municipios y con el Gobierno Federal para el desarrollo de proyectos, esquemas innovadores de participación y corresponsabilidad para la atención y protección de las personas migrantes;
 
-VII. Diseñar e implementar, conjuntamente con la Comisión de los Derechos Humanos, las acciones que garanticen el acceso inmediato de los migrantes a los servicios y programas de atención operados por dicha comisión;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VI. Suscribir convenios con organizaciones locales, nacionales e internacionales de la sociedad civil, personas migrantes guerrerenses organizadas en el extranjero, organismos internacionales, dependencias y entidades de la administración pública federal, estatal y municipal, para la formulación y ejecución de programas y acciones orientados a atender en forma coordinada a las personas migrantes;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VII. Diseñar e implementar, conjuntamente con la Comisión de los Derechos Humanos, las acciones que garanticen el acceso inmediato de las personas migrantes a los servicios y programas de atención operados por dicha Comisión;
 
 VIII. Divulgar, por los medios de comunicación masiva a su alcance, información relativa a las acciones, políticas y programas de atención a migrantes;
 
@@ -225,7 +343,9 @@ XII. Promover y fomentar en coordinación con dependencias y entidades federales
 
 XIII. Reconocer el mérito y altruismo de las personas, físicas o morales, que participan en los programas de atención a migrantes, mediante la expedición de las constancias correspondientes;
 
-XIV. Fomentar la constitución de asociaciones, organismos o grupos de apoyo que otorguen auxilio y apoyo de cualquier tipo a los migrantes;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Fomentar la constitución de asociaciones, organismos o grupos de apoyo que otorguen auxilio y apoyo de cualquier tipo a las personas migrantes;
 
 XV. Establecer acciones que tengan como objetivo generar datos estadísticos de la población migratoria, que permitan generar políticas de atención prioritaria;
 
@@ -245,79 +365,67 @@ La Secretaría podrá auxiliar, acompañar y representar a los Guerrerenses en l
 
 Si las condiciones laborales se establecen mediante contrato redactado en indico diferente al español, la Secretaría deberá proporcionar a la persona migrante la traducción correspondiente e informará y explicará los alcances y efectos legales de su contratación.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Independientemente de las acciones que realice el Gobierno Federal, la Secretaría deberá implementar acciones de acompañamiento cuando se presenten traslados masivos de trabajadores Guerrerenses, principalmente jornaleros agrícolas, para laborar en otra entidad federativa o país extranjero, en donde se preste asesoría jurídica y se garantice el respeto a sus derechos humanos, laborales, de vivienda y educación para los menores de edad.
+Independientemente de las acciones que realice el Gobierno Federal, la Secretaría deberá firmar convenios de colaboración con otras entidades federativas receptoras de personas migrantes guerrerenses, e implementar acciones de acompañamiento cuando se presenten traslados masivos de personas trabajadoras guerrerenses, principalmente personas jornaleras agrícolas, para laborar en otra entidad federativa o país extranjero, en donde se preste asesoría jurídica y se garantice el respeto a sus derechos humanos, laborales, de salud, de vivienda y la educación para las personas menores de edad.
 
-###### Artículo 16.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-Los programas y recursos destinados a la atención de migrantes será considerada de interés público, no podrán sufrir disminuciones ni transferirse para otros conceptos en el ejercicio fiscal correspondiente.
+Artículo16. Los programas y recursos destinados a la atención de personas migrantes serán considerados de interés público, no podrán sufrir disminuciones ni transferirse para otros conceptos en el ejercicio fiscal correspondiente.
 
 ### CAPÍTULO SEGUNDO. Consejo Consultivo de Atención a Migrantes
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES PRIMER Y SEGUNDO PÁRRAFOS], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-El Consejo Consultivo de Atención a Migrantes del Estado de Guerrero, es un órgano colegiado de participación y consulta, encargado de opinar, proponer y asesorar a la Secretaría en la planeación y elaboración de las políticas públicas, a través de la colaboración intersecretarial y los diversos órganos de la administración pública estatal, para garantizar el derecho a la movilidad humana, principalmente de las personas migrantes y sus familias guerrerenses. Estará integrado por:
+El Consejo Consultivo de Atención a Migrantes del Estado de Guerrero, es un órgano colegiado de participación y consulta, encargado de opinar, proponer y asesorar a la Secretaría en la planeación y elaboración de las políticas públicas, a través de la colaboración intersecretarial y los diversos órganos de la administración pública estatal, para garantizar el derecho a la movilidad humana, principalmente de las personas migrantes y sus familias guerrerenses, estará integrado por:
 
-I. Un Presidente que será el titular de la Secretaría General de Gobierno;
+I. La persona titular de la Secretaría General de Gobierno, quien lo presidirá.
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+II. La persona titular de la Secretaría de Atención a Migrantes y Asuntos Internacionales, con funciones de la secretaría técnica;
 
-II. Un Secretario Ejecutivo que será la persona titular de la Secretaría de los Migrantes y Asuntos Internacionales;
+III. La diputada o diputado de representación migrante o binacional del H. Congreso del Estado de Guerrero.
 
-III. Cuatro Presidentes Municipales de los Municipios con mayor índice de migración, de acuerdo al Registro Estatal de Migrantes con que cuente la Secretaría;
+IV. Cuatro presidentas o presidentes municipales de los Municipios con mayor índice de migración, de acuerdo al Registro Estatal de Migrantes con que cuente la Secretaría;
 
-IV. Diez vocales que serán las personas titulares de:
+V. Catorce vocales que serán las personas titulares de:
 
 a) Secretaría de Salud;
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
-
 b) Secretaría de Educación Guerrero;
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
 c) Secretaría de Seguridad Pública;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE NOVIEMBRE DE 2023)</small>
-
 d) Fiscalía General del Estado;
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
-
-e) Secretaría del Trabajo y Previsión Social;
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+e) Secretaría de Trabajo y Previsión Social;
 
 f) Secretaría de Bienestar;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE NOVIEMBRE DE 2023)</small>
-
 g) Sistema para el Desarrollo Integral de la Familia;
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
 h) Secretaría para el Desarrollo de las Comunidades y Pueblos Indígenas y Afromexicanos;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+i) Secretaría de la Mujer;
 
-i) Dos representantes de clubes u organizaciones de Migrantes o sus equivalentes legalmente constituidos, y
+j) Dos representantes de clubes u organizaciones de personas migrantes o sus equivalentes legalmente constituidos;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+k) Dos representantes de organizaciones de personas jornaleras agrícolas migrantes, y
 
-j) Comisión de los Derechos Humanos del Estado.
+l) Comisión de los Derechos Humanos del Estado.
 
-Cada integrante del Consejo podrá designar a su suplente quien deberá ser de nivel jerárquico inferior inmediato.
+Cada persona integrante del Consejo Consultivo podrá designar a su suplente quien deberá ser de nivel jerárquico inferior inmediato.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+La presidencia podrá invitar a las sesiones del Consejo Consultivo a representantes de la Secretaría de Relaciones Exteriores y del Instituto Nacional de Migración del Gobierno Federal, así como de instituciones públicas o privadas internacionales, federales, estatales o municipales, que guarden relación con el objeto del Consejo Consultivo, quienes participarán solamente con derecho a voz. En todo caso, se deberá invitar a representantes
 
-El presidente podrá invitar a las sesiones del Consejo a representantes de la Secretaría de Relaciones Exteriores y del Instituto Nacional de Migración del Gobierno Federal, así como de instituciones públicas o privadas, federales, estatales, municipales y Organizaciones Internacionales que guarden relación con el objeto del Consejo, quienes participarán solamente con derecho a voz.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 18.
 
-Los integrantes del Consejo desempeñarán sus funciones de forma honorífica y por su desempeño no percibirán retribución, emolumentos o compensación económica alguna.
+Las personas integrantes del Consejo Consultivo desempeñarán sus funciones de forma honorífica y por su cargo no percibirán retribución, emolumentos o compensación económica alguna.
 
 ###### Artículo 19.
 
@@ -329,25 +437,33 @@ II. Analizar y proponer adecuaciones a los planes y programas desarrollados por 
 
 III. Proponer a las dependencias, entidades y delegaciones de la administración pública, la inclusión en sus políticas y programas los criterios, estrategias y líneas de acción en materia de hospitalidad, interculturalidad y salvaguardia de derechos relacionados con la movilidad humana;
 
-IV. Proponer al Gobernador del Estado, los proyectos de iniciativas legislativas o modificaciones que tengan por objeto mejorar la tutela y protección de los derechos de los sujetos de la ley;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+IV. Proponer a la persona titular del Poder Ejecutivo, los proyectos de iniciativas legislativas o modificaciones que tengan por objeto mejorar la tutela y protección de los derechos de los sujetos de la Ley;
 
 V. Aprobar su ordenamiento interior, y
 
 VI. Las demás que le señale la presente Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-El Consejo Consultivo celebrará al menos dos sesiones ordinarias al año, pudiendo llevar a cabo las sesiones extraordinarias que sean necesarias. De cada sesión se levantará un acta con los puntos acordados por los miembros. Para que las sesiones del Consejo Consultivo cuenten con validez, deberán estar presentes la mayoría de sus integrantes, siempre que entre ellos se encuentre el Presidente de la misma o la persona que legalmente le sustituya.
+El Consejo Consultivo celebrará al menos dos sesiones ordinarias al año, pudiendo llevar a cabo las sesiones extraordinarias que sean necesarias. De cada sesión se levantará un acta con los puntos acordados por sus integrantes. Para que las sesiones del Consejo Consultivo cuenten con validez, deberán estar presentes la mayoría de sus integrantes, siempre que entre ellos se encuentre la presidencia de la misma o la persona que legalmente le sustituya.
 
 El funcionamiento del Consejo Consultivo y sus procedimientos se establecerán en el Reglamento de la presente Ley.
 
-## TÍTULO CUARTO. Asistencia a los Migrantes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+## TÍTULO CUARTO. Asistencia a Migrantes
 
 ### CAPÍTULO PRIMERO. Repatriación y Deportación de Migrantes Guerrerenses
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 21.
 
-La Secretaría coadyuvará con las autoridades federales competentes y con los municipios, para la repatriación de los migrantes guerrerenses.
+La Secretaría coadyuvará con las autoridades federales competentes y con los municipios, para la repatriación de las personas migrantes guerrerenses.
 
 ###### Artículo 22.
 
@@ -368,6 +484,26 @@ I. Ser trasladados a una localidad del Estado en caso de deportación;
 II. Trasladar cadáveres de guerrerenses fallecidos en el extranjero;
 
 III. Tramitar documentos oficiales.
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+IV. Realizar gestiones gubernamentales incluso en varios idiomas, respecto de todo tipo de trámites, ante todas las dependencias gubernamentales;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+V. Realización de peticiones, ejercicio de derechos y observancia de sus derechos humanos;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VI. Cumplimiento de sus obligaciones con el Estado;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VII. Atender cuando ocurra un desastre natural o urbano, un atentado terrorista o accidentes colectivos que afecten o pongan en peligro la vida o el patrimonio de migrantes que se encuentren fuera del Estado para ello, se coordinará con la Secretaría de Relaciones Exteriores y promoverá las acciones necesarias para salvaguardar su integridad, brindar orientación legal, atención en salud y demás asistencias que requieran, así como, en su caso, facilitar su retorno al Estado de Guerrero, y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VIII. En coordinación con las dependencias federales y municipales, procurará la seguridad, salud, trabajo, educación, capacitación, asesoría y orientación de los migrantes en contexto de movilidad dentro del territorio.
 
 ###### Artículo 25.
 
@@ -399,19 +535,27 @@ Cuando ocurra un desastre natural o urbano, un atentado terrorista o accidentes 
 
 ### CAPÍTULO CUARTO. Asistencia Administrativa
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 31.
 
-La Secretaría, proporcionará orientación y apoyo a los migrantes guerrerenses y sus familiares que requieran ayuda para el trámite de documentos oficiales, los cuales podrán ser realizados por un familiar directo o su cónyuge.
+La Secretaría, proporcionará orientación y apoyo a las personas migrantes guerrerenses y sus familiares que requieran ayuda para el trámite de documentos oficiales, los cuales podrán ser realizados por un familiar directo o su cónyuge.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 32.
 
-El Gobierno del Estado coadyuvará con el Gobierno Federal y los municipios, en la realización de programas temporales o permanentes de atención y orientación a migrantes guerrerenses, en aeropuertos, centrales de autobuses y carreteras.
+El gobierno del estado coadyuvará con los municipios y el Gobierno Federal y los municipios, en la realización de programas temporales o permanentes de atención y orientación a migrantes guerrerenses, en aeropuertos, centrales de autobuses y carreteras.
 
-### CAPÍTULO QUINTO. Programa Estatal para la Protección del Migrante
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO QUINTO. Programa Estatal para la Protección de Migrantes del Estado de Guerrero
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 33.
 
-El Programa Estatal para la Protección del Migrante, constituye el instrumento rector en materia de protección y asistencia a migrantes, cuyo objeto es atender el fenómeno migratorio del Estado de Guerrero de manera integral, como estado de origen, tránsito, destino y retorno de migrantes.
+El Programa Estatal para la Protección del Migrante, constituye el instrumento rector en materia de protección y asistencia a migrantes, cuyo objeto es atender el fenómeno migratorio del estado de Guerrero de manera integral, como estado de origen, tránsito, destino y retorno de migrantes.
 
 ###### Artículo 34.
 
@@ -427,7 +571,9 @@ IV. Los mecanismos de coordinación, colaboración y cooperación institucional;
 
 V. El diseño de campañas de difusión en los medios de comunicación;
 
-VI. Los procedimientos de sensibilización de la sociedad sobre la forma de atención a los migrantes;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+VI. Los procedimientos de sensibilización de la sociedad sobre la forma de atención a las personas migrantes;
 
 VII. Generar alternativas para obtener recursos para financiar acciones del Programa Estatal;
 
@@ -437,17 +583,25 @@ IX. Fijar indicadores para evaluar los resultados, y
 
 X. Los demás que establezcan otras leyes y demás normatividad en la materia.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 35.
 
-La Secretaría formulará la propuesta de presupuesto, para la ejecución del Programa, el cual será entregado para su inclusión en el Presupuesto de Egresos al Secretario de Finanzas y Administración de acuerdo a la normatividad aplicable.
+La Secretaría formulará la propuesta de presupuesto, para la ejecución del Programa Estatal, el cual será entregado para su inclusión en el Presupuesto de Egresos a la Secretaría de Finanzas y Administración de acuerdo a la normatividad aplicable.
 
-## TÍTULO QUINTO. Protección a los Migrantes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
-### CAPÍTULO PRIMERO. Medios de Protección de los Migrantes
+## TÍTULO QUINTO. Protección a Migrantes
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO PRIMERO. Medios de Protección para Migrantes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 36.
 
-Toda persona podrá denunciar presuntas conductas discriminatorias y violatorias de los derechos de los migrantes, para lo cual deberá documentar y fundamentar sus quejas o denuncias respecto a las conductas presuntamente delictivas, ya sea directamente o por medio de su representante, aun tratándose de menores de edad.
+Toda persona podrá denunciar presuntas conductas discriminatorias y violatorias de los derechos de las personas migrantes, para lo cual deberá documentar y fundamentar sus quejas o denuncias respecto a las conductas presuntamente delictivas, ya sea directamente o por medio de su representante, aun tratándose de menores de edad.
 
 La víctima de discriminación recibirá orientación de la Comisión de Atención a Víctimas. Asimismo, podrá presentar quejas ante la Comisión Nacional de los Derechos Humanos y la Comisión de los Derechos Humanos del Estado de Guerrero.
 
@@ -459,19 +613,23 @@ Las organizaciones de la sociedad civil, representantes de migrantes, podrán pr
 
 ### CAPÍTULO SEGUNDO. Información Estadística
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-La información estadística, estará a cargo de la Secretaría, será pública y tendrá por objeto recopilar la información de los migrantes con respecto a su nombre, procedencia, domicilio en su lugar de origen y en general, de todos aquellos datos que pudieren facilitar su ubicación o la de sus familiares con el objeto de facilitar su reencuentro.
+La información estadística, estará a cargo de la Secretaría, será pública y tendrá por objeto recopilar la información de las personas migrantes con respecto a su nombre, procedencia, domicilio en su lugar de origen y en general, de todos aquellos datos que pudieran facilitar su ubicación o la de sus familiares con el objeto de facilitar su reencuentro.
 
-En la operación de la recopilación de datos personales deberá observarse en todo momento lo establecido en la Ley de la materia.
+En la operación de la recopilación de datos personales deberá observarse en todo momento lo establecido en la ley de la materia.
 
 ###### Artículo 39.
 
 Cualquier autoridad estatal y municipal que otorgue a cualquier migrante algún beneficio de los establecidos en esta ley, deberá consultarle si desea realizar el llenado de los formatos adecuados para ser incorporado en la información estadística.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 40.
 
-La Secretaría deberá establecer mecanismos de coordinación y colaboración e implementar las acciones necesarias con las autoridades e instancias federales y Municipales, a fin de contar con la información estadística actualizada de los migrantes.
+La Secretaría deberá establecer mecanismos de coordinación y colaboración e implementar las acciones necesarias con las autoridades e instancias federales y Municipales, a fin de contar con la información estadística actualizada de las personas migrantes.
 
 ###### Artículo 41.
 
@@ -479,9 +637,11 @@ La información estadística será la base para la planeación y presupuestació
 
 ### CAPÍTULO TERCERO. Sanciones
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 42.
 
-En el Estado todo particular, servidora o servidor público que incurra en discriminación mediante acto u omisión de cualquier tipo, contra los migrantes mexicanos y extranjeros, y sus familiares, quedará sujeto a lo establecido por las leyes civiles en el caso de particulares, y de responsabilidad de los servidores públicos en términos de lo establecido en la Ley de Responsabilidades Administrativas del Estado de Guerrero, sin perjuicio de la responsabilidad penal y de las contenidas en otras disposiciones legales aplicables.
+En el estado de Guerrero todo particular, servidora o servidor público que incurra en discriminación mediante acto u omisión de cualquier tipo, contra las personas migrantes de nacionalidad mexicana y extranjera, y sus familiares, quedará sujeto a lo establecido por las leyes civiles en el caso de particulares, y de responsabilidad de los servidores públicos en términos de lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guerrero, sin perjuicio de la responsabilidad penal y de las contenidas en otras disposiciones legales aplicables.
 
 T R A N S I T O R I O S
 
@@ -540,3 +700,13 @@ PRIMERO. El presente decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
 
 TERCERO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, en el Portal electrónico y en el canal de televisión oficial de esta soberanía, para conocimiento general y efectos legales procedentes.
+
+P.O. 11 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 284, POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 838 DE ATENCIÓN A LOS MIGRANTES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales procedentes.
+
+TERCERO. Publíquese el presente Decreto para su conocimiento general y difusión, en el Periódico Oficial del Gobierno del Estado de Guerrero, en el portal web del Congreso del Estado y en sus redes sociales de internet.
