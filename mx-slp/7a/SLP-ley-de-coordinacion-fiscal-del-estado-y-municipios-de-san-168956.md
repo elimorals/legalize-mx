@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-y-municipios-de-san-16895
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-18"
-last_updated: "2024-09-25"
+last_updated: "2025-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 18 de diciembre de 2023.
 
@@ -299,7 +299,7 @@ Las Participaciones e Incentivos a las que se refiere en el artículo 21 de esta
 
 > <small>[N. DE E. VÉANSE FÓRMULAS EN EL P.O. DE 18 DE DICIEMBRE DE 2023, PÁGINAS DE LA 12 A LA 14.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 25 DE SEPTIEMBRE DE 2024, PÁGINAS DE LA 4 A LA 6.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 25 DE SEPTIEMBRE DE 2024, PÁGINAS DE LA 4 A LA 6; 11 DE NOVIEMBRE DE 2025, PÁGINA 3.]</small>
 
 ### Capítulo II. De otros Fondos e incentivos Participables
 
@@ -311,7 +311,7 @@ La participación del 30% del excedente del Fondo de Fomento Municipal, a que se
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 18 DE DICIEMBRE DE 2023, PÁGINA 14.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 31 DE ENERO DE 2024, PÁGINA 4; P.O. DE 25 DE SEPTIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 8.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 31 DE ENERO DE 2024, PÁGINA 4; 25 DE SEPTIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 8; 11 DE NOVIEMBRE DE 2025, PÁGINAS DE LA 3 A LA 4 .]</small>
 
 ###### Artículo 24.
 
@@ -512,3 +512,11 @@ P.O. 25 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará (sic) al día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0307.- QUE REFORMA EL ARTÍCULO 22 Y REALIZA DEROGACIÓN EN EL ARTÍCULO 23, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
