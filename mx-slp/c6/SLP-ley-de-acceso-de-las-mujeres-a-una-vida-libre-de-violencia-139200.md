@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2025-10-22"
+last_updated: "2025-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -79,9 +79,13 @@ d) Que el resultado discrimine o profundice la desigualdad entre mujeres y hombr
 
 III. Alerta de violencia de género: es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
 
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+III BIS. Autonomía Reproductiva: el derecho básico de todas las mujeres de decidir sobre su posibilidad de gestar o no, y en sentido, planear su propia familia;
+
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-III BIS. Daño: Cualquier perjuicio, menoscabo o dolor que una persona sufre a consecuencia de la acción u omisión de otra o por interpósita persona, y que afecte a sus bienes, sus derechos, intereses o su integridad física, emocional o psicológica;
+III TER. Daño: Cualquier perjuicio, menoscabo o dolor que una persona sufre a consecuencia de la acción u omisión de otra o por interpósita persona, y que afecte a sus bienes, sus derechos, intereses o su integridad física, emocional o psicológica;
 
 IV. Derechos humanos de las mujeres: los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer; la Convención sobre los Derechos de la Niñez; la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, y demás instrumentos internacionales en la materia;
 
@@ -659,7 +663,9 @@ I. Difundir en los diversos niveles escolares, la comprensión y aprendizaje de 
 
 II. Aplicar en todos los niveles de la instrucción, los contenidos educativos orientados a erradicar los modelos de conducta sociales y culturales que impliquen prejuicios, y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos, y en funciones estereotipadas asignadas a las mujeres y a los hombres; así como la comprensión adecuada del derecho al ejercicio de una paternidad y maternidad libre, responsable e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y el desarrollo de sus hijos;
 
-III. Fomentar la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+
+III. Fomentar la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad y autonomía reproductiva;
 
 IV. Evitar la aplicación de contenidos educativos y materiales que hagan apología de la violencia contra las mujeres, o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
 
@@ -1886,6 +1892,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0291.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0305.- QUE REFORMA EL ARTÍCULO 22 Y REALIZA ADICIÓN AL ARTÍCULO 3º, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA LOS ARTÍCULOS 4º Y 59; Y SE REALIZA ADICIÓN AL ARTÍCULO 4º, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
