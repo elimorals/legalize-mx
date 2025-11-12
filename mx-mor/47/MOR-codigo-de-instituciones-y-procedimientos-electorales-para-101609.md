@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2025-08-20"
+last_updated: "2025-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,7 @@ state: "MOR"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
@@ -691,9 +691,9 @@ Para los efectos de este Código, en tratándose de asuntos de partidos polític
 
 De conformidad con lo dispuesto por el artículo 23, párrafo sexto de la Constitución Política del Estado Libre y Soberano de Morelos, en la determinación de los criterios que los partidos políticos realicen para garantizar la paridad de género de acuerdo con sus documentos básicos, deberán en todo momento respetar la paridad horizontal y vertical tratándose de planillas a miembros de los ayuntamientos, así como de candidatos de mayoría relativa al Congreso del Estado. En el caso de las fórmulas para diputaciones al Congreso del Estado por el principio de representación proporcional, el género que encabece la lista, se determinará conforme a los procesos internos de los partidos políticos, debiendo alternar las fórmulas con un género distinto para garantizar el principio de paridad hasta agotar la lista.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-Cada partido político de acuerdo a sus reglamentos y lineamientos establecidos en su vida interna, determinará los criterios para garantizar la postulación en las candidaturas de personas indígenas, y las pertenecientes a grupos vulnerables y asegurar las condiciones del párrafo anterior, bajo los principios de igualdad, no discriminación y progresividad.
+Cada partido político de acuerdo a sus reglamentos y lineamientos establecidos en su vida interna, determinará los criterios para garantizar la postulación en las candidaturas de personas indígenas, y las pertenencias (sic) a grupos vulnerables y asegurar las condiciones del párrafo anterior, bajo los principios de igualdad, no discriminación y progresividad, buscarán la participación efectiva de ambos géneros en la integración de sus órganos y deberán contar con un protocolo para la atención de la violencia política contra las mujeres en razón de género.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -8324,3 +8324,11 @@ PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal 
 SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CINCUENTA.- POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 21 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, EN MATERIA DE COMBATE A LA VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO”.]
+
+PRIMERO. El presente Decreto, entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Remítase el presente Decreto a la persona titular del Poder Ejecutivo del Estado para los efectos correspondientes.
