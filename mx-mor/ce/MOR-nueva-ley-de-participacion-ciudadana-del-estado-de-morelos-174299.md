@@ -4,7 +4,7 @@ identifier: "MOR-nueva-ley-de-participacion-ciudadana-del-estado-de-morelos-1742
 country: "mx"
 rank: "otro"
 publication_date: "2024-09-04"
-last_updated: "2024-09-30"
+last_updated: "2025-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # NUEVA LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 12 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 NUEVA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Número 6343 del Periódico Oficial del Estado de Morelos, el miércoles 4 de septiembre de 2024.
 
@@ -1544,3 +1546,19 @@ DÉCIMA PRIMERA. Los asuntos que se encuentren en trámite o en proceso en las S
 DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los actos administrativos idóneos y necesarios, así como la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios contemplados en el presente Decreto.
 
 DÉCIMA TERCERA. El personal de las Secretarías o Dependencias que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma podrá resultar afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado de Morelos, debiéndose tomar las acciones necesarias para ello.
+
+P.O. 12 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase la presente Ley a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. Se abroga la nueva Ley de Participación Ciudadana del Estado de Morelos, publicada en el periódico oficial “Tierra y Libertad” número 6343 de fecha cuatro de septiembre del dos mil veinticuatro.
+
+TERCERA. La presente Ley iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+CUARTA. El reglamento de la presente ley deberá expedirse en un plano no mayor a noventa días hábiles contados a partir de la entrada en vigor de la presente Ley, por el Instituto Morelense de Procesos Electorales y Participación Ciudadana.
+
+QUINTA. El Congreso del Estado establecerá en el Presupuesto de Egresos del Poder Legislativo del Ejercicio fiscal que corresponda, los recursos suficientes para la instrumentación de la presente Ley.
+
+SEXTA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
