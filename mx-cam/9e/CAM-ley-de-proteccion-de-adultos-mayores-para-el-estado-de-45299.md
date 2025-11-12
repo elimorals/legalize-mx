@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2025-06-11"
+last_updated: "2025-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -95,7 +95,11 @@ I. Acceso a la justicia: Las personas adultas mayores tienen derecho a ser oída
 
 II. Autonomía y autorrealización: Todas las acciones que se realicen en beneficio de las personas adultas mayores orientadas a fortalecer su independencia, su capacidad de decisión y su desarrollo personal y comunitario. Las personas adultas mayores tienen derecho a aprovechar las oportunidades para desarrollar plenamente su potencial, mediante el acceso a los recursos educativos, culturales, espirituales, recreativos y a la participación política;
 
-III. Atención preferente: Es aquella que obliga a las instituciones estatales y municipales, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+III. Atención preferente y adecuada: Es la obligación de todas las autoridades estatales y municipales, así como de los sectores social y privado, de diseñar, implementar y adecuar programas, servicios, acciones, protocolos y mecanismos en beneficio de las personas adultas mayores, considerando sus condiciones específicas y garantizando su accesibilidad, dignidad, integridad y autonomía.
+
+Dicho trato deberá aplicarse en todas las etapas del servicio público o privado que involucre atención a personas adultas mayores, y comprenderá medidas de atención prioritaria, accesibilidad universal, lenguaje incluyente, respeto a sus decisiones, mecanismos diferenciados de atención y protección ante actos discriminatorios, negligencia o violencia institucional.
 
 IV. Calidad de trato: Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción;
 
@@ -143,9 +147,21 @@ e. A la protección contra toda forma de explotación;
 
 f. A recibir protección por parte de la comunidad, la familia y la sociedad, así como de las instituciones estatales y municipales;
 
-g. A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos; y
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-h. A no ser aislados, marginados o explotados.
+g. A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos;
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+h. A no ser aislados, marginados o explotados;
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+i. A desarrollar plenamente su potencial, mediante el acceso preferente a oportunidades educativas, culturales, espirituales, recreativas, sociales y políticas, que fortalezcan su independencia, su capacidad de decisión y su participación activa en la vida comunitaria; y
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+j. A que toda institución que requiera su presencia física para la realización de trámites, gestiones o servicios pueda establecer mecanismos alternos de atención, eficaces, eficientes y accesibles, que permitan su resolución sin poner en riesgo la salud, seguridad o dignidad del usuario.
 
 II. De la asistencia jurídica;
 
@@ -213,9 +229,11 @@ b. Facilitar el acceso y desplazamiento en el interior de espacios laborales, co
 
 c. Contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros; y
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-d. A tener una atención preferente en los establecimientos públicos y privados que presten servicios al público.
+d. A tener una atención preferente y adecuada en todos los establecimientos públicos y privados que presten servicios al público. Esta atención deberá garantizarse en todas las etapas del servicio y comprenderá medidas que aseguren la prioridad, la dignidad, el respeto, la celeridad y la accesibilidad integral en su atención.
+
+Las instituciones públicas y privadas deberán adecuar los procesos instalaciones, protocolos y tecnologías para garantizar la accesibilidad universal, considerando las necesidades físicas, sensoriales, cognitivas, digitales y de movilidad de las personas adultas mayores, a fin de asegurar su participación plena y efectiva.
 
 > <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
@@ -932,3 +950,15 @@ Artículo Primero.- El presente decreto entrará en vigor el día siguiente al d
 Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 148 POR EL QUE “SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 4; LOS INCISOS G) Y H) DE LA FRACCIÓN I Y EL INCISO D) DE LA FRACCIÓN VII Y, SE ADICIONAN LOS INCISOS I) Y J) A LA FRACCIÓN I DEL ARTÍCULO 5, TODOS DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado de Campeche, a través de las Entidades Centralizadas y Paraestatales competentes, emitirá en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente decreto, los lineamientos, criterios y normas técnicas necesarias para la implementación del principio de atención preferente y adecuada a personas adultas mayores, con base en los principios de accesibilidad universal, trato digno y autonomía.
+
+TERCERO.- Las instituciones públicas estatales y municipales deberán realizar las adecuaciones normativas, administrativas, operativas, tecnológicas y de infraestructura necesarias en un plazo no mayor a 180 días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO.- Los establecimientos privados que presten servicios al público deberán realizar las adecuaciones necesarias a sus mecanismos de atención y protocolos de servicio, en un plazo máximo de 12 meses contados a partir de la entrada en vigor del presente decreto. Las autoridades competentes deberán emitir los lineamientos, así como los procedimientos de verificación correspondientes.
