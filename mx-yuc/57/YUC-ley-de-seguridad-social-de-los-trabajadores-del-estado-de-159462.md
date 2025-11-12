@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-de-los-trabajadores-del-estado-de-15946
 country: "mx"
 rank: "ley"
 publication_date: "2022-07-21"
-last_updated: "2022-07-21"
+last_updated: "2025-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 34,830 del Diario Oficial del Estado de Yucatán, el jueves 21 de julio de 2022.
 
@@ -89,7 +91,9 @@ XII. Instituto: el Instituto de Seguridad Social de los Trabajadores del Estado 
 
 XIII. Ley: la Ley de Seguridad Social de los Trabajadores del Estado de Yucatán.
 
-XIV. Pensión: la cantidad periódica que reciben o deben de recibir las personas pensionadas por razón de jubilación; retiro anticipado; vejez; retiro anticipado en edad avanzada; incapacidad por riesgos de trabajo; fallecimiento por riesgos de trabajo; invalidez por causas ajenas al trabajo; fallecimiento por causas ajenas al trabajo o por el fallecimiento de una persona pensionada, en los términos y condiciones que establece esta ley.
+> <small>(REFORMADA, D.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Pensión: la cantidad periódica que reciben o deben de recibir las personas pensionadas por razón de jubilación necesaria; jubilación voluntaria; incapacidad por riesgos de trabajo; invalidez por causas ajenas al trabajo; fallecimiento por riesgos de trabajo; fallecimiento por causas ajenas al trabajo o por el fallecimiento de una persona pensionada, en los términos y condiciones que establece esta ley.
 
 XV. Percepciones: todos los ingresos que la persona servidora pública recibe con motivo de su trabajo.
 
@@ -119,9 +123,9 @@ c) Compensación: la remuneración adicional periódica al sueldo presupuestal y
 
 XX. Salario mínimo: la cantidad mínima de dinero que se le debe pagar a un trabajador por sus labores en el estado de Yucatán, conforme al monto que establece en forma anual la resolución emitida por el Consejo de Representantes de la Comisión Nacional de Salarios Mínimos (CONASAMI) publicada en el Diario Oficial de la Federación.
 
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, D.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-XXI. SALARIO REGULADOR: EQUIVALE AL OCHENTA Y CINCO POR CIENTO DEL PROMEDIO PONDERADO DE LOS SALARIOS DE COTIZACIÓN QUE PERCIBIÓ LA PERSONA SERVIDORA PÚBLICA DURANTE LOS ÚLTIMOS VEINTE AÑOS DE SU VIDA ACTIVA COMO TRABAJADOR EN UNA O MÁS ENTIDADES PÚBLICAS, PREVIA ACTUALIZACIÓN CON BASE EN EL ÍNDICE NACIONAL.
+XXI. Último salario: el promedio mensual de todos los salarios de cotización de la persona servidora pública, correspondientes a los dos años inmediatos anteriores a la fecha de la baja que emita la entidad pública en la que laboraba.
 
 ###### Artículo 4.
 
@@ -693,31 +697,39 @@ III. Solo podrá disponerse de los recursos de las reservas y sus rendimientos c
 
 IV. No se permitirán transferencias de recursos de una reserva a otra, salvo lo establecido en el párrafo segundo de la fracción II de este artículo.
 
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 49.
 
 Inversión de reservas
 
-Las reservas a que se refiere el artículo anterior deberán invertirse en las mejores condiciones de rendimiento, liquidez y seguridad que los mercados financieros permitan, conforme a lo siguiente:
+Las reservas a que se refiere el artículo anterior deberán invertirse en las mejores condiciones de rendimiento, liquidez y seguridad que los mercados financieros permitan, en instrumentos regulados y autorizados por las autoridades financieras del país, en términos de las disposiciones aplicables y conforme a lo señalado en esta Sección, a través de los intermediarios financieros autorizados por las autoridades competentes conforme a lo siguiente:
 
-I. Podrán realizarse inversiones en las siguientes clasificaciones:
+I. Podrán realizarse, en las proporciones en que el Consejo directivo señale, inversiones y operaciones en instrumentos inscritos en el Registro Nacional de Valores, así como a cargo del Gobierno del Estado o de instituciones de crédito autorizadas para realizar operaciones de banca y crédito, de manera exclusiva en instrumentos financieros con las características señaladas a continuación:
 
-a) Instrumentos financieros de emisores públicos y del sector privado, de renta fija y de renta variable, así como en operaciones reguladas por las autoridades financieras del país, en las proporciones que el consejo directivo señale.
+a) Valores gubernamentales nacionales.
 
-Estas inversiones y operaciones solo podrán hacerse en instrumentos inscritos en el Registro Nacional de Valores, así como a cargo del Gobierno del estado o de instituciones de crédito autorizadas para realizar operaciones de banca y crédito.
+b) Operaciones financieras a cargo del Gobierno Federal.
 
-b) Préstamos a corto plazo e hipotecarios que establece esta ley.
+c) Depósitos a la vista en instituciones de banca múltiple.
 
-c) Proyectos de infraestructura pública o de participación privada para el desarrollo del estado de Yucatán, hasta por los montos que el consejo directivo señale, en el presupuesto anual de egresos del instituto.
+d) Cuentas productivas en Instituciones Financieras reguladas por las autoridades financieras mexicanas cuyos rendimientos, al menos, ofrezcan un ochenta y cinco por ciento de la Tasa de Interés Interbancaria de Equilibrio, preferentemente, a veintiocho días.
 
-Las características, montos, plazos, rendimientos y condiciones a que se refiere este inciso deberán ser aprobados por el consejo directivo.
+e) Fondos gubernamentales emitidos por instituciones reguladas por las autoridades mexicanas, cuya exposición sea al menos o superior, del noventa y cinco por ciento a instrumentos emitidos por el Gobierno Federal en moneda nacional, incluyéndose las Unidades de Inversión con la máxima calificación financiera del fondo y de la emisora que garantice el máximo de su capacidad de pago y minimización del riesgo en el impago.
 
-Solo se podrá realizar inversiones con las reservas de aportaciones ordinarias después de haber cubierto las prestaciones establecidas en el artículo 50 de esta ley, el monto a invertir no deberá exceder del equivalente al 10% de los ingresos estimados por dichas aportaciones para el correspondiente ejercicio.
+f) Títulos referenciados a Acciones con Activos y/o Subyacentes referenciados a Instrumentos de Deuda Gubernamental.
 
-II. Las inversiones se realizarán conforme a los lineamientos y el programa anual que el consejo directivo apruebe, a propuesta del comité, con base en los estudios actuariales, financieros y demás pertinentes que periódicamente efectúen despachos profesionales acreditados. En los lineamientos deberá señalarse, por lo menos, lo siguiente:
+g) Acciones representativas de capital social de las sociedades de inversión cuyo régimen de inversión tengan como activos objetos de inversión exclusivamente Valores Gubernamentales.
+
+Las sociedades de inversión referidas en este numeral deberán cumplir con al menos dos de las máximas calificaciones financieras.
+
+Asimismo, podrán realizarse inversiones en Proyectos de Infraestructura Pública o de participación privada para el desarrollo del Estado de Yucatán, hasta por los montos que el Consejo directivo señale y se encuentre considerado en el presupuesto del Instituto.
+
+II. Los recursos a los que hace referencia este artículo se invertirán de acuerdo con los lineamientos y el programa anual que el Consejo directivo apruebe, a propuesta del Comité de Inversión y Finanzas, con base en los estudios actuariales, financieros y demás pertinentes que periódicamente efectúen despachos profesionales acreditados. En estos lineamientos deberá señalarse, por lo menos, lo siguiente:
 
 a) La calificación crediticia de los instrumentos y operaciones objeto de inversión de las reservas.
 
-b) Los porcentajes de instrumentos y operaciones de renta fija y de renta variable de cada reserva.
+b) Los porcentajes de instrumentos y operaciones de cada reserva.
 
 c) Los porcentajes de instrumentos y operaciones a corto, medio y largo plazo.
 
@@ -725,7 +737,9 @@ d) El porcentaje máximo de cada reserva que podrá invertirse en instrumentos d
 
 e) El porcentaje máximo de instrumentos de un mismo emisor que podrá ser adquirido para una misma reserva.
 
-III. Las inversiones que la administración de las reservas implique podrán realizarse directamente por el instituto, quien también podrá contratar a intermediarios y agentes financieros especializados en estos servicios.
+III. Las inversiones y operaciones que la administración de las reservas implique podrán realizarse directamente por el Instituto a través del Director General, previa autorización del Consejo directivo, quien también podrá contratar a intermediarios y agentes financieros especializados en estos servicios con experiencia comprobable y reconocida probidad.
+
+IV. Las inversiones que realice el instituto no podrán tener carácter especulativo ni de riesgo. El instituto no podrá invertir en acciones o valores de casas de bolsa.
 
 ### Capítulo IV. Prestaciones
 
@@ -1175,27 +1189,27 @@ En caso de muerte de la persona deudora, el saldo insoluto de su préstamo se li
 
 #### Sección primera. Disposiciones generales
 
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 99.
 
 Modalidades de pensión
 
 Las personas servidoras públicas o las personas beneficiarias podrán tener derecho a una pensión, en sus siguientes modalidades:
 
-I. Jubilación.
+I. Jubilación necesaria.
 
-II. Retiro anticipado.
+II. Jubilación voluntaria.
 
-III. Vejez.
+III. Incapacidad por riesgos de trabajo.
 
-IV. Retiro anticipado en edad avanzada.
+IV. Invalidez por causas ajenas al trabajo.
 
-V. Incapacidad por riesgos de trabajo.
+V. Fallecimiento por riesgos de trabajo.
 
-VI. Fallecimiento por riesgos de trabajo.
+VI. Fallecimiento por causas ajenas al trabajo.
 
-VII. Invalidez por causas ajenas al trabajo.
-
-VIII. Fallecimiento por causas ajenas al trabajo.
+VII. Fallecimiento de una persona servidora pública pensionada.
 
 Las modalidades antes señaladas se regirán por las condiciones y los requisitos establecidos en esta ley.
 
@@ -1231,17 +1245,21 @@ El monto de las pensiones vencidas y cualquier prestación en dinero a cargo del
 
 Incompatibilidad y compatibilidad de las pensiones
 
-Las pensiones a que se refiere el artículo 99 de esta ley, salvo las previstas en las fracciones VI y VIII de dicho artículo, son incompatibles entre sí; por lo que cuando una persona servidora pública tenga derecho a dos o más de las pensiones referidas, se les otorgará la pensión de mayor cuantía.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+Las pensiones a que se refiere el artículo 99 de esta ley, salvo las previstas en las fracciones V y VI de dicho artículo, son incompatibles entre sí; por lo que cuando una persona servidora pública tenga derecho a dos o más de las pensiones referidas, se les otorgará la pensión de mayor cuantía.
 
 De igual manera, son incompatibles con el desempeño de un trabajo remunerado que implique su incorporación al régimen de seguridad social establecido en esta ley, en cualquiera de las entidades públicas.
 
 La pensión concedida a la hija o al hijo de la persona pensionada, con motivo de su fallecimiento es compatible con la pensión que, en su caso, pueda obtenerse de los derechos del otro progenitor.
 
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 105.
 
 Consecuencias de la incompatibilidad de las pensiones
 
-En caso de que una persona que recibe alguna de las pensiones, previstas en el artículo 99 de esta ley, salvo las establecidas en las fracciones VI y VIII de dicho artículo, desempeñe un trabajo remunerado en cualquiera de las entidades públicas y acceda al régimen de seguridad social establecido en esta ley, deberá reintegrar las cantidades correspondientes a las mensualidades de la pensión indebidamente percibidas, a partir de que se presente la incompatibilidad.
+En caso de que una persona que recibe alguna de las pensiones, previstas en el artículo 99 de esta ley, salvo las establecidas en las fracciones V y VI de dicho artículo, desempeñe un trabajo remunerado en cualquiera de las entidades públicas y acceda al régimen de seguridad social establecido en esta ley, deberá reintegrar las cantidades correspondientes a las mensualidades de la pensión indebidamente percibidas, a partir de que se presente la incompatibilidad.
 
 ###### Artículo 106.
 
@@ -1269,77 +1287,125 @@ Las pensiones no son susceptibles de enajenarse, cederse, gravarse o embargarse,
 
 #### Sección segunda. Pensiones por retiro
 
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 110.
 
-Pensión por jubilación
+Pensiones
 
-La persona servidora pública que cuente con TREINTA Y CINCO AÑOS DE COTIZACIÓN y sesenta y cinco años de edad tendrá derecho a una pensión por jubilación. El monto de esta pensión será equivalente al cien por ciento del salario regulador.
+La jubilación es la relevación de la obligación de la persona servidora pública de seguir desempeñando su empleo en razón de edad, de su tiempo de servicios o por imposibilidad física o mental, con derecho a percibir en calidad de pensión el total o parte de su último salario. El instituto está obligado a pagar las pensiones por jubilación y de otra índole que se consignen en esta ley.
 
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 111.
 
-Pensión por retiro anticipado
+Supuestos
 
-La persona servidora pública que haya cumplido sesenta años de edad y TREINTA Y CINCO AÑOS DE COTIZACIÓN tendrá derecho a la pensión por retiro anticipado.
+Las personas servidoras públicas adquieren derecho a pensión:
 
-El monto de esta pensión se calculará multiplicando su salario regulador por el factor A descrito en la siguiente tabla:
+I. Por jubilación necesaria al cumplir 55 años de edad y 15 o más años de cotización.
 
-Edad al momento del retiro anticipado Factor A
+II. Por jubilación voluntaria cuando hayan alcanzado 30 años de cotización, en el caso de los hombres, o 28 años de cotización, en el caso de las mujeres. En ambos supuestos, sin límite de edad.
 
-65 o más 1.000
+III. Por incapacidad o invalidez, cuando se hayan perdido las facultades físicas o intelectuales necesarias para el desempeño normal del trabajo. La obligación para el instituto queda condicionada a que se hayan pagado íntegra y normalmente las cotizaciones por el tiempo de servicios. La inhabilitación podrá ser:
 
-64 0.950
+a) Por incapacidad a causa o consecuencia del trabajo, en cuyo caso el derecho a pensión se adquiere cualquiera que sea el tiempo de cotizaciones.
 
-63 0.900
+b) Por invalidez por causas ajenas al trabajo, en cuyo caso el derecho a la pensión se adquiere cuando las personas servidoras públicas hayan alcanzado cinco o más años de cotización, en términos de lo previsto en el artículo 119 de esta ley.
 
-62 0.850
-
-61 0.800
-
-60 0.750
-
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 112.
 
-Pensión por vejez
+Fijación del monto de la pensión
 
-La persona servidora pública que haya cumplido VEINTE AÑOS DE COTIZACIÓN y sesenta y cinco años de edad tendrá derecho a la pensión por vejez.
+El monto de la pensión que se pague a la persona servidora pública, a título de jubilación, se fijará como sigue:
 
-El monto de esta pensión se calculará multiplicando el salario regulador por el factor B en función de los años de cotización al momento de la solicitud de acuerdo con la siguiente tabla:
+I. Por jubilación necesaria o voluntaria, el tanto por ciento del último salario, en relación con los años de cotización, conforme a las siguientes tablas:
 
-Años de
+a) En el caso de las mujeres:
 
-cotización Factor B Años de cotización Factor B
+Años de Porcentaje
 
-20 0.5000 28 0.7550
+Cotización
 
-21 0.5300 29 0.7900
+15 50.00%
 
-22 0.5600 30 0.8250
+16 54.00%
 
-23 0.5900 31 0.8600
+17 58.00%
 
-24 0.6200 32 0.8950
+18 62.00%
 
-25 0.6500 33 0.9300
+19 66.00%
 
-26 0.6800 34 0.9650
+20 69.00%
 
-27 0.7200 35 o más 1.0000
+21 73.00%
 
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+22 77.00%
+
+23 81.00%
+
+24 85.00%
+
+25 88.00%
+
+26 92.00%
+
+27 96.00%
+
+28 100.00%
+
+b) En el caso de los hombres:
+
+Años de Porcentaje
+
+Cotización
+
+15 50.00%
+
+16 52.50%
+
+17 55.00%
+
+18 57.50%
+
+19 60.00%
+
+20 62.50%
+
+21 65.00%
+
+22 67.50%
+
+23 70.00%
+
+24 72.50%
+
+25 77.50%
+
+26 82.50%
+
+27 87.50%
+
+28 90.00%
+
+29 95.00%
+
+30 100.00%
+
+II. Por incapacidad permanente parcial a causa o consecuencia del trabajo; se tomará como base el último salario de la persona servidora pública y se aplicará al porcentaje fijado en la tabla de valuación de incapacidades de la Ley Federal del Trabajo.
+
+III. Por invalidez parcial por causas ajenas al trabajo: el 80 por ciento de la pensión calculada en la manera que se precisa en la fracción inmediata precedente.
+
+IV. Por incapacidad permanente total a causa o consecuencia del trabajo: el 100 por ciento del último salario, independientemente del tiempo que haya laborado.
+
+V. Por invalidez total por causas ajenas al trabajo: se aplicará lo previsto en el artículo 119 de esta ley.
 
 ###### Artículo 113.
 
-Pensión por retiro anticipado en edad avanzada
-
-La persona servidora pública que haya cumplido VEINTE AÑOS DE COTIZACIÓN y sesenta años de edad tendrá derecho a la pensión por retiro anticipado en edad avanzada.
-
-El monto de esta pensión será el resultado de multiplicar el salario regulador por los factores A y B previstos en las tablas de los artículos 111 y 112 respectivamente en función de la edad y años de cotización al momento del retiro.
+(DEROGADO, D.O. 12 DE NOVIEMBRE DE 2025)
 
 #### Sección tercera. Pensiones por incapacidad por riesgos de trabajo
 
@@ -1363,13 +1429,13 @@ Cuando la persona servidora pública pueda dedicarse a otras funciones porque so
 
 Si el monto de la pensión anual resulta inferior al veinticinco por ciento del salario mínimo anual se pagará a la persona servidora pública, en substitución de esta, una indemnización equivalente a cinco anualidades de la pensión que le hubiere correspondido con un tope al salario de cotización de dos salarios mínimos.
 
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 116.
 
-Pensión por riesgo de trabajo por incapacidad permanente total
+Pensión por incapacidad permanente total
 
-Al declararse a la persona servidora pública una incapacidad permanente total, se le concederá una pensión por incapacidad por riesgo de trabajo equivalente al cien por ciento del salario regulador calculado al momento de presentarse el riesgo, cualquiera que sea el tiempo que hubiere estado en funciones.
+Al declararse a la persona servidora pública una incapacidad permanente total a causa o consecuencia del trabajo, se le concederá una pensión por incapacidad por riesgos de trabajo equivalente al cien por ciento del último salario calculado al momento de presentarse el riesgo, cualquiera que sea el tiempo que hubiere estado en funciones.
 
 ###### Artículo 117.
 
@@ -1391,7 +1457,7 @@ Dentro del término de quince días hábiles a que el instituto se entere de que
 
 #### Sección cuarta. Pensiones por invalidez por causas ajenas al trabajo
 
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 119.
 
@@ -1399,27 +1465,7 @@ Pensión por invalidez por causas ajenas al trabajo
 
 La pensión por invalidez se otorgará a las personas servidoras públicas que se inhabiliten física o mentalmente en términos de lo previsto en esta ley, por causas ajenas al desempeño de su cargo, empleo o comisión, que hayan pagado sus cuotas al instituto al menos durante cinco años.
 
-El monto de esta pensión será igual a la multiplicación del salario regulador por el factor C en función de los años de cotización al momento de la solicitud de acuerdo con la siguiente tabla:
-
-Años de
-
-cotización Factor C Años de cotización Factor C
-
-5 a 20 0.5000 28 0.7550
-
-21 0.5300 29 0.7900
-
-22 0.5600 30 0.8250
-
-23 0.5900 31 0.8600
-
-24 0.6200 32 0.8950
-
-25 0.6500 33 0.9300
-
-26 0.6800 34 0.9650
-
-27 0.7200 35 o más 1.0000
+El monto de esta pensión será igual a la multiplicación del último salario por el 50 por ciento, en el caso de las personas servidoras públicas que tengan de 5 a 15 años de cotización; y respecto aquellas personas que tengan 16 años o más de cotización se les aplicará la tabla prevista en el artículo 112, fracción I, de esta ley.
 
 ###### Artículo 120.
 
@@ -1467,55 +1513,31 @@ En tanto se dictamina la invalidez de la persona servidora pública en forma def
 
 #### Sección quinta. Pensiones por fallecimiento
 
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 125.
 
 Fallecimiento de las personas pensionadas
 
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Las personas beneficiarias, en el orden establecido en el artículo 128, a la muerte de una persona pensionada, tendrán derecho a una pensión, cuyo monto será igual a la pensión que recibía la persona pensionada.
 
-LAS PERSONAS BENEFICIARIAS, EN EL ORDEN ESTABLECIDO EN EL ARTÍCULO 128, A LA MUERTE DE UNA PERSONA PENSIONADA, TENDRÁN DERECHO A UNA PENSIÓN CUYO MONTO SERÁ IGUAL A UN PORCENTAJE DE LA PENSIÓN QUE RECIBÍA EL TITULAR, ACTUALIZADA CONFORME A LO DISPUESTO EN ESTA LEY, DE ACUERDO CON LA SIGUIENTE TABLA:
+El pago será retroactivo a partir del día siguiente al del deceso de la persona pensionada.
 
-AÑOS DISFRUTADOS DE PENSIÓN DE PORCENTAJE DE LA PENSIÓN
-
-LOS BENEFICIARIOS QUE RECIBÍA EL TITULAR
-
-(ACTUALIZADA)
-
-1 100%
-
-2 90%
-
-3 80%
-
-4 70%
-
-5 60%
-
-6 EN ADELANTE 50%
-
-El pago será retroactivo a partir del día siguiente al del deceso de la persona servidora pública o persona pensionada.
-
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 126.
 
 Fallecimiento por riesgo de trabajo
 
-En caso de fallecimiento por riesgo del trabajo de una persona servidora pública, sus personas beneficiarias, en el orden establecido en el artículo 128 de este ordenamiento, tendrán derecho a que el instituto les pague una pensión por fallecimiento por riesgos de trabajo equivalente al cien por ciento del salario regulador.
+En caso de fallecimiento por riesgo de trabajo de una persona servidora pública, sus personas beneficiarias, en el orden establecido en el artículo 128 de este ordenamiento, tendrán derecho a que el instituto les pague una pensión por fallecimiento por riesgos de trabajo equivalente al cien por ciento del último salario de la persona servidora pública.
 
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 12 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 127.
 
 Fallecimiento por causas ajenas al riesgo de trabajo
 
-Cuando una persona servidora pública fallezca, por una causa que no se considere como riesgo de trabajo, sus personas beneficiarias, en el orden establecido en el artículo 128 de esta ley, tendrán derecho a una pensión por fallecimiento por causas ajenas al trabajo, siempre y cuando la persona servidora pública hubiera cotizado al menos cinco años al instituto. El monto de dicha pensión será un porcentaje de su salario regulador de acuerdo con el factor C referido en el artículo 119 de esta ley.
-
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-LA PENSIÓN SE AJUSTARÁ DE ACUERDO CON LO ESTABLECIDO EN EL ARTÍCULO 125 DE ESTA LEY.
+Cuando una persona servidora pública fallezca, por una causa que no se considere como riesgo de trabajo, sus personas beneficiarias, en el orden establecido en el artículo 128 de esta ley, tendrán derecho a una pensión por fallecimiento por causas ajenas al riesgo de trabajo, siempre y cuando la persona servidora pública hubiera cotizado al menos cinco años al instituto. El monto de dicha pensión será un porcentaje de su último salario de acuerdo con lo previsto en el artículo 119 de esta ley.
 
 ###### Artículo 128.
 
@@ -1543,9 +1565,7 @@ VI. Cuando una persona beneficiaria, ostentándose como cónyuge supérstite exh
 
 VII. Los derechos a percibir pensión se pierden por las siguientes causas:
 
-(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-a) CUANDO LA PERSONA CÓNYUGE BENEFICIARIA CONTRAIGA NUPCIAS O COMIENCE A VIVIR EN CONCUBINATO.
+a) (DEROGADO, D.O. 12 DE NOVIEMBRE DE 2025)
 
 b) Cuando las hijas o hijos cumplan la mayoría de edad, a menos de que dependan económicamente de la persona servidora pública o persona pensionada y estén realizando estudios de nivel medio superior o superior en planteles que se dediquen a la enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación y de la Ley General de Educación Superior, así como las instituciones creadas por decreto presidencial o por ley, cuyo objeto sea la enseñanza, en los términos y características que determine el instituto. Estos perderán el derecho al cumplir veinticinco años de edad.
 
@@ -1878,3 +1898,31 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 12 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 122/2025 POR EL QUE SE MODIFICA LA LEY DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE YUCATÁN Y EL DECRETO 532/2022 POR EL QUE SE EMITE LA LEY DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día 01 de enero del año 2026, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Personas con derecho a pensión
+
+Las personas servidoras públicas que hubieran cumplido con los requisitos para el acceso a la jubilación voluntaria o jubilación necesaria reguladas por el artículo 111, fracciones I y II, de la Ley de Seguridad Social de los Trabajadores del Estado de Yucatán, conforme a este decreto podrán acceder a la pensión que corresponda.
+
+Artículo tercero. Personas servidoras públicas en transición
+
+Las personas servidoras públicas que se hayan afiliado al Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán, con fecha anterior a la entrada en vigor de este decreto y que no estén en el supuesto de su artículo segundo transitorio, les será aplicable el régimen de pensiones previsto en este decreto.
+
+Artículo cuarto. Previsiones presupuestales
+
+Se faculta al Gobernador, para que a través de la Secretaría de Administración y Finanzas se realicen los ajustes presupuestarios al Presupuesto de Egresos del presente año 2025 a fin de dar cumplimiento a lo previsto en el presente decreto.
+
+El Gobernador, a través de la Secretaría de Administración y Finanzas, en la elaboración del proyecto de Presupuesto de Egresos para el ejercicio fiscal correspondiente al año 2026, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos, para su debida aplicación.
+
+Artículo quinto. Clausula derogatoria
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
