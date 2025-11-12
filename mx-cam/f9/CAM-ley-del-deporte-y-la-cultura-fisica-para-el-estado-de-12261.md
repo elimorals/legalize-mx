@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-deporte-y-la-cultura-fisica-para-el-estado-de-12261"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2024-07-24"
+last_updated: "2025-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 24 de junio de 1998.
 
@@ -105,13 +105,13 @@ VIII.- Deporte de alto nivel de rendimiento.- Actividad competitiva en la que se
 
 IX.- Desarrollo integral del individuo.- Conjunto de acciones encaminadas a incrementar todas las facultades del ser humano;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-X.- Deporte para discapacitados.- Individuos que con pérdida o anormalidad de su estructura anatómica o psicológica practican un deporte;
+X.- Deporte para personas con discapacidad.- Actividad deportiva que practican las personas que presentan una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-XI.- Deporte de la Tercera Edad.- Actividad deportiva que practican individuos de edad avanzada;
+XI.- Deporte para personas adultas mayores.- Actividad deportiva que practican las personas adultas mayores;
 
 > <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
 
@@ -491,7 +491,9 @@ III.- El desarrollo de centros de enseñanza deportiva, los cuales deberán mane
 
 IV.- El establecimiento de programas de recreación.
 
-V.- La elaboración de programas de adecuación física y deportiva para personas de la tercera edad con alguna discapacidad funcional.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+V.- La elaboración de programas de adecuación física y deportiva para personas adultas mayores con alguna discapacidad funcional;
 
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2016)</small>
 
@@ -661,9 +663,55 @@ VIII.- Fomentar el deporte entre sus compañeros, y
 
 IX.- Las demás que sean señaladas por la presente Ley.
 
-### CAPÍTULO XIII. DEL FOMENTO Y ESTÍMULOS AL DEPORTE
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-### CAPÍTULO XIV. DE LAS SANCIONES ADMINISTRATIVAS Y RECURSOS DEL DEPORTE
+### CAPÍTULO XII BIS. DEL DEPORTE ADAPTADO Y DEPORTE PARA LAS PERSONAS ADULTAS MAYORES
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 55 Bis.
+
+El Ejecutivo Estatal a través del Instituto del Deporte del Estado de Campeche, deberá difundir, promover y facilitar la participación entre la población con discapacidad y adultas mayores en las distintas disciplinas deportivas, procurando contar con personal calificado para brindar la atención requerida para estos sectores.
+
+Asimismo, deberá garantizar la inclusión en igualdad de oportunidades a través de la formulación de torneos locales para mejorar su nivel de desarrollo personal.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 55 Ter.
+
+El deporte adaptado y deporte de las personas adultas mayores deberá promoverse a través de las siguientes acciones:
+
+I. Implementar acciones y políticas públicas que garanticen su práctica con dignidad, inclusión e igualdad;
+
+II. Promover, en colaboración con entidades de los sectores público, privado y social, la investigación y el desarrollo tecnológico, junto con ciencias y técnicas aplicadas, para favorecer diversas disciplinas del deporte;
+
+III. Implementar vínculos de colaboración y cooperación con entidades de los sectores público, privado y social para impulsar su desarrollo y promoción;
+
+IV. Fomentar la participación de los municipios, fundaciones, organismos deportivos, centros educativos y entidades deportivas para promover acciones inclusivas en favor de estos sectores;
+
+V. Implementar estrategias para la formación especializada de entrenadores y técnicos deportivos, y
+
+VI. Las demás disposiciones establecidas en la presente ley.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 55 Quater.
+
+Las instalaciones deportivas propiedad del Estado o de los municipios, deberán construirse, conservarse, mantenerse, acondicionarse y en su caso contener las adecuaciones de acceso y servicios a fin de que puedan ser utilizados por estos sectores.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 55 Quinquies.
+
+Las personas a que se refiere este Capítulo recibirán sin discriminación alguna, los estímulos y demás beneficios que se establecen en esta ley, además se incluirán becas vitalicias para las y los atletas campechanos sobresalientes, activos o retirados que practiquen en las diferentes disciplinas del deporte adaptado o deporte de las personas adultas mayores, de conformidad con las reglas o lineamientos que emita el Ejecutivo Estatal.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 55 Sexies.
+
+Las personas aspirantes a ingresar a cualquiera de las disciplinas del deporte adaptado y deporte de las personas adultas mayores, requerirán un certificado médico que los acredite aptos para su práctica. Cuando deseen realizar actividades deportivas, que no impliquen un riesgo para la salud, no será necesaria la presentación del diagnóstico médico citado.
+
+### CAPÍTULO XIII. DEL FOMENTO Y ESTÍMULOS AL DEPORTE
 
 ###### Artículo 56.
 
@@ -709,7 +757,7 @@ c).- Aplicar el egreso del gasto en el deporte federado, estudiantil, popular, a
 
 d).- Las demás que se adecuen bajo el espíritu de esta Ley.
 
-### CAPÍTULO XV. DE LA COMISIÓN ESTATAL DE APELACIÓN Y ARBITRAJE DEL DEPORTE
+### CAPÍTULO XIV. DE LAS SANCIONES ADMINISTRATIVAS Y RECURSOS DEL DEPORTE
 
 ###### Artículo 61.
 
@@ -784,6 +832,8 @@ III.- Suspensión temporal o definitiva.
 ###### Artículo 63.
 
 Contra las resoluciones de las autoridades que impongan sanciones, procederá el recurso de apelación ante la Comisión Estatal de Apelación y Arbitraje del Deporte, quién confirmará, revocará o modificará la resolución impugnada.
+
+### CAPÍTULO XV. DE LA COMISIÓN ESTATAL DE APELACIÓN Y ARBITRAJE DEL DEPORTE
 
 ###### Artículo 64.
 
@@ -872,3 +922,15 @@ P.O. 24 DE JULIO DE 2024.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 149 POR EL QUE “SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 3; LA FRACCIÓN V DEL ARTÍCULO 41 Y, SE ADICIONA EL CAPÍTULO XII BIS CON LOS ARTÍCULOS 55 BIS, 55 TER, 55 QUATER, 55 QUINQUIES Y 55 SEXIES, TODOS DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+TERCERO.- El Estado deberá realizar las previsiones presupuestales correspondientes para el ejercicio fiscal 2026, con la finalidad de dar cumplimiento al presente decreto, de conformidad con la suficiencia presupuestal y de forma escalonada.
+
+CUARTO.- El Poder Ejecutivo del Estado deberá emitir las reglas y lineamientos a que se refiere el artículo 55 Quinquies del presente decreto, en un plazo máximo de 180 días naturales contados a partir de su entrada en vigor.
