@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2025-10-29"
+last_updated: "2025-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -427,11 +427,11 @@ Los municipios a través de sus funcionarios y servidores públicos darán debid
 
 Todo ello con el fin de garantizar en sus territorios el derecho de acceso de las mujeres a una vida libre de violencia, dentro de un medio ambiente adecuado que favorezca su desarrollo y bienestar.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 15 Ter.
 
-Los servidores públicos que presten sus servicios para los Municipios, deberán abstenerse de cualquier práctica discriminatoria en el ejercicio de su cargo o comisión pudiendo incurrir en alguno de los supuestos que señala la Ley Estatal de Responsabilidades de los Servidores Públicos, independientemente de los procedimientos que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
+Las personas servidoras públicas que presten sus servicios para los Municipios, deberán abstenerse de cualquier práctica discriminatoria en el ejercicio de su cargo o comisión pudiendo incurrir en alguno de los supuestos que señala la Ley de Responsabilidades Administrativas para el Estado de Morelos, independientemente de los procedimientos que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2015)</small>
 
@@ -625,9 +625,9 @@ g) Desarrollo Económico;
 
 h) Seguridad Pública y Tránsito;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-i) Asuntos Indígenas, Colonias y Poblados;
+i) Colonias y Poblados;
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
@@ -648,6 +648,10 @@ m) Protección ambiental y Desarrollo Sustentable;
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 n) Derechos Humanos;
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+ñ) De la Familia;
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
@@ -689,29 +693,41 @@ w) Ciencia, Tecnología e Innovación;
 
 x) Participación Ciudadana;
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-y) Atención a personas con discapacidad, y
+y) Atención a Personas con Discapacidad;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-z) Atención a la Diversidad Sexual.
+z) Atención a la Diversidad Sexual;
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+aa) Protección de los Derechos de las Personas Contribuyentes, y
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+ab) Comunidades Indígenas y Afromexicanas.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+Los municipios que conforme a la normativa formen parte de una zona metropolitana, deberán contar con una Comisión para su atención, misma que podrá formar parte de la Comisión de Planificación y Desarrollo. Dicha Comisión tendrá por objeto proponer y dar seguimiento a las políticas e instrumentos de planeación vinculados al desarrollo metropolitano, en colaboración con las instancias correspondientes.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 Las comisiones que se designen a los miembros del Ayuntamiento serán irrenunciables, salvo causa grave justificada así calificada por la mayoría absoluta de los integrantes del Cabildo.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-Con el objeto de atender asuntos específicos, según las necesidades del Municipio, los Ayuntamientos están facultados para constituir comisiones temporales. En la asignación de las comisiones se deberá respetar el principio de equidad; asimismo se deberá tomar preferentemente en consideración el perfil, preparación e instrucción de los regidores. Los regidores deberán tener asignada cuando menos una comisión, y será el Cabildo, quien por su acuerdo, haga dicha asignación;
+Con el objeto de atender asuntos específicos, según las necesidades del Municipio, los Ayuntamientos están facultados para constituir comisiones temporales. En la asignación de las comisiones se deberá respetar el principio de equidad; asimismo se deberá tomar preferentemente en consideración el perfil, preparación e instrucción de los regidores. Los regidores deberán tener asignada cuando menos una comisión, y será el Cabildo, quien, por su acuerdo, haga dicha asignación;
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
 
 III.- Designar a una comisión temporal denominada Comisión Especial de Recepción, que estará integrada por un Regidor de cada uno de los Partidos Políticos con representación en el Ayuntamiento, la cual tendrá la responsabilidad de revisar y resguardar los padrones, expedientes laborales y de elementos de seguridad pública, inventarios, fondos y valores que entrega el Ayuntamiento saliente. Esta Comisión podrá asesorarse con las instancias que ella misma determine, y deberá emitir un dictamen, dentro de los treinta días naturales siguientes a la entrega del Ayuntamiento saliente, al cual anexará la relación de expedientes recibidos, referenciando cada expediente con su correspondiente área administrativa, que deberá presentar en sesión de Cabildo, para su discusión y aprobación, en su caso.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-Si el Ayuntamiento saliente se negara a hacer la entrega o la realizara de manera parcial, la Comisión encargada, levantará el acta correspondiente, corriendo inmediato traslado, mediante copia certificada al Congreso del Estado, que proveerá lo conducente de acuerdo a lo establecido en la Constitución Política del Estado Libre y Soberano de Morelos; en la Ley Estatal de Responsabilidades de los Servidores Públicos; y demás ordenamientos jurídicos aplicables.
+Si el Ayuntamiento saliente se negara a hacer la entrega o la realizará de manera parcial, la Comisión encargada, levantará el acta correspondiente, corriendo inmediato traslado, mediante copia certificada al Congreso del Estado, que proveerá lo conducente de acuerdo a lo establecido en la Constitución Política del Estado Libre y Soberano de Morelos; en la Ley de Responsabilidades Administrativas para el Estado de Morelos; y demás ordenamientos jurídicos aplicables.
 
 Asimismo, en caso de cubrir los requisitos de la entrega recepción, del acta que se levante, así como de las observaciones formuladas, se remitirá copia a la Legislatura Local.
 
@@ -721,9 +737,9 @@ Los Titulares o responsables de área, en el momento de dejar de surtir efectos 
 
 Todo Ayuntamiento, mediante el área de Recursos Humanos, está obligado a conservar y resguardar el archivo laboral, el cual contendrá los expedientes individualizados de trabajadores en activo, ex trabajadores, y pensionistas del Municipio, así como también de los elementos de seguridad pública, archivo que por ningún motivo estará fuera del Edificio Municipal o de las oficinas de Recursos Humanos.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-Todo servidor público, será responsable de los expedientes a su resguardo, por lo que en caso de negligencia o mal manejos (sic) de éstos, se estará a los dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Toda persona servidora pública, será responsable de los expedientes a su resguardo, por lo que en caso de negligencia o mal manejos de éstos, se estará a los (sic) dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos. En el último año de ejercicio constitucional, el Ayuntamiento saliente, deberá prever en el Presupuesto de Egresos una partida especial para el proceso de entrega recepción;
 
 En el último año de ejercicio constitucional, el Ayuntamiento saliente, deberá prever en el Presupuesto de Egresos una partida especial para el proceso de entrega recepción;
 
@@ -897,9 +913,9 @@ Los Ayuntamientos no podrán revocar sus acuerdos, sino en aquellos casos en que
 
 Las sesiones serán siempre presididas por el Presidente Municipal o por quien lo sustituya legalmente; de ésta se levantará acta circunstanciada que constará en un libro de actas, en el cual deberán de asentarse los extractos de los acuerdos y asuntos tratados y el resultado de las votaciones. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal, estos constarán íntegramente en el libro debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, ante el Secretario del Ayuntamiento, que asistirá a las sesiones de Cabildo con voz informativa, pero sin voto, dando fe de todo lo actuado en ellas.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-De las actas levantadas por el Secretario del Ayuntamiento se les entregará copia certificada, en un plazo no mayor a ocho días, a los integrantes del Ayuntamiento. En caso de no cumplir con esta disposición, el Secretario del Ayuntamiento será sancionado conforme a lo establecido en la Ley Estatal de Responsabilidades de los Servidores Públicos.
+De las actas levantadas por la persona titular de la Secretaria del Ayuntamiento se les entregará copia certificada, en un plazo no mayor a ocho días, a los integrantes del Ayuntamiento. En caso de no cumplir con esta disposición, la persona titular de la Secretaria del Ayuntamiento será sancionada conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Morelos.
 
 ###### Artículo 34.
 
@@ -1027,9 +1043,9 @@ XXVIII. Autorizar la ejecución de las obras públicas municipales en coordinaci
 
 XXIX. Exigir la exhibición de la garantía, hipotecaria o pecuniaria o cualquier otra modalidad que establezca la ley, al Tesorero municipal y a todos los servidores públicos que manejen fondos o valores municipales.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-En términos del artículo 60 de la Ley de Fiscalización Superior del Estado de Morelos, las responsabilidades de los servidores públicos es personal, por tanto, todos los servidores públicos atendiendo a la naturaleza de sus funciones, su propia actuación y en sus respectivos ámbitos de competencia, independientemente de si manejan o no fondos o valores, son responsables por la infracción a cualquiera de los deberes establecidos en el artículo 27 de la Ley Estatal de Responsabilidades de los Servidores Públicos;
+En términos de los artículos 60 y 61 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, las responsabilidades de las personas servidoras públicas es personal (sic), por tanto, todos las y los servidores públicos atendiendo a la naturaleza de sus funciones, su propia actuación y en sus respectivos ámbitos de competencia, independientemente de si manejan o no fondos o valores, son responsables por la infracción a cualquiera de los deberes establecidos en la Ley de Responsabilidades Administrativas para el Estado de Morelos.
 
 XXX. Revisar y en su caso aprobar el Plan Municipal de Desarrollo, los programas del mismo emanen y las modificaciones que a uno u otros se hagan, de conformidad con los planes de desarrollo nacional y estatal y de los programas y subprogramas que de ellos deriven;
 
@@ -2105,19 +2121,15 @@ III. De la misma manera, queda facultado para solicitar información o documenta
 
 IV. Participar, cuando así se lo requieran los miembros del Cabildo, en las sesiones ordinarias o extraordinarias de éstos, para tratar algún tema o asunto en los que se le solicite su opinión;
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO MIL SEISCIENTOS SESENTA Y OCHO, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2014, Y DE SU PROCESO LEGISLATIVO, SE ADVIERTE QUE SE ACTUALIZA LA DENOMINACIÓN DEL ORDENAMIENTO QUE SEÑALA ESTA FRACCIÓN.]</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2014)</small>
+V. Recibir quejas o denuncias en contra de las personas servidoras públicas Municipales y substanciar las investigaciones respectivas, vigilando en todo momento el cumplimiento de las obligaciones que impone la Ley de Responsabilidades Administrativas para el Estado de Morelos
 
-V. Recibir quejas o denuncias en contra de los Servidores Públicos Municipales y substanciar las investigaciones respectivas, vigilando en todo momento el cumplimiento de las obligaciones que impone la Ley Estatal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-En el caso en que el servidor público denunciado o del que verse la queja sea de elección popular, el Contralor Municipal turnará la queja o denuncia al Pleno del Ayuntamiento, a fin de que éste la resuelva. En el procedimiento que se lleve, no participará el funcionario denunciado;
+VII (SIC). Para hacer cumplir sus determinaciones, podrá imponer las sanciones disciplinarias que correspondan; iniciará y desahogará el procedimiento administrativo de fincamiento de responsabilidades; emitirá las resoluciones administrativas absolutorias o sancionadoras a que se refiere la Ley de Responsabilidades Administrativas para el Estado de Morelos;; (sic) siempre que se trate de personas servidoras públicas que no sean de elección popular y cuando ello no corresponda a los superiores jerárquicos.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO MIL SEISCIENTOS SESENTA Y OCHO, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2014, Y DE SU PROCESO LEGISLATIVO, SE ADVIERTE QUE SE ACTUALIZA LA DENOMINACIÓN DEL ORDENAMIENTO QUE SEÑALA ESTA FRACCIÓN.]</small>
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-VII (SIC). Para hacer cumplir sus determinaciones, podrá imponer las sanciones disciplinarias que correspondan; iniciará y desahogará el procedimiento administrativo de fincamiento de responsabilidades; emitirá las resoluciones administrativas absolutorias o sancionadoras a que se refiere la Ley Estatal de Responsabilidades de los Servidores Públicos; siempre que se trate de servidores públicos que no sean de elección popular y cuando ello no corresponda a los superiores jerárquicos.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 Las sanciones que imponga en los términos de esta fracción, deberá hacerlas del conocimiento de los órganos de control de los Poderes Ejecutivo y Legislativo del Estado de Morelos;
 
@@ -2821,9 +2833,9 @@ III. Proponer, formular e integrar con la participación del Coplademun, al Cabi
 
 IV. Observar cuando el Ayuntamiento realice obras públicas con recursos federales cualquiera que sea su origen, se cumpla con la normatividad aplicable, el incumplimiento a la misma, será responsabilidad de la autoridad que la autoriza y el Titular de la dependencia en comento que la ejecute;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-V. Integrar el expediente técnico de la obra, sin importar el origen de los recursos con los que se ejecute la obra pública, el cual contendrá la documentación técnica y financiera generada por la obra que ayuden a comprobar el gasto, y deberá contener como mínimo lo siguiente: oficio de autorización y/o acuerdo de Cabildo, carátula de datos generales, validación o dictamen de factibilidad ante las instancias correspondientes, croquis de localización, presupuesto inicial, descripción detallada del proyecto, planos aprobados y/o croquis de obra, números generadores, análisis de precios unitarios, estimaciones, resúmenes de costos de obra, calendario de obra, bitácora fotográfica y de obra, acta de comité de obra de la comunidad, contratos de arrendamiento y acta de entrega recepción de la obra, el incumplimiento a la presente disposición, dará lugar a las sanciones que establece la Ley Estatal de Responsabilidades de los Servidores Públicos;
+V. Integrar el expediente técnico de la obra, sin importar el origen de los recursos con los que se ejecute la obra pública, el cual contendrá la documentación técnica y financiera generada por la obra que ayuden a comprobar el gasto, y deberá contener como mínimo lo siguiente: oficio de autorización y/o acuerdo de Cabildo, carátula de datos generales, validación o dictamen de factibilidad ante las instancias correspondientes, croquis de localización, presupuesto inicial, descripción detallada del proyecto, planos aprobados y/o croquis de obra, números generadores, análisis de precios unitarios, estimaciones, resúmenes de costos de obra, calendario de obra, bitácora fotográfica y de obra, acta de comité de obra de la comunidad, contratos de arrendamiento y acta de entrega recepción de la obra, el incumplimiento a la presente disposición, dará lugar a las sanciones que establece la Ley de Responsabilidades Administrativas para el Estado de Morelos.; (sic)
 
 VI. Resolver y contestar oportunamente las observaciones que haga el Órgano de Fiscalización perteneciente al Congreso del Estado, derivado de la Cuenta Pública Municipal;
 
@@ -3323,11 +3335,11 @@ Los servidores públicos de los Municipios son responsables de los delitos y fal
 
 Para los efectos de la responsabilidad de que se trata este Capítulo, se considera como Servidores Públicos Municipales, a los miembros del Ayuntamiento o del Concejo Municipal, en su caso, y en general, a toda persona que desempeñe cargo, comisión o empleo de cualquier naturaleza, en la Administración Pública Municipal.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 176.
 
-Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos, se estará a lo dispuesto en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Morelos y la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos, se estará a lo dispuesto en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Morelos y la Ley de Responsabilidades Administrativas para el Estado de Morelos.
 
 ###### Artículo 177.
 
@@ -4770,3 +4782,23 @@ PRIMERO.- Remítase el presente Decreto a la Gobernadora Constitucional del Esta
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS CUARENTA Y UNO POR EL QUE SE REFORMA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS DOS.- POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 24 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
