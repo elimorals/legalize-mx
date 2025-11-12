@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2025-10-01"
+last_updated: "2025-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -83,19 +83,21 @@ VI. Entidades Fiscalizadas: Los poderes del Estado de Morelos, el Tribunal Elect
 
 VII. Legislatura: El periodo constitucional de tres años para el que fueron electos los Diputados;
 
-VIII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2024)
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IX], P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+VIII. Recinto Legislativo: las instalaciones del Congreso del Estado, en las que se encuentran las áreas legislativas y administrativas en su conjunto;
 
-IX. Recinto Legislativo: las instalaciones del Congreso del Estado, en las que se encuentran las áreas legislativas y administrativas en su conjunto;
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XII], P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-(REFORMADA, P.O. 21 DE JUNIO DE 2023))
+IX. Salón de Plenos: espacio físico en donde se realizan las sesiones del Congreso del Estado;
 
-XII (SIC). Salón de Plenos: espacio físico en donde se realizan las sesiones del Congreso del Estado; y,
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XI], P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+X. Sesión: reunión de los Diputados que integran la legislatura en el lugar y la fecha formalmente convocados y con el quórum establecidos por la ley, y
 
-XI (SIC). Sesión: reunión de los Diputados que integran la legislatura en el lugar y la fecha formalmente convocados y con el quórum establecidos (sic) por la ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+XI. Sistema electrónico “TableroCongreso”, al sistema electrónico de registro de asistencia y votación implementado para el desarrollo de las sesiones de Pleno del Congreso del Estado de Morelos.
 
 ###### Artículo 5.
 
@@ -663,7 +665,9 @@ Son atribuciones de los Secretarios de la Mesa Directiva:
 
 I. Auxiliar al Presidente de la Mesa Directiva en el desempeño de sus funciones;
 
-II. Pasar lista a los diputados al inicio de cada sesión a fin de registrar su asistencia y verificar el quórum a petición del Presidente de la Mesa Directiva;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+
+II. Pasar lista a los diputados al inicio de cada sesión a fin de registrar su asistencia y verificar el quórum a petición de la Presidencia de la Mesa Directiva; para lo cual tendrán a su cargo la supervisión del sistema electrónico “TableroCongreso”;
 
 III. Levantar las actas de las sesiones, firmarlas después de ser aprobadas por el Congreso del Estado y remitirlas al expediente respectivo. Las actas cumplirán las formalidades que precise el Reglamento del Congreso del Estado;
 
@@ -3912,3 +3916,13 @@ PRIMERA. Remítase el presente Decreto a la titular del Poder Ejecutivo del Esta
 SEGUNDA. El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS CUARENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y DEL REGLAMENTO, AMBOS PARA EL CONGRESO DEL ESTADO DE MORELOS, EN MATERIA DE EFICIENCIA Y USO DE TECNOLOGÍAS EN EL DESARROLLO DE LAS SESIONES".]
+
+PRIMERA. El presente decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Morelos, en términos de lo dispuesto por los artículos 38, segundo párrafo, de la Constitución Política del Estado Libre y Soberano de Morelos y 4 de la Ley Orgánica para el Congreso del Estado de Morelos.
+
+SEGUNDA. Remítase el presente decreto a la Titular del Poder Ejecutivo para su publicación respectiva en el Periódico Oficial “Tierra y Libertad” órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
