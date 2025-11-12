@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-proteccion-civil-del-estado-de-chiapas-102618"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-18"
-last_updated: "2018-09-30"
+last_updated: "2025-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DE LA LEY PARA LA GESTIÓN INTEGRAL DEL RIESGO DE DESASTRES Y PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 12 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 18 de septiembre de 2014.
 
@@ -1702,3 +1704,29 @@ Dentro de los siguientes 60 días naturales a la entrada en vigor de este Decret
 ###### ARTÍCULO TERCERO.
 
 Quedan abrogadas todas aquellas disposiciones legales que se opongan a lo dispuesto por el Presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY PARA LA GESTIÓN INTEGRAL DEL RIESGO DE DESASTRES Y PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de Protección Civil del Estado de Chiapas, publicada en el Periódico Oficial número 138, mediante Decreto número 563, de fecha 18 de septiembre de 2014.
+
+Artículo Cuarto.- La Secretaría, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá someter a la consideración de la persona Titular del Poder Ejecutivo del Estado, el proyecto de Reglamento de la misma, para efectos de su expedición y publicación correspondiente; en tanto, seguirán siendo aplicables, en lo que resulte, las disposiciones contenidas en el Reglamento de la Ley de Protección Civil del Estado de Chiapas, expedido mediante Publicación número 1168-A-2015, consignada en el Periódico Oficial número 197, Segunda Sección, de fecha 9 de septiembre de 2015.
+
+Artículo Quinto.- El Consejo Estatal deberá quedar instalado, de acuerdo a su nueva conformación para el debido cumplimiento del presente Decreto, en un plazo de 30 días hábiles contados a partir de su publicación en el Periódico Oficial.
+
+Artículo Sexto.- Los Ayuntamientos deberán adecuar su marco normativo en materia de Gestión Integral del Riesgo de Desastre y Protección Civil, dentro de los 180 días naturales a la entrada en vigor del presente Decreto. Para el caso de que no se lleven a cabo las adecuaciones normativas dentro del plazo concedido, deberá cesar la aplicación de la normativa municipal que no se ajuste al contenido del presente Decreto, y en su caso, aplicarse, directamente el contenido de ésta.
+
+Artículo Séptimo.- Las disposiciones que se contengan en otros ordenamientos estatales en materia de Gestión Integral del Riesgo de Desastres y Protección Civil, serán complementarios con este Decreto, en lo que no se opongan a ella.
+
+Artículo Octavo.- El Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas, creado mediante el Decreto número 307, publicado en el Periódico Oficial número 190, de fecha 30 de septiembre del 2009, seguirá ejerciendo sus funciones conforme a su decreto de creación y el presente Decreto.
+
+Artículo Noveno.- Los Desastres y Emergencias que hayan ocurrido con anterioridad a la entrada en vigor del presente Decreto, se atenderán conforme a los recursos financieros y a las disposiciones administrativas vigentes a la fecha en que sucedieron.
+
+Artículo Decimo.- Los Organismos Estatales que, en el ámbito de sus atribuciones, les competa llevar a cabo las disposiciones del presente Decreto, coadyuvarán en las acciones que resulten necesarias para su debido cumplimento.
+
+Artículo Decimo Primero.- Los Profesionistas Acreditados, deberán de actualizar sus expedientes en función del presente Decreto, teniendo como plazo de 90 días para solventar.
