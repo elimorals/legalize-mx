@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-conducta-de-la-secretaria-de-salud-los-servicios-1634
 country: "mx"
 rank: "codigo"
 publication_date: "2023-01-11"
-last_updated: "2023-01-11"
+last_updated: "2025-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE SALUD, LOS SERVICIOS ESTATALES DE SALUD Y ORGANOS DESCONCENTRADOS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD, LOS SERVICIOS ESTATALES DE SALUD Y ÓRGANOS DESCONCENTRADOS, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD, LOS SERVICIOS ESTATALES DE SALUD Y ÓRGANOS DESCONCENTRADOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en el Extraordinario del Número 7 del Periódico Oficial del Estado de Quintana Roo, el miércoles 11 de enero de 2023.
 
@@ -500,3 +502,15 @@ Nombre:
 Área de adscripción:
 
 Firma:
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD, LOS SERVICIOS ESTATALES DE SALUD Y ÓRGANOS DESCONCENTRADOS".]
+
+PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A la entrada en vigor del presente Código, se abroga el Código de Conducta de la Secretaría de Salud, los Servicios Estatales de Salud y Órganos desconcentrados, publicada en el Diario Oficial del Estado de Quintana Roo el 11 de enero de 2023.
+
+TERCERO. El Ente, publicará este instrumento en su página de internet oficial, al día siguiente de su entrada en vigor, para su difusión y conocimiento.
