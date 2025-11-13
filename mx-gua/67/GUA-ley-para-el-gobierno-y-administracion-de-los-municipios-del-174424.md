@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-gobierno-y-administracion-de-los-municipios-del-174
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-17"
-last_updated: "2024-09-17"
+last_updated: "2025-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA EL GOBIERNO Y ADMINISTRACIÓN DE LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Quinta Parte del Número 187 del Periódico Oficial del Estado de Guanajuato, el martes 17 de septiembre de 2024.
 
@@ -1737,6 +1737,26 @@ XII. Las demás que le señalen esta u otras leyes, reglamentos, bandos municipa
 
 Si el Ayuntamiento lo estimare procedente, solicitará su comparecencia a efecto de que informe de los asuntos materia de su competencia. Por lo que se refiere a casos urgentes, deberá informar inmediatamente de los mismos a la persona titular de la presidencia municipal, quien los hará de conocimiento del Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+Subdelegaciones municipales
+
+###### Artículo 118 Bis.
+
+Compete a las personas titulares de las subdelegaciones municipales:
+
+I. Suplir a la persona titular de la delegación cuando se ausente de la demarcación territorial que comprenda la delegación. La persona titular de la subdelegación, desempeñará sus atribuciones previa notificación por escrito a la Secretaría del Ayuntamiento, pudiendo reintegrarse la persona titular a desempeñar sus funciones una vez que termine el motivo de su ausencia;
+
+II. Dar cuenta a la persona titular de la delegación de toda gestión o asunto que se le presente, cuando ejerza la suplencia;
+
+III. Coadyuvar en la elaboración de los programas de trabajo para las delegaciones y subdelegaciones con la asesoría de la unidad municipal correspondiente;
+
+IV. Llevar el archivo de la Delegación;
+
+V. Llevar el control del inventario de los bienes a cargo de la Delegación y;
+
+VI. Las demás que le asigne la persona titular de la Delegación y, el reglamento respectivo.
+
 Infracciones
 
 ###### Artículo 119.
@@ -3145,9 +3165,11 @@ II. Por no iniciar la prestación del servicio público, una vez otorgada la con
 
 Procedimiento de revocación y caducidad de concesión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 227.
 
-El procedimiento de revocación y caducidad de las concesiones de servicios públicos se substanciará y resolverá por el Ayuntamiento, con sujeción a los siguientes:
+El procedimiento de revocación y caducidad de las concesiones de servicios públicos se resolverá por el Ayuntamiento, con sujeción a lo siguiente:
 
 I. Se iniciará de oficio o a petición de parte de quien tenga interés legítimo;
 
@@ -3157,9 +3179,15 @@ III. Se abrirá un período probatorio por el término de quince días hábiles,
 
 IV. Se desahogarán las pruebas ofrecidas en el lugar, día y hora que fije la autoridad municipal;
 
-V. Al cierre de la instrucción el concesionario podrá rendir alegatos en un término de tres días hábiles. La autoridad dictará la resolución, en el término de diez días hábiles;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+V. Al cierre de la instrucción el concesionario podrá rendir alegatos en un término de tres días hábiles. El Ayuntamiento dictará la resolución, en el término de diez días hábiles;
 
 VI. La resolución que se dicte se notificará personalmente al interesado, en su domicilio legal o en el lugar donde se preste el servicio.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+El procedimiento administrativo anterior será iniciado y tramitado por la dependencia municipal que el Ayuntamiento determine en el reglamento o en su caso, el acuerdo correspondiente. Hecho lo anterior, la dependencia municipal competente emitirá un dictamen conforme al cual el Ayuntamiento resolverá lo conducente.
 
 En lo no previsto por este artículo, será aplicable de manera supletoria el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
@@ -3312,6 +3340,20 @@ El Ayuntamiento en todo caso establecerá los términos y condiciones que asegur
 Una vez aprobada la donación por el Ayuntamiento se deberá formalizar en escritura pública, en la que se insertaran los términos y condiciones que aseguren el cumplimiento del beneficio social que se percibe con la misma y las causales de reversión.
 
 En el caso de la donación, en el acuerdo correspondiente se deberá establecer la cláusula de reversión.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+Donación de semovientes
+
+###### Artículo 240 Bis.
+
+El Ayuntamiento sólo podrá donar los semovientes previo dictamen expedido por el médico veterinario autorizado por la dependencia municipal competente, en el que se señale que no es apto para brindar un servicio público.
+
+La donación será exclusivamente para efecto de ser adoptados por personas físicas o morales que demuestren ante la dependencia municipal competente, las condiciones que aseguren el bienestar animal.
+
+El Ayuntamiento establecerá en el acuerdo y en el contrato respectivo, la prohibición de enajenar los semovientes una vez que se haya formalizado la donación, además de los términos, condiciones y protocolo de seguimiento para asegurar el bienestar animal.
+
+En el caso de incumplimiento del acuerdo y contrato correspondiente por parte de la persona donataria, el Ayuntamiento iniciará con el procedimiento de reversión previsto en el artículo 242 de esta Ley.
 
 Reversión de bienes donados
 
@@ -3661,7 +3703,9 @@ Contenido del Programa de Gobierno Municipal
 
 El Programa de Gobierno Municipal contendrá los objetivos, estrategias, metas, acciones e indicadores que sirvan de base a las actividades de la Administración Pública Municipal, de forma que aseguren el cumplimiento del Plan Municipal de Desarrollo.
 
-El Programa de Gobierno Municipal será elaborado por el organismo municipal de planeación, con la colaboración de las dependencias y paramunicipales de la Administración Pública Municipal y el Consejo de Planeación de Desarrollo Municipal; el cual será sometido a la aprobación del Ayuntamiento dentro de los primeros cuatro meses de su gestión; tendrá una vigencia de tres años y deberá ser evaluado anualmente, y presentar sus avances en el informe de gobierno.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+El Programa de Gobierno Municipal será elaborado por el organismo municipal de planeación, con la colaboración de las dependencias y entidades paramunicipales de la Administración Pública Municipal y el Consejo de Planeación de Desarrollo Municipal; el cual será sometido a la aprobación del Ayuntamiento dentro de los primeros seis meses de su gestión; tendrá una vigencia de tres años y deberá ser evaluado anualmente, y presentar sus avances en el informe de gobierno.
 
 Para la elaboración del Programa de Gobierno Municipal, el organismo municipal de planeación valorará la inclusión de las acciones previstas en el programa de gobierno señalado (sic) el artículo 35 de esta Ley.
 
@@ -5066,3 +5110,31 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 J. JESÚS OVIEDO HERRERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 99 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 278 DE LA LEY PARA EL GOBIERNO Y ADMINISTRACIÓN DE LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 100 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONA EL ARTÍCULO 118 BIS A LA LEY PARA EL GOBIERNO Y ADMINISTRACIÓN DE LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 101 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 227; Y SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 227, RECORRIÉNDOSE EN SU ORDEN, EL SUBSECUENTE Y EL ARTÍCULO 240 BIS A LA LEY PARA EL GOBIERNO Y ADMINISTRACIÓN DE LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo (sic). Los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos y protocolos de seguimiento en la materia, dentro de los ciento ochenta días siguientes a la publicación del presente decreto.
