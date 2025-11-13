@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2024-12-27"
+last_updated: "2025-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -2565,17 +2565,19 @@ XV.- De 400 a 700 Unidades de Medida y Actualización, a las señaladas en el ar
 
 ### CAPITULO II. De los Delitos Fiscales
 
+> <small>(REFORMADO, B.O. 13 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 94.
 
-Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Secretaría de Finanzas formule la querella respectiva, independientemente del estado en que se encuentre el procedimiento administrativo que en su caso se tenga iniciado.
+La Secretaría de Hacienda del Estado de Sonora tendrá el carácter de víctima u ofendida en los procedimientos penales y juicios relacionados con delitos previstos en este Código. Dicha Secretaría designará a los abogados autorizados que fungirán como asesores jurídicos en los procedimientos penales y dentro de los juicios de garantías.
 
-Los procesos por los delitos fiscales se sobreseerán a petición de la Secretaría de Finanzas, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público del Fuero Común formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Secretaría de Hacienda formule la querella respectiva, independientemente del estado en que se encuentre el procedimiento administrativo que en su caso se tenga iniciado.
 
-En los delitos fiscales en que el daño o el perjuicio sea cuantificable, la Secretaría de Finanzas hará la cuantificación correspondiente en la propia querella. La citada cuantificación sólo surtirá efectos en el procedimiento penal. Para conceder la libertad provisional, el monto de la caución que fije la autoridad judicial comprenderá, en su caso, la suma de la cuantificación antes mencionada y las contribuciones adeudadas, incluyendo recargos, que hubiera determinado la autoridad fiscal a la fecha en que se promueva la libertad provisional. La caución que se otorgue en los términos de este párrafo, no sustituye a la garantía del interés fiscal.
+Para efectos de la condena a la reparación del daño, la autoridad competente deberá considerar la cuantificación referida en este artículo, incluyendo la actualización y los recargos que hubiere determinado la autoridad fiscal a la fecha en la que se dicte dicha condena.
 
-En caso de que el inculpado hubiera pagado o garantizado el interés fiscal a entera satisfacción de la Secretaría de Finanzas, la autoridad judicial, a solicitud del inculpado, podrá reducir hasta en un 50% el monto de la caución, siempre que existan motivos o razones que justifiquen dicha reducción.
+En caso de que el imputado hubiera pagado o garantizado el interés fiscal a entera satisfacción de la Secretaría de Hacienda, la autoridad judicial, a solicitud del imputado, podrá considerar dicho pago para efecto de la determinación de providencias precautorias, la imposición o modificación de las medidas cautelares.
 
-El monto de las cantidades establecidas en este capítulo, se actualizarán en el mes de enero de cada año con el factor de ajuste que se obtenga de dividir el índice nacional de precios al consumidor, emitido por el Banco de México de conformidad con las disposiciones fiscales federales, del mes de noviembre del año inmediato anterior a aquél por el que se efectué el cálculo entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior al de dicho cálculo.
+El monto de las cantidades establecidas en este capítulo, se actualizarán en el mes de enero de cada año con el factor de ajuste que se obtenga de dividir el índice nacional de precios al consumidor, emitido por el Banco de México de conformidad con las disposiciones fiscales federales, del mes de noviembre del año inmediato anterior a aquél por el que se efectué el cálculo entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior al de dicho cálculo. Para fijar la pena de prisión que corresponda a los delitos fiscales conforme a los límites mínimo y máximo del monto de las cantidades que constituyan el perjuicio, cuando éste pueda ser determinado, será conforme al que esté establecido en el momento de efectuar la conducta delictuosa.
 
 ###### ARTÍCULO 95.
 
@@ -2645,9 +2647,15 @@ Con excepción de lo dispuesto por los artículos 100 y 101, del Código Penal d
 
 Para que proceda la condena condicional, la sustitución y conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, además de los requisitos señalados en el Código Penal aplicable en Materia de Fuero Común, será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción de la Secretaría de Finanzas.
 
+> <small>(REFORMADO, B.O. 13 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 102.
 
-Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco estatal.
+Comete el delito de defraudación fiscal quien, con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco estatal.
+
+La omisión total o parcial de alguna contribución a que se refiere el párrafo anterior comprende, indistintamente, los pagos provisionales o definitivos o el impuesto del ejercicio en los términos de las disposiciones fiscales.
+
+El delito de defraudación fiscal, así como los delitos previstos en los artículos 329 Ter del Código Penal del Estado de Sonora y 400 Bis del Código Penal Federal, se podrán perseguir simultáneamente por la autoridad competente. Se presume cometido el delito de defraudación fiscal cuando existan ingresos o recursos que provengan de operaciones con recursos de procedencia ilícita.
 
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 
@@ -2659,13 +2667,27 @@ III.- Con prisión de tres años a ocho años cuando el monto de lo defraudado f
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
-El delito de defraudación fiscal será calificado cuando ésta se origine por:
+Si el monto de lo defraudado es restituido de manera inmediata en una sola exhibición, la pena aplicable podrá atenuarse hasta en un cincuenta por ciento.
+
+El delito de defraudación fiscal y los previstos en el artículo 103 de este Código, serán calificados cuando se originen por:
 
 a).- Usar documentos falsos;
 
-b).- Manifestar datos falsos para obtener de la autoridad fiscal la devolución de contribuciones que no le correspondan; y,
+b).- Omitir reiteradamente la expedición de comprobantes por las actividades que se realicen, siempre que las disposiciones fiscales establezcan la obligación de expedirlos. Se entiende que existe una conducta reiterada cuando durante un período de cinco años el contribuyente haya sido sancionado por esa conducta la segunda o posteriores veces;
 
-c).- No llevar los sistemas o registros contables a que se esté obligado conforme a las disposiciones fiscales o asentar datos falsos en dichos sistemas o registros.
+c).- Manifestar datos falsos para obtener de la autoridad fiscal la devolución de contribuciones que no le correspondan;
+
+d).- No llevar los sistemas o registros contables a que se esté obligado conforme a las disposiciones fiscales o asentar datos falsos en dichos sistemas o registros;
+
+e).- Omitir contribuciones retenidas, recaudadas o trasladadas;
+
+f).- Manifestar datos falsos para realizar la compensación de contribuciones que no le correspondan;
+
+g).- Utilizar datos falsos para acreditar o disminuir contribuciones;
+
+h).- Declarar pérdidas fiscales inexistentes; e
+
+i).- Deducir, acreditar, aplicar cualquier estímulo o beneficio fiscal o de cualquier forma obtener un beneficio tributario, respecto de erogaciones que se efectúen en violación de la legislación anticorrupción, entre ellos las erogaciones consistentes en dar, por sí o por interpósita persona, dinero, bienes o servicios, a servidores públicos o terceros, nacionales o extranjeros, en contravención a las disposiciones legales.
 
 Cuando los delitos a que se refiere este artículo sean calificados, la pena que corresponda se aumentará en una mitad.
 
@@ -2677,13 +2699,29 @@ Para los fines de este artículo y del siguiente, se tomará en cuenta el monto 
 
 Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
 
-I.- Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 13 DE NOVIEMBRE DE 2025)</small>
 
-II.- Se beneficie sin derecho de un subsidio o estímulo fiscal;
+I.- Consigne en las declaraciones que presente para los efectos fiscales, deducciones falsas o ingresos acumulables menores a los realmente obtenidos o realizados o determinados conforme a las leyes fiscales;
 
-III.- Simule uno o más actos o contratos obteniendo un beneficio indebido con perjuicio del fisco estatal; y,
+> <small>(REFORMADA, B.O. 13 DE NOVIEMBRE DE 2025)</small>
 
-IV.- Sea responsable por omitir presentar, por más de doce meses, las declaraciones que exijan las leyes fiscales, dejando de pagar la contribución correspondiente.
+II.- Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido o recaudado;
+
+> <small>(REFORMADA, B.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+III.- Se beneficie sin derecho de un subsidio o estímulo fiscal;
+
+> <small>(REFORMADA, B.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+IV.- Simule uno o más actos o contratos obteniendo un beneficio indebido con perjuicio del fisco estatal;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+V.- Sea responsable por omitir presentar, por más de doce meses, las declaraciones que exijan las leyes fiscales, dejando de pagar la contribución correspondiente; y
+
+> <small>(ADICIONADA, B.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+VI.- Sea responsable por omitir presentar por más de doce meses las declaraciones que tengan carácter de definitivas, así como las de un ejercicio fiscal que exijan las leyes fiscales, dejando de pagar la contribución correspondiente.
 
 No se formulará querella, si quien encontrándose en los supuestos anteriores, entera espontáneamente, con sus recargos, el monto de la contribución omitida o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
@@ -4602,3 +4640,11 @@ El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 0
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 13 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 70, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día hábil siguiente al día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
