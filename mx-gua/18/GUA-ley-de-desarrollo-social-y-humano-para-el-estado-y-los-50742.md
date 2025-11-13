@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-social-y-humano-para-el-estado-y-los-50742"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-02"
-last_updated: "2025-06-26"
+last_updated: "2025-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de junio de 2006.
 
@@ -145,9 +145,11 @@ II. Los Ayuntamientos, por conducto del área encargada del desarrollo social mu
 
 Las autoridades estatales y municipales ejercerán sus atribuciones de manera coordinada, de conformidad con lo previsto en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-Corresponde al Titular del Poder Ejecutivo del Estado en el ámbito de su competencia:
+Corresponde a la persona titular del Poder Ejecutivo del Estado en el ámbito de su competencia:
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -157,11 +159,37 @@ II. Establecer el Sistema Estatal;
 
 III. Convenir programas, acciones y recursos con el Ejecutivo Federal y los ayuntamientos con el propósito de generar las condiciones de desarrollo social;
 
-IV. Aprobar los programas de desarrollo social y humano, y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+IV. Aprobar los programas de desarrollo social y humano;
 
-V. Incluir anualmente en la iniciativa de Ley del Presupuesto General de Egresos del Estado de Guanajuato del ejercicio fiscal que corresponda, los recursos para la ejecución, cumplimiento y evaluación de las políticas públicas, de las metas y de los objetivos de los programas de desarrollo social y humano, así como la previsión de los apoyos a los municipios para el cumplimiento de sus programas en la materia.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+V. Incluir anualmente en la iniciativa de Ley del Presupuesto General de Egresos del Estado de Guanajuato del ejercicio fiscal que corresponda, los recursos para la ejecución, cumplimiento y evaluación de las políticas públicas, de las metas y de los objetivos de los programas de desarrollo social y humano, así como la previsión de los apoyos a los municipios para el cumplimiento de sus programas en la materia; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+VI. Incluir anualmente en la iniciativa de Ley del Presupuesto General de Egresos del Estado de Guanajuato del ejercicio fiscal que corresponda, la totalidad de los recursos referidos en el segundo párrafo del artículo 17-A de la Ley de Hacienda para el Estado de Guanajuato, exclusivamente para la ejecución de proyectos y acciones para el bienestar, el desarrollo social y humano y prevención social de la violencia y la delincuencia, a través de las organizaciones de la sociedad civil, que tengan al menos alguna de las siguientes finalidades:
+
+a) La realización de obras, infraestructura y acciones prioritarias en materia de desarrollo social y humano, así como de prevención social de la violencia y la delincuencia;
+
+b) Contribuir a fortalecer las capacidades de las personas guanajuatenses y resolver sus carencias y problemas sociales;
+
+c) Coadyuvar en la protección y el ejercicio pleno de los derechos humanos, el bienestar integral y la inclusión social de las personas y grupos que se encuentren en situación de vulnerabilidad o riesgo ya sea por razones de orientación sexual, identidad o expresión de género, o por encontrarse en condiciones de abandono, desprotección física, mental, jurídica o social;
+
+d) Fortalecer la capacidad y el sano desarrollo de las personas o grupos vulnerables o en situación de riesgo por su condición de desventaja, abandono o desprotección física, mental, jurídica o social para resolver necesidades, ejercer sus derechos e integrarse armónicamente al seno familiar, laboral y social;
+
+e) Apoyar el desarrollo de niños, niñas y adolescentes;
+
+f) Contribuir en procesos de formación, participación, medición y evaluación que contribuyen a la prevención social de la violencia y la delincuencia y que logren la integración en la vida comunitaria con justicia y paz;
+
+g) Evaluar, medir y monitorear las acciones de gobierno en materia de prevención social del delito;
+
+h) Contribuir con los procesos formativos y educativos para la vida y el trabajo; y
+
+i) Fortalecer las capacidades y desempeño de las organizaciones de la sociedad civil de manera que contribuyan al logro de sus objetivos, previa justificación y evaluación de su impacto en beneficio social y de prevención social de la violencia y la delincuencia.
+
+Para efectos de garantizar la participación del sector empresarial en la toma de decisiones se deberá incluir en las reglas de operación, la integración de los Consejos Coordinadores Empresariales dentro del Comité de Selección de Proyectos de las Organizaciones de la Sociedad Civil y sus respectivos subcomités.
 
 ###### Artículo 6.
 
@@ -798,3 +826,11 @@ P.O. 26 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 69, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 98 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMA EN SU PRIMER PÁRRAFO, ASÍ COMO LAS FRACCIONES IV Y V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 5 DE LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La inclusión en la iniciativa de Ley del Presupuesto General de Egresos del Estado de Guanajuato que se señala en la fracción VI del artículo 5 de esta Ley, aplicará a partir del ejercicio fiscal 2026.
