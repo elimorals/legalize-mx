@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-11009
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-25"
-last_updated: "2019-08-01"
+last_updated: "2025-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Décima Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2015.
 
@@ -75,17 +75,21 @@ Para efectos de esta Ley, se entenderá por:
 
 I. Consejo: El Consejo de Fomento a las Actividades de las Organizaciones de la Sociedad Civil;
 
-II. Grupo Técnico Consultivo: El Grupo Técnico Consultivo que asesora al Consejo en materia de fomento a las actividades de las organizaciones de la sociedad civil;
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
 
-III. Ley: Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Guanajuato;
+II. Consejo Estratégico: Consejo Estratégico de Proyectos de Organizaciones de la Sociedad Civil con Fines de Desarrollo Social y Humano;
 
-IV. Organizaciones: Las organizaciones de la sociedad civil;
+III. Grupo Técnico Consultivo: El Grupo Técnico Consultivo que asesora al Consejo en materia de fomento a las actividades de las organizaciones de la sociedad civil;
 
-V. Redes: Organizaciones que se apoyan entre sí, prestan servicios de apoyo a otras para el cumplimiento de su objeto social y fomentan la creación y asociación de organizaciones;
+IV. Ley: Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Guanajuato;
 
-VI. Registro: El Registro Estatal de las Organizaciones de la Sociedad Civil; y
+V. Organizaciones: Las organizaciones de la sociedad civil;
 
-VII. Reglamento: Reglamento de la Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Guanajuato.
+VI. Redes: Organizaciones que se apoyan entre sí, prestan servicios de apoyo a otras para el cumplimiento de su objeto social y fomentan la creación y asociación de organizaciones;
+
+VII. Registro: El Registro Estatal de las Organizaciones de la Sociedad Civil; y
+
+VIII. Reglamento: Reglamento de la Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Guanajuato.
 
 Acceso a recursos y fondos
 
@@ -281,7 +285,9 @@ Naturaleza
 
 El Consejo es el órgano colegiado que tiene por objeto facilitar la coordinación en el diseño, seguimiento y evaluación de las acciones y medidas para el fomento de las actividades objeto de esta Ley.
 
-El Consejo contará con un Secretario Técnico de entre el personal de la Secretaría de Desarrollo Social y Humano.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+El Consejo contará con un Secretario Técnico de entre el personal de la Secretaría del Nuevo Comienzo.
 
 El funcionamiento del Consejo se regulará conforme a su Estatuto Interno.
 
@@ -291,17 +297,23 @@ Integración
 
 El Consejo estará integrado por quienes sean titulares de:
 
-I. La Secretaría de Desarrollo Social y Humano, quien lo presidirá;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+I. La Secretaría del Nuevo Comienzo, quien lo presidirá;
 
 II. La Secretaría de Gobierno;
 
-III. La Secretaría de Finanzas, Inversión y Administración;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
 
-IV. La Secretaría de Desarrollo Económico Sustentable;
+III. La Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
 
-V. La Secretaría de Infraestructura, Conectividad y Movilidad;
+IV. La Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+V. La Secretaría de Obra Pública;
 
 VI. La Secretaría de Educación;
 
@@ -359,11 +371,13 @@ IV. Rendir periódicamente un informe sobre el avance de los acuerdos del Consej
 
 V. Las demás que le señale la Ley, el Reglamento o le asigne el Consejo.
 
-Obligación a cargo de la SDSH
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+Obligación a cargo de la SNC
 
 ###### Artículo 18.
 
-La Secretaría de Desarrollo Social y Humano brindará los apoyos necesarios al Consejo y al Secretario Técnico para la realización de sus actividades.
+La Secretaría del Nuevo Comienzo brindará los apoyos necesarios al Consejo y al Secretario Técnico parala (sic) realización de sus actividades.
 
 #### Sección Tercera. Grupo Técnico Consultivo
 
@@ -381,7 +395,9 @@ Integración
 
 El Grupo Técnico Consultivo se integrará por:
 
-I. El titular de la Secretaría de Desarrollo Social y Humano, quien lo presidirá;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+I. El titular de la Secretaría del Nuevo Comienzo, quien lo presidirá;
 
 II. Cinco representantes de Organizaciones inscritas en el Registro, cuya participación será por tres años, renovándose de forma escalonada;
 
@@ -415,7 +431,83 @@ Periodicidad de las sesiones
 
 El Grupo Técnico Consultivo sesionará ordinariamente en pleno por lo menos dos veces al año y extraordinariamente cuando sea convocado por su Presidente o por un tercio de sus miembros.
 
-La Secretaría de Desarrollo Social y Humano proveerá de los apoyos necesarios al Grupo Técnico Consultivo para la realización de sus sesiones y actividades.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+La Secretaría del Nuevo Comienzo proveerá de los apoyos necesarios al Grupo Técnico Consultivo para la realización de sus sesiones y actividades.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+#### Sección Tercera Bis. Consejo Estratégico de Proyectos de Organizaciones de la Sociedad Civil con Fines de Desarrollo Social y Humano
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+Objeto
+
+###### Artículo 22 Bis.
+
+El Consejo Estratégico es un órgano ciudadano de evaluación, asesoría y consulta, que tendrá por objeto proponer, opinar y emitir recomendaciones respecto de los proyectos sujetos de apoyo de los recursos referidos en el segundo párrafo del artículo 17-A de la Ley de Hacienda para el Estado de Guanajuato por parte de las organizaciones de la sociedad civil.
+
+Sus integrantes tienen un carácter honorífico, por lo que no podrán recibir remuneración, emolumento o compensación alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+Integración
+
+###### Artículo 22 Ter.
+
+El Consejo Estratégico se integrará por:
+
+I. La persona titular de la Secretaría del Nuevo Comienzo;
+
+II. La persona titular de la Secretaría de Finanzas;
+
+III. La persona titular de la Secretaría de Seguridad y Paz;
+
+IV. La persona titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
+
+V. La persona titular de la Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+
+VI. La persona titular de la Secretaría de la Honestidad;
+
+VII. La persona presidenta de cada una de las sedes del Consejo Coordinador Empresarial en los Municipios de León, Guanajuato, Irapuato, Celaya, Salamanca y San Miguel Allende; y
+
+VIII. Tres personas representantes de Asociaciones Civiles del Estado, a propuesta de los Consejos Coordinadores Empresariales y designadas por la persona titular del Poder Ejecutivo.
+
+La presidencia del Consejo Estratégico será ocupada por una persona que presida alguno de los Consejos Coordinadores Empresariales, quien durará un año en dicho cargo y será rotativo entre las personas representantes de los mismos. Las personas integrantes designaran una persona suplente, quien tendrá las mismas atribuciones que la propietaria.
+
+El Consejo Estratégico contará con una Secretaría Técnica designada por la persona titular de la Secretaría del Nuevo Comienzo.
+
+El Consejo Estratégico en todo caso adoptará acuerdos por mayoría de sus integrantes presentes en la sesión y la Secretaria Técnica deberá dar seguimiento a los acuerdos.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+Facultades
+
+###### Artículo 22 Quáter.
+
+Para el cumplimiento de su objeto, el Consejo Estratégico tendrá las siguientes facultades:
+
+I. Emitir opiniones o recomendaciones al modelo, programa y reglas de operación que para tal efecto sea creado para los proyectos sujetos de apoyo de los recursos referidos en el segundo párrafo del artículo 17-A de la Ley de Hacienda para el Estado de Guanajuato por parte de las organizaciones de la sociedad civil;
+
+II. Proponer a la persona titular de la Secretaría del Nuevo Comienzo los proyectos de las organizaciones de la sociedad civil, que puedan ser sujetos de apoyo en materia de desarrollo social, de conformidad con las reglas de operación correspondientes, cuando se trate de proyectos de prevención social de la violencia y la delincuencia se tomará en cuenta la opinión de la persona titular de la Secretaría de Seguridad y Paz;
+
+III. Recomendar a la persona titular de la Secretaría del Nuevo Comienzo las acciones para dar el debido seguimiento y evaluación en la ejecución de los proyectos aprobados;
+
+IV. Proponer a la persona titular de la Secretaría del Nuevo Comienzo las bases normativas y lineamientos para el funcionamiento del Consejo Estratégico;
+
+V. Proponer otras fuentes para obtención de recursos públicos o privados nacionales o internacionales para la realización de proyectos; y
+
+VI. Las demás que le confiere la presente ley y los demás ordenamientos legales que les resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+Periodicidad de las sesiones
+
+###### Artículo 22 Quinquies.
+
+El Consejo Estratégico sesionará ordinariamente por lo menos tres veces al año y extraordinariamente cuando sea convocado por la persona que lo presida o por un tercio de sus integrantes.
+
+La Secretaría del Nuevo Comienzo proveerá los espacios y documentos necesarios al Consejo Estratégico para la realización de sus sesiones y actividades.
 
 #### Sección Cuarta. Disposiciones complementarias
 
@@ -427,13 +519,15 @@ Los municipios que otorguen recursos y fondos públicos a las Organizaciones, po
 
 ### Capítulo IV (sic). Registro Estatal de las Organizaciones de la Sociedad Civil
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
 Naturaleza
 
 ###### Artículo 24.
 
-El Registro es la unidad de la Secretaría de Desarrollo Social y Humano que tendrá a su cargo el registro de las Organizaciones susceptibles de recibir recursos y fondos públicos.
+El Registro es la unidad de la Secretaría del Nuevo Comienzo que tendrá a su cargo el registro de las Organizaciones susceptibles de recibir recursos y fondos públicos.
 
-La Secretaría de Desarrollo Social y Humano tendrá a su cargo la integración, operación y actualización del Registro.
+La Secretaría del Nuevo Comienzo tendrá a su cargo la integración, operación y actualización del Registro.
 
 Funciones
 
@@ -515,11 +609,13 @@ El Registro resolverá sobre la procedencia de la inscripción en un plazo no ma
 
 En caso de que existan insuficiencias en la información que consta en la solicitud, deberá abstenerse de inscribir a la organización y le notificará dicha circunstancia otorgándole un plazo de treinta días hábiles para que las subsane. Vencido el plazo, si no lo hiciere, se desechará la solicitud.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
 Lineamientos del Registro
 
 ###### Artículo 29.
 
-El funcionamiento del Registro se organizará conforme al Reglamento de la Ley y su administración de acuerdo a la normativa que corresponda a la Secretaría de Desarrollo Social y Humano.
+El funcionamiento del Registro se organizará conforme al Reglamento de la Ley y su administración de acuerdo a la normativa que corresponda a la Secretaría del Nuevo Comienzo.
 
 Contenido del Registro
 
@@ -708,3 +804,11 @@ Procesos de entrega recepción
 Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
 
 El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 13 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 97 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 14, LAS FRACCIONES I, III, IV Y V DEL ARTÍCULO 15, EL ARTÍCULO 18, LA FRACCIÓN I DEL ARTÍCULO 20, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL ARTÍCULO 24, EL ARTÍCULO 29; Y SE ADICIONA UNA FRACCIÓN II, RECORRIENDO LA ACTUAL Y SUS SUBSECUENTES AL ARTÍCULO 4; ASÍ COMO UNA SECCIÓN TERCERA BIS, QUE CONTIENE LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUÁTER Y 22 QUINQUIES, TODOS ELLOS DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Consejo Estratégico referido en el artículo 22 quáter de la Ley, deberá instalarse dentro de los 30 días naturales siguientes a la fecha de publicación del presente decreto. La primera presidencia será designada de común acuerdo por los Consejos Coordinadores Empresariales del Estado, así como su rotación.
