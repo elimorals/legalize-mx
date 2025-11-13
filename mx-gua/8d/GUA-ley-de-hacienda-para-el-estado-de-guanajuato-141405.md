@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-141405"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2024-12-27"
+last_updated: "2025-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Octava Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -380,6 +380,14 @@ Destino de los recursos
 ###### Artículo 17-A.
 
 Los ingresos que se obtengan por la recaudación del impuesto sobre nóminas a que hace referencia el presente Capítulo, deberán aplicarse preferentemente en los rubros de gasto social de inversión o capital, al saneamiento financiero de la hacienda pública estatal, así como para el fortalecimiento de la seguridad pública. El Ejecutivo del Estado, adicionalmente a la información que rinda en la cuenta pública estatal, remitirá de manera trimestral un informe al Congreso del Estado sobre el uso y aplicación de estos recursos.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+En específico, de los ingresos que se obtengan por la recaudación del impuesto sobre nóminas a que hace referencia el presente Capítulo, se destinará el equivalente al 0.2 por ciento de la tasa de dicho impuesto, para la creación y funcionamiento de un proyecto de inversión con fines de desarrollo social y humano.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+
+Asimismo, de los ingresos que se obtengan por la recaudación del impuesto sobre nóminas a que hace referencia el presente Capítulo, se destinará el equivalente al 0.1 por ciento de la tasa de dicho impuesto, para la realización de proyectos de inversión relacionados con el fortalecimiento de la seguridad pública.
 
 ### Capítulo Segundo. Impuestos Cedulares sobre los Ingresos de las Personas Físicas
 
@@ -3122,3 +3130,19 @@ Plazo para obtener los incentivos pendientes
 Artículo Quinto. Los municipios que tengan suscrito convenio con el Gobierno del estado de Guanajuato, respecto a los incentivos de la recaudación del Impuesto por Servicios de Hospedaje, tendrán un plazo no mayor a 180 días posteriores a la entrada en vigor del presente Decreto, a fin de realizar las gestiones necesarias ante el Servicio de Administración Tributaria del Estado de Guanajuato, para obtener los incentivos derivados de este impuesto, previo cumplimiento a las acciones que dicho instrumento señale.
 
 En caso de que el municipio no realice las gestiones dentro del periodo previsto en el párrafo que antecede, perderá el derecho a percibir los incentivos, por lo que dichos recursos se destinarán al fondo al que hace referencia el artículo 60 de la Ley de Hacienda para el Estado de Guanajuato.
+
+P.O. 13 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 96 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFOS, RECORRIENDO EL SEGUNDO ACTUAL VIGENTE AL ARTÍCULO 17-A DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración en el proyecto de egresos
+
+Segundo. Lo previsto en los párrafos segundo y tercero del artículo 17-A de la Ley de Hacienda para el Estado de Guanajuato, aplicará a partir del ejercicio fiscal 2026 y se deberá de contemplar en la Ley del Presupuesto General de Egresos del Estado de Guanajuato de dicho año.
+
+Por lo que de los ingresos que se obtengan por la recaudación del impuesto sobre nóminas a que hace referencia el Artículo 17-A de la Ley de Hacienda para el Estado de Guanajuato, el 0.2 por ciento de la tasa de dicho impuesto, se administrará en un proyecto de inversión ejecutado por la Secretaría del Nuevo Comienzo, cuyo destino será para fines de desarrollo social y humano y prevención social de la delincuencia, a través de organismos de la sociedad civil, conforme a lo dispuesto en la Ley de Desarrollo Social y Humano para el Estado y Municipios de Guanajuato y la Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Guanajuato.
+
+El 0.1 por ciento de la tasa de dicho impuesto para la realización de proyectos de inversión relacionados con el fortalecimiento de la seguridad pública, se ejecutará por conducto de la Secretaría de la Seguridad y Paz del Estado de Guanajuato.
