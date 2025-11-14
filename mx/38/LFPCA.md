@@ -4,7 +4,7 @@ identifier: "LFPCA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2005-12-01"
-last_updated: "2024-05-21"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCA"
 
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2005.
 
@@ -42,9 +42,11 @@ SE EXPIDE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO.
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 1o.
 
-Los juicios que se promuevan ante el Tribunal Federal de Justicia Fiscal y Administrativa, se regirán por las disposiciones de esta Ley, sin perjuicio de lo dispuesto por los tratados internacionales de que México sea parte. A falta de disposición expresa se aplicará supletoriamente el Código Federal de Procedimientos Civiles, siempre que la disposición de este último ordenamiento no contravenga las que regulan el juicio contencioso administrativo federal que establece esta Ley.
+Los juicios que se promuevan ante el Tribunal Federal de Justicia Fiscal y Administrativa, se regirán por las disposiciones de esta Ley, sin perjuicio de lo dispuesto por los tratados internacionales de que México sea parte. A falta de disposición expresa se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares, siempre que la disposición de este último ordenamiento no contravenga las que regulan el juicio contencioso administrativo federal que establece esta Ley.
 
 Cuando la resolución recaída a un recurso administrativo, no satisfaga el interés jurídico del recurrente, y éste la controvierta en el juicio contencioso administrativo federal, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
 
@@ -382,9 +384,9 @@ En la demanda en que promuevan dos o más personas en contravención de lo dispu
 
 Cuando se omita el nombre del demandante o los datos precisados en las fracciones II y VI, el Magistrado Instructor desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones III, IV, V, VII y VIII, el Magistrado Instructor requerirá al promovente para que los señale dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
-Si en el lugar señalado por el actor como domicilio del tercero, se negare que sea éste, el demandante deberá proporcionar al Tribunal la información suficiente para proceder a su primera búsqueda, siguiendo al efecto las reglas previstas en el Código Federal de Procedimientos Civiles.
+Si en el lugar señalado por el actor como domicilio del tercero, se negare que sea éste, el demandante deberá proporcionar al Tribunal la información suficiente para proceder a su primera búsqueda, siguiendo al efecto las reglas previstas en el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2016)</small>
 
@@ -882,7 +884,9 @@ II. Tratándose de actos de comprobación de las autoridades administrativas, se
 
 III. El valor de las pruebas pericial y testimonial, así como el de las demás pruebas, quedará a la prudente apreciación de la Sala.
 
-Cuando se trate de documentos digitales con firma electrónica distinta a una firma electrónica avanzada o sello digital, para su valoración se estará a lo dispuesto por el artículo 210-A del Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+Cuando se trate de documentos digitales con firma electrónica distinta a una firma electrónica avanzada o sello digital, para su valoración se estará a lo dispuesto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares.
 
 Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la Sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
 
@@ -1176,7 +1180,9 @@ d) Si la Sala Regional, la Sección o el Pleno resuelve que hubo exceso o defect
 
 e) Si la Sala Regional, la Sección o el Pleno comprueba que la resolución a que se refiere el inciso a), subinciso 2 de esta fracción, se emitió después de concluido el plazo legal, anulará ésta, declarando la preclusión de la oportunidad de la autoridad demandada para dictarla y ordenará se comunique esta circunstancia al superior jerárquico de ésta.
 
-f) En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, la Sala Regional, la Sección o el Pleno declarará procedente el cumplimiento sustituto y ordenará instruir el incidente respectivo, aplicando para ello, en forma supletoria, el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+f) En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, la Sala Regional, la Sección o el Pleno declarará procedente el cumplimiento sustituto y ordenará instruir el incidente respectivo, aplicando para ello, en forma supletoria, el Código Nacional de Procedimientos Civiles y Familiares.
 
 g) Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución que en su caso existiere.
 
@@ -2151,3 +2157,21 @@ D.O.F. 21 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE DEROGA UN PÁRRAFO DEL ARTÍCULO 58 DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
