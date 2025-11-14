@@ -4,7 +4,7 @@ identifier: "LSP"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-12"
-last_updated: "2002-12-12"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSP"
 
 LEY DE SISTEMAS DE PAGOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 12 de diciembre de 2002.
 
@@ -130,9 +130,11 @@ Tratándose de modificaciones a las comisiones o cualquier otro cargo a que se r
 
 El Banco de México podrá interpretar, para efectos administrativos, los preceptos de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 9o.
 
-Son de aplicación supletoria a la presente Ley, en el orden que a continuación se indica: la Ley del Banco de México; las leyes mercantiles especiales; el Código de Comercio; el Código Civil Federal; los usos mercantiles, y el Código Federal de Procedimientos Civiles.
+Son de aplicación supletoria a la presente Ley, en el orden que a continuación se indica: la Ley del Banco de México; las leyes mercantiles especiales; el Código de Comercio; el Código Civil Federal; los usos mercantiles, y el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 10.
 
@@ -152,7 +154,9 @@ No obstante lo dispuesto en los párrafos anteriores, los acreedores, los órgan
 
 Cuando, en términos de las disposiciones legales aplicables, se solicite la declaración de concurso mercantil de algún Participante o alguna otra de naturaleza equivalente, que tenga por objeto prohibir, suspender o de cualquier forma limitar los pagos que deba realizar un Participante en los Sistemas de Pagos, al contestar la demanda, el Participante de que se trate deberá presentar una relación completa de los Sistemas de Pagos en los que tenga aquel carácter, indicando, al efecto, el domicilio de los Administradores de los Sistemas respectivos, así como la demás información que resulte necesaria, a efecto de llevar a cabo las notificaciones que correspondan en términos del artículo siguiente. Si al contestar la demanda el Participante no presenta la información a que se refiere este artículo o ésta es confusa, incorrecta o incompleta, el juez deberá, por una sola vez, prevenir al actor para que la presente, aclare, corrija o complete, según sea el caso, en un plazo máximo de tres días hábiles.
 
-De no proporcionarse la información prevista en el párrafo anterior junto con la contestación a la demanda o de no aclarar, corregir o completar su contenido cuando así se solicite, el juez hará uso en contra del Participante de alguno de los medios de apremio previstos en el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+De no proporcionarse la información prevista en el párrafo anterior junto con la contestación a la demanda o de no aclarar, corregir o completar su contenido cuando así se solicite, el juez hará uso en contra del Participante de alguno de los medios de apremio previstos en el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 13.
 
@@ -308,9 +312,11 @@ Asimismo, lo previsto en este ordenamiento es sin perjuicio de las atribuciones 
 
 #### Sección I. Reglas Generales
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 33.
 
-Contra las resoluciones de las multas previstas en los artículos 23 y 24 de esta Ley, procederá el recurso de reconsideración, el cual será de agotamiento obligatorio. Dicho recurso se sustanciará y resolverá de conformidad con lo dispuesto por los artículos 64 y 65 de la Ley del Banco de México; 42 a 52 del Reglamento Interior del propio Banco, así como por las disposiciones contenidas en el presente capítulo y, en lo no previsto en tales disposiciones, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
+Contra las resoluciones de las multas previstas en los artículos 23 y 24 de esta Ley, procederá el recurso de reconsideración, el cual será de agotamiento obligatorio. Dicho recurso se sustanciará y resolverá de conformidad con lo dispuesto por los artículos 64 y 65 de la Ley del Banco de México; 42 a 52 del Reglamento Interior del propio Banco, así como por las disposiciones contenidas en el presente capítulo y, en lo no previsto en tales disposiciones, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 34.
 
@@ -397,3 +403,23 @@ CUARTO. Se derogan todos los ordenamientos y disposiciones en lo que se opongan 
 México, D.F., a 7 de noviembre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Sara Castellanos Cortés, Secretario.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
