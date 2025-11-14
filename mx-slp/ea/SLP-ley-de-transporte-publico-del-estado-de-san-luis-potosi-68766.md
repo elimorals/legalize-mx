@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2025-10-14"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -275,9 +275,13 @@ XIII. Dirección general del transporte colectivo metropolitano: a la Dirección
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-XIII BIS. Empresas de Redes de Transporte: Son aquellas que, basándose en el desarrollo de tecnologías de teléfonos inteligentes o similares y sistemas de posicionamiento global, únicamente medien el acuerdo entre usuarios y prestadores del servicio de transporte a través de aplicaciones, o bien, aquéllas que, por virtud de acuerdos comerciales, promuevan, promocionen o incentiven el uso de dichas tecnologías propias o de terceros, y cuyos esquemas tarifarios serán determinados en las plataformas tecnológicas.
+XIII Bis. Empresas de Redes de Transporte: Son aquellas que, basándose en el desarrollo de tecnologías de teléfonos inteligentes o similares y sistemas de posicionamiento global, únicamente medien el acuerdo entre usuarios y prestadores del servicio de transporte a través de aplicaciones, o bien, aquéllas que, por virtud de acuerdos comerciales, promuevan, promocionen o incentiven el uso de dichas tecnologías propias o de terceros, y cuyos esquemas tarifarios serán determinados en las plataformas tecnológicas.
 
 El servicio de transporte por medio de aplicaciones será distinto de los sistemas de transporte previstos en el artículo 21 de la presente Ley, y será prestado por conductores con licencia de conducir para automovilista o chofer del servicio particular, previamente registrados ante una plataforma tecnológica asociada a una Empresa de Redes de Transporte;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XIII Ter. Electromovilidad: Vehículos de transporte público que emplean tecnologías de propulsión total o parcialmente eléctrica, para su desplazamiento;
 
 XIV. Equipamiento auxiliar de transporte: a todos los accesorios directos e indirectos, complementarios de la operación del servicio de transporte público;
 
@@ -632,6 +636,10 @@ a) Turismo: se brinda a pasajeros cuya finalidad exclusiva o fundamental sea el 
 b) Transporte escolar: se presta a estudiantes de cualquier nivel escolar y maestros; consiste en el traslado de su domicilio a los centros educativos, y su retorno al lugar de origen, en horarios de clase; realizándose en vehículos que cumplan con las características establecidas por, la Secretaría en su reglamento respectivo, y las normas oficiales mexicanas correspondientes.
 
 c) Transporte de trabajadores: se presta a empleados de una empresa o institución, consistiendo en el traslado de lugares predeterminados al centro de trabajo, y su retorno al lugar de origen; efectuando el recorrido en rutas y paradas previamente autorizadas por la Secretaría; realizándose en vehículos de ocho y hasta cuarenta y cinco pasajeros, quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuenta la unidad.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+La Secretaría podrá promover acciones y coordinarse con autoridades de los tres niveles de gobierno para integrar la electromovilidad en el transporte público.
 
 ###### ARTICULO 22.
 
@@ -3402,6 +3410,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0275.- QUE REFORMA Y REALIZA DEROGACIÓN DENTRO DEL ARTÍCULO 38, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico oficial “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0310.- QUE REALIZA ADICIÓN A LOS ARTÍCULOS 12 Y 21, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico oficial “Plan de San Luis”.
 
