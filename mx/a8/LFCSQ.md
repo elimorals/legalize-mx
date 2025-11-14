@@ -4,7 +4,7 @@ identifier: "LFCSQ"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2009-06-09"
-last_updated: "2024-06-14"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68760&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCSQ"
 
 LEY FEDERAL PARA EL CONTROL DE SUSTANCIAS QUIMICAS SUSCEPTIBLES DE DESVIO PARA LA FABRICACION DE ARMAS QUIMICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 9 de junio de 2009.
 
@@ -194,9 +194,11 @@ Las dependencias, instituciones y órganos cuyos titulares sean integrantes del 
 
 La persona Titular de la Secretaría de Seguridad y Protección Ciudadana, previa opinión de la Autoridad Nacional, determinará mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación, la adición o supresión de sustancias químicas que se sujetarán o excluirán del Listado Nacional (Apéndice Uno), y actualizará la relación de Estados Parte y No Parte de la Convención (Apéndice Dos).
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 4.
 
-A falta de previsión expresa en la presente Ley, se aplicará supletoriamente la Ley de Seguridad Nacional y el Código Federal de Procedimientos Civiles, sin perjuicio de lo que establezca la Convención y otros tratados internacionales en la materia, de los que el Estado mexicano sea parte. En las notificaciones, requerimientos, inspecciones, revisiones y consultas previstas en esta Ley, se aplicará de manera supletoria lo establecido en el Código Fiscal de la Federación.
+A falta de previsión expresa en la presente Ley, se aplicará supletoriamente la Ley de Seguridad Nacional y el Código Nacional de Procedimientos Civiles y Familiares, sin perjuicio de lo que establezca la Convención y otros tratados internacionales en la materia, de los que el Estado mexicano sea parte. En las notificaciones, requerimientos, inspecciones, revisiones y consultas previstas en esta Ley, se aplicará de manera supletoria lo establecido en el Código Fiscal de la Federación.
 
 No será aplicable a la materia regulada por la presente Ley, la Ley Federal de Procedimiento Administrativo.
 
@@ -830,9 +832,11 @@ Las resoluciones o actos no recurridos dentro del plazo legal establecido en el 
 
 El recurso a que se refiere este Capítulo tendrá por objeto revocar, modificar o confirmar el acto o la resolución impugnada, y los fallos que se dicten contendrán la fijación del acto impugnado, la motivación, la fundamentación legal en que se apoyen y los resolutivos.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 63.
 
-El recurso de reconsideración se tramitará y resolverá conforme a lo dispuesto en el presente Título y en lo no previsto en el mismo se estará a lo dispuesto en el Código Federal de Procedimientos Civiles, en lo conducente.
+El recurso de reconsideración se tramitará y resolverá conforme a lo dispuesto en el presente Título y en lo no previsto en el mismo se estará a lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares, en lo conducente.
 
 ###### Artículo 64.
 
@@ -930,7 +934,9 @@ Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la
 
 Harán prueba plena la confesión expresa del recurrente, así como los hechos legalmente afirmados por autoridad en documentos públicos, incluyendo los digitales; pero, si en los documentos públicos citados se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo probarán plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no probarán la verdad de lo declarado o manifestado.
 
-Cuando se trate de documentos digitales sin firma electrónica o con firma electrónica distinta a una firma electrónica avanzada o sello digital, para su valoración, se estará a lo dispuesto por el artículo 210-A del Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+Cuando se trate de documentos digitales sin firma electrónica o con firma electrónica distinta a una firma electrónica avanzada o sello digital, para su valoración, se estará a lo dispuesto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 72.
 
@@ -1521,3 +1527,21 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
 
 Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
