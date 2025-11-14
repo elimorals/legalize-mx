@@ -4,7 +4,7 @@ identifier: "LFRA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2013-06-07"
-last_updated: "2021-05-20"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRA"
 
 LEY FEDERAL DE RESPONSABILIDAD AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -142,9 +142,11 @@ El monto de las garantías financieras a que hace referencia el párrafo anterio
 
 En términos de lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, se integrará un Sistema Nacional de Seguros de Riesgo Ambiental.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 9o.
 
-En lo no previsto por esta Ley, se aplicarán las disposiciones del Código Civil Federal y del Código Federal de Procedimientos Civiles, siempre que no contravengan lo dispuesto en esta Ley.
+En lo no previsto por esta Ley, se aplicarán las disposiciones del Código Civil Federal y del Código Nacional de Procedimientos Civiles y Familiares, siempre que no contravengan lo dispuesto en esta Ley.
 
 ### CAPÍTULO SEGUNDO. Obligaciones derivadas de los daños ocasionados al ambiente
 
@@ -300,9 +302,11 @@ La sanción económica que corresponda será impuesta individualmente a cada una
 
 #### SECCIÓN 1. De la acción para demandar la responsabilidad ambiental
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-Las personas e instituciones legitimadas conforme al artículo 28 de la presente Ley, podrán demandar la responsabilidad ambiental y el cumplimiento de las obligaciones, pagos y prestaciones previstos en este Título, en términos de lo dispuesto por la presente Ley, el Código Federal de Procedimientos Civiles, o de conformidad a la ley federal que regule los procedimientos judiciales a los que hace referencia el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos.
+Las personas e instituciones legitimadas conforme al artículo 28 de la presente Ley, podrán demandar la responsabilidad ambiental y el cumplimiento de las obligaciones, pagos y prestaciones previstos en este Título, en términos de lo dispuesto por la presente Ley, el Código Nacional de Procedimientos Civiles y Familiares, o de conformidad a la ley federal que regule los procedimientos judiciales a los que hace referencia el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 28.
 
@@ -316,7 +320,9 @@ III. La Federación a través de la procuraduría, y
 
 IV. Las Procuradurías o instituciones que ejerzan funciones de protección ambiental de las entidades federativas y del Distrito Federal en el ámbito de su circunscripción territorial, conjuntamente con la procuraduría.
 
-Las personas morales referidas en la fracción II de este artículo, deberán acreditar que fueron legalmente constituidas por lo menos tres años antes de la presentación de la demanda por daño ocasionado al ambiente. Asimismo deberán cumplir por (sic) los requisitos previstos por el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+Las personas morales referidas en la fracción II de este artículo, deberán acreditar que fueron legalmente constituidas por lo menos tres años antes de la presentación de la demanda por daño ocasionado al ambiente. Asimismo deberán cumplir por (sic) los requisitos previstos por el Código Nacional de Procedimientos Civiles y Familiares.
 
 Los legitimados en las fracciones I y II tendrán además derecho e interés legítimo para reclamar el pago de las erogaciones que hayan hecho para acreditar la responsabilidad ambiental.
 
@@ -338,15 +344,19 @@ En ausencia de los anteriores serán competentes para conocer de los procedimien
 
 La autoridad jurisdiccional que conozca de las acciones y demandas a que hace referencia el presente Capítulo, deberá ordenar a la Secretaría y a la Procuraduría, a efecto de que imponga inmediatamente las medidas preventivas y correctivas procedentes en el ámbito de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-En adición a lo dispuesto por el Código Federal de Procedimiento (sic) Civiles, durante el procedimiento el Juez podrá decretar las medidas precautorias siguientes:
+En adición a lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares, durante el procedimiento el Juez podrá decretar las medidas precautorias siguientes:
 
 I. El aseguramiento de documentos, libros, cosas, papeles y bienes relacionados con los daños, así como con el cumplimiento de las obligaciones jurídicas del demandado, previstas por las Leyes ambientales y los tratados internacionales de los que México sea Parte, y
 
 II. El aseguramiento o toma de muestras de sustancias peligrosas, materiales, residuos, líquidos, contaminantes y de los elementos naturales relacionados con el daño ocasionado al ambiente.
 
-Las medidas cautelares se tramitarán y resolverán de conformidad con lo establecido por el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+Las medidas cautelares se tramitarán y resolverán de conformidad con lo establecido por el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 33.
 
@@ -360,9 +370,11 @@ El órgano jurisdiccional podrá allegarse oficiosamente de los medios de prueba
 
 El Juez requerirá a la Secretaría y a la Procuraduría para que aporten todos los elementos periciales, testimoniales, documentales y demás indicios y elementos de prueba con los que cuenten. Los servidores públicos estarán obligados a cumplir con dicha obligación.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 35.
 
-Para acreditar los hechos o circunstancias en relación al estado base, el daño ocasionado al ambiente, así como el nexo causal, las partes y las autoridades podrán utilizar fotografías, imágenes de satélite, estudios de poblaciones y en general toda clase de elementos aportados por la técnica y la ciencia. Salvo en los casos en que el Código Federal de Procedimientos Civiles otorgue mayor valor probatorio, estos medios de prueba constituirán indicios.
+Para acreditar los hechos o circunstancias en relación al estado base, el daño ocasionado al ambiente, así como el nexo causal, las partes y las autoridades podrán utilizar fotografías, imágenes de satélite, estudios de poblaciones y en general toda clase de elementos aportados por la técnica y la ciencia. Salvo en los casos en que el Código Nacional de Procedimientos Civiles y Familiares otorgue mayor valor probatorio, estos medios de prueba constituirán indicios.
 
 ###### Artículo 36.
 
@@ -372,9 +384,11 @@ El nexo de causalidad entre el daño ocasionado y la conducta imputada al demand
 
 #### SECCIÓN 4. De la sentencia, ejecución y seguimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 37.
 
-Además de lo previsto por el Código Federal de Procedimientos Civiles, la sentencia condenatoria que se dicte deberá precisar:
+Además de lo previsto por el Código Nacional de Procedimientos Civiles y Familiares, la sentencia condenatoria que se dicte deberá precisar:
 
 I. La obligación de reparar ambientalmente el daño que corresponda;
 
@@ -388,9 +402,11 @@ V. El importe que corresponda pagar a favor del actor o actores que hayan probad
 
 VI. Los plazos para el cumplimiento de las obligaciones del responsable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-De conformidad a lo previsto por el Código Federal de Procedimientos Civiles, una vez que cause ejecutoria la sentencia que resulte condenatoria, el juez dará vista a las partes para que dentro del término de treinta días se pronuncien sobre:
+De conformidad a lo previsto por el Código Nacional de Procedimientos Civiles y Familiares, una vez que cause ejecutoria la sentencia que resulte condenatoria, el juez dará vista a las partes para que dentro del término de treinta días se pronuncien sobre:
 
 I. La forma, términos y niveles de reparación material ambiental del daño ocasionado al ambiente que se propongan para cumplir esas obligaciones;
 
@@ -460,9 +476,11 @@ La Procuraduría auxiliará a la autoridad judicial en la verificación del cump
 
 Dicha dependencia informará bimestralmente al Juez sobre los avances en el cumplimiento de las sentencias. Las partes podrán manifestar lo que a su derecho convenga respecto al incumplimiento o deficiente ejecución de dicha resolución.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 43.
 
-Para salvaguardar el interés público del procedimiento judicial, las personas que tengan legitimación activa, deberán cumplir con los requisitos previstos por el Código Federal de Procedimientos Civiles, y deberá salvaguardar la representación adecuada, de conformidad con lo previsto en dicho ordenamiento.
+Para salvaguardar el interés público del procedimiento judicial, las personas que tengan legitimación activa, deberán cumplir con los requisitos previstos por el Código Nacional de Procedimientos Civiles y Familiares, y deberá salvaguardar la representación adecuada, de conformidad con lo previsto en dicho ordenamiento.
 
 ###### Artículo 44.
 
@@ -500,7 +518,9 @@ Toda persona tiene el derecho de resolver las controversias de carácter jurídi
 
 Las personas ambientalmente responsables y los legitimados para accionar judicialmente en términos del Título Primero de esta Ley, podrán resolver los términos del conflicto producido por el daño ocasionado al ambiente, mediante los mecanismos alternativos de mediación, conciliación y los demás que sean adecuados para la solución pacífica de la controversia, de conformidad a lo previsto por esta Ley, o las disposiciones reglamentarias del párrafo cuarto del artículo 17 de la Constitución Política de los Estados Unidos Mexicanos.
 
-En lo no previsto por el presente Título se aplicará supletoriamente lo dispuesto por el Código Federal de Procedimientos Civiles, siempre que no contravenga lo dispuesto por esta Ley.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+En lo no previsto por el presente Título se aplicará supletoriamente lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares, siempre que no contravenga lo dispuesto por esta Ley.
 
 ###### Artículo 48.
 
@@ -558,9 +578,11 @@ La procuraduría presentará las querellas y otorgará el perdón en los casos d
 
 Todo servidor público está obligado a notificar de manera inmediata al Ministerio Público, la probable existencia de un hecho que la Ley considere como delito contra el ambiente, así como la identidad de quien posiblemente lo haya cometido o haya participado en su comisión, transmitiendo todos los datos que tuviere al respecto poniendo a disposición a los inculpados si hubieren sido detenidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 55.
 
-Para efectos de lograr la reparación y compensación de los daños ocasionados al ambiente la Procuraduría será coadyuvante del Ministerio Público, en los términos previstos por el Código Federal de Procedimientos Penales. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido por sí mismo o a través de su representante legal.
+Para efectos de lograr la reparación y compensación de los daños ocasionados al ambiente la Procuraduría será coadyuvante del Ministerio Público, en los términos previstos por el Código Nacional de Procedimientos Penales. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido por sí mismo o a través de su representante legal.
 
 La Secretaría y la Procuraduría proporcionarán los dictámenes técnicos o periciales que le requiera el Ministerio Público o las autoridades judiciales, con motivo de los procedimientos penales que se inicien por la comisión de delitos contra el ambiente o la gestión ambiental.
 
@@ -651,3 +673,21 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
