@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2024-04-01"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -3764,15 +3764,15 @@ Las autoridades y servidores públicos involucrados en asuntos de la competencia
 
 Las autoridades y servidores públicos a los que se les solicite información o documentación que se estime con carácter reservado, conforme a lo dispuesto en la legislación aplicable, lo comunicarán a la Procuraduría Federal de Protección al Ambiente. En este supuesto, dicha dependencia deberá manejar la información proporcionada bajo la más estricta confidencialidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 202.
 
 La procuraduría Federal de Protección al Ambiente, en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
 
-Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad, la procuraduría Federal de Protección al Ambiente, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad, la Procuraduría Federal de Protección al Ambiente, así como cualquier legitimado a que se refiere el artículo 862 del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en dicho ordenamiento.
 
 Lo anterior también será aplicable respecto de aquellos actos, hechos u omisiones que violenten la legislación ambiental de las entidades federativas.
 
@@ -4247,3 +4247,21 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
