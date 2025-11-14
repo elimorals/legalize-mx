@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-11-07"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -2339,9 +2339,9 @@ Las decisiones del Tribunal de Disciplina Judicial serán definitivas e inatacab
 
 La competencia del Supremo Tribunal de Justicia, su funcionamiento en Pleno, Salas y Regiones, de los juzgados de primera instancia y de los juzgados menores, así como las responsabilidades en que incurran las servidoras y los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes y los acuerdos generales correspondientes, de conformidad con las bases que esta Constitución establece.
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-El Órgano de Administración Judicial determinará el número, división en distritos, competencia territorial y especialización por materias de cada juzgado, y ejercerá las demás facultades y obligaciones que las leyes le otorguen.
+El Órgano de Administración Judicial determinará el número, división en distritos o regiones judiciales, competencia territorial y especialización por materias de cada juzgado; cambios de adscripción, de órgano jurisdiccional o reubicación del personal y jueces y ejercerá las demás facultades y obligaciones que las leyes le otorguen.
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
@@ -2741,11 +2741,11 @@ V.- No haber sido persona titular de una Secretaría de Estado, Fiscalía del Es
 
 Los juzgados menores funcionarán en aquellos Municipios que el Órgano de Administración Judicial considere necesario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
 ###### Art. 120.
 
-La ley determinará las circunscripciones territoriales en que se dividirá el Estado; asimismo, sentará las bases para fijar la competencia de las autoridades judiciales y su organización, así como los requisitos para ejercer la función jurisdiccional y su duración.
+El Órgano de Administración Judicial determinará las circunscripciones territoriales en que se dividirá el Estado; asimismo, sentará las bases para fijar la competencia de las autoridades judiciales y su organización.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -5994,6 +5994,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-526 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO CATORCE AL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-546 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 100, PÁRRAFO SEXTO; Y 120, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
