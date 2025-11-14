@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2025-07-16"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -124,9 +124,11 @@ Los bienes muebles e inmuebles propiedad de las instituciones de carácter feder
 
 Los monumentos arqueológicos y los monumentos históricos y artísticos propiedad de la Federación, se regularán por esta Ley y la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 5.
 
-A falta de disposición expresa en esta Ley o en las demás disposiciones que de ella deriven, se aplicarán, en lo conducente, el Código Civil Federal, la Ley Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles.
+A falta de disposición expresa en esta Ley o en las demás disposiciones que de ella deriven, se aplicarán, en lo conducente, el Código Civil Federal, la Ley Federal de Procedimiento Administrativo y el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### ARTÍCULO 6.
 
@@ -1674,9 +1676,11 @@ VII.- El nombre, cargo y firma autógrafa del servidor público de la dependenci
 
 Dicha resolución será notificada al interesado dentro de los cinco días hábiles siguientes a su emisión, haciéndole saber el derecho que tiene para interponer el recurso de revisión previsto en la Ley Federal de Procedimiento Administrativo.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 114.
 
-Una vez que quede firme la resolución pronunciada, la dependencia administradora de inmuebles que dictó la misma, procederá a ejecutarla, estando facultada para que, en caso de ser necesario, aplique las medidas de apremio previstas en el Código Federal de Procedimientos Civiles.
+Una vez que quede firme la resolución pronunciada, la dependencia administradora de inmuebles que dictó la misma, procederá a ejecutarla, estando facultada para que, en caso de ser necesario, aplique las medidas de apremio previstas en el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### ARTÍCULO 115.
 
@@ -2369,3 +2373,17 @@ Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del prese
 Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
 
 Sexto.- El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
