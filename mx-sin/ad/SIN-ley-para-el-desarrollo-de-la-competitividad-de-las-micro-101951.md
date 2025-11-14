@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-el-desarrollo-de-la-competitividad-de-las-micro-101951
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-08"
-last_updated: "2016-12-28"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de agosto de 2014.
 
@@ -70,6 +70,10 @@ Pequeña 11-50 11-30 11-50
 Mediana 51-250 31-100 51-100
 
 Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y de bienes culturales, así como prestadores de servicios turísticos y culturales;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+I Bis. Mujer Rural: Es toda aquella que, sin distingo de ninguna naturaleza, e independientemente del lugar donde viva, su medio de vida está relacionado directamente con el ámbito rural, incluso si su actividad productiva no se encuentra reconocida por los sistemas de información y medición o no es remunerada;
 
 II. Actividades de Fomento: Acciones económicas, jurídicas, sociales, comerciales, de capacitación o tecnológicas, que contribuyen al desarrollo y competitividad de las MIPYMES, que establezca el Reglamento de esta Ley;
 
@@ -143,9 +147,25 @@ i) Estimular en el ámbito de su competencia programas de capacitación, product
 
 j) La creación y desarrollo de las MIPYMES en el marco de la normativa ecológica y que éstas contribuyan al desarrollo sustentable y equilibrado de largo plazo;
 
-k) La cooperación y asociación de las MIPYMES, a través de sus organizaciones empresariales en el ámbito estatal, regional y municipal, así como de sectores productivos y cadenas productivas; y,
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-l) La coordinación entre los programas de inversión productiva de las diversas dependencias estatales para eficientar y racionalizar su aplicación.
+k) La cooperación y asociación de las MIPYMES, a través de sus organizaciones empresariales en el ámbito estatal, regional y municipal, así como de sectores productivos y cadenas productivas;
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+l) La coordinación entre los programas de inversión productiva de las diversas dependencias estatales para eficientar y racionalizar su aplicación;
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+m) Un entorno favorable y facilitador de las MIPYMES dirigidas por mujeres; y
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+n) Promover programas de apoyo, capacitación y dignificación a la mujer rural que visibilicen sus actividades económicas que aceleren su crecimiento dentro del contexto económico y social.
+
+> <small>[N. DE E. PERTENECE AL INCISO N, P.O. 14 DE NOVIEMBRE DE 2025.]</small>
+
+De igual manera se realizarán acciones de Gobierno encaminadas a garantizar que sus familias tengan acceso a asistencia social, educación y vivienda digna. Además, que en su planificación de políticas y programas se incluyan acciones positivas para este sector.
 
 ### CAPÍTULO II. DE LAS POLÍTICAS PARA EL DESARROLLO Y LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS
 
@@ -218,6 +238,30 @@ IX. Fomento para el desarrollo sustentable en el marco de la normativa ecológic
 X. Otorgamiento de incentivos fiscales de conformidad con lo prescrito por la Ley de Fomento a la Inversión para el Desarrollo Económico del Estado de Sinaloa y de los demás incentivos previstos en la presente Ley.
 
 Adicionalmente, la Secretaría creará esquemas financieros para facilitar el acceso al financiamiento público y privado a las MIPYMES.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 9 Bis.
+
+La Secretaría diseñará e implementará un programa para fomentar y facilitar a las mujeres la creación de MIPYMES, bajo los siguientes criterios:
+
+I. Fomentar la inclusión de mujeres en el sistema productivo mediante el emprendimiento;
+
+II. Brindar asesoría y acompañamiento especializado para la creación de MIPYMES;
+
+III. Promover el otorgamiento de subsidios para mujeres emprendedoras;
+
+IV. Fomentar y facilitar el acceso a financiamiento con tasas preferenciales;
+
+V. Apoyar en el diseño y proyección financiera de su MIPYMES;
+
+VI. Fomentar la creación de un ecosistema emprendedor de MIPYMES;
+
+VII. Crear una plataforma digital para la (sic) comercializar productos y servicios de MIPYMES;
+
+VIII. Fomentar que un porcentaje de las compras de gobierno se realicen a MIPYMES lideradas por mujeres; y
+
+IX. Crear y operar la Ventanilla Única de atención a mujeres emprendedoras.
 
 ###### Artículo 10.
 
@@ -363,49 +407,57 @@ A toda empresa inscrita en el Registro Estatal de las MIPYMES le corresponderá 
 
 El Consejo es la instancia que estudia y propone en el ámbito estatal y municipal, medidas de apoyo para el desarrollo de la competitividad de las MIPYMES a través del análisis de las propuestas surgidas de los Sectores.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
 El Consejo estará conformado por:
 
-I. El titular de la Secretaría de Desarrollo Económico quien lo presidirá;
+I. La persona titular de la Secretaría de Economía, quien lo presidirá;
 
-II. El titular de la Secretaría de Administración y Finanzas;
+II. La persona titular de la Secretaría de Administración y Finanzas;
 
-III. El titular de la Secretaría de Educación Pública y Cultura;
+III. La persona titular de la Secretaría de Educación Pública y Cultura;
 
-IV. El titular de la Secretaría de Desarrollo Social y Humano;
+IV. La persona titular de la Secretaría de Bienestar y Desarrollo Sustentable;
 
-V. El titular de la Secretaría de Desarrollo Urbano y Obras Públicas;
+V. La persona titular de la Secretaría de Obras Públicas;
 
-VI. El titular de la Secretaría de Agricultura, Ganadería y Pesca;
+VI. La persona titular de la Secretaría de Agricultura y Ganadería;
 
-VII. El titular de la Secretaría de Turismo;
+VII. La persona titular de la Secretaría de Pesca y Acuacultura;
 
-VIII. El Delegado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+VIII. La persona titular de la Secretaría de Turismo;
 
-IX. El Delegado de la Secretaría de Desarrollo Social;
+IX. La persona titular de la Secretaría de las Mujeres;
 
-X. El Delegado de la Secretaría de Desarrollo Agrario, Territorial y Urbano;
+X. La persona representante federal de la Secretaría de Agricultura y Desarrollo Rural;
 
-XI. Un representante del Congreso del Estado;
+XI. La persona representante federal de la Secretaría de Medio Ambiente y Recursos Naturales;
 
-XII. El titular de la Dirección General del Consejo General de Ciencia, Tecnología e Innovación;
+XII. La persona representante federal de la Secretaría de Bienestar;
 
-XIII. El Director del Servicio Estatal de Empleo;
+XIII. La persona representante federal de la Secretaría de Infraestructura, Comunicaciones y Transportes;
 
-XIV. Cuatro representantes de los Ayuntamientos del Estado;
+XIV. Un (sic) persona representante del Congreso del Estado;
 
-XV. Seis miembros de asociaciones o cámaras estatales de los Sectores que incidan en el cumplimiento de los objetivos de esta Ley; y,
+XV. La persona titular de la Coordinación General para el Fomento a la Investigación Científica e Innovación;
 
-XVI. Seis académicos de diferentes universidades del Estado especialistas en el tema de competitividad.
+XVI. La persona titular de la Dirección del Servicio Estatal del Empleo;
 
-Por cada uno de los miembros propietarios se deberá nombrar un suplente, mismo que deberá tener un nivel jerárquico igual o inferior inmediato al del propietario.
+XVII. Cuatro personas representantes de los Ayuntamientos del Estado;
 
-Los miembros del Consejo tendrán derecho a voz y voto.
+XVIII. Seis personas de asociaciones o cámaras estatales de los Sectores que inciden en el cumplimento de los objetivos de esta Ley; y,
 
-Los cargos de los integrantes del Consejo serán honoríficos, por lo que no percibirán retribución, emolumento o compensación alguna por su desempeño.
+XIX. Seis personas académicas de diferentes universidades del Estado especialistas en el tema de competitividad.
 
-Durarán en su cargo la periodicidad de la administración a su cargo, a excepción de los miembros o presidentes de asociaciones o cámaras estatales y académicos, quienes durarán en su cargo dos años, con posibilidad de reelección, y cuyo procedimiento de designación se establecerá en el reglamento de la presente Ley.
+Por cada una de las personas propietarias se deberá nombrar una persona suplente, misma que deberá tener un nivel jerárquico igual o inferior inmediato al de la propietaria.
+
+Las personas integrantes del Consejo tendrán derecho a voz y voto.
+
+Los cargos de las personas integrantes del Consejo serán honoríficos, por lo que no percibirán retribución, emolumento o compensación alguna por su desempeño.
+
+Durarán en su cargo la periodicidad de la administración a su cargo, a excepción de las personas o presidencias de asociaciones o cámaras estatales y académicas, quienes durarán en su cargo dos años, con posibilidad de reelección, y cuyo procedimiento de designación se establecerá en el reglamento de la presente Ley.
 
 ###### Artículo 23.
 
@@ -1016,3 +1068,11 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivos del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 215 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
