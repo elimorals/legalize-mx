@@ -4,7 +4,7 @@ identifier: "LPDUSF"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "2024-01-24"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPDUSF"
 
 LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1999.
 
@@ -174,8 +174,6 @@ I. Atender y resolver las consultas que le presenten los Usuarios, sobre asuntos
 
 II. Atender y, en su caso, resolver las reclamaciones que formulen los Usuarios, sobre los asuntos que sean competencia de la Comisión Nacional;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 III. Llevar a cabo el procedimiento conciliatorio entre el Usuario y la Institución Financiera en los términos previstos en esta Ley, así como entre una Institución Financiera y varios Usuarios, exclusivamente en los casos en que éstos hayan contratado un mismo producto o servicio, mediante la celebración de un solo contrato, para lo cual dichos Usuarios deberán apegarse a lo establecido en el último párrafo del artículo 63 de esta Ley, así como emitir dictámenes de conformidad con la misma;
@@ -188,17 +186,13 @@ IV. Actuar como árbitro en amigable composición o en juicio arbitral de estric
 
 IV. Bis. Emitir dictámenes de conformidad con esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 V. De conformidad con lo señalado por el artículo 86 de esta Ley, procurar, proteger y representar individualmente los intereses de los Usuarios, en las controversias entre éstos y las Instituciones Financieras mediante el ejercicio de las acciones, recursos, trámites o gestiones que procedan ante autoridades administrativas y jurisdiccionales, con motivo de operaciones o servicios que los primeros hayan contratado por montos inferiores a tres millones de unidades de inversión, salvo tratándose de reclamaciones en contra de instituciones de seguros en cuyo caso la cuantía deberá de ser inferior a seis millones de unidades de inversión;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
-V. Bis. Ejercitar la acción colectiva o asumir la representación de la colectividad de conformidad con lo dispuesto en el Libro Quinto del Código Federal de Procedimientos Civiles, cuando se realicen actos, hechos u omisiones que vulneren los derechos e intereses de una colectividad de Usuarios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+V Bis. Ejercitar la acción colectiva o asumir la representación de la colectividad de conformidad con lo dispuesto en el Libro Sexto del Código Nacional de Procedimientos Civiles y Familiares, cuando se realicen actos, hechos u omisiones que vulneren los derechos e intereses de una colectividad de Usuarios;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
@@ -262,8 +256,6 @@ XXIV. Determinar el monto, la forma y las condiciones de las garantías a las qu
 
 XXV. Condonar total o parcialmente las multas impuestas por el incumplimiento de esta Ley, y (sic)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXVI. Denunciar ante el Ministerio Público cuando se tenga conocimiento de hechos que puedan ser constitutivos de delitos en general y ante la Secretaría cuando se trate de delitos tipificados en leyes que establezcan que el delito se persiga a petición de dicha Secretaría.
@@ -276,10 +268,6 @@ XXVII. Publicar en la página electrónica de la Comisión Nacional la informaci
 
 La Comisión Nacional Publicará las comisiones más representativas o de relevancia a través de cuadros comparativos de carácter trimestral en medios masivos de comunicación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXVIII. Vigilar y verificar el cumplimiento de las disposiciones contenidas en esta Ley y en las leyes relativas al sistema financiero, en el ámbito de su competencia, así como, en su caso, determinar los criterios para la verificación de su cumplimiento;
@@ -288,95 +276,49 @@ XXVIII. Vigilar y verificar el cumplimiento de las disposiciones contenidas en e
 
 XXIX. Actuar como consultor en materia de productos y servicios financieros y elaborar estudios relacionados con dichas materias. Asimismo, emitir las opiniones técnicas financieras para resolver las consultas de los Usuarios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXX. Requerir a las Instituciones Financieras que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los derechos de los Usuarios, así como publicar dichos requerimientos, en cumplimiento del objeto de esta Ley y al de la Comisión Nacional;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXXI. Promover nuevos o mejores sistemas y procedimientos que faciliten a los Usuarios el acceso a los productos o servicios que presten las Instituciones Financieras en mejores condiciones de mercado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXXII. Informar a los Usuarios sobre las acciones u omisiones de las Instituciones Financieras que afecten sus derechos, así como la forma en que las Instituciones Financieras retribuirán o compensarán a los Usuarios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXXIII. Supervisar a las Instituciones Financieras en relación a las normas de protección al usuario de servicios financieros cuando tal atribución le esté conferida en las leyes relativas al sistema financiero;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXXIV. Emitir en el ámbito de su competencia la regulación a que se sujetarán las Instituciones Financieras, cuando tal atribución le esté conferida en las leyes del sistema financiero;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXXV. Expedir disposiciones de carácter general en las que se establezca la información que deberán proporcionarle periódicamente las Instituciones Financieras en el ámbito de sus atribuciones, cuando así lo prevean las leyes relativas al sistema financiero;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXXVI. Fungir como órgano de consulta del Gobierno Federal en materia de protección al Usuario, en el ámbito de su competencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXXVII. Procurar a través de los procedimientos establecidos en las leyes que regulan el sistema financiero, que las Instituciones Financieras cumplan debida y eficazmente las operaciones y servicios, en los términos y condiciones concertados, con los Usuarios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXXVIII. Imponer sanciones administrativas en el ámbito de su competencia por infracciones a las leyes que regulan las actividades e Instituciones Financieras, sujetas a su supervisión, así como a las disposiciones que emanen de ellas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XXXIX. Conocer y resolver sobre el recurso de revisión que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente las multas impuestas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER</small>
-
-ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 XL. Elaborar y publicar estadísticas relativas a las Instituciones Financieras y mercados financieros, en el ámbito de su competencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
@@ -1220,7 +1162,9 @@ VI. Una vez concluidos los términos fijados, sin necesidad de que se acuse rebe
 
 VII. Los términos serán improrrogables, se computarán en días hábiles y, en todo caso, empezarán a contarse a partir del día siguiente a aquél en que surtan efectos las notificaciones respectivas;
 
-VIII. Se aplicará supletoriamente el Código de Comercio, a excepción del artículo 1235 y a falta de disposición en dicho Código, se aplicarán las disposiciones del Código de Procedimientos Civiles para el Distrito Federal, a excepción del artículo 617, y
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Se aplicará supletoriamente el Código de Comercio, a excepción del artículo 1235 y a falta de disposición en dicho Código, se aplicarán las disposiciones del Código Nacional de Procedimientos Civiles y Familiares, y
 
 IX. En caso de que no exista promoción de las partes por un lapso de más de sesenta días, contado a partir de la notificación de la última actuación, operará la caducidad de la instancia.
 
@@ -1346,7 +1290,9 @@ En aquellos casos en que un asunto represente, en cualquier forma, un conflicto 
 
 Los árbitros que conforme al párrafo anterior deban excusarse y no lo hagan, podrán ser recusados por la parte afectada, sin perjuicio de la responsabilidad en que incurran por los daños causados.
 
-Las causas de excusa y recusación a que se refiere este artículo se determinarán conforme a lo dispuesto en el artículo 39 del Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+Las causas de excusa y recusación a que se refiere este artículo se determinarán conforme a lo dispuesto en el artículo 104 del Código Nacional de Procedimientos Civiles y Familiares.
 
 ## TÍTULO SEXTO. DE LA DEFENSA DE LOS USUARIOS
 
@@ -1406,13 +1352,11 @@ Los defensores, durante el tiempo que desempeñen dicho cargo, no podrán dedica
 
 En caso de que un asunto represente, en cualquier forma, un conflicto de intereses para el defensor asignado por la Comisión Nacional, aquél deberá excusarse para hacerse cargo del mismo, y solicitar la asignación de otro defensor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 92.
 
-Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad de Usuarios, la Comisión Nacional, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad de Usuarios, la Comisión Nacional, así como cualquier legitimado a que se refiere el artículo 862 del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva a que se refiere dicho ordenamiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VER ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1648,7 +1592,9 @@ Concluido el plazo a que se refiere el párrafo anterior y, en su caso, el de su
 
 En el procedimiento administrativo sancionador se admitirán toda clase de pruebas, excepto la testimonial y la confesión de las Comisiones Nacionales o de sus servidores públicos, mediante absolución de posiciones.
 
-El ofrecimiento, admisión, preparación, desahogo y valoración de las pruebas se hará en los términos y condiciones establecidos en el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+El ofrecimiento, admisión, preparación, desahogo y valoración de las pruebas se hará en los términos y condiciones establecidos en el Código Nacional de Procedimientos Civiles y Familiares.
 
 Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión Nacional le notificará la apertura del periodo de cinco días hábiles para formular alegatos.
 
@@ -1995,3 +1941,21 @@ Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de en
 Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
 
 Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
