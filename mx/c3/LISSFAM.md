@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2025-07-16"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -1914,17 +1914,17 @@ La imposibilidad física para trabajar, será probada con dictamen pericial de d
 
 La incapacidad legal será probada con copia certificada de la sentencia ejecutoria que se dicte en el juicio de interdicción.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 159.
 
-La dependencia económica deberá ser probada con información testimonial, rendida bajo protesta de decir verdad, ante las Secretarías de la Defensa Nacional o de Marina, las cuales podrán completar la prueba, mandando practicar la investigación oficial del hecho. Las Secretarías de referencia podrán autorizar a los comandantes de regiones, zonas, sectores, guarniciones, unidades, directores, jefes de dependencias, para que practiquen las diligencias que procedan. Sólo en caso de controversia la dependencia económica será probada por los medios establecidos en el Código Federal de Procedimientos Civiles.
+La dependencia económica deberá ser probada con información testimonial, rendida bajo protesta de decir verdad, ante las Secretarías de la Defensa Nacional o de Marina, las cuales podrán completar la prueba, mandando practicar la investigación oficial del hecho. Las Secretarías de referencia podrán autorizar a los comandantes de regiones, zonas, sectores, guarniciones, unidades, directores, jefes de dependencias, para que practiquen las diligencias que procedan. Sólo en caso de controversia la dependencia económica será probada por los medios establecidos en el Código Nacional de Procedimientos Civiles y Familiares.
 
-(NOTA: EL 18 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 1/2021, DECLARÓ LA INCONSTITUCIONALIDAD DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 160.
 
-La relación de concubinato será acreditada necesariamente, y en todo caso, con la designación que el militar haya hecho de la persona interesada, como concubina o concubinario, ante el Instituto o la Secretaría de la Defensa Nacional o de Marina, sin que sea admisible otro medio de prueba. La designación posterior anula la anterior, siempre que se haya formulado dentro del plazo establecido en el artículo 143 de esta Ley y acreditado las circunstancias de los incisos a) y b) de la fracción II del artículo 38 de esta Ley, se acreditarán con los medios de prueba establecidos por el Código Federal de Procedimientos Civiles.
+La relación de concubinato será acreditada necesariamente, y en todo caso, con la designación que el militar haya hecho de la persona interesada, como concubina o concubinario, ante el Instituto o la Secretaría de la Defensa Nacional o de Marina. La designación posterior anula la anterior, siempre que se haya formulado dentro del plazo establecido en el artículo 143 de esta Ley y acreditado las circunstancias de los incisos a) y b) de la fracción II del artículo 38 de esta Ley, se acreditarán con los medios de prueba establecidos por el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 161.
 
@@ -1932,7 +1932,9 @@ La muerte de un militar en acción de guerra, será probada con el parte que rin
 
 En dicho parte se hará constar si el militar falleció en la acción o con posterioridad, anexándose, de ser posible, copia certificada del acta de defunción.
 
-En defecto del parte, con las demás pruebas que establece el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+En defecto del parte, con las demás pruebas que establece el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 162.
 
@@ -1940,7 +1942,9 @@ La muerte de un militar en acción de armas, cuando no se hubiere levantado el c
 
 I. Con el parte que rinda el Comandante de la fuerza, y
 
-II. En defecto del parte, con las demás pruebas que establece el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+II. En defecto del parte, con las demás pruebas que establece el Código Nacional de Procedimientos Civiles y Familiares.
 
 Para los efectos de esta Ley, se considerará como muerto al militar cuando desaparezca en una acción de armas o en actos del servicio, en los ámbitos marítimo, fluvial, lacustre, terrestre y aéreo. La declaración respectiva será hecha por la Secretaría de la Defensa Nacional o la de Marina, en su caso, después de sesenta días de acaecida la desaparición, con vista del acta que se levante sobre los hechos, y de la demás documentación que se acompañe.
 
@@ -1986,7 +1990,9 @@ II. Con un certificado que el mismo Comandante deberá expedir dentro de los ses
 
 III. Con el acta de defunción, de ser posible su obtención;
 
-IV. A falta de los documentos a que se refieren las tres fracciones anteriores, con los medios de prueba que establece el Código Federal de Procedimientos Civiles, y
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+IV. A falta de los documentos a que se refieren las tres fracciones anteriores, con los medios de prueba que establece el Código Nacional de Procedimientos Civiles y Familiares, y
 
 V. En caso de que haya habido hospitalización después de recibidas las lesiones, se recabará, además el certificado médico del hospital.
 
@@ -2004,7 +2010,9 @@ III. Con certificado que acredite el servicio que desempeñaba el militar al rec
 
 IV. Con el acta de defunción expedida por el Registro Civil, y
 
-V. A falta de los documentos a que se refieren las cuatro fracciones anteriores, con las demás pruebas que establece el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+V. A falta de los documentos a que se refieren las cuatro fracciones anteriores, con las demás pruebas que establece el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
@@ -2040,7 +2048,9 @@ II. Con un certificado que el mismo Comandante deberá expedir dentro de los 60 
 
 III. Con un certificado médico en el que se haga constar la inutilización, así como su relación de causalidad con las heridas, y
 
-IV. A falta de los documentos a que se refieren las tres fracciones anteriores, con los medios de prueba que establece el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+IV. A falta de los documentos a que se refieren las tres fracciones anteriores, con los medios de prueba que establece el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
@@ -3189,3 +3199,21 @@ Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del pre
 Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
 
 Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
