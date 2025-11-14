@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2024-01-05"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -477,15 +477,19 @@ XVIII.- Una vez al año, otorgar permiso de un día con goce de sueldo a las muj
 
 XIX.- Otorgar permisos de ausencia laboral por motivos de asuntos escolares relacionados con sus hijos o hijas menores de edad, previa justificación, hasta por cuatro horas, los cuales no podrán exceder de cuatro permisos durante el año escolar. Se podrá compensar la ausencia con un tiempo igual de trabajo efectivo, previo acuerdo entre la persona trabajadora y su superior jerárquico.
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
 XX.- Implementar un protocolo, de común acuerdo con los trabajadores, para prevenir la discriminación por razones de género y la atención de casos de violencia, acoso u hostigamiento sexual.
 
-Dichos protocolos deberán incluir procedimientos ágiles, claros y precisos para sancionar las conductas previstas en esta fracción, así como otorgar las facilidades necesarias a las y los trabajadores quienes denuncien, ante las autoridades competentes, y
+Dichos protocolos deberán incluir procedimientos ágiles, claros y precisos para sancionar las conductas previstas en esta fracción, así como otorgar las facilidades necesarias a las y los trabajadores quienes denuncien, ante las autoridades competentes.
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-XXI.- Fomentar el uso de las tecnologías de la información y de la comunicación para las mujeres trabajadoras diagnosticadas con endometriosis severa o dismenorrea primaria o secundaria, en grado incapacitante, realicen trabajo a distancia hasta por dos días o, en su caso, se les otorgue un permiso en términos del artículo 24 bis 7 de esta Ley.
+XXI.- Fomentar el uso de las tecnologías de la información y de la comunicación para las mujeres trabajadoras diagnosticadas con endometriosis severa o dismenorrea primaria o secundaria, en grado incapacitante, realicen trabajo a distancia hasta por dos días o, en su caso, se les otorgue un permiso en términos del artículo 24 bis 7 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XXII.- Realizar e impulsar programas de capacitación certificada en primeros auxilios y en el uso del Desfibrilador Externo Automático para los servidores públicos. Así como promover que las dependencias gubernamentales cuenten con al menos un desfibrilador externo automático y un equipo básico de emergencia médica, accesibles y en condiciones óptimas de funcionamiento, en los centros de trabajo de sus dependencias y organismos públicos.
 
 ### CAPITULO QUINTO. De las obligaciones de los funcionarios y trabajadores
 
@@ -1312,3 +1316,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación.
 ###### ARTÍCULO SEGUNDO.
 
 las personas Titulares de los Tres Poderes Ejecutivo, Legislativo y Judicial, así como de los Ayuntamientos contarán con un plazo de 120 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM, 145. SE REFORMA FRACCIÓN (SIC) XX Y XXI DEL ARTÍCULO 36o Y SE ADICIONA (SIC) FRACCIÓN XXII AL ARTÍCULO 36o A LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán atendiendo a la suficiencia presupuestal.
