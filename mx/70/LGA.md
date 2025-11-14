@@ -4,7 +4,7 @@ identifier: "LGA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-06-15"
-last_updated: "2023-01-19"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129071&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGA"
 
 LEY GENERAL DE ARCHIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección al Número 16 del Diario Oficial de la Federación, el viernes 15 de junio de 2018.
 
@@ -84,7 +84,9 @@ X. Fomentar la cultura archivística y el acceso a los archivos.
 
 La aplicación e interpretación de esta Ley se hará acorde a la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que México sea parte, privilegiando el respeto irrestricto a los derechos humanos y favoreciendo en todo tiempo la protección más amplia a las personas y el interés público.
 
-A falta de disposición expresa en la presente Ley, se aplicarán de manera supletoria las disposiciones administrativas correspondientes en la Ley General de Responsabilidades Administrativas, la Ley Federal de Procedimiento Administrativo y Código Federal de Procedimientos Civiles, así como las leyes en materia de procedimiento administrativo y en materia civil de las entidades federativas en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+A falta de disposición expresa en la presente Ley, se aplicarán de manera supletoria las disposiciones administrativas correspondientes en la Ley General de Responsabilidades Administrativas, la Ley Federal de Procedimiento Administrativo y el Código Nacional de Procedimientos Civiles y Familiares, así como las leyes en materia de procedimiento administrativo y en materia civil de las entidades federativas en el ámbito de sus respectivas competencias.
 
 ###### Artículo 4.
 
@@ -1481,3 +1483,21 @@ D.O.F. 19 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 15 DE LA LEY GENERAL DE ARCHIVOS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
