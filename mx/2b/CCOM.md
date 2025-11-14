@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2024-12-30"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CCOM"
 
 CÓDIGO DE COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA SECRETARÍA DE ECONOMÍA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2024.
 
@@ -6040,9 +6040,9 @@ VI. El convenio también deberá expresar los nombres de los otorgantes, su capa
 
 En las demás materias, a falta de acuerdo especial u omisión de las partes en la regulación procesal convenida, se observarán las disposiciones de este libro.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
-Art. 1,054. En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y, en su defecto, se aplicará supletoriamente el Código Federal de Procedimientos Civiles y en caso de que no regule suficientemente la institución cuya supletoriedad se requiera, la ley de procedimientos local respectiva.
+Art. 1,054. En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este Libro y, en su defecto, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -6152,9 +6152,9 @@ V. Copia simple o fotostática siempre que sean legibles a simple vista, tanto d
 
 Lo dispuesto en la fracción anterior, se observará también respecto de los escritos en que se oponga la excepción de compensación o se promueva reconvención o algún incidente.
 
-> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
-Art. 1,061 Bis. En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por el artículo 210-A del Código Federal de Procedimientos Civiles.
+Art. 1,061 Bis. En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -6164,11 +6164,9 @@ Art. 1,062. En el caso de que se demuestre haber solicitado al protocolo depende
 
 De las formalidades judiciales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
-
-Art. 1,063. Los juicios mercantiles se substanciarán de acuerdo a los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Federal de Procedimientos Civiles y en último término por el Código de Procedimientos Civiles local.
+Art. 1,063. Los juicios mercantiles se substanciarán de acuerdo con los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -9376,9 +9374,9 @@ Art. 1,392. Presentada por el actor su demanda acompañada del título ejecutivo
 
 En todo momento, el actor tendrá acceso a los bienes embargados, a efecto de verificar que no hayan sido dispuestos, sustraídos, su estado y la suficiencia de la garantía, para lo cual, podrá además solicitar la práctica de avalúos. De ser el caso, el actor podrá solicitar la ampliación de embargo, salvo que la depreciación del bien haya sido por causas imputables al mismo o a la persona nombrada para la custodia del bien.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
-Art. 1,393. No encontrándose el demandado a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Federal de Procedimientos Civiles, respecto de los embargos.
+Art. 1,393. No encontrándose el demandado a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Nacional de Procedimientos Civiles y Familiares respecto de los embargos.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -9586,11 +9584,9 @@ En caso de que existan terceros que acrediten mediante la exhibición del contra
 
 Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen ó vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
-
-Art. 1,414. Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Federal de Procedimientos Civiles, o en su defecto la ley procesal de la Entidad Federativa correspondiente, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
+Art. 1,414. Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Nacional de Procedimientos Civiles y Familiares, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -10232,13 +10228,19 @@ a) Si en el desahogo de la vista dada con la solicitud de remisión al arbitraje
 
 b) Si la nulidad, la ineficacia o la imposible ejecución del acuerdo de arbitraje son notorias desde el desahogo de la vista dada con la solicitud de remisión al arbitraje. Al tomar esta determinación el juez deberá observar un criterio riguroso.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, D.O.F. 27 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
-Art. 1,466. Se tramitarán en vía de jurisdicción voluntaria conforme a los artículos 530 a 532 y 534 a 537 del Código Federal de Procedimientos Civiles:
+Art. 1,466. Se tramitarán en vía de jurisdicción voluntaria conforme al Código Nacional de Procedimientos Civiles y Familiares, con excepción del artículo 433:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE ENERO DE 2011)</small>
 
 I. La solicitud de designación de árbitros o la adopción de medidas previstas en las fracciones III y IV del artículo 1427 de este Código.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE ENERO DE 2011)</small>
+
 II. La solicitud de asistencia para el desahogo de pruebas prevista en el artículo 1444 de este Código.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE ENERO DE 2011)</small>
 
 III. La consulta sobre los honorarios del Tribunal Arbitral prevista en el artículo 1454 de este Código.
 
@@ -10312,9 +10314,9 @@ Art. 1,475. Si se promoviere prueba o el juez la estimare necesaria previo a la 
 
 Art. 1,476. Celebrada la audiencia el juez citará a las partes para oír sentencia. Las resoluciones intermedias dictadas en este juicio especial y la sentencia que lo resuelva no serán recurribles.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, D.O.F. 27 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
-Art. 1,477. Los juicios especiales que versen sobre nulidad o reconocimiento y ejecución de laudos comerciales podrán acumularse. Para que proceda la acumulación, es necesario que no se haya celebrado la audiencia de alegatos. La acumulación se hará en favor del juez que haya prevenido. La acumulación no procede respecto de procesos que se ventilen en jurisdicciones territoriales diversas o en el extranjero, ni entre tribunales federales y los de los estados. La acumulación se tramitará conforme a los artículos 73 a 75 del Código Federal de Procedimientos Civiles. La resolución que resuelva sobre la acumulación es irrecurrible.
+Art. 1,477. Los juicios especiales que versen sobre nulidad o reconocimiento y ejecución de laudos comerciales podrán acumularse. Para que proceda la acumulación, es necesario que no se haya celebrado la audiencia de alegatos. La acumulación se hará en favor del juez que haya prevenido. La acumulación no procede respecto de procesos que se ventilen en jurisdicciones territoriales diversas o en el extranjero, ni entre tribunales federales y los de los estados. La acumulación se tramitará conforme al Código Nacional de Procedimientos Civiles y Familiares. La resolución que resuelva sobre la acumulación es irrecurrible.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, D.O.F. 27 DE ENERO DE 2011)</small>
 
@@ -11027,3 +11029,21 @@ D.O.F. 30 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE DA A CONOCER LA ACTUALIZACIÓN DE LOS MONTOS ESTABLECIDOS EN LOS ARTÍCULOS 1067 BIS FRACCIÓN II, 1253 FRACCIÓN VI, 1339, 1340 Y 1390 BIS 33 DEL CÓDIGO DE COMERCIO".]
 
 ÚNICO. El presente Acuerdo entrará en vigor el 1 de enero de 2025.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
