@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2025-10-14"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1925,13 +1925,17 @@ XV. Salud Pública y Asistencia Social;
 
 XVI. Servicios;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-XVII. Vigilancia, y
+XVII. Vigilancia;
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-XVIII. Transparencia y Acceso a la Información.
+XVIII. Transparencia y Acceso a la Información, y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XIX. Asuntos de la Mujer.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
 
@@ -2255,7 +2259,9 @@ Los ayuntamientos no podrán permutar sus bienes inmuebles, salvo en el caso de 
 
 Los ayuntamientos no podrán vender sus bienes inmuebles, excepto cuando el producto de la venta, sea suficiente para cubrir el costo de una obra pública de impacto general en el ayuntamiento, y previa consulta pública de dicha obra, en los términos de la ley de la materia.
 
-Los ayuntamientos podrán donar sus bienes inmuebles sólo en favor de instituciones públicas, o de personas físicas o morales con fines de asistencia social que cumplan con los requisitos que al efecto establece la Ley de Desarrollo Social para el Estado y Municipios de San Luis Potosí, siempre y cuando sobre los mismos se vayan a ejecutar obras que representen, la satisfacción de servicios o necesidades de interés general para los habitantes del municipio, o bien, sirvan para la regularización de la tenencia de la tierra en favor de personas que no tengan otra propiedad registrada a nombre de ellas o de sus parientes por afinidad o consanguinidad hasta el cuarto grado. En todos los casos, tratándose de bienes adquiridos como área de donación, deberán de observarse los porcentajes y las restricciones que, para los inmuebles obtenidos como áreas de donación, establezca la Ley Local de Ordenamiento Territorial y Desarrollo Urbano, y cualquier otra disposición legal aplicable.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+Los ayuntamientos podrán donar sus bienes inmuebles sólo en favor de instituciones públicas, o de personas físicas o morales con fines de asistencia social, en concordancia con las disposiciones establecidas en la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, siempre y cuando sobre los mismos se vayan a ejecutar obras que representen, la satisfacción de servicios o necesidades de interés general para los habitantes del municipio, o bien, sirvan para la regularización de la tenencia de la tierra en favor de personas que no tengan otra propiedad registrada a nombre de ellas o de sus parientes por afinidad o consanguinidad hasta el cuarto grado. En todos los casos, tratándose de bienes adquiridos como área de donación, deberán de observarse los porcentajes y las restricciones que, para los inmuebles obtenidos como áreas de donación, establezca la Ley Local de Ordenamiento Territorial y Desarrollo Urbano, y cualquier otra disposición legal aplicable.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
@@ -3674,3 +3680,21 @@ P.O. 14 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0309.- QUE REFORMA EL ARTÍCULO 111, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA EL ARTÍCULO 37, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0312.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 89, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Una vez entrado en vigor el presente Decreto, los municipios contaran con un término de quince días hábiles, para nombrar a las y los integrantes de la Comisión Permanente Municipal de Asuntos de la Mujer, de acuerdo a las disposiciones de la propia Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
