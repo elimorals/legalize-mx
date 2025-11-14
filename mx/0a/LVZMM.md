@@ -4,7 +4,7 @@ identifier: "LVZMM"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-17"
-last_updated: "2020-04-13"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97456&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LVZMM"
 
 LEY DE VERTIMIENTOS EN LAS ZONAS MARINAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -780,7 +780,9 @@ Para el procedimiento económico coactivo previsto en este artículo se aplicar�
 
 Sin perjuicio de las sanciones a que se hagan acreedores los responsables del vertimiento por el incumplimiento de las acciones de remediación o del procedimiento económico coactivo previsto en el artículo anterior, la Secretaría ejercerá las acciones que procedan para recuperar los costos de la remedición, así como el pago de daños y perjuicios ocasionados por el vertimiento.
 
-Para las acciones a que se refiere el presente artículo se aplicarán las disposiciones del Código Federal de Procedimientos Civiles y en lo no previsto en la presente Ley respecto de la responsabilidad por daño o afectación al medio marino y los recursos naturales y ecosistemas que en él se desarrollan, se aplicarán supletoriamente el Código Civil Federal; la Ley General del Equilibrio Ecológico y la Protección al Ambiente y lo dispuesto en los Tratados Internacionales de los que México sea parte.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+Para las acciones a que se refiere el presente artículo se aplicarán las disposiciones del Código Nacional de Procedimientos Civiles y Familiares y en lo no previsto en la presente Ley respecto de la responsabilidad por daño o afectación al medio marino y los recursos naturales y ecosistemas que en él se desarrollan, se aplicarán supletoriamente el Código Civil Federal; la Ley General del Equilibrio Ecológico y la Protección al Ambiente y lo dispuesto en los Tratados Internacionales de los que México sea parte.
 
 ###### Artículo 62.
 
@@ -817,3 +819,21 @@ Primero. El presente Decreto entrará en vigor el día siguiente de su publicaci
 Segundo. La Secretaría, vigilará y regulará la disposición de aguas congénitas y los recortes de perforación, procedentes de actividades petroleras en el mar, hasta en tanto no exista la normatividad ambiental respectiva.
 
 Tercero. El artículo 3 Ter entrará en vigor al expedirse las Normas Oficiales Mexicanas a las que alude el segundo párrafo del artículo citado.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
