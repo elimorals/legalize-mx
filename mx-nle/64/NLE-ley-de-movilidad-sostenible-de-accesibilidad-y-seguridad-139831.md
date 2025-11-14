@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2025-10-03"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -1643,19 +1643,29 @@ XIV. Un representante de la Cámara Nacional de la Industria de Desarrollo y Pro
 
 XV. Un representante de la Cámara de la Industria de la Transformación en Nuevo León;
 
-XVI. Cuatro representantes de los prestadores del servicio de vehículos de alquiler nombrados respectivamente por las siguientes organizaciones en el Estado de Nuevo León: Asociación Neolonesa del Autotransporte Ecológico, ANAE, Confederación Revolucionaria de Obreros y Campesinos, CROC, la Confederación de Trabajadores de México, CTM y Sindicato de Trabajadores del Transporte en general, industria, construcción, similares y conexos;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-XVII. Dos representantes de Colectivos y Organizaciones No Gubernamentales, mismos que designará el Congreso del Estado, previa convocatoria pública; y
+XVI. Cuatro representantes de los prestadores del servicio de vehículos de alquiler nombrados respectivamente por las siguientes organizaciones en el Estado de Nuevo León, procurando la observancia del principio de paridad de género: Asociación Neolonesa del Autotransporte Ecológico, ANAE, Confederación Revolucionaria de Obreros y Campesinos, CROC, la Confederación de Trabajadores de México, CTM y Sindicato de Trabajadores del Transporte en general, industria, construcción, similares y conexos;
 
-XVIII. Un representante de colegios y asociaciones de arquitectos e ingenieros de Nuevo León, designados por el Congreso del Estado, previa convocatoria pública.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Dos representantes de Colectivos y Organizaciones No Gubernamentales, mismos que designará el Congreso del Estado, previa convocatoria pública procurando la observancia del principio de paridad de género; y
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Un representante de colegios y asociaciones de arquitectos e ingenieros de Nuevo León, designados por el Congreso del Estado, previa convocatoria pública, procurando la observancia del principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 Los integrantes que señalan la fracción (sic) XVII y XVIII durarán en su encargo un año a partir de su nombramiento. Los cargos dentro de la Junta de Gobierno serán de carácter honorífico, no obstante lo anterior, por los actos de Autoridad emitidos dentro de la Junta de Gobierno, serán sujetos de responsabilidad en los términos de la Ley de Responsabilidades Administrativas del Estado. Cada integrante deberá designar un suplente para que, debidamente acreditado, cubra sus ausencias temporales. La designación del suplente deberá recaer en una misma persona; esta atribución es indelegable a fin de garantizar la continuidad de los trabajos. Cuando un presidente municipal designe suplente, éste deberá ser otro presidente municipal. En el caso del Presidente de la Junta de Gobierno, su ausencia será suplida por la persona titular de la Secretaria. En el caso de los Secretarios del Gabinete, su suplente deberá ser un subsecretario.
 
-Los Presidentes Municipales Metropolitanos, serán designados por la Comisión de Ordenamiento Metropolitano de Desarrollo Urbano de la Zona Metropolitana de Monterrey por un periodo de un año, a falta de ésta por la Comisión de la Zona Conurbada de Monterrey.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-Los Presidentes no Metropolitanos, serán designados por la Comisión Estatal de Desarrollo Urbano por un periodo de un año.
+Los Presidentes Municipales Metropolitanos, serán designados por la Comisión de Ordenamiento Metropolitano de Desarrollo Urbano de la Zona Metropolitana de Monterrey por un periodo de un año procurando la observancia del principio de paridad de género, a falta de ésta por la Comisión de la Zona Conurbada de Monterrey.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+Los Presidentes no Metropolitanos, serán designados por la Comisión Estatal de Desarrollo Urbano por un periodo de un año procurando la observancia del principio de alternancia de género.
 
 El comisario asistirá a las sesiones de la Junta de Gobierno con derecho a voz
 
@@ -1739,9 +1749,11 @@ IV. Las demás que ésta Ley, el Reglamento del Instituto y otras disposiciones 
 
 El Presidente del Comité de Vigilancia será el Comisario del Instituto.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 35.
 
-Los vocales del Comité de Vigilancia serán electos entre ciudadanos que participen de la convocatoria que para tal efecto se emita y satisfagan los requisitos que determine el Reglamento Interior y conforme al procedimiento que contenga dicha convocatoria. Dichos cargos serán honoríficos. El secretario técnico será designado conforme lo señale el Reglamento.
+Los vocales del Comité de Vigilancia serán electos entre ciudadanos que participen de la convocatoria que para tal efecto se emita y satisfagan los requisitos que determine el Reglamento Interior y conforme al procedimiento que contenga dicha convocatoria, procurando la observancia del principio de paridad de género. Dichos cargos serán honoríficos. El secretario técnico será designado conforme lo señale el Reglamento.
 
 ###### Artículo 36.
 
@@ -1935,7 +1947,9 @@ III. Un Secretario que será el Director Técnico del Comité Técnico;
 
 IV. Vocales:
 
-a) Nueve representantes ciudadanos, que serán electos por convocatoria pública del Instituto y ratificados por el Congreso del Estado en los términos de la convocatoria respectiva;
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+a) Nueve representantes ciudadanos, que serán electos por convocatoria pública del Instituto y ratificados por el Congreso del Estado en los términos de la convocatoria respectiva, procurando la observancia del principio de paridad de género;
 
 b) Un representante de la Secretaría General de Gobierno;
 
@@ -4882,3 +4896,9 @@ P.O. 3 DE OCTUBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Los Municipios del estado de Nuevo León deberán ajustar y homologar sus reglamentos de tránsito correspondientes a las disposiciones contenidas en el presente decreto en un término no mayor a 90-noventa días naturales contados a partir de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 146. SE REFORMA LA FRACCIÓN XVI, XVII, XVIII, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 27, EL ARTÍCULO 35, EL INCISO A) DE LA FRACCIÓN IV DEL ARTÍCULO 50, TODO DE LA LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
