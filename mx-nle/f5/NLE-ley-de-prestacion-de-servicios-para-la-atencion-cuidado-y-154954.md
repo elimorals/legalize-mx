@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-15495
 country: "mx"
 rank: "ley"
 publication_date: "2022-01-28"
-last_updated: "2022-01-28"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Número 16 del Periódico Oficial del Estado de Nuevo León, el viernes 28 de enero de 2022.
 
@@ -321,7 +321,9 @@ VII. La Secretaría del Trabajo; y
 
 VIII. La Dirección de Protección Civil.
 
-Serán invitados permanentes a las sesiones del Consejo, el titular de la Presidencia de la Comisión de Salud y Atención a Grupos Vulnerables del H. Congreso del Estado, del Instituto Estatal de las Mujeres y de la Comisión Estatal de Derechos Humanos, quienes tendrán derecho a voz.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+Serán invitados permanentes a las sesiones del Consejo, el titular de la Presidencia de la Comisión de la Familia y Derechos de la Primera Infancia, Niñas, Niños y Adolescentes del H. Congreso del Estado, del Instituto Estatal de las Mujeres, de la Comisión Estatal de Derechos Humanos y de la persona titular de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes en el Estado de Nuevo León, quienes tendrán derecho a voz.
 
 Los nombramientos en el Consejo serán honoríficos e institucionales.
 
@@ -836,3 +838,11 @@ MTRO. FEDERICO ROJAS VELOQUIO
 LA C. SECRETARIA DE EDUCACIÓN
 
 DRA. SOFÍA LETICIA MORALES GARZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 144. SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 23 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
