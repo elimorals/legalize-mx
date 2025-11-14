@@ -4,7 +4,7 @@ identifier: "LSCT"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-02"
-last_updated: "2021-05-20"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSCT"
 
 LEY SOBRE LA CELEBRACION DE TRATADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 2 de enero de 1992.
 
@@ -116,9 +116,11 @@ El Gobierno de los Estados Unidos Mexicanos no reconocerá cualquier resolución
 
 De conformidad con los tratados aplicables, el Presidente de la República nombrará, en los casos en que la Federación sea parte en los mecanismos internacionales para la solución de controversias legales a los que se refiere el artículo 8o. a quienes participen como árbitros, comisionados o expertos en los órganos de decisión de dichos mecanismos.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 11.
 
-Las sentencias, laudos arbitrales y demás resoluciones jurisdiccionales derivados de la aplicación de los mecanismos internacionales para la solución de controversias legales a que se refiere el artículo 8o., tendrán eficacia y serán reconocidos en la República, y podrán utilizarse como prueba en los casos de nacionales que se encuentren en la misma situación jurídica, de conformidad con el Código Federal de Procedimientos Civiles y los tratados aplicables.
+Las sentencias, laudos arbitrales y demás resoluciones jurisdiccionales derivados de la aplicación de los mecanismos internacionales para la solución de controversias legales a que se refiere el artículo 8o., tendrán eficacia y serán reconocidos en la República, y podrán utilizarse como prueba en los casos de nacionales que se encuentren en la misma situación jurídica, de conformidad con el Código Nacional de Procedimientos Civiles y Familiares y los tratados aplicables.
 
 ## TRANSITORIO
 
@@ -199,3 +201,21 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
