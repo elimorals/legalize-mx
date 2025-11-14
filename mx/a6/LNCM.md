@@ -4,7 +4,7 @@ identifier: "LNCM"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-01"
-last_updated: "2020-12-07"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50527&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de junio de 2006.
 
@@ -144,7 +144,9 @@ V. La Ley Federal de Competencia Económica;
 
 VI. La Ley Federal de Procedimiento Administrativo;
 
-VII. Los Códigos Civil Federal y Federal de Procedimientos Civiles;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+VII. Los Códigos Civil Federal y Nacional de Procedimientos Civiles y Familiares;
 
 VIII. La Ley del Contrato de Seguro y la Ley General de Instituciones y Sociedades Mutualistas de Seguros;
 
@@ -1484,9 +1486,11 @@ III. Indemnizaciones por daños ocasionados a la embarcación o artefacto naval,
 
 IV. Indemnizaciones de seguro.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 105.
 
-La acción hipotecaria prescribirá en tres años, contados a partir del vencimiento del crédito que garantiza. Para la ejecución de la hipoteca marítima se estará a lo dispuesto en el título respectivo de esta Ley y supletoriamente a lo dispuesto en el Código Federal de Procedimientos Civiles.
+La acción hipotecaria prescribirá en tres años, contados a partir del vencimiento del crédito que garantiza. Para la ejecución de la hipoteca marítima se estará a lo dispuesto en el título respectivo de esta Ley y supletoriamente a lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 106.
 
@@ -2532,9 +2536,11 @@ La relación jurídica existente entre vendedor y comprador será independiente 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 264.
 
-Salvo lo dispuesto expresamente en esta Ley, a los procesos y procedimientos de naturaleza marítima regulados en este título se les aplicarán de modo supletorio, las normas del Código de Comercio, y, en su defecto, las del Código Federal de Procedimientos Civiles.
+Salvo lo dispuesto expresamente en esta Ley, a los procesos y procedimientos de naturaleza marítima regulados en este título se les aplicarán de modo supletorio, las normas del Código de Comercio, y, en su defecto, las del Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
@@ -2652,9 +2658,11 @@ Será competente para conocer del embargo precautorio el Juez de Distrito del lu
 
 ### CAPÍTULO III. EJECUCIÓN DE LA HIPOTECA MARÍTIMA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 275.
 
-Es competente para conocer del proceso hipotecario marítimo, el Juez de Distrito con jurisdicción en el domicilio del deudor o en el del puerto de matrícula de la embarcación, a elección del actor, y para su tramitación, se observarán las reglas del Capítulo III del Título Séptimo "Del Juicio Hipotecario" del Código de Procedimientos Civiles para el Distrito Federal, en lo no previsto en las fracciones siguientes:
+Es competente para conocer del proceso hipotecario marítimo, el Juez de Distrito con jurisdicción en el domicilio del deudor o en el del puerto de matrícula de la embarcación, a elección del actor, y para su tramitación, se observarán las reglas del Juicio hipotecario del Código Nacional de Procedimientos Civiles y Familiares, en lo no previsto en las fracciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
@@ -3173,3 +3181,21 @@ Quinto. Los derechos laborales del personal que, en virtud de lo dispuesto en el
 Sexto. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
 
 Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
