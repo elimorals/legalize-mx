@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2024-12-26"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURÍA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2024.
 
@@ -496,11 +496,11 @@ Los proveedores están obligados a informar de inmediato a las autoridades si de
 
 En el caso de la medida precautoria a que se refiere la fracción VII de este precepto, la Procuraduría podrá requerir al proveedor que remita la información que obre en sus archivos o bases de datos, tal como: el número de consumidores notificados, cantidad de productos o servicios involucrados y su distribución geográfica, las acciones, plazos, calendarios, programas de mantenimiento o de pago, cartas compromiso, presupuestos o cualquiera otra medida dirigida a cumplirlas, y podrá supervisar la disposición de los productos o servicios involucrados y los avances en la atención a los consumidores.
 
-> <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 26.
 
-Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad o grupo de consumidores, la Procuraduría, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad o grupo de consumidores, la Procuraduría, así como cualquier legitimado a que se refiere el artículo 862 del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva.
 
 ###### ARTICULO 27.
 
@@ -1800,7 +1800,9 @@ La Procuraduría podrá emitir un acuerdo de trámite que contenga el dictamen a
 
 De toda audiencia se levantará el acta respectiva. En caso de que el proveedor no firme el acta, ello no afectará su validez, debiéndose hacer constar dicha negativa.
 
-Para la sustanciación del procedimiento de conciliación a que se refiere el presente Capítulo, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+Para la sustanciación del procedimiento de conciliación a que se refiere el presente Capítulo, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -2580,31 +2582,23 @@ Para efectuar el pago de las cantidades que resulten de la actualización, para 
 
 ÚNICO.- El presente Acuerdo deberá ser publicado en el Diario Oficial de la Federación y entrará en vigor el 01 de enero del 2025.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1459.- MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA.
+D.O.F. 14 DE NOVIEMBRE DE 2025.
 
-PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
 
-SEGUNDO. Se abroga la Ley para Prevenir Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos en el Estado de Oaxaca, aprobada mediante decreto número 1251 de fecha 6 de junio de 2012 y publicada el 22 de junio de 2012.
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía a la presente Ley vigentes en el Estado.
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 
-CUARTO. El Titular del Poder Ejecutivo del Estado de Oaxaca, contará con el plazo de sesenta días, contados a partir de la entrada en vigor de la presente Ley, para crear la Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas.
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 
-QUINTO. El ejecutivo del Estado establecerá un fondo para la protección y asistencia a las víctimas de los delitos previstos en la presente Ley.
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
 
-Hasta en tanto no se integre el Fondo a que se refiere la presente Ley se seguirá aplicando el Fondo de Ayuda, Asistencia y Reparación Integral en el Estado de Oaxaca al que se refiere la Ley de Víctimas del Estado de Oaxaca.
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 
-SEXTO. La Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas, una vez creada, contará con el término de noventa días para elaborar su Reglamento Interno.
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 
-SÉPTIMO. La Fiscalía General del Estado contará con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar su Fiscalía Especializada para la investigación del delito de trata de personas, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
-
-OCTAVO. Las disposiciones relativas a los delitos a que se refiere esta Ley previstas en el Código Penal para el Estado Libre y Soberano de Oaxaca vigentes hasta la entrada en vigor de la presente Ley, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
-
-NOVENO. La Fiscalía General del Estado de Oaxaca, capacitará a su personal en materia de planeación de investigación dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
-
-DÉCIMO. La Fiscalía General del Estado de Oaxaca, contará con el término de ciento ochenta días naturales para la implementación de los programas a que se refiere esta Ley, en coordinación con la Secretaría General de Gobierno y demás entes intervinientes.
-
-P.O. 16 DE JUNIO DE 2018.
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1395.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.]
 
