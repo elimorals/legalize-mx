@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-125101"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-19"
-last_updated: "2025-06-27"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección al Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2017.
 
@@ -143,7 +143,9 @@ I. Iniciar y presentar ante el Congreso las leyes y decretos;
 
 II. Solicitar al Congreso, que inicie ante el Legislativo Federal las leyes y decretos que a dicha instancia competan;
 
-III. Asistir el 30 de noviembre de cada año al Congreso a informar sobre el estado que guarda la administración pública. En el año de cambio de Titular del Ejecutivo, de acuerdo con el legislativo, se escogerá un día dentro de la primera quincena del mes de noviembre para cumplir con esta obligación;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+III. Asistir al Congreso dentro de los últimos quince días de noviembre de cada año a informar sobre el estado que guarda la administración pública y dentro de los primeros quince días del mes de noviembre del año que corresponda tratándose del último año de su gestión. Para cumplir con esta obligación, de acuerdo con el Poder Legislativo, se escogerá un día dentro de los periodos antes señalados;
 
 IV. Determinar los distritos notariales, las zonas de desarrollo económico, las de desarrollo metropolitano, así como las demás circunscripciones que se requieran para la buena marcha de la administración pública;
 
@@ -2012,3 +2014,11 @@ Por única ocasión para la integración e instalación del Consejo del Subsiste
 ###### ARTÍCULO DÉCIMO NOVENO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 315.- SE REFORMA LA FRACCIÓN III, DEL APARTADO A DEL ARTÍCULO 9, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
