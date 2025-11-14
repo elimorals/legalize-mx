@@ -4,7 +4,7 @@ identifier: "LISF"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-04"
-last_updated: "2024-01-24"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93451&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISF"
 
 LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Segunda y Tercera Sección del Diario Oficial de la Federación, el jueves 4 de abril de 2013.
 
@@ -2574,7 +2574,9 @@ j) A falta de postores, la Institución tendrá la facultad de adjudicarse el in
 
 k) El producto de la venta será entregado a la Institución y, en su caso, a la fiduciaria, para que se aplique en la cantidad necesaria a recuperar lo pagado por la Institución, los accesorios del caso, los gastos y costas respectivos, así como las primas que estuvieren pendientes de pago, todo ello con base en los términos de la contratación con el deudor hipotecario o con el fideicomitente, según sea el caso. De existir algún remanente, se pondrá a disposición de este último y, en su caso, se hará la consignación respectiva, acompañando la documentación relativa a las aplicaciones a que se refiere este inciso, y
 
-l) Para lo que no se encuentre previsto en las presentes reglas, se aplicará supletoriamente el Código Federal de Procedimientos Civiles, en la inteligencia de que en todo momento las Instituciones estarán obligadas a respetar los derechos de los acreedores preferentes.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+l) Para lo que no se encuentre previsto en las presentes reglas, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares, en la inteligencia de que en todo momento las Instituciones estarán obligadas a respetar los derechos de los acreedores preferentes.
 
 ###### ARTÍCULO 194.
 
@@ -3938,7 +3940,9 @@ Los intermediarios del mercado de valores y las instituciones depositarias de lo
 
 b) Tratándose de mandamientos de embargo dictados por la autoridad judicial o administrativa, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros determinará los bienes de la Institución que deban afectarse en garantía exclusiva del cumplimiento de las obligaciones por las que se ordenó el embargo. La referida Comisión dictará las disposiciones de carácter general sobre el depósito de dichos bienes;
 
-VI. El Código de Comercio y el Código Federal de Procedimientos Civiles, en ese orden, son supletorios de las reglas procesales contenidas en este artículo y son aplicables al juicio todas las instituciones procesales que establecen dichos ordenamientos;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+VI. El Código de Comercio y el Código Nacional de Procedimientos Civiles y Familiares, en ese orden, son supletorios de las reglas procesales contenidas en este artículo y son aplicables al juicio todas las instituciones procesales que establecen dichos ordenamientos;
 
 VII. Los particulares podrán elegir libremente jueces federales o locales para el trámite de su reclamación, y
 
@@ -3948,7 +3952,9 @@ VIII. Las Instituciones tendrán derecho, en los términos de la legislación ap
 
 Las fianzas que se otorguen ante autoridades judiciales, que no sean del orden penal, se harán efectivas a elección de los acreedores de la obligación principal, siguiendo los procedimientos establecidos en los artículos 279 y 280 de la presente Ley.
 
-Para el caso de que se hagan exigibles las fianzas señaladas en el párrafo anterior, durante la tramitación de los procesos en los que hayan sido exhibidas, el acreedor de la obligación principal podrá iniciar un incidente para su pago, ante la propia autoridad judicial que conozca del proceso de que se trate, en los términos del Código Federal de Procedimientos Civiles. En este supuesto, al escrito incidental se acompañarán los documentos que justifiquen la exigibilidad de la obligación garantizada por la fianza.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+Para el caso de que se hagan exigibles las fianzas señaladas en el párrafo anterior, durante la tramitación de los procesos en los que hayan sido exhibidas, el acreedor de la obligación principal podrá iniciar un incidente para su pago, ante la propia autoridad judicial que conozca del proceso de que se trate, en los términos del Código Nacional de Procedimientos Civiles y Familiares. En este supuesto, al escrito incidental se acompañarán los documentos que justifiquen la exigibilidad de la obligación garantizada por la fianza.
 
 ###### ARTÍCULO 282.
 
@@ -6574,7 +6580,9 @@ En los procedimientos administrativos de imposición de sanciones previstos en e
 
 Una vez desahogado el derecho de audiencia a que se refiere el artículo 478 de esta Ley, o bien presentado el escrito mediante el cual se interponga recurso de revocación, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
 
-La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### ARTÍCULO 480.
 
@@ -7237,3 +7245,21 @@ Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de en
 Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
 
 Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
