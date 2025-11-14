@@ -4,7 +4,7 @@ identifier: "LRFIYII_ART105"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-11"
-last_updated: "2025-04-03"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8654&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRFIYII_ART105"
 
 LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de mayo de 1995.
 
@@ -40,11 +40,11 @@ LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTICULO 105 DE LA CONSTITUCION P
 
 ## Título I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 1o.
 
-La Suprema Corte de Justicia de la Nación conocerá y resolverá con base en las disposiciones del presente Título, las controversias constitucionales en las que se hagan valer violaciones a la Constitución Política de los Estados Unidos Mexicanos, así como las acciones de inconstitucionalidad a que se refieren las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos. A falta de disposición expresa, se estará a las prevenciones del Código Federal de Procedimientos Civiles.
+La Suprema Corte de Justicia de la Nación conocerá y resolverá con base en las disposiciones del presente Título, las controversias constitucionales en las que se hagan valer violaciones a la Constitución Política de los Estados Unidos Mexicanos, así como las acciones de inconstitucionalidad a que se refieren las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos. A falta de disposición expresa, se estará a las prevenciones del Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### ARTICULO 2o.
 
@@ -925,3 +925,21 @@ II. Las razones que justifiquen las decisiones de las sentencias aprobadas por c
 III. Siempre que las controversias versen sobre disposiciones generales de las entidades federativas, de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por la Federación; de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por las entidades federativas, o en los casos a que se refieren los incisos c), h), k) y l) de la fracción I del artículo 105 constitucional, y la resolución de la Suprema Corte de Justicia las declare inválidas, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por una mayoría de por lo menos ocho votos.
 
 Tercero. Lo previsto en el transitorio anterior será aplicable en la resolución de todos los asuntos que se encuentren admitidos o pendientes de resolución al momento de la entrada en vigor del presente Decreto, independientemente de la etapa en la que se encuentren dichos asuntos; así como para los que se admitan con posterioridad, y previo a la toma de protesta referida en el artículo anterior.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
