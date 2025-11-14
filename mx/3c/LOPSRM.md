@@ -4,7 +4,7 @@ identifier: "LOPSRM"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2025-04-16"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15294&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LOPSRM"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -276,13 +278,13 @@ Corresponde a las dependencias y entidades llevar a cabo los procedimientos para
 
 En los casos de obras públicas y servicios relacionados con las mismas financiados con fondos provenientes de créditos externos otorgados al gobierno federal o con su garantía por organismos financieros regionales o multilaterales, los procedimientos, requisitos y demás disposiciones para su contratación serán establecidos con la opinión de Hacienda, por la Secretaría, aplicando en lo procedente lo dispuesto por esta Ley y deberán precisarse en las convocatorias, invitaciones y contratos correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 13.
 
-Serán supletorias de esta Ley y de las demás disposiciones que de ella se deriven, en lo que corresponda, el Código Civil Federal, la Ley Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles.
+Serán supletorias de esta Ley y de las demás disposiciones que de ella se deriven, en lo que corresponda, el Código Civil Federal, la Ley Federal de Procedimiento Administrativo y el Código Nacional de Procedimientos Civiles y Familiares.
+
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2009)</small>
 
 Lo anterior sin perjuicio de lo dispuesto en el artículo 79 de la presente Ley.
 
@@ -2090,8 +2092,6 @@ Las dependencias y entidades, dentro de los quince días naturales siguientes a 
 
 La Secretaría impondrá las sanciones considerando:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 28 DE MAYO DE 2009)</small>
 
 I. Los daños o perjuicios que se hubieren producido con motivo de la infracción;
@@ -2104,9 +2104,9 @@ III. La gravedad de la infracción, y
 
 IV. Las condiciones del infractor.
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
-En la tramitación del procedimiento para imponer las sanciones a que se refiere este Título, la Secretaría deberá observar lo dispuesto por el Título Cuarto y demás aplicables de la Ley Federal de Procedimiento Administrativo, aplicando supletoriamente tanto el Código Civil Federal, como el Código Federal de Procedimientos Civiles.
+En la tramitación del procedimiento para imponer las sanciones a que se refiere este Título, la Secretaría deberá observar lo dispuesto por el Título Cuarto y demás aplicables de la Ley Federal de Procedimiento Administrativo, aplicando supletoriamente tanto el Código Civil Federal, como el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
 
@@ -2805,3 +2805,21 @@ Décimo.- Los lineamientos y disposiciones a que hace referencia esta Ley deber�
 Las políticas, bases y lineamientos a que hace referencia el artículo 1 Quinquies de la Ley deberán ser emitidas en un plazo no mayor a ocho meses contados a partir de la entrada en vigor del presente Decreto. En tanto no se emitan dichas políticas, bases y lineamientos, las dependencias y entidades continuarán utilizando las disposiciones vigentes.
 
 Décimo Primero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones líquidas para el presente ejercicio fiscal o subsecuentes.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
