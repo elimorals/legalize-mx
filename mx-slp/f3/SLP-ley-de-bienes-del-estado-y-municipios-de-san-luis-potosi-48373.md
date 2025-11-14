@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2021-02-26"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -489,11 +489,11 @@ En los contratos de permuta celebrados sobre inmuebles del dominio privado del E
 
 En los contratos de donación de bienes inmuebles del dominio privado del Estado y municipios, si el donatario no utiliza los bienes para el fin señalado dentro del plazo que determine el Congreso del Estado en el decreto respectivo en el caso del Estado, y para los fines y el plazo autorizados por el Cabildo en el caso de los municipios; o si habiéndolo hecho, diere a éste un uso distinto, o suspenda sus actividades por más de un año, la donación será revocada, y tanto el bien como sus mejoras, se revertirán de plano en favor de la autoridad donante, previo juicio tramitado ante la autoridad competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 37.
 
-Los bienes del dominio privado del Estado sólo podrán ser donados a instituciones o asociaciones privadas, cuando éstas persigan fines no lucrativos; asimismo, podrán ser donados en forma condicionada y previo estudio que así lo justifique, a entidades o instituciones generadoras de empleo en regiones o zonas marginadas de la Entidad. Los bienes del dominio privado de los municipios sólo podrán ser donados a personas morales con fines de asistencia social que cumplan con los requisitos que al efecto establece la Ley de Desarrollo Social para el Estado y Municipios de San Luis Potosí, siempre y cuando sobre los mismos se vayan a ejecutar obras que representen la satisfacción de servicios o necesidades de interés general para los habitantes del municipio. En estos casos también procederá la revocación y reversión de los mismos al patrimonio del Estado, y de los municipios, en los términos del artículo que antecede, si aquéllas cambian la naturaleza de su objeto o su carácter no lucrativo, o bien dejan de cumplir sus objetivos o se extingue su personalidad jurídica.
+Los bienes del dominio privado del Estado sólo podrán ser donados a instituciones o asociaciones privadas, cuando éstas persigan fines no lucrativos; asimismo, podrán ser donados en forma condicionada y previo estudio que así lo justifique, a entidades o instituciones generadoras de empleo en regiones o zonas marginadas de la Entidad. Los bienes del dominio privado de los municipios sólo podrán ser donados a instituciones públicas y personas físicas o morales con fines de asistencia social, en concordancia con las disposiciones establecidas en la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, siempre y cuando sobre los mismos se vayan a ejecutar obras que representen la satisfacción de servicios o necesidades de interés general para los habitantes del municipio. En estos casos también procederá la revocación y reversión de los mismos al patrimonio del Estado, y de los municipios, en los términos del artículo que antecede, si aquéllas cambian la naturaleza de su objeto o su carácter no lucrativo, o bien dejan de cumplir sus objetivos o se extingue su personalidad jurídica.
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2010)</small>
 
@@ -760,3 +760,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Las solicitudes que se encuentren en trámite ante el Congreso del Estado deberán declararse sin materia, y remitir la documentación exhibida al ayuntamiento peticionario.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0309.- QUE REFORMA EL ARTÍCULO 111, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA EL ARTÍCULO 37, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
