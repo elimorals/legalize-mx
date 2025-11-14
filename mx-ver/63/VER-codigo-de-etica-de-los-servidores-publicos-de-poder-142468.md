@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-etica-de-los-servidores-publicos-de-poder-142468"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-03-12"
-last_updated: "2020-04-03"
+last_updated: "2025-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 14 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 3 DE ABRIL DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE NOVIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en el Número Extraordinario 104 de la Gaceta Oficial del Estado de Veracruz, el jueves 12 de marzo de 2020.
 
@@ -612,3 +612,17 @@ f. Obligar a realizar actividades que no competen a las labores del servidor pú
 g. Expresar comentarios, burlas, piropos o bromas hacia otra persona referentes a la apariencia o a la anatomía, con connotación sexual, presencialmente o por algún medio de comunicación, y
 
 h. Emitir expresiones o utilizar lenguaje que denigre a las personas o pretenda colocarlas como objetos sexuales.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. El presente Acuerdo entrará en vigor el día hábil siguiente de su publicación.
+
+Tercero. Se abroga el Acuerdo por el que se emite el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, publicado el 12 de marzo de 2020 en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave en el número extraordinario 104, Tomo III, así como cualquier otra disposición que contravenga lo establecido en el presente Acuerdo.
+
+Cuarto. Las Dependencias y Entidades, deberán actualizar o emitir sus Códigos de Conducta en el Servicio Público, en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente Acuerdo.
