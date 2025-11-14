@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-medios-de-impugnacion-electorales-de-tamaulipas-66394"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-29"
-last_updated: "2025-10-28"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre de 2008.
 
@@ -1721,6 +1721,186 @@ El Titular del Órgano Interno de Control durará en su encargo seis años cumpl
 
 Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización del Estado a que se refiere el artículo 76 de la Constitución Política del Estado de Tamaulipas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+### CAPITULO VIII. Defensoría de los Derechos Político-Electorales de la Ciudadanía
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 119.
+
+El Tribunal contará con una Defensoría de los Derechos Político-Electorales de la Ciudadanía, dotada de autonomía técnica y de gestión, cuya finalidad es brindar en favor de la ciudadanía de manera gratuita, los servicios de asesoría y defensa en los procesos democráticos en la entidad que se solventen ante el Tribunal.
+
+La Defensoría tiene por objeto ser una instancia accesible a la ciudadanía, para la defensa de sus derechos político-electorales reconocidos en la Constitución y en esta Ley y contará con una dirección de correo electrónico institucional para oír y recibir notificaciones electrónicas.
+
+Los servicios de esta defensoría solo se brindarán a las y los ciudadanos y no así a partidos políticos o sus representantes.
+
+Este servicio se prestará bajo los principios de probidad, honradez, gratuidad profesionalismo y de manera obligatoria en los términos que establezcan las leyes.
+
+La defensa y representación jurídica podrá ejercerse ante las siguientes autoridades:
+
+a) El Organismo Público Local Electoral de Tamaulipas;
+
+b) El Tribunal Electoral del Estado de Tamaulipas;
+
+c) La Sala Regional correspondiente a la Circunscripción Electoral Plurinominal del Tribunal Electoral del Poder Judicial de la Federación; y
+
+d) La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 120.
+
+La Defensoría de los Derechos Político-Electorales de la Ciudadanía se integrará cuando menos por el personal siguiente:
+
+I. Un Titular; y
+
+II. El personal de apoyo que sea necesario para el cumplimiento de sus atribuciones.
+
+Con base en las previsiones legales establecidas, se acordará lo conducente para que se le proporcione a la Defensoría de los Derechos Político-Electorales de la Ciudadanía los recursos humanos y materiales necesarios para el cumplimiento de sus atribuciones, así como un espacio físico dentro de sus instalaciones para atención a la ciudadanía con diseño de fácil acceso.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 121.
+
+La Defensoría de los Derechos Político-Electorales de la Ciudadanía se integrará por el siguiente personal:
+
+I. Una persona titular, quien será nombrada por el Pleno del Tribunal a propuesta de la Presidencia, por un periodo de seis años, pudiendo ser reelecta por un periodo adicional;
+
+II. Un mínimo de dos defensoras o defensores; y
+
+III. El personal de apoyo necesario para el cumplimiento de sus atribuciones, de conformidad con el presupuesto autorizado. En todas las designaciones deberá garantizarse la paridad dinámica de género.
+
+La persona titular de la Defensoría de los Derechos Político-electorales de la Ciudadanía, tendrá el nivel jerárquico de una dirección general respecto del ámbito de la administración gubernamental estatal.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 122.
+
+Para ser titular de la Defensoría de los Derechos Político-Electorales de la Ciudadanía se deberán cumplir los siguientes requisitos:
+
+I. Contar con título y cédula profesional de licenciatura en derecho, con una antigüedad mínima de cinco años;
+
+II. Acreditar experiencia y conocimientos en materia electoral; y
+
+III. Reunir los requisitos exigidos para el cargo de Secretario General de Acuerdos.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 123.
+
+La persona titular de la Defensoría de los Derechos Político-Electorales de la Ciudadanía podrá causar baja en los siguientes casos:
+
+I. Por renuncia voluntaria presentada por escrito;
+
+II. Por incapacidad física o mental que le impida el desempeño de sus funciones;
+
+III. Por incumplimiento grave de sus atribuciones o violación a los principios que rigen la Defensoría;
+
+IV. Por resolución firme que lo inhabilite para el ejercicio de funciones públicas; y
+
+V. Por cualquier otra causa que determine la legislación aplicable. En caso de vacancia del titular, el Pleno del Tribunal designará a la persona que lo sustituya por el periodo restante de la gestión, garantizando la continuidad del funcionamiento de la Defensoría.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 124.
+
+Son atribuciones de la persona titular de la Defensoría de los Derechos Político-Electorales de la Ciudadanía:
+
+I. Diseñar e implementar el programa anual de difusión sobre los derechos político-electorales de la ciudadanía en el Estado y de los servicios que presta, apoyándose de las instituciones afines al tema;
+
+II. Coordinar, vigilar y dar seguimiento a los asuntos y servicios que presta la Defensoría;
+
+III. Emitir dictámenes o acuerdos fundados y motivados en los que se justifique la prestación o no de los servicios solicitados;
+
+IV. Coadyuvar en la organización y participar en eventos académicos y reuniones, con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos político-electorales en el Estado;
+
+V. Promover y gestionar la celebración de convenios con instituciones públicas y privadas que contribuyan al correcto cumplimiento de las funciones de la Defensoría;
+
+VI. Coadyuvar con el Tribunal al acceso pleno a la jurisdicción electoral, al debido proceso y a la tutela judicial efectiva, a fin de garantizar los derechos político-electorales de la ciudadanía;
+
+VII. Atender los requerimientos de las distintas áreas del Tribunal que se le formulen en el ámbito de su competencia;
+
+VIII. Rendir un informe semestral a la persona titular de la Presidencia del Tribunal sobre las actividades de defensoría que realice;
+
+IX. Actualizar de manera trimestral la información pública de las obligaciones comunes de transparencia;
+
+X. Colaborar con el área de Transparencia y Acceso a la Información en las respuestas a las solicitudes de acceso a la información que, por las facultades, atribuciones o funciones del área, le competan;
+
+XI. Designar a las personas autorizadas para oír y recibir notificaciones e imponerse en autos, siempre que cuenten con la autorización previa e informada de la persona promovente;
+
+XII. Proponer al Tribunal mejoras, lineamientos y políticas internas que contribuyan al fortalecimiento de la defensa de los derechos político-electorales de la ciudadanía, así como coordinar programas de capacitación y actualización dirigidos al personal de la Defensoría en materia electoral y de derechos político-electorales; y
+
+XIII. Expedir la normatividad interna necesaria para el debido funcionamiento de la Defensoría, conforme a las disposiciones aplicables y a los acuerdos del Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 125.
+
+Para ser defensora o defensor se deberán cumplir con los mismos requisitos establecidos para el titular de la Defensoría y tendrán las siguientes funciones:
+
+I. Desahogar las consultas que les sean formuladas, orientando sobre la naturaleza, contenido y alcances de los derechos político-electorales de la ciudadanía;
+
+II. Representar y asesorar a las personas que lo soliciten, velando por la protección de sus intereses en los procesos jurisdiccionales que se tramiten;
+
+III. Presentar, promover e interponer los actos, promociones, medios de impugnación y recursos necesarios para defender y salvaguardar los derechos político-electorales;
+
+IV. Requerir a sus representadas o representados, allegarse de todos los documentos y elementos necesarios para ejercer debidamente sus atribuciones y defender eficazmente los derechos político-electorales;
+
+V. Tramitar y vigilar los procesos en que intervengan, informando periódicamente a la persona titular de la Defensoría, así como a las personas asesoradas, sobre el estado procesal de los mismos;
+
+VI. Llevar un registro y formar un expediente de control de todos los procedimientos o asuntos en los que intervengan; y
+
+VII. Desempeñar las demás funciones que se deriven de la naturaleza de sus atribuciones, de las disposiciones aplicables y de las instrucciones que les imparta la persona titular de la Defensoría.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 126.
+
+La Defensoría de los Derechos Político-Electorales de la Ciudadanía se abstendrá de intervenir en los siguientes supuestos:
+
+I. Cuando los servicios se estén prestando en forma gratuita por una institución pública o privada distinta a la Defensoría;
+
+II. Cuando la persona promovente designe a otras personas distintas a la Defensoría para que ejerzan la representación;
+
+III. Cuando técnica o procesalmente resulte inviable la prestación de los servicios;
+
+IV. Cuando la defensa o asesoría no versen sobre derechos político-electorales en relación con quienes aspiren o desempeñen algún cargo de elección popular; y
+
+V. Cuando los asuntos no sean competencia del Tribunal; en este caso, la abstención de actuar deberá sustentarse en un dictamen o acuerdo fundado y motivado, propuesto por la defensora o el defensor correspondiente y aprobado por la persona titular de la Defensoría.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 127.
+
+Los servicios de la Defensoría de los Derechos Político-Electorales de la Ciudadanía dejarán de prestarse en los siguientes casos:
+
+I. A petición expresa de la persona representada, en el sentido de que no tiene interés en que se continúe prestando el servicio correspondiente;
+
+II. Cuando se incurra en actos de violencia, amenaza o injuria en contra de la Defensoría o de su personal;
+
+III. Cuando se proporcionen dolosamente datos falsos; y
+
+IV. Por causa grave debidamente justificada, previo derecho de audiencia para que la persona interesada alegue lo que a su derecho convenga.
+
+En cualquiera de los supuestos anteriores, la persona titular de la Defensoría, así como las defensoras o defensores, no serán responsables de ninguna consecuencia derivada de la interrupción o no continuidad en la prestación de los servicios.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 128.
+
+A la persona titular de la Defensoría, así como a las defensoras y defensores, les está prohibido:
+
+I. Recibir contraprestación alguna por los servicios propios de la Defensoría;
+
+II. Ejercer la profesión de abogado de manera particular en materia electoral, salvo cuando se trate de asuntos propios, de su cónyuge o concubina(o), así como de sus parientes consanguíneos en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado, por afinidad o civil;
+
+III. Desempeñar cualquier otro empleo, cargo o comisión remunerados en cualquiera de los tres órdenes de gobierno o en los órganos autónomos, salvo las actividades docentes o de investigación;
+
+IV. Conocer o tramitar asuntos cuando se encuentren impedidos para ello; y
+
+V. Las demás que deriven de la naturaleza de sus atribuciones o de las disposiciones aplicables.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1818,3 +1998,19 @@ P.O. 28 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-551 MEDIANTE EL CUAL SE ADICIONAN EL CAPÍTULO VIII AL TÍTULO ÚNICO DEL LIBRO TERCERO, Y LOS ARTÍCULOS 119; 120; 121; 122; 123; 124; 125; 126; 127 y 128, DE LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la implementación de las cuestiones administrativas y financieras relacionadas con el funcionamiento y operación de la Defensoría de los Derechos Político-Electorales de la Ciudadanía, se sujetaran a las partidas presupuestales que sean autorizadas para el Tribunal Electoral del Estado de Tamaulipas para el ejercicio fiscal 2027.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal Electoral del Estado de Tamaulipas efectuará las acciones necesarias para que la Defensoría de los Derechos Político-Electorales entre en funciones, ajustándose a las partidas presupuestales vigentes, sin que las mismas impliquen incremento presupuestal adicional o la creación de obligaciones permanentes no autorizadas por el Congreso del Estado Libre y Soberano de Tamaulipas.
