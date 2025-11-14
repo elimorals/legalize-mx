@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fondos-de-inversion-antes-ley-de-sociedades-de-21343"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-04"
-last_updated: "2024-01-24"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21343&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-31"
 
 LEY DE FONDOS DE INVERSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de junio de 2001.
 
@@ -2615,7 +2615,9 @@ Concluido el plazo a que se refiere la fracción I del artículo 84, y en su cas
 
 Transcurrido el plazo para el desahogo de las pruebas, la presunta infractora contará con cinco días hábiles para formular alegatos; al día hábil siguiente al vencimiento de dicho plazo se tendrá por cerrada la instrucción y la Comisión contará con un plazo que no excederá de ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador, a que se refiere el presente artículo.
 
-La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Solo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido en el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+
+La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Solo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido en el Código Nacional de Procedimientos Civiles y Familiares.
 
 La facultad de la Comisión para imponer sanciones de carácter administrativo previstas en esta Ley, así como de las disposiciones que emanen de ella, caducará en un plazo de cinco años, contado a partir del día hábil siguiente a aquel en que se realizó la conducta o se actualizó el supuesto de infracción.
 
@@ -3366,3 +3368,21 @@ Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de en
 Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
 
 Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
+
+D.O.F. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES, EN MATERIA DE HOMOLOGACIÓN NORMATIVA RELATIVA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
+
+En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
+
+Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+
+No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
+
+Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
