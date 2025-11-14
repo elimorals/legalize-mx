@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2025-10-02"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -93,45 +93,61 @@ XVII. Promover la atracción de inversión nacional y extranjera;
 
 XVIII. Fortalecer los sectores económicos estratégicos que sean altamente competitivos, a través de esquemas de agrupamientos empresariales, clústeres y cadenas de valor relacionados con los sectores de la Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-XIX. Fomentar la inversión de equipos y componentes para impulsar el aprovechamiento de energías renovables y su transformación eficiente, y
+XIX. Fomentar la inversión de equipos y componentes para impulsar el aprovechamiento de energías renovables y su transformación eficiente;
 
-> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-XX. Impulsar y promover, el comercio de bienes o servicios por medio del uso de los medios digitales, para fortalecer el comercio electrónico en el Estado.
+XX. Impulsar y promover, el comercio de bienes o servicios por medio del uso de los medios digitales, para fortalecer el comercio electrónico en el Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XXI. Diseñar estrategias específicas para impulsar y/o fomentar el surgimiento, desarrollo y prosperidad de emprendimientos verdes en el Estado, y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XXII. Estimular el comercio exterior, mediante la identificación de la oferta exportable de bienes y servicios producidos en el Estado, y la definición de los apoyos que se requieran.
 
 ###### ARTÍCULO 3°.
 
 Para efectos de lo establecido en esta Ley se entenderá por:
 
-I. Consejo: el Consejo para el Desarrollo Económico Sustentable, y la Competitividad, del Estado de San Luis Potosí;
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-II. Consejos regionales: consejos regionales para el Desarrollo Económico Sustentable de los municipios;
+I. Competitividad: capacidad que tiene el Estado para desarrollar sistemáticamente las ventajas comparativas en cada una de sus regiones; que le permiten alcanzar, sostener y mejorar una determinada posición en sus entornos socioeconómicos sustentables;
 
-III. Empresa: la entidad integrada por el capital y el trabajo como factores de la producción, y dedicada a actividades industriales, comerciales, o de prestación de servicios con fines de lucro;
+II. Consejo: el Consejo para el Desarrollo Económico Sustentable, y la Competitividad, del Estado de San Luis Potosí;
 
-IV. Fondo: el Fondo de Desarrollo Económico Sustentable y Competitividad;
+III. Consejos regionales: consejos regionales para el Desarrollo Económico Sustentable de los municipios;
 
-V. Ley: la Ley para el Desarrollo Económico Sustentable y la Competitividad del Estado de San Luis Potosí;
+IV. Empresa: la entidad integrada por el capital y el trabajo como factores de la producción, y dedicada a actividades industriales, comerciales, o de prestación de servicios con fines de lucro;
 
-VI. MIPYMES: las Micro, Pequeñas y Medianas Empresas;
+V. Fondo: el Fondo de Desarrollo Económico Sustentable y Competitividad;
 
-VII. Padrón: el Padrón Empresarial del Estado;
+VI. Ley: la Ley para el Desarrollo Económico Sustentable y la Competitividad del Estado de San Luis Potosí;
 
-VIII. Programa General: Programa General de Desarrollo Económico Sustentable y la Competitividad;
+VII. MIPYMES: las Micro, Pequeñas y Medianas Empresas;
+
+VIII. Padrón: el Padrón Empresarial del Estado;
+
+IX. Programa General: Programa General de Desarrollo Económico Sustentable y la Competitividad;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-IX. Secretaría: la Secretaría de Desarrollo Económico;
+X. Secretaría: la Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-X. Secretario: el titular de la Secretaría, y
+XI. Titular de la Secretaría: la persona titular de la Secretaría;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-XI. Sustentabilidad: criterio de conducción del desarrollo económico que tiende a satisfacer las necesidades presentes, sin poner en riesgo el desarrollo de las futuras generaciones en el estado, por medio de la preservación de los recursos naturales.
+XII. Sustentabilidad: criterio de conducción del desarrollo económico que tiende a satisfacer las necesidades presentes, sin poner en riesgo el desarrollo de las futuras generaciones en el estado, por medio de la preservación de los recursos naturales, y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XIII. Emprendimiento verde: Actividad económica formal, en la que se producen y ofrecen al mercado bienes o servicios, basados en la innovación, que generan beneficios ambientales directos y que incorporan prácticas ambientales internacionales con enfoque sostenible.
 
 ###### ARTÍCULO 4°.
 
@@ -285,35 +301,55 @@ El Consejo es el órgano permanente de consulta, análisis, asesoría, opinión 
 
 El Consejo estará integrado de manera honorífica y permanente por las siguientes personas:
 
-I. Quien ocupe la titularidad del Ejecutivo del Estado, y que fungirá en la Presidencia del Consejo;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-II. Quien ocupe la titularidad de la Secretaría de Desarrollo Económico, y quien fungirá como secretario ejecutivo;
+I. La persona titular del Ejecutivo del Estado, y que fungirá en la Presidencia del Consejo;
 
-III. Quien ocupe la titularidad de la Secretaría del Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-IV. Quien ocupe la titularidad de la Secretaría de Turismo;
+II. La persona titular de la Secretaría de Desarrollo Económico, y quien fungirá como secretario ejecutivo;
 
-V. La persona que presida la Comisión de Desarrollo Económico y Social del Honorable Congreso del Estado;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-VI. La persona que presida la Cámara Nacional de la Industria de la Construcción, Delegación San Luis Potosí;
+III. La persona titular de la Secretaría del Trabajo y Previsión Social;
 
-VII. La persona que presida la Cámara Nacional de la Industria de transformación, Delegación San Luis Potosí;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-VIII. La persona que presida el Centro Empresarial de San Luis Potosí;
+IV. La persona titular de la Secretaría de Turismo;
 
-IX. La persona que presida la Cámara Nacional de Comercio, Servicios y Turismo, Delegación San Luis Potosí;
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-X. La persona que presida la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados, Delegación San Luis Potosí;
+V. La persona Titular de la Secretaría de la Mujer e Igualdad Sustantiva;
 
-XI. La persona que presida la Confederación Patronal de la República Mexicana, Delegación San Luis Potosí;
+VI. La persona que presida la Comisión de Desarrollo Económico y Social del Honorable Congreso del Estado;
 
-XII. La persona que presida Industriales Potosinos A.C.;
+VII. La persona que presida la Cámara Nacional de la Industria de la Construcción, Delegación San Luis Potosí;
 
-XIII. La Presidenta de la Asociación Mexicana de Mujeres Empresarias en San Luis Potosí;
+VIII. La persona que presida la Cámara Nacional de la Industria de transformación, Delegación San Luis Potosí;
 
-XIV. La persona que presida el principal organismo empresarial de cada una de las zonas del Estado: altiplano; huasteca; centro; y media que serán designadas por el Consejo, en términos del Reglamento de esta Ley, y
+IX. La persona que presida el Centro Empresarial de San Luis Potosí;
 
-XV. Tres personas que ocupen la directiva de instituciones de educación superior en el Estado, que designará el Consejo.
+X. La persona que presida la Cámara Nacional de Comercio, Servicios y Turismo, Delegación San Luis Potosí;
+
+XI. La persona que presida la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados, Delegación San Luis Potosí;
+
+XII. La persona que presida la Confederación Patronal de la República Mexicana, Delegación San Luis Potosí;
+
+XIII. La persona que presida Industriales Potosinos A.C.;
+
+XIV. La Presidenta de la Asociación Mexicana de Mujeres Empresarias en San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XV. La persona que presida el principal organismo empresarial de cada una de las zonas del Estado: altiplano; huasteca; centro; y media que serán designadas por el Consejo, en términos del Reglamento de esta Ley;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XVI. Tres personas que ocupen la directiva de instituciones de educación superior en el Estado, que designará el Consejo, y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Un representante del sector obrero.
 
 Quienes integran el Consejo tendrán voz y voto; y los acuerdos serán públicos y válidos.
 
@@ -343,9 +379,15 @@ VII. Vigilar el cumplimiento de compromisos y proyectos de inversión autorizado
 
 VIII. Opinar sobre la modificación, suspensión y cancelación de incentivos y estímulos otorgados;
 
-IX. Elaborar y proponer al Ejecutivo, para su aprobación, el Reglamento del Consejo, y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
-X. Las demás que se deriven de esta Ley.
+IX. Elaborar y proponer al Ejecutivo, para su aprobación, el Reglamento del Consejo;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+
+X. Designar un representante del sector obrero a que se refiere la fracción XVII del artículo 15 de este ordenamiento, y
+
+XI. Las demás que se deriven de esta Ley.
 
 ###### ARTÍCULO 18.
 
@@ -1226,3 +1268,11 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0311.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
