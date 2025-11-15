@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-ejecutivo-y-de-la-administracion-151621"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2025-11-10"
+last_updated: "2025-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 15 DE NOVIEMBRE DE 2025.]</small>
 
 Ley publicada en el Suplemento Número 2 del Número 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -1349,15 +1349,9 @@ XXVI. Formular el Código de Ética aplicable para los servidores públicos de l
 
 XXVII. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables en la materia; así como conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 15 DE NOVIEMBRE DE 2025)
 
 XXVIII. Promover y consolidar los principios de la transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública;
-
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XXVIII ANTERIOR, VÉASE PUBLICACION OFICIAL P.O. 10 DE NOVIEMBRE DE 2025, PÁGINA 10.]</small>
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
-
-XXVIII (SIC). Promover y consolidar los principios de la transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública;
 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
 
