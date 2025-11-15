@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-14"
-last_updated: "2016-05-14"
+last_updated: "2025-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 14 de mayo de 2016.
 
@@ -171,7 +171,9 @@ XIII. Aplicar cualquier tipo de prácticas, usos o costumbres que atenten contra
 
 XIV. Impedir la libre elección de cónyuge o pareja;
 
-XV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2025)</small>
+
+XV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación, redes sociales, medios digitales o páginas de internet;
 
 XVI. Impedir o limitar la libre expresión de las ideas, la libertad de pensamiento, conciencia o religión, o de prácticas y costumbres religiosas, siempre que éstas no atenten contra el orden público;
 
@@ -199,7 +201,9 @@ XXVII. Restringir o limitar el uso de su lengua, usos, costumbres y cultura, en 
 
 XXVIII. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para la prestación de servicios públicos o para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;
 
-XXIX. Incitar al odio, violencia, rechazo, burla, injuria, persecución o la exclusión;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2025)</small>
+
+XXIX. Incitar al odio, violencia, rechazo, burla, injuria, persecución o exclusión de forma directa o a través de los medios de comunicación, redes sociales, medios digitales o páginas de internet;
 
 XXX. Realizar o promover violencia física, sexual, o psicológica, patrimonial o económica;
 
@@ -548,3 +552,13 @@ SECRETARIO DE GOBIERNO.
 LIC. JUAN JOSÉ PERALTA FÓCIL.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 182 POR EL QUE “SE REFORMAN LAS FRACCIONES XV Y XXIX DEL ARTÍCULO 12 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Al momento de la entrada en vigor de la presente Ley, queda sin efecto cualquier disposición contraria a la misma.
