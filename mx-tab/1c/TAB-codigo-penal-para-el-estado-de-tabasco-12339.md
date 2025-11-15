@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2025-10-11"
+last_updated: "2025-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -2148,6 +2148,18 @@ Comete el delito de violación a la intimidad sexual, aquella persona que divulg
 Así como quien videograbe, audiograbe, fotografíe, imprima o elabore, imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización.
 
 Estas conductas se sancionarán con una pena de tres a seis años de prisión y de quinientos a mil días multa.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2025)</small>
+
+Las mismas penas se impondrán, a quien haciendo uso o no de la Inteligencia Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear hechos falsos con apariencia real, con el propósito de exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartir a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin su consentimiento expreso, voluntario, genuino y deseado.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2025)</small>
+
+Para efectos del párrafo anterior, se entenderá por Inteligencia Artificial las aplicaciones, programas o tecnología que analice fotografías, audios o videos y ofrece ajustes automáticos para hacerles alteraciones o modificaciones.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2025)</small>
+
+Además de las sanciones previstas en este artículo la persona juzgadora ordenará a quien corresponda borrar y retirar la imagen, audio o video de que se trate de los sitios, páginas o lugares donde haya sido publicado.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -5812,3 +5824,15 @@ El correspondiente Decreto entrará en vigor al día siguiente de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 181 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 163 QUINQUIES, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El correspondiente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
