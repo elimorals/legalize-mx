@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2024-08-31"
+last_updated: "2025-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -660,6 +660,12 @@ Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a los adult
 ###### Artículo 35.
 
 La población en general tiene el deber de aceptar a los adultos mayores en las actividades sociales, económicas y políticas de la comunidad, evitando su marginación o discriminación, o hacerlos objeto de burla, de abuso o simple indiferencia, para lo cual el DIF Estatal y Municipal en coordinación con el Instituto y con la participación de las dependencias y entidades del Estado, diseñarán e instrumentarán programas y campañas permanentes de cortesía urbana y respeto hacia los adultos mayores debiéndose difundir las mismas en los medios masivos de comunicación existentes en la Entidad.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 35 Bis.
+
+Las Instituciones públicas, así como las privadas que presten servicios financieros, administrativos o de carácter esencial, deberán garantizar a las personas adultas, mayores facilidades administrativas, tecnológicas y de acceso en la realización de trámites y en la prestación de sus servicios. Dichas facilidades incluirán, entre otras, la simplificación de procesos, atención preferencial, mecanismos de representación legal y el uso de medios accesibles, con el fin de proteger su integridad física y psicológica, evitando cualquier acción que violente, limite, obstaculice o ponga en riesgo sus derechos.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2024)</small>
 
@@ -1390,3 +1396,9 @@ P.O. 31 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 488.- POR EL QUE SE ADICIONA UN PRIMER PÁRRAFO AL ARTÍCULO 36, DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA Y SE HACE EL CORRIMIENTO SUBSECUENTE DE LOS PÁRRAFOS”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 15 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 183.- POR EL QUE SE APRUEBA ADICIONAR EL ARTÍCULO 35 BIS A LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
