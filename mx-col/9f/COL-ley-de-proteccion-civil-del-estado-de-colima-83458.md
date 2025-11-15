@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2025-03-01"
+last_updated: "2025-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -1781,6 +1781,22 @@ Las empresas industriales, de servicios y centros laborales, integrarán Unidade
 
 Estas empresas están obligadas a colaborar con la UEPC y UMPC, de conformidad a sus atribuciones, para integrar las normas propias de seguridad industrial que apliquen a sus operaciones, con las normas de protección civil que establezcan las disposiciones legales y reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 106 Bis.
+
+Los simulacros a que se refieren los artículos 105 y 106 de la presente ley deberán realizarse en las siguientes fechas e hipótesis:
+
+I. 21 de enero: Simulacro con hipótesis de sismo, en el marco del Día Estatal de la Protección Civil y de la Semana Estatal de Protección Civil.
+
+II. 06 de mayo: Simulacro con hipótesis de inundación, tsunami o huracán, en el marco de la publicación del decreto de la creación del Sistema Nacional de Protección Civil.
+
+III. 12 de julio: Simulacro con hipótesis de erupción volcánica o incendio, en conmemoración de la explosión volcánica ocurrida en el año 2015 en el Estado de Colima.
+
+IV. 19 de septiembre: Simulacro con hipótesis de sismo, en el marco del Día Nacional de Protección Civil y aniversario de los sismos de 1985 y 2017 en nuestro país.
+
+En el caso de que estas fechas correspondan o un día sábado, domingo o algún otro inhábil, se podrá realizar el día hábil más cercano.
+
 ###### Artículo 107.
 
 La UEPC y la UMPC, de conformidad a sus atribuciones, asesorarán a las empresas, asociaciones, organismos y entidades de los sectores privado y social, para integrar sus Unidades Internas de Protección Civil y organizar los grupos voluntarios.
@@ -2344,3 +2360,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dentro del plazo de 30 días naturales, la Unidad Estatal de Protección Civil instalará la Junta de Gobierno atendiendo a la conformación contenida en el presente Decreto, sin perjuicio de las sesiones realizadas con anterioridad a la nueva integración de la Junta de Gobierno.
 
 TERCERO. Dentro del plazo de 60 días naturales siguientes a la publicación del presente decreto, la persona titular del Poder Ejecutivo del Estado en coordinación con la Junta de Gobierno de la UEPC y con las atribuciones que les correspondan, armonizará la reglamentación interna de la UEPC de acuerdo a las modificaciones realizadas a la Ley a través del presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 184.- POR EL QUE SE APRUEBA ADICIONAR EL ARTÍCULO 106 BIS A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
