@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-servicios-para-el-desarrollo-integral-infantil-del-91054
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-23"
-last_updated: "2022-12-22"
+last_updated: "2025-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SERVICIOS PARA EL DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 23 de diciembre de 2012.
 
@@ -291,13 +291,17 @@ VI. Fomentar la equidad de género;
 
 VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo y de los requerimientos y características de los modelos de atención;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-VIII. Promover de conformidad con la normatividad aplicable, la realización de simulacros para capacitar y sensibilizar a las personas prestadoras de servicios para la atención, cuidado y desarrollo Integral infantil con un fin fundamentalmente preventivo; y
+VIII. Promover de conformidad con la normatividad aplicable, la realización de simulacros para capacitar y sensibilizar a las personas prestadoras de servicios para la atención, cuidado y desarrollo Integral infantil con un fin fundamentalmente preventivo;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-IX. Promover dentro de los Centros de Atención una formación en la resiliencia a partir de los nuevos aprendizajes que contribuyan de manera sustantiva al mejoramiento de la persona y la comunidad.
+IX. Promover dentro de los Centros de Atención una formación en la resiliencia a partir de los nuevos aprendizajes que contribuyan de manera sustantiva al mejoramiento de la persona y la comunidad, y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+X. Promover la paternidad responsable, para garantizar el desarrollo integral de las niñas y niños.
 
 ###### ARTÍCULO 14.
 
@@ -1274,3 +1278,11 @@ P.O. 22 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 237 QUE CONTIENE REFORMA A LA LEY DE SERVICIOS PARA EL DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
