@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-66956"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2022-03-31"
+last_updated: "2025-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de enero de 2009.
 
@@ -175,21 +175,31 @@ XIII. Instituto.- El Instituto Estatal de la Mujer;
 
 XIV. Programa Estatal.- Programa Estatal para Garantizar la Igualdad Sustantiva entre Mujeres y Hombres;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
 XV. Discriminación.- Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de las siguientes condiciones: el origen étnico o nacional, el color de la piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, la profesión, oficio, nivel académico o de estudios, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otra condición.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
-
 También se entenderá como discriminación la homofobia, la misoginia, cualquier manifestación de xenofobia, la segregación racial, el antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-XVI. Discriminación contra la mujer: Toda distinción, exclusión o restricción basada en el sexo tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera; y
+XVI. Discriminación contra la mujer.- Toda distinción, exclusión o restricción basada en el sexo tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-XVII. Interseccionalidad: Se refiere al enfoque para identificar y determinar que la discriminación de la mujer por motivos de sexo y género está unida de manera indivisible a otros factores que afectan a las mujeres, tales como la raza, la etnia, la religión o creencias, la salud, la edad, la clase entre otras condiciones que afectan a las mujeres de algunos grupos en diferente medida que al resto de las personas.
+XVII. Interseccionalidad.- Se refiere al enfoque para identificar y determinar que la discriminación de la mujer por motivos de sexo y género está unida de manera indivisible a otros factores que afectan a las mujeres, tales como la raza, la etnia, la religión o creencias, la salud, la edad, la clase entre otras condiciones que afectan a las mujeres de algunos grupos en diferente medida que al resto de las personas;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Igualdad sustantiva.- Acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+XIX. Igualdad salarial.- Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, <la edad (sic), las discapacidades, la condición social, económica, de salud o jurídica, entre otras; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+XX. Brecha salarial de género.- Diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor.
 
 ### CAPÍTULO II. DE LA IGUALDAD SUSTANTIVA
 
@@ -328,6 +338,10 @@ III. Aprobar el programa de igualdad.
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
 IV. Garantizar la igualdad sustantiva y sus principios rectores, mediante la adopción de políticas, programas, acciones, estrategias y la debida aplicación de las medidas que esta ley prevé.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+IV Bis. Establecer medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género.
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
@@ -567,17 +581,27 @@ VII. Establecer el seguimiento, la evaluación, la transparencia y la rendición
 
 ### CAPÍTULO II. DE LA IGUALDAD ECONÓMICA ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 23.
 
-Será objetivo de la Política de igualdad en materia económica:
+Será objetivo de la política de igualdad en materia económica:
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
 I. Promover la igualdad salarial entre mujeres y hombres por trabajos de la misma naturaleza y en condiciones iguales, en la administración pública estatal y en ámbito privado y social;
 
-II. Efectuar las acciones para el acceso igualitario a procesos productivos; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-III. Establecer de fondos para la promoción de la igualdad en el trabajo.
+II. Efectuar las acciones para el acceso igualitario a procesos productivos;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+III. Establecer de fondos para la promoción de la igualdad en el trabajo; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+IV. Diseñar, implementar, ejecutar y evaluar políticas públicas y medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, para eliminar la brecha de género, en especial la salarial en los sectores público, privado y social.
 
 ###### Artículo 24.
 
@@ -589,9 +613,9 @@ I. Diseñar y aplicar lineamientos que aseguren la igualdad de oportunidades ent
 
 II. Establecer acciones de capacitación, educación y formación de las personas que en razón de su sexo están relegadas;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-III. Fomentar especialmente el acceso al trabajo de las personas que en razón de su sexo están relegadas de puestos directivos, destinar recursos para fomentar la contratación;
+III. Fomentar especialmente el acceso al trabajo de las personas que en razón de su sexo están relegadas de puestos directivos, para contribuir a disminuir y erradicar la brecha salarial de género;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
@@ -601,9 +625,9 @@ IV. Establecer estímulos y certificados de igualdad que se concederán anualmen
 
 V. Diseñar e instrumentar acciones y estrategias para eliminar las brechas de desigualdad en el acceso, el uso y las habilidades en materia de ciencia, tecnología e innovación;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-VI. Promover acciones que eliminen las asimetrías de género, raza, etnia, preferencia sexual y cualquier otro tipo de discriminación en el acceso y permanencia al mercado laboral, en la toma de decisiones y en la distribución de las remuneraciones; y
+VI. Reducir y erradicar la brecha salarial y la segregación de las personas por razón de género, raza, etnia, preferencia sexual y cualquier otro tipo de discriminación en el acceso y permanencia al mercado laboral, en la toma de decisiones y en la distribución de las remuneraciones; y
 
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
 
@@ -1056,3 +1080,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 239 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO, A LA LEY DE DERECHOS DE LAS JEFAS DE FAMILIA DEL ESTADO DE DURANGO Y A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA, EN MATERIA DE IGUALDAD SUSTANTIVA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
