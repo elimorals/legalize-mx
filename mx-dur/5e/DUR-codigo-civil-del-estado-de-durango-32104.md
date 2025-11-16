@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2024-11-28"
+last_updated: "2025-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -2662,6 +2662,10 @@ V.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico d
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2023)</small>
 
 VI.- Cuando uno de los cónyuges realice en la persona de las hijas o hijos, conductas que causen alienación parental que impacte gravemente al menor en su desarrollo armónico, o afecte a la persona, libertad o patrimonio del otro que ejerce la patria potestad, acreditable mediante dictamen que ordene el juez a perito especializado en la materia. La pérdida cesará una vez que el alienador justifique, al Juez que conoce del asunto, haberse sometido al tratamiento que le permita tener una sana relación con el menor.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+VII.- Por auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
 
 ART. 443.- La patria potestad no es renunciable; pero aquellos a quienes corresponda ejercerla, pueden excusarse;
 
@@ -11486,6 +11490,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE NOVIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 058 QUE CONTIENE ADICIONES AL CÓDIGO CIVIL DEL ESTADO DE DURANGO, EN MATERIA DE REGISTRO NACIONAL DE OBLIGACIONES ALIMENTARIAS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 273 QUE CONTIENE REFORMA AL ARTÍCULO 442 DEL CÓDIGO CIVIL VIGENTE EN EL ESTADO DE DURANGO, EN MATERIA DE CAUSAS DE SUSPENSIÓN DE LA PATRIA POTESTAD”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
