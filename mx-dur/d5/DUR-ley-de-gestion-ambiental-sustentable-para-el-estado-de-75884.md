@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2025-10-23"
+last_updated: "2025-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -421,7 +421,9 @@ XII. Verificar el cumplimiento de las Normas Oficiales Mexicanas, sobre la mater
 
 XIII. Realizar campañas educativas, sobre cuestiones ambientales en el Estado;
 
-XIV. La prevención y control de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas no ionizantes y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales, comerciales o de servicios, así como, en su caso, de fuentes móviles que conforme a lo establecido en la Ley General, no sean de competencia federal;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Prevenir y controlar la contaminación generada por emisiones de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales, conforme a lo establecido en la presente Ley, que no sean de competencia Federal;
 
 XV. Establecer un programa permanente, para proteger, conocer y aprovechar sustentablemente la biodiversidad y con especial interés la conservación de las especies en peligro de extinción o bajo consideración especial;
 
@@ -647,15 +649,21 @@ XX. El diseño, la ejecución y evaluación del programa municipal de protecció
 
 XXI. Procurar la reforestación, arborización y la promoción entre los particulares de campañas para dicho fin, en las áreas urbanas de su competencia entendiéndose estas como lo son banquetas, camellones o plazas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
 XXII. Determinarán las políticas públicas, estrategias, programas, proyectos y acciones encaminadas a la concientización entre la población sobre la separación, reutilización y reciclado de los residuos sólidos y basura, así como los beneficios medioambientales de estas prácticas.
 
-Lo anterior, incluirá la promoción de la educación ambiental de la ciudadanía para separar los residuos sólidos desde casa, y
+Lo anterior, incluirá la promoción de la educación ambiental de la ciudadanía para separar los residuos sólidos desde casa;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE NOVIEMBRE DE 2022)</small>
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-XXIII. Las demás que señalen las Leyes Estatal y General de la materia y otras disposiciones legales aplicables.
+XXIII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como de emisiones de contaminantes a la atmósfera, provenientes de fuentes móviles que no sean consideradas de jurisdicción federal.
+
+Los establecimientos mercantiles o de servicios deberán apegar sus acciones de producción con el cuidado del medio ambiente, implementando medidas de prevención y atención a la problemática ambiental que sus procesos diarios pudieran generar, y
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+XXIV. Las demás a que se refiere esta Ley y demás ordenamientos jurídicos complementarios y supletorios.
 
 ###### ARTÍCULO 7.
 
@@ -727,6 +735,14 @@ VI. Se deberá tomar en cuenta la fundamentación técnica y beneficios sociales
 
 VII. Las declaratorias del uso del suelo que se decreten deberán derivarse del programa estatal de ordenamiento ecológico y se deberán publicar en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+El contenido del programa estatal de ordenamiento ecológico del Estado de Durango se deberá considerar dentro de la planeación e implementación de programas que realicen las instituciones de Gobierno Estatal, así mismo dentro de los lineamientos establecidos para la asignación de recursos que apliquen en el territorio.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Para la calificación de solicitudes de apoyo en programas de impacto territorial señaladas en convocatorias de instituciones Estatales, se deberá considerar la aptitud territorial establecida en el programa estatal de ordenamiento ecológico del Estado de Durango.
+
 ###### ARTÍCULO 12.
 
 El ejercicio del derecho de propiedad estará sujeto a las limitaciones y modalidades que establezcan las declaratorias del uso del suelo.
@@ -751,23 +767,61 @@ III. Reconocer e incentivar a quien realice acciones a favor del medio ambiente 
 
 IV. Procurar que quienes dañen al ambiente asuman los costos de indemnización y reparación correspondientes;
 
-V. Promover la política ambiental que incluya el aprovechamiento del recurso natural como factor social para superar la pobreza; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-VI. Conjugar todos los instrumentos de política ambiental con el fin de salvaguardar la integridad y el equilibrio de los ecosistemas, así como la salud y el bienestar de la población.
+V. Promover la política ambiental que incluye el aprovechamiento del recurso natural como factor social para superar la pobreza;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+VI. Conjugar todos los instrumentos de política ambiental con el fin de salvaguardar la integridad y el equilibrio de los ecosistemas, así como la salud y el bienestar de la población;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+VII. Promover las estrategias de comercialización o transacción de emisiones, a través de bonos;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Gestionar descuentos en los pagos de derechos por la obtención de licencias y permisos estatales y municipales;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+IX. Conmutar sanciones económicas por obras o acciones de beneficio ambiental;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+X. Aplicar mecanismos de compensación ambiental, y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+XI. Generar beneficios en los programas que deriven de esta Ley por el uso de tecnologías más limpias en fuentes de emisión fija o móvil.
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
 
 ARTÍCULO 14 BIS. Las Dependencias de la Administración Pública Estatal y Municipales, el Poder Legislativo, el Poder Judicial y los órganos constitucionales autónomos, procurarán contar con sistema de celdas solares en sus inmuebles, el cual se podrá establecer de manera progresiva hasta que el total del consumo de energía eléctrica sea a través de dicho sistema, de acuerdo con la posibilidad física, técnica y financiera que resulte conveniente para cada caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 15.
 
-Los instrumentos económicos, entendidos como mecanismos normativos y administrativos, pueden ser:
+Los instrumentos económicos entendidos como mecanismos normativos, administrativos, así como los costos ambientales que se generen por actividades económicas, podrán ser:
 
 I. Fiscales;
 
-II. Financieros; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-III. De mercado.
+II. Financieros;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+III. De mercado;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+IV. Impuestos ambientales y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+V. Pagos de derechos en trámites por un mayor análisis del área de influencia ambiental, que supone una mayor valoración de los servicios ambientales del área de influencia o cuenca.
 
 Los Fiscales son aquellos que incentivan el cumplimiento de los objetivos de la política ambiental.
 
@@ -776,6 +830,14 @@ Los Financieros son los créditos, fianzas, seguros de responsabilidad civil, lo
 De Mercado, son las concesiones, autorizaciones, licencias, permisos, bonos o certificados, que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, así como los límites de aprovechamiento de recursos naturales o de construcción en áreas naturales protegidas, o de conservación, protección o restauración de áreas naturales que ofrezcan las posibilidades de ofertar servicios ambientales.
 
 Las prerrogativas derivadas de los instrumentos económicos de mercado, son transferibles, no gravables y quedan sujetas al interés público y al aprovechamiento sustentable de los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Los impuestos ambientales tienen como propósito reducir o impedir que produzcan emisiones que dañen efectivamente el ambiente, los cuales serán destinado (sic) para la restauración de daños ocasionados en el entorno natural.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Los pagos de derechos, es el cumplimiento de una obligación y el principal modo de extinguir las obligaciones.
 
 ###### ARTÍCULO 16.
 
@@ -840,6 +902,36 @@ Las personas físicas y morales que comiencen a realizar obras o inicien activid
 ###### ARTÍCULO 23.
 
 La Secretaría emitirá preferentemente en formato electromagnético, los correspondientes a la manifestación de impacto ambiental, informe preventivo, estudio de riesgo ambiental, de igual manera la Secretaría autorizará las prórrogas de las respectivas autorizaciones.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 23 BIS. La Secretaría podrá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condiciones establecidas en las autorizaciones, cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas.
+
+Se considerará que pueden producirse daños graves a los ecosistemas cuando:
+
+I. Puedan liberarse sustancias que al contacto con el ambiente se transformen en tóxicas persistentes y bioacumulables;
+
+II. En los lugares en los que se pretenda realizar la obra o actividad, existan cuerpos de agua, especies de flora y fauna silvestre o especies endémicas, amenazadas, en peligro de extinción o sujetas a protección especial;
+
+III. Los proyectos que impliquen la realización de actividades consideradas altamente riesgosas conforme a la Ley, el Reglamento respectivo y demás disposiciones aplicables, y
+
+IV. Las obras o actividades que se lleven a cabo en Áreas Naturales Protegidas de competencia Estatal.
+
+La Secretaría fijará el monto de los seguros y garantías atendiendo al valor de la reparación de los daños que pudieran ocasionarse por el incumplimiento de las condicionantes impuestas en las autorizaciones.
+
+En todo caso, el promovente podrá otorgar sólo los seguros, o garantías que correspondan a la etapa del proyecto que se encuentre realizando. Si el promovente dejará de otorgar los seguros y las garantías requeridas, la Secretaría podrá ordenar la suspensión temporal, parcial o total, de la obra o actividad hasta en tanto no se cumpla con el requerimiento.
+
+El promovente deberá, en su caso, renovar o actualizar anualmente los montos de los seguros o garantías que haya otorgado.
+
+La Secretaría, dentro de un plazo de diez días hábiles, ordenará la cancelación de los seguros o garantías cuando el promovente acredite que ha cumplido con todas las condiciones que les dieron origen y haga la solicitud correspondiente.
+
+Los recursos que se obtengan por el cobro de seguros o la ejecución de garantías, serán aplicados a la reparación de los daños causados por la realización de las obras o actividades cuando así lo determine.
+
+La Secretaría, emitirá los lineamientos correspondientes mediante los cuales se establecerán los montos, condiciones y obligaciones específicas por virtud de los cuales se sujetará el otorgamiento de los seguros o garantías, de conformidad a lo establecido en la legislación aplicable. En lo relativo a los siguientes supuestos:
+
+a) Actividades de competencia federal que, mediante convenio de coordinación, en conformidad, la Federación haya cedido al Estado para su realización.
+
+b) Cuando se haya obtenido previamente una autorización en materia de impacto ambiental, por parte de la autoridad federal, no se requerirá la autorización, si en la resolución de dicha autoridad fue considerada la opinión correspondiente de la Secretaría.
 
 ## TÍTULO TERCERO. DE LA PRESTACIÓN DE SERVICIOS, REGULACIÓN, EDUCACIÓN E INVESTIGACIÓN AMBIENTAL
 
@@ -1035,7 +1127,7 @@ VII. Proteger el entorno natural de zonas arqueológicas y de monumentos histór
 
 Se consideran áreas naturales protegidas:
 
-I. Reservas de la biósfera;
+I. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2025)
 
 II. Monumentos naturales;
 
@@ -1055,9 +1147,9 @@ VIII. Zonas de preservación ecológicas de los centros de población
 
 IX. Área destinada voluntariamente a la conservación.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-La fracción I del presente artículo se considerará de competencia Federal y de la II a la IX competencia del Estado y sus municipios, los que aplicarán la legislación local en la materia, pudiendo establecer parques y reservas estatales en áreas relevantes de su territorio, pero no lo podrán realizar en zonas previamente declaradas como correspondientes a la Federación.
+Las áreas antes mencionadas son competencia del Estado y sus municipios, por lo cual se aplicará la legislación local en la materia, pudiendo establecer parques y reservas estatales en áreas relevantes de su territorio, pero no lo podrán realizar en zonas previamente declaradas como correspondientes a la Federación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -1397,9 +1489,9 @@ I. Las naturales, que incluyen volcanes, incendios forestales no provocados por 
 
 II. Las antropogénicas, las cuales requerirán para su operación y funcionamiento, autorización de la Secretaría, entre las que se encuentran:
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-a) Las fijas o semifijas, que incluyen calderas, aserraderos, ladrilleras, fábricas que no correspondan a jurisdicción federal y talleres en general; incineradores industriales, comerciales, domésticos, los de servicio público o privado y cualquier otra fuente análoga a las anteriores, semifijas como trituradoras y plantas de asfalto.
+a) Las fijas o semifijas, que incluyen calderas, aserraderos, fábricas que no correspondan a jurisdicción federal y talleres en general; incineradores industriales, y fuentes semifijas como trituradoras y plantas de asfalto.
 
 b) Las móviles, como plantas móviles de emergencia, generadoras de energía eléctrica; plantas móviles elaboradoras de concreto; vehículos automotores de combustión interna; aviones, locomotoras, motocicletas y similares; y
 
@@ -1438,6 +1530,10 @@ El Gobierno del Estado, a través de la Secretaría, promoverá con las autorida
 ###### ARTÍCULO 81.
 
 Toda fuente fija, semifija o establecimiento industrial para su operación, deberá contar con la Licencia Ambiental Única, ya sea que ésta se encuentre operando con antelación a dicho trámite (Licencia de Funcionamiento) o sea de reciente creación.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+El reglamento que al efecto se expida determinará los subsectores específicos pertenecientes a cada uno de los sectores industriales que competan al Estado, cuyos establecimientos se sujetarán a las disposiciones de la presente Ley, en lo que se refiere a la emisión de contaminantes a la atmósfera.
 
 ###### ARTÍCULO 82.
 
@@ -1577,9 +1673,17 @@ No podrán emitirse ruidos, vibraciones, olores, luz intrusa, térmica, radiacio
 
 Los límites máximos de emisiones sonoras dentro de establecimientos comerciales o de servicios cuyo giro sea el de restaurante-bar, bar, discoteca, centro nocturno, centro de espectáculo o centros sociales, se determinarán en función de decibeles ponderados en la Norma Oficial Mexicana, correspondiendo a los Municipios establecer en sus reglamentos de la materia, los horarios y rangos de emisiones sonoras permisibles, ello sin menoscabo de las regulaciones específicas en cuanto a los horarios de funcionamiento.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+> <small>[N. DE E. EL CONTENIDO DEL PÁRRAFO SEGUNDO ES IDÉNTICO AL PÁRRAFO CUARTO.]</small>
 
-El contenido del presente Capítulo se aplicará en lo conducente a los inmuebles con uso habitacional.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+En caso de existir normas oficiales mexicanas o normas ambientales estatales que establezcan los horarios y rangos de emisiones sonoras permisibles dentro de los referidos establecimientos, los reglamentos municipales de la materia se deberán apegar a los mismos.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Tratándose de zonas habitacionales conformadas por viviendas unifamiliares y/o multifamiliares, los Municipios establecerán en sus reglamentos en la materia los límites máximos de emisiones sonoras, que en ningún caso podrán ser mayores de los 55 decibeles para el horario comprendido de las 6:00 a las 21:59 horas y de 50 decibeles para el de las 22:00 a las 5:59 horas.
+
+> <small>[N. DE E. EL CONTENIDO DEL PÁRRAFO CUARTO ES IDÉNTICO AL PÁRRAFO SEGUNDO.]</small>
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
@@ -1603,9 +1707,11 @@ II.- Multa de cien a veinte mil UMA, en caso de reincidencia, el monto de la mul
 
 III.- Arresto administrativo hasta por 36 horas, procederá únicamente, cuando el autor reincida por una tercera ocasión en la conducta.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 100.
 
-En la construcción de obras, instalaciones o en la realización de actividades que generen ruido, vibraciones, olores, energía térmica, lumínica, radiaciones electromagnéticas no ionizantes y contaminación visual, deberán llevarse a cabo las acciones preventivas y correctivas necesarias para evitar los efectos nocivos contaminantes, en el equilibrio ecológico y el ambiente.
+En la construcción de obras, instalaciones o en la realización de actividades que generen ruido, vibraciones, olores, energía térmica, lumínica, radiaciones electromagnéticas no ionizantes y contaminación visual, deberán llevarse a cabo las acciones preventivas y correctivas necesarias para evitar y mitigar los efectos negativos de tales contaminantes en los ecosistemas y en el ambiente y en su caso la reparación de los daños en bienes o personas, previo dictamen de la autoridad correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -1631,9 +1737,9 @@ La Secretaría reunirá informes y documentos relevantes que resulten de las act
 
 ### CAPÍTULO IX (SIC). DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN POR EL USO DE PLÁSTICOS
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-ARTÍCULO 108 BIS. Se prohíbe a toda persona física o moral proporcionar plástico de un solo uso de manera gratuita u onerosa.
+ARTÍCULO 108 BIS. Se prohíbe a toda persona física o moral proporcionar plástico de un solo uso de manera gratuita u onerosa, excepto de material biodegradable.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
@@ -1651,9 +1757,9 @@ V. Platos y vasos de Unicel, y
 
 VI. Popotes
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-ARTÍCULO 108 QUÁTER. Se prohíbe la venta o comercialización de los plásticos mencionados en el artículo anterior.
+ARTÍCULO 108 QUÁTER. Se prohíbe la venta o comercialización de los plásticos mencionados en el artículo anterior, excepto de material biodegradable.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -1675,7 +1781,7 @@ II. Botellas Retornables mayores a 1.5 L
 
 III. Latas
 
-IV. Tetrapack
+IV. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2025)
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
@@ -2632,6 +2738,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 201 EL CUAL REFORMA DIVERSAS DISPOSICIONES A LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 234 EL CUAL REFORMA Y ADICIONA A LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 235 EL CUAL REFORMA DIVERSAS DISPOSICIONES A LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
