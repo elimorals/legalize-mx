@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-de-periodistas-y-personas-defensoras-de-15031
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-17"
-last_updated: "2022-06-02"
+last_updated: "2025-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN DE PERIODISTAS Y PERSONAS DEFENSORAS DE DERECHOS HUMANOS EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el No. 48 del Periódico Oficial del Estado de Durango, el jueves 17 de junio de 2021.
 
@@ -119,9 +119,11 @@ Todo Periodista tendrá la libertad y el derecho de buscar, investigar, sistemat
 
 ### CAPÍTULO IV. DEL MECANISMO PARA LA PROTECCIÓN DE PERIODISTAS Y PERSONAS DEFENSORAS DE DERECHOS
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 6.
 
-El Mecanismo para la Protección de Periodistas y Personas Defensoras de Derechos Humanos es el área perteneciente a la Comisión Estatal de Derechos Humanos, encargada de coordinarse con la Junta Ejecutiva para el cumplimiento del objeto de esta Ley, así como de coordinar políticas públicas y acciones locales para la protección a los periodistas y personas defensoras de derechos humanos.
+El Mecanismo para la Protección de Periodistas y Personas Defensoras de Derechos Humanos es el área adscrita a la Comisión Estatal de Derechos Humanos, encargada de coordinarse con la Junta de Gobierno del Mecanismo para el cumplimiento del objeto de esta Ley, así como de coordinar políticas públicas y acciones locales para la protección a los periodistas y personas defensoras de derechos humanos.
 
 ### CAPÍTULO V. COORDINACIÓN PARA LA PROTECCIÓN
 
@@ -279,11 +281,21 @@ Si el empleador no dota las herramientas necesarias al periodista para una tarea
 
 Para el funcionamiento del Mecanismo, la Comisión Estatal de Derechos Humanos destinará al menos el 13% del Presupuesto Anual de Egresos asignado por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 28.
 
-El Presupuesto asignado al Mecanismo se destinará para el cumplimiento efectivo de las Medidas de Protección, además de capacitación y profesionalización según las necesidades en la materia de esta Ley.
+El presupuesto asignado al Mecanismo se destinará a:
+
+I. La implementación de medidas de protección, a través de un fondo para tal efecto;
+
+II. Educación, formación, capacitación y profesionalización;
+
+III. Gastos operativos, de administración y servicios personales; y
+
+IV. Los demás que, conforme a la normatividad aplicable, sean autorizados por el Mecanismo y su Consejo.
+
+El fondo referido en la fracción I forma parte del presupuesto del Mecanismo, tiene por objeto exclusivo la implementación de medidas de protección y su ejercicio se sujetará a la normatividad hacendaría y de adquisiciones aplicable, así como a las reglas de operación que emita el Mecanismo y a la autorización de su órgano colegiado.
 
 #### SECCIÓN OCTAVA. DEL DERECHO DE AUTORÍA Y FIRMA A SOLICITUD DEL PERIODISTA O COLABORADOR PERIODÍSTICO
 
@@ -580,3 +592,11 @@ P.O. 2 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 244 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 6 Y 28 DE LA LEY DE PROTECCIÓN DE PERIODISTAS Y PERSONAS DEFENSORAS DE DERECHOS HUMANOS EN EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
