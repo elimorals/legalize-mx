@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2024-11-28"
+last_updated: "2025-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -103,13 +103,17 @@ VIII. El respeto a la dignidad humana de las mujeres;
 
 IX. La libertad de las mujeres;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-X. La integración de las mujeres a la vida democrática y productiva del Estado; y
+X. La integración de las mujeres a la vida democrática y productiva del Estado;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-XI. La debida diligencia.
+XI. La debida diligencia; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+XII. Igualdad sustantiva de la mujer.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -681,7 +685,13 @@ II. Custodia personal y o domiciliaria a las víctimas, que estará a cargo de l
 
 Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
 
-III. Proporcionar a las mujeres, o las niñas, en situación de violencia y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+III. Proporcionar a las mujeres, o las niñas, en situación de violencia y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Asimismo, las mujeres víctimas de violencia en situación de migración, así como sus hijas e hijos, podrán acceder a dichos espacios mientras se resuelve su situación migratoria, recibiendo atención médica, asistencia legal y apoyo psicológico, de conformidad con los estándares de derechos humanos, independientemente de su condición migratoria.
 
 IV. Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
 
@@ -1747,17 +1757,21 @@ XII. Coadyuvar con las dependencias y entidades de la Administración Pública E
 
 XIII. Aplicar, en el ámbito de su competencia, el Programa Estatal a que se refiere esta Ley;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
 XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-XV. Integrar grupos policiales especializados a través de programas y capacitación permanente en materia de derechos humanos y perspectiva de género, para la adecuada y oportuna identificación y atención de faltas administrativas y delitos por razón de género; y
+XV. Integrar grupos policiales especializados a través de programas y capacitación permanente en materia de derechos humanos y perspectiva de género, para la adecuada y oportuna identificación y atención de faltas administrativas y delitos por razón de género;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+XVI. Sujetar sus actuaciones a los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como la perspectiva de género y respeto a los derechos humanos; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2020)</small>
 
-XVI. Las demás previstas para el cumplimiento de la presente Ley.
+XVII. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1841,7 +1855,9 @@ Corresponde a la Secretaría de Educación:
 
 I. Diseñar y aplicar la política educativa para atender, prevenir y erradicar la violencia contra las mujeres;
 
-II. Aplicar en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos, en todos los niveles educativos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+II. Aplicar en las políticas educativas los principios de igualdad sustantiva, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos, en todos los niveles educativos;
 
 III. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
 
@@ -1903,11 +1919,17 @@ XXI. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría del Trabajo y Previsión Social:
 
-I. Diseñar y aplicar programas en materia laboral, para atender y proporcionar oportunidades y opciones de empleo en igualdad de oportunidades a mujeres y hombres en la Entidad;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+I. Diseñar y aplicar programas en materia laboral, para atender y proporcionar oportunidades y opciones de empleo en igualdad de oportunidades a mujeres y hombres en la Entidad, procurando reducir y erradicar la brecha salarial de género;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
 II. Garantizar, desde el ámbito de su competencia, las acciones de difusión y capacitación permanentes con el personal de los centros laborales, los mecanismos que privilegien el desarrollo laboral y productivo de las mujeres en materia de empleo; la eliminación de toda práctica de acoso laboral, con mecanismos de denuncia que incluyan asesoría legal y psicológica, así como también métodos para la investigación y sanción del acoso laboral, que permita el respeto a los derechos humanos y la privacidad;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+II Bis. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres, así como para reducir y erradicar la brecha salarial de género;
 
 III. Promover programas que permitan a las mujeres el acceso, y permanencia en programas de autoempleo;
 
@@ -1941,7 +1963,9 @@ Corresponde a la Secretaría de Desarrollo Económico:
 
 I. Incorporar el principio de igualdad de género en los programas y acciones de fomento económico a su cargo, a fin de garantizar el acceso efectivo de las mujeres a los estímulos y beneficios que estos establecen;
 
-II. Diseñar de manera coordinada con la Secretaría del Trabajo y Previsión Social y el sector privado, programas y acciones, con el objetivo de promover el principio de igualdad de género en los procesos de contratación de las y los trabajadores, que realizan las empresas;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+II. Diseñar de manera coordinada con la Secretaría del Trabajo y Previsión Social y el sector privado, programas y acciones, con el objetivo de promover el principio de igualdad de género en los procesos de contratación de las y los trabajadores, que realizan las empresas, procurando reducir y erradicar la brecha salarial de género;
 
 III. Establecer programas para promover la integración de empresas conformadas por mujeres a las cadenas de valor en el ámbito local, nacional y global;
 
@@ -2009,15 +2033,21 @@ XIV. Aplicar, en el ámbito de su competencia, el Programa Estatal a que se refi
 
 XV. Colaborar con el Instituto, para la creación de los refugios que brinden atención y protección a las víctimas;
 
-XVI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2020)</small>
+XVI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-XVII. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Aplicar, en el ámbito de su competencia, los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como la perspectiva de género y respeto a los derechos humanos; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2020)</small>
 
-XVIII. Las demás previstas para el cumplimiento de la presente Ley.
+XIX. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE JUNIO DE 2020)</small>
 
@@ -2642,6 +2672,22 @@ TERCERO.- Para la creación del Programa "puntos violeta" al que hace referencia
 P.O. 28 DE NOVIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 061 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA Y A LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 239 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO, A LA LEY DE DERECHOS DE LAS JEFAS DE FAMILIA DEL ESTADO DE DURANGO Y A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA, EN MATERIA DE IGUALDAD SUSTANTIVA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 240 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
