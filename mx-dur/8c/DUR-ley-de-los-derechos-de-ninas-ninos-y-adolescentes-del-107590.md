@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2025-10-26"
+last_updated: "2025-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -1021,7 +1021,9 @@ Toda medida que se adopte será susceptible de revisión por órgano judicial co
 
 Las autoridades, en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
 
-I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable, a excepción de aquellos en los que se involucren adolescentes y así lo precisen las leyes aplicables;
 
 II. Que su participación en un procedimiento se lleve a cabo de la manera más expedita, en espacios lúdicos y condiciones especiales, asistidos por un profesional en derecho;
 
@@ -1033,7 +1035,9 @@ V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra n
 
 VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
 
-Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección; tratándose de adolescentes se deberá atender y proceder conforme a lo establecido en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
 
@@ -1146,6 +1150,10 @@ La desnutrición y la obesidad entre las niñas, niños y adolescentes son asunt
 El Poder Ejecutivo del Estado y gobiernos municipales podrán crear programas de educación alimentaria y mejoramiento nutricional para las niñas, niños y adolescentes en la etapa inicial, preescolar, primaria, secundaria y medio superior en zonas identificadas con altos índices de desnutrición, anemia o en riesgo de desnutrición. Madres y padres de familia participaran en el cumplimiento de la misma.
 
 El Poder Judicial del Estado de Durango, implementará un registro que integre los datos, antecedentes y referencias de las personas obligadas por sentencia ejecutoriada a dar alimentos y que hayan adquirido el carácter de deudor alimentario moroso por incumplimiento a esa obligación.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Los sistemas DIF estatal y sistemas municipales DIF, tratándose de actividades, programas y estrategias que tengan la finalidad de atender aspectos de alimentación infantil, combatir la inseguridad alimentaria infantil, la desnutrición infantil, y la obesidad, podran suscribir, convenios con aquellas organizaciones sociales, fundaciones y personas morales no lucrativas, a fin de establecer programas conjuntos y promover la aportación de ideas y recursos financieros destinados a combatir dicha condición.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -1489,13 +1497,17 @@ III. Los cursos y programas educativos destinados a servidores públicos, padres
 
 IV. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualquier persona que tenga conocimiento de casos de niñas, niños y adolescentes que estén sufriendo la violación de los derechos consignados en esta Ley, en cualquiera de sus formas y de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-V. En las instituciones educativas, deportivas, religiosas, de salud, de cuidado, penales o de cualquier índole o quienes tengan trato con niñas, niños y adolescentes, se velará por el respeto de sus derechos, a efecto de evitar cualquier tipo (sic) maltrato, perjuicio, daño, agresión, castigo corporal, humillante, abuso o explotación; y
+V. En las instituciones educativas, deportivas, religiosas, de salud, de cuidado, penales, policiales, de investigación o de cualquier índole o quienes tengan trato con niñas, niños y adolescentes, se velará por el respeto de sus derechos, a efecto de evitar cualquier tipo de maltrato, perjuicio, daño, agresión, castigo corporal, humillante, abuso o explotación;
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-VI. Las obligaciones de quienes tengan trato con niñas, niños y adolescentes observen la prohibición de ejercer cualquier tipo de violencia en su contra, incluyendo el castigo corporal y humillante.
+VI. Las obligaciones de quienes tengan trato con niñas, niños y adolescentes observen la prohibición de ejercer cualquier tipo de violencia en su contra, incluyendo el castigo corporal y humillante; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+VII. La obligación de los servidores públicos que intervengan en los procedimientos jurisdiccionales en los que se atribuya la comisión o participación en un hecho que la ley señale como delito cometido por adolescentes, de contar con los conocimientos, capacitación y especialización de conformidad con lo establecido en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ###### Artículo 72.
 
@@ -2560,5 +2572,21 @@ P.O. 26 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 203 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, TODAS EN MATERIA DE REGISTRO NACIONAL DE OBLIGACIONES ALIMENTARIAS”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 236 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 54 Y 71, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 238 QUE CONTIENE REFORMA AL ARTÍCULO 60 BIS 4 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE ALIMENTACIÓN INFANTIL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
