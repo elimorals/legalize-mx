@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2025-05-01"
+last_updated: "2025-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2393,6 +2393,18 @@ Comete el delito de acoso sexual, quien con fines de lujuria asedie a una person
 
 Si el sujeto pasivo del delito de acoso es un menor de dieciocho años o estuviere privado de la razón o de sentido, se le impondrá de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientos sesenta veces la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+A quien provechándose (sic) de la situación de vulnerabilidad que genere un espacio público o un medio de transporte, asedie mediante conductas verbales y/o físicas a una persona, tome fotografías o videos de su cuerpo, persiga o intimide, vulnerando su dignidad y su intimidad.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Se le impondrá de dos a cinco años de prisión y multa de treinta y seis a doscientas dieciséis veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Además de la pena señalada en el párrafo anterior, si se ejecutara en contra de una persona de tercera edad o en situación de vulnerabilidad se le impondrá una tercera parte de la pena y multa de doscientas dieciséis a trescientos treinta y dos veces la Unidad de Medida y Actualización.
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO I. PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL
@@ -2450,6 +2462,16 @@ IX. Cuando se cometa contra persona menor de edad o persona que no tenga la capa
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 En estos casos el Ministerio Público o la autoridad judicial dictarán las medidas que consideren pertinentes a efecto de retirar inmediatamente el contenido que fue o es difundido por cualquier medio, para salvaguardar la intimidad de la víctima.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Artículo 182 QUATER. Comete el delito de violencia a la intimidad sexual mediante Inteligencia Artificial quien, genere, manipule, altere o simule material pudiendo ser estas imágenes videos o audios o cualquier otro, con contenido sexual mediante inteligencia artificial o herramientas digitales, que represente a una persona real sin su consentimiento, con la finalidad de distribuir, exhibir, comercializar o amenazar con difundir dicho contenido, se sancionará con pena de cinco a nueve años de prisión y multa de trescientas sesenta a seiscientos cuarenta y ocho Unidades de Medida de Actualización.
+
+Esta pena aumentará una tercera parte si la víctima es menor de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo.
+
+La pena se incrementará en una mitad cuando las imágenes, videos o audios hayan sido obtenidos sin autorización del titular desde redes sociales, dispositivos móviles, correos electrónicos u otras plataformas digitales, y posteriormente se modifiquen o transformen mediante inteligencia artificial para generar contenido sexual.
+
+Para efectos de esta disposición, se entenderá por inteligencia artificial (IA) cualquier sistema informático o modelo algorítmico, entrenado o programado, capaz de procesar datos y generar textos, imágenes, sonidos, videos o representaciones visuales, de manera autónoma o asistida, que imiten, reproduzcan o sustituyan conductas, rasgos o identidades humanas con apariencia de veracidad.
 
 SUBTÍTULO CUARTO
 
@@ -5211,7 +5233,9 @@ Al que para hacer efectivo un derecho o pretendido derecho, que deba ejercitar, 
 
 Se impondrá de seis meses a un año de prisión y multa de treinta y seis a setenta y dos veces la Unidad de Medida y Actualización, a quien coaccione a la autoridad por medio de la violencia, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones.
 
-### CAPÍTULO I. DELITOS EN CONTRA DE LA ADECUADA IMPARTICIÓN DE JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
+### CAPÍTULO X. DELITOS EN CONTRA DEL SUMINISTRO E INFRAESTRUCTURA DEL AGUA POTABLE
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 360.
 
@@ -5233,13 +5257,75 @@ Quien conduzca un vehículo que preste servicio público de transporte con una s
 
 Las penas aplicables a que se refiere el artículo anterior, se aumentarán de una a dos terceras partes a quien obtenga y/o utilice indebidamente cualquier documento, tarjeta o placa de circulación y engomado que corresponda al que identifique las unidades que presten el servicio público de transporte.
 
-### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+### CAPÍTULO I. DELITOS EN CONTRA DE LA ADECUADA IMPARTICIÓN DE JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
 ###### Artículo 362.
 
 Al que cometa un delito en contra de un servidor público o agente de la autoridad en el ejercicio de sus funciones o con motivo de ellas, además de la pena que corresponda por el delito cometido, se le impondrá de uno a tres años de prisión y multa de setenta y dos a doscientas dieciséis veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
+###### Artículo 362 Bis.
+
+A quien, teniendo la obligación legal, no supervise o ejecute el proceso de desinfección del agua potable que se encuentre bajo su responsabilidad, se le impondrán de dos a seis años de prisión y de ciento cuarenta y cuatro a cuatrocientos treinta y dos veces la unidad de medida y actualización.
+
+Si el responsable es servidor público, además de las penas señaladas en el párrafo anterior, se le destituirá e inhabilitará hasta por seis años.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 362 Ter.
+
+A quien distribuya o suministre agua potable a través de pipa u otro medio de almacenamiento, sin contar con el permiso de distribución o la evaluación o autorización correspondiente, expedidos por la autoridad competente, con la finalidad de obtener un beneficio económico, se le impondrán de dos a seis años de prisión y de ciento cuarenta y cuatro a cuatrocientos treinta y dos veces la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 362 Quáter.
+
+A quien extraiga u obtenga agua de una fuente de abastecimiento diversa a la autorizada, se le impondrá de uno a tres años de prisión y de setenta y dos a doscientos dieciséis veces la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 362 Quinquies.
+
+Al que sin causa justificada altere, impida o restrinja de cualquier forma el flujo de agua destinado al suministro de los usuarios de dicho servicio, se impondrá de dos a seis años de prisión y de ciento cuarenta y cuatro a cuatrocientos treinta y dos veces la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 362 Sexies.
+
+Al que, sin autorización, concesión, licencia o permiso expedido por la autoridad competente, sustraiga o se apropie del agua potable de la infraestructura hidráulica, independientemente del uso que se le destine, se le impondrá de dos a seis años de prisión y de ciento cuarenta y cuatro a cuatrocientos treinta y dos veces la unidad de medida y actualización.
+
+Si la persona es servidora pública, que disponga, supervise, controle, maneje, o por su encargo o comisión, puedan (sic) abastecer o facilitar la sustracción de agua potable de la infraestructura hidráulica estatal, además de las penas señaladas en el párrafo anterior, se incrementará con una mitad adicional; lo anterior, sin perjuicio de las sanciones que procedan por la responsabilidad administrativa en la que incurran.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 362 Septies.
+
+Incurre en el delito de sustracción o apropiación ilegal de agua potable quien realice las siguientes conductas:
+
+I. El comercializar o explotar agua potable sustraída o apropiada de manera ilegal.
+
+II. El almacenar, ocultar, poseer o resguardar agua potable sustraída o apropiada de manera ilegal, para su uso o consumo en cualquier modalidad.
+
+III. El transportar, suministrar o distribuir por cualquier medio el agua potable sustraída o apropiada de manera ilegal.
+
+Las conductas señaladas en las fracciones anteriores se sancionarán de la siguiente manera:
+
+a) Cuando la cantidad sea mayor a cuatrocientos litros, se le impondrá de uno a tres años de prisión y de setenta y dos a doscientos dieciséis veces la unidad de medida y actualización.
+
+b) Cuando la cantidad sea mayor a diez metros cúbicos de agua, pero menor o equivalente a cuarenta metros cúbicos, se le impondrá de dos a seis años de prisión y de ciento cuarenta y cuatro a cuatrocientos treinta y dos veces la unidad de medida y actualización.
+
+c) Cuando la cantidad sea mayor a cuarenta metros cúbicos de agua, se le impondrá de cuatro a ocho años de prisión y de doscientas ochenta y ocho a quinientos setenta y seis veces la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 362 Octies.
+
+Al propietario, o en su caso al arrendatario, poseedor, detentador o a quien se ostente como tal, de predio donde se sustraiga o se apropie del agua de la infraestructura hidráulica, se le impondrá de dos a cuatro años de prisión y de ciento cincuenta a trescientas veces la unidad de medida y actualización.
 
 SUBTÍTULO QUINTO
 
@@ -5248,10 +5334,6 @@ DELITOS EN CONTRA DE LA ADECUADA IMPARTICIÓN DE JUSTICIA COMETIDOS POR SERVIDOR
 ### CAPÍTULO III. TORTURA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
-
-### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 363.
 
@@ -5301,9 +5383,9 @@ Se impondrá de tres meses a tres años de prisión y multa de dieciocho a dosci
 
 Se impondrá de seis meses a seis años de prisión y multa de treinta y seis a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización, destitución e inhabilitación de seis meses a seis años para desempeñar empleo, cargo o comisión públicos, a los imputados de los delitos previstos en las fracciones VIII a la XVII de este artículo.
 
-### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICOS FORENSES
+### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 364.
 
@@ -5331,7 +5413,7 @@ VIII. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a
 
 IX. A la persona servidora pública que en ejercicio de sus funciones de forma indebida difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audiograbe, fotografíe, filme, reproduzca, comercialice, oferte, intercambie o comparta imágenes, audios, videos, información reservada, documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos relacionados con el procedimiento penal o productos con uno o varios hechos, señalados por la Ley como delitos.
 
-### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
+### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICOS FORENSES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5363,9 +5445,9 @@ El servidor público que en el ejercicio de sus funciones conozca de un hecho de
 
 No se considerarán como causas excluyentes de responsabilidad penal del delito de tortura, el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
-### CAPÍTULO VII. EVASIÓN DE PRESOS
+### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 369.
 
@@ -5451,7 +5533,9 @@ En caso de tratarse de particulares realizando funciones propias del supervisor 
 
 Se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientas dieciséis veces la Unidad de Medida y Actualización, al servidor público que por sí o por interpósita persona durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte pruebas relativas a la comisión de un delito.
 
-### CAPÍTULO VIII. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LA LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO VII. EVASIÓN DE PRESOS
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 371.
 
@@ -5491,9 +5575,7 @@ Las mismas penas que señala el artículo 369 se aplicarán al profesional en me
 
 Se impondrá de seis meses a un año de prisión y multa de treinta y seis a setenta y dos veces la Unidad de Medida y Actualización, al profesional en medicina, técnico o práctico que con motivo de su profesión o actividad, tenga conocimiento del estado de abandono de un recién nacido, persona menor de edad o que no tenga la capacidad de comprender los hechos o adulto mayor y omita dar aviso inmediato a la Procuraduría de la Defensa del Menor, la Mujer y la Familia del DIF Estatal o a la autoridad que exista en el lugar, quedando bajo la responsabilidad de esta última el informar a la autoridad competente.
 
-### CAPÍTULO I. FRAUDE PROCESAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+### CAPÍTULO VIII. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LA LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### Artículo 375.
 
@@ -5507,9 +5589,9 @@ III. Permita ilegalmente la salida de personas privadas de su libertad como proc
 
 IV. Permita o introduzca objetos de los prohibidos en el reglamento interior de los centros de reclusión o internamiento.
 
-### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
+### CAPÍTULO I. FRAUDE PROCESAL
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 376.
 
@@ -5545,9 +5627,9 @@ Al sujeto activo no se le impondrá pena o medida de seguridad alguna, salvo que
 
 Cuando un particular cometa o participe en alguno de los delitos previsto en este capítulo, se le impondrá la mitad de las penas establecidas.
 
-### CAPÍTULO III. VARIACIÓN DEL NOMBRE, DOMICILIO O NACIONALIDAD
+### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 381.
 
@@ -5575,9 +5657,9 @@ SUBTÍTULO SEXTO
 
 DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA COMETIDOS POR PARTICULARES
 
-### CAPÍTULO IV. SIMULACIÓN DE PRUEBAS
+### CAPÍTULO III. VARIACIÓN DEL NOMBRE, DOMICILIO O NACIONALIDAD
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 384.
 
@@ -5585,9 +5667,9 @@ Se le impondrán de seis meses a seis años de prisión y multa de treinta y sei
 
 Cuando en la comisión de este delito participe un licenciado en Derecho o litigante legalmente autorizado, además se le suspenderá en el ejercicio profesional o en la actividad indicada, por un término igual al de la prisión impuesta, haciéndose lo anterior del conocimiento de la autoridad que corresponda para la vigilancia de la pena impuesta.
 
-### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPÍTULO IV. SIMULACIÓN DE PRUEBAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 385.
 
@@ -5627,7 +5709,7 @@ Además de las penas a que se refieren los artículos anteriores, se suspenderá
 
 Se impondrán las penas a que se refiere el artículo 387 de este código al que soborne, obligue, comprometa o intimide a un testigo, perito o intérprete, para que se conduzca con falsedad en juicio.
 
-### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5641,7 +5723,7 @@ II. Al que para eludir la práctica de una diligencia judicial o una notificaci�
 
 III. Al que ante la autoridad, diere una nacionalidad falsa o que sin derecho para ello se haga pasar como mexicano o extranjero en cualquier documento público.
 
-### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
+### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5649,7 +5731,7 @@ III. Al que ante la autoridad, diere una nacionalidad falsa o que sin derecho pa
 
 Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad judicial, simule en su contra la existencia de pruebas que hagan probable su responsabilidad, se le impondrán de uno a cinco años de prisión y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización.
 
-### CAPÍTULO II. FALSIFICACIÓN O ALTERACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
+### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5673,7 +5755,7 @@ VII. Como representante de la víctima o el ofendido, se concrete a aceptar el c
 
 VIII. Teniendo a su cargo la custodia de documentos los extravíe por negligencia inexcusable.
 
-### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+### CAPÍTULO II. FALSIFICACIÓN O ALTERACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5713,7 +5795,7 @@ SUBTÍTULO SÉPTIMO
 
 DELITOS CONTRA LA FE PÚBLICA
 
-### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
+### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5747,9 +5829,9 @@ VII. Utilice indebidamente información confidencial o reservada de la instituci
 
 Si el sujeto activo es empleado o dependiente de la víctima u ofendido, las penas se aumentarán en una mitad.
 
-### CAPÍTULO V. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA Y DE DENUNCIA
+### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 401.
 
@@ -5761,9 +5843,9 @@ II. Use o enajene los objetos falsificados o alterados señalados en la fracció
 
 Las penas se aumentarán en una mitad, cuando el objeto falsificado o alterado sea oficial.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO V. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA Y DE DENUNCIA
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
 
 ###### Artículo 402.
 
@@ -5771,9 +5853,9 @@ Al que elabore o altere, sin permiso de la autoridad competente una placa, el en
 
 Las mismas penas se impondrán al que posea, utilice, adquiera o enajene cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente.
 
-### CAPÍTULO ÚNICO. IMPARTICIÓN ILÍCITA DE EDUCACIÓN
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
 ###### Artículo 403.
 
@@ -5810,6 +5892,10 @@ IV. Al médico que certifique falsamente que una persona tiene una enfermedad u 
 V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad al traducir o descifrar un documento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2018)</small>
+
+### CAPÍTULO ÚNICO. IMPARTICIÓN ILÍCITA DE EDUCACIÓN
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
 
 ###### Artículo 406.
 
@@ -7076,6 +7162,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 158 QUE CONTIENE REFORMA AL ARTÍCULO 220, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE DESPOJO CONTRA ADULTOS MAYORES”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 245 QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE DELITOS EN CONTRA DEL SUMINISTRO E INFRAESTRUCTURA DEL AGUA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 246 QUE CONTIENE ADICIONES A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA Y AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL "DECRETO 272 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 182 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE ACOSO CALLEJERO".]</small>
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
