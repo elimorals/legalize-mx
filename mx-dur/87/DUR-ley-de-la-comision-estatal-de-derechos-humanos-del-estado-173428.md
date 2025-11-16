@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-17342
 country: "mx"
 rank: "ley"
 publication_date: "2024-06-13"
-last_updated: "2024-06-13"
+last_updated: "2025-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Número 47 del Periódico Oficial del Estado de Durango, el jueves 13 de junio de 2024.
 
@@ -159,9 +159,11 @@ De igual manera, en los casos del manejo, entrega y publicación de todo tipo de
 
 El personal de la Comisión no podrá ser detenido, multado o juzgado, reconvenido, ni sujeto a responsabilidad civil, penal, administrativa o de cualquier otra índole, por las opiniones, resoluciones o por los actos que realicen en el debido ejercicio de sus encargos.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 13.
 
-La Comisión ejercerá libremente su presupuesto, ajustando el manejo de los recursos públicos a los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para cumplir los objetivos a los que estén destinados, con observancia de las disposiciones legales aplicables en la materia, e informará al Congreso del Estado y a la Entidad de Auditoría Superior, sobre su ejercicio presupuestal, en la forma y plazos que determinen las leyes.
+La Comisión ejercerá libremente su presupuesto, ajustando el manejo de los recursos públicos a los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para cumplir los objetivos a los que estén destinados, con observancia de las disposiciones legales aplicables en la materia, e informará al Congreso del Estado y a la Auditoría Superior del Estado, sobre su ejercicio presupuestal, en la forma y plazos que determinen las leyes.
 
 ###### ARTÍCULO 14.
 
@@ -1003,7 +1005,9 @@ La persona titular del Órgano Interno de Control será designada por el Congres
 
 El Órgano Interno de Control contará con las siguientes atribuciones:
 
-I. Fiscalizar los recursos públicos, así como su congruencia con el presupuesto de egresos, coordinándose con la Entidad de Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+I. Fiscalizar los recursos públicos, así como su congruencia con el presupuesto de egresos, coordinándose con la Auditoría Superior del Estado;
 
 II. Establecer la calendarización y las bases generales reglamentarias para la realización de auditorías internas e inspecciones con un enfoque preventivo;
 
@@ -1490,3 +1494,13 @@ DR. ESTEBAN ALEJANDRO VILLEGAS VILLARREAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HÉCTOR EDUARDO VELA VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 242 QUE CONTIENE REFORMAS A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, EN MATERIA DE ARMONIZACIÓN LEGAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
