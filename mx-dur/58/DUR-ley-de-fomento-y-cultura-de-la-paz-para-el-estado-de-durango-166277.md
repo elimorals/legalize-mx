@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-y-cultura-de-la-paz-para-el-estado-de-durango-16
 country: "mx"
 rank: "ley"
 publication_date: "2023-05-14"
-last_updated: "2023-05-14"
+last_updated: "2025-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO Y CULTURA DE LA PAZ PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el No. 39 del Periódico Oficial del Estado de Durango, el domingo 14 de mayo de 2023.
 
@@ -171,17 +171,21 @@ XIV Promover el respeto de las tradiciones de los pueblos y comunidades indígen
 
 XV. Desarrollar programas de cultura de la paz encaminados a la prevención de adicciones en niñas, niños, adolescentes y jóvenes;
 
-XVI Impulsar la cultura de la paz desde una perspectiva de solidaridad social con los grupos vulnerables;
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
-XVII Promover la cultura de la paz a través de una comunicación participativa y de libre expresión hacia la información;
+XVI. Desarrollar programas mediante la cultura de paz encaminados a la prevención de la participación de niñas, niños y adolescentes en conductas delictivas y fomentar la concientización sobre la importancia de actuar con legalidad;
 
-XVIII. Combatir la inseguridad en el Estado a través de diferentes mecanismos de cultura de la paz;
+XVII. Impulsar la cultura de la paz desde una perspectiva de solidaridad social con los grupos vulnerables;
 
-XIX. Promocionar y organizar actividades recreativas, culturales y deportivas para generar cultura de la paz;
+XVIII. Promover la cultura de la paz a través de una comunicación participativa y de libre expresión hacia la información;
 
-XX. Impulsar la investigación y estudios de paz en las diferentes universidades públicas y privadas del Estad; y
+XIX. Combatir la inseguridad en el Estado a través de diferentes mecanismos de cultura de la paz;
 
-XXI. Las demás que contribuyan al cumplimiento de la presente Ley.
+XX. Promocionar y organizar actividades recreativas, culturales y deportivas para generar cultura de la paz;
+
+XXI. Impulsar la investigación y estudios de paz en las diferentes universidades públicas y privadas del Estado; y
+
+XXII. Las demás que contribuyan al cumplimiento de la presente Ley.
 
 ## TÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -528,3 +532,13 @@ ESTEBAN ALEJANDRO VILLEGAS VILLARREAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HÉCTOR EDUARDO VELA VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 243 EL CUAL REFORMA LA LEY DE FOMENTO Y CULTURA DE LA PAZ PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
