@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-de-la-administracion-publica-federal-155265"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-02-08"
-last_updated: "2022-02-08"
+last_updated: "2025-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155265&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-01-28"
 ---
 # CODIGO DE ETICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA E INTEGRIDAD PARA UN BUEN GOBIERNO EN LA ADMINISTRACIÓN PÚBLICA FEDERAL, PUBLICADO EN EL D.O.F. 18 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en el Diario Oficial de la Federación, el martes 8 de febrero de 2022.
 
@@ -492,3 +494,17 @@ SÉPTIMO. La normativa que rige a los Comités de Ética, así como los mecanism
 OCTAVO. A partir de la entrada en vigor del presente Código de Ética, toda referencia a la abrogada "Regla de integridad 13" o "Regla de Integridad de Comportamiento Digno", publicada en el Diario Oficial de la Federación, el 02 de septiembre de 2016, que se encuentre mencionada en cualquier disposición o documento, deberá entenderse en términos del artículo 5, fracción IV del presente Código de Ética.
 
 Ciudad de México, 28 de enero de 2022.- Secretario de la Función Pública, Roberto Salcedo Aquino.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA E INTEGRIDAD PARA UN BUEN GOBIERNO EN LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo por el que se emite el Código de Ética de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 8 de febrero de 2022.
+
+TERCERO. La Secretaría emitirá la Guía para la elaboración del Código de Conducta de las dependencias y entidades de la Administración Pública Federal, a más tardar el 31 de diciembre de 2025.
+
+Las dependencias y entidades de la Administración Pública Federal deberán remitir a la Secretaría el proyecto de Código de Conducta Institucional, elaborado por su Comité de Ética, con la opinión favorable del Órgano Interno de Control o, en su caso la Oficina de Representación, en un plazo no mayor a 120 días naturales, contados a partir del día siguiente al de la publicación de la Guía a que se refiere el párrafo anterior.
