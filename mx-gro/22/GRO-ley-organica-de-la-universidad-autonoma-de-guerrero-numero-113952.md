@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-universidad-autonoma-de-guerrero-numero-1139
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-04-05"
-last_updated: "2016-04-05"
+last_updated: "2025-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE GUERRERO NÚMERO 178
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 5 de abril de 2016.
 
@@ -363,29 +363,35 @@ c) Consejero de dirección académica designado por autoridad.
 
 II. Integrantes de órganos de control, jurisdicción y vinculación que se denominan, según sea el caso: Contralor, Defensor y Presidente e integrantes de estas instancias.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 28.
 
-El proceso de elección, reelección, nombramiento, remoción y revocación de mandato de autoridades universitarias y los integrantes de los órganos de gobierno se sujetará a lo establecido en la presente Ley, el Estatuto y el Reglamento respectivo.
+El proceso de elección, nombramiento, remoción y revocación de mandato de las autoridades universitarias y de las y los integrantes de los órganos de gobierno, se sujetará a lo establecido en la presente Ley, el Estatuto y el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 29.
 
-La duración en el cargo de autoridades e integrantes de los órganos de gobierno es de:
+La duración en el cargo de las autoridades universitarias y de las y los integrantes de los órganos de gobierno, será la siguiente:
 
-I. Cuatro años para:
+I. Seis años para:
 
-a) Los Consejeros Universitarios y Consejeros Académicos electos, representantes de los profesores, que podrán ser reelectos por una sola vez;
+a) Las y los Consejeros Universitarios y Consejeros Académicos electos, representantes del profesorado;
 
-b) El Rector, que podrá ser reelecto por una sola vez; y
+b) La persona titular de la Rectoría, y
 
-c) Los Directores de Unidad Académica, que podrán ser reelectos por una sola vez.
+c) Las personas titulares de las Direcciones de Unidades Académicas.
 
-Tratándose de los incisos a) y c) en los casos que no se puedan renovar conforme a lo establecido en la presente Ley, deberán continuar, hasta en tanto el Consejo Universitario determine lo conducente.
+II. Tres años para:
 
-II. Dos años para:
+Las y los Consejeros Universitarios y Consejeros Académicos electos, representantes del estudiantado, en tanto su permanencia lo permita.
 
-Los Consejeros Universitarios y Consejeros Académicos electos, representantes de los estudiantes, que podrán ser reelectos mientras su permanencia en la Universidad lo permita.
+En ningún caso procederá la reelección inmediata para los cargos señalados en este artículo.
 
-Los requisitos, procedimientos de elección y funcionamiento de los órganos de gobierno y autoridades se establecen en el estatuto y el reglamento respectivo.
+Las autoridades universitarias y las y los integrantes de los órganos de gobierno permanecerán en el ejercicio de sus funciones hasta que rindan protesta quienes deban sustituirles.
+
+Los requisitos, procedimientos de elección y funcionamiento de los órganos de gobierno y autoridades se establecerán en el Estatuto y el Reglamento respectivo.
 
 ###### Artículo 30.
 
@@ -1040,3 +1046,15 @@ HACE CONSTAR
 QUE LAS PRESENTES COPIAS FOTOSTÁTICAS COMPUESTAS DE TREINTA Y DOS FOJAS ÚTILES, INCLUYENDO ESTA ÚLTIMA DEBIDAMENTE FOLIADAS, SELLADAS Y RUBRICADAS, SON REPRODUCIDAS FIELMENTE DE SU ORIGINAL, RELATIVAS AL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO, NÚMERO 28 ALCANCE I, DE FECHA CINCO DE ABRIL DEL DOS MIL DIECISÉIS, AÑO XCVII, MISMO QUE TUVE A LA VISTA, EL CUAL OBRA EN LOS ARCHIVOS DE LA SECRETARÍA GENERAL DE GOBIERNO.
 
 SE EXTIENDE LA PRESENTE PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR, EN LA CIUDAD DE CHILPANCINGO, CAPITAL DEL ESTADO DE GUERRERO A LOS DIECIOCHO DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL DIECISÉIS.- CONSTE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 288 POR EL QUE SE REFORMAN LOS ARTÍCULOS 28 Y 29 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE GUERRERO NÚMERO 178".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, y será aplicable a partir de la elección en el año 2027.
+
+SEGUNDO. La duración del cargo de las autoridades y órganos de gobierno en funciones, señalados en el artículo 29 de la Ley Orgánica de la Universidad Autónoma de Guerrero Número 178, no se sujetarán a la ampliación de plazo que establece la presente reforma.
+
+TERCERO. El H. Consejo Universitario tendrá ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para armonizar el estatuto, los reglamentos y demás disposiciones normativas que rigen a la Universidad Autónoma de Guerrero.
