@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2025-11-11"
+last_updated: "2025-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -1091,7 +1091,9 @@ La atención materno-infantil es prioritaria para el Sistema Estatal de Salud, y
 
 I. La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II. La atención del niño y la vigilancia de su crecimiento, nutrición adecuada y desarrollo integral, incluyendo la promoción de la vacunación oportuna y las medidas necesarias para evitar el sobrepeso y obesidad, y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2025)</small>
+
+II. La atención del niño y la vigilancia de su crecimiento, nutrición adecuada, y desarrollo integral, incluyendo la promoción de la vacunación oportuna, la detección temprana y atención de cáncer infantil y las medidas necesarias para evitar el sobrepeso y obesidad, y
 
 III. La promoción de la integración y del bienestar familiar.
 
@@ -3378,6 +3380,16 @@ TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Per
 P.O. 11 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 282 POR EL QUE SE ADICIONA LA FRACCIÓN XIII DEL ARTÍCULO 46, RECORRIÉNDOSE LA XIII A LA SIGUIENTE FRACCIÓN XIV DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 18 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 283 POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 79 DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO, EN MATERIA DE ATENCIÓN MATERNO INFANTIL".]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
