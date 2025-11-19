@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2025-08-22"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -123,11 +123,25 @@ I. Acciones Afirmativas: Es el conjunto de medidas de carácter temporal correct
 
 II. Armonización legislativa: Adecuación del marco jurídico estatal y municipal con los tratados internaciones y normas nacionales en materia de derechos humanos e igualdad;
 
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+II Bis. Brecha salarial de género: Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor;
+
 III. Comisión de Igualdad: La Comisión de Igualdad y No Discriminación de Hidalgo;
 
 IV. Consejos Generales de Planeación para la Agenda de Género: Son mecanismospresididos (sic) por la persona titular de la Dependencia o Entidad de la Administración Pública Estatal, e integrado por las y los titulares de los tres mandos inferiores a ella. Tiene por objeto coordinar, ejecutar y evaluar la política pública en materia de igualdad real entre mujeres y hombres, y de acceso de las mujeres a una vida libre de violencia, a través del programa de trabajo que en conjunto se defina con la Unidad Institucional para la Igualdad entre Mujeres y Hombres;
 
-V. Discriminación: Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+V.- Discriminación: Toda distinción, exclusión, restricción o preferencia que por acción u omisión, con intención o sin ella, tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, el embarazo, la lengua o el idioma, las creencias religiosas o espirituales, la apariencia, la condición física, las características genéticas, la situación migratoria, las opiniones, la identidad de género, la orientación sexual, la identidad o filiación política, el estado familiar, la situación familiar, las responsabilidades familiares, profesión o actividad laboral, los antecedentes penales o cualquier otro motivo análogo.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
@@ -144,6 +158,10 @@ VI Ter. Estereotipo sexual: Es una idea fija y rígida que se perpetúa a travé
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
 VII. Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar que no dependen del sexo de las personas;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+VII Bis. Igualdad Salarial: Derecho a recibir una remuneración igual por un trabajo de igual valor, sin distinción alguna por motivo de sexo, género, identidad de género, origen étnico, orientación sexual, edad, discapacidad, condición social, económica, de salud o jurídica, entre otras.
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
@@ -243,9 +261,9 @@ III. Impulsar la vinculación interinstitucional en el marco de la Comisión de 
 
 IV. Coordinar las tareas en materia de igualdad mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia estatal; y
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de inclusión financiera que contribuya a cerrar la brecha de participación de las mujeres en el sistema financiero, así como en la toma de decisiones y en la vida social, deportiva, cultural y civil.
+V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de inclusión financiera que contribuya a cerrar la brecha de participación de las mujeres en el sistema financiero, así como en la toma de decisiones y en la vida familiar, de cuidados, social, laboral, política, deportiva, cultural y civil.
 
 ###### Artículo 12.
 
@@ -285,11 +303,13 @@ X. Promover el bienestar, desarrollo, seguridad, protección, igualdad y dignida
 
 XI. Los demás que esta ley y otros ordenamientos aplicables le confieren.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 19 DE NOVIEMBRE DE 2025, PÁGINA 26.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-La Política en materia de Igualdad entre mujeres y hombres deberá establecer las acciones conducentes para lograr la igualdad sustantiva en el ámbito económico, político, social y cultural.
-
-La Política que desarrolle el Ejecutivo Estatal deberá considerar los siguientes lineamientos:
+La Política en materia de Igualdad entre mujeres y hombres deberá establecer las acciones conducentes para lograr la igualdad sustantiva en los ámbitos familiar, de cuidados, económico, político, de salud, social, laboral y cultural, entre otros. La Política que desarrolle el Ejecutivo Estatal deberá considerar los siguientes lineamientos:
 
 I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
 
@@ -314,6 +334,10 @@ VII. Adoptar las medidas necesarias para la erradicación de la violencia de gé
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
 VIII. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres; promoviendo la integración del principio de igualdad de trato y de oportunidades, con el fin de evitar la segregación laboral y eliminar diferencias remuneratorias.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+VIII Bis. El establecimiento de medidas tendentes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género;
 
 IX. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
 
@@ -341,17 +365,17 @@ XV. Establecer medidas para fortalecer el acceso de las mujeres al empleo y la a
 
 XVI. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas y campañas informativas;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
 XVII. Establecer medidas para fortalecer el acceso de las mujeres a sus derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, y su participación en el desarrollo rural y en sus beneficios;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
 XVIII. Promover la participación de las mujeres rurales, y
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2025)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-XIX. Fomentar el desarrollo y la participación de las mujeres en la ciencia y la tecnología, así como el desarrollo de investigadoras profesionales.
+XIX. Promover la incorporación de la perspectiva de género en la planeación, diseño, ejecución y evaluación de proyectos de obra pública.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
 
@@ -485,6 +509,10 @@ IV Ter. Fomentar actividades reglamentarias con perspectiva de género;
 
 IV Quater. Fomentar la participación equitativa de mujeres y hombres en cargos públicos;
 
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+IV Quinquies. Incorporar la perspectiva de género en los proyectos de obra pública y urbanismo municipal;
+
 V. Diseñar, formular y aplicar campañas permanentes de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta ley le confiere.
 
 El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas; y
@@ -555,9 +583,9 @@ III. Establecer programas para la promoción de la igualdad en el trabajo;
 
 IV. Impulsar liderazgos igualitarios;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-V. Establecimiento de medidas bajo los principios de igualdad y no discriminación en las condiciones de trabajo entre mujeres y hombres, y
+V. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad sustantiva y no discriminación en las condiciones de trabajo entre mujeres y hombres, para eliminar la brecha salarial de género, y
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -597,9 +625,9 @@ V. Promover condiciones de trabajo que eviten el acoso sexual y su prevención p
 
 VI. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-VII. Evitar la segregación de las personas del mercado de trabajo en razón de su sexo, preferencia o identidad sexual; y
+VII. Reducir y erradicar la brecha salarial y la segregación de las personas del mercado de trabajo por razón de su sexo o género, y
 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
 
@@ -1034,5 +1062,17 @@ P.O. 26 DE MAYO DE 2025.
 P.O. 22 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 338 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 15 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO A LA CIENCIA Y LA TECNOLOGÍA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO NÚM. 325 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE IGUALDAD SALARIAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 327 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, Y DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DEL ENFOQUE DE PERSPECTIVA DE GÉNERO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
