@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2025-10-08"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -1049,15 +1049,21 @@ XXIII. Fomentar la participación de emprendimientos y negocios mediante la crea
 
 XXIV. Impartir talleres que fortalezcan el control de emociones y el manejo de conflictos ante situaciones de la vida cotidiana en niñas, niños y adolescentes;
 
-> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-XXV. Establecer programas y convenios con la Secretaría de Salud Estatal, para que, durante las jornadas que realiza en temas nutricionales y combate a la obesidad, se impartan actividades en las instituciones educativas en los niveles de educación básica y media superior, para la mejora de los hábitos alimenticios; y
+XXV. Establecer programas y convenios con la Secretaría de Salud Estatal, para que, durante las jornadas que realiza en temas nutricionales y combate a la obesidad, se impartan actividades en las instituciones educativas en los niveles de educación básica y media superior, para la mejora de los hábitos alimenticios;
 
 XXVI. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección correspondiente, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
 
 Una vez efectuada dicha notificación será aplicable el procedimiento establecido en el artículo 86 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias, a fin de garantizar los derechos de las niñas, niños y adolescentes.
 
-En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia; y
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XXVII.- Establecer las condiciones necesarias para el uso responsable del traslado de útiles escolares y evitar la sobrecarga en la mochila y objetos que sean utilizados por las niñas, niños y adolescentes, así como, establecer casilleros o áreas de almacenamiento seguro dentro de las instituciones educativas.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -2404,3 +2410,15 @@ P.O. 8 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-542 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXV Y XXVI, PÁRRAFO TERCERO; Y SE ADICIONA UNA FRACCIÓN XXVII AL PÁRRAFO 3 DEL ARTÍCULO 37 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La implementación de lo dispuesto en el presente Decreto se realizará conforme a la disponibilidad presupuestal y a los mecanismos de planeación existentes desarrollados por las áreas competentes.
