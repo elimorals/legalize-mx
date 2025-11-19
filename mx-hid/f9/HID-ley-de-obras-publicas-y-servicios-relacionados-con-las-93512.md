@@ -4,7 +4,7 @@ identifier: "HID-ley-de-obras-publicas-y-servicios-relacionados-con-las-93512"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-25"
-last_updated: "2024-10-15"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -321,17 +321,21 @@ V.- La prevención de obras principales, así como las complementarias o accesor
 
 VI.- La tecnología aplicable, en función de la naturaleza de las obras públicas y, en su caso, los servicios relacionados con la misma de la región donde se apliquen;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-VII.- Tomar en cuenta el empleo de los recursos humanos y la utilización de los materiales propios de la región, donde se ubiquen las obras; y
+VII.- Tomar en cuenta el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-VIII.- En el diseño de nuevas construcciones de caminos, carreteras y autopistas, así como la modernización de las existentes, se deberá proteger y conservar los diversos ecosistemas, estableciendo para su diseño e implementación pasos de fauna, entendiéndose como pasos de estructuras trasversales a camino, carretera o autopista que permita habilitar el paso seguro de fauna silvestre en el ecosistema afectado por la construcción de las vías de comunicación.
+VIII.- En el diseño de nuevas construcciones de caminos, carreteras y autopistas, así como la modernización de las existentes, se deberá proteger y conservar los diversos ecosistemas, estableciendo para su diseño e implementación pasos de fauna, entendiéndose como pasos de estructuras transversales a camino, carretera o autopista que permita habilitar el paso seguro de fauna silvestre en el ecosistema afectado por la construcción de las vías de comunicación;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-VIII (SIC).- Considerar el impacto ambiental en la realización de las obras públicas, con la finalidad de prevenir, evitar o reducir el desequilibrio ecológico o que se rebasen los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente.
+IX. Considerar el impacto ambiental en la realización de las obras públicas, con la finalidad de prevenir, evitar o reducir el desequilibrio ecológico o que se rebasen los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, y
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+X.- La incorporación del enfoque de perspectiva de género que promueva que los espacios, instalaciones y servicios sean accesibles, adecuados y proporcionales a las necesidades diferenciadas.
 
 ###### ARTÍCULO 23.
 
@@ -1344,3 +1348,9 @@ P.O. 15 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1052 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 327 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, Y DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DEL ENFOQUE DE PERSPECTIVA DE GÉNERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
