@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2025-08-22"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -95,9 +95,17 @@ I.- Estrategias, medidas y acciones necesarias para el aprovechamiento, en benef
 
 II.- La ejecución de las medidas y acciones que tiendan a conciliar equilibradamente la interrelación entre ciudad y campo y que requieran la planeación, ordenación y regulación de los asentamientos humanos;
 
-III.- Las obras y servicios de transportes, estructura vial y demás sistemas de convivencia y de servicios en cada asentamiento humano; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-IV.- Las acciones tendientes a crear la reserva territorial para la construcción de equipamiento, vivienda e infraestructura que requieran los asentamientos humanos.
+III.- Las obras y servicios de transportes, estructura vial y demás sistemas de convivencia y de servicios en cada asentamiento humano;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+IV.- Las acciones tendientes a crear la reserva territorial para la construcción de equipamiento, vivienda e infraestructura que requieran los asentamientos humanos, y
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+V.- El fomento a la incorporación de la perspectiva de género en las fases de diseño, planificación, ejecución y evaluación de obras públicas.
 
 ###### ARTICULO 4.
 
@@ -2928,5 +2936,11 @@ P.O. 10 DE JULIO DE 2025.
 P.O. 22 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 333 – LXVI POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, EN MATERIA DE ACCESO A LA INFORMACIÓN Y TRANSPARENCIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 327 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, Y DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DEL ENFOQUE DE PERSPECTIVA DE GÉNERO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
