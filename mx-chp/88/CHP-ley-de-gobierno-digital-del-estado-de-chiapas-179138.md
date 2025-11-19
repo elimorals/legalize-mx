@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-gobierno-digital-del-estado-de-chiapas-179138"
 country: "mx"
 rank: "ley"
 publication_date: "2025-03-19"
-last_updated: "2025-03-19"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179138&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE GOBIERNO DIGITAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Número 030 del Periódico Oficial del Estado de Chiapas, el miércoles 19 de marzo de 2025.
 
@@ -587,25 +587,7 @@ Las personas servidoras públicas que infrinjan las disposiciones de esta Ley se
 
 ###### Artículo 53.
 
-Se iniciará procedimiento administrativo de responsabilidad al que incurra en los supuestos siguientes:
-
-I. Convertir a portales transaccionales sus portales informativos, de conformidad a su naturaleza.
-
-II. Negarse a incorporar a sus portales transaccionales, los trámites y servicios digitales que sean de su competencia, o incorporarlos de forma incompleta.
-
-III. Negarse a utilizar las medidas recomendadas por el Consejo para la Seguridad y protección de los Datos e información personal, proporcionada por las personas al efectuar, en sus portales transaccionales, trámites y servicios digitales.
-
-IV. Omitir la actualización de sus portales transaccionales y los Datos establecidos en ellos.
-
-V. Omitir la elaboración de su Programa Anual de Digitalización y Automatización de Servicios Públicos, Desarrollo de Software y Aplicaciones Móviles, o elaborarlo de forma incompleta o en contravención a la normatividad emitida en la materia.
-
-VI. Negarse a proporcionar información generada en el ámbito de su competencia, para la generación del sitio de Datos Abiertos, o proporcionar información falsa.
-
-VII. No contar con Dictamen Técnico previo a la adquisición, arrendamiento, contratación de bienes y servicios en materia de tecnologías de la información y comunicación.
-
-VIII. No dar continuidad a los programas relacionados con la aplicación de las tecnologías de la información y comunicación, independientemente del cambio de administración pública estatal o municipal.
-
-Los procedimientos administrativos derivados de la aplicación de esta Ley, serán independientes a los procedimientos para determinar las responsabilidades civiles o penales que se actualicen.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 2025)
 
 ## Transitorios
 
@@ -634,3 +616,13 @@ El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumpl
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 18 días del mes de marzo del año dos mil Veinticinco. D. P. C. LUIS IGNACIO AVENDAÑO BERMÚDEZ.- D. S. C. WENDY ARLET HERNÁNDEZ ICHIN.- Rúbricas.-
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los diecinueve días del mes de marzo del año dos mil veinticinco.- Óscar Eduardo Ramírez Aguilar, Gobernador del Estado de Chiapas.- Patricia del Carmen Conde Ruiz, Secretaria General de Gobierno y Mediación.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 016 POR EL QUE SE DEROGA EL ARTÍCULO 53 DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
