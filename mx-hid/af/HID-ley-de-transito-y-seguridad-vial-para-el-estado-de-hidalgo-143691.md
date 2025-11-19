@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transito-y-seguridad-vial-para-el-estado-de-hidalgo-1436
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-20"
-last_updated: "2025-08-22"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2020.
 
@@ -553,7 +553,15 @@ Las autoridades estatales y municipales, dentro de sus respectivas competencias,
 
 Artículo 33 bis. Las autoridades estatales y municipales promoverán que en los estacionamientos exista infraestructura y espacios exclusivos para personas con discapacidad, bicicletas y motocicletas.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Los estacionamientos dispondrán de cajones prioritarios para personas con discapacidad o movilidad reducida, ubicados en las zonas más cercanas a las entradas principales y con acceso directo. Estos espacios deberán contar con la señalización correspondiente.
+
 Los estacionamientos deberán contar con las instalaciones necesarias para garantizar la seguridad de las personas y los vehículos, así como con espacios adecuados y señalados para los vehículos de personas con discapacidad, motocicletas y bicicletas.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+En las nuevas construcciones, estas características serán obligatorias.
 
 ###### Artículo 34.
 
@@ -1818,3 +1826,9 @@ P.O. 22 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 347 - LXVI QUE REFORMA LOS ARTÍCULOS 71, 72 Y 73 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 280 - LXVI POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y CUARTO AL ARTÍCULO 33 BIS DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE ESTACIONAMIENTOS PARA PERSONAS CON DISCAPACIDAD O MOVILIDAD REDUCIDA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
