@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-competencia-101697"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-08"
-last_updated: "2024-06-04"
+last_updated: "2025-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-07-07"
 ---
 # ESTATUTO ORGANICO DE LA COMISION FEDERAL DE COMPETENCIA ECONOMICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL ANTIMONOPOLIO, PUBLICADO EN EL D.O.F. DE 19 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2025 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de julio de 2014.
 
@@ -2902,3 +2904,33 @@ D.O.F. 4 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO NO. CFCE-131-2024 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO CNA-027-2025 MEDIANTE EL CUAL SE EMITE EL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL ANTIMONOPOLIO".]
+
+PRIMERO.- El presente Estatuto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Comisión Federal de Competencia Económica publicado en el Diario Oficial de la Federación el ocho de julio de dos mil catorce.
+
+TERCERO.- Los procedimientos o asuntos iniciados con anterioridad a la entrada en vigor del presente Estatuto serán tramitados por el órgano o unidad administrativa que corresponda de conformidad con las atribuciones otorgadas en el presente Estatuto.
+
+CUARTO.- En tanto no se emiten los Lineamientos para el Funcionamiento del Pleno de la Comisión Nacional Antimonopolio, continuarán vigentes, en lo aplicable, los "Lineamientos para el Funcionamiento del Pleno de la Comisión Federal de Competencia Económica" emitidos el nueve de septiembre de dos mil veintiuno.
+
+Asimismo, seguirán vigentes las normas de carácter general que el Pleno de la Comisión Federal de Competencia Económica haya emitido para el eficaz desempeño de sus funciones, en lo que no se opongan a la Ley, al Reglamento y a este Estatuto.
+
+QUINTO.- Las personas titulares de la Autoridad Investigadora y de la Secretaría Técnica continuarán en funciones y ejercerán sus atribuciones conforme a lo previsto en el presente Estatuto.
+
+Las personas titulares de Direcciones Generales deberán ser designadas o, en su caso, ratificadas, por sus respectivos titulares de unidad o, en su caso, por la Persona Comisionada Presidente, según corresponda, y sus nombramientos tendrán efectos a partir del diecisiete de octubre de dos mil veinticinco.
+
+El resto de las personas servidoras públicas de la Comisión serán designadas o, en su caso, ratificadas, por sus respectivas personas titulares de unidad, Directores Generales o Personas Comisionadas, según corresponda, y sus nombramientos tendrán efectos a partir del diecisiete de octubre de dos mil veinticinco.
+
+SEXTO.- Las unidades administrativas y Direcciones Generales establecidas en el Estatuto Orgánico de la Comisión Federal de Competencia Económica serán sustituidas, en lo aplicable y de conformidad con las atribuciones establecidas en el presente instrumento, por las unidades administrativas y Direcciones Generales creadas en el presente Estatuto, de conformidad con lo siguiente:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 19 DE NOVIEMBRE DE 2025, PÁGINA 195.]</small>
+
+Para estos efectos, la persona titular de la Dirección General de Asuntos Jurídicos de la Comisión Federal de Competencia Económica transferirá los expedientes que tenga a su cargo o bajo su resguardo y que correspondan a la Dirección General de Procedimientos de Competencia, la Dirección General de Procedimientos Especiales o la Dirección General de Cumplimiento y Ejecución, según corresponda, conforme a las facultades previstas en este Estatuto.
+
+La transferencia de los expedientes no afecta el turno realizado por la persona titular de la Secretaría Técnica, por lo que cada Dirección General se sustituirá en el ejercicio de las funciones y continuará con el trámite de los expedientes que les sean transferidos.
+
+SÉPTIMO.- A la fecha de entrada en vigor del presente Estatuto, quedan sin efectos todos los acuerdos delegatorios que haya emitido la Persona Comisionada Presidente de la Comisión Federal de Competencia Económica.
