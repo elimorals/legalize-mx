@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2025-10-08"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -247,9 +247,9 @@ III.- A la protección de la salud y la alimentación:
 
 a).- Tener acceso a los satisfactores necesarios, para su atención integral;
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-b).- Tener acceso a los servicios de salud, en los términos del párrafo cuarto del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos;
+b).- Garantizar el acceso a los servicios de salud, incluyendo atención médica y suministro de medicamentos a domicilio, en cumplimiento del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
@@ -1068,6 +1068,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-458 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X; Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 4° DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-544 MEDIANTE EL CUAL SE REFORMA EL INCISO B) DE LA FRACCIÓN III, DEL ARTÍCULO 5°, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
