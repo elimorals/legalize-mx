@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2025-04-16"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2025.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -477,25 +477,21 @@ La Dirección General de Estabilidad Financiera tendrá las atribuciones que se 
 
 A esta Dirección General estarán adscritas las Direcciones de Análisis y Políticas de Riesgos Ambientales y Sociales, de Estabilidad Financiera, de Información del Sistema Financiero, de Análisis de Riesgos del Sistema Financiero y de Análisis de Riesgos Macrofinancieros.
 
-> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
-
-ARTICULO 14 BIS 1.- La Dirección General de Asuntos del Sistema Financiero tendrá las atribuciones señaladas en los artículos 25 Bis 1, 25 Bis 2 y 25 Bis 3.
-
-A esta Dirección General estarán adscritas la Dirección de Regulación y Supervisión, la Dirección de Intermediarios Financieros de Fomento y la Dirección de Evaluación de Servicios Financieros.
-
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2021)</small>
-
-Adicionalmente, corresponderá a esta Dirección General, por conducto de su titular, como responsable oficial de mejora regulatoria, coordinar, articular y vigilar, al interior del Banco, el cumplimiento de la política de mejora regulatoria y la Estrategia Nacional de Mejora Regulatoria, conforme a lo establecido en las disposiciones aplicables en la materia.
-
-> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 14 Bis 1.
 
-La Dirección General de Intermediarios Financieros de Fomento tendrá las atribuciones señaladas en el artículo 25 Bis 1.
+La Dirección General de Asuntos del Sistema Financiero tendrá las atribuciones señaladas en los artículos 25 Bis 1, 25 Bis 2 y 25 Bis 3 del presente Reglamento.
 
-A esta Dirección General estará adscrita la Dirección de Intermediarios Financieros de Fomento.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
+A esta Dirección General estarán adscritas la Dirección de Regulación y Supervisión, la Dirección de Intermediarios Financieros de Fomento y la Dirección de Evaluación de Servicios Financieros.
+
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2025)</small>
+
+Adicionalmente, de conformidad con lo previsto en la Ley Nacional para Eliminar Trámites Burocráticos y demás disposiciones aplicables, corresponderá a esta Dirección General, por conducto de su titular, fungir como instancia responsable de la coordinación ante la Autoridad Nacional de Simplificación y Digitalización; así como vigilar la aplicación de lo establecido en el Capítulo V del Título Segundo de la Ley citada, en relación con la implementación de las acciones de simplificación, digitalización y registro de trámites y servicios, según corresponda.
+
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 15.
 
@@ -1285,27 +1281,21 @@ X. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
 XI. Coordinar con las Unidades Administrativas responsables de las operaciones, el diseño y funcionamiento de aquellos controles aplicables a las operaciones del propio Banco, así como al manejo de los sistemas de pagos, en que se involucren recursos de origen indeterminado;
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 2025)</small>
 
-XII. Coordinar con las respectivas Unidades Administrativas competentes la participación del Banco, bajo los términos y para los propósitos señalados en su propia Ley, en los asuntos de prevención de operaciones susceptibles de impactar el sano desarrollo del sistema financiero o el buen funcionamiento de los sistemas de pagos y, para esos efectos, podrá recabar y revisar de dichas Unidades la información con que cuenten o puedan obtener en esta materia;
+XII. Coordinar con las respectivas Unidades Administrativas competentes la participación del Banco, bajo los términos y para los propósitos señalados en su propia Ley, en los asuntos de prevención de operaciones susceptibles de impactar el sano desarrollo del sistema financiero o el buen funcionamiento de los sistemas de pagos y, para esos efectos, podrá recabar y revisar de dichas Unidades la información con que cuenten o puedan obtener en esta materia, y
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 2025)</small>
 
-XIII. Coordinar la inspección que, en el ámbito de sus competencias, corresponda realizar a las demás Unidades Administrativas. La atribución de coordinación a que se refiere esta fracción comprenderá, de manera enunciativa mas no limitativa, con el acuerdo de las Unidades Administrativas competentes, la planeación de las visitas y de su ejecución, ya sea que se realicen por el Banco solamente o con otras autoridades, la determinación del programa de visitas considerando los objetivos y finalidades del Banco, así como la integración y entrega de los resultados de la inspección a las entidades o intermediarios financieros respectivos y a otras autoridades competentes;
+XIII. Coordinar la inspección que, en el ámbito de sus competencias, corresponda realizar a las demás Unidades Administrativas. La atribución de coordinación a que se refiere esta fracción comprenderá, de manera enunciativa mas no limitativa, con el acuerdo de las Unidades Administrativas competentes, la planeación de las visitas y de su ejecución, ya sea que se realicen por el Banco solamente o con otras autoridades, la determinación del programa de visitas considerando los objetivos y finalidades del Banco, así como la integración y entrega de los resultados de la inspección a las entidades o intermediarios financieros respectivos y a otras autoridades competentes.
 
-XIV. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2019)
+XIV. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2019) (REPUBLICADA SU DEROGACIÓN, D.O.F. 19 DE NOVIEMBRE DE 2025)
 
-XV. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2019)
+XV. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2019) (REPUBLICADA SU DEROGACIÓN, D.O.F. 19 DE NOVIEMBRE DE 2025)
 
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2021)</small>
+XVI. (DEROGADA, D.O.F. 19 DE NOVIEMBRE DE 2025)
 
-XVI. Coordinar con las Unidades Administrativas competentes y vigilar la aplicación de lo establecido en el Capítulo I del Título Tercero de la Ley General de Mejora Regulatoria, en relación con el Catálogo Nacional de Regulaciones, Trámites y Servicios, que le corresponda observar al Banco, actuando como la instancia responsable del propio Banco encargada de dicha aplicación, y
-
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2021)</small>
-
-XVII. De conformidad con la Ley General de Mejora Regulatoria y demás disposiciones aplicables, llevar a cabo las acciones que correspondan a la autoridad de mejora regulatoria respecto de las Protestas Ciudadanas que los interesados presenten al Banco en términos de dicha normatividad, incluidas, entre otras, la recepción de dichas Protestas, la validación de la información presentada, corroboración del cumplimiento de los supuestos de las Protestas, así como dar contestación a los interesados, previa vista que dé a las Unidades Administrativas competentes, con la participación que corresponda a la Dirección Jurídica.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
+XVII. (DEROGADA, D.O.F. 19 DE NOVIEMBRE DE 2025)
 
 > <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1547,17 +1537,15 @@ XV. (DEROGADA, D.O.F. 15 DE NOVIEMBRE DE 2018)
 
 XVI. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas y anticorrupción, así como de fiscalización y rendición de cuentas, le otorguen a la Autoridad Substanciadora en el Órgano Interno de Control, respecto a las faltas administrativas cuya resolución competa a la Comisión de Responsabilidades, y expedir los certificados de constancias que obren en sus expedientes de Autoridad Substanciadora. Asimismo, auxiliar a la mencionada Comisión en el ejercicio de las atribuciones que le corresponden en términos del artículo 36, fracción I, del presente Reglamento;
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 2025)</small>
 
-XVII. Conocer, substanciar y proveer lo necesario para la debida resolución de los recursos de su competencia como Autoridad Substanciadora, a que se refiere la Ley General de Responsabilidades Administrativas, y auxiliar a la Comisión de Responsabilidades en el ejercicio de las atribuciones que le corresponden en términos del artículo 36, fracción III, del presente Reglamento;
+XVII. Conocer, substanciar y proveer lo necesario para la debida resolución de los recursos de su competencia como Autoridad Substanciadora, a que se refiere la Ley General de Responsabilidades Administrativas, y auxiliar a la Comisión de Responsabilidades en el ejercicio de las atribuciones que le corresponden en términos del artículo 36, fracción III, del presente Reglamento, y
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 2025)</small>
 
-XVIII. Designar, a través de su titular, a los notificadores, de entre el personal adscrito a las unidades administrativas de esta Dirección, para que practiquen las notificaciones que le correspondan en ejercicio de sus atribuciones como Autoridad Substanciadora a que se refieren las fracciones XVI y XVII anteriores, y
+XVIII. Designar, a través de su titular, a los notificadores, de entre el personal adscrito a las unidades administrativas de esta Dirección, para que practiquen las notificaciones que le correspondan en ejercicio de sus atribuciones como Autoridad Substanciadora a que se refieren las fracciones XVI y XVII anteriores.
 
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2021)</small>
-
-XIX. Participar en la tramitación de procedimientos relacionados a la Protesta Ciudadana, a cargo de la Dirección de Regulación y Supervisión, en los términos previstos en la normatividad aplicable en materia de mejora regulatoria.
+XIX. (DEROGADA, D.O.F. 19 DE NOVIEMBRE DE 2025)
 
 > <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
@@ -3444,3 +3432,11 @@ D.O.F. 16 DE ABRIL DE 2025.
 PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE “MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados conservarán todo su valor y fuerza legales.
