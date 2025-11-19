@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2025-05-14"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -751,7 +751,9 @@ XI.- Dar contestación al informe anual que rinda el Titular del Poder Ejecutivo
 
 XII.- Requerir a las Comisiones, a solicitud expresa y por escrito de cualquiera de los diputados integrantes de la legislatura, para que presenten sus dictámenes con la oportunidad debida, una vez transcurridos treinta días hábiles de su presentación en el pleno;
 
-XIII.- Firmar las Actas de las Sesiones, inmediatamente después de su aprobación, así como las Leyes y Decretos que deban remitirse al Titular del Poder Ejecutivo del Estado, para los efectos conducentes;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XIII.- Firmar de manera autógrafa o electrónica las Actas de las Sesiones, inmediatamente después de su aprobación, así como las Leyes y Decretos que deban remitirse al Titular del Poder Ejecutivo del Estado, para los efectos conducentes;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -827,9 +829,9 @@ V.- Formar expedientes, de cada uno de los asuntos que se traten en el Congreso 
 
 VI.- Vigilar que los expedientes sean entregados a las respectivas Comisiones para su Dictamen y cuidar que éste, junto con las Iniciativas que lo motiven, circulen oportunamente entre los Diputados;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-VII.- Firmar, junto con la Presidencia de la Directiva, las Leyes, Decretos y Acuerdos Económicos, que apruebe el Congreso del Estado;
+VII.- Firmar de manera autógrafa o electrónica, junto con la Presidencia de la Directiva, las Leyes, Decretos y Acuerdos Económicos, que apruebe el Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
 
@@ -1167,11 +1169,11 @@ ARTÍCULO 85 BIS. - Para el quorum legal de una sesión de las comisiones, se re
 
 Cuando una Comisión, considere necesario demorar o suspender el despacho de algún asunto, lo expondrá fundamentándolo al Presidente de la Directiva. Dicho plazo podrá prorrogarse hasta por veinte días hábiles para que emita su Dictamen.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 87.
 
-El Dictamen o resolutivo presentado, deberá ser avalado con firma autógrafa por la mayoría de los integrantes de la Comisión para ser presentado ante el Pleno; en caso de que alguno de los integrantes no estuviere de acuerdo con el mismo, podrá presentar voto particular por escrito debidamente fundamentado, pudiendo exponer ante el Pleno o la Diputación Permanente en su caso, los motivos y fundamentos que lo originaron.
+El Dictamen o resolutivo presentado, deberá ser avalado con firma autógrafa o electrónica por la mayoría de los integrantes de la Comisión para ser presentado ante el Pleno; en caso de que alguno de los integrantes no estuviere de acuerdo con el mismo, podrá presentar voto particular por escrito debidamente fundamentado, pudiendo exponer ante el Pleno o la Diputación Permanente en su caso, los motivos y fundamentos que lo originaron.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2024)</small>
 
@@ -1332,6 +1334,10 @@ I.- Conducir los Trabajos Legislativos del Congreso;
 II.- Proponer los esquemas para la vinculación política con los ámbitos de Gobierno Federal, Estatal y Municipal y en su caso, con los Organismos Internacionales similares;
 
 III.- Coadyuvar en el desarrollo de los Trabajos del Congreso, así como elaborar propuestas para el mejoramiento del mismo;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+III BIS.- Promover, autorizar e instrumentar la implementación de estrategias de simplificación administrativa y el uso de Tecnologías de la Información y Comunicación en las labores del Congreso;
 
 IV.- Impulsar la conformación de Acuerdos relacionados con el contenido de los asuntos que requieran de su votación en el Pleno, a fin de agilizar el trabajo Legislativo;
 
@@ -1959,9 +1965,9 @@ V.- Puntos resolutivos;
 
 VI.- Proyecto de texto de Ley o Decreto; y
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-VII.- Fecha, nombre y firma de los Diputados integrantes de la Comisión o Comisiones que lo emiten, señalando de forma clara el sentido del voto de cada uno de los integrantes.
+VII.- Fecha, nombre y firma autógrafa o electrónica de los Diputados integrantes de la Comisión o Comisiones que lo emiten, señalando de forma clara el sentido del voto de cada uno de los integrantes.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2024)</small>
 
@@ -3152,3 +3158,11 @@ P.O. 14 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 230 – LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO Y DE SU REGLAMENTO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 326 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO Y DE SU REGLAMENTO, EN MATERIA DE USO DE LA FIRMA ELECTRÓNICA AVANZADA EN LOS PROCEDIMIENTOS PARLAMENTARIOS ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La aplicación de las reformas y adiciones aprobadas en este Decreto se realizará de manera progresiva, conforme a la disponibilidad técnica, operativa y presupuestal del Congreso del Estado lo permita. Para el inicio de su operación, el Congreso deberá haber implementado los recursos tecnológicos y operativos necesarios para su adecuada aplicabilidad. El inicio de los trabajos señalados recaerá en los órganos administrativos y operativos del Congreso, para lo cual el Congreso, por medio de sus órganos competentes para tal efecto, podrá celebrar los instrumentos jurídicos de colaboración necesarios para la implementación y operación de la firma electrónica.
