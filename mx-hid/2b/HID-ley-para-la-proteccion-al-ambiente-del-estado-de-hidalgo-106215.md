@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2025-02-27"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -209,6 +209,10 @@ XXXVIII Ter. GEOPARQUES: Áreas singulares, geográficamente unificadas con luga
 
 XXXVIII Quater. GEOSITIO: Área delimitada en donde existen elementos de interés geológico, así como su relación con el territorio, pudiendo vincularse con otros patrimonios naturales y culturales.
 
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XXXVIII Quinquies. HUERTOS URBANOS Y PERIURBANOS: son espacios públicos o privados reducidos y adaptables a diversas áreas, como viviendas, patios, jardines, techos, paredes, balcones, terrazas o lugares de fácil acceso, diseñados para el cultivo y producción de alimentos como frutas, verduras, hortalizas, hierbas aromáticas, plantas medicinales y flores, los cuales se utilizan para el autoconsumo de productos frescos y pueden desarrollarse tanto en tierra firme como en espacios alternativos, utilizando de preferencia materiales o recipientes reciclables.
+
 XXXIX. INCINERACIÓN: Tratamiento térmico, con o sin la recuperación de calor, producido por la combustión, incluyendo pirólisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
 XL. INFORME PREVENTIVO: Documento mediante el cual se dan a conocer los datos generales de una obra o actividad para efectos de determinar si requiere ser evaluada a través de una manifestación de impacto ambiental;
@@ -303,6 +307,10 @@ LXXIII. RUIDO: Todo sonido generado por actividades humanas que, por su intensid
 
 LXXIV. SECRETARÍA: Secretaría de Medio Ambiente y Recursos Naturales del Estado de Hidalgo;
 
+(REFORMADA [N. DE E. ANTES FRACCIÓN LXXIX (SIC)], P.O. 19 DE NOVIEMBRE DE 2025)
+
+LXXIV Bis. SEQUÍA: al fenómeno que produce cuando las lluvias han sido considerablemente inferiores a los niveles normales registrados causando un agudo desequilibrio hídrico que perjudica los sistemas de producción de recursos de las tierras;
+
 LXXV. SUSTANCIAS SUJETAS A REPORTE DE COMPETENCIA ESTATAL: Elementos o compuestos químicos, que conforme a los criterios de toxicidad, persistencia, bioacumulación, carcinogenicidad, teratogenicidad, capacidad agotadora de la capa de ozono y contribución al efecto invernadero y, en general, por sus efectos adversos al ambiente, sean emitidos o transferidos por los establecimientos sujetos a reporte de competencia estatal y deban ser integrados a la base de datos del Registro de Emisiones y Transferencia de Contaminantes;
 
 LXXVI. TRATAMIENTO: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se transforman las características de los residuos y se reduce su volumen o peligrosidad;
@@ -312,10 +320,6 @@ LXXVII. VERIFICACIÓN VEHICULAR: Medición de las emisiones de gases o partícul
 LXXVIII. VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales;
 
 LXXIX. VISITA DE INSPECCIÓN: La que realiza el personal debidamente autorizado para verificar el cumplimiento de las disposiciones contenidas en la presente Ley, así como de las que de la misma se deriven, incluyendo la realización de medidas, condicionantes u otras obligaciones a cargo del visitado;
-
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2024)</small>
-
-LXXIX (SIC). Sequía: al fenómeno que produce naturalmente cuando las lluvias han sido considerablemente inferiores a los niveles normales registrados causando un agudo desequilibrio hídrico que perjudica los sistemas de producción de recursos de las tierras;
 
 LXXX. VISITA DE VERIFICACIÓN: La que realiza el personal debidamente autorizado para corroborar actos, hechos u omisiones que dan origen a la denuncia ciudadana;
 
@@ -1318,6 +1322,10 @@ La Secretaría contará con un Departamento de Educación Ambiental, encargado d
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 La Secretaría promoverá en los estudiantes de los niveles básico y medio, una mejor convivencia ciudadana, fomentando el cuidado, preservación y protección del medio ambiente, en especial tratándose de los animales.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Para la implementación y fortalecimiento de los huertos urbanos y periurbanos definidos en esta Ley, se promoverá la vinculación y participación de Instituciones de Educación Media Superior y Superior, a fin de proporcionar acompañamiento técnico, capacitación y transferencia de conocimiento.
 
 ###### Artículo 53.
 
@@ -3890,5 +3898,11 @@ P.O. 15 DE OCTUBRE DE 2024.
 P.O. 27 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 205 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PÁRRAFOS DEL ARTÍCULO 166 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE REGULACIÓN DE DESCARGA DE AGUAS RESIDUALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 300 - LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE HUERTOS URBANOS Y PERIURBANOS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
