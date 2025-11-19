@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1804
 country: "mx"
 rank: "ley"
 publication_date: "2025-06-14"
-last_updated: "2025-06-21"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE A FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE JUNIO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 14 de junio de 2025.
 
@@ -91,11 +89,15 @@ I. Ajustes Razonables: modificaciones o adaptaciones necesarias y adecuadas que 
 
 II. Áreas: Instancias que disponen o pueden disponer de la información pública. En el sector público, serán aquellas que estén previstas en el reglamento interior, el estatuto orgánico respectivo o sus equivalentes;
 
-III. Instituto de Transparencia para el Pueblo del Estado de Tabasco: órgano administrativo desconcentrado de la Secretaría Anticorrupción y Buen Gobierno, que conocerá también de los recursos de revisión en materia de transparencia en contra de los municipios;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+III. Instituto de Transparencia para el Pueblo del Estado de Tabasco: órgano administrativo desconcentrado de la Secretaría Anticorrupción y Buen Gobierno, que conocerá y resolverá los medios de impugnación en materia de transparencia en contra de los entes del Poder Ejecutivo y de los municipios, en términos de la presente Ley;
 
 IV. Autoridad Garante Federal: Transparencia para el Pueblo, órgano administrativo desconcentrado de la Secretaría Anticorrupción y Buen Gobierno, del Poder Ejecutivo de la Federación;
 
-V. Autoridades Garantes: el Instituto de Transparencia para el Pueblo del Estado de Tabasco; los órganos encargados de la contraloría interna u homólogos de los poderes Legislativo y Judicial en el Estado, así como los órganos constitucionales autónomos; el Instituto Nacional Electoral, por cuanto hace al acceso a la información pública de los partidos políticos; el Centro Federal de Conciliación y Registro Laboral y el Tribunal Federal de Conciliación y Arbitraje, estos dos últimos por cuanto hace al acceso a la información pública de los sindicatos;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+V. Autoridades Garantes: el Instituto de Transparencia para el Pueblo del Estado de Tabasco; los órganos encargados de la contraloría interna u homólogos de los poderes Legislativo y Judicial en el Estado; la contraloría interna u homólogo del Órgano Superior de Fiscalización del Estado y de los órganos constitucionales autónomos; el Instituto Nacional Electoral, por cuanto hace al acceso a la información pública de los partidos políticos; el Centro Federal de Conciliación y Registro Laboral y el Tribunal Federal de Conciliación y Arbitraje, estos dos últimos por cuanto hace al acceso a la información pública de los sindicatos;
 
 VI. Comité de Transparencia: órgano colegiado constituido al interior de los Sujetos Obligados;
 
@@ -165,7 +167,9 @@ El derecho humano de acceso a la información comprende solicitar, investigar, d
 
 Toda la información generada, obtenida, adquirida, transformada o en posesión de los Sujetos Obligados es pública y accesible a cualquier persona, en los términos y condiciones que se establezcan en la presente Ley, en los tratados internacionales de los que el Estado mexicano sea parte, la Ley General y en las disposiciones jurídicas aplicables dentro de sus respectivas competencias.
 
-La información podrá ser clasificada como reservada temporalmente por razones de interés público o seguridad nacional conforme a los términos establecidos por esta Ley.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+La información podrá ser clasificada como reservada temporalmente por razones de interés público o, en su caso, por motivos de seguridad nacional, de conformidad con lo previsto en la Ley General.
 
 ###### Artículo 5.
 
@@ -227,7 +231,9 @@ VIII. Independencia: Deben actuar sin influencias que puedan afectar la imparcia
 
 IX. Legalidad: Ajustar su actuación a las disposiciones jurídicas aplicables, fundamentando y motivando sus resoluciones y actos;
 
-X. Máxima publicidad: Promover que toda la información en posesión de los Sujetos Obligados documentada sea pública y accesible, salvo en los casos expresamente establecidos en esta Ley o en otras disposiciones jurídicas aplicables, en los que podrá ser clasificada como reservada o confidencial por razones de interés público o seguridad nacional;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+X. Máxima publicidad: Promover que toda la información en posesión de los Sujetos Obligados documentada sea pública y accesible, salvo en los casos expresamente establecidos en esta Ley o en otras disposiciones jurídicas aplicables, en los que podrá ser clasificada como reservada o confidencial por razones de interés público o, en su caso, por motivos de seguridad nacional de conformidad con lo previsto en la Ley General;
 
 XI. Objetividad: Ajustar su actuación a los supuestos de ley que deben ser aplicados al analizar el caso en concreto para resolver, sin considerar juicios personales;
 
@@ -393,9 +399,17 @@ VII. El Órgano Interno de Control u homólogo del Tribunal de Justicia Administ
 
 VIII. El Órgano Interno de Control u homólogo del Tribunal Electoral;
 
-IX. El Órgano Interno de Control u homólogo de la Universidad Juárez Autónoma de Tabasco; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-X. Un titular de los Órganos Internos de Control u homólogo de los municipios, designado de acuerdo al orden alfabético establecido en el artículo 5 de la Ley Orgánica de los Municipios del Estado de Tabasco, el cual será rotado cada dos años en el orden secuencial previsto en dicha ley.
+IX. El Órgano Interno de Control u homólogo de la Universidad Juárez Autónoma de Tabasco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+X. La Contraloría Interna u homólogo del Órgano Superior de Fiscalización del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XI. Un titular de los Órganos Internos de Control u homólogo de los municipios, designado de acuerdo al orden alfabético establecido en el artículo 5 de la Ley Orgánica de los Municipios del Estado de Tabasco, el cual será rotado cada dos años en el orden secuencial previsto en dicha ley. Cuando el municipio que corresponda rechace la designación se notificará de inmediato al siguiente en el orden alfabético, dejando constancia del rechazo y de la reasignación correspondiente.
 
 Las personas integrantes del Comité Estatal, contarán con voz y voto, y ejercerán sus cargos a título honorifico, por lo que no recibirán retribución, emolumento ni compensación por su participación.
 
@@ -451,7 +465,9 @@ XIII. Garantizar condiciones de accesibilidad para que los grupos de atención p
 
 XIV. Informar a la instancia competente sobre la probable responsabilidad de los Sujetos Obligados que incumplan las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables;
 
-XV. Promover la participación y colaboración con organismos internacionales, en el análisis y mejores prácticas en materia de acceso a la información pública;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XV. Promover la participación y colaboración con organismos nacionales e internacionales, en el análisis y mejores prácticas en materia de acceso a la información pública;
 
 XVI. Fomentar los principios de transparencia, rendición de cuentas, participación ciudadana, accesibilidad e innovación tecnológica;
 
@@ -469,9 +485,11 @@ Las Autoridades Garantes de orden local podrán prever que su estructura sea sim
 
 ### CAPÍTULO III. DEL INSTITUTO DE TRANSPARENCIA PARA EL PUEBLO DEL ESTADO DE TABASCO
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 31.
 
-El Instituto de Transparencia para el Pueblo del Estado de Tabasco es un órgano desconcentrado de la Secretaría Anticorrupción y Buen Gobierno, que gozará de autonomía técnica y de gestión, y que también conocerá de los asuntos en materia de transparencia de los municipios del Estado.
+El Instituto de Transparencia para el Pueblo del Estado de Tabasco es un órgano desconcentrado de la Secretaría Anticorrupción y Buen Gobierno, que gozará de autonomía técnica, presupuestaria y de gestión. Asimismo, conocerá y resolverá los medios de impugnación en materia de transparencia en contra de los entes del Poder Ejecutivo y de los municipios del Estado, en términos de la presente Ley.
 
 ###### Artículo 32.
 
@@ -505,13 +523,29 @@ El Comité de Transparencia sesionará legalmente previa existencia del quórum,
 
 Quienes integren el Comité de Transparencia no podrán depender jerárquicamente entre sí, tampoco podrán reunirse dos o más integrantes en una sola persona. Cuando se presente el caso, la persona titular del Sujeto Obligado tendrá que nombrar a la persona que supla al subordinado. Quienes integren los Comités de Transparencia contarán con suplentes cuya designación se realizará de conformidad con la normatividad interna de los respectivos sujetos obligados, y deberán corresponder a personas que ocupen cargos de la jerarquía inmediata inferior a la de las personas integrantes propietarias.
 
-Los Comités de Transparencia estarán conformados por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Los Comités de Transparencia de las dependencias, órganos y entidades del Poder Ejecutivo Estatal, así como de los municipios estarán conformados por:
 
 I. La persona responsable del área coordinadora de archivos o equivalente;
 
 II. La persona responsable de la Unidad de Transparencia; y
 
 III. La persona titular del Órgano Interno de Control u homólogo.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+En caso de no contar con alguna de las personas responsables o titulares señaladas en el párrafo anterior, el titular de la dependencia, órgano o entidad del Poder Ejecutivo Estatal, y en su caso el Presidente Municipal o Consejo Municipal, nombrará a la persona que formará parte del Comité de Transparencia.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Para el caso de los demás Sujetos Obligados los Comités de Transparencia estarán conformados por:
+
+l. La persona titular del área jurídica o equivalente;
+
+II. La persona responsable de la Unidad de Transparencia; y
+
+III. La persona responsable del área coordinadora de archivos.
 
 Las personas integrantes del Comité de Transparencia tendrán acceso a la información para determinar su clasificación, conforme a las disposiciones jurídicas emitidas por los sujetos obligados para el resguardo o salvaguarda de la información.
 
@@ -607,9 +641,11 @@ Los Sujetos Obligados deberán capacitar al personal que integra las Unidades de
 
 ### CAPÍTULO ÚNICO. DE LA PLATAFORMA NACIONAL DE TRANSPARENCIA
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 40.
 
-La Secretaría Anticorrupción y Buen Gobierno estatal coadyuvará con la Secretaría Anticorrupción y Buen Gobierno federal en la administración, implementación y funcionamiento de la Plataforma Nacional que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente Ley para los Sujetos Obligados y Autoridades Garantes atendiendo a las necesidades de accesibilidad de las personas usuarias, así como en otras disposiciones jurídicas.
+Las Autoridades Garantes Estatales coadyuvarán con la Secretaría Anticorrupción y Buen Gobierno Federal en la administración, implementación y funcionamiento de la Plataforma Nacional, que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente Ley para los Sujetos Obligados, atendiendo a las necesidades de accesibilidad de las personas, así como en otras disposiciones jurídicas.
 
 ###### Artículo 41.
 
@@ -738,6 +774,14 @@ Se promoverá la homogeneidad y la estandarización de la información, a travé
 ###### Artículo 56.
 
 La información publicada por los Sujetos Obligados, en términos del presente Título, no constituye propaganda gubernamental. Los Sujetos Obligados, incluso dentro de los procesos electorales, a partir del inicio de las precampañas y hasta la conclusión del proceso electoral, deberán mantener accesible la información en el portal de obligaciones de transparencia, salvo disposición expresa en contrario en las disposiciones jurídicas en materia electoral.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+La página de inicio de los portales de Internet de los Sujetos Obligados tendrá un vínculo de acceso directo al sitio donde se encuentra la información pública a la que se refiere este Título, el cual deberá contar con un buscador.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+La información de obligaciones de transparencia deberá publicarse con perspectiva de género y discapacidad, cuando así corresponda a su naturaleza.
 
 ###### Artículo 57.
 
@@ -965,13 +1009,25 @@ XLV. El listado de solicitudes a las empresas concesionarias de telecomunicacion
 
 XLVI. Cualquier otra información que sea de utilidad o se considere relevante, y la que se encuentre prevista en otras disposiciones jurídicas aplicables.
 
-Los Sujetos Obligados deberán informar a las Autoridades Garantes de forma fundada y motivada cuáles son las fracciones de este artículo que les resultan aplicables, para efecto de que las Autoridades Garantes las validen. Una vez que cuenten con la validación de referencia los Sujetos Obligados procederán a publicarlas en la Plataforma Nacional.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Los Sujetos Obligados deberán informar a las Autoridades Garantes de forma fundada y motivada cuáles son las fracciones de este artículo que les resultan aplicables, para efecto de que las Autoridades Garantes las validen.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Sin perjuicio de lo anterior, las Autoridades Garantes procurarán la homogeneidad y estandarización de la información, a través de los formatos establecidos en los lineamientos emitidos por parte del Sistema Nacional, de acuerdo a las facultades, atribuciones, funciones u objeto social establecidos en la normatividad aplicable de los Sujetos Obligados, quienes podrán justificar de manera motivada y fundada cuando no les resulten aplicables, mediante justificación que se llevará a cabo conforme a los formatos que señalen los referidos lineamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Una vez que cuenten con dicha validación, los Sujetos Obligados procederán a publicarlas en la Plataforma Nacional.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES ESPECÍFICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 59.
 
-Los Sujetos Obligados de los Poderes Ejecutivo y de los municipios, además de lo señalado en el artículo anterior, deberán poner a disposición del público y actualizar, la información siguiente:
+Los Sujetos Obligados del Poder Ejecutivo, además de lo señalado en el artículo anterior, deberán poner a disposición del público y actualizar, la información siguiente:
 
 I. El Plan Estatal de Desarrollo y los programas operativos anuales sectoriales;
 
@@ -985,21 +1041,29 @@ V. Las expropiaciones decretadas y ejecutadas, que incluya, cuando menos, la fec
 
 VI. El nombre, denominación o razón social y clave del Registro Federal de Contribuyentes a quienes se les hubiera cancelado o condonado algún crédito fiscal, así como los montos respectivos;
 
-VII. Los nombres de las personas a quienes se les habilitó para ejercer como corredores y notarios públicos, así como sus datos de contacto, la información relacionada con el proceso de otorgamiento de la patente y las sanciones que se les hubieran aplicado;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-VIII. Los planes de desarrollo urbano, ordenamiento territorial y ecológico, los tipos y usos de suelo, licencias de uso y construcción otorgadas por los gobiernos municipales; y
+VII. Los nombres de las personas a quienes se les habilitó para ejercer como notarios públicos, así como sus datos de contacto, la información relacionada con el proceso de otorgamiento de la patente y las sanciones que se les hubieran aplicado;
 
-IX. Los proyectos de disposiciones administrativas, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con la disposición o se trate de situaciones de emergencia, en términos de lo previsto en la Ley (sic) Mejora Regulatoria para el Estado de Tabasco y sus Municipios.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Los planes de desarrollo urbano, ordenamiento territorial y ecológico; y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+IX. Los proyectos de disposiciones administrativas, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con la disposición o se trate de situaciones de emergencia, conforme a lo previsto en la normativa aplicable en materia de simplificación administrativa y buenas prácticas regulatorias.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 60.
 
 Los Sujetos Obligados del Poder Ejecutivo del Estado, además de lo señalado en el artículo anterior, deberán poner a disposición del público y actualizar la siguiente información:
 
-I. En materia hacendaria:
+l. En materia hacendaria:
 
 a) La cartera de programas y proyectos de inversión;
 
-b) Para efectos estadísticos, la lista de estímulos fiscales establecidos en las leyes fiscales, identificados por acreditamientos, devoluciones, disminuciones, y deducciones, tanto de personas físicas, como jurídico colectivas, así como su porcentaje; y
+b) Para efectos estadísticos, la lista de estímulos fiscales establecidos en las leyes fiscales identificados por acreditamientos, devoluciones, disminuciones, y deducciones, tanto de personas físicas, como jurídico colectivas, así como su porcentaje; y
 
 c) El nombre, denominación o razón social y clave del Registro Federal de Contribuyentes a quienes se les hubiera cancelado o condonado algún crédito fiscal, ya determinado y exigible, así como los montos respectivos; debiendo vincular tales actos con los datos de identificación de contribuyentes señalados en este párrafo. Asimismo, la información estadística sobre las exenciones previstas en las disposiciones fiscales.
 
@@ -1007,37 +1071,35 @@ II. En materia de población:
 
 a) El número de centros penitenciarios o centros de tratamiento para adolescentes, indicando su capacidad instalada, así como su ubicación y la función de los espacios físicos de infraestructura con los que cuentan;
 
-b) La estadística migratoria de entradas de extranjeros con legal estancia en el Estado y condición de estancia, eventos de extranjeros presentados y devueltos; desagregada por sexo, grupo de edad y nacionalidad; y
+b) La información relativa a personas extranjeras atendidas en programas estatales o en centros de protección, desagregada por sexo, grupo de edad y nacionalidad;
 
-c) La estadística de los centros de protección a migrantes, por acciones de atención.
+c) La estadística de los centros de protección a migrantes, por acciones de atención realizadas, siempre que la información sea generada o se encuentre en su poder.
 
 III. En materia de seguridad pública y procuración de justicia:
 
-a) Para efectos estadísticos, el listado de solicitudes a las empresas concesionarias de telecomunicaciones y proveedores de servicios o aplicaciones de Internet para la intervención de comunicaciones privadas, el acceso al registro de comunicaciones y la localización geográfica en tiempo real de equipos de comunicación, que contenga exclusivamente el objeto, el alcance temporal y los fundamentos legales del requerimiento, así como, en su caso, la mención de que cuenta con la autorización judicial correspondiente;
+a) La estadística de los procesos de control de confianza desagregada por institución;
 
-b) La estadística de los procesos de control de confianza desagregada;
+b) La incidencia delictiva del fuero estatal, desagregada por tipo de delito, así como el número de víctimas desagregado por sexo y rango de edad;
 
-c) La incidencia delictiva del fuero estatal, desagregada por tipo de delito, así como el número de víctimas desagregado por sexo y rango de edad;
+c) La estadística desagregada de procesos, denuncias e investigaciones relacionadas a las conductas consideradas como delitos del fuero común en materia de justicia para adolescentes; y
 
-d) La estadística desagregada de procesos, denuncias e investigaciones relacionadas a las conductas consideradas como delitos en materia de justicia para adolescentes; y
-
-e) La estadística relativa a la solución de controversias realizadas a través de los mecanismos alternativos de solución de controversias en materia penal, desagregada por medios de mediación, conciliación y junta restaurativa.
+d) La estadística relativa a la solución de controversias realizadas a través de los mecanismos alternativos de solución de controversias en materia penal del fuero común, desagregada por medios de mediación, o conciliación.
 
 IV. En materia del medio ambiente y recursos naturales:
 
-a) El listado de áreas naturales protegidas, que contenga categoría, superficie, región;
+a) El listado de áreas naturales protegidas del Estado, que contenga categoría, superficie y región;
 
-b) El listado de especies de la región en riesgo, por grupo taxonómico;
+b) El listado de especies originarias del Estado, que se encuentren en situación de riesgo por grupo taxonómico;
 
 c) El listado de vegetación natural, por ecosistema y por superficie;
 
 d) El listado estimado de residuos, por tipo, por volumen, y por año;
 
-e) La disponibilidad media anual de aguas superficiales y subterráneas por región hidrológica;
+e) La disponibilidad media anual de aguas superficiales y subterráneas por región hidrológica del Estado;
 
-f) El inventario estatal de plantas municipales de potabilización y tratamiento de aguas residuales;
+f) El listado estatal de plantas municipales de potabilización y tratamiento de aguas residuales;
 
-g) El listado de zonas contaminadas, por tipo de contaminante y localización;
+g) El listado de zonas contaminadas a nivel estatal, por tipo de contaminante y localización;
 
 h) Los tipos de vegetación forestal y de suelos, su localización, formaciones y clases, con tendencias y proyecciones que permitan clasificar y delimitar el estado actual de la deforestación y degradación, así como las zonas de conservación, protección, restauración y producción forestal, en relación con las cuencas hidrológicas-forestales, las regiones ecológicas, las áreas forestales permanentes y las áreas naturales protegidas;
 
@@ -1045,69 +1107,53 @@ i) La dinámica de cambio de la vegetación forestal del Estado, que permita con
 
 j) Los criterios e indicadores de sustentabilidad, deforestación y degradación de los ecosistemas forestales;
 
-k) El listado de plantaciones comerciales forestales, que contenga su ubicación, superficie, tipo de especie forestal, nivel de producción y su estatus;
+k) El listado de plantaciones comerciales forestales del Estado, que contenga su ubicación, superficie, tipo de especie forestal, nivel de producción y su estatus;
 
-l) Las manifestaciones y resoluciones en materia de impacto ambiental;
+l) Las manifestaciones y resoluciones en materia de impacto ambiental de proyectos estatales;
 
 m) Información estadística sobre los árboles históricos y notables del Estado;
 
-n) Información estadística sobre infracciones, identificando la causa que haya motivado la infracción, el precepto legal infringido y la descripción de la infracción; y
+n) Información estadística sobre infracciones ambientales de competencia estatal, identificando la causa que haya motivado la infracción, el precepto legal infringido y la descripción de la infracción; y
 
-o) El índice de participación ciudadana, que contenga la categoría, ponderación, unidad de medida y año.
+o) El índice de participación ciudadana en materia ambiental del Estado, que contenga la categoría, ponderación, unidad de medida y año.
 
 V. En materia de agricultura, ganadería, desarrollo rural, pesca y alimentación:
 
 a) El listado de apoyos otorgados en materia de agricultura, ganadería, pesca o alimentación, que contenga municipio, población o localidad, descripción o monto del apoyo, y el número de beneficiarios distinguidos por género;
 
-b) El listado de ingenios azucareros, que contenga producción y costo anual;
+b) El listado de ingenios azucareros del Estado, que contenga producción y costo anual;
 
-c) El listado de activos y unidades económicas de pesca y acuacultura, que contenga entidad federativa, embarcaciones, granjas, laboratorios y tipo de actividad;
+c) El listado de activos y unidades económicas de pesca, y acuacultura, que contenga embarcaciones, granjas, laboratorios y tipo de actividad; y
 
-d) El listado de agronegocios, empresas rurales y productores que reciben incentivos de riesgo compartido, que contenga objetivo y tipo de incentivo; y
-
-e) La lista de certificaciones emitidas para la importación o exportación de mercancías agrícolas, pecuarias, acuícolas y pesqueras, desagregada por tipo de mercancía, origen, punto de ingreso, tránsito y destino; y en caso de negativa, las medidas sanitarias o fitosanitarias pertinentes como el retorno, acondicionamiento, reacondicionamiento o destrucción de la mercancía.
+d) El listado de agronegocios, empresas rurales y productores que reciben incentivos por parte del Estado.
 
 VI. En materia de comunicaciones y transportes:
 
-a) Información estadística por operador aéreo respecto de número de vuelos, pasajeros y mercancía transportada en operación doméstica e internacional en servicio regular y fletamento de manera acumulada;
-
-b) El listado de regiones carreteras, que contemple la zona, el tipo de red carretera, el tramo carretero y los puentes;
-
-c) Información estadística portuaria de movimiento de carga, por mes, contenedor, puerto, tipo de carga, peso, importación, exportación, tipo de tráfico, origen y destino; y
-
-d) La información financiera y tarifaria de las redes de telecomunicaciones alámbricas e inalámbricas que cuenten con participación gubernamental.
+a) El listado de regiones de carreteras y caminos del Estado que contemple la zona, el tramo y los puentes.
 
 VII. En materia del sector educación y cultura:
 
-a) El catálogo de los centros de trabajo de carácter educativo en la educación básica, media superior, superior, especial, inicial y formación para el trabajo incluyendo la información relativa a su situación geográfica, tipo de servicio que proporciona y estatus de operación;
+a) El catálogo de los centros de trabajo de carácter educativo en la educación inicial, básica, media superior, superior, especial, y formación para el trabajo incluyendo la información relativa a su situación geográfica, tipo de servicio que proporciona y estatus de operación;
 
-b) El listado del personal que presta sus servicios en los sistemas de educación pública básica, tecnológica y de adultos, cuyas remuneraciones se cubren con cargo a recursos públicos federales;
+b) El listado del personal que presta sus servicios en los sistemas de educación pública básica, media superior, tecnológica y de adultos, cuyas remuneraciones se cubren con cargo a recursos públicos estatales;
 
-c) El catálogo de museos, que contenga el nombre, ubicación, horarios, temática tratada, servicios disponibles y cuota de acceso.
+c) El catálogo de museos estatales, que contenga el nombre, ubicación, horarios, temática tratada, servicios disponibles y cuota de acceso o recuperación.
 
 VIII. En materia de salud:
 
-a) El listado de los institutos o centros de salud, desagregados por nombre, especialidad, dirección y teléfono; y
+a) El listado de los hospitales, clínicas y centros de salud públicos que existen en la entidad, desagregados por nombre, especialidad, dirección y número telefónico;
 
 b) El listado de las instituciones de beneficencia privada, que tengan por objeto la asistencia pública, desagregada por nombre, ubicación, datos de contacto y tipo.
 
 IX. En materia del trabajo y previsión social:
 
-a) El nombre y objeto de las asociaciones obreras y patronales;
+a) El número de trabajadores asegurados al Instituto de Seguridad Social del Estado de Tabasco, desagregado por mes, por actividad económica, permanentes y eventuales.
 
-b) El número de trabajadores asegurados al Instituto de Seguridad Social del Estado de Tabasco, desagregado por mes, por actividad económica, permanentes y eventuales; y respecto de estos últimos, distinguidos por urbanos y de campo; y
+X. En materia de turismo:
 
-c) El número de personas beneficiadas por las actividades de capacitación, promoción al empleo, colocación de trabajadores y vinculación laboral del Servicio Nacional de Empleo, por año, entidad federativa, oficio o profesión, género, rango de edad, ramo o industria y mecanismo de vinculación.
+a) Información estadística sobre las actividades económicas vinculadas al turismo, como número de visitantes nacionales e internacionales;
 
-X. En materia de desarrollo agrario, territorial y urbano:
-
-a) El listado de núcleos agrarios identificando los datos técnicos generales y la síntesis diagnóstica de los mismos; y
-
-XI. En materia de turismo:
-
-a) Información estadística sobre las actividades económicas vinculadas al turismo, como número de visitantes internacionales, flujos aéreos, flujos de cruceros y flujos carreteros;
-
-b) Información correspondiente a destinos turísticos con estadísticas sobre actividades turísticas;
+b) Información correspondiente a destinos turísticos en el Estado, con estadísticas sobre actividades turísticas;
 
 c) Información estadística sobre ocupación hotelera; y
 
@@ -1139,9 +1185,17 @@ X. El presupuesto de egresos y las fórmulas de distribución de los recursos ot
 
 XI. El nombre, denominación o razón social y clave del Registro Federal de Contribuyentes a los que se les hubiera cancelado o condonado algún crédito fiscal, así como los montos respectivos. También, la información estadística sobre las exenciones previstas en las disposiciones fiscales;
 
-XII. El contenido de las gacetas municipales o cualquier otro Documento por el cual se dé aviso a los ciudadanos; los cuales deberán comprender los resolutivos y acuerdos aprobados por los ayuntamientos; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-XIII. Las actas de sesiones de cabildo, los controles de asistencia de las personas integrantes del ayuntamiento a las sesiones de cabildo y el sentido de votación de las y los miembros del cabildo sobre las iniciativas o acuerdos.
+XII. El contenido de las gacetas municipales o cualquier otro Documento por el cual se dé aviso a los ciudadanos; los cuales deberán comprender los resolutivos y acuerdos aprobados por los ayuntamientos;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XIII. Las actas de sesiones de cabildo, los controles de asistencia de las personas integrantes del ayuntamiento a las sesiones de cabildo y el sentido de votación de las y los miembros del cabildo sobre las iniciativas o acuerdos; y
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Los proyectos de disposiciones administrativas, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con la disposición o se trate de situaciones de emergencia, conforme a lo previsto en la normativa aplicable en materia de simplificación administrativa y buenas prácticas regulatorias.
 
 ###### Artículo 62.
 
@@ -1151,7 +1205,9 @@ I. El informe semestral del ejercicio presupuestal del uso y destino de los recu
 
 II. Agenda legislativa;
 
-III. Gaceta Parlamentaria;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+III. Gaceta Legislativa;
 
 IV. Orden del Día;
 
@@ -1683,7 +1739,9 @@ La clasificación es el proceso mediante el cual el sujeto obligado determina qu
 
 Los supuestos de reserva o confidencialidad previstos en las leyes deberán ser acordes con las bases, principios y disposiciones establecidos en esta Ley y, en ningún caso, podrán contravenirla.
 
-Las personas titulares de las Áreas de los Sujetos Obligados serán los responsables de clasificar la información, de conformidad con lo dispuesto en la presente Ley y leyes de las entidades federativas.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Las personas titulares de las Áreas de los Sujetos Obligados serán los responsables de clasificar la información, de conformidad con lo dispuesto en la Ley General y la presente Ley.
 
 Los Sujetos Obligados deberán aplicar, de manera restrictiva y limitada, las excepciones al derecho de acceso a la información previstas en el presente Título y deberán acreditar su procedencia, sin ampliar las excepciones o supuestos de reserva o confidencialidad previstos en las leyes, de conformidad con lo establecido en esta Ley.
 
@@ -1741,7 +1799,9 @@ Tratándose de aquella información que actualice los supuestos de clasificació
 
 En la aplicación de la prueba de daño, el sujeto obligado deberá justificar que:
 
-I. La divulgación de la información representa un riesgo real, demostrable e identificable de perjuicio significativo al interés público o a la seguridad nacional;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+l. La divulgación de la información representa un riesgo real, demostrable e identificable de perjuicio significativo al interés público o, en su caso, a la seguridad nacional, en términos de la Ley General;
 
 II. El riesgo de perjuicio que supondría la divulgación supera el interés público general de que se difunda; y
 
@@ -1771,19 +1831,27 @@ Los Documentos clasificados serán debidamente custodiados y conservados, confor
 
 Como Información Reservada podrá clasificarse aquella cuya publicación:
 
-I. Comprometa la seguridad nacional, la seguridad pública, la defensa nacional o la paz social;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+l. Comprometa la seguridad pública o la paz social, o en su caso, la seguridad nacional y la defensa nacional en términos de lo previsto por la Ley General;
 
 II. Pueda menoscabar la conducción de las negociaciones y relaciones internacionales;
 
-III. Se entregue al Estado mexicano expresamente con ese carácter o el de confidencial por otro u otros sujetos de derecho internacional, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-IV. Pueda afectar la efectividad de las medidas adoptadas en relación con las políticas en materia monetaria, cambiarla o del sistema financiero del país; pueda poner en riesgo la estabilidad de las instituciones financieras susceptibles de ser consideradas de riesgo sistémico o del sistema financiero del país, pueda comprometer la seguridad en la provisión de moneda nacional al país, o pueda incrementar el costo de operaciones financieras que realicen los Sujetos Obligados del sector público federal;
+III. Se entregue al Estado expresamente con ese carácter o el de confidencial por otro u otros sujetos de derecho internacional, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+IV. Pueda afectar la efectividad de las medidas adoptadas por las autoridades federales o estatales en materia financiera o presupuestal, o que comprometa la estabilidad o el funcionamiento de instituciones financieras con las que el Estado o los municipios mantenga operaciones;
 
 V. Pueda poner en riesgo la vida, seguridad o salud de una persona física;
 
 VI. Obstruya las actividades de verificación, inspección y auditoría relativas al cumplimiento de las leyes o afecte la recaudación de contribuciones;
 
-VII. Pueda causar daño u obstruya la prevención o persecución de los delitos, altere el proceso de investigación de las carpetas de investigación, afecte o vulnere la conducción o los derechos del debido proceso en tanto no hayan quedado firmes o afecte la administración de justicia o la seguridad de una persona denunciante, querellante o testigo, así como sus familias, en los términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+VII. Pueda causar daño u obstruya la prevención o persecución de los delitos, altere el proceso de investigación de las carpetas de investigación, afecte o vulnere la conducción o los derechos del debido proceso, en tanto no hayan quedado firmes o afecte la administración de justicia o la seguridad de una persona denunciante, querellante, testigo, víctima u ofendido, así como sus familias, en los términos de las disposiciones jurídicas aplicables;
 
 VIII. La que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de las Personas Servidoras Públicas, hasta en tanto no sea adoptada la decisión definitiva, la cual deberá estar documentada;
 
@@ -1799,11 +1867,15 @@ XIII. El daño que pueda producirse con la publicación de la información sea m
 
 XIV. Cuando se trate de información sobre estudios y proyectos cuya divulgación pueda causar daños al interés del Estado o suponga un riesgo para su realización, siempre que esté directamente relacionado con procesos o procedimientos administrativos o judiciales que no hayan quedado firmes;
 
-XV. Se refiera a programas del Gobierno Federal para salvaguardar materiales o instalaciones nucleares;
+XV. (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2025)
 
-XVI. Ponga en riesgo el funcionamiento o integridad de los sistemas tecnológicos, energéticos, espaciales, satelitales, de telecomunicaciones o de defensa desarrollados, adquiridos u operados por el Gobierno Federal de forma directa o indirecta, así como instalaciones, infraestructuras, proyectos, planes o servicios de protección estratégicos, prioritarios o de defensa; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
-XVII. Las que por disposición expresa de una ley tengan tal carácter siempre que sean acordes con las bases, principios y disposiciones establecidos en esta Ley y no la contravengan, así como las previstas en tratados internacionales.
+XVI. Ponga en riesgo el funcionamiento o integridad de los sistemas tecnológicos y energéticos, adquiridos u operados por el Estado de forma directa o indirecta, así como instalaciones, infraestructuras, proyectos, planes o servicios de protección estratégicos, prioritarios o de seguridad pública; y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Las que por disposición expresa de una ley tengan tal carácter, siempre que sean acordes con las bases, principios y disposiciones establecidas en la Ley General y en la presente Ley, y no las contravengan, así como las previstas en tratados internacionales, en las que el estado mexicano sea parte.
 
 ###### Artículo 106.
 
@@ -2379,6 +2451,18 @@ El incumplimiento de los Sujetos Obligados será difundido en la Plataforma Naci
 
 En caso de reincidencia, las Autoridades Garantes podrán imponer una multa equivalente hasta el doble de la que se hubiera determinado por las mismas.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Se considerará reincidente al que, habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+En caso de que el incumplimiento de las determinaciones de las Autoridades Garantes implique la presunta comisión de un delito o una de las conductas señaladas en el artículo 180 de esta Ley, la respectiva Autoridad Garante deberá denunciar los hechos ante la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+Las medidas de apremio de carácter económico no podrán ser cubiertas con recursos públicos.
+
 ###### Artículo 175.
 
 Si a pesar de la ejecución de las medidas de apremio previstas en el artículo anterior no se cumple con la determinación, se requerirá el cumplimiento al superior jerárquico para que en un plazo de cinco días lo instruya a cumplir sin demora. De persistir el incumplimiento, se aplicarán sobre el superior jerárquico las medidas de apremio establecidas en el artículo anterior.
@@ -2602,3 +2686,15 @@ SECRETARIO DE GOBIERNO
 JESÚS MANUEL ARGÁEZ DE LOS SANTOS
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 183 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES III Y V; 4, PÁRRAFO TERCERO; 9, FRACCIÓN X; 25, FRACCIONES IX Y X; 29, FRACCIÓN XV; 31; 34, PÁRRAFO CUARTO; 40; 58, PÁRRAFO SEGUNDO; 59, PÁRRAFO PRIMERO Y FRACCIONES VII, VIII Y IX; 60; 61, FRACCIONES XII Y XIII; 62, FRACCIÓN III; 95, PÁRRAFO TERCERO; 100, FRACCIÓN I; 105, FRACCIONES I, III, IV, VII, XVI Y XVII. SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 25; LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 34, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 56; LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 58; LA FRACCIÓN XIV AL ARTÍCULO 61; Y LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 174. SE DEROGA LA FRACCIÓN XV, AL ARTÍCULO 105. TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. En un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, los sujetos obligados deberán realizar las adecuaciones necesarias para la reintegración o, en su caso actualización de sus Comités de Transparencia en los términos previstos en el artículo 34 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
