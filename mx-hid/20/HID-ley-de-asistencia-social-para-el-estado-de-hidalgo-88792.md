@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2025-05-26"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -179,7 +179,9 @@ XXX. Patronato.- Consejo formado para apoyar a que el Organismo cumpla debidamen
 
 XXXI. Persona con discapacidad.- Toda persona que por razones congénitas o adquirida, presenta una o más deficiencias de carácter físico, mental, psicológico, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, puede impedir su inclusión plena y efectiva en igualdad de condiciones con los demás;
 
-XXXII. Persona en Situación de Calle.- Persona que por factores multicausales, que pueden ser derivados por situaciones de abuso o maltrato o frustración en alguna etapa de su vida, padecen un mayor número de desórdenes mentales (depresión, niveles altos de angustia, ideas paranoides y psicosis, entre otros) o problemas adictivos (drogas y alcohol) que les ocasiona se olviden de cuidar de sí mismos y deambulen por las calles, lo que implica que no puedan garantizarse por ellos mismos su salud ni bienestar;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XXXII. Persona en situación de calle.- Aquella que, de forma permanente o temporal, utiliza el espacio público como lugar de habitación, debido a condiciones estructurales de exclusión social. Esta condición requiere atención integral por parte del Estado bajo un enfoque de derechos humanos.
 
 XXXIII. Prevención.- Acción orientada a detectar factores de riesgo de vulnerabilidad a efecto de evitar su potencialización, en la medida de lo posible, estableciendo programas y proyectos encaminados a disminuirlos;
 
@@ -1249,6 +1251,14 @@ La persona titular de la Procuraduría será nombrada y removida libremente por 
 
 La organización, atribuciones, integración y funcionamiento de la Procuraduría se asentarán en el instrumento reglamentario pertinente.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 44 Bis.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, en coordinación con los Sistemas Municipales y las autoridades competentes, de acuerdo a la suficiencia presupuestaria, podrá implementar acciones de atención integral dirigidos (sic) a personas en situación de calle.
+
+Dichas acciones se desarrollarán con respeto a la dignidad y a sus derechos humanos, y podrán comprender: diagnóstico médico, asistencia inmediata, alojamiento temporal, acceso a servicios de salud física y mental, orientación jurídica, alimentación, higiene y estrategias de integración social.
+
 ### CAPÍTULO VI. De la Junta General de Asistencia
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
@@ -1716,5 +1726,11 @@ P.O. 26 DE MAYO DE 2025.
 P.O. 26 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, Y DE LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE TRATO DIGNO A LAS PERSONAS HIDALGUENSES REPATRIADAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 318 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DISTINTAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PERSONAS EN SITUACIÓN DE CALLE".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
