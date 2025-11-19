@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-09-29"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -4097,7 +4097,7 @@ Cuando la víctima sea menor de edad, la conducta siempre será entendida como t
 
 ### CAPITULO VI. ABANDONO DE OBLIGACIONES ALIMENTICIAS
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 292.
 
@@ -4121,7 +4121,7 @@ Los parientes o tutores que entreguen en una casa de expósitos a un niño que e
 
 ###### ARTICULO 295.
 
-Comete el delito de abandono de obligaciones alimenticias el que sin motivo justificado deje de proporcionar a su cónyuge, concubina o concubinario, o a sus hijos, los medios económicos o recursos necesarios para atender las necesidades de subsistencia.
+Comete el delito de abandono de obligaciones alimenticias el que sin motivo justificado deje de proporcionar a su madre, padre, su cónyuge, concubina o concubinario, o a sus hijas o hijos menores de dieciocho años y cuando alcancen su mayoría de edad y se encuentren realizando estudios, conservarán el derecho a recibirlos, hasta el término de su carrera profesional u obtener el título, los medios económicos o recursos necesarios para atender las necesidades de subsistencia.
 
 (NOTA: EL 1 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE MARZO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO LXIV-492, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -7922,6 +7922,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 29 DE SEPTIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-453 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 254 BIS, PÁRRAFO PRIMERO; 256, PÁRRAFOS PRIMERO Y SEGUNDO; Y 258, PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-538 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 295, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
