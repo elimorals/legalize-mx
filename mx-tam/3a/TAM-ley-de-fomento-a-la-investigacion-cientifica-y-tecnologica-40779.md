@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2025-03-13"
+last_updated: "2025-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -165,13 +165,17 @@ XVII.- La conservación, consolidación, actualización y desarrollo de la infra
 
 XVIII.- La creación y fortalecimiento de espacios destinados a la promoción de ciencia y tecnología para niñas, niños, adolescentes y jóvenes;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XIX.- Toda opinión, propuesta o sugerencia que emita el ciudadano durante los procesos de consulta en materia de políticas y programas de investigación científica y desarrollo tecnológico, serán sistematizadas, evaluadas y consideradas en lo conducente;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+
+XX.- Se promoverá el desarrollo, uso y aplicación segura, respetuosa y responsable de la inteligencia artificial; y
+
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-XIX.- Toda opinión, propuesta o sugerencia que emita el ciudadano durante los procesos de consulta en materia de políticas y programas de investigación científica y desarrollo tecnológico, serán sistematizadas, evaluadas y consideradas en lo conducente; y
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
-
-XX.- La participación de la mujer y el hombre en el ámbito científico y tecnológico, deberá ser equilibrada y sin discriminación, e incentivando el impulso al desarrollo de las nuevas generaciones de investigadoras e investigadores.
+XXI.- La participación de la mujer y el hombre en el ámbito científico y tecnológico, deberá ser equilibrada y sin discriminación, e incentivando el impulso al desarrollo de las nuevas generaciones de investigadoras e investigadores.
 
 ### CAPITULO III. INSTRUMENTOS DE APOYO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA
 
@@ -758,6 +762,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-262 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 2 DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-545 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIX, Y SE ADICIONA UNA FRACCIÓN XX, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE AL ARTÍCULO 4, DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
