@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-sistema-local-anticorrupcion-del-estado-de-nayarit-1250
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-21"
-last_updated: "2024-04-25"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera al Número 121 del Periódico Oficial del Estado de Nayarit, el miércoles 21 de diciembre de 2016.
 
@@ -191,11 +191,17 @@ II. El titular de la Auditoría Superior del Estado;
 
 III. El titular de la Fiscalía Especializada en Combate a la Corrupción;
 
-IV. El titular de la Secretaría de la Contraloría General del Estado;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-V. Un representante del Consejo de la Judicatura del Poder Judicial del Estado;
+IV. La persona titular de la Secretaría para la Honestidad y Buena Gobernanza del Estado;
 
-VI. El Presidente del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+V. Un representante del Tribunal de Disciplina Judicial del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+VI. La persona titular de la Presidencia del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, y
 
 VII. El Presidente del Tribunal de Justicia Administrativa del Estado de Nayarit.
 
@@ -291,9 +297,9 @@ VIII. No desempeñar ni haber desempeñado cargo de dirección nacional o estata
 
 IX. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria, y
 
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-X. No ser Gobernador, Secretario o Subsecretario en el Poder Ejecutivo del Estado, Fiscal General, Fiscal Especializado en Combate a la Corrupción, Consejero de la Judicatura, a menos que se haya separado de su cargo un año antes del día de su designación.
+X. No ser Gobernador, Secretario o Subsecretario en el Poder Ejecutivo del Estado, Fiscal General, Fiscal Especial en Combate a la Corrupción, Magistrada o Magistrado del Tribunal de Disciplina Judicial, miembro del Órgano de Administración Judicial, a menos que se haya separado de su cargo un año antes del día de su designación.
 
 Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada, y sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.
 
@@ -487,7 +493,9 @@ IV. Responsabilidades administrativas de servidores públicos, y
 
 V. Transparencia y acceso a la información pública, conforme a la ley de la materia.
 
-La Secretaría de la Contraloría General y el órgano interno de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica del Poder Ejecutivo, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+La Secretaría para la Honestidad y Buena Gobernanza y el órgano interno de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica del Poder Ejecutivo, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 
 ###### Artículo 28.
 
@@ -589,7 +597,9 @@ VIII. No desempeñar ni haber desempeñado cargo de dirección nacional o estata
 
 IX. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria, y
 
-X. No ser Gobernador, Secretario o Subsecretario en el Poder Ejecutivo del Estado, Fiscal General, Fiscal Especializado en Combate a la Corrupción, Consejero de la Judicatura, a menos que se haya separado de su cargo un año antes del día de su designación.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+X. No ser Gobernador, Secretario o Subsecretario en el Poder Ejecutivo del Estado, Fiscal General, Fiscal Especializado en Combate a la Corrupción, Magistrada o Magistrado del Tribunal de Disciplina Judicial, miembro del Órgano de Administración Judicial, a menos que se haya separado de su cargo un año antes del día de su designación.
 
 ###### Artículo 35.
 
@@ -631,7 +641,9 @@ Son integrantes del Sistema Local:
 
 I. La Auditoría Superior del Estado;
 
-II. La Secretaría de la Contraloría General del Estado, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+II. La Secretaría para la Honestidad y Buena Gobernanza del Estado, y
 
 III. Los órganos encargados del control interno en los municipios.
 
@@ -645,11 +657,13 @@ II. Informar al Comité Coordinador sobre los avances en la fiscalización de re
 
 Todos los Entes públicos fiscalizadores y fiscalizados deberán apoyar en todo momento al Sistema Local de Fiscalización para la implementación de mejoras para la fiscalización de los recursos locales y municipales.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-El Sistema Local de Fiscalización contará con un Comité Rector conformado por la Auditoría Superior del Estado, la Secretaría de la Contraloría General del Estado y siete miembros rotatorios de los órganos encargados del control interno en los municipios, que serán elegidos por periodos de dos años, por consenso de la propia Secretaría y la Auditoría Superior del Estado.
+El Sistema Local de Fiscalización contará con un Comité Rector conformado por la Auditoría Superior del Estado, la Secretaría para la Honestidad y Buena Gobernanza del Estado y siete miembros rotatorios de los órganos encargados del control interno en los municipios, que serán elegidos por periodos de dos años, por consenso de la propia Secretaría y la Auditoría Superior del Estado.
 
-El Comité Rector será presidido de manera dual por el Auditor Superior del Estado y el titular de la Secretaría de la Contraloría General del Estado, o por los representantes que de manera respectiva designen para estos efectos.
+El Comité Rector será presidido de manera dual por la persona titular de la Auditoría Superior del Estado y la persona titular de la Secretaría para la Honestidad y Buena Gobernanza del Estado, o por los representantes que de manera respectiva designen para estos efectos.
 
 ###### Artículo 39.
 
@@ -838,3 +852,13 @@ P.O. 25 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE LA COMISIÓN DE SELECCIÓN DEL SISTEMA LOCAL ANTICORRUPCIÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE ARMONIZACIÓN CON EL PODER JUDICIAL LOCAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. De conformidad con el Decreto que Reforma, Adiciona y Deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Nayarit, en materia de Transparencia y Protección de Datos Personales, publicado con fecha 24 de julio de 2025, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, la persona titular del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, formará parte del Comité Coordinador del Sistema Local Anticorrupción, hasta en tanto no se realicen las adecuaciones secundarias a la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
+
+TERCERO. Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
