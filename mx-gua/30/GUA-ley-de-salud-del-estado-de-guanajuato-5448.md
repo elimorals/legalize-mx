@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2025-07-28"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -70,6 +70,10 @@ V.- El disfrute de servicios de salud y de asistencia social que satisfagan efic
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+VIII.- La promoción de salud y la prevención de enfermedades.
 
 ###### ARTICULO 3.
 
@@ -649,6 +653,10 @@ II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporci
 
 III.- De rehabilitación de las personas con discapacidad.
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+IV.- Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del o la paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
+
 ### CAPITULO IV. Prestadores de Servicios de Salud
 
 ###### ARTICULO 39.
@@ -661,15 +669,19 @@ II.- Servicios a derechohabientes de la institución encargada de ofrecer servic
 
 III.- Otros que se presten de conformidad con lo que establezca el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 40.
 
-Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
+Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud regidos por criterios de universalidad, de gratuidad, igualdad e inclusión al momento de requerir los servicios de salud, medicamentos y demás insumos asociados.
 
 ###### ARTICULO 41.
 
 Las cuotas de recuperación que, en su caso, se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal del Estado y al convenio de coordinación que se celebre en la materia con el Ejecutivo Federal.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+Queda prohibido el cobro de cuotas de recuperación por la prestación de servicios de salud, medicamentos y demás insumos asociados a las personas sin seguridad social.
 
 Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socio-económicas del usuario.
 
@@ -3810,3 +3822,9 @@ P.O. 28 DE JULIO DE 2025.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Las autoridades destinarán los recursos que exija la presente reforma, de manera progresiva y de conformidad con la disponibilidad presupuestaria, a fin de dar cumplimiento a las disposiciones del presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 102 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMA EL ARTÍCULO 40; Y SE ADICIONAN UNA FRACCIÓN VIII AL ARTÍCULO 2; UNA FRACCIÓN IV AL ARTÍCULO 38; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 41, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS SEGUNDO Y TERCERO, PARA QUEDAR COMO TERCERO Y CUARTO, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
