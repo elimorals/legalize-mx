@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-fiscalia-general-del-estado-de-campeche-1039
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-01"
-last_updated: "2024-10-09"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 1 de diciembre de 2014.
 
@@ -215,7 +215,13 @@ XII. Interponer los medios de impugnación que la ley penal o las leyes especial
 
 XIII. Intervenir y promover las acciones necesarias ante los órganos jurisdiccionales en su carácter de representante social y en los términos que dispongan las leyes, cuando los intereses públicos, de menores, incapaces y ausentes se encuentren en situación de daño o peligro;
 
-XIV. Iniciar el trámite de incidentes penales ante los órganos jurisdiccionales competentes, conforme a lo establecido en las disposiciones legales correspondientes; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Iniciar el trámite de incidentes penales ante los órganos jurisdiccionales competentes, conforme a lo establecido en las disposiciones legales correspondientes;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+XIV Bis. Promover e incentivar el uso de las herramientas y mecanismos digitales; para la presentación de denuncias o querellas, así como, para todas y cada una de las diligencias durante el procedimiento penal, de acuerdo con sus competencias; y
 
 XV. Las demás que señale esta Ley, el Reglamento, así como otras disposiciones legales aplicables en la materia.
 
@@ -263,9 +269,13 @@ IV. Las demás que señale esta Ley, así como otras disposiciones legales aplic
 
 Para los efectos de la presente Ley, la Institución tendrá las siguientes obligaciones:
 
-I. Vigilar que en toda investigación de los delitos se respeten estrictamente los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Estatal, así como en los Tratados Internacionales y demás instrumentos internacionales que contengan disposiciones en materia de derechos humanos y de los que el Estado mexicano sea parte;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-II. Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
+I. Atender, vigilar y garantizar que en toda investigación de los delitos se respeten estrictamente los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Estatal, así como en los Tratados Internacionales y demás instrumentos internacionales que contengan disposiciones en materia de derechos humanos y de los que el Estado mexicano sea parte;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+II. Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, electrónicos o de cualquier otra tecnología, en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
 
 III. Ejercer la conducción y el mando de la investigación de los delitos, para lo cual deberá coordinar a las Policías y a los Peritos durante la misma;
 
@@ -297,7 +307,9 @@ XVI. Ejercer la acción penal cuando proceda;
 
 XVII. Poner a disposición del órgano jurisdiccional a las personas detenidas dentro de los plazos establecidos en el Código Nacional de Procedimientos Penales;
 
-XVIII. Promover la aplicación de mecanismos alternativos de solución de controversias o formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Promover la aplicación de mecanismos alternativos de solución de controversias o formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables, conforme a los supuestos previstos en los Códigos Nacionales vigentes;
 
 XIX. Solicitar las medidas cautelares aplicables al imputado en el proceso, en atención a las disposiciones conducentes y promover su cumplimiento;
 
@@ -1164,3 +1176,15 @@ P.O. 9 DE OCTUBRE DE 2024.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del decreto por el que se derogan las fracciones XII y XIII y se reforma la fracción XIV del artículo 54; se derogan las fracciones II, III y IV del artículo 71; se reforman los artículos 77, 78, 78 bis, 79 y el último párrafo del artículo 80, los artículos 82, 83, 84, 85, 86, 87 y la fracción I del artículo 101 quáter de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMA LA FRACCIÓN XIV Y SE ADICIONA LA FRACCIÓN XIV BIS DEL ARTÍCULO 13 Y, SE REFORMAN LAS FRACCIONES I, II Y XVIII DEL ARTÍCULO 17, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE”.]</small>
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado en un plazo de 180 días contados a partir de la entrada en vigor del presente decreto, deberá realizar las adecuaciones reglamentarias que correspondan.
+
+TERCERO.- La Fiscalía General del Estado, para el debido cumplimiento de lo dispuesto en el presente decreto, deberá de conformidad con su disponibilidad presupuestal, tomar las previsiones administrativas correspondientes a fin de implementar progresivamente el uso de las herramientas y mecanismos digitales en sus procedimientos penales.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
