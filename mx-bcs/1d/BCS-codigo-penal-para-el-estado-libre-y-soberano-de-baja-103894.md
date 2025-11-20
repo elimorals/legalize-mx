@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2025-09-10"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -2009,9 +2009,13 @@ IV. Sea una mujer en estado de embarazo o durante los tres meses posteriores al 
 
 V. Exista imposibilidad de la víctima de denunciar:
 
+> <small>(REFORMADO, B.O. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 202.
 
-Violencia familiar equiparada. Se equipara a la violencia familiar y se sancionará con las mismas penas y medidas de seguridad, a quien realice cualquiera de los actos u omisiones señalados en los artículos anteriores en contra de la persona que esté sujeta a su custodia, protección o cuidado, o tenga el cargo de tutor o curador sobre la persona, o de aquellas personas que no reúnen los requisitos para constituir concubinato, siempre que hagan vida en común. Este delito se perseguirá por querella.
+Violencia familiar equiparada. Se equipara a la violencia familiar y se sancionará con las mismas penas y medidas de seguridad, a quien realice cualquiera de los actos u omisiones señalados en los artículos anteriores en contra de la persona con quien tenga una relación de noviazgo, incluyendo al ex cónyuge, ex concubino, ex concubina, así como quien esté sujeto a su custodia, protección o cuidado, o tenga el cargo de tutor o curador sobre la persona, o de aquellas personas que no reúnen los requisitos para constituir concubinato, siempre que hagan vida en común. Este delito se perseguirá por querella.
+
+Para los efectos del párrafo anterior, se entenderá por noviazgo la relación personal, sentimental, emocional y afectiva, permanente o transitoria entre dos personas, de entre las cuales existe la voluntad de compartir y/o destinar tiempo juntos por cualquier medio, pudiendo existir o no promesa y/o planes de formalizar su relación mediante la celebración del matrimonio o llevar a cabo un concubinato.
 
 ###### Artículo 203.
 
@@ -4978,3 +4982,13 @@ A las personas que hayan cometido un delito de los contemplados en el presente D
 TERCERO.- La Secretaría de Salud del Gobierno del Estado de Baja California Sur, contará con un lapso no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para coordinarse con las autoridades correspondientes del Poder Judicial y de la Procuraduría General de Justicia ambas del Estado de Baja California Sur, a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
 
 CUARTO.- Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
+
+B.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3219 SE REFORMA EL ARTÍCULO 202 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
