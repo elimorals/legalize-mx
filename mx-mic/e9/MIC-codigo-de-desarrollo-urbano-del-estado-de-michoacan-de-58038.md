@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2025-07-28"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -277,7 +277,9 @@ I. Racionalidad: Desarrollo ordenado y equilibrado, evitando la dispersión de l
 
 II. Viabilidad: Posibilidad de todos los ciudadanos de recibir servicios públicos básicos;
 
-III. Equidad e Inclusión Social: Garantizar el ejercicio pleno de los derechos ciudadanos en condiciones de igualdad; garantizar el acceso a los espacios públicos, a políticas sociales incluyentes que fortalezcan la convivencia, la cohesión social y los satisfactores urbanos fundamentales (suelo apto, vivienda, infraestructura, equipamientos sociales, espacio público, empleo, transporte público y no motorizado);
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+III. Equidad e Inclusión Social: Garantizar el ejercicio pleno de los derechos ciudadanos en condiciones de igualdad; garantizar el acceso a los espacios públicos, a políticas sociales incluyentes que fortalezcan la convivencia, la cohesión social y los satisfactores urbanos fundamentales como: el suelo apto, vivienda, infraestructura, equipamientos sociales, espacio público accesible, empleo, transporte público y no motorizado, que promueva un entorno que valore y respete la diversidad funcional, en especial asegurar el acceso inclusivo a los espacios públicos para todas las personas. Esto implica la creación y acondicionamiento de parques y espacios recreativos accesibles, diseñados bajo principios de accesibilidad universal que permitan la participación de todos en actividades lúdicas y de esparcimiento.
 
 IV. Seguridad: Garantizar las condiciones que eviten riesgos naturales y antropogénicos en y derivados de los asentamientos humanos;
 
@@ -5786,3 +5788,11 @@ P.O. 28 DE JULIO DE 2025.
 PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 247 POR EL QUE “SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 7° TER, DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
