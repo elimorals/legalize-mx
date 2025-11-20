@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2024-07-31"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -901,9 +901,11 @@ Las comisiones se integrarán de manera colegiada por un presidente y dos secret
 
 Solo por causas graves calificadas por las dos terceras partes de los miembros del Ayuntamiento, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 66.
 
-El Ayuntamiento establecerá cuando menos las siguientes:
+El Ayuntamiento establecerá, cuando menos, las siguientes:
 
 I. Comisiones Permanentes:
 
@@ -933,19 +935,33 @@ l) De Transporte Público;
 
 m) De saneamiento, agua potable y alcantarillado;
 
-> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-n) De Derechos Humanos, Inclusión De Las Personas Con Discapacidad y Asuntos Indígenas
+n) De Derechos Humanos e Inclusión de las Personas con Discapacidad;
 
-> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-o) Igualdad de Género, y
+o) Igualdad de Género;
 
-> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-p) Niñas, niños y adolescentes, y
+p) Niñas, niños y adolescentes;
 
-q) Las demás que determine y apruebe el Ayuntamiento, de acuerdo con las necesidades de cada Municipio.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+q) De Asuntos Indígenas y Afromexicanos;
+
+> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+r) De la Diversidad Sexual;
+
+> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+s) De Pesca y Acuicultura, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+t) Las demás que determine y apruebe el Ayuntamiento, de acuerdo con las necesidades de cada Municipio.
 
 II. Serán comisiones especiales, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el Ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -2654,3 +2670,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Proceso de Transición y Cambio de la Administración Pública Municipal en el año 2024 por excepción dará inicio el día 25 de julio de 2024.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3214 SE REFORMAN LOS INCISOS N), O), P) Y Q), Y SE ADICIONAN LOS INCISOS R), S), Y T), TODOS AL ARTÍCULO 66 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los Ayuntamientos del Estado contarán con un plazo de 90 días naturales, a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias en sus reglamentos internos.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
