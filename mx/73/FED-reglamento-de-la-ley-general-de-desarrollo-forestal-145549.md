@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-desarrollo-forestal-145549"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-12-09"
-last_updated: "2020-12-09"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145549&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-12-02"
 
 REGLAMENTO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE NOVIEMBRE DE 2025.
 
 Reglamento publicado en el Número 10 del Diario Oficial de la Federación, el miércoles 9 de diciembre de 2020.
 
@@ -211,9 +211,11 @@ El componente de gestión forestal tiene como finalidad llevar la evaluación, c
 
 La Secretaría participará en la integración de la información en dicho componente, en lo correspondiente a los actos de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-El componente de gestión forestal contendrá los mecanismos, a través de medios electrónicos, para la realización de trámites para la obtención de las autorizaciones y documentos señalados en los artículos 68 y 69 de la Ley, los relativos a las Plantaciones forestales comerciales, así como los trámites que correspondan a la Comisión y a la ASEA en materia forestal.
+El componente de gestión forestal contiene, a través de medios electrónicos, los mecanismos para la realización de los trámites y actos de autoridad previstos en los artículos 68 y 69 de la Ley, así como los trámites que correspondan a la Comisión y a la ASEA en materia forestal.
 
 La Secretaría proporcionará a la Comisión, para la incorporación en el componente de información forestal, lo siguiente:
 
@@ -479,11 +481,15 @@ II. Los programas regionales forestales de las Unidades de manejo forestal o de 
 
 III. Los árboles históricos y notables del país, y
 
-IV. Las resoluciones definitivas en las que la Procuraduría haya impuesto la clausura, suspensión temporal, total o parcial de las autorizaciones o los efectos de los actos administrativos previstos en los artículos 68 y 69 de la Ley.
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
+IV. Las resoluciones definitivas en las que la Procuraduría haya impuesto la clausura, suspensión temporal, total o parcial de los trámites y actos administrativos de autoridad previstos en los artículos 68 y 69 de la Ley.
 
 Tratándose de lo previsto en la fracción III del presente artículo, se considerará árbol histórico aquel árbol que esté ligado con acontecimientos históricos de ámbito regional, local o nacional, o que por su localización constituya un ejemplar emblemático ligado a la tradición de la cultura popular. Asimismo, se considera como árbol notable aquel que, por sus características extraordinarias, de porte, singularidad o valor científico, represente un patrimonio natural de incalculable valor y belleza.
 
-Cuando se trate de los actos previstos en la fracción IV de este artículo, la Procuraduría notificará a la Secretaría las resoluciones administrativas que hayan causado ejecutoria por las cuales imponga como sanción administrativa la clausura, suspensión temporal, total o parcial, de una autorización forestal. La Secretaría realizará la anotación de dicha suspensión en el Registro dentro de los cinco días hábiles siguientes a la notificación que le haga la Procuraduría. Igual término y condiciones se observarán para realizar la anotación en el Registro respecto del levantamiento de la suspensión.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
+Cuando se trate de los actos administrativos previstos en la fracción IV de este artículo, la Procuraduría notificará a la Secretaría las resoluciones administrativas que hayan causado ejecutoria por las cuales imponga como sanción administrativa la clausura, suspensión temporal, total o parcial, de algún acto de autoridad o trámite forestal. La Secretaría realizará la anotación de dicha suspensión en el Registro dentro de los cinco días hábiles siguientes a la notificación que le haga la Procuraduría. Igual término y condiciones se observarán para realizar la anotación en el Registro respecto del levantamiento de la suspensión.
 
 ###### Artículo 19.
 
@@ -493,9 +499,17 @@ La ASEA notificará a la Secretaría las autorizaciones de Cambio de uso de suel
 
 La Secretaría realizará de oficio las inscripciones a que se refieren los artículos 42 y 50 de la Ley, excepto los datos para la identificación de los Prestadores de Servicios forestales y auditores técnicos forestales, la cual se realizará a petición del interesado conforme a lo previsto en los artículos 155 y 173 del presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 21.
 
-Las inscripciones deberán realizarse dentro de los diez días hábiles siguientes al otorgamiento de la autorización o de la recepción de la documentación correspondiente.
+Las inscripciones a las que se refiere el artículo anterior deben realizarse dentro de los diez días hábiles siguientes al otorgamiento de:
+
+I. Las autorizaciones previstas en las fracciones I, III, X, XI, XII y XVI, del artículo 42 de la Ley,
+
+II. Las constancias de los avisos previstos en las fracciones II, VIII, XI y XX del artículo 42 de la Ley, y
+
+III. La recepción de la documentación correspondiente a los actos previstos en las fracciones IV, V, VI, VII, IX, XIII, XIV, XV, XVII, XVIII, XIX y XXI del artículo 42 de la Ley.
 
 ###### Artículo 22.
 
@@ -565,17 +579,21 @@ d) Estadísticas respecto de cambios ocurridos, causas principales, zonas críti
 
 ### Capítulo I. Disposiciones Comunes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 30.
 
-Los documentos con los que la Secretaría o la Comisión considerarán acreditados los derechos de propiedad o posesión sobre predios en aquellos casos en los que, conforme a lo dispuesto en los artículos 68 y 69 de la Ley o en el presente Reglamento, deba acreditarse ese derecho, son:
+Los documentos con los que la Secretaría tiene por acreditados los derechos de propiedad o posesión sobre predios, en aquellos casos en los que, conforme a lo dispuesto en los artículos 68 y 69 de la Ley o en el presente Reglamento, deba acreditarse ese derecho, son:
 
 I. Copia certificada del título que acredite el derecho de propiedad o posesión respecto del terreno o terrenos objeto de la solicitud inscrito en el registro público correspondiente; tratándose de ejidos y comunidades, bastará con que se presente copia simple de dicho título y, en su caso, el número de folio de inscripción correspondiente, y
 
 II. Copia certificada del documento que acredite la posesión o el derecho para realizar actividades que impliquen el Cambio de uso de suelo en Terrenos forestales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 31.
 
-Cuando se trate de la autorización prevista en los artículos 68, fracción I y 69, fracción I de la Ley, para realizar las Actividades del Sector Hidrocarburos, el uso, goce o afectación de los terrenos, bienes o derechos necesarios, se acreditará con los documentos que formalicen los actos siguientes:
+Cuando se trate de la autorización prevista en el artículo 68, fracción I de la Ley, para realizar las Actividades del Sector Hidrocarburos, el uso, goce o afectación de los terrenos, bienes o derechos necesarios, se acreditará con los documentos que formalicen los actos siguientes:
 
 I. Arrendamiento, servidumbre voluntaria, ocupación superficial, ocupación temporal, compraventa, permuta y cualquier otra que no contravenga la Ley, de conformidad con lo previsto en los artículos 100 y 101 de la Ley de Hidrocarburos;
 
@@ -601,9 +619,11 @@ En terrenos comprendidos en zonas declaradas como áreas naturales protegidas, e
 
 La poda de arbustos y árboles para la obtención de Leña para Uso doméstico no podrá realizarse en organismos que sirvan como refugio temporal o permanente de fauna silvestre.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 36.
 
-Las autorizaciones o actos a que se refieren los artículos 68 y 69 de la Ley se suspenderán, revocarán, declararán extintos o caducos aplicando, en lo conducente, los procedimientos previstos en los artículos 78 y 79 del presente Reglamento.
+La Secretaría puede en lo conducente suspender, revocar, extinguir o declarar la caducidad de los efectos de las autorizaciones, o de las constancias de los avisos, y de los demás actos jurídicos previstos en los artículos 68 y 69 de la Ley, aplicando los procedimientos previstos en los artículos 78 y 79 del presente Reglamento.
 
 ###### Artículo 37.
 
@@ -1019,57 +1039,31 @@ La Secretaría actualizará el padrón anualmente. La información a que se refi
 
 ###### Artículo 62.
 
-Para obtener la autorización de Plantaciones forestales comerciales en Terrenos preferentemente forestales, con superficies a plantar mayores a ochocientas hectáreas, el interesado deberá presentar solicitud a la Secretaría, que contenga lo siguiente:
-
-I. Nombre o denominación o razón social y domicilio del titular o titulares del predio o Conjunto de predios;
-
-II. Nombre o denominación o razón social y domicilio de quien tenga derecho a realizar los trabajos de plantación;
-
-III. Los datos correspondientes a la Plantación consistentes en:
-
-a) Objetivo;
-
-b) Especies a plantar identificadas con su nombre común y científico;
-
-c) Métodos de plantación;
-
-d) Medidas de prevención y control de Incendios y Plagas y Enfermedades forestales;
-
-e) Superficie potencial total a plantar, así como volúmenes estimados de cosecha por motivo de aclareos y de la corta final;
-
-f) Áreas de conservación y protección naturales;
-
-g) En caso de que las especies a plantar sean exóticas, las actividades para evitar su propagación no controlada en las áreas con Vegetación forestal, y
-
-h) En su caso, datos de inscripción en el Registro del Prestador de Servicios forestales, responsable de la elaboración de la solicitud, y
-
-IV. La manifestación, bajo protesta de decir verdad, de la situación legal del predio o Conjunto de predios y, en su caso, sobre conflictos agrarios, así como que la Plantación forestal correspondiente no se establecerá en sustitución de la Vegetación forestal, de conformidad con el artículo 78 de la Ley.
+(DEROGADO, D.O.F. 20 DE NOVIEMBRE DE 2025)
 
 ###### Artículo 63.
 
-La solicitud de autorización a que se refiere el artículo anterior deberá presentarse con los anexos siguientes:
+(DEROGADO, D.O.F. 20 DE NOVIEMBRE DE 2025)
 
-I. Original o copia certificada del título de propiedad o posesión del predio o Conjunto de predios de que se trate, inscrito en el registro público que corresponda, así como copia simple para su cotejo;
-
-II. Original o copia certificada del instrumento en que conste el derecho para realizar las actividades de plantación, así como copia simple para su cotejo;
-
-III. En el caso de ejidos y comunidades, se deberá presentar original del acta de asamblea en la que conste su consentimiento para realizar la plantación, conforme a la Ley Agraria, así como copia simple para su cotejo, y
-
-IV. Plano georeferenciado, indicando ubicación, superficie y colindancias del predio o Conjunto de predios, ubicándolo dentro de la Cuenca hidrográfica y la Unidad de manejo forestal, cuando exista, donde se encuentre el predio o predios, así como las áreas, superficies y especies forestales por plantar anualmente en cada predio, identificadas con su nombre común y científico.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 64.
 
-La Secretaría resolverá las solicitudes de autorización a que se refiere el artículo 62 de este Reglamento, conforme a lo siguiente:
+La Secretaría debe resolver el trámite del aviso a que se refiere el artículo 65 de este Reglamento, conforme a lo siguiente:
 
-I. La Secretaría revisará la solicitud y los documentos presentados y, en su caso, prevendrá por única vez al interesado dentro de los cinco días hábiles siguientes para que presente la información o documentación faltante, la cual deberá entregarse dentro del término de diez días hábiles, contado a partir de la fecha en que surta efectos la notificación;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
+I. La Secretaría revisará el aviso y los documentos presentados y, en su caso, prevendrá por única vez al interesado dentro de los cinco días hábiles siguientes para que presente la información o documentación faltante, la cual deberá entregarse dentro del término de diez días hábiles, contado a partir de la fecha en que surta efectos la notificación;
 
 II. Transcurrido el plazo sin que se desahogue la prevención, se desechará el trámite, y
 
 III. Concluidos los plazos anteriores, la Secretaría resolverá lo conducente dentro de los cinco días hábiles siguientes. En caso de que la Secretaría no emita resolución se entenderá que la misma fue resuelta en sentido positivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 65.
 
-Las Plantaciones forestales comerciales en Terrenos temporales forestales en cualquier superficie a plantar, así como en Terrenos preferentemente forestales en superficies a plantar menores o iguales a 800 hectáreas, únicamente requerirán de un aviso por escrito del interesado a la Secretaría, que deberá contener:
+Las Plantaciones forestales comerciales en Terrenos temporales forestales en cualquier superficie a plantar, así como en Terrenos preferentemente forestales, únicamente requieren de un aviso por escrito del interesado a la Secretaría, que debe contener:
 
 I. El nombre o denominación o razón social y domicilio del propietario o poseedor del predio o Conjunto de predios;
 
@@ -1105,13 +1099,17 @@ III. En el caso de ejidos y comunidades, se deberá presentar original del acta 
 
 IV. Plano georeferenciado indicando ubicación, superficie y colindancias del predio o Conjunto de predios, ubicándolo dentro de la Cuenca hidrográfica y Unidad de manejo forestal, cuando exista, donde se encuentre el predio o predios, así como las superficies y especies forestales por plantar anualmente en cada predio y la propuesta de apertura o rehabilitación de brechas o caminos.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 67.
 
-Cuando la información requerida para los avisos o autorizaciones de Plantación forestal comercial se contenga en los estudios o programas regionales forestales autorizados por la Comisión a las Unidades de manejo forestal e inscritos en el Registro, bastará que los interesados hagan referencia a estos para cumplir con los requisitos correspondientes.
+Cuando la información requerida para los avisos de Plantación forestal comercial se contenga en los estudios o programas regionales forestales autorizados por la Comisión a las Unidades de manejo forestal e inscritos en el Registro, bastará que los interesados hagan referencia a estos para cumplir con los requisitos correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 68.
 
-Las constancias de recepción de los avisos y, en su caso, las autorizaciones de Plantaciones forestales comerciales contendrán los datos siguientes:
+Las constancias de recepción de los avisos de Plantaciones forestales comerciales deben contener los datos siguientes:
 
 I. Nombre o denominación o razón social y domicilio del titular;
 
@@ -1125,17 +1123,23 @@ V. La obligación de rendir los informes a que se refiere el artículo 69 del pr
 
 VI. Código de identificación, y
 
-VII. En su caso, datos de inscripción en el Registro del Prestador de Servicios forestales responsable de la ejecución de las acciones que derivan de la autorización o aviso.
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
+VII. Datos de inscripción en el Registro del Prestador de Servicios forestales del responsable de la ejecución de las acciones que derivan de los avisos, solo cuando ya se conozca la identidad del Prestador de Servicios forestales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 69.
 
-Los titulares de los avisos o de las autorizaciones de Plantación forestal comercial deberán presentar a la Comisión un informe sobre los volúmenes de Materias primas que obtengan del aprovechamiento, durante el primer bimestre inmediato siguiente al año que se informe, el cual deberá contener lo siguiente:
+Los titulares de los avisos de Plantación forestal comercial deben presentar a la Secretaría un informe sobre los volúmenes de Materias primas que obtengan del aprovechamiento, durante el primer bimestre inmediato siguiente al año que se informe, el cual deberá contener lo siguiente:
 
 I. Nombre o denominación o razón social y domicilio del titular;
 
 II. Nombre y ubicación del predio o Conjunto de predios;
 
-III. Número de oficio de otorgamiento de la constancia o de la autorización y Código de identificación otorgado;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
+III. Número de oficio de otorgamiento de la constancia y Código de identificación otorgado;
 
 IV. La superficie plantada en el año que se informa;
 
@@ -1145,9 +1149,11 @@ VI. Información adicional que el interesado considere conveniente proporcionar.
 
 Los titulares de Plantación forestal comercial que incumplan con esta obligación no podrán solicitar remisiones forestales hasta en tanto presenten dichos informes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 70.
 
-Los titulares de los avisos o de las autorizaciones de Plantación forestal comercial cuando pretendan realizar modificaciones en los métodos, actividades, especies y demás datos de las Plantaciones forestales, así como incorporar o reducir superficie a la unidad de producción, deberán presentar un aviso a la Secretaría con la información siguiente:
+Los titulares de la constancia de Plantación forestal comercial cuando pretendan realizar modificaciones en los métodos, actividades, especies y demás datos de las Plantaciones forestales, así como incorporar o reducir superficie a la unidad de producción, deben presentar un aviso a la Secretaría con la información siguiente:
 
 I. El nombre o denominación o razón social y domicilio del propietario o poseedor del predio, o de quien tenga el derecho a realizar el aprovechamiento en términos de las disposiciones jurídicas aplicables;
 
@@ -3228,3 +3234,17 @@ DÉCIMO CUARTO. Las erogaciones que se generen por la entrada en vigor del prese
 DÉCIMO QUINTO. Los centros de almacenamiento, transformación o de almacenamiento y transformación que hayan sido autorizados por la Secretaría de Medio Ambiente y Recursos Naturales y respecto de los que la Comisión Nacional Forestal, conforme a su competencia hubiese otorgado modificación a la autorización de funcionamiento, presentarán la solicitud de reembarques forestales a que se refiere el artículo 113 de este Reglamento ante dicha Comisión.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México a 2 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Medio Ambiente y Recursos Naturales, María Luisa Albores González.- Rúbrica.- El Secretario de Agricultura y Desarrollo Rural, Víctor Manuel Villalobos Arámbula.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE”.]
+
+Primero. El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las personas interesadas en obtener la constancia de Plantación forestal comercial, respecto de las plantaciones establecidas antes de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable, deben presentar el aviso previsto en el artículo 65 del presente reglamento en un plazo de seis meses previos a iniciar el aprovechamiento de la plantación.
+
+Tercero. Las autorizaciones de Plantaciones forestales comerciales que se encuentran vigentes antes de la entrada en vigor del presente Decreto son equivalentes jurídicamente a las constancias previstas en el artículo 68 de este Reglamento, por lo que las personas titulares de dichas autorizaciones pueden solicitar las modificaciones previstas en el artículo 70, a través del trámite administrativo correspondiente a dichas constancias.
+
+Cuarto. Las erogaciones que se generen con motivo de la aplicación del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto que intervienen en la implementación del mismo, por lo que no se autorizarán ampliaciones líquidas a sus presupuestos para tal fin en el presente ejercicio fiscal ni en años subsecuentes, ni se podrá incrementar el presupuesto regularizable en dichos ejecutores de gasto para tales efectos.
