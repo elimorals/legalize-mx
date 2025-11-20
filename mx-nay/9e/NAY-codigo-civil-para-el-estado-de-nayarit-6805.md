@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2024-06-11"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -7208,6 +7208,14 @@ Fuera de los casos de excepción, se necesita el lapso de diez años, contados d
 ###### Artículo 1144.
 
 La obligación de dar alimentos es imprescriptible.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 1144 Bis.
+
+No prescribirá para la víctima u ofendido la acción de responsabilidad civil ni el derecho a obtener la reparación del daño moral que derive de la comisión de los delitos previstos en los artículos 230, 233, 234, 238 Bis, 289, 289 Bis, 291, 293, 294, 295, 296, 297, 297 Bis, 297 Ter, 297 Quáter, 297 Sexties, 302 y 305 del Código Penal para el Estado de Nayarit, cuando éstos se hayan cometido en contra de niñas, niños o adolescentes.
+
+La imprescriptibilidad a que se refiere el párrafo anterior operará sin perjuicio de las demás formas de reparación previstas en este Código y en las leyes aplicables, y deberá atender al interés superior de la niñez y a la protección integral de las víctimas.
 
 ###### Artículo 1145.
 
@@ -16846,5 +16854,11 @@ P.O. 18 DE OCTUBRE DE 2023.
 P.O. 11 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONAR (SIC) EL ARTÍCULO 1144 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE IMPRESCRIPTIBILIDAD DE LA ACCIÓN PARA RECLAMAR LA INDEMNIZACIÓN DEL DAÑO MORAL CON MOTIVO DE DELITOS SEXUALES CONTRA NIÑAS, NIÑOS Y ADOLESCENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
