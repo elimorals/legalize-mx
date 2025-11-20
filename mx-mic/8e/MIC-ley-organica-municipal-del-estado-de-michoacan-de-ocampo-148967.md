@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2025-08-28"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -893,6 +893,10 @@ XXV. Contar con una Secretaría o Dirección de Obras Públicas, vigilando que l
 
 XXVI. Crear como Unidad Programática Presupuestal, la Dirección Municipal de Atención a la Mujer, o su Secretaría u Instituto Municipal, equivalente, cuya titular será mujer y tendrá al menos el rango de directora general municipal y un salario equiparable a su cargo que no podrá ser menor al de otros cargos análogos.
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+XXVII. Declarar zonas de protección para la conservación del patrimonio histórico y cultural de localidades declaradas como pueblos mágicos por la Secretaría de Turismo Federal.
+
 La titular de la dirección o de la dependencia municipal homóloga de atención a la mujer, deberá contar con conocimientos y experiencia en la atención de los derechos de las mujeres. No podrá ser titular la ciudadana que se encuentre en alguno de los supuestos establecidos en la fracción VII del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
 
 En su presupuesto establecido como Unidad Presupuestal del Municipio, la dirección o la dependencia municipal homóloga de atención a la mujer, tendrá los recursos presupuestales asignados, que le garanticen la suficiencia presupuestaria suficiente para la contratación de los recursos humanos necesarios, en especial del personal jurídico, de trabajo social, psicológico y tanatológico, así como para contar con el equipo y mobiliario indispensable y un espacio de atención físico digno, con la finalidad de atender las necesidades de las mujeres, que soliciten apoyo dentro del Municipio. El presupuesto que se le asigne nunca podrá ser menor al del ejercicio fiscal del año anterior.
@@ -1010,6 +1014,16 @@ El Ayuntamiento podrá establecer convenios de colaboración con la Guardia Naci
 Artículo 41 bis. Los ayuntamientos deberán instalar y operar en un máximo de cuarenta y cinco días hábiles, a partir del inicio de sus funciones, su consejo municipal de seguridad pública, el cual tendrá las atribuciones y obligaciones que le confiere la Ley del Sistema Estatal de Seguridad Pública de Michoacán de Ocampo, mismas que deberán de estar incluidas en su reglamento correspondiente.
 
 Se dará por instalado el consejo municipal de seguridad pública, cuando el Ayuntamiento publique de manera oficial en el Periódico oficial del Estado su acta de instalación.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 41 Ter.
+
+Los Ayuntamientos que cuenten con localidades reconocidas como pueblos mágicos por la Secretaría de Turismo del Gobierno Federal podrán establecer, mediante sus reglamentos y actos administrativos, zonas de protección para la conservación del patrimonio histórico y cultural local, a fin de fomentar un desarrollo turístico ordenado, sostenible y respetuoso de su identidad.
+
+Con el propósito de preservar su singularidad cultural y favorecer la participación de actores económicos locales en la provisión, transformación, y comercialización de productos y servicios turísticos, los reglamentos municipales en materia de comercio podrán prever mecanismos de opinión consultiva del Comité de Pueblo Mágico correspondiente antes del otorgamiento de licencias o permisos para giros económicos en dichas zonas.
+
+La administración municipal, a través del área correspondiente en materia de turismo, procurará la instalación y funcionamiento del Comité de Pueblo Mágico, como espacio de coordinación entre autoridades y comunidad para la promoción turística con identidad, en función de su disponibilidad institucional y presupuestaria.
 
 ### CAPÍTULO X. DE LA DESAPARICIÓN DE AYUNTAMIENTOS
 
@@ -3662,3 +3676,11 @@ P.O. 28 DE AGOSTO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Los Ayuntamientos deberán expedir el reglamento de desarrollo de sesiones del Cabildo y funcionamiento de comisiones, dentro de los 90 días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 246 POR EL QUE "SE ADICIONA UNA FRACCIÓN XXVII, AL INCISO B), DEL ARTÍCULO 40; Y, UN ARTÍCULO 41 TER A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Los Municipios que actualmente cuentan con la distinción de pueblos mágicos, otorgada por la Secretaría de Turismo Federal, contarán con ciento ochenta días para emitir las disposiciones reglamentarias necesarias para dar cumplimiento a este Decreto, el cual no será retroactivo.
