@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2025-07-24"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -793,15 +793,15 @@ La capital del Estado de Nayarit, es la ciudad de Tepic, y en ella residirán ha
 
 El Poder Legislativo del Estado se depositará en una asamblea que se denominará: CONGRESO DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se integrará por dieciocho diputados electos por mayoría relativa y doce diputados electos por representación proporcional, quienes podrán ser electos hasta por cuatro períodos consecutivos.
+El Congreso del Estado se integrará por dieciocho diputados electos por mayoría relativa y doce diputados electos por representación proporcional, quienes no podrán ser reelectos para el periodo inmediato posterior al ejercicio de su mandato.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-La postulación para ser elegido por un período adicional sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
@@ -853,7 +853,9 @@ I. Ser mexicano por nacimiento.
 
 II. Tener 18 años cumplidos al día de la elección.
 
-III. (DEROGADA, P.O. 10 DE JUNIO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+III. No estar comprendido en alguno de los impedimentos que señala el artículo 26 de esta Constitución.
 
 (NOTA: EL 26 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 55/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -865,13 +867,17 @@ IV. Ser originario del Estado o tener residencia efectiva no menor de 5 años in
 
 V. No estar suspendido en sus derechos políticos.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-VI. No ser ministro de algún culto religioso, y
+VI. No ser ministro de algún culto religioso.
 
 > <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
 
 VII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+VIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -879,9 +885,7 @@ VII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Moroso
 
 No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Órgano de Administración Judicial del Estado o la Federación, Magistrada o Magistrado del Tribunal de Disciplina Judicial del Estado o de la Federación; Magistrado o Magistrado Administrativo; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos 90 días antes del día de la elección. En el caso de los consejeros y magistrados electorales del estado, el término de su separación se computará un año antes de la elección.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
-
-Para el caso de diputados que aspiren a la elección consecutiva, deberán separarse del cargo cuando menos noventa días antes de la elección.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
 ###### Art. 30.
 
@@ -1437,17 +1441,21 @@ III. No ser Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal 
 
 IV. No pertenecer al estado eclesiástico ni ser Ministro de algún culto religioso.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-V. No estar suspendido en sus derechos políticos;
+V. No estar suspendido en sus derechos políticos.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo, motín o asonada, y
+VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo, motín o asonada.
 
 > <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
 
 VII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa, ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+VIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1980)</small>
 
@@ -1488,6 +1496,10 @@ Nunca podrán ser electos para el período inmediato:
 a). El Gobernador substituto Constitucional o el designado para concluir el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación.
 
 b). El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+c). La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2021)</small>
 
@@ -2505,15 +2517,15 @@ Si la Legislatura rechaza alguna o la totalidad de las ternas propuestas, el Gob
 
 ### CAPITULO UNICO. De los Municipios
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-Art 106.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una o un Presidente Municipal, una o un Síndico y el número de Regidurías que la ley determine, de conformidad con el principio de paridad de género. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+Art 106.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una o un Presidente Municipal, una o un Síndico y el número de Regidurías que la ley determine, de conformidad con el principio de paridad de género. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2022)</small>
 
 En la designación de las personas titulares de las dependencias que integran la Administración Centralizada del Municipio, los Ayuntamientos deberán observar el principio de paridad de género en los términos que establezca la ley en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
 ###### Art. 106.
 
@@ -2523,11 +2535,11 @@ Cada Municipio será gobernado por un Ayuntamiento de elección popular directa,
 
 ###### Art. 107.
 
-Los Ayuntamientos se renovarán en su totalidad cada tres años y sus integrantes, serán electos popularmente por elección directa hasta por dos períodos consecutivos para el mismo cargo, en los términos que prescribe la Constitución General de la República y la Ley de la materia.
+Los Ayuntamientos se renovarán en su totalidad cada tres años, sus integrantes serán electos popularmente por elección directa y no podrán ser reelectos para el mismo cargo para el periodo inmediato posterior al ejercicio de su encargo.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-La postulación por un período adicional sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Los presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -2553,11 +2565,7 @@ En todos los casos y bajo el procedimiento que establezca la Ley Electoral del E
 
 Por cada integrante del Ayuntamiento se elegirá un suplente.
 
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
-
-Ninguno de los funcionarios municipales mencionados en el artículo anterior, cuando hayan tenido el carácter de Propietarios, podrán ser electos para el periodo inmediato como suplentes, pero éstos sí podrán ser electos para el periodo inmediato como propietarios, pudiendo ser electos para el mismo cargo hasta por un periodo adicional.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -2599,17 +2607,19 @@ IV. No ser Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecuti
 
 En el caso de los consejeros y magistrados electorales del estado, el término de su separación se computará un año antes de la elección.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-Para el caso de los integrantes de ayuntamientos que aspiren a la elección por un periodo adicional, deberán separarse del cargo por lo menos noventa días antes del día de la elección.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+V. No estar suspendido en sus derechos políticos;
 
-V. No estar suspendido en sus derechos políticos, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
+VI. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género, y
 
-VI. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+VII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del cargo para el que se postula.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
@@ -5108,3 +5118,19 @@ Los actos jurídicos emitidos por el Instituto de Transparencia y Acceso a la In
 QUINTO. Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
 
 SEXTO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE NO REELECCIÓN Y NEPOTISMO ELECTORAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, sin perjuicio de lo previsto en los artículos transitorios subsecuentes respecto de su aplicación.
+
+SEGUNDO. Las reformas relativas a la prohibición del nepotismo electoral serán aplicables a partir del proceso electoral que se celebre en el año 2030.
+
+TERCERO. Las reformas relativas a la prohibición de reelección de las diputadas y los diputados locales, así como de las y los integrantes de los Ayuntamientos de la entidad, serán aplicables a partir del proceso electoral que se celebre en el año 2030.
+
+En consecuencia, las personas que en dicho proceso electoral se encuentren ejerciendo los cargos públicos a que hace referencia este Decreto no podrán postularse para efectos de reelección.
+
+CUARTO. El Congreso del Estado contará con un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a las leyes locales que resulten necesarias a fin de dar cumplimiento al mismo.
+
+QUINTO. Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
