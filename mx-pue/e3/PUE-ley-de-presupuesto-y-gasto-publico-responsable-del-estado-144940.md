@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-presupuesto-y-gasto-publico-responsable-del-estado-14494
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-10"
-last_updated: "2020-11-10"
+last_updated: "2025-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE PRESUPUESTO Y GASTO PUBLICO RESPONSABLE DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO RESPONSABLE DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 20 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PRESUPUESTO Y GASTO PÚBLICO RESPONSABLE DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Número 6 del Periódico Oficial del Estado de Puebla, el martes 10 de noviembre de 2020.
 
@@ -1472,3 +1474,19 @@ CUARTO. Se derogan todas aquellas disposiciones que contravengan lo establecido 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintisiete días del mes de octubre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMENEZ MORALES. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los seis días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA MARÍA TERESA CASTRO CORRO. Rúbrica La Secretaria de la Función Pública CIUDADANA AMANDA GÓMEZ NAVA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PRESUPUESTO Y GASTO PÚBLICO RESPONSABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el 01 de enero de 2026.
+
+SEGUNDO. Se abroga la Ley de Presupuesto y Gasto Público Responsable del Estado de Puebla de fecha de publicación en el Periódico Oficial del Estado el 10 de noviembre de 2020.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Decreto.
+
+CUARTO. La Secretaría elaborará y publicará el Programa Estatal de Racionalización y Eficiencia del Gasto Público, en un plazo no mayor a 30 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+QUINTO. Las disposiciones reglamentarias y administrativas vigentes en tanto no se opongan a lo establecido por esta Ley continuarán aplicándose de manera supletoria, hasta en tanto se emitan los lineamientos técnicos y normativos correspondientes.
