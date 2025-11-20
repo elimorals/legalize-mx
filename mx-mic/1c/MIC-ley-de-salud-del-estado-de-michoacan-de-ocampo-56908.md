@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2025-08-28"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -553,11 +553,17 @@ XIV. Promover e impulsar la participación de la población en el cuidado de la 
 
 XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
-XVI. En coordinación con las autoridades educativas proponer y desarrollar programas de prevención del suicidio a causa de trastornos mentales y del comportamiento, en niñas, niños y adolescentes; y;
+XVI. En coordinación con las autoridades educativas proponer y desarrollar programas de prevención del suicidio a causa de trastornos mentales y del comportamiento, en niñas, niños y adolescentes;
 
-XVII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema, y los que determinen las disposiciones generales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Diseñar, coordinar e implementar programas y acciones para garantizar el acceso gratuito a productos de gestión menstrual, en colaboración con las autoridades de salud, educación y del sistema penitenciario, priorizando a mujeres y personas menstruantes en situación de vulnerabilidad; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema, y los que determinen las disposiciones generales aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -2379,6 +2385,32 @@ IX. Coadyuvar con las autoridades correspondientes para evitar la disposición i
 
 X. Promover la constitución de los Comités de Medicina Transfusional en las unidades médicas del Estado de Michoacán de Ocampo, conforme a las normas oficiales mexicanas.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 177 TER. Corresponde a la Secretaría establecer el Programa Estatal de Donación Voluntaria de Sangre, el cual será elaborado a través del Centro Estatal de Transfusión Sanguínea, atendiendo las políticas públicas, disposiciones y lineamientos que emita la Secretaría Federal y demás autoridades competentes en la materia.
+
+El Programa deberá contener, al menos, lo siguiente:
+
+I. Un diagnóstico integral de los requerimientos de sangre en la entidad, considerando el porcentaje de donación voluntaria y una visión a largo plazo para el cumplimiento de los objetivos de esta Ley;
+
+II. Objetivos específicos para fomentar la cultura de la donación voluntaria de sangre y las estrategias correspondientes;
+
+III. Metas y líneas de acción dirigidas a concientizar a la población sobre la importancia de la donación y a promover la participación periódica de donantes;
+
+IV. Ejes temáticos que sustenten campañas permanentes de información, promoción y sensibilización social; y,
+
+V. La programación de jornadas especiales de donación a realizarse durante el año, así como la proyección de campañas, talleres, conferencias y demás actividades relacionadas.
+
+El Programa deberá contener objetivos, estrategias y metas medibles, y actualizarse conforme a los avances técnicos y normativos aplicables. Asimismo, contará con mecanismos de evaluación que deberán realizarse al menos una vez cada dos años.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 177 QUATER. Corresponde a la Secretaría, a través del Centro Estatal de Transfusión Sanguínea, integrar y operar el Registro Estatal de Donadores de Sangre, con el objeto de contar con un padrón actualizado de personas que consientan voluntariamente la extracción y disposición de su sangre para fines terapéuticos, conforme a la legislación aplicable.
+
+Los bancos de sangre ubicados en hospitales, así como los establecimientos autorizados para la extracción de sangre con fines terapéuticos, deberán remitir de forma inmediata al Centro Estatal de Transfusión Sanguínea la información correspondiente a los donadores voluntarios, para su incorporación al Registro.
+
+La información contenida en el Registro será confidencial y estará sujeta a las disposiciones de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Michoacán de Ocampo.
+
 ## TÍTULO CUARTO. AUTORIZACIONES, CERTIFICADOS Y AVISOS
 
 ### CAPÍTULO I. AUTORIZACIONES
@@ -3504,3 +3536,21 @@ P.O. 28 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 198 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3°, LA FRACCIÓN I DEL ARTÍCULO 17 B; Y, SE REFORMA LA FRACCIÓN IX Y SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN X PARA PASAR A SER FRACCIÓN XI AL INCISO A) DEL ARTÍCULO 21 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 244.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN XVII Y SE ADICIONA UNA FRACCIÓN XVIII, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 14 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. En la programación del ejercicio fiscal 2026 a la entrada en vigor del presente Decreto, el Gobierno del Estado deberá prever las asignaciones presupuestarias que permitan garantizar el cumplimiento progresivo de las obligaciones establecidas en materia de gestión menstrual.
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 245.-ARTÍCULO ÚNICO.- SE ADICIONAN LOS ARTÍCULOS 177 TER Y 177 QUATER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Salud del Estado de Michoacán deberá expedir el Programa Estatal de Donación Voluntaria de Sangre, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero. La Secretaría de Salud del Estado de Michoacán deberá integrar y poner en operación el Registro Estatal de Donadores de Sangre, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
