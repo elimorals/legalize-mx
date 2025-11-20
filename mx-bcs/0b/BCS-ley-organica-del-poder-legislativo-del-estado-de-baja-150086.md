@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2025-10-22"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -2321,6 +2321,16 @@ Quince días antes de la clausura de cada Período Ordinario de Sesiones, las Co
 
 De concederse por la Asamblea mayor plazo a una comisión para rendir su dictamen fuera del término del período ordinario, continuará esta sus labores durante el receso hasta concluirlo, en cuyo caso, deberá presentarlo ante la Diputación Permanente para que esta a su vez lo turne al pleno al iniciarse el siguiente período.
 
+> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+Artículo 124 Bis
+
+Las iniciativas de Ley o Decreto, así como Proposiciones con Punto de Acuerdo, presentadas durante una Legislatura que no sean dictaminadas a más tardar al día treinta de agosto del año en que concluye su ejercicio legislativo, se considerarán automáticamente caducadas, por lo que la Legislatura entrante no las considerará como asuntos pendientes de resolver, sin necesidad de declaración administrativa alguna.
+
+Del anterior párrafo, se exceptúan las iniciativas de Ley o de Decreto, así como Proposiciones con Punto de Acuerdo, que hubiesen sido presentados en el segundo periodo ordinario de sesiones y segundo periodo de receso del tercer año de ejercicio legislativo, las cuales se considerarán caducadas al término del primer periodo ordinario de sesiones del primer año de ejercicio legislativo de la Legislatura siguiente.
+
+De igual forma se exceptúan aquellas iniciativas de Ley o de Decreto que estén vinculadas con el trámite o cumplimiento de una acción de inconstitucionalidad, controversia constitucional o juicio de amparo.
+
 Artículo 125
 
 No podrá ser puesto a discusión ningún dictamen de Ley o Decreto sin que previamente se hayan repartido a los Diputados, a más tardar en la Sesión anterior a la en que la discusión vaya a celebrarse, las copias que contengan el dictamen o iniciativa correspondientes; salvo los que se refieran a asuntos electorales, o cuando se hubiere concedido dispensa de trámites en términos de la presente Ley.
@@ -3404,3 +3414,15 @@ b) Manuales de organización y de procedimientos internos de la Unidad.
 Dichos instrumentos normativos serán sometidos para su aprobación al Pleno del Congreso del Estado del Estado (sic) de Baja California Sur por conducto de la Junta de Gobierno y Coordinación Política.
 
 QUINTO.- Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas de que se ocupa el presente Decreto.
+
+B.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3217 SE ADICIONA EL ARTÍCULO 124 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Las iniciativas de Ley o Decreto, así como las Proposiciones con Punto de Acuerdo que se encuentren pendientes de dictamen o resolución al momento de la entrada en vigor del presente Decreto, continuarán su trámite hasta la conclusión de la Legislatura en curso.
+
+En caso de no ser dictaminadas o resueltas a más tardar el treinta de agosto del año 2027, se considerarán automáticamente caducadas, conforme a lo dispuesto en el artículo 124 Bis de la Ley Orgánica del Poder Legislativo del Estado de Baja California Sur.
+
+Tercero.- Se Derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto
