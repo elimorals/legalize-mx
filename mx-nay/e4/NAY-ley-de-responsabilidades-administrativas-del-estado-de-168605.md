@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-administrativas-del-estado-de-168605"
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-23"
-last_updated: "2023-11-23"
+last_updated: "2025-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Número 97 del Periódico Oficial del Estado de Nayarit, el jueves 23 de noviembre de 2023.
 
@@ -77,7 +77,9 @@ I. Auditoría Superior: La Auditoría Superior del Estado de Nayarit;
 
 II. Autoridad Investigadora: La Secretaría para la Honestidad y la Buena Gobernanza, los Órganos Internos de Control, la Auditoría Superior, así como las unidades de responsabilidades de las Empresas productivas del Estado que apliquen, administren, reciban, manejen o ejecuten fondos púbicos, encargadas de la investigación de Faltas administrativas;
 
-III. Autoridad Resolutora: Tratándose de Faltas Administrativas No Graves lo será la unidad de responsabilidades administrativas en los Órganos Internos de Control. Para las Faltas Administrativas Graves, así como para las Faltas de Particulares, lo será la Sala Especializada en materia de Responsabilidades Administrativas del Tribunal de Justicia Administrativa. En el caso del Poder Judicial, serán competentes para imponer las sanciones que correspondan, el Pleno del Supremo Tribunal de Justicia, y el Consejo de la Judicatura, conforme al régimen establecido (sic) la Constitución Local;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+III. Autoridad Resolutora: Tratándose de Faltas Administrativas No Graves lo será la unidad de responsabilidades administrativas en los Órganos Internos de Control. Para las Faltas Administrativas Graves, así como para las Faltas de Particulares, lo será la Sala Especializada en materia de Responsabilidades Administrativas del Tribunal de Justicia Administrativa. En el caso del Poder Judicial, serán competentes para imponer las sanciones que correspondan, el Pleno del Tribunal de Disciplina Judicial y el Pleno del Órgano de Administración Judicial, conforme al régimen establecido en la Constitución Local;
 
 IV. Autoridad Substanciadora: La Secretaría para la Honestidad y la Buena Gobernanza, los Órganos Internos de Control, la Auditoría Superior que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de Presunta Responsabilidad Administrativa y hasta la conclusión de instancia inicial. La función de la Autoridad Substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
 
@@ -135,7 +137,9 @@ XXX. Sección Instructora: Comisión Especial de Gran Jurado. Sección Instructo
 
 XXXI. Secretaría: Secretaría para la Honestidad y la Buena Gobernanza;
 
-XXXII. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los Entes Públicos, conforme a lo dispuesto en el Artículo 122 de la Constitución Local;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+XXXII. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los Entes Públicos, conforme a lo dispuesto en el Artículo 122 de la Constitución Local. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá a lo dispuesto en el contenido de esta fracción;
 
 XXXIII. Sistema de Información: al Sistema de Información y Comunicación que es la plataforma a que se refiere la Ley del Sistema Local, que contará con los sistemas que establece la referida Ley, así como los contenidos previstos en la presente Ley;
 
@@ -175,17 +179,21 @@ V. Cuenten, al menos, con los mismos deberes de diligencia y lealtad aplicables 
 
 ### CAPÍTULO II. LOS PRINCIPIOS Y DIRECTRICES QUE RIGEN LA ACTUACIÓN DE LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 6.
 
-Condiciones estructurales y normativas. Todos los Entes Públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Servidor Público.
+Condiciones estructurales y normativas. Todos los Entes Públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Persona Servidora Pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género.
 
 Para tal efecto, los Entes Públicos deberán considerar dentro de su estructura el número de Servidores Públicos suficientes y capacitados que permitan diagnosticar e implementar acciones de mejora y de control interno, de difusión y actualización de la normatividad aplicable, y de investigación de faltas administrativas, y de substanciación y resolución de procedimientos disciplinarios, con el objeto de salvaguardar los principios y directrices que rigen la actuación de sus Servidores Públicos.
 
 Los Ayuntamientos y órganos autónomos deberán contar con un Órgano Interno de Control para efectos de lo dispuesto en el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 7.
 
-Principios rectores del servicio público. Los Servidores Públicos se sujetarán en el desempeño de su empleo, cargo, comisión o función, a los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
+Principios rectores del servicio público. Las Personas Servidoras Públicas se sujetarán en el desempeño de su empleo, cargo, comisión o función, a los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos que rigen el servicio público.
 
 Para la efectiva aplicación de dichos principios, los Servidores Públicos se sujetarán, respetando los derechos humanos, a las siguientes directrices:
 
@@ -233,13 +241,17 @@ V. Los Organismos a los que la Constitución Política del Estado otorgue autono
 
 VI. Los Ayuntamientos en los términos que disponga la Ley Municipal del Estado de Nayarit;
 
-VII. El Tribunal Superior de Justicia y el Consejo de la Judicatura del Poder Judicial del Estado de Nayarit, con la intervención que corresponda al Órgano Interno de Control del Poder Judicial, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+VII. El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial, y
 
 VIII. Los demás órganos que determinen esta Ley y otras disposiciones legales.
 
 El Sistema Local Anticorrupción establecerá las bases y principios de coordinación entre las autoridades competentes en la materia.
 
-Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial, serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal Superior de Justicia y el Consejo de la Judicatura, conforme al régimen establecido en el artículo 85 y 123 de la Constitución Local y a su legislación y normatividad orgánica. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
+Tratándose de las responsabilidades administrativas de las Personas Servidoras Públicas del Poder Judicial, serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial, conforme al régimen establecido en el artículo 85 y 123 de la Constitución Local y a su legislación y normatividad orgánica. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 ###### Artículo 9.
 
@@ -385,13 +397,17 @@ En caso de que la Dependencia o Entidad no cuente con la suficiencia presupuesta
 
 Los titulares de los Órganos Internos de Control de los demás Entes Públicos y de los Órganos Constitucionales Autónomos, así como de las unidades especializadas que los conformen, serán nombrados en términos de sus respectivas disposiciones.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-Convenios con el sector social o privado para autorregulación. Los Entes Públicos podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura ética en su organización.
+Convenios con el sector social o privado para autorregulación. Los Entes Públicos podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura de la ética, honestidad y buenas prácticas en su organización.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 21.
 
-Mejores prácticas. En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de Denuncia y de protección a denunciantes.
+Mejores prácticas. En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de Denuncia y de protección a denunciantes.
 
 ###### Artículo 22.
 
@@ -1347,9 +1363,11 @@ Presentación de los testigos. La presentación de los testigos será responsabi
 
 Testificación domiciliar. Quienes por motivos de edad o salud no pudieran presentarse a rendir su testimonio ante la Autoridad Resolutora, se les tomará su testificación en su domicilio o en el lugar donde se encuentren, pudiendo asistir las partes a dicha diligencia.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 155.
 
-Testimonio de Servidores Públicos. Los representantes de elección popular, Magistrados y Jueces del Poder Judicial del Estado, los consejeros del Consejo de la Judicatura, los Servidores Públicos que sean ratificados o nombrados con la intervención del Congreso del Estado, el titular y secretarios del Poder Ejecutivo Estatal, municipal, los titulares de los Órganos Constitucionales Autónomos, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
+Testimonio de las Personas Servidoras Públicas. Las Personas representantes de elección popular, las Magistradas y Magistrados del Tribunal Superior de Justicia, las Juezas y Jueces del Poder Judicial del Estado, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, las y los miembros del Órgano de Administración Judicial, las Personas Servidoras Públicas que sean ratificadas o nombradas con la intervención del Congreso del Estado, el titular y secretarios del Poder Ejecutivo Estatal, municipal, los titulares de los Órganos Constitucionales Autónomos, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
 
 ###### Artículo 156.
 
@@ -1989,9 +2007,11 @@ Para determinar la gravedad de la violación, el daño o el trastorno, se deber�
 
 En todos los casos, para establecer los criterios que determinen la gravedad de la responsabilidad del Servidor Público se considerarán los dictámenes o resoluciones precedentes emitidos en casos similares por la Comisión respectiva o el Pleno del Congreso del Estado, en su caso.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 241.
 
-Procedencia de juicio político en contra del Gobernador, Diputados locales, Magistrados e integrantes del Consejo de la Judicatura. El Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa y los miembros del Consejo de la Judicatura, sólo podrán ser sujetos de juicio político por violaciones graves a la Constitución General, a la particular del Estado, a las Leyes federales y locales que de ellas emanen, así como por el manejo indebido de fondos y recursos.
+Procedencia de juicio político en contra del Gobernador, Diputados locales, Magistradas y Magistrados del Poder Judicial. El Gobernador del Estado, las Diputadas y los Diputados del Congreso del Estado, las Magistradas y Magistrados del Tribunal Superior de Justicia, las Magistradas y los Magistrados del Tribunal de Justicia Administrativa, y las Magistradas y Magistrados del Tribunal de Disciplina Judicial, sólo podrán ser sujetos de juicio político por violaciones graves a la Constitución General, a la particular del Estado, a las Leyes federales y locales que de ellas emanen, así como por el manejo indebido de fondos y recursos.
 
 ###### Artículo 242.
 
@@ -2227,9 +2247,11 @@ Si se emite declaratoria de improcedencia, el Servidor Público continuará en e
 
 Causa de inicio de procedimiento de declaratoria de procedencia contra el Titular del Poder Ejecutivo del Estado. El Titular del Poder Ejecutivo del Estado sólo será sujeto al procedimiento de declaratoria de procedencia, tratándose de delitos de prisión preventiva oficiosa del orden común así considerados por el Código Nacional de Procedimientos Penales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 279.
 
-Delitos de orden federal. Tratándose de delitos del orden federal cuya comisión se impute al titular del Poder Ejecutivo del Estado, a los Diputados locales, a los Magistrados adscritos al Poder Judicial o a los miembros del Consejo de la Judicatura local, una vez recibida por el Congreso del Estado la Declaratoria de Procedencia por la Comisión de Delitos dictada por la Cámara de Diputados del Congreso de la Unión, la Legislatura Local procederá en lo pertinente conforme a lo previsto en la presente Ley.
+Delitos de orden federal. Tratándose de delitos del orden federal cuya comisión se impute al titular del Poder Ejecutivo del Estado, a los Diputados locales, a las Magistradas y Magistrados del Tribunal Superior de Justicia o a las Magistradas y Magistrados del Tribunal de Disciplina Judicial, una vez recibida por el Congreso del Estado la Declaratoria de Procedencia por la Comisión de Delitos dictada por la Cámara de Diputados del Congreso de la Unión, la Legislatura Local procederá en lo pertinente conforme a lo previsto en la presente Ley.
 
 El Servidor Público quedará a disposición de las autoridades competentes para que procedan conforme a la legislación aplicable, debiendo comunicar a la Cámara de Diputados del Congreso de la Unión la resolución que se dicte.
 
@@ -2334,3 +2356,13 @@ DADO en la Sala de Sesiones “Lic. Benito Juárez García” Recinto Oficial de
 Dip. Pablo Montoya de la Rosa, Presidente.- Rúbrica.- Dip. Luis Fernando Pardo González, Secretario.- Rúbrica.- Dip. Aristeo Preciado Mayorga, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintitrés días del mes de noviembre de dos mil veintitrés.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Dra. en D. Rocío Esther González García, Secretaria General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
