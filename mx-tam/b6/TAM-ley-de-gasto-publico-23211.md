@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2024-12-16"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE GASTO PÚBLICO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -799,6 +799,12 @@ Para el ejercicio del gasto público del Estado, las entidades deberán de sujet
 
 El ejercicio del gasto público comprende el manejo y aplicación de los recursos financieros, así como su justificación, comprobación y pago, con base en el presupuesto de egresos correspondientes.
 
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+###### ARTICULO 46 Bis.
+
+Los órganos autónomos estarán impedidos de realizar inversiones en títulos, valores o acciones de bolsa sujetos a riesgo o variación de mercado.
+
 (NOTA: EL 5 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
@@ -1454,3 +1460,31 @@ Para dar cumplimiento al presente Decreto la Secretaría de Finanzas y la Secret
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones normativas que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-565 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 162 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y SE ADICIONA UN ARTÍCULO 46 BIS A LA LEY DE GASTO PÚBLICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los órganos constitucionales autónomos que cuenten con inversiones en títulos, valores o acciones de bolsa sujetos a riesgo o variación de mercado, deberán retirar dichas inversiones y reintegrar los recursos, junto con los rendimientos generados, a la Secretaría de Finanzas del Estado, o bien ceder los derechos correspondientes a dicha Secretaría, para que ésta determine la pertinencia de darlos por terminados en el momento más oportuno, a fin de evitar pérdidas derivadas de la terminación anticipada de los contratos respectivos. Lo anterior deberá materializarse dentro de los cuarenta y cinco días naturales posteriores al inicio de la vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas emitirá los lineamientos aplicables para la recepción, concentración y registro de los recursos reintegrados, garantizando su incorporación al erario estatal en condiciones de transparencia y oportunidad.
+
+###### ARTÍCULO CUARTO.
+
+Los órganos constitucionales autónomos y la Secretaría de Finanzas del Estado informarán al Congreso del Estado sobre el cumplimiento de este Decreto en un plazo no mayor a sesenta días naturales.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor del presente Decreto los órganos constitucionales autónomos no podrán ejercer, aplicar o destinar recursos derivados de fondos de inversión en el Presupuesto de Egresos del ejercicio fiscal en curso, quedando estrictamente sujetos a los montos, partidas y conceptos aprobados por el Congreso del Estado. Cualquier modificación, ampliación o adecuación presupuestaria deberá ajustarse a los procedimientos establecidos en la Ley de Gasto Público y demás disposiciones aplicables, sin que ello implique la posibilidad de generar, acumular o destinar remanentes o subejercicios hacia fines distintos a los expresamente autorizados.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
