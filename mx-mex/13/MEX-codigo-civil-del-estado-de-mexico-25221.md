@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2025-04-03"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -9961,6 +9961,10 @@ Plazo de prescripción de la acción de la reparación del daño
 
 178.- La acción para exigir la reparación de los daños causados, prescribe en dos años contados a partir del día en que se haya causado el daño.
 
+> <small>(ADICIONADO, G.G. 21 DE NOVIEMBRE DE 2025)</small>
+
+La acción para exigir la reparación del daño causado por actos de violencia sexual contra niñas, niños o adolescentes, será imprescriptible.
+
 ## TITULO SEPTIMO. De las Diferentes Especies de Obligaciones
 
 ### CAPITULO II. De las Obligaciones a Plazo
@@ -18838,3 +18842,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, con excepción de la adición del párrafo cuarto al artículo 51 de la Ley del Notariado del Estado de México que entrará en vigor en un periodo de 60 días naturales contados a partir de la publicación del presente Decreto.
 
 TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 200.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 7.178 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Las personas que, con motivo del régimen de prescripción vigente, no hayan podido ejercer la acción civil para reclamar la reparación integral del daño, podrán ejercerla conforme al presente Decreto y en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
