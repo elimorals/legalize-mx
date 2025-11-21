@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-31"
-last_updated: "2024-07-11"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
 
@@ -3413,6 +3413,12 @@ La Contraloría estará integrada por el Contralor General, los auditores adjunt
 
 El Contralor General, en el ejercicio de sus funciones, actuará ante un auditor adjunto o testigos de asistencia.
 
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 186 Bis.
+
+La Contraloría fungirá como autoridad garante del Poder Judicial, ejerciendo para tales efectos las funciones, competencias y atribuciones que en materia de transparencia, acceso a la información pública y protección de datos personales en posesión de sujetos obligados establece la legislación de la materia.
+
 ###### Artículo 187.
 
 Para ser Contralor General y auditor adjunto se deberán reunir los mismos requisitos que se establecen en la presente Ley para ser Juez de Primera Instancia.
@@ -5078,3 +5084,57 @@ El Pleno del Consejo de la Judicatura, creará mediante Acuerdo General los Juzg
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3234 SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA; LEY ORGÁNICA DEL PODER LEGISLATIVO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA; LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS Y LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; TODAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Lo anterior, sin perjuicio de las obligaciones que se establecen en los diversos artículos de este régimen transitorio y que deberán ejecutarse antes de la entrada en vigor del presente decreto.
+
+SEGUNDO. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur expedida por el Congreso del Estado mediante decreto número 2347 y publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 18, de fecha 04 de mayo de 2016, así como sus subsecuentes reformas, adiciones y derogaciones contenidas en los decretos 2352, 2430, 2573, 2579, 2640, 2642, 2694, 2695 y 2720.
+
+TERCERO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, se entenderán hechas a la Secretaría de la Contraloría y Transparencia Gubernamental del Gobierno del Estado de Baja California Sur a través de su órgano administrativo desconcentrado el Instituto de Transparencia para el Pueblo de Baja California Sur, según corresponda.
+
+CUARTO. Dentro de los quince días naturales posteriores a la publicación del presente Decreto, la persona titular del Poder Ejecutivo del Estado expedirá el acuerdo de creación del Comité de Transición el cual tendrá la responsabilidad de llevar a cabo todas las acciones que resulten necesarias para dar paso a la transformación que implica la extinción del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y la creación del Instituto de Transparencia y Protección de Datos Personales para el pueblo de Baja California Sur.
+
+Los derechos laborales de las personas servidoras públicas del Instituto que se extingue serán respetados en los términos de la legislación aplicable, garantizando el cumplimiento de todas las obligaciones laborales y de seguridad social que correspondan, conforme a la normatividad vigente. Los Recursos Humanos con que cuente el Instituto podrán formar parte de la Contraloría General del Estado de Baja California Sur.
+
+En el caso de las personas servidoras públicas, incluyendo a aquellas que hayan ocupado cargos a nivel de comisionado o comisionada, que sean indemnizadas conforme a derecho, la Secretaría de Finanzas del Gobierno del Estado habrá de cubrir en su totalidad las erogaciones que correspondan a mar (sic) tardar 30 días después de la extinción formal y legal del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de Baja California Sur.
+
+Las personas servidoras públicas que dejen de prestar sus servicios en el Instituto que se extingue deberán presentar su declaración patrimonial y de intereses en los sistemas que al efecto habilite la Secretaría de la Contraloría y Transparencia Gubernamental, o por los medios que esta determine, en términos de las disposiciones jurídicas aplicables.
+
+De igual manera, las personas servidoras públicas incluyendo a aquellas que hayan ocupado cargos a nivel de comisionado o comisionada, o de dirección, deberán realizar su acta administrativa de entrega-recepción institucional e individual ante el Comité de Transición. Lo anterior no implica liberación alguna de responsabilidades que pudieran llegar a determinarse por las autoridades competentes con posterioridad.
+
+Los recursos materiales, informáticos y documentales en posesión del Instituto que se extingue deberán ser transferidos a la Secretaría de la Contraloría y Transparencia Gubernamental del Gobierno de Baja California Sur para la operación del órgano administrativo desconcentrado denominado Instituto de Transparencia y Protección de Datos Personales para el Pueblo de Baja California Sur.
+
+En caso de que al cierre del año 2025 existieren recursos financieros presupuestados que no hayan sido ejercidos por el instituto que se extingue, estos deberán ser transferidos a la Secretaría de Finanzas y Administración del Gobierno del Estado para que conforme a las disposiciones jurídicas aplicables se realicen las acciones que correspondan.
+
+El Comité de Transición deberá entregar a la Secretaría de Finanzas y Administración de Gobierno del Estado, la información y documentos necesarios para que se integre la Cuenta Pública anual y los informes financieros correspondientes.
+
+Los elementos de seguridad, credenciales, claves, accesos y cualquier infraestructura tecnológica relacionada con la Plataforma Nacional de Transparencia y los sistemas institucionales deberán ser entregados a la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+QUINTO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto se sustanciarán ante el nuevo Instituto de Transparencia para el Pueblo de Baja California Sur, conforme a la legislación vigente al momento de su inicio.
+
+SEXTO. La persona titular del Poder Ejecutivo del Estado de Baja California Sur deberá expedir, las adecuaciones normativas y presupuestales necesarias para establecer la estructura orgánica y emitir el Reglamento Interior del órgano desconcentrado denominado Instituto de Transparencia para el Pueblo de Baja California Sur, a fin de dar cumplimiento a lo dispuesto en esta Ley, a más tardar el día 31 de enero de 2026.
+
+SÉPTIMO. Los expedientes y archivos que, a la entrada en vigor del presente Decreto, se encuentren bajo resguardo del órgano que haya ejercido las funciones en materia de transparencia y acceso a la información pública en el Estado, deberán ser transferidos a la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+Una vez recibidos, la Secretaría de la Contraloría y Transparencia Gubernamental deberá entregarlos al Instituto de Transparencia para el Pueblo del Estado de Baja California Sur, al momento en que este entre en funcionamiento.
+
+El Instituto deberá, a su vez, en un plazo no mayor a treinta días naturales contado a partir de la recepción, transferir los archivos a las autoridades competentes cuando corresponda.
+
+OCTAVO. La Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, deberá proveer los recursos suficientes y necesarios para el cumplimiento de este Decreto, así como una vez entrando en funciones y operación el Instituto de Transparencia para el Pueblo de Baja California Sur, deberá ministrar de acuerdo a la programación presupuestaria los recursos necesarios para su operación.
+
+NOVENO. Las personas comisionadas y titulares de las unidades administrativas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur deberán coadyuvar con el Comité de Transición en la entrega-recepción de los asuntos señalados en los transitorios anteriores, así como realizar las acciones necesarias para su debida transferencia.
+
+DÉCIMO. El Comité del Subsistema Estatal deberá instalarse en un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor del presente Decreto, previa convocatoria que para tal efecto emita la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+DÉCIMO PRIMERO. Los poderes Ejecutivo, Legislativo y Judicial, así como los órganos constitucionales autónomos del Estado y los Ayuntamientos, deberán realizar las adecuaciones necesarias a su normatividad interna para dar cumplimiento a lo dispuesto en el presente Decreto a más tardar el 31 de diciembre de 2025.
+
+DÉCIMO SEGUNDO. En tanto entre en funciones el Instituto de Transparencia para el Pueblo de Baja California Sur, la Secretaría de la Contraloría y Transparencia Gubernamental atenderá las consultas sobre la gestión de solicitudes a través de la Plataforma Nacional de Transparencia.
+
+DÉCIMO TERCERO. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente decreto.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, toda mención realizada a la Contraloría General, contenidas en cualquier disposición normativa, reglamentaria, administrativa, así como en convenios, acuerdos, programas, lineamientos y cualquier otro documento con carácter legal vigente, se entenderá referida a la Secretaría de la Contraloría y Transparencia Gubernamental del Gobierno del Estado de Baja California Sur.
