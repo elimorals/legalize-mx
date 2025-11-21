@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2025-07-14"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -3600,6 +3600,12 @@ Quién ejerza la patria potestad, debe procurar el respeto y el acercamiento con
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su menor hijo o hija, mediante la desaprobación o crítica tendiente a obtener denigración exagerada y/o injustificada del otro progenitor para producir en el o la menor, rechazo, rencor, odio o desprecio hacia éste, con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 434 Bis.
+
+La patria potestad deberá ejercerse siempre en beneficio de las niñas, niños y adolescentes. En caso de desacuerdo entre quienes la ejerzan, se privilegiará el interés superior de la niñez y la adolescencia.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
@@ -18372,3 +18378,11 @@ P.O. 14 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 294.- SE ADICIONA EL ARTÍCULO 434 BIS AL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
