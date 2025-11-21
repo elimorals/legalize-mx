@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-las-actividades-agropecuarias-del-estado-16192
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-28"
-last_updated: "2010-12-24"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LAS ACTIVIDADES AGROPECUARIAS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de diciembre de 1977.
 
@@ -57,7 +57,13 @@ I.- Que inicien sus actividades a partir de la vigencia de esta ley.
 
 II.- Que habiéndolas iniciado con anterioridad a la vigencia de esta ley, realicen nuevas inversiones destinadas a la apertura de tierras para el desarrollo de actividades agrícolas o ganaderas, o que tiendan a mejorar el rendimiento de las que actualmente explotan, mediante la construcción de obras de infraestructura o de nuevos sistemas de siembra, riego, cultivo, cosecha, cría, desarrollo o engorda de ganado y establecimiento de praderas artificiales.
 
-III.- Que habiéndolas iniciado con anterioridad a la vigencia de esta ley, realicen actividades o inversiones con el fin de incrementar la producción o mejoren la productividad.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+III.- Que implementen prácticas de producción agropecuaria que minimicen el impacto ambiental y promuevan la conservación de los recursos naturales, mediante un manejo sostenible de los recursos y la reducción de emisiones contaminantes, conforme a las disposiciones ambientales aplicables.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+IV.- Que habiéndolas iniciado con anterioridad a la vigencia de esta Ley, realicen actividades o inversiones con el fin de incrementar la producción o mejoren la productividad.
 
 ###### ARTICULO 4o.
 
@@ -156,3 +162,9 @@ UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrerá en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 3 Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 3 DE LA LEY DE FOMENTO A LAS ACTIVIDADES AGROPECUARIAS DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
