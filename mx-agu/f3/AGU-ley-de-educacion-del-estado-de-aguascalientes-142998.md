@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2025-11-10"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -1137,7 +1137,7 @@ IX. Promover la capacitación y actualización de personas que se desempeñen co
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2025)</small>
 
-X. Toda persona que por cualquier medio ofrezca actividades profesionales propias del Deporte, la Cultura· Física u otras afines, deberá cumplir con las disposiciones establecidas en la· Ley de Profesiones del Estado de Aguascalientes.
+X. Toda persona que por cualquier medio ofrezca actividades profesionales propias del Deporte, la Cultura Física u otras afines, deberá cumplir con las disposiciones establecidas en la Ley de Profesiones del Estado de Aguascalientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
@@ -1341,9 +1341,33 @@ VI. Diseño y creación de contenidos.
 
 La Autoridad Educativa Estatal, en el ámbito de su competencia, promoverá la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo.
 
-#### Sección Primera. Del fomento de estilos de vida saludables en el entorno escolar
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+#### Sección Novena. De la Mentoría Vocacional
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+Artículo 69 A. La Autoridad Educativa Estatal promoverá, coordinará y regulará la creación de una Red Estatal de Mentoría Vocacional, como un programa complementario al Sistema Educativo del Estado, destinada a estudiantes de educación media superior.
+
+Este programa tendrá por objeto vincular a las y los estudiantes interesados, con profesionistas, técnicos, emprendedores, servidores públicos, científicos, artistas y demás trabajadores especializados, que de forma voluntaria actúen como mentores en procesos de orientación vocacional, desarrollo personal, habilidades socioemocionales y toma de decisiones para su futuro académico y laboral.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+Artículo 69 B. La Red Estatal de Mentoría Vocacional deberá:
+
+I. Operar mediante convocatorias públicas abiertas a mentores voluntarios, que serán previamente seleccionados, capacitados y certificados por la Autoridad Educativa Estatal;
+
+II. Brindar mentoría en modalidades presenciales o virtuales, según las características de la región o plantel educativo;
+
+III. Priorizar la atención a estudiantes de zonas rurales, con rezago académico o en riesgo de abandono escolar;
+
+IV. Establecer criterios éticos y de seguimiento para la relación de mentoría, garantizando la protección de los derechos de las y los estudiantes; y
+
+V. Coordinarse con los servicios de orientación educativa y psicopedagógica ya existentes.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+Artículo 69 C. La Autoridad Educativa Estatal podrá suscribir convenios con universidades, cámaras empresariales, instituciones públicas, colegios profesionales y organizaciones civiles para fortalecer la red de mentores, así como para desarrollar materiales, plataformas y metodologías de acompañamiento vocacional.
 
 ## TITULO QUINTO. DE LOS ACTORES DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -1395,7 +1419,9 @@ La información del expediente al que se refiere este artículo se proporcionar�
 
 La Autoridad Educativa Estatal ofrecerá servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y a las necesidades de cada plantel, a fin de fomentar una conciencia crítica que perfile a los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
 
-#### Sección Segunda. De la cultura de la paz, convivencia democrática en las escuelas y entornos escolares libres de violencia
+#### Sección Primera. Del fomento de estilos de vida saludables en el entorno escolar
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 74.
 
@@ -1427,9 +1453,7 @@ Las cooperativas que funcionen con la participación de la comunidad educativa t
 
 La Autoridad Educativa Estatal, de acuerdo con la suficiencia presupuestal, impulsará programas alimentarios para los educandos a partir de microempresas locales, en escuelas ubicadas en zonas de pobreza, alta marginación y vulnerabilidad social.
 
-#### Sección Tercera. De la Atención Especial de Víctimas
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
+#### Sección Segunda. De la cultura de la paz, convivencia democrática en las escuelas y entornos escolares libres de violencia
 
 ###### Artículo 79.
 
@@ -1489,7 +1513,9 @@ e) Implementar programas de información dirigida a madres y padres de familia o
 
 f) Diseñar e implementar, en colaboración con las instituciones del sector salud del Estado, los programas educativos, de acuerdo a la edad, desarrollo evolutivo, cognoscitivo y madurez de las personas, que contengan las causas, riesgos y consecuencias de las adicciones. Estos programas deberán ir dirigidos a las maestras, maestros, madres y padres de familia, tutores o quienes ejerzan la patria potestad.
 
-#### Sección Primera. De las Maestras y los Maestros
+#### Sección Tercera. De la Atención Especial de Víctimas
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 83.
 
@@ -1497,7 +1523,7 @@ La Autoridad Educativa Estatal deberá garantizar el acceso a los servicios educ
 
 ### Capítulo II. Del magisterio como agente fundamental en el proceso educativo
 
-#### Sección Segunda. De la Formación Docente
+#### Sección Primera. De las Maestras y los Maestros
 
 ###### Artículo 84.
 
@@ -1559,9 +1585,7 @@ El sistema de administración de nómina deberá observar los criterios de contr
 
 Para ejercer la docencia en instituciones establecidas por las autoridades educativas en educación básica y media superior, las promociones en la función y en el servicio, así como para el otorgamiento de reconocimientos, se estará a lo dispuesto por Ley General del Sistema para la Carrera de las Maestras y los Maestros.
 
-#### Sección Tercera
-
-Del Sistema Integral de Formación, Capacitación y Actualización.
+#### Sección Segunda. De la Formación Docente
 
 ###### Artículo 89.
 
@@ -1585,7 +1609,9 @@ VIII. Garantizar la actualización permanente, a través de la capacitación, la
 
 En los planes y programas de estudio de las instituciones de formación docente, se promoverá el desarrollo de competencias en educación inicial y con enfoque de inclusión para todos los tipos educativos; así mismo se considerarán modelos de formación docente especializada en educación especial que atiendan los diversos tipos de discapacidad.
 
-#### Sección I. De la Mejora Escolar
+#### Sección Tercera
+
+Del Sistema Integral de Formación, Capacitación y Actualización.
 
 ###### Artículo 90.
 
@@ -1689,11 +1715,13 @@ Las escuelas que se establezcan en cumplimiento de la obligación prevista en el
 
 ### Capítulo II. De la mejora de la Educación
 
-#### Sección II. De la Mejora Continua
+#### Sección I. De la Mejora Escolar
 
 ###### Artículo 102.
 
 Autoridad Educativa Estatal emitirá una Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior, que tendrá la finalidad de apoyar la planeación, organización y ejecución de las actividades docentes, pedagógicas, directivas, administrativas y de supervisión de cada plantel educativo enfocadas a la mejora escolar, atendiendo al contexto regional de la prestación de los servicios educativos en apego a las disposiciones que establezca la Autoridad Educativa Federal.
+
+#### Sección II. De la Mejora Continua
 
 ###### Artículo 103.
 
@@ -2639,7 +2667,7 @@ P.O. 20 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 266.- SE ADICIONA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
 
-ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del ·Estado de Aguascalientes.
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 10 DE NOVIEMBRE DE 2025.
 
@@ -2648,3 +2676,13 @@ P.O. 10 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 292.- SE ADICIONA LA SECCIÓN NOVENA “DE LA MENTORÍA VOCACIONAL” Y SUS ARTÍCULOS 69 A, 69 B, 69 C Y 69 D, AL CAPÍTULO III, DEL TÍTULO CUARTO DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) 1° de enero del año 2026.
+
+SEGUNDO.- El Instituto de Educación del Estado de Aguascalientes contará con un plazo máximo de seis meses, contados a partir de la entrada en vigor del presente decreto, para emitir los lineamientos, protocolos y mecanismos operativos necesarios para la implementación de la Red Estatal de Mentoría Vocacional.
+
+TERCERO.- El Instituto de Educación del Estado de Aguascalientes podrá iniciar, a partir de la publicación del presente decreto, las acciones preparatorias que permitan el diagnostico, planeación, promoción y vinculación interinstitucional del programa, con el objeto de garantizar su operatividad plena, a partir del momento en que se encuentren disponibles los lineamientos, protocolos y mecanismos operativos necesarios para la implementación de la Red Estatal de Mentoría Vocacional.
