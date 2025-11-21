@@ -4,7 +4,7 @@ identifier: "CMX-ley-registral-para-la-ciudad-de-mexico-128987"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2024-11-29"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128987&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-31"
 
 LEY REGISTRAL PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 11 de junio de 2018.
 
@@ -565,6 +565,14 @@ II. Recepción electrónica.- El notario podrá enviar por medios telemáticos a
 a.- El formato precodificado, deberá enviarse firmado electrónicamente y una copia certificada electrónica, así como de su correspondiente pago de derechos que en su caso procedan. El sistema informático asignará al mismo, el número de entrada por orden de presentación, que será progresivo, fecha, hora y materia a que corresponda, generando con estos datos una boleta de ingreso y que surtirá efectos de solicitud de entrada y trámite, que se enviará al notario por vía telemática de manera inmediata. La numeración se iniciará cada año calendario, sin que por ningún motivo, esté permitido emplear para documentos diversos el mismo número, salvo que se trate de un sólo instrumento; y
 
 b.- La copia certificada electrónica deberá incluir las “notas complementarias” del instrumento en las que el notario indique que se ha cumplido con todos los requisitos fiscales y administrativos que el acto requiera para su inscripción.
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+Los fedatarios de las Entidades Federativas podrán presentar sus escrituras por medio de recepción física o electrónica. El Reglamento establecerá los requisitos que deberán cumplir para presentar a inscripción sus instrumentos en cualquiera de estas modalidades.
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+De ser un particular quien solicite al Registro Público la inscripción de una escritura de otra Entidad, en la modalidad de recepción física, con independencia de los otros requisitos que deba cubrir, deberá presentar testimonio para inscripción expedido por el Archivo de Notarías del Estado de que se trate.
 
 ###### Artículo 42.
 
@@ -1187,3 +1195,15 @@ G.O. 29 DE NOVIEMBRE DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
+
+G.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO PRIMERO Y FRACCIÓN I DEL ARTÍCULO 237; SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, LAS FRACCIONES I, II, III, IV, V Y VI Y SE ADICIONAN LAS FRACCIONES VII, VIII, IX, X, XI, XII Y XIII, ASÍ COMO UN ÚLTIMO PÁRRAFO AL ARTÍCULO 238; SE ADICIONA EL ARTÍCULO 238 BIS; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 248, TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL; SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 806 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL; SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 41 DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO; Y SE REFORMAN LAS FRACCIONES XI Y XII Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 34; Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 103 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia del delito de despojo, previsto en el Código Penal para el Distrito Federal, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
