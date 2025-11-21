@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2025-08-27"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -1023,9 +1023,9 @@ II. Los titulares de tres dependencias municipales, las que serán, preferenteme
 
 III. Tres representantes del Ejecutivo del Estado, los cuales uno será servidor público de la Secretaría, otro de la Secretaría de Salud y otro de la Secretaría de Desarrollo Urbano y Medio Ambiente;
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-IV. Las Diputadas o Diputados del Congreso del Estado electos en los distritos electorales uninominales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, y;
+IV. Una Diputada o un Diputado del Congreso del Estado Libre y Soberano del Estado de Tamaulipas, con residencia en uno de los distritos electorales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, quien será propuesto por la Junta de Gobierno al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de las diputadas y los diputados presentes; y
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
@@ -3793,4 +3793,20 @@ Los Consejos de Administración en los organismos operadores municipales y el Ti
 
 Cuando a la entrada en vigor del presente Decreto, no estén nombrados las o los Comisarios en los organismos operadores estatales, conforme al artículo 35, párrafo 2 de esta Ley, la Secretaría Anticorrupción y Buen Gobierno contará con un plazo de 30 días hábiles contados a partir de la entrada en vigor de este Decreto para designarlos.
 
+P.O. 21 DE NOVIEMBRE DE 2025.
+
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-384 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES LXIX, LXXI Y LXXVII; 6, PÁRRAFO 1, FRACCIONES XLVIII Y LIII; 28 BIS, PÁRRAFO 1, FRACCIÓN III; 30, PÁRRAFO 1; 31; 33, FRACCIONES I, II Y III; 34, FRACCIÓN XVIII; 36, PÁRRAFO ÚNICO Y FRACCIONES II Y III; 113, PÁRRAFOS 1, 2, FRACCIONES I, II Y III, 3 Y 5; Y 158, PÁRRAFO 3; Y SE ADICIONAN LAS FRACCIONES VI BIS Y VI TER AL ARTÍCULO 2; LAS FRACCIONES LXVI Y LXVII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 6; UNA FRACCIÓN XI BIS, AL ARTÍCULO 25; UNA FRACCIÓN V BIS, AL ARTÍCULO 34; UN PÁRRAFO 2, RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE, AL ARTÍCULO 35; Y LOS PÁRRAFOS 6 Y 7, AL ARTÍCULO 113 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado Libre y Soberano de Tamaulipas, una vez que entré en vigor la presente reforma, tendrá hasta diez días hábiles para designar a su representante en cada uno de los Consejos de Administración de los organismos operadores municipales.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que los Consejos de Administración de los organismos operadores municipales a que refiere el artículo 28, numeral 1 de la presente Ley, tengan conocimiento de la designación del representante al que refiere el artículo segundo transitorio, convocarán a más tardar al día siguiente de la comunicación, a efecto (sic) cumplir con la integración del mencionado Consejo.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-564 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV, NUMERAL 1, DEL ARTÍCULO 28 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
