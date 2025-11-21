@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2025-07-08"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -390,6 +390,12 @@ Los particulares pueden acudir ante la autoridad ministerial, la Dirección de A
 ###### ARTICULO 14 Quater.
 
 Si con motivo del arrastre de un vehículo, éste sufriera daños o robo, las personas prestadoras del servicio de grúa de arrastre y/o de depósito de vehículos, tienen la obligación de reparar los daños o indemnizar económicamente al propietario del vehículo.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+###### ARTICULO 14 Quinquies.
+
+El particular propietario de un vehículo que haya sido remolcado en virtud de la solicitud de auxilio realizada por la autoridad de tránsito estatal o municipal, según sea el caso, y derivado de los procedimientos instaurados ante la autoridad competente se determine que la causa que originó el arrastre del vehículo no implicó falta administrativa o hecho ilícito alguno, no estará obligado al pago de la tarifa correspondiente por el servicio de grúa ni por el de depósito vehicular; o bien deberá obtener la devolución de lo que hubiese pagado por estos conceptos cuando así se resuelva por la autoridad competente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -1606,3 +1612,11 @@ La Secretaría de Finanzas en coordinación con las áreas competentes deberá r
 ###### ARTÍCULO QUINTO.
 
 La Secretaría de Finanzas realizará, en su caso, las modificaciones presupuestales necesarias para dar cumplimiento a lo establecido en el presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-552 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 14 QUINQUIES A LA LEY DE TRÁNSITO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
