@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2025-10-28"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -27,7 +27,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -6576,6 +6576,18 @@ Es poseedor de buena fe el que entra en la posesión en virtud de un título suf
 Es poseedor de mala fe el que entra a la posesión sin título alguno para poseer; lo mismo que el que conoce los vicios de su título que le impiden poseer con derecho.
 
 Entiéndese por título la causa generadora de la posesión.
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+Se presumirá la mala fe cuando la posesión derive de un acto jurídico simulado o de un título que el poseedor sabía o debía saber inválido, en términos del capítulo respectivo.
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+También se presumirá la mala fe cuando la posesión derive de un contrato que conste en escritura pública y no se haya inscrito con el fin de obtener un beneficio indebido o perjudicar a un tercero.
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+Se declarará nulo todo acto jurídico que tenga como fin encubrir un despojo mediante simulación contractual en términos el capítulo respectivo.
 
 ###### ARTICULO 807.
 
@@ -15666,3 +15678,15 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación.
 
 TERCERO. Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+G.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO PRIMERO Y FRACCIÓN I DEL ARTÍCULO 237; SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, LAS FRACCIONES I, II, III, IV, V Y VI Y SE ADICIONAN LAS FRACCIONES VII, VIII, IX, X, XI, XII Y XIII, ASÍ COMO UN ÚLTIMO PÁRRAFO AL ARTÍCULO 238; SE ADICIONA EL ARTÍCULO 238 BIS; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 248, TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL; SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 806 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL; SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 41 DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO; Y SE REFORMAN LAS FRACCIONES XI Y XII Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 34; Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 103 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia del delito de despojo, previsto en el Código Penal para el Distrito Federal, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
