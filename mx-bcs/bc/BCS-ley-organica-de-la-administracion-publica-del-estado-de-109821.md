@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2023-04-30"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -181,9 +181,9 @@ X.- (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2017)
 
 XI.- Procuraduría General de Justicia;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-XII.- Contraloría General; y
+XII. Secretaría de la Contraloría y Transparencia Gubernamental; y
 
 > <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 2017)</small>
 
@@ -883,77 +883,145 @@ XXVIII. Las demás que le señalen las leyes aplicables.
 
 La Procuraduría General de Justicia del Estado es la institución encargada de ejercer las atribuciones conferidas al Ministerio Público por la Constitución Política de los Estados Unidos Mexicanos, representar el interés de la sociedad y garantizar el Estado de Derecho en el ámbito de su competencia; asimismo, le competen las facultades y funciones que la Constitución Política del Estado Libre y Soberano de Baja California Sur y la Ley Orgánica de la Procuraduría General de Justicia del Estado le otorga, así como las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 32.
 
-A la Contraloría General le corresponde el ejercicio de las siguientes atribuciones:
+A la Secretaría de la Contraloría y Transparencia Gubernamental le corresponde el ejercicio de las siguientes atribuciones:
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 I. Organizar y coordinar el sistema de control y evaluación gubernamental;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 II. Fomentar los valores que deben distinguir a los servidores públicos;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 III. Fomentar y promover la cultura de la denuncia respecto de los actos indebidos de los servidores públicos;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 IV. Recibir y dar seguimiento a las sugerencias, quejas y denuncias de la población, con respecto a la actuación de los servidores públicos;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 V. Participar en la elaboración del Presupuesto de Egresos del Estado;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 VI. Vigilar el registro, ejecución, avance físico y financiero, publicación, liquidación y entrega de recursos que ejerza el Gobierno del Estado;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 VII. Establecer, conjuntamente con la Secretaría de Finanzas y Administración, el sistema de control de la eficiencia en la aplicación del gasto público, de evaluación respecto del presupuesto de egresos y las políticas en los programas gubernamentales, así como de los ingresos y del uso de los recursos patrimoniales de propiedad o al cuidado del Gobierno del Estado y vigilar su cumplimiento;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 VIII. Vigilar el cumplimiento de las normas de control, fiscalización y evaluación que deban observar las dependencias y entidades de la administración pública del Estado, así como establecer los procedimientos para la práctica de auditorías externas o internas a las mismas;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 IX. Vigilar que en las licitaciones, asignaciones de obra pública, concesiones, así como las adquisiciones de bienes o servicios, contratos a largo plazo y los derivados de las asociaciones público privadas se observen las disposiciones legales y administrativas correspondientes;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 X. Coordinarse con las dependencias y entidades de la administración pública del Estado y la Auditoria Superior del Estado, así como con el Gobierno Federal y los Municipios, atendiendo a la naturaleza de sus funciones para el establecimiento de programas, sistemas y procedimientos que permitan el cumplimiento eficaz de sus respectivas responsabilidades;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XI. Verificar y evaluar en coordinación con los municipios, la aplicación de los fondos federales y estatales, de conformidad con la legislación respectiva y los convenios y acuerdos que al respecto se celebren;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XII. Fungir como órgano de asesoría y capacitación hacia las demás dependencias y entidades de la administración pública del Estado y municipal cuando lo soliciten, en materia de control y vigilancia de los recursos públicos, responsabilidades y aplicación de la normatividad administrativa;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XIII. Procurar el resarcimiento de los daños patrimoniales ocasionados a la administración pública del Estado por la actividad irregular u omisión de los servidores públicos;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XIV. Conocer de los procedimientos por la vía administrativa en materia de responsabilidad patrimonial y procurar la indemnización a las personas que sin la obligación jurídica de soportarlo sufran una lesión en cualquiera de sus bienes posesiones o derechos como consecuencia de la actividad administrativa del Estado;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XV. Integrar, coordinar, supervisar y evaluar a las contralorías internas en las dependencias y entidades de la administración pública estatal, conforme lo establezca el reglamento interior correspondiente;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XVI. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XVII. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y en la Procuraduría General de Justicia del Estado, quienes se integrarán orgánicamente a aquellas, pero dependerán jerárquica y funcionalmente de la Contraloría General;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XVIII. Expedir las normas secundarias que regulen los instrumentos y procedimientos de control interno de la Administración Pública Estatal, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XIX. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control en las dependencias y entidades de la Administración Pública del Estado;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XX. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal y en la Procuraduría General de Justicia del Estado, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de los órganos internos de control;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XXI. Realizar, por sí o a solicitud de la Secretaría de Finanzas y Administración o la coordinadora de sector correspondiente de los organismos descentralizados, auditorías, revisiones y evaluaciones a las dependencias y entidades de la Administración Pública Estatal, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XXII. Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Estatal y en la Procuraduría General (sic) Justicia del Estado cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XXIII. Ejercer las atribuciones que le conceda la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, por sí o a través de los Órganos Internos de Control;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XXIV. Designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los órganos internos de control, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que estos emitan que emitan (sic) en la esfera administrativa y ante los Tribunales competentes, representando a la Contraloría General; sin que con ello ésta renuncie a comparecer por sí misma en defensa de las determinaciones;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XXV. Registrar y certificar a los auditores externos, así como normar y controlar su desempeño, para poder ser contratados por la Administración Pública en los términos de la legislación aplicable;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XXVI. Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamental a los comisarios públicos de los órganos de vigilancia de las entidades de la Administración Pública Paraestatal y de la Procuraduría General de Justicia del Estado; así como normar y controlar su desempeño;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XXVII. Recurrir las determinaciones de la Fiscalía Especializada en materia de Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado, así como colaborar en el marco del Sistema Estatal Anticorrupción y del Sistema Estatal de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XXVIII. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XXIX. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Gobernador del Estado, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal y en la Procuraduría General de Justicia del Estado, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales.
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XXX. Promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XXXI. Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales y de conflicto de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XXXII. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal y en la Procuraduría General de Justicia del Estado, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XXXIII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas, graves o no graves, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur por sí, o por conducto de los órganos internos de control que correspondan a cada dependencia la (sic) Administración Pública Estatal. De igual forma respecto a los particulares que intervengan en actos vinculados con faltas administrativas. Se aplicaran las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Baja California Sur y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en materia de Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XXXIV. Establecer mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
@@ -961,15 +1029,31 @@ XXXIV. Establecer mecanismos internos que prevengan actos u omisiones que pudier
 
 XXXV. Emitir conjuntamente, según corresponda, con la Secretaría de Finanzas y Administración y con la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios, así como por la Ley de Obras Públicas y Servicios Relacionados con las mismas, ambas del Estado; así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XXXVI. Emitir los lineamientos generales o guías para la elaboración por parte de las dependencias estatales de los manuales, lineamientos, acuerdos y demás instrumentos legales que sean necesarios a las dependencias y entidades de la Administración Pública del Estado, respecto a que se ajusten a las normas emitidas por la propia Contraloría en el ámbito de su competencia;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XXXVII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere;
 
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XXXVIII. Ejercer las facultades que la Constitución Política del Estado Libre y Soberano de Baja California Sur le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XXXIX. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública Estatal;
 
+> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+XXXIX BIS. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables; así como conocer, sustanciar y resolver los procedimientos relacionados con el acceso a la información y la protección de datos personales, y aplicar las medidas de apremio y sanciones correspondientes conforme a la legislación en la materia; y
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
 XL. Emitir y actualizar el Código de Ética de los servidores públicos del Gobierno del Estado y las Reglas de Integridad para el ejercicio de la función pública; y
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
 XLI. Las demás que le señalen las leyes aplicables.
 
@@ -1500,3 +1584,57 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Sin menoscabo de lo previsto en el Artículo anterior, y para efectos de lo establecido en el Artículo Cuarto del presente Decreto, la Subsecretaría de Protección Civil funcionará una vez que entren en vigor las modificaciones contempladas en el presente Decreto, con el mismo presupuesto asignado a la Coordinación Estatal de Protección Civil.
 
 TERCERO.- Sin menoscabo de lo previsto en el Artículo Primero Transitorio de este Decreto, y para efectos de lo previsto en el Artículo Cuarto establecido en el presente Decreto, las trabajadoras y trabajadores que actualmente se encuentran asignados a la Coordinación Estatal de Protección Civil, pasarán a formar parte de la Subsecretaría de Protección Civil bajo las mismas condiciones laborales en que se encuentren actualmente, dejando por ende a salvo sus derechos laborales.
+
+B.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3234 SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA; LEY ORGÁNICA DEL PODER LEGISLATIVO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA; LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS Y LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; TODAS DEL ESTADO DE BAJA CALIFORNIA SUR”.
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Lo anterior, sin perjuicio de las obligaciones que se establecen en los diversos artículos de este régimen transitorio y que deberán ejecutarse antes de la entrada en vigor del presente decreto.
+
+SEGUNDO. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur expedida por el Congreso del Estado mediante decreto número 2347 y publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 18, de fecha 04 de mayo de 2016, así como sus subsecuentes reformas, adiciones y derogaciones contenidas en los decretos 2352, 2430, 2573, 2579, 2640, 2642, 2694, 2695 y 2720.
+
+TERCERO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, se entenderán hechas a la Secretaría de la Contraloría y Transparencia Gubernamental del Gobierno del Estado de Baja California Sur a través de su órgano administrativo desconcentrado el Instituto de Transparencia para el Pueblo de Baja California Sur, según corresponda.
+
+CUARTO. Dentro de los quince días naturales posteriores a la publicación del presente Decreto, la persona titular del Poder Ejecutivo del Estado expedirá el acuerdo de creación del Comité de Transición el cual tendrá la responsabilidad de llevar a cabo todas las acciones que resulten necesarias para dar paso a la transformación que implica la extinción del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y la creación del Instituto de Transparencia y Protección de Datos Personales para el pueblo de Baja California Sur.
+
+Los derechos laborales de las personas servidoras públicas del Instituto que se extingue serán respetados en los términos de la legislación aplicable, garantizando el cumplimiento de todas las obligaciones laborales y de seguridad social que correspondan, conforme a la normatividad vigente. Los Recursos Humanos con que cuente el Instituto podrán formar parte de la Contraloría General del Estado de Baja California Sur.
+
+En el caso de las personas servidoras públicas, incluyendo a aquellas que hayan ocupado cargos a nivel de comisionado o comisionada, que sean indemnizadas conforme a derecho, la Secretaría de Finanzas del Gobierno del Estado habrá de cubrir en su totalidad las erogaciones que correspondan a mar tardar 30 días después de la extinción formal y legal del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de Baja California Sur.
+
+Las personas servidoras públicas que dejen de prestar sus servicios en el Instituto que se extingue deberán presentar su declaración patrimonial y de intereses en los sistemas que al efecto habilite la Secretaría de la Contraloría y Transparencia Gubernamental, o por los medios que esta determine, en términos de las disposiciones jurídicas aplicables.
+
+De igual manera, las personas servidoras públicas incluyendo a aquellas que hayan ocupado cargos a nivel de comisionado o comisionada, o de dirección, deberán realizar su acta administrativa de entrega-recepción institucional e individual ante el Comité de Transición. Lo anterior no implica liberación alguna de responsabilidades que pudieran llegar a determinarse por las autoridades competentes con posterioridad.
+
+Los recursos materiales, informáticos y documentales en posesión del Instituto que se extingue deberán ser transferidos a la Secretaría de la Contraloría y Transparencia Gubernamental del Gobierno de Baja California Sur para la operación del órgano administrativo desconcentrado denominado Instituto de Transparencia y Protección de Datos Personales para el Pueblo de Baja California Sur.
+
+En caso de que al cierre del año 2025 existieren recursos financieros presupuestados que no hayan sido ejercidos por el instituto que se extingue, estos deberán ser transferidos a la Secretaría de Finanzas y Administración del Gobierno del Estado para que conforme a las disposiciones jurídicas aplicables se realicen las acciones que correspondan.
+
+El Comité de Transición deberá entregar a la Secretaría de Finanzas y Administración de Gobierno del Estado, la información y documentos necesarios para que se integre la Cuenta Pública anual y los informes financieros correspondientes.
+
+Los elementos de seguridad, credenciales, claves, accesos y cualquier infraestructura tecnológica relacionada con la Plataforma Nacional de Transparencia y los sistemas institucionales deberán ser entregados a la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+QUINTO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto se sustanciarán ante el nuevo Instituto de Transparencia para el Pueblo de Baja California Sur, conforme a la legislación vigente al momento de su inicio.
+
+SEXTO. La persona titular del Poder Ejecutivo del Estado de Baja California Sur deberá expedir, las adecuaciones normativas y presupuestales necesarias para establecer la estructura orgánica y emitir el Reglamento Interior del órgano desconcentrado denominado Instituto de Transparencia para el Pueblo de Baja California Sur, a fin de dar cumplimiento a lo dispuesto en esta Ley, a más tardar el día 31 de enero de 2026.
+
+SÉPTIMO. Los expedientes y archivos que, a la entrada en vigor del presente Decreto, se encuentren bajo resguardo del órgano que haya ejercido las funciones en materia de transparencia y acceso a la información pública en el Estado, deberán ser transferidos a la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+Una vez recibidos, la Secretaría de la Contraloría y Transparencia Gubernamental deberá entregarlos al Instituto de Transparencia para el Pueblo del Estado de Baja California Sur, al momento en que este entre en funcionamiento.
+
+El Instituto deberá, a su vez, en un plazo no mayor a treinta días naturales contado a partir de la recepción, transferir los archivos a las autoridades competentes cuando corresponda.
+
+OCTAVO. La Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, deberá proveer los recursos suficientes y necesarios para el cumplimiento de este Decreto, así como una vez entrando en funciones y operación el Instituto de Transparencia para el Pueblo de Baja California Sur, deberá ministrar de acuerdo a la programación presupuestaria los recursos necesarios para su operación.
+
+NOVENO. Las personas comisionadas y titulares de las unidades administrativas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur deberán coadyuvar con el Comité de Transición en la entrega-recepción de los asuntos señalados en los transitorios anteriores, así como realizar las acciones necesarias para su debida transferencia.
+
+DÉCIMO. El Comité del Subsistema Estatal deberá instalarse en un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor del presente Decreto, previa convocatoria que para tal efecto emita la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+DÉCIMO PRIMERO. Los poderes Ejecutivo, Legislativo y Judicial, así como los órganos constitucionales autónomos del Estado y los Ayuntamientos, deberán realizar las adecuaciones necesarias a su normatividad interna para dar cumplimiento a lo dispuesto en el presente Decreto a más tardar el 31 de diciembre de 2025.
+
+DÉCIMO SEGUNDO. En tanto entre en funciones el Instituto de Transparencia para el Pueblo de Baja California Sur, la Secretaría de la Contraloría y Transparencia Gubernamental atenderá las consultas sobre la gestión de solicitudes a través de la Plataforma Nacional de Transparencia.
+
+DÉCIMO TERCERO. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente decreto.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, toda mención realizada a la Contraloría General, contenidas en cualquier disposición normativa, reglamentaria, administrativa, así como en convenios, acuerdos, programas, lineamientos y cualquier otro documento con carácter legal vigente, se entenderá referida a la Secretaría de la Contraloría y Transparencia Gubernamental del Gobierno del Estado de Baja California Sur.
