@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-apoyo-a-migrantes-del-estado-de-mexico-109696"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-29"
-last_updated: "2023-06-22"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE APOYO A MIGRANTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 29 de junio de 2015.
 
@@ -97,7 +97,9 @@ II. La inscripción de los migrantes en el Registro Estatal.
 
 III. Ser sujeto de un trato respetuoso, oportuno y con calidad.
 
-IV. El acceso a servicios y prestaciones de los programas de atención a migrantes.
+> <small>(REFORMADA, G.G. 21 DE NOVIEMBRE DE 2025)</small>
+
+IV. El acceso a servicios y prestaciones de los programas de bienestar social de atención a migrantes del Gobierno del Estado.
 
 > <small>(REFORMADA, G.G. 27 DE JULIO DE 2020)</small>
 
@@ -228,3 +230,15 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 204.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8 DE LA LEY DE APOYO A MIGRANTES DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
