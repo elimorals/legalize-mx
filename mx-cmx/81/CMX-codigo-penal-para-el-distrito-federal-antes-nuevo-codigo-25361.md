@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2025-08-27"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1400,25 +1400,51 @@ VII. De seis a ocho años de prisión, cuando pongan en peligro la vida.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 16 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADO, G.O. 8 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 131.
 
-Las penas previstas en el artículo anterior, se incrementarán en una mitad del supuesto que corresponda, cuando:
+Las penas previstas en el artículo anterior se incrementarán en una mitad del supuesto que corresponda, cuando:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
 I. Las lesiones las cause una persona ascendiente o descendiente consanguínea en línea recta, hermana o hermano, persona adoptante o adoptada;
 
-II. Cuando exista o haya existido entre el activo y la víctima una relación de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación sentimental o de hecho, de confianza, docente, laboral, subordinación o superioridad;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-III. Cuando existan antecedentes o datos que establezcan que el sujeto activo ha cometido amenazas, acoso o cualquier otro tipo de violencia en el ámbito familiar, laboral o escolar de la víctima;
+II. Cuando exista o haya existido entre el activo y la víctima una relación de confianza, docente, laboral, religiosa, de cuidado o de subordinación;
 
-IV. Cuando a la víctima se le haya infringido lesiones infamantes ó degradantes, y
+III. (DEROGADA, G.O. 21 DE NOVIEMBRE DE 2025)
+
+IV. (DEROGADA, G.O. 21 DE NOVIEMBRE DE 2025)
 
 V. (DEROGADA, G.O. 19 DE FEBRERO DE 2024)
 
 > <small>(ADICIONADA, G.O. 31 DE MARZO DE 2023)</small>
 
 VI. Cuando las lesiones sean causadas como consecuencia del robo o daño al equipamiento o mobiliario urbano de la Ciudad de México señalado en la fracción II del inciso E del artículo 224 del presente Código.
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 131 BIS. Se incrementará en dos terceras partes la pena que corresponda a la lesión causada, cuando las lesiones se infieran por razones de género en contra de mujeres o por prejuicio en contra de personas con orientaciones sexuales, identidades de género, expresiones de género o características sexuales no normativas.
+
+Se considerará que existen razones de género en contra de mujeres o prejuicio en contra de personas con orientaciones sexuales, identidades de género, expresiones de género o características sexuales no normativas, cuando se presente cualquiera de los siguientes supuestos:
+
+I. Exista o haya existido entre el activo y la víctima una relación de matrimonio, concubinato, sociedad de convivencia, pareja de hecho, cohabitación, noviazgo o cualquier otra relación de carácter afectivo o sexual, independientemente de su formalidad.
+
+II. Existan antecedentes o datos que establezcan que el sujeto activo ha cometido amenazas, acoso o cualquier otro tipo de violencia en contra de la víctima en su ámbito familiar, laboral, escolar o comunitario;
+
+III. El sujeto activo cometa las lesiones acompañándolas con expresiones de odio, humillación o desprecio hacia la víctima con base en su sexo, orientación sexual, identidad de género o expresión de género, reales o percibidas;
+
+IV. El sujeto activo cometa las lesiones acompañándolas con afectaciones a elementos de la apariencia o pertenencias de la víctima asociadas a su sexo, identidad de género o expresión de género, reales o percibidas;
+
+V. Las lesiones tengan el efecto sobre la víctima de menoscabar su autonomía o anular su orientación sexual, expresión de género o identidad de género;
+
+VI. El sujeto activo cometa las lesiones en presencia de los hijos menores de edad de la víctima;
+
+VII. Las lesiones sean de carácter infamante o degradante; o
+
+VIII. Las lesiones que se (sic) hayan sido cometidas en el contexto del trabajo sexual.
 
 > <small>(REFORMADO, G.O. 6 DE JULIO DE 2012)</small>
 
@@ -2982,6 +3008,8 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO I. AMENAZAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 207.
 
 Se impondrá prisión de uno a tres años y de sesenta a ciento veinte Unidades de Medida y Actualización vigente en la Ciudad de México, a quien:
@@ -3042,11 +3070,35 @@ Las penas establecidas en este artículo se aplicarán independientemente de las
 
 ###### ARTÍCULO 209.
 
-Al que amenace a otro con causarle un mal en su persona, bienes, honor o derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de tres meses a un año de prisión o de noventa a trescientos sesenta días multa.
+Al que por cualquier medio amenace a otro con causarle un mal que, atendiendo a su contenido y contexto, sea de posible ejecución y, de causarlo, ponga en riesgo a la persona en su vida, bienes, honor o derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de uno a dos años de prisión o de noventa a trescientos sesenta días multa.
 
-> <small>(ADICIONADO, G.O. 22 DE ENERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-La pena se agravará al triple cuando la amenaza consista en difundir, exponer, distribuir, publicar, compartir, exhibir, reproducir, intercambiar, ofertar, comerciar o transmitir, mediante materiales impresos, correo electrónico, mensaje telefónico, redes sociales o cualquier medio tecnológico; imágenes, audios o videos de contenido sexual íntimo de una persona sin su consentimiento u obtenido mediante engaño.
+La pena se agravará al triple cuando la amenaza:
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+a) Consista en difundir, exponer, distribuir, publicar, compartir, exhibir, reproducir, intercambiar, ofertar, comerciar o transmitir, mediante cualquier medio, imágenes, audios o videos de contenido sexual íntimo de una persona sin su consentimiento u obtenidos mediante engaño;
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+b) Se realice haciendo uso de arma de fuego o arma punzocortante;
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+c) El sujeto activo se ostente como integrante de algún grupo criminal o de la delincuencia organizada;
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+d) Consista en causarle la muerte a la víctima o a algún familiar de la misma;
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+e) Consista en la instalación, uso o detonación de bombas o explosivos tanto en instalaciones o vehículos públicos o privados; y
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+f) Se formule en contra de una víctima u ofendido, testigos, personal judicial, ministerial, pericial o policial, así como en contra de defensores o asesores jurídicos, con el propósito de obstaculizar, influir o afectar su participación en un proceso penal.
 
 > <small>(REFORMADO [N. DE E. CON SUS INCISOS], G.O. 22 DE ENERO DE 2020)</small>
 
@@ -3506,7 +3558,7 @@ Al que por cualquier motivo, teniendo a su cargo la administración o el cuidado
 
 ### CAPÍTULO VII. DESPOJO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 235.
 
@@ -3528,11 +3580,11 @@ Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaci
 
 ###### ARTÍCULO 237.
 
-Se impondrán de cinco a diez años de prisión y de cien a quinientas unidades de medida y actualización:
+Se impondrán de seis a once años de prisión y de doscientas a mil unidades de medida y actualización:
 
-> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-I. Al que de propia autoridad, por medio de violencia física o moral, el engaño o furtivamente, ocupe un inmueble ajeno, haga uso de él o de un derecho real que no le pertenezca;
+I. Al que de propia autoridad, por medio de violencia física o moral, el engaño, la simulación de actos jurídicos, la suplantación de la identidad o furtivamente ocupe un inmueble ajeno, haga uso de él o de un derecho real que no le pertenezca o bien, impida el disfrute material de un bien inmueble ajeno
 
 > <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -3546,25 +3598,77 @@ III. Al que en los términos de las fracciones anteriores, cometa despojo de agu
 
 El delito se sancionará sin importar si el derecho a la posesión de la cosa usurpada sea dudosa o esté en disputa.
 
-> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-###### Artículo 238.
+###### ARTÍCULO 238.
 
-Además de la pena señalada en el artículo anterior, se impondrá de seis a diez años de prisión y de quinientas a dos mil unidades de medida y actualización:
+Además de la pena señalada en el artículo anterior, se impondrá de siete a once años de prisión y de mil a cuatro mil unidades de medida y actualización:
 
-I. Cuando el despojo se realice por grupo o grupos de tres o más personas;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-II. Cuando el delito se cometa en contra de persona mayor de sesenta años de edad o con discapacidad;
+I. Cuando el delito se cometa en contra de persona mayor de sesenta años, con discapacidad, menor de edad, mujer embarazada o perteneciente a un pueblo o comunidad indígena;
 
-III. Cuando se simulen actos de autoridad;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-IV. Cuando se utilice documentación falsa;
+II. Cuando entre el sujeto pasivo y el activo medie un vínculo de parentesco o afinidad hasta en cuarto grado;
 
-V. Cuando participe un servidor público;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-VI. Cuando se cometa en contra de un ascendente.
+III. Cuando participe un servidor público en ejercicio de sus funciones;
 
-A quienes cometan en forma reiterada el despojo de inmuebles urbanos en la Ciudad de México, se les impondrán de dos a nueve años de prisión y de dos mil a cinco mil unidades de medida y actualización.
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+IV. Cuando el sujeto activo simule tener un cargo público o pertenecer a alguna institución pública, con independencia de las penas señaladas para el delito respectivo;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+V. Cuando se suplante la identidad del legítimo propietario o poseedor del bien inmueble o de su representante legal, con independencia de las penas señaladas para el delito respectivo;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+VI. Cuando el sujeto activo sea titular de una notaría en ejercicio o con motivo de sus funciones;
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+VII. Cuando el sujeto activo aproveche el acceso que tenga a documentos, papelería, sellos, bases de datos, así como a sistemas de información, en virtud de una relación laboral, de prestación de servicios, de gestión o de hecho;
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Cuando el sujeto activo actúe con apoyo o en coordinación con una agrupación de carácter sindical o social;
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+IX. Cuando el despojo se realice en grupo de tres o más personas;
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+X. Cuando se simulen actos de autoridad;
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+XI. Cuando se utilice documentación falsa o alterada;
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+XII. Cuando el sujeto activo obtenga o intente obtener un lucro, por sí o interpósita persona, mediante la ejecución de actos de dominio sobre el inmueble despojado o sobre los bienes muebles ubicados en él;
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+XIII. Cuando el bien inmueble objeto del despojo sea propiedad, esté en posesión o bajo la administración de cualquier ente público de la Ciudad de México, independientemente de su naturaleza jurídica.
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+A quienes cometan en forma reiterada el despojo de inmuebles urbanos en la Ciudad de México, se les impondrán de dos a nueve años de prisión y de dos mil a cinco mil unidades de medida y actualización, además de la pena señalada en el artículo anterior.
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+El término para que comience a correr la prescripción del presente delito, comenzará a contarse a partir de que se haya restituido la posesión del inmueble a la parte ofendida.
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 238 BIS. Se equipara al delito de despojo y se sancionará con las mismas penas asignadas a este delito a quien a pesar de haber sido requerido por la autoridad competente, mantenga la ocupación sobre el bien inmueble ajeno o bien, continúe impidiendo el disfrute material del mismo.
+
+Este delito se actualiza durante el tiempo que se prolongue la ocupación del inmueble; el uso del derecho real, o el impedimento de aprovechar materialmente el bien inmueble y hasta que la víctima sea restituida en el derecho.
 
 ### CAPÍTULO X. DISPOSICIONES COMUNES
 
@@ -3730,11 +3834,11 @@ El sentenciado ejecutoriado por los delitos de Abuso de Confianza, Fraude, Admin
 
 Para establecer la cuantía que corresponda a los delitos previstos en este Título, así como para la determinación de la multa, se tomará en consideración veces (sic) la Unidad de Cuenta de la Ciudad de México vigente, al momento de la ejecución del delito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 248.
 
-No se impondrá sanción alguna por los delitos previsto (sic) en los artículos 220, en cualquiera de la (sic) modalidades a que se refieren las fracciones I, III y IX del artículo 224, 228, 229, 230, 232 y 234; cuando el monto o valor del objeto, lucro, daño o perjuicio no exceda de cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente; despojo a que se refiere el artículo 237 fracciones I y II, siempre y cuando no se cometan con violencia física o moral y no intervengan dos o más personas y 239, todos ellos cuando el agente sea primo-delincuente, si este restituye el objeto del delito o satisface los daños y perjuicios o, si no es posible la restitución, cubra el valor del objeto y los daños y perjuicios, antes de que el Ministerio Público ejercite acción penal, salvo que se trate de delitos cometidos con violencia por personas armadas o medie privación de la libertad o extorsión.
+No se impondrá sanción alguna por los delitos previstos en los artículos 220, en cualquiera de las modalidades a que se refieren las fracciones I, III y IX del artículo 224, 228, 229, 230, 232 y 234; cuando el monto o valor del objeto, lucro, daño o perjuicio no exceda de cincuenta veces la Unidad de Medida y Actualización vigente; y 239, todos ellos cuando el agente sea primodelincuente, si este restituye el objeto del delito o satisface los daños y perjuicios o, si no es posible la restitución, cubra el valor del objeto y los daños y perjuicios, antes de que el Ministerio Público ejercite acción penal, salvo que se trate de delitos cometidos con violencia por personas armadas o medie privación de la libertad o extorsión.
 
 En los mismos supuestos considerados en el párrafo anterior, se reducirá en una mitad la sanción que corresponda al delito cometido, si antes de dictarse sentencia en segunda instancia, el agente restituye la cosa o entrega su valor y satisface los daños y perjuicios causados.
 
@@ -3782,15 +3886,21 @@ Se entiende que hay pandilla, cuando el delito se comete en común por tres o m�
 
 Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policíaca, se aumentará en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se impondrá además, destitución del empleo, cargo o comisión e inhabilitación de uno a cinco años para desempeñar otro.
 
-> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 253.
 
-Se impondrá prisión de cuatro a ocho años y de cien a mil unidades de medida y actualización al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir.
+Se impondrá prisión de cinco a diez años y de doscientas a dos mil unidades de medida y actualización al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir.
 
-Se impondrá de ocho a doce años y de quinientos a cinco mil unidades de medida y actualización cuando los integrantes de la asociación o de la banda que cometan alguno o varios de los delitos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+Se impondrá de diez a quince años y de mil a siete mil unidades de medida y actualización, sin perjuicio de las penas que correspondan por otros delitos, cuando los integrantes de la asociación o de la banda que cometan alguno o varios de los delitos siguientes:
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
 I. Homicidio previsto en el artículo 128;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
 II. Feminicidio previsto en el artículo 148 bis;
 
@@ -3798,15 +3908,29 @@ II. Feminicidio previsto en el artículo 148 bis;
 
 III. Extorsión prevista en el artículo 148 Quáter;
 
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
 IV. Desaparición forzada de personas previsto en los artículos 27, 28, 34 y 37 de la Ley General en Materia de Desaparición forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas Desaparecidas;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
 V. Robo previsto en el artículo 224 inciso B), C) y D);
 
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
 VI. Operaciones con recursos de procedencia ilícita previsto en el artículo 250;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
 VII. Narcomenudeo previsto en los artículos 475 y 476 de la Ley General de Salud;
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 Cuando el miembro de la asociación o de la banda sea o haya sido servidor público, miembro de alguna corporación policíaca, de procuración e impartición de justicia, del sistema penitenciario o de las Fuerzas Armadas, la pena a que se refiere el párrafo anterior se aumentará en dos terceras partes y, en su caso, se le impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación por el mismo tiempo de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+En todos los casos, la pena se aumentará en una mitad en contra de quien o quienes determinen o lleven a cabo funciones de administración, dirección, supervisión u organización de la asociación o banda.
 
 ###### ARTÍCULO 254.
 
@@ -7055,3 +7179,51 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES I Y II, Y SE DEROGAN LAS FRACCIONES III Y IV DEL ARTÍCULO 131; Y SE ADICIONA EL ARTÍCULO 131 BIS AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia del delito de lesiones previsto en el Código Penal para el Distrito Federal, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO. Se derogan todas las disposiciones que contravengan el presente Decreto
+
+G.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO PRIMERO Y FRACCIÓN I DEL ARTÍCULO 237; SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, LAS FRACCIONES I, II, III, IV, V Y VI Y SE ADICIONAN LAS FRACCIONES VII, VIII, IX, X, XI, XII Y XIII, ASÍ COMO UN ÚLTIMO PÁRRAFO AL ARTÍCULO 238; SE ADICIONA EL ARTÍCULO 238 BIS; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 248, TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL; SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 806 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL; SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 41 DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO; Y SE REFORMAN LAS FRACCIONES XI Y XII Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 34; Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 103 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia del delito de despojo, previsto en el Código Penal para el Distrito Federal, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+G.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 209 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de el delito de amenazas, previsto en el Código Penal para el Distrito Federal, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO. Se derogan todas las disposiciones que contravengan el presente decreto.
+
+G.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 253 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delito de asociación delictuosa previsto en el Código Penal para el Distrito Federal se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO.- Se derogan todas las disposiciones que contravengan el presente decreto.
