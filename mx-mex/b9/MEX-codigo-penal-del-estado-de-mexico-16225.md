@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2025-10-31"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -4097,6 +4097,14 @@ Artículo 265 bis.- Se aumentará la penalidad hasta en una tercera parte cuando
 
 Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, con la finalidad de obtener un lucro o beneficio para sí o para otro o causar un daño, se le impondrán de ocho a doce años de prisión y de mil a mil quinientos días multa.
 
+> <small>(ADICIONADO, G.G. 21 DE NOVIEMBRE DE 2025)</small>
+
+Las sanciones previstas en el párrafo anterior se aplicarán también al que intencionalmente provoque un incidente de tránsito con el propósito de obtener un beneficio económico indebido para sí o para otro, a través de amenazas o engaños, simulando ser víctima del siniestro.
+
+> <small>(ADICIONADO, G.G. 21 DE NOVIEMBRE DE 2025)</small>
+
+Las penas referidas en el párrafo que antecede se incrementarán hasta el doble en los incidentes de tránsito premeditados cuando la conducta delictiva se cometa en perjuicio de persona adulta mayor, persona con discapacidad, mujeres o persona en situación de vulnerabilidad.
+
 > <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
 
 Cuando este delito se cometa utilizando cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe a través de hilos, medios de transmisión inalámbrica de ondas o señales electromagnéticas, medios ópticos, o cualquier medio físico, se le impondrán de doce a quince años de prisión y de mil quinientos a dos mil días multa.
@@ -5111,7 +5119,7 @@ VII. El que hubiere vendido un bien mueble y recibido su precio, si no lo entreg
 
 VIII. El que venda a dos o más personas un mismo bien, sea mueble o inmueble y reciba el precio de una u otra venta o ambas o parte de él, con perjuicio del primer o siguientes compradores;
 
-IX. El que valiéndose de la suma ignorancia, notoria inexperiencia, extrema miseria o necesidad de otro, obtiene de éste ventajas usurarias por medio de contratos, convenios o documentos mercantiles o civiles, en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado o tasas de interés bancario autorizados;
+IX. (DEROGADA, G.G. 21 DE NOVIEMBRE DE 2025)
 
 X. El que para obtener un lucro indebido, ponga en circulación fichas, tarjetas u otros objetos de cualquier materia, como signos convencionales en sustitución de la moneda legal;
 
@@ -5175,15 +5183,23 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO V. DESPOJO
+### CAPITULO IV TER. USURA
+
+> <small>(ADICIONADO, G.G. 21 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 307 Bis.
 
 A la o el cónyuge o concubino, que sin causa justificada y en detrimento de la sociedad conyugal o del patrimonio común, generado durante el matrimonio o concubinato, oculte o transfiera por cualquier medio, o adquiera a nombre de terceros, los bienes de éstos, se le aplicará sanción de uno a cinco años de prisión, hasta trescientos días de multa y la reparación de daño.
 
-### CAPITULO VI. DAÑO EN LOS BIENES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 21 DE NOVIEMBRE DE 2025)</small>
 
-### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
+### CAPITULO V. DESPOJO
+
+###### Artículo 307 Ter.
+
+Comete el delito de usura quien, aprovechándose de la necesidad económica apremiante, ignorancia o inexperiencia de otro, mediante contratos, convenios o documentos mercantiles o civiles, formales o informales, incluidos aquellos simulados, otorgue préstamos de dinero, bienes o servicios, obteniendo intereses superiores al doble de las tasas fijadas por el Banco de México a intermediarios financieros para operaciones similares; éste delito se sancionará con pena de uno a quince años de prisión, y multa de cien a tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+### CAPITULO VI. DAÑO EN LOS BIENES
 
 ###### Artículo 308.
 
@@ -5265,7 +5281,7 @@ La persona facilitadora o abogada colaborativa ante la que se realicen los mecan
 
 X. Cuando el bien inmueble objeto del despojo sea propiedad o esté bajo la administración de cualquier ente público estatal o municipal, independientemente de su naturaleza jurídica.
 
-### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
+### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
 ###### Artículo 309.
 
@@ -5321,9 +5337,7 @@ II. De dos a siete años de prisión y de cincuenta a ciento setenta y cinco dí
 
 III. De tres a ocho años de prisión y de setenta y cinco a doscientos días multa, cuando se ocasione a bienes muebles o inmuebles, o documentos afectos a él, de manera que interrumpa el servicio público.
 
-### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
 
 ###### Artículo 312.
 
@@ -5345,9 +5359,9 @@ Al que sin permiso y fuera de los casos en que la ley lo permita, invada con án
 
 A los autores intelectuales, a quienes dirijan la invasión, y a quienes instiguen a la ocupación del inmueble, cuando la invasión se realice por dos o más personas se les impondrá de seis a doce años de prisión y de trescientos a mil días multa.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 315.
 
@@ -5359,7 +5373,7 @@ A quienes compren, vendan o en cualquier forma transfieran o adquieran ilegalmen
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5455,7 +5469,7 @@ Cuando la persona que realiza los actos jurídicos descritos en este delito, rev
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO III. COALICION
+### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5501,7 +5515,7 @@ Cuando los delitos a que se refieren los artículos 332, 340, 341, 345, 346, 347
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
+### CAPITULO III. COALICION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5549,7 +5563,7 @@ Al servidor público, que sin causa justificada abandone sus funciones sin haber
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
+### CAPITULO IV. ABUSO DE AUTORIDAD
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5561,7 +5575,7 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO VI. CONCUSION
+### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5653,7 +5667,7 @@ II. De ocho a doce años de prisión y de mil a mil quinientos días multa, dest
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO VII. INTIMIDACION
+### CAPITULO VI. CONCUSION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5701,7 +5715,7 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
+### CAPITULO VII. INTIMIDACION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5717,7 +5731,7 @@ II. De tres a nueve años de prisión, de quinientos a un mil días multa y la d
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO IX. TRAFICO DE INFLUENCIA
+### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5733,7 +5747,7 @@ Al que cometa el delito de intimidación, se le impondrán de dos a nueve años 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO X. COHECHO
+### CAPITULO IX. TRAFICO DE INFLUENCIA
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5751,7 +5765,7 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XI. PECULADO
+### CAPITULO X. COHECHO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5769,7 +5783,7 @@ II. De tres a ocho años de prisión, de quinientos a mil días multa y destituc
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+### CAPITULO XI. PECULADO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5837,7 +5851,7 @@ Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación e
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
+### CAPITULO XII. ENRIQUECIMIENTO ILICITO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5865,7 +5879,7 @@ La disposición de bienes para asegurar su conservación y evitar su destrucció
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XIV. DISPOSICIONES COMUNES
+### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5887,9 +5901,9 @@ III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equiv
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO XIV. DISPOSICIONES COMUNES
 
-> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2021)</small>
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 353.
 
@@ -5972,6 +5986,10 @@ A quien cometa los delitos previstos en las fracciones V, VI, X, XI, XII, XIII, 
 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2021)</small>
 
 ###### Artículo 354.
 
@@ -7984,3 +8002,21 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 199.- DECRETO POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 266, RECORRIÉNDOSE LOS SUBSECUENTES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 203.- POR EL QUE SE ADICIONA EL CAPÍTULO IV TER DEL TÍTULO CUARTO DEL LIBRO SEGUNDO DENOMINADO “USURA” CON EL ARTÍCULO 307 TER; Y SE DEROGA LA FRACCIÓN IX DEL ARTÍCULO 306 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Decreto.
