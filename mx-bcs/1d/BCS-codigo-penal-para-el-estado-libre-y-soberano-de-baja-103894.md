@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2025-11-20"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -3725,7 +3725,9 @@ Causas de exclusión de la pena. No se impondrá pena a quienes no puedan cumpli
 
 Están protegidos por un impedimento legítimo, los abogados, ministros de culto, mediadores, psicólogos y psiquiatras, que no puedan ser compelidos por la autoridad a revelar el secreto que se les hubiere confiado por causa de su ocupación.
 
-Gozan de una excusa absolutoria los que incurran en encubrimiento del cónyuge, concubina o concubino, parientes por consanguinidad o por afinidad en la línea recta ascendente o descendente hasta el cuarto grado y en la colateral por consanguinidad o afinidad, hasta el segundo grado.
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+Gozan de una excusa absolutoria los que incurran en encubrimiento del cónyuge, concubina o concubino, parientes por consanguinidad o por afinidad en la línea recta ascendente o descendente hasta el cuarto grado y en la colateral por consanguinidad o afinidad, hasta el segundo grado; quedan exceptuadas de dicha excusa absolutoria las personas que incurran en encubrimiento en la comisión de los delitos de homicidio y feminicidio.
 
 ### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
 
@@ -4992,3 +4994,13 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 
 A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+B.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3220 SE ADICIONA EL PÁRRAFO TERCERO DEL ARTÍCULO 336 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución, por las disposiciones previstas en el artículo 336 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se adiciona respectivamente, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
