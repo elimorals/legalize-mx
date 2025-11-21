@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2025-07-14"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario del Número 56 del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -115,13 +115,17 @@ XIII. Establecer el sistema presupuestal y contable que permita identificar plen
 
 XIV. Impulsar el desarrollo y fortalecimiento del Ecosistema Estatal Emprendedor, basado en la innovación, la ciencia y la tecnología a través del EPICENTRO;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-XV. Promover el acceso a la regulación y otorgamiento de patentes de invención, registro de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas; y
+XV. Promover el acceso a la regulación y otorgamiento de patentes de invención, registro de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-XVI. Establecer los fines, principios y bases de las políticas públicas en materia de humanidades, ciencias, tecnologías e innovación, así como los criterios y medios para su formulación, ejecución y evaluación.
+XVI. Establecer los fines, principios y bases de las políticas públicas en materia de humanidades, ciencias, tecnologías e innovación, así como los criterios y medios para su formulación, ejecución y evaluación; y
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Fomentar y promover el uso responsable, ético y seguro de la inteligencia artificial en el estado de Aguascalientes, en el ámbito de sus competencias y en coordinación con la Federación.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
 
@@ -182,6 +186,10 @@ IX. Economía del conocimiento: Al Conjunto de actividades económicas que requi
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
 X. Emprendimiento de alto impacto: Aquella iniciativa o proyecto que tiene un componente innovador en su producto, en su servicio o en su modelo de negocio, no es necesariamente un desarrollo tecnológico pero que generalmente utiliza la tecnología para conseguir su objetivo y sobre todo, tiene un impacto positivo en su cadena de valor y en alguna comunidad dentro de la sociedad;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+X-Bis. Inteligencia artificial: El conjunto de sistemas informáticos o combinación de algoritmos, cuyo propósito es crear programas o maquinas que imitan la inteligencia humana para mejorar tareas y pueden mejorar con la información que recopilan, conforme a estándares internacionales y sin perjuicio de la legislación federal aplicable.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
@@ -483,13 +491,17 @@ c) Promover la operación de servicios de información y documentación científ
 
 XXI. Coordinarse con los Gobiernos Municipales y el Federal para el establecimiento, operación, integración, desarrollo y evaluación tanto de los órganos locales de ciencia y tecnología como de los programas en la materia;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-XXII. Realizar las demás actividades inherentes al cumplimiento de su objeto en los términos de esta Ley; y
+XXII. Constituir, integrar y operar un Repositorio Estatal ajustado a estándares internacionales con el propósito de articular y dar certeza a los contenidos, así como seguridad a los procedimientos de acceso, recuperación, autentificación y evaluación de la información alojada en el repositorio;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-XXIII. Constituir, integrar y operar un Repositorio Estatal ajustado a estándares internacionales con el propósito de articular y dar certeza a los contenidos, así como seguridad a los procedimientos de acceso, recuperación, autentificación y evaluación de la información alojada en el repositorio.
+XXIII. Promover la participación ciudadana en el desarrollo y utilización de la inteligencia artificial y garantizar su uso responsable en el Estado de Aguascalientes, en colaboración con la sociedad civil, el sector educativo y el sector empresarial; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+XXIV. Realizar las demás actividades inherentes al cumplimiento de su objeto en los términos de esta Ley.
 
 ### CAPÍTULO II. Patrimonio
 
@@ -1475,9 +1487,41 @@ IV. Parques públicos; y
 
 V. Principales puntos turísticos.
 
-### CAPÍTULO ÚNICO. Responsabilidades Administrativas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO V. De la Inteligencia Artificial
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 77 Quinquies.
+
+Las disposiciones establecidas en esta ley para el desarrollo tecnológico y la investigación científica, serán aplicables en lo que corresponda al desarrollo de la inteligencia artificial en el Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 77 Sexies.
+
+El desarrollo, creación, investigación y uso de la inteligencia artificial en el Estado, se realizará con los principios fundamentales de apego a la ética, el respeto a los derechos humanos, la perspectiva de género, y sin discriminación alguna.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 77 Septies.
+
+Ninguna entidad pública o privada, podrá hacer mal uso de la Inteligencia Artificial con fines de manipulación social, discriminación o violación al estado de derecho.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 77 Octies.
+
+El Poder Ejecutivo del Estado, los Organismos Descentralizados, el Instituto de Educación de Aguascalientes y los Ayuntamientos, en su caso, promoverán el desarrollo, aplicación y utilización de la inteligencia artificial para beneficio y fortalecimiento de la economía, así como de la sociedad en general.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+Artículo 77 Novies. Las personas, empresas e instituciones que desarrollen o utilicen sistemas de inteligencia artificial, deberán cumplir con los principios éticos y demás disposiciones que establezcan los reglamentos y las leyes aplicables.
 
 ## TÍTULO SEXTO. RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
+
+### CAPÍTULO ÚNICO. Responsabilidades Administrativas
 
 ###### Artículo 78.
 
@@ -1644,3 +1688,11 @@ P.O. 14 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 287.- SE REFORMAN LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
