@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ingresos-de-los-municipios-del-estado-de-nuevo-leon-1635
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-01-11"
-last_updated: "2023-03-13"
+last_updated: "2025-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN PARA EL EJERCICIO FISCAL 2023
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Número 4 del Periódico Oficial del Estado de Nuevo León, el miércoles 11 de enero de 2023.
 
@@ -329,9 +329,11 @@ La Secretaría de Finanzas y Tesorería General del Estado sólo podrá autoriza
 
 El Ejecutivo del Estado, por conducto de la Secretaría Finanzas y Tesorería General del Estado, podrá determinar las atribuciones del Comité Técnico del Fideicomiso Maestro Municipal, así como emitir las Reglas de Operación correspondientes al fideicomiso a efecto de garantizar la correcta instrumentación del Programa Línea de Crédito Global Municipal, la sustentabilidad de los financiamientos adquiridos a través del mismo y la consecución del objetivo general de coadyuvar con los Municipios en alcanzar una mejora en la administración de su deuda.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-Los Municipios que deseen adquirir financiamiento bajo el programa Línea de Crédito Global Municipal establecido en el artículo 8 de esta Ley, deberán para tal efecto contar con la previa autorización de su Ayuntamiento, con la especificación del monto de financiamiento máximo, plazo, destino, fuente de pago, porcentaje y tipo de ingresos a afectar, así como la vigencia de la autorización, conforme a los límites máximos y rubros de inversión pública productiva autorizados en las fracciones II y IV del artículo 8 inmediato anterior, y/o del crédito cuyo refinanciamiento se autorice, para con ello dar cumplimiento con lo ordenado en los artículos 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, 56, 194, 196 y 198 de la Ley de Gobierno Municipal, 22, 23 y 24 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+Los Municipios que deseen adquirir financiamiento bajo el programa Línea de Crédito Global Municipal establecido en el artículo 7 de esta Ley, deberán para tal efecto contar con la previa autorización de su Ayuntamiento, con la especificación del monto de financiamiento máximo, plazo, destino, fuente de pago, porcentaje y tipo de ingresos a afectar, así como la vigencia de la autorización, conforme a los límites máximos y rubros de inversión pública productiva autorizados en las fracciones II y IV del artículo 7 inmediato anterior, y/o del crédito cuyo refinanciamiento se autorice, para con ello dar cumplimiento con lo ordenado en los artículos 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, 56, 194, 196 y 198 de la Ley de Gobierno Municipal, 22, 23 y 24 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 9.
 
@@ -493,7 +495,11 @@ Cada Municipio deberá prever anualmente en su presupuesto de egresos, en tanto 
 
 Con independencia de las obligaciones que por Ley debe cumplir cada Municipio para contratar y administrar su deuda pública, observará en todo tiempo la normativa aplicable a la planeación, programación, presupuestación, seguimiento, vigilancia, uso y destino de los recursos provenientes del FAIS Municipal.
 
-Artículo 18 (SIC). Las obligaciones que deriven del o los financiamientos que individualmente contratará cada Municipio con sustento en la presente Ley, serán constitutivas de deuda pública, en consecuencia, deberán inscribirse en: (i) el Registro de Obligaciones y Empréstitos del Estado Nuevo León, a cargo de la Secretaría de Finanzas y Tesorería General del Estado, y (ii) el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios que lleva la Secretaría de Hacienda y Crédito Público, en términos de lo que establecen las disposiciones legales y administrativas aplicables, en el orden local y Federal.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 19.
+
+Las obligaciones que deriven del o los financiamientos que individualmente contratará cada Municipio con sustento en la presente Ley, serán constitutivas de deuda pública, en consecuencia, deberán inscribirse en: (i) el Registro de Obligaciones y Empréstitos del Estado (sic) Nuevo León, a cargo de la Secretaría de Finanzas y Tesorería General del Estado, y (ii) el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios que lleva la Secretaría de Hacienda y Crédito Público, en términos de lo que establecen las disposiciones legales y administrativas aplicables, en el orden local y Federal.
 
 ## TRANSITORIOS
 
@@ -535,9 +541,13 @@ Artículo Séptimo. Las autorizaciones otorgadas mediante el presente Decreto, s
 
 Artículo Octavo. Los Municipios del Estado de Nuevo León que individualmente pretendan contratar financiamientos en el ejercicio fiscal 2023 con base en lo autorizado en la presente Ley, previamente a la formalización del contrato de crédito de que se trate deberán, para el tema del ingreso: (i) lograr que se prevea en el Presupuesto de Ingresos del Ejercicio Fiscal 2023, el importe que corresponda al o a los financiamientos que cada uno de ellos haya de contratar, o bien, (ii) obtener la reforma a su Presupuesto de Ingresos del Ejercicio Fiscal 2023 para incluir el monto que corresponda o, en su defecto, (iii) conseguir un decreto específico en el que se autorice el endeudamiento adicional, o inclusive, (iv) recibir autorización de este Congreso, a través de decreto específico, en el que se establezca la posibilidad de ejercer lo autorizado en el presente decreto, y que el importe del o de los financiamientos que serán contratados se considere como ingreso por financiamiento o deuda en el ejercicio fiscal 2023, y para el tema del egreso: (i) prever en su proyecto de presupuesto de egresos del ejercicio fiscal 2023, el monto que permita realizar las erogaciones para el pago del servicio de la deuda a cargo del Municipio que corresponda, en virtud del o de los financiamientos que individualmente decidan contratar, o bien, (ii) realizar los ajustes necesarios a su presupuesto para tal propósito.
 
-Artículo Noveno. El importe del o los financiamientos que individualmente decida contratar cada Municipio, independientemente de la fuente de pago, no podrán exceder la cantidad autorizada para cada uno de ellos, establecida en los Artículos 8 y 12 de la presente Ley; en tal virtud, el monto de cada financiamiento se establecerá al considerar el periodo disponible entre el momento de su contratación, el plazo máximo para su amortización, el análisis de la capacidad de pago, el destino de los recursos y la fuente de pago de las operaciones de financiamiento adquiridas por cada Municipio.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
 
-Artículo Décimo. Las autorizaciones específicas otorgadas a los Municipios en términos del artículo 8 de la Ley de Ingresos de los Municipios del Estado de Nuevo León para el Ejercicio Fiscal 2022, para celebrar financiamientos durante los ejercicios fiscales 2022 y/o 2023 al amparo del Programa Línea de Crédito Global Municipal, que a la fecha de la presente autorización no hayan sido ejercidas, se entenderán vinculadas a los términos del artículo 8 de la Ley de Ingresos de los Municipios del Estado de Nuevo León para el Ejercicio Fiscal 2023, con la finalidad que las operaciones se ejerzan durante el ejercicio 2023.
+Artículo Noveno. El importe del o los financiamientos que individualmente decida contratar cada Municipio, independiente de la fuente de pago, no podrán exceder la cantidad autorizada para cada uno de ellos, establecida en los artículos 7 y 11 de la presente Ley; en tal virtud, el monto de cada financiamiento se establecerá al considerar el periodo disponible entre el momento de su contratación, el plazo máximo para su amortización, el análisis de la capacidad de pago, el destino de los recursos y la fuente de pago de las operaciones de financiamiento adquiridas por cada Municipio.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+Artículo Décimo. Las autorizaciones específicas otorgadas a los Municipios en términos del artículo 8 de la Ley de Ingresos de los Municipios del Estado de Nuevo León para el Ejercicio Fiscal 2022, para celebrar financiamientos durante los ejercicios fiscales 2022 y/o 2023 al amparo del Programa Línea de Crédito Global Municipal, que a la fecha de la presente autorización no hayan sido ejercidas, se entenderán vinculadas a los términos del artículo 7 de la Ley de Ingresos de los Municipios del Estado de Nuevo León para el Ejercicio Fiscal 2023, con la finalidad que las operaciones se ejerzan durante el ejercicio 2023.
 
 Artículo Décimo Primero. A partir de la entrada en vigor del presente Decreto, quedarán derogadas todas las disposiciones legales y reglamentarias en el orden local, en lo que se opongan o contravengan lo autorizado en sus preceptos.
 
@@ -574,3 +584,9 @@ P.O. 13 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 337. SE REFORMA POR ADICIÓN DE UN ARTÍCULO 2 BIS DE LA LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN PARA EL EJERCICIO FISCAL 2023”.]
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 364. SE REFORMA EL ARTÍCULO 8 Y EL ARTÍCULO 18 EN SU SEGUNDA REDACCIÓN PARA QUE PASE A SER EL 19, ASÍ COMO EL ARTÍCULO NOVENO Y DÉCIMO TRANSITORIO, CORRESPONDIENTE A LA LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
