@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-16
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-12-27"
-last_updated: "2024-12-23"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Número 60 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
 
@@ -943,9 +943,11 @@ XXIII. Nombrar por la mayoría de votos de sus integrantes a la persona titular 
 
 XXIV. Las demás funciones que establezca la Constitución Política del Estado de Aguascalientes y las leyes.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 73.
 
-El Consejo de la Judicatura Estatal incorporará la perspectiva de género, de forma transversal, progresiva y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará porque los órganos auxiliares del Poder Judicial, así lo hagan.
+El Órgano de Administración Judicial incorporará la perspectiva de género, de forma transversal, progresiva y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará porque los órganos auxiliares del Poder Judicial, así lo hagan.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -953,7 +955,9 @@ El Consejo de la Judicatura Estatal incorporará la perspectiva de género, de f
 
 Las Comisiones del Órgano de Administración Judicial tendrán las funciones y atribuciones, así como la integración que determine el Pleno en el acuerdo general para su creación.
 
-### CAPÍTULO II. De la Presidencia (sic) Consejo de la Judicatura Estatal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO II. De la Presidencia del Órgano de Administración Judicial
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -989,7 +993,9 @@ VII. Celebrar convenios con las instituciones de enseñanza superior u organismo
 
 VIII. Las demás funciones que establezca la Constitución Política del Estado de Aguascalientes, las Leyes y el reglamento, que no correspondan al Pleno del Órgano de Administración Judicial.
 
-### CAPÍTULO III. Del Personal del Consejo de la Judicatura Estatal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO III. Del Personal del Órgano de Administración Judicial
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -1650,3 +1656,11 @@ Los procedimientos de Responsabilidad Administrativas que a la entrada en vigor 
 ###### ARTÍCULO SEXTO.
 
 Quedan sin efecto todas aquellas porciones normativas que se opongan a las disposiciones del presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 293.- SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
