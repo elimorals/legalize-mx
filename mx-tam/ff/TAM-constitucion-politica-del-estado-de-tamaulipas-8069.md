@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-11-14"
+last_updated: "2025-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -3549,6 +3549,12 @@ Toda erogación que se realice con cargo al Presupuesto de Egresos se hará conf
 
 Las tesoreras o los tesoreros municipales solo harán pagos obedeciendo órdenes firmadas por la Presidenta o el Presidente Municipal y la Secretaria o el Secretario del Ayuntamiento, salvo que exista acuerdo delegatorio expreso aprobado por el Cabildo. La tesorera o el tesorero, o empleado que desobedeciera esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
 
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)</small>
+
+###### Art. 162 Bis.
+
+Los órganos con autonomía de los poderes reconocidos por esta Constitución estarán impedidos de realizar inversiones en títulos, valores o acciones de bolsa sujetos a riesgo o variación de mercado.
+
 ###### Art. 163.
 
 El año fiscal comenzará el día primero de enero y terminará el día último de diciembre.
@@ -6006,3 +6012,31 @@ P.O. 14 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-565 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 162 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y SE ADICIONA UN ARTÍCULO 46 BIS A LA LEY DE GASTO PÚBLICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los órganos constitucionales autónomos que cuenten con inversiones en títulos, valores o acciones de bolsa sujetos a riesgo o variación de mercado, deberán retirar dichas inversiones y reintegrar los recursos, junto con los rendimientos generados, a la Secretaría de Finanzas del Estado, o bien ceder los derechos correspondientes a dicha Secretaría, para que ésta determine la pertinencia de darlos por terminados en el momento más oportuno, a fin de evitar pérdidas derivadas de la terminación anticipada de los contratos respectivos. Lo anterior deberá materializarse dentro de los cuarenta y cinco días naturales posteriores al inicio de la vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas emitirá los lineamientos aplicables para la recepción, concentración y registro de los recursos reintegrados, garantizando su incorporación al erario estatal en condiciones de transparencia y oportunidad.
+
+###### ARTÍCULO CUARTO.
+
+Los órganos constitucionales autónomos y la Secretaría de Finanzas del Estado informarán al Congreso del Estado sobre el cumplimiento de este Decreto en un plazo no mayor a sesenta días naturales.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor del presente Decreto los órganos constitucionales autónomos no podrán ejercer, aplicar o destinar recursos derivados de fondos de inversión en el Presupuesto de Egresos del ejercicio fiscal en curso, quedando estrictamente sujetos a los montos, partidas y conceptos aprobados por el Congreso del Estado. Cualquier modificación, ampliación o adecuación presupuestaria deberá ajustarse a los procedimientos establecidos en la Ley de Gasto Público y demás disposiciones aplicables, sin que ello implique la posibilidad de generar, acumular o destinar remanentes o subejercicios hacia fines distintos a los expresamente autorizados.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
