@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2025-11-08"
+last_updated: "2025-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -3357,6 +3357,10 @@ SÉPTIMO: Los procedimientos que se encuentren en trámite a la entrada en vigor
 
 OCTAVO: Dentro del plazo de doce meses contados a partir de la entrada en vigor de esta Ley, los titulares de más de una concesión darán aviso a la Secretaría a efecto de que manifiesten por escrito su voluntad de transferir o extinguir las concesiones excedentes o para manifestar lo que a sus derechos convenga.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+Para iniciar el procedimiento de extinción en el supuesto establecido en el párrafo anterior, los titulares concesionarios que no hayan dado aviso a la secretaría en el plazo establecido, tendrán un plazo de 180 días posteriores a la publicación del presente decreto, para manifestar la concesión que desean transferir o se extinga.
+
 NOVENO: Los concesionarios que aún no hayan designado a sus beneficiarios tienen la obligación de hacerlo en términos de la presente Ley, dentro de los ciento ochenta días naturales contados a partir de su entrada en vigor.
 
 DÉCIMO: Para el caso de personas que actualmente cuenten con una licencia tipo “A” o “B” vigente, y deseen adquirir la licencia permanente, tendrán que cubrir la diferencia del costo, dentro de los seis meses siguientes a la entrada en vigor de este Decreto.
@@ -3722,6 +3726,14 @@ TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor jerarqu�
 P.O. 8 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 837.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 59 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 763.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EL 27 DE ABRIL DE 2019, MEDIANTE EL CUAL SE APRUEBA LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
