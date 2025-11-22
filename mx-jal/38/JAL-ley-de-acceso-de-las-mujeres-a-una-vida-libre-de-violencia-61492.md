@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2025-10-16"
+last_updated: "2025-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -63,45 +63,65 @@ II. Consejo Estatal: Consejo Estatal para Prevenir, Atender y Erradicar la Viole
 
 III. Centro: Centro de refugio temporal para mujeres víctimas de violencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
 
-IV. Debida diligencia: es un deber que comporta cuatro obligaciones: la prevención, la investigación, la sanción y la reparación de las violaciones de los derechos humanos y evitar la impunidad;
+IV. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
 
-V. Derechos humanos de las mujeres: Refiere a los derechos universales, interdependientes, indivisibles y progresivos, que están contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia y en el orden jurídico mexicano que los tutela;
+V. Derechos humanos de las mujeres: refiere a los derechos universales, interdependientes, indivisibles y progresivos, que están contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de las Personas con Discapacidad, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia y en el orden jurídico mexicano que los tutela;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
 
-VI. Empoderamiento de las mujeres: es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+VI. Empoderamiento de las mujeres: es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, inclusión, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades, para tomar decisiones libres e informadas sobre sus vidas, y así acceder a recursos y oportunidades en condiciones de igualdad, y participan plenamente en la vida económica, política, social y cultural;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 VII. Estereotipos de género: Son las concepciones y modelos sobre como son y cómo deben comportarse hombres y mujeres, implicando relaciones desiguales y desventajas que restringen oportunidades por el hecho de ser hombre o mujer;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Enfoque diferencial: tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+IX. Interculturalidad: es un enfoque que parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí, pero igualmente válidas, no existiendo cultura superior ni inferior. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+X. Interseccionalidad: herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+XI. Misoginia: son conductas de odio hacia las mujeres, las adolescentes y las niñas y se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+XII. Modalidades de violencia: las formas, manifestaciones o los ámbitos donde se presenta la violencia contra las mujeres en cualquiera de sus tipos;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+XIII. Muertes evitables: conjunto de muertes que no deberían haber ocurrido en presencia de servicios de salud eficaces, con exámenes rutinarios para la detección temprana y tratamientos adecuados;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Persona agresora: quien ejerce cualquier tipo de violencias contra las mujeres;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+XV. Perspectiva de género: es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+XVI. Protocolo de actuación: conjunto de reglas y procedimientos que rigen el actuar de las autoridades y de profesionales en la atención de víctimas de violencia contra las mujeres, niñas y de género que sirven como herramienta de apoyo que dé una base y guía para manejar de forma adecuada casos que se presenten;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-VIII. Modalidades de violencia: Las formas, manifestaciones o los ámbitos donde se presenta la violencia contra las mujeres en cualquiera de sus tipos;
+XVII. Programa Estatal: Programa Estatal para Prevenir, Atender, Erradicar y Sancionar la Violencia contra las Mujeres; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-IX. Persona agresora: Quien ejerce cualquier tipo de violencia contra las mujeres;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
-
-X. Perspectiva de igualdad de género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Propone eliminar las causas de la opresión de género como la desigualdad, la injusticia, la violencia y la jerarquización de las personas basada en su sexo. Promueve la igualdad entre las personas a través del adelanto para lograr el bienestar subjetivo de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, sobre una base de igualdad, derechos humanos y libertades fundamentales, para acceder a los recursos económicos y a la representación política, social, cultural y civil, tanto en todo los ámbitos de la vida;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
-
-XI. Protocolo de actuación: Conjunto de reglas y procedimientos que rigen el actuar de las autoridades y de profesionales en la atención de víctimas de violencia contra las mujeres, niñas y de género que sirven como herramienta de apoyo que dé una base y guía para manejar de forma adecuada casos que se presenten.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
-
-XII. Programa Estatal: Programa Estatal para Prevenir, Atender, Erradicar y Sancionar la Violencia contra las Mujeres; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
-
-XIII. Sistema Estatal: Sistema Estatal para Prevenir, Atender, Erradicar y Sancionar la Violencia contra las Mujeres.
+XVIII. Sistema Estatal: Sistema Estatal para Prevenir, Atender, Erradicar y Sancionar la Violencia contra las Mujeres.
 
 ###### Artículo 3°.
 
@@ -111,21 +131,47 @@ Los poderes públicos del Estado de Jalisco y los organismos auxiliares de la ad
 
 Los municipios podrán expedir reglamentos y coordinarse con el Gobierno Estatal para implementar acciones a fin de prevenir, detectar, atender y erradicar la violencia contra las mujeres. Para este fin, en la elaboración de sus presupuestos de egresos, podrán contemplar partidas presupuestales para cumplir con dichos fines.
 
-###### Artículo 5°.
+###### Artículo 5º.
 
-Los principios rectores que contiene esta ley, deberán ser observados por el sistema y el programa estatal y por las diferentes dependencias estatales, en la elaboración de sus políticas públicas para prevenir, detectar, atender, sancionar y erradicar la violencia contra de las mujeres, y son:
+Los principios rectores que contiene esta ley, deberán ser observados por el sistema y el programa estatal y por las diferentes dependencias estatales, en la elaboración de sus políticas públicas para prevenir, detectar, atender, sancionar y erradicar la violencia (sic) contra de las mujeres, y son:
 
 I. El respeto a su libertad, autonomía y dignidad humana;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
 
-II. La igualdad sustantiva entre mujeres y hombres;
+II. La igualdad jurídica, sustantiva, de resultados y estructural entre mujeres y hombres;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
 
-III. La no discriminación de las mujeres en todos los órdenes de la vida, y el enfoque antidiscriminatorio; y
+III. La no discriminación de las mujeres en todos los órdenes de la vida, y el enfoque antidiscriminatorio;
 
-IV. El respeto irrestricto de los derechos fundamentales de las mujeres.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+IV. El respeto irrestricto de los derechos fundamentales de las mujeres;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+VI. Perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+VII. La debida diligencia;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+VIII. La interseccionalidad;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+IX. La interculturalidad; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+X. El enfoque diferencial.
 
 ###### Artículo 6°.
 
@@ -167,9 +213,9 @@ VI. Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia fami
 
 VII. Ser valoradas y educadas libres de estereotipos de comportamiento, prácticas sociales y culturales basadas en los roles de género discriminatorios;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
 
-VIII. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia con perspectiva de igualdad de género;
+VIII. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia con perspectiva de género;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
@@ -1517,7 +1563,9 @@ Las acciones de acceso a la justicia consisten en:
 
 I. Implementar de manera pronta, expedita y eficaz medidas de protección para las mujeres víctimas de violencia o en riesgo de serlo, para salvaguardar sus derechos humanos, su integridad física y psíquica, así como su bienes y patrimonio, tomando en cuenta las condiciones de vulnerabilidad en las que se encuentren;
 
-II. Actuar con la debida diligencia para orientar, acompañar y representar a las mujeres víctimas de violencia en los procedimientos en que participen, con el fin de que sean sancionados los actos de violencia cometidos en su contra, así como para hacer efectiva la reparación del daño; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2025)</small>
+
+II. Actuar con la debida diligencia para orientar, acompañar. y representar a las mujeres víctimas de violencia en los procedimientos en que participen, con el fin de que sean sancionados los actos de violencia cometidos en su contra, así como para hacer efectiva la reparación del daño salvaguardando el derecho a una vida libre de violencia, y
 
 III. Instrumentar acciones integrales que tiendan a disminuir los efectos de la violencia contralas (sic) mujeres y evitar la violencia institucional.
 
@@ -2176,3 +2224,11 @@ P.O. 16 DE OCTUBRE DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO.- El Ejecutivo del Estado dispondrá de un plazo de 90 días naturales para realizar las adecuaciones administrativas y reglamentarias que deriven del presente decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29858/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 2, 5, 9, Y 49 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Congreso del Estado de Jalisco deberá armonizar el marco jurídico en la materia al contenido del presente Decreto en un plazo que no excederá de 180 días a partir de la entrada en vigor.
