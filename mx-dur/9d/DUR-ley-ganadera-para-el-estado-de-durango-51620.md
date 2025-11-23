@@ -4,7 +4,7 @@ identifier: "DUR-ley-ganadera-para-el-estado-de-durango-51620"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-13"
-last_updated: "2021-07-04"
+last_updated: "2025-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GANADERA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de agosto de 2006.
 
@@ -377,9 +377,11 @@ VIII. Celebrar convenios y acuerdos con las entidades federativas en materia pec
 
 IX. las demás que le otorguen la presente ley, su reglamento y demás normatividad aplicable en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 11.
 
-Compete a la Secretaría, en lo concerniente a la materia de esta ley, las siguientes atribuciones:
+Compete a la Secretaría, en lo concerniente a la materia de esta Ley, las siguientes atribuciones:
 
 I. Elaborar, ejecutar, evaluar y revisar el Programa de Desarrollo Pecuario, con base en la proposición y participación de los gobiernos municipales, organizaciones pecuarias y organismos auxiliares de cooperación;
 
@@ -449,9 +451,9 @@ XXXII. Organizar y mantener permanentemente actualizado el Registro Estatal de I
 
 XXXIII. Celebrar por delegación del Gobernador del Estado convenios y acuerdos con las entidades federativas en materia pecuaria;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2025)</small>
 
-XXXIV. Organizar y dirigir los servicios de inspección, vigilancia y control de ganado;
+XXXIV. Elaborar y expedir los formatos de transmisión de propiedad de las especies domésticas productivas, sus productos y/o subproductos, las órdenes de sacrificio y el formato único de guía de tránsito, con base en los requisitos que establezca la Secretaría, cobrando por los mismos el monto señalado en la Ley de Ingresos del Estado;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
@@ -461,9 +463,17 @@ XXXV. Aplicar las medidas y acciones necesarias para mejorar el estatus sanitari
 
 XXXVI. Autorizar o cancelar la operación de los corrales de acopio para comercializar ganado a distintos fines y destinos, realizando las verificaciones necesarias;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2025)</small>
+
+XXXVIII (SIC). Difundir entre los productores del Estado la información que se genere sobre los programas tanto de carácter estatal, municipal y federal, así como aquellos ofrecidos por organismos internacionales que otorguen apoyos a la ganadería, procurando que dicha información llegue a los productores, favoreciendo su acceso a esos programas y a todos sus beneficios;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2025)</small>
+
+XXXIX. Promover de manera permanente ante la Secretaría de Agricultura y Desarrollo Rural del Gobierno Federal que se propicie la exportación de ganado criollo nacido en Unidades de Producción Pecuaria (UPP) del Estado, sobre las Prestadoras de Servicios Ganaderos (PSG), en atención a los estándares sanitarios, trazabilidad y normativas exigidas por los países de destino; y
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-XXXVII. Las demás que establezca la presente ley, su reglamento y normatividad aplicable.
+XL. Las demás que establezca la presente ley, su reglamento y normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2021)</small>
 
@@ -2712,3 +2722,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La partida presupuestal a que hace referencia el artículo 11 bis, del presente decreto, comenzará a partir del ejercicio fiscal 2022, en la Ley de Egresos del Gobierno del Estado de Durango.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 276 QUE CONTIENE REFORMAS AL ARTÍCULO 11 DE LA LEY GANADERA PARA EL ESTADO DE DURANGO; EN MATERIA DE APOYO A LOS PRODUCTORES GANADEROS”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
