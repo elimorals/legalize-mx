@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2025-11-16"
+last_updated: "2025-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2025.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1909,6 +1909,12 @@ En todas las controversias derivadas de violencia familiar, el Juez dictará las
 
 ART. 318-4.- En los casos en que exista violencia familiar cometida por uno de los cónyuges o concubinos contra el otro, hacia las hijas o hijos de ambos, o de alguno de ellos, las hijas e hijos quedarán bajo la custodia del cónyuge o concubino víctima de dicha conducta o, en su caso, de aquel que no hubiere sido quien ejerció dicha violencia.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2025)</small>
+
+ART. 318-5.- Por violencia vicaria se entiende, quien valiéndose de las hijas y/o hijos, familiares, cualquier persona con parentesco en línea recta ascendente o descendente, colateral o afín, hasta el cuarto grado, que haya ejercido tutela o curatela, realice cualquier acto u omisión con el objetivo de causar perjuicio o daño a la mujer con la que esté o haya estado unida por un vínculo matrimonial o civil o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho. Lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+
+Se entenderá como actos u omisiones constitutivas de este tipo de violencia, aquellas que se contemplan en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en su artículo 6 fracción VI.
+
 ## TITULO SEPTIMO.
 
 De la Paternidad y Filiación.
@@ -2666,6 +2672,10 @@ VI.- Cuando uno de los cónyuges realice en la persona de las hijas o hijos, con
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
 
 VII.- Por auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2025)</small>
+
+VIII.- Cuando el que la ejerce incurra en conductas de violencia vicaria previstas en el artículo 318-5 de este Código.
 
 ART. 443.- La patria potestad no es renunciable; pero aquellos a quienes corresponda ejercerla, pueden excusarse;
 
@@ -11498,6 +11508,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 273 QUE CONTIENE REFORMA AL ARTÍCULO 442 DEL CÓDIGO CIVIL VIGENTE EN EL ESTADO DE DURANGO, EN MATERIA DE CAUSAS DE SUSPENSIÓN DE LA PATRIA POTESTAD”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 278 QUE CONTIENE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
