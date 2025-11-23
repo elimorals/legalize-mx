@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-rural-sustentable-para-el-estado-de-96386"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-25"
-last_updated: "2023-05-14"
+last_updated: "2025-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de agosto de 2013.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fechas 22 de marzo de 2010 y 06 de septiembre de 2011, fueron presentadas a esta H. LXV Legislatura del Estado dos Iniciativas la primera por los CC. Diputados Pedro Silerio García, Marcial Saúl García Abraham, Alfredo Héctor Ordaz Hernández, Jaime Rivas Loaiza, Francisco Javier Ibarra Jáquez y Carlos Aguilera Andrade, integrantes de la Fracción Parlamentaria del Partido Revolucionario Institucional, por el Diputado Gilberto Candelario Zaldívar Hernández, integrante del Partido Nueva Alianza y por el Diputado José Francisco Acosta Llanes, integrante del Partido Duranguense, que contiene Ley de Desarrollo Rural Sustentable para el Estado de Durango y la segunda por los CC. Diputados Aleonso Palacio Jáquez, Jorge Alejandro Salum del Palacio, Gina Gerardina Campuzano González, Judith Irene Murguía Corral y José Antonio Ochoa Rodríguez, integrantes de la Fracción Parlamentaria del Partido Acción Nacional, que contiene Ley de Desarrollo Rural Integral y Sustentable para el Estado de Durango; igualmente le fueron turnadas para su estudio y dictamen correspondiente otras dos iniciativas más que contienen Ley para la Conservación y Restauración de las Tierras del Estado de Durango, misma que fue presentada en fecha 04 de marzo de 2011, por el Diputado Marcial Saúl García Abraham, integrante del Grupo Parlamentario del Partido Revolucionario Institucional de la Sexagésima Quinta Legislatura del Congreso del Estado, y la otra presentada por los diputados Aleonso Palacio Jáquez, Jorge Alejandro Salum del Palacio, Gina Gerardina Campuzano González, Judith Murguía Corral y José Antonio Ochoa Rodríguez, integrantes del Grupo Parlamentario del Partido Acción Nacional de la Sexagésima Quinta Legislatura, en fecha 13 de abril de 2011 que contiene Ley de Protección Conservación de las Tierras para el Estado de Durango; mismas que fueron turnadas a la Comisión de Asuntos Agrícolas y Ganaderos integrada por los CC. Diputados: Cesar Humberto Duarte Santiesteban, Rosa María Galván Rodríguez, Alfredo Héctor Ordáz Hernández, Francisco Acosta Llanes y Francisco Javier Ibarra Jáquez; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S...
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -91,13 +93,25 @@ IX.- Diseñar e implementar los apoyos directos, estímulos fiscales, créditos,
 
 X.- Mejorar de manera integral la calidad de vida de la sociedad;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2025)</small>
 
-XI.- Impulsar y promover acciones y políticas que favorezcan a la agricultura, principalmente la agricultura familiar y autosustentable; y
+XI.- Impulsar y promover acciones y políticas que favorezcan a la agricultura, principalmente la agricultura familiar y autosustentable;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2025)</small>
 
-XII.- Promover el aprovechamiento de la tierra para producción agropecuaria y el uso de las que se encuentran ociosas en beneficio de propietarios y labradores.
+XII.- Promover el aprovechamiento de la tierra para producción agropecuaria y el uso de las que se encuentran ociosas en beneficio de propietarios y labradores;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2025)</small>
+
+XIII.- Impulsar el desarrollo productivo, económico y social de las comunidades rurales, promoviendo la reconversión productiva sustentable, para avanzar en el abatimiento del rezago que presentan algunas regiones del estado;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2025)</small>
+
+XIV.- Fomentar la conservación del suelo, del agua, de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su protección y aprovechamiento sustentable; e
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2025)</small>
+
+XV.- Impulsar proyectos que sean altamente generadores de empleo e incremento productivo, y los que contribuyan a la mitigación y adaptación a los efectos del cambio climático.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
@@ -2280,3 +2294,11 @@ P.O. 14 DE MAYO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 275 QUE CONTIENE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.– El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
