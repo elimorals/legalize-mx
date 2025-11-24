@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-intercultural-para-la-igualdad-de-179865"
 country: "mx"
 rank: "ley"
 publication_date: "2025-05-02"
-last_updated: "2025-06-02"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario del Número 30 en el Periódico Oficial del Estado de Aguascalientes, el viernes 2 de mayo de 2025.
 
@@ -501,7 +501,9 @@ IV. Contar con reconocidos méritos profesionales y/o prestigio académico, así
 
 V. No ser ministro de culto religioso, militar en activo, dirigente empresarial o de partido u organización político-electoral, no ocupar un cargo de representación sindical ni líder de cualquier organismo;
 
-VI. Ser una persona de amplia solvencia moral y de reconocido prestigio profesional;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+VI. Ser de reconocido prestigio profesional;
 
 VII. Contar con una residencia efectiva y probada en el Estado no menor a cinco años anteriores a la fecha de su designación;
 
@@ -1268,3 +1270,9 @@ P.O. 2 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 300.- SE REFORMA LA LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD”.]
+
+ÚNICO.– El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
