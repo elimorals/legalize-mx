@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-167824"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-09-13"
-last_updated: "2025-04-02"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2023-07-31"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE NOVIEMBRE DE 2025.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de septiembre de 2023.
 
@@ -137,7 +137,9 @@ I. Análisis FODA: Herramienta metodológica para determinar las fortalezas, opo
 
 II. Coordinaciones Estatales: Las Coordinaciones Estatales de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), son las oficinas de representación de IMSS-BIENESTAR en las entidades federativas con fundamento en lo establecido en el artículo 3 de su Estatuto Orgánico.
 
-III. Decreto de Creación: Decreto por el que se crea el organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el BIENESTAR (IMSS-BIENESTAR), publicado en el Diario Oficial de la Federación el 31 de agosto de 2022.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+III. Decreto de Creación: Decreto por el que se crea el organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR).
 
 IV. Dirección General: La persona titular de la Dirección General de IMSS-BIENESTAR.
 
@@ -151,15 +153,15 @@ VII. Estatuto: El Estatuto Orgánico de Servicios de Salud del Instituto Mexican
 
 VIII. FONSABI: Fondo de Salud para el Bienestar.
 
-> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-VIII Bis. HRAE´S: Los establecimientos de salud denominados Hospital Regional de Alta Especialidad de Ciudad Victoria “Bicentenario 2010”; Hospital Regional de Alta Especialidad del Bajío; Hospital Regional de Alta Especialidad de Ixtapaluca; Hospital Regional de Alta Especialidad de Oaxaca; Hospital Regional de Alta Especialidad de la Península de Yucatán; el Hospital de Especialidades Pediátricas en Tuxtla Gutiérrez; y, Hospital Ciudad Salud en Tapachula.
+VIII Bis. HRAES: Los establecimientos de salud denominados Hospital Regional de Alta Especialidad de Ciudad Victoria "Bicentenario 2010"; Hospital Regional de Alta Especialidad del Bajío; Hospital Regional de Alta Especialidad de Ixtapaluca; Hospital Regional de Alta Especialidad de Oaxaca; Hospital Regional de Alta Especialidad de la Península de Yucatán; el Hospital de Especialidades Pediátricas en Tuxtla Gutiérrez; y, Hospital Regional de Alta Especialidad Ciudad Salud.
 
 IX. IMSS-BIENESTAR: El organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar.
 
 X. Junta de Gobierno: La Junta de Gobierno de IMSS-BIENESTAR.
 
-XI. Órganos normativos del Instituto Mexicano del Seguro Social: Las direcciones a que se refiere el artículo 3, fracción II, del Reglamento Interior del Instituto Mexicano del Seguro Social, así como las unidades y coordinaciones que de ellas dependan.
+XI. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2025)
 
 XII. Personal de conducción: Es el personal de salud que se encuentra en los diferentes niveles de conducción de IMSS-BIENESTAR (estatal, regional y zonal).
 
@@ -167,7 +169,7 @@ XIII. Personal operativo: Es el personal de salud que forma parte de las unidade
 
 XIV. Población objetivo: Las personas sin afiliación a las instituciones de seguridad social.
 
-XV. Programa IMSS-BIENESTAR: El Programa IMSS-BIENESTAR del Gobierno Federal administrado por el Instituto Mexicano del Seguro Social, en los términos de las reglas de operación publicadas anualmente en el Diario Oficial de la Federación.
+XV. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2025)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 14 DE FEBRERO DE 2024)</small>
 
@@ -177,9 +179,9 @@ XVI. Regionalización operativa: Instrumento de planeación que integra informac
 
 XVII. RISS: Redes Integradas de Servicios de Salud.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 14 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-XVIII. Unidades y coordinaciones: Las áreas que, de acuerdo con este Estatuto, forman parte de la estructura orgánica básica de IMSS-BIENESTAR.
+XVIII. Unidades y Coordinaciones: Las áreas que, de acuerdo con este Estatuto, forman parte de la Estructura Orgánica básica de IMSS-BIENESTAR, incluyendo a las Coordinaciones Estatales.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 14 DE FEBRERO DE 2024)</small>
 
@@ -205,7 +207,9 @@ Lo no previsto en el Estatuto se regulará por las disposiciones administrativas
 
 El patrimonio de IMSS-BIENESTAR se integrará por los recursos, bienes, derechos, ingresos y demás conceptos señalados en el artículo 6 del Decreto de Creación.
 
-Los recursos en numerario a que se refiere el párrafo anterior, podrán recibirse a través del fideicomiso público de administración y pago que, en su caso, se constituya.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+Los recursos en numerario que provengan de las Entidades Federativas se recibirán a través del fideicomiso público referido en el artículo 3 del Decreto de Creación, para que dichos recursos se apliquen para el cumplimiento de sus fines.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN DE IMSS-BIENESTAR
 
@@ -221,45 +225,67 @@ II. La persona titular de la Dirección General.
 
 ###### Artículo 8.
 
-La Junta de Gobierno de IMSS-BIENESTAR es la autoridad encargada de conocer y aprobar su normativa, programas, estructuras y funciones, evaluar las actividades de la persona titular de la Dirección General, así como de las unidades y coordinaciones de IMSS-BIENESTAR.
+(DEROGADO, D.O.F. 24 DE NOVIEMBRE DE 2025)
+
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 9.
 
-La Junta de Gobierno se integrará como se indica a continuación:
+La Junta de Gobierno se integrará por las personas titulares de:
 
-I. Titular del Instituto Mexicano del Seguro Social, quien la preside, con derecho a voz y voto de calidad en caso de empate.
+I. La Secretaría de Salud, quien la presidirá;
 
-II. Titular de la Secretaría de Salud, con derecho a voz y voto.
+II. La Secretaría de Hacienda y Crédito Público;
 
-III. Titular de la Secretaría de Hacienda y Crédito Público, con derecho a voz y voto.
+III. La Secretaría del Trabajo y Previsión Social;
 
-IV. Titular de la Secretaría del Trabajo y Previsión Social, con derecho a voz y voto.
+IV. La Secretaría de Bienestar;
 
-V. Titular de la Secretaría del Bienestar, con derecho a voz y voto.
+V. La Subsecretaría de Integración Sectorial y Coordinación de Servicios de Atención Médica de la Secretaría de Salud;
 
-VI. Cuatro personas titulares de los órganos normativos del Instituto Mexicano del Seguro Social, designados por la persona titular de la Dirección General de éste, con base en su reglamento interior, con derecho a voz y voto.
+VI. La Subsecretaría de Políticas de Salud y Bienestar Poblacional de la Secretaría de Salud;
 
-VII. Un representante del Sindicato mayoritario al que estén afiliadas sus personas trabajadoras, con derecho a voz y voto.
+VII. La Subsecretaría de Egresos de la Secretaría de Hacienda y Crédito Público;
 
-Son invitados permanentes, la persona Comisaria Pública designada por la Secretaría de la Función Pública y la persona titular de la Dirección General de IMSS-BIENESTAR, los cuales asistirán a las sesiones con derecho a voz, pero sin voto.
+VIII. La Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto de la Secretaría de Hacienda y Crédito Público;
 
-Cuando la Junta de Gobierno lo estime pertinente, podrán asistir a las sesiones invitados ocasionales para aclarar aspectos técnicos o administrativos relacionados con los asuntos que se van a tratar, los cuales tendrán derecho a voz, pero sin voto. Estos podrán ser representantes de otras dependencias y entidades de la Administración Pública Federal, de los Poderes Legislativo y Judicial, órganos constitucionales autónomos u otra institución pública o privada, nacional o internacional, así como de titulares de unidad y coordinadores de IMSS-BIENESTAR propuestos por la persona titular de la Dirección General, cuya participación se estime necesaria.
+IX. La Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad de la Secretaría de Salud;
+
+X. El Instituto Mexicano del Seguro Social;
+
+XI. Tres órganos normativos del Instituto Mexicano del Seguro Social, a los que se refiere el reglamento interior de dicho instituto, que al efecto designe la persona titular de su Dirección General;
+
+XII. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y
+
+XIII. Un representante del Sindicato mayoritario al que estén afiliados los trabajadores de IMSS-BIENESTAR.
+
+Todas las personas integrantes cuentan con derecho a voz y voto, teniendo el voto de calidad la Presidencia de la Junta de Gobierno en caso de empate.
+
+Son personas invitadas permanentes, el Órgano de Vigilancia integrado por la persona Comisaria Pública designada por la Secretaría Anticorrupción y Buen Gobierno y la persona titular de la Dirección General de IMSS-BIENESTAR, las cuales asistirán a las sesiones con derecho a voz, pero sin voto.
+
+Cuando la Junta de Gobierno lo estime pertinente, podrán asistir a las sesiones personas con carácter de invitadas ocasionales para aclarar aspectos técnicos o administrativos relacionados con los asuntos que se van a tratar, las cuales tendrán derecho a voz, pero sin voto. Estas podrán ser representantes de otras dependencias y entidades de la Administración Pública Federal, de los Poderes Legislativo y Judicial, órganos constitucionales autónomos u otra institución pública o privada, nacional o internacional, así como titulares de las Unidades y Coordinaciones de IMSS-BIENESTAR propuestos por la persona titular de la Dirección General, cuya participación se estime necesaria.
 
 La Junta de Gobierno tendrá una Secretaría Técnica, cuya persona titular será nombrada o removida por dicho órgano colegiado a propuesta de quien la presida y deberá ser ajena al organismo, pudiendo ser integrante o no de aquella.
 
 La Junta de Gobierno tendrá una Prosecretaría, cuya persona titular será designada o removida a propuesta de la persona titular de la Dirección General de IMSS-BIENESTAR, quien podrá ser o no integrante de dicha Junta de Gobierno o del organismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 10.
 
-De conformidad con el artículo 11 del Decreto de Creación, los miembros propietarios de la Junta de Gobierno que pertenezcan a la Administración Pública Federal podrán nombrar mediante comunicación por escrito a un suplente, previo a la realización de la sesión, con un nivel jerárquico mínimo de Dirección General o su equivalente, quien actuará en sus ausencias temporales .
+De conformidad con el artículo 11 del Decreto de Creación, las personas integrantes de la Junta de Gobierno podrán nombrar mediante comunicación por escrito, a una persona suplente, previo a la realización de la sesión, con un nivel jerárquico mínimo de Dirección General o su equivalente, quien actuará en sus ausencias temporales.
 
 La persona que presida la Junta de Gobierno será suplida en sus ausencias temporales por quien designe formalmente, previo a la sesión correspondiente.
 
-Los suplentes de los integrantes a que se refiere la fracción VI del artículo anterior deberán tener un nivel jerárquico mínimo de Dirección General o su equivalente, y deberá comunicarse por escrito previo a la realización de la sesión.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-El integrante a que se refiere la fracción VII del artículo anterior será suplido por quien designe la organización sindical que nombró al titular y deberá comunicarse por escrito previo a la realización de la sesión.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-Los invitados permanentes podrán designar a un suplente con un nivel jerárquico mínimo de Dirección General o su equivalente, y deberá comunicarse por escrito previo a la realización de la sesión.
+La persona integrante a que se refiere la fracción XIII del artículo anterior será suplida por quien designe la organización sindical que nombró a la persona representante titular y deberá comunicarse por escrito previo a la realización de la sesión.
+
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+Las personas invitadas permanentes podrán designar a un suplente con un nivel jerárquico mínimo de Dirección General o su equivalente, y deberá comunicarse por escrito, previo a la realización de la sesión.
 
 ###### Artículo 11.
 
@@ -273,15 +299,21 @@ III. Autorizar la creación de comisiones o comités que se establezcan en las n
 
 IV. Nombrar y remover, a propuesta de la persona titular de la Dirección General de IMSS-BIENESTAR, a las personas funcionarias de los dos niveles jerárquicos inferiores a aquella, con excepción de la persona titular de la Unidad Jurídica, quien se sujetará a lo dispuesto por el artículo 43, fracción VII, de la Ley Orgánica de la Administración Pública Federal.
 
-La propuesta de nombramiento de la persona titular de la Unidad de Administración y Finanzas que realice la persona titular de la Dirección General deberá apegarse a los requisitos establecidos en las leyes, ordenamientos y lineamientos vigentes emitidos por la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-La persona titular de la Dirección General podrá hacer designaciones de encargados de despacho de unidades y coordinaciones, quedando las designaciones de los titulares sujetos a la aprobación definitiva de la Junta de Gobierno, de la Consejería Jurídica del Ejecutivo Federal y de la Secretaría de Hacienda y Crédito Público, según corresponda.
+La propuesta de nombramiento de la persona titular de la Unidad de Administración y Finanzas y sus Coordinaciones deberán apegarse a los requisitos establecidos en las leyes, ordenamientos y lineamientos vigentes emitidos por la Secretaría de Hacienda y Crédito Público.
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 V. Analizar con sujeción a las disposiciones legales relativas y, en su caso, acordar lo referente a donativos o pagos extraordinarios, así como dar seguimiento a la aplicación de los mismos.
 
-VI. Aprobar, con apoyo en la legislación aplicable, las normas y bases para conciliar adeudos a cargo de terceros y a favor de IMSS-BIENESTAR, cuando fuere notoria la imposibilidad práctica de su cobro.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-VII. Aprobar la celebración de convenios de colaboración con las entidades federativas para la transferencia de los servicios de salud a la población objetivo, referida en el artículo 2 del Decreto de Creación.
+VI. Aprobar, con apoyo en la legislación aplicable, las normas y bases para cancelar adeudos a cargo de terceros y a favor de IMSS-BIENESTAR, cuando fuere notoria la imposibilidad práctica de su cobro.
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+VII. Aprobar la celebración de convenios con las entidades federativas para la transferencia de los servicios de salud a la Población Objetivo.
 
 VIII. Establecer las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que IMSS-BIENESTAR requiera para la prestación de sus servicios, con base en lo que establecen las disposiciones legales relativas y los procedimientos que fije el Reglamento de la Ley Federal de las Entidades Paraestatales, con excepción de aquellos inmuebles de organismos descentralizados que la Ley General de Bienes Nacionales considere como del dominio público de la Federación.
 
@@ -289,17 +321,27 @@ IX. Dictar los acuerdos que resulten necesarios para el cumplimiento del objetiv
 
 X. Aprobar la concertación de los préstamos para el financiamiento de IMSS-BIENESTAR con créditos internos y externos, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras.
 
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+XI. Aprobar su normativa, programas, estructuras y funciones, evaluar las actividades de la persona titular de la Dirección General, así como de las Unidades y Coordinaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-La Junta de Gobierno celebrará sesiones ordinarias, cuando menos, una vez cada tres meses, de conformidad con el calendario aprobado en la primera sesión ordinaria del ejercicio, así como las extraordinarias que juzguen necesarias su Presidencia, la Dirección General o, a petición de por lo menos, tres de sus integrantes.
+La Junta de Gobierno celebrará sesiones ordinarias, cuando menos, una vez cada tres meses, de conformidad con el calendario aprobado en la primera sesión ordinaria del ejercicio, así como las extraordinarias que juzgue necesarias a propuesta de las personas titulares de la Presidencia de la Junta de Gobierno o de la Dirección General de IMSS-BIENESTAR.
 
-Para la celebración de las sesiones, la convocatoria debe ir acompañada del orden del día y de la documentación correspondiente, y será enviada por la persona titular de la Secretaría Técnica o de la Prosecretaría y recibidos por los integrantes de la Junta de Gobierno y la persona comisaria pública con una anticipación no menor de cinco días hábiles.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+Para la celebración de las sesiones ordinarias, la convocatoria debe ir acompañada del orden del día y de la documentación correspondiente, y será enviada a las personas integrantes e invitadas permanentes por la persona titular de la Secretaría Técnica o de la Prosecretaría con una anticipación no menor de cinco días hábiles.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2024)</small>
 
 En el caso de sesiones extraordinarias, la convocatoria deberá entregarse con una anticipación no menor de dos días hábiles, salvo en casos urgentes señalados así en la propia convocatoria en los que podrá ser de un día hábil, y las sesiones se realizarán exclusivamente para desahogar los temas de la convocatoria.
 
-Cuando exista causa justificada o impedimento para llevar a cabo las sesiones de manera presencial, las mismas podrán ser realizadas a través de medios electrónicos y con previa suscripción del Acta correspondiente tendrán plena validez.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+Las sesiones podrán celebrarse de manera presencial, a través de medios electrónicos o de forma híbrida, teniendo todas plena validez en términos del artículo 13 del presente Estatuto.
 
 En caso de que la sesión no pueda llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles posteriores.
 
@@ -307,31 +349,41 @@ En caso de que la sesión no pueda llevarse a cabo en la fecha programada, deber
 
 Para declarar la validez de las sesiones de la Junta de Gobierno, se requerirá de la asistencia de, por lo menos, la mitad más uno de sus integrantes con derecho a voz y voto. Las resoluciones de la Junta de Gobierno se tomarán por mayoría de votos de los integrantes presentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-La Presidencia, la Secretaría Técnica y, en su caso, la Prosecretaría de la Junta de Gobierno serán los representantes ante dicho órgano de gobierno, así como las unidades y coordinaciones de IMSS-BIENESTAR, por lo que firmarán las actas de las sesiones en las que participen, las copias que deberán expedirse de esas actas y todos los documentos o comunicaciones que emanen de la Junta de Gobierno.
+La Presidencia, la Secretaría Técnica y, en su caso, la Prosecretaría de la Junta de Gobierno, serán representantes de dicho órgano de gobierno y firmarán las actas de las sesiones en las que participen, así como los documentos o comunicaciones que emanen de la Junta de Gobierno.
 
-La Secretaría Técnica, con apoyo de la Prosecretaría, manejará la correspondencia y el archivo de la Junta de Gobierno, así como el libro de actas, las cuales preferentemente serán resguardadas en instalaciones de IMSS-BIENESTAR.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+La Secretaría Técnica, con apoyo de la Prosecretaría, manejará la correspondencia y el archivo de la Junta de Gobierno, el cual será resguardado en instalaciones de IMSS-BIENESTAR.
 
 ###### Artículo 15.
 
 La Secretaría Técnica y, en ausencia de ésta, la Prosecretaría de la Junta de Gobierno, tendrán las siguientes atribuciones:
 
-I. Formular la convocatoria y elaborar el orden del día de las sesiones atendiendo a las propuestas que formulen los miembros de la Junta de Gobierno y la Dirección General.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
+I. Formular y emitir la convocatoria, así como elaborar el orden del día de las sesiones ordinarias y extraordinarias atendiendo a las propuestas que formulen las personas integrantes de la Junta de Gobierno y la Dirección General.
 
-II. Integrar y distribuir a los integrantes de la Junta de Gobierno y a los invitados permanentes, la documentación e información correspondientes a los asuntos que serán tratados en las sesiones, con una anticipación no menor de cinco días hábiles en el caso de ordinarias y no menor de dos días hábiles, para las extraordinarias, salvo en casos urgentes señalados así en la propia convocatoria en los que podrá ser de un día hábil.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+II. Integrar y distribuir a las personas integrantes de la Junta de Gobierno y a las personas invitadas permanentes, la documentación e información correspondientes a los asuntos que serán tratados en las sesiones ordinarias o extraordinarias, en los tiempos establecidos en el artículo 12 del presente Estatuto.
 
 III. Comunicar y llevar el seguimiento de los acuerdos adoptados por la Junta de Gobierno, para los efectos contenidos en éstos.
 
-IV. Elaborar las actas de las sesiones y someterlas a la aprobación de los miembros de la Junta de Gobierno y, en caso de ser aprobadas, se asentarán en el libro de actas que para tal efecto se lleve, debiendo ser firmadas por la Secretaría Técnica o por la Prosecretaría y por la Presidencia para efectos de su formalización.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+IV. Elaborar las actas de las sesiones y someterlas a la aprobación de las personas integrantes de la Junta de Gobierno.
 
 > <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
 
 V. Certificar los acuerdos y documentos en los que consten las resoluciones adoptadas por la Junta de Gobierno, así como los documentos que hayan sido incluidos en las carpetas correspondientes a cada sesión.
 
-VI. Resguardar y controlar los libros de actas y los documentos originales que sustenten los acuerdos adoptados por la Junta de Gobierno.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+VI. Resguardar y controlar las actas, los acuerdos, resoluciones y demás documentos que conformen el archivo de la Junta de Gobierno.
 
 VII. Expedir copias certificadas de los acuerdos de la Junta de Gobierno y de los documentos que los soporten.
 
@@ -345,15 +397,19 @@ IX. Las demás que señalen otras disposiciones jurídicas aplicables, así como
 
 La persona titular de la Dirección General es la autoridad administrativa de mayor jerarquía de IMSS-BIENESTAR y será la representante legal del organismo, teniendo a su cargo la conducción y ejecución de las acciones de este conforme lo establece el Decreto de Creación, este Estatuto y las demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-La persona titular de la Dirección General tendrá, además de las previstas en las disposiciones legales aplicables y en el Decreto de Creación, las atribuciones siguientes:
+La persona Titular de la Dirección General tendrá, además de las previstas en las disposiciones aplicables y en el Decreto de Creación, las facultades siguientes:
 
 I. Ejecutar los acuerdos y resoluciones aprobados por la Junta de Gobierno y, en su caso, informarle de los resultados.
 
 II. Otorgar, sustituir y revocar poderes generales y especiales.
 
-III. Proponer a la Junta de Gobierno el nombramiento o la remoción de las personas que ocuparán los dos niveles inmediatos inferiores al suyo, con excepción de la persona titular de la Unidad Jurídica quien será nombrada por la Consejería Jurídica del Ejecutivo Federal, y la persona titular de la Unidad de Administración y Finanzas que deberá contar con la aceptación de la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+III. Proponer a la Junta de Gobierno el nombramiento o la remoción de las personas que ocuparán los dos niveles inmediatos inferiores al suyo, con excepción de la persona titular de la Unidad Jurídica quien será nombrada por la Consejería Jurídica del Ejecutivo Federal, y a las personas titulares de la Unidad de Administración y Finanzas y sus Coordinaciones, cuyas propuestas deberán apegarse a los requisitos establecidos en las leyes, ordenamientos y lineamientos vigentes emitidos por la Secretaría de Hacienda y Crédito Público.
 
 En su defecto, podrá hacer designaciones de encargados de despacho de las unidades y coordinaciones, quedando las designaciones de los titulares sujetos a la aprobación definitiva de la Junta de Gobierno, de la Consejería Jurídica del Ejecutivo Federal o de la Secretaría de Hacienda y Crédito Público, según corresponda.
 
@@ -361,15 +417,15 @@ IV. Formalizar los nombramientos de las personas que ocuparán los dos niveles i
 
 V. Formular la normatividad interna necesaria para la operación del organismo, así como sus modificaciones y presentarlas a consideración de la Junta de Gobierno.
 
-VI. Suscribir los acuerdos o convenios de colaboración que se celebren con las entidades federativas para la prestación de los servicios de salud a la población objetivo.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-VII. Suscribir convenios y acuerdos con instituciones de cualquier orden de gobierno y organismos no gubernamentales para el cumplimiento de prioridades de atención a favor de la salud de la población objetivo.
+VI. Suscribir los actos jurídicos necesarios para el cumplimiento de los objetivos y atribuciones de IMSS-BIENESTAR.
 
-VIII. Suscribir convenios y acuerdos con instituciones de cualquier orden de gobierno para el intercambio de servicios a personas afiliadas a otras instituciones de salud.
+VII. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2025)
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+VIII. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2025)
 
-IX. Celebrar convenios de colaboración y/o específicos de intercambio de conocimiento y tecnología con instituciones públicas o privadas, nacionales o extranjeras, cuyas actividades resulten afines con el objeto de IMSS-BIENESTAR.
+IX. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2025)
 
 X. Vigilar y ejecutar el cumplimiento del acuerdo de la Junta de Gobierno mediante el cual se autoricen donativos y pagos extraordinarios con apego a las disposiciones normativas aplicables.
 
@@ -379,7 +435,7 @@ XII. Delegar la certificación de los documentos que obren en sus archivos relat
 
 XIII. Rendir el informe anual de actividades a la Junta de Gobierno, así como los informes periódicos que ésta le solicite.
 
-XIV. Celebrar convenios de colaboración con el Instituto Mexicano del Seguro Social para la operación coordinada del Programa IMSS-BIENESTAR de conformidad con sus Reglas de Operación vigentes.
+XIV. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2025)
 
 > <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
@@ -551,15 +607,15 @@ a) (DEROGADO, D.O.F. 15 DE MAYO DE 2024)
 
 VII Bis. COORDINACIÓN DE CALIDAD E INFORMACIÓN ESTRATÉGICA
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-VIII. ÓRGANO INTERNO DE CONTROL ESPECÍFICO
+VIII. ÓRGANO INTERNO DE CONTROL
 
 IX. (DEROGADA, D.O.F. 14 DE FEBRERO DE 2024)
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-El IMSS-BIENESTAR contará con un Órgano Interno de Control Específico, que se regirá conforme a los artículos 58 y 59 del presente Estatuto.
+IMSS-BIENESTAR contará con un Órgano Interno de Control, que se regirá conforme a los artículos 58 y 59 del presente Estatuto.
 
 ###### Artículo 22.
 
@@ -2519,7 +2575,7 @@ Son facultades y atribuciones de la Coordinación de Transparencia y Vinculació
 
 I. Consolidar la información ejecutiva de las distintas unidades y coordinaciones para que la persona titular de la Dirección General presente los avances y resultados de la operación de IMSS-BIENESTAR.
 
-II. Instrumentar el seguimiento de los acuerdos de la Junta de Gobierno de IMSS-BIENESTAR y reportarlo a la Secretaría Técnica de la Junta de Gobierno.
+II. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2025)
 
 III. Fungir como Unidad de Transparencia de IMSS-BIENESTAR y desempeñar las funciones que, al efecto, disponen la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como la demás normativa aplicable en las materias de transparencia, acceso a la información pública y protección de datos personales vigentes.
 
@@ -2619,17 +2675,17 @@ XIV. Desarrollar todas aquellas funciones inherentes al ámbito de su competenci
 
 ### CAPÍTULO I. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN DE IMSS-BIENESTAR
 
-> <small>(F. DE E., D.O.F. 25 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 58.
 
-El Órgano de Vigilancia de IMSS-BIENESTAR, estará integrado por una persona Comisaria o Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes ejercerán las funciones asignadas conforme lo prevén los artículos 60 de la Ley Federal de las Entidades Paraestatales, 16 y 17 del Decreto de Creación, así como las demás disposiciones legales aplicables, conforme a lo previsto en los artículos 91 y 92 del Reglamento Interior de la Secretaría de la Función Pública. Entre estas atribuciones se encuentran las siguientes:
+El Órgano de Vigilancia de IMSS-BIENESTAR, estará integrado por una persona Comisaria Pública propietaria y una suplente, designadas por la Secretaría Anticorrupción y Buen Gobierno, quienes ejercerán las funciones asignadas conforme lo prevén los artículos 60 de la Ley Federal de las Entidades Paraestatales, 16 y 17 del Decreto de Creación, así como las demás disposiciones legales aplicables, entre estas atribuciones se encuentran las siguientes:
 
 I. Vigilar que la administración de los recursos y funcionamiento de IMSS-BIENESTAR se realicen de acuerdo con lo que dispongan los programas y presupuestos aprobados.
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-II. Emitir opinión del dictamen de los estados financieros y las auditorías de carácter administrativo que realicen los auditores externos y el Órgano Interno de Control Específico de IMSS-BIENESTAR.
+II. Emitir opinión del dictamen de los estados financieros y las auditorías de carácter administrativo que realicen los auditores externos y el Órgano Interno de Control en IMSS-BIENESTAR.
 
 III. Recomendar a la Junta de Gobierno y a la persona titular de la Dirección General las medidas preventivas y correctivas convenientes para el mejoramiento administrativo y operativo de IMSS-BIENESTAR y, en su caso, vigilar el cumplimiento de las mismas.
 
@@ -2637,25 +2693,23 @@ IV. Asistir y colaborar con las sesiones de la Junta de Gobierno de conformidad 
 
 V. Opinar sobre el informe de actividades y evaluación que rinda la persona titular de la Dirección General ante la Junta de Gobierno.
 
-La o el Comisario Público Propietario o su suplente asistirán a las sesiones ordinarias y extraordinarias de la Junta de Gobierno con voz, pero sin voto, y a las sesiones de comités y grupos de trabajo especializados a los que sean convocados.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2024)</small>
+La persona titular de la Comisaría Pública propietaria o su suplente asistirán a las sesiones ordinarias y extraordinarias de la Junta de Gobierno con voz, pero sin voto, y a las sesiones de comités y grupos de trabajo especializados a los que sean convocados.
+
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 59.
 
-El IMSS-BIENESTAR contará con un Órgano Interno de Control Específico, al frente del cual habrá un titular que se auxiliará de los titulares de las áreas de Auditoría Interna, Desarrollo y Mejora de la Gestión Pública; Quejas, Denuncias e Investigaciones; y Responsabilidades, mismos que serán designados por la persona titular de la Secretaría de la Función Pública.
+IMSS-BIENESTAR contará con un Órgano Interno de Control, al frente del cual habrá una persona titular que se auxiliará de las áreas de Auditoría, Denuncias e Investigaciones, y Responsabilidades, cuyas personas titulares serán designadas por la persona titular de la Secretaría Anticorrupción y Buen Gobierno.
 
-Las personas servidoras públicas a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, el Reglamento Interior de la Secretaría de la Función Pública, la Ley General de Responsabilidades Administrativas, la Ley Federal de las Entidades Paraestatales y su Reglamento, y demás disposiciones jurídicas aplicables.
+Las personas servidoras públicas a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, el Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno, la Ley General de Responsabilidades Administrativas, la Ley Federal de las Entidades Paraestatales y su Reglamento, y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2024)</small>
+Asimismo, contarán con el personal adscrito a dicho Órgano Interno de Control que figure en su estructura autorizada, conforme a las disposiciones jurídicas aplicables.
 
-Asimismo, contarán con el personal adscrito a dicho Órgano Interno de Control Específico que figure en su estructura autorizada, conforme a las disposiciones jurídicas aplicables.
+IMSS-BIENESTAR proporcionará al Órgano Interno de Control los recursos humanos, materiales, presupuestales y tecnológicos que requiera para la atención de los asuntos a su cargo.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2024)</small>
-
-El IMSS-BIENESTAR proporcionará al Órgano Interno de Control Específico los recursos humanos, materiales, presupuestales y tecnológicos que requiera para la atención de los asuntos a su cargo.
-
-Asimismo, las personas servidoras públicas de IMSS-BIENESTAR están obligadas a atender requerimientos o resoluciones de los titulares antes señalados, conforme a la competencia de éstos.
+Asimismo, las personas servidoras públicas de IMSS-BIENESTAR están obligadas a atender requerimientos o resoluciones del Órgano Interno de Control, conforme a la competencia de este.
 
 ### CAPÍTULO II. DE LAS COMISIONES Y COMITÉS
 
@@ -2837,7 +2891,9 @@ IV. Departamento de Acción Comunitaria.
 
 V. Departamento de Planeación Estratégica.
 
-El Órgano Interno de Control en IMSS-BIENESTAR contará con una representación en las Coordinaciones Estatales, cuya sede será la que determine la Secretaría de la Función Pública y cuya integración y atribuciones son las que determine la persona titular del mismo.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+El Órgano Interno de Control en IMSS-BIENESTAR contará con una representación en las Coordinaciones Estatales, cuya sede será la que determine la Secretaría Anticorrupción y Buen Gobierno y cuya integración y atribuciones son las que determine la persona titular del mismo.
 
 > <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -3346,3 +3402,91 @@ SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de
 TERCERO. Las referencias y atribuciones que se hagan y se otorguen respectivamente en otras disposiciones normativas o administrativas a las Coordinaciones que desaparecen o cambian de denominación por virtud de la presente modificación al Estatuto, se entenderán hechas o conferidas, en su caso, a las Coordinaciones competentes de conformidad con la presente modificación.
 
 CUARTO. Los asuntos que a la entrada en vigor del presente ordenamiento se encuentren en trámite o pendientes de conclusión, deberán ser atendidos por las Coordinaciones competentes de conformidad con este Estatuto, previa formalización de las actas que correspondan en términos de las disposiciones aplicables.
+
+D.O.F. 24 DE NOVIEMBRE DE 2025.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "AVISO MEDIANTE EL CUAL SE DA A CONOCER LA PUBLICACIÓN A LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR".]</small>
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Gobierno de México.- IMSS-BIENESTAR.- Servicios Públicos de Salud.
+
+Lic. Angélica Martínez Heredia, Titular de la Unidad Jurídica de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), con fundamento en lo dispuesto por el artículo 48, fracciones XI y XII del Estatuto Orgánico de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar; previa aprobación de la Junta de Gobierno de IMSS-BIENESTAR, mediante Acuerdo 8ª.E.3.1/0925 dictado en su Octava Sesión Extraordinaria 2025, celebrada en la Ciudad de México, el 25 de septiembre de 2025, he tenido a bien emitir el siguiente:
+
+AVISO MEDIANTE EL CUAL SE DA A CONOCER LA PUBLICACIÓN A LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR”
+
+Denominación: Modificación al Estatuto Orgánico de Servicios de
+
+Salud del Instituto Mexicano del Seguro Social
+
+para el Bienestar.
+
+Emisor: Director General de IMSS-BIENESTAR.
+
+Fundamento Jurídico: Artículos 3o, fracción I y 45 de la Ley Orgánica de
+
+la Administración Pública Federal; 22, fracciones
+
+I y II, 58, fracción VIII, y 59, fracciones I, V y XIV
+
+de la Ley Federal de las Entidades Paraestatales;
+
+1, 12, fracción II y 15, fracciones I, IV y XV del
+
+Decreto por el que se crea el organismo público
+
+descentralizado denominado Servicios de Salud
+
+del Instituto Mexicano del Seguro Social para el
+
+Bienestar (IMSS-BIENESTAR), y 11, fracción I,
+
+17, fracciones V y XIX y 77 del Estatuto Orgánico
+
+de Servicios de Salud del Instituto Mexicano del
+
+Seguro Social para el Bienestar.
+
+Fecha de aprobación por la
+
+Junta de Gobierno de
+
+IMSS-BIENESTAR: 25 de septiembre de 2025.
+
+Objetivo de la Modificación al Mantener actualizado el Estatuto Orgánico
+
+Estatuto Orgánico de Servicios de Servicios de Salud del Instituto Mexicano del
+
+de Salud del Instituto Mexicano Seguro Social para el Bienestar, atendiendo
+
+del Seguro Social para el a las modificaciones de la normativa aplicable.
+
+Bienestar:
+
+Materia: Normativa Interna.
+
+Páginas electrónicas para la https://imssbienestar.gob.mx/assets/doc/juridico/
+
+consulta: 01_normatividad/normatividad_interna/
+
+MODIFICACIÓN%20ESTATUTO%20
+
+ORGANICO%20IMSS-BIENESTAR%
+
+2025-09-2025.pdf
+
+https://www.dof.gob.mx/2025/IMSS-BIENESTAR/
+
+MODIFICACIONESTATUTO_25_09_2025.pdf
+
+## TRANSITORIOS
+
+ÚNICO. El presente Aviso surtirá efectos el día de su publicación en el Diario Oficial de la Federación.
+
+Atentamente
+
+Ciudad de México, a 17 de octubre de 2025.- Titular de la Unidad Jurídica de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), Lic. Angélica Martínez Heredia.- Rúbrica.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR”.]
+
+PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. La presente modificación deberá ser publicada mediante Aviso en el Diario Oficial de la Federación.
