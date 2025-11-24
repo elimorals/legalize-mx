@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-336-para-la-entrega-y-recepcion-del-poder-123947"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-16"
-last_updated: "2017-10-16"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 336 PARA LA ENTREGA Y RECEPCIÓN DEL PODER EJECUTIVO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario 412 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 16 de octubre de 2017.
 
@@ -247,9 +247,11 @@ El dictamen se hará del conocimiento del titular de la Dependencia o Entidad y 
 
 ### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE PREPARACIÓN Y DE LA ENTREGA Y RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 19.
 
-En los casos de conclusión de un período constitucional, el protocolo de Entrega y Recepción se realizará el día primero de enero en que se instale el nuevo Ayuntamiento, en términos de la Constitución Política Local, esta Ley y los documentos que expida el Congreso del Estado durante el mes de mayo anterior, por conducto de su Secretaría de Fiscalización y del Órgano de Fiscalización Superior.
+En los casos de conclusión de un período constitucional, el protocolo de Entrega y Recepción se realizará el día primero de enero en que se instale el nuevo Ayuntamiento, en términos de la Constitución Política Local, la Ley Orgánica del Municipio Libre, esta Ley y los documentos que expida el Congreso del Estado durante el mes de mayo anterior, por conducto de su Secretaría de Fiscalización y del Órgano de Fiscalización Superior.
 
 ###### Artículo 20.
 
@@ -359,9 +361,13 @@ El contenido del acta circunstanciada deberá ser difundido en los medios de com
 
 Concluida la entrega y recepción por cambio de administración, el Ayuntamiento entrante designará una Comisión Especial, de la que deberán formar parte al menos el tesorero, el director de obras públicas y el titular del Órgano Interno de Control, que se encargará de analizar el Expediente de Entrega con la documentación conducente, para formular un dictamen en un plazo de treinta días naturales.
 
-El dictamen se someterá, dentro de los cinco días hábiles siguientes a la consideración del Ayuntamiento, el cual podrá llamar a los ex servidores públicos, para que expresen lo que a su interés convenga, respecto de las observaciones que el dictamen contenga o para solicitar información o documentación complementaria. La respuesta se producirá en un plazo no menor a tres ni mayor a quince días hábiles, contados a partir de que surta efectos la notificación.
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-Hecho lo anterior, dentro de los cinco días hábiles siguientes, el Ayuntamiento emitirá el Acuerdo correspondiente en vía de opinión, que remitirá con el Acta Circunstanciada y el Expediente al Congreso del Estado a través de la Secretaría de Fiscalización, para el efecto de revisión de las Cuentas Públicas municipales.
+El dictamen se someterá, dentro de los cinco días hábiles siguientes, a la consideración del Ayuntamiento, el cual podrá llamar a las personas servidoras públicas de la administración saliente, para que expresen lo que a sus intereses convenga, respecto de las observaciones que el dictamen contenga o para solicitar información o documentación complementaria. El Ayuntamiento en funciones certificará y expedirá los documentos necesarios para complementar la información del expediente de entrega-recepción que soliciten las personas servidoras públicas de la administración saliente, con el fin de aclarar y solventar las observaciones del dictamen. La respuesta se producirá en un plazo no mayor a quince días hábiles, contados a partir de que surta efectos la notificación.
+
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Hecho lo anterior, dentro de los diez días hábiles siguientes, el Ayuntamiento emitirá el Acuerdo correspondiente en vía de opinión, mismo que remitirá al Congreso del Estado, a través de la Secretaría de Fiscalización, adjuntando el Acta Circunstanciada y el expediente, para el efecto de revisión de las Cuentas Públicas Municipales.
 
 ### CAPÍTULO QUINTO. DE LAS OBLIGACIONES Y SANCIONES DE LOS SERVIDORES PÚBLICOS
 
@@ -416,3 +422,13 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 271 QUE REFORMA LOS ARTÍCULOS 19 Y 26 PÁRRAFOS SEGUNDO Y TERCERO DE LA LEY PARA LA ENTREGA Y RECEPCIÓN DEL PODER EJECUTIVO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL Y EL ARTÍCULO 190 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, AMBAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
