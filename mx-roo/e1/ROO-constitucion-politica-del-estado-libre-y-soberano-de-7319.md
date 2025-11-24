@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2025-11-21"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -381,9 +381,9 @@ La correspondencia que bajo cualquier forma circule en el Estado, estará exenta
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-El derecho de acceso a la información pública y la protección de datos personales será garantizado por los órganos encargados del control interno y vigilancia u homólogos de los poderes Ejecutivo, Legislativo y Judicial, municipios, así como de los órganos públicos autónomos del Estado y demás sujetos obligados, conforme los principios y bases establecidos en el artículo 6º de la Constitución Política de los Estados Unidos Mexicanos y la Ley General en materia de transparencia y acceso a la información pública y protección de datos personales, en los términos en que esta se emita por el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
+El derecho de acceso a la información pública y la protección de datos personales será garantizado por los órganos encargados del control interno y vigilancia u homólogos de los poderes Ejecutivo, Legislativo y Judicial, así como de los órganos públicos autónomos del Estado, conforme los principios y bases establecidos en el artículo 6º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y sus homólogos en el Estado así como demás disposiciones jurídicas aplicables.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
 
@@ -409,13 +409,13 @@ Los sujetos obligados deberán documentar todo acto que derive del ejercicio de 
 
 II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los Sujetos Obligados contarán con las facultades suficientes para su atención.
 
-Por lo que hace a la información relacionada con los datos personales en posesión de particulares, la ley determinará la competencia para conocer los procedimientos relativos a su protección, verificación e imposición de sanciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 III.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-IV. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante los órganos encargados del control interno y vigilancia u homólogos de los poderes Ejecutivo, Legislativo y Judicial, municipios, así como de los órganos públicos autónomos del Estado y demás sujetos obligados, en los términos que fije la ley. Además, estarán obligados a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información y la protección de datos personales, así como el ejercicio de las atribuciones que determine la ley.
+IV. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante los órganos encargados del control interno y vigilancia u homólogos de los poderes Ejecutivo, Legislativo y Judicial, así como de los órganos públicos autónomos del Estado, en los términos que fije la ley. Además, estarán obligados a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información y la protección de datos personales, así como el ejercicio de las atribuciones que determine la ley.
 
 V.- Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
@@ -433,9 +433,9 @@ VII.- La inobservancia a las disposiciones en materia de acceso a la informació
 
 VIII. Los sujetos obligados deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizarán los derechos de transparencia, acceso a la información pública y la protección de datos personales, la rendición de cuentas, la participación ciudadana y la colaboración e innovación. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-Toda autoridad y persona servidora pública estará obligada a coadyuvar con las autoridades de control interno y vigilancia u homólogos para el buen desempeño de sus funciones.
+Toda autoridad y persona servidora pública estará obligada a coadyuvar con las autoridades garantes en materia de transparencia, acceso a la información pública y protección de datos personales en posesión de sujetos obligados para el buen desempeño de sus funciones.
 
 ###### ARTICULO 22.
 
@@ -1105,9 +1105,7 @@ De igual forma, el Instituto Electoral de Quintana Roo, podrá coadyuvar en la o
 
 El Instituto Electoral de Quintana Roo, contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del Instituto se guíen por los principios rectores de la función estatal electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad; se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente y concurrirán, con voz pero sin voto, un representante de cada partido político y un Secretario Ejecutivo.
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
-
-El Instituto Electoral de Quintana Roo tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y protección de datos personales a cargo de los partidos políticos estatales; también conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los partidos políticos estatales en los términos que establezca la ley.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -2373,9 +2371,7 @@ Para el despacho de los negocios del orden administrativo, habrá el número de 
 
 La función conciliatoria en materia laboral a que se refiere el tercer párrafo del artículo 97 de esta Constitución, estará a cargo del Centro de Conciliación Laboral del Estado, el cual tendrá personalidad jurídica y patrimonio propios, será especializado e imparcial, contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. El Centro de Conciliación Laboral del Estado se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en la ley correspondiente. La designación y remoción de la persona Titular del Centro de Conciliación Laboral del Estado, serán realizadas libremente por la persona Titular del Poder Ejecutivo
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
-
-El Centro de Conciliación Laboral del Estado tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y protección de datos personales a cargo de los Sindicatos Estatales y conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones que estos emitan, en los términos que establezca la Ley.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
@@ -6810,3 +6806,9 @@ P.O. 21 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 153 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES.DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
