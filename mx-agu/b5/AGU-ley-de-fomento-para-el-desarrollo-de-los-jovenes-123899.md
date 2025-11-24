@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-para-el-desarrollo-de-los-jovenes-123899"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-16"
-last_updated: "2023-06-26"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de octubre de 2017.
 
@@ -193,9 +193,17 @@ IX.- Fomentar, promover y desarrollar programas de capacitación para el manejo 
 
 X.- Promover programas de microcréditos para jóvenes emprendedores;
 
-XI.- Coordinar los proyectos que en materia regulatoria, estímulos y coinversiones se lleven a cabo para el cumplimiento de lo propuesto en la presente Ley; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-XII.- Promover la entrega del Premio Anual al Mejor Emprendedor, el cual se hará acreedor a un estímulo económico o en especie, mismo que se deberá destinar a su proyecto de inversión.
+XI.- Coordinar los proyectos que, en materia regulatoria, estímulos y coinversiones se lleven a cabo para el cumplimiento de lo propuesto en la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XII.- Celebrar convenios de colaboración con empresas, instituciones académicas y asociaciones civiles, con el objeto de generar estímulos, incentivos o reconocimientos dirigidos a las personas jóvenes emprendedoras del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XIII.- Promover la entrega del Premio Anual al Emprendimiento Sobresaliente, destinado a reconocer a personas físicas o morales constituidas por socios o accionistas jóvenes, cuya iniciativa emprendedora haya generado un impacto económico, social o ambiental relevante en el Estado, mediante un estímulo económico o en especie, el cual deberá destinarse al proyecto de inversión del beneficiario, conforme a las reglas de operación que para tal efecto se emitan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -382,3 +390,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 303.- SE REFORMA LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Desarrollo Económico, Ciencia y Tecnología deberá emitir las Reglas de Operación del Premio Anual al Emprendimiento Sobresaliente, dentro de un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto.
