@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-para-el-estado-de-aguascalientes-168852"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-27"
-last_updated: "2025-09-30"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario Número 60 del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
 
@@ -949,9 +949,11 @@ IV. Se trate de la sustitución de un concesionario por revocación o extinción
 
 La excepción a la licitación que realice deberá autorizarse de manera fundada y motivada, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Entidad Federativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 69.
 
-Las concesiones sobre inmuebles de dominio público, salvo excepciones previstas en otras leyes, podrán otorgarse por un periodo mínimo de 5 años y hasta por un período máximo de 20 años, el cual podrá ser prorrogado una o varias veces sin exceder el citado período, atendiendo tanto para su otorgamiento como para sus prórrogas, a lo siguiente:
+Las concesiones sobre inmuebles de dominio público, salvo excepciones previstas en otras leyes, podrán otorgarse por un período mínimo de 5 años y hasta por un período máximo de 30 años, el cual podrá ser prorrogado una o varias veces sin exceder el citado período, atendiendo tanto para su otorgamiento como para sus prórrogas, a lo siguiente:
 
 I. El monto de la inversión que el concesionario pretenda aplicar;
 
@@ -1856,3 +1858,15 @@ El Poder Ejecutivo del Estado, por conducto de la Secretaría de Administración
 ###### ARTÍCULO CUARTO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 325.- SE REFORMA LA LEY DE BIENES PARA EL ESTADO DEAGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin. efectos todas aquellas disposiciones que se opongan al presente Decreto.
