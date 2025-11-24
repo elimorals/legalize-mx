@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2025-10-20"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -3577,9 +3577,13 @@ El Síndico del Ayuntamiento entrante levantará acta circunstanciada de la entr
 
 Concluida la entrega y recepción, el Ayuntamiento entrante designará una Comisión Especial, de la que deberán formar parte, al menos, el tesorero, el director de obras públicas y el titular del órgano de control interno municipal, y la que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo de treinta días naturales.
 
-El dictamen se someterá, dentro de los quince días naturales siguientes, al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a los servidores públicos de la administración anterior, para que expresen lo que a su interés convenga, respecto de las observaciones que el dictamen contenga o para solicitar información o documentación complementaria. La respuesta se producirá en un plazo no menor a setenta y dos horas, contado a partir de la notificación.
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, en vía de opinión y, dentro de los quince días naturales siguientes, remitirá copia del expediente de entrega y recepción al Congreso del Estado a través de la Secretaria de Fiscalización, para el efecto de revisión de las cuentas públicas municipales.
+El dictamen se someterá, dentro de los cinco días hábiles siguientes, a la consideración del Ayuntamiento, el cual podrá llamar a las personas servidoras públicas de la administración saliente, para que expresen lo que a sus intereses convenga, respecto de las observaciones que el dictamen contenga o para solicitar información o documentación complementaria. El Ayuntamiento expedirá los documentos necesarios para la integración del expediente de entrega-recepción que soliciten las personas servidoras públicas de la administración saliente que correspondan. La respuesta se producirá en un plazo no mayor a quince días hábiles, contados a partir de que surta efectos la notificación.
+
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Hecho lo anterior, dentro de los diez días hábiles siguientes, el Ayuntamiento emitirá el Acuerdo correspondiente en vía de opinión, mismo que remitirá al Congreso del Estado, a través de la Secretaría de Fiscalización, adjuntando el Acta Circunstanciada y el expediente, para el efecto de revisión de las Cuentas Públicas Municipales.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -4642,6 +4646,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 20 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 263 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 271 QUE REFORMA LOS ARTÍCULOS 19 Y 26, PÁRRAFOS SEGUNDO Y TERCERO DE LA LEY PARA LA ENTREGA Y RECEPCIÓN DEL PODER EJECUTIVO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; Y EL ARTÍCULO 190 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, AMBAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
