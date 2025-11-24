@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2025-11-10"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -833,9 +833,9 @@ En la audiencia se recibirán, admitirán y desahogarán las pruebas que proceda
 
 El juez tendrá hasta veinticuatro horas para dictar resolución donde confirme, modifique o revoque la medida u orden de protección, atendiendo al peligro existente, el tipo de medida implementada y al interés superior de la víctima.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-Las órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
+Las ordenes de protección tendrán una duración mínima de treinta días y una máxima de sesenta días, que podrán ser prorrogables por treinta días más o por el tiempo que dure la investigación o prolongarse hasta que se cese la situación de riesgo para la víctima.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2025)</small>
 
@@ -2290,6 +2290,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 281.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 304.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
