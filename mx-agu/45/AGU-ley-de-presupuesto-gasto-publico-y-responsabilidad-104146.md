@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2025-06-16"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -776,6 +776,48 @@ b) Las previsiones salariales y económicas para cubrir los incrementos salarial
 ###### Artículo 22 Quáter.
 
 Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales del Estado. Para el caso de los Municipios, los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales del respectivo Municipio.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 22 Quinquies.
+
+Las Dependencias y Entidades podrán realizar todos los trámites necesarios para llevar a cabo contrataciones de adquisiciones, arrendamientos y servicios, así como de obra pública y servicios relacionados con la misma, con el objeto de que los recursos se ejerzan oportunamente a partir del inicio del ejercicio fiscal correspondiente.
+
+Las Dependencias y Entidades podrán solicitar a la Secretaría autorización especial para convocar, adjudicar y, en su caso, formalizar tales contratos, cuya vigencia inicie en el ejercicio fiscal siguiente de aquel en el que se solicite, con base en los anteproyectos de presupuesto, sin que esto implique una ampliación presupuestaria.
+
+Las Dependencias y Entidades deberán ceñirse a su presupuesto asignado en el Proyecto de Presupuesto de Egresos del Estado, por lo que la autorización que en su caso emita la Secretaría no debe considerarse como autorización de una ampliación presupuestaria.
+
+Asimismo, los contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes. Esta condición deberá preverse de forma expresa en los contratos respectivos.
+
+Las Dependencias y/o Entidades deberán informar al proveedor una vez que se confirme la disponibilidad de los recursos presupuestarios, y serán responsables de realizar las gestiones necesarias ante la Secretaría, con la debida anticipación, previo al inicio de la vigencia de los instrumentos jurídicos.
+
+La autorización especial de la Secretaría se deberá realizar conforme a lo siguiente:
+
+I. Las personas titulares de las Dependencias y Entidades solicitarán la autorización, siempre que se justifique que, por la importancia y características de las adquisiciones, arrendamientos y servicios, así como de obra pública y servicios relacionados con la misma, deban comenzar a partir del ejercicio fiscal siguiente, o bien que generarán mayores beneficios. Dichas contrataciones deberán estar previstas para iniciar durante el primer trimestre del ejercicio fiscal siguiente.
+
+La referida solicitud deberá incluir lo siguiente:
+
+a) La justificación de que se requiere iniciar con el arrendamiento, o la recepción de los bienes y servicios o el inicio de los trabajos en el caso de obra pública y servicios relacionados con la misma dentro del primer trimestre del ejercicio fiscal siguiente.
+
+b) La partida o partidas que se afectarían para sufragar dichos pagos, con el desglose del gasto correspondiente para cada una de ellas.
+
+c) En el caso de obra pública y servicios relacionados con la misma, una vez que la Secretaría emita la autorización especial, deberá solicitar a la SEPLADE el informe de pertinencia.
+
+II. Para las modificaciones en monto o vigencia de contratos de arrendamiento de bienes, prestación de servicios, o de adquisición de bienes de insumos para la salud celebrados bajo el ámbito de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios que requieran de continuidad una vez concluido un ejercicio fiscal, siempre y cuando la ampliación de vigencia no exceda el primer trimestre del ejercicio fiscal siguiente, las Dependencias y Entidades a través de sus titulares podrán solicitar la autorización especial de la Secretaría, la cual deberá incluir:
+
+a) La justificación de que se requiere continuidad en la contratación ya que el arrendamiento o prestación de servicio resulta indispensable para no interrumpir la operación regular de la Dependencia o Entidad, o en su caso, los insumos para la salud sean necesarios para garantizar la misma;
+
+b) La vigencia de la solicitud de ampliación;
+
+c) La aclaración de que el precio de los bienes o servicios no sufre modificaciones; y
+
+d) Desglose del gasto correspondiente.
+
+El ejercicio y pago de dichas contrataciones quedarán sujetos a la disponibilidad presupuestaria del ejercicio fiscal siguiente de acuerdo a lo que apruebe el Congreso. Lo anterior deberá ser notificado al proveedor, siendo responsabilidad de las Dependencias y/o Entidades que soliciten la autorización referida en esta fracción realizar las gestiones correspondientes ante la Secretaría.
+
+En caso de que la Secretaría otorgue la autorización para los efectos señalados en las fracciones I y II del presente artículo, y que para su ejecución se requiera alguna reasignación y/o adecuación presupuestaria, las Dependencias y/o Entidades deberán, solicitar o realizar directamente dichas modificaciones con cargo a sus respectivos presupuestos, de conformidad con el Presupuesto de Egresos autorizado por el Congreso para el ejercicio fiscal correspondiente. Para tal efecto, deberán observar las disposiciones aplicables en la materia.
+
+La Secretaría emitirá la autorización especial prevista en este artículo en los términos de las fracciones I y II, en un plazo máximo de 10 días hábiles a partir de su presentación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -1924,3 +1966,15 @@ P.O. 16 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 324.- SE ADICIONA EL ARTÍCULO 22 QUINQUIES A LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
