@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-la-junta-de-gobierno-de-los-172088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-03-14"
-last_updated: "2024-06-17"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2024-02-13"
 ---
 # REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.dof.gob.mx/2024/IMSS-BIENESTAR/Modificacion_Reglamento_Sesiones_JuntadeGobierno_IMSS-BIENESTAR_17_04_2024.pdf]</small>
+> <small>[N. DE E. MODIFICACIÓN AL REGLAMENTO OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: https://www.dof.gob.mx/2025/IMSS-BIENESTAR/MODIFICACION_RELGLAMENTODESESIONES_JG_25_09_2025.pdf]</small>
 
 REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR), EN LA PÁGINA DE INTERNET INSTITUCIONAL DE IMSS-BIENESTAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE NOVIEMBRE DE 2025.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 14 de marzo de 2024.
 
@@ -137,63 +137,93 @@ REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS "SERVICIOS DE SALUD DEL IN
 
 Las disposiciones contenidas en el presente Reglamento tienen por objeto regular el desarrollo de las sesiones de la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), así como la actuación de sus integrantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 2.
 
-Además de las definiciones contenidas en el Estatuto Orgánico del IMSS-BIENESTAR, para los efectos de este Reglamento se entenderá por:
+Además de las definiciones contenidas en el Estatuto, para los efectos de este Reglamento se entenderá por:
 
-I. Decreto de creación: El Decreto por el que se crea el organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), publicado en el Diario Oficial de la Federación el 31 de agosto de 2022.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-II. Personas integrantes: Las personas que conforman la Junta de Gobierno del IMSS-BIENESTAR en términos del artículo 11 del Decreto de creación.
+I. Decreto de Creación: El Decreto por el que se crea el organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR).
 
-III. Personas invitadas ocasionales: Las personas representantes de otras dependencias y entidades de la Administración Pública Federal, los Poderes Legislativo y Judicial, órganos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía o cualquier institución pública o privada, así como de titulares de unidad y coordinadores del IMSS-BIENESTAR propuestos por la persona titular de la Dirección General, que por su experiencia o trayectoria contribuyan al análisis de algún tema abordado al interior de ésta, teniendo derecho a voz pero no a voto, quienes serán elegidas mediante acuerdo de la propia Junta.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-IV. Reglamento: El Reglamento de Sesiones de la Junta de Gobierno del IMSS-BIENESTAR.
+II. Personas Integrantes: Las personas que conforman la Junta de Gobierno de IMSS-BIENESTAR en términos del artículo 11 del Decreto de Creación.
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+III. Personas Invitadas Ocasionales: Las personas representantes de otras dependencias y entidades de la Administración Pública Federal, los Poderes Legislativo y Judicial, órganos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía o cualquier institución pública o privada, así como titulares de las Unidades y Coordinaciones de IMSS-BIENESTAR propuestos por la persona titular de la Dirección General, cuya participación se estime pertinente por parte de la Junta de Gobierno y que por su experiencia o trayectoria contribuyan al análisis de algún tema abordado al interior de ésta, teniendo derecho a voz pero no a voto.
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+IV. Reglamento: El Reglamento de Sesiones de la Junta de Gobierno de los “Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar” (IMSS-BIENESTAR).
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+V. Estatuto: Estatuto Orgánico de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA Y ATRIBUCIONES
 
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-La Junta de Gobierno estará integrada de la siguiente manera:
+La Junta de Gobierno se integrará por las personas titulares de:
 
-I. Presidente: Persona titular del Instituto Mexicano del Seguro Social.
+I. La Secretaría de Salud, quien la presidirá;
 
-II. Vocales:
+II. La Secretaría de Hacienda y Crédito Público;
 
-a) Persona titular de la Secretaría de Salud.
+III. La Secretaría del Trabajo y Previsión Social;
 
-b) Persona titular de la Secretaría de Hacienda y Crédito Público.
+IV. La Secretaría de Bienestar;
 
-c) Persona titular de la Secretaría del Trabajo y Previsión Social.
+V. La Subsecretaría de Integración Sectorial y Coordinación de Servicios de Atención Médica de la Secretaría de Salud;
 
-d) Persona titular de la Secretaría de Bienestar.
+VI. La Subsecretaría de Políticas de Salud y Bienestar Poblacional de la Secretaría de Salud;
 
-e) Cuatro representantes de los órganos normativos del Instituto Mexicano del Seguro Social, designados por la persona titular de dicho instituto.
+VII. La Subsecretaría de Egresos de la Secretaría de Hacienda y Crédito Público;
 
-f) Un presentante (sic) del sindicato mayoritario al que estén afiliados los trabajadores.
+VIII. La Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto de la Secretaría de Hacienda y Crédito Público;
 
-III. Invitados:
+IX. La Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad de la Secretaría de Salud;
 
-a) Invitados permanentes: persona representante de la comisaría pública y la persona titular de la Dirección General del IMSS-BIENESTAR.
+X. El Instituto Mexicano del Seguro Social;
 
-b) Invitados ocasionales.
+XI. Tres órganos normativos del Instituto Mexicano del Seguro Social, a los que se refiere el reglamento interior de dicho instituto, que al efecto designe la persona titular de la Dirección General;
 
-Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto, la persona que presida la Junta tendrá además voto de calidad en caso de empate. Los invitados de la Junta tienen derecho a voz sin voto.
+XII. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y
+
+XIII. Un representante del Sindicato mayoritario al que estén afiliados los trabajadores de IMSS-BIENESTAR.
+
+Todas ellas con derecho a voz y voto, teniendo el voto de calidad la persona titular de la Presidencia de la Junta de Gobierno en caso de empate.
+
+Son personas invitadas permanentes, el Órgano de Vigilancia integrado por la persona Comisaria Pública designada por la Secretaría Anticorrupción y Buen Gobierno y la persona titular de la Dirección General de IMSS-BIENESTAR, las cuales asistirán a las sesiones con derecho a voz, pero sin voto.
+
+Cuando la Junta de Gobierno lo estime pertinente, podrán asistir a las sesiones personas con carácter de Personas Invitadas Ocasionales en términos de lo previsto en el Estatuto, las cuales tendrán derecho a voz, pero sin voto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 4.
 
-Los Integrantes de la Junta de Gobierno contarán con un suplente el cual fungirá como integrante en las ausencias de aquellos. Para tal efecto, la acreditación de su nombramiento deberá realizarse preferentemente en la celebración de la Primera Sesión Ordinaria de cada año o, en su caso, antes de celebrarse la sesión a la que fueron convocados. Las suplencias se realizarán mediante oficio de designación considerando los términos previsto en los artículos 11 del Decreto de Creación y el artículo 10 del Estatuto Orgánico del IMSS-BIENESTAR, el cual deberá ser notificado a la persona titular de la Secretaría Técnica.
+Las Personas Integrantes de la Junta de Gobierno contarán con una persona suplente la cual fungirá como integrante en las ausencias de aquellas. Para tal efecto, la acreditación de su nombramiento deberá realizarse preferentemente en la celebración de la Primera Sesión Ordinaria de cada año o, en su caso, antes de celebrarse la sesión a la que fueron convocados. Las suplencias se realizarán mediante oficio de designación considerando los términos previstos en los artículos 11 del Decreto de Creación y 10 del Estatuto, el cual deberá ser dirigido a la Presidencia de la Junta de Gobierno.
 
 Todo nombramiento contrario a lo dispuesto en este artículo se entenderá como no realizado, y la presencia de esa persona representante o suplente en la sesión no contabilizará para efectos de la conformación del quórum para sesionar.
 
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-Los nombramientos de los integrantes de la Junta de Gobierno deberán inscribirse en el Registro Público de Organismos Descentralizados.
+Los nombramientos de las Personas Integrantes de la Junta de Gobierno deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 ### CAPÍTULO III. DE LA PERSONA TITULAR DE LA PRESIDENCIA DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 6.
 
-La persona titular de la Presidencia de la Junta de Gobierno, además de contar con las atribuciones propias de un integrante, tendrá las siguientes:
+La persona titular de la Presidencia de la Junta de Gobierno, además de contar con las atribuciones propias de una Persona Integrante, tendrá las siguientes:
 
 I. Dar inicio y concluir las sesiones de la Junta de Gobierno.
 
@@ -213,9 +243,13 @@ VIII. Firmar las actas de sesión de la Junta de Gobierno.
 
 Fracción modificada JG 28-11-2023
 
-IX. Realizar, a través de la persona titular de la Secretaría Técnica, la invitación a especialistas en temas específicos a las sesiones de la Junta de Gobierno, con el objeto de que aporten elementos, datos y experiencias sobre los temas a tratar.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-X. Las demás que le confiera el Decreto de creación, el Estatuto Orgánico del IMSS-BIENESTAR, este Reglamento y otras disposiciones que resulten aplicables.
+IX. Realizar, a través de la persona titular de la Secretaría Técnica, la invitación a Personas Invitadas Ocasionales a las sesiones de la Junta de Gobierno, con el objeto de que aporten elementos, datos y experiencias sobre los temas a tratar.
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+X. Las demás que le confiera el Decreto de Creación, el Estatuto, este Reglamento y otras disposiciones que resulten aplicables.
 
 ###### Artículo 7.
 
@@ -227,29 +261,39 @@ En los casos en los que la persona titular de la Presidencia de la Junta de Gobi
 
 La persona titular de la Secretaría Técnica y, en ausencia de ésta, la persona titular de la Prosecretaría de la Junta de Gobierno, tendrán las siguientes atribuciones:
 
-I. Formular la convocatoria y elaborar el orden del día de las sesiones atendiendo a las propuestas que formulen los miembros de la Junta de Gobierno y la Dirección General.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2024)</small>
+I. Formular y emitir la convocatoria, así como elaborar el orden del día de las sesiones ordinarias y extraordinarias, atendiendo a las propuestas que formulen las Personas Integrantes de la Junta de Gobierno y la Dirección General.
 
-II. Integrar y distribuir a los integrantes de la Junta de Gobierno y a los invitados permanentes, la documentación e información correspondiente a los asuntos que serán tratados en las sesiones, con anticipación no menor de cinco días hábiles a la celebración de la sesión ordinaria, y no menor de dos días hábiles, para las extraordinarias, salvo en casos urgentes señalados así en la propia convocatoria en los que podrá ser de un día hábil.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+II. Integrar y distribuir a las Personas Integrantes de la Junta de Gobierno y a las personas invitadas permanentes, la documentación e información correspondiente a los asuntos que serán tratados en las sesiones, ordinarias o extraordinarias, en los tiempos establecidos en el presente Reglamento.
 
 III. Conceder el uso de la palabra y moderar las sesiones.
 
 IV. Someter a consideración de las personas asistentes a cada sesión si los temas del orden día han sido suficientemente discutidos.
 
-V. Someter a votación de las personas integrantes de la Junta de Gobierno los proyectos de acuerdo y resoluciones, así como cualquier otro asunto, y dar a conocer el resultado de la votación.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+V. Someter a votación de las Personas Integrantes de la Junta de Gobierno los proyectos de acuerdo y resoluciones, así como cualquier otro asunto, y dar a conocer el resultado de la votación.
 
 VI. Comunicar los acuerdos adoptados por la Junta de Gobierno, para los efectos contenidos en éstos e informar sobre el cumplimiento de los mismos en cada sesión ordinaria, o cuando lo solicite alguna de las personas integrantes o invitadas permanentes.
 
-VII. Elaborar las actas de las sesiones y someterlas a la aprobación de los miembros de la Junta de Gobierno y, en caso de ser aprobadas, asentarlas en el libro de actas que para tal efecto se lleve, debiendo ser firmadas por la persona titular de la Secretaría Técnica o por la persona titular de la Prosecretaría y por la persona titular de la Presidencia para efectos de su formalización.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2024)</small>
+VII. Elaborar las actas de las sesiones y someterlas a la aprobación de las Personas Integrantes de la Junta de Gobierno en la siguiente sesión ordinaria y, en caso de ser aprobadas, deberán ser firmadas por la persona titular de la Secretaría Técnica o Prosecretaría y por la persona titular de la Presidencia para efectos de su formalización.
 
-VIII. Certificar los acuerdos y documentos en los que consten las resoluciones adoptadas por la Junta de Gobierno, así como los documentos que hayan sido incluidos en las carpetas correspondientes a cada sesión.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-IX. Resguardar y controlar los libros de actas y los documentos originales que sustenten los acuerdos adoptados por la Junta de Gobierno.
+VIII. Certificar, después de cada sesión, los acuerdos y documentos en los que consten las resoluciones adoptadas por la Junta de Gobierno.
 
-X. Expedir copias certificadas de los acuerdos de la Junta de Gobierno y de los documentos que los soporten.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+IX. Resguardar y controlar las actas, los acuerdos, resoluciones y demás documentos que conformen el archivo de la Junta de Gobierno.
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+X. Expedir copias certificadas de todos los documentos o comunicaciones que emanen de la Junta de Gobierno o que obren en su archivo.
 
 XI. Apoyar a la Junta de Gobierno en el desempeño de sus atribuciones.
 
@@ -283,7 +327,9 @@ VIII. Dar seguimiento a los acuerdos que se adopten en la Junta de Gobierno, y p
 
 IX. Organizar y operar el archivo documental de la Junta de Gobierno.
 
-X. Mantener actualizados los nombramientos de la Junta de Gobierno.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+X. Coadyuvar con la persona titular de la Secretaría Técnica a mantener actualizados los nombramientos de la Junta de Gobierno.
 
 XI. Suplir las ausencias temporales de la persona titular de la Secretaría Técnica en la Junta de Gobierno.
 
@@ -293,13 +339,21 @@ XIII. Las demás que le encomienden la persona titular de la Presidencia y la pe
 
 ### CAPÍTULO V. DE LAS PERSONAS INTEGRANTES DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 11.
 
-Las personas integrantes de la Junta de Gobierno tendrán las siguientes atribuciones:
+Las Personas Integrantes de la Junta de Gobierno tendrán las siguientes atribuciones:
 
 I. Asistir a las sesiones de la Junta de Gobierno, por sí o a través de su suplente.
 
-II. Notificar a la Presidencia de la Junta de Gobierno, a través de escrito oficial, y en ejercicio de las atribuciones que le correspondan en caso de ser representante titular del Poder Ejecutivo Federal, la designación de una persona suplente para que asista en su lugar a las sesiones de la Junta de Gobierno en los casos en los que no pueda acudir personalmente, que deberá contar con un nivel jerárquico mínimo de Dirección General o su equivalente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+II. Designar, mediante escrito oficial dirigido a la Presidencia de la Junta de Gobierno, a una persona suplente para que asista en su lugar a las sesiones de la Junta de Gobierno en los casos en los que no pueda acudir personalmente, la cual deberá contar con un nivel jerárquico mínimo de Dirección General o su equivalente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+La persona Integrante a que se refiere la fracción XIII del artículo 3 del presente Reglamento, será suplida por quien designe la organización sindical que nombró a la persona representante titular y deberá comunicarse por escrito previo a la realización de la sesión.
 
 III. Analizar, previo a cada sesión, el orden del día y el contenido de los documentos relativos a los asuntos a tratar, y en su caso, emitir las observaciones y los comentarios correspondientes.
 
@@ -315,11 +369,11 @@ VIII. Solicitar que su opinión particular se inserte en el acta cuando disienta
 
 IX. Emitir observaciones al proyecto de acta que exponga la persona titular de la Secretaría Técnica, así como aprobar el mismo.
 
-X. Recibir una copia certificada de las actas de las sesiones de la Junta de Gobierno en las que participen.
+X. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2025)
 
-Fracción modificada JG 28-11-2023
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-XI. Las demás que les confiera el Decreto de creación, el Estatuto orgánico, este Reglamento y otras disposiciones que resulten aplicables.
+XI. Las demás que les confiera el Decreto de Creación, el Estatuto, este Reglamento y otras disposiciones que resulten aplicables.
 
 ### CAPÍTULO VI. DE LAS PERSONAS INVITADAS PERMANENTES DE LA JUNTA DE GOBIERNO
 
@@ -329,49 +383,71 @@ Son atribuciones de las personas invitadas permanentes de la Junta de Gobierno l
 
 I. Asistir a las sesiones de la Junta de Gobierno.
 
-II. Designar, de ser el caso, a una persona representante suplente para que asista en su lugar a las sesiones de la Junta de Gobierno, cuando no pueda acudir personalmente.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-III. Analizar, previo a cada sesión, el orden del día y el contenido de los documentos sobre los asuntos a tratar y, en su caro (sic), emitir las observaciones y comentarios que resulten pertinentes.
+II. Designar mediante escrito oficial dirigido a la Presidencia de la Junta de Gobierno, a una persona suplente para que asista en su lugar a las sesiones de la Junta de Gobierno, en los casos en que no pueda acudir personalmente, la cual deberá contar con un nivel jerárquico mínimo de Dirección General o su equivalente.
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+III. Analizar, previo a cada sesión, el orden del día y el contenido de los documentos sobre los asuntos a tratar y, en su caso, emitir las observaciones y comentarios que resulten pertinentes.
 
 IV. Participar libremente en las discusiones sobre los asuntos y temas que se traten en las sesiones.
 
 V. Emitir observaciones al proyecto de acta que exponga la persona titular de la Secretaría Técnica.
 
-VI. Recibir una copia certificada de las actas de las sesiones de la Junta de Gobierno en las que participen.
+VI. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2025)
 
-Fracción modificada JG 28-11-2023
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-VII. Las demás que les confiera el Decreto de creación, el Estatuto orgánico, este Reglamento y otras disposiciones que resulten aplicables.
+VII. Las demás que les confiera el Decreto de Creación, el Estatuto, este Reglamento y otras disposiciones que resulten aplicables.
 
-En el caso de la persona Comisaria Pública designada por la Secretaría de la Función Pública, esta tendrá las atribuciones que establece el artículo 60 de la Ley Federal de las Entidades Paraestatales, el Decreto de creación y el Estatuto, entre las que se encuentran, las siguientes:
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES SEGUNDO PÁRRAFO DEL ARTÍCULO 12], D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-I. Vigilar que la administración de los recursos y funcionamiento del IMSS-BIENESTAR se realicen de acuerdo con lo que dispongan los programas y presupuestos aprobados.
+###### Artículo 12 Bis.
 
-II. Emitir opinión del dictamen de los estados financieros y las auditorías de carácter administrativo que realicen los auditores externos y el Órgano Interno de Control del IMSS-BIENESTAR.
+La persona Comisaria Pública designada por la Secretaría Anticorrupción y Buen Gobierno, como Órgano de Vigilancia en IMSS-BIENESTAR, tendrá las atribuciones que establecen los artículos 60 de la Ley Federal de las Entidades Paraestatales y 30 de su Reglamento, el Decreto de Creación y el Estatuto, entre las que se encuentran, las siguientes:
 
-III. Recomendar a la Junta de Gobierno y a la persona titular de la Dirección General las medidas preventivas y correctivas convenientes para el mejoramiento administrativo y operativo del IMSS-BIENESTAR, y en su caso, vigilar el cumplimiento de las mismas.
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN I DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 12, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+I. Vigilar que la administración de los recursos y funcionamiento de IMSS-BIENESTAR se realicen de acuerdo con lo que dispongan los programas y presupuestos aprobados.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN II DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 12, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+II. Emitir opinión del dictamen de los estados financieros y las auditorías de carácter administrativo que realicen los auditores externos y el Órgano Interno de Control en IMSS-BIENESTAR.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN III DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 12, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+III. Recomendar a la Junta de Gobierno y a la persona titular de la Dirección General las medidas preventivas y correctivas convenientes para el mejoramiento administrativo y operativo de IMSS BIENESTAR y, en su caso, vigilar el cumplimiento de las mismas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN IV DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 12, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 IV. Asistir y colaborar con las sesiones de la Junta de Gobierno de conformidad con la normatividad aplicable.
 
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN V DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 12, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 V. Opinar sobre el informe de actividades y evaluación que rinda la persona titular de la Dirección General ante la Junta de Gobierno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 13.
 
-Las personas integrantes de la Junta de Gobierno, podrán sugerir invitar a sus sesiones a otras personas que, por su trayectoria en la sociedad civil, en la academia o en cualquier otro ámbito, o por su responsabilidad en la Administración Pública, pudieran contribuir al análisis de las temáticas abordadas al interior de dicho órgano colegiado, asimismo, la persona titular de la Dirección General podrá sugerir invitar a titulares de unidad y coordinadores del IMSS-BIENESTAR.
+Las Personas Integrantes de la Junta de Gobierno, podrán sugerir invitar a Personas Invitadas Ocasionales, asimismo, la persona titular de la Dirección General podrá sugerir invitar a titulares de las Unidades y Coordinaciones de IMSS-BIENESTAR.
 
-En cualquier supuesto de los anteriores, las personas invitadas deberán ser nombradas por la Junta de Gobierno, tendiendo derecho a voz pero no a voto en sus sesiones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 14.
 
-La persona titular de la Presidencia de la Junta de Gobierno, en el mes de junio de cada año informará a las personas titulares de las dependencias y entidades de la Administración Pública Federal que participan en dicho órgano colegiado, de las inasistencias de las personas que las representan en la Junta de Gobierno, a fin de que dichas instancias adopten las medidas pertinentes
+(DEROGADO, D.O.F. 24 DE NOVIEMBRE DE 2025)
 
 ## TÍTULO SEGUNDO
 
 ### CAPÍTULO I. DEL FUNCIONAMIENTO DE LAS SESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Las sesiones que celebre la Junta de Gobierno podrán ser ordinarias o extraordinarias, de forma presencial o remota y podrán tener la modalidad de públicas o cerradas.
+Las sesiones que celebre la Junta de Gobierno podrán ser ordinarias o extraordinarias, de manera presencial, a través de medios electrónicos o híbridas y podrán tener la modalidad de públicas o cerradas.
 
 Las sesiones ordinarias son aquellas que se realizan conforme al calendario de sesiones aprobado por la Junta de Gobierno en la primera sesión de cada año y serán convocadas, con una anticipación no menor a cinco días hábiles a la celebración de la reunión.
 
@@ -379,29 +455,41 @@ Las sesiones ordinarias son aquellas que se realizan conforme al calendario de s
 
 Las sesiones extraordinarias son aquellas que se lleven a cabo cuando sea necesario resolver cualquier asunto considerado de importancia para el desarrollo de las funciones y objetivos, o que sea considerado de naturaleza urgente, y serán convocadas con una anticipación no menor de dos días hábiles a la celebración de la misma, salvo en casos urgentes señalados así en la propia convocatoria en los que podrá ser de un día hábil, anexando a la convocatoria la información soporte para la realización de la sesión.
 
-Las sesiones serán preferentemente de forma presencial; sin embargo, se podrán realizar sesiones remotas cuando la persona titular de la Presidencia de la Junta así lo solicite en la convocatoria, o mediante solicitud que formulen cuando menos tres de los integrantes de la misma. La convocatoria o la solicitud deberán ir debidamente motivadas y justificadas para explicar la necesidad de hacer de forma remota la sesión.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-Las sesiones serán públicas cuando se invite a que asistan personas que no sean miembros de la Junta de Gobierno. Los invitados ocasionales se sujetarán a lo dispuesto en este Reglamento.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-Las sesiones cerradas serán aquellas en las que únicamente podrán participar los integrantes de la Junta de Gobierno, sin la presencia de otras personas, a excepción de quien resulte estrictamente indispensable citar para el desahogo de los asuntos.
+Las sesiones serán públicas cuando se invite a que asistan personas que no sean parte de la Junta de Gobierno o de IMSS-BIENESTAR. Las Personas Invitadas Ocasionales se sujetarán a lo dispuesto en este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+Las sesiones cerradas serán aquellas en las que únicamente podrán participar las Personas Integrantes de la Junta de Gobierno, sin la presencia de otras personas, a excepción de las personas titulares de las Unidades y Coordinaciones de IMSS-BIENESTAR que sean necesarias para el desahogo de los asuntos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-Para que la Junta de Gobierno pueda sesionar, es necesario que estén presentes más de la mitad de sus integrantes con derecho a voz y voto, incluido la persona titular de la Presidencia.
+Para que la Junta de Gobierno pueda sesionar, es necesario que estén presentes más de la mitad de las Personas Integrantes con derecho a voz y voto, incluida la persona titular de la Presidencia.
 
 La persona titular de la Secretaría Técnica determinará la existencia del quórum, el día y hora fijados para la sesión, asentándolo en el acta respectiva.
 
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-El calendario de sesiones de la Junta de Gobierno será público a través de la página oficial del IMSS-BIENESTAR, una vez aprobado por la Junta de Gobierno.
+El calendario de sesiones de la Junta de Gobierno será público a través de la página oficial de IMSS-BIENESTAR, una vez aprobado por la Junta de Gobierno.
+
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 18.
 
-La convocatoria a sesión de la Junta de Gobierno, además de lo previsto en el artículo 12 del Estatuto, deberá contener el día y la hora en que se celebrará, el carácter de la misma, es decir, si es ordinaria o extraordinaria, presencial o remota, así como un proyecto del orden del día, y la documentación que les dé soporte, en su caso.
+La convocatoria a sesión de la Junta de Gobierno, además de lo previsto en el artículo 12 del Estatuto, deberá contener el día y la hora en que se celebrará, el carácter de la misma, es decir, si es ordinaria o extraordinaria, presencial, a través de medios electrónicos o híbrida, así como el orden del día, y la documentación que les dé soporte, en su caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 19.
 
-Los integrantes que requieran incluir temas a la sesión ordinaria por celebrarse deberán remitir sus solicitudes por lo menos con 15 días de anticipación a la fecha de su realización conforme al calendario de sesiones aprobado por la Junta de Gobierno. La solicitud deberá incluir por lo menos los siguientes elementos:
+Las Personas Integrantes que requieran incluir temas a la sesión ordinaria por celebrarse deberán remitir sus solicitudes por lo menos con 15 días de anticipación a la fecha de su realización conforme al calendario de sesiones aprobado por la Junta de Gobierno. La solicitud deberá incluir por lo menos los siguientes elementos:
 
 I. Asunto o asuntos a tratar.
 
@@ -409,45 +497,59 @@ II. Motivación y fundamentación de su inclusión
 
 III. Presentación del proyecto de acuerdo.
 
-Los asuntos que sean sometidos a consideración de la Junta de Gobierno deberán contar con la opinión y visto bueno correspondiente por parte de la Unidad Jurídica del IMSS-BIENESTAR.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
-Párrafo adicionado JG 28-11-2023
+Los asuntos que sean sometidos a consideración de la Junta de Gobierno deberán contar con la opinión y visto bueno correspondiente por parte de la Unidad Jurídica de IMSS-BIENESTAR.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 20.
 
-Al inicio de cada sesión, la persona titular de la Presidencia de la Junta de Gobierno dará instrucción a la persona titular de la Secretaría Técnica para que realice la lectura al contenido del orden del día, en cuyo rubro de asuntos generales podrá incluirse alguna temática a solicitud de cualquiera de las personas integrantes e invitadas permanentes de la Junta de Gobierno.
+Al inicio de cada sesión, la persona titular de la Presidencia de la Junta de Gobierno dará instrucción a la persona titular de la Secretaría Técnica para que realice la lectura al contenido del orden del día. Para el caso de las sesiones ordinarias, en el rubro de asuntos generales podrá incluirse alguna temática a solicitud de cualquiera de las Personas Integrantes e invitadas permanentes de la Junta de Gobierno.
 
-Las personas que presiden la Junta de Gobierno y la Dirección General del IMSS- BIENESTAR podrán convocar a sesiones extraordinarias, la convocatoria deberá establecer la motivación y fundamentación de la misma. En las sesiones extraordinarias sólo podrán desahogarse los asuntos por los cuales fueron convocadas.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+Las personas titulares de la Presidencia de la Junta de Gobierno y de la Dirección General de IMSS-BIENESTAR podrán proponer la celebración de sesiones extraordinarias, en cuyo caso, la convocatoria deberá establecer la motivación y fundamentación de la misma. En las sesiones extraordinarias sólo podrán desahogarse los asuntos por los cuales fueron convocadas.
 
 ###### Artículo 21.
 
 Una vez leído y aprobado el orden del día, se procederá a la discusión y votación de los asuntos contenidos en el mismo, consultándose si fuere el caso, la dispensa de la lectura de los documentos relacionados con el asunto, siempre y cuando hayan sido previamente enviados con la convocatoria correspondiente.
 
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-Para la discusión de los asuntos a abordarse en cada sesión, la persona titular de la Secretaría Técnica cederá la palabra ordenadamente a las personas vocales, invitadas permanentes, y en su caso a las invitadas de ese órgano colegiado, y definirá si los asuntos fueron suficientemente discutidos, para proceder a la votación correspondiente y adoptar el acuerdo o resolución que corresponda.
+Para la discusión de los asuntos a abordarse en cada sesión, la persona titular de la Secretaría Técnica cederá la palabra ordenadamente a las Personas Integrantes, invitadas permanentes y, en su caso, a las Invitadas Ocasionales, y definirá si los asuntos fueron suficientemente discutidos, para proceder a la votación correspondiente y adoptar el acuerdo o resolución que corresponda.
 
 ###### Artículo 23.
 
 Lo previsto en los artículos 20 y 21 no será impedimento para que la propia Junta de Gobierno acuerde posponer la discusión y votación de algún asunto en particular contenido en el orden del día.
 
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 24.
 
-Las actas, acuerdos y resoluciones de las sesiones de la Junta de Gobierno serán publicadas en la página oficial del IMSS-BIENESTAR en formato accesible.
+Las actas de las sesiones de la Junta de Gobierno serán publicadas en la página oficial de IMSS-BIENESTAR en formato accesible.
+
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 25.
 
-La persona titular de la Secretaría Técnica, con apoyo de la persona titular de la Prosecretaría, manejará la correspondencia y el archivo de la Junta de Gobierno, así como el libro de actas, las cuales preferentemente serán resguardadas en instalaciones del IMSS-BIENESTAR.
+La persona titular de la Secretaría Técnica, con apoyo de la persona titular de la Prosecretaría, manejará la correspondencia y el archivo de la Junta de Gobierno, las cuales serán resguardadas en instalaciones de IMSS-BIENESTAR.
 
 ### CAPITULO II. DEL DIFERIMIENTO DE LAS SESIONES
 
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 26.
 
-La persona titular de la Presidencia de la Junta de Gobierno podrá diferir la sesión en los casos en los que no se lograre reunir el quórum previsto en el artículo 13 del Estatuto y 16 de este Reglamento, debiéndose establecer la nueva fecha para la celebración dentro de los quince días hábiles siguientes de acontecido el suceso. Dicha situación se hará constar en el acta de la sesión correspondiente.
+La persona titular de la Presidencia de la Junta de Gobierno podrá diferir la sesión en los casos en los que no se lograre reunir el quórum previsto en el artículo 13 del Estatuto y 16 de este Reglamento, debiéndose establecer la nueva fecha para la celebración dentro de los cinco y quince días hábiles siguientes de acontecido el suceso. Dicha situación se hará constar en el acta de la sesión correspondiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 27.
 
-La persona titular de la Presidencia de la Junta de Gobierno podrá suspender la sesión en los supuestos en los que dejen de prevalecer las condiciones que garanticen su buen desarrollo o la libre expresión de las ideas. Dicha suspensión podrá ser por cuestión de horas o días, en cuyo caso se señalará la hora exacta o la fecha en que se reanudará la sesión, según corresponda. Si la suspensión de la sesión es por días, el diferimiento de la misma no deberá exceder de los quince días hábiles siguientes de acontecido el suceso. Cualquiera que sea el tipo de suspensión, se hará constar dicha situación en el acta correspondiente.
+La persona titular de la Presidencia de la Junta de Gobierno podrá suspender la sesión en los supuestos en los que dejen de prevalecer las condiciones que garanticen su buen desarrollo o la libre expresión de las ideas. Dicha suspensión podrá ser por cuestión de horas o días, en cuyo caso se señalará la hora exacta o la fecha en que se reanudará la sesión, según corresponda. Si la suspensión de la sesión es por días, se deberá establecer la nueva fecha para la celebración dentro de los cinco y los quince días hábiles siguientes de acontecido el suceso. Cualquiera que sea el tipo de suspensión, se hará constar dicha situación en el acta correspondiente.
 
 ###### Artículo 28.
 
@@ -455,7 +557,9 @@ Los diferimientos de sesiones por horas serán formalizados por la persona titul
 
 Por su parte, en los casos de diferimiento de la sesión por falta de quórum o por suspensión de la misma por cuestión de días, la persona titular de la Secretaría Técnica informará la nueva fecha para la celebración de la sesión a través de correo electrónico, incluyendo a las personas que no asistieron, a más tardar en los dos días hábiles siguientes del anuncio formulado por la persona titular de la Presidencia de la Junta de Gobierno.
 
-Sin perjuicio de lo señalado en el párrafo anterior, la persona titular de la Secretaría Técnica estará en posibilidad de enviar recordatorios, a través de correo electrónico, a las personas vocales, personas invitadas permanentes e invitadas de la Junta de Gobierno, una vez que se aproxime la nueva fecha en que se celebrará o continuará la sesión.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
+Sin perjuicio de lo señalado en el párrafo anterior, la persona titular de la Secretaría Técnica estará en posibilidad de enviar recordatorios, a través de correo electrónico, a las Personas Integrantes, personas invitadas permanentes e Invitadas Ocasionales de la Junta de Gobierno, una vez que se aproxime la nueva fecha en que se celebrará o continuará la sesión.
 
 La persona titular de la Secretaría Técnica podrá adoptar una forma de envío diversa a la prevista en el presente artículo, acorde con los avances en los sistemas y las tecnologías de la información y la comunicación, cuando el caso lo amerite.
 
@@ -467,9 +571,11 @@ En los casos de diferimiento de la sesión por días, la persona titular de la P
 
 ### CAPÍTULO ÚNICO. DE LAS MODIFICACIONES AL REGLAMENTO
 
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 30.
 
-Las propuestas de modificaciones al presente Reglamento podrán ser formuladas por la persona titular de la Presidencia, así como por cualquiera de las personas integrantes e invitadas permanentes de la Junta de Gobierno, requiriéndose para su aprobación de la presencia de las tres cuartas partes de las personas integrantes de la Junta de Gobierno.
+Las propuestas de modificaciones al presente Reglamento podrán ser formuladas por la persona titular de la Presidencia, así como por cualquiera de las Personas Integrantes e invitadas permanentes de la Junta de Gobierno, requiriéndose para su aprobación de la presencia de las tres cuartas partes de las Personas Integrantes de la Junta de Gobierno.
 
 El Reglamento de Sesiones de la Junta de Gobierno de los “Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar” fue aprobado por la Junta de Gobierno de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), en su Primera Sesión Extraordinaria de 2022, mediante Acuerdo 1ª. E.03/1122, en la Ciudad de México a 26 de noviembre de 2022.
 
@@ -520,3 +626,49 @@ Ciudad de México, a 20 de mayo de 2024.- Director General Servicios de Salud de
 PRIMERO. La presente modificación al Reglamento de Sesiones de la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) entrará en vigor en la fecha de su aprobación por la Junta de Gobierno.
 
 SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación a través de un Aviso.
+
+D.O.F. 24 DE NOVIEMBRE DE 2025.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO MEDIANTE EL CUAL SE DA A CONOCER LA PUBLICACIÓN A LA “MODIFICACIÓN AL REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
+
+AVISO MEDIANTE EL CUAL SE DA A CONOCER LA PUBLICACIÓN A LA “MODIFICACIÓN AL REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)”
+
+Denominación:
+
+Modificación al Reglamento de Sesiones de la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR).
+
+Emisor:
+
+Director General de IMSS-BIENESTAR.
+
+Fundamento Jurídico:
+
+Artículos 3o, fracción I y 45 de la Ley Orgánica de la Administración Pública Federal; 22, fracciones I y II, y 59, fracciones I y XIV de la Ley Federal de las Entidades Paraestatales; 1 y 15, fracciones I, IV y XX del Decreto por el que se crea el organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), y 17, fracción XIX del Estatuto Orgánico de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar.
+
+Fecha de aprobación por la Junta de Gobierno de IMSS-BIENESTAR:
+
+25 de septiembre de 2025.
+
+Objetivo de la Modificación al Reglamento de Sesiones de la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR):
+
+Regular el desarrollo de las sesiones de la Junta de Gobierno de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar, así como la actuación de sus integrantes, conforme a la modificación al Decreto de Creación del Organismo.
+
+Materia:
+
+Normativa Interna.
+
+Páginas electrónicas para la consulta:
+
+https://imssbienestar.gob.mx/assets/doc/juridico/01_normatividad/normatividad_interna/MODIFICACION%20REGLAMENTO%20SESIONES%20JG%2025-09-2025.pdf
+
+https://www.dof.gob.mx/2025/IMSS-BIENESTAR/MODIFICACION_RELGLAMENTODESESIONES_JG_25_09_2025.pdf
+
+## TRANSITORIOS
+
+ÚNICO. El presente Aviso surtirá efectos el día de su publicación en el Diario Oficial de la Federación.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS "SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR" (IMSS-BIENESTAR)”.]
+
+PRIMERO. La presente modificación al Reglamento de Sesiones de la Junta de Gobierno de los “Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar” (IMSS-BIENESTAR) entrará en vigor en la fecha de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. Ordénese la publicación de las presentes modificaciones mediante Aviso en el Diario Oficial de la Federación.
