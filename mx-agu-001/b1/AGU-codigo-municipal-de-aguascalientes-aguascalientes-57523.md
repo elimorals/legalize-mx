@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2025-09-30"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 30 DE SEPTIEMBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -8885,11 +8885,11 @@ Las horas que excedan de la jornada laboral normal se retribuirán como tiempo e
 
 La Jornada laboral del personal operativo deberá determinarse por destacamento, delegación, unidad o grupo especial, debiendo notificarse tal circunstancia a los integrantes cuando menos con cuarenta y ocho horas de anticipación. En ningún caso podrá asignarse a persona alguna un horario distinto de manera individualizada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 567.
 
-La legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos son principios de actuación que las personas integrantes operativas de la Secretaría deben observar invariablemente en el desempeño de sus funciones, con el más alto sentido de la disciplina y compromiso de servicio hacia la comunidad, respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, este Código y demás disposiciones legales aplicables.
+La legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos son principios de actuación que las personas integrantes operativas de la Secretaría deben observar invariablemente en el desempeño de sus funciones, con el más alto sentido de la disciplina y compromiso de servicio hacia la comunidad, respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Púbica del Estado de Aguascalientes, este Código y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8899,27 +8899,39 @@ A. De primer nivel:
 
 I. Abstenerse, dentro o fuera del servicio, de todo acto que constituya delito doloso, así como de solicitar y aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente y de hacer uso de sus atribuciones para lucrar u obtener beneficio por medio del tráfico de influencias;
 
-II. Respetar y hacer que se respeten los símbolos patrios;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-III. Obedecer las órdenes que con motivo del desempeño de sus funciones, reciba de su superior jerárquico o de quien ejerzan sobre él atribuciones de mando evitando todo acto u omisión que produzca deficiencia en su cumplimiento, respondiendo sobre la ejecución de las órdenes directas que reciba, a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
+II. Hacer uso diferenciado de la fuerza, de manera legal, congruente, oportuna, proporcional, de acuerdo a la estricta necesidad y con respeto a los derechos humanos, apegándose a las disposiciones normativas establecidas;
 
-IV. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Secretaría dentro o fuera del servicio;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+III. Realizar la detención de una persona conforme a los requisitos previstos en los ordenamientos constitucionales y legales aplicables e inscribirla al Registro Nacional de Detenciones.
+
+IV. (DEROGADA, P.O. 24 DE NOVIEMBRE DE 2025)
 
 V. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozca y bajo ninguna circunstancia dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes, o cualquier otra información reservada o confidencial;
 
-VI. Velar por la vida e integridad física de las personas detenidas, las cuales se encuentran bajo su más estricta responsabilidad desde el momento de la detención hasta la recepción final de la puesta a disposición ante la autoridad competente;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+VI. Prestar sus servicios de manera personal, quedando prohibido delegar a terceros o permitir que personas ajenas a la Secretaría realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar funciones del servicio;
 
-VII. Tomar las medidas de protección y aseguramiento respecto de personas en situación de discapacidad, notoriamente intoxicados, personas extraviadas, o de niñas, niños y adolescentes, debiendo en todo caso, inmediatamente hacer del conocimiento y/o poner a disposición de las instancias o autoridades competentes;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-VIII. Detener a los probables responsables de hechos delictivos e infractores que sorprendan en el momento en que esté cometiendo un delito o falta administrativa o inmediatamente después de haberlo cometido, los que pondrán a disposición ante la autoridad competente en forma inmediata, asimismo entregarán un inventario con la descripción detallada de los objetos asegurados a los mismos;
+VII. Tomar las medidas de protección y aseguramiento respecto de personas con discapacidad, notoriamente intoxicados, personas extraviadas o menores de edad, debiendo en todo caso, inmediatamente hacer del conocimiento y/o poner a disposición de las instancias o autoridades competentes;
 
-IX. Prestar sus servicios de manera personal, quedando prohibido delegar a terceros o permitir que personas ajenas a la Secretaría realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar funciones del servicio;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Abstenerse de realizar todo acto de abuso de autoridad;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+IX. No permitir y, en su caso, evitar que personas ajenas a la Institución realicen actos inherentes a las atribuciones que tengan encomendadas o se hagan acompañar de dichas personas al realizar actos propios del servicio;
 
 X. Ejecutar los mandamientos judiciales y ministeriales, así como poner a disposición del Ministerio Público que corresponda, los objetos o instrumentos que aseguren a particulares relacionados con hechos delictivos, elaborar el informe policial homologado de los hechos que tenga conocimiento, comparecer a rendir informes y declaraciones que soliciten las autoridades;
 
-XI. Abstenerse de todo acto de abuso de autoridad, acoso sexual y de limitar injustificadamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales con carácter pacífico sean realizadas por las personas, salvo que con ella se ataque la moral o lesionen los derechos de terceros, provoquen algún delito o se altere el orden público;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XI. Abstenerse de realizar actos de acoso u hostigamiento sexual;
 
 XII. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate, de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, como urgencia de las investigaciones, o cualquier otra; al conocimiento de dichas circunstancias, las deberá denunciar ante la autoridad competente;
 
@@ -8927,11 +8939,13 @@ XIII. Atender con diligencia la solicitud de informe, queja o auxilio de la pers
 
 XIV. Realizar la vigilancia y resguardo de las personas y bienes que les sean encargados bajo custodia por la autoridad competente, mediante orden debidamente fundada y motivada;
 
-XV. Someterse a evaluaciones periódicas para acreditar el cumplimiento de los requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
+XV. (DEROGADA, P.O. 24 DE NOVIEMBRE DE 2025)
 
-XVI. Obtener y mantener actualizado su certificado único policial;
+XVI. (DEROGADA, P.O. 24 DE NOVIEMBRE DE 2025)
 
-XVII. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros, así como de sustraer ocultar, alterar o dañar información o bienes en perjuicio de las instituciones;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros, así como de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de la Institución;
 
 XVIII. Abstenerse de introducir a las instalaciones de la Secretaría bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
 
@@ -8945,55 +8959,99 @@ XXII. Abstenerse de disparar el arma de fuego, salvo que sea estrictamente neces
 
 XXIII. Abstenerse de intervenir en operativos o acciones que impliquen un conflicto de interés, debido a los vínculos de amistad, parentesco, negocios, enemistad o animadversión que existan entre su persona y aquella o aquellas que esté obligado a proteger, detener, inspeccionar, custodiar o someter a cualquier actividad con motivo de sus funciones. Tratándose de una detención o intervención urgente en la que sea el primer respondiente, se concretará a realizar las acciones imprescindibles para que no se produzca la evasión de los responsables o el perjuicio de un tercero, así como prestar la atención necesaria a las víctimas en tanto acude el apoyo;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-XXIV. Abstenerse de faltar a su servicio injustificadamente por más de quince ocasiones en un periodo natural de un año;
+XXIV. Abstenerse de cometer, participar, tolerar o encubrir violaciones graves a los derechos humanos, actos de discriminación, violencia contra las mujeres, los niños, niñas y adolescentes, personas adultas mayores y otros grupos vulnerables, así como el abuso o maltrato animal;
 
-XXV. Abstenerse de ostentar una actitud negligente e indiferente en el servicio o fuera de él; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XXV. Abstenerse de ostentar una actitud negligente e indiferente en el servicio o fuera de él y que este represente un peligro a sí mismo, a la vida, integridad o a patrimonio;
 
 XXVI. Abstenerse de convocar o participar en cualquier práctica de rebeldía o indisciplina en contra del mando o alguna otra autoridad.
 
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XXVII. Hacer uso de la fuerza de manera proporcional, racional, congruente, oportuna, de acuerdo a la estricta necesidad y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a la Ley Nacional sobre el Uso de la Fuerza, así como a las demás disposiciones normativas y administrativas aplicables, realizándose conforme a derecho;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XXVIII. Promover, respetar, proteger y garantizar los derechos humanos en el ejercicio de sus funciones;
+
 B. De segundo nivel:
 
-I. Registrar en una bitácora de forma detallada y cronológica todos los datos de importancia que incidan en sus actividades y comisiones, como son: fecha, hora, personas implicadas, descripción del hecho y demás circunstancias que impliquen el aprovechamiento de la información;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-II. Registrar en el informe policial homologado los datos de las actividades e investigaciones que realice; así como inscribir las detenciones en el Registro Administrativo correspondiente conforme a las disposiciones aplicables;
+I. Respetar y hacer que se respeten los símbolos patrios;
 
-III. Utilizar los protocolos de investigación y de cadena de custodia que establezcan los manuales emitidos por la Comisión de Normatividad Interna, así como actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de indicios y evidencias;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+II. Registrar en el informe policial homologado los datos de las actividades e investigaciones que realice;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+III. Utilizar los protocolos de investigación y de cadena de custodia conforme a la normativa aplicable;
 
 IV. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-V. Actuar con la decisión necesaria y sin demora en la protección de las personas, en sus derechos y sus bienes, procurando que sea congruente, oportuna y proporcional al hecho.
-
-Tratándose de actos de violencia de género, se evitará el contacto directo entre el infractor y la denunciante,
+V. Actuar con la decisión necesaria y sin demora en la protección de las personas, en sus derechos y sus bienes, procurando que sea congruente, oportuna y proporcional al hecho. Tratándose de actos de violencia de género, se evitará el contacto directo entre el infractor y la denunciante;
 
 VI. Impedir la ejecución de actos contrarios a la moral y a la tranquilidad pública, así como los demás que tiendan a dañar a personas, animales o cosas;
 
-VII. Abstenerse de ordenar o realizar la detención de personas sin cumplir con los requisitos previstos, en los ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-VIII. Apoyar a las autoridades correspondientes que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
+VII. Detener a los probables responsables de hechos delictivos e infractores que sorprendan en el momento en que esté cometiendo un delito o falta administrativa o inmediatamente después de haberlo cometido, los que pondrán a disposición ante la autoridad competente en forma inmediata, asimismo entregarán un inventario con la descripción detallada de los objetos asegurados a los mismos;
 
-IX. Informar al superior inmediato y a la autoridad correspondiente de manera inmediata las omisiones, actos indebidos o constitutivos de delito, así como las violaciones al presente Código, de su superior jerárquico, de sus subordinados o iguales en categoría jerárquica;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-X. Respetar la circunscripción asignada a su operación, sujetándose a las delimitaciones territoriales establecidas, a excepción de los casos en que resulte indispensable para la eficiente y eficaz prestación del servicio de seguridad pública;
+VIII. Apoyar a las autoridades correspondientes que así se lo soliciten en la investigación y persecución de delitos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+IX. Informar al superior inmediato y a la autoridad correspondiente de manera inmediata las omisiones, actos indebidos o constitutivos de delito, así como las violaciones al presente Código, del personal perteneciente a las Instituciones de Seguridad Pública;
+
+X. (DEROGADA, P.O. 24 DE NOVIEMBRE DE 2025)
 
 XI. Tomar las medidas de seguridad y de orden urgentes que sean necesarias en casos de emergencia, incendios, accidentes, inundaciones, siniestros y en general, toda clase de catástrofes;
 
-XII. Apegarse a los procedimientos que se establecen en el Reglamento del Sistema Integral de Desarrollo Policial;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XII. Apegarse a los procedimientos que se establecen en el Reglamento de Desarrollo Policial para el Municipio de Aguascalientes;
 
 XIII. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso de ellos sólo en el desempeño del servicio, debiendo reportar de inmediato cualquier falla, descompostura o daño al titular de la unidad administrativa a que pertenezca. El uso de las armas se reservará exclusivamente para actos del servicio o capacitación que así lo demanden;
 
 XIV. Abstenerse de abandonar el servicio o la comisión que desempeñe antes de que llegue su relevo o bien atender asuntos de índole personal sin la autorización correspondiente;
 
-XV. Abstenerse de tomar parte activa durante el desempeño de su servicio en cualquier tipo de actividades de carácter político o religioso; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XV. Abstenerse de tomar parte activa durante el desempeño de su servicio en cualquier tipo de actividades de carácter político o religioso;
 
 XVI. Abstenerse de realizar en cualquier forma la comisión de un delito culposo o falta administrativa;
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
 
 XVII. Abstenerse de favorecer o fomentar la conciliación o reconciliación en casos de violencia de género y violencia familiar en particular, independientemente del parentesco o relación de los involucrados.
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Prestar el auxilio necesario a la ciudadanía ante situaciones de grave riesgo, catástrofes o desastres;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XIX. Cumplir con diligencia las órdenes que conforme a derecho reciban con motivo del desempeño de sus funciones y evitar actos u omisiones que produzcan deficiencia en su cumplimiento; siempre que estas no resulten ambiguas, contrarias a derecho, a los derechos humanos y a la dignidad de las personas;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XX. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Secretaría dentro o fuera del servicio;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XXI. Abstenerse de limitar injustificadamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales con carácter pacífico sean realizadas por las personas, salvo que con ella se ataque la moral o lesionen los derechos de terceros, provoquen algún delito o se altere el orden público;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XXII. Hacer uso adecuado de los dispositivos tecnológicos proporcionados para el servicio conforme a lo establecido a los manuales correspondientes.
 
 C. De tercer nivel:
 
@@ -9027,11 +9085,31 @@ XIII. Hacer uso racional y responsable de los vehículos de emergencia, así com
 
 XIV. Portar el uniforme con toda dignidad y pulcritud, de acuerdo a lo que establezca el manual respectivo;
 
-XV. Evitar faltar a su servicio sin causa justificada;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-XVI. Hacer uso diferenciado de la fuerza, de manera legal, congruente, oportuna, proporcional, de acuerdo a la estricta necesidad y con respeto a los derechos humanos, apegándose a las disposiciones normativas establecidas; y
+XV. Respetar la circunscripción asignada a su operación, sujetándose a las delimitaciones territoriales establecidas, a excepción de los casos en que resulte indispensable para la eficiente y eficaz prestación del servicio de seguridad pública;
 
-XVII. Las demás que establezcan las disposiciones legales aplicables.
+XVI. (DEROGADA, P.O. 24 DE NOVIEMBRE DE 2025)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XVII. Proporcionar y autorizar un domicilio para las notificaciones que en su caso pudiera realizar la Secretaría de Seguridad Pública del Municipio de Aguascalientes, mismo que deberá actualizarlo o confirmarlo cada seis meses;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Abstenerse de ostentar una actitud negligente e indiferente en el servicio o fuera de él;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XIX. Cumplir con diligencia las órdenes que conforme a derecho reciban con motivo del desempeño de sus funciones, por parte de su superior jerárquico o de quien ejerzan sobre él atribuciones de mando, evitando todo acto u omisión que produzca deficiencia en su cumplimiento, respondiendo sobre la ejecución de las órdenes directas que reciba, a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XX. Respetar la línea de mando en las solicitudes o acciones que realice con motivo del desempeño de sus funciones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XXI. Las demás que establezcan las disposiciones legales aplicables; Las demás que establezcan las disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -9095,7 +9173,9 @@ a) Persuasión o disuasión verbal: consiste en la utilización de palabras o ge
 
 b) Reducción física de movimientos: consiste en la utilización de técnicas de control sin la utilización de armas u objetos, a efecto de controlar a la persona que se ha resistido y ha obstaculizado que el integrante cumpla con sus funciones;
 
-c) Utilización de armas no letales: consiste en la utilización de instrumentos que incapacitan momentáneamente el movimiento, tales como el bastón PR-24, tolete o su equivalente, sustancias irritantes en aerosol, esposas o candados de mano, esto a fin de controlar y reducir la resistencia violenta de una persona; y
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+c) Utilización de armas no letales: consiste en la utilización de instrumentos que incapacitan momentáneamente el movimiento, tales como el bastón PR-24, tolete o su equivalente, sustancias irritantes en aerosol, dispositivos eléctricos, esposas o candados de mano, esto a fin de controlar y reducir la resistencia violenta de una persona; y
 
 d) Utilización de fuerza letal: consiste en la utilización de armas de fuego para su defensa legítima o la de terceros a los que tengan el deber de proteger.
 
@@ -9127,27 +9207,49 @@ Cuando la autoridad competente solicite la intervención de los integrantes oper
 
 ### CAPÍTULO II. Sanciones y Correctivos Disciplinarios
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 24 DE NOVIEMBRE DE 2025, PÁGINAS DE LA 14 A LA 15.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 572.
 
-Para los integrantes operativos de la Secretaría, se considera falta, cualquier conducta contraria a los principios de actuación y obligaciones previstas en este libro. Tomando en consideración la gravedad de la falta, se aplicarán las siguientes sanciones y correctivos disciplinarios:
+Para los integrantes operativos de la Secretaría, se considera falta, cualquier conducta contraria a los principios de actuación y obligaciones previstas en este libro. Tomando en consideración la gravedad de la falta, se aplicarán las siguientes correctivos disciplinarios y sanciones. Son correctivos disciplinarios, los siguientes:
 
-I. Amonestación: Advertencia que se realiza al integrante infractor por la acción incorrecta, u omisión en el desempeño de los principios de actuación y obligaciones, exhortándole a no reincidir en las conductas motivo de la sanción;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-II. Arresto: consiste en el confinamiento del integrante operativo dentro de las instalaciones de la Secretaría, realizando actividades que se le comisionen. Dicho correctivo disciplinario se tendrá que cumplir independientemente de la jornada laboral y cumpliendo con los horarios establecidos, al término de los cuales, si no ha concluido con dicho arresto, se concentrará en su unidad administrativa para concluirlo. El arresto deberá hacerse y notificarse inmediatamente por escrito especificando el motivo, fundamento, lugar y duración del mismo, y no podrá exceder de treinta y seis horas. En caso de no ser notificado de esta manera y dentro de las seis horas posteriores al término de su turno, se entenderá que la sanción ha concluido;
+I. Amonestación escrita;
 
-III. Suspensión Temporal: Consistente en la interrupción de la relación jurídica existente entre el integrante infractor y la Secretaría, sin goce de sueldo, la cual no excederá de noventa días hábiles.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-Una vez notificada la suspensión, el integrante infractor deberá entregar inmediatamente, a quien designe el Secretario, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones. Concluida la suspensión, el integrante comparecerá ante el titular de la unidad administrativa de su adscripción, a quien informará por escrito de su reincorporación al servicio;
+II. Disculpa pública, o
 
-IV. Degradación: descenso en el nivel jerárquico y los derechos inherentes que ostenta el integrante operativo, que se determina por el incumplimiento a las obligaciones propias de su función; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-V. Remoción: destitución definitiva del integrante operativo de la Secretaría, de conformidad con las disposiciones relativas al régimen disciplinario.
+III. Trabajo en favor de la comunidad.
 
-Una vez notificada la remoción, el integrante infractor deberá entregar inmediatamente, a quien designe el Secretario de Seguridad Pública, su identificación, municiones, armamento, equipo y todo material que se le haya suministrado para el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-En todos los casos que se señalan en el presente artículo las sanciones y correctivos disciplinarios que se impongan a los integrantes operativos de la Secretaría deberán constar por escrito y estar debidamente fundados y motivados.
+De igual forma y con independencia del correctivo disciplinario al que haya sido acreedor, el personal con correctivo disciplinario deberá acudir y participar en cursos, pláticas o programas de capacitación y profesionalización que se estimen relacionados con la naturaleza de la falta cometida.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Las sanciones aplicables serán proporcionales a la gravedad de la falta y consistirán en:
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+I. Suspensión del ejercicio de sus funciones, consistente en la interrupción de la relación jurídica existente entre el integrante infractor y la Secretaría, sin goce de sueldo, la cual no excederá de treinta días hábiles. Una vez notificada la suspensión, el integrante infractor deberá entregar inmediatamente, a quien designe el Secretario, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones. Concluida la suspensión, el integrante comparecerá ante el titular de la unidad administrativa de su adscripción, a quien informará por escrito de su reincorporación al servicio;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+II. Acción de reparación del daño, cuando proceda, en función del perjuicio causado, o
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+III. Remoción: destitución definitiva del integrante operativo de la Secretaría, de conformidad con las disposiciones relativas al régimen disciplinario. Una vez notificada la remoción, el integrante infractor deberá entregar inmediatamente, a quien designe el Secretario de Seguridad Pública, su identificación, municiones, armamento, equipo y todo material que se le haya suministrado para el cumplimiento de sus funciones. En todos los casos que se señalan en el presente artículo las sanciones y correctivos disciplinarios que se impongan a los integrantes operativos de la Secretaría deberán constar por escrito y estar debidamente fundados y motivados.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+En la imposición de sanciones se deberá tomar en cuenta el impacto en el servicio, grado de dolo o negligencia, y reincidencia. Asimismo, se deberán respetar los principios de legalidad, proporcionalidad, debido proceso y presunción de inocencia, y será independiente de las responsabilidades civiles, penales o administrativas que pudieran derivarse.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9155,13 +9257,21 @@ En todos los casos que se señalan en el presente artículo las sanciones y corr
 
 La calificación, aplicación y ejecución de las sanciones y correctivos disciplinarios será conforme a las siguientes reglas:
 
-I. Los Directores, Coordinadores y Jefes Operativos de la Secretaría podrán imponer a sus subordinados las sanciones y correctivos disciplinarios consistentes en amonestación y arresto, informando al Secretario, dentro de los tres días siguientes a su aplicación exponiendo las causas que lo motivaron y su fundamento;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-II. El Secretario tiene la atribución de imponer las sanciones y correctivos disciplinarios de amonestación y arresto; y
+I. Los Directores, Coordinadores, Jefes Operativos, Encargados de Grupo y Encargados de turno de la Secretaría podrán imponer a sus subordinados el correctivo disciplinario consistente en amonestación informando al Secretario, dentro de los tres días siguientes a su aplicación exponiendo las causas que lo motivaron y su fundamento;
 
-III. La Comisión de Honor y Justicia podrá imponer, según la gravedad de la falta, las sanciones y correctivos disciplinarios consistentes en suspensión temporal, degradación y remoción; su ejecución corresponde al Secretario.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-La notificación que se haga a los integrantes operativos sobre la aplicación de cualquier sanción deberá realizarse por escrito, proporcionándole copia del mismo y cuidando que se encuentren presentes sólo integrantes operativos del mismo grado o superiores.
+II. El Secretario tiene la atribución de imponer los correctivos disciplinarios de amonestación, disculpa pública y trabajo en favor a la comunidad; y
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+III. La Comisión de Honor y Justicia podrá imponer, según la gravedad de la falta, las sanciones consistentes en suspensión temporal, acción de reparación del daño, cuando proceda en función del perjuicio causado y remoción; su ejecución corresponde al Secretario.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+La notificación que se haga a los integrantes operativos sobre la aplicación de cualquier correctivo disciplinario y/o sanción deberá realizarse por escrito, proporcionándole copia del mismo.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9189,7 +9299,13 @@ Quien imponga las sanciones o correctivos disciplinarios, deberá informar a la 
 
 Asimismo la conclusión del servicio por cualquiera de sus causas será registrada de manera inmediata en el Sistema Nacional de Seguridad Pública, así como en los registros correspondientes.
 
-Contra la aplicación de las sanciones y correctivos disciplinarios impuestos por el Secretario, los Directores, Coordinadores y Jefes Operativos, procederá el recurso de revocación, el cual deberá interponerse por escrito ante la Comisión de Honor y Justicia. En el caso de que la sanción o correctivo disciplinario haya sido impuesto por el Secretario, éste deberá de excusarse de emitir su voto, absteniéndose de participar en la Sesión, ocupando la presidencia el primer vocal. En ambos supuestos el recurso será interpuesto ante la instancia que deba conocer del mismo, dentro de los tres días hábiles posteriores a la notificación de la sanción.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Contra la aplicación de los correctivos disciplinarios impuestos por el Secretario, los Directores, Coordinadores, Jefes Operativos, Encargados de Grupo o Encargados de Turno, procederá el recurso de revocación, el cual deberá interponerse por escrito ante la Comisión de Honor y Justicia. En el caso de que el correctivo disciplinario haya sido impuesto por el Secretario, éste deberá de excusarse de emitir su voto, absteniéndose de participar en la Sesión, ocupando la presidencia el primer vocal. En ambos supuestos el recurso será interpuesto ante la instancia que deba conocer del mismo, dentro de los tres días hábiles posteriores a la notificación de la sanción.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+En el caso de que el personal haya renunciado, la existencia de sanciones posteriores que resulten de procedimientos iniciados durante el tiempo que prestaba sus servicios no será impedimento para registrarlas en su expediente personal.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9197,37 +9313,59 @@ Contra la aplicación de las sanciones y correctivos disciplinarios impuestos po
 
 La instancia a quien corresponda, emitirá la resolución del recurso sin substanciación alguna dentro de los cinco días hábiles siguientes a su interposición.
 
-Si el recurso resulta procedente, quedará sin efecto la sanción o correctivo disciplinario y le serán restituidos los derechos inherentes al servicio, registrándolo en el expediente del integrante interesado.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Si el recurso resulta procedente, quedará sin efecto el correctivo disciplinario y le serán restituidos los derechos inherentes al servicio, registrándolo en el expediente del integrante interesado.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO III. Clasificación de las Faltas
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 577.
 
-Son faltas graves por las que podrán ser sancionados los integrantes operativos, mediante degradación y remoción las consistentes en el incumplimiento de las obligaciones contenidas en los apartados A de los artículos 567 y 568.
+Son faltas graves por las que podrán ser sancionados los integrantes operativos, mediante la remoción las consistentes en el incumplimiento de las obligaciones de primer nivel, contenidas en el apartado A del artículo 567, así como de las obligaciones contenidas en el apartado A del artículo 568.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 También se aplicarán las sanciones a que se refiere el párrafo que antecede a los integrantes operativos, que en el lapso de un año hayan cometido cinco o más de las faltas a que se refieren los artículos 567 y 568.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 Las sanciones previstas en este artículo serán impuestas por la Comisión de Honor y Justicia, una vez tramitado el procedimiento respectivo. El Secretario será el encargado de su ejecución.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 578.
 
-Son faltas medias por las que podrán ser sancionados los integrantes operativos, mediante suspensión las contenidas en los apartados B de los artículos 567 y 568.
+Son faltas medias por las que podrán ser sancionados los integrantes operativos, mediante suspensión y reparación del daño las contenidas en los apartados B de los artículos 567 y 568.
 
-Las sanciones previstas en este artículo serán impuestas por la Comisión de Honor y Justicia, una vez tramitado el procedimiento respectivo. El Secretario será el encargado de su ejecución.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+Las sanciones previstas en este artículo serán impuestas por la Comisión de Honor y Justicia, una vez tramitado el procedimiento respectivo. El Secretario será el encargado de su ejecución. La Comisión de Honor y Justicia deberá precisar las fechas de inicio y conclusión de la suspensión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 579.
 
-Son faltas leves por las que podrán ser sancionados los integrantes operativos, mediante amonestación o arresto, las contenidas en el apartado C del artículo 567.
+Son faltas leves por las que se impondrán a los integrantes operativos, los correctivos disciplinarios de amonestación, disculpa pública o trabajo a la comunidad, las contenidas en el apartado C del artículo 567.
 
-Las sanciones de amonestación y arresto, a que se refiere este artículo serán impuestas y ejecutadas por los Directores, Coordinadores y Jefes Operativos a sus subordinados.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+De igual forma y con independencia del correctivo disciplinario al que haya sido acreedor, el personal con correctivo disciplinario deberá acudir y participar en cursos, pláticas o programas de capacitación y profesionalización que se estimen relacionados con la naturaleza de la falta cometida.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Los correctivos disciplinarios consistentes en amonestación, a que se refiere este artículo serán impuestos y ejecutadas por los Directores, Coordinadores, Jefes Operativos, Encargados de Grupo, Encargados de Turno a sus subordinados.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Los correctivos disciplinarios consistentes en trabajo a favor de la comunidad serán impuestos y ejecutados por los Directores y el Secretario.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+El Secretario tiene la atribución de imponer los correctivos disciplinarios de disculpa pública.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9289,11 +9427,35 @@ IX. Las demás actividades que sean susceptibles de preverse y que incidan en el
 
 Para tal efecto se conformará una junta de planeación, la cual será presidida por el Secretario y coordinada por el Director (a) del Instituto Superior en Seguridad Pública, sesionará de manera ordinaria por un periodo al año, contará con las atribuciones que al efecto señale el reglamento correspondiente y deberá operar en base a un manual de procedimientos.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 584.
 
-El ingreso es el proceso en el que intervienen los procedimientos de reclutamiento, selección, formación inicial y adscripción como integrante operativo de la Secretaría, este proceso inicia con la recepción de documentos y termina con el otorgamiento de una constancia de grado. Lo anterior, sin omitir el proceso previo de certificación que deberá acreditar todo aspirante y el registro ante el Sistema Nacional de Seguridad Pública, el cual se realizará en dos fases: al ser dado de alta en programa de formación inicial y al ser adscrito.
+El reclutamiento es el proceso a cargo de la Secretaría de Seguridad Pública, mediante el que, a través de convocatorias públicas, se busca y convoca a personas candidatas potencialmente calificadas para ocupar las plazas vacantes dentro de estas.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+La selección es el proceso que consiste en elegir, de entre las personas aspirantes que hayan aprobado el reclutamiento, a quienes cubran el perfil y la formación requeridos para ingresar a la Secretaría. Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la aceptación de las personas aspirantes para ser ingresadas, las que, durante el proceso y hasta en tanto no sean admitidas, no tendrán ningún tipo o vínculo jurídico o administrativo con la Secretaría.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Los cadetes admitidos en el programa de formación inicial podrán recibir una beca durante el tiempo que dure el mismo, la cual será condicionada a la disponibilidad presupuestal de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+El ingreso es el procedimiento de integración de las personas candidatas a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial en Instituto Superior en Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+La Comisión del Servicio de Carrera resolverá la adscripción de los cadetes como integrantes operativos de la Secretaría y expedirá las constancias de grado correspondientes, con las firmas de las autoridades competentes, que los acredite como miembros del Servicio de Carrera, y serán sujetos de los derechos y obligaciones que establezcan las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Una vez expedida la constancia de grado estarán obligados a permanecer en la Secretaría un tiempo mínimo de tres años. En caso de que se separen del servicio antes del término referido, deberán restituir el monto de la beca a que se refiere el artículo 584 bis de este Código, así como de los gastos generados durante la formación inicial de acuerdo a los montos señalados en la Ley de Ingresos del Municipio de Aguascalientes, salvo causas justificadas a juicio de la Comisión del Servicio de Carrera.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Las solicitudes de reingreso al servicio profesional de carrera se analizarán y, en su caso, se concederán siempre y cuando el motivo de la baja haya sido por renuncia y cumplan con los requisitos de ingreso establecidos en el artículo 586 de este Código. En el caso de que el personal haya renunciado, la existencia de sanciones posteriores que resulten de procedimientos iniciados durante el tiempo que prestaba sus servicios no será impedimento para registrarlas en su expediente personal.
 
 (REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
@@ -9311,43 +9473,79 @@ III. Sólo ingresarán y permanecerán en la Secretaría, aquellos aspirantes e 
 
 IV. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro de Evaluación y Control de Confianza correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 586.
 
-Los aspirantes a ingresar a la Secretaría deberán cumplir los siguientes requisitos:
+Las personas aspirantes deberán cumplir con los siguientes requisitos de ingreso:
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+I. Ser de ciudadanía mexicana en pleno ejercicio de sus derechos políticos y civiles;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+II. No haber sido condenado por sentencia irrevocable por delito doloso ni estar sujeto a proceso penal;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 III. En su caso, tener acreditado el Servicio Militar Nacional;
 
-IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-a) En el caso de aspirantes a las áreas de investigación, enseñanza superior;
+IV. Acreditar que ha concluido la enseñanza media superior o su equivalente y, para las áreas de investigación, acreditar haber concluido la enseñanza superior o su equivalente;
 
-b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente; y
-
-c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 V. Aprobar el concurso de ingreso y los programas de formación;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VII. Aprobar los procesos de evaluación de control de confianza;
 
-VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Someterse a exámenes para comprobar la ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 IX. No padecer alcoholismo;
 
-X. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+X. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 
-XII. Cumplir con los deberes establecidos en la Ley General del Sistema Nacional de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-XIII. Los demás que establezcan otras disposiciones legales aplicables.
+XI. No haber participado, favorecido o encubierto, de ninguna forma, la comisión de violaciones graves a los derechos humanos, no contar con historial o antecedentes de ningún tipo como victimario de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni haber cometido abuso o maltrato animal;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XII. No tener en su contra sentencia ejecutoria que imponga la suspensión de la ciudadanía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XIII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XIV. No estar declarada persona deudora alimentaria morosa;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XV. Cumplir con los deberes establecidos en la Ley General del Sistema Nacional de Seguridad Pública; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XVI. Los demás que establezcan otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9355,55 +9553,117 @@ XIII. Los demás que establezcan otras disposiciones legales aplicables.
 
 En los procesos de Desarrollo y Permanencia, estarán enunciados los procedimientos de evaluaciones para la permanencia, formación continua y sus etapas, promoción y el régimen de estímulos.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-###### ARTÍCULO 588.
+###### ARTICULO 588.
 
-Para la permanencia de los integrantes operativos; se evaluará el cumplimiento de los siguientes requisitos:
+La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en el presente Código para continuar en el servicio activo de la Secretaría de Seguridad Pública. Los integrantes operativos deberán cumplir con los siguientes requisitos de permanencia:
 
-I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+I. No haber sido condenado en sentencia irrevocable por delito doloso;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 II. Mantener actualizado su Certificado Único Policial;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 III. No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
 
-IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-a) En el caso de integrantes operativos de las áreas de investigación, enseñanza superior, u homologación por desempeño, a partir de bachillerato;
+IV. Acreditar que ha concluido, los estudios a la enseñanza media superior; en el caso de integrantes operativos de las áreas de investigación, enseñanza superior, u homologación por desempeño, a partir de bachillerato;
 
-b) Tratándose de integrantes operativos de las áreas de prevención, enseñanza media superior o equivalente;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-c) En caso de integrantes operativos de las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+V. Aprobar los cursos de formación continua, capacitación y profesionalización;
 
-V. Aprobar los programas de formación continua;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VI. Aprobar los procesos de evaluación de control de confianza:
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VII. Aprobar las evaluaciones del desempeño;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
 
-IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+IX. Someterse a exámenes para comprobar la ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 X. No padecer alcoholismo;
 
-XI. Someterse a exámenes para comprobar la ausencia de alcoholismo;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-XII. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+XI. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XII. No participar, cometer, favorecer o encubrir violaciones graves a los derechos humanos, no ejercer actos de violencia contra las mujeres, niñas, niños, adolescentes, personas con discapacidad o personas adultas mayores, ni realizar actos de abuso o maltrato animal;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 
-XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-XV. Las demás que establezcan las disposiciones legales aplicables.
+XIV. No faltar al servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días discontinuos dentro de un término de treinta días;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-###### ARTÍCULO 589.
+XV. No tener en su contra sentencia ejecutoria que imponga la suspensión de la ciudadanía;
 
-La promoción es el procedimiento mediante el cual se otorga a los integrantes operativos de la Secretaría el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables. Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado. Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-Para ocupar un grado como integrante operativo de la Secretaría se deberán reunir los requisitos establecidos por el presente Código y las disposiciones normativas aplicables.
+XVI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XVII. No estar declarada persona deudora alimentaria morosa;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Someterse a evaluaciones periódicas para acreditar el cumplimiento de los requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XIX. Obtener y mantener actualizado su certificado único policial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XX. Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+El procedimiento de separación por incumplimiento de los requisitos de permanencia estará a cargo de la Comisión del Servicio Profesional de Carrera Policial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 589.
+
+La promoción es el acto mediante el cual se otorga a las personas integrantes operativas, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables. Las promociones solo podrán conferirse atendiendo a la normativa aplicable y cuando exista una vacante para la categoría jerárquica superior inmediato correspondiente a su grado.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+La Secretaría a través de la Comisión del Servicio Profesional de Carrera Policial, establecerá las reglas específicas para la promoción de grados para los integrantes operativos.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Para el establecimiento de las reglas específicas deberán considerarse, al menos: el cumplimiento de los requisitos de permanencia, el grado de estudios, la profesionalización continua, el tiempo cumplido en el grado actual, la antigüedad en la institución, los reconocimientos y condecoraciones obtenidas y el resultado de la evaluación del desempeño.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+De manera enunciativa más no limitativa, los procesos de promoción deberán regirse por los principios de legalidad, transparencia, igualdad sustantiva entre hombres y mujeres, privilegiando que, del total de lugares ofertados en dichos procesos, se destine para mujeres, al menos, el porcentaje que estas representen en el estado de fuerza o la plantilla de elementos que integren la Institución de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9515,55 +9775,83 @@ Las condecoraciones consistirán en fistoles o preseas metálicas; la mención h
 
 La conclusión del servicio de un integrante operativo es la terminación de su nombramiento, instrumento similar o la cesación de sus efectos legales por las siguientes causas:
 
-I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería, por causas imputables a él;
+I. Ordinarias, que comprende:
 
-b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables; o
-
-c) Que del expediente del integrante operativo no se desprendan méritos suficientes a juicio de la Comisión del Servicio Profesional de Carrera Policial para conservar su permanencia.
-
-Contra la resolución de separación dictada por la Comisión del Servicio Profesional de Carrera procede el recurso de reconsideración del que conocerá la Comisión de Honor y Justicia. El recurso se interpondrá por escrito ante esta Comisión dentro de los cinco días hábiles siguientes a su notificación y será resuelto sin sustanciación alguna, dentro de los diez días hábiles siguientes a su interposición.
-
-II. Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario; o
-
-III. Baja por:
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 a) Renuncia;
 
-b) Muerte o incapacidad permanente; o
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-c) Jubilación o Retiro.
+b) Incapacidad permanente para el desempeño de las funciones;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+c) Muerte, y
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+d) Jubilación o retiro;
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO DE LA FRACCIÓN I, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+II. Extraordinarias, que comprende:
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+a) Separación por el incumplimiento de los requisitos de ingreso y permanencia o por mandamiento jurisdiccional, o
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+b) Remoción por incurrir en causas de responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario o por mandamiento judicial.
+
+III. (DEROGADA, P.O. 24 DE NOVIEMBRE DE 2025)
 
 Al concluir el servicio el integrante deberá entregar al servidor público designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+En el caso de terminación del servicio profesional de carrera por incapacidad permanente o por muerte, la Secretaría de Seguridad Pública deberá garantizar, al menos, pensión por invalidez o vida, seguros para sus familias y personas beneficiarias, apoyo para gastos funerarios, asistencia médica y de rehabilitación, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Las personas integrantes de Secretaría de Seguridad Pública que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que las rijan, podrán ser reubicadas, sin discriminación, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO III. De los Ejes que Integran El Sistema Integral de Desarrollo Policial
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 597.
 
-El Servicio Profesional de Carrera Policial es el eje que constituye un sistema obligatorio y permanente que la Secretaría dispone para los integrantes operativos, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, adscripción, formación, control y registro de la certificación, evaluaciones, evaluación, promoción y régimen de estímulos; así como la separación o baja del servicio de los integrantes de la Secretaría.
+El Servicio Profesional de Carrera Policiales el sistema integral de carácter obligatorio y permanente, que la Secretaría dispone para los integrantes operativos, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, registro, profesionalización, certificación individual, permanencia, promoción, reconocimiento, reingreso y terminación del servicio de los integrantes operativos de la Secretaría.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-El Instituto Superior en Seguridad Pública establecerá un sistema de diagnóstico, evaluación y retroalimentación que permita identificar las áreas de oportunidad, tanto en los procesos como en las capacidades de los integrantes operativos de la Secretaría, con el objeto de implementar programas de mejora continua que promuevan su desarrollo, personal, profesional, familiar y social.
+Se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
 
-La Carrera Policial comprende el grado policial, la antigüedad, y los estímulos obtenidos, el resultado de los procesos de promoción, y todos los registros derivados de los procedimientos del sistema, incluyendo las sanciones que, en su caso, haya acumulado el integrante operativo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-Será responsabilidad del Instituto Superior en Seguridad Pública, en los términos de las disposiciones aplicables, controlar, resguardar y actualizar el registro de los datos mencionados en el párrafo anterior en el expediente de seguimiento del Servicio de Carrera Policial de cada integrante operativo y éstos, están obligados a presentar la totalidad de la documentación relativa a su desempeño operativo, académico, personal y profesional para su control y actualización, atendiendo a los instrumentos normativos aplicables. La titulación de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en coordinación con el Instituto Superior de Seguridad Pública.
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 598.
 
-La Profesionalización es el eje que se conforma por el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial y continua, esta última comprende la actualización, la especialización y alta dirección; para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes operativos de la Secretaría. La titularidad de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en coordinación con el Instituto Superior en Seguridad Pública.
+La profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de las personas integrantes operativos de la Secretaría.
 
-Los planes de estudio para la formación se integrarán al interior del Instituto Superior en Seguridad Pública.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación fomentará la profesionalización, el efectivo aprendizaje y el pleno desarrollo de los conocimientos, habilidades, destrezas y actitudes necesarias para el desempeño del servicio público.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+La titularidad de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en coordinación con el Instituto Superior en Seguridad Pública.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9576,6 +9864,10 @@ La certificación tiene como objetivo, reconocer habilidades, destrezas, actitud
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
 
 Dicha certificación comprenderá las actitudes idóneas para la atención a la violencia de género, mediante las escalas psicométricas y entrevistas que acrediten la ausencia de prejuicios de sumisión de un género sobre otro.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+La certificación individual de las personas integrantes operativas será indispensable para los procesos de permanencia, desarrollo, promoción, profesionalización y especialización.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9643,17 +9935,21 @@ I. Un Presidente que será el Secretario de Seguridad Pública y tendrá voz y v
 
 II. Un Secretario Técnico que contará sólo con voz y será el Jefe del Departamento de Asuntos de Honor y Justicia adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, el cual contará con un nombramiento otorgado por el Presidente, deberá ser Licenciado en Derecho y contar con una experiencia mínima de dos años en Seguridad Pública;
 
-III. Ocho Vocales que contarán con voz y voto y serán los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+III. Diez Vocales que contarán con voz y voto y serán los siguientes:
 
 a) El Regidor Presidente de la Comisión de Seguridad Pública;
 
 b) Dos integrantes de la Comisión de Seguridad Pública;
 
-c) Dos integrantes de la Dirección de Policía Preventiva, uno de ellos, que contará con nivel de enseñanza superior, perteneciente en su caso, a la unidad operativa de investigación y otro, con escolaridad media básica, perteneciente en su caso, a la unidad operativa de reacción. Ambos deberán contar con al menos cinco años continuos de servicio en la Secretaría;
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+c) Tres integrantes de la Dirección de Policía Preventiva, uno de ellos, que contará con nivel de enseñanza superior, perteneciente en su caso, a la unidad operativa de investigación y otro, con escolaridad media básica, perteneciente en su caso, a la unidad operativa de reacción. Ambos deberán contar con al menos cinco años continuos de servicio en la Secretaría;
 
-d) Un integrante de la Dirección de Movilidad que posea, la escolaridad de nivel medio superior, con al menos cinco años de servicio;
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+d) Dos integrantes de la Dirección de Movilidad que posea, la escolaridad de nivel medio superior, con al menos cinco años de servicio;
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
@@ -9662,6 +9958,10 @@ e) Dos representantes ciudadanos del Consejo Permanente de Seguridad Ciudadana y
 IV. Un Fiscal, que será el Director de Asuntos Internos de Seguridad Pública, quien contará sólo con voz y fungirá como instancia acusadora.
 
 El Presidente, el fiscal y cada uno de los vocales designarán un suplente. Los anteriores cargos son honoríficos y no percibirán retribución alguna por sus funciones.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Los vocales integrantes a que se refiere la fracción III podrán designar un suplente para su participación en las sesiones. Dicho suplente tendrá derecho a voz, pero no a voto, toda vez que la facultad de emitir voto es inherente e indelegable al cargo que ostenta el vocal propietario.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -26464,3 +26764,9 @@ P.O. 25 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DE LA "REFORMA A DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, PARA REGULAR EL OTORGAMIENTO DE EXENCIONES O DESCUENTOS EN LICENCIAS REGLAMENTADAS".]
 
 ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA Y ADICIÓN DE DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, CON EL FIN DE HOMOLOGAR LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA CON EL PROPIO CÓDIGO MUNICIPAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial en el Estado de Aguascalientes.
