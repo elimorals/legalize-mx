@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-etica-y-conducta-para-los-servidores-publicos-de-1847
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-14"
-last_updated: "2019-11-14"
+last_updated: "2025-11-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE ETICA Y CONDUCTA PARA LOS SERVIDORES PUBLICOS DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS, PUBLICADO EN EL P.O. DE 24 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA PARA LOS SERVIDORES PÚBLICOS DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025 (SIN EFECTO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de noviembre de 2019.
 
@@ -218,3 +220,15 @@ C.P MARIA EUGENIA PADRON GARCIA
 CONTRALOR INTERNO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL ÓRGANO INTERNO DE CONTROL, POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS".]
+
+PRIMERO. El presente Código de Ética para las Personas Servidoras Públicas de la Comisión Estatal de Derechos Humanos del Estado de San Luis Potosí, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El OIC, en un término no mayor a noventa días hábiles contados a partir de que inicie su vigencia este ordenamiento, emitirá su Código de Conducta al que se hace referencia en el presente Acuerdo.
+
+TERCERO. Se deja sin efecto el Código de Ética y Conducta para los Servidores Públicos de la Comisión Estatal de Derechos Humanos publicado en el Periódico Oficial del Estado “Plan de San Luis” el 14 de noviembre de 2019.
