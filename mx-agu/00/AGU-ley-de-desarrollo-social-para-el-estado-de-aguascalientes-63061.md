@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2025-04-29"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -485,13 +485,13 @@ Corresponde a los Municipios en el ámbito de su competencia, la responsabilidad
 
 I. Participar en el Sistema Nacional de Desarrollo Social, en los términos que señala la Ley General;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-II. Formular, aprobar y ejecutar los programas municipales de desarrollo social, de conformidad con las políticas públicas nacional y estatal en materia de desarrollo social, así como con los Planes de Gobierno y de Desarrollo municipales;
+II. Formular, aprobar y ejecutar los programas municipales de desarrollo social, como parte del plan municipal, de conformidad con las políticas públicas nacional y estatal en materia de desarrollo social, así como con los Planes de Gobierno y de Desarrollo municipales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-III. Realizar y mantener actualizado un diágnostico de los problemas en materia de desarrollo social por conducto de la dependencia o entidad que designe;
+III. Realizar de manera periódica y mantener actualizado un diagnóstico de los problemas en materia de desarrollo social por conducto de la dependencia o entidad que designe;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -529,13 +529,17 @@ XI. Establecer mecanismos para incluir la participación social en los programas
 
 XII. Promover la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de las políticas públicas municipales y de las metas y objetivos de los programas;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-XIII. Informar a la sociedad sobre las acciones en torno al desarrollo social; y
+XIII. Informar a la sociedad sobre las acciones en torno al desarrollo social;
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-XIV. Las demás que les señalen esta Ley y las disposiciones jurídicas aplicables.
+XIV. Impulsar prioritariamente la prestación de servicios públicos en las comunidades más necesitadas y evitar el crecimiento de zonas de pobreza; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+XV. Las demás que les señalen esta Ley y las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IV. Del Financiamiento y el Gasto
 
@@ -1444,3 +1448,11 @@ P.O. 29 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 144.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 302.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
