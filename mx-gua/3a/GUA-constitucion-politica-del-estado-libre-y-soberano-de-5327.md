@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2025-08-15"
+last_updated: "2025-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -67,9 +67,13 @@ Para los efectos de esta Constitución y de las leyes que de ella emanen, person
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-Esta Constitución reconoce y protege la participación de las mujeres en el desarrollo del estado, promueve la igualdad sustantiva y la paridad de género. Las autoridades adoptarán las medidas, para erradicar la discriminación, la desigualdad de género y toda forma de violencia contra las mujeres.
+Esta Constitución reconoce y protege la participación de las mujeres en el desarrollo del estado, garantiza el derecho a la igualdad sustantiva de las mujeres y promueve la paridad de género. Las autoridades adoptarán las medidas, para erradicar la discriminación, la desigualdad de género, la brecha salarial y toda forma de violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños.
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
 
@@ -139,6 +143,18 @@ Toda persona tiene derecho a una alimentación nutritiva, suficiente y de calida
 
 El Estado garantizará la entrega de apoyos sociales a las mujeres y una pensión no contributiva a las personas con discapacidad permanente menores de sesenta y cinco años, en los términos que fijen las leyes.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+El Estado y los municipios garantizarán la protección y ejercicio de la actividad periodística.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Toda persona que realice labores de búsqueda de personas desaparecidas tendrá la calidad de persona defensora de derechos humanos.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Toda persona tiene derecho a ser buscada, el Estado garantizará las acciones de búsqueda, localización e identificación en los términos establecidos por las leyes y protocolos en la materia.
+
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 2.
@@ -173,9 +189,9 @@ La ley regulará la aplicación de mecanismos alternativos de solución de contr
 
 El Poder Judicial es independiente de los demás poderes del Estado. El Ejecutivo garantizará la plena ejecución de las resoluciones judiciales.
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-Toda persona tiene derecho al trabajo digno y socialmente útil; la resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo de tribunales laborales del Poder Judicial. Antes de acudir a dichos tribunales, los trabajadores y patrones deberán asistir a la instancia de conciliación que corresponda.
+Toda persona tiene derecho al trabajo digno y socialmente útil; a trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad u origen étnico; la resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo de tribunales laborales del Poder Judicial. Antes de acudir a dichos tribunales, los trabajadores y patrones deberán asistir a la instancia de conciliación que corresponda.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
 
@@ -184,6 +200,10 @@ Las sentencias y resoluciones pronunciadas por los tribunales del Estado, solame
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
 Las sentencias que pongan fin a los procedimientos orales, deberán ser explicadas en audiencia pública, previa citación a las partes.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Las leyes establecerán los mecanismos para reducir y erradicar la brecha salarial de género.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
@@ -465,9 +485,9 @@ El ejercicio de la acción penal ante los tribunales corresponde al Ministerio P
 
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
-La seguridad pública es una función a cargo del Estado y los municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social. Comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por los Estados Unidos Mexicanos y esta Constitución.
+La seguridad pública es una función a cargo del Estado y los municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas; garantizar los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños de conformidad con la Constitución Federal; así como contribuir a la generación y preservación del orden público y la paz social. Comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por los Estados Unidos Mexicanos y esta Constitución.
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales del Estado y de los municipios deberán coordinarse entre sí y con las instituciones policiales federales para cumplir los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública, que estará sujeto a las bases mínimas establecidas en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2355,7 +2375,7 @@ XII.- Otorgar estímulos y recompensas a los servidores públicos judiciales que
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2017)</small>
 
-XIII.- CONCEDER LICENCIAS A LOS JUECES, SECRETARIOS Y DEMÁS EMPLEADOS HASTA POR SEIS MESES;
+XIII.- Conceder licencias a los jueces, secretarios y demás empleados HASTA POR SEIS MESES;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2017)</small>
 
@@ -2629,7 +2649,9 @@ Corresponde al Ministerio Público la investigación, persecución, ante los tri
 
 La Fiscalía General del Estado contará, al menos, con la fiscalía especializada en materia de combate a la corrupción, dicha fiscalía especializada será un órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considere como delitos en materia de corrupción; cuya persona titular será nombrada y removida por la persona titular de la Fiscalía General del Estado; el nombramiento y remoción de la persona titular de la fiscalía especializada podrá ser objetado por el Congreso del Estado por el voto de las dos terceras partes de quienes se encuentren presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
-La ley establecerá las bases para la estructura y funcionamiento de la fiscalía, la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de respeto a los derechos humanos, objetividad, honradez, certeza, buena fe, unidad, indivisibilidad, irrevocabilidad, imparcialidad, irrecusabilidad, independencia, legalidad, probidad, profesionalismo, celeridad, eficiencia y eficacia, cuya finalidad será proporcionar una pronta, plena y adecuada procuración de justicia.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+La ley establecerá las bases para la estructura y funcionamiento de la fiscalía, la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de autonomía, objetividad, honradez, certeza, buena fe, unidad, indivisibilidad, irrevocabilidad, imparcialidad, irrecusabilidad, independencia, legalidad, probidad, profesionalismo, responsabilidad, celeridad, eficiencia y eficacia, enfoque en derechos humanos y perspectiva de género, cuya finalidad será proporcionar una pronta, plena y adecuada procuración de justicia.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
@@ -3311,11 +3333,11 @@ Todo cargo de elección popular es incompatible con cualquiera de la Federación
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
-(REFORMADO, P.O. 25 DE DICIEMBRE DE 1990) (REUBICADO [N. DE E. ANTES ARTÍCULO 132], P.O. 6 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 134.
 
-Todo funcionario o empleado público recibirá por sus servicios, el sueldo o salario determinado por la Ley, mismo que no podrá ser renunciable. Los cargos de los funcionarios electorales y censales, serán obligatorios y gratuitos sólo serán remunerados aquellos que se presten profesionalmente en los términos que establezcan las Leyes de la materia.
+Todo funcionario o empleado público, bajo el principio de trabajo igual corresponderá salario igual, sin tener en cuenta el sexo ni el género, recibirá por sus servicios, el sueldo o salario determinado por la Ley, mismo que no podrá ser renunciable. Los cargos de los funcionarios electorales y censales serán obligatorios y gratuitos sólo serán remunerados aquellos que se presten profesionalmente en los términos que establezcan las Leyes de la materia.
 
 (REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 133], P.O. 6 DE SEPTIEMBRE DE 2016)
 
@@ -4756,3 +4778,15 @@ P.O. 15 DE AGOSTO DE 2025.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Las autoridades correspondientes destinarán anualmente y conforme al principio de progresividad los recursos presupuestarios suficientes y oportunos, para dar cumplimiento al presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 104 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONAN LOS PÁRRAFOS VIGÉSIMO CUARTO, VIGÉSIMO QUINTO Y VIGÉSIMO SEXTO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 105 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, PÁRRAFO SEXTO, 2, PÁRRAFO NOVENO, 11, PÁRRAFO CUARTO, 95, PÁRRAFO SEXTO Y 134; Y SE ADICIONAN UN PÁRRAFO SÉPTIMO, RECORRIENDO EN SU ORDEN LOS SUBSIGUIENTES AL ARTÍCULO 1, Y UN PÁRRAFO DUODÉCIMO AL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
