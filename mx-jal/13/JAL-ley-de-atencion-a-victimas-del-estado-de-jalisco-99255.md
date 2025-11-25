@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-victimas-del-estado-de-jalisco-99255"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2023-07-06"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 27 de febrero de 2014.
 
@@ -111,7 +111,9 @@ El Estado y, en su caso los municipios, deberán propiciar el acceso real y efec
 
 V. Enfoque diferencial y especializado. Esta Ley reconoce la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, creencias, etnia, discapacidades, preferencias u orientación sexual, en consecuencia se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y situación de riesgo al que se encuentren expuestas las víctimas.
 
-Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, garantías especiales y medidas de protección a los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas y niños, jóvenes, mujeres, adultos mayores, personas con discapacidad, migrantes, miembros de pueblos indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno. En todo momento se reconocerá el interés superior del menor.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, garantías especiales y medidas de protección a los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas y niños, jóvenes, mujeres, adultos mayores, personas con discapacidad, migrantes, miembros de pueblos indígenas, personas defensoras de derechos humanos, periodistas, personas en situación de desplazamiento interno y familiares de personas desaparecidas a los que hace referencia el artículo 4 párrafo 1 fracción XVI de la Ley de Personas Desaparecidas del Estado de Jalisco. En todo momento se reconocerá el interés superior del menor.
 
 Para los efectos de la presente Ley, se entenderán como garantías especiales, la presunción por parte de las autoridades de la buena fe de las víctimas, al enfoque diferencial y especializado, al trato con humanidad, respeto y dignidad a los afectados por un delito o por una violación de sus derechos humanos y la transversalidad, entre otras.
 
@@ -285,7 +287,9 @@ XIX. A ser beneficiaria de las acciones afirmativas y programas sociales públic
 
 XX. A participar en la formulación, implementación y seguimiento de la política pública de prevención, ayuda, atención, asistencia y reparación integral;
 
-XXI. A que las políticas públicas que son implementadas con base en la presente Ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores y población indígena;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+XXI. A que las políticas públicas que son implementadas con base en la presente Ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores, población indígena y familiares de personas desaparecidas a los que hace referencia el artículo 4 párrafo 1 fracción XVI de la Ley de Personas Desaparecidas del Estado de Jalisco;
 
 XXII. A no ser discriminadas ni limitadas en sus derechos;
 
@@ -1834,3 +1838,9 @@ P.O. 6 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29205/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 61 BIS Y 67 BIS A LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO, EN MATERIA DE SESIONES TELEMÁTICAS O A DISTANCIA MEDIANTE EL USO DE LAS HERRAMIENTAS TECNOLÓGICAS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29867/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ATENCIÓN A VÍCTIMAS, DE LA LEY DE DESARROLLO SOCIAL, DEL CÓDIGO DE ASISTENCIA SOCIAL Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
