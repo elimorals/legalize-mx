@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-la-violencia-en-el-entorno-95998"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2024-07-03"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -135,7 +135,9 @@ XIII. Secretaría: la Secretaría de Educación del Estado de Tamaulipas;
 
 XIV. Víctima: el alumno contra quien se realiza la violencia en el entorno escolar; y
 
-XV. Violencia en el entorno escolar: todas aquellas acciones negativas o actos violentos de tipo físico, verbal, sexual, patrimonial, psicológico, a través de los medios tecnológicos, sean o no, en respuesta a una acción predeterminada necesariamente, que ocurren de modo reiterativo prologándose durante un periodo de tiempo y que tienen como intención causar daño por el deseo consciente de herir, amenazar o discriminar por parte de uno o varios estudiantes a otro u otros en el entorno escolar.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+XV. Violencia, acoso y ciberacoso en el entorno escolar: toda acción u omisión dolosa, física, verbal, psicológica, sexual o cibernética, cometida dentro o fuera de las instituciones educativas públicas o privadas, cometida por alumnas y alumnos, docentes, personal administrativo, directivo o padres de familia, con la intención de causar daño, humillación o afectación a la dignidad de otra persona, comprendiendo aquellas conductas que se realicen en las instalaciones del plantel, en sus alrededores, o en espacios donde se desarrollen actividades extraescolares o vinculadas con el ámbito educativo, y que provoquen temor, afecten el bienestar emocional, la integración social o el rendimiento académico de la víctima.
 
 ###### ARTÍCULO 5.
 
@@ -475,7 +477,9 @@ III. Verbal: cuando hay un daño emocional a un estudiante mediante insultos, me
 
 IV. Psicológico: cuando existe persecución, sometimiento, tiranía, intimidación, hostigamiento, chantaje, manipulación o amenaza contra un estudiante, incluyendo las gesticulaciones y obscenidades a través de señas, miradas o expresiones corporales que lastimen su dignidad y autoestima;
 
-V. Cibernético: se caracteriza mediante el uso de cualquier medio electrónico como internet, páginas web, redes sociales, blogs, correos electrónicos, mensajes, imágenes o videos por teléfono celular, computadoras, videograbaciones u otras tecnologías digitales;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+V. Ciberacoso: se caracteriza por el hostigamiento o amenazas por medio de las Tecnologías de la Información y Comunicación, tales como internet, páginas web, redes sociales, blogs, correos electrónicos, mensajes, imágenes o videos por teléfono celular, computadoras, videograbaciones o cualquier otro medio digital que cause un daño en la dignidad personal, o afecte la paz, la tranquilidad o la seguridad de las personas;
 
 VI. Sexual: toda aquella discriminación y violencia contra otro alumno relacionada con su sexualidad, así como el envío de mensajes, imágenes o videos con contenidos eróticos o pornográficos por medio de tecnologías digitales que denoten obscenidad, tocamientos, hostigamiento, acoso o abuso de orden sexual; y
 
@@ -994,6 +998,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 3 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-865 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XV, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 7 DE LA LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-539 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN XV DEL ARTÍCULO 4; Y LA FRACCIÓN V DEL ARTÍCULO 23, DE LA LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
