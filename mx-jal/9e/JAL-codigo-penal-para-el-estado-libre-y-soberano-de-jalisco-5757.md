@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2024-10-12"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1371,21 +1371,27 @@ El derecho del ofendido para presentar su querella por un delito, sea o no conti
 
 Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se cometió el delito, si fuese instantáneo; desde que cesó, si fuere permanente; desde el día en que se hubiese realizado el último acto de ejecución, si fuere continuado; y desde el día en que se hubiese realizado el último acto tendiente a la ejecución, si se tratare de tentativa.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2025)</small>
 
 ###### Art. 92.
 
-La acción penal prescribirá en un plazo igual al término medio aritmético de la sanción privativa de la libertad que corresponda al delito, aumentada en una cuarta parte más de ese término; si sólo mereciere multa, destitución o suspensión de derechos, la prescripción se consumará en el término de un año.
+La acción penal prescribirá en un plazo igual al término medio aritmético de la sanción privativa de la libertad que corresponde al delito, aumentada en una cuarta parte más de ese término; si sólo mereciere multa, destitución o suspensión de derechos, (sic) prescripción se consumará en el término de un año.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 Para el caso de los delitos culposos que se cometan con motivo del tráfico de vehículos, la acción penal prescribirá en un plazo de seis meses; esta regla se aplicará exclusivamente para los conductores involucrados en el incidente, que permanezcan en el lugar de los hechos hasta que el Ministerio Público tenga conocimiento de los mismos y les tome las declaraciones correspondientes.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 Tratándose de delitos fiscales, operará la prescripción en el término de cinco años, mismos que se computarán a partir de la fecha de la comisión del delito.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 En caso de concurso de delitos, las acciones penales prescribirán simultánea y separadamente en los términos señalados para cada uno.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2025)</small>
 
-Serán imprescriptibles los delitos previstos en los artículos 142-L y 142-M.
+Serán imprescriptibles los delitos previstos en los artículos 142-A fracción III, 142-F, 142-L y 142-M.
 
 > <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2017)</small>
 
@@ -7406,3 +7412,9 @@ P.O. 12 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29576/LXIII/24 DEL CONGRESO DEL ESTADO QUE SE (SIC) REFORMA LOS ARTÍCULOS 305 Y 306 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29869/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 92 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
