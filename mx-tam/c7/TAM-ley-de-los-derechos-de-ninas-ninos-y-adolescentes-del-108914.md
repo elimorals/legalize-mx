@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2025-11-19"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -221,7 +221,9 @@ XXXIX.- Vínculo Materno Filial: Es la relación biológica y de apego desarroll
 
 ###### ARTÍCULO 7.
 
-Son principios rectores en la observancia, interpretación y aplicación de la Ley, los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+1.- Son principios rectores en la observancia, interpretación y aplicación de la presente Ley, los siguientes:
 
 I.- El de interés superior, que implica dar prioridad al bienestar de las niñas, niños y adolescentes ante cualquier otro interés que vaya en su perjuicio.
 
@@ -282,6 +284,14 @@ XVII.- Mínima intervención en juicios cuando intervienen en procedimientos jud
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
 XVII (SIC).- No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+2.- En todos los derechos que impliquen libertad de decisión, se buscará siempre el interés superior de la niñez, procurando que el ejercicio de dicha libertad sea gradual conforme a su edad, madurez y desarrollo, con el acompañamiento, orientación y protección de quienes ejerzan la patria potestad, tutela, guarda, custodia o de cualquier persona que incida en su crianza o cuidado.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+3.- El interés superior de la niñez y el principio de crianza positiva serán la guía del ejercicio de la autonomía progresiva.
 
 ###### ARTÍCULO 8.
 
@@ -1200,6 +1210,12 @@ VII. Garantizar que los docentes cuenten con formación en educación intercultu
 ###### ARTÍCULO 44.
 
 Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental. En todos los casos, serán los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia los primeros responsables de orientar y supervisar a niñas, niños y adolescentes en el ejercicio de este derecho, a fin de que contribuya a su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 44 BIS.
+
+En los casos que requieran el consentimiento de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema Estatal para el Desarrollo Integral de la Familia, se brindará asistencia a las niñas, niños y adolescentes, a fin de que quienes ejerzan la patria potestad, tutela, guarda, custodia o cualquier otra persona que incida en su crianza o cuidado, actúen con responsabilidad, garantizando el respeto y cumplimiento de su autonomía progresiva.
 
 ###### ARTÍCULO 45.
 
@@ -2422,3 +2438,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La implementación de lo dispuesto en el presente Decreto se realizará conforme a la disponibilidad presupuestal y a los mecanismos de planeación existentes desarrollados por las áreas competentes.
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-541 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO; Y SE ADICIONAN LOS NUMERALES 2 Y 3 AL ARTÍCULO 7 Y UN ARTÍCULO 44 BIS A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
