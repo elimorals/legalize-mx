@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2025-04-08"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -526,6 +526,10 @@ XII.- Contribuir para el fomento de actividades cívicas, culturales y deportiva
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
 XIII.- Proporcionar capacitación y adiestramiento en los términos de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+XIII Bis.- Capacitar y sensibilizar a las y los servidores públicos con perspectiva de género, y en materia de derechos humanos;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2021)</small>
 
@@ -2296,3 +2300,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las instituciones públicas del Estado y los Municipios contarán con un plazo de noventa días naturales a la entrada en vigor de este Decreto, para armonizar y actualizar sus Reglamentos y normatividad interna para promover, respetar y garantizar los periodos obligatorios de reposo durante la jornada laboral, así como el derecho de las personas trabajadoras para usar asientos o sillas con respaldo durante los periodos de descanso, de acuerdo a la propia naturaleza del cargo, puesto, comisión o funciones.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0317.- QUE REALIZA ADICIÓN AL ARTÍCULO 51, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
