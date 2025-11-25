@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2025-06-28"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE, JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE DICIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1397,6 +1399,14 @@ Los parques estatales son aquellas áreas de uso público, constituidas por el T
 
 En los parques y reservas estatales solo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y en general, con la preservación de los ecosistemas y sus elementos, así como con la investigación, recreación, ecoturismo y educación ambiental.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 47 Bis.
+
+En áreas naturales protegidas, parques y reservas estatales y municipales, así como en zonas de preservación ecológica, se prohíbe la realización de actividades que impliquen el uso de vehículos motorizados con fines recreativos, carreras o demostraciones y que no sean inherentes a la conservación, investigación, monitoreo, emergencia o cuidado de la biosfera, y que puedan dañar, contaminar o modificar los cuerpos y cuencas de agua dentro del área y sus límites.
+
+Las autoridades competentes establecerán medidas de vigilancia y mecanismos de supervisión, así como sanciones administrativas y penales, para garantizar el cumplimiento de esta disposición.
+
 ###### Artículo 48.
 
 Las formaciones naturales son áreas que contienen uno o varios elementos naturales de importancia estatal, consistentes en lugares u objetos naturales que por su carácter único o excepcional, interés estético, valor histórico o cultural, o sean símbolos de identidad estatal, se incorporan a un régimen de protección.
@@ -1553,9 +1563,17 @@ V. La delimitación del área con coordenadas geográficas de todos los vértice
 
 VI. Las normas oficiales mexicanas aplicables, cuando corresponda, para el aprovechamiento de los recursos naturales, las cortas sanitarias de cultivo y domésticas, así como aquéllas destinadas a evitar la contaminación del suelo y de las aguas, y las prácticas agronómicas que propicien el aprovechamiento sustentable de los recursos;
 
-VII. Los beneficios concretos que serán derramados socialmente en su área física, así como su influencia directa e indirecta; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
 
-VIII. Las propuestas de esquemas de financiamiento para la gestión del área.
+VII. Los beneficios concretos que serán derramados socialmente en su área física, así como su influencia directa e indirecta;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Las propuestas de esquemas de financiamiento para la gestión del área; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+IX. Las restricciones explícitas sobre el uso de vehículos automotores con fines recreativos, carreras o demostraciones, dentro de sus límites, con el fin de prevenir impactos negativos en la biodiversidad y cuerpos de agua.
 
 ###### Artículo 62.
 
@@ -2777,7 +2795,11 @@ II. Multa por el equivalente de treinta a treinta y cinco mil veces el valor dia
 
 3. La sanción de multa, se incrementará al doble del mínimo y máximo establecido en el párrafo anterior, cuando la quema se realice con una proximidad máxima de diez metros a un terreno forestal; y la sanción de multa se incrementará al triple si la quema se realiza con la misma proximidad a un área natural protegida.
 
-III. Clausura temporal o definitiva, parcial o total, cuando:
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+III. Se sancionará de ciento cincuenta a doscientas veces el valor de la Unidad de Medida y Actualización a las personas conductoras o personas propietarias de los vehículos que, estando presente y teniendo el vehículo en su radio de inmediata disposición, infrinjan las disposiciones contenidas en el artículo 47 Bis de la presente Ley;
+
+IV. Clausura temporal o definitiva, parcial o total, cuando:
 
 a) El infractor no hubiese cumplido en los plazos y condiciones impuestos por la autoridad competente, con las medidas correctivas o de urgente aplicación ordenadas; o
 
@@ -2785,13 +2807,13 @@ a) El infractor no hubiese cumplido en los plazos y condiciones impuestos por la
 
 b) En casos de reincidencia, cuando las infracciones generen efectos negativos al ambiente o a la salud.
 
-IV. Arresto administrativo hasta por treinta y seis horas;
+V. Arresto administrativo hasta por treinta y seis horas;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
-V. El decomiso definitivo de los instrumentos, recursos naturales, materiales o residuos de manejo especial y sólidos urbanos directamente relacionados con infracciones relativas a las disposiciones de la presente ley; y
+VI. El decomiso definitivo de los instrumentos, recursos naturales, materiales o residuos de manejo especial y sólidos urbanos directamente relacionados con infracciones relativas a las disposiciones de la presente ley; y
 
-VI. La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes.
+VII. La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes.
 
 Si una vez vencido el plazo concedido por la autoridad ordenadora para subsanar la o las infracciones que se hubiesen cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de ellas exceda del monto máximo permitido, conforme a la fracción II de éste artículo.
 
@@ -3556,3 +3578,15 @@ P.O. 28 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29868/LXIV/25 DEL CONGRESO DEL ESTADO, QUE ADICIONA LOS ARTÍCULOS 47 BIS, 61 Y 146, TODOS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+Segundo. Se derogan todas las disposiciones contrarias al presente Decreto.
+
+Tercero. El titular del Poder Ejecutivo estatal y las autoridades municipales correspondientes, contarán con un plazo de ciento ochenta días para adecuar sus respectivos reglamentos.
+
+Cuarto. El titular del Poder Ejecutivo estatal y las autoridades municipales correspondientes, deberán de publicitar las nuevas disposiciones normativas en los accesos de las áreas naturales protegidas, parques y reservas estatales y municipales, así como en zonas de preservación ecológica correspondientes.
