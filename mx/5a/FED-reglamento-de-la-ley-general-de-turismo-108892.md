@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-turismo-108892"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-07-06"
-last_updated: "2017-08-16"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-06-26"
 
 REGLAMENTO DE LA LEY GENERAL DE TURISMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2025.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de julio de 2015.
 
@@ -857,7 +857,9 @@ Los Guías de Turistas acreditados por la Secretaría deberán observar en la pr
 
 La Secretaría, en coordinación con las autoridades competentes de los tres órdenes de gobierno, instrumentará medidas orientadas a proteger e incentivar las actividades desarrolladas por los Guías de Turistas acreditados, así como inhibir prácticas no reguladas por la Ley, el presente Reglamento y demás disposiciones aplicables que afectan la calidad y la competitividad de los Servicios Turísticos.
 
-### CAPÍTULO II. DEL REGISTRO NACIONAL DE TURISMO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO II. DEL REGISTRO NACIONAL DE TURISMO Y DEL SISTEMA DE CLASIFICACIÓN HOTELERA
 
 ###### Artículo 83.
 
@@ -917,25 +919,37 @@ II. Expedir certificados de Prestador de Servicios Turísticos;
 
 III. Cancelar la inscripción de los Prestadores de Servicios Turísticos por las causas establecidas en la Ley y el presente Reglamento;
 
-IV. Coordinar la operación que del Registro hagan los Estados, Municipios y el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
 
-V. Verificar el cumplimiento del Sistema de Clasificación Hotelera;
+IV. Coordinar la operación que del Registro hagan los Estados, Municipios y la Ciudad de México, y
 
-VI. Imponer sanciones por las infracciones que se cometan al Sistema de Clasificación Hotelera, para lo cual podrá coordinarse con los Estados y el Distrito Federal, y
+V. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2025)
+
+VI. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2025)
 
 VII. Las demás que establezca la Ley, el presente Reglamento y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 85.
 
-La Secretaría establecerá un Sistema de Clasificación Hotelera que estará integrado al Registro Nacional de Turismo.
+La Secretaría establecerá y verificará el cumplimiento del Sistema de Clasificación Hotelera, para ello, podrá coordinarse con los Estados y la Ciudad de México.
+
+> <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
+Las infracciones a las disposiciones relativas al Sistema serán sancionadas por la Secretaría, en los términos previstos en la Ley.
 
 ###### Artículo 86.
 
 El Sistema de Clasificación Hotelera tendrá, cuando menos, los siguientes objetivos:
 
-I. Ordenar, estandarizar y homologar, a través de procesos y un instrumento de clasificación, la categoría o categorías de los establecimientos hoteleros del país;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
 
-II. Informar a los Turistas y Prestadores de Servicios Turísticos las vocaciones y la categoría o categorías de los establecimientos hoteleros y de hospedaje registrados en el Sistema de Clasificación Hotelera;
+I. Ordenar, estandarizar y homologar, a través de procesos y un instrumento de clasificación, la categoría de los establecimientos hoteleros del país;
+
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
+II. Informar a los Turistas y Prestadores de Servicios Turísticos las vocaciones y la categoría de los establecimientos hoteleros y de hospedaje registrados en el Sistema de Clasificación Hotelera;
 
 III. Publicar información generada por el Sistema de Clasificación Hotelera que permita al Turista realizar un consumo responsable e informado sobre la calidad de los servicios hoteleros y de hospedaje;
 
@@ -967,61 +981,85 @@ IV. Instrumentar y ejecutar las demás acciones que deriven de la aplicación de
 
 Toda solicitud de inscripción al Registro Nacional de Turismo deberá contener, al menos, lo siguiente:
 
-I. Nombre o, en su caso, denominación o razón social tratándose de personas morales, así como nacionalidad del Prestador de Servicios Turísticos;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
 
-II. Domicilios en los que prestará los Servicios Turísticos;
+I. Nombre o razón social tratándose de personas morales, y nombre completo en caso de personas físicas, Clave de Registro Federal de Contribuyentes, así como nacionalidad del Prestador de Servicios Turísticos;
 
-III. Números telefónicos y, cuando proceda, direcciones de correo electrónico y cuentas oficiales de redes sociales del solicitante;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
+II. Domicilio en el que se prestará el Servicio Turístico;
+
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
+III. Números telefónicos, direcciones de correo electrónico y, en su caso, página web y cuentas oficiales de redes sociales del solicitante;
 
 IV. Descripción clara y precisa de los Servicios Turísticos que presta, y
 
 V. Fecha de apertura o inicio de operaciones del establecimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 90.
 
-A la solicitud de inscripción al Registro Nacional de Turismo, deberán acompañarse, en formato impreso y digital, los siguientes documentos:
+A la solicitud de inscripción al Registro Nacional de Turismo, deberán acompañarse, en formato digital, los siguientes documentos:
 
 I. Aquéllos que acrediten estar autorizados para desarrollar la prestación de los Servicios Turísticos manifestados;
 
-II. Comprobante de pago de derechos;
+II. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2025)
 
-III. Comprobante de inscripción de los trabajadores del solicitante al Instituto Mexicano del Seguro Social;
+III. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2025)
 
-IV. Clave de Registro Federal de Contribuyentes;
+IV. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2025)
 
-V. Clave Única de Registro de Población si se trata de una persona física, o acta constitutiva tratándose de persona moral;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
+V. Acta Constitutiva tratándose de persona moral;
 
 VI. Escritura pública o contrato que demuestre la propiedad o legal posesión del inmueble o inmuebles que ocupe el solicitante, siempre que para la prestación de los servicios se requiera de un inmueble o más;
 
-VII. Certificados expedidos por instituciones o empresas acreditadas, en los que se haga constar la calidad de los Servicios Turísticos que el solicitante presta, sólo si los tuviera al momento de solicitar la inscripción al Registro Nacional de Turismo, y
+VII. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2025)
 
-VIII. Credencial vigente expedida por la Secretaría, si la solicitud corresponde a un Guía de Turistas.
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Credencial vigente expedida por la Secretaría, si la solicitud corresponde a Guías de Turistas;
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
+IX. Identificación oficial de la persona propietaria o Representante Legal, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
+X. Formato único de solicitud de certificado de inscripción, debidamente requisitado.
 
 ###### Artículo 91.
 
-Los documentos señalados en el artículo anterior deberán ser presentados por el solicitante en original y copia simple. La autoridad receptora cotejará las copias simples y hará constar el cotejo con su nombre, cargo y rúbrica. Devolverá al solicitante los originales y agregará las copias al expediente respectivo.
-
-La Secretaría podrá expedir formatos que contengan disposiciones técnicas y operativas los cuales serán publicados en el Diario Oficial de la Federación.
+(DEROGADO, D.O.F. 25 DE NOVIEMBRE DE 2025)
 
 ###### Artículo 92.
 
 Una vez cumplidos en su totalidad los requisitos en la solicitud de trámite, la Secretaría expedirá al solicitante el certificado de Prestador de Servicios Turísticos dentro de un plazo no mayor a ocho días hábiles.
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 93.
 
-El certificado de Prestador de Servicios Turísticos que expida la Secretaría tendrá una vigencia de dos años; treinta días antes de su expiración el Prestador de Servicios Turísticos deberá renovar dicho certificado y realizar el pago correspondiente para la emisión de uno nuevo.
+El certificado de Prestador de Servicios Turísticos que expida la Secretaría tendrá una vigencia de dos años; treinta días antes de su expiración el Prestador de Servicios Turísticos deberá renovar dicho certificado.
 
 ###### Artículo 94.
 
 Una vez inscrito en el Registro Nacional de Turismo, el Prestador de Servicios Turísticos tendrá las siguientes obligaciones:
 
-I. Renovar cada dos años su certificado, para lo cual deberá ratificar los datos y documentos presentados en su inscripción o solicitar la actualización de los mismos, según sea el caso, además de realizar el pago de derechos correspondiente de conformidad con lo señalado en la Ley Federal de Derechos en materia de expedición de constancias de inscripción;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
 
-II. Solicitar la reposición de su certificado, por causa del extravío o robo o destrucción de su original;
+I. Renovar cada dos años su certificado, para lo cual deberá ratificar los datos y documentos presentados en su inscripción o solicitar la actualización de los mismos, según sea el caso;
 
-III. Solicitar en cualquier tiempo la rectificación de datos cuando exista error o discrepancia entre la información proporcionada en la solicitud y la contenida en su certificado, si no lo hubiere prevenido la Secretaría para el mismo efecto;
+II. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2025)
 
-IV. Solicitar el cambio de domicilio, de denominación o razón social, y cualquier otro dato de inscripción, para lo cual deberá adjuntar también el documento de acreditación respectivo en términos de las disposiciones jurídicas aplicables, y
+III. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2025)
+
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2025)</small>
+
+IV. Solicitar la modificación de cualquier dato de inscripción cuando sea necesario, para lo cual deberá adjuntar también el documento de acreditación respectivo en términos de las disposiciones jurídicas aplicables, y
 
 V. Las demás que se determinen en otros ordenamientos aplicables.
 
@@ -1224,3 +1262,15 @@ TERCERO.- La entrada en vigor del presente Decreto, no afecta la validez jurídi
 CUARTO.- Se abroga el "Acuerdo por el que se emite el catálogo de los diferentes servicios turísticos cuyos prestadores de servicios turísticos deberán inscribirse en el Registro Nacional de Turismo", publicado en el Diario Oficial de la Federación el 30 de marzo de 2016, y se derogan las demás disposiciones jurídicas que se opongan al presente Decreto.
 
 QUINTO.- Las referencias o remisiones que se hacen en otros ordenamientos normativos al catálogo previsto en el artículo 87, fracción I del Reglamento de la Ley General de Turismo, o al previsto en el Acuerdo que se abroga en el transitorio anterior, se entenderán hechas al catálogo previsto en el segundo párrafo del artículo 83 del Reglamento de la Ley General de Turismo.
+
+D.O.F. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY GENERAL DE TURISMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procedimientos relativos al Registro Nacional de Turismo iniciados con anterioridad a la entrada en vigor de este Decreto, se sustanciarán conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+TERCERO.- La entrada en vigor del presente Decreto, no afecta la validez jurídica de las inscripciones en el Registro Nacional de Turismo efectuadas con anterioridad.
+
+CUARTO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
