@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-conjunto-de-los-plenos-de-la-suprema-corte-1609
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-11-14"
-last_updated: "2022-11-14"
+last_updated: "2025-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-11-07"
 ---
 # ACUERDO GENERAL CONJUNTO DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA A LA COMISION DE CONFLICTOS LABORALES DEL PODER JUDICIAL DE LA FEDERACION, ASI COMO A LOS PROCEDIMIENTOS DE SU COMPETENCIA]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 8/2025, DEL PLENO DEL TRIBUNAL DE DISCIPLINA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA LOS CONFLICTOS LABORALES DE SU COMPETENCIA, PUBLICADO EN EL D.O.F. 25 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL CONJUNTO DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA A LA COMISIÓN DE CONFLICTOS LABORALES DEL PODER JUDICIAL DE LA FEDERACIÓN, ASÍ COMO A LOS PROCEDIMIENTOS DE SU COMPETENCIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2025 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 14 de noviembre de 2022.
 
@@ -1086,3 +1088,31 @@ DÉCIMO SEGUNDO. Se instruye a las Direcciones Generales de Asuntos Jurídicos d
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Secretario General de Acuerdos, Lic. Rafael Coello Cetina.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Este ACUERDO GENERAL CONJUNTO DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA A LA COMISIÓN DE CONFLICTOS LABORALES DEL PODER JUDICIAL DE LA FEDERACIÓN, ASÍ COMO A LOS PROCEDIMIENTOS DE SU COMPETENCIA, fue aprobado por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en Sesión Privada celebrada el veinte de octubre de dos mil veintidós, por unanimidad de once votos de las señoras Ministras y de los señores Ministros Alfredo Gutiérrez Ortiz Mena, Juan Luis González Alcántara Carrancá, Yasmín Esquivel Mossa, Loretta Ortiz Ahlf, Luis María Aguilar Morales, Jorge Mario Pardo Rebolledo, Norma Lucía Piña Hernández, Ana Margarita Ríos Farjat, Javier Laynez Potisek, Alberto Pérez Dayán y Presidente Arturo Zaldívar Lelo de Larrea; y aprobado por el Pleno del Consejo de la Judicatura Federal en su Sesión Ordinaria celebrada el veintiséis de octubre de dos mil veintidós, por unanimidad de cinco votos de las señoras Consejeras y de los señores Consejeros Presidente Arturo Zaldívar Lelo de Larrea, Alejandro Sergio González Bernabé, Eva Verónica de Gyvés Zárate, Bernardo Bátiz Vázquez y Lilia Mónica López Benítez. El señor Consejero Sergio Javier Molina Martínez estuvo ausente, previo aviso; como deriva del oficio SEPLE./GEN./002/5612/2022, signado por el maestro Arturo Guerrero Zazueta, Secretario Ejecutivo del Pleno del Consejo de la Judicatura Federal.- Ciudad de México, a siete de noviembre de dos mil veintidós.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 8/2025 DEL PLENO DEL TRIBUNAL DE DISCIPLINA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA LOS CONFLICTOS LABORALES DE SU COMPETENCIA”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Tribunal de Disciplina.
+
+TERCERO. Los diversos procedimientos que se encuentren en trámite en la Comisión de Conflictos Laborales del Poder Judicial de la Federación, con anterioridad a la entrada en vigor de este Acuerdo General, se resolverán con base en la normativa vigente a la fecha de la presentación de la demanda
+
+Tomando en consideración que la normativa anterior al presente Acuerdo preveía la integración de la Comisión de manera tripartita, esto es, formada por una persona presidenta, un representante de la parte patronal y un representante sindical, la resolución de los asuntos deberá realizarse respetando dicha conformación.
+
+Con tal propósito, se conserva la integración de la anterior Comisión de Conflictos Laborales del Poder Judicial de la Federación, con sus funcionarios y atribuciones; únicamente, se sustituirán el presidente y el representante patronal, con motivo del retiro de ambos.
+
+En sustitución del presidente retirado, fungirá con tal carácter, quien presida la Comisión de Conflictos Laborales en el Tribunal de Disciplina Judicial; y para la designación del representante patronal, corresponderá a los Plenos de la Suprema Corte de Justicia de la Nación, del Tribunal de Disciplina y del Órgano de Administración Judicial nombrar a una persona que fungirá como representante por la parte equiparada a patrón en los procedimientos que corresponda, dependiendo del origen de la fuente de trabajo en que se haya generado el conflicto laboral.
+
+Los juicios cuya demanda se presente a partir de la entrada en vigor de este Acuerdo General se sustanciarán conforme a las disposiciones establecidas en el presente instrumento normativo.
+
+CUARTO. El Instituto Federal de Defensoría Pública contará con un periodo de tres meses, a partir de la entrada en vigor de este Acuerdo General, para la adecuación del área correspondiente a los Asesores Jurídicos que intervendrán en los procedimientos de conflictos laborales entre el Poder Judicial de la Federación y sus personas servidoras públicas que se sustancien en la Comisión.
+
+QUINTO. El Órgano de Administración Judicial, a través de las áreas competentes, llevará a cabo las acciones necesarias para la implementación de este Acuerdo General.
+
+SEXTO. Se abroga el Acuerdo General Conjunto de los Plenos de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal que regula a la Comisión de Conflictos Laborales del Poder Judicial de la Federación, así como a los procedimientos de su competencia.
+
+SÉPTIMO. Se derogan las disposiciones normativas contrarias al presente Acuerdo General.
