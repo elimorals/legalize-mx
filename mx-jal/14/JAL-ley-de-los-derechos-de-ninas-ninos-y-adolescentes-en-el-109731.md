@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2025-10-21"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -947,13 +947,17 @@ VIII. Establecer clínicas de rehabilitación destinadas a niñas, niños y adol
 
 IX. Estructurar programas de apoyo para que concluyan la educación obligatoria;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
 
-X. Garantizar que las personas menores de edad que carezcan de cuidados parentales y se encuentren viviendo en instituciones de acogimiento o albergues, cuenten con un debido registro que contenga sus datos personales, la fecha de ingreso, las circunstancias por las que fueron ingresados, su situación jurídica y, en su caso, datos de la existencia de algún familiar, esto con la finalidad de que, a la brevedad posible, se restauren sus derechos, atendiendo al interés superior del menor; y
+X. Garantizar que las personas menores de edad que carezcan de cuidados parentales y se encuentren viviendo en instituciones de acogimiento o albergues, cuenten con un debido registro que contenga sus datos personales, la fecha de ingreso, las circunstancias por las que fueron ingresados, su situación jurídica y, en su caso, datos de la existencia de algún familiar, esto con la finalidad de que, a la brevedad posible, se restauren sus derechos, atendiendo al interés superior del menor;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2025)</small>
 
-XI. Ejecutar las demás acciones que sean necesarias para garantizar la protección y asistencia social de niñas, niños y adolescentes en condición de vulnerabilidad.
+XI. Establecer, para las y los hijos de personas desaparecidas, un mecanismo de apoyo que garantice el acceso efectivo a una educación de calidad, asegurando condiciones de igualdad y eliminando los obstáculos económicos que puedan impedir su pleno desarrollo educativo; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+XII. Ejecutar las demás acciones que sean necesarias para garantizar la protección y asistencia social de niñas, niños y adolescentes en condición de vulnerabilidad.
 
 ### CAPÍTULO XIX. Derecho a un Medio Ambiente Sano, Adecuado y Ecológicamente Equilibrado
 
@@ -2356,5 +2360,11 @@ P.O. 3 DE AGOSTO DE 2023.
 P.O. 21 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29855/LXIV/25 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29867/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ATENCIÓN A VÍCTIMAS, DE LA LEY DE DESARROLLO SOCIAL, DEL CÓDIGO DE ASISTENCIA SOCIAL Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
