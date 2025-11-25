@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2025-11-21"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -149,11 +149,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 14 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo, tercero, cuarto y quinto fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI, XVII y XVIII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refieren los artículos 308 y 308 Bis, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo, tercero, cuarto y quinto fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el transfeminicidio, contenido en el artículo 281 Bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI, XVII y XVIII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refieren los artículos 308 y 308 Bis, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -2931,11 +2931,11 @@ DELITOS CONTRA EL PLENO DESARROLLO Y LA DIGNIDAD DE LAS PERSONAS
 
 ### CAPITULO I. DE LAS PERSONAS MENORES DE EDAD Y QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 204.
 
-Comete el delito contra las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho al que por cualquier medio, obligue, procure, induzca o facilite a una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho o la capacidad de resistirlo, a realizar las siguientes conductas:
+Comete el delito contra las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho al que por cualquier medio, obligue, procure, induzca, coaccione, solicite, gestione, oferte, ofrezca o facilite a una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho o la capacidad de resistirlo, a realizar las siguientes conductas:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 27 DE AGOSTO DE 2021)</small>
 
@@ -2963,23 +2963,31 @@ III. A fabricar, portar, usar o traficar armas prohibidas sin un fin licito, se 
 
 IV. A realizar a través de cualquier medio y sin fines de lucro actos eróticos o sexuales, así como exhibiciones corporales, lascivas o sexuales, públicas o privadas, será castigado con pena de prisión de cinco a diez años de prisión y de mil a cuatro mil días multa.
 
-> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2025)</small>
 
-V. A establecer una relación de hecho para vivir en conjunto y hacer una vida en común sin fines de lucro o a cambio de un pago en efectivo o en especie, aún cuando sean los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia, quienes obliguen a las personas menores de edad, se impondrá la pena de dos a cuatro años de prisión y de quinientos a dos mil días multa.
+V. A establecer matrimonio, concubinato, cohabitación forzada o cualquier relación de hecho para vivir en conjunto y hacer una vida en común sin fines de lucro o a cambio de un pago en efectivo o en especie, a una persona menor de edad con alguien también menor de edad o con persona mayor de dieciocho años de edad, aun cuando sean los padres, quienes realicen las conductas antes descritas, se impondrá la pena de cinco a diez años de prisión y de mil a cuatro mil días multa. Las penas señaladas podrán incrementarse hasta en una mitad cuando se comenta con violencia o en contra de personas menores de edad que padezcan alguna discapacidad, o pertenezcan a algún pueblo o comunidad indígena o afromexicana.
 
 > <small>(REFORMADO, G.G. 21 DE ENERO DE 2022)</small>
 
 A quien emplee, aun gratuitamente, a personas menores de dieciocho años o que no tengan la capacidad de comprender el significado del hecho o de resistirlo, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas o sustancias tóxicas para su consumo inmediato o en lugares que por su naturaleza sean nocivos para el libre desarrollo de su personalidad o para su salud, se le aplicará prisión de dos a cuatro años y de mil a cinco mil días multa así como el cierre definitivo del establecimiento.
 
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
 A quien permita directa o indirectamente el acceso a personas menores de edad a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, incluyendo la información generada o comunicada por medios electrónicos o cualquier otra tecnología se le aplicará prisión de seis meses a dos años y multa de cincuenta a trescientos días multa.
 
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
 Al que ejecutare o hiciere ejecutar a otra persona actos de exhibicionismo corporal, eróticos o sexuales ante personas menores de edad o que no tengan la capacidad para comprender el significado del hecho o de resistirlo, se le impondrá pena de tres a seis años de prisión y de doscientos a mil días multa.
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
 El que, por cualquier medio, venda, difunda o exhiba material pornográfico entre personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho o de resistirlo, será castigado con pena de prisión de seis meses a un año y de doscientos a quinientos días multa.
 
 > <small>(ADICIONADO, G.G. 14 DE MAYO DE 2021)</small>
 
 La pena se aumentará hasta el doble, cuando una persona mayor de edad por medio del engaño, simule ser una niña, niño o adolescente, con el propósito de solicitar u obtener de esta, imágenes, audios, videos, o grabaciones de voz con contenido sexual explicito u actos de connotación sexual en las que participe, o con la finalidad de concertar un encuentro o acercamiento físico.
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
 No se actualizará el delito tratándose de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
 
@@ -4321,9 +4329,9 @@ Si el sujeto activo fuera servidor público y utilizare los medios o circunstanc
 
 Tratándose de una persona servidora pública de institución educativa pública o personal que se desempeñe en institución educativa privada y utilizare los medios o circunstancias que el cargo le proporciona, la pena señalada en el primer párrafo se incrementará en una mitad, será destituido del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a diez años.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE NOVIEMBRE DE 2025)</small>
 
-Artículo 269 BIS.- Comete el delito de acoso sexual, quien con fines de lujuria asedie reiteradamente a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima.
+Artículo 269 BIS.- Comete el delito de acoso sexual, quien realice una conducta de naturaleza sexual no consentida a persona de cualquier sexo, que lesione su dignidad o que sea indeseable para quien la recibe.
 
 > <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -4333,13 +4341,17 @@ De igual forma incurre en acoso sexual quien, sin consentimiento del sujeto pasi
 
 Si la imagen obtenida, sin consentimiento, muestra al sujeto pasivo desnudo o semidesnudo, se acredita por ese sólo hecho, los propósitos señalados en el párrafo anterior.
 
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2025)</small>
 
-Comete también el delito de acoso sexual quien con fines de lujuria asedie reiteradamente a cualquier persona, sin su consentimiento, en lugares públicos, en instalaciones o vehículos destinados al transporte público de pasajeros.
+Comete también el delito de acoso sexual quien realice una conducta de naturaleza sexual a cualquier persona, sin su consentimiento, en lugares públicos, en instalaciones o vehículos destinados al transporte público de pasajeros.
 
 > <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
 
 En estos casos se impondrán penas de un año a cuatro años de prisión y de cien a trescientos días de multa. Si el pasivo del delito fuera menor de edad o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena se incrementará en un tercio.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2025)</small>
+
+Cuando la conducta prevista en este artículo sea realizada de manera reiterada, o aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la victima la pena se incrementará en una mitad.
 
 > <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
@@ -4348,6 +4360,14 @@ Si el sujeto activo del delito es servidor público, además de las penas previs
 > <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 Tratándose de una persona servidora pública de institución educativa pública o personal que se desempeñe en institución educativa privada y utilizare los medios o circunstancias que el cargo le proporciona, la pena señalada en el primer párrafo se incrementará en una mitad, será destituido del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a diez años.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2025)</small>
+
+La persona servidora pública integrante de instituciones policiales, de procuración o administración de justicia que se niegue a recibir la denuncia de la víctima del delito previsto en este artículo, siempre que corresponda al ámbito de su competencia, o la persuada, disuada o intimide para no interponerla, se le impondrán de dos a seis años de prisión y de doscientos a quinientos días multa, además de la destitución e inhabilitación por un plazo igual al de la pena de prisión impuesta, para ejercer empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2025)</small>
+
+En la interpretación y aplicación de este delito deberá considerarse la perspectiva de género y los contextos de vulnerabilidad de la víctima.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -4641,13 +4661,53 @@ Se entenderá como homicidio doloso, la privación de la vida de una mujer por r
 
 3) La suspensión provisional de la patria potestad o tutela y del régimen de convivencia con los descendientes o ascendientes de la víctima en los casos en los que las hijas e hijos menores de edad sean testigos presenciales del hecho.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 25 DE NOVIEMBRE DE 2025)</small>
+
+### CAPITULO V BIS. TRANSFEMINICIDIO
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 281 Bis.
+
+Comete el delito de transfeminicidio quien, por razones de identidad o expresión de género, prive de la vida a una mujer trans, o a una persona cuya identidad o expresión de género se identifique como mujer, en un contexto de discriminación.
+
+Se considera que existen razones de identidad o expresión de género cuando concurra alguna de las siguientes circunstancias:
+
+I. La víctima presente signos de violencia sexual de cualquier tipo;
+
+II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida o actos de necrofilia;
+
+III. Existan antecedentes o datos que establezcan que el sujeto activo ha cometido cualquier tipo de violencia en los ámbitos familiar, institucional, político, en la comunidad, laboral o escolar;
+
+IV. Haya existido entre el sujeto activo y la víctima una relación sentimental, afectiva, de subordinación y/o de confianza;
+
+V. Haya existido entre el sujeto activo y la víctima una relación de parentesco por consanguinidad, afinidad o civil;
+
+VI. El cuerpo de la víctima sea exhibido, expuesto, depositado o arrojado en un lugar público;
+
+VII. Cuando la comisión del delito o el cuerpo de la víctima se exponga, difunda, publique o transmita, a través de cualquier tecnología de la información, comunicación, transmisión de datos o se comparta por cualquier medio;
+
+VIII. Cuando el cuerpo de la víctima presente señales de ensañamiento vinculadas con su identidad o expresión de género, ya sea de manera directa en su persona o a través de sus objetos personales que resulten distintivos de dicha identidad o expresión;
+
+IX. Cuando testigos o evidencia indiquen que previo o posterior al delito el sujeto activo utilizó expresiones verbales que indiquen rechazo u odio a la víctima por motivo de su identidad o expresión de género;
+
+X. Cuando el sujeto activo despoje a la víctima de los elementos distintivos de su identidad o expresión de género;
+
+XI. Cuando los artículos personales de la víctima sean intercambiados por artículos relacionados con el género opuesto a los de su identidad o expresión de género; y
+
+XII. Cuando el sujeto activo argumente la comisión del delito de forma expresa por motivos de su identidad o expresión de género en contra de la víctima.
+
+En los casos a que se refiere este artículo, la penalidad será de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa.
+
+Tratándose de las fracciones IV y V el sujeto activo perderá todos los derechos civiles y familiares en relación con la víctima, incluidos los de carácter sucesorio.
+
+La pena se agravará hasta en un tercio cuando la víctima sea menor de edad, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
+
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ### CAPITULO VI. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
-
-### CAPITULO I. ROBO
 
 ###### Artículo 282.
 
@@ -4705,7 +4765,7 @@ II. Violencia de Género: Al conjunto de amenazas, agravios, maltrato, lesiones 
 
 ## TITULO CUARTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO II. ABIGEATO
+### CAPITULO I. ROBO
 
 ###### Artículo 287.
 
@@ -4989,7 +5049,7 @@ Respecto a la persona que intervenga en la comisión del delito con los sujetos 
 
 IV. (DEROGADA, G.G. 27 DE OCTUBRE DE 2023)
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
 
 ###### Artículo 296.
 
@@ -5043,7 +5103,7 @@ Al que cometa cualquiera de las conductas señaladas en las fracciones anteriore
 
 Es aplicable al delito de abigeato, en lo conducente, lo dispuesto en la fracción III del artículo 295.
 
-### CAPITULO IV. FRAUDE
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### Artículo 302.
 
@@ -5089,9 +5149,7 @@ VI. Si por alguna circunstancia la cuantía del abuso de confianza no pudiere se
 
 El delito de abuso de confianza sólo se perseguirá por querella de la parte ofendida.
 
-### CAPITULO IV BIS. FRAUDE FAMILIAR
-
-> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+### CAPITULO IV. FRAUDE
 
 ###### Artículo 305.
 
@@ -5183,9 +5241,9 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO IV TER. USURA
+### CAPITULO IV BIS. FRAUDE FAMILIAR
 
-> <small>(ADICIONADO, G.G. 21 DE NOVIEMBRE DE 2025)</small>
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 307 Bis.
 
@@ -5193,13 +5251,15 @@ A la o el cónyuge o concubino, que sin causa justificada y en detrimento de la 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 21 DE NOVIEMBRE DE 2025)</small>
 
-### CAPITULO V. DESPOJO
+### CAPITULO IV TER. USURA
+
+> <small>(ADICIONADO, G.G. 21 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 307 Ter.
 
 Comete el delito de usura quien, aprovechándose de la necesidad económica apremiante, ignorancia o inexperiencia de otro, mediante contratos, convenios o documentos mercantiles o civiles, formales o informales, incluidos aquellos simulados, otorgue préstamos de dinero, bienes o servicios, obteniendo intereses superiores al doble de las tasas fijadas por el Banco de México a intermediarios financieros para operaciones similares; éste delito se sancionará con pena de uno a quince años de prisión, y multa de cien a tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-### CAPITULO VI. DAÑO EN LOS BIENES
+### CAPITULO V. DESPOJO
 
 ###### Artículo 308.
 
@@ -5281,7 +5341,7 @@ La persona facilitadora o abogada colaborativa ante la que se realicen los mecan
 
 X. Cuando el bien inmueble objeto del despojo sea propiedad o esté bajo la administración de cualquier ente público estatal o municipal, independientemente de su naturaleza jurídica.
 
-### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
+### CAPITULO VI. DAÑO EN LOS BIENES
 
 ###### Artículo 309.
 
@@ -5337,7 +5397,7 @@ II. De dos a siete años de prisión y de cincuenta a ciento setenta y cinco dí
 
 III. De tres a ocho años de prisión y de setenta y cinco a doscientos días multa, cuando se ocasione a bienes muebles o inmuebles, o documentos afectos a él, de manera que interrumpa el servicio público.
 
-### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
+### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
 ###### Artículo 312.
 
@@ -5359,9 +5419,7 @@ Al que sin permiso y fuera de los casos en que la ley lo permita, invada con án
 
 A los autores intelectuales, a quienes dirijan la invasión, y a quienes instiguen a la ocupación del inmueble, cuando la invasión se realice por dos o más personas se les impondrá de seis a doce años de prisión y de trescientos a mil días multa.
 
-### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
 
 ###### Artículo 315.
 
@@ -5373,9 +5431,9 @@ A quienes compren, vendan o en cualquier forma transfieran o adquieran ilegalmen
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 316.
 
@@ -5469,7 +5527,7 @@ Cuando la persona que realiza los actos jurídicos descritos en este delito, rev
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5515,7 +5573,7 @@ Cuando los delitos a que se refieren los artículos 332, 340, 341, 345, 346, 347
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO III. COALICION
+### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5563,7 +5621,7 @@ Al servidor público, que sin causa justificada abandone sus funciones sin haber
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
+### CAPITULO III. COALICION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5575,7 +5633,7 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
+### CAPITULO IV. ABUSO DE AUTORIDAD
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5667,7 +5725,7 @@ II. De ocho a doce años de prisión y de mil a mil quinientos días multa, dest
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO VI. CONCUSION
+### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5715,7 +5773,7 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO VII. INTIMIDACION
+### CAPITULO VI. CONCUSION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5731,7 +5789,7 @@ II. De tres a nueve años de prisión, de quinientos a un mil días multa y la d
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
+### CAPITULO VII. INTIMIDACION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5747,7 +5805,7 @@ Al que cometa el delito de intimidación, se le impondrán de dos a nueve años 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO IX. TRAFICO DE INFLUENCIA
+### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5765,7 +5823,7 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO X. COHECHO
+### CAPITULO IX. TRAFICO DE INFLUENCIA
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5783,7 +5841,7 @@ II. De tres a ocho años de prisión, de quinientos a mil días multa y destituc
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XI. PECULADO
+### CAPITULO X. COHECHO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5851,7 +5909,7 @@ Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación e
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+### CAPITULO XI. PECULADO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5879,7 +5937,7 @@ La disposición de bienes para asegurar su conservación y evitar su destrucció
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
+### CAPITULO XII. ENRIQUECIMIENTO ILICITO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5901,7 +5959,7 @@ III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equiv
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XIV. DISPOSICIONES COMUNES
+### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5987,9 +6045,9 @@ En caso de tratarse de particulares realizando funciones propias del supervisor 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO XIV. DISPOSICIONES COMUNES
 
-> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2021)</small>
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 354.
 
@@ -6008,6 +6066,10 @@ Además de las penas señaladas a los delitos de cohecho cometido por servidores
 ## TITULO SEPTIMO. DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESION
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MAYO DE 2021)</small>
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2021)</small>
 
 ###### Artículo 356.
 
@@ -8020,3 +8082,29 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Decreto.
+
+G.G. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 214.- POR EL QUE SE REFORMA EL ARTÍCULO 9; Y SE ADICIONA EL CAPÍTULO V AL SUBTÍTULO QUINTO DEL TÍTULO TERCERO DEL LIBRO SEGUNDO DENOMINADO “TRANSFEMINICIDIO” CON EL ARTÍCULO 281 BIS AL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 216.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y CUARTO, Y SE ADICIONAN LOS PÁRRAFOS SEXTO, NOVENO Y DÉCIMO AL ARTÍCULO 269 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, EN MATERIA DE ACOSO SEXUAL”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 217.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 204 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
