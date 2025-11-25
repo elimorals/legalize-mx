@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cultura-fisica-y-deporte-del-estado-de-mexico-103815"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2024-05-24"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 28 de noviembre de 2014.
 
@@ -88,6 +88,10 @@ XI. Garantizar a las personas sin distinción de género, edad, discapacidad, co
 > <small>(ADICIONADA, G.G. 23 DE JULIO DE 2020)</small>
 
 XII. Promover y fomentar la práctica de actividades físicas, recreativas y deportivas para las niñas, niños y adolescentes con discapacidades.
+
+> <small>(ADICIONADA, G.G. 25 DE NOVIEMBRE DE 2025)</small>
+
+XIII. Promover y fomentar en todas las actividades físicas, recreativas y deportivas actitudes solidarias, la promoción de la cultura de paz, de la legalidad y la no violencia en cualquiera de sus manifestaciones.
 
 ###### Artículo 3.
 
@@ -1397,7 +1401,9 @@ La CECOVIDE tendrá las siguientes atribuciones:
 
 I. Promover e impulsar acciones de prevención contra la violencia en el deporte.
 
-II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia con el fin de conseguir que el deporte sea un referente de y (sic) integración y convivencia social.
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2025)</small>
+
+II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia con el fin de conseguir que el deporte sea un referente de integración y convivencia social.
 
 III. Asesorar dentro del ámbito de su competencia a los organizadores de eventos o espectáculos deportivos en los que se prevea la existencia de actos violentos, siempre que lo requieran.
 
@@ -1634,3 +1640,11 @@ SEXTO. La persona titular del Ejecutivo Estatal deberá expedir el Reglamento In
 SÉPTIMO. Se derogan todas las disposiciones de menor o igual jerarquía que contravengan lo dispuesto por el presente decreto.
 
 OCTAVO. El Congreso del Estado de México deberá armonizar las disposiciones legales que se opongan a la presente reforma en un plazo no mayor a 180 días hábiles a partir de su entrada en vigor.
+
+G.G. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 215.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 122 Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 2 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
