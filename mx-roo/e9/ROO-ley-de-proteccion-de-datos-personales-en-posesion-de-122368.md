@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-de-datos-personales-en-posesion-de-122368"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-04"
-last_updated: "2018-01-16"
+last_updated: "2025-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO FRACCIÓN II DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Número 74 Extraordinario, del Periódico Oficial del Estado de Quintana Roo, el martes 4 de julio de 2017.
 
@@ -2046,3 +2048,77 @@ P.O. 16 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 111 POR EL QUE SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2 Y LA FRACCIÓN II DEL ARTÍCULO 3 Y SE DEROGA EL PÁRRAFO TERCERO DEL ARTÍCULO 2, TODOS DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 154 POR LOS QUE SE REFORMA LA FRACCIÓN XLIII DEL ARTÍCULO 43 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, Y SE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A la entrada en vigor del presente Decreto se abrogan las siguientes disposiciones:
+
+I. Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo, expedida mediante Decreto número 398 de la H. XIV Legislatura del Estado y publicada en el Periódico Oficial del Estado de Quintana Roo en fecha 03 de mayo de 2016 y sus modificaciones posteriores, y
+
+II. Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Quintana Roo, expedida mediante Decreto 066 de la H. XV Legislatura del Estado y publicada en el Periódico Oficial del Estado de Quintana Roo el 04 de julio de 2017 y sus modificaciones posteriores.
+
+TERCERO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa respecto al Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, se entenderán hechas o conferidas a las Autoridades Garantes Estatales que adquieren tales atribuciones o funciones, según corresponda.
+
+CUARTO. Se respetarán los derechos laborales de las personas servidoras públicas del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo conforme a la Ley Federal del Trabajo, Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo, y demás disposiciones jurídicas aplicables.
+
+QUINTO. La Secretaría de Finanzas y Planeación designará, al día siguiente de la entrada en vigor del presente Decreto, a la persona liquidadora quien será la responsable del proceso de liquidación del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, el cual, deberá llevarse a cabo de manera oportuna, eficaz y con apego a las disposiciones jurídicas aplicables, para dar cumplimiento a lo dispuesto en el transitorio cuarto. Para tal efecto deberán otorgársele todas las facultades necesarias para el cumplimiento de su encargo, incluyendo las más amplias para actos de administración, dominio, pleitos y cobranzas; para suscribir u otorgar títulos de crédito, así como aquellas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones legales aplicables, y para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación.
+
+El Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, entregará a la persona liquidadora designada por la Secretaría de Finanzas y Planeación la relación de personas que incluya antigüedad y modalidad mediante la cual presta sus servicios en dicho Instituto, dentro de los tres días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto, a fin de que en coordinación con la Secretaría del Trabajo y Previsión Social, realice las acciones que correspondan conforme a las disposiciones jurídicas aplicables.
+
+SEXTO. Las personas servidoras públicas del Instituto de Acceso a la Información Pública y Protección de Datos Personales de Quintana Roo que dejen de prestar sus servicios en el mencionado Instituto, deberán presentar su declaración de conclusión del encargo, de conformidad con las disposiciones jurídicas aplicables, y la realizarán en el sistema de la Secretaría Anticorrupción y Buen Gobierno de Quintana Roo habilitado para tal efecto o en los medios que esta determine.
+
+Las personas Comisionadas del Instituto de Acceso a la Información Pública y Protección de Datos Personales de Quintana Roo, deberán presentar acta de entrega recepción institucional a la persona liquidadora designada por la persona Titular de la Secretaria de Finanzas y Planeación, en términos de lo dispuesto en la normatividad aplicable, en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+SÉPTIMO. Los recursos materiales con que cuente el Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, serán entregados a la persona liquidadora designada por la Secretaría de Finanzas y Planeación, dentro de los cinco días hábiles siguientes a la entrada en vigor del presente Decreto, a efecto de que, previos los trámites y gestiones administrativas que correspondan con la Secretaría de Finanzas y Planeación, éstos sean destinados al servicio del órgano administrativo desconcentrado de la Secretaría Anticorrupción y Buen Gobierno, denominado Instituto Quintanarroense de Transparencia para el Pueblo.
+
+OCTAVO. El Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, entregará dentro de los cinco días hábiles siguientes a la entrada en vigor del presente Decreto los recursos financieros del Instituto a la persona liquidadora designada, y esta de conformidad con las disposiciones jurídicas aplicables hará entrega de los mismos a la Secretaría de Finanzas y Planeación.
+
+Asimismo, el Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo deberá entregar al citado liquidador la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes al tercer trimestre, de conformidad con las disposiciones jurídicas aplicables, dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Los elementos de seguridad para el acceso a la Plataforma Nacional de Transparencia, con los que cuenta el Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo en su calidad de administrador como órgano garante serán entregados a la persona liquidadora designada por la Secretaría de Finanzas y Planeación dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto, y la persona liquidadora con posterioridad a su recepción entregará dichos elementos de seguridad a la Secretaría Anticorrupción y Buen Gobierno en un plazo de 10 días hábiles.
+
+DÉCIMO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo en materia de acceso a la información pública (solicitudes de información, verificación de obligaciones de transparencia, denuncias por incumplimiento de obligaciones de transparencia y recursos de revisión), se sustanciarán ante el órgano administrativo desconcentrado de la Secretaría Anticorrupción y Buen Gobierno, denominado Instituto Quintanarroense de Transparencia para el Pueblo conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, en materia de acceso a la información pública (recursos de inconformidad y juicios de amparo), se llevará a cabo por el Instituto Quintanarroense de Transparencia para el Pueblo.
+
+El Instituto Quintanarroense de Transparencia para el Pueblo remitirá en un término de hasta noventa días hábiles a la Autoridad Garante Estatal competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+DÉCIMO PRIMERO. los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, en materia de datos personales (solicitudes de derechos ARCO, verificación, denuncia y recursos de revisión en materia de datos personales) o cualquier otra distinta a la mencionada en el transitorio anterior, se sustanciarán ante el órgano administrativo desconcentrado del Poder Ejecutivo subordinado a la Secretaría Anticorrupción y Buen Gobierno, denominado Instituto Quintanarroense de Transparencia para el Pueblo conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, en materia de datos personales (recursos de inconformidad y juicios de amparo) o cualquier otra distinta a la mencionada en el transitorio anterior, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales, se llevará a cabo por el órgano administrativo desconcentrado del Poder Ejecutivo subordinado a la Secretaría Anticorrupción y Buen Gobierno, denominado Instituto Quintanarroense de Transparencia para el Pueblo.
+
+El Instituto Quintanarroense de Transparencia para el Pueblo remitirá en un término de hasta noventa días hábiles a la Autoridad Garante Estatal competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+DÉCIMO SEGUNDO. Los procedimientos litigiosos en los que participe el Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, sobre temas diversos a los previstos en los artículos DÉCIMO y DÉCIMO PRIMERO transitorio y que no correspondan estrictamente a su naturaleza como órgano autónomo en materia de acceso a la información y datos personales, se continuarán hasta su total conclusión a través de la persona liquidadora designada por la Secretaría de Finanzas y Planeación, quien será el nuevo titular de los derechos en dichos asuntos.
+
+DÉCIMO TERCERO. La persona Titular del Poder Ejecutivo deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, incluida la emisión de la estructura orgánica y el Reglamento Interior del Instituto Quintanarroense de Transparencia para el Pueblo, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, a fin de armonizarlos a lo previsto en el presente Decreto.
+
+DÉCIMO CUARTO. Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley de Archivos del Estado de Quintana Roo y demás disposiciones jurídicas aplicables, serán entregados a la persona liquidadora designada dentro de los cinco días hábiles siguientes a la entrada en vigor del presente Decreto, y esta a su vez los entregará a la Secretaría Anticorrupción y Buen Gobierno de Quintana Roo dentro de los diez días hábiles siguientes a su recepción.
+
+La Secretaría Anticorrupción y Buen Gobierno de Quintana Roo, dentro de los treinta días hábiles siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
+
+DÉCIMO QUINTO. El Órgano Interno de Control del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo queda extinto y los asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán entregados a la persona designada como liquidador dentro de los veinte días hábiles siguientes a la entrada en vigor del presente decreto, y este a su vez transferirá dichos asuntos y procedimientos a la Secretaría Anticorrupción y Buen Gobierno de Quintana Roo dentro de los diez días hábiles siguientes a su recepción, y serán tramitados y resueltos conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+DÉCIMO SEXTO. El Comité del Subsistema de Transparencia del Estado deberá instalarse a más tardar en noventa días hábiles, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría Anticorrupción y Buen Gobierno de Quintana Roo.
+
+DÉCIMO SÉPTIMO. La persona titular de la Secretaría Técnica del Comité del Subsistema de Transparencia del Estado propondrá las reglas de operación y funcionamiento que se señalan en el artículo 25, fracción VII, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, para que sean aprobadas en la instalación de dicho Comité.
+
+DÉCIMO OCTAVO. El Consejo Consultivo del Subsistema de Transparencia deberá instalarse dentro de los ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO NOVENO. Las Autoridades Garantes Estatales en un plazo no mayor de noventa días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento armonizándola conforme lo establecido en las leyes que se expiden.
+
+En caso de que los responsables omitan total o parcialmente expedir o adecuar su normativa correspondiente en el plazo establecido en el párrafo anterior, resultarán aplicables de manera directa las leyes que se expiden mediante el presente Decreto.
+
+Para los efectos de lo previsto en este transitorio, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en el presente instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades que se mencionan en el párrafo anterior.
+
+VIGÉSIMO. Para el cumplimiento de las atribuciones y obligaciones previstas en las leyes que se expiden, las Autoridades Garantes Estatales se auxiliarán del personal y/o unidades administrativas estrictamente indispensables, de conformidad con la disponibilidad presupuestal asignada, por lo que no requerirán recursos adicionales; debiendo observar en todo momento los principios de legalidad, eficiencia, eficacia, transparencia y honradez en el ejercicio de los recursos públicos.
+
+VIGÉSIMO PRIMERO. No se podrán reducir o ampliar en la normatividad interna de los responsables, los procedimientos y plazos vigentes aplicables en la materia, en perjuicio de los Titulares de los datos personales.
+
+VIGÉSIMO SEGUNDO. La Secretaría de Finanzas y Planeación y la Secretaría Anticorrupción y Buen Gobierno, dictarán los lineamientos y disposiciones de carácter general en el ámbito de sus respectivas competencias que se estimen necesarios, en todo aquello que no se haya considerado expresamente en el presente Decreto y su régimen transitorio.
+
+VIGÉSIMO TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
