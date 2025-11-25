@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ingresos-del-estado-de-san-luis-potosi-para-el-175434"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-26"
-last_updated: "2024-12-26"
+last_updated: "2025-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 26 de diciembre de 2024.
 
@@ -45,13 +45,19 @@ LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2025.
 
 ### Capítulo I. De los Ingresos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 1º.
 
-El Estado del (sic) San Luis Potosí, durante el Ejercicio Fiscal del año 2025, percibirá los ingresos provenientes de los conceptos previstos en la Ley de Hacienda para el Estado de San Luis Potosí y en el Código Fiscal del Estado de San Luis Potosí, así como los que emanen de las diversas disposiciones federales, por un total $65,561,137,543.00 (sesenta y cinco mil quinientos sesenta y un millones, ciento treinta y siete mil, quinientos cuarenta (sic) tres pesos 00/100 M.N.), lo que representa un 3.4% de incremento sobre lo autorizado en Ley del ejercicio 2024, por los conceptos y montos estimados que se citan a continuación:
+El Estado del (sic) San Luis Potosí, durante el Ejercicio Fiscal del año 2025, percibirá los ingresos provenientes de los conceptos previstos en la Ley de Hacienda para el Estado de San Luis Potosí y en el Código Fiscal del Estado de San Luis Potosí, así como los que emanen de las diversas disposiciones federales, por un total (sic) $70,524,814,600.00 (setenta mil quinientos veinticuatro millones, ochocientos catorce mil, seiscientos pesos 00/100 M.N.), lo que representa un 11.3% de incremento sobre lo autorizado en (sic) Ley del ejercicio 2024, por los conceptos y montos estimados que se citan a continuación:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 26 DE DICIEMBRE DE 2024, PÁGINAS DE LA 27 A LA 30.]</small>
 
-De acuerdo con lo anterior, para el Ejercicio Fiscal 2025 se propone un ingreso total de $65,561,137,543.00 (sesenta y cinco mil quinientos sesenta y un millones, ciento treinta y siete mil, quinientos cuarenta (sic) tres pesos 00/100 M.N.), lo que representa un 3.4% de incremento sobre lo estimado en (sic) Ley del ejercicio 2024.
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 25 DE NOVIEMBRE DE 2025, PÁGINAS DE LA 3 A LA 7.]</small>
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+De acuerdo con lo anterior, para el Ejercicio Fiscal 2025 se propone un ingreso total de $70,524,814,600.00 (setenta mil quinientos veinticuatro millones, ochocientos catorce mil, seiscientos pesos 00/100 M.N.), lo que representa un 11.3% de incremento sobre lo estimado en (sic) Ley del ejercicio 2024.
 
 ###### ARTÍCULO 2º.
 
@@ -158,3 +164,13 @@ J. GUADALUPE TORRES SÁNCHEZ
 El Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0316.- QUE REFORMA EL ARTÍCULO 1° DE LA LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2025, PUBLICADO EL 26 DE DICIEMBRE DE 2024; Y REFORMA LOS ARTÍCULOS 2°, 4°, 5°, 6°, 7° Y 9°, Y SE ADICIONAN LOS ARTÍCULOS 40 Y 41, AL PRESUPUESTO DE EGRESOS DEL ESTADO, PARA EL EJERCICIO FISCAL 2025, PUBLICADO EL 26 DE DICIEMBRE DE 2024".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
