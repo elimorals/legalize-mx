@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-133091"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-01"
-last_updated: "2025-06-05"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Código publicado en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 1 de febrero de 2019.
 
@@ -205,7 +205,9 @@ VII. Familiares que dependan económicamente de quienes se encuentren privados d
 
 VIII. Familiares directos, tales como ascendientes, descendientes o colaterales hasta el primer grado, que dependan económicamente de quienes hayan perdido la vida y que sus circunstancias socioeconómicas lo ameriten;
 
-IX. Familiares directos, tales como ascendientes, descendientes o colaterales hasta el primer grado, de personas desaparecidas y que sus circunstancias socioeconómicas lo ameriten;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+IX. Familiares de personas desaparecidas a los que hace referencia el artículo 4 párrafo 1 fracción XVI de la Ley de Personas Desaparecidas del Estado de Jalisco;
 
 X. Las víctimas de la comisión de delitos;
 
@@ -2044,5 +2046,11 @@ En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus regl
 P.O. 5 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29841/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 5 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29867/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ATENCIÓN A VÍCTIMAS, DE LA LEY DE DESARROLLO SOCIAL, DEL CÓDIGO DE ASISTENCIA SOCIAL Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
