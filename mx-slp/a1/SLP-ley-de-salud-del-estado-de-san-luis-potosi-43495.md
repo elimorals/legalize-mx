@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2025-11-11"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -4259,13 +4259,17 @@ IV. Arresto hasta por treinta y seis horas.
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-ARTÍCULO 380 BIS. La inobservancia a las determinaciones que durante una pandemia decrete la autoridad sanitaria, dará lugar indistintamente a las siguientes sanciones:
+ARTICULO 380 BIS. La inobservancia a las determinaciones que durante una pandemia decrete la autoridad sanitaria, dará lugar indistintamente a las siguientes sanciones:
 
 I. Retiro del lugar del que se trate;
 
 II. Dispersión, y
 
 III. Trabajo en favor de la comunidad.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+ARTICULO 380 TER. Las personas profesionales, técnicas o auxiliares de las disciplinas para la salud y relacionadas con las prácticas médicas que realicen, impartan, apliquen, obliguen o financien tratamientos, terapias o cualquier tipo de servicios o prácticas, quirúrgicas o de otra índole, con el objeto de obstaculizar, restringir, impedir, menoscabar, anular o suprimir la orientación sexual, identidad o expresión de género de una persona, serán sancionadas en términos de lo dispuesto por el artículo 190 Bis del Código Penal del Estado y además, serán suspendidas en el ejercicio profesional de uno a tres años.
 
 ###### ARTICULO 381.
 
@@ -5140,3 +5144,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. La Secretaría de Salud del Estado en un término de 90 días naturales deberá expedir los lineamientos para el cumplimiento de esta disposición.
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0315.- QUE ADICIONA EL CAPÍTULO VIII AL TÍTULO CUARTO Y LOS ARTÍCULOS 190 BIS Y 190 TER, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EL ARTÍCULO 380 TER, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
