@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2022-02-19"
+last_updated: "2025-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -149,13 +149,21 @@ X. Ley sobre los Derechos y el Desarrollo de los Pueblos y las Comunidades Indí
 
 XI. La Ley de Cultura de la Paz del Estado de Jalisco y sus Municipios;
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
 
-XII. La legislación general y estatal en materia de discriminación; y
+XII. La legislación general y estatal en materia de discriminación;
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XII], P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2025)</small>
 
-XIII. Las demás leyes aplicables.
+XIII. La legislación general y estatal en materia de víctimas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+XIV. La legislación general y estatal en materia de personas desaparecidas; y
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2025)</small>
+
+XV. Las demás leyes aplicables
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1396,3 +1404,9 @@ P.O. 19 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28737/LXIII/22 QUE REFORMA EL ARTÍCULO 58 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29867/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ATENCIÓN A VÍCTIMAS, DE LA LEY DE DESARROLLO SOCIAL, DEL CÓDIGO DE ASISTENCIA SOCIAL Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
