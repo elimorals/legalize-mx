@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-100008"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2022-03-09"
+last_updated: "2025-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 25 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -2314,3 +2316,43 @@ PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado para s
 SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- (SIC) La Secretaría de Movilidad y Transporte, deberá adecuar sus reglamentos y demás ordenamientos jurídicos, dentro del término de noventa días naturales contados a partir de la publicación del presente decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase la presente Ley a la Persona Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se abroga la Ley de Transporte del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", número 5172, del 26 de marzo de 2014, y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a la presente Ley.
+
+CUARTA. La Persona Titular del Poder Ejecutivo Estatal deberá expedir el Reglamento de la presente Ley en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTA. El Sistema Estatal y el Consejo Estatal de Movilidad, Transporte y Seguridad Vial, así como el Observatorio Ciudadano Estatal, deberán quedar formalmente instalados en un plazo no mayor a ciento veinte días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+SEXTA. Los Ayuntamientos del estado de Morelos deberán crear, adecuar o modificar sus respectivos Reglamentos de Movilidad, Transporte y Seguridad Vial a las disposiciones de la presente Ley, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMA. La Coordinación General de Movilidad y Transporte, deberá expedir y mantener actualizado el Manual de Diseño de Calles para el Estado de Morelos, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+OCTAVA. Las concesiones, permisos y autorizaciones otorgados con anterioridad a la entrada en vigor de la presente Ley continuarán vigentes en los términos en que fueron expedidos, acreditando estar debidamente regularizados en sus trámites, pero sus titulares deberán ajustarse a las obligaciones de transición, operación, seguridad y equipamiento que establece el nuevo ordenamiento en los plazos que fije el Reglamento.
+
+NOVENA. Los procedimientos y recursos administrativos iniciados con anterioridad a la entrada en vigor de esta Ley se seguirán tramitando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+DÉCIMA. Las disposiciones contenidas en la presente Ley que para su implementación requieran la erogación de recursos financieros, se realizarán conforme a la suficiencia presupuestal con que cuente la Coordinación General.
+
+DÉCIMA PRIMERA. Respecto a la atribución conferida a la Coordinación General en el artículo 15, fracción VI, de esta Ley, que faculta el establecimiento y operación de centros de evaluación y certificación para la obtención de licencias, la Coordinación General, en coordinación con la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal y demás autoridades competentes, deberá:
+
+I. Realizar, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley, un análisis exhaustivo de factibilidad administrativa, técnica y presupuestal para el establecimiento y operación de dichos centros, y
+
+II. Con base en el análisis referido, elaborar e implementar, en un plazo no mayor a treinta días naturales, un programa de implementación gradual que garantice la adecuada asignación de recursos humanos, materiales y financieros, así como la infraestructura tecnológica necesaria para asegurar la plena operatividad de los centros de evaluación y certificación.
+
+Lo anterior, conforme a la suficiencia presupuestal que al efecto autorice la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
+
+DÉCIMA SEGUNDA. La Coordinación General deberá elaborar y publicar, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, el Plan Maestro de Transición referido en el Artículo 74. Dicho Plan definirá las etapas, los incentivos y los plazos para la migración de las rutas operadas bajo esquemas de concesión individual a los modelos de gestión de ruta-empresa, cuenca de servicio o corredores, en congruencia con los principios de eficiencia, seguridad y sostenibilidad que rigen esta Ley.
+
+DÉCIMA TERCERA. Las concesiones de transporte público otorgadas bajo el modelo hombre-camión que se encuentren vigentes a la fecha de entrada en vigor de la presente Ley podrán continuar operando en las mismas condiciones establecidas en sus títulos originales, existiendo la posibilidad de organizarse, quienes así lo deseen, bajo la modalidad ruta-empresa, con la finalidad de obtener economías en la adquisición, administración, mantenimiento y operación del parque vehicular, y con ello, lograr la mejoría sustantiva en los estándares de calidad y mejoramiento constante del sistema de transporte público.
+
+DÉCIMA CUARTA. A partir de la primera renovación posterior a la entrada en vigor de esta Ley, cada concesión que se renueve deberá incorporar gradualmente ciertos estándares y requisitos de manera progresiva y escalonada, con el fin de asegurar que el servicio evolucione hacia los nuevos estándares de calidad y eficiencia para la gestión de la movilidad sostenible.
+
+DÉCIMA QUINTA. En un plazo no mayor a noventa días naturales a partir de la entrada en vigor de la presente Ley, la Coordinación General deberá establecer y publicar en el Periódico Oficial "Tierra y Libertad" los lineamientos y la periodicidad del Programa de Certificación para instructores de manejo e instituciones y escuelas de manejo a que se refiere el Artículo 176 de esta Ley, garantizando la continua actualización y estandarización de la formación impartida en materia de movilidad y seguridad vial en el Estado.
