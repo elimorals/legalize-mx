@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2025-07-09"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -120,6 +120,10 @@ XV. Educación en gestión menstrual: Los conocimientos y acciones tendientes a 
 > <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2023)</small>
 
 XVI. Higiene Bucodental: Conjunto de conocimientos, prácticas y hábitos tendientes al cuidado, limpieza, conservación de la salud y prevención de enfermedades, pertenecientes o relativas a la boca y los dientes.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XVI (SIC). Perspectiva de juventudes, se refiere al enfoque y reconocimiento destinado a asegurar que en todas las decisiones y acciones se tenga en cuenta y se visibilicen las barreras que enfrentan las y los jóvenes para participar, ser considerados y ejercer sus derechos.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
 
@@ -265,6 +269,18 @@ XXV. Promover la educación intercultural en pro de la paz y el entendimiento en
 
 XXVI. Concientizar al alumnado sobre la importancia de la prevención y detección oportuna de todos los tipos de cáncer, a fin de que puedan tomar decisiones saludables y reducir los riesgos de contraerlos.
 
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XXVII. Promover la seguridad escolar mediante la implementación de estrategias preventivas contra la violencia en los planteles educativos, y la capacitación en el Protocolo Único para la Prevención, Detección y Actuación en Casos de Violencia Contra Niñas, Niños y Adolescentes de las Escuelas de Educación Básica del Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XXVIII. Fomentar el uso correcto de las reglas gramaticales y ortográficas del idioma español.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XXIX. Promover y fortalecer la inteligencia emocional en las y los educandos, entendida como la facultad de reconocer, comprender y regular las emociones propias, así como de identificar y comprender las de otras personas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 9.
@@ -287,13 +303,21 @@ II. Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la c
 
 III. Contribuirá a la mejor convivencia humana y a la resolución no violenta de conflictos sociales a través de la participación social, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad; así como por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de raza, género, religión, grupo e individuo, así como cualquier forma de maltrato y violencia entre escolares.
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
-IV. Aportará elementos para robustecer en los educandos el aprecio a la dignidad de la persona y la integridad de los diversos tipos de familia, sustentando los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de raza, religión, grupo, sexo o de orientación sexual y perspectiva de género.
+IV. Aportará elementos para robustecer en los educandos el aprecio a la dignidad de la persona y la integridad de los diversos tipos de familia, sustentando los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de raza, religión, grupo, sexo o de orientación sexual, promoviendo la perspectiva de juventudes y perspectiva de género.
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
 
 V. Será de calidad, entendiéndose por esta, a la cualidad de un sistema educativo que integra las dimensiones de relevancia, pertinencia, equidad, eficiencia, eficacia, impacto y suficiencia.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+VI. Será integral porque educará para la vida y estará enfocada en las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+Las autoridades educativas garantizarán que los entornos escolares estén libres de contenidos que promuevan la apología del delito, previstos en la Ley de Seguridad Escolar para el Estado de Chihuahua, o normalicen la violencia o perpetúen estereotipos contrarios a los valores de respeto e igualdad, fomentando en su lugar materiales que promuevan la convivencia pacífica y la educación en valores.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4762,3 +4786,33 @@ P.O. 9 DE JULIO DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, destinará, en la medida financiera posible, una partida presupuestal suficiente para garantizar el costo de las capacitaciones que se impartirán al personal que asignen las autoridades educativas, representaciones sindicales y autoridades Judiciales, para los efectos previstos en el presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVIII/RFLEY/0278/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, destinará, en la medida financiera posible, una partida presupuestal suficiente para garantizar el costo de las capacitaciones que se impartirán al personal que asignen las autoridades educativas, para los efectos previstos en el presente Decreto.
+
+TERCERO.- La Secretaría de Educación y Deporte del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, a fin de establecer los criterios y lineamientos necesarios para la aplicación de lo dispuesto en el artículo 4, fracción X, tercer párrafo, de la Ley de Seguridad Escolar para el Estado de Chihuahua.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0286/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN, EN MATERIA DE PERSPECTIVA DE JUVENTUDES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0288/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 8, LA FRACCIÓN XXVIII, DE LA LEY ESTATAL DE EDUCACIÓN, A FIN DE FOMENTAR EL USO CORRECTO DE LAS REGLAS GRAMATICALES Y ORTOGRÁFICAS DEL IDIOMA ESPAÑOL”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0289/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 8, LA FRACCIÓN XXIX, Y AL ARTÍCULO 9, LA FRACCIÓN VI, AMBOS DE LA LEY ESTATAL DE EDUCACIÓN, A EFECTO DE ESTABLECER LA ATRIBUCIÓN DE LA AUTORIDAD EDUCATIVA PARA PROMOVER Y FORTALECER LA INTELIGENCIA EMOCIONAL EN LAS Y LOS EDUCANDOS”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
