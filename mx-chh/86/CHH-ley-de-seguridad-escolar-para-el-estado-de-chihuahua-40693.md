@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-seguridad-escolar-para-el-estado-de-chihuahua-40693"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-31"
-last_updated: "2024-08-21"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 31 de julio de 2004.
 
@@ -73,6 +73,10 @@ A través de la prevención se propone brindar las habilidades psicosociales nec
 
 En los servicios educativos será obligatorio que el personal docente, directivos escolares y personal administrativo cursen los programas de capacitación que la Secretaría diseñe a partir de los manuales de buenas prácticas, para conocer, atender y prevenir el maltrato entre escolares.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+El Estado garantizará la capacitación constante del personal docente, directivo y administrativo en el Protocolo Único para la Prevención, Detección y Actuación en Casos de Violencia Contra Niñas, Niños y Adolescentes de las Escuelas de Educación Básica del Estado de Chihuahua.
+
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### Artículo 4.
@@ -95,7 +99,21 @@ VII. Coordinar las acciones con la participación de las diversas instituciones 
 
 VIII. Fomentar la resolución no violenta de conflictos a través de mecanismos alternativos para dirimir controversias en materia de seguridad escolar.
 
-IX. Los demás objetivos que en la materia sean emitidos por las autoridades competentes de acuerdo a las necesidades que se vayan suscitando.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+IX. Dar a conocer el Protocolo Único para la Prevención, Detección y Actuación en Casos de Violencia Contra Niñas, Niños y Adolescentes de las Escuelas de Educación Básica del Estado de Chihuahua, para que las instituciones educativas implementen sus mecanismos de prevención, detección y actuación en casos de violencia entre quienes integran la comunidad escolar.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+X. Prohibir la reproducción de material musical y audiovisual con contenidos que promuevan la violencia, la apología del delito o conductas contrarias a los valores de respeto e igualdad en los planteles escolares.
+
+Para efectos de esta Ley, se entenderá por apología del delito, en el ámbito escolar, la reproducción de música cuyas letras o mensajes promuevan, justifiquen o glorifiquen conductas delictivas, especialmente aquellas relacionadas con la violencia, el narcotráfico o cualquier actividad ilícita.
+
+Los criterios específicos para su identificación y las disposiciones complementarias para su aplicación serán establecidos en el reglamento correspondiente.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XI. Los demás objetivos que en la materia sean emitidos por las autoridades competentes, de acuerdo con las necesidades que se vayan suscitando.
 
 ###### Artículo 5.
 
@@ -237,9 +255,13 @@ IX. Participar, a través de la Coordinación Estatal de Seguridad Escolar, con 
 
 X. Coadyuvar con la Secretaría de Seguridad Pública del Estado en el desarrollo de las campañas de prevención a que se refiere la fracción VI, del artículo 12 BIS de esta Ley; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
-XI. Las que conforme a esta Ley y otras disposiciones aplicables le correspondan.
+XI. Diseñar, implementar y supervisar programas de capacitación para el personal docente, directivo y administrativo en el Protocolo Único para la Prevención, Detección y Actuación en Casos de Violencia Contra Niñas, Niños y Adolescentes de las Escuelas de Educación Básica del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XII. Las que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 10 Bis.
 
@@ -431,6 +453,10 @@ II.- Las medidas de seguridad que se implementen al interior y exterior de los c
 
 III.- Las disposiciones mínimas que deberá contener el reglamento interior de los centros educativos.
 
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+IV.- Establecer como prohibición expresa la reproducción de música o contenidos que promuevan la violencia, la apología del delito o estereotipos dañinos, dentro de los planteles educativos y durante eventos escolares, en los términos de la fracción X del artículo 4 de esta Ley.
+
 ###### Artículo 23.
 
 A efecto de llevar el registro a que se refiere la fracción VII, del artículo 19 de esta Ley, en cualquier momento, la brigada podrá solicitar a los responsables de negocios, vendedores o comerciantes, ubicados dentro del perímetro del centro escolar, la exhibición de los permisos, autorizaciones o licencias expedidos por autoridad competente para la operación de que se trate.
@@ -450,6 +476,10 @@ Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su 
 ###### Artículo 25.
 
 Es obligación de los miembros de la comunidad escolar reportar o poner en conocimiento de la brigada o de la autoridad escolar, cualquier situación anormal que detecten y que pongan en riesgo la seguridad escolar.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+Así mismo, es obligación del personal docente, directivo y administrativo, supervisar que dentro del entorno escolar no se promueva la reproducción de contenidos audiovisuales o musicales que fomenten la violencia, la apología del delito o conductas contrarias a los principios educativos previstos en esta Ley.
 
 ###### Artículo 26.
 
@@ -632,3 +662,13 @@ Las autoridades competentes de la Administración Pública Estatal realizarán, 
 ###### ARTÍCULO TERCERO.
 
 La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las medidas, disposiciones y previsiones financieras, de ser necesarias a que hubiera lugar, siguiendo los procedimientos aplicables, a fin de cumplir con lo establecido en el presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/RFLEY/0278/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DE EDUCACIÓN.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, destinará, en la medida financiera posible, una partida presupuestal suficiente para garantizar el costo de las capacitaciones que se impartirán al personal que asignen las autoridades educativas, para los efectos previstos en el presente Decreto.
+
+TERCERO.- La Secretaría de Educación y Deporte del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, a fin de establecer los criterios y lineamientos necesarios para la aplicación de lo dispuesto en el artículo 4, fracción X, tercer párrafo, de la Ley de Seguridad Escolar para el Estado de Chihuahua.
