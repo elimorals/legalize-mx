@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-adopcion-para-el-estado-de-chiapas-142551"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-15"
-last_updated: "2020-04-15"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ADOPCIÓN PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Numero 097 la del Periódico Oficial del Estado de Chiapas, el miércoles 15 de abril de 2020.
 
@@ -82,6 +82,10 @@ VIII. Familia de Acogida: A la persona que cuente con la certificación del Cons
 IX. Familia de Origen: A la familia compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes Niñas, Niños y Adolescentes tienen parentesco ascendente hasta segundo grado.
 
 X. Familia Extensa o Ampliada: A la familia compuesta por los ascendientes de Niñas, Niños y Adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+X-A. Integración Familiar: A la etapa de trámite administrativo de Adopción en la que el Consejo determina mediante resolución, que Solicitantes satisfacen integralmente las necesidades de los Sujetos Susceptibles de Adopción.
 
 XI. Interés Superior de la Niñez: A la figura jurídica que comprende los valores, principios, interpretaciones, acciones y procesos dirigidos a forjar un desarrollo humano integral y una vida digna, así como a generar las condiciones materiales que permitan a los menores vivir plenamente y alcanzar el máximo bienestar personal, familiar y social posible, cuya protección debe promover y garantizar el Estado.
 
@@ -279,6 +283,10 @@ b) La Unidad de Apoyo Jurídico.
 
 c) El Órgano Interno de Control.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+d) La Coordinación Operativa de Centros Asistenciales.
+
 El Consejo sesionará de la siguiente manera:
 
 I. De manera ordinaria, dentro de los primeros cinco días de cada mes, previa invitación escrita, realizada por la Secretaría Técnica del Consejo, con por lo menos cuarenta y ocho horas de anticipación.
@@ -289,7 +297,29 @@ Las personas integrantes del Consejo tendrán derecho a voz y voto, y, para el c
 
 Las decisiones del Consejo se tomarán por mayoría simple, teniendo la persona titular de la Presidencia, o su suplente, el voto de calidad para el caso de empate.
 
-Podrán participar, como invitados especiales a las sesiones del Consejo, las personas profesionales en psicología, medicina, trabajo social o en general cualquier otra rama que sus integrantes consideren relevante para la toma de decisiones en los asuntos a tratar, estos invitados especiales tendrán derecho a voz y no a voto.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+Podrán participar, como invitados especiales a las Sesiones del Consejo, con derecho a voz, pero sin voto, las personas representantes de:
+
+- La Secretaría General de Gobierno y Mediación.
+
+- La Secretaría de Seguridad del Pueblo.
+
+- La Fiscalía General del Estado.
+
+- La Comisión de Derechos Humanos del Congreso del Estado.
+
+- La Comisión de Atención a la Mujer y a la Niñez del Congreso del Estado.
+
+- La Coordinación de Enlace Interinstitucional del DIF-Chiapas.
+
+- La Unidad de Apoyo Administrativo del DIF-Chiapas.
+
+- El Área de Psicología adscrita al Departamento de Adopciones y Servicios Asistenciales de la Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+De igual forma, podrán ser invitados a las sesiones del Consejo, las personas profesionales en psicología, medicina, trabajo social o, en general, cualquier otra rama que sus integrantes consideren relevantes para la toma de decisiones en los asuntos a tratar.
 
 ###### Artículo 26.
 
@@ -303,7 +333,9 @@ I. Sesionar para cumplir con el objeto del Consejo.
 
 II. Verificar que las solicitudes de Adopción y de Familia de Acogida estén debidamente requisitadas en los términos de las disposiciones aplicables.
 
-III. Determinar la Asignación de conformidad con el Principio de Subsidiariedad.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+III. Determinar la Integración Familiar, de conformidad con el Principio de Subsidiariedad.
 
 IV. Aceptar o rechazar las solicitudesde (sic) Adopción y de Familia de Acogida, que someta a su consideración la Procuraduría.
 
@@ -430,3 +462,17 @@ El Ejecutivo del Estado dispondrá que se publique, circule y se dé el debido c
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 08 días del mes de abril del año dos mil veinte.- D. P. C. ROSA ELIZABETH BONILLA HIDALGO.- D. S. C. SILVIA TORREBLANCA ALFARO.– Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 15 días del mes de Abril del año dos mil veinte.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Ismael Brito Mazariegos, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 021 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADOPCIÓN PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La persona titular del DIF-Chiapas, deberá realizar las gestiones necesarias a efecto de instalar el Consejo, de acuerdo a su nueva conformación, en un plazo de treinta días hábiles contados a partir de la publicación del presente Decreto en el Periódico Oficial.
+
+Artículo Cuarto.- Las Dependencias y Entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
