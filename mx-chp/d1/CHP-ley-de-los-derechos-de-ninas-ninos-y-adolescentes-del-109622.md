@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109622"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2025-05-14"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 17 de junio de 2015.
 
@@ -1719,6 +1719,10 @@ III. Registrar, capacitar e integrar expedientes de las familias candidatas al a
 
 IV. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social.
 
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+V. Expedir, previa solicitud de las personas que aspiren a ocupar el cargo de Titular de la Procuraduría de Protección Municipal, constancia que acredite dos o más años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes.
+
 ###### Artículo 137.
 
 El Titular de la Procuraduría de Protección Estatal, deberá contar con los siguientes requisitos:
@@ -1745,11 +1749,15 @@ II. Tener más de 25 años de edad.
 
 III. Contar con título y cédula profesional de licenciatura en derecho debidamente registrados.
 
-IV. Contar con al menos un año de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+IV. Contar con constancia emitida por la Procuraduría de Protección Estatal, que acredite dos o más años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes.
 
 V. Tener buena conducta y no haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-El nombramiento del Procurador o Procuradora Municipal de Protección de los derechos de las Niñas, Niños, Adolescentes y la Familia deberá ser aprobado (sic) el Presidente Municipal y se deberá enviar copia a la Procuraduría de Protección Estatal.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+La persona Titular de la Procuraduría de Protección Municipal, deberá ser nombrada por la o el Presidente Municipal.
 
 ### Capítulo Tercero. De las Facultades del Sistema DIF Estatal y de la Procuraduría de Protección Estatal en Materia de Adopción
 
@@ -1759,7 +1767,9 @@ Las personas interesadas en adoptar niñas, niños y/o adolescentes que se encue
 
 La Procuraduría de Protección Estatal, ordenará realizar las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para integrar el expediente de los solicitantes para ser sometido al Consejo Técnico de Adopciones del Estado, quien evaluará la información y, en su caso, emitirá o negará el certificado de idoneidad respectivo.
 
-La asignación de niñas, niños y adolescentes, sólo podrá otorgarse a una familia de acogida pre-adoptiva que cuente con certificado de idoneidad. Para tal efecto, se observará lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+La integración familiar de niñas, niños y adolescentes, sólo podrá otorgarse a una familia de acogida pre-adoptiva que cuente con certificado de idoneidad. Para tal efecto, se observará lo siguiente:
 
 I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo cognoscitivo y grado de madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente.
 
@@ -1769,15 +1779,17 @@ III. Se tomará en consideración el grado de parentesco; la relación de afinid
 
 IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, considerando el interés superior del niño, niña o adolescente, y una vez descartadas todas las posibilidades de permanecer juntos en otra modalidad de cuidado alternativo a largo plazo, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente. Para lo anterior, se podrá escuchar la opinión de todas las hermanas y hermanos, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 140.
 
-La Procuraduría de Protección Estatal deberá dar seguimiento a la convivencia entre niñas, niños o adolescentes y la una (sic) familia de acogida pre-adoptiva autorizada por el Consejo Técnico de Adopciones, con el fin de prevenir o superar las dificultades que se puedan presentar.
+La Procuraduría de Protección Estatal deberá dar seguimiento a la convivencia entre niñas, niños o adolescentes y una familia de acogida pre-adoptiva autorizada por el Consejo Técnico de Adopciones, con el fin de prevenir o superar las dificultades que se puedan presentar.
 
-En los casos que la Procuraduría de Protección Estatal constate que no se consolidaron las condiciones de adaptación de niñas, niños o adolescentes con la familia de acogida pre-adoptiva, procederá a iniciar el procedimiento a fin de reincorporarlos al sistema que corresponda y se realizará, en su caso, una nueva asignación.
+En los casos que la Procuraduría de Protección Estatal verifique que no se consolidaron las condiciones de adaptación de niñas, niños o adolescentes con la familia de acogida pre-adoptiva, procederá a iniciar el procedimiento a fin de reincorporarlos al sistema que corresponda y se realizará, en su caso, una nueva integración familiar.
 
-Cuando se verifique cualquier tipo de violación a los derechos de niñas, niños o adolescentes asignados, el sistema competente revocará la asignación y ejercerá las facultades que le otorgan la presente Ley y demás disposiciones aplicables.
+Cuando se verifique cualquier tipo de violación a los derechos humanos de niñas, niños o adolescentes reintegrados, el sistema competente revocará la integración familiar y ejercerá las facultades que le otorgan la presente Ley y demás disposiciones aplicables.
 
-Los procedimientos de adopción se desahogarán de conformidad con el Código Civil del Estado.
+Los procedimientos de adopción se desahogarán de conformidad con el Código Civil para el Estado de Chiapas.
 
 ###### Artículo 141.
 
@@ -1813,7 +1825,9 @@ En los procedimientos judiciales de adopción internacional deberá requerirse e
 
 Las personas que ejerzan profesiones en el trabajo social y psicología de las instituciones públicas y privadas que intervengan en procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, deberán contar con la autorización y registro del Sistema DIF- Estatal en el ámbito de su competencia.
 
-La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes, que ésta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de la integración familiar de la niña, niño o adolescente para adopción nacional.
 
 ###### Artículo 144.
 
@@ -2506,3 +2520,13 @@ Artículo Cuarto.- La persona titular de la Secretaría Ejecutiva del Sistema Es
 Artículo Quinto.- Para el caso que se pudieran generar erogaciones con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los recursos de los Entes Públicos en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
 
 La persona titular del Poder Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 020 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- Las Dependencias y Entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
