@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-universidad-de-ciencias-y-artes-de-84086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-16"
-last_updated: "2023-12-13"
+last_updated: "2025-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CIENCIAS Y ARTES DE CHIAPAS, PUBLICADA EN EL P.O. DE 26 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 16 de noviembre de 2011.
 
@@ -596,3 +598,25 @@ Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan 
 Artículo Tercero.- En un período de noventa días a partir de la entrada en vigor del presente Decreto, el Consejo Universitario deberá realizar las adecuaciones al Reglamento y/o las reformas que sean necesarias, conforme a lo establecido en el presente Decreto, mismo que será de observancia para todos los trabajadores, alumnos y sociedad de padres de familia de la Universidad.
 
 Artículo Cuarto.- El impacto presupuestario y financiero que se derive de los (sic) dispuesto por el presente Decreto, tanto en el presente año, como en los ejercicios sucesivos, la Universidad de Ciencias y Artes de Chiapas, (UNICACH), deberá atenderlos con el presupuesto que se le acuerde en el Convenio y Anexo que se suscriba con la Federación, o en su caso, hasta con los ingresos propios que recaude la UNICACH.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CIENCIAS Y ARTES DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Universidad de Ciencias y Artes de Chiapas, publicada en el Periódico Oficial número 336, de fecha 16 de Noviembre de 2011, así como las demás disposiciones que contravengan lo establecido en el presente ordenamiento.
+
+Artículo Tercero.- En un periodo de 90 días hábiles contados a partir de la entrada en vigor de la presente Ley, el Consejo Universitario deberá realizar las adecuaciones al Estatuto General y/o las reformas que sean necesarias, conforme a lo establecido en la presente Ley, mismo que será de observancia para todos los trabajadores, alumnos y sociedad de padres de familia del organismo.
+
+Artículo Cuarto.- Con objeto de facilitar las actividades académicas, administrativas y financieras de la Universidad, todo el personal académico, directivo y administrativo que lo conforma continuará prestando sus servicios en los mismos términos en que lo han venido haciendo, a partir de la entrada en vigor de la presente Ley.
+
+Artículo Quinto.- A partir de la entrada en vigor de la presente Ley, los recursos humanos que forman parte de la Universidad de Ciencias y Artes de Chiapas, pasarán a formar parte del organismo regulado por la presente Ley, respetando en todo momento los derechos laborales que les correspondan
+
+Asimismo, a partir de la entrada en vigor de la presente Ley, todos los recursos materiales y financieros de la Universidad de Ciencias y Artes de Chiapas, pasarán a formar parte del patrimonio del organismo regulado por este Decreto.
+
+Artículo Sexto.- Para los efectos pertinentes se entenderá la denominación de la Universidad Autónoma de Ciencias y Artes de Chiapas, surte los mismos efectos que la reconocida como Universidad de Ciencias y Artes de Chiapas.
+
+Artículo Séptimo.- Los integrantes de los órganos colegiados y los personales que hayan sido electos o designados conforme a la Ley que por este Decreto se abroga, continuarán en sus cargos hasta la conclusión del periodo para el que fueron designados o electos.
+
+Artículo Octavo.- En un periodo de 90 días hábiles contados a partir de la entrada en vigor de la presente Ley, el Consejo Universitario deberá realizar el procedimiento de designación de los nuevos integrantes de la Junta Directiva, en términos de la presente Ley.
