@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-fomento-y-desarrollo-artesanal-del-estado-de-41577"
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-07"
-last_updated: "2020-04-14"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2020.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 7 de Octubre de 2004.
 
@@ -109,11 +109,15 @@ XII. Estimular el desarrollo de la enseñanza de la artesanía en los sistemas e
 
 XIII. Establecer relaciones e intercambios con instituciones nacionales y extranjeras, públicas y privadas;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
-XIV. Promocionar y difundir los trabajos artesanales, realizados por las personas privadas de la libertad que se encuentran en los Centros de Ejecución de Sanciones del Estado, en coordinación con la Secretaría de Seguridad Pública; y
+XIV. Promocionar y difundir los trabajos artesanales, realizados por las personas privadas de la libertad que se encuentran en los Centros de Ejecución de Sanciones del Estado, en coordinación con la Secretaría de Seguridad Pública;
 
-XV. Las demás que emanen de otras disposiciones normativas en la materia o que el Ejecutivo Estatal les encomiende en apoyo de esta actividad.
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XV. Fomentar la actividad y capacitación de los artesanos con discapacidad, así como difundir y promocionar sus creaciones artesanales en coordinación con el Sistema para el Desarrollo Integral de la Familia de Tamaulipas y Ayuntamientos; y
+
+XVI. Las demás que emanen de otras disposiciones normativas en la materia o que el Ejecutivo Estatal les encomiende en apoyo de esta actividad.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -386,6 +390,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 14 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-81 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIII; Y SE ADICIONA LA FRACCIÓN XIV, RECORRIENDO EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 4, DE LA LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-556 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIV, Y SE ADICIONA UNA FRACCIÓN XV, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE DEL ARTÍCULO 4 DE LA LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
