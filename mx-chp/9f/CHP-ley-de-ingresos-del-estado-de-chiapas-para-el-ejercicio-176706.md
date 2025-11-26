@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ingresos-del-estado-de-chiapas-para-el-ejercicio-176706"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-31"
-last_updated: "2025-08-27"
+last_updated: "2025-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2025
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Número 005 del Periódico Oficial del Estado de Chiapas, el martes 31 de diciembre de 2024.
 
@@ -489,41 +489,39 @@ XI. La vigencia de lo autorizado en el presente Artículo es hasta el 31 de dici
 
 XII. Una vez celebrados el o los contratos de crédito y/o los instrumentos derivados que impliquen obligaciones a cargo del Estado mayores a un año, autorizados en el presente Artículo, deberá solicitarse su inscripción en el Registro de Empréstitos y Obligaciones del Estado a cargo de la Secretaría de Finanzas y en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, a cargo de la Secretaría de Hacienda y Crédito Público, en términos de la normativa aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SU TABLA], P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-Con base en el análisis de la capacidad de pago del Estado de Chiapas, el destino de los financiamientos, la situación de la deuda pública y de los recursos a otorgarse como fuente de pago, se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, para que durante el ejercicio fiscal 2025, realice el canje, reestructura o refinanciamiento mediante una o más emisiones bursátiles de la siguientes obligaciones financieras asumidas actualmente mediante las emisiones bursátiles realizadas por conducto del Fideicomiso Irrevocable Emisor de Administración y Pago No. 635, cuyo fiduciario es Banco Invex, S.A. Institución de Banca Múltiple, Invex Grupo Financiero (Fideicomiso Emisor):
+Con base en el análisis de la capacidad de pago del Estado de Chiapas, el destino de los financiamientos, la situación de la deuda pública y de los recursos a otorgarse como fuente de pago, se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, para que durante el ejercicio fiscal 2025, realice el canje, reestructura o refinanciamiento mediante una o más emisiones bursátiles o celebración de financiamientos bancarios de la (sic) siguientes obligaciones financieras asumidas actualmente mediante las emisiones bursátiles realizadas por conducto del Fideicomiso Irrevocable Emisor de Administración y Pago No. 635, cuyo fiduciario es Banco Invex, S.A. Institución de Banca Múltiple, Invex Grupo Financiero (Fideicomiso Emisor):
 
-Clave de Clave de Saldo al 30 de Unidad
+Clave de Clave de Saldo al 24 de Unidad
 
 Cotización Inscripción en el noviembre de
 
-Registro Público 2024
+Registro Público 2025
 
 Único de la SHCP
 
-CHIACB 07 Pendiente de Inscripción $528,750,085.00 Pesos
+CHIACB 07 IL07-1125002 $497,925,226.00 Pesos
 
-e identificada en el Sistema
+CHIACB 07U IL07-1125003 684,594,217 UDIS
 
-de Alertas con el número
+(Unidades de
 
-070719073
-
-CHIACB 07U Pendiente de Inscripción $726,975,119.00 UDIS
-
-e identificada en el Sistema (Unidades
-
-de Alertas con el número de
-
-070719074 Inversión)
+Inversión)
 
 La reestructura o refinanciamientos autorizados en este artículo comprenden la revisión en el monto, tasa, plazo, amortización, garantías, instrumentos derivados, fuente de pago y fideicomisos, ingresos afectados como fuente de pago o garantía de pago, fondos de reserva pactados y comisiones, así como las modificaciones necesarias a las demás condiciones, obligaciones y derechos previamente pactados en las emisiones antes citadas.
 
-Las nuevas operaciones bursátiles autorizadas se sujetarán a las siguientes especificaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+Las nuevas operaciones bursátiles o bancarias autorizadas se sujetarán a las siguientes especificaciones:
 
 I. Monto: hasta por la cantidad que represente en pesos el saldo de las emisiones cuyo refinanciamiento o reestructura se autoriza más, en su caso, las cantidades necesarias para cubrir los fondos de reserva y los gastos y costos relacionados con la o las emisiones respectivas, gastos y costos que se sujetarán al límite previsto en el artículo 22 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el artículo 27 del Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, constitución de fondos de reserva, así como, a realizar el pago, en su caso, de comisiones por estructuración, pago anticipado y demás gastos y costos necesarios.
 
-Para efectos indicativos al 30 de noviembre de 2024, el saldo insoluto de las emisiones que se autoriza refinanciar, reestructurar o ser objeto de canje asciende a $6,046,771,851.93 (Seis mil cuarenta y seis millones setecientos setenta y un mil ochocientos cincuenta y un pesos 93/100 M.N.), el saldo que se actualizará a la fecha de emisión, canje, cruce o prepago correspondiente.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+Al 24 de noviembre de 2025, el saldo insoluto de las emisiones y por el que se autoriza refinanciar, reestructurar o ser objeto de canje asciende a $6,433,000,000.00 (seis mil cuatrocientos treinta y tres millones de pesos 00/100 M.N.); el cual se podrá incrementar para reflejar proporcionalmente el incremento en la cotización de la Unidad de Inversión a la fecha de prepago correspondiente a la emisión CHIACB 07U.
 
 II. Plazo Máximo de Pago: El plazo de pago derivado de la reestructura o canje o de las nuevas emisiones será de hasta [15 (quince) años], contados a partir de la fecha de emisión de los certificados bursátiles, en el entendido que los instrumentos jurídicos que se formalicen deberán precisar el plazo máximo en días y la fecha específica de vencimiento.
 
@@ -656,6 +654,14 @@ De conformidad con la fracción I del artículo 59 de la Constitución Política
 P.O. 27 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 306 DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO QUINTO TRANSITORIO A LA LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2025".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 027 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 3 DE LA LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2025”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
