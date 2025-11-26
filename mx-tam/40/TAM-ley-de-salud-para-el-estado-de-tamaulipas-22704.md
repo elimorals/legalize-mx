@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2025-10-23"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1677,7 +1677,9 @@ XI.- Helmintiasis intestinales y extraintestinales;
 
 XII.- Toxoplasmosis;
 
-XIII.- Síndrome de Inmunodeficiencia Adquirida (SIDA); y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XIII.- Virus de Inmunodeficiencia Humana (VIH) y Síndrome de Inmunodeficiencia Adquirida (SIDA); y
 
 XIV.- Las demás que determine el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sea parte.
 
@@ -4158,6 +4160,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 23 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-523 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 17; I Y III, DEL ARTÍCULO 18; Y EL ARTÍCULO 47, DE LA LEY PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS; Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 29 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-555 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIII AL ARTÍCULO 76 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
