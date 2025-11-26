@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2025-11-07"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -759,9 +759,9 @@ L.- Designar representantes que participen en el Consejo de Armonización Contab
 
 LI.- Diseñar el sistema de evaluación del desempeño a nivel municipal, a través de la dependencia que designe.
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
-LII.- Cumplir con las atribuciones que le confieren a los municipios la Ley General de Víctimas, así como la Ley de Atención a Víctimas para el Estado de Tamaulipas.
+LII.- Cumplir con las atribuciones que la Ley General de Víctimas y la Ley de Atención a Víctimas para el Estado de Tamaulipas confieren a los municipios; además, colaborar con la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas y con la Comisión Estatal de Búsqueda de Personas en la búsqueda y/o localización de personas desaparecidas y no localizadas, efectuando publicidad de alertas, boletines y fichas de búsqueda a través de sus edificios, páginas electrónicas, redes sociales oficiales, estrados y demás espacios públicos, previa autorización de los familiares, debiendo comunicar de inmediato a dichas autoridades, cualquier información, dato o indicio que derive de dicha colaboración, por conducto de la Comisión de Derechos Humanos del Estado de Tamaulipas.
 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -7248,6 +7248,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-527 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXIX Y SE ADICIONA UNA FRACCIÓN LXX, RECORRIÉNDOSE EN SU ORDEN NATURAL LA ACTUAL FRACCIÓN LXX, PARA SER LXXI, AL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-557 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LII DEL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
