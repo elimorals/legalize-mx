@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2023-05-10"
+last_updated: "2025-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
 
@@ -243,17 +243,25 @@ VII.- Establecer mecanismos de evaluación y seguimiento de los programas social
 
 VIII.- Determinar las bases para la participación social en la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+IX.- Promover el establecimiento de instrumentos de acceso a la justicia, a través de la denuncia popular, en materia de desarrollo social;
 
-IX.- Promover el establecimiento de instrumentos de acceso a la justicia, a través de la Denuncia popular, en materia de desarrollo social; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+X.- Fomentar el cuidado del medio ambiente, el aprovechamiento de los recursos naturales y la preservación de los ecosistemas para alcanzar la sustentabilidad del desarrollo y mejorar la calidad de vida y la productividad de las personas;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
-X.- Fomentar el cuidado del medio ambiente, el aprovechamiento de los recursos naturales y la preservación de los ecosistemas para alcanzar la sustentabilidad del desarrollo y mejorar la calidad de vida y la productividad de las personas.
+XI.- Garantizar la evaluación permanente de las políticas públicas, programas y acciones de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XII.- Promover y ejecutar la participación de los distintos niveles de gobierno y de la sociedad, mediante programas, proyectos, estrategias y acciones orientadas al desarrollo social, con un enfoque sostenible, territorial y continuo, que contemple las dimensiones municipales y del Estado; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XIII.- Promover el bienestar social mediante el acceso a una vivienda adecuada, reconocida como un factor fundamental para mejorar la calidad de vida y garantizar el desarrollo integral de las personas y las comunidades.
 
 ###### ARTICULO 32.
 
@@ -647,13 +655,17 @@ XV.- Igualdad: Constituye el objetivo principal del desarrollo social y se expre
 
 XVI.- Equidad: La promoción del acceso de los sujetos del desarrollo social a los programas y acciones de manera proporcional a su situación de marginación, pobreza o vulnerabilidad;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
-XVII.- Equidad de Género: La plena igualdad de derechos y oportunidades entre mujeres y hombres, la eliminación de toda forma de desigualdad, exclusión o subordinación basada en los roles de género y una nueva relación de convivencia social entre mujeres y hombres desprovista de relaciones de dominación, estigmatización, y sexismo; y
+XVII.- Equidad de Género: La plena igualdad de derechos y oportunidades entre mujeres y hombres, la eliminación de toda forma de desigualdad, exclusión o subordinación basada en los roles de género y una nueva relación de convivencia social entre mujeres y hombres desprovista de relaciones de dominación, estigmatización, y sexismo;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
-XVIII.- Universalidad: El reconocimiento de todas las personas como titulares de los derechos sociales y sujetos de desarrollo social.
+XVIII.- Universalidad: El reconocimiento de todas las personas como titulares de los derechos sociales y sujetos de desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
+
+XIX.- Progresividad y prohibición de regresividad: Las autoridades, en el ámbito de sus respectivas competencias, podrán asegurar un avance continuo en la cobertura de los derechos sociales, culturales y ambientales. Este avance será siempre incremental, procurando que no haya disminución o eliminación de los niveles alcanzados y de los beneficios ya otorgados, salvo circunstancias estrictas y debidamente justificadas. Una vez que se ha logrado un progreso en el goce de estos derechos, este se integra como parte sustancial de las prerrogativas constitucionales y constituye un derecho subjetivo para las personas.
 
 ###### ARTICULO 6°.
 
@@ -866,6 +878,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-568 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX, X, XI, XIII Y XIV; Y SE ADICIONAN LAS FRACCIONES XV, XVI, XVII Y XVIII, AL ARTÍCULO 5º, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-550 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4°, FRACCIONES IX Y X; Y 5°, FRACCIONES XVII Y XVIII; Y SE ADICIONAN LAS FRACCIONES XI, XII Y XIII, AL ARTÍCULO 4°; Y LA FRACCIÓN XIX AL ARTÍCULO 5°, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
