@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2025-11-24"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE NOVIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
@@ -8973,9 +8973,13 @@ XXVI. Abstenerse de convocar o participar en cualquier práctica de rebeldía o 
 
 XXVII. Hacer uso de la fuerza de manera proporcional, racional, congruente, oportuna, de acuerdo a la estricta necesidad y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a la Ley Nacional sobre el Uso de la Fuerza, así como a las demás disposiciones normativas y administrativas aplicables, realizándose conforme a derecho;
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)
 
-XXVIII. Promover, respetar, proteger y garantizar los derechos humanos en el ejercicio de sus funciones;
+XXVIII. Promover, respetar, proteger y garantizar los derechos humanos en el ejercicio de sus funciones; y
+
+(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)
+
+XXIX. Abstenerse de reincidir en más de tres ocasiones en un período de seis meses a las obligaciones establecidas en el apartado B del presente artículo.
 
 B. De segundo nivel:
 
@@ -9015,9 +9019,9 @@ X. (DEROGADA, P.O. 24 DE NOVIEMBRE DE 2025)
 
 XI. Tomar las medidas de seguridad y de orden urgentes que sean necesarias en casos de emergencia, incendios, accidentes, inundaciones, siniestros y en general, toda clase de catástrofes;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)
 
-XII. Apegarse a los procedimientos que se establecen en el Reglamento de Desarrollo Policial para el Municipio de Aguascalientes;
+XII. Apegarse a los procedimientos que se establecen en los Manuales, Protocolos y Reglamentos emitidos por Ia Secretaría de Seguridad Pública.
 
 XIII. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso de ellos sólo en el desempeño del servicio, debiendo reportar de inmediato cualquier falla, descompostura o daño al titular de la unidad administrativa a que pertenezca. El uso de las armas se reservará exclusivamente para actos del servicio o capacitación que así lo demanden;
 
@@ -9052,6 +9056,10 @@ XXI. Abstenerse de limitar injustificadamente las acciones o manifestaciones que
 > <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 XXII. Hacer uso adecuado de los dispositivos tecnológicos proporcionados para el servicio conforme a lo establecido a los manuales correspondientes.
+
+(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)
+
+XXIII. Abstenerse de reincidir en más de tres ocasiones en un periodo de seis meses a obligaciones establecidas en el apartado C del presente artículo.
 
 C. De tercer nivel:
 
@@ -9173,9 +9181,9 @@ a) Persuasión o disuasión verbal: consiste en la utilización de palabras o ge
 
 b) Reducción física de movimientos: consiste en la utilización de técnicas de control sin la utilización de armas u objetos, a efecto de controlar a la persona que se ha resistido y ha obstaculizado que el integrante cumpla con sus funciones;
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)
 
-c) Utilización de armas no letales: consiste en la utilización de instrumentos que incapacitan momentáneamente el movimiento, tales como el bastón PR-24, tolete o su equivalente, sustancias irritantes en aerosol, dispositivos eléctricos, esposas o candados de mano, esto a fin de controlar y reducir la resistencia violenta de una persona; y
+c) Utilización de armas no letales: consiste en la utilización de instrumentos que incapacitan momentáneamente el movimiento, tales como el bastón PR-24, tolete o su equivalente, sustancias irritantes en aerosol, dispositivos eléctricos que generan descargas eléctricas, esposas o candados de mano, esto a fin de controlar y reducir la resistencia violenta de una persona; y
 
 d) Utilización de fuerza letal: consiste en la utilización de armas de fuego para su defensa legítima o la de terceros a los que tengan el deber de proteger.
 
@@ -9599,9 +9607,9 @@ IX. Someterse a exámenes para comprobar la ausencia de abuso de sustancias que 
 
 X. No padecer alcoholismo;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)
 
-XI. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+XI. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes o cualquier otra sustancia de carácter ilegal, prohibido o controlado, salvo cuando su uso sea estrictamente necesario por razones médicas y esté debidamente prescrito y autorizado por los servicios médicos de la (sic) Instituciones de salud del Gobierno Municipal;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
@@ -26767,6 +26775,14 @@ P.O. 25 DE AGOSTO DE 2025.
 
 P.O. 24 DE NOVIEMBRE DE 2025.
 
-## [N. DE E. TRANSITORIO DE LA "REFORMA Y ADICIÓN DE DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, CON EL FIN DE HOMOLOGAR LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA CON EL PROPIO CÓDIGO MUNICIPAL".]
+## [N. DE E. TRANSITORIOS DE LA "REFORMA Y ADICIÓN DE DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, CON EL FIN DE HOMOLOGAR LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA CON EL PROPIO CÓDIGO MUNICIPAL".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial en el Estado de Aguascalientes.
+
+> <small>(F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+SEGUNDO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de esta reforma, se tramitarán de acuerdo con las disposiciones vigentes en el momento de su inicio ante las autoridades correspondientes.
+
+> <small>(F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+TERCERO.- Con la entrada en vigor del presente Decreto, quedan sin efecto todas aquellas disposiciones que se opongan al mismo.
