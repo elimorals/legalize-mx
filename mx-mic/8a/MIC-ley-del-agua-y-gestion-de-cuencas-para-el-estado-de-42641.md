@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2025-04-23"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -945,15 +945,23 @@ V. Elaborar estudios necesarios que fundamenten y permitan el establecimiento de
 
 VI. Requerir, cobrar o gestionar su cobro en los términos de Ley;
 
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+VI Bis. Emitir comprobantes de pago a los usuarios de los servicios a su cargo, los cuales deberán ser legibles e indicar la fecha de su expedición o, en su caso, los respectivos recibos digitales a través de los medios electrónicos, en términos de lo dispuesto en la Ley de Firma Electrónica Certificada del Estado de Michoacán de Ocampo, la Ley de Gobierno Digital del Estado de Michoacán de Ocampo y la demás legislación aplicable. Los comprobantes de pago deberán coincidir con el registro del pago de cuotas de los usuarios o sistema de pago;
+
 VII. Ordenar y ejecutar la suspensión o restricción de los servicios públicos por falta de pago y en los demás casos que se señalan en la presente Ley, cuando proceda;
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
 
-VIII. Proponer al Ayuntamiento las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, suministro o transportación de agua potable y manejo de lodos, de acuerdo con los costos reales del servicio;
+VIII. Proponer al Ayuntamiento las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, suministro o transportación de agua potable y manejo de lodos, de acuerdo con los costos reales del servicio. Asimismo, propondrá programas de descuentos para los adultos mayores;
 
 IX. Constituir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo;
 
 X. Otorgar permisos a los usuarios para las descargas de aguas residuales a los sistemas de drenaje o alcantarillado municipales, en los términos de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+X Bis. Proponer al Ayuntamiento mejoras en los sistemas de captación, conducción, tratamiento de aguas residuales, reutilización y recirculación de las aguas servidas, control y prevención de la contaminación de las aguas;
 
 XI. Promover programas para fomentar el uso racional del agua potable;
 
@@ -2174,3 +2182,11 @@ P.O. 23 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 153 POR EL QUE “SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VII RECORRIENDO DE FORMA SUBSECUENTE LAS SIGUIENTES FRACCIONES DEL ARTÍCULO 3; SE ADICIONA LA FRACCIÓN XXXV DEL ARTÍCULO 11, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN SUBSECUENTE; Y, SE REFORMA EL ARTÍCULO 110 BIS DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 250 POR EL QUE "SE REFORMA LA FRACCIÓN VIII; Y, SE ADICIONAN LAS FRACCIONES VI BIS Y X BIS AL ARTÍCULO 45 DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
