@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-de-los-migrantes-y-sus-123004
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-18"
-last_updated: "2025-11-20"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 18 de agosto de 2017.
 
@@ -185,11 +185,11 @@ La matrícula consular es un documento que reconocerán y aceptarán los órgano
 
 Las políticas públicas deberán atender las materias de cultura, educación, juventud, equidad de género, salud, justicia, turismo, desarrollo económico, medio ambiente, rural y social, entre otras que los beneficien.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 7.
 
-En la generación de las políticas públicas a cargo de los órganos del Estado y Ayuntamientos, conforme a sus respectivos ámbitos de competencia, se observará como criterio obligatorio el reconocer, promover y garantizar los derechos establecidos en la Legislación General, Federal, Estatal y la presente Ley, bajo los principios de universalidad, progresividad, interdependencia, indivisibilidad, igualdad y equidad de género e interés superior de la niñez; así como:
+En la generación de las políticas públicas a cargo de los órganos del Estado, conforme a sus respectivos ámbitos de competencia, se observará como criterio obligatorio el reconocer, promover y garantizar los derechos establecidos en la Legislación General, Federal, Estatal y la presente Ley, bajo los principios de universalidad, progresividad, interdependencia, indivisibilidad, igualdad y equidad de género e interés superior de la niñez; así como:
 
 I. Contribuir a resolver las causas que originan la migración;
 
@@ -240,6 +240,10 @@ XVII. Implementar programas transversales de protección y apoyo con documentaci
 XVIII. Promover acciones de prevención de violencia contra las mujeres migrantes y diseñar e implementar un modelo de atención, en el que se considere su condición, para que exista homologación en los servicios de atención que se proporcionen;
 
 XIX. Promover mecanismos de reunificación familiar y procesos de custodia para aquellos menores de edad cuyos padres sean migrantes;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+XIX Bis. Diseñar y ejecutar, en coordinación con la iniciativa privada, un programa de apoyo para migrantes víctimas de repatriación forzosa y que cuenten con estudios equivalentes a licenciatura o posgrado, a efecto de integrarlos al sector productivo del Estado;
 
 XX. Otorgar becas a los michoacanos que hayan tenido la calidad de migrantes, así como a sus familias, en los diferentes programas que ofrece el Estado para generar empleos; y,
 
@@ -1356,3 +1360,9 @@ P.O. 20 DE NOVIEMBRE DE 2025.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 Artículo Segundo. Notifíquese el Presente Decreto al Titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 248 POR EL QUE "SE ADICIONA LA FRACCIÓN XIX BIS AL ARTÍCULO 7 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
