@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-180147
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-05-24"
-last_updated: "2025-08-26"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario Número 26 del Periódico Oficial del Estado de Tamaulipas, el sábado 24 de mayo de 2025.
 
@@ -95,9 +95,15 @@ VII.- Juzgar con perspectiva de género e incorporarla de forma transversal, pro
 
 VIII.- Juzgar con perspectiva de discapacidad;
 
-IX.- Juzgar con perspectiva de persona adulta mayor; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
 
-X.- Las demás que las leyes les confieran.
+IX.- Juzgar con perspectiva de persona adulta mayor;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+X.- Juzgar con perspectiva de Infancia y Adolescencia; y
+
+XI.- Las demás que las leyes les confieran.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS AUXILIARES
 
@@ -3465,11 +3471,13 @@ El presente Decreto que reforma el Artículo Segundo Transitorio del Decreto No.
 
 El presente Decreto que reforman los Artículos Tercero y Cuarto Transitorios del Decreto No. 66-330, publicado en el Periódico Oficial del Estado en fecha 24 de mayo de 2025, por el que se expidió la nueva Ley Orgánica del Poder Judicial del Estado de Tamaulipas, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor en los términos del Artículo Primero Transitorio del Decreto No. 66-330.
 
-###### ARTICULO UNICO.
+P.O. 27 DE NOVIEMBRE DE 2025.
 
-El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-561 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IX Y SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN NATURAL LA ACTUAL FRACCIÓN X, DEL ARTÍCULO 4° DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS".]
 
-P.O. 16 DE JUNIO DE 2008.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
