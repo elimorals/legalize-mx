@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2025-10-08"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -129,7 +129,9 @@ I.- Contribuir a la formación del pensamiento crítico, a la transformación y 
 
 II.- Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia, la tecnología y la innovación como factores del bienestar y la transformación social;
 
-III.- Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+III.- Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de preservar la naturaleza, respetar y proteger a los animales, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
 IV.- Combatir las causas de discriminación y violencia en las diferentes regiones del estado, especialmente la que se ejerce contra la niñez y las mujeres; y
 
@@ -145,7 +147,9 @@ II.- La responsabilidad ciudadana, sustentada en valores como la honestidad, la 
 
 III.- La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
-IV.- El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+IV.- El respeto, cuidado y protección al medio ambiente, a los animales, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles; y
 
 V.- El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado de Tamaulipas.
 
@@ -207,9 +211,9 @@ VI.- Propiciar actitudes solidarias en el ámbito internacional, en la independe
 
 VII.- Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pluralidad étnica, cultural y lingüística de la nación, el diálogo e intercambio intercultural sobre la base de equidad y respeto mutuo; así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país y de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
 
-VIII.- Inculcar el respeto por la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, la resiliencia frente al cambio climático y el desarrollo sostenible como un componente clave de la educación de calidad, mediante políticas adecuadas, fortalecimiento de los educadores y la creación de entornos de aprendizaje continuo;
+VIII.- Inculcar el respeto y protección por los animales y la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación, el respeto y el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático;
 
 IX.- Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Tamaulipas; y
 
@@ -229,7 +233,9 @@ III.- Será humanista, al fomentar el aprecio y respeto por la dignidad de las p
 
 IV.- Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencia;
 
-V.- Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+V.- Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible, la resiliencia, el respeto y protección a los animales, la generación de conciencia, la adquisición de los conocimientos, las competencias, las actitudes, los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
 
 VI.- Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades y de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos;
 
@@ -513,9 +519,13 @@ II.- Facilitar la adquisición y el aprendizaje de la Lengua de Señas dependien
 
 III.- Asegurar que los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
 
-IV.- Asegurar que se realicen ajustes razonables para las personas con discapacidad; y
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
 
-V.- Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
+IV.- Promover en las aulas educativas la inclusión, la igualdad de oportunidades y el respeto a la diversidad;
+
+V.- Asegurar que se realicen ajustes razonables para las personas con discapacidad; y
+
+VI.- Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
 
 ###### ARTÍCULO 44.
 
@@ -1760,6 +1770,22 @@ En un plazo improrrogable de 90 días hábiles posteriores al inicio de la vigen
 P.O. 8 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-460 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES X Y XI; Y SE ADICIONA LA FRACCIÓN XII, AL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-558 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 10, FRACCIÓN III; 11, FRACCIÓN IV; 13, FRACCIÓN VIII; Y 14, FRACCIÓN V, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-560 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN IV, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES AL ARTÍCULO 43 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
