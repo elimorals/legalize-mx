@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2025-11-26"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1261,9 +1261,17 @@ Los servicios de salud y telesalud en materia de enfermedades mentales comprende
 
 I.- La atención de personas con alteraciones emocionales temporales;
 
-II.- El tratamiento de personas con padecimientos mentales, enfermos crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o sustancias psicotrópicas y su rehabilitación; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
 
-III.- La organización, operación y supervisión de instituciones dedicadas al estudio, prevención, tratamiento y rehabilitación de estos enfermos, así como su reinserción a la sociedad.
+II.- El tratamiento de personas con padecimientos mentales, enfermos crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o sustancias psicotrópicas y su rehabilitación;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+III.- La organización, operación y supervisión de instituciones dedicadas al estudio, prevención, tratamiento y rehabilitación de estos enfermos, así como su reinserción a la sociedad; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+IV.- La promoción de la salud mental y la prevención de los trastornos mentales, mediante estrategias de educación, técnicas de autocuidado y acciones de psicoeducación, incorporando enfoques interculturales y de género.
 
 ###### ARTICULO 43.
 
@@ -4168,6 +4176,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 26 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-555 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIII AL ARTÍCULO 76 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-562 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y III; Y SE ADICIONA UNA FRACCIÓN IV, AL ARTÍCULO 42 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
