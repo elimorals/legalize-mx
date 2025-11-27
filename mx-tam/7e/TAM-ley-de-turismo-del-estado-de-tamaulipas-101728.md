@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2025-10-28"
+last_updated: "2025-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -160,6 +160,10 @@ XXIV Ter. El Turismo Espacial es el conjunto de actividades que posibilita la ex
 > <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2025)</small>
 
 XXIV Quater. El Turismo Deportivo: es la actividad turística en la cual las personas se desplazan a un determinado destino para practicar algún tipo de deporte u observar eventos deportivos en diferentes modalidades;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2025)</small>
+
+XXIV Quinquies. Turismo Religioso: aquel que con independencia de motivaciones espirituales, se realiza a sitios que, por su valor histórico o cultural asociado con alguna religión, se constituyen en centros de reunión periódica o constante de turistas o peregrinos;
 
 XXV. Turismo Social: Actividad encaminada a que los habitantes de cualquier nivel socioeconómico puedan participar de los beneficios de la actividad turística, en condiciones adecuadas de economía, seguridad y comodidad;
 
@@ -1364,3 +1368,11 @@ P.O. 28 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-571 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXIV QUINQUIES AL ARTÍCULO 3, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación (sic) el Periódico Oficial del Estado.
