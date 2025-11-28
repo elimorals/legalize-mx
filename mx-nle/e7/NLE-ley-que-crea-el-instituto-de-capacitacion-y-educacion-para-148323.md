@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-capacitacion-y-educacion-para-1483
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-10"
-last_updated: "2025-10-17"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148323&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de marzo de 2021.
 
@@ -88,6 +88,24 @@ IX. Realizar todos los demás actos que sean necesarios o conducentes para el lo
 ###### Artículo 4 Bis.
 
 Adicionalmente a lo estipulado en el artículo anterior, el Instituto en coordinación con la Secretaría del Trabajo, fomentará la implementación de campañas de información y cursos, encaminados a brindar a los trabajadores los conocimientos y herramientas necesarias de educación financiera, posibilitando así una mejor toma de decisiones en esta materia, obteniendo en consecuencia bienestar personal y familiar.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 4 Bis 1.
+
+El Instituto en coordinación con la Corporación para el Desarrollo Turístico de Nuevo León, impulsará la celebración de acuerdos y convenios para el desarrollo e implementación de programas de capacitación y adiestramiento para personas que participen en actividades económicas, comerciales, turísticas y culturales con el propósito de mejorar la calidad del servicio, promover la inclusión laboral y fortalecer la imagen turística del Estado, en términos de la Ley de Fomento al Turismo del Estado de Nuevo León.
+
+Los programas señalados en el párrafo anterior podrán incluir al menos las siguientes áreas de formación:
+
+I. Inglés básico y multilingüístico aplicado a la atención al público;
+
+II. Cultura de hospitalidad y atención al cliente;
+
+III. Manejo básico de conflictos y situaciones de riesgo; y
+
+IV. Conocimiento sobre la cultura e identidad de Nuevo León.
+
+Para efectos de lo anterior, el Instituto a través de su junta directiva podrá establecer los convenios y acuerdos con organismos públicos, sociales o privados tanto a nivel nacional como internacional para una mejor implementación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2025)</small>
 
@@ -390,3 +408,9 @@ P.O. 17 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 128. SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 5 DE LA LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM.151. SE ADICIONA EL ARTÍCULO 4 BIS 1, A LA QUE LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
