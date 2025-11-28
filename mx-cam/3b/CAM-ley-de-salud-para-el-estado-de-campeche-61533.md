@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2025-11-05"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -215,6 +215,10 @@ XIV. Promover la creación de programas de atención integral para la atención 
 
 XV. Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud.
 
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XVI. Promover campañas de salud dirigidas al sector pesquero del Estado, con el fin de prevenir riesgos sanitarios derivados del uso de métodos o instrumentos inadecuados y/o no permitidos en sus labores, en coordinación con el Instituto de Pesca y Acuacultura del Estado de Campeche y otras instancias competentes.
+
 ###### Artículo 6.
 
 La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría Estatal correspondiéndole lo siguiente:
@@ -262,6 +266,10 @@ XV. La prestación de los servicios de atención a la obesidad, así como la ori
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2018)</small>
 
 XVI. Recabar la información necesaria para integrarla al Registro Nacional de Cáncer;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XVI bis. Diseñar, en coordinación con el Instituto de Pesca y Acuacultura del Estado de Campeche, programas y campañas permanentes dirigidas al sector pesquero, para promover el uso de métodos seguros y prevenir riesgos a la salud; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE JULIO DE 2018)</small>
 
@@ -1266,6 +1274,20 @@ III. Control de los efectos nocivos del ambiente en la salud;
 IV. Salud ocupacional; y
 
 V. Fomento Sanitario.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 115 bis.- La promoción de la salud en los sectores productivos del Estado comprenderá:
+
+I. La difusión de información sobre los riesgos para la salud asociados al uso de métodos o instrumentos inadecuados o prohibidos en las actividades productivas;
+
+II. La promoción del uso de técnicas, herramientas y equipos seguros, que no pongan en riesgo la salud de los trabajadores ni de la población en general;
+
+III. La realización de campañas educativas y preventivas dirigidas a los sectores productivos, en coordinación con las entidades públicas y sector privado competentes;
+
+IV. La capacitación en primeros auxilios, prevención de accidentes y manejo seguro de equipos;
+
+V. La promoción de la vigilancia y reporte de prácticas de riesgo en las actividades productivas.
 
 ### Capítulo III. Nutrición
 
@@ -3038,3 +3060,21 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La promoción de las acciones a que se refiere el presente decreto deberá realizarse con los recursos humanos, administrativos y presupuestales de que disponga la Secretaría de Salud del Estado de Campeche.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 151 SE ADICIONAN LA FRACCIÓN XVI AL ARTÍCULO 5; LA FRACCIÓN XVI BIS AL ARTÍCULO 6 Y, EL ARTÍCULO 115 BIS A LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Salud de la Administración Pública del Estado de Campeche, en coordinación con el Instituto de Pesca y Acuacultura del Estado de Campeche, dispondrá de un plazo no mayor a 90 días naturales a partir de la entrada en vigor de este decreto, para diseñar y publicar los lineamientos y programas de capacitación y difusión dirigidos al sector pesquero.
+
+TERCERO.- De conformidad con su disponibilidad presupuestal, el Instituto de Pesca y Acuacultura del Estado de Campeche, deberá diseñar e implementar un programa de apoyo a las y los productores pesqueros y acuícolas, orientado a promover el uso de métodos y equipos de captura permitidos, priorizando la protección de la salud y seguridad de las personas trabajadoras del sector. Dicho programa podrá desarrollarse en dos vertientes:
+
+I. El otorgamiento de equipo adecuado conforme a las normas y métodos autorizados.
+
+II. La celebración de convenios de colaboración con entidades del sector público, privado o social, para facilitar el acceso a dichos equipos a bajo costo o en condiciones preferenciales.
+
+El programa deberá implementarse en un plazo no mayor a 60 días naturales posteriores a la entrada en vigor de los lineamientos a que se refiere el artículo transitorio segundo del presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía que se opongan a la presente Ley.
