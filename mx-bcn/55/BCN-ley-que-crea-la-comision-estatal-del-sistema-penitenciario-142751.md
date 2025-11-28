@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-la-comision-estatal-del-sistema-penitenciario-1427
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-30"
-last_updated: "2024-02-09"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Número 58 del Periódico Oficial del Estado de Baja California, el jueves 30 de abril de 2020.
 
@@ -51,37 +51,45 @@ Se crea la Comisión Estatal del Sistema Penitenciario de Baja California, como 
 
 La Comisión Estatal del Sistema Penitenciario de Baja California estará sectorizada a la Secretaría de Seguridad Ciudadana.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 3.
 
 Para los efectos de esta ley, se entenderá por:
 
-I. El Consejo: Consejo de Desarrollo Policial.
+I. Centro o Centro Penitenciario: Al espacio físico destinado para el cumplimiento de la Prisión Preventiva, así como para la Ejecución de Penas.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+II. La Comisión de Desarrollo Policial: Comisión de Desarrollo Policial y Régimen Disciplinario de la Comisión Estatal del Sistema Penitenciario de Baja California.
 
-II. La Comisionada o Comisionado: la persona Titular de la Comisión Estatal del Sistema Penitenciario del Estado.
+III. La Comisionada o Comisionado: La persona Titular de la Comisión Estatal del Sistema Penitenciario del Estado.
 
-III. La Comisión: La Comisión Estatal del Sistema Penitenciario de Baja California.
+IV. La Comisión: La Comisión Estatal del Sistema Penitenciario de Baja California.
 
-IV. Ley de Ley de (sic) Ejecución: Ley Nacional de Ejecución Penal.
+V. Ley de Ley de Ejecución: Ley Nacional de Ejecución Penal.
 
-V. Ley de Justicia para Adolescentes: Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+VI. Ley de Justicia para Adolescentes: Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+VII. Miembro: Las y los miembros integrantes de la Fuerza Estatal de Seguridad y Custodia Penitenciaria.
 
-VI. Miembro: las y los servidores públicos integrantes de la Fuerza Estatal de Seguridad y Custodia Penitenciaria.
-
-VII. Unidades de Abastecimiento: Las Unidades de Abastecimiento de productos, servicios alimentarios y de higiene que se establezcan en los Centros de Reinserción Social.
+VIII. Unidades de Abastecimiento: Las Unidades de Abastecimiento de productos, servicios alimentarios y de higiene que se establezcan en los Centros Penitenciarios.
 
 ###### Artículo 4.
 
 La Comisión será la autoridad encargada de integrar, operar y administrar el Sistema Penitenciario, la cual tiene por objeto la ejecución material de la prisión preventiva, así como de las sanciones y medidas de seguridad previstas en las leyes penales, sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para procurar la reinserción de las mujeres y hombres sentenciados, a la sociedad y procurar que no vuelva a delinquir.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 4 Bis.
+
+Los conflictos que se susciten con motivo de las relaciones administrativas, serán resueltos por el Tribunal Estatal de Justicia Administrativa del Estado de Baja California y su Ley.
+
+Los conflictos que se susciten con motivo de las prestaciones de servicios profesionales de carácter privado, se regirán por las disposiciones de derecho civil o mercantil, según sea el caso.
+
 ## TÍTULO SEGUNDO. DE LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 5.
 
@@ -89,45 +97,67 @@ Para el cumplimiento de su objeto, la Comisión tendrá las siguientes atribucio
 
 I. Operar y administrar el Sistema Estatal Penitenciario, así como a la Autoridad Penitenciaria y al Supervisor de libertad condicionada a que se refiere la Ley Nacional de Ejecución Penal, así como a la Autoridad Administrativa especializada en la ejecución de medidas para adolescentes, en los términos de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás normatividad aplicable;
 
-II. Organizar la operación y administración de los Centros de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+II. Organizar la operación y administración de los Centros Penitenciarios y de los Centros de Internamiento para Adolescentes en el Estado;
 
 III. Elaborar un Programa Estatal de Reinserción Social;
 
-IV. Elaborar y expedir las normas técnicas, protocolos y manuales de operación aplicables a los Centros de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-V. Garantizar el respeto a los derechos humanos de las mujeres y hombres privados de su libertad en los Centros de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado, durante la ejecución de la prisión preventiva o las sanciones penales impuestas, de conformidad con las disposiciones legales aplicables;
+IV. Elaborar y expedir las normas técnicas, protocolos y manuales de operación aplicables a los Centros Penitenciarios y de los Centros de Internamiento para Adolescentes en el Estado;
 
-VI. Organizar las instalaciones de los Centros de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado para mantener la seguridad, tranquilidad e integridad, de las mujeres y hombres privados de su libertad, del personal y de los visitantes, ejerciendo las medidas y acciones pertinentes para el buen funcionamiento, en términos de las disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+V. Garantizar el respeto a los derechos humanos de las mujeres y hombres privados de su libertad en los Centros Penitenciarios y de los Centros de Internamiento para Adolescentes en el Estado, durante la ejecución de la prisión preventiva o las sanciones penales impuestas, de conformidad con las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+VI. Organizar las instalaciones de los Centros Penitenciarios y de los Centros de Internamiento para Adolescentes en el Estado para mantener la seguridad, tranquilidad e integridad, de las mujeres y hombres privados de su libertad, del personal y de los visitantes, ejerciendo las medidas y acciones pertinentes para el buen funcionamiento, en términos de las disposiciones normativas aplicables;
 
 VII. Procurar la reinserción social efectiva mediante los distintos programas institucionales;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-VIII. Garantizar condiciones de internamiento dignas y seguras acordes al género de las personas privadas de su libertad, asegurando en todo momento a las mujeres y personas menstruantes el acceso a los productos de gestión menstrual en los Centros de Reinserción Social y Centros de Internamiento para Adolescentes, conforme a la legislación aplicable;
+VIII. Garantizar condiciones de internamiento dignas y seguras acordes al género de las personas privadas de su libertad, asegurando en todo momento a las mujeres y personas menstruantes el acceso a los productos de gestión menstrual en los Centros Penitenciarios y Centros de Internamiento para Adolescentes, conforme a la legislación aplicable;
 
 IX. Gestionar la custodia penitenciaria;
 
-X. Instrumentar una clasificación de las distintas áreas y espacios en los Centros de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+X. Instrumentar una clasificación de las distintas áreas y espacios en los Centros Penitenciarios y de los Centros de Internamiento para Adolescentes en el Estado, en términos de las disposiciones aplicables;
 
 XI. Promover la modernización de la infraestructura y determinar las necesidades para la operación del Sistema Penitenciario con perspectiva de género;
 
-XII. Promover que los Centros de Reinserción Social sean sustentables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-XIII. Ejecutar las medidas disciplinarias a las personas privadas de la libertad por violación al régimen de disciplina en los Centros de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado;
+XII. Promover que los Centros Penitenciarios sean sustentables;
 
-XIV. Ejecutar el traslado de las personas privadas de la libertad de un Centro de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado a otro, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XIII. Ejecutar las medidas disciplinarias a las personas privadas de la libertad por violación al régimen de disciplina en los Centros Penitenciarios y de los Centros de Internamiento para Adolescentes en el Estado;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XIV. Ejecutar el traslado de las personas privadas de la libertad de un Centro Penitenciario y de los Centros de Internamiento para Adolescentes en el Estado a otro, de conformidad con las disposiciones aplicables;
 
 XV. Ejecutar, controlar, vigilar y dar seguimiento a las penas que imponga o modifique el órgano jurisdiccional competente;
 
 XVI. Aplicar las sanciones penales impuestas por los órganos jurisdiccionales, de conformidad con las disposiciones aplicables;
 
-XVII. Aplicar y supervisar normatividad sobre las medidas de seguridad en los Centros de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado, así como aquellos que determinen las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-XVIII. Prestar la seguridad y custodia de la persona privada de su libertad en los recintos judiciales o en cualquier lugar fuera de los Centros de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado a donde se haya autorizado su traslado, de conformidad con las disposiciones aplicables;
+XVII. Aplicar y supervisar normatividad sobre las medidas de seguridad en los Centros Penitenciarios y de los Centros de Internamiento para Adolescentes en el Estado, así como aquellos que determinen las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Prestar la seguridad y custodia de la persona privada de su libertad en los recintos judiciales o en cualquier lugar fuera de los Centros Penitenciarios y de los Centros de Internamiento para Adolescentes en el Estado a donde se haya autorizado su traslado, de conformidad con las disposiciones aplicables;
 
 XIX. Ordenar y ejecutar los traslados y excarcelaciones de personas privadas de la libertad, en los términos de la Ley de Ejecución, la Ley de Justicia para Adolescentes y demás normatividad aplicable;
 
-XX. Establecer y administrar los registros fidedignos de información respecto a los Centros de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XX. Establecer y administrar los registros fidedignos de información respecto a los Centros Penitenciarios y de los Centros de Internamiento para Adolescentes en el Estado;
 
 XXI. Establecer y administrar una base de datos de personas privadas de la libertad con la información de cada persona que ingrese al Sistema Penitenciario, en los términos de las disposiciones aplicables;
 
@@ -143,9 +173,13 @@ XXVI. Organizar, operar y supervisar la prestación de los servicios postpenales
 
 XXVII. Organizar, operar y supervisar la prestación de los procesos de justicia restaurativa y los servicios de mediación en internamiento, de conformidad a la Ley de Ejecución, la Ley de Justicia para Adolescentes y demás disposiciones aplicables, según corresponda;
 
-XXVIII. Participar en la elaboración y verificar el cumplimiento de los convenios de coordinación que se celebren con la Federación y los gobiernos de las entidades federativas, en materia de traslados de personas privadas de la libertad a los centros penitenciarios dependientes del Poder Ejecutivo Federal o de las entidades federativas;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-XXIX. Garantizar el abastecimiento manejo, administración, control vigilancia y seguimiento de las unidades de abastecimientos de productos, servicios alimentarios y de higiene que se establezcan en los Centros de Reinserción Social, y
+XXVIII. Participar en la elaboración y verificar el cumplimiento de los convenios de coordinación que se celebren con la Federación y los gobiernos de las entidades federativas, en materia de traslados de personas privadas de la libertad a los Centros Penitenciarios dependientes del Poder Ejecutivo Federal o de las entidades federativas;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XXIX. Garantizar el abastecimiento, manejo, administración, control, vigilancia y seguimiento de las unidades de abastecimientos de productos, servicios alimentarios y de higiene que se establezcan en los Centros Penitenciarios; y,
 
 XXX. Las demás que establezcan otras disposiciones aplicables.
 
@@ -177,7 +211,9 @@ La Comisión contará con los órganos siguientes:
 
 I. Un Órgano de Gobierno que será la Junta de Gobierno;
 
-II. Un Órgano denominado Consejo de Desarrollo Policial;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+II. Un Órgano denominado Comisión de Desarrollo Policial y Régimen Disciplinario;
 
 III. La Unidad de Asuntos Internos, y
 
@@ -347,11 +383,15 @@ La persona que se desempeñe como Comisionada o Comisionado tendrá las siguient
 
 I. Administrar el sistema penitenciario;
 
-II. Operar y administrar el funcionamiento de los Centros de Reinserción Social, los Centros de Internamiento para Adolescentes en el Estado;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+II. Operar y administrar el funcionamiento de los Centros Penitenciarios, los Centros de Internamiento para Adolescentes en el Estado;
 
 III. Ejercer la representación legal de la Comisión;
 
-IV. Supervisar las instalaciones de los de Reinserción Social, los Centros de Internamiento para Adolescentes en el Estado;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+IV. Supervisar las instalaciones de los Centros Penitenciarios, los Centros de Internamiento para Adolescentes en el Estado;
 
 V. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto y funciones de la Comisión;
 
@@ -365,17 +405,25 @@ VIII. Ejecutar los acuerdos que dicte la Junta de Gobierno;
 
 IX. Coordinar las actividades de las direcciones, coordinaciones y demás unidades administrativas a su cargo;
 
-X. Emitir los lineamientos para autorizar el acceso a particulares y autoridades a los de Reinserción Social, los Centros de Internamiento para Adolescentes en el Estado, quienes deberán acatar en todo momento las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-XI. Supervisar la ejecución de las medidas disciplinarias impuestas a las personas privadas de la libertad por violación al régimen de disciplina al interior de los de Reinserción Social, los Centros de Internamiento para Adolescentes en el Estado;
+X. Emitir los lineamientos para autorizar el acceso a particulares y autoridades a los Centros Penitenciarios, los Centros de Internamiento para Adolescentes en el Estado, quienes deberán acatar en todo momento las disposiciones aplicables;
 
-XII. Supervisar el traslado de las personas privadas de la libertad de un Centro de Reinserción Social y de los Centros de Internamiento para Adolescentes en el Estado a otro, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XI. Supervisar la ejecución de las medidas disciplinarias impuestas a las personas privadas de la libertad por violación al régimen de disciplina al interior de los Centros Penitenciarios, los Centros de Internamiento para Adolescentes en el Estado;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XII. Supervisar el traslado de las personas privadas de la libertad de un Centro Penitenciario y de los Centros de Internamiento para Adolescentes en el Estado a otro, en los términos de las disposiciones aplicables;
 
 XIII. Realizar propuestas o hacer llegar solicitudes de otorgamiento de beneficios que supongan una modificación a las condiciones de cumplimiento de la pena o una reducción de la misma a favor de las personas sentenciadas, en los términos de las disposiciones aplicables;
 
 XIV. Organizar la ejecución, control, vigilancia y seguimiento a las penas que imponga o modifique el órgano jurisdiccional competente;
 
-XV. Supervisar la aplicación de sanciones penales impuestas por los órganos jurisdiccionales y que se cumplan en los Centro de Reinserción Social y los Centros de Internamiento para Adolescentes en el Estado, de conformidad con las leyes aplicables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XV. Supervisar la aplicación de sanciones penales impuestas por los órganos jurisdiccionales y que se cumplan en los Centros Penitenciarios y los Centros de Internamiento para Adolescentes en el Estado, de conformidad con las leyes aplicables;
 
 XVI. Promover ante las autoridades judiciales las acciones legales que correspondan y cumplir los mandatos de las autoridades judiciales dentro del ámbito de su competencia;
 
@@ -385,9 +433,13 @@ XVIII. Administrar el archivo correspondiente a los expedientes médicos y exped
 
 XIX. Celebrar convenios con instituciones privadas relativos a la prestación de servicios personales no remunerados de las personas a quienes se les haya impuesto la pena de trabajos a favor de la comunidad;
 
-XX. Celebrar convenios con instituciones públicas y privadas del sector salud en los ámbitos federal y estatal, a efecto de atender las urgencias médico-quirúrgicas cuya intervención no se pueda llevar a cabo en los Centros de Reinserción Social y en los Centros de Internamiento para Adolescentes en el Estado, así como para la designación del personal médico que proporcione servicios de salud de manera continua y permanentemente en el Sistema Penitenciario, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-XXI. Celebrar convenios de colaboración con Instituciones públicas y privadas de carácter nacional e internacional en materias educativas, culturales y deportivas para ampliar la oferta y calidad de los servicios ofrecidos en los Centros de Reinserción Social y Centros de Internamiento para Adolescentes en el Estado;
+XX. Celebrar convenios con instituciones públicas y privadas del sector salud en los ámbitos federal y estatal, a efecto de atender las urgencias médico-quirúrgicas cuya intervención no se pueda llevar a cabo en los Centros Penitenciarios y en los Centros de Internamiento para Adolescentes en el Estado, así como para la designación del personal médico que proporcione servicios de salud de manera continua y permanentemente en el Sistema Penitenciario, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XXI. Celebrar convenios de colaboración con Instituciones públicas y privadas de carácter nacional e internacional en materias educativas, culturales y deportivas para ampliar la oferta y calidad de los servicios ofrecidos en los Centros Penitenciarios y Centros de Internamiento para Adolescentes en el Estado;
 
 XXII. Celebrar convenios de colaboración con Instituciones públicas y privadas de carácter nacional e internacional, con el objetivo de consolidar el Servicio Profesional de Carrera Penitenciaria, así como la actualización y capacitación del personal de la Comisión;
 
@@ -425,11 +477,15 @@ Para el despacho de los asuntos que competen a la persona Comisionada o Comision
 
 Las ausencias temporales de la persona Comisionada o Comisionado hasta por quince días naturales serán suplidas por el funcionario que el designe; en las mayores de este periodo, serán por quién designe la persona titular del Poder Ejecutivo del Estado.
 
-### CAPÍTULO VI. DEL CONSEJO DE DESARROLLO POLICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO VI. DE LA COMISIÓN DE DESARROLLO POLICIAL Y RÉGIMEN DISCIPLINARIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 19.
 
-Si la naturaleza del asunto a tratar corresponde a una controversia que se suscite con relación al Régimen Disciplinario (sic) procedimientos del Servicio Profesional de Carrera, el Consejo se integrará de la forma siguiente:
+Si la naturaleza del asunto a tratar corresponde a una controversia que se suscite con relación al Régimen Disciplinario y/o Procedimientos del Servicio Profesional de Carrera, la Comisión de Desarrollo Policial se integrará de la forma siguiente:
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
@@ -439,23 +495,39 @@ I.- La persona que ocupa el cargo de presidente.
 
 II.- La persona que ocupa la Secretaría Técnica.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-III.- Tres Vocales, que serán:
+III.- Cuatro Vocales, que serán:
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 A) La persona titular de la Unidad de Asuntos Internos.
 
-B) La persona titular de la Dirección del Centro de Reinserción Social o del Centro de Internamiento para Adolescentes en el Estado, al que pertenezca el Miembro sujeto al procedimiento.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-C) Una persona representante, que será una o un Miembro de la unidad operativa, ya sea de investigación, prevención o de reacción del Centro al que pertenezca el Miembro sujeto al procedimiento.
+B) La persona titular de la Dirección de uno de los Centros Penitenciarios en el Estado.
 
-Los procedimientos que se aplicarán se establecerán en el Reglamento de la presente Ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE FEBRERO DE 2024)</small>
+C) La persona titular de la Dirección de uno de los Centros de Internamiento para Adolescentes en el Estado.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+D) Una persona representante, que será una o un Miembro de la unidad operativa, ya sea de investigación, prevención o de reacción de la Institución Policial.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+Los procedimientos que se aplicarán se establecerán en el Reglamento correspondiente a la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+Cada integrante de la Comisión de Desarrollo Policial podrá designar a una persona suplente con funciones de propietaria o propietario para que cubra sus ausencias temporales, con las mismas facultades, debiendo realizar su designación por escrito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 20.
 
-Son funciones del Consejo, las siguientes:
+Son funciones de la Comisión de Desarrollo Policial las siguientes:
 
 A) En materia del Régimen Disciplinario:
 
@@ -513,7 +585,9 @@ VI. Las demás que señalen en la Ley, su Reglamento y demás disposiciones apli
 
 La Comisión para lograr el acceso a servicios y acceso a productos básicos de las mujeres y los hombres privados de la libertad, así como personas adolescentes en internamiento, contará con unidades de abastecimiento que en todo momento procurará cumplir con las necesidades acordes a cada género, mismas que para su debida administración, control y vigilancia, podrá operar mediante fideicomiso o el instrumento jurídico que determine la Junta de Gobierno.
 
-Los Centros de Reinserción Social para mujeres y los Centros de Internamiento para Adolescentes, deberán garantizar el acceso gratuito a productos de gestión menstrual para las mujeres, adolescentes y personas menstruantes privadas de la libertad.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+Los Centros Penitenciarios para mujeres y los Centros de Internamiento para Adolescentes, deberán garantizar el acceso gratuito a productos de gestión menstrual para las mujeres, adolescentes y personas menstruantes privadas de la libertad.
 
 ###### Artículo 22.
 
@@ -578,3 +652,9 @@ P.O. 9 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 375 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 5, 9, 10, 13, 14, 15, 16, 18, 19, 20 Y 21 DE LA LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 167 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 5, 8, 18, 19, 20, 21 Y ADICIONA EL ARTÍCULO 4 BIS, A LA LEY DE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
