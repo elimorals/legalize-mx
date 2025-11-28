@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2025-11-27"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE NOVIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 28 DE NOVIEMBRE DE 2025.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -8977,9 +8977,9 @@ XXVII. Hacer uso de la fuerza de manera proporcional, racional, congruente, opor
 
 XXVIII. Promover, respetar, proteger y garantizar los derechos humanos en el ejercicio de sus funciones; y
 
-(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)
+(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 28 DE NOVIEMBRE DE 2025)
 
-XXIX. Abstenerse de reincidir en más de tres ocasiones en un período de seis meses a las obligaciones establecidas en el apartado B del presente artículo.
+XXIX. Abstenerse de reincidir en más de tres ocasiones en un período de seis meses en el incumplimiento a las obligaciones establecidas en el apartado B del presente artículo.
 
 B. De segundo nivel:
 
@@ -9019,9 +9019,9 @@ X. (DEROGADA, P.O. 24 DE NOVIEMBRE DE 2025)
 
 XI. Tomar las medidas de seguridad y de orden urgentes que sean necesarias en casos de emergencia, incendios, accidentes, inundaciones, siniestros y en general, toda clase de catástrofes;
 
-(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)
+(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 28 DE NOVIEMBRE DE 2025)
 
-XII. Apegarse a los procedimientos que se establecen en los Manuales, Protocolos y Reglamentos emitidos por Ia Secretaría de Seguridad Pública.
+XII. Apegarse a los procedimientos que se establecen en los Manuales, Protocolos y Reglamentos emitidos por la Secretaría de Seguridad Pública Municipal.
 
 XIII. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso de ellos sólo en el desempeño del servicio, debiendo reportar de inmediato cualquier falla, descompostura o daño al titular de la unidad administrativa a que pertenezca. El uso de las armas se reservará exclusivamente para actos del servicio o capacitación que así lo demanden;
 
@@ -9057,9 +9057,9 @@ XXI. Abstenerse de limitar injustificadamente las acciones o manifestaciones que
 
 XXII. Hacer uso adecuado de los dispositivos tecnológicos proporcionados para el servicio conforme a lo establecido a los manuales correspondientes.
 
-(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)
+(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 28 DE NOVIEMBRE DE 2025)
 
-XXIII. Abstenerse de reincidir en más de tres ocasiones en un periodo de seis meses a obligaciones establecidas en el apartado C del presente artículo.
+XXIII. Abstenerse de reincidir en más de tres ocasiones en un periodo de seis meses en el incumplimiento a obligaciones establecidas en el apartado C del presente artículo.
 
 C. De tercer nivel:
 
@@ -9181,9 +9181,9 @@ a) Persuasión o disuasión verbal: consiste en la utilización de palabras o ge
 
 b) Reducción física de movimientos: consiste en la utilización de técnicas de control sin la utilización de armas u objetos, a efecto de controlar a la persona que se ha resistido y ha obstaculizado que el integrante cumpla con sus funciones;
 
-(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)
+(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025) (F. DE E., P.O. 28 DE NOVIEMBRE DE 2025)
 
-c) Utilización de armas no letales: consiste en la utilización de instrumentos que incapacitan momentáneamente el movimiento, tales como el bastón PR-24, tolete o su equivalente, sustancias irritantes en aerosol, dispositivos eléctricos que generan descargas eléctricas, esposas o candados de mano, esto a fin de controlar y reducir la resistencia violenta de una persona; y
+c) Utilización de armas no letales: consiste en la utilización de instrumentos que incapacitan momentáneamente el movimiento, tales como el bastón PR-24, tolete o su equivalente, sustancias irritantes en aerosol, dispositivos que generan descargas eléctricas, esposas o candados de mano, esto a fin de controlar y reducir la resistencia violenta de una persona; y
 
 d) Utilización de fuerza letal: consiste en la utilización de armas de fuego para su defensa legítima o la de terceros a los que tengan el deber de proteger.
 
