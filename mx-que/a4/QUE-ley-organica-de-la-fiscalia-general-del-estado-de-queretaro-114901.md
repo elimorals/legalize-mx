@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2025-07-04"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE JULIO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -1100,6 +1098,10 @@ XIX. Realizar las tareas de certificación del personal en materia de los Mecani
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 XX. Las demás contenidas en las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+La Dirección de Investigación, dentro de su estructura contará con una Unidad Central de Delitos Patrimoniales, teniendo a su cargo la investigación de delitos patrimoniales por su alto grado de complejidad, atendiendo al número de víctimas o afectación social; la cual tendrá los recursos tecnológicos, materiales y humanos necesarios para el cumplimiento de sus atribuciones, conforme la normatividad aplicable y la disponibilidad presupuestaria.
 
 ### Capítulo Tercero. De la Dirección de Acusación de la Fiscalía General
 
@@ -2262,3 +2264,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
