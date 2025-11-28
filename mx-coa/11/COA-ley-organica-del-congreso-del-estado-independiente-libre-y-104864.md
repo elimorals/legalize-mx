@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2024-06-21"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -330,6 +330,10 @@ XIX. Abstenerse de invocar o hacer uso de su condición como diputados o diputad
 XX. Observar en todo momento las normas sobre incompatibilidades, establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y las leyes que de ellas emanen; y
 
 XXI. Rendir informe anual a la ciudadanía respecto de sus labores legislativas, de gestión y de representación. Dichos informes serán publicados en el órgano oficial de difusión del Congreso y en su página electrónica.
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XXII. Contar con una Firma Electrónica con el objeto de agilizar la remisión de oficios y cualquier otro documento digital a través de la Oficialía de Partes.
 
 ### CAPÍTULO III. De la Suspensión y Pérdida de la Condición de Diputado
 
@@ -1989,9 +1993,13 @@ Corresponde al Comité de Gestoría y Quejas:
 
 I. La realización de encuestas y foros de consulta, con el fin de obtener información que contribuya al ejercicio pleno de la función legislativa;
 
-II. La atención a las peticiones de los particulares, que se formulen por escrito o en forma oral, de manera pacífica y respetuosa;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-III. La remisión a las dependencias y entidades correspondientes de los gobiernos federal, estatal o municipales, las demandas y peticiones de los ciudadanos, así como dar seguimiento a la atención de los mismos;
+II. La atención de las peticiones de los particulares que se formulen por escrito a través de la Oficialía de Partes o en forma oral, de manera pacífica y respetuosa;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+III. La remisión digital a las dependencias y entidades correspondientes de los gobiernos federal, estatal o municipales, de las demandas y peticiones de los ciudadanos, así como dar seguimiento a la atención de los mismos;
 
 IV. La remisión a las comisiones respectivas del Congreso del Estado que puedan atender los asuntos presentados para dar solución, atención y gestión de las peticiones y asuntos que presente la ciudadanía; y
 
@@ -2177,9 +2185,11 @@ Por otra parte, cuando la o el Gobernador del Estado acuda a una sesión del Con
 
 Las iniciativas presentadas por los sujetos a que se refiere la fracción VI del artículo 152 de esta ley, se dictaminarán por la comisión correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 156.
 
-Las iniciativas a que se refiere el artículo anterior, deberán presentarse por escrito y estar firmadas por su autor o autores.
+Las iniciativas a que se refiere el artículo anterior deberán presentarse por escrito y estar firmadas de manera autógrafa o electrónicamente por su autor o autores.
 
 Asimismo, deberán contener una exposición de motivos en la que se exprese el objeto de las mismas, las consideraciones jurídicas que las fundamentan, el texto del proyecto de ley o decreto, la fecha de presentación, el nombre (sic) quienes las suscriben y la solicitud de que sean aprobadas por el Congreso.
 
@@ -3197,7 +3207,13 @@ VIII. Pagar los sueldos y salarios de los funcionarios y empleados;
 
 IX. Vigilar el uso, destino y resguardo de los bienes muebles e inmuebles propiedad del Poder Legislativo; y
 
-X. Las demás que le confieran esta Ley, así como las que le sean encomendadas por acuerdo del Pleno y la Presidencia de la Junta de Gobierno.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+X. Implementar en los órganos y unidades del Congreso sistemas y medios informáticos para el envío, recepción, trámite, almacenamiento y conservación de los documentos, mensajes, imágenes, bases de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por las tecnologías de la información, destinados a la tramitación legislativa y para el acceso del público a la información contenida en las plataformas que operen aquellos órganos y unidades administrativas del Congreso.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XI. Las demás que le confieran esta ley, así como las que le sean encomendadas por acuerdo del Pleno y la Presidencia de la Junta de Gobierno.
 
 ###### ARTÍCULO 278.
 
@@ -3215,9 +3231,9 @@ V. Llevar un libro en que se asiente por orden cronológico, el registro de las 
 
 VI. Cumplir y dar seguimiento a los acuerdos del Pleno, de la Mesa Directiva del Congreso, de la Diputación Permanente, de la Junta de Gobierno, de las Comisiones y de los Comités;
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-Para el cumplimiento y seguimiento de los acuerdos que tienen que ver con los municipios del Estado, excepto los relativos al proceso de adiciones o reformas a la Constitución Política local, la Oficialía Mayor podrá convenir con los ayuntamientos que así lo soliciten, y previa firma de convenio, un sistema de comunicación vía correo electrónico, a través del cual se harán las notificaciones e intercambio de mensajes y documentos oficiales que de cada asunto deriven.
+Para el cumplimiento y seguimiento de los acuerdos que tienen que ver con los municipios del Estado, excepto los relativos al proceso de adiciones o reformas a la Constitución Política local, la Oficialía Mayor podrá convenir con los ayuntamientos que así lo soliciten, y previa firma del convenio correspondiente, el uso de un sistema de comunicación vía correo electrónico o por la Oficialía de Partes, mediante los cuales se harán las notificaciones e intercambio de mensajes y documentos oficiales que de cada asunto deriven.
 
 VII. Dirigir los servicios administrativos de su competencia, cuidando de que sean desempeñados con eficiencia y eficacia;
 
@@ -3227,13 +3243,47 @@ IX. Organizar, controlar y sistematizar los archivos y la información legislati
 
 X. Hacer entrega a las y los coordinadores de las Comisiones y los Comités, de los expedientes que se les turnen y llevar el control y seguimiento de los mismos;
 
-XI. Coordinar y supervisar el trabajo del personal de las direcciones de asuntos legislativos, asuntos jurídicos, administración, documentación e información legislativa y el de las y los Secretarios Técnicos de las Comisiones;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XI. Coordinar y supervisar el trabajo del personal de las direcciones de asuntos legislativos, asuntos jurídicos, administración, documentación e información legislativa, de la Oficialía de Partes y el de las y los Secretarios Técnicos de las Comisiones.
 
 XII. Certificar las copias que se expidan de los documentos del archivo y de los expedientes de las actividades de cada legislatura;
 
 XIII. Coordinar la relación laboral del personal adscrito a las áreas de servicios financieros, parlamentarios y administrativos; y
 
 XIV. Las demás que le confieran esta ley, así como las que les sean encomendadas por el Pleno, la Diputación Permanente y la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 278 BIS. La Oficialía de Partes será la unidad administrativa responsable de la recepción formal de la documentación y correspondencia que las entidades públicas y privadas, así como los particulares, ingresen al Congreso del Estado de manera presencial o a través del uso de las tecnologías de la información. Toda recepción deberá garantizar la integridad y fidelidad de los documentos, empleando, en su caso, la Firma Electrónica.
+
+La persona titular de la Oficialía de Partes tendrá las siguientes facultades y obligaciones:
+
+I. Garantizar que las actividades conducentes a la recepción, registro, turnado y entrega de la documentación recibida se realice de conformidad con las disposiciones de esta ley y demás aplicables, así como con las políticas, procedimientos administrativos, lineamientos y herramientas tecnológicas que se establezcan.
+
+II. Operar el sistema informático de la Oficialía de Partes.
+
+III. Recibir los documentos y remitirlos al área que corresponda de conformidad con el procedimiento legislativo respectivo.
+
+IV. Registrar toda operación de recepción documental en el sistema informático implementado para la Oficialía de Partes.
+
+V. Notificar a los destinatarios de la recepción documental sobre los pendientes de entrega.
+
+VI. Acusar de recibo por escrito o, digitalmente, según corresponda, de la recepción documental que se presente en la Oficialía de Partes presencial o por medios electrónicos, asentando la fecha y hora de recepción, folio, número de fojas, anexos, copias y el sello oficial en caso de entregas presenciales.
+
+VII. Llevar diariamente en bitácora digital los registros de las recepciones documentales, notificaciones a los destinatarios, remisión de documentación y toda información necesaria para garantizar que la documentación se entregue integra y oportunamente independientemente si es en papel o digital.
+
+VIII. Generar información estadística de las actividades ejecutadas en el procedimiento con la finalidad de compilar información para su mejora continua.
+
+IX. Las demás que le confieran esta ley, así como las que le sean encomendadas por la persona titular de la Oficialía Mayor.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+ARTICULO 278 TER. La Firma Electrónica es el mecanismo a través del cual se ingresará a los sistemas digitales que operen los órganos y unidades del Congreso para presentar documentos, correspondencia, comunicaciones, notificaciones u otros documentos oficiales.
+
+Para contar con la firma electrónica los interesados deberán obtener un certificado digital, que será tramitado en los términos que determinan la ley estatal de la materia y demás disposiciones aplicables. Dicho certificado será el equivalente electrónico tanto de un documento de identidad como de una firma autógrafa; éste permitirá la identificación del usuario o del autor del documento en los sistemas del Congreso. Será intransferible, irrepetible, personal, único y su uso será responsabilidad exclusiva de la persona que lo solicite y se le otorgue.
+
+Los documentos electrónicos ingresados a los sistemas informáticos mediante el uso de certificados digitales de Firma Electrónica, producirán los mismos efectos que los presentados con firma autógrafa y tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
 
 ###### ARTÍCULO 279.
 
@@ -3924,3 +3974,13 @@ PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 323.- SE REFORMAN LOS ARTÍCULOS 138, FRACCIONES II Y III, 156, PRIMER PÁRRAFO, 277, FRACCIÓN X Y 278, FRACCIONES VI, SEGUNDO PÁRRAFO, Y XI Y SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 24, LA FRACCIÓN XI AL ARTÍCULO 277 Y LOS ARTÍCULOS 278 BIS Y 278 TER, TODOS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
