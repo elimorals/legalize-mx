@@ -4,7 +4,7 @@ identifier: "LOPJF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-12-20"
-last_updated: "2024-12-20"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175380&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 24 del Diario Oficial de la Federación, el viernes 20 de diciembre de 2024.
 
@@ -546,9 +546,11 @@ III. De las autorizaciones para intervenir cualquier comunicación privada; así
 
 IV. De los delitos del fuero común respecto de los cuales el Ministerio Público de la Federación hubiere ejercido la facultad de atracción.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 49.
 
-En materia federal, la autorización para intervenir comunicaciones privadas será otorgada por la o el Juez de control, de conformidad con lo establecido en el Código Nacional de Procedimientos Penales, la Ley Federal contra la Delincuencia Organizada, la Ley de Seguridad Nacional, la Ley de la Policía Federal, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos o la Ley de la Guardia Nacional, según corresponda.
+En materia federal, la autorización para intervenir comunicaciones privadas será otorgada por la o el Juez de control, de conformidad con lo establecido en el Código Nacional de Procedimientos Penales, la Ley Federal contra la Delincuencia Organizada, la Ley de Seguridad Nacional, la Ley de la Policía Federal, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos o la Ley de la Guardia Nacional, según corresponda.
 
 ###### Artículo 50.
 
@@ -3177,3 +3179,33 @@ Vigésimo Primero.- Se derogan todas las disposiciones que se opongan al present
 Ciudad de México, a 10 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Toda referencia al delito de extorsión contemplada en el Código Penal Federal, los códigos penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Cuarto. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
+
+Quinto. Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Sexto. En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
+
+Séptimo. Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Octavo. El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
+
+Noveno. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Décimo. En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
