@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2025-09-05"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -1277,19 +1277,29 @@ Las Instituciones de Seguridad están obligadas a proporcionar y mantener actual
 
 La estadística de seguridad sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, reinserción social, sistemas de prisión preventiva, ejecución de sentencias y de adolescentes en conflicto con la Ley, y los factores asociados a la problemática de seguridad.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO IV. DE LA PREVENCIÓN CIBERNÉTICA
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 57 BIS.- El Centro Estatal de Inteligencia Preventiva, para el cumplimiento de las atribuciones a que se refiere el artículo 31 de esta Ley, contará con una Unidad de Prevención de Delitos Cibernéticos.
+
+La Unidad será la encargada de prevenir y detectar delitos a través del uso de las tecnologías de la información y la comunicación, internet, redes sociales y dispositivos digitales.
+
+Además, deberá coordinarse con diversas instituciones de seguridad para efectos de colaboración en investigaciones y acciones conjuntas.
+
+La Unidad contará con el equipo informático, el servicio de internet, así como la capacitación y actualización permanente de su personal y dispondrá de una partida específica en el presupuesto del Centro Estatal de Inteligencia Preventiva que le permita el ejercicio de sus atribuciones.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-### CAPÍTULO ÚNICO. DE LA EJECUCIÓN DE PENAS, MEDIDAS DE SANCIÓN Y MEDIDAS JUDICIALES
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ## TÍTULO CUARTO. DEL SISTEMA ESTATAL PENITENCIARIO
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO I. DEL CENTRO DE CONTROL, COMANDO, COMUNICACIÓN, CÓMPUTO, CALIDAD Y CONTACTO CIUDADANO DEL ESTADO
+### CAPÍTULO ÚNICO. DE LA EJECUCIÓN DE PENAS, MEDIDAS DE SANCIÓN Y MEDIDAS JUDICIALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1349,9 +1359,9 @@ El Sistema Estatal Penitenciario contará con una unidad administrativa que fung
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO II. DEL SERVICIO DE ASISTENCIA TELEFÓNICA A LA CIUDADANÍA
+### CAPÍTULO I. DEL CENTRO DE CONTROL, COMANDO, COMUNICACIÓN, CÓMPUTO, CALIDAD Y CONTACTO CIUDADANO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 59.
 
@@ -1377,7 +1387,7 @@ V.- Establecer las bases para el funcionamiento del sistema de video vigilancia,
 
 REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-### CAPÍTULO III. CENTRO DE DENUNCIA ANONIMA
+### CAPÍTULO II. DEL SERVICIO DE ASISTENCIA TELEFÓNICA A LA CIUDADANÍA
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1437,9 +1447,9 @@ La Fiscalía General establecerá la coordinación necesaria con los cuerpos de 
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CENTRO DE DENUNCIA ANONIMA
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO] , P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 64.
 
@@ -1467,7 +1477,7 @@ Las Instituciones de Seguridad deberán coordinarse para la atención de las den
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO] , P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 66.
 
@@ -1493,9 +1503,9 @@ Si el responsable es o hubiera sido servidor de la Institución de Seguridad Pú
 
 ## TÍTULO SÉPTIMO. PRESTACIÓN DE SERVICIOS DE SEGURIDAD PRIVADA
 
-### CAPÍTULO I. PARTICIPACIÓN DE LA COMUNIDAD
+### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 67.
 
@@ -1711,9 +1721,9 @@ La Secretaría podrá solicitar al municipio que corresponda el auxilio para la 
 
 ## TÍTULO OCTAVO. PARTICIPACIÓN DE LA COMUNIDAD Y LA PREVENCIÓN DEL DELITO
 
-### CAPÍTULO II. PREVENCIÓN DEL DELITO
+### CAPÍTULO I. PARTICIPACIÓN DE LA COMUNIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 81.
 
@@ -1809,7 +1819,9 @@ XVIII. Las demás que establezca la Ley y los Reglamentos.
 
 El Consejo Ciudadano y los Comités Ciudadanos Municipales de Seguridad, tendrán derecho a recibir la información que les permita participar adecuadamente, en el ámbito de sus atribuciones; en la seguridad de su respectiva demarcación. Igualmente, tendrán derecho a recibir respuestas por escrito a sus peticiones o comentarios, por parte de la autoridad correspondiente, siempre y cuando no esté clasificada como reservada o como confidencial por las disposiciones legales aplicables.
 
-### CAPÍTULO III. PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+### CAPÍTULO II. PREVENCIÓN DEL DELITO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 85.
 
@@ -1831,9 +1843,7 @@ Los municipios y demás dependencias de la Administración Pública Estatal, deb
 
 La Secretaría asignará los recursos necesarios para la difusión de los programas en prevención del delito. Los programas que se diseñen deberán considerar la participación de otras instancias tales como el sector salud, educativo, desarrollo económico y social.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+### CAPÍTULO III. PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
 
 ###### ARTÍCULO 87.
 
@@ -1885,7 +1895,7 @@ Se entiende por participación ciudadana y comunitaria a la colaboración de dif
 
 ## TÍTULO NOVENO. DESARROLLO POLICIAL
 
-### CAPÍTULO II. COMISIÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -2047,7 +2057,9 @@ I. Para las áreas operativas, de policía a Comisario General, y
 
 II. Para los servicios, de policía a Comisario Jefe.
 
-### CAPÍTULO III. SERVICIO DE CARRERA POLICIAL Y PROFESIONALIZACIÓN
+### CAPÍTULO II. COMISIÓN
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 103.
 
@@ -2085,9 +2097,7 @@ Para tal efecto gozará de la más amplia facultad para examinar los expedientes
 
 La Comisión deberá contemplar representantes de las unidades operativas de investigación, prevención, reacción de las Instituciones Policiales así como de los Órganos Internos de Control de las instituciones de seguridad pública previstas en la presente Ley.
 
-### CAPÍTULO IV. CONDICIONES DEL SERVICIO
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+### CAPÍTULO III. SERVICIO DE CARRERA POLICIAL Y PROFESIONALIZACIÓN
 
 #### SECCIÓN CUARTA. CONDECORACIONES Y ESTÍMULOS
 
@@ -2104,6 +2114,10 @@ III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la m
 IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los Integrantes de las Instituciones Policiales para asegurar la lealtad institucional en la prestación de los servicios; y
 
 V. Los demás que establezcan las disposiciones que deriven de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+ARTÍCULO 108 BIS.- Para el efecto de estar en posibilidad de cumplir con los fines de la Carrera Policial mediante el desarrollo institucional, sustentado en una mayor preparación de sus elementos, sobre la base de los valores de la responsabilidad, la honradez, la diligencia, la eficiencia y la eficacia en el desempeño de sus labores, fomentar la vocación de servicio y el sentido de pertenencia, el desarrollo profesional y el reconocimiento social, los ayuntamientos promoverán la inclusión en el correspondiente presupuesto anual de egresos, las partidas presupuestales que consideren necesaria (sic) para proporcionar a los elementos policiales una mayor preparación académica y la capacitación adecuada.
 
 ###### ARTÍCULO 109.
 
@@ -2491,7 +2505,9 @@ La Profesionalización es el proceso permanente y progresivo de formación que s
 
 Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje con perspectivas de género, interés superior de la niñez, interculturalidad e interseccionalidad, de acuerdo al programa rector que apruebe el Sistema Nacional.
 
-### CAPÍTULO V. DERECHOS Y OBLIGACIONES DE LOS MIEMBROS
+### CAPÍTULO IV. CONDICIONES DEL SERVICIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 135.
 
@@ -2513,7 +2529,7 @@ V. Seguridad Social: Comprende todas aquellas prerrogativas de salud y las demá
 
 La persona titular del Poder Ejecutivo, la Secretaría, la Fiscalía General y los Municipios, en sus respectivos ámbitos de competencias, reglamentarán las condiciones del servicio.
 
-### CAPÍTULO VI. RÉGIMEN DISCIPLINARIO
+### CAPÍTULO V. DERECHOS Y OBLIGACIONES DE LOS MIEMBROS
 
 #### SECCIÓN SEGUNDA. SANCIONES
 
@@ -2677,7 +2693,7 @@ LIV. Proporcionar y cumplimentar medidas u órdenes de protección de las mujere
 
 LV. Las demás que establezcan las disposiciones legales aplicables.
 
-### CAPÍTULO VII. CONCLUSIÓN DEL SERVICIO E INDEMNIZACIÓN
+### CAPÍTULO VI. RÉGIMEN DISCIPLINARIO
 
 #### SECCIÓN CUARTA. SUSPENSIÓN PREVENTIVA
 
@@ -2781,7 +2797,9 @@ La imposición de las sanciones se hará con independencia de las que correspond
 
 El incumplimiento a las fracciones I a XXI del artículo 137 de la Ley será sancionado con cualquiera de las correcciones disciplinarias previstas en esta Ley.
 
-Para efectos de esta Ley son correcciones disciplinarias las señaladas en las fracciones I, II, III y IV del artículo 137 de la Ley.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+Para efectos de esta Ley son correcciones disciplinarias las señaladas en las fracciones I, II, III y IV del artículo 144 de la Ley.
 
 Las correcciones disciplinarias se aplicarán por quien ejerce el mando directo sobre la Institución Policial, por el jefe inmediato del Miembro o por quien se determine en los reglamentos en su caso.
 
@@ -3051,7 +3069,7 @@ Si el Miembro no hubiere señalado domicilio para oír y recibir notificaciones 
 
 Las notificaciones surtirán sus efectos al día siguiente al que se practiquen.
 
-### CAPÍTULO VIII. PRESCRIPCIÓN
+### CAPÍTULO VII. CONCLUSIÓN DEL SERVICIO E INDEMNIZACIÓN
 
 ###### ARTÍCULO 185.
 
@@ -3091,9 +3109,7 @@ La indemnización consiste en la cantidad equivalente a tres meses de la remuner
 
 En caso de separación voluntaria, los Miembros tendrán derecho a recibir las condiciones del servicio que se hubieran generado, en los términos de los reglamentos correspondientes.
 
-### CAPÍTULO IX. CERTIFICACIÓN
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+### CAPÍTULO VIII. PRESCRIPCIÓN
 
 ###### ARTÍCULO 188.
 
@@ -3113,7 +3129,7 @@ I. Con la celebración de la audiencia administrativa, y
 
 II. Con la interposición de algún juicio o medio de defensa en contra de la resolución que se hubiese emitido dentro del Procedimiento.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO IX. CERTIFICACIÓN
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -3173,7 +3189,9 @@ Las Instituciones de Seguridad Pública al recibir la notificación de la cancel
 
 ## TÍTULO DÉCIMO. BASES GENERALES DE LOS SISTEMAS DE SEGURIDAD SOCIAL EN FAVOR DE LOS MIEMBROS
 
-### CAPÍTULO II. PRESTACIONES DE SEGURIDAD SOCIAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 199.
 
@@ -3217,7 +3235,7 @@ III. De descuentos ordenados por la autoridad judicial competente que fueren exi
 
 IV. Del pago de impuestos consignados en las Leyes Fiscales, Federales y Estatales en atención a la remuneración a su trabajo, el monto total de los descuentos no podrá ser mayor del 30% de la remuneración total, excepto cuando se trate de abonos por créditos, obligaciones alimenticias o anticipos de remuneraciones concedidas por las autoridades públicas correspondientes. En cuyo caso se estará a lo ordenado por la autoridad judicial, tratándose de alimentos o a lo pactado en el acto jurídico respectivo, por el Miembro.
 
-### CAPÍTULO III. PENSIONES
+### CAPÍTULO II. PRESTACIONES DE SEGURIDAD SOCIAL
 
 ###### ARTÍCULO 206.
 
@@ -3283,7 +3301,7 @@ La remuneración que se tomará en cuenta para los efectos de esta Ley, será la
 
 La remuneración base de cotización no será menor a dos ni mayor a veinticinco veces del Salario Mínimo General vigente en la entidad, y se tomarán en cuenta para la determinación del monto de los Seguros, Pensiones y Préstamos que la misma establece.
 
-### CAPÍTULO IV. RESPONSABILIDAD Y OBLIGACIONES A CARGO DE LAS INSTITUCIONES POLICIALES
+### CAPÍTULO III. PENSIONES
 
 ###### ARTÍCULO 210.
 
@@ -3345,7 +3363,7 @@ III. Para la viuda o viudo, si vuelve a contraer nupcias o viviera en concubinat
 
 IV. Para la concubina o concubino si contraen nupcias, viven en nuevo concubinato o por resolución judicial.
 
-### CAPÍTULO V. OTROS BENEFICIOS COMPLEMENTARIOS DE SEGURIDAD SOCIAL
+### CAPÍTULO IV. RESPONSABILIDAD Y OBLIGACIONES A CARGO DE LAS INSTITUCIONES POLICIALES
 
 ###### ARTÍCULO 218.
 
@@ -3403,7 +3421,7 @@ Las madres policías durante los seis meses siguientes al vencimiento de la inca
 
 Corresponde al Comité de Género, vigilar que se cumpla en todos sus términos lo dispuesto por el presente artículo.
 
-### CAPÍTULO VI. CONTROVERSIAS EN LA APLICACIÓN DE LA LEY
+### CAPÍTULO V. OTROS BENEFICIOS COMPLEMENTARIOS DE SEGURIDAD SOCIAL
 
 ###### ARTÍCULO 222.
 
@@ -3417,7 +3435,7 @@ Se podrá conferir a los miembros de Instituciones Policiales una compensación 
 
 Las Instituciones de Seguridad Pública podrán celebrar Convenios con personas del sector público, social y privado con el objeto de que los Miembros reciban pases de acceso gratuito o descuentos en actividades sociales, culturales y deportivas. En estos casos, las áreas de recursos humanos en las Instituciones Obligadas darán a conocer los beneficios respectivos, por lo menos cada seis meses.
 
-### CAPÍTULO II. PRESTACIONES DE SEGURIDAD SOCIAL
+### CAPÍTULO VI. CONTROVERSIAS EN LA APLICACIÓN DE LA LEY
 
 ###### ARTÍCULO 225.
 
@@ -3562,3 +3580,23 @@ P.O. 5 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 120 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 7 Y 12 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ MISMO SE APRUEBA LA REFORMA AL ARTÍCULO 29 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE B.C.”.]
 
 Único. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 166 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 146 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 168 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 108 BIS A LA LEY DE (SIC) SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 169 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN CAPÍTULO IV, DENOMINADO DE LA PREVENCIÓN CIBERNÉTICA, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 57 BIS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Dentro de un plazo de 90 días naturales, contados a partir de la entrada en vigor de la presente reforma, se deberán realizar las adecuaciones reglamentarias correspondientes.
