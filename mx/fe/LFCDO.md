@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2021-05-20"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -110,6 +110,10 @@ IX. Los previstos en las fracciones I y II del artículo 8; así como las fracci
 
 X. Contra el Ambiente previsto en la fracción IV del artículo 420 del Código Penal Federal.
 
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2025)</small>
+
+XI. Los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en términos de lo dispuesto por el artículo 3o. de la presente Ley.
+
 > <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 Los delitos a que se refieren las fracciones previstas en el presente artículo que sean cometidos por algún miembro de la delincuencia organizada, serán investigados, procesados y sancionados conforme a las disposiciones de esta Ley.
@@ -128,11 +132,13 @@ Para acreditar la conducta señalada en el párrafo anterior, las confesionales 
 
 También se sancionará con las penas contenidas en el artículo 4o. de esta Ley a quien a sabiendas de la finalidad y actividad delictiva general de una organización criminal, participe intencional y activamente en sus actividades ilícitas u otras de distinta naturaleza cuando conozca que con su participación contribuye al logro de la finalidad delictiva.
 
-> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 3o.
 
-Las conductas que pudieran ser constitutivas de delitos del fuero común referidas en las fracciones V, VI y VII, así como las relativas a los delitos contra la salud en su modalidad narcomenudeo competencia de las autoridades locales referidas en la fracción IV, todas del artículo 2o. de la presente Ley, atribuibles a personas que forman parte de la delincuencia organizada, serán investigadas, perseguidas y, en su caso, procesadas conforme a las disposiciones de esta Ley siempre que el agente del Ministerio Público de la Federación ejerza la facultad de atracción o la competencia originaria, respectivamente. En estos casos, las autoridades judiciales federales serán las competentes para conocer tales delitos los cuales serán tipificados y sancionados conforme al ordenamiento penal de la entidad federativa aplicable en los casos de las fracciones V, VI y VII del artículo 2o. de esta Ley o bien, conforme a la legislación aplicable en los casos de los delitos contra la salud en su modalidad narcomenudeo referidos en la fracción IV del artículo 2o. de esta Ley.
+Las conductas que pudieran ser constitutivas de delitos del fuero común referidas en las fracciones V, VI y VII, así como las relativas a los delitos contra la salud en su modalidad narcomenudeo competencia de las autoridades locales referidas en la fracción IV, o de extorsión y otros delitos vinculados en la fracción XI, todas del artículo 2o. de la presente Ley, atribuibles a personas que forman parte de la delincuencia organizada, serán investigadas, perseguidas y, en su caso, procesadas conforme a las disposiciones de esta Ley siempre que el agente del Ministerio Público de la Federación ejerza la facultad de atracción o la competencia originaria, respectivamente. En estos casos, las autoridades judiciales federales serán las competentes para conocer tales delitos los cuales serán tipificados y sancionados conforme al ordenamiento penal de la entidad federativa aplicable en los casos de las fracciones V, VI y VII del artículo 2o. de esta Ley o bien, conforme a la legislación aplicable en los casos de los delitos contra la salud en su modalidad narcomenudeo referidos en la fracción IV o de extorsión y otros delitos vinculados en la fracción XI, del artículo 2o. de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 El delito de delincuencia organizada, así como los señalados en los artículos 2o., 2o. Bis y 2o. Ter de esta Ley, ameritarán prisión preventiva oficiosa.
 
@@ -921,3 +927,31 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Toda referencia al delito de extorsión contemplada en el Código Penal Federal, los códigos penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Cuarto. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
+
+Quinto. Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Sexto. En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
+
+Séptimo. Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Octavo. El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
+
+Noveno. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Décimo. En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
