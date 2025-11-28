@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2025-10-22"
+last_updated: "2025-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -97,7 +97,9 @@ V Bis. Consejos municipales: Los consejos municipales de turismo;
 
 VI. Cultura turística: el conjunto de conocimientos y valores, relativos a generar, propiciar y fortalecer la participación de las personas en la búsqueda de mejores condiciones para hacer posible la actividad turística de manera sustentable;
 
-VII. Equipo técnico específico: todos aquellos artículos indispensables para la práctica de una especialidad en turismo de aventura, cuya función principal es brindar al usuario márgenes de seguridad y comodidad para realizar la actividad;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+VII. Equipo técnico específico: todos aquellos artículos indispensables para la práctica de una especialidad en turismo de aventura y naturaleza, cuya función principal es brindar al usuario márgenes de seguridad y comodidad para realizar la actividad;
 
 VIII. Estado: el Estado Libre y Soberano de San Luis Potosí;
 
@@ -119,7 +121,9 @@ XVI. Patrimonio turístico: el conjunto de bienes y servicios de cualquier natur
 
 XVII. Planta turística: es el conjunto de elementos materiales, necesarios para la realización de la actividad turística;
 
-XVIII. Prestador de servicios de turismo de aventura: persona física o moral que legalmente ofrece servicios especializados para la realización de cualquier actividad recreativa, que involucren un nivel de habilidades a superar, en donde se participa de la armonía con el medio ambiente, respetando los recursos naturales y patrimonio cultural;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XVIII. Prestador de servicios de turismo de aventura y naturaleza: persona física o moral que legalmente ofrece servicios especializados para la realización de cualquier actividad recreativa, que involucren un nivel de habilidades a superar, en donde se participa de la armonía con el medio ambiente, respetando los recursos naturales y patrimonio cultural;
 
 XIX. Prestadores de servicios turísticos: las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley y su Reglamento;
 
@@ -159,7 +163,9 @@ XXXII. Turismo alternativo: los viajes que tienen como fin realizar actividades 
 
 XXXIII. Ecoturismo: producto turístico dirigido a los turistas que disfrutan de la historia natural, y que desean apoyar y participar activamente en la conservación del medio ambiente, realizando viajes que tienen como fin el realizar actividades recreativas de apreciación y conocimiento de la naturaleza, a través del contacto con la misma, generando beneficios económicos, ofreciendo oportunidades y alternativas de empleo;
 
-XXXIV. Turismo de aventura: viajes que tienen como fin realizar actividades recreativas, asociadas a desafíos impuestos por la naturaleza, respetando el patrimonio natural, cultural, turístico e histórico;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XXXIV. Turismo de aventura y naturaleza: viajes que tienen como fin realizar actividades recreativas, asociadas a desafíos impuestos por la naturaleza y los riesgos de esta, respetando el patrimonio natural, cultural, turístico e histórico;
 
 XXXV. Turismo rural: viajes que tienen como fin el realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la conservación de los ambientes en los que habitan;
 
@@ -181,13 +187,17 @@ XL. Zonas de desarrollo turístico sustentable: aquellas regiones claramente ubi
 
 XLI. Servicio de hospedaje: servicio turístico prestado en campamentos, hoteles, moteles, paraderos de casas rodantes y de tiempo compartido, posadas, suites y en todos los establecimientos que presten servicios de esta naturaleza, incluyendo servicios de hospedaje ofertados a través de plataformas digitales;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-XLII. Policía turística: se entiende por aquellos elementos que desempeñan tareas de proximidad social y vigilancia, en aras de prevención del delito, asistencia y apoyo al turista en caso de hechos delictivos, mismos que deberán portar un distintivo que los identifique para esos efectos, y
+XLII. Policía turística: se entiende por aquellos elementos que desempeñan tareas de proximidad social y vigilancia, en aras de prevención del delito, asistencia y apoyo al turista en caso de hechos delictivos, mismos que deberán portar un distintivo que los identifique para esos efectos;
 
-> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-XLIII. Enoturismo: tipo de turismo que tiene por propósito visitar y conocer zonas de cultivos y producción vinícola, así como participar en la realización de catas, eventos y festivales en torno a la cultura de la vid.
+XLIII. Enoturismo: tipo de turismo que tiene por propósito visitar y conocer zonas de cultivos y producción vinícola, así como participar en la realización de catas, eventos y festivales en torno a la cultura de la vida, y
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+XLIV. Operadoras de Servicios Turísticos de Aventura y Naturaleza (OSTAN): Personas físicas o morales que proporcionen o contraten con los turistas o usuarios, la prestación de los servicios turísticos especializados para la realización de cualquier actividad recreativa y/o deportiva que implique un nivel de reto a superar, en donde se participa de la armonía con el medio ambiente y respeto a los recursos naturales y culturales, que involucre cualquiera de las actividades de ecoturismo, turismo rural o turismo de aventura y naturaleza.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES; Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES
 
@@ -679,25 +689,35 @@ La Secretaría concertará con los prestadores de servicios turísticos, descuen
 
 En los espacios y actividades destinados al turismo infantil, los prestadores de servicios turísticos deberán contar con personal expresamente capacitado para garantizar la seguridad de los infantes, que hagan uso de las instalaciones y actividades a ellos reservadas.
 
-### Capítulo III. Del Turismo de Aventura
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
+### Capítulo III. Del Turismo de Aventura y Naturaleza
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 50.
 
-La Secretaría impulsará y promoverá el turismo de aventura, el cual comprende todos aquellos viajes que tienen como fin realizar actividades recreativas asociadas a desafíos impuestos por la naturaleza, en condiciones adecuadas de seguridad, dentro de las cuales se clasifican entre otras, buceo, rapel, ciclismo de montaña, descenso en ríos.
+La Secretaría impulsará y promoverá el turismo de aventura y naturaleza, el cual comprende todos aquellos viajes que tienen como fin realizar actividades recreativas asociadas a desafíos impuestos por la naturaleza, en condiciones adecuadas de seguridad, dentro de las cuales se clasifican entre otras, buceo, rapel, ciclismo de montaña, descenso en ríos.
 
 Las dependencias y las entidades de la administración pública del Estado, coordinarán y promoverán sus esfuerzos entre ellas, y con las de los gobiernos municipales, e impulsarán acciones con los sectores social y privado, para el fomento del turismo de aventura.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTICULO 51.
 
-Las empresas que se dediquen a prestar sus servicios para desarrollar turismo de aventura, deberán contar con el permiso de funcionamiento, y cumplir con los requisitos establecidos en el Reglamento derivado de la presente Ley.
+Las personas físicas, o morales que se dediquen a prestar sus servicios para desarrollar turismo de aventura y naturaleza, deberán contar con el permiso de funcionamiento, y cumplir con los requisitos establecidos en el Reglamento derivado de la presente Ley.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 52.
 
-Las empresas que obtengan el permiso de funcionamiento deberán cumplir en forma permanente, con las condiciones de operación establecidas en la normatividad vigente y demás ordenamientos legales relativos a la regulación de la prestación del servicio, por lo que para este fin la Secretaría realizará en forma periódica, visitas de verificación en los términos establecidos en la presente Ley y su Reglamento.
+Las personas físicas, o morales que obtengan el permiso de funcionamiento deberán cumplir en forma permanente con las condiciones de operación establecidas en la normatividad vigente y demás ordenamientos legales relativos a la regulación de la prestación del servicio, por lo que para este fin la Secretaría realizará en forma periódica, visitas de verificación en los términos establecidos en la presente Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTICULO 53.
 
-El prestador de servicios turísticos y el turista estarán obligados a respetar el medio ambiente en el que se desarrollen las actividades de turismo de aventura, para lo cual deberán apegarse a lo establecido en las leyes aplicables en la materia.
+El prestador de servicios turísticos y el turista, estarán obligados a respetar el medio ambiente en el que se desarrollen las actividades de turismo de aventura y naturaleza, para lo cual deberán apegarse a lo establecido en las leyes aplicables en la materia.
 
 ### Capítulo IV. De la Accesibilidad a los Servicios Turísticos
 
@@ -851,9 +871,9 @@ XV. Mantener en las mejores condiciones de higiene y eficacia los locales, insta
 
 XVI. Proporcionar la información que les soliciten las autoridades competentes, en todo lo relativo a los servicios que presten;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
 
-XVII. Cuando presten servicios relacionados con el turismo de aventura o cualquier otra actividad cuya práctica represente algún riesgo para la integridad física de sus usuarios, deberán contar con personal calificado y capacitado, así como proporcionar al usuario el equipo adecuado conforme a las normas oficiales vigentes;
+XVII. Cuando presten servicios relacionados con el turismo de aventura y naturaleza, o cualquier otra actividad cuya práctica represente algún riesgo para la integridad física de sus usuarios, deberán contar con personal calificado y capacitado, así como proporcionar al usuario el equipo adecuado conforme a las normas oficiales vigentes;
 
 > <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2023)</small>
 
@@ -1638,6 +1658,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 22 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0292.- QUE REFORMA EL ARTÍCULO 69, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0318.- QUE REALIZA ADICIÓN AL ARTÍCULO 4º Y REFORMA LOS ARTÍCULOS 4º, 50, 51, 52, 53, 67 Y EL TÍTULO DEL CAPÍTULO III DEL TÍTULO SEXTO, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
