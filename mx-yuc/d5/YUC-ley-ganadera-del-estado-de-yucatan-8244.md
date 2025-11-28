@@ -4,7 +4,7 @@ identifier: "YUC-ley-ganadera-del-estado-de-yucatan-8244"
 country: "mx"
 rank: "ley"
 publication_date: "1972-10-16"
-last_updated: "2019-07-31"
+last_updated: "2025-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY GANADERA DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE LA GANADERÍA PARA EL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 28 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY GANADERA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE NOVIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 16 de octubre de 1972.
 
@@ -1642,3 +1644,63 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 28 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE LA GANADERÍA PARA EL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Actos en trámite
+
+Artículo segundo. Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto concluirán en términos de la ley en la materia que se abroga en el artículo octavo transitorio de este decreto.
+
+Salvaguarda de derechos
+
+Artículo tercero. Los permisos, licencias y demás autorizaciones otorgados a las personas ganaderas respecto a la instalación y funcionamiento de corrales, establos y en general cualquier instalación donde se desarrollen actividades agropecuarias previstas en esta ley, mantendrán su vigencia en los términos y plazos en los que fueron otorgados.
+
+Sin perjuicio de lo anterior, la Secretaría de Desarrollo Rural, la Secretaría de Salud y la Secretaría de Desarrollo Sustentable podrán en cualquier momento revisar las condiciones en las que se desarrollan las actividades agropecuarias con la finalidad de asegurarse y garantizar la sanidad y cuidado de los animales.
+
+Previsiones presupuestales
+
+Artículo cuarto. El Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, en la elaboración del proyecto de Presupuesto de Egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para su debida aplicación.
+
+Sistema de trazabilidad ganadera
+
+Artículo quinto. La Secretaría, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, desarrollará e implementará un Sistema Estatal de Información y Seguimiento Ganadero, como mecanismo de coordinación y complemento a los registros federales en materia de identificación, trazabilidad y movilización ganadera.
+
+El Sistema tendrá por objeto:
+
+I.- Integrar y actualizar, para uso estatal, la información proveniente del Sistema Nacional de Identificación Individual de Ganado, del Registro de Unidades de Producción Pecuaria, y de los sistemas federales de movilización y vigilancia zoosanitaria.
+
+II.- Fortalecer la vigilancia epidemiológica, la respuesta oportuna ante emergencias zoosanitarias y la planeación de campañas sanitarias.
+
+III.- Optimizar la supervisión y control de la movilización pecuaria dentro del territorio estatal.
+
+IV.- Facilitar la toma de decisiones en materia de fomento pecuario y sanidad animal.
+
+El Sistema no sustituirá ni duplicará los registros o plataformas federales, y operará en coordinación permanente con la Secretaría de Agricultura y Desarrollo Rural del gobierno federal y el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria.
+
+Para su implementación, el Poder Ejecutivo del Estado deberá:
+
+I.- Establecer convenios de intercambio de información con la autoridad sanitaria federal.
+
+II.- Garantizar la compatibilidad con los sistemas federales.
+
+III.- Respetar los criterios y estándares federales de identificación y trazabilidad.
+
+La Secretaría expedirá los lineamientos técnicos para el uso, actualización y acceso del Sistema, garantizando la protección de datos personales y la seguridad de la información.
+
+Expedición de reglamento
+
+Artículo sexto. El Poder Ejecutivo del Estado, en un plazo no mayor a los 180 días naturales contado a partir de la entrada en vigor del presente decreto deberá expedir el reglamento de la presente ley y, en su caso, realizar las modificaciones necesarias a los existentes en materia de desarrollo rural sustentable, protección al medio ambiente y de salud en el Estado.
+
+Consejo Consultivo Ganadero
+
+Artículo séptimo. El Poder Ejecutivo del Estado, deberá realizar las designaciones e instalar el Consejo Consultivo Ganadero en un plazo no mayor a los 180 días naturales siguientes a la entrada en vigor del presente decreto.
+
+Cláusula derogatoria
+
+Artículo octavo. Se abroga la Ley Ganadera del Estado de Yucatán de fecha 16 de octubre de 1972, publicada mediante el decreto 168 del Diario Oficial del Gobierno del Estado de Yucatán.
